@@ -1307,7 +1307,7 @@ def fetch_single_feed(feed: dict, max_age_minutes: int = MAX_NEWS_AGE_MINUTES) -
 
 
 # ==============================================================================
-# 8. 출력 양식 포맷터 (시안 1 유지: 2줄 PB 인용구 카드형)
+# 8. 출력 양식 포맷터 (시안 1: 언론사 + 원문 링크 / 한국어 번역 2줄 미니멀형)
 # ==============================================================================
 def format_telegram_message(item: dict, style: int = DEFAULT_STYLE) -> str:
     safe_source = html.escape(item["source"].upper())
@@ -1318,8 +1318,8 @@ def format_telegram_message(item: dict, style: int = DEFAULT_STYLE) -> str:
 
     if style == 1:
         return (
-            f"<blockquote><b><code>{safe_source}</code> ｜ {safe_cat}</b>\n"
-            f'<a href="{safe_url}"><b>{safe_title}</b></a></blockquote>'
+            f'<b>{safe_source}</b> · <a href="{safe_url}">원문 ↗</a>\n'
+            f"<b>{safe_title}</b>"
         )
     elif style == 2:
         return f'<code>{safe_source}</code> ▸ <a href="{safe_url}"><b>{safe_title}</b></a>'
