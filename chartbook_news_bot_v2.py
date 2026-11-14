@@ -1318,7 +1318,7 @@ def format_telegram_message(item: dict, style: int = DEFAULT_STYLE) -> str:
 
     if style == 1:
         return (
-            f'<b>{safe_source}</b> · <a href="{safe_url}">원문 ↗</a>\n'
+            f'<b>{safe_source}</b> · <a href="{safe_url}">원문 ↗</a>\n\n'
             f"<b>{safe_title}</b>"
         )
     elif style == 2:
