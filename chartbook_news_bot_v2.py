@@ -3,8 +3,8 @@
 ChartBook Global & Korea Breaking News Telegram Bot v2 (@chartbooknews)
 - v1(chartbook_news_bot.py) 원본 보존 + @hyperspect 역설계 기반 실시간 스쿼크(방안 A) 통합 업그레이드 버전
 - v2 주요 업그레이드:
-  1) 텔레그램 실시간 스쿼크 3개 채널 추가 수집 (방안 A: 인증/비용 0원 공개 웹 프리뷰 `t.me/s/` 실시간 파서)
-     - @WalterBloomberg, @firstsquaw, @marketfeed 연동으로 외신 RSS 색인 전(1~2분 선행) 단독·카더라 속보 포착
+  1) 텔레그램 실시간 스쿼크 4개 채널 추가 수집 (방안 A: 인증/비용 0원 공개 웹 프리뷰 `t.me/s/` 실시간 파서)
+     - @WalterBloomberg, @firstsquaw, @breakingmarketnews, @marketfeed 연동으로 외신 RSS 색인 전(1~2분 선행) 단독·카더라 속보 포착
      - 원문 내 인용 매체(FT, WSJ, Bloomberg, Reuters 등) 자동 추출 및 텔레그램 직결 퍼머링크/원문 링크 연결
      - @hyperspect 파서의 콜론 공백 유실 버그(AFPThe 등) 방지 및 단순 인사/성명서 도배·홍보 문구 원천 차단
   2) 시장 파급력이 큰 지정학·안보·에너지 카테고리 추가 (`지정학·안보`) + 기존 반도체/AI/빅테크/매크로/한국 탑티어 38개 피드 유지
@@ -152,6 +152,8 @@ PUBLISHER_NORMALIZE = {
     "walterbloomberg": "WalterBloomberg",
     "firstsquawk": "FirstSquawk",
     "firstsquaw": "FirstSquawk",
+    "breakingmarketnews": "BreakingMarketNews",
+    "breaking market news": "BreakingMarketNews",
     "marketfeed": "MarketFeed",
     "nytimes": "NYT",
     "nyt": "NYT",
@@ -242,6 +244,13 @@ FEEDS = [
         "type": "tg_web",
         "url": "https://t.me/s/firstsquaw",
         "priority": 1,
+    },
+    {
+        "name": "BreakingMarketNews",
+        "tier": "SQUAWK",
+        "type": "tg_web",
+        "url": "https://t.me/s/breakingmarketnews",
+        "priority": 2,
     },
     {
         "name": "MarketFeed",
@@ -1014,8 +1023,8 @@ def clean_raw_headline(title: str) -> str:
 
 def extract_squawk_source_and_title(full_text: str, default_source: str) -> tuple[str, str, str]:
     """
-    텔레그램 스쿼크(@WalterBloomberg, @firstsquaw, @marketfeed)의 원문에서
-    1) 서명/추적 태그((@FirstSquaw), ...) 제거
+    텔레그램 스쿼크(@WalterBloomberg, @firstsquaw, @breakingmarketnews, @marketfeed)의 원문에서
+    1) 서명/추적 태그((@FirstSquaw), (@BreakingMarketNews), ...) 제거
     2) 콜론/줄바꿈 공백 손실 방지
     3) 2줄 카드용 간결 헤드라인(title_raw)과 카테고리 판별용 보조 문맥(context_en) 분리
     4) 신뢰 매체 접미사(- FT, - WSJ 등) 자동 추출
@@ -1026,9 +1035,14 @@ def extract_squawk_source_and_title(full_text: str, default_source: str) -> tupl
         if not ln:
             continue
         # 채널 서명·말줄임 링크·X 홍보줄 제거
-        ln = re.sub(r"\(\s*@(?:FirstSquaw|WalterBloomberg|MarketFeed)\s*\)$", "", ln, flags=re.IGNORECASE).strip()
+        ln = re.sub(
+            r"\(\s*@(?:FirstSquaw|WalterBloomberg|BreakingMarketNews|MarketFeed)\s*\)$",
+            "",
+            ln,
+            flags=re.IGNORECASE,
+        ).strip()
         ln = re.sub(r"\s*\.\.\.$", "", ln).strip()
-        if not ln or ln in ("...", "(@FirstSquaw)", "(@WalterBloomberg)"):
+        if not ln or ln.lower() in ("...", "(@firstsquaw)", "(@walterbloomberg)", "(@breakingmarketnews)", "(@marketfeed)"):
             continue
         if ln.lower().startswith(("follow us on x", "join our", "subscribe to")):
             continue
@@ -1567,7 +1581,9 @@ def main():
     logger.info("=================================================================")
     logger.info(f"🚀 ChartBook News Bot v2 가동 (시안 {args.style}번 | 실시간 {args.max_age}분 타임락)")
     logger.info(f"   - 타깃 채널: {TELEGRAM_CHAT_ID} {'[DRY-RUN]' if args.dry_run else ''}")
-    logger.info(f"   - 모니터링 피드: {len(FEEDS)}개 (글로벌/한국 38개 + 텔레그램 실시간 스쿼크 3개)")
+    squawk_cnt = sum(1 for f in FEEDS if f.get("type") == "tg_web")
+    rss_cnt = len(FEEDS) - squawk_cnt
+    logger.info(f"   - 모니터링 피드: {len(FEEDS)}개 (글로벌/한국 {rss_cnt}개 + 텔레그램 실시간 스쿼크 {squawk_cnt}개)")
     logger.info(f"   - 누적 중복방지 해시: {len(store.id_hashes)}건")
     logger.info("=================================================================")
 
