@@ -1,5 +1,6 @@
 # 로컬 비밀 환경변수 및 로그 파일 제외 (GitHub에 토큰 유출 방지)
 .env
+.github_token
 *.log
 *.db
 __pycache__/
