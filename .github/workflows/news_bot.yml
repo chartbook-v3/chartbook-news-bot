@@ -38,7 +38,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: '@chartbooknews'
         run: |
-          python chartbook_news_bot.py --once --style 1 --max-age 45
+          python chartbook_news_bot_v2.py --once --style 1 --max-age 45
 
       - name: 5. 발송 이력(sent_history.json) 저장소 자동 백업 (중복 발송 영구 방지)
         run: |
