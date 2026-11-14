@@ -9,7 +9,7 @@
 `C:\Users\최명식\.gemini\antigravity\scratch\global_news_telegram_bot` 폴더의 아래 파일들을 그대로 GitHub 저장소에 올리시면 됩니다.
 
 1. `.github/workflows/news_bot.yml` : GitHub 서버에서 자동으로 봇(v2)을 실행하고 발송 기록을 저장하는 스케줄러 설정 파일
-2. `chartbook_news_bot_v2.py` : 41개 피드(글로벌/한국 38개 + 텔레그램 실시간 스쿼크 3개 `@WalterBloomberg`, `@firstsquaw`, `@marketfeed`) 스캔, 45분 실시간 타임락 + 3중 원문 발행시각 검증, 3중 유사도 중복 제거, 시안 1(2줄) 카드 발송 v2 메인 엔진
+2. `chartbook_news_bot_v2.py` : 42개 피드(글로벌/한국 38개 + 텔레그램 실시간 스쿼크 4개 `@WalterBloomberg`, `@firstsquaw`, `@breakingmarketnews`, `@marketfeed`) 스캔, 45분 실시간 타임락 + 3중 원문 발행시각 검증, 3중 유사도 중복 제거, 시안 1(2줄) 카드 발송 v2 메인 엔진
 3. `chartbook_news_bot.py` : v1 기존 백업 엔진
 4. `sent_history.json` : 이미 보낸 기사 해시 및 제목 목록 (중복 발송 영구 방지용)
 5. `requirements.txt` : 파이썬 필수 패키지 목록 (`requests`, `urllib3`, `beautifulsoup4`)
