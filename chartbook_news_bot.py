@@ -22,9 +22,11 @@ import subprocess
 import urllib.parse
 import xml.etree.ElementTree as ET
 from difflib import SequenceMatcher
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
+
+KST = timezone(timedelta(hours=9))
 
 import requests
 import urllib3
@@ -427,6 +429,8 @@ NOISE_BLACKLIST = [
     "팬미팅", "콘서트", "음주", "면허취소", "배우 ", "가수 ", "아이돌", "드라마", "예능", "연예",
     "살인", "폭행", "구속", "체포", "실종", "화재", "소주한잔", "백화점", "팝업스토어", "프로야구", "kbo",
     "출발편", "결항", "관제 통신", "시네마크", "부고", "인사", "동정", "포토",
+    "[스팟]", "[코스피]", "[코스닥]", "[시황]", "장중시황", "마감시황", "마감 시황",
+    "multifamily", "real estate", "globe newswire", "pr newswire",
 ]
 
 RUMOR_REGEX = re.compile(
@@ -657,55 +661,206 @@ class HistoryStore:
 def resolve_canonical_url(url: str) -> str:
     if "news.google.com" not in url or "/articles/" not in url:
         return url
-    try:
-        art_id = url.split("/articles/")[1].split("?")[0]
-        gn_ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-        r1 = requests.get(
-            f"https://news.google.com/rss/articles/{art_id}",
-            headers={"User-Agent": gn_ua},
-            verify=False,
-            timeout=(4, 6),
-        )
-        ts = re.search(r'data-n-a-ts="([^"]+)"', r1.text)
-        sg = re.search(r'data-n-a-sg="([^"]+)"', r1.text)
-        if ts and sg:
-            req_inner = [
-                "garturlreq",
-                [
-                    ["X", "X", ["X", "X"], None, None, 1, 1, "US:en", None, 1, None, None, None, None, None, 0, 1],
-                    "X",
-                    "X",
-                    1,
-                    [1, 1, 1],
-                    1,
-                    1,
-                    None,
-                    0,
-                    0,
-                    None,
-                    0,
-                ],
-                art_id,
-                int(ts.group(1)),
-                sg.group(1),
-            ]
-            payload = [[["Fbv4je", json.dumps(req_inner), None, "generic"]]]
-            r2 = requests.post(
-                "https://news.google.com/_/DotsSplashUi/data/batchexecute",
-                headers={
-                    "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
-                    "User-Agent": gn_ua,
-                },
-                data="f.req=" + urllib.parse.quote(json.dumps(payload)),
+    art_id = url.split("/articles/")[1].split("?")[0]
+    gn_ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+    for attempt in range(2):
+        try:
+            r1 = requests.get(
+                f"https://news.google.com/rss/articles/{art_id}",
+                headers={"User-Agent": gn_ua},
                 verify=False,
                 timeout=(4, 6),
             )
-            m = re.search(r'\\"garturlres\\",\\"([^\\"]+)\\"', r2.text)
-            if m:
-                return m.group(1)
-    except Exception as e:
-        logger.debug(f"Canonical URL 변환 예외 ({url[:50]}): {e}")
+            ts = re.search(r'data-n-a-ts="([^"]+)"', r1.text)
+            sg = re.search(r'data-n-a-sg="([^"]+)"', r1.text)
+            if ts and sg:
+                req_inner = [
+                    "garturlreq",
+                    [
+                        ["X", "X", ["X", "X"], None, None, 1, 1, "US:en", None, 1, None, None, None, None, None, 0, 1],
+                        "X",
+                        "X",
+                        1,
+                        [1, 1, 1],
+                        1,
+                        1,
+                        None,
+                        0,
+                        0,
+                        None,
+                        0,
+                    ],
+                    art_id,
+                    int(ts.group(1)),
+                    sg.group(1),
+                ]
+                payload = [[["Fbv4je", json.dumps(req_inner), None, "generic"]]]
+                r2 = requests.post(
+                    "https://news.google.com/_/DotsSplashUi/data/batchexecute",
+                    headers={
+                        "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
+                        "User-Agent": gn_ua,
+                    },
+                    data="f.req=" + urllib.parse.quote(json.dumps(payload)),
+                    verify=False,
+                    timeout=(4, 6),
+                )
+                m = re.search(r'\\"garturlres\\",\\"([^"]+)\\"', r2.text)
+                if m:
+                    raw_escaped = m.group(1)
+                    return (
+                        raw_escaped.replace(r"\\u003d", "=")
+                        .replace(r"\u003d", "=")
+                        .replace(r"\\u0026", "&")
+                        .replace(r"\u0026", "&")
+                        .replace(r"\\/", "/")
+                        .replace(r"\/", "/")
+                    )
+        except Exception as e:
+            logger.debug(f"Canonical URL 변환 예외 (시도 {attempt+1}/2, {url[:50]}): {e}")
+        time.sleep(0.4)
     return url
+
+
+def _parse_any_meta_datetime(raw_str: str, is_korean_site: bool = False) -> datetime | None:
+    s = html.unescape(raw_str).strip()
+    if not s:
+        return None
+    # 1) 14자리 또는 12자리 숫자형 타임스탬프 (예: 20261113090052)
+    m_num = re.match(r"^(20[2-3]\d)(0[1-9]|1[0-2])(0[1-9]|[12]\d|3[01])([01]\d|2[0-3])([0-5]\d)([0-5]\d)?$", s)
+    if m_num:
+        yy, mm, dd, hh, mi, ss = (
+            int(m_num.group(1)),
+            int(m_num.group(2)),
+            int(m_num.group(3)),
+            int(m_num.group(4)),
+            int(m_num.group(5)),
+            int(m_num.group(6) or 0),
+        )
+        tz = KST if is_korean_site else timezone.utc
+        return datetime(yy, mm, dd, hh, mi, ss, tzinfo=tz).astimezone(timezone.utc)
+
+    # 2) ISO-8601 / RFC-2822 표준 파싱
+    s_norm = s.replace("Z", "+00:00")
+    try:
+        dt = datetime.fromisoformat(s_norm)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=KST if is_korean_site else timezone.utc)
+        return dt.astimezone(timezone.utc)
+    except Exception:
+        pass
+
+    try:
+        dt = parsedate_to_datetime(s)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=KST if is_korean_site else timezone.utc)
+        return dt.astimezone(timezone.utc)
+    except Exception:
+        pass
+
+    # 3) "YYYY-MM-DD HH:MM(:SS)" 또는 "YYYY.MM.DD HH:MM(:SS)" 포맷
+    m_dt = re.search(
+        r"(20[2-3]\d)[-./](0[1-9]|1[0-2])[-./](0[1-9]|[12]\d|3[01])\s+([01]\d|2[0-3]):([0-5]\d)(?::([0-5]\d))?",
+        s,
+    )
+    if m_dt:
+        yy, mm, dd, hh, mi, ss = (
+            int(m_dt.group(1)),
+            int(m_dt.group(2)),
+            int(m_dt.group(3)),
+            int(m_dt.group(4)),
+            int(m_dt.group(5)),
+            int(m_dt.group(6) or 0),
+        )
+        tz = KST if is_korean_site else timezone.utc
+        return datetime(yy, mm, dd, hh, mi, ss, tzinfo=tz).astimezone(timezone.utc)
+
+    return None
+
+
+def verify_true_publication_age(final_url: str, max_age_minutes: int = MAX_NEWS_AGE_MINUTES) -> tuple[bool, str]:
+    """
+    Google News RSS가 과거 기사를 뒤늦게 재수집(Re-indexing)하면서 RSS <pubDate>를 현재 시각으로
+    찍어 보내는 왜곡 현상을 100% 차단하기 위한 3중 실제 발행시각 교차검증 엔진:
+      [1단계] URL 내장 12~14자리 타임스탬프(예: 20261113085053) 검사
+      [2단계] URL 내장 날짜 경로(예: /2026/11/13/, /2026-11-13/, 20261113) 검사
+      [3단계] 원문 HTML 메타데이터(article:published_time, datePublished, og:regDate 등) 실증 대조
+    """
+    now_utc = datetime.now(timezone.utc)
+    now_kst = now_utc.astimezone(KST)
+    u_low = final_url.lower()
+    is_kr = any(
+        k in u_low
+        for k in (
+            ".kr",
+            "hankyung.com",
+            "chosun.com",
+            "investchosun.com",
+            "biospectator.com",
+        )
+    )
+
+    # [1단계] URL 내 12~14자리 연속 타임스탬프(YYYYMMDDHHMM[SS]) 추출 검증
+    for m_ts in re.finditer(
+        r"(?<!\d)(20[2-3]\d)(0[1-9]|1[0-2])(0[1-9]|[12]\d|3[01])([01]\d|2[0-3])([0-5]\d)([0-5]\d)?",
+        final_url,
+    ):
+        try:
+            yy, mm, dd, hh, mi, ss = (
+                int(m_ts.group(1)),
+                int(m_ts.group(2)),
+                int(m_ts.group(3)),
+                int(m_ts.group(4)),
+                int(m_ts.group(5)),
+                int(m_ts.group(6) or 0),
+            )
+            tz = KST if is_kr else timezone.utc
+            url_dt = datetime(yy, mm, dd, hh, mi, ss, tzinfo=tz).astimezone(timezone.utc)
+            age_m = (now_utc - url_dt).total_seconds() / 60.0
+            if age_m > max_age_minutes + 5:
+                return False, f"URL 타임스탬프 초과 ({age_m:.0f}분 전 기사: {yy}-{mm:02d}-{dd:02d} {hh:02d}:{mi:02d})"
+        except ValueError:
+            pass
+
+    # [2단계] URL 내 날짜(YYYY/MM/DD, YYYY-MM-DD, YYYYMMDD) 추출 검증
+    date_matches = list(
+        re.finditer(r"(?:^|[/_\-=])(20[2-3]\d)[/\-_]?(0[1-9]|1[0-2])[/\-_]?(0[1-9]|[12]\d|3[01])(?:[/_\-.]|$|\d)", final_url)
+    )
+    for m_d in date_matches:
+        try:
+            yy, mm, dd = int(m_d.group(1)), int(m_d.group(2)), int(m_d.group(3))
+            url_date = datetime(yy, mm, dd).date()
+            ref_now = now_kst if is_kr else now_utc
+            earliest_allowed_date = (ref_now - timedelta(minutes=max_age_minutes + 30)).date()
+            if url_date < earliest_allowed_date:
+                return False, f"과거 일자 URL 차단 (URL 날짜: {url_date} < 허용 기준일: {earliest_allowed_date})"
+        except ValueError:
+            pass
+
+    # [3단계] 원문 HTML 접속 후 article:published_time / datePublished / og:regDate 메타태그 실증 검증
+    if "news.google.com" not in u_low:
+        try:
+            r = requests.get(final_url, headers=HEADERS, verify=False, timeout=(3, 5))
+            if r.status_code == 200 and r.text:
+                head_html = r.text[:70000]
+                meta_patterns = [
+                    r'<meta[^>]+(?:property|name|itemprop)=["\'](?:article:published_time|og:article:published_time|datePublished|pubdate|og:regDate|sailthru\.date|parsely-pub-date|dc\.date\.issued|dcterms\.created)["\'][^>]+content=["\']([^"\']+)["\']',
+                    r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name|itemprop)=["\'](?:article:published_time|og:article:published_time|datePublished|pubdate|og:regDate|sailthru\.date|parsely-pub-date|dc\.date\.issued|dcterms\.created)["\']',
+                    r'"datePublished"\s*:\s*"([^"]+)"',
+                ]
+                for pat in meta_patterns:
+                    m_meta = re.search(pat, head_html, flags=re.IGNORECASE)
+                    if m_meta:
+                        meta_dt = _parse_any_meta_datetime(m_meta.group(1), is_korean_site=is_kr)
+                        if meta_dt is not None:
+                            age_m = (now_utc - meta_dt).total_seconds() / 60.0
+                            if age_m > max_age_minutes + 5:
+                                return False, f"HTML 원문 발행시각 초과 ({age_m:.0f}분 전 발행: {m_meta.group(1)})"
+                            break
+        except Exception as e:
+            logger.debug(f"HTML 발행시각 검증 패스 ({final_url[:45]}): {e}")
+
+    return True, "OK"
 
 
 # ==============================================================================
@@ -1010,11 +1165,13 @@ def run_cycle(store: HistoryStore, style: int = DEFAULT_STYLE, max_age_minutes: 
         logger.info(f"스캔 완료 ({time.time() - start_t:.1f}초): 최근 {max_age_minutes}분 내 신규 해당 속보 없음")
         return 0
 
-    to_send = new_qualified[:MAX_SEND_PER_CYCLE]
+    to_send = new_qualified[: MAX_SEND_PER_CYCLE * 2]
     to_send.sort(key=lambda x: x["pub_dt"].timestamp())
 
     sent_count = 0
     for item in to_send:
+        if sent_count >= MAX_SEND_PER_CYCLE:
+            break
         # 발송 직전 방금 보낸 앞 기사와 유사한지 한 번 더 체크 (동일 사이클 내 이종 매체 중복 보도 차단)
         title_ko = item.get("pre_translated_ko") or translate_to_korean(item["cleaned_title"])
         if store.is_duplicate_or_similar(item["id_hash"], item["title_hash"], item["cleaned_title"], title_ko):
@@ -1027,6 +1184,14 @@ def run_cycle(store: HistoryStore, style: int = DEFAULT_STYLE, max_age_minutes: 
             continue
 
         final_url = resolve_canonical_url(item["url"]) if item["is_gn"] else item["url"]
+
+        # [핵심 방어벽] Google News RSS 재수집(Re-indexing)으로 인한 과거 기사 위장 발송 100% 차단
+        is_fresh, fresh_reason = verify_true_publication_age(final_url, max_age_minutes=max_age_minutes)
+        if not is_fresh:
+            logger.info(f"[과거 기사 재수집 차단] [{item['source']}] {title_ko} -> {fresh_reason}")
+            store.record_seen(item["id_hash"], item["title_hash"])
+            continue
+
         item["final_url"] = final_url
         item["title_ko"] = title_ko
         item["category"] = cat_label
