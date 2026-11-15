@@ -82,8 +82,8 @@ TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "@chartbooknews").strip()
 
 POLL_INTERVAL_SECONDS = 180   # 로컬 실행 시 3분 주기
-MAX_NEWS_AGE_MINUTES = 45     # [핵심] 최근 45분 이내에 발행된 따끈따끈한 실시간 속보만 허용
-MAX_SEND_PER_CYCLE = 8        # 1회 스캔 시 최대 발송 건수 (스쿼크 채널 합류 반영)
+MAX_NEWS_AGE_MINUTES = 60     # 최근 60분 이내 발행 속보 허용 (RSS 색인 지연 보완)
+MAX_SEND_PER_CYCLE = 12       # 1회 스캔 시 최대 발송 건수 (동시 다발 속보 누락 방지)
 DEFAULT_STYLE = 1             # 시안 1 확정 (2줄 PB 인용구 카드형)
 HISTORY_RETENTION_DAYS = 7    # 중복 방지 기록 보관 일수 (7일)
 
@@ -521,6 +521,7 @@ NOISE_BLACKLIST = [
     "gaza strip", "palestinian", "west bank", "israeli airstrike", "israeli attacks",
     "humanitarian aid", "displaced people", "aid entering", "aid restrictions", "medical complex",
     "settlement plans", "settlers attacked", "checkpoint", "killed and", "wounded in",
+    "khan younis", "hamas", "prince william", "princess kate", "royal family",
     "국가의료보험", "의약품 목록", "폭우", "태풍", "여객선", "항공편 취소", "그래미",
     "팬미팅", "콘서트", "음주", "면허취소", "배우 ", "가수 ", "아이돌", "드라마", "예능", "연예",
     "살인", "폭행", "구속", "체포", "실종", "화재", "소주한잔", "백화점", "팝업스토어", "프로야구",
@@ -628,6 +629,10 @@ def evaluate_article(
 
     if not matched_cat and source in ("TrendForce", "DigiTimes", "SemiAnalysis", "The Information", "Betaville"):
         matched_cat = "반도체·공급망" if source in ("TrendForce", "DigiTimes", "SemiAnalysis") else "카더라·단독"
+
+    # 스쿼크 전용 채널(tier == "SQUAWK")은 노이즈 블랙리스트 통과 시 포괄 수집 허용
+    if not matched_cat and tier == "SQUAWK":
+        matched_cat = "시장속보"
 
     if not matched_cat:
         return False, "", False
@@ -1245,7 +1250,7 @@ def fetch_single_feed(feed: dict, max_age_minutes: int = MAX_NEWS_AGE_MINUTES) -
 
         if feed["type"] == "tg_web":
             tg_items = _extract_tg_web_messages(r.text)
-            for post_path, dt_str, text_val, hrefs in tg_items[-20:]:
+            for post_path, dt_str, text_val, hrefs in tg_items[-40:]:
                 pub_dt = parse_pub_date(dt_str)
                 if pub_dt is None:
                     continue
@@ -1610,7 +1615,7 @@ def main():
     parser.add_argument("--once", action="store_true", help="1회 또는 GitHub Actions 3연속 스캔 + 릴레이 실행")
     parser.add_argument("--style", type=int, default=DEFAULT_STYLE, help="출력 시안 번호 (기본값: 1)")
     parser.add_argument("--interval", type=int, default=POLL_INTERVAL_SECONDS, help="스캔 주기(초), 기본 180초")
-    parser.add_argument("--max-age", type=int, default=MAX_NEWS_AGE_MINUTES, help="최대 허용 기사 경과 시간(분), 기본 45분")
+    parser.add_argument("--max-age", type=int, default=MAX_NEWS_AGE_MINUTES, help="최대 허용 기사 경과 시간(분), 기본 60분")
     parser.add_argument("--dry-run", action="store_true", help="텔레그램 실제 발송 없이 콘솔 미리보기 및 필터 검증만 수행")
     args = parser.parse_args()
 
