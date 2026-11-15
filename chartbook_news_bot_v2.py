@@ -1343,8 +1343,33 @@ def fetch_single_feed(feed: dict, max_age_minutes: int = MAX_NEWS_AGE_MINUTES) -
 
 
 # ==============================================================================
-# 8. 출력 양식 포맷터 (시안 1: 언론사명 링크 + 본문 검정 일반 텍스트 2단 미니멀형)
+# 8. 출력 양식 포맷터 (시안 1: 국내 매체 프리뷰 카드형 + 해외/스쿼크 언론사 링크형 하이브리드)
 # ==============================================================================
+KOREAN_MEDIA_HOSTS = (
+    "yna.co.kr", "einfomax.co.kr", "hankyung.com", "mk.co.kr", "sedaily.com",
+    "edaily.co.kr", "mt.co.kr", "biz.chosun.com", "chosun.com", "chosunbiz.com",
+    "etnews.com", "thelec.kr", "zdnet.co.kr", "ddaily.co.kr", "electimes.com",
+    "irobotnews.com", "biospectator.com", "thebell.co.kr", "investchosun.com",
+    "dealsite.co.kr", "infostockdaily.co.kr",
+)
+
+
+def is_korean_media(item: dict) -> bool:
+    """국내 매체 여부를 판별해 링크 프리뷰 카드+투명 링크 분기 적용에 사용합니다."""
+    source = item.get("source", "")
+    if re.search(r"[\uac00-\ud7a3]", source):
+        return True
+    raw_title = item.get("cleaned_title") or item.get("title_raw") or ""
+    if len(re.findall(r"[\uac00-\ud7a3]", raw_title)) >= 3:
+        return True
+    url = item.get("final_url") or item.get("url") or ""
+    if url:
+        host = urllib.parse.urlparse(url).netloc.lower()
+        if host.endswith(".kr") or any(host == d or host.endswith("." + d) for d in KOREAN_MEDIA_HOSTS):
+            return True
+    return False
+
+
 def format_telegram_message(item: dict, style: int = DEFAULT_STYLE) -> str:
     safe_source = html.escape(item["source"].upper())
     safe_source_orig = html.escape(item["source"])
@@ -1353,6 +1378,11 @@ def format_telegram_message(item: dict, style: int = DEFAULT_STYLE) -> str:
     safe_url = html.escape(item["final_url"], quote=True)
 
     if style == 1:
+        if is_korean_media(item):
+            return (
+                f'<b>{safe_source}</b><a href="{safe_url}">&#8203;</a>\n\n'
+                f"{safe_title}"
+            )
         return (
             f'<a href="{safe_url}"><b>{safe_source}</b></a>\n\n'
             f"{safe_title}"
@@ -1386,11 +1416,12 @@ def send_telegram_alert(item: dict, style: int = DEFAULT_STYLE, dry_run: bool = 
         return False
 
     api_url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+    use_preview = style == 1 and is_korean_media(item)
     payload = {
         "chat_id": TELEGRAM_CHAT_ID,
         "text": msg,
         "parse_mode": "HTML",
-        "disable_web_page_preview": True,
+        "disable_web_page_preview": not use_preview,
         "disable_notification": is_quiet_hours_kst(),
     }
     for attempt in range(3):
