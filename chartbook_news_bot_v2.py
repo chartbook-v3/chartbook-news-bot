@@ -527,6 +527,7 @@ NOISE_BLACKLIST = [
     "출발편", "결항", "관제 통신", "시네마크", "부고", "인사", "동정", "포토",
     "단독 선두", "단독 1위", "아시안투어", "pga", "lpga", "kpga", "klpga", "골프",
     "[스팟]", "[코스피]", "[코스닥]", "[시황]", "장중시황", "마감시황", "마감 시황",
+    "[르포]", "-주간]", "[주간]", "[기획]", "[인터뷰]", "[칼럼]", "[사설]", "[카드뉴스]", "[영상]",
     "multifamily", "real estate", "globe newswire", "pr newswire",
 ]
 
@@ -1074,6 +1075,43 @@ def extract_squawk_source_and_title(full_text: str, default_source: str) -> tupl
     return source_name, cleaned_title, context[:500]
 
 
+MILITARY_STRIKE_CONTEXT_RE = re.compile(
+    r"\b(iran|tehran|israel|idf|gaza|lebanon|hezbollah|hamas|houthi|yemen|ukraine|russia|kremlin|kyiv|putin|zelensky|zelenskyy|pentagon|missile|missiles|drone|drones|airstrike|airstrikes|bomb|bombing|retaliat\w*|military|nuclear|warship|tanker|hormuz|netanyahu|trump|white house)\b",
+    re.IGNORECASE,
+)
+LABOR_STRIKE_CONTEXT_RE = re.compile(
+    r"\b(union|unions|labor|labour|workers?|employee|employees|staff|dockworkers?|pilots?|uaw|boeing|rail|teachers?|nurses?|writers?|actors?|walkout)\b",
+    re.IGNORECASE,
+)
+
+
+def _refine_korean_finance_terms(cleaned_src: str, translated: str) -> str:
+    """무료 번역 결과의 금융·지정학 직역 오역과 연준(Fed) 표기를 일관화합니다."""
+    out = translated.replace("~", "-")
+    out = re.sub(r"\s+:", ":", out)
+    out = re.sub(r"연방준비제도(?:\s*이사회)?(?:\(Fed\))?", "연준", out)
+    out = re.sub(r"\b(?:Fed|FED)의\s*", "연준 ", out)
+    out = re.sub(r"\b(?:Fed|FED)(?=\s*[:\s,])", "연준", out)
+    out = re.sub(r"재무부\s*수익률", "미 국채 금리", out)
+
+    if (
+        cleaned_src
+        and re.search(r"\bstrikes?\b", cleaned_src, flags=re.IGNORECASE)
+        and MILITARY_STRIKE_CONTEXT_RE.search(cleaned_src)
+        and not LABOR_STRIKE_CONTEXT_RE.search(cleaned_src)
+    ):
+        out = out.replace("파업", "공습")
+
+    out = re.sub(r"말했습니다\.?$", "전해", out)
+    out = re.sub(r"밝혔습니다\.?$", "밝혀", out)
+    out = re.sub(r"보도했습니다\.?$", "보도", out)
+    out = re.sub(r"노출되었습니다\.?$", "노출", out)
+    out = re.sub(r"있습니다\.?$", "있어", out)
+    out = re.sub(r"했습니다\.?$", "", out)
+    out = re.sub(r"\.$", "", out)
+    return re.sub(r"\s{2,}", " ", out).strip()
+
+
 def translate_to_korean(text: str) -> str:
     cleaned = clean_raw_headline(text)
     if not cleaned:
@@ -1086,6 +1124,8 @@ def translate_to_korean(text: str) -> str:
     pre_cleaned = re.sub(r"\bCEO Huang\b", "CEO Jensen Huang", pre_cleaned)
     pre_cleaned = re.sub(r"\bXI-TRUMP\b", "Xi Jinping-Trump", pre_cleaned, flags=re.IGNORECASE)
     pre_cleaned = re.sub(r"\bXi\b", "Xi Jinping", pre_cleaned)
+    pre_cleaned = re.sub(r"\b(?:Fed|FED)['’]s\b", "Federal Reserve's", pre_cleaned)
+    pre_cleaned = re.sub(r"\b(?:Fed|FED)\b", "Federal Reserve", pre_cleaned)
     pre_cleaned = re.sub(r"\$NVDA\b", "Nvidia", pre_cleaned)
     pre_cleaned = re.sub(r"\$ARM\b", "Arm", pre_cleaned)
     pre_cleaned = re.sub(r"\$AAPL\b", "Apple", pre_cleaned)
@@ -1129,16 +1169,7 @@ def translate_to_korean(text: str) -> str:
     if not translated:
         translated = cleaned
 
-    translated = translated.replace("~", "-")
-    translated = re.sub(r"연방준비제도(이사회)?", "연준(Fed)", translated)
-    translated = re.sub(r"말했습니다\.?$", "전해", translated)
-    translated = re.sub(r"밝혔습니다\.?$", "밝혀", translated)
-    translated = re.sub(r"보도했습니다\.?$", "보도", translated)
-    translated = re.sub(r"노출되었습니다\.?$", "노출", translated)
-    translated = re.sub(r"있습니다\.?$", "있어", translated)
-    translated = re.sub(r"했습니다\.?$", "", translated)
-    translated = re.sub(r"\.$", "", translated)
-    return translated.strip()
+    return _refine_korean_finance_terms(cleaned, translated)
 
 
 # ==============================================================================
@@ -1307,7 +1338,7 @@ def fetch_single_feed(feed: dict, max_age_minutes: int = MAX_NEWS_AGE_MINUTES) -
 
 
 # ==============================================================================
-# 8. 출력 양식 포맷터 (시안 1: 언론사 + 원문 링크 / 한국어 번역 2줄 미니멀형)
+# 8. 출력 양식 포맷터 (시안 1: 언론사명 링크 + 본문 검정 일반 텍스트 2단 미니멀형)
 # ==============================================================================
 def format_telegram_message(item: dict, style: int = DEFAULT_STYLE) -> str:
     safe_source = html.escape(item["source"].upper())
@@ -1318,7 +1349,7 @@ def format_telegram_message(item: dict, style: int = DEFAULT_STYLE) -> str:
 
     if style == 1:
         return (
-            f'<b>{safe_source}</b> · <a href="{safe_url}">원문 ↗</a>\n\n'
+            f'<a href="{safe_url}"><b>{safe_source}</b></a>\n\n'
             f"{safe_title}"
         )
     elif style == 2:
@@ -1331,6 +1362,12 @@ def format_telegram_message(item: dict, style: int = DEFAULT_STYLE) -> str:
         )
     else:
         return f'[{safe_source_orig}] <a href="{safe_url}">{safe_title}</a>'
+
+
+def is_quiet_hours_kst(now_kst: datetime | None = None) -> bool:
+    """한국 시각 00:00~06:59 심야 시간대에는 무음 발송 여부를 반환합니다."""
+    current = now_kst or datetime.now(KST)
+    return 0 <= current.hour < 7
 
 
 def send_telegram_alert(item: dict, style: int = DEFAULT_STYLE, dry_run: bool = False) -> bool:
@@ -1349,6 +1386,7 @@ def send_telegram_alert(item: dict, style: int = DEFAULT_STYLE, dry_run: bool = 
         "text": msg,
         "parse_mode": "HTML",
         "disable_web_page_preview": True,
+        "disable_notification": is_quiet_hours_kst(),
     }
     for attempt in range(3):
         try:
