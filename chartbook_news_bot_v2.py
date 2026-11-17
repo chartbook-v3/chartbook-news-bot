@@ -698,6 +698,8 @@ class HistoryStore:
 
     def __init__(self, json_path: str):
         self.json_path = json_path
+        self.id_hashes_list = []
+        self.title_hashes_list = []
         self.id_hashes = set()
         self.title_hashes = set()
         self.recent_sent_articles = []
@@ -710,8 +712,10 @@ class HistoryStore:
             with open(self.json_path, "r", encoding="utf-8") as f:
                 data = json.load(f)
             cutoff = int(time.time()) - (HISTORY_RETENTION_DAYS * 86400)
-            self.id_hashes = set(data.get("id_hashes", [])[-4000:])
-            self.title_hashes = set(data.get("title_hashes", [])[-4000:])
+            self.id_hashes_list = list(dict.fromkeys(data.get("id_hashes", [])))[-4000:]
+            self.title_hashes_list = list(dict.fromkeys(data.get("title_hashes", [])))[-4000:]
+            self.id_hashes = set(self.id_hashes_list)
+            self.title_hashes = set(self.title_hashes_list)
             self.recent_sent_articles = [
                 it for it in data.get("recent_sent_articles", []) if it.get("ts", 0) >= cutoff
             ][-500:]
@@ -723,10 +727,14 @@ class HistoryStore:
         self.recent_sent_articles = [
             it for it in self.recent_sent_articles if it.get("ts", 0) >= cutoff
         ][-500:]
+        self.id_hashes_list = self.id_hashes_list[-4000:]
+        self.title_hashes_list = self.title_hashes_list[-4000:]
+        self.id_hashes = set(self.id_hashes_list)
+        self.title_hashes = set(self.title_hashes_list)
         data = {
             "updated_at": int(time.time()),
-            "id_hashes": list(self.id_hashes)[-4000:],
-            "title_hashes": list(self.title_hashes)[-4000:],
+            "id_hashes": self.id_hashes_list,
+            "title_hashes": self.title_hashes_list,
             "recent_sent_articles": self.recent_sent_articles,
         }
         try:
@@ -769,13 +777,19 @@ class HistoryStore:
 
         return False
 
+    def _add_hashes(self, id_hash: str, title_hash: str):
+        if id_hash and id_hash not in self.id_hashes:
+            self.id_hashes.add(id_hash)
+            self.id_hashes_list.append(id_hash)
+        if title_hash and title_hash not in self.title_hashes:
+            self.title_hashes.add(title_hash)
+            self.title_hashes_list.append(title_hash)
+
     def record_seen(self, id_hash: str, title_hash: str):
-        self.id_hashes.add(id_hash)
-        self.title_hashes.add(title_hash)
+        self._add_hashes(id_hash, title_hash)
 
     def record_sent(self, id_hash: str, title_hash: str, source: str, title_en: str, title_ko: str, url: str):
-        self.id_hashes.add(id_hash)
-        self.title_hashes.add(title_hash)
+        self._add_hashes(id_hash, title_hash)
         self.recent_sent_articles.append(
             {
                 "source": source,
@@ -1098,6 +1112,8 @@ def _refine_korean_finance_terms(cleaned_src: str, translated: str) -> str:
     out = re.sub(r"\b(?:Fed|FED)의\s*", "연준 ", out)
     out = re.sub(r"\b(?:Fed|FED)(?=\s*[:\s,])", "연준", out)
     out = re.sub(r"재무부\s*수익률", "미 국채 금리", out)
+    out = re.sub(r"(?:중인은행|인민은행|중국인민은행)", "중국 인민은행", out)
+    out = out.replace("중국 중국 인민은행", "중국 인민은행")
 
     if (
         cleaned_src
@@ -1140,20 +1156,20 @@ def _get_gemini_api_key() -> str | None:
 
 
 def _translate_with_gemini(text: str) -> str | None:
-    """Gemini Flash API를 활용하여 외신 속보를 한국 증권사 텔레그램 속보 톤으로 초고속 번역 및 윤문합니다."""
+    """Gemini Flash Lite API를 활용하여 외신 속보를 한국 증권사 텔레그램 속보 톤으로 초고속 번역 및 윤문합니다."""
     api_key = _get_gemini_api_key()
     if not api_key:
         return None
 
-    models = ["gemini-flash-lite-latest", "gemini-2.5-flash-lite", "gemini-flash-latest"]
+    models = ["gemini-flash-lite-latest", "gemini-2.5-flash-lite"]
     prompt = (
         "당신은 증권사 및 경제 언론사 외신 속보 데스크입니다. "
         "다음 외신/글로벌 속보 헤드라인을 한국 텔레그램 증권 속보 채널 스타일에 맞춰 "
         "정확하고 자연스러운 한국어 한 줄 헤드라인으로 번역 및 윤문하세요.\n"
         "지침:\n"
-        "1. 부가 설명, 접두어, 따옴표 없이 오직 번역된 한 줄 헤드라인 텍스트만 출력하세요.\n"
+        "1. 부가 설명, 접두어, 바깥쪽 따옴표 없이 오직 번역된 한 줄 헤드라인 텍스트만 출력하세요.\n"
         "2. '말했습니다', '보도했습니다' 등 번역투 종결어 대신 '~전망', '~급등', '~상회', '~착수', '~밝혀' 등 간결한 경제 속보 문체를 사용하세요.\n"
-        "3. 기업명, 티커, 인물명, 금융 전문 용어를 국내 시장 관례에 맞게 정확히 표기하세요.\n\n"
+        "3. 고유명사와 금융 용어를 정확히 표기하세요(예: PBOC -> 중국 인민은행, Fed -> 연준, RBA -> 호주 중앙은행, $NVDA -> 엔비디아).\n\n"
         f"헤드라인: {text}"
     )
     payload = {
@@ -1167,7 +1183,7 @@ def _translate_with_gemini(text: str) -> str | None:
     for model in models:
         try:
             url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={api_key}"
-            resp = requests.post(url, json=payload, timeout=8)
+            resp = requests.post(url, json=payload, timeout=(3, 5))
             if resp.status_code == 200:
                 data = resp.json()
                 candidates = data.get("candidates", [])
@@ -1175,7 +1191,9 @@ def _translate_with_gemini(text: str) -> str | None:
                     parts = candidates[0].get("content", {}).get("parts", [])
                     if parts:
                         translated = parts[0].get("text", "").strip()
-                        translated = translated.split("\n")[0].strip().strip('"').strip("'").strip()
+                        translated = translated.split("\n")[0].strip()
+                        if len(translated) >= 2 and translated[0] == translated[-1] and translated[0] in ('"', "'"):
+                            translated = translated[1:-1].strip()
                         if translated:
                             return translated
             else:
@@ -1494,6 +1512,7 @@ def run_cycle(
     style: int = DEFAULT_STYLE,
     max_age_minutes: int = MAX_NEWS_AGE_MINUTES,
     dry_run: bool = False,
+    deadline: float | None = None,
 ) -> int:
     start_t = time.time()
     all_candidates = []
@@ -1524,6 +1543,8 @@ def run_cycle(
                 store.record_seen(id_hash, title_hash)
             continue
 
+        if deadline and time.time() >= deadline:
+            break
         ctx_en = cand.get("context_en", "")
         if cand["source"].lower() == "wallstreetcn":
             title_ko = translate_to_korean(cleaned_title)
@@ -1559,6 +1580,9 @@ def run_cycle(
     sent_count = 0
     for item in to_send:
         if sent_count >= MAX_SEND_PER_CYCLE:
+            break
+        if deadline and time.time() >= deadline:
+            logger.warning("Actions 안전 타임아웃 예산 도달로 이번 사이클 추가 발송 조기 종료 (릴레이 보존)")
             break
         title_ko = item.get("pre_translated_ko") or translate_to_korean(item["cleaned_title"])
         if store.is_duplicate_or_similar(item["id_hash"], item["title_hash"], item["cleaned_title"], title_ko):
@@ -1635,9 +1659,14 @@ def git_push_history_in_actions():
         diff_res = subprocess.run(["git", "diff", "--staged", "--quiet"], check=False)
         if diff_res.returncode != 0:
             subprocess.run(["git", "commit", "-m", "chore: update sent_history.json [skip ci]"], check=False)
-            subprocess.run(["git", "pull", "--rebase", "origin", "main"], check=False)
-            subprocess.run(["git", "push"], check=False)
-            logger.info("GitHub 저장소에 최신 sent_history.json 동기화 완료")
+            pull_res = subprocess.run(["git", "pull", "--rebase", "origin", "main"], check=False)
+            if pull_res.returncode != 0:
+                subprocess.run(["git", "rebase", "--abort"], check=False)
+                logger.warning("Git pull --rebase 실패로 rebase 중단 (Step 5에서 재시도)")
+                return
+            push_res = subprocess.run(["git", "push"], check=False)
+            if push_res.returncode == 0:
+                logger.info("GitHub 저장소에 최신 sent_history.json 동기화 완료")
     except Exception as e:
         logger.warning(f"Git 동기화 예외: {e}")
 
@@ -1659,35 +1688,43 @@ def trigger_next_github_workflow():
             "Accept": "application/vnd.github+json",
             "X-GitHub-Api-Version": "2022-11-28",
         }
-        for st in ("queued", "waiting"):
+        try:
             r_chk = requests.get(
-                f"https://api.github.com/repos/{RELAY_REPO}/actions/runs?status={st}&per_page=2",
+                f"https://api.github.com/repos/{RELAY_REPO}/actions/runs?status=queued&per_page=2",
                 headers=headers,
                 verify=False,
-                timeout=6,
+                timeout=(4, 6),
             )
             if r_chk.status_code == 200 and r_chk.json().get("total_count", 0) > 0:
-                logger.info(f"이미 대기 중인 워크플로우({st})가 존재하여 추가 릴레이 호출 생략")
+                logger.info("이미 대기 중인 워크플로우(queued)가 존재하여 추가 릴레이 호출 생략")
                 return
+        except Exception as e:
+            logger.debug(f"대기 워크플로우 조회 예외 (계속 릴레이 시도): {e}")
 
-        r_disp = requests.post(
-            f"https://api.github.com/repos/{RELAY_REPO}/actions/workflows/{RELAY_WORKFLOW_ID}/dispatches",
-            headers=headers,
-            json={"ref": "main"},
-            verify=False,
-            timeout=8,
-        )
-        if r_disp.status_code == 204:
-            logger.info("⚡ [Zero-Lag Relay] 다음 회차 GitHub Actions 즉시 실행 예약 완료 (HTTP 204)")
-        else:
-            logger.warning(f"릴레이 호출 응답: HTTP {r_disp.status_code}")
+        for attempt in range(3):
+            try:
+                r_disp = requests.post(
+                    f"https://api.github.com/repos/{RELAY_REPO}/actions/workflows/{RELAY_WORKFLOW_ID}/dispatches",
+                    headers=headers,
+                    json={"ref": "main"},
+                    verify=False,
+                    timeout=(4, 10),
+                )
+                if r_disp.status_code == 204:
+                    logger.info("⚡ [Zero-Lag Relay] 다음 회차 GitHub Actions 즉시 실행 예약 완료 (HTTP 204)")
+                    return
+                logger.warning(f"릴레이 호출 응답 (시도 {attempt + 1}/3): HTTP {r_disp.status_code}")
+            except Exception as e:
+                logger.warning(f"릴레이 트리거 예외 (시도 {attempt + 1}/3): {e}")
+            time.sleep(2)
     except Exception as e:
-        logger.warning(f"릴레이 트리거 예외: {e}")
+        logger.warning(f"릴레이 초기화 예외: {e}")
 
 
 def main():
+    script_start = time.time()
     parser = argparse.ArgumentParser(description="ChartBook Global & Korea Breaking News Telegram Bot v2")
-    parser.add_argument("--once", action="store_true", help="1회 또는 GitHub Actions 3연속 스캔 + 릴레이 실행")
+    parser.add_argument("--once", action="store_true", help="1회 또는 GitHub Actions 연속 스캔 + 릴레이 실행")
     parser.add_argument("--style", type=int, default=DEFAULT_STYLE, help="출력 시안 번호 (기본값: 1)")
     parser.add_argument("--interval", type=int, default=POLL_INTERVAL_SECONDS, help="스캔 주기(초), 기본 180초")
     parser.add_argument("--max-age", type=int, default=MAX_NEWS_AGE_MINUTES, help="최대 허용 기사 경과 시간(분), 기본 60분")
@@ -1707,20 +1744,33 @@ def main():
 
     if args.once:
         if os.getenv("GITHUB_ACTIONS") == "true" and not args.dry_run:
+            # GitHub Actions 5분(300초) 강제 종료 방지를 위해 최대 200초(3분 20초) 안전 예산 설정
+            actions_deadline = script_start + 200.0
             burst_cycles = 3
-            burst_interval = 75
-            for idx in range(burst_cycles):
-                cycle_start = time.time()
-                logger.info(f"--- [GitHub Actions 고속 스캔 {idx + 1}/{burst_cycles}] ---")
-                run_cycle(store, style=args.style, max_age_minutes=args.max_age, dry_run=False)
-                if idx < burst_cycles - 1:
-                    elapsed = time.time() - cycle_start
-                    sleep_sec = max(15.0, burst_interval - elapsed)
-                    logger.info(f"다음 고속 스캔까지 {sleep_sec:.0f}초 대기...")
-                    time.sleep(sleep_sec)
-
-            git_push_history_in_actions()
-            trigger_next_github_workflow()
+            burst_interval = 65
+            try:
+                for idx in range(burst_cycles):
+                    if idx > 0 and time.time() + 35.0 >= actions_deadline:
+                        logger.info(f"안전 타임아웃 예산({actions_deadline - script_start:.0f}초) 도달로 남은 스캔 생략 후 릴레이 진행")
+                        break
+                    cycle_start = time.time()
+                    logger.info(f"--- [GitHub Actions 고속 스캔 {idx + 1}/{burst_cycles}] ---")
+                    run_cycle(store, style=args.style, max_age_minutes=args.max_age, dry_run=False, deadline=actions_deadline)
+                    if idx < burst_cycles - 1:
+                        elapsed = time.time() - cycle_start
+                        remaining = actions_deadline - time.time()
+                        if remaining <= 40.0:
+                            logger.info("남은 실행 시간 부족으로 대기 생략 후 즉시 릴레이 전환")
+                            break
+                        sleep_sec = min(max(10.0, burst_interval - elapsed), remaining - 35.0)
+                        if sleep_sec >= 5.0:
+                            logger.info(f"다음 고속 스캔까지 {sleep_sec:.0f}초 대기...")
+                            time.sleep(sleep_sec)
+            except Exception as e:
+                logger.error(f"Actions 스캔 루프 예외 (릴레이는 계속 진행): {e}")
+            finally:
+                git_push_history_in_actions()
+                trigger_next_github_workflow()
         else:
             run_cycle(store, style=args.style, max_age_minutes=args.max_age, dry_run=args.dry_run)
         return
