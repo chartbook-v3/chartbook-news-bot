@@ -1,27 +1,6 @@
 {
-  "updated_at": 1794959545,
+  "updated_at": 1794959715,
   "id_hashes": [
-    "599fc3c853346269fe56e9729a4b1f7b5a3dd71b666f73ea47b9c8a1fae5864e",
-    "b1ab90afa4b44023e9c6e2c25395ee1019368a1ba70c38f52a03d416c19dd56c",
-    "e898d495df0520d683ee6d05dfa14bd744fa26ca6b0640061896f4164920fc1c",
-    "71101998e212b428e4264d30a1129c6df4d84c144d006b2226822208ac367557",
-    "46255acb40de924599f980571a84d53c931334b82e9e6e3662d7e79caa04d028",
-    "d99b07b3da1807a693bd527bfbdc1d4d51ce94bd95456b92a5a35c2fa4fcb796",
-    "d2df8a9709eaa5f8dcbc943ea69476119e460863437524016e9116e2c014353c",
-    "af9c24525bfc1353f20935df3e926e1922b135d1a50135923cafa1457c917feb",
-    "78d7faea6d1a457b95217959034ce2cbbfc08e67713ab0dc97c82d80b9fa76c6",
-    "ca32ea0a6e85aef3582ce383b6c626ac077bd9b45f78693fe0b131b04f6a30c1",
-    "a020802844f1b5bec1d20afe5854f4c2e52796848d2ecea43a902916d9a46b2e",
-    "7238da3054b2a6f45f41bd05b5da609031e3c4d63a4a959a114ee8ad8254aaed",
-    "8f26ded1e96190726f5c84c07e1ffcf4791940b2b604b44e6d759f87ed50df0b",
-    "2ff7e9f223438d6976d65240e1c7a7f23f642f1b7ea4289db9b7230e6a0cfab7",
-    "3efa54bffade403425d7e4fec09f4002530129d198b3d0d0a3251c124775fb41",
-    "b372f928606f12f9b7934840add2bb87d051bb66a01796176e838e4ac505dd08",
-    "4ea56cea34bad187adb557fbc6889a4c5d943ab41aec6db24afb3b121561b7d4",
-    "a107f3ffcfc46dced268db40044fe088111f2ed536da1cc8bcdc7a9dca2b6614",
-    "b9740b55c9c37416656d8488cd90a0cd5ccbcb856c365a75d917db5131e191e2",
-    "4d2b53a53f423dc206a46c717d6a118994a4ceaeb1ef520667f7eb2501acb265",
-    "fc0cfa57dbfdfb2b74a625f275a33b750bea833c826555bb7401b5c4c1995111",
     "3ebc657f6170d46576b24162a8a5d9c563beb9c15bdafdfea89d49ed49f1287c",
     "8437602d80df9185cc72adbb0e8c4fd55b0c29874143a1936d21236a2bff505b",
     "f3ef9234fe20dc00c8088fb5d70868994c02a8d47162959c3209f19821c7f8d7",
@@ -4000,27 +3979,30 @@
     "c2c19ee707ada8d86d10e2fd02a5e825390627f82dc9f57fd77347947b5e3d69",
     "57d60ef2a77a851bad2cc1d46411b726338158db1b1ce1a9db6d78cdaf8e5b81",
     "a3caa498bc42baca3ad1c322ad34c78f3c315b6e511f9673ec63fb085e0431f4",
-    "349aa4e8191b63ae6d5957d4bd0fcc6a0a5d58e9ab6f14bdbd3f8a57b09b8d61"
+    "349aa4e8191b63ae6d5957d4bd0fcc6a0a5d58e9ab6f14bdbd3f8a57b09b8d61",
+    "49dcfde25758704e50abebe1f1e8ce488180edbacc6359d05a4e69e29b9adab5",
+    "88eeb4ca294c26d7b1e575a7e7f2285bea71412ab3dd4dcef4f52f070391f146",
+    "9b7287dc60e109c7d91ea23ee63861a766480efa95a7886aabb138ea779c34cc",
+    "b2683b6cd7b97581fbe4b31ee6d4c4a9f7a381474db97754ee001a4210bfda2c",
+    "a1dddc2a6bba1d1d5b40416a8cbdc714452c145137510892465fa2985ffd0a96",
+    "e368895d2aaf87b62dfe90977a3eb52f4a48a0849c2f066cfee1c2b6a9bf62d3",
+    "0e574aaae1bdfb5254427239ecf3f33dccf1af9437a947706c3b60db915f57ff",
+    "4784e1508e7da0eed409f4a668589f0024bc0d288d741a3f7434a20430f1c84e",
+    "4b0f2165781fc4a6d00d6880b27b18f64e9ce01025c0b272e452e2f39c99701b",
+    "0713b59e619a1c03854d401519239b344ae2908c1a908c0e88e46eccfff739a3",
+    "85db1abe3c14b967f019d5c81cdcba5904469431bb8f7821ed78f7c1bfa57874",
+    "f0f2f3dcb9991893b3eac35b255f26055b4219bbddc5c18e00ba5c36347eeb82",
+    "b0a87948077585866f15913032f5f2d9625e9835c5d46271d158b5392ef46c75",
+    "1450389d42b3a68525ade906a1178b63ea3a9fcea01fccaa2a7544e118cd1ac9",
+    "ed4b8271288a0c198dde50c716b7f5839fac26503872a1261eb760fbf966591e",
+    "be376b165cdafc387e331830bbac732280125b1ec5ab3e463c980e803c862b9a",
+    "f512af46b594919d8f13c1343ada074d58dab0d52f38f9f1d07ffaf158f9394f",
+    "f66d9c71b51ffcb95d0089e2cb4b17a5e19f904fb47b8220db1e41a5055be1e5",
+    "833bd6bb02006e7e8f71843380cfd0fac5d927d7a6971bbbb39fa232da572007",
+    "079aad6a49c3d5b3ea5f39c698c06b6931d6d63970a7911afdeb1638287c7fff",
+    "6e6b86d7eb845f7d8acbbd2557bca9b69b114c8316864983916a63de1a988431"
   ],
   "title_hashes": [
-    "8b0dc65e1ad695f9849727971eef2321364cd9d72d5d225226d31c47ab4bed46",
-    "04ca2d6c1843010b8c88b0bb07fdb42e39419541c6d66c92764a75cc58ce5dc2",
-    "0c716ec1fb6ee02854f5e24578c6c5d4adef055a4853cb2e3cf21bee9ab7e352",
-    "2ed7139a7a7cbce6a124f2c7607b5ce0bfd4d6f250f43328514c3f71b3768ccd",
-    "53aaf04499f76e5467125f832d7d64f9b6b8e726f90ea875df214cf5283e34c7",
-    "1c6595205f68fb07ece3fe023e04a4b7a7009a801e13505dd944cb3a020709c8",
-    "3ac61bff107c13f344d74853ed72e92aaf2f02895d073c88067048167fe14488",
-    "f54518e9091580290a359a49929d64aced2a8b8676040b98c467037781aee699",
-    "03e7af83b316e12302819d04cff7984fd7c8df5568417d265e1d8c558bb058f4",
-    "d1853f5cd2b991c63af1403d4766afb0f7c3b72dd60e07f2ff351758121f3310",
-    "c49ffc685349a8671840cdbd2ef1c9db52fd115504760c1cf76f75bc123cfac3",
-    "54d3d89d795b7b3927473564a8b8976709b38fb3de5a944ba9f9ae30958a2ff1",
-    "0c30e7ca7a5f66dc15cb79d859d32d69a535b7432130285adee45937e2898d9b",
-    "9c0785db3de822d121a39609e686056198232f32b300aaad7a06634ec59232b2",
-    "668bbb88f851fdee6c64a67f842dcf965b3a166b400527999c97fb8bc63f9529",
-    "6ad63301dafe690496dbd9abe15c7c097eb9dab67a0ee1b424a631627a98cd00",
-    "f7831ccc0e563ec1e23bc095bc9a8a0c4c453f6c9814d600e0423ba001597d71",
-    "11436aeaf6c596e200a7b89edb6d14b98e9a8246e11ad878e09aef6d59a019fd",
     "0593949f5290924c7b1cf2ec31e77b618f8f5f320e528026354fd32ff1d4c293",
     "571becc0169e6db23ef8f0c9ec54383091f40a495efd3a989e9f45a9ae53a773",
     "c28d5376801dbf869a505a8c6808f25b33b9d2a2d9a0865055c7579dad7cd18a",
@@ -8002,58 +7984,27 @@
     "f946452822673b652f3167d36d161630be8248fef5999768167a7ef9fe56c78b",
     "f5ca60aab00350b859dbadce852907e1d86e9c78b48d4f1aeb7e017100b02374",
     "4f2aed400f7bdfd43aa50c0d8ab090fccfe0e51aef8d6d3636fd489abd76a2d6",
-    "8c60281fdad0a274066c421d6f004b6542c84b8af22fbc54c620b037f680ee9a"
+    "8c60281fdad0a274066c421d6f004b6542c84b8af22fbc54c620b037f680ee9a",
+    "278695872e897cdac100ccdea638093f5c5948412003c3b1caced5908e7edf9f",
+    "fa2580a4d2e6fce659e7627c8e53c8581d38930fcf796dd84c9950b693e730ab",
+    "cd0fdce329d409d35e28642653c83563d6268e2d4a9d4a61bf83390f413aaed9",
+    "f93ce047448be83416258ee3f4331570ad951cb12ca2a683fc7c4216006facb4",
+    "b77eef756427a07c29c554f86c0ea29d1481fdd11093c1cf704b2af98c08893d",
+    "4cd4faf6673653b4fc184b17ba73dec16ad41e9cd07529bb0d1b8ff5c91c8d30",
+    "c87764c78e48e00c45299d9e5930ff072bada49c827b25eddd6b49a492b31f4b",
+    "c436e9837644b39a0b9e2574814a39ecaa943d6b6f1419c3bd8a356f95c6781b",
+    "861370239395a9b6122a026055a3d7851e904dc9389499aa3c08526c19a048e1",
+    "f5caf39d028125158873ab2d9e4fefea59d2fa7bb1cc1758d1cefd38945fb6e5",
+    "1793e6b0bb57e0327b281f80a5e9ae6d49a18293110d7a7c8afd0376c195a0b2",
+    "907eba19c17879b3afe1f71d5d169cd0f58f299f5276e89657b4e3691f195a3c",
+    "9666e41fc82239f426b9fd26ba79d3d31b81ffa6e8e8c73a5ccc6aef2fddc41f",
+    "8a5bb4871513a2f9cf5cdc05cf4bdae27fc93d42a54bd20c9e1e1fbe3f4da69b",
+    "0121a7ffffd0a068a98a4bca0d3a8dba910280a4515c45ad8e5cbe44f8ce7f44",
+    "a051e9e3193c2de4b4393f6eac8bc4558c7c2feb852bbd69e4bf850e4af5a908",
+    "0bb0f0f05578803048b7c39d9fcd12d6a1134dfcd982eef8bde052fb9756b798",
+    "7b507be047ebc4a25ed881f8bd5bdba4132273747d634f2dcfe21d8fce7fd3a9"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "GM AIMS TO INCREASE ROBOTICS, AUTOMATION AT NORTH AMERICAN FACTORIES BY 20% BY 2028 – RTRS CITES SOURCES",
-      "title_ko": "GM, 2028년까지 북미 공장 로봇·자동화 20% 확대 추진 – 로이터",
-      "url": "https://t.me/marketfeed/1079495",
-      "ts": 1794913455
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Home Depot beats top-line and bottom-line estimates; updates FY26 outlook",
-      "title_ko": "Home Depot은 매출 및 수익 추정치를 능가합니다. FY26 전망 업데이트",
-      "url": "https://seekingalpha.com/news/4673541-home-depot-beats-top-line-and-bottom-line-estimates-updates-fy26-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794913514
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Trump Kicks of Asia Visit in Manila Ahead of Xi, Putin Talks",
-      "title_ko": "트럼프, 시진핑에 앞서 마닐라 아시아 순방…푸틴과 회담",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-17/the-pulse-with-francine-lacqua-11-17-2026-video",
-      "ts": 1794913579
-    },
-    {
-      "source": "매일경제",
-      "title_en": "듀오스테크놀러지스, 3분기 매출 2배 성장과 4분기 매출 급증 전망에 주목",
-      "title_ko": "듀오스테크놀러지스, 3분기 매출 2배 성장과 4분기 매출 급증 전망에 주목",
-      "url": "https://www.mk.co.kr/news/stock/12211584",
-      "ts": 1794913585
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Home Depot (HD) Tops Q3 EPS by 2c, Beats on Revenue; Offers Guidance",
-      "title_ko": "홈디포(HD)가 3분기 EPS를 2센트로 앞지르고 매출을 앞질렀습니다. 지침 제공",
-      "url": "https://www.streetinsider.com/Earnings/Home+Depot+%28HD%29+Tops+Q3+EPS+by+2c%2C+Beats+on+Revenue%3B+Offers+Guidance/27358792.html",
-      "ts": 1794913593
-    },
-    {
-      "source": "The Verge",
-      "title_en": "Oh, so now Nvidia cares about national security and export controls?",
-      "title_ko": "엔비디아, 이제 와서 국가안보 및 수출 통제 우려 표명",
-      "url": "https://www.theverge.com/tech/1035195/oh-so-now-nvidia-cares-about-national-security-and-export-controls",
-      "ts": 1794913614
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Oaktree Specialty Lending Non-GAAP EPS of $0.34 in-line, Total investment income of $68.2M misses by $1.77M",
-      "title_ko": "Oaktree 전문 대출 비GAAP EPS 0.34달러 인라인, 총 투자 수입 6,820만 달러가 177만 달러 누락되었습니다",
-      "url": "https://seekingalpha.com/news/4673540-oaktree-specialty-lending-non-gaap-eps-of-034-in-line-total-investment-income-of-682m-misses-by-177m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794913683
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Apple to stand trial in France over iPhone repair restrictions: report",
@@ -11504,6 +11455,55 @@
       "title_ko": "이란, 미 중간선거 공화당 참패 후 대미 협상력 강화... 호르무즈 해협 경제 타격 전략 주효 판단에 양보 의사 축소",
       "url": "https://t.me/firstsquaw/193647",
       "ts": 1794959544
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "삼성전자·난방공사·전원테크, 대한민국 안전대상 대통령상 수상",
+      "title_ko": "삼성전자·난방공사·전원테크, 대한민국 안전대상 대통령상 수상",
+      "url": "https://biz.chosun.com/topics/topics_social/2026/11/18/4XHZRYAGMZBEXONAYQHMUP6Z3Y/",
+      "ts": 1794959565
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "월가, 엔비디아 호실적에 안도…황 떠난 뒤 성장 지속성은 '물음표'",
+      "title_ko": "월가, 엔비디아 호실적에 안도…황 떠난 뒤 성장 지속성은 '물음표'",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445268",
+      "ts": 1794959698
+    },
+    {
+      "source": "인베스트조선",
+      "title_en": "산은-한투, KDB생명 매각 협상 끝내 결렬",
+      "title_ko": "산은-한투, KDB생명 매각 협상 끝내 결렬",
+      "url": "https://www.investchosun.com/m/article.html?contid=2026111880011",
+      "ts": 1794959701
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "ABDUL EL-SAYED SAYS “I DO NOT BELIEVE THAT WE SHOULD BE IN THE BUSINESS OF UNCONDITIONAL FOREIGN MILITARY AID TO ANY COUNTRY,” NAMING EGYPT, SAUDI ARABIA, JORDAN, PAKISTAN AND ISRAEL, AND ADDING THAT “THOSE PRINCIPLES DON’T CHANGE, REGARDLESS OF WHO THE LEADERSHIP IN ISRAEL IS”",
+      "title_ko": "압둘 엘 사이드는 \"나는 우리가 어떤 국가에 대해서도 무조건적인 해외 군사 지원 사업을 해야 한다고 믿지 않는다\"고 말하며 이집트, 사우디아라비아, 요르단, 파키스탄, 이스라엘을 거명하며 \"이러한 원칙은 어떤 국가에 관계없이 변하지 않는다\"고 덧붙였습니다. 이스라엘의 리더십은 누구인가”",
+      "url": "https://t.me/firstsquaw/193648",
+      "ts": 1794959704
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "ABDUL EL-SAYED SAYS ON ISRAEL THAT “IT’S IMPORTANT FOR WHOEVER BECOMES THE LEADER OF THE ISRAELI GOVERNMENT TO RECKON WITH THE PAST AND WHAT HAS BEEN DONE,” ADDING “I BELIEVE THAT NETANYAHU IS A WAR CRIMINAL. I THINK HE SHOULD BE HELD ACCOUNTABLE FOR HIS WAR CRIMES. I THINK THE PEOPLE WHO’VE AIDED AND ABETTED HIS WAR CRIMES NEED TO BE HELD ACCOUNTABLE FOR THEIR WAR CRIMES”",
+      "title_ko": "압둘 엘 사이드는 이스라엘에 대해 \"이스라엘 정부의 지도자가 된 사람은 과거와 지금까지 행해진 일을 생각하는 것이 중요하다\"며 \"나는 네타냐후가 전범이라고 믿는다. 나는 그가 자신의 전쟁 범죄에 대해 책임을 져야 한다고 생각한다\"고 말했다. 나는 그의 전쟁 범죄를 도운 사람들이 그들의 전쟁 범죄에 대해 책임을 져야 한다고 생각합니다.”",
+      "url": "https://t.me/firstsquaw/193649",
+      "ts": 1794959707
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "ABDUL EL-SAYED SAYS “WE AIDED, ARMED, AND ABETTED A GENOCIDE. LIKE, FULL STOP,” ADDING THAT “EVERY TIME WE HAVE A CONVERSATION, IT’S LIKE THAT PART OF HISTORY YOU JUST KIND OF DON’T WANT TO TALK ABOUT. THAT’S INSANE!” EL-SAYED SAYS “70,000 PEOPLE — THAT’S THE, LIKE, MINIMAL ESTIMATE — AT LEAST HALF OF THEM CHILDREN. IF ANY OTHER COUNTRY IN THE WORLD DID THAT, WE WOULD BE HAVING A VERY DIFFERENT CONVERSATION. VERY, VERY DIFFERENT CONVERSATION”",
+      "title_ko": "ABDUL EL-Sayed는 \"우리는 대량 학살을 지원하고, 무장하고, 사주했습니다. 마치, 완전 정지\"라고 덧붙이며 \"우리가 대화를 나눌 때마다 그것은 당신이 이야기하고 싶지 않은 역사의 일부와 같습니다. 그건 미친 짓입니다!\"라고 덧붙였습니다. EL-Sayed는 \"70,000명이 최소한의 추정치입니다. 그 중 적어도 절반은 어린이입니다. 만약 세계의 다른 나라에서 그런 일을 한다면 우리는 매우 다른 대화를 하고 있을 것입니다. 매우, 매우 다른 대화를 나누게 될 것입니다.\"",
+      "url": "https://t.me/firstsquaw/193651",
+      "ts": 1794959711
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "ABDUL EL-SAYED SAYS ON WHAT ISRAEL SHOULD BE THAT “I BELIEVE THAT ISRAEL OUGHT TO BE A COUNTRY THAT UPHOLDS EQUAL RIGHTS FOR ALL OF ITS CITIZENS, DOES NOT IDENTIFY ITSELF WITH A CULTURE OR A FAITH, AND THAT DIGNIFIES THE RIGHTS OF THOSE CITIZENS TO LIVE FREE UNDER ITS LAWS,” CALLING IT AGAIN A QUESTION OF PEACE, DIGNITY AND SELF-DETERMINATION",
+      "title_ko": "ABDUL EL-Sayed는 이스라엘이 어떤 모습이어야 하는지에 대해 다음과 같이 말합니다. “나는 이스라엘이 모든 시민의 평등한 권리를 지지하고, 문화나 신앙으로 자신을 식별하지 않으며, 자유롭게 살 수 있는 시민의 권리를 존중하는 국가가 되어야 한다고 믿습니다. 그 법에 따라”, 평화, 존엄성, 자결의 문제를 다시 한번 촉구합니다",
+      "url": "https://t.me/firstsquaw/193652",
+      "ts": 1794959714
     }
   ]
 }
