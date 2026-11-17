@@ -1,19 +1,6 @@
 {
-  "updated_at": 1794891236,
+  "updated_at": 1794891416,
   "id_hashes": [
-    "934f75b2e0330412d7d76925409c01b8bbbbbc94f241fbd8a023923fcb084b6c",
-    "ca474631e3a5f19f00b9290ed9c2b0a59a0fc309f1f24a00ec2d8f11a5e1f5b6",
-    "4a4db29926ef849e832cd7ee40c5b841195c28e455b333f4f3de8a6d84658bb7",
-    "1dfdf5582278729872277d575bfb6fb903fe301c1d03d1cba6ca3c2cecb25e81",
-    "b4aece6821c4b5e1c75e67c175586dda2a808a1fdd86c7afe0db695456b39c36",
-    "d536d18dda2bc5455d78fc13732af59d0c168076c54324d11d5b82e0a4298cda",
-    "6fbe07b7d1b1d3bdc748a63f8190a5739e5ff01e98e6940ae80fcd2e630ed0f9",
-    "174dce573900d5318a969c0d005d714be53a906a5e7cba26a65b8db3174b3933",
-    "43137e7bb1f43070ef50276c95c02c316001a2ec4d3dabdedc48b2f3746d990f",
-    "0f17f7f2d9940e43af984f0dbd9c7dd0e168de4a0d4ad01e94cfe2a664019fcc",
-    "5aa44a52de8fa198aea8d56298394c86886d1e10515efa3ec8f14b35a02f9123",
-    "8e53f63b982c9ffd9ef41b915e53767ef0621933a00192bc481fd42d565787ac",
-    "6d52614655212b456bf7c855771c7cdf52c6381f0806d1b4ed9d2d6e77b84e6b",
     "6c95229801afd3e3d11ffafa41357146ab930d4a758f0c5edaf734311d63e547",
     "2b418a0061883f77a6d50d62da9c2fedabc1afe43c4dc8e9faeaa43eb2c69205",
     "919a3fb09820f11eaaabddc541f7ea99ae2d83e97274c590608f1834be180e5e",
@@ -4000,20 +3987,22 @@
     "2d95f4f41f41b2642c50988e1328255946e536ae3fb303e9be54b4ec09c35cec",
     "4def528e032f4216b498353c42e5351d3a1295f4e83a8eb2baf94761b76683c2",
     "8df6bb9f35a592466ec9def301aead37663dbe38bfdcfc9b8cdb4be3aa52a845",
-    "85e6391c4f71c908a5c9337acfddbadbc35f2041c9f463f0c4e5ceb2d80a6f01"
+    "85e6391c4f71c908a5c9337acfddbadbc35f2041c9f463f0c4e5ceb2d80a6f01",
+    "963c56e22cfcb15196bc3f1e0e7b8eb25b493c83cf670278374ef1d7e850cc9e",
+    "c1ac625a49d995b7daa08ec07dc489e099ad8729344ea8929dc7708377e89613",
+    "95772256662bbd2a9e32cc9f87e1cdaa8944dc3a3f456010070b9c946939fcef",
+    "a3840d0ef4bab0a87635227325e7a1ab83ad004a61866e5db72e5296ac1c6173",
+    "1af781f26a27cadb623bf4a93e5587fd024743e1e52092548c9d089b2be13922",
+    "bfaf9b2c4178b276431c47bdc0fbf758dc4ac772f5784c8977b194f34282dfcd",
+    "3940cba04a5620c053d16223a58e61f2ff36a72373bd0669a13f3fe1469fe286",
+    "2650f3046fe015ec12c656fda3b853506342f81f0b1bd916d979ba0742abf4ac",
+    "97371f553d8a65eddc7935f1c3a4a8fda470f1e893448538af57f05553036415",
+    "9548cf969cd719617c96841a2d85fb852988e27079a33d31fa2599c9e99582a5",
+    "2c813e283cd0b935e0ce99c77ca98201da194c869d70d93562d5b83c8f37fae7",
+    "1a43e2f9b7cfe7f1b57b65325bff13ff6771d8f0c2184c87287e3eb3474fe1da",
+    "352d28c97950d798048a5bee4d37b565124c4256f10f8aaa3c3015235905f502"
   ],
   "title_hashes": [
-    "57f671304000fa8018b5acd17694b2979208352b71411aab269f8121c8d3a41c",
-    "bab9b3c51c129af54e54dd6b06da29964bea36249961aa682465105b40f978fa",
-    "2c00c4328f66fab1bfe0a2b2191c0a4a1cf915d2f10dbb4fc902b599d370cd60",
-    "21f83200d365460163da2fe84a691fbcd04468f9249b6472b41f234513fb6dc6",
-    "2ecc4e760d6ba2b3d5cdd1df015563c0822c0b31c90c8eb41cb3410e08d1c6cf",
-    "4b0b887f1ddde862c49878b4f14b35b728f8b8d18907b6c8924021a2838b5746",
-    "399ac4033e6f20c9d2f040197f2d9205411c0e82a9e5ec3ae981bf1219c4d5ce",
-    "aa17c3dec91bd4964d9eef10d3fafd62b43a48255e95d993c56244a5b4a7b036",
-    "ac3dfff6c0cf6726bd477c28dd43aaa700e4c66d167d0d7a6fe31dbcb83c1c93",
-    "9d7e9f0862d0fb4c312988812e07cd6258ac3e511bf877d74a3b832e28b6e7dc",
-    "d0d3185908d0f782bb811b434c548d47a58a8112e696675b58817d7a900b89bc",
     "87e990fd9e2c9e767e2e5955303436ab47fde0adc689e24b0d311b2afd6049dd",
     "ecd99c171b9a9169384ca7999cfeb4127eda0fb9af94b6f51a741564c04060ac",
     "04d700832f29ba5e183536f16003da15d874326b9bbfa6d27e427452d6ecbba5",
@@ -8002,37 +7991,20 @@
     "3aa3fd2b2fffc0ba711b69e00a109e3b99146bc3c07acbaaaa0f91d4890ad5a0",
     "f39e117135cbc7098ee696c77bc1f6d62ecf27ced9a14afef0080c22878cae18",
     "fe5ee64a784a885df4af0e45f6898f565f2a37fbed0ede3a631573d93ce52fab",
-    "29c2e0eefb7416fb12aaa43a6c2d366f2ff447ec2464f3fd39fc46cd9c38a20c"
+    "29c2e0eefb7416fb12aaa43a6c2d366f2ff447ec2464f3fd39fc46cd9c38a20c",
+    "ae00c17013462d1c126f30c5ac421116f527c774944ab56f9cce1ef18ecf97c4",
+    "40e5bf2948d1f10dd3f3ff8fae75ab6bfaf1a424c7c66905699a5efda7369445",
+    "fffaf3a3a5e733c9573c3a994bc49aa4fb4d6a541b1dd4cc355360933a055d2d",
+    "8b3a0c0e8f357857f5873211f9bd1870a2fda3407156d6347868260c78a52d58",
+    "60dc65120a4bc421b24bd1b370f2d1866667f20583dc24c59f5102db1ce35c4b",
+    "8f6081f60b0ff0da8d8c8224e6a22e7c2fd061e635893c6483d0d1da503ac1ba",
+    "183625bafb4c419551fa1ed02969e0e509bbedff8105c17280d9809435ff0a1b",
+    "3686ebc768c2d7d79ee829bcd66328c777e6b15e9d869e759e2cf781472d4e71",
+    "80815c20ff2a6a32a151f11f9d19421635e09c72c6b7aff057dc0201b1451147",
+    "140a1fda22281178c89efeca2f41739743a37333385e39a7c097dc9b4d181156",
+    "d2716d993ae9dba29d6d6a7e1f82fae562b73a13d82764763c7d13c0df2f1931"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "OPENAI CEO SAM ALTMAN - AI REVOLUTION WITHOUT EX-NVIDIA CEO HUANG IS ‘HARD TO IMAGINE’ - SEMAFOR EVENT",
-      "title_ko": "OPENAI CEO SAM ALTMAN - 전 NVIDIA CEO HUANG이 없는 AI 혁명은 '상상하기 어렵습니다' - SEMAFOR 이벤트",
-      "url": "https://t.me/WalterBloomberg/38470",
-      "ts": 1794852921
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "ALTMAN, ON AI BACKLASH, SAYS AI INDUSTRY NEEDS TO TAKE A VERY STRONG STANCE IN FAVOR OF PEOPLE HAVING CONTROL OF THE FUTURE - SEMAFOR EVENT",
-      "title_ko": "AI 반발에 대해 ALTMAN은 AI 산업이 미래를 통제할 수 있는 사람들을 위해 매우 강력한 입장을 취해야 한다고 말합니다 - SEMAFOR 이벤트",
-      "url": "https://t.me/WalterBloomberg/38472",
-      "ts": 1794852926
-    },
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Fitch Ratings: North American sovereign outlook deteriorating on US fiscal risks.",
-      "title_ko": "피치 등급: 미국 재정 ​​위험으로 인해 북미 주권 전망이 악화되었습니다",
-      "url": "https://t.me/breakingmarketnews/177998",
-      "ts": 1794852928
-    },
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Fitch Ratings: Canada's outlook for 2027 is supported by improving growth and narrowing deficits, though trade tensions and tighter monetary policy weigh.",
-      "title_ko": "Fitch Ratings: 캐나다의 2027년 전망은 무역 긴장과 긴축 통화 정책이 부담이기는 하지만 성장 개선과 적자 축소로 뒷받침됩니다",
-      "url": "https://t.me/breakingmarketnews/178000",
-      "ts": 1794852930
-    },
     {
       "source": "BreakingMarketNews",
       "title_en": "NVIDIA board not considering bringing Huang back as CEO - CNBC.",
@@ -11504,6 +11476,34 @@
       "title_ko": "“경쟁사들 다 어디 갔나”…1.6조 목동4단지, 현대건설 독점 수주, 왜?",
       "url": "https://www.mk.co.kr/news/realestate/12211112",
       "ts": 1794891084
+    },
+    {
+      "source": "FT",
+      "title_en": "Asian tech stocks follow Wall Street lower as Nvidia results loom",
+      "title_ko": "엔비디아 실적 발표 대기 속 월스트리트 약세 연동 아시아 기술주 하락",
+      "url": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
+      "ts": 1794891333
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "GOSSAN RESOURCES LTD CDA by Gossan Resources Ltd. Earnings & Forecasts",
+      "title_ko": "GOSSAN RESOURCES LTD CDA by Gossan Resources Ltd. 수익 및 예측",
+      "url": "https://www.benzinga.com/quote/GSSRF/earnings-forecasts",
+      "ts": 1794891404
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Popular websites subverted in bid to steal crypto, target iPhone users",
+      "title_ko": "아이폰 사용자 조준한 암호화폐 탈취 목적의 인기 웹사이트 해킹 발생",
+      "url": "https://www.streetinsider.com/Reuters/Popular+websites+subverted+in+bid+to+steal+crypto%2C+target+iPhone+users/27358099.html",
+      "ts": 1794891409
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Meta faces a sanctions request linked to claims that it failed to disclose evidence in teen mental health litigation",
+      "title_ko": "메타, 십대 정신 건강 소송 증거 은폐 혐의로 제재 직면",
+      "url": "https://t.me/firstsquaw/193399",
+      "ts": 1794891412
     }
   ]
 }
