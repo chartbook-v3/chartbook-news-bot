@@ -1,18 +1,6 @@
 {
-  "updated_at": 1794946923,
+  "updated_at": 1794947075,
   "id_hashes": [
-    "08de8f5862bfaec9ba40cc4ac56a7231dddbd594e7cfc34683732487c3e25d6e",
-    "827e2e5687850c7c70f4152ddf57f1247f64e011a8d87042934f8e129ee0a205",
-    "8483b77b2acf0af6c3d76e9bb7c01bd6560facb04c251fde34fe64013b64756e",
-    "9ac78a528af01876ba62661f6055564f7e8c60ba504a1a5405e2b186ca04d3e3",
-    "4e74557fbdfb06658ac276d5934378f7b5514575acf98e8d17d358878834a873",
-    "8fa176d71d3b0cdc48b4118dcb0a5a4b0b726485614791e022cbb6e26c38cf76",
-    "498d2b28ff7523ba96324bc0ae7d04773e151c28ef44cb3360000f594b96fa09",
-    "35ff6f6d65dd7374fac7fd9df48cd96bbd1705f02420043eb05fbc9274170d0a",
-    "c49798b4bf52badc3283e128efd5bb8fbc1ad7ecfc8d13184d04b90b4b9db5de",
-    "86191dfdff6637fcb32ba8a9810a6406c1c4204fad80dfd62002225392a2f447",
-    "72d77434332eb22b79c95073cab9b5ddba7db5f3e9716e0108d2ebd41b50591f",
-    "8b616f315d8fa4b1ed556b13f92e1625df05ff726a0b69f6143b6acbb2ed3ddc",
     "2f18214cd0f7d37eeaf4f6c81ab107435b8413ef521f3f45f790335cea8f7c72",
     "680a30654597146822ed8348b16e09e271a51007ba42e70deceda56d325e90fd",
     "afe7582453a3354cda3790a009f31e6230b79ed229848a8b843da30907de8f53",
@@ -4000,18 +3988,21 @@
     "86d8a74fd3abaada8113767c486f056acac5802004a6ae18de8baefee91d9250",
     "315000eafac1ee26b89d46c69577a30d85094618b8b677bd3124b565a79ed21f",
     "7bd8da98e2afae6446da0eb026138c2a1a1db121a959daaaa2755984ab15a3e3",
-    "9db2ca9496e3f16090326190c309054c1ab96978c6a196371b94fde260451beb"
+    "9db2ca9496e3f16090326190c309054c1ab96978c6a196371b94fde260451beb",
+    "806c9c4b174f0332ac75f7f3e1fa4917eda030571afc31a96649c273ebe313e4",
+    "9144ebf973914ebe09f2a2a8e14767b5aa272cf50ff2ff19421b28b029052e5d",
+    "b5eeb968a0ad8ecf5d4fb254dc70accf5255d52b8494f77fcdf593757c67d3f7",
+    "827ba13ac9b8901358ff2cc9e551fc76794b596c8b62f6276561393e9e809465",
+    "72fa17cd5db55531b90839f9a84a51b81f907afbd50392de72f6136bf2829faa",
+    "4371af7c2ab00aa72ca02fa2f17a062b094893178fde1e7e9c15e05459a04d71",
+    "2adffb3dd4d85bb64218567ee063d8acf6656ac424632be64750b5d08aab69cd",
+    "a447d122a94ce29ccd0d765ad779b35accc62d3e766fec4677d56f3a341ed116",
+    "c701a60d23204327f7d70a2b572bad043c590fdec4144a02049b4754bf4704a7",
+    "cb894225f684995b0f94a6ef4ae83de3f1d616a29718a6cf2c703164fe78301f",
+    "b4f5314967959367b8038b231101affd3a2c7d01e7bb2264f44ac587116c84d2",
+    "5484f98a44253c13bc7e9c5f86b846a3ac3dc9742bd86f6103aecc7ef24e56d5"
   ],
   "title_hashes": [
-    "e98ec139986b630254623b91afa419a60abedc8d2d98b2b8fc24f489a39ffda8",
-    "1b6b61aab411b2f1c3fdaddb0f70e19d82269fdbb8a54facc8d9e63cb82f9465",
-    "3b329ddc97b25cec80f793e728ba92f37530e6a606acc2058ca9338e8479d4d7",
-    "d28c25ab4dae3543ed0e69d2eaa25b9e403bca436837b2d6292d42abfb0dd115",
-    "45ed735032991b64039a49122f6dd984e1eb200303903d483e670007ec310cfd",
-    "f6e69381140db73b16c3395cdf7f57eafdf055c952af134995196a84f50a55fb",
-    "0567f873f1aa468e426f87c73ed4fdc4826fedc9c96cd762e4f314a4a2fcfd50",
-    "f48989826f041ad28d34b235d39a21fe7df2d0ad8f8f3b526a5e9e08c700c403",
-    "d2d18afe2c5eece54f5be4b24e3b6b36473b190e1b9e89c9c86b8672146a6764",
     "dcf30737632fb80da0e30ca94b283cc87b17f7092e7b6441c5ca4836e9e21df6",
     "fe7621576aa0211586ea1b622aa797386b2aba4628db59db0cefcc1c4679d187",
     "0a90821b8357f879740d7d52d00c2340f87daca4e54ff0db07723e7562c46413",
@@ -8002,30 +7993,18 @@
     "8794ccc26f18b497b5954331e062a03937f7e39ddd945657e6bf708760ffb393",
     "a91e94a098a09676e73685eb2953d2c0e2ca5c1eeea9bdbeaa9d80917556a46d",
     "912a87f37e28fc0e4fbd7997d3c3e6a65a1babf040dbc3b2dcfcd48adc85881d",
-    "6a3000164d772b4f275144706b78f2783522c869962eb5f489870479dbfcc254"
+    "6a3000164d772b4f275144706b78f2783522c869962eb5f489870479dbfcc254",
+    "5b2118f9bcb8896bcbee9124712eb55b362a64b42ab9d367be8f2ef288e57446",
+    "18f75ca580c5523d8c5c31d6699427369d3d3356db72273d23d9567e6063a658",
+    "4e9276fe8dbc94eae3efa53804a402308f6b89cc2b44bd7cf9b878ffd815b6d9",
+    "635f6e790c2a5e443c4c5d19446bddafc04ed395259d4a68376a34577e059b52",
+    "a2c552c654e0d2494cbfca8b8f2d13b4cc20faa5e4a9225ae6a851ff24a5d3d7",
+    "4626337eb2fbcae602ee149188eb9fe9e37b171632fd6df85a23f37618063c37",
+    "925f2e80dc26d5bdd892031ef8201e1494ba9285afb474e0d5f81390d79ef042",
+    "8b07fd2146cddc855d8db275f758b8153baac282c7ef87c144c47ba0f08a8ac6",
+    "9c8e9c9cd822b787356ba14ae9317667418d68daaea989f62780021e7fbb1648"
   ],
   "recent_sent_articles": [
-    {
-      "source": "The Information",
-      "title_en": "OpenAI’s Astra Is a Boon to Robotics, Says Nvidia Robotics Chief Deepu Talla",
-      "title_ko": "엔비디아 로보틱스 총괄 \"오픈에이아이 아스트라는 로보틱스 산업의 호재\"",
-      "url": "https://www.theinformation.com/articles/openais-astra-boon-robotics-says-nvidia-robotics-chief-deepu-talla",
-      "ts": 1794892230
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "디즈니, 오늘 분기 실적 발표…테마파크·스트리밍 쌍끌이 호조 전망",
-      "title_ko": "디즈니, 오늘 분기 실적 발표…테마파크·스트리밍 쌍끌이 호조 전망",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VNi1oV2NsU0pCaFB0dFFPLXJ1V2pTckJCVHk3QUwwYTIySC05OW80c3dkcFZTMWZMTlJHbS14US12WHQ0OVo4TmtVOWFWWDUtYVFfbmNzaXBoQVVJX3E1QlUtbVlNRWNtQmNyTDgzVDjSAXRBVV95cUxOTkFnSUJGM2J6bmVOaTEyQTJXTi1wTEtVbXBqRThsd1NIUDhyR2JzTFI1VFZuOHVJZ3gtOUVDUkFPVzBYRkRPdEZJYkN2MlV5U1RrRldZZURsRER5aG9RaVBKa24xVlFkVElWTjJUQThRWXR2YQ?oc=5",
-      "ts": 1794892233
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "KOSPI extends losses, shedding 2.1% to trade at 4,994 points.",
-      "title_ko": "코스피, 2.1% 급락하며 4,994선으로 하락 확대",
-      "url": "https://t.me/firstsquaw/193402",
-      "ts": 1794892236
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Overnight Russian attacks target multiple locations across Kyiv, Zaporizhzhia, Cherkasy and Dnipropetrovsk regions, according to a Defence Ministry statement cited by IFX.",
@@ -11504,6 +11483,27 @@
       "title_ko": "Criteo 인수 협상 중인 기업 중 AppLovin",
       "url": "https://www.streetinsider.com/Hot+M+and+A/AppLovin+among+the+firms+in+talks+to+buy+Criteo+-+Reuters/27363207.html",
       "ts": 1794946795
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "NVIDIA Corporation (NASDAQ",
+      "title_ko": "문장이 중간에 끊긴 것으로 보입니다. 완성된 헤드라인을 제공해주시면 즉시 지침에 맞춰 번역 및 윤문해 드리겠습니다",
+      "url": "https://www.benzinga.com/pressreleases/26/11/g63344170/nvidia-corporation-nasdaq-nvda-shareholder-alert-investors-losses-may-seek-lead-class-action-nvdia-c",
+      "ts": 1794946945
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "These 9 Congress Members Could Have Increased Interest in Nvidia’s Q3 Earnings as 2026 Shareholders",
+      "title_ko": "미 의원 9명, 2026년 주주로서 엔비디아 3분기 실적에 이해관계 가질 수 있어",
+      "url": "https://www.benzinga.com/news/politics/26/11/63367362/these-9-congress-members-could-have-increased-interest-in-nvidias-q3-earnings-as-2026-shareholders",
+      "ts": 1794946948
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Fed's Williams still favors tighter monetary policy, but says now is not the time for 'dramatic action'",
+      "title_ko": "연준 윌리엄스 \"여전히 긴축 선호… 지금은 극단적 조치 나설 때 아냐\"",
+      "url": "https://www.reuters.com/business/feds-williams-still-favors-tighter-monetary-policy-says-now-is-not-time-dramatic-2026-11-17/",
+      "ts": 1794947074
     }
   ]
 }
