@@ -1145,7 +1145,7 @@ def _translate_with_gemini(text: str) -> str | None:
     if not api_key:
         return None
 
-    models = ["gemini-flash-lite-latest", "gemini-flash-latest", "gemini-2.5-flash-lite"]
+    models = ["gemini-flash-lite-latest", "gemini-2.5-flash-lite", "gemini-flash-latest"]
     prompt = (
         "당신은 증권사 및 경제 언론사 외신 속보 데스크입니다. "
         "다음 외신/글로벌 속보 헤드라인을 한국 텔레그램 증권 속보 채널 스타일에 맞춰 "
@@ -1160,31 +1160,26 @@ def _translate_with_gemini(text: str) -> str | None:
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
             "temperature": 0.2,
-            "maxOutputTokens": 60,
+            "maxOutputTokens": 300,
         },
     }
 
     for model in models:
         try:
             url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={api_key}"
-            req_gem = urllib.request.Request(
-                url,
-                data=json.dumps(payload).encode("utf-8"),
-                headers={"Content-Type": "application/json"},
-                method="POST",
-            )
-            with urllib.request.urlopen(req_gem, timeout=8) as resp_gem:
-                if resp_gem.status == 200:
-                    data = json.loads(resp_gem.read())
-                    candidates = data.get("candidates", [])
-                    if candidates:
-                        parts = candidates[0].get("content", {}).get("parts", [])
-                        if parts:
-                            translated = parts[0].get("text", "").strip()
-                            translated = re.sub(r"^["']|["']$", "", translated).strip()
-                            translated = translated.split("\n")[0].strip()
-                            if translated:
-                                return translated
+            resp = requests.post(url, json=payload, timeout=8)
+            if resp.status_code == 200:
+                data = resp.json()
+                candidates = data.get("candidates", [])
+                if candidates:
+                    parts = candidates[0].get("content", {}).get("parts", [])
+                    if parts:
+                        translated = parts[0].get("text", "").strip()
+                        translated = translated.split("\n")[0].strip().strip('"').strip("'").strip()
+                        if translated:
+                            return translated
+            else:
+                logger.debug(f"Gemini {model} 응답 코드: {resp.status_code}")
         except Exception as e:
             logger.debug(f"Gemini {model} 요청 예외: {e}")
 
