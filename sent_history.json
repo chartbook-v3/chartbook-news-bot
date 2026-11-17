@@ -1,23 +1,6 @@
 {
-  "updated_at": 1794890297,
+  "updated_at": 1794890456,
   "id_hashes": [
-    "35063f7f5e08fb455efdc086a8f2642037be82c09001428acfb6a00cad3b6037",
-    "7a9ee323179905d1a31369dd182ed028328527ec7848a1c8846def031eca68e8",
-    "58098cd5630f96a28ee1436d2fb53637651d1797acef475fb00e1d47a0002f25",
-    "90b562e7df4b3f48e180acbaea06373406f1c68d77832ce5e37555189014ca30",
-    "e8cbdf7fe1530d523ca892b9c9cbaa0f3a0bb13a2813bff4b575307a7ff31537",
-    "a4b9ac4ddacbd726577ec6da241d4d6c91110e23ce46f7132cd3f2e96823365e",
-    "b9d5fc0718c54fab7e1fc9e80c6ad84fbee959f980c6d256ab28bbf0e37acfb4",
-    "7f94ffdfcca77ef66b4df0b75ba5ee4e9864026de0d424cb136e1c76db32d1a3",
-    "47aff394cf44d39db84dff00fcb8bd488aac8b0297a66171f34ea0693e1d6a49",
-    "cbc8dfe4a89bd9f5614e852190fd0b7c2fb4dfd2644782e11314330efe16669f",
-    "67630e8eb0d48771ddd0c7e185534b6c4f404856f324bc4394804939d11c9e62",
-    "f320c240ad0b130aeb2555e2440a5c2a48fe692fa2b03a7565441f7ae654ccad",
-    "4e3f225796cb078ed9614daf675fd63073fcb2a99108e5a5830f296eccbc2701",
-    "1a3fe4721cbd692010db78464ea8d33c0d245a95c11dadeaaad9bf87b0aa5613",
-    "a8f5e77ed669ecd872bb3b04f2e6b840acd831a9611c84361dcffa5df3c45189",
-    "4781050aca1d24086b19be38ec2b0475927f12e7c6b1690763473e23decf01d8",
-    "81c7b72d2c37dfb84cc93d1e034d63d8f542d4b9214d5e020134b564d8e8c6e8",
     "e3d476f12bf53eafedf5bbea821c308d6e84a6cb5f2e7e0bbcc997303881fffe",
     "2cd88055fcab55f7771bc358d879fa3ffffe0b8396c49e80b9008452ae599e5f",
     "623a46d68fbb8e5c1ba84e77748c56d23bd0a999bdf533ca24bc691862bc1739",
@@ -4000,22 +3983,26 @@
     "af2b977eb32c6e4441984bda318b33538be9558854865522e124a50b1a50f8ec",
     "231f793c65d3c1d798586799c67b4e0aa109da7721e113765f5dd9f45d10ab92",
     "3b57dc100b5c2378eb72463da37355ef7f0ea2844b30853e680dcac20deeb67e",
-    "980e259d46aafb2e3c83974fd66bd52d6ffd0ee4939e3fdfbca705608b1419d4"
+    "980e259d46aafb2e3c83974fd66bd52d6ffd0ee4939e3fdfbca705608b1419d4",
+    "87d04327332ed5a263281a820ab32f409e79cf2024b6440d99dd514e33c20dbd",
+    "51a32b709cfb8cb5b62ab399b5e59078e8988689c6c7f2dfb0e8a0ff775ff082",
+    "ccbc7626775cd9b40e68c8bb2bc1f41d4591a431615557cde3d9e0acbb6a24a7",
+    "33523053845e6b58ccc67c0a3f1720dd2dedf39f93173fa6fbd07ecacf65fc92",
+    "bcd1880864c329a687ffbd9556eeab3ea3e9848cadb9c2dc4f932e985d795b7b",
+    "4e24667514d5509dffde731e6411855ca676af5338b3987579e667d7911f9ede",
+    "50a996d9c70d20b1375c4029a97f93ebc7c69d209c4e4bc95b1b3465b6383164",
+    "9bd5f73c71eae0362198cd73e9896db514982a72be1c06e12a75f195b0cb2a83",
+    "d7974111b89270c3e59848ee363bc918e36b96187c23868ea7078a3e7b0b5732",
+    "8dbf4eefb4490645f34f788cf2dac61bd63f78a535d163525c6079eea0fc13bb",
+    "158cf4194a2ac85c947b49c3e3255a5f4836b915ac76a0a01590966f1b3cd98c",
+    "591ac59b488805c71c8f1d23a7c67d6f6e9e1bc0ddcf71ca963a0ec61eba87f3",
+    "33c0c47a14864776f5be75e8347de3bb54d785e131ae62b085c39d726b63c567",
+    "38f24ba879b663343891c98520799911abf608025a56f7a78825192d04dbf5c1",
+    "b05128cfb0ff888655bfa9fa93c53128fb702d2e64a6db0e868731b40e90aef6",
+    "cf05218d4f7feff078ee5fe5b3ec7ba79c8621d58f99d732f76cc724b49871cf",
+    "f5de5e7c0b7aba6a1d09c605a214226b270483921e99a9e8ed2aa63041fe1bb2"
   ],
   "title_hashes": [
-    "cff08c14f3af14596025a739b600dc88106dd2bfd36e32b2b3d5bad2faa0e542",
-    "2b4ba7b24766834576e221721da9b3d4f5ee5c2cc402dc47eb23fc64e065fdfb",
-    "d06e86498ea39048f4b849b0e40dafae72ef43fe62e0160dcf1419587e99df19",
-    "ca5dd66ddcaa45597ceb33bd810d9b9d5a1bf2bf7ac9c09a397d52c76a1ee0ca",
-    "1d77253f9794f021d5a5b267ccd887db7b50d03a59591071e0cb5910513ea03c",
-    "cb9c52e420ef09ee9ca2604a85e9632e00accc82a0ee3133322aafd4aa332ae5",
-    "ad846cef31889b22dd15e055ec6cdefc8f7de54eb6748895b08a55d6bb7384b8",
-    "c222b83cc44eb4683e88c748ce406ef5ac30ef5576d717a15fd11bfeb9d3190b",
-    "4b51983205d2dda4998577e84493197b294873c7e34ded89a494ea5de948ede8",
-    "f7d8ced47fea4a113ac0ca2bc9390e9cfb2adb223045f683b81a320ae9b8f687",
-    "e6aa11aa2055f47ee00f275ef7c1cf5b2ae5595a93fb4d4fd200a98982ec62e0",
-    "542db5eb7c164c79575c8201556315a28909404bf3d4763fdf6ba0b8ee31ab77",
-    "f9e843173e7ef96aafc53b284d060fdb20eab24512c178657ad6b642cfba5ea3",
     "186c24e1704e9fbcb0daf8e78ece0a239019fb2ed6f469a2e174f052c7079f0e",
     "9149536db7a1564d957db2711bfed6434d2b59e5b490ec171e7a71e74f747c38",
     "c1a4d2dd47c8bc61d03c4ec428a6c97359dfad1e662dcbaeb5af2dd4ffb96af4",
@@ -8002,23 +7989,22 @@
     "a064618b091edef1656e4cc62ffd431c7555a8512b4e48273db9abe86d130c9b",
     "a70e27cf5e47a3d3255188412f51c3d46d05a9fdf4e77fa729303d555ceb8949",
     "d574d0be32c33d82515626159de15b4ddbf091f7bb2f6f7a42c4d461136a3238",
-    "72bc8af723ac937a42efe10c639caa341c53b7332b7802c695b30e3926536d07"
+    "72bc8af723ac937a42efe10c639caa341c53b7332b7802c695b30e3926536d07",
+    "746443d9908826348fad90910c0ea0aa21c9225666810179a09fee5187659f05",
+    "95aa41692e90e1e72e995745b1c486f8565c56a588ad082752983608bcd7701a",
+    "afe574a227c57b50712f80e92e0b04a36b63299dc9dd2876aeab47a7f92a63a1",
+    "fe7a530e324d427d0d791e50080269c4901d6836556fb5c37e0ae134e7dc16e4",
+    "dc44c8ef751bd49c2e098a78584bbd0a4781ec0b81ce4c1b8c943a5c191d9624",
+    "332609594cacc4b887637236cbacf3d917c8e753be933ae56a5a77772154f0d4",
+    "e265499c4deaf9a253f73ac3207e3d9b82463ba9f89e963a73efb7dc2a86a11f",
+    "0d4176f35b6c23f4fdfc8256da66d89e4b221e864c13aac43b3f15963e6fe54f",
+    "ec98da2747508725df890ace909bc5ad8e7e3f15f3d3cf7fa5f1388a9ef16897",
+    "ec94eded14db7124a51be67518f6ccf7b22ac36d27b7b75935bbb5d3d6a4199d",
+    "9c2d12c061a14a4aec68762574fa330c48556ed70b66b9a846bf0711f1ddb2b1",
+    "e92238d8acf458e0a9491eae9e78107472ce68d70aa34712a1381147b2862d12",
+    "ad8e5f4f772bd46354cc3fd269bd43b68771534c602da41091fbfe7315d8c663"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "何小鹏：计划明年向全球合作伙伴输出Robotaxi整体解决方案",
-      "title_ko": "허샤오펑: 내년에 Robotaxi 전체 솔루션을 글로벌 파트너에게 수출할 계획",
-      "url": "https://wallstreetcn.com/livenews/3200673",
-      "ts": 1794833016
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Knot expected to drop out of ECB race this week - Volkskrant",
-      "title_ko": "매듭은 이번 주 ECB 경주에서 탈락할 것으로 예상됩니다 - Volkskrant",
-      "url": "https://www.financialjuice.com/News/9853794/Knot-expected-to-drop-out-of-ECB-race-this-week---Volkskrant.aspx?xy=rss",
-      "ts": 1794833019
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "Knot预计将于本周退出欧洲央行行长角逐。（彭博）",
@@ -11504,6 +11490,20 @@
       "title_ko": "미국 반도체 규제 및 엔비디아 불확실성에 아시아 데이터센터 관련주 약세",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWWREYkVza1NmRjdZMXc5WDc0OHI3RDdHbkllQ0JGMlFMNmlIaXktZWJjazR1UzQ0d21CY2NzVkRyRTI2N2p1SkYzWjJROThsZ0xpcWx2c3BCYlBaVklxa2NKc01sQy1IUkVSS2FId1BQb3Z1d3R1amVwanhaa2xsMVZlaDM0czA2R2E5azNkNjlZdVdONkl0X2dZVmFvMENmS0M4M3ZRUlZaS3M?oc=5",
       "ts": 1794890296
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Europe and Japan deepen semiconductor ties as imec expands in Hokkaido and JASMINE mobilizes",
+      "title_ko": "IMEC가 홋카이도에서 확장되고 JASMINE이 동원되면서 유럽과 일본은 반도체 관계를 심화시킵니다",
+      "url": "https://www.digitimes.com/news/a20261117VL212/europe-japan-semiconductors-equipment-materials-industrial-imec.html",
+      "ts": 1794890452
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Daxin aims for semiconductor materials to exceed half of revenue by 2030",
+      "title_ko": "대신증권, 2030년까지 반도체 소재 매출 비중 50% 이상 확대 목표",
+      "url": "https://www.digitimes.com/news/a20261117PD213/materials-revenue-daxin-demand-2026.html",
+      "ts": 1794890455
     }
   ]
 }
