@@ -1,20 +1,6 @@
 {
-  "updated_at": 1794887356,
+  "updated_at": 1794887509,
   "id_hashes": [
-    "50dc3cefb347ba98ee6d03affe207d3346ba951c371258dc10771519d5d729c0",
-    "4f138da245a684d8194854b0b07c722eeeb9b7763c3af43048407712a69b1c57",
-    "99c609276e6b78f0e0033aac5c6f0f1f989c1bb510f4212228e56e994409860a",
-    "ba2aa631c180dc8630e8bc571e0634a9637c03d78c270e647f92902b51df34f0",
-    "6b318d3834b1c9dfb275ad4c83802f047c792e03a50aa70579f2b1303ef00e40",
-    "4243f42f550874c939760a34034b35cc1d801fb0c3d1fcc0f7ccc8b6c1ff8ec2",
-    "f3ea82d74003f795cb0ac19233edc883414ca9f502d507d569870295a04232d8",
-    "82b902195790f957944856dac7e3e78ae1ad45d921eef93df8c3b0990edbe0e5",
-    "94f83358cad855d6a2469e0904660a34a435e77f1713db62ee33505daa01b68a",
-    "e213e27fd0acb4439c03334bb5c867013fcc52c6405637f53843982066c10777",
-    "c1754de7310e092e4f556cf753c48542305ebf1b145d5193ab6649447d9cd30a",
-    "829a236846f292959845c50f41029a81d965eaac9d0299053044b4dc1c33e3f8",
-    "580ef59924a96f52de63a7dfe559c67f749f797fef1b2dee795b6c1f106683b6",
-    "1a92bd66224a2e113ee5591585381b99441c9ad7e6d458aa97b9772aecdee3fe",
     "e7ad59543791bde74ae0a926fa89800965ad82d1b2130636c66bed9454de370b",
     "f790d65b3318de8383d66397c6fd0b6df6bcfbff3a93266a6271e91e39fc3155",
     "4e13fabbee934b12b5fc3ba0c45439e5371072bb0f1e95a5eb9b6cb2887e3d99",
@@ -4000,19 +3986,23 @@
     "d12630df47ee50d5d0054210492229740304f57c11f1d4a682882e1773fafaf3",
     "e538e920001b592d6e6beebf54c59238a865e2d83b90f01866bf3759ca5b47d0",
     "bcfe103469c5940d081ccb622b7d82d038c016d05cf6fadbf83645714097a660",
-    "cf869320b8491a4f2f24c920f506150912b685eb5d9c56447d4596d2f54c5eb4"
+    "cf869320b8491a4f2f24c920f506150912b685eb5d9c56447d4596d2f54c5eb4",
+    "e373bc77c99f46443ff8945b4e5c0cc809a621dc334dd98dfe965714fd354e32",
+    "9998a218b3d0d0845c41b71dfbbf4ec24440f724930a4ba4a2f9ba2016aed650",
+    "576a6b0d8b29519574b1edfc6ce1671a85db0db5d26473bc1930d83bf2237295",
+    "57d42fb5371ca6d98dac4636f4870f127c126c5ad9a7021fbbc10aa463d12677",
+    "0015daa4d75664fb23826e4ed3aefacae231555b8d5521b8d5b20f5381988d99",
+    "42c1c65b5791daa3c0e43060a28d300167ab673528331a84fd89584a8440bdd1",
+    "556bf97e5f25b6c93699ae4ff583045e66e70d7a4fd840410184340613816cde",
+    "398a02b2a70b1e147456b6cbdd6b5dab312d83bbafc80076376212d37a46a394",
+    "4bd1fe862610663aae7231720e13a0e8b448e91b4dc28e17d0de303b288438e0",
+    "cc9e5bc3522d456c6189e7a4193ecff93f9173518d69139f697cdff8ae89dd4e",
+    "993cccd78fdb403d3f3d9730598e5439e043928695ec5a96603a76f714241bf9",
+    "068d2055c331dcf5c420456a5436d95d4a90bba1323d000747c1b0c7d9c79d8d",
+    "74caca721d97d1f1faa5fff6aaddde90c6b33990de9a3c0520865170b505716e",
+    "7b4d55fb238d279b63fdf177cae37340396a6f4078d0e2c97d95703f96c65984"
   ],
   "title_hashes": [
-    "b159891b4ce2b806cac7e2c515b870c56fa61b7cc888350b3d46bf320e32ee7d",
-    "c6d5d2392f8f07d1e1291fbf6de4a3e276fb23f6ea8c4ec3753fe7393c207fb4",
-    "f710d25e0dc713b2fc10f0ddbf3aa5afb65ee31c35480baafc4911674860b3dd",
-    "274cdac0b2fe8013703af404c5b3a015151cfc70a3ec7d9691ea9214f3aff6d3",
-    "738cd079b8c3facd69d5f4e371e8d14c6fed29a185635b9310de655194d086aa",
-    "d3f9ba4919b086291c1b184c4e661ca81f7a0df6b210f80578a6a8667fede506",
-    "85e27c9017d8b6c5fdfee007af493121a4107d6efe8c9de37054a44353dddd6a",
-    "db1df22e3c3d2d71ac3759611a4b1de7541c76cda1e04b7298a9e49829f419d7",
-    "44046d199e20697bdbce6416cd8ee1897de882b48943c670a5d8aac8a003d70f",
-    "9353485d52c55f5f99d45a5a6276534c059a3216bc9194159d4af7b261933c3b",
     "c22301d17795fb88abb974088b1f91e6e8985b69e5833d8c047f4d3a7129d6ef",
     "e9a6fb2becf4818766b8ad5fd348126ba30b2fc5da3ed6de05a99a63e634a3ee",
     "201b090c86d8f3d5714bef25c74baeeb5e1f7c42d5f30f2763968d1aafe29c27",
@@ -8002,23 +7992,19 @@
     "db73a649d9dff17644681d176deaea4fa748c409a8acb219fc82bb6c28246aa0",
     "30d3e8097a3ebba17668542d7bc4659ec8fd17a15c4072f973c11f857c77ce24",
     "8aafbc21da2de87e6d3fccfb5374405f21f360861c116cd6dc2282eab70737a7",
-    "597582025cbe49f6aeaa652e2585f2dfff63173c89942cd00b0ac5ef5b96d6ba"
+    "597582025cbe49f6aeaa652e2585f2dfff63173c89942cd00b0ac5ef5b96d6ba",
+    "1597c47901a2bf4e9fcbaea0bbcd6daa4d47f8e8a64f501dc3ea5a2fe6e3faec",
+    "967360654f00ca1ea4c8dcf4c4f3106fb1e368a22b803307103f8e435dd11d95",
+    "74a09ddd00ac2547066c0260a18a50b1e0dec6e09ec46b3e688c64272b6b69e3",
+    "ceb1719ff03c212c72ee7e0bf9e01779ca8689b70dfb6fbc67842d0dbe2dc21d",
+    "d6d3d0dfe4a539770edf7afb42af028253d55d9ce81c4cc97ef8576f7b27f5ba",
+    "0be79439213cb75b1a788581e35690fb02b1b5a849601683438e35d20f8e9b24",
+    "1a6b6779974816a39474f766479c2c2fdc2b9ac1518c64b3cc6f0edbd5c96cef",
+    "0fb159374d7086e30e53b1c119522a537c97a3f14a98586d56e990fc49bc6556",
+    "15a85827abbb5c0243297ef4220ea8b70bdbb3cfa5137bb53b1d678ccdce1175",
+    "ecc7e0035e611e85242de65241f9bb8f69e0df1e05b33f78ba3e235180daf150"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "SILICON VALLEY VS. WHITE HOUSE: BATTLE FOR NVIDIA",
-      "title_ko": "실리콘 밸리 VS. 백악관: NVIDIA를 위한 전투",
-      "url": "https://t.me/WalterBloomberg/38421",
-      "ts": 1794832200
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "TYSON Q4 2026 EARNINGS - ADJ EPS: 61C (EST 53C) - SALES: $14.59B (EST $14.32B) - LOSS/SHARE: 22C VS EPS 13C Y/Y - SEES 2027 SALES: -3.5% TO -5.5% - SEES 2027 NET INTEREST EXPENSES: $360M (EST $355.7M) - SEES 2027 CAPEX: $1.1B TO $1.4B (EST $965.2M) - SEES 2027 ADJ OPER INCOME: $1.7B TO $2.15B",
-      "title_ko": "TYSON 2026년 4분기 수익 - 조정 EPS: 61C(EST 53C) - 매출: 145억 9천만 달러(EST 143억 2천만 달러) - 손실/공유: 22C 대 EPS 13C Y/Y - 2027년 매출: -3.5% - -5.5% - 2027년 순이자 비용 참조: 3억 6천만 달러(EST $355.7M) - 2027년 CAPEX: 11억-14억 달러(EST $965.2M) - 2027년 조정 영업 이익: 17억-21억 5천만 달러 예상",
-      "url": "https://t.me/firstsquaw/193185",
-      "ts": 1794832204
-    },
     {
       "source": "BreakingMarketNews",
       "title_en": "US Commerce Secretary Lutnick asked to end advanced chips flow to firms w/ China ties",
@@ -11504,6 +11490,20 @@
       "title_ko": "두바이공항: 3분기 인도 260만 명 기록하며 국가별 시장 1위… 사우디·영국 앞서",
       "url": "https://t.me/firstsquaw/193369",
       "ts": 1794887208
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Subway in Kyiv, Ukraine damaged in overnight strike: city officials",
+      "title_ko": "밤새 공습으로 파손된 우크라이나 키예프 지하철: 시 관계자",
+      "url": "https://www.financialjuice.com/News/9855012/Subway-in-Kyiv-Ukraine-damaged-in-overnight-strike-city-officials.aspx?xy=rss",
+      "ts": 1794887446
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "GERMAN, CHINESE HEALTHCARE PROVIDERS LOOK TO DEEPEN COOPERATION AND PARTNERSHIPS - NA",
+      "title_ko": "독일·중국 헬스케어 기업, 협력 및 파트너십 강화 모색",
+      "url": "https://t.me/firstsquaw/193370",
+      "ts": 1794887507
     }
   ]
 }
