@@ -1,19 +1,6 @@
 {
-  "updated_at": 1794958157,
+  "updated_at": 1794958314,
   "id_hashes": [
-    "023109b2448da241149fa0a58c3373a8db0db5808280261ae4fe3b3f1129eb59",
-    "1a2ff02abcacec336fa98274349d70868a92e16a6bffcf9d0e3d55e1ba07db21",
-    "446027cfdb580e620fbde34dd208d4cadf5cbc32985d5a0be7983bff9d01e1b2",
-    "60e6e02cae2998b2ee67379992f598188b37cd6b0b7026da3198e6007f856865",
-    "261ef6d3a30ecffc452781d4abbec40237f3c7affdea61c6a2abf82c749802fa",
-    "5e9a1e0de352ed968869b9fb29686c55766a46b2429bc6fd36a72d9f9146de7b",
-    "b2053988ce7dad534a43de12575c5ae36df07c709a43a743750ef431e18a989e",
-    "eccb1b0982208da27d1ec67f49a61edd45e3b9244ce4708077e4d5eb387bb922",
-    "74b618d4fb68b5d19b0511454f4a63a38e2cb411991f09a187c1abace1153e81",
-    "954ca8454d3dacb5ab3585efb94b4f9145cccb268a5fbd5e2e4e9806893992b1",
-    "7f54b6da14e652e91901c4bfcfdb7afadaae7098869910317559e72030b7f508",
-    "e9082c4a2981e5bd1b09031c1d4c4b80f5456db9f0f713937a5832bc71dd475b",
-    "da3fd0f7469447e66ca441551aecdd04a00d6caf210e1aa2f137cfe1aca79e02",
     "2029bf90753048060c82427cb25fda4beb17ba894e2b897b33ff21cb3631154e",
     "e38765e0d888922d4b2ab299c09b31d122b9daafca7be0b79e6437be688de834",
     "ca04b6af092014695498e6c92c16f5ce2b41eebd906f47aaff01a15265d10650",
@@ -4000,21 +3987,22 @@
     "6ffee905362c1932f43cdb8ff93223e139cf2bb34f4f7f3dcb4e509f0da054c0",
     "05a5ddd0abf7bcdf512c8896ce6f5f2611fd5d8b84bf1c7415b875a5cee4ad9b",
     "9e1be4e142e4d3346744ebcae42fdb15e2d18b871637763ece44fd98bc6b32f6",
-    "6c482df6f6d21da0bab39428f058c0c25ff720a0695e3d21e20c211ac5f03877"
+    "6c482df6f6d21da0bab39428f058c0c25ff720a0695e3d21e20c211ac5f03877",
+    "077d4968b5d461364ab3f2b423fdb0cc07cab3eafb46343a3335975b00d48d5d",
+    "cd3c1ba781cb0b74695ca57400e3a327bc7a115783761de297e34c65bf9055e0",
+    "ae7995cc32d4e0460f23cd5b4614df0eb4924ea6ac32dd6e5b1e9a2177556ff9",
+    "48cd6caa2838461e15424107abe0f1b6aee826568cf527ec345f1f6bff868085",
+    "6d647257fb7554d639d3c876985fb2dea3b5034ff2241cea251b1f040a86f6e5",
+    "4f1eb6d7ed68c1f2ecf4da14d31e0ab99451ef6a39bd7eacd0f28b53ee7032c1",
+    "26fd57c1f095968cc8279b37489f8cbdec08b883d64f6a52523b9abb299dfa7c",
+    "ad6012cdd60ec881a882c2d47196c65658b13101d39df9b5d3e2048e5bae370b",
+    "523c8db853d7768bf8cc0dadf5b81d7ea755f62e1971d6800a95831a388809ee",
+    "6edd2c499e4e28813344892b7706ea14cd200e98c8908b4c5288754c98a26fbb",
+    "cc44e96e4415ebde92bed061094e3f4967e0d40067a49d083ecbecfa5b5a81d4",
+    "f33dd376be891f1f3497ce0d6bfb564e18ada897b38276b9328d7d150a788ea7",
+    "6f2a6ecdf2ecc5b36a9ae2f7eaec12d70707cff96ea8152163ff0363c02a29a7"
   ],
   "title_hashes": [
-    "df248fa4968e63d9a194437fd02c29fdd9740da21c99b1325e69edbb1f7137b2",
-    "44435a27c67cce89070a43109d98f79973ac5c05bc1fa40d128c2b436fc6876d",
-    "a370086ad0a7fb1db3c98a96807d2b81d45d910864c74935ea61796147b21d0b",
-    "b4e7ebc18bf73ae85b37b73173ad49d970e5495bda52045de6d8d9e2d708b512",
-    "fb1feb9cc9a628a1b169b7f589778e5be1fcd58cd92e8dedcb1afc03ffd0b8b9",
-    "1d38fafa3304f0d19346fe85e2a6b2481d4a5e38a04a1aa4298b43ab98c1332d",
-    "e5bbffd77cde2cf201d55c4c2378265efa8fa9557d633273a85aa24fd6426d69",
-    "415e1665f8d8614d54a831b77c7cecb15ea641e6e4dcdb938c64b58638bdd453",
-    "18f65c4a9049d909e7ac0d021703dab63dfbd6133b047d71a695f92e4dc9b9db",
-    "aec948cc8b39202261788071860371d88e7da4c69a2878c52aabb910fb457632",
-    "1aaeb01d40bd7d2568203814e5e804e7dbcf48d56af3391022e713022ede5eb5",
-    "889bd5aeb4e37524afec4a08eefe1832e9c58df2e747b578c9b0f7adb867e7d1",
     "04f9d92b234d5c9fdc4d1920028e914987f30da770aad0a0e93b79c6c39f3a51",
     "07fd23ab556fe1a54980ff187f3644a573136e69c541fd62061f377b3721beac",
     "0d4b32a3e4ed26acdb6d20efd0b12236a6a581c04c317a461019df350015353a",
@@ -8002,23 +7990,21 @@
     "2f19e180fd7a95e27b3c62d1a624008fe50eb2685858c9efeb4845edda8f6b01",
     "412103023e4fdfd2ae8a51b736f97486214c34644fd2139361e032ee56119e97",
     "ec9761921741a063cbae7af70fc68b8b179ee2fb0f77e67260b7e6c2b41f01de",
-    "3e51cee6a0d90c82ff29817eb545bcb09d5ede198e7cf41fc9cc644f168ace7f"
+    "3e51cee6a0d90c82ff29817eb545bcb09d5ede198e7cf41fc9cc644f168ace7f",
+    "e44eb5a6a303b640e2cb238f5f10a7b960d5fe14a1673856ab9216ae7519ec04",
+    "dd141bef3a4a508d7958658087a911ecbddf9679a4e9fd353af06ad25606f8f4",
+    "74432e9df128310b6e093ca1b10380722447e633a072aac7f7242697cdfc6dd6",
+    "7969a92db4449ea7b4dc6ddf0cd6aea3ba2b45bdca26ab4aa645eef294b57ede",
+    "bb6f9f3534423c478fbd928496e07bf11bcfd568cb81796f420f806ea45941a7",
+    "5212443e75dd3daa0850e5f6e05632994a8a14e87065a73f72ccc273dc04dc42",
+    "db243b61a25d93c77f4406e2c6f7403636fffb70cb8dc29d325345eff1f9d28b",
+    "98e5b5f6388020ed12ad816b94052eef83d3620ac884fd80ac89ff5b6d545a73",
+    "2abe278cf0dcc4fedd1b7ca491cf3edaf891f15a6496bc18f1dd3cd8e3a7ef46",
+    "a5554f302abf0e5211d55f593cd81cd010a5fbf3fd4fa29c3c4689f9985066c5",
+    "cd45dd779b5d6bba8c11c94eafd094c16c1aa1d077d2844648a016dff81fc723",
+    "0da154dd084887c35578b1b2a58b969282f3b170fc4fc3d71feddd25accc1333"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "Trump: Will press Xi and Putin to help bring an end to the Ukraine war",
-      "title_ko": "트럼프 \"우크라이나 전쟁 종식 위해 시진핑·푸틴 압박할 것\"",
-      "url": "https://www.financialjuice.com/News/9855561/Trump-Will-press-Xi-and-Putin-to-help-bring-an-end-to-the-Ukraine-war.aspx?xy=rss",
-      "ts": 1794912748
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "BOFA FMS: INVESTORS SLASH TECH ALLOCATION BY MOST IN A MONTH SINCE JUNE 2006",
-      "title_ko": "뱅크오브아메리카(BofA) FMS: 투자자들, 2006년 6월 이후 최대 폭으로 기술주 비중 축소",
-      "url": "https://t.me/marketfeed/1079479",
-      "ts": 1794912885
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Just 3% of investors predict a recession, cash levels at 3.6%, the lowest since August 2026 - BofA fund manager survey",
@@ -11504,6 +11490,20 @@
       "title_ko": "Bank of America는 경제 활동이 억제될 때까지 미국 금리가 계속 상승할 것으로 예상합니다",
       "url": "https://wallstreetcn.com/livenews/3201581",
       "ts": 1794958095
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "엔비디아, 삼성전기 생산라인 추가 자금지원 검토",
+      "title_ko": "엔비디아, 삼성전기 생산라인 추가 자금지원 검토",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445250",
+      "ts": 1794958310
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "엔비디아, 이번 분기 매출 가이던스 1천261억~1천339억달러…예상치 상회",
+      "title_ko": "엔비디아, 이번 분기 매출 가이던스 1천261억-1천339억달러…예상치 상회",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445252",
+      "ts": 1794958313
     }
   ]
 }
