@@ -1,19 +1,6 @@
 {
-  "updated_at": 1794957217,
+  "updated_at": 1794957398,
   "id_hashes": [
-    "e293679a899c0dd5739df66c09ebcec008aa1cf7e03223be0f0abce33f68ff92",
-    "cb6fc401f2684f0c2f326f750dc8f8214a6c96c818ff8060c2eb3c36bdde3abb",
-    "2b521b4c16213c2ab4a3e34c38dc345e3b2ece171dde15e18ef0a8099855ffed",
-    "6e4ccd0caa0729425f291cb0084b9f02242001ed8f2a4315035587d228d5f8f7",
-    "46760f31466c2f7bdb82fab4d162738f81c8108d7dd13c9078514ac4dc0f1d2b",
-    "c38d12873047910238eccc5e9ad6fdd31c7a53369cc8b9089bad44b89496c6a0",
-    "aa3a2a15bcb53b520c5a9eee9512664e733ba3df444aeda63d9eebc2bac7d02f",
-    "a6a9f4621ab34cce940115a1df592051d4c2cce54246911507bb9d4fee9618ff",
-    "627505ec49d2a7cb4a9e3e772f9f6f59309b22321cef9926d77b8c43db2f7e2c",
-    "e1108dba50b20f3e764b53397aba950b72bb9f6dfb1ce32edac30b375eaecafc",
-    "a79bbfa4eac24ff8ce1bba22bbf2b6f3759bfe5272c73a1dd9c96f5fc0029d2e",
-    "01d007135d5a0a25c85be55129b2150c3e5c382da3b30f52aedf83763e0e23d2",
-    "079e249f976c28b75316dba480ab785c04fb17af0fce590c07a13423d84ef23f",
     "111ffabde7638db26993efb5ad9a89885e1a491cca640eeee398adf467d341fd",
     "b2db2a556613ac862b7e8f49f648ea1f121d55ec8e87108435ffcbb097d167f1",
     "7cbf76bf25eba2cbdaeaba580021dbd48441752b4544feeace4b8551372fffb9",
@@ -4000,21 +3987,22 @@
     "90bb4d30c27e8a000d301ca996a7cd5df0b95db7dded89bbc850e43bba1ce1c8",
     "271866267cb5120d8145810b1b9fd47e764599008016a1a80acac299bbe451fd",
     "daa4708cbe37b3c8c397c22ba8135f40af9d58f6e736ca30210d495936f7137b",
-    "e9bcdcc1223f294c7bfc3ba4c24ddcb365552d6d22a27ced0574f8faee5f2ee8"
+    "e9bcdcc1223f294c7bfc3ba4c24ddcb365552d6d22a27ced0574f8faee5f2ee8",
+    "760a990be53c1aaeaa4e3a80b1dad17c0347b5c7ae8cf7f2dca083f1f3369b1f",
+    "984308f49af6e3dfa4c56e0bd5846e41d8cb51ea38965e26b2282151e89627ca",
+    "dcb1fa3095a48a66b7367e10e7e1df6752025e74c4b461321ff218eb7f3ca4ea",
+    "5d34ee16d54592b4aa555b63a2e37bb1df7c5b821de6e534ca03d26a875b7012",
+    "7c36462a9f961e217b98d0e1bfb02d78b8378c3ae45c636ca927831b3f5d7edd",
+    "08fcc637c7bea6bc6a6b05bf7dbba3047acdae0010888cbc3330b1b31490f317",
+    "bb55c3a3a26659cdd22e963d9dd52f685ed92a934732c390b852e1e5fb8230a2",
+    "198b734a01798c8139aaf08f4193032a5048d9d2bf9f7cb65ed3e3cd8b674388",
+    "448b0594d80c1afb31def59abb9c64749d0cf59e5caf5342a57af23a8df54cb6",
+    "a825dc6cf69ee3f457dcc080fce7969579ce4635da3a331e6fabd5374f5d6525",
+    "2263b597153a6c42dd06c9c59560d26e0c06206b1b0756a4cb7f78ff91e72dd1",
+    "a0ce4deb75d217b7229c5132a74a2eb3ba8877bee09a31d3778611078c297b64",
+    "9a1ed5dca08e6da1b0c65523b7277b08e54cc8a0be65b9529c8a5b787fb8bb5b"
   ],
   "title_hashes": [
-    "7d61cba05388536624635b769a117f67d2000fca6f4c787cd136d65a5104d471",
-    "8b8f048bbc14a9b42442f7c45a0a94b63a20fa8577075f02859020facbdb7fd2",
-    "badc07eb3913892515a151180f0a7993a822183e6761f25666154018c5c91b93",
-    "892a33143a58d8395c6d59c304e06feb6110c0b4455ee3e7cdd644ce695dd8f6",
-    "29d54935de7c78440193ee6d4adbae47383dce37ac6e721942ae9db8f33cd07f",
-    "fccf03335f9eeb334388af3545e289b8724e3fc62dfd057d3b1d87aeb8b23a05",
-    "5149106c327ff21d28617c741eb41ff52afb490eef05fc1ab0be17933eef0787",
-    "17ccd503a924f911e0c0d11c63d3ced3885511237da51a599512d9d2809f19ac",
-    "f74e92dedd342b222bfd3cb6f04e425b4360d9a521efb971be557cad6c5912d5",
-    "26717d15d763d9357ca76e14a9fcb8ca32ef47c10dffb26d6b2c4c5618c020ec",
-    "b062cefaf9e6e33be1322b0749651e28196e741d3762de65626382e8d237a060",
-    "522fd9a7fc68da40fb5314248b79c9a5d16c66602121866b7bf4ac1be4b1ae25",
     "68f573b6692404bf1cba0fe2c2525303ebab4d3d6533c37a5397a54de0ffa99d",
     "edf945b53607cbb00d9970e6b7943e5d4cccbb201f6235565f5ce969cde103dc",
     "344571342c53c18e5040c84f425c3d1a6d79fc4d82718e6006dd00eeaff3c108",
@@ -8002,37 +7990,21 @@
     "6dd0b3309d7ba1409350886a3d0c015d6cc75ec317604321f73ff5cf5d858880",
     "f116a300e17287a3bcf9555e596df414f88991242bd6c20c97961f2d42bf18bb",
     "b4ae54e1a9fb7dbca4121c89145dded5538ab7ea3b9d1cf20c308e8fdf007776",
-    "0203bd8b14e9208d162f4ef51308f4ab95d009d935ea09e6d27a70876e57cef1"
+    "0203bd8b14e9208d162f4ef51308f4ab95d009d935ea09e6d27a70876e57cef1",
+    "97aef7cfa09378b0decc136cdd1c1f7ef31e915fe3cbcf040c4f658588ccf402",
+    "2eba43b4e88c722317444199b9cc9319f2049249c537b36b2b244adeac7a03f4",
+    "92ad611ffb95e3ee4b72dc9e0032eac466faa63120ab2dfba5df1e526edde8e2",
+    "6b86e89e9eb091a4851d52a953f088b37d7bf77f294f2db9d9c8ac36669d0764",
+    "14e8d9b319310e34a263c9ef58a1b8d7c9a1ca3bde250d814351177aba0d3930",
+    "0b3fb41f1514dd1d1e8caa117d82d86cd1efcf06de54edfbed5c9de3e5833406",
+    "fdc642e32bdca84cb8d5a03c8e7cacf8b3023329fea7d573896ac478bb743c01",
+    "30d685c460a7292516537bd790f8a435599f86097087bcd71fe12b9857a2afe0",
+    "23964f6e6cc45249006a3eceb1cb9435113f862e5d0c8fd7293811e11b1847ca",
+    "db8fe2143bbb04cc6c8f0d380c31d9f591a4477ab8fd0277f6e69cb56196e5de",
+    "bee11d9f8ca9d40aa5b6adb09971a7039f3070309e0026f24c77e74085930cab",
+    "34c2423b34d214b59e8682076d25138bb60a23134d144825ab632b1148dc4b8a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Apple Watch Siri Recap Review: AI Listening Adds Little Value",
-      "title_ko": "애플워치 시리 요약 리뷰: AI 청취 기능, 실효성 미미",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/apple-watch-siri-recap-review-ai-listening-adds-little-value",
-      "ts": 1794912398
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "TRUMP MEETS LEADERS OF JAPAN, INDIA, AUSTRLIA FOR QUAD TALKS",
-      "title_ko": "트럼프, 미일인호 '쿼드' 정상회담 개최",
-      "url": "https://t.me/firstsquaw/193499",
-      "ts": 1794912401
-    },
-    {
-      "source": "Reuters",
-      "title_en": "China's JD.com misses third-quarter estimates on weak consumer demand",
-      "title_ko": "중국 징둥닷컴, 소비 부진에 3분기 실적 예상치 하회",
-      "url": "https://www.reuters.com/business/retail-consumer/chinas-jdcom-misses-third-quarter-estimates-weak-consumer-demand-2026-11-17/",
-      "ts": 1794912465
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "特朗普：不担心微软服务中断。\n\n（谈德意志银行）他们这样做是非法的。",
-      "title_ko": "트럼프 \"마이크로소프트 서비스 중단 우려 안 해… 데이식스(도이치뱅크)의 행위는 불법\"",
-      "url": "https://wallstreetcn.com/livenews/3201255",
-      "ts": 1794912467
-    },
     {
       "source": "FirstSquawk",
       "title_en": "TRUMP: LOOK FORWARD TO BEING IN CHINA",
@@ -11504,6 +11476,34 @@
       "title_ko": "엔비디아의 상승폭은 종소리 이후 5%로 확대됐고, 나스닥 100 주가지수 선물(초기 아시아태평양 거래 기준)은 1.9% 상승했다",
       "url": "https://wallstreetcn.com/livenews/3201573",
       "ts": 1794957155
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Stock futures rise as Nvidia gains on earnings beat and solid outlook: Live updates",
+      "title_ko": "Nvidia의 수익 증가와 견고한 전망으로 주식 선물 상승: 라이브 업데이트",
+      "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html",
+      "ts": 1794957265
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "A股上市公司积极回购，机构称市场向下风险收敛",
+      "title_ko": "A주 상장사들의 적극적인 자사주 매입, 기관들은 시장의 하향 위험이 수렴되었다고 말합니다",
+      "url": "https://wallstreetcn.com/livenews/3201574",
+      "ts": 1794957331
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Baseten introduces high-performance inference for open models to Microsoft Foundry",
+      "title_ko": "베이스텐, 마이크로소프트 파운데이션에 오픈 모델용 고성능 인프런스 도입",
+      "url": "https://www.financialjuice.com/News/9856669/Baseten-introduces-high-performance-inference-for-open-models-to-Microsoft-Foundry.aspx?xy=rss",
+      "ts": 1794957394
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Baseten: Microsoft foundry launches public preview, general availability expected early 2027",
+      "title_ko": "Baseten: Microsoft 파운드리에서 공개 미리 보기 출시, 일반 출시는 2027년 초 예정",
+      "url": "https://www.financialjuice.com/News/9856671/Baseten-Microsoft-foundry-launches-public-preview-general-availability-expected-early-2027.aspx?xy=rss",
+      "ts": 1794957397
     }
   ]
 }
