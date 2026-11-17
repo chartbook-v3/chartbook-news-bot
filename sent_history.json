@@ -1,29 +1,6 @@
 {
-  "updated_at": 1794914976,
+  "updated_at": 1794915167,
   "id_hashes": [
-    "c417d051d60a4defa034d0a266e3845ed47554a2d0e5a4f8d79db66d41081821",
-    "ccd61ce9f28fd0a25c068523c6f7065628fe0891260c891325ee025d3b118c4e",
-    "e63ae22ae2993d053035a5f614b408628d72cdbf6018ea33773c123a2700399b",
-    "65b394775b174922e0c989d3face9eae1f7893fd846e3f076a31a22d16eb1c16",
-    "4ad432a5adfee2748c300d45ae6a9769225e4fea7d0a90034265aa7a11ab0991",
-    "b56faae47bc8bff61d397ead1b6be16d9afc48a0a9197d1572d0c81cfdeb1fcd",
-    "9a8bd23e7c1038c4e85059c9370ee4d9f804e4e9cc8b9c535fe5edc2d262c3c4",
-    "e171da40f7e18cb3b7ce13493f5109ab638055c8e53ef2ff9294a2cf6b831e13",
-    "b5f51d9db5493e5898f8222e0ecf2446cd96c4d31882c6ae6d32d4e8c77971f4",
-    "f3b31d0e1faa6b3c6fcb4d32577766df4d4749932801b65563d7213939b9c910",
-    "326d6ac29b7147c2f8186a363ab66b1fecaf97801ba540f83722c4385bf9a498",
-    "42b4ff6607e165f664e5dda9697e5a6273e7c6332a75d0021ef431ababb18504",
-    "904fe55cb7602ccfac0652bf0729de1f15a55b68e84c13afde6aa6625a1cdfe7",
-    "8b62246fa4d878231bc060a06997a67fcd1d2f472a411ab8527ad3933ff0406a",
-    "70a32b14f7a390a4eb96848076f5c980f4a395c54c3872fc5f35b497d5bfe775",
-    "297e0f75cd0750c30a462b6b42c2073758f38231c6a8ab9d2aaccd357242bffe",
-    "49abc54d377cd037283275e291d49d5842cceedbd1c30878e97c1d5d9d894308",
-    "364b646d1eefa8d347183e16978429908f1bb0972aead585747fd0f29333cca0",
-    "06a5074671672e962a82aa9310e39ab7de88a4b34f5474c54b16a02fc8d3335d",
-    "f80c0fa4985caf0ce7c7fc36e8e522287a7d68077e6a51407b68aae91ffb0b81",
-    "ae63fab0b2c52363ae5ecc933d8f9ace14564ead0475ada77de92def585f384b",
-    "5efb910198572358be9666220f760a6d1c62e24063432ed41934108e20547413",
-    "a45be99e72df6e515e6d2f01f3d29b5b89cf501c910415d13c29b55b10c0c2c8",
     "623fa0e5eb880023cf6b445306ac5e97d0f52750b45b4263412a32d10cc613ae",
     "2dc0dd018960af143c6de5e8eeddd0540af017cea73dc41ac7dbcff26253c549",
     "5dbdf8acfb8697aeea5353c9bed0a30f2287516019370592be405f7cc1cb4f04",
@@ -4000,24 +3977,32 @@
     "180f32f01bc6734df8a31d6598d011f96af3811cf4cbb7e340647b0664fa8d41",
     "87f20f500583c383114f84e193dc716bbbcb23cfd87cbdce449a37ba0fdbd879",
     "5640433ff7236b4442e93b2f3a833544194aa9df92e368997492e2bded7b81ed",
-    "ddee40a281fce06f2ea09afce57279dd6632bb17d4578da341efed46421ca52a"
+    "ddee40a281fce06f2ea09afce57279dd6632bb17d4578da341efed46421ca52a",
+    "4e6b65702d05cf6d0cfd44b4d41f21dea230dcce2fe73660839116f7d09b7c13",
+    "b85338313ea4f8ee6fdf1776254120dd53b52fd0e57231ec1d1d04d08e79b1d1",
+    "6e487bea7e69eace0446bbf5dabe0da833acdd24ff635eaf8574424d5cb536a6",
+    "e0f5880657dbf6f067d8f9be307ec768c47867cf8eeb56ddc9c6fd9e79f82b64",
+    "b8456804e44f2bae017db0f70fbea729fdb52ff96ded5b90dc859efd43741afb",
+    "7e4db6ade0f0760b2829b361bf692ed7f1c1c7eb606830dedac6b6898d6a7b37",
+    "4235d60953737f9f981d16636ba07234b18c74fef84fe61aad6ba7169dff8bb7",
+    "b7010c5cee3cdbd783441fdab4d8291643f6d17e488d54271bf52336298c7e46",
+    "840a1eae42cd0d669b0da104dddb6356b85000098c8a6c1ed8bcc0bc9b424a45",
+    "8eed7f23261b93cf7a703c4eb7cfbcc0a5e19d2c4cddd11f22b977f1c73198f2",
+    "d7fb353aeb9ce3b7383e35007c06b164f4d77b92f9704157651668f7951c142d",
+    "10cffaf97aca30d07b11c996c4b218d12393debd49a48be0fd3b13c3d2789294",
+    "d7ac5e70308ac74b9f3befedaf8d655b2f07dc979fe710ab778785ff09a04854",
+    "53ffe275a77c353eb496ca4c4eebe7a5126c8f3c927b075b97b81e2a0fbf3cbb",
+    "84f3a2f264a2589737c2264abdbaa0ab0ec98edbb95fa5b667d68185f6995213",
+    "dedbdb552046fbc7e5f860ae1e2457cb9918e3b092206bb95701cdb008a1f122",
+    "af471b15654adcd1918e203f477483c8fa018b1b0faf7c1781703ed110c11fc3",
+    "0420a114eaa3c3a9d6599447510c863395df49d6a96e90f37fa0cd19a58475fa",
+    "be0a3cedebe1808c2e447f5e69fe759dddc8954067669353062c53c0007847f6",
+    "0c04252d22d1237b4cf570059b0e2157054980c78ebc7ee5c27841f96d78e5be",
+    "598212d732714c29997c1530e02f573318c0bc70824305ebfcdfc3a87a894bf8",
+    "90a731cb049e918a5ed8af30cb3575227955448bbe6d6776349473cf717452c1",
+    "78dd38b538c4780c3c84237a29fd21a7a7c4db21b8172cb8cd96c980039e0e92"
   ],
   "title_hashes": [
-    "3c1c3e9015385e87b151d6076a92b84183f8c97195e02f67ede3af711d94bd2e",
-    "0290d02c81c9218ea6563856807a8dbae8f5e6b0c1ac27ae5b983409a2752965",
-    "59249b5ddc6ba455bf38faa74c738caff28cebdefbcfccca895beeaf8a57064e",
-    "27dd485de351e3ed2f91d60e7551dbdb9837d24eb1dd24383246c6086e68d873",
-    "15ee2f441ed313d19c07c6f6eb16eb0d50837f6ab4729ad8a07d0093bb28a7d4",
-    "554df24e42382e8a12245b22948983f03520f4456e50762febe63e0dcb35e372",
-    "82b36e505b88f50e61718511f26b12e8ca53ea73c6f5cdd30eb617a169f69fa7",
-    "da155b4b832779f5e29e7cf103b88f12f9c5264545b94ef5344503c19e8be96a",
-    "953c079267ae7add0d875b306c3b860f2169506e89dd05942a0e98bd7572cf98",
-    "126be1fec28959e5dd051c2423311c53c0c94d2cb6513532879eea141f224866",
-    "531a5fdc055ecb713e68327c72e50063eeac979d7eb629318990cf9a85721910",
-    "01f2c6fda9b1d4fc2b5faf9ce69a43f83bd7cf28970b218aa0f5979aa5962072",
-    "73152cc6b858a3a0df1db77331f939e21ef6f5cca8648a8ddfcae35626a9ee4b",
-    "15adb8641ca8ec04caca9b7c892feeae78ae5c930eabda7dfa30186e64c18f61",
-    "86cc197617a02ed9e56c85fb07cfbcb300b8bd49ac8bf218610c47926a9cc202",
     "c2c22b854e7dd62e3ba660ae84a3311218aa0a24aaa457dfa44f0a56eb50aa91",
     "b99154d110d0d25930cdd781163b33d85cad4c1895b08e1e0cc05e2dc1783758",
     "110a16e746d69ec12902bca639d91e531377318ab88ab885bf989e4ba3e6228f",
@@ -8002,58 +7987,24 @@
     "3fc26f6bd829de2ab65e0979abce86298eb2f35e59f6ffd4e2c5ee863d92eaab",
     "48bfa99fa0d4f4603f3d7b255759410e5ed3e399fd98f76c81eaa1a171f25295",
     "ebb97af7797e391be070276943cf6bb3a92e19f032969534c8ed3a8735e937c8",
-    "31ab0314f2270c26147dfba1b7e94cb3ae38f5dc795bae1381d5fbaa98645a4d"
+    "31ab0314f2270c26147dfba1b7e94cb3ae38f5dc795bae1381d5fbaa98645a4d",
+    "b9dca2e2adfd4340b647de31053f28cfbfcda0c9266b040e04cf6095a0b0a587",
+    "9812727c7da1d941485f44e1de389a52e17aa32f079b8be9c952bd91f5c67062",
+    "c1e35d2223742efd54e711d8d5309c92e6fb70f1381c59469e3de264dc07320f",
+    "b45127696726e58bf0eacab47bee563c27949f9d56221e89b76d35001a874e3a",
+    "cb6b501f7f78417cfbf2830fb0761d209ffcf430e2c87ac7f1bc924cd1b8ad7a",
+    "36b3f357e1dda7a9a10070bceb6b506efffdf3141f40905900fab50077da1984",
+    "87257043573e355116e02b15977ef1480066927f9d0a4c0e75d2b993da264c00",
+    "56659a306b43c02baea388ebe9b9c6664de54cfa1ce6f26466fbac5e5742a116",
+    "33c5aec4bc548e107618bbe7fd883863351d48a0df8517799f84c9b4b19aa6b3",
+    "992226d331c3a9c2069ee5e13825db06acdb145f03683d06435cc86b666719e1",
+    "3621c6bc9f286b06da7b403a4421b8a74ce1990582abbacae87379d58bc3c4cd",
+    "da717e5815f8a0a1e6ed6183ac1f3681956847915304f87b89133f6afda2d791",
+    "5a9480596db0005ed47b18ed7d894a08a82903718f5d3b20bf8d1a0c5c70dacb",
+    "121b80e4f40e8d9531848ad37921d8f7e664cc21f9fd1f0d5ad06063b7267012",
+    "81a8eca76b79cd3ee8eebb4e071e047b3cafb8286ac88a12c7e416c0db42673e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "한국경제",
-      "title_en": "美 억만장자들, 젠슨 황 퇴진 전 엔비디아 털기…소로스도 20% 줄여",
-      "title_ko": "美 억만장자들, 젠슨 황 퇴진 전 엔비디아 털기…소로스도 20% 줄여",
-      "url": "https://www.hankyung.com/article/2026111712527",
-      "ts": 1794880158
-    },
-    {
-      "source": "SemiAnalysis",
-      "title_en": "PCB and Substrate Model",
-      "title_ko": "PCB 및 기판 모델",
-      "url": "https://semianalysis.com/pcb-and-substrate-model/",
-      "ts": 1794880165
-    },
-    {
-      "source": "Nikkei Asia",
-      "title_en": "APEC live: Xi Jinping to open CEO Summit ahead of gathering with Trump, Putin",
-      "title_ko": "APEC 실시간: 시진핑, 트럼프·푸틴 회동 앞서 CEO 서밋 기조연설 진행",
-      "url": "https://asia.nikkei.com/politics/international-relations/apec-live-xi-jinping-to-open-ceo-summit-ahead-of-gathering-with-trump-putin",
-      "ts": 1794880168
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "US dollar hits 19-month peak on Fed hike bets; Aussie dips",
-      "title_ko": "달러화, 연준 금리 인상 베팅에 19개월 만에 최고치 경신… 호주달러는 약세",
-      "url": "https://www.streetinsider.com/Reuters/US+dollar+hits+19-month+peak+on+Fed+hike+bets%3B+Aussie+dips/27357943.html",
-      "ts": 1794880173
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "US STOCK FUTURES EDGE HIGHER, WITH NASDAQ UP 0.5% AND S&P 500 UP 0.2%",
-      "title_ko": "미 뉴욕증시 선물 상승세, 나스닥 0.5%·S&P500 0.2%↑",
-      "url": "https://t.me/firstsquaw/193342",
-      "ts": 1794880179
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "UK FTSE FUTURES DECLINE 0.64%",
-      "title_ko": "영국 FTSE 선물 0.64% 하락",
-      "url": "https://t.me/firstsquaw/193343",
-      "ts": 1794880187
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "ALIBABA'S HONG KONG-LISTED SHARES DROP 5% TO HK$85.6, LOWEST LEVEL SINCE JANUARY 2025",
-      "title_ko": "알리바바 홍콩 주가 5% 급등... 2025년 1월 이후 최저치 기록 (오타 수정: 급락) -> 알리바바 홍콩 주가 5% 급락… 2025년 1월 이후 최저치 경신",
-      "url": "https://t.me/firstsquaw/193344",
-      "ts": 1794880194
-    },
     {
       "source": "The Verge",
       "title_en": "Instagram’s CEO thinks it will be “pretty challenging” to make it feel great on the iPhone Duo.",
@@ -11504,6 +11455,55 @@
       "title_ko": "노던 다이너스티 미네랄스, GAAP 주당순손실(EPS) 0.04캐나다달러 기록",
       "url": "https://seekingalpha.com/news/4673554-northern-dynasty-minerals-gaap-eps-of-c004?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1794914975
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Apple Watch With Audio Intelligence AI and Amazon Bee Raise Privacy Concerns",
+      "title_ko": "오디오 인텔리전스 AI 탑재 애플워치 및 아마존 '비(Bee)', 프라이버시 우려 제기",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-17/apple-watch-with-audio-intelligence-ai-and-amazon-bee-raise-privacy-concerns",
+      "ts": 1794915062
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "Anthropic：我们已获准在纳斯达克全球精选市场上市A类普通股，股票代码为“ANT”。",
+      "title_ko": "앤스로픽, 나스닥 글로벌 셀렉트 시장 A클래스 보통주 상장 승인… 종목코드 'ANT'",
+      "url": "https://wallstreetcn.com/livenews/3201278",
+      "ts": 1794915068
+    },
+    {
+      "source": "이데일리",
+      "title_en": "[美특징주]\"중국 기업에 GPU 절반 이상 빌려주면 칩 안 판다\"…엔비디아, 고객사에 최후통첩",
+      "title_ko": "[美특징주]\"중국 기업에 GPU 절반 이상 빌려주면 칩 안 판다\"…엔비디아, 고객사에 최후통첩",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=05149606645646704&mediaCodeNo=257",
+      "ts": 1794915128
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "ANTHROPIC PBC FILES S-1/A",
+      "title_ko": "인류 PBC 파일 S-1/A",
+      "url": "https://t.me/marketfeed/1079508",
+      "ts": 1794915136
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Google signs power deal with Quaise Energy - WSJ $GOOGL",
+      "title_ko": "구글, Quaise Energy와 전력 계약 체결 - WSJ $GOOGL",
+      "url": "https://www.financialjuice.com/News/9855629/Google-signs-power-deal-with-Quaise-Energy---WSJ-GOOGL.aspx?xy=rss",
+      "ts": 1794915143
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "SOLANA FOUNDATION TAKES MAJORITY STAKE IN CRYPTO DATA PROVIDER COINGECKO",
+      "title_ko": "솔라나 재단, 암호화폐 데이터 제공업체 코인가코 지분 과반수 인수",
+      "url": "https://t.me/marketfeed/1079510",
+      "ts": 1794915145
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Disney beats fourth-quarter estimates, targets $3 billion in savings through cost-cutting efforts",
+      "title_ko": "Disney는 4분기 예상치를 상회하고 비용 절감 노력을 통해 30억 달러 절감을 목표로 하고 있어",
+      "url": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
+      "ts": 1794915166
     }
   ]
 }
