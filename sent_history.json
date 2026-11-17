@@ -1,27 +1,6 @@
 {
-  "updated_at": 1794914064,
+  "updated_at": 1794914214,
   "id_hashes": [
-    "8e13acb2a3af59f8fc6d8fdc135cb286ee86db43907a45a2ede669ba91f50bbd",
-    "fa3ecc48c44d48baff5c3ed7b2e8a816c14deae42cb140140ce01a335240a5be",
-    "8545fb970fc0ee649f4e52689f2eb3d37fb67ee622c713171ce73db6e45a3227",
-    "c9b9513475f48362dbc457b7f6b2236387d32fabe0929eedac852a13fb81c18f",
-    "9c7ae87ae5dad5db1e06f948ca754456279edf27a84d10d1dac6eef3732b83f1",
-    "529e0405619ab33e71d14221e1dd32c31b05bc100fd650aabe39478181c98860",
-    "3e78ebdde1cd4efd27357aecf5c047f27e7a43213719f55d192f25bc267ff70e",
-    "ca2d0225d2b1a52b4834d09565605a263231fad88dbe504d423a4590bfb6b61a",
-    "a096750d1a1932fbebc435d1bf21df86ef23484623089bcc70ff44a1b53e526e",
-    "041d691102e06be0d0236a227d7ac6c54bae5f0313140a610a0c04d7de5c41ab",
-    "c80254b81e934359723498d903e7dca4d0a4e45b699683888a539dc2b46372b1",
-    "71066d0d639b6813757ee695194ae93d42b44cec67e520f7ecdcf7f6b5162c83",
-    "8de550e66657ade9f368af9bc6d1b6162f7b3264ba2c372127882c5fad98a0f4",
-    "c8f9d48bf1771be67ef0a69911242238e9f5b4cf054720961698144d932ce669",
-    "86f765567d9696cb6571d901590f4c3131970e4b37c715e0e25877b051d21993",
-    "dc7658fc767fbeb6d75d924d78fc688cfc7834bb1d9204a00a9059e466e86566",
-    "114263c231fc8e7fcb8d309c2ba7adeed72f2b81ee342d71b643590dd5db9f08",
-    "074e26f6d341b1152a6b79364b535967256df59550e87c56bcec124ea8326e58",
-    "f6f22a697081e10ed68bf067c602c57a96b859fdeef1dbc81e254b488986f993",
-    "800b68f191db09012c3ea1f1b40ed01f3fcb872e24df9d5441c1754dd2c0c9d6",
-    "6b5353ade91143dafe074eb3d0a9d86da2ffcb90e36141931e45920191b4664b",
     "16206cd965d786fd30d982d274e48f420060dd29473c7061179b1100a0138251",
     "c5ff86da7d5ea10d456dbd0cb5bf5af91d14ca31b84f5e116129406db173d578",
     "09844229623355d1eebc60684834efc09d62feb59fab22ec8d312d8dfa6fb424",
@@ -4000,20 +3979,30 @@
     "86101bb139dc655c8fd72113d6fdab79dc96eaf1a6edcd01bd02fa4572e9505f",
     "a9b9dd14d89c324326bf1f84d3e2650e135544cae3fa9d01a8b1c630e7bddd04",
     "fb5b78dcd79a55148ded65ecef257b1022c3fa7e377a0fd5018f13c00262ca58",
-    "c1b19d1914da342e4d7c7dd023b4ace312804b0d96834c6b4af5fd7125c5cddc"
+    "c1b19d1914da342e4d7c7dd023b4ace312804b0d96834c6b4af5fd7125c5cddc",
+    "4f0f4aad4c0c911833098cee22868fc2b5d7219c835b5e2eb14e6f15ad1ed38d",
+    "c4567f493e21a8e3dc1799fcea032b1202e9ba7929507b663b315025f395949a",
+    "eb5ff7bbb98f5f3e77b881b317f37448624d6f9ea512f660bf717a9f894df3df",
+    "5564fa51d192ce7d0fc1a65f58e9732f492e1db2c9e8893ce3ec35e9372cde6c",
+    "626e2f6b1e663d4966edba6e93fd6e97e54b6233756bacb09087e952943a13b2",
+    "cdcf4bf69c643ee0709f365b30d0346e4019c01275e8265233e8fba1647dbd79",
+    "e3ffc9a77eb05d9bc695ece6e1c5235c85323c88686081de1b80298f436bc1ef",
+    "c8e249851e0b4251eb24171dd91d5f36d9ff794f4e44e50845b6ea22580b1574",
+    "b5c8425080ab88e7d4abebf233d3f6c1e948badda2595911796e46111884e579",
+    "f955479b164b5a0064693ea5b9beeb1c2813dc45ee6bb940ed7b6001b3038682",
+    "f55eaed44bc8be5f5e015a72d66e058d11a7def4599fd94c64ffd8d3537ded2f",
+    "946538adef8dfa2f20541128f2c6d62762adb0f1f337a92d009f86ffedca0c7c",
+    "9a80c68d0e2fdddb3aa457277b1f745dbc878e2ae8b1bea0eb6fbb16b7804836",
+    "fc39ddf5e24f25f562450b74217afd13248e8f582596a0a3b4daf0f560596bfd",
+    "0f1e0c080852ae6b6d0a61761cf7e2f85546243dd0578ce21096893c1c7ed11f",
+    "8b2c3d44fa7bac55e551554926fba6b12008259ca26ec1111f702c6f8db3a1e4",
+    "a076bb3553a339d2663f3d9c5a4331a52ce48bf39893bfd5fbdf77c26398e0bc",
+    "424babeb713ebede3c4f16339456e11e3e40e8c70bcf459fb87fe075feaf65e1",
+    "165f9291a22dbc3a43e40b5aba81b1d3a60e9e6314a76116789fbeda0ddc320e",
+    "e8c9a56304c8879c50102d8c3c56393f1f5738e5f18ec55ce6a721cc1854b8f8",
+    "fa9fbecd05a557ee6fd5a645bbe195ef618814c75aa7edd58e6e30037d3e45d5"
   ],
   "title_hashes": [
-    "003e2fbf6c22438bc982a6d13dcfd67b981bcc489791e84af00a5f8372d7ed7a",
-    "8d9932e8f958c7fa67ce626e6e9fdc1e67d8cd9ef0e3ccc96bbcb3d999d35864",
-    "542f2174090d72f7cfff18c5e8e3e1ccc046f5224cf74673ae7ffbe7fc2b8fc4",
-    "6951c97881cbb29742e429a36c9c3d2033552cd3923a1fac2841964d420415fa",
-    "cd24ab325014708deba7772abc05046f0082cd1c387771de46b289e82fad4e18",
-    "7861a958bfc96c92d9113f1224b7626450adfbd43de1e2240518fffae093badc",
-    "35a7f717f80631e13ec41bae3c782c61afb0f07c2dd1cd0a6370d4ff9fe9c8f0",
-    "797abc809e5016049bc5f12aa0f1d14d34b55303c858043275defae8d0511e00",
-    "57866f2c6dfab325efebae0dbe7e5ffecd5bc334bff37841b5abc6a29f3e698f",
-    "ce461b2e85982ec31a507fa600f03546cababe3bc9e4c49e40f754e99a9b182c",
-    "1701cfb023a18b1534d60983d25660944bf18c8928d27c2658306664990bc734",
     "3bab1c34b6636a89c5879a15046bedf909faec4c927d10e96d9cab6763e4328d",
     "1a17be7b2971a62355af9241068f5f236d4ef691924cbbc50785a3f9300bfe97",
     "f6df48e6bb341b265b705bfdaaa55feb911ad2e36ee025d9a050f2381c9534d1",
@@ -8002,30 +7991,20 @@
     "ebf6e3036a42b1b4f498ee52b948b7823c3f135465d6b177760b7aff9cf7e83e",
     "e99c3cca9e9c00423971e3dad6d959aca2da88b3897c606679e8df841d5d57d4",
     "1200548ca1058ce4cecfc254b689ac0113701fa237a610d64cb6519ae06b0ee9",
-    "97230f8ebb0a6ad32557c50966aa633dff5da342939788a877a032cf7396155b"
+    "97230f8ebb0a6ad32557c50966aa633dff5da342939788a877a032cf7396155b",
+    "ca33f75d767235f70a7b625e41661c71f4da8865feb2b01b3a53a068eabbc3ed",
+    "22dc293afce42aa1da21d9f5d6ebdee3addce677d6783b9fd4eb6f5e3b225a3b",
+    "964e388959a0ad8a5ac14950a0cb58ad4a3c77935615b8144d8d40369d40aaa8",
+    "0f672590b3ee0c5fee48d3521375ace2dde738efe9ac4a13c172caaad2934b90",
+    "06b411fa71a43ec72905ee1ffafac4534fa60c74c363d2f0582b1bf8260a2e69",
+    "12dafa852c4826ffe6b077ff01343245c05c9e2554bf4256f666ec4ed86c76fc",
+    "8b23675cbe48840e6eb7244f19298642fee76e8c100992c253c23fb26dad1361",
+    "bc9a44533cac600effe944301d929062d4683bf48416f148d3193c61d77f8233",
+    "97986a54a61394cfa71d8c3e05bfde6467602d69e4e850e4a039d6e4b134c888",
+    "a7dd0f57f46f98a3edbdd3037f5e10e9e8eb280d6e5f25acb445dc7e40b42937",
+    "6a9b35c956a74a9f7e0cb339395cdd4a9505c765aac32084f36c20ca32a5a4cc"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "INDIA'S EQUITY MARKET RALLIES RAPIDLY AFTER US MIDTERM ELECTIONS, NIKKEI ASIA REPORTS",
-      "title_ko": "인도 증시, 미국 중간선거 이후 급등세 - 닛케이 아시아",
-      "url": "https://t.me/firstsquaw/193339",
-      "ts": 1794880074
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Trump to kick off Asia trip with Quad talks in Manila ahead of China visit",
-      "title_ko": "트럼프, 중국 방문에 앞서 마닐라에서 쿼드 회담으로 아시아 순방 시작",
-      "url": "https://www.streetinsider.com/Reuters/Trump+to+kick+off+Asia+trip+with+Quad+talks+in+Manila+ahead+of+China+visit/27357916.html",
-      "ts": 1794880088
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "国债期货开盘，30年期主力合约涨0.51%，10年期主力合约涨0.11%，5年期主力合约涨0.05%，2年期主力合约涨0.03%。",
-      "title_ko": "중국 국채 선물 개장, 30년물 0.51%·10년물 0.11%·5년물 0.05%·2年물 0.03% 각각 상승 출발",
-      "url": "https://wallstreetcn.com/livenews/3200932",
-      "ts": 1794880090
-    },
     {
       "source": "연합인포맥스",
       "title_en": "JP모건이 보는 엔비디아와 AI 미래…\"쿠타 생태계, AMD가 잠식하고 있다\"",
@@ -11504,6 +11483,27 @@
       "title_ko": "척 슈머, 600만 명 푸드스탬프 삭감 트럼프 비판...\"미국 전역에 빈 식판",
       "url": "https://www.benzinga.com/markets/economic-data/26/11/63332808/chuck-schumer-slams-trump-over-plan-to-cut-food-stamps-for-6-million-americans-empty-dinner-plates-across-america",
       "ts": 1794914063
+    },
+    {
+      "source": "매일경제",
+      "title_en": "엑스피언360, 3분기 매출 214만달러..전년비 10% 감소",
+      "title_ko": "엑스피언360, 3분기 매출 214만달러..전년비 10% 감소",
+      "url": "https://stock.mk.co.kr/news/view/1200820",
+      "ts": 1794914089
+    },
+    {
+      "source": "WSJ",
+      "title_en": "OpenAI Partners With NATO On Cyber Defenses",
+      "title_ko": "오픈이이, 나토(NATO)와 사이버 방위 협력 파트너십 체결",
+      "url": "https://www.wsj.com/tech/cybersecurity/openai-partners-with-nato-on-cyber-defenses-ea4df258?mod=rss_Technology",
+      "ts": 1794914147
+    },
+    {
+      "source": "Wccftech",
+      "title_en": "AMD FSR 4.1 Finally Makes Its Vulkan Debut In DOOM: The Dark Ages, As Unreal Engine Plugin Gets 4.1.2 Update",
+      "title_ko": "AMD, 언리언 엔진 플러그인 업데이트와 함께 '둠: 더 다크 에이지스'에서 FSR 4.1 불칸 데뷔",
+      "url": "https://wccftech.com/amd-fsr-4-1-finally-makes-its-vulkan-debut-in-doom-the-dark-ages-as-unreal-engine-plugin-gets-4-1-2-update/",
+      "ts": 1794914213
     }
   ]
 }
