@@ -1,14 +1,6 @@
 {
-  "updated_at": 1794887061,
+  "updated_at": 1794887210,
   "id_hashes": [
-    "15752804d0ffe1d8e7082608a5dde1f2061bd81d15c5fe7f3556dcb50bf69b74",
-    "f689daaef45a3d85332df35a893b8236b5a5d844d5e8e937ef311937aeb2158e",
-    "abbb92cb06e17710e5a600950958b52a9ada94176a25c6e52c70bae378715bcb",
-    "f461ec0ddd12614ed1ae06df1ec53f7f2ea54343808b58ec50197c5f3397f401",
-    "f7a98809156f76ea40a7e72eab33034c175b5f5ea1b6d3debb3c8717a9856913",
-    "72cc546185709ce7578b570e50530daa5edd83d531821a6422994a912177b40d",
-    "789f798763fbdc259d686d78dbd7b4e9fa16ef771cf5ed1510b93e8432a68b55",
-    "55b3b0c90e7ac7ffb719e511754badc4bdff41f31d5715aea0adfcb2179b7196",
     "6290325630e7c37cd42972fe03f37e07d886f435c447d3b396ff179bbe6d985e",
     "3adba852b949d66f27c2cc19065c72e812e92ed8ce156692852f3f00176e7b37",
     "764bd5a9a4dfe0cd5bca0f4e9f8691840b5299491da691b9589ab47735482992",
@@ -4000,14 +3992,17 @@
     "2dcbe3ba4b888f5b8c3d53c2d939921f07a8fd968f2989396696724bc952e9f2",
     "0cc644140dded35fbdf10758b8db7cdfee7d0cde3b3d87977be7593257531f07",
     "d0bebb670ffd3b5cb443c42433385b89b3a4b97007bc9820fe5bdbcd346cbdd6",
-    "8cd7cf4234c9cd814102c7ad92f372c852c2324ed6c025eea7b4da68e1dadb41"
+    "8cd7cf4234c9cd814102c7ad92f372c852c2324ed6c025eea7b4da68e1dadb41",
+    "3bbb2cc175aa3bc3ea336ceb0acfa7581ecd0e2c38017903a760b49f43a2986c",
+    "dd105dd415c159b6820799bb6e3af54f15441a0faa54fe1213a74ad6a9989b45",
+    "32fe2323cdb1aaf3bfdfcf5806c3d71f81228256dce6e31b4ad41fe70f679ca7",
+    "55e0c3ec952f991a6398c37ec9f9b97e81408a26bbb67a3aa4c8d040662cfd32",
+    "3f351d9291dd253663fa1a34a21a3ae88076db6af157316501a92909d4447e12",
+    "c8aa3d72c103d0ab7bc5c1f22744355c31239633abcea450e0dcbddf1f472f6b",
+    "f96c5facebbf438f67b967dde437f4923ce5be1afcd5b6f8f86de4f7633e19f8",
+    "d12630df47ee50d5d0054210492229740304f57c11f1d4a682882e1773fafaf3"
   ],
   "title_hashes": [
-    "610821f138b7ad1b31e687fa9b81318fef6712eabf86168d29985bd9e8a2e0c6",
-    "51ebe6bcf30f928741c6256e8910d97905c9c6876fde87d8bcae374ef76e61f4",
-    "0dcfd90a638ab1e2cf0bf2c6a5b0b474dad25e0f2dea2cf313dacd5a73478fff",
-    "04a891f5d8e6b41fdcbc4ec9a6fde15178b0be2f2bfbca31410d4b692a0eb79f",
-    "b7b31ce6b14c4d42f324ae873c8525d73e86c1a968b8f6b8e2a38c3deb639675",
     "49c916e45b990ba1036692710c3584cdb6c05f4f9606f79fd5ea883627d45047",
     "925d20d38b9e67093788753c2efba30a03fb793da0e2c5f65eafdd0745568dc4",
     "b159891b4ce2b806cac7e2c515b870c56fa61b7cc888350b3d46bf320e32ee7d",
@@ -8002,16 +7997,14 @@
     "2885707ea73c4a593759510770fa83199529e22859f87b6e4ae0aee69579b4e8",
     "7efbf8cd847c852a2be54e9b658d5380b6648e8b8004d78484ad6d31fa982c85",
     "139cafddb568dffd050c4619900701aab8a05dcbed1a146c672c27e7e09b7f22",
-    "cf0fd061bf9c991a9a8064fe1b7276a35caef398f7342747b77c49ff3fdfd343"
+    "cf0fd061bf9c991a9a8064fe1b7276a35caef398f7342747b77c49ff3fdfd343",
+    "bf1c71c6f91055c49d862d084ce4608771c65377deb573a8a3b974c94c48d43f",
+    "e380d7348678d7393a1d024eb0f393152319665b9f165880e4fb69cb451fa24e",
+    "b6d8b633f6f97ad464b94d067fe17e7a67768ab7c321afe45fe6142f021f3ac5",
+    "db73a649d9dff17644681d176deaea4fa748c409a8acb219fc82bb6c28246aa0",
+    "30d3e8097a3ebba17668542d7bc4659ec8fd17a15c4072f973c11f857c77ce24"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "DEUTSCHE BANK WARNS MARKETS ARE UNDERESTIMATING RATE HIKE RISKS",
-      "title_ko": "도이치뱅크, 시장이 금리 인상 위험을 과소평가하고 있다고 경고",
-      "url": "https://t.me/WalterBloomberg/38419",
-      "ts": 1794832198
-    },
     {
       "source": "WalterBloomberg",
       "title_en": "SILICON VALLEY VS. WHITE HOUSE: BATTLE FOR NVIDIA",
@@ -11504,6 +11497,13 @@
       "title_ko": "우크라이나 키이우서 폭발음 청취... 목격자 증언",
       "url": "https://www.financialjuice.com/News/9855006/Explosions-heard-in-Kyiv-Ukraine-source-witnesses-say.aspx?xy=rss",
       "ts": 1794887000
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "DUBAI AIRPORTS: INDIA TOPPED DXB'S COUNTRY MARKETS IN Q3 WITH 2.6 MLN GUESTS, AHEAD OF SAUDI ARABIA AND THE UK",
+      "title_ko": "두바이공항: 3분기 인도 260만 명 기록하며 국가별 시장 1위… 사우디·영국 앞서",
+      "url": "https://t.me/firstsquaw/193369",
+      "ts": 1794887208
     }
   ]
 }
