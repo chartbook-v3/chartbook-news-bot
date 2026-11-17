@@ -1,18 +1,6 @@
 {
-  "updated_at": 1794941768,
+  "updated_at": 1794941928,
   "id_hashes": [
-    "3b8476fb8582ac02a36d4bd335f19038832dab25b77a80cacd402e3b35136cfe",
-    "7b00920360e463c99e5ce871c6dd47e2bdea4431bff638e20006ad68c4a4f5c4",
-    "e6c19d66c3739ffcb8b0e2ef8f05863661097602e576ee34d74969fd31d899d9",
-    "88fcbea827d45b22f40afeabb6143925f2b5857de00ed7ae1c17a912e6fd67a0",
-    "78c1790f1b8fc03c16bb09d2f6c470bb3299073857ae54013e9a673defa467dd",
-    "9b0fbcff047bdec17af9d499dfbad0e63a8ca461efe164cfed743db4da162394",
-    "1f9d5cb235e5092b1b2c2715f6212105dc8b2645e9ee9bfb9b255e669f2a44a5",
-    "dc6516c1b54251fdd901c086137d739787dda75eef8c905bd2528361ce17a302",
-    "fdddfca3daffe3e1e464f04bb37be635426e32ebc067ed2b257319fb6e134ec0",
-    "5149f5609e2d0b74a45f6ad719b23f7ffe245b5ee18ea07ec7340d5afb1fa686",
-    "73872822b349ed2c09bf925167f68b844e59c91c96349ead8a62660621cee8a9",
-    "2550db205993eb3f4fc86e4a4b85a91514c451a48605b1de8f67f2acfa646b12",
     "f0b8a80d1cca77eed0095159af8870999b160c0a9d890bbe81f72075fd6cd4c0",
     "8af772fb0e85be15a3ca77b6a8870008dba5b99e09ed2d75bba32268f8b1e86d",
     "9b55dc1250ea5e149c3db57912404923c2e463ed01358656d928207a9fb36797",
@@ -4000,18 +3988,21 @@
     "ea23401fe645f2c012565d5144ce26952566096e2ce47a450e0e56e4f51a1dff",
     "72edb5c2c4b6e9841250882e52560fcb31f1b0af877accd28c75ccbce107aeae",
     "a91a1df07c3933c9f97b20c0456a4895a02125cb0a941e046290442c669f87e4",
-    "b8d780b757238dc287b2a4e4cde8578b7bfd34f6a6165f79a7e59c15e6c85077"
+    "b8d780b757238dc287b2a4e4cde8578b7bfd34f6a6165f79a7e59c15e6c85077",
+    "42891c9156ee3f80e8d4b79d36f316aafdbd672231a607484c2f605ccd264cfe",
+    "c8177fe94a2668126f5ff01231d1b637122fdb0d085e1bb3a8757d3bd57679da",
+    "f8d2d2cff24e3a9b6ac986be0a485948d2cb7a61dc8d86ce60d9ea77e94d5f8c",
+    "1a81fcba4e60e4670fff27458a903636171f0c7faf782eafddbb0a5f45554594",
+    "1e003090594a5ae7684ab9758e77dd1f615fcacd4c6d703f11396ce45676f1b9",
+    "ceafb2eac2952b74164ac7d86cce3d01116cf53c4b4c059fe942ebb94431d98a",
+    "84f93767725de5dda1446924289159b9319d87364261f6784b49f957b76c7396",
+    "052a273e65cdd8f04fb318c6759cc26917c28739b0cd633b20d2cbf4bb39d54d",
+    "f31b656bbb0aefcd27dd76c85896fa5cb7ebecce844858c3c9e5595c760897c0",
+    "6c35a05e06ceabaaa804ba9c16cff4f095548fdfd3e65e1d2721bf1cbdb5c70f",
+    "70c6293230049b9d3e93df6dd66842fd178e01642c581334f0016cd4a2b31e23",
+    "acc9a24b153cfaf805a1fdc2ed503bd3402319513eb2db659a3464cbb817902d"
   ],
   "title_hashes": [
-    "f2095575c3d4f1ad7b706e3c01cf9fe8a78662a1cc8889a04befbaa0973ebf29",
-    "258f994780e2ec747e70fc60c47bc81f5242bc0e3e8be63ba8ba1fce51fe5b4b",
-    "f5304275fec785b55df68c69aa00fc45efc5fa7bb340cf09fb5f2cfa66827e81",
-    "5119c6df7c581bb997d0f548df73a830b2e6c2a14e88ef122acd3290e325a1bf",
-    "8b51e121c9ea405a59a93d28c5ca0eed7f24dc2a81354f4bea4ac33b11ad5d3a",
-    "b8a50e60456d4aaef990ebf6b81177088bdeacdcde4fa88c18e2bab855796372",
-    "cf8cbcb28c4ae1e74630358ce927a338c2bb50e6ff425d72bb8238e70adaed32",
-    "a46ea27f66e907ac285c526017c39b4e0f85f831e4d58dbd863d760c792ad53d",
-    "6d8cb0851217ff9e82b32f01bacdb41dc7929d81b11ddb6bd07aa380792a6a93",
     "c726bdea8577e51b9a4ed53d56794f90856d906cde96d75c73765bc5a606f106",
     "7b6fb1d380ab64b96278591479190ca0fd34ff8842b2cc20a39e67c22907dc59",
     "9784b217f19e00ebbf65e0c1517a036ecce891ab5bc085d9f13dc46d892c4710",
@@ -8002,30 +7993,18 @@
     "b685f2f9404f3b090ffeb72a376b3d2f75f5991abd816b0426d588d80052751e",
     "ab704d967ee6756713f039849e41f37f6919b606cb75e28b1380d42d36da70e9",
     "b86dea8791a0a3e7f4e92aca8e41a7b91f3771d3adaeadce39ee03a2c348a8d2",
-    "673bf963f35f1d0882d14aa608aeccef772c75b3a7b2f0b197d76c9a589d449c"
+    "673bf963f35f1d0882d14aa608aeccef772c75b3a7b2f0b197d76c9a589d449c",
+    "648199e8554a7b0577f2a78e2ac21784a09c00654a6d903bdd7071bc8e97600f",
+    "e149ff77e3a490b86fa41603ea52e60a10fd8660ff07eb263f99389bbbfb8b2d",
+    "c343dbbd9476e8f7c44f552c28c0d5aae35a84b7fbdb6ea136831d21568e125a",
+    "25dedae155a9f016954e5d65fb4b3c240e6915263b0b85b31de41d7d51fd3ab8",
+    "7f4651f546f831eec47d023d70de7c55ae00eeb7ff7891625e0093b72c42a979",
+    "08a8477468634c1deb742b1a159d1b6a63b20334b46e45cc69a950d739f24f8a",
+    "1a87b444c235bc58fe246b98563602dbb83bfa65827bf0ea3a5ce3a07f837611",
+    "4d434ce25de2f03cc67a98234835a2bf1aef7f84036361a343e1b0d2ad51ca76",
+    "f2780e659e55ac7c650062270eef876d614df884748f6866ccc1b1e463e65b65"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "TSMC 3nm enters HBM as NVHBM reshapes base-die competition",
-      "title_ko": "TSMC, 3나노 HBM 생산 돌입… NVHBM이 베이스 다이 경쟁 재편",
-      "url": "https://www.digitimes.com/news/a20261117PD221/tsmc-3nm-hbm-competition-nvidia.html",
-      "ts": 1794884757
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "TCL CSOT tackles OLED's last major efficiency hurdle with blue phosphorescent displays",
-      "title_ko": "TCL CSOT, 청색 인광 디스플레이로 OLED 마지막 효율성 난제 해결",
-      "url": "https://www.digitimes.com/news/a20261117VL205/tcl-csot-oled-panel-display-efficiency.html",
-      "ts": 1794884760
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Pegatron sees ASIC demand visibility extending to 2028",
-      "title_ko": "페가트론, ASIC 수요 가시성 2028년까지 연장 전망",
-      "url": "https://www.digitimes.com/news/a20261117PD214/pegatron-demand-asic-2028-2027.html",
-      "ts": 1794884764
-    },
     {
       "source": "DigiTimes",
       "title_en": "Claude’s Office usage trails Copilot by a wide margin, Microsoft data reportedly shows",
@@ -11504,6 +11483,27 @@
       "title_ko": "TOP시프스, 4분기 GAAP 주당순이익(EPS) 1.29달러·매출 1,460만 달러 기록",
       "url": "https://seekingalpha.com/news/4673832-top-ships-gaap-eps-of-1_29-revenue-of-14_6m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1794941616
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Nasdaq Stock Chart",
+      "title_ko": "나스닥 주식 차트",
+      "url": "https://www.benzinga.com/quote/NDAQ/charts",
+      "ts": 1794941789
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Fed's Waller says central bank will work with private sector on digital finance",
+      "title_ko": "연준 윌러 이사 \"중앙은행, 디지털 금융 관련 민간 부문과 협력할 것\"",
+      "url": "https://www.reuters.com/business/finance/feds-waller-says-central-bank-will-work-with-private-sector-digital-finance-2026-11-17/",
+      "ts": 1794941922
+    },
+    {
+      "source": "매일경제",
+      "title_en": "체인스 디지털 홀딩스, 3분기 매출 181만 달러..전년비 92% 증가·흑자전환",
+      "title_ko": "체인스 디지털 홀딩스, 3분기 매출 181만 달러..전년비 92% 증가·흑자전환",
+      "url": "https://www.mk.co.kr/news/stock/12211859",
+      "ts": 1794941926
     }
   ]
 }
