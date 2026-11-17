@@ -1,13 +1,6 @@
 {
-  "updated_at": 1794887822,
+  "updated_at": 1794887978,
   "id_hashes": [
-    "ad4878a94acf415e12420db7b6ccf9aae4deb1c9ff8b982848d78136af0a314f",
-    "2d50bd289b93f337bd8d7569fc031f9ce3463563a9e80ac4ff51230d1a66facb",
-    "409d2e7a2b3b9abf1966b5d66df4d05f47919cb260dd5c6615b4a4cdd2b572c5",
-    "619b5708019756ebca3a4a7b72bb2fe53edf3b9cca723423f9ff8aa1a168a46f",
-    "a05527a9f4a5f81effb074218c3c29cf7d0e02ca7482b8e512b47ad86ba3ac66",
-    "3394a90fd78b18533056e3d60826a72cd1a7df3b027daf1afc418826ecf23331",
-    "4e6308711ed24cbb88297e3bc3c518b92be62bacd763a32e1da5696f0cd4fd02",
     "ae85149e54ed57040b2decf5fb0caf9768cf1da54a032b43a0ef1b5c4d3ae963",
     "32456bc724c6bf2c1e9e2c8935259d61f103e123551d90973ba59cb320ac4752",
     "0bdde6cb18f04cc300ae2c6401ef25f6bd23c3e6aec1b0b50901cc403446341d",
@@ -4000,14 +3993,16 @@
     "f561ee334d7f459b892e61e8da1fe3da2b189177a5233946f6740e05ce660e01",
     "56e07012c3a5b9abd2ee14b40491ac2bf9848ce75e06eb6da372e56eba2764cc",
     "8ade00855ee60488c91bfddcc01bc0fbf97000de96b39e826f676808606b9b72",
-    "ddb6cdc6f91d83e11216f90c4e98568142a9cac355da7bef4605f71ac2ed6ca8"
+    "ddb6cdc6f91d83e11216f90c4e98568142a9cac355da7bef4605f71ac2ed6ca8",
+    "db72b085ae773f62e7ef3706d1cff9586f8d2b42e78f36039ee482ff3f1b8b09",
+    "29097cad941317a09804b72f208e2bca0ee4692b369d565dfd96a8c80c38baf9",
+    "31b0c16d8a89b00fe116eeb5527351d1a25bda594a79aaa996a50cc4dd3097da",
+    "2ce01bcc5df1bcb2fe44c65e8fef3e937d0de9562eb0b7f8952f8926ac0c7610",
+    "5d7f26ca363e12550ec3518cbd66372c4a0700722b1edbd6de7aa81ef72b6ac7",
+    "22bd5c2bfb74eb10a9d779f70fe6c712916d1d2d7c05da6f4ec571a52c3c50bf",
+    "27a5e600fa36a69f2d805a360b4dae4c84d1f30e5d5c33d2e23187649ade9281"
   ],
   "title_hashes": [
-    "2fc190e43f2f98e42152a04c7e37ef0afa17e667b308bb6ef4337334a8ea62b6",
-    "f687063baf7e7b512655bd284fc932b9adf4e5488a4931318eed573b60d532ba",
-    "f6b9ae6da020636128ab3e917b21d97f633c79593457d78bef82fdb8a1c5fc5c",
-    "3e63784a82653c72b9ef290f125c105fb18ea316fda9eb2bfb00a5ba0dadd265",
-    "5e074a53a3ef5f61888e7f84ab38dd16939b9e763bc1ec349f8d6304f184c970",
     "a5c62e48763e4c3ae5470266c2ee1d100a216ee46f128c3bb947caa5c6827473",
     "ba0dee93d459c2656e0c13fac42172af44c89950a8b5ca8dd570b9f961579fe7",
     "c43ee1c640bb5d2d5f5dd77d253d00f5c696e292b6442d7d0a1114fe260aa6cf",
@@ -8002,16 +7997,14 @@
     "77f4092ac031cf97e8831cdab553a233131c072a93fd0fa2fb46089889d68bf9",
     "23da932ba2c658640f3d133a9766ba745345d9b33cc28545cb40ba3bb76d8088",
     "d07987a4b8665bd3291c3cb5f44a153125b943299905176c58a4a1b4e16a10f2",
-    "94b45efe1e50755beb03f1db67b666486f96cada685eb9f32fe0b6f6d94c3284"
+    "94b45efe1e50755beb03f1db67b666486f96cada685eb9f32fe0b6f6d94c3284",
+    "273d819089ce668efd081d13162b573c17e0acb395abefb808c28fa1ce233dbc",
+    "8f085495e99884e4a17d430079802c9442567e2f8dd89d3cec175c6059edc4c1",
+    "587efe4cdda02d4d66e058a371252ae03204c1d5584efb2b0bd66ec14b350806",
+    "6cfcbac6515578081d611d8e4f0c7c58394d330b677070c2eb0762fb74848c81",
+    "7316ee3b5a604b3a7e0cc2aaf8da1cb9deffd01042dd7e152c109ec7c7e2fd17"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "BERKSHIRE HATHAWAY: WARREN E. BUFFETT, CHAIRMAN EMERITUS, WILL CONVERT 6,150 CLASS A SHARES INTO 9,225,000 CLASS B SHARES",
-      "title_ko": "버크셔 해서웨이: 워렌 E. 버핏 명예회장은 A등급 주식 6,150주를 B등급 주식 9,225,000주로 전환할 예정입니다",
-      "url": "https://t.me/firstsquaw/193186",
-      "ts": 1794832215
-    },
     {
       "source": "Reuters",
       "title_en": "Nvidia set to deliver first life-after-Huang briefing",
@@ -11504,6 +11497,13 @@
       "title_ko": "'그건 시진핑 주석에게 달려 있다': 트럼프는 중국에서 열리는 김정은 회담에서 힌트를 주고, 암호화폐 펀더들은 하이킹을 하고 있다",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVHV4alZuS0stVkFmMGwxWkNlcFBaUXlreUlLSnBZUFFHamZaRzd3TEZZSV9MU2JOMVgwamdYZndtQkR4eW5renNKNENjWVFCTENubU9sSmc1bkM4TFJxRTdzOGdTUnp0dEJLbmpnTVZ2T1F2bUR6OERJNkFnNjhrR0E1dVItMGRwZ0JUdlNYX2FUaUFFR25jRUhualMyU1Z6VVdUTS1mVUdEd01Gdm9xdk9ueTJYVzJvWS1sekN0MVZqN2lJMm4zUjJnaUdSZFdT?oc=5",
       "ts": 1794887821
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "CITI TO BRING IN MARK BELLOFIORE AS HEAD OF ECM FOR AUSTRALIA AND NEW ZEALAND, EFFECTIVE 2027",
+      "title_ko": "CITI, 2027년부터 호주와 뉴질랜드 ECM 책임자로 마크 벨로피오레 선임",
+      "url": "https://t.me/firstsquaw/193372",
+      "ts": 1794887977
     }
   ]
 }
