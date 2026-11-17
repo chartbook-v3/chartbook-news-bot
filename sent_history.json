@@ -1,13 +1,6 @@
 {
-  "updated_at": 1794882408,
+  "updated_at": 1794882558,
   "id_hashes": [
-    "aa9d0c28054c32a0e1145a3ca50cbf466b09177d087e00881fc1ab306a6592df",
-    "99393cb4913780a7bb6a9ff2d2cfb5ea6a2cd00bee3c642f0b11fd9b6214948e",
-    "acba39bf114a93c30138b595c2629cc73c99eabea54478524a3b409145381e83",
-    "1c1bb3a3eece3bfb8b324353580ec0cecb39cddb4ede0f8f66ff0ce4dd2b204a",
-    "6f4e251d613a9ea78f6de1768a2c985aab8f3be5e0e86943e32482d4ce250172",
-    "13320c52237efa65788fad3672cf5ebc77a4e450c66ac0df978f907f36ef5e7d",
-    "b0a7cf4dd1a18286be76a90af413dbc11a902c22da9248bb32fc1606af6ced81",
     "ba8c3a811b299ffcbae2644a2569f2bc13811298b874924eed98ac3a2cc58741",
     "2682f645a88bb1dd14f2c35312aa8260962385f539fb7015449372caab323faf",
     "60f4e4af0b09a630a906815d31a183457e85b7bd461e967263d886c0c60ccff8",
@@ -4000,12 +3993,16 @@
     "d881d1fc841366bbfd58d10dde76bad2aa27f9ba753017d59bc5424aa63561dc",
     "cfcbb69d7109c0c1dc85d1eea96df45382902e419d3fa09c28a23ae29da5e591",
     "a8fe2478d2448f888f413135548e69f2031d55751bc45e1162b020853bee3932",
-    "7f4156abf6dd5bc5538edce3be1a921efff9e5454dfc559c3b77f4beba981741"
+    "7f4156abf6dd5bc5538edce3be1a921efff9e5454dfc559c3b77f4beba981741",
+    "519492f321cbf972317165d6ea68ef3c8d6b13096061be0c1879998aad93e2d4",
+    "751149500871436c3185b7d328dc75e02f05350361ab93e48e2f8238be6de331",
+    "ac2f2838bb7fee458ecdaac065c2ba72ca1a1b58a87caf028f9d0aeb3a96a411",
+    "98354990ebcb3abb07a71b0c7a67326275cd5efab309a27bc4dbf827cd4d3a44",
+    "48bc2856da94bbfd3b526ef47516300f6acf57dab6bc2bf68f8696ec96cb1b38",
+    "91f4b16cc2f6fe3f6c931524c906b3439ef474c6e02af048d017da2797d61709",
+    "5492fe7eb91c658a2ef16a9154175e3e0a1cc9d42b789f23af8ed5e60fd49970"
   ],
   "title_hashes": [
-    "1d351b332a32e1ada8a918fbc7c64c7aa98cde0d4382fb55aa6c1ba8457681c6",
-    "a406658bba1cc9d10a642e40f4530932e2d255ca07eefd102f02a651cbe71093",
-    "047b92d98e3bd7ba2d46875dcf27f583a69d37354be18247937b32fbb3891e81",
     "dbe7c65e709590a70978f394f65d3c6c98a6feea2dab2aa18192836ace72dec9",
     "cbeb113723e1c5c23cfc837d1862d02e6cbabcab85dc96e488830b292239e3f0",
     "31df3e30cca6883fe84225bee4a477dd07091fbd18db9b1558c094432d6ed08e",
@@ -8002,16 +7999,12 @@
     "f9e1811978a6c159bbf133873f4a3390916fb8603971011806b66b8b1d983cf2",
     "ded77a2d554d90e14cbfe9f39b824dd9473c967ec97059d67ca3e89bcc2f66f0",
     "671c5610c440e336a10a613405bbb00f24949c914d30cd030e9b4e6237cfec72",
-    "3795e5d9daf36b2dbb9a6d0b980c8d63afca8b54674000f0fe8a1c2d576c87a6"
+    "3795e5d9daf36b2dbb9a6d0b980c8d63afca8b54674000f0fe8a1c2d576c87a6",
+    "65e7a1b9129223fb57ed83b165ec12b16c96127562658d648b88d26083b04dfd",
+    "9b0b3160ace61faf3260d2de27d936cb85ebf4bf326a854c2a2c4ecf99a561a9",
+    "f85e260d4a68ad35f359c2db894b4102b16f867682e539686f6a7e7c345b6aaa"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Tom's Hardware",
-      "title_en": "Nvidia amassed $530 billion in financial guarantees to corner the AI market — supply commitments rose by nearly a quarter of a trillion dollars in a single quarter",
-      "title_ko": "Nvidia는 AI 시장을 장악하기 위해 5,300억 달러의 재정적 보증을 확보했습니다. 공급 약속은 한 분기에 거의 2500억 달러 증가",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-amassed-usd530-billion-in-financial-guarantees-to-corner-the-ai-market-supply-commitments-rose-by-nearly-a-quarter-of-a-trillion-dollars-in-a-single-quarter",
-      "ts": 1794827022
-    },
     {
       "source": "The Verge",
       "title_en": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
@@ -11504,6 +11497,13 @@
       "title_ko": "[단독]기소에도 美연수 계속한 '도이치 수사팀' 검사…조기귀국하나",
       "url": "https://www.edaily.co.kr/News/Read?newsId=03450566645646704&mediaCodeNo=257",
       "ts": 1794882404
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "코스피, 1%대 하락 지속…'5천피' 사수 공방전",
+      "title_ko": "코스피, 1%대 하락 지속…'5천피' 사수 공방전",
+      "url": "https://www.yna.co.kr/view/AKR20261117077700008",
+      "ts": 1794882557
     }
   ]
 }
