@@ -1,13 +1,6 @@
 {
-  "updated_at": 1794896828,
+  "updated_at": 1794896982,
   "id_hashes": [
-    "87c00cc43f62c454c5a87d8e31e6997c4b5e86eb7fa26f0a3698f316f6bde0e9",
-    "821c1b842e2cc15cfd39646669073f33f89e46b8a5d9239d51f8916a59ac9de2",
-    "d76b515b9cf609aa0ae7827af52cc9a35f418ef95ed34c72debc5d93f7b0fc3a",
-    "a27573473e71db35f4e7d6384bd77c91d5bdfcb984bdf2eb043f5c2c514b1e52",
-    "1a50f32e49c71950351a990decdd8a557d7f6c62b339a3e93393f09a10081f94",
-    "4821a5e26e3f21e9ad870cf332e093e1a70e312b74123da3cf4ad4d6075597c0",
-    "dd8d5141ef4bc55e41c318a970f9f0fadfd5d30ae41600494a3b06e95b1a7717",
     "20bc42f1703cc3e512546221a93be9d0bab29107f35658f8274fdb5fcffc3f93",
     "1b8e3c8e52c4c887493bbfb8a293416ca30fd8064a91facf70750dd0e94109a7",
     "e6c9a2e193090e65c5be74ef853fdcd614d7b304d17ac9e1328000142280997a",
@@ -4000,14 +3993,16 @@
     "9de2b3cc3674bd48bddc0ec57b00070a8ef51705ab91d5229065e17555467cd0",
     "0eac7f32b3e8657ebb4b10799ddfc25485354c287f84ecb80dcc69f4510f6408",
     "f63300db2ae4a27c3fb9f26a8c801ed582ffaaef26525611bade6534fbeab224",
-    "b7c624ed8611a7e8f1b9d6587a07394d9bf17e7a0537b25e2745f8c4aa5afeff"
+    "b7c624ed8611a7e8f1b9d6587a07394d9bf17e7a0537b25e2745f8c4aa5afeff",
+    "eec0c14d2867e19e2d23cde14a1d3ef0dfa26c183e5bf72f5535c3c77eb97994",
+    "322d1993fe364c065348d8cf7220afcbf8097502d986965287c427cafb7fb5ad",
+    "3ebbf8c24d3c5242db0c34f21e4ec2842fce4ee93e40b6cd94f8bf0e3f475e1b",
+    "a8949ae70c09321fd4970bdedba21a139fe277af007473aa8b87db71ab023582",
+    "bf1d067bd6120983aa61a5990c776d6968d7b16ec5aa0b929c394083e42067fa",
+    "920ea091a887a784e0f96d9a4a5eaa39e112cfaf229e8df2abe638a6f259f3bf",
+    "2ab793bf072fbbe39160a60714c0cd572afd04bf02f7bbe774333bd8e3dd0786"
   ],
   "title_hashes": [
-    "1cbb1a750e897140342ffdddbe35e589128cbc6eee47db0fe5b3fbc044eeedab",
-    "141779e9b3ab44485b7fa96cdba4ec2f63aec3b7c158ce2e1722151ad3b78f28",
-    "947d17b7770e36e19097bc44f070b5ea6a173659ae5cafce3858eb145917f97a",
-    "5e751302bac6553a722b95ded3f0b3f72a2fda7d87569dadf99523d324f694fb",
-    "cd74189d67dce146e9f4498dd69d3151c19e0f0ab08932b3972df416bec1512b",
     "70e43952a9bb0cb55f720c8b577018a4b3ebb822bfd936ae2c03c94ff4d2637d",
     "1579e096b570458aaa7e9267e0252d698ae97fdb14adda2525071b379c010b8c",
     "f165a28df51b447d78feca504567feb4b3152491fd2bab4111fdd59d7c1ce8a0",
@@ -8002,30 +7997,14 @@
     "e624f25d36b52e11730f8a16cbcc84c3ac01a0e9c60767378eefaf1fcd4ff6fe",
     "6b1530d4429f6ed3d7345205f528e4e226c2076e17cb9d1ad3444d1230b5fa71",
     "b6aed5e374e393c3a0599c539eafd73fb37147fde49ba91ffd7652de322caf97",
-    "95a2bec0318e5ccfe6edf54adcd4eed78410c10594fc71e7b63bbdfe5d684966"
+    "95a2bec0318e5ccfe6edf54adcd4eed78410c10594fc71e7b63bbdfe5d684966",
+    "81a6a15dfc1a36254d5acd3b4f181cb2025f64d74e96125db70eb1f6a24668b3",
+    "940c6b47700395d05b1bd790da3157e70f386788e47950d061bc384ad5834687",
+    "b0dda91d97444fd880b96ce1b13d30b8beb3fd8b5ad9929fed998fca7f09e766",
+    "1a6c391d2fe56f798fa730e53dd7c285bef48f8e96822893058dade010daf226",
+    "2a34368084a22ed09140e3471598c20cf9a3a959a5da643d4955e17a44993006"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Apple to Let Users Face-Unlock iPhone Duo, Addressing Key Drawback",
-      "title_ko": "Apple, 사용자에게 iPhone Duo의 얼굴 인식 잠금 해제를 허용하여 주요 단점 해결",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-16/apple-to-let-users-face-unlock-iphone-duo-addressing-key-drawback",
-      "ts": 1794854445
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "David Roche: ‘I Wouldn’t Touch’ Nvidia Stock - NVIDIA (NASDAQ:NVDA)",
-      "title_ko": "데이비드 로슈(David Roche): 엔비디아 주식에 '손대지 않겠다' - NVIDIA (NASDAQ:NVDA)",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63311476/nvidia-david-roche",
-      "ts": 1794854522
-    },
-    {
-      "source": "The Information",
-      "title_en": "Microsoft to Debut Products Aimed at Reducing Customers’ AI Costs",
-      "title_ko": "마이크로소프트, 고객의 AI 비용 절감을 목표로 하는 제품 출시",
-      "url": "https://www.theinformation.com/briefings/microsoft-debut-products-aimed-reducing-customers-ai-costs",
-      "ts": 1794854525
-    },
     {
       "source": "FirstSquawk",
       "title_en": "USER REPORTS INDICATE PROBLEMS WITH BANK OF AMERICA, WELLS FARGO, US BANK - DOWNDETECTOR",
@@ -11504,6 +11483,27 @@
       "title_ko": "YHN 액퀴지션 I, 시장 심리에 따라 유닛(UTS) 거래 개시",
       "url": "https://www.benzinga.com/quote/YHNUF/sentiment",
       "ts": 1794896827
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Deutsche Bank says it conducted reviews of these issues when they arose and maintained close coordination with regulators",
+      "title_ko": "도이체방크, 해당 현안 발생 당시 자체 점검 실시 및 규제 당국과 긴밀히 공조했다고 밝혀",
+      "url": "https://t.me/firstsquaw/193427",
+      "ts": 1794896912
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Asian markets slide as tech stocks tumble on US-China tensions, caution ahead of Nvidia earnings",
+      "title_ko": "미중 갈등 속 기술주 급락 및 엔비디아 실적 경계감에 아시아 증시 하락세",
+      "url": "https://seekingalpha.com/news/4673438-asian-markets-slide-as-tech-stocks-tumble-on-us-china-tensions-caution-ahead-of-nvidia-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794896978
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "William O’Neil给予中国广核A股买进的初始评级。",
+      "title_ko": "윌리엄 오닐, 중국광핵 A주 매수 투자의견 제시",
+      "url": "https://wallstreetcn.com/livenews/3201057",
+      "ts": 1794896981
     }
   ]
 }
