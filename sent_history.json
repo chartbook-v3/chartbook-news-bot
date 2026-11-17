@@ -1,13 +1,6 @@
 {
-  "updated_at": 1794893266,
+  "updated_at": 1794893431,
   "id_hashes": [
-    "5ca0e01b7918194340d562f387496e4b644427317906276034326c44858147d0",
-    "f90c721221ce68f15be051a61a163d519ca14aa46b320258a8df200fe13e1233",
-    "822c0388ece818dfb0f8bb949a70d1704ee32a85d4885bd24a7907ec09dceb44",
-    "5c47a120ab4078c77a1793bf3390ae6f6203cb92c4ca8aef729bb70ac45c00f2",
-    "cb93cc8d4f0b11c071b72c0f18ce696d9e45985b47f8c9089c1196a87f75633c",
-    "ca8dcc26eae458b53303af292bdc8ca37348d4ba6b253f2ba8f86964176f4220",
-    "c29b7fe8919c2c8ad5d2b76b49a68ec4d06d31d858b4b9800a0ed908c0d09a76",
     "757a37db4ce1f126a4b259bc0bc7c616ccc7c5f7e1c94c233eafd20dacd5909a",
     "fc29a4e599f198c16e7e5bee9edad89be51d8601f2f049d996f1649678b94176",
     "655a1c298b30e698daefbc8fbce044308d0ad8e14885a3dfffe46e8a2e71c2c3",
@@ -4000,14 +3993,16 @@
     "c1c676bf8196b52c839372eb5348a114c7bf24a29059335fce76f1949ae31766",
     "3a6a72912caf1f9d1e84eeff9733b91e75c7f0253495cb0333f8b721308ea290",
     "55b9a3ba0e786e519b2b52b7477ddb8013cf61e5664409f5c0702cf75d264c95",
-    "ee88957c7b43a7771e201e0acc4bac28b3d62c41e851903d6805d111e5ffefd7"
+    "ee88957c7b43a7771e201e0acc4bac28b3d62c41e851903d6805d111e5ffefd7",
+    "42c1a9b696c71acdaa9d0512dcfbe05f1ced0043f5c3fe5b7a885dc7f9f21c56",
+    "cd57c5dd605a57865a648f6982fd97951fe2b3448ce8c43e4d52ebc790420eb4",
+    "86ce3a58f3f4c6a48a5468f11e849a2889795727fab97203dff7042f3b1d3f7d",
+    "09bc20d27b5e4aaf08e745948d2ba04398618cc8f55e3cbaee95f71746220531",
+    "308f35d51a66aaca6922439db9116d8b484eb0f6560be01773ca69cffeac9bd4",
+    "adcbcdf4315c9168ecdfef1b154930ebfc6d483cf36ae94a4c9d6c4f63f3fe7b",
+    "8d574ebdd1bc8f9f6bbcd36876af173da1435b2b0d6b9077e90c29690866717e"
   ],
   "title_hashes": [
-    "e49836a66ab281eb0275cecabaa3391781b707573d8316d7b535b74a49b2d5c4",
-    "671a2ac758bea18c7f417a08ff176e804fe1fed7ec402e0931a77fe37ffd17b2",
-    "2e675e37ff88c2842e69ab43abea72e99e4e01385b54e57a8eeda4d5817951a8",
-    "c3a35cc639fbedf641d8527850e98949f1544548c1697427c43a4926d8295b57",
-    "5e1047c79d507ff66225f30aa772346d6591d70be498a1bb6cd7f75c331c92d2",
     "f5d528dc80dd2fd711b0e0be83d96a4f0efaa41b250fa02a638123891499d4c4",
     "c0f8cd0fa3fb9b7a662bda6af355b40568f0fc6869cb7915f64aeca48dff8b63",
     "16b27f55c989ce28cd1f123a9bed680bf22c1213267a544f79fc98cbecfd47d1",
@@ -8002,16 +7997,14 @@
     "062b0d0358777dc286be2339abe5511f1c7e422f4a93305f993b1602537160b7",
     "6348859f9d96dafa879eacf561720c70e41409b05edeca1becc4a710a4c89adc",
     "b379be0ac092e41a81a651121908499d5718fc56c713bf3fc679d28f63848f5f",
-    "eeea21ef1f490c2a86138b9ca61e5b9536bb5256cb9b994dc182b2d1abd89931"
+    "eeea21ef1f490c2a86138b9ca61e5b9536bb5256cb9b994dc182b2d1abd89931",
+    "983fa21911a3790946876198680ed3374dbdddb6a509c25145e919470d4983fe",
+    "b354cb9438131d10614b8232b5738ffae2ab0c18608cd9bfdd3afec1c7caeaf1",
+    "2e8f84dbad86d8ca4c1f8e5aafb796f4681e0a89a1b8658837f97a88a0917dd3",
+    "c018e59a8b377b1f0fadb0447a77bfe76903ec05c1688658aa201d6493f77742",
+    "384900fb0abe4b4c16bbb2944a627465de7c472ee8ff2cef8e14641bd6d24221"
   ],
   "recent_sent_articles": [
-    {
-      "source": "The Verge",
-      "title_en": "Sam Altman “doesn’t know enough” to say if Jensen Huang should come back.",
-      "title_ko": "Sam Altman은 Jensen Huang이 복귀해야 하는지에 대해 \"충분히 알지 못합니다\"",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034462/sam-altman-doesnt-know-enough-to-say-if-jensen-huang-should-come-back",
-      "ts": 1794853072
-    },
     {
       "source": "Bloomberg",
       "title_en": "Huang’s Ouster Fuels Doubts About Nvidia’s Support for Neoclouds",
@@ -11504,6 +11497,13 @@
       "title_ko": "미국은 F-15EX 제트기로 KADENA 공군 기지를 강화하지만 분석가들은 중국에 대응할 수 있는 능력에 의문을 제기합니다 - SCMP",
       "url": "https://t.me/marketfeed/1079290",
       "ts": 1794893106
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Iran’s Ghalibaf warns that dams, ports and power stations located near US or Israeli bases are considered dual-use.",
+      "title_ko": "이란 갈리바프, \"미·이스라엘 기지 인근 댐·항로·발전소는 이중용도 시설로 간주\" 경고",
+      "url": "https://t.me/firstsquaw/193408",
+      "ts": 1794893425
     }
   ]
 }
