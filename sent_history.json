@@ -1,29 +1,6 @@
 {
-  "updated_at": 1794912804,
+  "updated_at": 1794912977,
   "id_hashes": [
-    "b12318402aed7f0e8a1585b808a075b293e1d274a9ee0526df5e43e097e37806",
-    "37d211302ed7a338c5c3fd6c6be1e5e70a599ba98efe72eb811301d89c07d44b",
-    "bec71ef5fa010c97dea2bbc7e677ddc6238fb875606024ada6038f2018b55881",
-    "fff2f8f386d246759cee301873b7a0be32d9148b90f913645b177adbec69a23a",
-    "af47db128ebfb5376b833dfbfbe6c584968d83eaabfdc2cbaf3cc1098df18578",
-    "c1a94aec0c84884cd95c52c6fa9673e5f99aba82eb1c31d2be103bf07786a787",
-    "41b8102b09af6ea42f4dd207d30bbe850c64d5b7d5a7bc8052199c78d26b3b04",
-    "2812e89aeb406cba7d0ec36fb8aa45e3ab87a0141c685f124e23ba72821a07ca",
-    "c08f464fcc4946f67af1a7c3f3fe47ef10938ea7d54df8975e5ba5b267cc25a6",
-    "a1238b3299850e1e7d5def858f2f5dc5c177b9c7dbb9d3d3bc8f33e8b6f9cee4",
-    "d5811fca24a09394878f1ee7d60931ce8fdec44df12a78ae0f66fd8058131ea7",
-    "937f6da648fd25f8e646a5e12cdbbfe93b3e49633cb311290ed95c9c25f42b0a",
-    "d3bae853eb67a2f11148e930fa96d2a37a0618721f785df865fd6ebc90eadbe5",
-    "4e9c2975497aabf92a22ec1669104ee4b65698b9c97eddde937e607bac516c44",
-    "1ccee269792ad11a630a159fde019116e1e7e783185f1dff32e853be76222911",
-    "416bada0539dd5bff4207d193aa5e0a0eb5f28ef6451af61b7cc6b4f56782ff8",
-    "b8123d1fb63972c62ec13ec6cbea4ef2f8fd596c4c38916084e123f7d0a17ca7",
-    "d08abb7c8b6ad9787022ba45fdcc27e95fa5d8b2babe28158e9e61c3728852a7",
-    "d045ada11878c41c057ecea752cc51833442d3a18cd7e3c108753881dc4df2a9",
-    "37d09aa05ab35874593f0d8139e8aacfb3b30bdfec84e78d75c63425f5141e15",
-    "62583757c6a3a33fc7447f8e2ef988c811310bca27fb2698f6d62578bb0b3b7a",
-    "8eeec473a00f830b74b95b13d1a9b42d2d4427b7f0451702295d6a30d5a564da",
-    "665ca622b7b07ecd5f021c754a76ae1a611665df8443e97dd7e52afa0b6ca1ce",
     "5a0d7ea80f298e9a8b02731bf38cc492f81662aa9f4ab11e00c987d5ec080c7f",
     "f41b22b8029e8a9988a70b301eeb7dd3d88cbda18a790a5c2ffad1934e7d4958",
     "cb588ee9fc98f23be71fbee495f1ecf2695fcd439a4bbb33e552449ac8c8051b",
@@ -4000,24 +3977,32 @@
     "c6904b10e85e324a584f18a023404c8b1a16f9669bd60753bd31b584366baaf0",
     "e595124bb1b1715e381b7e9898ca8738b2753b8400bd00f744245843e9ef6e26",
     "18bd69188c49a14d3458b050229b43650337dcbeef1a0af6438928ced6868afd",
-    "d466032513d3cdf219e7d734036b15f00c59c537d39b6fd8b9131f9c4fb3f599"
+    "d466032513d3cdf219e7d734036b15f00c59c537d39b6fd8b9131f9c4fb3f599",
+    "5ef792dc87306fe04ab16895c005b0878865c09500c27aece4c2ac5a470bafee",
+    "fbdec1eaeb005c50734307f83e365a1a35e8435a1c335a129aed068eb3304928",
+    "bf9c8fac1963f0570a864642f43c893febc6c28f63017183e7933287d84f70da",
+    "853a419fdfe42e8d5be929dca0b894fc9b397a551a16f1b9173d8b9647a7758e",
+    "6c582d372d68b4bb059e55298e99ecdfc69da61501269f8c2125e9645386dd04",
+    "304b4c9bb1c9f32aa8c1a17cd0ecc9070ec79696d7774b76578e20e929c7ee83",
+    "d516353f5d771656606b2e138dccdd51b167e539cb7cac8508eaba9201c56165",
+    "0ba22f69be15057338bebffaf327d0ef4b9ca618a125f271b4b021707a1c2a83",
+    "b10982d16ddbef381acab8ee487ede912020b74358e433fef38f67e4061a0e4a",
+    "8a7de96ad53e3d8566a5e0cd679e91f4229e258cfa54fdbfeb7c7c74187189bc",
+    "93413d1ff2ba05af18f0dd3ad587dbd0c3d492ddaad94a17f2d273032778b9d4",
+    "20d17342b40320bad14cc391c6df9311d2caf11686d828e1ad92fb67e24a536b",
+    "47873f7b10e636d3edfed3cab0d5ad6ca054028914f797ca1835717845e5a181",
+    "bbab6545c7295b368ebc305975bcfaa8923303be8f48912dd46e215f5e3c9d93",
+    "a316806b82baef1385183480ece3da228d9851999ea38564a88bf4aa2f314ae0",
+    "58e8c587249764fc1cd08dc7122e5418c777ad6c662e3b859e5663aec32c5c16",
+    "1ce048dda3d02418a8f89be50c4d47ea7e6d6d975ed92cab5cd51e8bbdf5aae1",
+    "d53adc8ad72872e577e6392454cee80eb261e344cb138f2730ed5f3048439bba",
+    "253d5126a3e5a1b2e148c0d8f669dd4123f31a38d301d0b09b3bb3d6231ba442",
+    "73ea5c8cb3de2183631d1da8565cb33f86cd20154d215bb0347b285fd891f032",
+    "5d8ada66ee060160b652821bdd7b7ea82a66a4e66523735719c50623df68ebdb",
+    "b45ed50fd678c7638f642e8645c3d3d44727151b8bab9f70dfe30e7629b2736b",
+    "44e72802dc1d9ca4de5288b42fbb73c60a51064f46cbf0b605bb3322fac939c0"
   ],
   "title_hashes": [
-    "211b6d759df8a09ad09f0cb56f630646d062dfe25d6d6919d4f0c67a026db134",
-    "7c8790f053bbd1288d096c1c0734dcb17f5221ea044f6e3a271f27533b0b9738",
-    "51e43e726a9d7badc308a5267264ad0680b391c1199ec043e95a11aa317d7e4b",
-    "54e687e612243877131dac4ab038bbd41e120cfc29c30d118e0eba8f249e4e24",
-    "5c0a36f7bb01e6212d39c4abb8599f62a499a86a575bba72bef973a9601c0dfc",
-    "4393307578d7bf7d242c4de301849f1f514815d19b72d0e90ac79ccf101c3879",
-    "849e454cec21b0b68eaef2b7e4d1d86bb9486c1f727e0adefff4271637cb60d9",
-    "fb07afa5305fa204618c3a47ba3738c8f42d5899ad92089068e177e4b7a76125",
-    "b8a09f423427889992f38e67f0fbeaf672cc8b11cd688139f54802ae5d10bb1f",
-    "e19fc100f8292c5781a6276f42c1e10e7a292d7371a586c7df30290ce1d6a1a1",
-    "8a8d046153d97b1850a1a5760df8657b861c06382b6cd7367692f6b6292d3b95",
-    "5c82706ad0f3099da0b3b7220ba0497ed188c8ee68cee51b3fcdf42936dae867",
-    "e5ba57d0b18376170d53adc721c09ab21aa11c74b9ce0a00b07e67cad201c6c5",
-    "da9d1a54d44b9766676a75b1bf9851c5bcaced4fac308cd13b2e4120f1f934d8",
-    "31b19dbeb8361e8d7a6f607548700d993e6297067242adb49fc52918e8469dcf",
     "7cb152cbbbb232b223b6f0f949b035559da85e78ff0f08d5cc625b6850c7e345",
     "8d6a0590906778b93faa3af82dd2d63a7ac982cbd778e582c07205c313301d08",
     "6119bc8d55e9eefc84875a1ac96a0f2f7b5989e93382a48a2a709994d1f10fd8",
@@ -8002,51 +7987,24 @@
     "8462edd258b3377619df62f301aa1dacbd3c56bc5315e0dd701a5b281cba4899",
     "a4f5dc14d9bde83cafb7683fb25602cb7dad3091699425e9fabdbe44d7dc439a",
     "d7de18305b1b0b3cb0880a49459828f1181847e96e0e8d7222e749c60f606c20",
-    "d9d24fe5f8710e146cf07d4e270bb6a0389751ffbf827c8b68b483748105ab67"
+    "d9d24fe5f8710e146cf07d4e270bb6a0389751ffbf827c8b68b483748105ab67",
+    "d0ef109a467731d072e095147f7f98cd19014da25078d348c1e01d4a9cc73c4b",
+    "ffe5b74b96d7b117fda62c19ee1e6a1971af367fd500baf4d1f2c8e834047135",
+    "f3f47ee3799d56e9ba623d88d8aad61d614da8f61b1d85a942066d75c4eaf7e9",
+    "4f74b8f6effd0a3effd219f5f1a30062ba285fcb746dedd3f5888872e4dab432",
+    "95b173863e13959c8caaa4fcabd7da795d3fa134f1dec2d965e425a705355714",
+    "5dfcc7747338718cdf3569941a65dab45c5260862051a5b7c9c9736f2efa9dec",
+    "e893619c3b132591698ab51b035f95adb3964a4d2a8f1bd688c3e72615e50a4a",
+    "3a3df574852cf3e013404288247d439131b7c796ec0e9dd96d7e104544fbcc52",
+    "6d02926ca7851251f8abe9ca85d0f6a122e8ce5976ee34b70e61bf719d1cf9f5",
+    "a06457b48500166a1aa222e7878628d16ac762a77eb7c33daf636882e0e7c4f7",
+    "5a6e160843a691f4a07d223d4cda9dbd587e4b77150a718e0acfe6362312a5c9",
+    "f98af03b77455ad0efa440dd80b6894bbec0c4802c87bca5bfa98ba81fd10d51",
+    "4eabc1574acd5135c5652b958fa8256b3f2a648c6b2791e4c42e106fc0f13c8b",
+    "5132cb87dc712f4c088755f8016c81c0d72362ba759cb47f18f752b9902ceebc",
+    "909780ba497c16f81c33c4c3ad8d26b6c3ad5c15185bda7c1c14caba165555dd"
   ],
   "recent_sent_articles": [
-    {
-      "source": "CNBC",
-      "title_en": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-      "title_ko": "분석: 연준 의장은 AI 혁명이 다가오고 있다고 보고 있습니다. 이제 그는 그것이 무엇을 의미하는지 알아내야 한다",
-      "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-      "ts": 1794876459
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "日本经济财政大臣城内实：货币政策的具体手段应交由日本央行决定。\n\n希望日本央行为实现2%的物价目标采取适当的政策。",
-      "title_ko": "성 미노루 일본 경제재정부 장관: 구체적인 통화정책 수단은 일본은행이 결정해야 합니다. 일본은행은 2% 물가 목표를 달성하기 위해 적절한 정책을 채택할 것으로 기대됩니다",
-      "url": "https://wallstreetcn.com/livenews/3200913",
-      "ts": 1794876626
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "TRUMP SAYS NATURAL GAS COSTS THREE TO SEVEN TIMES MORE IN BLUE STATES DUE TO THEIR POLICIES, ADDING THAT HE IS WORKING TO END THE “WAR ON ENERGY AFFORDABILITY” AND VOWING TO UNLEASH US ENERGY DOMINANCE FOR ALL AMERICANS. TRUMP SAYS MORE THAN 500,000 NEW US BUSINESSES HAVE BEEN FORMED MONTHLY THIS YEAR AND THAT HIS ADMINISTRATION AND CONGRESS ENACTED THE LARGEST-EVER TAX CUTS - TRUTH SOCIAL",
-      "title_ko": "트럼프 대통령은 블루 주(Blue State)의 정책으로 인해 천연가스 비용이 3-7배 더 비싸다고 말하면서 자신이 “에너지 경제성에 대한 전쟁”을 끝내기 위해 노력하고 있으며 모든 미국인을 위한 미국의 에너지 우위를 확보하겠다고 다짐하고 있다고 덧붙였습니다. 트럼프는 올해 매달 50만 개 이상의 새로운 미국 기업이 설립되었으며 그의 행정부와 의회가 사상 최대 규모의 감세를 제정했다고 말했습니다 - 진실 사회",
-      "url": "https://t.me/firstsquaw/193313",
-      "ts": 1794876629
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "JUST IN: 🇺🇸 CFTC APPROVES CRYPTO EXCHANGE BACKPACK TO LAUNCH THE FIRST BLOCKCHAIN-BASED DERIVATIVES EXCHANGE IN THE US, WITH PERPS ON A UNIFIED GLOBAL ORDER BOOK.",
-      "title_ko": "출시: 🇺🇸 CFTC는 통합 글로벌 오더북에 PERPS를 사용하여 미국에서 최초의 블록체인 기반 파생상품 거래소를 시작하기 위해 암호화폐 거래소 백팩을 승인",
-      "url": "https://t.me/marketfeed/1079134",
-      "ts": 1794876631
-    },
-    {
-      "source": "인베스트조선",
-      "title_en": "앵커PE, 카카오엔터 인수금융 6개월 추가 연장",
-      "title_ko": "앵커PE, 카카오엔터 인수금융 6개월 추가 연장",
-      "url": "https://www.investchosun.com/m/article.html?contid=2026111780028",
-      "ts": 1794876699
-    },
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Japan chief cabinet secretary Kihara: lodged strong protest with Russia, urged to prevent recurrence",
-      "title_ko": "기하라 日 관방장관, 러시아에 강력 항의 및 재발 방지 촉구",
-      "url": "https://t.me/breakingmarketnews/178111",
-      "ts": 1794878533
-    },
     {
       "source": "FirstSquawk",
       "title_en": "TAIWAN'S OVERNIGHT INTERBANK RATE REMAINS STEADY AT 0.805% AT THE SESSION OPEN",
@@ -11504,6 +11462,48 @@
       "title_ko": "트럼프 \"우크라이나 전쟁 종식 위해 시진핑·푸틴 압박할 것\"",
       "url": "https://www.financialjuice.com/News/9855561/Trump-Will-press-Xi-and-Putin-to-help-bring-an-end-to-the-Ukraine-war.aspx?xy=rss",
       "ts": 1794912748
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BOFA FMS: INVESTORS SLASH TECH ALLOCATION BY MOST IN A MONTH SINCE JUNE 2006",
+      "title_ko": "뱅크오브아메리카(BofA) FMS: 투자자들, 2006년 6월 이후 최대 폭으로 기술주 비중 축소",
+      "url": "https://t.me/marketfeed/1079479",
+      "ts": 1794912885
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Just 3% of investors predict a recession, cash levels at 3.6%, the lowest since August 2026 - BofA fund manager survey",
+      "title_ko": "BofA 펀드매니저 서베이: 경기 침체 예상 투자자 단 3%, 현금 비중은 2026년 8월 이후 최저인 3.6% 기록",
+      "url": "https://www.financialjuice.com/News/9855562/Just-3-of-investors-predict-a-recession-cash-levels-at-36-the-lowest-since-August-2026---BofA-fund-manager-survey.aspx?xy=rss",
+      "ts": 1794912889
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Trump Administration Proposes First Major Green Card Hiring Overhaul in Nearly 20 Years: ‘American Worker",
+      "title_ko": "트럼프 행정부, 약 20년 만에 첫 대규모 그린카드 고용 개편안 제안",
+      "url": "https://www.benzinga.com/news/politics/26/11/63332450/trump-administration-proposes-first-major-green-card-hiring-overhaul-in-nearly-20-years-american-workers-are-first-in-line",
+      "ts": 1794912952
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "BofA FMS: Net 32% of respondents expect lower global CPI in 12 months.",
+      "title_ko": "BofA FMS: 응답자의 순 32%는 12개월 내에 글로벌 CPI가 낮아질 것으로 예상합니다",
+      "url": "https://www.financialjuice.com/News/9855565/BofA-FMS-Net-32-of-respondents-expect-lower-global-CPI-in-12-months.aspx?xy=rss",
+      "ts": 1794912961
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "GERMANY PLANS TAKEOVER LAW OVERHAUL TO CURB LOW-BALL BIDS – RTRS CITES DRAFT LAW",
+      "title_ko": "독일, 저가 인수 시도 차단 위한 기업 인수법 개정 추진 – 로이터 초안 인용",
+      "url": "https://t.me/marketfeed/1079482",
+      "ts": 1794912964
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "德国拟争取欧洲央行首席经济学家职位 de Cos行长之路更明朗",
+      "title_ko": "독일, ECB 수석 이코노미스트직 확보 추진…데 코스 총재 길목 '청신호'",
+      "url": "https://wallstreetcn.com/livenews/3201258",
+      "ts": 1794912974
     }
   ]
 }
