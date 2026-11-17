@@ -1,29 +1,6 @@
 {
-  "updated_at": 1794915167,
+  "updated_at": 1794915332,
   "id_hashes": [
-    "623fa0e5eb880023cf6b445306ac5e97d0f52750b45b4263412a32d10cc613ae",
-    "2dc0dd018960af143c6de5e8eeddd0540af017cea73dc41ac7dbcff26253c549",
-    "5dbdf8acfb8697aeea5353c9bed0a30f2287516019370592be405f7cc1cb4f04",
-    "550ab6ced178a7d4a7409eac3b1d8d0692704fe362757cdf3846a57c0993b248",
-    "a4c467f34215ab53d4d36455b835828c7da82a9383eba9b801c48e48e07ff562",
-    "40963f58c5a307fd6db04a594a33ccc4b082c7e5327d9055478e8cffd6bcad99",
-    "5bc0266bca3661c05d89e8bb1c1fe556a9a8b24715a85b842645ffd3da59fe51",
-    "60bf55841485fd32a94e67566918c1f97123d2fc5192d31438cb342c9fa79abf",
-    "9b447269faf638a757ef67490a0d693c618a4e923ee910d150e6ea637e1f765e",
-    "9d3b9cc1bfaa8292038b00ac8fdf45d67995cc64e76a8720df8a53768ca8f75d",
-    "21207c5b85504e52918650543079b3548cd54909ebe77c4253cb89282fab18c1",
-    "fb2c4acd7b281dae325d8116f753d7e3ed087b5de1444640732544f51db3827a",
-    "07893db0fa47c8e3138317114d273b42cb37422db61c38e5e95147852e0d5026",
-    "299ea5b1e6353ab95e13e036db96834502695bf726d986eb614552bff9450205",
-    "43cdcf4e2991e0323d960eea50acc7380bab6b55eea78d727aa04d52d942e421",
-    "ac3f070d328edaa679e191d54f83aae89a351b1cba5f5f54474672a96acc09d2",
-    "6c03cae3ff47ac124a43b6df3a091b8cc04349e0f44481751d5f430a1d6dd6dd",
-    "3332b5d6ba0818e95a8af1cd1eed1434d385d1035b188c8f1ea6b064bc9db931",
-    "1e180b30182f2e52eeb66fe45ba3fa650832d79b0417ac5e44ac896e301b65f7",
-    "dabccb0a6763ec8c0e30a8b5c904e27b86c911618ec79748d3962c72d29ff81f",
-    "297433a10e3862ca4290258a7170b9d2320a8de3f9380a7582a0675b96d26823",
-    "04b31c92a709bdb7638857002ca625761b9380e05f9c3f72d82ba099379df1f3",
-    "4a94f9e23893418b8e4621d94be291ee4223f22a821598adc5bbb4a404c8e99f",
     "0f3f5a260271446a7b04aaa9ceb95cd125b32b96ff94f27bb6dedb46a6692473",
     "1e8f52942cdf21910d01d12d2b8327a949de08d5a486f0b5f1bccffe277c7858",
     "12870e1da47f083a827d762fba658531a78f0ecf232b1b46e35dfa65c012984c",
@@ -4000,24 +3977,32 @@
     "0c04252d22d1237b4cf570059b0e2157054980c78ebc7ee5c27841f96d78e5be",
     "598212d732714c29997c1530e02f573318c0bc70824305ebfcdfc3a87a894bf8",
     "90a731cb049e918a5ed8af30cb3575227955448bbe6d6776349473cf717452c1",
-    "78dd38b538c4780c3c84237a29fd21a7a7c4db21b8172cb8cd96c980039e0e92"
+    "78dd38b538c4780c3c84237a29fd21a7a7c4db21b8172cb8cd96c980039e0e92",
+    "f7ca04243363008080e4e6ce7e91595ff4377e42fb1e7fccf88028078275487a",
+    "7124d838d8dbb136428878e1ac31354243cf276dd21e93e1e20b56c677aa689a",
+    "4fe4aa311be898e981e9ad2528993743d2c8901915fc39b306c911e437b7a0b0",
+    "73e2d13ef0e9ceff53a43a5fefc841e6c72b5ef80548f923fde1cdb0a2f90578",
+    "4f7985a79626d9474a7c360b7ec23967535cc90a1170a5214f73e25982e0a463",
+    "847f1ec244a90dc4e2c22b2e7d94472347fbaf71436ca0018bdd7659607d0ff7",
+    "81493edc93a4f6d62194170e09ffbd5031247a4afb058859d4d09a97ef5d5b01",
+    "5b6f2aea45c86f358f26edd31e3e5670fed2955642b27547eab44e634d7d2fb5",
+    "3c89afb96236d2d1103428e7e56d986a8852f54c8ef729301668fc9872d3bad0",
+    "4727dc113f0c10e26ad826a60ad123e9833b061de5b536f045821840cf8724e5",
+    "3da462b53acf2238c71cdbf67843d97794e6215b081d5e532262916d14140075",
+    "51aa7251b2f3907b7c8557e782e582e77dfdc861f401782acc6c154793bcb363",
+    "6d1d3f925af7c971c3f1dc2d3762ac67bd2b91755c7324be6db45a7af0811a76",
+    "ee8d8d7fb1e960b440b511576fda99d7506a57c5a46f299f3a44301101371da8",
+    "7fe294c964f8b29292af8ca748a1ff7001b3a4748478528e64a8987f453519c6",
+    "8c5ed92c8b05aaf3c4b4b94d50c29d8f0fb87ffe2da147b1c33f618f86b0aaff",
+    "c52441365b8ae25920e54eb1cc68fcc1f75d9d96027f164e805f46e826d3948b",
+    "1c411505c5e4e90a11c4e7af0b368cf67f423daa116cbe086e908f43ad6fe72f",
+    "0bb5bf1cd03f4e4f7662c9b2e49109a1f9472e9af8b9cae0009f73f9a9dccd30",
+    "05a1b599c38e04b924ba4b4fa8944a3fa6c4c0a4fb50455983f83fada1a9e76a",
+    "2203cf3099f13733a64f30bd1aa45b69837e90a6ba76dbe0ce9339df4f14d2b1",
+    "1f9aab2bdda0ef7e133b795114da2265ce948156265919c0e0ef9411a5bf233e",
+    "3731d02773b21a2b92e918dbd4207a22d92f56a18ce5f44358ccea0921ea8e21"
   ],
   "title_hashes": [
-    "c2c22b854e7dd62e3ba660ae84a3311218aa0a24aaa457dfa44f0a56eb50aa91",
-    "b99154d110d0d25930cdd781163b33d85cad4c1895b08e1e0cc05e2dc1783758",
-    "110a16e746d69ec12902bca639d91e531377318ab88ab885bf989e4ba3e6228f",
-    "e501415f9e12e0be641776ece9982a54f3917c933a806e55a5161c966806981c",
-    "6872850fe0ebc0f783ae559a43d3de03639e432605b0271418b839f83fbcf867",
-    "7794ed72cd4683db254fca89887a51c52defc91c949d93f665e66c50a74ab638",
-    "1b04f40541abbd4bd314c171142141ceb528c080e0fb1d005e5aafa3eaabf51b",
-    "9ddf88e401cff071c9f83eb971006d71b38d6bd61e912a821092359cfb8f9f40",
-    "5d882322d0e277b0aa1f1fdb11a2a40266337d6447f7adcfca2a8d28b6c7eb7d",
-    "ba988682b2b506764cc83c86fc3e6554dc4c84d3e76f61c33e7aa4259e1ecbb7",
-    "9bf4c9349ff21588d4ec3b749bb5c2ee77aa40f98f57e05660b89dce148ecac2",
-    "192b6445eb340c591d0c11d420f294c2b313bccfe9097a839ea4b69ded583984",
-    "03098150bccdca4b52b200d48c616cd516cb19d5427678674caee9e0eef492a8",
-    "cbac7b996251bb420c106771eba1c442c3ec07eeaafb9d62d569f7e07178c14d",
-    "905f4b26d6aae6cf6e561a882b0481c0f3dc99286193189257a3a8a886031e10",
     "b63b8a365cd48b9249ccbb2631555721d4d5973fbe3c367bd496a32bff0439b9",
     "343d525f202fb8555a98f7385a330d5caaf3ad85cb830a84e19653e0dd197388",
     "b3b957db76286ca94acc595383bd41bb5842aeaa3f54aeb2df020ba2bb02cfcd",
@@ -8002,65 +7987,24 @@
     "da717e5815f8a0a1e6ed6183ac1f3681956847915304f87b89133f6afda2d791",
     "5a9480596db0005ed47b18ed7d894a08a82903718f5d3b20bf8d1a0c5c70dacb",
     "121b80e4f40e8d9531848ad37921d8f7e664cc21f9fd1f0d5ad06063b7267012",
-    "81a8eca76b79cd3ee8eebb4e071e047b3cafb8286ac88a12c7e416c0db42673e"
+    "81a8eca76b79cd3ee8eebb4e071e047b3cafb8286ac88a12c7e416c0db42673e",
+    "86048cdac222a458424408a68c7f841ffb0f28b9920cc903b8d08d7a951f5e86",
+    "eeb824dd176c8f38fdafd676f10d2803126f2e45f7496ffd815d2cd4ee43d19b",
+    "4866b935adcab1049e6008c83c70c0672dafefca447f04b5b31078f8aee85ab5",
+    "7680ccbc3f76f775d104796b276f237fb164ef7c82d5da8ee1711c277976a3a4",
+    "dfda5d99535f325386c988ec5f9db68799678a1590ee862bfbf6f8d24a21d4f3",
+    "c6ec9a2fc0cb6dfc9e96713631b6046c359a02835ae5c5904c53ebd9093b2add",
+    "7b94bf0897512fce517e4bb128e88e024c9991b96f52ea79bc1c1e5d9c60e342",
+    "bc1579600fb2f73bf59d697564f3fa964d82ed8b69bd517994c85abfac01a8e6",
+    "84a1909bcb48f150be803cb9b04cee6a4ad091a862745b5260b86ec0cda0b6a9",
+    "f5f81d580bb114a78e836699f68ca7f72543247be6829eee0d50a65f8788359c",
+    "2d25c272559c310758c25416368f90bd1e514d248bf81230c984f9cdebc006f0",
+    "35ab23a62b79a7a81016359182f4448e1250dd47fa38d31fc8faf1e7d3339947",
+    "d9e15b633fbdd719bcb98793aa8512d89423c9c975d3681d7ab81d61274ae680",
+    "267ab29e0dca73954072573bb8b916833f53e989f27e282ddadeaa80e27de9da",
+    "736ac5e57f2e97ca29fbaa9956767f8a2f86027a3b7accea140bef068202ae30"
   ],
   "recent_sent_articles": [
-    {
-      "source": "The Verge",
-      "title_en": "Instagram’s CEO thinks it will be “pretty challenging” to make it feel great on the iPhone Duo.",
-      "title_ko": "인스타그램 CEO, \"아이폰 듀오에서 최상의 사용자 경험 구현은 상당히 도전",
-      "url": "https://www.theverge.com/tech/1035142/instagrams-ceo-thinks-it-will-be-pretty-challenging-to-make-it-feel-great-on-the-iphone-duo",
-      "ts": 1794880226
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Capstone outlines 2.5 GW data center pipeline as it targets profitable growth in fiscal 2027",
-      "title_ko": "캡스톤, 2027 회계연도 수익성장 목표로 2.5GW 데이터센터 파이프라인 공개",
-      "url": "https://seekingalpha.com/news/4673411-capstone-outlines-2_5-gw-data-center-pipeline-as-it-targets-profitable-growth-in-fiscal-2027?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794880230
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Nvidia Earnings To Test AI Boom After Huang's Exit",
-      "title_ko": "엔비디아 실적, 젠슨 황 주식 매도 속 AI 붐 지속성 시험대",
-      "url": "https://www.barrons.com/news/nvidia-earnings-to-test-ai-boom-after-huang-s-exit-7cfa9d1a?refsec=topics_afp-news",
-      "ts": 1794880237
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Elon Musk Says Sean Duffy Passed on Free Starlinks for FAA - SpaceX (NASDAQ:SPCX)",
-      "title_ko": "일론 머스크 \"숀 더피, 연방항공청(FAA) 위한 무료 스타링크 거절해\" - 스페이스X",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63329372/elon-musk-says-sean-duffy-passed-on-free-starlinks-for-faa-ground-stop",
-      "ts": 1794880242
-    },
-    {
-      "source": "이데일리",
-      "title_en": "[단독] 카카오엔터 장윤중 공동대표 사임…고정희 대표 체제로",
-      "title_ko": "[단독] 카카오엔터 장윤중 공동대표 사임…고정희 대표 체제로",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=03119286645646704&mediaCodeNo=257",
-      "ts": 1794880291
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "\"오픈AI 계획용량 14GW 전부 데이터센터 중단 지지 주에\"",
-      "title_ko": "\"오픈AI 계획용량 14GW 전부 데이터센터 중단 지지 주에\"",
-      "url": "https://www.yna.co.kr/view/AKR20261117059700009",
-      "ts": 1794880294
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "JUST IN: GOOGLE $GOOGL SAYS \"THE ERA OF AUTONOMOUS ATTACKS HAS ARRIVED.\"",
-      "title_ko": "구글, \"자율형 사이버 공격 시대 도래했다\" 선언",
-      "url": "https://t.me/marketfeed/1079175",
-      "ts": 1794880296
-    },
-    {
-      "source": "인베스트조선",
-      "title_en": "이지스 매각 최대주주·모건스탠리 '입찰 방해' 무혐의…흥국생명은 항고",
-      "title_ko": "이지스 매각 최대주주·모건스탠리 '입찰 방해' 무혐의…흥국생명은 항고",
-      "url": "https://www.investchosun.com/site/data/html_dir/2026/11/17/2026111780049.html",
-      "ts": 1794880361
-    },
     {
       "source": "Barron's",
       "title_en": "Anthropic's IPO: How Do You Price The Future Of AI?",
@@ -11504,6 +11448,62 @@
       "title_ko": "Disney는 4분기 예상치를 상회하고 비용 절감 노력을 통해 30억 달러 절감을 목표로 하고 있어",
       "url": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
       "ts": 1794915166
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Home Depot Names New CEO as Earnings and Sales Beat Expectations",
+      "title_ko": "홈디포, 어닝 서프라이즈 속 신임 CEO 선임",
+      "url": "https://www.barrons.com/articles/home-depot-earnings-will-test-if-home-improvement-can-outrun-a-sluggish-housing-market-e65879b7",
+      "ts": 1794915194
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "Samsung, SK hynix, and Micron form unlikely alliance to standardize robot charging as chipmakers push toward unmanned chip fabs — standard specs would allow manufacturer-agnostic charging equipment",
+      "title_ko": "삼성·SK하이닉스·마이크론, 무인 팹 전환 위한 로봇 충전 표준화 동맹 결성",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/samsung-sk-hynix-and-micron-form-unlikely-alliance-to-standardize-robot-charging-as-chipmakers-push-toward-unmanned-chip-fabs-standard-specs-would-allow-manufacturer-agnostic-charging-equipment",
+      "ts": 1794915197
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "迪士尼第四季度调整后每股收益为1.77美元，预期为1.66美元。\n\n第四季度营收259.5亿美元，预估251.8亿美元。\n\n迪士尼美股盘前跌1.4%。",
+      "title_ko": "디즈니 4분기 조정 EPS 1.77달러… 예상치 1.66달러 상회 · 매출 259.5억 달러로 예상치 웃돌아 · 시간외 주가 1.4% 하락",
+      "url": "https://wallstreetcn.com/livenews/3201279",
+      "ts": 1794915199
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "$DIS Disney Q4 2026 Earnings",
+      "title_ko": "$DIS 디즈니, 2026 회계연도 4분기 실적 발표",
+      "url": "https://www.financialjuice.com/News/9855637/DIS-Disney-Q4-2026-Earnings.aspx?xy=rss",
+      "ts": 1794915202
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Tencent Music Q3 revenue falls short of estimates, earnings beat",
+      "title_ko": "텐센트 뮤직, 3분기 매출 예상치 밑돌았으나 순이익은 상회",
+      "url": "https://seekingalpha.com/news/4673539-tencent-music-q3-revenue-falls-short-of-estimates-earnings-beat?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794915255
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Intel Stock Falls. Jensen Huang Delivered One Final Blow Before His Exit.",
+      "title_ko": "인텔 주식 하락. Jensen Huang이 퇴장 전 마지막 일격을 가",
+      "url": "https://www.barrons.com/articles/intel-stock-nvidia-jensen-huang-61d826ce?mod=RTA",
+      "ts": 1794915326
+    },
+    {
+      "source": "한국경제",
+      "title_en": "\"돈벌려고 불법판매했나\"…美압박에 엔비디아,'AI칩 판매감시 강화",
+      "title_ko": "\"돈벌려고 불법판매했나\"…美압박에 엔비디아,'AI칩 판매감시 강화",
+      "url": "https://www.hankyung.com/article/202611172971i",
+      "ts": 1794915328
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Trump: The US is looking into Iran's dirty bomb threat - CBS",
+      "title_ko": "트럼프 \"미국, 이란의 더티밤 위협 조사 중\" — CBS",
+      "url": "https://www.financialjuice.com/News/9855638/Trump-The-US-is-looking-into-Irans-dirty-bomb-threat---CBS.aspx?xy=rss",
+      "ts": 1794915331
     }
   ]
 }
