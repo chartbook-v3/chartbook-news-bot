@@ -1,18 +1,6 @@
 {
-  "updated_at": 1794886417,
+  "updated_at": 1794886576,
   "id_hashes": [
-    "96163951b2cd0645de1a69e5429ae6a23f6bc4239e74e152433a3b65b272fe41",
-    "3ebd601902791a32598840f0ec98a949055f086b4eef0af4962b746075710385",
-    "0cf131902480f2e4569ea306a38b007bce09d167b31e3e6b06591d86170f190e",
-    "77d5f2e26d05748df0dfbf7cb47363fff46647de5285fd1cbacf0baaf6231135",
-    "3f28af9ecfe03838512be00a27159be5b8f64897588290ca61d719998288b738",
-    "18f081a1271eb5ff20847d680ae0cbf7fa5c44c12d41ed68a89c6b6a44b8f5dd",
-    "999ff00fad8a0e2c6f626c91b1522c9a6d576167013c4867819a2e99ee485fd4",
-    "ba9e43ba8bb0628c4aaa45e04b65747f23e318bdf49f2f757d77b3a3cc834c34",
-    "25804fa21e891dab278e5d30e3ff3c70445ed449e19a0f478f2ef8ac64e51f30",
-    "0aae9f80994abc98ef3e52022599dfab84a71da89c4c397bbad18192e2309563",
-    "8bbf99a21b2cde6fba0f66a9bcfd46bce0e843ff30221d196df8e1e2666ce490",
-    "f7c7f042082737162edb76518e013c400ed11ae034a6d200252a21b354df6682",
     "ab535b732a69fa3cd7c9aa3744fa6fa0690a0f7640b6031af73977fa376e6d31",
     "c739d9fdb82c46d2c08b3aed54fe7fa829167b81aa9a027aac429b340729687c",
     "3b3dac37663af9c5c7addaf3abe7c07734cbfecee2ccf1c98657dc8f8b5b9b5d",
@@ -4000,18 +3988,21 @@
     "2ff7e9f223438d6976d65240e1c7a7f23f642f1b7ea4289db9b7230e6a0cfab7",
     "3efa54bffade403425d7e4fec09f4002530129d198b3d0d0a3251c124775fb41",
     "b372f928606f12f9b7934840add2bb87d051bb66a01796176e838e4ac505dd08",
-    "4ea56cea34bad187adb557fbc6889a4c5d943ab41aec6db24afb3b121561b7d4"
+    "4ea56cea34bad187adb557fbc6889a4c5d943ab41aec6db24afb3b121561b7d4",
+    "a107f3ffcfc46dced268db40044fe088111f2ed536da1cc8bcdc7a9dca2b6614",
+    "b9740b55c9c37416656d8488cd90a0cd5ccbcb856c365a75d917db5131e191e2",
+    "4d2b53a53f423dc206a46c717d6a118994a4ceaeb1ef520667f7eb2501acb265",
+    "fc0cfa57dbfdfb2b74a625f275a33b750bea833c826555bb7401b5c4c1995111",
+    "3ebc657f6170d46576b24162a8a5d9c563beb9c15bdafdfea89d49ed49f1287c",
+    "8437602d80df9185cc72adbb0e8c4fd55b0c29874143a1936d21236a2bff505b",
+    "f3ef9234fe20dc00c8088fb5d70868994c02a8d47162959c3209f19821c7f8d7",
+    "b8be95a5b918cd6616c771b79a096cb38af65b34458f025a737c321208bd0b24",
+    "7e7279ee4a1627230a1e52913dbc4b508669bce6754b3b8851b8295354ce27c6",
+    "2d88ffa277ef6978e06d3d9b8271a3a6a55360726529aa439adec5dbc098a187",
+    "b062b881bfc08e68fc819ded21c7b600bbb56ae4be7f9bd2c3b72646a1736d97",
+    "a51608ac356bfddb192a3dfe8b4afaa47c0439cccecdca825cdf4c9e1b8dd69b"
   ],
   "title_hashes": [
-    "c6fb27346134c06a35d3acaa16313e26aa09b889574378bc154bcd9032427bc9",
-    "d1775a70cf5a0e2ed34b7c476ce49681db7f914aa9a2083938ce395bc5c3821f",
-    "44bb65c1d9fcd482c50e8599cd7c1065d71697deeb5ddfddac5aa59863f96623",
-    "f157ca35af4abc6882485a60d525067716415f649b890a1cf5b05723c5536c15",
-    "8e07cb762994e7fab6850ccab8e15c0b4a667c817f29b0391c897f186bc930df",
-    "6a1c82deb1671acc6a0cbef6c5a731d4a051cee63898469f6375230c3699af7a",
-    "ac5715c3f088951d4a09f6e1b883f669cda68e5f662935366631b3de27a41635",
-    "7c770132d8f2f2fa233c8cbad1ef8d0052c253a429db8360a31c874c20998e6c",
-    "bb903e15bd3e8dee046b5ef86257766ebbb24efff1f713bbe685d1218a1eb6f8",
     "16c1d3ae30ca1949e6e1df4b641096baa29d9205920a4d801c939bd245f2405b",
     "efe9827397c5c8a8046fc9f96c54ef1d5d5538cb837b4e80848fc02e28c3bf07",
     "a6799661fd8efbe94e58efe707eefd0b7b544b9d400f2039aef8c2ad07bee712",
@@ -8002,23 +7993,18 @@
     "51129e5cccf8068f0241aa0ae1f614f0ba47bc8d83282868a5189b3f0c2f2fa2",
     "4bb3f1857d03b35b5b07e5c81b14161fe2555c4ed531046cc333bf3e59300fc2",
     "e719c33168d15472e1159cdf636c9c7e8569b838f7c9723e74c92fa0a9d3e143",
-    "28a14af6b796fdfb6eca80e21272e80763b51b2b952f2306c547d4b859cd476e"
+    "28a14af6b796fdfb6eca80e21272e80763b51b2b952f2306c547d4b859cd476e",
+    "d870fad01c3c87a21c0cf651221787e9c219a860992583bb220dc1bc83191063",
+    "461ff177363c17a0c8fffb67c8390fab49708bba1f751f872479318de5fe75a6",
+    "d666a823344a4243abf73f085e5de7597eb099686875b64caf8b35cf7fbea463",
+    "532a90ee34ca97a21821896a390ae91edeee90ba53409a66139ef2b19ea574bf",
+    "45730cc61da5caf3a7797e6a069cd4e16b28e2158c8ea1993b67b25e01898988",
+    "e6cae50e3d2ac478fa09cdbfe0d676bb467e1b359b169a7ccb603d8a0c6c34c0",
+    "f97db9f025904d911d80d41809b654271880c115579a89f7a4708e59cb4e1edb",
+    "d2c7a490dae600aa9056e1236e46fb1b7d322b49429f7f158f52f0a7e0eb5254",
+    "a31911167532930cd24da4a5889a1277a64ed8e4d99606ec80ea4fc42313f560"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Nvidia’s CEO Search Draws Fire; ‘Max Overweight’ on Stocks",
-      "title_ko": "Nvidia의 CEO Search가 불을 지폈습니다. 주식에 대한 '최대 비중확대'",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-16/the-opening-trade-11-16-2026-video",
-      "ts": 1794830045
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "MORGAN STANLEY RAISES BRENT OIL FORECASTS FOR 2026 AND 2027",
-      "title_ko": "MORGAN STANLEY, 2026년과 2027년 브렌트유 전망 상향",
-      "url": "https://t.me/WalterBloomberg/38415",
-      "ts": 1794830047
-    },
     {
       "source": "매일경제",
       "title_en": "블랙 힐스, 노스웨스턴 합병 완료..220만 고객 유틸리티 출범",
@@ -11504,6 +11490,20 @@
       "title_ko": "엘더 로우 가이던스, '2026 로펌 500' 선정…미국 고성장 로펌 77위 기록",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUl9iY3o1R0JkTnI3RExQLTB0SVNWaDlNNTZWQklSaXMyNWJGQ256cktsWXNfMVIyQklvMkdteDZsME14b2t5Qjc3bnNIa0QxS2luNEhPcUdGVEVYbWhSQ2V2ZG5wUzlXQjE3UU1rR1o5bm1JUFFNNHVJOWRtSlZmcE53OWpTX2JWcjVOMTBvdmNnVHRoMWRvUmxQUGhpcWwyLU5CX3FxLWc5SjRCeUZ0NFB2cmo0djAweEJHM2N5TEUxUGhyMTF6dnNZR3pLZ2lZb1d3QS1vSUpqT1BfamhJc3Fkc1VYak9jRmNiNkZISHQ0bkgzNlZoNkV2eFhrQQ?oc=5",
       "ts": 1794886416
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "SINGAPORE TELECOM REGULATOR CONFIRMS RECEIPT OF SIMBA'S RESPONSE TO SHOW-CAUSE NOTICE DATED NOVEMBER 16",
+      "title_ko": "싱가포르 통신규제당국, 심바의 11월 16일자 소명 공문 답변 접수 확인",
+      "url": "https://t.me/firstsquaw/193361",
+      "ts": 1794886567
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "SINGAPORE REGULATOR TO REVIEW SIMBA'S REPLY AGAINST THE FULL SCOPE OF ITS ONGOING INVESTIGATION",
+      "title_ko": "싱가포르 규제 당국, 심바(SIMBA) 답변 대상 진행 중인 조사 범위로 확대해 검토 착수",
+      "url": "https://t.me/firstsquaw/193362",
+      "ts": 1794886573
     }
   ]
 }
