@@ -1,25 +1,6 @@
 {
-  "updated_at": 1794949622,
+  "updated_at": 1794949794,
   "id_hashes": [
-    "89a3f53588b462404f8f38fbf2b59ec9ae74bfe8ae1b88b5e3225b5222f0244c",
-    "8f74510ac2449021486cad2bf3c1fadc17c8e3861232c6d49441b8ff18506ed4",
-    "144b0df7710cd0926f95127a33e5740a224cc922d36fdfa381ac7f1fa8a819ec",
-    "a8b6f9575c278f938b7e49fed6dfe8659553de0883e675719b0c02811fcf583f",
-    "6fe7a6bcbdb8888f97eabfc7b4374a516e981a12c92cac57a0fedab79de47e7b",
-    "b173d758206250d9d05b15477eb3ef9ba63a68fb03118e27e935dc52ed61df52",
-    "235553d76f4218bebd833921c1771539ba9678e8f5dc15942a3b81d792fd6741",
-    "e4177a8904f28477e4c6a707d95504767ad8f1aa073f473697e44dab41c9573a",
-    "2ff63778d125303cdde982f65ee3b110e2f5529d5c1922b9d37e66b51d53a2e3",
-    "7fc8f06147ba216134369fa79d55f725a8215a9545142a66604738eee1bb0034",
-    "7025bf33593905b18b5bdc9c949e85ab692a05693299f4d3f8238f5b54be7ed8",
-    "5a96d868b3a5ec102a149bdc790b1044e9b2aeba38d3af1235f5f0346238d2c5",
-    "befd7fcfbcfc6378e559e559d4e5935c4fda867f76716fd0da600aae80dee0d6",
-    "a6bf76eb6fed61c4f88d4a7daf599a3d372e7299d0e6abf3d3866f85954cba80",
-    "29b6663b8470a59de9802009c1e14322a5624668ff14907ad1789fc7c6920b0a",
-    "994d4da217b5ecea89fb8e057455c1a487c6b0df8554b8dc3504bac2f84e8e34",
-    "a99cc1e1569fc2472624cea74a037e365744515839840e944aad3652f22f75b0",
-    "1e4f10684f02a8a7eb7dbb0b1bec9d152484d11c6a98c9e0865d1cc0a1a497f4",
-    "5c3c7fada52ce2f73cc3eee0874835f4d0b4cd76a315b7cdf085f25485d9d2e5",
     "79306073e35aaa1db38a136af378446158fd1fb38df2ec91a475d4540ea5315b",
     "f1620a90834bab31a0213156fb32f662471b71a6800ab55635315788cd3c3afa",
     "d602584018329263331478890945c16851caf02a9d0c7e36e042714934bc54a2",
@@ -4000,23 +3981,28 @@
     "327967640d66bd997406911430e8cb3ce662a38206c3ede7261b2256553ad79f",
     "af005638bea874affd584d0061d090a9d0d069eb94c08c18aaca3c7b7cb88dc8",
     "14ab2b8fcc5924230697d37cb5e495c519020f4a1c9ed6ce54ce24b356d742ec",
-    "ba0d35eeec9726e4b1e02bdd28d16e5f5cd57eb95f7a4bf6b278736633c9984b"
+    "ba0d35eeec9726e4b1e02bdd28d16e5f5cd57eb95f7a4bf6b278736633c9984b",
+    "209d47ac0099a52763cc8d00e3081c0107193f7f04d67479581db2c4d6e0840e",
+    "6e329acb83f76012f8574b643a72590ee048f21cd1b6eba74eb49e8e31793781",
+    "fb05dddf96f1d5e958c076e7193137845f241d54c888e869ea103d5623ef1a10",
+    "1994330256e23a171a254c15eae400b7395abbc5d024a78e909d099c6b38be0f",
+    "84669b04361855c5991428ed61bead3478eca24c2f9d44fc7d64c8da09a98ba4",
+    "eb9b39cbebbdd573ef402b6e2169b328d0a77358a93161402b73aa5821c3b357",
+    "6c7b665e561602c2559e76dc35a10763cfa9b8c948a940adb8e5715f9bd26128",
+    "2c63eb78de848f1c8b90a3fe6fb8de3519cf1a49070cc16a21c5c73028c7d2a3",
+    "0adba34e80aa9c102620a92a2edbc17bde7c40db4a406dc1c9ffd4749c338313",
+    "5d683c5820246249a2ae6ff68cfee95e8f8589e34bfd063981c0eb86fc166c09",
+    "425cdfe20142161c123f643abcefa45f9041535e595adce4ea77dd3d8ef324c7",
+    "96ce90c6afd16ceed4c2f4ffe00bf6f5aa468cd3c50157c935405d7428a075fb",
+    "5991055c68ec2bd7eeec502418287346252a2103067d7844825d03609ec4fde9",
+    "e8f7773d557b02d86e76ebde27a8cb030895ba0a7c2f2c4b06eb2355b1f6d407",
+    "548d71702bbcaa9cd455c4ade660eec77e5e14f4e18d64d9701476e468ef9948",
+    "863dfd836bd0edd9cc0f724a487a5ad07766ebdfde50c2ad37d01fe727736afe",
+    "8914bc0089011a32916cd19e29e2c66c9d9ae1697b4f537382ae15e0de576b3a",
+    "662fd8b3d547fa1c251ed5181312e8bdc531f151acaff85c1f7b70e16b0371b7",
+    "8d09dde5f7438efe593aa0f7cd97bf8b60e71664b3848ba76288be62ca79368d"
   ],
   "title_hashes": [
-    "2640946bf951094ef4947a7d09ed45b3a769a14c66bcdca9d53bb6d5025efda9",
-    "4cd6d3590c51eb274384a797136bce91da085fc2108f8e2fc98b88038443ce51",
-    "7632eb8f7cfce2af5f9b5b386f782c611e65ef76ebfd2950106e8f7e0fae2c15",
-    "a35769dc1f1ff8d6db6a839086eaaf944547afe8dddc715a9fb3bc9a713df1b3",
-    "6a4026722728166e6604f75a31565165710f3890e2bcd94453ff4835526dc94e",
-    "ae4a0cacac35facc1373621e54a9b32660ca92b7560cb6a8c022abe7ced1529d",
-    "a40dab404a9b15f7507d36eea8428cece36283100f280dc4c29bc4f4ff5ac743",
-    "4314345b5f19a1b7478e3f214eb7f808f72100ee8ca4d16506fd72782e793bb4",
-    "b77d28ea886f8bf0bced35ad54133a8cf5ec78b306a6ac0adcb0a2c9a1c9654b",
-    "a55dd3757d5d581889a3b57312a9552fa7ca2b32d163f638c753a175790d38f6",
-    "79410a502d4190327d798b5df1c0b6495292ee7833b4d098d43bd271ae489a83",
-    "3f3185e7f0912188c636e68140edf3bad5e134f786cb929e37c0d0ae96db01f6",
-    "9b6a966011c8686ce26a610f43a545affebcb74a9d1ad35d15755a1888c61338",
-    "0ba97951d05b858cc9afd9bcc1779f23790a990ebc23f1019fdbc8472a2970ce",
     "ed6e2b20a9a98c2c72ffa3e0141f2cda799ade8a614d8549ab075309dbe56b54",
     "bf4688fdf7cbaa07e387a069260dc9ffc823ff986cbb748d2448e6796dce4c78",
     "274425d425ab14e99467e6165f83b8810f044f18094a55e03574338019af8df4",
@@ -8002,58 +7988,23 @@
     "859a1d3e4dda65abd77c53591f9adec311e5267604a93334e0da7c33b33af155",
     "b75b2ad15ab62d79a0122bf701bb93f916fd3053cf6cddd4f1f7fe1606085828",
     "4fe50934968b4169cbcf8fbc50e06be778059162986767911ab78293e5e219d5",
-    "e9a5d4ea340b20d7ac3ac087933e63febd66e7ef3f4cea17bc55a85686e94214"
+    "e9a5d4ea340b20d7ac3ac087933e63febd66e7ef3f4cea17bc55a85686e94214",
+    "85c2a2671827e24e4f2d6d76afef5a2aa6a501679a7295bec078e9fc44527e53",
+    "df88d04762eae578dfea775a9095516698be4ebffec753d0ac8a0a3cdbf10c2d",
+    "44d6af1740b61fb93d9b66a4955ed8a99ed0cd97bd21cd4b0bc93faeb26a56b5",
+    "ecf8ab86c2d32aa6f7e618d6f770c21dea19ad056055e1e43510f7f5d6cc7047",
+    "6758ffbfb4c14e4bb6bb777430ae368f10959ae56949a86fd15d7ce21a938527",
+    "381ac562b5c3954b558addf28a3e811c5da19290a0c57cf255bbd2fd513965bb",
+    "e38accc9f959610426037c2e9367759a054cd3991476f3ae516818ac08e7303a",
+    "f7b4c2b66137258fdaba675e13c5f8a80a9903cbddb056facae09e9273b10b09",
+    "92cebb8cf0bfd65dfc226c0dcaf67ba28d0e976a01159999fc1e18c2218237ba",
+    "7f4d8c03c9d62438b81e5d428a9afb9944bd8ddf385cc2f5a19ffb7f443c39b8",
+    "444ce95fd6deda3e82597d168ad3d555367bb6f412097888a83ed917bd4c1577",
+    "ff121c7be1cddcbe128124ef4c7ca0a3a66b7829e709000312aa1194896fb2b6",
+    "57343b1bcb35bb1741c1441920eb2a11ef718198b04750e73891b4da230a0ce1",
+    "0468e5c5f1b79f075f97e5f09c386dde483456828dbd06ee232db2f3ea2d30c5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Hong Kong's student population in the United States shrinks by 27% over the last decade - SCMP",
-      "title_ko": "홍콩의 미국 유학생 수, 지난 10년간 27% 감소 — SCMP",
-      "url": "https://t.me/firstsquaw/193423",
-      "ts": 1794896151
-    },
-    {
-      "source": "이데일리",
-      "title_en": "[단독]KB금융 해외법인 보안 비상…KB증권 베트남서 21억 빠져나갔다",
-      "title_ko": "[단독]KB금융 해외법인 보안 비상…KB증권 베트남서 21억 빠져나갔다",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=04103286645646704&mediaCodeNo=257",
-      "ts": 1794896217
-    },
-    {
-      "source": "매일경제",
-      "title_en": "삼성전자 매도한 주식고수, 삼전 우선주·가격 빠진 소부장 담았다 [주식 초고수는 지금]",
-      "title_ko": "삼성전자 매도한 주식고수, 삼전 우선주·가격 빠진 소부장 담았다 [주식 초고수는 지금]",
-      "url": "https://www.mk.co.kr/news/stock/12211230",
-      "ts": 1794896393
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Stock Market: Will S&P 500 Open Up or Down Today?",
-      "title_ko": "[증시 속보] 오늘 S&P 500 개장 방향에 이목 집중",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63330216/stock-market-will-sp-500-open-up-or-down-today-79",
-      "ts": 1794896521
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "출시 이틀 앞둔 ‘GTA6’, 사전예약 1500만장 육박…매출 2조원 달해",
-      "title_ko": "출시 이틀 앞둔 ‘GTA6’, 사전예약 1500만장 육박…매출 2조원 달해",
-      "url": "https://biz.chosun.com/it-science/ict/2026/11/17/Y2MS2PYBSVAT7KRSMUY6X7BCSI/",
-      "ts": 1794896524
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Japan investigates suspected data breach after unauthorised access to Fugaku supercomputer - KYODO",
-      "title_ko": "일본, '후가쿠' 슈퍼컴퓨터 무단 접속에 따른 해킹 및 정보 유출 정황 조사 - 교도통신",
-      "url": "https://t.me/firstsquaw/193424",
-      "ts": 1794896675
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "ASUS expands Nvidia Vera Rubin NVL72 shipments in Q4",
-      "title_ko": "ASUS, 4분기 엔비디아 루빈 NVL72 출하 확대",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc2VQaXNtSGRiU2tWRXpyVE5iRF82a1FETXA4SkIyNGhFcmx4ZVJraGhXbVhZUnJ0RDZqYUtMRlFtSE1jTXkwOW4yWXVnSEZ2V1NwQUhCbU5Gd0hQU3FNcm1WTDNadVljaVlMUW1pOTBkYTRPU0tBZXR2c2FncG1XUlN5MmhjN3U5X2NyX2ZkbzZRcEZGY3l1cUF1YUZuSmdI?oc=5",
-      "ts": 1794896699
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Deutsche Bank expects limited to no financial consequences from legacy cases, citing their historical nature",
@@ -11504,6 +11455,55 @@
       "title_ko": "기술이 계속 투쟁함에 따라 월스트리트는 적자로 끝났습니다",
       "url": "https://seekingalpha.com/news/4673887-wall-street-ends-in-the-red-as-tech-continues-its-struggle?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1794949621
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "US GOVERNMENT IS $640.7B BELOW $41.1T BORROWING LIMIT AS OF NOV 16 - TSY",
+      "title_ko": "11월 16일 현재 미국 정부의 차입 한도는 6,407억 달러 미만입니다. - TSY",
+      "url": "https://t.me/firstsquaw/193606",
+      "ts": 1794949709
+    },
+    {
+      "source": "매일경제",
+      "title_en": "울트라제닉스, 내년 매출 10억달러 근접 전망과 2027년 흑자 선언에 주목",
+      "title_ko": "울트라제닉스, 내년 매출 10억달러 근접 전망과 2027년 흑자 선언에 주목",
+      "url": "https://www.mk.co.kr/news/stock/12211879",
+      "ts": 1794949778
+    },
+    {
+      "source": "디지털데일리",
+      "title_en": "앤트로픽, IPO 공모가 희망범위 웃돌 듯…19일 나스닥 상장",
+      "title_ko": "앤트로픽, IPO 공모가 희망범위 웃돌 듯…19일 나스닥 상장",
+      "url": "https://m.ddaily.co.kr/page/view/2026111806045128433",
+      "ts": 1794949781
+    },
+    {
+      "source": "Barron's",
+      "title_en": "VAI | Valor Energy Inc. Stock Overview (U.S.: Nasdaq)",
+      "title_ko": "바이 | Valor Energy Inc. 주식 개요 (미국: Nasdaq)",
+      "url": "https://www.barrons.com/market-data/stocks/vai?mod=stockpicks_movers_gainers_symbol",
+      "ts": 1794949785
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Google: Google wallet is now available on iOS in US. $GOOGL $AAPL",
+      "title_ko": "구글 월렛, 미국 내 iOS 기기 지원 개시 $GOOGL $AAPL",
+      "url": "https://www.financialjuice.com/News/9856512/Google-Google-wallet-is-now-available-on-iOS-in-US-GOOGL-AAPL.aspx?xy=rss",
+      "ts": 1794949787
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "标普500指数的11个板块全线收跌，金融板块跌1.87%，电信板块跌1.3%，信息技术/科技板块跌0.77%，能源板块跌0.53%。",
+      "title_ko": "S&P 500 11개 전 섹터 하락 마감… 금융 1.87%·통신 1.3%·IT 0.77%·에너지 0.53% 하락",
+      "url": "https://wallstreetcn.com/livenews/3201517",
+      "ts": 1794949790
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Google: Tap-to-pay functionality isn't supported on iOS. $GOOGL $AAPL",
+      "title_ko": "Google: iOS에서는 탭하여 결제 기능이 지원되지 않습니다. $GOGL 애플",
+      "url": "https://www.financialjuice.com/News/9856513/Google-Tap-to-pay-functionality-isnt-supported-on-iOS-GOOGL-AAPL.aspx?xy=rss",
+      "ts": 1794949793
     }
   ]
 }
