@@ -1,16 +1,6 @@
 {
-  "updated_at": 1794950118,
+  "updated_at": 1794950272,
   "id_hashes": [
-    "a702a61e71748a057eccf5404b2cb28b9f2eea9cca4898b6395501348fded999",
-    "4c2701b2692350643bdcaafa2fcfbfa6a95b253107ae7442507dbb8aae49f82a",
-    "b43ca6337b653a3d2fe67fcf1c679e407e680db7e23f41bcfd80c00b90bb8148",
-    "34e15c64c363665953e1902c439c0aa33e95ac28ac09d861636e475e6698fbe2",
-    "1706377f1dbb64057fe112a5250ee42862133206fd2cf1d1b1daa952f407b882",
-    "95dba29f832b7829a60a8502dd9355b84710c6b0a9b8efbb108637e27fcb2949",
-    "2ec5ccc0270e208c6aaea85ad269a102e07a431554c75febf7f85a6f2622ba7e",
-    "2f75f1ceface86a7754b2575d269d5e2e16b4033b45eebe299b082e18a7be4f8",
-    "b37d06f4447830937c60cd9aa65261f7f229a2548d06db4e898be633f270875a",
-    "89586a207f22938de4711f60425ec007c6262a83ca96102c1ea1683313ede934",
     "49b504b9d3412f535ae051bdcb8477067f4784e906ee70e3361891ac5a45c32d",
     "48c4b0be6b9bbdecbfd45325db7d01858a1968610a98050331aa6550b155b67b",
     "360e1b819388ec840c8a10300f5c50977df88300b502fee4a1bfc097eaa24386",
@@ -4000,17 +3990,19 @@
     "98e53114ae606154972d4a91777b2111b469005a401ff2c39017077f9ed4d5a5",
     "3db9fd0a0af18d7a48d836f96541b662cfeec477c95f81e90e3cbd74a2200e61",
     "787c731c462a7830cb721d892cbfd310112aa76b723dc4ecf6484b94e6aabb3e",
-    "11375f143c9e61c2f808dde8c3a53f7beec97cd69ebd566b25ed86faa0ba4242"
+    "11375f143c9e61c2f808dde8c3a53f7beec97cd69ebd566b25ed86faa0ba4242",
+    "8a2d7fba1a147afb21770719595f64ca26e36b09c95ad989a7cade5eba5ed89b",
+    "d12714aa6b6e276e2243d03935acecc8f925784b4c287acc5afb66bf0b2e3944",
+    "1c10b507e574b702174b49d5e9166b9941af30a3e232d41e33fc413b1ddc65de",
+    "1fc533ca6a47952951127e0d8d016f0ff71672cf1a277ef7ef2c5aa7199ca267",
+    "75f42c8a91405090da451161924d510dc5e9a59bdcd65e31a74c3d79d9c623d0",
+    "430bba1c8733d7eaf677d981dd50dc1d1d1d48a27dc14536bfa86e7a023d2037",
+    "c420e6630119cb688e35657695866e8daa89fdd1ae3041487eee5445fb1a3347",
+    "ca84c9e29eebdae481c52c540e52473d6fedcbd8f00691ff30789e77dc698240",
+    "d5f4215150ad8050fd10bda34f320fe90dfc20175795cd10be1a482668febb20",
+    "91d2d552e3d2425cc69fe7e996014088956c7e6ffa1d605c5a751b0b0e54338f"
   ],
   "title_hashes": [
-    "16787916cf42e8b21695d8db0e32d4d2d15aa161f33112cf4057de76f15d4315",
-    "65df36c72af68423d52b4272a957a60d8192a16d4cb653beaa614cc65f48327f",
-    "363975e885057f564ba28b619dfa0573eef656fa5b6f800d410092d24e653c49",
-    "d10332e3a1ab389af4dfb4a918ac3c92d376e93d5c2489732c58ffff051402d6",
-    "37b90854c8c0a0b10c4fc4455780bac3bd7498f651826b1a4c7eda4e0be0a0fa",
-    "b714ab3492b55da53a0f5025294943a7efaddc42ab2720edf07b579f3da42260",
-    "74fd1efdd91e601a134c61fb43ad1f1eed1b4395f480ebcd837dc17499257221",
-    "f282285b1b88c1b2a416740a64d753ab447b01d8573e97225e2bc86adea22ceb",
     "20339739906e11bd005c1a9193343185552a5187f73782a36193833af53e71a1",
     "8b9ee8431a81c5c8b51ca40b00194b283b12139a2482d49df1561b5bf9661999",
     "f063bc7d9d98407553040de5a0ac9259575c9124c97e5fd51f6f504cbf061984",
@@ -8002,23 +7994,17 @@
     "4e2fd324c66ed4d4e6fb484762bd523c987b1cb07634b53d08a625d81f1c8f75",
     "0d2793cfc768d98ecc3bf12a1b1e867f467a427004f2c32050170a1dafb5fee0",
     "4a08daa5e35c0a43041670cc41c06827383e92dcb749366d700f3c6cca75739b",
-    "148f263005a8c58216c7d9da4ae403ecb9ae83bf96d8eb46d0c9f8d22596a1ab"
+    "148f263005a8c58216c7d9da4ae403ecb9ae83bf96d8eb46d0c9f8d22596a1ab",
+    "a22a3930e9d44566eabdc225ac7600fb5ca7aadce2ec6f704c0e9a965ee9b2a2",
+    "d2971ec38a0e4277b28abe7a0d3683a08ac37d4dc61376c89410ef469f2f68a5",
+    "1b2a9fb31a364f757af25310d698c0beba8e9e53045fdfd190cbb7ab7417bb52",
+    "c1966d0a682170a5a832f7c9f8610ddb76dbb32edefe0d669e0c9aeb392f0b5d",
+    "e9ed655e492298c6448c009dc08bb5a7552ba089078f0ecd774ff0a349fc01dd",
+    "d84a38e3208e49606df52356adce70dddc4c6681890181cf8f3f464310645d2a",
+    "35cee0c8b21c689f5f1d2a05ca7b3d05a80c9258318e7d3c994556d37c39ff7f",
+    "5a3372fbe222408016a3c372176dc26373108c9f95ca5a1f2a9692e041d8a5bf"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "American Resources partnership eyes rare earth refining plant in Malaysia",
-      "title_ko": "아메리칸 리소스 파트너십, 말레이시아 희토류 제련소 건립 추진",
-      "url": "https://seekingalpha.com/news/4673429-american-resources-partnership-eyes-rare-earth-refining-plant-in-malaysia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794897282
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "South Korea's benchmark Kospi slides 2.59% at the close to its lowest level since February 2",
-      "title_ko": "코스피, 2.59% 급락 마감… 2월 2일 이후 최저치 기록",
-      "url": "https://t.me/firstsquaw/193428",
-      "ts": 1794897301
-    },
     {
       "source": "Bloomberg",
       "title_en": "Zurich Says Revenue Gain on Beazley Deal to Reach $1.5 Billion",
@@ -11504,6 +11490,20 @@
       "title_ko": "Elbit은 수주잔고가 330억 달러에 도달함에 따라 2027년에도 10대 초반 매출 성장과 지속적인 마진 확대를 예상합니다",
       "url": "https://seekingalpha.com/news/4673910-elbit-projects-high-teens-revenue-growth-and-continued-margin-expansion-in-2027-as-backlog?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1794950117
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "[뉴욕증시-1보] 美 잇따른 전산장애에 S&P 500·나스닥 4일째↓",
+      "title_ko": "[뉴욕증시-1보] 美 잇따른 전산장애에 S&P 500·나스닥 4일째↓",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445231",
+      "ts": 1794950269
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "젠슨 황, 엔비디아 CEO 복귀 의사 공식화…\"이사회 요청하면 돌아갈 것\"",
+      "title_ko": "젠슨 황, 엔비디아 CEO 복귀 의사 공식화…\"이사회 요청하면 돌아갈 것\"",
+      "url": "https://biz.chosun.com/it-science/ict/2026/11/18/PQBUHTBS5NCQRFCZLUKL6TVYA4/",
+      "ts": 1794950271
     }
   ]
 }
