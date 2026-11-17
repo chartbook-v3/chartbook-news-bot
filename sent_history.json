@@ -1,20 +1,6 @@
 {
-  "updated_at": 1794943213,
+  "updated_at": 1794943366,
   "id_hashes": [
-    "011416e67096e149600deb0ed27d09f20e42c587952813852ce149695e2959d7",
-    "d71dd6fa568b92f13c8a53b060682f5630d756b400020ef64caf12cf82265099",
-    "0404b312f336b2f8b3eccabbbd9fa9678a852863af9fd8557d1268fb973b0029",
-    "aa673eaa1df2f3f945aa3adb0ae1705d587d94ce33849c454bee268487fe8363",
-    "483d58cdbef68d58cf5804107f5727a34f6fb5108001235d754cf6201df284ad",
-    "e44cc2f011a953654d11fef4d15e9c0a6200eba00f2d90bea6cf062397586b9a",
-    "4796ec4f359d2f592c8369fe5a09d849f178ee16bbdc81a78adcf5ad2b4397bd",
-    "533821f51d9306bcdcd08af11e8c9a35b949067e0c5d88fe0704254b3f1b05a6",
-    "647a4216c3ece440da76a4b5c8e1b4eb1a0581c43c909e420b1c74055e285f1c",
-    "ba5b7287212d535efc8b24888aa6af3da8390c47950d9022404558c8f2f1e600",
-    "bf32280994ad2195c6f792567292d5211bdf146b97e4c5032690404e7dd84942",
-    "cd4f1856be64c83b7ef101bb1d9d44f862bde0a89adcd31b7f064f72edae651d",
-    "730a57865934baa27e3e1b6f10e632bd1b01cc3eb66174cd2b16e5dde86cd9b9",
-    "45f5c7e9e1540dacd332f3c25dbc8750d1d55d598924a4ebbb530c497d6632ca",
     "f064adbc07ce09c831d846f86d20a9c6d866d6eace89797c21696ed38c423403",
     "137d1a4f02dfc189ba3dddd057344e95fb5898af75a3daad5e620235ff7b6a12",
     "2b61386d9f11e95c16ad99697aec77f037cd4d5f6ec3eb6da62b782eb2275123",
@@ -4000,21 +3986,23 @@
     "f8abc58bb84457a937eb4448c251d6047e12e7a62a97ce07223e91405f268d71",
     "63db8c2bfc67c5ddf2a130010eab3d70da84499edde6a501d5f4b780fbc2cfcf",
     "cb9b1b484f7880c57b4d5e5d636ac854a9257f98043f62a880aaf037463bc6d4",
-    "836b8cf703a2b2d8a929de7b79c7ed5769b009933b713cc54a1232493a8b1685"
+    "836b8cf703a2b2d8a929de7b79c7ed5769b009933b713cc54a1232493a8b1685",
+    "3e9c01c8e76f1eebddd591eadc146e31cdf890010b0aae9b3460797b22730973",
+    "a5ecd5c2c6727d21ba6729a258f90d78e7257af3f698b12fa5fddaa79b90f5c1",
+    "c2a64298ea0dbaaa05aee2ea8c964c179ddccbb7d76db6af0e8dc28cca7529cb",
+    "057575777a4f063825956d8312b27fa257c6fdfc0d2ffd4a28929ce4899dfb84",
+    "9cca1b8a9fbb268d3439437babf1939bc85736c97010966555da1ebb433a2598",
+    "98c10700fb8303cfae70c938604b31d1e63fb56a3c744fd9e08d95eec8a6db95",
+    "949425d2acdf9d7169e67e6e60b28b4681f2b52b25980bfd8200faed35517415",
+    "318e96c782892265be06c7fe96c4142bf3afe57f45c15e4a9a2de95bd30ba628",
+    "e8cf4889d991594143458e0a2af8557fc0a3d34ad4e0152c245b9f96ba2cc039",
+    "89114d678c23259cf9d0d0518b7e5f6558f9d292df4fa111c5f64ca2010af5d0",
+    "0773993e1ef873d198d390187a19ea0ea1aa02e8d290c129fa640f5e691e7fba",
+    "8979fd1750dd9b3e8417e7c766c15546a7530e946f2fe0b610bfd4a62fddcff5",
+    "eebd7eb827d5f456150b571b6505cd5b1299803f3c0520d1c3ee484fbf2ba94c",
+    "cd6706c7f3eadc01c07861032b2de6b8f2fb179107ef01e9690d480a8e41b60d"
   ],
   "title_hashes": [
-    "45a9966fd15e68fb8072513cda529e1cb0949d332d563223e219464ae2533364",
-    "2268468bcef1a825e2c5d8284e8191e7f2533381347e4a4d6bbcc63840ab8158",
-    "9e036c17706b514a50d0c35e547c33eb6d39471bb87dc6e8b5533bb5e272ff92",
-    "b72ef935bdf8067018a48d31f27e934cddf4a43c4af6ee9a906c11e285b42673",
-    "f661478ae8bdb62caf25373279fc6a408b5af260020a42406fc981fd694e8b0f",
-    "efc1b6eb6b84c6ff2dca81fc61c4ff477adf60a17a37b733dc620eb37cbc5f91",
-    "07c05d2c11700ea4471dbaf1bea61d0dcc72401d4ef5cda3d16c09c47137dd92",
-    "6f9ca488db34eb2960bb33e7594e1a4ab0d99b8f2fa0a9eb5e8d3c03a1526996",
-    "c07a18a58fd8154a206655de03e23de4f27bcdeba3e01b4114ecc9911a91d257",
-    "1e2bc67a3438e4fca2791314474b34f93af6ee0f2b430d6ccca0dd46b1a97fa5",
-    "d0b14b2baf0d591b30f47421126bccf4f88f76ff24ba373c3d35109bbf196f6f",
-    "5aa6f75096faf187b5a8d47ed7f175dec46d7f2d8a634bead21b35d7b77cd2da",
     "8eabf8fe0e61a92f8c0d850f336012bcfa4cb1ca0c8f8d2d7089ede0ed637e99",
     "8301a3c6c5d5d9cd3175dcaea3e57cc4f0db2ebf81d24997b8fab433c6825f14",
     "b2d315ad46b1d146c5e9a704e827227188b8375bcf487230317a3849cdc201be",
@@ -8002,37 +7990,21 @@
     "0317420711cca8aaae32e6b4b6a342dd6cf8ae0ffe70dee405dc4cd0e3abdbeb",
     "1aff6afac8089e448d6fffae2a700d2d06f96e5c33bc06a6ef0d6c0973ad9c93",
     "af431d31a1495c1e18e7c84fb55d4eaee4ce8cb9b3f777ca5f3c57e7fd89634c",
-    "e1a57890a1248bb2678fe7cde4bb53343720e10ba6d4b86ee7de90de50c29925"
+    "e1a57890a1248bb2678fe7cde4bb53343720e10ba6d4b86ee7de90de50c29925",
+    "e2e46930cd9cba315e2bd21b23e6d03b57133630f624dc38ad0026978f9b020c",
+    "f62d27142a9f7bdf1787c903739044de9fffa83ea3d5b9f347a1d90e85422c62",
+    "d8dacae5aa2549ba2a7fbe01acb5f795279f700e499b049f57d43a0ca08f3969",
+    "b2ee1c70095a0e0723ab8b9861eaa2cb49543cd32a74d1986fa649b025704c0d",
+    "9d959d63363d9d15bd6ab077766636753236803ed6012d17cd2a21411329f37d",
+    "7243a610848553bb2874ce4b800375bf72234f557e4f771680d5a5394d42b0f9",
+    "1161348f28ac5c38bfa3cc6a93260c0d75b03df2907b330e42199a906adb5365",
+    "e7b448663917445231a332a203f60974ab6bd40ced8998759dada8757b6cd710",
+    "e38187b4509b1c334320e59b3bdc5d024e813079425e3c36f05be9198caedb4e",
+    "302a99ea302f8f9da0a486d30bbfee45afceba1a4cbc00393fcff7946871ab4b",
+    "8637e960861e85301e32ec73edc49aa1088d4b6221e51eb317b4df53720961e3",
+    "64b824092f828ae449655f90e98a9bddd80c9ede49ae808f8e48fdd2f9b18b44"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "China, Canada Expand Tariff Relief in Deepening Trade Thaw",
-      "title_ko": "중국·캐나다, 무역 갈등 완화 속 관세 면제 확대",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/china-canada-expand-tariff-relief-in-deepening-trade-thaw",
-      "ts": 1794886998
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Explosions heard in Kyiv, Ukraine: source witnesses say",
-      "title_ko": "우크라이나 키이우서 폭발음 청취... 목격자 증언",
-      "url": "https://www.financialjuice.com/News/9855006/Explosions-heard-in-Kyiv-Ukraine-source-witnesses-say.aspx?xy=rss",
-      "ts": 1794887000
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "DUBAI AIRPORTS: INDIA TOPPED DXB'S COUNTRY MARKETS IN Q3 WITH 2.6 MLN GUESTS, AHEAD OF SAUDI ARABIA AND THE UK",
-      "title_ko": "두바이공항: 3분기 인도 260만 명 기록하며 국가별 시장 1위… 사우디·영국 앞서",
-      "url": "https://t.me/firstsquaw/193369",
-      "ts": 1794887208
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Subway in Kyiv, Ukraine damaged in overnight strike: city officials",
-      "title_ko": "밤새 공습으로 파손된 우크라이나 키예프 지하철: 시 관계자",
-      "url": "https://www.financialjuice.com/News/9855012/Subway-in-Kyiv-Ukraine-damaged-in-overnight-strike-city-officials.aspx?xy=rss",
-      "ts": 1794887446
-    },
     {
       "source": "FirstSquawk",
       "title_en": "GERMAN, CHINESE HEALTHCARE PROVIDERS LOOK TO DEEPEN COOPERATION AND PARTNERSHIPS - NA",
@@ -11504,6 +11476,34 @@
       "title_ko": "레드캣, 3분기 매출 42% 급감… 애널리스트들 목표주가 하향 조정",
       "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/63363638/red-cat-q3-revenue-contracts-42-in-q3-analysts-cut-price-targets",
       "ts": 1794943212
+    },
+    {
+      "source": "The Information",
+      "title_en": "Google Unveils More Agentic Tools Within Gemini",
+      "title_ko": "구글, 제미나이에 자율형 에이전트 도구 대거 추가",
+      "url": "https://www.theinformation.com/briefings/google-unveils-agentic-tools-within-gemini",
+      "ts": 1794943230
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "美国最大电网提议改革以加快数据中心接入",
+      "title_ko": "미국 최대 전력망, 데이터中心 접속 가속화 위한 개편안 제안",
+      "url": "https://wallstreetcn.com/livenews/3201481",
+      "ts": 1794943297
+    },
+    {
+      "source": "Reuters",
+      "title_en": "EXCLUSIVE: UBS set to accept defeat over Swiss capital curbs, sources say",
+      "title_ko": "UBS, 스위스 자본 규제 강화 수용 방침... 백기 투항 관측",
+      "url": "https://www.reuters.com/business/finance/ubs-set-accept-defeat-over-swiss-capital-curbs-sources-say-2026-11-17/",
+      "ts": 1794943363
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "BILL Holdings Hits 52-Week High As TPG Eyes Buyout",
+      "title_ko": "TPG, 인수 추진 소식에 빌 홀딩스 52주 신고가 경신",
+      "url": "https://www.benzinga.com/m-a/26/11/63363303/bill-holdings-hits-52-week-high-as-tpg-eyes-buyout",
+      "ts": 1794943365
     }
   ]
 }
