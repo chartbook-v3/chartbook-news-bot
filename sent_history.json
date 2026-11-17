@@ -1,28 +1,6 @@
 {
-  "updated_at": 1794884717,
+  "updated_at": 1794884865,
   "id_hashes": [
-    "b3222051fe8681e42694d2df3b409d7a15168f6bb6ca24c93c4c8ae41666ef81",
-    "2521c7c4198de7a2466fe93ec6a474a6643c8f5eda647944911145b7986d7c7e",
-    "e2994151e7812b45ccd749051662a573d24a9401771601e3227a102c6e507a97",
-    "028a20108cc099ebd678c30a1211a1cf1068148815da933f025305f7b28b822c",
-    "a3e33598f71eb0410a5cd142dc934e84faaeb7680e206be24fc082f7ee06d84a",
-    "7e38c93667dee513f3fb06f501b9a0ca024a367c6268ddec7daa59c691e1c99a",
-    "7035f4b05663f782115d1d8b9bdef266bde5b764c93caa69b0afb12fedf3bce5",
-    "d542890b08f003394372be01151278392a5a41a45be822cd8d575a35e148f89a",
-    "03191c5c13c3a11bdc010264178375ac7bcacb66aded208dc79abe8676e2e3e9",
-    "af8b006c19c58d06da3bb26d3fdfd2e560a9872e6eb96b469f252000f93fb6ea",
-    "6d89b2a2577a7c754d85ff1a387888490f90bddc5683f4df3b26992ebba4b78c",
-    "d79615a4ef1b4fe3cbb22d4863e11b2d984305af8c7205f11c6130726cf48ea3",
-    "8f48970e31bf2b15ff6017da3c5ef05b17e7edf9c9e5edf67b883ae0be399209",
-    "520a50d913952d13fb77b1c1f8cf32166fa2cc20a637af11fa529936ec237826",
-    "822091de59a1029157c514dfb0510c679732a9855424f80e0d4f7d59c3e712a3",
-    "5305f6bcaf592fdb1518525902520bb75e3ab59eec8aed67adf123c6732448e4",
-    "3852e5d7187b811bb9ba2366d8d71592d461103bc8054e036f595563efbbffd7",
-    "96a7f25299af45b4bbc987f556c54167389f493b4e51b1aca441aecdd1746be8",
-    "3bc69b5f981d84d5b8755600bafe0ba1c8d2a0ec1b6872e0744cb61cab467cd0",
-    "6f91dec94fecacbda8d84a45c93daa4ea63156c02dd323ab70a977885fc352b4",
-    "135a8c7cb3adbb74c700f7ebc3c21a2b92084981a91c9fc9e4bc26431204a994",
-    "1dd10809b50e44f09ed0698a8a29370e1f9ad5c8ee2359b3d811ccee54effca1",
     "f556e119183c1b66bb629d878c53be0961824162043693c1551f56e49ad35ebe",
     "7a1e5ea401c4fe005f67e05545328e7b9f6f71e65f80378a1453cd1ff9b1d38d",
     "73d22d0362b15e67ccd0f29adc4baad6c70827b314d24b5ca6315b488e00ff34",
@@ -4000,29 +3978,31 @@
     "5e9a1e0de352ed968869b9fb29686c55766a46b2429bc6fd36a72d9f9146de7b",
     "b2053988ce7dad534a43de12575c5ae36df07c709a43a743750ef431e18a989e",
     "eccb1b0982208da27d1ec67f49a61edd45e3b9244ce4708077e4d5eb387bb922",
-    "74b618d4fb68b5d19b0511454f4a63a38e2cb411991f09a187c1abace1153e81"
+    "74b618d4fb68b5d19b0511454f4a63a38e2cb411991f09a187c1abace1153e81",
+    "954ca8454d3dacb5ab3585efb94b4f9145cccb268a5fbd5e2e4e9806893992b1",
+    "7f54b6da14e652e91901c4bfcfdb7afadaae7098869910317559e72030b7f508",
+    "e9082c4a2981e5bd1b09031c1d4c4b80f5456db9f0f713937a5832bc71dd475b",
+    "da3fd0f7469447e66ca441551aecdd04a00d6caf210e1aa2f137cfe1aca79e02",
+    "2029bf90753048060c82427cb25fda4beb17ba894e2b897b33ff21cb3631154e",
+    "e38765e0d888922d4b2ab299c09b31d122b9daafca7be0b79e6437be688de834",
+    "ca04b6af092014695498e6c92c16f5ce2b41eebd906f47aaff01a15265d10650",
+    "b634a4ed2240f4c997b440b6ab52caf51c032a75779d4367e50cbb4df04c7d22",
+    "85d2d37cdeb4e60fc791c6b4739a8c989bd67145380bc26e41e9cddb51ebc0ba",
+    "ed448c798b32101df900315fe342828710e53a9e4a65862046f736e206d44ed7",
+    "fd126b16d091e802c62e682f42d76973e8aec233b289ed83a6c7b2f48deb8b82",
+    "8e2ea77e1111a234bc55c4a35c1fe721bdde1cbd9e74d207659728e12fb8c7f9",
+    "6605fec4b2b7cb035053f9d7458c58ca732a6704e913701e12f58347e592cc99",
+    "1a49f2ad29870b6cc0f16f7f829678f90d90c45144cd83b973d553870cdfa1f2",
+    "f2ca6f4432f42c0c958e5ea33caa3e7624cf7a53e50442ae21b3487d9bbbe79c",
+    "d7f9df31c01d931a6ee170cbd39f2129c7a37e49adcee9ce2c55b7f9fe8e8137",
+    "8a98e0acbb53f92359b3b83c4263e6b4f705c5a9bf15e42ea8368e53e78c3857",
+    "501fc5e65a64260bb2ece53819c89edd6e91120b454fbee65faee2829dd891f3",
+    "a8b9c3c1019e72864f44969fc8c661a0576001c67fd04008b91f56a950248912",
+    "7366d1adf9c3051e5054304f6d3586e4968700f0acc239e481f779fdda48d3a2",
+    "aaf98b5c61e5beaef37e71869a0cc7eeaa448d7614147a42d2b1963577bdca6b",
+    "a29dd1b34a9717607ebf89b7296c5c59e21ca5d89203f6ebe6960ea555a94b2f"
   ],
   "title_hashes": [
-    "0dedd4d8abacfd9fcb5402ee43c98c6b0d76bf7bcd4f65609c95702ac2721738",
-    "2457f2511711fd8454b61bf89e43194e854e868be7e5ccef371ffab43ccaeba1",
-    "1891551f2e339fceeeda4fe81233bc8bda95834ad62453a33d66147c2a804ab2",
-    "fbd6041b8051025961c717fb09be2a9b8c2b0c4e478c0b4fb1357e9ffd9dc6c7",
-    "75286ac2517f92cc06b6ee1e5b919cab2279af366c695efecda1103d07d0d661",
-    "f4935fa5f4334ac32b6c99ae6da6a9e7e7d4b8dddcc3e17064f369c72508863e",
-    "21430571f0dc09b8f0f7d464227f1f3ccb64e16007742a58ec3af09acb7461be",
-    "3ff87c8c34bb87d8ac65085f671869d24adacefa9227ac070255efd46796561b",
-    "d8b2d406d526be0d0a73ccdd41ece11ce24a4c0430541a19b11064f95aff7f43",
-    "3222cd18f839b04895d174131b83f32e251057e4afb69dc972cf847a9a504b93",
-    "9672f3e6b76beaa2f94cde25d0b87c25aa85710d8ad55ed4f66a8515473cf8ce",
-    "5edcb680b663ba55b002623be5019f881b08232326d12712a2fb5dfbb2e85859",
-    "56a8aaab5347fe203a59fff1637a7374cfc8190f21752aefc119ec1467fdd7e5",
-    "5b3e6b1a30e91ad87d259c2b40b6ab94eb61f962e92660452fec7832c5813bef",
-    "0827d4ff4e6baf861efc94843a2db09f3e500f14809afedb310000adb46d3c29",
-    "e1a4f2edd3dec5ffe515900beb8954e8c64ff311ec9af2393f863088962ce77d",
-    "26b4319cd5ae4bca2e520bb89c842054686e61a5347487c36c33fad301bf0bb0",
-    "0db4633ce715dcd64d4919907bfa6c9effd7d802939c9c498441ed3440c94c07",
-    "b9cbf985db39c07bc4b11f951d4322411f51b5b57a636b958894a52fe4b48961",
-    "ef7c1f1245428221df2b13bdb37b7e4f23ff2751ae947d697d31725d888f7066",
     "a876bd1847889c887fd248b65c7d605cdde63b5fe018be7d6cb0390f44b8f342",
     "d68b36dca82318c245815fcf4d28e3f81d831a5b966f9ba3abf48f206256ffe1",
     "cb99a2168a425f428c1d042b0a6ccfc2b994aac926a2f75ed28b2505e534163b",
@@ -8002,72 +7982,29 @@
     "fade00ea7ddb92150d1ab8177958780390d1316e930000a5c75b04042f43c000",
     "51d45ac9bb6146f8beb6634424eeea08963e38abc5c64efced9a5ff54bf18a0a",
     "c343fbd5c4e628dd85f39c2aa58dd877b35ed0f4c6d024de908a282f3c97e822",
-    "d7f25c102cc3cfd3e53ec78806810409715551e5efae0043cbaf482ffeda78d6"
+    "d7f25c102cc3cfd3e53ec78806810409715551e5efae0043cbaf482ffeda78d6",
+    "2cb3f72e6892574497d40f75bc61c090cb465edc040234405a2f8b4ddd5772c7",
+    "c5a9c2e0774bf1f3f1dd56420ee89f4b7660db333b76c8f9dc5c0b556c5ca84d",
+    "c74ca1b409028f3dae5e5d562ec072235caedb7d6524758a03ce0688c302ecfe",
+    "91517ca864f52dfd52ae2b296a4625392c70e4ddf96703fc69b4775b2137caef",
+    "32fb736baf505ab6c59b13774ec8b8987fcdfb74bdc327ec1a497074e4b3c0bf",
+    "433a78b183ac4ee9dffb72f5aacb2edec8531456c9a2fdf7c2da6c64db9702a4",
+    "497df50f29265ba2790c6ba33c2e93684df1d11e9d1ad693643be0d2f2757299",
+    "d061243102a8b9be05ef86c4480a47c165af493f69b8958667d2bfd62202600f",
+    "ff900b3311e0f3c14f1a7b25efaa00776ab988d663028dabe44a93c47d2b9021",
+    "d4b6317122a98d1212ac917d187234615674c3e0abdfc551b22f4c3e01990c7e",
+    "55e91f92910cd0d20051b70b55a0feddc6c06db536c4a8862d7227794b1f2226",
+    "950c37be5daa0080b871938cecb5cd48c9ae881c5a2befcf87b93359b56a67c3",
+    "db8327fa1f81caa91b0bc4e0b62c01113a7a19f939aef47c063c53a3aebc07f0",
+    "bd7f3202996ac1e765f610b1240d774a4c4831cb3765880ce92e3f3ecc90bb47",
+    "3d83098bb88dbe793bd6c7f32218f3dd60a3267711cadd90e2a978327a997068",
+    "eed9babb45d5cba330dbc36b357d2a07ab06411ede97cfe8d3ba4de6289b395e",
+    "86d72f6838f6229b3fa21b2baa464bb684aaec927a2e08288c3b13495b411c9e",
+    "7d7fb8c94c40f977e7e3805daf0ba0304b52b2ffd97dfebe55e9fa383c059b63",
+    "27968a01f9f3819a681d56f4b03b2720ad04ab239c341c5f4436e2337b853ebd",
+    "86b896bd7847ec48f5360cce2d124f6334698c31d6d27c510d8b7b398db1b8d6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "https://t.co/wjEqC2acRe",
-      "title_ko": "https://t.co/wjEqC2acRe",
-      "url": "https://t.co/wjEqC2acRe",
-      "ts": 1794828271
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Nvidia shares slip as succession talk builds",
-      "title_ko": "Nvidia shares slip as succession talk builds",
-      "url": "https://seekingalpha.com/news/4672903-nvidia-shares-slip-as-succession-talk-builds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794828318
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Creative Media & Community Trust FFO of -$1.30 misses by $0.28, revenue of $27.4M beats by $6.2M",
-      "title_ko": "Creative Media & Community Trust FFO of -$1.30 misses by $0.28, revenue of $27.4M beats by $6.2M",
-      "url": "https://seekingalpha.com/news/4672906-creative-media-community-trust-ffo-of-130-misses-by-028-revenue-of-274m-beats-by-62m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794828320
-    },
-    {
-      "source": "MarketWatch",
-      "title_en": "Nvidia can avoid fate of other stocks that were once the biggest, says JPMorgan",
-      "title_ko": "엔비디아는 한때 가장 큰 주식이었던 다른 주식의 운명을 피할 수 있다고 JPMorgan은 말합니다",
-      "url": "https://www.marketwatch.com/bulletins/redirect/go?g=70f8da3a-cf10-45a3-9b1a-10cda20ef41e&mod=mw_rss_bulletins",
-      "ts": 1794828556
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "$SPCX: CITIGROUP RAISES TARGET PRICE TO $280 FROM $240",
-      "title_ko": "$SPCX: CITIGROUP, 목표 가격을 240달러에서 280달러로 인상",
-      "url": "https://t.me/WalterBloomberg/38414",
-      "ts": 1794828559
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "EU's move comes as it imposes sanctions on 30 individuals and 2 entities in Russia",
-      "title_ko": "EU의 이번 조치는 러시아 내 개인 30명과 기업 2곳에 제재를 가하는 가운데 나온 것이다",
-      "url": "https://www.financialjuice.com/News/9853690/EUs-move-comes-as-it-imposes-sanctions-on-30-individuals-and-2-entities-in-Russia.aspx?xy=rss",
-      "ts": 1794828562
-    },
-    {
-      "source": "서울경제",
-      "title_en": "[단독] 예보 이사 취임 후에도 상대방 소송 대리…이용철 법무 후보 ‘이해 충돌 논란",
-      "title_ko": "[단독] 예보 이사 취임 후에도 상대방 소송 대리…이용철 법무 후보 ‘이해 충돌 논란",
-      "url": "https://www.sedaily.com/article/20115129",
-      "ts": 1794828632
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Russia's Lavrov holds a phone call with an Iranian counterpart - Tass",
-      "title_ko": "러시아 라브로프, 이란 측과 전화통화 - 타스",
-      "url": "https://www.financialjuice.com/News/9853692/Russias-Lavrov-holds-a-phone-call-with-an-Iranian-counterpart---Tass.aspx?xy=rss",
-      "ts": 1794828635
-    },
-    {
-      "source": "이데일리",
-      "title_en": "[美특징주]TSMC, 젠슨황 퇴근 여파에 개장전 4% 또 하락…수주잔고 우려↑",
-      "title_ko": "[美특징주]TSMC, 젠슨황 퇴근 여파에 개장전 4% 또 하락…수주잔고 우려↑",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=03749046645646376&mediaCodeNo=257",
-      "ts": 1794828808
-    },
     {
       "source": "Barron's",
       "title_en": "Nvidia’s Scandal Gives China Hawks Ammunition—and Puts the Trade Truce in Peril",
@@ -11504,6 +11441,69 @@
       "title_ko": "미국, 대중국 차단하며 글로벌 AI 동맹 추진 속도",
       "url": "https://www.digitimes.com/news/a20261117VL209/donald-trump-xi-jinping-apec-shenzhen-commercial.html?chid=10",
       "ts": 1794884716
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "SK Hynix readies back-end equipment orders to add HBM4 capacity at Cheongju P&T6",
+      "title_ko": "SK하이닉스, 청주 P&T6 HBM4 라인 증설용 후공정 장비 발주 임박",
+      "url": "https://www.digitimes.com/news/a20261117VL200/sk-hynix-equipment-hbm4-capacity-hbm.html",
+      "ts": 1794884738
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Analysis: A perfect tech match on paper? The disconnect holding back UK–Taiwan cooperation",
+      "title_ko": "분석: 완벽한 기술 궁합?… 영국·대만 협력 가로막는 괴리",
+      "url": "https://www.digitimes.com/news/a20261116VL219.html",
+      "ts": 1794884740
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Bharat Semi raises US$24 million to develop AI-enabled image sensors",
+      "title_ko": "바랏 세미, AI 기반 이미지 센서 개발 위해 2400만 달러 조달",
+      "url": "https://www.digitimes.com/news/a20261117PR200/startup-funding-surveillance-edge-design.html",
+      "ts": 1794884745
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Nvidia Vera Rubin rollout remains on track for 1Q27, ODMs say",
+      "title_ko": "Nvidia Vera Rubin 출시는 1Q27에도 계속 진행되고 있다고 ODM은 말합니다",
+      "url": "https://www.digitimes.com/news/a20261117PD219/quanta-inventec-ai-server-asic-nvidia-rubin-2027.html",
+      "ts": 1794884754
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "TSMC 3nm enters HBM as NVHBM reshapes base-die competition",
+      "title_ko": "TSMC, 3나노 HBM 생산 돌입… NVHBM이 베이스 다이 경쟁 재편",
+      "url": "https://www.digitimes.com/news/a20261117PD221/tsmc-3nm-hbm-competition-nvidia.html",
+      "ts": 1794884757
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "TCL CSOT tackles OLED's last major efficiency hurdle with blue phosphorescent displays",
+      "title_ko": "TCL CSOT, 청색 인광 디스플레이로 OLED 마지막 효율성 난제 해결",
+      "url": "https://www.digitimes.com/news/a20261117VL205/tcl-csot-oled-panel-display-efficiency.html",
+      "ts": 1794884760
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Pegatron sees ASIC demand visibility extending to 2028",
+      "title_ko": "페가트론, ASIC 수요 가시성 2028년까지 연장 전망",
+      "url": "https://www.digitimes.com/news/a20261117PD214/pegatron-demand-asic-2028-2027.html",
+      "ts": 1794884764
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Claude’s Office usage trails Copilot by a wide margin, Microsoft data reportedly shows",
+      "title_ko": "마이크로소프트 내부 데이터, 클로드 오피스 사용량 코파일럿에 큰 격차로 뒤처져 있어",
+      "url": "https://www.digitimes.com/news/a20261117VL206/microsoft-copilot-claude-anthropic-data.html",
+      "ts": 1794884767
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Baidu third-quarter revenue slips 1% as AI cloud nearly doubles and search ads shrink",
+      "title_ko": "바이두, 3분기 매출 1% 감소…AI 클라우드 급성장 속 검색 광고 부진",
+      "url": "https://www.digitimes.com/news/a20261117VL203/baidu-revenue-advertising-cloud-2026.html",
+      "ts": 1794884770
     }
   ]
 }
