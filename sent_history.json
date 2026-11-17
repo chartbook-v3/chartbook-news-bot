@@ -1,13 +1,6 @@
 {
-  "updated_at": 1794945302,
+  "updated_at": 1794945451,
   "id_hashes": [
-    "f5e4beefa2dabc3b1b34b4ef6d0b9148743f3d66a5eeaa4b2ff8dde278bdcf30",
-    "8c65d801e8f22794db52ec150e0a179024618d4be5406e8ac63c3485896ff031",
-    "b4a1c0b6830057a61313df1add2f8b9dd38046716e227d78f30310709f8a9f4c",
-    "69ea66a7551185abc0afa39d821e8b2999fc60910e05a76f0ecf9c20073964b6",
-    "f472fbe82c228c50d2d92e121ed980e65b7522b322419ebae166ae904c30e291",
-    "3937cc198ab17adc6a5e788f8a7823681eb3c7a09895419ed6bc270a53cbc5da",
-    "09d2a80dc264fb0bda94bcc7b04cf707da1944d50df26a02c280553d854fa542",
     "3b0dd921a947340e99b8c235054566c92c5ca010431691a38167ca38af52775e",
     "3705f22a71253107c3438e318b8dad1ab52690df89f8fd1861f8ba6edb8f4e0b",
     "7f0db50240b8d3bffc821033722fe63c1595b1f855adefba231b100a1fdcee98",
@@ -4000,16 +3993,16 @@
     "3fb2b0fe56088563853372213dc8fd52032a54038eeb109213dcb336c68d4ca0",
     "734d74977d24fed29bf3bd00a1cfdaa0c0fb4bc7cba8aeec05c5d3aaab54e171",
     "5ee7ece48e84689198b5d804165256922728a45228ae8a60eda74ce40f04dd1e",
-    "00f9c112a0d1c573bf6fa75d800ee96f8023462dbd2c4d4ddcfdc29c70d09e23"
+    "00f9c112a0d1c573bf6fa75d800ee96f8023462dbd2c4d4ddcfdc29c70d09e23",
+    "d415ac9bd4c4ade83b2f091b730e442e28739410c8d95763fb49c622fb279dbc",
+    "cd7d916d261954baceab1c9d60f578c7bfc73ce8e20654206ffaf053bad8c807",
+    "9f69d3d50d5112f39f586624dc2cf1a122397668a9053ad627b9626d1a27446a",
+    "78a0d4b4c97318a06427c7bdd0b1dec2f0e00f7268f00260f7c88aa5c206816f",
+    "be0d6c0adc9a0010b52f33077fc88939ea7f68db9627ba7e88f85b313ef8ab08",
+    "b9f11e404392f0e1c4d54d9428b17f2723fcf71fdc3c563ce444bbb7a96957d1",
+    "01f95522d3b0c6783c0172575d11f440d2faf6de7f2779a749c6acc9f4b55faa"
   ],
   "title_hashes": [
-    "b0c2c0fe71b68a3d5cb113cb429f91ad7c96d57d570ca70dde4acdf8b164a6cd",
-    "e362d000bce747b596e4ecbbbcb582bd9ad71e54a5bb33bc8b353b5a8ce6255f",
-    "52d7f6a7074167af8588db0e07be95e7d4f1ae2517f2f505c749d0d675feeeea",
-    "b2b22ef9f93d638054ffd7a4cc7297cd903e35304252a1676589434132ec4a7a",
-    "d3c6f85d83b1270cc6b895b03d870f5a6a4fce81dc4ebdb9343a21bf9157786f",
-    "d2b0d0ae924affc97da641f4ff97ef54af45e49a621a841c3032eda7aff7a711",
-    "9fbb97dace16e6a480fa06bcd37b34c5bdef69e58c49bb95473bcbc2b34014a5",
     "c10ceef6337bfc18941076415a9f42d7d2aa7eee92712f3ce208dae8d523d5ad",
     "1232b2e0fb2e1eb671e1eba28045b505f43c66fa6b994f00c630b4d070a56f66",
     "61be56d3619974b21cec4464e8c34b614d975cd15ca04b7dd5195e539a3a1319",
@@ -8002,16 +7995,16 @@
     "0515e7882f719678f2e8cb3ccac703e6bf801da64d459e01d07befda5337c8c7",
     "e734a3a5d52e3e836473215db623bcfed30a61fc6cb183a3c795ef5d20099e88",
     "bbb717e4089bd7c8b270fefdf0d427c19c5604db794c5a1eecee4303c04d3195",
-    "eb503eb62b6b177f3c12057661c59f35a644923d15dcbc113b0e3dc88c70c9d7"
+    "eb503eb62b6b177f3c12057661c59f35a644923d15dcbc113b0e3dc88c70c9d7",
+    "858120486bb9ff378e736b4ff226364b6241ed945215c5a8a3aa443f3fceb641",
+    "af7390cae4e3bb3c4f874b440a795a28ddf9169385fac22de2b0609fbfb43b68",
+    "08e588453418e15696b0530142532fe8b2f72e649670f6f78a2886a69993927e",
+    "7b9608e94b397670ba1759ed41890e650e161f8175edb5e0fc2423c581902920",
+    "fddbe13408d4283f781e75151d10550e5b31a33ff2890073ecf65cbb28e1e1f3",
+    "8185736e78946c18119d855971d889d81ab0cfa7a403693251c89faf5e726557",
+    "c1eabb19187be2e48e7eefa9d70a426977d840c132322f71c5f1722964546cdc"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "Europe and Japan deepen semiconductor ties as imec expands in Hokkaido and JASMINE mobilizes",
-      "title_ko": "IMEC가 홋카이도에서 확장되고 JASMINE이 동원되면서 유럽과 일본은 반도체 관계를 심화시킵니다",
-      "url": "https://www.digitimes.com/news/a20261117VL212/europe-japan-semiconductors-equipment-materials-industrial-imec.html",
-      "ts": 1794890452
-    },
     {
       "source": "DigiTimes",
       "title_en": "Daxin aims for semiconductor materials to exceed half of revenue by 2030",
@@ -11504,6 +11497,13 @@
       "title_ko": "마이크로소프트, 섹터 약세 및 시스템 장애 여파로 하락",
       "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63364174/microsoft-stock-falls-amid-sector-weakness-and-outages",
       "ts": 1794945301
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Oracle Stock Drops Amid AI, Cybersecurity and Outage Concerns",
+      "title_ko": "AI, 사이버 보안 및 가동 중단 우려로 오라클 주식 하락",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63365796/oracle-stock-drops-amid-ai-cybersecurity-and-outage-concerns",
+      "ts": 1794945394
     }
   ]
 }
