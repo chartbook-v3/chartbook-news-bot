@@ -1,11 +1,6 @@
 {
-  "updated_at": 1794892508,
+  "updated_at": 1794892657,
   "id_hashes": [
-    "baeb80bc112c42c0e63e0dee3921c0bddf8ebd69076c027f8066dc8f8d882809",
-    "d8b571a477c14cd19d54be4d49dbc9566f3fabed7125fdd761dc21dfd1fd09f6",
-    "b28206ba1d83015573767433188f74bcaa55e10039774e22152773c3b4ae96ff",
-    "7cbac5a9677fdd6a7aaf10a877a474fa0aace79d5ba1229c44ffa0e56920a8d0",
-    "bd4b2abade45b6f66014dfd44f19e4fe05fb6eb8f235134604f59bc05ce8ebc4",
     "d1d665ad5aedba0db15c070fe1e6c6621f722378053d03c8a013a09b93e39a10",
     "a6c074b64fbabfffb4c79c26abdb006ce8d1d5d7797f3cfb05c7606a7a5b581c",
     "eeb6c08423b761c6fb840e02ccfe0338d587d219a94aba81f69381ead157a0dc",
@@ -4000,13 +3995,14 @@
     "8ac80b596742972d24060f44852a12e27851d3f3442e2f9339b8429a78076457",
     "4a9f9e139ccb1fcd86403151fc86f57fb66eef335aa7b833ea90c500379566cb",
     "7e89a86cb57122c1ba4bc3897468a160d3f8dd5611f208fd3feaa4fe696e3dd4",
-    "4193d5a714681ced6113738926657579903f76cc1de1c8d0c0f8636ece84ff32"
+    "4193d5a714681ced6113738926657579903f76cc1de1c8d0c0f8636ece84ff32",
+    "a222e0cd6dcabfefbda4a588b7a9bced99a04b395471a11e3b5f7d95fd085b91",
+    "2e301b0c9ff1972a21d11e6dec5426cc2600e72ba13ce9c316d29656408934fd",
+    "66428b8ec6b256292cc7db969925faa4bf5c7d2aa0e344f75eb607f783242ce8",
+    "59ef5519cba91107a5ef571f8ccf0a6c655b0d5c23510c1cd2c0dd479e7bd9ad",
+    "6b4e5a72c2db3e421c60aa3e23786fa4588335fbf9b5ab754f7eca5605924d28"
   ],
   "title_hashes": [
-    "16f8e88651cb241f8967258668589be33d20ba24921b396d623e6f73fe0755d8",
-    "5a7214dee8c4067bad13b29084f7b9fda8ebb17427c256997ed771a810adc488",
-    "5b22fa623c76933cf0d2d558896278cf63452b4054806e3b570069fbd7113faa",
-    "c1a92ae6cc567547e649c25df8c0fe14d8fddf5bdfb5cca7d309c1f0332ea8bf",
     "105a59fac3eff9821579ce1d6ebd7c3459cac4a19ee5a7606ec2f62270697775",
     "893701f0c7afe9e637a9d54f43ee3c306b916c22dc5e9283791303d8cd83cb8b",
     "7ae5eed0b4b3f01298ffda71a65bd23e5199cf977104336116ac62294eb619d5",
@@ -8002,16 +7998,13 @@
     "993ed215f299c6593cbdcd3ddff19544d3ce92cebc2b1de217d97e59a037ea9d",
     "89a3fef805119db709a90c08f29dfcf9afa60665cf2f4ea2aa38f922ec0d60b1",
     "52488ff66e49c5f71e363232a9742dccf3463d3ecc7a164927bc2d7107c7515f",
-    "c1d39d4e9bfa240e2e0ed7907153a446334bec29ed13b301abd06abea7e00501"
+    "c1d39d4e9bfa240e2e0ed7907153a446334bec29ed13b301abd06abea7e00501",
+    "fde0ea2d3c0733503b69d7664160fbc92ae41c05de146e595adaa1e150e5e777",
+    "315067c5ab5cc7707bd74576352a51c6e2b91956667eed70c8f1006aeb0cec74",
+    "807dfd3d00899fd85198313cdf2e2e66a7b1237115f74cb548e8518e83d731c2",
+    "21d51a2f3d5548b2cf82254fd6d0afa1a98e3aa7dba6afead7c56a05cd463763"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "JUST IN: NVIDIA $NVDA CRASHES ANOTHER 4% FOLLOWING REPORTS THAT JENSEN HUANG WILL NOT BE REINSTATED AS CEO.",
-      "title_ko": "JUST IN: NVIDIA Nvidia는 JENSEN HUANG이 CEO로 복직되지 않을 것이라는 보고에 따라 또 다른 4%의 충돌을 일으켰습니다",
-      "url": "https://t.me/marketfeed/1078893",
-      "ts": 1794853027
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "俄方：三方会谈将继续举行，尚未协商欧洲参与问题",
@@ -11504,6 +11497,13 @@
       "title_ko": "FT \"EU, 보조금 규정 위반 혐의로 중국 기업 제재 검토\"",
       "url": "https://t.me/marketfeed/1079289",
       "ts": 1794892444
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "IMF预测韩国2026年GDP增长率为3.9%，2027年为3.3%。",
+      "title_ko": "IMF, 한국 2026년 GDP 성장률 3.9%·2027년 3.3% 전망",
+      "url": "https://wallstreetcn.com/livenews/3201030",
+      "ts": 1794892656
     }
   ]
 }
