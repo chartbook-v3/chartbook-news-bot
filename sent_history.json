@@ -1,24 +1,6 @@
 {
-  "updated_at": 1794885170,
+  "updated_at": 1794885337,
   "id_hashes": [
-    "2ad82183ee3eb2fce4fb91e14d155a6d99abde166061a5e884de9d9c0f503ec5",
-    "89b49062cb6e5ba2a5fbecacb4081168c22d8363da74e58810d5893b45b0edc5",
-    "5adfebb1a2aa995637f3f904066fe5f6476e6b86d66dd985149dc5c9bed0382e",
-    "68d63ad2f18b9185c2f38e27ebe1f6f993e82459f5ef435c9f77c7e78fbd356e",
-    "b0eed258ce6c14db2118b8c74daf26e4650d590b833d4161600e5961d116feb8",
-    "e365c92ae9b545b361e5ea0a7ae50c42ca0e8369f12143b37af2aeae109e9fa3",
-    "f7abf0372d35e390d62d6449839163ca54d47211906aa49ce22f14479b0042a7",
-    "0e08733638f157d5a374512cc736a7942594034f4a2d14fb74d539affa2448a7",
-    "796b1908cb5bf6f4c26189f52c6b7572f0949e2d95e3c7a9edc1dd4402011751",
-    "bfd594e4a9ca471f0e1008807c858f1ada4fb999c6910791ea46028cf5b763f5",
-    "1178bb4765c3d109ba48c86c6b834018851df296ac3e555f7368f53e323a6dc0",
-    "b1411747284eb4ce2d7b1d238386108bc08494ed566c1828223dc56cd4f1c6fe",
-    "f6ecc1f8978cf7917fac60b11c26dc85c28cc7e58deacd39a9935411f1ec5170",
-    "335ddceec7eb6a2fc248d906676b36e33016832a54aa2fe17a89b9e2593a6fd2",
-    "0849c5cda37a1f9dec0e7b789b0240c5641e04e6374c2befe258c57ed609f887",
-    "39448286ae722047e34c81d4cbc0d28c05b8e1ccd3d3a4d4bcc2dadd7c7fe8b7",
-    "63df60da7d14200cf88443239d8bb15ac5c6cd61619060de164439bc20116130",
-    "aa1d55063f6fd3d8b295b79b8311e35ce3544625d279596e15d2335f81b71837",
     "1b964438aa37500ff54f37508cd39141d4058f64608bd78d568d35a2bd4a8eb7",
     "a77052dfcf2460b673f0ddaa15cf15f4f0e4c4371f7056d1d707e48819e26d5e",
     "2476d9e3e8e7b7a812ac6d5763ad96a95a389467b2c5bc0ff4b1a4057e6b9644",
@@ -4000,21 +3982,27 @@
     "8d68cdad551217e76dd788500c18bfaceae1cfebe8e60b16d7f4b6c897de5d29",
     "ab8c784e30b25dfd3e025a0b5ed561806f9158f668f04f41033e5bfcadbb4a0b",
     "f69263fcd9441e7d56ed669e3ecba0a44e0e49e95a4c884c0353a4d219025571",
-    "a62c5f798c98af96afeac8a62dc514dfeb5bc04afeaa9600a19e8bdca53a5625"
+    "a62c5f798c98af96afeac8a62dc514dfeb5bc04afeaa9600a19e8bdca53a5625",
+    "7b88b06c00c21cac5d67dfabded4c74f7e6447956583bdac033cf7d943d0d5df",
+    "d5fae4601259bf25d8dbc9ea448cab797ae3e861332a5d5d6c7f8a945377c37f",
+    "1e368534db22a2097867be730f79f69e11fe0644a0798290aebdd9df176050d9",
+    "7dea35a0866e16f173d24a991bd350cbb9632bf12b30a15f4c752dbe0ec29da8",
+    "9e93ee4fb0b0b9a4ccf3d7d57a275f77df9291ccc30161944b4b6a5441904a26",
+    "81014839cd379ffd361ecce4f31aa479380ae58d5f326eb54c64b74a9acb53d0",
+    "24f33e97cc7800f308e8bd119bc33a6b23bf8aec612f7c374177b2b5afb9ad7e",
+    "fc4146a6dc3ec80405bd6b63668497aa3ac55ef154c0e071f4b09931e4f475fd",
+    "4ee2986bb01641ec4753d2c577c5ab9d53c0f7ff1af6fabe86e7011158f6b9f8",
+    "d1e47d84bac866117ff1889f15d89a9f315965a93866c5fecdced760d4c9009e",
+    "fc124a36b48238c6fbd8068bb30702b6a4fd55400c2dd2be03e3f5141ebbaf23",
+    "c0b15bb27baa99858adfa8dd349b884cb2800bb7e8baf527f7eaafc0b15af360",
+    "4725d0acdc4e65bbdf5736b9d2f30883faeb1263d0416e3216fd1f2e6d76d7e6",
+    "63235f6d3b6ebd72ed825fb92be2f6542a1c4f40234d5260e892330b82197304",
+    "57e798119965991af622c2807624d83b82944d5b5093709eaea9f66b1f866eeb",
+    "282fd0bad0e34f336c819816492b23642f76570318caec1d4e33d97ba1c4652c",
+    "13ea33e90e535af7baf6cc159f0c1caed1edc50ef88243ef31cb827689c7bf02",
+    "7c86e143bfa09eaba665ae595f532929a6c65e7c4cb7bcd020f7563dcd668624"
   ],
   "title_hashes": [
-    "86a528cbc9642bd5f8c517d57c32676f74242df98c1a908e3f948accb9f3a365",
-    "0c2e1a73d7b549d3e3e7bafea1bd6a2bf5a21c9bddf5801cd47703f3b9795ebd",
-    "7146f6250c03c33235cc226f2e7a337a3978daeb3247a910213b3d311726d5ed",
-    "3b27c4fdba21d29ab960ecfb9bb3e9905227049d7975eca190bda984c8fa50fc",
-    "6b51253af9a7d71840a2b112a417374174a0826bd908b13fb4969391500d5038",
-    "f6b00b6f3c5b7bee8063ef4a26325e1b755aeb64991fc7e78fee46454b9f5d34",
-    "0c7045e97921dd4c97fdf044d22b0f4b16ee6f0fe0ea707bdd271e007c7272df",
-    "5da7a035e2de437cf2875e60cb093359a6fa74a39ad4db9ca7ff26ef1c4a4c67",
-    "2830ba96a0a057438c59b912dcc8c457c1dbba7bf39a731e3de760154868ab5a",
-    "ae19e79d543bbfa197a7da2ba149120ffe4d6f836b46bc9bce5ac03d4fe66c9d",
-    "fe234809275624cfe6102a61b148774e92380f1e55dceacd136718c8e92c3000",
-    "1456b83dd5e9bc6635bf62a42d724b76c43a181a64b5971c60e33ef035e85304",
     "ec5faea3e60390d867687e33845cbcd283d438215c0149cfcd82534d6a082366",
     "164ca0c4442644872e8d5b14b685e354ba9919b04b39639051bbb780ae570405",
     "b373ba8c0f78988cd14b8fe2177a78b96c983125cb960d3ebb9020f8c3f5100c",
@@ -8002,37 +7990,21 @@
     "932fcb2ea261184bfad5b6ba9428c6ed95bfba4a887eb48d68e7a597c1e5b824",
     "788b384cbfca29c0ca35d5eaebabbce25c3d7d57350ed552b0c559fb25edba93",
     "2f0a17b48ec39ee51ce1887a95c65ee2fc7e2be67f39b5df753cf8132791e8a1",
-    "2c4239e7f434cd9753163500af313992b6011f8ef38df02c0ab66b83e7fa37ea"
+    "2c4239e7f434cd9753163500af313992b6011f8ef38df02c0ab66b83e7fa37ea",
+    "2979e0172ccba9982209ef55ce87e5e079edad8199e94ff26e9b0f220e4ade2c",
+    "c078b5e2c84331f53e5d04104bfa9dbe1e96714202a1f32a8bf4408896fd1d3a",
+    "b28e91019e963b07d24bafbfc04ac522d75d6a0a6f04ca8f6f8b52f96f190bfc",
+    "f809cf2391d09b6c1883bd3e966eae382036f5c047516a8028e99a273deae748",
+    "f7a4db81f05dde6f4e8457f59e696d84877189dc0d18b89a3aac1986e99155c4",
+    "5d9cb8345f06f00605edb64e91f8969e53dd72903c693a76267db68c3c8be15e",
+    "fb8c7e1c3e99987b10f30c43542717f4167c1b699c27b635d523799a331ab242",
+    "365dfccc3b21669a57b07463bc997b5ed8fea2339117b00f75d1f7ddc738a91c",
+    "cd61acf284590af423bd552c51d42a375d8e3c98db63df8ac5b8853c6b19b0bd",
+    "307b8556dbf2fe65e33e3cdaa43b04d96634c7b6537dcbc33efc2560d2013cde",
+    "bda0cb1ef0156bc79a88c98827d7057ecd067704f59448a5f250d5bff288c799",
+    "3515f0244ef58cfe9b7a594b5f02d3be6962e6f522969f5eefb03059e7320eee"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "RUSSIA, IRAN FOREIGN MINISTERS HOLD PHONE CALL - TASS",
-      "title_ko": "러시아, 이란 외무장관들과 전화 통화 보류 - TASS",
-      "url": "https://t.me/firstsquaw/193179",
-      "ts": 1794828817
-    },
-    {
-      "source": "매일경제",
-      "title_en": "나인 에너지 서비스, 아메리칸 시멘팅 인수..합병 매출 35%↑",
-      "title_ko": "나인 에너지 서비스, 아메리칸 시멘팅 인수..합병 매출 35%↑",
-      "url": "https://www.mk.co.kr/news/stock/12210328",
-      "ts": 1794829254
-    },
-    {
-      "source": "매일경제",
-      "title_en": "아라마크, 4분기 매출 53억 달러 5% 증가..자사주 10억 달러",
-      "title_ko": "아라마크, 4분기 매출 53억 달러 5% 증가..자사주 10억 달러",
-      "url": "https://www.mk.co.kr/news/stock/12210331",
-      "ts": 1794829256
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Top S&P 500 Stock Names Implied Volatility",
-      "title_ko": "S&P 500 상위 주식의 내재 변동성",
-      "url": "https://www.financialjuice.com/News/9853706/%09Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
-      "ts": 1794829325
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Fed Interest Rate Probabilities",
@@ -11504,6 +11476,34 @@
       "title_ko": "과학기술혁신50 지수는 3% 이상 상승했고, ChiNext 지수는 거의 1% 상승했으며, Shenzhen Component Index는 0.6% 상승했고, Shanghai Stock Exchange 지수는 적자 전환에 가까워졌습니다. 반도체 칩, 가전제품, 소형 가전제품 등이 상승세를 주도했으며, 상하이, 선전, 베이징에서는 3,300개 이상의 주식이 상승",
       "url": "https://wallstreetcn.com/livenews/3200991",
       "ts": 1794885053
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "\"CEO 불륜 퇴진 1년후 주가 상승 사례 많아\"…젠슨황 엔비디아는",
+      "title_ko": "\"CEO 불륜 퇴진 1년후 주가 상승 사례 많아\"…젠슨황 엔비디아는",
+      "url": "https://www.yna.co.kr/view/AKR20261117087200009",
+      "ts": 1794885322
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "半导体板块集体拉升，伟测科技20cm涨停，华虹宏力、清溢光电涨超10%，燕东微、灿芯股份、长川科技跟涨。",
+      "title_ko": "반도체주 일제 급등… 웨이처 20% 상한가·화훙반도체 등 10%대 급등",
+      "url": "https://wallstreetcn.com/livenews/3200996",
+      "ts": 1794885324
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "CHINA'S XI SAYS COOPERATION WITH CANADA ACROSS VARIOUS SECTORS HAS FULLY RESTARTED SINCE JANUARY'S AGREEMENT",
+      "title_ko": "중국 시진핑, 1월 합의 이후 다양한 분야에서 캐나다와의 협력이 완전히 재개됐다고 밝혀",
+      "url": "https://t.me/firstsquaw/193353",
+      "ts": 1794885333
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "CHINA'S XI SAYS STRONGER BILATERAL TIES WITH CANADA WOULD BRING BENEFITS BEYOND THE TWO COUNTRIES TO THE ASIA-PACIFIC REGION AND GLOBALLY",
+      "title_ko": "시진핑 \"캐나다와의 강력한 양국 관계, 아태지역 및 글로벌 이익에 기여\"",
+      "url": "https://t.me/firstsquaw/193354",
+      "ts": 1794885336
     }
   ]
 }
