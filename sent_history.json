@@ -1,17 +1,6 @@
 {
-  "updated_at": 1794890141,
+  "updated_at": 1794890297,
   "id_hashes": [
-    "8a4bcd9c821cecd2cea9c216394c88e7e2833f935b53ba7b205c006b43daa464",
-    "b686c54d26e296840b1313686b2466e465af10ac3c9c42dc92a574e0125f026c",
-    "5060b3f753390f64b38473764159d34cb971b1830da2ca7b64c46b6b6c7e8936",
-    "6f8d86bcb5ddb9940551be4594c5eaa7595b8777cb02b96193273463440bf677",
-    "36590a41375ddc2e7598f60929ab47458e6dda1eee3b949164e09b2db34cd0d2",
-    "5a459c88ce3cd3d3b7297e820fce97a0a9efea69e0690464b42bb7f23cdbd2df",
-    "eb22f09dde8eedf680eb6c47ef4e308622a9af4bff448d6cc6223e53f6e1e72d",
-    "d63c9557d24fb51ac01acd3c7868b361f8349aaa5ce691e08f9e46df1867f2b9",
-    "68af818f092a4e213a17f4dffd2ffe248d116b5fe2f4ef6e04d53f2891ee229b",
-    "c446c9eb28dd8405eafe91143a5117f1cb44f0e4765d82351325a740434accbb",
-    "8772b8fc396c42dc41d9c1f2ba01fb10b24d773f380a88bbd724f9dd5dc6abd5",
     "35063f7f5e08fb455efdc086a8f2642037be82c09001428acfb6a00cad3b6037",
     "7a9ee323179905d1a31369dd182ed028328527ec7848a1c8846def031eca68e8",
     "58098cd5630f96a28ee1436d2fb53637651d1797acef475fb00e1d47a0002f25",
@@ -4000,18 +3989,20 @@
     "fd41edb98f734b9ddde020710c2593367a548d72584141fd5f21e8ad483932d1",
     "3a09c357a7eab8e45316dbf466302f16ee98b35b2e7550ed52170fb72ddc58f3",
     "b68c9559d342c4478aee4a4827e735dd54a4612aa2695e972aa2ec55d5db554a",
-    "a680afe778de7b8946328df8932f9c5bb37203b1467379ae3fa0854288012250"
+    "a680afe778de7b8946328df8932f9c5bb37203b1467379ae3fa0854288012250",
+    "1d9411dfbabf0bf79c067f62788d2c0a39bca33a38c30139250af2eb56af9d1a",
+    "72b8a062e5d0e2358abf9311ef9c9a39bf477f3e08b0a9ab9faf67a293242d34",
+    "dbd80f052d6bcb1e327246660a1669043d50f6c8643f1bb9025bb5b3b2cf7b1f",
+    "d52850203e8e6d780a3a03133b6f003fe2a9dc57ab7d5ed1d3ce521a830e268f",
+    "b999387603c089708dab8dffd78698f0bcff0fc05fac8463945b8afefafde1d6",
+    "c40a2e792451bc91a1be131583b6178fbd85be41f48a269a613058b5044fda6c",
+    "95f6261679e0e27da8c041e6330fcd1be4540887a2e164b5c8f1ff581ce864e1",
+    "af2b977eb32c6e4441984bda318b33538be9558854865522e124a50b1a50f8ec",
+    "231f793c65d3c1d798586799c67b4e0aa109da7721e113765f5dd9f45d10ab92",
+    "3b57dc100b5c2378eb72463da37355ef7f0ea2844b30853e680dcac20deeb67e",
+    "980e259d46aafb2e3c83974fd66bd52d6ffd0ee4939e3fdfbca705608b1419d4"
   ],
   "title_hashes": [
-    "a31ded2f7feec69830e5c82f0eea998f7dbb269c2dfb7b3cc34652c053f7d09c",
-    "cc22acacb64833bac4d3a37ee073d23534bd500161e7b4abd0af010daeefdfef",
-    "b2d8300ac253ce8ca07882597965b46fa5aee4ab8ea7ff8fb087ad115a421684",
-    "c908e2c99142ee3bcffa7f58380c28d8e5856bfb217f67a3e5bc266587e81bc6",
-    "06ca1359532e73f5ad3e3a39e60abaca94dd33d7727fe1c5fa7361c4da1228e7",
-    "0e6c429f485e0b21dab09f199a2fef6f53bbc1a5783ce09bcf5dc55131038723",
-    "976237972d58c69839ddbee4e271b398be922f12ad3b444a2597224559533865",
-    "25ac8fae5f5ea6224abaf4289480cf1c03c3519c69aa1dda1da6be64c9b79011",
-    "0afc54191f51c96be682f8283f5de992479aec733a9552de82934157ba6956b4",
     "cff08c14f3af14596025a739b600dc88106dd2bfd36e32b2b3d5bad2faa0e542",
     "2b4ba7b24766834576e221721da9b3d4f5ee5c2cc402dc47eb23fc64e065fdfb",
     "d06e86498ea39048f4b849b0e40dafae72ef43fe62e0160dcf1419587e99df19",
@@ -8002,37 +7993,18 @@
     "aaba14a94e411022fc0239a049b6c9f04e1aa17fdbdb1411d7912283610f2818",
     "c316c3532269491771a713aea1868d94d74f350079e842520ea8830308b9f580",
     "964f1deb99331b6dd8af5e9ee118fbbbdb6523a565d9a16f1e3a15441f6409f5",
-    "b257670194c5715af1364825940f98d0b20168201812d15c80681ad456b7ca9c"
+    "b257670194c5715af1364825940f98d0b20168201812d15c80681ad456b7ca9c",
+    "1e20f7528e95db1df5e1cc2c22e93d5427efbc29185896fb42c759439e1e1ca9",
+    "3fd88552223833f9c2d4346778353128871aee88a9b2af9b274e8cb5932929f2",
+    "211a710b90e1a50b00bcd269d08e51bc82dbc356d5d83c1b1acfce427bd6d732",
+    "3b1bc24f2a7c5708fb0d29e3adc9f6de8e0f0cb107f8f94e5821693ab25758e5",
+    "445e092777f9b687574db555923f3840e1086565e9d6ac6445c3517bc388e7e4",
+    "a064618b091edef1656e4cc62ffd431c7555a8512b4e48273db9abe86d130c9b",
+    "a70e27cf5e47a3d3255188412f51c3d46d05a9fdf4e77fa729303d555ceb8949",
+    "d574d0be32c33d82515626159de15b4ddbf091f7bb2f6f7a42c4d461136a3238",
+    "72bc8af723ac937a42efe10c639caa341c53b7332b7802c695b30e3926536d07"
   ],
   "recent_sent_articles": [
-    {
-      "source": "매일경제",
-      "title_en": "메이서리치, 오크리지몰 2억5000만 달러 인수..FFO 개선",
-      "title_ko": "메이서리치, 오크리지몰 2억5000만 달러 인수..FFO 개선",
-      "url": "https://stock.mk.co.kr/news/view/1199849",
-      "ts": 1794832901
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Tyson Foods forecasts steeper-than-expected annual revenue decline",
-      "title_ko": "Tyson Foods, 예상보다 가파른 연간 매출 감소 전망",
-      "url": "https://www.reuters.com/business/retail-consumer/tyson-foods-forecasts-steeper-than-expected-annual-revenue-decline-2026-11-16/",
-      "ts": 1794832904
-    },
-    {
-      "source": "Tom's Hardware",
-      "title_en": "Jensen Huang could be plotting return as Nvidia CEO, report claims — allies have formed a ‘war room’ to drive reinstatement days after resignation scandal",
-      "title_ko": "Jensen Huang은 Nvidia CEO로 복귀할 계획을 세울 수 있다고 주장합니다. 동맹국은 사임 스캔들 이후 복직을 추진하기 위해 '전시실'을 구성",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-could-be-plotting-return-as-nvidia-ceo-report-claims-allies-have-formed-a-war-room-to-drive-reinstatement-days-after-resignation-scandal",
-      "ts": 1794832936
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Tyson Foods beats Q3 street estimates",
-      "title_ko": "Tyson Foods, 3분기 거리 추정치를 웃돌다",
-      "url": "https://seekingalpha.com/news/4672939-tyson-foods-beats-q3-street-estimates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794833014
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "何小鹏：计划明年向全球合作伙伴输出Robotaxi整体解决方案",
@@ -11504,6 +11476,34 @@
       "title_ko": "샘 알트만, 젠슨 황의 엔비디아 복귀 여부에 대해선 \"할 말 없다\"",
       "url": "https://www.benzinga.com/markets/tech/26/11/63329871/sam-altman-jensen-huang-nvidia-return",
       "ts": 1794890140
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Third U.S. carrier arrives, stoking concerns about renewed conflicts with Iran",
+      "title_ko": "미 항공모함 3번째 전개… 이란과의 긴장 고조 우려 확산",
+      "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+      "ts": 1794890163
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Macron announces a new defence agreement focused on Airbus helicopter procurement.",
+      "title_ko": "마크롱, 에어버스 헬기 도입 중심의 신방위 협정 체결 발표",
+      "url": "https://t.me/firstsquaw/193392",
+      "ts": 1794890165
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "“젠슨 황 딸 매디슨, 엔비디아 ‘비선 실세’ 군림… 아버지 등에 업고 임원진 호통\"",
+      "title_ko": "“젠슨 황 딸 매디슨, 엔비디아 ‘비선 실세’ 군림… 아버지 등에 업고 임원진 호통\"",
+      "url": "https://biz.chosun.com/international/international_general/2026/11/17/3XZJC3VDHFC5ZHCG2BMECPQ24I/",
+      "ts": 1794890292
+    },
+    {
+      "source": "Nikkei Asia",
+      "title_en": "US chip curbs, Nvidia uncertainty weigh on Asian data center stocks",
+      "title_ko": "미국 반도체 규제 및 엔비디아 불확실성에 아시아 데이터센터 관련주 약세",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWWREYkVza1NmRjdZMXc5WDc0OHI3RDdHbkllQ0JGMlFMNmlIaXktZWJjazR1UzQ0d21CY2NzVkRyRTI2N2p1SkYzWjJROThsZ0xpcWx2c3BCYlBaVklxa2NKc01sQy1IUkVSS2FId1BQb3Z1d3R1amVwanhaa2xsMVZlaDM0czA2R2E5azNkNjlZdVdONkl0X2dZVmFvMENmS0M4M3ZRUlZaS3M?oc=5",
+      "ts": 1794890296
     }
   ]
 }
