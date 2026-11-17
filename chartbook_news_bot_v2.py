@@ -1117,6 +1117,54 @@ def _refine_korean_finance_terms(cleaned_src: str, translated: str) -> str:
     return re.sub(r"\s{2,}", " ", out).strip()
 
 
+
+def _translate_with_gemini(text: str) -> str | None:
+    """Gemini Flash API를 활용하여 외신 속보를 한국 증권사 텔레그램 속보 톤으로 초고속 번역 및 윤문합니다."""
+    api_key = os.getenv("GEMINI_API_KEY", "").strip()
+    if not api_key:
+        return None
+
+    models = ["gemini-2.5-flash", "gemini-1.5-flash"]
+    prompt = (
+        "당신은 증권사 및 경제 언론사 외신 속보 데스크입니다. "
+        "다음 외신/글로벌 속보 헤드라인을 한국 텔레그램 증권 속보 채널 스타일에 맞춰 "
+        "정확하고 자연스러운 한국어 한 줄 헤드라인으로 번역 및 윤문하세요.\n"
+        "지침:\n"
+        "1. 부가 설명, 접두어, 따옴표 없이 오직 번역된 한 줄 헤드라인 텍스트만 출력하세요.\n"
+        "2. '말했습니다', '보도했습니다' 등 번역투 종결어 대신 '~전망', '~급등', '~상회', '~착수', '~밝혀' 등 간결한 경제 속보 문체를 사용하세요.\n"
+        "3. 기업명, 티커, 인물명, 금융 전문 용어를 국내 시장 관례에 맞게 정확히 표기하세요.\n\n"
+        f"헤드라인: {text}"
+    )
+    payload = {
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {
+            "temperature": 0.2,
+            "maxOutputTokens": 100,
+        },
+    }
+
+    for model in models:
+        try:
+            url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={api_key}"
+            req_gem = urllib.request.Request(url, data=json.dumps(payload).encode('utf-8'), headers={'Content-Type': 'application/json'}, method='POST')
+            with urllib.request.urlopen(req_gem, timeout=6) as resp_gem:
+                if resp_gem.status == 200:
+                    data = json.loads(resp_gem.read())
+                    candidates = data.get("candidates", [])
+                    if candidates:
+                        parts = candidates[0].get("content", {}).get("parts", [])
+                        if parts:
+                            translated = parts[0].get("text", "").strip()
+                            translated = re.sub(r"^["']|["']$", "", translated).strip()
+                            translated = translated.split("\n")[0].strip()
+                            if translated:
+                                return translated
+        except Exception as e:
+            logger.debug(f"Gemini {model} 요청 예외: {e}")
+
+    return None
+
+
 def translate_to_korean(text: str) -> str:
     cleaned = clean_raw_headline(text)
     if not cleaned:
@@ -1125,6 +1173,12 @@ def translate_to_korean(text: str) -> str:
     if len(re.findall(r"[\uac00-\ud7a3]", cleaned)) >= 3:
         return cleaned.replace("~", "-").strip()
 
+    # [1단계] Gemini Flash 초고속 금융 특화 번역 (API 키 설정 시 최우선 적용)
+    gemini_res = _translate_with_gemini(cleaned)
+    if gemini_res:
+        return _refine_korean_finance_terms(cleaned, gemini_res)
+
+    # [2단계] 기존 간이 번역 (Gemini API 키 미설정 또는 오류 시 안전한 폴백)
     pre_cleaned = re.sub(r"^\*\s*", "", cleaned).strip()
     pre_cleaned = re.sub(r"\bCEO Huang\b", "CEO Jensen Huang", pre_cleaned)
     pre_cleaned = re.sub(r"\bXI-TRUMP\b", "Xi Jinping-Trump", pre_cleaned, flags=re.IGNORECASE)
