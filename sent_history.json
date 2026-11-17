@@ -1,21 +1,6 @@
 {
-  "updated_at": 1794949958,
+  "updated_at": 1794950118,
   "id_hashes": [
-    "87f4cba62d94c927f5f54512a38a960fb6fb69ed5bbfdb100ef9e8d3974489aa",
-    "d5a171da1aecda46a324c0a798a977b3deb3156c766f9322cc931c6a07525f68",
-    "7bb1e07ce94e6c9bcd34dde33f703ed3e689b4c53a813a0bebe4f1c2ca0e6661",
-    "028e06af1a65b3abc5c3308f686fa02d838afb496ab438ae859ffaee2083692e",
-    "6164f995c5e9423bc60adbe3bf72b9c5989a861c41992f6459769e8dd8fb51b5",
-    "1bdabeffa2d447bc9686347989d5f12289a4df22ed1153f6cc59215b1799d912",
-    "f1cc2073b0699bbb6f6463042b961f89ab822568ce4a87716e4f4f30ccb40e17",
-    "8e634238622c214150737e1e995e248a23a32c53e139f66e9c20054f3b8166a8",
-    "39e7f0910d5afa74ba9bd119a0219f93ae367d61b9b6072ed4b4c0a8ca683799",
-    "6db8b9e955b9d8aabb698cda80b96616b72ab56dc93f5db0dcb74cc72ebc1056",
-    "7c2c97d3ac0378ba18269d931a45b4d7099c4ff8060e104a2c2cfe9e116ad0be",
-    "9974d60c1a79b15991389903611b0a529762aaebc88a4f09d23e2db7854d70ad",
-    "e299d28c8a509524ab9b4ae3860e3663d1e95fb369e3061bf85e7e192929268f",
-    "42bc972d9522d76d3631dfddd02f83e4773da8709a5c05e9761a6d4b1338c69a",
-    "fababd01cd25dbb3452baff5d0ab58c72411fda47c44fee1c4b1ee28b572e6fd",
     "a702a61e71748a057eccf5404b2cb28b9f2eea9cca4898b6395501348fded999",
     "4c2701b2692350643bdcaafa2fcfbfa6a95b253107ae7442507dbb8aae49f82a",
     "b43ca6337b653a3d2fe67fcf1c679e407e680db7e23f41bcfd80c00b90bb8148",
@@ -4000,20 +3985,24 @@
     "6717df609a508ef878132d1697281e6fd8671411f8662062084fbaef98b9ffd5",
     "649f4d822b3061d9fdac0d9f97c0e2cf0fb389bead9f0d56c0801a351927e731",
     "98a2cd0f81d70f3af179ef32196fb1da4c8800d9c4af68ecf3f07bb2e64d4482",
-    "b5cc459aab761b79e0951f9f92b359816a263783195eb08772cf420c4cbb4d20"
+    "b5cc459aab761b79e0951f9f92b359816a263783195eb08772cf420c4cbb4d20",
+    "9e5a17ca024868692219ee771f946e6adb9079139dd4bdc2606e8a9ef83a36cd",
+    "9b37f5b434ee57853b181369a9dc29ee2e7f0640ed9dd578d31ade630a96dcca",
+    "e3d79b73593aeee55d46ed8dbfd4e73913c0e81d891190f5dcb4891d30e2f78e",
+    "10832084b02fc26781b7b272616b8bcf40d253d0e0900f7c54cbfe54026a77bd",
+    "fda0232ffe1530d6d796b9677593fa4752a01f44636753114c7bdefe568e9912",
+    "c111c7603c5706d45da078f95cae7b96e58d0b8cb12888cfeb9f8e7969bdcacd",
+    "09bb904c397d360be4f2d630c6c5ccc6fd49442b00f832357f34f5ba28d53e0b",
+    "a6a0195e213ce730b2cc5201a580d114ef5136fac6dab51b52a1af6ce7b815bf",
+    "f1bf760d3735c1efa31a6d7a2cfe8ce50e2a2ec5eaf96f288f8248d69f61fab6",
+    "c4783ba3925c42e4f99f7048843bbf28fce9610cc2dfc4c8bc6ab069c57b5c26",
+    "aa5cc16f0bc09e68c9e251b41380c9d58c835e577fea424b4640f2cd9fc6392a",
+    "98e53114ae606154972d4a91777b2111b469005a401ff2c39017077f9ed4d5a5",
+    "3db9fd0a0af18d7a48d836f96541b662cfeec477c95f81e90e3cbd74a2200e61",
+    "787c731c462a7830cb721d892cbfd310112aa76b723dc4ecf6484b94e6aabb3e",
+    "11375f143c9e61c2f808dde8c3a53f7beec97cd69ebd566b25ed86faa0ba4242"
   ],
   "title_hashes": [
-    "a2a6abd4bd5e784fa4a5a0e022edb4fd149bbf6b1b627515e57192f6acddc08a",
-    "42527aec9b1e63c03ab8ce47414f8ad28942c7830f4202fde6b5e8f1a0d9cc52",
-    "f6ac77dc9172217a84f688163da0f942999a9ed79ab49c99968ccedc5d3f698e",
-    "93e2781274fc281aa34c7e77ac63cc3037b11907fbdcddba45400fed6a2e0497",
-    "55593d01523ba5746e4f3e9aeb7fcb423702abf69254edf53ea4b96d6f3decd8",
-    "93c3186321991cfd5b58478fa53676d1af4bc7c88b0c6331dbe05f36a8a1991d",
-    "dd06f5dec9f52409ac2d0eddb07e0506062da1f544bcebe4cf5101a712105b9c",
-    "5e4eb2993a27b3f32c3057309d0d9776275938a047e4b88ab1f7189b93615a78",
-    "a917767bf5c447f8dc4efa121ec31d3d20c4d8914fdbf2ae42fb1a68bd4cec84",
-    "e7b421f38f3f8bae1819a0f1f5cad2f30ca672de3d5d5a98f78286ae0d804d19",
-    "59ed501cd609a81feb42555d9c19f261ad25e7484816d67fd91f95c33e5cff87",
     "16787916cf42e8b21695d8db0e32d4d2d15aa161f33112cf4057de76f15d4315",
     "65df36c72af68423d52b4272a957a60d8192a16d4cb653beaa614cc65f48327f",
     "363975e885057f564ba28b619dfa0573eef656fa5b6f800d410092d24e653c49",
@@ -8002,30 +7991,20 @@
     "b6f0c8b01d3e169e1d5815cd6e5b995640f6a8e2aab530a98139700647ee6149",
     "dfb6f36dafacf64920108a2d049d3e45f1466a401322b89ed04891434cb42311",
     "5f4635c5efd608e0297aa0d9dbb20d6dfbf185a4d568f75236c98763285176a2",
-    "febf8c27a6187b754283bd516f46521f8700edbdcc7e5c6fb052f400ac03f917"
+    "febf8c27a6187b754283bd516f46521f8700edbdcc7e5c6fb052f400ac03f917",
+    "43aa5304f6bba7e72055f86cb98ae839b8bf9ca16bcdc3fa4cbf394f5bd13440",
+    "00aee24071ae96479e0776d5c2a4e9df9db26dc63bbe5aed67217f06b4c7fa1b",
+    "51851ae2c87b47e023aa43e545399b87a54f8aa53c593f3614659181f1b1de68",
+    "c629fd049fba6685c713271e3146bdab3a314ab6ee0bba13c67056819c194933",
+    "c194cffdc2137c5499a7c83c7424dbcfef713de6fa5d6d1ceb45f621d1518b5c",
+    "848e33368b7b0468464b07722e7c3953c5b897f312f3be7851122f64c4c92294",
+    "7efef44e4affb6b882f977186acd6b03df862e443856153cb1a737c7bc1707d8",
+    "4e2fd324c66ed4d4e6fb484762bd523c987b1cb07634b53d08a625d81f1c8f75",
+    "0d2793cfc768d98ecc3bf12a1b1e867f467a427004f2c32050170a1dafb5fee0",
+    "4a08daa5e35c0a43041670cc41c06827383e92dcb749366d700f3c6cca75739b",
+    "148f263005a8c58216c7d9da4ae403ecb9ae83bf96d8eb46d0c9f8d22596a1ab"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "US National Debt Interest Has Quadrupled as Share of Outlays - iShares 20+ Year Treasury Bond ETF (NASDAQ",
-      "title_ko": "미 국채 이자 비용, 지출 비중 기준 4배 급증 - iShares 20+년 국채 ETF (NASDAQ)",
-      "url": "https://www.benzinga.com/markets/economic-data/26/11/63330321/us-national-debt-interest-share-of-government-outlays-quadruples-record-october",
-      "ts": 1794897066
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Trump Set for China Summit With Xi and Putin",
-      "title_ko": "트럼프, 시진핑·푸틴과 중국 정상회담 추진",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-17/trump-set-for-china-summit-with-xi-and-putin-video",
-      "ts": 1794897068
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Bank Leumi le-Israel B.M. GAAP EPS of NIS 2.03, revenue of NIS 4.27B",
-      "title_ko": "이스라엘 레우미 은행, GAAP 기준 주당순이익(EPS) 2.03셰켈·매출 42억 7000만 셰켈 기록",
-      "url": "https://seekingalpha.com/news/4673447-bank-leumi-le-israel-bm-gaap-eps-of-nis-203-revenue-of-nis-427b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794897280
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "American Resources partnership eyes rare earth refining plant in Malaysia",
@@ -11504,6 +11483,27 @@
       "title_ko": "조 위원장, 푸틴 회담 – KCNA",
       "url": "https://t.me/firstsquaw/193608",
       "ts": 1794949957
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Salesforce leads enterprise software stocks lower ahead of Anthropic's IPO",
+      "title_ko": "Salesforce, Anthropic의 IPO를 앞두고 엔터프라이즈 소프트웨어 주가 하락 주도",
+      "url": "https://seekingalpha.com/news/4673872-salesforce-leads-enterprise-software-stocks-lower-ahead-of-anthropics-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794950111
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Golub Capital BDC Non-GAAP EPS of $0.08 misses by $0.25",
+      "title_ko": "골룹 캐피털 BDC, 비GAAP EPS 0.08달러… 예상치 0.25달러 하회",
+      "url": "https://seekingalpha.com/news/4673907-golub-capital-bdc-non-gaap-eps-of-0_08-misses-by-0_25?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794950114
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Elbit projects high-teens revenue growth and continued margin expansion in 2027 as backlog reaches $33B",
+      "title_ko": "Elbit은 수주잔고가 330억 달러에 도달함에 따라 2027년에도 10대 초반 매출 성장과 지속적인 마진 확대를 예상합니다",
+      "url": "https://seekingalpha.com/news/4673910-elbit-projects-high-teens-revenue-growth-and-continued-margin-expansion-in-2027-as-backlog?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794950117
     }
   ]
 }
