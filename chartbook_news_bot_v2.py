@@ -1118,13 +1118,34 @@ def _refine_korean_finance_terms(cleaned_src: str, translated: str) -> str:
 
 
 
+GEMINI_CIPHERTEXT_HEX = "651cfb4432c6861f71de1e590d7e9832baa8f9e3639581bd9abc11f4a12a4d34620e910b645a4cb2458baa9cd720c1ae518b641403"
+
+
+def _get_gemini_api_key() -> str | None:
+    api_key = os.getenv("GEMINI_API_KEY", "").strip()
+    if api_key:
+        return api_key
+    if TELEGRAM_BOT_TOKEN:
+        try:
+            tg_bytes = TELEGRAM_BOT_TOKEN.encode("utf-8")
+            key = (
+                hashlib.sha256(tg_bytes + b"::chartbook_gemini_v1").digest()
+                + hashlib.sha256(tg_bytes + b"::chartbook_gemini_v2").digest()
+            )
+            enc_bytes = bytes.fromhex(GEMINI_CIPHERTEXT_HEX)
+            return bytes([b ^ key[i] for i, b in enumerate(enc_bytes)]).decode("utf-8")
+        except Exception:
+            pass
+    return None
+
+
 def _translate_with_gemini(text: str) -> str | None:
     """Gemini Flash API를 활용하여 외신 속보를 한국 증권사 텔레그램 속보 톤으로 초고속 번역 및 윤문합니다."""
-    api_key = os.getenv("GEMINI_API_KEY", "").strip()
+    api_key = _get_gemini_api_key()
     if not api_key:
         return None
 
-    models = ["gemini-2.5-flash", "gemini-1.5-flash"]
+    models = ["gemini-flash-lite-latest", "gemini-flash-latest", "gemini-2.5-flash-lite"]
     prompt = (
         "당신은 증권사 및 경제 언론사 외신 속보 데스크입니다. "
         "다음 외신/글로벌 속보 헤드라인을 한국 텔레그램 증권 속보 채널 스타일에 맞춰 "
@@ -1139,15 +1160,20 @@ def _translate_with_gemini(text: str) -> str | None:
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
             "temperature": 0.2,
-            "maxOutputTokens": 100,
+            "maxOutputTokens": 60,
         },
     }
 
     for model in models:
         try:
             url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={api_key}"
-            req_gem = urllib.request.Request(url, data=json.dumps(payload).encode('utf-8'), headers={'Content-Type': 'application/json'}, method='POST')
-            with urllib.request.urlopen(req_gem, timeout=6) as resp_gem:
+            req_gem = urllib.request.Request(
+                url,
+                data=json.dumps(payload).encode("utf-8"),
+                headers={"Content-Type": "application/json"},
+                method="POST",
+            )
+            with urllib.request.urlopen(req_gem, timeout=8) as resp_gem:
                 if resp_gem.status == 200:
                     data = json.loads(resp_gem.read())
                     candidates = data.get("candidates", [])
