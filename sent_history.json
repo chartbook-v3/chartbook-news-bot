@@ -1,24 +1,6 @@
 {
-  "updated_at": 1794942749,
+  "updated_at": 1794942913,
   "id_hashes": [
-    "f5a6732ac0d9a4d30de2cf1f2223e3d6f86e09f97f9ae8b840b4b0bc718eb822",
-    "1a959245e9061e9717e70d8f68c1ae076788cc0b34ca1b7cb2cfb0d3e857ba93",
-    "9df6834ff9959db33fd1a84f9a6ddabc470822ca16219b3699e143a8f1df3792",
-    "942facad58198baf361fdf0507ac44237fc31a1f6cacd8b1d7cddd576777c61b",
-    "a7d9c2b2c2336c978843e1a28caf9d27bf0f67891c499d4e75efc79b41e2e77e",
-    "a7614991b2662a0d201b02282f18ee3d8a267c8125fdc0a57913ce637fc52cea",
-    "e4a2b7b0d873e4b0da17c25a1f4111ea6660313e654367ceb1a7649c05472184",
-    "7a8b311eee8623944fccfa7264078c95775abb60101a81423e7cfc3b69ce5fc2",
-    "a1ecf7c5d6d941157f92653e7a354419a52532c3dfe11a86d65f1305c1f153f9",
-    "0581646fa493cdb9f4b01247fc085563289b59505c398b60b4613d04190f37c4",
-    "c4b36934aa1f0e6633410d56627c0711250849a917ac260656094acc6a681665",
-    "33dd327098c8ac0ef9320060cef43f687540b3576deca0695c2647a2d46da5e3",
-    "19f6dc31f27b528eac9c3964d91b9f9084c4e6be4f4d31c8191d6a2610fdc53d",
-    "cf5b8f1a5ac033e63b58fa83c68d2ade66848f1e3b647b09d6c27511eb5aecb9",
-    "4b8f884b7ecb54239a8c1570421feac2c93941d90a468f07a4facef44e5ab554",
-    "ec9be53cbfdeceb71d75683a53fec67e0aaf48338b3e9057487a768b2431b2d4",
-    "fd7815d493fcdfd3d68aa8fe792b35fd5aa85c5ebbe95f718a6dd7f34e0d49ad",
-    "9cd23b12a69ef9261a1e821695a156eaeb0617119c645dbd8962508e483bbe4f",
     "b19364e1652afca14f7fcc6e8e7fe34165a06a7a4a5a2bdde6762b18aafa56fa",
     "75b3007d18cedf4bf45f4c9023a54c0802b256764b7d03ece653d36a05f663e1",
     "f15028c4836f6d729bf40078fbd7ff5d4894d9dffa10fac12ccca0bfcf5390ae",
@@ -4000,22 +3982,27 @@
     "7c3ac70bc25bd48b6e08f8ccc7afe72a0f9ec05db8584adf7618475a67175833",
     "35c72225550ebf1b645dc5fc1451cd930d9aff99ddf9fe05d50bca1db7d81800",
     "737c42b6416e7e5340730850c45503147c577a1814b9b5ec27483f6e4e2e7054",
-    "d4d5fdbfaeee54d693ff6be5a19cb9a6688ece13b644ea89090089e3904542e5"
+    "d4d5fdbfaeee54d693ff6be5a19cb9a6688ece13b644ea89090089e3904542e5",
+    "abc43a8127fdfa20c7ef4bcf35cb354d9a4efca08af622457a78cf441c96c708",
+    "8deff1363da912e811140c4420044eb629d48b2c31cd784a7a582090b30b2eb9",
+    "852d1a28b5bf1209e6cf5482b3feadf267fc684fd0f04f10392c9dd497e9ed46",
+    "ffe43243fbbeeb3a5973efd058a081eda5aa0cc0f360e944ab744eb75d84a9fe",
+    "fa143e42bd13f0fe55c68165f0b8b737986c8f8f45ca710359c160550ffa8358",
+    "97f82e89cc7a6cabd0915ad29c2e4ebb04079d703b0edee46e5b889b37d6f02f",
+    "380016ddaaa7d4fa97146c3a2da3ea385a7e8f4988a3c1bc5b10464c231f482a",
+    "d63c8990b037ebd97eaa5ba27051e8ee9a7bf5e4b2a25512e689ec7e1e98fef3",
+    "f641a580f8b287df06b3b76aa0a715649c3b5fd02b476028029d7c45c3cef415",
+    "761a98384e371971cad08b410a6b39cedd84af18b16277192647042debf2cb4e",
+    "a1659bb618ff8036ca3b86ee2f82f061223127e1558849e1dcb29e67fc849bed",
+    "b404f598b9b92149fb65c15396f7673b93d13afe35f0c7cdb6a85187908a016c",
+    "61b0c412d86e8a1af2573cd10221c61176350a6ddab484404a72c77e79dc6cd5",
+    "0f0ebb0f0d1f035acafb9ff4232b7dba28cf5b07ca61223e38322ca4faf03ae4",
+    "18458fce6dd6972355723a2eef200245aa81746bceb266dd31434719b4a55190",
+    "0657e362562f9d40f6b712f9bc1b2106f20c6b378529028f86db2f3441fe7526",
+    "9871e3da1a959bd0324edbb9845e367da47ec223b73a41db0a2442e1b423be0a",
+    "b140fcd68a7a4785910e8392cc51ba1a80fc11178dafc7d89b6410ae015b0301"
   ],
   "title_hashes": [
-    "450ce32f58ddcd1222275b8cc2a524b59c27f5d19e86f708610d7f91db9876b7",
-    "8723d0818e8da33ec01c43c2aea465247d66d7750b3aded41dddda88ca9e0d70",
-    "77fc3b162b3f64704125763fb40664a00a2595bc6e8300f6ede8ae551e19afa5",
-    "54dab8084f56d00b1c8ea4c406cb4bfb109bb89e6e186f1342ec9a645f101737",
-    "17751be8d7b6e0c778bb0785fee24f30c0e1e0ed173a9baf668a28a39aef0b30",
-    "013ee95c4cd8b0c9738cf6a47efafa6d233f00da78da02962deba635cfcf8c09",
-    "4ab5d9cfa494401c2ff6d6746d9ac18ec16091c3d9e0a63d047aa334d2fd82c5",
-    "d4cdf0ff19d3e44081f9c0c06f4daec1f63bef92aa77a73bdce6831d99c38f35",
-    "2ebca815fedd8217339f9076ead68c49efef04cd150a8537c87e261fddef80de",
-    "a1448143269ab398ef1626d56f0c2c737966840ef03e6ffd566b476d8ea84964",
-    "9706f224e0fee10c7712461b9a215175447c86db1de830c54723061c270335d2",
-    "280f7cdece7a78dd7b20106b85795dc2603a22a9eb179fe75e8ad5e0d948d6e6",
-    "a5e67d4ece8fe4d26205f6e773378e9894d7cf2af082bcf18fca49f141447755",
     "ef4ced8dd260449d2cd2e30291af7132e63023fcaa7f29d19538a0fe8ffb95ab",
     "a49585cc9fd70f1e54645cba604dba40fba0a4be6c80fc07024902baec0be105",
     "13ba45f4d5078674929bb670ec15201b89ad26c69b7e7b51f3c0f18219f20e8b",
@@ -8002,44 +7989,22 @@
     "440bbe903f9c9b4ecd772d1f6a33bc846b871ae458b95a1b5e084690163492c0",
     "a3ed68a8b31abe92203697b604a1d19b544383a2a7450441a05319653e744852",
     "0c349d35224588522c230ead19b212efeb1e0d5ea3a811865675050fbc51be51",
-    "10527aa0c43874f04fce0ba7ddbb3de17eb253f858fb3b1c71f4d73fb6892a7b"
+    "10527aa0c43874f04fce0ba7ddbb3de17eb253f858fb3b1c71f4d73fb6892a7b",
+    "40108220f78ca519fe2832941b24fb0b3a35e3a7beea9bb977c8a9afc405167a",
+    "94fb1cbb0f302b0eb7ab03a1b8e4afda983b547c3af1c8a251a8b2c84ea72a10",
+    "b2bcc38ca225c14126d26646ce389ae7e25ec487ff22366bd40fad34d62b12da",
+    "17262d3f9999f985a22b910b01c66b014342b78050a2291f79852864bd6c73ff",
+    "eb9a3fff068c2898fdb161cd2ab63137630de739600395e9bdb39ae395b67163",
+    "de903382ae4763b9ff4dd219a27f31b562eb00073e1e2371e02c39e7920c7b4f",
+    "b85de2bb412494cc9d868b7997a26f4879834fea744fd23636296e9563e4dcd7",
+    "3eebbc7dfbaa92a5f5df5bb30a247da5d37a74f9659978d209b456e1a76718b8",
+    "8444ad432f5a2908000718b8fe9f29599be3151daf0d20dea1eb0ece91d454e9",
+    "caf2966c2586984968a6211663f0fb1832bb20aa18a5e60312233ed8adc22d41",
+    "fd4bd1b653b30950fc0399ce28bc2e412487d12717d3c657abdff155a811a3b6",
+    "fab65272797a0fe5f63f2420a6eda458df62427e6913cdf2cf0d608a7b702ee7",
+    "4032c48268eff2b291185068fed9d2119a7446b3f0b7918684209a2a3fe87130"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "11月17日午间收评：科创50指数半日涨超3%，半导体产业链集体反弹",
-      "title_ko": "11월 17일 마감: 커창바오 50지수 오전장 3%대 급등, 반도체 밸류체인 일제 반등",
-      "url": "https://wallstreetcn.com/livenews/3201001",
-      "ts": 1794886257
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Elder Law Guidance Named a 2026 Law Firm 500 Honoree, Ranking #77 Among the Fastest-Growing Law Firms in the U.S.",
-      "title_ko": "엘더 로우 가이던스, '2026 로펌 500' 선정…미국 고성장 로펌 77위 기록",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUl9iY3o1R0JkTnI3RExQLTB0SVNWaDlNNTZWQklSaXMyNWJGQ256cktsWXNfMVIyQklvMkdteDZsME14b2t5Qjc3bnNIa0QxS2luNEhPcUdGVEVYbWhSQ2V2ZG5wUzlXQjE3UU1rR1o5bm1JUFFNNHVJOWRtSlZmcE53OWpTX2JWcjVOMTBvdmNnVHRoMWRvUmxQUGhpcWwyLU5CX3FxLWc5SjRCeUZ0NFB2cmo0djAweEJHM2N5TEUxUGhyMTF6dnNZR3pLZ2lZb1d3QS1vSUpqT1BfamhJc3Fkc1VYak9jRmNiNkZISHQ0bkgzNlZoNkV2eFhrQQ?oc=5",
-      "ts": 1794886416
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "SINGAPORE TELECOM REGULATOR CONFIRMS RECEIPT OF SIMBA'S RESPONSE TO SHOW-CAUSE NOTICE DATED NOVEMBER 16",
-      "title_ko": "싱가포르 통신규제당국, 심바의 11월 16일자 소명 공문 답변 접수 확인",
-      "url": "https://t.me/firstsquaw/193361",
-      "ts": 1794886567
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "SINGAPORE REGULATOR TO REVIEW SIMBA'S REPLY AGAINST THE FULL SCOPE OF ITS ONGOING INVESTIGATION",
-      "title_ko": "싱가포르 규제 당국, 심바(SIMBA) 답변 대상 진행 중인 조사 범위로 확대해 검토 착수",
-      "url": "https://t.me/firstsquaw/193362",
-      "ts": 1794886573
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "US Department of Commerce: Investigators sought Nvidia records on direct or indirect sales to Megaspeed in May 2025",
-      "title_ko": "미 상무부, 지난 5월 메가스피드로의 직·간접 판매 관련 엔비디아 기록 조사 착수",
-      "url": "https://www.financialjuice.com/News/9855002/US-Department-of-Commerce-Investigators-sought-Nvidia-records-on-direct-or-indirect-sales-to-Megaspeed-in-May-2025.aspx?xy=rss",
-      "ts": 1794886664
-    },
     {
       "source": "FinancialJuice",
       "title_en": "US Department of Commerce: Nvidia added Megaspeed to its no-sell list in June 2025",
@@ -11504,6 +11469,41 @@
       "title_ko": "미 국가안보국(NSA), 정기 유지보수 중 일시적 시스템 장애 발생",
       "url": "https://t.me/WalterBloomberg/38572",
       "ts": 1794942731
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: 🇪🇺 EUROPE'S LARGEST NATURAL GAS SUPPLIER 'EQUINOR' SAYS IT IS UNDER CYBERATTACK.",
+      "title_ko": "유럽 최대 천연가스 공급업체 에퀴노르, 사이버 공격 받아",
+      "url": "https://t.me/marketfeed/1079905",
+      "ts": 1794942835
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "苹果公司：部分用户无法使用iCloud网页应用（icloud.com）及iCloud邮件服务。",
+      "title_ko": "애플: 일부 사용자, 아이클라우드 웹앱 및 메일 서비스 접속 장애 발생",
+      "url": "https://wallstreetcn.com/livenews/3201478",
+      "ts": 1794942837
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Apple: All users are impacted by ongoing iCloud Account & Sign In service issue. $AAPL",
+      "title_ko": "애플, 아이클라우드 계정 및 로그인 서비스 장애로 전 사용자 영향 $AAPL",
+      "url": "https://www.financialjuice.com/News/9856330/Apple-All-users-are-impacted-by-ongoing-iCloud-Account--Sign-In-service-issue-AAPL.aspx?xy=rss",
+      "ts": 1794942901
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Nvidia contacted 3 robotics startups it backs to reassure them of its support after Huang resignation - Business Insider. $NVDA",
+      "title_ko": "엔비디아, 젠슨 황 사임 후 지원 재확인 위해 투자 로봇 스타트업 3곳과 접촉",
+      "url": "https://www.financialjuice.com/News/9856331/Nvidia-contacted-3-robotics-startups-it-backs-to-reassure-them-of-its-support-after-Huang-resignation---Business-Insider-NVDA.aspx?xy=rss",
+      "ts": 1794942905
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "APPLE SAYS OUTAGE NOT CAUSED BY CYBER ATTACKS",
+      "title_ko": "애플 \"시스템 장애, 사이버 공격과 무관\"",
+      "url": "https://t.me/WalterBloomberg/38574",
+      "ts": 1794942910
     }
   ]
 }
