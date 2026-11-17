@@ -1,33 +1,6 @@
 {
-  "updated_at": 1794909591,
+  "updated_at": 1794909762,
   "id_hashes": [
-    "c848765219a3857c156f10e2c29a4c15fe83bc697707416903b03669c299f45e",
-    "d9f379d051d35777a7e51ee9ab85a6627dad1fa4927bdbc14ea1e282f06825fb",
-    "ef796455cf8f6dce0551f41521f9ca2eef8570ffe9a10ae2a029eb581ffc8191",
-    "b5d37125a3de1121dd87377cb943266eaa8f9d2f2618b9a9d6e05b7cb44819c1",
-    "ad3320e50c7d40448f9f2e3433f5c89ec3a83e554e08641f4de7e04b9b58a2c0",
-    "b4665286042b7f08fdf7ea479592d93762e4dd75d2bcdcc797339c9ef501cc04",
-    "f72246d7d6e1569b4ea92aad8fdcc013cccbb2cbac8237e79d9d9c1deca91651",
-    "971188db6e189284deaeb0e8ed5384b4f3b00d771c44c64068af5b3063785345",
-    "9bb44c938150b5dcb4860944efce53a9c6eab63e1b3e0dcdbe0b16fa81e62493",
-    "b4ce4883bc7f212d5d26434ae6c77a9e74a8d73d83483304b7e4b00ebca08ad9",
-    "a654054f0edd771c06f609abd53571ec3cfca589a1c55965d3a673dd278b5bfc",
-    "953fefbb99645ac437eac04ebba9c1446b75cd340bd15608c04690c3fcdea514",
-    "a3f294bc3e42f858ce62dc21433469572a526eb664ace55b30974ee06776e317",
-    "481e48bbca47e8cd5a7f2655d5fa1a226e36f6c014170798da9f9dc3093784bb",
-    "bfcf065f856c1e68c890e71180ab2b53e63c3d9692d3364a661d545431d7fbef",
-    "0d0161e3cd4b5f3eabf44f092ff0ded00cde6e6f63ad43d5eb4719cb2a192540",
-    "f9fafd5c6db5b2f108f74637ec05480a31f754384a9717f02242f8699939042f",
-    "d3a7f885fc187558f9afc4a9d392364a9ffd4dc3b083b619f6970aa7ae7e59df",
-    "f1d7b7621f6d1a178a728842c726d80d4e70d82127adf353375e50d0b707023f",
-    "f86c5c96e1c6dce5979910e61f9d1864176334a5fa09e906e0857fb23b3d3601",
-    "4037b35f489c43133774838a14897aa0cb50e9a05b202bc88e7e5d24dfd74fd8",
-    "c11e8bad4e784e13d5e32ac8c49c5ce78e842e2c91ace1c45b1b40667fbf9bc0",
-    "aaccb7c789f2c264b4308eddc1ce71f08ab9a54e7dbe3fe9eda190b25c918026",
-    "74b0ea53be9f80a2fefeb679f430126adeadd66404ccf730ff7d41987bfbab46",
-    "d8d6f8c501b8a21ebbea8ee103a8ad688077df53298943c5f613b3bd7761ecd6",
-    "b739eb694c31afbb567b5fdcdde2d5b30ebaca27730a8adb7ab4fd8fc9d2654c",
-    "ec0cdb16469b0d7247266c01d5ead799f8ca0bf5bebfbfaac3a0b6a2db3a3a0c",
     "0598c8a4998dc85f522800c6c6789d4b293bca0d441c86fff234b8e953a3f377",
     "18b2989acc37ad551b63ea341d9fc8b50b193e75b37f187e5947b5d2caf6c533",
     "80174b3499e6b96de9b6da2585ffd99949c86d5acba116b37fe570396774b214",
@@ -4000,30 +3973,36 @@
     "2e62d91f8dd5fb1a1f6c51c37a7268c443d500fdac92b9a47113bfbaaaa7a491",
     "1d268041db17fac980e2dca933af6854fb7e641659f852608c70824bf37ac242",
     "f346c32818097d4dba336138a46f414ba0032c8d9efdb175ffb5f96eebbe383f",
-    "6e3ba96b208d9f6fa2b14d05c31226f3bfa1651b15bd7fd8ea8ec34725c3c8d3"
+    "6e3ba96b208d9f6fa2b14d05c31226f3bfa1651b15bd7fd8ea8ec34725c3c8d3",
+    "8fdf304248e4cd5f55c36ba1a3b7346a975cc33234935f825a369a928dfecba8",
+    "91028a11c97d7ea863585db3771998f1c0d4bf94ca5e72437969b8d15b1572e2",
+    "f53f00aef1f1961add35ae2dffeb064b72e3928800fa4191b8a8222ee82c2aa6",
+    "3c32000a04d68c0cb75f39ed86180926bb7aca7466b3b5bdc70272e740400f0e",
+    "94aa87a864b232734c7f5faefc617b6c5bbf794c61037dcf48213017d3f40f71",
+    "9d55a66c8c9ca1a9e6e481fdb9778dce6b93b4ed0fe76981d7e1358f63dd281f",
+    "d77ef3dd8d9a0a7a5fd127b8f44e94c05f03b8e804b4061f94649b46335bc335",
+    "6a2ecb7f3fa6a4de31fe9c79756fd91f5137a67b699af653a567f544a73849d0",
+    "c36debc3bce064fd7cf3216bddcca97acd139cc7adb93961843eb2f0f3464e6b",
+    "74ad78f69481fb749d8dbe7cd12f1f783c8141aeda1ad2dc2329ac536d8e1413",
+    "64e03d17050e4a3931b1c4917cd8f25a0fc6248bd5618b90baed5a2f2bd421cd",
+    "7d9028ed546adaf819de8e2125beda85c595949e50d98caf7fd51844d178141b",
+    "36d054ece06ab5944894202cc44c083cd1dfc7560d59f363f45814bcc2a2d44b",
+    "61494ab1f6b8182e7b4779c11d495ef7186a16e8260218de07690e140fa2ea48",
+    "af75da77d2b6995c88a36c714b561045c83b5cb0978b0e4a26197818baae1c63",
+    "f47ae4242b21b482e1bcc323ce41810a20be3e3504360f32485becc64aa3a594",
+    "824b589df4ac7a7c2132d55f50735538691583424ab07f727ad2c10268425314",
+    "78d2dc30598c394d311df2594813912885a2188b733f4228e59bd18f2dd28bba",
+    "0714f6a1819cb8c89564c4bd8acdd7b083698a7b0804320b3dd359266fc728db",
+    "474eaae9b0ddcdfc666c5e22b395aa4cd72947a5d79710f9dfc6ced9db96e15f",
+    "d95f270abdc39dc61ff5a9105770101a997ffaccdc97f14832477aea33dacb47",
+    "88d8aed757a848d2515083ec8998750a21896d82413f52d6d31ddd926150c786",
+    "d3f6f525170c56770a56059b6cc29162a858e4977a5ccc827a0eafe5b9f845ed",
+    "3b295d8f206f428dd482204d8ffbcd15ff0ebe16870eb7d0dbdd8bb43d2d7818",
+    "64d7c0a6f9f23f8af291aaadebde9923326ebf6058396c8115d5869476a6b522",
+    "82505a545f81ad3ad91392cdb3a89b96055bd373b7442edb11ff1151d51ed3b2",
+    "30906c8d2d74d6a3dac65a3eb16d35090515254ec6cd9c66020aa0167b5ff440"
   ],
   "title_hashes": [
-    "9f3b82f741ab9206a5d0c2cadf7dac675fb05861ee05b5f97bfdda4c649d9886",
-    "0ec8f977cada1f0bac671b991a3693aeb8256548aa9d486360550a6bed93f74c",
-    "db36de124bd6215fd279a8e98217546b7874bf5863a20fd8a1c310bf728a3373",
-    "8661832e28de24a0faa9e22367e98f24ac9de5cc4800bc0e047ee292369b1afc",
-    "f1b0f15599b605d4cd0b748c54500a65270452c0a4093a53b25f63e900008ee6",
-    "a4fea338dff23d5d156bcd738f874622ed97565f6ab59f39fa59b8d42d325f1e",
-    "91d51dc336cda8d6f68d02690083900fa71810cf0084adcf2fa6b7b0e81d6065",
-    "c424de07034f4186e0f48cd0c142f67cc95ffe973a07794814ba10908f7f0161",
-    "6e69d0859c26b805784265256efa1ca6aceb8839418602d39575f5997809769a",
-    "508350c1410c4dac842b618b01ee134e2c3ac20d3632fa996cdb714f6c605fa1",
-    "bf27a1652e8e820366d8295c215a3bea77d107aefe0884c47cca82a9affe3a61",
-    "f90d16202527aae6c38fa281d7b32466d1b7b7ed20599604fa19c1f40a4e3f60",
-    "d891280ab99a92aede9596a9ff913964d2d4185d5090e89a3a0522d553144cc5",
-    "396efb9f3cdc65683607a9713ae08d5f8ffca2f3ce5145654b1b9ac3fba7fbdc",
-    "e41c78cc4da1801829f6d57b1ce9b8afcf5433492cb178668efb0c0b1bf90897",
-    "987887c9d93a16c2f471da2918a3bb7bf4695698d7c84cba943f10b37f767939",
-    "33e035d57df072ee6c540bad4dff28ff4ad66592f9d67b3e3613d8676bab93de",
-    "81c499929e33d64f3316eea587afec1539a26e2bf47d10e4be29dc5a0a1252fb",
-    "547b90fb077932a7eda5d2addb27bd5b9a5f77dca8949baf93164a3850e52456",
-    "4e528828bd44e4f81833b236ee3ad6737ff362b2694555a9e99ffd8703495000",
-    "9c32437eae484e491200875245ccda30aa354a759bef69452fae363ff2483c9e",
     "4b5d7d307e058091f581a0ca16c9528678577cb36e69f72f3e3c8495549581ef",
     "fb9be3e38b8c29e3d26563c326bc5060b691ceec7f4e496d7697bd7eca2c7d73",
     "02ce604d9d72c6f8686095735992f6accbd0bd418d16f7e19315661598f10421",
@@ -8002,65 +7981,30 @@
     "cb5013850bdbbd5bd9eaae4e4107059553ad809647cfb033ceb001fb88640677",
     "c0b4059c21531e4513712c064cf60ff828c218c78eca05605a59ec6aa5dddbd5",
     "36aaa4a35a6e2e406c751eac34cf567d08519e710d3da11a69343729bc27370b",
-    "028686834b2da912942fb651567824204ceaa060cc94cbe397c3fbf024999a4b"
+    "028686834b2da912942fb651567824204ceaa060cc94cbe397c3fbf024999a4b",
+    "d61627fad4a045d8a2268ba23f6576e51f9516b65a953f6daa700ef501a39ce7",
+    "20b0b111ae7bee92344f430765bfed538e9fda45e7f00db6dbe48b1ad7aa71d6",
+    "e47d4853ff31613c1b36cd6bf90a3081f23f4853f0de85a47ce39d0a36c2b102",
+    "2df69cb2f27d021a07545ab64d442e9d0fefa585c9afad563d32a9b84b9304b9",
+    "330e7a16199a2c41ae6cdb669783f63e799afb7158536e7210d897ab3c824b7e",
+    "32a32f06c39d6898506ffd7ff3075e146c5071c7cda7d0e7f5d916ab32d09376",
+    "5b9f8f22cd2f73ea753acf6b200b525088d24e40ae390625972da9764c7d8ee7",
+    "25ae3819022b2700e620b36f9484ce33ff74122af151f1af92fb805805f61ce7",
+    "398ba4424bb7d0545f071e830c5fa2ca23363787ebaf6ee025fcb8ae229f688a",
+    "19e04e88b5449adc393c830c78a904fabf697945ef69301229c19326ee187344",
+    "94ebb35c8e989b0c7f0d1444f5b87f01dd59def0c77620f8d2eb0f78bcbebba0",
+    "44ff351545271767d09c4f3ed4b935df4f146e05a13b790cead8ddc3f29e11a8",
+    "41619a1e1f8d1d81c9a1dffa493ef857d955f3e687de340d9d5df4a0fb685302",
+    "26ffd45269fce234810a409449128ba33538aaa8510039b152fdd273b577320d",
+    "f49f972377c8491435f850d2d4e0582de5ab0bddbbb49c844e61f535bcc63e61",
+    "ff99221964abda391ad8b155f572c82c729ed13a2b91570badff6d3df0676cc1",
+    "ecf7ddbd5019fa4bb9cf392696cd34be49ca4c3e6108c6048318ef676013627e",
+    "35f35250b91b39412e93b22e070920ad1f9b2dfb51b9eb86c128f03fe8d90b81",
+    "af2f32b61d0ed9165a694e7dfc16c965b57f2e2a50da1d41c0925657434ac47d",
+    "3b81a352fe5369ab89d51d788a4a8129cda8eee8c3fa7e66a9aac6a507f9ddf4",
+    "bb84d97ef887578cd7366545ff50eb2809bdc3e81f365aec5b290dceba026a5d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "UK PRIME MINISTER ANDY BURNHAM SAYS BRIDGES WITH OLD FRIENDS AND NEIGHBORS WERE BURNT, THAT BREXIT WAS THE FIRST DOMINO TO FALL IN A GLOBAL MOVE TOWARDS MORE ISOLATIONISM AND PROTECTIONISM, AND THAT “IT IS EXACTLY WHAT OUR ENEMIES WANTED,” WITH RUSSIA WANTING DISUNITY WITHIN NATO AND A WEAKER EUROPE",
-      "title_ko": "앤디 번햄 영국 총리는 오랜 친구 및 이웃과의 다리가 불탔고, 브렉시트는 고립주의와 보호주의를 향한 전 세계적인 움직임에 무너진 최초의 도미노였으며, 러시아가 분열을 원하는 것과 관련해 \"정확히 우리의 적들이 원했던 것\"이라고 말했습니다. 나토와 약한 유럽 내에서",
-      "url": "https://t.me/firstsquaw/193297",
-      "ts": 1794875319
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "UK PRIME MINISTER ANDY BURNHAM SAYS THE UK HAS LOST MORE THAN IT HAS GAINED IN THE LAST 10 YEARS AND THAT “THE HARD BREXIT WE WERE GIVEN IS NOT GOOD ENOUGH FOR BRITAIN,” ADDING THAT THE UK WILL SUPPORT UKRAINE IN NEGOTIATIONS WITH “EVERYTHING WE HAVE,” WARNING THAT IF RUSSIAN AGGRESSION IS NOT CHECKED AT THE GATES OF EUROPE, BRITAIN WILL SOON FACE IT MORE DIRECTLY ITSELF",
-      "title_ko": "앤디 번햄 영국 총리는 영국이 지난 10년 동안 얻은 것보다 더 많은 것을 잃었다며 \"우리가 제시한 하드 브렉시트는 영국에게 충분하지 않다\"고 말했습니다. 또한 영국은 \"우리가 가진 모든 것\"에 대한 협상에서 우크라이나를 지원할 것이라고 덧붙였습니다. 러시아의 공격이 유럽의 문에서 확인되지 않는다면 영국은 곧 더욱 직접적으로 직면하게 될 것입니다",
-      "url": "https://t.me/firstsquaw/193298",
-      "ts": 1794875321
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "UK PRIME MINISTER ANDY BURNHAM SAYS THE UK CANNOT ALLOW IRAN TO HAVE A NUCLEAR WEAPON OR TO MASSACRE ITS OWN PEOPLE AND THREATEN THE REGION UNCHECKED, NOR ALLOW THE WAR TO CONTINUE INDEFINITELY AS IT DRIVES ENERGY PRICES THROUGH THE ROOF, AND THAT IT IS WORKING TO SUPPORT MEDIATORS IN SECURING AN AGREEMENT THAT ENDS THE WAR, REOPENS THE STRAIT OF HORMUZ AND PREVENTS IRAN DEVELOPING A NUCLEAR WEAPON",
-      "title_ko": "앤디 번햄 영국 총리는 영국은 이란이 핵무기를 보유하거나 자국민을 학살하고 지역을 위협하는 것을 허용할 수 없으며, 에너지 가격이 지붕을 통해 치솟으면서 전쟁이 무기한 지속되는 것을 허용할 수 없으며 이를 지원하기 위해 노력하고 있다고 밝혔습니다. 전쟁을 끝내고 호르무즈 해협을 재개하고 이란의 핵무기 개발을 방지하는 합의를 보장하기 위한 중재자",
-      "url": "https://t.me/firstsquaw/193300",
-      "ts": 1794875323
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "PANAMA TO BEGIN TALKS WITH FIRST QUANTUM ON REOPENING MINE",
-      "title_ko": "파나마, 광산 재개에 관한 첫 번째 퀀텀과 회담 시작",
-      "url": "https://t.me/firstsquaw/193301",
-      "ts": 1794875326
-    },
-    {
-      "source": "Reuters",
-      "title_en": "EXCLUSIVE: DOJ to review DoorDash-Instacart merger, sources say",
-      "title_ko": "[단독] 법무부, 도어대시-인스타카트 합병 검토할 것…",
-      "url": "https://www.reuters.com/world/doordash-instacart-merger-be-reviewed-by-doj-sources-say-2026-11-16/",
-      "ts": 1794875369
-    },
-    {
-      "source": "The Information",
-      "title_en": "Google DeepMind Strategy Chief Jasjeet Sekhon Departs for Anthropic",
-      "title_ko": "Google DeepMind 전략 책임자 Jasjeet Sekhon, Anthropic으로 떠남",
-      "url": "https://www.theinformation.com/briefings/google-deepmind-strategy-chief-jasjeet-sekhon-departs-anthropic",
-      "ts": 1794875372
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "LME ALUMINUM’S NOVEMBER CONTRACT HAS SURGED TO A $180-PER-TON PREMIUM OVER DECEMBER, WHILE INVENTORIES HAVE PLUNGED 57% TO A 36-YEAR LOW OF 221,900 TONS, COVERING JUST ONE DAY OF GLOBAL DEMAND.",
-      "title_ko": "LME 알루미늄의 11월 계약은 12월에 걸쳐 톤당 180달러의 프리미엄으로 급등한 반면, 재고량은 57% 감소하여 36년 최저치인 221,900톤으로 단 하루의 글로벌 수요를 감당",
-      "url": "https://t.me/marketfeed/1079104",
-      "ts": 1794875375
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "JAPAN’S NIKKEI FUTURES FALL 1.2% IN EARLY TRADE; 10-YEAR JGB FUTURES RISE 0.19 POINT",
-      "title_ko": "일본 니케이 선물은 조기 거래에서 1.2% 하락했습니다. 10년 JGB 선물 0.19포인트 상승",
-      "url": "https://t.me/firstsquaw/193302",
-      "ts": 1794875376
-    },
     {
       "source": "WalterBloomberg",
       "title_en": "U.S. INTELLIGENCE WARNS IRAN MAY BE PLANNING DIRTY BOMB OR CHEMICAL ATTACK IN WASHINGTON",
@@ -11504,6 +11448,62 @@
       "title_ko": "[종목상담 주식민원처리반] 데이터센터용 초고다층 PCB 수요 증가 전망 '이수페타시스'",
       "url": "https://www.mt.co.kr/stock/2026/11/17/2026111718377040706",
       "ts": 1794909590
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "산이, 역대 최대 바우마 차이나 전시서 AI 에이전트, 로봇 장비 첫선",
+      "title_ko": "산이, 역대 최대 바우마 차이나 전시서 AI 에이전트, 로봇 장비 첫선",
+      "url": "https://zdnet.co.kr/view/?no=20261117181002",
+      "ts": 1794909630
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Walt Disney, Nvidia and 3 Stocks to Watch Heading Into Tuesday",
+      "title_ko": "화요일로 향하는 월트 디즈니, 엔비디아 및 3가지 주식",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/63331751/walt-disney-nvidia-and-3-stocks-to-watch-heading-into-tuesday",
+      "ts": 1794909637
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Nasdaq Tumbles 2.5% as Nvidia Falls Further; Investor Sentiment Weakens, Fear & Greed Index Remains in ‘F",
+      "title_ko": "엔비디아 추가 하락에 나스닥 2.5% 급락… 투자심리 약화 속 공포탐욕지수 '공포' 단계 유지",
+      "url": "https://www.benzinga.com/markets/market-summary/26/11/63331763/nasdaq-tumbles-2-5-as-nvidia-falls-further-investor-sentiment-weakens-fear-greed-index-remains-in-fear-zone",
+      "ts": 1794909640
+    },
+    {
+      "source": "BreakingMarketNews",
+      "title_en": "🔴 ⚠️ BREAKING: GERMAN ZEW ECONOMIC SENTIMENT ACTUAL 35.6 (FORECAST 28.8, PREVIOUS 28.1) $MACRO",
+      "title_ko": "🔴 ⚠️ 독일 9월 ZEW 경기기대지수 35.6… 예상치(28.8) 및 전월치(28.1) 상회 $MACRO",
+      "url": "https://t.me/breakingmarketnews/178199",
+      "ts": 1794909679
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "NVIDIA board establishes export control oversight committee.",
+      "title_ko": "NVIDIA 이사회는 수출 통제 감독 위원회를 설립합니다",
+      "url": "https://www.financialjuice.com/News/9855466/NVIDIA-board-establishes-export-control-oversight-committee.aspx?xy=rss",
+      "ts": 1794909693
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Ted Lieu Pushes Back On AI Theories Behind US Outages, Says ‘Trump Administration Needs to Deal With Fact",
+      "title_ko": "테드 류, 美 정전 사태 AI 연관성 반박…\"트럼프 행정부는 팩트로 대응해야\"",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63331774/outages-ai-theories-political-speculation",
+      "ts": 1794909745
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "GERMANY ZEW SURVEY EXPECTATIONS NOV: 35.6 (EST 28.8; PREV 28.1)",
+      "title_ko": "독일 ZEW 설문조사 기대치 11월: 35.6(EST 28.8; PREV 28.1)",
+      "url": "https://t.me/marketfeed/1079441",
+      "ts": 1794909753
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "CANADA EXISTING HOME SALES (M/M) OCT: 0.3% (PREV -2.3%)",
+      "title_ko": "캐나다 기존 주택 매매 (M/M) OCT: 0.3% (이전 -2.3%)",
+      "url": "https://t.me/marketfeed/1079442",
+      "ts": 1794909761
     }
   ]
 }
