@@ -1,11 +1,6 @@
 {
-  "updated_at": 1794948652,
+  "updated_at": 1794948799,
   "id_hashes": [
-    "1b6a4310f2254c126d417ad918a00d9348ac0159216053f5e53baf652fea2b53",
-    "b25691830070fffe7b2bda2bc7a4a506ffeea507e33eb5e09d510e6c541e6444",
-    "e4bbd112a5938f339b21dd288863a34e43ee7cc8ec458d86980ff72f7deda55d",
-    "f34191163203a11f7dbaa4c01167ae30a89161491d982b6b0fb462ebed1d8062",
-    "451de9962833f5db95769a9b1adfce191ed8d0509a40cbb598c4e4b794ff6413",
     "f7228478d971bddaf7a4a75648f5f8bb3b5ae5c766a102efb1c6525c4483bd9b",
     "4a9947b95e1a9ea100927388f13a0ee09a679708a3c68cd3a068346db3f48004",
     "f06c145627266154287ce53f569928da1386a403b6929bf6b1f5418e267af687",
@@ -4000,12 +3995,14 @@
     "967b97fc359e1f4d3a8d203620e3df3efdc29ae49fd1ac9e77c6d85054f95fb4",
     "9f97b9511bd13f4fc301d63bc6edf033daf90a1f9a862b5cc48f8eefa973fe0e",
     "cfbe3980f88c790423a379f62663e6cb6cf1b60a9184879fe8b8e9edd070f0d5",
-    "458926c9c94a321fc74d133bf14ecac61f28be6330c2fcaf5a6d8f4624871087"
+    "458926c9c94a321fc74d133bf14ecac61f28be6330c2fcaf5a6d8f4624871087",
+    "add7d447be6d47c2dd803aede9916d0f02542c462c71d9887d4090468563ce06",
+    "ab1e4be5aaec78325765fdacf851ba2cbfc8a6d4feb2aeaad460bf5553fefd55",
+    "d6075f18fe9b735327b5404a44a5248f39543ce593c99f126781541760cbce24",
+    "1407ef3bed80e15f2b4a2cd3fbb79d5cd6e522327a6aa758ecd94a0fc6591929",
+    "2eacade3457921cc0ac21b7048716316fff44accdc0d486a950487ca1db0b6d8"
   ],
   "title_hashes": [
-    "37d409d868ed0d8605a3ce2e8995e83594a6f519d1be5a15cb49ecf6ff22bdd5",
-    "10e471e710bbbd0027f5aa73e3c98dda04ebb48d1358c48e7d7be4aa2709663b",
-    "ae3fece111fffcd0f88fbd452ff64e743ecda9f0e0e5e69979fc0deba27c21c6",
     "dd48eb22b04c4c11f9859098cbaf48da09a8d855e45afc5edd4385f2f7e32936",
     "336f36f9bcb70f0015d681015b17aa3a67171bab7f9418218dd7d947eb9026c3",
     "b5d18eef84b9cbb1ccea65fb2a0760abc9a52b1f69fe9863a9d7cb4c8fbe7826",
@@ -8002,23 +7999,12 @@
     "7bfe041a7cae527a240b2b947e80b1d21480c3c067ec16fb314f89a2a619d636",
     "a9ac1e5a64b216838d85fb17e6f426b46e1837c33aa09f75ea1cb94080e8acd0",
     "e4e6afe1004657db7b1a3f1898e01a5f73163a1cda53f4050ba1860cb521696c",
-    "0467697c6ac8fbe852408fcac43d34c8ba8dbc38c68040788aca1383104eac8c"
+    "0467697c6ac8fbe852408fcac43d34c8ba8dbc38c68040788aca1383104eac8c",
+    "ad4edcc032ecfab495e1f83bcd2a4bad375c789b0c63ff6b1b2fa76b48b70b5b",
+    "aff8642c4d59cb532840e848fecdc56fc5f2d5804e7285b089c2df749be14b4a",
+    "80f7cca26f2c218057b5c56db1ae102daf4c07b41195a2e038eef52cf7ab24a5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Russian forces strike port facilities and industrial infrastructure in Mykolaiv, according to local official",
-      "title_ko": "현지 관리에 따르면 러시아군이 미콜라이프의 항구 시설과 산업 인프라를 공격했다고 합니다",
-      "url": "https://t.me/firstsquaw/193414",
-      "ts": 1794894128
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "\"의무공개매수 원안 통과시 코스피 4,200 급락 가능…PBR 1배\"",
-      "title_ko": "\"의무공개매수 원안 통과시 코스피 4,200 급락 가능…PBR 1배\"",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445176",
-      "ts": 1794894189
-    },
     {
       "source": "머니투데이",
       "title_en": "인텔 GPU D270, 엔비디아에 도전장…\"금융 연산 성능 최대 5.9배\"",
@@ -11504,6 +11490,20 @@
       "title_ko": "Anduril은 앞으로 몇 년 안에 공개 시장에 진출할 수 있다고 말합니다 - Qualcomm(NASDAQ:QCOM)",
       "url": "https://www.benzinga.com/markets/private-markets/26/11/63369119/anduril-says-it-could-hit-public-markets-in-next-few-years",
       "ts": 1794948651
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Modern Mining Technology GAAP EPS of -$0.28",
+      "title_ko": "현대 채굴 기술 GAAP EPS -$0.28",
+      "url": "https://seekingalpha.com/news/4673892-modern-mining-technology-gaap-eps-of-028?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794948672
+    },
+    {
+      "source": "BreakingMarketNews",
+      "title_en": "🔴 MOC IMBALANCE: S&P 500: -885.1 MLN",
+      "title_ko": "🔴 [마감 임밸런스] S&P 500: 8억 8,510만 달러 매도 우위",
+      "url": "https://t.me/breakingmarketnews/178438",
+      "ts": 1794948736
     }
   ]
 }
