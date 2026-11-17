@@ -1,27 +1,6 @@
 {
-  "updated_at": 1794886740,
+  "updated_at": 1794886906,
   "id_hashes": [
-    "5805940666c2700df75a2accf3a4b64cdf61dbe357564f1d1b78cdb2388712fb",
-    "bca094bcca1475893ef1907cbd54f91fcf5c0b52e64fb5f56dd06fe4e7792530",
-    "bcaa3caacccb01131e8a3997a190c228b866f87d607a0603172b71f80f3c8c19",
-    "655747247b3f140bc728528d26b405cec73ed87ce98e2b6b54fdedbeade00b1c",
-    "6bde2f3a6f7652fee4d86ac6540cf5b307b3f3848afa7cb82542cddc159d2dfc",
-    "f526901e13f1a77dfb8974d9d839cd51c9366754911e51e0b901c4aa99f5751e",
-    "8db6fc1bbf270144493321728fe1d984dc85b0fe729c3475e27e40dc2abe81b2",
-    "5766159cf44905062ef12edd18ac8b4c49e93f0f9d67981bf65ae6fe0ccb5693",
-    "3c23e32cb89a208f33ccf04d402ba7e020fcf5d3bdebb631c7ada77840d8f760",
-    "6087fdcddb535c9b4a2bbc6cb83d0e7fafcfdc087b04c7df7e21322dfbe25b21",
-    "ea8bde83e0f78dd5cd7dd100ac22dfd8b710456d0ad6d10403b5d2923b192359",
-    "a22e8b0df57ab1ec2f7191858942d8ab1c5b98862573e1f331954e2ef918412f",
-    "11838a0050cc7d42662d7c07be78e4b8f6f63e75130bc4639e2e6e837438b41c",
-    "53c068118eede399a20aa197c366755e6ffb1a028a6963648b013fef55b49cc3",
-    "fe5ddd9ebfe0d385e2ad886c908a6155fbd66358702fa743ec65016bde2830b7",
-    "669891835eb7ed9a01f9c249f8592f713d310762f1f3420b52bcd99431c71519",
-    "bf4eedeeb24fce9fe49914f2f09e1af644a6257a7d4ff37fa89d75ff9d4252dc",
-    "d1dd0d66e21ea685f96ed4adda4aaf7306792e3245f55b357b4b26ce2abd2b21",
-    "7b9c365158c50e974eb3b215ff81317bcf49865587033c4176e1a14f4648d274",
-    "c2c61a5899843875417a89cbd952ef5419a49d42789e4933c7e25f08ea9b6cb1",
-    "f623d8ed37f84aff3ac1d12fc6fb6126484dd1ebd4a48a307d3878ec1a3f7a06",
     "edc9775eeb1dd73c9058f9c7720f97076780d204cf04a4beb6abf80936af042a",
     "3194d0ff2928e455816ec236ec607482ca13231f1e56d10ec9a1b55783369c21",
     "afb57258742c5cacc52a7b4160a6e1a6ec7656429b6b5d796aabd405ca01285c",
@@ -4000,23 +3979,30 @@
     "aa77e7cedf5cf2bf36515864445a6f7fffd223b46c0b4d0a9e7a1ae5283abd74",
     "efb0c37d352836b2c98de3c86759e68819af57b6bedb554b5aac1fa30a06b53c",
     "7535b0bd9ba2e7359ab75d0109e5df7caf3b5ad6a545ab1bcbf8cfebf29ec64b",
-    "bd7695b154965dd9472c4a19be6b48c3c9f9540d035b07a679e53d07998b56ca"
+    "bd7695b154965dd9472c4a19be6b48c3c9f9540d035b07a679e53d07998b56ca",
+    "01f816c683f50270d57c3d3ca035974a4d976e95bcf2bd41e40b9acbdf5b7cec",
+    "d39f7756434d09f2422839cfdadfef1e3c60e65f884d76058f9d656b157e2c57",
+    "9123038e3c3de142f401a362bfcb788c606346faaf5607865e9b26d96030a772",
+    "908832a1a0e45d8079f88d45a7b458c54f9fb890a5498e9e46fe8c6d6783158d",
+    "4892ec44dbf098c8b58b395c95edea214adc327e0b8b03601d13df7864021c6f",
+    "5128db27367fdb6992003ac14160c2902d7a8eb152767a85b251a362bef34c0a",
+    "0ac2e4076414a4090e28ae9f640ad2f89d3c543bded8a71cd91e4ae63479699e",
+    "94003e78e11f6454c5adf70883fb9c550cf372807c0d3e971d60261aaff3e081",
+    "76b35391b0aff67b728db0f954d6d33eaf1a862edd48c57eea704293f0f1e7e6",
+    "0738cc2bad2adbb0f6490f0458b05949942a352f2db6c7c681700732a323c057",
+    "7edcaa1a88e77b7d404455e3ee367745b0311cfe0bb3fd956533de76be6dcfb4",
+    "19811f5ede27a4a5840572cf7f8ae5cdeb12269bd14b6650fc5f60f68b8ab7fb",
+    "67e4aa187c01d0feb25b39606525577138f3deb60a82ea8c1621ca7964aeb42f",
+    "5e40fa26ad1d1c486576dc0fae028a53617b5038cc53381ab7efc416ec33d5e1",
+    "81648b314e7f6643eb8309713efc411faf544f2b647015b2b64369f534b10f43",
+    "7a7533d0db6c2dceab24324ae3daf9484e021a4a2b9ba349714ed05d1869dbcd",
+    "b4d5499370dc2288c111acf76532ec06adaafa0b19e81063258d92470fad1e70",
+    "7b645dac1925e05f47a4ba01b9883ce1e140fe06a327cf548ff813ad1799bfa4",
+    "0447ec78351490286940f13f65e83f47d564b34f6939359d31d0dc784970c7b7",
+    "7e435d66e5f97c6ebf11438473614da67013b4c92826582b504944b79a78fa39",
+    "1a4998b0aff7ad8d6995eb98b32639ad2e80ea20c8f22e205ff32479694a63f9"
   ],
   "title_hashes": [
-    "fd39714b3a7ee90a170a683847ec81d5a1c7df1d96d04252a14f97d96e67c5ce",
-    "1945c3362ee9c7f2929437b8775b4bec9b2f2054aa902df7b6bb20835564e799",
-    "edd8d0c2fd4fe0df4b49a951f9fc812a2b5b2838ac70635ab642b296ffc13c01",
-    "5055a9a3dcf1ea46312d58519a8badbba656eb0e88e0e36639ebca558b3a6e24",
-    "8b26bc266289b3f6e628c0a2c904a47a86c404a57072b6641cb18b1acd7e60c1",
-    "3b7e3fe7794be3561189bb9740fe2b965f3678bed6c94e3f0e81426ddf8f5034",
-    "5ccf912f9cddb3b807b04b0b96c876711f0393aca85e5d6b844bfbfa89188102",
-    "070d4b077711e37dac7567e36ae7c494c737eb9b0a1e63799500982404ce1d47",
-    "095ab3b09fdfbe03dbc155fb43feb83776e1fa8c9fb49819bdd4d6331a3a6700",
-    "a540f93c72a67a4495a5d485e4755c8977a2de62465a9fca8627380cca36615d",
-    "a4ed54f5f4ce2e2a7330c04bd9f9a040c5ac7499bd3ba9961fde1efc0b84f6bd",
-    "ce80cc760b646aedaa53033ed314db100f9a8e120d27a3a6fc01e45d55250915",
-    "18b53dc595399df818e4aecba9847fda83e5a7b8c5172624238c08a39f92116e",
-    "4c851c209f9f468d97ce162f356cd43be20066a044681a9d7dba8c17783b8f0f",
     "db6e5ec2fa39136c52fa7b91c270df2591c2920568830c0b8b48906c67f6be53",
     "ae9d879a9a9efd5e062973cd58b3fc4fecb6b42828690f8a7168933a3183901c",
     "34bcbf47d3207ae9bf57dba814d0f1e1985758294612b84545e65a631480bf3a",
@@ -8002,30 +7988,23 @@
     "c9c6c9faf1c5cb1bd80a250953fee88027e556e00152787a45de30b04b8949a8",
     "9103a4e2990cf600915c85a9eb617ee2f623b0d1c24d8848313f907c26ec165b",
     "8587d31bd7f4bb795e40a7998e35287745d921e43f2b9158c7b25d514829c871",
-    "c5c99e369f728e0b0ae80f7aef4dc67b4f4083524cec85a344d5d84990bd24b6"
+    "c5c99e369f728e0b0ae80f7aef4dc67b4f4083524cec85a344d5d84990bd24b6",
+    "4c02920b8acbd4f63c88313cc217e67afd9aad5be21fb488e7aee3aa0747d488",
+    "c0713b5f174d13f641479e5a5f2958a51846c1cc9b832e27676a6b7540171b5d",
+    "4dd808569b934c38be97c3a348704c8d89823ca920e52c41e0222346e5e1ffd6",
+    "cd3f5ff32fb5260c327201f9914786844dc09b55c5a318e1f7607f9c7bc660a8",
+    "34a1c116ebc9fea935bc6c5f2d1cedb01b72b7d85f2d7c555dd433632f3eb937",
+    "42c3cf7cd0eaaa81002690ee5e088173358fc32207cd8ac27b757a8d15290570",
+    "b7c072986e0a2e3e50aa86f47d62fa54463eaa29a1b57d90e31cebce76c7223c",
+    "c91af80999c8b6177dc6799bd09aae583c213669dbffd2908948755c95997ddf",
+    "9f6d9dc383ab83e132dee4ee7b3af282f66fe23b357ee9b4bf14ca71624248b7",
+    "3ece4c4eb76c5d96589b981d1a86a88de0be92039b1ead76e2c22846d04d4196",
+    "d831e2f1f53f37fba33f21b19c6c826e42b7b1fbfb56bb1c605b4e3bb4360a6e",
+    "44b75eb356fcb35a52c5b6d0d2aeefefe4cb389ac544af20ab4f262085e323af",
+    "33ca01dac497a2bca54c9f5f5b75793923fc97825094d1b5658d6f224ce6e558",
+    "6c4fc8be6d2b3eca07d1ce1b064abe26b5fe19c242738d38d9d23e203c57e9e6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "BLACKSTONE REIT TO BUY AMAZON DATA CENTERS IN $5 BILLION DEAL",
-      "title_ko": "BLACKSTONE REIT, 50억 달러 규모의 아마존 데이터 센터 매입",
-      "url": "https://t.me/firstsquaw/193183",
-      "ts": 1794830227
-    },
-    {
-      "source": "이데일리",
-      "title_en": "엔비디아, 목표주가 하향…전고점 대비 32% 하락 반영-미즈호",
-      "title_ko": "엔비디아, 목표주가 하향…전고점 대비 32% 하락 반영-미즈호",
-      "url": "https://m.edaily.co.kr/news/newspath.asp?newsid=E03630966645646376",
-      "ts": 1794830254
-    },
-    {
-      "source": "Barron's",
-      "title_en": "How to Protect Your Portfolio from a Fed Rate Hike",
-      "title_ko": "연방준비은행 금리 인상으로부터 포트폴리오를 보호하는 방법",
-      "url": "https://www.barrons.com/articles/how-to-prepare-portfolio-fed-rate-hike-9111c38c",
-      "ts": 1794830258
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Hyperscale Data lifts preliminary Q3 revenue estimate",
@@ -11504,6 +11483,27 @@
       "title_ko": "Yushu Technology의 설립자 Wang Xingxing: 로봇은 컴퓨팅 성능에 대한 수요를 상상을 초월하는 수준으로 끌어올릴 것입니다",
       "url": "https://wallstreetcn.com/livenews/3201005",
       "ts": 1794886739
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "US OFFICIALS CARRIED OUT A FACE-TO-FACE END-USE VERIFICATION AT MEGASPEED IN JUNE 2025, INCLUDING AN INTERVIEW WITH CEO ALICE HUANG",
+      "title_ko": "미국 정부 관리들, 2025년 6월 메가스피드 본사 방문해 최고경영자(CEO) 앨리스 황 인터뷰 등 대면 최종 사용자 검증(EUV) 실시",
+      "url": "https://t.me/firstsquaw/193366",
+      "ts": 1794886888
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "US COMMERCE DEPARTMENT CONFIRMS JUSTICE DEPARTMENT WAS LEADING THE CRIMINAL INVESTIGATION INVOLVING MEGASPEED",
+      "title_ko": "미 상무부, 법무부가 MEGASPEED와 관련된 범죄 수사를 주도했다고 확인",
+      "url": "https://t.me/firstsquaw/193367",
+      "ts": 1794886896
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "中稀有色：对明年稀土市场行情持相对乐观态度",
+      "title_ko": "중희유색 \"내년 희소금속(희토류) 시장 전망 상대적으로 낙관적\"",
+      "url": "https://wallstreetcn.com/livenews/3201006",
+      "ts": 1794886905
     }
   ]
 }
