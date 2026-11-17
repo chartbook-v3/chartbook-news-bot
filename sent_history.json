@@ -1,30 +1,6 @@
 {
-  "updated_at": 1794911511,
+  "updated_at": 1794911668,
   "id_hashes": [
-    "5926369fd2817492706376e2a274878796936aa44acccfdc037c8a90c3e5d2c4",
-    "96de5062d1fc2015b1357e978397604dbc6f509b3a9840e4e6e831adc67b0206",
-    "5721fb6e330224f037624f397ff6f1b3a0d20fced71b82e513f57f14260405c6",
-    "1653ffee46cd9ed9b2f5a1a6cc094682e1a8d9e36c5397c95e8d5ba1910303e5",
-    "00bf9924cbd69a813ceaf5fb403139e92b03110bcb272897a39b29d42dc99851",
-    "567358a901f9cef580233976b933ab78f53c8535c9b431e7552f2ff1d17d1fb1",
-    "1dbbbb42a00003649e3d3da779956cef5a7c425f56f898cb2f295b0b3ced2946",
-    "ffd3e39b83e1907606aea96b8103d8e796481ad9466284dba1df60d0f727d686",
-    "2fe35c1ae33f0bff71ff86bc1a410d4bda7b7acc562bdca55441742709ebf313",
-    "cd98b3bba536bb821ff21a7d67567b2c0dd722fceb973eb5a7ed0efb5c85faf7",
-    "3b32255dba91ea972afe66555f7946692d6a4aca8e2b7669a4a1c7652cdce978",
-    "e15cdcb70a73ee21d99c43825557b9c561197c274b75e2b6d10db879b2c378ac",
-    "b89a55ad557ce1afad442522b5fc60b4f039d10aba4279315f07b76a15951ce3",
-    "f576c1ebf66aa85eff98a6f5513d705e744433e4c1cf4157aeb3a2c28bc8774e",
-    "5b9e55190aff647d4cdccda9503b8f178aee4b03d13931f887400bf193e4f541",
-    "9b905791e47b531d6bf5789ab706018fc8305c1ac6fc47ac61e7bf9f15b646ac",
-    "09b413a920d91e029bb42a77f7b3b58a1cabb8a5ead9804ea6c2eeb887d81b26",
-    "ff953893bebb5a8710d5718f56f10c060ec8b5caf7ea6e31c0c95273b28eee9f",
-    "ac7cb5a02f715be9f69195a6b1542ff3fe48ed72e6f0b69b7d988c5a2026498f",
-    "a702ae7e6388a35b9ee54f7aa68216b73fa3349ded223d86c02679813ee40099",
-    "659dceb4cde0fb2f4e8a536f9c7e60b05387528d6cec1e052141155b934bede7",
-    "476fa9b74f3cfa3a6d289b8e081c4ba895588b8a3bccef60678abc580716570d",
-    "f275191e5c068b43ca1841d2fdbdcd0478bb8be46af5b4ba268b2dfd81b581d1",
-    "78a837a0eb915958e8888a2a81429205ae9920cc77a5435b5c8f892341ba2e9f",
     "b09cc7cdfcc2547f1ad861d8b41d3b3398dcec58dd4e3094f26265cceeed5228",
     "d1a54fbe645ecdc054381f27475b31730d0c0d2a9f2bb3c2e140158fa8e99cb9",
     "d87f4a6f4689157ca3693dd57c62ec112683910d3787ea32e5a35272c9e8fb7f",
@@ -4000,26 +3976,33 @@
     "e8ac8725830145260d1044baf398a8c4cbf901e9c404c6f3765d199866abc6fb",
     "afbaaff8251bbc66ed57ec82aa92a6643eb11271257fccbb4955d43b86b83178",
     "49431817b88578d9a2873218001385318abc8d14c56e46f71369bd63a9b5380b",
-    "735a68463367a8932caa6fdf84bd60617474d5eaa7251c69afbc03a99c7bac70"
+    "735a68463367a8932caa6fdf84bd60617474d5eaa7251c69afbc03a99c7bac70",
+    "689914f5ed5b968eb99fa526684633adc0beea1a8a67d35e493951be78335fd3",
+    "ada5ab88a8de8cabae1f5748bd6407dd4ac2eaa385f240da67ded5d821c0d30e",
+    "ce97d9ec29c02428d59c9cd3b7138e16b9a95392b8b4fe0caeccca91d7c250a4",
+    "e51868975ce443f74c2d0d560683a87ee9e9b0e77e6f4a141eb26dc135766e71",
+    "7c9b28f5efdf6dbcf140b3361491b7ed9ab2c4f4f0dd4b784a4d830bcf3fafdf",
+    "6c2edac3432cb3dcc055be02e9eb5361078af887f819686921ec84cc87860a07",
+    "e5dc7513ca617be80b08fcb90c996f25514c8935cd3b2a3287f4d2bf82f6f513",
+    "0c583254706a5293b7b5976c63180fa474aa2b3d02636c4d5ab8f20457418e00",
+    "f5f57b391cfe9eff6c0a407beec0fbbf340934e8b2b03865bf7ab35ad7ca9060",
+    "d2a0c15a1e591d9421949b82d0ab4ab6e0ff13b11d3270bf834107ed724e237b",
+    "bc5cbc318b9af5c02def050ea26d2cd2b9c0a376eab1080871c1606d3493f6b7",
+    "3f27f566b1c7fa31347080808d3f7460101f6a3fd639c031d9af586c1bde81de",
+    "45bc179cb250dcced017f51d6ff8f91f1352dec0a635dfc37ae182872542acd5",
+    "0bf26bb9710807dc83a737a143128ba277fe9cc87b92f7692eb0830fc30d3604",
+    "8a1a42b0f189d1bd9e0decf17d68cd7689d750c913fdf1a98c59b200fc72bda2",
+    "976919ac202fea1095e8d6135a24dec165f82f330fb938fb0c4be49f3d3616c0",
+    "7594feb726e9379ad3ad3ae67eb3190e596ea40aaf9762b7756d581d11c04e1d",
+    "dc13796a4850408b0a63e25a7e00984c96356c94d5860e3acf6287497f6bef69",
+    "fa2b671d11c575abb75dd868f65756a0940cf6c7e9ba7938fd3a6d912ac7d944",
+    "fe2fdfa72cc64870ee26c97f6d145a1572f39951d8a0909cebb3a218db5bd8b3",
+    "30bc8f7db8dca310a1b519e83eef1cf209f143fa2942a1f830f1f84de6d648eb",
+    "727764fa08e8fb0642537eba512e5082f69af932ca73d2ca1fb69839b2680611",
+    "399187de5a163d2348206d563a3d86504ccc10b9ac4d9d291cf073d9707d6c87",
+    "6e0e00614ba74c1d1957b5714ea6c0cb713bb260e42780db305ece64e707a488"
   ],
   "title_hashes": [
-    "c8bbb83ac5a9418bb425ad8b2765b4a5a59bf7d9dc0f31059cb302e70447d5aa",
-    "fa5d66da511c5b4174795b8dee2e10490193680e09a069afc9cdbbe780c4447f",
-    "483f251a5f794075a753bd8a4d2ce5498c6196f0d19c2371f8e55b09c4a21549",
-    "05660e964d126bd7f4223eb4826f6101a1d37eba016c82836b7bfc7e56a1a4f5",
-    "e6d7d5a04f9216340ab934ae0e7fa18ee5e46bcfc7fb80c95a01356692e9be7f",
-    "631e4275f7f0b93d6be0626e1f26931bf4dff943ae5d099f154dae0e2d61486b",
-    "0a4eb368910e2e115afee4519817f400bcc4590ba36b6741ef434b9201fbf609",
-    "7270cde38cb3e9501546f36670ec457ed8f79fcea1cf0fdfc7b43ea5d13c75cc",
-    "a3cdac384dea6853c71e018d7e83b8293b5f0789b7e800bce1dc01f74f8bad1d",
-    "79e872b3611e10331dd6319666c2cdd129f3cd1f5fba6fa9498c8e454a551099",
-    "2ba422d5960956349319d745d168934a328a886cf0047e9e58df537d7b8cfa67",
-    "f1f8eba9e926ccd0ce4fbabce1ce3a231676a2636bc0c3ac093f403b2f19b1bb",
-    "b29e13706f5956f09d11f0d80a41938c2900368e05f9183ce539fe01618f35a0",
-    "f5410a9008a28228394e25888090f027b9c189b757234dee12c5d4d8bbad5d3e",
-    "84cbd87cd519aec0cc551e0ac66f1234b789c16ffd27863c6fd5b6b2b8ff9502",
-    "dbd0e435cf4f8f82506a8ad5e71826fcfbf3abbdfe72ea340e37b5dced2b4c4b",
-    "d05f41b8f5d331116398d79fe983046d1143031fc4fb4a95de477a6dea235e08",
     "2c1be5174e0dfb36dae210910ce3c5df155c256c2ca03151e6c4eaa5cf373ad6",
     "e0a2fc648d114e6c5e3c8364ce004170afe24b9d9a92d6e9b51e882ce3074a3b",
     "0797100bf59aac8868b08502e2711adbe6f6d670203d1441273d321de19fce99",
@@ -8002,44 +7985,26 @@
     "823d74a0487e0953bb6612c22f11d47745f59228c7285bf4e8311bbc7660abf5",
     "1f42867ab2510864727d9d477b27c364ceb4b526f824fe9b6620ea2f50eb1626",
     "3ae51602602cb1bfc55b8e3f03d384e5ab795bae30ee0a8e20ce3b55b3de68ec",
-    "257b2e6ab4e6512c3db934d565ef4d5a47842df8ca7b94f829cb9c480f1faaa3"
+    "257b2e6ab4e6512c3db934d565ef4d5a47842df8ca7b94f829cb9c480f1faaa3",
+    "75403d691fe5359397095a2eb977a66ea2cea950e34ad5682e3e06af1051eeff",
+    "e70d00115cb0be8a73e75e3e5864bb5f723b4b75cd5626cf925b3c129d1b2cac",
+    "dbfaa4bc00bcb0800c6d80e6d6eeb9fc8ea7fc82e26eacf1237e40c1fb76e00c",
+    "59309d1f057cf14c94ee85730b3fca4beac91b02a43a756bc0778d5685cb0444",
+    "3285f6285399ad4934c276422f6d2e0418da9dce3acf014f26a5471b7d71a87d",
+    "b473dc9cdf832c3531a604f0ab7c37541e57d129d8f7dcd005f4a8d311db8220",
+    "32c370daf2835ae18ed55439acb1bf6c596d49f1931cd56ef24195ee8e7962a5",
+    "e9f3c18c1ddbb7cf7d0c891d9201a9052ce2f0903f05232660f675577c998414",
+    "6959a95c8c8f5ab1fe05d89875f44a71c790b1a61bc3b6d8ca2de77a1dc9b1e4",
+    "7daee0cd8606087dbf114de70c549150632c78a0d77b137da7af9a1f21279e0e",
+    "87502065c31b21751d5ed929e0e653aa6504fb1bcd5d455c400ece7ce80a44cf",
+    "28107a7ddbd6edd8a444217b13e735651b4f7122ae35f91a1e23b706786203b8",
+    "0a8f82b2df60110f86e87253bba39ddf0fdc827fd9c482c5fbbfd203094a271d",
+    "c03ac477498b31ba858b0665164dac9c8c1b40493152c4f5b75ea2e2e743215f",
+    "7b84bf54fe032999c0ce666aeb732825033f02ac696e1c0a84833cf33df8c175",
+    "ceaa9f3600111d7e243dcb5992c6cc7251650641c4a93e6efe95c09855c39fc7",
+    "26cf50adb23db721dceee9bc0a9cd89215a576a9e75430a0919697d29f7e095e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Aviation Expert Warns Against FAA Upgrade Shortcuts",
-      "title_ko": "항공 전문가, FAA 업그레이드 바로가기에 대해 경고",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-16/aviation-expert-warns-against-faa-upgrade-shortcuts-video",
-      "ts": 1794875587
-    },
-    {
-      "source": "이데일리",
-      "title_en": "[단독] 부실 기업 무더기 퇴출 칼 빼든 거래소...정작 '파급효과 분석'은 깜깜이",
-      "title_ko": "[단독] 부실 기업 무더기 퇴출 칼 빼든 거래소...정작 '파급효과 분석'은 깜깜이",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc3AwVHZUVTBfdWtJRTRScE1uN1F6b2ZFb3BqV1l0MnFfUnFoamp5TVg5ajdwenhwa0hBVEJwZDdzRlJDdnA0amtraUgxdTlDZm0yU0xHWS1LMUpUbHVzell0bU93bTIxX1RVc2lfaEE4ZFp2VkNGV2NmUmFTNEs2ZA?oc=5",
-      "ts": 1794875590
-    },
-    {
-      "source": "지디넷코리아",
-      "title_en": "플래티어, 3분기 매출 감소한 대신 적자폭 개선",
-      "title_ko": "플래티어, 3분기 매출 감소한 대신 적자폭 개선",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6SXhkUFRYQVlGOW9URFhKc2JEY1RZY2ZjV2lxWU05N0NNR1FQcF9WWFRSa2pxR0pINHNPdERsZTJYQm9VUlpqc3pCSThFczBoMDBYTGl3?oc=5",
-      "ts": 1794875594
-    },
-    {
-      "source": "이데일리",
-      "title_en": "[단독]상대원2 조합장 직대, DL엔 공사 요청…GS엔 \"홍보 중단\"",
-      "title_ko": "[단독]상대원2 조합장 직대, DL엔 공사 요청…GS엔 \"홍보 중단\"",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=02522326645646704&mediaCodeNo=257",
-      "ts": 1794875598
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Asia’s Data Center Hotbed Hit by US Chip Curbs as Trump Visits",
-      "title_ko": "트럼프 방문으로 미국 칩 커브에 타격을 입은 아시아의 데이터 센터 온상",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-16/asia-s-data-center-hotbed-hit-by-us-chip-curbs-as-trump-visits",
-      "ts": 1794875601
-    },
     {
       "source": "SemiEngineering",
       "title_en": "Reducing High-Bandwidth Flash Latency In GPU Systems (Georgia Tech, Nvidia, Stanford)",
@@ -11504,6 +11469,41 @@
       "title_ko": "Jiejia Weichuang: 중앙화된 입찰을 통해 주식을 환매할 계획입니다. 총 지원금액은 3억 위안 이상, 5억 위안 이하로 한다. 가격은 주당 70위안을 초과하지 않습니다. 이는 지분 인센티브나 우리사주 소유 계획에 사용될 것입니다. 전체 주식자본금의 1.23%-2.05%에 해당하는 428만5700-71429만주를 자사주 매입할 것으로 예상된다. 기간은 이사회 승인 후…",
       "url": "https://wallstreetcn.com/livenews/3201242",
       "ts": 1794911510
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Data center policy dominated the midterms. The 'Virginia of Europe' is the latest battleground",
+      "title_ko": "데이터센터 정책이 중간고사를 지배했다. '유럽의 버지니아'가 최신 전쟁터",
+      "url": "https://www.cnbc.com/2026/11/17/spain-data-center-decree-election.html",
+      "ts": 1794911536
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Earnings Snapshot: JD.com misses Q3 revenue forecast; Non-GAAP operating margin jumps to 2.4%",
+      "title_ko": "수익 스냅샷: JD.com이 3분기 수익 예측을 놓쳤습니다. 비GAAP 영업이익률은 2.4%로 급증",
+      "url": "https://seekingalpha.com/news/4673445-earnings-snapshot-jdcom-misses-q3-revenue-forecast-non-gaap-operating-margin-jumps-to-24?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794911544
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "German Investor Outlook Jumps to Highest Since Iran War Began",
+      "title_ko": "독일 투자자 전망, 이란 전쟁 개시 이후 최고치로 뛰어올라",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/german-investor-outlook-jumps-to-highest-since-iran-war-began",
+      "ts": 1794911614
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "报道：伊朗称三艘船只周二在霍尔木兹海峡附近触雷",
+      "title_ko": "보도: 이란은 화요일 호르무즈 해협 근처에서 세 척의 선박이 지뢰를 공격했다고 밝혀",
+      "url": "https://wallstreetcn.com/livenews/3201244",
+      "ts": 1794911617
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "长鑫科技：前三季度全球DRAM产品供给紧缺格局延续",
+      "title_ko": "Changxin Technology: 글로벌 DRAM 제품 공급 부족이 첫 3분기 동안 계속됨",
+      "url": "https://wallstreetcn.com/livenews/3201246",
+      "ts": 1794911667
     }
   ]
 }
