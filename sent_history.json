@@ -1,10 +1,6 @@
 {
-  "updated_at": 1794957057,
+  "updated_at": 1794957217,
   "id_hashes": [
-    "d0819c0a879047b5eb607d231e67d659c1d5259eef6a3045e7c6c95655a6c1bd",
-    "ed07651d8402db377f69c4640bad0f9643d09b9ff74073f9b4a083f09b4d09e1",
-    "2734e71622d51bfc6d459551cb1fea369e8bb93291e30315c44b2c9e707eb84e",
-    "4ecf245908ebd902e22879e3aa4b1b2bd9154768275a29ee315436bbeb57f94a",
     "e293679a899c0dd5739df66c09ebcec008aa1cf7e03223be0f0abce33f68ff92",
     "cb6fc401f2684f0c2f326f750dc8f8214a6c96c818ff8060c2eb3c36bdde3abb",
     "2b521b4c16213c2ab4a3e34c38dc345e3b2ece171dde15e18ef0a8099855ffed",
@@ -4000,12 +3996,13 @@
     "3fa4d625545b68c368f04d4164c219fe89682e26b89590aecd8535fb138b6f31",
     "df67255b2d0f8f8cc2a372175b2f6fd95c1c63ab5669e85f8b2d3f8c859f5d9e",
     "48bd2b46def82d94baa883e205b43a4eec3d3c70cdf5c77867d0927d22500637",
-    "31d1a4fb6fcda7bbbddb22692572c9b5e812053c3af882e1e613b836c20e2bd6"
+    "31d1a4fb6fcda7bbbddb22692572c9b5e812053c3af882e1e613b836c20e2bd6",
+    "90bb4d30c27e8a000d301ca996a7cd5df0b95db7dded89bbc850e43bba1ce1c8",
+    "271866267cb5120d8145810b1b9fd47e764599008016a1a80acac299bbe451fd",
+    "daa4708cbe37b3c8c397c22ba8135f40af9d58f6e736ca30210d495936f7137b",
+    "e9bcdcc1223f294c7bfc3ba4c24ddcb365552d6d22a27ced0574f8faee5f2ee8"
   ],
   "title_hashes": [
-    "0fad717b9e45b3b6e374563868a15a35a9a0f5ce722d79d5e9557f5a4a49196d",
-    "996695d02e65ff872438a6a7cf0dac692eda299ddbc4d11c7a4f89b6089011bf",
-    "973481ba81b4b3de91badc0424a6d9f318d3be2526ed252cd1a8583b68cfa5d2",
     "7d61cba05388536624635b769a117f67d2000fca6f4c787cd136d65a5104d471",
     "8b8f048bbc14a9b42442f7c45a0a94b63a20fa8577075f02859020facbdb7fd2",
     "badc07eb3913892515a151180f0a7993a822183e6761f25666154018c5c91b93",
@@ -8002,16 +7999,12 @@
     "b27822d4629faef56c99704d42b13bc1506b0016c337db9664efbbc93065a5d4",
     "f152c3e14749cd82d9298dd8653db0c3d551dd1a3be65a0d4592b3e5e5c09288",
     "3634a2ecec7ba281e08368fcca7926d7c78deaa90b01e8f861e08662c9784afc",
-    "6dd0b3309d7ba1409350886a3d0c015d6cc75ec317604321f73ff5cf5d858880"
+    "6dd0b3309d7ba1409350886a3d0c015d6cc75ec317604321f73ff5cf5d858880",
+    "f116a300e17287a3bcf9555e596df414f88991242bd6c20c97961f2d42bf18bb",
+    "b4ae54e1a9fb7dbca4121c89145dded5538ab7ea3b9d1cf20c308e8fdf007776",
+    "0203bd8b14e9208d162f4ef51308f4ab95d009d935ea09e6d27a70876e57cef1"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "JD.com in Charts: Q3 JD retail revenue up 3% Y/Y, while new businesses drop 49.8%",
-      "title_ko": "징동닷컴 3분기 징동리테일 매출 전년비 3% 증가·신사업 매출 49.8% 급감",
-      "url": "https://seekingalpha.com/news/4673446-jdcom-in-charts-q3-jd-retail-revenue-up-3-yy-while-new-businesses-drop-498?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794912144
-    },
     {
       "source": "Bloomberg",
       "title_en": "Apple Watch Siri Recap Review: AI Listening Adds Little Value",
@@ -11504,6 +11497,13 @@
       "title_ko": "i3버티컬스, 반복 매출 증가와 현금흐름 개선에 FY2027 성장 가이던스 주목",
       "url": "https://stock.mk.co.kr/news/view/1201177",
       "ts": 1794956909
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "英伟达盘后涨幅扩大至5%，纳斯达克100股指期货（在亚太盘初）涨1.9%。",
+      "title_ko": "엔비디아의 상승폭은 종소리 이후 5%로 확대됐고, 나스닥 100 주가지수 선물(초기 아시아태평양 거래 기준)은 1.9% 상승했다",
+      "url": "https://wallstreetcn.com/livenews/3201573",
+      "ts": 1794957155
     }
   ]
 }
