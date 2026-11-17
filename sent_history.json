@@ -1,19 +1,6 @@
 {
-  "updated_at": 1794910401,
+  "updated_at": 1794910567,
   "id_hashes": [
-    "36eac26e20c0670d85cb366c2a57eb8a9f1b4ede9d3a441213f14e929b434c6e",
-    "30c107d234e1680cd8d7629abde660291b62f9a1802bcabef0f29d6f75143f44",
-    "f236b8d3c4bf5c07f4af5ffcb62ad03280d3cccee8b8d3936a258a81398c92a0",
-    "d966517ed7103f3296f87328e4fbec803e9a2605f04e7e9073856e5335512260",
-    "663bef1cb4508776716cf6f48e560dcae95d45e53c997cd905261a474645a124",
-    "00f8daf53725d57d6a827a60f217ca1ba73fbf079c3a8d7754552c15d46d6ba7",
-    "e1679e90b3d127e82b5269f529aca6f994f86517199a2c65f0f1a04af0d3550e",
-    "deb849202614dee8b4a2c7f0752f0fe137a31ba0a51fd62b422e7e0219f4c2d8",
-    "e3115ded3cdd3b5b64a4e1a33c1515fd8d2b36ebdfd506c76edf28b44c58553d",
-    "f9cf7ef048bdd794262e0350d20e6fb859a5377061b6a5fb6558f2e8b184472f",
-    "f77aeb88443ba69653093e8525cfbeef194d0b0883ea88c923e2bb7f39658de2",
-    "51a8b5cbbe343817b295c5dc8d36620e935fec2b67aa72a802d3a03f15244788",
-    "c21dcf1459fcaabcc8ab9cb542feff145d3b1d8f50a74995e2bbda3852dfe6c6",
     "8c272861b4ad22e5b3ad89d36eb368d20e03b979820ded693f92ce6e8fe75bd0",
     "683952aa0bd5d4b8b0d54eb154d9862b3e0f65a91d29469666ebc24a22321463",
     "7a3dbbd76c25b522147b652822404b254ebff65e056563b4282f00f0f5a5f9a5",
@@ -4000,18 +3987,22 @@
     "ce4c5d4a351c9b782cdef7acc2aea24008b915dee5cd98c85cac391982242d31",
     "8599eda220d54513a2cca032131bbc68c7f2b03c2b6b3e809715f16724518c03",
     "fbbfe02117daaca76cd0301e580f06927fa030415bad4ed3f4ae8728c4eea4b8",
-    "ed1266a8c123b28d378c4876d01644958ce6e90d3c038fd4afd58125fdb3d01a"
+    "ed1266a8c123b28d378c4876d01644958ce6e90d3c038fd4afd58125fdb3d01a",
+    "47b451b2bc6e95f53fdc7708b6e617e622d7a8559456e0f0a92423a4892be352",
+    "af69e3843ad33fee2503e9aff0f2a254a8a484226a0dc5a866348b7668219c41",
+    "f069f343b5dfe8b6a25ab217f16a27ea2b8364154726fc6c3a9b73f8427e107a",
+    "d704bf3d1c35f0ea96ff743f2844efde3599a4ee8265bb91a9fb3a996ee08b2f",
+    "f91cef679b3c54ccf614032f7ff708c1f8e4a377fe6fc5afdcca47de8524b1be",
+    "a2a6d5ce904bc98f2f2079f608d16e46a27d54461833000f59921e6fe78e1960",
+    "ab75f285cf235d613b3d83ac845568b59c355534598cf9cdc5e9fcdcf63cb816",
+    "2e71e818b35cc6c5fdc682549e7aed5f24157d21d53e146f25784aa70f09a4fb",
+    "caecaf5bdee042a14196059a00ea1da91fe0950b9272e5dcab64c30f6afc7170",
+    "009ef6697c5c0c24c57c6537a476670882da4985db5b81169e1d8e4a9574bf86",
+    "6d842514e0d0cb4c0dac6d93ca25c80dd054953fec09dc4d35299caf214b2e92",
+    "3beb88180e63e389992c54910d7b258f9da44120b441b1131da41bbe3d6bc320",
+    "b2ad0f935572db56c8c26c04e64b5ff57612c0f0d63f874fe0731d28bfaedfee"
   ],
   "title_hashes": [
-    "1445752cf7b8ccdef905b19c65f5c48e6f7b4f9cfd5a62727d60fef27fd1ba3a",
-    "bf2e239f161b4bea7ec72206276c9bd59fb49bfd4d82d2a267d0ea0c3a4e4c63",
-    "5d6dd927de0bbdbd64195062db1889b91236fbde72e9d22347bc570ffd7f6f40",
-    "452fd472dd15380ff6101ddf04e7d1bebff7608502fc5971a5b019a8973d2fe2",
-    "3cb91f15cbe3ac9c1b6de57a9fbb591c526128edfcdc052d7c742b809f3011e9",
-    "da58e54a36b72982b60d7389842fc79394cca2f0a595af8f74412e778ad7ebe1",
-    "1e3096ebeef241205372d462dde8e781abc947d23be53a157d8d751109454bc8",
-    "85a3cd915ec759b02575f69c9759f88f45151ad9991c3eff4ca1a22f3774afbe",
-    "bab90a5bcb993cf719b96af7708d31c527856b04c775fa1a0c4ee0286b189905",
     "2562cb9fcea52aabd94c0179f24b49e7146a4e024fa9abf6a2c188aff6894f6f",
     "3a30e7f36cd43a07290716c4747bc5b4e206292756c7070484384696b327037b",
     "f65411f7d02df624e11cb1ac441c186b258457f822391c89004b1e1436640d5b",
@@ -8002,44 +7993,18 @@
     "4aa07b7f7ebe153c52c83b7be5d28ccf0584d5b6593320463317322b8e7dc0e3",
     "62cecf71b212ada91ac87f0d0b2fc9e50315431a865cf725920b505625835ab1",
     "d1a223ef4e415a15542d06e7347f59576a086f3ab4537540b3a267cc8cd92ac7",
-    "a69912705f8c8753f1020bc9cfdf0749290e7d00a6d92b113a41425a6613ce3e"
+    "a69912705f8c8753f1020bc9cfdf0749290e7d00a6d92b113a41425a6613ce3e",
+    "b695435cc8bb58ab22cef54b29f3c8919fd8e83b446b4334b74a8e3f5ba7ba19",
+    "dc4e6784d6e67ef8c8e040ff3a1b96267ffa1f72622fa49f6a27db5aeb2c7e14",
+    "c02855777ed4c9f70cc6d9635008b394ca1533ce062f75902948a38b88cc84ea",
+    "0b0d10652f6b2358cae4f80dbd025366d4e662503b9324457e1a6b3f558eda9c",
+    "fb2d93fb25a828d0f1215895d2f9c099ce2ce03d2723ba51debff544f23423b7",
+    "57bfd2de96b3b1d737c6f64fff5a2a379a22c66ea3056b0959b76fff911a826a",
+    "f3759819f85c43d4f3505f692ba4a5766bf7c2521fdfe9d12f122744010de50a",
+    "b3e3ae7ff5f80eb0aef29cf30a22f7b8972c84c4e00e6bae9d939ba6176125a8",
+    "011950feb722ccc56b53bcfab621c550b6c40a5b612ca0639ff3905ace0e3a9f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "매일경제",
-      "title_en": "한투운용 반도체 ETF 리밸런싱…삼전 늘리고 하닉 줄여",
-      "title_ko": "한투운용 반도체 ETF 리밸런싱…삼전 늘리고 하닉 줄여",
-      "url": "https://stock.mk.co.kr/news/view/1200359",
-      "ts": 1794875446
-    },
-    {
-      "source": "한국경제",
-      "title_en": "[속보] 코스피, 1%대 하락 출발…장중 한때 '5천피' 아래로",
-      "title_ko": "[속보] 코스피, 1%대 하락 출발…장중 한때 '5천피' 아래로",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fQXV5NzRCY3JPV3pLS25ybkNxb1gxS1V2QkFJU2hfY2pUUlZ0OFg5b3ZKNDZMa0wzMkE3UzF1X1g5TWtBVjdmalJLZi1YRk8yWkN3bmpjdmRzZw?oc=5",
-      "ts": 1794875449
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "베어로보틱스 몸집 키우는 LG전자…키니시 인수로 피지컬 AI 역량 강화",
-      "title_ko": "베어로보틱스 몸집 키우는 LG전자…키니시 인수로 피지컬 AI 역량 강화",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445088",
-      "ts": 1794875453
-    },
-    {
-      "source": "매일경제",
-      "title_en": "달러 강세…트럼프 관세 쇼크 낙폭 모두 만회",
-      "title_ko": "달러 강세…트럼프 관세 쇼크 낙폭 모두 만회",
-      "url": "https://stock.mk.co.kr/news/view/1200356",
-      "ts": 1794875460
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "[특징주] 옵토닉스, 코스닥 입성 첫날 장초반 '따블' 강세",
-      "title_ko": "[특징주] 옵토닉스, 코스닥 입성 첫날 장초반 '따블' 강세",
-      "url": "https://www.yna.co.kr/view/AKR20261117039600008",
-      "ts": 1794875463
-    },
     {
       "source": "연합뉴스",
       "title_en": "테슬라 \"독일에 4.4조원 투자해 사이버캡 연 100만대 생산\"",
@@ -11504,6 +11469,41 @@
       "title_ko": "경남 'SMR 국제 콘퍼런스'…전세계 원전 전문가 모인다",
       "url": "https://www.hankyung.com/article/2026111725971",
       "ts": 1794910400
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "云南锗业：控股子公司云南鑫耀实施的“高品质磷化铟单晶片建设项目”总投资额由1.89亿元增至2.7亿元，增加8143万元；增加投资主要因设备价格上涨增加3433万元、设备配置及数量调整新增294台（套）增加4256万元、安...",
+      "title_ko": "운남저업: 자회사 운남신요의 고품질 인화인듐 단결정 웨이퍼 프로젝트 총투자액 1.89억 위안에서 2.7억 위안으로 확대",
+      "url": "https://wallstreetcn.com/livenews/3201227",
+      "ts": 1794910429
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Stock Market News: Global Stocks Downbeat Ahead of Nvidia Earnings",
+      "title_ko": "엔비디아 실적 발표 앞두고 글로벌 증시 약세 흐름",
+      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-news-11-17-2026?mod=rss_markets_main",
+      "ts": 1794910487
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "QATAR SAYS MEDIATION BETWEEN US, IRAN STILL ONGOING",
+      "title_ko": "카타르 \"미국·이란 간 중재 노력 계속 진행 중\"",
+      "url": "https://t.me/firstsquaw/193494",
+      "ts": 1794910489
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Euro Zone to Grow Robustly as It Shrugs Off Inflation, EU Says",
+      "title_ko": "EU \"유로존, 인플레이션 충격 딛고 완연한 성장세 전망\"",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/euro-zone-to-grow-robustly-as-it-shrugs-off-inflation-eu-says",
+      "ts": 1794910558
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "OpenAI Faces California Lawsuit Over 80 Rogue AI Incidents as AG Rob Bonta Warns Known Cyberattacks May B",
+      "title_ko": "오픈AI, AI 악용 사고 80건 관련 캘리포니아주 법무부 소송 직면… 본타 장관 \"사이버 공격 경고 무시\"",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63331958/openai-faces-california-lawsuit-over-80-rogue-ai-incidents-as-ag-rob-bonta-warns-known-cyberattacks-may-be-tip-of-the-iceberg",
+      "ts": 1794910566
     }
   ]
 }
