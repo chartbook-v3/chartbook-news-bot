@@ -1,27 +1,6 @@
 {
-  "updated_at": 1794955656,
+  "updated_at": 1794955818,
   "id_hashes": [
-    "c9082187f59586c9b4947a809acd963fb08b1593192868b7a7432236e774a469",
-    "5b75e715daff5782c5b48122ff573ed423080137bbb73489edc877947c30dfbd",
-    "0ecb28aafa3cea58ab1718296edf580128a092043f760c9aad9632fbb28c7f45",
-    "dd8e0c3af516c659f1a1a261495fcc911d33bbfcd213609b0b7fcf0afdd8b0dc",
-    "b4d9f7e6ba0132bf9b331dbdf16cdbafb63a766ea02493c99a9593e78e5bbcae",
-    "7addf70f1737f3dff65ef81816f850c154c8872d974781de044333b687d5a7a2",
-    "d5295c17e53c01dce18b35b7ecd1235ddca3e2e3be7a42187e940c63fdbd774b",
-    "8fc8321c3240261d164fef38dfae75cad9df6734677491de678c8246c5348eb8",
-    "3cd97f29fed85b984ce11f7a0150a5a53f5c9fb05c7bee55f7a0434a0f5d0c0b",
-    "212d9b908051a306710a916f0e3b7a654f10941705c820c320305ab8681a9eed",
-    "d881d1fc841366bbfd58d10dde76bad2aa27f9ba753017d59bc5424aa63561dc",
-    "cfcbb69d7109c0c1dc85d1eea96df45382902e419d3fa09c28a23ae29da5e591",
-    "a8fe2478d2448f888f413135548e69f2031d55751bc45e1162b020853bee3932",
-    "7f4156abf6dd5bc5538edce3be1a921efff9e5454dfc559c3b77f4beba981741",
-    "519492f321cbf972317165d6ea68ef3c8d6b13096061be0c1879998aad93e2d4",
-    "751149500871436c3185b7d328dc75e02f05350361ab93e48e2f8238be6de331",
-    "ac2f2838bb7fee458ecdaac065c2ba72ca1a1b58a87caf028f9d0aeb3a96a411",
-    "98354990ebcb3abb07a71b0c7a67326275cd5efab309a27bc4dbf827cd4d3a44",
-    "48bc2856da94bbfd3b526ef47516300f6acf57dab6bc2bf68f8696ec96cb1b38",
-    "91f4b16cc2f6fe3f6c931524c906b3439ef474c6e02af048d017da2797d61709",
-    "5492fe7eb91c658a2ef16a9154175e3e0a1cc9d42b789f23af8ed5e60fd49970",
     "84a4afb5d0f511a795f6513e912b74c07705f57e5069fa8adb0f0ab073b85e31",
     "05032ab3ea05e470d0eba9cb0488a8fe44d328e49db496ae69f936d997a9690d",
     "b44063d11e468ab93975d6f74b5f857b3868111f7731838d42b4f0f24662cc4b",
@@ -4000,23 +3979,30 @@
     "7515568f7bcff358f9f762464046e28e12ff32cbc30d236250e5f1e08f3c0882",
     "51ea253a44f730d4ddc80b1afb3f21fb686866ccbaa460113ada848089432265",
     "f21478f7190e8bf015e0d9be43690baae1a8ccb37f99872bfc2c6135088fd8be",
-    "10b550e0bdcd693e614bf7bf3da28363e790e7ca27d0f504a21091683fc973dd"
+    "10b550e0bdcd693e614bf7bf3da28363e790e7ca27d0f504a21091683fc973dd",
+    "f2a498b22460c0dae07e0881bc67554dd013557d57cc563c6905c9b125cc200c",
+    "0dd40c6a021e212da41607a5b1924dadb4fc2f6dac299928c0cc4d2f1aa020ef",
+    "d54c59bbae2da1dd349f0f576796c658b5c71f5ea74ebe781556bf3e045f0955",
+    "fe6b5f0feb211d489a025b5077961f71484fd70b03c817c6121a25ef1ce8542d",
+    "82083e115157384a61f2329330d9058dee6f83c9dc16d03a987b76d164aca711",
+    "6b8be0b8a5c538a6ccc8adea98937e8cd90fd98896461285e4803fd12d677288",
+    "a51d7556411e674cc59e8236e8addae702ad75b9792ad85470c2947231945c6b",
+    "0ecfe54798218ef21443270aec3cb71b71e705edff5f89020c045d412c9b294f",
+    "dc2cf5fe3d3358d1a23d5d8e6aa303d3bee844a269f6fc70f96b7fe69e8f3aaa",
+    "ceb009cf18ef80a8a047231c6b719cfda9b709514b1f7c9b724d781d5c3618a1",
+    "11e032900b0a6c0edbd7c4f0691782e5a836821d2e346c6b566da395c0b49cef",
+    "e29b1c32868e89e3b8946b19dea6e17dca67db52681950745c93d88437d21774",
+    "32b6405c5e40bd12cba6b606ae118c1f0fe97795a4a112afe226ccbccdaef12d",
+    "fe6073fd4d312a51f17379c561eef981cc0a1553a6b0eadfa31f7b09f9649fe9",
+    "39138254fb2f27e3c3ecce1b7c38b92acb242f5bdd3ab2b3b6bf369993f15a81",
+    "f26ec6aa76edb3b06160f8a0684c9ee84161370fc325d81fc8820c57cc2a1ee4",
+    "a9e765ac781bf7e767ac3db7424a7038cf56e0b0f3a253bd9be9fd62ab37aa0f",
+    "7aa3c58a838334fddbc70904ccbfaf4053daa9d7ccc084a881dd339a8f134e26",
+    "92a9f6069899e64401b1da64e154491f3bc378f00f1b2d53b5c76deeba4188b7",
+    "22a4ec4e1a347f5466773f4f4a343d9d17575a872b0cfe8ce58107ed4077dfe9",
+    "0a7cf83c1b488c54d9c72becbd5fbada331bcbd6d2b91b2b5ce1a12f04035128"
   ],
   "title_hashes": [
-    "43744cbce7d47cd1fd607b281b2eab27902d870aef13768ba5d46409e74a436e",
-    "e69b0842a9543b6209f422501afb1e9d4d17db5f6d3023308c2b50d705f2b944",
-    "de0fef084ee3bc9c21c6dce8c3f0076e570796228218d2ad92f8b97f30cf4f7b",
-    "4f410a3aa6d6a78d0be82b77b781265f384792f71a186240952482694bc163f7",
-    "cf57855f5ad41a21e2b7253d27a9cb2a59b0c19e83f60bac40fb9b51a4cdf0c7",
-    "a58cba90ed84849adbcb8f971342e91746a914ecd9bdc041e9cf78189456d462",
-    "c665a1cfd770cd4c57d66847bf2e296896180dc35a33cc68d617428a568fc483",
-    "9c9a2e905ed7df7b0073ba2aa41235c9e76bb0535d58eee03e72b1aa90912b79",
-    "784ba198fc203298539614854fc27fe039d709248d47a6bae1dcbf1c0e86619f",
-    "4cdabacba360b0a18f821534201beecc7e26ddad904c5e395504991fc88a3e82",
-    "5d1f7aafd00d0ae1be73d26c2001023e527cb8c3c6c1466f482f9e999215b360",
-    "f95f2a39458fc40cb73ed458a67878dce2a06a97ffc00946e68a8f418bc9e138",
-    "005066ad6406455a3b9f3ecc21b2f66b7e04b7891d4213ae812fb5c7252ac699",
-    "8378c1b9dc0747e2cd1250580373d5d59daae116976e52c9ce75fa20c9c89b8f",
     "5d00919fbcaad86b95de1094fe3baa7cf2ba3198d8785504cbabbc89f38150e7",
     "ea79c2784d348cc9be70fb05442b8ae0ea4280732f98427232e74b9f7b635059",
     "2a944861a88418ba8e6f207e83892829be4b336ad06de0acca710b333657ac7c",
@@ -8002,65 +7988,23 @@
     "0a30621fe977c48efe209b4452650d68860c8731fe06d97be0e0fd052eb6d060",
     "8b817f18dbf094092f3dfd8345fa7d96cafdc3ecc02f9a7ed6f145e3dee18e22",
     "d894ab9b789bb76fd19acd88ebaf6b1190b984dd9d0e069364f91f1bfa1e152c",
-    "4e8d22e99d9555c1d5bba63a13106e5a4d4a0a979a2f2768e7731603cb9f60a3"
+    "4e8d22e99d9555c1d5bba63a13106e5a4d4a0a979a2f2768e7731603cb9f60a3",
+    "414e32e45d1b266bfc5d1f3a7a34afbd5864bf1e1a0dde958e6741dedd43a4e7",
+    "b4e3bb8a36e683688e2f7454c32b485acf83f04a84c5fa41298aefe824e16a49",
+    "d8036af0e3fec99e1aca6b1ccf2586093bef18e15bef692888e337edcfa31e1b",
+    "e65e6290945ee40472629a93bc643e7313d3643d46396da59a64bd4054ebdd1d",
+    "45fb07c54f318b032bf6a5402beabbf54c7b4db4f4b582d8fe3cc91b755b4a09",
+    "8d31858dc8789678f138b9d2689527e8b81806909cc6660f0f919aad5aa88804",
+    "e592eb79a1b76804d972cc27aa7ace515875881d38750787b1265eb6c1217770",
+    "05024294bc466673e61505f0c411acd145b0b9ed0f52b16561113097a3bba4ce",
+    "d06c110a5ceb591a0b65eb6d33c9ea97d0c987543a4f200119edcfd0675bb4a0",
+    "5c7195a60134a6bdf247dd35cb68e15f31034eef62bbc2ddbc47a84f7511a08c",
+    "d57506455e7dfe9c35b2149d8a74d662003068f6c3c3968301236337500375fe",
+    "a27e236ba232f9d54ea83eddad27b0063d44f9455d6dbb895cf7135ede41c537",
+    "68580e4a9dfe79687543256b57f0bb06b7d8d1b891db501f57ea5853c47aee80",
+    "1b2d6a9f0fd45d93f6efe937a1dfc372f6035d4312828ac9c8c758fbdc057476"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Deutsche Bank CFO Says Data Leak Stories Repeat Old Headlines",
-      "title_ko": "도이체바겐 CFO \"데이터 유출 보도, 과거 헤드라인 재탕에 불과\"",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/deutsche-bank-cfo-says-data-leak-stories-repeat-old-headlines",
-      "ts": 1794911057
-    },
-    {
-      "source": "매일경제",
-      "title_en": "5000선 아래로 '털썩' 2월로 돌아간 코스피",
-      "title_ko": "5000선 아래로 '털썩' 2월로 돌아간 코스피",
-      "url": "https://stock.mk.co.kr/news/view/1200813",
-      "ts": 1794911189
-    },
-    {
-      "source": "Barron's",
-      "title_en": "EU Sees Eurozone Economy Hold Up Despite Iran War",
-      "title_ko": "EU, 이란 전쟁에도 불구하고 유로존 경제가 지체되는 것으로 확인",
-      "url": "https://www.barrons.com/news/eu-sees-eurozone-economy-hold-up-despite-iran-war-d78d1b5d?refsec=topics_afp-news",
-      "ts": 1794911345
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "欧盟经济事务专员Dombrovskis：正看到通胀对经济产生第二轮效应。",
-      "title_ko": "EU 경제 담당 집행위원 돔브로브스키스 \"인플레이션의 경제적 2차 파급효과 목격 중\"",
-      "url": "https://wallstreetcn.com/livenews/3201236",
-      "ts": 1794911347
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "WATCH LIVE | PRESIDENT TRUMP GREETS QUAD LEADERS AND PARTICIPATES IN A PHOTO OPPORTUNITY",
-      "title_ko": "트럼프 대통령, 쿼드 정상회의 참석 및 기념촬영 진행",
-      "url": "https://t.me/marketfeed/1079452",
-      "ts": 1794911441
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "捷佳伟创：拟以集中竞价方式回购股份，资金总额不低于3亿元且不超过5亿元，价格不超过70元/股，用于股权激励或员工持股计划，预计回购428.57万股至714.29万股，占总股本1.23%至2.05%，期限自董事会审议通过之...",
-      "title_ko": "Jiejia Weichuang: 중앙화된 입찰을 통해 주식을 환매할 계획입니다. 총 지원금액은 3억 위안 이상, 5억 위안 이하로 한다. 가격은 주당 70위안을 초과하지 않습니다. 이는 지분 인센티브나 우리사주 소유 계획에 사용될 것입니다. 전체 주식자본금의 1.23%-2.05%에 해당하는 428만5700-71429만주를 자사주 매입할 것으로 예상된다. 기간은 이사회 승인 후…",
-      "url": "https://wallstreetcn.com/livenews/3201242",
-      "ts": 1794911510
-    },
-    {
-      "source": "CNBC",
-      "title_en": "Data center policy dominated the midterms. The 'Virginia of Europe' is the latest battleground",
-      "title_ko": "데이터센터 정책이 중간고사를 지배했다. '유럽의 버지니아'가 최신 전쟁터",
-      "url": "https://www.cnbc.com/2026/11/17/spain-data-center-decree-election.html",
-      "ts": 1794911536
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Earnings Snapshot: JD.com misses Q3 revenue forecast; Non-GAAP operating margin jumps to 2.4%",
-      "title_ko": "수익 스냅샷: JD.com이 3분기 수익 예측을 놓쳤습니다. 비GAAP 영업이익률은 2.4%로 급증",
-      "url": "https://seekingalpha.com/news/4673445-earnings-snapshot-jdcom-misses-q3-revenue-forecast-non-gaap-operating-margin-jumps-to-24?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794911544
-    },
     {
       "source": "Bloomberg",
       "title_en": "German Investor Outlook Jumps to Highest Since Iran War Began",
@@ -11504,6 +11448,62 @@
       "title_ko": "\"젠슨 황 복귀 선언에 엔비디아 이사회 압박 거세질 것\"",
       "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445243",
       "ts": 1794955655
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "TIMELINE OF EVENTS: • NOV. 12: MICROSOFT 365 HIT WITH A MAJOR SERVICE OUTAGE.",
+      "title_ko": "행사 일정: • 11월. 12: MICROSOFT 365에 심각한 서비스 중단이 발생",
+      "url": "https://t.me/marketfeed/1080078",
+      "ts": 1794955677
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "MAURITIUS HAS THREATENED TO SUE THE UK UNLESS IT FINALIZES THE CHAGOS ISLANDS HANDOVER BY DECEMBER 2026, WITH PRIME MINISTER NAVIN RAMGOOLAM SAYING LEGAL PREPARATIONS WERE COMPLETE BUT DIPLOMACY REMAINED HIS PREFERRED OPTION",
+      "title_ko": "모리셔스는 2026년 12월까지 차고스 제도 반환을 마무리하지 않으면 영국을 고소하겠다고 위협했습니다. 나빈 람굴람 총리는 법적 준비는 완료되었지만 외교는 여전히 그가 선호하는 선택이라고 밝혀",
+      "url": "https://t.me/firstsquaw/193632",
+      "ts": 1794955680
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "U.S. CENTCOM COMMANDER ADM. BRAD COOPER IS EXPECTED TO VISIT SAUDI ARABIA THIS WEEK WITH MORE THAN 36 MILITARY ADVISERS TO ASSESS THE KINGDOM’S AIR DEFENSES",
+      "title_ko": "미국 중부사령부 사령관 ADM. 브래드 쿠퍼는 왕국의 방공망을 평가하기 위해 36명 이상의 군사고문단과 함께 이번 주 사우디아라비아를 방문할 예정입니다",
+      "url": "https://t.me/firstsquaw/193633",
+      "ts": 1794955742
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "JOE BIDEN PRAISED NETANYAHU DURING THEIR FINAL PHONE CALL ON JANUARY 15, 2025, DESPITE CRITICIZING HIM IN HIS NEW MEMOIR, ACCORDING TO A TRANSCRIPT. BIDEN TOLD NETANYAHU “YOU’RE A GOOD MAN,” ADDING “I KNOW WE’VE DISAGREED ON OCCASION BUT, YOU KNOW... I STILL LOVE YOU, PAL” AND “I ADMIRE YOU. IT TOOK A LOT OF COURAGE TO DO WHAT YOU DID” - THE JERUSALEM POST",
+      "title_ko": "녹취록에 따르면 조 바이든은 2025년 1월 15일 마지막 전화 통화에서 네타냐후를 칭찬했지만, 그의 새 회고록에서 그를 비난했습니다. 바이든은 네타냐후에게 \"당신은 좋은 사람입니다\"라고 말하면서 \"우리가 어떤 경우에 동의하지 않았다는 것을 알고 있지만 당신도 알고 있습니다... 나는 여전히 당신을 사랑합니다, 친구\"라고 덧붙였습니다. 그리고 \"나는 당신을 존경합니다. 당신이 한 일을 하려면 많은 용기가 필요했습니다\" - 예루살렘 포스트",
+      "url": "https://t.me/firstsquaw/193634",
+      "ts": 1794955747
+    },
+    {
+      "source": "한국경제",
+      "title_en": "젠슨 황 복귀 의사 밝혔지만…엔비디아, 헤드헌터 통해 후임 물색",
+      "title_ko": "젠슨 황 복귀 의사 밝혔지만…엔비디아, 헤드헌터 통해 후임 물색",
+      "url": "https://www.hankyung.com/article/2026111833637",
+      "ts": 1794955806
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "U.S. NAVY SECRETARY NOMINEE HUNG CAO SAYS THE NAVY USED EXPIRED MUNITIONS DURING OPERATION EPIC FURY AGAINST IRAN AFTER RECODING THEM FOR USE, SAYING “A LOT OF THE MUNITIONS WE USED IN EPIC FURY WERE ACTUALLY — WE WERE ABLE TO RECODE THOSE. THEY WERE CODE ECHO, CODE FOXTROT, WHICH MEANS THEY’RE EXPIRED”",
+      "title_ko": "미 해군 장관 지명자 Hung Cao는 해군이 이란에 대한 EPIC FURY 작전 중 만료된 탄약을 녹음한 후 사용했다고 말했습니다. ECHO, CODE FOXTROT, 이는 만료되었음을 의미합니다.”",
+      "url": "https://t.me/firstsquaw/193635",
+      "ts": 1794955809
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "U.S. NAVY SECRETARY NOMINEE HUNG CAO SAID “I CAME FROM A POOR FAMILY. THINGS LIKE BREAD DON’T EXPIRE. YOU JUST RUB SOME WATER ON, MICROWAVE FOR 15 SECONDS, AND IT’S GOOD TO GO,” ADDING THAT THE NAVY WAS ABLE TO FIRE THE EXPIRED MUNITIONS AFTER RECODING THEM",
+      "title_ko": "훙 카오(Hung Cao) 미 해군장관 후보자는 \"나는 가난한 집안에서 태어났다. 빵 같은 것은 유통기한이 없다. 물에 살짝 문지르고 전자레인지에 15초만 돌리면 가도 좋다\"며 해군이 이를 녹음한 후 유통기한이 지난 탄약을 발사할 수 있었다고 덧붙였다",
+      "url": "https://t.me/firstsquaw/193636",
+      "ts": 1794955812
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "NETANYAHU SAYS THE THREATS TODAY ARE NO LESS SERIOUS THAN THEY WERE BEFORE THE 1967 SIX-DAY WAR AND IN CERTAIN RESPECTS ARE EVEN GREATER, ADDING “I AM NOT SAYING THIS LIGHTLY. THIS IS NOT SPIN. THIS IS REALITY, AND THOSE WHO NEED TO KNOW, KNOW”",
+      "title_ko": "네타냐후는 오늘날의 위협이 1967년 6일 전쟁 이전보다 심각하며 어떤 면에서는 훨씬 더 심각하다고 말하며 \"이것은 가볍게 말하는 것이 아닙니다. 이것은 헛소리가 아닙니다. 이것이 현실이며 알아야 할 사람들은 알아야 할 것입니다\"라고 덧붙였습니다",
+      "url": "https://t.me/firstsquaw/193637",
+      "ts": 1794955817
     }
   ]
 }
