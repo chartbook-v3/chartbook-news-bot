@@ -1,33 +1,6 @@
 {
-  "updated_at": 1794912476,
+  "updated_at": 1794912655,
   "id_hashes": [
-    "8503375dc582ec7ea4158e636b7c6dd2bb0b476b91b80dbccb135d4e109635e5",
-    "e8c17bc8cf624b47657f85e62334510abdb19b4a1c7c0bb5cdce860ef701edab",
-    "2189a64ca43388f1029c86af9d6e6e9cf8021ee67b58c2bf2f6f557923b2434a",
-    "3892c0186c9b0243c60170a97d1b1958acbd4ec9331ee372ee906bc5f739870b",
-    "3d057d1a6cfe68eac9ef22c4c839c732f4e47e16ffc210bfdb950dd9149e7f76",
-    "78da2bd39487e9c1a4ee3c76040b326cfd3ae4e52748f867ac9a7c39d9ebeb4d",
-    "cf67d03c426c14529de1d9446da58fab9df827a002e5bd11bd375f57d22bc94b",
-    "29b52f4923b96ac9ce65bbb521e559da3953d12698fb2271fc9631ef9ba59b1f",
-    "f2310da1a479c0fbd399eef25a31cad866283611dd95cc52a32f7f43e6710c62",
-    "db5f54f9d2d4af08344c373fc5d3ed0128c7b3d66012e23ca1cbc1e131c3c20d",
-    "295b4970bd5f1dc0055ae64765215f6638fa5017c56a45477fd10e12eea3bb42",
-    "42b16082de3f71fc21ce3847d1377c40e4ab82855a42f7b46bce27e163e6a75a",
-    "d3344911de0adc790c859fd8a84247c5d450d32f84c98ee1f73a8e15429163e1",
-    "f20e35f46083aeeeb0621abcca1093c5c0022c6ac4f784812d260447e8e50a36",
-    "d9e25d7053145a45534085e597c50ae29313dbcc87628725bea3163d53cb3afc",
-    "a17b0a5104186697f538b5a4fd1980fc15e031be0c39c060e4235b583fdb25a2",
-    "43fae0f4f27a712ac27b233fe10ed9cdaa2fe421b908b7d23188298836ff9eff",
-    "6d758667eb31a664f890dab8963cb5a0875f72d1769823170cfb02f95ee630dd",
-    "b3836338c8f500266e5fb06df0315f4af1077a3825628bdf06dfb374bd613c54",
-    "a425198499c9d51f77f02f7369005939685382768963196cbf604ba3e042355a",
-    "2fd43d584ac3c7c087a8856dc4e70db25105e191358d31764164f8c0ca908ae1",
-    "3e21fe2d75543711f3fed08a9b3b4ae20b6e99bec1d5fb7227bc85f9ed1c1c02",
-    "501323386142c73e0f63c1011b230e3cab8d988967fa84bd2ae40b29da3388ce",
-    "ccd9b046823acb8c2d4ec90a1fa60f90ff0921557a77886cb1e71f382269080e",
-    "49bf7bb7bdf8f15f2488ca800e22408406a9aa371fbb426657d4d15e9f335160",
-    "d71bc5c3f64861f73d485094ec3b5a213ad7b28a8aa63d9188c986de52d81791",
-    "cd3a545de09b3f175859e26117d8c9f49b6cd96d69ceec8e5959a39c3bac13af",
     "bd041987c44af9ce1807c7d730a05366c0aaea6b5f5a40b018133269c93b2e4d",
     "9fcc5a853838ad0b30a9d8e1a2cfe2e02fb693de1d569e57e7e9bf5b6f4edfe7",
     "ccdbb9e2010e80813992ed0f50cb6eb851f50342f1ea04e5875decf209edf9ba",
@@ -4000,28 +3973,36 @@
     "fefc3073bb1a745128a2fda36fc58826dc1e56d319a2ca4bd2d96fbef22648c4",
     "8cc56a53f94c9ac2a77fea0616f8e99eb827ba1655b61bbe89a915e836df89c7",
     "1bbffb93c085dedcc652b07214bf045b7faef2da73807664b5181c6fce22ae08",
-    "923ac20661030b4a714bcb4534f12b175d6e169f82fbcd03e00b81a51ad82bae"
+    "923ac20661030b4a714bcb4534f12b175d6e169f82fbcd03e00b81a51ad82bae",
+    "39a07d66cd11d906324906f1bfd9b947204ca35a29d8721928bf0d843626a5eb",
+    "ad1586999816f3486840316601bde273eac1fc0f8ab1a28a5c195d49896f06c9",
+    "95bc73484724e05b562744ab8359099d84eb196ff156a0bbf7740bb96dd8af50",
+    "9fd4056de66f01375c054b496704f89e3f6861c1ad0b2c3cee72acb6b3c8b72a",
+    "09a969c2839efb3c9ce7f75bb224e86706fbaf43ee94cb972570ad984c8f7dc3",
+    "87c4677f7f8d63f187fd0092c7f0c68011788d93c77015eec51927799ede8ab6",
+    "cb04b0be3bef09618f8d88e9097c95609d87b695b27845b362fe46e593c151e9",
+    "52f8568def16a74c1b235c13dbf3521daafadc490ae1dfe7e051ce658e503bd4",
+    "4d515a15da8d98aadff28322bf534dd5cffe96273d35f1710e3b95104bf58b39",
+    "0a863209f52e35e1d2b2d4aece3f23a2e7eb76adb18aa3bb0230354f4798110b",
+    "d70a22a91a99d1ff7d200e2176b6b44d3c190b3e74c622fd1bce2e0a8a4acb09",
+    "295d1a0cd8a727c0b76b7ff1dbad0d542caf98740d32c8a4c59677cb08920ae1",
+    "aa6ba349d7f3fcffca30629a89e5f6766acca5594d60554a587031503ce5df54",
+    "7d628cb7edb575bb3d0e1e9bdc5c46716fbb8d21ce3e68257d29e81823717e1d",
+    "b4f0cf0f4c24894b229bc5ffe5625739f680c24c9f0b02f959ff0da39b9a8e4b",
+    "3de05cab3301d3231d4285b1f245e95815c79fb2234321658514492f2cc60687",
+    "b451ae010d4f0be8f9214826fec5e435bb7bbaabfeba6e24fae938aabfd7d26b",
+    "e245fd660f5b19caedee216f10c4ae2f3f923d2ec0bcfe4f5adc0011e8aed84e",
+    "93e074aabb72016ae8b1372441adc2520c9faa1e7a259e7559a763b76aa70ff6",
+    "a63c7b87660c840de416ccd1d458e65a4ebdc73af6cb3ff87c1c64f83736e763",
+    "4c3a9697dee43ea52fcc8cbf8dbca5d43c33994ad670596f02dd5d46dc52f7e8",
+    "1013bfdfc819a191cdc1e3714222e895c8f88a9978c6272106769e505615609e",
+    "c074e84c289e151e0e8ef5239741fbca125f4e1b904463d9375a52d721061fce",
+    "40b64466b853c28dbd967d8ea25ef3e757797f4c2bbae613c73c6d67a6ae1fcd",
+    "11be33cf5ef66f1162d5e30712e311849009d18539f6b40b0db745d136ac884f",
+    "d5e4adc018ba443e7429cb80b2b4297438c14f9851d15fec491dcc96363ff523",
+    "f419a0c246c283a0408cd1d40393c9e0190a50d6a4062d2ddd3935062499a97c"
   ],
   "title_hashes": [
-    "5003cbc1713e9eeba2c1cda3a205b50a852498a5f14f526508e8a09f19176fde",
-    "7c23d602ef62bf992c92c5da33bc18087bec7b279ea20ff306f462cf4d264fb8",
-    "05aa2e2899861ac364302a4e708f3d74a2d8a76f0730069c163e69932e50cbe8",
-    "c1a7111c10d0a891cea2834d64637d117fbbef80b8f83617f3609d5821a55b92",
-    "afd1c6b822fa50621ba7388a59844d1d082f3e2f65b2a83c86aa71f4b94bb935",
-    "a9ef4bc84ce40a6a1932ce67e59b0ae9786d606ca779213562d91bdb4a55824c",
-    "f1a840940169103ad3a994baba3074f19b0e0adecb36c835a836a2f9f5bbe4cf",
-    "3f863014347f473c774855e715a58544cf99a2b9aa30e4fab57545ac994bbf5f",
-    "057e0670bd4cae575cac7124ff64010b865c1feb093c8a1094f03a28b7834b8d",
-    "14f67db6591a2af078ce0721aea02c0bcb28963d8b7d67d26f241b77e01a3c76",
-    "9a0e3fee84e06723163dbfa5580287764d96fa12ba9009b5c1de222bdf6b08d1",
-    "dd05564989de38bfab40e4be23596eb66110fd06f68097345d26849bac9581eb",
-    "72c31218028e0d9405c1f72ee884b599297060d0d3916d94635772a4240d24a1",
-    "5570fbc8c1138d92556b303170fcdd59bf1a2f570911ec7534c5319dd012282d",
-    "343a318d2ddb07f9e76fb6dccf7010bdb261f2a09a6e12ff6fd53ea8e586f025",
-    "0f64a1d5a197b7f62c80c2f0aa8a83bce838c697f22e197dbdd138d6027dec2e",
-    "6a94117f540fe2fcc8adc9960fa922b6bc0900e2161e94ba85418d5a3f712c61",
-    "b38f23876c7bcfb880411c2ff3a9cb5b231ee0eac119efcabacb62fceea8e95a",
-    "69ab20b8ebcfb319a9153f66353b3ee789de97daf0a40da799be51885b7f6b51",
     "0b67e876c14098fc6aa6aea90f18223433251113e4a78cde9bdfe10768a6d3e1",
     "baed97b1d8b549b5f7b6e8fec12632896494ec9d8edea23e9aa504a95c1fdaf7",
     "54aca09c83649267cbec1b8d587a36cb1cce2a41fd6e9569fbbc49dffdce1a85",
@@ -8002,65 +7983,28 @@
     "088b089fb9c5e75ea1c9c6485180a41e0aa033bedbd7c6c60de2909dc72d3d40",
     "dd611f0086a4fc64f68b02653c4bf01ed5ddb094e248c09aa0d8338a4bb2d679",
     "7b143a36298fb79257f642f6e78c050dfa3b7b70f6a0a59dfd1b1f4ea2f288b3",
-    "52047ba76ef83827dc045c316b58b51010225416f03eef86846e3e9b5e0befa0"
+    "52047ba76ef83827dc045c316b58b51010225416f03eef86846e3e9b5e0befa0",
+    "61a66d5ec25e414e4864f021a1bee5f6a9066214832ac4afd6782bb4319c5603",
+    "6cbb6e2963a8262d1122866db5b2e7ec3c08557315b1a7af2f89d7c432f04518",
+    "a909b104950c9ebf1a2dcb3982fcdceaac5a509e4f7ded72a9e92e26cbf02bee",
+    "57243b18c11cfb5eb46f8dfdff35f919b219811b63b7e44a5b40eaa7b5e3dd08",
+    "9e0473f44fc1667d7c4ad32caa72e8777ac0f1e08a400074b78f3e3bee4cb422",
+    "13747076000ba3fadbac806d567e3c8666a5630808bb222a46431189caad41e2",
+    "d20fbd279ab49cab7b410a25ac0b4a7fb723a05ccd336071774aff852066f8d6",
+    "48217db3d2c0142cdc124721a705f709a09ac95c23e638944213cdf96de324d1",
+    "93cc3c54a684e718084cb64d5164bf9ba075e97cc6249449652c19d671050c1c",
+    "edd7d4f484627fbbaf259f484fb87d0c1471d252b3e0da7059cb20b36ad91f8c",
+    "ecc0ac3ba8278de834013c265fb2b16945f0de393d1ab3fb3575522f3d3e8570",
+    "4a55f6e1415cc60b270d8d55337a596092e53d691c2e7635284b31e7455bf707",
+    "65e6d8b2db5791667af68642053d63f88d72123fcc05560dbc7d34b0333c2131",
+    "771b4478791d846734621ebd59acd374bcc9e991478c5f42583f6769ebba8015",
+    "685c86fee80d39021f420b657cc96d0ced79de91f60847c6f658f98ad5b2f577",
+    "5c080c3fa9ba45873820d24b4897906a2c643a0d5266760a925939de281709f7",
+    "518b2f54ecbc9f46f2494baa23b7cba8cdc01103da1079524a339e34348e8aca",
+    "2fb67436723caead5ec5feb567c0eba51e6696e033fe9c2465a9d36e70dc95c2",
+    "e148092dc2c17abdd96dbb538b202f6b4564e28184c00116264a385c7a729847"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "Acer Gaming secures PlayStation Hong Kong distribution rights",
-      "title_ko": "Acer Gaming, PlayStation Hong Kong 배포권 확보",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaU5DNWVrMzYzdi1DSm1rVDZFdFhTXzI0aWk1V2tHaUNpMDhxNTlCa3pPWWY2al9RYkFSR2xxdmwzSXNPSFFXYVQ1bmlFTUhzTFZ2a21sX3BPc21aWkhrc0tfaWRtWUlMX0xpVFdyWUtpSnJyaVRydDJ4N3p3LUFWUWhoa2lMdGxEQlFTQnUzMA?oc=5",
-      "ts": 1794875725
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Powerlogic posts 9M26 loss as gaming demand slows",
-      "title_ko": "Powerlogic은 게임 수요가 둔화되면서 9M26 손실을 기록",
-      "url": "https://www.digitimes.com/news/a20261116PD236/powerlogic-gaming-supply-chain-loss-pc.html",
-      "ts": 1794875728
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Amazon reportedly planning to amass the world's largest product database",
-      "title_ko": "아마존은 세계 최대의 제품 데이터베이스를 구축할 계획인 것으로 알려졌다",
-      "url": "https://www.digitimes.com/news/a20261116VL218/amazon-data-online-meta-e-commerce.html",
-      "ts": 1794875731
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "네오클라우드업체, 젠슨 황의 엔비디아 복귀 바라는 이유는",
-      "title_ko": "네오클라우드업체, 젠슨 황의 엔비디아 복귀 바라는 이유는",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1raTFPLTMtd2F6Zy1Ybm12akItelYyZkdFcHoxa0J6Vk9mRHQwQzlwb3hVV3E2QlY3RlFuM2V5VS15VG1VZ1dtc0ZRX3p2VEc1Z2c2c1lVcGZEalJfTFNxNGJ2ZmdmT3hjRkhSSExPT2w?oc=5",
-      "ts": 1794875735
-    },
-    {
-      "source": "한국경제",
-      "title_en": "'포스트 젠슨 황' 첫 시험대…엔비디아 실적발표에서 주목해야할 5가지",
-      "title_ko": "'포스트 젠슨 황' 첫 시험대…엔비디아 실적발표에서 주목해야할 5가지",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYbzZuOFJKYThhV0JxUmlOd25jRmZ5MEx6eXg4RGNJWm9lSEdhUlBxRzk0U0xyaTBOWVIzYUMzanN1dTc3YWZqVGZYX1VjMnFURWI3dGlEVENNUQ?oc=5",
-      "ts": 1794875738
-    },
-    {
-      "source": "9to5Mac",
-      "title_en": "Former Apple chairman Arthur Levinson files to sell $31.8 million in company stock",
-      "title_ko": "전 애플 회장 아서 레빈슨(Arthur Levinson)이 회사 주식 3,180만 달러 매각 신청",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPREhaQVNhZS1VX1NLSFZHejdsaEp4b2NSRncybk5TbDJ2RU5qNlA2a1ZiMXZFTXI2dDNITFBHQTdHZjNvcnAyd0lpM09LZVZqYVBPZmkxM2NZSU8zUkpQdVRVV3NvWjRIdUpaNXg2YlBaTEpTN2pNYnprSnpRZnVIZUV6YXVlNUhuTG5iMG5FQUJteVB2eV8waXJnT184NUpWNGdscHJOeHNXOURtOTYyazRCVQ?oc=5",
-      "ts": 1794875776
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Red Cat Holdings shares plunge as revenue misses estimates, outlook is withdrawn",
-      "title_ko": "매출이 예상치를 밑돌면서 Red Cat Holdings 주가 급락, 전망 철회",
-      "url": "https://seekingalpha.com/news/4673405-red-cat-holdings-shares-plunge-as-revenue-misses-estimates-outlook-is-withdrawn?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794875849
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "RUSSIAN AIRCRAFT VIOLATED JAPANESE AIRSPACE – NHK",
-      "title_ko": "러시아 항공기가 일본 영공을 침해했습니다 – NHK",
-      "url": "https://t.me/firstsquaw/193312",
-      "ts": 1794875946
-    },
     {
       "source": "전자신문",
       "title_en": "페스카로, 3분기 누적 매출 299억…외형 성장 넘어 수익 창출 기반 강화 본격화",
@@ -11504,6 +11448,62 @@
       "title_ko": "트럼프 \"방중",
       "url": "https://t.me/firstsquaw/193500",
       "ts": 1794912472
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Apple Watch’s New AI Features Hear Your Conversations But Miss the Point",
+      "title_ko": "애플워치 신규 AI 기능, 대화 청취하지만 핵심은 빗나가",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/apple-watch-siri-recap-review-ai-listening-adds-little-value?srnd=technology-ai",
+      "ts": 1794912505
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Trump on Nvidia: Good idea they launched the national security initiative $NVDA",
+      "title_ko": "트럼프, 엔비디아의 국가 안보 이니셔티브 출범은 \"좋은 생각\" $NVDA",
+      "url": "https://www.financialjuice.com/News/9855552/Trump-on-Nvidia-Good-idea-they-launched-the-national-security-initiative-NVDA.aspx?xy=rss",
+      "ts": 1794912507
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Trump on separate bilateral with Putin: I would if available",
+      "title_ko": "트럼프, 푸틴과의 양자 회담 가능성에 \"여건 되면 할 것\"",
+      "url": "https://www.financialjuice.com/News/9855553/Trump-on-separate-bilateral-with-Putin-I-would-if-available.aspx?xy=rss",
+      "ts": 1794912510
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "TRUMP: PRODUCING MAJOR NUMBERS ON RARE EARTHS",
+      "title_ko": "트럼프 \"희토류 관련 엄청난 성과 도출 중\"",
+      "url": "https://t.me/firstsquaw/193501",
+      "ts": 1794912570
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Trump, on China disagreements, has handled that very well. It’s two opinions",
+      "title_ko": "트럼프 \"중국과의 이견, 매우 잘 다뤄… 두 가지 의견 있을 뿐\"",
+      "url": "https://www.financialjuice.com/News/9855554/Trump-on-China-disagreements-has-handled-that-very-well-Its-two-opinions.aspx?xy=rss",
+      "ts": 1794912577
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Trump, on Taiwan: I’m sure Xi will raise the issue",
+      "title_ko": "트럼프, 대만 문제에 대해 \"시진핑이 문제 제기할 것이라고 확신한다\"",
+      "url": "https://www.financialjuice.com/News/9855555/Trump-on-Taiwan-Im-sure-Xi-will-raise-the-issue.aspx?xy=rss",
+      "ts": 1794912640
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Trump on Kim Jong Un coming to APEC: he would like to. We'll see what happens",
+      "title_ko": "트럼프 \"김정은, APEC 참석 원해... 지켜볼 것\"",
+      "url": "https://www.financialjuice.com/News/9855556/Trump-on-Kim-Jong-Un-coming-to-APEC-he-would-like-to-Well-see-what-happens.aspx?xy=rss",
+      "ts": 1794912646
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Trump on Iran: We take it very seriously; this is why they can't have a nuclear weapon",
+      "title_ko": "트럼프: 이란에 대해: 우리는 이를 매우 심각하게 받아들입니다. 이래서 핵무기를 가질 수 없는거야",
+      "url": "https://www.financialjuice.com/News/9855557/Trump-on-Iran-We-take-it-very-seriously-this-is-why-they-cant-have-a-nuclear-weapon.aspx?xy=rss",
+      "ts": 1794912654
     }
   ]
 }
