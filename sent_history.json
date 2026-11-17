@@ -1,38 +1,6 @@
 {
-  "updated_at": 1794943538,
+  "updated_at": 1794943697,
   "id_hashes": [
-    "22dedcfdafed4ca904a889473638fbcbca63369768ed9c610dc63f8d1d1a8dcc",
-    "0b7200b1c674f32b15dfc7a786c863fb994e1b043a82b29f56e51ef4b7a53ce5",
-    "4b92450d7bb287164018a6efdb503ed46191958d03711cc5404a25c8b27997fb",
-    "07b5a80a4ebeb8e6744dc499b865f7cf5f5cbf435cc74f570e18af066efe8eec",
-    "67d66cd4133a41cff26c7b49fc1bb39d203a2accc8549d8ca84164649c7678fd",
-    "259a5c53bd911d900ff30e8ca181561153f0f26f45866714f6f5f9ce05a49ca9",
-    "c3958a703d92fe7329964365f329f167cee55c618fc41af6b3452218d5534869",
-    "cf8bd6f4789e4e239ca882785a00a5f37675505d037963857345e3d11d28c9f4",
-    "ba8d6b6da850b45ce8a7eda8a216cf658111378558f6365599e111b93004b1f8",
-    "88ad3a946cbe0cf0beee9927e9b023318a63cbb60d7a24d0e6af313f69eae174",
-    "e819b96a813c95bd2e76458ee17002857e2e7818293c6bd28262ebc53a79451d",
-    "160ff6bd014796f27ea445abb9cc033d4829b5d858d2a60d86024d28ec0d20da",
-    "1e1c259b00ac1cb07cd875f2edcf56c88be6dd28e57cec76ff849cf235c1e0d4",
-    "6a3a409ef89cecbcaf4f5b845be5f27993dc546bd09578e43746c6dfc1a1fd1c",
-    "99447285784a0dea8cac1ba580a6b644bac66067b075f9efc97fe651a9e233fe",
-    "5ffcbb4557ce8cadc9eff4bf48a04141204c0694be8075db0965c2f0c540e79c",
-    "fb46920ae129260c78aae8bfa99f0f73661c8662456376672cf6a53ad8a6ed54",
-    "1c687bdbd27fba519200e6d231b2555bf23d1c1e779ebb3ca2adb5be3ef2917b",
-    "8e5895515c87f60c25d9fe89dfd023acbd849e6e6a9f11f751b56d1e1df04427",
-    "ad60a9faae5858b2ca496f42c83404d772cea596be28fb564a605240f009c5d9",
-    "908c825c1506c6be3a0756cdd5fa4001182f6a1f9db1767b6585ea32f27ebec2",
-    "4df50e30ec85c115084ba18cab9e02c1fd7b69fcb43f7cb80a6aac5d89328657",
-    "a566c11c9c30e4585e59905a44c9d0e787cac9ab03e7669bb213b72ed0c5bb53",
-    "e470c31e42db65660642e6c0651143198c8c2003bcbc7ada76cdd5a8d3245d1f",
-    "3d4436e86c0408496a696cfcd1ba143c1dd02719bb6957d6f38b3a578157d5ae",
-    "9ff2601351a0830ccd5da4bb8a7782bb7334ab9f32d618f611db16d9edc570a2",
-    "a61dbff5257c96a36108f3874f0afb0dee3dc42bdc13e499a1d894493062283e",
-    "4ae5706bda4ad16b2d31acfdb5c942d76858963eb890bb5f2e378f26685916a2",
-    "9e7aaae10df2712c977d248577757830f400bfbd47b6d3fa3f914a7ab9cf6881",
-    "5e0142ece75ca948834d15a1acd78bf5510689a5d58249d1eb80670c7606e292",
-    "923bd3b2ba2c6872dbf864efa66ab59791ce5e051514c395ed0b455d3185acdd",
-    "14caff4f7801de9111e0d05786c1e100af6cbd0c0cba329120ba11cb4cf5e03c",
     "fa8218130e52b7fe6e49d53d11e9987d42c54e81e6df9e8b50ff96a0bb0f69fe",
     "ab553fb1352b3e1690961d362d41bc202712f0adf88e24be8bce9b5eb85badb7",
     "6e8f06206cfe666ba125a1ab48dd3f588490b15cde0f272cfb37a34ed866fc04",
@@ -4000,23 +3968,41 @@
     "7d0fdaa86756b5defc25df42287c8fcb2bb461764f5552be4eec89748fb547b9",
     "7a343dd634a99e7c11ad58e0e5816ecd23e7f993f0c5dbdb94c289b9396fb3e3",
     "5c721d58769d76811deccfd935cf86b2a8c3f8009856766fd86819a426eb904f",
-    "d6eec0ad33305a50d3169031a17c232e1498e2156010a4cf0f36d132380d03b1"
+    "d6eec0ad33305a50d3169031a17c232e1498e2156010a4cf0f36d132380d03b1",
+    "11fe9dce1f0bebf9d31e8ed961612936e102d526590e1ec87f5fa56bf2443027",
+    "cae2ced5f058154ac791bc5af2a5ed378f87807711a1eee7274df2221942821e",
+    "57de941385ca64c79d9e2f5759a67eb7385c800d306c43ebcb3e9ff9a0c375f8",
+    "05537e6d4b1c05cc96c00b4f26bc2e982e6ef3ff77c5981e0daa173b4ee742a6",
+    "247da3f0b4fe09b997799c83ade6a877a4c17a5072539fc00e9fa6bb5aa7f3a9",
+    "8d6aca8d64b2fffa872b52816a72d04ce4e2aba56b690ce85aeeae69e99c3797",
+    "ba0135c6ba3bd91266fc27730b6c5a8d08c42675ae2e699bc2faf68ef1183869",
+    "be94134439515b12c0e340031e802417abcc303f9afd526cac75e588f1282c19",
+    "7b24bc980877ea07a40a3292348eb7bcf482691cb6bb4f0310cb0ff0ac04a5e7",
+    "257156cdb6b37ab063ade43133340cf07462b101690f125a4b5e4ac7203d3012",
+    "e14aabf6778d8dc51c55c16aeca2ec7ef6502665af78cf92630ae18aa7949ba3",
+    "a8ac4d1ad45502d2457775e468fc77912f5beeb3f6c3f22297aa856a489c25af",
+    "e631e5aea74e72e9835bd1b87f87ab20f7fd0d6db41fd766151de9edc9c3afe1",
+    "df8e84157c9372d6471eafe4044400cb6302a8358535edba4e2ee425d75f7131",
+    "bafe4b7c110f8dac2c1023501dbfbc42ea9f3529c05a2669cb740115f741c8e2",
+    "3897db48d1b73a5b357e371b1dc24a4a57386e0071c26433aca9952b00d30fe2",
+    "530594c1255befc89e3c93488d61106a34289811b234f84e486de5a7621dc3c7",
+    "e68042a3d20e3ab018c6a325def161ffb971878dc7061ebb27e4cdc59a0dd11c",
+    "f6a9a8458d7972504ef3deab15e2d53ba98f97b9ca68599a9c4500177b76a0d4",
+    "0aa64aa93ad82658e35e5a85915e75d6c94de39470ddf6de8c458aba7fbebce6",
+    "777b7b487d0720a160d3b00996f482d9d0260dc026eec0d1edd6fb13ec4afc58",
+    "6feff81bbb521f75a422101109c4c19dac0eeaf0169abd528c492e9fbea506ba",
+    "59934b22306f1afe32bafebcfc6c785db7f8eda8292e7b6333939f4e63d7bc64",
+    "6497fce0d5f9747be0a2cb4a1e67ba500c8f99375c33b5c8ef5a7501227a6efc",
+    "2114d9a76ca7202550fdd97d5b2c00afb897258f8a7cfe6c5e0fa6196ea240da",
+    "fafe8fad0dff7491b216923f48f2049baae8e29ae328eb197aead92a41dd4a6c",
+    "335e5d942885ad8493a982a2aac27da1b01cbba72f55d5f4310f8ad42c0b1cce",
+    "1b45561d749eee053c9f0b79a8538f5f0f2fa995316807431fef990d9c5fcd62",
+    "cf1738fae113de7c0edd3798450fe99a13c34b420f17df90781554ada8644978",
+    "412052f22ee47651aac1220f36a1981052d736cc68e7afba42489ab606094754",
+    "f3e554edf5b5194e773c28c49e8e95feb8e76fc4188449e46efb2d03582bbfe4",
+    "f8e992587ef6b1a1311530271ef056695d016fe84543505209f7625b35dbffd8"
   ],
   "title_hashes": [
-    "41e8df027bc5a1c7ee6603e8b7807193faf33aac8b2e7419b6f11d72eec1756b",
-    "fa9461b894dd804c176156175922188606c528c038eca95e4291b5403b5a99b3",
-    "bf2c1ddc957cd0c1b57bc7ba0ae53c35c1becd87266b2ee4f41bdbfd1b881585",
-    "ca8f06a19cc1e62cf217e2280ebb5b62d1c5d1c076e5314d1c7b2ec4481cb20b",
-    "cb019a82f187e302c3c76ac986354812df35faf24cd0fb23e1521ff9426b7722",
-    "ba093c492d98208f16b75717edec70ea09b50abb29258e47549e1f1f7504e391",
-    "a6f678981a81f55c3f9cca0f284d3e6fc48ca20293a714b309ef5ee9093a28b8",
-    "083e42ba533e9910895dd0a051c9bf8bac48d9d5047a6750363517056b51b838",
-    "db24985dd136a1ff81c581c336c301489b280b31503fcb53d431a4b74c88191f",
-    "d3945f494f5d527707e19d1e1c26ce058ec452abd0447388ad889f5f1a588280",
-    "6628c47195776b4b6ec92ffc2ab9baa3be12c211b2d91a078aac7a6db769493b",
-    "80dde5e7dc148560cd89020c37ed5eb00bd729339a854ff98d11404bfb5317d5",
-    "2f97e119eaf2306c1b6e1095a83817b604225d4d8e48d3f63c69dad2232a7824",
-    "0d9d981f72299fa66228ccd3685d7b7a08796590cb7b3cb842ae0d72d1a66ab7",
     "e122a07627d7b851924ed25be048eab2fbf546a71c8de97d32b7336bc1ab2fb2",
     "e36360775a163b4264e1f8a4858ad92bd1def8fc3314aed69fae224f22191d8b",
     "faeba06663882b4cfbc73f05a0282eadf8e15396929ec4d31fa0daff653a259d",
@@ -8002,58 +7988,23 @@
     "bcfc7f14a6c6f2404709f296871843f653f5cd582e9dbed261c306c69e831cfc",
     "57a947989bb0fbe7c34f30d34fbd81c161c4dcc51e618f5512c430b7f190cc8f",
     "608172664474be741c364fce88269306628f8d9287a969601c4b3d034fab49c5",
-    "50ce3ffb6fb3e7d98d3b33bfeeeb04e62b1c8f2a9680773cafe99f257b7e31ff"
+    "50ce3ffb6fb3e7d98d3b33bfeeeb04e62b1c8f2a9680773cafe99f257b7e31ff",
+    "90286476af0b24402158fd01922a3185124784bffab4cdb943e13e994f370ebe",
+    "03acc1fffa40dd02c338df5ed07b855c5aacde7204c7ea245aa2946bb187b508",
+    "7f638e570e68c8fd1c1493756e2110b4ec5e1e0ebf2bd8ac0683228bafb4755b",
+    "0513e42205a8400fb14698fddcb9c1bb0b67a45fffea7c89041156603d88bb8a",
+    "9cd89bd71ad2326b96d6583e4501d21a8899b31707d5237c6c0a1b52481f19b8",
+    "93ff7c65bcde364886c42dd1e1c07113e3442e81b7f7413da0210d0116e95ecb",
+    "135eac15247f8a84308339f3cbb5144737d6f2492b3f35b95909f2f02a84ba16",
+    "650be8de81e9c229733e26ad2a8d2a27f6e5796fd9ab8ec4f29213a2568c6995",
+    "bddf5c2676499565b6a711adb4212ef8b0c54a6d7b595ae831530e49ad6fd014",
+    "b6ec5295cb6f9c50fb6b2b39b88b60936ff2310b1da0b636d24632b804b88a6e",
+    "f14607980d97735d134587cd9773a1d2a16bbbdfa901ea81c60fee4d8f953f63",
+    "21f508dfb99b82752969557eecb29e54cf05c679f922c074b8eff2b5379e6a8a",
+    "ab6e1cae20954033643f40e08213c41040091a6df73497b53cbb7276f395ef1e",
+    "31399551b841e5cf72df9632a832c52ed4675fbe3dc1ad32c041dbc6cdd35398"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "'That's Up to President Xi': Trump Hints at Kim Jong Un Meeting in China, and Crypto Punters Are Hiking O",
-      "title_ko": "'그건 시진핑 주석에게 달려 있다': 트럼프는 중국에서 열리는 김정은 회담에서 힌트를 주고, 암호화폐 펀더들은 하이킹을 하고 있다",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVHV4alZuS0stVkFmMGwxWkNlcFBaUXlreUlLSnBZUFFHamZaRzd3TEZZSV9MU2JOMVgwamdYZndtQkR4eW5renNKNENjWVFCTENubU9sSmc1bkM4TFJxRTdzOGdTUnp0dEJLbmpnTVZ2T1F2bUR6OERJNkFnNjhrR0E1dVItMGRwZ0JUdlNYX2FUaUFFR25jRUhualMyU1Z6VVdUTS1mVUdEd01Gdm9xdk9ueTJYVzJvWS1sekN0MVZqN2lJMm4zUjJnaUdSZFdT?oc=5",
-      "ts": 1794887821
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "CITI TO BRING IN MARK BELLOFIORE AS HEAD OF ECM FOR AUSTRALIA AND NEW ZEALAND, EFFECTIVE 2027",
-      "title_ko": "CITI, 2027년부터 호주와 뉴질랜드 ECM 책임자로 마크 벨로피오레 선임",
-      "url": "https://t.me/firstsquaw/193372",
-      "ts": 1794887977
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "US GOVERNMENT'S EFFORT TO CUT STUDENT AND JOURNALIST VISA VALIDITY PERIODS REJECTED BY COURT - KYODO",
-      "title_ko": "미 법원, 학생·언론인 비자 유효기간 단축 시도에 제동 - 교도통신",
-      "url": "https://t.me/firstsquaw/193373",
-      "ts": 1794888152
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Shinko Electric to lease JDI Mobara plant to Ebara for 12 years",
-      "title_ko": "신코덴키, JDI 모바라 공장 에바라에 12년간 임대 계약 체결",
-      "url": "https://www.digitimes.com/news/a20261117PD227/shinko-electric-jdi-plant-equipment-capacity.html",
-      "ts": 1794888284
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Xintec, TSMC sign 7-year capacity outsourcing agreement to build on-substrate production line",
-      "title_ko": "신텍, TSMC와 7년 캐파 아웃소싱 계약 체결... 기판 내 생산라인 구축",
-      "url": "https://www.digitimes.com/news/a20261116PD237/xintec-substrate-production-capacity-outsourcing-tsmc.html",
-      "ts": 1794888289
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Samsung develops custom HBM for Meta, adopts 2nm process",
-      "title_ko": "삼성전자, 메타용 맞춤형 HBM 개발 및 2나노 공정 도입",
-      "url": "https://www.digitimes.com/news/a20261117PD225/samsung-hbm-meta-2nm-nvidia.html",
-      "ts": 1794888293
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Huawei targets robotics' next frontier with Ascend-powered world model and CloudRobo push",
-      "title_ko": "화웨이는 Ascend 기반 세계 모델과 CloudRobo 푸시를 통해 로봇공학의 차세대 개척을 목표로 하고 있어",
-      "url": "https://www.digitimes.com/news/a20261117VL208/huawei-cloud-ascend-robot-development.html",
-      "ts": 1794888302
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Taiwan's Defence Ministry reported detecting two Russian military aircraft approaching from the northeast and entering its ADIZ early Tuesday morning.",
@@ -11504,6 +11455,55 @@
       "title_ko": "연준 윌리엄스 \"인플레이션 2% 복귀 위해 추가 작업 필요\"",
       "url": "https://www.financialjuice.com/News/9856353/Feds-Williams-Fed-still-has-more-work-to-do-to-get-inflation-back-to-2.aspx?xy=rss",
       "ts": 1794943537
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "SpaceX Debt for AI Chips to Hit Market as Soon as This Week",
+      "title_ko": "스페이스X, AI 칩 구매 목적 부채 조달 이번 주 시장 발행 전망",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/spacex-debt-for-ai-chips-to-hit-market-as-soon-as-this-week",
+      "ts": 1794943562
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "US FIGHTER JETS STRIKE IRGC MISSILE LAUNCH SITE ON IRAN'S QESHM ISLAND: US MILITARY OFFICIAL",
+      "title_ko": "미 군 당국 \"미 전투기, 이란 قشم(케슘) 섬 내 이슬람혁명수위군(IRGC) 미사일 발사대 타격\"",
+      "url": "https://t.me/WalterBloomberg/38580",
+      "ts": 1794943629
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Fed's Williams: I'm seeing signs of shocks spilling over into broader inflation data.",
+      "title_ko": "윌리엄스 연은 총재 \"인플레이션 지표로 파급되는 충격 징후 포착\"",
+      "url": "https://www.financialjuice.com/News/9856356/Feds-Williams-Im-seeing-signs-of-shocks-spilling-over-into-broader-inflation-data.aspx?xy=rss",
+      "ts": 1794943635
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: NEW OPENAI MODEL DISCOVERS 35 VULNERABILITIES IN APPLE DEVICES, INCLUDING FLAWS ALLOWING HACKERS TO TAKE CONTROL OF IPHONES AND MACS.",
+      "title_ko": "속보: 오픈AI 신형 모델, 아이폰·맥 해킹 취약점 등 애플 기기 결함 35건 발견",
+      "url": "https://t.me/marketfeed/1079928",
+      "ts": 1794943638
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Fed's Williams: Economy is resilient, labor market solid.",
+      "title_ko": "연준 윌리엄스 \"경제 회복력 강하고 노동시장 탄탄\"",
+      "url": "https://www.financialjuice.com/News/9856357/Feds-Williams-Economy-is-resilient-labor-market-solid.aspx?xy=rss",
+      "ts": 1794943644
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Fed's Williams: Tariffs and energy shock still affecting inflation readings.",
+      "title_ko": "윌리엄스 연준 총재 \"관세·에너지 충격, 여전히 물가 지표에 영향\"",
+      "url": "https://www.financialjuice.com/News/9856358/Feds-Williams-Tariffs-and-energy-shock-still-affecting-inflation-readings.aspx?xy=rss",
+      "ts": 1794943648
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Fed's Williams: I don't think the situation calls for dramatic policy action.",
+      "title_ko": "윌러마스 연은 총재 \"현재 상황, 극단적인 정책 대응 필요하지 않아\"",
+      "url": "https://www.financialjuice.com/News/9856359/Feds-Williams-I-dont-think-the-situation-calls-for-dramatic-policy-action.aspx?xy=rss",
+      "ts": 1794943691
     }
   ]
 }
