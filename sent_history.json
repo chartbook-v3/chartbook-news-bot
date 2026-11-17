@@ -1,20 +1,6 @@
 {
-  "updated_at": 1794955818,
+  "updated_at": 1794955986,
   "id_hashes": [
-    "84a4afb5d0f511a795f6513e912b74c07705f57e5069fa8adb0f0ab073b85e31",
-    "05032ab3ea05e470d0eba9cb0488a8fe44d328e49db496ae69f936d997a9690d",
-    "b44063d11e468ab93975d6f74b5f857b3868111f7731838d42b4f0f24662cc4b",
-    "6feaea15af988b40a67f8e77807760015a0f4ef9ac5a862681a14ebf9df1c42e",
-    "cdfe022f672d0ca2d77cc5ed2c74dc563602ccf7c1b2d8d3661e4ae555a6ec14",
-    "3caef1e8d429f88b9854fdc986cfa920d40472c6479baf605c07c4a7029faf2e",
-    "1697d9ce145cbeb014ea13059d4b534f85c06b77ed81650ddafd069499f4661e",
-    "20c4742324871d7b357f3f188ee18e8b002bf61e2edb22f6e2dd5c007fb5f0f2",
-    "53b4375a755477723740d971e3a42712b6a5f88cd4bd595a7c6717ef6c9893d2",
-    "f11f9e48ba618ad7f9a6c624468847ff5e9d186659f5810943fde256351eb3f3",
-    "e0c006d40e11e8eea258574ba1b073db790d481a2e130a9aedb806d01e01e93a",
-    "b218918fc8e921b5f7d8f0bf25fbaf14e5a24159bd9db75e82ae88db9b5be964",
-    "99e2f3135c9253b11b17ea97fca3fa6704c29222329fdaff397fe636a566c48a",
-    "938e5cfe00947f9da160b02c485fc8314a958ee12cd12357d018decb2d1e5c9e",
     "0f9f933e47c4331c4da747fbe71a4f0608d19169916f2b4286bf322d9045dc62",
     "f23cfe4349cf48e3bef7ca60cd0aa61ec6f53eab3d327db7b10d5c63b5c92db0",
     "df9aacf9a0b4ca07bd4bbc8cb0f0cd6a5cd0135817c633710c85731b7fc1ac0d",
@@ -4000,22 +3986,23 @@
     "7aa3c58a838334fddbc70904ccbfaf4053daa9d7ccc084a881dd339a8f134e26",
     "92a9f6069899e64401b1da64e154491f3bc378f00f1b2d53b5c76deeba4188b7",
     "22a4ec4e1a347f5466773f4f4a343d9d17575a872b0cfe8ce58107ed4077dfe9",
-    "0a7cf83c1b488c54d9c72becbd5fbada331bcbd6d2b91b2b5ce1a12f04035128"
+    "0a7cf83c1b488c54d9c72becbd5fbada331bcbd6d2b91b2b5ce1a12f04035128",
+    "4f41371854b20d390ca3e0dad57c8ba4cd71a7e844264c50e9febe4aa0ef0255",
+    "559e3d7781a48f12fa3a3c381b3ea3f0b6feb84d4deee9f4b04f7bb9e4a19378",
+    "38f6030f373c1f02fb17b675da76a2879053af23c32c4cbf74f1fad49ae05164",
+    "5b8360f7a9ae8840e1c2c82664c24d13fa9a66e9b9d75957c15944bcfd6fd0ca",
+    "109c2f16de8f540b2dd8d18df3563b448aa2811d307691245ca1956597d5e7c7",
+    "4b3842c341a53a794d621dfc587d28332356d2644c4bf816be4afaa74234f7de",
+    "48d8396ca23db48f142031fec7e0eb74bac641f37a9876a2a6b19f1eb8a7c39e",
+    "ca40dfd11f0b7019ae6f47fa5c6195f10497bcb413b82ce165fe5d7b743845c5",
+    "0c12fdcfb43dc334bfa3953ef74d6dfade22d13f1cbe0b0b3f47424912005322",
+    "29fbc004024c02d7993a837ca261ae8a5269dad957a0127d10a5bf75711c0ed5",
+    "d1e70ee221d3391211ba4acf755b421ffa52a5afe7bd845e92bb51106cc91026",
+    "b838a9178a02a6b667d592af604df7c99bc36ced458b288f03fef5f46a848425",
+    "d2b610dc1003fc7ac72754fcecde6080bafdd46ee2a21ff64f945fa9c75271fc",
+    "f7d45dbb81d341c5fbdccafb102bb9dde8c528503d99364e4d1f36a0e76660b1"
   ],
   "title_hashes": [
-    "5d00919fbcaad86b95de1094fe3baa7cf2ba3198d8785504cbabbc89f38150e7",
-    "ea79c2784d348cc9be70fb05442b8ae0ea4280732f98427232e74b9f7b635059",
-    "2a944861a88418ba8e6f207e83892829be4b336ad06de0acca710b333657ac7c",
-    "fe08ac857205dab60c0523e08bec92e3d1263feab93e903c2de124c8339d0129",
-    "3ca744da4af3c5e352252167a9f67ad68405a7a5a0b25b6650207d0f3e40ea64",
-    "2d8178baa827de49e60316a9c33705bbaad98d904c60c40460e9e3c294867502",
-    "15213341677efcd92ca66dbb23cf12ce73c4ceeddd3030499707ce8d3da84348",
-    "a7362e2c4fef82a158ac1ae280a9dae34a79f8370143f0a22d48635cd13d7625",
-    "7297399435726a7b78ff3a64878d6e60abb81bdd6e56b9c6ecaff4f3a9dc919a",
-    "46eb4e31343a95c90a106f1514128022f36c461aa7ad7d22dd34bb2d40f835cc",
-    "a9cde034985768133ddc5db6a0f30d31e313fec03832a36422d9531c66df42dc",
-    "1de022ff34187e3cc8f75d3caee9c13aa502e093ced5958b718137d541f2da7f",
-    "9b314101a15b94124771e32fdb78a17d4b5370511e68712990456e11981860d7",
     "75e86dbb7df7daf68221de2c063b9809160b902c0ea354b0f6bde71d86320ac2",
     "4f4300da5c5096a35317e70d709281860054962ea98178ba41b12cff5b23dae8",
     "aadc54afa4d08d756dbfab88b2347244ddfe89d64fefd71d41faa6ebcea43d2e",
@@ -8002,44 +7989,22 @@
     "d57506455e7dfe9c35b2149d8a74d662003068f6c3c3968301236337500375fe",
     "a27e236ba232f9d54ea83eddad27b0063d44f9455d6dbb895cf7135ede41c537",
     "68580e4a9dfe79687543256b57f0bb06b7d8d1b891db501f57ea5853c47aee80",
-    "1b2d6a9f0fd45d93f6efe937a1dfc372f6035d4312828ac9c8c758fbdc057476"
+    "1b2d6a9f0fd45d93f6efe937a1dfc372f6035d4312828ac9c8c758fbdc057476",
+    "f9a4026f8bd4d236ffec5f89f00c87874fdaafe9dca35d4190796f6b8975fa6c",
+    "0fe6ff9263e66ffaecd1ce11357eee7f3d2577c01b0540fede4e0d967c04e109",
+    "9f613d7495416e74dbc6bdf67f1f0cb8c1fcb73d8833436691adf2502f60a325",
+    "ad9361e6f5f89a5ac8a5a62843248de3ca1185411c750beb61ff42d4de2ed7ac",
+    "60e31e78590fb78fc4c5a204ee2d6803813f30ad7805037775649792d4987e72",
+    "4f77a11cca0dddd1372230b94f58cd526c0b59fbf2fdab5f110e49fe53359ef0",
+    "ca6d1e7a5956ab5bd85c900199d99b369fd372bb0b638ee319e709385bd8306f",
+    "991a74fbc436c0202704b1d3514d11d447e27fcf0b0cbdd4f499d6d5daf52fc7",
+    "3e5470aa33461ff1ae75e1dd099aec09f710919c6b5e6f276fcb5133be16fa05",
+    "15cd1127aa007d1e02440fa8740ac360dbb725d792b0b978e26eb6a1f920a615",
+    "af59cc634e48aad0b8b01b61c79faced1b449ba656394bcde9cd7dfbd12e7386",
+    "1ba05eb6cab019af08e6a7e519ea7d8dc83926b1b0354603e2b8d183fd89f8d0",
+    "eda1c1d7699f653bbb7421c74b6166b6fa7e0d44d8f59757768484252ce0ea62"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "German Investor Outlook Jumps to Highest Since Iran War Began",
-      "title_ko": "독일 투자자 전망, 이란 전쟁 개시 이후 최고치로 뛰어올라",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/german-investor-outlook-jumps-to-highest-since-iran-war-began",
-      "ts": 1794911614
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "报道：伊朗称三艘船只周二在霍尔木兹海峡附近触雷",
-      "title_ko": "보도: 이란은 화요일 호르무즈 해협 근처에서 세 척의 선박이 지뢰를 공격했다고 밝혀",
-      "url": "https://wallstreetcn.com/livenews/3201244",
-      "ts": 1794911617
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "长鑫科技：前三季度全球DRAM产品供给紧缺格局延续",
-      "title_ko": "Changxin Technology: 글로벌 DRAM 제품 공급 부족이 첫 3분기 동안 계속됨",
-      "url": "https://wallstreetcn.com/livenews/3201246",
-      "ts": 1794911667
-    },
-    {
-      "source": "FT",
-      "title_en": "Nvidia creates committee to oversee compliance with US chip export controls",
-      "title_ko": "Nvidia, 미국 칩 수출 통제 준수를 감독하기 위한 위원회 설립",
-      "url": "https://www.ft.com/content/aeacbf89-5511-4d1c-81c2-b4c227bdfceb?syn-25a6b1a6=1",
-      "ts": 1794911697
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "斯莱克：控股子公司分宜和骏与宁德时代签署《厂边厂配套供应协议》，宁德时代指定其在江苏苏州、福建泉州投资生产并供应电池壳体等配套产品，协议有效期至2028年12月31日。",
-      "title_ko": "스락(SLAC), 닝덕스바오(CATL)와 배터리 케이스 등 부품 공급 계약 체결... 2028년 말까지",
-      "url": "https://wallstreetcn.com/livenews/3201240",
-      "ts": 1794911758
-    },
     {
       "source": "Benzinga",
       "title_en": "Trump Backs Howard Lutnick Amid Nvidia Row, Says Restrictions Could Have Triggered China Showdown: ‘I Und",
@@ -11504,6 +11469,41 @@
       "title_ko": "네타냐후는 오늘날의 위협이 1967년 6일 전쟁 이전보다 심각하며 어떤 면에서는 훨씬 더 심각하다고 말하며 \"이것은 가볍게 말하는 것이 아닙니다. 이것은 헛소리가 아닙니다. 이것이 현실이며 알아야 할 사람들은 알아야 할 것입니다\"라고 덧붙였습니다",
       "url": "https://t.me/firstsquaw/193637",
       "ts": 1794955817
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "비트코인, 앤트로픽 IPO·엔비디아 실적 '겹악재' 경계",
+      "title_ko": "비트코인, 앤트로픽 IPO·엔비디아 실적 '겹악재' 경계",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445245",
+      "ts": 1794955850
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "NETANYAHU SAYS THE RESULTS OF THESE ELECTIONS ARE NOT WHAT HE WANTED NOR WHAT OTHERS WANTED, “BUT THIS IS WHAT THE PEOPLE WANT. THIS IS WHAT THEY TOLD US IN THESE ELECTIONS. THE PEOPLE WANT US TO UNITE”",
+      "title_ko": "네타냐후는 이번 선거 결과는 자신이 원한 것도 아니고 다른 사람들이 원한 것도 아니지만 \"그러나 이것이 바로 국민이 원하는 것입니다. 이것이 이번 선거에서 그들이 우리에게 말한 것입니다. 국민은 우리가 단결하기를 원합니다\"라고 전해",
+      "url": "https://t.me/firstsquaw/193638",
+      "ts": 1794955853
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "NETANYAHU SAYS “TONIGHT WE ARE SEEING THE CHAIRMAN OF THE FOREIGN AFFAIRS AND DEFENSE COMMITTEE AND A SPEAKER OF THE KNESSET BEING ELECTED WITH THE VOTES OF SUPPORTERS OF TERRORISM”",
+      "title_ko": "네타냐후는 “오늘 밤 우리는 테러 지지자들의 투표로 외교국방위원회 위원장과 크네세트 의장이 선출되는 것을 보고 있다”고 전해",
+      "url": "https://t.me/firstsquaw/193639",
+      "ts": 1794955856
+    },
+    {
+      "source": "매일경제",
+      "title_en": "체인스디지털, 3분기 매출 두 배 가까이 늘며 흑자전환 성공",
+      "title_ko": "체인스디지털, 3분기 매출 두 배 가까이 늘며 흑자전환 성공",
+      "url": "https://stock.mk.co.kr/news/view/1201176",
+      "ts": 1794955981
+    },
+    {
+      "source": "이데일리",
+      "title_en": "[오늘장특징주]엔비디아, 코어위브, 네비우스, 어플라이드 옵토일렉트로닉스 外",
+      "title_ko": "[오늘장특징주]엔비디아, 코어위브, 네비우스, 어플라이드 옵토일렉트로닉스 外",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01836806645647032&mediaCodeNo=257",
+      "ts": 1794955985
     }
   ]
 }
