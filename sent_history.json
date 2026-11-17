@@ -1,20 +1,6 @@
 {
-  "updated_at": 1794882252,
+  "updated_at": 1794882408,
   "id_hashes": [
-    "a2c68589b78e50399122ee1c1c2753034846e070ce08669c9924cd250ff46b47",
-    "124fa42c8db0db1adc0f25ed30137291c3ece2cd6e5b6cbe33b782d5eea1d0ef",
-    "b6bf5b82253da4e2bc7cee45bfdbacd50f9ccb412126353d1d94ec8b0fb80a78",
-    "c99bb9d2dd9f6d726e9e650c4f2cab71248540dd78a8a1d3337bb4992b85c0b1",
-    "c7a17e1202687440e4a98caa8a13e2e3e1ed7ccbdbab42dce9e1f2a0f0aff0e0",
-    "32a830f5281d4bc0c09f249c9a77f139b19fc1ac9e899e31d91973c950229555",
-    "861946b2964e6f5721adb73282022b2b180824d70bb70191ba148294ed4328a3",
-    "30cd8d932a09ec8f6bfd589e512fa007eda642c6307a50c16eb6f70d29a289c5",
-    "cfe4bb554352ad7fa72b221f1a8a79e6c761b91757e4c0ad93b4f75ef7c2021d",
-    "1bb8edd79db45a41d8e07ede3119fb3abfcd6b22608959b075c2a9eea13d5306",
-    "c9b85c1e6859c90d5af86436c1eb8756b7214aa589c668a4a0c750c0804ce88d",
-    "f23e049271a0844a847e748f05acf66656949060211dfa8b6a57f22e73509628",
-    "8ba31eb74c0ea997f8be1805d571fd2c5cacfc3efe2791b4886e778a70b8124c",
-    "ef69d97cf92e4998c178c69fdd1cc6ab864043914be8ad1ca476aedaea436f33",
     "aa9d0c28054c32a0e1145a3ca50cbf466b09177d087e00881fc1ab306a6592df",
     "99393cb4913780a7bb6a9ff2d2cfb5ea6a2cd00bee3c642f0b11fd9b6214948e",
     "acba39bf114a93c30138b595c2629cc73c99eabea54478524a3b409145381e83",
@@ -4000,21 +3986,23 @@
     "aee560bd0d7298dc6d22e7e6b0d9bf0787a49163fa3a2d7685c986f77a8b41cc",
     "0f432114f507ed367bb4bd059dd6720478de472502480e94d7471bdd0008062c",
     "164a219234c941d5203a49cbefcc10719ffe5c82e2c9797f2bdc9c9498f8f12b",
-    "dbac3782f8ea746435494abbc3f814260d1622bc2e5960166706454c21d409b3"
+    "dbac3782f8ea746435494abbc3f814260d1622bc2e5960166706454c21d409b3",
+    "c9082187f59586c9b4947a809acd963fb08b1593192868b7a7432236e774a469",
+    "5b75e715daff5782c5b48122ff573ed423080137bbb73489edc877947c30dfbd",
+    "0ecb28aafa3cea58ab1718296edf580128a092043f760c9aad9632fbb28c7f45",
+    "dd8e0c3af516c659f1a1a261495fcc911d33bbfcd213609b0b7fcf0afdd8b0dc",
+    "b4d9f7e6ba0132bf9b331dbdf16cdbafb63a766ea02493c99a9593e78e5bbcae",
+    "7addf70f1737f3dff65ef81816f850c154c8872d974781de044333b687d5a7a2",
+    "d5295c17e53c01dce18b35b7ecd1235ddca3e2e3be7a42187e940c63fdbd774b",
+    "8fc8321c3240261d164fef38dfae75cad9df6734677491de678c8246c5348eb8",
+    "3cd97f29fed85b984ce11f7a0150a5a53f5c9fb05c7bee55f7a0434a0f5d0c0b",
+    "212d9b908051a306710a916f0e3b7a654f10941705c820c320305ab8681a9eed",
+    "d881d1fc841366bbfd58d10dde76bad2aa27f9ba753017d59bc5424aa63561dc",
+    "cfcbb69d7109c0c1dc85d1eea96df45382902e419d3fa09c28a23ae29da5e591",
+    "a8fe2478d2448f888f413135548e69f2031d55751bc45e1162b020853bee3932",
+    "7f4156abf6dd5bc5538edce3be1a921efff9e5454dfc559c3b77f4beba981741"
   ],
   "title_hashes": [
-    "06502587879c1d7135b9d33ae4d2a6070d2fd04a8997fd0d62975983b5f462c9",
-    "3330def16be19e187611ac941f08a6e1401db417cda0b30a67de912b30a4463e",
-    "35bc459884b552eb7a85ba405a0eb8bb52907f02291c53e4da605c85c0dea031",
-    "7b70ba01c05230113cbe3bb3dedbd695c4508405f0e0800b1b3bdeaf7da64858",
-    "1c7c0e14818f6d2351ec4adb7148356b133578986fd63f755a67650de4b4fcd0",
-    "03fa7c908ed4a3231db9e1debe8af34df70e2fc1a5d89226fe3f50c591f4e70a",
-    "010ca84a500f7a72f4846523015ce3ba78c018800e85205b687358920a00b113",
-    "e07d61ac6c3cea582ed00a4d8f35d6954b78cdd4cc36c25a80104862547f3649",
-    "a56eab1fc08d4a24e87198cba2c6cc7cb9d39d2f391047f1f4944ff9a8c18ad0",
-    "1f6d582e95fd51f0a53fc93b680d0d960d1932698bcb25415febdba9f0427096",
-    "79880ea5ff55471a7140aa5517656c551b1bd504d98c0ebefffa1bb20510487e",
-    "952273c63f348af5924ff75f00e839a4b886a3ddad0bd9b2ba0eb0ed2fd29276",
     "1d351b332a32e1ada8a918fbc7c64c7aa98cde0d4382fb55aa6c1ba8457681c6",
     "a406658bba1cc9d10a642e40f4530932e2d255ca07eefd102f02a651cbe71093",
     "047b92d98e3bd7ba2d46875dcf27f583a69d37354be18247937b32fbb3891e81",
@@ -8002,30 +7990,21 @@
     "1c5053f57c7a66a0c2b076f04e911de1861c852a977f3567642f11153d61e9b8",
     "b2244f53b8473ff1cbca261fb8e3fbc54b70ecefd095e9f725cee3f7dac5bae1",
     "cae98d7b3082fecc0487350cf94f2f6e0d2e7ae08ffee8bebe752fbc0c60d7e2",
-    "5838bff46e49bfeaff8897d3fe2b4cb89617023f7c727ae7ffcaac1d002458f3"
+    "5838bff46e49bfeaff8897d3fe2b4cb89617023f7c727ae7ffcaac1d002458f3",
+    "a38f9978de51d32f5209a0ad388ac8f95f2f81d007b74bd706c36e28a2fff67e",
+    "1351f1edcc1099e0fd6ccaa0e83effff0322bbcce4d49351d9b13e77f30bfadc",
+    "e3e219624673832a20c5a3f9873ebecdc4f27197f647414b0a96e03c143211bb",
+    "58744a0a036077ed15a8553f579a6b587598eb53c5bdb0126a1fad69eed9e792",
+    "9c3dd316a1e750c4ccca32e959e7d6edd09f0abba01cb61a4a2bda018a71be5c",
+    "f19729cf383ed08c5a9ebbd185133615005e9ac996cbf0e80d1fbee585d3ba80",
+    "2cee318511d735c02089685f13dfd9ca6f93a242ff1de266ea4d030c68efd8fd",
+    "68f00ada5c4857aa4bc9498c06774e0255c75e7b86558ce85d6ecafa2bdabedf",
+    "f9e1811978a6c159bbf133873f4a3390916fb8603971011806b66b8b1d983cf2",
+    "ded77a2d554d90e14cbfe9f39b824dd9473c967ec97059d67ca3e89bcc2f66f0",
+    "671c5610c440e336a10a613405bbb00f24949c914d30cd030e9b4e6237cfec72",
+    "3795e5d9daf36b2dbb9a6d0b980c8d63afca8b54674000f0fe8a1c2d576c87a6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "BRAZIL FGV INFLATION IGPM (M/M) NOV: 0.76% (EST 0.71%; PREV 1.76%)",
-      "title_ko": "브라질 FGV 인플레이션 IGPM (M/M) 11월: 0.76% (EST 0.71%; PREV 1.76%)",
-      "url": "https://t.me/marketfeed/1078595",
-      "ts": 1794826943
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "[ Z ]: REPORTS LIGHTER HAS BEEN EXPLOITED LIKELY FALSE, APPEARS TO BE TARGETING LEAKED API KEYS FOR CRYPTO MM ABRAXAS CAPITAL: ONCHAIN",
-      "title_ko": "[ Z ]: 보고서 라이터가 거짓으로 악용되었을 가능성이 높으며 CRYPTO MM ABRAXAS CAPITAL: ONCHAIN의 유출된 API 키를 표적으로 삼는 것으로 보입니다",
-      "url": "https://t.me/marketfeed/1078596",
-      "ts": 1794826946
-    },
-    {
-      "source": "매일경제",
-      "title_en": "희토류 등 해외 핵심광물 투자 5년만에 재개",
-      "title_ko": "희토류 등 해외 핵심광물 투자 5년만에 재개",
-      "url": "https://stock.mk.co.kr/news/view/1199757",
-      "ts": 1794827019
-    },
     {
       "source": "Tom's Hardware",
       "title_en": "Nvidia amassed $530 billion in financial guarantees to corner the AI market — supply commitments rose by nearly a quarter of a trillion dollars in a single quarter",
@@ -11504,6 +11483,27 @@
       "title_ko": "“주식으로 1원도 안 잃어”…삼성전자에 1억 넣은 곽범의 투자법",
       "url": "https://www.mk.co.kr/news/culture/12211017",
       "ts": 1794882251
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "US TRANSPORTATION CHIEF SAYS HE DOES NOT KNOW THE UNDERLYING CAUSE OF UNITED AIRLINES' MONDAY DISRUPTION",
+      "title_ko": "미 교통장관 \"유나이티드항공 월요일 운항 차질의 근본 원인 파악 못 해\"",
+      "url": "https://t.me/firstsquaw/193346",
+      "ts": 1794882338
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "MULLIN ASSURES THAT THE US HOMELAND IS SECURE, WITH BANKING SYSTEMS ALSO PROTECTED, FOX INTERVIEW",
+      "title_ko": "MULLIN은 FOX 인터뷰에서 미국 조국의 안전을 보장하며 은행 시스템도 보호한다고 확신합니다",
+      "url": "https://t.me/firstsquaw/193347",
+      "ts": 1794882346
+    },
+    {
+      "source": "이데일리",
+      "title_en": "[단독]기소에도 美연수 계속한 '도이치 수사팀' 검사…조기귀국하나",
+      "title_ko": "[단독]기소에도 美연수 계속한 '도이치 수사팀' 검사…조기귀국하나",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03450566645646704&mediaCodeNo=257",
+      "ts": 1794882404
     }
   ]
 }
