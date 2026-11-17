@@ -1,13 +1,6 @@
 {
-  "updated_at": 1794958459,
+  "updated_at": 1794958608,
   "id_hashes": [
-    "8e2ea77e1111a234bc55c4a35c1fe721bdde1cbd9e74d207659728e12fb8c7f9",
-    "6605fec4b2b7cb035053f9d7458c58ca732a6704e913701e12f58347e592cc99",
-    "1a49f2ad29870b6cc0f16f7f829678f90d90c45144cd83b973d553870cdfa1f2",
-    "f2ca6f4432f42c0c958e5ea33caa3e7624cf7a53e50442ae21b3487d9bbbe79c",
-    "d7f9df31c01d931a6ee170cbd39f2129c7a37e49adcee9ce2c55b7f9fe8e8137",
-    "8a98e0acbb53f92359b3b83c4263e6b4f705c5a9bf15e42ea8368e53e78c3857",
-    "501fc5e65a64260bb2ece53819c89edd6e91120b454fbee65faee2829dd891f3",
     "a8b9c3c1019e72864f44969fc8c661a0576001c67fd04008b91f56a950248912",
     "7366d1adf9c3051e5054304f6d3586e4968700f0acc239e481f779fdda48d3a2",
     "aaf98b5c61e5beaef37e71869a0cc7eeaa448d7614147a42d2b1963577bdca6b",
@@ -4000,17 +3993,16 @@
     "fc5d2d174cacf6ac790b53e2733546a04f74ae894f23b910ecf08ec1e8315ba3",
     "57e7eb8b87f10412ad9ba8292dccf8b88dd5a96b833634cec88ff9b67af64e57",
     "a1cb67e5966343857d06f119d263ae39d9b29fcce7b7e8ad568deac60912edc5",
-    "9d9cab0b23295876eaf18201e83b54efb162cdab9bde3e96638036fe9610aec6"
+    "9d9cab0b23295876eaf18201e83b54efb162cdab9bde3e96638036fe9610aec6",
+    "8656d4cc7e551d53315a486aade2367257fd75b1a725159e920e99838df1ce3b",
+    "d72a76e440f81a9cd92a2c0ddda2c88f23668fe37511befd2edabb7c7269d747",
+    "93eb56c1a41725414e2d291f9a7ae85da65eed95d530a2a7c0210108216db831",
+    "cda398ebec7afbd6fead06de9ea1bf72048b95f8afb6f127f4043cb79753966a",
+    "df64d03df95f03e632fbe0c66925061fb9e7ce32c4d294fceb7abae89260e74b",
+    "61a5519216f2b55a9c34a8a41375761bc16177442d6bd03a6b04caa18598c1d3",
+    "1a6f9c5277db3a772619c731a2f7082de0238980c9d1cbc1e837b5940d21dd0e"
   ],
   "title_hashes": [
-    "08c315f371fef1c7609900b9125d39c23ae28f8cb6f2e2c90a620ed1f2a247be",
-    "17b2a20b6b51ac43ebb5cdc9e2c0bf5d1efa78b0882af9629cedcd49a0a7fc9f",
-    "e912c418ca0ebd9b8e6bf7ec746e9f01269b7bc3ed43ff70a133de69800f124c",
-    "2e4e804c6c602446d27f1d7a0e461882f6493ef5a8d383f2483dc315c7fb432f",
-    "668895a18a88eab243c40c0282eb2dd96d89c67821e012ae41d77bc7ecd2da0a",
-    "31172103b2e610a2ac9d4a19557a9100c906df18f6defa22ff8a6f22b131ca8c",
-    "bf24e30531623195ffdaa7d48f9abd93b438bb0353eade96d5f92beef51e285f",
-    "7723dfdfd82022a3409e9cb3e7443edaa35adf963f5b9b4ca02c206de9b2ce1a",
     "fd5ddf597d81a5c3362037214e12c38926aee2bbb3843fa4560577231f184f7d",
     "75880dfb4fd7ff1be7842e1cc8b393b1034583dd18bf3131b6fc7b694ed1e86a",
     "cf0ba443f25e4581e124f01142b819a3e699a502d1e963107538ca5be93bc13b",
@@ -8002,16 +7994,17 @@
     "cc67c0d0eacc6f7edf8a14ab44cfe5646bce6e8e86e824f04ff6445bf20b7e44",
     "cda9f84d78c5abaedf73128a30a541e7f5fdc3482bb4a9d4799f89d4efe462e2",
     "3fe8e3abb9fc99f258eac5147979a43df8227549eb1da0ff1f522fb84c9a88fe",
-    "94309f66b654c6fe0f5cbe793739700c254e504028c512908d87c6a99840d36f"
+    "94309f66b654c6fe0f5cbe793739700c254e504028c512908d87c6a99840d36f",
+    "3f1c8680c727a31866598b46a7a46b48a0f91374af3e7cdf01a55d74027a0a41",
+    "27aeb0c917be1439bc744462077b1cb99915a5f797ac0b0b1d3a8fe3631c18b9",
+    "4ba863124765fb3d8459b3c7289113e8df960f0fd6b05cf22cb0bf48ec4a546a",
+    "a1dc2a3a484959e6398a1809ef37a9b02bae5f5e8587f44d791fece4e43240e7",
+    "0eea45ec9e2af00dd1f214f6e6d07ab6d9d09053e508258eaa4ed5c55c760678",
+    "97c91f87cb3639722daa1ded735a1c4769ebda6466ea04ffaa90982bbba885f6",
+    "933e5fa39766a234ecab919120453f45b359d81f7309c888bf340eb75017637d",
+    "1a7cc203f715c0853eb3ce52b0455da9f8179a8f1ea5e0a832824f877fcc51b4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Trump Administration Proposes First Major Green Card Hiring Overhaul in Nearly 20 Years: ‘American Worker",
-      "title_ko": "트럼프 행정부, 약 20년 만에 첫 대규모 그린카드 고용 개편안 제안",
-      "url": "https://www.benzinga.com/news/politics/26/11/63332450/trump-administration-proposes-first-major-green-card-hiring-overhaul-in-nearly-20-years-american-workers-are-first-in-line",
-      "ts": 1794912952
-    },
     {
       "source": "FinancialJuice",
       "title_en": "BofA FMS: Net 32% of respondents expect lower global CPI in 12 months.",
@@ -11504,6 +11497,13 @@
       "title_ko": "NVIDIA(NVDA) 주식은 실적 발표 후 이익을 5%로 늘립니다",
       "url": "https://www.streetinsider.com/AI/NVIDIA+%28NVDA%29+Shares+Extend+Gains+To+5%25+Following+Earnings+Call/27365151.html",
       "ts": 1794958332
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Latest State Street SPDR S&P 500 ETF Trust News | ARCA:SPY",
+      "title_ko": "최신 State Street SPDR S&P 500 ETF 신탁 뉴스 | 아르카:스파이",
+      "url": "https://www.benzinga.com/quote/SPY/news",
+      "ts": 1794958480
     }
   ]
 }
