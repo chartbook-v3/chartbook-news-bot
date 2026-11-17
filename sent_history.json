@@ -1,13 +1,6 @@
 {
-  "updated_at": 1794898034,
+  "updated_at": 1794898187,
   "id_hashes": [
-    "c15a06a6de3cebc729cdc2b2583bb66c9895448c2599e324e6ee1a460e8f54f6",
-    "a35b254ac7e2f867faacd5583efd81277861d01968c577696e0cbb7af3d47125",
-    "4e81f0e1a34798096b505273949bf277d6840e6a8a353e1f89399f199473d64b",
-    "1736ab7e25c43d9a348959f880c0bd58773c0bebe43ae15405d864dd594973dd",
-    "4f0bac791dda5311593558c99be7defcab01fa9ee23a71f484428b86fd277eb2",
-    "7b2b4e992f52a05fb17cd68b5741d452c91cdef162943fae6169737c601b66f0",
-    "0098271a02890694f5178e380d010672824adbe8272c5ec0c0271d85a4d9ab6b",
     "b4733d9a2d5a41569c588575d7cd2a3f58569dad4527bb2006783f3cae8d95ca",
     "2f04ca12e37331acb4309548749075eafc493db37db4ac3449aa2342488e3f6b",
     "ab4accfe9ad916d86183fa8a9ddaf3bac891a11ceef761bd8004c796615af043",
@@ -4000,15 +3993,16 @@
     "83390197a2ee621fc8344bea2a33126dbd73ee065be57fa544bd7a9febb8f189",
     "226ffcb7b1e6f43c8c8d3618d48ca822191b9776a076bb8f5e49e27bc2970de1",
     "ecb29344178d8c61a2f734a22bf214764aa3733f37a0dd34b730c7980b716da5",
-    "bd99515bebe0d534b6dc996c58dbc14e35db5f154d144fae927f2a1706f6bc39"
+    "bd99515bebe0d534b6dc996c58dbc14e35db5f154d144fae927f2a1706f6bc39",
+    "ed55e5795967ced6043028d6d129bad636c4a330b2c693d20b5ff45bfbaf64f4",
+    "47f9ad13db57c175a1b82f6596ffc1964469a641afa2a8215c4ed94bbcc91226",
+    "1ccddbbe4cd4fe989eb20cb768481c947928af8e8c2d887e1941bd3412259ee9",
+    "dfa610e7947611f7ad3049ff88f710834b32be17c6373e2c2257f133b5623aa2",
+    "a7d031926bc51e4e8f2f1eadc1460844122cb1ab0f82fe317055a9c47f1aa841",
+    "6840f9690060d774c364ebdf38fc45018fba8cf64b9a14a89bd28df6dc0f923a",
+    "520df2ceedb8a06fbb41bfc1ab258395cfe2f1a302c968d8dfce165b710d0a50"
   ],
   "title_hashes": [
-    "fecd1286149522c1150a09712331ce4545c8dc1927f63dd29108d79d6783fa82",
-    "0fcbb890bc6f6bc873f3bef9ad79f7a6ee67a5fd153656f91b3e160bc6f90090",
-    "ea677629afba224a84a0804a94809c9fd32b388160d177067f4bbd9a14504db8",
-    "c89c1a0da932c3fc4df9d4169ba887938e1e845c946537ce8daf86d2b86ac785",
-    "036c061e048ea297cc2f1ea6da24360fcd8af06334e6cef45040b8fb3f784ada",
-    "32aac0818caadfde49bdae8f6005920615d3786f3ac313d646f37b705550b5b6",
     "ddfd36620620931de9562108b601fe1a4a6f0d727f1267168c7c1e241ee6354a",
     "b41ec59489db12e48e58cade37e8f98afd3570734bf05eb67051aa6fa04b8fa1",
     "ac88c3567a7d35babe2f43f290d377af10b8d6df229d584822380b4c7207cad5",
@@ -8002,37 +7996,15 @@
     "679a1763ed9b17c6bce03c77f3db8239549e2da71d95847d41b25f7031304d4f",
     "0ae6a310e782592ad90407cfc34dc3118cb7687703a4966bfe82cd4fcb4d85c0",
     "676563ca641895e852d7db938d9f5207a835f010761a2698fe94369db8217f2b",
-    "ae848ae5d26c408ff75f2b65b6730264c326cc0144c045b35a5228bf6c2e2d6d"
+    "ae848ae5d26c408ff75f2b65b6730264c326cc0144c045b35a5228bf6c2e2d6d",
+    "c77d9c655e25ca0f4843360fb52e1ec2ce7593712d2474b2cd1ab25b57dd196e",
+    "3d549b87c12b3a17ef131262e89916032238120e26abfd665fb88463b83d29b3",
+    "861056dd416ee185c405e6063c273f92f1151d82bf7068336c2a9db6888e8a36",
+    "ce506b56d16b73138cb3368cb160fa9bd15ad7c277f07f2b1c6a6f32e5015757",
+    "fb08a1dd67bb75f3c301bfe0c6dc0bcee7f0d209a52bb7d411f33a5dc0c17e45",
+    "2af7c70352da97bdc9cbd965f3277ba4585b6076f4bbb5c18135f21e50f11ef8"
   ],
   "recent_sent_articles": [
-    {
-      "source": "한국경제",
-      "title_en": "\"AI 생산성 향상 아직 없다\"…Fed 의장이 내놓은 경고 [Fed 워치]",
-      "title_ko": "\"AI 생산성 향상 아직 없다\"…Fed 의장이 내놓은 경고 [Fed 워치]",
-      "url": "https://www.hankyung.com/article/202611170570i",
-      "ts": 1794855616
-    },
-    {
-      "source": "Stocktwits",
-      "title_en": "VKTX Stock Gives Back Buyout Speculation-Spurred Gains, Investors Continue To Await Key Obesity Trial Topline Data",
-      "title_ko": "VKTX 주식은 매수 투기에 따른 이익을 되찾았고 투자자들은 계속해서 주요 비만 시험 톱라인 데이터를 기다리고 있어",
-      "url": "https://stocktwits.com/news-articles/markets/equity/vktx-stock-gives-back-buyout-speculation-spurred-gains-investors-continue-to-await-key-obesity-trial-topline-data/cNb7DUxR9gX",
-      "ts": 1794855619
-    },
-    {
-      "source": "매일경제",
-      "title_en": "바이두, 핵심 광고 매출 부진과 투자 부담에 주가 약세",
-      "title_ko": "바이두, 핵심 광고 매출 부진과 투자 부담에 주가 약세",
-      "url": "https://www.mk.co.kr/news/stock/12210611",
-      "ts": 1794855649
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Amazon Stock Has the Best-Looking Chart in the Mag 7. How to Play It.",
-      "title_ko": "Amazon Stock은 Mag에서 가장 보기 좋은 차트를 보유하고 있습니다. 7. 플레이 방법",
-      "url": "https://www.barrons.com/articles/amazon-stock-magnificent-seven-consumer-fa7f68e2",
-      "ts": 1794855651
-    },
     {
       "source": "Bloomberg",
       "title_en": "Nvidia Fallout Adds New Tension to US-China AI Race",
@@ -11504,6 +11476,34 @@
       "title_ko": "삼전닉스 주춤한데 버티는 기판주...수주·단가가 뒷받침",
       "url": "https://www.hankyung.com/article/202611171797i",
       "ts": 1794897909
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Big Yellow Group Plc Non-GAAP EPS of 29.70p, revenue of £109.2M",
+      "title_ko": "빅옐로그룹, Non-GAAP 주당순이익(EPS) 29.70p·매출 1억 9,200만 파운드 기록",
+      "url": "https://seekingalpha.com/news/4673448-big-yellow-group-plc-non-gaap-eps-of-2970p-revenue-of-1092m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794898120
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "AUD/USD bearish momentum signals scope for further declines towards 0.6660, according to FXStreet",
+      "title_ko": "FXStreet \"호주달러/미달러, 약세 모멘텀 지속… 0.6660 선까지 추가 하락 여력\"",
+      "url": "https://t.me/firstsquaw/193432",
+      "ts": 1794898122
+    },
+    {
+      "source": "한경매거진",
+      "title_en": "“젠슨 황 떠나도” 韓 반도체 청신호",
+      "title_ko": "“젠슨 황 떠나도” 韓 반도체 청신호",
+      "url": "https://magazine.hankyung.com/business/article/202611172053b",
+      "ts": 1794898183
+    },
+    {
+      "source": "한국경제",
+      "title_en": "[속보] SK하이닉스 110만원 밑으로…7개월여만 최저",
+      "title_ko": "[속보] SK하이닉스 110만원 밑으로…7개월여만 최저",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41NHpGWkd6MEF5eFdpek5YcnAtdGhMQUZJNmtySzExV1VsQjV3a3RxNkx6dFJxbS13Q1B3ajRhOWNWaWVXVkxrTTFQVnpfZERrQWtLNHRmLWVmdw?oc=5",
+      "ts": 1794898186
     }
   ]
 }
