@@ -1,33 +1,6 @@
 {
-  "updated_at": 1794951858,
+  "updated_at": 1794952024,
   "id_hashes": [
-    "a1eaad0d2fd99df7d1eb70057cfb4dd72b12c66e734c70ec9b6de23996cee6ff",
-    "49d5c15f696f21179cf2730c567fe546719071353c43e4c7ea77aadde5abfcf0",
-    "2f885b6baae55c3f188d1e996a2751f2a5dbf03c616655523bff369dbe52471e",
-    "bba873ef1d1afc9d227f3acd51a5cf894ed6c2300264b0f72ccc6b5aa15f339f",
-    "f1e55f5de9094cb4678cd27442db0e06959f10d1b7462f4a34e8ccceb0252ec6",
-    "0ff24a7e1b6d6bce4c406de88d1b55b59e4f83391ab882739bd8f4206b63c803",
-    "f26ff8a7495dea547df8cac361095ba95458146943e865d9d18a455f2c235bf4",
-    "756c5592a923c79002ff6bbe9552e28fae8ff742181ea01c7e25ad81f148a622",
-    "60615664141cad4937973c045b11420331d7025c1dab3416a1e1700794bae48a",
-    "3420bceb083e58d53fd3f8ae2c6c52b5097f30406029aa087bb0499f6443d8b1",
-    "2d4871f153d354f2e14c5ac238ecbef8686bf3fb6b8c096e1bbcc5d49ba69faf",
-    "2484b58fcb88c48a01a578fe8a116f153c54614540f770f984b3ad3a3ffb2735",
-    "c64a9b4795302ff72a0bd0864b51a0ce0d6c93a77645d43514f044c8f45a35ec",
-    "aa909e938ee6c737b2cc7edc83949bbae126881d65b28af419c06e6f78267ad0",
-    "e2cd930814f67b820b69ba0df1fe9ff52edd81abeb0cadb25a03c3102efd8341",
-    "2f9aa0332be43d0d0dbab4118f75627d7a3f7ba15e8313af10eab5d21e304b5f",
-    "a6756aea86ccf9a7f821a703c86e061b5180bcfc85c3acfa88a1d0f4f8e65b1e",
-    "8c491ff0c3c69cc251e6567e02438b8753014ef7897f7bcc4c369d8517dec1dd",
-    "b4ff745442f6de952b747f8c771384f108937263ecafd1f6bd6303ea7e0eb70f",
-    "f3bfd0b55e7c2df914aa997f2e9e0b68834c5cae9dcf2cf4ecce4a4b8a717277",
-    "d5e29bcd0e06901df66bff623934b264f30e52a514cf5ea3b18b5befdaa0c39a",
-    "b5ab0db0548040db04779ffc1d65781c094555a82fbd16f23e5bf873941311ab",
-    "8f4efa2a594c0ad1779ceedcac75535d1ca669c3d64ce357ea02a7641ea07f61",
-    "7186c6da760c1ae7bcfce6c6cf6a15d18b6f31099de1f9eb0efa8a1723f29caa",
-    "0b4965853131a53358b6a958237d806ceb359e00ecfa4cfcb4c541ea88f842cb",
-    "6d06f4a6d24be42a48326d00238cd7f207001433866ea3bce752d405092f6a8a",
-    "19a726d9ab3a447f25688e77790c66fb1fc7e00c80931788c2365734591a883a",
     "39f50cf5d8a05ce936f68b0c139e6f442a42a71eb2c83ee05d19dc858de07578",
     "87e5e97b14db19d4f7f8d1a8126b35ea64a5375b89e465d9ef7819651c5fdee0",
     "a8dce477818adf253d30c5536ed1b9cc6033488010bc85bb80fe77d4e902f2db",
@@ -4000,28 +3973,36 @@
     "549bb43909ada5029524c0fbf0b5b650978fc527e4d0b153a57f57acef1351ec",
     "37fe3f965bfec1f0f80b0a1ec122cfb1bc08c4508d9c9081eb98d5c6e92869a9",
     "4fe346f675f563eee21b30732fb1b0e8ffdae005ac8e3aeb7bb479768af93c57",
-    "f4c5bdb6f94637aa052d28e5aaeb8ad24d0975bab9e6e48a0b9c062b38985940"
+    "f4c5bdb6f94637aa052d28e5aaeb8ad24d0975bab9e6e48a0b9c062b38985940",
+    "da04d2e6cf490f7532821c3b3dec9d36a409d8c1cd0c232802f45182c770e303",
+    "82b7082cf4e0819a684c3462a4292989a844e9ca5336cfa422c91a5a1f8d4e4b",
+    "9bc040b5d59e38ac09fad114180b4bd2fe39910c193cb8685de3b74f0f188ff5",
+    "2666f103596215be75f5e2cb8084164e2694adf5afeffeba84049665d910c70b",
+    "08292890716803051974ec350cfe3b3e63b038afdd8dbb2188f37b734c57d4af",
+    "1fcbb1ec81b80a6430c2f40d77aefa2a82d16f8470c7e75949145b32edf8cde9",
+    "9e72e8567a3e97c30e91d7942956a82638f08a911f4c7c023368fbdff1bb451e",
+    "b2d7aa184077db652e6548ff2950d7f1e2aae8878c96e60743117a624aa933f3",
+    "9d606929765e7e92a6520720fbdedbbee43047bd70b1b28b6dd21998c274a343",
+    "6aa35ee301dd0d7e93eb11fa26f4f44c1c55a2205bd4d8a4ab68f56618d25a12",
+    "5b10ebd1cdf293ad6d8253a3ed5f9405881cfe7a012b35283e208f2455dc921b",
+    "6167711a5395a9e84a4e287afcfcc6cef78dba29eb51fd78f4007713e73f16b3",
+    "c4a370f256d0a86ed07672476fe87e0c3bfaf38571ba4a2bc3c90fe5d2fcede6",
+    "fb5d0a5223ffe21a893334f026b6a8c6338aef1e99a1dfe297de7c37eb44ad77",
+    "f8af0f3979b13d6b964b1465476c1ca218ce2c0e0b4b408d6281253510911b7f",
+    "5a5bade0a1154a27fae0a14d6024a553421da41c7b83629e0f16aebeeeb5225a",
+    "3b0b6eaaa903959376f578dd8bf7a9565684c21bcebdd00f2f38229becd77841",
+    "6302e21599c500031098fb54d1cc795ffdddb3d0d582c190c64dfab9bfc0ed57",
+    "4250ee102db7073ab82b73744be717b7449418033d7d774f65fa7aeba8589d07",
+    "8ccb707d5d03c6845a24aba337b13cd019886b790957611f26802b531ebe0e35",
+    "d4a4caebe86dec69fe025977b04c4807834413475ff14324f6c72c22758d23fb",
+    "50248761316e591728e50203f4fd188a1c5cc3b76409036b4e870ad1a25b8a45",
+    "10d44102e81dc222059eaf6f197ab06a4345d21f1c331ccbb4c7aa1fb1c9ff7f",
+    "8c9020c0bf18a6bef8270174231ed6ad1be9861375f83ffa5aa9bc251bf711de",
+    "971b7f86ebedbc462f728360b6e752a6c642eddc2eeeca05c51ad073353ea204",
+    "91c7d8b0f3723c3869f41b20f0b672e91febd907d079f4088aec4d55d4f9f6b9",
+    "cc0f1db593324936b94ac3a6135b7ae713373b5ac0f3598be3fa4a21c1e08536"
   ],
   "title_hashes": [
-    "7807f0365ff4676e591683e31df9a6c21624105e15f8c5f1c145474cd1ab9f1d",
-    "72c4994030c9d21bc0eaab16c22c4f0c7158db4f315a62374f0906aa975f7d43",
-    "cd0d8d46ec3a347c109439844568a5dcfebff41a8bf185edc979a8f16747b06c",
-    "163de75ff38fb0f40e30aa30eb29f67f5e89b4a2e90a62820879f4c3a30907cb",
-    "1c3b29d894e2ff29fa1627da156093db9d42a4a5fc2351f50f0ef1ea755841e7",
-    "b77197064cbc23f7562d94e31b052c8bceaa13a42de5830bbf322948539dfa2a",
-    "d872596256cb526cf3af19d8fe1e4302e6e16bb148c25d294302a8d870b4325d",
-    "631be9181d11f50ad75c49564e594c1d042cb7190e870bfcd44153d7be63334b",
-    "acc1d4b57eef7b2beea2f455b5a49614d0524a2afdd9e9487dfe0755fe957939",
-    "7867afa3268f96c9fb00bb62b11458425e490a1bde842c6d793f40a64ffcd6ec",
-    "aff0a11f0f050fd43e13be1263e240b0a51bc49d9b45f4ab96039118d69bb7ef",
-    "13d089e719b9f8cba92be1e9cafe301929aa76736a9ac9c890201aadbbd5e9c8",
-    "8cf51b27dca8cee6cff897f22cec8e42e49a2b82dacd97335eb30c5d4c751774",
-    "b7b5b4b1c84d92ac56bd38e47035f9007da8f1c371ab15fea96cda9fccbc5b64",
-    "0b7aabcfca2b8b176f9128c30cc97a4d5cd64f65368dc007c80c0a9b8170640c",
-    "99117cf0a5c1db4391779134ba94f80a980494e30e2a72b4741f181866b8e789",
-    "9d7dcaf542b3444f4e7a4c87dee9f4b9eb9a028e6f9a55bdcdbc3fe2d496c55e",
-    "604a2bdd26ba452dbf78bae8af2ab673540ce53d9f37e3ce0de46887a3fe0847",
-    "37890904cb825dce2edf0ee8f7b6cb9dcc86f2816fec8bc64a92c738f3330b88",
     "13a3750e1a420a8aa64f988962aaf87358036995efb21713ca775939b0d8edca",
     "e8b3f6415c54adea67615d350328e9268cf3233f27eb25eae34a56bec1566023",
     "842d3136598876eed8cec0f6be92915a0caadc74a64b47bb7d05033ee5c0e579",
@@ -8002,65 +7983,28 @@
     "52cbfb4033a29f11a28c2e12d4faa5ff58be1ea58a6ef2ef5ec93282b256709e",
     "ef49808346d7b040df53a0ea88209ed403d23fecea6f666b3db3d66e59601b80",
     "fb75e38050376716833d456bc28e0452f238df0699e3b404d206239fa0d44a93",
-    "9e7a9908b071046adcf525591186d972d278c02a405cb2cc303ca687ea4e4d43"
+    "9e7a9908b071046adcf525591186d972d278c02a405cb2cc303ca687ea4e4d43",
+    "3394bf7dc2e6e6000b9c5e71ceb6933d476ba5d31a1291c887d5fea2f629dda9",
+    "3d016b05ee75a2252b6edc3f4d5d8cbcc507173cffb504befc692877445d932f",
+    "c9b085a2d7e756fe9b578ababc310ac7a4bba692cb405588be8edeaab52766aa",
+    "bc70f971cae01edbac5f7db6833f76a25cdf6e78f21d014d17da49ed89727714",
+    "f00040ca0e141c3e0da44fe2d2e3cfea405dd426abe731a99c080dfa1939b570",
+    "64ace1a6a1c9d4fd3d3607e66f8be90b6dfd75bfd40eb9af02b382d3d5659e81",
+    "9740d2fb2a4cbb7d2db0975c24f4c0309ad7563fe1442749c2b0f648ff67b883",
+    "cf2286f0f05289903379508c698ce59ff208aba4ff63e87e1bda804fe5c6085b",
+    "0b9f9051f859ba7a018bd1e24d6eac688382d298f60f113d5d8eaeb029ae973b",
+    "2bc570839403968613ee0b566d6e1c8fdb9eb450f1a59cd8ab6980205a8bb130",
+    "d5233029cdb543e224edcf5310e3c6f874a84f5b7b95df6ab941b70b1b4905c3",
+    "07e15b2c9d87c480936d59e6b4314f91455e00d43ad0fdfa594713d1afe20c5d",
+    "1573308725a0b5e2f32b9cc8fbebc550b58abef3243023291573267c86ae0f69",
+    "1bb019c9f52461fb2e7b3631d0c9097d25da7dfc8d2fc5a7361f33b4dfe71938",
+    "066b62471410f0866725dfc4b9e7f6476c7db50d5063142f9068cbf2ed091841",
+    "1322119339fc60fe03c07b098aa37b96c3ffe57653017ce51cf6a15ad05f5ad7",
+    "7e83e87dec81fcba49103de77f45a10532fd71eda520dc2bc2f68897d843ef16",
+    "7f4c700f5396eecc2e7099a2a8e0691df25db1200f6e7764b59da596fab278f0",
+    "d4b01eeeec9ce71006c0db4e2c5691257a582959e36ee4d0ddd78f61f21cd8ab"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "【外交部批美国经济胁迫：美国无理打压中国高新技术产业发展】11月17日，外交部发言人郭嘉昆主持例行记者会。 有记者提问，11月16日，美国商务部发布了限制远程获取先进半导体临时最终规则，以新加坡、泰国、马来西亚、印尼和巴...",
-      "title_ko": "[외교부, 미국의 경제적 강압 비판: 미국이 중국 첨단산업 발전을 부당하게 억압하고 있다] 11월 17일 궈자쿤 외교부 대변인이 정례 기자회견을 열었다. 한 기자가 질문했습니다. 11월 16일 미국 상무부는 싱가포르, 태국, 말레이시아, 인도네시아, 브라질을 대상으로 첨단 반도체에 대한 원격 접근을 제한하는 임시 최종 규칙을 발표",
-      "url": "https://wallstreetcn.com/livenews/3201100",
-      "ts": 1794900103
-    },
-    {
-      "source": "전기신문",
-      "title_en": "“수소환원제철에 원전 대부분 쓸 판…해법은 원자로 열”",
-      "title_ko": "“수소환원제철에 원전 대부분 쓸 판…해법은 원자로 열”",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrMFZhbWpEM1VLTnRNZkxfdDFOdDhrMm5BTHZQUlY5SlJXZGFCelFVNnVRaURSeTRieW9pTTJ4bDNEQV9xZUd4MU85VEp1aUVYMWFiZWlXZFJ0dHR1c3RxZGp1RTNCTnV3b0c5WNIBcEFVX3lxTE5qaDN1WndXckJxTU53VjNmN3R6OGNVUzFZSnJublRyS1UtcGJqRndPTjcwMFF3cm5YZDBuTlFxNnl1MF9HWWI5RVRDUk82MEN3cmp5Nm5JNzV5TmR6WFRRUVl0QVhsOG1LLXhhcFpuSmc?oc=5",
-      "ts": 1794900186
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "YUBO INTL BIOTECH LTD A by Yubo International Biotech Limited Earnings & Forecasts",
-      "title_ko": "YUBO INTL BIOTECH LTD A by Yubo International Biotech Limited 수익 및 예측",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hQjZ3WWhMU2pYeTAtYnh4bFpTbnJhOVJvanNKblVsWEdZS29EdFlGd1hwdFlMWDFmcmpMeWhBcjhSNVFNRzlzT2tZOHNEY01wVE9Ta2dOckJ3eTVHMkFTRUFBSjg?oc=5",
-      "ts": 1794900318
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "FitLife expects about $1.2M in annual OpEx savings starting in Q4 2026 as it targets lower costs amid Amazon and specialty retail headwinds",
-      "title_ko": "FitLife는 Amazon 및 전문 소매 역풍 속에서 비용 절감을 목표로 2026년 4분기부터 연간 OpEx를 약 120만 달러 절감할 것으로 예상합니다",
-      "url": "https://seekingalpha.com/news/4673458-fitlife-expects-about-1_2m-in-annual-opex-savings-starting-in-q4-2026-as-it-targets-lower?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794900407
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "外交部回应美国政府调查涉英伟达芯片一事",
-      "title_ko": "외교부, 미국 정부의 엔비디아 칩 조사에 대응",
-      "url": "https://wallstreetcn.com/livenews/3201104",
-      "ts": 1794900415
-    },
-    {
-      "source": "머니투데이",
-      "title_en": "[단독] \"의사에게 사생활 노출\"…'병원 밖 물리치료' 법안 24일 상정",
-      "title_ko": "[단독] \"의사에게 사생활 노출\"…'병원 밖 물리치료' 법안 24일 상정",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pSFBTbFVPWXNNYVlFc05ueGhZMEJzY1YxNTBpVkprNFBLTlBVLUNNUFN5MUQ3MXc3RjFpR1UtWWVYR0w1UDlOY21ZWlprbjhDb0x2dkotc3RHLXZiNmROUTQwU3VzaTJxR2fSAW9BVV95cUxPNXlxenB0MTh0N0ZTZDZ0V0RBUmMxYlBwc29FR2FZSTNSdEwzZDVsUThHQi1BRGJDY3plUXpBWXpfcGNOX0cwQXcxTEFoaFlpc1RpT2x6ZmNRWC1laWc1RkFMUkJneFdSTTZzZ0Uwc1k?oc=5",
-      "ts": 1794900494
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "BEIJING GEEKPLUS TECH by BEIJING GEEKPLUS TECHNOLOGY CO LTD Earnings & Forecasts",
-      "title_ko": "BEIJING GEEKPLUS TECH by BEIJING GEEKPLUS TECHNOLOGY CO LTD 수익 및 예측",
-      "url": "https://www.benzinga.com/quote/BGTCF/earnings-forecasts",
-      "ts": 1794900624
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Howard Lutnick's Commerce Department Says Megaspeed Probe Began in 2024, Reveals Alice Huang Interview an",
-      "title_ko": "하워드 루트닉 상무부, '메가스피드' 조사는 2024년에 시작됐으며 앨리스 황 인터뷰 확보했다고 밝혀",
-      "url": "https://www.benzinga.com/news/politics/26/11/63330670/howard-lutnicks-commerce-department-says-megaspeed-probe-began-in-2024-reveals-alice-huang-interview-and-nvidias-no-sell-list-decision",
-      "ts": 1794900628
-    },
     {
       "source": "Benzinga",
       "title_en": "BANCO COMML POR ORD NEW by Banco Comercial Portugues S.A. Earnings & Forecasts",
@@ -11504,6 +11448,62 @@
       "title_ko": "엔비디아의 3분기 실적은 Jensen Huang에 대한 전체 언급 없이도 높은 수준을 기록",
       "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
       "ts": 1794951735
+    },
+    {
+      "source": "디지털데일리",
+      "title_en": "뉴욕증시, 엔비디아 실적 앞두고 하락…S&P500·나스닥 4거래일 연속 약세",
+      "title_ko": "뉴욕증시, 엔비디아 실적 앞두고 하락…S&P500·나스닥 4거래일 연속 약세",
+      "url": "https://www.ddaily.co.kr/page/view/2026111806364217072",
+      "ts": 1794951881
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Hub Group receives Nasdaq approval for continued listing",
+      "title_ko": "Hub Group은 나스닥의 계속 상장 승인을 받았습니다",
+      "url": "https://seekingalpha.com/news/4673929-hub-group-receives-nasdaq-approval-for-continued-listing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794951883
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "民主党调查美国司法部在OpenAI版权纠纷中的角色。",
+      "title_ko": "민주당은 OpenAI 저작권 분쟁에서 미국 법무부의 역할을 조사합니다",
+      "url": "https://wallstreetcn.com/livenews/3201532",
+      "ts": 1794951947
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "新西兰三季度PPI产出季环比 0.8%，前值 1.6%。",
+      "title_ko": "뉴질랜드의 3분기 PPI 생산량은 전분기 대비 0.8%였으며 이전 수치는 1.6%였습니다",
+      "url": "https://wallstreetcn.com/livenews/3201534",
+      "ts": 1794951949
+    },
+    {
+      "source": "The Lufkin Daily News",
+      "title_en": "Huang pitches Nvidia comeback after sources say board not considering it",
+      "title_ko": "엔비디아 이사회는 고려하지 않는다는 보도 속, 젠슨 황은 반등 자신감 피력",
+      "url": "https://lufkindailynews.com/news_reuters/business/huang-pitches-nvidia-comeback-after-sources-say-board-not-considering-it/article_bc029db3-bb2d-58cd-8cba-e0ad958f2961.html",
+      "ts": 1794952010
+    },
+    {
+      "source": "XBOX Wire",
+      "title_en": "Carenado Releases a Microsoft Flight Simulator Marketplace Exclusive: The DO228-200",
+      "title_ko": "Carenado, Microsoft Flight Simulator 마켓플레이스 독점 DO228-200 출시",
+      "url": "https://news.xbox.com/en-us/2026/11/17/carenado-releases-a-microsoft-flight-simulator-marketplace-exclusive-the-do228-200/",
+      "ts": 1794952013
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "After-Hours Movers: NVDA, CRWV, NBIS, AAOI, SLS",
+      "title_ko": "장외시장 주요 종목: 엔비디아, CRWV, NBIS, AAOI, SLS 등 등락 엇갈려",
+      "url": "https://www.streetinsider.com/Hot+List/After-Hours+Movers%3A+NVDA%2C+CRWV%2C+NBIS%2C+AAOI%2C+SLS/27364479.html",
+      "ts": 1794952016
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Goldman Sachs on NVIDIA (NVDA): 'We expect the stock to trade modestly higher'",
+      "title_ko": "NVIDIA(NVDA)에 대한 Goldman Sachs: '우리는 주식이 소폭 상승할 것으로 예상합니다'",
+      "url": "https://www.streetinsider.com/AI/Goldman+Sachs+on+NVIDIA+%28NVDA%29%3A+We+expect+the+stock+to+trade+modestly+higher/27364492.html",
+      "ts": 1794952018
     }
   ]
 }
