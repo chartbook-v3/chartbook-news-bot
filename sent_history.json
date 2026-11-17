@@ -1,13 +1,6 @@
 {
-  "updated_at": 1794954539,
+  "updated_at": 1794954699,
   "id_hashes": [
-    "11fbef37b3c65e42b06e967a2f9e62ead20619a4290ee5e5ca24f3627341b2dd",
-    "b070afe26341b6febca167fbfb9c2d9d01473ab21b63d017cd99d9f5c6a8cf12",
-    "de119e07f047148ca2031f3971aa485ca550cafbbe0a3067a1dfe13845701529",
-    "a2978ce3073b5fbac05177f1ee51c6f6634609a91e2f2d2ad1b75b5ba8b0ef08",
-    "dfb44a5cf19162db895b43a06d9a7d8957f69ab3da9621385ba9719ac523e92b",
-    "97933e9f4e7a255735ea348a5b4b9af4da877f81c101fb54e8a46c5dca80074a",
-    "3d584978be55dd702e3e4ea4a9bef5d07c4e2d34bb445eafd7166cd1851227bd",
     "6900700828fb444e4332799b6fc8e4d46452c59d0fd90b3d7ed69a774667adca",
     "ae916797d0cff4f1a6b9ece7b501cbef66f64866cea7444508bc4cd44520a260",
     "d655f7481bc17a135eeaabde503675089d0aa9d550e51a58594c9d304f4bafef",
@@ -4000,16 +3993,16 @@
     "5de1d439b03659b5a1b79c4d5397cadd6a5a2302d8fa5d7d001a961673b2101b",
     "ee463152417bd9713fb41e9be70a57acef95580bf023d4a92216ed56f6617782",
     "f71be1bc3fbb10bf46cccd082db08a0c6ec1e1310ce2b0e7976f909143851473",
-    "5f61d43e9ed8c04ea02434211a44246c6070e380c1f454dac04df2b19e29c1c6"
+    "5f61d43e9ed8c04ea02434211a44246c6070e380c1f454dac04df2b19e29c1c6",
+    "9ee6aa30d267ba77874103d6f7e724f99a7e5767a5affafbd10d670c49f7ec5e",
+    "0211a911b1a6eb6112ced4378f56b80a536d51aef9324d014adc830b2bccefeb",
+    "3c0b6ae4d1d2e81a39d516c58cf33ebab0afb4c3e0dc5be288687667d5893e4f",
+    "ae598e5f36aa7b02aca4ade2484929271890ffe2940bde4afc4a2ade99362f47",
+    "8e73b5f66a58c3a1f7f0ead3579808b8da57cd6b072922f837de5f4a3617d821",
+    "ff701dd93295703326fc3e7651fea87ef419bb849e38903b0937411fc34e1bec",
+    "1e9cd64dab29f22cc96dc2ef5650b942be6557dc4d2625260686edc5d0d81528"
   ],
   "title_hashes": [
-    "2bf6abbaf11a45112faf65cd9a604b4a19c78641f968c83e6b547a086dcd7cd8",
-    "3aeca3ace94d808ea23f2643d70d5906c114161ce07c2243cd043bc5103d1d92",
-    "ada2d0d522b48c10da24b1b617645fd5588635a675f3c8c7d4dc2e3cc0eb0d2c",
-    "205e3b294b831b361df22361259a722a2ad5818c16e025d10304c98acc59bbb8",
-    "c021e9840794409a1b9e2c4ad48e4032e1b15d3537bce04bb0f8992b9d1eda9b",
-    "218370e683cf546d96311f7c958762fab6174fd0d1690b6d9686d46c502c6ee9",
-    "e7ce1615a04586dad1c4a466f4e879e37215a4d06515899c76070918be419ebd",
     "7a12e046102e81188c15f32d866c6e07182ba33b40c53bc632563325ebf21b6c",
     "7c59f297dd734d67ed6e319853ce55f345f077d667cf73d3cf069d1d4bc819c2",
     "7e4bd147d4b12d8bf55baf168f29bf4bcc699e110e9ac93ebbdc8bcea673962b",
@@ -8002,37 +7995,16 @@
     "9a64100bde991a2ad7850078973bd53b08105505fb0671c3777c686cbda0ab9e",
     "92226adc32f5da1347853ca5db52608f7d735863eabfdea2ff4355baec6488dc",
     "c70463617ebbae806c6ef622506b2c71606a65f75ad423e3ee507d480d9384f9",
-    "9d297a80bfaf2025ff47da73b489772257bf9302cb24aa6b237de1389d4ade4e"
+    "9d297a80bfaf2025ff47da73b489772257bf9302cb24aa6b237de1389d4ade4e",
+    "14f78b4e7eb092edabe58daf9c0b61d3c7fddc770a4b227cee5f0c3c2b8ed05f",
+    "395430ab741d3feede2cbc354722fc95ee3f223a243eca3de347fcabc953a3ed",
+    "1857a0a900cc9b2c8a1958dd83a32b58a63d4e8e5a53462d4790c94cc02a55e4",
+    "82cde629bd5c9e2f9fe0cd40d9635ccbc95ee994a8ef764abc40fce8218e35f1",
+    "55d63dc712e6d63a70ef1845553f66e8a2b4b38c67704f96799e1245e6d2a619",
+    "93ffdc375b4dbf0bbd98fc7e6c98494a8e7b865b0ffc5a34f8ba731ea9751146",
+    "05d83be29abd6c364b05caad49f3b176388ab319f8393e5e01ba26c37c64a627"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "CANADA EXISTING HOME SALES (M/M) OCT: 0.3% (PREV -2.3%)",
-      "title_ko": "캐나다 기존 주택 매매 (M/M) OCT: 0.3% (이전 -2.3%)",
-      "url": "https://t.me/marketfeed/1079442",
-      "ts": 1794909761
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Quorum Cyber Completes Acquisition of Ontinue, Advancing Its Vision for Microsoft-First Autonomous Cyber Defense",
-      "title_ko": "쿼럼 사이버, 온티뉴 인수 완료… 마이크로소프트 기반 자율형 사이버 방어 비전 가속화",
-      "url": "https://www.streetinsider.com/PRNewswire/Quorum+Cyber+Completes+Acquisition+of+Ontinue%2C+Advancing+Its+Vision+for+Microsoft-First+Autonomous+Cyber+Defense/27358526.html",
-      "ts": 1794909787
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "TSMC puts construction safety ahead of capacity milestones in its 2026 supplier awards",
-      "title_ko": "TSMC는 2026년 공급업체 시상식에서 생산 능력보다 건설 안전을 우선시합니다",
-      "url": "https://www.digitimes.com/news/a20261117VL219/tsmc-2026-capacity-fab-supply.html",
-      "ts": 1794909923
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Okgo Techno books nearly NT$1 billion in solar orders",
-      "title_ko": "옥고 테크노, 약 10억 대만달러 규모 태양광 수주 확보",
-      "url": "https://www.digitimes.com/news/a20261117PD203/solar-epc-revenue-design-2026.html",
-      "ts": 1794909927
-    },
     {
       "source": "DigiTimes",
       "title_en": "Silicon Motion accelerates AI infrastructure with Nvidia DPU and Aspeed BMC",
@@ -11504,6 +11476,34 @@
       "title_ko": "iFixit의 Apple HomeView 분해로 인해 수리가 어려운 기기가 드러났습니다",
       "url": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
       "ts": 1794954538
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "NVIDIA'S KRESS: WE BELIEVE OUR EMPLOYEES ARE COMMITTED",
+      "title_ko": "NVIDIA의 KRESS: 우리는 직원들이 헌신적이라고 믿습니다",
+      "url": "https://t.me/marketfeed/1080076",
+      "ts": 1794954624
+    },
+    {
+      "source": "한국경제",
+      "title_en": "[속보] 엔비디아 \"삼성전기와 패키지 기판 공급 계약 새롭게 체결\"",
+      "title_ko": "[속보] 엔비디아 \"삼성전기와 패키지 기판 공급 계약 새롭게 체결\"",
+      "url": "https://www.hankyung.com/article/202611183334i",
+      "ts": 1794954690
+    },
+    {
+      "source": "Reuters",
+      "title_en": "US bankruptcy judge approves Spirit Airlines data sale to Google",
+      "title_ko": "미국 파산 판사, Google에 Spirit Airlines 데이터 판매 승인",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM0NfLTdnMktRek1KYml0RlYtSmhsVE1RRXRIaXBCZDQ0SXppVF9WcnZwak1qSFRIbDVRck5iZ2FEcVVNZU9tVVY0LUlLQnItelVvZE81YUZSNW03clhtazNMTEd2SnNHQzhWQWlDVDIwVFgtSkFYVkVNYnQ4alE5S1dUX0lKcG9RUDFBWDh3eThQRWhBV2NtN3NJQ0tlVE5MZXVZVmVuc1gtQQ?oc=5",
+      "ts": 1794954695
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "NVDA in charts: Data center revenue rises 110% Y/Y",
+      "title_ko": "차트의 NVDA: 데이터 센터 수익은 Y/Y 110% 증가",
+      "url": "https://seekingalpha.com/news/4673877-nvda-in-charts-data-center-revenue-rises-110-yy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794954698
     }
   ]
 }
