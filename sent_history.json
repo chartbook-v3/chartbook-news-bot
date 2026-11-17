@@ -1,18 +1,6 @@
 {
-  "updated_at": 1794915332,
+  "updated_at": 1794915493,
   "id_hashes": [
-    "0f3f5a260271446a7b04aaa9ceb95cd125b32b96ff94f27bb6dedb46a6692473",
-    "1e8f52942cdf21910d01d12d2b8327a949de08d5a486f0b5f1bccffe277c7858",
-    "12870e1da47f083a827d762fba658531a78f0ecf232b1b46e35dfa65c012984c",
-    "6a4dadec4e8341ae32ba393f4751fc9e816409799c9de2059a4a093c5046c00e",
-    "85a8e410e7e4a025c5dd0125b7fab93743a91f64acb45bd3605f6172168f62dc",
-    "e9911081fc614eb34be239f441e02046819f70292ec1cf7da4ea7e71f2636198",
-    "4c2910b77ad695d8b372588cf73b6a4870ce4f96a342078f3d342ce7be6154c5",
-    "c8632fe8ff4aab0cd8ad321c1ccbb51fb413f3485eead9a3127d9a62e928caf5",
-    "58ff4f3b7e1eca7807a40957382fbec5d7c6d22d493d5382d70e9e3569264355",
-    "06c4b3872fb792b9ac3067db3ccfd3949adcaa123d0d67da4dc52c497ae14a32",
-    "47c873bf2304d7224a7fdbdf98030d22c28fe0f39c48a88b2f35b066273a800f",
-    "00c7a7c094c4051ca4b661cc5ed09331eafa650076dafa31fb981d58b60da523",
     "96314d769f731e3ab32332e2e590f3ae8ebc15204ba0687a9d724cc4a5965a82",
     "ee112139a89e3d6396e3f5382081d7cf5b915d5912969b14dd1497466c367f17",
     "f9b15566c8744cac5a52c69919964de00b51d45fb6cf6ed099ee61aa2ae605c0",
@@ -4000,18 +3988,21 @@
     "05a1b599c38e04b924ba4b4fa8944a3fa6c4c0a4fb50455983f83fada1a9e76a",
     "2203cf3099f13733a64f30bd1aa45b69837e90a6ba76dbe0ce9339df4f14d2b1",
     "1f9aab2bdda0ef7e133b795114da2265ce948156265919c0e0ef9411a5bf233e",
-    "3731d02773b21a2b92e918dbd4207a22d92f56a18ce5f44358ccea0921ea8e21"
+    "3731d02773b21a2b92e918dbd4207a22d92f56a18ce5f44358ccea0921ea8e21",
+    "9af1183b46bcd306a399b0d7f09132d427973afac9795ebaa943251a539d8fc7",
+    "7894342aec432b36fabebeb508250d452dd2085b9279172a3105495f9854c1a9",
+    "8907171cf8a6f00fd4a6f2eb5756ea715c75e5185e6f23cd206744ba97dc6f44",
+    "830eb5e346c0a33c73ec3568af779d37456ff65e7a1b68e56249ffa2467db788",
+    "131f420a25ad71682f90bed5c7951049752b85c38020ae35cce5dff90056d8bc",
+    "b4acaa0c8ba2f3d826df43c9bd9427b5fa5e6cab023300fad45a5992cd1bcb42",
+    "3bc5d1093a7fc640984cd25d189c39bb0fb01effe6194ce7055c8924f8188e4f",
+    "2dd1e1fe8ab8ad97f2c07c7e0c1dd487ec8095151ba874505d9639432577daa2",
+    "f563f25ff84b4ab8b13ad825554dc59e68cd2d02fb2fad61bd643cc4fae6b373",
+    "6baa773b524d5aaacdcd07287f8121debdbfb4693fe8bd642008bf92cc9ea75d",
+    "ef3edb92ca6fb5e86747c9dc4c5d0283bf66dfc048ee502f14b81e4f4ee641f2",
+    "193bf0471c777c7d0b8632f82ca00620d40c32fe57033e3c8f2c4523b6204100"
   ],
   "title_hashes": [
-    "b63b8a365cd48b9249ccbb2631555721d4d5973fbe3c367bd496a32bff0439b9",
-    "343d525f202fb8555a98f7385a330d5caaf3ad85cb830a84e19653e0dd197388",
-    "b3b957db76286ca94acc595383bd41bb5842aeaa3f54aeb2df020ba2bb02cfcd",
-    "9e2aa997431ec9c5b9971a18e1688b161affe8ea13c0de5c4a8df6e36ced4f6e",
-    "48b717369e926c94d17f7736108ba4459a20f847ec087cac0158d575a1d465e6",
-    "dd652227c74c739a95dd4455382c3d14e63ae1198a328865f080efb74cd602ac",
-    "a9abf6f4a40ab54b0805f232686943fe6786a56a2cd7ab3346a95825d0d5abe5",
-    "4ebde8e519b03f3783eaad625cc754b4df020a8a963542f2a0614d2abea4e15c",
-    "78cb669974caf93e462b5fdc0a05ba5d217898e97d5316dc628ff60b46b5fcd8",
     "6a2c8e400e88aa39c2bdca214ca26acc2759d8680b1120b3abce77b1de212eaa",
     "b44eebe4f4731fca944668935d20b1c8dba2be8a053ab481dccfd27f756ec7cf",
     "c39f2ee97a6bc1fa09f53453293de7193c448330784c107e8d6cd1ef11eda494",
@@ -8002,30 +7993,18 @@
     "35ab23a62b79a7a81016359182f4448e1250dd47fa38d31fc8faf1e7d3339947",
     "d9e15b633fbdd719bcb98793aa8512d89423c9c975d3681d7ab81d61274ae680",
     "267ab29e0dca73954072573bb8b916833f53e989f27e282ddadeaa80e27de9da",
-    "736ac5e57f2e97ca29fbaa9956767f8a2f86027a3b7accea140bef068202ae30"
+    "736ac5e57f2e97ca29fbaa9956767f8a2f86027a3b7accea140bef068202ae30",
+    "cab641b6cc441cc4d7d855e6a170445b2be772ddb6596c7ad6fb7ad015a958ab",
+    "ea6b455903cf3862978e27b5cd0007e0f839d8e12b4a16cfe15055399a133da0",
+    "81c943ee22906e0caf87380e1c6d9687d85181e32f5ce5fff8c1b7d262d22772",
+    "76eef0ca1fdabd3a1a5d858bcc1696cd34676e0687d9bb2abc96989f073a6fc8",
+    "7904996ed2ba11522be690a163a68b96f0946f9461b0069b75bcdd7b10f5b8b3",
+    "1cfadf7ddc0632f88b5d4a29cd2ae237864006814a0da89e27f6614117ad713f",
+    "2afb6192bfa4964d665d3c9ae059b466d19435cf01f0354c9d347b0520ac9f54",
+    "c8d3d4f20f8376e67acc6a94df2dec863d7c39ea1951a81ea4ab1baf73db485a",
+    "bb3941a74a0c18644655cd1d588acff5270e2d819f594460c65a6a928ae1e430"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Barron's",
-      "title_en": "Anthropic's IPO: How Do You Price The Future Of AI?",
-      "title_ko": "앤스로픽 IPO: AI의 미래를 어떻게 밸류에이션할 것인가?",
-      "url": "https://www.barrons.com/news/anthropic-s-ipo-how-do-you-price-the-future-of-ai-91cd3fc4",
-      "ts": 1794880395
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "OE \"AI發 채권 금리, 내년 세계 경제 좌우할 것\"",
-      "title_ko": "OE \"AI發 채권 금리, 내년 세계 경제 좌우할 것\"",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445137",
-      "ts": 1794880525
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "日本将延后发行新的浮动利率国债。（路透）",
-      "title_ko": "일본, 신형 변동금리 국채 발행 연기 <로이터>",
-      "url": "https://wallstreetcn.com/livenews/3200947",
-      "ts": 1794880527
-    },
     {
       "source": "전기신문",
       "title_en": "체코 규제당국 방한, 두코바니 원전 설계현장 첫 점검",
@@ -11504,6 +11483,27 @@
       "title_ko": "트럼프 \"미국, 이란의 더티밤 위협 조사 중\" — CBS",
       "url": "https://www.financialjuice.com/News/9855638/Trump-The-US-is-looking-into-Irans-dirty-bomb-threat---CBS.aspx?xy=rss",
       "ts": 1794915331
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Zelenskiy says Ukraine struck Crimea bridge in response to Russian attacks on infrastructure",
+      "title_ko": "젤렌스키, 러 인프라 공격 보복 명분으로 크림대교 타격 시인",
+      "url": "https://www.reuters.com/business/aerospace-defense/zelenskiy-says-ukraine-struck-crimea-bridge-response-russian-attacks-2026-11-17/",
+      "ts": 1794915357
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "$DIS - Q4: EPS & REVENUE BEAT, FY27 DOUBLE-DIGIT EPS GROWTH REAFFIRMED",
+      "title_ko": "$DIS - 4분기: EPS 및 매출 증가, FY27 두 자릿수 EPS 성장 재확인",
+      "url": "https://t.me/WalterBloomberg/38491",
+      "ts": 1794915427
+    },
+    {
+      "source": "Reuters",
+      "title_en": "TSX futures slip ahead of Nvidia results amid global tech weakness",
+      "title_ko": "글로벌 기술 약화로 인해 TSX 선물은 Nvidia 결과보다 앞섰습니다",
+      "url": "https://www.reuters.com/markets/europe/tsx-futures-slip-ahead-nvidia-results-amid-global-tech-weakness-2026-11-17/",
+      "ts": 1794915492
     }
   ]
 }
