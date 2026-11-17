@@ -1,14 +1,6 @@
 {
-  "updated_at": 1794953450,
+  "updated_at": 1794953599,
   "id_hashes": [
-    "10edf75d98cacc47b806dec628af02af69e41fecf8ec8329dce55c218ee97472",
-    "f90fc87ae75294090bd9aec9f2275d7d0afc3405eca0510fd6eddd6d0da0c32b",
-    "120b1cd109b3572d653aee2e776fec1beeedfca97d82be2b16f088e85b6d2c4a",
-    "32b882c1216042bd32694f67840561b4c3598d04c6a0d508f12e1d41fd21acea",
-    "10e253e8b47727a8b3c302349084f9dc6407ec23ccecfa449b68fdf17a784590",
-    "5b24940436f420da1a4d861c86784aaa724fecbc9839599652cb0fd0a43e4891",
-    "8c73bccc16cda734e19ca5591cec7e01ccd3912e0880105bd06b696937060b81",
-    "27ba3f791da32cccf377a8d72e60a8f975bdb7cee94780072aae43686f537f24",
     "6f5155292ece99fd6c4060d33a0c65d0b928b0a551c81dd49a9d54f234c9f0fd",
     "daf26bbe3eb6716ec0ea63848839cbf7eadfb5479d4ef6029e22f998f846fdd4",
     "e4ef24c090494dcc743c0d0dc61430ae1faa90b3e5a838ab9d33a9dc3606daa0",
@@ -4000,15 +3992,17 @@
     "c9f8e7d96fa032eb6e6e48c6e1dd62ba0cfa7c5c4ab47ce0b1f09cd9b7651d8a",
     "6211d860d30e6842e0af4d167873613df952ab289602307345c553459a4b7a3d",
     "e7dc78a49c87db4cfd7949c563f14bac739a7d4b4936db1fbb0ffa3c899320d4",
-    "1cde3f60fd4b619a04a4cc758cb09302a5d6f576ea0e3eaf3f6fa4470bf74ffe"
+    "1cde3f60fd4b619a04a4cc758cb09302a5d6f576ea0e3eaf3f6fa4470bf74ffe",
+    "f3294543618d7319b5c10df639d12a12af4ab2500dae3a3bd1dc2de82a88849d",
+    "f3c54a4fb684869f465b879aef7a6832ae89c2f74607db359db611e6a2eb14da",
+    "4920d6f6f9983de2e9660f0bb7dd6896269464d9e968b4e976a7f37cc40487ef",
+    "b64e5684c441fdd4cd1df7fbf1c7d22892597d98d7d869023a187467873dd855",
+    "9ee9de28e55870b0dd6f843838a69302ad050b92e5d7e69aa46b81a2cb625eaf",
+    "6e8a77e5ce92788c9a4e885f6c67704819a955d2d3c3b46b3940a75546920cab",
+    "89018cc6bc01c8e90c5d38dbff37cf1977204a715326d895624e6821bab669c3",
+    "e4240b24d254f3753810ca7b62c7bd08a06e10a299d10411501d9ee9f0ed8aa7"
   ],
   "title_hashes": [
-    "aa4160086e2ff19eae3a017fd9358f5915a69f587d63240a55f522f4d3f1074f",
-    "5a3a1062adbcc2e6f032bcec5dc64be8c27e9a299d257f82a0e2ea462582d912",
-    "c4e43cdff3306263d7aead400382b6f46a2755e2f7290ac48ebf39d03f7b2119",
-    "395fa3298492f6a5d7fcbae65ca2928b7e09d40d14ea795c77cc93fddce01aed",
-    "6975155252d89d59989c20b06c4a7e21013a23d7e73b14a015d655476ca3681f",
-    "dad96b63e4e078b0b3909fa7aef199ea394a9836dce01678d7098e1cf5cf39df",
     "65e3aaed0b364f29d20fc647b880f1b385194c9ed576203b9d64735de122ed89",
     "fe68c4dcc8b5f14495073a87256de5761ba3cfe63268486ceff70a964e4aa59f",
     "bfee0f33998e9f8e732748b1891d896ae6ef46334df712ec498f6d0239bd1aee",
@@ -8002,30 +7996,15 @@
     "a53b32acd57542166ebd39dd5d6fd806b2c74ee606fc3383d3592afa7aaa9647",
     "6477e32664ae8532da5e889edc6ebf5fa9672518ab9dfd71485080a4e09521cf",
     "d5592a8d16860a15b3febf9123f7166107cc1dc58d18f8aa44b68808a1dae59c",
-    "ab0623dbc82ce79e0183eb0a920ae115000abac23622dff05fb5025e0045d721"
+    "ab0623dbc82ce79e0183eb0a920ae115000abac23622dff05fb5025e0045d721",
+    "bb1db35ea9c1084192e56bcf4fc15d248492158cb4d22c0ac0f0b690311844e9",
+    "854511d37dbd460cb7880a84879a3b60d59c81c53cd7929f20eef9c2498d3b79",
+    "eb7ac328ce47ae87984980107088939e17977bf0117e44d70d10165daed8e168",
+    "7b33381802e4c33a62f8bf9af1024a7c42e123cf8fc497318488cccb3f6b8c2a",
+    "e605071e18c8b5901d127b10129ebeda43971426fbdb871fdf57425c6b7eee9a",
+    "b724c92e99cdec213f75106e7294ad245d367adf317acb02b124abfb2ab446b6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "StreetInsider",
-      "title_en": "Woolpert Expands Global Data Center Practice with Acquisition of B-Global Tech",
-      "title_ko": "울퍼트, B글로벌 테크 인수하며 글로벌 데이터센터 사업 확장",
-      "url": "https://www.streetinsider.com/PRNewswire/Woolpert+Expands+Global+Data+Center+Practice+with+Acquisition+of+B-Global+Tech/27358472.html",
-      "ts": 1794909097
-    },
-    {
-      "source": "매일경제",
-      "title_en": "스템, 매출 가이던스 대폭 하향과 계속기업 불확실성에 투자심리 급랭",
-      "title_ko": "스템, 매출 가이던스 대폭 하향과 계속기업 불확실성에 투자심리 급랭",
-      "url": "https://stock.mk.co.kr/news/view/1200808",
-      "ts": 1794909103
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "De Cos on Path to ECB as Berlin Backs Brunnermeier for Lane Job",
-      "title_ko": "베를린이 레인 작업을 위해 Brunnermeier를 지원함에 따라 De Cos는 ECB로 향합니다",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/de-cos-on-path-to-ecb-as-berlin-backs-brunnermeier-for-lane-job",
-      "ts": 1794909111
-    },
     {
       "source": "TrendForce",
       "title_en": "Enterprise SSD Cuts Pull NAND Price Drop to 2Q27",
@@ -11504,6 +11483,27 @@
       "title_ko": "Nvidia, Intel, Salesforce, SpaceX, Anthropic, Sandisk, Home Depot 등 오늘날의 시장을 설명하는 자료",
       "url": "https://www.barrons.com/articles/stock-movers-5503b6f4",
       "ts": 1794953449
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Waton Financial Limited GAAP EPS of -$0.14, revenue of $4.03M",
+      "title_ko": "와톤 파이낸셜, 4분기 GAAP 주당순손실 0.14달러·매출 403만 달러 기록",
+      "url": "https://seekingalpha.com/news/4673948-waton-financial-limited-gaap-eps-of-0_14-revenue-of-4_03m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794953472
+    },
+    {
+      "source": "한국경제",
+      "title_en": "엔비디아 잉여현금 전 분기 2배인 437억달러…지분투자도 늘어",
+      "title_ko": "엔비디아 잉여현금 전 분기 2배인 437억달러…지분투자도 늘어",
+      "url": "https://www.hankyung.com/article/202611183276i",
+      "ts": 1794953536
+    },
+    {
+      "source": "Reuters",
+      "title_en": "BASF considers further concessions in bid for Evonik, sources say",
+      "title_ko": "BASF는 Evonik에 대한 입찰에서 추가 양보를 고려하고 있다고 소식통은 말합니다",
+      "url": "https://www.reuters.com/business/basf-preparing-new-takeover-offer-evonik-bloomberg-news-reports-2026-11-17/",
+      "ts": 1794953539
     }
   ]
 }
