@@ -1,19 +1,6 @@
 {
-  "updated_at": 1794900470,
+  "updated_at": 1794900629,
   "id_hashes": [
-    "915d184c373ba7559a3891e291691ae766167e4102f400194a0ccae7912077fb",
-    "0031e3435d9916d8703b62b653fc893ddaff7396393e8bdbaf8ffba81c80e83b",
-    "170eb9e982af79b46ffa2c91038e004750349f91e2c3b97d0b03b94df64aa761",
-    "b040d3a038a1844781419cee879055f2372b4b74ad7c4e919e1d6c9a12762c97",
-    "5319b48bc9ac771e164a4fa7976444f256c4ef411c56036cd4e7346df3c09930",
-    "e44c042b6194b5791415f99d3b94032b27e1ca752b910e19cc57ef2acc5b6a7a",
-    "49f55c39b87b9d70b8885eef25d119ec23a19dc301ae4aa9aece650c2e65ec62",
-    "b790574732ce90aeaafcf6168c5adddf8e9a18e396d4c62b273c84c21ad11957",
-    "629d2e8736efede65990e948c018abb3a92ded5aedf1d3f7a911068b39c3b12b",
-    "e295baa3b295f35d13cf2931f4d7512080423fec5b79e46e4fdb4cf3926cff45",
-    "e188db20a096b6be8be2ca8c052dc5594ea74a7a96977eb139fe5977c3d6d71d",
-    "633aff0ee2e53c1af07ef8f21ab767a99c228201b32d77533b39cdc7d9d54b8b",
-    "04acc0774cb989612543750be8043b0c43236c44911bbea43b9e951ea15f7069",
     "0f326b6c9bfc59319d8df096b1e1a09bc237daf908fc32c0f36b6d279028b1a8",
     "b3da14119f2d356dc47344be77a1546de110c9fd9113673dbcfc240af1194901",
     "2908138c84b8a2766c00e34bffb474beae2fda75acda5d5126df21eb0f8fb184",
@@ -4000,19 +3987,22 @@
     "03d2aae32eb3d290dc7054518e725238af48ada1fee5f59c7a11b69891b7b25c",
     "250fb9b7ef913d075f15bd243cf816e90fd508ecbb57e1915961281391cee16e",
     "c6149468f71917dc3fd583f540425086159851243445f32ae1cafae63d105296",
-    "742f0f16af04a597cdced8cc5ac8a20791e3dbd0afe5015da9b568fefcd1c669"
+    "742f0f16af04a597cdced8cc5ac8a20791e3dbd0afe5015da9b568fefcd1c669",
+    "a4e1cdf5d2ee249358676ade96aefcac3ca4a9a0cf033e92b3f540caec4173e0",
+    "8eefe94ad5dc1aca1e1bace8a954514bb039d699dc8707d475eb2d1037b2a0a1",
+    "06495d62ca8ef658d5791bfa6bb517595214cb75b7ea3bdf8de812de94024343",
+    "3c165088fd500ad020457f1a3fdf5fa6a4119dbb45af89c3d4b98b5413582a84",
+    "a084b0806aa633f8f7124d5c937bc0dd23f84e48dca9ccbfa2ea8019e80ed2fe",
+    "347f1752f8532c7d62c1428a329ae76d859429ba31eba2026fbaf9dbc4032f39",
+    "6f362d890bb539963723d77caca788d79f79bb550f35276df47768ddc0d5c149",
+    "95dff4c937b646bf4dd9e4861dd51af254362bcb18c8f2ba79ada69b46cafc64",
+    "7dc885ba98474dc29cb2ffd64ba47258c09140e1ecb017feb6356f570ba1db01",
+    "0c85a870b8852e3f42d3ffabe3197f1ef433fb1a1074f59079c3aa7ea2d01349",
+    "edbfde81ca1c27837b9c57218cb666a137e7a216ddc63fd792cf4bf12ab54f19",
+    "f9ad4961225143dcd12d8d17b80ece53266394b6e976dee6d8d25df7ff9d7ebd",
+    "26e85935081b23fba35a79650dbbf215fd5f4b6c84f426cb29ba8788aafae325"
   ],
   "title_hashes": [
-    "44c0e0c84c58d531b99f84074002d9235ae9a014f6a5b00e64f946676925149c",
-    "abe3a84a288c398e5753b86fa6e2b7ad2dfebd345835a605be2780037de37ea6",
-    "4d0489c17f9a6fbc93b9b96382478856b7f0c8c05c9fab22390ef06a146465d8",
-    "e016b8f87dc3e639be6e8cd79ec57b68166e1c5f38c3f14202452a3ef3694775",
-    "c7f2bbcd2f43c3cb263d331c92bcbb429617fb435afb22c3b1586f22ab96e1b0",
-    "6b3caf9a5cf2b28b70321e48bd7c0c14b80feb932fc18f2e56f35269ffcffed2",
-    "efb390b8b024eefcf7d94c81217a1563d6d876bebac3b9381b54b44b5d6f4087",
-    "4f78fd37da61b16442f0d173e88c5abc7146018f1466dec8c95b20fa0c6d9a90",
-    "054550f524aaa3a619c297fd5590351c465d10e2b2399479925924a00a2f9723",
-    "fb5a8c16c9fbea2e73c2ec3aa72c012f11e6aefc9b66df0866ed94fb52af02f7",
     "cd3b9986fc9789132ca06601ca67730468402daf20c15a7f7e4012d61a3aa39c",
     "0a275bf445a71e61165578f4ecb1ed70a12494e9f329c28354cd116ab3ed263e",
     "b846182ed36b2c44cbc4ce84b67ea97d3eba44e129f9f07e37f2b0aa0135845c",
@@ -8002,30 +7992,19 @@
     "67a90fe4a048916142cfc0dd5c39e9687654d5d8aff5acd4aba050d9c79bf488",
     "3c75f8b71457e232ad14db84d1453820a9e50091eff2d292ff9df93159d2bf08",
     "14403d7d200b71825174feb99032c24b850888096245cd854315f346898869b0",
-    "ed690a277c6f08721c18e40b88511d396eb557221930527e8f85c205932948a7"
+    "ed690a277c6f08721c18e40b88511d396eb557221930527e8f85c205932948a7",
+    "d5a27f24c96692855f1d2b65d70b6ee67cd71186ba12a3c54f7243a6f162caee",
+    "bc294832966f9f1ec53d8f85db17033db39d275e48b4ee3b76e181d9c2a82aa4",
+    "6b809449545a7b6ed11d0426dba478733f21488f0aeb71f81d3356978caa24a4",
+    "e8b78053022243798ade5ef8c6bf3a105afd115f9e11a7c2665ebee3f3e7a05d",
+    "e8841e111b5fb6471d2c4ad1a686a3adfb513213de6da3aca68bc5a3374039a3",
+    "1af87ea18162d5e5afa8d4a3cbe260185110a532cbd800d3f946b05759a79e40",
+    "0d59b340357780c4451bc0c973f77ab5ba4f4e4d79343ead7b9b2f9fe62f5299",
+    "ceffd1b76e2ac1895eeaf4524fc7a4e96643552577d8cdfda1cc040c9f57dc5d",
+    "073c637e149f4b7056aa33d9b9428cea0ef51c5da68fb65ac95c974da80be539",
+    "e06c634838262d30ba4886b7d4f6e767ebfbe3ba821160cb2faf36fb07ee1a58"
   ],
   "recent_sent_articles": [
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Putin could meet North Korean leader Kim Jong Un if he also comes to china for APEC summit, IFX quotes kremlin spokesman Peskov as saying",
-      "title_ko": "푸틴 대통령도 APEC 정상회담을 위해 중국에 오면 북한 지도자 김정은을 만날 수 있을 것이라고 IFX는 크렘린궁 대변인 페스코프를 인용해 말했다",
-      "url": "https://t.me/breakingmarketnews/178048",
-      "ts": 1794859564
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "KALSHI TO LAUNCH STOCK TRADING AFTER ACQUIRING BROKERAGE FIRM",
-      "title_ko": "칼시, 중개회사 인수 후 주식거래 개시",
-      "url": "https://t.me/WalterBloomberg/38487",
-      "ts": 1794859565
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "$MSFT - MICROSOFT REVEALS MONTHS-OLD BUG BEHIND GLOBAL OUTAGE",
-      "title_ko": "$MSFT - MICROSOFT, 글로벌 중단 뒤에 숨겨진 몇 달 된 버그 공개",
-      "url": "https://t.me/WalterBloomberg/38488",
-      "ts": 1794859567
-    },
     {
       "source": "BreakingMarketNews",
       "title_en": "RBNZ Financial Stability Report",
@@ -11504,6 +11483,27 @@
       "title_ko": "외교부, 미국 정부의 엔비디아 칩 조사에 대응",
       "url": "https://wallstreetcn.com/livenews/3201104",
       "ts": 1794900415
+    },
+    {
+      "source": "머니투데이",
+      "title_en": "[단독] \"의사에게 사생활 노출\"…'병원 밖 물리치료' 법안 24일 상정",
+      "title_ko": "[단독] \"의사에게 사생활 노출\"…'병원 밖 물리치료' 법안 24일 상정",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pSFBTbFVPWXNNYVlFc05ueGhZMEJzY1YxNTBpVkprNFBLTlBVLUNNUFN5MUQ3MXc3RjFpR1UtWWVYR0w1UDlOY21ZWlprbjhDb0x2dkotc3RHLXZiNmROUTQwU3VzaTJxR2fSAW9BVV95cUxPNXlxenB0MTh0N0ZTZDZ0V0RBUmMxYlBwc29FR2FZSTNSdEwzZDVsUThHQi1BRGJDY3plUXpBWXpfcGNOX0cwQXcxTEFoaFlpc1RpT2x6ZmNRWC1laWc1RkFMUkJneFdSTTZzZ0Uwc1k?oc=5",
+      "ts": 1794900494
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "BEIJING GEEKPLUS TECH by BEIJING GEEKPLUS TECHNOLOGY CO LTD Earnings & Forecasts",
+      "title_ko": "BEIJING GEEKPLUS TECH by BEIJING GEEKPLUS TECHNOLOGY CO LTD 수익 및 예측",
+      "url": "https://www.benzinga.com/quote/BGTCF/earnings-forecasts",
+      "ts": 1794900624
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Howard Lutnick's Commerce Department Says Megaspeed Probe Began in 2024, Reveals Alice Huang Interview an",
+      "title_ko": "하워드 루트닉 상무부, '메가스피드' 조사는 2024년에 시작됐으며 앨리스 황 인터뷰 확보했다고 밝혀",
+      "url": "https://www.benzinga.com/news/politics/26/11/63330670/howard-lutnicks-commerce-department-says-megaspeed-probe-began-in-2024-reveals-alice-huang-interview-and-nvidias-no-sell-list-decision",
+      "ts": 1794900628
     }
   ]
 }
