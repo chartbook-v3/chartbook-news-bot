@@ -1,23 +1,6 @@
 {
-  "updated_at": 1794959715,
+  "updated_at": 1794959868,
   "id_hashes": [
-    "3ebc657f6170d46576b24162a8a5d9c563beb9c15bdafdfea89d49ed49f1287c",
-    "8437602d80df9185cc72adbb0e8c4fd55b0c29874143a1936d21236a2bff505b",
-    "f3ef9234fe20dc00c8088fb5d70868994c02a8d47162959c3209f19821c7f8d7",
-    "b8be95a5b918cd6616c771b79a096cb38af65b34458f025a737c321208bd0b24",
-    "7e7279ee4a1627230a1e52913dbc4b508669bce6754b3b8851b8295354ce27c6",
-    "2d88ffa277ef6978e06d3d9b8271a3a6a55360726529aa439adec5dbc098a187",
-    "b062b881bfc08e68fc819ded21c7b600bbb56ae4be7f9bd2c3b72646a1736d97",
-    "a51608ac356bfddb192a3dfe8b4afaa47c0439cccecdca825cdf4c9e1b8dd69b",
-    "b2c5dbd8780513948432de840bcb9c422c3c3dff99f9b836bcd1eb0a64585e3f",
-    "9e3666375286c1eca0248f928ca44fe1795cffbf01e45ea0c17ab6becc9e840f",
-    "74dda212d724f15e2d239ccaed9f58fe6ff72f4967ad6633c327b33a1aa4f23d",
-    "f1a1a4c379ec459a5b5bad0dc2076fdc4478e246f5ce09f16550198e27554cf2",
-    "6c6ed72ebe888619ca6b3258d4fe5c94ef8c11a5de0abcba2e1acf625ae9a6d5",
-    "0ae8e2d4db8227c43892d4243137a2c895250c80fded45001f2ae6b44214e3d7",
-    "29b760d8e4ebf1c7cbece4b521697644a436a4a9808d8d08dc6572097f046726",
-    "2f6267ad0f32c6ff7f2ecbb9ca83b82daf8714a39711adf8bdee9ac5adbed4d7",
-    "112d28691dbb1af1745bcd3a2e42e0d0ab2c5e8add830a321a2dacb52beae407",
     "69045003d3b13fefcbabdbea0e5dcf759f3170e2efb451a5277fc6404ac5efc1",
     "6ce6d2c37c98d684f8db02334190b03a7e03e412c869cef47769e09e3d3f34ad",
     "a51f9db708c4f08a9a43ff09c0d44f13135619127ae5205ead88917cabbe37a8",
@@ -4000,16 +3983,26 @@
     "f66d9c71b51ffcb95d0089e2cb4b17a5e19f904fb47b8220db1e41a5055be1e5",
     "833bd6bb02006e7e8f71843380cfd0fac5d927d7a6971bbbb39fa232da572007",
     "079aad6a49c3d5b3ea5f39c698c06b6931d6d63970a7911afdeb1638287c7fff",
-    "6e6b86d7eb845f7d8acbbd2557bca9b69b114c8316864983916a63de1a988431"
+    "6e6b86d7eb845f7d8acbbd2557bca9b69b114c8316864983916a63de1a988431",
+    "adffc8afcd2d497701cd1859dbfa5717ee586f052df7bc4798c4c65ac2a39393",
+    "cd434314f10ecc57e8539e7ce1f977b206e8730e7a64480e2351b8912d6117fa",
+    "24fa9b8775052cbae546a08d49a6fce7b987e154c5b07c9cdfb62df8ba59cd07",
+    "a82d41bfefcecaa74d3f72e19d309d9c48513322ddc42996eb33bd8847adf231",
+    "16f858d87859352a2eafa0139c2f11084906f9d3eb9ea8a4213b9044ce65ed26",
+    "d221deebbe3b1b2fbdffcbe7a7e04d8c07750679e85e5197e172e5c42ecc3d2c",
+    "bb5f057b46f311d0b39a92d03b75633a42698da83dc434b6d066f0f2c70045bc",
+    "31d40907239444fd13714943c50ea7bbe76bed4bfdc16f67ec891e7e19c5d518",
+    "6dcf9401931b25feccf602c2c09398978deffb479d6f1b4542debf62ab88d9f3",
+    "3b08bb4da24f90192e313376a4ebfa5c2d7c9dcc351a574e0b8b107742f5fe9a",
+    "a9fdf9db5f68d945ab8d81f9079e6e15725d1096d6293da0092050bed68ea09a",
+    "346e333332a6f766be3b1269b7c958623d7dbaca5a022f38184043abf22c8c0c",
+    "6027eb87fa24bba2a8f5078d5b28979e22b7cf2315a346c0c92ffda24ec71191",
+    "d7315c83d6860105f27b809c2a1d8e0cd85921b6b79db9901f5c79680e3ea46a",
+    "eb548d4cd3a11b274710166495a72db74f48fb273b1f2453a9434eaf66bf2ca3",
+    "518c964b12d2e53b1bc104a11b8afed3912881c5a78c58db26ad2786f9e400fa",
+    "4dd2011e5b35b80c4b6d914ca4805b43a9a6a95de71f3e58cf26166d59e2790b"
   ],
   "title_hashes": [
-    "0593949f5290924c7b1cf2ec31e77b618f8f5f320e528026354fd32ff1d4c293",
-    "571becc0169e6db23ef8f0c9ec54383091f40a495efd3a989e9f45a9ae53a773",
-    "c28d5376801dbf869a505a8c6808f25b33b9d2a2d9a0865055c7579dad7cd18a",
-    "4b1268233507257e4bf019cc72ab2199323bdc836927eede0dd2fcd5fdbf8cd0",
-    "f52701045b3dc03f5283ac90f9b1ba3fb24489e1952d55f5741e74b9d22297a1",
-    "eae72e2210aa573ee12d4bd949fa621a63cda60e91dbdd251527a6809ea7ba2a",
-    "824cb91961050c096973480d96831304debda002ac22cc6e733f80ca5d56a379",
     "5eb613247d68edfbfd36be4b278935c1f81cf4f016d54c9ebaaa4bcfa0d287d5",
     "d091609a58dda638f024c56db5d696bbc005d8c69af280bc7e340c0f5eed5fb5",
     "53adce6a0b7281055e9361afdf0dbe5f7e5795f968ec1d96bda30ea1c5c83977",
@@ -8002,23 +7995,16 @@
     "0121a7ffffd0a068a98a4bca0d3a8dba910280a4515c45ad8e5cbe44f8ce7f44",
     "a051e9e3193c2de4b4393f6eac8bc4558c7c2feb852bbd69e4bf850e4af5a908",
     "0bb0f0f05578803048b7c39d9fcd12d6a1134dfcd982eef8bde052fb9756b798",
-    "7b507be047ebc4a25ed881f8bd5bdba4132273747d634f2dcfe21d8fce7fd3a9"
+    "7b507be047ebc4a25ed881f8bd5bdba4132273747d634f2dcfe21d8fce7fd3a9",
+    "543beda0370345aff9834f35d649f164527b60f552dee554cb15b0ee241b11e1",
+    "16f85813a98bf9a11496d41f9f00b82d2bea9a1ad368708854ee7c8edf3eb9d9",
+    "a1315ac4ef2c2f1ec916074ae9b6126cd6f3ad33bc98314ed6d196f2f3f7c842",
+    "fdad684e48913b48255a3d5824d942e2be6acf8e709860da0fd74a3defb1da6f",
+    "74e36a6236c436ea62118310e65d2f5b7fae995cea15606f085d16bd54007593",
+    "4aa523695af5e548a9882ed9103e37154409a7ae71328fb8bc0c8a0cbad53c75",
+    "976e67ca23475e5e31403c57fdee65e23e41e7017e5664e874db1ed8b65e049d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Apple to stand trial in France over iPhone repair restrictions: report",
-      "title_ko": "애플, 아이폰 수리 제한 관련 프랑스 법정 선다",
-      "url": "https://seekingalpha.com/news/4673536-apple-to-stand-trial-in-france-over-iphone-repair-restrictions-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794913689
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Iran's Araghchi held talks on the region with the Sultan of Oman",
-      "title_ko": "이란 아락치 외무장관, 오만 술탄과 중동 정세 논의 회동 개최",
-      "url": "https://www.financialjuice.com/News/9855591/Irans-Araghchi-held-talks-on-the-region-with-the-Sultan-of-Oman.aspx",
-      "ts": 1794913744
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Iran FM briefs Oman Sultan on initiative to end war",
@@ -11504,6 +11490,20 @@
       "title_ko": "ABDUL EL-Sayed는 이스라엘이 어떤 모습이어야 하는지에 대해 다음과 같이 말합니다. “나는 이스라엘이 모든 시민의 평등한 권리를 지지하고, 문화나 신앙으로 자신을 식별하지 않으며, 자유롭게 살 수 있는 시민의 권리를 존중하는 국가가 되어야 한다고 믿습니다. 그 법에 따라”, 평화, 존엄성, 자결의 문제를 다시 한번 촉구합니다",
       "url": "https://t.me/firstsquaw/193652",
       "ts": 1794959714
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Willy Shih on Risks With Nvidia’s Supply Chain",
+      "title_ko": "Nvidia 공급망의 위험에 처한 Willy Shih",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-17/willy-shih-on-risks-with-nvidia-s-supply-chain-video",
+      "ts": 1794959865
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "JAPAN PM TAKAICHI AND TRUMP TO HOLD CALL AFTER US-CHINA-RUSSIA MEETING – YOMIURI",
+      "title_ko": "다카이치 일본 총리와 트럼프, 미·중·러 회담 후 통화 보류 – 요미우리",
+      "url": "https://t.me/firstsquaw/193654",
+      "ts": 1794959867
     }
   ]
 }
