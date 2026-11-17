@@ -1,14 +1,6 @@
 {
-  "updated_at": 1794909432,
+  "updated_at": 1794909591,
   "id_hashes": [
-    "6524f9f3fbbdeecac48895eff3a493b4e649391b92ad110b190e2264284aa7b5",
-    "fa9b3464aab42b268db5b7765ac211a974444a28ad2b9179a3462c2445fedca3",
-    "9e18089beaa066f98244a4b7aa88185744f7506b6e9ffe9bab81777593fa7634",
-    "48379dd321d99048f61b78e68a107efd16ac5772bd331563ea3b542ae4feb212",
-    "e585c12123212d089caf0493c2c35ef4f4166c10c837e4ad8ce6a5185d24d92e",
-    "7c8de4df8261d5aecb46d88af10005e75f2e44454e5a41d646e85dbf9887fe05",
-    "6d09e802d0829a78d75a0b79a42393ed7085ecafddb251fa5f361860eba36d3c",
-    "3fc6c4e65dcb201ac3e4684044ce71190e588552ea0a94d709f7b242205533e4",
     "c848765219a3857c156f10e2c29a4c15fe83bc697707416903b03669c299f45e",
     "d9f379d051d35777a7e51ee9ab85a6627dad1fa4927bdbc14ea1e282f06825fb",
     "ef796455cf8f6dce0551f41521f9ca2eef8570ffe9a10ae2a029eb581ffc8191",
@@ -4000,14 +3992,17 @@
     "b6b9f0901bd8ea06db3815dfc1d3ee9250200cdb60c032acc043180a637885e6",
     "c3ef9233efaec36b31803b8542a224d0b078b0a4612c9295fd70e1fdb3a47f21",
     "5c6bc36350026621289ade3cd8a6c72cdd58a6384b5fd0472e97f4f48239216b",
-    "420cff9242e5094632b102fa0134f4ed21274f3450e4b08fee24e49252eca915"
+    "420cff9242e5094632b102fa0134f4ed21274f3450e4b08fee24e49252eca915",
+    "0814851ba4bb8c047b108b632ef03b3caccece4b562a6085c4ceccc0ead6a3c1",
+    "9aff3914c00b439fbe5fb12a1e17a5712a75939a4d11498b36d2404b86423608",
+    "6ead81a57a1dafbc911bcee81737910b56b0c90279c2cc8fe1b87106bc9adf01",
+    "61254ba837aec9c409577fe081ab0c27b117b8b5863a345c4e143134a77eaeeb",
+    "2e62d91f8dd5fb1a1f6c51c37a7268c443d500fdac92b9a47113bfbaaaa7a491",
+    "1d268041db17fac980e2dca933af6854fb7e641659f852608c70824bf37ac242",
+    "f346c32818097d4dba336138a46f414ba0032c8d9efdb175ffb5f96eebbe383f",
+    "6e3ba96b208d9f6fa2b14d05c31226f3bfa1651b15bd7fd8ea8ec34725c3c8d3"
   ],
   "title_hashes": [
-    "2951b4cc4f512e2fded0aec3baf91c510454299c30cebd652a3c12fb54749e12",
-    "2c0daea2adf57fb20c7fdc1ca51aa4fee4d3de2197c34b004c5ff0dec3fd5f59",
-    "f1ccb219b0db232e1d7eebb612f863d09507a05101666b6841456c2444758c16",
-    "98aeff753945c64b835652d3b005f086486a52c63a00096b4b8bb10c20c59a72",
-    "6dfd97db88b106cde3f3f9421eb4c498eb7bebad8eab60448364c5a8301d05b1",
     "9f3b82f741ab9206a5d0c2cadf7dac675fb05861ee05b5f97bfdda4c649d9886",
     "0ec8f977cada1f0bac671b991a3693aeb8256548aa9d486360550a6bed93f74c",
     "db36de124bd6215fd279a8e98217546b7874bf5863a20fd8a1c310bf728a3373",
@@ -8002,16 +7997,14 @@
     "09112600ed76b834fd6637fd4a065c4b0850e28efbf95ed1d3621d722efca547",
     "1e28c36c7d858355113e7bcafae23030d0da26faac7db9c03736e3638d8b7ae2",
     "d867139c43871a61871ea51d8e368d8b008d6ca9b5af7e4ac65010b5c23fa546",
-    "70d9fdfc6c61e206ed00768ac9dee395c772d9e9fe39dd3a622efffc448c9947"
+    "70d9fdfc6c61e206ed00768ac9dee395c772d9e9fe39dd3a622efffc448c9947",
+    "0c56af80ab0495c4cd4ef59899bc2002015e1aadcf9a1953f5d37203e89798f4",
+    "cb5013850bdbbd5bd9eaae4e4107059553ad809647cfb033ceb001fb88640677",
+    "c0b4059c21531e4513712c064cf60ff828c218c78eca05605a59ec6aa5dddbd5",
+    "36aaa4a35a6e2e406c751eac34cf567d08519e710d3da11a69343729bc27370b",
+    "028686834b2da912942fb651567824204ceaa060cc94cbe397c3fbf024999a4b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "SCHUMER SAYS THE “CRUELTY OF THIS ADMINISTRATION IS ON FULL DISPLAY,” THAT TRUMP AND RFK JR. “WEREN’T CONTENT WITH KICKING MILLIONS OF AMERICANS OFF THEIR HEALTH INSURANCE TO PAY FOR TAX CUTS FOR BILLIONAIRES” AND ARE NOW “LETTING PREVENTABLE DISEASE SPREAD,” ADDING THE ADMINISTRATION WILL HAVE TO ANSWER TO CONGRESS AND THE AMERICAN PEOPLE FOR LETTING THE PUBLIC HEALTH CRISIS GET SO OUT OF HAND",
-      "title_ko": "SCHUMER는 트럼프와 RFK JR이 \"이 정부의 잔인성이 전면적으로 드러났다\"고 말했습니다. “억만장자를 위한 세금 감면 비용을 지불하기 위해 수백만 명의 미국인의 건강 보험을 박탈하는 것에 만족하지 않았으며” 이제 “예방 가능한 질병이 확산되도록 허용”하고 있으며, 행정부는 공중 보건 위기가 그렇게 되도록 방치한 것에 대해 의회와 미국 국민에게 답변해야 할 것이라고 덧붙였습니다. 아웃 오브 핸드",
-      "url": "https://t.me/firstsquaw/193296",
-      "ts": 1794875318
-    },
     {
       "source": "FirstSquawk",
       "title_en": "UK PRIME MINISTER ANDY BURNHAM SAYS BRIDGES WITH OLD FRIENDS AND NEIGHBORS WERE BURNT, THAT BREXIT WAS THE FIRST DOMINO TO FALL IN A GLOBAL MOVE TOWARDS MORE ISOLATIONISM AND PROTECTIONISM, AND THAT “IT IS EXACTLY WHAT OUR ENEMIES WANTED,” WITH RUSSIA WANTING DISUNITY WITHIN NATO AND A WEAKER EUROPE",
@@ -11504,6 +11497,13 @@
       "title_ko": "중앙일보, 1370억원 공모채 채무조정안 모두 가결… 매각 작업 탄력",
       "url": "https://biz.chosun.com/stock/stock_general/2026/11/17/TAU5FXBYMZHIDLLFDWUUW6HBK4/",
       "ts": 1794909430
+    },
+    {
+      "source": "머니투데이",
+      "title_en": "[종목상담 주식민원처리반] 데이터센터용 초고다층 PCB 수요 증가 전망 '이수페타시스'",
+      "title_ko": "[종목상담 주식민원처리반] 데이터센터용 초고다층 PCB 수요 증가 전망 '이수페타시스'",
+      "url": "https://www.mt.co.kr/stock/2026/11/17/2026111718377040706",
+      "ts": 1794909590
     }
   ]
 }
