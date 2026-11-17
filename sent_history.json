@@ -1,10 +1,6 @@
 {
-  "updated_at": 1794948038,
+  "updated_at": 1794948185,
   "id_hashes": [
-    "4e935fca36971cf48451c73728cb86dd8caf9e4aee4f9ccde04972766230eb1f",
-    "cf49df6a0f1797a6c537711bc8ad82a4f00df2db9c62ed94c1b17943bc71d36b",
-    "f5487d2f41aafe3cc7734089547d200c6f6f944a5c4eee177e4dfdbd2827ecca",
-    "b7176773eb91a4b5987bed75a05428abc03b3dc808bdda46fd2cf9653377de85",
     "b7248232f3cee66cc82f9e0be0388a78b29448719aadd61901f10518f65e69a8",
     "269245d8662a97ed6e6ab7713950bb5f50b2c9fbab6a6b873dd5e3472c4bd5d0",
     "77ced99ee0c961dbdaca814743a4e2b059cbbe59792ef6ed458c897decbe5db6",
@@ -4000,13 +3996,13 @@
     "54fef076f542b9f1daa55bd0df14f521148d6d8a9eb1840608df775d1481e412",
     "be06d0468440cd9654eb5ceca78f3c410052ee71ef5dbb2c7b652c278b292438",
     "f65de9ac5d65c98e47db5f5cceb17c3b2e3e85d0b2d8476cb7cf2d9b3a200057",
-    "962dc0e7955af52b005a736e93eab261aacf85a2d8706d5bd457a8af0b9675ce"
+    "962dc0e7955af52b005a736e93eab261aacf85a2d8706d5bd457a8af0b9675ce",
+    "d52cc4b1c55a025aa241d9c48555cbc956148d071885cd2c6d3c685fc4162db2",
+    "8ab9e6d041700eeac7a4e72d2bc525f448a47c2dfd6d99174b7257c39cf0a2b0",
+    "2b4af7de36eaf09ec4ab39cd8db75805fd03ff88a93daee439b41f6962ad270d",
+    "96b129e05ef43450c50619f2f9a5ee211b3e414b78aa4e7633ff853e721d1db4"
   ],
   "title_hashes": [
-    "4b18e1ff00a0ad188a073e6e368f7e6a1d3f7a4d71a9785e009acb4756d8fc57",
-    "0c593b7aacb6723efc9e88ed49593262bc7b43871525f4c7b2ad969eff751398",
-    "94451b208a4727373cadd17c8c5cdb757e776bc571e43e1fd47e0bf3c555d31a",
-    "d8c8d71dade8fa4e225bad3a6f2a2a52bbf8da0545ab88684b1d4f20fcffc845",
     "a31aea22efd07ef5b1022f1656858aeb8436f91fc9cfceff5fc1fecf0135d4f6",
     "5ba916831eb1aa5f563b300ebf703f885f51cc07f71ee2b22a5a19eca7480ee4",
     "7faf160a27ad7459546ff9674ba44cd4bcb4301f0799852f37d4ca2cb3584b0d",
@@ -8002,23 +7998,13 @@
     "87e773c6125e4ba522df9bb78b33679d9661d07cdb6cb69fd424567ed0da7527",
     "4e199ecd08b7641415ed2ded113fdb6cfddc1c6aa2346e3114d54ce0242f060d",
     "8ba933797cc31411d1a1a0ac254a0eaba357231ce55a73099da8a9e8269759a2",
-    "465ae5e343b1bb81e3f2de099c6ea8f9725f2ed39c41e5ca5d351803e0710db3"
+    "465ae5e343b1bb81e3f2de099c6ea8f9725f2ed39c41e5ca5d351803e0710db3",
+    "a9457e28b80d1face955c67e817b5457c54911cadd070d44c0b936b8274ab39f",
+    "cd4e123d29a2ffef385e896680f7bd846dc9604358b8aee4e238a95e750cefd7",
+    "81aa28c7bd6b3b0b1e72ccc76987072ff0cdced0328a6eb8ce49f4aa7bc04915",
+    "81beffcdefac9285ac62a971261f4430f70d6d21f16cde956c54dc9487b9d1a8"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "ASX 200 ends the session down 1.8%, settling at 8,883.20.",
-      "title_ko": "호주 ASX 200 지수, 1.8% 하락 마감… 8,883.20 기록",
-      "url": "https://t.me/firstsquaw/193409",
-      "ts": 1794893521
-    },
-    {
-      "source": "디일렉",
-      "title_en": "비엠티, 글로벌 톱 장비사 뚫었다…연간 수백억원 매출 기대",
-      "title_ko": "비엠티, 글로벌 톱 장비사 뚫었다…연간 수백억원 매출 기대",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=65525",
-      "ts": 1794893584
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "泽连斯基：欧洲谈判团队首次“全阵容”参与乌美磋商",
@@ -11504,6 +11490,20 @@
       "title_ko": "칼시 CEO, CFTC의 트럼프 발언 예측 계약 잠정 중단 결정에 반발",
       "url": "https://wallstreetcn.com/livenews/3201501",
       "ts": 1794947884
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Criteo jumps on report of takeover interest from AppLovin, others",
+      "title_ko": "크리테오, AppLovin 등의 인수 관심 보고에 뛰어들다",
+      "url": "https://seekingalpha.com/news/4673876-criteo-jumps-on-report-of-takeover-interest-from-applovin-others?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794948057
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "周二（11月17日）纽约尾盘，美国10年期基准国债收益率跌3.24个基点，报5.0987%，日内交投于5.1494%-5.0865%区间，北京时间22:24刷新日高——亚太盘初以来（含美国零售销售数据发布的时间节点）呈现...",
+      "title_ko": "미국 10년물 국채 벤치마크 금리 5.09% 기록… 3.24bp 하락 마감",
+      "url": "https://wallstreetcn.com/livenews/3201502",
+      "ts": 1794948122
     }
   ]
 }
