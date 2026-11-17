@@ -1,14 +1,6 @@
 {
-  "updated_at": 1794943366,
+  "updated_at": 1794943538,
   "id_hashes": [
-    "f064adbc07ce09c831d846f86d20a9c6d866d6eace89797c21696ed38c423403",
-    "137d1a4f02dfc189ba3dddd057344e95fb5898af75a3daad5e620235ff7b6a12",
-    "2b61386d9f11e95c16ad99697aec77f037cd4d5f6ec3eb6da62b782eb2275123",
-    "78b1496eb9095ed2ec1285118c36312ea1e7179c4047898d23eb98d9c2a54fd3",
-    "a17f421c881b4b4ff58806f02fc20d406a83c0821701f973a4a67c15496c3d6e",
-    "fc8edc3a4a47e46671eb18d051f4fb1a5c2eb0e0ed06948741e333753b3934ad",
-    "ef41d34b64a5075ec42f4ede4f7e11be4117ddc612ecbe8e133e67ecfca7822f",
-    "587faf0c5475df1567127478bb7513cd3d7a104645ba34314fdf7e0c5eab80f7",
     "22dedcfdafed4ca904a889473638fbcbca63369768ed9c610dc63f8d1d1a8dcc",
     "0b7200b1c674f32b15dfc7a786c863fb994e1b043a82b29f56e51ef4b7a53ce5",
     "4b92450d7bb287164018a6efdb503ed46191958d03711cc5404a25c8b27997fb",
@@ -4000,16 +3992,17 @@
     "0773993e1ef873d198d390187a19ea0ea1aa02e8d290c129fa640f5e691e7fba",
     "8979fd1750dd9b3e8417e7c766c15546a7530e946f2fe0b610bfd4a62fddcff5",
     "eebd7eb827d5f456150b571b6505cd5b1299803f3c0520d1c3ee484fbf2ba94c",
-    "cd6706c7f3eadc01c07861032b2de6b8f2fb179107ef01e9690d480a8e41b60d"
+    "cd6706c7f3eadc01c07861032b2de6b8f2fb179107ef01e9690d480a8e41b60d",
+    "42fe4efe588eb893077f37765664ca05ac42221750e8f3b1a0b30f60bfc6a981",
+    "95e27a6d29b5552656c4d5ba227fc3c08a5ce5389fb7505435e3015b2532e5f0",
+    "da479b4edf84897c5ca8b4711247410ac59d5797ac636b552bfedd5188212561",
+    "cf0e2b60ccdf6b3398fbafb4c219be4793b61a401a7dde26cb72cfa9e3ea49f0",
+    "7d0fdaa86756b5defc25df42287c8fcb2bb461764f5552be4eec89748fb547b9",
+    "7a343dd634a99e7c11ad58e0e5816ecd23e7f993f0c5dbdb94c289b9396fb3e3",
+    "5c721d58769d76811deccfd935cf86b2a8c3f8009856766fd86819a426eb904f",
+    "d6eec0ad33305a50d3169031a17c232e1498e2156010a4cf0f36d132380d03b1"
   ],
   "title_hashes": [
-    "8eabf8fe0e61a92f8c0d850f336012bcfa4cb1ca0c8f8d2d7089ede0ed637e99",
-    "8301a3c6c5d5d9cd3175dcaea3e57cc4f0db2ebf81d24997b8fab433c6825f14",
-    "b2d315ad46b1d146c5e9a704e827227188b8375bcf487230317a3849cdc201be",
-    "7224526edf8869218d415c8e2ea1ada4a821aa8a1bc3b26baa2c6fbdf3d7da11",
-    "7bc02677d13e11f5c93a34af66721680ee3ea185e06461f69b1770c2e05b83d8",
-    "bfb5fff2282ea055eb2bdfc63a7fae617a4f01dfd7e5d2a6fff091408cc74d25",
-    "912da60240e5194aaf415738e6b53599b2a79c544cb73b4d7062deb3f363f675",
     "41e8df027bc5a1c7ee6603e8b7807193faf33aac8b2e7419b6f11d72eec1756b",
     "fa9461b894dd804c176156175922188606c528c038eca95e4291b5403b5a99b3",
     "bf2c1ddc957cd0c1b57bc7ba0ae53c35c1becd87266b2ee4f41bdbfd1b881585",
@@ -8002,30 +7995,16 @@
     "e38187b4509b1c334320e59b3bdc5d024e813079425e3c36f05be9198caedb4e",
     "302a99ea302f8f9da0a486d30bbfee45afceba1a4cbc00393fcff7946871ab4b",
     "8637e960861e85301e32ec73edc49aa1088d4b6221e51eb317b4df53720961e3",
-    "64b824092f828ae449655f90e98a9bddd80c9ede49ae808f8e48fdd2f9b18b44"
+    "64b824092f828ae449655f90e98a9bddd80c9ede49ae808f8e48fdd2f9b18b44",
+    "04f10c577f6478decb719b9fe4b220542da452a97a6644420eb8b3afeb909649",
+    "fca6a92729efd4827d6b16a91dba3aae742d83d1fc60d4b7658e57b124f23552",
+    "23b9207c12e7c7c7b86668b3a2faadbf36c43483ddb9f472f71985d50cee0a48",
+    "bcfc7f14a6c6f2404709f296871843f653f5cd582e9dbed261c306c69e831cfc",
+    "57a947989bb0fbe7c34f30d34fbd81c161c4dcc51e618f5512c430b7f190cc8f",
+    "608172664474be741c364fce88269306628f8d9287a969601c4b3d034fab49c5",
+    "50ce3ffb6fb3e7d98d3b33bfeeeb04e62b1c8f2a9680773cafe99f257b7e31ff"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "GERMAN, CHINESE HEALTHCARE PROVIDERS LOOK TO DEEPEN COOPERATION AND PARTNERSHIPS - NA",
-      "title_ko": "독일·중국 헬스케어 기업, 협력 및 파트너십 강화 모색",
-      "url": "https://t.me/firstsquaw/193370",
-      "ts": 1794887507
-    },
-    {
-      "source": "Reuters",
-      "title_en": "How Trump and Xi went from tariff war to trade truce",
-      "title_ko": "트럼프와 시진핑, 관세 전쟁에서 무역 휴전으로 전환",
-      "url": "https://www.reuters.com/business/aerospace-defense/how-trump-xi-went-tariff-war-trade-truce-2026-11-17/",
-      "ts": 1794887660
-    },
-    {
-      "source": "한국경제",
-      "title_en": "서진시스템, 3분기 매출 196% 증가…영업이익 387억원 흑자전환",
-      "title_ko": "서진시스템, 3분기 매출 196% 증가…영업이익 387억원 흑자전환",
-      "url": "https://www.hankyung.com/article/202611171688i",
-      "ts": 1794887810
-    },
     {
       "source": "Benzinga",
       "title_en": "'That's Up to President Xi': Trump Hints at Kim Jong Un Meeting in China, and Crypto Punters Are Hiking O",
@@ -11504,6 +11483,27 @@
       "title_ko": "TPG, 인수 추진 소식에 빌 홀딩스 52주 신고가 경신",
       "url": "https://www.benzinga.com/m-a/26/11/63363303/bill-holdings-hits-52-week-high-as-tpg-eyes-buyout",
       "ts": 1794943365
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Infleqtion Reports Record Q3 Revenue, Analyst Notes 'Commercial Progress'",
+      "title_ko": "인플렉션, 3분기 역대 최대 매출 기록… 애널리스트 \"상업적 진전\" 평가",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/63363302/infleqtion-reports-record-q3-revenue-analyst-notes-commercial-progress",
+      "ts": 1794943394
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Fed's Williams: The economy is strong and getting stronger, inflation is not moving in right direction.",
+      "title_ko": "연방준비은행의 윌리엄스: 경제는 강해지고 점점 강해지고 있으며 인플레이션은 올바른 방향으로 움직이지 않습니다",
+      "url": "https://www.financialjuice.com/News/9856352/Feds-Williams-The-economy-is-strong-and-getting-stronger-inflation-is-not-moving-in-right-direction.aspx?xy=rss",
+      "ts": 1794943532
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Fed's Williams: Fed still has more work to do to get inflation back to 2%.",
+      "title_ko": "연준 윌리엄스 \"인플레이션 2% 복귀 위해 추가 작업 필요\"",
+      "url": "https://www.financialjuice.com/News/9856353/Feds-Williams-Fed-still-has-more-work-to-do-to-get-inflation-back-to-2.aspx?xy=rss",
+      "ts": 1794943537
     }
   ]
 }
