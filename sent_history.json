@@ -1,19 +1,6 @@
 {
-  "updated_at": 1794899544,
+  "updated_at": 1794899704,
   "id_hashes": [
-    "cfc9272828c01c800c09018514f8bad8506f638a7d9320f13e1f149d8ae2eadc",
-    "802ac39d95380a0372e0088a19aa57b5bf7cd989acb7df9f525b61b114519a2d",
-    "c5b0fe72998968d1b155babe045c41d036e6eba79bbacb321f675304c9e32b50",
-    "329cc2932a6bff8669e2c019d9d899402a94fd35f8903cf82257a8e02b738a56",
-    "f33b8df57655200653cc0cefb108391e132db7a353aa2df2092fdd7ad00ece6d",
-    "039801e469d01f74740ae3c7966a73259cdcfdb061e763ac5fcbee9a00836a9c",
-    "741f5de726ba4d90d9e835c99eb8c8cea5557f732dedc3fa952872ecb7d39911",
-    "2f1d61ae2e79c799c2439492d2d35827f864849a05d71af9270edf6e4ea7afdf",
-    "f8a5700feb1da81f5bd21789f35e587de0f0fe3f66c485d7ff24eb100b3b2803",
-    "b453600c5afa822912c94e0f7dff87b8db2e250e09b02983677ab43270b68629",
-    "386000faae120f9474f9eaedacf55829c237cdc7d8967a3310605ef678213dc4",
-    "0d74f3766104df95b12cbb59e5f87bdcb280b882d4398531e83c27df5dba69f9",
-    "f6c9f3205d1b5aa799468a8200fcfb730036b7d97fbb4dab1daa99e9a851d236",
     "4e5fd52c5d0ff93731434eeeab1671a68ea8c4de914ba719e844553aa183d955",
     "76de085939e853eee858538408eabc34cfec765a34f916daeda22a3a80941802",
     "d5905910d629c4a987f5011a3db5b17d53e98a21781fb21f41815f5d264d292e",
@@ -4000,21 +3987,22 @@
     "fdea65cf19cfb8b5a09fea92e2923906c09087e0a200342facc7c86dd0d7e0a6",
     "9eacf749e3505e36582107a36f020b2c75a078da1529ab24dc4289d13725ad63",
     "d9ef24d391418a74870026222da2f8f29db0af5f53acc359a78aeab1113c8c71",
-    "6385fb9ccda6d72cb11a9c4c9bdb0acb1bd4a52f862a6ce60aff0c94f10efcb0"
+    "6385fb9ccda6d72cb11a9c4c9bdb0acb1bd4a52f862a6ce60aff0c94f10efcb0",
+    "7ff1c6e77d9444ea50bdd0845ec1d5c5f09a5df81c84ef2b5a39233f91a03630",
+    "5a30fe62e6c90d5cf4475c7c74d12d0565d7abbd774a1f8e95607dfb4c225218",
+    "ecad866b005b0f94f5e83c0513b54ae397c043770f2047d69ced5b7720ccda11",
+    "4342d215bab86494ee5a5a68577ceb05048a01741f2b9b3bdc9022a1d59e03fd",
+    "047dc90fc3a120794c33e4eeec8bcf7b9d8f71083b1fcd806914de5e03afa3d0",
+    "6b71a05efc2a1b01bb597289c57ba3c4e0156fd7c43bc90ffb250b1605f811f3",
+    "eae57546aa6a52d996ca75bbf4c3461f3b8c2a090c898221dcf4995257052b64",
+    "35b611eb8a4ef15af01c3be5c1a76f491033a3879320629f5e1032beb8878b05",
+    "0d20ede666f9c89e0399d5670deca968c84c5babcfb694715f26950bbbd97fae",
+    "a3ff4a62423aeac93d9c8ed27e19fe33303befe0430456efc0ffdeb01bf937a9",
+    "5e216c4d5b8f3ae2bf2d92ce3bb0979c7f502210c3102a598e2f55c2bfd01983",
+    "dd39c6cf4a18dbff168112292c917edcc10ffcdb765bfa0bf2e1c17079d1e18d",
+    "b043d07d11ddbe0bd8163068530f248354df6df4e3246692bdbdb89c39b1e307"
   ],
   "title_hashes": [
-    "9af71a8e72a808c9ed5115552601e9c372f3ec882b86db9ca13ad39a9bab252d",
-    "dc6914fc23bc5bfedd88c34c4e0c7cd1ce0db9e18cb22f7c4be6e9f9f2407699",
-    "298ae54366af4dd9cf41f106525d13d79162e4432ddeeb94ce9627862fd4a134",
-    "1ecafd87f07d165219ff34ec093d4149344e73fb9ebf80f6ef48cbac1aa66b94",
-    "9f0d57402ba5cc0dcadb766408b2e6c1e3e132eef43f28d203a4b00a7ea98c72",
-    "d37bc155f2d908068249ae8022cc669845098da02d4c154d6f15cfb8f8d7d1a3",
-    "ec162dd37b8c256b2f7c3faae0c72301f8caa2e6effa55225a812f600403cb80",
-    "5f4a5eb71252542f221c4fd58e9f8b4d70a02b6ed14b013c0b72c68c81dd7c62",
-    "700ac81b5679e70635530c2732c2dd879df2d59851e5796327703b811c7d3460",
-    "6c3539dbe04ef63f416354b2dbb9aa6297da997cb2eae60ebe07b5bddbc298e0",
-    "9a3b941023a4f9a2e0325a81cb68acc8ebf1fc05a6e3beb1ac74db253964c5e8",
-    "58c93f30b2b222a8287b679e5e5c024f326ef1b6c4b0ef6a4c38399db27442cb",
     "c4ec5aaadb3791358e1dd2ce29488509c1ce25dd595f1da76e53f46dc26ccbd9",
     "5ebfb3d604839c9895dd488de7112030b62f3322342b282f7746c357b438f0b7",
     "04c67d40119d525b3b011d43d1b1466a0e2c66b96cb3ed20611b798022d24661",
@@ -8002,51 +7990,21 @@
     "f73029337be7b72d00badd51338b7ea2270cbc01e6f2aa996abb1bddbd5b9fa8",
     "1d013e76239a6209933701708a10be3af1a49fcf28eba7d86a4121030d75b292",
     "82040f53f4a8261f152aa7f326ba3e8b06ba22e5428a42ede370e643773603b4",
-    "a18a2c013ddb3342ea38dda6ab6e5c91d40edc134d83c127c680c8c0e5317000"
+    "a18a2c013ddb3342ea38dda6ab6e5c91d40edc134d83c127c680c8c0e5317000",
+    "2e5257894e35c80e875efd86047d03d51a3f6bc6f34f88b0fbab50888f6a9459",
+    "39bb24bf67bab3540cf40604faf67fcacf019cbf2722d29a184e573b0c945219",
+    "856008b37813ed55312cb4b1d0ad48b6963cdc2ec86384f78fd627d21a12ce7c",
+    "73337fcd32f98237a14422b2c170241acc7912dc120a0089fa4b27926258aee6",
+    "fd34ab9dac01ba33c73fdb1d16f6e3089686f070206b35bd65453806f6752ee6",
+    "db6f4f145813336920ae99441d1bbef57e421651f9bdebc56953458945500b5a",
+    "ff6ced458c5058f94e3625158395f2ee74411b246d9f0fbe2202be62c0fa8e83",
+    "e296c3ab9d5a5042e7ced4cde7e5f35283d4c907dabad18dee7faaa77c72ad1b",
+    "7c25865e95f6bc033cb5f6b643dbcb1da670828c3e3d77db40df855d392068cb",
+    "d094d8b35762f7920fe7c57197509e71a3b2bd5ad2cded91314112cb5d04bfb9",
+    "e9a7caf1dbbdd5d47ef00ca20e9c4fc8f8fba1c882c8c90454b96ce1d7874baa",
+    "7759847acc3a81acb8a375640225c39f0336c4e23ae783223fac05aaa7ddb22a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "Fed's Hammack: We've seen inflation expectations reasonably anchored",
-      "title_ko": "연준의 해먹: 우리는 인플레이션 기대가 합리적으로 고정된 것을 보았습니다",
-      "url": "https://www.financialjuice.com/News/9854356/Feds-Hammack-Weve-seen-inflation-expectations-reasonably-anchored.aspx?xy=rss",
-      "ts": 1794856357
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Fed's Hammack: I like moving in smaller increments to allow economy to adjust to policy changes.",
-      "title_ko": "연방준비은행의 해먹: 나는 경제가 정책 변화에 적응할 수 있도록 조금씩 움직이는 것을 좋아합니다",
-      "url": "https://www.financialjuice.com/News/9854357/Feds-Hammack-I-like-moving-in-smaller-increments-to-allow-economy-to-adjust-to-policy-changes.aspx",
-      "ts": 1794856386
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Fed's Hammack: Inflation pressures appear to be broadening.",
-      "title_ko": "연준의 해먹: 인플레이션 압력이 확대되고 있는 것으로 보입니다",
-      "url": "https://www.financialjuice.com/News/9854358/Feds-Hammack-Inflation-pressures-appear-to-be-broadening.aspx",
-      "ts": 1794856389
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Zelenskyy Says US, Europe Delegates to Meet on Peace Talks Goal",
-      "title_ko": "Zelenskyy는 미국과 유럽 대표단이 평화 회담 목표를 위해 만날 것이라고 전해",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-16/zelenskyy-says-us-europe-delegates-to-meet-on-peace-talks-goal",
-      "ts": 1794856461
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Fed's Hammack: I'm seeing inflation in a broader number of sectors.",
-      "title_ko": "연준의 해먹: 저는 더 광범위한 분야에서 인플레이션을 목격하고 있어",
-      "url": "https://www.financialjuice.com/News/9854359/Feds-Hammack-Im-seeing-inflation-in-a-broader-number-of-sectors.aspx?xy=rss",
-      "ts": 1794856464
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Fed's Hammack: I'm worried businesses are more accepting of price rises.",
-      "title_ko": "연방준비은행의 해먹: 기업들이 가격 인상을 더 많이 받아들이는 것이 걱정됩니다",
-      "url": "https://www.financialjuice.com/News/9854360/Feds-Hammack-Im-worried-businesses-are-more-accepting-of-price-rises.aspx?xy=rss",
-      "ts": 1794856467
-    },
     {
       "source": "Bloomberg",
       "title_en": "Macquarie Warns of Data Center Exuberance Amid Capex Super Cycle",
@@ -11504,6 +11462,48 @@
       "title_ko": "반도체주 '털썩', 하이닉스 7개월만 110만원선 무너져(종합)",
       "url": "https://www.yna.co.kr/view/AKR20261117037851008",
       "ts": 1794899543
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Broadcaster RTL cuts guidance on weak advertising markets",
+      "title_ko": "방송사 RTL, 취약한 광고 시장에 대한 지침 하향",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTnlKMWtCZ0daVU9zcWVtZUlqMDVfbmdxMHk0QUNNczJGSmUycnpLY1JuejZCRGN3cmZycWl4QkNOLTAtVzZSclhXTFV0dGhXcHFPWk5NaWU2S25lUVZBemtLTy03clVLRHBZUFZES053RTRYZ0NpUEJvYnFrQlp5cEgzaWlHOTFqQU4xblFEcm5lRTYwTURyeTZoa3EzZWFD?oc=5",
+      "ts": 1794899574
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Nvidia boosts SpaceX stake, cuts Intel holding by 25% in Q3",
+      "title_ko": "엔비디아, 3분기 스페이스X 지분 확대 및 인텔 지분 25% 축소",
+      "url": "https://seekingalpha.com/news/4673442-nvidia-boosts-spacex-stake-cuts-intel-holding-by-25-in-q3?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794899577
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Expion360 GAAP EPS of -$1.43, revenue of $2.14M",
+      "title_ko": "익스피온360, 4분기 GAAP 주당순손실(EPS) -1.43달러·매출 214만 달러 기록",
+      "url": "https://seekingalpha.com/news/4673454-expion360-gaap-eps-of--143-revenue-of-214m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794899579
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "CVC同意将其在CARY集团约50%的股份出售给一个财团。（彭博）",
+      "title_ko": "CVC, 카리 그룹 지분 약 50% 컨소시엄에 매각 합의 (블룸버그)",
+      "url": "https://wallstreetcn.com/livenews/3201091",
+      "ts": 1794899582
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "BIOPHARMA CR PLC by Biopharma Cr Plc Earnings & Forecasts",
+      "title_ko": "Biopharma Cr Plc 수익 및 예측에 의한 BIOPHARMA CR PLC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kZWdsalJxaUgtR1BMd203bFhNeE43Rm1qRGxFMV9NNFREdzZuUnhBaEVZdmIxcVJjaFE1QmJLQno3cDlHckJvN3NTT2JIXzNoZ2lNMzE5LTlaOHlENnBISHZ1RnJJQQ?oc=5",
+      "ts": 1794899699
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Barclays Reiterates Overweight Rating on Tesla (TSLA)",
+      "title_ko": "Barclays, Tesla(TSLA)에 대한 비중확대 등급 유지",
+      "url": "https://www.streetinsider.com/Analyst+Comments/Barclays+Reiterates+Overweight+Rating+on+Tesla+%28TSLA%29/27358235.html",
+      "ts": 1794899703
     }
   ]
 }
