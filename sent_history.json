@@ -1,23 +1,6 @@
 {
-  "updated_at": 1794956591,
+  "updated_at": 1794956758,
   "id_hashes": [
-    "b8f69c1aa456eb74fb5cc03194e1ec1ed6ab535a506a363f315cc64e126907eb",
-    "f60c230bc7a2a5790d82ffc216d0c1466a6b879eee83f88f2dadb6afdaac7cfc",
-    "8bd454f9d1b88fbdfc9a344fb02855e4cbe23de35fc8de004f4fba4413572664",
-    "f4011cc1add8fcec32088e25a3eb385a891f52be6930ac2494576c4a7dce03e9",
-    "fdd06c5c80864bd464ad1440807adf419abd545b56fa1b266c216d547c0d0321",
-    "554656a0aad4d4ee8660cfa9e60a8255efcbdc7f6ad565f13836d2271c7d856c",
-    "5919170d4f47301c1a444cf83f5d5add2acaf0b42bc83ca8ece859be7f718c29",
-    "78da506253f58f0d28a26ad520b83f9c86e467e7ab1b98ad9b32bf9b1271e03b",
-    "105ff4fa5bd673b1cb234a7ac7fd5457103936b739a9692f0fff59893abd811e",
-    "c8f0c05745ad2fca29f869e14a33c780ced8da50a8c59677672618aff0c9fda1",
-    "9ea135b1bd0c8f2a1c5117d84b2f210d2ce63c40937e5cd2bff471eaf9c67948",
-    "c16e1969cb8842d4ea8deb0bf3b632e3fea3525be58150d9de9b8b5b25b83f3f",
-    "42b49cdd91644bbce6511b07502edcccf1174f201ae5235594562b71d26b0637",
-    "b670fabce6facb6c0ceae268488f9e17c9eb0d5da5496e8206d6d6df3a01c793",
-    "f5d1bff0e4cb3cc660068e0e6d5e141599b5db71c335975cdaa90f71727e713b",
-    "59768ed89e7ffcbac6552cbfbaf02cab9ad9e0b37c30ca0b10dcf67ab2507a89",
-    "deb11e1e0a43c8475b392bc01b1676d390bfbddef0a899b78c251d6afcd7029c",
     "329f9bcaa82658e6a87f9960f1d598a85a5f7aaf92fc19b1f22e4af76aa42204",
     "3c87447a0fa868c64078bcb421fa50b19edb01fd40f47cbcf51729f42983b3ec",
     "9910e9d44f979c3dafb8d9affabfa404899401643e53d5d6b1dde1ce4ddeb42d",
@@ -4000,25 +3983,26 @@
     "fab6ebcd5b4e2983b1cf82ac434f27c9cfb3b1a6da49228c9623c31abc7c929c",
     "8289c2c1036787904d92a50455276478560c609537a40d3cf102328c62d79bcc",
     "870fcf11f3eb7cc6510a6c1522c103fff3fa20ff92a07086d7f9e00d0f2aed7e",
-    "c932d3f55c50b0c971f22bd1b9de6e24a25e23f56a8d6bd5e3686b50285eb5cd"
+    "c932d3f55c50b0c971f22bd1b9de6e24a25e23f56a8d6bd5e3686b50285eb5cd",
+    "a9a37c35c88f44e7c8215de6a99928d0554ad76ee46cbe9471c61b6d95d5cbf4",
+    "5b4d1ea6dcc96123af608518059650fed0471ae9426850f2c401e2cd34deafbc",
+    "92da243c3eb512cd39bde8e0c1559fbd6a36b5de133b15a49bb61c9b8e399d32",
+    "0002dc2776dfd8df20a53e493342724d570f49accb870452d6ce9edea9d04807",
+    "16945e6ebdaf04fbf3e9421ff044d82f5dda3ea890ee9a2ccd96c898c80c9a04",
+    "ccca7b71df3639276606c5f63ec4dd2a69f5d18267381b0946a12e36b766b12a",
+    "40670b64b603428c49990f04f55dad19047293ef3b17d8c02842a4efa58ecbd8",
+    "186999425cf86edda6689e7b345877ec5ebc4d2ced9a3a9123a51fb23a474668",
+    "39c8abbab82d5afda1144ee46b869fe1e1b4516baaa5825d407f9681ae727fbc",
+    "fb9896dd6ef509096695b84d9ab9fc9cfa41402894241c52042237ca9fa4dd58",
+    "ea3c404fc88eb446508bdd1c326ef66a06dc90eb28a68d8c8a9852e26779ef4c",
+    "b0d867a3f182930c8d4c18d21f9a61bd4f362e6b165ee595149b6d121195d5ac",
+    "12ef7f1b14679b713f1427c8829628053597d311e3fcb6dfbc8b0c3ec841cf4a",
+    "ccbe7e395e63ca86e85c92e92f7d077fcb33f155c4d3d8791f0bd450b1c49d03",
+    "bc5100ee60f32b7dd1c8833652ee7f75d2aea1e7a2e77aea43277a7e9ad9d370",
+    "795e09b3cdd611283ca32073048a68261dd26ea3447a51b7e4e1298785293757",
+    "787b08aaaae42aae62e4c74c561ce6808595c55791522322c729f2ca213669fa"
   ],
   "title_hashes": [
-    "ff27df2abf8c124a175ccf9e306b2d00eff12ba856d1dc845f32b3c71626ae0e",
-    "7ef5bd3bee2d95f6e091da8d18bb06687cecca8e2339ff3fbaa071a7e0211dbb",
-    "59148f1562d2ab43e907b95a67dce18d4753a734b938c1cd308a16544140359a",
-    "0807a7aadea14df66ecd935eae33a34da7152f7d7a882d2dd38bd8a15cc6dd36",
-    "9401e242f72afeece6b05bf0ee32c6f796daa0c0df2162ebfd02f190d94f4ecb",
-    "5ca71d0be249bd6fffb18d2741db4b063ec2b6c06833328c02d11bbddd951899",
-    "1772d4871b981742810ba28e2886f9320d178b87121a89b4859b9487138d2e01",
-    "219df2cb6c029d25e7d89210cf6f5c00800b941030afe00d0b620a7b9c9f4fe1",
-    "ffdeed1b5802b11dd112f81b70e31ae1e5734e24034b214008331f0687ddbb24",
-    "5c67fe5e4afc1538525f7769a94faa5428890acac0ff0905f11eb65a0f188bf0",
-    "7fb94b0494ff9fde7504aed89d398a9003de635812774ab31a90370415809a56",
-    "8622ffe5fa1185184bf7b4078a94b8a54cf47a7ab31aa9c4062a1a83105ba711",
-    "6e4e2aa3f119f36a6566e2cd3b923ffd106401f441762f1453721302ab209b36",
-    "4d3e17cf00c04dd0ab746586e0302c921c126025d7941936877bddbaa461fe29",
-    "80ffe6733fb7bf45c2f22cdf64e439b644a9fb8e22c0a69dda504f779fdeba6e",
-    "f372edbfef5051f22c8313f4003878b4a3764ea32b94b982c17c69fac5d5def0",
     "a0e1ee5722041f1343ce1a9d39d52156a96e2132f5da08faafedfe56ef8c2b35",
     "f6fc8047852f78a6e5b255f50403c6a6db3dce1ac9a1ae8b08ccf69f42b1f3fa",
     "9aa3dc7ade22d148ef876e2ecda1c6377082c069905817cd07ef6b498ce069fc",
@@ -8002,37 +7986,25 @@
     "da19df9e664900f210763e9bf19a69c1ed313eb9e93fa87346c88191e285b794",
     "e57c17d2e29eda1bb4bfc18219c69a78e0bb67f2706bb3c0a7df1696a0b015cf",
     "641f98be8b8e1d1499cd3675861c502a89714e6e844566c6b0510b23cd1a63b1",
-    "ebacfe712116b613fed80c8570f7c36b86786387d65b69f8437150e85e02e21b"
+    "ebacfe712116b613fed80c8570f7c36b86786387d65b69f8437150e85e02e21b",
+    "4a0fa4a4318f51725f7bb8cb25059dfb4ec41cf7225c7200836f513527e299a7",
+    "cc12b9c66fb5b6423b295513e66390e9dd9140963f45c92a089e4cedbdbdfedb",
+    "9c247975a2db30617bf64e39f1355a2a03ca9d4b8451a33ac2f82e20a314bfc6",
+    "c42cde3ada272e6d7ef89e5e399f21ddc56e9e509dba337e0f379edc6a96a48a",
+    "c3e8f92306b36f5511c33c880342aa96b5a4b7cc27fc49feb5b842c23c5428d0",
+    "3b379a928c9f2e4754047cee527fc1e5b219f63352b5107e9217cd93df967182",
+    "dcb1b761f0a68db628607e2be65ed391b1e29084b4135351bc7bfabf12f11d36",
+    "a529fa070c5c64b9786ddc340b3f73639d9375bf6ba96a463605702386c9d7cd",
+    "42ae0daac8a5f8849e0daf15174e66996a7ad986551a93020666c929db06d8b1",
+    "0d9d175b1d845d1ab293f55c8dd44f2cc983769df944634a3266d6dcb363fb87",
+    "b57925abeb0d098e166027231ef3954cd66038a3addec342af991e73db72157f",
+    "df75e20eab5b55a0feda1e57fbb4831b3d0b368ff0d2aa591c5057b550285869",
+    "2cdf688740428aa1ac3d9175e20cb2d9f9287c2572612fbf7fb43da79d39d286",
+    "fc27ee107e7aa28d3c33acf74afce384b7eee50b60345c90c4c3d919c2b2b5d8",
+    "bbb5769c99b334abff8f8987a8955f5470dae7cd9ddb19dc9fa24a0694f9909d",
+    "738bbc12fbf7a0684d42aaaa78474380691922769e4423c79e93b2da54bc648a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "法国国债延续涨势，10年期收益率跌7个基点至4.90%。",
-      "title_ko": "프랑스 국채 강세 지속… 10년물 금리 7bp 하락한 4.90% 기록",
-      "url": "https://wallstreetcn.com/livenews/3201249",
-      "ts": 1794911839
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "杭萧钢构：拟以集中竞价方式回购股份，金额不低于1亿元且不超过2亿元，价格不超过3.50元/股，回购股份全部注销并减少注册资本。",
-      "title_ko": "항샤오강구, 1억-2억 위안 규모 자사주 매입 후 소각 결정... 주당 취득가 상한 3.50위안",
-      "url": "https://wallstreetcn.com/livenews/3201250",
-      "ts": 1794911862
-    },
-    {
-      "source": "Barron's",
-      "title_en": "AI And Spies: A Timeline Of The Nvidia Scandal",
-      "title_ko": "AI와 스파이: 엔비디아 스캔들 일지",
-      "url": "https://www.barrons.com/news/ai-and-spies-a-timeline-of-the-nvidia-scandal-6ac9517c?refsec=topics_afp-news",
-      "ts": 1794911927
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Elon Musk Steps in After Jensen Huang Loses X Verification Following Nvidia Exit: ‘Blue Check Coming Back",
-      "title_ko": "엔비디아 퇴장 후 Jensen Huang이 X 검증을 잃은 후 Elon Musk가 개입: '블루 체크가 돌아옴'",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63332241/elon-musk-steps-in-after-jensen-huang-loses-x-verification-following-nvidia-exit-blue-check-coming-back-for-free-on-the-house",
-      "ts": 1794912015
-    },
     {
       "source": "FirstSquawk",
       "title_en": "DEUTSCHE BANK CHAIR: DURING MY TENURE I HAVEN’T SEEN A SINGLE DECISION FROM CHRISTIAN SEWING THAT I WAS NOT COMFORTABLE WITH",
@@ -11504,6 +11476,34 @@
       "title_ko": "엔비디아 \"데이터센터 초기 건설비 보증 안할 것\"",
       "url": "https://www.hankyung.com/article/202611183370i",
       "ts": 1794956590
+    },
+    {
+      "source": "한국경제",
+      "title_en": "엔비디아 \"우리의 지도부 굳건…회사 안팎서 후임 찾는 중\"",
+      "title_ko": "엔비디아 \"우리의 지도부 굳건…회사 안팎서 후임 찾는 중\"",
+      "url": "https://www.hankyung.com/article/202611183354i",
+      "ts": 1794956627
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trump’s Push to Reopen US Doors to Chinese Investment Faces Roadblocks",
+      "title_ko": "중국 투자에 대한 미국의 문을 재개하려는 트럼프의 추진이 장애물에 직면",
+      "url": "https://www.bloomberg.com/graphics/2026-chinese-investment-in-the-us/",
+      "ts": 1794956629
+    },
+    {
+      "source": "OSEN",
+      "title_en": "[단독] '사우디전 21년 만의 굴욕에도 한국 잔류?' 모레노, K리그 진출 타진... 대표팀 정식계약 난망",
+      "title_ko": "[단독] '사우디전 21년 만의 굴욕에도 한국 잔류?' 모레노, K리그 진출 타진... 대표팀 정식계약 난망",
+      "url": "http://osen.mt.co.kr/article/G1112911562",
+      "ts": 1794956753
+    },
+    {
+      "source": "Nikkei Asia",
+      "title_en": "Samsung chip testing supplier Micronics Japan poised to ramp up capacity",
+      "title_ko": "삼성 칩 테스트 공급업체인 Micronics Japan이 생산 능력을 늘릴 예정입니다",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/samsung-chip-testing-supplier-micronics-japan-poised-to-ramp-up-capacity",
+      "ts": 1794956757
     }
   ]
 }
