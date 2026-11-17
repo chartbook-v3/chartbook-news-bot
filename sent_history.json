@@ -1,21 +1,6 @@
 {
-  "updated_at": 1794895447,
+  "updated_at": 1794895602,
   "id_hashes": [
-    "6ef080b96816582c45294399d6b76bd37feddccdf647b2af0c218e7f22c69ad1",
-    "b4779faa2f04b801d610badb0683563b596db0d4333a590fe2cbb8896a3507ba",
-    "b80293e60a6ca6a148a191a83816feaf1366125b5cebfa020759ffef5d358622",
-    "5a7371c180ec4c654876ed0c9f66876b8d4f2f308c784605d9bed2d3fe137661",
-    "055fc8d7864201274d4080107e1d606b84fe33c3723398981c042d5dda98e591",
-    "123e62d390e2d25425a42bc3b0923da75e4dfdd231a666f4bfd58e84946eac15",
-    "58a441ee648cc6b3e55275d2eae4d50ee212aa5cc58366c5cab4b431e06baf21",
-    "4b2502b2f7807cc32872815259bc176b2baf2b684e08003cd5460295ce6a0b5a",
-    "9e2f02dadf2cdffac0bd4b9a5ca4f032de880ac3fb2dfc57204fc57a99cda338",
-    "8d7a8190e9b14ded4df69fe21b7a6b159f0d36495b2c17c86d3e4c8144f6b889",
-    "bf5314bbd9ba0bdd2e158da57d24739b9fed14255e9dab2d0403feac1359bf74",
-    "844106328961b9960958e35de544e79280cccc9e87602c5eb3f147873904bfbe",
-    "b86f9bab99cb6a8c5813cae68b6e02c1186a7a55e7ebf5d96854f74b81e4f63e",
-    "f63300db2ae4a27c3fb9f26a8c801ed582ffaaef26525611bade6534fbeab224",
-    "35dc53bd5b11efa9bcdbf03fc900ae0bd817d688a1f7beab371cdf571e83c5d9",
     "db87966d30d7f9c17d3e15f2857b4c3f98760ae7f25b204fe71ce5d77146ef64",
     "341da4ec4b8135275e69562d0d15ee12dc34344ef63bcef77ab41aea5632d848",
     "7fefb671da47edfe726cb22f4208bec7f85bf46ca82e30efb6cd97d758fda1fa",
@@ -4000,22 +3985,24 @@
     "052f8c055c1d0ca01b0a0111e3936ac235b134e4fa7cb1982ee7e2e8a832995d",
     "7b6d080f69a443f0db942d98b7c83ccbaa956f28eb7b289e62204524df58e6bf",
     "8b6a80d49b08b5232c59441ba14d362d747db45bdff59bec2ad944129e83bb4f",
-    "99126108b15845e4b2397527cdb983f065417bdfb68b882a12790f010b200ac8"
+    "99126108b15845e4b2397527cdb983f065417bdfb68b882a12790f010b200ac8",
+    "a2d11bb5e22dbc6ab56dbc37113afabd7bd923ce5f985f8a2b6d5aaabbca9a03",
+    "95f74b1abebe787290ae9d5f85e5ff2721765610a96a8c7d7ceb854d4f238b83",
+    "70c7ddbe22134c23cd0ec374de59592af6ca4aa867714fec81b5e4062dd15e83",
+    "5f108350a1d44e832996b58c21d83a20353bdfe9e72faff2563d318db8ffa4cb",
+    "ade41e585344b448f8c8d3c68de31b53aa7d12e2e03940565ac4fefe7eb74753",
+    "e627a3482bb906913aa0b7dd657caaa4d44e267e9efaed9000d9ca2a8aa83238",
+    "6a78d4c5f93bf693c18ecab577f6205766069e97c1ee1071ab63104a067906a7",
+    "96d4e9e2864087bd7d7967a085efd3a650b7dce8028cd4cc66484be7975c18cb",
+    "a54c5b73253b22f6fdfd9c503ab2228f7c398850844cce43ce330a7f46f24acb",
+    "173c7f928c1eda276809a7aed444a8d9cecc0dab92c02eb301d7a42fd6b2076b",
+    "5d1abab79292ffb76fb4b617bd4536055a95e7db1365583fa83bf160d64cf7e7",
+    "8925f014b705d5c10426eafc2f41d41af3be058bb5de2c3544a5ac5a3670d6f4",
+    "20f208deaff5a4c463d59924f75e326d6e27f0c599b308d28b57cfaedb710167",
+    "a1b538310281be53f7eb357dbee207e8990ae19fa5ff555ed9fac7a7f1d8b085",
+    "cc017431d02d8c652074f9f069b2fb808cc716ce02c910149cd903beb8f6d8ac"
   ],
   "title_hashes": [
-    "04d5891facaf20991cd3c70004651745c6b83c3637920f05c4f4495783051689",
-    "07a95b26a9fae972924dfebcbda1c9798103bf6e53caca66d37e1276a3eb5401",
-    "9181366eff67afb90e866d1f10a619355306e5d93cf678bdb6032f99082f99de",
-    "33de26103c6d769c21229b03418003df6c8acdf82b44f90bbf3209b9b062a389",
-    "b919ddeea3f3aafec8bef365bacceca4c275a99e37804036df8d8806b38e6865",
-    "8b0964f148db5d23a8bee6ebd995d8a389a7230677bce772516a773a22687261",
-    "d5f179b3b39ef521a6f34783f82d6b644a3a784714ad1faa268046e0e3f14225",
-    "ee39d66bf4b9afa29544d67451a6641fe69eb452f79fefbdef2e47f837171667",
-    "5136841c6ab62558ff40daf599a8338a5c1312bedfd47674e3fd2c8f219bf474",
-    "eadfd113c1ccc62a70c5cb59934b3b8081e828681abea496264a19c98e95bcff",
-    "12e63aeac1387b63b04a056dff01f5e53ceab91f9350733802f3c117ee57b3a3",
-    "9072998aa081687635aa22d364fbcbdb1dc2c14a9e3b763240b4f9afd3206e92",
-    "eb5f6ad157fde2724ee78a74bb843fb12c4557f86809655136916ac0a6da206f",
     "288b204b72bef40b6ab51738165e4be2e076eabcb9258ec98a2fe6c7a9c385f2",
     "57eb8951d680dacf8defccc2a47048c4237a8c310b13345a052a1b279573eaa0",
     "da55ab39cebca32b23c387676a7c221fe27f19052ed5b0d03640d3d96bc7445c",
@@ -8002,23 +7989,22 @@
     "2a074ec7617ea49484960569285e41a0f964b08ad16340dc4afa69e1541de991",
     "6e452031a6ecc898e3edde8572fbb543dcc6375dc2531be74ca2884fbecf8e17",
     "a94b9bf44afb09e8f73ad594f8ecb7f55a4a6da4dda1aa7959782dd447da5465",
-    "496e65a2acf26fdae99697843a0c384f892cfbf766ae387768257e7619fbcae6"
+    "496e65a2acf26fdae99697843a0c384f892cfbf766ae387768257e7619fbcae6",
+    "6794aa70e917c2dff4b6c0f482673993e3826ea4ec068735542d496fea98fbfd",
+    "3309caceff3c6ea9cbf30edb215ac3dc011c2bc3cc537953be809006912079d3",
+    "440084be542c7a82685a22fe72675507e7dbb40ee16f5d5a4fbb32ddb1e71ed6",
+    "e08f954d7efabb2816b2ab8bcc33886055d9bbfa269e819e7fd6932ba3ef7539",
+    "e1d80a2e18c1e473ea1c364281cf083a14e4eb854af37346945357977ecbf2ee",
+    "64bbc9e211622e3c7c4e04c22b6ecd0e41b6d0ad583fb073e3816d508c688cd6",
+    "8e0d714cda1cd8225cc10fc6100c687fcb2d57d9d6236cbd9e29163a0a785f55",
+    "b26b1b80ca7861bc69d39f415fea58da70dc3b3d4d33b147d609332f78e02793",
+    "9767cd107cabada1892f24f703c02b3b6b2e7d216d20daa760e8585cc68e8486",
+    "7203a0a9bf9ee3ced8323411c6435bdf31f5541f22d41349d4af27228b207d23",
+    "342b0613426c3187038d488cb93e76e082fc509da3623c991c328d8c495c8e53",
+    "102c3d05570559ea8e2fe78c49487905a461c26674c65c412ae1a14875531db3",
+    "71401c2c3ec28fbf425a77c7230da7919a7a3ea5e862c562bdb11ec015e41564"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Reuters",
-      "title_en": "India raises diesel, jet fuel export levies as inflation stays elevated",
-      "title_ko": "인도, 인플레이션 상승으로 디젤·제트유 수출세 인상",
-      "url": "https://www.reuters.com/business/energy/india-raises-diesel-jet-fuel-export-levies-inflation-stays-elevated-2026-11-16/",
-      "ts": 1794853442
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Fed Chair Kevin Warsh Speaks Live Today on AI and Tech",
-      "title_ko": "케빈 워시(Kevin Warsh) 연준 의장이 오늘 AI와 기술에 관해 실시간 연설을 합니다",
-      "url": "https://www.barrons.com/articles/fed-chair-kevin-warsh-ai-interest-rates-aad5f9a5",
-      "ts": 1794853483
-    },
     {
       "source": "TechCrunch",
       "title_en": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
@@ -11504,6 +11490,20 @@
       "title_ko": "[단독]MBK, 내년 SS 3호 펀드레이징 착수...홈플러스 사태 후 조달 '시험대'",
       "url": "https://www.edaily.co.kr/News/Read?newsId=04040966645646704&mediaCodeNo=257",
       "ts": 1794895446
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Precision Optics Corporation, Inc. (POCI) Tops Q3 EPS by 3c ; Offers Guidance",
+      "title_ko": "프리시전 옵틱스(POCI), 3분기 EPS 예상치 상회… 가이드라인 제시",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQUF5OVV0YUQ3eU5rOFZid2FJWkdvc0E3aUwyVkt5Wkt4QzBIVVdESDJKSjZ5Mks5S3FTcU9vczV1LXZBT1NVeXZxQjVRelk0Zks4LVgxWHVvVXdpZUlwQ1BGSXU0QjY1QXkwQ003WXBHTElCS1F5R0ZvR0V0bG9taTByYUdCNVh1aUZWSTRXRmdneVprMUNFOTFQYldUNXhrcGx3eS1CN1Q5VEZJM2N3RkJCMVhGWUQ0YjQ1aTlSWE5wc1pBa0V4OWNOcksyWVA1RS1QTQ?oc=5",
+      "ts": 1794895467
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Asia's stock markets come under pressure as Washington steps up scrutiny of semiconductor shipments",
+      "title_ko": "워싱턴, 반도체 수출 통제 강화… 아시아 증시 하방 압력 확대",
+      "url": "https://t.me/firstsquaw/193422",
+      "ts": 1794895601
     }
   ]
 }
