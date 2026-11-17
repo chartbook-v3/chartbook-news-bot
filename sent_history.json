@@ -1,18 +1,6 @@
 {
-  "updated_at": 1794957398,
+  "updated_at": 1794957547,
   "id_hashes": [
-    "111ffabde7638db26993efb5ad9a89885e1a491cca640eeee398adf467d341fd",
-    "b2db2a556613ac862b7e8f49f648ea1f121d55ec8e87108435ffcbb097d167f1",
-    "7cbf76bf25eba2cbdaeaba580021dbd48441752b4544feeace4b8551372fffb9",
-    "a298c7155c7f70b5d726b4df99ec87a10b76a0d6da5345c5e8eae74d44d04e69",
-    "7efb7b38d7d973722f09f00d48a3045890129ca0d57fbf6a41849e13bab1fcb6",
-    "ca1008aa76477dd73a485c243165d565d32785b705f12b2d288dfb22bb3f80c3",
-    "920e575df7285de87e9d5fa1c3d07ec272d3b0501fda2c1e65d613b1e44bab73",
-    "774ab4c205d91598fd5a705b5872f244cf76852e7bc4d80e478dd0925f7461ff",
-    "e418561f3f3b7b9ea7101ef720202c07856fe174da310d5700f7c09a2523209d",
-    "e1a59f332d8ec84c9b51fc336031c6a2dbd10f40f1c25265fcc0b4f082a103e4",
-    "07b3c97082212125a2bbeba4656244abcab5d5939110fc01f121dc4d3c5f6fb2",
-    "0d3b71ef7e445ffe9ea4c210f2e104e5e71ccd958667c6bdb7ad4780fce9bb44",
     "4f402055e0f17f8a5f938c21f080bd2dd7d0ea43e22703c2b88fa585df2e750b",
     "bb489b19deecee51e421d066f41383727f046ed580e9fa26b98ebf4b1b29c1b6",
     "6e1ca31af683b7e35c3bdf7caf8e1ce8916ad9446f17521aca3009633a162a47",
@@ -4000,18 +3988,21 @@
     "a825dc6cf69ee3f457dcc080fce7969579ce4635da3a331e6fabd5374f5d6525",
     "2263b597153a6c42dd06c9c59560d26e0c06206b1b0756a4cb7f78ff91e72dd1",
     "a0ce4deb75d217b7229c5132a74a2eb3ba8877bee09a31d3778611078c297b64",
-    "9a1ed5dca08e6da1b0c65523b7277b08e54cc8a0be65b9529c8a5b787fb8bb5b"
+    "9a1ed5dca08e6da1b0c65523b7277b08e54cc8a0be65b9529c8a5b787fb8bb5b",
+    "716b3894ab0bd96bc4e41baf8ea0bba3c2714dfaa63abf598103073b1c7121af",
+    "930dfd4c2a9b3c89d7f9e53fc1732770339fbc98bb3534a48899164c2a914a8e",
+    "20d80fa176f13344fa5edc2b8c76d864c8e23ca3c1e43b6317857a9be3398af2",
+    "8413adf20f82c0b746185f83dc3cb8b49ba541ddc2527bbf2f31600d85d38128",
+    "456a98b1a30d2dee48fe391304d0424466153146eb75df0f138333c403505ba8",
+    "e6452add3ccbf0c542185541eac7459a41b4635f7c370524ba3328a0250898c6",
+    "edc05fd8f8bf6e944f6ba9043ea4c35a52b5997489bcb53bd183a7841df8ba4e",
+    "4c5c2f8999a368824221414e22bc7c6a478bbf4ce63afcc57b60b7954d75ed44",
+    "de9f8b415856a8d32245bb44f78306ee34ea0db9e056b25c31d2bba3968da84a",
+    "b2ae375956d918856e4e6034d65cf1a2371446f42c421b27a7f3ed97e291311e",
+    "bd7fd6bac6e59450a0807348160436806f1c5fb9233f8dd40d7f13c5fff678ac",
+    "27930f89b7c1e2930131ee751ebe4e3d71d17822343af8b7a3eef03320c2c3cf"
   ],
   "title_hashes": [
-    "68f573b6692404bf1cba0fe2c2525303ebab4d3d6533c37a5397a54de0ffa99d",
-    "edf945b53607cbb00d9970e6b7943e5d4cccbb201f6235565f5ce969cde103dc",
-    "344571342c53c18e5040c84f425c3d1a6d79fc4d82718e6006dd00eeaff3c108",
-    "efbfd6089275a4ed79be2704b44c7098e4ff188a8ce6ddfa9dadb5e8f232272e",
-    "79bff6ac5c261167eec9b7c80f71f81e7aca566ed3a3ade541d05578e5a91265",
-    "2d2f0617dcbb0c5e31bd15e2d7105be45b06e4146395b197e968e99765aeda20",
-    "51e62ad823d57e992093774442be2320742f8ae9a632fdac3d280b253be2679a",
-    "d8992ae5717acae104930c230f00d22a4e8f82e6d3ee08596646de31d62277a9",
-    "40e86f9f3c42791312a1cc95d8ffc8320f7adb9896058ed8e64ec42bad2a1f90",
     "4b8a49e32094fa86b5fcc4a62a985c3280004f4a3adaa32257a7b8d0e0a275d2",
     "7c50830ad309fb83c2b14cf4e62e636d61bb02e307cca0a946b784892c2db3fc",
     "8479c36bde22ef352fc90deb3a656cf3b482eff5ccfd49781b83d77aeff0284b",
@@ -8002,23 +7993,18 @@
     "23964f6e6cc45249006a3eceb1cb9435113f862e5d0c8fd7293811e11b1847ca",
     "db8fe2143bbb04cc6c8f0d380c31d9f591a4477ab8fd0277f6e69cb56196e5de",
     "bee11d9f8ca9d40aa5b6adb09971a7039f3070309e0026f24c77e74085930cab",
-    "34c2423b34d214b59e8682076d25138bb60a23134d144825ab632b1148dc4b8a"
+    "34c2423b34d214b59e8682076d25138bb60a23134d144825ab632b1148dc4b8a",
+    "e4a34aee4f80c78196e0e56149b700c7e10f60aa6cca47b28bf1916bc9bf0e37",
+    "ef3a772b496489177baace6d786b8214acf514d85500e6459351226f387ceecf",
+    "adb25db0fb425583229beb44524ecdfa5e51168998b6c44a1d2ee0f02bf7599a",
+    "d6c4e34ad29d3732304c03e025e209ff90d172ef4c5cf4bfa6060b47c345a3f4",
+    "ef20752d3f0b89bf6432cf1895fdad0afb05e6e01cce805fd3446686a7d433df",
+    "cc20b8dd9f8d33ced777d977799e0bb560a57e33f3daf1a0daf88b22e2f081c4",
+    "66986d0b21deb81cbee380c96a4da1936db7d3cbb99232cbbf1d9ff25f5f2aa8",
+    "085a9e5b8bba61470f23e6798fa336675ddd24163c0b24ee03ee20c64a31a80d",
+    "ae8f97a01a0893b9efc59569e1874a65415295b22e83e4454e30e916c8269b62"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "TRUMP: LOOK FORWARD TO BEING IN CHINA",
-      "title_ko": "트럼프 \"방중",
-      "url": "https://t.me/firstsquaw/193500",
-      "ts": 1794912472
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Apple Watch’s New AI Features Hear Your Conversations But Miss the Point",
-      "title_ko": "애플워치 신규 AI 기능, 대화 청취하지만 핵심은 빗나가",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/apple-watch-siri-recap-review-ai-listening-adds-little-value?srnd=technology-ai",
-      "ts": 1794912505
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Trump on Nvidia: Good idea they launched the national security initiative $NVDA",
@@ -11504,6 +11490,20 @@
       "title_ko": "Baseten: Microsoft 파운드리에서 공개 미리 보기 출시, 일반 출시는 2027년 초 예정",
       "url": "https://www.financialjuice.com/News/9856671/Baseten-Microsoft-foundry-launches-public-preview-general-availability-expected-early-2027.aspx?xy=rss",
       "ts": 1794957397
+    },
+    {
+      "source": "이데일리",
+      "title_en": "프리마켓서 삼전 3%·SK닉스 5%대 급등…저가매수 속 엔비디아 실적 호재[특징주]",
+      "title_ko": "프리마켓서 삼전 3%·SK닉스 5%대 급등…저가매수 속 엔비디아 실적 호재[특징주]",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01915526645647032&mediaCodeNo=257",
+      "ts": 1794957417
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "엔비디아 실적 호조에 '네오클라우드' 반등…네비우스·코어위브 시간외↑",
+      "title_ko": "엔비디아 실적 호조에 '네오클라우드' 반등…네비우스·코어위브 시간외↑",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445247",
+      "ts": 1794957546
     }
   ]
 }
