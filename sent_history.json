@@ -1,11 +1,6 @@
 {
-  "updated_at": 1794898484,
+  "updated_at": 1794898636,
   "id_hashes": [
-    "857a50c8e1526a052a210fd4cbb6cc33c0b47f0436ec89ed5a921d9ea7493347",
-    "a5eef5c77ac3558e1d8cfe27b418f36c749f1826ec50453c38a3a58270bed1a0",
-    "df603d7627d65a4f00836efe6ba0999bc662fedfeab49be5447569c4b74c0f29",
-    "754f56800dad17eb33d54de12453f22907db739bea5eb5202c40a1ff1d338bcb",
-    "c8ec41cfcc98beb65ba5a7492a7a7a05df1818cd16eb44e646f0bdfe2fddbe38",
     "ab18a0399258537e0fd7d6c3c0d0b21e52e675243a1c479ffff15ff17ab3ce6c",
     "f33c00371e7706f7a50058576c3fa1bd57c67a0417965e0911edc10b80d46308",
     "3a233e27e55f52c781c532f5876b0f7c717c98796d6a38f8f1b16a581527dd02",
@@ -4000,13 +3995,14 @@
     "5609d727dc518d2ec5bdcb9f55976389882a5d1821cda8f0cd90fe7a3af7efbf",
     "e881ccfb57bc9068123c071a986595c1f920d6c1a91b18b5bbdfeb20d1dcb3ba",
     "eb4006e19d44e0ec8978e67c1d9e9082fc89f12f438276d6b95d9ce5b85c4e95",
-    "ccad9accca42e81e7748f4fc4757f7a6e6a5bf46a64524a6e30122c8feffb9af"
+    "ccad9accca42e81e7748f4fc4757f7a6e6a5bf46a64524a6e30122c8feffb9af",
+    "7e0ecf2d6ee8c2ff4ed5abd7ce61c9e8a68705e5509e483dffe2b5daf2bbe1a1",
+    "fee7f1a222c2594f6113b820b1b4cc3730ccd4dd1317ea17f9ed61e75eaa6a67",
+    "15ebbb9c9dba43302991748e526643a3707ee9257d62443b5142d150ec14fd9f",
+    "867d74cc1a90efdee5a1effd692b25441c7df83de63e7b752408b46f65d40deb",
+    "ad6c11804425ab2bf059fd9dc976cc7ea604703cab9f5b49ee88ce8cac8c5817"
   ],
   "title_hashes": [
-    "48c884b327af7918d99fc694a59a79f6921d3644e51f2974bd30b37e44fd74ee",
-    "eb08998352b5eb00fb61b33154e5713db997037eb877513a6f04243f0816768b",
-    "63eab55711442397e8cd9089b90d8f0d6239bb606c564bc53e904fcf394cffc5",
-    "23093344f16e8400f9c04c8566ac3ebe2a7494093d64369ab88ccfc1fb09b1bd",
     "6773ad6754e7780dde6ec6e94ba7ddf0b47e9fced9a10c234502abb883a5d006",
     "dfd5da6d8d22216ab0fba09182305108570100a0ee70dfabfc739cca57a9892c",
     "5725703930d64fcf83d56797ba465d7f79665a2bba4d23bab5462220089e1723",
@@ -8002,16 +7998,13 @@
     "0ecb4836a0140a556a9652f37a4a55ff77d1771bfbdbc3c5075f59502b259747",
     "c18e2c2a3e5eb5908659a27202ed59bcac5d08e954d4aa986be824fa577bcf18",
     "1262ed7ab75cb4f3b91a46e48e064708b8cc9f6165e1355e4a9d7f953b92cf5b",
-    "770e9b9926e01d08de912ebb807a531a0e8bb6c135565098bc297c644913a553"
+    "770e9b9926e01d08de912ebb807a531a0e8bb6c135565098bc297c644913a553",
+    "7161c48346197f8d1560c93b0def48a7d697c0ff21270679449df9ce2d53a5e5",
+    "f76e1fb75023e31e536b1c0347f3bd8507d8cc36d7f2a9b0889ff47f9a3c68e0",
+    "768f2884feda9fe06ec91dc111905f617d4491066706a9ca0a3ca3f8dfcc28ed",
+    "1bcf014d5d3b0c8907f37fb3588967ef376137d7c026fe8e1bc5b28fd954503d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "9to5Mac",
-      "title_en": "iOS 27.3 adds new face unlock feature for iPhone Duo",
-      "title_ko": "iOS 27.3, iPhone Duo에 새로운 얼굴 잠금해제 기능 추가",
-      "url": "https://9to5mac.com/2026/11/16/ios-27-3-adds-new-face-unlock-feature-for-iphone-duo/",
-      "ts": 1794855794
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "俄国防部：俄军一天击落超两千架乌无人机",
@@ -11504,6 +11497,13 @@
       "title_ko": "[일정] 오후 4시, 영국 9월 ILO 실업률 및 10월 실업신청자수 등 주요 고용지표 발표 예정",
       "url": "https://wallstreetcn.com/livenews/3201070",
       "ts": 1794898272
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "달러 19개월만에 최고치 또 경신…환율 1,330원대 후반으로 상승",
+      "title_ko": "달러 19개월만에 최고치 또 경신…환율 1,330원대 후반으로 상승",
+      "url": "https://www.yna.co.kr/view/AKR20261117129700002",
+      "ts": 1794898635
     }
   ]
 }
