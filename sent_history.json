@@ -1,9 +1,6 @@
 {
-  "updated_at": 1794945451,
+  "updated_at": 1794945632,
   "id_hashes": [
-    "3b0dd921a947340e99b8c235054566c92c5ca010431691a38167ca38af52775e",
-    "3705f22a71253107c3438e318b8dad1ab52690df89f8fd1861f8ba6edb8f4e0b",
-    "7f0db50240b8d3bffc821033722fe63c1595b1f855adefba231b100a1fdcee98",
     "008903e3bffa0082bb39acd0bd6aa3751bc7a51b03fe84df619b69b5dbe9fb14",
     "736b362aaba2b5183ad183d3cfc00fefd396ede5d31987342845d4737a8f7ae5",
     "474da46c4ae6860cc63c0f3721cff33201b074f94de097c8fa9bb3b766ac4649",
@@ -4000,12 +3997,12 @@
     "78a0d4b4c97318a06427c7bdd0b1dec2f0e00f7268f00260f7c88aa5c206816f",
     "be0d6c0adc9a0010b52f33077fc88939ea7f68db9627ba7e88f85b313ef8ab08",
     "b9f11e404392f0e1c4d54d9428b17f2723fcf71fdc3c563ce444bbb7a96957d1",
-    "01f95522d3b0c6783c0172575d11f440d2faf6de7f2779a749c6acc9f4b55faa"
+    "01f95522d3b0c6783c0172575d11f440d2faf6de7f2779a749c6acc9f4b55faa",
+    "93f356bf3db8a01e37bfc3a3f7e4af83dcc2f9ae9b2b9e9cab2695a12e54103f",
+    "d1cbb092764f560495efca24a7c34f00f5cfcbe129c0dba516ead37490509fd5",
+    "ab91ff0f4e25e2f1d78ae2e038caad84b65a790ef8acea11b4e6fe0fd4796d44"
   ],
   "title_hashes": [
-    "c10ceef6337bfc18941076415a9f42d7d2aa7eee92712f3ce208dae8d523d5ad",
-    "1232b2e0fb2e1eb671e1eba28045b505f43c66fa6b994f00c630b4d070a56f66",
-    "61be56d3619974b21cec4464e8c34b614d975cd15ca04b7dd5195e539a3a1319",
     "82e5d4980696d624394b330d2ec7ccd4c23f9ed076aadb68bc76e40975b100d1",
     "f61e35e994ca849f47c90413a0742edfb2136db3ec4df6861a5b95af2c3737b6",
     "1b7640a9a7a8c72588a2dd35e9c509e6d022828b98c15d3ec5ddf1ee45d66d30",
@@ -8002,16 +7999,12 @@
     "7b9608e94b397670ba1759ed41890e650e161f8175edb5e0fc2423c581902920",
     "fddbe13408d4283f781e75151d10550e5b31a33ff2890073ecf65cbb28e1e1f3",
     "8185736e78946c18119d855971d889d81ab0cfa7a403693251c89faf5e726557",
-    "c1eabb19187be2e48e7eefa9d70a426977d840c132322f71c5f1722964546cdc"
+    "c1eabb19187be2e48e7eefa9d70a426977d840c132322f71c5f1722964546cdc",
+    "d913e70d1f206fa36b375310b8ae36b303c8362e1e5a2e4f84c875fb7bcb1b17",
+    "39acdf526404d55ff45e7c5610b6fe59708ad5446df657481ab627c2044b7111",
+    "8c3986787cd10c3724b54c20b01150ea2e9c84bb15b782724241e1e13bebdcbd"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "Daxin aims for semiconductor materials to exceed half of revenue by 2030",
-      "title_ko": "대신증권, 2030년까지 반도체 소재 매출 비중 50% 이상 확대 목표",
-      "url": "https://www.digitimes.com/news/a20261117PD213/materials-revenue-daxin-demand-2026.html",
-      "ts": 1794890455
-    },
     {
       "source": "Benzinga",
       "title_en": "Goldman Sachs Group Earnings & Forecasts",
@@ -11504,6 +11497,13 @@
       "title_ko": "AI, 사이버 보안 및 가동 중단 우려로 오라클 주식 하락",
       "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63365796/oracle-stock-drops-amid-ai-cybersecurity-and-outage-concerns",
       "ts": 1794945394
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Trifast signals revised H2 guidance as it targets double-digit EBIT margins over the medium term",
+      "title_ko": "트라이패스트, 하반기 가이드라인 수정 제시… 중기적",
+      "url": "https://seekingalpha.com/news/4673867-trifast-signals-revised-h2-guidance-as-it-targets-double-digit-ebit-margins-over-the-medium?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794945631
     }
   ]
 }
