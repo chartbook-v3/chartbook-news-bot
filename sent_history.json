@@ -1,9 +1,6 @@
 {
-  "updated_at": 1794884232,
+  "updated_at": 1794884382,
   "id_hashes": [
-    "0e049485795ad21d3f807d2b3e407c7dd17fd27b85c2a64e03ba69b8ba77bc96",
-    "f7f6d5331eec5e69f5f6590277024b49ab9255751f4428dcb19a43d7023682d3",
-    "cf0ec5493650289439ffdd487639a066a418c7aa59ba2d69310c2baa306a07d0",
     "79b93191e8c7a84c30063f79022b06afdedf8b3132606fbfb88a70d8e068300d",
     "5c3f898b5a896a940b2929f73fc13d0958e502057ffb0c6f013d07dc02105ef7",
     "3cc3781d150f2fef24f211ff71139118c19445aff68bc625085ddfc06f8c1050",
@@ -4000,12 +3997,12 @@
     "1f4df1bca0de83911d7b59998a0f30de222158f996402f4082e8b94101e8bf7b",
     "20dda050df41168e5657ed4f6e343d203698f6d0ef0c98b8adfd4157b9fca2db",
     "0b36120318a22b92bff5f508e745ffc3c0b3c5b26c9c8c5e6dd76f617b9516e0",
-    "b8864af0c5d65cdb3afd9d8c68fcd634c9b0477a1d2e24a5ccf7165d8c0e012c"
+    "b8864af0c5d65cdb3afd9d8c68fcd634c9b0477a1d2e24a5ccf7165d8c0e012c",
+    "51f8c82fcb02369a49759269e659c078e09c8650001076003a6b3fdde70543a8",
+    "8e7efa4033e44f604d57a62c1248014c05894d2dba2256d353142428f146c6a2",
+    "4317dee3ad374c6b5cebe64121e32bc78dd23896a1827f18c19363fdbe972231"
   ],
   "title_hashes": [
-    "5ad4be2df851b275828eeaad014ec13554e8e92e04130490a9d6399d643b6dc7",
-    "481c0facddb88bee308a3b52e9922bf6d3f526cc6c89d5ba00d051dd81986509",
-    "c711d63f34499d6ec9d5217950ecb37feb269a36fb0a822ffb589c66bdf199e2",
     "d1f30785d13bcd6b36ab69aa83a2347ec9a5cfd14eb4f251e1581077e121cece",
     "66f76857aa23dd7cbdfc226cd7bbf376cebc6668647494d93e3a2d4c5cc3cc5a",
     "f24af0805e194f38dc144a2905ab5286b8c72ac9fd52474de6a7057cb9ba6551",
@@ -8002,16 +7999,12 @@
     "169f13c900484293079ff8af97a23c0ea36488e9ca2b6f14dfb33c17e9b2cb37",
     "7058f3d4171f3b1975ddc8f77a4a1b4cb9d90904ef7d51c567d6a19893b174b7",
     "f9b224e8844c27873fa14bcc291b707a0a18e2ec8edc3b3bb1ef355083010238",
-    "1179fcac613c908c05417ef6210f691e180d4fff7ae0f14f3f4e8406a28a6464"
+    "1179fcac613c908c05417ef6210f691e180d4fff7ae0f14f3f4e8406a28a6464",
+    "10e42319a0528a84cfed8d510457ae1493878c167db5e126fe16b4c6cc407a50",
+    "3bd9eba84eb663de5cb1e75f18a4627a1b90bed669a08b703239c3139560b577",
+    "81a343bd29c7f822001393fb286a2d991f2c0107fb803174875ae90a8a6fc972"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Reliance leads materials stocks with biggest Q3 earnings surprise",
-      "title_ko": "Reliance, 3분기 어닝 서프라이즈로 소재주 선두",
-      "url": "https://seekingalpha.com/news/4672895-reliance-leads-materials-stocks-with-biggest-q3-earnings-surprise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794828003
-    },
     {
       "source": "매일경제",
       "title_en": "콜매딕스, 3분기 매출 5450만 달러..48% 감소·적자전환",
@@ -11504,6 +11497,13 @@
       "title_ko": "일론 머스크, 젠슨 황 스페이스X 합류 가능성에 ‘영광’… 암호화폐 시장서 배팅 시작",
       "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63329629/jensen-huang-to-join-elon-musk-spacex-prediction-markets-polymarket",
       "ts": 1794884028
+    },
+    {
+      "source": "딜사이트",
+      "title_en": "中 기업 해외 GPU 이용 제한…삼전닉스 HBM 수요 변수",
+      "title_ko": "中 기업 해외 GPU 이용 제한…삼전닉스 HBM 수요 변수",
+      "url": "https://dealsite.co.kr/articles/172959",
+      "ts": 1794884254
     }
   ]
 }
