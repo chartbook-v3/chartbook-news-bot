@@ -1,10 +1,6 @@
 {
-  "updated_at": 1794885487,
+  "updated_at": 1794885641,
   "id_hashes": [
-    "5e47224467b9164b10c44fd3db136070af841c47a22a39dfb864e57d809971ba",
-    "272d08c8022728b90de64c0fc909c47e3ab45bf60972fdf355c8351336574e25",
-    "88465e12f68e8137f98a1014386c4a2e9736c3d6b6fd2212df651c8793763ee9",
-    "ac6d0bc48e29e9c1ca3e1d14208959a3ab031e3dc999fc4675b5ee6ee27d3026",
     "725dca5c93c8995b44c2f082ac1c30964e8f2a0410a4a22d08376f8f463445f0",
     "8e9cd510c3414171471b799163fe08539d311c1108d4b1a8805381c2b5745df7",
     "7edb110973560f683057ff88c4073bd89f495a18073a8e864bbc1e40e45e94f0",
@@ -4000,12 +3996,13 @@
     "31792acb87e0120f19e685ad4f5b8165b9cd3a375b9b9772d4ce8a68cc5d69f8",
     "98f9e0796a6b9abf8fe8fb080d7c190ecb5c57ef7eb3d956810c686d74a00b12",
     "70bb24bbbafb2a3b0b5cd897dbe127c4c580c204cd544dc2e03b6e8e6db7539b",
-    "f9e7146a5767f9e5c74a40c85580628648986ffb41cdec95f011e3fdb2a21ca2"
+    "f9e7146a5767f9e5c74a40c85580628648986ffb41cdec95f011e3fdb2a21ca2",
+    "cb22e540106ff5a43293722bb126e2358f54c9348e38e38a4945616b03d12629",
+    "c17009deb6d8d89cb32052f86b3cad37b0ca62b829e72920783e10479a27dca8",
+    "cb6198cbe6290aa49480a09e685af0d3b37d08b49e6db8acb22fbdf122dca630",
+    "97c2733c32175bf66e58b271a852a6dc480c42e4c34e867f2580205e72d6f881"
   ],
   "title_hashes": [
-    "e0d9c53474c74fda9b8f01238dd4e8e284c6d35d09044f14270739602ef247e7",
-    "d1f6d03b292dc856e05e65275a1766c683ae037d4481fb57a4bd6e50444b8265",
-    "fb5ea1dc93adc60276fa7490153bab715034a0e787c9d0d39750801a984910a5",
     "537b2e0fcb6cea6977191c188d1dff1a6267b9f4c6724927d1c3c7345288e757",
     "c067a94b1a1f4ec4faac1da58c69f1c600751f5a7970520b76066d2d0b485335",
     "30b2dc8c2788743b627bec7129075f81653bbc283b0abe97e9ac57aa8bcb8d91",
@@ -8002,16 +7999,12 @@
     "cb607bd7b049e43a107461c17e053ef4a4f60990284e5493ad51525693f5fd30",
     "e0327079273f36aafae5641f429050d8055dd264c339a6706debd236274582ce",
     "1cca8ae06f17a8ad26177eea8eb11075ee1d753e5c702bedcdbc93a6de4fe5fc",
-    "bb0c0798de88ce20f5215a7be9d0dce83b7f0b08ad3d79b18a44c344333177bb"
+    "bb0c0798de88ce20f5215a7be9d0dce83b7f0b08ad3d79b18a44c344333177bb",
+    "6d6ee05c76b371c63dd7bfd0047d0b485be4ec6bd91bde933b66f43d6ea35183",
+    "e0143f5751064d48ee0c47d7ba4d93d8728c6b6aeebe5f997e10ef64fd673f41",
+    "0a2fcc92dd71c64de1fc426b20edcde6ac1746a4a547130bae563ee5896cea42"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "MEDLINE HOLDERS FILE TO OFFER 60 MILLION SHARES",
-      "title_ko": "MEDLINE 보유자, 6천만 주 제공 신청",
-      "url": "https://t.me/firstsquaw/193180",
-      "ts": 1794829599
-    },
     {
       "source": "FinancialJuice",
       "title_en": "In a joint statement, regulators urge Russia to cease attacks on Ukraine's energy infrastructure",
@@ -11504,6 +11497,13 @@
       "title_ko": "금융위, 지역이 '픽'한 중소·중견기업에 4조5천억원 공급한다",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jYmhsaGF3Sy1iSlEwRXdwNDNubFZRbDF5VXluNk5VT0VPNDdzSEpkbTJPaXFRSUVVVE5ZbjFhRDdkUFp2aVFsZEZXU0lSY3JUNGUxMlBTRGFIM043LVNMSWpzZTVITU85UUxOaWpxQknSAXRBVV95cUxQQ2NQZkRsak1EWGxmSzhoTlNYRVRBVlFYaGU1N2syLTd3WHNueDFFcHdqSm0tWWlIM2ZkQmYybmJVTDNBRlpvT0tGTXJicm52RDk1X0txNkVlZ2pCNXFOWWt3REoxdU1OV0pmdzctc2JmY21IcQ?oc=5",
       "ts": 1794885486
+    },
+    {
+      "source": "PCMag Middle East",
+      "title_en": "Apple's New iPhone App Is an AI Health Trial, Exclusive to 200K People",
+      "title_ko": "애플, 20만 명 한정 AI 헬스케어 시범 앱 공개",
+      "url": "https://me.pcmag.com/en/health-fitness/38631/apples-new-iphone-app-is-an-ai-health-trial-exclusive-to-200k-people",
+      "ts": 1794885640
     }
   ]
 }
