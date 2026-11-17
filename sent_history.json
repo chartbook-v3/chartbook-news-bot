@@ -1,8 +1,6 @@
 {
-  "updated_at": 1794956137,
+  "updated_at": 1794956294,
   "id_hashes": [
-    "3aaf8459a7061b5c5dfe99cb0927970eeb9898acd7067a299268d3425a8cc7a2",
-    "bb8b3e6ffb182ee1a8e8336cd31aeeb4243cf476c87f99f9f882032e3c34dbd4",
     "90d4d860134b67c13c053277ffdb17dd661ebfdb3d23d398067210acd1a72205",
     "8e7d5f681d54f7e2db415a05643198974ce08e9ff6388e2ac1d4a966d7876178",
     "266df7ff415a845ee709af05207a97ce52102a302c76421b9f7c71d6963c65a5",
@@ -4000,12 +3998,11 @@
     "ff8a81d072627b0cbdd985af4812c9a9eac928bc154c342fb3741ad976d992cf",
     "7565022b40e2588c7016e95a9cb58daa70fadcbe83a0171ae121b6bf839e9300",
     "81bc9fd92de0327fad5c50cabbab48813194380f8d5ea9e506177e9e6ca35b3d",
-    "774459fc5fb067ed26dec5f316b9211c502e8235168d3331947266a1c25b8e2e"
+    "774459fc5fb067ed26dec5f316b9211c502e8235168d3331947266a1c25b8e2e",
+    "ee0e43b4302671f2cb162d232443816069a584fca728760478e5717ada96d7c1",
+    "87875130d0deb42eeebbbb64c915b7414e533d4a4832841a914bf4a6ec321ad0"
   ],
   "title_hashes": [
-    "ebb404b7cb056c2343aaf6f5badd950919aaea81a3026c4c22ffb8fd2bf04d21",
-    "30b3845cd4463e84c54407dd8fc87e191964f8b6ab6e4b31bb0178202e29f639",
-    "b4e5fa1bffd6880b8b1746d3d249c193f0dc1ca8ad99232a4fcb49bddd9541a9",
     "5fd0344cdbf4283c0dced7212a5223217ac2a1640726c7d8e902d59169492ff6",
     "ae6341950b89383c74154372eb033c4a6a2c8cdcd624a21603378b36b11a4593",
     "abc90bac599134364255a5ceab73dbdaa16534326b1110ded1c2c1f623cd23db",
@@ -8002,23 +7999,12 @@
     "3548a1b2dd8c247f4a8f7d2b8522b4fce5a2b276199c9b6642af9d578c931cbf",
     "94f002dd84fbf70e188f2a7a38e506879f40c0531610e58ec49ec13d32fd6753",
     "b5840ccad5d10cfcf71d05c850e3a687c8d81c9534974fbdb28bc9997c876898",
-    "b0ecf48292e40e877925447e2aca759830c96c3da892aaa8bac09d3f003b4510"
+    "b0ecf48292e40e877925447e2aca759830c96c3da892aaa8bac09d3f003b4510",
+    "17f2ab32a3f205d25e363793488b1d7ebdccdf35ed11b6f8ca63497243c45a65",
+    "e68d6247dda05191f563cef1a8b2785c9c018a6d0e9fc615e7fad7c382adbc5c",
+    "462b7edb695ae85aa6f39342dc07aabf04d075743a303c230b6a000ec3f31ff5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "매일경제",
-      "title_en": "李대통령, 취임 후 처음으로 푸틴 만나나",
-      "title_ko": "李대통령, 취임 후 처음으로 푸틴 만나나",
-      "url": "https://www.mk.co.kr/article/12211576",
-      "ts": 1794911832
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Trump Arrives in Manila as Three-Day Asia Trip Begins",
-      "title_ko": "트럼프, 3일간의 아시아 순방차 마닐라 도착",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-17/trump-arrives-in-manila-as-three-day-asia-trip-begins-video",
-      "ts": 1794911834
-    },
     {
       "source": "StreetInsider",
       "title_en": "Yorkville Ives Reiterates Outperform Rating on NVIDIA (NVDA)",
@@ -11504,6 +11490,20 @@
       "title_ko": "10월 CPI 인플레이션이 0.4% 상승하여 12월 연방준비은행 금리 인상 가능성을 높였습니다",
       "url": "https://www.barrons.com/articles/october-inflation-report-cpi-rate-hikes-864660ff",
       "ts": 1794956010
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Pushback to OKXICE, Anthropic Perpetual Futures, 'Problem Gamblers'",
+      "title_ko": "OKXICE, 인류 영구 미래, '문제 도박꾼'에 대한 반발",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-17/bloomberg-crypto-11-17-2026-video",
+      "ts": 1794956232
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "谷歌公司：Google Wallet已经对全美iOS用户开放。",
+      "title_ko": "Google: 이제 미국 전역의 iOS 사용자가 Google Wallet을 사용할 수 있어",
+      "url": "https://wallstreetcn.com/livenews/3201570",
+      "ts": 1794956235
     }
   ]
 }
