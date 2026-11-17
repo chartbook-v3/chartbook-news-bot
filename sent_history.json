@@ -1,19 +1,6 @@
 {
-  "updated_at": 1794898187,
+  "updated_at": 1794898332,
   "id_hashes": [
-    "b4733d9a2d5a41569c588575d7cd2a3f58569dad4527bb2006783f3cae8d95ca",
-    "2f04ca12e37331acb4309548749075eafc493db37db4ac3449aa2342488e3f6b",
-    "ab4accfe9ad916d86183fa8a9ddaf3bac891a11ceef761bd8004c796615af043",
-    "80bb0fa401061ede08716b778981646ca017d6d558a23487ba35e48680b3e3e4",
-    "e2f734cf6dace582681dc92254ad92d147aa5db4b44268c2880d02b3b9ae2668",
-    "4d91d0014405b1e86d24b60a4123514b8201ec32e843e4e4f56c65e556e305d1",
-    "dd70cf6909f4a746aaf590ee9770ee8e75613abed66a79472d71724456bec6af",
-    "a1c1d15d9573e15a64864dc505875b1bc77dae834f5f92cf505a97abe3158c91",
-    "954cbc2f29c189daef18e6c591ce9a4c3d58ead3446c4383a9e6ebde010d50a6",
-    "464e2c5ac44b08776995885ea2e70592bed8b87d6f30b07572cec48421185eed",
-    "fcab439d62c17fcc9c89c63d76ac7631fc6380acdf30cea2f7cba4856f580bdc",
-    "b5d77f1e148d552385386a0616d517fa23944b7d4ec7248e3827bde66e3d48b4",
-    "39fc98df96dacfa6d4a3e9a8fe6de7db16fc2de33befea1218e44e15a505a8ea",
     "3a777e5dbe09fcc836354a9f3b89ed6a954e8a26e04da00811c61ab2bca89b7d",
     "f9b4d60fe883a1168d1fdd15c168d1a60370d318e6ecf10facc1932ea2c19cf9",
     "f154e8aca9ee53d8fbf3a3f6df21b0f05a74e63fd55240dfdd705ba0d2aab350",
@@ -4000,21 +3987,22 @@
     "dfa610e7947611f7ad3049ff88f710834b32be17c6373e2c2257f133b5623aa2",
     "a7d031926bc51e4e8f2f1eadc1460844122cb1ab0f82fe317055a9c47f1aa841",
     "6840f9690060d774c364ebdf38fc45018fba8cf64b9a14a89bd28df6dc0f923a",
-    "520df2ceedb8a06fbb41bfc1ab258395cfe2f1a302c968d8dfce165b710d0a50"
+    "520df2ceedb8a06fbb41bfc1ab258395cfe2f1a302c968d8dfce165b710d0a50",
+    "c1400ae1280ea6680640ba56f498d391349541c30c1c1f14303033645361da6b",
+    "178832d1f1a4d85566153533c06f80f675ee967c978d98d6b52275571eccd0a3",
+    "3a51503c8c3b6c4cba35ea38919d4343c95f127100d41173d17730ab98233fb4",
+    "9633de6465b640c8fc6f6df0bc46fad0c03ae53bc724bf191a160dae4f1ef733",
+    "8404c12cabbcd0cef183b0ceead6e42c7dcfd5bbaa2f5145542e701b590f8fae",
+    "3b971ddab12196959ef035c818ad14ad5d3ee5cfa4f063b56bce9d12c5b7ba41",
+    "39aae038103e75b3ebaa34d3b8ab3218b0d3d17bd5d43e2e7c7df9bfbdd30807",
+    "1fa66878e1689dbfad99b06e20a5ffbf1833e1dd425a163db5bbc7f6212e46a4",
+    "f6947f81595f35eb79da671d010263783dc3d527b853c89275c69ca417608cf1",
+    "14e16f6d20faf002052e7310afb35679c215bd6eecba27e5b60d4a1727a4face",
+    "e41f7d5d6c63db97a7c89ea9ed45a103619334ea1849f03eaddc671db5d7fcef",
+    "b75a6605b477b2dc1638c7424dd22e9f0e2725c5749699b25bd34fc96d3f6bc7",
+    "e4d31ae900e75491967ffbd59ff2332f0ac35477896de183eabe5b3b52345988"
   ],
   "title_hashes": [
-    "ddfd36620620931de9562108b601fe1a4a6f0d727f1267168c7c1e241ee6354a",
-    "b41ec59489db12e48e58cade37e8f98afd3570734bf05eb67051aa6fa04b8fa1",
-    "ac88c3567a7d35babe2f43f290d377af10b8d6df229d584822380b4c7207cad5",
-    "8ece4bd3d9a07f47af298fe3d4150a6120bc73c3ef35b490ee894637fe884086",
-    "332ccbd267f3f297ad5ddc493a1efedd5fd6e210475d606ea76f3a8bb05db22a",
-    "6ad554d105493168b8c18959175339f67cdebeac997a495b88c276cbefab6dc1",
-    "cfed31086de541ae365f0728cec604145ae7eb85588e715192d44639814f7752",
-    "290016569360a4f5ab84c7442c81d32f2d716946998daa3f41837a0924e4cfc0",
-    "851abbc6c5c0b08728f2c259596eaa9b41fc6af196971399eb2f415ea328df1b",
-    "69c8e416dc7c5afeb9a9a5ff5d1a617fc5d1104f7d638f7fd85315549ff3f41f",
-    "47d4de1ab1071b3ff130ece30e064c23b520fa7ced98812acb737050ff48de27",
-    "a343964ae72894a7c933d201aa10bae65349f277641dfaed65f8644696e905d6",
     "a4de764985a0aeb1cef8d7e77bbf0ae2d21630d95cf6b82693eaa6daad2a592f",
     "32d4f4c0d1858ac1fd8c9771d64da45d647fbb2216eca28e5450832bd839c959",
     "5dc13a7d265a6dfbc3e14d902530b84983fe866bcf62c1b1c587182ddc6c93c3",
@@ -8002,37 +7990,21 @@
     "861056dd416ee185c405e6063c273f92f1151d82bf7068336c2a9db6888e8a36",
     "ce506b56d16b73138cb3368cb160fa9bd15ad7c277f07f2b1c6a6f32e5015757",
     "fb08a1dd67bb75f3c301bfe0c6dc0bcee7f0d209a52bb7d411f33a5dc0c17e45",
-    "2af7c70352da97bdc9cbd965f3277ba4585b6076f4bbb5c18135f21e50f11ef8"
+    "2af7c70352da97bdc9cbd965f3277ba4585b6076f4bbb5c18135f21e50f11ef8",
+    "ad6d0d8a4ea421e7288db65dfa4e6fdabcfe884e66963e7fa1ca7cc661327d8b",
+    "caba39fc52ba85182f5dcff7c81f2905a6d4688f9a3baebb599f0ca03d3e0e09",
+    "67b88d23400d875ce20b2fe268ff14842174c66e942716c391838773f60bdbd2",
+    "eb2444d14a1372bff414cc023f6252729b37a0f726df843ee35290ffb1984768",
+    "837c6c64d658ef515164ea2f963d09a77ae9b8eb9f22c35d5c1c959de8cc2688",
+    "9d85abb53837f191c20700723221969a6d11ed1cd99fc5b00c5dc6f91afb3c3d",
+    "f9f98271fdfdb8c3ea2587b26a6c1c4a89d346e4f5ce8943d73071324efc321f",
+    "ffdac2289f74f21cfe22f133d78ff9425adc7a661b487ec5a1682b053852cdba",
+    "c67f2438a2a3bf5afeb633ebfb03a7448630cc4991cace5186212be2ea188c03",
+    "55d06547960c861a327c8e11bd6904c757191c9659b78e357ebc3c99b50b783c",
+    "78225eba9d937c394454556eb8ca90d2d14ddffb99aa5c7a2064ecf0cead631e",
+    "8d662e4599eeeeee22d940ed68d5d6a7613da36e9883195144da4790709432f8"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Nvidia Fallout Adds New Tension to US-China AI Race",
-      "title_ko": "엔비디아 폴아웃(Fallout), 미-중 AI 경쟁에 새로운 긴장감을 더하다",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-16/nvidia-fallout-adds-new-tension-to-us-china-ai-race-video",
-      "ts": 1794855654
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Nvidia’s Defining Week: CEO Search, Earnings and China",
-      "title_ko": "Nvidia의 결정적인 주간: CEO 검색, 수익 및 중국",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-16/bloomberg-tech-11-16-2026-video",
-      "ts": 1794855719
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "JUST IN: 🇺🇸 MAJOR US BANKS, INCLUDING BANK OF AMERICA, WELLS FARGO, AND CHASE, CONFIRMED TO BE EXPERIENCING WIDESPREAD ONLINE OUTAGES FOR OVER AN HOUR.",
-      "title_ko": "진행 상황: 🇺🇸 BANK OF AMERICA, WELLS FARGO, CHASE를 포함한 미국 주요 은행에서 한 시간 이상 광범위한 온라인 중단이 발생한 것으로 확인되었습니다",
-      "url": "https://t.me/marketfeed/1078916",
-      "ts": 1794855721
-    },
-    {
-      "source": "WSJ",
-      "title_en": "California AG Accuses OpenAI of Misleading and Endangering the Public",
-      "title_ko": "California AG, OpenAI가 대중을 오도하고 위험에 빠뜨리고 있다고 비난",
-      "url": "https://www.wsj.com/tech/ai/california-ag-accuses-openai-of-misleading-and-endangering-the-public-8e5c60d0?mod=rss_Technology",
-      "ts": 1794855723
-    },
     {
       "source": "9to5Mac",
       "title_en": "iOS 27.3 adds new face unlock feature for iPhone Duo",
@@ -11504,6 +11476,34 @@
       "title_ko": "[속보] SK하이닉스 110만원 밑으로…7개월여만 최저",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41NHpGWkd6MEF5eFdpek5YcnAtdGhMQUZJNmtySzExV1VsQjV3a3RxNkx6dFJxbS13Q1B3ajRhOWNWaWVXVkxrTTFQVnpfZERrQWtLNHRmLWVmdw?oc=5",
       "ts": 1794898186
+    },
+    {
+      "source": "매일경제",
+      "title_en": "“삼전닉스가 다 했다”…나머지 기업 영업이익 증가율은 고작 1.7%",
+      "title_ko": "“삼전닉스가 다 했다”…나머지 기업 영업이익 증가율은 고작 1.7%",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVbG55dHI5cW5yOHVZaThtMHM5cjFOQmFuNTBEd1BaV2Y1Z1dFWV9ZTXJ6cVBvd25aZ0ttV2pRS0RVejl3WGM2LUJ1dkJ4YW16QVNfNlR3?oc=5",
+      "ts": 1794898205
+    },
+    {
+      "source": "딜사이트",
+      "title_en": "[M&A 캘린더] 휘닉스중앙, 경영권 매각 본입찰 外",
+      "title_ko": "[M&A 캘린더] 휘닉스중앙, 경영권 매각 본입찰 外",
+      "url": "https://dealsite.co.kr/articles/172829",
+      "ts": 1794898208
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "[특징주] 옵토닉스, 코스닥 입성 첫날 51%대 상승 마감(종합)",
+      "title_ko": "[특징주] 옵토닉스, 코스닥 입성 첫날 51%대 상승 마감(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20261117039651008",
+      "ts": 1794898270
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "提醒：北京时间15:00，将公布英国9月三个月ILO失业率、英国9月三个月ILO就业人数变动、英国10月失业率、英国10月失业金申请人数变动等数据。",
+      "title_ko": "[일정] 오후 4시, 영국 9월 ILO 실업률 및 10월 실업신청자수 등 주요 고용지표 발표 예정",
+      "url": "https://wallstreetcn.com/livenews/3201070",
+      "ts": 1794898272
     }
   ]
 }
