@@ -1,15 +1,6 @@
 {
-  "updated_at": 1794914214,
+  "updated_at": 1794914366,
   "id_hashes": [
-    "16206cd965d786fd30d982d274e48f420060dd29473c7061179b1100a0138251",
-    "c5ff86da7d5ea10d456dbd0cb5bf5af91d14ca31b84f5e116129406db173d578",
-    "09844229623355d1eebc60684834efc09d62feb59fab22ec8d312d8dfa6fb424",
-    "8dfd252477aa55fb8d55da76d20e91c1ee379e5662273e1fe3da77c58de56ed3",
-    "2a391922c3a58fca7148d8ed7515a330ec464ef346acf24edc50df4ed743db7e",
-    "aa65d2e525dbfa107d726ccd82aeb967b119b39d3e866014ff3feac4be923213",
-    "8aec13ddac482554a62e3155fe545c548b707f5947ca3f922125080afcfed55e",
-    "07f06a4c2bfb0ce5e539c716f90499187c784b729055781f99ff47de826c1a53",
-    "1e1d272c94d7e1a370142b43a4ea454455662ff0cff0df5bf6a362c5d65fa2fb",
     "24fcf289c693cfdd5ec580b601e13a51ba0e3710a48e4b7ca0d9e3904aece824",
     "1aaca23294ba3c2b233160d046e812748da7a71fd1bcb172037af25ad9b1686c",
     "2070a45f6ff9497999871e1e2d98b576c103f4503ff0dccd29284c9f2c4acb29",
@@ -4000,14 +3991,18 @@
     "424babeb713ebede3c4f16339456e11e3e40e8c70bcf459fb87fe075feaf65e1",
     "165f9291a22dbc3a43e40b5aba81b1d3a60e9e6314a76116789fbeda0ddc320e",
     "e8c9a56304c8879c50102d8c3c56393f1f5738e5f18ec55ce6a721cc1854b8f8",
-    "fa9fbecd05a557ee6fd5a645bbe195ef618814c75aa7edd58e6e30037d3e45d5"
+    "fa9fbecd05a557ee6fd5a645bbe195ef618814c75aa7edd58e6e30037d3e45d5",
+    "baab4b038eb127fd75cab02e417941bdb3859e0a9d18da8e5a2d38770854be7a",
+    "e7a1f9f1fdd58be806e66ae73818e6893c16271bf6f16d706fd69b5757390d3d",
+    "f98590fc183b20a6020d5f0fb13d44ed1548c74f12fbcf8307facba4e9e188a3",
+    "2135ee92a4f7f7eb48880f41eda2dcc19e6d73e03079e3a40420074f6c3f9479",
+    "a0d5b177d1cc49fe461f294953d58b64573002385627fea47a0e73e01359f0b2",
+    "3f6874059593386c5d8ea0c330475216cc55eba866db5b30d41726f623f2fff0",
+    "8cf35a2647b4bd7f07b2e5e6cc38a276ff2fec6d2dbc49ecef67a9b5ad764866",
+    "456d8e091871cb76fedad79a2d2437a0a2680e9293bc883babafbcc060372c1c",
+    "187860546aa98e0de5dc7d9872c4df5e1e865129dc00b3382a666cdaf0af1631"
   ],
   "title_hashes": [
-    "3bab1c34b6636a89c5879a15046bedf909faec4c927d10e96d9cab6763e4328d",
-    "1a17be7b2971a62355af9241068f5f236d4ef691924cbbc50785a3f9300bfe97",
-    "f6df48e6bb341b265b705bfdaaa55feb911ad2e36ee025d9a050f2381c9534d1",
-    "2ce93ae4ff9fa8e0758418b9d172ef45ff800c76274952f76d3c76ddabe6f886",
-    "265358762823a0cf725068dab7c1381315d12c74832755062b9ec935558a0931",
     "355abf153693194513555caee1c090491f2ede2ea610d3aab2b479358ea32340",
     "2f049bc4ba7dd204740d185a3d9867657fd0441b5525e51a07332a269fc02e62",
     "df3cf90e61b7e59cdbdd84ee83bb25856da31bf801e64059daab738cdaa1a1ac",
@@ -8002,30 +7997,14 @@
     "bc9a44533cac600effe944301d929062d4683bf48416f148d3193c61d77f8233",
     "97986a54a61394cfa71d8c3e05bfde6467602d69e4e850e4a039d6e4b134c888",
     "a7dd0f57f46f98a3edbdd3037f5e10e9e8eb280d6e5f25acb445dc7e40b42937",
-    "6a9b35c956a74a9f7e0cb339395cdd4a9505c765aac32084f36c20ca32a5a4cc"
+    "6a9b35c956a74a9f7e0cb339395cdd4a9505c765aac32084f36c20ca32a5a4cc",
+    "290c6e6a1695f45ab94643a574a39848785c6e4d7573013f89384b4db9b6ef8e",
+    "06fa63c47a48959d4b6d744ec3531251da1018397578895509fffe44fd1ecbee",
+    "a09393da9258f757b57de807530db7a4d3794d3bebe7de72191db6998ebbebc1",
+    "05ee183e3d7bc59ce1ac4b5dd13d82d6b3fae1be6f9c5e7340485be92609a3b4",
+    "b1e6ef9c9bc80f29898417523863e5c474c5a0b13a2464fdc13b365a8c1a6605"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합인포맥스",
-      "title_en": "JP모건이 보는 엔비디아와 AI 미래…\"쿠타 생태계, AMD가 잠식하고 있다\"",
-      "title_ko": "JP모건이 보는 엔비디아와 AI 미래…\"쿠타 생태계, AMD가 잠식하고 있다\"",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445130",
-      "ts": 1794880094
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "[오늘 외환딜러 환율 예상레인지]",
-      "title_ko": "[오늘 외환딜러 환율 예상레인지]",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445132",
-      "ts": 1794880097
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "TENCENT STOCK DECLINES OVER 2% IN HONG KONG TRADING",
-      "title_ko": "텐센트, 홍콩 증시서 2% 하락 거래 마감",
-      "url": "https://t.me/firstsquaw/193340",
-      "ts": 1794880100
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "芯片股局部反弹，伟测科技涨超10%，华虹宏力涨超7%，灿芯股份、盛合晶微、燧原科技、燕东微涨幅居前。",
@@ -11504,6 +11483,27 @@
       "title_ko": "AMD, 언리언 엔진 플러그인 업데이트와 함께 '둠: 더 다크 에이지스'에서 FSR 4.1 불칸 데뷔",
       "url": "https://wccftech.com/amd-fsr-4-1-finally-makes-its-vulkan-debut-in-doom-the-dark-ages-as-unreal-engine-plugin-gets-4-1-2-update/",
       "ts": 1794914213
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "OUTLOOK 2027: WELLS FARGO EXPECTS S&P 500 INDEX TO HIT 8,200 POINTS BY YEAR-END 2027",
+      "title_ko": "웰스파고, 2027년 말 S&P 500 지수 8,200선 도달 전망",
+      "url": "https://t.me/marketfeed/1079506",
+      "ts": 1794914233
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "Save $385 on this 4K-ready Alienware gaming PC with an RTX 5080 and 32GB DDR5 right now — grab this powerhouse Aurora ACT1250 rig with a 24-core Intel CPU and 1TB SSD for $2,799.99",
+      "title_ko": "RTX 5080 탑재 에일리언웨어 4K 게이밍 PC, 385달러 할인 판매",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd385-on-this-4k-ready-alienware-gaming-pc-with-an-rtx-5080-and-32gb-ddr5-right-now-grab-this-powerhouse-aurora-act1250-rig-with-a-24-core-intel-cpu-and-1tb-ssd-for-usd2-799-99",
+      "ts": 1794914362
+    },
+    {
+      "source": "WSJ",
+      "title_en": "It’s Hard to Protect Your Nest Egg from Nvidia",
+      "title_ko": "Nvidia로부터 Nest Egg를 보호하는 것은 어렵습니다",
+      "url": "https://www.wsj.com/finance/stocks/its-hard-to-protect-your-nest-egg-from-nvidia-2e7419b7?mod=rss_markets_main",
+      "ts": 1794914365
     }
   ]
 }
