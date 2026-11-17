@@ -1,26 +1,6 @@
 {
-  "updated_at": 1794943697,
+  "updated_at": 1794943853,
   "id_hashes": [
-    "fa8218130e52b7fe6e49d53d11e9987d42c54e81e6df9e8b50ff96a0bb0f69fe",
-    "ab553fb1352b3e1690961d362d41bc202712f0adf88e24be8bce9b5eb85badb7",
-    "6e8f06206cfe666ba125a1ab48dd3f588490b15cde0f272cfb37a34ed866fc04",
-    "aa654ec53252d7dca5b847a1c612368cb8d4f949e151c103e4260983636620dc",
-    "32495c82397a0563614d929b156683ff5b7a216c8c8c0b71db49814398380aa4",
-    "2999baab121f18bef275598b8a1575fcb820ec80509fe0019422d6348125d28e",
-    "4ec0be57bbe8ff9e0f625e5871aa208e4015c178e2acc95efb1f4edd4755b222",
-    "5478058877c01a588947f384bdc68957fa5bacb7e363c9471be75e3b0e376d05",
-    "5d34a2d353919b1259d63b08c44267205e99e743e5f731cadd0ef1e8564e9ced",
-    "d7a24270468a5539a882296364617ba5ca415811cd13839be5590da1c2b069e7",
-    "1f7c61dde56d685fee007ff468b7d107dd5f7003b271469c606f96c81a5c0dfd",
-    "c2c8eb5087ac163087b2d127b7d87be957d6c1a233db0089fe92da573222cbb6",
-    "bab9a72fddfa06c673bef373a267131a5f5b218d24e9d3113696fbd3d619dc4e",
-    "9c2384eac8f1af738831b6c7d9ab38bfe26070ba0ec2c9d82c653061fcc854e3",
-    "9077b3f03a5f51b8911ab8fcbd6635344b6aa72d47981d8422a3b6915ad78148",
-    "67b6cf49a137ca5617473811050be8d7eef230087ba837edc0e49b1b3ebfc527",
-    "676c667768987f50a0e3f3fd5fbdedeaa8a0921884b77b6501307ec14dc37637",
-    "f9a920fec3a5a02b80dfb0a602f2ff604eca4216c3fd62f1c083645af0773b50",
-    "30f0ecbcdafc2f586eb11ea08b9e323af77db9dfa9f19278e68bb763b1832de4",
-    "6552aa4ac79f5cec66c9edda241e02cb687a85ad4f5b336691eca9ef8de7981a",
     "812679d1be7047cd7a8cff8d72b12c03ec48ff1863230320e837514bf1e7eb33",
     "81fcef1cb51bae96418c67d216ec6a29b7ca857d80e9942e1d2452f5596d0232",
     "91ee95a780ec32cbcdbbe86bc95a942d0f31d9248a81e3e96fa5762a81c1fc0b",
@@ -4000,24 +3980,29 @@
     "cf1738fae113de7c0edd3798450fe99a13c34b420f17df90781554ada8644978",
     "412052f22ee47651aac1220f36a1981052d736cc68e7afba42489ab606094754",
     "f3e554edf5b5194e773c28c49e8e95feb8e76fc4188449e46efb2d03582bbfe4",
-    "f8e992587ef6b1a1311530271ef056695d016fe84543505209f7625b35dbffd8"
+    "f8e992587ef6b1a1311530271ef056695d016fe84543505209f7625b35dbffd8",
+    "2b07b2937231855124eb6deda5f343577568f3ee502271e7d91d1b741d75a9b1",
+    "7bd413e257a737b9194e556ac8a4829e523504bbd30a2522655064587b5aca68",
+    "15e18aeb9a08e941b392177135d277874c3f7df649fe6a2c64bca3243e7dd83a",
+    "a7a2b96a3840edd5ae6a5ec976badf6bb58073c69e708eeecb20431d3bf70818",
+    "3a53fb19783d4f9a633b1ddbc27f5123d4fe6f1b911e4495e1eb1b17b2850a07",
+    "73b9fc2ac35cbdd474929a392848e21536c60ace47ef718cb062d2160f654061",
+    "dad5660ddcde637d5824f89f56450ce65b21416e8117b3cfac7d8feb8b2e1b75",
+    "afdd90fa6d3be7cd1c523637b313ec4fe968c045a1b30fe1b4c5ab6f6f074eaf",
+    "41625e1527f30d1f99777ca1c2ca67e04541da61bec6b3a719bbc5f9c1dc07cf",
+    "abbe4a3ab7630b17a35397bbce8544e09cdf53b7c1d04ba6383ef0301cf5aa89",
+    "c10d5937ba9e7a83a64c9158cba9f3c9d3575db56b0bedf9f2bdf2cfcbceb6fe",
+    "9aa1b83d76ca103c7188f6a1ca0c1e0733de90a2431a2ba3303d9ca75bdc4f08",
+    "5b5d70e74037925dc5d22321dfcda34b8469e548c85223e994984ae4fdc655f8",
+    "323d3a1c2cda6c335b5ee668bcb3d159cde9282cf17b0d6be545de4a49fda0a0",
+    "1a28874477e7af4f624ce10f1fb94652c03f21941731e4b25eeaae4a4f39d2c6",
+    "c4b1f46382365bc8526f70f017f172eaa8de0cc4a7fafeea47616d37762b3109",
+    "45e1a07425b94712ba772cdda7b6393fad07a2b6f661e477c1e41990088c4027",
+    "73f538ebf73e9c4ee263e4c90f2bcc552585a1afdc95ebc8fd7b8f326e4a7fba",
+    "d2c589aca0475c33058d8c9607d494e3c2fc3831dae360755b1854b7382e369b",
+    "4dfd29aa0aaaab97065fe3403a0c2a94e13f97dc5241b520784fa34bcbc44ca9"
   ],
   "title_hashes": [
-    "e122a07627d7b851924ed25be048eab2fbf546a71c8de97d32b7336bc1ab2fb2",
-    "e36360775a163b4264e1f8a4858ad92bd1def8fc3314aed69fae224f22191d8b",
-    "faeba06663882b4cfbc73f05a0282eadf8e15396929ec4d31fa0daff653a259d",
-    "4e1b5371cd7d95a79f6f7112a91576fb22bb979f68fdb729319890fc560c51df",
-    "4bbc5b5417ff1ae6b28e2645afc75368c2497d9c4aa0eb110e3da660f3881a4c",
-    "63060e37b9b9fba368bfe71ad4134e746564107d985db7d92392342a478a7f1b",
-    "8ca3a45450e65ab3c7e1a729e98716b9bdbb0b561886bcd46c5c6477834b6f1f",
-    "248389f51c79a2dcaaf1a873de7889e623b193dcef04ad9b4da97e15199b1870",
-    "adbb7dd3dcd14c994aa2bf988a4333c15ab46d261989a422b75ea7eed79f7c63",
-    "e8828284cf68c7ab8ee50982afbf87a2d72ce8b9e8cec9da717ef1f1d016851e",
-    "aa798fa25bad8b04bac258fb36067d46a998267f9f425ef36d9526ab87b296ea",
-    "b865f4ce1b78812e032391b85c76765d59998cd88183e4da404c582a11df50ce",
-    "54f31c3610fb6d809eb49ed90762d4a82c44fd6f8bbd714b06730c1c34e072c2",
-    "4ede08b152aea1a1707a10aa4e91529042266c53736b4fb8bddec93b0cbf4098",
-    "3a628070ecea88eb365f8b4dd83334bb8e9a0a87b2ee6665cf6a640acdf9ab85",
     "2722c3bf157fef596b6f12aaae4e0a964d4586fcbc7db5f3c382bb95867eec3a",
     "15463fb099eee8b6383a0b0ef0c263dc862739b84ac1c0f0498a805d6f986721",
     "ec222a7581c50b2149ede64c3b1eae2b6c99a5a82187f6e82919a088fed9b355",
@@ -8002,51 +7987,24 @@
     "f14607980d97735d134587cd9773a1d2a16bbbdfa901ea81c60fee4d8f953f63",
     "21f508dfb99b82752969557eecb29e54cf05c679f922c074b8eff2b5379e6a8a",
     "ab6e1cae20954033643f40e08213c41040091a6df73497b53cbb7276f395ef1e",
-    "31399551b841e5cf72df9632a832c52ed4675fbe3dc1ad32c041dbc6cdd35398"
+    "31399551b841e5cf72df9632a832c52ed4675fbe3dc1ad32c041dbc6cdd35398",
+    "0aa44272869a834705921fef59d1bfc3661c92d0d6c93eebf9ec532af280907a",
+    "5522ef62d4d6f4abbbc34315cf492f793d0d6bb797a4b6ed209fa7ee467d8bc9",
+    "79b82e278ad03ebe2a5d12595a6b6a8fc07ceadc2bca6604dd7612e56f0064bd",
+    "fad18dec0ded9f462a66bb6c3ff502566a2a1a86d3d653286bd3831f9e11ce00",
+    "399653b25a702305780e69f940558e936296c50a40209efad9e0b56833a6f52b",
+    "2b3d44dd4733ac34996697f1a1aca226178f414f3bf34b066acddd406dd7f286",
+    "e75e113dbfbf9d9f62d8d01739658fb5adced75b715a761e301f23e97f54a652",
+    "53da7cffd2fc94d5a0fabad140bce315e5bcd4be5d84797f6d8fbb79d6c8e745",
+    "26b5880721582f07d28e46f3be8820f063e517648482be347fd48dc9f205019d",
+    "47c19995d60cdaad9e29a9d20c25c7eba1d6d8cf2b352c69b79a035b2bafb28b",
+    "31bd8a35672abffbac9fbaa3bbbf3e26733d1b78774d0f6a5e680c5046c54b8b",
+    "84f5657b124478fc513b5ba192ea36434d1f9de227d6ee0c4e6cb4872768fe83",
+    "1d31e74435ab4daa467034398a997d8d590b090a471e88f14a1639263292671b",
+    "329fab2b59f338853c330efd300cd2284a14d9c20ccd12976762fe524169823b",
+    "1a8be2d48970f02722eff02cba42cc6f0e4850ffd0516d49e6756adf8a6253e6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Taiwan's Defence Ministry reported detecting two Russian military aircraft approaching from the northeast and entering its ADIZ early Tuesday morning.",
-      "title_ko": "대만 국방부, 화요일 오전 북동부 방공식별구역(ADIZ) 진입한 러시아 군용기 2대 포착",
-      "url": "https://t.me/firstsquaw/193374",
-      "ts": 1794888305
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "The Russian aircraft flew east of Taiwan before exiting the country's air defence identification zone south of Taitung, Taiwan's Defence Ministry said.",
-      "title_ko": "대만 국방부 \"러시아 군기, 대만 동부 및 방공식별구역 통과\"",
-      "url": "https://t.me/firstsquaw/193375",
-      "ts": 1794888307
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "TSMC leads company mentions in petition seeking Jensen Huang's return",
-      "title_ko": "TSMC, 젠슨 황 복귀 촉구 청원서에서 최다 언급 기업 기록",
-      "url": "https://www.digitimes.com/news/a20261117VL210/tsmc-jensen-huang-nvidia-technology-taiwan.html",
-      "ts": 1794888333
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "美의회 8개 위원회, 엔비디아발 안보·상무부 태만 조사 계획",
-      "title_ko": "美의회 8개 위원회, 엔비디아발 안보·상무부 태만 조사 계획",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBQ1NBbE5HVm1rb05jamdwN3ZzTkhpZmc1OVdGQVBsNnpicDhpNTFzWFVwSEEtMzdDODktYVNHRl9UMkVmcjJtNG83VUhyM3puelgxUUJ1Qmk1eW1XS0pHNmtVaW5yM3hVYWNLQi1CX04?oc=5",
-      "ts": 1794888336
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Canada PM office: steps to offer extra tariff relief for about C$400 million in exports to China",
-      "title_ko": "캐나다 총리실, 대중국 수출 약 4억 캐나다달러 규모 추가 관세 면제 조치 발표",
-      "url": "https://www.financialjuice.com/News/9855033/Canada-PM-office-steps-to-offer-extra-tariff-relief-for-about-C400-million-in-exports-to-China.aspx?xy=rss",
-      "ts": 1794888394
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Canada announces plans to prolong and widen its preliminary joint arrangement with China to address outstanding bilateral economic and trade matters.",
-      "title_ko": "캐나다, 중국과의 양국 경제·통상 현안 해결 위한 예비 공동 협정 연장·확대 추진 발표",
-      "url": "https://t.me/firstsquaw/193376",
-      "ts": 1794888459
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Ottawa has approved a two-year continuation of existing remission arrangements for certain Chinese steel and aluminium products ahead of their scheduled expiry in late 2026.",
@@ -11504,6 +11462,48 @@
       "title_ko": "윌러마스 연은 총재 \"현재 상황, 극단적인 정책 대응 필요하지 않아\"",
       "url": "https://www.financialjuice.com/News/9856359/Feds-Williams-I-dont-think-the-situation-calls-for-dramatic-policy-action.aspx?xy=rss",
       "ts": 1794943691
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Apple Works to Restore Systems After Update Caused Outage",
+      "title_ko": "Apple은 업데이트로 인해 중단된 후 시스템을 복원하기 위해 노력하고 있어",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/apple-works-to-restore-systems-after-update-caused-outage",
+      "ts": 1794943723
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Alpine Sports Gear Maker Lifts Outlook. Ski Vacations Are in Hot Demand.",
+      "title_ko": "알파인 스포츠 용품 메이커, 실적 전망 상향… 스키 휴가 수요 급증",
+      "url": "https://www.barrons.com/articles/amer-sports-earnings-stock-price-20fbeccb?mod=RTA",
+      "ts": 1794943726
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Google: Aren’t currently seeing evidence of a broad Gmail service disruption. $GOOGL",
+      "title_ko": "구글: 지메일 광범위한 서비스 장애 증거 아직 없어 $GOOGL",
+      "url": "https://www.financialjuice.com/News/9856361/Google-Arent-currently-seeing-evidence-of-a-broad-Gmail-service-disruption-GOOGL.aspx?xy=rss",
+      "ts": 1794943729
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "NIBE Industrier AB (publ) Q3 GAAP EPS of $0.44, revenue of SEK 11.23B, beats by $10.12B",
+      "title_ko": "니베 인두스트리에르, 3분기 GAAP 주당순이익(EPS) 0.44달러·매출 112억 3000만 크로나... 매출 예상치 상회",
+      "url": "https://seekingalpha.com/news/4673850-nibe-industrier-ab-publ-q3-gaap-eps-of-044-revenue-of-sek-1123b-beats-by-1012b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794943784
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Nucor upgraded to Outperform at Morgan Stanley on cash flow outlook",
+      "title_ko": "모건스탠리, 뉴코(Nucor) 투자의견 '비중확대'로 상향…현금흐름 전망 호조",
+      "url": "https://seekingalpha.com/news/4673843-nucor-upgraded-to-outperform-at-morgan-stanley-on-cash-flow-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794943788
+    },
+    {
+      "source": "Axios",
+      "title_en": "US reacted to Iran's targeting of US personnel and assets",
+      "title_ko": "미국, 미군 및 자산 타격한 이란에 대응 조치 착수",
+      "url": "https://www.financialjuice.com/News/9856363/US-reacted-to-Irans-targeting-of-US-personnel-and-assets---Axios.aspx?xy=rss",
+      "ts": 1794943850
     }
   ]
 }
