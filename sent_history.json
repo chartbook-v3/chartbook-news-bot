@@ -1,11 +1,6 @@
 {
-  "updated_at": 1794955332,
+  "updated_at": 1794955499,
   "id_hashes": [
-    "a7e91b0cd5e37f33a319355639ece12b5fe17e6b9c33b3d5e7d98d0b337bafae",
-    "a19a312202672506a085412d54cc9891a1f3a2914a0fbec587a168e1cd60b2a2",
-    "46a1c1c121d00f036703bb074e7787ec4772cdef47f900afb3ea9927e1e47f12",
-    "dd808ec47476eacd31b7ec1dc8f92280e9579bd6a18c124dfd6efb5fc2f182f6",
-    "651ab4c2e126512f88d02402249cc3b18f2b5aadfdb23803cf790573aed16c0a",
     "fcdd7937f53838ceb2254cad4c6aa9c7a82670402bad315606ca729fa19291da",
     "aee560bd0d7298dc6d22e7e6b0d9bf0787a49163fa3a2d7685c986f77a8b41cc",
     "0f432114f507ed367bb4bd059dd6720478de472502480e94d7471bdd0008062c",
@@ -4000,15 +3995,14 @@
     "1b7b9da3025adf84681b6bd01b2e431bda99cf234e453945e55edcf2cb28384b",
     "cb80770d85d457e328ed551352350caf80abea97b6fb7d6615661123ff3b1d46",
     "e0ef849a44d086c20d6b694f1ca10867ca909f4ac424a959f7662158e15a0688",
-    "5c1f79746091ea5f070d3f13c23a900a585e332cfb376f956c889fe0c1b41f57"
+    "5c1f79746091ea5f070d3f13c23a900a585e332cfb376f956c889fe0c1b41f57",
+    "3399a193be13ebd4cd431963b641319cbe4954424f0a461a26785a6342f18090",
+    "0a96d6399999dd743c355aff371a5d3c457639ed034b8f46349ff25c458915d9",
+    "36447bf44a831ee8379fc8375f33a86499c58af2cfd7e5c3b510cd36e4440ff4",
+    "0c9409af6d88ae419d7df7c586cf42c320beaef04ac097276e7444c5735be264",
+    "f05b695ebca2b2a72e354b4c36ebb9af0a9239b77df3afc82192ddad76aad927"
   ],
   "title_hashes": [
-    "88899a0142eab3b7b4d5aee6cd4250e89dd54fad83cef07a09bc00c71ba57aa7",
-    "efcc9e5f4077ae3c7c69b3e49294c88cb8a9dde8ad4cf0cc53395c1499f7ba8e",
-    "dfb94b2ec71fee436fc529271700eb539cdf1f5ad750ed9b56250ae1178de178",
-    "4541e87831b3f2efd68c9a533add202afcdf06eedc9dd03fcf83e3488ebc6668",
-    "c91393c0dff4c86d0b67d8b36ceb065e5027f211b79e9fe7e2c86951b536286d",
-    "7680cc9888a585944f92511b054d79d088be0cdd612e9b34f6c4620df5eb0021",
     "08bd665426910f114900639b2e606b5106aa8cb1880cfbf2aa1e4096ad395cf3",
     "9a43b0416c8c4bf0c8e29acd8bee8a8df99eb826af8c10edc15d47f44f91d66d",
     "e01748b23cf074648145a53ed6eb442c5a4c77cbecc0970e2d46b8caf15ac73b",
@@ -8002,23 +7996,15 @@
     "80505a5c2be3b25ca5a9d53e141b6534abc416aef6657c6d5198c0cfdfe32574",
     "f8620092f58b4f53ed7eabbf11589f9e7a046f4329718f509bb24e7c045b6962",
     "24d2271b2f6ceb1add4296f086ba46464c0222a87a60f74341343e2812241e84",
-    "0e01fb9d29b44879e91b2af286824cb70a4b130cba14828f21c8b9658b18e15d"
+    "0e01fb9d29b44879e91b2af286824cb70a4b130cba14828f21c8b9658b18e15d",
+    "116260ff0539cd26d6bd630ea103f51c67335a08b5369194ef5d3eb7b5b8089e",
+    "1ea68852f0e3d6c5da7913e2d6a570ada498b8c1fb4e54046853106e546a86e2",
+    "f795d62b24c7991dfbb3b3a4baedf5c8e80d22cfe640fade4c1d7b7b2c4d5414",
+    "708a2eb05b6b7a5e262cf2cc38c2554f103131f209861d61a4f5241f1f59f118",
+    "a335734c4641dde650a8c4bd9f35f578fe09ed6f483071740b94a6061bc5bb9f",
+    "c57bda70054d55663bf064dff37dcb637f79b581ddfaa051c7912835e162391d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Amazon Cranks Up Its India Clean Energy Investment With Fresh $7 Billion Bet",
-      "title_ko": "아마존, 인도 청정에너지에 70억 달러 추가 투자 단행",
-      "url": "https://www.benzinga.com/markets/large-cap/26/11/63331971/amazon-cranks-up-its-india-clean-energy-investment-with-fresh-7-billion-bet",
-      "ts": 1794910881
-    },
-    {
-      "source": "Semafor",
-      "title_en": "IRAN LOOMS OVER TRUMP’S CHINA TRIP",
-      "title_ko": "트럼프 중국 방문에 이란 변수 부각",
-      "url": "https://t.me/marketfeed/1079451",
-      "ts": 1794910883
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Glenview ups stakes in Meta, Teva; cuts CVS, Block in Q3; exits DKS, STM",
@@ -11504,6 +11490,20 @@
       "title_ko": "Nvidia: 데이터 센터 프로젝트가 지연되면 보증이 무효화됩니다",
       "url": "https://wallstreetcn.com/livenews/3201564",
       "ts": 1794955331
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "英伟达：那些特大型公司提供了如此多的需求。",
+      "title_ko": "NVIDIA: 거대 기업들은 수요가 너무 많습니다",
+      "url": "https://wallstreetcn.com/livenews/3201566",
+      "ts": 1794955428
+    },
+    {
+      "source": "이데일리",
+      "title_en": "[실적리뷰]엔비디아 “젠슨 황 복직 계획 없다”…탄탄한 실적으로 우려 불식",
+      "title_ko": "[실적리뷰]엔비디아 “젠슨 황 복직 계획 없다”…탄탄한 실적으로 우려 불식",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01813846645647032&mediaCodeNo=257",
+      "ts": 1794955498
     }
   ]
 }
