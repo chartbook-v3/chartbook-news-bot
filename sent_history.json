@@ -1,21 +1,6 @@
 {
-  "updated_at": 1794911668,
+  "updated_at": 1794911840,
   "id_hashes": [
-    "b09cc7cdfcc2547f1ad861d8b41d3b3398dcec58dd4e3094f26265cceeed5228",
-    "d1a54fbe645ecdc054381f27475b31730d0c0d2a9f2bb3c2e140158fa8e99cb9",
-    "d87f4a6f4689157ca3693dd57c62ec112683910d3787ea32e5a35272c9e8fb7f",
-    "cca383dcb2a55a4efb494ac6e6ca82116945838b455bd1c38c65b56216136ad0",
-    "6487c4f961048db620d99555eacd3138f3e7752f100b689fd1a88a1e13742df4",
-    "e17e105545b574c036c280f51813556890c15ffb59086727c0d0e2d4d261ba1d",
-    "b4a48cf6bee89f4ec1661c1dcd98739ca6197bb828d023f7b71122729bd663e8",
-    "84e8e0933750ab74486f6665df573bf5852548e7c6c930aa1cdfb22068006ba2",
-    "1aaa647303661a81562597f3eb7b57952b6936e6ad2bd0bc8674eed5945fc276",
-    "bc5fa8f3b0b2b47f2aaa49e59f0a9958e6614f03800ab4c22e6d171d4e0586c5",
-    "3d445dbe97aca80cde00e5f32ba91998331b1e124e01d8e8df51edbfd73c2212",
-    "d80a9c4317fd35302c1083fd7b8caf22cccda3756ae7e10aa32997dbdb4632a8",
-    "8bf1638895c75be4aca14b639047c3117f2cf57dfa1089a822261f5c38fe4ec8",
-    "0b02731ed4fcbf01d62093d507d2e1d8890c65709c8e407c3845f6482726b23c",
-    "8c48c44cab19a9fa0430cad862b2525ddd53a46367e982875dc63818cb2bf74c",
     "d1b07b7d50affac339ff1ecae16091698908f151d761ae4f933bdefd963f3cdd",
     "07907622f625d0d52551369d0b3f1d5da0a6253ec26a5125335025bc89e6f6a2",
     "e9f632518e2a53bdf69a38c38b0d218689ee5aed2597ffe7e03124e96dba4de4",
@@ -4000,21 +3985,24 @@
     "30bc8f7db8dca310a1b519e83eef1cf209f143fa2942a1f830f1f84de6d648eb",
     "727764fa08e8fb0642537eba512e5082f69af932ca73d2ca1fb69839b2680611",
     "399187de5a163d2348206d563a3d86504ccc10b9ac4d9d291cf073d9707d6c87",
-    "6e0e00614ba74c1d1957b5714ea6c0cb713bb260e42780db305ece64e707a488"
+    "6e0e00614ba74c1d1957b5714ea6c0cb713bb260e42780db305ece64e707a488",
+    "17ac1e46cd65f8d359d5c2a9e7b6240e163532776b54dbd286246a0d487c7a42",
+    "45dae60595e577df37e9edc624541cfd50b13b29652c0b17720b17ac7cecf271",
+    "62572580086c14830bb741518f85e6fff26b95892268dd26a72b8e0e828c22cf",
+    "0b96413ab0de232fee7b209e711bb53c91be2b5afd0a531657e8c76d3ec988c6",
+    "35b03236c6b97aa98ee8845e4d40a2586d18edfe16d13deab50f9b677cdb9ca5",
+    "2583de4d81e3f910a3f0ebbcd27311ded81d1af7c49e95a06c2bca6fc9873b15",
+    "8836bfb5e19f82af3f3883c40a4f52bff098220696061a75b7dcb81f7ee15dc8",
+    "c96b4717b950fcf5e1d3385339eb6aa34bbe6303e5c3367c92e4d57130cf0c30",
+    "7821d83faefc2705ac1d7f2afeaab80e805f1f43d55bb1bbe7d0160b97d6cb0c",
+    "3bf72af18a7981b818d2e3addf76e2a37f3b6aff653829816e4032b73e23317e",
+    "b501c1be94faa4b6dc4376e67ac4d6a0b1219973ece59e145d03c8226c542496",
+    "1520184db7ceaf7c540e371f208f5a691f6fc712f6c462a1b9b6a912c22c328f",
+    "2a089f160e79d72d18f9295208e894a5aa77754ce1b2f486ea28c5981ba82641",
+    "5b6d0f2188321deac35a3bb20258dd83df0c89104a17ff30de31b010474e5217",
+    "1a8c0ad1f13c5801a118d686d5229e784c01b6eaaf01584fc64b1b7d6c25ed28"
   ],
   "title_hashes": [
-    "2c1be5174e0dfb36dae210910ce3c5df155c256c2ca03151e6c4eaa5cf373ad6",
-    "e0a2fc648d114e6c5e3c8364ce004170afe24b9d9a92d6e9b51e882ce3074a3b",
-    "0797100bf59aac8868b08502e2711adbe6f6d670203d1441273d321de19fce99",
-    "c6176712972022802cdc5c732b45b034f97c6083b896ce5cbf9524a3ac1492c1",
-    "08c11b1189bd2499895ffa90a6229a8dafb808295b612df304291bab093a4b48",
-    "9c11e5527dbae076ef108e9c3661640f036d03982bc29c846127ce8a51a4d648",
-    "278eeec6d42d7ffc452d8e0efe157883b44b7c82e35c326b34aa30b14029c159",
-    "b914b8fc60a10a5d30a3bbdf4a27286b6973c4bb1681ca794afc8cf4eae0814b",
-    "147f8e1c4bda115c70cc5e8eef4f5e0028736be87d8ee474de00dbf537ed9bda",
-    "0ab909354466e7d768aa70b3d4a277af65cfa11d3072407545e14f76471b92db",
-    "e7ae5847c9919d7b45ad294e40c5bc422f6a7797478cecd92a055bbe2ec63752",
-    "1cb5d9cb7082715e3f364bddc84cac48051acc2405bdbc16e8b987203bec4ea1",
     "1dffefc393239eb88b205e149be94d7854c8eb5fca5a0793febed05bbcb68c46",
     "945e235af24a7ab970fd9fcd7cecad6dc0872f8552545dd9771923dcb981ad59",
     "5dab82d006003a1783db537463357cb2ff670fbab03f380f451dc50c570518d2",
@@ -8002,58 +7990,21 @@
     "c03ac477498b31ba858b0665164dac9c8c1b40493152c4f5b75ea2e2e743215f",
     "7b84bf54fe032999c0ce666aeb732825033f02ac696e1c0a84833cf33df8c175",
     "ceaa9f3600111d7e243dcb5992c6cc7251650641c4a93e6efe95c09855c39fc7",
-    "26cf50adb23db721dceee9bc0a9cd89215a576a9e75430a0919697d29f7e095e"
+    "26cf50adb23db721dceee9bc0a9cd89215a576a9e75430a0919697d29f7e095e",
+    "777e92fa2b7c55133490d1d5fcce71483c922352a59af023d79ba75e2fe9fc2b",
+    "481942c926d90506ee0caddf6c507492f04c3ede871c88c45b37aa26bd53a586",
+    "5b1bad4132fd4a17d7fa726ca9f32f93b13be86e589c83d79f9e10fa58e7f94a",
+    "417e0fcf6e3f4cfd63fe9e1de8f6a09896d06069ad6923eca73dff2121d761a4",
+    "48bf44d6f1346b3ee4e963a33b6375b1abd64d9a8d84d744e9dadca2ef3671dc",
+    "e5bf6acf6bafb96db46b613807b78c4bf1984009d057b5efa4c9cb98eb94b4ee",
+    "86669a0a6066c6ff8f26983674d70a298cf08fef8ba3aa9c2b5649cc2f1aed75",
+    "bab97dc2593b5f6e90cca6a95feb19a303b8c1129f37479913aa9c8b8bb874c7",
+    "a261846f87cd5d657c2bbf4d221f0d0778b3e8ba9fd85598e5e91571585486d4",
+    "de18fbc3ee29e2881ec3c476e798cc23070b83c54349cdb6052b56c5f5db9183",
+    "474c75b19c23e5d8245f630b54ff50984ceaf6c8057ab351de8faaae9e2e3a2f",
+    "4e59098cda94dcb38d319cac421f4dd35e93c3da911883745a367c88abda9d65"
   ],
   "recent_sent_articles": [
-    {
-      "source": "SemiEngineering",
-      "title_en": "Reducing High-Bandwidth Flash Latency In GPU Systems (Georgia Tech, Nvidia, Stanford)",
-      "title_ko": "GPU 시스템에서 고대역폭 플래시 지연 시간 줄이기(Georgia Tech, Nvidia, Stanford)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWFBuV2RTa2YyNWM1QzEtalQ4MTFYZDNrX3FMakxBbVNHU0J5RXBickhRdXgxcDV5eUZ4dHg2TzF6dS13czYwczJZNEs0ZFpaZUotWk0zSlhoaDRKSjM5SllGVUFhN0t0dEtrYkRTSVFJRGdsZ1ZObFRCYlRYSmlFSEdreHRfNk9kZGt2Um9aeEJYRk5GSzc1bzRGejRhMGRBTUQ2Z2Nfa1E2VlFYM2JZ?oc=5",
-      "ts": 1794875607
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Jana Partners Cashes Out of One Data Center Stock for Another and Buys Trash Company Stock in Q3",
-      "title_ko": "Jana Partners는 한 데이터 센터 주식을 다른 데이터 센터 주식으로 현금화하고 3분기에 쓰레기 회사 주식을 매입합니다",
-      "url": "https://www.benzinga.com/markets/hedge-funds/26/11/63328473/jana-partners-cashes-out-of-one-data-center-stock-for-another-and-buys-trash-company-stock-in-q3",
-      "ts": 1794875611
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Former BOJ Chief Kuroda Sees Chance of Rate Rising Above Neutral",
-      "title_ko": "구로다 전 BOJ 총재, 금리가 중립 이상으로 오를 가능성 확인",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/former-boj-chief-kuroda-sees-chance-of-rate-rising-above-neutral",
-      "ts": 1794875613
-    },
-    {
-      "source": "서울경제",
-      "title_en": "[속보] 코스피, 6거래일 만에 장중 5000선 내줘",
-      "title_ko": "[속보] 코스피, 6거래일 만에 장중 5000선 내줘",
-      "url": "https://www.sedaily.com/article/20115196",
-      "ts": 1794875618
-    },
-    {
-      "source": "MarketWatch",
-      "title_en": "Do Amazon’s Black Friday deals really save you money? A new report casts doubt.",
-      "title_ko": "Amazon의 Black Friday 거래가 실제로 비용을 절약합니까? 새로운 보고서는 의심을 불러일으킵니다",
-      "url": "https://www.marketwatch.com/bulletins/redirect/go?g=8237af19-479d-4d7a-9559-23dedc0759f6&mod=mw_rss_bulletins",
-      "ts": 1794875620
-    },
-    {
-      "source": "CNBC",
-      "title_en": "Stock futures are little changed after Nvidia pressures tech to start the week: Live updates",
-      "title_ko": "Nvidia가 기술에 일주일을 시작하도록 압력을 가한 후 주식 선물은 거의 변하지 않았습니다. 라이브 업데이트",
-      "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
-      "ts": 1794875623
-    },
-    {
-      "source": "The Verge",
-      "title_en": "Gemini Notebook can now generate interactive sites using your notebook sources.",
-      "title_ko": "이제 Gemini Notebook은 노트북 소스를 사용하여 대화형 사이트를 생성할 수 있어",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1035096/gemini-notebook-can-now-generate-interactive-sites-using-your-notebook-sources",
-      "ts": 1794875661
-    },
     {
       "source": "9to5Mac",
       "title_en": "November 16, 2026 – Apple glasses rumors, more",
@@ -11504,6 +11455,55 @@
       "title_ko": "Changxin Technology: 글로벌 DRAM 제품 공급 부족이 첫 3분기 동안 계속됨",
       "url": "https://wallstreetcn.com/livenews/3201246",
       "ts": 1794911667
+    },
+    {
+      "source": "FT",
+      "title_en": "Nvidia creates committee to oversee compliance with US chip export controls",
+      "title_ko": "Nvidia, 미국 칩 수출 통제 준수를 감독하기 위한 위원회 설립",
+      "url": "https://www.ft.com/content/aeacbf89-5511-4d1c-81c2-b4c227bdfceb?syn-25a6b1a6=1",
+      "ts": 1794911697
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "斯莱克：控股子公司分宜和骏与宁德时代签署《厂边厂配套供应协议》，宁德时代指定其在江苏苏州、福建泉州投资生产并供应电池壳体等配套产品，协议有效期至2028年12月31日。",
+      "title_ko": "스락(SLAC), 닝덕스바오(CATL)와 배터리 케이스 등 부품 공급 계약 체결... 2028년 말까지",
+      "url": "https://wallstreetcn.com/livenews/3201240",
+      "ts": 1794911758
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Trump Backs Howard Lutnick Amid Nvidia Row, Says Restrictions Could Have Triggered China Showdown: ‘I Und",
+      "title_ko": "트럼프, 엔비디아 갈등 속 하워드 루트닉 지지…\"대중국 규제, 충돌 부를 수도\"",
+      "url": "https://www.benzinga.com/news/politics/26/11/63332193/trump-backs-howard-lutnick-amid-nvidia-row-says-restrictions-could-have-triggered-china-showdown-i-understand-both-sides-of-it?utm_source=googlefinance",
+      "ts": 1794911826
+    },
+    {
+      "source": "매일경제",
+      "title_en": "李대통령, 취임 후 처음으로 푸틴 만나나",
+      "title_ko": "李대통령, 취임 후 처음으로 푸틴 만나나",
+      "url": "https://www.mk.co.kr/article/12211576",
+      "ts": 1794911832
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trump Arrives in Manila as Three-Day Asia Trip Begins",
+      "title_ko": "트럼프, 3일간의 아시아 순방차 마닐라 도착",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-17/trump-arrives-in-manila-as-three-day-asia-trip-begins-video",
+      "ts": 1794911834
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Yorkville Ives Reiterates Outperform Rating on NVIDIA (NVDA)",
+      "title_ko": "요크빌 아이브스, 엔비디아(NVDA)에 대해 매수(Outperform) 의견 유지",
+      "url": "https://www.streetinsider.com/AI/Yorkville+Ives+Reiterates+Outperform+Rating+on+NVIDIA+%28NVDA%29/27358592.html",
+      "ts": 1794911836
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "法国国债延续涨势，10年期收益率跌7个基点至4.90%。",
+      "title_ko": "프랑스 국채 강세 지속… 10년물 금리 7bp 하락한 4.90% 기록",
+      "url": "https://wallstreetcn.com/livenews/3201249",
+      "ts": 1794911839
     }
   ]
 }
