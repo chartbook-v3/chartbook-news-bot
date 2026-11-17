@@ -1,26 +1,6 @@
 {
-  "updated_at": 1794949794,
+  "updated_at": 1794949958,
   "id_hashes": [
-    "79306073e35aaa1db38a136af378446158fd1fb38df2ec91a475d4540ea5315b",
-    "f1620a90834bab31a0213156fb32f662471b71a6800ab55635315788cd3c3afa",
-    "d602584018329263331478890945c16851caf02a9d0c7e36e042714934bc54a2",
-    "10ea597fb6bc8d34b37d78440b3050e37f32f1bcb7db7584c7031722b09df15a",
-    "3110fa1cc0fb956c941084ca7f056a0b8753cd5d17b591f6bd42efbef317149c",
-    "50e2792384b61212c4c2870ce0c5a6b3ef6a67b2225be06803c45888aa71710d",
-    "4d4c220f1f531ce2d8658be24eb6582a03c6585ff483f392d0b12ad8ced6728e",
-    "35e419255d85b6086c1dc986bec1e5ca996a2c248cb69c9675893e9941ef09be",
-    "37347bc20b1c898636095d4dbb193acdacf5395e4b77b7da51c2667bd1a503d3",
-    "5a639c7a11d5c3ebcfbb7bc53223cb49bb8d33f5ff4c7bcc419dd4c61aa1c28b",
-    "26a0684ee33fe974e71415153a64e03f315c8b991bc2ba7e76de4b102d75828c",
-    "ee5b619b0148435d542b35620d7b4993a83cfcb858137e56a7a1963f7f77bb2b",
-    "db37ac8667cd0d3b5b9c62ea978d17278a178816ae5d863eb24635e704d75a5e",
-    "ad552fc827da37004e7ab1e7c0c8915d9cef40c59f3bc43b68615e31bb9b881c",
-    "52f74bdc794d2ee53a6f404a4f83716e808b8a51beb22147a9ea2a451ad6f498",
-    "42a5c999c3676fdcdbbc218192f83c5ec2f3534d242d54f98219f1279d60c5c8",
-    "2bafd1cdeae715478fdf18af4225f734a1def7ac0ca4bedaa1e3dde3b8990001",
-    "291ce2b710cfb2f3a809471e992d44b34bdc5ebfaa3bd498d2d13bca3c7ebf94",
-    "53c96a75757d45fe7b55947309097074edb8dcdc5a8263b1caa5e2948bf98f8e",
-    "ea9b1634d36d00c6f99b46b1d239f0262e64f698033fd1bcd7b687ad37cfff14",
     "87f4cba62d94c927f5f54512a38a960fb6fb69ed5bbfdb100ef9e8d3974489aa",
     "d5a171da1aecda46a324c0a798a977b3deb3156c766f9322cc931c6a07525f68",
     "7bb1e07ce94e6c9bcd34dde33f703ed3e689b4c53a813a0bebe4f1c2ca0e6661",
@@ -4000,25 +3980,29 @@
     "863dfd836bd0edd9cc0f724a487a5ad07766ebdfde50c2ad37d01fe727736afe",
     "8914bc0089011a32916cd19e29e2c66c9d9ae1697b4f537382ae15e0de576b3a",
     "662fd8b3d547fa1c251ed5181312e8bdc531f151acaff85c1f7b70e16b0371b7",
-    "8d09dde5f7438efe593aa0f7cd97bf8b60e71664b3848ba76288be62ca79368d"
+    "8d09dde5f7438efe593aa0f7cd97bf8b60e71664b3848ba76288be62ca79368d",
+    "5a4132d1af0b141cac8aaf554015b9c80ba3f059225e35e291c997c8430aeb0e",
+    "171a5e10be4d64b6fac09fef03edae50372f524dd053c9184e30f25372da8624",
+    "c67e7514beba4c8cce184700eab35af3c545b177f9e9a262853e71c153ce10c1",
+    "882638ca1c66458cdfb789b04288bf79a00602febb647de8668a49c8ade5d3fb",
+    "1c2c06cbe8c685f2dafe050b17d2d8d5eeb4d4f8ec51ae39f9d15de39bd38e4a",
+    "0523e0d1e9cd57334c954061c82376279e5be38b78653a657e13ec889f0f8736",
+    "48f316493197f1fb0ed76b23334bfce081fb1036e4da22f3d0de25d712cd7d43",
+    "66e2906384346a7b9e73a84b37e32bb9f67344a4b88596de47b17b9071625a0c",
+    "e7faebe8a54f73fac3abae384a86342fe577d42436d48811704eedbda6250e3b",
+    "fb1ed6b5db92d9c932c67f8fd8f8f32f7739a6aa61933da3c9a108d6a22a9914",
+    "51d1d09c72015bc30542f60328626cccea94d583080f809be4cf3b2d38d54986",
+    "458ed8ea467e817c225043808adef7457fa988fb7cbaa981e1b26f604876f64e",
+    "1ffea16b60ef8c216b85ac85d15bbbaf6a34ff5b7edd00b944da1ff52a7a6117",
+    "1fc6f5431e1c21a0e568f04926354e34db755643da06b78969d1ab25415731e0",
+    "1b819c212534d5d6ab65c9a2110703ffde1ed3655ebaee5e7f7e30a1cd92c7aa",
+    "9c421f52bce5b97df4ebd784e7504c761394513e3c97e48f0b9b4abaf76020b0",
+    "6717df609a508ef878132d1697281e6fd8671411f8662062084fbaef98b9ffd5",
+    "649f4d822b3061d9fdac0d9f97c0e2cf0fb389bead9f0d56c0801a351927e731",
+    "98a2cd0f81d70f3af179ef32196fb1da4c8800d9c4af68ecf3f07bb2e64d4482",
+    "b5cc459aab761b79e0951f9f92b359816a263783195eb08772cf420c4cbb4d20"
   ],
   "title_hashes": [
-    "ed6e2b20a9a98c2c72ffa3e0141f2cda799ade8a614d8549ab075309dbe56b54",
-    "bf4688fdf7cbaa07e387a069260dc9ffc823ff986cbb748d2448e6796dce4c78",
-    "274425d425ab14e99467e6165f83b8810f044f18094a55e03574338019af8df4",
-    "d4f218fc93b9b492c474cbe79321e460c4c869205838da0bd9fae52e2eeee8a0",
-    "a1e54f5dfd9e38568f28c1858e68b718b13ac21ed2b1bac1440931469e780d83",
-    "5aa1f98565ed5c141e1496eeedab101ad0deb526fdf95df5b6f06006593ef8ac",
-    "cb2f648a68187ad4a7061861ea8ad55a08c529d3776ec4298ff6814caefcd7ef",
-    "d7b33e4f2319ba236c1972c6a58e1efb7e5ffbab5213048b571014e53b2e4d2f",
-    "eb42c8fd9d65242c85b39ef619d3edf96ae0f9768f08468d98895023ed03bc43",
-    "f49b69776b3f839b1e31c3a658bcd8cd7168bf8efb2199842409964a8a596136",
-    "925d4acd3fa2e41858c55a8dc21fa1f8ee2caa5c2483a65ca0182e15190ab9bd",
-    "d255d4571a696d481881b9f836290921d25bf7f1c0616357908ad29b2b08e1e8",
-    "c73e9f280e7872f3ca41026251eb3c7aa96f270a3d7684338d6c3db76bf1a7be",
-    "3f97e5d3e9f5eabae732472eba2380c203141cd6727f2b4503222e10e0b71e11",
-    "264cfb820428a2a8cfd46e5662595777c0c044ada2dc96e8380132e1b5fa7ccb",
-    "274ec6f3851218553e72d084c0ca1d06ee4cde77a0288aa0739d698e91e62ad5",
     "a2a6abd4bd5e784fa4a5a0e022edb4fd149bbf6b1b627515e57192f6acddc08a",
     "42527aec9b1e63c03ab8ce47414f8ad28942c7830f4202fde6b5e8f1a0d9cc52",
     "f6ac77dc9172217a84f688163da0f942999a9ed79ab49c99968ccedc5d3f698e",
@@ -8002,58 +7986,25 @@
     "444ce95fd6deda3e82597d168ad3d555367bb6f412097888a83ed917bd4c1577",
     "ff121c7be1cddcbe128124ef4c7ca0a3a66b7829e709000312aa1194896fb2b6",
     "57343b1bcb35bb1741c1441920eb2a11ef718198b04750e73891b4da230a0ce1",
-    "0468e5c5f1b79f075f97e5f09c386dde483456828dbd06ee232db2f3ea2d30c5"
+    "0468e5c5f1b79f075f97e5f09c386dde483456828dbd06ee232db2f3ea2d30c5",
+    "c81a6b7ce4a4ef7c6db9077e1572a919054484560b21c59c86965659c6ac9e7d",
+    "12c3bd03236e2da8aabed7f90b0c4fa19074b82c9d9f840e31373b9d0d96ad67",
+    "0c136d852cf70e661d65e621817edda523e9d4e130b94b716fb3bceb5f2c1eac",
+    "bca67d8e49e85730f573e669016af03a0828475a8806a83c7464ec443ac91c27",
+    "4a907abd1747bfe38d5757d45550b89a7e23573254e205470c6896bd4045c2ed",
+    "a5352890080a77e08aca6fee732adaef25e594a5e3656c78401ffd70687160ea",
+    "ba16787da38852cb8011de5d7d3baee658ee39cb6de3f1c034e138304816a507",
+    "c1c34b37914a17246ddac5ab1657a593d0b25c331a045d12dfeedfbd373de3cf",
+    "915d1d3e3168c4b99fb361d6fc6ea97fe5573491642796c563200df615d15bf6",
+    "79e396f4c06c8944ab0850f76ca31cdcd575f6ad43bd3a88d3c685d0ab94a023",
+    "08735bd037fc9cdd45da0f6e906d3900a4358c86ec28ea603f47f863be20967a",
+    "3084e07d76989f0f9e5e7f56ee31aedbf6c038806bd3e51d4f8728a8ab407472",
+    "b6f0c8b01d3e169e1d5815cd6e5b995640f6a8e2aab530a98139700647ee6149",
+    "dfb6f36dafacf64920108a2d049d3e45f1466a401322b89ed04891434cb42311",
+    "5f4635c5efd608e0297aa0d9dbb20d6dfbf185a4d568f75236c98763285176a2",
+    "febf8c27a6187b754283bd516f46521f8700edbdcc7e5c6fb052f400ac03f917"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Deutsche Bank expects limited to no financial consequences from legacy cases, citing their historical nature",
-      "title_ko": "도이체방크, 과거 소송 건들의 역사적 성격 감안 시 재무적 영향 제한적 또는 없을 것으로 전망",
-      "url": "https://t.me/firstsquaw/193425",
-      "ts": 1794896701
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Deutsche Bank highlights significant organisational changes achieved under Christian Sewing's leadership",
-      "title_ko": "도이체방크, 크리스티안 제잉 CEO 리더십 하의 주요 조직 개편 성과 강조",
-      "url": "https://t.me/firstsquaw/193426",
-      "ts": 1794896760
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "YHN ACQ I LIMITED UTS by YHN Acquisition I Limited Market Sentiment",
-      "title_ko": "YHN 액퀴지션 I, 시장 심리에 따라 유닛(UTS) 거래 개시",
-      "url": "https://www.benzinga.com/quote/YHNUF/sentiment",
-      "ts": 1794896827
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Deutsche Bank says it conducted reviews of these issues when they arose and maintained close coordination with regulators",
-      "title_ko": "도이체방크, 해당 현안 발생 당시 자체 점검 실시 및 규제 당국과 긴밀히 공조했다고 밝혀",
-      "url": "https://t.me/firstsquaw/193427",
-      "ts": 1794896912
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Asian markets slide as tech stocks tumble on US-China tensions, caution ahead of Nvidia earnings",
-      "title_ko": "미중 갈등 속 기술주 급락 및 엔비디아 실적 경계감에 아시아 증시 하락세",
-      "url": "https://seekingalpha.com/news/4673438-asian-markets-slide-as-tech-stocks-tumble-on-us-china-tensions-caution-ahead-of-nvidia-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794896978
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "William O’Neil给予中国广核A股买进的初始评级。",
-      "title_ko": "윌리엄 오닐, 중국광핵 A주 매수 투자의견 제시",
-      "url": "https://wallstreetcn.com/livenews/3201057",
-      "ts": 1794896981
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Finnish Iceye Oy launches bid for Italian rocket maker Avio",
-      "title_ko": "핀란드 아이사이(Iceye), 이탈리아 로켓 제조사 아비오(Avio) 인수전 참전",
-      "url": "https://www.reuters.com/business/aerospace-defense/finnish-iceye-oy-launches-bid-italian-rocket-maker-avio-2026-11-17/",
-      "ts": 1794897002
-    },
     {
       "source": "Benzinga",
       "title_en": "US National Debt Interest Has Quadrupled as Share of Outlays - iShares 20+ Year Treasury Bond ETF (NASDAQ",
@@ -11504,6 +11455,55 @@
       "title_ko": "Google: iOS에서는 탭하여 결제 기능이 지원되지 않습니다. $GOGL 애플",
       "url": "https://www.financialjuice.com/News/9856513/Google-Tap-to-pay-functionality-isnt-supported-on-iOS-GOOGL-AAPL.aspx?xy=rss",
       "ts": 1794949793
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "IRIDEX GAAP EPS of -$0.08 misses by $0.04, revenue of $10.2M misses by $2.44M",
+      "title_ko": "IRIDEX GAAP EPS -$0.08은 $0.04 손실, 수익 $10.2M는 $2.44M 손실",
+      "url": "https://seekingalpha.com/news/4673902-iridex-gaap-eps-of-0_08-misses-by-0_04-revenue-of-10_2m-misses-by-2_44m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794949812
+    },
+    {
+      "source": "MarketWatch",
+      "title_en": "Dow closes 850 points down, tech stocks keep falling ahead of Nvidia’s results",
+      "title_ko": "다우, 850포인트 폭락 마감… 엔비디아 실적 앞두고 기술주 약세 지속",
+      "url": "https://www.marketwatch.com/bulletins/redirect/go?g=4eb007bb-f312-47a9-b4f2-6537100fed1c&mod=mw_rss_bulletins",
+      "ts": 1794949815
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "UPS TO ACQUIRE SMARTWAYS LOGISTICS; DEAL EXPECTED TO CLOSE IN H1 2027, FINANCIAL TERMS UNDISCLOSED – SOURCES",
+      "title_ko": "UPS는 SMARTWAYS 물류를 인수합니다. 2027년 상반기에 거래가 종료될 것으로 예상되며 재정 조건은 공개되지 않음 - 출처",
+      "url": "https://t.me/firstsquaw/193607",
+      "ts": 1794949818
+    },
+    {
+      "source": "이데일리",
+      "title_en": "[속보]엔비디아 실적 앞두고 美증시 매도 확산…다우 1.6%↓",
+      "title_ko": "[속보]엔비디아 실적 앞두고 美증시 매도 확산…다우 1.6%↓",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01387446645647032&mediaCodeNo=257",
+      "ts": 1794949944
+    },
+    {
+      "source": "매일경제",
+      "title_en": "고럽 캐피탈 BDC, 4분기 GAAP EPS 0.08달러..전년비 78% 감소",
+      "title_ko": "고럽 캐피탈 BDC, 4분기 GAAP EPS 0.08달러..전년비 78% 감소",
+      "url": "https://stock.mk.co.kr/news/view/1201100",
+      "ts": 1794949951
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Treasury Buyback Operation Nets Smallest Amount Since Expansion",
+      "title_ko": "국채 환매 작업으로 확장 이후 최소 금액 달성",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/treasury-buyback-operation-nets-smallest-amount-since-expansion",
+      "ts": 1794949953
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "NORTH KOREAN POLITBURO MEMBER JO MEETS PUTIN – KCNA",
+      "title_ko": "조 위원장, 푸틴 회담 – KCNA",
+      "url": "https://t.me/firstsquaw/193608",
+      "ts": 1794949957
     }
   ]
 }
