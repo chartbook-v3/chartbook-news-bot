@@ -1,11 +1,6 @@
 {
-  "updated_at": 1794900935,
+  "updated_at": 1794901102,
   "id_hashes": [
-    "93d78d8a5c91e3d157559425c9f1f20775cadb56b996aa6ff9a8f4605a2b0475",
-    "3ad79a4e33f33e9543748fdc655d03bbce7e52ac4c25589ebcc5e59f77bf22b7",
-    "d11471030957fd6f6bfce83985a8add5d3754f1731600c972bc7ed8cc2d93b81",
-    "c2340913062e61005032e3898315341ee36da8c38a1c89b94d1813450a29542c",
-    "2abd4ce3322ee762e7ecbca21f964963551d3400599e115558f1da9728b30991",
     "3666acd2e167e8d6edc7ec1009d041b981b2ee54ed7acc2182b52743d1112410",
     "e5742bcc100fa2b7684ef9edcb9f6eb096e1bcc21023f4bb8714989971af46dd",
     "e2f5fa49680925809533908bedf972db9e6bd15f7d0d67de1f5d2d67cef7d77c",
@@ -4000,12 +3995,14 @@
     "c8d5e654182080908ff3b403265571b7e7da874f9013af1af24d97b789e8b89c",
     "8e07464fdea9d7e3bc984c9fd451d6b1a53194854d96f630694cdb12ab484129",
     "a9c4863e93612904fc7a7bfb877ccc157b81d211cc7b5e285ac145a9e654c129",
-    "9fc772a84eb81e4363aee432d9df3bdbd8f6b33e84812dd1de59b4ae36ad35e7"
+    "9fc772a84eb81e4363aee432d9df3bdbd8f6b33e84812dd1de59b4ae36ad35e7",
+    "6e3fdf91b17028417fa7216d84935be9a8102d2e48197645597f806b3c1a5cb3",
+    "2236dc2b3e96d657e58fe5dc64e9c97d07cdf5e9398bc02ac69886847613ac4d",
+    "6cebf200e76cf5c1c154c74e2e000e8d30c19b049f75df509379abac28ce19a8",
+    "22f329956ba88e868fc213ddb20570a99eec6e85bcde240f8c1e457e0c83153e",
+    "a0c4407c3905caf896f17fe9d7894f8b1102bf55defdf1d3d69142cadd385096"
   ],
   "title_hashes": [
-    "62d6297eeadd995c3f3c3ac2c7e5880c6b3a2e84081e5f87f5abbd2d5ad59757",
-    "be83e204f87afb45cdb26f4fe786e0ab93dbbcb54c00f23909a34a2c6c1e1437",
-    "9905120705d811eda550cfe84602f050cbf3bf1210aca396ac3ca9902a5b040b",
     "1a5ef4311c33d7ddd7292e1eb7cd1252a662454b71aa648f6d5edaf5b037a212",
     "db4213d594fa2cf3df494d7dbc2967b53a90fba6a051770636f43062824e7f29",
     "ca0d96e38dbfe05003d833c733e8696feac34085e5f0832b1bf48819f5eee617",
@@ -8002,16 +7999,12 @@
     "508c67974f2290b1c01cd3a43645fd0fc119a699884cc9e55af9faea01adb4a8",
     "d18290d8f238cb5797a1a84819fb5ce043ccff6fac4502901f4a28fc5af5f2e0",
     "18d540d52771ac37340aebccb9da137076a18cab41328947755c8c164473aba7",
-    "a9ceaa568bba0ef8ce7281d313c90575ce938a41c25a10969eb9ebb50e6177d3"
+    "a9ceaa568bba0ef8ce7281d313c90575ce938a41c25a10969eb9ebb50e6177d3",
+    "890ea10b58e576d1470dc17c751ef08ee7ad5ad09da7810e7ef5776542678158",
+    "bd7025d3048268d784431dc1284442eef5e063abe672d516bd988d8466b88d42",
+    "f3e038d3119060570275cefeca2a2ce4b76dbc9948baf0201a3b374865000a86"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Reuters",
-      "title_en": "Italian banks get interest rate boon alongside M&A, fee boost",
-      "title_ko": "이탈리아 은행, M&A, 수수료 인상과 함께 이자율 혜택도 누리다",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWmhSU1pYY3ZXSjdZNWRWTmxvNjVDVGU2ajJZb2NFblU4Zkw1MHNxa2lhZ1NjMjh4RWZDZlBxSkVTVTc1MDQwOWdraE9ZWGFSZ3F2YnhIeU5oODlRUlJYNC1XMlZRc0VrblBSd19EaWloTDJoUXhfcVlEN3U2bnlWMzBaR052WTZWcDVzelRVQjBQT3FUNjRCdXc0eHhQMEwtUmxSQXJ2bElpTHl3cUlLUV9B?oc=5",
-      "ts": 1794859606
-    },
     {
       "source": "Bloomberg",
       "title_en": "Putin-Xi Meeting Unlikely to Bring Substantive Results for Trump, Says Jane Harman",
@@ -11504,6 +11497,13 @@
       "title_ko": "NATO, 더 넓은 우주 접근을 위해 상업용 로켓으로 전환",
       "url": "https://www.bloomberg.com/news/articles/2026-11-17/nato-turns-to-commercial-rockets-for-greater-space-access",
       "ts": 1794900784
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "PISTORIUS SAYS GERMANY AND NORWAY WILL SPONSOR ANOTHER PURL PACKAGE TO FINANCE US WEAPONS TO BE SUPPLIED TO UKRAINE WHICH WILL FOCUS ON AIR DEFENCES.",
+      "title_ko": "피스토리우스는 독일과 노르웨이가 방공에 초점을 맞춘 우크라이나에 공급될 미국의 무기 자금을 조달하기 위해 또 다른 PURL 패키지를 후원할 것이라고 전해",
+      "url": "https://t.me/firstsquaw/193437",
+      "ts": 1794901100
     }
   ]
 }
