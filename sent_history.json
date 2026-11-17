@@ -1,28 +1,6 @@
 {
-  "updated_at": 1794953599,
+  "updated_at": 1794953760,
   "id_hashes": [
-    "6f5155292ece99fd6c4060d33a0c65d0b928b0a551c81dd49a9d54f234c9f0fd",
-    "daf26bbe3eb6716ec0ea63848839cbf7eadfb5479d4ef6029e22f998f846fdd4",
-    "e4ef24c090494dcc743c0d0dc61430ae1faa90b3e5a838ab9d33a9dc3606daa0",
-    "38963e32051a1fdbed450684270117e1882990210c9f9c4cb6dc6f69442c6dc9",
-    "28882b1ebbc4f58a5f9487781ccb012a883a6f665b3198c05ebe9865af7b3abd",
-    "902f64424b7d661c3bf63503ba82859cb6175fccc8dbdca566011f22d69cdaea",
-    "14e22bbcb7a76ab27ee5101b2cd02c65d90a8ccb681c6255f79098c5cff09d4a",
-    "01d8ec44fb0d64532b847793a33cc599f1d593583f12c6b6b2a0b631484aee64",
-    "4535d00a905b24db9818897b65eb54a4925f74a6f9d73c53933d5c80843b9f2c",
-    "ff41a0266c980df6611a36754d83b75ec23d08bd93bbea4d6d54d20d777f500e",
-    "c5f8f67a3663ee597e77e6e905ece2ef70b8da2fd83a0384cfbfdd89a5d491db",
-    "ce112cad430840d7221b1927e5c6da70900f73ed12206ecf5023c5e5d633f89d",
-    "ae86cfcdab150547f025a0ae987cecefe286e45eb8269a3d0eb743a8b5547c16",
-    "9094926dca6df5bc81b8601fcf4a9ebe05de7c195ec46da88e7cf542a6e2c47c",
-    "48199b8c297542eea7aecb2216237580c61f7c1e4d20b1b4bb1dfb7c44b40343",
-    "161093713adc1ddbd94d754edd74bee2c7147215e233223eb80cb9c4bead096d",
-    "2a2fc004fb341688f92fcecb5225dea0c84df978936dc7b27de29b12216fc1fb",
-    "e294c5c4ae5dbb4f03350a914bed4a0d61a6f6163a5f2ecd501206007d47bb38",
-    "cda1a79509834d2fa361cba7e698b8ab6edd90f3a4b238c210d9601ce47e56f8",
-    "7ad4cfca4392baa01bc77984938c7a48735dbc0f97d7659e381ac33ec4dbf222",
-    "ee9e7c9f7e3fdb46526c664da61419b41a321dbb4a32b0245b7bacfa4ac93799",
-    "c2a3d74aceaf2105ec598acc5bf6b276a84314ae7aa12f0c9c2ea981f17841f8",
     "b33ba643d5a0798e8be6534dc7e04f8e7ddcfbbbb764f1490a3e9d1f583722bd",
     "ea82368c9f763e02040a1f4986ec32590ee953cfc575f61c46af18671e523812",
     "9e19fc7ac4adf5ce17b02b28089b645caa78e8a45a7f9989caf246d2b4d645ec",
@@ -4000,26 +3978,31 @@
     "9ee9de28e55870b0dd6f843838a69302ad050b92e5d7e69aa46b81a2cb625eaf",
     "6e8a77e5ce92788c9a4e885f6c67704819a955d2d3c3b46b3940a75546920cab",
     "89018cc6bc01c8e90c5d38dbff37cf1977204a715326d895624e6821bab669c3",
-    "e4240b24d254f3753810ca7b62c7bd08a06e10a299d10411501d9ee9f0ed8aa7"
+    "e4240b24d254f3753810ca7b62c7bd08a06e10a299d10411501d9ee9f0ed8aa7",
+    "6b461344b3e2f171e3013c0429aa6b5d2d01c96f5d351e0fc3e406686508e619",
+    "8bf9eb7479e98f7d4c428a021dbad88664df3cffaf2d0adc055145b6c43ea80b",
+    "220eb2e68e0a8e3c7460b987fd66afa7c6f42495c87b8b6427713a49aa66d4ba",
+    "2a3d608479603f8e2748dc5d264acce012e19b1ad52ac71bf735b4d310dbd581",
+    "5ef82e457cca8d73b6770abc4c1df760646424294825734dceaa7ed05116923e",
+    "8a0b533d9bdf21cb54d4907b92f67a69d3c86d625d1b9cd7a367455d66bfd8bd",
+    "4b5a9a2375559865947d05f06a1a6ab75108547d03e7b2d13771c4aacc37bc08",
+    "17380314b3d4b369651df64ee76c3b478869d3abb0c1fe8bce62634efe3e8ac9",
+    "33d59d3ea58b8dbc879c96bcf707c4f02011e63f855db70a16aca5cc64934d73",
+    "007b9604181d42051534ba8b9d81f06d25965e5db90e35b64590425271f232d4",
+    "3f0d74a14fca9bf5b8b30c534ab1d691c5bc0dc660e438ccaa10b525cd51e2fe",
+    "b8d9a0e63c14432ebdc64375f5220137f4268c75825b64add477c872c3c24eda",
+    "2ee226389e70062a8b4bfaeb668f2cd4b0025e5cb257eedebc06cabd58352446",
+    "e8cd9a66779b24f833e1da5ee0d9e55192fc710b3aea7e0f065ded1da307b6da",
+    "e91373896c516a3b7cba3c953d859dd7c3295d0e6c5aca3939038508c8e30686",
+    "909a83f5025b3197c000494fc28e62720a43f5c625957886a710e11af195cdf2",
+    "d2d4dfb2f7e2527e9bef1ddfaab987ddd382237daab8e053ac7411ba702414e0",
+    "8cdec445b2f1c0aba819ae09c96ba65d495854252acffdc8fdfcc34dee00ff8f",
+    "e4fc530b8a378da74a089fc086b54fb9fb572499ddaa0b19ce87b0f8d9af47a8",
+    "475a6960cf404a6de3fe2b776cc3089e4d54f7a348708a6e023aff298c14af2b",
+    "8dad2be69b2f2d34963abd1c3e961f594e4ed1dbccfac57ad5aa900d100d7cd6",
+    "47d8c11f22e26e247b153c7255a8096926ea603f69ab9e79d65025c405d3f8e8"
   ],
   "title_hashes": [
-    "65e3aaed0b364f29d20fc647b880f1b385194c9ed576203b9d64735de122ed89",
-    "fe68c4dcc8b5f14495073a87256de5761ba3cfe63268486ceff70a964e4aa59f",
-    "bfee0f33998e9f8e732748b1891d896ae6ef46334df712ec498f6d0239bd1aee",
-    "eca6ce6e19e0d30f83f8f69665f10b2b29e56fed1ec566a7a626aed3471c78e5",
-    "f850620c308c80f14f619d136292cc2fded1d8d54babbace71f895cd02451cb1",
-    "d14e3dd525790dc2b3e8b356e35b120419f3a0ee926bcdd250c5d444e6e8f7bb",
-    "108eba205aeff2558a50ec8d2ef63d26f7efe4e52848db8816882838a1df0496",
-    "9f2abc732d233a6cb77926fb68a09d3cafeaa934337095f78bbc39c46b0cffef",
-    "408b6948afe31bae3486bc30f86fac4b2473c838c7d26317618a4f3e95b5acb9",
-    "876964bbe3cbb6c0792b3234a1053822b5f0d3f334044ffbe339ea7049e58c18",
-    "0fb82b0e5244a99dac7377e47c63dd9d74548d46adf9236e30336e30d4c1d375",
-    "7e9b13c98747f997c12f8e024be70af548abe8b04c8bef29deee6b9ca1cef3bf",
-    "22a8ad6f9a7653b6661166ae47946bd2bd07e22a0eeccb30eb9806bf251902a4",
-    "22871e7cc8ebee6902ee5a1685b26fbd8c414d3fedb8fcd004c3fddd224c06aa",
-    "457403f52a5aae548c7c813679f9ac130aa1b8097f588eba53ff04a40afaa4f1",
-    "619ca0ef530b393ad3211c35930e9a5c591363bdc65dd9c869d5f6db297cca55",
-    "eea59b5143bf98f43ae22e5866025a20da5d35c2f9bbccf7876aa2c2babf0951",
     "6b74666cd5482c609b9426ab3ce71d08ad77217b8d32f3a610d6fce057ec2f27",
     "c9a1fdbd9ef76d0d03c5ee3bcc5172c954584e78a8a1dd719de14149e9385a20",
     "3bda1769461246a11c97685096ab50487b72134f450790c3b8ca9726bb47900e",
@@ -8002,58 +7985,26 @@
     "eb7ac328ce47ae87984980107088939e17977bf0117e44d70d10165daed8e168",
     "7b33381802e4c33a62f8bf9af1024a7c42e123cf8fc497318488cccb3f6b8c2a",
     "e605071e18c8b5901d127b10129ebeda43971426fbdb871fdf57425c6b7eee9a",
-    "b724c92e99cdec213f75106e7294ad245d367adf317acb02b124abfb2ab446b6"
+    "b724c92e99cdec213f75106e7294ad245d367adf317acb02b124abfb2ab446b6",
+    "cb3919ecf9861d6203abc0a0c7789362329dc161c09bcee62277391706b02f33",
+    "321d887c249d56bdbd6cf93307492504bc1c952afde2502cc96962780da87a8b",
+    "640a50a8cd560468bc4f53d0eb406c66e84b366e2a90ef952e4b0369547b2420",
+    "43b8e3dd9945b67a8486c205f6c6d6f5fb01e8a381f6a1e7cb54d3f8fd029566",
+    "43db05575fe3e41478cdb251aa26c2117210065cdcde5bfa51d3659023fd3b12",
+    "daef9046624d5f583ea4f8588f1b4f40bf8c4c524f588b99b24269ae2da9b198",
+    "9207a8a53cd2af681a9b015dce5fd694cd87378442324ec2773a43d5b7712b22",
+    "7e8edf875741b2d49c926e4f03e008d7442196d4f45bfec427672713825b1b3b",
+    "33316f0c98d86d2e0027d11ff769993303748c2da686c0f18225afc52fbcd510",
+    "e8a44915eea08646728be57aa307d4fcabfe4d198b42c51ea0537e6d0b2f695e",
+    "9a441a9490f1798dcbc6480680b10522ee0db082dab2e19d2a7843751bfa13c4",
+    "065f37be995877f601ab3d878043ac24fc39f5085810c6be6f1d36704bb507a4",
+    "21bec128b0d5babafa931fd2ccac012543d94856a428da9c588b76320d259ad2",
+    "04ce3b2313be4635f1ccd7dd9531f94af0a5ad4a538547fe728c4fb23b1945c5",
+    "ab5581112ce6fb2d5b4acb5d4630fcaf639217ab86c6ad5aae40557146001ecc",
+    "d938c8b14caa2da850cb9c0a0acabb58bbf3c683dfa4cffa2f197c64004ca12f",
+    "ef511912d06980c6b2c6ebea1ba7abd241524c6e37f30963d80cdd26db62c2e2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "TrendForce",
-      "title_en": "Enterprise SSD Cuts Pull NAND Price Drop to 2Q27",
-      "title_ko": "Enterprise SSD, NAND 가격 인하를 2Q27로 인하",
-      "url": "https://www.trendforce.com/research/download/RP261116WI",
-      "ts": 1794909149
-    },
-    {
-      "source": "서울경제",
-      "title_en": "고금리·젠슨황·앤트로픽 3중 악재…유가·코인·金까지 ‘에브리싱 폴링’",
-      "title_ko": "고금리·젠슨황·앤트로픽 3중 악재…유가·코인·金까지 ‘에브리싱 폴링’",
-      "url": "https://www.sedaily.com/article/20115607",
-      "ts": 1794909152
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Jensen Huang Ran Nvidia Like a 'Family Business' — Where Daughter Madison and Son-In-Law Held Growing Pow",
-      "title_ko": "젠슨 황, 딸과 사위까지 요직에 앉히며 엔비디아를 '가족 기업'처럼 운영",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63331377/jensen-huang-ran-nvidia-like-a-family-business-where-daughter-madison-and-son-in-law-held-growing-power-amid-workplace-complaints-report",
-      "ts": 1794909156
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "DOJ set to review DoorDash-Instacart deal - report",
-      "title_ko": "미 법무부, 도어내시-인스타카트 인수합병 심사 착수설",
-      "url": "https://seekingalpha.com/news/4673464-doj-to-review-doordash-instacart-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794909159
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "UK LABOUR PRODUCTIVITY Q3 2026 – FULL REPORT",
-      "title_ko": "영국 3분기 노동생산성 지표 전면 공개",
-      "url": "https://t.me/marketfeed/1079423",
-      "ts": 1794909163
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Europe Sentiment: Big Day For Earnings - FJElite",
-      "title_ko": "유럽 증시 심리: 실적 발표 집중의 날",
-      "url": "https://www.financialjuice.com/News/9855434/Europe-Sentiment-Big-Day-For-Earnings---FJElite.aspx?xy=rss",
-      "ts": 1794909165
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "공정위, ‘회사 경영 참여한 동생 숨긴 혐의’ 김범석 쿠팡 의장 고발하기로 잠정 결정",
-      "title_ko": "공정위, ‘회사 경영 참여한 동생 숨긴 혐의’ 김범석 쿠팡 의장 고발하기로 잠정 결정",
-      "url": "https://biz.chosun.com/policy/policy_sub/2026/11/17/VRRUJSORDBFUFFTA5BRRZ5ZVBU/",
-      "ts": 1794909167
-    },
     {
       "source": "Barron's",
       "title_en": "Canada, China Agree Further Tariff Cuts As Leaders Meet",
@@ -11504,6 +11455,55 @@
       "title_ko": "BASF는 Evonik에 대한 입찰에서 추가 양보를 고려하고 있다고 소식통은 말합니다",
       "url": "https://www.reuters.com/business/basf-preparing-new-takeover-offer-evonik-bloomberg-news-reports-2026-11-17/",
       "ts": 1794953539
+    },
+    {
+      "source": "New York Post",
+      "title_en": "Exclusive | Secretive hedge fund RenTech dodges Nvidia bloodbath that hits other big funds, NY teachers’ pension",
+      "title_ko": "독점 | 비밀 헤지펀드 렌테크(RenTech), 뉴욕 사생연금 등 다른 대형 펀드에 타격을 준 엔비디아 대학살을 피하다",
+      "url": "https://nypost.com/2026/11/17/business/secretive-hedge-fund-rentech-dodges-nvidia-bloodbath/",
+      "ts": 1794953620
+    },
+    {
+      "source": "9to5Mac",
+      "title_en": "Report: iPhone set to gain market share in 2027 amid industry-wide slump",
+      "title_ko": "보고서: 아이폰은 업계 전반의 불황 속에서 2027년에 시장 점유율을 높일 예정",
+      "url": "https://9to5mac.com/2026/11/17/report-iphone-set-to-gain-market-share-in-2027-amid-industry-wide-slump/",
+      "ts": 1794953623
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Nvidia Issues May Only Be the Tip of the Iceberg, Great Hill's Hayes Says",
+      "title_ko": "Great Hill의 Hayes는 Nvidia 문제는 빙산의 일각일 수 있다고 말합니다",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-17/nvidia-issues-may-be-tip-of-iceberg-great-hill-s-hayes-video",
+      "ts": 1794953684
+    },
+    {
+      "source": "9to5Mac",
+      "title_en": "AAPL: Apple defined, key history, primary product lineup",
+      "title_ko": "AAPL: Apple이 정의한, 주요 이력, 주요 제품 라인업",
+      "url": "https://9to5mac.com/guides/aapl/",
+      "ts": 1794953750
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Energean, BP Egypt asset talks stall without government backing, sources say",
+      "title_ko": "Energean, BP 이집트 자산 협상은 정부 지원 없이 중단되었다고 소식통은 말합니다",
+      "url": "https://www.reuters.com/business/energy/energean-bp-egypt-asset-talks-stall-without-government-backing-sources-say-2026-11-17/",
+      "ts": 1794953754
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "NVIDIA WILL BE DISCLIPLINED AND SELECTIVE IN NEOCLOUD SUPPORT",
+      "title_ko": "NVIDIA는 네오클라우드 지원에 있어 선별적이고 징계됩니다",
+      "url": "https://t.me/marketfeed/1080062",
+      "ts": 1794953756
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "英伟达：公司将在新云支持方面带有纪律性和选择性。",
+      "title_ko": "NVIDIA: 회사는 새로운 클라우드 지원에 있어 규율과 선택성을 갖출 것입니다",
+      "url": "https://wallstreetcn.com/livenews/3201547",
+      "ts": 1794953759
     }
   ]
 }
