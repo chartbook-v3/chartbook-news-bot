@@ -1,13 +1,6 @@
 {
-  "updated_at": 1794880679,
+  "updated_at": 1794880834,
   "id_hashes": [
-    "1533661c342b99ceb9241ccfe1eb680004772913d0d5ee3efdae3d0da40e6470",
-    "0cb47ad1b86823d682496e19e3f364808112f87017a6ae3d0095490b0f86bf40",
-    "35e75db8911eff9968616c958f28088ae96538ca07c481c0cccb98133d7e0f4e",
-    "648553270552344cafa8dff26d4d02a9f089aabf924a4bc7e795827eb512f4ac",
-    "6208d8be15529d1d6cac5404ec908ef6aeba3c00ed32e5052284da85ff5fdeb3",
-    "146d58dff6484bc0c37aca8aeb2f6a0eeeb007e73af1d05797888ae562b47140",
-    "1627639f8c3ead46f9a11d6091142f4d3fbd03274f6275b2a6ad6b0dd2b9f583",
     "cfda982ac829508d23cd553ee355968ec2d596456e60b71d74d20412a0050c42",
     "70485d33873a05f6673ef2ec6ee051ba54266e8a6de05851a653d4f2d67fc894",
     "998a42499f2a60bc8795a2cc8659cb500632f725985f51d3139daec472a1ffbd",
@@ -4000,15 +3993,16 @@
     "b3e74f8232030a48625e2a29386ebe61d039708621a25a299f7fba981fe3b49c",
     "8a8d66bab5970cdc4b09aecf9d5e2d8ba70588df50b5cd3c650fed7ee64f130e",
     "ab0ab7f056cf2e35b4a6bba90513b421c43491f755991a40e376895823154fd3",
-    "0d3538f5b410f963fcc60d408fd27afec227b577b8f60d040d7627c5aabe79ba"
+    "0d3538f5b410f963fcc60d408fd27afec227b577b8f60d040d7627c5aabe79ba",
+    "02abb89503ffe032ca2901966b6ff99d83c31539c30e0dc999766c707062842e",
+    "2ccf6b3697e161ed62a77c7adc9ec1c7306a99348fa977c38f1f54f596bd0f80",
+    "b512a241e1c2ba28cb4b98a6155996cb0d743528ad1de8e0f92b366107b8e618",
+    "f22b75f5ff6aabbe38870692216e59d8539ce5e963ae17edb88104b2cf54ccdb",
+    "0c43a5cf9b0ddfdc28dfd94adc73b10d6404f062a097139588a674c0badecdfc",
+    "c7bfd522c89877af0031216bf307223d75542bd28823f76a7a9e356577620e16",
+    "195c751e5207b9b1db0eea1f95321b26a5e45ccda72b00ed94c3433552951443"
   ],
   "title_hashes": [
-    "70085f163acd59588008e50d889649a67da29d98c3aa52b305fe1f7302a6d839",
-    "b32646f0a5f2327fcf9866dae2dc61d722458ceac81d88d884c7167668f3f22a",
-    "baa464dbf4453202ae0a2234353fc5cfec16d0373154dedfe23cf2ae91055587",
-    "d58e46861a0e533f48b31f97a89e4c62de39d934351a5db7ea23a876c682f585",
-    "934972b5e6f628454eceeb0f809d89af3758c7c56718a62958b6f58f62141830",
-    "231c63fb2ba919af2abe8ce84a331802e8da8d165dfe7086dab760d2f1e9fb24",
     "06b05d415773b7122e4b556ac0d2644a9b3f61cb72e71655aaf204ebb42ea4c8",
     "b82e96b63dfd17ce7c1e3fab3b8c2fb7ebc86e972f3020aaa0c11d1ba3929b6d",
     "b04863255f51b6b1df2ea5aaff64c5da5d6cd4d8d93f0af118f00773c57f77e1",
@@ -8002,23 +7996,15 @@
     "16694dcca5044772cb23d3066300be9964df20f48bb2aa059eb23eff9c84f1f3",
     "83e2c0791a57268ed09730c4c5662964482bcf347d6399bc187e2c0ac7cf8461",
     "03ac6fdd54a7b2876b6cd136291408e93e6bf0f38a82632607dbad44e31c11cf",
-    "8736bf15f0ccc1749d4f2fd98caf3651ac7d4b4755e63fb0b9754d01c10b677e"
+    "8736bf15f0ccc1749d4f2fd98caf3651ac7d4b4755e63fb0b9754d01c10b677e",
+    "8f742a68a7335a2d80ea3905dd3c4af258582a41e545bb326a6b9e179cfb80ad",
+    "355d4218ce4055e4e31d32e679c7494ec49b7f1a05e3d7d1b82d96401f019c31",
+    "cd4f338884999de7b40639adedce1b934e1fe908a20e88f65f4516c6abec9ef8",
+    "37094b2e3ca544d90c4fadae5ce311058811db876ba3dfb3b0fde9a59361ef52",
+    "ca467ff8e3c77415401b3e17aeedc917dbd66632ac6991e0bdac1cd8f26205ca",
+    "86782d73c42c317141e6417103011270227d0502c99676ffef686fcc5272152c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "NHTSA: OPENS ENGINEERING ANALYSIS INTO AUTO START/STOP FEATURES IN EST 1 MILLION HONDA (AMERICAN HONDA MOTOR CO) VEHICLES IN THE US",
-      "title_ko": "NHTSA: 미국 내 약 100만 대의 HONDA(AMERICAN HONDA MOTOR CO) 차량에 자동 시동/정지 기능에 대한 엔지니어링 분석 공개",
-      "url": "https://t.me/firstsquaw/193171",
-      "ts": 1794825088
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "CHINA TO EVALUATE AUTOMAKERS’ PAYMENTS TO SUPPLIERS: MIIT",
-      "title_ko": "중국, 공급업체에 대한 자동차 제조업체의 지불금 평가: MIIT",
-      "url": "https://t.me/firstsquaw/193172",
-      "ts": 1794825091
-    },
     {
       "source": "MarketFeed",
       "title_en": "VITALIK BUTERIN BACKS HIGHER GAS COSTS FOR CREATING ACCOUNTS AND DEPLOYING SMART CONTRACTS TO HELP ETHEREUM SCALE",
@@ -11504,6 +11490,20 @@
       "title_ko": "체코 규제당국 방한, 두코바니 원전 설계현장 첫 점검",
       "url": "https://www.electimes.com/news/articleView.html?idxno=374871",
       "ts": 1794880677
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Kim Jong Un’s Top Aide Meets Putin as Trump Floats Diplomacy",
+      "title_ko": "트럼프 외교 가능성 시사 속 북한 김정은 최측근, 푸틴과 회담",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/kim-jong-un-s-top-aide-meets-putin-as-trump-floats-diplomacy",
+      "ts": 1794880831
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "新西兰四季度2年通胀预期 2.36%，前值 2.34%。",
+      "title_ko": "뉴질랜드 4분기 2년 기대인플레이션 2.36%… 전실 2.34% 상회",
+      "url": "https://wallstreetcn.com/livenews/3200948",
+      "ts": 1794880833
     }
   ]
 }
