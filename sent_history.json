@@ -1,13 +1,6 @@
 {
-  "updated_at": 1794889374,
+  "updated_at": 1794889526,
   "id_hashes": [
-    "d45b598f85752ebe8d55748609656a67ab4550826b9b1bb659eb3e90f0d45ffd",
-    "1ca6c13758a18dd3aa05c65a9c93d7c842d8eff33358b15c6a57d2a656c05857",
-    "62c59f12088cd805d196a89ac2f7008a35f9921ce8201ba6a4de625a32a15959",
-    "e28f26a8c936c4cf5063d9c3c5eef857c5cf850c85053f9185ac9e00dd33fb59",
-    "9c974bdfc995a94b57b86ce7aefeee89720a54833834cb2273390ceb050bb18a",
-    "956382949b975455a8409d075cc4658aa1467e53d251cdd76067b8020603a6a7",
-    "9ebbe06bc92b16034c83cb34e7c3b4faca1a82ab4a3f72c9d949511b62af2d0c",
     "b6d3a503f21ffefae9b7751b4fad5cf81b6d0e579c375f30fe74612946b749d5",
     "5c49757eeb5e17b7262c2734043585bedecd6c53106f6964f2aced574e686766",
     "953bacdcfe8c14f30f34f37385cc66d0e58278024d3dd96afbdc1ded9a11b3f2",
@@ -4000,16 +3993,16 @@
     "16cbaaeef4f5e7b433b39a5e0223fb32f7b970c7b98fe6331e866180d1b9ca95",
     "bbc40a59098ea2394c9dbdc3d758a13a287667175b08eb8dfc0e5bb933b217b7",
     "017b07782851d73215473a0c509cb7868be745525375a14e0b09afdeef6b46bd",
-    "30244d403ea1a4359be2624205b2d7ac9547e9696958afda0193544d0446612c"
+    "30244d403ea1a4359be2624205b2d7ac9547e9696958afda0193544d0446612c",
+    "d24ad333f97a7c480e400009279e917ec8a641eb9c5f58fe5033c2b28d7b2f69",
+    "0ede61d2a3ac8c51b39a90812d3830954f699975927f46c2c10a0801aef57ce6",
+    "9641fad7760f78a90cb4c9be79fb6b6386750a625c37ad59646fbe0880f1e680",
+    "4eff01f55a5db0157a2fffeecd67884de2bbf856432007cedcedd0259e2863f2",
+    "3c7348bd57505821e3079f0911df15c977f0ac74beee869d1b697dd72c1266a6",
+    "b76ffd94df95413b15d582e2726512d2c3ee0f362f95f44566cc5ce91cb6cdf9",
+    "593b3c61135da95c94fc257fe96d8cfaf79781e2638c4aa87fa93b449ad84fc2"
   ],
   "title_hashes": [
-    "0bb99145a9a58e5040a12d11c457d8e90a0726ba5585d4a39bfb37994c866ff1",
-    "12b37ed0ba6313d661cb5f43afc6a6126c6304ebb23fec76fad8c9c6b783b8c5",
-    "c8ef00ddd3e9a1d0f8389903d8383ef07c2d818e08348549c8da1ca31f622d64",
-    "46cf8e88978d978dd74220741a34c5b1ae17549aa26ecb74b67adceed673ee8c",
-    "6434e0b02f9e692dc38771d8533e3c49f51eda3efa6fb19755627cdfd04afe94",
-    "ac9787862a5c3e3e7439afe35cb480f6570f493f58e24a084f277ad15ff4b187",
-    "5e9c74042e2a52a11d18e76e2679789103f6b6e44cd32cd7574b83d83184e009",
     "45267ef3840bac1f7d53da4e6a6df5964a976075d4c7df2a6083a1ce118f0093",
     "72f21fe9b4b5241b3c353074d9793c945afab6732cb9fad7f411d42ef5cc59a9",
     "3d2fb0202b07fb7607d95941dd7c33f2b391219bd4ef5f3ecd1893f51a635245",
@@ -8002,23 +7995,16 @@
     "009ed21c6c5804a8e1182d8f5c5d72fada92f67d10fb4d0964cc698bd60def42",
     "ead31cf7ec8b555521b3062b8ebafaf1951bf067f31a24053aa2b8592fd11e36",
     "6ada06b05c0fde0c6e2cbe641102cda153261be7e2e766f532b48a62a2a0af6f",
-    "083264f10af8cdcf3e55355bb68ec23f504799679e3c724b837f02aa225a2196"
+    "083264f10af8cdcf3e55355bb68ec23f504799679e3c724b837f02aa225a2196",
+    "3d9af5e938c4aead9bf045477ce021cbbb4e0833027c8d3c1160ae3b830e2b32",
+    "ea8ee3e299bfb5ddc92b2b6aedbe62d2af976c8b0e0ef3a78ed3a1f02751a1f1",
+    "1542b350b3ca87cdbcbc4a06c178abcaa8e266a3966a015ae686c726f782aa7a",
+    "79b5e1e12169222405062732f57a7a9d049d7ce84a9224c9ccd923385a2628bd",
+    "284a8dce3926bbb1b4262a8b444920f1512c1bcf3b265f06e686ed2754db4452",
+    "ab606babd4a8bcb32ae43c29fb5f62bd2acf776fcfff73066120acef67e36a4b",
+    "41ac2bcfa924cc8a0bea111314039a95687f3904810afebc297902bf43f882b1"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "Quebecor提出以每股19.45加元收购Telus。（彭博）",
-      "title_ko": "Quebecor는 Telus를 주당 C$19.45에 인수하겠다고 제안했습니다. (블룸버그)",
-      "url": "https://wallstreetcn.com/livenews/3200672",
-      "ts": 1794832402
-    },
-    {
-      "source": "9to5Mac",
-      "title_en": "Video podcasts coming soon to Apple TV and other devices",
-      "title_ko": "Apple TV 및 기타 기기에 곧 비디오 팟캐스트 제공 예정",
-      "url": "https://9to5mac.com/2026/11/16/video-podcasts-coming-soon-to-apple-tv-and-other-devices/?extended-comments=1",
-      "ts": 1794832541
-    },
     {
       "source": "StreetInsider",
       "title_en": "Surgery Partners seeks noteholder consent ahead of planned merger",
@@ -11504,6 +11490,20 @@
       "title_ko": "마이크로소프트, 가짜 365 알림 이용한 대규모 피싱 공격 탐지",
       "url": "https://seekingalpha.com/news/4673422-microsoft-detects-high-volume-phishing-campaign-using-fake-365-alerts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1794889373
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "African Economies to End Year With High Rates as Fed Risks Loom",
+      "title_ko": "아프리카 경제, 연준 리스크 속 고금리로 연말 마감 전망",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/african-economies-to-end-year-with-high-rates-as-fed-risks-loom",
+      "ts": 1794889522
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Nomura America Finance's US dollar guaranteed senior notes receive an 'A-' rating from Fitch.",
+      "title_ko": "Nomura America Finance의 미국 달러 보장 선순위 채권은 Fitch로부터 'A-' 등급을 받았습니다",
+      "url": "https://t.me/firstsquaw/193387",
+      "ts": 1794889525
     }
   ]
 }
