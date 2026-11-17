@@ -1,17 +1,6 @@
 {
-  "updated_at": 1794894039,
+  "updated_at": 1794894190,
   "id_hashes": [
-    "e26b5c980f8a719300085672dc352d4ffd4c6be9419ee0a69d00d7f05734778b",
-    "1fdd0da7edeb8472b5b0de1bb629be6f12e9ba26a346570ada3c87503fd43fd4",
-    "1c28126b87b45294ea4fadd95f5c054381c45a90c2ccb754c3d14b930cad0bb2",
-    "1e497ba57e80eb8d74e397d4bc5aa39562330aa9a66c28bb063721ede7fec2cc",
-    "60cb3b2d33337d879857d917f47b206fb01598e50eff6dbf0b7d60e08dc520d7",
-    "445de47edc02450b572a10a3ea611e7cd68884cc029973fea595b32e46f3ea60",
-    "ed816e027d218d90a1adac33e1adec73c259d5f7bbc40c9ad2d2fe4801c4a221",
-    "4ad640f0cb03a4499c5461a501090a26cc607bf5d29d3c0d39d9a441658ba6ba",
-    "58e5515c70ac9d4f5be162248e17489bd04a8010c43f96c66bbad19b33775024",
-    "17ac083526559968e4fd0883cc6d60d5d1efe9f2b6d296a835508dd62545490d",
-    "8808049714fc2bb73803bf8be206e202c4102c6cc2318e4fbb1e1837c94b266d",
     "17fc2048cf437099d1d72889459f8161fb5fa6a84943097856653b4a976ccbe6",
     "cd3d2ba4ae4cbef0f43ee99ca233d02e03df3aaae92e6758a0c23230cc815736",
     "cd8c68013a84090e929877089faf8f909185ce91f3f0e0f0f73f5cfff012b5db",
@@ -4000,17 +3989,20 @@
     "6da9e9916edbaad03dea0ac7587d88067f3ac14c850b966196ba7872f8aa6223",
     "34f4dd925e9d1c9b639e5339087df659c687b652d527a918a083d2e65218e0f7",
     "170574c6f95fa235c25a634734b362e2463c293fb021356fe66c7d82740ae2f1",
-    "d401505cc2c57c32461da4f6095e64795ad1dfb7ab552306372cfdd5fbb7470e"
+    "d401505cc2c57c32461da4f6095e64795ad1dfb7ab552306372cfdd5fbb7470e",
+    "cfd32758638836036cfce5add186ed527f757662fcc516e1dd38f880e5f663d8",
+    "16461226141a6548af27ab9561a0e1423be2748b814d7893eb6d37bcf152b3a5",
+    "f979b88af0d291c9946b9762f70c912c484338ea46d56b3638b1961c45a6e096",
+    "694e99da70b91d3650ab6d23be788638879c5b1dcd59aad1568f9953d7424ff7",
+    "d7cd6b692182917b4c3cfeb3813156aa1e34b4db83af9e0b5125ded22c8c1340",
+    "9e096659c405f997c1e22f6d5f6cc7854d40c8995894ff218ef5c782dcbca9ec",
+    "82a5583c18dc556b8170b9ebed0a3706061d8128aca25ab9e011a2d28da26409",
+    "33cc3a88789e6363b1cb6a0823972020dda896e844875601484393ff0362aae3",
+    "f6cd8f4b3fd23ffb4dfee2972f4b2c7efa7588f9563c6acaf9d6d13beea6f51a",
+    "21f9076cea8648f40d39d57a25362f0f6504ba75ca45b255cec62725443d82d1",
+    "5ba32e4a318a0161f7e8e6d2be02365c95f89f22fbab0f3da018069442293f1d"
   ],
   "title_hashes": [
-    "a588fb73e3eee616a612df10edccc211e931c479ded82eba901cfd89ec4a1e87",
-    "26ea89b6583847df0f6baa7f85474b11b28d9c4a73404b97c78c98d679684d14",
-    "87c364d52ff45215a73aa24a928ff3af172207ef0931ae1858d3987d1619358d",
-    "a46c4bab8ef7b1388e9b46da50829f0459f152384fae965cf84e1c0da58ce687",
-    "b295472e6543b6d45c751d2ff68d57da48f178890272067e2f46ad1123ad4261",
-    "8dccf5b1da21822cf58eb2383c4566e5fc8eb0b0c038b0fccbfb004ec3f67a8e",
-    "c3185c29c7b268ff9398a951b3f37efe3e0ab691dfd82433fb8d47e9d6d10aab",
-    "8ee4d8f9931eb831ad6852974aa02842b188ac9fbb9d95111126cd2d96caed10",
     "f557f7f587ead80314ab55f8374048180514f4bf56a76c0a9a062a4369e40312",
     "5106061bc7a6f2418932b740e1dc08f7db833472be2a4021839595ac0483bc57",
     "3a85e1b8d4d8638f1f426d7772b38f45b34016fd7ae2617e5173465b7aba10e7",
@@ -8002,30 +7994,17 @@
     "892df356025f4cb5df682ab4bd946ec4032db9ec56829df2cfa2902bc8837bec",
     "7380ceea4378dab1afba1ca1ed0194f5d3bd108df85e8cb03b6018595ed95296",
     "97587cc760aafbf49fd34dbffb38c468be59ba46471fa104e21892bdb4823b8d",
-    "bcb5af2e8aae55714924f569d0404e87eec571c439c764900ac63c32cbc8db6d"
+    "bcb5af2e8aae55714924f569d0404e87eec571c439c764900ac63c32cbc8db6d",
+    "2a5a35e5bd25b8fbc972edaebdeaba20535acc3ccb2b0268a49a6e3067239b9a",
+    "978882466ecc9ff3b5671d0df8b0cbc05bd5d1574a046d75072872c43a6cbfd2",
+    "bb23a2f774d57cc29a23e966632aa4f38d32e74414e5cb4f1d0d19f8c8d3efbc",
+    "e2c77f1a40a63c36f297575e808b4c950e15ab60701b33ac45d1f579ec14058a",
+    "f452b0c8186787907e9a883aa06b0418df8e81387f970e24e35be25181ae8645",
+    "2060964d2ce377876fc453524923cf59c1d80bddf514637eabd15c91a5b20f6b",
+    "770db17f1ae127e674ab25f3ded1b5bee6542819d4ccb2635fa1ea037b144a34",
+    "a09ce13ffa4196dd4a1079a4e5c9c38156b123156f69d1e91b200b0ffaff4326"
   ],
   "recent_sent_articles": [
-    {
-      "source": "CNBC",
-      "title_en": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
-      "title_ko": "케빈 워시 연준 의장은 AI가 경제에 미치는 중요성을 강조하지만 '실망'할 수 있다고 전해",
-      "url": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
-      "ts": 1794853131
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "What's Going On With Niu Technologies Stock Monday? - Niu Techs (NASDAQ:NIU)",
-      "title_ko": "Niu Technologies 주식 월요일에 무슨 일이 일어나고 있습니까? - Niu Techs (나스닥:NIU)",
-      "url": "https://www.benzinga.com/markets/earnings/26/11/63307087/niu-eyes-overseas-profitability-in-2027-after-clearing-aging-inventory",
-      "ts": 1794853133
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Nvidia Braces For First Earnings Without Jensen Huang",
-      "title_ko": "엔비디아, 젠슨 황 없이 첫 수익 내다",
-      "url": "https://www.barrons.com/news/nvidia-braces-for-first-earnings-without-jensen-huang-aff68097",
-      "ts": 1794853136
-    },
     {
       "source": "Benzinga",
       "title_en": "OpenAI Brings Four Outside Research Groups Into AI Safety Testing",
@@ -11504,6 +11483,27 @@
       "title_ko": "인도 10년 만기 국채 수익률은 7bp 하락한 7.25%를 기록",
       "url": "https://wallstreetcn.com/livenews/3201039",
       "ts": 1794893981
+    },
+    {
+      "source": "한국경제",
+      "title_en": "동부건설, 3분기 누적 영업이익 428억…1년 새 147% 늘었다",
+      "title_ko": "동부건설, 3분기 누적 영업이익 428억…1년 새 147% 늘었다",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DYmZmVzg5UmY3TEpzZnF6REVfT1J1ZGhzQzhjS1NibGdBS3B6QjJOamVyZTd4ck1weTBUZjdadGFxY0lzUTV1RHkzZU8wMXF2dHM5d1hKV1d1Zw?oc=5",
+      "ts": 1794894062
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Russian forces strike port facilities and industrial infrastructure in Mykolaiv, according to local official",
+      "title_ko": "현지 관리에 따르면 러시아군이 미콜라이프의 항구 시설과 산업 인프라를 공격했다고 합니다",
+      "url": "https://t.me/firstsquaw/193414",
+      "ts": 1794894128
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "\"의무공개매수 원안 통과시 코스피 4,200 급락 가능…PBR 1배\"",
+      "title_ko": "\"의무공개매수 원안 통과시 코스피 4,200 급락 가능…PBR 1배\"",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445176",
+      "ts": 1794894189
     }
   ]
 }
