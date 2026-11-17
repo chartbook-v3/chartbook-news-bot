@@ -1,19 +1,6 @@
 {
-  "updated_at": 1794957547,
+  "updated_at": 1794957702,
   "id_hashes": [
-    "4f402055e0f17f8a5f938c21f080bd2dd7d0ea43e22703c2b88fa585df2e750b",
-    "bb489b19deecee51e421d066f41383727f046ed580e9fa26b98ebf4b1b29c1b6",
-    "6e1ca31af683b7e35c3bdf7caf8e1ce8916ad9446f17521aca3009633a162a47",
-    "abf80c23c9a0c1cf983d9c501801d72061aa8204cb7e4a7299ad4c5aaf9b60d0",
-    "49377cdcd1958233bdfadeee8808641c906f72120debca561f1ff3f145047bfa",
-    "5de5fae72557ca8df06d69371595f6b838cd56c782d2468c253e6d67eddb9966",
-    "56e34655df82d45602605b0fe53c49f44e1c6a46891bfca25fa3b1458fc2ac90",
-    "8cf450816228e7c0017c364edee5e4a11fd2f5c965daea601c1319f8283bfc23",
-    "1f4df1bca0de83911d7b59998a0f30de222158f996402f4082e8b94101e8bf7b",
-    "20dda050df41168e5657ed4f6e343d203698f6d0ef0c98b8adfd4157b9fca2db",
-    "0b36120318a22b92bff5f508e745ffc3c0b3c5b26c9c8c5e6dd76f617b9516e0",
-    "b8864af0c5d65cdb3afd9d8c68fcd634c9b0477a1d2e24a5ccf7165d8c0e012c",
-    "51f8c82fcb02369a49759269e659c078e09c8650001076003a6b3fdde70543a8",
     "8e7efa4033e44f604d57a62c1248014c05894d2dba2256d353142428f146c6a2",
     "4317dee3ad374c6b5cebe64121e32bc78dd23896a1827f18c19363fdbe972231",
     "3ec4b47d7ffb67be7a6e3063ceceb100b6cd3c2c88dbe5a57fc86a5ab0a0d0f1",
@@ -4000,18 +3987,22 @@
     "de9f8b415856a8d32245bb44f78306ee34ea0db9e056b25c31d2bba3968da84a",
     "b2ae375956d918856e4e6034d65cf1a2371446f42c421b27a7f3ed97e291311e",
     "bd7fd6bac6e59450a0807348160436806f1c5fb9233f8dd40d7f13c5fff678ac",
-    "27930f89b7c1e2930131ee751ebe4e3d71d17822343af8b7a3eef03320c2c3cf"
+    "27930f89b7c1e2930131ee751ebe4e3d71d17822343af8b7a3eef03320c2c3cf",
+    "52451fa9526b510e4fe217f3d14b5a5c754facbd668fbaa6bee8ab0315aa7880",
+    "4e590cee99f8c3657a252deff0412d1873502b65c3dae2162d1107529048323a",
+    "e730681cd982b76a0bc7e80653d0f6aa994b62a7d4275a4aa5ce85d995a2ef6d",
+    "f957131d66d5ee732eda0232ca0f2cc52ddfe66cb619bcd91b4836fa238bc13d",
+    "f009be3a54b8dd6f84be6423333c8555ba92dc62d6f369370c202e5fb8f6534c",
+    "3cf1a995c107ba65787084be11e74d6be3628cfc340f3e7bd9c15410cb8068b8",
+    "4fad328b08ace464963a48101d021e87df861296327ba18e23030ade6298fd54",
+    "488850a14154e190e7b4e807f93f97cf01b029fa04c2beb54658e3043b757e5e",
+    "d6656d6d87ed8ea6fd286eb9cfe341fc201da46796a25666187a9ae9d9144eb0",
+    "a1d9ddf1427e740b81e72a4752e2c6cbde507fb1baa5503097cf2c377c147cc4",
+    "4b74d9c870dcfc0d147aefec0a832cd5468cc037ace3962d2e8168728c4d81eb",
+    "44998e91edec0988e115a2beded337582b6d0e72fa26a982e50d2605200c82ff",
+    "03dc7dd61db15d77c48f9ae854634d08bd258ae6bd466f6971838b9941a326c6"
   ],
   "title_hashes": [
-    "4b8a49e32094fa86b5fcc4a62a985c3280004f4a3adaa32257a7b8d0e0a275d2",
-    "7c50830ad309fb83c2b14cf4e62e636d61bb02e307cca0a946b784892c2db3fc",
-    "8479c36bde22ef352fc90deb3a656cf3b482eff5ccfd49781b83d77aeff0284b",
-    "9c0202b81858f38c200ada47fd9d056872a7238ce7d21cea70ef0c9a1c6fe07c",
-    "f98139a482b314b0eae01d0b4ad4a394d8c39b1c7364df9f05be80ffd7f2f859",
-    "a99aca8b4019ecec4cec7fef7959fa4c702a043c2878d1c1cd763a514d631e90",
-    "ed6f0f2dabfbc4433c48a9ad576bd59cb9c5d0b9a55d2c40b214c02607e676da",
-    "cb177e16326ccb3cf94e2ce7f51809ff8a49016531eb91584ba36f4b5dfc8e81",
-    "c8b09beaf62db1d2814c3cd9d1b8b3b653b3344334006eb672e76c8c2f114cf8",
     "89dac7268171e086ebd3a523166c56a84de3d1e7a4e6c2de3d0dd8a38963e2d6",
     "0b86fcdf85695b9ca1c7a54abbfbff87cf18e21206904ea23b45553398b47039",
     "a7faacb213b2cae5a674bd5f310fd06e08b72ffcf8482679c16402f07ff9588f",
@@ -8002,23 +7993,18 @@
     "cc20b8dd9f8d33ced777d977799e0bb560a57e33f3daf1a0daf88b22e2f081c4",
     "66986d0b21deb81cbee380c96a4da1936db7d3cbb99232cbbf1d9ff25f5f2aa8",
     "085a9e5b8bba61470f23e6798fa336675ddd24163c0b24ee03ee20c64a31a80d",
-    "ae8f97a01a0893b9efc59569e1874a65415295b22e83e4454e30e916c8269b62"
+    "ae8f97a01a0893b9efc59569e1874a65415295b22e83e4454e30e916c8269b62",
+    "804a2c1c6e364e9bb6d4a3e098ebdbe8ac3c362e86447597b8ffd543326f1830",
+    "026de459ee085458b3329ff861a3cfbc39babe3171a95561c6a61a61dda7bff5",
+    "829f773ed79f0fa06ae4714124258badcb15b2237fd981ddb0169cdc489e1214",
+    "9f82d32139069979b50de851abf411e41c6cecca643b66aaa5e566002bb3b58b",
+    "13957c698f0a1958466489b5f089829cb9af46ea35d6e5f09dc3daea32fe1e28",
+    "0983302b58f7a802360c492e64aa2d61eaaf283cdb6632c62bdf1912da7f99e6",
+    "c13784fac23acd467a18a60e8a8364dde52835324c05f5cf5536160714746c96",
+    "39b8c0814775046641ded438b1dd2d36874070ea0d2ce43c5db7fa785be88491",
+    "dee6f9b4759dc709ce6688ab951f957ca3d30746c0c16c5d9baef299d5b0f20e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "Trump on Nvidia: Good idea they launched the national security initiative $NVDA",
-      "title_ko": "트럼프, 엔비디아의 국가 안보 이니셔티브 출범은 \"좋은 생각\" $NVDA",
-      "url": "https://www.financialjuice.com/News/9855552/Trump-on-Nvidia-Good-idea-they-launched-the-national-security-initiative-NVDA.aspx?xy=rss",
-      "ts": 1794912507
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Trump on separate bilateral with Putin: I would if available",
-      "title_ko": "트럼프, 푸틴과의 양자 회담 가능성에 \"여건 되면 할 것\"",
-      "url": "https://www.financialjuice.com/News/9855553/Trump-on-separate-bilateral-with-Putin-I-would-if-available.aspx?xy=rss",
-      "ts": 1794912510
-    },
     {
       "source": "FirstSquawk",
       "title_en": "TRUMP: PRODUCING MAJOR NUMBERS ON RARE EARTHS",
@@ -11504,6 +11490,20 @@
       "title_ko": "엔비디아 실적 호조에 '네오클라우드' 반등…네비우스·코어위브 시간외↑",
       "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445247",
       "ts": 1794957546
+    },
+    {
+      "source": "딜사이트",
+      "title_en": "[한화세미텍의 민낯] 흑자 반등 벽 넘자 ‘수주 절벽’…고객사 '한계'",
+      "title_ko": "[한화세미텍의 민낯] 흑자 반등 벽 넘자 ‘수주 절벽’…고객사 '한계'",
+      "url": "https://dealsite.co.kr/articles/172755",
+      "ts": 1794957696
+    },
+    {
+      "source": "이데일리",
+      "title_en": "\"엔비디아 실적 서프라이즈…반도체 대형주 반등 시도할 것\"…iM",
+      "title_ko": "\"엔비디아 실적 서프라이즈…반도체 대형주 반등 시도할 것\"…iM",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01935206645647032&mediaCodeNo=257",
+      "ts": 1794957701
     }
   ]
 }
