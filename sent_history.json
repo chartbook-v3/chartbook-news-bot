@@ -1,17 +1,6 @@
 {
-  "updated_at": 1794890456,
+  "updated_at": 1794890629,
   "id_hashes": [
-    "e3d476f12bf53eafedf5bbea821c308d6e84a6cb5f2e7e0bbcc997303881fffe",
-    "2cd88055fcab55f7771bc358d879fa3ffffe0b8396c49e80b9008452ae599e5f",
-    "623a46d68fbb8e5c1ba84e77748c56d23bd0a999bdf533ca24bc691862bc1739",
-    "785d3a3f42574e686c5e9b483a85ff2e3b0e921aaad59d50c0d50a39bc7723e8",
-    "6f4c193a4947114d6051f62aaa0ff10901637831bbdebbfa85aee4a9b4c526e1",
-    "e73345132bda299b80c5674013cbcf2a4e5ae8fa40c819c2bffed306abf3c96d",
-    "5d07c02db04bf74d1fb633526b5c9c7d90ce0ff58fd21ebfe9b3f797e9c9d286",
-    "4306644b6dc9a8c5d3f76d528d207a14e30cbe1b15ce9246e1372496697db8ef",
-    "248b8390283041fddafd0311ae9b70bb0f575de8a6b8de0dec9dcf7fce3c3fc8",
-    "463ec21070f42cf951dde8aee22b56a02f5eb7fa06310abec039347958da8a37",
-    "09577482fe4947e95db6bd8177c1f3585514c5ab900b2ff687a6fe26a7d923be",
     "a9d5ec81e0fccca998de0e906b44e44bdf7a89fd0e5ca3206cfb55fbc1243de0",
     "6c0d99b5b9c150b949191d965c4c57d35329413f3f8fc33d7a76b4320aa2fd45",
     "28d7adc2897cd6b4876615f5fad30ef5b0ea14d053824d0d5cfd1243f7ad5c34",
@@ -4000,17 +3989,20 @@
     "38f24ba879b663343891c98520799911abf608025a56f7a78825192d04dbf5c1",
     "b05128cfb0ff888655bfa9fa93c53128fb702d2e64a6db0e868731b40e90aef6",
     "cf05218d4f7feff078ee5fe5b3ec7ba79c8621d58f99d732f76cc724b49871cf",
-    "f5de5e7c0b7aba6a1d09c605a214226b270483921e99a9e8ed2aa63041fe1bb2"
+    "f5de5e7c0b7aba6a1d09c605a214226b270483921e99a9e8ed2aa63041fe1bb2",
+    "b9b0e4b2b9b95aedc4cea0f49cab345dc6580a78221edf8bb38a7dda0bbea645",
+    "e94d2d2276028b200fb048dcc9429ccb026173bf4254bc0167162f93fe5fd3c3",
+    "ce3fa930388cd97c6e7e7a5eb80afa9e065442e7be46efcd9a8e60f277cd65fe",
+    "209b7b81d5fe6a051e51ed019ce57c4291ab5abd2c691e855711ffd2352d6dc3",
+    "6d1c8e1acaa3049f36b9007f78cac2689a1be842f344b20a3fa30ab03c059a71",
+    "3d0476723f37744705fe889cfc40adfcdfb04d40cbb75492064a2726c2585c29",
+    "80e430ef95c399caa1f3e3348198421f95ab06e098dfb99294974b1877093a7a",
+    "9c11baa3ab5147e7cd312cf29684890814ff1f464648df14dbf608830b5c3c33",
+    "b18ae24e649890c0d9db63e7aee240724121823011799862f45a0a4c9fc7fa13",
+    "e95724c8f189bfebc6e903eb433e6c220bcab700cf79eda5abb55741b38c0516",
+    "c445e1aad37a3e45f36903e024eb8e2d7f775acc240434525c6d975ce4241e6c"
   ],
   "title_hashes": [
-    "186c24e1704e9fbcb0daf8e78ece0a239019fb2ed6f469a2e174f052c7079f0e",
-    "9149536db7a1564d957db2711bfed6434d2b59e5b490ec171e7a71e74f747c38",
-    "c1a4d2dd47c8bc61d03c4ec428a6c97359dfad1e662dcbaeb5af2dd4ffb96af4",
-    "6f0f74e8c9cbc1ffa5acf086b7781410d1d119c88f1d2fa833adb82c2b24f6ec",
-    "8214296964c3365e956566600ec317941148e212835d33e24fc371ada4d7e377",
-    "1491cedcb998cb25db85facdf08e3357df84b21805438a95a6be21d312535763",
-    "7d5ced4492a863281a1b84082bc07d31e5b486acac3f0ddd074e99772e7d4ea9",
-    "23392c0039052a49f7d26b73621db36add85070b74cfd9c70d48cf721cee9c9c",
     "f8fa8d73a111c850deae823dc62b03f9d07eb7b7291b171bb6dae5479de5adf9",
     "3d683bc1d31ca3a9cbf98cae9c5d9fb6de76e848b872fec7d8ce196ef6e5c2da",
     "e47a6a769986e765fa2e30956a9d8a8a3cd90a2c491175f2e7b7b1603a441c79",
@@ -8002,30 +7994,17 @@
     "ec94eded14db7124a51be67518f6ccf7b22ac36d27b7b75935bbb5d3d6a4199d",
     "9c2d12c061a14a4aec68762574fa330c48556ed70b66b9a846bf0711f1ddb2b1",
     "e92238d8acf458e0a9491eae9e78107472ce68d70aa34712a1381147b2862d12",
-    "ad8e5f4f772bd46354cc3fd269bd43b68771534c602da41091fbfe7315d8c663"
+    "ad8e5f4f772bd46354cc3fd269bd43b68771534c602da41091fbfe7315d8c663",
+    "18ab049903a477a81eae9026b9a8e232927e38e70d0769d1297bb9226e515df1",
+    "10fe60cd4a5076c7ed4d434bdd10da0d6a3bf266b48ee4ec8258a8f849f7a7f5",
+    "8eb87adccf5ffdefaa76899b891ab58674cf4ec4780a255649a2e0cc06752447",
+    "01d0bb27222860f35836f30ebc06efef8750163b0838ed99e515ad62aebeeebe",
+    "7926234f2015fbe2a48d28192f69b8727df11cbe94d87cf0ca86b365feff3a8b",
+    "6b2da3eb7d646c2bd92f4588be7752d7395e1348ef54438c0d02a789241c6f40",
+    "33b221939d8149c1b7f377d3f710926502bcf81ad8fd426600b3bb5893ef8434",
+    "d738be8bb5ebb12ec2d29ffddf9f8781b3704422641bb4f9eaa7d4a3c07e4e25"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "Knot预计将于本周退出欧洲央行行长角逐。（彭博）",
-      "title_ko": "노트는 이번 주 ECB 총재 선거에서 물러날 것으로 예상됩니다. (블룸버그)",
-      "url": "https://wallstreetcn.com/livenews/3200674",
-      "ts": 1794833021
-    },
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Morning Juice - US Session Prep (16th November)",
-      "title_ko": "Morning Juice - 미국 세션 준비(11월 16일)",
-      "url": "https://t.me/breakingmarketnews/177894",
-      "ts": 1794833351
-    },
-    {
-      "source": "매일경제",
-      "title_en": "선크리트, 3분기 매출 급증과 흑자전환에 투자자 관심 집중",
-      "title_ko": "선크리트, 3분기 매출 급증과 흑자전환에 투자자 관심 집중",
-      "url": "https://www.mk.co.kr/news/stock/12210341",
-      "ts": 1794833433
-    },
     {
       "source": "Benzinga",
       "title_en": "Earnings Analysis",
@@ -11504,6 +11483,27 @@
       "title_ko": "대신증권, 2030년까지 반도체 소재 매출 비중 50% 이상 확대 목표",
       "url": "https://www.digitimes.com/news/a20261117PD213/materials-revenue-daxin-demand-2026.html",
       "ts": 1794890455
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Goldman Sachs Group Earnings & Forecasts",
+      "title_ko": "Goldman Sachs 그룹 수익 및 예측",
+      "url": "https://www.benzinga.com/quote/GSpD/earnings-forecasts",
+      "ts": 1794890487
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "GREAT WST LIFEO PFD H by Great West Lifeco, Inc. Earnings & Forecasts",
+      "title_ko": "그레이트 웨스트 라이프코, 실적 및 전망 발표",
+      "url": "https://www.benzinga.com/quote/GRWLF/earnings-forecasts",
+      "ts": 1794890490
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Russia repels drone strike on industrial zones in Ufa and Salavat: TASS quotes local officials",
+      "title_ko": "러시아 우",
+      "url": "https://www.financialjuice.com/News/9855052/Russia-repels-drone-strike-on-industrial-zones-in-Ufa-and-Salavat-TASS-quotes-local-officials.aspx?xy=rss",
+      "ts": 1794890611
     }
   ]
 }
