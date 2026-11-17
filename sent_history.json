@@ -1,11 +1,6 @@
 {
-  "updated_at": 1794897889,
+  "updated_at": 1794898034,
   "id_hashes": [
-    "bcbfd553dd4a2bf7fe278f43b45c2766c0aa2d75c5ccb667083841d4c0ac735c",
-    "de9634d6a617daceb946f00e5e0ef5b94ff572728fa75a61dce74d3e6dfe81a2",
-    "718f34acab7bce6b918fbe155ffb5ea75b7dc57dabd05e6eec398b74c3f0df36",
-    "702e5d95bc3a411592ba89960070ca28deb6000a04a417f7cb21312869f71576",
-    "e6b8b51602c4247dfc12031a39f8a401588fafd1a4e88856523b6e3385d7a444",
     "c15a06a6de3cebc729cdc2b2583bb66c9895448c2599e324e6ee1a460e8f54f6",
     "a35b254ac7e2f867faacd5583efd81277861d01968c577696e0cbb7af3d47125",
     "4e81f0e1a34798096b505273949bf277d6840e6a8a353e1f89399f199473d64b",
@@ -4000,13 +3995,14 @@
     "b41f67d01dd585f2ef2ac47b7d1338de6f2248e164edeb1832f3629e220801dd",
     "d2fa582618bb4657e8b367dbfca9dce65cdf793fb99005b10d19faba035880e3",
     "c28654b2e39b085a1a401a19979ef800120c2719784535954876fbe9329f857b",
-    "ecf9b957bc2d6817f23b09b02141569290a516e17d8d12ac344f305956023d75"
+    "ecf9b957bc2d6817f23b09b02141569290a516e17d8d12ac344f305956023d75",
+    "3cae478b57c0306d5c35ec57b58e5d69ac7298ce64c7f24530249c74bc57ade7",
+    "83390197a2ee621fc8344bea2a33126dbd73ee065be57fa544bd7a9febb8f189",
+    "226ffcb7b1e6f43c8c8d3618d48ca822191b9776a076bb8f5e49e27bc2970de1",
+    "ecb29344178d8c61a2f734a22bf214764aa3733f37a0dd34b730c7980b716da5",
+    "bd99515bebe0d534b6dc996c58dbc14e35db5f154d144fae927f2a1706f6bc39"
   ],
   "title_hashes": [
-    "72e3e0178ed8fd3c74617500d2c5de92bfaa3d3d548c5d4d737c21e0060a0778",
-    "3c72d228ee0e5631f06fda24ff12330403b8e7c24b9cb8002cad60cbe0df5797",
-    "5d36cdd154a9d8bc3bc3da7f1569fd16703c229311253786fc0319f55a287e05",
-    "bf6d9a0c96ae5e730cd1c33d0080c87a66a7df012dd4f27b9aee01081bd2bd29",
     "fecd1286149522c1150a09712331ce4545c8dc1927f63dd29108d79d6783fa82",
     "0fcbb890bc6f6bc873f3bef9ad79f7a6ee67a5fd153656f91b3e160bc6f90090",
     "ea677629afba224a84a0804a94809c9fd32b388160d177067f4bbd9a14504db8",
@@ -8002,23 +7998,13 @@
     "d7d0d825ae576c065f214fb549f3c40fb1e4af2d88bf75339c1f8a3994e466d4",
     "bb6c9cb0da8dec945aff83eaabde85f8e7e0a80e1acb7670cba653b0232439e5",
     "a24ed2249fbd6dc7f57e0f82682dfb84272a7c2dcdfa743f193f9ff51e89a376",
-    "65e5d7f336d7cbfa2e24427a9047590c36390fda0bbdf9fdff4dbcbbe9aae754"
+    "65e5d7f336d7cbfa2e24427a9047590c36390fda0bbdf9fdff4dbcbbe9aae754",
+    "679a1763ed9b17c6bce03c77f3db8239549e2da71d95847d41b25f7031304d4f",
+    "0ae6a310e782592ad90407cfc34dc3118cb7687703a4966bfe82cd4fcb4d85c0",
+    "676563ca641895e852d7db938d9f5207a835f010761a2698fe94369db8217f2b",
+    "ae848ae5d26c408ff75f2b65b6730264c326cc0144c045b35a5228bf6c2e2d6d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "9to5Mac",
-      "title_en": "Apple․com now available in Spanish for US users",
-      "title_ko": "이제 미국 사용자를 위해 Apple․com을 스페인어로 사용할 수 있어",
-      "url": "https://9to5mac.com/2026/11/16/apple-website-now-available-in-spanish-for-us-users/",
-      "ts": 1794855610
-    },
-    {
-      "source": "9to5Mac",
-      "title_en": "iOS 27.3 gives Apple’s Calendar app new design updates",
-      "title_ko": "iOS 27.3은 Apple의 캘린더 앱에 새로운 디자인 업데이트를 제공합니다",
-      "url": "https://9to5mac.com/2026/11/16/ios-27-3-gives-apples-calendar-app-new-design-updates/",
-      "ts": 1794855614
-    },
     {
       "source": "한국경제",
       "title_en": "\"AI 생산성 향상 아직 없다\"…Fed 의장이 내놓은 경고 [Fed 워치]",
@@ -11504,6 +11490,20 @@
       "title_ko": "시·트·푸 회담 앞서 러·우, 교량 대상 공방전 격화",
       "url": "https://www.barrons.com/news/russia-ukraine-exchange-strikes-on-bridges-ahead-of-xi-trump-putin-summit-371ad493",
       "ts": 1794897887
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "[속보] 코스피, 종가 5000선 붕괴…지난 2월 이후 처음",
+      "title_ko": "[속보] 코스피, 종가 5000선 붕괴…지난 2월 이후 처음",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/11/17/ZSEIO7CRLRCKTIS5MJ34SCWROY/",
+      "ts": 1794897906
+    },
+    {
+      "source": "한국경제",
+      "title_en": "삼전닉스 주춤한데 버티는 기판주...수주·단가가 뒷받침",
+      "title_ko": "삼전닉스 주춤한데 버티는 기판주...수주·단가가 뒷받침",
+      "url": "https://www.hankyung.com/article/202611171797i",
+      "ts": 1794897909
     }
   ]
 }
