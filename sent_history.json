@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795023715,
+  "updated_at": 1795023870,
   "id_hashes": [
-    "bc472c78aacfd65d741accfbbdf45e73fc5d84a596cda0197f6892c5dd7c8649",
-    "690aa9cdd107d6755d4a9c5f0dfc74bd4323b47b8159d570001c5e886d86cc8c",
-    "d769129407e4c3a8d2265dcd229324e093e3cf19bf7064870d24a6407a69208b",
-    "5ecfc81c7f391c14202320b33a84e3f13e299889d5c96cce082548080d325520",
-    "43639eaea91d127c4550fad6100fb7a5aa5303aa323fc6f32220e4c90d99a296",
-    "6a143c9c2361ef9b22d3549f003a57ea0a3636215893ef7f18d1833c7690ae6a",
-    "29776b7f0a84fb7080a2fd7bf771e8a7a76a8e4853bb675c92c8a86de7bb9633",
     "2f8ff3ab3bcc7e8dd24f603b52a322c5ce28354a9a830091cd7fb737cf691b6f",
     "4604748b73045f28b9ac8d3f93eb08ec18f449b5399b970e58b8c2e253341744",
     "e62cc27fce8700d4b0108e848711c09734c582c8ea5c07ab889eba2043107ef8",
@@ -4000,16 +3993,16 @@
     "9dae018786d3932c1a6f91068b8b4593484c5f37099c96b0e41e4b6a2c486958",
     "a59013bc9723a281cd23aa87532bcca7c5f789674afbb0634d7ff3debc169ec0",
     "b4830de066704359f649b7cf804cd1eae8a25bb21657ee372d7f8c3e19ee0d2f",
-    "757c21dd0d6971cd3ff3edd47f2e116beaeaceda43ece8b76bce33281121e698"
+    "757c21dd0d6971cd3ff3edd47f2e116beaeaceda43ece8b76bce33281121e698",
+    "874f439a7ac2beb3b84c211a5cd453a95bfc8a979b7ca3f29a691446c2e4126e",
+    "aba0c4702268f3e09d4f0ad4f8e0d1a963be7be7b8bb2dfe4bbc2df93470a0fa",
+    "2d8d8dae05e389293e3ee25f318172bc16bffece4d43a755256cadee5fe75498",
+    "890de91f52eec818c2c5b8d271ec661cbfb1d13640a01de8a0c27518606a114e",
+    "638a5e38f4c79e0a5b581a845219409ea234759b41ada6b21b05fece9b7d5ce5",
+    "7d8f0242c80a1c90d76adf68fef5c5c70dfd7850b175edc262e14aa8003c888d",
+    "a818712b7c4bdeea705c77bffd436302669ae56b9ac731073d619c6c9b95faa0"
   ],
   "title_hashes": [
-    "c00269bfd0b1c02187225fbe46c86866b305dd632150688d7cf1d22ea961484a",
-    "a205e1af6abc99962153eba305d4de71bf0cc7bb139b3cbf1e4a9f69c7cf643a",
-    "11ade92813b4d0b94683066c25cb1c4935f713300ce28410a89eef416e3ac5d6",
-    "de552643c24f5e0624163633982b91905dfcf74d395d17f6c91237d6491945b3",
-    "618e89fa4f26f9ac9794ed621f3ca7081b35da6d917d43ac51a72f2180f035cd",
-    "9b419160cf10926c3155147eb2fcca33a477d4024303772a15f0339671d63c43",
-    "3c73eb165216945dcb2d2424a5904f34e3b9ef2fbc54aa04ea3c973f2f32d3e5",
     "5e7e592e6628cdd255d064ebf9642f6c09bcabea8d50ae89e4394652ca1ddb6d",
     "6025e491168a695970b7508b74aa3ddd3bbc9e50709b55c7cd14098ebdbf489c",
     "4852f56ff355771959452c4bb44b66690c971f05d9249984b2fdf24ce10594fa",
@@ -8002,23 +7995,16 @@
     "a652ba27338ba4951917c45e0b605f0d878d90c4bea254cf83f930b73910d2cf",
     "4b664868c095ee97bb85eb84924f84d1a6ca34707576df9157f5e110449ccaed",
     "02e2881c720b04dffca6ce5bf6291ad8ceb9cb0c1d51224fa72d134f11900a38",
-    "5095d1756636380a543f707399ae3b4bdd1f3d65b49ef1281a83b15dd0447248"
+    "5095d1756636380a543f707399ae3b4bdd1f3d65b49ef1281a83b15dd0447248",
+    "3502c6086ca4d7cf454db586711381d9169d5c344fed28bfa11642a6de3f74b9",
+    "fdee8b7c3227325c1e59d02bed8e3e89df9a629f9e7217230b27b57a189b828d",
+    "2d49e8252086c7d237b551e5f48ccac1058c5121b9dc5f54ad9247aeb469db72",
+    "33aec1b538c74409aa4e6e980bf478978d69c148f984436e47994961a5211217",
+    "2f41f4e2aab4c7336308c8efbb6f418650583623b33860dc2ecaeefea4441c7f",
+    "0f2fc1a34aa68dfee999a6f9899e7abcc3c34758419b5e99fb5e7949771c8d9d",
+    "8d399db5e3fe155f0694e7374bad3e4e3d0a857d0ab0e4b403b152f2da4688c5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Abits Group Stock Jumps 45.79% After Hours - Abits Group (NASDAQ:ABTS)",
-      "title_ko": "에이비츠 그룹, 시간외 거래서 45.79% 급등",
-      "url": "https://www.benzinga.com/markets/equities/26/11/63376967/abits-group-shares-surge-boston-solar-acquisition",
-      "ts": 1794991667
-    },
-    {
-      "source": "매일경제",
-      "title_en": "누리호 5차 발사, 위성 1기 사출 실패 이유는 ‘모터 미작동’",
-      "title_ko": "누리호 5차 발사, 위성 1기 사출 실패 이유는 ‘모터 미작동’",
-      "url": "https://www.mk.co.kr/news/it/12212792",
-      "ts": 1794991672
-    },
     {
       "source": "Benzinga",
       "title_en": "Nvidia Beats Without Jensen Huang; Anthropic Set To Price IPO",
@@ -11504,6 +11490,20 @@
       "title_ko": "Google은 메모리가 적은 Android에서 Gemini 앱을 사용할 수 있도록 합니다. $GOGL",
       "url": "https://www.financialjuice.com/News/9858307/Google-makes-the-Gemini-app-available-on-lower-memory-Androids-GOOGL.aspx?xy=rss",
       "ts": 1795023653
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Energizer Analysts Boost Their Forecasts Following Better-Than-Expected Q4 Earnings",
+      "title_ko": "에너지저, 예상 웃도는 4분기 실적에 애널리스트들 실적 전망 상향 조정",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/63401518/energizer-analysts-boost-their-forecasts-following-better-than-expected-q4-earnings",
+      "ts": 1795023738
+    },
+    {
+      "source": "Reuters",
+      "title_en": "As criticism mounts, Trump administration says tech outages not coordinated",
+      "title_ko": "비난이 거세지자 트럼프 행정부는 기술 중단이 조율되지 않았다고 밝혀",
+      "url": "https://www.reuters.com/business/media-telecom/no-coordination-or-foreign-state-behind-recent-us-outages-clayton-says-2026-11-18/",
+      "ts": 1795023869
     }
   ]
 }
