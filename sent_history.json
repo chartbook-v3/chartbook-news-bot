@@ -1,17 +1,6 @@
 {
-  "updated_at": 1794980448,
+  "updated_at": 1794980598,
   "id_hashes": [
-    "146334a04f9aa11fd4aeb6205d7efc1e66eaa2f4ebef7a5d53d78d38b0357e37",
-    "e063d69b62425b8ce0c448e6fa5917bbe7123b5296ca6df0f8bf8585943d50a4",
-    "9456899282e5a02031c8f16a5fd06f76102f5f78c5588e308380b6b33ce1e176",
-    "c413c2e49c86ce0a548eb56976e6448bbe4554af366e18282a140410f83e0831",
-    "631b78c35a9be804c8b2205611e6f06dad97cabe9c72171760f6a2c5a7f9f207",
-    "95848f9535055f7ab1bff28f9b89815d3784fdb815556825608dace5c6cd1195",
-    "8f0b9684dbf9bb3fe8e1948eadd33970299a8be78cf4cde8e4e65cd15471db44",
-    "460c0bb32584fe616293dc94dacd311f0170409fb065d22241db6aba381bafb0",
-    "53f8d3d94939e1941ff78af8de48943ffdcc0973a6d37c2578de8a385fb5121c",
-    "7035e8222d2b3a4209fb1a880dd29bcb817d832eab316141e46fbc4d86e4f815",
-    "b231e310464dba93611c6555e154d9797887ee573ad2902ab22b307385ff0434",
     "e47c835935b3d4ebaacbf73a76c81d0182d4c8494c4557da9b7627d4c4fe77c7",
     "6d770b4e37a8be5e099cc186f8f1625b95717c647cf3d1f48853ad7c94b2a7b1",
     "ca567ed75cde6249a3b6f79330904058a55f7eaae3d1361361ea6a2aea84fcc3",
@@ -4000,19 +3989,20 @@
     "19d373dce05ee34bb2f954144b3dfb862fd83599b8c677d17afe47b286b5ce3d",
     "02550b4b64dac73c8670e6de2866b0fad22a08b934753da2c8b33b2cb3ddb30c",
     "84a01e48eb9f3dfe114bb045babc7f7c0f641ce4f9c6ae5afb94f6c30a4cba9a",
-    "0399fc9c847b07bc75b57c9d812c6ef9c5e904c31da5b889839301e73ecc2519"
+    "0399fc9c847b07bc75b57c9d812c6ef9c5e904c31da5b889839301e73ecc2519",
+    "4ae105e3c81dab42b6524baed94af96f71b63d5f51bb9de797015d08d2b2514f",
+    "b60b89a6bf1aaba36d729077f7805857d0cd70647ff3e292b311c0e7e5bb02c8",
+    "d660a9a06cdc2359b34056f715517068a0cd043e02dc65b38279c43369ed78c3",
+    "e0760ce149a8e2f0d29001fe8e48b0568578ebe191be886d24b5d3ac2645dc6a",
+    "00b853d93ee47a53121ecf92e6a2d56f63c03e1b15e6ddc0c3a14b3ad001d5e8",
+    "a81073b01674ca5ebb91ea596c1f882b67381a84b9f67ec3734976411878ab1e",
+    "5801ffa4b55f3c9019f121571389553445bcc79835cf226d859730ce16b21453",
+    "172f7aa9dfb9fe0b01120b96451cd7734b60858f0aa05cc3a3ba7757f407d557",
+    "974a43376a1530e138bf2d7209de92ea86a44cc6e30f0e263c9d311f3419747d",
+    "6e50e9f95e18e469f35635ed2ab376834bcb3b838ce0feccebf7a0c0fcf754ca",
+    "0dd49b6bb405049e3c242bd81a6282a8faf3b27f69c73a907211bf43948b69e4"
   ],
   "title_hashes": [
-    "978882466ecc9ff3b5671d0df8b0cbc05bd5d1574a046d75072872c43a6cbfd2",
-    "bb23a2f774d57cc29a23e966632aa4f38d32e74414e5cb4f1d0d19f8c8d3efbc",
-    "e2c77f1a40a63c36f297575e808b4c950e15ab60701b33ac45d1f579ec14058a",
-    "f452b0c8186787907e9a883aa06b0418df8e81387f970e24e35be25181ae8645",
-    "2060964d2ce377876fc453524923cf59c1d80bddf514637eabd15c91a5b20f6b",
-    "770db17f1ae127e674ab25f3ded1b5bee6542819d4ccb2635fa1ea037b144a34",
-    "a09ce13ffa4196dd4a1079a4e5c9c38156b123156f69d1e91b200b0ffaff4326",
-    "306b64ba86bb791b90826337398ecd8b282233a7ae9a5d261362ec6af3b123c6",
-    "cd4b6c99104e7711ee408f82f83431a2db16a8a91a55df500230411063285700",
-    "87825ea9baeaac0a44315c0e51f7d9e7b37d39049e3e5b0241a3ebee49018a8f",
     "88f364360b73001deb3152f205afcb4197e8c172787211e9f28211d6e81da57a",
     "85b3b15c4f94dd6da2ec6e0d00c3556be21736cb7816101c54e20bb78056ec36",
     "c135f94f9665b1abdade22ba4f82fc227e48a5bef723d7737bf4a4e7d5b9d43d",
@@ -8002,30 +7992,19 @@
     "968b1e003357748d398e52c90c523298fe02e4206a52cf2c7b63140f39f24e66",
     "8a60d6a6acb840b18cf67a4e700ccdb79e1c06dc0b998f26636f4e39046189d0",
     "624aa24998ba90265a90f919ac39ff219f4c3f7f36b675e3cb1c234ec5aa5d47",
-    "3df84a877a526983a7769c497eb39972fd5e160972f78b7c676b7e0f6252809c"
+    "3df84a877a526983a7769c497eb39972fd5e160972f78b7c676b7e0f6252809c",
+    "5d9944681df430905dd05be8769576bcd9febad84f5caa7ad93d6993c9bf56e3",
+    "fc92da1ccca21833011f4180ad1d94b2f7bfc67be4c5afd6b7d1266992ddc709",
+    "0ca35f27fb3972939d6a03b6a17749d0747f063790dc7a34fc5a5bfe26236a43",
+    "1654e731b9fad43f59ae58b9320b1c6429c87c2fd3a9af6330cf53b26727bbba",
+    "4d880948d88c1a12a53d4e8426a70c4e54906811f226453c59378e34e22bea78",
+    "bfd1baaed212dc3bf8bc95d868eed09182e36d6ee3799e73582a2c16491ed0c8",
+    "dc9a569c7cf77b22052a2f3a51a9a724032ff25f726c182718702e94a419b8c1",
+    "2a0ce200df55eeccce6afd6af513df0dbb92e7a045095c6a9cada629b63498e4",
+    "dda22b520b34c836c8a5eaaa6c958de696aaa0426ee915a5659e99d9f10c8332",
+    "d99cbe3734b31bc89b4e8eb70232649b1a43ec7c9f762816458ffca287a22b25"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "Foxconn expands partnership with Nvidia for next-gen GPU and networking platforms",
-      "title_ko": "Foxconn, 차세대 GPU 및 네트워킹 플랫폼을 위해 Nvidia와의 파트너십 확대",
-      "url": "https://www.financialjuice.com/News/9856626/Foxconn-expands-partnership-with-Nvidia-for-next-gen-GPU-and-networking-platforms.aspx?xy=rss",
-      "ts": 1794954000
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "英伟达：为自身研发锁定数据中心产能。",
-      "title_ko": "NVIDIA: 자체 연구 및 개발을 위해 데이터 센터 용량을 고정합니다",
-      "url": "https://wallstreetcn.com/livenews/3201550",
-      "ts": 1794954004
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "英伟达：与供应链伙伴们（包括Amkor、Spil、Kinsus、Foxconn等）扩大承诺。",
-      "title_ko": "NVIDIA: 공급망 파트너(Amkor, Spil, Kinsus, Foxconn 등 포함)와의 약속을 확대합니다",
-      "url": "https://wallstreetcn.com/livenews/3201551",
-      "ts": 1794954066
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "英伟达：日本软银集团那些能源计划处于正轨之上。",
@@ -11504,6 +11483,27 @@
       "title_ko": "Societe Generale은 인도에서 주식 자본 시장 사업을 시작할 계획이라고 전해",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHpxX3dENGpUQW9tSGhkYi11NVY0OVdFS2ZsVHczMDBMbmJ5aG1HV2Z2TkZ1Y0ZVSVNkWDg4dHROM2FrOXJPZlNqeFJSRHg4VDRES1dOQ2poaktmSS13ZV85azNicFg5VUtNUkVaR2J3aFgwVDg5ZzFKV2VWWU44Mi1fckNqQWoyOEZEZkxLX1FGMkltX1ZKMDkwcHdGZm9GbDR3TFBRVGdTcUdYVUtiTVRJaHc2MVQwNlc5TkFR?oc=5",
       "ts": 1794980447
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "\"근로자 1명 이상 고용한 사업장은 건강보험 가입하세요\"",
+      "title_ko": "\"근로자 1명 이상 고용한 사업장은 건강보험 가입하세요\"",
+      "url": "https://www.yna.co.kr/view/AKR20261118117200530",
+      "ts": 1794980532
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Microsoft Foundry adds Baseten, DeepSeek AI inference",
+      "title_ko": "Microsoft Foundry에 Baseten, DeepSeek AI 추론 추가",
+      "url": "https://seekingalpha.com/news/4673999-microsoft-foundry-adds-baseten-deepseek-ai-inference?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794980594
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "‘The Noise Will Work Itself Out in Time’: AMD CEO Lisa Su Says Nvidia a ‘Phenomenal Company’ After Jensen",
+      "title_ko": "'소음은 시간이 지나면 저절로 사라질 것입니다': AMD CEO Lisa Su는 Jensen 이후 Nvidia가 '경이로운 회사'라고 말합니다",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63375938/the-noise-will-work-itself-out-in-time-amd-ceo-lisa-su-says-nvidia-a-phenomenal-company-after-jensen-huang-exits",
+      "ts": 1794980597
     }
   ]
 }
