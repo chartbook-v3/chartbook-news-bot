@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795045091,
+  "updated_at": 1795045240,
   "id_hashes": [
-    "c105288d99f844b4a5fae2bfb41d4ad89a64b9a5677bf98ce8f6cf1af0268c78",
-    "43c53827c71cf9c1f740d12df826706ab4d983dcd448a0c3e49a6cd867de8f39",
-    "bfc5c39ce72f9af5fc818e462705264219d732fad841e93ac1e28cac3726dca3",
-    "d1a65f335f87e1c48c87c9c6a52a9b45078e76cc779f28d30023a6100f93b66a",
-    "196126625f384f41acfb4d5a2fb02613123c4d1f263fc8750f0b05836dad479c",
-    "99c79ac2fc0402a29256af5f416b4c7fb7e4bbe0ca85c4b4f964198ad70969f9",
-    "37768dbf6c2a6be1937916309aefdb47a811848d857123241ac5fe65e647b8ec",
-    "89650f175e6c07cdfb2db71e90abc8b8f501c31fb9d0acae1afdc6ff9fe051e8",
-    "29e1b7fe81243809722dfcf3e1c355edd63028a920e36dde8cb2a38fbecffcd5",
-    "7323aaf672b52c455d54faeb593ef5aa9f02a40f84fa3913aa48fa49abc6cdfd",
-    "7d7e6952a4328a171c50e1410b295bbb2418d8d2b49a8e6ce8af3a4a46f32e0d",
-    "9242258019bf652e064454770e9666989c07bda64dcd9515e4966554a40d6e9f",
-    "afda9596376d7b1ee3dad5430ab2f459e235c23e75c0bb1c41e94a68361d7c6e",
     "d4970500cdc0a3ca02270e724bed15906bb3ef76f1bb4d0dd29b3ff648d07827",
     "632ed3c4490da1d77598b20c9fbf175cc63bcbe6426444d91a6f2c5b28cdb382",
     "19ffc13538b5fa2468ee17fcab0bbc57a235f4b08e5d4b52e83b1430a7796657",
@@ -4000,22 +3987,22 @@
     "0467b0109fa883d0c8f47a17740382909120a89c67b10112255f5127a3ceec9b",
     "042065c008dbbb5d84646b96938bc23c19deaec50164f6215f1c5b882a6d0fae",
     "5524568bb487c1b68a7d2e4d2e3ef2a8696319c54a16824c881425c4c5f33dda",
-    "0af818e1e8a95aa2a967089163005a602cad02999d60fa5b7def69823e5b4a03"
+    "0af818e1e8a95aa2a967089163005a602cad02999d60fa5b7def69823e5b4a03",
+    "537e2d5c4a092d604917a7feea0e9a1e53c0b90baa03375f662e8df1f763f835",
+    "a66d638fe427610b167f292349d5d8a7a7dd002e5295469c91b7c3bbf400b38e",
+    "11304c337ea2cb9f774f706481825b9581338e443a18e8fdca7306645e8a1620",
+    "5c358cd78493b998f95f48ff373bd5f6411a5e13abec404cfb566a8006246a4e",
+    "97784ef5c2dfcd36df2e07bdcca9b4c47e5da2403d5d2425d7907bd30b312dc3",
+    "9694f76a2ed3a4b03dc2f382d4c3d09bd5bde56e90e64af4cd9b2747ca1fde25",
+    "0de44d1daae8e01e3ceace6837bf44b08fabf8c303c8dc7f24fc17735fbf0488",
+    "9c727dc0b8fb51d5cd1552cba83fec8eee27916177b4480ec8e7b2878b090a78",
+    "64474b07bb80af11a799cfa54ca095804908c501bd7710a90718b5b92159f1dd",
+    "2c437c0145bcbd92fa741c092ea79d82e87d3f657f7a78c6e7cb2fcafe2374b5",
+    "bf0933232debaef39585a9b7f896196d92d222ef5675a3f12b0025deeeeb963d",
+    "f017526ad29f4d6b0689ef378e78b6db99859cbce5b072a0c92ec058ffa49201",
+    "dda081c88839f954aab547885aff706f5b2d7ebea42ae9505db3fba407cf017e"
   ],
   "title_hashes": [
-    "24f3af75224c9793229b6597764739b76c77e3f146758f4fef23233e6cb4ae0d",
-    "6dce3bde6551cca3cb3c87a38e04ab97e122719ed4af5fef96a8b605b56435ab",
-    "27fc14335b3eff677fff05a29bfa4cdfa6ced722bc1ccabe13aeead3b064da2b",
-    "0edec636979bb7dbbd495b63ae7fab0fe07f0d58e7c7b6c24da6601c28ba97ce",
-    "f7b420a7464cc6258e6a91c7a86e5f5d4b6fca0418acb915f113e0429b261598",
-    "aaee838ae500758f6b68b69d023c9e64c995530b0e37381fac4bf63a2911c437",
-    "c254f598afa857fe4946c70c544ebff7fb2dee7a9de39bf637f09fbded7dd814",
-    "a3787876f7f5fd1f50ef45eefde2b7e31e50bcb090f3eab82462c3a6e66e84cd",
-    "840aad44edff6c5170ce7f5942c67b4f8a1e3cd744cc40a2794ebcbac151df98",
-    "a749ae5538cd7edb9869521385d70dfedaae9d34687fb1b658791f3ee2408f71",
-    "03816f9a0352d4c0e784efbd2b3db30fc293b5ce4f0d3647144be7aa9ab01a32",
-    "ffdae5b10f514fbdfd43c23c86274e17c44414cfd695b403b893335fe7eab87b",
-    "cabf464f48095a333a10cf967bbe871cd5459338561e89bfb88dfc5807d4060c",
     "5111a83fdceac195ea79b77cab3569a48ff361de8490b0ce665f1aebf0d3c26b",
     "cc10f5a6a3e46b8ee4dd60fb35352d3e4728e989d23bbf4bac2e0664db7bda31",
     "353bdda16b0302fdac922f9b01de98fd53565d22dad8a68b61b49a5b27827cce",
@@ -8002,30 +7989,22 @@
     "ca5524e5af1d18653ff0769c5f1ae147aa2723f5e04a8c0f7f83e4ca787e9744",
     "be832f995658ce0456babffb81c21d5d9667047994b0958d67d0c1c03a6d880e",
     "c9a36d9f98a33accc5d0c50d1dfd0ff8d454a745b8e43bb47a52104ff850dce3",
-    "287445a530c6164212f0eeb23fedcdebe5674c3df9827c8ef5ebbd8420ec0a57"
+    "287445a530c6164212f0eeb23fedcdebe5674c3df9827c8ef5ebbd8420ec0a57",
+    "e8eeabeb3cec34814b2e673ee23c20f770aabb13137ce06bff1def57ed249d6c",
+    "1cd4f0a960063e7eee76b11e90ace981672abcfef02354922ce3250038228324",
+    "b3dcbe8e2f21934ba4425c79249131abe3144e5f58d1f6e6051b06a950c91c91",
+    "ba820c1949ca70da5e6e3e5fd27d47f190d16fc7f5b41b7be644bc580e5d6ad1",
+    "f058b5119745a367bef965ee31d562af836fa56a4ab699be2e8a93edc2ba1014",
+    "ce2e956fd495993024921479cc95e56ce7e5bd6f63d4abceab79850f8d751217",
+    "6b5405bc8fc3558430e95e44784dfd8e7349075c6d808580c12e4936d4cec155",
+    "ccc65ae6b32a6e6c66ad7d40f9ea358e093fa2c5f4a55b82ba94f6351e3c9aa2",
+    "c9d7b3e4c39e8385ad5ab1ae5425c076ace3962a2bae7a5a133749dbdd052f8a",
+    "9dd82e52ffe415dfcd0838655bceb84640156b37abec16817d77068a2e106e55",
+    "195fd4196cf03bcd9d901e1079e172ef2338b998aa63b5e5da6c40014a58b8b9",
+    "61ba924ab5c753126eaf438281ac8f6e7c10e2cdf219ddf9505b17b12059a2fe",
+    "177ac0b5822c161e54a98428636ef652a8998d239f2d25cd5a1d54a90c58e879"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "UBS SEES GOLD AT $5,000, SILVER AT $65 AND BRENT OIL AT $80 BY END-2027",
-      "title_ko": "UBS, 2027년 말 금 5,000달러·은 65달러·브렌트유 80달러 전망",
-      "url": "https://t.me/WalterBloomberg/38616",
-      "ts": 1795007660
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Huang and Lutnick both agreed to appear before panel - Republican Senator Scott",
-      "title_ko": "젠슨 황 엔비디아 CEO와 러트닉, 의회 청문회 출석 합의—스콧 공화당 상원의원",
-      "url": "https://www.financialjuice.com/News/9857859/Huang-and-Lutnick-both-agreed-to-appear-before-panel---Republican-Senator-Scott.aspx?xy=rss",
-      "ts": 1795007668
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "【腾讯：AI原生办公产品 WorkBuddy 的日活跃用户（DAU）超过1000万】腾讯表示，WorkBuddy每天消耗100万亿 token；最近七天的收入按年化折算超过5亿美元，是腾讯会议的两倍以上，三季度收入是第二...",
-      "title_ko": "[Tencent: AI 기반 오피스 제품 WorkBuddy는 일일 활성 사용자(DAU)가 1,000만 명 이상입니다.] Tencent는 WorkBuddy가 매일 100조 개의 토큰을 소비한다고 밝혔습니다. 지난 7일 동안의 매출은 연간 기준으로 5억 달러를 초과했습니다. 이는 Tencent Conference의 두 배 이상이며, 3분기 매출은 두 번째입니다..",
-      "url": "https://wallstreetcn.com/livenews/3201968",
-      "ts": 1795007670
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Republican Senator Scott: The public hearing way to restore confidence on chips.",
@@ -11504,6 +11483,27 @@
       "title_ko": "중동 유력 방산매체 \"이집트, 韓 FA-50 전투기 계약 체결 임박…36대 우선 도입\"",
       "url": "http://www.theguru.co.kr/news/article.html?no=109916",
       "ts": 1795045090
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "공매도 투자자, 새로운 中 의혹 제기하며 엔비디아 하락 베팅",
+      "title_ko": "공매도 투자자, 새로운 中 의혹 제기하며 엔비디아 하락 베팅",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445455",
+      "ts": 1795045112
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "하이브 日엔터사 ‘키홀더’ 인수…삼성證 “현지 IP에 하이브 시스템 결합 나서”",
+      "title_ko": "하이브 日엔터사 ‘키홀더’ 인수…삼성證 “현지 IP에 하이브 시스템 결합 나서”",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/11/19/Q5L3MMIHWFG45K2KJSODAV6OMU/",
+      "ts": 1795045175
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Big bets against AI debt, from CoreWeave to Oracle and the Mag 7, could soon hit the ETF market",
+      "title_ko": "CoreWeave에서 Oracle 및 Mag 7에 이르기까지 AI 부채에 대한 대규모 베팅이 곧 ETF 시장에 영향을 미칠 수 있어",
+      "url": "https://www.cnbc.com/2026/11/18/ai-credit-default-swaps-coreweave-debt.html",
+      "ts": 1795045177
     }
   ]
 }
