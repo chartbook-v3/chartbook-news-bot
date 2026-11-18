@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795042130,
+  "updated_at": 1795042275,
   "id_hashes": [
-    "81a9d3a445716f7257c5e01aaf7c44cd50829a40ad68b90eb1a1a4a52661f80d",
-    "6fdc2e5ecf4d686b1f1ce25bc42d2f94fca352d2cbff49a47c9b2be1a01eac21",
-    "e014b80639bd50175338df800e6959479be7afe60793a8f3830776724707647f",
-    "586d2987475418bdba3e11dc08775ddf766325b7b2d05ae2b00501c08ce10b31",
-    "218a03e59ddbda52b1b10bb1417584e167986e118c1391dfafb3df42183f0c80",
-    "24d38bce7f93e7e0bbd571e1c7739d10da33504881435f95433471c307b80136",
-    "40468f98802b5be2b994cc217cafd4b86819801c20e93123aa6c7894acfd0a84",
-    "4819ebabf06811c983bca52928998ce4a3135119cb50d94429ca14562f3a07e1",
     "ff098b867e2c77257e71f20382d45dec5ca48ed79003a670157d282926ee0dc7",
     "3baa6c264e18def25707a24f88932c04aa4340b3671d714f98d78363ee653cce",
     "c116bc93104ab99e7a87afcf467bf56a3aad4f2375e4db318ecca38ce79c0300",
@@ -4000,15 +3992,17 @@
     "25f7a5f871189ac220d3378052457e267fffc3593f83420f9e7c09aa55b9f760",
     "d71533fa3f73ab0bccf8694a5609806276392ace48f08d91ed76f059af19e0bb",
     "800b418bdd7fd5aadac2f3850a0825bcf8f6fd00363a853ece0c14b02b20152b",
-    "b03884f05476c6fa648210eb76d5da88efd511050ba1d85c50235baf25e81efb"
+    "b03884f05476c6fa648210eb76d5da88efd511050ba1d85c50235baf25e81efb",
+    "be3f9716cce1da7e00fa7ccdb869b142c467cafe398298b2067d4c503808666f",
+    "dd1cb2aa5588470be789fad1491eaee2efb1323dd49a9ab14d85ef1b58bc9f42",
+    "f5362cc099a3ec3e612bb29c30391259fe52b627bc668f9a3380df131ca57e93",
+    "0c235af8d51ee4c5e48c8fc7a2345c5295211c6e989b88716239e60f971c219e",
+    "4d7f7ef54651764bf515289a8f2c2afbbd09b1bc55082caaa81e5b7474dc8e81",
+    "a97f90e9b47158358cccd5cb6fde27af5abf9fa0ff1dd4950a80782611e8b339",
+    "d7947aa108b5bd28b2bb81db41ebf6fb6dd9dc27eb12bb83fc6aa7ab93d66619",
+    "07b5941047a6f7a6edb97acac999f29abd61b8fcded706938d0fbc0d18fada6d"
   ],
   "title_hashes": [
-    "0e1fb36d6dc8ec8db91fa5f1822f076389188667f4c97c78efb1d00371e3143a",
-    "98279b216e1a972779db1a982674ee9f95e165afa8e8d14b4b299139078dc092",
-    "c98e7470008bb90d0613d343df5418f071ddcaa6336c47aa78aa7ec1e11744a5",
-    "e10de9952f980db766f9717490037ee7da1a575cdc44bd97bee14f33122c7cbc",
-    "b93ca08d9abac50b94f8127ee92fddabd24781150334e512c305a1386aec78f4",
-    "219cba8c1d162b0974fcd76d3a8e7cf4ee397d00ae817db98e2e82c5acf5b8f4",
     "b4e23f328f855673dd473e0e1197362e280cce4920058e6cd06d1f161acf86a5",
     "6a73722476370ddad3fad0dee4482b80c2f4383c4dba9d866122eea17447d658",
     "f69056545c149a069ce04ef7989be24269f596920720783b809d19fc86b0139e",
@@ -8002,23 +7996,15 @@
     "a4a64874a4b5fede45c09105bfb0df5beb67d51f0835d6474c7acebc28dabb09",
     "593a080bc1debe78fc028a605ac1d7de803f3965613b8d35ae41fa20d5301e0b",
     "7312052c1a7208f6cb7fb7933439a2539a28e0cdfadb01412b35d4f1d0ee4349",
-    "6b36f3507055599d96c0f16ecc7f53d222a02bc2869601f3d79ac7207dfdc362"
+    "6b36f3507055599d96c0f16ecc7f53d222a02bc2869601f3d79ac7207dfdc362",
+    "3551b860fedb7777c90046beccf8ab0f86195394792404a6d3989d1a21378645",
+    "5fe72b009455bc654002c5270864cf2b67d7e1e1019a8d4c122f0fd4e9e91a33",
+    "116f27533df5001203dc623f9ba0dc8a73d80e1f8bfe674ec1442b2881bf3a32",
+    "1d084a8b3e1de1258d62352c6dc2a9695260e5a573b3897397bf74e415049a24",
+    "273fa69d223320f1b1c8aaa303253622a10840cd1940a61d36e10ddfe0763c67",
+    "f01fd6a2c459677f1b7fc013768695b0ce44e5533282464f7141529addb4b684"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "Fed's Waller: If the Fed wants to get inflation down, it needs to take more aggressive action",
-      "title_ko": "연준 월러 이사 \"인플레이션 낮추려면 더 공격적인 조치 필요\"",
-      "url": "https://www.financialjuice.com/News/9857806/Feds-Waller-If-the-Fed-wants-to-get-inflation-down-it-needs-to-take-more-aggressive-action.aspx?xy=rss",
-      "ts": 1795005491
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Fed's Waller: Roughly 70% of items in the core services basket are over 3%, which is not related to oil",
-      "title_ko": "연준 월러 \"핵심 서비스 물가 70%가 3% 상회… 유가와 무관\"",
-      "url": "https://www.financialjuice.com/News/9857807/Feds-Waller-Roughly-70-of-items-in-the-core-services-basket-are-over-3-which-is-not-related-to-oil.aspx?xy=rss",
-      "ts": 1795005498
-    },
     {
       "source": "Bloomberg",
       "title_en": "Jensen Huang Faces Tough Road with Congress",
@@ -11504,6 +11490,20 @@
       "title_ko": "머스크: 나는 황런순(Huang Renxun)이 미국에 불충한 사람이라고 생각하지 않습니다",
       "url": "https://wallstreetcn.com/livenews/3202218",
       "ts": 1795042006
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "HEGSETH REITERATES TRUMP'S THREE-PHASE VENEZUELA PLAN IN MEETING WITH RODRIGUEZ, STATE DEPARTMENT SAYS",
+      "title_ko": "HEGSETH는 로드리게스와의 만남에서 트럼프의 베네수엘라 3단계 계획을 반복했다고 국무부가 밝혀",
+      "url": "https://t.me/marketfeed/1081067",
+      "ts": 1795042146
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "马斯克：感觉（针对2026年美国中期选举的）政治开支“愚蠢透顶”。",
+      "title_ko": "머스크, 2026년 美 중간선거 정치 자금 지출 \"터무니없이 어리석다\"",
+      "url": "https://wallstreetcn.com/livenews/3202219",
+      "ts": 1795042211
     }
   ]
 }
