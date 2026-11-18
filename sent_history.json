@@ -1,13 +1,6 @@
 {
-  "updated_at": 1794962508,
+  "updated_at": 1794962659,
   "id_hashes": [
-    "52bc8b165f6c153721c75df1dc3e486178a7396a653af9ff51295d3fedc54fe8",
-    "e45cd96d88df47cbe03874940378d634143400ed3bdaa5a623d73b1b45f102fc",
-    "6a0936554fc3894e17b8bc25c518c156b3d1a0b89132496efb1db341424378c2",
-    "9afe38ffc3df4ae3fdc91adb9ef35356323e7e7a5f1ab5da7af264f5f7ce9bb1",
-    "930dedadb08f2646ef407aa0d9a1ddffcedb23d87b3a5fd25405d11580db28a0",
-    "31efc60da55634d75108a2ca97eebbadcca02c0796f25a6f5e2b6799ca4f7b0f",
-    "f0b33e9d2d57cb36203f4b63a8df6fde2c6f7115385114b58e4a484300ac6c88",
     "34aea7f953794aec3b45405ec34c8fd677099fcc2e7c06dbfdb27a14fa07a79f",
     "cfb41d1f5028c422debeb8bf344c3baa669eac9b8291b5e9af5b6ceed39a2b95",
     "019a4501f562ebc03bdcdf5be6c6b6ff8895f18bf98866a2548030e66699711c",
@@ -4000,16 +3993,16 @@
     "98cccee630d0c3c01f87f0ad8eed237db2664d3506847a63035d9a4805bf0d8d",
     "fb3c086c3de79eff3249d7e972e72f9fd3fee496b011d0550de72f2faf4df8c6",
     "fb56d6debcac24ab3999d05b2218b20cfc14068351097d6dd4cee982b01977cd",
-    "c78a424585fe026e52cbb6f978b84615bb5602af7077e01cd732769b30ce1a25"
+    "c78a424585fe026e52cbb6f978b84615bb5602af7077e01cd732769b30ce1a25",
+    "425a38e57ebcdc78efdc41c05d692f567dfaf74b5fda78ec99be3e650813ca4b",
+    "93c7a1227ab302a497ad19ae7b6a484f4766346dad1b13384ad129ef61664359",
+    "1af90aaa0ae3307c28a45a6c4104b444f019646756b814dffdcb4ab7301957e7",
+    "ff16a15039c73ba77bcb40d81638a9a1d2de9082af7f50cb8e5e5fc063fe4c6d",
+    "59dff70696d5cdab9804bfa665083e57d0210fd125014758bfe1e9ddfaad6c88",
+    "f3039850a294d44e0311cefe75945b0e1d89896dbe907aa4b627922b57e94e07",
+    "602470db7f4a5fedfdbe9e0301172deb139e42affea047bf40717e20912c3e98"
   ],
   "title_hashes": [
-    "fb506a7957270fd152acdac1787bdd5658b2f10a3a1f7e9af42f4f7c7b004654",
-    "523d6daeccb6bbc5a63c12cccdf8267b660ab65136f02e918498ec6a8de2cc90",
-    "85e7aef4396e037c2cbaf1b3a61fe454e7fdb08afe2cd36a476bfb58c75854cb",
-    "ce6b53ddd270b423f266f0c394533fb7978b9139fc906223619ac699e96bcbec",
-    "2ed097f9a849920562d86e91ee44ec50161a0449fa6243bf8c6321a2ca8ea942",
-    "866c5fea36543e07e96deb3616d685c31bdd34aaeb4a097a0a5a648de7b88593",
-    "2cce5228ebe30ed4d73714be3ab2419283b794b72513b2ef535ba6d9af1c3be4",
     "fbf19145e5c93faf502451420017db0ee19627bf718527caf7ec3ed97c7aaa22",
     "a7872b1c5e6442d46422349b1b0988cc2feec929b23aaae05680d30528a9da5e",
     "cbeabd12b3a83778166d70e64591b628065f7af61a2dd0f5641022c14e28b72b",
@@ -8002,23 +7995,16 @@
     "c4606121b39c47775f2690195a3a8b4d27626cdbfbada741fc5d5578ba38dfb6",
     "6bf1a9a22e1a56048ee736f65bad3894c0e5bc6ab84c34e1e5afdbf7b845c0c4",
     "3f6ed5b75a158b61ef22fcb3d6914e45252eff350bb2a821a7666f06001bd8e2",
-    "0ab5ef5909f74deb28f9032e4b1b4f0ccbaa657222dda68bcf09060baeb6b4fb"
+    "0ab5ef5909f74deb28f9032e4b1b4f0ccbaa657222dda68bcf09060baeb6b4fb",
+    "4e5a63062265cbc7001f87dec4766b48700899f951a6b110de3d302bf602bd1d",
+    "9f6bcaa8db928269982146921c1b4e4f6fdb63bcb4687262d22d160f630e00a1",
+    "c416d286bdc8a0ecfec6a9e4bc6ae96d2f15d368d44fb3ae5900ed01d2fcf50b",
+    "5bafea61157c545d635a6bda363af91c676f49ff1a5c399e8b145b9e59068b7a",
+    "c00269bfd0b1c02187225fbe46c86866b305dd632150688d7cf1d22ea961484a",
+    "a205e1af6abc99962153eba305d4de71bf0cc7bb139b3cbf1e4a9f69c7cf643a",
+    "11ade92813b4d0b94683066c25cb1c4935f713300ce28410a89eef416e3ac5d6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "OpenAI releasing GPT-6.2 Astra & GPT-6.2 Sol",
-      "title_ko": "OpenAI, GPT-6.2 Astra 및 GPT-6.2 Sol 출시",
-      "url": "https://t.me/breakingmarketnews/178394",
-      "ts": 1794941279
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "GERMAN DEFENCE MINISTER PISTORIUS: STRIKES AGAINST NON-CIVILIAN TARGETS IN RUSSIA SHOULD BE CONSIDERED LEGAL AND LEGITIMATE",
-      "title_ko": "피스토리우스 독일 국방장관: 러시아 내 비민간 표적에 대한 공격은 합법적이고 정당한 것으로 간주되어야 합니다",
-      "url": "https://t.me/firstsquaw/193564",
-      "ts": 1794941282
-    },
     {
       "source": "BreakingMarketNews",
       "title_en": "Microsoft: Voice AI MAI Realtime 1 outperforms GPT Realtime 2.1 on public benchmarks and Microsoft product evaluations. $MSFT",
@@ -11504,6 +11490,20 @@
       "title_ko": "Jensen Huang의 오른팔은 Alice Huang을 포함하여 칩 고객을 감독",
       "url": "https://www.theinformation.com/articles/jensen-huangs-right-hand-man-oversaw-chip-customers-including-alice-huang",
       "ts": 1794962381
+    },
+    {
+      "source": "The Information",
+      "title_en": "The Briefing by Martin Peers, Jessica E. Lessin and the team at The Information",
+      "title_ko": "Martin Peers, Jessica E. Lessin 및 The Information 팀의 브리핑",
+      "url": "https://www.theinformation.com/articles?page=732",
+      "ts": 1794962531
+    },
+    {
+      "source": "매일경제",
+      "title_en": "엔비디아 ‘깜짝실적’에 삼전닉스 상승…하루 만에 장중 5100선 탈환",
+      "title_ko": "엔비디아 ‘깜짝실적’에 삼전닉스 상승…하루 만에 장중 5100선 탈환",
+      "url": "https://stock.mk.co.kr/news/view/1201326",
+      "ts": 1794962537
     }
   ]
 }
