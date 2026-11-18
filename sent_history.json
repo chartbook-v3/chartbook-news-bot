@@ -1,19 +1,6 @@
 {
-  "updated_at": 1794984005,
+  "updated_at": 1794984154,
   "id_hashes": [
-    "d18c021495ab0d74769fe8bfcd8c08c45bc15cdc4b00a131f1b4bf34b07d07be",
-    "bb439186114eed076e135984b0b0dda9961f7794f34eac5b361ad9a7cce05751",
-    "c8b00eb16c3b8640c67da0552f63e816b28d187c87447664f18e7281f16ae320",
-    "38bf7f104b23e13cf11aa73fcca89c5d0bc105793585f455ce8064d2ffcddc96",
-    "48c5bccc2634787632464cd3c1796afaf3f0ac78d4777f2761a1d05fe0d2d89e",
-    "0a68451aad224f3f172b697e1313c1a4e6c328f44b6157411508ba18b7019371",
-    "93438a816b76797fb9be52f548091201f2b792db0ac10c03535bbb3ebffa6950",
-    "eea1565c450eaf85fa10df1295e7c0a25be3b1ee97e8ab625e2e4d7a3446e354",
-    "704b30c314962b06ce28bcf5d7eeb45fda9239ce48635f3025a83945447706e8",
-    "cd940d5a2bf48efbfe9286a2696ea8c1740bd60ea853f3eabb5a2f65f5b3df55",
-    "b8beae95ece63b9388629242246c68138d6f5b96f121bc133e26656da621eb0a",
-    "f98608a57d38cc267188de4eb14360a20dc61e498fe296be8b7ef08a51d87a56",
-    "64a3c34a82ae0f8f05ca99a5da42e285bc2e3ef9691a899702148e520e95d660",
     "b356b31a884fb19428724cc0485d6ce1283ef3d86822fe5b877e4b16668102e7",
     "57bc70c0223cd1f0c1ecc7baf5e46da90d4888131a6920edf79bd0163adc439b",
     "70dd321bb87cf900c5d00f73cfe7c6ffe8b50750659aa8cb9408b4f0bcc66549",
@@ -4000,21 +3987,22 @@
     "1d78bf4854b0a2e174225648ef6309aead73ba9f3bdca5a56d33c43eb64ac6b8",
     "da7446ac36bc6dc30cda2ef8f02a6d71bc4541e50921e95eb1ad47470031ca07",
     "ec1e5028f773aef4f46c1d80721c43b21681b928ea58eff18e4b083de583c148",
-    "7e0987e15d1b5d2dcd88c3f9b1670c36b19fe8f27d5000f881322f9ea4a50ff5"
+    "7e0987e15d1b5d2dcd88c3f9b1670c36b19fe8f27d5000f881322f9ea4a50ff5",
+    "afc161432d14d3284cf3d0531d82cffe7d4bbc92d7caf51601c9358bb6038574",
+    "42465576b38e75276a7fd798ce727a01a719a0abe688918aeb054ca27541d869",
+    "fa6ca616e96d97fad1afdb6bb1995a6ebd84c3dddaa0a02c193f59939d44128d",
+    "efab1a6fbed682a2fb5713cd0c495186fb189fc3150cf226428439b1b8d27da4",
+    "888997a6fe985e6607b1243d04307e0dacb5208f4931323c98bec7d97d93b9e6",
+    "a7975ff45832314d91a28bd299459cd10231de117ba5cd60b2198be3faacc96c",
+    "c6d691ea6f01d70abfab917d98243c7ec200a6c32bec1afce8127e82b4e72fd3",
+    "e3d374ae862cfd34e541b0d3559a69f877bb234169249a3f82d17caf508b3d45",
+    "cc16b9b1826e78e98192784a75289d6a8be507b7378a993a9f5a7bbe891f4074",
+    "39ce744c3498264cb97c5ad8d3f6500d9a5fb879245d52e91c95ca4759b8e297",
+    "a132fef064f702b55e573102cbcb2c0dcce78624812393ee7805221a70264355",
+    "69d7ff0556c8c1c003c5b13f8e720140d735e93d2f93eb3e5703dc913910c933",
+    "82f39619591401bb173a35c233c8d12192a03f55732a6c810a0c11889a7ecac6"
   ],
   "title_hashes": [
-    "5e71c0c56099f5c38f7b94536457e712e509dbac5b122a94b550547a168fe893",
-    "7b383a765eb977e0f9d57da0fee6f981749d4156b7300dc75cf6fa30532a238b",
-    "009113187fa779fb034a76933f3003e91940fb0ad20ce23947f8f1d20297d736",
-    "b2d139848584706458cd99a26b7582b60098769d985f7ce6d64889bdbae19e64",
-    "0dcb5e411517d820cfd868931cbefcbd9bcddf4f4907db8667dd450d23523f05",
-    "efe1c45350463e46f5f23771c6ea80787ef061012db48378bab5e3ce1e5b0453",
-    "ef2ad5154e7fb2e4221ca69353b21457503ff3f18970c03e2a1ff9a2b1c979a8",
-    "6d33fbb01d2a60900f0bd3eccccd120c7d5b895075a8092b5278be9f3e1ac6aa",
-    "9f904667e31ef5bb25bf03d099321e94aa043a50d2410172522ee867bee1f4f2",
-    "a7bdd2d57fa4e0093677d48553c782dde1008f4425edf75ad126e90f35c9736d",
-    "26e50079d44424db29d04933e1d476ef7084a33b198fc6bf585c1cb44f77247f",
-    "34bcbf47d3207ae9bf57dba814d0f1e1985758294612b84545e65a631480bf3a",
     "25401d8526d96e7e356c2a7b5b3e2afa607fca83b7f4a267b38d33fcdb229541",
     "8f9283441b58e5d78351b4932556f0b854bb22549c866d71c8f113fd2a750622",
     "a86f1fa2a6104d9b9137287ca76c7677895f5cf01b95d390c0a797eb0db7ec80",
@@ -8002,37 +7990,21 @@
     "e1dd18b570a0846d14bc3307b65d118053dc77718268205515a750e743d8154f",
     "fb4558c71a6249afac17719955276230abc8d14eb3d50ef56e9d62e9ae0879c1",
     "ab875711b802e45eaff3002e08703883ece9de460b14d0f4d2680b051ee294e0",
-    "f57cf59b008c5b2e065f4bb120058474236760634d094d14de657552dc1a325d"
+    "f57cf59b008c5b2e065f4bb120058474236760634d094d14de657552dc1a325d",
+    "21807bf448eb9d39e47625525b74959c38ba64fa8abb7edba6d1d0892aa35c9d",
+    "0bb0566c4312ffdc59103adb731fea4471edfed22a7d8d3e260d0baa935664e9",
+    "a1997dad72049505349f58b741516e363a7b2566cc6ce01b8fe0fa75aa5fdb95",
+    "aa482cdf9e940398f2834d0cb6f8348083e1a8f360ff8f60bde1114fa4d554a4",
+    "1d685a4933bf9d9106a6d29cf276ed9493b9ce8b2789ab1e1a58109cf06b973f",
+    "6f152418a1adc07354e69367c9402239cb64b8cbe6cc50f4d59ac919ee80257e",
+    "a5bb6d7d0d3ae2f5cda8530ffbc6826052ad728876c3c3ca84b6bb265c498173",
+    "1f7a889cb7c7906af343675848893abaa6c6bd32198a9e7c8bfe5a0b57cb05dc",
+    "671a4821de1b2624881bcdedb467bc46d93798d8da09264f169b6f40d55ed282",
+    "5ef24d109b3ed3fc81b6661888b971488edb346ab025df0105a7b6ca64987f86",
+    "3cfc1b908bf78890fdf2f6b93a0ac43bac4516180b5f2c78599bd3e3816acaaf",
+    "0ac07a866985f30af91fb8a89bcce2e848b9da9ab50a9df63fd060366fa91d23"
   ],
   "recent_sent_articles": [
-    {
-      "source": "이데일리",
-      "title_en": "[오늘장특징주]엔비디아, 코어위브, 네비우스, 어플라이드 옵토일렉트로닉스 外",
-      "title_ko": "[오늘장특징주]엔비디아, 코어위브, 네비우스, 어플라이드 옵토일렉트로닉스 外",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=01836806645647032&mediaCodeNo=257",
-      "ts": 1794955985
-    },
-    {
-      "source": "Barron's",
-      "title_en": "October CPI Inflation Rises 0.4%, Boosting Case for December Fed Rate Hike",
-      "title_ko": "10월 CPI 인플레이션이 0.4% 상승하여 12월 연방준비은행 금리 인상 가능성을 높였습니다",
-      "url": "https://www.barrons.com/articles/october-inflation-report-cpi-rate-hikes-864660ff",
-      "ts": 1794956010
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Pushback to OKXICE, Anthropic Perpetual Futures, 'Problem Gamblers'",
-      "title_ko": "OKXICE, 인류 영구 미래, '문제 도박꾼'에 대한 반발",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-17/bloomberg-crypto-11-17-2026-video",
-      "ts": 1794956232
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "谷歌公司：Google Wallet已经对全美iOS用户开放。",
-      "title_ko": "Google: 이제 미국 전역의 iOS 사용자가 Google Wallet을 사용할 수 있어",
-      "url": "https://wallstreetcn.com/livenews/3201570",
-      "ts": 1794956235
-    },
     {
       "source": "한국경제",
       "title_en": "엔비디아 \"데이터센터 초기 건설비 보증 안할 것\"",
@@ -11504,6 +11476,34 @@
       "title_ko": "독일 정부는 2027년 한시적으로 전기세를 유럽 최저 수준으로 인하해 영구적인 인하를 목표로 할 계획이다",
       "url": "https://t.me/firstsquaw/193788",
       "ts": 1794984004
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Citi Reiterates Buy Rating on NVIDIA (NVDA)",
+      "title_ko": "Citi, NVIDIA(NVDA)에 대한 매수 투자의견 유지",
+      "url": "https://www.streetinsider.com/Analyst+Comments/Citi+Reiterates+Buy+Rating+on+NVIDIA+%28NVDA%29/27365647.html",
+      "ts": 1794984026
+    },
+    {
+      "source": "재경일보",
+      "title_en": "누리호 넘어선다…한화에어로 자체 발사체 개발 착수 : 기업·산업",
+      "title_ko": "누리호 넘어선다…한화에어로 자체 발사체 개발 착수 : 기업·산업",
+      "url": "https://news.jkn.co.kr/post/1104829",
+      "ts": 1794984093
+    },
+    {
+      "source": "아시아뉴스통신",
+      "title_en": "한국항공우주 주가 1,000원 상승 후 마감",
+      "title_ko": "한국항공우주 주가 1,000원 상승 후 마감",
+      "url": "https://www.anewsa.com/detail.php?number=3219272",
+      "ts": 1794984096
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "title_ko": "주식시장: 오늘 S&P 500이 상승할 것인가, 하락할 것인가?",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63376257/stock-market-will-sp-500-open-up-or-down-today-80",
+      "ts": 1794984099
     }
   ]
 }
