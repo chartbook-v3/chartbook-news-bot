@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795025809,
+  "updated_at": 1795025984,
   "id_hashes": [
-    "81dba66f62b422bcd2570bb2aa25bbd8fded167bad8b5a75ca579968b85a9b5f",
-    "cc3f3a83f4dbd384ebc5397504de18dcbe1b07074201beda7fa1a6524c28b827",
-    "eddf1823325d9f4c210ff4903c9ab4d92811a8487de9b771c9ffc16f1aa18f02",
-    "31613a9b152fac92e98831689e8ccc6136112b85d8ba940d966e09006eef87bd",
-    "0023a56c9bd4a3e698c76097ad28a9ac19489d0146b41d87c1607c91b9413702",
-    "d1ad55de228949487b1d3db428f7fbca391b5c681bf57e1f63fba88da8ae133f",
-    "3b6689f352f67db958842fd95af1aa7b4ab65e8348ae0935cae8a62a1849e99f",
-    "a9df4134eed09d5c62b6228e117892cc58ae1496fc1549e67969d651eb9a21cb",
-    "ebe60ae9464331cdf3ed403ae5e24f3183c853ff51dafd29f44fb32bf55b61ba",
-    "434ccab3192cdfda328ff82ff4e38bd81b3f98c1f03403509dd7a273632fade1",
-    "84e43bf90ee79424185bc8e3290d62d5ad73cff50c70d9d2d51c0a76bad7f46e",
-    "12b8a7d53a223b12a64dd2979f9491382faa66a7657968f90dfd6d1420dac16b",
-    "7ec2e664839a724b60a4dbf67effd9b30f7355ffd0837f70868dd9313d245641",
-    "3f5e0b4419ba41c211d1b5c632e75bf316af604f059c4adf4b78fb80c6cb39e1",
     "d5ba9d3c21a0f301f26cba039f5194510b073cbb5db415b33aa2b3d4f3d3175d",
     "77547cdab4af91de0b1519fa8d5fb5bd9122867fbc43e138563b5b98e9fc565c",
     "7b4715f3ad8ad00851072c9ca4058f9bf87f6060ad9c45620d0d01b1f21fcb1d",
@@ -4000,18 +3986,23 @@
     "1984400164e03d3a9eaddbf9a75dcd61bb0bac8c3289aec42205ed257dee4c4e",
     "cae068d3a1fda8c701dff680f39daa680698833cfebbae57d5a7795d26e1ac25",
     "c1652111a72f427b707129b61879fe43a2d1ccd7a9ece4bf510846e38e17ba23",
-    "968b0f098d1580f8fb9ff187735ba3288b2dae2bd3fe16197470236a0b27db53"
+    "968b0f098d1580f8fb9ff187735ba3288b2dae2bd3fe16197470236a0b27db53",
+    "478fd7fe8eb36429029af7f19466ff647a377b617259425ff6c29907241601fc",
+    "1243197198c7c0a33474883eedd4cd4a802f293c27e33950da1411fe0b8b125c",
+    "653e047079655b9b65a9a414c59bcacd3861068569c2149005580bfbca976bf2",
+    "2762147e5978d1ed7ad4c7ed474104110ea40c18a1125ad83122db75aec63c87",
+    "c93a1bbebf3cbc8328db014f6726177eeb9ea6c57f6e0b671e3edc9b2b353745",
+    "80bdc67dde33ad136bd8a0f3cca7cd930158d8de24ac44026c06aa533b4d38b4",
+    "022ccde416c7bb6349f8cd25332a714fd5d07fa457bf3857e35d7e70d303cc34",
+    "26a28595bbf2122a60472f760b27ea1a5367f93459d1c5d0b454cf59316624cb",
+    "c57757dbce9c1c76adf056e090e5b6f11e1f0a98f1e3920a011453a0100c803f",
+    "47ac76dfb436ba72efeb13b38ab93af24e2b04ac96410eadecdd1f43f5a15dd3",
+    "29ed2ce55a02c2eb939072ece880b7f5776ada1cfe413b94abf585fd8fff7221",
+    "6ca9457d37ce68be8c2e9ffd1bc3b724238c0ed0c93dc08a69360b92bb02321a",
+    "494c6d9f1cc8a45adc24846a05c2d00d4a5afb7e688bc53e229f924100880c36",
+    "912d72428fcccadc982adc0a19bdee161f9b4c8fb8ce111b31406414858d712b"
   ],
   "title_hashes": [
-    "075fa6018e63cab1f3203c68e71358a55188efe52b1cd14c54a16b0a3906860d",
-    "829b104370ae6d6714f46c9c002426e217421a40568b1554f6da0b6dd847f7be",
-    "2456e3e68d22dcd2e054bb10da50d3c1c94ea9e28ddefdd2fcf22512285c463c",
-    "89d161ba6bfee68a3863bfbc2758c4a84b09aaed397603631f005c861e4cd10f",
-    "347ab583871a572083510595b0edb56f247561c6133fc6099526f83ba1c76748",
-    "c968430031d0739c17b34e4e7d06d9c07fea80d60a7422fec1dc691fc2df6a23",
-    "ae53bb42d3a057fe5f4055f08c46b556517982628f3c10091f6aef0e56fe6b7d",
-    "f81c57cb4e83544c31e3ac631d3591f389c1d28a305ed96dc71316977dc79790",
-    "c4da9020423eb8b356d52e8dffa6ab046b6bdb6a3a5cdea03549f1976509be07",
     "ca7f03f533a29d41caece0c898739ce6ccee46b5458c9f97f4e0c3d58991ba10",
     "2d5df355378e44a0b8174e6e8843eb583c509f9a777a83aafb6bb06b37f36fbc",
     "23f78962ae90829801b825ad4a74ce8c07b48665a80afe55a67e09cfd2becfdd",
@@ -8002,37 +7993,18 @@
     "3c712f3088b7df1aabba7082676b0f7b71c2c5abc080dc538b9687f9f3c56afd",
     "3f8e4898914f74a3e99847d3981c78735a7f2a5a6048a37cb480ca82fc063219",
     "f9608a838e69039b095e5bb786590ff867898a44db6d51e98b0bedfb0a751e2e",
-    "94cc0603b12591502a8f16401b663bcec10ccb8c148b289be042ccbd82b74449"
+    "94cc0603b12591502a8f16401b663bcec10ccb8c148b289be042ccbd82b74449",
+    "7116e8f656d8803ec5347294454758ba181fd286424629b9eb38737458c2f1c1",
+    "7dd36d6cdfeed7b3657ae16297fd6a4a9e4e53b3745aceaa6a7e2f30d386d3bc",
+    "20ded326b4690c81b6b318423785a7b53bb6b40edef398cad253cbf9da4f68ff",
+    "a5974f2f2da9ba1eb370837eaa1898329bb7e12798eb72302ce2a66c8671e215",
+    "0252b4b31a6ecc951afa7954f59ac446ac7b44465a611cef197a756808815be5",
+    "2a22fc40b3389d13098087a564bd9aa8895b1bf2cfffa75fabdf9bd5952f2209",
+    "7a153a0b7859198d6675eb467edb3aff587f3f438a2ffbb18611ba151b95875c",
+    "c6023f1158c6f993e4fe62a39127958e15ade3c040dfc82fc78d7e00f4cf5100",
+    "35d46ca63b2835985dfd6010e5adea2c472a6fb7bc7d9dee139387c73fc6493b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "CHINA'S XI GREETS TRUMP AT AIRPORT IN SHENZHEN IN RARE MOVE.",
-      "title_ko": "시진핑 중국 주석, 선전 공항서 트럼프 영접… 이례적 행보",
-      "url": "https://t.me/firstsquaw/193835",
-      "ts": 1794993069
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "SAUDI-LED COALITION SAYS INTERCEPTS CRUISE MISSILE TOWARD RIYADH",
-      "title_ko": "사우디 주도 연합군, 리야드 향한 순항미사일 요격 발표",
-      "url": "https://t.me/marketfeed/1080483",
-      "ts": 1794993088
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "내년 1만피 돌파 vs 반짝 상승… 반도체·금리에 달렸다",
-      "title_ko": "내년 1만피 돌파 vs 반짝 상승… 반도체·금리에 달렸다",
-      "url": "https://www.fnnews.com/news/202611181810023479",
-      "ts": 1794993152
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Samsung Electronics downplays concerns about neocloud firms and AI bubble",
-      "title_ko": "삼성전자, 네오클라우드 및 AI 버블 우려 일축",
-      "url": "https://www.streetinsider.com/Reuters/Samsung+Electronics+downplays+concerns+about+neocloud+firms+and+AI+bubble/27365886.html",
-      "ts": 1794993218
-    },
     {
       "source": "파이낸셜뉴스",
       "title_en": "AI 투심 살아난 코스피… 5000선 회복",
@@ -11504,6 +11476,34 @@
       "title_ko": "수요일(11월 18일) 미 연준의 익일 역환매조건부매매계약(RRP) 규모는 3억 3,100만 달러(7개 거래상대방)로 전 거래일의 3억 5,100만 달러와 비교된다",
       "url": "https://wallstreetcn.com/livenews/3202110",
       "ts": 1795025808
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Read Jim Cramer’s full interview with Nvidia’s Colette Kress: Demand, buybacks and China",
+      "title_ko": "Nvidia의 Colette Kress와 Jim Cramer의 전체 인터뷰 읽기: 수요, 환매 및 중국",
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-colette-kress-talks-earnings-china-transcript.html",
+      "ts": 1795025847
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Nvidia’s $105 Billion OpenAI Bet Has a 20-Year Catch",
+      "title_ko": "Nvidia의 1,050억 달러 OpenAI 베팅, 20년 만에 성공",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/63403457/nvidia-openai-105-billion-bet",
+      "ts": 1795025977
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "谷歌：Genie 4现已上线。\n\nGenie 4是其最逼真且交互性最强的世界模型。",
+      "title_ko": "Google: Genie 4가 현재 온라인 상태입니다. Genie 4는 가장 현실적이고 상호작용적인 세계 모델입니다",
+      "url": "https://wallstreetcn.com/livenews/3202112",
+      "ts": 1795025979
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "GOLD SLUMPED 2.9% TO $3,737.79 AN OUNCE, ITS LOWEST LEVEL IN OVER A YEAR, AS HAWKISH FED SIGNALS AND EXPECTATIONS OF MORE AGGRESSIVE RATE HIKES BOOSTED THE DOLLAR AND WEIGHED ON BULLION.",
+      "title_ko": "금값은 온스당 2.9% 하락해 1년여 만에 가장 낮은 수준을 기록했으며, 이는 연준의 신호와 더욱 공격적인 금리 인상에 대한 기대가 달러를 끌어올리고 금값을 치솟게",
+      "url": "https://t.me/firstsquaw/193919",
+      "ts": 1795025983
     }
   ]
 }
