@@ -1,28 +1,6 @@
 {
-  "updated_at": 1794985911,
+  "updated_at": 1794986082,
   "id_hashes": [
-    "d8df6e20bba1e4e00556876c1db23993f694fd04e1f9329a7f57e591ebec7f22",
-    "65319074bb4cf3d3c75d47e22fb5bb1155a6d588f6139942e9517d36875a243f",
-    "5bc9c92965beba56d9dd2a4f9ed76c8f50eb497509f04f7f4be9987dce8360b6",
-    "a7a0498d65af56f6933862c920ce970a8494e2a76e6109533510606a0b7a9a39",
-    "b4b620879570b7fc0ea7c94b7aa8db632b23297bb77defcecc991c78dc56da16",
-    "01d8c50cfe70b1977a88a5a0a9d5b2e4e97cf747e8cf54b15d4e243ef5c6497b",
-    "9bb2721f2d52f586f420e8c72358e4a042c0f9caf207aa4988d7cd1bd53ac703",
-    "92ee08cc8c535cfc26bbf2d9fc41e113ee92634fa1bc771da6c0347eb15331e6",
-    "c467ceb1c3ba9659687193076c6c71622a88e8ff2bd446cf98dcdc5bff455887",
-    "261bb78d51df8f25898050f65e1ba213cf7e6419bc0c27e2941396ca0cddc63a",
-    "539f68bca6513af3d5cc61bb3c44292f6fdcd554a9e423b290e1aba12a5e2af6",
-    "80825972633b77c6db3946543534e3c3a1afbb2aa693d596e790117ef3c60ed4",
-    "9a87a97f62f1082a17cf9706ee3bab3e00ad1987d71c8ef2e822dc980d3321d5",
-    "d2be273a8c7053753db0ed29709944476a99dd923e4c0ad620874eca85f061a3",
-    "a638cd65aebdaf0d375dd2a14a9a3d70ff3a2032f00e4ef608a1d1246d50e60b",
-    "3267da9c07990b03d184e483c41b86177f4ca3a8d8d75c5c35c16688270cf039",
-    "74b6615b92995ef61154bf7a8f60dff9982d9392059bbcc26c196989dd4f86d8",
-    "640ba6ea0046f7b4ac82c100401be8870b9e9ed3fa051d311997b89dcf5955bf",
-    "e9b895435de1a1bb43b07e5aad4e73a1879e95673cc20739b7075286699fe14f",
-    "8d4d3dc0275ee90536a2ed020a8abd1581a95ee14613fef243fb1521971ed93a",
-    "05d86a9a43041c9e99da572f26812f1fab37ad22e5060cddb39a2e22b1ea9abf",
-    "d32c787ff9f4621feadd85712be9c08b37437f1d93921332483595b6a0dbb40b",
     "2869d8ad053295ee08d0cc883586605a9bff6a00e1802560f4a654bcdeee28db",
     "0e9fcd04b8e9abf07f720ec2442ef091a3530bd3aa737f3840516a0c0cfd361f",
     "fce4a2b028774a885551d99bcd43765506ef2aced985de6ded4546820977e152",
@@ -4000,29 +3978,31 @@
     "135abfe9518650ad6509a3730bd10a92b6c575f7a5cebd78093cd53dcda6e35c",
     "d6391ba51d7d7eb8c50baaf82ab8f0d75f72199f24931c66b92cbc252a3db767",
     "ed441acd8e77cac38b9713306306f6249c5f0ecd3f08809353d9aebc706c4e70",
-    "a3978110774a49df4b7662e8ffe00d5e344d90a0b10105f3d92a4354e6101753"
+    "a3978110774a49df4b7662e8ffe00d5e344d90a0b10105f3d92a4354e6101753",
+    "8d51a7ca9d4f72afc056de0fc30608b3d102ba1700b3f169cd8e81eee62537f2",
+    "eb284d18f08d1f0ff093bf07a4bbbb30b745ae191179c43e12bb80273d84ed57",
+    "cdec689a29de7825e544f8fb1228b5fb6220403c866331c84fc685ce897057b7",
+    "94113dd84c227da0d005498feadd3a219b221b4e08f3f29a486f0312d451dcb4",
+    "7172145cd91952e69fbf9dd6e885bd0cafca35284ecfe55a309531669015b50c",
+    "408cbe9fc61f3d1aa834f28342249399e1e635b7c5e1b4c8334179af6a38f1bd",
+    "cc37c0412b5d4334db5873a8ea092e420c0ba89c5111b92d6367e2931f263add",
+    "e9eeb719c8e18f61e3b8fc6792dc2e3c00fa0a87ad499c48d32373416144d65c",
+    "29701589441d1fbfc508497d71b583e8b21900edcaea9730a04c6be0464d125a",
+    "479c33378b9905c53a28d3e929c5dabfb0ecef9cf547b9711765bed46117da30",
+    "33e09d67e3b9a5278334b74e747cbb96b13273cf0ab20cd5179f6cdfb549443b",
+    "c6855b4cd6db66b017fe8ba83e3d40020fd98740d86b2dab0c1fc2ad22d02380",
+    "be9ec9e21c1759e56e38ab8a71e28a26ee36099dcfb4f672c7a43f96e3f95025",
+    "de75012a1a70edf9af3de296577be6840a971d8ed778afe731bcaa882b8613c9",
+    "b679d9b83e1f28d389fb88867f046ad6105d0ca86099183b54a4e505310319f0",
+    "9e588c932a4e5b75d703e72e1818a511b357a7b3a4b4905d2cfb6d06f1115126",
+    "03b2ce57ba5013f853ceadf29848ea44fdedd1d4ef991f0a939f55cc632eed10",
+    "00a5b1220b529e31b5532dee70fb1f78258c127f679f59c188fb7cb0abdce520",
+    "d2fc1fa3917c78a3ec4509aadb66cfe2c1466905ed3e018d78a1fe45366292ed",
+    "73d7c6db5bbebe56d892e4ef1cebb7cf56c68ae5ad9bb66d7cd8666b92a10069",
+    "7a7fed51aa922fb7aa2e648a3f535c81d46eec6a098230d6b94ce8a000742c76",
+    "15b163d27f00fb70a77c3a85632e9c459c8414d5b8458d86f90c34d03ab47f4d"
   ],
   "title_hashes": [
-    "e8b78053022243798ade5ef8c6bf3a105afd115f9e11a7c2665ebee3f3e7a05d",
-    "e8841e111b5fb6471d2c4ad1a686a3adfb513213de6da3aca68bc5a3374039a3",
-    "1af87ea18162d5e5afa8d4a3cbe260185110a532cbd800d3f946b05759a79e40",
-    "0d59b340357780c4451bc0c973f77ab5ba4f4e4d79343ead7b9b2f9fe62f5299",
-    "ceffd1b76e2ac1895eeaf4524fc7a4e96643552577d8cdfda1cc040c9f57dc5d",
-    "073c637e149f4b7056aa33d9b9428cea0ef51c5da68fb65ac95c974da80be539",
-    "e06c634838262d30ba4886b7d4f6e767ebfbe3ba821160cb2faf36fb07ee1a58",
-    "b9a1163a8b0db3bf8633de4ad91d6ade418c2fe9b8119560f94cd0cdb8f1b322",
-    "63b4de4731fc50079629efb5362a5c3f9a0c936532197f0a380f6c1e79e3837e",
-    "9d62a0475fbf80203ad7b7f2b2d2441c8266135177af5ee93ce3f575b6c8c4cc",
-    "ff0e9b4cbd67560244502077a8a43ff314fdaa5e06651fc671772aedd7c0c5d6",
-    "65e9ff5f684b98e01292339fcd996d7bc276996d5f3c932daa5889ccf7395256",
-    "21c2f3d9b60476df519b920fc135638d9a5ba9198971051b6f163ed655af505e",
-    "304b5a06dd2486ba7c7b4c61f653810b59a1bfdfbbe362f96e4e8e3d9ef9a1db",
-    "7d29d17c03251218534f9a6303831b3ec572b948b31286c1813996064877f6d6",
-    "51809bb1350c6ea69a0cb6f08fc1be149374a40ddf5d089f32a6876c79c93e64",
-    "b21c0d028ee4b3b429490fb1738e8f27373db3ef7c5733ec1e07e1b3f277c9d9",
-    "af87a89b9f9352aef5e520c52c37a1f0f28adfc39a84044b94f374fa30ff728e",
-    "509d6949bad5939fd6033a4f5372dcbd5f6769eeccc77b3fe91752a663779eec",
-    "50c59dcdb8e8ac158af5f3e7e46e6aae67206e02b620dc3f322043dce606245a",
     "3fc48124679acbe0d07d6957334cf10f73c99e8e16a4e83ff68ac49420f2ef4d",
     "cf6f2dec87b08d479143a4946f4335b11db206358312330be5447495c33823af",
     "d253b4b778cbb65e6bc08145a13a0859d051bb7dff2f167382d28df3d1744bb3",
@@ -8002,65 +7982,29 @@
     "d1f3f353dc59cd8e57905a7491823fe4fc6c83c59f30aae6a0138b78a9daa4d5",
     "6f27d6e09e08a15515bc24f745fe4e529d55bc4a5233d1d463ad9e398fb463e2",
     "edd3534aba24e80491514a387e81c61844febfde518fae8cf79c8e71f5ec9578",
-    "fa272124afa9b713bc5a176ac7c91f45034af6bc895a07afe4f1acbe0dcd809b"
+    "fa272124afa9b713bc5a176ac7c91f45034af6bc895a07afe4f1acbe0dcd809b",
+    "b3fc65ee90120a16a749d4daa5941595e46dfc56294b55b6b03a8805bccdfaca",
+    "23c26e3b4bff85fd157e5d12d8c181d4565401c9a5a9a84cc5f0d6350cbf5e47",
+    "6fc147a71d5a4c49d5a377801b06f0e4b21150c388db5301322dcdc4e9112416",
+    "4146a4fa83a7b8c437164b3c64a491e1347ba87be9e643f2bbb1c37ad2f75af7",
+    "106dcc767e957433aa235ff3cde2d88f713dba3b705becf022f66dce59f123c5",
+    "01e2035e47f6244376734b501d5a1fd81d7dbe8a495bd0af695c78d60a67c83a",
+    "6576acd78596f36193fd67109302ef7a41c02c521bc7e86f2bcca5de577038e7",
+    "b3f8fa8cf4bc93457ca511c8833f40887bbd017da7873bb7a8f2ca5aa1c29591",
+    "93ce39f3fffd9494ecbd330964c681bf186b9ea40f32084da2c01487e8097863",
+    "999d5131396c3b46076ff3be42a0d2e7a0d3d4f6db058c8cad9441c748a16e47",
+    "0d4beba29f12161285cc11c86732b73ce1c0c5bc4e8005649d0bcab389b6ca0d",
+    "96b4d8a792b72ead50d1853df3703e5ef6bc9028dbc81806248124324e88404e",
+    "41f74dc8c96b76a7deeaa1ee7fe20cbe9174ff8b02604820556a6930dfaedee8",
+    "84b8eeedb874f00c49501ffeb79cad16f3e8c4115ca5cf1bc56f48bcd02cc9ac",
+    "755f599862716fca38ab7b9a2acb1edf115abc0e54ae58eaa35e0990bee7467c",
+    "c1f3b8b1b0c9bd75b3f87ae6047178626ef375905ab2858ddcacca087e5c6379",
+    "0b665a3dbf040f062ea49cc77176d7130b6d447dd08b76e8a86b26488fdd730a",
+    "51bbaf62d385c9f9f47376927fb4ecf19795ce69707b8b8c22887046234f3e4e",
+    "dc5eef32a7dab808281fe6793ff50db051d3ed4371f8f25065f692aedfde6368",
+    "6d6280068fbec53a393156154b4cf22cd8a0a7e04f6eeea747453f4cff1b187b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "🔴 JAPANESE TOTAL TRADE BALANCE ACTUAL -476.5B (FORECAST -1078.4B, PREVIOUS -536.6B) $MACRO",
-      "title_ko": "🔴 일본 총 무역수지 실제 -476.5B (예측 -1078.4B, 이전 -536.6B) $MACRO",
-      "url": "https://t.me/breakingmarketnews/178479",
-      "ts": 1794959536
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "TRUMP APPOINTEE RODNEY MIMS COOK JR. ARRANGED FOR A RUSSIAN FLAG TO BE DISPLAYED ON ATLANTA’S MILLENNIUM GATE MUSEUM TO HONOR ALEXANDER DARCHIEV, RUSSIA’S LATE AMBASSADOR TO THE U.S., WITH THE RUSSIAN EMBASSY SAYING COOK INITIATED THE TRIBUTE AFTER DARCHIEV DIED ON NOVEMBER 11 - RUSSIAN EMBASSY",
-      "title_ko": "트럼프 지명자 로드니 MIMS 쿡 JR. 고(故) 러시아 주미 대사 알렉산더 다르키예프를 기리기 위해 애틀랜타 밀레니엄 게이트 박물관에 러시아 국기가 전시되도록 준비했으며, 러시아 대사관은 다르키예프가 11월 11일 사망한 후 쿡이 이 추모를 시작했다고 말했습니다. - 러시아 대사관",
-      "url": "https://t.me/firstsquaw/193646",
-      "ts": 1794959539
-    },
-    {
-      "source": "NYT",
-      "title_en": "IRAN HAS HARDENED ITS NEGOTIATING POSITION WITH THE U.S. FOLLOWING SWEEPING REPUBLICAN MIDTERM LOSSES, WHICH TEHRAN VIEWS AS A VICTORY OVER TRUMP, WITH IRANIAN OFFICIALS BELIEVING THEIR STRATEGY OF INFLICTING ECONOMIC PAIN THROUGH THE STRAIT OF HORMUZ HAS WORKED AND NOW LESS WILLING TO MAKE CONCESSIONS",
-      "title_ko": "이란, 미 중간선거 공화당 참패 후 대미 협상력 강화... 호르무즈 해협 경제 타격 전략 주효 판단에 양보 의사 축소",
-      "url": "https://t.me/firstsquaw/193647",
-      "ts": 1794959544
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "삼성전자·난방공사·전원테크, 대한민국 안전대상 대통령상 수상",
-      "title_ko": "삼성전자·난방공사·전원테크, 대한민국 안전대상 대통령상 수상",
-      "url": "https://biz.chosun.com/topics/topics_social/2026/11/18/4XHZRYAGMZBEXONAYQHMUP6Z3Y/",
-      "ts": 1794959565
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "월가, 엔비디아 호실적에 안도…황 떠난 뒤 성장 지속성은 '물음표'",
-      "title_ko": "월가, 엔비디아 호실적에 안도…황 떠난 뒤 성장 지속성은 '물음표'",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445268",
-      "ts": 1794959698
-    },
-    {
-      "source": "인베스트조선",
-      "title_en": "산은-한투, KDB생명 매각 협상 끝내 결렬",
-      "title_ko": "산은-한투, KDB생명 매각 협상 끝내 결렬",
-      "url": "https://www.investchosun.com/m/article.html?contid=2026111880011",
-      "ts": 1794959701
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "ABDUL EL-SAYED SAYS “I DO NOT BELIEVE THAT WE SHOULD BE IN THE BUSINESS OF UNCONDITIONAL FOREIGN MILITARY AID TO ANY COUNTRY,” NAMING EGYPT, SAUDI ARABIA, JORDAN, PAKISTAN AND ISRAEL, AND ADDING THAT “THOSE PRINCIPLES DON’T CHANGE, REGARDLESS OF WHO THE LEADERSHIP IN ISRAEL IS”",
-      "title_ko": "압둘 엘 사이드는 \"나는 우리가 어떤 국가에 대해서도 무조건적인 해외 군사 지원 사업을 해야 한다고 믿지 않는다\"고 말하며 이집트, 사우디아라비아, 요르단, 파키스탄, 이스라엘을 거명하며 \"이러한 원칙은 어떤 국가에 관계없이 변하지 않는다\"고 덧붙였습니다. 이스라엘의 리더십은 누구인가”",
-      "url": "https://t.me/firstsquaw/193648",
-      "ts": 1794959704
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "ABDUL EL-SAYED SAYS ON ISRAEL THAT “IT’S IMPORTANT FOR WHOEVER BECOMES THE LEADER OF THE ISRAELI GOVERNMENT TO RECKON WITH THE PAST AND WHAT HAS BEEN DONE,” ADDING “I BELIEVE THAT NETANYAHU IS A WAR CRIMINAL. I THINK HE SHOULD BE HELD ACCOUNTABLE FOR HIS WAR CRIMES. I THINK THE PEOPLE WHO’VE AIDED AND ABETTED HIS WAR CRIMES NEED TO BE HELD ACCOUNTABLE FOR THEIR WAR CRIMES”",
-      "title_ko": "압둘 엘 사이드는 이스라엘에 대해 \"이스라엘 정부의 지도자가 된 사람은 과거와 지금까지 행해진 일을 생각하는 것이 중요하다\"며 \"나는 네타냐후가 전범이라고 믿는다. 나는 그가 자신의 전쟁 범죄에 대해 책임을 져야 한다고 생각한다\"고 말했다. 나는 그의 전쟁 범죄를 도운 사람들이 그들의 전쟁 범죄에 대해 책임을 져야 한다고 생각합니다.”",
-      "url": "https://t.me/firstsquaw/193649",
-      "ts": 1794959707
-    },
     {
       "source": "FirstSquawk",
       "title_en": "ABDUL EL-SAYED SAYS “WE AIDED, ARMED, AND ABETTED A GENOCIDE. LIKE, FULL STOP,” ADDING THAT “EVERY TIME WE HAVE A CONVERSATION, IT’S LIKE THAT PART OF HISTORY YOU JUST KIND OF DON’T WANT TO TALK ABOUT. THAT’S INSANE!” EL-SAYED SAYS “70,000 PEOPLE — THAT’S THE, LIKE, MINIMAL ESTIMATE — AT LEAST HALF OF THEM CHILDREN. IF ANY OTHER COUNTRY IN THE WORLD DID THAT, WE WOULD BE HAVING A VERY DIFFERENT CONVERSATION. VERY, VERY DIFFERENT CONVERSATION”",
@@ -11504,6 +11448,62 @@
       "title_ko": "인도네시아 중앙은행, 2026년 GDP 성장률 4.9%-5.7% 전망",
       "url": "https://wallstreetcn.com/livenews/3201761",
       "ts": 1794985910
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "삼성전자, 국내 반도체 장비 옮겨 오스틴 재편… “美 공장 ‘이원화’ 전략”",
+      "title_ko": "삼성전자, 국내 반도체 장비 옮겨 오스틴 재편… “美 공장 ‘이원화’ 전략”",
+      "url": "https://biz.chosun.com/it-science/ict/2026/11/18/MRQGZESE3RGENLOCA3P2Z25ZMM/",
+      "ts": 1794985929
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "갤럭시아머니트리, 韓·日 스테이블코인 무역송금 실증",
+      "title_ko": "갤럭시아머니트리, 韓·日 스테이블코인 무역송금 실증",
+      "url": "https://biz.chosun.com/stock/finance/2026/11/18/AMOM6D7QN5FBXP42BZ2RDAMW24/",
+      "ts": 1794985931
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "India Weighs Tax Tweaks to Boost Stock Trading, Curb Derivatives",
+      "title_ko": "인도, 주식 거래를 촉진하고 파생 상품을 억제하기 위해 세금 조정에 무게를 두고 있음",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/india-weighs-tax-tweaks-to-boost-stock-trading-curb-derivatives",
+      "ts": 1794986061
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Trump Reportedly Traded Over $97 Million Worth of Nvidia Stock in 2 Years — Elizabeth Warren Wants Congre",
+      "title_ko": "트럼프는 2년 만에 9,700만 달러 상당의 Nvidia 주식을 거래한 것으로 알려졌습니다 — Elizabeth Warren은 Congre를 원합니다",
+      "url": "https://www.benzinga.com/news/politics/26/11/63376420/trump-reportedly-traded-over-97-million-worth-of-nvidia-stock-in-2-years-elizabeth-warren-wants-congress-to-force-him-to-divest",
+      "ts": 1794986064
+    },
+    {
+      "source": "매일경제",
+      "title_en": "하루 만에 ‘5천피’ 탈환…엔비디아 호실적 훈풍에 삼전닉스 ‘쑥’",
+      "title_ko": "하루 만에 ‘5천피’ 탈환…엔비디아 호실적 훈풍에 삼전닉스 ‘쑥’",
+      "url": "https://stock.mk.co.kr/news/view/1201659?type=theme",
+      "ts": 1794986070
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Insight: Operation Vivaldi: Ukraine melds man and machine to repel Russians",
+      "title_ko": "통찰력: 비발디 작전: 우크라이나, 인간과 기계를 결합하여 러시아군을 격퇴",
+      "url": "https://www.reuters.com/business/aerospace-defense/operation-vivaldi-ukraine-melds-man-machine-repel-russians-2026-11-18/",
+      "ts": 1794986073
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Nvidia no longer shipping licensed Hopper chips to China",
+      "title_ko": "Nvidia는 더 이상 라이센스된 Hopper 칩을 중국으로 배송하지 않습니다",
+      "url": "https://seekingalpha.com/news/4674009-nvidia-no-longer-shipping-licensed-hopper-chips-to-china?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794986076
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "유럽서 고전 현대차, 석 달새 5007억원 손실…中 공세에 수익성 비상",
+      "title_ko": "유럽서 고전 현대차, 석 달새 5007억원 손실…中 공세에 수익성 비상",
+      "url": "https://zdnet.co.kr/view/?no=20261118161202",
+      "ts": 1794986081
     }
   ]
 }
