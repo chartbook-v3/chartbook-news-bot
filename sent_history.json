@@ -1,35 +1,6 @@
 {
-  "updated_at": 1794973067,
+  "updated_at": 1794973243,
   "id_hashes": [
-    "6bde77439c11096bc3292609cc6b36faf1bd0e7d0ef5de17fd23f68b0234636f",
-    "beb45294b08f8c24c76467f9fbc0a52cdd56b536087a1b3e23a71e5e6ae669ed",
-    "684099a74be9fddd3e056c75f7f18de13f8938187db0a0513814cdb358df795b",
-    "690655ac5010fe8bd2ed8c5318ba4abc44cb4f65d1db97f60f7b7190affc12cd",
-    "372aa330752fe6cbde63a53d39e3f71a443224f34d89a4619779ef4bc08733f6",
-    "a1c1d15d9573e15a64864dc505875b1bc77dae834f5f92cf505a97abe3158c91",
-    "39d6eed34642988e4be6864d46e12d419694a013436c1e2bf3935f8fd9c04297",
-    "732311b403a6299758ba3e2eede699411a1a5f3b702a19ad3def490582173cea",
-    "9da91faa185d2678665cb033c7fcc89f0f3b743fa588e1aca357db323b7a5b6b",
-    "b25ad617578aaf8a1f2b930c151f3ec5fef05c765585e9ab22a26c2fe9af037f",
-    "b5ea07a23668851882c8224f2241cf57090f73b899a865d0d8a2195d8c356755",
-    "97cffd7874b50a3e965a53ca66c1eb59fb596efd7e3921c9f9f961e0b4285c01",
-    "0188aa3f50f8e4bf87b8aef3a8e8d708d01a4818f3880d11b4fa6f186baa2f3b",
-    "481a8ad4d7e473eb026f616ae044e0dd82dd51b140e7ab31d684f129c4491fc9",
-    "b53a12a2891cc7cb5cec67d2c0f9c307dabea853840832722e5476a542734e44",
-    "b8aa174386d27df16ade2b7d66319382bd2275b076fcdfd1c860c67f0313b1e0",
-    "1457ae8a42e11c48ff04ff87d72c83a6a617e1b53e4d50c31a1244e277654cf6",
-    "3e9c12ae2a8971498eea0b9a08b0668caf6dbd573d41e05bd7c5a4f23d3f0f86",
-    "52286045851123b98f638b8e524f552ad9de4f75d9a74015a249c484f9835ec6",
-    "fdb22634ed880947e276de7723282c7c71253f34ccb23a107281f4a35761d79e",
-    "83f4bdf422a6d7d08f204fd8738c28258d8dae5abd2edad4db85d98165af7cd5",
-    "5a3fb39c683b6aae36d20223a989d678ae5d54c2bebd3576b1707f6252b92e50",
-    "d9d7b758a189b44c21bdaee0df42e58902620919d6f046d276269d3ef578af06",
-    "8e9f98e6fd89ef34c0c0a5c5c0a4ec2b55622c7b331d985ce9151d9acafefa94",
-    "98f62df57a4c59e0dbbb9efba4004d8e6942c2a0ec88a37a72414e6f08bf1757",
-    "8fc12de2e3773de7e8e6a2365d57af4a86253e43f11260eb84769bd9a50ae8d7",
-    "ec15ad701216f27bbe594490d67eb38c7324008ddbab6aeead400ff7e9e7d695",
-    "c23f76e22fd1b8f94c465687f96dd33b3af31f9ae32a25b4348bf9f32f1ee37b",
-    "9d2a5398b03d20517e99c7dd4bf02515e2a943bd1f66b9d084a38fdf1fdbd22b",
     "71c13020256e9caea1c3b9d05a348c410c01a95c6fce2fc90f5b1ac5294b586f",
     "8d711c367cbe3ceb65b6f6ba57895a2c3f335af2b2b6d8a6ba3194c0a12261f8",
     "a1f97f968fabfb9ad32149e55cfbf78b2c7aa175b61df8cf2ec1a0968a2d6d3b",
@@ -4000,25 +3971,38 @@
     "642d17962635c9fa67bb931f3389811a2eb3fcffe63962eb4d2ff61b3f0446e6",
     "6bf593e33ebc0c88dcaab86d37f30fb245432f8246dcbb48fb66424ccae35747",
     "a8174c58ed0f4a065130e01ead51a4b5164c4acfb1ba68889628a564b21f1449",
-    "b0b7e07cc391b94d6a8bda5381428218129406b77a620885ea23bc8579611036"
+    "b0b7e07cc391b94d6a8bda5381428218129406b77a620885ea23bc8579611036",
+    "c2254f082e81c7f44144ae9b89f62bfe507420fd7df61c1ec5c37dcda39e4354",
+    "bf2cdcf6d08b73e68aa616b7144dcb5ecee873b985c8a9657046cfb6837c0718",
+    "376534ea2bec102e5dd50a77a8d7c1d7c3a421c7a9777150030a2fadd97f8e20",
+    "abdbe211f3b802a3b7af2b57f7139be18e27e46537aecf376134e189bc4430d3",
+    "7678ef394bb9da63933cfceb579d584104966775eac6a635cac6772462611d8e",
+    "31c33a7da6e3d3aa442973e6712a50d15e7a243901841bcb3d58f5aa0baae3b9",
+    "4d1bfbd7dda769cb9a4263c377e161e78ff35e6a2e9fae19f6878321ec6cd1c2",
+    "ce4ca0f5b61520d6743a7dc0d25489adeb45d8b55b3be6f33240134902abec97",
+    "d10bba5b4b17d9e4f1928e8791b28c1aaa0b87cf2cf49fd5923d48de2f01dc33",
+    "fc223b49125738627a5d216576ee6718f4f06c0b8bb02295d0c5908611ce7b19",
+    "0e390ad14c77fb2f5f6f853f3ed9b717d69c1feb9ad2d3a2d74a02d1b83dad81",
+    "6ad34cad9329db575321b54cb1c5e41396417a48f0dd6ac0d04417b57c6d613d",
+    "2c3875420e262af597044ddea7ff883f649ae931652ac9c919bb32cff9f65445",
+    "3193086a09ce566db3114a4c3628f0d3ad5cfcc17a9ba8cd4dda2f2ff8af0179",
+    "5bc2d5da9023144b6ec52da23853824093dff5678dad017e6d968d0c6b246ba3",
+    "fdec2f5c83e4685e13a39cb18a63a0d594c51876cd48ac00aa7cf558271776d2",
+    "d0a476a3c2346be4635c227fa5cacff958557e9e0fdb68e59d015b7d3962c7af",
+    "ed32520188372006ab0f8c98d2c946e8720aaac68eb3b0ab5ca6b55fb51e9a57",
+    "b6aebec26995573c2716711f59ddd6f6e514a83af56a8536e11e6272f4f908f4",
+    "db3e861138d978d9560107c36616ec8eeeffaa18d8b6421b4771c66402100cac",
+    "556a25775fea086afa9e28f98128cc9109745103db71aac338547bc4176b7c80",
+    "0c67988d16bcf35a12032f881d4580ef97da4332a365b3d2913fd69e2cd1e842",
+    "5bff0ba879611524f7d580a8f396f1ddc6db503aadc7cd7cf03f901fe04cfe13",
+    "5f50345a7aa15e4cb706ed206f0ed35e63a7e1e0bfa96d529d2a898cc08841c3",
+    "e215767b756ee3428af32bec1efe12da0a596be22f893716e6769ddb0563ce24",
+    "0b88d0ecb0500a861ffd9e0d0284f21f75643d88804867b20ac36c8c00ba3761",
+    "a46a875d488aa33abb314f1c61c3594b5c6e85636d4914ea057df1e1a6463f28",
+    "0b19ba3f9937aeaa43e2502d60f4285381658bd863ad3f2965730f87d45e749c",
+    "2caf95a467fcbc871988d9f8ff7cdb59296360c6333a49f214ec3b4b054df504"
   ],
   "title_hashes": [
-    "aae90b206c3d413d1c2ce8317d4e96b3bb0577cfb95835e4b024c66c6aef756f",
-    "51129e5cccf8068f0241aa0ae1f614f0ba47bc8d83282868a5189b3f0c2f2fa2",
-    "4bb3f1857d03b35b5b07e5c81b14161fe2555c4ed531046cc333bf3e59300fc2",
-    "e719c33168d15472e1159cdf636c9c7e8569b838f7c9723e74c92fa0a9d3e143",
-    "28a14af6b796fdfb6eca80e21272e80763b51b2b952f2306c547d4b859cd476e",
-    "d870fad01c3c87a21c0cf651221787e9c219a860992583bb220dc1bc83191063",
-    "461ff177363c17a0c8fffb67c8390fab49708bba1f751f872479318de5fe75a6",
-    "d666a823344a4243abf73f085e5de7597eb099686875b64caf8b35cf7fbea463",
-    "532a90ee34ca97a21821896a390ae91edeee90ba53409a66139ef2b19ea574bf",
-    "45730cc61da5caf3a7797e6a069cd4e16b28e2158c8ea1993b67b25e01898988",
-    "e6cae50e3d2ac478fa09cdbfe0d676bb467e1b359b169a7ccb603d8a0c6c34c0",
-    "f97db9f025904d911d80d41809b654271880c115579a89f7a4708e59cb4e1edb",
-    "d2c7a490dae600aa9056e1236e46fb1b7d322b49429f7f158f52f0a7e0eb5254",
-    "a31911167532930cd24da4a5889a1277a64ed8e4d99606ec80ea4fc42313f560",
-    "23d081e6aeb1ef9d624c4d4b234dd6b992dd88bda0c3ed23e251c17969cc376c",
-    "5c8bead32a879a12de3029837b4040d74fd990fd5c7e24f3f9560dd6a5161e32",
     "e32030c1d7e4858c6a536e0d303ced4d699ebe329d6e1632bbae60b799ecc5d6",
     "35165766dc263e17977baf45549da8f7659d645d879cf6c46bba365c563b6ba6",
     "d71c70449080a0486d301c05408d431fd76a53db69f59a9ba716ffc491f49b79",
@@ -8002,72 +7986,25 @@
     "b6b2a4afdf2465d2e4cccd91c5adf38a90883f826a08179cf4728b05d7073f8c",
     "c692a834cf20078815a1859626d982eae90ab0dee9c23bf1aea1a1715564d2e8",
     "7c7dded61cf2579d73a7b55658d2f1351a535a92568d89a16e44f521069755bd",
-    "ec3fced99fe55a268e09e491aa6b3d2452f71977fae262422cb2784fe845cb98"
+    "ec3fced99fe55a268e09e491aa6b3d2452f71977fae262422cb2784fe845cb98",
+    "9106b728707fae14c4bdf0448150f7695aa57384dc3156a2191986e1c93fb476",
+    "daff0c18671494d1e104a5359eb811783e166f5bb488beed1932caef86a3715c",
+    "657f32571e001a0eaf19be01d59f0e3b2c41d311a0af2597926aabe3344f88ac",
+    "19b3e2d401f735fe801260c738a78a364d9706485373661f96bf587e035f4791",
+    "cf50f66099f958995780874a8354cb42b069253f3621958f155d8a23ad0150f2",
+    "64b4bb5d4ea900ad984ed007dc818623cb2a89ba1dd42f024c67f939cd703592",
+    "e4a01e159be72ebc9d07911ea87ad203780eaf4712b5023ba534b6a7011968c2",
+    "74ecfc189fd2669738fa3b03c2ed6480b0e4c107f4877c57d3f5c4a73d6090af",
+    "c8f55f53f290e5c0c1a68b1714c62761238582b9d5dc9f02b2823998f7b7f2bd",
+    "d7308596e9625c57e64edf6d28bd405f81985d2072fe93e84fbae995b1181af6",
+    "a0bfc7e8e8429d95928e5b806de0ddbfb10cc82798e4b1cfba94e8b6ac50c38c",
+    "fc7b28dafdf1a16071dc7927a5c7d04205a642ab6d810865cc34d333573d1878",
+    "97ecec440642c470b25d1b65e025a74f9a3e09e93dcf91217eebccc39b3ff1aa",
+    "589829fd37c783067ce326df72ba9ab9e3d55f154746e813777ad4ce82c8de48",
+    "a1e3be7c42b5697e347e977ec2f9cf99f9e8855af81fbaaa87111666da28caf3",
+    "fe513cea3840a2412f4bbd96c28c0f446ad435d6f957f90cb3ea8f704137ff55"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합뉴스",
-      "title_en": "트럼프家 스테이블코인도 레임덕?…한 달째 1달러 하회",
-      "title_ko": "트럼프家 스테이블코인도 레임덕?…한 달째 1달러 하회",
-      "url": "https://www.yna.co.kr/view/AKR20261117158100002",
-      "ts": 1794949376
-    },
-    {
-      "source": "인포스탁데일리",
-      "title_en": "[1118주요일정] 로봇용 힘·토크센서 전문 업체 에이엘로봇 신규 상장 예정 등",
-      "title_ko": "[1118주요일정] 로봇용 힘·토크센서 전문 업체 에이엘로봇 신규 상장 예정 등",
-      "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=218971",
-      "ts": 1794949442
-    },
-    {
-      "source": "Tom's Hardware",
-      "title_en": "10 desk upgrade gifts to improve PC work and gaming spaces — a monitor riser with charging and USB ports, an excellent speaker upgrade, modern charging hubs, and more",
-      "title_ko": "PC 작업 및 게임 공간을 개선하기 위한 10가지 책상 업그레이드 선물 — 충전 및 USB 포트가 있는 모니터 라이저, 뛰어난 스피커 업그레이드, 최신 충전 허브 등",
-      "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/10-desk-upgrade-gifts-to-improve-pc-work-and-gaming-spaces-a-monitor-riser-with-charging-and-usb-ports-an-excellent-speaker-upgrade-modern-charging-hubs-and-more",
-      "ts": 1794949451
-    },
-    {
-      "source": "이데일리",
-      "title_en": "[단독] 개인정보위 조사관, 절반만 관련 자격증 보유",
-      "title_ko": "[단독] 개인정보위 조사관, 절반만 관련 자격증 보유",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=01334966645647032&mediaCodeNo=257",
-      "ts": 1794949455
-    },
-    {
-      "source": "바이오스펙테이터",
-      "title_en": "J&J, 올린 33.25억弗 인수..\"VEGFxAng-2 항체 확보\"",
-      "title_ko": "J&J, 올린 33.25억弗 인수..\"VEGFxAng-2 항체 확보\"",
-      "url": "https://www.biospectator.com/news/view/30430",
-      "ts": 1794949486
-    },
-    {
-      "source": "Tom's Hardware",
-      "title_en": "Nvidia employee warns of 'irreplaceable' talent exodus if Jensen Huang not reinstated — cautions board and top brass that 'talent at Nvidia is now contemplating departing'",
-      "title_ko": "$NVDA 엔비디아 직원, 젠슨 황 미복귀 시 ' 대체 불가능한 인재 이탈' 경고… \"핵심 인력 퇴사 고려 중\"",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-employee-warns-of-irreplaceable-talent-exodus-if-jensen-huang-not-reinstated-cautions-board-and-top-brass-that-talent-at-nvidia-is-now-contemplating-departing",
-      "ts": 1794949491
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "SA analyst: Wall Street faces a perfect storm of uncertainty",
-      "title_ko": "SA 분석가: 월스트리트는 불확실성의 완벽한 폭풍에 직면해 있어",
-      "url": "https://seekingalpha.com/news/4673894-sa-analyst-wall-street-faces-a-perfect-storm-of-uncertainty?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794949494
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Qatar PM: Our diplomatic efforts to reach an agreement between Iran and the US continue - IRNA",
-      "title_ko": "카타르 총리: 이란과 미국 간의 합의를 이루기 위한 외교적 노력은 계속됩니다 - IRNA",
-      "url": "https://www.financialjuice.com/News/9856511/Qatar-PM-Our-diplomatic-efforts-to-reach-an-agreement-between-Iran-and-the-US-continue---IRNA.aspx?xy=rss",
-      "ts": 1794949552
-    },
-    {
-      "source": "The Information",
-      "title_en": "Anthropic’s VC Investors Hit 10X Returns in IPO",
-      "title_ko": "Anthropic의 VC 투자자는 IPO에서 10배의 수익을 달성",
-      "url": "https://www.theinformation.com/articles/anthropics-vc-investors-hit-10x-returns-ipo",
-      "ts": 1794949616
-    },
     {
       "source": "Barron's",
       "title_en": "EP Wealth Advisors Acquires $1.4 Billion Bay Area Investment Advisor Firm",
@@ -11504,6 +11441,69 @@
       "title_ko": "트럼프 대통령은 필리핀 지도자와의 회담 이후 대규모 원자력 발전이 곧 이뤄질 수 있다고 시사",
       "url": "https://t.me/firstsquaw/193736",
       "ts": 1794973066
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Trump says both sides are broadening their military cooperation.",
+      "title_ko": "트럼프 대통령은 양측이 군사 협력을 확대하고 있다고 전해",
+      "url": "https://t.me/firstsquaw/193737",
+      "ts": 1794973153
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "TRUMP CLAIMS WASHINGTON IS DOING VERY WELL REGARDING IRAN.",
+      "title_ko": "트럼프는 워싱턴이 이란과 관련해 매우 잘하고 있다고 주장한다",
+      "url": "https://t.me/marketfeed/1080297",
+      "ts": 1794973157
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Fabric competition intensifies; optical interconnect and ASIC adoption expand supply-chain opportunities",
+      "title_ko": "원단 경쟁이 심화됩니다. 광 인터커넥트 및 ASIC 채택으로 공급망 기회 확대",
+      "url": "https://www.digitimes.com/reports/item.php?id=20261117RS400",
+      "ts": 1794973222
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "WesCan Energy GAAP EPS of C$0.01",
+      "title_ko": "WesCan Energy GAAP EPS C$0.01",
+      "url": "https://seekingalpha.com/news/4673983-wescan-energy-gaap-eps-of-c001?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794973225
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "China finance ministry auctions 7-year special treasury bonds at 1.40% yield: traders",
+      "title_ko": "중국 재무부는 7년 만기 특별 국채를 1.40% 수익률로 경매합니다: 거래자",
+      "url": "https://www.financialjuice.com/News/9857051/China-finance-ministry-auctions-7-year-special-treasury-bonds-at-140-yield-traders.aspx?xy=rss",
+      "ts": 1794973227
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "US-Philippines alliance reaches an unprecedented level, Trump says.",
+      "title_ko": "트럼프 대통령은 미국-필리핀 동맹이 전례 없는 수준에 도달했다고 전해",
+      "url": "https://t.me/firstsquaw/193739",
+      "ts": 1794973230
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Russia's Putin at APEC CEO Summit: partnership over isolation vital, APEC enables constructive dialogue",
+      "title_ko": "APEC CEO 정상회담에 참석한 러시아 푸틴: 고립을 넘어서는 파트너십이 중요하며 APEC는 건설적인 대화를 가능하게 합니다",
+      "url": "https://www.financialjuice.com/News/9857056/Russias-Putin-at-APEC-CEO-Summit-partnership-over-isolation-vital-APEC-enables-constructive-dialogue.aspx?xy=rss",
+      "ts": 1794973236
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Trump dismisses concerns over tensions in the West Philippine Sea.",
+      "title_ko": "트럼프는 서필리핀해의 긴장에 대한 우려를 일축했다",
+      "url": "https://t.me/firstsquaw/193740",
+      "ts": 1794973238
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "中国财政部发行91天期债券，规模600亿元，发行利率1.1061%，边际利率1.1585%，预期1.1200%，投标倍数2.67倍，边际倍数4.70倍；\n\n中国财政部发行182天期债券，规模600亿元，发行利率1.121...",
+      "title_ko": "중국 재정부는 발행 이자율 1.1061%, 한계 이자율 1.1585%, 예상 1.1200%, 입찰 배수 2.67배, 한계 배수 4.70배로 600억 위안 규모의 91일 채권을 발행했다. 중국 재정부는 규모 600억 위안, 이자율 1조1210원의 182일 만기 국채를 발행했다",
+      "url": "https://wallstreetcn.com/livenews/3201689",
+      "ts": 1794973240
     }
   ]
 }
