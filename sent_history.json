@@ -1,32 +1,6 @@
 {
-  "updated_at": 1794976250,
+  "updated_at": 1794976400,
   "id_hashes": [
-    "04ad0350a717d3deca5575aff253e83dd410d6c4a75a9c62fec0617cbd9c8890",
-    "9cb7017c2573933e7fe712157ca9646a36137922886c52e04784bb1e4f6188b9",
-    "fa6615f056daa76fa502830da658d9c442c3e870ba643cd8c4193392ad68802d",
-    "91f57d21042a3aef5b99628fbf5a0d0b3cbf93b01d663ec7703c1f3381d31daa",
-    "a921b3b94dd9a9fd5ec9fa1b0158b8ca79137e2f40d232fa22d69dcab834a10f",
-    "3a7794b667112cb6ed3e7adcc1a7f7f4f1e6b75bfdd9ed24667cf53e3de94afb",
-    "bf88a739ff94c9d8009871d417c84a8f9b5e59bc64e8328bbc6ebd960708b2c4",
-    "d169bd9de793dd72a240e779f834b47bb49fe19f91c13c86e98c7fa2de96225e",
-    "93f4d6163eef8112fd6136dca01e634987157056218355500605dfce6813a8ed",
-    "8adb9c76dcbba468494c56f40d3717a442b2becdb81ec0ee9d55f67701d00f73",
-    "b8bb7036a92b3b4f25e3db64bb1ee3a9cab1f3c40ff92aa45ed8e0aa8c4a16ab",
-    "1ec6c13b346c0bfc722f83252c390dee31561bc759b7b0d3f19c1e6ce0c62587",
-    "25af8b2576ed6a93b82a451b28b9229417c4c49eee25a7229b88858c6c7222d8",
-    "9d0263a69e6e3deaa04cb713263e5d77d05a05086adf37464571b71f7bcc9be6",
-    "793502902201854a4fe4bfae2421f3ca3efadc15c32bee139358f12bd7e3cf85",
-    "a4261dadb1700386ef00d52d95bb1a31c99fec9a6cdd1b224c3a33639f34d7db",
-    "3989db938188c5c55d5d6cea2d89f9d6d90fa4f4cb666501c8cc7acac4ea6447",
-    "71fc8a0f0c93c4d25451d600e49eeab226389b716152e05bb6cb853dfe900ba9",
-    "9c0b61d25b0e0957f2d74b385096d3400174d3ea1559d15b76ec90fabc6adb90",
-    "b388d370329207bf833a8ebcd2d21ad460bfda61c2874e5ccee03daabb7eb1f1",
-    "b5754f8a03794f617a0d8562a6cf7857933a3d6d94af8146a79882c4e875a7c3",
-    "29efb51d4c78c895a33e154c9a43de383f15cc0fb652b9ed906bcb5f0d958a56",
-    "e7549f98bdd7565f23e671b0d047bc050267cd12e8e3f6b7f5f655ef1826d134",
-    "0ab443c15266f58e489d7b9d8a5b2748e33488e08d257de022ad9aafa25f542e",
-    "21a6aabf625bf3a6f2d37486c0cd3154a01846840a413de2833b3b5847d5a378",
-    "46e857d283835e3c1a207a3a4ab5a0dafd4f5b73c01cb36263c2aa42f0d04e5a",
     "a6f44e9399bc7216ffabfc82d066b36354976926ba9a419504b3accaae3edfa8",
     "4bc242049030c4cad62652074f7d210e38b9f61eb175f5b8550bb4940f9e442b",
     "fdb818c225d12c790e8f1aef2a57927f3c232e9ccef3548d281c4aea205f21c7",
@@ -4000,18 +3974,35 @@
     "0954f46bc5309d37e092456fee5042637848927fb20e766f09e7dfff760bda66",
     "8b3eb253d9133bf82088bcb4783cca685acd5b22beeca27d3abe55b0f9389cd9",
     "1d29ba49c7b52ee6a6edd3ad238a158f62cc57dbf038388ca5203d04b8807e18",
-    "66b9e046dd7e0a34b79af9d0fe7c57395abb9b18fb4747d81ce87ed3cf50edde"
+    "66b9e046dd7e0a34b79af9d0fe7c57395abb9b18fb4747d81ce87ed3cf50edde",
+    "4a9833dba259ac08f92fb26b79c3bdd326f8fd965e90b4f17fc6fcb9bdaaddc0",
+    "8ba9084647c28639bb76c39275eda13094535321fd5f8f9b7fdb0d74054c1f7c",
+    "a720d3971f541501997447661d1636087dbd82d1e2e389c841d7cb93e8721bbe",
+    "d1352b756e00325bef985dcb817e4f85680003b74fc35505e033eb20f5cdaf26",
+    "8893e9bd39af6cacc88fe0d373b94c689d3bc431862a3a64ce748ab45db5d29d",
+    "534bcf12b5bb790c93418925a9315a9dc74ac8ee5a8d79081f2b2792c6291be4",
+    "9b32b9fd7508abdc7bb10ba1bfb1f8ed3693d65e339d89a5e4221a373e15aa3f",
+    "6b757f45b7b8e85a19bcd09c7fb0faed7dc6164805313940528bea839a54b4c3",
+    "c12733390ba216b48bee7386ed41b4e4aed54ac5cba0877db03facc61ca79e70",
+    "4cf6b0187879fc1e2440eeac58ff902713c391c528e1144d75700b4f259deaec",
+    "61c1f9d4e455401cb0337224f1e1b2b0a2810928d6e79e7604d0b4b85f78c731",
+    "cdd286bd5075ecaa01b771a37a9b56d7bc72c950896274aab2942467994dac75",
+    "f0e1f3234ed9f24bc546b4680890639c6697321623cdcfb20fcf43b6b6e09ae3",
+    "27fd35634f51db25055e1e57776365c813f2c11c949a6d5953170e836e0afa58",
+    "c28873b1c6910d2621df41ed84c975d178ccd970c6c258a7fffb429123915b30",
+    "5e3154b00712982222fc64ee934e3f0868d05c261eb4fa2f007edd19b450af8e",
+    "14a32c5c0d69c2dad14fe2b2f0d9eb265e6b0d698f7e1f5e4c9cc0e240c7a4fa",
+    "79709f872f5249b956f0a7806980bb92ac68f6f7fae8c44a5e96ec4d1f860be8",
+    "aebd753f18730104d2b523b8f2b499d7b4c9a4c9bf287c5f5721a9282ee26bda",
+    "4913464fbde1ac243fa3df7d207bc6a2bbc88e4b539b12fd005089750dcb5059",
+    "c4506cb6746d81902ab2b4fe559ce6325a3e6a676e039afd3d0ccb72663220db",
+    "0c849f5aae58d10d55fe52986c105e8f87d094fd440435d5f08d04207fdf5a14",
+    "dfe08178b1e74b8b921863596bb6a135fd4331e02b52d7062dbd7ce982c501d4",
+    "2594d92ebd41fba31e89a2e24c79f45f5955a2123777218bfbfd639da4de8511",
+    "60d5819d319c70799e75380269c55ed65e81b4716c53cff3e6d05e14d317fccb",
+    "444b52770ff0b40e0450af1493f9c2d9a5a683b4c60e8e6e676476f8a5f8b87d"
   ],
   "title_hashes": [
-    "14a1aed066ce1a9582573855fd6b34d1582a2a1edea9a84af61f7a96a66ba439",
-    "c098dfab10bec307bd4e1b0d71ea88dd0d686ec47bd47cf7547b801a33d349c8",
-    "da9386b0633a3dde9fd7b789fad134968ad0b47589588114492e2cb1c775d309",
-    "1d0a3a2c2fc9697726b5f94a420a1f948249c54d8ea9f04435a361549316b8ce",
-    "03f701ed47d67a76c20814ff4ac0c653b8897380009ecd6b2e6ce2b545a2d2da",
-    "116d2141edac8ba33ade5610093a83d405d9667fc6258d24737e5d42ddc1eec0",
-    "8ddeaceea41eadeb0229fdc2bb2b0faab2673a9003a94b5fb8bdbb3744bfbbd5",
-    "6ac45ea6b1770e5a1fa10911fb057e848b69e64b816144112e168b3d749c26b9",
-    "88e8c5fedae2e9d43390b13a0079afe25ca371ead3b7b9f696bab28d07416908",
     "ef27e08073ba737e22c3d50e2b2a38aacfd6de33c929987d9067ddae1c5c0edb",
     "0c869e904242342385dab4658ce29bd1d5b96352f5590f77a6e6e1cb74f1171c",
     "a1f0a4d2e903add6051fdf09a4b652e55e5967804dd0caad54753e1cc2f796e0",
@@ -8002,30 +7993,18 @@
     "e59d794509661225fbf3d40960e49a520aeb21a819cfebed33c22f4009d43b01",
     "562ee8e77175b550ce31f25624dff90d418fea921032cc388d9905b8eed6ca52",
     "cae4082c33c5e4de91ebbb5b04e153bd8f9eb016be37de90c267212906ad6bcd",
-    "8fb80eda525bc1dddb2ab39227c1ac5c9734076fecd63b79e0fc60ac288a771d"
+    "8fb80eda525bc1dddb2ab39227c1ac5c9734076fecd63b79e0fc60ac288a771d",
+    "5cbbd633ddf40e5ce8e68d8dc2de2aedd02f9185407a17c64d18bfd6e8582c96",
+    "cecbb9e8babe1572c97843316510b4a18ba66606b55aec75feb0469037cc8b94",
+    "3ec8df822ab84ad8b65433f0f5a51409db3f1683d953f07e4d0c09afd4fec1c1",
+    "c9034dfa4dc5083f9803978174c41b1de4bb8825c563ce3fa860eceece05dfdf",
+    "e8329e5985188d61d1c4934e52b3c3c30cf39dab63ac35034c560727844e108b",
+    "08f56d637e64c43a012310a2215deb13111dc0c2ed45b8437c7a939e534011ad",
+    "5fe52f2e9d40bb24f07e7970df210e6932d765f23c7fced88b89a6085d184ceb",
+    "7fcc84f42b801fc52c5b76993081e0f52e6d12fc2a32fa671dfebb10201aaf50",
+    "500c93296b6f1993619125cd2179aa18b5dbe593c4275f3ebba50977d28a0eab"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Nvidia perks up as Q3 results, guidance top estimates; adds $150B to buyback",
-      "title_ko": "엔비디아, 3분기 실적 및 가이던스 예상치 상회… 1,500억 달러 자사주 매입 추가에 상승세",
-      "url": "https://seekingalpha.com/news/4673703-nvidia-perks-up-as-q3-results-guidance-top-estimates-adds-150b-to-buyback?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794951058
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "NVIDIA declares $0.25 quarterly dividend",
-      "title_ko": "NVIDIA, 분기별 배당금 0.25달러 선언",
-      "url": "https://www.streetinsider.com/Trader+Talk/NVIDIA+declares+%240.25+quarterly+dividend/27363967.html",
-      "ts": 1794951061
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "🌆 Market News Digest: [Nov 17, 2026, EST]",
-      "title_ko": "🌆 [11월 17일 마켓 뉴스 요약]",
-      "url": "https://t.me/marketfeed/1080031",
-      "ts": 1794951084
-    },
     {
       "source": "FinancialJuice",
       "title_en": "NVIDIA's reported commitments surge to $518 billion. $NVDA",
@@ -11504,6 +11483,27 @@
       "title_ko": "Anthropic-Backer CBA는 호주가 컴퓨팅 분야에서 더 매력적이라고 ​​말합니다",
       "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-backer-cba-says-australia-more-attractive-on-compute",
       "ts": 1794976187
+    },
+    {
+      "source": "로봇신문",
+      "title_en": "휴머노이드 AX 프로젝트 15개 과제 한자리에… 과제 간 협력으로 현장 적용 앞당긴다",
+      "title_ko": "휴머노이드 AX 프로젝트 15개 과제 한자리에… 과제 간 협력으로 현장 적용 앞당긴다",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=49661",
+      "ts": 1794976334
+    },
+    {
+      "source": "FT",
+      "title_en": "ALASKA SENATE SEAT GOES TO DEMOCRATS AFTER VICTORY OVER REPUBLICAN INCUMBENT",
+      "title_ko": "알래스카 상원의원은 현직 공화당에 승리한 후 민주당에게 돌아갑니다",
+      "url": "https://t.me/marketfeed/1080334",
+      "ts": 1794976336
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Jensen Huang agrees to testify in Senate, Politico reports",
+      "title_ko": "Jensen Huang이 상원에서 증언하기로 동의했다고 Politico가 보도",
+      "url": "https://seekingalpha.com/news/4673986-jensen-huang-agrees-to-testify-in-senate-politico-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794976399
     }
   ]
 }
