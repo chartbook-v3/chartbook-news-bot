@@ -1,17 +1,6 @@
 {
-  "updated_at": 1795031163,
+  "updated_at": 1795031317,
   "id_hashes": [
-    "c240379055c221dc75bb984b60195f5421e95f3e1110366878f093e47a834621",
-    "d781383abf9bf7a109534f5638b7d08b4586508da721924e6c752a1433ca1f1e",
-    "79950db53f0924bfe28758b83c1052504e7bb53895a6ccdc00d3598cbc5491db",
-    "9e81c712db0f2cdace5a7ff4468ab1357412a6a68e476a0f61bea1663b67fc4a",
-    "43e40e4b4c94e2ee7140b9ee342a1120f5f6fa046a8613df7040e3d11f18a22d",
-    "a6e0a6703fb72a2e50ecc39b39c3b3c7d25548c6c832c17ac65a5b5cd500f559",
-    "137e0e0dec603e53400796458adc83ddd27a71b3e525f3c7f94eae48f929538a",
-    "52d1e5fd3c23f262727ed0729a6f742c4ee4d2ae0b13eae105cf5b1b5732cc74",
-    "d9e7650e2e07f896522d19903d2ea2190da41860db328b0c414ba084e9afe6e8",
-    "aa271c62012401eeabe54c0af6e803d1ba514d34fa709152a6e9ca640c9ede7a",
-    "d701322f13a5d7a3d7698088aea09b1e982707ba43fbbb8df594445a801c75f7",
     "8c54a7124b5effccf33846a3873fe7eb00faccc5f6a4e9753a3d7d667de22df4",
     "f941f85badf0ce6970550ffe5142272fb5db4d0b7eb79686dbdbdb9d6b9403b6",
     "1176cd70f3fdcc45164f06e48e7313e635583bc1a3980e5106b496410feb0e81",
@@ -4000,18 +3989,20 @@
     "1b4b7ed6f22a95aa0ac65b992939d3a00d4dae968c31b4f6e2f4b02d24468e0c",
     "1fcba17a349963674689e744010f72138a64ea097c085c05ea29bb93afc743d2",
     "0609cada0d32d1b8b17188fb8648ac5bd6671c2b61f3ef744a08037038ec7b05",
-    "f4cc0568c37ee490c0b5066df8a70f889df43e23f1e2aef677aeeb163d524961"
+    "f4cc0568c37ee490c0b5066df8a70f889df43e23f1e2aef677aeeb163d524961",
+    "85f4b9f90a6747441e7418642495850ee4d622cf9836920662288357371e740f",
+    "df82501f555a02979afc101f259a34f3debd3aeb1f098de7d7884c380aa87c64",
+    "24cf293d513a77206962e4cdc2e4057f49e58bd5f2d4e94ef518412ee1a45254",
+    "33d9ea0d45ec559071c9fb5d6f8f95278414678c41bdfefbae3f184fe9176c56",
+    "1b53ba7104c58cbd49b2d5826fa08e730054c9694bd5d8777c3fcd43ad6534b6",
+    "c54674360f9df98ebb0fcc601eff7f507ac16a5037c3bfa3a2d6640037878270",
+    "0f0e5cceb6b90e3512e73979a0992885f1b02448a42440c91de5b416240dde41",
+    "72283803e5b83ed63155625b2e9f457cdb81ae6b8f24de7c44f57253b826477f",
+    "96dd42324d75ae98e0495d2bc506198e7fd1203f50e1b236121895c286273aff",
+    "ee2d1d7d626c3a46663bc2c69ae47d07b744fee9ff530bae2d373970c6116439",
+    "7856df2456dd56e963dae6cee6277f2871930b907adb7039eaff98b22ca467c5"
   ],
   "title_hashes": [
-    "511b70731205e6e6eaba0cf4c59e01a388618b0bf541a046b279b5452f339069",
-    "629a193fe1481100968971c2f9ede1dc1eefac778f60d55ef263b71e0ce53f37",
-    "7d831371db8581285ccfc85d094ee991629484e9a2c9052288a50561dcaae143",
-    "714d45516f7428324e8af5dd0c9d09f264437d41561d590ae13b2e35a0fe7999",
-    "63204902576289b7aaff6d600d5ab089ac13cd25917518433706536c6ac48f5c",
-    "173f03ded25559fea528aaf46a12c4a0c64ff4966749ecd9ef38584e1aced9ed",
-    "0e16623f0a9bc42d1cbe37c4303a3385e66620e9b62812028e2cc7cb6fc49e26",
-    "44874b533242b33fbd3b6b07a9b6ca01792344b27c4bf35193b2a984ea2567c6",
-    "2d842ab44e0fd28560ff66d3f5ea857a2d65e74b99aa19d73cbfee0c00711fff",
     "09214eb74c7423c35b820690b3e9806ea80c69fc168cc95934d3f0fbdf275b96",
     "503de4af3ffc42b4534eae405d6f68f52a1f54f2f7f8496601702b552f98e391",
     "7716ccc81b89b8d484be3be8e498468620aa43d14e0ef4860ead3f33168b9e46",
@@ -8002,37 +7993,18 @@
     "d94d7aac061ca4e66bed640d52b6f42bc1bbbe70e4f476fd1b6d83c9250ac972",
     "b7d6f038fb1966a54771a31d2d6107fd718207f0775ce3eb756ba55e6822f52e",
     "1163bd53e7061eac1cd214580a66ecfa4e65b7cc576c0e0cbeafabb81100321c",
-    "9eb7d127f6877d1ed8af18960d19e1f399be8602e123c0810fb2a21e940d3e49"
+    "9eb7d127f6877d1ed8af18960d19e1f399be8602e123c0810fb2a21e940d3e49",
+    "ed6d811ff33332a902e480e44c15863eeaaabeb1a9fc4078526ebe042949e179",
+    "dfb2f81f19903af65e90bbd7f88fddc37f2d9e9b3bf4da276bf4efab73f74127",
+    "fbabd726ccab243c74c220a3a7522df7fd1f9ab113bd764f33a79e1fc0572aee",
+    "41548816bc3e52996f51270f806b0de81c0fb8b4360d73eb4f86bdbdfb11bf4f",
+    "c959914fccf56e99786e08222798ed070406412476fd65ebc93da12226ac7e51",
+    "dc89ebd695244162ba60bf7b8acd9a6462ab541be41e44458c68266047b5fd80",
+    "e952b995e1b1b2c730b6d7636c21bb10c8a5849aafe9af6988194c78a29643d9",
+    "49ff580a4fcfe178706dd3c93201984758598f5c289ec66e8a4290b4f3f47758",
+    "e08b4ef6469b505f13f5c21596a0617bea8f72f31d26ed94074d7b1fe3fe53be"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "SoftBank’s Masayoshi Son regrets missing opportunity to invest in Anthropic - report",
-      "title_ko": "소프트뱅크 손정의 회장, 앤스로픽 투자 기회 놓친 것에 아쉬움 표해",
-      "url": "https://seekingalpha.com/news/4674048-softbanks-masayoshi-son-regrets-missing-opportunity-to-invest-in-anthropic---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794998246
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "INDIA NOW IMPOSING EFFECTIVE 162.5% TARIFF AND TAX ON BULK SCOTCH IMPORTS, ABOVE 150% CHARGED BEFORE INDIA-UK TRADE PACT – RTRS CITES SOURCES, DOCUMENT",
-      "title_ko": "인도, 대량 수입 스코치 위스키에 162.5% 실효 관세·세금 부과… 한·영 FTA 이전의 150% 웃돌아",
-      "url": "https://t.me/marketfeed/1080537",
-      "ts": 1794998466
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "【天孚通信：CPO配套产品已批量交付，预计2027年起逐步提量】 天孚通信公告从业务发展情况看，2026年第三季度公司有源和无源业务均实现产出增长。有源业务方面，随着上游核心物料供应情况较前期逐步改善，公司有源光器件交付...",
-      "title_ko": "텐푸퉁신: CPO 부품 제품 대량 납품 개시… 2027년부터 물량 본격 확대 전망",
-      "url": "https://wallstreetcn.com/livenews/3201909",
-      "ts": 1794998468
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "白宫官员：特朗普与辛鲍姆、卡尼举行会晤。",
-      "title_ko": "백악관 당국자 \"트럼프, 셰인바움·카니와 회동\"",
-      "url": "https://wallstreetcn.com/livenews/3201911",
-      "ts": 1794998471
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Kremlin: Putin and Trump may discuss putin's visit to G-20 - Tass",
@@ -11504,6 +11476,34 @@
       "title_ko": "Google Gemini에서 반복되는 기술 문제를 진단하는 방법",
       "url": "https://www.theinformation.com/articles/diagnose-recurring-technical-problem-google-gemini",
       "ts": 1795031162
+    },
+    {
+      "source": "CNBC",
+      "title_en": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+      "title_ko": "나는 트럼프, 시진핑, 푸틴이 중국에 모이는 것을 지켜보았다. 제가 가장 중요하게 생각하는 내용은 다음과 같습니다",
+      "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
+      "ts": 1795031245
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "QVCCQ Earnings & Forecasts",
+      "title_ko": "QVCCQ 수익 및 예측",
+      "url": "https://www.benzinga.com/quote/QVCCQ/earnings-forecasts",
+      "ts": 1795031310
+    },
+    {
+      "source": "Reuters",
+      "title_en": "US tightens Iran blockade with curbs on oil transfers at sea, advisory shows",
+      "title_ko": "미국, 해상 석유 운송 제한으로 이란 봉쇄 강화",
+      "url": "https://www.reuters.com/business/energy/us-tightens-iran-blockade-with-curbs-oil-transfers-sea-advisory-shows-2026-11-18/",
+      "ts": 1795031313
+    },
+    {
+      "source": "Barron's",
+      "title_en": "CoreWeave and Neoclouds Slide Post-Nvidia Earnings As AI Fears Remain",
+      "title_ko": "CoreWeave와 Neoclouds는 AI에 대한 우려가 남아 있기 때문에 Nvidia 이후 수익이 하락",
+      "url": "https://www.barrons.com/articles/coreweave-neoclouds-nvidia-earnings-stock-down-f96d09db",
+      "ts": 1795031316
     }
   ]
 }
