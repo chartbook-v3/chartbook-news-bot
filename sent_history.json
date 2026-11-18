@@ -1,34 +1,6 @@
 {
-  "updated_at": 1795005399,
+  "updated_at": 1795005558,
   "id_hashes": [
-    "92985924ed09cfe0feedfa7387e74bf50121dac35e7fc954a6033fd1b9e765b9",
-    "8901157a0ae76cff8b393cf8c4367f52421961a5be298d117374b6db0f004e40",
-    "ec10e392948efe8b43eac5b9602b2cef2ebfa17a8b86c5460ac5b68397258aac",
-    "63042177190bd3c3a0d7896be39392367514b7ab593305ad5409a3f0199aa684",
-    "0a42ff15095651942cbf3116a4620f266ac55d3d007f320db45a03fe8d7bd268",
-    "596bf1278dc5189abc3244b85baf4a487af2fd8a18f3b483668a2d799640baca",
-    "7890c79e29af0300a9f98e1d5e9936cb1e279746e8bbed10d19906f916c89203",
-    "6483493f6d34303e9fcc4315552e98415676eeb43032331fa3398329b1380eef",
-    "29ae2be963d09302864389251705cc69918f99379ad81b74cebe68d2e740b545",
-    "64ace1fbaaadd4aed9780167ffde013958551287628a3517590dea5af0d5a113",
-    "44c21213635e3a872c0b15ffdaa503bc12f8af7912da725021bef13a60462bb7",
-    "e75554a576ad8ac289dc52a5542201eb59871ca120c59de1738043f30b4802dd",
-    "614209a8c7c8df7684d6608ac9349efdedd2591ad56efe3f69daf1c71bf1fe85",
-    "d5e09b1132e5fa09413628cf5a9ff2646a6d808d7e9d83ff3975df1a9c00f268",
-    "e0a10c028f073d14fcbde014dd561ac97f449fb08e8767857047040da54fbfd7",
-    "7fb3c21ac07d1c9b890cdee5c26bf03ce5a847f353b1311e293c453d2c8c769a",
-    "95fbe88a09bdbc635c3557c3692e9f87a04dd4a2cca78134a6ac745f71e7f311",
-    "da5eb642526a225fce23287e6384554565c1c1b094b42eda1de1f544bf8b89b8",
-    "2794bf944184f875a1b13434fe4bd7cfbb03715390cc16b9261b389873ed9efa",
-    "5db0a3f0e0419540c40be11f41f2fbbecd637379650f4b267a099cfaba6ff0e8",
-    "faa134ce2c3d86faad6bd785bb109c182a652bcba1668fc699e0b2a9adbda741",
-    "2f48281a92561c8ced3f6855303d70845f8176800e582673addb1bf7600459bd",
-    "2357b89bef3cdbb744fbb780f67aff76c0f52fe712a1ee2b4654ee3315f6b43a",
-    "767cb7fee8f93385bea39b9ebda9ffe0a62037fbc77b65c951c34249817121d9",
-    "d8a4fc6f6c0f1634a81b8da8350f7c9863c2c42ef40390fdabe524a3a34dcf51",
-    "e51a1457de2a7f376dcd664ed9db8a93480b7f29545eaaada623eb007079e889",
-    "1d7e9d08ba88b3f2847684841c148ebfbbf3d394c377a9ce2640e0cddbfa20f3",
-    "93429a570bfd7eaef8af6bba7dc0a2edd22cbcc11ee1859e76b4ba81edae2fb3",
     "df80b8a0aca34227de0ce399da38599b27129817cf862e9ade7c4fc2e12f7f34",
     "2a45445614107862889d194093c036b00a59d4ad40e0e811a04277acf1434429",
     "a6f7d172a75403972365db8105ed25de95ed95f2a53557d3907c57efbd352c00",
@@ -4000,29 +3972,37 @@
     "e76a19e67043c91bdbbb826da85c3bf7a56782cacb294306f153e92197441f01",
     "b3d364fff36a11cc444633edb1727536d06f4ff8a4e7c97c34a3e12857b050bc",
     "b6e87ea109dac9c6bd78c0595a84d2f473e79d5d963a45b45776725a46d780df",
-    "ebf33cd91f6d4f8d35238082799c63c02f3d9b57cdb705bc8cc7588adf909260"
+    "ebf33cd91f6d4f8d35238082799c63c02f3d9b57cdb705bc8cc7588adf909260",
+    "a225aeadf0ff5e28293af67b36b2a37b72f855bb23a05fd771b2165a41ba69a4",
+    "353142479460915d2c6fe801d7928100fe487563827ea5a083934f73d85baa4e",
+    "0520594c7a067e06e59c14e6ea1c239a900dba33dbc6bf492364b32a200ba157",
+    "facc2e396e8dafb9615c057e2b3854f748368741b508b5c21b51ba48b7fadf1c",
+    "3ac3089787b900cbb50409e973aaa5c01e36a21827c96822841f002879e39f41",
+    "d03a321ba5fefcd6ae32036da33191fb3c49c7c44620cbe91e6e999ce549a9ee",
+    "17cb71a398e315bae5dddec41bc60f2bcb64c39a9d73662e4d00cbd068233754",
+    "43d2f02cc3722b57a1f087b0a4b89fcc7370300f6b1c176263cc31f89123c3e2",
+    "0d69db0680eaeab9295920e4269d663a3014df28c3a1dae347cf54e344802bae",
+    "2a70a6d16e7ff961d1950885d01f4131b03763975e07d19fc6c1433edb1c428d",
+    "79dc3dc17188427f8d2a1618360a1ad5ea8a6ed9979eeb91a38517fac393f3f9",
+    "5f8e56d4a320a9fb70e88de696f5b298301aceb9a428553104e233eba404680f",
+    "66b5426d7f6025ca68661647c60ab28b3a7a20ca31fa7e1f535d1db197f384e1",
+    "9f1177a5c67bce00b9a40849d753b8739183e2e35268d03744abb7f34b3b75ad",
+    "c85d78ab3ab0b7746ea760547e65fb2831ac616243af27df8ebdc06e759d0668",
+    "78b6f3b02cb55b350702e16a9a37f0940db288b0aec97738655580746d371054",
+    "e90f5d49bee1ce4aa6fc507f2677e33d729f5671f0757c26c6fb03ea75438d11",
+    "f2f7b6198ba5a136f67d09fa73018a9c9f899939fb12f0fd7e65ee56b4e6ba85",
+    "57f08e75a4ec1241d4d2348434ea37a3b7b757979cd7223f88f8fdcc0b8fddb9",
+    "f791bc5cb31107f89c7013efdef62ecfa54cdd95b0f5146829e19c4f34dfe903",
+    "c36649f0d4a6315ea57546083d007f2cd2ad246a39bcc5e5e5ad0e28b2666455",
+    "528ae538818d9d1207c0861428fcb5634ab6b31124731a76b1ea2313f5f2ad40",
+    "47259f768cda07da67b522508064e8173ea620b39d726427947a80527db34139",
+    "c746dac91c90490ffd465710dfb6eaaf6b64be4f24f8af8f2cea483bd690447a",
+    "a93db27a6906c14ce173cdbc4fc908cd8f00955f9ab0918c5e7b8a9307aea998",
+    "65e10d0844b38db5baacb1114ad12f7f7cc21b0215391d563646fc28685bc6a8",
+    "06652aac380b719513449c87be9557dfb0f1dcec2a8b47b449ae7343f0106242",
+    "aae13abb3f6f2a79fd473f4d3ea0005d97d685fe01fdbd5c0023bfaf36c66489"
   ],
   "title_hashes": [
-    "ef49808346d7b040df53a0ea88209ed403d23fecea6f666b3db3d66e59601b80",
-    "fb75e38050376716833d456bc28e0452f238df0699e3b404d206239fa0d44a93",
-    "9e7a9908b071046adcf525591186d972d278c02a405cb2cc303ca687ea4e4d43",
-    "3394bf7dc2e6e6000b9c5e71ceb6933d476ba5d31a1291c887d5fea2f629dda9",
-    "3d016b05ee75a2252b6edc3f4d5d8cbcc507173cffb504befc692877445d932f",
-    "c9b085a2d7e756fe9b578ababc310ac7a4bba692cb405588be8edeaab52766aa",
-    "bc70f971cae01edbac5f7db6833f76a25cdf6e78f21d014d17da49ed89727714",
-    "f00040ca0e141c3e0da44fe2d2e3cfea405dd426abe731a99c080dfa1939b570",
-    "64ace1a6a1c9d4fd3d3607e66f8be90b6dfd75bfd40eb9af02b382d3d5659e81",
-    "9740d2fb2a4cbb7d2db0975c24f4c0309ad7563fe1442749c2b0f648ff67b883",
-    "cf2286f0f05289903379508c698ce59ff208aba4ff63e87e1bda804fe5c6085b",
-    "0b9f9051f859ba7a018bd1e24d6eac688382d298f60f113d5d8eaeb029ae973b",
-    "2bc570839403968613ee0b566d6e1c8fdb9eb450f1a59cd8ab6980205a8bb130",
-    "d5233029cdb543e224edcf5310e3c6f874a84f5b7b95df6ab941b70b1b4905c3",
-    "07e15b2c9d87c480936d59e6b4314f91455e00d43ad0fdfa594713d1afe20c5d",
-    "1573308725a0b5e2f32b9cc8fbebc550b58abef3243023291573267c86ae0f69",
-    "1bb019c9f52461fb2e7b3631d0c9097d25da7dfc8d2fc5a7361f33b4dfe71938",
-    "066b62471410f0866725dfc4b9e7f6476c7db50d5063142f9068cbf2ed091841",
-    "1322119339fc60fe03c07b098aa37b96c3ffe57653017ce51cf6a15ad05f5ad7",
-    "7e83e87dec81fcba49103de77f45a10532fd71eda520dc2bc2f68897d843ef16",
     "7f4c700f5396eecc2e7099a2a8e0691df25db1200f6e7764b59da596fab278f0",
     "d4b01eeeec9ce71006c0db4e2c5691257a582959e36ee4d0ddd78f61f21cd8ab",
     "dfcafd7419764529bd0b5ce2ec29778ea29b34176476f88712a7e7e6509dc42f",
@@ -8002,72 +7982,29 @@
     "66ca2015571bc064cf64b4c078b61c7ac6c9470a7babad59ae0a1131fb9658b2",
     "0e5eaae92a209312c17dae203e22252ff3bc2e604f47006e86e2065d9bc4c362",
     "589bebe09afb1619266539cbf82547adf8ca6afd80cb6ba8f81e693f1dc31b7c",
-    "2e4a957b8ad287ac9968bd179e396ffc5c075c6980b6cc3c0b44866004f28b65"
+    "2e4a957b8ad287ac9968bd179e396ffc5c075c6980b6cc3c0b44866004f28b65",
+    "82186c182d919ace84f5a73a72acef3df69d7142898b4895f870f2d68ba53493",
+    "5871a7d3c6b75cb9993ddd0b2e9748cf6f79cbfaefa45c27d00f2fc3391cd6bb",
+    "74fe9a711fd7c4afb9f5d25729681f32f138c836ba9ae9c110c1563e613b92cf",
+    "277e569b95f6ea95ea667de9f7a4803084a7786c1f3d6817d2d281410870a732",
+    "7d9c800ade9d92a900de899e05624cedac31de36b55889a131a56746411205fc",
+    "f2bc1e476fd21a71b8137eec931f9928c56ab82fc4761beb1abb343844821ab6",
+    "1ecaad73059a1f1738b338af6165dc501118f4532d673734428ea04f97448b10",
+    "1235c8b3457e45b452f6a2d5e54f453d4a52a03cdd9480e6ff3bfd894ece60a5",
+    "1e530f97f431f4f695c4fface1c5226252fd5b7654fe488c3f724e261aaf7475",
+    "5f93f55c962863095d5f6821139a3974a6297cf1711ccd54283e17a227c3013b",
+    "5799263c54a323b9cfd92d38014b80f34b6864139ba0c03f74bf14ade9935eac",
+    "94495fe06d3602ee887670d33d967901bbabfc2f7861bcf1c0213720dead0547",
+    "10d37a3cf6634091705e1fd45580c578d3836f3e6ecc999f9bb0cb21220ceb3f",
+    "8be0e9dd4682e74057810e6215ccd52d563a7e9c354f2d99b6c017801162aba0",
+    "ebf1166f9712f89cc913c728d024a143b4621abf66460cc5240f30c7b0c961bb",
+    "f35e5176ea4212d450efd4654a606986f6f347385fbf55c89630687ea4a2780d",
+    "bc4a5197d0a36c20f72c492973c560d7ec7574768f527ffd51ed4c1a25c11e11",
+    "f9711ae0aacd83def69cce26262df434b4d2f3dfaffc25ea2a9254cb0b7e7a21",
+    "80a9ed14f2849b2aeaf7fbdb06e3893c7cce9bb2e28b9611b6cab80e86217137",
+    "55bfb349a9da49574146bfa1d06dffadb22c7f4eae7f3c82b2865fd4ca9f6aea"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Nikkei Asia",
-      "title_en": "SoftBank's Son calls missing Anthropic investment one of his 'mistakes'",
-      "title_ko": "SoftBank의 아들은 인류애 투자 누락이 자신의 '실수' 중 하나라고 말합니다",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdWRzWVNBRENSMGFiMG1qOHRhMloxTEF3UjM3bXRVN2k1NkpqWVdpeU41STlDdEx6RmxHT2lVazMyeDBsbG9wbFJIRW9VWVZQX1RlMVhVcUtSekNHSXRVVk5uUkg3MkRCYzMtcU54aUVWM3Bsakc3REhvU0dsRHNldE9PeFpVclAwaEdmRE9jTWZGdTlZYm9JRmtyY1hzTW1vX3JvM3BjSEc3Y2VLM1Jwa1hRVEtDRm02TlJaeFYwaldJaU42VDYza0FHSS1hX213Ui1z?oc=5",
-      "ts": 1794980321
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Societe Generale Said to Plan Starting Equity Capital Markets Business in India",
-      "title_ko": "Societe Generale은 인도에서 주식 자본 시장 사업을 시작할 계획이라고 전해",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHpxX3dENGpUQW9tSGhkYi11NVY0OVdFS2ZsVHczMDBMbmJ5aG1HV2Z2TkZ1Y0ZVSVNkWDg4dHROM2FrOXJPZlNqeFJSRHg4VDRES1dOQ2poaktmSS13ZV85azNicFg5VUtNUkVaR2J3aFgwVDg5ZzFKV2VWWU44Mi1fckNqQWoyOEZEZkxLX1FGMkltX1ZKMDkwcHdGZm9GbDR3TFBRVGdTcUdYVUtiTVRJaHc2MVQwNlc5TkFR?oc=5",
-      "ts": 1794980447
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "\"근로자 1명 이상 고용한 사업장은 건강보험 가입하세요\"",
-      "title_ko": "\"근로자 1명 이상 고용한 사업장은 건강보험 가입하세요\"",
-      "url": "https://www.yna.co.kr/view/AKR20261118117200530",
-      "ts": 1794980532
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Microsoft Foundry adds Baseten, DeepSeek AI inference",
-      "title_ko": "Microsoft Foundry에 Baseten, DeepSeek AI 추론 추가",
-      "url": "https://seekingalpha.com/news/4673999-microsoft-foundry-adds-baseten-deepseek-ai-inference?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794980594
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "‘The Noise Will Work Itself Out in Time’: AMD CEO Lisa Su Says Nvidia a ‘Phenomenal Company’ After Jensen",
-      "title_ko": "'소음은 시간이 지나면 저절로 사라질 것입니다': AMD CEO Lisa Su는 Jensen 이후 Nvidia가 '경이로운 회사'라고 말합니다",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63375938/the-noise-will-work-itself-out-in-time-amd-ceo-lisa-su-says-nvidia-a-phenomenal-company-after-jensen-huang-exits",
-      "ts": 1794980597
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "삼전닉스 급락했지만…목표주가는 여전히 2배이상 수준",
-      "title_ko": "삼전닉스 급락했지만…목표주가는 여전히 2배이상 수준",
-      "url": "https://www.yna.co.kr/view/AKR20261118078000008",
-      "ts": 1794980693
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "무뇨스 현대차 사장 “젠슨 황 떠나도 엔비디아와의 협력 매우 중요”",
-      "title_ko": "무뇨스 현대차 사장 “젠슨 황 떠나도 엔비디아와의 협력 매우 중요”",
-      "url": "https://biz.chosun.com/industry/car/2026/11/18/SBCF7IYKMVCL7LONLZLAQ3MHDE/",
-      "ts": 1794980756
-    },
-    {
-      "source": "FT",
-      "title_en": "Nvidia stands by Jensen Huang as CEO amid speculation over the company's leadership",
-      "title_ko": "Nvidia는 회사의 리더십에 대한 추측 속에서 Jensen Huang을 CEO로 임명",
-      "url": "https://t.me/firstsquaw/193777",
-      "ts": 1794980778
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Iridex (NASDAQ: IRIX) Shares Fall 26.96% After Hours: What Investors Should Know",
-      "title_ko": "Iridex(NASDAQ: IRIX) 주가는 영업 시간 이후 26.96% 하락합니다: 투자자가 알아야 할 사항",
-      "url": "https://www.benzinga.com/markets/equities/26/11/63375959/iridex-nasdaq-irix-shares-fall-26-96-after-hours-what-investors-should-know",
-      "ts": 1794980907
-    },
     {
       "source": "녹색경제신문",
       "title_en": "美 항공관제망 마비에 광케이블 교체 주목…LS전선 등 美 공급",
@@ -11504,6 +11441,69 @@
       "title_ko": "머스크 \"AI가 인간 변연계 해킹할 것\"…파장 주목",
       "url": "https://www.benzinga.com/markets/tech/26/11/63380429/elon-musk-predicts-ai-will-hack-the-human-limbic-system-heres-what-it-could-mean",
       "ts": 1795005398
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Wall Street's Most Accurate Analysts Weigh In On 3 Consumer Stocks With Over 4% Dividend Yields",
+      "title_ko": "월가 적중률 상위 애널리스트, 배당수익률 4% 이상 소비주 3선 분석 진단",
+      "url": "https://www.benzinga.com/trading-ideas/dividends/26/11/63380488/wall-streets-most-accurate-analysts-weigh-in-on-3-consumer-stocks-with-over-4-dividend-yields",
+      "ts": 1795005420
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Form 425 Berto Acquisition Corp. Filed by: Berto Acquisition Corp.",
+      "title_ko": "베르토 인수합병(Berto Acquisition), Form 425 서류 제출",
+      "url": "https://www.streetinsider.com/SEC+Filings/Form+425+Berto+Acquisition+Corp.+Filed+by%3A+Berto+Acquisition+Corp./27366761.html",
+      "ts": 1795005424
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Lumentum, Coherent may benefit from US banning Chinese optical transceivers: Wedbush",
+      "title_ko": "웨드부시 \"미국, 중국산 광수신기 금지 시 루멘텀·코히어런트 수혜 전망\"",
+      "url": "https://seekingalpha.com/news/4674100-lumentum-coherent-may-benefit-from-us-banning-chinese-optical-transceivers-wedbush?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795005485
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Fed's Waller: Very concerned inflation is heading in the wrong direction and broadening",
+      "title_ko": "연준 윌러 \"인플레이션이 잘못된 방향으로 광범위하게 확산되는 것 매우 우려\"",
+      "url": "https://www.financialjuice.com/News/9857805/Feds-Waller-Very-concerned-inflation-is-heading-in-the-wrong-direction-and-broadening---CNBC.aspx?xy=rss",
+      "ts": 1795005488
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Fed's Waller: If the Fed wants to get inflation down, it needs to take more aggressive action",
+      "title_ko": "연준 월러 이사 \"인플레이션 낮추려면 더 공격적인 조치 필요\"",
+      "url": "https://www.financialjuice.com/News/9857806/Feds-Waller-If-the-Fed-wants-to-get-inflation-down-it-needs-to-take-more-aggressive-action.aspx?xy=rss",
+      "ts": 1795005491
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Fed's Waller: Roughly 70% of items in the core services basket are over 3%, which is not related to oil",
+      "title_ko": "연준 월러 \"핵심 서비스 물가 70%가 3% 상회… 유가와 무관\"",
+      "url": "https://www.financialjuice.com/News/9857807/Feds-Waller-Roughly-70-of-items-in-the-core-services-basket-are-over-3-which-is-not-related-to-oil.aspx?xy=rss",
+      "ts": 1795005498
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Jensen Huang Faces Tough Road with Congress",
+      "title_ko": "젠슨 황, 미 의회와 험난한 갈등 직면",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-18/jensen-huang-faces-tough-road-with-congress",
+      "ts": 1795005551
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Fed's Waller: Worried that firms are thinking consumers are resilient and they can pass through 3% price increases or higher",
+      "title_ko": "연준 월러 \"기업들이 소비자 회복력 믿고 3% 이상 가격 인상 전가할까 우려\"",
+      "url": "https://www.financialjuice.com/News/9857808/Feds-Waller-Worried-that-firms-are-thinking-consumers-are-resilient-and-they-can-pass-through-3-price-increases-or-higher.aspx?xy=rss",
+      "ts": 1795005554
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Fed's Waller: The Fed may need to \"shock\" people out of thinking 3% inflation is what they should be thinking about",
+      "title_ko": "연준 월러 이사 \"3% 인플레이션이 기준이라는 생각 깨려면 '충격' 필요할 수도\"",
+      "url": "https://www.financialjuice.com/News/9857809/Feds-Waller-The-Fed-may-need-to-shock-people-out-of-thinking-3-inflation-is-what-they-should-be-thinking-about.aspx?xy=rss",
+      "ts": 1795005557
     }
   ]
 }
