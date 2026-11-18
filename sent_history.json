@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795027879,
+  "updated_at": 1795028032,
   "id_hashes": [
-    "3c2af368610482c07d722f3d756450c1979ce98a19c425ae4761a12457500c9a",
-    "6824559904483fab0198a66ef2cbfc32104bf2b9fc435e483ce89c25dfcf67c4",
-    "f3622a601e4fb61082000f62a00535709bb3d607c7d8e315a10906398ad20ce0",
-    "bd6ca43164d2dda1e3d7d178af6eb256cd30b4eeb7419d2e0e81ab34815f4775",
     "e53eb5ee8d95e198735a98a42f29bd7fb21994d485fe0182928598fa9bdfa53d",
     "b57a1022fb25767c95749ba2475b033a51243dca533e59a1c8238b2e2d78833f",
     "7ecfa7285796ffc55e194c8f87cc08f1d04d68fe5901a66fb6e79563d79c03f2",
@@ -4000,11 +3996,13 @@
     "6a8059bdf6db55c7c562887bd386f19c510dfb712e7785c73f515633ceb04f81",
     "2887b5116aacff90c3ba169dabf8ba870a1e39f0f33add8ac341fabaf5e69267",
     "80ca6f0b15a62f63066cd266ce8054cec63c2772d18128ede10d3b0f92eb2b03",
-    "e4ce1ba47e1596a8891b06311fccfd40b92c731be0d77c1caf4e33f45da51fc4"
+    "e4ce1ba47e1596a8891b06311fccfd40b92c731be0d77c1caf4e33f45da51fc4",
+    "995749c5ea3316656101a06f8b9eb4eca95993993d3ee74c729fffe691ff7e07",
+    "342acb2c7eb6e956f474899d68a6c9ba0764424b30637e9bc5f089d4ae4a99d8",
+    "90441aafe8caf8f8182df917a6416f46c24b9f3e6d83b687503dd1bab7673047",
+    "b780a3c096e7248a28ddd95a45708d17be7541785176ff109ef4176922c72e1f"
   ],
   "title_hashes": [
-    "8c499955d938d3849edd264139a9354fa9960f27b47e602a7f693d83c4068d98",
-    "6d2884bd5b7812840a4834ab67f6b080e28ed7ec486076799c50b43b7747a6b5",
     "15052bf2fbf451e4cdb40adb5867ba3cd822b7541b04c8cb5f3c560b695ee827",
     "c552aec5c34f334fe064cac5ddd728085bb42e8b2282c4c44de569248be0952e",
     "20418eb302286c6b3c522dcb152ae73b2182440d4933bb5381f34c99d8216401",
@@ -8002,23 +8000,11 @@
     "79f737e247f2b6fb988281461085ebedb2fbb6c7020b055a65212a43c530c099",
     "0de880b44977d3bd6c88262e375f3ea11539fec3af12b5598d1295e48ebf8688",
     "44683b4c9d7d47fa4e7a77977eb8988107b75f4d03ee7909fbf20af00f7c9925",
-    "3c7c87c7432fb3ae651ed211176439c8ccac7d2f1bcc4f3137f9c33134ec2a24"
+    "3c7c87c7432fb3ae651ed211176439c8ccac7d2f1bcc4f3137f9c33134ec2a24",
+    "1e8ecf40ab6f78d6514204b1992f43c58a3a7b323100e663ca346774553f0224",
+    "931f45a7bc7125967bae1663a2070eebf6fca859b13229ab078546b3f7d8ef0f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Tencent Non-GAAP EPS of RMB 7.227, revenue of RMB 207.34B",
-      "title_ko": "텐센트, Non-GAAP 주당순이익(EPS) 7.227위안·매출 2,073억 4,000만 위안 기록",
-      "url": "https://seekingalpha.com/news/4674045-tencent-non-gaap-eps-of-rmb-7227-revenue-of-rmb-20734b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794994748
-    },
-    {
-      "source": "서울경제",
-      "title_en": "매출 전년比 2배 신기록 세운 날…엔비디아 “순환금융 엄격히 심사” 예고",
-      "title_ko": "매출 전년比 2배 신기록 세운 날…엔비디아 “순환금융 엄격히 심사” 예고",
-      "url": "https://www.sedaily.com/article/20116137",
-      "ts": 1794994808
-    },
     {
       "source": "전기신문",
       "title_en": "양승조 수공 사장, 취임 후 첫 현장 행보로 ‘용인 반도체 클러스터’ 방문",
@@ -11504,6 +11490,20 @@
       "title_ko": "알림: 베이징 시간 03:00에 연준은 10월 말 FOMC 통화 정책 회의 의사록을 공개",
       "url": "https://wallstreetcn.com/livenews/3202118",
       "ts": 1795027822
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "IRAN FM ARAGHCHI SAYS OMAN TALKS INCLUDED REGIONAL SECURITY FRAMEWORK",
+      "title_ko": "이란 FM 아라그치, 오만 회담에 지역 안보 프레임워크 포함",
+      "url": "https://t.me/marketfeed/1080891",
+      "ts": 1795027969
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: PLAYSTATION NETWORK DOWN FOR MANY USERS AS GTA 6 SET TO RELEASE WORLDWIDE IN 10 HOURS.",
+      "title_ko": "JUST IN: GTA 6가 10시간 안에 전 세계에 출시될 예정이므로 많은 사용자를 위한 PlayStation 네트워크가 중단됩니다",
+      "url": "https://t.me/marketfeed/1080892",
+      "ts": 1795027971
     }
   ]
 }
