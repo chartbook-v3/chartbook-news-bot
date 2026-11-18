@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795005081,
+  "updated_at": 1795005243,
   "id_hashes": [
-    "fb0e82cdd51dba54c35fd4dcd9ec029a4ea37267d34445c4667e8259297b00e3",
-    "9a5c334959d868cdee281f0d1551776f37090132be8a8bf5c120bf7b06e1721b",
-    "0f0fb3825bc8dc9b6501f075f6af74df15cafd7ee905f1175da8c31c029f6ea9",
-    "2f0ae5af5c6c40cb473c54cf0103e7e6724706d4cf17d766917b44282cbc2bbe",
-    "28c5b318ef6438079aeff2654ef1e898c168f89b46e37e69766ca1116b173651",
-    "8b9977d10b7745fb520d4ec34bd85f9712ff417fcae4451c46754e8c31eaa0fe",
-    "f77fd72a930bf4135d89d7d93ac324430dd3e084bcf4f0c00851e3f544cc5f99",
     "1435f7a7d20c1c79a2d03aa5c331c526028af55ae932397a8f4c5ca49cd3f012",
     "9e160e6474ebde53b810231e3c59bbb25509aee01987dec9221c0550ede4a254",
     "24d9aef47e9dab1b48f090a6ba56ac1e9295de34d20e0fb4d1dcb89c95b88093",
@@ -4000,14 +3993,16 @@
     "49685a6b8e8f219bad8f1943d105c982960786139515647382bef14f76fe076a",
     "8327892f34432573f3997430ba13a074ed32f3d9089b2dfb0a6de4b01538e3eb",
     "6b0817a2aab90ee52f8569880c7f36e9d5f240b39123af323aefe30c7fd9565e",
-    "f42070d8abb2ea296aff738371c65f7f94b869e62437dd115d0c4c4439615e18"
+    "f42070d8abb2ea296aff738371c65f7f94b869e62437dd115d0c4c4439615e18",
+    "f6a7aaa5433321c348ef779c776b5b3b063d4b6f0b532e740f169593ac6db1f4",
+    "15489249146c8cc9efc71c002a03814f379f8ed2c1b2ca07258eda47f6a17f01",
+    "b588d205b0a844c05dad8a3f6ebca711d4eca02278f6b75f78059aff2f9de8fd",
+    "95888d53126034beb42bc3fe21b452ddc5f0ae5926ef378e886633424748fc30",
+    "b13fee9f69c52e94b1e3c228057b04e592f3f1e26fbd174f0bd4e8d14a3d81cb",
+    "5ca320f2184031cd419db322fb43701e01abd0118fafda4dc8f4f6b1b01b4ca3",
+    "eee920d9834459f5db38813dd10397d5f731055fe2764692f155e3551dec80d3"
   ],
   "title_hashes": [
-    "884f84f6659dce00a820b457999530166e0e5ee237cc6e8c2c5109a40b5b8473",
-    "582f431f176f19976762f5c13c73840aa3aef8a0b2f7d5affd6417f9edbf21d1",
-    "c0a4e1e13d6e7f08b6ac9e245cb524c73fd4b6467f71c56c8bd6f7c38689022c",
-    "aa8e13bd68ceab4bf388d82019e672a4a6d60f2bdf7152f76441e9ed143dd90f",
-    "72cf9827d735355218929939807d26282218b6ab98d7dc59186c3a81e9350ba6",
     "25abe4465fda65dd46c4ba14635a28989823cbec8c5d8e5d6549c63877d434a3",
     "954c4c5f2def8b2f1c0e547c49f0569b69e3fe268cd3f4c3af9a31b8dae0636e",
     "8833ca0fbfcd5a462a5182db5c88fde1e4e6f9c768eb241dedfc96d647dae27a",
@@ -8002,23 +7997,14 @@
     "bc581eeead6a128e675eb5cb973d8d0d929c3d8656e9681e232a6e96d298c1dc",
     "9f02de0c883971e1de747692f06a575f9ef1703c514a33e95884be223ac0f0ad",
     "da0af8c11281deee6d5097af6c760b89b077d16e779270541a82daf5dd883497",
-    "193e182c0707eb114ebe403b25f22a46d72250e0b068c9e81fc76bfcd2349336"
+    "193e182c0707eb114ebe403b25f22a46d72250e0b068c9e81fc76bfcd2349336",
+    "169374a2cce36ac2f1160c11a772cdfa03d539d70e4c24c97db797eabea2aaea",
+    "575f1181e38d29e5a62a776b3a22fd752f95655335c9bf19ef82d86846e26bfa",
+    "8862a5bbe0ea3f07e2043ebf65f111356210cd1829c6c71068a01d3d7ed4ef36",
+    "aec8220a299da643219bb25472c1c4d8f2eac9fa433bcaa0c3cb93732a96d033",
+    "79515d255661f76672af829bdece2abc1b15a8203468e87f05d1ecf503376771"
   ],
   "recent_sent_articles": [
-    {
-      "source": "SBS Biz",
-      "title_en": "日 무역적자 6개월째 지속…원유가격 상승으로 지난달 수입액↑",
-      "title_ko": "日 무역적자 6개월째 지속…원유가격 상승으로 지난달 수입액↑",
-      "url": "https://biz.sbs.co.kr/article/20000347305",
-      "ts": 1794980114
-    },
-    {
-      "source": "WSJ",
-      "title_en": "Asian Equities Mixed as Investors Parse Nvidia’s Quarterly Results, Guidance",
-      "title_ko": "투자자들이 Nvidia의 분기별 결과를 분석하면서 아시아 주식이 혼합되었습니다",
-      "url": "https://www.wsj.com/finance/asian-equities-mixed-as-investors-parse-nvidias-results-guidance-7041c3ea?mod=rss_markets_main",
-      "ts": 1794980117
-    },
     {
       "source": "StreetInsider",
       "title_en": "Morning Bid: Jensen Huang's last hurrah, and a nervy future for Nvidia",
@@ -11504,6 +11490,20 @@
       "title_ko": "영국의 일상 필수품 인플레이션이 5%에 도달",
       "url": "https://www.bloomberg.com/news/articles/2026-11-18/inflation-on-britain-s-everyday-essentials-reaches-5",
       "ts": 1795005023
+    },
+    {
+      "source": "Barron's",
+      "title_en": "S&P 500 Futures Rise in Premarket Trading; Global-E Online, STAG Industrial Lag",
+      "title_ko": "S&P 500 선물 프리마켓 상승... 글로벌이 온라인·스태그 인더스트리얼은 부진",
+      "url": "https://www.barrons.com/articles/s-p-500-futures-rise-in-premarket-trading-global-e-online-stag-industrial-lag-5e31e38c?mod=RTA",
+      "ts": 1795005233
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "SHEINBAUM SAYS HAD VERY PRODUCTIVE MEETING WITH TRUMP",
+      "title_ko": "셰인바움, 트럼프와 매우 생산적인 회동 가졌다고 밝혀",
+      "url": "https://t.me/WalterBloomberg/38601",
+      "ts": 1795005237
     }
   ]
 }
