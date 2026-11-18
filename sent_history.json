@@ -1,18 +1,6 @@
 {
-  "updated_at": 1794993835,
+  "updated_at": 1794993994,
   "id_hashes": [
-    "7c1023e99d1f3c29b35111a7b1696a3c4a5330283554bc4335bf39f92067dde6",
-    "9b5cda06efd0aff99d52b11be8e84575763091d33008acdc89f947d732de1f3d",
-    "cec4f8d7969270ae170e3f094f27349924cf17206be8ef8ed248e5cf54959720",
-    "54612bc54419166c7b052cd9b7963c3aea83449e20b64d5dcbdf30fcb0b976c2",
-    "5af9fdba2058858139b153aab87262e9b15377561fd62c9f44113714b44720e9",
-    "5601bb3b57d4f646ebc04289f434c55dff245d15af64a95e2e05dfdc36ff742e",
-    "b799c7a547e46a1f8163b3cbe53573b1933ec614772e8b314bb775f5a8e83a64",
-    "6ad880fad0af6f718b9c104d4485e51b9e9e478967b1f628bb5728ea466966d6",
-    "1da35846026e3342c1d0ea2464d59f2a4b77edc8f0acb83f5e4742b2f97adf9d",
-    "78f38b5349fd4656834a8cd3257f3d623f19fe111fc87c41995a645600704509",
-    "cc6e361805be92c49909327120b1506a1bd3c34031f65adb9cf065a9e8859028",
-    "516496696a5972bedc080a78c31fa59baf530fd44c0b4b4d70ac90168cc39afc",
     "831894d965f7606131b0b9c0f6ca7ebe3e8fe3890cd2ed2a55806c76601720e5",
     "1c44d25db910c885844f906594c80071dac334044d6ad1b9815f383af28c4518",
     "0c3c6e55399c464bac66c038f268d2a97c550bc2d582b650eaa919bbdc9df125",
@@ -4000,19 +3988,21 @@
     "3667172846ffaf53cd6997d6a8b509e46ff7c7b7dff4e96332bab4bf5c281456",
     "c01ed4759e75377593401fc490116d60cd279ad613f071461a7284a4f6ab69b0",
     "23c9f88f6352b13c139aed327a48b5f2882d399ef363209835cf8eefa57c7c7c",
-    "cf8b78d6eedadd457e746d23af6bc01587f3cc9bc3ef12b065f0c00541a07ac5"
+    "cf8b78d6eedadd457e746d23af6bc01587f3cc9bc3ef12b065f0c00541a07ac5",
+    "2dc3f0a7d4e68aa64f9f9a55a86ae196819a99a77c1504893ed22df4057daec3",
+    "8b33e0ef3e5c2e61ab2952ccf700f900ce0feff8a605d28da3417612b98ba047",
+    "562200a49717d26ec1e7781595f72b1475bda4eeda2bb91e7c6621cf681b2077",
+    "2bf05063294930046575b61467b5e9b8ab602bdfee9f4bc09ecdbac68c9bc5b0",
+    "f69fb06cb3ede9bc1922160a704bf06c7a00cecc60fb3911ae25a7cdfd647234",
+    "f61ec8b5cfd7c3ac524897b129ca309303356b0b09227a0f011707fff10e0dee",
+    "1846eaa58022f982cca9d467010be1596cbfbe63a765da78165f0773a408215c",
+    "3ebdc7d47b13ad9f543c51b7c62a78a4046fbb8eb01ea22d11680bc5c591a0d0",
+    "8b4defe4fd48ea387f9fe2eb3911f0f7df4f929bb1f79b3d4513600aa0e4d1be",
+    "a9a39de4aae1e7efd4fb8e52239eada65f15c9e32716a33ae9f6d4f93f612aa5",
+    "b59ce99074fd25bf6c247ef913ba50a579c78476540e450f7b0c26b8f7ff50e5",
+    "cde3c1459aeed41c579748703ff8a8957a36df9fb280a7f6f86e34930c3bad41"
   ],
   "title_hashes": [
-    "621164d011d9ca9833a48892f57f0fb1a442e821c3a649cbe15ca31427132244",
-    "b07d8dcdc8a99272d4d43caf60082e1977232941fbfdd61298248a708b6b60b7",
-    "f9b211662472b70a3f21066443c60b114f9dcebb4fd3f83bdff06bce220603e4",
-    "7cf93efcd811dec908de5f920088b5cc0eeab62b10082a9caa7650f54aeefb54",
-    "5907789eccb835c3bfcecd744329dbe58170bf9d1f4034f3a4a18b9f512dc423",
-    "270b6e7099051e66c54271cc8fa8376875caa51ca5427d9d276dfb3316c14cb6",
-    "2b6b9007d4c96a6d04b0ba19a7ff32532660b39cd13638eb7a8ba96216080120",
-    "737e5a7db029a583170e0dfbeefb750c61cb3c4bb2fb77f99179b0a360532faf",
-    "68974c544570bcc055873c585da1085a434d3cb64381a1b220dae110e4dab810",
-    "01e73e411071d99c1940e97db5155dac2878c627c7f05d7f8716ecde64177f88",
     "c7e28a23cc65e90cbb72dd9df43687be8d1ab5041bdf35b66a6e3a3ee7ce19d9",
     "758c78035089b3679f318e0829ddb4df66524de5957d646cd569b38f67bad5b6",
     "f796f0ee0c599d7d2e899212ed4f180befd54c1fd5ef29a200caa6975a006a4f",
@@ -8002,30 +7992,19 @@
     "3c8d125365ed61bb18cf4fb1cb5b84c5e180040b82437123b8bc36b21b025443",
     "f332cd3807eade2cf2ef4a7087144b2344448cbf1ddf3a11a665987dacfdf9bb",
     "8150f1f441949fc2fac4b0bb9983fb50da0295970060daf9c2325f79080fc25a",
-    "6aa85909d47e68fb97ea67f5495cf85cae8968eb4060b34c676940efeba2d9a2"
+    "6aa85909d47e68fb97ea67f5495cf85cae8968eb4060b34c676940efeba2d9a2",
+    "e743cc6e448ece83899c3b7d7b13fce38788e45226574731ba25ba0b000239c3",
+    "f0ff97a91d30058388bcebfa5f19d013c93d67bc5e635a084889afc07938f598",
+    "f7d1d1fc6ddbf4ab4a5b125818431f5f6c205fd032cd58c899e5bf4ac2c4aa32",
+    "45e5523bf51050e05317669246ccb463556af9b30ae0697fa4974a59fd4e7e22",
+    "76703fa116e2dd9bad0f2725354a213dc0b09b40f27da8376f6d97fd8c4c21ae",
+    "668b9d28659017c2f03973090a9ce6caa3bed6faca35aca727d4fc16887ddab4",
+    "d04b4f1c425bcdf53e368065a6109d2901a87563519bee6018119f984f0690ce",
+    "a3ea6b40ae20755240bd77f54125c8e19e3ba3bcbdbbbc4966714379cb837bbb",
+    "90122ddc5aa4304b1cc1d3920a36af239e9ebcf842dfcb4d321cb3294597b71d",
+    "8fddd5f2df79d61d653e130337a222478fbb71310b00a2709cbf97e396aac5e3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합인포맥스",
-      "title_en": "이억원, 美 SEC 의장과 자본시장 논의…글로벌 존재감 키운다",
-      "title_ko": "이억원, 美 SEC 의장과 자본시장 논의…글로벌 존재감 키운다",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445336",
-      "ts": 1794968577
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "국채선물 하락 출발…엔비디아 실적 호조에 코스피 5천선 탈환",
-      "title_ko": "국채선물 하락 출발…엔비디아 실적 호조에 코스피 5천선 탈환",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445337",
-      "ts": 1794968580
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Xi And Putin Huddle Ahead Of Historic Trump Trilateral",
-      "title_ko": "역사적인 트럼프 삼자회담을 앞두고 시진핑과 푸틴이 모였다",
-      "url": "https://www.barrons.com/news/xi-and-putin-huddle-ahead-of-historic-trump-trilateral-7689e861",
-      "ts": 1794968585
-    },
     {
       "source": "한국경제",
       "title_en": "\"엔비디아, 현명한 선택\"...젠슨 황 빈 자리 메운 3명의 인물 [어닝콜 하이라이트]",
@@ -11504,6 +11483,27 @@
       "title_ko": "ECB 보이치치, 펀드 대상 중앙은행 대차대조표 개방 논의했으나 부결… 향후 재논의 가능성 시사",
       "url": "https://www.financialjuice.com/News/9857489/ECBs-Vujcic-We-discussed-opening-the-ECBs-balance-sheets-to-funds-and-decided-against-it-it-may-come-back.aspx?xy=rss",
       "ts": 1794993834
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "돌아오겠다는 젠슨 황… 엔비디아는 내·외부서 차기리더 물색",
+      "title_ko": "돌아오겠다는 젠슨 황… 엔비디아는 내·외부서 차기리더 물색",
+      "url": "https://www.fnnews.com/news/202611181823093123",
+      "ts": 1794993920
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "하나에어로다이내믹스, 코스닥 신규 상장…오는 20일 거래 개시",
+      "title_ko": "하나에어로다이내믹스, 코스닥 신규 상장…오는 20일 거래 개시",
+      "url": "https://www.yna.co.kr/view/AKR20261118173400008",
+      "ts": 1794993988
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "망고부스트, 日 AI 반도체 기업과 맞손…AI 추론 인프라 효율 높인다",
+      "title_ko": "망고부스트, 日 AI 반도체 기업과 맞손…AI 추론 인프라 효율 높인다",
+      "url": "https://zdnet.co.kr/view/?no=20261118182318",
+      "ts": 1794993993
     }
   ]
 }
