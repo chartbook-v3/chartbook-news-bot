@@ -1,12 +1,6 @@
 {
-  "updated_at": 1794990291,
+  "updated_at": 1794990447,
   "id_hashes": [
-    "7ca2bc6b4aecb17ae9175bf21a9737865d93f90e6b8cf8e20045134f0e4962f4",
-    "581157cb2608fec280d88aa6d5923a3a09c452a386853fc4b47139715a767cff",
-    "915797105d3ca899c16209f8a8b457d4465eafc2a3e6318bec158745757d5550",
-    "3f77dc06db9197ca6c07ed723fe76eec0f5fa8ff4c4fc93560a1220c531a50fc",
-    "2a48de7e8437ceec51860bc879fa0d95e1a17f3db6c8423b45d43790dfb24809",
-    "3b182b5847b6419874aab28ff46ed77e7fffc345d96a7047474c0b11bcff112e",
     "9df9daa188fa025a0fb3d69221c0308c3615030ceab1026ef4f9f956f1bc956d",
     "fc747a69ccab4bd87a99e824b64a1079dac81eb3573afa752cda9fe86b8bc57e",
     "ee19e3c13a1d2ee2f28b5f60e7f6443df482aa69410b06e9c8d244a6120c53d2",
@@ -4000,14 +3994,15 @@
     "7e892c61e0e6ddb80d6b5b3063605fad4028cb4fa1f6727ab7f2c279ea423aa7",
     "fa87406ebc8f7054a8553c77d84cbae8eec295c734727c01d0628cb665ad5082",
     "d3344b62c1984d02dbc9d7d8444f404e8ae8596b319483ff37f152927eb6e174",
-    "89f334eb63ba803a957f9fd595f527dc7cbc93700cc5398eee1318cf428a52e5"
+    "89f334eb63ba803a957f9fd595f527dc7cbc93700cc5398eee1318cf428a52e5",
+    "b968aa10b85cdf31b73c5555090390ea8ab02bfd1be5804db733c5933a96c64f",
+    "9e50d2be8f7d320010a78e8e49a0d09e2c3029ac1ce73a70d04571a6abfcc36e",
+    "366e12ae7889cf112ea4767326524673262fc5392ee6ef7ccbb0f01e53306534",
+    "172901c1cd16a7921bf4b4b06fba057ff93fd041b9e07e627e32956f4d2af008",
+    "ca067354f2691867fe4bcbad1b4f9ea5a9207ba2eea770bd79323ae1ca90244f",
+    "a94ca977606710f6c584e8c0dac5de5fff151f02623e33f3b98ba927a4ceeef2"
   ],
   "title_hashes": [
-    "a909b104950c9ebf1a2dcb3982fcdceaac5a509e4f7ded72a9e92e26cbf02bee",
-    "57243b18c11cfb5eb46f8dfdff35f919b219811b63b7e44a5b40eaa7b5e3dd08",
-    "9e0473f44fc1667d7c4ad32caa72e8777ac0f1e08a400074b78f3e3bee4cb422",
-    "13747076000ba3fadbac806d567e3c8666a5630808bb222a46431189caad41e2",
-    "d20fbd279ab49cab7b410a25ac0b4a7fb723a05ccd336071774aff852066f8d6",
     "48217db3d2c0142cdc124721a705f709a09ac95c23e638944213cdf96de324d1",
     "93cc3c54a684e718084cb64d5164bf9ba075e97cc6249449652c19d671050c1c",
     "edd7d4f484627fbbaf259f484fb87d0c1471d252b3e0da7059cb20b36ad91f8c",
@@ -8002,16 +7997,14 @@
     "d6c122b74d0db8da38744b087f7f03bda12af99204b6ef53ab0ea52f75b083e1",
     "801ad37e941c61003036f4f0f3b701126a9c3c01efe7856d7bc0b3fa5452fd4b",
     "d530c9b4be1dfc3c78d0d7696a58f36568caecfec2a96768aa5397204f4ea0c0",
-    "daa9282e380d795b9c56afa481491add677f3982563be73ca935b02f9fa4fa87"
+    "daa9282e380d795b9c56afa481491add677f3982563be73ca935b02f9fa4fa87",
+    "acc2fb239df2890dd8f16b6d485bcc09f40a0e2498838ae21dddbadef830f06b",
+    "079bf7fbdd03768e08dc973fe933eef91357f45ae4afa2421feda0a39c2bd094",
+    "d5333e6e62b9c972b5e6c2a6d587223f700b17635f129f3a46354b210532895b",
+    "393070289ddae1b83ff3c66685c616218b1d41e0dbd4c2232a573561595a3218",
+    "433148a54bfb35c7d4dbdd8e001940dc2c7893734bd2d5fd769112687f975237"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Ambani Seeks to Build Satellite Capacity for Starlink Challenge",
-      "title_ko": "Ambani, Starlink Challenge를 위한 위성 용량 구축 모색",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/ambani-seeks-to-build-satellite-capacity-for-starlink-challenge",
-      "ts": 1794964514
-    },
     {
       "source": "FinancialJuice",
       "title_en": "US Secretary of State Rubio: no imminent threat to US homeland from Iran",
@@ -11504,6 +11497,13 @@
       "title_ko": "유로·달러 환율, 0.3% 하락한 1.0965… 19개월 만에 최저치 경신",
       "url": "https://wallstreetcn.com/livenews/3201797",
       "ts": 1794990165
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "STUBB SAYS AI FRONTIER MODELS NEED TO BE REGULATED LIKE MEDICINE IS",
+      "title_ko": "스투브 핀란드 대통령, \"AI 프런티어 모델은 의약품처럼 규제해야\"",
+      "url": "https://t.me/firstsquaw/193819",
+      "ts": 1794990445
     }
   ]
 }
