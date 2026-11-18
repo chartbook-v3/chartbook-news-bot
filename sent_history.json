@@ -1,12 +1,6 @@
 {
-  "updated_at": 1794998529,
+  "updated_at": 1794998682,
   "id_hashes": [
-    "c09d18ad63aa621e3dd11ae7107e4fa346a883cf7981b9dbd2d4a5104744fd3e",
-    "5041552041e35faf96ab60192ec72d94850ac1be1aedc04375e7cdb06629c6f8",
-    "cb439439f4aaf00bb3332306dc179d36812201af74503a9e02f28a87c08b8ee0",
-    "5af2789f256077aadb039275cc8fadb2e43146f431181ffc5cce5291b2b7ced4",
-    "7d461b7dc09c027b99b0716cc8d400db7e9a577e8fd47c743cd3f7b52e1fadbd",
-    "edc61892a9af5f1489fa3b9a10cb53795d02827634e8d4628daebca5f9300b13",
     "76dd36a8a12a9172d1d38e7768466c15520dd7c0b0956acc23dba2bcdf6d1252",
     "c7094b09b09c952b661563b8ea8e9a609c3c61ef254f72eae972764ba54bb029",
     "c8983f54351854ab9ecde76117d28fc65de6b787a2e5e98e8f5b84d4a5dc03c3",
@@ -4000,14 +3994,15 @@
     "906bdcd71db510797a21970dab54e689e45bd01f5f71dd7714ae0d8616ae8db3",
     "a2f56ba8dd84b4b71731e5933ae95073c1ad2fa1823039ba9f4ab998091a35c8",
     "0f68514610a83745d1187d01b4854d301b84f127a654e9a8e47e4585a98b7410",
-    "180b5b4e3e2eb58994d000338d9c3f4834a448bc05e3db9852966b832e097d9b"
+    "180b5b4e3e2eb58994d000338d9c3f4834a448bc05e3db9852966b832e097d9b",
+    "18a27488ba27bdb2ef77ca4150c6eac77782961eedcc5e4ea388a285cba76318",
+    "1b3cbfa734877f8857218bd545a7de9d3374917620605a4637ba203ad1576328",
+    "96dffa61062055ef9a8ee5d9f0eee2902dd532a1bec982f2db4b7d2aebccc0b2",
+    "e4f3e838b41a5ed61fc8a40496d3fd089505586c6a135f693f09f43a6ccfb37d",
+    "9d80ff7d63cec073e32d7160063a0b2f78e8979e0ccee4c01890c4e9be3b3709",
+    "bc7a2f25be8b0c2ced6d585bb5894dd6e5ff41c734325704272a1be94f081cd2"
   ],
   "title_hashes": [
-    "7161de90476162770771835ed8e91ca22ad4aca07176b92c0efd764577ed5f16",
-    "f81e0bc4dfa9a869939dd34e9e1e4dd97e5eb30653a5217993cc658eebe007b7",
-    "4ceee9e88ca4b6189521666087d78c71499f8ab4a3a77ff3cf857ce3be99a132",
-    "b32acf7a28fa225de0067577a9d63e4915eedb85069748819902d93f38e45111",
-    "9e83097dd5fb3137c3c16d216c6a2bddad9968d9a89ef146e562ff169bf9cd38",
     "b6912130fd4e8de80d1d47672593a50aa626738486a8911dbb4757a1d1e81daa",
     "abf1e71a2ee99184da2978bb1674b7a2a18ded768b94d44011033947c33a18c3",
     "625c2e3860307fc52935c65b2cc6fcc27cdf1510d71cb21353b8469c026918a2",
@@ -8002,23 +7997,14 @@
     "4fb13e2deb9655eeaadd481644231226af4ad09e957af8bf6ffe9bd92d8d6161",
     "7fb43b80d07c1ea05c76e58e448f892cd380e359614dd59cfe8f87b09280e810",
     "87e47c875be9c9c225c60700d72a8e9ae84bfeae43f6e232a8bb91487469d636",
-    "953a0cbe21c656413d3c1943fd1df6a195085ac12185abada86f374fd96f4b31"
+    "953a0cbe21c656413d3c1943fd1df6a195085ac12185abada86f374fd96f4b31",
+    "bb7d135f7c62c549bc06fb2cb40ee0b8cc285a7296cf19dac34c68f83ca42a9f",
+    "a3169801d39abeda79aec7ee7605aafc16a1977306502add7de1a58e6d0ad24f",
+    "f02a6192cc411af2e9ecb055355f637f28425e3a5ef6bf760da283e534fdb4cb",
+    "ae9a891cf1e0528e31185f9b243d28f93212e6ae8786b32db27e1ce45a3b1d03",
+    "dce99c38632cde1c865a460307aa4909ff2a606b9a14ffe68b646bc07889810b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "Fabric competition intensifies; optical interconnect and ASIC adoption expand supply-chain opportunities",
-      "title_ko": "원단 경쟁이 심화됩니다. 광 인터커넥트 및 ASIC 채택으로 공급망 기회 확대",
-      "url": "https://www.digitimes.com/reports/item.php?id=20261117RS400",
-      "ts": 1794973222
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "WesCan Energy GAAP EPS of C$0.01",
-      "title_ko": "WesCan Energy GAAP EPS C$0.01",
-      "url": "https://seekingalpha.com/news/4673983-wescan-energy-gaap-eps-of-c001?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794973225
-    },
     {
       "source": "FinancialJuice",
       "title_en": "China finance ministry auctions 7-year special treasury bonds at 1.40% yield: traders",
@@ -11504,6 +11490,20 @@
       "title_ko": "크렘린궁 \"푸틴-트럼프, G20 푸틴 방문 논의 가능성\" - 타스통신",
       "url": "https://www.financialjuice.com/News/9857612/Kremlin-Putin-and-Trump-may-discuss-putins-visit-to-G-20---Tass.aspx?xy=rss",
       "ts": 1794998527
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "https://t.co/E6gPGSAFNR",
+      "title_ko": "링크 주소만 포함된 헤드라인이므로 변환할 텍스트가 없습니다. 번역할 영문 헤드라인을 함께 입력해주시면 즉시 증권 속보 스타일로 번역해 드리겠습니다",
+      "url": "https://t.co/E6gPGSAFNR",
+      "ts": 1794998615
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "‘Steve Jobs Ruined Everything With the iPhone:' Palmer Luckey Blames Apple’s Simplified Design for Killin",
+      "title_ko": "팔머 루키 \"스티브 잡스가 아이폰으로 모든 것 망쳐… 단순화된 디자인이 문화 죽였다\"",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63377878/steve-jobs-ruined-everything-with-the-iphone-palmer-luckey-blames-apples-simplified-design-for-killing-the-art-of-mastering-technology",
+      "ts": 1794998681
     }
   ]
 }
