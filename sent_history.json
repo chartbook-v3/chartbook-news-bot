@@ -1,10 +1,6 @@
 {
-  "updated_at": 1794963127,
+  "updated_at": 1794963276,
   "id_hashes": [
-    "4e24667514d5509dffde731e6411855ca676af5338b3987579e667d7911f9ede",
-    "50a996d9c70d20b1375c4029a97f93ebc7c69d209c4e4bc95b1b3465b6383164",
-    "9bd5f73c71eae0362198cd73e9896db514982a72be1c06e12a75f195b0cb2a83",
-    "d7974111b89270c3e59848ee363bc918e36b96187c23868ea7078a3e7b0b5732",
     "8dbf4eefb4490645f34f788cf2dac61bd63f78a535d163525c6079eea0fc13bb",
     "158cf4194a2ac85c947b49c3e3255a5f4836b915ac76a0a01590966f1b3cd98c",
     "591ac59b488805c71c8f1d23a7c67d6f6e9e1bc0ddcf71ca963a0ec61eba87f3",
@@ -4000,12 +3996,13 @@
     "1d0f66f67b0ff3ce5938b55a82cb0dba00b52902b805e32899413adb32e8bb0b",
     "85ec1b38b9a529c56cb1e44b3c64f6c2241628d66e25e8a14c0b8c86c46a7148",
     "cfd6680bba00a48f9a6d7ae149f7d0fbe5b7362941ddf26ac68c7ee90ae70f3a",
-    "e3259603fb2d8cc6d48a00a7c528b5d1166e0574bced9e009bf0a4797fbb6309"
+    "e3259603fb2d8cc6d48a00a7c528b5d1166e0574bced9e009bf0a4797fbb6309",
+    "e189a635985b4f714a7a262506ea22eb8e651e07ef6381d393d3655666a6ee83",
+    "2167f20a3335f21bed385388823b481383db7e0181a3685644ffd6f3e521cbbb",
+    "7edbdbdaf722ab926e8b1b49a6cb2b7f64dac0e3d47e8abebcd140464fd1a46b",
+    "c8ee624f6eb8f160b212a8cb6f09afe83362be69709433b809e8932d364ba32d"
   ],
   "title_hashes": [
-    "e1713d814bec44f85711aeea375e998ff42b2c2fff5a03b158229285c0b3c9b3",
-    "949ee825c002262190435b55773e4b823abcd17f2d312a5f22bba9dc8dd1b7e7",
-    "09eb00309e5bc2ae045d50876adcb4e7c2f2faf87c68c471c8f67e43c0460c04",
     "414feefc5727c8f62fcec1e83730c71ee33fd3fd2d909f288770a8e28bce76f2",
     "9010be9e6a8149c18c81bb3e66cb90e3f89f24970f8a11e5cd54ac755f242e6c",
     "d56a90a013df751f4242e12f189c0375be4d4038cb33a6adee2318708743c215",
@@ -8002,16 +7999,12 @@
     "55d8557896ccd8fada1441401b9941c6f2439da8539a9403dea5de248037503e",
     "ae5dac61a810de822f3e80b1a8e9f8ea6d104dad329cf9f44b156c3efe3df5ad",
     "1ea6b58b9908588e83449d059b99a9fa5728b949618cd5f9b02052f0f2b8bf0d",
-    "4a922cc10c6b11ada95be86024f3204dc3dc191b6fa97bb1a152d8ca7c2660a5"
+    "4a922cc10c6b11ada95be86024f3204dc3dc191b6fa97bb1a152d8ca7c2660a5",
+    "edca14118aafff5363469c504d98399c18fc3acc694877037a046d1adac4c8c4",
+    "3b5933706057e1993393ea4d2559bd111aced916526e46fbdb294be35046e00b",
+    "3ab1d244203a661456a8babb2d09fb2ec7b1c8c31cf3c2bdb3a1c0858403f93a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "Microsoft aims for cheaper, specialized AI models - Axios. $MSFT",
-      "title_ko": "마이크로소프트, 저렴한 특화형 AI 모델 개발 추진",
-      "url": "https://www.financialjuice.com/News/9856261/Microsoft-aims-for-cheaper-specialized-AI-models---Axios-MSFT.aspx?xy=rss",
-      "ts": 1794941318
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "微软与各行业组织共同发起人工智能（AI）透明度倡议，以增强企业对人工智能模型和代理的信任。\n\n微软将扩大参与美国国家标准与技术研究院的SI智能体标准倡议。",
@@ -11504,6 +11497,13 @@
       "title_ko": "현대로템, 신규 수주 지연... 목표가↓-흥국",
       "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=218982",
       "ts": 1794963125
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Australia’s Wage Gains Quicken, Reinforcing Inflation Challenge",
+      "title_ko": "호주의 임금 상승 속도가 빨라지고 인플레이션 문제가 강화됩니다",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/australia-s-wage-gains-quicken-reinforcing-inflation-challenge",
+      "ts": 1794963212
     }
   ]
 }
