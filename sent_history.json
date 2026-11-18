@@ -1,20 +1,6 @@
 {
-  "updated_at": 1794971979,
+  "updated_at": 1794972135,
   "id_hashes": [
-    "6ebe30a379a11f24e8e65cc4345f44a31d66407f4d27030be12137f3dd3541d8",
-    "9d0da11f625d51e5b2508779784029ca9c0034fdfdb69c7589cab415164bb04c",
-    "6d430a73ec3b520f303df5f76081aa6042eda5f7fd93cfef62b17967b210509e",
-    "2a49e13f6e85c17fd6af9479d0a553b7d5da1184c0c9edd07cc9f26a9d79c2c5",
-    "8b1d2e1937b4d62af467469d6aed32c365687c68c8569665105c93960e34fb35",
-    "d018d4ff9e108007726174fef0643f87e0a8211ebf7d02a48835baca1b7b8c99",
-    "bb49a6a11a5292a6fc385e7f01564e6ec332352b3c6ae1475a680c60f5ed0b08",
-    "c8d5e654182080908ff3b403265571b7e7da874f9013af1af24d97b789e8b89c",
-    "8e07464fdea9d7e3bc984c9fd451d6b1a53194854d96f630694cdb12ab484129",
-    "a9c4863e93612904fc7a7bfb877ccc157b81d211cc7b5e285ac145a9e654c129",
-    "9fc772a84eb81e4363aee432d9df3bdbd8f6b33e84812dd1de59b4ae36ad35e7",
-    "6e3fdf91b17028417fa7216d84935be9a8102d2e48197645597f806b3c1a5cb3",
-    "2236dc2b3e96d657e58fe5dc64e9c97d07cdf5e9398bc02ac69886847613ac4d",
-    "6cebf200e76cf5c1c154c74e2e000e8d30c19b049f75df509379abac28ce19a8",
     "22f329956ba88e868fc213ddb20570a99eec6e85bcde240f8c1e457e0c83153e",
     "a0c4407c3905caf896f17fe9d7894f8b1102bf55defdf1d3d69142cadd385096",
     "3d3c49ecd50a2a5f062a37cd44f52bd1283d904f2627f31f0e4d1782ead9309a",
@@ -4000,19 +3986,23 @@
     "fb20fa383242da0e698a3be5b135e709656da0c1a85081e0ddc1553deb8b3609",
     "e2d11ada48e6de6f030335a005ab1100938dad26d774eb3c3c25a4e28a5a3fa2",
     "bf3a665c1e406e8ad7effb87aeaaa8a8ff5760adb18c90bb000bb72da80329e8",
-    "c8dd83d221dd9efd188bcd0c04c68b88a00a2ceced96e670fba0280958f3fde5"
+    "c8dd83d221dd9efd188bcd0c04c68b88a00a2ceced96e670fba0280958f3fde5",
+    "25f54bbba9732122a6d9cd263385a48563aad0a6dd5a878c87b4c579f4d49831",
+    "34da85bb308db0c6364c6340d5f347d3e21a40e82590f70bf316c3cc65ccb7cf",
+    "63b161543b3fb6bbe2f7c8c7333fc8500a451695c127c817ab30ff84d73d66bd",
+    "65f2f65d57431047f0c8d160ebda95886c124c665d86da59902f45842e87f2a0",
+    "55316ee4d689e7fee5716f879d7021953fc846726ab4c70931eecb11cde75104",
+    "719da2b7eac4c91854aae19bed19c514d191542ae5d3dc3e6ae487895ae30348",
+    "2fc9a23d9894ea238a117e43ab911eb2e189d7f257ef800bf2d1f981380e9be7",
+    "051fd51f2a1f5ab69e1a7610dd5ee49deb7085305f58b2e221c3629bb9a74a6f",
+    "3fd8d4e0db55bd63b1c798a459277d5e9f6468732d5491c5d3948b6cf4461510",
+    "49887bc9461bd58d53c1066420175730bdbccd9a6a3f29b5281cd63638aca425",
+    "95fe97339b3b10ccb142c796f6ba02cd7cdd905accd8e296b60b0f3fcb074fc3",
+    "600973bebaaed5cce143f01bfc9d4031765f6de1f8936e39438f2677b3b86914",
+    "c4e3d8f0add141411adfb40f377d92a6a2a8cbb3644a41de437110533e68b27d",
+    "828b6489e594614bae6e6a293291f783cf06ad8bbd5aab36f33499502fb97bb6"
   ],
   "title_hashes": [
-    "4f44d30d85194d21447fe59679f511276e62f8e4088cbf5ba86c1086350c09de",
-    "d8b5b424d3d25d446c16aa3638e536ed2b4304d589b601075efa38827325604f",
-    "87369ea7decdfd238a14dfc1275c40cdcd82d237c71f03cb74e01593b21a9a54",
-    "932fcb2ea261184bfad5b6ba9428c6ed95bfba4a887eb48d68e7a597c1e5b824",
-    "788b384cbfca29c0ca35d5eaebabbce25c3d7d57350ed552b0c559fb25edba93",
-    "2f0a17b48ec39ee51ce1887a95c65ee2fc7e2be67f39b5df753cf8132791e8a1",
-    "2c4239e7f434cd9753163500af313992b6011f8ef38df02c0ab66b83e7fa37ea",
-    "2979e0172ccba9982209ef55ce87e5e079edad8199e94ff26e9b0f220e4ade2c",
-    "c078b5e2c84331f53e5d04104bfa9dbe1e96714202a1f32a8bf4408896fd1d3a",
-    "b28e91019e963b07d24bafbfc04ac522d75d6a0a6f04ca8f6f8b52f96f190bfc",
     "f809cf2391d09b6c1883bd3e966eae382036f5c047516a8028e99a273deae748",
     "f7a4db81f05dde6f4e8457f59e696d84877189dc0d18b89a3aac1986e99155c4",
     "5d9cb8345f06f00605edb64e91f8969e53dd72903c693a76267db68c3c8be15e",
@@ -8002,37 +7992,19 @@
     "4b37c6a6bc34a2e1fc34a20c022c0a21ac066eff6c1a0a66359f44768f191041",
     "584fb6e67ef70c2ddd3cae1f934aa3e7ab1757488726f4ddbe5e2b65e6bc95e3",
     "216390206c592248c9c4002a4efcf8bcf3a9c444bebeacf4e30954826367930f",
-    "ec97391004924f2070bf3bd715f8a9a149d13aaa0e3af82931ec6577f8e609b3"
+    "ec97391004924f2070bf3bd715f8a9a149d13aaa0e3af82931ec6577f8e609b3",
+    "c7c205201db1c392851a8b5b991057fe32c40da3ef6b12b1fb5abbf10586818d",
+    "0df8ba0eb235bd8222759b3e59180ddc582572afc65eb9f0842f5d3ae0fb9c39",
+    "8010e2c2f858344cc1558bbceb56553919dbd2a3210862cb048dd17ea3fe1ff6",
+    "235d09fb09a6bb2f77d92d30c1dbfad7c3aea99f0f8ee6396c2c64615354edeb",
+    "632ecc41c473a2213d41f6f271a1adc4828b52207ab6f72a6fa67d1635a24fa5",
+    "48f54baa6521896e30863f9942503920c1a8aa428eb3525a87846a9ee7270b26",
+    "28e496b6df106c27178fbb5dac556a0e2fd8ce98a66791e1964c77ddf96d76a5",
+    "79e8a63781c1df0227bee011c92e73348453a0bceade7e8b77dd43469a102744",
+    "b154803931fcccc6a8959751d2aa64c0f6cfaf6b4c67ba1a338876a3aa1a3627",
+    "b9aeae96861f5bd39c84c5b983817c51d9fb02b9979ffe6f1ef444b2504da2ce"
   ],
   "recent_sent_articles": [
-    {
-      "source": "CNBC",
-      "title_en": "Widespread outages hit banks, air travel and now Apple, disrupting seemingly everything",
-      "title_ko": "광범위한 가동 중단으로 인해 은행, 항공 여행, 그리고 이제 Apple이 모든 것을 혼란에 빠뜨리고 있어",
-      "url": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
-      "ts": 1794947882
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "预测市场平台Kalshi首席执行官反对美国商品期货交易委员会（CFTC）暂停平台部分言论预测市场合约的决定。相关市场允许用户押注特朗普公开讲话中将使用哪些词语。（Axios）",
-      "title_ko": "칼시 CEO, CFTC의 트럼프 발언 예측 계약 잠정 중단 결정에 반발",
-      "url": "https://wallstreetcn.com/livenews/3201501",
-      "ts": 1794947884
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Criteo jumps on report of takeover interest from AppLovin, others",
-      "title_ko": "크리테오, AppLovin 등의 인수 관심 보고에 뛰어들다",
-      "url": "https://seekingalpha.com/news/4673876-criteo-jumps-on-report-of-takeover-interest-from-applovin-others?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794948057
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "周二（11月17日）纽约尾盘，美国10年期基准国债收益率跌3.24个基点，报5.0987%，日内交投于5.1494%-5.0865%区间，北京时间22:24刷新日高——亚太盘初以来（含美国零售销售数据发布的时间节点）呈现...",
-      "title_ko": "미국 10년물 국채 벤치마크 금리 5.09% 기록… 3.24bp 하락 마감",
-      "url": "https://wallstreetcn.com/livenews/3201502",
-      "ts": 1794948122
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "美国政府情报主管、白宫AI主管Clayton：没有看到“协同网络攻击”的迹象。（福克斯商业新闻）",
@@ -11504,6 +11476,34 @@
       "title_ko": "민주당 도전자 Mary Peltola가 알래스카 상원 의사결정 데스크 HQ에서 Dan Sullivan을 축출",
       "url": "https://t.me/firstsquaw/193722",
       "ts": 1794971913
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "STEPI-UN ESCAP 아태기술이전센터, 기술이전 협력 네트워크 출범",
+      "title_ko": "STEPI-UN ESCAP 아태기술이전센터, 기술이전 협력 네트워크 출범",
+      "url": "https://zdnet.co.kr/view/?no=20261118121828",
+      "ts": 1794972005
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: NVIDIA $NVDA TO BUY $10,000,000,000 IN ANTHROPIC SHARES.",
+      "title_ko": "출시: NVIDIA Nvidia가 인류 주식으로 10,000,000,000달러를 매입합니다",
+      "url": "https://t.me/marketfeed/1080271",
+      "ts": 1794972008
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Taiwan presidential office: Taiwan welcomes efforts to manage risks of authoritarian expansion and enhance regional security ahead of China-US-Russia meeting",
+      "title_ko": "대만 총통부: 대만은 중·미·러 회담을 앞두고 권위주의적 확장 위험을 관리하고 지역 안보를 강화하려는 노력을 환영합니다",
+      "url": "https://www.financialjuice.com/News/9857037/Taiwan-presidential-office-Taiwan-welcomes-efforts-to-manage-risks-of-authoritarian-expansion-and-enhance-regional-security-ahead-of-China-US-Russia-meeting.aspx",
+      "ts": 1794972068
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Taiwan presidential office on upcoming China-US-Russia meeting: Taiwan’s stance remains consistent to bolster self-defense and strive to maintain the status quo",
+      "title_ko": "대만 총통부 \"중·미·러 회담 관련 대만 측 입장은 변함없이 자위권 강화 및 현 상태 유지 위해 노력할 것\"",
+      "url": "https://www.financialjuice.com/News/9857039/Taiwan-presidential-office-on-upcoming-China-US-Russia-meeting-Taiwans-stance-remains-consistent-to-bolster-self-defense-and-strive-to-maintain-the-status-quo.aspx",
+      "ts": 1794972134
     }
   ]
 }
