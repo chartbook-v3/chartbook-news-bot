@@ -1,20 +1,6 @@
 {
-  "updated_at": 1794968734,
+  "updated_at": 1794968891,
   "id_hashes": [
-    "fdb9b08c0d9ace46ba351a611491442cf5a14c228db31397b355ca1219f164e8",
-    "d1a262c5c5fd92a63badb61f60c2e9615e5e3c706d9f5741db2d32033e885b4c",
-    "9e91b014154f2a04faa711ff3985eec098a53d9a5213dd8e4770e5cc4b629dfb",
-    "92b1310ff583b50f043ae04b6b0c3098b7ca20482033ecdd53f737ff736293c0",
-    "43262e0f554e2f1b8617924799be30ffd27c119d5282422cbe931c08cdc0afbf",
-    "1dd5a3a39eb0c2124453dd85e5b04adaf29fe5a1d1a251af348774ab7b8d1aca",
-    "246bd90e3bdccd493961d97076ef350be29bcc00b92a80884689754205841be1",
-    "f9ade6f3fd2787d934fa26250d195712d28a64dfcd77b475e7ce6d9050148064",
-    "9b00565d256d8d30fbf03db22342884b29f9054dd7716b07ef4106630093328d",
-    "e1f03bdede4657f535c215ed9fa0731330882a44cc0b99780342898b347421e9",
-    "0af5b90d2000a0ae3815f6a3405614c432f8128aaa13f1cb16f10cc64413eb4a",
-    "1623ebb993019c5a82c0ceb5d84098e36a45f40ed139e2b605b9cb83c17fdecb",
-    "73ab148db2e9f775aab99e637125f23a6599ccd40753ca113f5306446c31ba39",
-    "221d998a5a92eae642361e06df80a2b7ffed60d425b49f2c12af0d8d153feab6",
     "671e94f6389b0c958f1e8eefc2782b4b70a0abab45a720fecf8bb4c92795311a",
     "f4c8f1eefcb3acd08f3362f453b1dc9f3de9a4aad9261731418abd41a75e4d57",
     "76b80148c61bd827ec02e0cdb174bff0e29f6245ac1eb751d8fcd4882dc322bc",
@@ -4000,19 +3986,23 @@
     "9e1db4220083c12b924b4d568f3658947fe44d1b460f23ff82793d8c11f5b416",
     "25b9b4961b1121a16c1fce1f7b4a54657922a1db9e9140c378e142250cb787d2",
     "28567e5a440e1eeafdfbd2ac9fbe9996d26c8bf16d5e3fc07f4a0564bf9ebcab",
-    "bcf76df4ac89ecd71511d8f5710374681728a9416ef72d14152a417cd99cedb6"
+    "bcf76df4ac89ecd71511d8f5710374681728a9416ef72d14152a417cd99cedb6",
+    "ad58957608c6f01357285ad4489cc13bb6ea8c95157460110e42f49a6f35fb11",
+    "4f261224b18fa5c8a809a181329300ac85dbcc442b5573f846ad673b6dedf4f1",
+    "a87acf94acc23b8d811f50a463020dfe7e86f88d83c169fc690641274495cd4e",
+    "ee5d97883d40e8c6250ea6c897413eb3c725e928ee4cafbaeb7a8ef33c21369f",
+    "dd152ee45f92684c5704e44ad26a95faa43ca0926c19f8fe931b022f0dd06e25",
+    "375fd275f7294ff3230b23a05ce8ae0f3f69697b68f6f4ffc5c62c9bd1e3a1db",
+    "089b16dab765e18a9646cca613902244ac3e8b748e09edb9b2b763c461d75af9",
+    "5e6bcc837530fd25bbadfb850f13bc9a2f073be89538f53477c8f286b033ecad",
+    "4b5044183a6667fa95ff29a30c190a6c20505557795f713e8a5ac1d739281705",
+    "4d6048279a0a6117953593d0ab8f140481f9512fda819a3964739fac4aee97e3",
+    "9919e9568ec7b3484138032c7548f01022b13e76e99563d26b8a744eecac5f75",
+    "4026fc2104fe410096780434ffcd2ffe40c1e7a2604a8c20e5837213a2da667e",
+    "a3631a134729225b945739070ae5847345caaa046d9752047d327f70eb8311d6",
+    "8f2f582fa53a40e31862701b2245ae8573d876db7db1bac200737792585ad1ea"
   ],
   "title_hashes": [
-    "8736bf15f0ccc1749d4f2fd98caf3651ac7d4b4755e63fb0b9754d01c10b677e",
-    "8f742a68a7335a2d80ea3905dd3c4af258582a41e545bb326a6b9e179cfb80ad",
-    "355d4218ce4055e4e31d32e679c7494ec49b7f1a05e3d7d1b82d96401f019c31",
-    "cd4f338884999de7b40639adedce1b934e1fe908a20e88f65f4516c6abec9ef8",
-    "37094b2e3ca544d90c4fadae5ce311058811db876ba3dfb3b0fde9a59361ef52",
-    "ca467ff8e3c77415401b3e17aeedc917dbd66632ac6991e0bdac1cd8f26205ca",
-    "86782d73c42c317141e6417103011270227d0502c99676ffef686fcc5272152c",
-    "75a34d5bb81e84dc3727167a1d883c3d7df22e2f3b95ac9ab97e03e601298f69",
-    "d755517fece722e0ccc467e29e565bd442ac65928494d407e6a81deda542d0e6",
-    "24a863b2bceb74c9c3e2d3d18ecebe23a106bef446a3090323cdd34ef3978333",
     "d77a7ec411677d849c68a7843093a6586360b651d329f5c14bcce6776f58d219",
     "dceb299cf9b34587505ab4d53f092b33403f0b2780a9de7363c3572e9322156f",
     "a0920dd8cf24832f09d7ff423d544880704e760f508d8486ed7b41cc695cc49f",
@@ -8002,51 +7992,19 @@
     "173f03ded25559fea528aaf46a12c4a0c64ff4966749ecd9ef38584e1aced9ed",
     "0e16623f0a9bc42d1cbe37c4303a3385e66620e9b62812028e2cc7cb6fc49e26",
     "44874b533242b33fbd3b6b07a9b6ca01792344b27c4bf35193b2a984ea2567c6",
-    "2d842ab44e0fd28560ff66d3f5ea857a2d65e74b99aa19d73cbfee0c00711fff"
+    "2d842ab44e0fd28560ff66d3f5ea857a2d65e74b99aa19d73cbfee0c00711fff",
+    "09214eb74c7423c35b820690b3e9806ea80c69fc168cc95934d3f0fbdf275b96",
+    "503de4af3ffc42b4534eae405d6f68f52a1f54f2f7f8496601702b552f98e391",
+    "7716ccc81b89b8d484be3be8e498468620aa43d14e0ef4860ead3f33168b9e46",
+    "ccbc67ac260e7eb9e98457a93f6d0fb023c56a80f7e93cfd350fda591a72db9b",
+    "b66d2b2fedfe555393d3a3214427f045e7aaeeaf52dcd928a2755130d8320ec3",
+    "c37c1096bf88e6ab9910dae3654869ce98a4a9d77bb96c82d273c0c27e07a0db",
+    "deb2f828313aee83c28e32fd2d30b21d90cd05ffce6a9a8a342fd069cb9ef38a",
+    "3d08182faf796c065b27499aec027877bdd484e490af466b86b192103900b7d0",
+    "6f6d511079886dd79dd5b2db838bc86844e2e3b38f7af1b7a671e7873fc7d6d1",
+    "74bbbed36e6a9b3ade4d602a60a5c2bcb212911fab7ce4fb6493acf81e18864b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "StreetInsider",
-      "title_en": "ASUS Showcases Full-Stack AI Infrastructure at SC26, Featuring Intel and AMD Platforms",
-      "title_ko": "ASUS, SC26서 인텔·AMD 기반 풀스택 AI 인프라 공개",
-      "url": "https://www.streetinsider.com/PRNewswire/ASUS+Showcases+Full-Stack+AI+Infrastructure+at+SC26%2C+Featuring+Intel+and+AMD+Platforms/27362953.html",
-      "ts": 1794944528
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Explosion of the third offending vessel in the Strait of Hormuz - Tasnim News",
-      "title_ko": "호르무즈 해협서 세 번째 선박 피격 폭발 발생 - 타스님 통신",
-      "url": "https://www.financialjuice.com/News/9856384/Explosion-of-the-third-offending-vessel-in-the-Strait-of-Hormuz---Tasnim-News.aspx?xy=rss",
-      "ts": 1794944589
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Nvidia's insurance protects board but not company coffers from litigation",
-      "title_ko": "엔비디아, 소송 관련 임원진 보험은 보장하되 회사 금고는 미보호",
-      "url": "https://www.reuters.com/business/nvidias-insurance-protects-board-not-company-coffers-litigation-2026-11-17/",
-      "ts": 1794944657
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "SCHUMER SAYS HE HAS VOTES TO BE SENATE MAJORITY LEADER - CNN",
-      "title_ko": "슈머, 상원 다수당 원내대표 유지할 표 확보 — CNN",
-      "url": "https://t.me/firstsquaw/193585",
-      "ts": 1794944664
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "AECOM forecasts 2027 NSR growth of 4%-6% with adjusted EPS midpoint of $6.25",
-      "title_ko": "AECOM, 2027년 순서비스수익(NSR) 성장률 4-6% 및 조정 주당순이익(EPS) 중간값 6.25달러 전망",
-      "url": "https://seekingalpha.com/news/4673862-aecom-forecasts-2027-nsr-growth-of-4-percentminus-6-percent-with-adjusted-eps-midpoint-of?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794944751
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "SpaceX CFO: SpaceX could be the largest AI infrastructure player next year. $SPCX",
-      "title_ko": "SpaceX CFO: SpaceX는 내년에 가장 큰 AI 인프라 플레이어가 될 수 있습니다. $SPCX",
-      "url": "https://www.financialjuice.com/News/9856387/SpaceX-CFO-SpaceX-could-be-the-largest-AI-infrastructure-player-next-year-SPCX.aspx",
-      "ts": 1794944758
-    },
     {
       "source": "매일경제",
       "title_en": "젠슨황 복귀할까…엔비디아는 별도 헤드헌터 통해 차기 물색",
@@ -11504,6 +11462,48 @@
       "title_ko": "역사적인 트럼프 삼자회담을 앞두고 시진핑과 푸틴이 모였다",
       "url": "https://www.barrons.com/news/xi-and-putin-huddle-ahead-of-historic-trump-trilateral-7689e861",
       "ts": 1794968585
+    },
+    {
+      "source": "한국경제",
+      "title_en": "\"엔비디아, 현명한 선택\"...젠슨 황 빈 자리 메운 3명의 인물 [어닝콜 하이라이트]",
+      "title_ko": "\"엔비디아, 현명한 선택\"...젠슨 황 빈 자리 메운 3명의 인물 [어닝콜 하이라이트]",
+      "url": "https://www.hankyung.com/article/202611183265i",
+      "ts": 1794968758
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Huya expects gross margin and non-GAAP operating profit to keep improving as non-live streaming revenues grow",
+      "title_ko": "Huya는 비라이브 스트리밍 수익이 증가함에 따라 총 마진과 비GAAP 영업 이익이 계속 개선될 것으로 예상합니다",
+      "url": "https://seekingalpha.com/news/4673975-huya-expects-gross-margin-and-non-gaap-operating-profit-to-keep-improving-as-non-live?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794968761
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Hong Kong-listed biotechnology stocks come under pressure, with the Hang Seng Biotech Index down over 3%.",
+      "title_ko": "홍콩 상장 생명공학 주식은 항셍 생명공학 지수가 3% 이상 하락하는 등 압박을 받고 있어",
+      "url": "https://t.me/firstsquaw/193714",
+      "ts": 1794968764
+    },
+    {
+      "source": "FT",
+      "title_en": "‘Witness the Wonders’: China touts miracle city for Trump summit",
+      "title_ko": "'경이로움의 목격자': 중국, 트럼프 정상회담을 위한 기적의 도시 선전",
+      "url": "https://www.ft.com/content/9949ef98-c6e0-4891-bb3e-e8a0ecebfdee?syn-25a6b1a6=1",
+      "ts": 1794968885
+    },
+    {
+      "source": "FT",
+      "title_en": "US cyber security agency warns over vulnerability in Oracle’s Java",
+      "title_ko": "미국 사이버 보안 기관, 오라클 자바의 취약점 경고",
+      "url": "https://www.ft.com/content/7d0ddcb9-5b4e-4146-b237-46c128eea419?syn-25a6b1a6=1",
+      "ts": 1794968887
+    },
+    {
+      "source": "인베스트조선",
+      "title_en": "한투의 '무리수'로 끝난 KDB생명 인수전…후순위채 투자 요구에 '제동'",
+      "title_ko": "한투의 '무리수'로 끝난 KDB생명 인수전…후순위채 투자 요구에 '제동'",
+      "url": "https://www.investchosun.com/site/data/html_dir/2026/11/18/2026111880080.html",
+      "ts": 1794968890
     }
   ]
 }
