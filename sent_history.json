@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795025984,
+  "updated_at": 1795026137,
   "id_hashes": [
-    "d5ba9d3c21a0f301f26cba039f5194510b073cbb5db415b33aa2b3d4f3d3175d",
-    "77547cdab4af91de0b1519fa8d5fb5bd9122867fbc43e138563b5b98e9fc565c",
-    "7b4715f3ad8ad00851072c9ca4058f9bf87f6060ad9c45620d0d01b1f21fcb1d",
-    "52a7ec800ad008f843049270e1b6ed22baeb7af440dace435cf0a1a8dd442eba",
-    "93d0d8e328554444fcc6e2e5398c5ff676fbc1a5cccd3eaf2fb90e1aa771be29",
-    "e0dc863a7ab7f7ee70f4940b5b69a3e457b8b3f5c18c93adaba9c26c0b557d78",
-    "ea74ea08861fe6f530673b328884791fdc89513fa7869e9b8aa20057e4e0ef02",
     "76db81f7db61d04921c728b64f2b6d8315569de818420e75e0ca9d625775fd6c",
     "902ce8a5ecd0b9fb7dec70102a1226de357e20c5e3d0699dcc4f7bbcd14c8e0c",
     "522af4c5e55c5d2e2c48d4087dfb051a843636516b64c5a585cb39c995078b0a",
@@ -4000,16 +3993,16 @@
     "29ed2ce55a02c2eb939072ece880b7f5776ada1cfe413b94abf585fd8fff7221",
     "6ca9457d37ce68be8c2e9ffd1bc3b724238c0ed0c93dc08a69360b92bb02321a",
     "494c6d9f1cc8a45adc24846a05c2d00d4a5afb7e688bc53e229f924100880c36",
-    "912d72428fcccadc982adc0a19bdee161f9b4c8fb8ce111b31406414858d712b"
+    "912d72428fcccadc982adc0a19bdee161f9b4c8fb8ce111b31406414858d712b",
+    "e9584331756be5cb14090de28f68e2d98c26ce2cd484e87d21070787acae6351",
+    "d57b0e49ed192d07d22e7e6539807b94d2ef2d0e798f8b9c57c6eb410dcd27ce",
+    "c6019d771d83f6f6b5acbc5c7c85f17bc0ab999e77977ae446a28e425da1a3a9",
+    "4c1137a37b0d88db36c670b6e3f932731bfe69a1b6242638300b6584ef4953fd",
+    "f935537b432874b08d803f4f6a304909d36a759c97dcb375894be97bb37ea095",
+    "194c81976f5c70aa6b63507cf74b509fc80d3bd7bb34c6aeb6b1c96d9f9bc790",
+    "a663ac37ec773d13b47b7535da97c3e89e9bdeb439d490da6ed01a59e23b15cb"
   ],
   "title_hashes": [
-    "ca7f03f533a29d41caece0c898739ce6ccee46b5458c9f97f4e0c3d58991ba10",
-    "2d5df355378e44a0b8174e6e8843eb583c509f9a777a83aafb6bb06b37f36fbc",
-    "23f78962ae90829801b825ad4a74ce8c07b48665a80afe55a67e09cfd2becfdd",
-    "89c432c0001c420f3a2c5e468da2027fe3fe59cb497d45fbe7c77358feac60e1",
-    "ec1c0a1685910a393f2522a03e4285ffac339f294c69dd50bb36c00a7a02ef02",
-    "2bc18583ff4987114ea11a7f04328f62fc85ae541335bffa1194ace1382ab650",
-    "1ad43c63205a4d1089f39d587abb88c98fcde90aea724bfdd41c575409a9f99e",
     "fc6817bff9be3c6e3a60107d05913212b6cadd4e0ef48906a7f95be6d8977346",
     "df4cbdb1375eac572c22f9a5317cf491460da27dd4dcca65b5df308ce1cd1c46",
     "aa633d8638e2e337a689a8b253b7e41b126fdc4f2c6b0c24148b6ebed0bb00ec",
@@ -8002,30 +7995,16 @@
     "2a22fc40b3389d13098087a564bd9aa8895b1bf2cfffa75fabdf9bd5952f2209",
     "7a153a0b7859198d6675eb467edb3aff587f3f438a2ffbb18611ba151b95875c",
     "c6023f1158c6f993e4fe62a39127958e15ade3c040dfc82fc78d7e00f4cf5100",
-    "35d46ca63b2835985dfd6010e5adea2c472a6fb7bc7d9dee139387c73fc6493b"
+    "35d46ca63b2835985dfd6010e5adea2c472a6fb7bc7d9dee139387c73fc6493b",
+    "d1d630cc467d85f695de03465836363ab1b7cb81d1c2a8c658f312d8f396b85b",
+    "9d32727505b5f1f4efc93e472cc8b7ca00a46221f9ac21763afeddd9f235a91a",
+    "07460aea9f3c9eadf584ddd66e3be618f222c91a1f9141d4af119dc732925ca5",
+    "5ab6ab3badc92ea6b0ddb7a966503f4b339bced0b54a641d798f06d467b103ac",
+    "b4af1f6318c153746967fee84f96db0c6851151d0177e1dbae009362e9aa953e",
+    "af744c773c90d645e06ef465400eef89dbabb3fb5e88bffc5790a0a784220332",
+    "eafc4278e502d1689c1c9b8682a9fce802f3496a77e27d9b6e22310914822483"
   ],
   "recent_sent_articles": [
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "AI 투심 살아난 코스피… 5000선 회복",
-      "title_ko": "AI 투심 살아난 코스피… 5000선 회복",
-      "url": "https://www.fnnews.com/news/202611181812010943",
-      "ts": 1794993304
-    },
-    {
-      "source": "지디넷코리아",
-      "title_en": "박동일 산업부 차관 \"체코 원전 속도감 있게 추진…품질·가격 약속 엄수”",
-      "title_ko": "박동일 산업부 차관 \"체코 원전 속도감 있게 추진…품질·가격 약속 엄수”",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SREEyWWd4MjNZV2FBYk1udXJBNWpNTkdSTFFaeExwT0FtVHM4Qk5UajBFRG1LYUQ5MDFHS0xSbWpoX2l0djU0N3lCXzdpb2hRT3R2ckRR?oc=5",
-      "ts": 1794993369
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "U.S. stock futures rise as Nvidia earnings beat lifts AI sentiment",
-      "title_ko": "엔비디아 실적 호조에 AI 투자 심리 개선… 미국 주가지수 선물 상승세",
-      "url": "https://seekingalpha.com/news/4674041-us-stock-futures-rise-as-nvidia-earnings-beat-lifts-ai-sentiment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794993371
-    },
     {
       "source": "파이낸셜뉴스",
       "title_en": "다족보행로봇·AI전투차량, 실전 배치 '패스트트랙' 열린다",
@@ -11504,6 +11483,27 @@
       "title_ko": "금값은 온스당 2.9% 하락해 1년여 만에 가장 낮은 수준을 기록했으며, 이는 연준의 신호와 더욱 공격적인 금리 인상에 대한 기대가 달러를 끌어올리고 금값을 치솟게",
       "url": "https://t.me/firstsquaw/193919",
       "ts": 1795025983
+    },
+    {
+      "source": "WSJ",
+      "title_en": "U.S. Crude Oil Stockpiles Rise for Second Straight Week",
+      "title_ko": "미국 원유 재고가 2주 연속 증가",
+      "url": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-rise-for-second-straight-week-086a0883?mod=rss_markets_main",
+      "ts": 1795026003
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Fed’s Daly Urges Rate Hikes With a Thoughtful, Measured Approach",
+      "title_ko": "연준의 Daly, 사려 깊고 신중한 접근 방식으로 금리 인상 촉구",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/fed-s-daly-urges-rate-hikes-with-a-thoughtful-measured-approach",
+      "ts": 1795026133
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "US Sec. of Defense Hegseth: The oil deal makes the Strait of Hormuz a 'non-factor'",
+      "title_ko": "미국 초. Hegseth 국방장관: 석유 거래로 인해 호르무즈 해협은 '비요인'이 되었습니다",
+      "url": "https://www.financialjuice.com/News/9858360/US-Sec-of-Defense-Hegseth-The-oil-deal-makes-the-Strait-of-Hormuz-a-non-factor.aspx?xy=rss",
+      "ts": 1795026136
     }
   ]
 }
