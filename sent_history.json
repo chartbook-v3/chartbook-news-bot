@@ -1,20 +1,6 @@
 {
-  "updated_at": 1794987038,
+  "updated_at": 1794987195,
   "id_hashes": [
-    "f26227ffb41dab8d77ab27287199a6a597d1bf0af4cbb94c864209884fd4bc73",
-    "bf65b44726eda33ee938332d86ebda749688a8a4f25f3b9bb4976a5827af217a",
-    "621ce1fafe2d21724db8c1c9cbcb225fe77388b5981d36f44d872008061505d3",
-    "cc816c9cc3927e46cb1d019399182472763c4245687e0069e2601943d4a33d4f",
-    "6ead907e414eba51039ef7eb379ad5acd7fdc7d1ceba805c33f7445683563de2",
-    "7fd4803f0e814ac53aa3a015fb754080cab363f670139b98538e5a03b7978e1a",
-    "1d5f4dc6476d1b45895fef1ed08dc188308e04dbad5b6cd1a77d65501374fbbe",
-    "3fb2b0fe56088563853372213dc8fd52032a54038eeb109213dcb336c68d4ca0",
-    "734d74977d24fed29bf3bd00a1cfdaa0c0fb4bc7cba8aeec05c5d3aaab54e171",
-    "5ee7ece48e84689198b5d804165256922728a45228ae8a60eda74ce40f04dd1e",
-    "00f9c112a0d1c573bf6fa75d800ee96f8023462dbd2c4d4ddcfdc29c70d09e23",
-    "d415ac9bd4c4ade83b2f091b730e442e28739410c8d95763fb49c622fb279dbc",
-    "cd7d916d261954baceab1c9d60f578c7bfc73ce8e20654206ffaf053bad8c807",
-    "9f69d3d50d5112f39f586624dc2cf1a122397668a9053ad627b9626d1a27446a",
     "78a0d4b4c97318a06427c7bdd0b1dec2f0e00f7268f00260f7c88aa5c206816f",
     "be0d6c0adc9a0010b52f33077fc88939ea7f68db9627ba7e88f85b313ef8ab08",
     "b9f11e404392f0e1c4d54d9428b17f2723fcf71fdc3c563ce444bbb7a96957d1",
@@ -4000,20 +3986,23 @@
     "e01ef77e016722db58e9b8dc167c7801bcbc243d27304798e1e4e6d13e12327d",
     "b422ce4084bb6f87c3776030eae8fc9f7e33d5216599c0c4771feafabce3f95d",
     "4390ef79011bf127b7e2468dc8c102ab21b4956496ebc63b0ff9dfc862d900c0",
-    "4c5ea4c1cf8dce6227c866cba6a01c478503ffd8cbf7fd1805526cc76a42b9c5"
+    "4c5ea4c1cf8dce6227c866cba6a01c478503ffd8cbf7fd1805526cc76a42b9c5",
+    "3f294239120b90db725e6b8d02099ed3829bb906bd818b4111ed65f0f33c9840",
+    "907fb9001ca56c1ea60b8bd5e7c8c62deb8f04b5cc85912eea8d1216674dd586",
+    "54d2526120decc023ec356ab97cb8d3a051d1fca577fbdd8a8d8345f191a3a14",
+    "04339d981e50a99b6234292ff1726b5344191b13c85b43bc4fabc24393614d1d",
+    "4ba2dd5f8703c81dfaf537fb809a157bc0e2eb7c6268f385e06003918001cb2c",
+    "b23030d4cfb42adb236bc3471dc40ad811fdd93fb2dc2ae7198d3c7e8aa096ba",
+    "40c8a27bb1d8f8506a3f9f953681a4b2b565670a2724f251efe50b6eb8f95e47",
+    "09b5e882082611260301a7ac804c28bdc361c945794c7bb60d22c549838ac40f",
+    "c8c93bb0e6c28747b1ea9fd4b3a48a563b557af3aa842efd3ed633f1a5a80e11",
+    "c610a7922c3403af18e7e8acaa4c9507358adafd01c82b8133f01e7e8bbe59da",
+    "6584b3f1b460dba787165b475c8e68c8008a347a8ed381585500ae48748ac0e4",
+    "7ab7013f3a445819112387e122fefe7c2a7a8b04491cf669ab7cde1761f0a729",
+    "78521d8696d09a2d062451898a9c2353604e23102b8898062962159b3e5621c2",
+    "3c01f8c3b44d0283a5107cb0dcf5b9c6e5844a462c65d53d8ddea4c36785d632"
   ],
   "title_hashes": [
-    "026fb7d96bc63227ad4c3220dc45a2384ceb0c57674d651662d0092e0b91cab2",
-    "220e84cc77d7b949d36b473661859db33de9d3c38126dfc2e771b53784230c12",
-    "7fd1184fca57984e3383d6876fd2bcc56dc66c5ebd7c656c632252879e6980af",
-    "78cacb8cec039cbaa7d73e13422dbfc117712908874a4b78bb332b353d0a3c5b",
-    "a1e2a640c8410e3ce6048ee975d2c0565ddb232f29cbb0751370572f3df3638b",
-    "97b97b1e349348e6a47cbddb1857d1424923ae4eb9afd3ddef91eb381d2d0bd9",
-    "3216a14f37f0759c1c3844cce69017b77fee3977923742fbb3f8a0152f063b82",
-    "96c3d6d004d3edb1fcf0a50d5c7422ada0ef846a7e65c96d0b5dee7c7384c19d",
-    "3ac937552c642d24ff60f156ff96da67d06419d86c808063e54c4fc11d7b5ac1",
-    "7adab837c724435df13f32df94a7ca5ade61ff9e2cd69f7d340fe3d7b2c5a20d",
-    "9db474330f28ab25a9a2aa5bae0052f20886a2dd3bfbade7fec9f472f696bbc0",
     "b282b3a8db0603eef1de7e4021cf955e77207710d78d08abedd7aa01b4e80506",
     "e11aa14060070c640600c5a70c6a70ec5cf72892dae834d66dba640841c98363",
     "09270671bb743669353905e47b3430d5ff2c06b036a3f7ccced5862ecfe50f97",
@@ -8002,44 +7991,20 @@
     "d744314d9df2cbc1c4bf49b5f765ea7e4c66f10e192ec67eac816ece928d0bba",
     "19756a578309b0b21a40e97141c17cfd621f2b73a8557da16db2f2dfe09d0576",
     "6ebbeecc55f8d9257c01284848753e080b65dcbdfebde9cde6af2fc1be50a101",
-    "23ec41c432d703ced45d485014d5b9c2b746dce022b895ac04be6052a3035a9f"
+    "23ec41c432d703ced45d485014d5b9c2b746dce022b895ac04be6052a3035a9f",
+    "c5f40527bfcfd98f3dfd3a7510c809c1944a8853cd608493a56b4ad5037adcf4",
+    "5aad0fd7cf2ca1d64e90cdb3a141f6fc0ec79949ec5462b7a6a49626b277fa31",
+    "6e07e680bfca8342b2b299e7e453731c5c1ffd5aa8a2a2b8dba2949bbdb4978e",
+    "448dfb3470f311dc301a2611c6f5547189b95ef025f58bca980dd02f9201b961",
+    "3821873bbbe487eae1e6464dbd1d17748bfe2eafb7d9e5fa975f8c3d09cc73d9",
+    "11d3cc50a83a2e35c95088bd569ddde3d19102f7ef3b22f1b1fb52e48f647e27",
+    "407a4e89fa6f6ef02d2264a2dba64548a1beb691abe4b5ec0d3f1b94033097d1",
+    "91c6117abb3c82488d8958b9fe97a6e649463efbf65436b4fbffb36cef833008",
+    "1d2edaf9d5fa6b1e5a3a2c64242eb50fe967768cfc4fd80c851cbe0d0d064622",
+    "8c7f792d76f82024ab49ea1c5940a24e3ad0ab4d21bbb1145fcc82e43ec7cc18",
+    "1c9e8b7e74b09aebea4e4be001102e696704a7ca26857a2248745a8cba0f2e8f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "Taiwan NAMR Hosts International Marine Debris Image Recognition Competition",
-      "title_ko": "대만 NAMR, 국제 해양 쓰레기 이미지 인식 대회 개최",
-      "url": "https://www.digitimes.com/news/a20261117PR202/amazon-taiwan-partnership.html?chid=9",
-      "ts": 1794960683
-    },
-    {
-      "source": "The Information",
-      "title_en": "Texas Clears SpaceX Supercomputer Power Plant as Abbott Lifts Freeze",
-      "title_ko": "텍사스, 애보트 동결 해제로 SpaceX 슈퍼컴퓨터 발전소 정리",
-      "url": "https://www.theinformation.com/briefings/texas-clears-spacex-supercomputer-power-plant-abbott-lifts-freeze",
-      "ts": 1794960686
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Asia-Pacific equities gain traction, with Japan and South Korea leading the recovery following Nvidia's earnings",
-      "title_ko": "Nvidia의 실적에 따라 일본과 한국이 회복을 주도하면서 아시아 태평양 주식이 견인력을 얻고 있어",
-      "url": "https://t.me/firstsquaw/193657",
-      "ts": 1794960689
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "JAPAN OCTOBER TRADE DEFICIT NARROWS TO ¥476.5 BILLION, BETTER THAN ESTIMATES OF ¥1.08 TRILLION; EXPORTS GROW 20.5% Y/Y",
-      "title_ko": "일본의 10월 무역 적자는 4,765억 엔으로 줄어들어 예상치인 1조 8천억 엔보다 나아졌습니다. 수출은 Y/Y 20.5% 증가",
-      "url": "https://t.me/firstsquaw/193658",
-      "ts": 1794960692
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "[속보] 산업은행 “한국투자금융지주와 KDB생명 매각협상 결렬”",
-      "title_ko": "[속보] 산업은행 “한국투자금융지주와 KDB생명 매각협상 결렬”",
-      "url": "https://biz.chosun.com/stock/finance/2026/11/18/MB62GHE7QVEZFG3FLTNPCLQQ2E/",
-      "ts": 1794960713
-    },
     {
       "source": "Axios",
       "title_en": "WHITE HOUSE DROPS HEIDI OVERTON'S FDA NOMINATION",
@@ -11504,6 +11469,41 @@
       "title_ko": "하이브재팬, 日엔터사 키홀더 인수…노기자카46·SKE48 IP 확보",
       "url": "https://www.investchosun.com/m/article.html?contid=2026111880183",
       "ts": 1794987037
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Canada's La Caisse in talks for stake in Bain's Bridge Data Centres, sources say",
+      "title_ko": "캐나다의 La Caisse가 Bain의 Bridge 데이터 센터 지분을 놓고 협상 중이라고 소식통이 전",
+      "url": "https://www.streetinsider.com/Reuters/Canadas+La+Caisse+in+talks+for+stake+in+Bains+Bridge+Data+Centres%2C+sources+say/27365707.html",
+      "ts": 1794987063
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "加拿大总理卡尼：将于今天晚些时候与特朗普会面。",
+      "title_ko": "카니 캐나다 총리: 오늘 늦게 트럼프 대통령을 만날 예정입니다",
+      "url": "https://wallstreetcn.com/livenews/3201772",
+      "ts": 1794987125
+    },
+    {
+      "source": "한국경제",
+      "title_en": "엔비디아 훈풍에 5000피 회복…로봇·엔터주 '훨훨'",
+      "title_ko": "엔비디아 훈풍에 5000피 회복…로봇·엔터주 '훨훨'",
+      "url": "https://www.hankyung.com/article/2026111851106",
+      "ts": 1794987188
+    },
+    {
+      "source": "서울경제",
+      "title_en": "엔비디아 호실적에 위험선호 회복…원·달러 환율 5.2원 하락 [김혜란의 FX]",
+      "title_ko": "엔비디아 호실적에 위험선호 회복…원·달러 환율 5.2원 하락 [김혜란의 FX]",
+      "url": "https://www.sedaily.com/article/20116035",
+      "ts": 1794987192
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "How Putin, Trump, Xi Summit Leaves Europe Exposed",
+      "title_ko": "푸틴, 트럼프, 시진핑 정상회담이 유럽을 어떻게 노출시켰는가",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-18/how-putin-trump-xi-summit-leaves-europe-exposed-video",
+      "ts": 1794987194
     }
   ]
 }
