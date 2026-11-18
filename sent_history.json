@@ -1,15 +1,6 @@
 {
-  "updated_at": 1794977618,
+  "updated_at": 1794977772,
   "id_hashes": [
-    "7979ed2011da164645c1fda49ee44a60baffb25387210f6df4a15c3c462b5c07",
-    "b59bfd455d86e2444b86758c0bff7b5dbf8b67347849d1cce2e09c0d63fa8a91",
-    "6b54ef2e0712434a425b2e5d137f579bbef710b70a0551df787c33a5c869b404",
-    "a33ea31bfe419115cec1715f278a1d19fa966e405259ee518e55ac5db1b6fe7c",
-    "cada4d06fcf39611c7ba73198bcf85f175719a5ea28a2f3749f59ac45c66a90d",
-    "dbec22c9d8108bc4e263bfb5e202ede7ac1fa688206be564eea46f703e39a9cf",
-    "7d832c8871e694d76abf0d977918d46d582b3d6ae05ff5b4a5b7fb35d3a3dee8",
-    "9a1ac8b3bb32a3df134ef993d57f0938a959ac232da1d0a1fdfe9bc7afa6e8f1",
-    "6ef7b3dd10fcdde91e66cdaf684ce75e01e390334ef34b7c06ed293447942925",
     "9b07ec44a70c1c95cc94a9651b98ce1472442aa51723e2f5d93018997bb2e9e4",
     "ef6e4779a017b70a174a6312eb39b90aad6ac89d26eceaae4f8c60431372a0f3",
     "d17dcdb8d9bae6dc9f4b3ee57b14ea2319277d593eeafa0d280932b25354e66e",
@@ -4000,15 +3991,18 @@
     "4a465fc0a20455103a86dd0820b144536f2950a2611e054c4fbaf2fe3798be3d",
     "3f60563bfbd8351cfa898b21cbd2ff07a8305c5e31439d7683c198a8d12e83b1",
     "d301878b0c2114fbd09f50cde4dfa8f3900137131827160195892d58ae2ccddb",
-    "a7b5cf82bfe2384bdde8b45b01d3878993ed7571f83b32c899471257bf056c1d"
+    "a7b5cf82bfe2384bdde8b45b01d3878993ed7571f83b32c899471257bf056c1d",
+    "221e1029faec4fcebd0b0647ec3ea48b2d5fa0ec8774e0656ea8f181e2c1b94f",
+    "b034572fc51818f7e047dee5d9a840e3fedee0aef6d002dfb1c8b7f46d7c255f",
+    "a011d49671f5f3c8a20c98690c694920aa233a692154c6f5f08c14a61a58099f",
+    "0d57ef8db7d39fecc8b3ef70265a14d215adabcf73feb305e4516922c11da2c4",
+    "32264db341e75a49daa3367c1428392df2fb3cc4a512c3943256eb3d47f0c004",
+    "4d1b251a85d95b6d6e14ac38f64c2968cec1e2fc1301ceaa7272edc3c2078c9b",
+    "32f3764aa0174adc85bf60e155b1e3e251dd6eeb016d6d201cda0aee3a43dec5",
+    "4c006fe6ca2e7594b774769ec84dda7f66c58bd8dc34299bc347c24f984b21ca",
+    "c024ea989ba31537846bcf1f9867a17ee34cc9e401b406b890092de80ccf0b37"
   ],
   "title_hashes": [
-    "3b1bc24f2a7c5708fb0d29e3adc9f6de8e0f0cb107f8f94e5821693ab25758e5",
-    "445e092777f9b687574db555923f3840e1086565e9d6ac6445c3517bc388e7e4",
-    "a064618b091edef1656e4cc62ffd431c7555a8512b4e48273db9abe86d130c9b",
-    "a70e27cf5e47a3d3255188412f51c3d46d05a9fdf4e77fa729303d555ceb8949",
-    "d574d0be32c33d82515626159de15b4ddbf091f7bb2f6f7a42c4d461136a3238",
-    "72bc8af723ac937a42efe10c639caa341c53b7332b7802c695b30e3926536d07",
     "746443d9908826348fad90910c0ea0aa21c9225666810179a09fee5187659f05",
     "95aa41692e90e1e72e995745b1c486f8565c56a588ad082752983608bcd7701a",
     "afe574a227c57b50712f80e92e0b04a36b63299dc9dd2876aeab47a7f92a63a1",
@@ -8002,23 +7996,15 @@
     "b143698ae777058321158ed9e2878864347de2e1d3eb7bec3c1c7969413a6932",
     "1e15a8a2f1f09306ab428b2c853b8210facdc82a93f7c3d7f601dd522324f831",
     "32e130ecb9f43ee9067e86f79cb820415ec957c7f800517188285557cde7a021",
-    "d543e5ca8f7a946a593ea63212958674021c1c7a7b22353d352e8c985a3c61b9"
+    "d543e5ca8f7a946a593ea63212958674021c1c7a7b22353d352e8c985a3c61b9",
+    "26b59d1e2691dd17866c2af7dc3376f9b448df5de3e51043d960738f7123a8ce",
+    "e0f22035ffde1ece245e7de3c5939559f09c6510cd262e1b714b435368d4c20b",
+    "5966ff0f61f98ac2dcdb209d48266eef89f29001d232e1e8898b9e71ae4dff5f",
+    "c950aa8af249165dd3a78a0a9fea155e6a18f88e8cf04ec9189626e68fdf2a30",
+    "3f665fe2a7ba4505ffc3dec4da204981608bc46ced10427b87801895f4ba778a",
+    "b1f00e19975115bc051b71f6440aa826c421d7b432324f859487affe46d306b3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "디지털데일리",
-      "title_en": "뉴욕증시, 엔비디아 실적 앞두고 하락…S&P500·나스닥 4거래일 연속 약세",
-      "title_ko": "뉴욕증시, 엔비디아 실적 앞두고 하락…S&P500·나스닥 4거래일 연속 약세",
-      "url": "https://www.ddaily.co.kr/page/view/2026111806364217072",
-      "ts": 1794951881
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Hub Group receives Nasdaq approval for continued listing",
-      "title_ko": "Hub Group은 나스닥의 계속 상장 승인을 받았습니다",
-      "url": "https://seekingalpha.com/news/4673929-hub-group-receives-nasdaq-approval-for-continued-listing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794951883
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "民主党调查美国司法部在OpenAI版权纠纷中的角色。",
@@ -11504,6 +11490,20 @@
       "title_ko": "트럼프, 마닐라 방문에서 필리핀 동맹 칭찬",
       "url": "https://www.barrons.com/news/trump-praises-philippine-alliance-on-manila-visit-ee385a7a",
       "ts": 1794977617
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Ukraine's Port of Izmail targeted in Russian strikes on infrastructure facilities, Russian newswires quote defence ministry as saying.",
+      "title_ko": "러시아의 인프라 시설에 대한 공격이 우크라이나의 이즈마일 항을 목표로 삼고 있다고 러시아 뉴스통신이 국방부의 말을 인용",
+      "url": "https://t.me/firstsquaw/193765",
+      "ts": 1794977640
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Russian forces hit a cargo ship heading to Ukraine's Pivdennyi port, according to the defence ministry.",
+      "title_ko": "국방부에 따르면 러시아군이 우크라이나 피브데니 항구로 향하던 화물선을 공격했다고 밝혔다",
+      "url": "https://t.me/firstsquaw/193766",
+      "ts": 1794977770
     }
   ]
 }
