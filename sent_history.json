@@ -1,25 +1,6 @@
 {
-  "updated_at": 1794981381,
+  "updated_at": 1794981532,
   "id_hashes": [
-    "8b2c3d44fa7bac55e551554926fba6b12008259ca26ec1111f702c6f8db3a1e4",
-    "a076bb3553a339d2663f3d9c5a4331a52ce48bf39893bfd5fbdf77c26398e0bc",
-    "424babeb713ebede3c4f16339456e11e3e40e8c70bcf459fb87fe075feaf65e1",
-    "165f9291a22dbc3a43e40b5aba81b1d3a60e9e6314a76116789fbeda0ddc320e",
-    "e8c9a56304c8879c50102d8c3c56393f1f5738e5f18ec55ce6a721cc1854b8f8",
-    "fa9fbecd05a557ee6fd5a645bbe195ef618814c75aa7edd58e6e30037d3e45d5",
-    "baab4b038eb127fd75cab02e417941bdb3859e0a9d18da8e5a2d38770854be7a",
-    "e7a1f9f1fdd58be806e66ae73818e6893c16271bf6f16d706fd69b5757390d3d",
-    "f98590fc183b20a6020d5f0fb13d44ed1548c74f12fbcf8307facba4e9e188a3",
-    "2135ee92a4f7f7eb48880f41eda2dcc19e6d73e03079e3a40420074f6c3f9479",
-    "a0d5b177d1cc49fe461f294953d58b64573002385627fea47a0e73e01359f0b2",
-    "3f6874059593386c5d8ea0c330475216cc55eba866db5b30d41726f623f2fff0",
-    "8cf35a2647b4bd7f07b2e5e6cc38a276ff2fec6d2dbc49ecef67a9b5ad764866",
-    "456d8e091871cb76fedad79a2d2437a0a2680e9293bc883babafbcc060372c1c",
-    "187860546aa98e0de5dc7d9872c4df5e1e865129dc00b3382a666cdaf0af1631",
-    "6e24a608b16827500149b421dd3bb017845fb9966efcdeec913579f703c5038e",
-    "7c0eeb4984d979cc0967eb8ceafab45c60bc5616db06d8859a5f681e4d1a33bb",
-    "095f701c578ef373524b844f187e4a8b091745cfd8716fe7273da4b786e9ff55",
-    "961a278eece108b730ca32a3cbbe20d5bf23a3538c34e2fa2a083b1cddd5166f",
     "d0515b9c405d904b29c7ad7a11a6aef8a2e754f3039a595b1e6506695ae37829",
     "3a354796be231948d8667486003777149d132dd7d6208841ac937d503460cead",
     "5d83f85a56d7df3b452fd522b7d4b22c07f40e8ef9a1cad3f924690dba8d2eea",
@@ -4000,19 +3981,28 @@
     "5c530635ee6b30584e41a40d6c12e97e7300761413a9f55150e012eca2f30c9b",
     "3e36706c3f90f99c693cfbf0ae20011cbc6ae6c49ac3e1bdbe2fe64ae11c01d6",
     "5f98ac59de8990a642af49722f4ae89bc47bf3fe6268d962dc3fd07424f76c3a",
-    "2d4ae26d713a21eb17be5b9a19807d1f5884a6776a75a3f77ab8163b18d4fb10"
+    "2d4ae26d713a21eb17be5b9a19807d1f5884a6776a75a3f77ab8163b18d4fb10",
+    "e7e4d2c4df2a0cadc439584fd4e6ce9abe1da42e2ef4be7574ca243275d3e08b",
+    "d4bcac49d90c75e82aae7cdaa80b9c2e26757562e09abbeb29330b7cd614b774",
+    "63dc91d77232395eb5f074bcb4c5a954c4f4bc3fabb1acb5388615fd7f9e9f26",
+    "3b933a37d1ec3d8b924a8cd7cbf3f6246832b7dfd0d6d853cbc5c8d39a136502",
+    "bd6371ceff1842cf9157c7da2e6e874800031c2a5761a9636de29ac4d330e0de",
+    "543881c480ec128b64f6d3f1d5d962fcd48a2e5c5ca9dd97d5330c663122c4aa",
+    "5f33c19a2a5f8d75db7a243ecef5611dfdc88ff2be98c895e0816d0f1a10c6ef",
+    "a97650a360e3b8f899a14765444dbd4568a77357e22738c4c5fa707cf61fb7d9",
+    "6bd68ad87220c73ef9faffcf0f62f9d3d9249ee9018922098a5bf17dbc997fe7",
+    "9f7a14fbffff7be3a448266545d7ee5085dffdc353ff0db3b0ff470906fb1143",
+    "116016d326bb14a33d4a82932c5544bd5fd6eafbfdd0da059f370bca38b46d30",
+    "909900b626dc605892c3fce0931b7669fc347fe5882deb0a674bfcfcc08072c1",
+    "30a774d227cc0de6a5770b3d42d6c3d00a466185e737ee1680b6d65490c58f23",
+    "4c0dc8cc4d98ce6305b6d5c81fcc21d2e98617d6df02f96df1714cb153bb0189",
+    "c9615331a652dc81dbd35ef5d8605a5ce6d40510ae8f98d2ebe670059c17c111",
+    "20790ee672fc290733a896c3a5b77078fdeb2fc0d6b4a8177754821ec87f0fa6",
+    "2de51c2dcccc8db9abfb88619a4c664ef3da201ee4aa615a47c4922d38552c7b",
+    "f4bd1e77b9b2ca8a1eea0eefa22e30131cd4db2bb42a3f1a5cb54b828906eb0e",
+    "17f2ba08108681d019453d930411f9f1449fddba7aba7a546011605f924edcc9"
   ],
   "title_hashes": [
-    "81a8d7261c77c709b192c68088ccb30a434d1b057ead1b36874373175c9bad04",
-    "2cf79f630d5f30c527073882ad2bdb42149f07838a9f494b7c5916f642d3154b",
-    "7962fce4ac55426da55939c36311cd2a207bebb57438527de80efb357001c0f4",
-    "48e3d3e352dd3876adb3c1ad853888593839201d03fe8420a0efe398c0a53cc6",
-    "3b139260d3b4ac1d943edfecc0980716a27b83882ec71a90a75435a8b4c85c6e",
-    "65c0c77a178293f1ca4b533518c935e47264667ef636806a2bc2ec3b7294e24e",
-    "00bc930004fd0df6b888e2016c56a0346085f74743233a01dfb82abadc0b0319",
-    "9e1a525a56cedb4cb9369256a415693c541f789718e45281629c983719d3dc0e",
-    "50679e609cefa4c589487998bb39178d8adecce468f0c1053e3551dc18ebe06e",
-    "c7d282b7a89f3507d6e3376a1de1757735766cc0e5cafbc6fa715ae149444a47",
     "7db69a67724ce68758ddf3d7c68321133f1d3ffe31822a93b12cf6971f29b405",
     "d0eb39ba56357d5430492bc732c06ea44a455373012ab7fd6be1393514305593",
     "1477b1689de4f1fbf608f5b5456f4cc1e3c3c108571cc9adc22c773a6b5a63b5",
@@ -8002,30 +7992,19 @@
     "bbf8e18121d581f7caa375a9d6dd17eaa37b4a80ed741429ce31993861df2f0a",
     "9a822d4e66cdd8c7785483c4aba890f9b182fd96ad52526549fb5252392075e8",
     "79680a6f259e0bf90e65a10ca4f6b40ce48655998d5af625d6c6335e6bd07da8",
-    "4c41fdb82f1db4d434f549c12f1501ce4738fbd9bc99970bb62a571f95c0104d"
+    "4c41fdb82f1db4d434f549c12f1501ce4738fbd9bc99970bb62a571f95c0104d",
+    "7b6d984cb8c32d91cdd32f0332ad5ea5973a8cc462b445443d0a4440684d0b02",
+    "a3fda7b261a31263d25e70181ec013c3155a6f51720b2ad28e3436b33f0cb9e7",
+    "b3ac02a51b9321a317b4e2bc81397cd69b20d30bd596967b4dd349a1bf74049e",
+    "c171a06e3e33fd1e9b742b953ede6f5e54fd66b626ae1957a85954e33f82eb72",
+    "47149b38d2456cbd1e44b1bfbf15df7cfc9fae1827e200f527c8e9ab66217e74",
+    "0aa0f9a8c19efaddb0acd6d354ed6f6efa0b35160ffff2c40753580192f5353d",
+    "49bff98c7c45b04c24b2a2c7c24af7388298f87e466f8a34e943efc4819b5c1b",
+    "265c6144a9ea57774fc361e4fb5c29b17b24b57128f3ed260c8e2566c0a73b52",
+    "a0a6b37ad290e33a569cf55d7522d06fa0a8ebf8439ef0f506f601c2a8b0b624",
+    "3fb76d849a84450fd377e7c89a4c5bc05d6f81ea0bf3180d4c2f455ff4b57292"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "英伟达：所有过剩的自由现金流（FCF）将留给股东们。",
-      "title_ko": "NVIDIA: 잉여현금흐름(FCF)은 모두 주주가 보유합니다",
-      "url": "https://wallstreetcn.com/livenews/3201556",
-      "ts": 1794954471
-    },
-    {
-      "source": "한국경제",
-      "title_en": "엔비디아 매출 폭증…5000선 무너진 코스피 구원할까 [오늘 아침 당신이 알아야 할 7가지]",
-      "title_ko": "엔비디아 매출 폭증…5000선 무너진 코스피 구원할까 [오늘 아침 당신이 알아야 할 7가지]",
-      "url": "https://www.hankyung.com/article/202611183317i",
-      "ts": 1794954535
-    },
-    {
-      "source": "The Verge",
-      "title_en": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
-      "title_ko": "iFixit의 Apple HomeView 분해로 인해 수리가 어려운 기기가 드러났습니다",
-      "url": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
-      "ts": 1794954538
-    },
     {
       "source": "MarketFeed",
       "title_en": "NVIDIA'S KRESS: WE BELIEVE OUR EMPLOYEES ARE COMMITTED",
@@ -11504,6 +11483,27 @@
       "title_ko": "엔비디아 '깜짝 실적'에도 월가 신중…\"젠슨 황 후임 불확실성 여전\"",
       "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445375",
       "ts": 1794981380
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "China oct survey-based unemployment rate for 16-24 year olds excluding college students at 17.2%: stats bureau",
+      "title_ko": "중국 10월 조사 기준 대학생을 제외한 16-24세 실업률 17.2% 통계국",
+      "url": "https://www.financialjuice.com/News/9857197/China-oct-survey-based-unemployment-rate-for-16-24-year-olds-excluding-college-students-at-172-stats-bureau.aspx?xy=rss",
+      "ts": 1794981464
+    },
+    {
+      "source": "프라임경제",
+      "title_en": "중동 넘어 미국 시장 문 연 한화시스템, 드론 잡는 레이다 첫 수출",
+      "title_ko": "중동 넘어 미국 시장 문 연 한화시스템, 드론 잡는 레이다 첫 수출",
+      "url": "https://www.newsprime.co.kr/news/article/?no=755483",
+      "ts": 1794981529
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "CARNEY SAYS CANADA AND CHINA ARE TAKING PRACTICAL STEPS TO EXPAND FINANCIAL FIRMS' ACCESS TO EACH OTHER'S MARKETS.",
+      "title_ko": "Carney는 캐나다와 중국이 서로의 시장에 대한 금융회사의 접근을 확대하기 위해 실질적인 조치를 취하고 있다고 전해",
+      "url": "https://t.me/marketfeed/1080375",
+      "ts": 1794981531
     }
   ]
 }
