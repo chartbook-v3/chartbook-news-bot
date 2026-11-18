@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795024179,
+  "updated_at": 1795024327,
   "id_hashes": [
-    "d3b73ee8b22e59e387f0ded6423f3625361e6ef72ac0335df083b9acb3d4964d",
-    "8a0067c309df51f986eef82ad5804d19186b111eb9e274403d077f65e2eeb371",
-    "dc8f609f13e4e8549956866b48934954e387ea165949bc2fb34d40bc78ce835f",
-    "3d1b3e011d8779b0fd7c6014ffa7de961f9dd40ca5b4ea7c55e672e3b88a7888",
-    "37e11166fe985babeec5c049c33e002ff647ed1cdd2d8b5463e9a3629ce2168b",
-    "dd4ba19b9337f5b4f30459c2a1a1b835440112567916b48e193bee29f2cb4f3b",
-    "10cec00559c058551405a5bc44b91c25e4ce430ec6a502a8425391868d6ec270",
-    "e69e0037b0ecfc9ed8f9fca0f8d585d1b64e434e09c23a8d1999a24e5b424b05",
     "095bbeec14f54beb8d5066c7983b64f685174f638b1d57c6014e78228281c35a",
     "95eb8b97e7294e8605b4ded2fc9d349f7cfc6c4484c26780a53b854245816e60",
     "413f6f1ca42bec9feeed9e558f9afb282b8ecb95d786a1359cd09d2dc21b4626",
@@ -4000,15 +3992,17 @@
     "1c55572c5d4fc6369cb56af573cf9b0ca236d959ca4cc396cf2c4be7b0ab8325",
     "b4f22f743eaa820c51c6881d93c3ad01a103bd8f40fa7d30df3b6243f213b232",
     "006a707792fd0788a57173d845ca1e3e7806ad11e59502720f45395c0d1e2c2a",
-    "cc5119b42afb928e3f1c6f58154451396f109d9d757dac166f93abf47ddb8f21"
+    "cc5119b42afb928e3f1c6f58154451396f109d9d757dac166f93abf47ddb8f21",
+    "4b73e69ff796d77698e4805defbbe7ae53d7b60e82b6a7b4fcdcdd1b10e44855",
+    "c56e80d39487422ae2d69254262914f06c1d2d9d2c6b4a82ea4c060f76f53b89",
+    "1968c9ab3547094e517d5e060d61c9a2ca520e8df27841111fddd14317c4caa6",
+    "eebca0bf1560756bdccaeaf8c204cf9bf242e3eaff721dc296aa5b7e43887e05",
+    "2602c781ed14fe2266bac7d44ad24ef30dc0d7a844634423286e5e82a17280f1",
+    "8929c4608b2664567bab7e25aee97a9b7e8b58cda28f9fce5859f50438155c46",
+    "769994a273f69554f8142f78a077132e1a37e5a95b47ecf9412f80c7bca75d54",
+    "c7aca15ba04199d5679e63c67847aec34bd5c56704a90604ebd8a1f98c84e8eb"
   ],
   "title_hashes": [
-    "38db94f198ac918fcc771a6c51eabc4bfbb22a7b30b3ec4acd081a82ad57b296",
-    "f9b66d1cce570bb8d9c66c1f21b6bf85d113e78a22f03a2779342e114a3760e1",
-    "5a892895061edd8e5cf3655242eae4fbf63dda2aec46a85040cb4fcdf69624ed",
-    "725f9665a5badffccff4c522a6078e0867bae1a91f970f57a8c98699d5d0f108",
-    "c08c0bdfef68477873800756cb4d19feb5e5d49c9ed2a5ab3a9f32fdd0d8f7c4",
-    "55d8557896ccd8fada1441401b9941c6f2439da8539a9403dea5de248037503e",
     "ae5dac61a810de822f3e80b1a8e9f8ea6d104dad329cf9f44b156c3efe3df5ad",
     "1ea6b58b9908588e83449d059b99a9fa5728b949618cd5f9b02052f0f2b8bf0d",
     "4a922cc10c6b11ada95be86024f3204dc3dc191b6fa97bb1a152d8ca7c2660a5",
@@ -8002,30 +7996,15 @@
     "99e92712e8c03abf367451d0b56de56a7b78a2e3d644d133280a0b4502ce7e70",
     "7db171d169cebef911695936e2052792364d6fba0981246482629319376e31fc",
     "1f6a10425dc06d2954c87b7fe44e8729bca92c1e655dd68b55872de1acba5b15",
-    "e012a75ff7e480ff0d308f188e1167613f885b2383d9a9200a082a6bf67cbdc8"
+    "e012a75ff7e480ff0d308f188e1167613f885b2383d9a9200a082a6bf67cbdc8",
+    "466a6177cd7856ca912f0befe620c79c70ad1ee7400a9e3ab5081c3e0e69d799",
+    "63fa0b265b8e96b1dbe80d69676291496825b55e59fb212d4a3cb57ad4d4989e",
+    "fb4e3d254dc1aa52fa258e360b1c6384a11200d5c5ee3401db9bbd9645f11d23",
+    "615f7f6d1b379847e65a210a998aec721b0c5206e1a4e09b00a19d8fd1f77555",
+    "13e6d621616c1a549031118b936fc8cff985534691c356c13111373ecb830464",
+    "4dbd7f30c0e872e6fa3e400083687dc7c6ca79d051516613211ee896c0b53820"
   ],
   "recent_sent_articles": [
-    {
-      "source": "조선비즈",
-      "title_en": "카본블랙 육성팀 DDD, 엔비디아 로봇 AI 대회서 2위… 산업혁신상 수상",
-      "title_ko": "카본블랙 육성팀 DDD, 엔비디아 로봇 AI 대회서 2위… 산업혁신상 수상",
-      "url": "https://biz.chosun.com/it-science/ict/2026/11/18/W6WZNVNAKRCCXHRSGMQIUTOOW4/",
-      "ts": 1794991832
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "英国国债价格延续涨势，30年期国债收益率下跌5个基点至5.77%。",
-      "title_ko": "영국 국채 가격 상승세 지속… 30년물 금리 5bp 하락한 5.77% 기록",
-      "url": "https://wallstreetcn.com/livenews/3201819",
-      "ts": 1794991834
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "腾讯控股：三季度回购1586.76万股，耗资约70亿港元",
-      "title_ko": "텐센트, 3분기 1,586만 주 자사주 매입… 약 70억 홍콩달러 소요",
-      "url": "https://wallstreetcn.com/livenews/3201822",
-      "ts": 1794992215
-    },
     {
       "source": "Reuters",
       "title_en": "IPO-bound Aragen plans to spend 15 billion rupees over 3 years for expansion, MD says",
@@ -11504,6 +11483,27 @@
       "title_ko": "연준 댈리 총재 \"인플루언서 높지만 향후 경로 불확실\"",
       "url": "https://www.financialjuice.com/News/9858327/Feds-Daly-Inflation-is-high-but-i-am-uncertain-how-it-will-evolve.aspx?xy=rss",
       "ts": 1795024178
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Where Does Nvidia Stock Go After Earnings? What the Charts Tell Us.",
+      "title_ko": "엔비디아 주식은 수익이 나면 어디로 가나요? 차트가 우리에게 알려주는 것",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5UHBVNVQ0dFREUnNUaEVXMXNKZnA4ODd6eWtaWExjclEzeXV4R0s2alpVNFQxR2pCbU9tZlZpb2JEVkdOQWYyeGU2OHJaR3FUZ3RaM3lRS3A0WkFUaklla0lmM3ptdUpXWGU1N3JKdWc3Y3R4cmNOXzVLa1dpUQ?oc=5",
+      "ts": 1795024268
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "花旗银行主管维什·拉加万：Anthropic 将成为后续 AI 企业 IPO 的风向标。",
+      "title_ko": "Citibank 임원 Vish Raghavan: Anthropic은 향후 AI 회사 IPO의 전조가 될 것입니다",
+      "url": "https://wallstreetcn.com/livenews/3202103",
+      "ts": 1795024270
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "美国旧金山联储主席戴利：通胀水平较高，但其未来走势存在不确定性。",
+      "title_ko": "데일리 샌프란시스코 연방준비은행 총재는 \"인플레이션 수준은 높지만 미래 추세에 대해서는 불확실성이 있다\"고 말했다",
+      "url": "https://wallstreetcn.com/livenews/3202104",
+      "ts": 1795024273
     }
   ]
 }
