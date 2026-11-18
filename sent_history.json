@@ -1,21 +1,6 @@
 {
-  "updated_at": 1794994500,
+  "updated_at": 1794994657,
   "id_hashes": [
-    "0a7cf83c1b488c54d9c72becbd5fbada331bcbd6d2b91b2b5ce1a12f04035128",
-    "4f41371854b20d390ca3e0dad57c8ba4cd71a7e844264c50e9febe4aa0ef0255",
-    "559e3d7781a48f12fa3a3c381b3ea3f0b6feb84d4deee9f4b04f7bb9e4a19378",
-    "38f6030f373c1f02fb17b675da76a2879053af23c32c4cbf74f1fad49ae05164",
-    "5b8360f7a9ae8840e1c2c82664c24d13fa9a66e9b9d75957c15944bcfd6fd0ca",
-    "109c2f16de8f540b2dd8d18df3563b448aa2811d307691245ca1956597d5e7c7",
-    "4b3842c341a53a794d621dfc587d28332356d2644c4bf816be4afaa74234f7de",
-    "48d8396ca23db48f142031fec7e0eb74bac641f37a9876a2a6b19f1eb8a7c39e",
-    "ca40dfd11f0b7019ae6f47fa5c6195f10497bcb413b82ce165fe5d7b743845c5",
-    "0c12fdcfb43dc334bfa3953ef74d6dfade22d13f1cbe0b0b3f47424912005322",
-    "29fbc004024c02d7993a837ca261ae8a5269dad957a0127d10a5bf75711c0ed5",
-    "d1e70ee221d3391211ba4acf755b421ffa52a5afe7bd845e92bb51106cc91026",
-    "b838a9178a02a6b667d592af604df7c99bc36ced458b288f03fef5f46a848425",
-    "d2b610dc1003fc7ac72754fcecde6080bafdd46ee2a21ff64f945fa9c75271fc",
-    "f7d45dbb81d341c5fbdccafb102bb9dde8c528503d99364e4d1f36a0e76660b1",
     "80e75be20db4192049ce07c83eb6b09f08059f2bbe234a3b8d6260bbc39e451d",
     "76a491853c8c2a0032e02114a79f79d30bbafbd47575361918e086fac003f380",
     "fa2d3070136f28f4f27419c143e5f0f833364d678917676ad0e749851b33e4ed",
@@ -4000,19 +3985,24 @@
     "e3fd94b6d133c5f7b34ea8faea16464c0bdef6a59b0433e2d71b68f9476a4ab2",
     "3ff6c7e73bb96b7cf8c799871f15f750e7a00b2f629b06d449b00ec7137affbc",
     "92506dd36c83f3ec19d6cdb1349759a59324774ea36f3553c098a6dd1c2a1a26",
-    "0dc0920d325a568c108f64601bd8b2128ed114d7ac4202c4dc6a0c52228ee028"
+    "0dc0920d325a568c108f64601bd8b2128ed114d7ac4202c4dc6a0c52228ee028",
+    "04e71597239ebb0e5ecaf830b6cf2a18e82ae74ebb3880566b1c3aa125c60b06",
+    "86d24be7fc3441ac4147eee27ae29253a2ea696c6136a335d5a3ca3abdb74db0",
+    "dc116c8d09261873493f08a639e73e63ad131728e78b7d0d515ed4037f5fb1d2",
+    "f162f9e1f6fdc4f50386354c2a286d54e8b9704f5a6546f92bea8ba7bad302e2",
+    "7c4c588eef8a9af593a9d3f34e59ab59823c8a48920361c4fd50e2d491267e78",
+    "b9e451256e16436fae89ad8f6218222b08615819943a314efb3d599da520f639",
+    "03d88ecb9a95c4728ebe4333b3e10ce4de41e490ab2d0237fd1f19fe2ce3eec8",
+    "9d82704ff13dcd678101053df4b7d09340e88dd9b5958e69753c799fdcb6d8a7",
+    "d3d90950bf3ab4f3abf8509ec8b6a450f845601aca97b21deb1509508e0fd307",
+    "5a5cda6f2a78b0505acc6e91d7d06f0d6342d1a196f2877106fbc7f477d82a2c",
+    "618498fd2e55761b1142b63c96a0367168604775e582e8401a5efc0370e190bb",
+    "e5d597b5748a6209f2726d8090116ef146ef8028350ff010a314a3c86612e54f",
+    "f9e0e30d31557b7e1ae5bba4fad8f0e4a38bab99d9f5a90a4f9218c97ef82ea3",
+    "45cbbd68939cf6daad93b130b6f5864ebcaa5c930ab5274eba5fab31f01fe44d",
+    "3dfb075091830b3eb965ed72fa71787dd6fcdd75c4876e2e4e830f6057788273"
   ],
   "title_hashes": [
-    "81863c674ad3400581e39673af5799bb4b2404a492557d8e8a786277c153d6b0",
-    "8b288c7fbcc50194d78649a26d934704f65553c5eefe23a560d9a93e6b2c0db1",
-    "9d5f85402fa11646cfb31b2a38f6eb35694ad89c92552cf087c00db8f11cef28",
-    "6020de541b00a47d5862e837a0dfc6d8a6599024c8eb03efe581b7b385f8439f",
-    "d1bef5d6919855339b007bce7516ea093db2dc16899a98c99b262b7013d8d7ea",
-    "20e7891df2e05fc769eacf46aac6be44e57affc3b7ecb3661a6733eb7c5d30c9",
-    "09008a91026c5f7bed7176b2fd1e75a9a3bc16c180342db909561f413eb32f18",
-    "08de78204cfaa88e9b097ea754aa59888a3b27f0db7b2fa7393e8d2eb82486fb",
-    "f585db3a7f00d5b01a41c2904c2db0ba984a837865eba2ddf02929d149245145",
-    "c3e798561bd77e555e751ae3a37cb016b4e8a6fa91d4644ee1caaa8f9ca5636f",
     "e2bc95678a26dc06fee76b74d4ef0f2de4f6bff9cc01e6f8577d45ad2d63ec50",
     "d8673452e5cf39cdf6f29661e5dbabf9f9de007b7e83626f9bdb3b7d594f1cc8",
     "9027c99d85d17ffc282ba1dd1e97ea98b90b3dde05f603096e0839685c236ae9",
@@ -8002,37 +7992,19 @@
     "e25e4acd920d561bb1e53ec017d654f41203277ef7d627cb219032929a4c05e4",
     "e94028ca05de060a376fe022c71b6eed8f06462f8fb4c6d6094eac8a31343b2d",
     "2218233948695dc8bf3bf6a61e0de62e946bac318d7f434688c650785a78f033",
-    "c8288aba3ddd11f1853b03a2c8d64f8d3642cf8eed48641ef608cbcc08a0cd66"
+    "c8288aba3ddd11f1853b03a2c8d64f8d3642cf8eed48641ef608cbcc08a0cd66",
+    "17249afcb8ccbbd3df2c077957354c25ac0cd8c4d6a121f791b5c7f8005cc0a2",
+    "9e35fecd93f74c81f15a78c5b3979922493b2821f4b108aa3fbff5615e675747",
+    "2a847c297be49663dca0459fff7a93f80d9cfd3dad41a905e0d0138df46530cd",
+    "4ad7d4b1477b0d4228db7a31594c2178f71d7c2c05ef8e958bb759d137dd386b",
+    "34f3b66b65711fa568dd6651d215219d3b5530f096376f5be95ed6e754ac0142",
+    "941406c9dce7fbc2059149551ecb1805d2c1af0c03de03383f7ede4d690248ae",
+    "b4c37f56260d3575a8eea10e8cd4a07b048020f33110611682875d98368ed6a5",
+    "169c95078b86b447ec229708170351d9a9d8e88382dfb11f11e68c4bf39a2a65",
+    "19fb8b15ea5fec95729b49c3a51a24617145ff0ef46574746d258fc97b8c71f2",
+    "f36677a98de970be0e7963750e01526e64d73c80b71737ff3feeff7757391b94"
   ],
   "recent_sent_articles": [
-    {
-      "source": "매일경제",
-      "title_en": "DGIST 연구팀, 엔비디아 GPU 지원받아 AI 기반 촉매 연구",
-      "title_ko": "DGIST 연구팀, 엔비디아 GPU 지원받아 AI 기반 촉매 연구",
-      "url": "https://stock.mk.co.kr/news/view/1201475",
-      "ts": 1794969514
-    },
-    {
-      "source": "한국경제",
-      "title_en": "[속보] 시진핑 \"WTO 핵심으로 다자무역 수호…자유·개방 시장 지지\"",
-      "title_ko": "[속보] 시진핑 \"WTO 핵심으로 다자무역 수호…자유·개방 시장 지지\"",
-      "url": "https://www.hankyung.com/article/2026111843837",
-      "ts": 1794969681
-    },
-    {
-      "source": "한국경제",
-      "title_en": "젠슨 황 \"복귀 원해\" vs 이사회 \"고려 안해\"…엔비디아 실적은 서프라이즈[박신영의 월가 아나토미]",
-      "title_ko": "젠슨 황 \"복귀 원해\" vs 이사회 \"고려 안해\"…엔비디아 실적은 서프라이즈[박신영의 월가 아나토미]",
-      "url": "https://www.hankyung.com/article/202611184351i",
-      "ts": 1794969811
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Silver comes under selling pressure, with spot prices falling nearly 3% to $46.02 an ounce.",
-      "title_ko": "은은 매도 압력을 받고 있으며 현물 가격은 온스당 46.02달러로 거의 3% 하락",
-      "url": "https://t.me/firstsquaw/193716",
-      "ts": 1794969814
-    },
     {
       "source": "연합인포맥스",
       "title_en": "[용인 반도체 국가산단] 특별법 동원까지…전력·용수 인프라 '적기 공급'",
@@ -11504,6 +11476,34 @@
       "title_ko": "UBS, 엔비디아(NVDA) 목표주가 220달러로 하향 조정",
       "url": "https://www.streetinsider.com/Analyst+Comments/NVIDIA+%28NVDA%29+PT+Lowered+to+%24220+at+UBS/27365910.html",
       "ts": 1794994499
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "DB하이텍, 429억원 규모 자사주 소각…420억원 추가취득 예고",
+      "title_ko": "DB하이텍, 429억원 규모 자사주 소각…420억원 추가취득 예고",
+      "url": "https://www.yna.co.kr/view/AKR20261118174300003",
+      "ts": 1794994523
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "剂泰科技拟启动A股IPO相关工作",
+      "title_ko": "剂泰科技, A주 IPO 추진 착수",
+      "url": "https://wallstreetcn.com/livenews/3201856",
+      "ts": 1794994589
+    },
+    {
+      "source": "Nikkei Asia",
+      "title_en": "Indonesia raises key interest rate as rupiah hits record low",
+      "title_ko": "인도네시아, 루피아화 사상 최저치 기록 속 기준금리 인상",
+      "url": "https://asia.nikkei.com/business/markets/currencies/indonesia-raises-key-interest-rate-as-rupiah-hits-record-low",
+      "ts": 1794994654
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Xi Greets Trump Ahead of Bilateral and Trilateral Talks (Video)",
+      "title_ko": "시진핑, 트럼프와 양·삼자 회담 앞서 영접",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-18/xi-greets-trump-ahead-of-bilateral-and-trilateral-talks-video",
+      "ts": 1794994656
     }
   ]
 }
