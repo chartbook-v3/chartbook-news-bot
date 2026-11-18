@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795000748,
+  "updated_at": 1795000905,
   "id_hashes": [
-    "82ab22b47a0c7910bb04ae2efcf8566c0ac7589bf0f37dbc14e3cbac1bd3b27f",
-    "c357396819a1b11e9e8e4ef6c1e9bf76cb9af376690fa0206773a02972979495",
-    "a909db52ccfc1b61c381e9e6fc8548926ec080387d410d078900162cbd0a47dd",
-    "a6cb93f8e8863e33b82ad25cf673fc62bc9d150457dcabf9283ca3acac09358c",
-    "cc1678e291240744e3dbf40567ba146d800f8d64a5d7b0b924a6dc6cfaf32964",
-    "5fc21092e80824287092ca286d2ff1941c9a9ecd9af0224ea3dc59125c4ea8a2",
-    "409825b90c86effa50ee518cb029052823be16f448929240c143f6fdd695e05c",
-    "b99ba7a68f5d24128acceee3a8872e29a4c73f0c52d067016fccdc9538db3f85",
     "c0fb64d227dcb598135a1dc79667b1b02ed04fb4c337814e8f8535bf60184f33",
     "f5f9db159a1f3d626f5a3460ab566d3bcf533a6a90b85cf2fece187420a3657e",
     "c90f2bdb2c62d255ca17b90cce4f877ed517e65768a910951144b475762408a2",
@@ -4000,15 +3992,17 @@
     "303b59eac9674e8fe685e4f8805c9a52f5ccc5630f919d972db7885a02f0474d",
     "42a52a4b160853fa63d9101ea5eeb5672183e2bc9781111b475e12d054dcbef8",
     "a77c802c59c09ffcee41649fa9ecc99a900a7c0b988d4003977ce691e67c42c4",
-    "dd824dfb416553073be3234daff6164aaac9a1ff1dba678cce5ca784cd731706"
+    "dd824dfb416553073be3234daff6164aaac9a1ff1dba678cce5ca784cd731706",
+    "e5884d5e65c483631df628eaae985f3fea4d0aac819c506792a9a57caf9b76cf",
+    "6bbb51eb679e8ed661a696e43f6926ca3dfb4f4fbe97bbaad863cabe56c12de2",
+    "942be6276e2875b392ffba658d0eb098ac100fc73f60a61bb305fdc7e0127bba",
+    "217af01994c8f912f3b53e67a66729302ad660aae55606b8eabf251f1c087aef",
+    "5d567272917fb798c750614bb152802da48c3a0c7eeb906cc40679fc38edeec3",
+    "34666bea3683ca5fa23907968fdd401edcc75b61dad84531f2ed47c5923ec226",
+    "2233293d104ecfc5f2cbdbd849a091953949598e2224246de2b1367dcd02b68b",
+    "e2b2938697d0d41d87ac2eee608b122a67f72ed1d53da1179945d3339f037481"
   ],
   "title_hashes": [
-    "ad4edcc032ecfab495e1f83bcd2a4bad375c789b0c63ff6b1b2fa76b48b70b5b",
-    "aff8642c4d59cb532840e848fecdc56fc5f2d5804e7285b089c2df749be14b4a",
-    "80f7cca26f2c218057b5c56db1ae102daf4c07b41195a2e038eef52cf7ab24a5",
-    "4174ba1fbe2bc7ee2bc10bba99d1dc424a271d2a0551e60e42e15b754eb4fc97",
-    "262968fa3931c8ec2796dbad22c00a0d950c863e0c4ece33a023ec405e6d221e",
-    "4ac6ff7395339e483ab44bd47c53b8c72de960cb343e941f2855f2668d826fc5",
     "ef24dec67f557f15d0dcfd71888a44cc4482bd7811ff0c7f9228e417154dc488",
     "748c771b1e167cdc50ded73c454c5c215a1480bf37ce63025abf7c69feb05a0c",
     "79f2d3f476a37ee5901c0b2b97b899d4689f481b9ca926ba08ae4e6746764a9e",
@@ -8002,30 +7996,15 @@
     "ca41b634d73d2367845dc362febb253fdf59a2e22a4cfc433728317a29337f70",
     "60a0761a8f9d68b15fbf5d5a4cd08b5e3ab792f3d3600666bf99f07caeceb503",
     "49862233e7734ee7da9fbc1749e1cd6304e3409087c32d6a389adf05878c739c",
-    "9adab768b95339afd90369543419a9804cbac5d599733547dfca2f9407dcb1d2"
+    "9adab768b95339afd90369543419a9804cbac5d599733547dfca2f9407dcb1d2",
+    "7f419ee81bf5a7be017e1fb3b019506074ded4452836b107b97718eae1395f56",
+    "a5ddee53a3371ae9efeb3d1b216e4b293a85ca3cdb25991db5b94b954b77abe0",
+    "a85b0011590041605a5a742b01977ac88f2128b423de1c87f051ed5a42ee6621",
+    "352897a53d4499c442095162763a15b123162187c5a901540ce6372b46514584",
+    "c12dd322dd89f46de52a90a82568d0c9d37ddb2ed1df6cd0433f960e2000f253",
+    "0f8f98ffb1e731a3cd3ac09e3d3f0b42c40c6611d0ba3a10858b11c6af2cb8d2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "Nvidia unveils Rubin HPC for science and engineering simulations",
-      "title_ko": "엔비디아, 과학 및 엔지니어링 시뮬레이션을 위한 Rubin HPC 공개",
-      "url": "https://www.digitimes.com/news/a20261118VL212/nvidia-rubin-gpu-processor-hpc.html",
-      "ts": 1794976132
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "효성중공업, ‘해링턴 플레이스 문래’ 견본주택 20일 개관",
-      "title_ko": "효성중공업, ‘해링턴 플레이스 문래’ 견본주택 20일 개관",
-      "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/18/PEARGNDMVBHNBPV2IXIAK32IOA/",
-      "ts": 1794976135
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Trump Calls Venezuela an ‘Acquisition,’ Hails US Energy Supply",
-      "title_ko": "트럼프, 베네수엘라를 '인수'라고 부르며 미국 에너지 공급 환영",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/trump-calls-venezuela-an-acquisition-hails-us-energy-supply",
-      "ts": 1794976137
-    },
     {
       "source": "머니투데이",
       "title_en": "[속보]시진핑, 푸틴과 선전 APEC에서 회동",
@@ -11504,6 +11483,27 @@
       "title_ko": "BOA Acquisition 주가 차트",
       "url": "https://www.benzinga.com/quote/THEOU/charts",
       "ts": 1795000747
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Former Elon Musk Adviser: 'We've Given Tech CEOs A Free Pass'",
+      "title_ko": "일론 머스크 전 고문 \"테크 기업 CEO들에게 너무 관대했다\"",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-18/former-musk-adviser-we-ve-given-tech-ceos-a-free-pass-video",
+      "ts": 1795000835
+    },
+    {
+      "source": "비건뉴스",
+      "title_en": "우리로 3분기 영업이익 19억8000만원, 251.4% 증가",
+      "title_ko": "우리로 3분기 영업이익 19억8000만원, 251.4% 증가",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=407257",
+      "ts": 1795000902
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "国务院国资委：央企改革成效将继续纳入经营业绩考核加减分项",
+      "title_ko": "중국 국무영·국자위: 중앙기업 개혁 성과, 경영 실적 평가 가감점에 계속 반영 전망",
+      "url": "https://wallstreetcn.com/livenews/3201935",
+      "ts": 1795000904
     }
   ]
 }
