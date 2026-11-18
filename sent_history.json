@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795027728,
+  "updated_at": 1795027879,
   "id_hashes": [
-    "9e009beb3264743d77d05407a3b64ba153700941c69702c0ce6fae01c98dd6f4",
-    "2fa6eef8f1fb7ff1d6a84c346c98b25e69897c6f187a2c84f0c4d2b43b4b9b68",
-    "b05e160d142176788f419456db9cdd644cd02ea1fd0efaf6e22204f85199cb0a",
     "3c2af368610482c07d722f3d756450c1979ce98a19c425ae4761a12457500c9a",
     "6824559904483fab0198a66ef2cbfc32104bf2b9fc435e483ce89c25dfcf67c4",
     "f3622a601e4fb61082000f62a00535709bb3d607c7d8e315a10906398ad20ce0",
@@ -4000,13 +3997,12 @@
     "b211570ff5d6ef81655c68779a45347b766ef04c8a9ae135a61fbed96cab4dbe",
     "97e760f3dcb2b52c61eff4953ef7d5a4174e43546e0a1ab06156b644a99c7bf2",
     "ae73aaf4095a7ddf4d2281f37526c165d917f579e55ba9439cbc495cd2c0e78d",
-    "6a8059bdf6db55c7c562887bd386f19c510dfb712e7785c73f515633ceb04f81"
+    "6a8059bdf6db55c7c562887bd386f19c510dfb712e7785c73f515633ceb04f81",
+    "2887b5116aacff90c3ba169dabf8ba870a1e39f0f33add8ac341fabaf5e69267",
+    "80ca6f0b15a62f63066cd266ce8054cec63c2772d18128ede10d3b0f92eb2b03",
+    "e4ce1ba47e1596a8891b06311fccfd40b92c731be0d77c1caf4e33f45da51fc4"
   ],
   "title_hashes": [
-    "21d2d3c9854f7a5bbb5410038e6257a41182e452e29ac8131ba869b4dfc3c62d",
-    "6aa809516128c890893017a73c5292710046e602261dd7f3b12f3a98563bb809",
-    "c3677ea4d5d53b14c17c5a25ac3bc264f956048dd73e717613be572ad0c7c4ab",
-    "858d22ffa4a13aeef22fa74f0d16842f22252be53851d7d7dd2b18130e77fee8",
     "8c499955d938d3849edd264139a9354fa9960f27b47e602a7f693d83c4068d98",
     "6d2884bd5b7812840a4834ab67f6b080e28ed7ec486076799c50b43b7747a6b5",
     "15052bf2fbf451e4cdb40adb5867ba3cd822b7541b04c8cb5f3c560b695ee827",
@@ -8002,23 +7998,13 @@
     "1054f4a1c1bbb515df2119603b113af3e01c56d00fd05a1e6bb55753ba8b62b0",
     "1cdff93385d7ec2532c71ff38679fb2355c9fe10d6a1b8597d67c329000e1021",
     "256d54ffb962a1d63b173186c611a70d641a60e7b8edaeb66dc0934572322e1a",
-    "6c39a15240948b3fbf28695ea842cd281e0aea54146853b1c2cdd3c57c52420e"
+    "6c39a15240948b3fbf28695ea842cd281e0aea54146853b1c2cdd3c57c52420e",
+    "79f737e247f2b6fb988281461085ebedb2fbb6c7020b055a65212a43c530c099",
+    "0de880b44977d3bd6c88262e375f3ea11539fec3af12b5598d1295e48ebf8688",
+    "44683b4c9d7d47fa4e7a77977eb8988107b75f4d03ee7909fbf20af00f7c9925",
+    "3c7c87c7432fb3ae651ed211176439c8ccac7d2f1bcc4f3137f9c33134ec2a24"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FT",
-      "title_en": "AI borrowing binge has ‘historic parallels’ with subprime bubble, says ECB",
-      "title_ko": "ECB \"AI 대출 붐, 서브프라임 버블과 역사적 유사성 있어\"",
-      "url": "https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9?syn-25a6b1a6=1",
-      "ts": 1794994743
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "习近平迎接美国总统特朗普。（央视新闻）",
-      "title_ko": "시진핑 중국 국가주석, 트럼프 미국 대통령 영접 (CCTV)",
-      "url": "https://wallstreetcn.com/livenews/3201826",
-      "ts": 1794994745
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Tencent Non-GAAP EPS of RMB 7.227, revenue of RMB 207.34B",
@@ -11504,6 +11490,20 @@
       "title_ko": "Nvidia 실적 이후 미국 지수는 혼조세를 보이고 있습니다. 금 하락",
       "url": "https://seekingalpha.com/news/4674212-us-indexes-are-mixed-after-nvidia-earnings-gold-declines?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795027600
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trump’s Board of Peace Warns Gaza Ceasefire Could Collapse",
+      "title_ko": "트럼프 평화위원회, 가자지구 휴전이 무너질 수 있다고 경고",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/trump-s-board-of-peace-warns-gaza-ceasefire-could-collapse",
+      "ts": 1795027820
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "提醒：北京时间03:00，美联储发布10月末FOMC货币政策会议的纪要文件。",
+      "title_ko": "알림: 베이징 시간 03:00에 연준은 10월 말 FOMC 통화 정책 회의 의사록을 공개",
+      "url": "https://wallstreetcn.com/livenews/3202118",
+      "ts": 1795027822
     }
   ]
 }
