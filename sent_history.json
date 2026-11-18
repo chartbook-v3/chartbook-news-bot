@@ -1,13 +1,6 @@
 {
-  "updated_at": 1794969970,
+  "updated_at": 1794970120,
   "id_hashes": [
-    "ccad9accca42e81e7748f4fc4757f7a6e6a5bf46a64524a6e30122c8feffb9af",
-    "7e0ecf2d6ee8c2ff4ed5abd7ce61c9e8a68705e5509e483dffe2b5daf2bbe1a1",
-    "fee7f1a222c2594f6113b820b1b4cc3730ccd4dd1317ea17f9ed61e75eaa6a67",
-    "15ebbb9c9dba43302991748e526643a3707ee9257d62443b5142d150ec14fd9f",
-    "867d74cc1a90efdee5a1effd692b25441c7df83de63e7b752408b46f65d40deb",
-    "ad6c11804425ab2bf059fd9dc976cc7ea604703cab9f5b49ee88ce8cac8c5817",
-    "85ed7fc62093077cf51117d0f8787a04fcec277e3c27d10830ac7e85465207bc",
     "12158607464b20403fb7ea71ebe4e75233f439fe46489993a7150a68727c2d98",
     "df9345c3200b9460e1801d23c396a157023f43c0ebea3f37a3b7d1456707b31e",
     "63294376a02c1744a3e491a234086fa51b1a95091b8de04ef7722f1078673e0e",
@@ -4000,14 +3993,16 @@
     "6f4ab2fbb18aed8c12fb3028e4e804139690527d677d720a00f8f1b46e5f4ba1",
     "6d11f3e263e709a7e2b4dbdb2281758f7c5612211765293ebb8e60cc113131c8",
     "79fc0612dd2ed5188826190ba4045cb988404ceee4a516e6d516c5b02fc58863",
-    "4892eda5776d8e488852d169f73a30ba8387466b97ec9abffe13fca9da74be93"
+    "4892eda5776d8e488852d169f73a30ba8387466b97ec9abffe13fca9da74be93",
+    "56cfc142aebc80196b2d17db4b4ed6d7ce055a807c4592366ce987f0a48ea9d1",
+    "0ee5aec98d217ef08a117c2de67aae4ca0c1cb26457b6b59e0fa2309ad8e7203",
+    "b6d507424e79f9d187c23965ce87f4d57cd2d87ee9c0ce2ab3fac7f6f5f29505",
+    "e3dd3d47b8c0317617bff56b4467b1d6501fe11a6fa7d11124d0108028d5b6ba",
+    "92cf7d538d0cd9f2d8e0761b2594df08d228ce0f47d0758aafaef840fccec9ab",
+    "9d74141ca2b5f486fc482597e0fd05fa5c2185d3d16f284c181855a3c979a24d",
+    "0aa634e275c958497015ac822a21a3a4db99239cb91c7baaa7f2a09b33e26ea3"
   ],
   "title_hashes": [
-    "8e421931eaf8cc8703d8469f1aafa89a5d13033a605f70aed36d69ff0a1dbd64",
-    "25fc17a15afbd7c3bdb67544dbe922f067915c46a982960c4eca9cccd75c1619",
-    "30bd1fc3e337a6236e222cbdc7dc1114d4a6ebef3130d61aeb71f434fe2a79d3",
-    "bf8fbfc36d3cb5d62c26d2d549a0f3d1b635b92a21ee991374af1fc81311cc93",
-    "0f7f048fa50a5d1fe1a646af548974260af5503f721930cea1c2c011f523b569",
     "8ab86a24baffcd82e69e56b94f9ae934be511678fa0f8a3dbe20782b3ebaa3f7",
     "e0aaed0cc37cf99a015437719baff5aa12d014cd9b6d49ad79eabffdff91f42e",
     "6ed0f06f98151f3ac6eb0f77bf8a6a3a09095b62b2fa7b262d0cbee332a6e40b",
@@ -8002,16 +7997,14 @@
     "3cb48be3927ccdbc47f42fdf2b66b2793f624cbb7cb45ae18e00036e521764ad",
     "a92c65d3a66257b5084e997d18af0126d904c24abbe5b5e1afecf6c2f1bc4285",
     "60e795e48583007ae21cc12a1958a041c543db7915fd11ef366990ed624e8f20",
-    "161d9e39356808fe1728e73884062d48156509def973bbf5d5ceee1aa3c53161"
+    "161d9e39356808fe1728e73884062d48156509def973bbf5d5ceee1aa3c53161",
+    "8f3616ef18ef679dd2e4a38e39363d932872816e6212e29476510c5852d7f25b",
+    "2984380c7bee026be5cf0ae523f4038ef924b1ea54f1bebc60ec70ad9fe2b8ae",
+    "7785e3652f0cbe24dc0598103679b22d665feb1e4ea66eb8539ed539e618d178",
+    "b8c3bbe6b5c8cf03772242758e90fc64c2c9e57617f842724c8c06b9219494ee",
+    "c7fe164d4995556a28485bf645ec3c707d6616631552baccf5ebe5d602bf7303"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "https://x.com/MarketNews_Feed",
-      "title_ko": "https://x.com/MarketNews_Feed",
-      "url": "https://t.me/marketfeed/1079970",
-      "ts": 1794945669
-    },
     {
       "source": "Benzinga",
       "title_en": "Billionaire Daniel Loeb Swaps Amazon for Meta, Nvidia and Microsoft in Q3 — Meta Now Third Point's Top Holding",
@@ -11504,6 +11497,13 @@
       "title_ko": "AI·자율주행 핵심 '위치정보' 키운다…스타트업 13곳 시상",
       "url": "https://www.yna.co.kr/view/AKR20261118087200017",
       "ts": 1794969909
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Stocks Drop As Booming Nvidia Results Drowned By Spy Scandal",
+      "title_ko": "스파이 스캔들로 인해 엔비디아 실적이 호황을 누리면서 주가가 하락",
+      "url": "https://www.barrons.com/news/stocks-drop-as-booming-nvidia-results-drowned-by-spy-scandal-07790c23",
+      "ts": 1794970059
     }
   ]
 }
