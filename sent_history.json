@@ -1,20 +1,6 @@
 {
-  "updated_at": 1794983390,
+  "updated_at": 1794983544,
   "id_hashes": [
-    "21798ac15a801562afe91078f6375ae922bd79cc6a973aab749be288bea37e8a",
-    "c6a2b5d859d43d36798999f1a6541ee8d2473858f599007a4522353daf9514ef",
-    "18903ca8e3914fd959b49061e2e61a5e0c0d76413103d5298e1328615d750c9c",
-    "520783bea7264a6c476bd8c493e6a45a13ea7fc7e0c3357352edb387f8527b47",
-    "06551411cff222c26b30b41c46c261b5661a9dbd846a97decda2a0ea2eaa1f84",
-    "dab737f39e4641fa854175b3c6e5f0f2c750540aa90a484a94f399b907dd6f0b",
-    "3e7fc30b519564bfca02d84f327cd09a9a5efc8e0a5ad142213df3ac556e7d80",
-    "72131f6598cf75dc75c5495a6bb43746323b65315b254aea21e1882b59095432",
-    "b19282ae34efa6911c9c5a922c5691a8f0cf4b5153605253bd6eaf35803f4610",
-    "fe0657c950d116a687b514834471a2b40553292b556236d8e654f03d3c2e3969",
-    "2de1eab36b20aab5a6695da70b16ee950cfb00060c1b68b03f23b1e13005d3e4",
-    "5fab752d0ae7c252fce7bc65f13259ac99ac39a942b0149d6faaffb0301ac19f",
-    "4e0032b8d243757a7b912a69caa14fbe8ce542a63c249528bb60be57a272e863",
-    "a4d6971b66a45da749f49d8ba21dfffafd8bcc66bbc9793b8e9bdad50adc89a8",
     "106bb572b97fa6116e15ba5efc0dc8efc8570446fe1b2fcab9b4f90971ad7c03",
     "d0a5d048bec3af9e69b15a9892437f4f5e0d9b5dde4158e1fab1c9e07a6b2a6c",
     "631b08c0a1b02038e62fe59548d47429154746aab88af92af7a8e27140c85e0f",
@@ -4000,19 +3986,23 @@
     "56f7b69ab742347faae84e7e2392f0b9bfbf5ba563ad2b3a6001515b275c636d",
     "f22ac27eba2e94f8beb68e903ffef69ae26ab9812884a4a93bd73ef323de223c",
     "78d833531544dbf5aab0bc38ca0206cb15bf68e7c3751211fb5cb548c1c3f5f7",
-    "fece631304ea9374cdd9730bc6130ecf1a9acb9d0f01aa83a58577d4ced1deff"
+    "fece631304ea9374cdd9730bc6130ecf1a9acb9d0f01aa83a58577d4ced1deff",
+    "933815cd01ae6926242fc3917ed1904447b2bf1e6a5fed3a474cd5226c67d051",
+    "b5562bb673b63267dbb3d39cfa3f6bd49968bc03e4697a62c0480b39b05b8f64",
+    "8c3012fa0a0df5779642c315c9eea2d6b0c38bd9a8b437ea84b3f59702bed704",
+    "4ebde010b193b6f0992419d61e07134d6d6820e3dbf208d150cab98faf57d09c",
+    "f6690b41b5dfb7805e25c122fb24bdc3f195c9c1fec10eb567ba17a339a2d13b",
+    "0557ec29d6ef9a0d51b22836f955cc9ffa1cc2e36da639867d6f4e1642d8c030",
+    "cbb887aafb1cf1186f73e639a433b4549a2bc3af89a7e07ea4edafeed6799f5d",
+    "7d861754ced0c674514448338b15fa3c9c718cffacc2788cbfe2cc9cf9040bc8",
+    "a9f04e5f239b7cfd19f10465257bc1b2f1b45061aacb50386fce4ab43107b3a8",
+    "54a68c53872ada310cc7b81b15228205215e709cd6ce12fafb1cf8dc37fb0bf6",
+    "27eb91150e6c89662661a671c8548dac63423b971403237e2ed606c85d8932ac",
+    "82ead8bfdd22a71b83d391ee9d86a67b89118d3be1f901322ff7c518ca9b9e73",
+    "191b088d3d852058b5d4d608966e3e2ebf0053e402f11b35a2af897df3ff384d",
+    "668c17e62a01b7f9413e7769c46d79eb54f97ef3aa0592610cca551edbfbd2a8"
   ],
   "title_hashes": [
-    "a0376cf02c36f33cdf53989a0cb641ba0fd25686fcf561651bd45d43b4d87897",
-    "e0a853689dfe11b5f4b22e9106d0457886d8abde3df3b8dea23fe2ac17004323",
-    "411db328e7b1e71bc109e5eed30fdbd3f2c1c4a0b5590ff9ca786832f9ebc2b9",
-    "28fe0915679330fd807d00959f426002b75cc293088f5bdcce2b6f1033ac4f96",
-    "45e0b9773b91d0aa7f3b292fa2ff644f946a7800694addb8cff764ec0f793521",
-    "e626f1a2eeb93f22e98c7a8caba43c3798db5e5a17ee7e8c95c31512779e8d41",
-    "e624f25d36b52e11730f8a16cbcc84c3ac01a0e9c60767378eefaf1fcd4ff6fe",
-    "6b1530d4429f6ed3d7345205f528e4e226c2076e17cb9d1ad3444d1230b5fa71",
-    "b6aed5e374e393c3a0599c539eafd73fb37147fde49ba91ffd7652de322caf97",
-    "95a2bec0318e5ccfe6edf54adcd4eed78410c10594fc71e7b63bbdfe5d684966",
     "81a6a15dfc1a36254d5acd3b4f181cb2025f64d74e96125db70eb1f6a24668b3",
     "940c6b47700395d05b1bd790da3157e70f386788e47950d061bc384ad5834687",
     "b0dda91d97444fd880b96ce1b13d30b8beb3fd8b5ad9929fed998fca7f09e766",
@@ -8002,23 +7992,19 @@
     "ccc1890bf2ab900a1ec1c06c1b57579ef595ef3682248345c96909c41fdeae44",
     "bf065ca9aff602c602e8a6b55580bd9fd4d1309b094481fa317c1c34d5192a3a",
     "21c5e7a47f7126628211b960e6106ac519786aa702cafad8393a5e77b801f962",
-    "76f25125bf5a97d8abeb31ee871503fa7b4541b881c8af42455950325eed8366"
+    "76f25125bf5a97d8abeb31ee871503fa7b4541b881c8af42455950325eed8366",
+    "32b4219804034db5dc0d13ef2a09395caec66869191e3e3ca42fc108bd0d2885",
+    "c405cf460b01fb9cee6d400aea18ed0a7174e3bfe91046abd935753cd0ef62be",
+    "1221a992b29ea37c74bae0b193cb296c30dfec66fd4b2bb4e70338391693a605",
+    "443150bcbf4c780ac0945b9280262b1fb0978c335a84bdcf4540b5bf3bbf50ec",
+    "d4b1b9b225c1bbc15f65617b5aa52a5c2ea25156c3a0cbcfa94b5a9329d354e7",
+    "8a02442e52b009afe5020cf8e5bbdf8bdcfc96e82363ec941dc9fc0c2e971e10",
+    "09bf82d8b08b2ccc681922fac8c80f21effb694b8d4321e82bbb640a72de9d81",
+    "23f224811a68566a7ac0e4a61bf830d07f820e452e16bd33be7804ff20d0d30b",
+    "c5dc86a9bb88269c24440a39f98841f8cacd95e467bfbb2676623f17302c21d2",
+    "cfb8bf79cc4972e0ac8443e6048a847701a1584841976192a11549bbf0c60c8a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합인포맥스",
-      "title_en": "\"젠슨 황 복귀 선언에 엔비디아 이사회 압박 거세질 것\"",
-      "title_ko": "\"젠슨 황 복귀 선언에 엔비디아 이사회 압박 거세질 것\"",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445243",
-      "ts": 1794955655
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "TIMELINE OF EVENTS: • NOV. 12: MICROSOFT 365 HIT WITH A MAJOR SERVICE OUTAGE.",
-      "title_ko": "행사 일정: • 11월. 12: MICROSOFT 365에 심각한 서비스 중단이 발생",
-      "url": "https://t.me/marketfeed/1080078",
-      "ts": 1794955677
-    },
     {
       "source": "FirstSquawk",
       "title_en": "MAURITIUS HAS THREATENED TO SUE THE UK UNLESS IT FINALIZES THE CHAGOS ISLANDS HANDOVER BY DECEMBER 2026, WITH PRIME MINISTER NAVIN RAMGOOLAM SAYING LEGAL PREPARATIONS WERE COMPLETE BUT DIPLOMACY REMAINED HIS PREFERRED OPTION",
@@ -11504,6 +11490,20 @@
       "title_ko": "Adnoc: 11월 17일 호르무즈를 통과하던 선박이 공격을 받았습니다",
       "url": "https://www.financialjuice.com/News/9857223/Adnoc-A-vessel-attacked-while-transiting-Hormuz-November-17.aspx?xy=rss",
       "ts": 1794983388
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "MORNING ALL!: - NVIDIA (NVDA) BEAT ON THE TOP AND BOTTOM LINES AND RAISED ITS FY28 REVENUE GROWTH OUTLOOK, WITH SHARES UP ALMOST 5% AFTER-HOURS, WHILE APAC STOCKS WERE MIXED FOLLOWING TUESDAY'S LOSSES ON WALL STREET.",
+      "title_ko": "모두 아침입니다!: - NVIDIA(NVDA)는 상위 및 하위 라인을 제치고 FY28 매출 성장 전망을 높였습니다. 영업 시간 외 주가는 거의 5% 상승했으며 APAC 주식은 화요일 월스트리트 손실 이후 엇갈렸습니다",
+      "url": "https://t.me/marketfeed/1080385",
+      "ts": 1794983413
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "DECLINING GRADUATE NUMBERS HELP EASE CHINA'S YOUTH UNEMPLOYMENT RATE, SCMP REPORTS",
+      "title_ko": "SCMP 보고서, 졸업생 수 감소로 중국 청년 실업률 완화",
+      "url": "https://t.me/marketfeed/1080386",
+      "ts": 1794983416
     }
   ]
 }
