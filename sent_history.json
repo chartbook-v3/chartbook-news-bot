@@ -1,13 +1,6 @@
 {
-  "updated_at": 1794983240,
+  "updated_at": 1794983390,
   "id_hashes": [
-    "0c0b4d1ae326b4cafc60b8ba2f2dbd48837b600ebac41d2e10f46b61fb1166ae",
-    "75307f554608cf1d5d41313d2488d4020d27c0dd3b9a5035942b1039626de4bf",
-    "a40dd29f132435fc39b21f0a9a357729f394c524dd06682cb4af518f14400a75",
-    "9e2def27d6f91c23eca49b8dd864fb97146e4bf6e1f404ce34ad73f43c12e8b7",
-    "710d3f8baec4208e41b77dff256db81800eb4949cfad1bd04c7074b0ae02eca8",
-    "cd2c009632ec43d501d98188e7e0d23494cdec59e983640fac958b79da0be9b0",
-    "6277b291fe1980b3495510fbf0a858574080071d05ba5570aa6ab45656cc844e",
     "21798ac15a801562afe91078f6375ae922bd79cc6a973aab749be288bea37e8a",
     "c6a2b5d859d43d36798999f1a6541ee8d2473858f599007a4522353daf9514ef",
     "18903ca8e3914fd959b49061e2e61a5e0c0d76413103d5298e1328615d750c9c",
@@ -4000,14 +3993,16 @@
     "0df8fb359fe8050d4a47d827c26b8ac46400183b8fd951dc92a4a7a1d76ce8a7",
     "0b75cedbb57046d661553d77b4520790cd63cd0cabf9a104a10bc70f607a9368",
     "54682032a61239486dce6a5bff02ab17cfa12992b5f1e72c1ca75934dc582d6b",
-    "a4def4cc498445a62894debf19ae891172187d313fce53fdddb58c7439c9e34a"
+    "a4def4cc498445a62894debf19ae891172187d313fce53fdddb58c7439c9e34a",
+    "41ec7c55aecbe542e4840330425ab3694ee24679c42fe99067878105aa5ca159",
+    "377720ec9019c3a34baa42493d926b9a5c07acf480fae90b05239b3ad3d02176",
+    "c2917b5e9177e416475867b8c37a698a326bfb97fa8f4973fb3318a80560507f",
+    "56f7b69ab742347faae84e7e2392f0b9bfbf5ba563ad2b3a6001515b275c636d",
+    "f22ac27eba2e94f8beb68e903ffef69ae26ab9812884a4a93bd73ef323de223c",
+    "78d833531544dbf5aab0bc38ca0206cb15bf68e7c3751211fb5cb548c1c3f5f7",
+    "fece631304ea9374cdd9730bc6130ecf1a9acb9d0f01aa83a58577d4ced1deff"
   ],
   "title_hashes": [
-    "5c3d1d198f176091ffc0e1fa3368f3514b8fb8ab57dccbc7bcc61acd5cd1c661",
-    "eda5e649d385f1eee71a4d36370eb88959a50baf3223ef3966287bb9ce083fc4",
-    "4d1716197fa021d82bb660a6697928f808b6b62b066668df2225387692d3a0f8",
-    "2ad8362da39089241eee389a487b0a33a1d3c4c9b4d7102b7347d99d23bf8684",
-    "6b29c613c676d8e05a1d2a82f484e8a62c70229572f3e558b8c09f7b16f04d80",
     "a0376cf02c36f33cdf53989a0cb641ba0fd25686fcf561651bd45d43b4d87897",
     "e0a853689dfe11b5f4b22e9106d0457886d8abde3df3b8dea23fe2ac17004323",
     "411db328e7b1e71bc109e5eed30fdbd3f2c1c4a0b5590ff9ca786832f9ebc2b9",
@@ -8002,16 +7997,14 @@
     "e86e43cb9e9f96a707de232a8e38c75cde42bf2a2ced77deefe34eaac841fef2",
     "3d8d911e8256f3447eabe2f9da5830a8b755b6121d31c48e0a9fdb03211e5145",
     "e5d0b45d47212e035e746a91cadaed3220f56b82114b94b670803c16e4155165",
-    "9d9c2e7bf721b591e96eaf9ed392c176d6ef49658f32ac8221e8ebe98c21a62f"
+    "9d9c2e7bf721b591e96eaf9ed392c176d6ef49658f32ac8221e8ebe98c21a62f",
+    "79dee67ee6b03de4ab1fddedc1b7e82f4105e81668a0de04e363bdf4eacc2629",
+    "ccc1890bf2ab900a1ec1c06c1b57579ef595ef3682248345c96909c41fdeae44",
+    "bf065ca9aff602c602e8a6b55580bd9fd4d1309b094481fa317c1c34d5192a3a",
+    "21c5e7a47f7126628211b960e6106ac519786aa702cafad8393a5e77b801f962",
+    "76f25125bf5a97d8abeb31ee871503fa7b4541b881c8af42455950325eed8366"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Nebius Group Stock Chart",
-      "title_ko": "네비우스 그룹 주식 차트",
-      "url": "https://www.benzinga.com/quote/NBIS/charts",
-      "ts": 1794955651
-    },
     {
       "source": "연합인포맥스",
       "title_en": "\"젠슨 황 복귀 선언에 엔비디아 이사회 압박 거세질 것\"",
@@ -11504,6 +11497,13 @@
       "title_ko": "NVIDIA(NVDA) PT가 Morgan Stanley에서 260달러로 인하되었습니다",
       "url": "https://www.streetinsider.com/Analyst+Comments/NVIDIA+%28NVDA%29+PT+Lowered+to+%24260+at+Morgan+Stanley/27365633.html",
       "ts": 1794983085
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Adnoc: A vessel attacked while transiting Hormuz November 17.",
+      "title_ko": "Adnoc: 11월 17일 호르무즈를 통과하던 선박이 공격을 받았습니다",
+      "url": "https://www.financialjuice.com/News/9857223/Adnoc-A-vessel-attacked-while-transiting-Hormuz-November-17.aspx?xy=rss",
+      "ts": 1794983388
     }
   ]
 }
