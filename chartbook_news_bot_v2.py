@@ -546,6 +546,30 @@ FEEDS = [
         "url": "https://news.google.com/rss/search?q=%28site%3Asedaily.com%20OR%20site%3Aasiae.co.kr%20OR%20site%3Anewspim.com%20OR%20site%3Aetoday.co.kr%20OR%20site%3Awowtv.co.kr%20OR%20site%3Amtn.co.kr%20OR%20site%3Aedaily.co.kr%20OR%20site%3Amt.co.kr%20OR%20site%3Aeinfomax.co.kr%29%20%28%22%EB%AA%A9%ED%91%9C%EC%A3%BC%EA%B0%80%22%20OR%20%22%EB%AA%A9%ED%91%9C%EA%B0%80%22%20OR%20%22%ED%88%AC%EC%9E%90%EC%9D%98%EA%B2%AC%22%20OR%20%22%EC%96%B4%EB%8B%9D%20%EC%84%9C%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88%22%20OR%20%22%EC%96%B4%EB%8B%9D%EC%87%BC%ED%81%AC%22%20OR%20%22%EC%99%B8%EA%B5%AD%EC%9D%B8%22%20OR%20%22%EA%B8%B0%EA%B4%80%22%20OR%20%22%EC%88%9C%EB%A7%A4%EC%88%98%22%20OR%20%22%EB%B0%B0%EB%8B%B9%22%20OR%20%22%EB%B0%B8%EB%A5%98%EC%97%85%22%20OR%20%22%EC%9E%90%EC%82%AC%EC%A3%BC%22%20OR%20%22%EC%8B%A0%EA%B3%A0%EA%B0%80%22%29%20when%3A4h&hl=ko&gl=KR&ceid=KR:ko",
     },
     {
+        "name": "K-우주항공",
+        "tier": "TOP",
+        "type": "gn_rss",
+        "url": (
+            "https://news.google.com/rss/search?q="
+            + urllib.parse.quote(
+                '("우주항공청" OR "한국항공우주" OR "한화시스템" OR "인텔리안테크" OR "세트렉아이" OR "AP위성" OR "컨텍" OR "루미르" OR "비츠로테크" OR "이노스페이스" OR "누리호" OR "우주발사체" OR "인공위성" OR "저궤도위성" OR "위성통신") when:4h'
+            )
+            + "&hl=ko&gl=KR&ceid=KR:ko"
+        ),
+    },
+    {
+        "name": "K-광통신",
+        "tier": "TOP",
+        "type": "gn_rss",
+        "url": (
+            "https://news.google.com/rss/search?q="
+            + urllib.parse.quote(
+                '("대한광통신" OR "오이솔루션" OR "우리로" OR "옵티코어" OR "라이트론" OR "피피아이" OR "켐트로닉스" OR "광통신" OR "광트랜시버" OR "광케이블" OR "광모듈" OR "실리콘포토닉스" OR "CPO") when:4h'
+            )
+            + "&hl=ko&gl=KR&ceid=KR:ko"
+        ),
+    },
+    {
         "name": "디일렉·전자신문",
         "tier": "TECH",
         "type": "gn_rss",
@@ -612,16 +636,30 @@ CATEGORY_PATTERNS = [
         ),
     ),
     (
+        "광통신·네트워크",
+        re.compile(
+            r"(\b(optical transceiver|silicon photonics|optical cable)\b|(?-i:(?<![A-Za-z])CPO(?![A-Za-z]))|대한광통신|오이솔루션|우리로|옵티코어|라이트론|피피아이|켐트로닉스|코위버|우리넷|광통신|광트랜시버|광케이블|광모듈|광학엔진|실리콘포토닉스|광전소자|초고속\s*광통신)",
+            re.IGNORECASE,
+        ),
+    ),
+    (
         "반도체·AI인프라",
         re.compile(
-            r"(\b(nvidia|nvda|jensen huang|tsmc|taiwan semi|amd|lisa su|intel|broadcom|avgo|micron|sk hynix|hynix|samsung|asml|arm holdings|arm boss|arm ceo|arm chip|rene haas|qualcomm|marvell|vertiv|super micro|smci|arista|coherent|lumentum|hbm|hbm3e|hbm4|cowos|wafer|foundry|2nm|3nm|1\.4nm|euv|glass substrate|advanced packaging|semiconductor|ai chip|gpu|blackwell|rubin|tpu|asic|data center|datacenter|hyperscaler|optical transceiver|silicon photonics|cpo|dram|nand)\b|엔비디아|하이닉스|삼성전자|마이크론|브로드컴|반도체|파운드리|웨이퍼|패키징|유리기판|소부장|퀄테스트|데이터센터|광통신|변압기|전력망|원전)",
+            r"(\b(nvidia|nvda|jensen huang|tsmc|taiwan semi|amd|lisa su|intel|broadcom|avgo|micron|sk hynix|hynix|samsung|asml|arm holdings|arm boss|arm ceo|arm chip|rene haas|qualcomm|marvell|vertiv|super micro|smci|arista|coherent|lumentum|hbm|hbm3e|hbm4|cowos|wafer|foundry|2nm|3nm|1\.4nm|euv|glass substrate|advanced packaging|semiconductor|ai chip|gpu|blackwell|rubin|tpu|asic|data center|datacenter|hyperscaler|optical transceiver|silicon photonics|cpo|dram|nand)\b|엔비디아|하이닉스|삼성전자|마이크론|브로드컴|반도체|파운드리|웨이퍼|패키징|유리기판|소부장|퀄테스트|데이터센터|광통신|광트랜시버|광케이블|대한광통신|오이솔루션|우리로|옵티코어|변압기|전력망|원전)",
+            re.IGNORECASE,
+        ),
+    ),
+    (
+        "우주항공·위성",
+        re.compile(
+            r"(\b(spacex|starlink|space industry|satellite|aerospace)\b|우주항공청|한국항공우주|(?-i:(?<![A-Za-z])KAI(?![A-Za-z]))|한화시스템|한화에어로스페이스|세트렉아이|인텔리안테크|AP위성|컨텍|제노코|루미르|비츠로테크|이노스페이스|(?<![가-힣])누리호|차세대발사체|우주발사체|발사체|초소형위성|저궤도위성|정찰위성|인공위성|위성통신|위성안테나|위성\s*(?:발사|수주|개발|사업|본체|기업)|우주항공|우주산업|달탐사|스페이스X|스타링크)",
             re.IGNORECASE,
         ),
     ),
     (
         "방산·조선·전력",
         re.compile(
-            r"(한화에어로|현대로템|LIG넥스원|한국항공우주|KAI|방산|방위산업|무기\s*수출|HD현대중공업|한화오션|삼성중공업|조선업|조선주|LNG선|특수선|HD현대일렉|효성중공업|LS일렉|두산에너빌리티|전력기기|전력설비|송전망|SMR|원자력)",
+            r"(한화에어로|현대로템|LIG넥스원|한국항공우주|(?-i:(?<![A-Za-z])KAI(?![A-Za-z]))|한화시스템|방산|방위산업|무기\s*수출|HD현대중공업|한화오션|삼성중공업|조선업|조선주|LNG선|특수선|HD현대일렉|효성중공업|LS일렉|두산에너빌리티|전력기기|전력설비|송전망|SMR|원자력)",
             re.IGNORECASE,
         ),
     ),
@@ -1097,6 +1135,8 @@ def extract_publisher_from_gn_title(raw_title: str, default_source: str) -> tupl
             "한국경제·인포맥스",
             "K-주도섹터",
             "증권리포트·수급",
+            "K-우주항공",
+            "K-광통신",
             "디일렉·전자신문",
             "더벨·IB카더라",
         ):
