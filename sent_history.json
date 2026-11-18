@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795046159,
+  "updated_at": 1795046311,
   "id_hashes": [
-    "03ad29a69a7d4628d1d21927aa87eb540435ace5aebe2503161bc769aa3414d5",
-    "d3992e2f835424d2d13b32add99cbc3bd25a6d65353a8e2f8c672928aa7ec48f",
-    "b14b793731e78d603aa1a07c02c433b53d7fa72c99c89beb910836c1ba81a71d",
-    "fac7ed6be36f178bb2005887031e589b3d45e694ce2cde4b2223673a877fb0ef",
-    "7bcdc9d0440eca8490a91372a7f0c0aecd873f0ab9b104fdb3824a6b06b0d3a2",
-    "f0557d19bc48fc11da482c470cdb3b7698c2e23b2fdc5f457e8d2f69546d4c64",
-    "df689e1d35f5c7cf1ec1f86024ffe2b1cec1fc278434f91b86f41e3cd40c2f53",
-    "7949a07b8bb12433a9b96bfeb14f0a766269237d22f8975e65f3d8a7081723a7",
-    "2752fb139d241a75ca4115aa4728238d746f760338fc094fda928d52ab3b78fd",
-    "4202bdf690fb82aa410363fdf3dc3712b1d45f02b49d525f0a0e85dc8769d243",
-    "b81d6751777e02995033c7252ad611d15c8c2c77698aa3892f13931c77cfd179",
-    "e45425d7204cf7673ef5cd7fd50d4013419a8cae5661ca41475a2be383503b62",
-    "f5271966053d5b941e7002b2cedfd08e01e5dfb3d43bd880aa89491f807fbd15",
-    "331e64778cc1754f2cf73b1a85a5b4dfe9234f57f4be5dacd78d6d464b899d13",
     "aa2363638847f910bb45f19d9e4bb9c40ded58d24d2a1e72d536b65baea79ea9",
     "028287d1b3fcf161707924fc82434240d3169aafe1cdeece5187b52e7258ea1f",
     "9d71263f511f776dd90e3b127157e602847174a25f7b576f79b8b0c805876a46",
@@ -4000,20 +3986,23 @@
     "2c772c87e7ee1234727cbc36ad4735d239f3848797b86931d8594a05960d78f4",
     "ffffb29bff03a8ee6bd594b23c9a0ec3a32fbd6b9c63126b1f9bfc6d57dd68d1",
     "d146c3ef0031b28d8ab04ece45804845d528cdfec5bdb395b4ee4dd1127268e6",
-    "204121a815cd5288e0101ccb3b2dde145c5dc16c19765cddd30583c84cc99813"
+    "204121a815cd5288e0101ccb3b2dde145c5dc16c19765cddd30583c84cc99813",
+    "dee601ce5577b084c025689c56de565a46c5869bf62380e1357ea45ea2d85ed0",
+    "7f6597bfb5a5b7917b3afd63761630e8f165fb69b6b7c49ec2e89db98553f445",
+    "1397fa1d8bfb2bb19105bfd8df8ff91d99326d16cdcd480d7d8b6f6886cd13f8",
+    "2450563fbedc0624d6de61a784ae5eab66136e2e2c0dfd136683d929424b04cd",
+    "02c7f04675bd4f79e72c77c60ee127d9be63d6a3fa6d230dbe4925a8fa4d7302",
+    "e5a9204f4aca7c519935704e442328b93afe5f950e95c5ecb0352200b05ae141",
+    "3fd5559c7efd951851dad4f6684463d7e90ccb61ad9e5337246b7acc8c16f6eb",
+    "ccfe555c4df77cbcceb67d1f6c33bad255c7239c665844755ae476aad79d194b",
+    "e5a43846a0548f08553acc51b82500dd8ee7ea1432d93e329a502735c22e2f5a",
+    "20790ee672fc290733a896c3a5b77078fdeb2fc0d6b4a8177754821ec87f0fa6",
+    "4e351d957021f2382714c27020eea9741f2b99ba4c2d41834423508d05f3909f",
+    "42f6a800c77d26aa82605e34dc5ab8cf0afe353876db0b1fa73c9edb3e23faba",
+    "73e05c00aee4d52b6a7f0f90b836e54eac432247b9773289daf931151d45f5fb",
+    "f5611b15c247110626579e8bbc4fa533f62d78b6931f230847bb40ea63867854"
   ],
   "title_hashes": [
-    "4aec9470e068fbe5cf1bf015e85c31e6e0adc59cf743508c466d80af6651f9b3",
-    "df16a01a604a907043618d89952716566dd8378c5c35b09d76fca2dbab5965d1",
-    "115db6e898a7b7b761ba3dbc03214ef5d9acb5b36d53f7c8d1a71e3e1072d549",
-    "5e7250ad644626132cf09fe4f47c8e454268f6b799d381c55559f8a36fed74eb",
-    "ae87543311d53d1006226e903f79fe82d93e4662f461aaa5d47a5e5e2c21f2e7",
-    "8efb40573f0c2eb2f90a307405ad6467ef59390663005457ef2ce867d41ed40b",
-    "aecef718355c7da5053deecbd372e84eef9481c69b4d89151afb4787aad39d8d",
-    "acf4d288a188a830d34a727bb242109380e5631f0008c2bbc0da8674cb8babdd",
-    "c290134659ec7f43a08ec21b37938de89b9afb2dbe5e511e333bcbf2225437a4",
-    "f63659a8894d7a86e57a62d3c8bedf87e174070237676aea416e4653e04819ac",
-    "45530f8d4fdb86862bc8dcf8180d74eb148551bd4848fb1e77d1167ff367c3c5",
     "ff2ded5cdbe8c94d38ec66698800b3c8d717241a0f8bb7184724c83a81d8b7d0",
     "022c307a6e6c2f4e60927a5e0da7a2997e7afe9fbf0a79b6c076c06ff611af84",
     "16676344abb83d5136b59dc9c4120cc161c52e62c22758c3f2fb41de2f4a7c1d",
@@ -8002,30 +7991,20 @@
     "ba1e0559ff26bf424e2244ca6f40afac77a7cc9675f94a9abd5f407b0c2311f5",
     "abf96768519b659fa696a70758f7c8939f4324cdc447615ce8f555e8dd3566c2",
     "cc528d08677e4cad6162f983f74122a8d631ebd82e50e7ad550b666e9a65d557",
-    "a6b82345a147bc83722435280d7a64bf1ccf15efb913180e4b71df23e9fc3526"
+    "a6b82345a147bc83722435280d7a64bf1ccf15efb913180e4b71df23e9fc3526",
+    "b41ed9b66bb371511112d15a3a7846caeb09c7f07b2420849c1e7848250980fb",
+    "e6acf8c19f66707ab102a3e3dfcb9b99f8fc8506c83c3c36b19231226fb2373a",
+    "f25b9f65e99f53098f222053e13c8f82fb4630f7ac792418a137b2bccdbfbde9",
+    "23c46be8ccff18fb1fe250fc77d2696a054b6fc206a0ae79aa7ae5ba40d54eab",
+    "d1e5382dbe66cea44d00f5b2ec3de908d7aae8d34a7f3d133b7c5ad1c22149ef",
+    "161862c7175c3c7bf194d7ee5957e489f78d70a6136e270f65142cfbb42ca1a2",
+    "a7706ccf0ce8715b9f9e5cde11a3e6a329fb23614e7b2fd79ff0b94e2e3ddd22",
+    "c61825753daf73cc815f8bb8a50aff52e2a9002d345b15ca0e1b0f5ef8bd78f7",
+    "e5a21e520e94b47431465b946dee1fed5e01e114fdaa4f64decd465c33953237",
+    "dba407fc5d2eeba9ac0f26a2be585ad1b9630f2788ba9609d12e77879ad105b5",
+    "4bb2ce5ab5754bdaba62dd46031508e0bbaaaa360c59c0adf7301116d139cb0e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "US HOUSING STARTS OCT: 1.309M (EST 1.25M; PREV 1.221M; PREV R 1.191M)",
-      "title_ko": "미국 주택 시작 10월: 1309M(EST 1.25M; PREV 1.221M; PREV R 1.191M)",
-      "url": "https://t.me/marketfeed/1080653",
-      "ts": 1795008710
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Autonomous truck firm Einride’s quarterly revenue climbs on new customer additions",
-      "title_ko": "자율주행 트럭 회사인 Einride의 분기별 매출은 신규 고객 추가로 증가합니다",
-      "url": "https://www.reuters.com/markets/europe/autonomous-truck-firm-einrides-quarterly-revenue-climbs-new-customer-additions-2026-11-18/",
-      "ts": 1795008778
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Rantizo (Nasdaq: RNTZ) Issues Letter to Shareholders Outlining Revenue-Focused American Drone Strategy Af",
-      "title_ko": "Rantizo(Nasdaq: RNTZ), 수익 중심의 미국 드론 전략 Af를 설명하는 서한을 주주들에게 발행",
-      "url": "https://www.benzinga.com/content/63382189/rantizo-nasdaq-rntz-issues-letter-shareholders-outlining-revenue-focused-american-drone-strategy-aft",
-      "ts": 1795008782
-    },
     {
       "source": "Reuters",
       "title_en": "Seized Russia-linked yacht deterred bidder for Italy's TISG, document shows",
@@ -11504,6 +11483,27 @@
       "title_ko": "11월 없이 일본 주문 흐름 13: - 일본의 외국채 매입: -4,407억엔(이전 -5,376억엔, 이전 -5,431억엔)",
       "url": "https://t.me/marketfeed/1081097",
       "ts": 1795046096
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Musk Feels ‘Foolish’ for Spending Big on GOP After Midterms Rout",
+      "title_ko": "머스크는 중간고사 대패 이후 공화당에 큰 돈을 쓴 것에 대해 '어리석다'고 느낀다",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/musk-feels-foolish-for-spending-big-on-gop-after-midterms-rout",
+      "ts": 1795046241
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "엔비디아, AI기업 지분투자에 78조원…\"위험 이중노출\"",
+      "title_ko": "엔비디아, AI기업 지분투자에 78조원…\"위험 이중노출\"",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445461",
+      "ts": 1795046308
+    },
+    {
+      "source": "한국경제",
+      "title_en": "하안주공 첫 시공권 잡은 한화…정비사업 수주 '역대 최대'",
+      "title_ko": "하안주공 첫 시공권 잡은 한화…정비사업 수주 '역대 최대'",
+      "url": "https://www.hankyung.com/article/2026111963336",
+      "ts": 1795046310
     }
   ]
 }
