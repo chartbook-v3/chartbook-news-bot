@@ -1,19 +1,6 @@
 {
-  "updated_at": 1794970276,
+  "updated_at": 1794970427,
   "id_hashes": [
-    "2ea45a455eb297c595ca77cf7fd361f9ba82b4046e9763bcfebe76c67a23511e",
-    "d1c27c00f9c329443efae5a12c84ad04bd9f10e259537806461ce3902d3380ac",
-    "b1fa8b33f9940dd9d1748fcf649fb5386399d45e33bdc60db67fe3e2e3c98796",
-    "aec7505d4990515e19b27c7a848332af1b871ff0dfc295018f19a9a200be2ec6",
-    "0ae880a3252764b730175459261eec6b74e60920532b9a7550c5165e5698b26f",
-    "dfff6d218be000f71d6616f677533a12767fbb670b8f5e6f1e1e83a0d20fde6f",
-    "eb08779c803a05b3c80b69409731f3e8d15895006aa0f8076bed832bcbde20ab",
-    "b9a1d83185cb11230216453b970011f5225acf41933aef52968b1278eb70ba6b",
-    "e59850e9a86b1b6c6b6f08bba9df9304e6175a24b5c55360bd9a9bb1bdb6cb73",
-    "3a628474b500051177f28e39d398f434fed947b0c7b7230206483a73c437264e",
-    "65f78ca9880e99466ff8820622ceeb2d3fb8efd1913eb62a72c939dc41ec1d28",
-    "efc5731b8b0e5cea69d171505e345cf23812d3c864ada63ddc4ee86f20dbdc2b",
-    "cd7ca93fd159ad8f3809341e3edb66171e82b89439756d043740922e9f176c2e",
     "f4cc4b178cc8d4f2cf06ce4035b028d2796999e4ff959e0dce80dc174b42521d",
     "b21539fdcbfa2478ffeaecee284dea962c01bf0273987a9f7bea457bce60e712",
     "51283311f871795274d4a50c067d00690959d3e9dc6ec2a083861101cfea75eb",
@@ -4000,21 +3987,22 @@
     "cad122406515c4360dcec404e9c88d12fab4c9512626fe0fc13fd481708d1aaa",
     "44ba702fc7d80a27fd1e9b9c7386afc073b27a6ec5ea4e44bd87df094c666609",
     "c435998525c4d07b6b3415241ca5cce8461aba29c5ba08735d805c46bd7104ce",
-    "504d69deaf79007950c4ac2a32f3f6acc7d0423906ebba5a4e87b27a1424070f"
+    "504d69deaf79007950c4ac2a32f3f6acc7d0423906ebba5a4e87b27a1424070f",
+    "76aa43b548b860fc3f7f52241cfa24943da652414d37d083f30920386e23a32a",
+    "bed51b0c527304a36e95d8f0b7a33426a1034756a018d114ecaa5289894abb9f",
+    "a8152da1759305326c8b33aec5aa5f76649568c48095eef3319670cd31d12e8b",
+    "62c857d13e84dd4d1bdbcf23df65899dfbdcf024c4144422b817539293d2b0f0",
+    "6f846df0cb35b1117e9e3cfd5b652ad9403e92b49ab8a821b744a4195252afc6",
+    "30488499b785b2e372e18d7498fbe0632adc1bbc5b0d5a80caab9b0b9ddec58f",
+    "5679c64e74d5e3cba171d7ffe0dea54cd88e82e8485eec64e4d6720c041d4aa6",
+    "b290368932a82a41f0ad7b8ddc6970d7fa35282e0e07e30bc8e730d0dc11b32b",
+    "1f886c241673aa62175d4c0cd13a8a81061f8d6d007e9e280e764d1ef59e288d",
+    "eec8601cc6c287ec160ad8d322cba27b76d6b6cf3f9fe280cfca16dfcb517a34",
+    "ab6e0d9793fd5bc063c0f91b3dab1dee6d146f0d2ef6ea5b4a465525cac05042",
+    "6ad7e9527d75ef73c727db2011eac640ee3725de088ac0ca631b183806ccdf09",
+    "eef836261b202e51cdb3145fa171480c5a70f14074a5ab3f330fa7cb75183302"
   ],
   "title_hashes": [
-    "6cbb24191b942785cfb60674fd7221a5eecd08875084b41846d6351b0149fc5e",
-    "acca23069f743a912a78867d488398af7a9413703499caefafe607f611aecaff",
-    "ff91966ed40e3c064071f288959b3d23cdeccba99b943854cfc3d222de98a1b3",
-    "546387730da09f20203dcd29eed71f21088ee109a6cb320f601b8965cce2ace0",
-    "e6c9810567c6c72a99bd7ad74494b8a338fb73d3584917ca06047e3e6e162f60",
-    "a70efd64a49426f499228807c1af49a5111209db8ce7dbd98e213a459c65bade",
-    "3173df24c6f7f8cadd5c82f0c36e4d1c4dc25a7a83b0a8af4a2e7d9b21f107ef",
-    "88dd02d51fc2f14ffe80b439f8d0873217a93271a9fd72c6c4bfd1f9791e0a01",
-    "479ddc6268a1a749f435586f1dd0a665d95346296c64a6f1355d9d3defe286fa",
-    "1879c8e03a49fb45192200b175c18d3b931d1211b092e0d1d349eaa49c4ae19e",
-    "e25594468ee5937c22bca44b540d50b3c0b68116c2d5e924caac7d34019d49a2",
-    "2df0e5023df9c33550c41d0cb8b6aff1e18c7d1149f089a498378ebf1052ec7a",
     "5d78d53f03f3e457701965ed50b4bc54a43683b50148fdb0b84929186d71476c",
     "a801ae2b8a5b81c07f7c25fcc751eea81aa5dae2ef41b81505c28e4a87301e48",
     "21beb203605fa7bff23938f153e11bd520a12064d104577c28656f0735fd88e1",
@@ -8002,30 +7990,21 @@
     "c7fe164d4995556a28485bf645ec3c707d6616631552baccf5ebe5d602bf7303",
     "17a478eac552b9fbe2134f723a10624ad6fe8c64a14200023298176ec63b0dc9",
     "ff0094d73d80a8d6658436d4a4ecaaacb46857ca101776ae2300e3610604946f",
-    "119f2b85c8364d4389b6e7be3b7910703f54b6a6df7794b9d07cfc7fe979ec4b"
+    "119f2b85c8364d4389b6e7be3b7910703f54b6a6df7794b9d07cfc7fe979ec4b",
+    "04c28cd46e3761dcb4eafd59b8eb8e847797be9379cd553cf1de15590fb82213",
+    "bc303f49be96608ea4198daed9db0b2dbd9b6883fffac88d4c1d1f00cfbca5c6",
+    "bca7ed3591ef4220759f7ba41af24c4e8a4751cf0d65f90ab3224229435ca2ee",
+    "4f4e28f3e4a58a0ddfc84ec0de85ef9708893433870683c3aaa040855339c9fe",
+    "3d8d30fd1635d41872ad2fe7e6275b03b7cdc29c8cc37dbf5ad5b5926389961e",
+    "2f793a5a1b4834762ab9be53efe65a77b64d3e3971d6f2ef27e9c9ab831d88aa",
+    "cd3144008ae38e550b8cc040acdd5fb3441a5dfca4f1ad9411689f6db587629e",
+    "009d49a385ef06a63da8c3a9abb19dba80ec2b466f660fe3da0f0b1116456a99",
+    "52c5cef6a2ecf6a22fc323a0d41de6bd79cd50ec32b1df7954c213bdaf093224",
+    "54833deca8af0d7558dc74e72194c7052ebf34bd9f9183ca3656ce417c5ad80b",
+    "4ea647a385a0c5919add6612ae77a6865c698f88fbeaaf6fbd1d3d75a860386a",
+    "5691d3d7ae7734c9eff53024f37a26ac1bf57ff6df08ddf75b4aefc5e58c9d19"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "US STOCKS EXTEND SELLOFF; DOW JONES FALLS 2%",
-      "title_ko": "미국 주식은 매도세를 확대합니다. 다우존스 2% 하락",
-      "url": "https://t.me/firstsquaw/193595",
-      "ts": 1794945791
-    },
-    {
-      "source": "MarketWatch",
-      "title_en": "Dow down 1,000 points in final hour as stocks slide ahead of Nvidia earnings",
-      "title_ko": "엔비디아 실적 발표 앞둔 증시 급락세에 다우지수, 장 마감 한 시간 앞두고 1,000포인트 하락",
-      "url": "https://www.marketwatch.com/bulletins/redirect/go?g=ab148237-ecfe-4e2a-bc33-3a6397e46a93&mod=mw_rss_bulletins",
-      "ts": 1794945983
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "道指狂泄千点，跌幅扩大至1.9%，标普跌1.5%，纳指跌1.3%，纳斯达克100指数跌1.4%，半导体指数跌2.2%，银行指数跌2.2%。",
-      "title_ko": "다우지수는 1.9% 하락세를 이어갔고, S&P 1.5%, 나스닥 1.3%, 나스닥 100지수 1.4%, 반도체지수 2.2%, 은행지수 2.2% 하락했다",
-      "url": "https://wallstreetcn.com/livenews/3201495",
-      "ts": 1794945986
-    },
     {
       "source": "Benzinga",
       "title_en": "Bitcoin to Outperform NVDA From Here? Technical Analysis Says It's Likely",
@@ -11504,6 +11483,27 @@
       "title_ko": "디즈니, 어닝 서프라이즈에도 허리띠 졸라매기…\"성장위한 투자\"",
       "url": "https://www.yna.co.kr/view/AKR20261118068500075",
       "ts": 1794970275
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Resilient US growth outlook could provide further support for the dollar, setting the stage for gains against most global currencies",
+      "title_ko": "탄력적인 미국 성장 전망은 달러화에 대한 추가 지지를 제공하여 대부분의 글로벌 통화에 대한 상승의 발판을 마련할 수 있어",
+      "url": "https://t.me/firstsquaw/193718",
+      "ts": 1794970297
+    },
+    {
+      "source": "Nikkei Asia",
+      "title_en": "APEC live: Day 2 starts as Trump, Takaichi and other leaders set to arrive",
+      "title_ko": "APEC 라이브: 트럼프, 다카이치 및 기타 지도자들이 도착하면서 2일차가 시작됩니다",
+      "url": "https://asia.nikkei.com/politics/international-relations/apec/apec-live-day-2-starts-as-trump-takaichi-and-other-leaders-set-to-arrive",
+      "ts": 1794970362
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Zelenskyy says Starshield speed curbs still in place over 'occupied territories' of Ukraine",
+      "title_ko": "Zelenskyy는 우크라이나의 '점령지'에 Starshield 속도 제한이 여전히 시행되고 있다고 전해",
+      "url": "https://www.cnbc.com/2026/11/18/ukraine-starshield-starlink-musk-spacex.html",
+      "ts": 1794970426
     }
   ]
 }
