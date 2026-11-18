@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795007486,
+  "updated_at": 1795007671,
   "id_hashes": [
-    "dd24ed23a8e08aff6a335ab536c0b6cb17ac80cdfa30ab494eb08052e8b26963",
-    "f10ef02122212b485a7b568fd3ea5417c0525ce3ec846b9db6eef142dd908e5a",
-    "425577f78cb62d1ad6b728d40519db433a656669bc5dc55917466779744269db",
-    "3a55c133bf519aafc543970686f62f82754d83d9b6396aa388f8c58f87b209a1",
-    "a3523f10af7e369980bf603338a3552eccd0c27d205972407fcfe3f57973b825",
-    "8017816d4f373968fa59d3ce648b9b1f75e271765b8022f0e1e8b4bd656f085e",
-    "57fbe0079dec98c2790b1f4a4603bf3d4cf96de90e60b70e112692731702ea6a",
-    "514d11faf64b73bff8eeffcf7047ddc0fb798a9388b35568003745924ca882da",
-    "97d1bcba881084c5dd95bcc385609c27904cf149be74aefa721ccd62e68d255b",
-    "2295a5d570d517059918dfe255e9584f2e5440c9f4b62abdc80b4c9ce5b3fa34",
-    "c49c045b0b3965b13f949fc4ac2fe87a097f5cbae46b1a5af261b290082d2ec6",
-    "824ad915bfc201e3af318639a7ba945451b0d4090fcd0f2a54a4bb1562f33657",
-    "f6637bbb484e56eb40599686471eb60331721ddae8fea2880b3b7b351db7e7dc",
-    "09b3e203dd92847e798d816203fc891941eb51739e0720ff1eb66b84e702a3e2",
     "98c7cdca8d996db554c13a37b171ef79484ed29b66743637d7ee9c975640920f",
     "df8a46a126ea10bfb286a6ddb7e53dd89386ffe4d86706ea9025bdac129271eb",
     "85d5a627e4e3bcd70d39ea329894dedf226b0a9b3d17d46099e9c39c5c3c9121",
@@ -4000,22 +3986,23 @@
     "f6f0135776f8cf76fee29a347e13c74da7c2c32bfd945a7d1dab8674da84be16",
     "58f69adb12eb9ab75f6adf1a9700cf2eaa611d68926edf417bc5c861f0ac8702",
     "b01bd401f607d9f2d08996227484b870ff5bd88482b3091bcc40b381e12fb697",
-    "51a370f16820da40bf5abf47adf46b7f01758b497c331f33c2bf009e57ee77a7"
+    "51a370f16820da40bf5abf47adf46b7f01758b497c331f33c2bf009e57ee77a7",
+    "e50085f7c51be13f316d22e69a803fbc25825713246dede31619faaae5e17bdc",
+    "b50d6277ce53aaf1bff5d7b2188a31408d7d691c029ebb7a99fb09d6512dec66",
+    "5c5917ac5d8922b0546db62387072b87c41f8d936531cdc51cb68bc7dde13b36",
+    "fcb20d4ebb96344d718ec1ae2a89d918e8b11ace1f2c70543445ce1f6c8cd6d9",
+    "ab1797ed36c625ba49ef6be1e6a4534be72258fd75549fc04bbd871d36a28138",
+    "8e243f716e59b54617c9673009664bd9ae938548aa1794dcf710489b7a9c67d8",
+    "4f22a6f259fed3707aa8fe83da5c9b62791327c44d275a250b46609263fed52f",
+    "95664168e8bd07f10f66640c367e2e7d780f22fe994ec29261ad17f1790c48bb",
+    "272e7fe50e463a8dfe7cc5c21ed63f8d484d08d4e42c8308df17baa25ae099e6",
+    "d6b1c6c4c210535fea3e2b71514e8deb4672dacb62e1acff4c761d1237567e25",
+    "0054316589da2b28785bc312b1fd65f9c135275465ca16f0e7ee77db3183d4ef",
+    "566d14b4fb7c0ba1e40f27265d28c2436c59f32f1b068cb2fe1b30c0f13c29c1",
+    "6ced27982c2aa6824225990372c1475a446a86f3683f52f0c1856ffddcb8ab3b",
+    "aaf1df6f687c9e43d487fca5563b65aebb3168723b024ab5f098dc0b22a81f29"
   ],
   "title_hashes": [
-    "09b50974b8b656b9b6042f40b76912b66a8bf1319c972f6b75adff6b47aa0045",
-    "6ede75c718387c8a3cb8f37719ba199919f5a9b7607a03b5bdaaba7dc9e30a04",
-    "75b6f71c101dc7ab9f5f27cfcd65f70b552a4131e6a542d7ced4ff57058c2622",
-    "580e55462383f2c5c1cc161a4a48094e97c9e1ebf960fdbad0945a858104bd66",
-    "0b87a67f6131cc75a583ac7e89c374873f7962d881d0ea28d397aaff77cc18ca",
-    "9a64100bde991a2ad7850078973bd53b08105505fb0671c3777c686cbda0ab9e",
-    "92226adc32f5da1347853ca5db52608f7d735863eabfdea2ff4355baec6488dc",
-    "c70463617ebbae806c6ef622506b2c71606a65f75ad423e3ee507d480d9384f9",
-    "9d297a80bfaf2025ff47da73b489772257bf9302cb24aa6b237de1389d4ade4e",
-    "14f78b4e7eb092edabe58daf9c0b61d3c7fddc770a4b227cee5f0c3c2b8ed05f",
-    "395430ab741d3feede2cbc354722fc95ee3f223a243eca3de347fcabc953a3ed",
-    "1857a0a900cc9b2c8a1958dd83a32b58a63d4e8e5a53462d4790c94cc02a55e4",
-    "82cde629bd5c9e2f9fe0cd40d9635ccbc95ee994a8ef764abc40fce8218e35f1",
     "55d63dc712e6d63a70ef1845553f66e8a2b4b38c67704f96799e1245e6d2a619",
     "93ffdc375b4dbf0bbd98fc7e6c98494a8e7b865b0ffc5a34f8ba731ea9751146",
     "05d83be29abd6c364b05caad49f3b176388ab319f8393e5e01ba26c37c64a627",
@@ -8002,44 +7989,22 @@
     "a1ddb529ddf0f76ee70ae32afce29427352572171944c7da68b32398dc2baf73",
     "946d723a3ffac48078cc1b0087b50c910d2543e82e6661c872be1023ba21e0c9",
     "7c54aeef1567bc62b70a1bd721d9c8c930b4e3004d3b2635ad6a86bd41dacdfe",
-    "51ef7af9adb2a875a58a0bfe1aaf5ab905ae57aa7845e1fbc1d7eac1f769126b"
+    "51ef7af9adb2a875a58a0bfe1aaf5ab905ae57aa7845e1fbc1d7eac1f769126b",
+    "d692bc67d070c709020030a8cecf044202539093135927f6951f02d5c25cc051",
+    "c5681042ee34f6b5db877d1289a6ebaa534c94e8c2d6270ecf07ab5642178e1a",
+    "35a75ea09a1f97046eadb2764e01d91996892672040d62ff17745752befdeed4",
+    "1fcd82da42f3902d156f35241e5fe67aa2dd4fe8cfc7954dd061703597a8d22e",
+    "b653ea147fb9750a52f560c1bc614e5b596bebad91fbba9fba16d3ea651c30ba",
+    "7f17d07e8920cf6a2e90200399082f90f680660a12b2c937bd0fb7e39d09dc03",
+    "8b4d683cbfa6ad96190a3014d196b6daf2c59e35f2913f0e857bae3d41e64acd",
+    "754ebf89c846dffff2c22aa379b424071bd5652ac2249f7b4f424acdfe9fc52b",
+    "a7f34ab161201c7a7ad15b06b76c3d321b8ca7d5f27ecfe097b3c4e693e33137",
+    "91313a8dba67905fac9fd57b20c516951a8afa190faa8e9d5c2717b2d703e97b",
+    "ecaca13cb14ce2bcd523b27eba1e836286e15148ab82bef50797e0e944d1e197",
+    "f12aba20e0c303d0aff6d1457fc21c779209b731f3f64e8ffcd96c476149a7c0",
+    "c97dabe38fc36ce55d3d63b86f7d181fdc2266ecb0fc3bdf8d97ef4ab30b8c6a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Asian Stocks Waver After Nvidia Results (Video)",
-      "title_ko": "Nvidia 결과 이후 아시아 주식이 흔들리고 있습니다(비디오)",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-18/asian-stocks-waver-after-nvidia-results-video",
-      "ts": 1794984552
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "[속보] 원·달러 환율, 5.2원 내린 1333원",
-      "title_ko": "[속보] 원·달러 환율, 5.2원 내린 1333원",
-      "url": "https://biz.chosun.com/policy/policy_sub/2026/11/18/VJIIDMZ2A5DAJLSXSZLIBUNRIY/",
-      "ts": 1794984638
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "[IPO챗] 아델 \"사노피 기술이전 발판으로 알츠하이머 신약 개발 확대\"",
-      "title_ko": "[IPO챗] 아델 \"사노피 기술이전 발판으로 알츠하이머 신약 개발 확대\"",
-      "url": "https://www.yna.co.kr/view/AKR20261118137000008",
-      "ts": 1794984640
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Samsung's HBM4E chip is undergoing evaluation with a major partner, with results described as very positive.",
-      "title_ko": "삼성의 HBM4E 칩은 주요 파트너와 함께 평가를 받고 있으며 결과는 매우 긍정적이라고 합니다",
-      "url": "https://t.me/firstsquaw/193793",
-      "ts": 1794984643
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "카디프생명 인수로 눈 돌린 한투…신한은행도 지분 매각 채비",
-      "title_ko": "카디프생명 인수로 눈 돌린 한투…신한은행도 지분 매각 채비",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/18/TXQGZMJPXRETTGVCQ24QNPEZXA/",
-      "ts": 1794984704
-    },
     {
       "source": "조선비즈",
       "title_en": "[마켓뷰] 엔비디아 훈풍에…코스피, 5000선 회복 마감",
@@ -11504,6 +11469,41 @@
       "title_ko": "Apple Home 지원 및 '공간 지능'을 갖춘 6개의 새로운 Aqara 스마트 조명",
       "url": "https://9to5mac.com/2026/11/18/six-new-aqara-smart-lights-with-apple-home-support-and-spatial-intelligence/",
       "ts": 1795007485
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Nixxy announces 1-for-20 reverse stock split to regain Nasdaq compliance; shares down",
+      "title_ko": "Nixxy는 Nasdaq 규정 준수를 회복하기 위해 20대 1 주식 분할을 발표했습니다. 주가 하락",
+      "url": "https://seekingalpha.com/news/4674124-nixxy-announces-1-for-20-reverse-stock-split-to-regain-nasdaq-compliance-shares-down?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795007584
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Recursion aligns with FDA on late-stage trial design for rare disease therapy",
+      "title_ko": "리커션, 희귀질환 치료제 후기 임상 디자인 관해 FDA와 합의",
+      "url": "https://seekingalpha.com/news/4674126-recursion-fda-align-late-stage-trial-design?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795007657
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "UBS SEES GOLD AT $5,000, SILVER AT $65 AND BRENT OIL AT $80 BY END-2027",
+      "title_ko": "UBS, 2027년 말 금 5,000달러·은 65달러·브렌트유 80달러 전망",
+      "url": "https://t.me/WalterBloomberg/38616",
+      "ts": 1795007660
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Huang and Lutnick both agreed to appear before panel - Republican Senator Scott",
+      "title_ko": "젠슨 황 엔비디아 CEO와 러트닉, 의회 청문회 출석 합의—스콧 공화당 상원의원",
+      "url": "https://www.financialjuice.com/News/9857859/Huang-and-Lutnick-both-agreed-to-appear-before-panel---Republican-Senator-Scott.aspx?xy=rss",
+      "ts": 1795007668
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "【腾讯：AI原生办公产品 WorkBuddy 的日活跃用户（DAU）超过1000万】腾讯表示，WorkBuddy每天消耗100万亿 token；最近七天的收入按年化折算超过5亿美元，是腾讯会议的两倍以上，三季度收入是第二...",
+      "title_ko": "[Tencent: AI 기반 오피스 제품 WorkBuddy는 일일 활성 사용자(DAU)가 1,000만 명 이상입니다.] Tencent는 WorkBuddy가 매일 100조 개의 토큰을 소비한다고 밝혔습니다. 지난 7일 동안의 매출은 연간 기준으로 5억 달러를 초과했습니다. 이는 Tencent Conference의 두 배 이상이며, 3분기 매출은 두 번째입니다..",
+      "url": "https://wallstreetcn.com/livenews/3201968",
+      "ts": 1795007670
     }
   ]
 }
