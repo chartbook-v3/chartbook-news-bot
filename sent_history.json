@@ -1,11 +1,6 @@
 {
-  "updated_at": 1794982772,
+  "updated_at": 1794982926,
   "id_hashes": [
-    "762c7079d4297217076d5d525660a8c6a1204d21c03dcd40ab81dbd4d526b200",
-    "cd935f4203035a40751f313925b72fc38ac066d4f45e74bfd2bca888a8bef653",
-    "327fe03e8e6cc276d85d0c0b5702b073bc861f4cba5c150d3ecb9059f59e5736",
-    "9db4a113a55990ff786d1eb178b411694cb436344e95e8c12e967e65b5403c8e",
-    "b177a4e23752bf32b828c2bd0426bd12fa2dbb8abe0f0f03eb52677ec32b47cd",
     "fadb2371fb0722189abd5d1ff6166126187fa55f433a2c3b97bf6c3e9bf01ca9",
     "9233e54c5ff47ae4f2a70afb561f271ffdaf15767ed34bcfb22e2edb6cece230",
     "dd8ff5c4d01d4e0ad1d646401b91315a49664031abd4e959fed686dc8cab4d3e",
@@ -4000,13 +3995,14 @@
     "ea2d2ae984ea558990245ce7a5e5334a79d95e2c4d6c873c9b96ed1c2a289d50",
     "1c8af2c036b48b60ceacef58e5dc6c79b6a30e6e08b77e64f0605558fb3be632",
     "5c7e9e5cbb0b2e6cd4bdeb927730e58e2f8cae4d7a9b3927ff0336b228837083",
-    "960c4f470f7a4932e3b0a3edbe2e63da14325c9b1b5d345537db08a345d6b455"
+    "960c4f470f7a4932e3b0a3edbe2e63da14325c9b1b5d345537db08a345d6b455",
+    "35192f39fc6658541838447b8da686c089a77ad6476b448fc4bb7ede2310c620",
+    "84d853616cafe01ca4f347c58234b8fe122c56f52a2e9cc12fe87b9bc0de02a7",
+    "5be5345fe8cab4f3735e4807903142c03a26be2388eb8ae251ec0da81fed7219",
+    "e7cd38451ba29c4beea52a88d0b3511e0bfbd1cec3251161c835a6ad932cfa94",
+    "899beb1cd869fda8ec5af762db9c802d80af872cdf4667321af01f91f9b577a8"
   ],
   "title_hashes": [
-    "259178349c69d07cba87ec5c9f8ad09ccb7ea9701f41443fbe7858f4920b42b6",
-    "f9808834a1c0c51b4b5126a230a50d05ea1752d5300b6eec8fd9764072f4beb8",
-    "a46a4ae97ee5a45409f12c3db54616cec65c0d5e17bd5a083d69cd01210dc7f9",
-    "8778dc2bc26b4b08bfc8edcadbd43ae58b74786d3d538248e768385d276e0775",
     "ba20a62eb47e30534a9267e3339a6805cf5bb89c4e879e6da7c8a14a1f51efb7",
     "7e0e27f185198682e41ef8a99b34ce5cd1c8a6d357441dd35be693dd36a2bf4b",
     "459bcd8bedce99bf5aaace9804191450d33e2aaf357f312088f686b01fda709a",
@@ -8002,16 +7998,13 @@
     "580caba38525d6ec93d81fd860717f16594fdc480f198341331ae978693cfbbc",
     "4f047822d52955f512b71511b999ae694ef3daa1ec7e29906d3464ccbccdd202",
     "46321823ce5f7b9e8229e03985b895ca9e13a4e9ef3e97e3760f7b29d8743fa1",
-    "c20c42f9f5d424ac5ebd4a24ebce9a192fdf7493bb20ac9c3f86df3ce2cea34c"
+    "c20c42f9f5d424ac5ebd4a24ebce9a192fdf7493bb20ac9c3f86df3ce2cea34c",
+    "75d836f75686dcf66492a41091aa0b3d8f60d36361637e00b6e3b1eb090f1944",
+    "4c3ae32a35d9edb7463bc9da26b2a293bccc49f69682bcaa5d6a36a695148e3c",
+    "ae00f7bdb8315ffbb59516b04f540f8e305e6a0272aa71afd5b8ccd3347f85d4",
+    "3e1fdc0d32ab00e4c0088516682afa8f2a1a8b03a405cbc1cb96dcd00e4580d2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "이데일리",
-      "title_en": "[실적리뷰]엔비디아 “젠슨 황 복직 계획 없다”…탄탄한 실적으로 우려 불식",
-      "title_ko": "[실적리뷰]엔비디아 “젠슨 황 복직 계획 없다”…탄탄한 실적으로 우려 불식",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=01813846645647032&mediaCodeNo=257",
-      "ts": 1794955498
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "英伟达：芯片配售要求客户们准备就绪。",
@@ -11504,6 +11497,13 @@
       "title_ko": "엔비디아, 삼성전기와 AI동맹 강화…GPU용 기판 생산능력 강화",
       "url": "https://www.fnnews.com/news/202611181441202729",
       "ts": 1794982771
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Myanmar's military-backed leadership targets February's Union Day period for peace conference.",
+      "title_ko": "군부의 지원을 받는 미얀마 지도부는 2월의 연합 기념일을 목표로 평화회의를 진행하고 있어",
+      "url": "https://t.me/firstsquaw/193785",
+      "ts": 1794982792
     }
   ]
 }
