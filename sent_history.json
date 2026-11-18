@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795001996,
+  "updated_at": 1795002163,
   "id_hashes": [
-    "cb0327809c75d727599d257868e8f7858e83fd288d0b2ff942fa41467b7898a9",
-    "f644d0a490b5b2afdea648cca20e84de74cccc1e2ea290275401e966cab4db14",
-    "25baed81e8bcdad6d4bcef5d7af0122109056767f119b2526de19a6a5726417c",
     "98cccee630d0c3c01f87f0ad8eed237db2664d3506847a63035d9a4805bf0d8d",
     "fb3c086c3de79eff3249d7e972e72f9fd3fee496b011d0550de72f2faf4df8c6",
     "fb56d6debcac24ab3999d05b2218b20cfc14068351097d6dd4cee982b01977cd",
@@ -4000,11 +3997,12 @@
     "01bed6ca937e2f6be937f51bb590265c5148b64c394539ab4e888256828f6786",
     "b15fe6095363a8b888d18fb1b2d79d7a3c1c4f964754f01a0f43a4138b4d0da0",
     "3657d83870ca0764a8e17906adb73df2e3da5c8dcb9c5a7b211408ff0199deda",
-    "0204a105447b70984817acc24b84a34bd558c7798e0cd10d4878a113dfad6895"
+    "0204a105447b70984817acc24b84a34bd558c7798e0cd10d4878a113dfad6895",
+    "e229ba8f6888a310bd6f1fe5c49d598e256e5be6847328cd42e070d1d020181a",
+    "6367ec38a6876f2a07d15338f49b41c2785afd525ce679d6d526884445509e07",
+    "3973775072cdc94a8b173f30c3c95144c03a0bea2ef89351708608eb99d34074"
   ],
   "title_hashes": [
-    "08068246b33d2d413d57c25e7a981578e10020091616f059130e25eeaa5211aa",
-    "80342d7347bbbd076cbe022d9682ac54c00809d68875a69e4b60e385f52527a9",
     "804a5b0a41beb916b50b150694184f21269b83c7c467b080d55253057304d057",
     "7be85c1524e42f583395d956d3e0eedb8be74a6f43c941a03ea0d2229fb2301b",
     "3dd9d3c99fe54d2d5a7b9f0ff5b32113902153909974f6a5a689f439646e1f25",
@@ -8002,16 +8000,11 @@
     "7862ad2fe6e6af8a716917512daa6185bc037cecd0251c3ed7b3761070f46a9c",
     "fa2cf3f312ab01f778c73062bc4e6b92f1deb0f72a8571d893e5260a5457a20a",
     "8a10403eed095e8d3c8540faad18a416a208c10f250a5be91dc4f11b470d1ba7",
-    "eb6961d2ba0f20a9c1758462e92a7dcc8f2779985a29a8b43a41d2abcf9a6429"
+    "eb6961d2ba0f20a9c1758462e92a7dcc8f2779985a29a8b43a41d2abcf9a6429",
+    "d4e84c84e110331421246591704bda0c9dc90329a049d309e13d8e54201ce7aa",
+    "df5591cff5f156727d5951a075384ecd0346d82967b3093b9e9b7acc2b955a6e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "China’s President Xi: China-Russia ties stayed resilient through challenges with a long-term perspective",
-      "title_ko": "시 주석 \"중·러 관계, 장기적 시각 속 도전 극복하며 탄력성 유지\"",
-      "url": "https://www.financialjuice.com/News/9857112/Chinas-President-Xi-China-Russia-ties-stayed-resilient-through-challenges-with-a-long-term-perspective.aspx?xy=rss",
-      "ts": 1794977031
-    },
     {
       "source": "Benzinga",
       "title_en": "Kevin O’Leary Says Nvidia Needs Leader Who Can Manage ‘International Pressure’ as Crypto Punters Raise Od",
@@ -11504,6 +11497,13 @@
       "title_ko": "코어위브 및 엔비디아 실적 발표의 주요 수혜주들 조명",
       "url": "https://www.barrons.com/articles/coreweave-stock-iren-nvidia-earnings-59ef8de5",
       "ts": 1795001995
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Lowe's lifts full-year sales outlook as the improvement sector perks up",
+      "title_ko": "Lowe's는 개선 부문의 호황으로 연간 판매 전망을 상향 조정",
+      "url": "https://seekingalpha.com/news/4674073-lowes-lifts-full-year-sales-outlook-as-the-improvement-sector-perks-up?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795002162
     }
   ]
 }
