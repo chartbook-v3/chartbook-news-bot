@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795024024,
+  "updated_at": 1795024179,
   "id_hashes": [
-    "8975ea5a48c886f0ebf1ce50fed2422b3a8de88a783b3d2f8ce2d13fcaeda94a",
-    "76d6dac81170fd864d089a460a9f277654010e1469f3e3cd6b083a349adf2bcc",
-    "13bd0ddd30db1dd96ef6f507fa3e91b75e2bbc7e9019110dc9209aa318ee5c46",
-    "c5503ccaa3d95886ac9d01524a3e0f40222a83bc477cf51ca2d46b1f1f11cfaa",
-    "4601c58c19a68e88a37b28c92b8131e3daf782efbdffa257a9043c7b66d576eb",
     "d3b73ee8b22e59e387f0ded6423f3625361e6ef72ac0335df083b9acb3d4964d",
     "8a0067c309df51f986eef82ad5804d19186b111eb9e274403d077f65e2eeb371",
     "dc8f609f13e4e8549956866b48934954e387ea165949bc2fb34d40bc78ce835f",
@@ -4000,13 +3995,14 @@
     "28e32ed10f7499d2c0ef374b9e0321ec2b4fb2eb6d60525ddc0d3cec7055d520",
     "09d77f07de61bdb77e9c84cd57f3b5abb878cc0e9dae89cb8ceef33264551552",
     "740296aeff54705f5fe05694b2d9d13d143fd6e55adda4a6af221d4c631042c2",
-    "97d39888e38d3e5dfe3b96dd7a7a8d802fa33bd6233dedf70dae8efa9c93abaa"
+    "97d39888e38d3e5dfe3b96dd7a7a8d802fa33bd6233dedf70dae8efa9c93abaa",
+    "6e5f63c0383a127ff8fcd7460a254b6816663c5157f74138a4651e471ce206ba",
+    "1c55572c5d4fc6369cb56af573cf9b0ca236d959ca4cc396cf2c4be7b0ab8325",
+    "b4f22f743eaa820c51c6881d93c3ad01a103bd8f40fa7d30df3b6243f213b232",
+    "006a707792fd0788a57173d845ca1e3e7806ad11e59502720f45395c0d1e2c2a",
+    "cc5119b42afb928e3f1c6f58154451396f109d9d757dac166f93abf47ddb8f21"
   ],
   "title_hashes": [
-    "bfbe8160bf75defc0867d864dac8c24f2b05da7c2a1a6d31853a7afca7b31cb2",
-    "ae3d682a73bbe4062546c3b70dbbde431df7208f58bbcde0a3d4faad75a1a7f9",
-    "a2eaf8546d8ba7133abf9cc1334f9e6b4877f99f9209c9814ee791deaf1a92a6",
-    "0857f3e09241c5bc16ea1cc96ea7dda20ab83bc70e6dba06458fba6dfbbb284d",
     "38db94f198ac918fcc771a6c51eabc4bfbb22a7b30b3ec4acd081a82ad57b296",
     "f9b66d1cce570bb8d9c66c1f21b6bf85d113e78a22f03a2779342e114a3760e1",
     "5a892895061edd8e5cf3655242eae4fbf63dda2aec46a85040cb4fcdf69624ed",
@@ -8002,16 +7998,13 @@
     "2eeb9518773f66917229c16311fad8cd129420028317f1b9af64a90b436c63df",
     "c9c6791189e981019101262aad610efb65a470e89d003f218475a010307259b2",
     "7840a249818e605114be6deafc7bf37d59b0ca828e05ec6f9a5f4e09c8b948be",
-    "df4797175a1cc09e14761d81b6aad923efe53af324b6cf7be40e94e9084965f4"
+    "df4797175a1cc09e14761d81b6aad923efe53af324b6cf7be40e94e9084965f4",
+    "99e92712e8c03abf367451d0b56de56a7b78a2e3d644d133280a0b4502ce7e70",
+    "7db171d169cebef911695936e2052792364d6fba0981246482629319376e31fc",
+    "1f6a10425dc06d2954c87b7fe44e8729bca92c1e655dd68b55872de1acba5b15",
+    "e012a75ff7e480ff0d308f188e1167613f885b2383d9a9200a082a6bf67cbdc8"
   ],
   "recent_sent_articles": [
-    {
-      "source": "조선비즈",
-      "title_en": "전인장 전 삼양식품 회장, 주식 470억 매각 추진... ‘허위 세금계산서’ 사건 191억 벌금 확정",
-      "title_ko": "전인장 전 삼양식품 회장, 주식 470억 매각 추진... ‘허위 세금계산서’ 사건 191억 벌금 확정",
-      "url": "https://biz.chosun.com/distribution/food/2026/11/18/BDIWMGU2ZZCPDP272A6BV5CMKA/",
-      "ts": 1794991830
-    },
     {
       "source": "조선비즈",
       "title_en": "카본블랙 육성팀 DDD, 엔비디아 로봇 AI 대회서 2위… 산업혁신상 수상",
@@ -11504,6 +11497,13 @@
       "title_ko": "Sam Altman은 Artificial의 새 예고편에서 더 큰 이익을 위해서만 거짓말을 하고 있어",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1036772/sam-altman-artificial-luca-guadagnino-trailer-andrew-garfield",
       "ts": 1795024023
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Fed's Daly: Inflation is high, but i am uncertain how it will evolve.",
+      "title_ko": "연준 댈리 총재 \"인플루언서 높지만 향후 경로 불확실\"",
+      "url": "https://www.financialjuice.com/News/9858327/Feds-Daly-Inflation-is-high-but-i-am-uncertain-how-it-will-evolve.aspx?xy=rss",
+      "ts": 1795024178
     }
   ]
 }
