@@ -1,25 +1,6 @@
 {
-  "updated_at": 1794977014,
+  "updated_at": 1794977163,
   "id_hashes": [
-    "bc35d6a82251b785ab8aac68539afff4b20a4d82375a49435d421b9dfb3b5348",
-    "e32c34232d075af26be59d4ebefb30f9e9926f5eb9b2405e02e0977df0e7b52c",
-    "883b07ed14d31876b5a983aa093cb62aa201a4a3c91d8e01ee30f96965149cc0",
-    "d78389a86cb03d152022476eb53c4f6e7398bf1a559cbe64a9224840e35f9eb8",
-    "bc4f41f6be45f81382466015f52528cce6e182a14814bc3c6e78b99682845d40",
-    "4b5ac7caee181bae38cec3fe5fc5cf960a89230a01741622e200f6ad5d37b67e",
-    "42c99f1af01278f3ceb61b69666e9636d42761d818fcae39114a539231b6e89d",
-    "66b528b64ec9bee6a78fc2476fafe3e08e3f03f772e7bbfab41c40e420815506",
-    "75288a4cfdb164bf0a9ccb00bfe0371f454780c7293ee2daa1a2a33435c5495d",
-    "5d5a4e17240c6ccef248d6831735daff059a8d17a308e0395fb6384a5d4a7a32",
-    "bfbb9a1310272d64ff73ff0671611c6b4a38bca27023681dc478c92c02987675",
-    "1bea3497974137da9ad02a001c5eae1d54897487974410fef125c299e70659a3",
-    "4e18dc33ecd782dfc59461c9c51b883d11019a4d87c2a1091851d0b61519638a",
-    "0c4d0ff72b6a6ea322c7cee641a0bd4b0bd6b1d38ba71849f93e2cad4b23ddbe",
-    "243c61266bc0dbbd74f3b6fc4c6183da5a589d361a243a6225154ecab5271e9b",
-    "df8b0187b9edfb5b012587156e4e0ecfcaee9ce92a7b70dea376d219b6d63087",
-    "b2a92855f6152a06bea7b5d131eb820bac66b12aa5b2fb16bcc8448b9fb1d9c6",
-    "01838e90df9f8ad59d09479f27bd2fc8ec9f5887126fc7bdb095f37d74d90d0c",
-    "e5ae0eb8a8ee7f45ae58168550b13ea262d9247e584404c363db5d8fdd786478",
     "78a51a1ffd365149807c8398a1a466e9e55ba7aafb3d2d0ea5a8786fd8800901",
     "3b97f6fe1334a855b8748ca476c35280a8ff8100fea2214f657c04c0ea83d2eb",
     "ead943dacc6be5df81dbcfadc9fcf2de32b0e78a8acc09dfaac1cbf965fe98e5",
@@ -4000,22 +3981,28 @@
     "7ec2e664839a724b60a4dbf67effd9b30f7355ffd0837f70868dd9313d245641",
     "3f5e0b4419ba41c211d1b5c632e75bf316af604f059c4adf4b78fb80c6cb39e1",
     "d5ba9d3c21a0f301f26cba039f5194510b073cbb5db415b33aa2b3d4f3d3175d",
-    "77547cdab4af91de0b1519fa8d5fb5bd9122867fbc43e138563b5b98e9fc565c"
+    "77547cdab4af91de0b1519fa8d5fb5bd9122867fbc43e138563b5b98e9fc565c",
+    "7b4715f3ad8ad00851072c9ca4058f9bf87f6060ad9c45620d0d01b1f21fcb1d",
+    "52a7ec800ad008f843049270e1b6ed22baeb7af440dace435cf0a1a8dd442eba",
+    "93d0d8e328554444fcc6e2e5398c5ff676fbc1a5cccd3eaf2fb90e1aa771be29",
+    "e0dc863a7ab7f7ee70f4940b5b69a3e457b8b3f5c18c93adaba9c26c0b557d78",
+    "ea74ea08861fe6f530673b328884791fdc89513fa7869e9b8aa20057e4e0ef02",
+    "76db81f7db61d04921c728b64f2b6d8315569de818420e75e0ca9d625775fd6c",
+    "902ce8a5ecd0b9fb7dec70102a1226de357e20c5e3d0699dcc4f7bbcd14c8e0c",
+    "522af4c5e55c5d2e2c48d4087dfb051a843636516b64c5a585cb39c995078b0a",
+    "36de84c4937bdacead968e4e798aa245935cb485b2211a631aee955a1fd54c1f",
+    "eef1facc94e73d7203fc00f81ac1e0c77de5185af415d34de69ef02382ffd5ef",
+    "4230a4d7c3189a79d48fa802d73382f39079ebab52cebdf0bf895c3a9b4d987f",
+    "4c2c3bba7a790b87978898bf536bdf9399c9ddddf14924615062373e972feb6c",
+    "09334ae4b9f6e659648ae559354f74ae1b3df4d9ffffd1f37f485e8db3e7afe0",
+    "5a8b78fc5c6db709733603ca00be7f2453a2d0116061dce10e56d479852536f1",
+    "d1e1dd89071944d1f7e019ff53160e475b7e7684da15d60d4a52de5ae257fb7f",
+    "f3eb2195ae63d4a8c13124ad05bdd64154e5594bb364f13f59a4b38800de52b0",
+    "44d8e0f367e4f0f84ffc0a120b6b2db6ab2cb5ba233c85655941c63ac74e478f",
+    "28ccc5d010d86190225ea58364c3a900c45a392f57d22bc05bcd4b8a1e160bbb",
+    "01e4df12daffc8af6a6744f78195ed9a87dfbb0da76910e84b5c108de97625c1"
   ],
   "title_hashes": [
-    "d543f0d2cf54dadd89b9904c85c14c92565835c904a8203e515de16540f08f58",
-    "56ff29671e7d872ec09600d7975b6c295aa06ca91a261aaaa01de65d3b9f0d1f",
-    "27c0ceee7866cd3ac4c259223830696fdf7f607349a0fea72d6fbf7c8a80f3b9",
-    "44c96a919d709941776d61ef379f705ffa0484c90faae779cd289af9f3d5de39",
-    "c3ac1cfd055c824011a6f23e5c6f4c5f318355599c988b2d5ca85ac534d60b5c",
-    "d0120dd3543a688e7a371d5329e698172790299dd596e75abfbc9de76b8dc62c",
-    "3d38c1d4392b3c28c6242be45812253d529003137c02382a71d1b4db5ba38faf",
-    "01675638555e069fa2ba56c709d6f5cf93835d82f406270818f5b1126efdac8f",
-    "186f4e9b918d13b0d7e52e31dc81cec7bcd5341769ef05785ca6bc81e50e78c6",
-    "7716c53aa17505075b85f9325fbe40961e882245ea96be504fb901e373d82eb2",
-    "ca22ab13380c60219bc8abab3522660aee7baf6abc0c0a5b0eb4dba108a54ab5",
-    "d91e1fdbf253d6d58f3bedf94136ea423773867d1f7d71d148de6f71479dded0",
-    "a5e62b7b9223ae93a79f7735387f029fe9b3dd77eb1bff68edac30e589005d93",
     "06a30a6169529c02f38b5037319c8208284e376a550dbe1655aa17dd20312fd1",
     "1f7d3163a4356f7b7f6a0d22a8194ce89283f63510bf237d1f0b69f413459048",
     "cfc77b0ac5900ef47b118be3f1ebaae495e4c8209f9ad5f122c29cf57ed2efff",
@@ -8002,37 +7989,22 @@
     "15c2127541e1f17cca00b926cba4a39b214d0517c4c64df4d917561d1c8b4b39",
     "0d1f4f1682db60a89830cbed3357c3fd078ccd68303dca47e7b0d2ed3d7484e2",
     "1dbfe63840e27177d32699a0146fa91014194168473dd88ad91ce4417e7ac070",
-    "ba474aa9892acb97170574924ee08640362dbe8e75a292c73015d645d691a8de"
+    "ba474aa9892acb97170574924ee08640362dbe8e75a292c73015d645d691a8de",
+    "414d03b4b40a83416d54ffc17d0c7e33bb06e0c0813ebedec467f86776d51560",
+    "27ed0251b944c461031026112f3e42012e1206f2e55c29c64f10b8e951bf2216",
+    "8a1164837b871ba0c1a4f9c69be392b778076d780c9d5adffab2a339b0d9e973",
+    "e7606445ae972be1c812033ec94a8f854e8001cce7d3793afca33ad342b7a070",
+    "e46c9df3bc0a0bf62816711737f732bbbcc013cb3f9af789ce29a0da6d3f4763",
+    "f5d2597879f731e6bdc51c289ba2e1dc3ead963d0f702735cbfb4ef24f318075",
+    "9ab29aa94c37b0393af912d052808ee617370d4ef88e52bc6bd5e9079850f1a4",
+    "8ede0d11adf1b3671d322c328c23995d1bdac4a2484f1dd3cd3fad858e0d3cd0",
+    "07ac19c6a209cabd37a9708b047f179d9475996a12189f71bc7baa4b14467b2e",
+    "d78dea7adad1534e689d229147c2fb1d2fbf78b2a1eb96312aa3daa0ca8b4f73",
+    "9cd365b23a2b79ab81a3f6d1c120470eb32b6fb8f0451ebf967f438c010f67bd",
+    "3d8440d412fdabf39121040bbd849385e298564e6717419995682cb3977b9d86",
+    "924e7f96a81a697952d569a60bb5ace394390fb86f406726b0f260d306c35a5f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "StreetInsider",
-      "title_en": "Lotus Creek Announces 2027 Capital Budget and Production Guidance and $27.7 Million Equity Offering",
-      "title_ko": "로터스 크릭, 2027년 자본 예산 및 생산 지침과 2,770만 달러의 주식 공모 발표",
-      "url": "https://www.streetinsider.com/Newsfile/Lotus+Creek+Announces+2027+Capital+Budget+and+Production+Guidance+and+%2427.7+Million+Equity+Offering/27364180.html",
-      "ts": 1794951386
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "JUST IN: NVIDIA $NVDA PROJECTS $130,000,000,000 IN REVENUE FOR Q4.",
-      "title_ko": "출시: NVIDIA Nvidia는 4분기에 1억 3천만 달러의 수익을 올릴 것으로 예상합니다",
-      "url": "https://t.me/marketfeed/1080036",
-      "ts": 1794951476
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "White House Nominates LaNeve as Army Chief Despite GOP Doubts",
-      "title_ko": "백악관, 공화당의 의심에도 불구하고 LaNeve를 육군 참모총장으로 지명",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/white-house-nominates-laneve-as-army-chief-despite-gop-doubts",
-      "ts": 1794951542
-    },
-    {
-      "source": "The Information",
-      "title_en": "How JPMorgan, Citi Missed Megaspeed Risks in a $2.8 Billion Data Center Loan",
-      "title_ko": "JPMorgan과 Citi가 28억 달러 규모의 데이터 센터 대출에서 메가스피드 리스크를 놓친 방법",
-      "url": "https://www.theinformation.com/articles/jpmorgan-citi-missed-megaspeed-risks-2-8-billion-data-center-loan",
-      "ts": 1794951546
-    },
     {
       "source": "TechCrunch",
       "title_en": "Google joins the tech outage trend by announcing it’s not having one",
@@ -11504,6 +11476,34 @@
       "title_ko": "[단독] 내년 회계사 최소선발인원 3년 연속 감축 가닥…1100명 이하 유력",
       "url": "https://stock.mk.co.kr/news/view/1201525",
       "ts": 1794977013
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "“출신에 따라 차별 대우”...우리투자증권, 실적 부진에 내부 갈등까지 격화",
+      "title_ko": "“출신에 따라 차별 대우”...우리투자증권, 실적 부진에 내부 갈등까지 격화",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/11/18/GMZDGNRSGJTDMNBWGU2WIZRYGA/",
+      "ts": 1794977029
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "China’s President Xi: China-Russia ties stayed resilient through challenges with a long-term perspective",
+      "title_ko": "시 주석 \"중·러 관계, 장기적 시각 속 도전 극복하며 탄력성 유지\"",
+      "url": "https://www.financialjuice.com/News/9857112/Chinas-President-Xi-China-Russia-ties-stayed-resilient-through-challenges-with-a-long-term-perspective.aspx?xy=rss",
+      "ts": 1794977031
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Kevin O’Leary Says Nvidia Needs Leader Who Can Manage ‘International Pressure’ as Crypto Punters Raise Od",
+      "title_ko": "Kevin O'Leary는 암호화폐 투자자들이 Od를 높이면서 Nvidia에는 ​​'국제적 압력'을 관리할 수 있는 리더가 필요하다고 전해",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63375714/kevin-o-leary-nvidia-ceo-jensen-huang-nvda-price-prediction-polymarket",
+      "ts": 1794977160
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "'원자력산업 발전 기여' SNT에너지, 산업통상부 장관 표창",
+      "title_ko": "'원자력산업 발전 기여' SNT에너지, 산업통상부 장관 표창",
+      "url": "https://www.fnnews.com/news/202611181339181421",
+      "ts": 1794977162
     }
   ]
 }
