@@ -1,21 +1,6 @@
 {
-  "updated_at": 1794962359,
+  "updated_at": 1794962508,
   "id_hashes": [
-    "dc07daf51f70dce66aa8d9d5ca2a5e71d95022641fdde0c6839bf90756030971",
-    "796b35785a032adbc364d133c984eab60bd4cc2234f169c72340870e95eedb88",
-    "3718084e760a58958d8731ab7c3dbd90cf95010e5ca05ed8d0c8e508dbab2330",
-    "30677d552b1294d801dd4a62fabd635b6110cd909e74018aa087d80e2afce878",
-    "b07ae622e56598f7baebcd4a46d5964b8bb64b1db3e20ecab3cb9f4abc49344f",
-    "890cf565a1b8f82559ae4250ca607a2ed09ab3f7fede27dcf03ca27a706a99a9",
-    "2d2a56bc02e69d495db088f6a592945c04a5d9f87ebc4339c41abea8c6ae0650",
-    "beb5aa54b5b38d3cca1b9b234045934f69aff53f870ff88c2343067857fff742",
-    "61808df6a8d7d593a82d52f853c65d28ed6be60d433283c2905138a9611adab7",
-    "e0215170ef6d0ea25471855573665990628a20f4e44c9950877b48b70dbba2f8",
-    "91f2712c984ae88d12e9c99eb997b56be872e47322885c94abc1aa993ddd10f1",
-    "bd5c50e11c98714ae203c8744cc7ad2ea0f20b60ec194442aeab80de258bacde",
-    "701eece73076ca4e514f9164ef18145e2f57c0a1fd0d03185b3bc57efdca8115",
-    "0648a2c5aa929400a4e72b6ffa87403f4827287235ac714bd8de85244c3552f9",
-    "1b34aebf8cfb1832d8e1d4272bc89337645a1f70ce8539bfcb26715456232dbd",
     "52bc8b165f6c153721c75df1dc3e486178a7396a653af9ff51295d3fedc54fe8",
     "e45cd96d88df47cbe03874940378d634143400ed3bdaa5a623d73b1b45f102fc",
     "6a0936554fc3894e17b8bc25c518c156b3d1a0b89132496efb1db341424378c2",
@@ -4000,19 +3985,24 @@
     "7f0ceeb2ae072f5d5b58f8e0668f9e01aa650d7f1c017b82735fdfc2087c1db7",
     "a57219e2b2498cc1050427201cefb6886aa56174bdbb7abad3546c0014cfeeb8",
     "e84663739bdf70a47ee6bf39e53691eba3bd935badf8f930646d5993b66c8815",
-    "ba24bd152fc655ea5028dc66698987f094e5514819f9ffc086286fdda7b60f10"
+    "ba24bd152fc655ea5028dc66698987f094e5514819f9ffc086286fdda7b60f10",
+    "428fdf2513b8b3423017f7620ae5f273b7ea77afaa913f70f08d2c7e23e54d23",
+    "ad03d3c469a9cf81d47b3205d6ef62089c17ea8d4fc6482009d5f95e079edc2a",
+    "4baa98ae4cd08c21b7be554facbe55728377e9febd225d29f8934a441808428e",
+    "216dc45a0fdb289a5333c6ad8b3c89b1b889e458db81e78e606406033dcb52e8",
+    "fedfb1f834daf690d67657a7f444c9545050505cd270afaf6db44d917781e5f5",
+    "b394acd7c5a9db36fa9735635ab9f285fd9012d5205b6c77ecee12b8cae47314",
+    "cdf776a1f3cee51f2ab79056372fe5895e6a6b2507e09667a5227a3ddc11f2a6",
+    "cb96635681fb7ec8a4f3f65a050569f671767999698c4094227f44fc0ba623cd",
+    "cb0327809c75d727599d257868e8f7858e83fd288d0b2ff942fa41467b7898a9",
+    "f644d0a490b5b2afdea648cca20e84de74cccc1e2ea290275401e966cab4db14",
+    "25baed81e8bcdad6d4bcef5d7af0122109056767f119b2526de19a6a5726417c",
+    "98cccee630d0c3c01f87f0ad8eed237db2664d3506847a63035d9a4805bf0d8d",
+    "fb3c086c3de79eff3249d7e972e72f9fd3fee496b011d0550de72f2faf4df8c6",
+    "fb56d6debcac24ab3999d05b2218b20cfc14068351097d6dd4cee982b01977cd",
+    "c78a424585fe026e52cbb6f978b84615bb5602af7077e01cd732769b30ce1a25"
   ],
   "title_hashes": [
-    "e0bb30e0552c80b8745501b43f39e829ba27db92e39c9fd86468cbaf5bfd12fe",
-    "e9ea1783d0b61831e5c5f69f3924f5ddfc785cf0942aaa85c80ba36c5aa1c5fb",
-    "1ad8b516e89fb869567ec8118432fb41934573904a24e6a439ce8475516d2b23",
-    "7738f7d9e0f014562e5515f66803a745106ab3671e9c9fa3c221b3e5bca9dfc8",
-    "39d1a5da24199f1f5b5373bc908cbdea09f084684ac48749bfbd566fa70dc326",
-    "322085011f432b8e973e6d76fb6cc923daf02960380396c8354863dd810c4fde",
-    "1a0aac71b8023aae884b8adee06160dce095ce4c5509fab26303ae2b08863c9f",
-    "23307d6d12892b14713198d91ba1a127f037ad6ce710f6daba3a005ada6b27ae",
-    "c103d7520d23947ae07c0f80a60dda6999b2edad3c970238041749e711fe31ca",
-    "2dda53b01ddf7a2718420d87145371a45a56be6c4f39913ecf359c697f6f56ce",
     "fb506a7957270fd152acdac1787bdd5658b2f10a3a1f7e9af42f4f7c7b004654",
     "523d6daeccb6bbc5a63c12cccdf8267b660ab65136f02e918498ec6a8de2cc90",
     "85e7aef4396e037c2cbaf1b3a61fe454e7fdb08afe2cd36a476bfb58c75854cb",
@@ -8002,16 +7992,19 @@
     "2059366584d8dc18dc763901162ae2e220c4d3b6cce24b5cd93d587e7faa3c4d",
     "92679e914619d68bc735718dce83e090e4290052b60ee1d99d9e5d6c2a64579e",
     "99505f9c6936e74ecf4a2a7b86415fd2575d05c4f2efc7495d67dd395b5a4ba1",
-    "a2728560f8eb3593f7b357ce60d2cb9cf09e75ba9f9bff41a4b99c899082bcf6"
+    "a2728560f8eb3593f7b357ce60d2cb9cf09e75ba9f9bff41a4b99c899082bcf6",
+    "2058998571bd4401ae442f824ca9b34c7124e746b782930284a7c068e518e959",
+    "cd406286bdd46e92776d59593bf94ada221f33e55e977fdb2c5f5780c545f671",
+    "de6294e33c27b584e0045dbce5d1bf92b3a5e1103e2eda26b3e8f2cd94f2f15d",
+    "9925a88c0b1c63289b19e7ea16ff66e0b2ff15bcfd61349e7d7af5595c1a220e",
+    "342c17a9699b2ff7cdc032062e719c91fc866d6a099806d6bf556f3a62716d06",
+    "cdf1d840a6c54f54a515917ac09d109298aa53c62f7bdc9e8bed152c8a07517f",
+    "c4606121b39c47775f2690195a3a8b4d27626cdbfbada741fc5d5578ba38dfb6",
+    "6bf1a9a22e1a56048ee736f65bad3894c0e5bc6ab84c34e1e5afdbf7b845c0c4",
+    "3f6ed5b75a158b61ef22fcb3d6914e45252eff350bb2a821a7666f06001bd8e2",
+    "0ab5ef5909f74deb28f9032e4b1b4f0ccbaa657222dda68bcf09060baeb6b4fb"
   ],
   "recent_sent_articles": [
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Salesforce and Microsoft announce Copilotforce, bringing Salesforce customer context and sales workflows to Microsoft Copilot; Informatica announces expanded collaboration with Microsoft at Microsoft Ignite 2026, $MSFT $CRM",
-      "title_ko": "세일즈포스·마이크로소프트, 코파일럿 연동 '코파일럿포스' 공동 출시… 인포마디카도 MS와 협력 확대 발표",
-      "url": "https://t.me/breakingmarketnews/178393",
-      "ts": 1794941276
-    },
     {
       "source": "BreakingMarketNews",
       "title_en": "OpenAI releasing GPT-6.2 Astra & GPT-6.2 Sol",
@@ -11504,6 +11497,13 @@
       "title_ko": "Kings of Leon이 12월 Apple Music Hall에서 공연할 예정이며, 티켓은 11월 18일부터 판매됩니다",
       "url": "https://9to5mac.com/2026/11/17/kings-of-leon-to-play-at-apple-music-hall-in-december-tickets-go-on-sale-november-18/",
       "ts": 1794962305
+    },
+    {
+      "source": "The Information",
+      "title_en": "Jensen Huang’s Right-Hand Man Oversaw Chip Customers—Including Alice Huang",
+      "title_ko": "Jensen Huang의 오른팔은 Alice Huang을 포함하여 칩 고객을 감독",
+      "url": "https://www.theinformation.com/articles/jensen-huangs-right-hand-man-oversaw-chip-customers-including-alice-huang",
+      "ts": 1794962381
     }
   ]
 }
