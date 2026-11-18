@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795031014,
+  "updated_at": 1795031163,
   "id_hashes": [
-    "5801ffa4b55f3c9019f121571389553445bcc79835cf226d859730ce16b21453",
-    "172f7aa9dfb9fe0b01120b96451cd7734b60858f0aa05cc3a3ba7757f407d557",
-    "974a43376a1530e138bf2d7209de92ea86a44cc6e30f0e263c9d311f3419747d",
-    "6e50e9f95e18e469f35635ed2ab376834bcb3b838ce0feccebf7a0c0fcf754ca",
-    "0dd49b6bb405049e3c242bd81a6282a8faf3b27f69c73a907211bf43948b69e4",
-    "fdee70220f08e6a108109b2c86bf47366c25e5c6f8eb645c3609f2fc12fc7916",
-    "63d355f839770d879b3ff13089af51ba62403ce3a4a0e23234ed2567941b3913",
-    "eb7a189a6716fb85bb1d4f08b8c142d461f396def1dc369d17af9605a09c325d",
-    "a7d39e2d2d06194afa18625840b271ad08bd455fad4d34773e119317f9b10ce9",
-    "402e8f12bae002064002be0331d1d5181afa493a9b315ba56b1aa66abb87ebfa",
-    "a6d81aab4718617d903f9a4a4571b790ea66cd0f5cd27d6c698d218ace45fcdd",
-    "9d40f26d9220f6f802506e1904744388eaa39d5791f8a623026786a8d9a67419",
-    "3e9808cf07328264778c09d383adf5cd67b70ec29885dcfedc848c490ba2f9ec",
-    "2d533d3fd09670ffffb5ba28f3cc2d760dc5b297ef8c02b99054b11712db1c4e",
     "c240379055c221dc75bb984b60195f5421e95f3e1110366878f093e47a834621",
     "d781383abf9bf7a109534f5638b7d08b4586508da721924e6c752a1433ca1f1e",
     "79950db53f0924bfe28758b83c1052504e7bb53895a6ccdc00d3598cbc5491db",
@@ -4000,19 +3986,23 @@
     "7666a5b702520c7c17f19a1e10b7f88cad9fe734866a171600e89ddf417ad47e",
     "533e5350ec2806f31be8869bc52bbc6d585caafec31ce869e85e4dc2f878e1d8",
     "027f51437ddb6a8c5fa683d32a85d00f6abca7296dbf9ba18480692901f069fd",
-    "b7ceab7f77ea8302489bb48de16500e362f54dcdf889492d10f94b4d1275d6d5"
+    "b7ceab7f77ea8302489bb48de16500e362f54dcdf889492d10f94b4d1275d6d5",
+    "ed65055b043aca6419ea0f09b49917c58e341578ab4bd46bd0282b22a6fd54ae",
+    "694f0a992140396bd85049348657fcd55fc466cc8fb9d4dcd8be1a699c0072f9",
+    "0a1ae6acb3a1b2fd3f218344bbf116ebe406587ae4262f64836ce040c165018b",
+    "3649cc3852371171d6916c895eb7712d4af9b1f0d0eeeab5be795f1eec123134",
+    "ebbf9e5b832e983f4ad74ebb5b61a596a79e74f3b031b877099b31626e1fd0fc",
+    "6b5fd46f481401c8622eb47dfef07c0501bbefa9057a59044a357143fc0b26bc",
+    "69da81b4e2e2a28bc14e71b78bc8e33a8874727e21b72a2b3df36dcfb01b36a7",
+    "64cd69bf0f74d73a7a9919e26721b25243bad6f785eea08390323d8762fe3cb6",
+    "29476bf5c2d8c0d7d49b3e28c764eaaed5e25a31963feb95fd3090937750e134",
+    "66c5b5f9f6fdb3c626299c456612a15e7c576154f2a8a43eb6048d8eba28329a",
+    "1b4b7ed6f22a95aa0ac65b992939d3a00d4dae968c31b4f6e2f4b02d24468e0c",
+    "1fcba17a349963674689e744010f72138a64ea097c085c05ea29bb93afc743d2",
+    "0609cada0d32d1b8b17188fb8648ac5bd6671c2b61f3ef744a08037038ec7b05",
+    "f4cc0568c37ee490c0b5066df8a70f889df43e23f1e2aef677aeeb163d524961"
   ],
   "title_hashes": [
-    "eef430f7be06bb1877c732837798afe33e42f74795f3a7bbeb11c53d42b972c1",
-    "0a10bb079dec976a11b27fa106d49b2664826ff3afe137cede11cc6d6f3388e9",
-    "45da2a2595a71f42848cb5f3d064f63965d66c9ce2c1873cf2eae3b4d4f89e92",
-    "738c3007c920f2fafd0a433e90d0c464ed815b625f5c99af4c3272c8b4020cb3",
-    "c225783ba1b6ce7cccd9f005d8f642ae9ad419923c7b56ec27ae192a735c0d59",
-    "bb3f0703de2af2d86f941e533edc7c1afcabff9a7d57de1fe0979dbbd2c198f0",
-    "d6760cde1ac3e5c82e40b42bc6e84df4d80e66b70f185fe763275afd73e85086",
-    "cfa9c2673cc066e17f431db3b06800b31c6c7810d11d8f519fe2c0cc22926e8a",
-    "62425d0cd469ea928e7b4230adca86891ea45fe09f7a09149137318e0bf4b95d",
-    "bf841556e61d52fd61e1f2e95020c6750c6197f7bf4dbb5d3357eed5af5cb17d",
     "511b70731205e6e6eaba0cf4c59e01a388618b0bf541a046b279b5452f339069",
     "629a193fe1481100968971c2f9ede1dc1eefac778f60d55ef263b71e0ce53f37",
     "7d831371db8581285ccfc85d094ee991629484e9a2c9052288a50561dcaae143",
@@ -8002,30 +7992,19 @@
     "f3e6e785233dbfbeee31ddc0da6c8e71e1b02840b1a75643dbaf8b6824a23727",
     "fad971fb1a198c35f6c78a1cabfef06cc1e079c13841cec093dbf23b721ff336",
     "5917c4a62e91e6003cb875b7494fe41ed6c79821072384499655260ddef84dd3",
-    "005b37d7b88235b5a2928bc64475cb56cd6a77c990eb186ce189fc5b63cee45a"
+    "005b37d7b88235b5a2928bc64475cb56cd6a77c990eb186ce189fc5b63cee45a",
+    "ae02726c15e603c18ae02405c8ed1ddbed616670fe600a39f8c5fe3194c52e4d",
+    "f84d3518040a8a6c0f26d728c5919a2c9e37ce95d07b89e04a438c2ed646b5cd",
+    "cbfb2e5c7186b89559f36e1282eb7eb087c216e5ed11c314cf7463ecadb49aa5",
+    "085a923a9c6c62849c9f4563eda038c6753cfaf1f9970e773d26fd801fad7619",
+    "f53ceeefe511cfebd587d2569f16b39c1bd0e825020a62b015e5ef4e6cbfc0b1",
+    "5057507026a5f17a2d6de62c5f53ab367c2fb9f6f01b9021a0d0ac043f64fe94",
+    "d94d7aac061ca4e66bed640d52b6f42bc1bbbe70e4f476fd1b6d83c9250ac972",
+    "b7d6f038fb1966a54771a31d2d6107fd718207f0775ce3eb756ba55e6822f52e",
+    "1163bd53e7061eac1cd214580a66ecfa4e65b7cc576c0e0cbeafabb81100321c",
+    "9eb7d127f6877d1ed8af18960d19e1f399be8602e123c0810fb2a21e940d3e49"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "Momenta、Uber在德国启动免费自动驾驶出租车试运营",
-      "title_ko": "모멘타·우버, 독일서 무료 자율주행 택시 시범운행 착수",
-      "url": "https://wallstreetcn.com/livenews/3201899",
-      "ts": 1794998161
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Chris Van Hollen Links Nvidia's $25 Million Ballroom Pledge to Trump's China Chip Decision: ‘This Corrupt",
-      "title_ko": "크리스 반 홀런, 엔비디아의 2,500만 달러 무도회장 기부를 트럼프의 대중 반도체 결정과 연계...\"부패한 행위\"",
-      "url": "https://www.benzinga.com/news/politics/26/11/63377818/chris-van-hollen-links-nvidias-25-million-ballroom-pledge-to-trumps-china-chip-decision-this-corruption-is-a-policy-choice",
-      "ts": 1794998220
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "克里姆林宫认为普京与特朗普举行全面会谈的可能性不大。（塔斯社）",
-      "title_ko": "크렘린궁, \"푸틴-트럼프 전면 회담 가능성 희박\"",
-      "url": "https://wallstreetcn.com/livenews/3201902",
-      "ts": 1794998222
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "SoftBank’s Masayoshi Son regrets missing opportunity to invest in Anthropic - report",
@@ -11504,6 +11483,27 @@
       "title_ko": "부채한도 내년초 도래. 채권에 타격을 줄 수 있어",
       "url": "https://www.barrons.com/articles/debt-limit-treasuries-bonds-congress-618953f1",
       "ts": 1795031013
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "QuasarEdge Acquisition Corporation Rights to receive one-fourth (1/4) of one Ordinary Share Stock Dividen",
+      "title_ko": "QuasarEdge Acquisition Corporation 보통주 배당금의 1/4(1/4)을 받을 권리",
+      "url": "https://www.benzinga.com/quote/QREDr/dividends",
+      "ts": 1795031036
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Microsoft Says Copilot Is Beating Anthropic, OpenAI on Price",
+      "title_ko": "Microsoft는 Copilot이 가격면에서 Anthropic, OpenAI를 이겼다고 말합니다",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/microsoft-says-copilot-is-beating-anthropic-openai-on-price",
+      "ts": 1795031096
+    },
+    {
+      "source": "The Information",
+      "title_en": "How to Diagnose a Recurring Technical Problem with Google Gemini",
+      "title_ko": "Google Gemini에서 반복되는 기술 문제를 진단하는 방법",
+      "url": "https://www.theinformation.com/articles/diagnose-recurring-technical-problem-google-gemini",
+      "ts": 1795031162
     }
   ]
 }
