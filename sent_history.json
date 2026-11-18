@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795026613,
+  "updated_at": 1795026759,
   "id_hashes": [
-    "e1bdd9174a362b02c55e5a523a988a8c28c464e3415814caabffe4500abc027f",
-    "090ea5b157afbe2cac50a32cedd0bdf72ba5e276820698ada91f68bed48243ae",
-    "ee701f6b011af150508ac2864547fa92ba06113efb144f89d81fd3e2ede76f7f",
-    "57ffb662835041f903279826f238efda435f95a0c32d8232a415f4acd76ef461",
-    "6ec6b12b3623ddc35c179393733dc26f4ae76eac759f14d71c728c497e59b6e6",
     "9de84e194ec403399741bf043eea70aedef0838911b98baeb745310123f1d689",
     "33aaa8e0636fe0ee4d70c040ee9722f49d14e6f0683484559f6a60e906b0e1d7",
     "9eb4011da338712d193d79c2ffa8d7ab4016f5f4f13d9a6cd04c4c1e4bfc6de4",
@@ -4000,14 +3995,14 @@
     "3af2de3f18568eceb57974b57a0779eedff18bb649456eb0ce538f2039109b78",
     "263c33b56969fdddf9ecedb29ef8fa2e6e997a72d46e02ae5280c59979332072",
     "4b820ce338aa06ddfda60e1b60227b1ee116982422941763f1590bc9edf71168",
-    "69d116d43609ed446a26bf783284e7c44b7cc737e112607d80dceb6a24cf6def"
+    "69d116d43609ed446a26bf783284e7c44b7cc737e112607d80dceb6a24cf6def",
+    "919782f42ef58b07e3a72fbc84256a4510135b9d9f89b1d7235b7988329a3601",
+    "167b441744bc3548a38f8a6a2d346c6740f08ffacf9e8c01a36c6c9b0642ba0d",
+    "768189ce445ccdf8876595f7289c2df1941561d05aee5970053e22d27c54b7f1",
+    "b3173da8f25105559d4423e698ae59d595b8fe1537540c3c7b93cf55c2645dbf",
+    "fac7133ad7e249dabb1dff514bbc4ae037bf43135d5b4896ad4e50e624ca80f4"
   ],
   "title_hashes": [
-    "c214389b58b0b2e3e4e4979670e28a26c5f6c4e3ba147a865dd83f4ac718f8ea",
-    "3d4f88cfe0f7ccd2e6dbb3957916636cc88d6d3ee662f4a3bbec050d7db2f454",
-    "90cda3f4b3cf4d31189a6e72b7bf179cab1a282297fed240da11bb9b9dccaba1",
-    "fd14aad912222d7d4b9e67506d1fa76f3898c7032f94f9d35eef7209cb4e96e9",
-    "d8d4e3600499438f3ae217a8126706e6a241c2835ca5cae9cb8f7aa1e4b24617",
     "a10ae315c04823f9805495e60dbcff12c5b5aeaa91321235ce0cef06b3c84986",
     "913721d133e46c8848f55cb7265c7baf7624065fd901315570b7465e54c30b5f",
     "276a880cc24f9b86e99d6c3e0f2fa0293bfcccda81a5f9bd1800d7f47577e56d",
@@ -8002,16 +7997,14 @@
     "60f788e7c2fa72c021a125297e6a341bd801a6af3787c0868f6ffe3e720f0fe6",
     "9083148e09c8f78d693c4b29af829b5aaf237c106e8d485560d2ef53f7435c01",
     "4dd07f2005dd527f4489966e3afd17f80a642ee88a84b30ea493b15755bbf5d5",
-    "6f8f14aed2be181f00675d8adf8b122299a1d362a442a0345b6839ba83dd8668"
+    "6f8f14aed2be181f00675d8adf8b122299a1d362a442a0345b6839ba83dd8668",
+    "31ca7ada7baa0f385ce324bba57b0945148adb9204b8325baf2541536347bcb4",
+    "1f7323e03c5180d1ab9ae34bd499f9bcbf30968b9f085117bea3d557361f6e44",
+    "4a2c7836b96909d623e767ab62a773192f4b7847ba88e128500ba2365877c55f",
+    "12be58d1e16f803e37794c20af380f4b26e79a34caf219a1a4e74e568627fc7e",
+    "19348b4ab5c83e8f6cbab9b2c5442aeba9db88440a4c8f435de8f9fda47be6d8"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "Europe Sentiment: NVIDIA Has \"Got This\" - FJElite",
-      "title_ko": "유럽 투자심리 \"엔비디아가 해낼 것\" — FJElite",
-      "url": "https://www.financialjuice.com/News/9857488/Europe-Sentiment-NVIDIA-Has-Got-This---FJElite.aspx?xy=rss",
-      "ts": 1794993831
-    },
     {
       "source": "FinancialJuice",
       "title_en": "ECB's Vujcic: We discussed opening the ECB's balance sheets to funds and decided against it, it may come back.",
@@ -11504,6 +11497,13 @@
       "title_ko": "Marvell 주식은 칩 제조업체가 수출 위험에 대비하여 Nvidia 수익을 평가함에 따라 초기 이익을 반전시킵니다",
       "url": "https://www.benzinga.com/markets/tech/26/11/63404046/marvell-stock-reverses-early-gains-as-chipmakers-weigh-nvidia-earnings-against-export-risks",
       "ts": 1795026612
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "[ Z ]: SITUATIONAL AWARENESS' LEOPOLD ASCHENBRENNER IS PLANNING TO REVIVE THE FUND, RAISE MONEY TO START LEVERAGED TRADING AGAIN: FT",
+      "title_ko": "[ Z ]: 상황 인식의 Leopold Aschenbrenner는 펀드를 되살리고 레버리지 거래를 다시 시작하기 위해 자금을 모금할 계획입니다: FT",
+      "url": "https://t.me/marketfeed/1080877",
+      "ts": 1795026696
     }
   ]
 }
