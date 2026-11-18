@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795027249,
+  "updated_at": 1795027421,
   "id_hashes": [
-    "407c9250f780db9bafb038f8023ff2c1fe3bc634007b05dd8efdea0de3f0c4f6",
-    "95a4fe0b77513ecd47560068ddf47d1c8f6562fee7f3165c889e49d19c695054",
-    "791784c27b384288bdba5aeb1d1c1414e552103ae88955942baa685bd7fc80b7",
-    "27966bb13b5957433d637684a782aaabc551b2fd02222f2385d3a2d2eaf9549d",
-    "c23a513bf3331db6261701f889f6fae9cb787a3eff1aed91262d71b457fdeba0",
-    "b172a40ec1ff70d03a2074b4da4336ab72b3f7848b2efba311ef0e3ed400a6f8",
-    "1372113a9ca9d9ca6a7c4ad225a832f0f97dbfce680a9d4332b2a4006097523c",
-    "8c9e309fa52e65a25b0d651df2c3c9fd0524ad1ecb6e3ae3f0868add2fea6579",
     "df20282255b6ff46d4063f6b6d0c7c851368a6431cd183d4ffa383f4b4ab73ec",
     "e118841c3c65d9cbad9fbd059b459087af9c2671a4467dffb8af840d07b16033",
     "eee85ee2f11e54adcc1f03d83d8d614f673cd5f0f008c672569b7faed75e7571",
@@ -4000,16 +3992,17 @@
     "ea0f76cdadeb15b6cf954f6eb573231c2b349de75d96af4f00e2c912e2ea7b14",
     "2741034a9ef46895a0d30e4f40146c8a1d1e7cfcbab42cd65a9de4db34a28234",
     "41e0aef284855049758fdaa8492b4993264261d3527611c0597c3c3acc7f3ae7",
-    "2b6e94b7edae640961f55bfe9203cdea08dfdf6910501a38bb91b4f273d299e3"
+    "2b6e94b7edae640961f55bfe9203cdea08dfdf6910501a38bb91b4f273d299e3",
+    "c1644e1650bdcb44d02a18a24924b980ca115e35f71d94f1553c15981c654a77",
+    "680bdc4de5498a0515ba77ab2c26ff407690e2b87b022447c83d8080539372db",
+    "9cc3b8cd56cbb2b6626fec5935d40cfb4070dd0b27aa515a87ee83434ded549b",
+    "a5c45535f4a372a899a144ff198edc7f86749f1f3b7580aa418d6cd5e8bbccb3",
+    "892fe1fe50567e6adb7079254858679e10326dc5c7d12b0197ecaa74145f8eaa",
+    "cb6fc401f2684f0c2f326f750dc8f8214a6c96c818ff8060c2eb3c36bdde3abb",
+    "38187ef9fbca3dc79c3f50dcda54a41523570b854e705b9818f1a620d8e97ae4",
+    "8c429efbb7ff350b404695d7ab4202a6612ebefe5fc49fa1f683e090685061f2"
   ],
   "title_hashes": [
-    "cfbb482b4637c6f3e500c3c24f9823ffebab4735c6d1c4b251eade6db1fe0a0f",
-    "326b92cac135975888e135f241c8a6ee75e7720d121aec401fb3248392a804e0",
-    "61f4413cf57d578a8c6de74a7576fffc28a384a482aa9ffa722556fb682dbf11",
-    "252b4b173086052ef3008ff19a89c0792372894f018be7d7a10c8a2dd87e830f",
-    "f687063baf7e7b512655bd284fc932b9adf4e5488a4931318eed573b60d532ba",
-    "6444ad9eb6d6e3079780b5f9fb11d14d15f8a061968bb6d34d1c4e817092b833",
-    "5608ca9da0b3ddd8ff3b1f69f734532b53da4219efbaa1e4c31b17ec2cb6dc84",
     "b16f8536cddf191c89b16e359d66c37a1f5cdebea007bbdd317474a87cd41d75",
     "678c4bec184c038b9e3dc31bc25110ced4bdde367c446872b63e2960753512fd",
     "9d2c9f9a0eb37bfa90f2a613fae3a29c05edb6a6442f8598ec044027f04b79ca",
@@ -8002,37 +7995,16 @@
     "bd2ad3639ed0eac5fb600a90e904daa3e9949fd691a6467d70aa9f1a4334fc97",
     "83e84adda901b2d3cc5bb63ea0d9a5c4c3b4d3f10cd4e9131950b817f539748c",
     "5b594d7dc116ab201c57b6ac00f201a61bcf525032f9b739d116c29bf5fa0055",
-    "17b721d6d23e503e9284f47324081ee92f43d25ad6fcfe53b8e7436e7da957bf"
+    "17b721d6d23e503e9284f47324081ee92f43d25ad6fcfe53b8e7436e7da957bf",
+    "e5a240c8320ea68b04a6f1f4f4e200af44b10a5c83a5ab65b978ccd2beac02c2",
+    "cd5b60d06df79f2beee79174c498d83e63c8d0504b8a743d66c6d2aa800e0a4d",
+    "078ceee68d91eca90c2f863a7fb95d00c6836837010e14410c9ed4358cfabcb4",
+    "47200c8f196102f95f1801b583c656e5c29c38a4c5da15d91329db73510b26b1",
+    "08c6afb53eee32e8308319dd9d41ee2bc7f4f2142abc3935359f1c4cf4219a6a",
+    "92aaf5eab086a49c629edd61d179c7ee64f6bd991d79d6d3c23b24d482a97471",
+    "235fdbe0cbba4938a59dc1b6172b3d40fb34d6ddfc7f33cdddd94ae836164657"
   ],
   "recent_sent_articles": [
-    {
-      "source": "CNBC",
-      "title_en": "Treasury yields hold steady as investors look ahead to Fed minutes",
-      "title_ko": "연준 의사록 공개 대기 속 미 국채 금리 보합세 유지",
-      "url": "https://www.cnbc.com/2026/11/18/treasury-yields-bonds-fed.html",
-      "ts": 1794994492
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "RUSSIA'S ROSATOM SAYS WILL CONTINUE SUPPLYING NUCLEAR FUEL TO UNITED STATES IN 2027, SUBJECT TO RESTRICTIONS, IS DISCUSSING FURTHER COOPERATION",
-      "title_ko": "러시아 로사톰, 2027년 美 핵연료 공급 지속 방침… 추가 협력 논의 중",
-      "url": "https://t.me/firstsquaw/193852",
-      "ts": 1794994495
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "NVIDIA (NVDA) PT Lowered to $220 at UBS",
-      "title_ko": "UBS, 엔비디아(NVDA) 목표주가 220달러로 하향 조정",
-      "url": "https://www.streetinsider.com/Analyst+Comments/NVIDIA+%28NVDA%29+PT+Lowered+to+%24220+at+UBS/27365910.html",
-      "ts": 1794994499
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "DB하이텍, 429억원 규모 자사주 소각…420억원 추가취득 예고",
-      "title_ko": "DB하이텍, 429억원 규모 자사주 소각…420억원 추가취득 예고",
-      "url": "https://www.yna.co.kr/view/AKR20261118174300003",
-      "ts": 1794994523
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "剂泰科技拟启动A股IPO相关工作",
@@ -11504,6 +11476,34 @@
       "title_ko": "Google은 최신 AI 세계 모델을 더욱 광범위하게 출시하고 있어",
       "url": "https://www.theverge.com/tech/1036897/google-is-rolling-out-its-latest-ai-world-model-more-widely",
       "ts": 1795027248
+    },
+    {
+      "source": "The Verge",
+      "title_en": "Newsmax is suing Fox over its “anticompetitive” Roku acquisition.",
+      "title_ko": "Newsmax는 \"반경쟁적인\" Roku 인수로 Fox를 고소",
+      "url": "https://www.theverge.com/tech/1036865/newsmax-is-suing-fox-over-its-anticompetitive-roku-acquisition",
+      "ts": 1795027284
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Exclusive | Nvidia Board Warned of ‘Irreplaceable’ Talent Loss in Employee Letter",
+      "title_ko": "독점 | 엔비디아 이사회, 직원 편지에서 '대체 불가능한' 인재 손실 경고",
+      "url": "https://www.wsj.com/business/nvidia-board-warned-of-irreplaceable-talent-loss-in-employee-letter-b9783b1e",
+      "ts": 1795027413
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Dow Drops as Nvidia Slips After Earnings, Dollar Hits 19-Month High: Stock Market Today",
+      "title_ko": "Nvidia가 실적 후 하락함에 따라 Dow는 하락하고 달러는 19개월 최고치를 기록했습니다: 오늘 주식 시장",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63404681/stock-market-today-dow-jones-nvidia-earnings-dollar-19-month-high-november-18",
+      "ts": 1795027417
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Fed's Barr says rate rises likely lie ahead for economy",
+      "title_ko": "바 연준 의장은 경제에 금리 인상이 앞당겨질 가능성이 높다고 전해",
+      "url": "https://www.reuters.com/business/feds-barr-says-rate-rises-likely-lie-ahead-economy-2026-11-18/",
+      "ts": 1795027420
     }
   ]
 }
