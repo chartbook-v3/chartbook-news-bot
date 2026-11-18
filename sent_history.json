@@ -1,34 +1,6 @@
 {
-  "updated_at": 1794960518,
+  "updated_at": 1794960693,
   "id_hashes": [
-    "c2f2856b5c0fd2a6b9f74e5f4a2bae899af9456d6ec0c161d499f4e580a860a0",
-    "e570d46b62125d60a673d57b7e53bc7bc9009a8b3212435579448d1391e7265c",
-    "ec275ff980a3df0ab8f6f7b6b089fe56bf79bfb3092a56f9e536f0d233df2d93",
-    "649b4eea1ed430ac42aad6fca2d92891c29f9d9fcd5ce4582b5b441160f8f0e5",
-    "9130ebb184b598a0eb5a1cb8483615546a379d924dbcc0872291176a02c81046",
-    "8b8e349c2cc5a43e45d76378ef14781bc86ce5d2d62bf5ed587134123af2ed61",
-    "7d3b6fe0e94bbfea4f77d15800a27ed710a702770038ba59e479984570929b45",
-    "bd63eac77f644b59cef5a63b27cf1de85b1aba3f5fbaf10b5276e7f0d79b9f31",
-    "645f0fcd7a549d87c5b4bebc57d17383ea612eddf60adef984712522dce6df1a",
-    "bb9904d463e3a8fa60402630cc1c06243af8fb85f483c052a0076df074bca558",
-    "f0dbe49b09a42fd12b25f62cefbed33e05c7c0aebd4e26deb799134a922bd4ff",
-    "d7753aa0ebfdf91d813e9a81372addf88da1d1661abab0f4002f7f8a8bd75b77",
-    "74a85b5548e018ad7783df56c6b3834f4485cfba89dc71a2aef1ee2f61bc7dc6",
-    "01d66d4a2f3737db4b587699b0c42ee8916386e72ffc3abb22bb2d9b570752ad",
-    "a9cdb10545ec90399905f37f3e51a3ef67b36a17d42eee7f959179b4e2fcc849",
-    "dffbf61a10c454ff612441c0a2ded4afaa7c5bb55eecadbbf291ef41a56e2794",
-    "8854b7fdf1219688fc603bbc41e88ed79083e76f76d04b4b1920922340058161",
-    "88fb8a056db2b8bed5f577a0bca1ddb0a5c0b5e7167d14135a143348376488f5",
-    "963d63e528c81f744ed2e538d70bf4d30e5514dd0d7a6bf563d19380823afc6a",
-    "eb50cd4824d4b672cb0fc0a8759d841a85cc1073de958d9f5a432fe47e448632",
-    "fb5eb7c3a39080f8bcfcc43f716bf72c6e18493ae3c501c8455823df88e92a5b",
-    "e8edc4ba54efa5f16e95ee345c9e34fe2ca28f0b9ccc872171b13af5274677d8",
-    "4c41a3b441719d1eb65fddff855bfa2f522c54779af65718d319276b7f020e93",
-    "083c5e88ee498adb6c53bf7c681a7f7d332449e2cca4799da63e7b4b145731ed",
-    "b48a0345494302260353063494b522ee302014e34bc85aab5e4ffbb2801c807a",
-    "92fd6ab51d20805f59200cf459a0849acd31166a05986400b39580ee6cbc941a",
-    "4063848f05d45b4b44355cc7abc5da3aa2e237b9166bfb26257e84fae9892e99",
-    "aad3c74778f50bc5581f1da2edc14c4e4a4817531944ea51a8888362b4454361",
     "f0c70e1938a946032591f6c9c0c47b01da692c47c37ea825dfd705c695f16af4",
     "732aaa2d7945822cbf79ec79f14fb16824be2b9babf98dc332b2220ff5a147b4",
     "a337abca9feb3a192b515be194fadccbed4695d5c929690fd991e0d04c9307d1",
@@ -4000,28 +3972,37 @@
     "4285a89c6a6efd7ddd9aa6ecba6f38ad03a6f871c2f4d87afe1ac015723ea2ac",
     "53bd8f4f2fe5710c1b1af02243e2ca89ff11ef5fcc50a597398bb14da75e5b9a",
     "09e90ed2a0ecec7f1cb0a321b5c7120f076f4f7c885661b126b401988869925f",
-    "003122098afb4741620f6c03a620701ccfb5997aa29e35c0710708e77ef67271"
+    "003122098afb4741620f6c03a620701ccfb5997aa29e35c0710708e77ef67271",
+    "336b3160dde1b885b021b221f46b86ee76f8303d2bcfff978e7e1f6ed20dcc6b",
+    "310125fecdcc9048b27dce17e6c2cc318707043b57a86dd191d8fadcf669e266",
+    "54fdc0efa3ea32bd22ea418e7b09ff7cd8c3af0f41b869437b053484ed74beef",
+    "7207e3a4288d10ad9e462158c2a2fd667cdedbaff303c19decb6dad72c9666f6",
+    "97a70242e13e1f29864032df7d82a5f752dabb5926273890dc653bb0e8c4a946",
+    "752194fe331e4a27f5b87f853891946bf4af3f03687c89e485d19d33ef661967",
+    "1ba3228f21002b2afdb7de55a297a57015cf28c54d44728477741308404b0471",
+    "17d024c20e72359d87e9fb900c54e0b84406891a41b9153dc6a20d9f4fee19f4",
+    "821f18edc67b240ba8e0586a71f3d7b3419058faa32a16174ea78c2817e8555e",
+    "1b448f92606c694c3b2d641f5da34d7ee413a71ef9da812d617e015240ec14a5",
+    "81dd89600f03c964c67eaf95b41f57171da4a2b2da6eead61333ab5737ab2b89",
+    "9e538a803bb1c609d66bb251ccb3fc46f1b3b77dd3963e202f411ebd4cde5bc2",
+    "fd7c332709ae84e078164b9855c7563a0221412c8c2ff09ac86b27ff7d6b50ff",
+    "06946763c030cad0fe224efb1da17f4f129ed1264687667fa2a4eda0d6731ba0",
+    "546353909e3cd88ca35f7497888fd6bdeb6f65e3d6e5bf5d32f15c56a0409f1b",
+    "d1ee7fe3845eb93ac455a40910c8840eef8a6a1f592ad8c618d187f2e566a4b0",
+    "8436c82a88237fb58e03586a10c4cc44a55181771e84545072b3622b36894d11",
+    "1996cc8ab34275309e8a659595df53050748698049a8c1a92ebc22c3c2aae6e1",
+    "1868541e61b8c48bd6da29ac2b56e64cdc20d35b68994fdc04f908c53fe0b6da",
+    "275b4b51bb0eec9394231ca5584d158128c4657655888bddffa55dc303e88710",
+    "4ad9a96cbec9df52282b96d88ad0a4041dcc243afa517d3cfcccf1ae7449d1c2",
+    "c958c640cf626b7788068036edf8486cfbcb5469fda892611522e239ef9da9f6",
+    "3c6157849aea3387922a36f4bd74b149c59fa3dd22ad30873e8507909399f86a",
+    "df66e8b1f4460cd4eb96acf7c3118880bc7a4810d4172007ebcc7791a735aa1f",
+    "aff65cd2475f703d7977eae69c07272f53de5e27b8a830cb5530e0b099b9ed04",
+    "24639de2b8d0121eac736f0f296c12775edf5ca94658d8be30415db1aa0f947a",
+    "c79be01f620a1dcb046ea250a06e646e4418381cc6b6dda9e75a7c60c064e773",
+    "5bfdff0bbb7cc48f32ebdfa7393406a96ae13dde7282dd4a096fada0c5a813b8"
   ],
   "title_hashes": [
-    "c3f770ac388dc07c48aa6d59938375bbb157c7e8623c085a58e0e912577107be",
-    "421ba4115c24a524f99864148796f1cdac97be999069b3bfc907ecab17e5f994",
-    "a071ba5d68e9dcee544d021984d07fba811a6be6d43463f6391667f4f09b6824",
-    "77fd4f6fabc40b8c5231d342f1e2024d725d0c45bea616eb42c2fdcb6c197b1f",
-    "0b94e8ca11a7084704a948956ac7105e7aa88af580c69421242f4b5fa07135d9",
-    "1b1a38ef7d7c0c53dd1e892dacc6d584fe780ea9fb0f934fffa6ee42ddf1a1d0",
-    "a53a80112e37c10cf556fc4f04177c9751c6f83d1417c2d42149baf73613c485",
-    "2178b8205bce21c28b26a84b7d8d93cec3d03df714ef0112c9a267d981a73417",
-    "ed5bcc8a47682ed0ca69f1df1f514d9d28887607877f0b51069d8d0b4d325369",
-    "7a5890f43027ee26a9e1641042226cdf54d6063ce8f6fbe9f4635c815cc44bad",
-    "fb6fa102852e81231b343ba0e1550d87c6264097b870d8e275a9813ac312dab3",
-    "89631e9fdd81fb98991369c6b28247d506743da3a81ad56e9eadb1f25150fcce",
-    "a32a755e45b358c463bb58f9a9b5cf5301b18fa5c288e314f1e9e0488420a7e0",
-    "0757204b36bdb28238a2b430b19337ccae6cdf86d7bfe91a4e870789731eebbd",
-    "229b07cd3ff15889e37bc44b64c5ff3e2ea2e97da3fb139084e932cd8cb6b02e",
-    "d57cf2b9f92754f1db27aa310106ff2b7cc3c159e6bdfc4d19feca53d2b450eb",
-    "21d6dd89c21b45481353253c55d06272694420109537dd3e0c820fb7af0b11fd",
-    "972aa015d1aa2344c20e5ecd2b275b7446f9e9bc791984d5178019b8765c02bd",
-    "f5a0cf6af169e10e028e32b85293ece2cf644c1cd17e127903e35091f522394f",
     "c1e3e46f48c97337134007b5278be3e1207816d0095c6dedaabf7a3582dd8022",
     "2a7904d2805007b8d1000535cf5572526bcfcd347bc8e09d841cd1f0e2e1e6ea",
     "42a96920a9fd515dbb47b0222fc39219ebbec8d772909c8a057a963fa17bb576",
@@ -8002,79 +7983,28 @@
     "8a5ce7b97dac4792f8e3dbf3202081caff2b06a354baf7199669dd744b55cb41",
     "0d3ae6d23e4dcb5aa52933fc7b3fecf9f8101f8310b810f90183be4fa10ad71d",
     "ed8f9c8d1b4c941584bf2962977acb3c79d596817785d6842fc28f541be7bcf5",
-    "e116cb6136dc6a8aa8c290418f4e9d2e10f7588398f56bca6894770b14ef2330"
+    "e116cb6136dc6a8aa8c290418f4e9d2e10f7588398f56bca6894770b14ef2330",
+    "a5e9405d570a1f1915a983c6f686b1cec27f34b0aeacd1f593f765ef3ad20613",
+    "68682255f5e98114cee4f718554b2df8e7d21d9843666c022d994f4fd6aa1efa",
+    "e524cb0c60abef0c44bf4b0cd3eed95874a938421738f3c27f11943ff1ed804d",
+    "9aced65d4b29f862e48cf50d040ad1a09f2bb9b449d3e577cb5e0cf0268eafee",
+    "1ed27b4cc745cd2213845992c7c7af72474e180267df2a89db66df360fc0d785",
+    "21f42d05583fa37113e4df87b522b226882c9514a4a522546b437df60423556f",
+    "05b389c3f7127c63d7151c03e3ed88c09f65989b269870396482a67e8d029bf1",
+    "1c6d74f74caa3e4a5d697602719fe7329e4777d085678d4b8961907d67011690",
+    "955a18a5fcda58b6e426dca9220fe70762a08b8832f514dff5265a120f684b4d",
+    "2eda61d98bffd230a6a743af905b9669945cef949ee9c19dbbb8b92e8b2fc762",
+    "81de00f222a93bde3cf7b720eab21d32ae91d99dba0ffd89cb7a2df7a3e3e8ba",
+    "c5123bb9f9f8ebd3f0e9ece6ff0070f8353478ade9fb4a1ee3cb043e29001c80",
+    "a14659700490091c4e7747c88a22d948fe1165b362adb6f00842e99c2b759322",
+    "0e5ced9192929eb14cff615ec130c7e6639243bfa63b3fca943c63ff4f2a4ac9",
+    "8d53048b12d976422311c5af2307c277c6f1b3c3bddebd3a7abe6c6e39faf60a",
+    "15d63185778727383ad2e072f692f4926892f6444ead7f89ce12ee94e70e79f3",
+    "9192b454bdc779d7c0eeb37dae4c8d279e9078025466800aec55df1b625889c7",
+    "3c6014a0b71876cda4fee96a3ab19e85914345a0b17ca7ddc2bd3e5c84a25ed2",
+    "7b9f4f438b2a68522c26136ac7e565ee9532014c70ccd761d1348bd7834507e6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Reuters",
-      "title_en": "Nvidia turmoil marks the end of easy money for the AI trade",
-      "title_ko": "엔비디아 혼란, AI 투자 '쉬운 돈' 시대의 종말 시사",
-      "url": "https://www.reuters.com/business/nvidia-turmoil-marks-end-easy-money-ai-trade-2026-11-17/",
-      "ts": 1794914513
-    },
-    {
-      "source": "Barron's",
-      "title_en": "JD Stock Drops After Earnings Beat. 2 Reasons Chinese Stocks Fall Out of Favor.",
-      "title_ko": "JD닷컴, 실적 호조에도 주가 하락… 중국 주식 외면받는 이유 2가지",
-      "url": "https://www.barrons.com/articles/jd-com-earnings-price-stock-c55b1348",
-      "ts": 1794914515
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "What's Going On With Mondelez International Stock Today? - Mondelez International (NASDAQ:MDLZ)",
-      "title_ko": "몬데리즈 국제(MDLZ), 주가 변동 배경은?",
-      "url": "https://www.benzinga.com/m-a/26/11/63333057/mondelezs-multi-million-portfolio-shift-unloads-french-bakery-and-cereal-bars-business",
-      "ts": 1794914664
-    },
-    {
-      "source": "한국경제",
-      "title_en": "[단독] 홍콩증시 상장 무산 후폭풍…CGV가 1200억 대신 갚는다",
-      "title_ko": "[단독] 홍콩증시 상장 무산 후폭풍…CGV가 1200억 대신 갚는다",
-      "url": "https://www.hankyung.com/article/2026111726651",
-      "ts": 1794914817
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Palatin’s New Rare-Obesity Candidate Shows Promise for Weekly Treatment (NASDAQ: PTN)",
-      "title_ko": "팔레틴, 신규 희귀 비만 치료 후보물질 주 1회 투여 가능성 확인 ($PTN)",
-      "url": "https://www.benzinga.com/content/63333167/palatin-s-new-rare-obesity-candidate-shows-promise-weekly-treatment-nasdaq-ptn",
-      "ts": 1794914820
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "NVIDIA's Jensen Huang Crisis Threatens to Rewrite the Rules of the AI Boom",
-      "title_ko": "엔비디아 젠슨 황의 위기, AI 붐 판도 바꿀까",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63333203/nvidias-jensen-huang-crisis-threatens-to-rewrite-the-rules-of-the-ai-boom",
-      "ts": 1794914823
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Nvidia’s Earnings Come at a Time of Mounting Tech Turmoil",
-      "title_ko": "엔비디아 실적, 기술주 혼란 가중 국면에서 발표",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-17/nvidia-s-earnings-come-at-a-time-of-mounting-tech-turmoil",
-      "ts": 1794914845
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "【商务部新闻发言人就中加经贸磋商成果答记者问】双方同意将初步联合安排的相关豁免措施延长2年。加方还将进一步扩大对中国钢铝产品的豁免范围。相应地，中方将根据有关法律法规，进一步调整对加方部分农水产品采取的反歧视措施。此外，...",
-      "title_ko": "중·캐나다, 무역 협",
-      "url": "https://wallstreetcn.com/livenews/3201277",
-      "ts": 1794914912
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Northern Dynasty Minerals GAAP EPS of -C$0.04",
-      "title_ko": "노던 다이너스티 미네랄스, GAAP 주당순손실(EPS) 0.04캐나다달러 기록",
-      "url": "https://seekingalpha.com/news/4673554-northern-dynasty-minerals-gaap-eps-of-c004?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794914975
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Apple Watch With Audio Intelligence AI and Amazon Bee Raise Privacy Concerns",
-      "title_ko": "오디오 인텔리전스 AI 탑재 애플워치 및 아마존 '비(Bee)', 프라이버시 우려 제기",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-17/apple-watch-with-audio-intelligence-ai-and-amazon-bee-raise-privacy-concerns",
-      "ts": 1794915062
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "Anthropic：我们已获准在纳斯达克全球精选市场上市A类普通股，股票代码为“ANT”。",
@@ -11504,6 +11434,76 @@
       "title_ko": "바레인 내무부, 공식 X 계정 통해 상황 종료(all-clear) 알림 발표",
       "url": "https://t.me/firstsquaw/193656",
       "ts": 1794960516
+    },
+    {
+      "source": "edaily.co.kr",
+      "title_en": "[속보] 李대통령, 오늘 시진핑 중국 국가주석과 정상회담",
+      "title_ko": "[속보] 李대통령, 오늘 시진핑 중국 국가주석과 정상회담",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=02168086645647032&mediaCodeNo=257",
+      "ts": 1794960539
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "res in Anthropic's IPO",
+      "title_ko": "앤트로픽, IPO 추진 재개",
+      "url": "https://www.financialjuice.com/News/9856746/res-in-Anthropics-IPO.aspx?xy=rss",
+      "ts": 1794960541
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Takaichi Speaks With Trump Ahead of High-Stakes Three-way Meet",
+      "title_ko": "다카이치, 고위급 3자 회담을 앞두고 트럼프와 대화",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/takaichi-speaks-with-trump-ahead-of-high-stakes-three-way-meet",
+      "ts": 1794960666
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Canadian Startup Myomar Molecular Brings Urine-Based Muscle Health Testing to Asia",
+      "title_ko": "캐나다 스타트업 Myomar Molecular, 소변 기반 근육 건강 테스트를 아시아에 제공",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMUR3dWxLLUtkT19iWU80Sm5QTDFBaE1NMVZRb2FzSk15aFliejZKUWIzZDhFMzFhNEpTMFVmSzJzV0tqbmZJNDNfNmc1NFFMZFBjNVFmRlBQRjVYdVFhWVBjcWc1Ykcyem5fRW9TakY1eTJmdTNLQWdPQ1RkT2tjcHZXSHk?oc=5",
+      "ts": 1794960671
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Canadian MedTech Startup MindfulGarden Brings Delirium Care's Balance-Sheet Reality to Taiwan",
+      "title_ko": "캐나다 의료기술 스타트업 MindfulGarden, Delirium Care의 대차대조표 현실을 대만에 가져옴",
+      "url": "https://www.digitimes.com/news/a20261117PR205/taiwan-hospital.html?chid=9",
+      "ts": 1794960676
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "How Xandar Kardian's Impulse Radar Is Reshaping Ambient Patient Monitoring",
+      "title_ko": "Xandar Kardian의 임펄스 레이더가 주변 환자 모니터링을 어떻게 재구성하고 있습니까?",
+      "url": "https://www.digitimes.com/news/a20261117PR203/healthcare-taiwan-wearable.html?chid=9",
+      "ts": 1794960679
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Taiwan NAMR Hosts International Marine Debris Image Recognition Competition",
+      "title_ko": "대만 NAMR, 국제 해양 쓰레기 이미지 인식 대회 개최",
+      "url": "https://www.digitimes.com/news/a20261117PR202/amazon-taiwan-partnership.html?chid=9",
+      "ts": 1794960683
+    },
+    {
+      "source": "The Information",
+      "title_en": "Texas Clears SpaceX Supercomputer Power Plant as Abbott Lifts Freeze",
+      "title_ko": "텍사스, 애보트 동결 해제로 SpaceX 슈퍼컴퓨터 발전소 정리",
+      "url": "https://www.theinformation.com/briefings/texas-clears-spacex-supercomputer-power-plant-abbott-lifts-freeze",
+      "ts": 1794960686
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Asia-Pacific equities gain traction, with Japan and South Korea leading the recovery following Nvidia's earnings",
+      "title_ko": "Nvidia의 실적에 따라 일본과 한국이 회복을 주도하면서 아시아 태평양 주식이 견인력을 얻고 있어",
+      "url": "https://t.me/firstsquaw/193657",
+      "ts": 1794960689
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "JAPAN OCTOBER TRADE DEFICIT NARROWS TO ¥476.5 BILLION, BETTER THAN ESTIMATES OF ¥1.08 TRILLION; EXPORTS GROW 20.5% Y/Y",
+      "title_ko": "일본의 10월 무역 적자는 4,765억 엔으로 줄어들어 예상치인 1조 8천억 엔보다 나아졌습니다. 수출은 Y/Y 20.5% 증가",
+      "url": "https://t.me/firstsquaw/193658",
+      "ts": 1794960692
     }
   ]
 }
