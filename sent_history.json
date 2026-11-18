@@ -1,20 +1,6 @@
 {
-  "updated_at": 1794965927,
+  "updated_at": 1794966091,
   "id_hashes": [
-    "8653ba4282a6078fe44d5817e4901a0776a0a60dbdedda49d6bc8904dc37ca11",
-    "9a7283bbbf68e013bb5f8746d132029582fbed1a1ae32b8d3451fd9f58d48cc7",
-    "3e7f020f2c0de166e6f020d4f104d9e1604e350fd79a419083dbf931e7bcf1bb",
-    "3ebbd647aa2e3ce89ca1f8dd2507a02f4315e208923114bb94f2f1416ee4d2bd",
-    "35472093833d836401b1fd4da935a4095e4f5a505c7b8417a24c3f48dae2bd81",
-    "b1f7d68d13435031fa70b5cbbbb4b29c11544f682f45ed1a6af88afd01217d75",
-    "b798aa7a49ef6ee4252750eaa2d579b38ef471da01165562a6e7ba8ed2855a3f",
-    "462a86560d7f346fe985a66fda6a0d8ecc262f7bee1affaa5768928a4867d948",
-    "31315be144bff1befefeb1d4103d94894228d5aaa6fbc47e3dcde5bd4dc96b6f",
-    "d910f9699d0c7ef17ff5e3708e9d4517828f0679a120708f9d9e0fa12a5dca9b",
-    "e2255081ddbee4cb8a66a14b093e7cea12ba19cb771f8811a2bb42053f5e6259",
-    "fe1c2d8d7988db634c6a9b3ccec3e4422875b7ad74ba27fc0db1b500b1daa777",
-    "2bec2341e42307e03a66b2b06d57b0acff8350394ecce0983ebe5b877847fae4",
-    "05309d7fbfdaf0427f78dadbad1cc4576c7f67ad6c1733db58e79e4a225796f0",
     "81e6a479720b1a8f839933d1186a11eb7c3166c377b5385d0efa7291450af5ce",
     "eace2f2a2e509f5a2fe145834fd16b2856280d08933df0a829ba825daa82c739",
     "456d317771e1ccd2375d51b78cbd9b75c6c143f781a767fd1dc58650eb63f264",
@@ -4000,17 +3986,23 @@
     "01dc8d523e441ba4db496e11d7f23ea0e64975e08e334e4144a90c3c87dce611",
     "c25d2700e8baa8334ccf14cad02c0f8d411837f7f2bdbb33d29a4929045115cb",
     "4953b92648edfd994f441145f08309138974e7659cd19d1d31ae96431a443961",
-    "cc48f4dd11619222239d01d11c51104a4a73c2c692edc839bbc7d012e60d6e73"
+    "cc48f4dd11619222239d01d11c51104a4a73c2c692edc839bbc7d012e60d6e73",
+    "b24be30c10ccfa6bc76bc18359d19e615a1ca37e227e3ec1dce7d53a57de93fc",
+    "862e2c5dcc112f5d27913fa32bc7a2a438ae31dbf50f823927e27771cc4ad3bd",
+    "f9f135407cfc9c048857ae0e482541a4990042015f8f7a2c0294d530c605cf65",
+    "1b9e9037c420ffef23c04dee5bb2a34f961dba3b9e72c3c9d2e526be48291237",
+    "3a219d2726d553a3fc3cdd5063ee792a7d1d7a686fd0aaebc78b33cd02967aee",
+    "dff08270ac44864e616c33d6b41da9c5b74521aceca708d58407c91d46cf292d",
+    "61f4e1a8c5ede42033e77b28c2dd8b713681cad641ba3096ef01db4a6083814b",
+    "af69f785fc2cbc92dd99b07d8c237e074fa8fe25fc0dc2d9a3b6681574ffd81b",
+    "6ab942e43815491006ae1be37f6b544139efc57239e863be5eeb307c042c7254",
+    "0a357d09e344e4d68d56fde5e8494368202747b59b511e19ac25db0f093d05ac",
+    "1ea4a10a7b12d166b33487f273cea735c065404cb7629f92b7d7342017ffd6c2",
+    "68ae5f8a86f9f94696411d731d6ed24d37c8eaf6d9baa36c748cd6291c2ea3db",
+    "85bc1a87bfb954384d09649eceb9b9b1b71ae1063cbf6a7d4c537c2c3ffd6bd0",
+    "5413ea05f76f20184dc4abb9a9a1e0e1062d420f1399f9b683cd4789e2a3d19c"
   ],
   "title_hashes": [
-    "048c1b21e406d5641d2c0498741f84afe762ec5e9f2435c9ced6147e64671c94",
-    "32db52601294f150a98e57f398b4cdd67a04ea478a19350e56c1580df9e24b58",
-    "135fe9392d8e3ad214f3a78f9e34c2e386e8e48a65d22ebbf695e6de561bbfd2",
-    "6c74bbe60a88abe7c9804ecd33337db70dbc69005184c9a147a2738404d858ea",
-    "5cdd10086c4dc8d258f49e2174b066de1db994f5afa70b229d2f064f55f1276a",
-    "368b3ddb0ff2123d6b9bcf369f985cd3a14b244c0945332e53cf85631a49e5ae",
-    "51c77603dbda8f021e28ff8feebecaf3c52c69a81719a8fd9e2939a51570bf2a",
-    "d79ab0a01ebad5bfd4fa8450bb8e52d08b22136ec71ff969e5838d1583e9f114",
     "66a7c368b9b7e3ee29734649605110a58c8c2bcab453a9e2c97359dab04d6ab2",
     "c735732a5df26692da6862d253d65f83b62be1853fb46828db2d09b80107ea23",
     "2aa3b31657778d87a8c119a18d51a9639b90543f8dcdd137dc017f780e569199",
@@ -8002,23 +7994,17 @@
     "6303a9a1b4977a9127fc58b03a741193f51bab3273d00b950e528a7a6def99f3",
     "23710733fe72d84f741ec616892205d94826c5da1d373c016219f1b19546e713",
     "ad88414ef5d35953ce65b75d8ff9ed4d30c3f7f9c63c3f5ed9d859e5f11d5561",
-    "4f6ac7d66ca7494f0ef78497e0ec2a155e1a8dc631a5d7100bcad854fb39a20b"
+    "4f6ac7d66ca7494f0ef78497e0ec2a155e1a8dc631a5d7100bcad854fb39a20b",
+    "b531fc06a0c0d27643d14be8f32dd9dbcfa27695b96fa21dca76684e190eab04",
+    "31da490fec3287acc26fe221447dc08265680ffdaf4447a89c1f2ecda3837c99",
+    "9b2a5c7b1e0475b5941cbe39d70cb1dd2bf6d4d165a2d009954673f87942da37",
+    "89d4b9f95d357eb8f6c366d2daeb111e0786c2a2bfb204bd9c38360a216ca08e",
+    "eceb92c9a59dc83044a6c9e005fd05443cd6b619ca6fb5c1467986f150b26708",
+    "e8b1904cd67b0c3d1708b6edeea53ae7e513c1041d13eee1645180f237f3f247",
+    "3c6e33dce2124f4da2860f0e29b8917b05a990e05f361ad843f53f7a5ca577bc",
+    "8a5c13f92a7a17ec16be5e8e72c7a07290308b2910e81b62503a982926edbdb2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "NSA: NATIONAL SECURITY AGENCY EXPERIENCED TEMPORARY DEGRADATION DURING SCHEDULED ROUTINE MAINTENANCE",
-      "title_ko": "미 국가안보국(NSA), 정기 유지보수 중 일시적 시스템 장애 발생",
-      "url": "https://t.me/WalterBloomberg/38572",
-      "ts": 1794942731
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "JUST IN: 🇪🇺 EUROPE'S LARGEST NATURAL GAS SUPPLIER 'EQUINOR' SAYS IT IS UNDER CYBERATTACK.",
-      "title_ko": "유럽 최대 천연가스 공급업체 에퀴노르, 사이버 공격 받아",
-      "url": "https://t.me/marketfeed/1079905",
-      "ts": 1794942835
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "苹果公司：部分用户无法使用iCloud网页应用（icloud.com）及iCloud邮件服务。",
@@ -11504,6 +11490,20 @@
       "title_ko": "베이징, 미국에 AI 칩 겨냥한 새로운 규제에 대한 보복 경고",
       "url": "https://t.me/firstsquaw/193696",
       "ts": 1794965925
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "원화 강세에도 금리 더 올리나…환율 안정 이후 한은 선택은",
+      "title_ko": "원화 강세에도 금리 더 올리나…환율 안정 이후 한은 선택은",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445318",
+      "ts": 1794966084
+    },
+    {
+      "source": "매일경제",
+      "title_en": "[단독] 신한은행, 한투와 카디프생명 지분 15% 매각 논의",
+      "title_ko": "[단독] 신한은행, 한투와 카디프생명 지분 15% 매각 논의",
+      "url": "https://stock.mk.co.kr/news/view/1201424",
+      "ts": 1794966090
     }
   ]
 }
