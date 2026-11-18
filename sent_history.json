@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795008151,
+  "updated_at": 1795008303,
   "id_hashes": [
-    "24997f7ad1e19a7b0f7d01b6a2a777dc75cb912be7e4558329d42eea38597a82",
-    "0766b73bd6a8474a11e714933dfd8c39819a0d91ddecb3556038ce03e6a106ea",
-    "04ddf6d39f7354db50efb7fe64f1a49c9d3eb11847eb8a746a4273003bb98d35",
-    "8ef704746732f3258ee8f442e45a1e0902a101b9fa35c53c6a3aa3fc3293f661",
-    "d45bb8ac9a82fe37ed4bae68c3a5f8eaeb6c109b33654fa6e83385038d73c730",
-    "90884bfc663673b68daf848341ed777321a2a9a19d3bd23c86e94cf3227c28e7",
     "d4d1910734845ed4932c95f1c7b624d9d86d51a9e7f93b6298c4797d7c94aea4",
     "f39598cc153d7bdb0b5dbeea0c47675dbc5b8482be731ac99dbc4ea8c7269479",
     "67afa2bf809156e33924c71c64e5905219c70b16a0e5babd51868d7c496e5830",
@@ -4000,15 +3994,15 @@
     "f572f3a04041d5c7c8c16af90475aed3b462836b1ea3684ab8f4faccc4dcb071",
     "58d7db51762a6a04761691df5b175b6870ccbd4d10ece7e371f1d8e946c24245",
     "5aacf83e04978c9f3104ad27ff8b5cf200405d1a7ef1b2a3e931104e2919ddec",
-    "1d6e93e04733ff258c12127e0ab3356efaeb90a0051b7637ce5f3a1f12892d44"
+    "1d6e93e04733ff258c12127e0ab3356efaeb90a0051b7637ce5f3a1f12892d44",
+    "7258f8c73192841a38300c60468341d6362e6eda8e520e400056f1d8be4794db",
+    "b034afac48090564365c3bdfdaedd31706217645c69aed345ef5fb9c11cbbef0",
+    "0b849b0964b9e40905f74b2e1199706254852edd3af7a811ae7723eddc3b4d06",
+    "205f9cf9ee4c5d6cc58d192b8b6ab33ab63ec314a4a0e20c420027d4c7989e34",
+    "8853ab2fab07a15206cea3ed1fe896fd1a3db62d981a5304af13f8231abac289",
+    "cfe899da4bc5ab39b4411001515bc2e9bc2bf5a8b4f0d6527bc51896a002dce9"
   ],
   "title_hashes": [
-    "ff9ba8602661db11c2d6ec5b9147e7f10a1461d04991e3c87e93c25a0407392b",
-    "3fb1f94214d3153fe3c632b8de3b8177d4df1479d0522be7b8a987c996ec0cd2",
-    "454701f148dfb457af78c8b657b53196322e640d969f30574c733d0e69261015",
-    "ddff5d042cbf0e15727b0f77c65ba1c0bd25fdcbb8ee4768efd9fd290cedd745",
-    "c201a57ffc9dedbb5d415bdf08fe0ebb1c42bb001d6ed94364dd6da870610367",
-    "adb2312f624ed653bcb68f06b7ed4e82d694bc1c7f5556423133f29397fe8906",
     "c56af4ec63b4086f73b90377a0cf630d166f8618db742e27f02262a07e916e71",
     "3c931c44fad9622772905db78656f38a847585c8b30e9b0bf3d0cd2a1b6c07af",
     "80505a5c2be3b25ca5a9d53e141b6534abc416aef6657c6d5198c0cfdfe32574",
@@ -8002,23 +7996,15 @@
     "08230f5ee7605aa883fe16dfba6f5676a6de5944718796d7cf5a9852cefa9f89",
     "4a39b5e75a02963b497516609b8e141afe95e91613d872a7ebd997a4cfbcde23",
     "0671e1148d6861c5bc3162bd4ec070dde73a6199b7200f5c33c8a27880e7b797",
-    "f594d3d2b90b4d23fc6e8af9672cb090c005b23a35b729fd1f314dad12666d36"
+    "f594d3d2b90b4d23fc6e8af9672cb090c005b23a35b729fd1f314dad12666d36",
+    "99446673936d1d15f4d59d327fd7568043df7ea5083896f97876cb92cff12e3c",
+    "5106d616685900a77083ee949e9b1d2f88e74d489df8efdb15bc5a8e35fb4e35",
+    "45594ba009bac238b81d6db70cf0cd43555d128ce9da7b89fa98f34d465b4796",
+    "c2f11166ea03e4cd6e57f9a44d2bbbce17d252b27074f4fe1a0cc8ecc4d78d0d",
+    "c62dc866a639a3da0554b4ceb1878ef6bd3b7fdbca685edcda2ccaba48a204cf",
+    "09e65fbba393aff766ed70110ff904cd2a6cb42c9ad1137140ceff3164c7fa20"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합뉴스",
-      "title_en": "엔비디아 호실적에 젠슨황 충격 완화?…'집나간 투심' 돌아올까",
-      "title_ko": "엔비디아 호실적에 젠슨황 충격 완화?…'집나간 투심' 돌아올까",
-      "url": "https://www.yna.co.kr/view/AKR20261118098100008",
-      "ts": 1794985174
-    },
-    {
-      "source": "잡포스트",
-      "title_en": "천궁-II 수출 반영 한화시스템, 4만9400원 강보합",
-      "title_ko": "천궁-II 수출 반영 한화시스템, 4만9400원 강보합",
-      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=239361",
-      "ts": 1794985256
-    },
     {
       "source": "파이낸셜뉴스",
       "title_en": "[속보] 靑 \"시진핑, 북미대화 등 한반도 긴장 완화 위한 다양한 노력 지지\"",
@@ -11504,6 +11490,20 @@
       "title_ko": "Nvidia는 Meta, OpenAI 및 CoreWeave가 Vera를 채택하고 Phy로 2028년에 CPU 수익이 두 배 이상 증가할 것으로 예상한다고 밝혀",
       "url": "https://www.benzinga.com/markets/earnings/26/11/63381943/nvidia-says-meta-openai-and-coreweave-adopt-vera-expects-cpu-revenue-to-more-than-double-in-2028-as-physical-ai-revenue-nears-25-billion",
       "ts": 1795008150
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Target's turnaround gains traction, but tariff refunds and soft spending mutes Q3 beat",
+      "title_ko": "Target의 턴어라운드가 견인력을 얻었지만 관세 환불 및 소프트 지출로 인해 3분기 실적이 둔화되었습니다",
+      "url": "https://seekingalpha.com/news/4674106-targets-turnaround-gains-traction-but-tariff-refunds-and-soft-spending-mutes-q3-beat?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795008171
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Nvidia Activism Could Bring Huang Back as CEO, Ives Says",
+      "title_ko": "Ives는 Nvidia의 행동주의가 Huang을 CEO로 다시 데려올 수 있다고 말합니다",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-18/nvidia-activism-could-bring-huang-back-as-ceo-ives-says-video",
+      "ts": 1795008302
     }
   ]
 }
