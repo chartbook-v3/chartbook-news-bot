@@ -1,28 +1,6 @@
 {
-  "updated_at": 1794982297,
+  "updated_at": 1794982458,
   "id_hashes": [
-    "7894342aec432b36fabebeb508250d452dd2085b9279172a3105495f9854c1a9",
-    "8907171cf8a6f00fd4a6f2eb5756ea715c75e5185e6f23cd206744ba97dc6f44",
-    "830eb5e346c0a33c73ec3568af779d37456ff65e7a1b68e56249ffa2467db788",
-    "131f420a25ad71682f90bed5c7951049752b85c38020ae35cce5dff90056d8bc",
-    "b4acaa0c8ba2f3d826df43c9bd9427b5fa5e6cab023300fad45a5992cd1bcb42",
-    "3bc5d1093a7fc640984cd25d189c39bb0fb01effe6194ce7055c8924f8188e4f",
-    "2dd1e1fe8ab8ad97f2c07c7e0c1dd487ec8095151ba874505d9639432577daa2",
-    "f563f25ff84b4ab8b13ad825554dc59e68cd2d02fb2fad61bd643cc4fae6b373",
-    "6baa773b524d5aaacdcd07287f8121debdbfb4693fe8bd642008bf92cc9ea75d",
-    "ef3edb92ca6fb5e86747c9dc4c5d0283bf66dfc048ee502f14b81e4f4ee641f2",
-    "193bf0471c777c7d0b8632f82ca00620d40c32fe57033e3c8f2c4523b6204100",
-    "e2b773f5fa58bff477dd94e3aa435e6c3567f59c06cf6063e36afacac2935c2b",
-    "19b47aee34aa2d73d5fed4570b059979a114e491cb0aa615f43ba19304692aa4",
-    "c3197bfc58d3aee2bf5d25cc3881c6f7a7dd8cce223e687b0f9ab94ad2e13019",
-    "cb9e5f5a40d095588b6a63d0fc277085f9443900fdfddd65153571e84e4d3362",
-    "9bcbaf147fb7018940c74ec2aa5d110b7851b3582489cf23ec874be068b0de3f",
-    "2557dadfb8577afcf17136919b99467263b7adf984f2d7a32ec02ce1307914b2",
-    "a4bed41c00a1aa93d3cda690b620b7952e9988632c852f98df740e2bc786800d",
-    "33a91fdbe9f24da5a410c33d2849396ae1311129dd051acdf7a99444cfabd96e",
-    "1ee87944e442c4f6c12a5b3d8eef78fd309c5a9e3df306af205c06e1cc95d09e",
-    "56c73ed216b6b2a06f3651dba77a15fa215a63843624f9c145dd94db0c17d7fc",
-    "bd95b80414703479640d5598322978728ec0421067d3ec5e8694dc7d347a168d",
     "b33e77669a8be8fb8837b8aff31f1bd35d04e6b7f63b69b49bee0a0b3a25bdd4",
     "6ea7a101c4566f537ff4268c8128fd363ea89ae737f07e78dbfeeee56579730e",
     "183c231aee385449fc4be32a5dba754104cae08616a143050e8e407f02d78b85",
@@ -4000,17 +3978,31 @@
     "81b02f6e1908e2daa62f1907166fdc68ff3c8bcf4f32d7e2b5e34bbf883c7254",
     "675a238153bd59e832bb75f24a69239313fb9a02a2f9318baf329e826ba52253",
     "61c00514b2b538c14effc274403e6e7235e4136574fc190b200aae4329744cbd",
-    "2f6d7ddbc86428c26d1221e8f5f297e5c0fd2a095d1fc2af07a142d4554002aa"
+    "2f6d7ddbc86428c26d1221e8f5f297e5c0fd2a095d1fc2af07a142d4554002aa",
+    "c824f3dbefe7a7b35339b868937be80fcc13ed162e69f96470678c0fd19c3aea",
+    "c52f45524666c72b5f24083248d1ed38a4656f0e21deb272bf5b2fe77b157799",
+    "75c8a0231e319b2e230accbce68c9f16f5f33edd7caa42dd4948b796a816784c",
+    "de2c300f9603f51d10a2dc9845c4d70c136c6f4acbf06c82f233fb4399215652",
+    "acfbb5bd5bdccd63e45886fb13042dd2bd499961a3d33256a75f1f88ec7f4c64",
+    "e91bebfbc2ed32e39e8e4d7584b0d3cbf0591deaefe0a2de60571e34accb0e62",
+    "77f55ed0fe6f5b5736224a4cd3509e119259866e687f1f0e23ba1a405d643c99",
+    "93caf8d9e05ba870e72f395bc2581e2f92bb8b9aa54ade811bd72c702b5dc89a",
+    "7bfff9c33c6b34976e6a9438f8865fdfec64a532c5ea6aa95929c0fee4bd1bb8",
+    "d424a77863d772b4a5c634539352b748df4edeeeda9ab2ffcf10d17838feb3d4",
+    "5dd2a52ef79e7aa7c25ea929bd76fdc69fceb9f8ee822f9b2c15fa6c924c6eca",
+    "881f3b6e5923e36fc1ad7031c93840dfdd6ba05a1271ac6d292ba830a35f73dd",
+    "6002993d1ce5f70253420cb41b83a8f5c5662b6e4f6bddbdec88f68eed127639",
+    "64f98faa2ef023ae93fc43d6b23e806792bea89d4538ff50f45ba2f319b246a7",
+    "cc6dd1937eef35bdb32eb5dc8d80b762375a0355e848c174b7da50512418ad72",
+    "a96c2b2d2a7275cfed1bf946393c0be3f23849490910b6cc185556b428c899b2",
+    "f3a04a4792214d4511635aa5d7e132644a1cac28918c3c632e7aaacb3796c326",
+    "052bb8efcf7397f0a4c250aa6777403f4ba22457268e889699cbe4df893ed9d3",
+    "9a7bcb234f32beefbc2511c09d023fcfb1cc9608ac90b507733f692651a879b5",
+    "7f2fb32b8ac9811dd20dac5072f98b6f30bed0241939113026b2a4b22ef4b61b",
+    "1f2e1e7ced6d189d6954a213442ca9a7e1fc814b8a3b041f3b73fd6f6e36b0ae",
+    "99c50c6b9816cd69fff784c91a822341cb8884ec90bfa11e6e293ae7d7444463"
   ],
   "title_hashes": [
-    "e561c670612b392a743bfdfc77fa90582ddacfa2f5362d5732b42cdd50e402b4",
-    "7f4941da7482e8a2628177032eb4be2ca4af1dbcc2cfffe50afd1f9666aa13b2",
-    "74eb78594326aded70ee8d0313262d97a3178f7b4591522115fb333cd2b02302",
-    "75701f4d6df45ec07dfca6945d896213c4c00ae2257e81238e797679b42057c6",
-    "153e04ec7185058ff8a347b630ac7f3d70cdd61b5dfcda53be9989317ca7d25a",
-    "b36a3e41eb09869cb1e1b571add9d7b73feddd58ff63fe727a0f4d8df19b7b4a",
-    "4e3e3f2ed6e6eafeb57f67ba157fa0ce62062a04f26a0882588fbe070a490c8f",
-    "9967b942d58d8a89359809b9c9cf76b8002021131408f901b0a6120221cb7de7",
     "5416fccdc9c1c33032f0bfb8ca4729ad4a737468d475398146a1260cab63401f",
     "c8fa24cf8b3d524e2b02331a52aa24905f0dc3b3d136860af4cbbb8f5b3a19d7",
     "91458d3ac913e23ef68685e8bd9e6cfa496c89e7def0facc1c6f6a37325f2ba7",
@@ -8002,51 +7994,17 @@
     "f4629cdc509c68f5b92074417cdb066c80061eb251ed7ec30c4a07b122c62a4f",
     "002d51409366382e26c117e7b900a55c467934f3a0e660da5a53c36745129cfa",
     "44fdee4016fa425aa7da3a75cc42f2c570f4eb8a40a16378eef6cd81c375769c",
-    "71ef88b80f699e410103d3a0330d88cd5eb3ddc3d1bb978c1d77629862d396ea"
+    "71ef88b80f699e410103d3a0330d88cd5eb3ddc3d1bb978c1d77629862d396ea",
+    "75c820e1cbc4688a88f964631e6eaaed541813f9dbbc8a92e12c2a8a42a3ae91",
+    "a814c819422c518ed341041750c53b95d9653ac479415d06dead1b3aed31dae3",
+    "792ea09b501c35d16755e18b4f4a521e52b0e9f70dc735426c074ba9c8a861d0",
+    "12a75c4dad8235aad6c9ecde52bbfe0fb0fd7ed3529ccd899def42e4e5fe0fe6",
+    "4213683a1e2697ec823879975b1a6d7e225590f671b7999787493ad2ce148c4a",
+    "4dd400f04744ad8cd6f2077b05ad58d9f05c6787e3a90f87142d2ed47bac3fc2",
+    "7effd3b7273e9905212ab4a953b380b55891f47828d9f33f7ac39a5cf96bf97d",
+    "47637093d49599695e432a60b3fbfe38ebb7362b761193b7e0ec19bca840e51b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "The Verge",
-      "title_en": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
-      "title_ko": "Nvidia 이사회 의장이 Jensen Huang에 관해 말한 모든 내용을 읽어보세요",
-      "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
-      "ts": 1794954889
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "\"K-콘텐츠 흥행에도 영화·방송 매출 감소…K-OTT 키워야\"",
-      "title_ko": "\"K-콘텐츠 흥행에도 영화·방송 매출 감소…K-OTT 키워야\"",
-      "url": "https://www.yna.co.kr/view/AKR20261117127700003",
-      "ts": 1794954948
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Putin Arrives in China for Trump, Xi Meeting",
-      "title_ko": "푸틴, 트럼프-시진핑 회담 위해 중국 방문",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-17/putin-arrives-in-china-for-trump-xi-meeting-video",
-      "ts": 1794954951
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "英伟达：四季度将是毛利润率的底部。",
-      "title_ko": "NVIDIA: 4분기는 매출총이익률의 바닥이 될 것입니다",
-      "url": "https://wallstreetcn.com/livenews/3201560",
-      "ts": 1794954953
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Woodward Q4 2026 Earnings Preview",
-      "title_ko": "Woodward 2026년 4분기 수익 미리 보기",
-      "url": "https://seekingalpha.com/news/4673798-woodward-q4-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794955010
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Sierra Madre Gold and Silver GAAP EPS of -$0.01, revenue of $8.58M",
-      "title_ko": "Sierra Madre 금 및 은 GAAP EPS는 -$0.01, 수익은 $8.58M입니다",
-      "url": "https://seekingalpha.com/news/4673958-sierra-madre-gold-and-silver-gaap-eps-of-0_01-revenue-of-8_58m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794955013
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "英伟达：预计四季度营收将为1300亿美元+/-3%。",
@@ -11504,6 +11462,48 @@
       "title_ko": "CATL, BYD 의장, APEC에서 전기화 및 해외 현지화 전략 수립",
       "url": "https://www.digitimes.com/news/a20261118PD230/byd-production-catl-technology-development.html",
       "ts": 1794982141
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Elon Musk Had a Facepalm Moment After Sean Duffy Defends Rejecting Free Starlink for FAA: ‘Our Airspace I",
+      "title_ko": "Elon Musk는 Sean Duffy가 FAA의 무료 Starlink를 거부한 후 얼굴을 찡그린 순간을 가졌습니다: '우리의 영공 I",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63376143/elon-musk-sean-duffy-faa-starlink",
+      "ts": 1794982316
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Asian markets trade mixed as Nvidia earnings lift Kospi and Nikkei; Hong Kong slips on US chip curbs",
+      "title_ko": "Nvidia의 실적이 Kospi와 Nikkei를 상승시키면서 아시아 시장은 혼조세를 보이고 있습니다. 홍콩, 미국 칩 규제로 미끄러져",
+      "url": "https://seekingalpha.com/news/4673998-asian-markets-trade-mixed-as-nvidia-earnings-lift-kospi-and-nikkei-hong-kong-slips-on-us-chip-curbs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794982319
+    },
+    {
+      "source": "뉴시스",
+      "title_en": "누리호 성공 다음은 '우주수송 자립'…정부·기업, 민간 발사 역량 확대 논의",
+      "title_ko": "누리호 성공 다음은 '우주수송 자립'…정부·기업, 민간 발사 역량 확대 논의",
+      "url": "https://www.newsis.com/view/NISX20261118_0003873227",
+      "ts": 1794982447
+    },
+    {
+      "source": "NextPlatform",
+      "title_en": "Nvidia Breaks Revenue And Profit Records, And Will Keep Doing It",
+      "title_ko": "Nvidia는 매출 및 이익 기록을 경신했으며 앞으로도 계속 그럴 것입니다",
+      "url": "https://www.nextplatform.com/compute/2026/11/18/nvidia-breaks-revenue-and-profit-records-and-will-keep-doing-it/5310669",
+      "ts": 1794982451
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "AI 데이터센터 늘려도 GPU 부족…'코리아-원AIDC'로 해결한다",
+      "title_ko": "AI 데이터센터 늘려도 GPU 부족…'코리아-원AIDC'로 해결한다",
+      "url": "https://zdnet.co.kr/view/?no=20261118145650",
+      "ts": 1794982454
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "中国稀土触及跌停，成交额18.50亿元。",
+      "title_ko": "중국 희토류 거래량이 18억 5천만 위안으로 일일 한도에 도달",
+      "url": "https://wallstreetcn.com/livenews/3201729",
+      "ts": 1794982457
     }
   ]
 }
