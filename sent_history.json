@@ -1,20 +1,6 @@
 {
-  "updated_at": 1794982458,
+  "updated_at": 1794982610,
   "id_hashes": [
-    "b33e77669a8be8fb8837b8aff31f1bd35d04e6b7f63b69b49bee0a0b3a25bdd4",
-    "6ea7a101c4566f537ff4268c8128fd363ea89ae737f07e78dbfeeee56579730e",
-    "183c231aee385449fc4be32a5dba754104cae08616a143050e8e407f02d78b85",
-    "49380324443862d9f250e6ce7bdfaa2391967ff90ce1a53a21a54f53063d0bdf",
-    "f3c35be8a4fd2f99c1bc0a64ec15bfba549e73e842bfd0b7c72a12812603006c",
-    "26413f30f40aea80be8f10f65b36ef79cacca15a8ce493c8b2c18d72c3c2381f",
-    "235197ad267d06c0482a7de23530b09e66974c7187cae73d66f1a5f34eadb96d",
-    "2db694ee92b3fadb1006e09eace11bca390d38505405f4c7300c4303dac5f5a2",
-    "bb7383e824e1bd42e53e6b38d22b9ca9b03338a666e9eefc2079b4aa2c4280a5",
-    "2e6451443fb4a1dc280c788e82c3674fb693abbb8e00ec4cf8f6bcc85d606c87",
-    "b02648d5e9b16f5588caa3d81c13db30eec4db435d8f5d7e250a3ae649341f7b",
-    "a8bdec963af5fefe2e33a83c26be07202cbbd11fbe4e87cfdc3f21b598a9a28e",
-    "45101d57792d43b2b25ee1a06761e399df4ce29113018390eac5e1c53b24518e",
-    "3a5b95b37c5bbe198b14a6c4655fb99d9a85dc04d788e9bda841197aecb9c9aa",
     "2ad49af3be5d79f84dd22196cfb05184119255d042b49cc17faba9cbb59bac7e",
     "64478186b24b0bdee1d7ed29f7c71dc914a7c8e0fb6c067d752d22a883f7e107",
     "28aff7a0bd8c8bac3e132a3e3b7182de15ab9ae01b3231f81a8c8bbea218b803",
@@ -4000,22 +3986,23 @@
     "9a7bcb234f32beefbc2511c09d023fcfb1cc9608ac90b507733f692651a879b5",
     "7f2fb32b8ac9811dd20dac5072f98b6f30bed0241939113026b2a4b22ef4b61b",
     "1f2e1e7ced6d189d6954a213442ca9a7e1fc814b8a3b041f3b73fd6f6e36b0ae",
-    "99c50c6b9816cd69fff784c91a822341cb8884ec90bfa11e6e293ae7d7444463"
+    "99c50c6b9816cd69fff784c91a822341cb8884ec90bfa11e6e293ae7d7444463",
+    "563d1fb4b52e6374792977009b97450dd9bcf2d5cbe046f363ae8355c00ad86d",
+    "72a55698ca688f82ec105949e580f47325fb824ffa3fc70608235125d65668d2",
+    "d7fae060f6b34debdbf34dc0f38783f6d43e49beb4ed6ad3b340486d570cda8e",
+    "5ed90b3ed253d3d675b1585f623f8f0483496fe20e82a8247b3d1fbe0ee10421",
+    "d3d7986317ad54424d5e73678f257f3d07370f8a31a01ca7c0ce97159e71f07c",
+    "2ebf08c62278f878e9503b4ed202c605fb551be87172e211cadda6c9b05c65d4",
+    "6d04556598df4a32ad3c269d33ead7944dbdcd2af6576592a578f3e86adee2b9",
+    "2defcecccfd1a4dd566dc59cc3ef9739f2bacf8778c6eebefc7cf0d1f436aa2e",
+    "ebfbc07c045f0f1b635209ad786e8bc6ea949df67d239a8f042090342364926f",
+    "ee20a1748441546115a8ce5781423c819ce972620cbcc6ee8adb5e2255d2b1a3",
+    "ec49c9c45370fedd2e552e03e258aa63ae646b2f987d502b44930254a8d3a4ff",
+    "ba530888b4e194639548bdf181cd66d3474c48a42efc082013626c9c5e21a992",
+    "606106ea39ff210083b6fd49a43c4b8347f0b9f85335044a44fd1dafd48315eb",
+    "e733727e01928ca67b19fcb1d5209dfc37827fc4c5b81d032c99e6d9f7163348"
   ],
   "title_hashes": [
-    "5416fccdc9c1c33032f0bfb8ca4729ad4a737468d475398146a1260cab63401f",
-    "c8fa24cf8b3d524e2b02331a52aa24905f0dc3b3d136860af4cbbb8f5b3a19d7",
-    "91458d3ac913e23ef68685e8bd9e6cfa496c89e7def0facc1c6f6a37325f2ba7",
-    "492a93279e88968e26691491a8a652e43e76fdb99ffe15ed19455e9b66b06211",
-    "f01d49865368fba1539f3d8fe1980e718c1ac22149c51819d5f3cda6817aa41a",
-    "223fca735b7552e916eae4155742b867bdc37f140946b35ad6a2d2a4f9ecdc4b",
-    "bc1ca28fe3a9a2a6e901004f4843af870513a3f3a16436b6d6384d8ee2d9a12f",
-    "5f4c7f6c4d057bda629cc41b3b029d795e000afc33abad02883eb2cdbdaad423",
-    "802187160e1797e6d57b7cb3915ab5d598d1e1b05073f48a98df16740d7c0522",
-    "8176cce701b081f552d48e5c361a76c849280003eebc999f9d20974c6d117a14",
-    "1fd24c94b795209932f81c5dce79bf9a9aa857f96156b76f31dd2de0bec51788",
-    "424898e615d6f11ffc4b27b4a0b210806f6133d5693848eb5b87f6e944b9c74a",
-    "6e80f731f80d9812b4f446a89286d20143cc207ed7881ce8eba59913c24d16b0",
     "1c21e97cdd7443c35df6358caaee17cc5e91a92bd59679f51b773b2175f1773c",
     "592f42789c9c17f5c70c029339545cc144667ae8c54e71e074dd1aedb4d725cf",
     "d2bfc5c6db1bec575f91a8ab8752c634232c3d18cc28da6fe7e357fbb57fff3f",
@@ -8002,23 +7989,22 @@
     "4213683a1e2697ec823879975b1a6d7e225590f671b7999787493ad2ce148c4a",
     "4dd400f04744ad8cd6f2077b05ad58d9f05c6787e3a90f87142d2ed47bac3fc2",
     "7effd3b7273e9905212ab4a953b380b55891f47828d9f33f7ac39a5cf96bf97d",
-    "47637093d49599695e432a60b3fbfe38ebb7362b761193b7e0ec19bca840e51b"
+    "47637093d49599695e432a60b3fbfe38ebb7362b761193b7e0ec19bca840e51b",
+    "e964b4c931b9f74d9a1a54fc3de79879627751f3ccd00591aa9fb2fbf7443d50",
+    "e239df752d9d9a2c10507c426cfe0f8b91fb73ad6b5877fba9c280a00dcfeb67",
+    "0e6fd6b7830f8d031acce2797151d5fd93166952ed65e959c347e0ab705f2e37",
+    "e0ae8d44a1d7b0d8303987552eee7653183550c6036171a42c15ffc4cdb7b954",
+    "74f7a648e7593822ea7d465fddb0c406f3c79bf4856e8000ac4cd74ee61fde0f",
+    "d4bf448b578d5f966219a103be79f66ed91c58fc333a6735d35d3848deb735c1",
+    "4671846bcf0962b00fc6974af1440226b1f608f584e49fe52f2425f7ec1b31aa",
+    "090e5246a162ba402cd0b7e35682dc65c3260df919ce2298c3a779af16b1211a",
+    "ac5e1d9218664388960056d74afcb8e3444eed743024436d95cd289e53a91af7",
+    "91750cfeedd1199f66622b78803570b80394b98f20bf18494edb058c67b6dce8",
+    "7423c176cb8f337a9e243f8e24f4e8ccf7db5054e6c78dbb64a6ab2ddcb870f7",
+    "5416fccdc9c1c33032f0bfb8ca4729ad4a737468d475398146a1260cab63401f",
+    "55471266290649d005fa31f31955aa2aa2d8e2aa49fa1f4b9b87d72532c4c960"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "英伟达：预计四季度营收将为1300亿美元+/-3%。",
-      "title_ko": "엔비디아: 4분기 매출은 1,300억 달러 +/-3%가 될 것으로 예상됩니다",
-      "url": "https://wallstreetcn.com/livenews/3201561",
-      "ts": 1794955109
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Gold seen grinding higher to $4,650/oz by year-end 2027 on central bank buying - Goldman",
-      "title_ko": "금 가격은 중앙은행 매입으로 인해 2027년 말까지 온스당 4,650달러까지 상승할 것으로 보입니다 - Goldman",
-      "url": "https://seekingalpha.com/news/4673937-gold-seen-grinding-higher-to-4650oz-by-year-end-2027-on-central-bank-buying---goldman?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794955167
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "英伟达：英伟达将严格审视其提供融资支持的企业。",
@@ -11504,6 +11490,20 @@
       "title_ko": "중국 희토류 거래량이 18억 5천만 위안으로 일일 한도에 도달",
       "url": "https://wallstreetcn.com/livenews/3201729",
       "ts": 1794982457
+    },
+    {
+      "source": "BreakingMarketNews",
+      "title_en": "NEW ZEALAND ANNUAL TRADE BAL. ACTUAL -6.18B (FORECAST -, PREVIOUS -5.61B) $MACRO",
+      "title_ko": "뉴질랜드 연간 무역 균형. 실제 -618억(예측 -, 이전 -561억) $MACRO",
+      "url": "https://t.me/breakingmarketnews/178583",
+      "ts": 1794982541
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Lowe's Gears Up For Q3 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts",
+      "title_ko": "Lowe는 3분기 인쇄 준비에 박차를 가하고 있습니다. 월스트리트의 가장 정확한 분석가들의 최근 예측 변화는 다음과 같습니다",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/63376155/lowes-gears-up-for-q3-print-here-are-the-recent-forecast-changes-from-wall-streets-most-accurate-analysts-2",
+      "ts": 1794982609
     }
   ]
 }
