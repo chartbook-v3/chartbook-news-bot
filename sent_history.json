@@ -1,25 +1,6 @@
 {
-  "updated_at": 1794972755,
+  "updated_at": 1794972913,
   "id_hashes": [
-    "30822dc2743e13be011db5661f54c798d6ef4a16a3e28e011b58d737e9a47108",
-    "f2efcb99d4015463d5b73189a2fb420bb09f4d764b54e91f11020d024701545e",
-    "a667b6555b1df3264fa71b2d57c0044bc56c50bbdc04b61870073a8b2790681e",
-    "23fa753e1f42acdb895502ce2ab69c7df8cb8d76a3cf54b5bb7a147224c1a2a2",
-    "8fc6715e50094032b7c9d6c95ab517686f0bd20516a9fb859f4841fce2355b64",
-    "eca9e66e302a7122e2c45766e4e662d7ff21aa1c81d1369c3617e1a6e91059cc",
-    "7d2e2998c8588838faeebfbf46a7cb1aa18ba0a86f24a4a6a88f37c78d1b8b30",
-    "e564447e5d7f65b9b1e11ae4f8ceec1b1b9f34ed2a67cbd42749b35c15251164",
-    "1c3bedf04e1ad11053be0df16c5eca81f1a9042e5801fd64ed6c407f38228574",
-    "f7714cb4ea47929993ed6da1c4e529f0868c3c6bf60c3b8902914740c32eddf4",
-    "fef23323b7ab9325834daefc0518d0381a222243de0659cb33f88bd93c1777db",
-    "210739e15f1444887c953ed8097243ef5b5ccd1aab440d1f2ae9ae3dda8fd5b5",
-    "a36e79fc220c41962e7d0db3794fb35953c47ddcc458f6e55708a66dd6150206",
-    "00f64a5a617dca14a3c575651f4270b71c1289c1185d80681c739e3aadb4e085",
-    "6e9752eaba777b8a20f600b7e1004b392554c3e15c326cee7f69fa41947840f2",
-    "7916b9eeabc0ff5d04ef67987e72a9e45a0f08e800eeed822e0799e01143515b",
-    "b2c041e8b7ae8feed7278481a9febeea24813a61576de5d1ab6e38d1190b2c14",
-    "31d829f40f16bc1501628182fab2a9802360ec6bc8ca59acd3a84cebf1b7fffa",
-    "abe1204ab4a6a2baaef4a49b1c6a2223e8a864a3d14c8958bff4910038b8db0b",
     "e821389297a99357e58c64d72d453e4862a65ee8b437b1c2f13d2bc284085fd5",
     "29e030cb1ddfef70ec944e4cd89d21157ca4f2d714293fdc19cad26427907d5f",
     "96a42cd5de302a8b15c098f7e29875cec0540e1fafb24b114c38881b1d6aefe6",
@@ -4000,17 +3981,28 @@
     "d86071ba094da17b6bb260f26bb3fd034d6f8b2a4959458c165c45262d734316",
     "9472f4b9c0212a303ba57e6b6859f79b2cdb8657a4899632f8e2f6eb92e44521",
     "43d11e38e722f55e7b8f551e2cbe87a5d2d1a0fe7724cb3a5774411bcd832c01",
-    "f9675ecb38b2d7758ff344e1423bf8313be1d8910f4df69eb3d5ebb3e7516d00"
+    "f9675ecb38b2d7758ff344e1423bf8313be1d8910f4df69eb3d5ebb3e7516d00",
+    "c1f175d50b6ed2e56215ce1de594d358def00c1534cfee70430bc7e78d10e506",
+    "a85385f0114dd887980860aa3ffb7e28075e71e9ee4160390bfff8159a1b7ce4",
+    "bbfeafac6bf351db4b2847454795b3fceafa52ca5f30e02db89bbb5b2aa7d31b",
+    "2b1a4a8cbf0a93ab0d52b1aeaa0d705a25f43220001b0c5c28c5138d7506eedd",
+    "6161c1f8fded637dccf06e3febaf6937765260fb992df3e9dae17cc00955abbc",
+    "bba8ad9359fd6e127e4ec1c5efbf49c594692fbfc5f624600ec347eeac752f18",
+    "58ae6dc7108c1b9ed27ad8182f8a5b218e40b1dfd6f7dee03d6e95e4c62b3785",
+    "6a8bfa18c6da0adbf580ba244c0e9a851ba4e8fb596bd6dee9cdfb9903b926e5",
+    "70ad1159bf7c23ffa04f61358194b9913489d65a3148bbf4fc3e80ad310a4a98",
+    "67165819d05d435f52501020cbbf31c2a2a9e59295baf02d12f600277349fe68",
+    "4426b2ed481d352860375f352873d2fe3a1bb25bd15eeb2153635644b74d8b59",
+    "f1369b44790caf811f0a87cc4b7b914062476a908f04aa3c28cf21c0ceccad47",
+    "fc6f777cfe7f83a82890bc9683d205c4fa5c682c022c67ec1ecaf81e037ab98c",
+    "c174a61c5c63a31689a289d7c2defb716509a746dd54a6acfbd1ff30694bef6d",
+    "72ad33f184547b5478d80acf4a76f4e82a2dc83a7e92e0ab6dc2987e6511a644",
+    "514f6bb7dca298b1152ee95f9f9adeecc1188d41c244a67ef7954336796505cf",
+    "c8012ef6ecfa4a3de62d50f621df0019103aca6243c24458eddb07b772198f1d",
+    "bb9d184dab33304fad413c084679b5a536020d1b0875d9d994ea92b38ff16191",
+    "7f633ef5161814c9a31bffb0a5bc625438e0ded560390b47f036594314ed726f"
   ],
   "title_hashes": [
-    "a3971a2d2e580da092478b364aa0132d9a3aaa7cde80b6de6cadcb96c80cefd5",
-    "a6045f33c7d9d1084ffe98b46413fec6bf9b4d3a2d23a7c04201f324d1a07dbb",
-    "c52e461f6af99c1784d2de28e597ca99e3e13b6fa8a02f5fa956e93203ca4252",
-    "ff9465b6ea5cf57acb78e90c1342fbf4dedd9c405b5a4531ab66c90fac3c452f",
-    "cc7c1b3d403cecc1b478d495b50c2b09fb1276477cf79f60b89147fef8f114ad",
-    "0421cf9a9be02941b7bfaa4f31ec81ba37013a543932622ef6d62a70089b4e29",
-    "e1f6a92415a74c6c6d2ad753c77ce9af589198b14ec243d0ab3c0317c90a3d4f",
-    "85e291e634e6edf2368bd34bcc870cfa725ae93a1c85bee182cafc88e78a8d64",
     "79051d9ad4b540662308c43f90d38c312d3b3a07bad371a680f4318aaf302fdf",
     "e5c471a4581756c6aafb9612b372b7ea49f6b3eb92596328851a7a93e779a2fd",
     "b4f8e4ec99c495a2f5ad341ef44db326dddd63ef8a326c94c3e9535dfcb229a1",
@@ -8002,37 +7994,17 @@
     "5af2a9c8b13efdd6fafc63cf48fed5991d8010c0b38d872c02ede93337a6189a",
     "3a2902a12b7054154a5821fa800721624d8a93b94a28ed6d5e08157be500bd5e",
     "599cba1dfda5786fb565e911764ca3ff16c87f3821773c8f8b8cd418a18b492f",
-    "398c68b282e350d776dd89f710003e347cefa9981017c97331e65acb8b4e5e24"
+    "398c68b282e350d776dd89f710003e347cefa9981017c97331e65acb8b4e5e24",
+    "386ee7e2813ada8c920d5e5c9672fb21b904887492d30fa1e03504ef6340df1a",
+    "6abde5cc8ccf046744b0b58f68340ad0a7371845da90a0a01384c8999a87c0b1",
+    "b8a44abcbfaca7e615506c8aaeab51128192ecb6f4bddd829463610ff1be31c0",
+    "f9fb2d366c4001e33a664c2b85a1e788d55d0dad73e2da0fb53e0e13ec7918a0",
+    "4fbba0e10361a4f80398569e2598700a3cf8affb9e2518d786c0b2f03e7004b9",
+    "6c3f0ced96981dd3dd2c1f8472f0c9ff5971136d929eeb29e1264b54bd1c4cea",
+    "563ae06421dee7aa24fcde221fbbc99ec0a449b65b4493b1bf60f857fecb5d02",
+    "8d77543f5d054e634c5e6334413b72e815e8b81c676593d77afae57d1f1c56fe"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Yahoo",
-      "title_en": "EXCLUSIVE: Google Co-Founder Sergey Brin and Ex-Wife Nicole Shanahan List Malibu Home For $33 Million",
-      "title_ko": "[단독] 구글 공동창업자 세르게이 브린과 전 부인 니콜 샤나한, 말리부 주택 3300만달러에 상장",
-      "url": "https://www.yahoo.com/lifestyle/articles/exclusive-google-co-founder-sergey-203746772.html",
-      "ts": 1794949128
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "[ Z ]: THE SEC IS PROBING NVIDIA FOLLOWING CEO DEPARTURE, NATURE OF INVESTIGATION NOT KNOWN: WSJ",
-      "title_ko": "[ Z ]: SEC는 CEO가 떠난 후 NVIDIA를 조사하고 있습니다. 조사 성격은 알려지지 않았습니다: WSJ",
-      "url": "https://t.me/marketfeed/1079987",
-      "ts": 1794949137
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "报道：黄仁勋离职之际，美国证券交易委员会（SEC）正调查其公司英伟达。",
-      "title_ko": "보고서: Jensen Huang의 퇴임은 미국 증권거래위원회(SEC)가 그의 회사 Nvidia를 조사하는 가운데 이루어졌습니다",
-      "url": "https://wallstreetcn.com/livenews/3201508",
-      "ts": 1794949163
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Nvidia (NVDA) Earnings: Live Results; Jensen Huang Affair Fallout",
-      "title_ko": "엔비디아(NVDA) 수익: 실시간 결과; Jensen Huang 사건 낙진",
-      "url": "https://www.bloomberg.com/news/live-blog/2026-11-17/nvidia-third-quarter-earnings-live-updates",
-      "ts": 1794949226
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "美股费城半导体指数跌1.1%，英伟达初步收跌0.7%，存储芯片指数跌1.4%，半导体设备指数跌1.3%，科技股七巨头指数跌1.3%、超大市值科技股指数跌1.5%，AI赢家指数跌1.1%、AI软件先驱指数跌4.4%——成分...",
@@ -11504,6 +11476,34 @@
       "title_ko": "APEC CEO 정상회담에서: 러시아의 핵심 파트너인 APEC, '우리는 협력 확대할 준비가 돼 있다'",
       "url": "https://www.financialjuice.com/News/9857045/At-APEC-CEO-summit-APEC-a-key-partner-for-Russia-says-we-are-ready-to-expand-cooperation.aspx?xy=rss",
       "ts": 1794972754
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Sociedad Quimica y Minera de Chile GAAP EPS of $1.91 misses by $0.10, revenue of $2.11B misses by $80M",
+      "title_ko": "Sociedad Quimica y Minera de Chile GAAP EPS 1.91달러는 0.10달러 손실, 매출 21억 1천만 달러는 8천만 달러 손실",
+      "url": "https://seekingalpha.com/news/4673981-sociedad-quimica-y-minera-de-chile-gaap-eps-of-1_91-misses-by-0_10-revenue-of-2_11b-misses-by?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794972782
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "PUTIN REAFFIRMS RUSSIA'S COMMITMENT TO EXPANDING COOPERATION WITH APEC, DESCRIBING THE BLOC AS AN IMPORTANT PARTNER.",
+      "title_ko": "푸틴 대통령은 APEC을 중요한 파트너로 묘사하면서 APEC과의 협력 확대에 대한 러시아의 의지를 재확인",
+      "url": "https://t.me/marketfeed/1080288",
+      "ts": 1794972785
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "5E Advanced Materials GAAP EPS of -$0.32 misses by $0.08",
+      "title_ko": "5E Advanced Materials GAAP EPS -$0.32는 $0.08만큼 누락되었습니다",
+      "url": "https://seekingalpha.com/news/4673982-5e-advanced-materials-gaap-eps-of--032-misses-by-008?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794972846
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "At APEC CEO summit: Russia broadening eastern logistics to enhance cooperation with APEC",
+      "title_ko": "APEC CEO 정상회담에서: 러시아는 APEC과의 협력 강화를 위해 동부 물류 확대",
+      "url": "https://www.financialjuice.com/News/9857047/At-APEC-CEO-summit-Russia-broadening-eastern-logistics-to-enhance-cooperation-with-APEC.aspx?xy=rss",
+      "ts": 1794972911
     }
   ]
 }
