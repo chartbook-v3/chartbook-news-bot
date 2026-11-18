@@ -1,28 +1,6 @@
 {
-  "updated_at": 1794972598,
+  "updated_at": 1794972755,
   "id_hashes": [
-    "8a0112a535eedc5a410e012d47b3591a5ccb9e5417f6bc9250e680d8e719abcf",
-    "e26c10b36feb15e2f8c8ed5a372909fddf7e4c99c7b49a97b78202b018f0fa2e",
-    "38378bab68329f464a24198e49c468fcb1f759fe14483d342e11b569567e1c66",
-    "efdff2b4012aedd85da5effc02341663f5ae2f3abf227ac86e9166011ba4dd0e",
-    "af641e7c079551d06b079c70c76a5788e9c42b66dd07c95875a865c5b68503da",
-    "f81c159b9365cb6fa1a2d60ddf0d2ebb824c7ed5f2179b77fe5d0971ead5bf1f",
-    "500bcf692cdfc6f0c71de66043537a83106afd52cd7e87ebf1241c2010a2dafb",
-    "2213a4c3fc1ff9b44874920aa3fd4fe4dcb8c760bca7ec2b457df7aca45a7858",
-    "a92a6b735f2b7d8beb70c7420ea8c56498a72f9cf34f9361747c827cfa5402a0",
-    "8eb82a52cc77b1966c022c0131a2b85401b760402ce3d88f2867797deed8aa37",
-    "13a2dca8253189beeb255095a257e01286ae0c72e4c3ac0ea427968fd1d0ec84",
-    "042ec4e5999f072b16dfcf3ba91347f9fbc1132c716914cabb90004babf2c408",
-    "f61a778e947992f5df27f2fe90cde51724557dd5e208d07c7f6da2a9cef97e95",
-    "fd273a67a453ecf6a7fd186f07c678147f9a55c6f6fbd104b2881735eb682731",
-    "ada92fc341b1e426bd355858ea57f3d9833bd981fdfe0d091213b5b539f3a040",
-    "473bbd2c88d4db5c93e8641165611709ded5eed818ac229e92e3fe7751b9b3aa",
-    "57d2150e59b9e9df3da8b5797a0bf43394d6989c4d943a9880776514d681ad8a",
-    "7bfbb56ac94dab507e6f714413c37ed54d36fbdbd5d494346bc0f5708b861ef9",
-    "7d9d05564c6ddb7b150f948822d232b6e54bdcb4a0a6435677a96d59b807b7b4",
-    "b69d88b395f41d0784cdc8de0b9579495d9b366c26b11d96ecdcda8b950ccdb7",
-    "f54efc97554a5516980d3a804f9b0b8feb8c9e2be0f15fd069cd1f54ebe9b7fe",
-    "d7178097caee1ffc663ed51f053464617309ba402a92fe688e4fb865f91e3fc6",
     "30822dc2743e13be011db5661f54c798d6ef4a16a3e28e011b58d737e9a47108",
     "f2efcb99d4015463d5b73189a2fb420bb09f4d764b54e91f11020d024701545e",
     "a667b6555b1df3264fa71b2d57c0044bc56c50bbdc04b61870073a8b2790681e",
@@ -4000,24 +3978,31 @@
     "d73da3f1ee50acc47c2efbe6f25de2617bbde51818e7a8647f6f1dd1419e4141",
     "fd1923bee68a7b9abc3f97295a56cbb14421f0b31bd8225edc328c1408248977",
     "bc9d29ba5fff043bd121fa3cb77888e68546f6045f176a9feba84e5b2a32f097",
-    "b238cb83ae3a7a9d12c15e97083a9937975da258ebec1c35b12199dfbf7fdff9"
+    "b238cb83ae3a7a9d12c15e97083a9937975da258ebec1c35b12199dfbf7fdff9",
+    "5fd2b72459a7fab8a033182e72788536070c7ec556a9df7229dbdbfbee441ddb",
+    "a198b0fed28c7559578cc77e6bf4fcc3b70bd5893fde1a242fe822fbcc07ca76",
+    "ca7d54036dcef214a52a67da70a99e98db7e6821681640121fca0f394e36a7b9",
+    "b843cdfa13f30ab7b62062cc3d2c7dccda4d586cdcd608bf587394c4df43d860",
+    "cdbf48a9eb1385057e3c3e203d78df7b1f4856b0a602e626c6d940ff2a6ca277",
+    "2030199d6ddc8fc55d316b8cc2259e7fe9da410df3f64e1521610e4582cd5739",
+    "e94fe7dbabd0d14376223fc63ea00949dc0086dd614fe6e90fdc61a6e6d90e8d",
+    "2912a465c4b2b13d088182ec568a02b45e718979b48acabd791742abc9a0b171",
+    "f6c12117dc206db2b0c3dc48d874ae60ac500ccdf532eac641ca4a26fecc1c1d",
+    "62f77fa3f8a1412fc4dcc0b330fd04b59e8aab3098cd0017b8a98a3d160700c1",
+    "556e159c0949601c5e53cf432ac320184d4a5a689a25319f91a0a20a19779c64",
+    "be11d55f2521f4739ba852f17d8833d3efdb6a194aa3283869f309c04f05425b",
+    "a5758ddd94e817f8f73a5fa4f35589842a0ce93cd92f5fdfc28030ff277bb8fa",
+    "2168acea5b0503ebb43ee7e8a36b1e72a78d1e81ef7da5bc78d8b8ccd0c19450",
+    "01a5bc3038e588a7d26d2255920a3b16454ebd97244dcb32d64ec6736f17e8d2",
+    "d29c0e9aa06c74315494ea8678064ebc4c926b4eaf1733c725ad8fc4e464af82",
+    "1cdbe7a6eccc13c8a381d571b02e81b2a2e5e2e168a0d76f4bd0af9c8f197ac2",
+    "6898c2c6d1d7251da59f26bcd5d22a2e48bf02b63cd09afa5e7139340304f1e0",
+    "d86071ba094da17b6bb260f26bb3fd034d6f8b2a4959458c165c45262d734316",
+    "9472f4b9c0212a303ba57e6b6859f79b2cdb8657a4899632f8e2f6eb92e44521",
+    "43d11e38e722f55e7b8f551e2cbe87a5d2d1a0fe7724cb3a5774411bcd832c01",
+    "f9675ecb38b2d7758ff344e1423bf8313be1d8910f4df69eb3d5ebb3e7516d00"
   ],
   "title_hashes": [
-    "bb0c0798de88ce20f5215a7be9d0dce83b7f0b08ad3d79b18a44c344333177bb",
-    "6d6ee05c76b371c63dd7bfd0047d0b485be4ec6bd91bde933b66f43d6ea35183",
-    "e0143f5751064d48ee0c47d7ba4d93d8728c6b6aeebe5f997e10ef64fd673f41",
-    "0a2fcc92dd71c64de1fc426b20edcde6ac1746a4a547130bae563ee5896cea42",
-    "51517caf68b33757f39c6d96c818d5af6f2cd6be8d047d7c0e175d183fe761bc",
-    "d26b332b4e7e1213a1abc3fa9c3cde8c32992b67b979c688ef200facdeb682b0",
-    "5714562217f6612d92ba695ff6d5adc8c81c7f02172895c1ed43ddb0d301c6c1",
-    "7344958103805b4a36f8321ad37c1dd2761856c77359eff3dfbee4c9abd1ee60",
-    "c49cdb9847543c5ad7fe486f754655d6bde1b7670ffdeafcc0ec748803e9533b",
-    "3baaa190b2ce6ba4da630c0a66c89d266b9a2aa3b573453c3630d17d929ea678",
-    "0cff63cb646082b59ace8f8d8a29383cc792850111441e1700fd8d8f6e6f2693",
-    "cfc4f7f1451d3076698314e068efccea6b758d4aa7a3d8d4de15cf63ee38b921",
-    "5f364d395e589254d3071911cb36991314c4ee90b49d40252c37069296fc9e26",
-    "2a11bf9e3a72bd8ef140f793ef94587070df228ee3b0156e6720dc1e1791f997",
-    "4fa80e50565fdf8fbd626d9e5a0242b6daf6b25b2fc0307fdcf494a268466ce6",
     "a3971a2d2e580da092478b364aa0132d9a3aaa7cde80b6de6cadcb96c80cefd5",
     "a6045f33c7d9d1084ffe98b46413fec6bf9b4d3a2d23a7c04201f324d1a07dbb",
     "c52e461f6af99c1784d2de28e597ca99e3e13b6fa8a02f5fa956e93203ca4252",
@@ -8002,44 +7987,24 @@
     "3b121d649f54537618b865140334a301986924da8fda1bba63dbb29901f5b919",
     "86ef4a8a04827a7bf084146865e8f243a941760237c4a461029a6d4dd610ef39",
     "f16f6bdce2251e5cd6d2adb44844c47cfb75f8c932e96f899abc9b54948ef0f5",
-    "a507caecdaca96369f29ab937aedb2c18efb42be11603868e23a8804bcdf76cb"
+    "a507caecdaca96369f29ab937aedb2c18efb42be11603868e23a8804bcdf76cb",
+    "034660286a75861c48f1d0d06bee8fefb4dcacf5f9d0c267b18d1d8ad99b79ff",
+    "5fb750eea94e40c0f718214633e3d69a22dacbc4dcfc26ca40048b0e0dc57272",
+    "692d9cfe65411f299ad2ad98a80e20c698a19765b28b088ef30f24dbd12c456d",
+    "57193cefc2901fe72a8f7e4b8ced263707f5348fb0d8e783145d5010d0ace630",
+    "4bcac2ab5c117a5ca4cb8e5275b10703073857f62b73261867fe4a63a62c2123",
+    "25bb5e0f18ee4d85c8161ea80c0f11e26f4edaeee0d67a6d2af3b741263d4f95",
+    "88000d6bd0c03d6a471cbe1151d7815a4a00a852978c76ae9e8bbed57f583fb3",
+    "76a5303927f4eacfdc3bd845d745846d461272a3f6500decdd251ee686e437d4",
+    "7aba3537effec8de0b25aee91aa5406972822c0e9244fa5ebd7bcbbfa6409d7d",
+    "267b30893021ee7213cd0ce51a1830ac223e92c44648e67747562ef0f3fb87a2",
+    "b90d13d4a9865c52d7ed1b608557aee39afd8a54b34e12f961d403d294e2f1e8",
+    "5af2a9c8b13efdd6fafc63cf48fed5991d8010c0b38d872c02ede93337a6189a",
+    "3a2902a12b7054154a5821fa800721624d8a93b94a28ed6d5e08157be500bd5e",
+    "599cba1dfda5786fb565e911764ca3ff16c87f3821773c8f8b8cd418a18b492f",
+    "398c68b282e350d776dd89f710003e347cefa9981017c97331e65acb8b4e5e24"
   ],
   "recent_sent_articles": [
-    {
-      "source": "매일경제",
-      "title_en": "팰러틴테크놀러지스, 매출 급감과 자금난 우려에 투자심리 위축",
-      "title_ko": "팰러틴테크놀러지스, 매출 급감과 자금난 우려에 투자심리 위축",
-      "url": "https://www.mk.co.kr/news/stock/12211870",
-      "ts": 1794948958
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Elbit Systems shares rise on earnings beat as backlog reaches $33B",
-      "title_ko": "Elbit Systems 주가는 수주 잔고가 330억 달러에 달하면서 수익이 상회하면서 상승",
-      "url": "https://seekingalpha.com/news/4673889-elbit-systems-shares-rise-on-earnings-beat-as-backlog-reaches-33b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794948961
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Bitcoin Sinks Before Anthropic IPO, Echoing SpaceX Run-Up",
-      "title_ko": "비트코인은 인류 IPO 이전에 하락하며 SpaceX의 상승세를 반영합니다",
-      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63369577/bitcoin-anthropic-ipo-spacex-selloff-nvidia",
-      "ts": 1794948965
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "조선·방산 뜨고 석화·배터리 지고…금융권 신용공여 순위 재편",
-      "title_ko": "조선·방산 뜨고 석화·배터리 지고…금융권 신용공여 순위 재편",
-      "url": "https://www.yna.co.kr/view/AKR20261117157900002",
-      "ts": 1794948997
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "SEC probes Nvidia amid departure of CEO Jensen Huang; probe includes whether company's disclosures misled investors - WSJ. $NVDA",
-      "title_ko": "SEC, CEO Jensen Huang의 퇴사로 Nvidia 조사 조사에는 회사의 공개가 투자자를 오도했는지 여부가 포함됩니다 - WSJ. 엔비디아",
-      "url": "https://www.financialjuice.com/News/9856489/SEC-probes-Nvidia-amid-departure-of-CEO-Jensen-Huang-probe-includes-whether-companys-disclosures-misled-investors---WSJ-NVDA.aspx?xy=rss",
-      "ts": 1794949062
-    },
     {
       "source": "Yahoo",
       "title_en": "EXCLUSIVE: Google Co-Founder Sergey Brin and Ex-Wife Nicole Shanahan List Malibu Home For $33 Million",
@@ -11504,6 +11469,41 @@
       "title_ko": "APEC CEO 정상회담에서 러시아 푸틴: 과거의 헤게모니가 다른 나라의 발전을 억압하려 한다",
       "url": "https://www.financialjuice.com/News/9857041/Russias-Putin-at-APEC-CEO-summit-former-hegemonies-attempt-to-suppress-development-of-other-countries.aspx?xy=rss",
       "ts": 1794972595
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "‘Not the Nvidia I Know’: Jim Cramer Questions Employee Morale; Colette Kress Has ‘High Confidence’ Staff",
+      "title_ko": "'내가 아는 Nvidia가 아닙니다': Jim Cramer가 직원 사기에 대해 질문합니다. Colette Kress는 '높은 자신감'을 지닌 직원을 보유하고 있어",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63375508/nvidia-kress-brain-drain-cramer",
+      "ts": 1794972620
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Lake Ridge Bancorp GAAP EPS of $4.97, revenue of $33.5M",
+      "title_ko": "Lake Ridge Bancorp GAAP EPS는 $4.97, 매출은 $33.5M입니다",
+      "url": "https://seekingalpha.com/news/4673980-lake-ridge-bancorp-gaap-eps-of-4_97-revenue-of-33_5m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794972623
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Russia's Putin says restrictions imposed on Moscow raise expenses, with Europe suffering the impact.",
+      "title_ko": "러시아의 푸틴 대통령은 모스크바에 부과된 규제로 인해 비용이 증가하고 유럽이 영향을 받고 있다고 전해",
+      "url": "https://t.me/firstsquaw/193729",
+      "ts": 1794972625
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "The US dollar has lost significant ground in Russia's trade transactions, Putin says at APEC CEO Summit.",
+      "title_ko": "푸틴 대통령은 APEC CEO 정상회담에서 미국 달러화가 러시아 무역 거래에서 중요한 기반을 잃었다고 전해",
+      "url": "https://t.me/firstsquaw/193731",
+      "ts": 1794972749
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "At APEC CEO summit: APEC a key partner for Russia, says 'we are ready to expand cooperation'",
+      "title_ko": "APEC CEO 정상회담에서: 러시아의 핵심 파트너인 APEC, '우리는 협력 확대할 준비가 돼 있다'",
+      "url": "https://www.financialjuice.com/News/9857045/At-APEC-CEO-summit-APEC-a-key-partner-for-Russia-says-we-are-ready-to-expand-cooperation.aspx?xy=rss",
+      "ts": 1794972754
     }
   ]
 }
