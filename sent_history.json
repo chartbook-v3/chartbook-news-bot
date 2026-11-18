@@ -1,11 +1,6 @@
 {
-  "updated_at": 1794970120,
+  "updated_at": 1794970276,
   "id_hashes": [
-    "12158607464b20403fb7ea71ebe4e75233f439fe46489993a7150a68727c2d98",
-    "df9345c3200b9460e1801d23c396a157023f43c0ebea3f37a3b7d1456707b31e",
-    "63294376a02c1744a3e491a234086fa51b1a95091b8de04ef7722f1078673e0e",
-    "f00a97e517976ec56e892bd81ed511644c670822c9bf58938e375af1a6a913b3",
-    "ca190d2d42674414f2130b8047f607bb09eaf31f84785a12d3a4ede23c4c9c30",
     "2ea45a455eb297c595ca77cf7fd361f9ba82b4046e9763bcfebe76c67a23511e",
     "d1c27c00f9c329443efae5a12c84ad04bd9f10e259537806461ce3902d3380ac",
     "b1fa8b33f9940dd9d1748fcf649fb5386399d45e33bdc60db67fe3e2e3c98796",
@@ -4000,12 +3995,14 @@
     "e3dd3d47b8c0317617bff56b4467b1d6501fe11a6fa7d11124d0108028d5b6ba",
     "92cf7d538d0cd9f2d8e0761b2594df08d228ce0f47d0758aafaef840fccec9ab",
     "9d74141ca2b5f486fc482597e0fd05fa5c2185d3d16f284c181855a3c979a24d",
-    "0aa634e275c958497015ac822a21a3a4db99239cb91c7baaa7f2a09b33e26ea3"
+    "0aa634e275c958497015ac822a21a3a4db99239cb91c7baaa7f2a09b33e26ea3",
+    "da2f92f38edf71db64a7a06060b31bf0262e653af2e3cea1d0129835dfb3a9fc",
+    "cad122406515c4360dcec404e9c88d12fab4c9512626fe0fc13fd481708d1aaa",
+    "44ba702fc7d80a27fd1e9b9c7386afc073b27a6ec5ea4e44bd87df094c666609",
+    "c435998525c4d07b6b3415241ca5cce8461aba29c5ba08735d805c46bd7104ce",
+    "504d69deaf79007950c4ac2a32f3f6acc7d0423906ebba5a4e87b27a1424070f"
   ],
   "title_hashes": [
-    "8ab86a24baffcd82e69e56b94f9ae934be511678fa0f8a3dbe20782b3ebaa3f7",
-    "e0aaed0cc37cf99a015437719baff5aa12d014cd9b6d49ad79eabffdff91f42e",
-    "6ed0f06f98151f3ac6eb0f77bf8a6a3a09095b62b2fa7b262d0cbee332a6e40b",
     "6cbb24191b942785cfb60674fd7221a5eecd08875084b41846d6351b0149fc5e",
     "acca23069f743a912a78867d488398af7a9413703499caefafe607f611aecaff",
     "ff91966ed40e3c064071f288959b3d23cdeccba99b943854cfc3d222de98a1b3",
@@ -8002,16 +7999,12 @@
     "2984380c7bee026be5cf0ae523f4038ef924b1ea54f1bebc60ec70ad9fe2b8ae",
     "7785e3652f0cbe24dc0598103679b22d665feb1e4ea66eb8539ed539e618d178",
     "b8c3bbe6b5c8cf03772242758e90fc64c2c9e57617f842724c8c06b9219494ee",
-    "c7fe164d4995556a28485bf645ec3c707d6616631552baccf5ebe5d602bf7303"
+    "c7fe164d4995556a28485bf645ec3c707d6616631552baccf5ebe5d602bf7303",
+    "17a478eac552b9fbe2134f723a10624ad6fe8c64a14200023298176ec63b0dc9",
+    "ff0094d73d80a8d6658436d4a4ecaaacb46857ca101776ae2300e3610604946f",
+    "119f2b85c8364d4389b6e7be3b7910703f54b6a6df7794b9d07cfc7fe979ec4b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Billionaire Daniel Loeb Swaps Amazon for Meta, Nvidia and Microsoft in Q3 — Meta Now Third Point's Top Holding",
-      "title_ko": "억만장자 Daniel Loeb, 3분기에 Amazon을 Meta, Nvidia 및 Microsoft로 교체 - Meta Now Third Point의 최고 보유지주",
-      "url": "https://www.benzinga.com/markets/large-cap/26/11/63365903/billionaire-daniel-loeb-swaps-amazon-for-meta-nvidia-and-microsoft-in-q3-meta-now-third-points-top-holding",
-      "ts": 1794945789
-    },
     {
       "source": "FirstSquawk",
       "title_en": "US STOCKS EXTEND SELLOFF; DOW JONES FALLS 2%",
@@ -11504,6 +11497,13 @@
       "title_ko": "스파이 스캔들로 인해 엔비디아 실적이 호황을 누리면서 주가가 하락",
       "url": "https://www.barrons.com/news/stocks-drop-as-booming-nvidia-results-drowned-by-spy-scandal-07790c23",
       "ts": 1794970059
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "디즈니, 어닝 서프라이즈에도 허리띠 졸라매기…\"성장위한 투자\"",
+      "title_ko": "디즈니, 어닝 서프라이즈에도 허리띠 졸라매기…\"성장위한 투자\"",
+      "url": "https://www.yna.co.kr/view/AKR20261118068500075",
+      "ts": 1794970275
     }
   ]
 }
