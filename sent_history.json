@@ -1,11 +1,6 @@
 {
-  "updated_at": 1794980121,
+  "updated_at": 1794980289,
   "id_hashes": [
-    "df11cf79d18e620db4a3b05d4d247391c377f785723d576ed77b891571a6055e",
-    "ea440347f6496fb77343e39ea1cfcf190d8098314a9bd74e7f0e383725272548",
-    "7600f6e96433a782be28273f848078951da0ea0ed81d95fbe7cc4ba00b52a0af",
-    "5984fbe103f705307a4bfdbb874f1902e479e54905aa8e04c6fb973f16fbf29c",
-    "fbd155e8e2675d0eb706a790ceded3ad7852536b28f84b34b115568a7fb35ab3",
     "e8360b2c98ec1fd7bce4a05af304b7f83fab17a390655007a1fd400c4bad3474",
     "fc687011cef400b940a3b1d60fe150e665d7b094648da5ae25f08c0973e2a60f",
     "cb29c39440d4a36efa28226c35a2780261b2c915c8a8dc964b6ce566e5e17372",
@@ -4000,13 +3995,14 @@
     "6123128f780e70db20cc017e3110695559657a46a879b7026ffc3105ca0d7eae",
     "7c8b0b2cd73d702c92352415dd4eabf8e62bf60f1a12176382f2a299759fdddd",
     "446526df7649cd246a260c3d04eb493bb477626de48c95384f921d008c81119c",
-    "9b26d104ae66d00d97f82ba0d470660a64eedbda21366f549ab70f1ea7210bfb"
+    "9b26d104ae66d00d97f82ba0d470660a64eedbda21366f549ab70f1ea7210bfb",
+    "58f41164464777b02bc6af5dc73699178aef93fc9f369b4dfeb77ca58f76c179",
+    "d103e4662d574bb5ef3755530d7f08cf03c11d54dc4630115a2bca4e541cca43",
+    "82c25230c62b93592c949f75d9343c1a97c8deeb9fc73e43ede45fa2461d148b",
+    "9b4daf3c53ecba8a27658084b52d5cbba20779d1e65c533a775ee3cf99e58e0f",
+    "65a882d63e2ce66a5ba1be7c5dc77b2e2b1ccdbe3ff5dc43e467ecb6c1e7f5b1"
   ],
   "title_hashes": [
-    "ad5538d5902cf5b67bb7730c95f054e3b6ca4d89be9e2fca4dd3ecd980262cf8",
-    "13fef4d9448ce92d0446d38571ba724cdfe947450b6125c008ea51adc26aa8c6",
-    "4d75c68e78c02721c5174ea282b530362456c8dfe65623797a563efbb1752e3c",
-    "c485d723de49752eea7db41bbc9dc588e3599cd40c570162fc71c3179dfc570a",
     "2e82358ce9ed1bb503d935dce6e1f8b157f60f1209c41f6f47ed407cead53ea0",
     "c1c32b49477e7de37d73cb5f8c77ec13c88c2c49152bc542ebb1431b2ceb7060",
     "11882d69eb18e9b693b98766acf5a72935bdc00c3481ce1d9dd8d0fc19794850",
@@ -8002,23 +7998,13 @@
     "59004c9771ab5c343d83913b2a3d43f5b8126d87e2ad614f49de486eb7cb08d9",
     "0c5191bcd2c85c120ad642661e4d33e7c76d4bca66e81ed36eac6ab86c7be2e4",
     "e88139af0075b0c5217f849221fcccb53126e9094011d32d5844aeac9254ba6b",
-    "cb9bf4a79f06b616035fce67e90d60811b98c9a912cf4f6d9b975b874636a5a7"
+    "cb9bf4a79f06b616035fce67e90d60811b98c9a912cf4f6d9b975b874636a5a7",
+    "cffdecc48ac932aebe1c4c38ca8c237a53ba9fe7b0a41239fb95594081fc7575",
+    "4f8658ca51f8488aa3d6ab3f5e31eb12a150b010dba0e414dfa67668aa9c860f",
+    "d824e3fea4ba7c26d74f4edd50b5f6b551681734da12f23dc8bc86541cbf7160",
+    "8f02d14e1afdfc1824f1326b1da7e8fdc2166a18b3624e3c25d5689c04b67602"
   ],
   "recent_sent_articles": [
-    {
-      "source": "서울경제",
-      "title_en": "美 항공중단→은행장애→기밀통신망 마비...트럼프는 “괜찮다”",
-      "title_ko": "美 항공중단→은행장애→기밀통신망 마비...트럼프는 “괜찮다”",
-      "url": "https://www.sedaily.com/article/20115683",
-      "ts": 1794953849
-    },
-    {
-      "source": "서울경제",
-      "title_en": "젠슨 황 없는 엔비디아 매출 사상 최대...현금 흐름도 2배[마켓무버]",
-      "title_ko": "젠슨 황 없는 엔비디아 매출 사상 최대...현금 흐름도 2배[마켓무버]",
-      "url": "https://www.sedaily.com/article/20115687",
-      "ts": 1794953852
-    },
     {
       "source": "한국경제",
       "title_en": "[속보] 엔비디아 \"내년 매출 75% 증가\"...기존 전망치 웃돌아",
@@ -11504,6 +11490,20 @@
       "title_ko": "아침 입찰: Jensen Huang의 마지막 만세와 Nvidia의 불안한 미래",
       "url": "https://www.streetinsider.com/Reuters/Morning+Bid%3A+Jensen+Huangs+last+hurrah%2C+and+a+nervy+future+for+Nvidia/27365580.html",
       "ts": 1794980120
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Australia's S&P/ASX 200 declines 0.7% at the close to 8,821.80 points.",
+      "title_ko": "호주 S&P/ASX 200 지수는 0.7% 하락한 8,821.80 포인트에 근접",
+      "url": "https://t.me/firstsquaw/193776",
+      "ts": 1794980159
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Anthropic Crypto Bets Imply $1.7 Trillion Value Despite AI Rout",
+      "title_ko": "인류의 암호화폐 베팅은 AI 패배에도 불구하고 1조 7천억 달러의 가치를 암시합니다",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-crypto-bets-imply-1-7-trillion-value-despite-ai-rout",
+      "ts": 1794980224
     }
   ]
 }
