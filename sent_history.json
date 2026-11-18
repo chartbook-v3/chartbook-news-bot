@@ -1,10 +1,6 @@
 {
-  "updated_at": 1794966996,
+  "updated_at": 1794967149,
   "id_hashes": [
-    "b921470a3118ee3da88b2c73f9d6632a0a7c5f8e02b12ab0ffc159200feeb7a0",
-    "de76ed7dc223e5dcb1ec1645c522026150356e9e388d18cacd0099e3f78d9098",
-    "b3574be6d4fa758ae492bb6e984c040b234c048153de86d563c419412db5230f",
-    "2e2ad4f5a77e9c426247311832b59c1df0d75a3d5d0ab7015247fb46010899f3",
     "e67358f0c6a5a1e8b438bfd0c41ee19f10462b33579974cb459d8c9b5161d3f8",
     "fad08c9f562280887758710a8c40e819bc1c3fd47266bdc579dc536bd17b9fc7",
     "a33ae1edf39ceb7f8894a06983d4f0e9a4100ed9978827386938752bd161b36a",
@@ -4000,14 +3996,13 @@
     "12c3c30a79ed4799c41479e6d5e8a8558cda7a3fe27726d1a3bb64759ca36e42",
     "02f5dcd99aa78fefde74503a6b05ae4cc3d206f69083e29988fecf00ba9dbf0f",
     "ee3f00914c861fd1766cf2c8df8730006a1f1a7e60be3b1371d7309a25bd497c",
-    "7bcab476a1b62dd4baf6cdaa294557f93294e4ff94c200ce17aed4cb1c8891d7"
+    "7bcab476a1b62dd4baf6cdaa294557f93294e4ff94c200ce17aed4cb1c8891d7",
+    "3c51dab2151d3275b739d9a939d5034e7c440bed7b1d3079f68b849000d18edf",
+    "bfe2791b6cca89c432acb30496a5b088cb42038c80452979d05dd236ef18a0ee",
+    "5265f5bcce587c66758fc3ef92a3c6078b595b757d5fc3dbc80c11e060063e6d",
+    "aae9c8616c21bb89e5dd9144cc5af5b47b29fe40ec7eff32665da89c17a21c92"
   ],
   "title_hashes": [
-    "6c36b2eb7e9b9b32c2185e7f7641b031a266750bdbf5102ca8f24cf95faee526",
-    "5b97021d8588b57260a63c9b70721d08a33325acf70d144fb4b3db642fc3d2f7",
-    "5da7144e803e46154997ae02be953a565de2bd82fa86be689fe46f5d4e5bbb97",
-    "e4959693f176ea4eff8b90abaa496346d189c10508d87bf41f60a0318629be90",
-    "c21e478489275e6ab22bf0cbc400a260efdded19056596ed90a74344f47adb24",
     "e49899290f0066d7d073907f5fba1444ba1c8dd87b08415cb1a5ba8675427715",
     "b0fed11fd8f2bdecf974e9b08daafd57ef6596769c2606f34b3d174c39e7b59a",
     "0f933ab9ae50e74a9f0bfa57d481fcbdb43ca08ecc1cc06db482b6c4fe090011",
@@ -8002,16 +7997,14 @@
     "790321a993ce02ae3d9e02b0744fe3d1479953ec07dfc304b301fd381ac2f393",
     "6c7e01d184e9ecada698be2aa28b08c307bf2929b47536a81d9e46210403db5d",
     "3e2f9f2e7f43c59ad4d700edc5d6b8332dd66f1648642f70536eb828e57d3f55",
-    "c4e13accf1b2c64b32b85dcb24ae87da34bea2f827ab7ddcbd5f2b8d5d782d6f"
+    "c4e13accf1b2c64b32b85dcb24ae87da34bea2f827ab7ddcbd5f2b8d5d782d6f",
+    "ea8f78ff5ce5a3f778c353802ff1cf2cbb6b1621d1d6616edd26ba33eccb6c7e",
+    "57cb0ce6e4a3d9b1cc40ba9c0b7b0464f7e4b6cca43bb7c782e1fcbc6b528cbe",
+    "2e3155b7495327c3997a8fdbc2a34ba9a8e146209157af2472e25f9882a72f45",
+    "f03558607317ed4c7b88abbc9cb9b0d44cc3051f83e6aa71761dd3e40a8650f6",
+    "a4e75c400e28f1a891a3ca0078ce00ad38aadc23015c8d7d27b01662bcdee7b0"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "Iran seriously pursuing diplomatic end to impasse - ISNA",
-      "title_ko": "이란, 교착상태 타개를 위한 외교적 해법 적극 추진 - ISNA",
-      "url": "https://www.financialjuice.com/News/9856350/Iran-seriously-pursuing-diplomatic-end-to-impasse---ISNA.aspx?xy=rss",
-      "ts": 1794943084
-    },
     {
       "source": "Bloomberg",
       "title_en": "CFTC Orders Kalshi to Take Down Markets on Trump’s Speeches",
@@ -11504,6 +11497,13 @@
       "title_ko": "20년 경매를 앞두고 JGBS EDGE가 하락",
       "url": "https://t.me/marketfeed/1080219",
       "ts": 1794966930
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "[용인 반도체 국가산단]'보상 속도전' 나선 LH…연내 마무리 총력",
+      "title_ko": "[용인 반도체 국가산단]'보상 속도전' 나선 LH…연내 마무리 총력",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445327",
+      "ts": 1794967148
     }
   ]
 }
