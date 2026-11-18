@@ -1,16 +1,6 @@
 {
-  "updated_at": 1795029150,
+  "updated_at": 1795029300,
   "id_hashes": [
-    "ff42f957e63f235180392023a4be8060545fd096bd1c8eb0c2e9563e6226ca7f",
-    "bbe8d3c022064643c353290003e467e351b550eabc71dc32e4476542cffeec11",
-    "2202f8fdb60b0ea3ed46f2beb2d707b0837f8f0d32ac506b5699cdcdbdf75616",
-    "1a0f290ebd8dc6734de80931bc475566604872e31d7c94bdc8c9d5a1d7a05967",
-    "045fb0e558ddca7ee4078f34298804d8d56d53198705c0a237c65ed7a040e4d1",
-    "c910f01414ed636e920c2dcfac68d2fd538851251df956df181f8eb09e5c2267",
-    "11613a7be156bfa8be0521e2ab48172248d6ac45ec22b84de2e9f34fb73add31",
-    "e671be0330b65f7241ca8a197bccadc39119fef36cf1f7329c1e651e9f0fe7a8",
-    "d70e7fe7157962669eaf5c2899f0e44df3c2233c538b08f3c624ab2ae2105d56",
-    "ee6dd87b757e81e78d34d0feff088d920c50f7bf71dd7feb4553018cfa1a9eb6",
     "7024de1aa80d173110f49a41d4b58a226d2697feb1ecc8f1717ad35e3743b1c3",
     "bd78323fe1b114061919372e08d604b0bf29c6b38a3ba2981f869a1be270743f",
     "e09dc717349dbfc5fc5aa26105e8679728ac26bc78018bcc2d3118b9a436e933",
@@ -4000,15 +3990,19 @@
     "a1de82a84811e9db7519f0a88f9738d4fb2a11b9d8a0595677421799375901cd",
     "966948a49aa6ef3907c942d5ec40a312ec247ff87f31cd26f79898077538aaf9",
     "d8b951fe6e334851f751c1ffc731f32e4bf8ede0062aab4e08b3797180aa866a",
-    "3ffdfbc4f01eca5d69e9cb688da0fc1d10dd117c6de6509638127213a925124f"
+    "3ffdfbc4f01eca5d69e9cb688da0fc1d10dd117c6de6509638127213a925124f",
+    "4c74abb6a4436a2f70cc7fa9e91b9499a84a6d8728d83919447a1464fd15f97b",
+    "f1e334ae8710ae92a2432e5a7d970a332c79135e7b3f930943b0ba1740c88c3d",
+    "31908c899b00ab3c7d7d2d5667c5cb08566b8db8e3171012c73520f0bcb55296",
+    "038d15538c741d8647b5eb8bbf08742f6d05d1211057989c88c8327bed44b31c",
+    "6701f3a2ebdd8bfc710c9d5666f7177cf48fb30958ea498367ff9425606ef436",
+    "cbcefd7ce0e42d3b7d234f0a8b2176873b4f04da16cd34a17798529bc26c91c5",
+    "8a52f7b7a6109e8707ee4b5d606c749903311fc5040d5ea0511713b376c0e6b6",
+    "e7d5cb6e6f78a9dfd30d44411bf58e70f4ce85ad247de1f2828306f8ec283072",
+    "8b748b1f632b23d478af6b70551dbad916f2458df2b4faa75a54d0b871593d4d",
+    "108c9d2fcc4f5613443d0e63fe375c4cd45cfb2fc78b9ef71d20e845b171ccdb"
   ],
   "title_hashes": [
-    "8952758d60a9a678463bbf645e1b01c5e391ba7083fe772d03fc9ebf79fb0c20",
-    "007a348bc1746217e46edbf13340166e40f06d82bc39a34cf5304491fedcb57b",
-    "01aa386cf519fc6fa62c3d3b366dc111355f65893a0dda844568a6b76095b46d",
-    "0ba9e3ab861aaa80353f3b4eb5769b219c10301f282c8c9866ff6136f130d928",
-    "2d9f3c3ae4ce7b00e213fb2e819119921eb5537e27802a5a00705953b05713d5",
-    "6148625e07fc0f9936b13ff17097bc8ec61622259e35b4840330591ae1e68278",
     "a49c0eed2cf4c8f8e7eaf29c0c8d5e1e102a741e74e20f5523b25401cd7dfea3",
     "5f2d6bca76623bc99b465b8bc1532d3b2102edd4cc03a459780c705752364362",
     "3918fd0d89c5b70cb407dbe814f2e4ec0aeae94dc671b73b3022a2fe9f14cf24",
@@ -8002,23 +7996,15 @@
     "c6eacdff3e2a7aa852a27dca720b4be7ac7d0105efd424cde2fb9721f5def85c",
     "bdcb6ad61130e25c9102f4e52e20d4122fee45e1712cc8efe6b6c824ae39d2b7",
     "a5dc205acfc6bbf9dc72b4d1b46f1990d44cdf376fcae7689aaf7f4bd57022f1",
-    "feacde5ce4c9dd3073c7de22491c832571ebcbb4525709f9ef00af71bdeacdb0"
+    "feacde5ce4c9dd3073c7de22491c832571ebcbb4525709f9ef00af71bdeacdb0",
+    "68eeecedd9c0b090c3fe09c2d8cab0ad1782977fb13301dd2ce4b4f5ff6ff77c",
+    "e8a2b6be7126b2bb261b353b752ae476eb4de68098c80a2192d3e6e0a9eee39a",
+    "8d056f90415bb7294d34a7f6f59b61efe6894c361253ad9508d0893343e13fbd",
+    "fa4fc4084b45feb5dbef23dfcf69448553734c24321c74c280e9532ca736c64b",
+    "f5ab96c4ef2b3493b0cb6cb5e2b38183357ba0c5697e140faee83a8ceae93ba4",
+    "f39f2da3d69f8d9eb998addac805a465e2a41b6a23fbf5833cfa1f90d6405767"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "EU's Von der Leyen: EU Commission proposes a €45 billion loan to Ukraine to help cover 2027 financing needs",
-      "title_ko": "EU 집행위, 우크라이나 2027년 재정 지원 위해 450억 유로 규모 대출 제안",
-      "url": "https://www.financialjuice.com/News/9857566/EUs-Von-der-Leyen-EU-Commission-proposes-a-45-billion-loan-to-Ukraine-to-help-cover-2027-financing-needs.aspx?xy=rss",
-      "ts": 1794996527
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "商汤-Ｗ：2026年前三季度收入同比增长30.4%至37.92亿元",
-      "title_ko": "센스타임-W, 2026년 3분기 누적 매출 37억 9200만 위안… 전년 대비 30.4% 증가",
-      "url": "https://wallstreetcn.com/livenews/3201871",
-      "ts": 1794996614
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "美国民主党高层Garcia要求特朗普儿子及核心幕僚保存好文件。（华盛顿邮报）",
@@ -11504,6 +11490,20 @@
       "title_ko": "미국 10년 만기 국채 수익률은 현재 5bp 하락한 안정적인 상태를 유지했으며, 연준이 회의록을 공개한 시점에는 일시적으로 5.0562%를 기록했습니다. 2년 만기 미국 국채 수익률은 소폭 하락해 한때 4.8%에 근접했습니다. 현재 1.68bp 하락한 상태이며 일시적으로 4.7872%에 거래되고 있어",
       "url": "https://wallstreetcn.com/livenews/3202129",
       "ts": 1795029090
+    },
+    {
+      "source": "The Verge",
+      "title_en": "The leaked Lenovo Legion Go Beam could be the affordable handheld we need",
+      "title_ko": "유출된 Lenovo Legion Go Beam은 우리에게 필요한 저렴한 휴대용 기기가 될 수 있어",
+      "url": "https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need",
+      "ts": 1795029237
+    },
+    {
+      "source": "The Verge",
+      "title_en": "One potential Nvidia CEO candidate? Arm’s CEO.",
+      "title_ko": "잠재적인 Nvidia CEO 후보 중 한 명은요? 암의 CEO",
+      "url": "https://www.theverge.com/tech/1036962/one-potential-nvidia-ceo-candidate-arms-ceo",
+      "ts": 1795029241
     }
   ]
 }
