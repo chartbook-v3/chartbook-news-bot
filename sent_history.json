@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795030685,
+  "updated_at": 1795030854,
   "id_hashes": [
-    "71233b23dd802415e1088a6121a42516abf58505d0641086165d781115c84688",
-    "48ad60ca479974b5ec5fd02935efcdc92e573ec68d872985c6a4835557782f8d",
-    "7c7c7615a9d2aafd7ea4f4c09642cb681fff60d85d490963691b684ad4342880",
-    "167da5b2c53b80569beb31b82ee66622f351611084014af5018af9ad41644e36",
-    "fff3bb058d67d93856233334d91f520bfab34878224f512864b67ca482960e74",
-    "d0e6eee2d52d8d87e0e1295a0cda157718f0a2072d46047549daec90fd172967",
-    "2f966f5237eaf9a44d26efc4ede68ec1c3896c688a0e9d326f16dcee53341649",
     "f24f94b9974732304f064cc7d71583a7535e9aef1514a94b4efbf72fc20a69ff",
     "3d2ef188ccaafb6156cce699d08fb50ec6e090c5dc96d93c0770890ed463ccc7",
     "e0b1c26f3b7aeb655a9888d1c0ae211f726f9d726620651e9e4c3e497c06caea",
@@ -4000,14 +3993,16 @@
     "a39125ad4ad2ccd028454f174ad44d019695ff0c86a499f0db9eba0451342e75",
     "ec2a1a03053f28efa27bd2fce3130d10e4494dc1776eb0052fc173a1e138bc9b",
     "a00bdb6247bbd4c0c33a18c5000ca6546d96628ce7a80e81387584701c268b57",
-    "1e13f3d2e4664adb698a4730e5a9da72118fee422270ad5c41cd46552b7b05f1"
+    "1e13f3d2e4664adb698a4730e5a9da72118fee422270ad5c41cd46552b7b05f1",
+    "7891c9c74a02e9f0175aa6290494ab3e64ce1c741b717a27cdafbc7cd9c74710",
+    "824b19c48b9ce7bfc53028aaf1104fc106ce647bf6246294e9246bd85a5da331",
+    "07e1acfd7fb0f730e4c1fd1424a0963a2197f7ec042285ae48757b7aef0f6dcd",
+    "289ca6eb90c31c0893ba5a8df24b7fbd243b54702e1127a3bc9379e4eef3ac01",
+    "53574fa162a56899890077d526d2316e8ffcd7e0b099ff1183b030ed3fd431c2",
+    "d16fb7b2aef2f6a8fd91a7fd972eb021d9e8e43b861f0ede5494cbad54859f28",
+    "c93dffddeb03bc7020161c114eedd1830c4ae10b231df316350e6c03a0aded39"
   ],
   "title_hashes": [
-    "88fd831010e784347b6fae67c3db574c6e9f5353d5e6843a86e3e2c26d9150cc",
-    "5a8f920fedb63602e95a231379ee689362b5112bb7d4642d5a9ed3765f007246",
-    "78654a0eb83a1197f695b9d0a0bd0ba959e717c229751248225f5e9606e314fc",
-    "98c16e97b3b17f53cfcb9c25d0a523e18ff41cb9776db906f54549a79126c97b",
-    "3ed08d1c222043479b17a97128880dece6df22f4361d27addb8ccbec9e4622cd",
     "7fed9532a9bcfe51abd429883f8c9e1416a07d4843ba4904a9c8fade22fb08f2",
     "a04d00795a51e7a18e62c4778c677919e27f4898fcdd17fdd5693add629d1b40",
     "b6e508e5a7b03d1573b171779bc3b8d31225c9b4d164769c2485e695402f238a",
@@ -8002,23 +7997,14 @@
     "5ea9a7a2f249ddc7ac5e4875890cdd68d88eeedfd5e9bed64ba767cbccf75608",
     "28a0be96d43c0d21ece2c41535e47967485b8264d798ffcc24b02c3003842d59",
     "834af8378a758352e15b0827addf506537f368b69bf48c6b632fd3a9be75f5d2",
-    "4f786629387e27a5ce5428ca991a2825593a7f1c279dca88b498a7647dc9b2f3"
+    "4f786629387e27a5ce5428ca991a2825593a7f1c279dca88b498a7647dc9b2f3",
+    "ee520b58092772b9e7c125feb7c7941ab6e335543a18aa61a50c432b4324df2d",
+    "73a8b5518f3332daf19c0d60a20884392aa66164c25feaea901af3cb727b7c8f",
+    "c17f9553b66b12cc1c071e9a51016c32e7898df31459031b4beb6ea2030c7518",
+    "616c71f683e5421a62b5ed1cfcf33acbd1778363aaee702b061014a2d965ebda",
+    "fba9210b585ac436b3717b17686850bef769529fd50b91ef2845f92d35a31a54"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Stubb Urges 'Day and Night' Effort to End War in Ukraine (Video)",
-      "title_ko": "스투브 핀란드 대통령, 우크라이나 전쟁 종식 위해 '주야간' 총력 촉구",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-18/stubb-urges-day-and-night-effort-to-end-war-in-ukraine-video",
-      "ts": 1794997844
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Nasdaq futures jump as Nvidia forecast lifts AI trade ahead of Anthropic pricing",
-      "title_ko": "나스닥 선물, 엔비디아 실적 전망에 AI 반등 힘입어 급등... 앤스로픽 가격 정책 주시",
-      "url": "https://www.streetinsider.com/Reuters/Nasdaq+futures+jump+as+Nvidia+forecast+lifts+AI+trade+ahead+of+Anthropic+pricing/27366009.html",
-      "ts": 1794997909
-    },
     {
       "source": "WSJ",
       "title_en": "Nvidia’s Strong Fundamentals Give New CEO a Much-Needed Tailwind",
@@ -11504,6 +11490,20 @@
       "title_ko": "RBNZ의 Breman: 인플레이션 기대는 안정적으로 유지됨",
       "url": "https://www.financialjuice.com/News/9858465/RBNZs-Breman-Inflation-expectations-remain-stable.aspx?xy=rss",
       "ts": 1795030556
+    },
+    {
+      "source": "동아일보",
+      "title_en": "울산에 위성통신 체계 갖춘 ‘재난지휘차’",
+      "title_ko": "울산에 위성통신 체계 갖춘 ‘재난지휘차’",
+      "url": "https://www.donga.com/news/Society/article/all/20261118/135049721/2",
+      "ts": 1795030721
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "哈马斯称以军在加沙中部军事行动违反停火协议",
+      "title_ko": "하마스는 가자지구 중심부에서 이스라엘의 군사작전이 휴전협정을 위반했다고 밝혀",
+      "url": "https://wallstreetcn.com/livenews/3202139",
+      "ts": 1795030853
     }
   ]
 }
