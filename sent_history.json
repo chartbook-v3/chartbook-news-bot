@@ -1,26 +1,6 @@
 {
-  "updated_at": 1795006832,
+  "updated_at": 1795006994,
   "id_hashes": [
-    "82f306c08461923f3d2645e2f57e1aba5fbad42e0f7718e5acfeae7f5680f0df",
-    "b52a89209e17f5c609dfaaa23509cf05821aa818dde6de04a7e52c20672795a4",
-    "7529f70798560d33969998a0308e4307c33d5266afe8ba723cd193e12cca2cb3",
-    "44d7e09803167b68a879bf636a9710d80e6bb5c4d5738b3af7ede2f9864bacf6",
-    "12c3c30a79ed4799c41479e6d5e8a8558cda7a3fe27726d1a3bb64759ca36e42",
-    "02f5dcd99aa78fefde74503a6b05ae4cc3d206f69083e29988fecf00ba9dbf0f",
-    "ee3f00914c861fd1766cf2c8df8730006a1f1a7e60be3b1371d7309a25bd497c",
-    "7bcab476a1b62dd4baf6cdaa294557f93294e4ff94c200ce17aed4cb1c8891d7",
-    "3c51dab2151d3275b739d9a939d5034e7c440bed7b1d3079f68b849000d18edf",
-    "bfe2791b6cca89c432acb30496a5b088cb42038c80452979d05dd236ef18a0ee",
-    "5265f5bcce587c66758fc3ef92a3c6078b595b757d5fc3dbc80c11e060063e6d",
-    "aae9c8616c21bb89e5dd9144cc5af5b47b29fe40ec7eff32665da89c17a21c92",
-    "972002fa4e23e73966ab8e070b6d825e192a78845097b4151525c3e8ff245bfd",
-    "40bc1466f552541fd2d405e4a22a1292c47fe875d29df986a9f9e1fc5f9ffb6d",
-    "dfa62727ee12f541e60460fc2dcc9cbc08783654a243be6b4907c42a65013212",
-    "8eb010dc0b405c78729ca035b312f091dc2c4d82b025af61d3342793eca15557",
-    "b516cdd21fea526ac572374df13240860b46bbfc89b3afd6db3dbf6cb7ad8dc2",
-    "2ac751ecec7fbd4f4eec561d49efa2a678af52ca799f15041e68483810307f33",
-    "8946eacd1eeb806a824ed09492cc4fb6a548e86f218d573dacdc0787000f2a78",
-    "59ad99d443884bfc68f5c653ef54869b20e05221dc8a289c0b75655e30270f7f",
     "5945c8fcc4420a11818ebc4be0c35fc56ad09105d16a4054478bfde87e4e470a",
     "dc4cba4df3fdf46ce0ee872dcf15bfb076507e90fcf8ba9fb198453e924c07be",
     "38912a4ca22e8f19df101b28c42f985fbd7ce441dd920bae759993a504ab9611",
@@ -4000,23 +3980,29 @@
     "1a44f54ab226c6bb5af3cf1c34f30eaf9d823c93a6f90a470bcc1ee0ef488cc8",
     "187cff812bb178b5257ee030b8cf4d34f285b53c11eff008efadd06b7223be01",
     "668fa570818245ea7a6635ea0807f9f9056291b6039e80a0c6783dc428fe22fd",
-    "c2eca69557161ef943bc8dc9b21f61f3b1945e67c64c3b336066a46d70218d4d"
+    "c2eca69557161ef943bc8dc9b21f61f3b1945e67c64c3b336066a46d70218d4d",
+    "a3e44e80360d3b23f82138bc50aac889f5881436bf6b6fc24867bf582e19f7a9",
+    "f702fd62e7da83d10e943c40add0e976ca475c9768f37ae474fe9c252b312ab9",
+    "2606be7c815fe423554df771d976f66fafa9300fd73d6c2ff1831e863bb70a6b",
+    "4dfbf555e167bcbee54b646079bc2e00789b5146a24420c0f76cbe8cbdc65827",
+    "40df26f9d86a9d98270000d8d2df9cfb2e1c336dd91b758a2aa61d796047bedf",
+    "cb081f1cb9bcea57d91e9c8e1b6f57143d7d19f343e49abfd631b6d7400a9969",
+    "42f34ca77df392aa863e352a9376c3e5bc69d77bc2cab732e2a22e73e337baef",
+    "aa6fb10428fd7a999e9b3f3f68e30f30041c1d4be87e04c78f257df3c2c09ad1",
+    "3a81c5342aa879af6ba6a0ab9dda57f09641006e81b85fac960a5179db64c213",
+    "4fbed462276def4f01bc339868c61961676160594f7d3f939324755e5892488b",
+    "1f4e80dde008762e3632845ca279267c166340cb24e75cb398512cbc15f37fd2",
+    "e6da3499e43df9684975bd4bc9f1e9e4e06b8cb7ffd15ceaee03ba91891d74d1",
+    "f1bd115b11d6f04ea854ae99e4ed41f7e333878d69fe710e60cce4f25ec8809c",
+    "ec6d296e0a9901852a8883a5a26dcbb693fdd406f979c5e401b0b2dc242f9485",
+    "b463ae05fd762a464fd0a9b31b1b8c76e35c108d4d470846180fc7d7afc5f43d",
+    "023c33e50ba7cc7d82eda764c85655076291766ab969f8d719eae60bb57990d6",
+    "25eaee3a975072a8d302fa1771ffffaa492a921039a4559b95c9d9be8d2ebe01",
+    "3c530dbde842be9c1b3fc203d4213d3334e739ea22a5925bc390ffdcb61a1980",
+    "0ec11116281272bfef45cd4877f1a38ae7e2112b40af2f914d1ea8096904bab7",
+    "3d93b108280acdf3843b2108704d1a2000315350900fc7444fc77312f9991e1c"
   ],
   "title_hashes": [
-    "640a50a8cd560468bc4f53d0eb406c66e84b366e2a90ef952e4b0369547b2420",
-    "43b8e3dd9945b67a8486c205f6c6d6f5fb01e8a381f6a1e7cb54d3f8fd029566",
-    "43db05575fe3e41478cdb251aa26c2117210065cdcde5bfa51d3659023fd3b12",
-    "daef9046624d5f583ea4f8588f1b4f40bf8c4c524f588b99b24269ae2da9b198",
-    "9207a8a53cd2af681a9b015dce5fd694cd87378442324ec2773a43d5b7712b22",
-    "7e8edf875741b2d49c926e4f03e008d7442196d4f45bfec427672713825b1b3b",
-    "33316f0c98d86d2e0027d11ff769993303748c2da686c0f18225afc52fbcd510",
-    "e8a44915eea08646728be57aa307d4fcabfe4d198b42c51ea0537e6d0b2f695e",
-    "9a441a9490f1798dcbc6480680b10522ee0db082dab2e19d2a7843751bfa13c4",
-    "065f37be995877f601ab3d878043ac24fc39f5085810c6be6f1d36704bb507a4",
-    "21bec128b0d5babafa931fd2ccac012543d94856a428da9c588b76320d259ad2",
-    "04ce3b2313be4635f1ccd7dd9531f94af0a5ad4a538547fe728c4fb23b1945c5",
-    "ab5581112ce6fb2d5b4acb5d4630fcaf639217ab86c6ad5aae40557146001ecc",
-    "d938c8b14caa2da850cb9c0a0acabb58bbf3c683dfa4cffa2f197c64004ca12f",
     "ef511912d06980c6b2c6ebea1ba7abd241524c6e37f30963d80cdd26db62c2e2",
     "73ba056c4beb0bc101f005f3ac02311066826d322b9beb5d8a4b9439798cff2d",
     "e775110e727004541e8a6fa391925e8c5c56ca66f14794125303a72c602aa0af",
@@ -8002,44 +7988,23 @@
     "659089a0c2b5189e6a6a8a24ef73753e0adaf93a24895d8654cf763a9f8b3ea1",
     "087f9b28f2fa3842c29f3c7154b06075218c9bdbf091a900803d9c6cec790fca",
     "3740e4c05af7777f3e97f28d5ffbfd6664fd192cdc3da69f53205df82b6b079a",
-    "d152191ad760001840d80879581417d07961ea8c591712494e8974dd9c4246d9"
+    "d152191ad760001840d80879581417d07961ea8c591712494e8974dd9c4246d9",
+    "c1ccc8e8f9ff839cd254f53dfe09b0111eb978435d400042c93e891c88c01f45",
+    "7fbd989d354724fdfad4429384caf8e39777e886b54c2849e5b09b6a35a51d1e",
+    "b32acf7a28fa225de0067577a9d63e4915eedb85069748819902d93f38e45111",
+    "c527aa3581fd7bc49214f46eaecd640a93152bd78f2be2b178cad80cbe4ff339",
+    "091030d112e7fe65bae6b94d1ec8ba01f035d8e36fa56e41e2d6287327c7f7a2",
+    "8cbaf15de3e24b53eb179d33a95f58fdec012f74d39b5ca5ea1c613b0669b82e",
+    "f100f7cbbd347e5a4b8fb7f90f72de6edd06b42da6604c5d18cf68c8ca69e64a",
+    "edfbeb915117cf4603a0e81d0b270bd832cb641a83dd16c7331e528c1c92701e",
+    "3475e32fee33038448e970a5e2d5f46dcaef298bc7d3367f779cd78233b5ef9e",
+    "8b1cbed1be495c61442bd752aaba361b434041ebe747faeed340d07f86d2f3b3",
+    "5c326c2315b316b0661bd7b984d95727aa3822a48190f5d74fc2598eeef93ede",
+    "c4dc9d07b8ff8b055c9e2365db053c8acc26c12f49d5debfb6467082c8ed63be",
+    "24520327821a989dd4ff6e02d62352ecf340c85d67ebeb22bd382ba9707ff46c",
+    "ea6063e0270790fb42d70636aedf341071df479aa23216fe9d08f0280928dc46"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "【辟谣！两则资本市场“小作文”不属实】监管部门就两则市场“小作文”集中辟谣，明确相关传言均不属实，提醒投资者勿信勿传。此举释放出监管部门严肃整治资本市场信息乱象、维护网络空间秩序的明确信号。近期市场波动较大，资本市场虚假...",
-      "title_ko": "[루머를 질책하라! 자본시장 '소소한 에세이 2건은 사실이 아니다] 규제 당국은 시중에 나온 '소소한 에세이 2건'에 대해 관련 루머가 사실이 아님을 분명히 밝히고, 이를 믿지 않거나 유포하지 말라고 투자자들에게 당부하는 데 주력했다. 이러한 움직임은 규제 당국이 자본 시장의 정보 혼란을 바로잡고 사이버 공간의 질서를 유지하는 데 진지하다는 분명한 신호를 보냅니다. 최근 시장은 변동성이 심하고, 자본시장도 거짓입니다..",
-      "url": "https://wallstreetcn.com/livenews/3201734",
-      "ts": 1794983698
-    },
-    {
-      "source": "데일리방산",
-      "title_en": "한화에어로, 메탄엔진 독자 발사체 개발…2028년 첫 발사",
-      "title_ko": "한화에어로, 메탄엔진 독자 발사체 개발…2028년 첫 발사",
-      "url": "https://www.dailydefense.co.kr/news/articleView.html?idxno=3027",
-      "ts": 1794983716
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "ECB Interest Rate Probabilities",
-      "title_ko": "ECB 금리 인하 기대감 반영 확률",
-      "url": "https://www.financialjuice.com/News/9857251/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
-      "ts": 1794983782
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "SPIE signs an agreement for the acquisition of ENPROM Group, strengthening its high-voltage power engineering and installation capabilities in Poland and Germany",
-      "title_ko": "SPIE는 ENPROM 그룹 인수 계약을 체결하여 폴란드와 독일에서 고전압 전력 엔지니어링 및 설치 역량을 강화",
-      "url": "https://www.streetinsider.com/Globe+Newswire/SPIE+signs+an+agreement+for+the+acquisition+of+ENPROM+Group%2C+strengthening+its+high-voltage+power+engineering+and+installation+capabilities+in+Poland+and+Germany/27365636.html",
-      "ts": 1794983846
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "코스피 영업익 267% 폭증에도…상장사 10곳 중 4곳 적자[3분기 결산]",
-      "title_ko": "코스피 영업익 267% 폭증에도…상장사 10곳 중 4곳 적자[3분기 결산]",
-      "url": "https://www.fnnews.com/news/202611181434248847",
-      "ts": 1794983848
-    },
     {
       "source": "파이낸셜뉴스",
       "title_en": "제네릭 약값 16% 낮아진다…제약업계 '품목 매각·M&A' 재편 압력 [fn마켓워치]",
@@ -11504,6 +11469,41 @@
       "title_ko": "Waymo의 과속방지턱은 Tesla 주식에 나쁜 소식입니다",
       "url": "https://www.barrons.com/articles/tesla-stock-price-robo-taxi-waymo-3530ae95",
       "ts": 1795006831
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Fed’s Waller Says Fed Should Consider Half-Point Rate Hike",
+      "title_ko": "연준의 Waller는 연준이 0.5% 금리 인상을 고려해야 한다고 전해",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/fed-s-waller-says-fed-should-consider-half-point-rate-hike",
+      "ts": 1795006917
+    },
+    {
+      "source": "Wccftech",
+      "title_en": "AMD Teases CES 2027 With Possibility Of Unveiling Zen 6-Based Olympic Ridge Processors",
+      "title_ko": "AMD, CES 2027에서 Zen 6 기반 Olympic Ridge 프로세서 공개 가능성 예고",
+      "url": "https://wccftech.com/amd-teases-ces-2027-with-possibility-of-unveiling-zen-6-based-olympic-ridge-processors/",
+      "ts": 1795006983
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Nvidia Fallout Is a 'Catastrophe' for China, Former Intelligence Officer Says - NVIDIA (NASDAQ:NVDA)",
+      "title_ko": "엔비디아 낙진은 중국에 '재앙'이라고 전 정보 장교가 말했습니다 - NVIDIA (NASDAQ:NVDA)",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63381135/huang-china-nvidia",
+      "ts": 1795006986
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "Nvidia's revenue hits $115.8 billion as Vera Rubin generates $20 billion in another record-setting quarter — commitments increase to $390 billion, FY28 forecast raised",
+      "title_ko": "Vera Rubin이 또 다른 기록적인 분기에 200억 달러를 창출함에 따라 Nvidia의 매출은 1,158억 달러를 기록했습니다. 약속은 3,900억 달러로 증가하고 FY28 예측도 상향 조정되었습니다",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-revenue-hits-usd115-8-billion-as-vera-rubin-generates-usd20-billion-in-another-record-setting-quarter-commitments-increase-to-usd390-billion-fy28-forecast-raised",
+      "ts": 1795006989
+    },
+    {
+      "source": "The Verge",
+      "title_en": "Nvidia isn’t selling any more AI chips to China",
+      "title_ko": "엔비디아는 더 이상 중국에 AI 칩을 판매하지 않습니다",
+      "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+      "ts": 1795006993
     }
   ]
 }
