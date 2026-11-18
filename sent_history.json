@@ -1,13 +1,6 @@
 {
-  "updated_at": 1794991061,
+  "updated_at": 1794991209,
   "id_hashes": [
-    "d48c9b303b793b1bac078745c9e517f5098a6c528c9bd6f9d3955ab2bdb32679",
-    "a6e8c3a0a076d85aa992f75ef1698d135626baa7c1b512753e7c8f4a860138d7",
-    "1903e941fedc82fbc3a74bf81699af852e4e68c581f940e63d32b1945ad4ee45",
-    "ec6598ae47a8e94a8fa707b32f6c81ef9ea51a218b145b9ed0591d7309d9b73c",
-    "f906728977ecac21c06cb4cdbe4cc3ee1495f8048773c1ffe5cc83f356320501",
-    "752b0ec6cea46ce34dafe0e91c64ebdeab2c2517a9ae38933451357cff021724",
-    "86f0d9717cb39621653c6cb7ea2875c8d61565d467413c053a6ff9c1906915d6",
     "aeca7f69dceb8bf675be268bb59cab6a7b2189db0016e2661007d77cef5e91c4",
     "11de2e650e80cdbabc10f31ae36fb79d128c5baf31e4ff003d5693828723cd64",
     "6b2da0f0dffa2f131df8f2f100477ce541912a03317948ce854629461e33a3b4",
@@ -4000,16 +3993,16 @@
     "6c7fc02b66cc49bcfc8902d029f68887bceab80e24c25966f1c98e70121a0b6b",
     "ccac81ef73003451f7ff1af2e843147f6b244b1a460ef8de4782d7263cddedbd",
     "98945735e934e76e517b792c17f7c4487c43fc4ab18df05410faa188090fc376",
-    "cedb2825a29a84f30517ac3c650113e656148189764229e1d6631fa6de201161"
+    "cedb2825a29a84f30517ac3c650113e656148189764229e1d6631fa6de201161",
+    "b281a69a6772de5e434673880a4af3e8ee851442fc16a3adb459f1e9da47b4ab",
+    "14578b7e424cc53841638ca0f7c804519d97a36ecf80af6282afba47ef7f87be",
+    "86df54abc30ffb6b2861b5bb5b9a5b8abd15b382370abc99412ee84eaedd3019",
+    "3e42ce6baf8471623e249117c454142864c50cea14a65f75ab845d66e1e24480",
+    "0879ed254f81bc0ce83374e683393aac5dba1bc12c880cab3631632bc63376e2",
+    "3c1c0404adca3a52cc717d0e08eb04ba83954ac5e5b40e30509d6d32b647e448",
+    "a3fcdd5cd390fecf89fa54b1d35a8e870cc6cfb915e5abe4702fced347229883"
   ],
   "title_hashes": [
-    "d83fcee2d12a373b3449c78995eeae2461db96750dd047c92cd71c34ddecc220",
-    "6f833617e869766e463aa3a783587f6d715626074f1af6c6ab21604044e566a7",
-    "413df720f4e26ee20544f2f0f5c813c73aa40fa2326ab76d939d88d859bb266c",
-    "5b3283386a7774cc4456e4344d8c40ae41b9abb3abc244145b1f2eb633561429",
-    "cf1567060a6dceeb8a4d1624004b18874c77a1a69db65cb77bc0f0a1f6c49397",
-    "ed3afa5ef2533641c9cdbb7f0e95dbab447b1386a823e1e60a8266915436a0e6",
-    "7ee382440fa06726599e6352beeaa9eb36b8f0ace4efaa7c407055088ed1488f",
     "c854864b0f4e5a19605bb89e412cfa92c8dca15f7edf0bc0b052740d14f9f017",
     "b17ff58288a336a51a741914d8b38081112bfcac6154e858b10b6f0137cb62ef",
     "1bc0e4ea91569bf3e9ed9cf40a2a2262cf44af58f695b2088700c7c02292cb87",
@@ -8002,23 +7995,16 @@
     "d77ddf27da37cc2793dc199633a7f1012193f5def5c03a54d79b493f0bfbd67b",
     "ef40b27e497884efa38040e84a482c18f07f0cdd919de7c69b990f24d3990bbd",
     "8715bf69b1492b7c038fa53f9700d895b74233c73302c8f1bc55c24b78ce5854",
-    "47c05be8adb8781e4fab75be1c4b4cb51f72f3ba740df2aa9327885876c2045f"
+    "47c05be8adb8781e4fab75be1c4b4cb51f72f3ba740df2aa9327885876c2045f",
+    "e95034e52269ed4f41f73bc63f9aeb4c62f5d764267be4b0a8df16cfd8250008",
+    "23f31a9da517b357ca8ec5b63c4134451db217331d8d9acf4324a3c9fb874c69",
+    "801668bf51b66ab5a1461f93e85a63801dd747d6ef5d84a09d34f8eb02665eaa",
+    "fa5e908eae67ef724e125b32d0852c694f0854b85c09c18dbc9cfa8d21128a19",
+    "d0dc61861eaee83b627e4bfaf1d195c6080f759b32ea582cbcd8e8b13a6ef93d",
+    "83dae15f3e207da3d90a64b87061f0f2047c00e95b703d0a6638b6adb2c33422",
+    "1d171cf612ff74fc65c082952df2eb1597842c879e6f5b25d91b7385266ce440"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Yield on Japan's 20-year government bond edges down to 3.760%, declining 1 basis point.",
-      "title_ko": "일본 20년 만기 국채수익률은 3.760%로 1bp 하락했다",
-      "url": "https://t.me/firstsquaw/193669",
-      "ts": 1794964844
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "China central bank pumps 700.2 billion yuan via overnight reverse repos at 1.25%: statement",
-      "title_ko": "중국 중앙은행은 1.25% 금리로 익일 역RP를 통해 7002억 위안을 조달",
-      "url": "https://www.financialjuice.com/News/9856826/China-central-bank-pumps-7002-billion-yuan-via-overnight-reverse-repos-at-125-statement.aspx",
-      "ts": 1794964906
-    },
     {
       "source": "인포스탁데일리",
       "title_en": "삼성생명, 삼성전자 주가 하락 반영… 목표가↓-NH",
@@ -11504,6 +11490,20 @@
       "title_ko": "[AI는 지금] 안전 우려에 출시 접었던 오픈AI, 2개월 만에 신모델",
       "url": "https://zdnet.co.kr/view/?no=20261118172959",
       "ts": 1794991060
+    },
+    {
+      "source": "WSJ",
+      "title_en": "European Indexes Mixed as Tech Gains on Nvidia Results",
+      "title_ko": "유럽증시 혼조세… 엔비디아 실적 호조에 기술주 상승",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-0-led-by-chip-ai-stocks-b486ab61?mod=rss_markets_main",
+      "ts": 1794991143
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "STUBB SAYS EUROPE GOT ITS ACT TOGETHER FOR UKRAINE PEACE TALKS",
+      "title_ko": "스텁 핀란드 대통령 \"유럽, 우크라이나 평화 협상 준비 마쳤다\"",
+      "url": "https://t.me/firstsquaw/193821",
+      "ts": 1794991145
     }
   ]
 }
