@@ -1,33 +1,6 @@
 {
-  "updated_at": 1795024830,
+  "updated_at": 1795025010,
   "id_hashes": [
-    "eaae4f5b840abec26883599982a60f682ad18419aa486475d3f3a7d93f10c7fd",
-    "32acc32a3b3baff194d6fc64f16bddc89e5662d7d34603860e1f8192b34ad5c8",
-    "b607f76f0863b09c7a6f4bf96978fd68eecb0b1388f86490e3bef45bd8277956",
-    "dcdfb69031014b7056a75703ae491fa26b5c48c43c8e6a9c54015ce1842511d9",
-    "aefafb26555ddd574a9969671ce92db41f304a4fb424037acad5c87185363bd1",
-    "a5791b01593949aba1b876874194b5a9dfc8deea44211587447269b238aee4ef",
-    "32e863adb1e6289d7665288772e456f576b549348121f82c652e894a0568449e",
-    "75e446a124df32090577ddf5a12557e926231ca0fa96f0ea127083b0014e63d9",
-    "b059b8b2151ec27d83a75ef502e3abd563b6d743c2c01a563f3ed858a14202c6",
-    "0d3535677fdbdd63e2eb3396dc2b56af70c3df4204280c201b5f69a2dce877e7",
-    "69cd1b65baa7ed06054fc5da300ea70e562a103aa9f3a67156fef737115f4824",
-    "adbcd8daeebbc0ba1a741960a8304aa96f975d4393d62ad8afb309ea2ab24618",
-    "5e2f61e839428825bffc103722dd653d8fc71dd797ddb97346abd48738d96200",
-    "2e2e3f034ef1bb18ad19e47bc9467952a4cc4d1167da504c7a0eef89c67511c4",
-    "250de0f5739c704458cbe2ff3387e3f17bd7f7649c609412960a3fd9f2c318d0",
-    "99377ecbaaa92eed8d5bfe07b7bb3507d20dee416cce21f4ef71db0b89c545a4",
-    "acff360a6c59b157d5aa46d13a0d153443bc04a9d3f8c4407a0086445f083bfb",
-    "d9a214bf51df7c8a31a1ac3f3b35f1adc637c1c8421414d50848dbe81cef52e4",
-    "ef5606689714530cf0f405b4e3df0b4da028568ab00f7e4616b195af9e8718e4",
-    "618812a5b75e4a1a959e3e4ab4bad55303a62daabae7088bff5ecf3667d016d5",
-    "12c5dbd1fb47f3809ae4be5cbf4868c343fcb4da70be3efcda74ee4fc9b57b74",
-    "2ac5d7fcf22416da0574fe9ff184b0ac0529e775eb8e78c99b43b467f946ac96",
-    "fc4fcddcf3e479b2c19ae1a6acbdecb24302a09bbf49aa3237787e437d5515b0",
-    "7a5dacf2ae90978f3e7f916f96dd7ef6fb12dd4b36903abc483bae303e2ac977",
-    "40ae849070837bdbd5a3d82079a3ee03ea44ca998b80ac180a3208d29a5a777e",
-    "023e65069e8899f77416826f2ff63c7fb3edefd0b34ae18c26513f011ba5ecc1",
-    "bb44ff506525e8c29d88acdcecaac8f79abb3fea4f429b91b934d03da969c095",
     "59987535bfb9a085d499315fec3c15cb2fef72bc20cbf7c23308b0ac609eb20b",
     "88c5a677c91f33019b2ab8a4eaa4506d3e5956f378681b93ed3fc927466561c7",
     "0954f46bc5309d37e092456fee5042637848927fb20e766f09e7dfff760bda66",
@@ -4000,31 +3973,36 @@
     "3278ecac65ae794ccc7f155c4983ebd0a9053f6140d2087c58e8d4a9fde80011",
     "1d3ec10fc2f905f971cceaf536e96e44058f5a58cedc84c5e332e33695ecc49d",
     "b874f488e93db222a46c35bb4f6e587eb10d1633ac77469d3cb2f30dd631956e",
-    "2b3d165fe143e931f4afcbbdf5d8f2ba5e3a0ffd82b0025ae5680e7cbfd93727"
+    "2b3d165fe143e931f4afcbbdf5d8f2ba5e3a0ffd82b0025ae5680e7cbfd93727",
+    "0338c9fb23d6d23986f0509b8ebb7b0cbd85b72a8eeed75922f87d31d512d8ca",
+    "5b892a4da82ffd2e41f078f513312db1ee9e18f7c5bbaffff5daa255bbb0d91e",
+    "90a7a70475406201821739d043a2f8b21648470c4a34f211eb2f79b31924271f",
+    "dc6354a028b794a5ffe7c0d995e10f618acda8c317b6bfa738b4aabb681f47e0",
+    "027e23e1a89aefee8f4f522fd64f9e1d7c22e0719023487226fa86223b981afd",
+    "1615ecf1e37cc57b3409c0b52f5feab6dfbce3d159a67d943860818135da2bb2",
+    "c29bb03855703229650ce077b7d8be2567b7b95120d20918de5ee2cbced6b17f",
+    "96afe36298a880a75864755b45c9e633647dba55e62d8a7d0a273f9fe7bc408f",
+    "e311309bf7af66958cbbfaf36c4e09c7f960a1fbc3764bdb11bed20ccdcfd0c4",
+    "fd69358e486c09182cc3a696668295330496c2f6e53505799173c4c107b4108d",
+    "e3c3e296c0ac083f8f5752306b27b16009ca346b33df047d880f5e5ccdee1675",
+    "564cfafa2b17b57180ade8a0f4f10d59254ee104ffc6d670e5e1944261fe9dc1",
+    "9adee8acbdaae29324a2193a4155b388ba7694e8c190fa2dcb1a4c5e9e96e0e5",
+    "904de0141220a0e40254dc8d0d27a8b7f80d9f75b78fbe97243108514348a30a",
+    "e79980a3af1d77c76555cba8f88126354b5df6491ab5f91fb66ebc1b34976cfa",
+    "2cda0d12519d7d3488c517f6d77fb330ca5cb083cacc00b46fb9c82fa1b8ddc4",
+    "361defc18e5d8a9277045563176104b0bd4917bea98a385dcd798436e683612b",
+    "e9b3eda1b47ce13eb1bc6e58c5283f4d30c3e1e832b3f5ae07cc99aa7e60a61e",
+    "a73a89861d983a07c9832dba8c2ecc1ade3e7bfccb2afe80c608cfb41c7e5acb",
+    "a383c0a7f61d680ced4862d9affc95cb1bd8f008d5c53a85bb1df867d9fecd5f",
+    "27c78037f698666760758c3c9046251528a5647d53871e2cffa4b93cf9b733b4",
+    "989dbc1e381b74a349a22f6e5bd2b905e4ead20e411e565316cd3a579809e155",
+    "c83a6eafbf279e956a91ad5c02764b4be9b7b84941306a18b137bf98a65f17bc",
+    "3fc02d7df4cb4b516b46a52f562a33a62c591cd61a5e4d872c77f783da5b420b",
+    "e4daf87033ad9fea7f2feb963bd2b0190be97c3854a4cbeb18654bd129eca7b7",
+    "922a84eb2f75ea407c098953bfb5efbaa687d6f17ea98442d193b45e64b0b55e",
+    "9aa4b2286172865ada39adf0bf64820b66f6f27c343677c55e845fbac5a64dfe"
   ],
   "title_hashes": [
-    "35ee26670076a67d71cca8a32871003d19149353bd18dc2aef147b9035f782f9",
-    "f0694f207e6abeecb285c6a5dba5907652aa985f5451df945829113ab61b0600",
-    "0ceed968c73519eee01cd5de9d837980ef60c920cffbe04133d59846fa5a152a",
-    "26dafd20d32adafaae827e4c6856aa51d17ebc2cced96a331808ec1ccc65fa37",
-    "b68cac4d0fed634fe63ff2ecd51116ce91cf4d9c76cf18b77e292cb6672175b1",
-    "75c3352b4d536e22870e26a4e5b7d0490690f2d774b85de97e62444de604a696",
-    "885d44dc30e65a7a085f5291fb6189c1725edee2a2993c52d6191feb9a3ce478",
-    "15b94fffaed2d85d6d663185b3585c7bc575710bfbfb35d7a855002f0f92230f",
-    "6124a5f562581d1c764db0259ac55368dbdffe642d89092c08572955a0011e26",
-    "b1c69a178d934bded02d1bb9765e82224a7b8cc1b6c2a449c29e839af3302594",
-    "9ecc2ee1f90a0d2b470d998013ba2343627130b52af98614fbbe7e893fb0c1ca",
-    "8adeee791a4ef825d51746dc5a42659260cc2950cb8bf42f8f96c7f417cc960f",
-    "505f53650e098fd47531731fa8a68fad86275b81945f600c20d9a2e37f3c3e7a",
-    "e1269586d982cee08078d3603d010e51064eb6ecc4e2126837742e9443612882",
-    "db6b1650735fec1f31a2babeec72e0a5f810ab5d92b1c02f442871d5ae6561b6",
-    "cca4d2d182ef30c9b3159eb95d80e9da3636b53a538192ce4dd5ba82532a08d7",
-    "04f2617a8d265ba2f42864464e4acb6334265492c9ddfad1e6179296323ee5f4",
-    "235730a3e5fa9bc1975145336d4ea6cd921a361e973203b21bdec5e385d1696e",
-    "9034d1f6700e8d9fdd1ae63d20889ea3738f874691af187c3374020457484b46",
-    "a808767d917dcbb245ef96a0ac55971f2e1fbe36bb3739ad0751fc11ee81d203",
-    "e703f3686437d827ed2660fda18ae3dfeb9e5172af92acbf85216355a3cd55db",
-    "95595c3cb8a03d8fb937f8025d03c5f63cdcf6feb4128947e9d2a5a336ededc9",
     "d10526509e4def78b3b36892d4c46e79480432a95536f07508472cae2a2af1fb",
     "fd625f31b57d1f2216a7fc0ba72f1bf289ebd89b418531230c7ad3ae00453381",
     "596a8ef8069369f927f9776703e48488236ce599848f730a1e2ae85c5c0b40b6",
@@ -8002,72 +7980,31 @@
     "eea317449271a4383c9bbab18a7cd4ffa11fe54465469787f0c41edc26e8b0b6",
     "1ed7e1198826a00a221137c7c73a7b374fa44e9c5c153ca86f4b10d0cedbdf45",
     "4f3993e53c6927642aca3c0791df40db8af00deea1eede51fa9b17072f90cfec",
-    "65e4d3ec7ad3ea426d36180b84ed8766e3d7eb59888bc362e80e3e850e1090f1"
+    "65e4d3ec7ad3ea426d36180b84ed8766e3d7eb59888bc362e80e3e850e1090f1",
+    "f64bb40a5e7175051e749e621293ad2506f722da8d1eae04ee4e69a0152025fb",
+    "04ea71dd3d92b6c85ce3f651c5555549b656e7f8dd06abc67aaaec7d9e77cc5a",
+    "5a874760ec06636be30fec0885241bd3eca2c98a88c6e477d93f838b477d6d97",
+    "88e9ea89ee14afce5b40b07a18109a8b21c0e33e8983c3d67e49cc03c953e116",
+    "4f913b2b275ea4d7ac03420486bc7a800dabf240c18f75f076e398be18aa7a84",
+    "cfe52214f3cfd6d2c0dbb9bc12dd556d2ef90e2b72f6335c563a9f80594fd304",
+    "89de1fc2a79e5213de22b9ce2c7201284910760faa7976a87668ba36d7aa05a8",
+    "2af01a2b32a661a757fcd80b51592811844bb5a91e5e88e9c168c93ad24d549a",
+    "4a8cb655f0ffa7ecf66c952ccd2e5d9b49f202d24fb75275f8c8a90804f7191a",
+    "e855d6e151a5d9bf29764f506c981797427b5399ce166cb4c4af3a03ea22baac",
+    "739d36f26fdcde91931c816eb4ac92920617b1eaca4fe34f5241109e2152c0b6",
+    "f01ef64f5ac964ea7e174e47bc55d64a61f0171084a7478ba317ca843b561cce",
+    "a727f5b6b1b54828c5cb575dfaebaf9039c0e225aef67a5c9a61bb3e2c6700fd",
+    "e536bf0ab08b45994dec7bd587c3f4b3b3116390920dd6da55093b47eff5095b",
+    "6d1ed63fc3ff133361801abfd2d1a9c7b0dfb70073014bc750171459131aced6",
+    "ea254967d1ab0184b32c87f7572c1f2870ac852c4737f39ee645e7398ff7a98c",
+    "1af97ddd74167df2ba1abb6e01f00c9bc56124bd575cf7d4d3cad805b946d1e4",
+    "314bb126be89c9cfd0535add618bf42112141a293755ff2b9ffbbfb0e1efd350",
+    "36e3f0d5e508d4ec38d78d2acbda463f3744759149756b33e270520263915ca1",
+    "9171c087c714d95b2f715b814b09305ea3b9fd276433da5711157258e6e6ed37",
+    "79bed1d139bdaff8758446b8deb3d349e83714fcbd4ff67ba66c06f126ac613f",
+    "731319f0540f288aa491d49dc2528d2a20895eb0707361c3193efe95f6d50fa5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "EU Cyber Resilience Act forces chip buyers to look past the price tag",
-      "title_ko": "EU 사이버복원력법(CRA), 칩 구매 시 가격 외 보안 역량 의무화",
-      "url": "https://www.digitimes.com/news/a20261118PD224/security-eu-price-silicon-labs-chips.html",
-      "ts": 1794992610
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Samsung chip unit accounts for 93% of capex as R&D hits record",
-      "title_ko": "삼성전자 반도체 부문, R&D 역대 최대 속 전체 설비투자의 93% 차지",
-      "url": "https://www.digitimes.com/news/a20261118VL223/samsung-capex-2026-2025-revenue.html",
-      "ts": 1794992614
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Nvidia leadership change could open doors for rival AI chipmakers",
-      "title_ko": "엔비디아 경영진 교체, 경쟁 AI 칩 제조사에 기회 될 수도",
-      "url": "https://www.digitimes.com/news/a20261118VL225/nvidia-amd-chips-ceo-google.html",
-      "ts": 1794992620
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "美股大型科技股盘前多数上涨，SK海力士涨超4%，美光科技、英伟达涨超3%，特斯拉涨超1%。",
-      "title_ko": "미 증시 대형 기술주 프리마켓 강세... SK하이닉스 4%·마이크론·엔비디아 3%·테슬라 1%대 상승",
-      "url": "https://wallstreetcn.com/livenews/3201823",
-      "ts": 1794992622
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "UBS YEAR AHEAD 2027: SUSTAINING RESILIENCE",
-      "title_ko": "UBS 2027년 전망: 회복력 지속 강조",
-      "url": "https://t.me/marketfeed/1080459",
-      "ts": 1794992673
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "小马智行第三季度营收4,460万美元，预估3,750万美元。\n\n第三季度调整后每股亏损0.11美元，预估每股亏损0.17美元。",
-      "title_ko": "위에이전 3분기 매출 4,460만 달러… 예상치 3,750만 달러 상회 / 3분기 조정 주당순손실 0.11달러… 예상치 0.17달러 손실보다 양호",
-      "url": "https://wallstreetcn.com/livenews/3201825",
-      "ts": 1794992680
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "AI to lead 2027 smartphone upgrades as market slows",
-      "title_ko": "스마트폰 시장 둔화 속 2027년 업그레이드는 AI가 주도 전망",
-      "url": "https://www.digitimes.com/news/a20261118PD204/2027-hardware-2026-price-market.html",
-      "ts": 1794992741
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Foxconn deepens Nvidia ties across next-gen GPU, networking platforms",
-      "title_ko": "폭스콘, 차세대 GPU 및 네트워킹 플랫폼서 엔비디아와 협력 강화",
-      "url": "https://www.digitimes.com/news/a20261118PD249/foxconn-nvidia-gpu-manufacturing-shipments.html",
-      "ts": 1794992744
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "China's Xi to greet Trump at APEC summit arrival",
-      "title_ko": "시진핑 중국 주석, APEC 정상회의 도착하는 트럼프 영접 예정",
-      "url": "https://www.financialjuice.com/News/9857463/Chinas-Xi-to-greet-Trump-at-APEC-summit-arrival.aspx?xy=rss",
-      "ts": 1794992747
-    },
     {
       "source": "FinancialJuice",
       "title_en": "OpenAI: Le Groupe Figaro and OpenAI collaborate to bring Le Figaro journalism to ChatGPT",
@@ -11504,6 +11441,69 @@
       "title_ko": "Apple Creator Studio에 Final Cut Pro용 MotionVFX, 새로운 Pixelmator Pro 기능 등 추가",
       "url": "https://9to5mac.com/2026/11/18/apple-creator-studio-adds-motionvfx-for-final-cut-pro-new-pixelmator-pro-features-more/",
       "ts": 1795024829
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Treasury WI 20-Year yield 5.459% before $16 billion auction",
+      "title_ko": "160억 달러 경매 전 재무부 WI 20년 수익률 5.459%",
+      "url": "https://www.financialjuice.com/News/9858332/Treasury-WI-20-Year-yield-5459-before-16-billion-auction.aspx?xy=rss",
+      "ts": 1795024855
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "UKRAINE’S ZELENSKIY: COALITION OF WILLING TO MEET ON 19TH NOVEMBER",
+      "title_ko": "우크라이나 젤렌스키: 11월 19일 회의 의지 연합",
+      "url": "https://t.me/firstsquaw/193915",
+      "ts": 1795024920
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "ZenaTech (NASDAQ: ZENA) Launches ZenaStudios Entertainment Division With Original Streaming Series and Fi",
+      "title_ko": "ZenaTech(NASDAQ: ZENA), 오리지널 스트리밍 시리즈와 Fi를 갖춘 ZenaStudios 엔터테인먼트 사업부 출범",
+      "url": "https://www.benzinga.com/content/63402601/zenatech-nasdaq-zena-launches-zenastudios-entertainment-division-original-streaming-series-and-film-",
+      "ts": 1795024991
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Wrap Technologies (NASDAQ: WRAP) Highlights Alignment With Senate Committee Priorities for Non-Lethal Tec",
+      "title_ko": "Wrap Technologies(NASDAQ: WRAP)는 치명적이지 않은 Tec에 대한 상원 위원회 우선순위와의 조정을 강조합니다",
+      "url": "https://www.benzinga.com/content/63402599/wrap-technologies-nasdaq-wrap-highlights-alignment-senate-committee-priorities-non-lethal-technologi",
+      "ts": 1795024995
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Versus Systems (NASDAQ: VS) Takes Filter Fan Cam Beyond the Stadium Screen with Mobile AR Experience",
+      "title_ko": "Versus Systems(NASDAQ: VS), 모바일 AR 경험으로 경기장 화면 너머에 필터 팬 캠을 설치",
+      "url": "https://www.benzinga.com/content/63402598/versus-systems-nasdaq-vs-takes-filter-fan-cam-beyond-stadium-screen-mobile-ar-experience",
+      "ts": 1795024998
+    },
+    {
+      "source": "The Verge",
+      "title_en": "Google is forcing Android app developers to properly support foldables",
+      "title_ko": "Google은 Android 앱 개발자에게 폴더블을 적절하게 지원하도록 요구하고 있어",
+      "url": "https://www.theverge.com/tech/1036796/google-android-app-games-developers-foldables-support",
+      "ts": 1795025000
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Egan-Jones Examines What the Tesla Roadster Demo Signals for Automakers",
+      "title_ko": "Egan-Jones는 Tesla Roadster 데모가 자동차 제조업체에 미치는 영향을 조사합니다",
+      "url": "https://www.streetinsider.com/PRNewswire/Egan-Jones+Examines+What+the+Tesla+Roadster+Demo+Signals+for+Automakers/27369269.html",
+      "ts": 1795025003
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "美国财政部拍卖20年期国债，得标利率5.459%，投标倍数2.63。",
+      "title_ko": "미국 재무부는 입찰 금리 5.459%, 입찰 배수 2.63으로 20년 만기 국채를 경매에 부쳤다",
+      "url": "https://wallstreetcn.com/livenews/3202109",
+      "ts": 1795025006
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "US WEIGHS RULE FORCING COMPANIES TO DISCLOSE USE OF CHINESE AI MODELS",
+      "title_ko": "미국, 기업들에 중국 AI 모델 사용 공개를 강제하는 규정 적용",
+      "url": "https://t.me/firstsquaw/193918",
+      "ts": 1795025009
     }
   ]
 }
