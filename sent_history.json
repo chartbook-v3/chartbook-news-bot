@@ -1,26 +1,6 @@
 {
-  "updated_at": 1795008802,
+  "updated_at": 1795008967,
   "id_hashes": [
-    "01f433dc65da06889983c1d42ac4d46961c65de0ebcab8a792bcea3829c4f2c9",
-    "283e9b70f19113c9dacfb784a858e114c604ddb36e05c73172e5be9a67cfaab9",
-    "46aac03e1d5a0dcb2b1550eea56183434e268fb6b891f9f0b2464b8a8601bc38",
-    "6f283ce7c767bbbfa1c45e1c9a56f47061ad9f52ffdf7865e3f812c61e3d934b",
-    "855d9fd6ef105637e68233736f3018f8a23fcca8e6e0542aaf41c8a026ad11b7",
-    "ead1c1696224b4718e5084bb3b2112729a21fc123f67ed579f967ed7903d5d74",
-    "c3e944634599bb26747262eaca31ad44aec7a6006abce42326d875c609ed8d3c",
-    "c6ac8cceb2480d2b5da79216c92f26cb566627ed4e85151590b94e30b8dbdf53",
-    "325e9bcabacfee17b546093857ec57423f95e4bbeaa6414166e0d6d7dcaa3501",
-    "0f352d9bbb77c19572132e96505f79d549f429c542b46b67bf1885e08c62d95d",
-    "78d837d0456980e2f5fb94e3afec84c467ae80f10922a6d009db8c3e42dd6bb0",
-    "3ceef4faba5935ae6fa14283da04fc461daa13be3abf9fbf0ceeda7f2a3fff31",
-    "81ce9b63b435777bb6a2eda1dcc800100b8270e7a800ce3d810197c4fca89a84",
-    "be9406f9fae4dba630d65f66e7d7e57255a1a697eb8807dcce9cf280703a0e04",
-    "557fc16a63673ae9ff6e5d8b3ef6523684a4fe6a4f8ef4e6ce1c1f1862797f2d",
-    "b834d5b4483b8ef36f09c3f3665777610b2613273fcde9c65f24332c46bd84eb",
-    "159848775ffc0440cfd91d0253798abf0e9bbc7f73977c14a593df96a7a91014",
-    "922820f81c9075161c0a018840b5188b66e1f6ba2491c43c48f0942d1c2edb6d",
-    "4d423ccb283bac57d710a4506379fe037766c983a98eb9c9f31d26e725ee0793",
-    "1a760ec2cd557c405493e6793de1e9520dab69aec322b303a0be949cbc5f01c0",
     "3f90bdc4739559cd2e00b9f46bfd743f9f423ea5912ccdbfb40a43093cbadd4b",
     "1ad41d9669438593cdbaaeae2aaf9b54f3d2774a8da54aea7f898b8296236fd0",
     "9eb1bb0dafe0ca7b48dae03656f2d7658b7070c3067b0c4c12ed96035b010412",
@@ -4000,28 +3980,29 @@
     "4d6eaa1ba867b8e889eadffcda0a147b8e667e0549c089c1b090518930ce638e",
     "8956f2234b02584a39d9409366c71ebe92e35fa92e40d7d980a822abbccc88a5",
     "b46913d1d7c48ef6b6ffd2e7249b6dadf6d199d19cbc5b69080763fb7d81234b",
-    "2a8c8f952fd51760e44ebb672e8c745bcfda774d57605e96269fb1bcaf01f725"
+    "2a8c8f952fd51760e44ebb672e8c745bcfda774d57605e96269fb1bcaf01f725",
+    "3ed508ab6e7c1b9c44ad1818fc521c0c0357ef3c6b82d5ed808599f543612b4e",
+    "ff9973aab4cd4e35571758265bfc8fc528db853ce265a3432eabead82b72e69f",
+    "94bf0fe909c28ee5148560d0581e0c17093a39970074b4515a65c856b14f610a",
+    "bcc534393b14d8624fad58fef7c948fefa01c9362ead8c90618095fa644880a0",
+    "20399976c809385f1a34c73d97bd4c2b565a704d1b1e22a11665e01c616e01a0",
+    "570bb2f4733cecb4a78463a3f195d6b7530a86cf26a81c3be7cdb31cad513ecc",
+    "155230b86dfb89a35f93aefe6b95f24ac104c81a8494863918306f48fc1908ad",
+    "d90867dd6156397ca6cf4741538b183bf27e445f637b946ee77b79a256dd05ad",
+    "9e4a6c46132e9604471a9f756e6cfa82b8f1dc5c02a126e394f2c41ad00b2974",
+    "52be4421c734524224e7a3190c80dcfcc9214b6620d436fd8f4ca9cdb19fdc7f",
+    "7c757277781eb874eae4449a141d2c0462be50487473b150f4f759ac84ee0a95",
+    "fa8997c6860cb67a1bc3796c46614ca3153d8080862b43f13607a2c2ecba882c",
+    "f4c55a657b41c2f0e1ddc646e568a4716c17697f9e095721f7a551acee934230",
+    "3cbc3d0fa0fae0e5029cb743fb3c659d25b9337575030afb15f116134de05f9f",
+    "5816b7937e2a3e4df7c3f472818f636e7d81eafe2547d7cf34393a9ed9913982",
+    "1924fcca0f8761cdb7d20a5692a12d0f727c6b1e8f8007f2f94bf980456cc3a9",
+    "1ab97b3941835bc8d3c2abc60d347f6a82133dd9fcf009550b0ee94cfc135097",
+    "58b375be3c587e2e3217c854a5414c530f45af873cbdb163ab598382b819d937",
+    "cb73489854d48a7cdb30605e29f94d7a23103e6af840e21b514761b1b51e81ab",
+    "7912ee042f288783bf53d114da8a413995be1bbc4c91d54454ccc9d28cde6751"
   ],
   "title_hashes": [
-    "94f002dd84fbf70e188f2a7a38e506879f40c0531610e58ec49ec13d32fd6753",
-    "b5840ccad5d10cfcf71d05c850e3a687c8d81c9534974fbdb28bc9997c876898",
-    "b0ecf48292e40e877925447e2aca759830c96c3da892aaa8bac09d3f003b4510",
-    "17f2ab32a3f205d25e363793488b1d7ebdccdf35ed11b6f8ca63497243c45a65",
-    "e68d6247dda05191f563cef1a8b2785c9c018a6d0e9fc615e7fad7c382adbc5c",
-    "462b7edb695ae85aa6f39342dc07aabf04d075743a303c230b6a000ec3f31ff5",
-    "85261f685fa2601eb831712bc7f6feafadda0c30cf4ff0faf49ff19d1c90b825",
-    "986a8d5a1993882b94eb9d755cbc223570e3767902b3e5860a1a229b55d7f59f",
-    "af3905df1073cfc0312b7f4f8845a8aaf0f745a00164b4c45661a47cc59e1baa",
-    "83f9cf179758994e8b86b1ad4607384d9243579ef271444f4ec2bd2d2b9299cb",
-    "ca04d731d874ee07f3ee28c10c43e04a0ff5a9e82dc2cefb5491283e1cdda039",
-    "1a1930960c16c292a392ab729599b6a2ba37111c5ce5543221d12fe28af30314",
-    "6a05b667a0d468ae4d16c4566b686dad597c0b129ad1f5815cdad0ad7fdb3b6b",
-    "e659f5035d692f6d441e82a58b6fbc3dec4164a18d2b23b39fd3cb831a5188ba",
-    "da19df9e664900f210763e9bf19a69c1ed313eb9e93fa87346c88191e285b794",
-    "e57c17d2e29eda1bb4bfc18219c69a78e0bb67f2706bb3c0a7df1696a0b015cf",
-    "641f98be8b8e1d1499cd3675861c502a89714e6e844566c6b0510b23cd1a63b1",
-    "ebacfe712116b613fed80c8570f7c36b86786387d65b69f8437150e85e02e21b",
-    "4a0fa4a4318f51725f7bb8cb25059dfb4ec41cf7225c7200836f513527e299a7",
     "cc12b9c66fb5b6423b295513e66390e9dd9140963f45c92a089e4cedbdbdfedb",
     "9c247975a2db30617bf64e39f1355a2a03ca9d4b8451a33ac2f82e20a314bfc6",
     "c42cde3ada272e6d7ef89e5e399f21ddc56e9e509dba337e0f379edc6a96a48a",
@@ -8002,44 +7983,28 @@
     "4a4df8631fed0c4f4767388d55dce4aec0d2e747be47f3c7e181e53c16ff1c3e",
     "fc2893ae674121c0c6c820db29f023c54c1c4fc77b80af7f1a315524ab075b3e",
     "1b7ff025332326d58a0c24aa37920780af63272f4d9fed243330f0e6f34062e8",
-    "eee0ed7f15e855a3872e5749f24732309d4e05adc9502bd1e83ed68fa8f4379e"
+    "eee0ed7f15e855a3872e5749f24732309d4e05adc9502bd1e83ed68fa8f4379e",
+    "86313283015571c6fab531b7af8261efa8f65d250b68b3d5189d7411e5ec2d13",
+    "39d985f5bb37082e048ce163833047b2abf884d0bff6fb20440824d9a544affd",
+    "37ef8ccea0f3366b212d6f87a267b3a89655bfc498b762e31c6477b52769aa83",
+    "41c30f5c21aa9048cd5db36d427f327d30193b0d752b7810fb07efd91c84ad49",
+    "b5884b9a24a8569b5c2065b66f00697c5bfc62156bdb597b97338e25400e7137",
+    "9f15478153d5178f716910bc47a98e0d46c8a669de0e16358442a8ef4038cbe4",
+    "22cf9d91bcbe6e853c312a5956d19f7a82a5c4dae1beae86ec870278c0cc7aab",
+    "f84f0ead3463acb758b24b383b8d7b1942d9ab4a38b754f3fd84c54ccec7df25",
+    "aae4553f3667fb0e8c5b1b3f7ca712431e3ed728bc297f2efa57788386c683fc",
+    "56cf453bbfb5cb14b01f56572a94e7956dd22a3058bcf671bdb80be336c94697",
+    "a51671f4beb552a696d8cc57548a129ae5434bb7605dd0619f4a4efe42f5d396",
+    "b56549df0631722b0eebd714fe2d67a1f9cfcc9b00a6c234dcf852c0847de23f",
+    "5950a8c461f8a051b02ebf548d84fabfbaee0586031f5fed5abe634e89ace960",
+    "45712783ac89f8517f6a51c2217497fa32987f3816004d82799cc98b3ea78313",
+    "0c8c14aff7af60a18c1dd53309486738d147b3236177558457389c0817ca48c0",
+    "de4f45dcf2ffe97f1338464cccc50b545c8918407d841ba0fcec9e0ff46a7198",
+    "c3c28ab8bf7396905bf4acb83f27a4cd1c39b69d6fcf5e8f666bf315e04167c8",
+    "d015a79e1ca889a8d017542e79d31488daed128c3f43bce79ef9d5306ab94a0a",
+    "66f93f52951622558b7a777aa452eab42e66992b94f3eed8260abc9165d61365"
   ],
   "recent_sent_articles": [
-    {
-      "source": "The Information",
-      "title_en": "Finally, a Next-Gen Battery Deal: Panasonic to Pay $1 Billion to Sila Nano",
-      "title_ko": "마지막으로 차세대 배터리 거래: Panasonic, Sila Nano에 10억 달러 지불",
-      "url": "https://www.theinformation.com/newsletters/the-electric/finally-next-gen-battery-deal-panasonic-pay-1-billion-sila-nano",
-      "ts": 1794985751
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "印尼央行：预测2026年印尼GDP增速为4.9%-5.7%。",
-      "title_ko": "인도네시아 중앙은행, 2026년 GDP 성장률 4.9%-5.7% 전망",
-      "url": "https://wallstreetcn.com/livenews/3201761",
-      "ts": 1794985910
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "삼성전자, 국내 반도체 장비 옮겨 오스틴 재편… “美 공장 ‘이원화’ 전략”",
-      "title_ko": "삼성전자, 국내 반도체 장비 옮겨 오스틴 재편… “美 공장 ‘이원화’ 전략”",
-      "url": "https://biz.chosun.com/it-science/ict/2026/11/18/MRQGZESE3RGENLOCA3P2Z25ZMM/",
-      "ts": 1794985929
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "갤럭시아머니트리, 韓·日 스테이블코인 무역송금 실증",
-      "title_ko": "갤럭시아머니트리, 韓·日 스테이블코인 무역송금 실증",
-      "url": "https://biz.chosun.com/stock/finance/2026/11/18/AMOM6D7QN5FBXP42BZ2RDAMW24/",
-      "ts": 1794985931
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "India Weighs Tax Tweaks to Boost Stock Trading, Curb Derivatives",
-      "title_ko": "인도, 주식 거래를 촉진하고 파생 상품을 억제하기 위해 세금 조정에 무게를 두고 있음",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/india-weighs-tax-tweaks-to-boost-stock-trading-curb-derivatives",
-      "ts": 1794986061
-    },
     {
       "source": "Benzinga",
       "title_en": "Trump Reportedly Traded Over $97 Million Worth of Nvidia Stock in 2 Years — Elizabeth Warren Wants Congre",
@@ -11504,6 +11469,41 @@
       "title_ko": "캐나다 10월 월간 주택 가격 0.1% 하락 - TERANET",
       "url": "https://t.me/marketfeed/1080654",
       "ts": 1795008801
+    },
+    {
+      "source": "MarketWatch",
+      "title_en": "Economic data: Minutes from the Fed’s latest meeting could provide tea leaves",
+      "title_ko": "경제 데이터: 연준의 최근 회의 회의록에 찻잎이 제공될 수 있음",
+      "url": "https://www.marketwatch.com/bulletins/redirect/go?g=7ba6535c-61a0-44b1-9eda-3b31f09b808e&mod=mw_rss_bulletins",
+      "ts": 1795008822
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Stocks Rise After Nvidia Earnings; Xi Welcomes Trump",
+      "title_ko": "엔비디아 실적 호조에 증시 상승… 시진핑, 트럼프 환영 메시지",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-18/bloomberg-brief-11-18-2026-video",
+      "ts": 1795008952
+    },
+    {
+      "source": "9to5Mac",
+      "title_en": "Leaker claims Apple developing four models of 20th anniversary iPhone",
+      "title_ko": "유출자, 애플이 20주년 기념 아이폰 4개 모델을 개발 중이라고 주장",
+      "url": "https://9to5mac.com/2026/11/18/leaker-claims-apple-developing-four-models-of-20th-anniversary-iphone/",
+      "ts": 1795008960
+    },
+    {
+      "source": "디일렉",
+      "title_en": "STX엔진, 665억 규모 해안감시레이더 공급 계약 수주",
+      "title_ko": "STX엔진, 665억 규모 해안감시레이더 공급 계약 수주",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65634",
+      "ts": 1795008964
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "10 communication services stocks that surpassed Wall Street's Q3 earnings expectations",
+      "title_ko": "월스트리트 3분기 실적 예상치 상회한 커뮤니케이션 서비스 주식 10선",
+      "url": "https://seekingalpha.com/news/4674132-10-communication-services-stocks-that-surpassed-wall-streets-q3-earnings-expectations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795008966
     }
   ]
 }
