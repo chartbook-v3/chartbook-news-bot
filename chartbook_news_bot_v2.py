@@ -196,6 +196,24 @@ PUBLISHER_NORMALIZE = {
     "딜사이트": "딜사이트",
     "dealsite": "딜사이트",
     "인포스탁데일리": "인포스탁데일리",
+    "파이낸셜뉴스": "파이낸셜뉴스",
+    "fnnews": "파이낸셜뉴스",
+    "fnnews.com": "파이낸셜뉴스",
+    "아시아경제": "아시아경제",
+    "asiae": "아시아경제",
+    "asiae.co.kr": "아시아경제",
+    "뉴스핌": "뉴스핌",
+    "newspim": "뉴스핌",
+    "newspim.com": "뉴스핌",
+    "이투데이": "이투데이",
+    "etoday": "이투데이",
+    "etoday.co.kr": "이투데이",
+    "한국경제tv": "한국경제TV",
+    "wowtv": "한국경제TV",
+    "wowtv.co.kr": "한국경제TV",
+    "mtn": "MTN",
+    "머니투데이방송": "MTN",
+    "mtn.co.kr": "MTN",
 }
 
 # 스쿼크 헤드라인 끝("- FT", "- WSJ") 또는 서두("AFP:")에 붙는 신뢰 매체 화이트리스트
@@ -442,7 +460,7 @@ FEEDS = [
         "url": "https://seekingalpha.com/market_currents.xml",
     },
 
-    # 🇰🇷 한국 Top Tier (공식 직결 RSS + 속보/단독/카더라 신디케이션 통합)
+    # 🇰🇷 한국 Top Tier (공식 직결 RSS + 주도섹터·증권리포트·속보 신디케이션 통합)
     {
         "name": "연합뉴스",
         "tier": "TOP",
@@ -456,6 +474,12 @@ FEEDS = [
         "url": "https://www.yna.co.kr/rss/economy.xml",
     },
     {
+        "name": "연합뉴스",
+        "tier": "TOP",
+        "type": "rss",
+        "url": "https://www.yna.co.kr/rss/industry.xml",
+    },
+    {
         "name": "한국경제",
         "tier": "TOP",
         "type": "rss",
@@ -465,7 +489,31 @@ FEEDS = [
         "name": "한국경제",
         "tier": "TOP",
         "type": "rss",
+        "url": "https://www.hankyung.com/feed/economy",
+    },
+    {
+        "name": "한국경제",
+        "tier": "TOP",
+        "type": "rss",
         "url": "https://www.hankyung.com/feed/it",
+    },
+    {
+        "name": "조선비즈",
+        "tier": "TOP",
+        "type": "rss",
+        "url": "https://biz.chosun.com/arc/outboundfeeds/rss/?outputType=xml",
+    },
+    {
+        "name": "파이낸셜뉴스",
+        "tier": "TOP",
+        "type": "rss",
+        "url": "https://www.fnnews.com/rss/r20/fn_realnews_stock.xml",
+    },
+    {
+        "name": "파이낸셜뉴스",
+        "tier": "TECH",
+        "type": "rss",
+        "url": "https://www.fnnews.com/rss/r20/fn_realnews_industry.xml",
     },
     {
         "name": "전자신문",
@@ -477,13 +525,25 @@ FEEDS = [
         "name": "한국탑티어속보",
         "tier": "TOP",
         "type": "gn_rss",
-        "url": "https://news.google.com/rss/search?q=(%22%EC%86%8D%EB%B3%B4%22+OR+%22%EB%8B%A8%EB%8F%85%22+OR+%22%ED%8A%B9%EC%A7%95%EC%A3%BC%22)+(site:einfomax.co.kr+OR+site:yna.co.kr+OR+site:hankyung.com+OR+site:mk.co.kr+OR+site:sedaily.com+OR+site:edaily.co.kr+OR+site:mt.co.kr+OR+site:biz.chosun.com)+when:1h&hl=ko&gl=KR&ceid=KR:ko",
+        "url": "https://news.google.com/rss/search?q=%28%22%EC%86%8D%EB%B3%B4%22%20OR%20%22%EB%8B%A8%EB%8F%85%22%20OR%20%22%ED%8A%B9%EC%A7%95%EC%A3%BC%22%29%20%28site%3Aeinfomax.co.kr%20OR%20site%3Ayna.co.kr%20OR%20site%3Ahankyung.com%20OR%20site%3Amk.co.kr%20OR%20site%3Asedaily.com%20OR%20site%3Aedaily.co.kr%20OR%20site%3Amt.co.kr%20OR%20site%3Abiz.chosun.com%20OR%20site%3Afnnews.com%20OR%20site%3Aasiae.co.kr%29%20when%3A1h&hl=ko&gl=KR&ceid=KR:ko",
     },
     {
         "name": "한국경제·인포맥스",
         "tier": "TOP",
         "type": "gn_rss",
-        "url": "https://news.google.com/rss/search?q=(site:einfomax.co.kr+OR+site:hankyung.com+OR+site:mk.co.kr+OR+site:biz.chosun.com)+(%22%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%22+OR+%22SK%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4%22+OR+%22HBM%22+OR+%22%EC%97%94%EB%B9%84%EB%94%94%EC%95%84%22+OR+%22%EA%B8%88%EB%A6%AC%22+OR+%22%ED%99%98%EC%9C%A8%22+OR+%22%EA%B4%80%EC%84%B8%22+OR+%22%EC%9D%B8%EC%88%98%22+OR+%22%EC%88%98%EC%A3%BC%22)+when:1h&hl=ko&gl=KR&ceid=KR:ko",
+        "url": "https://news.google.com/rss/search?q=%28site%3Aeinfomax.co.kr%20OR%20site%3Ahankyung.com%20OR%20site%3Amk.co.kr%20OR%20site%3Abiz.chosun.com%20OR%20site%3Asedaily.com%20OR%20site%3Afnnews.com%29%20%28%22%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%22%20OR%20%22SK%ED%95%98%EC%9D%B4%EB%8B%89%EC%8A%A4%22%20OR%20%22HBM%22%20OR%20%22%EC%97%94%EB%B9%84%EB%94%94%EC%95%84%22%20OR%20%22%EA%B8%88%EB%A6%AC%22%20OR%20%22%ED%99%98%EC%9C%A8%22%20OR%20%22%EA%B4%80%EC%84%B8%22%20OR%20%22%EC%9D%B8%EC%88%98%22%20OR%20%22%EC%88%98%EC%A3%BC%22%20OR%20%22%EC%8B%A4%EC%A0%81%22%20OR%20%22%EA%B3%B5%EA%B8%89%EA%B3%84%EC%95%BD%22%20OR%20%22%EC%9E%90%EC%82%AC%EC%A3%BC%22%29%20when%3A1h&hl=ko&gl=KR&ceid=KR:ko",
+    },
+    {
+        "name": "K-주도섹터",
+        "tier": "TOP",
+        "type": "gn_rss",
+        "url": "https://news.google.com/rss/search?q=%28site%3Ahankyung.com%20OR%20site%3Amk.co.kr%20OR%20site%3Asedaily.com%20OR%20site%3Abiz.chosun.com%20OR%20site%3Afnnews.com%20OR%20site%3Aasiae.co.kr%20OR%20site%3Aedaily.co.kr%20OR%20site%3Aeinfomax.co.kr%29%20%28%22%ED%95%9C%ED%99%94%EC%97%90%EC%96%B4%EB%A1%9C%22%20OR%20%22%ED%98%84%EB%8C%80%EB%A1%9C%ED%85%9C%22%20OR%20%22LIG%EB%84%A5%EC%8A%A4%EC%9B%90%22%20OR%20%22%EB%B0%A9%EC%82%B0%22%20OR%20%22HD%ED%98%84%EB%8C%80%EC%A4%91%EA%B3%B5%EC%97%85%22%20OR%20%22%ED%95%9C%ED%99%94%EC%98%A4%EC%85%98%22%20OR%20%22%EC%A1%B0%EC%84%A0%22%20OR%20%22%EC%A0%84%EB%A0%A5%EA%B8%B0%EA%B8%B0%22%20OR%20%22HD%ED%98%84%EB%8C%80%EC%9D%BC%EB%A0%89%22%20OR%20%22%EB%91%90%EC%82%B0%EC%97%90%EB%84%88%EB%B9%8C%EB%A6%AC%ED%8B%B0%22%20OR%20%22%EC%9B%90%EC%A0%84%22%20OR%20%22%EA%B8%B0%EC%88%A0%EC%88%98%EC%B6%9C%22%20OR%20%22%EC%9E%84%EC%83%81%22%20OR%20%22FDA%22%20OR%20%22%EB%B0%94%EC%9D%B4%EC%98%A4%22%20OR%20%222%EC%B0%A8%EC%A0%84%EC%A7%80%22%20OR%20%22LG%EC%97%90%EB%84%88%EC%A7%80%EC%86%94%EB%A3%A8%EC%85%98%22%20OR%20%22%EC%97%90%EC%BD%94%ED%94%84%EB%A1%9C%22%20OR%20%22%ED%98%84%EB%8C%80%EC%B0%A8%22%20OR%20%22%EA%B8%B0%EC%95%84%22%29%20when%3A4h&hl=ko&gl=KR&ceid=KR:ko",
+    },
+    {
+        "name": "증권리포트·수급",
+        "tier": "TOP",
+        "type": "gn_rss",
+        "url": "https://news.google.com/rss/search?q=%28site%3Asedaily.com%20OR%20site%3Aasiae.co.kr%20OR%20site%3Anewspim.com%20OR%20site%3Aetoday.co.kr%20OR%20site%3Awowtv.co.kr%20OR%20site%3Amtn.co.kr%20OR%20site%3Aedaily.co.kr%20OR%20site%3Amt.co.kr%20OR%20site%3Aeinfomax.co.kr%29%20%28%22%EB%AA%A9%ED%91%9C%EC%A3%BC%EA%B0%80%22%20OR%20%22%EB%AA%A9%ED%91%9C%EA%B0%80%22%20OR%20%22%ED%88%AC%EC%9E%90%EC%9D%98%EA%B2%AC%22%20OR%20%22%EC%96%B4%EB%8B%9D%20%EC%84%9C%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88%22%20OR%20%22%EC%96%B4%EB%8B%9D%EC%87%BC%ED%81%AC%22%20OR%20%22%EC%99%B8%EA%B5%AD%EC%9D%B8%22%20OR%20%22%EA%B8%B0%EA%B4%80%22%20OR%20%22%EC%88%9C%EB%A7%A4%EC%88%98%22%20OR%20%22%EB%B0%B0%EB%8B%B9%22%20OR%20%22%EB%B0%B8%EB%A5%98%EC%97%85%22%20OR%20%22%EC%9E%90%EC%82%AC%EC%A3%BC%22%20OR%20%22%EC%8B%A0%EA%B3%A0%EA%B0%80%22%29%20when%3A4h&hl=ko&gl=KR&ceid=KR:ko",
     },
     {
         "name": "디일렉·전자신문",
@@ -547,7 +607,7 @@ CATEGORY_PATTERNS = [
     (
         "대형M&A·IPO",
         re.compile(
-            r"(\b(merger|acquisition|acquires|buyout|takeover|bid for|activist|elliott|spin-off|ipo)\b|인수|합병|매각|블록딜|유상증자|자사주|기업공개)",
+            r"(\b(merger|acquisition|acquires|buyout|takeover|bid for|activist|elliott|spin-off|ipo)\b|인수|합병|매각|블록딜|유상증자|자사주|기업공개|공개매수|지배구조|인적분할|물적분할|소각)",
             re.IGNORECASE,
         ),
     ),
@@ -559,30 +619,44 @@ CATEGORY_PATTERNS = [
         ),
     ),
     (
+        "방산·조선·전력",
+        re.compile(
+            r"(한화에어로|현대로템|LIG넥스원|한국항공우주|KAI|방산|방위산업|무기\s*수출|HD현대중공업|한화오션|삼성중공업|조선업|조선주|LNG선|특수선|HD현대일렉|효성중공업|LS일렉|두산에너빌리티|전력기기|전력설비|송전망|SMR|원자력)",
+            re.IGNORECASE,
+        ),
+    ),
+    (
+        "바이오·헬스케어",
+        re.compile(
+            r"(알테오젠|삼성바이오|셀트리온|유한양행|한미약품|리가켐|에이비엘바이오|기술수출|기술이전|라이선스\s*아웃|임상\s*[123]상|임상시험|품목허가|FDA|신약|바이오시밀러|비만치료제|항암제)",
+            re.IGNORECASE,
+        ),
+    ),
+    (
         "빅테크·신제품",
         re.compile(
-            r"(\b(openai|sam altman|chatgpt|gpt-5|anthropic|claude|gemini|grok|xai|deepseek|microsoft|apple|iphone|google|alphabet|meta platforms|meta|mark zuckerberg|amazon|aws|tesla|elon musk|musk|starlink|spacex|cybercab|robotaxi|optimus|humanoid|palantir|oracle|coreweave|nebius|quantum computing|qubit|ionq|rigetti|smr|oklo|constellation energy)\b|오픈AI|테슬라|머스크|애플|구글|메타|마이크로소프트|아마존|휴머노이드|로봇|자율주행|양자컴퓨터|배터리|전고체)",
+            r"(\b(openai|sam altman|chatgpt|gpt-5|anthropic|claude|gemini|grok|xai|deepseek|microsoft|apple|iphone|google|alphabet|meta platforms|meta|mark zuckerberg|amazon|aws|tesla|elon musk|musk|starlink|spacex|cybercab|robotaxi|optimus|humanoid|palantir|oracle|coreweave|nebius|quantum computing|qubit|ionq|rigetti|smr|oklo|constellation energy)\b|오픈AI|테슬라|머스크|애플|구글|메타|마이크로소프트|아마존|휴머노이드|로봇|자율주행|양자컴퓨터|2차전지|이차전지|배터리|전고체|LG에너지솔루션|LG엔솔|에코프로|포스코퓨처엠|현대차|기아)",
             re.IGNORECASE,
         ),
     ),
     (
         "실적·가이던스",
         re.compile(
-            r"(\b(earnings|revenue|operating profit|eps|guidance|outlook|beats|misses|raises guidance|lifts outlook|cuts outlook|profit warning|upgrade|downgrade|price target|fines|antitrust fine)\b|실적|매출|영업이익|어닝|가이던스|목표주가|투자의견|수주|공급계약)",
+            r"(\b(earnings|revenue|operating profit|eps|guidance|outlook|beats|misses|raises guidance|lifts outlook|cuts outlook|profit warning|upgrade|downgrade|price target|fines|antitrust fine)\b|실적|매출|영업이익|순이익|어닝\s*서프라이즈|어닝서프라이즈|어닝\s*쇼크|어닝쇼크|어닝|가이던스|목표주가|목표가|투자의견|컨센서스|잠정실적|흑자전환|수주|공급계약|특징주)",
             re.IGNORECASE,
         ),
     ),
     (
         "정치·통상·관세",
         re.compile(
-            r"(\b(tariff|tariffs|trade war|trade deal|farm trade|sanction|sanctions|shipping waiver|export control|export curb|entity list|blacklist|white house|trump|xi jinping|bessent|lutnick|commerce department|ustr|chips act|subsidy|antitrust|doj|ftc|government shutdown|debt ceiling)\b|관세|수출통제|제재|백악관|트럼프|시진핑|무역|반독점|보조금|상법|밸류업|공정위|금융위|금감원)",
+            r"(\b(tariff|tariffs|trade war|trade deal|farm trade|sanction|sanctions|shipping waiver|export control|export curb|entity list|blacklist|white house|trump|xi jinping|bessent|lutnick|commerce department|ustr|chips act|subsidy|antitrust|doj|ftc|government shutdown|debt ceiling)\b|관세|수출통제|제재|백악관|트럼프|시진핑|무역|반독점|보조금|상법|밸류업|공정위|금융위|금감원|배당소득|공매도|세제개편)",
             re.IGNORECASE,
         ),
     ),
     (
         "거시경제·연준",
         re.compile(
-            r"(\b(fed|federal reserve|powell|fomc|rate cut|rate hike|interest rate|boe|ecb|boj|pboc|central bank|inflation|cpi|pce|ppi|nonfarm|payroll|jobless|unemployment|gdp|retail sales|ism|pmi|treasury|bond yield|10-year|dollar index|bank of japan|opec|crude oil|brent|wti|s&p 500|nasdaq|dow jones|wall street|recession)\b|연준|파월|한국은행|금통위|기준금리|금리|인플레이션|물가|고용|국채|환율|코스피|코스닥)",
+            r"(\b(fed|federal reserve|powell|fomc|rate cut|rate hike|interest rate|boe|ecb|boj|pboc|central bank|inflation|cpi|pce|ppi|nonfarm|payroll|jobless|unemployment|gdp|retail sales|ism|pmi|treasury|bond yield|10-year|dollar index|bank of japan|opec|crude oil|brent|wti|s&p 500|nasdaq|dow jones|wall street|recession)\b|연준|파월|한국은행|금통위|기준금리|금리|인플레이션|물가|고용|국채|국고채|환율|코스피|코스닥|외국인\s*순매수|기관\s*순매수|순매수|순매도|배당|신고가)",
             re.IGNORECASE,
         ),
     ),
@@ -932,7 +1006,7 @@ def verify_true_publication_age(final_url: str, max_age_minutes: int = MAX_NEWS_
 
     is_kr = any(
         k in u_low
-        for k in (".kr", "hankyung.com", "chosun.com", "investchosun.com", "biospectator.com")
+        for k in (".kr", "hankyung.com", "chosun.com", "investchosun.com", "biospectator.com", "fnnews.com", "newspim.com")
     )
 
     for m_ts in re.finditer(
@@ -1021,6 +1095,8 @@ def extract_publisher_from_gn_title(raw_title: str, default_source: str) -> tupl
             "Betaville",
             "한국탑티어속보",
             "한국경제·인포맥스",
+            "K-주도섹터",
+            "증권리포트·수급",
             "디일렉·전자신문",
             "더벨·IB카더라",
         ):
@@ -1402,7 +1478,8 @@ def fetch_single_feed(feed: dict, max_age_minutes: int = MAX_NEWS_AGE_MINUTES) -
         else:
             root = ET.fromstring(r.content)
             items = root.findall(".//item")
-            for it in items[:15]:
+            parsed_rss_items = []
+            for it in items:
                 t_el = it.find("title")
                 l_el = it.find("link")
                 p_el = it.find("pubDate")
@@ -1416,7 +1493,10 @@ def fetch_single_feed(feed: dict, max_age_minutes: int = MAX_NEWS_AGE_MINUTES) -
                 age_minutes = (now_utc - pub_dt).total_seconds() / 60.0
                 if age_minutes < -5 or age_minutes > max_age_minutes:
                     continue
+                parsed_rss_items.append((pub_dt, raw_title, raw_link))
 
+            parsed_rss_items.sort(key=lambda x: x[0], reverse=True)
+            for pub_dt, raw_title, raw_link in parsed_rss_items[:15]:
                 pub_name, clean_t = extract_publisher_from_gn_title(raw_title, feed["name"])
                 results.append(
                     {
