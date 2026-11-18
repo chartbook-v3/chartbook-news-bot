@@ -1,20 +1,6 @@
 {
-  "updated_at": 1794976692,
+  "updated_at": 1794976856,
   "id_hashes": [
-    "05ab9bcc26e469aa85dbf1e0cd102635b7c41408c7f967aff97b7dfd5a3b3883",
-    "7e299abd7ad5ffdb856b7127a9beb362b41490b72a53d817671e260cda621eb6",
-    "6fbb5e8802f84c9c9a7897f16b2ea0a586fd404170998a5fce43b59a87c9667b",
-    "9e85ff7608eb34703e2238ac5ddeca7b74dc8b153d00983fba226ee3a7764489",
-    "26c7e1dd1098bdd83179103a315ed78769b459f9286fc643c521f46fcbc5d2ce",
-    "e6873f8e783af5950c07baa45207bfa196f13af99257fefb58ab9c7d99ae90aa",
-    "456cd9d17773ab8d7b994bf5af99e677f11f04bd3d8772b806a3a11727f49a95",
-    "f86c7946313cca1d601283b534d2d28d60e1715c22546d4ede1545d73aa92744",
-    "1653b1c5722e2a52df2ddd13f8197c563d028f03483f65aaf553929221f1f15d",
-    "f54ea5fc2a2c173968151db556166093c62a1cd92adff679f67476f1dea38dee",
-    "c56c2b9e3c64fa149a44b793a2e3b402825ebf4938e2f7848f1746eb39e1517e",
-    "3506000d22d048050c1a30659443112531a75bee613757af1d27caada93e8e92",
-    "d0bb87311a61edfa7aea9f1d6b9ee6cc0adb13b742e0c0f6101595be499b1980",
-    "c126d1feb2febf223c5bd1eadf0f1f476b8e78eeb9116c1c18950ef8f2f63eff",
     "7e0836d55934594ac975065caba1854b7fab366dd51d3bc826691cce3b7870d4",
     "959f692fe51fbc0a796eba1aa07acfd5c3c15e282c1414b450041f066c8d8bbc",
     "93b15c121dbcb6c498096b0a2ca0806bfb059d1609f0a816c7426a78610998ba",
@@ -4000,22 +3986,23 @@
     "83239e612d285c16e0e6e5764d6ad7b7132f34cf531f63d38942c4758b2f7ed5",
     "70372c9b1c445525b7161779ec8dfedde9772741108e1e651606efd116025408",
     "533e03f3ff270831a22a5e925f033c5f2fab60c9ba8a48cfece873d8b2c5f7e4",
-    "fe3386ea8210542daa7c838a80fd64ea8efef27460246cb0a9741e6b2ffcdd38"
+    "fe3386ea8210542daa7c838a80fd64ea8efef27460246cb0a9741e6b2ffcdd38",
+    "008f957be18473663249027e8bffc470ba9e24d0eedf62df5646f54c7fa64b03",
+    "17f3ec344c1fe039ce74ee3b845e79a57061c88ebc5ee55c43cdca65ff70ae19",
+    "d471e3645a41e61bde81bbf8c111e9b7dfbb4ca5bb2504a910e487d067c712c1",
+    "a3349ba03bcf60a71b4b53a964d3231611977f3151b588c3c6fd3b59a794e970",
+    "fc2414a58de4978a5b30235d38e4fdf966473c0c7b08863b494dbb6f60cd99fe",
+    "81dba66f62b422bcd2570bb2aa25bbd8fded167bad8b5a75ca579968b85a9b5f",
+    "cc3f3a83f4dbd384ebc5397504de18dcbe1b07074201beda7fa1a6524c28b827",
+    "eddf1823325d9f4c210ff4903c9ab4d92811a8487de9b771c9ffc16f1aa18f02",
+    "31613a9b152fac92e98831689e8ccc6136112b85d8ba940d966e09006eef87bd",
+    "0023a56c9bd4a3e698c76097ad28a9ac19489d0146b41d87c1607c91b9413702",
+    "d1ad55de228949487b1d3db428f7fbca391b5c681bf57e1f63fba88da8ae133f",
+    "3b6689f352f67db958842fd95af1aa7b4ab65e8348ae0935cae8a62a1849e99f",
+    "a9df4134eed09d5c62b6228e117892cc58ae1496fc1549e67969d651eb9a21cb",
+    "ebe60ae9464331cdf3ed403ae5e24f3183c853ff51dafd29f44fb32bf55b61ba"
   ],
   "title_hashes": [
-    "9e8a498cfda6acd7bbceb4bf0a662a51c1e9839d3fee7c914d2685c293f48e8a",
-    "1879e685d5543772da5f92d008091aed0f9735ccd747e5f7df998aba43b79429",
-    "06e63d127cd34c5253ad7860d7c45333d28409b191ba215b088c5cd2f8f56b9b",
-    "e348dfacde3826eede4bcdf44bb7c86e2a051abd604ba45102bf3f6e80b8a27c",
-    "119019df1e1f39fbe19d06fd8ce227eea3e0388405ab7ee08770dee586598217",
-    "5869a3d6c6fcca2d1eebc9cd0bf76dfa0720342d7c1ad6a50ec070ed11d8e68d",
-    "009ed21c6c5804a8e1182d8f5c5d72fada92f67d10fb4d0964cc698bd60def42",
-    "ead31cf7ec8b555521b3062b8ebafaf1951bf067f31a24053aa2b8592fd11e36",
-    "6ada06b05c0fde0c6e2cbe641102cda153261be7e2e766f532b48a62a2a0af6f",
-    "083264f10af8cdcf3e55355bb68ec23f504799679e3c724b837f02aa225a2196",
-    "3d9af5e938c4aead9bf045477ce021cbbb4e0833027c8d3c1160ae3b830e2b32",
-    "ea8ee3e299bfb5ddc92b2b6aedbe62d2af976c8b0e0ef3a78ed3a1f02751a1f1",
-    "1542b350b3ca87cdbcbc4a06c178abcaa8e266a3966a015ae686c726f782aa7a",
     "79b5e1e12169222405062732f57a7a9d049d7ce84a9224c9ccd923385a2628bd",
     "284a8dce3926bbb1b4262a8b444920f1512c1bcf3b265f06e686ed2754db4452",
     "ab606babd4a8bcb32ae43c29fb5f62bd2acf776fcfff73066120acef67e36a4b",
@@ -8002,44 +7989,22 @@
     "2e8c40362ede46c6285e57574e3686a21a9bf4e78c4a43b3896ffc683fbd5d68",
     "108cd909a763e3ed5f8d27907d20584f75d055ca73986641b34559b79d36217d",
     "94c8dd434b888171a004e5fdc99f53a371e33dbdd19bd45bf9262a326948dc6e",
-    "15d48e2e83410a3b52881006879fc359d12601ce73154910b6ff7dca2255df65"
+    "15d48e2e83410a3b52881006879fc359d12601ce73154910b6ff7dca2255df65",
+    "863055bf081b65108c8c1a575e7ea0406822bd262e13bad8018cba085aa382cd",
+    "5a993841a47bfdb7b6bfc57f357e3d52c6cd5ec960146ae4ac0b39cce3e1c434",
+    "8d3edf8cc6a461e214351820bd261944b7eb2efc8ba13b1f45b34f7a6ef00432",
+    "32bbf2840fe5002e364e55ecf816c6bd886d2354466decc30c755a5e23f82f57",
+    "e15828143495102732929b3ecb9bb71794d7c72749350d7c40ce50db0d759b2c",
+    "544039ab2dc6aa2829df9f11fe260bb2c96c8ecb5417b86ac1e75f746da6c1fe",
+    "42f9d36e16af24d53e393d1fd158ccefd8adb2ef1daa89c9ba60312cce09326b",
+    "624ca6f59afc61d595f126c21ba7e996e2175435c1c02f212ebf021fc7d912df",
+    "d18f56dce4646e0af9b8c66b071b6d3a078bda10fc7789db5a576962dbfe9914",
+    "412944d0130117c7c927f251b1e800394c8d4944b3732555f5eb25ba1c09d7c3",
+    "696ccc80570eb6277d2165b4d46bb63a1aae91319fbeb09cbcbd88ebc7d1d539",
+    "34f7668fbf61fca522b10378b9e6cf571f0a58dc625af1cb6611ad0a68e75452",
+    "7e97edc7a1825e67f0fb8677f4bc356fba22157d955d56bdfe91a9fb748efca4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합인포맥스",
-      "title_en": "美 20~30년물 국채 11.8억달러 바이백…매도 주문 크게 하회(상보)",
-      "title_ko": "美 20-30년물 국채 11.8억달러 바이백…매도 주문 크게 하회(상보)",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445232",
-      "ts": 1794951212
-    },
-    {
-      "source": "한국경제",
-      "title_en": "[속보] 엔비디아 주가, 기대 이상 실적에 시간외 거래서 반등",
-      "title_ko": "[속보] 엔비디아 주가, 기대 이상 실적에 시간외 거래서 반등",
-      "url": "https://www.hankyung.com/article/202611183246i",
-      "ts": 1794951214
-    },
-    {
-      "source": "Barron's",
-      "title_en": "TJX to Report Earnings Wednesday",
-      "title_ko": "TJX, 수요일 수익 보고",
-      "url": "https://www.barrons.com/articles/tjx-earnings-stock-price-945ed509?mod=RTA",
-      "ts": 1794951217
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "ISRAEL’S KNESSET PICKS OPPOSITION CANDIDATE MATAN KAHANA AS SPEAKER – YNET",
-      "title_ko": "이스라엘 크네세트, 야당 후보 마탄 카하나를 연사로 선출 - YNET",
-      "url": "https://t.me/firstsquaw/193617",
-      "ts": 1794951220
-    },
-    {
-      "source": "매일경제",
-      "title_en": "코어 몰딩 테크놀러지스, 2030년 매출 5억달러 목표..투자 3000만달러",
-      "title_ko": "코어 몰딩 테크놀러지스, 2030년 매출 5억달러 목표..투자 3000만달러",
-      "url": "https://stock.mk.co.kr/news/view/1201118",
-      "ts": 1794951254
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Earnings Snapshot: NVDA tops expectations and gives better-than-expected guidance",
@@ -11504,6 +11469,41 @@
       "title_ko": "트럼프, 시진핑 회담 앞두고 필리핀에 미국 지원 약속",
       "url": "https://www.bloomberg.com/news/articles/2026-11-18/trump-reassures-philippines-of-us-support-ahead-of-xi-meeting",
       "ts": 1794976630
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trump Treated to Jollibee Diplomacy With Late-Night Snacks From Marcos",
+      "title_ko": "트럼프, 마르코스의 야식으로 졸리비 외교 대접",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/trump-treated-to-jollibee-diplomacy-with-late-night-snacks-from-marcos",
+      "ts": 1794976716
+    },
+    {
+      "source": "더구루",
+      "title_en": "이노스페이스, 유럽 첫 궤도 발사 초읽기…포르투갈에 허가 신청서 제출",
+      "title_ko": "이노스페이스, 유럽 첫 궤도 발사 초읽기…포르투갈에 허가 신청서 제출",
+      "url": "https://www.theguru.co.kr/news/article.html?no=109890",
+      "ts": 1794976846
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "4940선까지 밀렸던 코스피, 다시 1%대 상승…기관이 받아낸 외국인 매물 [fn오후시황]",
+      "title_ko": "4940선까지 밀렸던 코스피, 다시 1%대 상승…기관이 받아낸 외국인 매물 [fn오후시황]",
+      "url": "https://www.fnnews.com/news/202611181333353082",
+      "ts": 1794976848
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "JPMorgan raises Elbit Systems' price target to $900 from $885.",
+      "title_ko": "JPMorgan은 Elbit Systems의 목표 가격을 885달러에서 900달러로 상향 조정",
+      "url": "https://t.me/firstsquaw/193758",
+      "ts": 1794976851
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: 🇷🇺 RUSSIAN PRESIDENT PUTIN SAYS TARIFFS CAN NO LONGER DESTROY THE ECONOMIES OF COMPETING NATIONS.",
+      "title_ko": "방금 들어왔습니다: 🇷🇺 푸틴 러시아 대통령은 관세가 더 이상 경쟁 국가의 경제를 파괴할 수 없다고 전해",
+      "url": "https://t.me/marketfeed/1080335",
+      "ts": 1794976854
     }
   ]
 }
