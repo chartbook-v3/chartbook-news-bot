@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795002770,
+  "updated_at": 1795002931,
   "id_hashes": [
-    "4d90d4f220c6b3b23b7c17bcb6ba50dc9c509f78236d1258ed4f82cce052cd53",
-    "2611f3805f0d8a3642047a70c76a4b96f6a1e96036d12554577df8e90896667e",
-    "2b6ef4ad85223dc5d94b02f0bb16e34083092441faa597909d5dafada56c7f8f",
-    "1e41487f9555ac57c92a0dde69f1dca80d703d583ace05a47d15b9b9f6ad6a35",
-    "2f208583d14eb181acba4c3d19b9c4eb20de1b98f361b7c97ff1523f9c5e4552",
-    "2449e9c2c98438d356e85765df865c128d2c6fd6817c02b4b6366051e3264f70",
-    "dbcd4d6f13fafd99c6ae7e816f357687e6bd4ef16cfe65417b54c4488512c555",
-    "cfefdba7ed52f137bf0eb5bb568b72bab3a079372e7c9c20ad53e00b768e2f2b",
     "af3e6d5aef8b3087418743b284bfcb95650c47991d84531b735142b758821de3",
     "0c5cb6c5b15047c14878546348c1fdecc8a1c8185056998134bb018fd12a94cd",
     "def699e722decd0b30876af47257db3038e62cb0788e2ba8760934d4c1bf4f10",
@@ -4000,14 +3992,17 @@
     "ff1375b8df258e6deaa7037bf3f06cf6d4d9da29fc7d81583d42c7b1948a4e91",
     "d235c68afb142c0650eda34460ee1fa129cec2b2674175662e2f7e2874ecca2f",
     "66a32ba8e0efac169fd680f9472da8bf34286341f700c37d1eac09f94fece4a9",
-    "5338daba927766b001b70b6c003349a79ed9e959fb41c6c79673921212922e38"
+    "5338daba927766b001b70b6c003349a79ed9e959fb41c6c79673921212922e38",
+    "cfb7f1b889cd6e7844b657ca554929db3aaf9b7e66ac3f4a1675e22a3ecb4141",
+    "26f4095526091d0fcdd88296c01912438ef3751eb7264a7e20ccd2c5a776b0e8",
+    "9366cdaf318659c5ea2cfcd9019015a09d4b0d385551df9f9c2e1606dc0a9aa7",
+    "f27eb09c8c9b2cda1f06b544c1061583350d515c85aedb7c242ed0b79666cc90",
+    "9c40c2ac6e12650899254752288e9100a305e72cc36fcccb0786ba4f262f5844",
+    "84e3d870482e62d4dc6e3a33ab9b23f674139d8fee6effbfae2831ac0a960474",
+    "fba08df3c1c7133eaf58d72ec45986a49dd689b6518ed312f202bf9dd39d4d82",
+    "16d957d1e39b665146182a9eb656f80ed3f19057dbac94c7e6ad6c199a522afb"
   ],
   "title_hashes": [
-    "00aee24071ae96479e0776d5c2a4e9df9db26dc63bbe5aed67217f06b4c7fa1b",
-    "51851ae2c87b47e023aa43e545399b87a54f8aa53c593f3614659181f1b1de68",
-    "c629fd049fba6685c713271e3146bdab3a314ab6ee0bba13c67056819c194933",
-    "c194cffdc2137c5499a7c83c7424dbcfef713de6fa5d6d1ceb45f621d1518b5c",
-    "848e33368b7b0468464b07722e7c3953c5b897f312f3be7851122f64c4c92294",
     "7efef44e4affb6b882f977186acd6b03df862e443856153cb1a737c7bc1707d8",
     "4e2fd324c66ed4d4e6fb484762bd523c987b1cb07634b53d08a625d81f1c8f75",
     "0d2793cfc768d98ecc3bf12a1b1e867f467a427004f2c32050170a1dafb5fee0",
@@ -8002,30 +7997,14 @@
     "36b47538ae9998467d2ace828d8c2f8e431685a92575c029c5318a4229c8a8cd",
     "94d35502ccb1629c89d5b3b5cdc26ddcf40c92dcd5ec69254be3b48ca7a649ec",
     "f3b18ba0cbe1c42056cfc7a571bced972f78c991e0877e18f24dbe495d100df7",
-    "dac6d28ab59b7c541980d573ff0a2dd701b1e1aa8bdeec5ee81ac46c7e4a1d34"
+    "dac6d28ab59b7c541980d573ff0a2dd701b1e1aa8bdeec5ee81ac46c7e4a1d34",
+    "af3bc455bdd6a9eb4c0cd273146bc85be6dd5b57752382a68b6bd0b15e641476",
+    "18ae6381e6b69d86d3175adbb63ccf513ffc53c69b18a4d08176273f24224c20",
+    "03f52762d6baabc819a5cf8678e2544ad9db46546b0449288462fc54b8d3c8b9",
+    "2e8e0f78ff2372795c726cdb0f35c60ceb05d31357afd61003e03f012465a2f1",
+    "aaa1e694e131d936f12112f879c010cd2860a017271de77d95067d88726a233d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Trump Administration Sued by Ecuadorian Fishermen Over Pacific Drone Strike: ‘We’re Alive by the Grace of",
-      "title_ko": "태평양 드론 공격에 대해 에콰도르 어부들로부터 트럼프 행정부 고소: '우리는 은총으로 살아있다'",
-      "url": "https://www.benzinga.com/news/politics/26/11/63375742/trump-administration-sued-by-ecuadorian-fishermen-over-pacific-drone-strike-were-alive-by-the-grace-of-god",
-      "ts": 1794977550
-    },
-    {
-      "source": "WSJ",
-      "title_en": "IRAN ATTACKS KUWAIT AND BAHRAIN, FURTHER ESCALATING FIGHT OVER STRAIT",
-      "title_ko": "이란, 쿠웨이트와 바레인 공격해 해협 전쟁 더욱 격화",
-      "url": "https://t.me/marketfeed/1080345",
-      "ts": 1794977552
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Trump Praises Philippine Alliance On Manila Visit",
-      "title_ko": "트럼프, 마닐라 방문에서 필리핀 동맹 칭찬",
-      "url": "https://www.barrons.com/news/trump-praises-philippine-alliance-on-manila-visit-ee385a7a",
-      "ts": 1794977617
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Ukraine's Port of Izmail targeted in Russian strikes on infrastructure facilities, Russian newswires quote defence ministry as saying.",
@@ -11504,6 +11483,27 @@
       "title_ko": "에버퓨어, 3분기 호실적 전망… 주요 애널리스트들 실적 앞두고 전망치 상향 조정",
       "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/63379185/everpure-likely-to-report-higher-q3-earnings-these-most-accurate-analysts-revise-forecasts-ahead-of-earnings-call",
       "ts": 1795002769
+    },
+    {
+      "source": "FT",
+      "title_en": "UK PLANS TO RESIST EU REQUEST TO MATCH TARIFFS ON CHINESE GOODS",
+      "title_ko": "영국, 중국산 제품 관세 인상 요구에 대한 EU 동참 거부 방침 밝혀",
+      "url": "https://t.me/marketfeed/1080567",
+      "ts": 1795002857
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "COREWEAVE VP RICHARDSON: COREWEAVE EXPECTS $9 BILLION PREPAYMENTS IN Q4",
+      "title_ko": "코어위브 VP 리처드슨: 4분기 선결제 90억 달러 예상",
+      "url": "https://t.me/firstsquaw/193872",
+      "ts": 1795002923
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "英伟达扩大芯片供应链合作，数十亿美元支持矽品精密扩产",
+      "title_ko": "엔비디아, 반도체 공급망 다각화... SPIL 증설에 수십억 달러 지원",
+      "url": "https://wallstreetcn.com/livenews/3201942",
+      "ts": 1795002930
     }
   ]
 }
