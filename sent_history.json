@@ -1,7 +1,6 @@
 {
-  "updated_at": 1794997437,
+  "updated_at": 1794997590,
   "id_hashes": [
-    "c17bf92a0b2d3fbce99c7056f36c7f84ba12cc3d0611b88a79ecc51fd8cafc4d",
     "df8dc7b652f19b502e85c4a0e5838067799bde0d428ed6c67a892ee3c825cb9c",
     "0b0b3bdda8a4c4cd0f9b64153aa3b1d3bf45504e03cf692acd32db3933cc8f27",
     "2ed7e013e9d153a441ab468b58981c832d298154ebeca3a8d9d52717c4a39159",
@@ -4000,11 +3999,10 @@
     "bfd73eeca657680d272d52ab1bcac3c8c14354c786e12adf6f1fc6ed50851aef",
     "7b64ae6d9b67e9d4f5c1fe3f42274557f9a5ad38a3b338a69fdbf8f4c2b81b56",
     "e88f15daff46fe763da6215f0129d4c43a0ca439731f4ac0bad257a303b082b0",
-    "8d1e1d6eae50aeb0ed507c747ba67e6c1f57723e1d6a2debca79c2246ecdc3e0"
+    "8d1e1d6eae50aeb0ed507c747ba67e6c1f57723e1d6a2debca79c2246ecdc3e0",
+    "782f69fc2ae90eb7a874c9da85e1719111eae861a5678aab52279600ad09b53a"
   ],
   "title_hashes": [
-    "5a71a814f63f55420173bc34b8517196b7d24207ad3648d436feccc4d4b83413",
-    "0d67c00cbc81c83ee187519f5e94711d9e5ffb595201d394c97bdfe294b00309",
     "dc87f9768ad02fc6bb428bb97ebba38acf55964ae39d87272cd60acb6918f97c",
     "f63fd68ab817e59b731f57fd7bd17646e089ab32c83da07aa7ab5ba5c714a6c6",
     "9cbb102123572e36be63ee87bfdcd1bba1f2bf15434bd8477a676ff6c17463e7",
@@ -8002,16 +8000,11 @@
     "5e56ed9f1e5d4eccf2505349edd0eb938056456cf9fd4000ecb2a7ea9ed6ce9f",
     "b70cd97c036131807067640d03a1dbed8bdc8c1da421547e6e5ae6f97f983014",
     "1192c58f9d57f5131af99051759b2834f11190846cd397950b8672c7977a0489",
-    "405698467fec2a7501ccf7dea2459a6dd87647a7bf767cf9a258a34815fd8623"
+    "405698467fec2a7501ccf7dea2459a6dd87647a7bf767cf9a258a34815fd8623",
+    "0568a8ac52fa3a589bbe551a73c261d88445c1e156808722d18d7953e2a6a233",
+    "5205c77807ba3e0e65c0330b271ebdd0a7668eee9188dec145ecc78745b24cdf"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "中俄美元首会晤是否会讨论台湾问题 国台办回应",
-      "title_ko": "중국, 러시아, 미국 정상 간 회담에서 대만 문제가 논의될까요? 국무원 대만사무판공실의 답변",
-      "url": "https://wallstreetcn.com/livenews/3201681",
-      "ts": 1794972287
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Diploma PLC Non-GAAP EPS of £0.25, revenue of £1.84B",
@@ -11504,6 +11497,13 @@
       "title_ko": "[亞증시-종합] 엔비디아 호실적에 日·臺↑…中 혼조·홍콩↓",
       "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445416",
       "ts": 1794997436
+    },
+    {
+      "source": "비건뉴스",
+      "title_en": "삼현, 한화시스템 48억원 계약 착수금 4.2%로 변경",
+      "title_ko": "삼현, 한화시스템 48억원 계약 착수금 4.2%로 변경",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=407233",
+      "ts": 1794997589
     }
   ]
 }
