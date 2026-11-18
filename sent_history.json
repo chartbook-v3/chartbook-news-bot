@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795007994,
+  "updated_at": 1795008151,
   "id_hashes": [
-    "c562672df1f3fad41906d07d4ded6d259cb883025b1e7618549029a80d450fc0",
-    "3c640a70a72dc9bf403ef202bd439d7293244ccfd9194c4ff6c8e2aedfa0b4be",
-    "49042d269142ff2689984e6f5282ff6faf1d5763dc91d5e3f7b3d1513852736f",
-    "848b78192329483a74da64eb0a2574201765255df6666e123f7f0a9411e1cc3b",
-    "13dced1ed09bfc2ce6566bf14f3985426c5b9241e48af691eb06c83a1078cb30",
-    "e65d47c599612821c1806e7d36e661d3948c2def91680eab54913b907fa52a6a",
-    "3a1218ad915ea19b0f17c66ab02d0ca29bc63eaa76b786a8c9b8c638fc433061",
     "24997f7ad1e19a7b0f7d01b6a2a777dc75cb912be7e4558329d42eea38597a82",
     "0766b73bd6a8474a11e714933dfd8c39819a0d91ddecb3556038ce03e6a106ea",
     "04ddf6d39f7354db50efb7fe64f1a49c9d3eb11847eb8a746a4273003bb98d35",
@@ -4000,15 +3993,16 @@
     "9d01bae5b443cb645c8ccd02a7b883b2f9c4f2a82b24dccf16c727c9ad56b690",
     "7b35586a1ea72c78434c4ff4ed5b231e0732df8c369e958b5b0f9bbffc4f4d09",
     "0673cb518996bc4044fb401494668db6080d6bb3aaaadbdb7ddb42fd0c8ae07a",
-    "c525c241b16eeaea46499630a6d5237b8b073d4fc5ade57619cae2732b6c9490"
+    "c525c241b16eeaea46499630a6d5237b8b073d4fc5ade57619cae2732b6c9490",
+    "372fbd34ea0c232a6e0d4e51c2106464111ad8db3da35e1ea1052dd26dbc913b",
+    "a6e24edd4d538835119e5d3fcd96cf5351f16d367387d23c50ff8671d1d996d6",
+    "e9af9e227eea2d04de22dcfebdfeae5bb4de7a8eb79af39a895eb798d6ebfa1f",
+    "f572f3a04041d5c7c8c16af90475aed3b462836b1ea3684ab8f4faccc4dcb071",
+    "58d7db51762a6a04761691df5b175b6870ccbd4d10ece7e371f1d8e946c24245",
+    "5aacf83e04978c9f3104ad27ff8b5cf200405d1a7ef1b2a3e931104e2919ddec",
+    "1d6e93e04733ff258c12127e0ab3356efaeb90a0051b7637ce5f3a1f12892d44"
   ],
   "title_hashes": [
-    "68b7583a4aa25acaf613a22219c506c32cd4c836fede4e21a86a158cc8d8c818",
-    "aa96335542703c7ce7ad35cfae551c9bac10b393aa1c6b32e591d379167794be",
-    "4b4d51f810dc696648814a9e5e5769473998fd324bf4caf2548a32d663f3fdd9",
-    "d753f400d98ec830a664663750d2574a3cbb88c77d81e1d1f476a0a6a951c047",
-    "6bb1e7876a37cce320b51c8295e22b8fc6c7d22549291d76f357bfbafa215859",
-    "11e091dc64aa29f8dd1e1bb7d629a18c82efae4c2c91b252b54a58ec167e37b2",
     "ff9ba8602661db11c2d6ec5b9147e7f10a1461d04991e3c87e93c25a0407392b",
     "3fb1f94214d3153fe3c632b8de3b8177d4df1479d0522be7b8a987c996ec0cd2",
     "454701f148dfb457af78c8b657b53196322e640d969f30574c733d0e69261015",
@@ -8002,23 +7996,15 @@
     "e6561e699ca5e63cb6d7ffc70513d58bae47173825637bb0430abb6119698099",
     "bf581e78234abca19042335eff5a00f58f21da1a78d84e6bb52011f9e0fbf4ba",
     "b6516b684544d393c0c02c0e3c98336c12f22fe8924c51cc8c36c10cd8725db5",
-    "a56a3089fd65604f6fefb10653d3012404fc3e51e1ace39d28cb4092bc8c0dd5"
+    "a56a3089fd65604f6fefb10653d3012404fc3e51e1ace39d28cb4092bc8c0dd5",
+    "1761234b7c07f04b7db8f9aca034cf652e4271773c9bfbd002b8c40306cc7dcc",
+    "32ac955b6a17d38800ff54344ac8b7c2ea74e10845ea048e3f20dbce627a1acc",
+    "08230f5ee7605aa883fe16dfba6f5676a6de5944718796d7cf5a9852cefa9f89",
+    "4a39b5e75a02963b497516609b8e141afe95e91613d872a7ebd997a4cfbcde23",
+    "0671e1148d6861c5bc3162bd4ec070dde73a6199b7200f5c33c8a27880e7b797",
+    "f594d3d2b90b4d23fc6e8af9672cb090c005b23a35b729fd1f314dad12666d36"
   ],
   "recent_sent_articles": [
-    {
-      "source": "인포스탁데일리",
-      "title_en": "보험주 약세 원인은 어닝미스와 주주환원 우려-대신",
-      "title_ko": "보험주 약세 원인은 어닝미스와 주주환원 우려-대신",
-      "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=218993",
-      "ts": 1794985081
-    },
-    {
-      "source": "인포스탁데일리",
-      "title_en": "[IPO] 케이엠에프, 영업이익률 55% 앞세워 코스닥 도전… \"GLP-1 시대 공략\"",
-      "title_ko": "[IPO] 케이엠에프, 영업이익률 55% 앞세워 코스닥 도전… \"GLP-1 시대 공략\"",
-      "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=218992",
-      "ts": 1794985084
-    },
     {
       "source": "연합뉴스",
       "title_en": "엔비디아 호실적에 젠슨황 충격 완화?…'집나간 투심' 돌아올까",
@@ -11504,6 +11490,20 @@
       "title_ko": "Train Maker가 떠오른 후 Alstom 주식 하락 가능한 지분 인상",
       "url": "https://www.wsj.com/business/alstom-shares-drop-after-train-maker-floats-possible-equity-raise-5800e588?mod=rss_markets_main",
       "ts": 1795007993
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Biggest Gas Price Drop in 18 Years? GasBuddy Analyst Mocks Trump’s Gas Price Election Theory: ‘They Must",
+      "title_ko": "18년 만에 가장 큰 휘발유 가격 하락? GasBuddy 분석가는 트럼프의 가스 가격 선거 이론을 조롱합니다",
+      "url": "https://www.benzinga.com/news/politics/26/11/63381885/biggest-gas-price-drop-in-18-years-gasbuddy-analyst-mocks-trumps-gas-price-election-theory-they-must-have-read-your-september-memo",
+      "ts": 1795008146
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Nvidia Says Meta, OpenAI and CoreWeave Adopt Vera, Expects CPU Revenue to More Than Double in 2028 as Phy",
+      "title_ko": "Nvidia는 Meta, OpenAI 및 CoreWeave가 Vera를 채택하고 Phy로 2028년에 CPU 수익이 두 배 이상 증가할 것으로 예상한다고 밝혀",
+      "url": "https://www.benzinga.com/markets/earnings/26/11/63381943/nvidia-says-meta-openai-and-coreweave-adopt-vera-expects-cpu-revenue-to-more-than-double-in-2028-as-physical-ai-revenue-nears-25-billion",
+      "ts": 1795008150
     }
   ]
 }
