@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795029926,
+  "updated_at": 1795030079,
   "id_hashes": [
-    "d4289807531de984ae5b360d1e02f0f4675a78fff2a460cf013aeb46dfc48271",
-    "60794a7df7949b150d6202e7d9137c45eeeaafe5f59f75fef8b5319fefeddceb",
-    "dfe35925632633f84136f6f0bef03f3c62de9f4bf1b40dcbb4809cf1a9f93893",
     "2c851cdc1dac1293eca7c0630fb1d5ef1285fcafd1239942719dc8efc8d11f42",
     "fdb915663a60635d1a4ab4a84872651ccaec485843f9ce161edb1e97ca44e1be",
     "6a96f361a82fd0cfacab54fbba0095d14b242f2b48b763d83923338a3e2e8e15",
@@ -4000,12 +3997,12 @@
     "e3fdfa648edc8e06402a30c73682ec8816c55e18a7f9097bf44f87c09715831f",
     "475c7df8eddf838215c4ba77f9ac880c98b10447e21c6c182f045f86ce0b8280",
     "93440445ac4c8e4f7eb0eb0ceab6dd639f38addc4a6c3b2cee24c2ff79bb9806",
-    "675a8620fb10d247abd7fbba2a5606fd20abbbf4a1c964d72dec9c0601bdf7f2"
+    "675a8620fb10d247abd7fbba2a5606fd20abbbf4a1c964d72dec9c0601bdf7f2",
+    "6beb320e5a980fd2109781dc533b2d7471dd9356549acedc6c1af8e7e74e03b6",
+    "bc7ec306b299223acea4c77a4ac93de6453e72c2ca41dc02b14c147db4171412",
+    "315be0a187a423546a1efc7aa1c31f90a87be48c613b9c1e9412a34f1e91e22e"
   ],
   "title_hashes": [
-    "8b04efec97240f4619106f4dd7d5d214e46d18d9c51464297518a030948db07e",
-    "f3006c93723f06dc52daf5268a27bb94a1faf0c529a8f767eb1c4bc7a74d72ff",
-    "2eafdede133935931345982f6241eebb8c0b2284729adc54f541fc321fb4a410",
     "b0e320c2ea9485b25916a06d08f8605983a10d65f2745327fba33b7fc60bb466",
     "a8f242c29bc6e9eefe6b744a5987dda02d46973411899fc0b6c03f7c0849e0bb",
     "c153b0de11eaa51b12f3e23f9678a46f032e52a42c626b93315f28f3044452de",
@@ -8002,16 +7999,12 @@
     "6eac0d2ae7264889bb76054ace23dc6fbb84323edca4d5c75e17c1851649c3da",
     "5a6d4ef71f16105aaed91f552a422e7eb459193a3fa3d1986ea9a933ecd73664",
     "51fb2229c66a66452322d2dc7b3d0952cd86805df08cec0ef77c2701a12059e3",
-    "dbfc54329f239d436f8a93b0884c150297124879121303dffb01462aa61661f8"
+    "dbfc54329f239d436f8a93b0884c150297124879121303dffb01462aa61661f8",
+    "cbd9f7a32f41b099b74c48aac3c12eb9ebcace0ef0da48dbe0eb466e6326a6b9",
+    "393c667176ab81f0a2df1c6c1321630baf175fc39382f97d2b700da39b540883",
+    "e116478b55cfa627310d1366ca6ffd545805c0c0dadde03ddc4c146a61e25d43"
   ],
   "recent_sent_articles": [
-    {
-      "source": "비건뉴스",
-      "title_en": "삼현, 한화시스템 48억원 계약 착수금 4.2%로 변경",
-      "title_ko": "삼현, 한화시스템 48억원 계약 착수금 4.2%로 변경",
-      "url": "https://www.vegannews.co.kr/news/article.html?no=407233",
-      "ts": 1794997589
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "新易盛：当前客户对光模块的需求指引明确，在手订单充足，目前不存在需求预期下修或砍单情形，公司对今年四季度及明年订单需求增长持积极预期。",
@@ -11504,6 +11497,13 @@
       "title_ko": "인류학은 과대평가되어 있는가?",
       "url": "https://www.bloomberg.com/news/videos/2026-11-18/opinion-is-anthropic-overvalued-video",
       "ts": 1795029776
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "报道：英伟达董事会所聘猎头公司接洽Arm首席执行官Rene Haas",
+      "title_ko": "엔비디아 이사회 측 헌터스, 암(Arm) CEO 르네 하스 접촉",
+      "url": "https://wallstreetcn.com/livenews/3202132",
+      "ts": 1795030078
     }
   ]
 }
