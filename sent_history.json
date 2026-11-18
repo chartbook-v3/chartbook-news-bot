@@ -1,29 +1,6 @@
 {
-  "updated_at": 1794996373,
+  "updated_at": 1794996528,
   "id_hashes": [
-    "5ade11aaf278aa20fa6f318a724ae6b2d0e457687dd7ab8bae42ded729df69e1",
-    "2fa5ae988103f532851b887cf8303a0e2ced848262a894daa83f2c3c59aea2c4",
-    "5d9ca90131b952517f88c8a3fa54455ab1285b282a1ef9809f47b0554427d7b5",
-    "b0e4cc270ea7cb6cb7b35ac564808e8c05bd6408c9f49647fe97415698dfc4fa",
-    "bdd6dcaec1314e1cd79a571cfb5fb6dec142cd4deabda05b61506b884b180ccb",
-    "e9270132a5cc95621a5961460e79354299023171f6cfce247a81ef6989ce01b9",
-    "a64725af28b8ff446cb35aaf2057c9ceb2643c4ceb5e6eb585b929712dfaa47b",
-    "f72081192083bf60aabfe838d1d716df4fce9b98f8096017f895e45e012e66d1",
-    "811e2036fad99ca3d796ab6bdb6e0464cb13f321040931fd6ac5cf80f586e56c",
-    "88fa962e3f5e711b132ec13e84af2d7d4839bb0489d61fe861443312eae20632",
-    "f35097b576e5b0e5c8367ad92ffae0bcba8591c61552c86382cf8b50694cc650",
-    "5ac8961fec65094ec50daa828f0354161f684a36b4fe80f5b4fdd29b88ff1704",
-    "44175dd10bcc8db92f93596e765b29e23128aa38dbe1e544561bf8c88741878f",
-    "1ea8ee300cb1828be13233f295a0e1d81bcc67dd0ae1fc3fdab3bec13867590e",
-    "d4b9139d3feeca313514aedddc4add17f039c5c7b3e42b2e1739f1c779fa83d6",
-    "bea5d6a90d7b409b07faded2339ec359da1b78c64adc1961a0cf311ccb75b3b6",
-    "c1fe79af13ff12e5f40255b1b304dcf53091c609460de98f727622a7b067ba38",
-    "7a3b6d319bc4a742119f7371ba1cfe69e05f2879771b65a259f975f8b4d6687d",
-    "b5bd9232196f2b19146a2d5f5022fd87028c6aadaf1f14cee4a80e4f40644202",
-    "67d7f1d2f7e77cca59ef8c28d34aa2864d092cd9afa29770814459053efe6886",
-    "24836d2467f208a778d4e0c80b59973300e8ab76bfa95ccf5da597f600de2f6d",
-    "a44c35f0e1741e554adbde2b2f3a8aed65917c102becb8630e08b45c64198701",
-    "3bb4bb3244f2e41f75e423f5d2e5ddd779b7aa78dae18ad38e5dd8e1a18a0701",
     "a9026e75d9170203e55c3168388e25c45ab39bd97906c7edc350b23d60359de0",
     "e4a40534577854fc86cf8e16e29eddc38d4e39913c67866535f3a674a377eb63",
     "4db6b1cd8573af7645aab5aad291ed8a6bfa23a5ede23f2b1006288ef7869e88",
@@ -4000,24 +3977,32 @@
     "c3ccf8d94d3fef8ea02b0e544f2bc017df1a0b423434da3127ba24d81b230c5a",
     "12c372740b78aa9ff14c943032dc749de2cd513eb56dc09665edfc0fb74f868c",
     "bb92bab81c51a020cc58b53988ee9281941852f69dc614be9383cbbe442de450",
-    "bbfb8f25f7905cc1dbb415ff03cd45081b7e85cbb167c8bd154ebcd7d0a9db5e"
+    "bbfb8f25f7905cc1dbb415ff03cd45081b7e85cbb167c8bd154ebcd7d0a9db5e",
+    "c5cb4bbc9ce91ac30c26d127b8f7a157f63e8691778be77ee2b7da0cc013795d",
+    "fad27e3081551081b7f24cfd303577dc25a2cf10d3cbe0b8673e8d66e1a5beda",
+    "d7369339879f1fd69a71c0630afd9a7ead6e49fb7c7b8adedcf0af81b3ad82ea",
+    "56728e9563c0cd915487fddb6f7930320949c79db0082a7ebb8e4c5afba710b8",
+    "9ffdc8ca08c4024749b0e3178d91a4d070f0f1ba0c2d7b6131d9505f0b2a6035",
+    "ed659c5c3d17e7117ec2bbe6e71c65c91bd2b48dc7f41897882bf318a1d300d8",
+    "18dce28cb8ee13fe5cb7cc567ecc181134c15482e08bbaa5f427a2379908f3b5",
+    "faaafcc36f87f08079fa52597bd2fb4530ff20876e03bee5e90de609bee7213d",
+    "55f9d854dd8f4aba9bf62e612875b68a5a662d932a1f809a032d49968468a162",
+    "945c8a0299d2a524679e71e346f2db47a8a381101335006b9aadb48fa9bd69f6",
+    "118941395dd3ee6914c54b318134e4801b635b4c5d2f1b4cd05615f256be44e2",
+    "9998b58fb4af227c06d4f8ac05f37da36d84f2e21eb1ee5b98999c9a984816f4",
+    "7957b63df81090cef271880e6d5011f806f79c2c0145102f3a14f66650388315",
+    "a7217fc0b625fc726ad9403affba4fe8145238911333f76aefe571f2866b973f",
+    "27215e18074b211c4819dc6a1a38d9524eff6047a0b152f6ed946e31194090be",
+    "847ad14756d4a4fe4a061a0abc587d5e2e1daa1b9e6007d254d388eb2f83ec40",
+    "a592dce627686260f9e480edff7221a623429ddba6c7d7fb5557720ef8fb227b",
+    "4cad159732f5ce3997fe69ba407feefc0284fb66d2296ebe75208e7019417f18",
+    "83861841e4dfdad5b08c0ec000cfac48b3aa8fa296c57a7c914ea528e74d3607",
+    "162ef4d1ade3aac9a80a8594fdd7bcc3633ff86183f1371cc33c82640304ac98",
+    "c575d80107385b898155a973d8d94c1e217a74ff5761f95224185b4be76a4502",
+    "6d1218bde7f2a85107650425e1b45b364c5b18603f83f76e705068a384ac842d",
+    "06c872e3e9c5a569bdfa8a182095e6906be9b7616fa958c97a33cc6e2464fc48"
   ],
   "title_hashes": [
-    "329fab2b59f338853c330efd300cd2284a14d9c20ccd12976762fe524169823b",
-    "1a8be2d48970f02722eff02cba42cc6f0e4850ffd0516d49e6756adf8a6253e6",
-    "dc9ddc1b714dffdeb3b8d4f712690c6f93aef381d4077dddb3c151cf506def57",
-    "c1e1d6c131e27b957bb0ddb6d989eebc6797c890b69e8426bc39f3ee1f21a8bc",
-    "aa44b22ba7e9269a083648669ffbca58f08f121fd8e95a41b9db65128f23512d",
-    "0ea513bfc7ee3b81ed04bcfae383563ff3efc5e95d2c8124d11d3beb35df7357",
-    "db94d5637ab4f75a596a04cc4cda9274d068bec4298d67a3ba26523da764432c",
-    "68ea8d1c6bb52f18310c715b9f16c5d1430c66a2122cf0ced63e573e403359f6",
-    "e372daab77448b5b305dc32392a0e01079a3bff96d94abdd8e4ea1ec32acaeff",
-    "408a0774bc1c2c7fd4b66d8a18389b1c45f509c1e8a84ce8dc879afafc3db805",
-    "112420e1b944ceeb764c87e6e53cbf888f868100a5793d19aee6fefc0793e0f0",
-    "06ca836ece9278e0b27a2472109993a94e1cdb213ed55214d9c0f82cf8f2d4ef",
-    "bcf2c63b644ee530eed9cf43fdda5609765b96a0c6518c83ddabbc84260a9d6e",
-    "13921e3b56c67f4af3287b0649d6992d1f69fccbf683c1f30b195e8e2353c455",
-    "77d087570f22a843e4cfb668b94e2a7bb43601d138558e0655e8272d899d581b",
     "f500f429c14372f2e0818ee220dd4eb66e7acb82d2047e7f63a67c689722c7c3",
     "ead3d62e8271cb9f0d7bf6e588326e9d82c5a660abb26159b2980f29df880689",
     "886d416d96d0709e031187514e8d3a336e7774087916c365c6c4ccb90803a5be",
@@ -8002,44 +7987,24 @@
     "2156631aabe5236e7b158f2372f3c36a767111ab188cdeb407a204fdcce6a992",
     "4c6cb6f5b52a56e3ce69135deb6b6182bd2ef490d7ace53e2822a64a3219eeb5",
     "8cb1d45444846d63182f25d7675bd0bcd72b3d00ca10fc566badc0d655160f9f",
-    "865659cafcf781eeeeb4484d5675f3ec0b11547f5e31f8f8552a979b85436651"
+    "865659cafcf781eeeeb4484d5675f3ec0b11547f5e31f8f8552a979b85436651",
+    "81641fc0b8dfd5248a3a25c1df0d90f8af36ca9d5d411734d840bae623003519",
+    "70997df982d64a437a9a9863ec34f77a1c92205c34f2947bfa9cbddc50b4e3ae",
+    "1eda7b576cafb33447cc3ee60956d5ec4bdc4bae3872aec5cd1b983d6b77a004",
+    "58b83c33b02f7097fc4747b48f13b2c65479d016a8f93e77561a50d6bd425a2e",
+    "57ba05f2aac44f04e5447941b4bcd6381e04b631405984b78ee147250a7ea607",
+    "fd0a3ed7c4bf26d9bdd0e938097864ae339da37337a1e8ceec85e96a4ef2daca",
+    "c5a0825679c144bc98878ec1006d3920a4d13eb3fbcc0664422b08002be5eaaf",
+    "abbc4aa9d484bb7bfa7cbe03f8965dfa463fff31fc9895c701e52b0ff091f80a",
+    "79d717bef85714e6c7d2cca3ec1a06fe16932508c168acf52c4bfb82097777dc",
+    "d5fe9adbcbae06ace6009eda0d621fc1a461d5566e3d6562897d6d10d7096c68",
+    "29938a9f91463ddf38b659b03182486ef8d334bbe23d519723bf40d54ff9b0f9",
+    "437c358c2c8020c3338adb85277a562f35ed78a1c10e89f41fc4b1b69cbccf5a",
+    "73f969efa465bd6125bef34ae0226091789a0ec74fbd9bc9bcb7e180a9071329",
+    "d3b22358cb71b4d81162a00a1da91099dcb7c458a2c9ed4ca2ec7d1d108227de",
+    "ca420f0d8d3466a6f7b3b43aed910baf58b3fd5c563b4c073991f31c7b1bd361"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "习近平会见韩国总统李在明。（新华社）",
-      "title_ko": "시진핑 주석이 이재명 한국 대통령을 만났다. (신화통신)",
-      "url": "https://wallstreetcn.com/livenews/3201676",
-      "ts": 1794971404
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "JAPANESE AUTOMAKERS TO ALIGN SPECIFICATIONS FOR MAJOR MATERIALS AND PARTS IN A BID TO IMPROVE INDUSTRY-WIDE COMPETITIVENESS – NHK.",
-      "title_ko": "일본 자동차 제조업체, 산업 전반의 경쟁력 향상을 위해 주요 소재 및 부품 사양 조정 – NHK",
-      "url": "https://t.me/marketfeed/1080266",
-      "ts": 1794971406
-    },
-    {
-      "source": "The Information",
-      "title_en": "Nvidia Introduced Alibaba to Alice Huang for Workaround on U.S. Export Controls",
-      "title_ko": "Nvidia는 미국 수출 통제에 대한 해결 방법을 위해 Alice Huang에게 Alibaba를 소개",
-      "url": "https://www.theinformation.com/articles/nvidia-introduced-alibaba-alice-huang-workaround-u-s-export-controls",
-      "ts": 1794971470
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Wall Street ends lower ahead of Nvidia results, focus turns to Anthropic debut",
-      "title_ko": "월스트리트는 Nvidia 결과보다 하락세로 마감하고 인류의 데뷔에 초점이 맞춰졌습니다",
-      "url": "https://www.streetinsider.com/General+News/Wall+Street+ends+lower+ahead+of+Nvidia+results%2C+focus+turns+to+Anthropic+debut/27358622.html",
-      "ts": 1794971527
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Beijing Bolsters South China Sea Push With New Island Runway: Analysts",
-      "title_ko": "베이징, 신섬 활주로로 남중국해 추진 강화: 분석가",
-      "url": "https://www.barrons.com/news/beijing-bolsters-south-china-sea-push-with-new-island-runway-analysts-2694f730?refsec=topics_afp-news",
-      "ts": 1794971550
-    },
     {
       "source": "딜사이트",
       "title_en": "엔비디아 3분기 매출 두 배 뛰었다...삼성·SK하이닉스에 쏠리는 기대",
@@ -11504,6 +11469,41 @@
       "title_ko": "시진핑 주석, 트럼프와 따뜻한 포옹으로 정상회담 시작",
       "url": "https://www.bloomberg.com/news/videos/2026-11-18/xi-trump-begin-summit-with-warm-embrace-video",
       "ts": 1794996372
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Kurv Yield Premium Strategy Apple AAPL ETF declares $0.30 dividend",
+      "title_ko": "Kurv Yield Premium Strategy 애플(AAPL) ETF, 0.30달러 배당 선언",
+      "url": "https://seekingalpha.com/news/4674051-kurv-yield-premium-strategy-apple-aapl-etf-declares-030-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794996394
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "XI CALLS FOR STABLE AND CONSTRUCTIVE CHINA-US RELATIONS- XINHUA",
+      "title_ko": "시진핑, 안정적이고 건설적인 미중 관계 촉구",
+      "url": "https://t.me/firstsquaw/193857",
+      "ts": 1794996459
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "XI COMMENTS AT SHENZHEN AIRPORT WHEN GREETING TRUMP- XINHUA",
+      "title_ko": "신화통신 \"시진핑, 트럼프 맞이하며 선전 공항서 발언\"",
+      "url": "https://t.me/firstsquaw/193858",
+      "ts": 1794996461
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Imelda, Modi And Jollibee: Lighter Side Of Trump's Manila Trip",
+      "title_ko": "트럼프의 마닐라 방문 뒷이야기: 임멜다, 모디, 그리고 졸리비",
+      "url": "https://www.barrons.com/news/imelda-modi-and-jollibee-lighter-side-of-trump-s-manila-trip-6762e850?refsec=topics_afp-news",
+      "ts": 1794996524
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "EU's Von der Leyen: EU Commission proposes a €45 billion loan to Ukraine to help cover 2027 financing needs",
+      "title_ko": "EU 집행위, 우크라이나 2027년 재정 지원 위해 450억 유로 규모 대출 제안",
+      "url": "https://www.financialjuice.com/News/9857566/EUs-Von-der-Leyen-EU-Commission-proposes-a-45-billion-loan-to-Ukraine-to-help-cover-2027-financing-needs.aspx?xy=rss",
+      "ts": 1794996527
     }
   ]
 }
