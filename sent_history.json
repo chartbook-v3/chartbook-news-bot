@@ -1,24 +1,6 @@
 {
-  "updated_at": 1794997910,
+  "updated_at": 1794998065,
   "id_hashes": [
-    "4784e1508e7da0eed409f4a668589f0024bc0d288d741a3f7434a20430f1c84e",
-    "4b0f2165781fc4a6d00d6880b27b18f64e9ce01025c0b272e452e2f39c99701b",
-    "0713b59e619a1c03854d401519239b344ae2908c1a908c0e88e46eccfff739a3",
-    "85db1abe3c14b967f019d5c81cdcba5904469431bb8f7821ed78f7c1bfa57874",
-    "f0f2f3dcb9991893b3eac35b255f26055b4219bbddc5c18e00ba5c36347eeb82",
-    "b0a87948077585866f15913032f5f2d9625e9835c5d46271d158b5392ef46c75",
-    "1450389d42b3a68525ade906a1178b63ea3a9fcea01fccaa2a7544e118cd1ac9",
-    "ed4b8271288a0c198dde50c716b7f5839fac26503872a1261eb760fbf966591e",
-    "be376b165cdafc387e331830bbac732280125b1ec5ab3e463c980e803c862b9a",
-    "f512af46b594919d8f13c1343ada074d58dab0d52f38f9f1d07ffaf158f9394f",
-    "f66d9c71b51ffcb95d0089e2cb4b17a5e19f904fb47b8220db1e41a5055be1e5",
-    "833bd6bb02006e7e8f71843380cfd0fac5d927d7a6971bbbb39fa232da572007",
-    "079aad6a49c3d5b3ea5f39c698c06b6931d6d63970a7911afdeb1638287c7fff",
-    "6e6b86d7eb845f7d8acbbd2557bca9b69b114c8316864983916a63de1a988431",
-    "adffc8afcd2d497701cd1859dbfa5717ee586f052df7bc4798c4c65ac2a39393",
-    "cd434314f10ecc57e8539e7ce1f977b206e8730e7a64480e2351b8912d6117fa",
-    "24fa9b8775052cbae546a08d49a6fce7b987e154c5b07c9cdfb62df8ba59cd07",
-    "a82d41bfefcecaa74d3f72e19d309d9c48513322ddc42996eb33bd8847adf231",
     "16f858d87859352a2eafa0139c2f11084906f9d3eb9ea8a4213b9044ce65ed26",
     "d221deebbe3b1b2fbdffcbe7a7e04d8c07750679e85e5197e172e5c42ecc3d2c",
     "bb5f057b46f311d0b39a92d03b75633a42698da83dc434b6d066f0f2c70045bc",
@@ -4000,19 +3982,27 @@
     "7214e3dd8c001c6a0a842dab1285726185b07cff3504f44dfaa24d43bdb0de90",
     "c02ba81b5f71120c0d2ef08a3eaa3de3108b0fd0f7215b964469d67134057a94",
     "64616d411032590aec4dde0d8e42b63da569038227edd0ad8938bdd7b3765c54",
-    "f6b46a41a9cc4ece7216e4dfd0499a8f8a9ec468faa0e8e37d392f3eec6a0e41"
+    "f6b46a41a9cc4ece7216e4dfd0499a8f8a9ec468faa0e8e37d392f3eec6a0e41",
+    "808fde75b78c2d470b929949a422dcc986f2b3f8f3a27c2c3fb309ae2e4fe448",
+    "68461c2078f0ad930808e3c686d2f3c0acc50d653a04c236a58facee84eb8d71",
+    "b0863e720f4ce1fc60d40b096d917de06b44110c48558ac92d24e23ae238ed31",
+    "cb4f5d1646e9da3f11d5875a9aceda5f5db0d182371afbc75de06499af9a680b",
+    "3debe3fe5fc2a7f3a61f7bd9fa2984bb815fe8d6dbd1858009c3cdb5fcc9afde",
+    "675464d458dce678e65634cbb1b5112ba17e30724dbe832f5c7d6204daeed18e",
+    "ff8ff810ebc38dbd9ca92a49b671103e1c2bccdb24149c307eb0fc104a693510",
+    "672fa5611809f3335dd2ae3d807cc113f4a40cc6ab264f3f225508afb6cce631",
+    "17d024e90a1fa5f152a732a4ef60e3dbf16dd78f96e6e3b3e57bd2631a6b901f",
+    "a5b6f71aaef4338929bb636e63a5088b536b0040ad953355240fb9bb4374162e",
+    "b1a9a7c8cfb44503b620153a263665b50f2fafc80185837d9d5a1a9916dcfdb2",
+    "44f5c723a39a20adeb6528b786c5bfcf71f1692c6660680d254a13e8fb2c6800",
+    "ae6a50c545377918b836bbea5bedb2cfeb2a6c6894d4cfbf35f32447687e037f",
+    "bf3a3ff9aee2bdded1012b00d91108129c67189445779d0e9193047bd8b39c76",
+    "bf8daf41f5bc4d779032c66c683b2e9892739b81280c08a33e9cc0c1ee301fb5",
+    "8e4d9308b121581a662dec01671d3d088e331c2b304bd79617169fa640e45232",
+    "892ad798f3f38dacb3676e3788899ac62c9c78319884d964d0d341204c1a26e2",
+    "5fc230c5a7b4fd860b6f6bea66446ed12a805a394351881c6a4fd24386b38512"
   ],
   "title_hashes": [
-    "3501441fba4b1ea03b0edc3527a07068383b6d6340a06cbcf045a5278c389ff6",
-    "528148862e63a165a95da9a6fd41e8db2520547deb1164de43f8acc6f8c67bf4",
-    "2688ca9c8568cf2e92e91b8d515a9fa5f84cad3bd0692ebd699873c925223ed7",
-    "9888f1893245a2b52fffd3c57b0df1205006abb9b3e45acbadc50c6259bac49c",
-    "e639564f5a181f62388bea12f5a8a48d96ba4ebc298ac1a6b1ea9b8627787552",
-    "5f6cf6fe2f03018555d61349baab42e6e6ac04b63e4efaf40a23c4e1a5854004",
-    "e52db0d71b0ef7d5b2a5439ef8367a65788d59f9cf218a0add62e06f18d05ffe",
-    "cebdcc97ed0b8253fd50e6f933230144ebd1543c543da3fcdb80f02359d23f00",
-    "90e54accc26bf7744f3516d96e1382323f35d756f0f59f9538ee0f8e6ae54d2f",
-    "04dcaf07c54b49cb95c08c76feeefad97222cae92f2926a27fa0d0e43df74451",
     "7d3bdf9e5cd3877344016816363c467b646d51f31183b3bcdcd287756aaa66ee",
     "0515e7882f719678f2e8cb3ccac703e6bf801da64d459e01d07befda5337c8c7",
     "e734a3a5d52e3e836473215db623bcfed30a61fc6cb183a3c795ef5d20099e88",
@@ -8002,30 +7992,19 @@
     "2d6925a5e86ca51b7f366871666739d88936fb27151d63a429c3e6a0c685f95a",
     "4bc7e0a273db615e450d18411f592bb5c0ca28364dc99c0a32c25fd7afdbbcb0",
     "a9eb07ca308b4feefe42e42fccafcd74172d6248c6ed45543ace63955646386a",
-    "8fd599baafa19871076426cd18c7d85e50ec21ce392b24613c67b0ce98847b40"
+    "8fd599baafa19871076426cd18c7d85e50ec21ce392b24613c67b0ce98847b40",
+    "bdc46a728c414aec0bb367d7179981deafdf7d57bc759d6c832915618fe06134",
+    "647588f2e0ad3009bd0a066e6ffbfc06b14563d539232a4473d115bb25777c18",
+    "0ac9b1fd61bf0e2c62a33e77dc2c0500d71545b7ec91c1901d547a4c51f8c76c",
+    "752730e57028b504bbf5e045c9f9508deae1b006d623511729bd449e54a03a71",
+    "0bbbb5d72620d8c5cde2c462fbfbad3056c13bd38b408e8887c747efb12047fb",
+    "69c7571379a1a57712e9df37987e525d87a164932ddee4d16cda74de20bef006",
+    "647d7d8cfa37831f12d683517f62e16db223b9a1ca8d6e2b5053fadeebc94da4",
+    "4804451808cd3c8dc4151409af9ea6bd82ae77221fe65a1c9c67edfd49ea32f0",
+    "60b55e556e52299a0ccea781a0f18b5fd62359a038cb2ce040db64d4a6a23c78",
+    "1e339b560384a213fbc11d9868dfc859cf219f7552f1a0e75687c54c8744f8d8"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "The US dollar has lost significant ground in Russia's trade transactions, Putin says at APEC CEO Summit.",
-      "title_ko": "푸틴 대통령은 APEC CEO 정상회담에서 미국 달러화가 러시아 무역 거래에서 중요한 기반을 잃었다고 전해",
-      "url": "https://t.me/firstsquaw/193731",
-      "ts": 1794972749
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "At APEC CEO summit: APEC a key partner for Russia, says 'we are ready to expand cooperation'",
-      "title_ko": "APEC CEO 정상회담에서: 러시아의 핵심 파트너인 APEC, '우리는 협력 확대할 준비가 돼 있다'",
-      "url": "https://www.financialjuice.com/News/9857045/At-APEC-CEO-summit-APEC-a-key-partner-for-Russia-says-we-are-ready-to-expand-cooperation.aspx?xy=rss",
-      "ts": 1794972754
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Sociedad Quimica y Minera de Chile GAAP EPS of $1.91 misses by $0.10, revenue of $2.11B misses by $80M",
-      "title_ko": "Sociedad Quimica y Minera de Chile GAAP EPS 1.91달러는 0.10달러 손실, 매출 21억 1천만 달러는 8천만 달러 손실",
-      "url": "https://seekingalpha.com/news/4673981-sociedad-quimica-y-minera-de-chile-gaap-eps-of-1_91-misses-by-0_10-revenue-of-2_11b-misses-by?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794972782
-    },
     {
       "source": "MarketFeed",
       "title_en": "PUTIN REAFFIRMS RUSSIA'S COMMITMENT TO EXPANDING COOPERATION WITH APEC, DESCRIBING THE BLOC AS AN IMPORTANT PARTNER.",
@@ -11504,6 +11483,27 @@
       "title_ko": "나스닥 선물, 엔비디아 실적 전망에 AI 반등 힘입어 급등... 앤스로픽 가격 정책 주시",
       "url": "https://www.streetinsider.com/Reuters/Nasdaq+futures+jump+as+Nvidia+forecast+lifts+AI+trade+ahead+of+Anthropic+pricing/27366009.html",
       "ts": 1794997909
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Nvidia’s Strong Fundamentals Give New CEO a Much-Needed Tailwind",
+      "title_ko": "엔비디아 탄탄한 펀더멘털, 신임 CEO에게 강력한 순풍 제공",
+      "url": "https://www.wsj.com/business/nvidias-strong-fundamentals-give-new-ceo-a-much-needed-tailwind-65859856?mod=rss_markets_main",
+      "ts": 1794997997
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "MARKET MOVERS: 🔴 DOWNGRADES",
+      "title_ko": "🔴 [특징주] 주요 종목 무더기 투자의견 하향 조정",
+      "url": "https://t.me/WalterBloomberg/38589",
+      "ts": 1794998000
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "The Downfall of Jensen Huang — a timeline of allegations and scandals that brought down the king of AI infrastructure",
+      "title_ko": "젠슨 황의 몰락 — AI 인프라의 왕을 무너뜨린 의혹과 스캔들 연대기",
+      "url": "https://www.tomshardware.com/tech-industry/the-downfall-of-jensen-huang-a-timeline-of-allegations-and-scandals-that-brought-down-the-king-of-ai-infrastructure",
+      "ts": 1794998064
     }
   ]
 }
