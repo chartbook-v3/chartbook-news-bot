@@ -1,29 +1,6 @@
 {
-  "updated_at": 1794963739,
+  "updated_at": 1794963889,
   "id_hashes": [
-    "beaa049655b0635ec439d5ea0b670f6f526807dba98f6496adf216cbbcab8f2e",
-    "f02f60ba9e863acb50bb2d14cdb85fed881495a5957b614f36fdbb92f387df0a",
-    "c0366224985e43582d9b29ea39c7d29d48d54d0b65ea26a84b735783c9e83f9b",
-    "9e0491e4c669a9dde7b60f733804a64b1fb58737a67cc983180eeeb0a47b500d",
-    "487ec29b4a3862445645f693ddf5ba4c2510fea860534765d8642252ea09d842",
-    "1c899d9885321a2f1c25970283a1bb07db6cd6d0c79b3bcf00cc6fb1c09e111e",
-    "1491e20590aae7109270b5a97ede66eeb0675c57b031b8fd989f2bc0d3b52188",
-    "6c18b34a5c9f1f02fbecb1f1cea37d211058f4cf9faf9d8308170ded1907eb3b",
-    "1b9bce37a2cf2ce6427f5fb2c87a718c72f6a89a96d52e4ba372938cec555f26",
-    "9f134de2e5dca801787cbbb2cd0a8e2a72ea625883393ecb233f16652b18615d",
-    "60062786d2372d93fc43cfef1b3fe59eca61d8678ff77c04e75be7d092c0801b",
-    "30ee41eba7cfec233487f6d64c4c3299ef4f45697030c88c4800adef47ddeb06",
-    "d2e71b31654157963e802be40aea1e0cc1c9f0d583294bf4f4ddb43da8e88298",
-    "9989995fa1b85e76b4fa707aa84d1de297aaf51ec27f9d69a16fcd9196e84431",
-    "a13b607ffa109b17b7776b2d81883dc0bccaa48b52026ce6653e69fb02bec67b",
-    "7c3b0077414f0b73b0f93d86ed3425a6f9c6bac68a2c043b5f8ffce821ad501c",
-    "ea51505f4a0a1274de82026df063cfa35c65ae33fdb22f1cda0efddf9303a533",
-    "60f1eee0ea00eed5973c93806a16a6d020a92e63f40a52eb30b6774e2e4bfa61",
-    "a858e682c4091ac386b2cfa81024048b7f9989548f24359f0f90c7f93a6d6b04",
-    "6fe969b677749ed0d61918b96f6a3afe7732bc2722c307a0221802d819f3c33a",
-    "be43f6fcdada2ba7123cfc4e17e11b3fddf0101d53b00f28994d2c38922e565f",
-    "431a19865f47e9f4a522690f9d5fe1b2c89a583b56a6fb5f5eaced09c2266fec",
-    "a016db2c8e638e33e5de32765a0226d1c1674e549cbd6a5226dd274354b62cf5",
     "a38daa4f564971c61b59a7b96396099f1873185ea6ccc1912dc7baf4d6288b79",
     "625d2372f75bf9e012419e17ab4bb5d6d356ae1ae9d921e8df5ff7195a6af1c1",
     "43f81b47e874c5550b7a55e10c8daba4da2dff1b0deef19d0f63584d53bc24f7",
@@ -4000,28 +3977,32 @@
     "fc0b233f403057f219c737a2070a338098bcf918a6351f6fdfd17e773c4a8220",
     "f6987cbe097d93400a67f399ed04a117b1a4e0b891443f4f851a2963d314e8ca",
     "23abeeaeb3575fc3a7f3792a43bddf1fefe4c4a72cad25987e10e042f98b2e88",
-    "cd3ac8504ed7602d9976f019326482e41627cf865125a1498f53b0732fae8a1c"
+    "cd3ac8504ed7602d9976f019326482e41627cf865125a1498f53b0732fae8a1c",
+    "f0765ec3574352e102351a40a1f03c9e8377424ac37903d5b91525aab0d87d0b",
+    "7ca8ac67030da9fb467b440f944d8c8fe9f86aaf425cb4ddb6b91fbadd572b46",
+    "a435785c462fff0d086e0a516a0f57df8582aadb72c79922d21d204e3b6d2b39",
+    "08f1c087a47ea172998e97976f3de3ddfb9a37a58556bec17034687e9569953d",
+    "adb96394bd07b1c1bd7908a462d754f5ec33c8d284f3dd0f075d6fd685e6bc95",
+    "2d68be9382a73033000ef4e54bfd58a19658062be2ea8266567072b2c0eabca9",
+    "17f987c2378b2f08c8c387a6d4f1696bf39ea5532f895f829a54dfd0b6e185bf",
+    "6416fad4a14ca160e8bec2e77947c4d2009e690e16b758cff4ad4a49e2efbbce",
+    "9e808380116335e3780225f454240db93582fb10a41c5bffad8ba54eec16f54b",
+    "d47a7ab30b6a7691ff7f1cac5879e7d7ecdbf2119f587ad25a05935153d6dde4",
+    "3cb81b735594fa25b9af9bd228159dfefda82e76a233a32d512c22aeee3cd191",
+    "221077f23b7d451a985007e8f0d38c81319d4a756567c134c2742f8217fc5d83",
+    "6900cd4f771321d19051fbb2be031857c09a33242406e2c43b35d8f0ace49b70",
+    "e59960fa5c390d1eb453abd7e243b224e958b28dd3e5cbf4713bceef96c1e413",
+    "8904c976827798075c7c57951f4dba9127940f5a196d67f75efb8b2c1dc17e0f",
+    "aa24417fb895a94077f8f6213ec47c9567c36551d29c569ac63f37d372268458",
+    "9c9ff75378c44cbf26404a04e8c024ec34503e4c0136fca5177d607d33a63f3c",
+    "82ff1f520a0de951fcec9512a7cf13af3d4ab313f21b758e52f2c7b471278177",
+    "06cee1eb7ab6c2b910545ee966bcd5c595e121ab13caab253f0b8e0a21d716e1",
+    "eeafaea3374b8e55d8f68854a7e8edb8f329d6ce17c1aac00ba04b3183ea273b",
+    "2bc3092cc8ea0bcb8d2c41f34e9a449190ed0ce6083159523ee898f782ceb9ac",
+    "8a5c6df7111d62c6638b2edd5df2e8417e302f38492e9b785f0020102fd7dfd7",
+    "8aa7d754868100f0bbe5fdc9979b3600c36feae376fbecc63c056dec28981697"
   ],
   "title_hashes": [
-    "4c2295ce6991a5b43f3528aa1b3e8b0fcb71586d2d3b2d6f425990d056e38696",
-    "a45904b8664baf260faaf92ae33efdded3b412af78cea396a06f502fcbafd469",
-    "cc9cca646e2f8004c667e0485c34bb0cc3d141a0ad00fa84ea6e7f747e182cb5",
-    "c2a573473404b9a006be38e8968a03b02070c658624b4bcf0de70cc094e37e50",
-    "b2837c459142e94709e53b32197f72c45ad13f28535fc0f720f5c569a9aa6a23",
-    "4775cf0aa844fade7e91c2f4caccbc14bd0b510d8e684eda5f576b7030e97403",
-    "d0e62896374d1e6eded7a52bc3959d022371af33c55e855dce3aebc5b52eb7fe",
-    "956d7884b190ca288a20cb9554c9c29cbb580fada4c86efe07110296eaffd244",
-    "467335ea98c42f33b9f29df05dbb8e45e853a6a23479a37b3564a1ec4485544d",
-    "1dbf9afb097522f06e62645be52c029bd51a1f095f1c6c20c7fda92b42f5d069",
-    "7d8cc7d1703896a0a06b863e1cf6d0f3f1ea3e490a511ee16cb10e1316e82950",
-    "44c7acf81d9d692277c271c27e4bbbe3a70ca9caabe147a22134058869d4c656",
-    "67b66ec3c26434a72126ed050b70468807f00035d70950b57185e8eff563cdaa",
-    "97103b41ffb89a8180df372755bdd4317185832fe441878a8b5aefb10162a798",
-    "c36ec28299544799a0de917995516073ece6a8f400a65aa8731aea1d79f16176",
-    "1c49e740d5f5cba1c5153c0e4a79d3be7ced17878e13abf17aab85a64fbfa9e6",
-    "20f8fefa513ff4cb7d890b9b3d02b96d136699a51495582e119b33a0f7510bba",
-    "b1952195c8447a99b925605b249943612a188212fb28c1757d3e048832b0065c",
-    "a9e1810f68f8bb3eae27b3a68536cabf92a87182e7e1e476fecf6fa3ec667747",
     "890184a9841b5e47febe66ae873feb1d4288c901f7acde96e996ccc158a57c15",
     "2cc9b508f55e4a5f9b790e97daabaae5ed816d7d8444de590e52560db0d712cf",
     "b2dd9501aa41940e29a60bb7f734f9faad3b86915d5edecdfe058d2b3eff4946",
@@ -8002,51 +7983,28 @@
     "a843ae25824760f142bc3d8d502742ce34fc47e7e4fb8e1dd6ed3458945b61a3",
     "f91aee967b1c21ab0a19e7676ef35718f9f24022fc0495bb3ab19ce115b69b39",
     "a61eebf682eee8752968f520a436ca7b54b48850ede0f4ea5e2590dfe03b3431",
-    "35ee26670076a67d71cca8a32871003d19149353bd18dc2aef147b9035f782f9"
+    "35ee26670076a67d71cca8a32871003d19149353bd18dc2aef147b9035f782f9",
+    "f0694f207e6abeecb285c6a5dba5907652aa985f5451df945829113ab61b0600",
+    "0ceed968c73519eee01cd5de9d837980ef60c920cffbe04133d59846fa5a152a",
+    "26dafd20d32adafaae827e4c6856aa51d17ebc2cced96a331808ec1ccc65fa37",
+    "b68cac4d0fed634fe63ff2ecd51116ce91cf4d9c76cf18b77e292cb6672175b1",
+    "75c3352b4d536e22870e26a4e5b7d0490690f2d774b85de97e62444de604a696",
+    "885d44dc30e65a7a085f5291fb6189c1725edee2a2993c52d6191feb9a3ce478",
+    "15b94fffaed2d85d6d663185b3585c7bc575710bfbfb35d7a855002f0f92230f",
+    "6124a5f562581d1c764db0259ac55368dbdffe642d89092c08572955a0011e26",
+    "b1c69a178d934bded02d1bb9765e82224a7b8cc1b6c2a449c29e839af3302594",
+    "9ecc2ee1f90a0d2b470d998013ba2343627130b52af98614fbbe7e893fb0c1ca",
+    "8adeee791a4ef825d51746dc5a42659260cc2950cb8bf42f8f96c7f417cc960f",
+    "505f53650e098fd47531731fa8a68fad86275b81945f600c20d9a2e37f3c3e7a",
+    "e1269586d982cee08078d3603d010e51064eb6ecc4e2126837742e9443612882",
+    "db6b1650735fec1f31a2babeec72e0a5f810ab5d92b1c02f442871d5ae6561b6",
+    "cca4d2d182ef30c9b3159eb95d80e9da3636b53a538192ce4dd5ba82532a08d7",
+    "04f2617a8d265ba2f42864464e4acb6334265492c9ddfad1e6179296323ee5f4",
+    "235730a3e5fa9bc1975145336d4ea6cd921a361e973203b21bdec5e385d1696e",
+    "9034d1f6700e8d9fdd1ae63d20889ea3738f874691af187c3374020457484b46",
+    "a808767d917dcbb245ef96a0ac55971f2e1fbe36bb3739ad0751fc11ee81d203"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Reuters",
-      "title_en": "Pentagon's Colby warns NATO allies against shutting US firms out of arms deals",
-      "title_ko": "미 국방부의 콜비, 나토 동맹국들에게 미국 기업의 무기 거래 중단을 경고",
-      "url": "https://www.reuters.com/business/aerospace-defense/pentagons-colby-warns-nato-allies-against-shutting-us-firms-out-arms-deals-2026-11-17/",
-      "ts": 1794941340
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "Wolfe称芯片悲观情绪可能引发标普500盈利下修",
-      "title_ko": "울프 \"반도체 비관론, S&P 500 이익 하향 조정 촉발 가능\"",
-      "url": "https://wallstreetcn.com/livenews/3201468",
-      "ts": 1794941342
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Apple confirms outages for some services on the status page. $AAPL",
-      "title_ko": "Apple은 상태 페이지에서 일부 서비스의 중단을 확인합니다. 사과",
-      "url": "https://www.financialjuice.com/News/9856284/Apple-confirms-outages-for-some-services-on-the-status-page-AAPL.aspx?xy=rss",
-      "ts": 1794941345
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "苹果公司确认，Music、APP Store、AppleCare等服务处于宕机状态。",
-      "title_ko": "애플, 앱스토어·뮤직·애플케어 등 주요 서비스 접속 장애 발생 확인",
-      "url": "https://wallstreetcn.com/livenews/3201469",
-      "ts": 1794941347
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Disney Profit Beats With Marvel Films Powering Streaming",
-      "title_ko": "디즈니, 마블 흥행 힘입어 어닝 서프라이즈… 스트리밍도 흑자 전환",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-17/disney-profit-beats-with-marvel-films-powering-streaming-video",
-      "ts": 1794941378
-    },
-    {
-      "source": "Reuters",
-      "title_en": "European-made Ruta missiles only foreign weapons used in Ukraine’s Crimean Bridge strike, company says",
-      "title_ko": "우크라이나, 크림대교 공격에 유럽산 '루타' 미사일만 사용…제조사 밝혀",
-      "url": "https://www.reuters.com/business/aerospace-defense/european-made-ruta-missiles-only-foreign-weapons-used-ukraines-crimean-bridge-2026-11-17/",
-      "ts": 1794941381
-    },
     {
       "source": "이데일리",
       "title_en": "[美특징주]엔비디아, 약세…모건스탠리 \"3분기 말부터 기관 보유 비중 낮아\"",
@@ -11504,6 +11462,48 @@
       "title_ko": "바레인 국방군: 이란은 왕국을 겨냥한 공격으로 체계적인 적대적 접근 방식을 지속하고 있어",
       "url": "https://www.financialjuice.com/News/9856793/Bahrains-defense-force-Iran-persists-in-systematic-hostile-approach-with-attacks-targeting-the-kingdom.aspx?xy=rss",
       "ts": 1794963735
+    },
+    {
+      "source": "WSJ",
+      "title_en": "The Seven Anthropic Founders Who Are About to Become Multibillionaires",
+      "title_ko": "억만장자가 될 인류 창시자 7인",
+      "url": "https://www.wsj.com/tech/ai/the-seven-anthropic-founders-who-are-about-to-become-multibillionaires-443b133e?mod=rss_Technology",
+      "ts": 1794963757
+    },
+    {
+      "source": "전자신문",
+      "title_en": "보스턴다이나믹스, 반도체 제조 현장서 아틀라스 첫 검증",
+      "title_ko": "보스턴다이나믹스, 반도체 제조 현장서 아틀라스 첫 검증",
+      "url": "https://www.etnews.com/20261118000097",
+      "ts": 1794963821
+    },
+    {
+      "source": "전자신문",
+      "title_en": "국산 중고차, 내년 4월부터 수출 시 UAE 특혜관세 적용",
+      "title_ko": "국산 중고차, 내년 4월부터 수출 시 UAE 특혜관세 적용",
+      "url": "https://www.etnews.com/20261118000015",
+      "ts": 1794963823
+    },
+    {
+      "source": "전자신문",
+      "title_en": "특구재단, 덴마크 로봇산업 거점 오덴세와 기술사업화 협력 모색",
+      "title_ko": "특구재단, 덴마크 로봇산업 거점 오덴세와 기술사업화 협력 모색",
+      "url": "https://www.etnews.com/20261118000103",
+      "ts": 1794963826
+    },
+    {
+      "source": "전자신문",
+      "title_en": "오텍캐리어, 200MW급 사천 AI 데이터센터 냉각·공조 장비 공급 추진",
+      "title_ko": "오텍캐리어, 200MW급 사천 AI 데이터센터 냉각·공조 장비 공급 추진",
+      "url": "https://www.etnews.com/20261118000104",
+      "ts": 1794963828
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "DIGITIMES Insight: AI servers' shift to 800V power reshapes the capacitor market",
+      "title_ko": "DIGITIMES Insight: AI 서버의 800V 전력 전환으로 커패시터 시장이 재편됨",
+      "url": "https://www.digitimes.com/news/a20261117PD224/capacitor-ai-server-gpu-performance-transmission.html",
+      "ts": 1794963888
     }
   ]
 }
