@@ -1,27 +1,6 @@
 {
-  "updated_at": 1794983699,
+  "updated_at": 1794983851,
   "id_hashes": [
-    "22e05a1c9183c9d60e2f176dabd7f99fd95a87990ff9b0cc5c534df2d3fb34d1",
-    "3b72d57a1e014d84495405b2ab1c56dbfa228323c86c4d082c9ac54c76941cd3",
-    "087f4d3184cf8ff4930f0be20b8ae961553d170f69a34dcd748824cbf7c809e3",
-    "bfb0fbef52ea1c5a6d2dd2c78f71d41356718c8e5ce563df272193d95266846e",
-    "87e2c4ee11d05374d929c33e25385f4f1edc6a3de6722c53901f7c4caaa45964",
-    "1d561ebe6fadbcac9fff86a1d8df504b00173ab023f71c8c50c7f9e70433a382",
-    "80eae8f2f34913e6922679ab19275dca3d3d07fec2f2d498a00e55e214a78984",
-    "c12be4d4af4d4f50396365cbc56771dcbce8ef704fda0d13e8bc9ecb4beb5344",
-    "bfb448e824fe8a846f869d80f1d27a5aca03e0f8c9feb24b49f219772f8c6374",
-    "6191103ac494ac0807a18d2a68ab307127353a977289d77169ce2893c9b48fcf",
-    "18404db2e24b8df1e68820b537d6c6c86ae0f83912f65b194ed827c347dea4b7",
-    "1bc644fe6900a7bf93672f6c387a1858e35c27a8d474603c4838bfec59386369",
-    "1e5c3eb33b82bce17a4d542b74b6ea7cac6b678ac961c7f3f1cb8152430a75ff",
-    "f9d90442f309fe517353a8331b93f43d8cea1ff93981b76a528ee7129aa256ce",
-    "491f2bef7a4426f09c375e4e8f22c0204d24293768cd5e4874356708cf14d024",
-    "daf1fcf35ca7e33dd518bb275b75a50b7fa722ecfec7de891fc242bb9e07ecbb",
-    "42210498ee99c190b07f33ae9629b4923308ea67ca16fcf94433b3befb587916",
-    "097ed11e2595b923f0d48034a07db1478a62f2a0c9d6f2e9fd4908418bb475e4",
-    "35936454bfcd75e26435473b6d39c1a46ac0baf7f6dc4244705cd8b08751cabc",
-    "c0b038147da38bad15383abfc3fc98756b6d37bb49b578068583f37a21a8aead",
-    "7af0f50e47e6fe19511e7bfcbe9e62399b541e54276a40c11a522c20790e3441",
     "a8f21bfc98f80a6f95070ccaac36ac02af4a6357cc4238afce79ede9d3be444f",
     "ec0b717e14d525ece991ef807056af83fd42c55694727501900d68b163b9637f",
     "bfb0a3d31d77d627d16dfcfd9d3ba0933f3e7823f80489ed74333ef53d89da15",
@@ -4000,24 +3979,30 @@
     "bc13a2837129c160d374536c64006ed7761fa04974fa38642c5062d3674bde64",
     "3da98b647ee2d0b464c58fcc66872a204fdd28d311a3260201fd0a113297368a",
     "b0a62c45b08996abedc47856b0e0ae56f5531f74e75c583c4b7a040b0ab804ce",
-    "5cc7d720076f738d49a57a96d508cc87d7143ebee62763e4b6057a8a437f08ed"
+    "5cc7d720076f738d49a57a96d508cc87d7143ebee62763e4b6057a8a437f08ed",
+    "52d4a9847b4472d9f1eeb5b9d651854856c6a6091a6a7a547822cb75267970c3",
+    "519c40e737ba2af31424f4204979d54bf84cf716cae496d69670822f0805dde9",
+    "3673e6c10328e0aaab0f2f20fac4e1ca075d163d9e83bc6fd58db4ddbc670838",
+    "32485af4ab822e6f03715e0f511552336854d451ab50f1cc32ea07429624026a",
+    "ca83f82540c1b05524d604b4a0833ad68b60c1ba2c3dd74f0113eb08b798e16d",
+    "1f305f43651883553afa571d1fb8809694f4b7a08ede97de569dde800b1c1355",
+    "f23859255d7d4a2f024edbc203c6f478effb45356d5e98cb7e3326a573545a52",
+    "97a7b6dcc574a37035cd8d41a6d96df3d874d6781e40f250e231a390e5b1e1e2",
+    "857ca1ffbd91ef74b0899b0777a3b7fd6cb820ba94e50bf72bb7aea9bcd448a7",
+    "b8f0b9a988903f5f78818a7482f41b88676c4aa885b345d431319e39319fbd00",
+    "dcce22be53f4d2f9d4ba18f3ccf864e9342e0f21151df0c91e61fb83cd875d10",
+    "564df0c14009f4e36b02ffe3d103185161b8bb25242da93ff7436ec6ffabd693",
+    "aec5b19c478f29f8c695ab99555ebc42d8bb4b1652498876fc70a9461ec4b7f9",
+    "e267604cc503af0f1cf9d6f2feac0813b095af28ae971ec1f3db9ce0b658ba72",
+    "72f1ce7c3fb9858d51ed974503c43234596f1e69691de17be8639ca47ac55781",
+    "b162bba7c8cf7948dcca8b9d80e919da8e229513edbf67f6d275889ff72b1046",
+    "3307140a2eab030ef144167b924ce9810c9aec012e43e1f5e1f0108657b3e99c",
+    "5e8930daa1c2d6409a3ff8886111b4f1d5614c790dcea0f494043eeb5558c761",
+    "f535bd945cc2d1decb01a921565757576a336eed6f4eff80b03a6f3a1c3fa6c4",
+    "ac2daba55d616ab5c05371ff9a157d9664d1b5e6e734a5e87567f8087c0f2463",
+    "845dda1c9be2fd0a3a1372131239ae4cd76ff9a3e57d3f3f9c02f89e5f9c473c"
   ],
   "title_hashes": [
-    "813dd5b528671595e782fe59846614be949540013d362e61da2a7d347fd61dfe",
-    "1f1dfe9655ea7cbb254d38148a7ad94b6bf7caca440329b10ef345205d1c8542",
-    "e04b9e54034dfd858a3388816062a2652fb4fdb9ceb83e06112190ade4947f37",
-    "38d851abef98f61c155cc37a359b476d83d72e12bc2c922844d170e698c4a4d5",
-    "f77b53583a97b973a6ce60eff87ca924172bfa86d3faeb118c850a8a028aafc1",
-    "1abc5de7da9e692911ffdb2b8fd44e84ebf7ec7cab128e93a3dfb088010ff0eb",
-    "a5364e7e45acc7c2566adcce59304bdd78ec74c1f9d385c8106f9fa0d504930c",
-    "0f0d47578b2b02e6ae81d973559ab23be5a3227fe7ad43ce03c8f2e09568f5e6",
-    "9dfc379b3121f885689a7c4f4920ee6bcf2ee07aab7b8db142fdcd9d30bde3c0",
-    "dea66184dae2335fee8b99c079a1a321ee868a1208bef3618326a3c146693030",
-    "46ba34256d6164b4de3e252d3322ff9bb05171b077b28ee11fd99786f62b4467",
-    "ea787cd043bb05204dcf3485da476e47dd60015d1e834e9cbe619e0d2ddb6a56",
-    "c821ece2bab06179e6381f87bffd67be292ad06aa02c00da5acb7f3858e8b889",
-    "68ae523670a53d630b29e74132260b4d7fbf12e3a70a1ab4fc09e3c42b1e2c37",
-    "f692de8f29b9af2165d4dfc1eda7be5c2beb5ddf04a862f29a9abe0311422a1a",
     "99c42ad90d98cd613a2c7cf1fc7ed3558893d1c927f3b982a56370ee5e19ff89",
     "e8a2d62c54677e74c13c43566c9116f481d306624c9f40e69f6695a30cf4d109",
     "4d19777c71d85f185374a79d461923c15e36a461087febaec72a30114d96bf9d",
@@ -8002,44 +7987,24 @@
     "5c172b28dd1f18cc40860e8f70ea1405ca12800a381eb7c73356321f111719c2",
     "2eccb5a9e344135650e0f54c59863238fbdf1e92db3373350a91d85f3c87c7c0",
     "976405c63feb37fa0288c57e0ef7869030f420027e153b6eea4191400df99380",
-    "9512a2511081d1ff6590dff49b8ff5b50e9e36777301025ef043cc25e3ced08a"
+    "9512a2511081d1ff6590dff49b8ff5b50e9e36777301025ef043cc25e3ced08a",
+    "a62928e4f3d406904990949ea04a5568583fc184bdf26901979b75a3bae0ec36",
+    "5ac17584bd79805c144ca5968d4f9908ed3517a01053d4a95379dbed4edcb8be",
+    "2a7ad5cbd9930a657c6d9232148eb31e5eaef66d86eb676919067039b918c364",
+    "47b20424dc66e13ff479e8545a5c8b06c8d8703fe5c479cb3050673964126d69",
+    "d00902501a1f1e17449afd18b6449ac494605cdf277591379c348954184a06e6",
+    "07400f03dc20f194d554c8d5f5a79e18c15ca3f39322c3c168495aedc50e498f",
+    "d2fcb64c2e0cc07f4e83b36710b04c13b325699b3ca0dbb57dea48f974361cbe",
+    "b2c3929e242982b85fe9a631b78a2cb7eba2fc1334247277e97a7bd648701995",
+    "830429a3df2a64cdc125bfb91ec887d3a3b7fb990bb7fd4359cab53d112cbe21",
+    "4624722d8d881e5afe64271ccf77da80cf4fb77d374456052c5c5da8c63ec237",
+    "e9827cc2d3b51a250da875cc99ac807c50a31c9a40114ddf21b08c0fec608db9",
+    "17c648e8f1aa7a9ee70f7833c48b703c0f728bc9f0711846f80206b0e7f39b8f",
+    "da39aa3a6d5d3146d81c7407a1047f21d6052c39e3b6799b9ea318ee1728f7a2",
+    "e826911152ae9bbfff04e71ce39f79bda5be2c3c2a933f479a5d504f9e609859",
+    "4fd0a1629f63efc72cb246d664fd2d146b29ae2a4889f341aeaad4b3831037af"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "JOE BIDEN PRAISED NETANYAHU DURING THEIR FINAL PHONE CALL ON JANUARY 15, 2025, DESPITE CRITICIZING HIM IN HIS NEW MEMOIR, ACCORDING TO A TRANSCRIPT. BIDEN TOLD NETANYAHU “YOU’RE A GOOD MAN,” ADDING “I KNOW WE’VE DISAGREED ON OCCASION BUT, YOU KNOW... I STILL LOVE YOU, PAL” AND “I ADMIRE YOU. IT TOOK A LOT OF COURAGE TO DO WHAT YOU DID” - THE JERUSALEM POST",
-      "title_ko": "녹취록에 따르면 조 바이든은 2025년 1월 15일 마지막 전화 통화에서 네타냐후를 칭찬했지만, 그의 새 회고록에서 그를 비난했습니다. 바이든은 네타냐후에게 \"당신은 좋은 사람입니다\"라고 말하면서 \"우리가 어떤 경우에 동의하지 않았다는 것을 알고 있지만 당신도 알고 있습니다... 나는 여전히 당신을 사랑합니다, 친구\"라고 덧붙였습니다. 그리고 \"나는 당신을 존경합니다. 당신이 한 일을 하려면 많은 용기가 필요했습니다\" - 예루살렘 포스트",
-      "url": "https://t.me/firstsquaw/193634",
-      "ts": 1794955747
-    },
-    {
-      "source": "한국경제",
-      "title_en": "젠슨 황 복귀 의사 밝혔지만…엔비디아, 헤드헌터 통해 후임 물색",
-      "title_ko": "젠슨 황 복귀 의사 밝혔지만…엔비디아, 헤드헌터 통해 후임 물색",
-      "url": "https://www.hankyung.com/article/2026111833637",
-      "ts": 1794955806
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "U.S. NAVY SECRETARY NOMINEE HUNG CAO SAYS THE NAVY USED EXPIRED MUNITIONS DURING OPERATION EPIC FURY AGAINST IRAN AFTER RECODING THEM FOR USE, SAYING “A LOT OF THE MUNITIONS WE USED IN EPIC FURY WERE ACTUALLY — WE WERE ABLE TO RECODE THOSE. THEY WERE CODE ECHO, CODE FOXTROT, WHICH MEANS THEY’RE EXPIRED”",
-      "title_ko": "미 해군 장관 지명자 Hung Cao는 해군이 이란에 대한 EPIC FURY 작전 중 만료된 탄약을 녹음한 후 사용했다고 말했습니다. ECHO, CODE FOXTROT, 이는 만료되었음을 의미합니다.”",
-      "url": "https://t.me/firstsquaw/193635",
-      "ts": 1794955809
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "U.S. NAVY SECRETARY NOMINEE HUNG CAO SAID “I CAME FROM A POOR FAMILY. THINGS LIKE BREAD DON’T EXPIRE. YOU JUST RUB SOME WATER ON, MICROWAVE FOR 15 SECONDS, AND IT’S GOOD TO GO,” ADDING THAT THE NAVY WAS ABLE TO FIRE THE EXPIRED MUNITIONS AFTER RECODING THEM",
-      "title_ko": "훙 카오(Hung Cao) 미 해군장관 후보자는 \"나는 가난한 집안에서 태어났다. 빵 같은 것은 유통기한이 없다. 물에 살짝 문지르고 전자레인지에 15초만 돌리면 가도 좋다\"며 해군이 이를 녹음한 후 유통기한이 지난 탄약을 발사할 수 있었다고 덧붙였다",
-      "url": "https://t.me/firstsquaw/193636",
-      "ts": 1794955812
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "NETANYAHU SAYS THE THREATS TODAY ARE NO LESS SERIOUS THAN THEY WERE BEFORE THE 1967 SIX-DAY WAR AND IN CERTAIN RESPECTS ARE EVEN GREATER, ADDING “I AM NOT SAYING THIS LIGHTLY. THIS IS NOT SPIN. THIS IS REALITY, AND THOSE WHO NEED TO KNOW, KNOW”",
-      "title_ko": "네타냐후는 오늘날의 위협이 1967년 6일 전쟁 이전보다 심각하며 어떤 면에서는 훨씬 더 심각하다고 말하며 \"이것은 가볍게 말하는 것이 아닙니다. 이것은 헛소리가 아닙니다. 이것이 현실이며 알아야 할 사람들은 알아야 할 것입니다\"라고 덧붙였습니다",
-      "url": "https://t.me/firstsquaw/193637",
-      "ts": 1794955817
-    },
     {
       "source": "연합인포맥스",
       "title_en": "비트코인, 앤트로픽 IPO·엔비디아 실적 '겹악재' 경계",
@@ -11504,6 +11469,41 @@
       "title_ko": "[루머를 질책하라! 자본시장 '소소한 에세이 2건은 사실이 아니다] 규제 당국은 시중에 나온 '소소한 에세이 2건'에 대해 관련 루머가 사실이 아님을 분명히 밝히고, 이를 믿지 않거나 유포하지 말라고 투자자들에게 당부하는 데 주력했다. 이러한 움직임은 규제 당국이 자본 시장의 정보 혼란을 바로잡고 사이버 공간의 질서를 유지하는 데 진지하다는 분명한 신호를 보냅니다. 최근 시장은 변동성이 심하고, 자본시장도 거짓입니다..",
       "url": "https://wallstreetcn.com/livenews/3201734",
       "ts": 1794983698
+    },
+    {
+      "source": "데일리방산",
+      "title_en": "한화에어로, 메탄엔진 독자 발사체 개발…2028년 첫 발사",
+      "title_ko": "한화에어로, 메탄엔진 독자 발사체 개발…2028년 첫 발사",
+      "url": "https://www.dailydefense.co.kr/news/articleView.html?idxno=3027",
+      "ts": 1794983716
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "ECB Interest Rate Probabilities",
+      "title_ko": "ECB 금리 인하 기대감 반영 확률",
+      "url": "https://www.financialjuice.com/News/9857251/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+      "ts": 1794983782
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "SPIE signs an agreement for the acquisition of ENPROM Group, strengthening its high-voltage power engineering and installation capabilities in Poland and Germany",
+      "title_ko": "SPIE는 ENPROM 그룹 인수 계약을 체결하여 폴란드와 독일에서 고전압 전력 엔지니어링 및 설치 역량을 강화",
+      "url": "https://www.streetinsider.com/Globe+Newswire/SPIE+signs+an+agreement+for+the+acquisition+of+ENPROM+Group%2C+strengthening+its+high-voltage+power+engineering+and+installation+capabilities+in+Poland+and+Germany/27365636.html",
+      "ts": 1794983846
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "코스피 영업익 267% 폭증에도…상장사 10곳 중 4곳 적자[3분기 결산]",
+      "title_ko": "코스피 영업익 267% 폭증에도…상장사 10곳 중 4곳 적자[3분기 결산]",
+      "url": "https://www.fnnews.com/news/202611181434248847",
+      "ts": 1794983848
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "제네릭 약값 16% 낮아진다…제약업계 '품목 매각·M&A' 재편 압력 [fn마켓워치]",
+      "title_ko": "제네릭 약값 16% 낮아진다…제약업계 '품목 매각·M&A' 재편 압력 [fn마켓워치]",
+      "url": "https://www.fnnews.com/news/202611181531160874",
+      "ts": 1794983850
     }
   ]
 }
