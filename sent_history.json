@@ -1,30 +1,6 @@
 {
-  "updated_at": 1795041649,
+  "updated_at": 1795041823,
   "id_hashes": [
-    "21c5a9157d00491fb428ca99b135b22432aa288885067678a0c51f2eb799b5af",
-    "569338370c41ff0ff6b87b89bdb38fca33b9d40a08f1937c76bbcfe39cfcd4b0",
-    "2dd3871176d8d02fe5d83b6408e610565f58fe334832cf6751fa4340bc30d7b8",
-    "da283e94f8e94208e5774ac8b36c8f26db2c1d0fe36e1c3b57ab836020b573e7",
-    "157f81ec70388c5a7995ffd8eb2b0f2d679be5c86e6e7e7e2ad29633eadb88cb",
-    "92ad36f5a70730b1eb98ebb39098245204c5bab4d942bf7ad57144fc49a00157",
-    "6ccc118d832052a32ffac020f22b437c355b3042bd9c2702c85a727ba8fe0d29",
-    "98279ba28304d402412d7644b03640e3df022b4f5b20d229ec522e324172e4dc",
-    "eda429f8e197ca1cbfc74821e4d8e4bf77a0d36683f2d9322e29ba400cb395bf",
-    "e22277814529eef986b8334f691860630151fe2c0319c68089955da1de68966a",
-    "0e23a58707e5f152f7c0e9de3e4ab0c49104fc92ff252ff5d9b55281011b45a8",
-    "8cf4896d039e1909c18fddffe16cadbd6a6e93a439f42f6359ab2a02c79475a4",
-    "a44b44406c0939e443053bedb414fd3caf69f048a346c5dbd4ecec7fcbdd3606",
-    "135abfe9518650ad6509a3730bd10a92b6c575f7a5cebd78093cd53dcda6e35c",
-    "d6391ba51d7d7eb8c50baaf82ab8f0d75f72199f24931c66b92cbc252a3db767",
-    "ed441acd8e77cac38b9713306306f6249c5f0ecd3f08809353d9aebc706c4e70",
-    "a3978110774a49df4b7662e8ffe00d5e344d90a0b10105f3d92a4354e6101753",
-    "8d51a7ca9d4f72afc056de0fc30608b3d102ba1700b3f169cd8e81eee62537f2",
-    "eb284d18f08d1f0ff093bf07a4bbbb30b745ae191179c43e12bb80273d84ed57",
-    "cdec689a29de7825e544f8fb1228b5fb6220403c866331c84fc685ce897057b7",
-    "94113dd84c227da0d005498feadd3a219b221b4e08f3f29a486f0312d451dcb4",
-    "7172145cd91952e69fbf9dd6e885bd0cafca35284ecfe55a309531669015b50c",
-    "408cbe9fc61f3d1aa834f28342249399e1e635b7c5e1b4c8334179af6a38f1bd",
-    "cc37c0412b5d4334db5873a8ea092e420c0ba89c5111b92d6367e2931f263add",
     "e9eeb719c8e18f61e3b8fc6792dc2e3c00fa0a87ad499c48d32373416144d65c",
     "29701589441d1fbfc508497d71b583e8b21900edcaea9730a04c6be0464d125a",
     "479c33378b9905c53a28d3e929c5dabfb0ecef9cf547b9711765bed46117da30",
@@ -4000,32 +3976,33 @@
     "f514da2aae0f8c4d001008beaf6d5343ecfdf084f4cc3f1384b0c537e4a74484",
     "7eb180b12631da8eb5e16e55bd8996259aa2d44d2b08d62fb4bc573d1e2128a0",
     "c2311f73abd53ffde3b5e087c2c7b0a8af9b82e4d1640eec38e7fa000966e0a4",
-    "fc624eaa2b6bd50d71b55a9ad1a48b50ee831ba75ffb60980663625a93f8dfc4"
+    "fc624eaa2b6bd50d71b55a9ad1a48b50ee831ba75ffb60980663625a93f8dfc4",
+    "b0603b3a5b44470e2fa30edf3cdcb0eba94762dc4075b92db72b2d056654ccc9",
+    "af9378d075746a8b70756061ea33aa899ce842e6277547fd2aada16592fad061",
+    "15382165deeccf4d52c4de4e2af55233ddd2ea02e325e84701138fb59a8774c5",
+    "c05dd8bc5b679ab78ccd800bf7410543223d86d05c192f128f4f8f7e70fb9fb7",
+    "91f7652b7febc3c8d65dce99d9a331701fb957a0184fd6edbf62b76b550149c0",
+    "9c3409a5153f765fbafe980facb4c35d6e1a68a72510992dacd241aed4636480",
+    "4a2c64f2b885d188a9a3a47fb16168c4f129fb3ee50b3b8a9fd91131094b0477",
+    "4d33c0c310b65b747a00d2ea40c11615567c1e93a209307f5d9d8cb40b94982c",
+    "94bda28d8102e9d63c133dd5a6eaeba555bc98c38cabde16cad5f424540010cc",
+    "5ad5170266c90073ea776d153896b56db6b1d31e5d7e983d5a4a01abe1aef20a",
+    "972916a099031ddde1d26288d57f23234e5142e6a4909aef9d68f2359b0f7563",
+    "aa078a0903d5b85ac3b88e14c8506ba78a4aa9360bae658c0fbe8ddcab93340e",
+    "6a081727b769f3db6dba35f99bfbe86ee63e4408906cf36eba2b9837ee6e4427",
+    "1c64168939f47b138767206bbee4ed8e655be6c527a82dee0f63450c491772e5",
+    "6d9f6c79b35d19613493d7cd0750d06ad6568f8767373b7e0e612e9c8de1ef76",
+    "b65e427325da6c08ad6c3023412967ee8238a5970a6238a7f6b06a9fe3c18a9b",
+    "f17e0cb9fa0343f94753adc96587b75f7e345ba1db82fd7f705b261e6d66a646",
+    "2ad1231d147cf806274682591943334d5d95c485a7ce9c4defa8de873b0f5bc4",
+    "b62fc13f731fb4d4b90f6eceab39a45721af860db294dcafcd3c9d2220108d01",
+    "050ae9f1d84d4b31f09fc4e3b901088602f5a1d71dcefcfada25a87dbcfacfa7",
+    "c14445ca79571bc3265d9af262a1a8ad525d8adcd80e98bc542d1c96da944981",
+    "49f0d7d253bbc3c24074ce741c1b59e79ee5b0d1367a3c242f1b4fc2059e0136",
+    "852a4db0394787faf2e4e8da68b46586f172f11f4c6fcf4a30b339423b38a419",
+    "546dec017736d1110c4446c9e400b81c42166964dbd46a63ae69826e45b40be6"
   ],
   "title_hashes": [
-    "3c44fee24f3354ac33fde13509cdc8272343147215f0ad860f0ec52bbe4d845b",
-    "b26c556e73fccdb7f08c0b571e79b3ea44763a570e25704dc1086a60edf581d6",
-    "661d68011920f99507b5a10a5cf287f8bbdc655d788b5ffe05005ca00ca74b4c",
-    "308fc4f9759e57864656755ffd5d9598a48edeade54b2846169b439196761f27",
-    "345fcc94a4a652695553f74bf95eaa14d11a30e5772e402015ca5e9b104b3923",
-    "f2adc41b6b24f1d5de520e71efc6af70d8a90a8580cd9d5572c5900fa194c808",
-    "ab6d23a630b173409ef667b482de0f2c4bc502e0a8aa2cdad1c19ca4362d4c55",
-    "4e14e758b529500fa66e5bc366ddd796b1434956e5ae193d14866a5c158dfa58",
-    "5ca1f08993cba34cfd71d5196687264701d9d8824bcf5fdd8ff596cf65a2c8f4",
-    "e1f1f6c24f04c9f172234f52d8394dd90dacbe9db340676e05f9f19d6b5a626d",
-    "168c9c532f5b30b0833ecd95ee0a8380ab0df5ef9ffb56e9217fc179d11f0a26",
-    "b5efbe09f3eba9cb504d010232799566698a615441846d4d0b426811e144eb0e",
-    "d0501eba50a2b5983d8d60baaac2ea5b2c21aeafcc9af094b70d2369ab2e3b59",
-    "7b897e944427523b9a98d58376659c27012d2ef86b57cbf0279bd5d52724fac6",
-    "42d1d9255150c587edf914a390043ec77db3441ad2ba4f2b530ee69e497f52d6",
-    "7447ae62920cbf1a618c5662d82dd3cbc7379211bd930a808decb868e05f8b8f",
-    "545d21ed65f7fcae5d23ed5b4f4eca1f6803b2292bfefe40a5d3b5bc6fee60af",
-    "190848b266e15a029e0b7648a6af97a5235feff276d85be7fc689b232d6ee7cd",
-    "9264836897daaa21f2331dcb82446f2fa5132320e7a1bc3a1adc673c3d2f2f5d",
-    "bcf2883bb0bec80cc90b2fdb3e9d8c6b67eaaf9502655caa1958c443ddc8a09f",
-    "680d6fa6dacba44fb8b25e7b4c47170beb040c3a4bfd1ddb929bfe571ca3a099",
-    "14c7c84021fc53c4e8246f84196f5aa6eb666f741c0936d4b4c11616ad37843c",
-    "19e0e07c3a68904b9c7c0fb31ddd629d4e58fd56aec4d36dbbb8a9099353a94b",
     "942f6eb038c68e6187f3d56406d3af9a72dbea41cbce7d91afb279993f3fe280",
     "2b410cd433dfefc5632d9f0461f19c45dc324798e48f8b6ea5954fb13800a6ff",
     "a7f86aabae10e8a54408744a8ab9cdbe84c2a3deaae8993ba93ae5cbdc3f415d",
@@ -8002,72 +7979,32 @@
     "18ab0aa1625cb724fb07b5a8fe7908008b044baa3e8ba5904e9c0f27367436a3",
     "bfd0e111cabf3f1889b4b88fcd7766807a71d5094f306f9d596d225272b5bd97",
     "3ccb74f2cb52977afe0b9a959d3bc1eb1737f41419cefcdc1d4f70a0ca7c2372",
-    "6646cfc546e29efc755e60e93e4aca10dea774abe9bbeaa88f8bf7175fb9f21b"
+    "6646cfc546e29efc755e60e93e4aca10dea774abe9bbeaa88f8bf7175fb9f21b",
+    "855b65f470ee59bafbe7f2079f1f8fae5fd3b9c30cbae6e31b6c26be3dc0b851",
+    "06ad2bdf8ff87377013b94d9015ccc026eefb987e2cb936f4b1ecb06edd66206",
+    "59158c291be363dba87b08d875464cee9e7802276ed3490a872f9cd1d79fc8a8",
+    "00771a597cb31bfa39cb6279414b94d9ea3ae7fddf65a6a0dad8fe7858f00f2e",
+    "339094417910dfb5d08ada7e20665950312414d3212725a0b697397473646da0",
+    "77cd981527de98740baf88361e1587e003b201ed155b088be118546691572edf",
+    "fa6a97ec99b99f9464e205a74dd407c03797b2226a120c577b5b0c69c0fcd5ff",
+    "a63a7e7ee6efbb2891387b056e924e51f2e96736d65e88570d1badba5492e548",
+    "2b83370b03db6042da7383d8c23ae5031663b2ff0ddbef17953a22d0ef0c593f",
+    "344e6c1415739ae50c9ed711f9b744d602a8d393cab69c24b21818189dbc858b",
+    "6503f78a3182b91fd331bd884b8a2122e4bcbfefb1a7922bfd64b1318a8a8ef1",
+    "cf67b8d032413acc886557760f012f2b3f3da0fd78c4449c231a9c8f6364b828",
+    "7e8a1dd3f46e04b4c7122cc912b041eaa61ec5f5f91f7eb96535fde621ef4339",
+    "c219b835efd0b98ab37fd3814ab1e5c47f6d9cb8c50163baaf0e32c11849b0a1",
+    "2b9c26e8904c11e280b7e32a242d9e7850cf670a495c2f8f7b538acfb8ef55c4",
+    "ac27932305c5d2200010fc67062f57c1d012c855ab38b12a2838a006606fa2f7",
+    "ac58a6e6e8d2c3256c62623a7874a39daeaa2ce6d7a81d386820e1df75fe904d",
+    "d1c7e5770a23dc58bda981b019fe0efb9a7c9c7ec789cc46ddb7685629b62801",
+    "702dc1d74952e45cfce1665f3c0feab4883166c836e3adc4946cf07947065f57",
+    "5d4efd774ade5500171415a7ab088e7ab5635cb77c08d038ba3a4c6b035494f4",
+    "20e1b0abed5b0c177988c5991e2d0634ba8c63aa4d48b02acdedc6310e200dbc",
+    "199e20b61f862f2382f9c7bd57971757802d841e3486d79ae60c7ced830a8c16",
+    "2f030ea48a8418dfd3b034f4bb9c6144847b6290a866fe4b3556ffe02b145a63"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Inflation on Britain’s Everyday Essentials Reaches 5%",
-      "title_ko": "영국의 일상 필수품 인플레이션이 5%에 도달",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/inflation-on-britain-s-everyday-essentials-reaches-5",
-      "ts": 1795005023
-    },
-    {
-      "source": "Barron's",
-      "title_en": "S&P 500 Futures Rise in Premarket Trading; Global-E Online, STAG Industrial Lag",
-      "title_ko": "S&P 500 선물 프리마켓 상승... 글로벌이 온라인·스태그 인더스트리얼은 부진",
-      "url": "https://www.barrons.com/articles/s-p-500-futures-rise-in-premarket-trading-global-e-online-stag-industrial-lag-5e31e38c?mod=RTA",
-      "ts": 1795005233
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "SHEINBAUM SAYS HAD VERY PRODUCTIVE MEETING WITH TRUMP",
-      "title_ko": "셰인바움, 트럼프와 매우 생산적인 회동 가졌다고 밝혀",
-      "url": "https://t.me/WalterBloomberg/38601",
-      "ts": 1795005237
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "The TJX Companies, Inc. Reports Q3 FY27 Results; Comp Sales Growth of 4%, Pretax Profit Margin, and Diluted Earnings Per Share All Above Plan",
-      "title_ko": "TJX 컴퍼니즈, 3분기 실적 발표…동일점포 매출 성장률 4%·주당순이익 등 예상치 상회",
-      "url": "https://www.streetinsider.com/Business+Wire/The+TJX+Companies%2C+Inc.+Reports+Q3+FY27+Results%3B+Comp+Sales+Growth+of+4%25%2C+Pretax+Profit+Margin%2C+and+Diluted+Earnings+Per+Share+All+Above+Plan/27366731.html",
-      "ts": 1795005264
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Canada's PM Carney and Trump met on the margins of the APEC meeting in Shenzhen",
-      "title_ko": "캐나다 카니 총리, APEC 계기로 선전서 트럼프와 회동",
-      "url": "https://www.financialjuice.com/News/9857804/Canadas-PM-Carney-and-Trump-met-on-the-margins-of-the-APEC-meeting-in-Shenzhen.aspx?xy=rss",
-      "ts": 1795005328
-    },
-    {
-      "source": "9to5Mac",
-      "title_en": "Banks, FAA, Microsoft, Apple – no systemic attack on the US, says White House",
-      "title_ko": "백악관 \"은행·FAA·마이크로소프트·애플 사태, 미국에 대한 체계적 공격 아냐\"",
-      "url": "https://9to5mac.com/2026/11/18/banks-faa-microsoft-apple-no-systemic-attack-on-the-us-says-white-house/",
-      "ts": 1795005395
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Elon Musk Predicts AI Will ‘Hack’ the Human Limbic System — Here’s What It Could Mean",
-      "title_ko": "머스크 \"AI가 인간 변연계 해킹할 것\"…파장 주목",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63380429/elon-musk-predicts-ai-will-hack-the-human-limbic-system-heres-what-it-could-mean",
-      "ts": 1795005398
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Wall Street's Most Accurate Analysts Weigh In On 3 Consumer Stocks With Over 4% Dividend Yields",
-      "title_ko": "월가 적중률 상위 애널리스트, 배당수익률 4% 이상 소비주 3선 분석 진단",
-      "url": "https://www.benzinga.com/trading-ideas/dividends/26/11/63380488/wall-streets-most-accurate-analysts-weigh-in-on-3-consumer-stocks-with-over-4-dividend-yields",
-      "ts": 1795005420
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Form 425 Berto Acquisition Corp. Filed by: Berto Acquisition Corp.",
-      "title_ko": "베르토 인수합병(Berto Acquisition), Form 425 서류 제출",
-      "url": "https://www.streetinsider.com/SEC+Filings/Form+425+Berto+Acquisition+Corp.+Filed+by%3A+Berto+Acquisition+Corp./27366761.html",
-      "ts": 1795005424
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Lumentum, Coherent may benefit from US banning Chinese optical transceivers: Wedbush",
@@ -11504,6 +11441,69 @@
       "title_ko": "텍사스, SpaceX 포함 데이터 센터 다시 승인 시작",
       "url": "https://www.barrons.com/articles/spacex-data-center-moratorium-texas-609bf89f",
       "ts": 1795041648
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "4만7300명 임직원 다독인 엔비디아… ‘젠슨 황 시대 공식 작별’ 내부 결속 총력",
+      "title_ko": "4만7300명 임직원 다독인 엔비디아… ‘젠슨 황 시대 공식 작별’ 내부 결속 총력",
+      "url": "https://biz.chosun.com/international/international_economy/2026/11/19/75RVM3ZAUNBSFO4AIG25EWU7IE/",
+      "ts": 1795041738
+    },
+    {
+      "source": "딜사이트",
+      "title_en": "[KDB생명 매각] 김남구는 왜 발을 뺐나…'1조원'에 갈린 산은·한투 셈법",
+      "title_ko": "[KDB생명 매각] 김남구는 왜 발을 뺐나…'1조원'에 갈린 산은·한투 셈법",
+      "url": "https://dealsite.co.kr/articles/173062",
+      "ts": 1795041802
+    },
+    {
+      "source": "딜사이트",
+      "title_en": "\"한화 방산수주로 흑자…다음 목표는 유럽 軍 통신망\"",
+      "title_ko": "\"한화 방산수주로 흑자…다음 목표는 유럽 軍 통신망\"",
+      "url": "https://dealsite.co.kr/articles/172924",
+      "ts": 1795041805
+    },
+    {
+      "source": "딜사이트",
+      "title_en": "[삼성전자 컨트롤타워 해부] 정현호·박학규 잇는 재무라인…차기 리더 최윤호·김용관 주목",
+      "title_ko": "[삼성전자 컨트롤타워 해부] 정현호·박학규 잇는 재무라인…차기 리더 최윤호·김용관 주목",
+      "url": "https://dealsite.co.kr/articles/173073",
+      "ts": 1795041807
+    },
+    {
+      "source": "딜사이트",
+      "title_en": "[이나인페이 IPO] 공모자금 66% '외부 투자'…송금 넘어 결제·정산으로",
+      "title_ko": "[이나인페이 IPO] 공모자금 66% '외부 투자'…송금 넘어 결제·정산으로",
+      "url": "https://dealsite.co.kr/articles/173072",
+      "ts": 1795041809
+    },
+    {
+      "source": "딜사이트",
+      "title_en": "[한화세미텍의 민낯] 반도체 키우지만…해외 매출은 아직 ‘걸음마’",
+      "title_ko": "[한화세미텍의 민낯] 반도체 키우지만…해외 매출은 아직 ‘걸음마’",
+      "url": "https://dealsite.co.kr/articles/172864",
+      "ts": 1795041812
+    },
+    {
+      "source": "데일리경제",
+      "title_en": "현대로템, 차세대 항공우주엔진 기술 대도약 본격 시동",
+      "title_ko": "현대로템, 차세대 항공우주엔진 기술 대도약 본격 시동",
+      "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=209968",
+      "ts": 1795041816
+    },
+    {
+      "source": "The Verge",
+      "title_en": "This week in the big AI data center buildout.",
+      "title_ko": "이번 주에는 대규모 AI 데이터 센터 구축이 진행됩니다",
+      "url": "https://www.theverge.com/science/1037243/this-week-in-the-big-ai-data-center-buildout",
+      "ts": 1795041818
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Opinion | Congrats on Your Anthropic Shares",
+      "title_ko": "의견 | 인류의 공유를 축하합니다",
+      "url": "https://www.wsj.com/opinion/anthropic-ipo-shares-investment-pension-funds-9f4d0c52?mod=rss_Technology",
+      "ts": 1795041822
     }
   ]
 }
