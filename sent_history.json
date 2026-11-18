@@ -1,30 +1,6 @@
 {
-  "updated_at": 1794965293,
+  "updated_at": 1794965456,
   "id_hashes": [
-    "c213f4e05b799e75515b6785c29f965feb617f37bc5c2ea9ef29c1cdda9d8c95",
-    "d297206e592d646f74f193ddcba620393fe92725f13123784827b3687b46921c",
-    "214f14022b9ae8bfc1d167362ae268a502eaad4fe27d5d8d64e0ba917f88fcb1",
-    "fe5dee4cc3a0d6f399d8d63c8c74369d3bb90dc65a8cce4e88c630eb94278b3e",
-    "768d492ce7937e81ce7af16cf5e06a6df9f1d9983a3e73b7c012f467d003cfb5",
-    "fdab9f7b9ff2b3df46a80af78a6baeb896a74d816cedb616f542b9b348e2fb13",
-    "afbd89e03379679e4f6fe9d66c0f28aeb109ad2abb04cd0968631ab76e3e30dd",
-    "e7c801e1f137de825d3101cf286a130b8584607d7b0b19cdc3a1a9b092200eb2",
-    "11866ce87431b67a31e4f3bce97df73aa76fbd046bc47c7d0120a88260eb3204",
-    "16e173ab03be5a740d594bddd2e5021377d99a4858622af101e2a63f1d752f70",
-    "cbeebc42444f97ad4cce84bbe03b1941867a144187bde372064a755d7b31e7d7",
-    "44f1c2415e548356ac66c8df6d751de110c2573ccb17baefc9ecdfb138af2228",
-    "7935f621c70d002fece93ad4f5271e9d316437fcfd6f8114ca349f50daa10a0a",
-    "10ec6ac3458834e457ffc083d544ff3c93f81547f30bb9a83414743c61301411",
-    "79bbdb1d4b56934dbf2c055cc146d21de87b270b51057983eed2fe7d8ac9cb85",
-    "2f8ea2cc37c15b9b4953166fdf75cf5d22a54aae3f5d3318b9c52ac683e3c476",
-    "65ea01470f657a01259f8c296067321b702c6114cb3488435e9df3abd2cf1791",
-    "0d40a92821ab9b7ea2593e450ccf9d7b3acdaaa24d348387fca368739ec08de8",
-    "0f44cf56517973bf89b18788072d68de21af6575ebb7114ceff11b36ef89e09e",
-    "41471938af79d7be4c483f71690f92ad82b80bf7ecc652d2a2e79c1b2a071669",
-    "e85a6cf51488108fe057bd0a179d90d6c166f8ae1e36936968e66c9624c2cb97",
-    "5d427108c58e46a890d92df0fa811002452861e18a4ae648323ed1696efd9e41",
-    "ec749091bf1eb3d75b09ee973d7c2697d59b32303049254e0cbba73a9768147e",
-    "2773211736099b014e2d91b001815761269c142075828594256bdbb8dbb5886e",
     "c114f38eb6d1a2504dfaedafea4cd6d16918d7e2875842ec94bca7ffb48f058d",
     "be9c321092c222e6407db9e4a39641299efc1fc56baca11856cb02ef4a5522fb",
     "dde6d1aaa1464a1e4610d63ef4bbd572e22d868b5d6c34fc90b357c765a9e225",
@@ -4000,25 +3976,33 @@
     "27b5f8d3951dc09606ad6b4041a297a37ffe588469494bb74d94fb3298e6b139",
     "44be0927c1414e9078cdd235e3943ad8b97bd2baac019d28a89dcf78fc3c9ded",
     "a3b992af90add237aa7fcb125bc244d7043a0e454f23daab8d96a2a47e09b92c",
-    "9578a8079b560ba6cdf9193018d1653db75584f63baae1380e84cf8ea7018435"
+    "9578a8079b560ba6cdf9193018d1653db75584f63baae1380e84cf8ea7018435",
+    "42820e3180751bcb75a8e52d0bc9596fa1e9dae7abcb556fa2fdaea115b32b30",
+    "6b3a7b32ddce63184203c64c4a1770fc1c60fdb6aacad7570d3b8290f15e820e",
+    "3d61a6c460219e1f6f2bc72b4870b8ff2391f750e4bc57b2d764a77eb3a53649",
+    "8ad8c59309a09bc3651b43bf0ad1f3c7a173877a9d3ea1cb915a040786987b4a",
+    "42133fb82d5de90f1bae0dea0dfffaffd84e3dc769c89802179c4cde5094bbee",
+    "582d99b1ec263c2047cff04c152679e0dca8f50b34bd6b6c1499ed71d8b428f4",
+    "0632f6d6c0a2a34ac93c5e182966802203316248f110170ea0f39b8605c5c5e4",
+    "4d25288a658d5a840e9447a106315fd35b4c9d2d647d224f769fb9ea30a10657",
+    "e661b06aef6d2b4636e6411f5949bd6c9f73a505139c16134e8fdd11f4f2df50",
+    "5d121cdcbe1637c48bcfda95a95f5bc05d8fdb986a7e89ddcee382fc3026e1f4",
+    "a321e6a02b2f65c871c6a0564158d5c9d78058a0667ebf74a937b3b5acf625f8",
+    "d3019aba2e68d0d2dc38198df5522ff1359eadb53f315ff7d2143368fc3e1b6a",
+    "19a8f5c3e1c9318c739fae5171cf82ed9decb48a51501f3d4d63fbeea97ca862",
+    "b72dac14ac646abec170f8d5ec6c9d268dcb847360b2a67e99142f86cdae9941",
+    "bbf7c2d3460f735131ffbc8143c9b124cf36cfdeda1bc2a9cd567ea64e1f161c",
+    "16112ef8c1abae786da3219ca2bca9e7308f71481647c01069ed1392f76e3335",
+    "473e83d00b64189f0a4e1f5eef0d579a6dd9d9069e148586fb13a455121cc69b",
+    "f0f811fa7c6e36987674772369ec608b806a58d41919928ea49b270b5e0beb28",
+    "159fbd3a9c1e3a3de409c72dc4bad1a9b314c3b6a24755ee9096395c5de39ac5",
+    "b5c77a1cb05875e5aef045c09ef4586dc5ea1ee75b776ac23217bc78e31edc99",
+    "e7c8a309fe1d63f1fd270a763b366cd502df572360c3a9dd682c64dac926b634",
+    "84758480960086ec2810282e80d4debec9c96687bbe3606380216940a4445eab",
+    "009ce789b4c6554e84cf9a88cd767f2510b4322fb71ee80c5a6253e84fad4feb",
+    "c3b7904346c2c92e92190f55a70e5812e567a1b6110d3904927b81eb360c1072"
   ],
   "title_hashes": [
-    "8dfc5fc481ab57ba141400cd57491ef0c792ea2e7968c705cc0a1a3cf4280ea5",
-    "715f90be675f3ba474e1e99cbca3fe50802df87e09049d41030039e0058240c3",
-    "590d369b04be3508eb72f7eaece4018c5b46e3a2ebccd2db3f6a69045ceff675",
-    "aa7959cf71aec6a251565bf60db90629d3b6271edbc21df238a3730b65084867",
-    "aac1366018882c07c01fb26277dff67af7cdc944e191551a4446dc843c06fe49",
-    "bdf964c00f928eee19f6eeacadb699714484044b2383341a6eee85807d121adc",
-    "0f12527cd393cebb420b2a5e730cdb6eb0cdd523c24d58da6ad4b0cd5fef5d9e",
-    "1dbe5728104e74388f3e0c6c737e40270784ac47f8d4e0e6ce664968fc679f08",
-    "42ed1584de049fea66d9055ce4b73148fc371110b5c03f6d46abd61771f5769d",
-    "2f405405ddc9d5bf7aa421c2c83979e78eed7cd4d973a8605bcb3fccada03c57",
-    "2d5fb531ccfcbed9f47a8eee172fabe0866c0d2899b23d0e90504448c0d5323c",
-    "f61828020c5b7478622384ebb81032b7d9b1c88eea8a2da323086366224a9cf8",
-    "8f49c689a17167a02b42394b0b05511fe953b05ce34f32e0588120e39f1164ac",
-    "9ac5cb130e74447746fa73a7408ebbc10064794c6fd9f81618b47312bf6860b5",
-    "805b604f42462526ee8fbc712395f8d5d1dfc9a52fcc76de0b664af341e57bcd",
-    "8db35f7e15317722be7ca01d1366001ee083b18390c6ab2f71d32e89d3733bd3",
     "aa0688c552862852a67a580a69f207d92b1cb8427001fce5794aee6e135674ed",
     "71db2dabe8d2d89af69a7c7582a7fa4abad33764928d08b0bd9b669c5a9bdba6",
     "5b520aa971d1ec122b20823ed661ff55cc2f97e97358de6d32d17839c5fed058",
@@ -8002,44 +7986,25 @@
     "7009ddfe23bbf732dd02cb4c241f1a2a624137417322e9f6c7f6fe12025fddda",
     "ebea689f2f199d50cf9ba44685216641e9b164d660963a6465951aae651d557c",
     "fb9c990b29e9239e70e4fa5e2b4bfebc1e86273055a4c83847ce0af962f4e46f",
-    "4fba44acca2750995c4ea43e70c8051dbb996d29fd2a5b7e46fdb4ae55cfc013"
+    "4fba44acca2750995c4ea43e70c8051dbb996d29fd2a5b7e46fdb4ae55cfc013",
+    "8cb69c8f6fae838e9e43b3616bd44b44eabbe4e0539abb373cb1955786583791",
+    "d6da771c3ca5c40bc0c481699fff665cae6ba21d4964d448d252ab8172abb705",
+    "b614114c00b75ac2fe13f76cf21ef0d04fa8a4714c05faf19191e8913c788b07",
+    "a7ae74c7363a3bd8025508ebfef93017082c8a2950dd867eac55f316080a1225",
+    "0cd413d636af3f1ad33a7acd7229b5825f1f97a5cedd7755bbcb046356e9f6d5",
+    "c90372252c0468fc3c35b87ff21a1408edbef74b06a9077e72b6b45dc3fe57c2",
+    "3cea4980be312daf05751e9b9a1a7193ccacb287e30ce84885d3d5671144ea2d",
+    "ad86f8acec0a8ddd4e40a60a9881c44ac5ef58135fd1104d3f0db707bd12e48d",
+    "13eb191156e3435473de7e7ca09e79e7493c0df8b5aec3bf3d5b5abf3f208136",
+    "15eed565e14a50ce7dcc0e39dab95518c2de87fa9189b5e3f577a3cde7945dc9",
+    "5b872858527bf6431872a08286909c0bf1c9e31fcd60b440d78eb18609a68d95",
+    "bbd2ee43d13ba2e798db59d84a3a9a2922e745c31d73910d3b9128c814899d59",
+    "a37a9cf0374544d837db2aee34cf8942a19ec580c35cc900a5eb15477ff70ccf",
+    "f77cce3dc6be065fe3c9f5e78769fb80fc4c0cb874594306f953c4aeec92eeb6",
+    "6b25cd6810a1cb7be3535ef0044253d93f9280bb14f3f47d408052ae4bf9057c",
+    "7041eee006fbc160cd645c49c1a70d75e3f3d9427588881770ccd375a57d2935"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "NASA TO END TERRA SATELLITE MISSION; DATA COLLECTION TO STOP DEC. 1, WITH ALL SPACECRAFT SYSTEMS TO BE POWERED OFF IN JANUARY 2027",
-      "title_ko": "NASA, 테라 위성 임무 종료… 12월 데이터 수집 중단·2027년 1월 전력 차단",
-      "url": "https://t.me/firstsquaw/193570",
-      "ts": 1794942108
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "HOUSE DEMOCRATIC LEADER HAKEEM JEFFRIES SAYS HE WON’T DEAL WITH WHITE HOUSE CHIEF OF STAFF STEPHEN MILLER, SAYING THE TRUMP ADMINISTRATION HAS OTHER OPTIONS INCLUDING JD VANCE, AND CALLING MILLER “THE ARCHITECT OF DONALD TRUMP’S VIOLENT MASS DEPORTATION MACHINE” - VIA MATT VISER, AT THE ATLANTIC SUMMIT",
-      "title_ko": "하킴 제프리스 미 민주당 하원 원내대표, \"백악관 비서실장 스티븐 밀러와 협상 안 해… 트럼프 행정부는 J.D. 벤스 등 다른 대안 있어\"",
-      "url": "https://t.me/firstsquaw/193571",
-      "ts": 1794942172
-    },
-    {
-      "source": "The Verge",
-      "title_en": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-      "title_ko": "구글, AI 에이전트 '스파크'를 '테스크'로 통합하고 무료 제공 전환",
-      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-      "ts": 1794942237
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "A senior source tells Al Arabiya: The diplomatic track between the US and Iran has not seen a breakthrough so far.",
-      "title_ko": "알아비아예트 고위 소식통: 미·이란 외교적 트랙, 현재까지 돌파구 없어",
-      "url": "https://www.financialjuice.com/News/9856325/A-senior-source-tells-Al-Arabiya-The-diplomatic-track-between-the-US-and-Iran-has-not-seen-a-breakthrough-so-far.aspx?xy=rss",
-      "ts": 1794942242
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Nvidia Faces First Earnings Test Since Huang’s Exit",
-      "title_ko": "엔비디아, 젠슨 황 지분 매각 후 첫 실적 시험대 직면",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-17/nvidia-faces-first-earnings-test-since-huang-s-exit-video",
-      "ts": 1794942274
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Jet.AI Inc. GAAP EPS of -$1.75 misses by $1.59, revenue of $0.73M misses by $0.37M",
@@ -11504,6 +11469,41 @@
       "title_ko": "BOJ의 우에다 총재는 인플레이션이 2% 수준에서 안정되어야 한다고 강조",
       "url": "https://t.me/firstsquaw/193678",
       "ts": 1794965239
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Rubio rules out any confirmed connection between the outages and malicious actors, citing a lack of evidence.",
+      "title_ko": "Rubio는 증거가 부족하다는 이유로 정전과 악의적인 행위자 사이의 확인된 연관성을 배제",
+      "url": "https://t.me/firstsquaw/193681",
+      "ts": 1794965312
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Rubio says authorities have found zero evidence establishing a connection to the outages.",
+      "title_ko": "루비오씨는 당국이 이번 정전과 관련이 있다는 증거를 전혀 발견하지 못했다고 전해",
+      "url": "https://t.me/firstsquaw/193682",
+      "ts": 1794965315
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "한투의 KDB생명 인수 '백지화' 배경은…'자본확충 규모'",
+      "title_ko": "한투의 KDB생명 인수 '백지화' 배경은…'자본확충 규모'",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445312",
+      "ts": 1794965449
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "国债期货开盘，30年期主力合约涨0.09%，10年期主力合约涨0.04%，5年期主力合约涨0.00%，2年期主力合约涨0.00%。",
+      "title_ko": "국채 선물이 개시되었으며, 주요 30년 계약은 0.09%, 주요 10년 계약은 0.04%, 주요 5년 계약은 0.00%, 주요 2년 계약은 0.00% 상승",
+      "url": "https://wallstreetcn.com/livenews/3201628",
+      "ts": 1794965451
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Ueda: Effects of a food consumption tax reduction on the economy and underlying inflation are difficult to assess.",
+      "title_ko": "우에다: 식품소비세 인하가 경제와 근본적인 인플레이션에 미치는 영향을 평가하기는 어렵습니다",
+      "url": "https://t.me/firstsquaw/193685",
+      "ts": 1794965453
     }
   ]
 }
