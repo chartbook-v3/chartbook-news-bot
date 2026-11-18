@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795026307,
+  "updated_at": 1795026455,
   "id_hashes": [
-    "72d81b72dc5717fd446acf08742890ce628110629a0fd39ac3235137773c2151",
-    "54a2a96ed57fd902c696a49a9ca910d7b9359f511252669fc91f0fc6d885b5ea",
-    "a05956225304b088940d27afc57217544646d6eb3243a813e3c95172452941ae",
-    "e034423666d6cefa9930c112a786487b21d70b188394a89db862512b3531062a",
     "e57ddeac17a47fa4d853b3f1703ad0b2bd24ea139b41f5771b5d78b4562818a9",
     "5d667db13fcc1b34969ac567387dcbf1bd766dc9ad8d26f94769be8d6f2aa2da",
     "211d2fba5334ec6867a9e5e91b9e4b073fb7bb9980add87af6150cf7a75fbced",
@@ -4000,13 +3996,13 @@
     "1f66b4c0f78c28c192ae511da57036f2e659587c2205673eed9072123c6ec646",
     "1accdd2b40b9e841f029870fec45e960d57c1bffd1b2aaa8a43d94174f70dafc",
     "64d21564ef6a4f4939b9af9076f0439d3d76c53e95ae3a408d71870a6ea8a3dd",
-    "0c87b686b5e5deea705f9675d2d78908d28ced9e7aba3041e8a044a9e60fd97b"
+    "0c87b686b5e5deea705f9675d2d78908d28ced9e7aba3041e8a044a9e60fd97b",
+    "2023ef047bc2338d44e8577e80b8e86e4bcb526628a53db7a9974c5169064712",
+    "220eb2cc09304e386aa601b5e9b65d54532a54b72b76e37d4d95a69f6fab712d",
+    "30b6d18d1b9b6a5467a8e4f68cd47ec374d2368e9ed1d76ce4d32e813514bee9",
+    "23f0d8d611015eba273dc54d43eebee72f40a3471ff4c29ba4bb0818d1e40bfb"
   ],
   "title_hashes": [
-    "cbd11d4367fe35bc109e18f3ce0270eee6d74ebdf87f2af5015f80c8927599c9",
-    "d813f087ad0c46bd5082f8e6d9e9bc96eafe5348fb18cb57bba3507b83ef604f",
-    "db383c2f69d39d20c0d35de119eabe645f705a825a442f67378c31dbbaa9861e",
-    "cd58fad9bfe048c8a1ace2076862efc5b5244e6ba75e6b9cf9ab07d74735c99c",
     "0ad3d4ce583fd8604256b05ecfb05badd1b75b3906c7ba2bc6ed78faa3004af3",
     "2f8ad10fa01daea0f3e883a2ba2051b9bac6bd702ead3d607cfb13485cec48c3",
     "c757c536cbf4ba835830e43a7dfd9d9c15ac52dd500215d50246e2cca0d96142",
@@ -8002,16 +7998,13 @@
     "c9bd6fea7712c5e58d470c7176cf8809f5a5477b518c0b3669e84d919336bfb0",
     "b448ee39cb97ce7211d025ef7da1c74fbd85222879ed7f9e1f84c3edd737af50",
     "a45589605d6f6c68247e1d7e94d5dc37143f2db8e95c0036c5bddbbc819057a6",
-    "ee5bbd3be8cfc317885b16256ccefdc6d82bcad4635f26cb2f64d82b4865cc4f"
+    "ee5bbd3be8cfc317885b16256ccefdc6d82bcad4635f26cb2f64d82b4865cc4f",
+    "8953505fb1988900abdd662044ba54d6992ba1e24fe53a6e1fc6a010e52e4444",
+    "7bbbbad09daa4d433c78c3df6198113607c5d75c8faa1eb6b7602590d52885c8",
+    "cdbb92545150576f0e728687d821fd692937f53f962f94635c550115a9aa33b8",
+    "5431ff5106843c774b98a162c71794a91886f0a5d7dee8641c0df7684ae09f1c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "NOVATEK TO REDIRECT LNG SUPPLY FROM EU MARKET: IFX",
-      "title_ko": "노바테크, EU 시장서 LNG 공급 다변화 추진 - IFX",
-      "url": "https://t.me/marketfeed/1080488",
-      "ts": 1794993552
-    },
     {
       "source": "MarketFeed",
       "title_en": "NOVATEK SAYS MOST REDIRECTED LNG TO GO TO CHINA: IFX",
@@ -11504,6 +11497,13 @@
       "title_ko": "Disney Imagineers와 AWS가 AI 기반 Anzellan 로봇을 만듭니다",
       "url": "https://seekingalpha.com/news/4674252-disney-imagineers-and-aws-create-ai-powered-anzellan-robots?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795026306
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BINANCE SAYS IT HAS COURT ORDER TO GET BACK CRYPTO FROZEN AFTER $6.3 BILLION HEIST",
+      "title_ko": "바이낸스는 63억 달러 규모의 강도 사건 이후 동결된 암호화폐를 되찾으라는 법원 명령을 받았다고 밝혀",
+      "url": "https://t.me/marketfeed/1080874",
+      "ts": 1795026392
     }
   ]
 }
