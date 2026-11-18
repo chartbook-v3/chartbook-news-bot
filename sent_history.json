@@ -1,31 +1,6 @@
 {
-  "updated_at": 1795010076,
+  "updated_at": 1795010237,
   "id_hashes": [
-    "ae51d8cb5f67d42e7721b9bdd52928604b70a9e8a4c0e97045b8cd303dbe8422",
-    "ea9cb5b080200f7fb2db87e58ca7e4849c07a1412266672e208b96d89187ab15",
-    "8fee272f5b30d7409d88170c065dde36a3667de4d7f36e88cf3dbb34ef4a032e",
-    "adf18df339736762a2e062525d212e98c43b4046139b54e8cad2ec48d17394c8",
-    "60be1f462ff759f90f4dc3e668257e9c0840b31a63406b0c28735a87ddf31905",
-    "8951881f0cc3142277f4522f627fc88019987f892d375039e4078201ab32b0ce",
-    "0265d95b48f320cc8f912871ba0893d7153bd0ed39c2da96026e31277ef4e41a",
-    "94992d9422316e92bc4c0f88110aeef3bbfa5e1d9c578f30c469f0057fa1d5cd",
-    "9a1f34d74aa3e4039aacc8b9de1c6d5b8711e8f7afaa7eb61221d46a82d5b0cf",
-    "c555a6b898d297c8ed2817eeecc270fa159e560b4e3e5edeb58b02f739be1413",
-    "c6529e69e8f8952543812bb04be686a28483523dad9489a0a90cdbcf1bb48533",
-    "289927541c2b7b231bf355cb38aa7c06ea18b4bb0f68ea990f8cc325986f1ae4",
-    "d376d095fa02e0b65a160dc8e4df3f9ac778812a6248660f7da58a6a1084e92e",
-    "e2519e77aa0e3010d693735e73ee5792ef77b5f686d036163bcf25d6778463b9",
-    "2045541b048fd5ab9a1b9eae8d1ac26e196f850fd0b53247fe0ac75979952677",
-    "40a431ebbf32d90858de76ef04b96cd612fea3d24e77d503e94b2f8ad9488d50",
-    "9592b4c1ee129960b0b38ff0fd9e9f08901cdc80f156398a4eff56e51f900110",
-    "ecd3008edf0cb90d210afa238f8e17649c2b52021c1b4b2b5432d0f2ae15f3f1",
-    "c7d55284473ad26ce8b05835919d8c9e142ea20d5abd8810b96e03282561a567",
-    "70461a6ce4950cd88778e7a542c9b9eca02ba1366b5175058ba815dca72fd057",
-    "2c0101032acafe7652fb9e4022de94c88162abd6dd460cd9ac64fd6186ffe495",
-    "08a8ff83a1ec55b1ad569ccd3e7e2c3b81990bbac9078c3d8603dd62ff094542",
-    "825c63cd5a9ce2edf81e834a9ad187ad4b3e8d7a408fa80afd41196b6b37ebf2",
-    "aa77efd337e098c4ecd7479574bdf612dc3c876c176e95564fac715232516968",
-    "d044801f5b3757e9ea06551b636f8e4dd779da4e36773edbff8fce3dc3f5524a",
     "e5ea223e2435b2e956e6f44f27c955eeff748a11aa3a5fcae62d86853d230238",
     "2da5bb6634fe2cbc3a4384554d6350e814c208dae12920e2d39d0cfe87918a76",
     "f70099cdd4941a00744af81299fc949a8e4e38b998889d51154ee54a7f393406",
@@ -4000,28 +3975,34 @@
     "fc643533c075b83ab5270fdbde038e601da1dcdff2a62d33e6b3294157db9ac9",
     "12f4b461c01dfcb5270a68763b019189439248e58b91b0557556a98681c07ab0",
     "9dabb3cc82fe110c64cd5cecefa0324f9f342e9e9fec725ff73fad6651dedbca",
-    "4643327fd40217f1dac12cf01cdfa44500a853a736d2743a9a99153470bf72ea"
+    "4643327fd40217f1dac12cf01cdfa44500a853a736d2743a9a99153470bf72ea",
+    "2ff5b071e14d954e7e579925eb36b7a0bd6160cecfe6367da833a7ae0fd2bb35",
+    "0275fc7a0753ecba687d447186c77823fba568ebb1a5e9385f7f568427ae2072",
+    "65ed02e345d3d10e599f7762597cc913b85e043818ffe4648befe28fc34577b0",
+    "c92cb961077a214fa32f4f698feea7913741e331cf0e4dbcaea07bc49b8e7815",
+    "c0bc5b20f5c772dd4fb906173ee8ddfd824d446b7886bde393f9bc968a238df5",
+    "b9dd723cc57927d843c64323f12a67a6430d7b5216e9845b6799e90f4c0bda64",
+    "94949dacca115376134efdbed956b9c9bed8bd0ab148d9212ed2a458653397fd",
+    "6f9ae64d5af17134a51e6bd646a9489a7d881aab6757cd0a2990e2040ddedd9e",
+    "0ea1a360fdc51f67ad3b5dd2dfa56fa399df24f043aa4b1207583022664d9434",
+    "738bf96048d504cf618a48d341a85c304c52c45e1357585a052a385ad29015fc",
+    "c16f5227ee6e92ddb888f5d0e539409ea8cc26f045ae0824f7fa684ebb9ff1d2",
+    "cb33f470915578309c15d200ed3202e9050a2c25ec68b60776670a1eaf1b1c69",
+    "9a391f40f826055a8690fa7890527ba9c0c2a35f9ebfa453d9604fc3a73d6c3f",
+    "60ca72cf49886709d1e1c422aecc35e660b9d4d9e523dcfd327d07d2c35eafed",
+    "5fb17e47afed5a4f53bbaf057bac13358b6ea1cd8cc1315d92b79499436c63d9",
+    "57d8f19c21e08faf43fa379aa926bb854789877836982d97cfcf438f9e088d65",
+    "dea1b5e63941595466f61d198dcf0e736f686e9a09908908f446dc143e7c3c62",
+    "4af7d4cf1b3007f021370bdcd430500652453cbe8ec06db2a4b55059c3bc9afa",
+    "e5ed8a39b7e6b0522a644d12d59b19559b9cad1046a5ac84555648678c44a57f",
+    "92d1f1759f7708ce6851684b3645c62cad16463fad5a24b639e00cc3f85dbff1",
+    "a35b1d75167761e663bc344d36ad41d60d2602403297a409a697a5a0d22fa73a",
+    "2d75573bd12dff52f4f3f223d9d8bd6abc64423356e3486ecdd367e0e5c27e47",
+    "7b79b4df14b473aefb1d235e156b3a87971e26703abec28274485b976823261b",
+    "de7cbd76e92c0e0100da2a188f26e1618fca891b2b772538806fb7a2e4b9d85a",
+    "3de519e4773da407e4a2ee4e8fb429656804807d23f4ec5f650ae614b91263b1"
   ],
   "title_hashes": [
-    "50bddd93edba64e8c1256d4a191433d750937597fda3ac4d91f01d0f1aaba16f",
-    "c60d15c886ccd5a35a54f2f873c16f92951332e6d0cdfc365cca195db51c15db",
-    "aa348549deaceb56333ad2b543c62941af8336d775c453b9af8b726daed2350f",
-    "d992c8a1ebb112d6ffd9381ff3dfe3e454503d48db0d304b5761e08aef54dadd",
-    "55f4ae1af1e31ac02a44a35572101c941d88af67c7ce0c32fe8775ab4feeea0f",
-    "3d03c7c127e0198358a7c49b70b6371e8e199c68eb3d3ad859b54824583bf3c7",
-    "2f19e180fd7a95e27b3c62d1a624008fe50eb2685858c9efeb4845edda8f6b01",
-    "412103023e4fdfd2ae8a51b736f97486214c34644fd2139361e032ee56119e97",
-    "ec9761921741a063cbae7af70fc68b8b179ee2fb0f77e67260b7e6c2b41f01de",
-    "3e51cee6a0d90c82ff29817eb545bcb09d5ede198e7cf41fc9cc644f168ace7f",
-    "e44eb5a6a303b640e2cb238f5f10a7b960d5fe14a1673856ab9216ae7519ec04",
-    "dd141bef3a4a508d7958658087a911ecbddf9679a4e9fd353af06ad25606f8f4",
-    "74432e9df128310b6e093ca1b10380722447e633a072aac7f7242697cdfc6dd6",
-    "7969a92db4449ea7b4dc6ddf0cd6aea3ba2b45bdca26ab4aa645eef294b57ede",
-    "bb6f9f3534423c478fbd928496e07bf11bcfd568cb81796f420f806ea45941a7",
-    "5212443e75dd3daa0850e5f6e05632994a8a14e87065a73f72ccc273dc04dc42",
-    "db243b61a25d93c77f4406e2c6f7403636fffb70cb8dc29d325345eff1f9d28b",
-    "98e5b5f6388020ed12ad816b94052eef83d3620ac884fd80ac89ff5b6d545a73",
-    "2abe278cf0dcc4fedd1b7ca491cf3edaf891f15a6496bc18f1dd3cd8e3a7ef46",
     "a5554f302abf0e5211d55f593cd81cd010a5fbf3fd4fa29c3c4689f9985066c5",
     "cd45dd779b5d6bba8c11c94eafd094c16c1aa1d077d2844648a016dff81fc723",
     "0da154dd084887c35578b1b2a58b969282f3b170fc4fc3d71feddd25accc1333",
@@ -8002,65 +7983,28 @@
     "52272677b60c5dabb882e273402b86fb6eac15bfe99191275ce6f4c3b8316214",
     "8edd5c96f2536c8d79adfb072683f0e2efb611a02b05522c0bdcc4e7c5eb7aff",
     "644b2d6c57aacf1323f23341341b56b5c9a546fa64a620c776521af1c043a1a1",
-    "fe5544b1b1d7afac4522e651839d3da0bd1405bd2c2cce2fd69ff251f173ffe9"
+    "fe5544b1b1d7afac4522e651839d3da0bd1405bd2c2cce2fd69ff251f173ffe9",
+    "c1dbaafff166cc327ac431b8283e99b5683b58578ec319581bbb5e1b4086eb6f",
+    "9299a0c62df68a2afd078798996ebc36c1149027065b8bdb072e5b1d39ff6205",
+    "68493fbf7e5b2064c18ab6f84e5808382787ff30fe9de2956bb4913f30ee4684",
+    "c8d6f2b910cc29166e15517c79283f3de2f3cf40d3741367221e084c386acda0",
+    "ffda8c08849cffdef3741aff392f3d71964476148bffde1eda2827189e13e1c5",
+    "a7850b08f3c8d4ad7264f7ef25870f40fc93e6d3eac1c47b08e27b09d45619f1",
+    "429495ed1a541c29fcfe6e9604e5d452c2e4d157cf3788aef73bb727217f1a4f",
+    "45416d5c5757f5f6f76509316602374eafb279a844ec92f84f9b168e98576178",
+    "ff45e8c3c21c54e58d15ec9f7768cad677cd425b1f97b3e66c333e4112de9b68",
+    "0bdd04f685d434c1ffc1037d2c1ad4329f2f120bdea86a9f1a591efa993db1b3",
+    "1d80f89f70f4348c185bcc4558a43c2400c21059dd8e27f9cefcea1d006d26de",
+    "e0ea36a4f4800639adbe95e33c635716fafeeaa62b9187527e17d14f6766c664",
+    "8c2c6a58cba91ca5ceb899ef87efff02f26df702d7e06f41e572beec6fc90ea7",
+    "8da5f0fd7eabe9a88bb3e4090ca02f0f83e8c8b5f7315a06cd511b615318ff46",
+    "ae40ed7964109a81cbd17699e2c9b805e53ea845481316ea66cc8a0898cc19fe",
+    "a839803a001298a6a13f329a874333cabac29dd221928ea9e7aa57d102b58d6b",
+    "70966ca2248ca37a41cff45931460b4fbeebe96527fe157ee7238e13295019c7",
+    "a9b2408396fe3e202ab79981230f8796ff42cee48bbea85e8bbeb4b4cab37072",
+    "ca09db23058bde0c854c137c0d8841f7c6949b3230e55c7b5a5a1568caf18fff"
   ],
   "recent_sent_articles": [
-    {
-      "source": "지디넷코리아",
-      "title_en": "엔비디아 실적콜에 등장한 이 남자…젠슨 황 후계자 될까",
-      "title_ko": "엔비디아 실적콜에 등장한 이 남자…젠슨 황 후계자 될까",
-      "url": "https://zdnet.co.kr/view/?no=20261118152050",
-      "ts": 1794986560
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "印尼央行加息后，印尼盾维持小幅跌势。",
-      "title_ko": "인도네시아 은행이 금리를 인상한 이후 인도네시아 루피아는 소폭 하락세를 유지",
-      "url": "https://wallstreetcn.com/livenews/3201768",
-      "ts": 1794986649
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Top Wall Street Forecasters Revamp TJX Expectations Ahead Of Q3 Earnings",
-      "title_ko": "최고의 월스트리트 예측자들은 3분기 실적을 앞두고 TJX 기대치를 개편",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/63376539/top-wall-street-forecasters-revamp-tjx-expectations-ahead-of-q3-earnings-2",
-      "ts": 1794986716
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "현대로템, 극초음속 엔진에 힘 싣는다…서산 시험센터 증축",
-      "title_ko": "현대로템, 극초음속 엔진에 힘 싣는다…서산 시험센터 증축",
-      "url": "https://www.fnnews.com/news/202611181616167543",
-      "ts": 1794986718
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "'오천피' 무너진 날 외국인 공매도 1조 터졌다…비율도 80% 넘어",
-      "title_ko": "'오천피' 무너진 날 외국인 공매도 1조 터졌다…비율도 80% 넘어",
-      "url": "https://www.fnnews.com/news/202611181529418114",
-      "ts": 1794986809
-    },
-    {
-      "source": "이뉴스투데이",
-      "title_en": "단거리 AESA 레이다 ‘美 수출’···한화시스템, 글로벌 시장 확대 가속",
-      "title_ko": "단거리 AESA 레이다 ‘美 수출’···한화시스템, 글로벌 시장 확대 가속",
-      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494177",
-      "ts": 1794986875
-    },
-    {
-      "source": "Barron's",
-      "title_en": "A Sacred Mountain And Whether A Kim-Trump Meet Is In The Offing",
-      "title_ko": "신성한 산, 그리고 김-트럼프 만남이 코앞에 있을지",
-      "url": "https://www.barrons.com/news/a-sacred-mountain-and-whether-a-kim-trump-meet-is-in-the-offing-a6854cb6",
-      "ts": 1794986879
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "한국투자증권, 6천500억원 주주배정 유상증자 결정",
-      "title_ko": "한국투자증권, 6천500억원 주주배정 유상증자 결정",
-      "url": "https://www.yna.co.kr/view/AKR20261118148500008",
-      "ts": 1794986969
-    },
     {
       "source": "CNBC",
       "title_en": "Senators press acting U.S. Navy Secretary on Iran war costs, sailor health in confirmation hearing",
@@ -11504,6 +11448,62 @@
       "title_ko": "Apimeds Pharmaceuticals US, Inc. GAAP EPS는 7.68달러, 수익은 289만 달러입니다",
       "url": "https://seekingalpha.com/news/4674157-apimeds-pharmaceuticals-us-inc-gaap-eps-of-768-revenue-of-289m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795010015
+    },
+    {
+      "source": "한국경제",
+      "title_en": "젠슨황 떠난 엔비디아 지금 사도 될까…월가의 답은?",
+      "title_ko": "젠슨황 떠난 엔비디아 지금 사도 될까…월가의 답은?",
+      "url": "https://www.hankyung.com/article/202611185910i",
+      "ts": 1795010095
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: 🇷🇺 RUSSIA TO ALLOW FOREIGNERS TO OPEN DIGITAL RUBLE ACCOUNTS STARTING IN 2027.",
+      "title_ko": "신규: 🇷🇺 러시아는 2027년부터 외국인이 디지털 루블 계좌를 개설할 수 있도록 허용합니다",
+      "url": "https://t.me/marketfeed/1080662",
+      "ts": 1795010098
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Israel's News 12: The Chief of Staff and senior IDF officials will meet today with the Centcom commander who arrived in Israel. In the focus - Iran.",
+      "title_ko": "이스라엘 뉴스 12: 참모총장과 IDF 고위 관리들은 오늘 이스라엘에 도착한 중부군 사령관을 만날 예정입니다. 초점 -이란",
+      "url": "https://www.financialjuice.com/News/9857922/Israels-News-12-The-Chief-of-Staff-and-senior-IDF-officials-will-meet-today-with-the-Centcom-commander-who-arrived-in-Israel-In-the-focus---Iran.aspx?xy=rss",
+      "ts": 1795010106
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Bullish Q3 earnings, revenue top estimates as expenses come in lower than expected",
+      "title_ko": "3분기 실적 강세, 비용이 예상보다 낮아 수익 최고 추정치",
+      "url": "https://seekingalpha.com/news/4674115-bullish-q3-earnings-revenue-top-estimates-as-expenses-come-in-lower-than-expected?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795010160
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "US COMMERCE DEPARTMENT ESTABLISHING NEW RULES TO PREVENT CERTAIN FOREIGN ACTORS FROM LEVERAGING ADVANCED COMPUTING POWER BASED ON US TECHNOLOGY TO THREATEN US NATIONAL SECURITY AND FOREIGN POLICY INTERESTS -FEDERAL REGISTER NOTICE",
+      "title_ko": "미국 상무부는 특정 외국 행위자가 미국 기술을 기반으로 한 고급 컴퓨팅 능력을 활용하여 미국 국가 안보 및 외국 정책 이익을 위협하는 것을 방지하기 위한 새로운 규칙을 제정했습니다. -연방 등록 공지",
+      "url": "https://t.me/WalterBloomberg/38621",
+      "ts": 1795010163
+    },
+    {
+      "source": "재경일보",
+      "title_en": "누리호 5차 위성 미사출…모터에 전류 안 흘러 : 테크/과학",
+      "title_ko": "누리호 5차 위성 미사출…모터에 전류 안 흘러 : 테크/과학",
+      "url": "https://news.jkn.co.kr/post/1105635",
+      "ts": 1795010226
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "\"엔비디아, 2022년 알리바바에 앨리스 황 소개\"…'수출 통제 우회' 밀착 정황 추가",
+      "title_ko": "\"엔비디아, 2022년 알리바바에 앨리스 황 소개\"…'수출 통제 우회' 밀착 정황 추가",
+      "url": "https://www.fnnews.com/news/202611182250457980",
+      "ts": 1795010228
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "BMO Capital Reiterates Outperform Rating on NVIDIA (NVDA)",
+      "title_ko": "BMO Capital, NVIDIA(NVDA)에 대한 우수한 평가 등급 유지",
+      "url": "https://www.streetinsider.com/Analyst+Comments/BMO+Capital+Reiterates+Outperform+Rating+on+NVIDIA+%28NVDA%29/27367506.html",
+      "ts": 1795010236
     }
   ]
 }
