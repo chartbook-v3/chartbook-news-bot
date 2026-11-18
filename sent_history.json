@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795025649,
+  "updated_at": 1795025809,
   "id_hashes": [
-    "a3349ba03bcf60a71b4b53a964d3231611977f3151b588c3c6fd3b59a794e970",
-    "fc2414a58de4978a5b30235d38e4fdf966473c0c7b08863b494dbb6f60cd99fe",
     "81dba66f62b422bcd2570bb2aa25bbd8fded167bad8b5a75ca579968b85a9b5f",
     "cc3f3a83f4dbd384ebc5397504de18dcbe1b07074201beda7fa1a6524c28b827",
     "eddf1823325d9f4c210ff4903c9ab4d92811a8487de9b771c9ffc16f1aa18f02",
@@ -4000,12 +3998,11 @@
     "e57458097b84de81961224fad5481684ca66630a58b1b69b30e6ee427eb045a7",
     "c2db48f58b9afdbaae00f91cf3f2987bfa4ad9b5a6a73a1e0a6f656dbc35d8ec",
     "1984400164e03d3a9eaddbf9a75dcd61bb0bac8c3289aec42205ed257dee4c4e",
-    "cae068d3a1fda8c701dff680f39daa680698833cfebbae57d5a7795d26e1ac25"
+    "cae068d3a1fda8c701dff680f39daa680698833cfebbae57d5a7795d26e1ac25",
+    "c1652111a72f427b707129b61879fe43a2d1ccd7a9ece4bf510846e38e17ba23",
+    "968b0f098d1580f8fb9ff187735ba3288b2dae2bd3fe16197470236a0b27db53"
   ],
   "title_hashes": [
-    "4d237e74e32cc25e15deef29c21fbe159a36af83759e30f8012107a242e26298",
-    "43b2d427eda3a8d46014fa4d2bed82cefadf7a8dc723a14bc68f304ed78aa2a6",
-    "0f1952d4237f0fc5fd45ae46a37dfc1ef0bbbfdc173b61cb0a3fd275232fbc35",
     "075fa6018e63cab1f3203c68e71358a55188efe52b1cd14c54a16b0a3906860d",
     "829b104370ae6d6714f46c9c002426e217421a40568b1554f6da0b6dd847f7be",
     "2456e3e68d22dcd2e054bb10da50d3c1c94ea9e28ddefdd2fcf22512285c463c",
@@ -8002,16 +7999,12 @@
     "7fe9a54483062c5493b38076fafff7b4fbbbebda52ed018ca56866d9b59ceed3",
     "a118338871937a9f8c0e3f1233f44efc4f5f8c8ec89acb091b171ac83cda95d8",
     "b453ccd21e4e29b977f42fd7e4623a45660c3f9c641fa8a97d5fe7d6d52121db",
-    "3c712f3088b7df1aabba7082676b0f7b71c2c5abc080dc538b9687f9f3c56afd"
+    "3c712f3088b7df1aabba7082676b0f7b71c2c5abc080dc538b9687f9f3c56afd",
+    "3f8e4898914f74a3e99847d3981c78735a7f2a5a6048a37cb480ca82fc063219",
+    "f9608a838e69039b095e5bb786590ff867898a44db6d51e98b0bedfb0a751e2e",
+    "94cc0603b12591502a8f16401b663bcec10ccb8c148b289be042ccbd82b74449"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "SAUDI ARABIA ISSUES WARNING OF POTENTIAL DANGER IN NAJRAN",
-      "title_ko": "사우디, 나지란 지역 잠재적 위험 경고 발령",
-      "url": "https://t.me/firstsquaw/193834",
-      "ts": 1794993067
-    },
     {
       "source": "FirstSquawk",
       "title_en": "CHINA'S XI GREETS TRUMP AT AIRPORT IN SHENZHEN IN RARE MOVE.",
@@ -11504,6 +11497,13 @@
       "title_ko": "Nick Brusatore, Affinor Growers Inc의 주식 인수 발표",
       "url": "https://www.streetinsider.com/Newsfile/Nick+Brusatore+Announces+Acquisition+of+Shares+in+Affinor+Growers+Inc/27369317.html",
       "ts": 1795025524
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "周三（11月18日），美联储隔夜逆回购协议（RRP）使用规模为3.31亿美元（交易对手7家），上个交易日报3.51亿美元。",
+      "title_ko": "수요일(11월 18일) 미 연준의 익일 역환매조건부매매계약(RRP) 규모는 3억 3,100만 달러(7개 거래상대방)로 전 거래일의 3억 5,100만 달러와 비교된다",
+      "url": "https://wallstreetcn.com/livenews/3202110",
+      "ts": 1795025808
     }
   ]
 }
