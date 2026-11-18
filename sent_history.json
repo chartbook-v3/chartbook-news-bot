@@ -1,21 +1,6 @@
 {
-  "updated_at": 1794977462,
+  "updated_at": 1794977618,
   "id_hashes": [
-    "72f3cdb29bc06afbeaa5e1138f7589d3fb652472919692689db33782bd8298a5",
-    "88367e67f5259793ee624db50c215570fbf66eeecc2544e4fa43d556cab52729",
-    "916281e9b07e373f651d5e2410fc40100d339f59bfb800c41d2465e8136f644c",
-    "83d4bcb7a3b3f44ee33ec08b706f9fbc718294c92992ab167cf99eb977b24b42",
-    "8ed60ed301448a2c219106e4a944693287a6e6ee30472112e3ab434e621ab561",
-    "3c0a78c4292515f7c799bc1b4f628929e5582ac9605e2565b6d1af7369d86797",
-    "da576a83cef62776bb748981b576670828bd116e6b43f33d820ab71c55363aa4",
-    "4f9235f1bfd5b4f625fd326c3e465743f8d4d551a0868db2d370744f137ddb74",
-    "cee710ab7e483e4e3f9c410dd31fd6b8782d76e9b2dd90ef7023f387d44fddc5",
-    "30c8fe3f0d3c7c0b5ef454809d899c2a4c8234cbc9789fb71795290ecc3272db",
-    "3689e236e7e14a210d1ddf59cf97ef6f3e4bc639430460acc16997bfc0bced56",
-    "aa8fd6c3587c27055a9daa20716517e98d017c5eccd70cae6e798331c18c1bea",
-    "b00a3e5d84fd042a0c6ccfc6b88dd054684f56f6bd26836dcc08a6f10b1a1771",
-    "87e432d4a7aa29b0e5d79aeda1f2661ebb0798e5d1da60998d98144ba8fa6b6e",
-    "39ba0ca7ff061959c89cb01ea2f3807ec847fc5ca216825a3881a4a85a1e4b62",
     "7979ed2011da164645c1fda49ee44a60baffb25387210f6df4a15c3c462b5c07",
     "b59bfd455d86e2444b86758c0bff7b5dbf8b67347849d1cce2e09c0d63fa8a91",
     "6b54ef2e0712434a425b2e5d137f579bbef710b70a0551df787c33a5c869b404",
@@ -4000,21 +3985,24 @@
     "24ed372c69976990e53189f70f80ddae859b56ab16c2c4c02a359d5039c4465c",
     "e1bdd9174a362b02c55e5a523a988a8c28c464e3415814caabffe4500abc027f",
     "090ea5b157afbe2cac50a32cedd0bdf72ba5e276820698ada91f68bed48243ae",
-    "ee701f6b011af150508ac2864547fa92ba06113efb144f89d81fd3e2ede76f7f"
+    "ee701f6b011af150508ac2864547fa92ba06113efb144f89d81fd3e2ede76f7f",
+    "57ffb662835041f903279826f238efda435f95a0c32d8232a415f4acd76ef461",
+    "6ec6b12b3623ddc35c179393733dc26f4ae76eac759f14d71c728c497e59b6e6",
+    "9de84e194ec403399741bf043eea70aedef0838911b98baeb745310123f1d689",
+    "33aaa8e0636fe0ee4d70c040ee9722f49d14e6f0683484559f6a60e906b0e1d7",
+    "9eb4011da338712d193d79c2ffa8d7ab4016f5f4f13d9a6cd04c4c1e4bfc6de4",
+    "db84b8263bd06bdd0ac1ae4ddb5e3410210e173e67daa0385af9a43eee316b3d",
+    "6734fd5f1bf237bc06d2739ad7abfecf6d983cbbd1704a6c122db64daee8ebf5",
+    "90921ce36121fdfea2815d3e4cb957c5a453d48778b542e47da852d5d372c234",
+    "2ab6e7d1866b02b853f7aba9fd20f1d3be52e0d674c641587d43100351dac714",
+    "c8ddc4104f9b25d500c253e60ae885b5679e301c19f6cc5d3a21bcee941815a8",
+    "15c434ca246a9b0745e235face425441f2727cf13989738c58ac89802f1404b4",
+    "4a465fc0a20455103a86dd0820b144536f2950a2611e054c4fbaf2fe3798be3d",
+    "3f60563bfbd8351cfa898b21cbd2ff07a8305c5e31439d7683c198a8d12e83b1",
+    "d301878b0c2114fbd09f50cde4dfa8f3900137131827160195892d58ae2ccddb",
+    "a7b5cf82bfe2384bdde8b45b01d3878993ed7571f83b32c899471257bf056c1d"
   ],
   "title_hashes": [
-    "d3248caaf6fdc9f4d0a3e8c448978131cca6a5efcd5abe9d8fd2668bbbaacb9e",
-    "bad25298c3fdddc9a1abc909eebbd011041d230eeff469599f58b22b719a95fc",
-    "ab1481545ee2c321a43e20a6f69a465480b2a31da23ba0ba2f0fd72b24236aba",
-    "68f556dbca73e632d47f324d6e66dd5de1c6d644e9f54a22decc5971f0292596",
-    "62cec6dd78e39a85e6a2c2daa5419d73f38526adfa4f03533331e9a3be2ed62c",
-    "aaba14a94e411022fc0239a049b6c9f04e1aa17fdbdb1411d7912283610f2818",
-    "c316c3532269491771a713aea1868d94d74f350079e842520ea8830308b9f580",
-    "964f1deb99331b6dd8af5e9ee118fbbbdb6523a565d9a16f1e3a15441f6409f5",
-    "b257670194c5715af1364825940f98d0b20168201812d15c80681ad456b7ca9c",
-    "1e20f7528e95db1df5e1cc2c22e93d5427efbc29185896fb42c759439e1e1ca9",
-    "3fd88552223833f9c2d4346778353128871aee88a9b2af9b274e8cb5932929f2",
-    "211a710b90e1a50b00bcd269d08e51bc82dbc356d5d83c1b1acfce427bd6d732",
     "3b1bc24f2a7c5708fb0d29e3adc9f6de8e0f0cb107f8f94e5821693ab25758e5",
     "445e092777f9b687574db555923f3840e1086565e9d6ac6445c3517bc388e7e4",
     "a064618b091edef1656e4cc62ffd431c7555a8512b4e48273db9abe86d130c9b",
@@ -8002,37 +7990,21 @@
     "a1261a18fe2527a4942f5d5f451b77aa9902c5df34e85eb6937f41ec8a94fb52",
     "fdefd564dfabdbb4ef77114a71a086035a0d53991d8c563337c7125c11dc7ce3",
     "e6d8d209dca06c94c2fe1205b25f3102d3e54f8228496f123670d4d4a713ce9e",
-    "5e408f63d005a4ab00bf7db822198cb04e51cb5dc368a092d63a9a1dbdc1d2e8"
+    "5e408f63d005a4ab00bf7db822198cb04e51cb5dc368a092d63a9a1dbdc1d2e8",
+    "a0d77e9cec7ba48172eb703a0b4992fcec3be0b11d3a2a62447d4cb300c20dca",
+    "1f4030e10ceb0f4d3ba12a1aa7068f8fab8c01fc1db652afd7fd5a8fe1ab8577",
+    "3b8a8b21e710206834dc601bb91ad09f9346a6a5fd12cd7177c3597e6cac70de",
+    "5df52d93c3190e45f0dbd4a15b0086bc069a6fd1f33930537f530ba35ce91a61",
+    "82e20fa75ebd91e2ac20c9b10c50f0bb12d606548a3437083b8fd73559aa1c01",
+    "ae73659afef69208bc3ca9aae37b18fa220d800f19c6e4173bba9488be78a177",
+    "8eedcd382fa944caad25a04019f9ff7c15c61716e23d1a5268ca15848927c67c",
+    "79838c82e0f638bc9f8dfc97ba6f2895d8f15d0352c39416792a5d1ca1639608",
+    "b143698ae777058321158ed9e2878864347de2e1d3eb7bec3c1c7969413a6932",
+    "1e15a8a2f1f09306ab428b2c853b8210facdc82a93f7c3d7f601dd522324f831",
+    "32e130ecb9f43ee9067e86f79cb820415ec957c7f800517188285557cde7a021",
+    "d543e5ca8f7a946a593ea63212958674021c1c7a7b22353d352e8c985a3c61b9"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FT",
-      "title_en": "Nvidia sales doubled last quarter",
-      "title_ko": "엔비디아 매출은 지난 분기에 두 배로 증가",
-      "url": "https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1",
-      "ts": 1794951581
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Nvidia Results Show Resilience, New Street's Chkaiban Says",
-      "title_ko": "New Street의 Chkaiban은 Nvidia 결과에서 탄력성을 보여주었다고 말합니다",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-17/nvidia-results-show-resilience-analyst-chkaiban-says-video",
-      "ts": 1794951646
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Traders Exploiting Pricing Gaps In Pre-IPO Contracts",
-      "title_ko": "IPO 이전 계약의 가격 격차를 이용하는 거래자들",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-17/traders-exploiting-pricing-gaps-in-pre-ipo-contracts-video",
-      "ts": 1794951731
-    },
-    {
-      "source": "The Verge",
-      "title_en": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-      "title_ko": "엔비디아의 3분기 실적은 Jensen Huang에 대한 전체 언급 없이도 높은 수준을 기록",
-      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
-      "ts": 1794951735
-    },
     {
       "source": "디지털데일리",
       "title_en": "뉴욕증시, 엔비디아 실적 앞두고 하락…S&P500·나스닥 4거래일 연속 약세",
@@ -11504,6 +11476,34 @@
       "title_ko": "WTI 원유는 $1 이상 하락하여 장중 최저치인 $84.74/bbl에 도달",
       "url": "https://t.me/firstsquaw/193763",
       "ts": 1794977461
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Apple updates app store pricing across multiple countries, introduces new California tax rules",
+      "title_ko": "Apple, 여러 국가의 앱 스토어 가격 업데이트, 새로운 캘리포니아 세금 규정 도입",
+      "url": "https://seekingalpha.com/news/4673987-apple-updates-app-store-pricing-across-multiple-countries-introduces-new-california-tax-rules?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1794977485
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Trump Administration Sued by Ecuadorian Fishermen Over Pacific Drone Strike: ‘We’re Alive by the Grace of",
+      "title_ko": "태평양 드론 공격에 대해 에콰도르 어부들로부터 트럼프 행정부 고소: '우리는 은총으로 살아있다'",
+      "url": "https://www.benzinga.com/news/politics/26/11/63375742/trump-administration-sued-by-ecuadorian-fishermen-over-pacific-drone-strike-were-alive-by-the-grace-of-god",
+      "ts": 1794977550
+    },
+    {
+      "source": "WSJ",
+      "title_en": "IRAN ATTACKS KUWAIT AND BAHRAIN, FURTHER ESCALATING FIGHT OVER STRAIT",
+      "title_ko": "이란, 쿠웨이트와 바레인 공격해 해협 전쟁 더욱 격화",
+      "url": "https://t.me/marketfeed/1080345",
+      "ts": 1794977552
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Trump Praises Philippine Alliance On Manila Visit",
+      "title_ko": "트럼프, 마닐라 방문에서 필리핀 동맹 칭찬",
+      "url": "https://www.barrons.com/news/trump-praises-philippine-alliance-on-manila-visit-ee385a7a",
+      "ts": 1794977617
     }
   ]
 }
