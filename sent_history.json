@@ -1,20 +1,6 @@
 {
-  "updated_at": 1794986250,
+  "updated_at": 1794986411,
   "id_hashes": [
-    "6f00c6cf56200d723c14bbb8c6ac5a5d79f5994be5c7e4f1accaaf163e832eb3",
-    "77dc9975f97285313534f98c60cb20c20303db6147be55d90bf09e1e2d0bcef4",
-    "e8cb14541d8a3141b1740058847ddce60b0ee7da4382d3e492e28b210fe397e7",
-    "dc6937a4fd5e4ae5a9e6f6badbd3687355ea5a5c0392777a4f64ae8b010e1802",
-    "0aacdd93f186fc295d69e7f02fb1dae7739629a97d3288cc55af893d3505c9e3",
-    "976a0089807ece41a6c3af5002cfcec4ddcedfa305d8a24f8e69a5c62e489a91",
-    "bdc3ec42b73b03a0058384ecdad26fc0525e7f5f3df29c1c4c0810dd5b820eda",
-    "b2c6c85339e148c4c2781212a76022aade5f19506573bb65cfb62787facd8c26",
-    "e3c1fc280a82b2e6ec2adab81874452cde780089a389026beec72acff1c67ce4",
-    "ec54057aa542d29003ee46027ce1efb238246254bd7f3e792f286e2be79645ab",
-    "9f55a97ccd1653c769de4466fb58aac747ac60cda0b49d2cf7c6f0e43c497afa",
-    "29535a1738ad401d7d9cb653b321b8d84d39a7d2c53d890364e985bcb65e85ef",
-    "2dcd7f26bae3c0a8152fb71c75b00304c54573d9e240f09e34a7ab3959c68e9f",
-    "9b16c79ec8a4e8c6e1a573b497a8672c5196fe7075ba001fe098e4c9975f7bb4",
     "28a158b96919f29762ace037cab2fd3c168c03b5fcab5b09ba5e3f1f05388aca",
     "e65aa94dcd951b07f55f556a761229a3686a5890d926b49f13f0adfd3df0d5b8",
     "e86ce1d361833bdcf29f1ce5691eacca36209263e3bf8321e2488ada5ce144d9",
@@ -4000,19 +3986,23 @@
     "b03a8e28dcf2b868bd562db3803e4b8be0dd55e84313d5d1cf9ef7322fa5996e",
     "03d7e11d10161917c8d3139b6eb934912a68407cf8fd0ddfccb92d479c9dc2b6",
     "41096eaeecee25db881206aa93f6f81a73eb8c2c2d9b64f343ae53ca48329004",
-    "a7d99159b190405aab33ea25438e90aa4e13540bc6024ac8f3138684ab31d56b"
+    "a7d99159b190405aab33ea25438e90aa4e13540bc6024ac8f3138684ab31d56b",
+    "c3b077a1801b5098c5a7b1b61af36d4e5005957e95630cf653e58f9f5bd9ef03",
+    "74798e3c1284a0179ae2e52d80a8e5c800a106f6e492fd03b6de3682d5e55576",
+    "ba026b0d86d62492ebc1f936db3fc992067b2d7823f269b842f3b31993c45535",
+    "180ef2aa2ce89c968b8e79e4ed90ca41d6d4c1c7eaafc4427b16700cea3537f5",
+    "4ca9ff959910bb93a9833cc1ba693e6ebd7e60b5599d223d7fab61dea8f01af8",
+    "a7d517174286a18543e90831ba38b79ee79d0d2e0edb0bb36d6c6b1f4f2a41d2",
+    "893679df32bc3e5c1b7cd87e5ea2d440330d7d1c2a24c543911f856c4c8c5131",
+    "d9691170bebdfc40374744d2ed0e843b50286fe8506b89de1e1be5cd94482995",
+    "0ac5fd20fa190f7769bc55154cc4b2c52f6d87b4fe159baf9ca279e2942f93d0",
+    "508f2b352c461283eea8bd23551b78561b1ac064216a67b4a17e5a446894aece",
+    "7ce3b17f181d9bd86d5ecf62a25112dfd86d2e6126427993fcc92b68b855ff2f",
+    "7c77a1468817ea2258814b11e697ac1fe1478d69af085c1b1423d11ec2307781",
+    "ce1091c0a8f3c8ac8897b5cda627258ff2ff888a36cdc65f878c7c85f5751ee9",
+    "3ccf701027f16eab2ab944aa6ae4251651177d852119ad22ed568e118f1a18d5"
   ],
   "title_hashes": [
-    "55cdc2e95f83d94c43924c7eb0a5077649cbfc6cd3b33018df5745d0438bc344",
-    "425499cc729ee02c45c1c19bd17419c474a9dd912745e492402640db613d1f88",
-    "4192aada13695a86ace51371ce5c4493c4e6cd8a3b28b2b22689eff5296d3156",
-    "aa37f29fbe1b2028cf3d35753c294602eb45f45e37062b5ded343b4ee14064f1",
-    "e2738438e9f8a272314ff2036ee1623379ed6689e91d0fb68c58c0eb1904cf03",
-    "2695b384f31e0c53397ff9c72e2ec0b63d91c95270f694496be35efa861cda78",
-    "585294a69e871efe0137d55e56aefb54b4e8cba9a7e3097a1405c15b8c9b1c4a",
-    "e0c62f31468ca05f1dbfd466860c9ab48a8d53c5dca73bf4ddf8749d42c6585d",
-    "548996dd2c4eebab80c1200e4d97f53220b68bd8a83c234de1218cb83f03e550",
-    "27f158024f5ee7b8ee208361621759a2ceb35cbc9b05e8b9af6225899b401162",
     "89104e90c9313efbcabe5700f801ef1f9fba9d40e12b71f68418089b93babdc3",
     "b44f3aeceb34e695f5c096ac894de5f1f1ce4813c7f0b37735716662ec55c3b0",
     "6369607a947e23b3a8951c87a0aed6490df7e20bdc472c69935fbc72235e8d71",
@@ -8002,44 +7992,19 @@
     "bc9db404ca8efcc6382fd78c7d0a7606761348fc5bf44bf7583f2cd7ad54fc53",
     "c99ab3a32da2980b60f2433042d8680acf06e047bba0ed04cac19870033f85a0",
     "9c2467b95eadb8850e28774e141c34520602adc5a15146d3789bdd7d60a17fd4",
-    "10f6d48e53dba32c3b68b14895937710c16204b93e03413c49db62dde06ecfbc"
+    "10f6d48e53dba32c3b68b14895937710c16204b93e03413c49db62dde06ecfbc",
+    "11ae7094f2b16955a37f9436ec6ca2dfea2d48274cb4457d58e251ccf218d1a2",
+    "f9309558a2099b0fdbeb503d43f4cb3922ab813b757e36b25c246c1a3cb15849",
+    "1bc924f2af35f355fbf0886b06a804deb2dcd4ee28dc0454844965ea5844ab79",
+    "9e8236d26d72758a42b1013343b11f18ffd3bf4e4612a2e0ac2c11d209733d48",
+    "f074cb3ac50aaaa813102fae5ebc00b85b5a9d0e3e67d5aba8921d727604ccd0",
+    "6989505d26107c0e597dbc98742bc8016e951645d5548a8d69aa411c7cf1fa04",
+    "a93c9f467db756cba82e1a4874dfddbf3adf32b7e3e2e7a7fc14d6cb10e8e770",
+    "e8aaa0eddc42b1d0ba3c84e4176c211ff681e70594216be36ad5db12f6207f37",
+    "2ea4b27dcc783b1b5d27373649114585fff6d61ebe9a339c9829a18697e402a1",
+    "bc340d7e589adf209d54a36bc8bc6f3982a1fc6f30498bdcb8d535bc6e648197"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "JAPAN'S NIKKEI AVERAGE FUTURES UP 1.9% IN EARLY TRADE",
-      "title_ko": "일본 니케이 평균 선물은 조기 거래에서 1.9% 상승",
-      "url": "https://t.me/WalterBloomberg/38588",
-      "ts": 1794960023
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "韩国首尔综指开盘上涨2.6%，SK海力士涨超5%，三星电子涨近4%。日经225指数高开0.25%。",
-      "title_ko": "한국 서울종합지수는 2.6% 상승했고, SK하이닉스는 5% 이상 상승했으며, 삼성전자는 거의 4% 상승했습니다. Nikkei 225 지수는 0.25% 상승",
-      "url": "https://wallstreetcn.com/livenews/3201597",
-      "ts": 1794960176
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Council on Foreign Relations’ McGuire on Trump-XI Meeting Implications for Chips",
-      "title_ko": "Trump-XI 회의에 대한 외교협회(Council on Foreign Relations)의 McGuire가 칩에 미치는 영향",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-17/what-trump-xi-s-meeting-could-mean-for-the-chip-sector-video",
-      "ts": 1794960265
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "[뉴욕환시] 달러 6일만에↓…美 소비 호조에도 국채금리 따라 반락",
-      "title_ko": "[뉴욕환시] 달러 6일만에↓…美 소비 호조에도 국채금리 따라 반락",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445269",
-      "ts": 1794960334
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "[뉴욕마켓워치] 엔비디아 실적 경계 속 美 전산장애 공포…주식·달러↓채권↑",
-      "title_ko": "[뉴욕마켓워치] 엔비디아 실적 경계 속 美 전산장애 공포…주식·달러↓채권↑",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445273",
-      "ts": 1794960338
-    },
     {
       "source": "한국경제",
       "title_en": "[속보] 코스피 2.62% 상승 출발…다시 '5000피' 회복",
@@ -11504,6 +11469,41 @@
       "title_ko": "외교부: 중국, 러시아, 미국 정상이 세계 평화와 관련된 중요한 문제에 대해 심도 있는 의견을 교환할 예정입니다",
       "url": "https://wallstreetcn.com/livenews/3201764",
       "ts": 1794986249
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "UK Inflation Hits Highest in Year on Soaring Fuel, Energy Costs",
+      "title_ko": "영국 인플레이션은 연료, 에너지 비용 급증으로 올해 최고치 기록",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/uk-inflation-hits-highest-in-year-on-soaring-fuel-energy-costs",
+      "ts": 1794986272
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Deutsche Bank shares slip 1.4% in early trade, day after leak news",
+      "title_ko": "도이체방크 주가는 뉴스 유출 다음날 오전 거래에서 1.4% 하락했다",
+      "url": "https://www.reuters.com/business/finance/deutsche-bank-shares-slip-14-early-trade-day-after-leak-news-2026-11-18/",
+      "ts": 1794986275
+    },
+    {
+      "source": "CEO경제신문",
+      "title_en": "스페이스42, 한국 AP위성과 차세대 위성 스마트폰 ‘투라야투’ 생산 착수",
+      "title_ko": "스페이스42, 한국 AP위성과 차세대 위성 스마트폰 ‘투라야투’ 생산 착수",
+      "url": "https://www.ceoeconomy.com/news/articleView.html?idxno=23882",
+      "ts": 1794986406
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "印尼央行关键利率上调25基点至6%，预估为5.75%。",
+      "title_ko": "인도네시아은행은 기준금리를 6%로 25bp 인상해 5.75%로 추정했다",
+      "url": "https://wallstreetcn.com/livenews/3201766",
+      "ts": 1794986408
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "印尼央行：利率决定符合加强印尼盾的努力。",
+      "title_ko": "Bank Indonesia: 금리 결정은 인도네시아 루피아를 강화하려는 노력과 일치합니다",
+      "url": "https://wallstreetcn.com/livenews/3201767",
+      "ts": 1794986410
     }
   ]
 }
