@@ -1,14 +1,6 @@
 {
-  "updated_at": 1794977163,
+  "updated_at": 1794977309,
   "id_hashes": [
-    "78a51a1ffd365149807c8398a1a466e9e55ba7aafb3d2d0ea5a8786fd8800901",
-    "3b97f6fe1334a855b8748ca476c35280a8ff8100fea2214f657c04c0ea83d2eb",
-    "ead943dacc6be5df81dbcfadc9fcf2de32b0e78a8acc09dfaac1cbf965fe98e5",
-    "0f449edc1b499045803bcb74a10c16d6af7aba98da864034ffc5f1ceb489a096",
-    "651c16e8c572d7efa385071dbbfd19622d6766e3dbb117373917f40da39b2d95",
-    "e19882405ac6586fabf0145521dcc8d00b37e4672396457e0b1c2baa5dc3f0be",
-    "8f5b9f810b80733a134a700b4cffd3f772a8cb1f50d7a99fbdc2e312b2cea44a",
-    "f06defac40ddd91e7df76dc371ef252e0aaa6797be28b3a62c67165ffc6c4502",
     "21a4f023778d5a55c758e764f7e82a459362c5ed7d9d4c3c2d8d3e4d30d2609a",
     "865a99d4724ca79d6c70c91f13759aa8a5efa0091ab469942b52bb6f25fde7df",
     "810a2b4d9f0399eca1676dd442c15c73708bad29b5fce568a491a08ec2576717",
@@ -4000,14 +3992,17 @@
     "f3eb2195ae63d4a8c13124ad05bdd64154e5594bb364f13f59a4b38800de52b0",
     "44d8e0f367e4f0f84ffc0a120b6b2db6ab2cb5ba233c85655941c63ac74e478f",
     "28ccc5d010d86190225ea58364c3a900c45a392f57d22bc05bcd4b8a1e160bbb",
-    "01e4df12daffc8af6a6744f78195ed9a87dfbb0da76910e84b5c108de97625c1"
+    "01e4df12daffc8af6a6744f78195ed9a87dfbb0da76910e84b5c108de97625c1",
+    "95ac2cfbe07f388b8d09bf65b66c3627298f8a5fe3bd6d2e2dc9ddba60c183fa",
+    "708c0fb12646dc1544237fea1f43a5a4cfec0fbb668616ec97ba5fd8f19fc67d",
+    "72d81b72dc5717fd446acf08742890ce628110629a0fd39ac3235137773c2151",
+    "54a2a96ed57fd902c696a49a9ca910d7b9359f511252669fc91f0fc6d885b5ea",
+    "a05956225304b088940d27afc57217544646d6eb3243a813e3c95172452941ae",
+    "e034423666d6cefa9930c112a786487b21d70b188394a89db862512b3531062a",
+    "e57ddeac17a47fa4d853b3f1703ad0b2bd24ea139b41f5771b5d78b4562818a9",
+    "5d667db13fcc1b34969ac567387dcbf1bd766dc9ad8d26f94769be8d6f2aa2da"
   ],
   "title_hashes": [
-    "06a30a6169529c02f38b5037319c8208284e376a550dbe1655aa17dd20312fd1",
-    "1f7d3163a4356f7b7f6a0d22a8194ce89283f63510bf237d1f0b69f413459048",
-    "cfc77b0ac5900ef47b118be3f1ebaae495e4c8209f9ad5f122c29cf57ed2efff",
-    "ce57f5e308f62693420b13f3c69877b63668030ceade83581eba890e6f96e95a",
-    "ef710ae6410528e6f6aa1d63f510ec004b3e77f8721af8bcb9bdd8474f7a048b",
     "318c8928a67cf84e94c65918378911a61fd570807ff5217aa9bbc1be22a60c1c",
     "f0261af16fcd2f8af3e258004863607f19ced082d9b2025c4f3d2457be101a2e",
     "2bbd8ab92396bd6c4e0b7b4c6dd763407c7422bf0b9e8f4c5341268804f30aab",
@@ -8002,23 +7997,14 @@
     "d78dea7adad1534e689d229147c2fb1d2fbf78b2a1eb96312aa3daa0ca8b4f73",
     "9cd365b23a2b79ab81a3f6d1c120470eb32b6fb8f0451ebf967f438c010f67bd",
     "3d8440d412fdabf39121040bbd849385e298564e6717419995682cb3977b9d86",
-    "924e7f96a81a697952d569a60bb5ace394390fb86f406726b0f260d306c35a5f"
+    "924e7f96a81a697952d569a60bb5ace394390fb86f406726b0f260d306c35a5f",
+    "9d8c699ebf53422a09133e27487637951206787d51fa696262f2443658163ce6",
+    "ed3cd334d8f6b4f35151efa37f643ad352529cd60ebc9fe7cbd5553bcfca5ba3",
+    "dd7ca33db77050cf20e7d65004a3694d46ba65009d4a4a7bccdb05f1aa73f6d3",
+    "eed5f858366eecee661569e23f39f49d884120e5865b823483fce5725fa2e1ad",
+    "b08d81509908d837b1fba56b2b3468721c5c65ac07bbccb0931ed3342cd3223b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "TechCrunch",
-      "title_en": "Google joins the tech outage trend by announcing it’s not having one",
-      "title_ko": "Google은 기술 중단 추세에 동참하지 않는다고 발표",
-      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
-      "ts": 1794951550
-    },
-    {
-      "source": "한국경제",
-      "title_en": "엔비디아 '루빈 효과' 본격화…4분기 매출 1300억달러 전망",
-      "title_ko": "엔비디아 '루빈 효과' 본격화…4분기 매출 1300억달러 전망",
-      "url": "https://www.hankyung.com/article/202611183254i",
-      "ts": 1794951552
-    },
     {
       "source": "StreetInsider",
       "title_en": "La-Z-Boy beats estimates but stock falls on weak guidance",
@@ -11504,6 +11490,20 @@
       "title_ko": "'원자력산업 발전 기여' SNT에너지, 산업통상부 장관 표창",
       "url": "https://www.fnnews.com/news/202611181339181421",
       "ts": 1794977162
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Xi says China and Russia have maintained steadfast ties while focusing on long-term goals.",
+      "title_ko": "시진핑 주석은 중국과 러시아가 장기적인 목표에 초점을 맞추면서 확고한 관계를 유지해 왔다고 밝혀",
+      "url": "https://t.me/firstsquaw/193759",
+      "ts": 1794977182
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Xi says China and Russia should drive the trend towards a multipolar world.",
+      "title_ko": "시진핑은 중국과 러시아가 다극화 세계를 향한 추세를 주도해야 한다고 전해",
+      "url": "https://t.me/firstsquaw/193761",
+      "ts": 1794977248
     }
   ]
 }
