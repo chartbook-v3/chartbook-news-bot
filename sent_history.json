@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795004423,
+  "updated_at": 1795004605,
   "id_hashes": [
-    "84b82fb9e86bc35b3fc5bcfe1d1be7eb5185614a2400557e08f95543c7390596",
-    "7636c40d85047cb0db8cd7148a2c9b9041647cd8d4a4f220100669b592318637",
-    "659bdc3a9480a259ef6b8bc9e8761167461eb1db4d870b7c9a52a502f52fba07",
-    "a400420cfdef15796bbfa97ddd1b76f61dce3837224013035884a4ea4120932a",
-    "2fc10179c608b0d216722a453d7bd461efb8f2d7cf16328c9eb932107f651ff5",
-    "1e88d48d736ac96c5c910058f45828dbf3bcb660eef172204ea0706cd1b0efa5",
-    "644c44616be0365f8c764917c7ad1db66d6f69c7618e85f3748db9c3544cd327",
-    "14606329670a14f6f230a16604f27216ad494da62f50b815be73917524b96073",
-    "6d6eb9600e07b2d34adbe656e9008d20df04de878ac2ad7e812603bad1ff9b47",
-    "bcd4f84c2d0c5fc39de9c4e1535f34313d7dea867bbfda62486b2f15444f41ac",
-    "da299846c10f953f683ab1fcf0d4efaafe64338ecdcb6ef0d1242b6beb634f6f",
-    "4c8364ed75c3a331cfcfb04ecbde4eae825279753db6b043c39c77aba443b10a",
-    "35a31314de9d9b755128372a6acc27631aa76f652a29d30a78f19671c8d929af",
     "d65a53c7bc02beb6f85a857ff8509b118dd6b8bbcf8f577192156a95c8c82d35",
     "adba7664afa4a74871dc8f744ef14958eb0ac39f116567bfd0498f1a9f581dc5",
     "f9bbbb0a5772823622577d7be4fc8d7b9f452cbc31f19084b8f7dd4aae4aefd0",
@@ -4000,22 +3987,22 @@
     "6b32d132292f992dd186ca5a366999bb973ab23814d4801b590e497425065b72",
     "463729fb17c0a59b8f79d88a3f31812259479d2c0b68f42412cb6d0616443b08",
     "8202419fd17d97f30f93817422ab7d2032c11bcae875c4e3724bb7d1cdb0456d",
-    "7f05113cf8fd7d1f18b938c186a94da53fcf06829dc93e7c1b97630dfb2f3e43"
+    "7f05113cf8fd7d1f18b938c186a94da53fcf06829dc93e7c1b97630dfb2f3e43",
+    "e2f369a4b9f66dd34dbec081a8c5e05f7499b17da48299cd657e5559d6833678",
+    "d26b56436134180841e40392a09f877e51f12549d17d8c5029df6b3759a0ef74",
+    "36a9e48fc9ff1911938b01826725a3057fa97caf4f6a429cb1c500561602c0c8",
+    "6c9839e8c94ed63879cd69e822dfbdf521a411d2f989b5d7442ac7f88870f498",
+    "1f4d2ed6b149172cdeac79918c2ea7c7cad9e6f5a0c00025599e4dde08097cae",
+    "d6f7b6dd70113133208b160574f7d2c91fb4f78c4e5ad2a74e1919ccdbe3c6ac",
+    "500c11735bbfb95490413f80b6089a3032b669f5dd2c4c8376d745954f7591a6",
+    "ef0a5d8ae95aad1e2e2fe6adec7824f5a086d6471a038c0e7363d6e6606d8371",
+    "4c9d76a25e2602b7b7bec67c1e7cf913ffc2ecd504614140072116e2be48d020",
+    "3038c657e6e0502408b53ac6da5612bf1599705e6b38e82507cb3ad483bcc3aa",
+    "4285fb00aac1293f0a1d8e520e53e511fff0b107c57dc2e9ce37937a0076d8fd",
+    "596da97dc0d7df27d1c37c431233095afc7a17e579cc448b62c39d2adc8594ba",
+    "0cab3b1f05ab06c1d456be1ce86304969e8804c6064fe1d8f3b4730da913ef11"
   ],
   "title_hashes": [
-    "f3aa1da8861f46301285e9427c5bd8df196e636f2778591c7ff705b37163e4ca",
-    "ad314e82ab9a9c78c5a640ebb1b61885ca9410953ef6e8ea4bca3598859a5619",
-    "f7d7f41bdc18fcc16e0bbb3d3536ef4606243e0b5d31dd03a7fd147087719f2f",
-    "fb99cbe3224f51c453d52c58534e3607a3b301e5f3adbca7d7a5d299e19608a0",
-    "0f1e38c8a7d24e3d4fc40fd9df4b736fe5fe2a70b5481ca3b2f62277b6e2e80b",
-    "4bd50c01ba394b52b6f1bd942023e44da70048b8efffb740e22ef95057214531",
-    "90ad5b1fca9b9a61b11a39caaa4a1ce83d78dc11994bdd9aca2a7bf27055a42e",
-    "aa70a3fd29ec855d94fab52d101194e1298393bc36c86f69ec92a47876283c7b",
-    "1b378f4515dfe381841aa81e00c818ad389bb623a87a3ea04600bad2a391ee98",
-    "905a783151847a1f46ebd7fd52568acb0199712e4cbd1556a49cb11b828c39b7",
-    "18455e51cdac324c1f8179a26ae768baeaf2ab96b66c05598cbbab801eb56c72",
-    "6668ce0e51fe4babb5ed8d49a32873aa658295e16de54b16d45c4f8787b121be",
-    "5cb83d52fcfb1bbed1a1c8fcabf6205bf33b4f6307a406f4f7cc7b4a10402d6b",
     "fd8685a75f12a9e6dfe41150054a1b2ba5908a2e3673e48a78696a221b8a1045",
     "646627e75360d7c08114004f2c9cc93413a046022173e2c36693100e3cf176e6",
     "5770866d9cdf60448983cb99d9ceeca8cb05517e462cda668102ba47eae4b40a",
@@ -8002,51 +7989,22 @@
     "023dcbc8e367265cf2bb7f2afe6648fcc94f3f882cc404e3852460f1cb1c2671",
     "1faef2f1c4f9dc2f46ac2726f5323c3c2aa10578b39658e4646bdfdb6527043a",
     "1821ad866a791d9db66bc1a86c7ea6905f41d265a2e77d6fd0f806204ad2ccac",
-    "a79370f71c8d5030e4c386da6d048d4e703539af64fcc6daee6a564115433bf1"
+    "a79370f71c8d5030e4c386da6d048d4e703539af64fcc6daee6a564115433bf1",
+    "159de9576b3dde2d64edcff7d62c7cb395fa032c7e7eee34c6c1842d5abeb59e",
+    "f627da06ca8ecfc09b11417788edae6372511fd9d45c65c70afe980628959e36",
+    "3934a79dd9f0935492c96ba00df2c92ba5ee804b6d1c3c66d20f7e08cd6fab6c",
+    "5d78d48f4771c57227ae63a6440ff43c186dc0de49a2620df4d2adad0509f13c",
+    "08c8a7fba2ac21cf0ba4b4c8fed3905df6535176ca8532158b0a2987d03596a3",
+    "176eac022d8073508a0595cf911abff32053fd286cf1e34e4e84cfd49584ca60",
+    "b720054d2d274130fe2bc7642f3eabab429c74a54b04784278a8c51da7214ba1",
+    "8de0af8f56cc273d24127b63f62d24240f80d42f8385f995ae744aebfa340e9e",
+    "ecc630421327098c335ae5fd6562d416ef273115a8449c8579bdb337469f6e11",
+    "7e7c69d4acde471368cf427c386ed9f7b12d0f08f79580ce6c9cd06086bdbcf5",
+    "51b883d62f488c02d45bedc120ed59573783f6ffd8d2e4f00eb2667ed001291c",
+    "48db7b55cb4bb28778fb6ba65d5175323405aa79e28856065dfd4bc57a3e3084",
+    "9d9ca77551a4649273ada6ce79dd6c00df6883ad861b3da625cfc932d5223246"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Canada seeks broader participation in its Defence, Security and Resilience Bank, discussing membership with Mexico, foreign minister says.",
-      "title_ko": "캐나다 외무장관은 캐나다가 국방, 안보, 회복력 은행에 더 폭넓게 참여하기를 원하며 멕시코와의 멤버십을 논의하고 있다고 밝혀",
-      "url": "https://t.me/firstsquaw/193770",
-      "ts": 1794979349
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "무영CM, 우즈베키스탄 의과대학 건설사업관리 수주",
-      "title_ko": "무영CM, 우즈베키스탄 의과대학 건설사업관리 수주",
-      "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/18/DMKMSY3C3NHMRID4NJKRWQMKHM/",
-      "ts": 1794979434
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Canada says ensuring a limited presence of Chinese EVs and protecting North American auto supply chains remain priorities.",
-      "title_ko": "캐나다는 중국 EV의 제한된 존재를 보장하고 북미 자동차 공급망을 보호하는 것이 최우선 과제라고 말합니다",
-      "url": "https://t.me/firstsquaw/193772",
-      "ts": 1794979437
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Canada will ensure adequate protections govern energy ties with China, foreign minister says.",
-      "title_ko": "캐나다는 중국과의 에너지 관계에 대한 적절한 보호를 보장할 것이라고 외교부 장관이 밝혀",
-      "url": "https://t.me/firstsquaw/193773",
-      "ts": 1794979439
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "'Business as usual': Nvidia's Kress passes first test as board slams door on Huang",
-      "title_ko": "'평상시와 같은 비즈니스': Nvidia의 Kress가 Huang의 보드를 쾅 닫으면서 첫 번째 테스트를 통과",
-      "url": "https://www.streetinsider.com/Reuters/Business+as+usual%3A+Nvidias+Kress+passes+first+test+as+board+slams+door+on+Huang/27365577.html",
-      "ts": 1794979500
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "코스피 영업익 264% 급증했지만…반도체 빼면 성장세 '뚝'[3분기 결산]",
-      "title_ko": "코스피 영업익 264% 급증했지만…반도체 빼면 성장세 '뚝'[3분기 결산]",
-      "url": "https://www.fnnews.com/news/202611181411486461",
-      "ts": 1794979525
-    },
     {
       "source": "파이낸셜뉴스",
       "title_en": "코스닥 상장사, 3분기 누적 영업익 49.6%↑…3분기 순이익은 적자전환[3분기 결산]",
@@ -11504,6 +11462,48 @@
       "title_ko": "비트코인은 금리 불안이 지속되면서 65,000달러 미만으로 유지됩니다. 연준(Federal Reserve) 분 대기 시간",
       "url": "https://www.streetinsider.com/General+News/Bitcoin+stays+below+%2465k+as+rate+jitters+persist%3B+Fed+minutes+awaited/27366677.html",
       "ts": 1795004422
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Premarket movers: Nvidia jumps on strong AI outlook, Lowe’s falls",
+      "title_ko": "프리마켓 특징주: 엔비디아, 탄탄한 AI 전망에 급등… 로우스는 하락",
+      "url": "https://www.streetinsider.com/General+News/Premarket+movers%3A+Nvidia+jumps+on+strong+AI+outlook%2C+Lowe%E2%80%99s+falls/27366676.html",
+      "ts": 1795004446
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "UN NUCLEAR WATCHDOG CANNOT DETERMINE THE WHEREABOUTS OR STATUS OF IRAN’S NUCLEAR MATERIAL WITHOUT ACCESS TO THE COUNTRY’S FACILITIES, IAEA DIRECTOR GENERAL RAFAEL GROSSI SAID ON WEDNESDAY, RESPONDING TO AN IRAN INTERNATIONAL CORRESPONDENT IN VIENNA.",
+      "title_ko": "IAEA \"이란 핵시설 접근 없이는 핵물질 소재·상태 파악 불가능\"",
+      "url": "https://t.me/firstsquaw/193876",
+      "ts": 1795004510
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Days After Huang’s Ouster, Bessent Demands ‘Dramatic Shakeup’ at Nvidia",
+      "title_ko": "황의 축출 며칠 후, 베센트, 엔비디아에 '극적인 개편' 요구",
+      "url": "https://www.barrons.com/articles/huang-ouster-bessent-demands-dramatic-shakeup-nvidia-73cfd1bf",
+      "ts": 1795004587
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Why Is AMD Stock Gaining Wednesday?",
+      "title_ko": "AMD 주가가 수요일에 상승하는 이유는 무엇입니까?",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63379917/why-is-amd-stock-gaining-wednesday",
+      "ts": 1795004594
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Fed officials set to raise rates again in December, but the future still looks murky",
+      "title_ko": "연준 관계자들은 12월에 다시 금리를 인상할 예정이지만, 미래는 여전히 불투명해 보입니다",
+      "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+      "ts": 1795004602
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Malaysia says data centres must comply with US AI chip rules",
+      "title_ko": "말레이시아, \"데이터센터는 美 AI 반도체 규정 준수해야\"",
+      "url": "https://www.streetinsider.com/Reuters/Malaysia+says+data+centres+must+comply+with+US+AI+chip+rules/27366684.html",
+      "ts": 1795004604
     }
   ]
 }
