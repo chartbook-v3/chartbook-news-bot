@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795003643,
+  "updated_at": 1795003793,
   "id_hashes": [
-    "1cb15cd422bfc28ce2a693fca533cb349f29e481b8eb2622e3b61779123d1ac2",
-    "ffbb2c85af4c197348269d78f3e6ab794862c820efa3dbd124ecddc8b2627def",
-    "86613c288e2839735e27db34ce72eaf41bbc174b5aba93c894dcdc6c7ddb4da5",
-    "a4752085e210a09fe92ec7e55acf5e3c5d2286beb4254b7f39d24b606490f397",
-    "45b272c5097654c3923bf1a475a12510387a9f890bbde3ca9d18975a3bab4318",
-    "973597684179678502dab30a6f69004669bedd2f116b1e3274f37d7d6712ddf3",
-    "2d90635e193d70ff64f643196b58541af7076862f2ec8f5ed77fa9a80148f360",
-    "26184b7c3aa977a693f5c0bd470721e42ebc9fb48c469c011fb0361c126bebd9",
-    "633aac4962d078fcb2619630a252677404e44f2dbae2174132a84cb7489214a6",
-    "c028274d6e82d3d694d2c1d034bb48bc8f4b3e6f7847e813c5e11f9814bde2d4",
-    "8ae938b6634a06249917c406999d937521756e919fffa94b33ac63b4668915d2",
-    "5b4a883fac17714deb71097fb51b231d07a018a151eb8e2372482b10023e9d39",
-    "fb2ea0233a6263ac46cb211633e9d0e642b5e90021b4426ff815f842a601a90a",
     "12ea2cdd30ce029251727ff11aaae34866e78fb47cd978f7601c2443dbf36847",
     "0dcba1518d387560284aab69782df893e93ba9465106cb64bc285b8f399170e2",
     "2341ce97cebfada2a9c9591c49f944658dd7bb42b43539f01aa1ee604caa2f7d",
@@ -4000,18 +3987,22 @@
     "2b63a7dc4013d5a9f4edad1b5bcf0c46e4d0320539e39b771619a1d49c43f82c",
     "d19c379833cf3a41bd21615d73347abb2f0967fe9f8912d764f1e53c979271a8",
     "ec2c9e178b5e34a9a4a3987532d6182bbafa0592ace5482a52548f029250b119",
-    "bec8e19f959f1743afa3467b0740975bca99f7ab97bda6c77a86d417cd961f2e"
+    "bec8e19f959f1743afa3467b0740975bca99f7ab97bda6c77a86d417cd961f2e",
+    "b52416c3c4a2bd9502bb720e0df91d543027dd945e7924f361cfcab2531abce5",
+    "21b34d9be8caa33b6cea4de5dea5b9d08255cc5d6359fe0422d0da7d9b733dd2",
+    "a18709731a155bebb7a0d87f1a8da9729669c49c40f90d699afb49a6220058be",
+    "83d87c1a74b9c29ded79768e76c21f5a825a61132f289ec04f2bfe89496737c9",
+    "6bf1da3f8752fa7cc8144705bc75b55ccf1689d209e812334782fe274a920e4f",
+    "d06fefb3832676940c8c5a0bef94002cce3d9055e88a75cfcd09edf559ce3423",
+    "0c4267f83cb756f3d7d2ddad3022e2ef1651f7d123c2ba978c03d4a958efe50a",
+    "17f74b1400fb0163800df71548bb7dcc57988a5229b9b031cf7155f24c788aff",
+    "83ebd706b990a87f2b393f30adabb1ddeb6d4137c8e66309871d4525e94e54f9",
+    "afaa25a225d6d7918e665c58e9a669c1d40f082240e79c0a35602ba93318a30b",
+    "8e4f057314ba1ab2b7282ac36c70d4f1a76fefc7eedb2664107568930109e925",
+    "398b54ac48d1094993938e860be1e41e63d4b13f26c61c6898af90a081a97a1e",
+    "4f5961ef97fc571d98c1bcaed0bd6fc6d0509124dfba9d9b8964df70989f30bd"
   ],
   "title_hashes": [
-    "17f6594ddf1b420293ee207808951f717f97f00dbb18ab4a965ba1c67ddc4b4b",
-    "9aba5ecca08d89c38b338a018009deb04c9f3e13d4d7230dd43b7944d1c0b1ce",
-    "a8bdb84a433fc275091698aa4a8d41592df0629ee032582307d0796687a4ef73",
-    "7d416f8b862428c43767705fe125c74c68ce2f3d786c72b61a34a091019f7b87",
-    "9f054a966269bd2fbbffc2940f275b372f2e1d135accae905fdc14722d4521ec",
-    "39fad64d24dc400c03b6d7cd20f284451d2e33547b32478e38cba9f144951d94",
-    "b5ee414fe4a998633ca220866a69319576a1bc3293c4cf5580aade201ff75a46",
-    "41d5d6cd53b9103fbf1cac70f35f957b38bb104c371bbe14f434e69f054c8fd9",
-    "fccc7f0cd9f7e801cb445110cb5aff382d1d6ac564133a1073dd1dd4b1aafce5",
     "1968d4998d75dc1acc8666debc8efcd874d4df29cad0c51ab0d898c27c66b83c",
     "8e93b1f870c445cc6aac246319035d046e3f7e1be9305f54447e988320a2fafa",
     "483ad08eb1f1d9577d23dc4925e9fa85ff5534e039c3a98439d16dfd31a0b513",
@@ -8002,30 +7993,18 @@
     "edc4f754ec00b3f7a969039e8062de9f806254f20838287d11cc406354cbabac",
     "a56a4da6167faacafb8d12ad3b470ef07688e46819308d828878d07711ac1ba7",
     "5f35d4a3209d02fc6c2188b8e88a33e1e102fe505577342c51019124a0bac816",
-    "bb4762e499e924b2fd5c8845dc7ac541eedde12ee90b9f8a27b0226b96b47df1"
+    "bb4762e499e924b2fd5c8845dc7ac541eedde12ee90b9f8a27b0226b96b47df1",
+    "18f6763d90f85b12d54fc124f101dc6853f9d226130493c4122005f20aa92c19",
+    "43626ce95b38b46172a4db3bbd9af6d1ce3948530abdbb47eb9a8625a9af7515",
+    "d4d4449aa8c8c30ec911c3639edb31bfeebb38e2bd56955065825d1200ca5a00",
+    "dbec02359f72e7aaf434a3cfdc712ff62c5ce22a2ddbb83ba1d32a920ce00e6b",
+    "764137506d6e8044c687825e6fed5eac23a84845485428c549c7bc6b6092276c",
+    "6748df7ada69b4fca1742baf8378cf3b676be7f6e6ffdd4df4d7d2ae5d9a0cb6",
+    "ea743971a9615e1e15f411d8004761d0a3f61c7e0d1551f4705525dee6f78b5c",
+    "baa2034d8141046a873bad7f1dc2def9ab5c06669ac0f493265d5eb8f3863991",
+    "6466f02365ad4e14650f30c2c4ad5d8866390cc4e423c4f9723cf19a40ee8446"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Nikkei Asia",
-      "title_en": "Trump cites military aid, nuclear power in Manila meeting with Marcos",
-      "title_ko": "트럼프, 마르코스와 마닐라 회담에서 군사원조·원자력 언급",
-      "url": "https://asia.nikkei.com/politics/international-relations/trump-cites-military-aid-nuclear-power-in-manila-meeting-with-marcos",
-      "ts": 1794978594
-    },
-    {
-      "source": "FT",
-      "title_en": "ANTHROPIC IPO SET TO REDRAW VENTURE CAPITAL’S POWER RANKINGS",
-      "title_ko": "벤처 캐피털의 파워 순위를 다시 작성하기 위한 인류적 IPO 설정",
-      "url": "https://t.me/marketfeed/1080352",
-      "ts": 1794978653
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "‘Not Under Systemic Attack’: Marco Rubio Says ‘Zero Evidence’ Microsoft, JPMorgan and FAA Outages Due to",
-      "title_ko": "'시스템적인 공격을 받고 있지 않음': Marco Rubio는 Microsoft, JPMorgan 및 FAA 가동 중단으로 인해 '증거가 없다'고 말합니다",
-      "url": "https://www.benzinga.com/news/politics/26/11/63375808/not-under-systemic-attack-marco-rubio-says-zero-evidence-microsoft-jpmorgan-and-faa-outages-due-to-hostile-actors",
-      "ts": 1794978721
-    },
     {
       "source": "시사캐스트",
       "title_en": "한화시스템-美 리벨리온 인더스트리즈, 단거리 AESA 공급계약",
@@ -11504,6 +11483,27 @@
       "title_ko": "독일 소비자 37%, \"재정 상황 악화\"…설문조사 결과 밝혀",
       "url": "https://t.me/WalterBloomberg/38600",
       "ts": 1795003642
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "SanDisk leads tech stocks with biggest Q3 earnings surprise",
+      "title_ko": "샌디스크, 3분기 어닝 서프라이즈에 힘입어 기술주 상승 주도",
+      "url": "https://seekingalpha.com/news/4674076-sandisk-leads-tech-stocks-with-biggest-q3-earnings-surprise?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795003663
+    },
+    {
+      "source": "CNBC",
+      "title_en": "IEA chief sees no 'credible pathway' back to pre-war normality in the Strait of Hormuz",
+      "title_ko": "IEA 수장 \"호르무즈 해협, 전쟁 이전 정상화로 가는 현실적 경로 없어\"",
+      "url": "https://www.cnbc.com/2026/11/18/iea-strait-hormuz-energy-risk.html",
+      "ts": 1795003727
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Apple outage hits iCloud, Apple Pay in latest U.S. tech disruption",
+      "title_ko": "애플, 아이클라우드·애플페이 먹통… 美 대형 IT 서비스 또 장애",
+      "url": "https://www.streetinsider.com/General+News/Apple+outage+hits+iCloud%2C+Apple+Pay+in+latest+U.S.+tech+disruption/27366635.html",
+      "ts": 1795003792
     }
   ]
 }
