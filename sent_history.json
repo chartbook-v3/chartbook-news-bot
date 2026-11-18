@@ -1,26 +1,6 @@
 {
-  "updated_at": 1794976104,
+  "updated_at": 1794976250,
   "id_hashes": [
-    "82505a545f81ad3ad91392cdb3a89b96055bd373b7442edb11ff1151d51ed3b2",
-    "30906c8d2d74d6a3dac65a3eb16d35090515254ec6cd9c66020aa0167b5ff440",
-    "112a58bcf34b962588d862a9f8b2f054c7fcd8b56bfa856680592001f856af18",
-    "3ca873ce0ea2dc40cfa6311ece69f5b6989c66a92e890e017ff37640c6035dc9",
-    "7bb6c1e8e9122902a2b23259f1acd97e4c4146fa97306c8fd832f237371222e8",
-    "8f7bc3d5859d04d52b30c70acc47f308b3c7408b129cac69dd6e525f48f1dae2",
-    "d92b491f68f1e15897d9bfbd0c46b53b80d09515e679d74633977d86033257ed",
-    "1b587090be17921cc803015d72e5a221fa3319f9f3cc5a3f642230606972a51f",
-    "e9b601cfe0385bc1bafffc5f1cfb6cc08be1d2e1452f4f16dd906f2d687ccea1",
-    "f7a74029561ff36ae1b130f852c0f8a9155a699a655d658dbaea49b7fddccb54",
-    "5fb3db2e4459052feb14eadc697873127d9721f368f35ea0071eb0a71cf146b1",
-    "3680a85de36b6608578956dc21ffee830f44ad283e2b5d8443a42464591ff21f",
-    "d0ba598c710227319ced14371f118b993587277005121ed90c559015dc247805",
-    "67d26933e2da9db78fa08943a31e96157da6ec792b33559836ef33d2e769c8fa",
-    "c4288addeb79ec71d7406b64a5e9e73de025eca75d6aa104f7ad3a417a11f8e0",
-    "5eda0b0397f2fa9f11ec527b2a08c0c1ea5f1c409bd4f54d357b09b6ce5efe70",
-    "55c3491440438a8180760828be0baa6c06e249f59828bd0aec6d3feb7dc9dafa",
-    "bfbc82db9ef4e16768e8699ad61a5c00d0c7f061225f4147018ddd46ff49be42",
-    "78826ae32167b8580aeccbb7eb869e87a6539f9fcb4bd6dad95ec8fa967e3464",
-    "29d6d3f9fcf6903d96ba811008ee29e5be0dabcdb2f8baad093ce7c0ca99296c",
     "04ad0350a717d3deca5575aff253e83dd410d6c4a75a9c62fec0617cbd9c8890",
     "9cb7017c2573933e7fe712157ca9646a36137922886c52e04784bb1e4f6188b9",
     "fa6615f056daa76fa502830da658d9c442c3e870ba643cd8c4193392ad68802d",
@@ -4000,26 +3980,29 @@
     "0d3535677fdbdd63e2eb3396dc2b56af70c3df4204280c201b5f69a2dce877e7",
     "69cd1b65baa7ed06054fc5da300ea70e562a103aa9f3a67156fef737115f4824",
     "adbcd8daeebbc0ba1a741960a8304aa96f975d4393d62ad8afb309ea2ab24618",
-    "5e2f61e839428825bffc103722dd653d8fc71dd797ddb97346abd48738d96200"
+    "5e2f61e839428825bffc103722dd653d8fc71dd797ddb97346abd48738d96200",
+    "2e2e3f034ef1bb18ad19e47bc9467952a4cc4d1167da504c7a0eef89c67511c4",
+    "250de0f5739c704458cbe2ff3387e3f17bd7f7649c609412960a3fd9f2c318d0",
+    "99377ecbaaa92eed8d5bfe07b7bb3507d20dee416cce21f4ef71db0b89c545a4",
+    "acff360a6c59b157d5aa46d13a0d153443bc04a9d3f8c4407a0086445f083bfb",
+    "d9a214bf51df7c8a31a1ac3f3b35f1adc637c1c8421414d50848dbe81cef52e4",
+    "ef5606689714530cf0f405b4e3df0b4da028568ab00f7e4616b195af9e8718e4",
+    "618812a5b75e4a1a959e3e4ab4bad55303a62daabae7088bff5ecf3667d016d5",
+    "12c5dbd1fb47f3809ae4be5cbf4868c343fcb4da70be3efcda74ee4fc9b57b74",
+    "2ac5d7fcf22416da0574fe9ff184b0ac0529e775eb8e78c99b43b467f946ac96",
+    "fc4fcddcf3e479b2c19ae1a6acbdecb24302a09bbf49aa3237787e437d5515b0",
+    "7a5dacf2ae90978f3e7f916f96dd7ef6fb12dd4b36903abc483bae303e2ac977",
+    "40ae849070837bdbd5a3d82079a3ee03ea44ca998b80ac180a3208d29a5a777e",
+    "023e65069e8899f77416826f2ff63c7fb3edefd0b34ae18c26513f011ba5ecc1",
+    "bb44ff506525e8c29d88acdcecaac8f79abb3fea4f429b91b934d03da969c095",
+    "59987535bfb9a085d499315fec3c15cb2fef72bc20cbf7c23308b0ac609eb20b",
+    "88c5a677c91f33019b2ab8a4eaa4506d3e5956f378681b93ed3fc927466561c7",
+    "0954f46bc5309d37e092456fee5042637848927fb20e766f09e7dfff760bda66",
+    "8b3eb253d9133bf82088bcb4783cca685acd5b22beeca27d3abe55b0f9389cd9",
+    "1d29ba49c7b52ee6a6edd3ad238a158f62cc57dbf038388ca5203d04b8807e18",
+    "66b9e046dd7e0a34b79af9d0fe7c57395abb9b18fb4747d81ce87ed3cf50edde"
   ],
   "title_hashes": [
-    "f0f81c71f3f28d914dac9183a2b577394d0350fca3805c4e6977bda7d79b1c1d",
-    "88b019c3f850ec3d3881fcfd29f19b250e688e6f57611777059f70c1358d7f86",
-    "5ea00ff0c90451e4e90ea6335bd8e1d57bbbb02bc41346c1880dafbb4da0abdb",
-    "f75268710e1f5a269ef2c165968c5333ae1ad20b0f369a132973e8ec4aeda9b1",
-    "6cb50b0fd0663491c3908b3cc6e398f6889801df60f20d80ab699a881cd6835e",
-    "2e55e0b8ea03d36e3a1a82f082e9723b55b95ea9fc8445951508abaeba2edbeb",
-    "466f85917c72cb4118f0c9bb36caf30930afe127c1018aefd7e580888e509deb",
-    "bedb7fa380fadc827d699d46a1bbfba1478b62cc71d982d241a9cb7f9a91f7ba",
-    "bb933c5a46104cbff1f5254d75fb6a47d0260afa7dc924bc70e04a3761934766",
-    "b9c24788285f5f2323985c05d15b6e44b3dc262f24de09d4f10c642dff2b547b",
-    "239b9e67c1241e1ecb3e3093188e832540ff7ad4fa82d59f50e9d6902e939f76",
-    "9fcd650d6f43e448c156c228a66483db12e20ce0376bf547da240b9a72a397e9",
-    "b25862cf8549c290acff50e0e837e3f0448e7d878fbf56b818df735be7d2edb9",
-    "36b9d3791bf0d3dd09a1eac2ba0da0f20050db1d0b5eadaa89d0f13f4731014c",
-    "b4501129e34ddd3e1f61ef4fc5c6b08c1e0a690e3a5b9df7fe74f4a2eff78fee",
-    "531a582a6aaa90c57e5ff8a9cd0758a90501bead4bcfbfa6e323bc8a8aafd996",
-    "840b8ba317ce182fcd3bf585fe27a13962d45554bc8f14dbcea5ef27080d1ed1",
     "14a1aed066ce1a9582573855fd6b34d1582a2a1edea9a84af61f7a96a66ba439",
     "c098dfab10bec307bd4e1b0d71ea88dd0d686ec47bd47cf7547b801a33d349c8",
     "da9386b0633a3dde9fd7b789fad134968ad0b47589588114492e2cb1c775d309",
@@ -8002,79 +7985,26 @@
     "168c9c532f5b30b0833ecd95ee0a8380ab0df5ef9ffb56e9217fc179d11f0a26",
     "b5efbe09f3eba9cb504d010232799566698a615441846d4d0b426811e144eb0e",
     "d0501eba50a2b5983d8d60baaac2ea5b2c21aeafcc9af094b70d2369ab2e3b59",
-    "7b897e944427523b9a98d58376659c27012d2ef86b57cbf0279bd5d52724fac6"
+    "7b897e944427523b9a98d58376659c27012d2ef86b57cbf0279bd5d52724fac6",
+    "42d1d9255150c587edf914a390043ec77db3441ad2ba4f2b530ee69e497f52d6",
+    "7447ae62920cbf1a618c5662d82dd3cbc7379211bd930a808decb868e05f8b8f",
+    "545d21ed65f7fcae5d23ed5b4f4eca1f6803b2292bfefe40a5d3b5bc6fee60af",
+    "190848b266e15a029e0b7648a6af97a5235feff276d85be7fc689b232d6ee7cd",
+    "9264836897daaa21f2331dcb82446f2fa5132320e7a1bc3a1adc673c3d2f2f5d",
+    "bcf2883bb0bec80cc90b2fdb3e9d8c6b67eaaf9502655caa1958c443ddc8a09f",
+    "680d6fa6dacba44fb8b25e7b4c47170beb040c3a4bfd1ddb929bfe571ca3a099",
+    "14c7c84021fc53c4e8246f84196f5aa6eb666f741c0936d4b4c11616ad37843c",
+    "19e0e07c3a68904b9c7c0fb31ddd629d4e58fd56aec4d36dbbb8a9099353a94b",
+    "942f6eb038c68e6187f3d56406d3af9a72dbea41cbce7d91afb279993f3fe280",
+    "2b410cd433dfefc5632d9f0461f19c45dc324798e48f8b6ea5954fb13800a6ff",
+    "a7f86aabae10e8a54408744a8ab9cdbe84c2a3deaae8993ba93ae5cbdc3f415d",
+    "3e8f299af1760242eae1ff20d551b49af29f720790c36556014e383287f6854e",
+    "e59d794509661225fbf3d40960e49a520aeb21a819cfebed33c22f4009d43b01",
+    "562ee8e77175b550ce31f25624dff90d418fea921032cc388d9905b8eed6ca52",
+    "cae4082c33c5e4de91ebbb5b04e153bd8f9eb016be37de90c267212906ad6bcd",
+    "8fb80eda525bc1dddb2ab39227c1ac5c9734076fecd63b79e0fc60ac288a771d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "英伟达临时CEO Kress：（在CEO黄仁勋离开的情况下）路线图处于正轨之上。",
-      "title_ko": "엔비디아 임시 CEO 크레스, \"황인훈 CEO 부재 속에서도 로드맵은 정상궤도 진행 중\"",
-      "url": "https://wallstreetcn.com/livenews/3201526",
-      "ts": 1794950835
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Nvidia NeoCloud agreements total $32 bln. $NVDA",
-      "title_ko": "Nvidia NeoCloud 계약은 총 320억 달러입니다. 엔비디아",
-      "url": "https://www.financialjuice.com/News/9856542/Nvidia-NeoCloud-agreements-total-32-bln-NVDA.aspx?xy=rss",
-      "ts": 1794950897
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "英伟达：未来数周将披露10-Q报告。",
-      "title_ko": "엔비디아, 수주 내 10-Q 보고서 공시 예정",
-      "url": "https://wallstreetcn.com/livenews/3201528",
-      "ts": 1794950900
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Nvidia Delivers Solid Outlook in First Post-Huang Earnings",
-      "title_ko": "Nvidia, 황 이후 첫 수익에서 견고한 전망 제공",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-delivers-solid-outlook-in-first-post-huang-earnings",
-      "ts": 1794950917
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Nvidia sees 4Q Rev $130 bln plus or minus 3%. $NVDA",
-      "title_ko": "Nvidia는 4Q Rev를 1,300억 달러 플러스 또는 마이너스 3%로 예상합니다. 엔비디아",
-      "url": "https://www.financialjuice.com/News/9856544/Nvidia-sees-4Q-Rev-130-bln-plus-or-minus-3-NVDA.aspx?xy=rss",
-      "ts": 1794950919
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "NVIDIA REPORTED Q3 ADJUSTED EPS OF $2.68, ABOVE THE $2.47 ESTIMATE, ON REVENUE OF $115.8 BLN, ABOVE THE $109.33 BLN ESTIMATE AND TOPPING THE HIGHEST ESTIMATE OF $114.9 BLN, MARKING THE 17TH CONSECUTIVE QUARTER OF BEATING CONSENSUS, WITH ADJUSTED GROSS MARGIN AT 74.9%",
-      "title_ko": "NVIDIA는 3분기 조정 EPS가 추정치 $2.47을 웃도는 $2.68, 매출 $115.80억, 추정치 $109.330억을 넘어 최고 추정치 $114.900을 기록하며 17분기 연속 합의를 깨뜨렸습니다. 조정된 총이익률 74.9%",
-      "url": "https://t.me/firstsquaw/193609",
-      "ts": 1794950983
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Here’s How Much You Would Have Made Owning Marvell Technology Stock In The Last 20 Years",
-      "title_ko": "지난 20년 동안 Marvell Technology 주식을 소유했다면 얼마나 벌었을지 알아보겠습니다",
-      "url": "https://www.benzinga.com/news/26/11/63371667/here-s-how-much-you-would-have-made-owning-marvell-technology-stock-last-20-years",
-      "ts": 1794951047
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Golub BDC Q4 earnings in line as portfolio value slips",
-      "title_ko": "Golub BDC 4분기 실적은 포트폴리오 가치 하락에 맞춰",
-      "url": "https://seekingalpha.com/news/4673896-golub-bdc-q4-earnings-in-line-as-portfolio-value-slips?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1794951049
-    },
-    {
-      "source": "edaily.co.kr",
-      "title_en": "[속보]엔비디아, 3Q 매출 1158억달러…실적·4Q 전망 모두 예상 상회",
-      "title_ko": "[속보]엔비디아, 3Q 매출 1158억달러…실적·4Q 전망 모두 예상 상회",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=01518646645647032&mediaCodeNo=257",
-      "ts": 1794951054
-    },
-    {
-      "source": "한국경제",
-      "title_en": "젠슨 황 사임 충격에도…엔비디아 3분기 '깜짝 실적' 매출 1158억달러",
-      "title_ko": "젠슨 황 사임 충격에도…엔비디아 3분기 '깜짝 실적' 매출 1158억달러",
-      "url": "https://www.hankyung.com/article/202611183243i",
-      "ts": 1794951056
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Nvidia perks up as Q3 results, guidance top estimates; adds $150B to buyback",
@@ -11504,6 +11434,76 @@
       "title_ko": "TCL Zhonghuan은 증가하는 300mm AI 칩 웨이퍼 수요를 포착하기 위해 웨이퍼 유닛의 98.5%를 추구합니다",
       "url": "https://www.digitimes.com/news/a20261118VL209/tcl-300mm-wafer-demand-subsidiary.html",
       "ts": 1794976103
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Taiwan Semiconductor Shares Jump 4.66% After Hours - Taiwan Semiconductor (NYSE:TSM), NVIDIA (NASDAQ:NVDA",
+      "title_ko": "Taiwan Semiconductor 주가는 시간외 4.66% 상승 - Taiwan Semiconductor(NYSE:TSM), NVIDIA(NASDAQ:NVDA)",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63375553/taiwan-semiconductor-shares-after-hours-nvidia-earnings-ai-rally",
+      "ts": 1794976124
+    },
+    {
+      "source": "CNBC",
+      "title_en": "'Who and what comes next': Analysts expect Nvidia investor uncertainty despite earnings beat",
+      "title_ko": "'다음은 누구이며 무엇이 올 것인가': 분석가들은 수익이 상회함에도 불구하고 Nvidia 투자자의 불확실성을 예상합니다",
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-earnings-market-analysis.html",
+      "ts": 1794976127
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Nvidia unveils Rubin HPC for science and engineering simulations",
+      "title_ko": "엔비디아, 과학 및 엔지니어링 시뮬레이션을 위한 Rubin HPC 공개",
+      "url": "https://www.digitimes.com/news/a20261118VL212/nvidia-rubin-gpu-processor-hpc.html",
+      "ts": 1794976132
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "효성중공업, ‘해링턴 플레이스 문래’ 견본주택 20일 개관",
+      "title_ko": "효성중공업, ‘해링턴 플레이스 문래’ 견본주택 20일 개관",
+      "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/18/PEARGNDMVBHNBPV2IXIAK32IOA/",
+      "ts": 1794976135
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trump Calls Venezuela an ‘Acquisition,’ Hails US Energy Supply",
+      "title_ko": "트럼프, 베네수엘라를 '인수'라고 부르며 미국 에너지 공급 환영",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/trump-calls-venezuela-an-acquisition-hails-us-energy-supply",
+      "ts": 1794976137
+    },
+    {
+      "source": "머니투데이",
+      "title_en": "[속보]시진핑, 푸틴과 선전 APEC에서 회동",
+      "title_ko": "[속보]시진핑, 푸틴과 선전 APEC에서 회동",
+      "url": "https://www.mt.co.kr/world/2026/11/18/2026111812442719518",
+      "ts": 1794976145
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Anthony Scaramucci Blasts Trump on FAA Meltdown: ‘Why Don’t We Start Focusing on Ourselves Now?’",
+      "title_ko": "앤서니 스카라무치(Anthony Scaramucci)가 FAA 붕괴에 대해 트럼프를 비난했습니다. '이제 우리 자신에게 집중하는 것이 어때요?'",
+      "url": "https://www.benzinga.com/news/politics/26/11/63375627/anthony-scaramucci-blasts-trump-on-faa-meltdown-why-dont-we-start-focusing-on-ourselves-now",
+      "ts": 1794976147
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Saudi-led forces thwart a Houthi cruise missile attack aimed at the Riyadh region.",
+      "title_ko": "사우디 주도 군대가 리야드 지역을 겨냥한 후티 순항 미사일 공격을 저지",
+      "url": "https://t.me/firstsquaw/193756",
+      "ts": 1794976151
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
+      "title_ko": "푸틴 \"EU, 산업 경쟁력 상실하고 뒤처지는 중\"… 트럼프·시진핑 회동 앞서 지적",
+      "url": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+      "ts": 1794976154
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Anthropic-Backer CBA Says Australia More Attractive on Compute",
+      "title_ko": "Anthropic-Backer CBA는 호주가 컴퓨팅 분야에서 더 매력적이라고 ​​말합니다",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-backer-cba-says-australia-more-attractive-on-compute",
+      "ts": 1794976187
     }
   ]
 }
