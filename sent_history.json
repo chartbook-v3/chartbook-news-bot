@@ -1,13 +1,6 @@
 {
-  "updated_at": 1794996679,
+  "updated_at": 1794996833,
   "id_hashes": [
-    "c9cbddf19638ec051d4f6df22108fc603416ddbccd3044304184cdb1631aa7f3",
-    "548a0127bdb258f1be23e12d5fdfca5c72d83a00f8e778016d6bfb538eb2bb95",
-    "04fa3420caf563e45c2c6c528a850ae51f991787f7bd5402a7fbd82390d296c1",
-    "e3971e4afc5c0197f2a8a2e05dc21c07c7c4b5eadb1d7516afb0cc3d880fde55",
-    "1d984941957768c19ad070e6cc243618511187ac80e360156f0a53a979276a65",
-    "fa3c950cef9a12735deb3a73ef9ec6c9cb500b079cab55b7bddefc20b6a927e2",
-    "1ccb4343a6d463b21f01469e0346a0437c192f591e392890b9aafd2d4030fe98",
     "83b46d59525a6f4525590d095cc5789db83bf9dcc59c76ba0141f8e4219e7791",
     "2bde34eb99121e1737103c0b7677e39b5141ab4fcffc60d250ca3c2e5ee405ae",
     "e3a7f04cdd870085539c0e8d84dbbc80e71991bbab13d7c179ce8b6580c97d56",
@@ -4000,15 +3993,16 @@
     "08796d3221e9d54cbd2271943a835db351792524f89c4b611f75e9f42f965f87",
     "2a7dde870282b7b83a07a4f8003dcbd7369e5710d0ac5c99eba33521cb05718c",
     "d91e1e927354c1e495c9e3284bf3e43a4c69edae339b71738d02c0963adf3a58",
-    "b3434bb98cf3abf14ca342ed323e79f73dda13bdcca0a72405f42488926b6cef"
+    "b3434bb98cf3abf14ca342ed323e79f73dda13bdcca0a72405f42488926b6cef",
+    "30b01bfaf5abb73cca3e9097f42ab5d91cdd7aab40a053ba13fdc7768ce3afce",
+    "89a655218d40ba498258d905d6f06060ffcf69e74ce1a9394b85e1e634b98135",
+    "dc3b870797c35a576509deb8f1634fd54a3cfa04f1ab258ff9a764ffcef024d3",
+    "78264ca217124ea974e0a01c0a42a823b1e85b4d3280fccba8bfa61ef4e48954",
+    "6df238392b8f6490bd3a1c6897130a02cdf51286b05e8aed4fa70e1fdb18ce74",
+    "837c3af2be35996b37c61b2c8e9df1dd30c8cebe1cd3288e16cd88472b8576e4",
+    "1d23a7c657ce49902e5a6df063cc6f014e3efdd453947a098ca8e4f261726862"
   ],
   "title_hashes": [
-    "926e9524028088be5aa82411ac0573b875765db16c5a8435e178c2f643b36e0c",
-    "18f5c63a73565fce2ef638b490bf2e87c511479f0b22cfa93167d1bae09c6bc6",
-    "fafa889b9798966ba3a0a28a9176deb9a943d08b9b12462bdec6f0dc381527b0",
-    "d9c14e7d7f22d824a1d1b22877b3f2d4ddf2c463f08da41abbfcdb2e01f63aa4",
-    "b63eeaf17278048cbe15eba9cdd7370f0278376012628948fa11723a20054dfc",
-    "86089ea338c7043d68ea25faf6d05bc8c8c4dfb84e0bfabc8fd98ea3aacf7d36",
     "3299af7ebb5112392512dc26edf8b7749a13c76c88723a4c12d635b2ee855105",
     "860831f8694ab86a30ef3dde927c3ff5c573c126fe1a910d7404e034f7ed6985",
     "3367b0feabddd2c9b3da96416fea24bbdb35ceb9c699cd073acd175ef99cd129",
@@ -8002,30 +7996,15 @@
     "f737bde166e0ebebdd26daa1e66a06b7015e29c449a951015a4de070490400a0",
     "005f40cf233b39890f5dff91f61e23d6949501983124a798bff6e1699cb32cc7",
     "33cde176a3816a31a1de7322eed899900e35394674ab046d2ac5fe2d34e98498",
-    "a8ce77126cb78c4d20c0ca0d933279b1960f005f682b8d1bf36428d378ec49bd"
+    "a8ce77126cb78c4d20c0ca0d933279b1960f005f682b8d1bf36428d378ec49bd",
+    "f6a3bc093a96aa71762ec9cb357d69396ccdd9d4d1e6ad6276ec00bff338618d",
+    "fce13a13ca8045513bc2727ebc88a8da69705082f984a30d6a81244a0f55c7a3",
+    "b75b17d472d65721220b5d4b56d1bd2113c5a5b1e04342ddcfa68dc571f3a02b",
+    "a9f667d7aac78a2d4dbc58c6ee07c48c3d989bf486c932b63ac0b88069c24c65",
+    "fe1648c6387853293ba05c1ae96fbb20e2d77fb9c2f59ed30bc07b065958ad39",
+    "6310cf74d82991d1409aabfa369aef371f7a48caa6e691431ec784c36d7a565e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "지디넷코리아",
-      "title_en": "STEPI-UN ESCAP 아태기술이전센터, 기술이전 협력 네트워크 출범",
-      "title_ko": "STEPI-UN ESCAP 아태기술이전센터, 기술이전 협력 네트워크 출범",
-      "url": "https://zdnet.co.kr/view/?no=20261118121828",
-      "ts": 1794972005
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "JUST IN: NVIDIA $NVDA TO BUY $10,000,000,000 IN ANTHROPIC SHARES.",
-      "title_ko": "출시: NVIDIA Nvidia가 인류 주식으로 10,000,000,000달러를 매입합니다",
-      "url": "https://t.me/marketfeed/1080271",
-      "ts": 1794972008
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Taiwan presidential office: Taiwan welcomes efforts to manage risks of authoritarian expansion and enhance regional security ahead of China-US-Russia meeting",
-      "title_ko": "대만 총통부: 대만은 중·미·러 회담을 앞두고 권위주의적 확장 위험을 관리하고 지역 안보를 강화하려는 노력을 환영합니다",
-      "url": "https://www.financialjuice.com/News/9857037/Taiwan-presidential-office-Taiwan-welcomes-efforts-to-manage-risks-of-authoritarian-expansion-and-enhance-regional-security-ahead-of-China-US-Russia-meeting.aspx",
-      "ts": 1794972068
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Taiwan presidential office on upcoming China-US-Russia meeting: Taiwan’s stance remains consistent to bolster self-defense and strive to maintain the status quo",
@@ -11504,6 +11483,27 @@
       "title_ko": "미 민주당 지도부 가르시아, 트럼프 아들 및 핵심 참모진에 관련 문서 보존 요구 (워싱턴포스트)",
       "url": "https://wallstreetcn.com/livenews/3201872",
       "ts": 1794996678
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Gulf Countries Under Fire After US Hits Iran Island",
+      "title_ko": "미국, 이란령 섬 타격 후 걸프국가들 거센 비난 직면",
+      "url": "https://www.barrons.com/news/gulf-countries-under-fire-after-us-hits-iran-island-dc4c77c4?refsec=topics_afp-news",
+      "ts": 1794996765
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "中际旭创：董事长兼总裁刘圣提议公司以集中竞价方式回购股份，资金总额不低于20亿元且不超过40亿元，价格不高于董事会审议通过回购方案决议前30个交易日均价的150%，用于股权激励或员工持股计划及维护公司价值，回购期限为董事...",
+      "title_ko": "중자기술: 류성 회장 겸 사장, 20억-40억 위안 규모 자사주 매입 제안",
+      "url": "https://wallstreetcn.com/livenews/3201876",
+      "ts": 1794996772
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "German Government Nominates Brunnermeier for ECB Board Seat",
+      "title_ko": "독일 정부, 브루네마이어를 ECB 집행이사 후보로 지명",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/german-government-nominates-brunnermeier-for-ecb-board-seat",
+      "ts": 1794996832
     }
   ]
 }
