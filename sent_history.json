@@ -1,21 +1,6 @@
 {
-  "updated_at": 1795002931,
+  "updated_at": 1795003101,
   "id_hashes": [
-    "af3e6d5aef8b3087418743b284bfcb95650c47991d84531b735142b758821de3",
-    "0c5cb6c5b15047c14878546348c1fdecc8a1c8185056998134bb018fd12a94cd",
-    "def699e722decd0b30876af47257db3038e62cb0788e2ba8760934d4c1bf4f10",
-    "b710a9c83e60ed3b14a3062efb1bcb1fb20bb0581fe90fdb36e6c1520acd6cae",
-    "c56b063232e81231184958d8814f8fa9285bcb31ab9665a834ec4e9118e3a48c",
-    "61745ac49e5cf69591ee6941f2229c1d4cf569f567d3466ebad559edaa18d31c",
-    "ff3b5586d42e5d6490e2f96618b18cd211719a420559c2b4840449bdd8f4280e",
-    "8fa09da30c091ad3eccd68c46ec62562236b6683d75747f63f4e592ef26f7090",
-    "10f999d90d71ca01157d69a9fd239ffce0b705ccc6241bbcb72605725bb7fb78",
-    "b20aced6f63e9b2ac6544cb229b9e33daf53acd34e97ae372047e19511fe0967",
-    "2606be7c815fe423554df771d976f66fafa9300fd73d6c2ff1831e863bb70a6b",
-    "8f19790d7d11f6a1f580a16ecbfc089abe2a26dc788c38178cf9771a01309b01",
-    "fc0b233f403057f219c737a2070a338098bcf918a6351f6fdfd17e773c4a8220",
-    "f6987cbe097d93400a67f399ed04a117b1a4e0b891443f4f851a2963d314e8ca",
-    "23abeeaeb3575fc3a7f3792a43bddf1fefe4c4a72cad25987e10e042f98b2e88",
     "cd3ac8504ed7602d9976f019326482e41627cf865125a1498f53b0732fae8a1c",
     "f0765ec3574352e102351a40a1f03c9e8377424ac37903d5b91525aab0d87d0b",
     "7ca8ac67030da9fb467b440f944d8c8fe9f86aaf425cb4ddb6b91fbadd572b46",
@@ -4000,22 +3985,24 @@
     "9c40c2ac6e12650899254752288e9100a305e72cc36fcccb0786ba4f262f5844",
     "84e3d870482e62d4dc6e3a33ab9b23f674139d8fee6effbfae2831ac0a960474",
     "fba08df3c1c7133eaf58d72ec45986a49dd689b6518ed312f202bf9dd39d4d82",
-    "16d957d1e39b665146182a9eb656f80ed3f19057dbac94c7e6ad6c199a522afb"
+    "16d957d1e39b665146182a9eb656f80ed3f19057dbac94c7e6ad6c199a522afb",
+    "007778e9cdb35d6195c9d78309b6af09d0e7455f239afa2d771f0ad79583960b",
+    "f83900587db345517deca09cf949c1ac975db83112e51a1465bfc66d02f6f657",
+    "d5c27614cfbcaa572d5aed42f1211f327fa8aa3ab9b35336fead2e8f3f4f5e68",
+    "b3ef1a38d6e32a4f31eb952db09b6dddf7bcab9ad7e7b8283a761476bcb2586a",
+    "0e4ebf0f1ad6d32d692c04fc3d1a853ba7aee45dde5b704de9ff572d4e49d2a4",
+    "0ede01bd65acf3755002e777407e921d397d515782db118dae90795f64011206",
+    "ccbb7835e296ef802df2c131e0eb478d44a20ab64fae1bd2b6683e3ab4a9498f",
+    "f2a19d69493f793bf954afc2c76e0dd434a42df2aada903e8c6d9d6da25c592d",
+    "cb732a5276d4e63f50ae54be32816869d0257890e022077fc351e3b5e0ff32f9",
+    "cbf93787f20d8be260f54f6656837f0bd240b438d34cad4561a3111a03cf2516",
+    "f1e5cd5012c3cd6b98bd4983b10471bd6fa50a79bb575e387201d8cd9a01434e",
+    "a63675de5ecd0f2d704ee0472bf148f79e530c5b7be8692fa8e2c04aa36a9d5e",
+    "fa857e79f7c146cb3afa7518fb255c6c88ae622ad8d684dbed88247854da615e",
+    "ef080e3b6de83b44d5f97b63213b9782549446fb39a6c23cda4543755bd894ef",
+    "59ccd41ebb42a2476e987e6de921afc24ff7fcd9475c4c7f191d61e860112a75"
   ],
   "title_hashes": [
-    "7efef44e4affb6b882f977186acd6b03df862e443856153cb1a737c7bc1707d8",
-    "4e2fd324c66ed4d4e6fb484762bd523c987b1cb07634b53d08a625d81f1c8f75",
-    "0d2793cfc768d98ecc3bf12a1b1e867f467a427004f2c32050170a1dafb5fee0",
-    "4a08daa5e35c0a43041670cc41c06827383e92dcb749366d700f3c6cca75739b",
-    "148f263005a8c58216c7d9da4ae403ecb9ae83bf96d8eb46d0c9f8d22596a1ab",
-    "a22a3930e9d44566eabdc225ac7600fb5ca7aadce2ec6f704c0e9a965ee9b2a2",
-    "d2971ec38a0e4277b28abe7a0d3683a08ac37d4dc61376c89410ef469f2f68a5",
-    "1b2a9fb31a364f757af25310d698c0beba8e9e53045fdfd190cbb7ab7417bb52",
-    "c1966d0a682170a5a832f7c9f8610ddb76dbb32edefe0d669e0c9aeb392f0b5d",
-    "e9ed655e492298c6448c009dc08bb5a7552ba089078f0ecd774ff0a349fc01dd",
-    "d84a38e3208e49606df52356adce70dddc4c6681890181cf8f3f464310645d2a",
-    "35cee0c8b21c689f5f1d2a05ca7b3d05a80c9258318e7d3c994556d37c39ff7f",
-    "5a3372fbe222408016a3c372176dc26373108c9f95ca5a1f2a9692e041d8a5bf",
     "3def9dedac7c5b089a238b5af4925b3d3bbe9a3919382b42e2b4f3ce104e51ab",
     "f9b0847d5035103503fe5f09459121638e7b4c0a897ec29339f50f1d9e786ead",
     "a36e38b02e0a986124b5609e53957d6169ba6f9392ebedd60dc7f98ca9307c64",
@@ -8002,30 +7989,22 @@
     "18ae6381e6b69d86d3175adbb63ccf513ffc53c69b18a4d08176273f24224c20",
     "03f52762d6baabc819a5cf8678e2544ad9db46546b0449288462fc54b8d3c8b9",
     "2e8e0f78ff2372795c726cdb0f35c60ceb05d31357afd61003e03f012465a2f1",
-    "aaa1e694e131d936f12112f879c010cd2860a017271de77d95067d88726a233d"
+    "aaa1e694e131d936f12112f879c010cd2860a017271de77d95067d88726a233d",
+    "415d1f49c3333678f8283c9ab1ad9187c6bd848932c99c946436ce30107a5922",
+    "5a28284d26be488af3008a62406433e476cfb9937df190816cab788ae86ac7e2",
+    "9fa106ee98ed44a0e4544a7833dd70223529b88631764db97d8f1f295fe50ca4",
+    "94769e29048badaf616420ae5940d3e4778f377c7988af7b081d9a2efead7530",
+    "474c75b19c23e5d8245f630b54ff50984ceaf6c8057ab351de8faaae9e2e3a2f",
+    "0f826240e6df1774997ec2258505729c48f7dfeee61d24168cd9e5419c8f8fd3",
+    "bd43362884f9aad2c594248a81c49c80ba4304148c360848a8d9042cd3a68106",
+    "9bd96a95e5f2c18de19efa81e311f3383f26222af912de90cbedd6c376e3d31c",
+    "e143e847b5a6c832e0fa59ec3e13851e6b687912e391e54b0a73c0409d61f108",
+    "104ee30a34cde85aae6d00f495000e7bca5a8ca1987e5ff8ef749071f69c5185",
+    "2aedcb625bb67a8f4741cbe9e12e3553a268050bf461779e345912118c6a3f64",
+    "47938f64ea6eba0824c9a7a98aacdb8c3a53a080c13ce82ac2109b5b8031e29e",
+    "03b1ba91f5c0b6bace13c9c663ce8eaf5ba542bdec34a34806467955f00a8614"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Ukraine's Port of Izmail targeted in Russian strikes on infrastructure facilities, Russian newswires quote defence ministry as saying.",
-      "title_ko": "러시아의 인프라 시설에 대한 공격이 우크라이나의 이즈마일 항을 목표로 삼고 있다고 러시아 뉴스통신이 국방부의 말을 인용",
-      "url": "https://t.me/firstsquaw/193765",
-      "ts": 1794977640
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Russian forces hit a cargo ship heading to Ukraine's Pivdennyi port, according to the defence ministry.",
-      "title_ko": "국방부에 따르면 러시아군이 우크라이나 피브데니 항구로 향하던 화물선을 공격했다고 밝혔다",
-      "url": "https://t.me/firstsquaw/193766",
-      "ts": 1794977770
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "엔비디아 바닥은 언제?…5가지 정상화 신호",
-      "title_ko": "엔비디아 바닥은 언제?…5가지 정상화 신호",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/18/MZQTCZRSHFRGKZTBGJQWCOBTG4/",
-      "ts": 1794977791
-    },
     {
       "source": "디일렉",
       "title_en": "코코링크, 엔비디아 대안 PCIe 서버 공개",
@@ -11504,6 +11483,27 @@
       "title_ko": "엔비디아, 반도체 공급망 다각화... SPIL 증설에 수십억 달러 지원",
       "url": "https://wallstreetcn.com/livenews/3201942",
       "ts": 1795002930
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "BOE Proposes Clearer Rules on Large UK Banks’ Capital Buffers",
+      "title_ko": "영국 중앙은행(BOE), 대형 은행 자본 완충 자본 규정 명확화 방안 제시",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/boe-proposes-clearer-rules-on-large-uk-banks-capital-buffers?srnd=live-events-v2",
+      "ts": 1795003094
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Michael Burry Agrees Nvidia Looks 'Suspicious' After Company Delays 10-Q Filing: 'Exactly'",
+      "title_ko": "'빅쇼트' 마이클 버리, 엔비디아 10-Q 지연 공시에 \"수상하다\" 동조",
+      "url": "https://www.benzinga.com/markets/earnings/26/11/63379248/michael-burry-agrees-nvidia-looks-suspicious-after-company-delays-10-q-filing-exactly",
+      "ts": 1795003097
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Gix Internet: Quantum X Labs Achieves 99.93% Data Recovery in Qatacomb Quantum Cybersecurity Validation Using IonQ’s Quantum Computing Infrastructure",
+      "title_ko": "아이온큐 인프라 활용 긱스 인터넷·퀀텀 X랩, 퀀텀 시큐리티 검증서 99.93% 데이터 복구 달성",
+      "url": "https://www.streetinsider.com/Globe+Newswire/Gix+Internet%3A+Quantum+X+Labs+Achieves+99.93%25+Data+Recovery+in+Qatacomb+Quantum+Cybersecurity+Validation+Using+IonQ%E2%80%99s+Quantum+Computing+Infrastructure/27366490.html",
+      "ts": 1795003100
     }
   ]
 }
