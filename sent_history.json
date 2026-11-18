@@ -1,29 +1,6 @@
 {
-  "updated_at": 1794999770,
+  "updated_at": 1794999930,
   "id_hashes": [
-    "003122098afb4741620f6c03a620701ccfb5997aa29e35c0710708e77ef67271",
-    "336b3160dde1b885b021b221f46b86ee76f8303d2bcfff978e7e1f6ed20dcc6b",
-    "310125fecdcc9048b27dce17e6c2cc318707043b57a86dd191d8fadcf669e266",
-    "54fdc0efa3ea32bd22ea418e7b09ff7cd8c3af0f41b869437b053484ed74beef",
-    "7207e3a4288d10ad9e462158c2a2fd667cdedbaff303c19decb6dad72c9666f6",
-    "97a70242e13e1f29864032df7d82a5f752dabb5926273890dc653bb0e8c4a946",
-    "752194fe331e4a27f5b87f853891946bf4af3f03687c89e485d19d33ef661967",
-    "1ba3228f21002b2afdb7de55a297a57015cf28c54d44728477741308404b0471",
-    "17d024c20e72359d87e9fb900c54e0b84406891a41b9153dc6a20d9f4fee19f4",
-    "821f18edc67b240ba8e0586a71f3d7b3419058faa32a16174ea78c2817e8555e",
-    "1b448f92606c694c3b2d641f5da34d7ee413a71ef9da812d617e015240ec14a5",
-    "81dd89600f03c964c67eaf95b41f57171da4a2b2da6eead61333ab5737ab2b89",
-    "9e538a803bb1c609d66bb251ccb3fc46f1b3b77dd3963e202f411ebd4cde5bc2",
-    "fd7c332709ae84e078164b9855c7563a0221412c8c2ff09ac86b27ff7d6b50ff",
-    "06946763c030cad0fe224efb1da17f4f129ed1264687667fa2a4eda0d6731ba0",
-    "546353909e3cd88ca35f7497888fd6bdeb6f65e3d6e5bf5d32f15c56a0409f1b",
-    "d1ee7fe3845eb93ac455a40910c8840eef8a6a1f592ad8c618d187f2e566a4b0",
-    "8436c82a88237fb58e03586a10c4cc44a55181771e84545072b3622b36894d11",
-    "1996cc8ab34275309e8a659595df53050748698049a8c1a92ebc22c3c2aae6e1",
-    "1868541e61b8c48bd6da29ac2b56e64cdc20d35b68994fdc04f908c53fe0b6da",
-    "275b4b51bb0eec9394231ca5584d158128c4657655888bddffa55dc303e88710",
-    "4ad9a96cbec9df52282b96d88ad0a4041dcc243afa517d3cfcccf1ae7449d1c2",
-    "c958c640cf626b7788068036edf8486cfbcb5469fda892611522e239ef9da9f6",
     "3c6157849aea3387922a36f4bd74b149c59fa3dd22ad30873e8507909399f86a",
     "df66e8b1f4460cd4eb96acf7c3118880bc7a4810d4172007ebcc7791a735aa1f",
     "aff65cd2475f703d7977eae69c07272f53de5e27b8a830cb5530e0b099b9ed04",
@@ -4000,28 +3977,32 @@
     "6392d6b6fa8926cb6f37450828e9d7f87ef04d1d8c01c09497e8fd489d3650e3",
     "1a458415d9d94efd64620d32387c4f72311f510ef986018cf90c5245bda0a024",
     "4d4acb6840bf12080bd257f6d1503b899a68f41807fd81fff3cc017c3fc934d8",
-    "b52387280223c3d0d9233823257c49af47b5c26168391f202be79171b897c1e8"
+    "b52387280223c3d0d9233823257c49af47b5c26168391f202be79171b897c1e8",
+    "a7d03876be62a21d62a3f33f52e6c3d3d543bfecd4d808981dc8acd4d0527ed4",
+    "5e1773e24bb7468e03b32d89ea258fcc61d6c5e948407bec24a12510b5de2c20",
+    "dcb3440dbc2b58b3a6b968d7a8ddd0ac0cbd847d3afb15b5c312383a52d8c6ab",
+    "e69f74a9e3f3a8d6a986705c90bb9f95279b351aa26e1d92db0ce6655d499192",
+    "195ed7de478831e16373a1df9b3b5872f30041b704992e73165fb8cadc1e51c1",
+    "cc2c0018a1515a3c30e8fb7561270e003d1fde54b993ad4b72471afd3d5f0a75",
+    "2c1aeac7b515a80475e792a67fea17df002a92bc05c396d933e4f3ac3b97f64d",
+    "1ba0c853b0a481be49f46613ea650fdc834aab2384ee27396aa6a6aee870cfe3",
+    "1617fb69774931a8491bd36a82eb7769c432c415f7dc64ef62330fbbe51bbba5",
+    "eac387a6a9f231eaa5640b627ca98a4a12ea6a0e15b8a178703f7df29ed3cf9a",
+    "a503c464dc4af887b00d3b4a4dc3cc2ebe8b8392d9875e593428fb18d347c14a",
+    "6a17625d7f452729cd22d6bdd0f5cdfa133b1ad32c4566c8bb7fadae404bd5d2",
+    "2521aa9e4746daf7f510ed29920b66ab17f7fc5898475cac6da873b4af60d0c1",
+    "4a2db59c76ce5daa1e8d3d375a6767b3ddb4ce9bbbe4dfa7f6aa1c6d09832969",
+    "017c4057e9af067dc09ff09cfb4a8ec0e4aae3f0a6a3873859dca44120c8ebf1",
+    "9aba8c3d2386da033611a805d0267ddac7e55c4cbd9ad2ecc2cc2ea4b9d99c96",
+    "40c232dd81e04ff158dbd00b770df585fa567d1a5437340b51bee61022c73d8f",
+    "98561475b399f035f6f40ca0b06918b48aecd5ef367f618b204b71d72942b395",
+    "cf39853f4bdc93095d34ac33550361ac81bddddc8256af712b684543deeda6fd",
+    "30f42751e38ef68a959bc4e1610abe7422267081a85edfe67b99f9e344ad6a97",
+    "d20c7c3ee17560c8a37d813d733d19a70ee75b65bec4f1b2c4b136b154e95850",
+    "77fcf7eea0c3cd43d625712cf3395405bfc2fe0d7c5cdece667468da5754da7d",
+    "4a8905a2b22651fd3d1b430a0e7bc824c283d786b9ba7823d3ff767677845452"
   ],
   "title_hashes": [
-    "d49e88c1800f9e93437ecfb92a6296aa7c4e1a2dfacbe1ee38f37bc4439dee70",
-    "f18e4b7868d1f5d1c1dbe786902d2251d45c38d81ea3483f86368212d6e66aaa",
-    "1565ba14306cc2e7deb7a482494354f4adc6aa760ac46ade0b696aab08ee6c3f",
-    "592e5e87c0afc14b54d07cb78465633d1d7a856bf4a153472ed79aaa1fa7bbff",
-    "0e1702adcc65846972c05d1af56249f02b7fac04c8c9b1033d89a2a543f1e282",
-    "7bcb79e910dd4a9c182225e4ad7d20f15e9304bc6d34b41ff460f234cfb28076",
-    "c4d7375608f9a3cbcac5fb1b595bf6a60e0b2f9717cd4500d339d6eb93869ad7",
-    "8794ccc26f18b497b5954331e062a03937f7e39ddd945657e6bf708760ffb393",
-    "a91e94a098a09676e73685eb2953d2c0e2ca5c1eeea9bdbeaa9d80917556a46d",
-    "912a87f37e28fc0e4fbd7997d3c3e6a65a1babf040dbc3b2dcfcd48adc85881d",
-    "6a3000164d772b4f275144706b78f2783522c869962eb5f489870479dbfcc254",
-    "5b2118f9bcb8896bcbee9124712eb55b362a64b42ab9d367be8f2ef288e57446",
-    "18f75ca580c5523d8c5c31d6699427369d3d3356db72273d23d9567e6063a658",
-    "4e9276fe8dbc94eae3efa53804a402308f6b89cc2b44bd7cf9b878ffd815b6d9",
-    "635f6e790c2a5e443c4c5d19446bddafc04ed395259d4a68376a34577e059b52",
-    "a2c552c654e0d2494cbfca8b8f2d13b4cc20faa5e4a9225ae6a851ff24a5d3d7",
-    "4626337eb2fbcae602ee149188eb9fe9e37b171632fd6df85a23f37618063c37",
-    "925f2e80dc26d5bdd892031ef8201e1494ba9285afb474e0d5f81390d79ef042",
-    "8b07fd2146cddc855d8db275f758b8153baac282c7ef87c144c47ba0f08a8ac6",
     "9c8e9c9cd822b787356ba14ae9317667418d68daaea989f62780021e7fbb1648",
     "1c0efc1314119f2967c302bc647fed25df68e861414984d8c132f528b64efc71",
     "ad41f2daf0a495bf79a270cbc6258ed3b204e0f28e143232ca8586a9de5b1666",
@@ -8002,51 +7983,28 @@
     "75abd52b6aab3825c152d71d230b0f32725d8b6a12bf624f2eaf42bf60ebc36d",
     "44e4a169ca5fe6e0d8220a8980590a66f23be5515dbeeb8b4c291202632e847a",
     "13dd22724f4f4d011837a6178c67296b48648c0a4258545b0fe71a55b936fdc1",
-    "58836308323bf1b3f90d19d24c38bfddb60790a3ed8ed9aae97e3b8d6041420b"
+    "58836308323bf1b3f90d19d24c38bfddb60790a3ed8ed9aae97e3b8d6041420b",
+    "d907e8fa31910fd31a430f7b052b8405891dd7b13d122fb05cfce547bad35fef",
+    "e483b7834889842035e6b505cf283c5a2222f9623b7322336301812e4c0dcc51",
+    "eba2ec3386cdcb1b510f4a1b07ce4e21439d019f52da7069a7af0f33ed461a23",
+    "ca87c10b6227cbeee905ff94bea490232be4c4e278848f47426501b0f5652a15",
+    "de0ce0e334b6722e834f4b6a24b97411a792b4a2b6b610d715702cf8240615da",
+    "d40e1f170210cfd8850a7d705115874f812a8a3f38882ad2924d942f312064e9",
+    "0ec0d5c5b97e96e98c44fc7fcf7adbc359002059c95a26f9286fdbdbf192b105",
+    "2dbf8178225a278fbd6af7fee68146a1b3f9c77656086321a9b72e50889920e8",
+    "8a87d87b26fe379a2db8ac9dc968f5b44ef805ab0413890a70625819614ec8a2",
+    "2338ce66db8f15fac944a56b927ba39eb97cf708fe9362288484069fed6808d7",
+    "c6fcbed9d814349eaae6af605ff848e8073d73c0b990aaf0414202ae0b8f3416",
+    "10ed612c97dc723efdbfad2801091d0c3e7d973bead79094f62156b3b79455ea",
+    "1b92f5ae551eaf514d3d103cb1c51e369ec299cbaa555a57dd174095585d4c2d",
+    "f565b56ca9ee81daf7b84716622d5ef2299d7e5f11861a57a0f66eae3a9d9b8e",
+    "0935475c30493e604887a04045b3353cc6b858c44a280912b801af778569729c",
+    "ee17544d968ce211acc9bf0391ef8a7343d9211883a757f9d5acb2cee0331cab",
+    "57dbea0a1d6ae6ac025c9d2271bec9cd9b344ac22bd8a16b62c38837e27ac1a2",
+    "d01b7bfb68fe5d77363a3a033dc5362320995320c2c59c55584f07aefce4b1db",
+    "1309c3b48a352a18a42c7d12a2ba35fed2bf1607b939449d8d434fb4761d0108"
   ],
   "recent_sent_articles": [
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Russia-China foreign policy partnership on international stage working steadily: IFAX quotes Putin",
-      "title_ko": "국제무대에서 러시아-중국 외교정책 파트너십이 꾸준히 작동하고 있다: IFAX는 푸틴 대통령의 말을 인용",
-      "url": "https://t.me/breakingmarketnews/178566",
-      "ts": 1794975961
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Russia and China continue to work closely on international foreign policy issues, Putin says.",
-      "title_ko": "푸틴 대통령은 러시아와 중국이 국제 외교 정책 문제에 대해 계속해서 긴밀히 협력하고 있다고 밝혀",
-      "url": "https://t.me/firstsquaw/193754",
-      "ts": 1794975964
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Nikkei share average advances 0.56% in Japan",
-      "title_ko": "일본 닛케이 주가 평균 0.56% 상승",
-      "url": "https://t.me/firstsquaw/193755",
-      "ts": 1794975967
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "特朗普：与伊朗的关系进展非常顺利。",
-      "title_ko": "트럼프: 이란과의 관계는 매우 잘 진행되고 있어",
-      "url": "https://wallstreetcn.com/livenews/3201692",
-      "ts": 1794975984
-    },
-    {
-      "source": "딜사이트",
-      "title_en": "포스코퓨처엠에 쏠린 머니…두둑한 수주 곳간, 실적 기대감",
-      "title_ko": "포스코퓨처엠에 쏠린 머니…두둑한 수주 곳간, 실적 기대감",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16Q2FRQ0R4am1mdGxrNWVwdXAzbjI3UlA5eWtPeUZyM3FRTTk0UGtyY0R5TVpWZ0ZtSm5lNFU1aGdqUlZmenZLVThfSHU0Q3M?oc=5",
-      "ts": 1794975988
-    },
-    {
-      "source": "Nikkei Asia",
-      "title_en": "Malaysia's Q3 GDP expands 5.5% on robust investment and exports",
-      "title_ko": "말레이시아 3분기 GDP는 견고한 투자와 수출로 인해 5.5% 증가",
-      "url": "https://asia.nikkei.com/economy/malaysia-s-q3-gdp-expands-5.5-on-robust-investment-and-exports",
-      "ts": 1794975992
-    },
     {
       "source": "Bloomberg",
       "title_en": "Malaysia Warns of Risks to AI Demand as Quarterly Growth Beats Initial Estimates",
@@ -11504,6 +11462,48 @@
       "title_ko": "중국, 美 AI GPU 대여·수출 통제에 \"단호한 대응\" 경고… 미중 무역 갈등 재점화 시사",
       "url": "https://www.tomshardware.com/pc-components/gpus/china-threatens-countermeasures-on-the-face-of-new-ai-gpu-rental-and-export-restrictions-beijing-threatens-retaliation-ahead-of-thursdays-xi-jinping-meeting-sino-american-trade-war-may-be-renewed-for-a-new-season",
       "ts": 1794999769
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Nvidia's fiscal 2028 supply commitments more than double to US$203 billion",
+      "title_ko": "엔비디아, 2028 회계연도 공급 약정 2,030억 달러로 2배 이상 급증",
+      "url": "https://www.digitimes.com/news/a20261118VL226/nvidia-hbm-memory-2028.html",
+      "ts": 1794999792
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "VICTORY OILFIELD TECH INC by Victory Oilfield Tech, Inc. Earnings & Forecasts",
+      "title_ko": "빅토리 오일필드 테크, 실적 및 전망 발표",
+      "url": "https://www.benzinga.com/quote/VYEY/earnings-forecasts",
+      "ts": 1794999795
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Ecovyst names interim CEO, reaffirms 2026 guidance",
+      "title_ko": "에코비스트, 임시 CEO 선임 및 2026년 가이드라인 재확인",
+      "url": "https://www.streetinsider.com/Corporate+News/Ecovyst+names+interim+CEO%2C+reaffirms+2026+guidance/27366119.html",
+      "ts": 1794999798
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Global-e Continues GMV, Revenue and Profit Growth in the Third Quarter of 2026; Raises Outlook for the Year",
+      "title_ko": "Global-e, 2026년 3분기 GMV·매출·이익 성장세 지속… 연간 가이드라인 상향",
+      "url": "https://www.streetinsider.com/Globe+Newswire/Global-e+Continues+GMV%2C+Revenue+and+Profit+Growth+in+the+Third+Quarter+of+2026%3B+Raises+Outlook+for+the+Year/27366130.html",
+      "ts": 1794999922
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "카카오게임즈 ‘도깨비의세계’, 양대 앱마켓 매출 1위 기록…대한민국 게임대상 '우수상'",
+      "title_ko": "카카오게임즈 ‘도깨비의세계’, 양대 앱마켓 매출 1위 기록…대한민국 게임대상 '우수상'",
+      "url": "https://zdnet.co.kr/view/?no=20261118200343",
+      "ts": 1794999926
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Global-e Online posts Q3 revenue up 42%, raises full-year outlook",
+      "title_ko": "글로벌-이 온라인, 3분기 매출 42% 급증… 연간 가이드라인 상향",
+      "url": "https://www.streetinsider.com/Corporate+News/Global-e+Online+posts+Q3+revenue+up+42%25%2C+raises+full-year+outlook/27366242.html",
+      "ts": 1794999929
     }
   ]
 }
