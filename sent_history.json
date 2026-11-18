@@ -1,13 +1,6 @@
 {
-  "updated_at": 1794962659,
+  "updated_at": 1794962819,
   "id_hashes": [
-    "34aea7f953794aec3b45405ec34c8fd677099fcc2e7c06dbfdb27a14fa07a79f",
-    "cfb41d1f5028c422debeb8bf344c3baa669eac9b8291b5e9af5b6ceed39a2b95",
-    "019a4501f562ebc03bdcdf5be6c6b6ff8895f18bf98866a2548030e66699711c",
-    "b6c248c32f75df7f06f7d690b1e4d237a923693c565820e8f1ea900142eb517b",
-    "bd2f37f5ff68d8e9253853a62405032c645d7ea525464a552a9f68ce58c31f75",
-    "71f33dd5ea48b5375b6eeb0e27e828c5229e0869b2227526f66a06b29148a109",
-    "262a06b841f87326e030ca9a4aef421b2ade7003e1260d53892698086e3b9e02",
     "69c79ca3c1ae719de17f91db4d70d91a2b64309138932e294baadbae051bcdb5",
     "fc1b6e966e5f1e621b132116a36f01f8763e53007d33252b892a21b21b679191",
     "a64c55617b7323d4689bffc51d9b77508864fd701701774821a44d921dd6766a",
@@ -4000,15 +3993,16 @@
     "ff16a15039c73ba77bcb40d81638a9a1d2de9082af7f50cb8e5e5fc063fe4c6d",
     "59dff70696d5cdab9804bfa665083e57d0210fd125014758bfe1e9ddfaad6c88",
     "f3039850a294d44e0311cefe75945b0e1d89896dbe907aa4b627922b57e94e07",
-    "602470db7f4a5fedfdbe9e0301172deb139e42affea047bf40717e20912c3e98"
+    "602470db7f4a5fedfdbe9e0301172deb139e42affea047bf40717e20912c3e98",
+    "eeb960e831955a286dc017791ffe3dca7b448998824e89e77d29e191d8362f25",
+    "a0dd874219a07c84e8c4fcb932fc23bdbb73a7bf7c2ef5095a6b30425056d3d3",
+    "44aa011c81e201f9f712d298d08d2df87a5149cf4fef810d8c3040abe55a234c",
+    "ad3a2ebcf7bb56c603fd742d4aed70a32ea9449549f573279316f819b5242d7e",
+    "b2fdabb146411dd8268742586047d164b543f1a2b62037597e4213c22ff47b24",
+    "c45884c7e654109a7ed28fee0b356d7f7c680f4451d85992e361771c8081720e",
+    "7c094c072af4063c60e828456b8de9367165d92894fe51ec051feb5a76cdcae2"
   ],
   "title_hashes": [
-    "fbf19145e5c93faf502451420017db0ee19627bf718527caf7ec3ed97c7aaa22",
-    "a7872b1c5e6442d46422349b1b0988cc2feec929b23aaae05680d30528a9da5e",
-    "cbeabd12b3a83778166d70e64591b628065f7af61a2dd0f5641022c14e28b72b",
-    "e416aa83c712923366141f26d2775e356f5539c4ec8aee4ea0a667d0f9ee0684",
-    "35ed74e4870f1a6e31aeb5b33ed265007037c9d22ab7bdae19ebfe0bca9aa94d",
-    "4d08f07c56513d5ab29597fd6097ed1cdb4119c4920555cf71b21ca2a32bcb12",
     "26ed6701da4b287adf300392ddc8805b14ba58c47869dfc6b2fde0fc23354d65",
     "3e92885166ec1b2a71902f9c5a6271cda42d44f658b71b41d981e2e2280bc5bb",
     "c2f54477c234593202cc398e89073c4ff6a59a5914e64af8bf8152d8b9290acb",
@@ -8002,23 +7996,15 @@
     "5bafea61157c545d635a6bda363af91c676f49ff1a5c399e8b145b9e59068b7a",
     "c00269bfd0b1c02187225fbe46c86866b305dd632150688d7cf1d22ea961484a",
     "a205e1af6abc99962153eba305d4de71bf0cc7bb139b3cbf1e4a9f69c7cf643a",
-    "11ade92813b4d0b94683066c25cb1c4935f713300ce28410a89eef416e3ac5d6"
+    "11ade92813b4d0b94683066c25cb1c4935f713300ce28410a89eef416e3ac5d6",
+    "de552643c24f5e0624163633982b91905dfcf74d395d17f6c91237d6491945b3",
+    "618e89fa4f26f9ac9794ed621f3ca7081b35da6d917d43ac51a72f2180f035cd",
+    "9b419160cf10926c3155147eb2fcca33a477d4024303772a15f0339671d63c43",
+    "3c73eb165216945dcb2d2424a5904f34e3b9ef2fbc54aa04ea3c973f2f32d3e5",
+    "5e7e592e6628cdd255d064ebf9642f6c09bcabea8d50ae89e4394652ca1ddb6d",
+    "6025e491168a695970b7508b74aa3ddd3bbc9e50709b55c7cd14098ebdbf489c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Microsoft: Voice AI MAI Realtime 1 outperforms GPT Realtime 2.1 on public benchmarks and Microsoft product evaluations. $MSFT",
-      "title_ko": "Microsoft: Voice AI MAI Realtime 1은 공개 벤치마크 및 Microsoft 제품 평가에서 GPT Realtime 2.1보다 성능이 뛰어납니다. $MSFT",
-      "url": "https://t.me/breakingmarketnews/178395",
-      "ts": 1794941286
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "MICROSOFT SAYS IT IS LAUNCHING MAI CODE 2 AND MAI CODE 2 FLASH ON GITHUB COPILOT, WITH MAI CODE 2 FLASH IN LIMITED ACCESS PREVIEW IN FOUNDRY, ADDING THAT IN AT&T TESTING MAI CODE 2 FLASH OUTPERFORMED GPT 6.1 SOL WHILE BEING 50X CHEAPER",
-      "title_ko": "MICROSOFT는 GITHUB COPILOT에서 MAI CODE 2 및 MAI CODE 2 플래시를 출시할 예정이며 MAI CODE 2 플래시는 파운드리에서 제한된 액세스 미리보기로 제공하며 AT&T 테스트에서는 MAI CODE 2 플래시가 GPT 6.1 SOL보다 50배 저렴하면서도 성능이 더 좋다고 덧붙였습니다",
-      "url": "https://t.me/firstsquaw/193565",
-      "ts": 1794941294
-    },
     {
       "source": "FirstSquawk",
       "title_en": "MICROSOFT SAYS IT IS LAUNCHING MAI IMAGE 2.7 ON FOUNDRY PUBLIC PREVIEW, MAI PLAYGROUND, OPENROUTER, GENSPARK AND VERCEL, AND IS ANNOUNCING MAI CYBER 2 FLASH AT IGNITE, COMING SOON TO MICROSOFT SECURITY PRODUCTS",
@@ -11504,6 +11490,20 @@
       "title_ko": "엔비디아 ‘깜짝실적’에 삼전닉스 상승…하루 만에 장중 5100선 탈환",
       "url": "https://stock.mk.co.kr/news/view/1201326",
       "ts": 1794962537
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "[특징주] 엔비디아 호실적에 두산 급등…12% 상승",
+      "title_ko": "[특징주] 엔비디아 호실적에 두산 급등…12% 상승",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/11/18/NBTFFTKJ3BGWPKRMJNAFO5RBGU/",
+      "ts": 1794962752
+    },
+    {
+      "source": "MarketWatch",
+      "title_en": "Only two ‘Magnificent 7’ stocks have beaten the S&P 500 since the start of 2025",
+      "title_ko": "2025년 초 이후 S&P 500을 앞지른 '매그니피센트 7' 주식은 단 두 개뿐이었습니다",
+      "url": "https://www.marketwatch.com/bulletins/redirect/go?g=fb4cc44d-be14-40ae-a38c-3f28b9db3da8&mod=mw_rss_bulletins",
+      "ts": 1794962818
     }
   ]
 }
