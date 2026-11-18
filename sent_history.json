@@ -1,21 +1,6 @@
 {
-  "updated_at": 1794963582,
+  "updated_at": 1794963739,
   "id_hashes": [
-    "6d1c8e1acaa3049f36b9007f78cac2689a1be842f344b20a3fa30ab03c059a71",
-    "3d0476723f37744705fe889cfc40adfcdfb04d40cbb75492064a2726c2585c29",
-    "80e430ef95c399caa1f3e3348198421f95ab06e098dfb99294974b1877093a7a",
-    "9c11baa3ab5147e7cd312cf29684890814ff1f464648df14dbf608830b5c3c33",
-    "b18ae24e649890c0d9db63e7aee240724121823011799862f45a0a4c9fc7fa13",
-    "e95724c8f189bfebc6e903eb433e6c220bcab700cf79eda5abb55741b38c0516",
-    "c445e1aad37a3e45f36903e024eb8e2d7f775acc240434525c6d975ce4241e6c",
-    "bb675f8ea7d5be5ad7f10f21e5b6fd22dc8328577dd1dec1104ea3b0964f8318",
-    "c0cd009d3249d8791b8059d0d086fa48091fb8de4ce5c76121e77daa02be9aa6",
-    "7658d087d466b1626fe366a7535bbdbe4a89c6eb9afd7bcf1396da8986930da9",
-    "e63852faa3ba4d0cbbde65433f52f5a61270c7901a1c6886911947bee90114ce",
-    "242bbb58c53993278241da7e65f069b35a1f66808d7bb737f671399b5086e050",
-    "583dbed7e4b3cdc0ded6d1b3be990d152746562efe67a835bd533f3bdcf41f28",
-    "c6372b9767822105b9cd49fc03509d76011f0e7524fe74a03f9f098d5dbeaa63",
-    "289b1d10db1d62bce6b57057fb613edb2a4e85078114e8b36a2936ec38402b7d",
     "beaa049655b0635ec439d5ea0b670f6f526807dba98f6496adf216cbbcab8f2e",
     "f02f60ba9e863acb50bb2d14cdb85fed881495a5957b614f36fdbb92f387df0a",
     "c0366224985e43582d9b29ea39c7d29d48d54d0b65ea26a84b735783c9e83f9b",
@@ -4000,20 +3985,24 @@
     "2449e9c2c98438d356e85765df865c128d2c6fd6817c02b4b6366051e3264f70",
     "dbcd4d6f13fafd99c6ae7e816f357687e6bd4ef16cfe65417b54c4488512c555",
     "cfefdba7ed52f137bf0eb5bb568b72bab3a079372e7c9c20ad53e00b768e2f2b",
-    "af3e6d5aef8b3087418743b284bfcb95650c47991d84531b735142b758821de3"
+    "af3e6d5aef8b3087418743b284bfcb95650c47991d84531b735142b758821de3",
+    "0c5cb6c5b15047c14878546348c1fdecc8a1c8185056998134bb018fd12a94cd",
+    "def699e722decd0b30876af47257db3038e62cb0788e2ba8760934d4c1bf4f10",
+    "b710a9c83e60ed3b14a3062efb1bcb1fb20bb0581fe90fdb36e6c1520acd6cae",
+    "c56b063232e81231184958d8814f8fa9285bcb31ab9665a834ec4e9118e3a48c",
+    "61745ac49e5cf69591ee6941f2229c1d4cf569f567d3466ebad559edaa18d31c",
+    "ff3b5586d42e5d6490e2f96618b18cd211719a420559c2b4840449bdd8f4280e",
+    "8fa09da30c091ad3eccd68c46ec62562236b6683d75747f63f4e592ef26f7090",
+    "10f999d90d71ca01157d69a9fd239ffce0b705ccc6241bbcb72605725bb7fb78",
+    "b20aced6f63e9b2ac6544cb229b9e33daf53acd34e97ae372047e19511fe0967",
+    "2606be7c815fe423554df771d976f66fafa9300fd73d6c2ff1831e863bb70a6b",
+    "8f19790d7d11f6a1f580a16ecbfc089abe2a26dc788c38178cf9771a01309b01",
+    "fc0b233f403057f219c737a2070a338098bcf918a6351f6fdfd17e773c4a8220",
+    "f6987cbe097d93400a67f399ed04a117b1a4e0b891443f4f851a2963d314e8ca",
+    "23abeeaeb3575fc3a7f3792a43bddf1fefe4c4a72cad25987e10e042f98b2e88",
+    "cd3ac8504ed7602d9976f019326482e41627cf865125a1498f53b0732fae8a1c"
   ],
   "title_hashes": [
-    "97d28c78c2eacff3f9b4757a73b74f9508ba70eccdf5736b2c766bef2a06cc1e",
-    "8465d724989ad9a925bdb5acc52c14c887016961548b118861b8c04a1629f881",
-    "0e45fd47e4cbbc2322108ca20417efdeb9a5595b16b1b73860e2dc31337b1734",
-    "66a865c3af27beb205323e696f88e385bd2db4b66cd31c2e639b990d730bcdbd",
-    "a7f006295f47727b493a914f614ee717fd386d20d079dddab2793de7faefff6f",
-    "628b617ca187c47f499253ad908e247bdd1bed9579a867cfeefbfc7645fab9d2",
-    "60e9fdddc8e29eea3b1fb5b8688b321c0116eb3af0597f2b4baeac6db5e3312f",
-    "cb93d0967d2ca2dcd8005454ca38c403dd3ce20b642d0764258da72fc8664049",
-    "462bf63106cecbf5c638b2dba8b0f2eee0a9d4b1088e83b0de0882deac054bed",
-    "1ddb0bc1d47498c4a2c0c7a8a963dc89f29d74d078e1b03ff72c7d24b52ca8c3",
-    "1f533567a308c9ac746c71edd9f5e02cf0939dd960872337f934b65cb4ca194e",
     "4c2295ce6991a5b43f3528aa1b3e8b0fcb71586d2d3b2d6f425990d056e38696",
     "a45904b8664baf260faaf92ae33efdded3b412af78cea396a06f502fcbafd469",
     "cc9cca646e2f8004c667e0485c34bb0cc3d141a0ad00fa84ea6e7f747e182cb5",
@@ -8002,30 +7991,20 @@
     "160082b9e2337fe9f4fedb5c1bc1eb9006e9910cd1dd5b8fb5be6f3be5ef141a",
     "e8f52e428adc7e4b3c56426df3f0635d280af42abdbe297ff174081374dd8258",
     "5423849a4c6a5795d6660dd36fccd92810199a460a58474a0a6a92eabd486100",
-    "e46c327c707701f5e88355bf6609d85a5f987c28552eddee2040a64ecad7e7b8"
+    "e46c327c707701f5e88355bf6609d85a5f987c28552eddee2040a64ecad7e7b8",
+    "c1840c37f0e9df97831259848e00a5a76aac08c9e04fd8f0c90ac8aaa95a9c92",
+    "20deabc60d69a97c16e3e841a104ec49f3f13a5108a90d44d1b3a904b48d68dd",
+    "0ce0342749a5c3896b8110862c1f5969f3f52943a387fb3582b1af109a63eca1",
+    "4b9f6d22668270b6cfe52a3c3a23115dd312142e2736dabb816703b874ae60e3",
+    "579057866c30ddfacc58eb1dabe72ace28776579beed98aca999cb3f1dd041e4",
+    "21b4d64cc733e59bff019ba86d54d6c5e6f9d0c86c831f47908a15f0f580e4bb",
+    "276e16c494fe818bcb5ededfdc051d9cc9cff286fc2a33e87516c1a9a4bd5583",
+    "a843ae25824760f142bc3d8d502742ce34fc47e7e4fb8e1dd6ed3458945b61a3",
+    "f91aee967b1c21ab0a19e7676ef35718f9f24022fc0495bb3ab19ce115b69b39",
+    "a61eebf682eee8752968f520a436ca7b54b48850ede0f4ea5e2590dfe03b3431",
+    "35ee26670076a67d71cca8a32871003d19149353bd18dc2aef147b9035f782f9"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "Meta's CEO Zuckerberg: Muse Wonder, Muse Spark 1.3, and Muse Ember are coming soon. $META",
-      "title_ko": "메타 CEO 저커버그 \"뮤즈 원더·뮤즈 스파크 1.3·뮤즈 앰버 곧 출시\" $META",
-      "url": "https://www.financialjuice.com/News/9856276/Metas-CEO-Zuckerberg-Muse-Wonder-Muse-Spark-13-and-Muse-Ember-are-coming-soon-META.aspx?xy=rss",
-      "ts": 1794941331
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "JUST IN: 🇺🇸 PENTAGON FAILS 9TH CONSECUTIVE FINANCIAL AUDIT, UNABLE TO FULLY VERIFY OVER $2 TRILLION IN ASSETS.",
-      "title_ko": "美 국방부, 9년 연속 회계감사 탈락… 2조 달러 이상 자산 검증 실패",
-      "url": "https://t.me/marketfeed/1079886",
-      "ts": 1794941334
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Huang to Brief Congress on Affair After Nvidia Ouster",
-      "title_ko": "엔비디아 퇴출 후 황 CEO, 의회에 관련 사안 브리핑 예정",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-17/huang-to-brief-congress-on-affair-after-nvidia-ouster-video",
-      "ts": 1794941336
-    },
     {
       "source": "Reuters",
       "title_en": "Pentagon's Colby warns NATO allies against shutting US firms out of arms deals",
@@ -11504,6 +11483,27 @@
       "title_ko": "'공공입찰 검색부터 경쟁사 수주 분석까지' 씨에스리, 비드버드 출시",
       "url": "https://www.etnews.com/20261118000087",
       "ts": 1794963581
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "台湾证交所加权股价指数上涨1.6%至40,720.09点。台积电上涨1.8%。",
+      "title_ko": "대만증권거래소 가중주가지수는 1.6% 상승한 40,720.09포인트를 기록했다. 대만 반도체 제조업은 1.8% 상승했다",
+      "url": "https://wallstreetcn.com/livenews/3201615",
+      "ts": 1794963676
+    },
+    {
+      "source": "매일경제",
+      "title_en": "엔비디아 깜짝 실적에 반도체 반등 … 이제 공은 앤트로픽으로",
+      "title_ko": "엔비디아 깜짝 실적에 반도체 반등 … 이제 공은 앤트로픽으로",
+      "url": "https://www.mk.co.kr/news/stock/12212141",
+      "ts": 1794963732
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Bahrain’s defense force: Iran persists in systematic hostile approach with attacks targeting the kingdom",
+      "title_ko": "바레인 국방군: 이란은 왕국을 겨냥한 공격으로 체계적인 적대적 접근 방식을 지속하고 있어",
+      "url": "https://www.financialjuice.com/News/9856793/Bahrains-defense-force-Iran-persists-in-systematic-hostile-approach-with-attacks-targeting-the-kingdom.aspx?xy=rss",
+      "ts": 1794963735
     }
   ]
 }
