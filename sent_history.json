@@ -1,25 +1,6 @@
 {
-  "updated_at": 1794965771,
+  "updated_at": 1794965927,
   "id_hashes": [
-    "1bd25ee04c7b72f1c83fbec9eb438ea9378ea3addcaab4043cf5f8f23f4307cf",
-    "47a7cd7a8dda2d3f4dea6b7d9f4d9675ea737ca71c256cbb1cddd448c24ce4b3",
-    "c642c4338e58f4def46d0567e75d47414f5086e18d54e9613d5cc377a6352400",
-    "d41aaf02f2ed2c106bd8f1c238b1e08ff9039fe5f130d33b0d5a6288b39ca6d0",
-    "2a5f937c274fb80139dc1678d845faf709afd2308e0d1477a2c028f7d6c7d7c0",
-    "8cc7e8329d10af07b3e1e254074f760cdbdd85480785d73b5dd11efd4f6055e6",
-    "97e54029ded3aebe029e67783370c35c2b22cf2faaa9e7ab768c36cb62cc2dd3",
-    "2b3a3f2e3abb73ea68ced419fea3eb57e173b503651a8fbcbf7a073aa0b6530f",
-    "10dfa016a758e98bdb82fa38cd00b5555da70d24fa70fdb305621654a59da4bf",
-    "253a3f66db44276ed229a898d5eb1ce8009b860110c81874d623ec41db52e2f9",
-    "4c4edb493f2d2b843e5883475f769dd4dabd585e19fda4869fbce2c10d67a644",
-    "214ab7c70a63d080d3dd057f4c5f2ed229520a83e2eb5a92beda07fa7d7d482f",
-    "fd2d5337a6dfad5e4b9a4339949cf1f64fd9e842c172903b476db7622c50441c",
-    "6b2f13cb0579ae01143e312e7248faa8bc860b2a1b0137d2e573553d5069bd2a",
-    "4e2c9baecd9c35f73c09ffb5cda58b3c6d507fd4d8357596fdb15f00669388f8",
-    "742b6876f31474affe4d60e364dc165880de8414b0734e856970516c10688907",
-    "34b649f4921130310eeed26bed29c84e50c3e0cbc6cdf3678a2aa5a3f3d87d6d",
-    "93edcf26c80f1dce454f04ed0cd3fbeaa8dc04cb94e6d5966164c4a69814ad93",
-    "b165f412fd8c217cd306d5b7f6d902a3cd346f909f5f6d076ae3b8c26ed4a5d7",
     "8653ba4282a6078fe44d5817e4901a0776a0a60dbdedda49d6bc8904dc37ca11",
     "9a7283bbbf68e013bb5f8746d132029582fbed1a1ae32b8d3451fd9f58d48cc7",
     "3e7f020f2c0de166e6f020d4f104d9e1604e350fd79a419083dbf931e7bcf1bb",
@@ -4000,22 +3981,28 @@
     "7f98bef799d31f487ffb1eb3f6054b5f472c36fda59ea249f94a5d84316bf1a9",
     "4ddd61bb80bcdc1a0cfb8f43e759a4c140f1802c0e7b0e1eea11bcfb2e6f61e8",
     "4b3b3f107d6bed2e95ab1c866cecf3577802bec566a512eaf0b451f2d0f3046c",
-    "ec5713e0cd8421349e1532f70c14310ed10fdfd94c4e8c93c9a8efdd3a44c1cc"
+    "ec5713e0cd8421349e1532f70c14310ed10fdfd94c4e8c93c9a8efdd3a44c1cc",
+    "623303634b8931fc1feb84cf41400d7e711ecf5c94c3e76ab42c78b7952c3652",
+    "d2336f5cd2d79bf95ef2bc2dee971c00476b78de64de502cc4623345dacf2f72",
+    "bacfbea8962036044ad8ed2d20a038a45fe40ce6693c48dc06bad89deda34fd0",
+    "2d4d963b5735a5d0414caec59f8ecd1e7880d6c86526f1b08d25142fc38bc599",
+    "5547e2d64f263e617b496c74b4a1b3c49f5bf495caf84544dbf4c119d023af0a",
+    "20f4a5de54bb5b09cb5750a80f72ced5e2b72872ff8f57355e79511091615309",
+    "0f24ce477c299202b89e270019d51105d0405f756fe1223938f88acf6e23b940",
+    "00737f4221ff322fe637b9f597833da1067c5fd1bcc8fe9b1d75b04052fdfd56",
+    "70cefae8daba6450aadadccc5865b3c0fe98f20ae720b268a7f9e234cd8240ef",
+    "1201c15a6b4f1745849fc522b631d2b9f74ea9791877aa37546dd9bfdc4f889f",
+    "90c53c1a0b023e0fffbf51a44219c649785e0fadf72c16151d71360550fefdb1",
+    "920a1c751caca29973f6b5571ab40de0b032d0da4a3de670e78d4844cce5512b",
+    "fa77f24bf39b063a895a43541cdc251c0b36eda16f7d3f6da798d852ceb2cf74",
+    "fd467ee9fadd5b1560d45edf2f8aa5d67ed3e32d3a538a3ca17ae25bf5b896fa",
+    "5a9cdc066158e341a4f91cd5231a1479d37bb7cbc4a3e06297fde57f2bd7e269",
+    "01dc8d523e441ba4db496e11d7f23ea0e64975e08e334e4144a90c3c87dce611",
+    "c25d2700e8baa8334ccf14cad02c0f8d411837f7f2bdbb33d29a4929045115cb",
+    "4953b92648edfd994f441145f08309138974e7659cd19d1d31ae96431a443961",
+    "cc48f4dd11619222239d01d11c51104a4a73c2c692edc839bbc7d012e60d6e73"
   ],
   "title_hashes": [
-    "5c953cb87f6831153ab6c998d1736b7145da3a5ebcbfb3a08a5f98363c11ff42",
-    "b50f049156d3839b35e0f6f09b6b6c3b89b5353c08f25bb25f67e35b794654cb",
-    "8947ba4994a4ddb0c482c4ed1bd24f14e0e9affe59faa9341495743e6231d5df",
-    "3fd9a45d81284cc1bd2c62dbed3b49a8978ea8f747dad7577b91f6c12d76134d",
-    "e503bc2741b5d3f216272de4591490746af48ffd7e49d222173cf60ff0c88b9c",
-    "14acd80e413adec18505641a571ee31137f3f7a2bfff0bd8df4930cc7ff3f65f",
-    "6c4a2113a3a7ef26649e9babadee6e29eddb2d9f5abd71d5a35834158301a727",
-    "1fd7c30d6305e3d31028394d3de81dd3f24a0f04e96e53e3b9989f2c3b4273c2",
-    "10cb9bdb253ca43139d9201980a7b46101ed637f632e1480680e29463b0153d1",
-    "4b3163421b5ab814565557634f8bb1f1ed74adf0406a4fa7b32620b79b14e280",
-    "b82a0044376a8b7f48c40bf40edd9a8100ed2cdb6512a0e927033dabee9eb02d",
-    "6e1c4673019e46f54cdb4b63b14f7987a8bc4ed17265c76213da7769e733e6d8",
-    "76d07232db9a2f3040960336e3e5e91aa2a1814e9a920b9ab40a0a67e1edb695",
     "048c1b21e406d5641d2c0498741f84afe762ec5e9f2435c9ced6147e64671c94",
     "32db52601294f150a98e57f398b4cdd67a04ea478a19350e56c1580df9e24b58",
     "135fe9392d8e3ad214f3a78f9e34c2e386e8e48a65d22ebbf695e6de561bbfd2",
@@ -8002,30 +7989,22 @@
     "c552aec5c34f334fe064cac5ddd728085bb42e8b2282c4c44de569248be0952e",
     "20418eb302286c6b3c522dcb152ae73b2182440d4933bb5381f34c99d8216401",
     "281b392b9d3bffbea8d9d778f6c7680773c876eef395e6bef977837559b8b006",
-    "d65c1637553cdf4814921f8751d72cb0b065519fdce1f345e499ee338a895852"
+    "d65c1637553cdf4814921f8751d72cb0b065519fdce1f345e499ee338a895852",
+    "f8ef386e4c43599004144c80384a114e1b28bf460cc31872098eb7c8f6c6a1fd",
+    "d34c68aece6de498ea9a9fbe9cce635e94c137c8603cc4fb21fcd581b56f0221",
+    "a17e3cb066c03f274b06a3457a2ea62f3744e1056e93bdbdad39f3a102fd8b4e",
+    "6098258496d9b580468f7fcc77692217b7cf40f1e417f9923397960c7996e05a",
+    "311158963f5aad4053106c1d7530670ea389a62f8677ad799245866d4e717cf3",
+    "ee8d12be4176fa50e3a4c20ed145ab965eb8d5b26f738668229a540b785c55fe",
+    "f9a27e2c189379cf408c9d2aa9b85dad3b55720c06ea5a63004ec7083cf779c2",
+    "c1501bd6ace35f15df589b1b8933217f8b2e333d1e5701c66bf47c2501cfa68c",
+    "ea0aa8a1c31c640b0eeb912e7e30950cc1e7658b6a0808013ee49390dbd5d767",
+    "6303a9a1b4977a9127fc58b03a741193f51bab3273d00b950e528a7a6def99f3",
+    "23710733fe72d84f741ec616892205d94826c5da1d373c016219f1b19546e713",
+    "ad88414ef5d35953ce65b75d8ff9ed4d30c3f7f9c63c3f5ed9d859e5f11d5561",
+    "4f6ac7d66ca7494f0ef78497e0ec2a155e1a8dc631a5d7100bcad854fb39a20b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "NIKE EXEC SAYS THE COMPANY EXPECTS GREATER CHINA REVENUE TO BE ROUGHLY FLAT FROM FY27 TO FY31, AND THAT 2028 WILL BE “A CHALLENGING YEAR FINANCIALLY,” WITH ADJUSTED EARNINGS PER SHARE EXPECTED TO DECLINE MODESTLY IN FISCAL 2028 FROM FISCAL 2027 LEVELS",
-      "title_ko": "나이키 임원, \"",
-      "url": "https://t.me/marketfeed/1079897",
-      "ts": 1794942607
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "SALESFORCE SETS MONTHLY AI TOKEN BUDGETS BY EMPLOYEE ROLE - BUSINESS INSIDER",
-      "title_ko": "세일즈포스, 임직원 직무별 월간 AI 토큰 예산 설정 도입",
-      "url": "https://t.me/marketfeed/1079899",
-      "ts": 1794942659
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Jensen Huang Signals He’s Ready for Nvidia Comeback",
-      "title_ko": "젠슨 황 \"엔비디아 반등 준비 완료\" 시사",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-17/bloomberg-tech-11-17-2026-video",
-      "ts": 1794942727
-    },
     {
       "source": "WalterBloomberg",
       "title_en": "NSA: NATIONAL SECURITY AGENCY EXPERIENCED TEMPORARY DEGRADATION DURING SCHEDULED ROUTINE MAINTENANCE",
@@ -11504,6 +11483,27 @@
       "title_ko": "다운디텍터: 사용자는 Amazon 서비스에 대한 문제를 보고합니다",
       "url": "https://wallstreetcn.com/livenews/3201634",
       "ts": 1794965770
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Ueda flags risk of higher long-term rates if the central bank's bond purchases are viewed as backing government fiscal measures.",
+      "title_ko": "우에다는 중앙은행의 채권 매입이 정부 재정 조치를 뒷받침하는 것으로 간주될 경우 장기 금리가 높아질 위험이 있다고 지적",
+      "url": "https://t.me/firstsquaw/193694",
+      "ts": 1794965797
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Malaysia Seeks Details From Anthropic Over AI Influence Campaign",
+      "title_ko": "말레이시아, AI 영향 캠페인에 대한 인류학의 세부 사항 모색",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/malaysia-seeks-details-from-anthropic-over-ai-influence-campaign",
+      "ts": 1794965921
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Beijing warns Washington of retaliation over new curbs targeting AI chips",
+      "title_ko": "베이징, 미국에 AI 칩 겨냥한 새로운 규제에 대한 보복 경고",
+      "url": "https://t.me/firstsquaw/193696",
+      "ts": 1794965925
     }
   ]
 }
