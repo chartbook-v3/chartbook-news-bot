@@ -1,25 +1,6 @@
 {
-  "updated_at": 1794988108,
+  "updated_at": 1794988260,
   "id_hashes": [
-    "8ef8285d30d2316eadee881c304def32e37f1efd2abe631df8eb4b54cb6d5f4b",
-    "6a9faac38f099513622157fc88ddb98ede1cd7f34139cea6849314c479fde515",
-    "2747da43d313fadfce1108a53796505ce7ec4dbad9e3b3ed988d822da8eb0673",
-    "56cedfd57e925ae30b0899059202a9987a9cabfa392d9b73880e024d15aa8693",
-    "641aca7b704466269211b59ab35da55d95e1db24c56f605065709096c502efb7",
-    "85fedf79b29ce6c528239a6bab9a9fa96daf7e415d661da14f688f70394443e3",
-    "bdb545e83d1f375a4c3ce7bbd5a5e574d396224ac8757ac81c33b70437118c40",
-    "86d8a74fd3abaada8113767c486f056acac5802004a6ae18de8baefee91d9250",
-    "315000eafac1ee26b89d46c69577a30d85094618b8b677bd3124b565a79ed21f",
-    "7bd8da98e2afae6446da0eb026138c2a1a1db121a959daaaa2755984ab15a3e3",
-    "9db2ca9496e3f16090326190c309054c1ab96978c6a196371b94fde260451beb",
-    "806c9c4b174f0332ac75f7f3e1fa4917eda030571afc31a96649c273ebe313e4",
-    "9144ebf973914ebe09f2a2a8e14767b5aa272cf50ff2ff19421b28b029052e5d",
-    "b5eeb968a0ad8ecf5d4fb254dc70accf5255d52b8494f77fcdf593757c67d3f7",
-    "827ba13ac9b8901358ff2cc9e551fc76794b596c8b62f6276561393e9e809465",
-    "72fa17cd5db55531b90839f9a84a51b81f907afbd50392de72f6136bf2829faa",
-    "4371af7c2ab00aa72ca02fa2f17a062b094893178fde1e7e9c15e05459a04d71",
-    "2adffb3dd4d85bb64218567ee063d8acf6656ac424632be64750b5d08aab69cd",
-    "a447d122a94ce29ccd0d765ad779b35accc62d3e766fec4677d56f3a341ed116",
     "c701a60d23204327f7d70a2b572bad043c590fdec4144a02049b4754bf4704a7",
     "cb894225f684995b0f94a6ef4ae83de3f1d616a29718a6cf2c703164fe78301f",
     "b4f5314967959367b8038b231101affd3a2c7d01e7bb2264f44ac587116c84d2",
@@ -4000,22 +3981,28 @@
     "1d3da97ef14e9b77dd0de5eee822dd2b4bfcf154a7ff7d8385e34ac4a5ca2dbe",
     "2a2f442c836a0737675ca188441740ead99d9152c89ac95b28d965de7f1678c7",
     "0d1e7332e9d6fc296ba55e615941d8d3efdb1470a8cfbf75ec8d22ba59505078",
-    "ab469a6bd41c15238086e0fe1565f738f78bb6678cfefb182232b785f6298aea"
+    "ab469a6bd41c15238086e0fe1565f738f78bb6678cfefb182232b785f6298aea",
+    "d9c5c4ede47c1c6f8e332b40674e089b839c849f097b836267c0dd5d8375fda7",
+    "e4b77b65551ffb6554b9a72ac23180ad2b12346838842c6d8e803d6c9ef609cf",
+    "de1547fac9baaf44b3ef5efb08d34b4005b2e1dc6390f79dadb7301e63c05bb6",
+    "5e865701cea32b04d4bac4ac9f26aeec0d849338f70f18a2afa141e02b8e5ca3",
+    "c6d27d47c957facb139a1962d80d63a612a14525d7f58e3e8b4e6bd0e56edec3",
+    "c105288d99f844b4a5fae2bfb41d4ad89a64b9a5677bf98ce8f6cf1af0268c78",
+    "43c53827c71cf9c1f740d12df826706ab4d983dcd448a0c3e49a6cd867de8f39",
+    "bfc5c39ce72f9af5fc818e462705264219d732fad841e93ac1e28cac3726dca3",
+    "d1a65f335f87e1c48c87c9c6a52a9b45078e76cc779f28d30023a6100f93b66a",
+    "196126625f384f41acfb4d5a2fb02613123c4d1f263fc8750f0b05836dad479c",
+    "99c79ac2fc0402a29256af5f416b4c7fb7e4bbe0ca85c4b4f964198ad70969f9",
+    "37768dbf6c2a6be1937916309aefdb47a811848d857123241ac5fe65e647b8ec",
+    "89650f175e6c07cdfb2db71e90abc8b8f501c31fb9d0acae1afdc6ff9fe051e8",
+    "29e1b7fe81243809722dfcf3e1c355edd63028a920e36dde8cb2a38fbecffcd5",
+    "7323aaf672b52c455d54faeb593ef5aa9f02a40f84fa3913aa48fa49abc6cdfd",
+    "7d7e6952a4328a171c50e1410b295bbb2418d8d2b49a8e6ce8af3a4a46f32e0d",
+    "9242258019bf652e064454770e9666989c07bda64dcd9515e4966554a40d6e9f",
+    "afda9596376d7b1ee3dad5430ab2f459e235c23e75c0bb1c41e94a68361d7c6e",
+    "d4970500cdc0a3ca02270e724bed15906bb3ef76f1bb4d0dd29b3ff648d07827"
   ],
   "title_hashes": [
-    "fe231de230d7d696c11d05999c8079a09c28cde2861744abd3b557dbb6cd6ab0",
-    "dabb332c8fd1609412b4137bfda98613c81f4fba4c37500e9b67bc914c29c1a8",
-    "3864a02da83fb8419011a851d990337b4b51c5e162f8bd6816380868760d9293",
-    "f7ddb74a5e2725b08c5a3ff42191ef69381cc4204d55a8310a8b19b52f75e541",
-    "0ee172d43e8475086fcb52af756184256b75f6f92cf6c43a672ec6f41fa7134b",
-    "5ebee24757560835149a07f9e56a7438517a8fd4df1b810197e5a486977c5426",
-    "c814b8d7b638a81aacba699d979275c964d53b19f9ba43d794224607b46e8ff7",
-    "09112600ed76b834fd6637fd4a065c4b0850e28efbf95ed1d3621d722efca547",
-    "1e28c36c7d858355113e7bcafae23030d0da26faac7db9c03736e3638d8b7ae2",
-    "d867139c43871a61871ea51d8e368d8b008d6ca9b5af7e4ac65010b5c23fa546",
-    "70d9fdfc6c61e206ed00768ac9dee395c772d9e9fe39dd3a622efffc448c9947",
-    "0c56af80ab0495c4cd4ef59899bc2002015e1aadcf9a1953f5d37203e89798f4",
-    "cb5013850bdbbd5bd9eaae4e4107059553ad809647cfb033ceb001fb88640677",
     "c0b4059c21531e4513712c064cf60ff828c218c78eca05605a59ec6aa5dddbd5",
     "36aaa4a35a6e2e406c751eac34cf567d08519e710d3da11a69343729bc27370b",
     "028686834b2da912942fb651567824204ceaa060cc94cbe397c3fbf024999a4b",
@@ -8002,30 +7989,22 @@
     "b2b8f14807e4bef471d48a87082b92a8659781b88e28f4553a49a100d13973ce",
     "ef351fc5685f9dc4f73837cd9a3018716d5d98d1c97181f34ad9e979a4370d2c",
     "f9ce8a414391ea124b832f9c12c311beb5826f316ee107e1bab90a85ac7b1ad1",
-    "fb620b2eaa884bbaa7154bbd95dd9be6c28a76367f3c03825f2987b3c2635126"
+    "fb620b2eaa884bbaa7154bbd95dd9be6c28a76367f3c03825f2987b3c2635126",
+    "7abc36cfc0870ea4f7eb4e5f2dbb3ad624f338a20be96da90d2637450c24e75f",
+    "267bfb3599cf67aff682e0e34a6ee505be2ba7be51cca931b0681867c3d80d44",
+    "59c4db0cb8c66144b2ef3e2ffee7f0c4d88441f43cdde615434ebe90a83c557d",
+    "94bacf10c24584901c0b8ba517c22cc63a9f0461848484f4bbba98753a62e915",
+    "972485a6bcefa018aa446f9cc6a5ed7d9d73fa9ecebc50221d29f1ebbbe649c7",
+    "2ae12cda503b3965842c9520fc48b407a16512e7b9aedfa48159152f1ebcd43f",
+    "f0f7b5f012ba28f240cc6cdbff6f70e5baafb074c917a34461ad52e06257f3dd",
+    "4ddfb3a78e2323c6cf7aaf3882809c9f3266866daf4fa39961be348d6d161f91",
+    "dca2d6e9591f598d8efc0723dc284ff1162821fd97855bfcbfee3d5761b2ede7",
+    "2b81a2908846462d1152c38973dbba5719553eaa186dc57cac77a859711fa3c4",
+    "ece1c1f1ca6af8e7c1f86ec85e31072720ecb64f750dc0e16b16601a3dc7d06a",
+    "692abeaa5befda21fd6e20c847bd5500039f941f17fa6313dc66c86970ff918a",
+    "e693ec48b9750383ee229aaa90bfcc755a08d14816ab44db837d17a7f5d3cf08"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Reuters",
-      "title_en": "Waymo pauses robotaxi rides on US freeways after California ban",
-      "title_ko": "웨이모, 캘리포니아주 금지 조치 여파로 미국 고속도로 로보택시 운행 중단",
-      "url": "https://www.reuters.com/business/autos-transportation/waymo-pauses-robotaxi-rides-us-freeways-after-california-ban-2026-11-18/",
-      "ts": 1794961604
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Nvidia Boosts Forecast, Quashes Huang’s Return",
-      "title_ko": "Nvidia는 예측을 강화하고 Huang의 복귀를 억제합니다",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-18/nvidia-boosts-forecast-quashes-huang-s-return-video",
-      "ts": 1794961606
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "엔비디아 실적에서 입증한 'AI 중앙은행'…\"오히려 존재감 강화\"",
-      "title_ko": "엔비디아 실적에서 입증한 'AI 중앙은행'…\"오히려 존재감 강화\"",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445285",
-      "ts": 1794961755
-    },
     {
       "source": "FinancialJuice",
       "title_en": "China PBOC likely to fix yuan midpoint at 6.6654 per dollar: Estimate",
@@ -11504,6 +11483,27 @@
       "title_ko": "국고채 금리 대체로 상승…3년물 연 3.736%",
       "url": "https://www.yna.co.kr/view/AKR20261118154500008",
       "ts": 1794988043
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "TRUMP SAYS MADE NEW AND DIFFERENT TRADE DEAL WITH THE PHILIPPINES.",
+      "title_ko": "트럼프는 필리핀과 새롭고 다른 무역 협정을 맺었다고 전해",
+      "url": "https://t.me/firstsquaw/193802",
+      "ts": 1794988128
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "TRUMP SAYS DEAL WILL BE GREAT FOR OUR FARMERS, THOSE IN ENERGY",
+      "title_ko": "트럼프 “이번 거래는 에너지 분야의 농민들에게 좋은 일이 될 것”",
+      "url": "https://t.me/firstsquaw/193804",
+      "ts": 1794988132
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "썸에이지, 115억원 유상증자…예주산업 등에 제3자배정",
+      "title_ko": "썸에이지, 115억원 유상증자…예주산업 등에 제3자배정",
+      "url": "https://www.yna.co.kr/view/AKR20261118155100008",
+      "ts": 1794988259
     }
   ]
 }
