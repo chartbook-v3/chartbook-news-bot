@@ -1,12 +1,6 @@
 {
-  "updated_at": 1794994809,
+  "updated_at": 1794994963,
   "id_hashes": [
-    "0002dc2776dfd8df20a53e493342724d570f49accb870452d6ce9edea9d04807",
-    "16945e6ebdaf04fbf3e9421ff044d82f5dda3ea890ee9a2ccd96c898c80c9a04",
-    "ccca7b71df3639276606c5f63ec4dd2a69f5d18267381b0946a12e36b766b12a",
-    "40670b64b603428c49990f04f55dad19047293ef3b17d8c02842a4efa58ecbd8",
-    "186999425cf86edda6689e7b345877ec5ebc4d2ced9a3a9123a51fb23a474668",
-    "39c8abbab82d5afda1144ee46b869fe1e1b4516baaa5825d407f9681ae727fbc",
     "fb9896dd6ef509096695b84d9ab9fc9cfa41402894241c52042237ca9fa4dd58",
     "ea3c404fc88eb446508bdd1c326ef66a06dc90eb28a68d8c8a9852e26779ef4c",
     "b0d867a3f182930c8d4c18d21f9a61bd4f362e6b165ee595149b6d121195d5ac",
@@ -4000,13 +3994,15 @@
     "f568418119578e16473cefaf1d63206ff98c2dba4aa0cfe83da28526bfca0a03",
     "a55c901f0f5e4a2bf8d5e42a560e77e5dccbc3b9023b3c11df4681b8a25859ee",
     "c16e1969cb8842d4ea8deb0bf3b632e3fea3525be58150d9de9b8b5b25b83f3f",
-    "af5308042a62e3fe62afe32b35e3e41c64156dc3ba1dd8f06fcaead7d9ec1e6b"
+    "af5308042a62e3fe62afe32b35e3e41c64156dc3ba1dd8f06fcaead7d9ec1e6b",
+    "e5069a62efa002669b2fbd14f5cb5e8585a61282e95409c546bb863b938b021d",
+    "01ff1039dc762fe52d1fbdfc789049a949fd4e7d46038c3653e7203c9b644e3a",
+    "25b15af35b6e748be4ac4dd5654d1c1c516a49a9ce096b59485e344653a2f0df",
+    "902c374e623c04e0d3e34f220b3999455039c679aae851a48c83a95dc713e656",
+    "75a7eb82d45e60609b475e5dc60a642763ca65899dd4f74f6f014c127145ba0c",
+    "97fc7f66fdf27f9ede035104c3b4c9c553e6b0be7a885130698a659adba217c2"
   ],
   "title_hashes": [
-    "e2c8c1bb2760e30df923596a52566538b0ea33d75a8cf0f1dbc27f8fedc23715",
-    "122739cd767445d13dde17dbce19cf65bfcff4b665057fe5222deedf0c8150c7",
-    "1c5b09f7cdb8747595734fbec5ac66a827661e2ab156390727be9747d8b751ff",
-    "167b8c5b39426f9731c4eada7aa0799aded01b5fcff7306a48f6f91301dbd19f",
     "440bbe903f9c9b4ecd772d1f6a33bc846b871ae458b95a1b5e084690163492c0",
     "a3ed68a8b31abe92203697b604a1d19b544383a2a7450441a05319653e744852",
     "0c349d35224588522c230ead19b212efeb1e0d5ea3a811865675050fbc51be51",
@@ -8002,23 +7998,13 @@
     "a3a7cf55ae8683c5a709976d1ec59ea2afb8d43804b89bcabd9fd72ed4d2b273",
     "9e007b8665da14b4f38f12d20eff5d71fcb20ae3db4f04227768067e9fcd44c7",
     "c5630c1612cd8bb859802fa372e69d69d0f6638e73cf6f1802c7ae797547dfbd",
-    "1d64c5c6409abbf9f866637e4234843bfb4e106af057a0b97a6871ac00ffa47c"
+    "1d64c5c6409abbf9f866637e4234843bfb4e106af057a0b97a6871ac00ffa47c",
+    "e648ad74d2c6bf36c806e1c7c5615e5bbfe1705a7f82af0817bcfc79cffbb9a2",
+    "b8d4d586d496f44763a1d656925296f69e17918b7c5c25ebb8feda2cbf433a33",
+    "ea482153a21ba1281b95131195101d1fe59b0d1c5aea448e5f4b36ec4dbc0b43",
+    "e80261a09d24487cd8aaeedd3f95316d596c803125026d9b20c2d8311d330a54"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합뉴스",
-      "title_en": "디즈니, 어닝 서프라이즈에도 허리띠 졸라매기…\"성장위한 투자\"",
-      "title_ko": "디즈니, 어닝 서프라이즈에도 허리띠 졸라매기…\"성장위한 투자\"",
-      "url": "https://www.yna.co.kr/view/AKR20261118068500075",
-      "ts": 1794970275
-    },
-    {
-      "source": "WSJ",
-      "title_en": "Resilient US growth outlook could provide further support for the dollar, setting the stage for gains against most global currencies",
-      "title_ko": "탄력적인 미국 성장 전망은 달러화에 대한 추가 지지를 제공하여 대부분의 글로벌 통화에 대한 상승의 발판을 마련할 수 있어",
-      "url": "https://t.me/firstsquaw/193718",
-      "ts": 1794970297
-    },
     {
       "source": "Nikkei Asia",
       "title_en": "APEC live: Day 2 starts as Trump, Takaichi and other leaders set to arrive",
@@ -11504,6 +11490,20 @@
       "title_ko": "매출 전년比 2배 신기록 세운 날…엔비디아 “순환금융 엄격히 심사” 예고",
       "url": "https://www.sedaily.com/article/20116137",
       "ts": 1794994808
+    },
+    {
+      "source": "전기신문",
+      "title_en": "양승조 수공 사장, 취임 후 첫 현장 행보로 ‘용인 반도체 클러스터’ 방문",
+      "title_ko": "양승조 수공 사장, 취임 후 첫 현장 행보로 ‘용인 반도체 클러스터’ 방문",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=374962",
+      "ts": 1794994959
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "UKMTO gets late report of incident 13NM North of Khasab, Oman. Tanker struck by projectile within the Strait of Hormuz.",
+      "title_ko": "영국 해사무역작전기구(UKMTO), 오만 카사브 북쪽 13해리 지점 피격 사건 접수… 호르무즈 해협서 유조선 피격",
+      "url": "https://www.financialjuice.com/News/9857513/UKMTO-gets-late-report-of-incident-13NM-North-of-Khasab-Oman-Tanker-struck-by-projectile-within-the-Strait-of-Hormuz.aspx?xy=rss",
+      "ts": 1794994962
     }
   ]
 }
