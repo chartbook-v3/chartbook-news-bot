@@ -1,15 +1,6 @@
 {
-  "updated_at": 1795117971,
+  "updated_at": 1795118126,
   "id_hashes": [
-    "fb0ea0b3a5ed0078c622ef1b888ead421cbff291b843ddbe99d0cef74f571714",
-    "911b169784f46f9d28facc48ca581d2bc7034cdbc2d62c38522e22ab97973daa",
-    "d7f5c45dd1b90d2ae05b64e4498642d2e47f90e4a2c7d3b8498370b4a584162a",
-    "b3517ef20555fef0ec49a6bd6681035a08ac14e4cf5d5002b6ec06b061dc7758",
-    "a6ab65901f3b16b3bd283da04657071ed4d2897cbed8738461abe741786c09d8",
-    "071ae946bbaceecd92ff2b03994929ba2ee4fb533b5c6846d31254826b8f2ac8",
-    "3013d08be3035891cceb1ee18b6810faaa2c844a9c6cc44a6ca3c8fc754e6f62",
-    "8eb529f72b2c182242f190325c251cd19796d6327b5febe8366eb87e0e45b624",
-    "6b946f1dc3ad8b8f9ce9844d228211310c35f188d6eeee2bdd47dad97005f2cf",
     "76cdcaa7ab4935e3ef4b41845e774635984ddf63bc9a6d30a69755ce6de101ce",
     "f91083630d1a624d3e3f6102721d30f056f97b4bcced38ea4b2a1c517ab8348b",
     "009b065ccd5b387a14e2cddcde43a3f35e826bc561f951a332412a02127a817e",
@@ -4000,14 +3991,18 @@
     "92aa1fb5eac35be84a2a60d11b9c8984ce9f917c5e28d20946a0bf64504b0969",
     "79bf62ecfda8bdb38444560736a2d1a6f9bb5b6a0db08e29d925bfe290e6ef93",
     "40ffa3be7f5de1f098e7e7f6c0d93198ee3f420957ea6848ef312ad17e44a957",
-    "75a72518a290e5c1dec0c1686c704a3024e040dcf7ad9e73754983cf0dc599c5"
+    "75a72518a290e5c1dec0c1686c704a3024e040dcf7ad9e73754983cf0dc599c5",
+    "7391e4ae2ff56411d5018bb8d2d934aa1f3e2e5843ce4109ac5ee5f2e03f123a",
+    "44820877755ad33acce811f450c8de57a2b9f5b568192c6b67a40371c593e8ff",
+    "ae476dbc66667c0da2fdaecc1773ce7e639881f2c2acc82ef0f67a4c4a580d80",
+    "8aac7b5cb02f5cb0f7de2cfedbd433357b04fa5045b2c93eb7d252b580d72744",
+    "b7f2840ebe4e23c527b8774047e983b0d2cb092ef11d20b749d1e611cfc5e81a",
+    "63a17570194f144921a80728647bb629b769c741cb55fa80a069fabaa993b239",
+    "3403435a9089cbb8757b667c9b1dbd05d0f3ee377660907f969f1b591bf6110d",
+    "44a7cce623e0c3a5ef0cd2b9cc08d9f592c8fca9ba92ab6ebed350b472a3eafa",
+    "48c5ed02f217f9fe7dcea87d025ea2289ac51ca5417fb47b70ca243c9b7182e3"
   ],
   "title_hashes": [
-    "9efafd809249660465a5eec1d4580ae6aaa10b1185cc552ded389d9428598657",
-    "c9e354befb3ca1c10d7e9468a3df838fa21a8c6e138f30a5e78a523860b7590a",
-    "ee3620b0a5f570fe7f807b367b01a055b5c4626c3ba5771c2887460a4c6634e3",
-    "cc13ee33be0184d701892878d25b48d76185e66b580a85a85dfe461f50b07b16",
-    "cc981c701a1026b407e52d904774f2b489f84072a376b1460e86a51f6d357240",
     "9734eb6f4ea5607d26310a8a78e261c0996e54df3e72e3559330b1eac0dbb623",
     "e8dd15a8862bc82cdee96bf4a30bbc935ff3bba81dc0ed1205f23d6c8bede668",
     "8a5108024ac8fe005e59a9173d0c0f3b27d205b260cf2a45616f20eb010a405e",
@@ -8002,16 +7997,14 @@
     "2e17b53326432b0f49d113be5b93833e1018c8e46d3e6ae673e42e6fd34347d6",
     "2ad6243e1cf3751978b8bef044836219ab60a471936121dd12139b5e456ccc5a",
     "98fbdf3a9162eb79ae520ff45a695d7c9f4f2150f9907f050e810caa7122685d",
-    "2bfeccd839fff0348191d8c99273cb435d52f3f015ecdfbac7a67a5f9fb9699d"
+    "2bfeccd839fff0348191d8c99273cb435d52f3f015ecdfbac7a67a5f9fb9699d",
+    "3915e6c750cbd29fbb3b77c8fa9165df06f1d0fa7919b8585fdc926ff581ed01",
+    "8f89c0a4d54fd6f24d8ec082b264096800b96974e11905a1189b968a17cbcd93",
+    "81493ba53fa620a7ae009f65cdc15d040661086e5fd5c659e50c707ff5a99d90",
+    "ca13a4edd2cd7cf84864d087daade936f578d24a5186ce114a159b1dff2358b3",
+    "e5724e7aea01e2a4cde87fb058863e91ab1148c5255ab6080093eca9aa78a366"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Cerberus-Backed Stratolaunch Adds to Board in Push Toward IPO",
-      "title_ko": "서버러스 지원 스트라토론치, IPO 추진 속 이사회 확대",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/cerberus-backed-stratolaunch-adds-to-board-in-push-toward-ipo",
-      "ts": 1795091888
-    },
     {
       "source": "Reuters",
       "title_en": "Temu owner PDD beats third-quarter profit estimates as marketing spending falls",
@@ -11504,6 +11497,13 @@
       "title_ko": "트럼프: 이란 전쟁은 푸틴과 시진핑 때문에 일어났다. 푸틴과 시진핑은이란 전쟁이 끝나기를 원합니다-X에 대한 NBC 기자",
       "url": "https://www.financialjuice.com/News/9860554/Trump-Iran-war-came-up-with-Putin-and-Xi-Putin-and-Xi-want-the-Iran-war-to-end---NBC-Reporter-on-X.aspx?xy=rss",
       "ts": 1795117616
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "COMMITTEE SAYS ALL LICENSES FOR ADVANCED NVIDIA AND AMD CHIP SHIPMENTS TO CHINA WERE RECEIVED FROM COMMERCE, AND THAT THE SHIPMENTS POSE A LOW RISK OF DIVERSION",
+      "title_ko": "미 의회 \"엔비디아·AMD 대중국 고성능 칩 수출, 상무부 승인 완료…전용 위험 낮아\"",
+      "url": "https://t.me/firstsquaw/194321",
+      "ts": 1795118063
     }
   ]
 }
