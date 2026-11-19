@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795126144,
+  "updated_at": 1795126295,
   "id_hashes": [
-    "a98774282a4250d7bf0199e0fc5c299fd475dc56b626a900e8b862c1446af8fb",
-    "11528af3f8d40f03c9fa635186824e304f0c9b511b291f8c7b2eac22e5df9d79",
-    "04afe277dab04e42a6aab984e3e9478eb56cae1b3715a725a20cc3b325c217e1",
-    "4b8617f3b7921c16958b638e3062240c03541e3cf1b48a8fd88e79bb2c7e2865",
     "98eea4ef6389f0edfd09675312daa641e4e181ee0482a4b74be18e75e114f152",
     "343395d164540938cb75bbc4ce6a29440909e2053978dc0f0386acdcee9fb773",
     "f15238727e625e6a609b7ea0cc3693ad959c5cf5fba57df4e7554a8f529553c0",
@@ -4000,12 +3996,13 @@
     "33c924d5d80079af136d940452873f9f3db126e677058193d9c039b1ad71787e",
     "9037e22d70d00c1458129b9b6008502451b4af39989a484aafb30e2e1331d54e",
     "b8254b49a78e1c0f57a03a3381976cafb8348641c5068c20a1bca2957f755a68",
-    "bf045a75c96df068359f906f48d91abfcdc7a5ff90ec0bee70734fffe630a093"
+    "bf045a75c96df068359f906f48d91abfcdc7a5ff90ec0bee70734fffe630a093",
+    "ef2147abb96d33eca9dbd9b0f7c2fef1d10949faac621d45fc01ce63b3d9c225",
+    "5e0b844f13f1de205ffedf257744e40f494b8700297c1f818c0dc652d4ac31f3",
+    "a1b471a94fe1167210d43c799eb779336d136b0247246391cae4f28160e8fcbe",
+    "501fed02be2517c62490864fbab186f02042e9939a79e0e472c58cc9e9edd21a"
   ],
   "title_hashes": [
-    "d13f26dbc0e8e6da304221b0b6e40ae6253236ade0ab9dd9b824ffa2edfbdc49",
-    "4e8359f46e99ff127cf884d2f684347f0ef46769b2ed30d42ee8c08603402dc3",
-    "09646686b6c31c07440a2a0109207f0c6abc359cf1e2f64078f1a6d111456237",
     "1820a6bda0f42c21ff520d80e4ff58e211ed813f8a7a743fe51746b42f3fcc27",
     "6de5449fd5cc96cae752ba5fe0c48bbeed2b6230dae609cec7bd5eb983c06a50",
     "a39361096aa9630e135edea6857cdd160c1814d8422de11a7354606e2d939624",
@@ -8002,23 +7999,12 @@
     "fd26f43a4d9aac902a0618fbaaea64ac0eae0ad97d231223382742751f8f435f",
     "29f1eb69eed2069510d9bb164b970ce42228bd0d1d55c53511803fefd2d9a7f4",
     "18a5d1b5c6e0f3ff01172925027c5b922bb4fc406a0613847c52315272f3ee2d",
-    "183f71321015772cd5ed924b256fc15425e51bf93d70ba98cf0844abe59fe7e8"
+    "183f71321015772cd5ed924b256fc15425e51bf93d70ba98cf0844abe59fe7e8",
+    "3383f2bfc186d084a1148a790ecb547f105bdcb0f5a9caa3a63f2d233de6a8f5",
+    "3263884f1808570c71a4608494b10615af6b6f3581e6aa70ea279e98fea4280d",
+    "1481ec37fa7479ce147d992c785ef6a6f652dce975f870083c6c0607334e1603"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "DOW JONES UP 239.17 POINTS, OR 0.48 %, AT 50,437.34 AFTER MARKET OPEN",
-      "title_ko": "DOW JONES는 개장 후 50,437.34에서 239.17포인트, 즉 0.48% 상승",
-      "url": "https://t.me/firstsquaw/194256",
-      "ts": 1795098990
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "US Treasury allows some action involving Lukoil International GmbH, issuing Russia-related general license 131l.",
-      "title_ko": "미국 재무부는 러시아 관련 일반 라이센스 131l을 발급하는 Lukoil International GmbH와 관련된 일부 조치를 허용합니다",
-      "url": "https://www.financialjuice.com/News/9860058/US-Treasury-allows-some-action-involving-Lukoil-International-GmbH-issuing-Russia-related-general-license-131l.aspx?xy=rss",
-      "ts": 1795098992
-    },
     {
       "source": "StreetInsider",
       "title_en": "Blast Resources acquires eight uranium claims in Athabasca Basin",
@@ -11504,6 +11490,20 @@
       "title_ko": "[美특징주]인튜이트, 메일침프 헐값 매각에 시간외 주가 13%↓",
       "url": "https://www.edaily.co.kr/News/Read?newsId=01548166645647688&mediaCodeNo=257",
       "ts": 1795126143
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Geospace Technologies Q4 GAAP EPS of -$1.06, revenue of $19.59M",
+      "title_ko": "지오스페이스 테크놀로지스, 4분기 GAAP 주당순이익(EPS) -1.06달러·매출 1,959만 달러 기록",
+      "url": "https://seekingalpha.com/news/4674970-geospace-technologies-q4-gaap-eps-of--106-revenue-of-1959m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795126231
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "CME CEO DUFFY CUTS DIRECT SHARE HOLDING BY 43% TO 35,442 SHARES: SEC FILING",
+      "title_ko": "CME CEO 더피, 직접 지분 보유량을 43% 줄여 35,442주로 축소: SEC 제출",
+      "url": "https://t.me/marketfeed/1082097",
+      "ts": 1795126294
     }
   ]
 }
