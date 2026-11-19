@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795059580,
+  "updated_at": 1795059742,
   "id_hashes": [
-    "1d6e93e04733ff258c12127e0ab3356efaeb90a0051b7637ce5f3a1f12892d44",
-    "7258f8c73192841a38300c60468341d6362e6eda8e520e400056f1d8be4794db",
-    "b034afac48090564365c3bdfdaedd31706217645c69aed345ef5fb9c11cbbef0",
-    "0b849b0964b9e40905f74b2e1199706254852edd3af7a811ae7723eddc3b4d06",
-    "205f9cf9ee4c5d6cc58d192b8b6ab33ab63ec314a4a0e20c420027d4c7989e34",
-    "8853ab2fab07a15206cea3ed1fe896fd1a3db62d981a5304af13f8231abac289",
-    "cfe899da4bc5ab39b4411001515bc2e9bc2bf5a8b4f0d6527bc51896a002dce9",
-    "ede667a95e0bd158efb7b10335b5e87caabfc770f709e212f51953596c816e9c",
     "e5094eaf880adb0b654e63977b48a2ec8424db4f915bbacdc2b2cb859013820a",
     "5e745d2c44f838deec7a35adb673c15b0230e4fc8e0aa5d4e2c6f23fa094fb04",
     "2add3650b162ecc8399a19ade966930220685ba98d7718b7359bcfdd87e117d7",
@@ -4000,15 +3992,17 @@
     "ecc2efc4bc434e35c639ff4ef0691f0907f716c005a874b3f369c5bee65c3bd6",
     "d92eb109a9bce6dba8809c9fcf81ca570b79d730e5ab8214ea905ea7ed399a98",
     "a6f7b5978923a7bfa73cffae25c7c2e64a1abebc8dd06ac6b1a56bb4ae491f6e",
-    "f764beb5d87033ab33087b6995c441fe499fce10c0082e4e5e8dbe8bf0428425"
+    "f764beb5d87033ab33087b6995c441fe499fce10c0082e4e5e8dbe8bf0428425",
+    "2c59316bf0c14fdd80ecd8c34b59f61df88e6b3d3017e7cb4a7165e357e114fa",
+    "43ac5c8966178775a68439119021f247c5bc901f578f24f89033f4728ecedf51",
+    "bcc47a5db76ce37207bbd7c5d16619b10ed59ecd04d5dde7950bd1fea0df1fbb",
+    "1025d4bb75abbcd35b58549c7640a878ce27f7a40c7131cf95ff4b4d8272f3d8",
+    "21cf8e5719c2274ec476024d4235efcdff4d9031d6086bce1d08c6dac5aaf4de",
+    "c0f140fe14d93717955dd20a80837dd45f1cb46bbcd3fe3d820a825fbdbce0d5",
+    "981bce3f1e745727ced3effe2ab1de8060e2c4f607f3e858ff22c9bb029a9d4e",
+    "6cbb345c0b4df63a8d041801a16170e9fda93cf7e6b68025b3974176019a982a"
   ],
   "title_hashes": [
-    "1e94b0700922781e47433a05fe7fdbbb0d31187ff8bb6f23a26457fe6a0b144c",
-    "228fb376a983388b1c2e4a140bac65a5ba08906628b556f847e22f438c5cb4ba",
-    "12958d7c975ea4f38ca1ef57b82f0634e273c6f5ea06e31b33d8006a6155c498",
-    "475c420134a59ef079fe79c35c7e98a0280af21fc2ccc961e89f59919293de61",
-    "95062456fe2a88dcef0883d596158eecf70e2b8eed134aa3da9fba3f17714b16",
-    "7c01f317b4431110dc705806bd93411a5dfb5c562da1ab22a036e5a6cd0982a0",
     "36fcb065619572cdd29a11927147835f893782eb9757f3e689db9ee6bee9a9f8",
     "d459a2d8a13f95b6a3985fab3e780f53c4dca2f9c6c1a2cd7aff4b936f781d27",
     "e25e4acd920d561bb1e53ec017d654f41203277ef7d627cb219032929a4c05e4",
@@ -8002,23 +7996,15 @@
     "999da189def3085dfccdc8052ee8acf26d9dcc57e4a8454456ee81739ba00418",
     "d31a8e8e24ae214c940e4caa4d3e9cc890ad15f1b1fe51ff5038c2c4a6c1bfa9",
     "8d3d6a5d74a31e2bd8c4af23a648315580f8ba626b5f82669028793d1285738e",
-    "4ef5c56faab5fca572478daeddf5c8d71651bfd2637e3d970795b2f4852ddb1d"
+    "4ef5c56faab5fca572478daeddf5c8d71651bfd2637e3d970795b2f4852ddb1d",
+    "cd1ec9804c0fdfa21768b6fc69a828d3334b6e27ba0b653de0a3f2b7b498623f",
+    "d8b631be66be12760f21170ef754d5f9e1fe2cf5a54b04d955e1236cb81b1eb9",
+    "7ab90da395c4ac724e6633cf69c4c1340b656526fed72a69c0e79d40fdee9f3b",
+    "273af8b99b63dd5c241aad876e2f8afcb86efb9b700b86bb904bfffc4d8e8a39",
+    "9854c0a781e5c5368174ee72d5caa0525060fcc02060ef3027b24e68d7de911b",
+    "184ba3d7e17eff848f7c74878a42797e0a368a26d264fbea41655eae73f2d93f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "StreetInsider",
-      "title_en": "Helmerich & Payne (HP) Tops Q4 EPS by 9c",
-      "title_ko": "Helmerich & Payne(HP)이 4분기 EPS를 9c만큼 상회",
-      "url": "https://www.streetinsider.com/Earnings/Helmerich+%26+Payne+%28HP%29+Tops+Q4+EPS+by+9c/27370460.html",
-      "ts": 1795038554
-    },
-    {
-      "source": "서울경제",
-      "title_en": "해외서 돈 벌어도 순이익은 ‘뚝’…환율 급락에 소비재 기업 ‘울상’",
-      "title_ko": "해외서 돈 벌어도 순이익은 ‘뚝’…환율 급락에 소비재 기업 ‘울상’",
-      "url": "https://www.sedaily.com/article/20116169",
-      "ts": 1795038558
-    },
     {
       "source": "서울경제",
       "title_en": "엔비디아, 호실적에도 2.9% 하락...경쟁사 AMD는 5.3% ↑ [데일리국제금융]",
@@ -11504,6 +11490,20 @@
       "title_ko": "GTA 6, 21세기 최고 평점 게임 등극…메타크리틱 99점",
       "url": "https://www.yna.co.kr/view/AKR20261119087400017",
       "ts": 1795059516
+    },
+    {
+      "source": "인포스탁데일리",
+      "title_en": "NAVER, AI·커머스 투자 확대로 수익성 압박…목표가↓-현대차",
+      "title_ko": "NAVER, AI·커머스 투자 확대로 수익성 압박…목표가↓-현대차",
+      "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=219007",
+      "ts": 1795059610
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Thailand Says US Agrees to Lower Forced-Labor Tariff to 10%",
+      "title_ko": "태국 정부 \"미국, 강제노동 관세 10%로 인하 합의\"",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/thailand-says-us-agrees-to-lower-forced-labor-tariff-to-10",
+      "ts": 1795059740
     }
   ]
 }
