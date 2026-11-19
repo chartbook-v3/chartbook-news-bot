@@ -1,28 +1,6 @@
 {
-  "updated_at": 1795121351,
+  "updated_at": 1795121508,
   "id_hashes": [
-    "62a103c3977376bf1fbbd6548b6e48ab948e6e1ad3d41c607a276d8169ca9944",
-    "e32ecab44adcede998269edf74c52adf2cb46faa6838f4a55759bb3329d3a485",
-    "111631dda8de2d6123e77f5c1af698143500b07bc98199dddb5d147ecb7778f4",
-    "74a68341f5b61857eacabd4c09d6e4618470b1cb9f77b86b2520963a481f5b88",
-    "7e96df58fb27ce061dd998ca32f03b0b8d0985d1dc73a94d247cb863166d734f",
-    "4ad5b1822eafddb0d993529f5144e5157960fdf71804114d2aef6b256d95090d",
-    "e9104cb704b0f58358e3e3d4fc68ac431c0a91e87ca1f0b129d7276bcf7c3434",
-    "ccb665495602629a84282b8571d79045a0217e8540ce91e94acb86faf5cbf692",
-    "a38b6000e17deafd64a6fcdd8da63db9c928834abd1c1a1b7cd8689896a7aa83",
-    "aaafa1ab2ad6085a22d649510d0576298feede02735dc80995d5407e2697edc0",
-    "7f30e3d88cb16c23df87bd27c150e6888a55e7510c99d4c9b15932f7baa9090e",
-    "f21ec743eae08ec69d4702fed0ba70dae6ac2b669915c83544626b46421a187c",
-    "779d3fa5f6ba42b24a99a3456b78e1b38e4acd154ec2e86e3415bc9313b2473f",
-    "c31929b94876990bd862432255b6ecc19ccb8d45514811b812a4f3ccc5353d32",
-    "628214b3f429114c9f7a998af2c73d6dd9b294418e8764f9315533070ecd9926",
-    "4b456fe3440de7e260f3f3202c4d801dd28eb6d937a64e2161598a3ab095d46a",
-    "ee0fac1670f6978784cf5da38dfa1b38ba6f4f26673ec80032632718e1b8d79e",
-    "5d907d93886134fcb57cf1557032a5acb110a2a4949045d6205853b07abce9bd",
-    "e0f662ad1daeb701156f27d4f232728f8837f19276c5651ee5a68cedb8643290",
-    "b8f7fff1e67d00f3899bef0e12e051df63378efd0c4e2252e29d1081688c9ffd",
-    "6acab468ba7f417ec1cde428df5dffc22c7bfdad2c02e4e650a617be97bd11ba",
-    "baa4ef4ffad6964d7bbb971cec6457e8c372cb7f1b93c038e6b0d0af121bb7d5",
     "13a0f5a35235e4748e0a876616c59a43330feb17625d097ad8d08b28d2604761",
     "5774e542bda194432d884882229afc9444e3cf4310ff2cd5a524cbea0cea7f32",
     "12b1c66e13f7af2960a7612dcaf42d8d31c18e458cc596133fc5d52d6238944d",
@@ -4000,22 +3978,31 @@
     "ba9df1bdf9cec8606ff2012a3ebcb59925cd96a1830a1b17ecb0c437a92a1817",
     "a64737edd51f0692d039626759997830e2fe50f8cadad33e23e877848182c94f",
     "0aa493f288c471bf82edd8abb9eeea4c776210445f85e30474c78bd27da08e7b",
-    "c06b4c906963b314a221106da8a787ac1cbc97f7c8046538195d3434733b3a1a"
+    "c06b4c906963b314a221106da8a787ac1cbc97f7c8046538195d3434733b3a1a",
+    "8d0afb0285b49474a1570635deb58428393823a95c7c1d230d9da37f65e0d0e0",
+    "5e7419e561357e8f775692ba13a97c4f2306e74bb7e40d1f2871bf1ba39773a5",
+    "c853600fb5f8cecba0076c2fb593752ab62943ea3d492477016a9fa4f0e0eaef",
+    "8594c170eff10ec2c0e7e80f55c1a2e2941073244ebc9a49fb9a4899427aa869",
+    "be63707cd1895e2447f1a086083817bf4da5c4f60b30695a1d1832682b0ab31d",
+    "9567740c2f9923d9abb082c040e896e321b22507f3be7377d1b52fbd7ab66c7e",
+    "04bd93f3e9dabe2babae4339e3731626cb2a9c821b968bb2ce7eb3ea12c1e490",
+    "4ebbd4c9e12329e598105dc5bbf8ba040880d15a3ca235355ad6f246290ffe74",
+    "1c2dffb5991916e2ccb95ae832314cc052ac6d0834c96de4b7157c141bb3aaf7",
+    "0c95eef6fe4a7afbc6051478fbf2292f5453470b9ad8bfd8668ff5ca2b740d0d",
+    "f3da52b724d01244162e420b9d0cfdf329e60b5148ac846ebc97495b0a4cc7c7",
+    "35f8c85c2453fdbf0b5fe45cf9db6f621c3f6d686ad38b4b560a79b25200b440",
+    "0551d39ef38bf297d443223bb4975765ca6f6715aa18e9bc37829f1120bc9ec8",
+    "9bc90e52376c791d2b52cd8cff8ef7c9630f7aa55755bf94998f2517e411a94d",
+    "81c4f2125c05c7ad6748a6d7f83ebddf9fc866ee372a1ecc64c3a133ccc00ad5",
+    "0ec39519720592ac6c9e428f4eba5564f510b4f7e0b3acd387cfbffd14aa9453",
+    "5de06acbbed7f16948249cb512a0156637f5701385e8638bd244745fb9cde9ef",
+    "a1c3a9c4fc1e076ab4364c3301d5d218e70b3f77a56672d2000408882c0e0cc6",
+    "509992e6e36344a6f77885c7f5033a96c79bc87cd5abde4bd6f32fa80d62abfd",
+    "11feea8bb1d568fe9ea08372f91c0f5d8bfb27120a32596ce0881dcebc5b5521",
+    "32d40d14a6787b9697f864a8cb51661f2c46d63b8a5fc694a0606211958076a6",
+    "045be0cf7ebbf6703d2d5054102172226ed217890d390ead09efa4e8cf0fd5e8"
   ],
   "title_hashes": [
-    "8afbaa7147b774b9ef0d5ff7fdb6411a5bd4926a6b00c5c86c31c42db2ffaf9d",
-    "34efb05482badf1a0690e9495c63f2ade3284510b4d20566d185c91c233cb1bf",
-    "a52b18a239b3089d159769d36c558fe4c8a187c58bf3526b9c740391bea0180e",
-    "e15d641f552c2c0b6da7d0661a9fd812225baead5fa61855c4fa4d8acf5db5cb",
-    "dd2570e91bad5f72f1009cf78e7a635be634fa71f17b5b422e326b487697b775",
-    "b805f997ac9b656df82764c42ab50a225151cab641d248364b11c6eeb9172915",
-    "7a0b46376a681b3c3a031b052bd2c3bcf3f8a60339f4adfc5b742bdf9c561d86",
-    "9903b12e64a07fc507fde9ed05d478ed7089a663388807504b14c3f7dd985711",
-    "4fa04bc8f3f604acd908a7bc20b1919f272dcb546e621ac82f06f8d7058a1eaa",
-    "7687ce285a648fc10a6e035afa78ac2e18ca43272d91ac07237289353440a9cc",
-    "d98d4fc91afd7ef0fe5278f784ab32888cd12bdc2de657af935620363264f809",
-    "47bf2ac8da98df624364b3d699bba5fb0593381e9da0a0ec8a6e3e0d43005043",
-    "423958489b8bfff7179b6d3c36258d21d1b81ca229556bc8b2a6be9722802e32",
     "2eccd255fdb39b285c4529eac1c78fbd79095fcc235873608cabd0592d94b01b",
     "2c7e61f347aa3e5a207ea30a21dbc896f637fad4acf4add7dcd2466fb4407599",
     "f7910c020f18c2bc8ba16bc3169df7594788843bc5fd7f0d2f7712bef1ac621d",
@@ -8002,30 +7989,22 @@
     "5725f66fb86faa2423f0fb9a6f99c676aef4f08fe4ba9050e473233b4cd86de1",
     "5bc763474cb2f40129012363ef959d9a95d2031290c375c8ea783af43cf867d2",
     "4d1777df4a0ace51c959748abaaf83049ba4476885aa30e2428807c30ec58335",
-    "a609df05869f0ff156314f05628fe6d74be6d5d39554c36163107704d12f231a"
+    "a609df05869f0ff156314f05628fe6d74be6d5d39554c36163107704d12f231a",
+    "c69b5613ced6ee80ec496da09df57bc49bf7b18cf406371899770b20053e5e4c",
+    "405479f77c674b8638bbf2a4c4fe596e1290c7064b832b300c381441451a52f4",
+    "e551196364e46d0461b72d410dc0590a167d1f5431614514f1237a28a84c15e5",
+    "08f93f8fc5735ee87eb9b55fcbe54f2b446205896de39edfa41cefb77d665543",
+    "a22f43d66a5220e115e776f76b9a4a5256d351e2864a05c47e95c52affd67e93",
+    "5703677ae99b0df7ba3f1d6e447f4ab4827ef2481c2a379dc1601986932ac2b6",
+    "5ce86be6aca89ff69bbe487a2bfae01ebec6c665fe4d0289422fc07e5e8be2f5",
+    "8cbefaee8187288b577d3f8193e9ce534c92dee75576a2ba2ecc15562f034f95",
+    "5a39385d6dbfb6d2c6a4a51df30d4382b9dbd4c50cdd4042b219a38ce3019031",
+    "dd480b479b8fdffb8b501824ed86233cc3f427dc22f2dea3035d9b49547a9f18",
+    "862bbd7f4b0fa6c72e03eba42031a76168064af75a95792089bf70aaf28d958c",
+    "6d0d5217c9c94132977858a0de5fa06e3866aa388cfb436966c4bb05834d4886",
+    "d68bf2b43f4670da123d2bc3d1386f2be021da1a6f1eb483b8f6bc0fc6bfbcdf"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Bath & Body Works warns of softer holiday sales, sets outlook below expectations",
-      "title_ko": "배스앤바디웍스, 연말 매출 부진 경고…가이던스 시장 예상치 하회",
-      "url": "https://seekingalpha.com/news/4674656-bath-body-works-warns-of-softer-holiday-sales-sets-outlook-below-expectations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795094031
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Regeneron Wins FDA Nod For Livsayis, 4x-Year GMG Shot",
-      "title_ko": "리제네론, FDA로부터 리브사이스(Livsayis) 승인 획득",
-      "url": "https://www.benzinga.com/news/fda/26/11/63423914/regeneron-wins-fda-nod-for-livsayis-4x-year-gmg-shot",
-      "ts": 1795094063
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "White House Takes Press Phones Upon Departure From China Summit",
-      "title_ko": "백악관, 중국 정상회담 종료 후 기자단 휴대폰 압수 조치",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/white-house-takes-press-phones-upon-departure-from-china-summit",
-      "ts": 1795094128
-    },
     {
       "source": "Bloomberg",
       "title_en": "AI, Nuclear Arms, Taiwan: Takeaways From Trump’s China Trip",
@@ -11504,6 +11483,27 @@
       "title_ko": "엔비디아의 주가는 더욱 하락해 6거래일 만에 6,110억 달러의 손실을 입었습니다",
       "url": "https://www.marketwatch.com/bulletins/redirect/go?g=81730ce0-d6a6-47eb-a19e-3a7fa5770442&mod=mw_rss_bulletins",
       "ts": 1795121350
+    },
+    {
+      "source": "Nikkei Asia",
+      "title_en": "Anthropic IPO draws rush of Japan retail investors",
+      "title_ko": "앤스로픽 IPO, 일본 개인 투자자들 매수세 몰려",
+      "url": "https://asia.nikkei.com/business/markets/ipo/anthropic-ipo-draws-rush-of-japan-retail-investors",
+      "ts": 1795121437
+    },
+    {
+      "source": "데이터투자",
+      "title_en": "유나이티드 뱅코프, 4분기 배당금 주당 0.20달러 결정…전분기 대비 인상",
+      "title_ko": "유나이티드 뱅코프, 4분기 배당금 주당 0.20달러 결정…전분기 대비 인상",
+      "url": "https://www.datatooza.com/article/20261120054557191052ef3fe8cc_80",
+      "ts": 1795121504
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "SKY NETWORK TELEVISION GUIDES TO DIVIDEND OF AT LEAST 35 NZ CENTS PER SHARE FOR THE YEAR",
+      "title_ko": "스카이 네트워크 TV, 연간 주당 배당금 최소 35뉴질랜드센트 전망",
+      "url": "https://t.me/firstsquaw/194342",
+      "ts": 1795121507
     }
   ]
 }
