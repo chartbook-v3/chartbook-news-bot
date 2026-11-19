@@ -1,35 +1,6 @@
 {
-  "updated_at": 1795046683,
+  "updated_at": 1795046840,
   "id_hashes": [
-    "707bbf99c58cbcd2d808b295ad74177aac0aa644b2efb3c17692f925555ce3c3",
-    "80ee3e00b1cabb10e8831dd431ac85eac1ca6a4ec7045c1a8cd01e8341701735",
-    "38cfbdfd606edfce90aad69a063f90cc6beef523c2394a56dbd206256a19633b",
-    "e9e6277d98937aa6f19305d37f18f0b88410ce719bf81c35820ba318b10f609d",
-    "52443eb824f6bdbd110ee096a31bfe8f83fa2ad330971c6fd346570c94ef9875",
-    "fe526adcdd2752edfd514389cef9333ad2a2e8761a470ce0de6476f489553a70",
-    "49a87974b2032ef6c2f85b62d361591628abdd1f80d8eb859fff0f2cf25c3f67",
-    "1632b5c084562290519a68090400de5c2e5c81ec8446ed060b735006ad7e3fb9",
-    "867cb3a3a40a59a6da12758b45a795b86c94fef3d845fb209a4ebf49c1cc0b02",
-    "c98d431c57e0b333050a77b4660b8cb99fe8fd9d9dde298a182c30b764a50188",
-    "8a12dd98c22cc8c745468c4e5a7e06df577f3742ad5fef5f1e45653e3f40531a",
-    "806d4f301860f1ab31fd72cf789dc4bd77aa31be4adc8a13542e29a8380c99d0",
-    "cf8b5435e6c18fbad3bdfcc56eb9270fcdc7a96bcebdf09b566dd37485e31006",
-    "ce993d93ec3c1ede2350ebc6bcbb2d31e827374f03beeea755723dff413e25a2",
-    "2f008984af5e786cf3512e444f717cfbcfd17b284fffa650d1fff8dd5e39f34e",
-    "12692220a6dde3a6575cda1b7442c68e5a3cb0602fa4575417e23e09ca7ddd58",
-    "53be54cb251889e042164edb523e1f0fbf47f66702bc56cc1bebf896abd5906a",
-    "5b6f4dabcb562ceb9c7d50585e243ac527c118fe1a5452e51422c44a8e653af3",
-    "7f37450983ef9fd619bc48d2eb8f4912e001152f93ffc85425b74b103c28e2ac",
-    "a9eeeb60f9b6ac7ab0c60ea885ce0e787ea23098a56a7447f9b2fc5f13ad241c",
-    "408cb51a958d5d8805fad72f04f41f48435f9f8ee2af4fdaf921b30bef654dc6",
-    "de541e4c48d20c4797f99e7e0522bafebc3e490f62395adef9f2470712bf02fd",
-    "e5a931d1e4c470e6f840a9f4c02471892acd370db2d6eefcae39d79a1fdfc8e7",
-    "4ceae5f35ff0945957dea43f90c2b0a17a9e4129c1006e65e2a08ce5c6a36bb1",
-    "23dd7c3cd7a9dce0cb0216aa4e6d7f8f63de29eb6567d5946a3a1fb2e221c365",
-    "5fe9ffb6065099bb547116d73224941562bcf00d46b95d6a9405cf9c8b3bad58",
-    "f9cf7b56379f32eaa6109fdb7b68fc6b39e9b904866c4826d8cda84e6f2f9c70",
-    "f1259a628f7e42488b2322144dd523efa9b91b17b550fd014fbd12a3284927a3",
-    "6775a8c84848a5af18c4e5267cf6677d9dcf795aa44002f2c0ff744f19afbff3",
     "848fdc2b239c265a828b16b18d25c8485b894fb9033e5037df3f2f532c822151",
     "f9fa36e6cd3f9405a5bf767042bd80a554aebb9ecb5b238ed210447757d4adf8",
     "f8045a7e719f946646ef3bc7f6c0be36f5ec29fb47b4116e068dc99c087ed26a",
@@ -4000,33 +3971,38 @@
     "80cda5b2c6fc4642af4fabbee61fa25e97e93cc1816371f0de6cfb2fc6bbb046",
     "48b96ce2d8744e935784a2ddc0f2f3724c82c64d1dfa7f453d6ffafb7e833f5a",
     "add7bfc485f54763d7c9061adc6e2cd1059e7d4b8dc0c5a0d53dd31a3a5e86ea",
-    "f373feba2e331c38066ea16d10fda1a4b0e6135ed5208c511d3ff210182edec7"
+    "f373feba2e331c38066ea16d10fda1a4b0e6135ed5208c511d3ff210182edec7",
+    "52d85f3ce1ead3f32521f9c5fe8a38dbc56615b46e8501b88e537ca0b3ef9c37",
+    "d5c95c52bb7c298ce24fc98190381697990e9d8e45035aa18e4c4de1c2f3a578",
+    "962ada05fd31e61f5ba7e890056854b4bd83a05f27023d38c4e1406e3c1a255e",
+    "7f7f15c928e5e6ee695260d19587872aee2cc393a2cb489f055130aa14566d5f",
+    "8a96d517cc8b3541e4d6d45faf112c8ab57076197233e2009f63fb6cb12c4a17",
+    "4ac7e608b7bab69ffa85e2503fce540c95f7338b08195de4d45f8cfee227138d",
+    "8435431e510f529ce647bc55a1a30b06f0b986aaafc11ab0acc7e97c9b0d5c76",
+    "296787d9287cf2a675818953c8f9b1be9fccc786a9cb5adc07a90404496f85ba",
+    "88efd77f49c8e0b3cc76ff6bd4d2897d4390aa0aabd3bb1aae155c42f2e180e0",
+    "983c534f0e2505c53c215bd13e73b90e7184ae86c0a8eda7e4eaa6aed5aaaa5b",
+    "2701f949da746a0622556183b2b84b75015f106e3bea221622b502267cc1b016",
+    "80cf84189fbf8193c22e5d435b0a829c2c732ceaa87ae25e2fc88ca007a48f11",
+    "d0d347ab07d34bf05746dd939f0f4bdd2edcae97f5675a42f54d8d082bcfb7b1",
+    "d8444b4560d3b29ac6d5160a143bb8318883f5d57e6fce554bcd6554ef2612bb",
+    "f8be4f3cdede29eaa438d3966450c5be10480a24cb3451d27c60963127520d72",
+    "f158927515cafc53eec537634a9d87921789a4fa37c1337e21aaa4987f75d610",
+    "104c4286549b0be5645f3f540df7a3741a89cd453e95c8ef918eff6084646c30",
+    "0ab6ab700ca419a86c76ce76ab8b664f2e1d5c5d5574cd12c8f4be8e787e1ae5",
+    "421034a378cb278a3c883bb285bad4e6292265e8e0f245bae9be3422632918c7",
+    "9a00d8dc8986ff360aac72a9db3ca1a5a2c0cda16e152567222ed9e2e9b23899",
+    "8571373314624fcfc32413ee7d1a29b395484c701ace31d7e58b33c203a97240",
+    "70ed9b97dd57d41677325df5158ee4e321a29da98132b4e4a55863c7261ccf06",
+    "dd9e1551f29e0df57d4f39e632ea38c7dbdf0a0febadf81380ee78e04b27a861",
+    "23cc2f5c7f196ced0a8421e3e34a7df9329cd986b18a7b881f7f47265c796af3",
+    "eddad24d1c817000463a9cd1e15658b2ff084eea8381db1f62a45b3c0dbc75e9",
+    "11fd959e686a6d1e6bed6058c8535a75e7116f54977358a6fb9d9e9a55e18e64",
+    "e631f25b1e7b4c6a37e6fbf5746f65a8dc97afd80470d817fea17ec73036829d",
+    "3d9ba93691d80ed2651ec973f794b28188f2c9774ee74e84807be5203c804351",
+    "2459c03fa35757373f53740d21a8025bcf49859516fabc58e9c46a565a2d8a03"
   ],
   "title_hashes": [
-    "abb955bba2d31c91b9caf68508d549e2da8976b12c945e49e662a6ece6bf20bc",
-    "a55a1a561aaabbbb11df9071a100ed9392fa83f74f1d306d9f6b10308c8a4f04",
-    "1a4505dee0ccb94a02c7333f2f42a3513c52663d984e1258d7056a1582f2b763",
-    "f0f535f1e5a64a6b90a783893d02b0849056473d05359aa078be60641c017064",
-    "769e5cd5dea5ca516081d47b5d7d84ae9a5909c3690d353780f97b62adb60c96",
-    "688a8569c599b8f5a869be1fcb12d741970cde6acf8c8cd1045faddb04714c2e",
-    "edcac6ac2e4b77518ab08da0d72effd8d4c827949d2209138f1868c95e4082c0",
-    "a65ec1589d1b1d739756ccedd8c49ed3053fe3e265cf6c4869e0d0cb11b9f7dd",
-    "3b5de26c10879b68e26c71e088c493d3050b9f30a9d052f1a37ccc1a0cd7eb8f",
-    "7a0118fa33c708033120f89656bb01407d8a2b635b7b5d63b8f85d07e3f810e6",
-    "e679e06a59e2025c8c5d8b8dad0c251ebfb49cd7586dfa068f63f76848214500",
-    "74ddbdcc1cad8afff05a2128a67f1b35aa83bb97a7cf8e8901ee2ad0e4a8b10e",
-    "eac4ce9d36f2908d43e3d9744c91ef845733c4ac4f78c693c55952a9cd61ebe3",
-    "8ce46fc4b4dfdfca13efc4ce1ef05c3d6877d18f00241b936e0bc6d99ddddd5b",
-    "c1bb28828970eebb3d42cd674d784c2a3eb358b9536be7137e43cbbdd84aa856",
-    "ba319fb033696570efe5056aca01ada71d366e02fa6a604c2f0890cd5994a378",
-    "e1577d730e219f4cd51e1c96874c0371e73a015e456fd9e4ec12e415af509ac8",
-    "e10fa4f85e97d4068ccbe1ac8117015460c6542a27809e09295910c3c71a2329",
-    "992aed8c2bf094928d21962062ca0d47a79601762876383791ec3190f7ba281f",
-    "9d7bf7cd36f9060e084bfca68d2288bc397ccb3027795b371c16716c362e8f89",
-    "0d6efececcb7c7bf993cfa19810fe3e269dcd75067e8ac855b61b618c3f004c9",
-    "ce94ea2393976da79c1999c38b179d39b6dc4946b953d77972eb03212477af07",
-    "c7fa75a97558d642d8ca92fe0677b2977a9b8a0f2f9c8c306a69bf938121c9d9",
-    "0591600166df343f7d95029c18c53a22ec0069540dcc080af467235b7223f7c5",
     "bbf8e18121d581f7caa375a9d6dd17eaa37b4a80ed741429ce31993861df2f0a",
     "9a822d4e66cdd8c7785483c4aba890f9b182fd96ad52526549fb5252392075e8",
     "79680a6f259e0bf90e65a10ca4f6b40ce48655998d5af625d6c6335e6bd07da8",
@@ -8002,93 +7978,33 @@
     "cf1d467789ec4a94b037ed356cf0fd7c97b05665184638d469958aa54a129cd3",
     "8a6349d27423f1d7376d5d664c91e7e15bfebf2d92ba265f50a0d827c7bc00a5",
     "b7a5038870132c0f3174e9ef3a5d7f4bd1b6597cfc1fc40ee875a77f71772dfa",
-    "e122df032198481289a71ff4d89ca0b68ec49a18e31b3a07179e964d306a8f95"
+    "e122df032198481289a71ff4d89ca0b68ec49a18e31b3a07179e964d306a8f95",
+    "9beb8d3377467b9b3d0873a0e0279f9902825d3ef0b0815eaa26287880137b55",
+    "ac72c95ebb5c9506d4e9ba72b9ab8a373b53792d907ed2b9a95455bf4a75add3",
+    "76aeb8f67544cb16f8eef5a08cf289ca3bef08b426c27c3996d2a9d75118762a",
+    "154c346137045f1796d20d3a4914abb5b08a1c94e3c6651561fbcf0e5651e1fd",
+    "9dae5c36029542d8d1230ed15d7b41043e706929c026a6b3ae5c003286b9d918",
+    "e6b632a1d911d1341ad1849f12c77cdd54649ed0dce3c3ea211665de66324d77",
+    "250260cfee7bedfaa912c990ba56ef55474fb4a9795ef197f2e55a26db226ad1",
+    "16dfe7f209904278b33fbd0d3835c84f2cfb99cb753f562c6c706d5453a295b1",
+    "defc2b9d8937e48e113aa386ebb46e746cb5ca86f42daf5b39e4f9bb994ece8d",
+    "49a393a9a46354a20eafee06fab1b9c971998098c7b8230703ac4cb327b30c0b",
+    "8eb4a877f565a469f7dce2fba704d992ebae1ec1f2e2fb397ed323f7424feae9",
+    "fb91914e8f101881044581c89bc8ceefbb45db4f77587d0a5501045a29f29070",
+    "376bdc5bc9bf3208c0a7ee81bc44c2c03854b1583b793dc162cadb21bdd8bc79",
+    "ba67611eb714a5a428a5f48ccfd736c70aca9f98ca5776069584e647818c0687",
+    "606ed59fc3cf90f754e206d1bfa1425f6af25e7c3663566e06cd93b93bfd9adb",
+    "840dfab364b6c595268a53aef30d51b7bbc70f4a9090c5f217af067a4e024f8d",
+    "a9a80a50e3abd1dba3ef580755f6439734aaf15ab09dfb6f08a2c2f038ed0384",
+    "1e28841a132396a3d60600ac15b873a2906c9ccb15c87b9a55748c09ac6da182",
+    "14da85d757d26ad112a9cca4d4fada430e4552832cab8691de3c56b080168c77",
+    "40f86b80484e379f9cd35011f1bc027f01737c4f00f818464f4638c5109ee9f6",
+    "9a950353ed6bd58ac84bc0b07cf1a4be9c8360168e06ee784972dea2ed52de94",
+    "3b4a54572f302e6f954b81bfc073e4ed2ad58a80f202319e74b90b0c02549a8b",
+    "3444ad0601659ab77f533512005ae14f3251a015cc424680b644074df5a5beb7",
+    "01b7fde10f470ca626031fd6e7401a02b5440b1a20e6a0e21892cfdce63859ad"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Nvidia China Exit Could Trigger a Bull-Bear Showdown: 6 ETFs to Watch - NVIDIA (NASDAQ:NVDA)",
-      "title_ko": "엔비디아 중국 출구가 강세장 대결을 촉발할 수 있음: 주목해야 할 6가지 ETF - NVIDIA (NASDAQ:NVDA)",
-      "url": "https://www.benzinga.com/etfs/specialty-etfs/26/11/63382779/nvidias-china-exit-could-trigger-a-bull-bear-showdown-6-leveraged-etfs-to-watch-wednesday",
-      "ts": 1795009310
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "HIGHER INTEREST RATES THREATEN CREDIT MARKETS AS PRIVATE LENDING DEMAND RISES",
-      "title_ko": "높은 금리는 민간 대출 수요 증가로 신용 시장을 위협합니다",
-      "url": "https://t.me/WalterBloomberg/38619",
-      "ts": 1795009434
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "DANSKE BANK ADDS THIRD FED RATE HIKE, SEES RATES AT 4.50%–4.75% BY MARCH 2027",
-      "title_ko": "DANSKE BANK, 세 번째 연방준비은행 금리 인상 추가, 2027년 3월까지 금리를 4.50%-4.75%로 예상",
-      "url": "https://t.me/WalterBloomberg/38620",
-      "ts": 1795009437
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "US Sentiment: Nvidia Boosts the AI Sector, but the Rebound is Narrow - FJElite",
-      "title_ko": "미국 정서: Nvidia가 AI 부문을 강화하지만 반동은 좁습니다 - FJElite",
-      "url": "https://www.financialjuice.com/News/9857909/US-Sentiment-Nvidia-Boosts-the-AI-Sector-but-the-Rebound-is-Narrow---FJElite.aspx?xy=rss",
-      "ts": 1795009557
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "JPMORGAN’S FORMER CREDIT-CARD BOSS JUMPS TO WELLS FARGO AS COO",
-      "title_ko": "JPMORGAN의 전 신용카드 사장이 COO로 WELLS FARGO에 합류",
-      "url": "https://t.me/firstsquaw/193888",
-      "ts": 1795009565
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Apimeds Pharmaceuticals US Reports Third Quarter 2026 Results, Delivers First Operating Revenue from Technology Services",
-      "title_ko": "Apimeds Pharmaceuticals US, 2026년 3분기 실적 보고, 기술 서비스 부문에서 첫 영업 수익 달성",
-      "url": "https://www.streetinsider.com/Globe+Newswire/Apimeds+Pharmaceuticals+US+Reports+Third+Quarter+2026+Results%2C+Delivers+First+Operating+Revenue+from+Technology+Services/27367446.html",
-      "ts": 1795009637
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Transom Capital Completes Acquisition of SoundThinking",
-      "title_ko": "Transom Capital, SoundThinking 인수 완료",
-      "url": "https://www.streetinsider.com/Globe+Newswire/Transom+Capital+Completes+Acquisition+of+SoundThinking/27367439.html",
-      "ts": 1795009645
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Citigroup: Nvidia Earnings Provide Relief to AI Trade as USD Firms - FJElite",
-      "title_ko": "Citigroup: Nvidia 수익은 USD 기업으로서 AI 거래에 안도감을 제공합니다 - FJElite",
-      "url": "https://www.financialjuice.com/News/9857919/Citigroup-Nvidia-Earnings-Provide-Relief-to-AI-Trade-as-USD-Firms---FJElite.aspx?xy=rss",
-      "ts": 1795009767
-    },
-    {
-      "source": "The Verge",
-      "title_en": "Samsung launches One UI 9.5 beta program with new privacy and camera features.",
-      "title_ko": "삼성은 새로운 개인 정보 보호 및 카메라 기능을 갖춘 One UI 9.5 베타 프로그램을 출시합니다",
-      "url": "https://www.theverge.com/tech/1036477/samsung-launches-one-ui-9-5-beta-program-with-new-privacy-and-camera-features",
-      "ts": 1795009793
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Unicredit: APEC Focus Shifts to Historic Trump-Xi-Putin Meeting - FJElite",
-      "title_ko": "Unicredit: APEC 초점이 역사적인 트럼프-시진핑-푸틴 회의로 이동 - FJElite",
-      "url": "https://www.financialjuice.com/News/9857920/Unicredit-APEC-Focus-Shifts-to-Historic-Trump-Xi-Putin-Meeting---FJElite.aspx?xy=rss",
-      "ts": 1795009856
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Anthropic Starts Trading Tomorrow. You Buying?",
-      "title_ko": "Anthropic은 내일 거래를 시작합니다. 구매하시나요?",
-      "url": "https://www.barrons.com/investor-circle/community/anthropic-starts-trading-tomorrow-you-buying-95?mod=article_inline",
-      "ts": 1795009924
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "IAEA Appoints Russian Sanctioned by Ukraine for Top Nuclear Job",
-      "title_ko": "IAEA, 우크라이나의 제재를 받은 러시아를 핵 관련 최고 책임자로 임명",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/iaea-appoints-russian-sanctioned-by-ukraine-for-top-nuclear-job",
-      "ts": 1795010012
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Apimeds Pharmaceuticals US, Inc. GAAP EPS of $7.68, revenue of $2.89M",
@@ -11504,6 +11420,90 @@
       "title_ko": "Qisda의 Arivor, 랙당 200kW 2단계 직접 액체 냉각 솔루션 공개",
       "url": "https://www.digitimes.com/news/a20261118PD257/qisda-liquid-cooling-subsidiary-aewin-cooling.html",
       "ts": 1795046682
+    },
+    {
+      "source": "The Fly",
+      "title_en": "Anthropic PBC Class A (ANT) Stock Research",
+      "title_ko": "앤스로픽(Anthropic) 클래스 A 주식 리서치 보고서 발행",
+      "url": "https://thefly.com/ANT?storyid=4470357",
+      "ts": 1795046707
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Nvidia Turmoil Spurs Valuation Rethink of Japan’s AI Shares",
+      "title_ko": "엔비디아 변동성 확대에 일본 AI 관련주 밸류에이션 재평가 움직임",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/nvidia-turmoil-spurs-valuation-rethink-of-japan-s-ai-shares",
+      "ts": 1795046710
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Tencent's revenue rises 8% as AI spending weighs on operating profit",
+      "title_ko": "텐센트, AI 투자 비용 부담에 영업이익 정체 속 매출 8% 증가",
+      "url": "https://www.digitimes.com/news/a20261119VL201/tencent-revenue-operating-profit-cost-demand.html",
+      "ts": 1795046713
+    },
+    {
+      "source": "Barron's",
+      "title_en": "China's Xi To Host Historic Summit With Trump, Putin",
+      "title_ko": "시진핑 주석, 트럼프·푸틴과 역사적 정상회담 개최 예정",
+      "url": "https://www.barrons.com/news/china-s-xi-to-host-historic-summit-with-trump-putin-15cdeaea",
+      "ts": 1795046716
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Nvidia's interim CEO tells staff \"let's move forward\" at first all-hands since Huang's exit",
+      "title_ko": "엔비디아 임시 CEO, 젠슨 황 퇴진 후 첫 전사 회의서 \"앞으로 나아가자\" 강조",
+      "url": "https://www.digitimes.com/news/a20261119VL200/nvidia-ceo-staff-earnings-jensen-huang.html",
+      "ts": 1795046720
+    },
+    {
+      "source": "The Information",
+      "title_en": "At All Hands, Nvidia Interim CEO Tried To Reassure Employees, Prevent Talent Loss",
+      "title_ko": "엔비디아, 전사 회의서 인재 유출 방지 및 직원 결속 강조",
+      "url": "https://www.theinformation.com/briefings/hands-nvidia-interim-ceo-tried-reassure-employees-prevent-talent-loss",
+      "ts": 1795046723
+    },
+    {
+      "source": "전기신문",
+      "title_en": "“원전 해체, 지역기업의 새로운 성장 기회”...기술력 있어도 사업화는 과제",
+      "title_ko": "“원전 해체, 지역기업의 새로운 성장 기회”...기술력 있어도 사업화는 과제",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=374966",
+      "ts": 1795046726
+    },
+    {
+      "source": "전자신문",
+      "title_en": "애플, 올해 '앱스토어 어워드' 후보작 45개 공개…당근·붉은사막 포함",
+      "title_ko": "애플, 올해 '앱스토어 어워드' 후보작 45개 공개…당근·붉은사막 포함",
+      "url": "https://www.etnews.com/20261119000020",
+      "ts": 1795046729
+    },
+    {
+      "source": "코리아포스트 한글판",
+      "title_en": "한화시스템, 미국에 AESA 레이다 첫 수출…대규모 후속 공급 협의",
+      "title_ko": "한화시스템, 미국에 AESA 레이다 첫 수출…대규모 후속 공급 협의",
+      "url": "https://www.koreapost.co.kr/news/articleView.html?idxno=90207",
+      "ts": 1795046733
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "Anthropic IPO日本部分筹得约30亿美元。Anthropic向日本投资者出售约3614万股股票。（彭博）",
+      "title_ko": "앤스로픽, 일본서 약 30억 달러 규모 IPO 추진…주식 3,614만 주 매각 (블룸버그)",
+      "url": "https://wallstreetcn.com/livenews/3202252",
+      "ts": 1795046773
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "KB證 “삼성전기, 엔비디아와 협력 확대 공식 발표…기판 공급부족 심화 전망”",
+      "title_ko": "KB證 “삼성전기, 엔비디아와 협력 확대 공식 발표…기판 공급부족 심화 전망”",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/11/19/IE3HH54CLJF3PHZTYGZOA3UIHI/",
+      "ts": 1795046836
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "GERMANY AND AUSTRIA PROPOSE FORCING TIKTOK INC. TO FIND A LOCAL OWNER FOR EUROPEAN OPERATIONS, FOLLOWING A SIMILAR US MOVE LAST YEAR",
+      "title_ko": "독일·오스트리아, 틱톡 유럽 사업부 현지 매각 강제 추진…미국 사례 뒤따라",
+      "url": "https://t.me/firstsquaw/193986",
+      "ts": 1795046838
     }
   ]
 }
