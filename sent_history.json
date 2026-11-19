@@ -1,29 +1,6 @@
 {
-  "updated_at": 1795048907,
+  "updated_at": 1795049062,
   "id_hashes": [
-    "1c86274841a34a68f374af8886e4e7de5236961cd661adba90ee70aceb1d54fe",
-    "f1d5a1192ff35bdba6f72d146fa34f3aab2ba41ccaab1ae2f5c2eb350a8d5eea",
-    "ca06c669d25ebea882bebaf2d8257902bdc97faf0c517db68449879a6ac4e145",
-    "99c9f84c64c03b89845f2b1d002cc8293dcc570680de4b8cc2498322af3765e6",
-    "d40a1c7e0ec52462ec30236e83c2da0814191b4f1d357153c52ba6195f897d32",
-    "4c4ddcc5751f468d54aa3054c87eb211cff8671db8e1b48a2ea713fd6822744c",
-    "dd398321d241952d4a93e48498aec67e00ce55a420cb0f412ec94a1b1c3822ed",
-    "d539a11c8d9a38156aa2819ee11b114e13bbfb8403d4409c805fc5b0179e0b37",
-    "c44063fa3a55f05a552635a4e994a733ba15fa98297cc9d01e52c5e30a8d76c4",
-    "d73ba93b0f11e43874887dffdbeeaa978bf1526fafdde75c593f99e0f18a5c78",
-    "378ed06c97504c614be8a1c15770395686e895bf39c67c4a0faab43d6aa4171e",
-    "cd6773e67c97fbaadf9a881a4291e2a4b029bece629fb52061c98d1fed8d6618",
-    "8b2d698e243a9805430827c015e0739e694a0166b277c3035edbb1ccc53c36f6",
-    "22c133d37a3e8889592696a58a82c1f852d9cca683a03c5c980a9ec570f7961e",
-    "4d5195b0f94e0fa0ef3bc3458de4effe1a50257bf692ef63bd83e862c4b598d8",
-    "148a10057978c7a49f2282c2c4300d55604c8a88e587012b2461d4701231baa1",
-    "e2452053f972d0d26b57c0b86242b63c3cd1c35148f3fe5af5e14f6766de66b1",
-    "57f5bafd73ba7c6da7c162d5eaecdf9bd0bdcd72e04cfa8669e6209272704530",
-    "c2b04c00aa2f9c13280211bccac08035db8820d684cb428ea84f48ce77976505",
-    "df8d90c38c0a09e64741070cbe66db89263b6292a7c9637b768bd7247835e020",
-    "6c67e359ff7725103537f9731fd33933dba5fe393e71624523e473224b1057ef",
-    "6070d799f52230b1b3d2642fd5fcf04dfab0dc466df9b63a11d9ba048e7dd9b1",
-    "d8cd4e4e400dcc7cdf3da8c2a80b81e2fbcb991cbf6148cbd7d27725db6ac884",
     "c3ed4333f877d51b23007eb35dc092bf5b0b2c3dcf766a997d1405ffd432486c",
     "be8f833cb9ee89e97889175604f6b3647dc1b199c5bce014c36a3fcc974b44a9",
     "8f97bfe45c4a72826cd328c2407ff26194f3be48df81b850607c80b84b5c0983",
@@ -4000,18 +3977,32 @@
     "38164dfb500b2771a2fb9a890c366c612e03c0299d720151c11a3ed792a5d13b",
     "231edf30786f0321cdb61b2e95767dcfb0472b9a3017a4b90a2ce36eb0dffc21",
     "9e48d26f86ea1a0eafdbd4e0338f67ff320cad0e7c3e54e1ab7ce046365fbb1e",
-    "a0f706b62478b56941e72893895330e624f37728c6764c52789ea7720aaceff3"
+    "a0f706b62478b56941e72893895330e624f37728c6764c52789ea7720aaceff3",
+    "dd597cc22db7f7062d0afb42b2ba44e66410b3b5f37e4ab49773bff3a8eb8471",
+    "ede8df7b2731e0736a2a3acfe2a86859551c6e7e747976d79f4d123564124419",
+    "797cd5d789f1d9ba9aa18222f38b0ae6d1dfae36c603086a7f4eaae7a8475974",
+    "8632583e7032cc91a288f8153d5b72c3cf42e5b1c0e6ace2a11b4f55b4662b85",
+    "bd0a01847f80fd458686722f41aff12bfded7c5b9ea432453bc639768e369c48",
+    "67ca35d4e9118a0ab43da5d6d43460417df44ee2155f11d96797dcec436edfd8",
+    "310ef5ed9366383bc070414ad4fdb63c9d181dd14da6459194633bd5faf9cb58",
+    "6fba887363d045b34a88670038072553599cf10b85ccea0e7f316cf963e3da23",
+    "dd9beef8eaad825d5a0e50d1b73f799ea3e37d5f9551c99c3ea42e01814af7aa",
+    "61e350ad1d40e9df7b2b54c43887dee53cad3885d7c93d3ece069ed0dbc8c163",
+    "0f60ecaab17e33e5330d26d1dc5ab8e22956a684bb42e3912100382f6eec9319",
+    "ea82156257d2c7dd94f86cc66f191fe5b269fba18b89fbbefdc53aa04f8a51bb",
+    "9f1096863d0cd082c23353e57ae82edfde95a719bcfb7885bfb4564526d74b14",
+    "d2379afb07076d5107e1a2ef949553f34b45e37a8edec566e00e6c9e8971b1a4",
+    "2b5f460d37327fc8fd9dc64d9a5fc5fe78e7076c804bc967f29679b4e88ff7df",
+    "33714d7ab10d15a23fbfee5adf09ac3ef532b015e5a1583da46c1e8a3b2811d7",
+    "5b570a1a699473d9ceab741a0ea58fdad6c85433edb393353cc5d38e1641f4df",
+    "1fce9591713b797c3cd6614f0a6f046322f38edbf8fd341a3e90048896e975cb",
+    "6f5a16f8ac7a1fe891715fdeef5947424b5ebec94dce03aaa2ef06ce25497d1b",
+    "f91448c83986be7ab1f92bf7d273fa42b5b30ba68895081936db8762cb2d5850",
+    "7713424a018f031dd81f38ca8c207f68234f5f128890dccaa5b93a32ddbff943",
+    "08aef1888d75d832144147d769020763d3dc25e67d533e424510b112882cbd1a",
+    "b864ba69c8e8a9e1ad9bf5999dda647d53279ee28e6b3a15b5e7400ad869ac7c"
   ],
   "title_hashes": [
-    "e32c9f54f77d5e6f166cd410d82fbae2672a298ed1695ff2554820b5d1de2b6d",
-    "65657ef6615c4058d49c5e1dc5868e2f8288c73c5b36ee1b8219c63f66df0908",
-    "3ad49f317dc220915053b4618b0df143a4cac10a7d312e08f7ef73c966cd6baf",
-    "8fcc6f82dd8df898a8dcc0159e9dd8083884e86727467d89370cff7583f26bf1",
-    "c34cc377058838e0a2dd9ad8daa2dd66f248639d83a00dede43aff1298117aa1",
-    "ab7b6dc367b61b9efa96bdb40f372b5fdc1dc404e095448c812ec16c1e9bf6b3",
-    "6afd7c67a064595bd61c4061184f0c842eefb7848ee05da5f5bcf72a8cbe456b",
-    "f366a40a75888be91e1be02024f73b840b891bc7eef2a9f20b4716bb40e70bcd",
-    "9a1ed63adc8e2f15bc973b192e846581716a927e1ed985ad85b49b7a4ec1a12f",
     "4622620481a0293721df84268932da80ecbd93bfd540cbf51d0e0b426fa4c259",
     "d8103ae679f3a5f3865aff0645c6e1930b591a6a4677b065b006849c26822a1c",
     "6bfbd0a1f73ec794bd2407395d765a250fe2ee17ac95273c6aec51f413161c43",
@@ -8002,44 +7993,18 @@
     "4835afbb92592693fdbce2b52039683b79fab5f044c75962ffb5b67d8c6ff335",
     "60c401baaff2df331cfb7b600479c39073f3992aa0ebb60c3779376a6ff74fbf",
     "a699ae9a9e78d2642f18ce9de9b856027fd1d0b90598248e7b220cea4bd8378f",
-    "3f526bb83a3081d41d631d9a978d268c2c8b6ca4eb560e21d8ff068bd7a30642"
+    "3f526bb83a3081d41d631d9a978d268c2c8b6ca4eb560e21d8ff068bd7a30642",
+    "17ef6c6ceeca889615f3dfd96779e2bcdd1907c00d681ad19b4b7fc7704da372",
+    "1f7bf16d0e9b09554c0ead5342339696554bda4dc9d2d5e8e87e02caf8ec9a31",
+    "f9fb3616a89b8216864914acaac18e1621ba6d49ececec881b8f0f310a3d2d91",
+    "4fd93652115500cf2f3332c726277ccf156db2e3d850bbbd7a504ca96ce50bb1",
+    "99808cf763a5b5e90373b97ee28351d169a06efe5fc6e0d971eb2de943dccd05",
+    "73fb09a52e8a32029c97f5650c4dee7ad882b8c23ba504276046f8d28580b589",
+    "407c4bb55674ff1acf10854cdb2ec74155bfee7eeecf7ba16fad31ca0e04e693",
+    "68c282fd3dcaa726829322b8588bc76fe386ca8d9002c5f28e742d37161a297c",
+    "ba35fa70f5ea43439da7fc63746beb5d435ae49a8a5533c25f3984f26752251e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Microsoft sees growing demand for Nvidia alternatives after Huang exit",
-      "title_ko": "Microsoft는 Huang이 떠난 후 Nvidia 대안에 대한 수요가 증가할 것으로 보고 있어",
-      "url": "https://seekingalpha.com/news/4674171-microsoft-sees-growing-demand-for-nvidia-alternatives-after-huang-exit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795011533
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "SpaceX targets Thursday for USSF-317 launch from California",
-      "title_ko": "SpaceX는 목요일 캘리포니아에서 USSF-317 발사를 목표로 하고 있어",
-      "url": "https://seekingalpha.com/news/4674182-spacex-targets-thursday-for-ussfminus-317-launch-from-california?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795011554
-    },
-    {
-      "source": "CNBC",
-      "title_en": "Trump admin insists recent closely timed tech outages aren't connected",
-      "title_ko": "트럼프 행정부는 최근 시의적절한 기술 중단이 연관성이 없다고 주장",
-      "url": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
-      "ts": 1795011769
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "MICROSOFT, INTEL EXPAND PACT ON AZURE CLOUD, AI SUPPLY",
-      "title_ko": "AZURE CLOUD, AI 공급에 대한 MICROSOFT, INTEL 확장 협약",
-      "url": "https://t.me/firstsquaw/193905",
-      "ts": 1795023276
-    },
-    {
-      "source": "FT",
-      "title_en": "JPMORGAN SEEKS TO REVIVE STALLED SOFTWARE DEBT SALE WITH STEEP PRICE CUTS",
-      "title_ko": "JPMORGAN은 급격한 가격 인하로 정체된 소프트웨어 부채 판매를 되살리려 합니다",
-      "url": "https://t.me/firstsquaw/193906",
-      "ts": 1795023284
-    },
     {
       "source": "WalterBloomberg",
       "title_en": "US CRUDE FUTURES CLc1 FALL BY MORE THAN $2 A BARREL TO LOWEST SINCE AUGUST 28, ON SUPPLY SURPLUS OUTLOOK",
@@ -11504,6 +11469,41 @@
       "title_ko": "트럼프 \"생화학 무기 위협, 과도한 공포 가질 필요 없어\"",
       "url": "https://t.me/marketfeed/1081136",
       "ts": 1795048791
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Trump Says US Won't Turn To Moscow Or Beijing For Assistance On Iran",
+      "title_ko": "트럼프 \"이란 문제, 러시아·중국에 도움 요청 안 할 것\"",
+      "url": "https://t.me/firstsquaw/193998",
+      "ts": 1795048989
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "AUD/USD Drops 0.3% To $0.6694 In Wake Of Australian October Jobs Report",
+      "title_ko": "호주 10월 고용지표 부진에 호주달러/달러 환율 0.3% 하락한 0.6694달러 기록",
+      "url": "https://t.me/firstsquaw/193999",
+      "ts": 1795048991
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Australian Unemployment Jumps to 4.9% Following RBA Rate Hikes",
+      "title_ko": "호주 중앙은행 금리 인상 여파, 호주 실업률 4.9%로 급등",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/australian-unemployment-jumps-to-4-9-following-rba-rate-hikes",
+      "ts": 1795049054
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "한투지주, KDB생명서 카디프생명 인수로 선회",
+      "title_ko": "한투지주, KDB생명서 카디프생명 인수로 선회",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445475",
+      "ts": 1795049059
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "\"코스피 1만2000 간다더니\"…골드만삭스, 목표치 또 낮춰 \"7500 전망\"",
+      "title_ko": "\"코스피 1만2000 간다더니\"…골드만삭스, 목표치 또 낮춰 \"7500 전망\"",
+      "url": "https://www.fnnews.com/news/202611190922582374",
+      "ts": 1795049061
     }
   ]
 }
