@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795118126,
+  "updated_at": 1795118273,
   "id_hashes": [
-    "76cdcaa7ab4935e3ef4b41845e774635984ddf63bc9a6d30a69755ce6de101ce",
-    "f91083630d1a624d3e3f6102721d30f056f97b4bcced38ea4b2a1c517ab8348b",
-    "009b065ccd5b387a14e2cddcde43a3f35e826bc561f951a332412a02127a817e",
-    "e2f317a8f8d463cc79d02b15dafc66e2efde1207ee228967416d9d87017bc453",
-    "795fbcf2da1e6122d93196f58dedec387d25e626a6c0e54b246adfdbdaf72762",
-    "86a7a3f8224c630826ece608f10eab4ed0df8fa053d83c9a8d7877f07df4f3c7",
-    "458092513f1c3b23b46a6121cf4105cd5b0786ca7f1404c7aa30c58ea0d8a021",
     "4b89a4990d2c79bdbfba437095617b372491739ca40a639716b6f3021d8e291a",
     "f2539ce0c4218e1e87f8d4b3757045fbe7c8634868caa70fad6aa970867440bc",
     "e08f34757cbbd52ca32c6a50a201f00dfea870e1fbc38fc12350c01bd4560888",
@@ -4000,15 +3993,16 @@
     "63a17570194f144921a80728647bb629b769c741cb55fa80a069fabaa993b239",
     "3403435a9089cbb8757b667c9b1dbd05d0f3ee377660907f969f1b591bf6110d",
     "44a7cce623e0c3a5ef0cd2b9cc08d9f592c8fca9ba92ab6ebed350b472a3eafa",
-    "48c5ed02f217f9fe7dcea87d025ea2289ac51ca5417fb47b70ca243c9b7182e3"
+    "48c5ed02f217f9fe7dcea87d025ea2289ac51ca5417fb47b70ca243c9b7182e3",
+    "7daed314638793173cee76dbd0e41e4a6508068282b7cb6d7366eedd552a4a43",
+    "ca350b4f1ab4a397682f3bc162e24958a74f8bed50bd6111a6b024de502bbcaa",
+    "49f3cff5ddda77e5a046e896a9062553adc54fe7615b2f11ae045fbb65c3c208",
+    "b9b1da24450ed1913e0e37cc1843cc96403637e33fa0d7e05875d578c96f1a3b",
+    "30b6d18d1b9b6a5467a8e4f68cd47ec374d2368e9ed1d76ce4d32e813514bee9",
+    "f3bc17b410671f79850bee7684708e149483b3b69181bbb1783d5081c547fbe4",
+    "28faa01d18bab1030a62cb5848e29f42a0391647327748839ddb4dad52c0b4ac"
   ],
   "title_hashes": [
-    "9734eb6f4ea5607d26310a8a78e261c0996e54df3e72e3559330b1eac0dbb623",
-    "e8dd15a8862bc82cdee96bf4a30bbc935ff3bba81dc0ed1205f23d6c8bede668",
-    "8a5108024ac8fe005e59a9173d0c0f3b27d205b260cf2a45616f20eb010a405e",
-    "9c5b22e5190d5b383bfab2eb6f22e857cef94364881ad338012313ea3c931e28",
-    "84dda6987cf60ed7b4512f9f69354b29c570227acb9a2472fa01e119f2bda402",
-    "ca4ff6e271ffac8152818a6eb2aa708603fd65122946ad35f8eb968ae7d21440",
     "ade09cecd109005cc1d950ba579ab3668aa4157df359a48b0a730858b42877e8",
     "c2ddc472d39950546c8e13864baf9f307b989fb45eb7d7b47096818ec15f5bfc",
     "636fcde9d26012350617f8915808766bdd4d0f85d997dd5b773762dbe01761a0",
@@ -8002,16 +7996,15 @@
     "8f89c0a4d54fd6f24d8ec082b264096800b96974e11905a1189b968a17cbcd93",
     "81493ba53fa620a7ae009f65cdc15d040661086e5fd5c659e50c707ff5a99d90",
     "ca13a4edd2cd7cf84864d087daade936f578d24a5186ce114a159b1dff2358b3",
-    "e5724e7aea01e2a4cde87fb058863e91ab1148c5255ab6080093eca9aa78a366"
+    "e5724e7aea01e2a4cde87fb058863e91ab1148c5255ab6080093eca9aa78a366",
+    "a9f92dde959c02c86283abc9a6544cc60954765dcf84a2aa8a0dfc862e208c8a",
+    "f8f49bddd94eb20f36364436d2c6e9d1ae89aaa8dabc83e0c6c4132c3fc1a47f",
+    "2270cc8e82eb011991b052f39dfe83f7ff26c888ceb7e776c0450cdaac35688c",
+    "54c8892f00b13b87431a76cb1ef2dfad0266e0ca95320e694a1ee140df6d3ed9",
+    "cdbb92545150576f0e728687d821fd692937f53f962f94635c550115a9aa33b8",
+    "2001a937daa23a578cb319611a6a182ec3809e9f917aa22a7e82766f9e9c8636"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Reuters",
-      "title_en": "Temu owner PDD beats third-quarter profit estimates as marketing spending falls",
-      "title_ko": "테무 모회사 PDD, 마케팅 비용 감소로 3분기 순이익 시장 예상치 상회",
-      "url": "https://www.reuters.com/business/retail-consumer/temu-owner-pdd-misses-third-quarter-revenue-estimates-2026-11-19/",
-      "ts": 1795091893
-    },
     {
       "source": "StreetInsider",
       "title_en": "West presses Iran at IAEA to let inspections resume at bombed nuclear sites",
@@ -11504,6 +11497,13 @@
       "title_ko": "미 의회 \"엔비디아·AMD 대중국 고성능 칩 수출, 상무부 승인 완료…전용 위험 낮아\"",
       "url": "https://t.me/firstsquaw/194321",
       "ts": 1795118063
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Walter in Advanced Talks to Sell WNBA’s Sparks for $750 Million",
+      "title_ko": "월터, WNBA LA 스파크스 7억 5,000만 달러에 매각 임박…협상 막바지 단계",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/walter-in-advanced-talks-to-sell-wnba-s-sparks-for-750-million",
+      "ts": 1795118210
     }
   ]
 }
