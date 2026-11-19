@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795072034,
+  "updated_at": 1795072183,
   "id_hashes": [
-    "e77e94c01869290ca8563306f4ac2de1b15c2cda8bb50302bcb8c0d7d142b0f1",
-    "34b880431ea28657a62fcecb7a0d0918e2ed1fd733bfa139b388cbb0a1851ae6",
-    "761b7aff6bfc31b2002113b1168db12bee743c6c5ff5687e13bcc34a27941c72",
-    "5db6fa6583b6eaebd47edc689a40427ae24e2420f462f9453dfab6ada508cb64",
-    "b2dbce302c5cdbb6cd322fe3fa1500fcf7f08702fde983ea57c2d4c58afe7cfc",
-    "00b539920a992e10dfbc048e4579d1028da05d12a826099d259df68bfa176dea",
-    "4bf289600bd4802aec711b017a22df7b62c686fc70196e5a0aecb3acd56c032b",
-    "c5fe1c193d33a0594fa7587dc3acc061ac21c2a3517b46d69c673af7b4095450",
-    "03841e058834a6738b7132786bde5c3642d4194e7b87dfb4751bc2e9a378bf29",
-    "3cf92f15ebeee5d2419a39327115550086f49d83bb874708db1fd0941cb90f47",
-    "6c7b914c05be938a38ca109751452433159d354c5e0a2612d74d641429d279ba",
-    "2bf6fdbd6b30605a228de2d60188002f2f4272cc8e7bd857eb51f6ea387ddbbf",
     "03ae2f576dbb6f8ad82f97560fb0f421cc27d4fac05ee4c589deb82dc22e0264",
     "cd2e0b9eb05bbafbabab92595819cca78b3e665327194d9973628ec9f9e82930",
     "c646b8d26d033264345d5de37d11c6ff8cdf6c820301740e62d7c7d05695d65c",
@@ -4000,22 +3988,21 @@
     "241b9516d9fcec06dd18692198bb13ae6d17290ea2e3013455c9564d040553dc",
     "2023379c4436bdd9543b03e84c0b37fbd80d4b2b64a3cca2485b0da21c8b2e41",
     "6c18d71b7841f8f0a189f3ce6c31b370ed1974bb1030978ef3cd3aab6b9c6988",
-    "87196d0ee35d74a7bdcad57e5ec90240ec48ca4705e95bc6f2418b6c1fd510e5"
+    "87196d0ee35d74a7bdcad57e5ec90240ec48ca4705e95bc6f2418b6c1fd510e5",
+    "c404aeaf2c9b73f3b9348438cae0e05685a30879322a86162997b46fb6f43536",
+    "5db4231fef72ba2e54a0af6be2c195ac4a8ff849c0dfdeb4f1e7f734827c0bc2",
+    "27d32101467809add7c5b4dd5280e0387a9274d0686fef61ac07016dedd1a415",
+    "080031ba803f872ffe9ebca13833de0160c495b744993f5ff55e254de0218aa8",
+    "6e04200ac52220244c91028ad7b093fc3e9b5360dd37b0701e3d789977552b7c",
+    "7ab66f1f1714b215ae7825ef358f0844653546f318dfbc6a71c8c54ff8def619",
+    "0a4d7b2d463179ef297fa05ed797ea602a3bf79923e630208f1f500e43989dcb",
+    "024bb116c95a4bf1698e4a6b48a433985263fdee56466af9ce289dafaf3e5466",
+    "ee470134ff012de6b2e69c05fa019b7d7d5b5b9ff98f00650422386b684bb46c",
+    "e0b5ab1171477f76f3d29cddf6de2790ed2b44f40b7d3a5b5eaf38adac41cdba",
+    "bbff21c3691bdbe1183e0baf1ac49ec441266b6942041a3086825c6dd9d6ea2d",
+    "fce6896a507d2c0f5a11f60ef3397bdfd508e5beabed601215bb0df0bcca2b08"
   ],
   "title_hashes": [
-    "e9eaabdc35f39994ed62ec8c9d4b40e7bfe0f5c6b1747cec20635044d8aa6d4d",
-    "2850594563d9721afdcffb7194a662b48ba03a7ba92cc4237cc37ad31c1f16d2",
-    "ec143590945df6793518967e665070c01569265fbae0628219e824818ac5a319",
-    "cb313077faa57d495536c4fb3f5e02b8cd8b7b481165314b2529056cfe78f751",
-    "cd82d779579f49fbdf06df3f9b35354b08abccf4ff650b013ed621a30e6ab714",
-    "40db33b230f4aacedc149e08a5764e6443a75b14a26e88a020bf1c522cc24a47",
-    "185b3dd17fa73735006fed88e6d527129c7674b9d3c27f961b00eb9f0bb0bfa4",
-    "f1a6161704c75aa9fb92cdeacfa28114b6bb20a5e44ab9043ec948a95db3d642",
-    "20e7adc1709e2cdd7ce602c9b85418299adc121a8541f3fe0261ed85a25b5b37",
-    "2ae094b3f5ead67b9b94aa1798309ebe73a2ae291524f19d5b38ad2937e2c01e",
-    "706953e5bdf06e69d53ef128b7c3338131c46bbbab046b5690070c134f78492c",
-    "bee317660ed2ee9f6acd3463df3246d252c7e00a7a86c1a68d95247895349649",
-    "11d95afa56c00266a0730a6d7732d5f989abe7e8feafd9952397156f43aad6ac",
     "e35aef3d951c6bbcc76e9dfab2ff02f9b9c5e0bca7c568910d5cf289190e4c63",
     "3154b2f287906f16e8e7128f507fba0842569776b2d6e6d2388be1ef2d0e40e5",
     "71ee0a1ece72e32591a0364d9c4ab5693c44f60402e3b273ce290b133ccdbabb",
@@ -8002,30 +7989,22 @@
     "d154680109005b62548b05da19a8c65c7aca53d030c4aa1aed0b8c29568e16cf",
     "d7df40801a89c3772f908737288e3701dc160ce1067eb5ef14ab5f6c6daa0d2e",
     "1153c29a96ea1194aefb8319129a13b58e2e6f6a2ab572423ae454b9083b4c6e",
-    "38aac3ee5071e766c1133b8f2700a861adce71eba2264852cb2db3e34aa7ade2"
+    "38aac3ee5071e766c1133b8f2700a861adce71eba2264852cb2db3e34aa7ade2",
+    "51066723ed07147287ffc59898e02766b38121191e8fe6a5cf8559ce4215e9c7",
+    "0dc1d146d1254922a0c62d904afc9fbc74a3bc0b9bc352eb14294c8eeba3b330",
+    "d8479dae9d0de2b4171010e4d9cbc49540ea179a4838a52a117db54e92b753aa",
+    "a17d161dd6f31f1d72717da90f52aa6ad8795e089d56a61226ec417e51a6a57f",
+    "bd23d8bcf48f09bb3825e0592d33f62444852c78dfb747be294b8180bd549769",
+    "32e7ad0390812c202af4771ee9e7696ed1bae88c8957db88def7a2a3794f3c5d",
+    "1a078e06040c5cec181e0b157a5d85bb2f1218558e522f8370bf0c3419a7192f",
+    "3422a1c60839f2c752e0a6550ed9c6c397e82d826260bc1ce291cb9482539aab",
+    "30570d4671604a86b404a6975d03896592c6f9fd9d83f6a4d3e1e00c1ccacbea",
+    "824c5a3e3b95216c7968bec057a0edb4f01913f3b25b501bcb2c802328777fd1",
+    "3c344d0a24abca922836607881f89b238065bcbd5db6678b0d6102bf45166ad5",
+    "670af137a1a615b9e5b8d42e58c0f7a2f275183889bbf2c53a2d97c078bc745d",
+    "45f9d2e66162ec3b87415e7425ce3ce9dbfee8f3ae663dcfba8a4684678b7d0d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "코리아포스트 한글판",
-      "title_en": "한화시스템, 미국에 AESA 레이다 첫 수출…대규모 후속 공급 협의",
-      "title_ko": "한화시스템, 미국에 AESA 레이다 첫 수출…대규모 후속 공급 협의",
-      "url": "https://www.koreapost.co.kr/news/articleView.html?idxno=90207",
-      "ts": 1795046733
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "Anthropic IPO日本部分筹得约30亿美元。Anthropic向日本投资者出售约3614万股股票。（彭博）",
-      "title_ko": "앤스로픽, 일본서 약 30억 달러 규모 IPO 추진…주식 3,614만 주 매각 (블룸버그)",
-      "url": "https://wallstreetcn.com/livenews/3202252",
-      "ts": 1795046773
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "KB證 “삼성전기, 엔비디아와 협력 확대 공식 발표…기판 공급부족 심화 전망”",
-      "title_ko": "KB證 “삼성전기, 엔비디아와 협력 확대 공식 발표…기판 공급부족 심화 전망”",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/19/IE3HH54CLJF3PHZTYGZOA3UIHI/",
-      "ts": 1795046836
-    },
     {
       "source": "FirstSquawk",
       "title_en": "GERMANY AND AUSTRIA PROPOSE FORCING TIKTOK INC. TO FIND A LOCAL OWNER FOR EUROPEAN OPERATIONS, FOLLOWING A SIMILAR US MOVE LAST YEAR",
@@ -11504,6 +11483,27 @@
       "title_ko": "\"중국산으론 역부족\" 깜짝 발표…중국군, 엔비디아 칩 노린다",
       "url": "https://www.hankyung.com/article/202611197755g",
       "ts": 1795072033
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "FTSE 100 Set to Lag Tech Heavy Peers After Anthropic IPO",
+      "title_ko": "앤스로픽 IPO 추진에 기술주 중심 지수 대비 FTSE 100 수익률 하회 전망",
+      "url": "https://www.bloomberg.com/news/live-blog/2026-11-19/ftse-100-live-updates-pound-gilts-what-s-moving-uk-markets-right-now-markets-today",
+      "ts": 1795072119
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "联想耗资5000万美元全资收购BIOS厂商Phoenix",
+      "title_ko": "Lenovo는 BIOS 제조업체인 Phoenix를 완전히 인수하기 위해 5천만 달러를 지출합니다",
+      "url": "https://wallstreetcn.com/livenews/3202397",
+      "ts": 1795072122
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Michael Burry questions progress on Wall Street’s massive Nvidia financing initiative",
+      "title_ko": "Michael Burry는 월스트리트의 대규모 Nvidia 자금 조달 계획의 진행 상황에 대해 의문을 제기합니다",
+      "url": "https://seekingalpha.com/news/4674517-michael-burry-questions-progress-on-wall-street-s-massive-nvidia-financing-initiative?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795072182
     }
   ]
 }
