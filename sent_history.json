@@ -1,29 +1,6 @@
 {
-  "updated_at": 1795115992,
+  "updated_at": 1795116149,
   "id_hashes": [
-    "0c8af6b5fe5943bf7d2bd5d6e209a26e85fc40b27ac6ce1a5ebf9ce80d603f54",
-    "f3b545540a9d1a2e08733cf17ee43160e4764efdc380ccc31e13ef966a88a76b",
-    "c98919cca0781eec1c555938798faefb1b3bffdfc94a4654ae942f8b757e6bdb",
-    "85afa7b3f3166a70a645ff190307c66bc2ff7a5481302bd677acf965428b48b0",
-    "2850d2854f164bfd0899ecb3decb56cb1b840a20906a4912078171e474f65993",
-    "bb18de7a3ed2b19153eb7bc35ff8028df4b0d4765861d33780e72525b1ce3a2b",
-    "a74eabac91ec656dc4088d6e0bdb0d0ac30c2230cd36152de93cfbe2ac8e8318",
-    "f5ca0dae8db9fc9d2efaa200dfa0fbd2fa88ffdd93d70492230cb939ad9a24a1",
-    "8a3412b19c020f837fd4c0599406b44db385c77ab27815d93ce58788906765a8",
-    "2a397a24a8c1a29f930cbbcb84da3a1b87e859fa18f81a0b8a24bbb68f12d68c",
-    "8f6a0f7e9283a4cef27494459b79df05a5e159585d01a6589b27ed4b70f00095",
-    "81cdae6e3f51cf9758aefc8c2375379e6ed6a13eb2faab5fee4a52d37e12cee0",
-    "acd779a62b4ec7073b244815b73f41681e40c8ddc90814b585e800bf5cb125f8",
-    "2e043eba635e06e1dde52fc2e7d11a7b3d301535807ea84ad62339ff57d5530e",
-    "1454404a1d721f884054d07377f7a419d43be509355224e3072e0f279d728de2",
-    "33d12355b4a81976bc68eac726cd28e27d7bc03e4cf3610eff000ab239f5fe3f",
-    "e3557773d9d78cdb13ff72bc146b09fd9cb37407a0f3b74f81a5bbae11a9f643",
-    "bfb9773aee173a4ec5084d138b91c94f71784c0925157bc858274307c4c1f19a",
-    "e1d57128aeff00431001b185d9687976220c4bc924b62d557486af072070c48e",
-    "ff6845a1948b791ffa6a5d76369f535845b5130c68667e0b479ea8233631905f",
-    "382c4da062d8d28e54f4c669461fd0aa19d0fd3dc69c121bed211e15396acde6",
-    "780a2a3a191b2ec84fc46c1ff3086943317f6953f178b8a3d9ca88af118bcf8d",
-    "bf86193c5c007aff091f87dc9f0f3e7b7da5853a92eaf02755d90f6065cbcb93",
     "761397b5a20c5ab23973d9bb4cdf1c2a72969e332fbc0525c1c4b2e0b5c9f17e",
     "23bdd941d8995b6cff06cfa4464a86ba8f8a6121286160c06c04208e1400ef0c",
     "4d1c2bde476b1acd886c0f412216535ed5a1f4849daee0acec5a98532bf57880",
@@ -4000,23 +3977,32 @@
     "203e38f956327dd31f623a0581295b6ceed553c0617539a8a220193695f8a271",
     "3f03e607beb6d742fa7699868e730ef259f12919913f9c475f9287677119219e",
     "b255ce67cf2022758a394700c52f486fb4fbedea76bc2fc53989cd7e8c0e8e25",
-    "3da43ca6b7034a58e8b87f0ef4fff177d78130a959d84a1ae6f722d3e4ce8592"
+    "3da43ca6b7034a58e8b87f0ef4fff177d78130a959d84a1ae6f722d3e4ce8592",
+    "7e33d09ead3a7dbc7642422d930b77f29eb668a871a0a68091ffcaeb6bed2cd1",
+    "fc52fb33f841f5d156399f1f1a709f1c9bcc1988d2ff19d430e75d33014f5848",
+    "aec2bc6c0d9c2412379e5fe119d50dd1e6522faa62f63bd47bb46332b5f91641",
+    "09427daa5247dbf987cdc94b5c0e7a7b33ea45bb49aa975232aeca31a2d65cc1",
+    "4cfe12e181f4d16cdf9b4578971ddb7506e0b42b9b6e197b212ebb35abeec03b",
+    "817b03a716ce2b0c3a167d6bdd4315c6ace9d67b24d168660ddf9cc66af9bd26",
+    "1e3ca1176cfc9515e47576368e764342c4991222b2e2c8d5e4e86feb285030d9",
+    "b4fa91d7db80f5adf87419a527603683f1eaf8bb09566358de4b678929b0f7e2",
+    "f75d6a9849d646e8f7ef442d29635affa082263d44ed26d31696724867356638",
+    "ad39e3c84ad53429e753ea37898fdedc54b662d68b8c24508d5cc883048f61ee",
+    "8c22c6ba123249574ad5c93ae203436a7a40be3b5ad29b033180a7d5851402d4",
+    "724556b53fe28d7984331fa6e3210d6981ae10f066ec64612b431d8d9feb7eee",
+    "b3f2dccaa90f42f84b3787d6850f65197f6d414271ba91b92c5f6b7a8844e5d5",
+    "31015bcc48222f40170c3893fef2a1f81d484364b9758d0e2ef27e96f197caa1",
+    "b27c87158ced48129dba46e1ea4693b3f8b1bfb5f169f00ad75b15a661f0e401",
+    "2a4bcb58be93af5a8bafc4b7f3906c658a727564f35413080d57c5e07c0ab6dc",
+    "b9e20f934aee0b1f554740257fcfeba09a93fb8def468050403637ca62167f47",
+    "6e3b151e805a0309bcabc208c2035e88d95bef1a1e4f4171cbe2eff296a084eb",
+    "a1b422cda7a44dbbcd11cd7b9f311000fba6edc968758da66dbd47a1e6fcc1cc",
+    "20c41b7ed064c78d16055b75b03855219d9c47f1cac1abd3062af317ed3cd6d4",
+    "ded3855d046a211ea81188711027313b0fcf77eefda706e5cdbfcebff50b247f",
+    "cfbd1337769feaa075d72f642120b40d2284be29adf6f497a0ff8ab63d84af7b",
+    "d594c5ec9609729fd382883a1a23b18a363b4f4898b195950a7c816019796bc6"
   ],
   "title_hashes": [
-    "0a8946b7b5f37a86142f766d629f764a2f679325c6b1957bf982a15b294e81df",
-    "0a63826cdea198c697f7acf960113a336770011eb81fb054df28f064709a9edc",
-    "2bef492fd36282e5b8a52c27b7562875b04e904e5050ddbe42b3bdff3ab4d430",
-    "81b57af281d81f881df1c6d78dd31cf94d293696063612a1f37b42862fd8c07c",
-    "6acbcc0f367c565567aaaf5651239c4239d0aa57759a1b3c3636680ea06d8df7",
-    "7b871310b2d21ea9fb7b40361fa803df1f80abd2dbb39db160fcfd16c24611e0",
-    "cf52241fdaea0f71f247281dc2ff2dda6e7d91d0614b1ca5833aeb401a297c53",
-    "64444bf14915da9db2d315fce55910e5285e99559fa01bd21491669e0a6e5ed1",
-    "ecf6b3fedd94a60e828fff62088992b9ec15d84ee17cae8a1c80f42052ff03a9",
-    "1b41f4b50b0913ea08cd93bdb46aeefe5c84c7d3354c2c9c9874bab15dc435c6",
-    "422b1e73f90222e1c9b08186956d81bf10962b3384884369105a79d93d51f20f",
-    "aed715bf479c6f597c991a65c91c2b0c2fc7eff2a76d2dc335d95f2819793e8c",
-    "deb06e0a0e8881af13222fcbc9ee782f746d836a412c9b293dd2f9ecbdc7c6c0",
-    "a951535b88a85b0edafeddf3706e5328591f0e06a2b244baae1d085b05a948df",
     "8ff7d9097ffd8581d358ae05b5b3f7bba8328d0b6560aae273e73e4bf38eb927",
     "16f646db505a6bd871d6cb3ff40c08bc3c69be6fc1ab67f63a8df40ab5e41187",
     "5164090cb8fd228c9eb0aed433f24c1e66ef3132c48106076523a5da6bfd76fb",
@@ -8002,58 +7988,23 @@
     "b2d0b2244b06268656a6b7b11045d5d5e451e7455dc9061d45994729b85dd452",
     "1f6a4deb757c904a0c23bfb7223973458ebe8c75935048280bb87c9ab975cfec",
     "2daae0b6a3689cf4c191024deac0ab5508f56a277a02cfb04b80e2d671060f36",
-    "873b06b5a3996c92fbc6832673ab45b65896a8f044c00bcf06e3782bba3f46fe"
+    "873b06b5a3996c92fbc6832673ab45b65896a8f044c00bcf06e3782bba3f46fe",
+    "440bdfcdaf6643bc2b599aba2f0728de2c29c407e8d00c641a94358ceb10a9b1",
+    "cbc7ce66d81e1ec7a49a0b94f52fe8045214177585803d018482883b9cfd5076",
+    "b4659cf7bf65825534cfd37ea1b755d92b15ff88dc943cc8bf31e105c943e82b",
+    "5c4d14d9d9ea78a0d71859c72dcb80bb5c62c971a9c91c6548ab188dbef5d690",
+    "0846b0a9b96f62475223a608405842a84622c220b43f8c36e52266da6928df04",
+    "c62b30546deb912da4802e58842aac4d6f03a71b08b96aef0a312cbeb9703779",
+    "26e8eabba21a56ff7f280e5504475e9db86b242573d79b23b1fc666286e3d698",
+    "cac04694597d7914cd8c33517dd19a0137d88fc207ad9e937207cb36f9e321fe",
+    "ab1659999b335db3a3b6d45e4ce99ab5036f09a811c83b27669704fbff13672c",
+    "30bf5e5848a443b18788188bb6f60be2e890f8590793c5eb7fd94569f754c3e8",
+    "28d1796434e285c676bd9f123346888a94b6e2c7ca8c386653b3450755dba6b3",
+    "3690fc24ba1b7d0c42583af9163ddab496a96ac2c1b780d08c462e17274c957a",
+    "22a41a0c74a381ade46a719792cd84e1b59ad04dc1ab612a0b4105c35cabcc76",
+    "3fe8ebe8cbb9daa8e33dce7f531535f3f3dbfc8c29763b029fdd2b62f490e680"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Nvidia Moves Ousted CEO Jensen Huang Out of the Spotlight",
-      "title_ko": "엔비디아, 젠슨 황 CEO 전면 배치 축소 전략 착수",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-19/nvidia-moves-ousted-ceo-jensen-huang-out-of-the-spotlight",
-      "ts": 1795089764
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "纳斯达克：Anthropic IPO 将于美国东部时间上午9:50开始报价。",
-      "title_ko": "나스닥: 앤스로픽(Anthropic) IPO, 미 동부시간 오전 9시 50분 거래 개시 예정",
-      "url": "https://wallstreetcn.com/livenews/3202573",
-      "ts": 1795089826
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "DEUTSCHE BANK EXPECTS U.S. DOLLAR TO REMAIN ELEVATED THROUGH 2027",
-      "title_ko": "도이치뱅크 \"미 달러화 강세, 2027년까지 지속 전망\"",
-      "url": "https://t.me/WalterBloomberg/38671",
-      "ts": 1795089829
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Nvidia Stock After Earnings: P/E At A 10-Year Low - NVIDIA (NASDAQ:NVDA)",
-      "title_ko": "엔비디아, 실적 발표 후 주가수익비율(P/E) 10년 만에 최저치 기록",
-      "url": "https://www.benzinga.com/opinion/26/11/63421283/nvidia-doubled-revenue-pe-fell-to-a-10-year-low",
-      "ts": 1795089894
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Satya Nadella Once Told Bill Gates 'Founders Also Die,' Says Jensen Huang Built Nvidia's 'Institutional S",
-      "title_ko": "사티아 나델라 \"창업자도 결국 떠나기 마련\", 젠슨 황이 구축한 엔비디아의 '제도적 강점' 높게 평가",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63421380/satya-nadella-once-told-bill-gates-founders-also-die-says-jensen-huang-built-nvidias-institutional-strength-to-thrive-beyond-him?utm_source=googlefinance",
-      "ts": 1795089903
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Air Industries Group postpones reverse stock split and dividend tied to Tenax merger",
-      "title_ko": "에어 인더스트리즈, 테낙스 합병 관련 주식 병합 및 배당 연기",
-      "url": "https://www.streetinsider.com/Stock+Splits/Air+Industries+Group+postpones+reverse+stock+split+and+dividend+tied+to+Tenax+merger/27372867.html",
-      "ts": 1795089907
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Construction Partners, Inc. (ROAD) Misses Q4 EPS by 39c; offers guidance",
-      "title_ko": "컨스트럭션 파트너스(ROAD), 4분기 EPS 시장 예상치 하회…향후 가이던스 제시",
-      "url": "https://www.streetinsider.com/Earnings/Construction+Partners%2C+Inc.+%28ROAD%29+Misses+Q4+EPS+by+39c%3B+offers+guidance/27372885.html",
-      "ts": 1795089910
-    },
     {
       "source": "Wccftech",
       "title_en": "Elon Musk Says SpaceX Will Provide Starlink Mobile Users Rooftop Microcell Towers To Push Signals Through Thick Walls In Dense Cities",
@@ -11504,6 +11455,55 @@
       "title_ko": "BoE의 Greene은 목표 이상의 인플레이션과 회복력 있는 경제를 언급합니다",
       "url": "https://www.financialjuice.com/News/9860498/BoEs-Greene-cites-above-target-inflation-and-resilient-economy.aspx?xy=rss",
       "ts": 1795115991
+    },
+    {
+      "source": "The Information",
+      "title_en": "Why Bending Spoons Could Tap Convertible Bonds Next",
+      "title_ko": "벤딩 스푼이 다음 전환사채를 두드릴 수 있는 이유",
+      "url": "https://www.theinformation.com/newsletters/the-information-finance/bending-spoons-tap-convertible-bonds-next",
+      "ts": 1795116023
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Anthropic Shares Soar Above IPO Price, Then Fall",
+      "title_ko": "Anthropic 주식은 IPO 가격 위로 급등한 후 하락합니다",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-shares-soar-above-ipo-price-then-fall-video",
+      "ts": 1795116082
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Fed's Barr: AI could boost access to financial services",
+      "title_ko": "연준 바(Barr): AI가 금융 서비스에 대한 접근성을 높일 수 있다",
+      "url": "https://www.financialjuice.com/News/9860500/Feds-Barr-AI-could-boost-access-to-financial-services.aspx?xy=rss",
+      "ts": 1795116085
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "BoE’s Greene: labor data indicates slowdown in disinflation",
+      "title_ko": "BoE의 Greene: 노동 데이터는 디스인플레이션 둔화를 나타냅니다",
+      "url": "https://www.financialjuice.com/News/9860501/BoEs-Greene-labor-data-indicates-slowdown-in-disinflation.aspx?xy=rss",
+      "ts": 1795116088
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "苹果在针对英国政府的用户数据诉讼中获阶段性胜利",
+      "title_ko": "애플, 영국 정부를 상대로 한 사용자 데이터 소송에서 예비 승리",
+      "url": "https://wallstreetcn.com/livenews/3202775",
+      "ts": 1795116090
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Dow Tumbles 900 Points; Walmart Raises Full-Year Guidance",
+      "title_ko": "다우지수 900포인트 하락; 월마트, 연간 지침 인상",
+      "url": "https://www.benzinga.com/markets/market-summary/26/11/63451962/dow-tumbles-900-points-walmart-raises-full-year-guidance",
+      "ts": 1795116145
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "BoE’s Greene: Labor market not as weak as we thought.",
+      "title_ko": "BoE Greene: 노동시장은 우리가 생각했던 것만큼 약하지 않습니다",
+      "url": "https://www.financialjuice.com/News/9860502/BoEs-Greene-Labor-market-not-as-weak-as-we-thought.aspx?xy=rss",
+      "ts": 1795116148
     }
   ]
 }
