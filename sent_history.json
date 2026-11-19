@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795067829,
+  "updated_at": 1795067975,
   "id_hashes": [
-    "30b6d18d1b9b6a5467a8e4f68cd47ec374d2368e9ed1d76ce4d32e813514bee9",
-    "23f0d8d611015eba273dc54d43eebee72f40a3471ff4c29ba4bb0818d1e40bfb",
-    "89e7d155a80edf168e712845a56d963bee8fe418b4fdf15b0bc0025b445cf07c",
-    "ff70d0bbe06bbbb5f062c9a301ae4165f9e5cdb6a13a4cb7a4d1d2c90dbbdb35",
-    "a6742ffe58e2e074c1be5f09633dd55cd9565e9ecf0dffa3f83acf7dea5674d2",
-    "326a08e2921797eac82661a759a401930e7936fdf959f504d430108074763cfa",
-    "268be64fedf47b6543de17a0dc4b86281ffe96df5adfb11f6d0eae2678b16ea8",
     "bec7a8c1a82bfc38a18904e2240908f5852970e241f5e84044e1e2263ad74236",
     "36495a4bf4f8067ed4c615bc57917b3d1677e4b8a64df8423888f77fe42a0da7",
     "86d6aae7dbf52610156acf9cba07fdab036df4b23c8faf19db2a263f0ecf6eb1",
@@ -4000,15 +3993,16 @@
     "48173d06e1edc5f0e19cd0d86a14f048cfbff0006ad2f2f9b06bc79b445cda15",
     "4c943400ca5e72bc89bc8df9c067e4c4b0e7b30e19fb78ca69a8635ef0f1d90d",
     "dfcbba7334f7ef96a3137ec4005ee51afe94cce16436b8ee6452a6745b1de2c9",
-    "91e87de97fd208841970689a35c254ea9fa5ec0116f105f5805fad126beba18d"
+    "91e87de97fd208841970689a35c254ea9fa5ec0116f105f5805fad126beba18d",
+    "10c892681ec38c75f730fc217b70d051b0d87ecb701c21be5daad2167143e5e9",
+    "892d97d26354ef360ac3407b6a47347f4bd74ec534be688751828c96ab469a72",
+    "d3d583b03d9fa36d7995f0a20e65c8d2ce237bbdf1ed1958da0244f89e797dd9",
+    "b26757b4cad65db3b3ffd820cb58888a1ae3df6b1e039de942f69774fee6ce33",
+    "c16e4c86364cd4fe958e02a5d040a086d22cdf2b8952f84c5f47022e8f30ffd5",
+    "55d84d664955f064febc097aa326aa529440b37761841564d8b91d5ac8308be0",
+    "43ef97bcdad879606f95115eee544d38dbddc2d301002e984c8e309dbd8fcf74"
   ],
   "title_hashes": [
-    "87a3167f726b14be8f21df758f587e8ca2de3b6dc84ad02b5e2c2b7063dd30be",
-    "cccd6cf52580a6feb3aa9b7f5b310e924a798e02fda69fe1fe9634e9c92bf573",
-    "16b7495be2325f4face8c1c68e655f635382f2250d3b50876b664a36274a1544",
-    "908dad00fb01f46bdb77b4d0e87b91c16c1c5074c534b0efc1f284493218607d",
-    "b91ab0adcfbffee2cdf8c9a74ad86f8aecee12d2839718fb91959a029b67b164",
-    "ce93a5c0ef06c52ff5b583b14a9b6eeee4d7e836e841cc9ca98ec4a6a54dc4af",
     "12951d79d2a6bea4243678537267d3723e49ac94bde5478071966a47ab60e47e",
     "3a420bcf996f922716c84d4cf61c9d548e066cc3414a6046ca05aad0b0f78aec",
     "34b0756bc2a786d877c5b5c69892c63a22a16b4a495775fef649ad5e3de33d1a",
@@ -8002,23 +7996,15 @@
     "9a17d655ec0424fd031a204f8988bb885a347267a9fdc11f42d55d30ce903557",
     "ed388571470ad39a0edc6a576ee10430e34cb25bdf802c180b1f1abd574aea78",
     "ab0a82bc960e61a84b62c6e21159f96e6ff9e755978e9c4cf9a66c7a9a2412f8",
-    "9d07decfe96856d77717eea0804ca0b50bdd2fb028ec7a0acb5bfa0b2807a5bb"
+    "9d07decfe96856d77717eea0804ca0b50bdd2fb028ec7a0acb5bfa0b2807a5bb",
+    "8e79b6aa640ccab6375a585a28d660ae9bcb132af9a65ad53088592c07565e2f",
+    "15a1dbb75964195e0c53cccd2823bd0b04f68d1368b779c03779b843296f4502",
+    "41f877e612565825c73002daa6409f0df04dac0c0daf50f4ad202158e061f816",
+    "608a8e57f6b25a5257a8ab7f71e77f8cd3bc414a797320532d56071a7f6a3f2d",
+    "0dce8a468125a67b2de1d606d5276cd34ba97e17f9d5bf8147a42caf9490ae70",
+    "917c4fa72ccc86197aa0a8783380171e8677011d60513c588641c90b9b6337dd"
   ],
   "recent_sent_articles": [
-    {
-      "source": "이데일리",
-      "title_en": "[오늘장특징주]엔비디아, 앤스로픽, 메타",
-      "title_ko": "[오늘장특징주]엔비디아, 앤스로픽, 메타",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=01774486645647360&mediaCodeNo=257",
-      "ts": 1795042916
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Here are the major earnings before the open Thursday",
-      "title_ko": "목요일 개장 전 주요 수익은 다음과 같습니다",
-      "url": "https://seekingalpha.com/news/4674240-here-are-the-major-earnings-before-the-open-thursday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795042937
-    },
     {
       "source": "Bloomberg",
       "title_en": "UK Pledges Long-Range Missiles to Ukraine Despite US Criticism",
@@ -11504,6 +11490,20 @@
       "title_ko": "엔비디아 CEO 젠슨 황 악재 지속에도 캐시 우드 \"매수 유지\"",
       "url": "https://www.barrons.com/articles/nvidia-stock-price-huang-cathie-wood-ef9d5868",
       "ts": 1795067828
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Four Houthi-Launched Ballistic Missiles Aimed at Southern Saudi Arabia Intercepted, Coalition Says.",
+      "title_ko": "사우디 연합군 \"후티 반군 발사 탄도미사일 4기 요격\"",
+      "url": "https://t.me/firstsquaw/194133",
+      "ts": 1795067847
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "주요 반도체주 보합세인데...삼성전기, '나홀로 강세' [종목NOW]",
+      "title_ko": "주요 반도체주 보합세인데...삼성전기, '나홀로 강세' [종목NOW]",
+      "url": "https://www.fnnews.com/news/202611191438235256",
+      "ts": 1795067912
     }
   ]
 }
