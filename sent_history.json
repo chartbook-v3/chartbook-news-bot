@@ -1,30 +1,6 @@
 {
-  "updated_at": 1795117532,
+  "updated_at": 1795117679,
   "id_hashes": [
-    "12abc1fa20d7b8e2fe7ad8a10f0db34004ae4b3e646f66270373979451817c45",
-    "8a4c37ee09aa0e887763e771c7e0afecd954e64ea3eac8b1358de46f5394f70c",
-    "962ccace42a19dcb013f2702aa6ec533b15d6ba69361182a4ddc1911adf6afd8",
-    "163db087546f43b5d7b085c4331043265db71f0f8769e1d76d7ae462fd90aaea",
-    "ad8cdf4aad9be069cf56262d48711f0a10c52ae822bb62f971530da0cfa41aee",
-    "b3a06a89f2f3ec8a31d7736c2cd6592205a85f5bdbd3134f7ff3982761553abc",
-    "67e99c6efc2df95cd238f942eb40512ee8b1f57462f8f52e18d1e1a0005aac96",
-    "e967e3d917a0d7eb715dcb856c8a7d9010e5039737288806d1a123f3453246b2",
-    "f579d53b010aea4af80d6ef9a1745fb4d711971eeaed3edf787719dc5d3c9ceb",
-    "6e9914a0f97cd969482d3e5c629ef7c61d250fa95d995b1107d7b187fff77a2e",
-    "a4bf2d1e173ca07dafef74e7171ab34dc957083f020af8ba87d30deced179db1",
-    "2789c133f10a750d8cb72fa7b8e5980409167bdeb5f51bd57cb9c359225a4f48",
-    "4bdebe67f424f3890402ba4c26c6c0aaf70de7c312e100dace93a92e0a5442be",
-    "ddc26afcc9855407c970dbe36c07bf6c46e61be545fbf5c72103f42defc49065",
-    "52b9498cd047992b42f0612692c7237d0a3a581a22830470d4c05e39d7c1828b",
-    "8af32e30b4d9a8b90152fe7fd74cacbc100cb99423b58e4c0b47c304b8b22933",
-    "470f3d61b0628d324763f661f091270867088a2360a8a6bad1b49e68acc790ed",
-    "f9b6e579a2f272fbe8352608bee17a41a317218251f304486ac1df9cc850d97e",
-    "99f7c8f2485ded911cd7f1ccd25fac3a51be5286d81847affdb528221669aca0",
-    "3a7f8b803ca49613d50a1169a2654975742da232d78c60200698111cf05ae0c7",
-    "305085a90a35256908d8419016341ae7273c8e642a49ffdc54b3b8b043a1f7b6",
-    "6b2e67a5c35a1e150eb1cf2e7bba4bfde4d4e722c24a5cd24194ef66c4113d3f",
-    "527a921ce2128ce7008f23c3697b907adc94412b988b9fd5900f498a3ee120e4",
-    "667385b9ccad0fe18cedbe1b4e8c2335c461f98b9583ff53ee53f3a6e31482b9",
     "d99aebab8a619b2121e93280ee6545c10a6af18a03c6c03a11072af070536f83",
     "3c82d4f09f0510e69d731640c345813f77584fb5eeac811b595b0f4484208886",
     "fa0974596ecac290abc48f086e793ef65c53fa4605069a585f6e8b0e3e19021c",
@@ -4000,19 +3976,33 @@
     "e65947e40c739bdaa7ad4f474fbc1f66e79ef37d798f7e8bc7d49295a9f176ec",
     "81b8d065571bf6a8a9891e27ab3f0c3bba05ac0c1e63dbfb347666d040c5d9a9",
     "837d2228fab11d8ac32cbb5b5608210e76497c5939a1b4ccb2c920117f238ed1",
-    "0d49f93c39184fd7b53e29f7529036d932101ffcc24dbac46af6836243d31cee"
+    "0d49f93c39184fd7b53e29f7529036d932101ffcc24dbac46af6836243d31cee",
+    "8fce23b536dfec07d0509fb9a32c63a9a73b2c7af2042e9ff345149644bc2f35",
+    "aeab7b9e7912d6725622bd7607462e597cb98ca489409ae172b731b39271ec84",
+    "2684de0eec855cc3b5648893b82aef837193fb8191555318e1d838e6c8e26b94",
+    "4c54a42ce1c7beb26a517e957f2c2e1defbf68c9c7f3d6cb5a9c8bc2eebdaa5e",
+    "09189a7d273a251329b4d9aa36e3e3d865120d4d3ea134bcc2b56670cd893a7a",
+    "2d2abfbed7663c9793d4211fe53d5e758213ce27a085e7e3c4e5c9952e2c4544",
+    "c52d336fabb6d2bbf257b0b15c79d4c83941eefa878c56edbafb3aa23ba66e34",
+    "4c9b1c71c8ce7174f8336d776d868f7af7b582ef0dd19a7fb239d0bf1a8cf6ea",
+    "f79de0f28b8cda14339677d4600c58a474a2fd81f9797c540e487cb5979fd87d",
+    "d086b086773b64c36701e69717fb26a5767f882919cf0f5965aa9bb6005d7da3",
+    "66b4f16bb93f557728db2a203ce25cc884637ae92b45035493cb6afb4dfc042f",
+    "796e652cb8b93e2cf29d695f17026b48cec180fb073b4a9f4b883c58bac6e14e",
+    "fbf29f215f7805d4dfd6c1ec3081f59955f213ec5adceb1fc0a3d84eaa22e6cc",
+    "e6e7c48d84414f9bc4cf23e8891c05fb3a3b68232fcdfa87d7ef3c28e17d2abc",
+    "b59af6d363b3a674ee790431c8c10f14bb707703b972a29653fa64f5118fa308",
+    "55b987a096cc83706ff25a82f9fbf446581aa1019fad8de517aff1ccf2755587",
+    "f9d4608001815a7825b53a03a49226b12a8bf1714b19be321e5bf19f27cc9065",
+    "499f6fdaf0acb87a225c8899ac024116c81088d2e8e3ccf11fba30b40f6224f6",
+    "9eb797e21671f36903adc6cb96556e3887ff8b1cfb6c5407d713367208bb139d",
+    "aa7754c535c2bfd79049dd29a80b2024fa04d69e81110485b074ea6384f63aeb",
+    "7c819d7ed36b1b3bac307cf9bad4cb483fb0132893afca034efc3681e85611e7",
+    "760988600f2e344d8035e146badb453213e0005224b0705b8ca99aad53e3039f",
+    "b84b2157fe52d97b40aca924b06d3cb67a7812f54538db01b1870c65a45d00c5",
+    "522bc50e1c043d7afed57853c3df0223c46e797e27817e471514c067a9e5418e"
   ],
   "title_hashes": [
-    "b60042bb4db94ca6fed6245278e9e3f9242ef61e3bc40d780ab25cc848b8759f",
-    "e2a4cb0ed29b1c6da5dce7de96cd495cfa0f1eff5f8e6a876615c6f373091722",
-    "02bee608bb44ae6e66ff23daa7f88f4b10f3b3e32da890c88701dc836bc68e9e",
-    "bf55856816f57cf4254ea0aaa42251b8495e866fa9029f24e73a4c5695344ac8",
-    "34a0190114ae13a480482550dfcac3b82778ca12a3acce1584eece46ab8f2e42",
-    "467047d26f6990e8c301266f4fa86aada5e1b42dc9b562464e1fa710437e6632",
-    "4ab82824d887047dfab91b2bce23594cf1fbdcdd7f3534dc813cfeff4a170d99",
-    "00e99f6f5bd482ddb4e29c5ed840021b36842c38df7acf9d829800101a1af88e",
-    "6e504d16433fc9021a142b4c96408cc517daf4d01070944a660450aba05f49b2",
-    "363f093a18d292662ca943c7dcac282ca2c73155fac8a8fbe07f7379f9b0ae99",
     "0d0d32fea399ad8d7083df9e30536383572d9e640ffae668b3b05570a1d91209",
     "40da5a395e38cc3f77af2cd34dc7c63b48a6a4dfbe3862cdc36324e0e72591e3",
     "792e27ffc9c1925c86622beb0067dd80b3ef31d213a558cadff5ed828dce34ad",
@@ -8002,30 +7992,19 @@
     "d4f1476cd076b0b2b7ed7d440b900510e1ffda952e2dc7dfb9be1017158d2aa6",
     "7ae803ac5a02d762ac6a6ccd91b249645b3be04253955f29da81e5d412572872",
     "fce4b6d4966d9db6f5f34c87dbd552d174a761e00763af2022ed69a3b107258d",
-    "2270b202b746c138aebad56dd2db9bc3af52902f0da19d3e55bfae9bd36fbab5"
+    "2270b202b746c138aebad56dd2db9bc3af52902f0da19d3e55bfae9bd36fbab5",
+    "984578b237623f756976ff7de7279a3aef242b55534ecf8ad96d13f9c1dba344",
+    "c59e7d88a31fc86d8fbcd067cb73db82f4cdef32063086ee06efac7b34f1ea42",
+    "6db374e2ef623edc06d5937e57cfe5bc0ea258b6efb9dea99ff37753ee02e4a0",
+    "f3735e42503bbfc1f1ee38b8c327871b7c7e3bb265ea973cccfecc1e4899e000",
+    "f52abe1dc91bede32ed446153183e1870902b9ca9e1808a7dce17c4488dc928e",
+    "8aa4add4cb62a5af10553a1cba646cda5d2235ebc28a9056c2e7ddfb0a842ae4",
+    "4a0cfe54fe4c3efd79d5d66bd90804b31f66195cf4b45470d90b48374ef154c8",
+    "afd7bcbd2feb50213d4f96df1c0a93a276b3508bdf3ad2c8211fbf5ae30bca04",
+    "526d2aeca54234a4f8bdeb29768694e7bb908e88748192ed7de3edb6d1909b14",
+    "fd52af0fa901faff32bfe7923ba78ea5a40f46bc936fc50a76746779cb5429ee"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Walmart raises its sales outlook as AI agents pitch in",
-      "title_ko": "월마트, AI 에이전트 투입으로 매출 전망 상향",
-      "url": "https://seekingalpha.com/news/4674653-walmart-raises-its-sales-outlook-as-ai-agents-pitch-in?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795091860
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Auddia announces reverse stock split to regain Nasdaq compliance",
-      "title_ko": "Auddia, Nasdaq 규정 준수를 회복하기 위해 역주식 분할 발표",
-      "url": "https://seekingalpha.com/news/4674638-auddia-announces-reverse-stock-split-to-regain-nasdaq-compliance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795091864
-    },
-    {
-      "source": "뉴스티앤티",
-      "title_en": "[공시] CJ ENM·JYP Ent.·에스엠 등 9종목 '공매도 금지', 지슨 '투자경고' 등...47건",
-      "title_ko": "[공시] CJ ENM·JYP Ent.·에스엠 등 9종목 '공매도 금지', 지슨 '투자경고' 등...47건",
-      "url": "https://www.newstnt.com/news/articleView.html?idxno=729433",
-      "ts": 1795091884
-    },
     {
       "source": "Bloomberg",
       "title_en": "Cerberus-Backed Stratolaunch Adds to Board in Push Toward IPO",
@@ -11504,6 +11483,27 @@
       "title_ko": "Nvidia - 미국 의회, NVIDIA H200 445,000개를 포함하여 중국에 340만 개의 칩 수출 애플리케이션 공개",
       "url": "https://t.me/WalterBloomberg/38727",
       "ts": 1795117531
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Elior profit falls as Italian rail contract dispute weighs",
+      "title_ko": "이탈리아 철도 계약 분쟁으로 인해 Elior 이익 감소",
+      "url": "https://www.reuters.com/markets/europe/elior-profit-falls-italian-rail-contract-dispute-weighs-2026-11-19/",
+      "ts": 1795117552
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "COMMERCE RECEIVED APPLICATIONS FOR ADVANCED US CHIPS FROM ALIBABA, TENCENT, BAIDU AND BYD, COMMITTEE SAYS",
+      "title_ko": "COMMERCE는 ALIBABA, TENCENT, BAIDU 및 BYD로부터 Advanced US 칩에 대한 신청서를 접수했다고 위원회는 밝혀",
+      "url": "https://t.me/firstsquaw/194316",
+      "ts": 1795117555
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Trump: Iran war came up with Putin and Xi; Putin and Xi want the Iran war to end - NBC Reporter on X",
+      "title_ko": "트럼프: 이란 전쟁은 푸틴과 시진핑 때문에 일어났다. 푸틴과 시진핑은이란 전쟁이 끝나기를 원합니다-X에 대한 NBC 기자",
+      "url": "https://www.financialjuice.com/News/9860554/Trump-Iran-war-came-up-with-Putin-and-Xi-Putin-and-Xi-want-the-Iran-war-to-end---NBC-Reporter-on-X.aspx?xy=rss",
+      "ts": 1795117616
     }
   ]
 }
