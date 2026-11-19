@@ -1,27 +1,6 @@
 {
-  "updated_at": 1795100687,
+  "updated_at": 1795100847,
   "id_hashes": [
-    "6f2a99b82fd390b73e8f456b27bf352cc36f462350270808b8bfb589ac1a2553",
-    "831f2bf5eec7debb63b218eecb5634013ef5132885139b43206277b64ea736d9",
-    "515724463c3d11686af241f60b97d3e05c1ccd08147a9bd5d538187e145641b5",
-    "128f24bca37c69f6cbacb619b34aa3119fe0238b02dea512ea7b96e370349504",
-    "f9413d0c7cc16e6426377257b77dae250fffb619261414f01aa95254a044a65e",
-    "6206992655fb45af4fb827f2982c47a74e671d296e1fc3a312ab1b510dcf4e8c",
-    "85a1889a0970a5b847fe3916fb60c0634b90d306682a3c707b6cc7b431e5c157",
-    "793ed3db555504c86c8e18259c09e46513628d75c5f1a195c76e325cf7498e1c",
-    "3739e4d7dfd1ec1edd466446186150eb6a10694c1dde6d3aecf27ee72548c9de",
-    "8c44595b7e3b45a805bd29a3deffda4e6d424bf0c6d3a509f0685f71e21391ac",
-    "19e50d060ba0b7b3af341263e8bc269a5d0394a38a19291b683890e18de717ac",
-    "c5f77ee3072386d8bd2e9270d6a16a3ce5b45c918aada5c6f54d050d8b700ab7",
-    "d5f67e56bdc6d9782dfc970e9989ec981bf1a53813e75ead3779c68027675b67",
-    "ddfc14a96b48357c411eb68f6b4c737a66e911750be8752e9f5d84fe3cef0ff3",
-    "dc76e22cfbe4579b75335fe8556ad6f133b5544dd55d0c036d161601a96f5543",
-    "c7d7fb2e47ed6d1bef4c6787f8e5ce7928298afc1fbc3f3bcae0b6ab7d480996",
-    "a90c43b81714481bb35552d3e90f6266f3e114f48e91f9c264bea63846489a9b",
-    "468bfdad94a7d37574946727600affa98d73ea1570b637fb763fe2756fd5fdd2",
-    "fe6a42ae56632893404828c868d22abdd26fdf31ce543bcd993cb1fcd0a2b0c0",
-    "c54901220fc023cc9c44afcdf84fafc0feab386f37141395255ce1d26634cfe4",
-    "eb92b7e8a12fe22cae63ba5169d82603ca99d74038642d2c8618605610bd451c",
     "515749cb71369c7f4a166ee0a54c11ea9ed1c3cb127dfc466502545514cf0ff8",
     "632f5bdc033e5e39bba93b27f4b5931252dfa837d5b5b87564d6d8fec1da509b",
     "3513e227bc3b3aa9ad7e11e664078d919a5470a02c54e6a0f19deb4d0209a5ba",
@@ -4000,27 +3979,30 @@
     "bd0c5966cb94b99685adb52ce98d2c9888451efaeb4058f0112a90732e9b129e",
     "49460bd835a052e1f047b4aa70b6acc9e20b61bc3728f2fcba4862a8afe4c8e1",
     "0fc208685acb2b5011868836115943da253225cf56c30ba976f6fd3959ac837f",
-    "bf2394361b5a0127b25180daacdb6b8e5b228cc592f2154c238e8b133a0b7bc3"
+    "bf2394361b5a0127b25180daacdb6b8e5b228cc592f2154c238e8b133a0b7bc3",
+    "e0fd202e86d200183e6f6377c4f2c6f8c5bbd73b862fc3c7c6e6ff4adb647625",
+    "8822b52b33a30ccb47f8d9ff3053b6f985c9c3ccebf4e3282625142def1abb97",
+    "36261f37c6287fc5702a366efdf2ac66360a32db0de0e2731184988d7994bf5e",
+    "d08e33fc8991d9403577b52417c033752c5095f1e702309e864cd3b28cf3eb0e",
+    "0607ebe5378e8aae945169055dadeaced42e1eddc7045f253c87462680a61122",
+    "f8580011c772fd5b18d2c5b8b68749597a740728291036c061f029e8f4b64591",
+    "c353c4189f3c5753fd54d157228f769f8f6b9b715c493a1d835342bc4d73a75f",
+    "86ffc8f72516bb8d95cc01d964283cda62f5a7836bd96652313a0c66e1b9052a",
+    "dd33c1e12b883765c8524d71977974cd63350eca2803669360d38c6ce0f57a5f",
+    "58d7fb4ca1dc941b9710e4a1c31700ad184e1e0fedfec1c19f126f498c39ed90",
+    "9aef2e8e5ef722ef7c27b41e4682d2c7f59cee70a25a107788c90f6cd708da07",
+    "be9472c0b16dcaaa12b4e2c70aa282be3a882266fbcc1d2e7959687a326efe24",
+    "3ddb8491f55e355b0205b3f69866ac0f10ef3b586020f13ce793918b0e25ec05",
+    "896c444d953b1d5529141e1bb598dd89be08a29358dcbaad84b22b6dd0d190ab",
+    "031adfdf74f8dff03b0a87b67eb5b7eccbffc46dd36e87de653e540f49a1fdde",
+    "11778532e0486382d53d72a155a664c605131a4d848ade1268fc049fef2add3c",
+    "ccfe555c4df77cbcceb67d1f6c33bad255c7239c665844755ae476aad79d194b",
+    "8e40993b9f209fd98d98975f63400d489ca80c90e86d7758d8d6e8f5e604af6e",
+    "ce6547043663eeeb9a0f0cfc736e1b30df6e75e75c921e0b23da9c90d28ac112",
+    "e3fc5cddbac103f3393b8b815a6eb96586453b72d5efa0d759316eefd41bf54d",
+    "4c0619acd45bb26d062152903c28b2149feac8735a11371e31dc8c8ea8ca7651"
   ],
   "title_hashes": [
-    "74175d65041ce51b5c22c87e8c44ae95a2f27c125aae1de0f690df0e59ac73be",
-    "5c8a5204aebe1efe951ab3b99dc06cd7809e951350dd3f56bcc4df49d40cf527",
-    "3036cbbaef1e12ca1b9e96f433967f8ade7326359464a015fc80c2ddac77432a",
-    "cf330c59e0db05b8d25ee1a222f361156c7e77c11183b65069736d2ba717a67a",
-    "e4897fc2a365686ee60186f3c01efc624c3fc660e750cf3751a59678c49a4d78",
-    "ab7e302b7cd7c5798d954cfb874d8ece71a495bde45a919020b2afa793ac9c86",
-    "c2ca2bd617f2ad31baf80b407ab208f49910117296722b58344c23eaec22f429",
-    "4c1f85284b06f17073205c7284552829333b15e04c335c406482496b8cad72f2",
-    "e5358f948cd3500ea31016e4680701a704ed88e6b7a0245c700b166fbcbb0b6e",
-    "eb36e2823a9ce2fcff075a7fb98568fbd5148793a38341897d376a8c7860bf75",
-    "cd3bd3eb175404bff7d54f6f7fe0df9d10b60bceaf18dd7de2c5b976690e77f4",
-    "bad146bea77c9a06a2df4eab4e62a61995346c33b04404d012daf4a77f152580",
-    "08a130aeb3c1418b88f14d7b83f1f2f5c6f79064403da24c394255465b4ea951",
-    "9c98029b2a2a9b3fc058a818524edc72cd3b3b2474c22227990ee491fbedaffc",
-    "0148a5a54e08f27355a79c4a0bd7728d99200117d643a120e3bcf0b3def69987",
-    "09c413165c9f9530178fe9399402f5f309708e9f5ca63f1699f90cb34cb1bd06",
-    "2c1ceea6daedf97bdf5de14f5f895804d8713934d5a9099239a2bee4691952ff",
-    "3c152e0c9c148fe5c5465290ccbced5c70147ea7dc8f51bff561757b95fe20b2",
     "7edcd53e723e1fc202685b55e7107f8abe9899064cb543b0e9b710d733a0284e",
     "1b423a6d64dea1a58217603155f54a1c799119289474573aed09dd38b07a1911",
     "fc402a38eb075568ea07cb5e3b4e1e2ad0e78ab48955babe6a53710e3e503708",
@@ -8002,58 +7984,27 @@
     "c344b37833c9494f0015cac11c2a92645da42245468750d93b885f53babe0f5f",
     "c5cd8f422aff2af520b9a58a1105473378f85af8bb83c4709fd7e50c9c4c2f2d",
     "8396754f06ef13ea34a3b7100870017e7cf52e9e496e3923e415612833c2a715",
-    "cb432bb816062979e3f69ad186c0f2a9fb754896a7cfe2465d210e12b286bdf2"
+    "cb432bb816062979e3f69ad186c0f2a9fb754896a7cfe2465d210e12b286bdf2",
+    "41635d7f258ffe0bd67d3278bbcab22278aee516bb096a63038230aad955efbd",
+    "0bf93613fc583227c581b8bf555dbaacfe5e863641f2d816d9b8953ac5df2fd9",
+    "11bc31f74ebc7ef750c26240c1d7e10d80514bb770724b0467c59636b6904ffb",
+    "1820ab4e66c3243b3838cea34a6c606b0788463ad3b1c4aaf14cdd0b27e037f0",
+    "2793d52cc0ada021f054b95ad4150516c367bc85d82fcbf4edfd1e9b928251d9",
+    "89243144cfafcb7536a99ca6a2b0f001aa603dfebdac31bed45c8021cb04eac9",
+    "cf9d4f3957f5869efbfb28b44adc6a2469508f5940b5194933bde465d6a9f4f7",
+    "ae805e881bfa10bd4e4dc8167110352ca6aa9d768b3b0a5115d1a2895a4df458",
+    "abd6218ebe3dab85b3fc508b62c8686b6767dc951893cb956a3212e2d12e1eeb",
+    "b7629553989e6fa98c3e813ad08387b6424186d48a0aaa83b9f00274e533f580",
+    "3ffe407892e1c5b3cefc90f724730ca64cb0e22b7a4193d38dcb4c16e79ec51f",
+    "a72b0fbdfaf6faf00240fb0575eaefe34a0e03424563cb2a0ad1442b7324a690",
+    "cf6363ec1673fd93f5442ce3cc46ddeb7e8fe65fcef2a10478fc51524acca80b",
+    "a05810deeffcc695599d444882a4607bb25ba161140f14f56ff993b44296361a",
+    "d660e5efed03d78223e54a23415f6867cdc73c4525a5d9a471d7c59de63e0c01",
+    "3f9c3a659af1e9fe5619678392c0aa017578df7f140d1bf1f6291948165d56d5",
+    "041ba9c0bf01543a118c83f17ec2e710136531afc01624b86570bed30ca85cdc",
+    "67de251b1595cfe2fde05e4a783d14cfb77c39dd34be1b00d2d6f1bbf300ba60"
   ],
   "recent_sent_articles": [
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "'수출 1조' 시대 中企도 날았다...K뷰티·반도체 신기록",
-      "title_ko": "'수출 1조' 시대 中企도 날았다...K뷰티·반도체 신기록",
-      "url": "https://www.fnnews.com/news/202611191614016801",
-      "ts": 1795073736
-    },
-    {
-      "source": "CNBC",
-      "title_en": "APEC final day in photos: Trump, Xi and Putin shake hands; Takaichi kept at a distance",
-      "title_ko": "APEC 폐막: 트럼프·시진핑·푸틴 악수, 다카이치 사나에와는 거리 두기",
-      "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-photos-us-china-russia-trilateral-.html",
-      "ts": 1795073752
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "继Quebecor提出收购方案后，BCE与Telus进行了初步磋商。Bell Canada的母公司BCE正在考虑下一步行动，包括分析与Telus达成潜在交易可能涉及的事项。公司已聘请财务和法律顾问。（环球邮报）",
-      "title_ko": "BCE, 퀘베코 인수 제안 이후 텔러스와 합병 논의 착수…자문사 선임",
-      "url": "https://wallstreetcn.com/livenews/3202416",
-      "ts": 1795073819
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "David Ellison Calls Elon Musk’s $1 Billion Investment ‘an Honor and a Privilege,’ Open to Future Starlink",
-      "title_ko": "데이비드 엘리슨, 일론 머스크의 10억 달러 투자에 \"영광\"…향후 스타링크 협력 가능성 시사",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63418458/david-ellison-calls-elon-musks-1-billion-investment-an-honor-and-a-privilege-open-to-future-starlink-collaboration",
-      "ts": 1795073885
-    },
-    {
-      "source": "한국경제",
-      "title_en": "삼성전기, 엔비디아 협력 확대 기대에 이틀째 강세…8% 넘게 올라",
-      "title_ko": "삼성전기, 엔비디아 협력 확대 기대에 이틀째 강세…8% 넘게 올라",
-      "url": "https://www.hankyung.com/article/202611197762i",
-      "ts": 1795073903
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "[속보] 코스피, 앤트로픽 상장 앞두고 등락끝에 1.4% 상승 마감",
-      "title_ko": "[속보] 코스피, 앤트로픽 상장 앞두고 등락끝에 1.4% 상승 마감",
-      "url": "https://www.yna.co.kr/view/AKR20261119139200008",
-      "ts": 1795073968
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "KUSHNER SAYS HEADING TO BERLIN TO CONSULT WITH ZELENSKYY, EU LEADERS",
-      "title_ko": "쿠슈너, 젤렌스키 및 EU 지도자들과 협의 위해 베를린행 예정",
-      "url": "https://t.me/firstsquaw/194172",
-      "ts": 1795074033
-    },
     {
       "source": "지디넷코리아",
       "title_en": "이노에이엑스, 비과세 배당재원 50억원 확보…\"주주환원 확대\"",
@@ -11504,6 +11455,55 @@
       "title_ko": "마이크론, 인텔 및 기타 AI 주식이 목요일에 상승하는 이유",
       "url": "https://www.marketwatch.com/bulletins/redirect/go?g=9f2819cc-afda-430c-88de-a42ca3ef39dc&mod=mw_rss_bulletins",
       "ts": 1795100686
+    },
+    {
+      "source": "9to5Mac",
+      "title_en": "UK court rules Apple can share the top secret order everyone already knew",
+      "title_ko": "영국 법원, 애플이 모두가 이미 알고 있는 일급비밀 명령을 공유할 수 있다고 판결",
+      "url": "https://9to5mac.com/2026/11/19/uk-court-rules-apple-can-share-the-top-secret-order-everyone-already-knew/?extended-comments=1",
+      "ts": 1795100716
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "墨西哥央行会议纪要：所有与会者称，墨西哥比索自从之前一次利率决定以来走弱。",
+      "title_ko": "멕시코 은행 회의록: 멕시코 페소는 이전 금리 결정 이후 약세를 보였다고 모든 참석자들이 전해",
+      "url": "https://wallstreetcn.com/livenews/3202664",
+      "ts": 1795100724
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Xi, Trump and Putin Wrap Historic Trilateral in China (Video)",
+      "title_ko": "시진핑, 트럼프, 푸틴이 중국에서 역사적인 삼자회담을 마무리합니다(영상)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/xi-trump-and-putin-wrap-historic-trilateral-in-china-video",
+      "ts": 1795100771
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "SANOFI IS SAID TO WEIGH TAKEOVER OF US DRUGMAKER INSMED",
+      "title_ko": "사노피는 미국 제약사 인스메드(INSMED) 인수에 무게를 두고 있다고 한다",
+      "url": "https://t.me/firstsquaw/194262",
+      "ts": 1795100774
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Iren stock rises after Nvidia results boost AI infrastructure sector",
+      "title_ko": "Nvidia 결과로 AI 인프라 부문이 성장한 후 Iren 주가 상승",
+      "url": "https://www.streetinsider.com/Investing/Iren+stock+rises+after+Nvidia+results+boost+AI+infrastructure+sector/27374611.html",
+      "ts": 1795100839
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Pontiac Bancorp and Ottawa Bancorp get merger approvals",
+      "title_ko": "Pontiac Bancorp와 Ottawa Bancorp가 합병 승인을 받았습니다",
+      "url": "https://www.streetinsider.com/Corporate+News/Pontiac+Bancorp+and+Ottawa+Bancorp+get+merger+approvals/27374634.html",
+      "ts": 1795100843
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "SEALSQ Showcases “Root-to-Qubit-to-Space” Architecture at Quantum Days Now Underway in Cannes",
+      "title_ko": "SEALSQ, 칸에서 진행 중인 Quantum Days에서 \"루트-큐비트-공간\" 아키텍처 선보여",
+      "url": "https://www.streetinsider.com/Globe+Newswire/SEALSQ+Showcases+%E2%80%9CRoot-to-Qubit-to-Space%E2%80%9D+Architecture+at+Quantum+Days+Now+Underway+in+Cannes/27374622.html",
+      "ts": 1795100846
     }
   ]
 }
