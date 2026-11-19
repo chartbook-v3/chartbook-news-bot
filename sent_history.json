@@ -1,27 +1,6 @@
 {
-  "updated_at": 1795101468,
+  "updated_at": 1795101623,
   "id_hashes": [
-    "49013b157f66b408ac8fd4ba289773233278bffe7426a86ba36416f1fea23bdb",
-    "d8c36a6201cb12f05f486a451686e4da96220eb3466f10de0ddb001728f8129e",
-    "b6035a90097ab7cbbadc739809d058240f9ca3d02e030d05c8123b7a0e75e283",
-    "7857627062837aaa5176fe0f2b435d4fab397b9442a91f960599bcaede078fa3",
-    "6687b8cdac1389561112f62c175fef060e2cfe9ddeb0373485caa252f4f8092b",
-    "6027b80aa2c1ff7a67c3e36aa39649decb9ea4f68999d4bee92b996a6fa496e1",
-    "8d1e6921927d7ee0d475b7b2875588633261b31034206462e8ba4b122fe735e7",
-    "6aca01ce493b34b06c45238bc7a9920389e13b3ded3c201d4069bb261f7da14f",
-    "c4591081febe0819010791e67c4629d3a1dec7481e0f51805ae1a5586789be0d",
-    "d6940485facbb918bc7d1339ad5aa5bfeac667e493138135b5b62441a88e4439",
-    "f531732bb6685ca7b0dbf0c546dff9ee2065fe7e33fbb9e9872cacfa3ec56a9c",
-    "94a39fb4f5885072acc41f88a967d17c50436666e79254712364ea311b46e97b",
-    "d4e7a4816db18e6cd440ce4f9f100ec85f0e9b2619d802ed95726aab0281be34",
-    "c0343a88399ae1a081da63c895cb3313e0c53a8c6e9c8871f7394faeeea54d0b",
-    "db71c6470cd656a0577d34a690f03ccf691b1a0704109ce0895b567d03884a68",
-    "d8edac1e241e9e2fedf0ea0f4668551f1db799ae38a6754509d1f6fc159556e9",
-    "749b89a437a4a412746a70dd1fec51c8717c93b2566e1ecdbc0654dccab79983",
-    "42f1469f1127dafab7591d1a3dfa0af15357b7a4b1ebdb06498169f3cd8127e5",
-    "840743469888bf984026d8be4149d065e965d7174f83dca4ce651dad20f4c8fe",
-    "4379a4bd40fb434f5c72aeb3bcc666198dc14c3a64e5e210ddee6c268c7c5d24",
-    "8bcbd68ef9b5c76d85c841e2ecb62cdf752c759cfc1c5480635becd790e7cd33",
     "fc8ba94bb89b3e01942414aa940ae8905d60506e5bbe372f25581b0808db4eda",
     "0d0314996408dff0ee714a9004ac51cd2adf178af80465ed1aa1d45b09a2e6be",
     "312300ba8cc8c4c842c7a3617c1956f9a307d4797ae528f781e36df4497adecd",
@@ -4000,28 +3979,30 @@
     "3cb23cf12aaf9256e32f0c66f6614315de6d439224af3280f41891e64699959f",
     "54f5ded705078f16d02430a41f3ac6132bd3b09d70f772b0c265f18144a6cf27",
     "c7f905f1fb83f52487adc31f891ba4252621f8cee1cf6e9e801756a0608eed32",
-    "852e53b257d7e12e6e9457f0305b32a55d52e5df5cc3abbbb6a75f4adfac5ae7"
+    "852e53b257d7e12e6e9457f0305b32a55d52e5df5cc3abbbb6a75f4adfac5ae7",
+    "65da09f04f8f87abd5305b2a20ccabd1c0c21d06299125dc71458993a660a5ad",
+    "0210bd78b19b5ca4a050dcc2d7bfc9ac3c9728dc3e5cbc449924a555d091114d",
+    "b4bb421bb0719cf911def40138ce3e990612f972ad5674c56dcb37d4d69142f2",
+    "e0e25039f82ae2db47033b2563e1625397c7fe9a8cf89401afa92973a264e874",
+    "5b8358ad4152b49a29fef3a5ecf5c9932dacbaf529aade1d634769a41c13d232",
+    "f4c5b9b7085e16fde1889ecdaf1db6869e2c9ab75b23fe1fdcc4f25080f2f156",
+    "72e9e013478883abe99cbd202f477795572cfd3f085c26e7c88dfa91fb53320f",
+    "b611cd14f146839294f7374ba06a2006844d3e63fa6e8c6f4be9aa41b33d4adc",
+    "265d53d4d3784693d86a525d6c55b56ecffccabad6f1a30f9877b5103aaaef72",
+    "715b9fc1856558d6e3a72246c51bbe5cd10625c96287c372a1b2441301faed54",
+    "51acd39a7eb0ff5aaf5d105d1ea8abac9060168da377426278391cdd49d26769",
+    "25ae765754d0c5e13520a5b60cac59b1c0782c6734fca55aeab936cb8f534bd2",
+    "67ec782624ae79529ef088a98331d053be960d8fe6107c44d952de169fc6e147",
+    "0be372341b40bf79eeae38f4ef24b88d4e0e3255aaf64220a71dec19485fb6cb",
+    "93ad58062a6c85d3fa9829fdeb5cd0d0220cdff8a5497c067a6cd153ce2b152b",
+    "c52802854d97bdb33878e16a5e5ffa3c88cea40b2ab8a6f98e3a8511eb706d12",
+    "7123ce1dc0cc19f49c494f5a24d69428cebefa07259e1b25e6e81b8a2292d0cd",
+    "31784402ead5cd3e4d00fa06ff60e05ccb51eb5400ba80c35c7dc14e4aeb477b",
+    "603af959f72022a56d6350ba0dff068c096ade81929e8b003963339782afc86c",
+    "12fd18c197eba9de332371fe8513a1aed7eb183964adeb0a418e295d3f7ae6a8",
+    "39f53f030bd4c7e0a1a5f98b180cb8fa3ed16950b4e549f386e0b5a5faa497b5"
   ],
   "title_hashes": [
-    "3139b5738e0633132311225cae0e7b0d05acd4624387fab5c97bd9f8aa037e3c",
-    "591a7a7846911431132b4995490ff3ed5ef65d49658be1ce148bf0e438e5aab2",
-    "34d7de4bb31dde227d864170b02c429c532be36ac80dc40345c8be173fc90015",
-    "2a1a8372a4ed867033330bf05af5befdce6cd8532f91fa3395b8e0a6617892c5",
-    "2e651ed97158330672d59844998fc08b5c0327c395fdb4bcc11fd69fc502a6ef",
-    "4cfe54cc419a119fbb9342b266425b9356661fd2666d87ff5961ba58b1d46f13",
-    "a01bf0cd572e4191c4e22862bd106a1c757e85a37e8ba83a3f1b2177ddbf8ce7",
-    "fac549b96665b052c2aeea66b2e7d0ce335e115d15f6c9b23ceea8b441c1274d",
-    "a41596217ace7ada99075ef3cc36f2b0fe3f1584f27d06341c2c953a8c87cb17",
-    "0abc90b2aa6c2ef3ff419c9bb7a0547bcc217acaeea0ac1ed44b440553d969a3",
-    "bba2d760929fecac8baf11688083a420efed5f9ce98253531cf916b6e4088c59",
-    "2e2815ce53f6d862c84a3f8e489170f8b0961fbc31a254aefede24f75a0dc471",
-    "0b8a82d70ab07051df75ef6ee038c6084d2363b4bddef385df9ce0bf565c149a",
-    "d868c1ded5665a9bc91d3dfff3a865e407f90bae6902d3cd95a5b180e747509c",
-    "89a57e713e38214dca32eb6b3038eb927b79411932ef5fb78eaa123afdf376ea",
-    "4e8bfc445e5d33c0f593a8c0807c1a82c535960d7c186de4a3f8646b7effe900",
-    "a2b1045c671b5115ec8d96bf4479a25c3f4d40ddf1f6036629272849eeb9146f",
-    "27a3ec954231b7a757a97f63e10ba3934e0d9a4823a518ccc59963d48e739c3c",
-    "c82ab4876df6d1aef34ca8b11cd1ce6e10a36a82c4f2ddfc0d4623e07936c1f3",
     "c0b87d1d2bad2212661e74c5215cc764795b82697690843192e44f6405f570d3",
     "b13c64e2c2fbf6051e3a41cf552835702debd5c19f67c50bf68b5a67b6599e92",
     "69c756fe20899127ce7fc8c3767d051c4ee38fe2cd4d02d4e41972dfab1b2780",
@@ -8002,44 +7983,28 @@
     "78bce860bd9724cddd47b4fda5a34aac2bf4bec49a9fbfec757d96d1c8d79a58",
     "4c94dec8f9eacda38ff7ff9d1f01e7c2a17a8d2c7bd072dd45fcd17bb427a9ce",
     "81c6e667871a7fa0e44f0f25fa3322e1c57f414302a1ce5a98be583ebe404731",
-    "5099ac5a09640853ca1d33f4789d549f4f248966e69925e2a58451c35b598030"
+    "5099ac5a09640853ca1d33f4789d549f4f248966e69925e2a58451c35b598030",
+    "4a7d2570eef637b29915f26332ad97412c99ffc4805a261244948f9d0bf36ec7",
+    "43ac42e5ca3611e62543963805cde7d658683f7d5cfa0b4aede29f6562973d6b",
+    "f071196ba1787d80d1196d29bd99c45052ccfa50c15deaf040d874d1ccc586cc",
+    "8f584c081d16d40ba547df1f0f4f1cae6abee3691044e34b0857b81056d27c60",
+    "73e898b15bdf6fdba090c6187fc31df50d0439dabe2bafed71f23fa0daeb8e2e",
+    "498e4f654830961a7f13f45cd2b2a248b2daf7aa8f50aef1c5855cecf8379401",
+    "ea546ed543cd78c692675b502ca182d26d4dde03ca3f56188c99c8645c8c6d25",
+    "c17110a0e2f7a3e47471b61e81e2f650d25d7777806035ea19b8b4135d52af3e",
+    "745b490e39ed3b287b1f322927ca35057dc6f4063053a95c1967682540a6d2a0",
+    "9d76996d8f46bce89d13f4805f32d23d1f00e8741a208b1c67e5e26b27be4e36",
+    "95359cec104be948de67d14f6dfbbb203851fba9bcd713d2e5bcbca6242c8128",
+    "11b81651f18f758a21136c7ce301bca134a694b7c4dcc7a5f11a3e40557296fa",
+    "b9e17021be8067c3e5ab0743fa7568cebc5982a6c41d5a671de8c5765a077e37",
+    "e7cd6694a9ce12f00f09d96fffb6c52e0de3128d0f01411f9be685c7535370f3",
+    "28ef4ed4cc01b1297ff5b4f6a04b75a823f0a3fade7fb7cb4dd735aa9015594a",
+    "3ffc40283b81555a2ba10927620b04b3c383b3573717b80ced01458d6cf870ee",
+    "bcd614d2a3fe44da58e0da53cd59936b4142eca21700c3a1c160bd023a4228df",
+    "267893563788c4bf405d0a3f674665f727cd56d48fdead45d19fd7cfd209254d",
+    "3ecd2a9bfe6d6402d86d5ba41ca24694998a0988e606542cacefbaf9d58ad766"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "印尼财政部：预计今年国内生产总值增长率为5.5%-5.6%。",
-      "title_ko": "인도네시아 재무부: 올해 GDP 성장률은 5.5-5.6%로 예상됩니다",
-      "url": "https://wallstreetcn.com/livenews/3202423",
-      "ts": 1795074889
-    },
-    {
-      "source": "매일경제",
-      "title_en": "[단독]세무사 수석 ‘AI 커닝’…카카오톡으로 답안 받아 초소형 모니터로 베꼈다",
-      "title_ko": "[단독]세무사 수석 ‘AI 커닝’…카카오톡으로 답안 받아 초소형 모니터로 베꼈다",
-      "url": "https://www.mk.co.kr/news/society/12213703",
-      "ts": 1795075099
-    },
-    {
-      "source": "매일경제",
-      "title_en": "코스피 상승 마감, 5,137.89P (1.39%↑) KRX SK하이닉스 TR 지수, 코스피 전기·전자 등 상승 주도",
-      "title_ko": "코스피 상승 마감, 5,137.89P (1.39%↑) KRX SK하이닉스 TR 지수, 코스피 전기·전자 등 상승 주도",
-      "url": "https://stock.mk.co.kr/news/view/1202531",
-      "ts": 1795075104
-    },
-    {
-      "source": "Nikkei Asia",
-      "title_en": "Virtual 'Jensanity' rocks Taipei in support for Nvidia chief",
-      "title_ko": "엔비디아 젠슨 황, 타이베이서 '젠슨 열풍' 일으키며 뜨거운 환호 받아",
-      "url": "https://asia.nikkei.com/techasia/virtual-jensanity-rocks-taipei-in-support-for-nvidia-chief",
-      "ts": 1795075257
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "杨元庆：联想集团千亿美元营收目标有信心提前一年兑现",
-      "title_ko": "레노버 양위안칭 CEO \"연 매출 1,000억 달러 목표, 1년 앞당겨 달성 자신\"",
-      "url": "https://wallstreetcn.com/livenews/3202427",
-      "ts": 1795075261
-    },
     {
       "source": "DigiTimes",
       "title_en": "Ford ships first Michigan LFP cells, but the batteries are still licensed from China",
@@ -11504,6 +11469,41 @@
       "title_ko": "보고서: Sanofi는 최근 몇 년간 최대 규모의 바이오의약품 거래가 될 수 있는 미국 제약회사 Insmed 인수를 고려하고 있어",
       "url": "https://wallstreetcn.com/livenews/3202665",
       "ts": 1795101467
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Cybersecurity Stocks Fly on Palo Alto Earnings. Look Out for Whiplash.",
+      "title_ko": "팔로알토 실적 호조에 사이버보안주 급등…변동성 확대 유의 필요",
+      "url": "https://www.barrons.com/articles/cybersecurity-stocks-palo-alto-earnings-crowdstrike-e9b55153",
+      "ts": 1795101488
+    },
+    {
+      "source": "The Verge",
+      "title_en": "ChatGPT can transcribe as you speak now with Live Dictation",
+      "title_ko": "ChatGPT는 라이브 받아쓰기를 통해 지금 말하는 대로 텍스트를 기록할 수 있어",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "ts": 1795101492
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "S&P 500 typical pattern shows a rally after the holiday’s rollercoaster",
+      "title_ko": "S&P 500의 전형적인 패턴은 연휴의 롤러코스터 이후 랠리를 보여줍니다",
+      "url": "https://seekingalpha.com/news/4674757-s-and-p-500-typical-pattern-shows-a-rally-after-the-holiday-s-rollercoaster?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795101552
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Apple ordered by UK government to maintain access to encrypted customer data",
+      "title_ko": "Apple은 영국 정부로부터 암호화된 고객 데이터에 대한 접근을 유지하라는 명령을 받았습니다",
+      "url": "https://seekingalpha.com/news/4674739-apple-ordered-by-uk-government-to-maintain-access-to-encrypted-customer-data?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795101554
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Palo Alto’s AI Acquisition Sparks Cybersecurity Rally. These ETFs Are Joining the Party",
+      "title_ko": "Palo Alto의 AI 인수로 사이버 보안 랠리가 촉발되었습니다. 이 ETF들이 파티에 합류하고 있어",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/11/63431853/palo-altos-ai-acquisition-sparks-cybersecurity-rally-these-etfs-are-joining-the-party",
+      "ts": 1795101622
     }
   ]
 }
