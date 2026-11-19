@@ -1,24 +1,6 @@
 {
-  "updated_at": 1795057721,
+  "updated_at": 1795057872,
   "id_hashes": [
-    "dbbcd884715788ebf9d61fa353d4d95fe7c356184d4c7d545e4698d6602d162f",
-    "2cc8fb7083758fbd90b71ea3fb2bdf63993ce11261d7e55d1381d003b37d2fb3",
-    "9099ed10169e9f43c71556e071f45f521dddc72b4803058ef891d5774c11ae69",
-    "9736b08af6bc2ae95430ba3897f5c930247113621c61924f3de7ae8b6cefd46a",
-    "58b948e9595a3648fdc01963804dc7653ec5a6f8cf8ace3f54be6fb5d458e4e0",
-    "4ce9e81419d46f0bef6432658d7cc9da93c66a182a5d13255e089bbc8574c753",
-    "ebf41f156ee399f78b0c5b4c3fa4d428f7938c0a1af33bb24c946d28616f7ed7",
-    "0ba09e48f50f817202d1b7912382adf5685d9e1a8df080a729582fb6e904aa9c",
-    "4e84eb4480c22b6e2f1ce416ffc331093ecb4d3f3c9cfa2d1882091cc8bbde80",
-    "2a7b89991b389fdb7d6af7d0ad6060f5c17cb841c0ddc99c54ac3c3ee2d5e20f",
-    "33d2c06201c90b225fcd719d94ae7eff443cd7a140f38f7b1e8fd8c9b53476f1",
-    "19af62272fb585df11c45d09210558d243e2cc8fd97e64d96075a1e64087a99b",
-    "5705d81d49a6683c845c22b29963dec9a719186cd954149913858a8d7916e42f",
-    "655dc974e78002fb50f22c2be0185ab8e6ccb9ec6f43d14c2265414e36af2525",
-    "9ab24994dac68b541be2682db431b9b301d7280ec0d006521b4be55dc40be7c4",
-    "6480ce2a927b0362fe1acc0f8a8bcdd1d65f9d6f9cef5b6c41c63e31b46502a2",
-    "ea5e645a070b12ed7a17050a806e29d9a92e9b2349d79b65a10e8c187cb9dc97",
-    "7219ea324543098115297adc788713585db1454a2b0c5a4aecbbe68938cf4d4a",
     "d4af17275fbdd3d81aefb454af35828d0e0800d77722713d8beee597372912df",
     "06d6546ddc91596a7c1c06e39eede3d9c1177324589209ecf019e6829849cd4b",
     "30333f0ff94f59f5728f2543335439a647d8fb968ea8ab907d37f4fdc854556c",
@@ -4000,21 +3982,27 @@
     "445895385240c3b8bdd88ef5d63b640bde0993cde0bc92f43fa707d8e6c4748e",
     "ff42619c2183304a0f49271ef27b5b9cbe1d6da1d92a8b790de11af123d98e45",
     "9cbb570af89b0cdf8b5f97fbc250fdecd0e7a8f95fa33ac9c52f437e4b4e7a5f",
-    "c23d60e034e16aedc2a2cb623b0cf54cfb82b11f57f6cc1feabaf27e3a06c223"
+    "c23d60e034e16aedc2a2cb623b0cf54cfb82b11f57f6cc1feabaf27e3a06c223",
+    "52bd1ecec5c053c57e3ce0fa55efcf2de3a15b39f0924606b942b624c17e1fbb",
+    "3e3785d2b81be6c446d7be297db31e95ed3578d92faf11eb33ab84c97c4d7ad3",
+    "4421bff6a57245e9e945c487803cd19b18f86092a812ebec22679682a83e2eeb",
+    "078b1b46d53d5018c699bc45866faa4af21636cbb108363816806a3f6b9ae5d4",
+    "36fe0302ed03f46d30f335825993771eba732ea570b646ee82d21fc41562b1e0",
+    "98f558b640ce8979c62f8d757e6f0bd62cdc73b35250f66952b1b49dbe9a3212",
+    "00f97870d10b8882da2ce91206021fee99b16856b6d10cef3f571e406fceba18",
+    "3bdc6b6fcfbbaf32cc6e9d52b51ab043fca1d99d6f75c51eada139ecedeab2b6",
+    "fe4b6578825dd5b9421a1a3286ee02d0ae4b3a8894315898b7113149643ad2a2",
+    "9481815d83459c9af9db3835e4ace2e494d62d618cca1bdc7e89c7983aa7fc4d",
+    "d1db48bd88e7130398d083c72c6a0f913f9567296fd9837e37e2b7f9d5537432",
+    "c538ac0d8adee7ce38c679a8ef91eda99a293cfa8a6b0e62c6521df46a0b192a",
+    "cffca5683bb0da87f72e21a616b0714df7de13523c620bfc4bbb36c05efa065a",
+    "468272f87519d8debeea0bfa34f19b3d3acc3dd8711cfa55789201d13a1093dd",
+    "08da86a8e03a24766c663336b8054cde1b2f39afe5aeb52f0dee77a06a69eb7a",
+    "7d7439bb976bbc63aeeb0479af9126fdda2ab04ce26592f3e5e3e5158a53d4d3",
+    "2d8d7c5fd5d7fc073fbf29468299f86ef6f833e1281c4366cba4ccc14ad3329a",
+    "28856e291b7fd66a9f8a30114ce3e003e10f2cb9b4f1038532f437e811087459"
   ],
   "title_hashes": [
-    "3a5708e49e5a377265fb603be0ae0e33948147d5a22aa0a477afe8d2651b2eb6",
-    "37e35837eea70214f607f78899ca5b1f007d0392ad4278ab0fd1248e6c41c93a",
-    "3c8d125365ed61bb18cf4fb1cb5b84c5e180040b82437123b8bc36b21b025443",
-    "f332cd3807eade2cf2ef4a7087144b2344448cbf1ddf3a11a665987dacfdf9bb",
-    "8150f1f441949fc2fac4b0bb9983fb50da0295970060daf9c2325f79080fc25a",
-    "6aa85909d47e68fb97ea67f5495cf85cae8968eb4060b34c676940efeba2d9a2",
-    "e743cc6e448ece83899c3b7d7b13fce38788e45226574731ba25ba0b000239c3",
-    "f0ff97a91d30058388bcebfa5f19d013c93d67bc5e635a084889afc07938f598",
-    "f7d1d1fc6ddbf4ab4a5b125818431f5f6c205fd032cd58c899e5bf4ac2c4aa32",
-    "45e5523bf51050e05317669246ccb463556af9b30ae0697fa4974a59fd4e7e22",
-    "76703fa116e2dd9bad0f2725354a213dc0b09b40f27da8376f6d97fd8c4c21ae",
-    "668b9d28659017c2f03973090a9ce6caa3bed6faca35aca727d4fc16887ddab4",
     "d04b4f1c425bcdf53e368065a6109d2901a87563519bee6018119f984f0690ce",
     "a3ea6b40ae20755240bd77f54125c8e19e3ba3bcbdbbbc4966714379cb837bbb",
     "90122ddc5aa4304b1cc1d3920a36af239e9ebcf842dfcb4d321cb3294597b71d",
@@ -8002,30 +7990,21 @@
     "415944f0ea05f0f3311da246a8503e7bc6e277822d12af3ea9d27616deb1cbb5",
     "abaabf4f8a3e89bee6b0b6bf2f5037ddc433b717ea32822d75f76e38057448de",
     "eb8540eeee689eec5b9ecc0ac801894710bc90863256d7422ed0ef8b1dce10aa",
-    "a54eaaae0af8b5848d954860c89fd5ff82c397166b3bdd294eda53e6e36d076b"
+    "a54eaaae0af8b5848d954860c89fd5ff82c397166b3bdd294eda53e6e36d076b",
+    "d449dff234b9378cbaa1e00214a9bcb1f13fbe93e06267d7a9f566383027d5ec",
+    "2ec88a5bd70c94b4e196b19d31d17a9a112c2d141794e0edf59c808f73247ed3",
+    "706930712fe40b0a3917c37537e2ac6973e8c945d6c72849f7b3449cb7885e89",
+    "4ead3e33c61277a87d634d2ca0508f31b40708f4692794f2a8fc2c8e17455729",
+    "1fd32f8d30776efbc9e7743ce1eca78576bf330b01b5f8c688b8a9a7e1802a1d",
+    "eb5370eabdc2b326c88ce329e1a52f53576283c5e28d401a29ff5202e6b930a4",
+    "07a3fc13e1ad74cc9e53d9ef9297159fd69b561a2ccc46e0ea4d9b88f16f4052",
+    "8252ad374794372a0ce8a3d3c697747b31c73426194cc72a32657f9c1043226d",
+    "1387d5067f69e2395feaa5356b2fc7f775e2d819deaed9ce4417a4850cb2b191",
+    "194d84be260cf5a733ddae6c80d64225990ea677bcb6f6b944a94bf6ea6c78e3",
+    "4d7fe3d9c75168dc0fd61a54f7f2f9e6bf4f926c91ed743525a6e3512111eebf",
+    "d3f278eb218ce042239f0247e3e7b5549a4298e54756df658674fbac8d0f38b3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "US WEIGHS NEW PENALTIES ON CHINA OVER JAILED AMERICANS, ABC REPORTS",
-      "title_ko": "미국, 수감된 미국인에 대해 중국에 대한 새로운 처벌 부과, ABC 보도",
-      "url": "https://t.me/firstsquaw/193959",
-      "ts": 1795038443
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "PALO ALTO NETWORKS AGREES TO ACQUIRE AI STARTUP APPLIED COMPUTE FOR $4.5 BILLION, WSJ REPORTS",
-      "title_ko": "팔로알토 네트웍스, AI 스타트업 어플라이드 컴퓨트 45억 달러에 인수 합의 - WSJ",
-      "url": "https://t.me/firstsquaw/193960",
-      "ts": 1795038446
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "APPLE SAYS ALL OF ITS SERVICES ARE OPERATING NORMALLY",
-      "title_ko": "Apple은 자사의 모든 서비스가 정상적으로 운영되고 있다고 밝혀",
-      "url": "https://t.me/firstsquaw/193961",
-      "ts": 1795038449
-    },
     {
       "source": "FirstSquawk",
       "title_en": "NASDAQ CEO: RETAIL INVESTORS DIRECTLY OWN 40% OF US EQUITY MARKET VALUE IN 2026",
@@ -11504,6 +11483,27 @@
       "title_ko": "대만 증시, 4%대 급락",
       "url": "https://t.me/firstsquaw/194093",
       "ts": 1795057719
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "BOJ Governor Ueda: BOJ’s Holdings of Japanese Government Bonds Will Likely Fall Steadily Amid Reduced Purchases.",
+      "title_ko": "우에다 BOJ 총재 \"국채 매입 축소로 보유 잔액 점진적 감소 전망\"",
+      "url": "https://t.me/firstsquaw/194094",
+      "ts": 1795057803
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Tyson Foods Stock Surges After Earnings. Beef, Though, Remains a Problem.",
+      "title_ko": "타이슨 푸드, 실적 호조에 급등…소고기 부문 부진은 여전",
+      "url": "https://www.barrons.com/articles/tyson-foods-earnings-stock-beef-prices-80d42988",
+      "ts": 1795057868
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Nvidia Fallout Hits Alibaba and Other China Stocks as Tighter Regulation Looks Likely",
+      "title_ko": "엔비디아 여파에 알리바바 등 중국 기술주 동반 하락…규제 강화 우려 확산",
+      "url": "https://www.barrons.com/articles/nvidia-alibaba-tencent-china-stocks-462175ef",
+      "ts": 1795057871
     }
   ]
 }
