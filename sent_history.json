@@ -1,34 +1,6 @@
 {
-  "updated_at": 1795098361,
+  "updated_at": 1795098514,
   "id_hashes": [
-    "a6aa5e2e9c694b13fb44053cd571b8ce376e484583c822d48f61d19aed596db9",
-    "94d4487a05552327db1afd0aaa2bacba369898f82e5aa239003e919c54be1e0e",
-    "9c91de2b8204452d7af49ecb0bcdeff038dda6d2099b9aa5d2af62540b2d05ca",
-    "9f1578a46f37f1ae970ff12e6b1cf61de69cec361502438100a1387130ad08fc",
-    "cb9085c1f480b00ad47b1f3463de32c4925953929e53391c506a0191f8a2debe",
-    "92175dc32bcf5fdb8a09f2493c51ede59899f37af1b3d41908bd465842d51b2c",
-    "17d53209c49b0021f4dbfd36b82e6fcaa4479cd7fe4c2a37303eaa664a2bc9c6",
-    "74036f9671a3b55ec540624614ff315662701f4645518e900319d5aa86ed479b",
-    "dd18ec505ebe18de46e812402709066fc2e5e32995850942f552cf274928162b",
-    "5827bbbeac86cdf9bc7c1a0f15a63f688147882bad19ae2931c4dea62aea4cae",
-    "6374efa06e9aa403d5ca2266bb088a2523fda86f6a2919552d236c3ac92293c0",
-    "d95c82c86491484f8e36929aab7ac29b9606db74e8261fee197afda6efcb36b9",
-    "f50c121a22090fbe4fd498b2e095008ec5f01cd7417e24f9b96c9a99c37d4425",
-    "d540c775b000eb8e0e786641e190474850f946cacbaf84fa8d6a2ab972be66d1",
-    "20897f77712f57aa3e08d1eb22ad61d646dbd3b674b916b4948a9905d03f89af",
-    "12e781b16cc289958d81fc7a670f2550785131e6eae765dd2ab83b98fe2954af",
-    "3d247e55a8ae812aa8c4eeb5d0f4e99949a0246a2d5866e4753b7023f5e953a8",
-    "c20f434703bda8336cbbdd75903d8324ea56b00e8c5a1cd8afa43b91667bf8be",
-    "fe791be6df7ad715b810bd9a648356b80f9b483e695f8841f3a98ab19175a7fb",
-    "1559d5db3ffd2a5214c4c60a671bdccbf5d421a9a4e8183c7ad2bfc1913e02e0",
-    "e29c99d3ac2ce6735478962de3755eccb1a489c00a6951f87d75d137aa33a35f",
-    "7a5e5793cfb8bb21b7e19fdc341b72c6bd9611e8dd313fe9a0244f79cf99b72a",
-    "aead011214a3e480eb4ca9053948c0e0b413c14d6bc29d3cee1174d3bcf43efb",
-    "3a1727bb4a62bdc4467ee6d9cf2f6a73bb9c93388320e18f74a520a24e16474a",
-    "7399f54b7f6449f0ea4de149f7b3ae4e08275508e3d254661d03fb4d6746b56b",
-    "0ed85c6b3d1839dfcbe218d1e05e121ac5cd3400dc3d1313a2e62ba0e88a6440",
-    "7a29d36dc399cec5b27424a3a9782e6c932de1b5183e319197e7968c9a0ca164",
-    "a9f7467894f7673d4fdcabe849173ac71991e4609ba0dbacae79ad25235a2566",
     "365cae160f3c6b5049ba8378afa57533b7b1623703d439b362b3c832816f0808",
     "2fa7f67ab93b41c412cb51afa313cff26752401df0fe0ae0cdb4b5526cf09da1",
     "be47801ebd0df35574d4f565f1640efe242b2be9afca14bc364e73ec4f0795c4",
@@ -4000,25 +3972,37 @@
     "addc08c4d5a0cc03c0d6074b8bfa8140595dad9fbca860e0e0dc46cee9fbfe59",
     "9c049c5cbabe23fe2242a0512999722d90801b7ad9e7ea977d3d5988d76d1afe",
     "267cbd841a5e20a0b6f4cb253e3089121d26893ef9a33c7fc9b5ee2f62201ef9",
-    "d29fa883a687aefa57150f6a926574cf70a819fdfd7131f22324a4b3227f1cd6"
+    "d29fa883a687aefa57150f6a926574cf70a819fdfd7131f22324a4b3227f1cd6",
+    "ad744daf5d106375e008448c4c72927e0bd05fc7bfb22b92e1d5a7e7281885cc",
+    "3492ae03092eabc34f35c14a00e9990ff1feba94839b2096ad6517962f42fdf7",
+    "ae2c3104a7fa089ac1996fce7b0f840646fcf606d54f63838b72cba2c4ef925b",
+    "90e70bfe852d8a44d2cb7841da022af8f2b66731cff6ef31674b9ba9a374454a",
+    "33ab32e3dc765536c1bc0bfdd48726bb14e196a20e18319752c8ae607f08e00b",
+    "2fa7f73cc0c57451b62128dc57e98d34aa72533f4501e424e91c736b6f50083f",
+    "4bf79c39629c2ab87ce9ab8a06d6383be6536d87af43240fba39547c711389d5",
+    "2e5ccad268a48134e838de73bb6b78a1c2d2bb3bef9123d2caaaa6ff3a608e9a",
+    "66ce3aa69df2dbde89bc71573293b296df585de0dc2501f3665f341e691e7693",
+    "9c5e3dd9a0680a1dcd45507d3e2d437d0bcb8c98e50588dd93ababbda40b81e9",
+    "3a7bc501c2937dd3a4213b136a4e6204a8f00e0faf5e1a063d579434afe3aa2d",
+    "df87e82d85a1161dbb6b092718691625041dd3098ac904cb56c3cc4f1faf2754",
+    "60a5b3969947dd150d2dfc540d04204a2da4508fa15fc1d8562fc6e976881925",
+    "b63dbec7bb602a6f72f1d021178e60f8b5568c641d8eb2f0a6556ff3676d8882",
+    "e0891a554822ea969c3543ff7f3fc648575af8b312fbbe8de4467453dbd92761",
+    "040512a45ab649cbf69492d0b4d27d69b44ff7164c861ef034cfecc899e4e3e3",
+    "669adcd949ac5659262eb4174159412d3b60f417607991fd7b304da6853e4d14",
+    "862c348d17c8676f4a2a98b385b6f79866efbb4b5e61576a53f0db80f18363f3",
+    "a4f4324715924cc6c64773f8ca92881edfd50cfddd90de99d8662d7ba862d242",
+    "8f71e7f09929b77ee36b0f4f3fd6bef0327bd36cfacbc1d5439565e3a2b4b019",
+    "d85159741e78fcb7103a529839b73dd0423ce491d1c6caf4daedd2dbd3703209",
+    "e09771e66823244ba11af2113f06b42b95fd60936fea2d749026a5634e569888",
+    "2a965c1979c7dfd3cc219484979f5be8883eff9b05866aa6f35d637d27b4cfc5",
+    "29be5dcf02fd6da13cacfa765b8c2ebde8bfbac06b71072a024e7e9bed2f5b47",
+    "b6b6fea81f3b1771dbc1a807a730a34ee549114a8818c6fb99482c796cf99bd1",
+    "e6f774d17402316662d316837e8fdb07ca4e32f22c9745ee8144bc6e494561d6",
+    "6e69d5cbd2d797c65e8579933583ec8788a74dff2a623b4069f6a8299ef456dc",
+    "80786df92130809404d8aa073396cc0ea10e9096b650bcee917e28af42f2bc79"
   ],
   "title_hashes": [
-    "11a7bf53a0611c41474325cbccfbf087dab63a9e8d69fe2a1bc09c4afacd8417",
-    "7328a6d1498f2a93356b66f28d50d1d763f605412a786ff99cc3e00673d05a05",
-    "e9e0452f53ca27be4f4afd727f115992518b57f9fc495a11575e5546d71ed232",
-    "d284ae8a56323a5933f6feaccaf62151de2ec68aeeccb2514983b3281c9e06e0",
-    "70ed87a1127d104a67b7776fcc09fd3ad3eb69a2573444beed4438c9b1b1f156",
-    "aaabcc3d38ffab33efb20ed561715a04e517ebb73dc5984f06c25124da5d1376",
-    "c01f6e0ecd34ca73285ed4902ff175fb988241065a07fcbcfe133431433a76a0",
-    "4c04fa5c4ea6aa114737ec043fb13041ba6a8b27b3b085b03e726869407d9c63",
-    "01f0731e6b5e46e6f619f306dff041d60723a88b14f78ef51bfd4252f5c6fdff",
-    "409da0117fb1db25d92181f8c00005a6a900e5523099c2585dfc0e5801315808",
-    "d65cf522c6de66a3e310507bd5cb458e36e926e1b3d6775e1ce0c388daa2069d",
-    "62bb65d87d0777ed7c3eef6f71825c2e4683cad05cdd0a3c20db9ef5ed12afa7",
-    "9cb40c8fd197834e2cd9b2dc2326c903e0e960f49354be2650373d6c9a4c0105",
-    "cf8452d7e8fb3430792ca7917d5c55092a1d831b54f04355d742f9f6d7ff10e2",
-    "8e7e1082bece47b16c8db6c73df7f256a559e947f0837a731945be55bde270a7",
-    "e6bda79f0ace557b1ed00ede0a2f0f5dfe25a5728e238140411acddc6ab8458c",
     "30de8e6267693c77f44618d69997ad3814088595b05482d694137646b3c92a7f",
     "56b8763665fe87f759989609f33463da33df0ea96b59414dc11b0577b9f36867",
     "b39e8e335641c337638af914751653b013a3c29cfa3494e6afab2ae77aef4b29",
@@ -8002,51 +7986,25 @@
     "2d4c06d382a475cde7c78930b2ba61fa0b06ee7303f60d21c5b373740347739d",
     "68006d38ed5c8b04af14d453ac5770df7b03b344accd1693dd3e933e11903fa6",
     "55c282bfc60855d06516122793bf06477cb28ae7e2413026081321248d598cc6",
-    "f891e47601c8138a36fd8f51920546f6ac2c0615a7ee6de1ed57339f53257208"
+    "f891e47601c8138a36fd8f51920546f6ac2c0615a7ee6de1ed57339f53257208",
+    "47928fea1a6ac80e8101bf8c37c00ade317582295c087e8adb0d1dc1c0232c53",
+    "dffa3f855f435beaf10ad98dfdd9455189471d9d8af0183695d6937df892f215",
+    "83edc3e968480cc3f1c9d26a699b5651e861c9d575ab3d34431ecf28fb986fab",
+    "234854510d339852726160866f81bbc1c7c4d63fdda92c98a4ba7fa0c54e0c74",
+    "131d55389ee68cb0023db3eb6bde624a34fd9d501748cbe3f5898aa5e84d6a31",
+    "d8adb0b0159d435b6c25bbd89ee3317d2745d021cfa6cb3396c5f57c5c93ff2f",
+    "11183a521852a4a3fe0c6ecf9dc5760611cb1ad039914765a149945afeca1401",
+    "90aba0c558c077b49e77a00a63875908d5fe499228e60bf5b12539f4347399e2",
+    "baf4b0af66cbb8610e8f0e2b5e26d3aa7b6487b804a4f74801035c300f7569bf",
+    "51dd740192c9412754f7846b75b89caa99832baa3d821b14fc967dd24fdf874b",
+    "f16b8086568953949db41783fd4853922aada3e08ede8c11fdb49628a65d814f",
+    "e02077555917012cb384858b46e95791d2446d4fdd06f03de9cdcb6bf824f8cb",
+    "c1dc48406c7b93f86f9677acba29bb285cd092f78c21b9413e68ae0b528ee540",
+    "9be449097180f163153d1699c2ce274e7dd910dc39acc469abac38935b0f7c70",
+    "59a2fb8a2e22f4b005901232108f364ad2a848198cf7144cb8f4853795c6bd15",
+    "f9428d6d8838b2bd29ee388a2394f95aa66d1d1d67a88f227119fe3e34a41e5a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Takaichi Reaffirms Japan's Taiwan Position in Line with the 1972 Agreement with Beijing.",
-      "title_ko": "다카이치는 1972년 베이징과의 합의에 따라 일본의 대만 입장을 재확인",
-      "url": "https://t.me/firstsquaw/194166",
-      "ts": 1795070945
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Takaichi: Japan's Policy Regarding Taiwan Remains Consistent with Its Previous Position.",
-      "title_ko": "다카이치: 대만에 대한 일본의 정책은 이전 입장과 일관됩니다",
-      "url": "https://t.me/firstsquaw/194167",
-      "ts": 1795070948
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "OKX's Lin Discusses Tokenization and Stablecoins Outlook",
-      "title_ko": "OKX의 Lin, 토큰화 및 Stablecoins 전망에 대해 논의",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-19/okx-s-lin-discusses-tokenization-and-stablecoins-outlook-video",
-      "ts": 1795071039
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "트럼프·시진핑, 선전 회담서 통상 균형 강조… 내년 1월 무역 휴전 유지에 방점",
-      "title_ko": "트럼프·시진핑, 선전 회담서 통상 균형 강조… 내년 1월 무역 휴전 유지에 방점",
-      "url": "https://biz.chosun.com/international/international_economy/2026/11/19/IBSGZCUU7VEEVPQ5LLUJ73WNNU/",
-      "ts": 1795071041
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Kursk Region Governor Reports Ukrainian Drone Attack on the City of Kursk.",
-      "title_ko": "쿠르스크 지역 주지사, 쿠르스크 시에 대한 우크라이나 드론 공격 보고",
-      "url": "https://t.me/firstsquaw/194168",
-      "ts": 1795071044
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "회사채 희망금리 산정 '2곳 이상'에서 '전체 채평사'로…금투협 기준 강화 [fn마켓워치]",
-      "title_ko": "회사채 희망금리 산정 '2곳 이상'에서 '전체 채평사'로…금투협 기준 강화 [fn마켓워치]",
-      "url": "https://www.fnnews.com/news/202611191541455276",
-      "ts": 1795071116
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Morgan Stanley Cuts 3i Group's Price Target to 3,014p from 3,390p.",
@@ -11504,6 +11462,48 @@
       "title_ko": "연방준비은행의 제퍼슨: 인공지능 구축이 인플레이션 상승 압력을 가하고 있어",
       "url": "https://www.financialjuice.com/News/9860036/Feds-Jefferson-Artificial-intelligence-buildout-is-putting-upward-pressure-on-inflation.aspx?xy=rss",
       "ts": 1795098357
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Fed's Jefferson: AI buildout is a shock that affects both demand and supply; current pressure is on demand with possible productivity advancements 'in the future’.",
+      "title_ko": "연준 제퍼슨 이사 \"AI 인프라 구축, 수요·공급 동시 충격…생산성 향상은 미래의 일\"",
+      "url": "https://www.financialjuice.com/News/9860037/Feds-Jefferson-AI-buildout-is-a-shock-that-affects-both-demand-and-supply-current-pressure-is-on-demand-with-possible-productivity-advancements-in-the-future.aspx?xy=rss",
+      "ts": 1795098384
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Fed's Jefferson: Energy cost shock is a challenge for central banks that poses trade-offs for central banks between inflation and job risks",
+      "title_ko": "연방준비은행의 제퍼슨: 에너지 비용 충격은 인플레이션과 고용 위험 사이에서 중앙은행에 상충관계를 초래하는 중앙은행의 과제입니다",
+      "url": "https://www.financialjuice.com/News/9860038/Feds-Jefferson-Energy-cost-shock-is-a-challenge-for-central-banks-that-poses-trade-offs-for-central-banks-between-inflation-and-job-risks.aspx?xy=rss",
+      "ts": 1795098389
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Fed's Jefferson: AI could pose a 'meaningful challenge’ to some households through job displacement, but could also produce new jobs.",
+      "title_ko": "연방준비은행의 제퍼슨: AI는 일자리 대체를 통해 일부 가구에 '의미 있는 도전'을 제기할 수 있지만 새로운 일자리를 창출할 수도 있어",
+      "url": "https://www.financialjuice.com/News/9860039/Feds-Jefferson-AI-could-pose-a-meaningful-challenge-to-some-households-through-job-displacement-but-could-also-produce-new-jobs.aspx?xy=rss",
+      "ts": 1795098392
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Pay growth loses ground as inflation turns up the heat",
+      "title_ko": "인플레이션이 과열되면서 급여 인상이 기반을 잃습니다",
+      "url": "https://seekingalpha.com/news/4674713-pay-growth-loses-ground-as-inflation-turns-up-the-heat?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795098447
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Iran's IRGC: There will be no nuclear talks until Hormuz settled - IRNA.",
+      "title_ko": "이란 IRGC: 호르무즈가 합의할 때까지 핵 협상은 없을 것입니다 - IRNA",
+      "url": "https://www.financialjuice.com/News/9860040/Irans-IRGC-There-will-be-no-nuclear-talks-until-Hormuz-settled---IRNA.aspx?xy=rss",
+      "ts": 1795098449
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Micron Stock Finds a Spark as Rival Downplays AI Growth Fears",
+      "title_ko": "라이벌이 AI 성장에 대한 두려움을 경시하면서 마이크론 주식이 불꽃을 발견",
+      "url": "https://www.barrons.com/articles/micron-stock-finds-a-spark-as-rival-downplays-ai-growth-fears-80c4949d",
+      "ts": 1795098513
     }
   ]
 }
