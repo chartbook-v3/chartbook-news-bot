@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795096792,
+  "updated_at": 1795096955,
   "id_hashes": [
-    "69f6fb350e7fd26c14b63e8a67cb3e875780b7d5b2ae123f13b9477e56e55266",
-    "07a1cdb6988683933facd5bb1458ec77ba0e8e60798e40045df5e62b5cf61f42",
-    "9fc54a954160000c3da7fee7c8d537275549555674cb320e5a825ea7e5dca261",
-    "ef515f02cb90f0a431e34aea833af803446cf16efd121cf45817b15f979ec981",
-    "ea8abfd56e5d196365ae016307a8dd6fa53149f2e187c6f7e59039e231667d37",
-    "64b069f3ab3b45ffc1749c0d4d1dbaca576e874d4c675d45beca3564f69a84cd",
-    "70b10790ea514e4306223d60fc19e7f6ef414a5a747948aa3bf621e417893e3a",
-    "8e95fd9492cd7bb20a2a25c72fb928433b99b283b9febf476fd122986c20037a",
     "185db3477ffe12b28de728797a8957b4b26936ce75e006fa392168f97e78797d",
     "da0b558cf3c3341fe119d40389bc43eefe4983be1681f843a30c5f97100f5c2b",
     "b342dc90d76a990cdcb2543ee1a045393e1fdf0318f1a918888cf97bbed05f4f",
@@ -4000,16 +3992,17 @@
     "b860da3905176f07d5daae4c124a27842b6d1db3604012cd42fee915828702f9",
     "d663fc2f5ba66f744c95550947fee761c76ebe55bac80f7cb6e42f0f447c1d58",
     "3d0ae34ad50cbc5092d8cae01e947deb3c4a998ac63d9c323a6cf86d7ea1cb55",
-    "5cc81cd6da35a3bd7ec017f516dbc784cf5ab44cfade56ec2dc63ceaff87496f"
+    "5cc81cd6da35a3bd7ec017f516dbc784cf5ab44cfade56ec2dc63ceaff87496f",
+    "de65b10402604162bd08fa0658763ed3c70f5b3b09c44bf9c749fae1e6301730",
+    "422ffa641f8d8d78d4d28cd148867cdd7dd3980a9a8ee509a1247aca7146c9dc",
+    "d32b0863f41a58e79cab24e673aa43f3f8ec41c936045fcca5aa9e2a206e1173",
+    "0dc6ac77e2b6447ec54b330587839452c295f096f94d78d9ac9242708aca0d9c",
+    "1b820a48d91ef685b7fb22074c6c7ac0893d5f890a365b97d177607b0bd290c5",
+    "3488461726fdd8d6902c40d64cff2d2bf1727d639d623c991e933185db47672d",
+    "6374d8e2ceef8e0b4adac916e4366d3251f891c7c79cfb04401d7b6d5d729cc6",
+    "0112a3df862a7f7782bf1dd5cbcb5a0776f5087497813eb755ca8f33c09529cc"
   ],
   "title_hashes": [
-    "c60123f87392d9676c1e9005a70739247a688b1f64d126e8f05ba601196269c9",
-    "f6898aff915ebf817926f48b7e476fe7540e37fdce286d15dceeb43c32ebbc20",
-    "a98f09a2c5c4bb61efb95945514fadeb10c80585964b2ed37af56e1ed4fb26d1",
-    "e92c0c31de2e3e07811aa3a426ab90633aef84116dab484a9972ef080d814c6c",
-    "b6df6e157314913ded868adbbb956529870d557a5c8f3d603bfbce0abc717ff2",
-    "fef8e3aa33a744f8cda1eb0679f0213d0f7428d66c91ba927388762ddb4cb3a2",
-    "1c2bb138db9b907766377cebd08803006cce8026b9ed22f6764a2d199a2f5819",
     "b5282ebc8320f189887154d5d422e52215e36f7b774254c4705c99afe596e09e",
     "1f95cf88f998d23aeade8fd31e9ff7cf4cd3bdcbb2af531680d87ab9bac8adbb",
     "42186acffef8532437e57f79b9b7aed0c87f71bc94385b9e17631c89cd6cbcbb",
@@ -8002,23 +7995,16 @@
     "fcd9b2989056352744162e13f14d6bb07d8a61f60a306556c8f41e9f26e8e176",
     "7f579f5e5cf6b80ecf823b415dde54ec40901df2893da10a2452b4e2b0e3ec0b",
     "8cc1eb7f4e37466fdaed23c8acb6c7bf2033854a553432cb291ba60ab6f4618e",
-    "d15f097feb4732c08d3060ed127a9112f24bc71f2be4580744940a834dd1ce12"
+    "d15f097feb4732c08d3060ed127a9112f24bc71f2be4580744940a834dd1ce12",
+    "71257ffc5a463c622fccfa6336ce612b80d1bbb0c5fb16b9cbeba627382fca11",
+    "1a3930e1fdc5b52fd5b26791fc663b446b02024c0cc3aadea4d9640c222443fa",
+    "26b986ce8d18c53a10e053f773f544cadf673917c918ec6962691b25938edb98",
+    "cf99f95311360fab10c3bc4d29d1aefee57637c5ca11373acd16f6f271865d88",
+    "5d5a0cdd78b059b97b518ac4d738e9fcc2f5a7e13841a67c9a02e406061a4152",
+    "7b1ee0969a58651abac7cecc7724192b4b1c6b692a36a48dc78b98f77322b6fe",
+    "82ff9ee415ad4857ac38a5fa989d4c5f4d16a0787f2069e1c564532d6fc785af"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "Fed Interest Rate Probabilities",
-      "title_ko": "연준 금리 인하 확률 전망",
-      "url": "https://www.financialjuice.com/News/9859406/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
-      "ts": 1795070040
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "日本烟草公司将把俄罗斯业务部门排除在财务报告之外。（彭博）",
-      "title_ko": "Japan Tobacco는 재무 보고서에서 러시아 사업부를 제외할 예정입니다. (블룸버그)",
-      "url": "https://wallstreetcn.com/livenews/3202379",
-      "ts": 1795070103
-    },
     {
       "source": "이데일리",
       "title_en": "[단독]'AI 커닝' 세무사 시험 부정행위…집단소송 나선다",
@@ -11504,6 +11490,20 @@
       "title_ko": "Endeavour Metals Group, Wall Street South의 귀금속 딜러",
       "url": "https://www.streetinsider.com/PRNewswire/Endeavor+Metals+Group%2C+The+Precious+Metals+Dealer+for+Wall+Street+South/27373825.html",
       "ts": 1795096791
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Effective Fed funds rate 3.88% November 18th vs 3.88% November 17th.",
+      "title_ko": "유효 연준(Federal Reserve Fund) 금리는 11월 18일 3.88% 대 11월 17일 3.88%입니다",
+      "url": "https://www.financialjuice.com/News/9859997/Effective-Fed-funds-rate-388-November-18th-vs-388-November-17th.aspx?xy=rss",
+      "ts": 1795096823
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "据美国纽约联储数据，上个交易日（11月18日）担保隔夜融资利率（SOFR）报3.9%，之前一天报3.92%。\n\n上个交易日有效的联邦基金利率报3.88%，之前一天报3.88%。",
+      "title_ko": "뉴욕 연준: 18일 SOFR 3.9%로 하락, 실효 연방기금금리는 3.88% 유지",
+      "url": "https://wallstreetcn.com/livenews/3202623",
+      "ts": 1795096954
     }
   ]
 }
