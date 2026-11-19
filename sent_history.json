@@ -1,25 +1,6 @@
 {
-  "updated_at": 1795099770,
+  "updated_at": 1795099921,
   "id_hashes": [
-    "1214d25a2c2ea8bdbfd5de4d29c71ec8e505be17404d2a8e032b2844a6ef0a64",
-    "9f9695727faef20f76a4207653e279d9f773c2ec5c26a74891e835294e37b348",
-    "727f19dd94673179244b60e123788f78c5dc997c89f1e71880828482d29370d4",
-    "009d8a394997e4adc6574fe66c1349e8b5b37f1582aaf0905108ed0de56a0f24",
-    "775782cc4abb8efa81e9f75f8c6d7094984d0cf823a59563f9558f55c01577a3",
-    "13815d62e786da76971ec0cd4a5aad411b954dc66a3cf96772b0d23c5df14f7c",
-    "6eb6ce9187c9ca99b0cbd1fe80998a47ba5943c6792a10d5cd7df901d43827ee",
-    "d1261269dd4a0190599b1c29aa9a0c5cf1ff365fe1da108dc939010188aefb10",
-    "4600e4b1b74fa7cc24c4e7e50da4a2d4a198c9ed912eadce1b8d7e0a30bf21c0",
-    "59329f046c3f4ecb87df60443c6d337a49439a1d4824cdd0594cf2f5b760969b",
-    "c889f04054e1c10b9410001f27c584a2baf79966ef7b0a828df5901b8ef8bebf",
-    "d6f7fff3eb986b7b136734faf30d3f253865e8b6ff8ea37863d7ae8ddb9b6de2",
-    "93c1060645f1fe1539ea367d0703b05722f1942dfaa9ec11e59dade62d4c8774",
-    "3ddcdb778dc6e9c72f0f6f66dc0a3422533df9b469233bbf902b0f17776261c9",
-    "679c2ab5b3e91542d02f5042b7259a3959d5f629a17a3a52330a9fb5b660050f",
-    "cda087171bb10e57bd916f6056b7c2a526c7b3b6ef7e336d8dda36e225e53bc6",
-    "d835aa42530b53d82fcc9206258d0be38a13237f60c7858b717998e356cd0431",
-    "580db5dd997f5edfd12f087777ad442ac3bd079b2b151bd17e3d3cb36adacf17",
-    "fd6cc6a8869f64aded27a756c6683d0296fb94a0923bcf743e9abbbe304e8661",
     "23324d9e29d5599eabe5dcd21033f04465855d7d0979b62e7e048998bc06901b",
     "5b81030e331041c687209f17da94212119234bcef0c5c2f8fa82b26ce82c1293",
     "e0ccd718ac8c6dbd2bec6cfb7cfdfc352815bcc45b12ec84bdbf3bd4f2e34e25",
@@ -4000,21 +3981,28 @@
     "f036843e92ac288050b13b653d49b6741a3f14a00cb6719701b8a88373a60fde",
     "9ac229de148689700ed07f29537b1bac21039546500dfb4aed9340a6008cc863",
     "ec0bb63c6f8ac3e42f537307aeabd2d4c83c521c6c5dfa1cbef08b430dc32103",
-    "90f054834ebd5ca17eace9a124e8fbe41a6e580e9415d411ccaefd65a2f84da6"
+    "90f054834ebd5ca17eace9a124e8fbe41a6e580e9415d411ccaefd65a2f84da6",
+    "99a33b2ae9412a38e788d2c609f9086c2202381f454a6a14426897cb86cb1c2b",
+    "957518155536a65a7df8fc70cbdd027090b7152f53d5d4cef200c6c69a9663e0",
+    "0b3441e4623c64a5ec1b5242c964aef6a5b90ed0263a43bde8a1d8f65757ee4b",
+    "21a85c5bdd06aee2f1b207eb462d970b70dde50b560233f22a2c2e980204d77f",
+    "8f0e46fd07cd373ef1ab62f84547a1921bdd8a3081b2ea6d2b593a4a8720c32d",
+    "f43ef087349d4224e3eccdd232d699b8954cc0e81f1fa7fef6c1a773f72a9d01",
+    "68303edd897acf942e8735f3eee898321bfa70091a1b2ca409b9192833f9e338",
+    "d4a7974aab72cb12f848b7032775fb735fe03dc7b09722b90d0cb5dab4abdca2",
+    "3c061dba32ab96e526772e8bf8b17e47caa81c7ec3e2c4e2e50377d6e8bec466",
+    "188047ea5f49f111d7501537cd85bf2186f483c7be18a7e0e5ded3f3537c2d33",
+    "484f77b422173278ee8ac7bdb6a9c81d97eceba2e493d52f269b37dbbd3f0b17",
+    "51c57322d0713357e45ea0460a0a3cc05cd7bee2df85bbec1afd55534edc3601",
+    "ab2b538266c8e7829a844b9be08a2dfb4d7e39cb318b29f60a0ab204e7e5cc4c",
+    "5f3c6752c1b6c4943f13709f28e5a1d9f3ccd5b2e157ca2004a608467c5e6a3a",
+    "ead8f070142bc0d281f34828dedac5ba7021f738c485873090e26e485290abbf",
+    "89cda074306b76ebba5b9b08af29b60cd9bdb3db087941ca68d1d089854c235d",
+    "34a7a3e19b01d8be21aa2fa6a25a1b29048f998cd86d6b002bcd5009ea7d1dac",
+    "79847932d47e0f6732c87f57289ef99311401709364c53bf12eebd84ef919126",
+    "73060bd06df3e0a5d7cb06b6ae7424d79c2edd555b8c92ee55577de995b516b1"
   ],
   "title_hashes": [
-    "f4a74eafbb77dc1818117940a2b4a734b77c0acf710229474bd5b30880dffc0f",
-    "d9835a12bbac80643ed1463dfc561a4d8171938f6b3586019db985cf5feb6c90",
-    "00797658955f9818de518dee61143ff2a254aecc81372b33c90ec9bb4290609f",
-    "4c1f75401c33b0fc0b9f7ee2171f9cdfd59aa9765284180fbcfc5e4c23e716d3",
-    "4f4a6304f07ab4cbfc3ad4cfb8dcab761100c201253245ef0d37b9107578d276",
-    "c40f76adf90ad6b0abb2078af80f4760c7b780520c09ebbcfbbba265563ca5a5",
-    "dc3e7b5b4010dded75106cab0b30bb709a5e2e68f0a00e4962b243518314d4c2",
-    "e0a71b4db8605f8540b760d9757032b0f9d134c472649eeb86c5a63f5aa91ee2",
-    "d589751907e75c08612b4fcaa0db5bd1684a827b7c06717d1f01fea72df441ab",
-    "7fbd0837bb4ac0cf0031420635ba810c9998d30c13cbfef80e78a007bca519da",
-    "b0f203c885862643a241ce7e4cd2d7fb5201adf3408615c324a647c337164e19",
-    "ac23e0949420bbddeb624a5862111fd6c585d5a8dcc9e8f894f59e6f0c68f253",
     "3451613623c296eb720c636c51d0fefa8f65c7d524d8b9d3e01571de23928655",
     "ec1aebb8c88ad2847c031f219a8ea32a6f8559db6a0eccb9c13b29d3ed75c6e1",
     "4d40ebe5b91cb474616e72180b6c610c73eb3325cc44c4095816de02cfb12748",
@@ -8002,37 +7990,21 @@
     "0a3376cfd3f172da1be319553a9d2f3f4dd1f5c3d74def3437995b577c9da8cf",
     "2361a81c11e15e775744e70da001380776c2f91229b07d9e31d85caa7e826cb9",
     "bb6fb1349911593cd478ac99143258187009800d5ac17cd1a01defda3f0e5aa4",
-    "848bfa857e321cb6c3b1e66e1e8bd49a14b9ffa2e0b201706e310c8d6854ab48"
+    "848bfa857e321cb6c3b1e66e1e8bd49a14b9ffa2e0b201706e310c8d6854ab48",
+    "0170036551bc998134977801123b48050f7717d2ea7b4317b6bd3f808b31c3e4",
+    "f8e33b3c49eecf626a36036cc76e27bed66884b8ee699b613e7472689dd58d6b",
+    "0d888883773750a7de94df9b49e5e5b1fbd0587a36fbc8337d50753ad998d674",
+    "db5b2f248da405ac24e47c7831ba6134667d5fd410e0886490c27d39afa2d8f6",
+    "fa016f60ceedceeaba6942b93e1c5f99f72844e989fb0adab67831f6df9ab4ff",
+    "11d6e511e168c93102a5ecf51db52b3d82755a31d1bf5ab88050496f04e1d00d",
+    "f07e686c59a9aaee26608241b7e1b7fc41351111f63d2840ce2f82724d57ac18",
+    "1cc59c2e5122f4369864bbe203b9bb406b103480419530da308dd0f01b359d05",
+    "2d2a6c84ceaab5b699585a78a2da20a3ad6ee29a0fde4f0d06adb978eb272a97",
+    "2af345e9c5b010d0b5eafad3db6328ef77339f88c1a7d56df71f7bace784fff1",
+    "f5e158b1f0405b2ac0755d9ab4a6dceb57f0aef1462f74f84f614597e5a95c37",
+    "7300b919b7e531e0d662077fc8080bfaecf124c03a17e6aeb79c354775b1baa4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "전기신문",
-      "title_en": "AI가 이끈 수출 1조 달러…반도체 의존 속 새 성장동력 찾기",
-      "title_ko": "AI가 이끈 수출 1조 달러…반도체 의존 속 새 성장동력 찾기",
-      "url": "https://www.electimes.com/news/articleView.html?idxno=375027",
-      "ts": 1795073124
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Trump Reportedly Traded Over $97 Million Worth of Nvidia Stock in 2 Years — Elizabeth Warren Wants Congre",
-      "title_ko": "트럼프, 2년간 엔비디아 주식 9,700만 달러 거래 의혹…엘리자베스 워런, 의회 조사 촉구",
-      "url": "https://www.benzinga.com/news/politics/26/11/63376420/trump-reportedly-traded-over-97-million-worth-of-nvidia-stock-in-2-years-elizabeth-warren-wants-congress-to-force-him-to-divest",
-      "ts": 1795073253
-    },
-    {
-      "source": "딜사이트",
-      "title_en": "[유캐스트 IPO] 공모가 1만9000원 확정…코스닥 입성 초읽기",
-      "title_ko": "[유캐스트 IPO] 공모가 1만9000원 확정…코스닥 입성 초읽기",
-      "url": "https://dealsite.co.kr/articles/173083",
-      "ts": 1795073256
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Williams-Sonoma Gears Up For Q3 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accur",
-      "title_ko": "윌리엄스 소노마 3분기 실적 발표 앞두고 월가 전망치 조정 주목",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/63418397/williams-sonoma-gears-up-for-q3-print-here-are-the-recent-forecast-changes-from-wall-streets-most-accurate-analysts",
-      "ts": 1795073259
-    },
     {
       "source": "뉴스21일간",
       "title_en": "우주서 핵폭발 발생하면…일주일 만에 인공위성 98% 기능 상실 가능성",
@@ -11504,6 +11476,34 @@
       "title_ko": "미국이 AI 수출 컨소시엄에 합류할 업체로 Salesforce, OpenAI, Nvidia 선정",
       "url": "https://seekingalpha.com/news/4674734-salesforce-openai-nvidia-among-those-picked-by-us-to-join-ai-export-consortium?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795099723
+    },
+    {
+      "source": "Informat.ro",
+      "title_en": "EXCLUSIVE Ranking of companies in relevant online sources in Romania: Nvidia dominates company visibility. Finance and investments lead the economic agenda",
+      "title_ko": "독점 루마니아 관련 온라인 소스의 기업 순위: Nvidia가 기업 가시성을 장악하고 있습니다. 금융과 투자가 경제 의제를 주도한다",
+      "url": "https://informat.ro/en/exclusive/top-companies-149150",
+      "ts": 1795099793
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "BoE's Lombardelli: We will take the action needed to meet the CPI target.",
+      "title_ko": "BoE의 Lombardelli: 우리는 CPI 목표를 달성하기 위해 필요한 조치를 취할 것입니다",
+      "url": "https://www.financialjuice.com/News/9860086/BoEs-Lombardelli-We-will-take-the-action-needed-to-meet-the-CPI-target.aspx?xy=rss",
+      "ts": 1795099796
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "英国央行副行长Lombardelli：将特别留意实现CPI目标。",
+      "title_ko": "Lombardelli, 영란은행 부총재: CPI 목표 달성에 특별한 관심을 기울일 것입니다",
+      "url": "https://wallstreetcn.com/livenews/3202654",
+      "ts": 1795099856
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: 🇺🇸 CHASE BANK WARNS OF POTENTIAL DATA BREACH FOLLOWING CYBERATTACK.",
+      "title_ko": "방금 들어왔습니다: 🇺🇸 CHASE BANK는 사이버 공격에 따른 잠재적인 데이터 침해에 대해 경고합니다",
+      "url": "https://t.me/marketfeed/1081715",
+      "ts": 1795099920
     }
   ]
 }
