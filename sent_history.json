@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795111626,
+  "updated_at": 1795111775,
   "id_hashes": [
-    "55c8828e79e1cb32f0d6e9bc3aff58ade6a3d4b2c37af0a2b78df06a8dda39de",
-    "1a07105d52ffa9bc30e62001ceffeb7a9965683ae33f175a0ca1c7649d542096",
-    "aa88c71328c5d96c5ca8f60bcb3ed603838f810205d5bb3c126ee4116ee845d1",
-    "09c462e9cf3051d93046915a3ba8db83b99734762f7a50e0847751119b5604ad",
     "12e44bd95e64d4966c840ad154b1b416561131d56d34a5923287d90b012bb09d",
     "5ea9ccd518272fa40c1f8818bf15ba8457d623627b29767cb392e66dd24b4340",
     "9fda8dd5ff411250b9768994deb9a193d52f21a52ace8886337364320542bbba",
@@ -4000,11 +3996,13 @@
     "3bbbc997d7cf7f1475c084f237edb61d33aafa10fca33cac5923466de0ed7e26",
     "3025faaebe870a8185487ed159a272a404de5ece28db3045591a7114e92f121d",
     "9c968f3ca67fe42e36cd335a63094b9b7596df25c257d0d19c120ab8d5a8cfd6",
-    "46ec89db39ede569745c150489513aaa10ab8ccdb052563cf1764030e5466286"
+    "46ec89db39ede569745c150489513aaa10ab8ccdb052563cf1764030e5466286",
+    "07ad3218c32d46a3d6a4693547dd5cb92ade6ea86d9738679d4e963edc1faf94",
+    "cce6a1edc6c33133d1097fe82132c0019556301f2e6209d0c826d3e8c9804b54",
+    "972dd6fa7b835ab17259656d2c5cab36395fdcb8c96a8ff60f1819959217b71a",
+    "be757a4a5d51a305acfc9399bfb8bfdd7c4b69e07d858c81cd552501ad964a25"
   ],
   "title_hashes": [
-    "f31ae52d147e4dcc5894e2ce927cd70baa1cddbbc03ea691a539f81827eb8a1f",
-    "82a77255cbb78fc8de389f972c57026e55f3917808068eef12841cdf44c70a8f",
     "40e07b5777dc5ca5b4cd15aa375068f2f97bc6ff75707fa542e31bd74e6d793e",
     "880baf7828afd5a5fe8e1c66038e902b93817a6eca13a62fd3f5a3dea3afee33",
     "4e2ff3ff074fff20d4a05ecea22181d1eebd4b204f0ea06238542680cfa9ed31",
@@ -8002,16 +8000,11 @@
     "213608856b169debdd0b75333a426bf1e857c1333c97349c91a26e897b7f5f8e",
     "f687441d60ce10d796293a4a7b09d028e0c39bf3785e3d7d4442b9f7d343ca21",
     "560f6fb258c408a16b1b5f6733bad8a9ed0a96260bbbe9fe668e6b0c5fd7c11d",
-    "f58be8d4e1dc4f1bcfa5e1c49769ebc5027814aa6d16f9d9b7f771cabb6fa058"
+    "f58be8d4e1dc4f1bcfa5e1c49769ebc5027814aa6d16f9d9b7f771cabb6fa058",
+    "d3b82e2c08cc18f2bf2a13175bad76c7c74caba83ba6b93e1d28da25095ee05f",
+    "bb74e4ff6d8198a2f18248b2745281e42dddf20bc802f8addef47300362d3e5f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Barron's",
-      "title_en": "Why This Top Floating-Rate Fund Likes CoreWeave Debt",
-      "title_ko": "주요 변동금리형 펀드, 코어위브 채권 주목하는 이유",
-      "url": "https://www.barrons.com/articles/top-floating-rate-fund-coreweave-debt-f2242f59",
-      "ts": 1795086144
-    },
     {
       "source": "CNBC",
       "title_en": "Anthropic IPO live updates: AI lab's Nasdaq debut follows record $81 billion offering",
@@ -11504,6 +11497,13 @@
       "title_ko": "텍사스의 블루 웨이브가 Elon Musk의 Tesla와 SpaceX에 미치는 영향",
       "url": "https://www.wsj.com/tech/what-the-blue-wave-in-texas-means-for-elon-musks-tesla-and-spacex-af0985ae?mod=rss_Technology",
       "ts": 1795111562
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "TRUMP SAYS 'IN NO RUSH' TO MAKE DECISION ON IRAN: ISRAEL'S CHANNEL 12",
+      "title_ko": "트럼프 \"이란 관련 결정 서두르지 않을 것\"…이스라엘 채널12 보도",
+      "url": "https://t.me/WalterBloomberg/38718",
+      "ts": 1795111646
     }
   ]
 }
