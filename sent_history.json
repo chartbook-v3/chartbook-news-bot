@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795059272,
+  "updated_at": 1795059421,
   "id_hashes": [
-    "7b35586a1ea72c78434c4ff4ed5b231e0732df8c369e958b5b0f9bbffc4f4d09",
-    "0673cb518996bc4044fb401494668db6080d6bb3aaaadbdb7ddb42fd0c8ae07a",
-    "c525c241b16eeaea46499630a6d5237b8b073d4fc5ade57619cae2732b6c9490",
-    "372fbd34ea0c232a6e0d4e51c2106464111ad8db3da35e1ea1052dd26dbc913b",
     "a6e24edd4d538835119e5d3fcd96cf5351f16d367387d23c50ff8671d1d996d6",
     "e9af9e227eea2d04de22dcfebdfeae5bb4de7a8eb79af39a895eb798d6ebfa1f",
     "f572f3a04041d5c7c8c16af90475aed3b462836b1ea3684ab8f4faccc4dcb071",
@@ -4000,12 +3996,13 @@
     "ed63550315a714efa1de7dfd9eff5789a7aaaf55f95942b77443d3ab1a718fc2",
     "eb9b126e38f0a60944a7e00780077345e959a833496b12e4552feb6d4811b837",
     "32b9926e3a347cbbf32704ae93cf794ff3602bf6427ee57ace019e845aec49bc",
-    "9043a157c063e0bf554541114fd17cbfca38a2662bc20b57931770ba5d6377a7"
+    "9043a157c063e0bf554541114fd17cbfca38a2662bc20b57931770ba5d6377a7",
+    "92a18595936528e786d3308ff71f8d04be94e3d123ecf1471505589bc4160d45",
+    "5a8fe924949ca3588d87ac0e54f065d742df3215be172cbbbdf8eee09a445b43",
+    "8a6c160deb79a8bc5608e142095c8be92ffbb59cee669a43c52b42c1ac96a964",
+    "a5fc5f21fc69db4f4930a210d6dbfc88204d1046616dfee4ee310a29703d18bc"
   ],
   "title_hashes": [
-    "6d2fd8704216b86859306b26c31a8ebfa20b8a49f999bef8407fb99e5439b12e",
-    "4c37a4153d0d66bc320f29975af51e20d4282532e03f5d6017d035f7210b7fde",
-    "a94da07b27ec78407656f81882c022c23bac7564aab1a7506ab7416da2b77a72",
     "a75d3a3d3ad48460c74b563857e4994869e6602aa413ced2de065bc8eb82f7f8",
     "86a41f0054e92e9841abf35035af813f1d5b420403a47684c5edf595f364da24",
     "df4de7164be84ff0fde666e98bb953373f3113c3fbc3f35312fd4628b4182381",
@@ -8002,16 +7999,12 @@
     "754ba755b7ea00a4ebf0efeab0ce111260e76bd584af46fc064b6ead4a505a18",
     "cd8491ecc0c12e58aec3aef80e88bca5dfe4675ffe7b8b4062ead8d4388d176e",
     "938c2fd33e257485d2df7804bdecb01fed146db179667eedb2f6805637395994",
-    "8c9474cfd8d858d1eee30d2f23a0a6deec52d95fc528f4eca1c21dc96e42e114"
+    "8c9474cfd8d858d1eee30d2f23a0a6deec52d95fc528f4eca1c21dc96e42e114",
+    "5c77c67fd264f5f19ede74c1d35837ef10a7d7e5f51f71c90e4ea5980136509c",
+    "2fdbb44a3bad747801edf01a03a4e056238e065dd9d1e1d33bf2b256356bc53c",
+    "a605cdc4440c473273258917222ab560c4413ce494737c3a4aaa128930e64ef7"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "Iran: Have exercised ‘maximum restraint’ in defensive strikes",
-      "title_ko": "이란: 방어 공격에 '최대한 자제'를 행사했다",
-      "url": "https://www.financialjuice.com/News/9858580/Iran-Have-exercised-maximum-restraint-in-defensive-strikes.aspx?xy=rss",
-      "ts": 1795038548
-    },
     {
       "source": "StreetInsider",
       "title_en": "Modexus Solutions sets revenue CAGR target of 40–55% through fiscal 2029",
@@ -11504,6 +11497,13 @@
       "title_ko": "연준 매파적 기조 시사 여파, 캐나다 달러화 약세 전환",
       "url": "https://t.me/firstsquaw/194096",
       "ts": 1795059112
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Standard Chartered Sets Out Plans to Broaden the Availability of Its Tokenised Deposit Solution.",
+      "title_ko": "스탠다드차타드, 토큰화 예금 솔루션 제공 범위 확대 계획 발표",
+      "url": "https://t.me/firstsquaw/194098",
+      "ts": 1795059355
     }
   ]
 }
