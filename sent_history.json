@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795129878,
+  "updated_at": 1795130028,
   "id_hashes": [
-    "bc50854e26e7c70d3ff69bf699de578f1d34bc15011ee8686a1cd432e85cc6cb",
-    "f2de7ca392d1ba517c4cde0912f8e184f545a3dac1f0562b7aeca134a3e81a3d",
-    "ac5f6ad2159217694bb4a26c4290c76eaf318c4bb89ab12ddee66ad6f60e85ba",
-    "6489ed5be8c3b0e1e2b2dad5b11787eb4cf86aa367a98281367c350c4bddca9c",
-    "0d047dabb7d97ba68caaf8e48b198d7a6483ff0bc856a31bc5edef27ec1aa1fc",
     "c0752ab1d968f74ae7dfd5db5fb0d569ea6411daf71fa2c997cc09e9f4cf08d1",
     "74f1463989f910776508eaa971819c44368badf22d621fe420929abcaf23c9a3",
     "457186c8f7f8c01ed224cde02ea769a63a8ecd8bb51071456be65bd280ea99dc",
@@ -4000,12 +3995,14 @@
     "049adcea3118d8ee484fa5ee90003034c215b0a75fb4d387f9198d61ea72c2c3",
     "40bf31ab3111eb54b2558e1172aeaedb92d013378fdcfccded70c94d6cf9a08e",
     "eea249c76843d959ee61978aee1a0523078c00abe4bd8b38d73a0a97576cc9d5",
-    "de9afba1cf63078e8734b9b9e99aa5c48c174ffd193e8e878da18c2b50318e2e"
+    "de9afba1cf63078e8734b9b9e99aa5c48c174ffd193e8e878da18c2b50318e2e",
+    "c607f233d4ca19f46288305e30a368d978d48d9b43c1678e379715c090f458ad",
+    "c7563317c854ab8a63efe27fe06261965b380508dfc77987917267cdfee6a18c",
+    "d0be23262a364c0c62d0e3063564bebc9d0851ee8fe569404add9b33362bf06d",
+    "2c9ae80d5010b0ca88cdffd3b609f70be861d6988da892d1b78d75e92156c1b8",
+    "d068cd8100114b88dbb1f0cfb26aae8fa4c72f33ee585262ac1ce5fa84698dad"
   ],
   "title_hashes": [
-    "04fd465858a8ff0a269e421fe9fcc3c2eec4f2442fc29b2b32706a3e1ed6f7be",
-    "fbb82785d0808e667bb8e5a295babb9ab6f7c395da0432a301649a158c5e0e20",
-    "93d9b74ed59f4b2aab86032907d9b05c803faa109200b5139459fe3d75bb0b02",
     "2981ac7638b8efb0aec1d8d7e029a4a52b1f1bc777b81d037342ce147fa2f401",
     "2e6df8da4f60b6f4e5b8d74e552cfc5bc94ba49e90f4be5f9f3911b43caae490",
     "d849dd4bbdb5d495e241af80bcf6fe1bafd63eeef2a994553c45486f9176b98f",
@@ -8002,23 +7999,12 @@
     "ee6231eec7a82ce838c280d2f7601e43008ab037fdd68b7da081ee934d731aaf",
     "b866a0e85d5b616bec61bced875ab579affff39bc3c52032f0bb52b6df8a31f6",
     "1eb8fda72cbef797e948d2818b305a027ea7c7df81eb10c8d1113003617140d0",
-    "22428ceba77706aef4618e681175f29dec249b757506125cdb0216848c58a9ac"
+    "22428ceba77706aef4618e681175f29dec249b757506125cdb0216848c58a9ac",
+    "6d7a71609570c8505ac3a03dcb607b412a3799bc57b99bdd89d2e49206ed9f2a",
+    "052b4db32ced4dc688a0f20bd682b2b95e8cbc94f0a92bf0f675c92d429e12f2",
+    "2ba2869600bb96d081605e8ebbc7f40ac6fff6e9b80d02e63b62faf0d62a37d0"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Palo Alto’s AI Acquisition Sparks Cybersecurity Rally. These ETFs Are Joining the Party",
-      "title_ko": "Palo Alto의 AI 인수로 사이버 보안 랠리가 촉발되었습니다. 이 ETF들이 파티에 합류하고 있어",
-      "url": "https://www.benzinga.com/etfs/sector-etfs/26/11/63431853/palo-altos-ai-acquisition-sparks-cybersecurity-rally-these-etfs-are-joining-the-party",
-      "ts": 1795101622
-    },
-    {
-      "source": "Wccftech",
-      "title_en": "NVIDIA’s Modified CMP 170HX Mining Card Hits 85.9 TFLOPS In A ProjectPhysX FP16 Test, Ahead Of A Retail A100’s 72.5 TFLOPS",
-      "title_ko": "엔비디아 채굴용 CMP 170HX, FP16 테스트서 85.9 TFLOPS 기록…A100 성능 상회",
-      "url": "https://wccftech.com/nvidia-modified-cmp-170hx-mining-card-hits-85-9-tflops-in-a-projectphysx-fp16-test-ahead-of-a-retail-a100s-72-5-tflops/",
-      "ts": 1795101651
-    },
     {
       "source": "FirstSquawk",
       "title_en": "MEXICAN PESO WEAKENS PAST 19/USD FOR FIRST TIME SINCE JUNE 2025",
@@ -11504,6 +11490,20 @@
       "title_ko": "호주 S&P/ASX 200 지수는 조기 거래에서 0.8% 하락한 8,660.60포인트를 기록",
       "url": "https://t.me/firstsquaw/194375",
       "ts": 1795129817
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Analysis-Anthropic listing extends Nasdaq's dominant run against arch-rival NYSE",
+      "title_ko": "분석-인류주의 상장으로 최대 라이벌인 NYSE에 대한 나스닥의 지배적 경쟁이 확대되었습니다",
+      "url": "https://www.streetinsider.com/Reuters/Analysis-Anthropic+listing+extends+Nasdaqs+dominant+run+against+arch-rival+NYSE/27377682.html",
+      "ts": 1795129902
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Alibaba defrauded shareholders by concealing ties to suspected spy in Nvidia scandal, lawsuit says",
+      "title_ko": "알리바바가 엔비디아 스캔들에서 스파이 용의자와의 관계를 숨겨 주주들을 속였다는 소송이 제기됐다",
+      "url": "https://www.streetinsider.com/Reuters/Alibaba+defrauded+shareholders+by+concealing+ties+to+suspected+spy+in+Nvidia+scandal%2C+lawsuit+says/27377683.html",
+      "ts": 1795130027
     }
   ]
 }
