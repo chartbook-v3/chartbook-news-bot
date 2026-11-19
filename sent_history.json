@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795125350,
+  "updated_at": 1795125508,
   "id_hashes": [
-    "ac639b19689f7fd5d398da8ebb5daa43bea19eda771545a6c26cc052645215a6",
-    "020e1c07922aa57db2e5f5c24b91309443537e96711bfd415416b4b5297b5475",
-    "bc6b0f13d8ea550b4ed7c81a977e674a09844ff01029073d1ffa1a8166a0ed32",
-    "fe3afc11d5072aef1e8b27790abcccf2d7e03b4a2edfa4f1566c600e9888e29f",
-    "9346702076101e626323f12aadbacb1b9299212bd48999f939ceba137540f660",
-    "dee8cc6f4f537aa3b67b513da16ab1722497e4b59312e2849208893671cd3a1a",
-    "d94b06d82821577f262619085f7df66e85b761709f698babd2706ab67d17ca27",
     "2ddd5b30954e8ca98f454c09f42ee1ad064f43bfb9b5cc6ab8cd4656213c9152",
     "574e99549545056bb16940312763eb34837dbe090b409b213fefb04bb081e278",
     "28e2168ae9cb8ec06fa941018348e52850acb991cc68ea8d261ff97d64b981f3",
@@ -4000,15 +3993,16 @@
     "0dea928f0d46fbca5e9ef0ec7a94c9b20990e27ecc5ffe2cb111b79847857a30",
     "41f51a16ae52b67b90da1cef6299861e32c248d6c156616f014d2f4bc56eb9dd",
     "e4019b25422c8a95c4bf11dffd37feb8bbb53d57202f6c95859c060a168e0be9",
-    "ac1380176862cda29f5043e57608c1806b98d27571b0e9d7d72d8bb64905b05f"
+    "ac1380176862cda29f5043e57608c1806b98d27571b0e9d7d72d8bb64905b05f",
+    "81a4ff31e31209e6e9e304f0332178cab135abc7520f6c08eb77e53f63856dca",
+    "2ff7e1324da53ca368d62853e2373c95c2862bfbb598150c52659846313a42c9",
+    "9cc02deee46303e8531e576f09b262dd5f3679e544c65de1b24614f24e574c67",
+    "8add7d716c798030638ccce632cc18ee1c0857b9f1f1ae8ae154f2595df78574",
+    "c6acebfeddb35b79cb497a922f0214dbf73d0ade4a12b634054f5f669223a459",
+    "a1df6af6751082a03e526cc3c11bc1fd9e37c875fae7fe6ab2a938124d8aac00",
+    "c76272d3ff8ef147070cfe07a4452cc69a1140cf5c5d4411b8fa31da18576c1a"
   ],
   "title_hashes": [
-    "aaecd035cf446783946db935fdeb005e8f6c0eef86f6ce2859d856f77a0cdeeb",
-    "6b8c47a9d1e7e7cb89b22e64d49170c4cc2c307f730c4a0557de78f4caf625f5",
-    "329ded1ec06f56513e1cfbce108a3632c0dd2d459c098dfc80339b1a78217a2a",
-    "850ed956cc598c8de6dfa1ab5b0a9181ff605cbedbb688bc493fc40594458c53",
-    "edff9f8067b8f671df1549944828446af547f13b09c6cfd1d9d32275d1be18fa",
-    "55605f901be8063ca2ef00fae018eeb4c9fad056093df952ef6eda0a5b8faa50",
     "27973ae946af7f9f263388ea390a46f70f2f0c425a8ea0d78d9d5c51a5ac7da9",
     "dec3343e7be84ef11b6f2a74e31f465bf29294717e5b9b8feba99b603d49dd81",
     "7ad14680b9b403ba066a3ba4f931e57a7561d521848101267fed519c190ed7ba",
@@ -8002,16 +7996,15 @@
     "0bf8fbe58bb97c31947d8eee3b2f27ff88215f7ed76447bcc4cf9c42827f3023",
     "3ae40fbcd21a5ea746a4e4226f5f61ca8d5bdb4b99869889dbe2c97d6eaff632",
     "0f1e7c7492bcf2ea704f55da8c6c0f39cb265db8ef71a4306c1e4f96c1fceb04",
-    "0014c4e164e107185c3de05054ea9881639f89850f4c838f947b350fc234a9bd"
+    "0014c4e164e107185c3de05054ea9881639f89850f4c838f947b350fc234a9bd",
+    "11c74e7369080ce9861badb8fba728e5b3ce5132e1a392ca55f61a67213c9f56",
+    "c314e51caa536a56ad0fe0ee6883768b3380edd8b788166566c1bc2aeea925b7",
+    "093759697a0dbd31eda3f48cd27bda413cc28de48104fbf3c76e430eaecad66a",
+    "6d55534740e3bc4ade5490ea714d04eeeff6718b9133be57d019dbebedd39d1d",
+    "79ae27f376efac29c3738896714b7085d30c6c7bc04552e6f9bdb017a1a56be2",
+    "bebd325107d54b0ba640701d2ed930277cfb2a4c497fc5b0a20ada113418d11c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "Fed's Jefferson: Artificial intelligence buildout is putting upward pressure on inflation.",
-      "title_ko": "연방준비은행의 제퍼슨: 인공지능 구축이 인플레이션 상승 압력을 가하고 있어",
-      "url": "https://www.financialjuice.com/News/9860036/Feds-Jefferson-Artificial-intelligence-buildout-is-putting-upward-pressure-on-inflation.aspx?xy=rss",
-      "ts": 1795098357
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Fed's Jefferson: AI buildout is a shock that affects both demand and supply; current pressure is on demand with possible productivity advancements 'in the future’.",
@@ -11504,6 +11497,13 @@
       "title_ko": "트럼프: 푸틴은 투쟁하겠다고 약속했지만 푸틴은 우크라이나의 평화를 원한다 - WP",
       "url": "https://t.me/marketfeed/1082096",
       "ts": 1795125349
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Blue Owl Seeks $513M in Debt To Finance Amazon Data Center - Blue Owl Capital (NYSE:OWL)",
+      "title_ko": "블루아울캐피털, 아마존 데이터센터 건설 위해 5억 1,300만 달러 규모 자금 조달 추진",
+      "url": "https://www.benzinga.com/markets/private-markets/26/11/63461413/blue-owl-taps-wall-street-for-513m-to-finance-amazon-data-center",
+      "ts": 1795125507
     }
   ]
 }
