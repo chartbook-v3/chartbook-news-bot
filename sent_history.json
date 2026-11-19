@@ -1,28 +1,6 @@
 {
-  "updated_at": 1795049062,
+  "updated_at": 1795049218,
   "id_hashes": [
-    "c3ed4333f877d51b23007eb35dc092bf5b0b2c3dcf766a997d1405ffd432486c",
-    "be8f833cb9ee89e97889175604f6b3647dc1b199c5bce014c36a3fcc974b44a9",
-    "8f97bfe45c4a72826cd328c2407ff26194f3be48df81b850607c80b84b5c0983",
-    "244982abf2ac2dbbe741128816423ad1aa6f700bcdc5a3aa1ac5fee81d4a3ef9",
-    "ed2c864065e8934f44b08d166d4bedac94f5d15306a60bf6c95995d2a161b6f9",
-    "a6338918e4c1838410aad5d18bb6af5618b88165d070cade1eabc20272cf1ffb",
-    "56c44a4b38ab4cec92c579f7aeabcab423de0e55f293efc712de0d7bbff981a0",
-    "423c386efc43123aee9068f2a3eaf4a0fb55aca9bbbfa7bca681d2b910f36632",
-    "91ddee36b7dc875c4e24d879fa629b18171f548e5d0b357a5d0b07b35f8ebd77",
-    "ebdbb3431d8b2998d9cd0178e2aae7d8d943af65446799f77e5d66761b18a246",
-    "a547855515dce1a8ddf8f8600a136ebca1876508674ae8b7b38a0751e9a52f16",
-    "07b20cbc5fab8867875d7b133ab69f86381a320ed8242f9d5e5e2b38a33d9954",
-    "a581471da0dc1d1d0f55efb305ece445862317dbbf5c5b049a150e0ec9c5ded7",
-    "2019498ea1ba19905a575123ee38842ea6a3db87b354857c2e0fbff7122b88af",
-    "515f97ddc1e6cd79bcafd4a11bb0ea49d4866de0def7a66caec37ce5553888e9",
-    "aa8caf5144c64a43887dbb75afdadd7f21945f40ffa05ad6eb4dc62ff66942b5",
-    "b1c91e1d927f0336bf66f36f0a13afb1e6545573f4e3a3da8631cf1ca0352bb3",
-    "a710085d2a224222fb0e0859cfea4eeb6337564d34b8d85b8738ea6430c77605",
-    "e237d3ec6681c262afc93680df9f156ccef0f3a8825e5f42216d4f19cdb513be",
-    "d7f7a24ed64dfd5df4919e682579f304d149d76e4ea526e82e653be8424a4977",
-    "1a9bb1ad98cba51d38b2943fe2919ec90d3e8d7cdd184ac26c7e634ff6bbd755",
-    "52cb7fbf6563913ee60497157cce1c389d227dd5696249400dc0cf09fb45adc5",
     "88a6d01fef49dabf21d03e6fa19c48a7f9e5812f78b05f42e822a30557ab1e54",
     "913cdda344aeeaf1088761d3fba3c2364679d6740857167458138d70107fac29",
     "20282c840e2b5c3e29dbda574cea4020a98031e7422b004887266f2567e738da",
@@ -4000,25 +3978,31 @@
     "f91448c83986be7ab1f92bf7d273fa42b5b30ba68895081936db8762cb2d5850",
     "7713424a018f031dd81f38ca8c207f68234f5f128890dccaa5b93a32ddbff943",
     "08aef1888d75d832144147d769020763d3dc25e67d533e424510b112882cbd1a",
-    "b864ba69c8e8a9e1ad9bf5999dda647d53279ee28e6b3a15b5e7400ad869ac7c"
+    "b864ba69c8e8a9e1ad9bf5999dda647d53279ee28e6b3a15b5e7400ad869ac7c",
+    "617f28140bb6a7e0067cd959d63e97082575bce574f368fb4edbe1259457c1b0",
+    "546a1c7586f00126b997d4b95afc1b30079e4f00ce4248babf8ecec666111902",
+    "67807f78c9c6045670526a8f74b7785060113682a8f5d922cd972628359df72a",
+    "d9e62788f634653b2ddda4fbab40c0ad65cfa89bd63bea1f5494ec5bce73a3d9",
+    "973686309f6243de90d7e8f8b26f5b0a104c278738335e340a8e32ef76333932",
+    "50fd6801983a8772eca4a64f8522df57cbc6db7816c1d2818981fc547032e30d",
+    "33d124a552ea2f5e5a6626969876f01f7d525de7a4b4b901fe8d4b62ff809858",
+    "b714d11033d9f06df6bd27916448ea53683a27d9cba9036cc747e15268de251c",
+    "4e5c23b6d7d9f7fffe11d1fc04a78dd6068dc45c39c90c5b404c2f363b2fe067",
+    "f6fc44431d9557f921f971135787c915e9ef377aa703801fce20ed4f508dfaeb",
+    "20bc17fc03918709c43f4ff53dd1aef84164f58fd03158689079bc7c023c60fd",
+    "8a1792511080574582bc74450e5581d4df86b9f63152254ad7dd24e7f8e47dd3",
+    "2ef9b1571929a2a2cd027ef3f17812a98a3b215a73b502704f67629b7e2d79cc",
+    "dc48f5facb82ac47ceb0757495196bda60dac42581d60158b8f01f22483ceadb",
+    "51b7bdeaf18944446f83237fb1034b5d72dee3c757c5381f439be01921da78d4",
+    "bfeee1fc71ec26e5c78558f156cb96454c60ffc8ad1b5f3d53f84108914c92a0",
+    "2c038e7d31fda38f656afa2c090e6c299bf82f4f84aa52e273cb2deb23c0124c",
+    "58ba9c321cd5f0c705ab7ee2544befa5b6875189966f4479905be35f6ec759b6",
+    "8d0597251bbd29651298a75ccefebd482a74c55863b7eecac11789b031ad2c29",
+    "e079e1f91e5a8137f9a2c152690279e6abf4356100b3985fa216aaec9272411f",
+    "7f29035c0157b23452be9162a679f1297f07666a7c8b596bb768dc189a414697",
+    "8be6a2b0b45b4ce9d068f7d84b7ba812d6749146ba485f81e2abd1f552fa41f7"
   ],
   "title_hashes": [
-    "4622620481a0293721df84268932da80ecbd93bfd540cbf51d0e0b426fa4c259",
-    "d8103ae679f3a5f3865aff0645c6e1930b591a6a4677b065b006849c26822a1c",
-    "6bfbd0a1f73ec794bd2407395d765a250fe2ee17ac95273c6aec51f413161c43",
-    "b22b880bc9ad8b7f8e04aa22c8537ef5ef208dacc221994dade159b0e37b7aa6",
-    "58e5d5c7c67c4ad486bba8cfe7bb131503534ee84e350857c85471c12f0c1a19",
-    "6e3717c2e34d4ab425739b8beed27825d40a8f19165f9a190c575e96b7f0db4a",
-    "52078afc4a7f6e6e903a73c6d29831ca03fb8ffea4cc4fd2211d43b3291ae765",
-    "001c79a1b486622cf8409aefb87fc29fd0e50c6c66be378384becb654e3d5711",
-    "765eb8531ce9157a66789055618dc51f8632952b0a8ebceb4826d6bfd7c7f888",
-    "00adba4d06b8a8549f8294e5872d3d6eeacc74c057b864ddcae84bb35217ce81",
-    "967c7d5a4dc706783fbfd8c032ee1fb94a198e5f714f989eaf26b3057f33ed6a",
-    "b3c5cc6652e703c74bcf68080ef08582bb1065e3e5a533160b36d89c2a5391cf",
-    "c35e5cba177179491f00fedb2ccc130143b3a39713560e2bd8844b7cd9ad3e92",
-    "973f519207864713828cdf4868a64e0ba111498658c1ebc2471b013915fac6c8",
-    "198d5499016f3c37731fa84d682a78f56e0cac06c1a4b39a02a65573185d856a",
-    "30d39e7f988cb40c699173a17307dd2866bd8ae8929b5a85733723775003f23a",
     "d3d3924cc107088837f87f4b04a7c3473c8a0a1cf0a680e21aa3c5c842399a6b",
     "260a9cc334d72831b9de8bdde3e4d071441a8c56492fd84146aced6637f65d77",
     "10eb6370152dd12062181c2a2b43ff720054a189b620f4316a35a2f75e100468",
@@ -8002,44 +7986,25 @@
     "73fb09a52e8a32029c97f5650c4dee7ad882b8c23ba504276046f8d28580b589",
     "407c4bb55674ff1acf10854cdb2ec74155bfee7eeecf7ba16fad31ca0e04e693",
     "68c282fd3dcaa726829322b8588bc76fe386ca8d9002c5f28e742d37161a297c",
-    "ba35fa70f5ea43439da7fc63746beb5d435ae49a8a5533c25f3984f26752251e"
+    "ba35fa70f5ea43439da7fc63746beb5d435ae49a8a5533c25f3984f26752251e",
+    "e7a2c65f23d5911f2a6cb8131c1365ba7cb75d9a1806522869b5f3faa7b66e58",
+    "90693d693e3c103fe7f41e9c92a8f8ddbeb25efd62104b9786d569a1ad339248",
+    "be40d19fc6484f1a6a53bf66be73a8cca2274c35708b893f38a8d7a343cafda9",
+    "c8e0a703ef21b54d069b3ea6a81f6bf4ba05c3cb7b6bebf005fa6318d1bda127",
+    "9b605021ce142e036c26f0bb83affb9ca236af92ba22163c3f1fb178a1221fb8",
+    "46f6f162aa2ed7390c08ab18787266c1621635a8ecffbef45b0df5b9fde83c2c",
+    "4e8ceae116c355a6e02ea30008fe0e32ef74d8f45acfd9fcd97ef4ba174db0e7",
+    "5f707647380cfb73133bc3b27b71d083799324eb19cb07e9dc2a5a53faa707fc",
+    "a2ef358565f1137660334b5e79b0d4a75dc47186f7e9fc43d06e027bf3a4b37b",
+    "6819c6f9e65300f23ab0c0cc64cf0a5eab6bb91fbc2a836f8dd2e140dabedf80",
+    "066fb322472793d73a596189916630b159101f9c491c3ef2f6057f7cfcf63a34",
+    "785432474d9b81de94f9313a5bec1238cf016fb32e4339942e27711879e6afec",
+    "7be634b644b1c0f840ecdcf2e5755465c5e135ad02d0b9c64ba55c61e6c408ad",
+    "d8d1c460ebf4a4d2dd9686e6aeffb2a286ce32cbed84dc93e18ab3c5a1b1e342",
+    "9e02072a22735c463299b2585ae5b82493025b776f097aeabea20dd660b1c357",
+    "5e7816b976f77afbd491643a68a700aa0c9a9793479e73eeeadd3274ec28b66a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "US CRUDE FUTURES CLc1 FALL BY MORE THAN $2 A BARREL TO LOWEST SINCE AUGUST 28, ON SUPPLY SURPLUS OUTLOOK",
-      "title_ko": "미국 원유 선물 CLc1은 공급 과잉 전망에 따라 배럴당 2달러 이상 하락해 8월 28일 이후 최저치로 떨어졌습니다",
-      "url": "https://t.me/WalterBloomberg/38644",
-      "ts": 1795023287
-    },
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Trump grows frustrated with Vance over Iran war critique - NYT.",
-      "title_ko": "트럼프는 이란 전쟁 비판에 대해 밴스에게 좌절감을 느낀다 - NYT",
-      "url": "https://t.me/breakingmarketnews/178767",
-      "ts": 1795023289
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "TRUMP GROWS FRUSTRATED WITH JD VANCE AS MARCO RUBIO GAINS FAVOR AHEAD OF 2028",
-      "title_ko": "트럼프는 2028년을 앞두고 마르코 루비오(MARCO RUBIO)가 지지를 얻자 JD VANCE에 좌절감을 느낍니다",
-      "url": "https://t.me/WalterBloomberg/38647",
-      "ts": 1795023294
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "GTA VI FEVER HITS THE US WORKFORCE",
-      "title_ko": "GTA VI 열풍이 미국 인력을 강타",
-      "url": "https://t.me/WalterBloomberg/38648",
-      "ts": 1795023297
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "GOLD, SILVER AND COPPER PLUNGE AS METALS SELLOFF ACCELERATES",
-      "title_ko": "금속 매도가 가속화되면서 금, 은, 구리 급락",
-      "url": "https://t.me/WalterBloomberg/38649",
-      "ts": 1795023300
-    },
     {
       "source": "BreakingMarketNews",
       "title_en": "Fed's Daly Speaks at the 2026 Women in Banking Symposium Keynote Conversation - WATCH LIVE",
@@ -11504,6 +11469,41 @@
       "title_ko": "\"코스피 1만2000 간다더니\"…골드만삭스, 목표치 또 낮춰 \"7500 전망\"",
       "url": "https://www.fnnews.com/news/202611190922582374",
       "ts": 1795049061
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Trump Says Nvidia Situation May Have Come Up Only In Passing -FOX NEWS INTERVIEW",
+      "title_ko": "트럼프 \"엔비디아 관련 논의, 스쳐 지나가는 수준이었을 것\" - 폭스뉴스 인터뷰",
+      "url": "https://t.me/firstsquaw/194000",
+      "ts": 1795049081
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "김정은, 함경남도 지역 시찰… 트럼프는 북미정상회담 ‘러브콜’",
+      "title_ko": "김정은, 함경남도 지역 시찰… 트럼프는 북미정상회담 ‘러브콜’",
+      "url": "https://biz.chosun.com/policy/policy_sub/2026/11/19/FYRRTKMPWJAN5IOSB6D3KC75QU/",
+      "ts": 1795049146
+    },
+    {
+      "source": "뉴스드림",
+      "title_en": "KAI. 한국기계연구원과 미래 항공우주 핵심기술 확보 업무협약",
+      "title_ko": "KAI. 한국기계연구원과 미래 항공우주 핵심기술 확보 업무협약",
+      "url": "https://www.newsdream.kr/news/articleView.html?idxno=122534",
+      "ts": 1795049211
+    },
+    {
+      "source": "TechCrunch",
+      "title_en": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "title_ko": "사티아 나델라 MS CEO, 직원 6만 명에 퇴사 권고한 배경 밝혀",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "ts": 1795049214
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Japan's Topix Recovers From Earlier Declines To Trade Unchanged",
+      "title_ko": "일본 토픽스 지수, 장중 낙폭 만회하며 보합권 회복",
+      "url": "https://t.me/firstsquaw/194002",
+      "ts": 1795049216
     }
   ]
 }
