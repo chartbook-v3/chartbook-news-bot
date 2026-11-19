@@ -1,15 +1,6 @@
 {
-  "updated_at": 1795060213,
+  "updated_at": 1795060362,
   "id_hashes": [
-    "c4ebb49b734c3e2e3f2c53cac53dfccd3093fa47c01391424726ecd1189e2f8b",
-    "42f3b952ce244e1d45f1621a032c3bc4da3e8d21f7292cb8651333e5674c20af",
-    "dff53a2096b3c2ef58ac32515a6492eed700a41d25782731f8f49b3046629e48",
-    "78be22c3a858780fbb754182442fd570faa7b805ade77815d41a5c6e2e33796a",
-    "b77022d6d1523f83a1ee1ecef66bdc8993097de507a4dfcee71ce0bf70a8b092",
-    "9c7967bf0f8416c81513163432bf2784e3dc12143750856f90c2da66384b971c",
-    "a37f55c98dda263f827232482c480e4280ce4015ecc9e6b2f281077833ebb120",
-    "c5148b071452ba97c773144daf3de1de322f74b8af40d990ecf3ad1ddb240293",
-    "7e13f9b05f9d1650db642f89c8ff4d679f9700268c5c145d6146142a83158530",
     "eb91536ef3b44b61cd33ce4bf47f9c43fa573bd1e8a89cdc0a72b60b7af3461b",
     "132a97698c36681aed2476e6b5714a05752f29960002ff5c7d10f33821b82bb0",
     "0428f38ab4b7d98f772a0e41cc11692e673cc2d1ec7519f30b33716bc4242f7a",
@@ -4000,16 +3991,18 @@
     "4ed1f42dbb83b891cbec6bf3518a1aa7ce78b29f3aecf294c224072a6bd87b25",
     "c27c8f091a9f32250a0cf0e351ba14663206c8b232a7a767cd99c4a726c1f971",
     "212ff022577016223f90e38e01886caf7090b6169830bbd70a47de4bcb251987",
-    "7dcd809063140992b2d78f5e3ff13a56aca300d120f0f7e4066fb3b49d349250"
+    "7dcd809063140992b2d78f5e3ff13a56aca300d120f0f7e4066fb3b49d349250",
+    "1a7a32c0c16b2f342c3ba14356698e5c68ef0cd7269351ee569fccfc3dcdacc7",
+    "047809cdc9aaa367625da857a91bec8190694a72b9f935f913aaa5c928eab4a6",
+    "ef0a96149b854a05fd92a2c9b0357b60b3ace0df7d54fbb604a18958f265b138",
+    "ff61be1fe44dc2b814a0802b25abe96e648e12ef35f49d9152b674e837a1d21c",
+    "65f0e145a282ad3fbdff3b96f6684a27e3426db8edbda294a980e19b5725cc18",
+    "f164af98202a6212fb7f95694c5485ea4e6a6ada521a651f4a66a873fa72c11d",
+    "8b1875f31238dd9dff1c763173002b20c4d14dc06fca5466f59166833848e6da",
+    "74524060bdb9e0af3cb5f19191301e711672022b7a7b7f106f14dc535d5c8891",
+    "52fdac560135fdcc0f6f4ea97a53e8cbf9437685aeeace7f39705aa367cedbb7"
   ],
   "title_hashes": [
-    "8fdba77d0ee3c2367e6fffc22fb936cc50be8e638e05ebc772792427ddb118ad",
-    "d0f1ccf95f1b22c41ad3efd6504251ea72cd42c1230685a405fa56a904994afe",
-    "0b7d661576af5518917261c0762b888af18a80e0a5395c6d2b70d52f68181e34",
-    "31dbac7aa0dc5f57dd91ef18e83c1fee9bcb7eea0ce22f4751c625620114efa3",
-    "a3a7cf55ae8683c5a709976d1ec59ea2afb8d43804b89bcabd9fd72ed4d2b273",
-    "9e007b8665da14b4f38f12d20eff5d71fcb20ae3db4f04227768067e9fcd44c7",
-    "c5630c1612cd8bb859802fa372e69d69d0f6638e73cf6f1802c7ae797547dfbd",
     "1d64c5c6409abbf9f866637e4234843bfb4e106af057a0b97a6871ac00ffa47c",
     "e648ad74d2c6bf36c806e1c7c5615e5bbfe1705a7f82af0817bcfc79cffbb9a2",
     "b8d4d586d496f44763a1d656925296f69e17918b7c5c25ebb8feda2cbf433a33",
@@ -8002,23 +7995,16 @@
     "602a27ed11f916d4dfe39e6a96440284f641c67c78e01445fc4fe0dc5799b97c",
     "94a6489e26c884b478e6c9bacc357c7a74672ffa4a26b1b732b80d662155ee5b",
     "71cf570bc4c8af5ba4456b4690dda9a1bcd2ab2cfaaf1f86502d540cf31b7efd",
-    "69f2ba90a786802c123c4a94f77f2f02885a1e350d7c8a2a14d5a22b7ca027dd"
+    "69f2ba90a786802c123c4a94f77f2f02885a1e350d7c8a2a14d5a22b7ca027dd",
+    "9e0420dca48fc8f332139ff51341821310cf6e08a9561c1b74a9860c5f4754ac",
+    "c2b4ef11e8f50ff2c102bced3bf7fb7c42ce5fcd4ad3452625d5cd98d766c4cd",
+    "435ef33e65a8572f227ef5dd0b61c990a2aa8d7bfb99de7e4e916911a88fc719",
+    "9b4b0f278bbb8001340b1005e97248e60908d9979457001d8f5af66d6c56b94c",
+    "0c8ca6988cf7dca7f3d8cb4282a5c2d9c4a7ff37b1905092c6c8a7699bafd5c6",
+    "82208109706f0deb68b6112d1309985ce98c7da2b3daa5e313dd35484a54a1ed",
+    "2f39d03c6e5baa5c574997cf4c0a8d53ee1597b81983bad815ef84c419974d1d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "US CYBERSECURITY STOCKS CLIMB AFTER PALO ALTO NETWORKS RESULTS; CROWDSTRIKE UP MORE THAN 5%, ZSCALER UP 2.7%, FORTINET UP 1.7%",
-      "title_ko": "PALO ALTO NETWORKS 결과 이후 미국 사이버 보안 주식이 상승했습니다. CROWDSTRIKE 5% 이상 증가, ZSCALER 2.7% 증가, FORTINET 1.7% 증가",
-      "url": "https://t.me/firstsquaw/193967",
-      "ts": 1795038578
-    },
-    {
-      "source": "서울경제",
-      "title_en": "美中 회담 전 시진핑 “개방” 강조...젠슨황 없는 엔비디아 역대 최대 실적 [글로벌 모닝 브리핑]",
-      "title_ko": "美中 회담 전 시진핑 “개방” 강조...젠슨황 없는 엔비디아 역대 최대 실적 [글로벌 모닝 브리핑]",
-      "url": "https://www.sedaily.com/article/20116166",
-      "ts": 1795038605
-    },
     {
       "source": "연합인포맥스",
       "title_en": "바 연준 이사 \"인플레 지나치게 높아…추가 금리 인상 적절\"",
@@ -11504,6 +11490,20 @@
       "title_ko": "그랜트 카돈, 엔비디아 젠슨 황 '수치스럽다' 비난 나흘 만에 \"직원들은 더 잘 알 것\" 발언",
       "url": "https://www.benzinga.com/news/26/11/63417311/grant-cardone-called-jensen-huang-shameful-4-days-later-he-told-nvidia-employees-you-know-better-than-the-board-after-a-600-billion-wipeout",
       "ts": 1795060211
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Trump Wants Apple’s Cook to Run Nvidia. Why That’s a Bad Idea.",
+      "title_ko": "트럼프 \"엔비디아 경영, 팀 쿡에 맡겨야\" 발언에 시장 우려 확산",
+      "url": "https://www.barrons.com/articles/nvidia-apple-jensen-huang-tim-cook-f258002a",
+      "ts": 1795060235
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Hong Kong Ends Prosecution of Chinese Ship Captain in Baltic Pipeline Damage Case",
+      "title_ko": "홍콩 당국, 발트해 가스관 파손 관련 중국 선박 선장 기소 중단",
+      "url": "https://t.me/firstsquaw/194101",
+      "ts": 1795060299
     }
   ]
 }
