@@ -1,23 +1,6 @@
 {
-  "updated_at": 1795091023,
+  "updated_at": 1795091174,
   "id_hashes": [
-    "4fd937eea915de5d3d0c9ee3dcc020260fe78a101cafb390e2103d99d7fa94ed",
-    "e19c429f57802f89e06e6a8205610976be68d1417a560a8d5b4307d03c65ea3f",
-    "6a33676ded8422aa0b157bb1c7cee7f7693d536af1aa4e2a72bf71f5ae1944f9",
-    "f9a0b3f2b1ef03cafdb4e7090b7ee782a8c3de3e38d2996b5bcbba53dd809d5f",
-    "da3afed7e7b6ddd060bda0e0da76830decd3fd1e89d335b241c6d5c701a339cb",
-    "4884d3a57cf43de9e3a92d954bdd702e210b4cc80b1ac9625868682b704ce72f",
-    "4449666a96889c72731037dd1ee137fce330f107539a12070b4a8f0ffd7bb3ea",
-    "1528a8779dd7abf79fbc3db9de03be701da072d6acfb0c042d8f8ea747f1edb8",
-    "f4ae8a53c65fe956fca7199404d6d9d486fde7287eb9b542f53edaaa79a9774f",
-    "4c10607bdec7be549bf2299afa9133d201af123960314e15c4a521c09609d498",
-    "b2086a85223c9319f0e938cfa0e290f6a3f5b34a70b125cb43075b58f5bd1a70",
-    "94552b2d73df2903e56f78a259cf4229026fc0321659fc93a1a5e70cefa2442e",
-    "ecdf3c5fb6b6fb2a5341e7c47391d14d6b8e7d0856bddeb2e7b07bede5f529b8",
-    "65542328d8caeb0b16eb2a195f336de1504987b21105356aae4f2f686a7f1774",
-    "041efcdeb6543c58d0f11aeb95bc91cf9a4e5691c28b67108832ddd4cf3254be",
-    "1496b838c640d2580f2bb20b67d6151de719282d5b8883569cc672233bad35ab",
-    "83624dcf4ac7aeceb166f1bee12a03551b91e85b1a795cd77b83ba9a6bc9d1d2",
     "de16aae6fdc140b0bc3bcb4c50c02db791788e12ffcb760982975e21eb01fd02",
     "4de1c954ac3c0c7a5c854a81832c8a019be352292b33bd91934103fa286f116e",
     "d1d241bd69e48846a3a70543844cbfe0a05bbd42bbddc73f026a80266531ba3b",
@@ -4000,26 +3983,26 @@
     "e4fc530b8a378da74a089fc086b54fb9fb572499ddaa0b19ce87b0f8d9af47a8",
     "a9aece33f33d24276666b09f0379d957131ed827e33a89de2aa70ed94e878626",
     "8e9903749615b06ffff33f121dd66eeb7e2ec03352cefea559250c0d4c26a228",
-    "364680dcd2971a8513f91f8ff8a380ae4d60ac4673412fb28ddba3d0d250556c"
+    "364680dcd2971a8513f91f8ff8a380ae4d60ac4673412fb28ddba3d0d250556c",
+    "43e04d7f38caaa82c6e4d67cf77a3f0ad22f1cf80200b139e7407921a1ce7eb8",
+    "0d96ddb4aa64e8e44d17abf944a2406a10ef903d9f49f41854f8282347b79baa",
+    "88cccb3638392d0f060a33a966efc8c8069e846d6be0b1fb03eacf1309110143",
+    "6464aae903381694289e69a1df4929be841b2b772360023ab85dfdead91a896a",
+    "fed8baab351caf4c72c8738471abaa47433ca27003a02ef4f2caa310ad7c79c2",
+    "bba9eb2b3149b3e17257d1aa737c0acd019f1e9d54c818c7d445d596f589ebb4",
+    "6bdfd289e16545de7da794460638746aa268fc0323873d3e581525fd0d8c0907",
+    "13b6d05a259ec5d864242ba6dd2226eca72a69dcb733612ca0ab1be68421132e",
+    "ed08414679455d3d7969bc6bb2b1d54443cc7af0ca0aa8cb781058deafe9e689",
+    "f0931ae3cf019381080a1888de9e95925731e14060ee734fb1fda148bb718514",
+    "b584474f95e53d68467f9c9424d86d732bfe6384a14f837aefbbfad2532d0063",
+    "b342eb2c6ff2f93ee44fec00b879a953d08d3373e913f805eaae7cb174eac93c",
+    "e982c5f0397e87a1568cc027ae5a1a496873eb72df3ec2928b1187bcbe369da7",
+    "f691982056647237855cf02ce9b3f1ac066f2e8e37040dca4b654983da0312fa",
+    "6fcc1d2f4fdbc749a1fa1e6aab90240fcb9948778415970c38c5a09e335b5f0e",
+    "73d687bec6293a42fb738a8ffb72afdb5a94efe0cd884afc945eca2afa992130",
+    "e5aa156883a9d83e501ff78e557a9b8c0f673729ff9ec28913835938f3312e1b"
   ],
   "title_hashes": [
-    "36b806f59daf4ba0bbc23c2a869c0103456ea28157b63a03869115d855e301ab",
-    "f835733a64064626fb200a7787ee0cb813dc056329a8b9ed76f5d02d2b7aea7a",
-    "fb593ebbc62518c3b42248a1952ae3cc8b37b97e3dd9373dcbc32f982c169c23",
-    "76c6882bf54f4543acdd8b9a7fd86a8302a059ffd63aecf5558e40a21d721816",
-    "b49916d0fa1fd89df4931ac45c25c2c86b4f7bf55fcfa1f321537341f5f475ad",
-    "5bc9d4c57d4d62a03a23901aacccad3a9f783ca849d61456ed81269085a9153f",
-    "6cc3bcc55630377708ce40494e25e1babb7829ff8fc26e91bb9c8c5660f967e0",
-    "608e96c6de9e1fc6d7f913bc0a9cec845ef7d4314d839719cf6385897ee457ef",
-    "2bd7d2dab2e7fa0e90ba3ee1dac52e12598a7e9c44339398af374f16c87b9800",
-    "1dbc6a6b689b2a7df462aea4e120c917bf90f550b82a6b7a6d11012bafb2484a",
-    "eecd2e70c760b51e107715b5289b60d8c9b79c100dd6051a27bba792c7ffd356",
-    "1439102f094f34291d6ec644db8f805eec4e36c6ec5695d8377130c916e2da4b",
-    "00fff42a302e34ce5b751a9bc29e0f3432f0988c79c7bece972cfad3cd809776",
-    "b0d486a62ea3c3fc8199a5fc44537541ea3b4e529cb49a72fa6b216df699c422",
-    "ded3bc835f440d89cf4c5979aceb05b8337c9fe0c0142987bc72270b2dadc99a",
-    "ebb872f831db4ca35b68fcf7990344f085076fe4894ff7ec82304be292c0376d",
-    "9f465a9e4ef977a5b7cd75b87252522be1739012e232cb5c6d6a9c379ed92948",
     "7ce2509da2d44ebbb0e99207640e32da2e248aee42a407d2e0ae5f7d8e479d66",
     "0851b8846c16c48e04b502369f7b60cf43946b375aa9b84564f77836bda6d74b",
     "684f3cb72485e4da1c646b07662173c1a9ea00ee427a278b92560b0821ad0cb1",
@@ -8002,30 +7985,26 @@
     "066ff127808edeae31c137ad54bd02025e042a1c51da63b2757b25e52f367235",
     "04ce3b2313be4635f1ccd7dd9531f94af0a5ad4a538547fe728c4fb23b1945c5",
     "35137c0f6befee3eff46305d30b26debf470d020b8d72d17dc3a321c89594731",
-    "30e67d77994ab9c242732b013f612ba085af7f57b4f8525959d32b80d9f1d094"
+    "30e67d77994ab9c242732b013f612ba085af7f57b4f8525959d32b80d9f1d094",
+    "3c835734b3bf15c6081190e7b34329e690304104ddda1457ada851849f7ee91a",
+    "baa2034d8141046a873bad7f1dc2def9ab5c06669ac0f493265d5eb8f3863991",
+    "232fba8b6a967f815126e96f3bb43af96dfedfa0d9e16eee57c7debb079c68a6",
+    "f4102389dbd0c58c574941188e493dc338f4151f2172e7116b39d62a155086a5",
+    "51784bb1ba0b2ff6d7c272d3d3a7db75a9202bba8106a2bc24e4802921f2a253",
+    "6b3a8396e8af4c5cb48a9b73e835fa484f6f20a60f902a8e41f1c9ddcff3a292",
+    "376f87e3fe972f42f5c4e2857b52e35991080990dad54ba3d8f20d8b7d9030bc",
+    "8ece808393741189c786e1218d4dba4286e24049d501c02297358c0aa4f2d1dd",
+    "e9b2dca1ce061a2302903b26bfbe582419a1fc0a185a250356b48be8f87740c1",
+    "0ddf59d49e2dfd097011cd5b9bb76286e8f08e24698d7cd061d42b327e80316f",
+    "28f4c42304083fd103f598313ce1daec631c6b2dc0b796dd5e9da18f1d6a1ff7",
+    "11d279e7eae3136451be29d29f72811f2db0f848a9c314b0eb4bb04219bfb6fe",
+    "d1425b1b07b1649f13bee2bafc6ffdb437558493c5908198ac5354459f51e299",
+    "84257d2ad05947ecfcb99261fb66b4be1f7d1da2ed2ab0a85bc8878c1267025d",
+    "24a4e2a39369dfd67ad1cbde8034998b6443a2b8f3b184c96919fca39c0462c3",
+    "a8d49b20272839eb2b5f624a843a618d82078fcdeedeb862a63e7731b23c84c6",
+    "f9fde86a6bd0ce6ccb63bc921ce79a13720708dec335d8f834a9c21450cf93b2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "DIGITIMES Insight: Supply snags, not election or Nvidia CEO exit, behind 4Q26 server shipment cut",
-      "title_ko": "디지타임스: 4분기 서버 출하량 감소, 대선·엔비디아 CEO 사임 아닌 공급 차질 탓",
-      "url": "https://www.digitimes.com/news/a20261119PD219/digitimes-nvidia-server-shipments-ceo-supply.html",
-      "ts": 1795063975
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "NCT builds capacity to commercialize gallium oxide with Mitsubishi Electric",
-      "title_ko": "NCT, 미쓰비시전기와 산화갈륨 상용화 생산 능력 확대 착수",
-      "url": "https://www.digitimes.com/news/a20261119PD209/gallium-oxide-mitsubishi-electric-materials-2026-production.html",
-      "ts": 1795063980
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Samsung's silence on 2027 8-inch MPW plan worries South Korean IC design firms",
-      "title_ko": "삼성전자, 2027년 8인치 MPW 계획 침묵에 국내 팹리스 업계 우려 확산",
-      "url": "https://www.digitimes.com/news/a20261119PD200/samsung-ic-design-2027-12-inch-wafer.html",
-      "ts": 1795063986
-    },
     {
       "source": "DigiTimes",
       "title_en": "UBright eyes semiconductor, passive components and smart acoustics growth",
@@ -11504,6 +11483,27 @@
       "title_ko": "AAPL: Apple이 정의한, 주요 이력, 주요 제품 라인업",
       "url": "https://9to5mac.com/guides/aapl/",
       "ts": 1795090960
+    },
+    {
+      "source": "Reuters",
+      "title_en": "TSX futures gain as oil, gold edge up; Anthropic debut in focus",
+      "title_ko": "석유, 금 상승으로 TSX 선물 상승; 인류의 데뷔에 초점을 맞췄다",
+      "url": "https://www.reuters.com/markets/europe/tsx-futures-gain-oil-gold-edge-up-anthropic-debut-focus-2026-11-19/",
+      "ts": 1795091044
+    },
+    {
+      "source": "WSJ",
+      "title_en": "The Morning Risk Report: The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks",
+      "title_ko": "젠슨 황의 행보, 미 정계 대중국 강경파 자극하며 긴장 고조",
+      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-jensen-huang-saga-has-reinvigorated-washingtons-china-hawks-00536beb?mod=rss_Technology",
+      "ts": 1795091107
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Keysight Likely To Report Higher Q4 Earnings; These Most Accurate Analysts Revise Forecasts Ahead Of Earn",
+      "title_ko": "키사이트, 4분기 실적 상회 전망…주요 애널리스트들 실적 발표 앞두고 전망치 상향",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/63422276/keysight-likely-to-report-higher-q4-earnings-these-most-accurate-analysts-revise-forecasts-ahead-of-earnings-call",
+      "ts": 1795091173
     }
   ]
 }
