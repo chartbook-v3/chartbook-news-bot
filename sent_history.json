@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795080368,
+  "updated_at": 1795080523,
   "id_hashes": [
-    "f99f3745ec518fbc07899318ab074e7bb4062c4f6a47626a7d5b0dd3998b5d5d",
-    "cd558da6395886bf610524bbeaadc4f29c275b3340ff88e2f1622b9133a69a3e",
-    "2506644c45b260edcf9de6456e3c5e91272ac8a1fcb00c3a471bfcbd93664f20",
-    "974bbdb073a61f57c4e19838ec23963a30b9dc1f4cc16d8bc22f782f845771fc",
     "83502b92dd2663837168e903da5ecb448f66b46005abe82c76fb4ede5058a6b3",
     "f305e44c6ddf1174a3754f357b7c23bf69a33e54c16d3a748e5541e4469fc545",
     "5a2e2248e8d18d9f55edac0caffcdc5420c213c52cd04b6a321bd2f6e3feadd6",
@@ -4000,13 +3996,13 @@
     "ff87599c8c874199a6391d22a83b9a3999c932cf9e0c93838cbc28f56d2c7aa6",
     "4c56cf909a5d89c5ff17a0958b04c0e306c43f10c36b04c761f7e6f2d522fcf3",
     "cf5a3729e2ad110fbcd0c8115ccbcbc2dfe467f2332b7efc3409236454e230a5",
-    "f034ed80cf0efc6b06029ea138a2d5b49a629b41edeb61fb70860afba6b153e4"
+    "f034ed80cf0efc6b06029ea138a2d5b49a629b41edeb61fb70860afba6b153e4",
+    "6594ae4373b8ba8674677e6d07364d4bdc2416310331cf4f2791cb173c775f40",
+    "d4a6087a34bef9b31c4041183ede411be8a04e31296dc6cfb5ce2b2d13d7a529",
+    "5b26d0fe6ce9512db80e53f5f9f632ab21d9b0cb6326dc0fd1df0cd40f0b37f8",
+    "c359e6daced3510601dc19faf3c01abe8c93b7fdcd601725bc4b747966ed1949"
   ],
   "title_hashes": [
-    "5057507026a5f17a2d6de62c5f53ab367c2fb9f6f01b9021a0d0ac043f64fe94",
-    "d94d7aac061ca4e66bed640d52b6f42bc1bbbe70e4f476fd1b6d83c9250ac972",
-    "b7d6f038fb1966a54771a31d2d6107fd718207f0775ce3eb756ba55e6822f52e",
-    "1163bd53e7061eac1cd214580a66ecfa4e65b7cc576c0e0cbeafabb81100321c",
     "9eb7d127f6877d1ed8af18960d19e1f399be8602e123c0810fb2a21e940d3e49",
     "ed6d811ff33332a902e480e44c15863eeaaabeb1a9fc4078526ebe042949e179",
     "dfb2f81f19903af65e90bbd7f88fddc37f2d9e9b3bf4da276bf4efab73f74127",
@@ -8002,16 +7998,13 @@
     "8cfe831cea38f8f7afe75ea53434a7495be871baebed44ec9fe0fb52df6d30f1",
     "cb365d6d1317e836b9c782ee7066fd32e6d2c0cc59632bceeaeb680b62e00d1a",
     "0818690071f30568c3a33ad2f813862fa457e167d80730c56ae130d4fc8e4fbf",
-    "0808f167fee10c7f5a6335a3a55f842120d7101474d0c4c37813d70299d0bb7a"
+    "0808f167fee10c7f5a6335a3a55f842120d7101474d0c4c37813d70299d0bb7a",
+    "717a4b7bf318ccdef73fcf73dbf581477ecd6da9e353ae182247fbec79933f37",
+    "49d2fc1ec4097f229007fb615dea346cd815fce96248e5436390d5f4468486ed",
+    "875e9b789d7a10558aeb9195d89caef24a299a99917b285e1328c3e6cb312e3f",
+    "a92ebe8a74775db5f3d2d85180d6db13b34852e170bc73fbbd8041a67328915e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "조선비즈",
-      "title_en": "[특징주] 한중 관계 개선·한한령 해제 기대감에…화장품주 상한가",
-      "title_ko": "[특징주] 한중 관계 개선·한한령 해제 기대감에…화장품주 상한가",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/19/FFW6PLPA4VBN5IIDG7XIBLWGME/",
-      "ts": 1795052936
-    },
     {
       "source": "부산일보",
       "title_en": "재정 빠듯한 유럽, ‘가성비 무기’ 찾는다…K방산에 기회",
@@ -11504,6 +11497,13 @@
       "title_ko": "배터리 넘어 폐배터리까지…유럽 공급망 빈틈 파고드는 중국",
       "url": "https://zdnet.co.kr/view/?no=20261119182405",
       "ts": 1795080367
+    },
+    {
+      "source": "매일경제",
+      "title_en": "애플도 뛰어든 '빛의 반도체'… 51조 시장 선점경쟁",
+      "title_ko": "애플도 뛰어든 '빛의 반도체'… 51조 시장 선점경쟁",
+      "url": "https://m.mk.co.kr/amp/12213869",
+      "ts": 1795080522
     }
   ]
 }
