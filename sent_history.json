@@ -1,17 +1,6 @@
 {
-  "updated_at": 1795131245,
+  "updated_at": 1795131399,
   "id_hashes": [
-    "39156270cb1e805c9831c49f4696754f0074df6091a74b50ead4f1752d66a677",
-    "225f6c21c2a49100c3daec57dcb03626dfeb0e418ca99e9dcac2d4e1598d1574",
-    "e0e3686cc7c7f0fc317e515f1af986ca7092fbbb15c4c556edf81cb022ede013",
-    "90a016777c67b4f8fed5b86551b5658c68c420ea8634b21b434bf08c6dd4923c",
-    "b8b1c9ab41a68ad9258d91c9b5ffd7bd8436c68dbe63a1749eb8d9685aa9cbb6",
-    "6ecd7acf27327b851e3228c3d9173a0da6431f2928872235e08aac536c25ebf5",
-    "54bdb2979e48a72bdae85b167ede16bf0bedcf59eb1b2ca270c9e393012fc125",
-    "4ab4f0b1756801af990df07fa3efe8aef745ed59d29ef2cc573723b1050e8427",
-    "1e426dd7484c779ef42c7a716e3b192419bd00e5a3bcfc9be9d41d3344b946d0",
-    "f78bf139c6d5570c431e184bc14bc0bb0f7a6411a4fd05642750eefa7d132c92",
-    "48917f459923c38c6398a9aed8f19e2fb971a790e1fdc691d9f5d2063961e532",
     "b8b306791e0c38914da2e5d238dbba2fb438068a2f2060e53e6054a7c9a19f61",
     "2a81e9b3b78488cb620e64a3f706512bbf994424ff7ae7fd89b05eada814dcf7",
     "3191e1006686032112910b01351825627de485d85619c5a3c9d67e84d29e8a6a",
@@ -4000,19 +3989,20 @@
     "f83b005ff6b041dd2dc8ffcd8e933d8a19919518002fc6d3777b6df47c4da84b",
     "3ec7f51283ebc1cf031fd4cba27b6238ef26f22d3fe5a8dcaeb4660b81143f9b",
     "a82beb123bef7e9e6d40d08b593510d1e592bb292487d326081a42939397c431",
-    "e85d75deb6173765fe4d0017f7d57794d9e0dec3a5d646f099a84ae29912e26d"
+    "e85d75deb6173765fe4d0017f7d57794d9e0dec3a5d646f099a84ae29912e26d",
+    "db0a750291aeae57e28f35b2192db98cdf252c9cd61dfc40d01e5bb195b0d895",
+    "9e5dd4080d274a07faf1f2f7919999a027b78e1567f38d1d8b6cba8336f12ebf",
+    "8ef016f6d61fc7ec823a4551af6295640ee469adafb110dbc3a6673851684a8e",
+    "b0d0333788434c72fd78d9536db67951b08113a25105368693ff623e6eff1f7b",
+    "9e32a340e098c654ef535937e46a29822d9f5b5dcd7ad578d32dec250f66bd88",
+    "cf5fe3a422f6131d3baa7f6f9c0db1eb99a5adee6182e5fb1789313ff0ad44ef",
+    "9a683437ce0692d613c81be5946bba16bc35b1e843367212e7190c921dd654bc",
+    "1533a4f77ab67e6327f19d5e02cef3058a1e64e8173d100e2fd7ac77d1417b4c",
+    "034eb6c090f8502a617cb2ce452af5a4309145d53e507c04ea9884c7b9aaa47b",
+    "d128fc770eabd8c17b26a667e5dada5ad089d455b65b509bc41b523beaef2f29",
+    "1074b532c54cbe6d34c34b1d08aedf7c17d9b4779df0921357a91db3886086ba"
   ],
   "title_hashes": [
-    "8d88612ff5a23ffc3e633518c975b4a7432527a7c916fb0ebb3700eb221ebb0e",
-    "b8f856c9cc05ed79e76b682883bab468d80fc7b0082a08df6ec2a02b1a0c16b5",
-    "21fdde25b39f9b770d24a5206c377d9a37309ac50d205508673181c27003a253",
-    "ad79ab2b32f6d666dd8d3c9ada2f63976995ec520fe4a3795e5facae7d29864a",
-    "a37d2fbd54c57f202de5c489bf8d280f6993eb268a6e88ee44925da6b842f0d5",
-    "669a029cb0ae7140b6511c98b5ea219266c86265b9e130f11f19dbf27c41079f",
-    "eb163fef82869eab2b610ff0b89fbf549bae8dd8e0c9c6ae1c47f62cf67bdd9e",
-    "f7a94fea8d9191657703f9ded2801dae285862713790f2555e526ab049b7f2a7",
-    "5d2f4e085022e76eb2ef8701b762ed7f182deba775b882d39dc7c01aa814c877",
-    "f2aa3b23fcc88ba6e1c2440fafde91f193be22d23a53fbc50c49a1c982d5fc6f",
     "06b779a7d86fb7258a24ccea6d05ab5bcd197d355aecc06c2e9caed7a01f2186",
     "9df8833ac3d48d513fda7d85336006a179642dee56b84fe1aa41d01200e8d3a6",
     "c04593eea55d7fbbab602e4581cdabd86a938499024c064cbb01933de76ee81a",
@@ -8002,37 +7992,19 @@
     "05258a030e1e2eba30a8bc60c4c9b2b5d5b5030a6683a3b8e509a9d1c39e1ca0",
     "f88c1ffe233f40232eb7f556fc8a43b986b514f4d9f1707df5be209adccf34b8",
     "bf5226ea1dc4b7d3417352848094b878c05b8cc383c4248c247b1c2e5aae97ab",
-    "8bd14671395bcb4da16a4e87f34e9d64334fbc478dd4f01eea8dc3157a62a5b5"
+    "8bd14671395bcb4da16a4e87f34e9d64334fbc478dd4f01eea8dc3157a62a5b5",
+    "fbd01ac282b93ec9d49516744688bffe124e3cf6105b5687cc5d0162b91bb6b7",
+    "687f0ff0630a20a16f3f58befaa5d1b1af9369694bea4fd639e9b864f0bc8b24",
+    "5f7b5623f1f975293799fc54ab891ff56faac56ce4f4ddba45459b8ad647a26a",
+    "7abe8b4440914dfef8a7f7d8aa9ee071f9cd62888e7044e9bd59097b2e560520",
+    "c58060e40c19b390c7bea689c63d2bbdd52566b92d57d61a1ccfadf67668bc6f",
+    "888f4c993402e21fcfd36f8553e1e02507a578b71d60e0d3c22b5c5c6fd0c35f",
+    "b20a8f63ae62fd2f708289aeaa90664361f921625be2324c95b714a8f7a97b9c",
+    "71c028926f28591016695c3c9438f4249cd90f9bd62907f9b553ee71afba616b",
+    "38d8ea86eb5c9be1a007e5beca918dfe080b49857e7bff36010db2b01fe83261",
+    "b33c5cc9d32d3c4a5f088cb22080753c3ab87b58a0c66eba184298bd7c32a2f1"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "$AMD SHARES FALL AS MUCH AS 2.9%, TO SESSION LOW, AS HUNTERBROOK CAPITAL IS ‘SHORT’ AMD",
-      "title_ko": "$AMD 주식은 HUNTERBROOK CAPITAL이 '숏' AMD이기 때문에 세션 최저치로 2.9%나 하락합니다",
-      "url": "https://t.me/marketfeed/1081744",
-      "ts": 1795102564
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Amazon Ups Pressure on NYC Delivery Bill With Threat to Move Out",
-      "title_ko": "Amazon, 이사 위협으로 NYC 배송비 압박 강화",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/amazon-ups-pressure-on-nyc-delivery-bill-with-threat-to-move-out",
-      "ts": 1795102586
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Trump on China trip and meetings with Xi, Putin: It went great, fantastic relationships built - NBC News",
-      "title_ko": "트럼프, 중국 방문 및 시진핑·푸틴과의 회담: 훌륭하고 환상적인 관계 구축 - NBC News",
-      "url": "https://www.financialjuice.com/News/9860160/Trump-on-China-trip-and-meetings-with-Xi-Putin-It-went-great-fantastic-relationships-built---NBC-News.aspx?xy=rss",
-      "ts": 1795102650
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Novartis Unveils Mid-Term Financial Guidance Backed by 35+ Potentially Submission-Enabling Pipeline Reado",
-      "title_ko": "노바티스, 잠재적으로 제출이 가능한 파이프라인 Reado 35개 이상의 지원을 받는 중기 재정 지침 공개",
-      "url": "https://www.benzinga.com/markets/guidance/26/11/63434620/novartis-unveils-mid-term-financial-guidance-backed-by-35-potentially-submission-enabling-pipeline-readouts",
-      "ts": 1795102715
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Trump tells leaders he spoke with Putin on Ukraine - Sources.",
@@ -11504,6 +11476,34 @@
       "title_ko": "\"개발 끝, 본격 출하\"···KAI, KF-21 양산에 내년 매출 6조원대 전망",
       "url": "https://www.seoulfn.com/news/articleView.html?idxno=643419",
       "ts": 1795131244
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "멜콘, EUV 전환 수혜…올해 영업익 38% 증가 전망",
+      "title_ko": "멜콘, EUV 전환 수혜…올해 영업익 38% 증가 전망",
+      "url": "https://www.fnnews.com/news/202611200821516628",
+      "ts": 1795131331
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "NH증권 \"구리가격 낙폭과대…투자의견 '중립'으로 하향\"",
+      "title_ko": "NH증권 \"구리가격 낙폭과대…투자의견 '중립'으로 하향\"",
+      "url": "https://www.yna.co.kr/view/AKR20261120027700008",
+      "ts": 1795131334
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "교보증권 \"삼성SDI, 미국 ESS 생산 본격화…실적 개선 기대\"",
+      "title_ko": "교보증권 \"삼성SDI, 미국 ESS 생산 본격화…실적 개선 기대\"",
+      "url": "https://www.yna.co.kr/view/AKR20261120028400008",
+      "ts": 1795131337
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: 🇺🇸 US DEPARTMENT OF AGRICULTURE SUFFERS CYBERATTACK, FORCING MULTIPLE GOVERNMENT SYSTEMS OFFLINE.",
+      "title_ko": "최근: 🇺🇸 미국 농무부가 사이버 공격을 당해 여러 정부 시스템이 오프라인 상태가 되었습니다",
+      "url": "https://t.me/marketfeed/1082135",
+      "ts": 1795131398
     }
   ]
 }
