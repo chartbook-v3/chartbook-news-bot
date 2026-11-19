@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795065100,
+  "updated_at": 1795065249,
   "id_hashes": [
-    "43600c0fa63cd4c912ea8577ef0b9ca179f35e1504f41b7bfafec6f550010a6a",
-    "725baace73421665fde7a54ce1ae4c616bdf9d2f29a3af3b47ea0c16f21d4c1e",
-    "44b72e8c15ae4483e3351b500768c68e30d5046c28549cedc3c2e01784ab2505",
-    "2af12c1fb8afa415d684adada63e810c4f14624ba71966442d07f7d75f6c7b9a",
-    "b113a8e14f6ed12d3a8ce31e2cf7562168bf3948c1e9068899f568529717429a",
-    "8c8b085747eeade6d56460c8e298ffeac695a829249a46fe941fe4c7cffbae5b",
-    "e9f0f46addf6872b868af6860706b84ad6963a90019394cc69574aca51a230c0",
-    "1bb229fb3a7909f716401a15353caeffebcce5116d117dd6e612bfc6f8c884bc",
-    "e30e538521d384773bd930f216c70ba13edb2074be076a0563b4a0b5398d2545",
-    "98cfde41c6532131aa5070bec4f77e1ed0214e2943f453c21d8ec8ff62f364be",
-    "6f797cc1137ca855e989675e24005f8b1e9b4b867223cdbac79e15b7821260fc",
-    "e3f437022f15e02080bf2afa6d41e77729148fa75a095a97dcafa41eebb9259e",
-    "bbe45821a0869b3e80400527783f1871219565b7eae3d3a9964e9e7bb29f119a",
-    "d2fde45a19708a31dbedb1a6c4e2801ff13e3cbb11ed43fa2a3ed59f7a620040",
     "dd7d24c9f438d1dff645b586847e765ee210c85e259bcd85dff876642c5d9f24",
     "a0f07f2fe767ce88fcf75a23324cb846f433a90620b6b161be16fc1ecf88d0f6",
     "26e2a64e7096d3ab2b102a7cc3d967271133c8756f1b164a32f2a1bcdbda5d5f",
@@ -4000,17 +3986,23 @@
     "81c5bd380461c35df0f28efec17a7feee49dadad52b1811fd1e48a40b7036421",
     "8dc722199eb2c9f4ce3904c7b0f5617309f4398c1dd206c9a0afda9ead935147",
     "cb9d997727930117022f804cef248a89e9d1acefd41f721ed19b440e1d905a47",
-    "cee251e86de09636433fae09bff04b149db3eb317ca83779deefe9450ae82e7c"
+    "cee251e86de09636433fae09bff04b149db3eb317ca83779deefe9450ae82e7c",
+    "1babe252b0410f6bd78c9030aa78608176859781c9ca482783a178d36ca061fc",
+    "3d672327afbb68ceada730f41654c650401357a5c35670ddf087b0f9b34731ef",
+    "b37e41e83cc571a3fc0113e482297d03e1d17bcef41ed5740a1bb5c85f37daee",
+    "ac7939700043bae5111c8c4f75a51b52986f1af2be8ac98030d0981a65af2550",
+    "b3163723aafbc37b9f13666ccad6bac47ed12efb46b2a2fabf031ffaedc9a8bc",
+    "48899a2643382f58e2a88741183632b7d700b4430e5f1c21433d50d25c4e9c3b",
+    "b58ed22105b42893dba43f59fe213b9a409688a67b1ec520993daf2bebfcb2e8",
+    "e5908b5f324659f8e3d26e7f7bbe09590fefdbf13700023b75da8e8110a33bb2",
+    "467cd5786bdeb84bd43a3a30f086b6a2044b076c72a9fab22eaeb90d0d53a414",
+    "80a9af75e9d2e31c7da613cbd3564a7b60901c037e2e2290ec789deff869afb4",
+    "67e7f6ba3be7f25658c8a3d04fdeb05657ede8cfdde4b518c1dc7ed3666cc9f7",
+    "d518104c43b47c23986ea0b3e74557d4b3b17168d46cc859aa600129a23b2554",
+    "529deb45767171cc194ce9e11cdaf00cda6cf5ade60de6bd6c9f358075f9439a",
+    "dc962b113f4cafb6512037b7411f4d9d649128cd553ae5cca2d74abfcfd5bbc2"
   ],
   "title_hashes": [
-    "f936a69de2ab11466e6982ed0a90688a98d1b481e3174c3477f57601ce1c4a84",
-    "cf2c0ab15e4c6681fe908d0392b77aa424a793965cd95ceeba0af76f50d5e02f",
-    "031a50162b3c3c988798c20190f293cd27fcadcc6d1dd45c833b2547b4c7cfec",
-    "f103216535b568180372360a6cf44cf1e0ec40e70736081b72942c824a0dde03",
-    "55e5d23375469356cc47cdf2b91248f945b897aa9a51059e7d790047530b1344",
-    "835b14e308fee5d02778e952016142ef0e32133c821d5ae77d8ee3560bf2dc72",
-    "24cb3a4bde2b181afda6896984cc1db07c625cf78bbed5e8169a4fa019d21a28",
-    "4b95e5fc814d4731082b70257754e5991f38639bf3b32d5b061611d42aa576f0",
     "1b69b12af955eaa662fe49f1fdfeb84d4406a6e22868a621156b26332b2f255a",
     "b055702bf3e1907aa9176de0618cf4a0a0abb41c7b97b69c88efcd9fa2517a22",
     "ff9e58e5115569a8059b99beec9a8068ea6feedf3e8f50fa704f4cd79278438e",
@@ -8002,16 +7994,17 @@
     "5caa2b6e8f86339a1cb2be33b48bfab5117271941866958ddf64469b7d4fe654",
     "1f091aa460d83ad74628e150a2b5a3a29240624b7811efbb07b3e3a19531338a",
     "51ce7762da00097aecc13188070fc84c7aa2ebc6dfc3f5a29f957b6035d4653c",
-    "cd112a5e063427f482b5a828d37d05ef411003fd2e3a2e241f72d899fb30762f"
+    "cd112a5e063427f482b5a828d37d05ef411003fd2e3a2e241f72d899fb30762f",
+    "0232082f25016deb03fbcf2eaa5188d0e579448c41f6f96f8b9bf6e82360ffbf",
+    "be473cb9b239b08de7e2355306b572f4a9172c5217ead92d7b448710ed3d6227",
+    "6b9459d4561d8ddb830bdcec0375338c00e95d6687bb481a9b704ed827d7e44d",
+    "a2607a331ff347c5738073b9e9879db3555f36cd97b18f6bf99d4bf9aab38ed7",
+    "03e9892f1d1fc1ea6dfa481d1227f2dc4c6511654b0b8413638f42cc33053124",
+    "e1516fc5eeee78330601943118a6901a383434193f7ace6e57b4e1a986d65bac",
+    "fbfcd305da6bf696278e6375c9affb58199a5a36d1962986fa3f986de90cb1c9",
+    "dff6db0abcdc135fe7296ec31a1b139ea6d35f250b745970d54360987373c590"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WSJ",
-      "title_en": "Anthropic Sells More Shares Than Planned at a Higher Price Than Expected",
-      "title_ko": "Anthropic은 예상보다 높은 가격으로 계획보다 더 많은 주식을 판매합니다",
-      "url": "https://www.wsj.com/finance/stocks/anthropic-sells-more-shares-than-planned-at-a-higher-price-than-expected-4b511002?mod=rss_markets_main",
-      "ts": 1795041428
-    },
     {
       "source": "Bloomberg",
       "title_en": "Brookfield-Backed Lotto Firm Logs Earnings Hit, Buys Back Bonds",
@@ -11504,6 +11497,13 @@
       "title_ko": "구글 포랏 CFO, 데이터센터 지역사회 지원 강화 약속…반발 여론 진화 나서",
       "url": "https://www.bloomberg.com/news/articles/2026-11-19/google-ruth--porat-pledges-data-center-local-support-amid-backlash",
       "ts": 1795065099
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Anthropic Shares Indicated More Than 20% Higher on Gray Markets",
+      "title_ko": "앤스로픽, 장외시장서 주가 20% 이상 급등 전망",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-shares-indicated-more-than-20-higher-on-gray-markets",
+      "ts": 1795065123
     }
   ]
 }
