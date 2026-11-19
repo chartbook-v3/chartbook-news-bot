@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795092011,
+  "updated_at": 1795092174,
   "id_hashes": [
-    "9cb21983da4c4ebcce0d8c1177b04a34e1571fa25774e1c2cb1e0ff27248f5ec",
-    "759fd0b84ab7886fd8a6f04bcbbc36f90e6924e94beaa6a549e3819f6921c8e5",
-    "21e4e12184a07e056cd7a597365d75fc653e5f1187377c93cc7397cdf4e82aa4",
-    "ea8fc3a19149b5547ff92a0350ef50e2e2818b8eea76b1190a2e8fdbeb2acf63",
-    "f5f9cd407f2b936dcbc278ca2911b29acb16165c4d96e9ceb7f9eb4fce5c79f4",
     "1568ea58adbbd36e1e9caa8662b706937c413379bd5f3c1d4c8ca915ad58e48e",
     "cea63c2fbe37d3a1b0b71c09e4736fbd56a9b0a28bd832d8452969e70d91c71e",
     "a717d3815f421d95c62a8553186ba219ad0118545766ab5e32a5339586497839",
@@ -4000,14 +3995,14 @@
     "033a6eeb87822a30decfdc24bfb5ea8cb525b144bed7817eeebd8bda3a8171dd",
     "65116fa6f8c3d4719c2d343c866953da3e077053be2ec454bbcd3a842346cce6",
     "d684918148d09f4da0d6938e5e9b150c52eeba470ea8e7c61b4e9ff6de9a730d",
-    "8457f77b7694d1987a029ce1b83efd88e6ffbf2a7744a37998de877a768c400f"
+    "8457f77b7694d1987a029ce1b83efd88e6ffbf2a7744a37998de877a768c400f",
+    "215d257be383f23b8827ef0894a984f094b5ef5225f8057c0071b0b1309aca28",
+    "afcdc1f3bb6ce2f3a1115cf63d1133d83e83e8a9327fba236c3a5544aaa8b2f8",
+    "caf5473c6f620b9f93f581f2ea132239d1f46e25602e8751991e8e7ec9d16081",
+    "dcf34d9144ad74fa5e293fdb070972f63807e89efe38231391848658eaec1aa0",
+    "982b42dd9f535f3e4dff696dfc8eea16a41766b3f963cc33556fa4034829a4a2"
   ],
   "title_hashes": [
-    "f10a18d92e956d71f7a03c40ea108e7df5c4986c1849e00c614d548ea77ed5c4",
-    "43b5b70aea55c157444c97db8e58998eca1573f5e9ad78a46271f1125c026a8f",
-    "3c226ddbabad8278e3bad442ce676a99292fb9bfed74300c1015a833cdb84d80",
-    "f2aac810c71c0c810a561574dac42dcfe43b0ef2a00ee8afbd15115d5668a642",
-    "60a309a4298c3ac319cd86f2c5336d9ad2d8700500b610274e9e34a58668c138",
     "beab3ee30ad133bf12801fc54970836fdbdd0394ab070e270d6e9d658d3ee7e3",
     "83d3e0ab494d7f07f555fd26cea8e27fb6f9315e1229382b15a6810785c630d5",
     "d6ed146379c9d781e2327de75ee0b6dc49ca386ccd7a414f4226cdc4f58c6ff7",
@@ -8002,23 +7997,14 @@
     "3d49ada9d632b8f25e378aded66860a827ee885f163002d0206908f60b37cf75",
     "27bcf0b3b514604ecf4caeafd59adda784b6d2baf8f93288541db6637bf4f682",
     "054d8614c849d072f37f6dfd4d13955acc5bfffc1ca5d860b2858744f9810773",
-    "770d7f8ea5e99793f53811952f821d0d6defb22cb3de70b7f4d11132c5e5211b"
+    "770d7f8ea5e99793f53811952f821d0d6defb22cb3de70b7f4d11132c5e5211b",
+    "5a4d4546dbb023b4c6f9a329fd7713c118a2516fa7cb2d85e2e21b540c308bbe",
+    "929e64c0e902a59cbbf6b4612772172ec62bcda61fc6ab96e57e772ecba48c58",
+    "4f0ea20d49cea842193901af87e4f1d315b430b1d93168513f8ae68f26fecfab",
+    "e7a6257015ebf883201a6b7749cdd8951dc2c1d423ce9c9eace6ae67e272ae26",
+    "30d43aede454a817c14264d7968e9a416b10f20da1eaf8c90da9355fd28599a5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "전기신문",
-      "title_en": "두산에너빌리티 연구실 3곳, 정부 안전관리 인증 획득",
-      "title_ko": "두산에너빌리티 연구실 3곳, 정부 안전관리 인증 획득",
-      "url": "https://www.electimes.com/news/articleView.html?idxno=375011",
-      "ts": 1795064779
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Denmark expected to ratify Trump deal over Greenland on Thursday",
-      "title_ko": "덴마크, 목요일 그린란드 관련 트럼프 협정 비준 전망",
-      "url": "https://www.streetinsider.com/Reuters/Denmark+expected+to+ratify+Trump+deal+over+Greenland+on+Thursday/27371788.html",
-      "ts": 1795064783
-    },
     {
       "source": "Benzinga",
       "title_en": "Zohran Mamdani Isn’t An ‘Addict,’ But He Admits Spending Too Much Time On Elon Musk’s X",
@@ -11504,6 +11490,20 @@
       "title_ko": "Medicus Pharma는 지속적인 상장을 위해 Nasdaq 규정 준수를 회복",
       "url": "https://seekingalpha.com/news/4674658-medicus-pharma-regains-nasdaq-compliance-for-continued-listing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795091947
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "宁德时代：11月19日回购85.05万股A股股份",
+      "title_ko": "CATL, 11월 19일 자사주(A주) 85만 500주 매입 완료",
+      "url": "https://wallstreetcn.com/livenews/3202589",
+      "ts": 1795092170
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "WTI原油日内涨幅达1%，报83.14美元/桶。",
+      "title_ko": "WTI 원유, 장중 1% 상승하며 배럴당 83.14달러 기록",
+      "url": "https://wallstreetcn.com/livenews/3202590",
+      "ts": 1795092173
     }
   ]
 }
