@@ -1,23 +1,6 @@
 {
-  "updated_at": 1795095331,
+  "updated_at": 1795095481,
   "id_hashes": [
-    "a09aaf503911616cb2c78e3241339f7221d8aa09986d9c11fb27c657109a84d5",
-    "0dc3fd12cc1e2fb9f257ebbcb135f0377f916d5781150b3ce5aefbe72bf06ad8",
-    "adac3aa71716dd4a37f5c1c24dfc1e58571f430f2fadceea576a2abe5e2bf020",
-    "4f07d38cab99530113518edcf6252c050da1a405a501e201d461c2c18ea7c835",
-    "3f01467a4854162aa8693c1fbdcd7f07219f39224058a1b3561d576694c06b9f",
-    "5ecf7a34cfe90510becc012303ece9f19fc2e9a2ae74f0f598ae7a8d97fc060e",
-    "59f60a214b120cb56391f2ea7a8bca3cca12fb5ae7e3257fd6aae30bdba0b03b",
-    "e8246e7fad12f76cec845f6940c37405a6b898c4f3f728d7e5c9935f9f95ff9b",
-    "89d4f56b6ea078a0c003501e60e7871bf816b6534cfd24a60c979c1921592eff",
-    "f1a1aeb05ce17de529dd5dce9c670d2d71df92469eb8842954b712ffda728dba",
-    "04068e664eec1a692f13ed86998c8395ec1b3bdeba8dda16a62f9a2c84b4bff7",
-    "e18eb950ca77d0024d924c93de3844f6e1649d527d45d6c5490a06fe285906d5",
-    "bb581133b47244b193556361cf4a7a9640ca89c110fd15036eb14e116fa54c5e",
-    "8a4692b4baf598eb3dffe98de7003dc47cc194b8488159a768a8c2104ea854c3",
-    "a999c5fe58b4e28bc2ee1edd612e39f9d577c78a41c20832e4214f091d0f2abb",
-    "777e35d2f7fb4d53f395694ede733e38f3e1d791fbe3bdadaa08576715b67355",
-    "4242982a47d0b18b49fce712dbced4a49e2b5021201fd549325880aa907dc8da",
     "98d6b61602af1979205c6970521857cebd0261a2c6ad872bf4cb532519f44c17",
     "a0fca215685b2f04353a113b58ac14c7875d7ab1fe2e41a01c54669ccf6d0f40",
     "7c8d37f718a5ef6fd619b8a61223a8cf26770aca1a7f727ea20694467895c251",
@@ -4000,25 +3983,26 @@
     "792b7ed337df436e5171c815ea075dbb2d580fcb3b56248d301b3074ab8f3690",
     "304267117df301f5bab7ad3689a60e5206b2e0c037e9cbefaa9bc43508794db8",
     "8ae3e9423513480c141da5d3ba670baa56cef5bbfb8149f1fca01777b0bdff1f",
-    "4aa9634c74da0394ff04646e36b888dcdc913bdfc094a782e80754b129cfc914"
+    "4aa9634c74da0394ff04646e36b888dcdc913bdfc094a782e80754b129cfc914",
+    "e74f7d05835350cc528cc85ca8464404ea1090f5ceba92159ce1d7c8cf8ae216",
+    "af17214ed4cf2e6c31916f1c1af1a6d0885c461bf39a4f1ca02e09b1e5292624",
+    "bc1aac28464ef972c92a9344d720b989e06c0df2dbaf0e4fbdb74e770a125a12",
+    "88b15a472397b88fd5f37800894a9f68f9edf2ad7db8669e01a4660afed00d2d",
+    "ee30af40f95db946a3552dce740b7ddeb70fe181f0df22cc42154274eec8146e",
+    "866c95424ffb97cf4a05e3400ff93a6febd248fd0d2b9b5616efa7e6782a4043",
+    "e6db1fe1ec17810a42f702154bfa4eafdc1f1f264ebdd6d44336846f52cd9fef",
+    "15f56318be795d9a21b1b9b99bab4e015edfdd9f93f076967e03ab61c9e84823",
+    "f09e2ef524d3ac94d70713291a8626b2bf371ab289e3841590e606100e0a60a9",
+    "28db09609772fdfbda4be1ac9ce76b715b1628d1c7afbbcaf8658cc89146dc38",
+    "02747dc92f9f729826dfd4e1c75b7811220b2ce4a0101654f8058888236d41c8",
+    "9ffc737dc12e524bbd222659716dc85879cb6753d9dc8dbbab91083ce1e67282",
+    "12f5b1c3d9afff19ac7c903024c163d1dd5da5d1ca56f02a91915a6eff1e056d",
+    "f9f8ec8c9c3cb0d1c963ad80b178903ec71f606f7a4494c5ca1ea3223ee66e3f",
+    "03ca50d390e71596803b80b3a82f2a8723cda179e73e2051884aae647ff2728d",
+    "6e2700dfb0f6cb40f7f88c41ce6861ee181e6a83b78bb3f98fd137271c65df43",
+    "fe5990d6b80e0580044e9b21fbd5b50e3cdde59d62d440c9e0a64cdb4cd4e440"
   ],
   "title_hashes": [
-    "ec0a631d2f2ddc5baff8710a801f6109497ea6864513b800fd0be3daa7fd435e",
-    "faf2b0dc2dc8e0bea6c4b8ca5d584ab582fc84a1263df47b73ced69bbe71cddc",
-    "e2ebb44c79143126ddae4601b9c7a9de5bf29306005664845b232b81cf7e5816",
-    "643e17757de1e0040bdfd6c46de404e87712a1c1d66ab64ed89ffca46984d68f",
-    "afade557bfa5a937c2cfb5d16bcdfc8b4c47f46cb95a2ef9f56fd743782684ea",
-    "e7bac5b3237449f5ee9c6ea8d6f1ce9dc6eb729bacff6170865827a6bbd4ba2d",
-    "948a5ee15e05ec26b05b7749c0a4884359560f41fd33e588b2ef32e5d9a8dd5b",
-    "17935a2b2e9e0dc88e35de4ce6d6bda8d6c28a881a5d4aca1220b5e8d4ddee43",
-    "c1c767235a608f99bb76bca690a3d3e8e7e920303a9cd2899d14bb5b45a7440e",
-    "6117e54ff9c26c22e2db7754ef38cccdaae4ae33bc284c6527f42d919e93036d",
-    "a88823147f7566807e416ef95264250ef77e13f534a2fc6f7dcb4684f46393ac",
-    "4835afbb92592693fdbce2b52039683b79fab5f044c75962ffb5b67d8c6ff335",
-    "60c401baaff2df331cfb7b600479c39073f3992aa0ebb60c3779376a6ff74fbf",
-    "a699ae9a9e78d2642f18ce9de9b856027fd1d0b90598248e7b220cea4bd8378f",
-    "3f526bb83a3081d41d631d9a978d268c2c8b6ca4eb560e21d8ff068bd7a30642",
-    "17ef6c6ceeca889615f3dfd96779e2bcdd1907c00d681ad19b4b7fc7704da372",
     "1f7bf16d0e9b09554c0ead5342339696554bda4dc9d2d5e8e87e02caf8ec9a31",
     "f9fb3616a89b8216864914acaac18e1621ba6d49ececec881b8f0f310a3d2d91",
     "4fd93652115500cf2f3332c726277ccf156db2e3d850bbbd7a504ca96ce50bb1",
@@ -8002,30 +7986,25 @@
     "7699726e9ae11286ad2be7a9d4f4b15748d5729b7e16602f74e8e98dec2c831a",
     "135dc4501d8577bcd977cf291ebca579f6f51ed00a87fdbe434ed2cdc747af9b",
     "68dd5e79016083efd19e19b1b40c4511df2c265780fb543f34ecb9265b2539b0",
-    "82ed3f8f1fa9ca4c27af9966a735b5545e703d6756499a2362482b56aae52624"
+    "82ed3f8f1fa9ca4c27af9966a735b5545e703d6756499a2362482b56aae52624",
+    "4011dd6f2440060193fae790dbe0300a006d1b81cd518e6ab889ae4cd7f3b563",
+    "e903e50c17c8f5366b16325704f909f75b429647de013fa1052ba01f335f9f18",
+    "565d6aec867193e716f21d7c456cceb174a7280e9c630b0afecec5e65f658fe4",
+    "2dab2ab614b4ee7e76baad5c6c8943368a0b66e850ad7fb26f9ef04ca003e203",
+    "0d13fd1d4bbb36fbd9f726c33efa3ac85622b052fc4bf9a642ae0740e61a4d20",
+    "f98171c338ad7c7f1d7fb7690ce3195fea660dd9f6a52c2b08a545242ae071bc",
+    "4fb7ef8f6edc632dd5a28a7de870c813dfda208a1c74d797abd81fbf8179a2f2",
+    "a3c46ada46ac1fd17720430d2d1cfcb121f1359f03bbc88bd77c75b87b95cc18",
+    "c14ecb1093ca9cab67e47b4356a740b1081be04970b7c90ad294da99ad5dacc0",
+    "5f0798406ac3da81d85080dcf606559a1dcd1278af615d31b334f72bd75610b6",
+    "48413255583ecf2cbb2a9c65d8cd2219e289bd80390b6a00d98872905de14da5",
+    "651a2114174608510917e626bd7810bb386d09c402fadeeb84fb301a76a4bcaa",
+    "5ac67633f6806699a682b8ac5ed693ff4c469c87b8d7bad1cdbd8342a0eb6447",
+    "908e6a185bc713bd977ddeb04ce64f8ed096f6d5d7e1d65540e8f20eda992309",
+    "fe771e6030919a6e1a62f52373831b3a623fe498150e445bc00c9307f68af6e5",
+    "7381c12a75a34bf525a3a4bcf11c7fc1a394ccfff03e8a705107b5860bf7669d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "앤스로픽 나스닥 입성…AI 수익성 시험대에 선 반도체주",
-      "title_ko": "앤스로픽 나스닥 입성…AI 수익성 시험대에 선 반도체주",
-      "url": "https://www.fnnews.com/news/202611191431275364",
-      "ts": 1795069153
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "‘Unprecedented Results’: AMD Packs a Year of Chip Progress Into 5 Months Using OpenAI, Greg Brockman Says",
-      "title_ko": "그렉 브록먼 \"AMD, 오픈AI 활용해 1년 치 칩 개발 성과 5개월 만에 달성\"",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63418052/unprecedented-results-amd-packs-a-year-of-chip-progress-into-5-months-using-openai-greg-brockman-says",
-      "ts": 1795069215
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Anthony Scaramucci Says Howard Lutnick’s 'Mafia Boss Tactics' Backfired Under Trump Administration: 'His",
-      "title_ko": "스카라무치 \"하워드 러트닉의 '마피아식 전술', 트럼프 행정부서 역효과\"",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63418065/scaramucci-howard-lutnick-mafia-boss-tactics-trump-reputation-damaged-irreparably",
-      "ts": 1795069218
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Japan's Prime Minister Takaichi Highlights the Country's Robust Diplomatic Approach to a Free and Open Global Order.",
@@ -11504,6 +11483,27 @@
       "title_ko": "푸틴, 크림대교 공격 이후 흑해·에너지 휴전 가능성 일축",
       "url": "https://www.streetinsider.com/Reuters/Putin+rules+out+Black+Sea%2C+energy+truce+after+Crimea+bridge+strike/27373661.html",
       "ts": 1795095330
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "US TREASURY YIELDS PARE GAINS FOLLOWING ECONOMIC DATA / US 10-YEAR TREASURY YIELD UP 1.85 BPS AT 5.085%",
+      "title_ko": "미국 국채는 경제 데이터에 따라 여유 이익을 얻습니다. / 미국 10년 만기 국채 수익률은 5.085%에서 1.85 BPS 상승",
+      "url": "https://t.me/WalterBloomberg/38681",
+      "ts": 1795095351
+    },
+    {
+      "source": "BreakingMarketNews",
+      "title_en": "Canadian PPI MoM October Report",
+      "title_ko": "캐나다 10월 생산자물가지수(PPI) 전월 대비 발표",
+      "url": "https://t.me/breakingmarketnews/179084",
+      "ts": 1795095417
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Credit Agricole: Treasury Issuance Seen Rising Modestly in 2027 as Debt-Limit Risks Build - FJElite",
+      "title_ko": "크레디트 아그리콜 \"부채한도 리스크 고조로 2027년 미 국채 발행 소폭 증가 전망\"",
+      "url": "https://www.financialjuice.com/News/9859968/Credit-Agricole-Treasury-Issuance-Seen-Rising-Modestly-in-2027-as-Debt-Limit-Risks-Build---FJElite.aspx?xy=rss",
+      "ts": 1795095423
     }
   ]
 }
