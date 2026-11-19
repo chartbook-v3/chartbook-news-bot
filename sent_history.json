@@ -1,26 +1,6 @@
 {
-  "updated_at": 1795079255,
+  "updated_at": 1795079433,
   "id_hashes": [
-    "c51910f825f207f96dcb8e4e769e79a6e766412b6a8b0e342fd05d6547ff9d59",
-    "ebaf8d605600be68770a2ee83de3a3cc5010dd14b74022cd9f1ddbbc12062468",
-    "15638d4b913657c3f36d9f5be2c53d28ed702ebf41271fbfa4f385f824f1ce2f",
-    "d6d7c3761837fd5bd6f4657879ae579bda80d96c0e7dff74f41e469e4e4084f9",
-    "7ab456809b8e0b8216e0a1bb6872c0b45d2f84366652d0df9aaea639679b283b",
-    "3a9679c46eb5b6433d9bde0d5e00e95a8e907e79465f25a54e51dd3e8aa8ef15",
-    "b0192bc10d9acfe594bf7a83253ffbf6631cc7ff063c823136ea4eb0321c03c2",
-    "bb2185eb71ede1cfd31845ae081c4050ff1a142ec69f42b4b1193aed1459b2e0",
-    "115999c773c3d0fe19a2383cdc88af130593c2338d824e005652d626c67e27d4",
-    "733ba7305b9274cdb76a77685415ce14aa18c18297cd4be09d985acc13309072",
-    "76368edee59938996a185b2b5be6f4f2546089ddc0a95c8be33dbb0513753732",
-    "2243664755ee332003f251cd65ef26c8010efe97c409077f462a8e92c840dce0",
-    "1ce435a7828270f0f80737200cf60636a75bc85fa5964dcb7397a169de9400e9",
-    "15eec8b70effd764a991523ffdb9903207e944cabbad76daafaf373eccdbd63b",
-    "a4c578784f21568b6969d6db96d17a8af0d57172919ad831dc700fbfceac93d0",
-    "99ed222e653f1b8c50a3d1b7cccd4e026a40dc04ac610f5e32228b71149a85a8",
-    "bf5ac240cd436cc1600737c5e757abc4a13a4b95ae039dbf248f790939f78b30",
-    "2de9606812255ccaf608dd143bd6ac8c6c0e98a3baa4b04063760189e22e02fb",
-    "f407c1c1409bb380e4f15a5e4a267b36d3bf4a3d7a98245e9a6df7dbb596ba5b",
-    "ac2f4e3fb74b2ad01f4f00a970a0efdd3ef4a579630836f0f40aac8c3262bdb5",
     "740ae2b2a6fe06c79f9d26c30005bd0e2d95fc59976674657c3ba04f608e10d9",
     "006a83cf44975449bc059e756b5c3a20f1a82f4af17797e594fbb7d6d3c3e2b6",
     "0b749654d86cbc9d7b5ff0c47a6a4972e569217283d16eb2071e79dd405cb738",
@@ -4000,23 +3980,29 @@
     "c557f7d1ba7de7721732854dc5a95b0d58f1d1c81bfe7e6992738e37138726f0",
     "f36c6884e79cf7514417d8ba3e00f1cef7b8b248026aa59e43a35964d7e8d22f",
     "a60203be422c0d07ec34a7dddd5806493539daa9e996a8484d8bf6f7e202f68a",
-    "8baa3fbb7f179df060a9cb7159fda97bef87cad6e2f15990b6b96618ad75f978"
+    "8baa3fbb7f179df060a9cb7159fda97bef87cad6e2f15990b6b96618ad75f978",
+    "0a5182a49d845abf7c29f92eb7d9de21d5b5d140dfda9ab009e9da1928059a38",
+    "84a0f90f7b24fe335c1a5f2809f05cfdc073beb912f0aba5296673c4bfa7cc0e",
+    "f050fb5f3e61d2ff7b21700459a4dfc9a24714adbcf6379d18450590a5b8954e",
+    "ed041f1c461604a460c9edc6c932f505262517c7430c0d266696302c94bb804b",
+    "6e9b0de5ac99fcd68b5fceac9fe032303e06128acf856cba1a5179c0b030aaaa",
+    "6bda86aadaa55f6db9eba8fcd36496c4b589e7afbc9a8a4ba2c9153d64238e81",
+    "877d80fa145d5f071fb60a41165dac433be61f28565ac6f967a01b0852764a0a",
+    "ee947b227d2f1b20e0c8b4f9be5887ff4e76b6e3735c119ff3e7f328c6792d65",
+    "5b2af01873dd5f5035305f4ffbe19266310ca3c36577c5f8133eecb64897103f",
+    "30bedb72c336851a3c0336f66f159d666120f06e7f6865c986c4d849d9a8eeb3",
+    "5c439b7bd85d9d4a655d46fae5cc79ecd1531b16c195a7064eb6f2f8dec94f4a",
+    "3963a474ac9e7653e017b751b6b9c7978614ef02c1973c9ffee2a21ac542765e",
+    "44f319cce533a70459ba8398675dfa3cdf6664f37c96441f430399ae7ac03ec9",
+    "1aa86f9e3221691dfcdb05542d290205bc234381a7a0287c6f942c8c7f4bc11f",
+    "a539e52254c4aa9a42f350d4a89a24e3d378448a0379f4bd420adc21d2a6fe74",
+    "18a8d3a5c31c00a2aaef1396445a4fc44429daab1c335f62a56b5bd5cf9f1a55",
+    "8f35bb781d8364c3007dedc5450bd119a93adaa9022fa6862a6c6a3679b7b940",
+    "5b4d23caa84ad04bd5a647adb83548492550548431ab7fae3cbd27b37d42697a",
+    "808c07e776a2128629a546d8d86963ea65c27c491fc9c658886034a3cf0549a6",
+    "b90e84062cbab7efb2bc3b008ea12e1bac6dce656ff15b06b090c19f81985a1e"
   ],
   "title_hashes": [
-    "616476b5891ce49adebdb477d730ecdef69f17a65f56a89734bd545149c837bd",
-    "92fd09e1cf48d63bd2ca748f88f2a428451746ccbd47cc7602a2a975f9f1841d",
-    "2c6556fc9b5d997dad6a061c340edae9a2f22de09f0c0b1890b0a2ad4840117d",
-    "68c8da370ecf063f9668efee55f7dd685776e6feb36e94c716afda43aa72ecdc",
-    "cb1ac89539a1cbfc1910880e7c4a7ec66da37c02d9816608a59e83b187969ef3",
-    "d923ad590fbf2ed0b4d1ee2f8d7fa7b6e7305db121c751071548bd25af0d8d9c",
-    "0d5db215e71f56aae52c692cca1bead97647fbeedcaf5baea2b20dc01e71bc4a",
-    "b57ea19b8c72d4dee5bf14d9314a181a830e87d25eca2571f1ed4982e49544a2",
-    "f9c21c9e3ad4d091db503d74787044655c7732d14f7085bb3fc61488abedf965",
-    "4da39bca25d4a41cd34a786dcb31c141548c247cf22c6c51046c0eaec45267d5",
-    "c083bc447633ec87bc0d0436f3669d555b8d894b43dd8bafdd102d9481d3f144",
-    "eaa5c1a660e096d28c2b4834b34fcaf80849ee1c1770f705139f32d45bcd4226",
-    "aab9634dfe3fcaa07fced4936065c94da6490415731f4fc938ce8435ac245847",
-    "c3e5d39ea9947377d101ce035e0212dbfa5c30f23aa5b8d95df96b897110bd95",
     "a43bb4094fceaf09808b73d3c1981ca49085861444e354bfadef4356505f49cc",
     "d4e70c6d440fea3ede70e4bf23ab6505eddbfe742e215a72af574a198a2930dc",
     "88e2d759a804d1e934a7f938f23d1b814163a9af7d31cd4e17cc77b3f15fec04",
@@ -8002,37 +7988,23 @@
     "ba4c32bdd477999373c56dc0903c17e5cde6293cddb35f2c31027811a1c1fc9b",
     "10363cc79c20c69036d3f9f321ac6e186fb2d3ca7c953193563a1b2936111096",
     "6cf51671306cbfffe16fd8ed91bb5596c086fd349f11b794f7d41ec7749fa804",
-    "9f41cddd8ea01d8b5072c8356228c5868d32d05411f4a8704e670c27b84783b7"
+    "9f41cddd8ea01d8b5072c8356228c5868d32d05411f4a8704e670c27b84783b7",
+    "a3376fe890413c614261f3b147e5cce4d12d586d6382dfc1d10939e594c650e6",
+    "17332f02e2027fdbc5f2e474e052b50ef4e03034dee74c8b92ec24e7eec1861b",
+    "8b38d902806ce78f70e8210115ea4f666bc10ad5483978fd9af267300a31ac70",
+    "4e379fbed87a852a65200cfbbd8c1e74838e003144247ed5473cf2977e34ca34",
+    "d29580302f697fdeae16e5c65ac2b6ca0499c0ae18d42acb29e571f289fc66ec",
+    "c5f496eed08a1b9042d8defc025298c92830819faed8ac3da0026e149bb4c95d",
+    "0820d470fb7d73ffb13ff7a1e5e9ec2efd20d56ac18364ba51fac228fcae01c4",
+    "4fffcebb65142ebab8ef4c28d84d9583fc2081bf2c81ea739b17ea3fdb929837",
+    "df32b4f4f78dd82c20931b6e946f0f6e48b70621b1665569f40ad63871933afb",
+    "f65d4b08bde04ae4842706658d503f0265557338b15d92d8c339232c182f04ef",
+    "6cc7cacf2e8c13acf7c738add6f37e9601711c1ebdf97a1f569ccf13178b7a4a",
+    "11e17466550244ddee7d9c3c6aac07b8ed6237e62cac931640f29ad34a72be76",
+    "0af1a0ed2b59a3f122b7d4af919d66a191e3ff9c96c5370b2deb3ea03f7d0b8a",
+    "43ec3511baa2d4217722cb4826a1fff1262ab07538d22b940a4d55f642b889ef"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "LNG Exports Through Hormuz Appear to Slow After More Attacks",
-      "title_ko": "호르무즈 해협 추가 공격 여파에 LNG 수출 차질 조짐",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/lng-exports-through-hormuz-appear-to-slow-after-more-attacks",
-      "ts": 1795052292
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "[오늘 외환딜러 환율 예상레인지]",
-      "title_ko": "[오늘 외환딜러 환율 예상레인지]",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445500",
-      "ts": 1795052350
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "HONG KONG-LISTED SHARES OF MINIMAX FALL 9%, DROPS 7%",
-      "title_ko": "홍콩 증시 미니맥스(Minimax) 9% 급락, 7% 하락세 지속",
-      "url": "https://t.me/marketfeed/1081188",
-      "ts": 1795052452
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "[특징주] 中 노선 탑승률·운임 개선 기대…제주항공 19% 급등",
-      "title_ko": "[특징주] 中 노선 탑승률·운임 개선 기대…제주항공 19% 급등",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/19/JI6SJTA6QFD5VCGIQTX3SSZCC4/",
-      "ts": 1795052513
-    },
     {
       "source": "DigiTimes",
       "title_en": "Microsoft’s chip packaging deal hands Intel credibility more than revenue",
@@ -11504,6 +11476,34 @@
       "title_ko": "엔비디아, AI 반도체 수요 급증에 대만 공급망 강화 착수",
       "url": "https://www.digitimes.com/news/a20261119PD229/nvidia-capacity-substrate-osat-taiwan.html",
       "ts": 1795079254
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Xi: China, US, Russia should set up crisis prevention mechanism.",
+      "title_ko": "시진핑 주석 \"중·미·러, 위기 방지 메커니즘 구축해야\"",
+      "url": "https://www.financialjuice.com/News/9859594/Xi-China-US-Russia-should-set-up-crisis-prevention-mechanism.aspx?xy=rss",
+      "ts": 1795079288
+    },
+    {
+      "source": "뉴스퀘스트",
+      "title_en": "“수주 잔고는 탄탄하지만…KAI, ‘KF-21 부품·인니 행정 지연’ 넘어야 진짜 퀀텀점프”",
+      "title_ko": "“수주 잔고는 탄탄하지만…KAI, ‘KF-21 부품·인니 행정 지연’ 넘어야 진짜 퀀텀점프”",
+      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=305450",
+      "ts": 1795079415
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "XI, TO PUTIN, TRUMP: MAJOR COUNTRIES SHOULD RESPECT EACH OTHER, CO-EXIST PEACEFULLY - XINHUA",
+      "title_ko": "시진핑 주석, 푸틴·트럼프에 \"주요국 상호 존중 및 평화 공존 필요\" 강조",
+      "url": "https://t.me/firstsquaw/194212",
+      "ts": 1795079418
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "XI SAYS UPHOLD NON-INTERFERENCE IN OTHER COUNTRIES’ INTERNAL AFFAIRS",
+      "title_ko": "시진핑 \"타국 내정 불간섭 원칙 고수해야\"",
+      "url": "https://t.me/marketfeed/1081518",
+      "ts": 1795079432
     }
   ]
 }
