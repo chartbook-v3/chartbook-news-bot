@@ -1,17 +1,6 @@
 {
-  "updated_at": 1795127204,
+  "updated_at": 1795127364,
   "id_hashes": [
-    "36703ae64243004edf04a47fa4b9a8c6c13c67a0f0994c2c3ecb85e1dc24c025",
-    "69b97bba9756676bf3152c921c731b2baa7e641e1401502d30f3ae1ab51c4775",
-    "834907c203af4e8c166aab0f75cf13338e7c2e52550aed9917b991fe9e184d4e",
-    "5d139d56516f2afca8ad6ee58987c24e19ec930dcf9e5183fa92f82ed0d7a9b6",
-    "be4a8377ce1d39361b3b15ff2473aa47bacb36c27f454ec4888df3984bec345f",
-    "02a51995c1a345240f32665871ab1c2989fc609eac83b6f8bd7b758b55ee7ff5",
-    "73bd7c605b832b574a53ee769b6f32b18d4e4898052d6b2cccc85842675b2c58",
-    "06e58ec422ce7cc451d75379665862852666c524f2d290999bfa83ac445aa8ac",
-    "a9faf53b1e00014a8733c09cd7e07a8178d141c217c3a216ebb640241296f390",
-    "a65de4809c5c07e284c719106099e5b1d873144dd4b2c7d304bf0f7ee0dd76db",
-    "f15492fb68cce8212a07f620a094388bd8aa379bdaca3196d24dbed95530e7f9",
     "f14cf4f08bf765e567b89ef4b670ce0d8cea0add540b04abc79e58a4892d1350",
     "2c03ca052fb990b546b6131f8f14bb5c0eb81d1e7a666debad0450c1ffc0ca54",
     "acf0ba6338655843145449a127421245f0d06f088707b17138dd04deeeb591af",
@@ -4000,18 +3989,20 @@
     "00c6415006373278cc29c2598dfa953aa21fbe4d23175fdb4da513f377d1b8fd",
     "57fffe7aa7f62c2b076441a04c0b3616ddf60a528241a6d7a9d484524f04bed9",
     "a547ce5a5d866e36ac359d586d5848e0ffac1a0c21e5d81373441558af115ebb",
-    "8cce917cf6de2edcbc77c6660f5a06f130e0cfb5030cb02629872207e82a1cf2"
+    "8cce917cf6de2edcbc77c6660f5a06f130e0cfb5030cb02629872207e82a1cf2",
+    "6de6805766bfd0b32784694e415bf9b875f9cbb6d7c9cf4c216591fc4ecce5fd",
+    "3c06d0378d642c1bcc3681b60f2109c32922cb2b6041511a1e5e82e2c0181074",
+    "9a2e9361e78d588c5f427fc8624864f05ebe5c9c294973efd5756a02aa98dcff",
+    "8544b22e959f097fba65695b9954455fed107fa8a57da6d1fc09919ddefd1c3f",
+    "5144e313d08db97d447986d05bf15a49480125be7d072c4a8f5dd8ee3bcd7fc7",
+    "6b649976597c2e81faaf7621c250204daf2e5da28c3bff979bbbcec4cd37a95c",
+    "c468f8b44e386e22462f1c5dc51bbeab7502e8db06bde344d87d0e44413878b8",
+    "95a111b7f8c1d4513e4756a5b3d5643b034072bd2cdde7ea43a1f3bf386612bc",
+    "97bb707df0e758f92a30a36b00cf1e8d70e4b2a219be91530314e5741c22d67b",
+    "e728302a8fbf16c7e3a7e3408454cc5d5ef6023a11621ba973ac0fa030a7b325",
+    "4c270813222b4d7cc4267f29cc43affc8f467b5c1e1f90aa4052f6b3a3ce4cb8"
   ],
   "title_hashes": [
-    "e1da7719ca7254f60b71c632a788230420f7956c0a7b047d6b34f0545f369ae5",
-    "41677aae2552191e571198b8e0eed72bcabb34beba5f6ae61435772236b58638",
-    "588720cf0b6866e690549d32a39f66cb9534f3598f409ebbee1175da826c5075",
-    "deb5d0b7c15db02c39cd38ba6cba452320a1e45187a8b31fa3176d804aa270e1",
-    "8aec51ed905101265c5950e02282a6583b6d47abf9d6a852ed2513b779a70b35",
-    "09e14db2f917e87fea9c3589936722ecf937c3cb2b441b6ed97340388782f61a",
-    "28fd94d5b938bad19c7168a056a212c4acc56324a90ab940b4aa2a4c4d70f7cb",
-    "6857367fb17f9f7b49e178a1cfb67c48e3f9ea9710c933779f0a150d48bf5d33",
-    "c64bd875ade4fa95559b79eacb64b092f479e6675b757ca88a79458812a7c4c4",
     "646b84021ea14960f72e41686332412982f8412f808e9517696d8efd14394236",
     "6c1119cd447562d11a4694679d285e857cf8e669ff95d64f75b8b4dd426d4395",
     "6d9ad86e3ed6850ed522623e7ff55aafe78e79fbb8ce790f7d491e76ebacaac3",
@@ -8002,23 +7993,18 @@
     "eddce8e7a2b6b2f2a8fe9889cd91eb23213de00dd705a4202963cca19d739cac",
     "5891808ffd00cb8b087babda30f4fac27fc3cea2c2a92232bfa10bbbbf704832",
     "4a5198e27e18f622effa1440e2477dd236338b99687e92104d97682451a74c7b",
-    "1dd530b07aa67b1698ce6583aad7572806aa78a6314e7706ece99b779d70a224"
+    "1dd530b07aa67b1698ce6583aad7572806aa78a6314e7706ece99b779d70a224",
+    "3856cd2a120e57594b6a34f5ddb7fc9296cf68ea9c9b488824e6c407bc616e8a",
+    "4e5b5df1e34654603575a8727ae5161f8e3794cebf8422807283ee44229b667d",
+    "9fdf6740b19b0c6d7eb41aadea55d135923a347d334b47a6b758e2f39896ae8e",
+    "383a1de4895d9d72ff0fff826c9843abd01b76767aea7d20493a9b88663feb18",
+    "48306ed81c98de8918c1366f52d08d3eb8f1cdc12004b539929fff362e38e6e4",
+    "780d6722f83d674a552820033bdcf4103ade2d9867e2b27e0bba4e05f4e31d7c",
+    "4a32303ea3dfeafbc65546db92c72104fa7b702893931582bcdde3dff7792c00",
+    "743a28644f13097f8529063ec9434b44be7c2705002f76b3dcb9f1d23ade4c94",
+    "020cdbadef841127f3a1652bc3ca83d24c5c1922c72f9410cfc8b8d3d00cefb8"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "Anthropic在IPO中将大约15%的股份售予散户投资者。（华尔街日报）",
-      "title_ko": "Anthropic은 IPO에서 자사 주식의 약 15%를 소매 투자자에게 매각했습니다. (월스트리트저널)",
-      "url": "https://wallstreetcn.com/livenews/3202648",
-      "ts": 1795099717
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "8家科创板公司披露回购增持及研发进展",
-      "title_ko": "과학기술혁신위원회 소속 8개 기업이 자사주 매입, 지분 증액, R&D 진행 상황을 공개했다",
-      "url": "https://wallstreetcn.com/livenews/3202649",
-      "ts": 1795099720
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Salesforce, OpenAI, Nvidia among those picked by US to join AI export consortium",
@@ -11504,6 +11490,20 @@
       "title_ko": "리버티 글로벌, 지고 그룹 5월 상장 계획…4주 내 SEC 서류 비공개 제출",
       "url": "https://www.datatooza.com/article/20261120072507589752ef3052d7_80",
       "ts": 1795127203
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "部分基金经理“抄底”科技股，外资巨头频频加仓，上市公司回购公告透底机构动向",
+      "title_ko": "일부 펀드매니저 기술주 '저가 매수'…외국계 큰손 비중 확대 및 상장사 자사주 매입으로 기관 동향 포착",
+      "url": "https://wallstreetcn.com/livenews/3202839",
+      "ts": 1795127299
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "'GRAND THEFT AUTO VI' SALES SET TO TOP MORE THAN $3 BILLION IN FIRST WEEK: SEMAFOR",
+      "title_ko": "'GRAND THEFT AUTO VI' 첫 주 매출 30억 달러 돌파: SEMAFOR",
+      "url": "https://t.me/marketfeed/1082105",
+      "ts": 1795127363
     }
   ]
 }
