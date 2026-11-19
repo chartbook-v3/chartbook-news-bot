@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795081482,
+  "updated_at": 1795081639,
   "id_hashes": [
-    "13b374294599bd40a6e880fddd88f1276ea8f2a5b4f9a7bf14c9d1011a94f75d",
-    "76717f554a70b3dc05c356296b917e24be4aae898acaf09d0c3e8228f0bb4328",
-    "fb3259e2fb8b8fd0ec593479499d6acbb7ac064f25ab9f8a3767f976f00558b8",
-    "97e4e1b919bf624eb40ccd123dee954ce25fa5acc782876a591398be002dcf66",
-    "7dee69e1702044b30e8a8f671cffdb0905bb000df5211330336aa665de0305d2",
-    "73258a06190711c6b773be289075c2722d79ddf7209707f12ff1bb3b6f83706f",
-    "5bbcfeb536b6940a81e9de1e4b9d805380b56de099c81fbb1b2effe249539b58",
-    "8a2343a43289e7e4bdaf2e9fadcefd9150156ad504a5b24dd4aeaf6f4e7d2cb4",
-    "a4d82d053cd72db344f8e9cf6894113f7a4ae3ded273738aff5fc0673a2892a3",
-    "60a34512b055d1cd18e9569a21d86660c70963a42f2c881a4c641867100ae20a",
-    "9f83e042d52b854fc8fa24aa2b803259b9ec4d7484744eeebf5c7987caafb95c",
-    "daf4590663f36f451167ae228a97a75137eaafe7820681c6246a6efe5ce9ec6e",
     "22e0e278ba2a65c4a611668c5b4a0627d1bf3f4345d6a903fce946f80fa9853c",
     "17654cf3ae6a20db9232686f3e64d8a67e3b964ab66edf992e7d3f73199284b4",
     "43622e2090f508644211649c5e24eb06f2094608fc5d091455d20fcabadd4f57",
@@ -4000,18 +3988,21 @@
     "51b05d49b6d6f1db5054e8e014c576f228c8cb9da98ddcb62abb5ca574db7f93",
     "df80c3187548ac44be5394177f7a8cdbf2088030382b21eed6a8c0a7b4dc2dfb",
     "2e204eecc4c15c14f965ee18c3dabb81703577749e2ea24def5f0628aeb3c600",
-    "66072ad35f85782e4cccbd8af1dc2ea8d62e0b409a933e9733b560e6f0d3e1f8"
+    "66072ad35f85782e4cccbd8af1dc2ea8d62e0b409a933e9733b560e6f0d3e1f8",
+    "b51ecdfe3e39009a3dfa85e6f9b889f698ef7d334afd68e501b756d009c261c1",
+    "d29801e62f7f53f6bab0728b5e2197997660baeca1efb1a17c97f83b83f1046e",
+    "e4bacf3d560e9dd63e1d1d6b2d8f79820a8044e9aab37b0819ca1de60437e409",
+    "05dc0b92f7157abb98eda3288a3cba4b2473a8f8020de53659317fc8254b3699",
+    "af2bed91bc25a75be1827bd127904c78e9c30c80200b81b572d68d782f11d39b",
+    "7855eeb24c17bf401de10839f96ab2687b5cfbeb614b3597a07893bc8c55b4ee",
+    "350d04d8a40255476dc1f39564a305db9c0a2d228dc31176b1f439986a498434",
+    "1e13f3d2e4664adb698a4730e5a9da72118fee422270ad5c41cd46552b7b05f1",
+    "73dcf3879bd8d8b9d87eb1d660ca57cd9cb8069b077d5df8c056211729f3ac90",
+    "9f4aca89b8c7b8a27c87d3fdb22864d6f4302fd1b9f7d83bb8d403ff44095544",
+    "bd7972dd9a1809393bf649dd2e3a80215d2031a0d0264bbc848dba97236bf999",
+    "f5c91261d4c7219ecb8a07f18e06047c91513d18ee4ee0b228074660845a84e3"
   ],
   "title_hashes": [
-    "70e6dd34abe2d44095bb43a42af26a2e123f85413db5ffa80e2602898ed2c03b",
-    "d89dff5dc755cc487f046b5f50d6cffcecd3f7b6610fcaef9891f3684686ee06",
-    "9a1af6c46b45aa585fc179cd8a0e395f37643e6d2543da2b6f90ca4f13588eae",
-    "e66f07431f369ee0a55204f122b3bfc3a5200450f4d7657a788c8127c29f7193",
-    "acce33250d000c133a7729cc52755867bc4fe93be0630bc2defb0c13307472c1",
-    "5751f1d6e300e6967db03daa9dc9cf5bf0323298623ebc62c695a08d63b3643f",
-    "042fc6415da00b2f25b8dbaea56391bcc8340bc19cf6e2edb3a396070ae7bea4",
-    "daa2ff31affff0baa05b4ee739f45bdd4811552d0c4d7f197a0d4421af4308df",
-    "69fa5ee6d303a9dda7dfcdabf71e42d1b99937d07ea3155805a6a551986985e9",
     "5f8eb61b2daa33fadf445ff2edfcc8a1e1977857c63d6338b26db83783af6010",
     "e7d4ea35302a3b34dcd6e327d0a4e600e2dc027ab1c619f3a881495f7216724e",
     "2f930c8400ec629047adbe430ac4278a669e6f83f0a51ab29dbbc0c860d84ab0",
@@ -8002,23 +7993,18 @@
     "d2325feb68f427a7317917af695c3344d5dcc833622d890e8bf660665c5cb938",
     "2da45dbd9ab8b18242a383f430733bda860db31a8d924d9a735aa93798434678",
     "42080919f7b43c2899a79bfe6a05743ed373ff87c96fab9acdfec381efdad338",
-    "06bdf2b7216af883a67dc6ccca0125436923fe0b5f3df3fd22d5fc33c2ebe463"
+    "06bdf2b7216af883a67dc6ccca0125436923fe0b5f3df3fd22d5fc33c2ebe463",
+    "7b6cd48a2064423f5467e3af89e8dff7931b7ea005b58ba3cdebcb88403b2f70",
+    "356c5d28646b248b6041ec8a67004ba07a84c689504f622ad95950ec621a2685",
+    "5ef1f714a9d9c4d87252b665379d0cd1b614f153f840f8ba26fd28ae4c81bcde",
+    "dc304bbae14a1f1a465c6cbd605cf3f634b6da600a50232c5f6f63a4b3730862",
+    "6041cb6b1328ee89d89e7c02dc8b4aa4cbdd16b90e6dd9b0196c59d133efbff0",
+    "ea47644005889aa5ee128719c4ff37a5b50cc9994493dcdce7c8b719f02d5180",
+    "a05aa00c5e3095b55390e6bc44b94e74e99d4bfeccf9b180b7ab199f78970aa7",
+    "2103067f4928cb036269e891c540d9d98eccae8aaecce803c7dbbff7a7d7c628",
+    "c87ae9fc753ae62b38d3cca383367d80cfb7f1e584f752cea9cea009f5718011"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Barron's",
-      "title_en": "CoreWeave Stock Dives. It's in the Nvidia Danger Zone With These Other AI Plays.",
-      "title_ko": "코어위브 주가 급락, 엔비디아 의존도 높은 AI 관련주 '위험 구간' 진입",
-      "url": "https://www.barrons.com/articles/coreweave-stock-drops-nvidia-huang-ai-3b3bbc9b",
-      "ts": 1795053418
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "IMF Managing Director Georgieva: energy supply and al demand shocks are driving global inflation to 4.7%",
-      "title_ko": "게오르기에바 IMF 총재 \"에너지·식량 공급 충격으로 글로벌 물가상승률 4.7% 전망\"",
-      "url": "https://www.financialjuice.com/News/9858937/IMF-Managing-Director-Georgieva-energy-supply-and-al-demand-shocks-are-driving-global-inflation-to-47.aspx?xy=rss",
-      "ts": 1795053423
-    },
     {
       "source": "MarketFeed",
       "title_en": "BRENT CRUDE FUTURES EDGE HIGHER BY $1.08 TO $93.03/BBL.",
@@ -11504,6 +11490,20 @@
       "title_ko": "앤스로픽 IPO: 유럽 개인 투자자 대상 11억 달러 규모 주식 매각 완료",
       "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-1-1-billion-of-shares-sold-to-european-retail-investors",
       "ts": 1795081424
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Wall Street $500B financing pledge for Nvidia fails to materialize- report",
+      "title_ko": "엔비디아 5천억 달러 규모 월가 자금 조달 계획 무산 보도",
+      "url": "https://seekingalpha.com/news/4674588-wall-street-500b-financing-pledge-for-nvidia-fails-to-materialize-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795081517
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Walmart Shares Dip Premarket Ahead of Q3 Earnings - Walmart (NASDAQ:WMT)",
+      "title_ko": "월마트, 3분기 실적 발표 앞두고 개장 전 주가 소폭 하락",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63419275/walmart-shares-slip-premarket-ahead-of-third-quarter-earnings",
+      "ts": 1795081526
     }
   ]
 }
