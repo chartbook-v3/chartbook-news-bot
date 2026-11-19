@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795106527,
+  "updated_at": 1795106683,
   "id_hashes": [
-    "03ed5964cdb5ea9c7bd2a04d4375df230429b5e98b2fe4dcb4bfc3dd3400b5fa",
-    "3a8085ffad8ffde47934be372e99ffcc7e9aa3fa5bf334a6576e1a87cd543fbb",
-    "48173d06e1edc5f0e19cd0d86a14f048cfbff0006ad2f2f9b06bc79b445cda15",
-    "4c943400ca5e72bc89bc8df9c067e4c4b0e7b30e19fb78ca69a8635ef0f1d90d",
-    "dfcbba7334f7ef96a3137ec4005ee51afe94cce16436b8ee6452a6745b1de2c9",
-    "91e87de97fd208841970689a35c254ea9fa5ec0116f105f5805fad126beba18d",
-    "10c892681ec38c75f730fc217b70d051b0d87ecb701c21be5daad2167143e5e9",
-    "892d97d26354ef360ac3407b6a47347f4bd74ec534be688751828c96ab469a72",
-    "d3d583b03d9fa36d7995f0a20e65c8d2ce237bbdf1ed1958da0244f89e797dd9",
-    "b26757b4cad65db3b3ffd820cb58888a1ae3df6b1e039de942f69774fee6ce33",
-    "c16e4c86364cd4fe958e02a5d040a086d22cdf2b8952f84c5f47022e8f30ffd5",
-    "55d84d664955f064febc097aa326aa529440b37761841564d8b91d5ac8308be0",
-    "43ef97bcdad879606f95115eee544d38dbddc2d301002e984c8e309dbd8fcf74",
-    "99720a3f661612b4e5422601b5d0836b207daebead9483a65bcec3be734f9ae8",
     "869d49498c1eeb58d534b20650ab1cc228da32a92d87bdf5a93b65dc9b0c23ca",
     "80a31460e12c8630ab55d69f309bd6eb4a3a57441d380937dc0f7b90c7e369e7",
     "8beee07b9caada2c11241029988eabacd6475f92f2928f17fbdccb8d964ad48f",
@@ -4000,19 +3986,23 @@
     "ee2acf14dc84f93c04af000a7d0624c9c4a6410b0f77195e716c7657be70d92e",
     "aec821da693cba6484732e3aa37a222b73de5a02df81102b197b58c72aa196ce",
     "64727f3025e384d4683d29b6be5c72c0aba8d8d6e9a44d14b897eb84e4ea9fdc",
-    "bc5b4d4c34125517310caeb0b65c2b6e232c1104ac8bdb9ea0bdb2c28a10da47"
+    "bc5b4d4c34125517310caeb0b65c2b6e232c1104ac8bdb9ea0bdb2c28a10da47",
+    "289e078a2ac880b3c75d16c28ce3db902ce44a85bbe8f72d7c6dedd91b7db0d8",
+    "03c865d64c01ce341e3d95919bc1f730ebe89f53a5864e01a7d3459e7f138aac",
+    "c5aa09d2fee89f7d9b45d5e6d94884bb2074f48714442c3b11eb1c2008c84a24",
+    "83d0801b9f865cec330a55bd45df4c295e7ad2dac37a40ae25d005c551cd276b",
+    "82edb33f2515d80855cb1bad3035d231953b7f249ef4c6987ae43790d06c8797",
+    "29454f109295294c80009c36cae715ca01b956f9bd541538dd9fd6f269b81c3d",
+    "2324312e9618f8a23646afa8eb871327f8d21c1336c190f3c0c5bc50c786a32e",
+    "2d316b889377c4f9fdcebe0f375be733cb42da2726632dc572f0fdc85e697800",
+    "0fce790a83e4747a037575c5feb4674a19c97514ad6fe70b4eb31330334ba7f5",
+    "c99952c94b1bfe8abfecf62d3a39503807e275d59d5c82976b211926f31cae69",
+    "d6d8a3df96860720a1fe325c35c87fd5f24fa3dc9e2e65cbcb927dc5a0fe3630",
+    "791c7dec2ea22dc7bbb6e6afda482059070bfd9b19edb8a9dee934acc601a372",
+    "5e6a07a29dfcd32acc593586e1272913a1c0c0cc578a17d07f5299f4ba5a4870",
+    "5de038c106ef8b2ad8f06ac5a5eb10e61c05e619b4b2175a6ec0cdd6b2d57dd7"
   ],
   "title_hashes": [
-    "a8f3ea47781f9f17ae7e86645945c6443c167fb8bfe96de017118416440aa140",
-    "1fe130c7ebcc346d0abd7a9b8821c701e3c155b71b7d11d81bc5c3f91b4b7583",
-    "e12329f592f2ec00080a9ede1a422567517b6f13a05fadd0aaf74b830b62be23",
-    "bcdd822cc027e1c59f7d736bfac50864ae38d16ce0d1ad8eb14f9b6a1e9b5151",
-    "25e6eacf08e0ba22e3c409a482f714357e3b4cc8e98db94a121315dfe73b4540",
-    "92afb5bee936ef891c767a0a0c3b1de190de0cf55ad5f7f3a0f0715772d8f573",
-    "079fd14d37afbafc15c5444f9686b8c13a034405fc723f4d5480090a4d8fbc7d",
-    "a8fd8859999817a82ee82072d3f979cd1a864bf13f6f2960ca694d2b045087dd",
-    "c1fe13918ee0c7a816cbae9d76be294fe043e1f1bff0e76b63055f9433ecd4db",
-    "95156a247de9436725fb2712846a09efa76d4b524729f9118ef0c4e493a9f62f",
     "c79e498b05f83cf50d9708a2c5c6128273b1a2c9565d95f8625e6d42a3b92194",
     "4e0f8d6ee2cb2ec6e9da667ce61ebee0bbf8133ac24319fbafc0adcfc62ed6b1",
     "3175f27d8fc2394457e9810fe015a0815b20499cb0a454de8e1703d91bf774d2",
@@ -8002,30 +7992,19 @@
     "189f99b634c0cc040a0a011cd980ea665c716d4a0e64895f7759db6137d014d0",
     "57e86b01d275f251dd5aefef99b28186832b313f997ee92f536fa3dc3521763f",
     "cbd3eea985311746cb6c1ae2dbc2c4a1f018c5e3098bbd08b9a0d836de3b0f94",
-    "a78f137a9929f2879cec9c5dd5f1eecb9e79aaa4b3e1cf761830843df3af9302"
+    "a78f137a9929f2879cec9c5dd5f1eecb9e79aaa4b3e1cf761830843df3af9302",
+    "89934500ba1efac5f2d2fc16617cc331e9f7592fafd258004a790b5bdf618d5a",
+    "e62fb76589ba1028df9c0e71b44d099b1fd9ae347f4452e22961b862b7093871",
+    "96825cedb8d5d7a87a1f25e3f81d8f90f562c8942250156077d9ac9ecf8fa4bc",
+    "2680c6156bdca8d6dfb5219c55bdc6284cd4cd7198640b5c45c8acf250e14252",
+    "7b0c70bbb5c5f1d87d26d378df5bc94f92ff79ff0b4dc15be5fda483ff48e065",
+    "b2c85abe72ad707800337403c0ee159014c3a7f09fb8e820ef50490992946f16",
+    "163e3599d81fc59837216f160b0548a1ee3346f5892de06a1d3a536bdd18d4af",
+    "38196d5fa64590167af185ff2fb2f120884926c27cc49f5e4e55cf73c215d378",
+    "874fe7355906867c7d593c1a9d31deb8e441eea27ab5095fbcbd2dd140ac7e7e",
+    "82d2940b3f839cc5486bc175463bbf98c7cbb14666de12de799320d12bc5b1f8"
   ],
   "recent_sent_articles": [
-    {
-      "source": "StreetInsider",
-      "title_en": "DAR GLOBAL AND THE TRUMP ORGANIZATION MARK SUCCESSFUL LAUNCH OF $700M QATAR DESTINATION TO INTERNATIONAL INVESTORS",
-      "title_ko": "다 글로벌-트럼프 오가니제이션, 7억 달러 규모 카타르 프로젝트 투자 유치 성공",
-      "url": "https://www.streetinsider.com/PRNewswire/DAR+GLOBAL+AND+THE+TRUMP+ORGANIZATION+MARK+SUCCESSFUL+LAUNCH+OF+%24700M+QATAR+DESTINATION+TO+INTERNATIONAL+INVESTORS/27372103.html",
-      "ts": 1795079896
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Palo Alto CEO Nikesh Arora Says Firms Haven’t Figured Out AI Coding Security - Palo Alto Networks (NASDAQ",
-      "title_ko": "팔로알토 CEO 니케시 아로라 \"기업들, AI 코딩 보안 해결책 아직 찾지 못해\"",
-      "url": "https://www.benzinga.com/markets/earnings/26/11/63419139/palo-alto-networks-ceo-nikesh-arora-claude-code-codex-cursor-security",
-      "ts": 1795079903
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "中国贸促会会长邀请马斯克明年参加链博会",
-      "title_ko": "중국 무역촉진회 회장, 머스크에 내년 공급망 엑스포 참석 초청",
-      "url": "https://wallstreetcn.com/livenews/3202481",
-      "ts": 1795079930
-    },
     {
       "source": "한국경제",
       "title_en": "삼성전자 '투톱' 유지…메모리 대거 승진 전망",
@@ -11504,6 +11483,27 @@
       "title_ko": "애쉬튼 커처, 앤스로픽 지분 가치 70억 달러 육박 앞두고 공동 창업한 VC 사임",
       "url": "https://www.benzinga.com/personal-finance/management/26/11/63440731/ashton-kutcher-left-the-vc-firm-he-co-founded-just-months-before-its-anthropic-stake-could-be-worth-7b-did-he-walk-away-from-a-fortune",
       "ts": 1795106526
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "ANTHROPIC INDICATED TO OPEN WITH $2 TRILLION MARKET VALUATION",
+      "title_ko": "ANHROPIC은 2조 달러의 시장 가치로 개장할 것으로 예상됩니다",
+      "url": "https://t.me/firstsquaw/194274",
+      "ts": 1795106550
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Chip stocks pare gains as initial enthusiasm over Anthropic fades",
+      "title_ko": "Anthropic에 대한 초기 열정이 사라지면서 칩 주식은 이익을 얻습니다",
+      "url": "https://seekingalpha.com/news/4674787-chip-stocks-pare-gains-as-initial-enthusiasm-over-anthropic-fades?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795106679
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "ACCORDING TO CHARLES SCHWAB'S 2026 MODERN WEALTH SURVEY, 60% OF CRYPTOCURRENCY INVESTORS EXPECT TO INCREASE THEIR HOLDINGS OVER THE NEXT 12 MONTHS, A HIGHER SHARE THAN ETF OWNERS (56%) OR STOCK OWNERS (52%)",
+      "title_ko": "CHARLES SCHWAB의 2026년 현대 자산 조사에 따르면 암호화폐 투자자의 60%가 향후 12개월 동안 보유 지분을 늘릴 것으로 예상합니다. 이는 ETF 소유자(56%) 또는 주식 소유자(52%)보다 더 높은 지분입니다",
+      "url": "https://t.me/marketfeed/1081809",
+      "ts": 1795106682
     }
   ]
 }
