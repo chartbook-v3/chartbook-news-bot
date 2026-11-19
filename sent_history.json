@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795129246,
+  "updated_at": 1795129411,
   "id_hashes": [
-    "c3d80fad0b5c0316c5439d09381b2e4ce3ed9e29b9f0fda32df7b300c521543f",
-    "b6d2bdd599089aed2215803ef25ed97193e3dcfb51068d77df8f39d2832cb4f9",
-    "783f37cef190da97f970eb95276cb0418d3150b18684aa5b53db3fd10cd6ec7d",
-    "fc921439fdcdbc912c65790bee917c89bcdb04bb7febf0007867361c87d8775f",
-    "d8e7ecdedbba91f52f65707c7c37e830e768846a4eea3defa9f1f24c663ffbdf",
-    "e08ae7e63efb657f7bb57e0b0bed6e9910b52a88112e2fd76e7c192c08be2c89",
-    "13fbff1898cbfab780f9a4b0d5b3896c99c1bffc1c77e26523ab4befd625771b",
-    "3824f26ac9f37f31a26c5f8d067f40e7ebc207ffd966c9ebb7bb24e2db4d721e",
-    "c2782fa6620d0fe3658284ddc1d3c04106138e15abd8ee675af1acf8ca33cbe0",
-    "1f74f8e75b3078924faa82d39a6a639be4bd8efa5adc54beb2ff19af10066633",
-    "53eee286bba4d9e952d083d130ba0d4308730b9365facc15eb4dec0f736ab4c3",
-    "a8c0bf95851304b97132daf3b3fae7d6908ec6db91071742cc0ae1862a3b2e88",
-    "22db123b8f3a169f70565d11ee935db9c2498c6fb53f59f46c9bcbc67039b2c4",
-    "a55f5031af8b405603afd89472085d4f5121ce51e24f5bd6bc8f1948beacacea",
     "e6b3c34858d48dfa9f3814860bd9531305a0d3fe264ac8197455a05ff3c3f132",
     "acbc83525a2c47a42e7ce54f8a384c921c915bacba9a12834e01e1fdc04e3d81",
     "6ea4f157ca838d62f9f32d6775b1f436071e83a71a3e6eb4fd240a3c7de93b8d",
@@ -4000,20 +3986,23 @@
     "01143dce400b1fe016567a6a932d1008f01ff4e63e6886c2cf6e5dc7aa8cde5c",
     "f532a108e63491bfa71acd65d8522e3edb09cb0e972cfc8874230c0aef4a5084",
     "7f36ea05d3429e3abf98cf8c8872d349449aa8fc71dc0687bbff969e78d2277e",
-    "e1fa23500d78b4d9393e90c0367d1f3863201c1ad242e31fec4388f10d564530"
+    "e1fa23500d78b4d9393e90c0367d1f3863201c1ad242e31fec4388f10d564530",
+    "7918f6220bfb4dece44b9ef0e6c9b35a7a2f9469e5508581b22cdb5e339a99e3",
+    "5c0854518b533e804f0b2454f0ffcebd7661588c531cb3322ee589dc3d624f2c",
+    "f90b06e7649ddaff35ad0a68d1307be9d70f76c2b43cc516dd5262e14e5fe2f5",
+    "ef4dda5e72600528aa4f62e0e9a5084168b02c06f4bb02797b511b8a9298cb9e",
+    "d4d14ce1a0e70b7da9813d240139943ca54cd9bffd79bb92f4d81a1f3b250371",
+    "0f520c9524b2b90818545e64bc65347278117a5e605845fc6050f4346b1385fb",
+    "4b7b7caf6f52b42819e4539086662366d0e99dc51accefae1e5f3f5e435c7701",
+    "49fb766d683d2f6c2079a0a95614d18ddf25ff59c30532107ce97354051503fc",
+    "9349ff8f259cb0bc20c2ca60d4a30becfaffbdd370437ffba188e17919e5b065",
+    "858778d820d4aa59e408d3a2b3d66c3a85cab7dfd929bf974c3e1635ded2ade0",
+    "bcd9c4d8f4c9bd2860ecfe56823669b619f92dd7729558065df57a73619097cc",
+    "12714f43a1890ce549b7fcd30db17e2ea40616fbf4230e5305ec0afad85aa324",
+    "fa132edf4d18d1a1ce95dfa7e385f88d8c83466bee7ffc95d11c6aa0c7b6ae01",
+    "5925361d5b15e9f0bfaa5924e0940a9b4cd211735262185a080924813610f272"
   ],
   "title_hashes": [
-    "109aed27123726c663a979663450762cb2f3ac3da98ad765bf9c4d35973701ac",
-    "e699c8efdc40558a600b584cacc3afa6a53d7033940d81d54dbc7416c5441efa",
-    "1b8fb764ad1f28e1666cc50cb9cbd71249767913be8ceacd42e56413b6c3b0fa",
-    "7422d527456b6ca8ba7f0bdd163d21838214a0c42244327dad2fb9887c0801c2",
-    "50d643a776b6844c21144160c73abaf92d4073edcc34764746d38e72fddf901c",
-    "dead17ce0a0c5e90494a5c206d14bc062d2ecc62aaf49d568fdd0db7ee6246cb",
-    "d981c57d7271acc65d48f825b6ee3ec0b389464f7051e3d39cada1f7357abc75",
-    "46237cd97f6fd74e8adc3e030341e02546b550ba58ed3f5e5476b1c72ed84cb0",
-    "d5df3c6131b7e72f45ccd857d9a79bca01eea170ccf04c24a34e82b83915390b",
-    "b26b1c310823332cf8a4578a913346ad32b27aec95801946e8e1e06f7566f577",
-    "cab216b707e786390b9ea89c4b5eccbd0b5b095a23f98e63dfe35a7aef1faf70",
     "94090daf11b2877de741cc173944758a900bdce2f8731fd691684c9a77f4dcd3",
     "1d650021520c309c62da9570640db5e6bf77cd438ad4b9e2f9f3a949d5272309",
     "1f724e4a7e2204f68f0c7c21733466fbb149451cfeb0f463558c25c14fd05d02",
@@ -8002,37 +7991,20 @@
     "3a00ddabea57fef681ecd4b236ac117ef1f95de986a724567f51eb590e5f7df8",
     "b90094087d4829db854525c9196d88b9878a80b9de23abefc4da3129207a3a36",
     "360496201f126dbcee831eb04eb3a3f0a495f0f8ee3974f9ace4f01fce1b06a2",
-    "62a93f8b6e334811c343c9c1787fd61704e7875343ef078d4203287401be7fa8"
+    "62a93f8b6e334811c343c9c1787fd61704e7875343ef078d4203287401be7fa8",
+    "2d6806e4e8006f447f97ab4e9ed4b016234c7727f9fa0a72d7fc6914493c2a77",
+    "430117781358bf10f9d28dcf66ab98c526e0ffc951ec4f1c4439d4ee05d0ace8",
+    "5a7df4261c3f1821f8bc103ab9961de28ec269d03b4f9d880722c75c65d2ab68",
+    "67ed0e30c00096f72962091e51bc34406f5d8e1c90d37fd8c112f265f93a3961",
+    "0d59061310d0d7073b5a2735ebd05848de29b318465239312d1346212b21a72f",
+    "50a0333286f1b57bbd8aaf3275f0611f2583bd350db26f7a42aefa4ff36b3bc1",
+    "a48fbe5382c5ca33b021a58437f7291cd59dd1152c4886d8a2360a78d235e806",
+    "6c26bee3cfba8bd76051b588914a61a661c4d31abb8afeb20b077345898bb19b",
+    "07a28b25588bb20b72699c9369a0571efea0009e206b2cf8f95130bbd4187b4e",
+    "f3fb9c14789f7fb91262ada7bd69e5b46767e0754015c30b82cf0d01d96927d2",
+    "6343b04f058b58ec0d95052a5bce9580582d3ab5552cb0362e8268cccb460910"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "美国总统特朗普：没有哪位总统比唐纳德·特朗普更坚定地站在美国农民和牧场主这一边了。\n\n现在是时候再次采取行动了，而且要快。",
-      "title_ko": "트럼프 \"미국 농가·목장주 보호에 가장 앞장설 것…신속한 행동 나설 때\"",
-      "url": "https://wallstreetcn.com/livenews/3202671",
-      "ts": 1795101247
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "波兰预计明年初与美国财团签署首座核电站建设协议",
-      "title_ko": "폴란드는 내년 초 미국 컨소시엄과 첫 원전 건설 계약을 체결할 것으로 예상된다",
-      "url": "https://wallstreetcn.com/livenews/3202672",
-      "ts": 1795101304
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "WeRide Q3 2026 Earnings Preview",
-      "title_ko": "WeRide 2026년 3분기 실적 미리보기",
-      "url": "https://seekingalpha.com/news/4674758-weride-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795101335
-    },
-    {
-      "source": "FT",
-      "title_en": "Gulf flare-up stokes fears of return to Iran war",
-      "title_ko": "걸프만 폭발로 이란 전쟁 복귀 우려 커져",
-      "url": "https://www.ft.com/content/090da02e-2ed1-491a-a2cf-3c8a6b10522e?syn-25a6b1a6=1",
-      "ts": 1795101400
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "报道：赛诺菲考虑收购美国药企Insmed，或将成为近年最大生物制药交易",
@@ -11504,6 +11476,34 @@
       "title_ko": "Union Pacific과 Norfolk Southern, 합병 신청에 대한 완전한 평가를 기대",
       "url": "https://www.streetinsider.com/Business+Wire/Union+Pacific+and+Norfolk+Southern+Look+Forward+to+a+Full+Evaluation+of+Merger+Application/27377648.html",
       "ts": 1795129245
+    },
+    {
+      "source": "뉴스와이어",
+      "title_en": "바커, 차세대 반도체 공동 패키징 광학 CPO용 광인터커넥트 소재 개발 정부 과제 선정",
+      "title_ko": "바커, 차세대 반도체 공동 패키징 광학 CPO용 광인터커넥트 소재 개발 정부 과제 선정",
+      "url": "https://www.newswire.co.kr/newsRead.php?no=1047574",
+      "ts": 1795129344
+    },
+    {
+      "source": "바이오스펙테이터",
+      "title_en": "HLB-HLB생명과학, 합병 재추진 \"결정\"",
+      "title_ko": "HLB-HLB생명과학, 합병 재추진 \"결정\"",
+      "url": "https://www.biospectator.com/news/view/30472",
+      "ts": 1795129346
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Here are the major earnings before the open Friday",
+      "title_ko": "Here are the major earnings before the open Friday",
+      "url": "https://seekingalpha.com/news/4674723-here-are-the-major-earnings-before-the-open-friday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795129349
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Gap Struggles With Slow Start to Holiday Quarter and Cuts Outlook",
+      "title_ko": "Gap Struggles With Slow Start to Holiday Quarter and Cuts Outlook",
+      "url": "https://www.barrons.com/articles/gap-earnings-stock-price-2722854e?mod=RTA",
+      "ts": 1795129410
     }
   ]
 }
