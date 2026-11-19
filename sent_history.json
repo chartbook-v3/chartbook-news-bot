@@ -1,26 +1,6 @@
 {
-  "updated_at": 1795088174,
+  "updated_at": 1795088328,
   "id_hashes": [
-    "7034e53f33599f88a45daf1990830b2ed65e43333233d4fb9736fda3ff8797b9",
-    "ffb151b247306cff3a5137cdd147cf96ebb6a50172a5735e4d8f8b9748bef804",
-    "2a57dad13604da66ce0119d658d1e4988a37e6b32974bebf8fde0bd7b5c0f185",
-    "41d7b3e2bf5b19ff56e3be0744ad719f88aa331b242f12999e8a06a73518d1a8",
-    "8689dc44e9502c76bb38891282209bae842e89542bd06cc2510524ec01885fda",
-    "51f8760fe52cc807cddface26b70fc504ea1118ef47bb47dd38c17fbd0b85012",
-    "d7425e3e463adf9f4ad80e08d8d67c45e914715baaebe92c41dedc0355d906ad",
-    "336c2d885ff0c20b8a9ac691b83c78cee4f3dcb2ad9988b994df802586b65ec0",
-    "b1330cd1fcb8e4c32059788a07de8018339ed4584872edafae325df31eb760df",
-    "d7da4bfa3f2ebbadb886fde3154f0849bd15a90fa913e2356c39f463bb942405",
-    "281ac0acf5eab83591f46863f5f6923c1581df6234b5aaa5cd895f2fa5f2aecf",
-    "c4613047f08c4f5a4460238a156cca5e2f071fab75e544b1fc171d5140107a0b",
-    "a9799c0ecdea7084ef441103273be74b744000b280776354139e62a9538c3488",
-    "bf2b20a5e4e3df490820dadb3a9ec078cded2d2a6efa684646e96d8ed04140f8",
-    "99cb4cdf2527a005f281beb52ec9224ee7bd66d330e8306670b9aa6f15c03cb8",
-    "d6da45ef9a73d6078884063e3e79582f66644fca7fb4c833e6638c7600a184d2",
-    "b515541411f4d50c412525006fb4a23575c26a408c75274ce994e281acd01f5a",
-    "1b80b7dae0774fdadeb69cb0ebf8c0b3e0ca87c1b27b9b8f839dfee73fc235bd",
-    "00c573fda3afaa9487765915ed4a2bac8fde155e37fb9c6daca6fa9b12a8a5ce",
-    "eac0d8994e32439b6e7cfa422920c33ff0df540b40e360b4d909c5d9ae48a5a8",
     "d60fba0cbdf89f32a4b1fa6da54dfac61bee1f380126dc9568dc97a3457e1e12",
     "8a4b4ac11904c30455888e530bab139f6ab2bcdf2348df0bc9562a793e545885",
     "7908fec2f14bc986b94189f09225348ef3a6db1a4fe6aacc78d5cf156c7e916b",
@@ -4000,26 +3980,29 @@
     "b8f93c64efa66519a282d83a706c7dc833f30b66764056b3c7e94d304955134f",
     "870bf5de39be392281192f145b7cd1ece76172f5bd25b5358185e5bf99b682a5",
     "1cf200acff5adc0ff7c12def0ad22e5194f363d4826459f363aa139008dd8caf",
-    "9e95aff0035f3419c0cf4268f0230b374f7d2ab5aa5fb1fb0e8ec017a96c2617"
+    "9e95aff0035f3419c0cf4268f0230b374f7d2ab5aa5fb1fb0e8ec017a96c2617",
+    "db4d49df7c3897862b6acb03f9ce1b46cc85d7e31c06178833cc7f7bfa0da1be",
+    "1e2e81b3f7078299b091d446c4f8fe2f0c9f804f2862f558da2fe7c424a1506b",
+    "7093b71f94b221c0392deefea93086b6ae3acb808ae809a55ec0807ce2070191",
+    "8dd652ac5ece9bb29259abc78d7bedc1c42d82ea96ec95377d6739c61dbe523f",
+    "081199bca07c2372d39f8ba06c95a5315d694a55e818c1b4a0d4e9e50213b894",
+    "8401c7991a4c4fe6391cb3523b40c91e91976cc01c81f5a76667c858907921b5",
+    "56a46e2a2f2c4458e6bb8f16263938e9c3cb1c41c47bdaf9e4117bb3e30e79b6",
+    "704a2f546d309f9f06398ed7720ceaf4606685c4b4737b986e4ae1cc53c7198c",
+    "f4d2df3908854bb023cbe11ace0613fdbdd7c35061ca378f98fb1b64e602796f",
+    "6137ae2018131c74dec88f854139eb925fde562d92a875956a5e0d3ec8daca10",
+    "5b42dbed7a17b1614c7e681640418cba70c29d42f59197cc77d8f720270d78f2",
+    "bc5a96ef8a0d64672c9789710753de55e442285f2730117cb5e91b1abde27419",
+    "2cb92056d9d66c24cf0977c2a7b93c3906ef5f28fe23cf425434f521c1d0037d",
+    "6ff3ad597992b3c88ac1c8d06d68727901122b341cec3aefc6a7dcccfd57b468",
+    "1bae33ab65351da2323b512ce185cc18913e976d88ea272902aa7deab4301a85",
+    "270aca7f1ee1db47cfb70e70724e5e8d2f5c5e9a5d9f2ace155f31d074c0ccf1",
+    "cfb777bf9411f727ff63ae45db44ea7e2c85c59aa83f80839c3a0f30f2447bcf",
+    "aa15c3f04db88c7b37071330bb96781208a9581782c30f03cad65883cc45c0bd",
+    "04f1694149a8fa77a6ee6777bb6b3fa2d91cbcab53b9a1a3764912665156299a",
+    "c684ebde8a86d57ee527bfad1447c610c9381710a821707b96dcad2aa23d282d"
   ],
   "title_hashes": [
-    "baeec724cb7717affc2b2aabcee145e11de9378d8dbe5008bd38fb6b4cdc963d",
-    "9421e19a36145c0b1730f0de6929dcf6ab7579352852fccbf77d28e92e855d80",
-    "af50cff5554c2450636fa9b8baa05d5ad7cc58cedcdf188d90bb4c37f151303e",
-    "8e2fec756eab5c47da82dcfb471f89a0922f5905bd60d786ce500cb161fee289",
-    "fa2dc979854ac4b2a0aaf0f94d1ec18e3e137f8fec968b247e76180146a94e6e",
-    "d722a58b0aacfd2c583790d8457287235d861002b996640868040c3877318145",
-    "3f8711556df1c3d98a1c1fcacfe7d46873c5e1bfb54099e72da63aed75ef8555",
-    "f142e2b635a31c3c086bf3e5191a4ee3f60d3b21671738bc401e466b6d47381c",
-    "f9fe58d29e8b00aafdac737049341d9ccf5c74483ee504f04e05ec0724c7aae5",
-    "3d321c45bfa11b16e646fff3ea1f722d35888ed839533819434dd865295ef164",
-    "7adc986d404323e55aa819f15c14379718da169048478837f19a9bd624615ecb",
-    "3ecaf166de87ba62f67e7f7b063138f62fde266d55cbd2b9984991c5f3a7cfd7",
-    "432d5937d862cff2b40714f108239f4e939ec7e59bd48e71795e50b1980fb50b",
-    "0556ce78b7255b5d0e70d0766a4bf245c7a57d00ad14817156a44b98602b1653",
-    "a0c4fc1a1a129763bcfff5c40123cbc04ee456f4a63af1dd26a448010827b1ca",
-    "8070c57ee92c4871628d2de9c843dff86a4f6fea984186c0752c6709463edf15",
-    "c66850ce044dbc68c01068608a5caec90012ada53daf5aaa8b9c3b782bda6263",
     "85b69db9a1ebfef9fdea5e29c9ba5c78e9aee6bc93571507f856202fab006431",
     "b8a073f9100bd40b1ea17ad6fc08b5866fe73eb96cc6809122760a366967180d",
     "901216ed122d476c79faa8864bc677d2179f81f725a8f164f88a7e2318bcf5d7",
@@ -8002,37 +7985,26 @@
     "0a9a20f81968a53e014a56867b955c2754bf9f6cc89cc567da81ca9424f6c85e",
     "d3014cc7d07fefe088161cc30cf2b18d46485f4e4cecd7bd6cffb45c08da5566",
     "a13db2a1ba49dc870e5f60389cf03dd0c4b76983d246e97b437e60294ec1c8f9",
-    "1e612536dfaf7a6083ed6ec1323b83b75b69bff964ac5804f2ad992d65181b94"
+    "1e612536dfaf7a6083ed6ec1323b83b75b69bff964ac5804f2ad992d65181b94",
+    "a663bb88f328274d40ff0cd2a94ea7aa99a025a3293131775f03f55698a9628b",
+    "0275253d8e2b4f19ae8e75a5beaf95038c585196bb1715876aba8c826cdfd981",
+    "2d80590232f423d975620ce5ed7e6825f857479a66d7701a3fc3d708b14f9542",
+    "307866240385efc913609402eea3f9d7ce6643107456a199264a585c299face4",
+    "b657246362d8b5a11f273d03754ce18cd2a3bd3563b64fa07e51fb5d76244926",
+    "8fe8e1aece71ded1a3ca1c2f86625e7b703f527658f03df93f022ddf035124ef",
+    "c68dcb364c117f2a0284a3df66ab354b7b5a23526f2c1f941f8054ed6b03a19a",
+    "ca76296128a0b6edc27cefe08d3d159038040f0728e6130c4da600d1e079a4d5",
+    "2dce57aa06d4be643037284e870c72dbfdf117939aca8a2d4bb58b019cab6bb5",
+    "cd22d975bec215f1e5fa9c5f55c7cd21b6cfdc2621c9cef64b2f70751a992124",
+    "3051156dbb9499b1f2f4580a00276f8ee4d40f6a51000f1bf0e34a8ea868fbad",
+    "54dcfaa83ed323e7ff88bd88e3ea1a566f89c1a271323cff39f5082d97f3c23b",
+    "9f69cb0edb7c799d231c20da8bf6ed1b6563efb08d791880da4a4d734346ff44",
+    "d8eb53d72328413bfe824b33492798920adad6f473839c1b0748b4191a6688c6",
+    "8a11d736fc00789948338b026b7c572da92eaa7d1b953b8db990309a823ed52d",
+    "6d14fbeee58c6f23e609bc074d70e54fea825c551e3f95001ae2f1034e9ab576",
+    "0a387c20c594a2c67a8293311a3cda03507797499e86318358b781cbbc662410"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합뉴스",
-      "title_en": "GTA 6, 21세기 최고 평점 게임 등극…메타크리틱 99점",
-      "title_ko": "GTA 6, 21세기 최고 평점 게임 등극…메타크리틱 99점",
-      "url": "https://www.yna.co.kr/view/AKR20261119087400017",
-      "ts": 1795059516
-    },
-    {
-      "source": "인포스탁데일리",
-      "title_en": "NAVER, AI·커머스 투자 확대로 수익성 압박…목표가↓-현대차",
-      "title_ko": "NAVER, AI·커머스 투자 확대로 수익성 압박…목표가↓-현대차",
-      "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=219007",
-      "ts": 1795059610
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Thailand Says US Agrees to Lower Forced-Labor Tariff to 10%",
-      "title_ko": "태국 정부 \"미국, 강제노동 관세 10%로 인하 합의\"",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/thailand-says-us-agrees-to-lower-forced-labor-tariff-to-10",
-      "ts": 1795059740
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "China General Nuclear Power Retains 'A' Rating From Fitch, Outlook Stable.",
-      "title_ko": "피치, 중국핵공업그룹(CGN) 신용등급 'A' 유지…전망 '안정적'",
-      "url": "https://t.me/firstsquaw/194100",
-      "ts": 1795059771
-    },
     {
       "source": "인포스탁데일리",
       "title_en": "파크시스템스, 목표가 36만→26만원 하향…“성장가치 유효”-대신",
@@ -11504,6 +11476,34 @@
       "title_ko": "엔비디아·구글·팔로알토·월마트 등 오늘 시장 움직임 주도한 주요 종목 분석",
       "url": "https://www.barrons.com/articles/stock-movers-ddc27426?mod=RTA",
       "ts": 1795088173
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "$ANT - WALL STREET TURNS BULLISH ON ANTHROPIC WITH PRICE TARGETS UP TO $155",
+      "title_ko": "앤스로픽, 월가 투심 개선…목표주가 최대 155달러 제시",
+      "url": "https://t.me/WalterBloomberg/38662",
+      "ts": 1795088256
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "JPMORGAN SEES THREE MORE FED RATE HIKES AS U.S. GROWTH AND AI SPENDING MODERATE IN 2027",
+      "title_ko": "JP모건 \"미국 성장세·AI 투자 둔화에도 연준 2027년까지 3회 추가 금리 인상 전망\"",
+      "url": "https://t.me/WalterBloomberg/38663",
+      "ts": 1795088260
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Loblaw Companies Non-GAAP EPS of C$0.74, revenue of C$19.86B",
+      "title_ko": "롭로 컴퍼니즈, 3분기 조정 EPS 0.74 캐나다 달러·매출 198.6억 캐나다 달러 기록",
+      "url": "https://seekingalpha.com/news/4674618-loblaw-companies-non-gaap-eps-of-c074-revenue-of-c1986b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795088323
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "OUTLOOK 2027: JP MORGAN SEES TWO FED RATE CUTS OF 25 BPS EACH IN 2028",
+      "title_ko": "JP모건 \"2028년 연준, 25bp씩 두 차례 금리 인하 전망\"",
+      "url": "https://t.me/WalterBloomberg/38664",
+      "ts": 1795088327
     }
   ]
 }
