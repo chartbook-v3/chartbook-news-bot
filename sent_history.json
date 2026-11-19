@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795112579,
+  "updated_at": 1795112739,
   "id_hashes": [
-    "024bb116c95a4bf1698e4a6b48a433985263fdee56466af9ce289dafaf3e5466",
-    "ee470134ff012de6b2e69c05fa019b7d7d5b5b9ff98f00650422386b684bb46c",
-    "e0b5ab1171477f76f3d29cddf6de2790ed2b44f40b7d3a5b5eaf38adac41cdba",
-    "bbff21c3691bdbe1183e0baf1ac49ec441266b6942041a3086825c6dd9d6ea2d",
-    "fce6896a507d2c0f5a11f60ef3397bdfd508e5beabed601215bb0df0bcca2b08",
-    "5c3ddaac9e0da3938fe7eee25c6f401b90296a6182e3843ab5636bb915cb842d",
-    "863dc5499993c911695a0c1564471989b2556f21aa1bbdf4d21d16bdcd5df721",
     "939c35754169b3488377ebed001bed753bf750e5200bde4179c6f727fa1d45ed",
     "6e8d4c2e03df215ddd015b6783970cc65cf1853b778ec6b5308a0e84d1982b10",
     "1865338c96c20d55d06670e6ea4b83cba8beea8c22740824fb7a095fde151601",
@@ -4000,17 +3993,16 @@
     "c463fabae180d7af416376fa840449779a6371bbe898384ca2e67931ea3e5970",
     "09867875c60b7d4cdd9f4c56b9a55b4dc35cc809cdc5ef0afe8c3e3ffce7a7b8",
     "15d4f6bbc5e1379a1e13b2291fc2b7b0f4d66ce19129217c9be25a9cdf71a414",
-    "977eb22c218a883d2bee6c31ad7011d965db850aea27b794833c6f3efcfae804"
+    "977eb22c218a883d2bee6c31ad7011d965db850aea27b794833c6f3efcfae804",
+    "fc6a56d4de8ab9fca425f3163ab12aaa1ec3250694e6a7b0bc7d312c79d190e4",
+    "ad61195b17054ee8add10afc1ae69d435f262ab2f9947fd9124968327e84c4af",
+    "c2848fb6847564984b90c60b042dbf1d91b3a5327f8cc5755e1d69f1a6923d1f",
+    "39e60164b7643da0faf66a95a13da8bb97ac35031dbb3856cf939bcb27bbcf08",
+    "292d3a183f92be63dbb4ae703c4c6c8f7647c1d14985a785117d3ab3acf9a5c0",
+    "ed5c77f831a191b2df48aa9bbc87f99d61e7bd7b963f7ea32725cf27a62ca366",
+    "f78e9b8cb1ceaa1585e36f02d01a0accfa647ab4bc06a393e70ee9752588e199"
   ],
   "title_hashes": [
-    "3c99783f7e03a4ae0f1f9fca84dc8e3a480fede6ca5e39980decacdb550c9f1d",
-    "0c32ec05748ecfc292097802c7a1514cf83f7f9a55aa7fc7910a58b41007d075",
-    "4d943eaa911f77d9592bd38d8aea4f604621b5702fbfe6b6589a8226942010b8",
-    "c0275e719cd13fdd206a3937fda09f2d2afae4afc3e3b1ee63e6756427b79fa4",
-    "c7d1666782d93da8dd91f270fd2fa89fdaf76a24920506d77f1d3eea7168644b",
-    "77d520d40e2336d70963644f8dcd3ecc49ae6391310cbc06eb87bccd05ea2e43",
-    "e574da144064cdf51af2e924f4b42c47cd24b1822510b6b04d14b48b510e6680",
-    "2fcc68dfa3965d68d36b7c727f5e5f388acbcd516514cc48d13f49631cf40609",
     "efbb3edee23f43a4d9b2d3a3a15ab03eceaba4b43d1160fda0507ed4336d4aaa",
     "1b320c445c3a866e1213cc445ef6dfbd141e78a60672cbd4e7a520b939807ab2",
     "6d129a84c69babcac353f15fe346bc420c67d8be12ed526e6ed694940c68af59",
@@ -8002,30 +7994,17 @@
     "7b599dc71a06a0b51adc6aaf8abe0791f09296a4a53a7fcba819b0636a37e7ab",
     "47ba993220aa919d6252e6471014741e9b683cb56a153fa3bf8c4de6d3118aeb",
     "365198b5bbc87e96b7ef352c7647667879304d5046a4012f968daf2f2f046087",
-    "ad61c4c737e5fce4ed78d7f35687c0bfd3548d8e34e0f1cec715e5c9de306817"
+    "ad61c4c737e5fce4ed78d7f35687c0bfd3548d8e34e0f1cec715e5c9de306817",
+    "621e4bb4000a4f0fc7af9b2b107089378b2c47d408f5d5d282aee758312a4098",
+    "c3915430abd13ba1cc4ae9099b2454973aebd3a08800431f49aa19a6c7b86301",
+    "175d3bf94c18b8bb5e275cd321a571ea0b7212d4c2c73fe75cdb40041217aee8",
+    "a90c358c5835144f8bbd28d75acb4029d877cc2df1f0a0a5208297b2dd8277a5",
+    "f2d6dde2b8ba254895b9e9356b285ac5742144f7d1eddc1ce41db5f46d9310a6",
+    "67346ee55ee6335aa94a0b92ca218fdf30150692fe01fe38de8d8e7e235548c9",
+    "c050035c79061a7c1793a97bd26cb890795345726f8689b9438b62493f1a4d4e",
+    "32831dab92d699f33fe02c5abea743047b40101e0ecc579b88e57bbd8224c800"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "IRAN APPEARS TO BE PREPARING TO RESUME OIL SHIPMENTS, TANKERTRACKERS SAYS",
-      "title_ko": "탱커트래커스 \"이란, 원유 수출 재개 움직임 포착\"",
-      "url": "https://t.me/firstsquaw/194231",
-      "ts": 1795086934
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Anthropic IPO Has Stock Bulls Dreaming of a Year-End Rally",
-      "title_ko": "앤스로픽 IPO 기대감에 연말 증시 랠리 전망 확산",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-19/anthropic-ipo-has-stock-bulls-dreaming-of-a-year-end-rally",
-      "ts": 1795086963
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "[ Z ]: ANTHROPIC PRE-IPO PERPS NOW TRADING 26% ABOVE IPO PRICE OF $83 AS TRADING SET TO BEGIN TODAY: MARKET",
-      "title_ko": "앤스로픽 프리IPO 퍼페추얼 선물, 상장 앞두고 공모가 대비 26% 급등 거래 중",
-      "url": "https://t.me/marketfeed/1081571",
-      "ts": 1795086965
-    },
     {
       "source": "Bloomberg",
       "title_en": "Japan’s Takaichi Walks Tightrope With Russia, China on Asia Trip",
@@ -11504,6 +11483,27 @@
       "title_ko": "역사는 인류 주식을 Amazon 및 Microsoft와 같은 지배적 버킷에 넣었다고 분석가는 말합니다",
       "url": "https://www.benzinga.com/markets/tech/26/11/63448650/history-puts-anthropic-stock-in-the-same-dominant-bucket-as-amazon-and-microsoft-analyst-says",
       "ts": 1795112578
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Microsoft CEO Nadella Questions AI Clouds Reliant on Few Customers - Microsoft (NASDAQ:MSFT)",
+      "title_ko": "Microsoft CEO Nadella는 AI 클라우드가 소수의 고객에 의존하는지 질문합니다 - Microsoft(NASDAQ:MSFT)",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63448471/microsoft-ai-capacity",
+      "ts": 1795112606
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Deutsche Bank CEO says clients calm after data leak",
+      "title_ko": "도이체방크 CEO, 데이터 유출 후 고객들이 진정했다고 말함",
+      "url": "https://www.reuters.com/business/finance/deutsche-bank-ceo-says-clients-calm-after-data-leak-2026-11-19/",
+      "ts": 1795112735
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "The S&P 500 on track for a third day under 200-d MA",
+      "title_ko": "S&P 500이 3일 연속 200-d MA 아래에서 궤도에 올랐습니다",
+      "url": "https://seekingalpha.com/news/4674844-the-s-and-p-500-on-track-for-a-third-day-under-200-d-ma?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795112738
     }
   ]
 }
