@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795113500,
+  "updated_at": 1795113651,
   "id_hashes": [
-    "48d9b4e44b885c4f6d239fcdf3494909dfa783307f71e84b6ab6b6686ce1c324",
-    "4d76947a4c5954b7dc7527c4a7f5622b3a7f58ff08a96a0c229b918774ec92c4",
-    "de3baf328b3392d7f2010d6446e6a9c1ffb3cf049ae9c93dcf5f1ea6e1861cd3",
-    "12d8e24496ca931394335307f82d509847e45d5ac08b1ebc1dbf58dca735b430",
-    "0abb8b4acb59c8313d69c8d19ab3e60ebb07068959c0f0d5c440d0a081c419c0",
-    "24d69cac51f44e83d4171cf2d9a138a7c7b82857cd0bd191d14714de12478c45",
-    "738dffcddbc2790c5d1bb1e2c9af09c732369c608178c43fcca0b1163d173415",
     "81bf5e66bed3c169dd34959d1c2ab44a11ef91cfb057234c2ac67f7b5a90e50d",
     "9a0a908a86049ceb6a75fdbe5bf8105b9856fd4d2c4687c67a1e290ee5335749",
     "d82394e8b5b8457ade8ee732fcb046436fae9e2248c43837037551186d56dd35",
@@ -4000,13 +3993,16 @@
     "0e70e42a494483c87ebd7b5dca3e01b4a1f7ff29f791c25aeaec7ed27f8981b4",
     "c3982a67be48721f54dad5e8ac2e16329707ba7ba3f11ec35baad80225dcebeb",
     "69d0ffd40e06d7e705d769de738078f50de62c05060c52a2714ff44416a7e690",
-    "1eba9ed2a8cba2d8c4fe48dbc49179b2eacdbb1ffed5fed09edb7634e51cc193"
+    "1eba9ed2a8cba2d8c4fe48dbc49179b2eacdbb1ffed5fed09edb7634e51cc193",
+    "67bb20533ebb173d5c4b1f614944ab60273ff7831df9eeae38920e665fd085ed",
+    "623e6c193b740919613706f3e7f24a237e36ad04f4431033e9ac35f3ea9b915f",
+    "69a4951df0fd00971a595c1e444281c647344cc8518758826d60e195ba9d8525",
+    "f1c03ffc4031713f0331025adb1203a7987871378166fdd3acfff2a189f6e040",
+    "b0616e5bc382d6b4d5f26e57d66a06ee50a9b1e3ce7ae71895e43f53b172ae7f",
+    "bd437ff6fe5227f7bcc53c3144f0457874c660b59905d1511b4a8d68067a9d20",
+    "351858bb13ab018d2395138b67e501d11efb13949a7b15f39504e023c6df4fe6"
   ],
   "title_hashes": [
-    "972e573b067329cca44e1113dae2da1e544c8a19ab0202402871bfc97bcc1a02",
-    "7d3587ef4e93ab8664f0d67a6f5cbc68e7166132f67c5a1ed8f98cd311e1c436",
-    "779127378c8ae4888a55372aa33a1284d54fc53eae9d89dcf1944c7e988cc8ec",
-    "8ab323ce7c9727c47da768e29ebe1928063844e3dc77d3f78e4c1b3fa9e2b3fb",
     "b113611ce207edd7531c3013f4d41e29210aa69e175621ead7bf5df193fe8005",
     "2d3c7592757f9599692d03330248b0ce089236fdfcb9062435fbc75a107c3b5a",
     "cdcd20eab0dc6c8ca2647f24b3d26d1999e78ffcf93b0287c459ff4d1254db1c",
@@ -8002,16 +7998,13 @@
     "4e19eab1d655b057a670b693a9cc8b72b63b9839d46548937548dc34b1993a62",
     "1afe915c4b30c86d5ec28c2aac6651b00f22fb6670df5cf095cd594ba1fd6e56",
     "9e7fbdfa5fbbf795c1730278922f388e7d7dde701082f2ac7f053159f4be6a0a",
-    "8b4444fd0d11981bf5a85ac057e62724adf265d90a84f80b207429037e440c79"
+    "8b4444fd0d11981bf5a85ac057e62724adf265d90a84f80b207429037e440c79",
+    "a136d49bd3f080471baa51780aa1019e739861f65aeceb5b260a8932cc279ea3",
+    "dfac1cbce7295ca91f351c9edac7227419a0647bcd36b9d5009a9eff54d49cc7",
+    "1c4f6af38953dfaaf9471989d14ff539f7d8249b5f2da741354c60e82de309d9",
+    "966a9e8acc7f35d6a20c75dd577ccb84a2225bfa6dd87d743b7b30ebddbe90aa"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Nikkei Asia",
-      "title_en": "APEC live: China, US, Russia vow to increase oil supply",
-      "title_ko": "APEC 정상회의: 중국·미국·러시아, 원유 공급 확대 합의",
-      "url": "https://asia.nikkei.com/politics/international-relations/apec/apec-live-china-us-russia-vow-to-increase-oil-supply",
-      "ts": 1795087246
-    },
     {
       "source": "Benzinga",
       "title_en": "Elon Musk Says SpaceX, Tesla Would Be ‘Better Together,’ But Decision Lies With Shareholders: ‘So Many Ar",
@@ -11504,6 +11497,13 @@
       "title_ko": "ServiceNow는 Salesforce 고객을 대상으로 하는 AI 무기를 구축합니다",
       "url": "https://www.theinformation.com/newsletters/applied-ai/servicenow-builds-ai-weapon-target-salesforce-customers",
       "ts": 1795113498
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Anthropic Debuts; Trump's China Visit Puts Taiwan And Ukraine In Focus",
+      "title_ko": "인류학 데뷔; 트럼프 중국 방문, 대만과 우크라이나에 주목",
+      "url": "https://www.benzinga.com/opinion/26/11/63449642/anthropic-debuts-trumps-china-visit-puts-taiwan-and-ukraine-in-focus",
+      "ts": 1795113650
     }
   ]
 }
