@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795120114,
+  "updated_at": 1795120268,
   "id_hashes": [
-    "3ecc9ce3a76cce41a851ad53c208b54ae6eaeca1e5a1fc9f78b4ddd5a822ed51",
-    "a4f250ac3e02876d7548466b2573eeee0c63bc234fc4c20dd10f2116dfe0fed7",
-    "67938e8eab302f4c57e4348694bd91e95884c5df0199cb99a0746295608f2919",
-    "eca6f05bad9ffcbae3b9714fae0eee1c92689882b095cf6b21cc87534938ad1e",
-    "3b3de0d43496a16c106491c306359adecb7a7691fdf5eb5d017b906c64b5755d",
-    "fa5870932855a8a59bdf820310873c1b9ce31e42930091eca7b2d57a0986c1e5",
-    "f232487e72114bf9939e04e35b780839cec020f3376c869b4ba15be92e865788",
     "6de848bd089f96e8fd71aea9f5322912e5bae4d8ac59d8803a14d5d461ebb4df",
     "5bfb013e61a9128932ac6014033a9f8b6519c0cde1fe86cddd9a8e96b6d5e8e0",
     "74df0bc3697843181ac3da613a05e8192a60dc8888d97c256c060f58a29a59ea",
@@ -4000,14 +3993,16 @@
     "28f5d0143e2a70cf7551cd7a1f2ba076a5fd66434b3086464e2c227c8d3f6bc8",
     "bddf076e10a4b7c47e3d880abf5bb50108d63b847c8f2ba01428bc5b293a080e",
     "c7c71e26fbc307a8082bf5539d7220642dbc369f145760621f974cede414795a",
-    "29776b7f0a84fb7080a2fd7bf771e8a7a76a8e4853bb675c92c8a86de7bb9633"
+    "29776b7f0a84fb7080a2fd7bf771e8a7a76a8e4853bb675c92c8a86de7bb9633",
+    "e6d1d07f71b39c4b30e9081dc8c068c88cddefc7db563c372fb464e008952199",
+    "21f1cdebec8ac1d0d2ef70178cacf95cb51ecfe49b3dd59f68e447271df01f5d",
+    "691517da9721fe9560041310288dc1e55737e324b4d568276fc598859f391467",
+    "ec98c1d105b94e27927c0d728d8d5a4f6066b5562d4d50497a9b60e582498ef0",
+    "d0fdc38f3f8173ba8b2d32f96a7a1e7b8c3417610972fa015767cde1e275c923",
+    "512360ac06559c8c33066df2ccde41fa71984e9aef322d7b48abf8f8865de5fa",
+    "699cda3cd4768fbeb338ff6855f87fb64ab17fb7cce69e770cce15ec8def1d0d"
   ],
   "title_hashes": [
-    "533b7c455590005b6f2640751d75bee7a1a55ac16f388428d1d98b974484168b",
-    "ff4264beda3e82c3de56012cc73cc6bb41416cc970271d5b4a66d67482a53ed5",
-    "a139315af30e85ce202ae3506d156ba055bb9891acbfcd937fb4e68657272b7d",
-    "c79ad251c046abd1d63ec9566fbf59e5ed3b1f4a24bf262f42a7e29c03af5c97",
-    "69ff56d18f72bb2d3484a99fec3151c8d428c3d18b6c2496616790aec2c0dbd0",
     "29bc717909733853f68a4866805d28ba4361f718a1974bdf62a3724befb99a38",
     "8844c4bfd5183c592648c9165a751c39c8ad3c37a186182e473eb3bcbddd864b",
     "b10e7b358eeb547650e6774ab7fe81d0c7cbad2b6786610afdc91e2da299f9c7",
@@ -8002,30 +7997,14 @@
     "0ccc52dd5fb3f337cddf93dbde35ba2deb12f0f5debe232a7646ea0ea5d5ad44",
     "a08766d00fe7f7c6ce146e02f208b1a54ded3bffb73613e718de7b7444b5f07a",
     "5a645753efe1d67488c6c805519a3d106961aec93cfbad5087a3d8c8cb24dd23",
-    "85b3b15c4f94dd6da2ec6e0d00c3556be21736cb7816101c54e20bb78056ec36"
+    "85b3b15c4f94dd6da2ec6e0d00c3556be21736cb7816101c54e20bb78056ec36",
+    "c98bdf5c6ecf143dc462b809f6ec0770dd0e7a536004e025fcb6dd4d076b124d",
+    "4c6ef905682650c2fcf443a3ab3a3dd044bba39441413acf324d8ec858ce4725",
+    "5e3a84cb71d157993000403c8f8a1cc26c8d126f4a8f2335007a23526fec74be",
+    "4a3d8ea97b88494a95c3c891a65d6930c57d8c017838492bdb38c002fd1baaed",
+    "78f08b199f6499f4500e29ca1377079730074a9256b20b68f9bec3673865417d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "StreetInsider",
-      "title_en": "IQST - IQSTEL Issues Shareholder Letter Outlining 2027 Growth Roadmap Built on $313 Million in Nine-Month Revenue",
-      "title_ko": "IQST - IQSTEL, 9개월 동안 3억 1300만 달러의 매출을 바탕으로 구축된 2027년 성장 로드맵을 설명하는 주주 서한 발행",
-      "url": "https://www.streetinsider.com/PRNewswire/IQST+-+IQSTEL+Issues+Shareholder+Letter+Outlining+2027+Growth+Roadmap+Built+on+%24313+Million+in+Nine-Month+Revenue/27373201.html",
-      "ts": 1795093249
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "🇺🇸US PRE-MARKET MOVERS🇺🇸",
-      "title_ko": "🇺🇸미국 사전 시장 발동자🇺🇸",
-      "url": "https://t.me/marketfeed/1081617",
-      "ts": 1795093257
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "https://x.com/MarketNews_Feed",
-      "title_ko": "https://x.com/MarketNews_Feed",
-      "url": "https://t.me/marketfeed/1081618",
-      "ts": 1795093266
-    },
     {
       "source": "FirstSquawk",
       "title_en": "RUSSIA’S PRES PUTIN: EU IS MOVING TOWARDS BECOMING MILITARY-POLITICAL BLOCK, FOR RUSSIA, THIS IS A CHALLENGE",
@@ -11504,6 +11483,27 @@
       "title_ko": "그린 영란은행 위원 \"물가 목표 미달, 운 아닌 통화정책 완화 탓\"",
       "url": "https://www.bloomberg.com/news/articles/2026-11-19/greene-blames-loose-boe-policy-not-bad-luck-for-inflation-miss",
       "ts": 1795119965
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Convicted FTX swindler Bankman-Fried misses out on $37B Anthropic IPO windfall",
+      "title_ko": "FTX 창업자 뱅크먼-프리드, 앤스로픽 IPO 대박 기회 놓쳐",
+      "url": "https://seekingalpha.com/news/4674873-convicted-ftx-swindler-bankman-fried-misses-out-on-37b-anthropic-ipo-windfall?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795120136
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "NORTHROP WON’T CONTEST BOEING’S $20B F/A-XX NAVY CONTRACT –",
+      "title_ko": "노스롭그루먼, 보잉과 200억 달러 규모 美 해군 F/A-XX 수주전 불참 결정",
+      "url": "https://t.me/marketfeed/1082023",
+      "ts": 1795120200
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "美联储Goolsbee：美国通胀火热，所有选项都摆在FOMC台面上。",
+      "title_ko": "연준 Goolsbee: 미국 인플레이션이 뜨겁고 모든 옵션이 FOMC 테이블에 있어",
+      "url": "https://wallstreetcn.com/livenews/3202797",
+      "ts": 1795120267
     }
   ]
 }
