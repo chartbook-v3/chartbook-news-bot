@@ -1,27 +1,6 @@
 {
-  "updated_at": 1795095636,
+  "updated_at": 1795095807,
   "id_hashes": [
-    "6540149becf63658cdc359452314d2d4fd5f87da4057baa1d590b45d1d99267e",
-    "e36b9831bab0830b073679a28bc7076882d506f65358501960c215267c131666",
-    "4bce85b7a9dda8a1bd3a3bf8e1d09189e3008a4d6241cd270d5280a01065206f",
-    "ac0417220d79d6fda35cf117ddf5e9885e8348026d16a3a2376ef7b349d22e12",
-    "909ec66effbc6651da6e12ecb375f2607e2b227fdac1d5cf499d55208ecd3e7f",
-    "991003aff0764ba2a2220c76c9300975fd46edfba328885e722fa7d85478484d",
-    "081bfa93a4d81327d7fb780177456e8c75fd67974699db8df801414a267d0e8a",
-    "6246afed4de04226bccc0e9443a0a332ffcbed8759b596b902aea4e1f8d14082",
-    "b16b88139e667251a0731295dab19883884d76a3449f71dded6c3055b5cfdaec",
-    "1eb59f232cb1317e8cd89e5286baa90ec5f26d42863e1b646b0fdee7b8ddefed",
-    "7c15e6bea7c9523ad52b3c6c68af9b9a1f711ce37c05fc689aa68cc08e2b70e9",
-    "71060e2708aa192f9c0c918f17fa64c8b6a956933449ef56043e7597fd526a32",
-    "490b762fb72627351f86e24c311d4e7c55bf21a29ecf8d2920cd01cc8e2d60c4",
-    "81878bdc1a5d2696c65f28b594fe737bee77ef93de54f173dba143a864abd2a0",
-    "8ce4ac7a566feaa529c03d53cc1d8534674d2c846a8523eff1d339a2a9169b13",
-    "fcf542e2634d9b2f8a1c48ec6eafc149864c231bc361b3afa460682da5171f8c",
-    "d02004881bcda87f7f2ab49b9aa5ffe5de344606575504007f56dce8912fecd0",
-    "d7cf3082cac4b2db05013f480d9fc9033b9a1bfc558b31ac6b7605d9d9878b3b",
-    "eab66378d517affd2555e3334dc6737db800b96343ba11712e00b71d70ae2fe4",
-    "8265510c20fe0b8322a3294d63c17e38658fe95493a1064ec792cf82ea9a4b8a",
-    "7026b33135fe3a574c0204199df55d58390a56208b6d21c0d5cab00879d1f856",
     "d4d2f00eb8445982f599e884602be0b286a29591a808b7930de48cf139f7572b",
     "55689b636ac49580427727d782764bd257fa76e87efb55cd57ee31e4c12b61ad",
     "f28d6dfa8446d99fd8dce7212b53db7743961b90345cc98dfa25b744faf56112",
@@ -4000,15 +3979,30 @@
     "bd7c031d8916f7ad340eadf6dbae7a0fb1f5492778bde339e7b130e2913f0841",
     "1bc8a82cddf29f8d8c38e9f63ee50b8e8f9611318fc1bc93a8a9f4a8036c9c83",
     "b4e8d1b1d61b0bed957d555a5bc8e29642fcf3c4c2065d5e837dcea9f253afd3",
-    "2bcbc99e4bf9d83b02b5115dc46477f233c6860dd8f0f40082f81044426c762e"
+    "2bcbc99e4bf9d83b02b5115dc46477f233c6860dd8f0f40082f81044426c762e",
+    "9e15c1c29ff0afc4f62f4af1418081168731753a1b8ee8184bd775d32d7170ba",
+    "8027486596d7c247df4e79662ef5566ae41317850b2102d6185ae797b5ca4b26",
+    "075ef98728cc57224481b95e413ab3c8bf3183292ca019a0f889629bafefe736",
+    "adfed6a1c13711a11b0cc7f4fa68f4dbf838075221fd1fe467f84bd2b7d30b75",
+    "b71cd40e3c5058297428691ce7abab46223c243a704f0cae4196c995d707a9c3",
+    "4721816637e9d2e4ab35447e1f224506a2717593d4f87e625d56f7d08561b81a",
+    "9e35517449bf9242eb4e1dbb81b1d4744a9e22b45ba84ea21ae88508da483a3c",
+    "6a4d217e4f4c34d613138dfcf0eb0d710e6bdbae30d280662af8808cca83f2b4",
+    "3c3c9d0dd4d75704b85f74d38fc99b309f5f93ee316f51b26e991019bd391218",
+    "7bfc14f222bfabf618fcec38fe66f32cb55f011bef4b347faa96deb08f85784e",
+    "749ae7f43dd8a99270f7387213e2c1dfa525ae89333da8ff754074a7f90b21fd",
+    "bfef8d9197d25726ee9ba4f82786a796f8af4851e44640011d13336975fe8b07",
+    "ea8312e1b01be286ccd009db94b689c8061b7013353651d5690f01455e8df780",
+    "42c0353b80688341e7e995645a3827f8b83bd4e33128bce538e8ddd48effaf63",
+    "9365cd340682237f8cbc6a776cfc3d143f76dca16c2373e5a58da3c6b2e9d197",
+    "9f70ea1e806bf818743d150469a5537351312cfdbf61a14e9629c8447ff6f403",
+    "3763344c815c08c10ee02a1a05ff3daa1c6d6521b5797f7cf53e629a8dc70f6d",
+    "0232ac2b65b2eaaafef818a5d59566af4440986561c71fa53985fb5d8cbf9fa7",
+    "1f7e60741c544b3c6f2e319affccbe3e991b60245692ebc7e11c67a613a2d0dc",
+    "380e36afccbb05df581bc3dd8cbf722f279c34f93d3aac6073f68eb4339dfb7d",
+    "4d8ab18c32aa321463f66251a608606f604b55f8e07cfd5bf2784d98937e65ec"
   ],
   "title_hashes": [
-    "066fb322472793d73a596189916630b159101f9c491c3ef2f6057f7cfcf63a34",
-    "785432474d9b81de94f9313a5bec1238cf016fb32e4339942e27711879e6afec",
-    "7be634b644b1c0f840ecdcf2e5755465c5e135ad02d0b9c64ba55c61e6c408ad",
-    "d8d1c460ebf4a4d2dd9686e6aeffb2a286ce32cbed84dc93e18ab3c5a1b1e342",
-    "9e02072a22735c463299b2585ae5b82493025b776f097aeabea20dd660b1c357",
-    "5e7816b976f77afbd491643a68a700aa0c9a9793479e73eeeadd3274ec28b66a",
     "cbf9f0b3931e38c642782e6652ad50f67ef3b6b2d1e181c41961061b17d6c627",
     "80f67c6098d7fd5f77818fd8206e20461eb944d5e8d3b71b607cb1d8b726073f",
     "7a141873f1ed3ec6fdcd8ee235b967e5c66426eca28b1a960d6f730ca51fa8a7",
@@ -8002,30 +7996,15 @@
     "22ba92ada328a490e41b755025af0e48e7332dff74d1a4ca1685e32fddeb3807",
     "cebb5af5290f1d2f359701d36c9d0369e7c5a82128a4e208d9670925ccd2afe0",
     "4386d8ee3d422cc267184628c7ff6632c2f4ec6217d50cc1e028c86297dfb338",
-    "e098eb9a69367a3605f3948f105ff7ee19d155c0c6899f910cf1619deece4d6d"
+    "e098eb9a69367a3605f3948f105ff7ee19d155c0c6899f910cf1619deece4d6d",
+    "5321e3f2ffbcef6fa0d737865078581d1907d48a0721ace3353b9c242bfd453a",
+    "85d2512b0666b4954a87bbc092d1671eea081eef1d6fa8c9aeb5f039234bf811",
+    "18d7e2982efa19d2136f459b2869becf681cb5f09b4db70f1725a522a31607c8",
+    "f05a7135eee8cf4c9838d650dfc9c5a0fcd69b810cbf2e403c553796b04146dd",
+    "a9b61e3c5c2eba2a77140def159b70cfc4b39855850bc7db5530d36b4ec6d1b1",
+    "32e5f9a88726f243d48888b7d8eb6309369d6fa6a14bc0f9632fd92f95179349"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Takaichi Identifies the Quad Summit as the Most Significant Outcome This Week",
-      "title_ko": "다카이치 \"이번 주 가장 중요한 성과는 쿼드 정상회의\"",
-      "url": "https://t.me/firstsquaw/194141",
-      "ts": 1795069247
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Asian stocks diverge on soft Australian employment and Anthropic IPO focus",
-      "title_ko": "아시아 증시 혼조세, 호주 고용지표 부진 및 앤스로픽 IPO 기대감 반영",
-      "url": "https://seekingalpha.com/news/4674511-asian-stocks-diverge-on-soft-australian-employment-and-anthropic-ipo-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795069377
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "New Short-Selling Curbs in Taiwan to Take Effect on Friday, Regulator Says.",
-      "title_ko": "대만 금융당국, 금요일부터 공매도 규제 강화 시행",
-      "url": "https://t.me/firstsquaw/194143",
-      "ts": 1795069380
-    },
     {
       "source": "연합뉴스",
       "title_en": "새울원자력, 제9회 울주군지역아동센터 별빛축제 지원",
@@ -11504,6 +11483,27 @@
       "title_ko": "이 전망 치료학 분석가는 낙관적인 메모에 대한 취재를 시작합니다. 목요일의 상위 5개 이니셔티브는 다음과 같습니다",
       "url": "https://www.benzinga.com/analyst-stock-ratings/initiation/26/11/63424601/this-outlook-therapeutics-analyst-begins-coverage-on-a-bullish-note-here-are-top-5-initiations-for-thursday",
       "ts": 1795095635
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Iran Intensifies Hormuz Tanker Attacks Just as Oil Prices Slide",
+      "title_ko": "유가 하락세 속 이란 호르무즈 해협 유조선 공격 강화",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/iran-intensifies-hormuz-tanker-attacks-just-as-oil-prices-slide",
+      "ts": 1795095725
+    },
+    {
+      "source": "Wccftech",
+      "title_en": "SpaceX Breaks Silence & Says 10-Year 100% Tax Abatement For $24 Billion Starbase Data Center Infrastructure Is Necessary To Avoid Rapid Tax Value Fluctuations",
+      "title_ko": "스페이스X, 240억 달러 규모 스타베이스 데이터센터 구축 위해 '10년 100% 세금 감면' 필요성 제기... \"급격한 세액 변동 방지 목적\"",
+      "url": "https://wccftech.com/spacex-breaks-silence-says-10-year-100-tax-abatement-for-24-billion-starbase-data-center-infrastructure-is-necessary-to-avoid-rapid-tax-value-fluctuations/",
+      "ts": 1795095790
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "From Nvidia to Saudi Aramco: One ETF, 15 Heavyweights, Zero Favorites",
+      "title_ko": "엔비디아부터 아람코까지: 15개 대형주에 동일 가중치 부여하는 신규 ETF 출시",
+      "url": "https://www.benzinga.com/etfs/new-etfs/26/11/63424758/from-nvidia-to-saudi-aramco-one-etf-15-heavyweights-zero-favorites",
+      "ts": 1795095799
     }
   ]
 }
