@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795130323,
+  "updated_at": 1795130472,
   "id_hashes": [
-    "9ca38d88149ebf8e03b98cd59af34817c217d1489dd750604b51048e5bf7a4e7",
-    "772a4a1ed3c4dc0a8c3e6c60dba1ea8b14fe57b242eeb5f19d761d6e6aea4dd4",
-    "fa048a8c17bd2c728149d84e4e8142c315a5577c2890b28f407deb3e0fc39e64",
-    "12c310d592d2fe038ba1bdd2562fd99fb3b89cbd1f71405e4c30f1763d1d2258",
-    "fed80ac187163aed207ffc082c2d6519371cec937dc5a3b6a8881843c18f2837",
     "a49d6c6a30a589b0cc5f5e0437d018b3f313f7521c084a5902e33dbffb3940d4",
     "655544f018a9d6e0616624591eeb9a464c98efd4d9b681273b61163d6bb45b38",
     "0c1e04f1652456d1c951dd65b27c9357de5dba2a9c4aa3642aa1960b2cd594c6",
@@ -4000,14 +3995,14 @@
     "5ced2917790afc3927979624fefac9dc1fd6da429129042ba84a1671ae0e5b3c",
     "95766d0a0b9f816abccf7b09f03c876578ef6d64fe3116c596cc2ee37791d8fd",
     "cc5e04d7b543f51fc5232ccb34219ee3895d60e65017f0dbdf84b0ace74c4105",
-    "622921dbe6599f1c4dc394ac02ce2fd72fb805847e1a2e1f2cbc915f9c597d28"
+    "622921dbe6599f1c4dc394ac02ce2fd72fb805847e1a2e1f2cbc915f9c597d28",
+    "d772fde7c7e903c53df9bf44cb2e6fb22559c52ee5e2c05712046524b3997556",
+    "5b0dc00c92e2947b4e687ea8d27903f5655a1881347e2fa7283a95606f7829c9",
+    "f3b47ae388fca3b788c0e904aab86436dd9f8c825dd27077bbf58625736f732b",
+    "3ee8dc779cc1f152512ec909c46f14a0392a304f2ed32ba94cd3a06e5e6ef770",
+    "8539459c74c5b1d013254e594ef0bff90a576cdaf594ef7c4d9e7d43dfbe80ec"
   ],
   "title_hashes": [
-    "266d6a239f69980ded8fcc9f07dadf51ae2ac335bb63a5a881c033754dce499b",
-    "8416d32588d2b71b84cb97600ff7f82bc331749209db807b61ba1e7a7102d74c",
-    "24a3cf2d593be3fcc3d17ad87f366415169f5f84b2e200b3a515cc9dd61bbef1",
-    "ea73b92169b71c572121f40be9e436713fc9afa7182c8be84101ef129a9e4392",
-    "9c7aeb63bf8bca894874f5fb80c19abea10087f7e116b42bd6c0a9c5a7d5c36b",
     "d0befb73db5555886994af6bfd5368587039cba3df7a66886d49d816bb0c4305",
     "cbbf6e06025810ce50c6800755061aff86f1bb0f5d9f93af218bcd705097f9f5",
     "9a93b3f1dcb8cb00f72df7d209e9b8b22ea7fbaf35a7f421c54225e665c0c607",
@@ -8002,23 +7997,14 @@
     "6c4b541022f43d46f7419c3e7819d69824c50902f05b18a450f88a369f6ece42",
     "957b58a121793d783f3cefa431ea07675d9805c612a52de64cc79ade119d7bc1",
     "fd68f54e2fe7d105534c5605f32d405e401abc081182a98b414ed9afb31fc8b2",
-    "2de07519f630b87f28adf30c397ec6eb83476c4613d25ac28a32f89b2ba8dc9e"
+    "2de07519f630b87f28adf30c397ec6eb83476c4613d25ac28a32f89b2ba8dc9e",
+    "63f40148571bf24ad7d002b0e1b2dc31017ad74190857f69feebc8abbfbd2a45",
+    "b24ead283bcc2bafdfee5f96fbe41d431df1c8846bedc684587c1cf38f434994",
+    "ee808e9eeaea0977eb18e6c91b25d8504581cefebfa29d86d1999ede95d46f68",
+    "f3bbe3677cb94aae66dbf37c0b2aea3749329497b047607d60d783d775f29e98",
+    "0cba959d7710e26778bae185409d23c04ee719fd3aa0484e55a5d66f670779a9"
   ],
   "recent_sent_articles": [
-    {
-      "source": "StreetInsider",
-      "title_en": "Nvidia’s Q3 Earnings Exceed Expectations, But Huang Scandal Still Hovers",
-      "title_ko": "Nvidia의 3분기 실적은 기대치를 초과했지만 황 스캔들은 여전히 ​​맴돌고 있어",
-      "url": "https://www.streetinsider.com/Investor+Brand+Network/Nvidia%E2%80%99s+Q3+Earnings+Exceed+Expectations%2C+But+Huang+Scandal+Still+Hovers/27374703.html",
-      "ts": 1795101779
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "MissionIRNewsBreaks – SS Innovations International, Inc. (NASDAQ: SSII) Announces First Dual-Console, Five-Arm Robotic Beating-Heart Bypass Surgery",
-      "title_ko": "MissionIRNewsBreaks – SS Innovations International, Inc.(NASDAQ: SSII), 최초의 듀얼 콘솔, 5개 팔 로봇식 심장 박동 우회 수술 발표",
-      "url": "https://www.streetinsider.com/Investor+Brand+Network/MissionIRNewsBreaks+%E2%80%93+SS+Innovations+International%2C+Inc.+%28NASDAQ%3A+SSII%29+Announces+First+Dual-Console%2C+Five-Arm+Robotic+Beating-Heart+Bypass+Surgery/27374635.html",
-      "ts": 1795101783
-    },
     {
       "source": "StreetInsider",
       "title_en": "Apple Announces Health Tool Leveraging AI",
@@ -11504,6 +11490,20 @@
       "title_ko": "#국제유가 | 공급 과잉 우려에 이란 리스크 상쇄… 3주 연속 하락세",
       "url": "https://t.me/marketfeed/1082120",
       "ts": 1795130176
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Anthropic Makes Trading Debut",
+      "title_ko": "Anthropic, 거래 데뷔",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/bloomberg-businessweek-daily-11-19-2026-video",
+      "ts": 1795130407
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: 🇺🇸 PRESIDENT TRUMP DISCLOSES 751 STOCK TRADES IN SEPTEMBER TOTALING UP TO $148,000,000",
+      "title_ko": "방금 들어왔습니다: 🇺🇸 트럼프 대통령은 9월에 751건의 주식 거래를 공개해 총 1억 4800만 달러에 달",
+      "url": "https://t.me/marketfeed/1082121",
+      "ts": 1795130410
     }
   ]
 }
