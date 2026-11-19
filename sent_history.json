@@ -1,16 +1,6 @@
 {
-  "updated_at": 1795080056,
+  "updated_at": 1795080211,
   "id_hashes": [
-    "81eb2d733824ba6316937718fcad84717d60ff60f3f9fe16fee2f57d0e61b323",
-    "a47824797f7bddc4f2170d1d3d2e4cea3f909ddea9a81ec7ddac804a0dc3e3d0",
-    "9fc3a6558b177443c5ff76c57d9c58b4653b4240ac9d6690c9bfaa1b4f9ffb03",
-    "eb17aa52b6718963423a38a56b4f557da4c02e4e094d76243a33fb00e35a6cf7",
-    "c5baff840c3efef7176962b5b797fa213d588b3b8c0f61ef9b39330f8e5e8df7",
-    "bb42bf547573d554836d3a9e20f0f08fd0fa1a53bb9b001fbedc7a2e670bd262",
-    "9e90038a00729190182cedde6ba5ce78a99110eae595346f0a64be8a6db87f55",
-    "b7127e83e71de91f1aa1bb34e0d47c93f67295f95f9aa0cd4f8ff7b2f1e7e0b1",
-    "4396bd48716f51f63259b2caf3e412d268e75f25b750ecf59d449245101930fc",
-    "a3ece99a286852b7543c7ffaa54cb54852a4d111f7d123fd880b5c63eaef1ce9",
     "a24d429abfc126b2075d45ff37c8c4af3ed9ca57124a24c5289bcd1d49f0f0fd",
     "c4d918fbb21609eb2364c858a64e88087582eab549e015e83fa6441d6b28c730",
     "0924828d6c9c0771cba93f50338f5bb87225bbc2007ab3e8233ea0d413d688bc",
@@ -4000,18 +3990,19 @@
     "fab3d61df0a0476b5e54daf972fa2f22eeb1293ea6612ece74286b2d1e5eec75",
     "545a9fff5295a3e0859a93ebb236bfe5d87d403537782b000502e27474aba875",
     "f91e5c6ed7d409b615a8a73366ef3cb772dd98a7fd4ee496e4d177e69c21d5ef",
-    "768fb5729123c56133d64f6fa1f59f24dadfbf08393e2d3a407de6456996c1ad"
+    "768fb5729123c56133d64f6fa1f59f24dadfbf08393e2d3a407de6456996c1ad",
+    "12b1660feb95c0da20cdba3f0e051cfffacee2c00e06508f0f824e5c9cde0eb4",
+    "2bd7a8f1600575589dcd0af4d5ee6daeddae334443ffebfc5d956b4de52b6ba5",
+    "1541579d314080b2869a0626645383009786d95c2147e20e6c78ad19bca1ba17",
+    "63d69c17c22955f5cedda1ba228cdc3c279f5c1a70b94d2923b0e1765e0c10f5",
+    "70f7c22b718fd4bb59cff8cecb1a4d9cafbd769effb3893061f92f29e3aa5f32",
+    "164ad6c10f07242fde9ff46a66a5962e77ce44c56173246a102b1860183dd096",
+    "4f5355680159b2d97b7a839621faaf4a9bb41c5e6d33168923a17e1004c2b8b4",
+    "f6fef52a9d640fb74e04cd4496b02140e0fe475bfe6f3788f5dcbb8dcafd7c41",
+    "1064ae18c31c9e2efa9e34e7da39525d7ee39f91b6bab4e377cf089eae394d50",
+    "5470256e4e7fe11bfb67149bfe79b47ca632904b5b3e8458d396df2ab53200d6"
   ],
   "title_hashes": [
-    "76a3c6eaffa0ce1aa6e7818d47934947e191eb85aeda5bf1764dbbdc997dd978",
-    "bfd4f5e3c257d3bc9770edb4780067e2f35ab0cba3e10681bc04700708c36be1",
-    "0d2f30670637f052138736d707be778ec051cc06afa30544c495ddc84e3a82ed",
-    "b32b0af1013a47b1ce9b823d4a5dac0f4b7efdf0883ca84bb3e117c4a0419c45",
-    "f3e6e785233dbfbeee31ddc0da6c8e71e1b02840b1a75643dbaf8b6824a23727",
-    "fad971fb1a198c35f6c78a1cabfef06cc1e079c13841cec093dbf23b721ff336",
-    "5917c4a62e91e6003cb875b7494fe41ed6c79821072384499655260ddef84dd3",
-    "005b37d7b88235b5a2928bc64475cb56cd6a77c990eb186ce189fc5b63cee45a",
-    "ae02726c15e603c18ae02405c8ed1ddbed616670fe600a39f8c5fe3194c52e4d",
     "f84d3518040a8a6c0f26d728c5919a2c9e37ce95d07b89e04a438c2ed646b5cd",
     "cbfb2e5c7186b89559f36e1282eb7eb087c216e5ed11c314cf7463ecadb49aa5",
     "085a923a9c6c62849c9f4563eda038c6753cfaf1f9970e773d26fd801fad7619",
@@ -8002,23 +7993,18 @@
     "79a9fd8a4fc22d3eead0a9824878f30cd0f6c98d0fe06c60a8eba6cf4afcc59b",
     "167f68fb125d893e458aa7e0dbcdc20885aa1f26109e2181ae407f962789bf3f",
     "b17c5ef745f884e994ed84a78c556982bfb393cda0e677d0b983d277ea3fd311",
-    "e09979d2f2bb25171ff58783766f1c80d9cbde60b3962703915abc1005d380cc"
+    "e09979d2f2bb25171ff58783766f1c80d9cbde60b3962703915abc1005d380cc",
+    "c768cc32296f38558833712544eb8df80cb744ed62178ee2006fbb86f5448d46",
+    "b66a5d19bbb71b57e8e05829179ccf32c68a3c66a3e051b698b8da2823126b18",
+    "7ddb1c413285e66cc45d8756e078cbd19099a77f44f1741470f6e8099be48466",
+    "39ff2f9d966b4d93321600182cf2d2d52483594df8c5d96b3d1d9bc03a476c4e",
+    "d1bacc4e879c7741c8c4a2f1299b6339dc17cf642fc883895c3f5fa7399b778a",
+    "b56234d8440ce513a36428008a46c6ad0d42cdca91fec705b69f4ab8eb6580a8",
+    "5b4373c3eb50efa6918936cc6940ace8e2b4d67e21c3c444d0cc9ca118f60849",
+    "62193e9edb69107445cc58385b6f1be9a0b355fd9929a58dc039ff4e131b3059",
+    "01a8e605cd2d055431d8cf3da3b6ba2439bd895e2bad0f4b53c48ec7586f60ba"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "BoJ governor Ueda: FX swings could affect inflation more as companies pass on costs more actively",
-      "title_ko": "우에다 일본은행 총재 \"환율 변동이 물가에 미치는 영향 확대, 기업 비용 전가 활발\"",
-      "url": "https://www.financialjuice.com/News/9858922/BoJ-governor-Ueda-FX-swings-could-affect-inflation-more-as-companies-pass-on-costs-more-actively.aspx?xy=rss",
-      "ts": 1795052792
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "BOJ GOVERNOR UEDA: SAYS YEN WEAKNESS RISKS ACCELERATING INFLATION BY RAISING THE COST OF GOODS ACROSS MULTIPLE CATEGORIES.",
-      "title_ko": "우에다 BOJ 총재 \"엔저, 물가 상승 압력 가중 우려\"",
-      "url": "https://t.me/marketfeed/1081200",
-      "ts": 1795052812
-    },
     {
       "source": "스마트경제",
       "title_en": "“학부생이 우주항공 최고 학술지 뚫었다”… 이한결 숭실대 학생, 위성 자세제어 전동기 혁신",
@@ -11504,6 +11490,20 @@
       "title_ko": "중국 무역촉진회 회장, 머스크에 내년 공급망 엑스포 참석 초청",
       "url": "https://wallstreetcn.com/livenews/3202481",
       "ts": 1795079930
+    },
+    {
+      "source": "한국경제",
+      "title_en": "삼성전자 '투톱' 유지…메모리 대거 승진 전망",
+      "title_ko": "삼성전자 '투톱' 유지…메모리 대거 승진 전망",
+      "url": "https://www.hankyung.com/article/2026111982761",
+      "ts": 1795080208
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "코웨이만 웃었다… 렌털가전 3분기 실적 '희비'",
+      "title_ko": "코웨이만 웃었다… 렌털가전 3분기 실적 '희비'",
+      "url": "https://www.fnnews.com/news/202611191820508264",
+      "ts": 1795080210
     }
   ]
 }
