@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795096629,
+  "updated_at": 1795096792,
   "id_hashes": [
-    "888452a401a911ebaf88c23141a05de1e4c29ac4341b5aec50f94196aae4b755",
-    "d11ee93873ee828d2ded08ddd874b2d9b8ac7874bda023dba929d685ba9d48c6",
-    "86558f455c52f03597382bf0cd65808ad3193cc908a93ad154ef09e9845f4711",
-    "a0f2b76b576a92f3722f3ea5c1c213f724c5acb65f8e2aca6c22ad8b1c8bca22",
-    "1148f3c8380791eb1b1fd224ab968d3db195e0e3217fda7a11b623c02cdf8cae",
-    "28d35dcd4da4c657e542f40ac1ec09cbdb4fcfb32c90c328b329f2dd676c8e33",
-    "d8379c59764cf8226c4ba1458faa7b48456e60058adcd965c5d00b812be5ab2e",
-    "7e14d920a1bf36637f64e1f8717ce4d46660591ef1aa46cf1238d6a658aae3fe",
-    "e6a8b2859322c87cc67820a09ba394f9bd7e1d0eb21e1fdf34518110cfa5666c",
-    "2201c59fd512257960cdbd6ec4d4c619b013f41d8d46156b835bab588947896f",
-    "0f4123eccdf5ba05f6939a7f64c74e701ad84dae753165d80b2201820147deab",
-    "4749551258567c05f30369f86859d61a91ca007c5bbf66d4dbf7288cecb356b7",
-    "d5bd31d3788b219866a1dbd2b8550c71f1efa97316d304ad1eafa4d381c8b741",
-    "179a1e8b10a8dde532e8c3436440c220f9d63bbe7d088c968b566927d59c1980",
     "69f6fb350e7fd26c14b63e8a67cb3e875780b7d5b2ae123f13b9477e56e55266",
     "07a1cdb6988683933facd5bb1458ec77ba0e8e60798e40045df5e62b5cf61f42",
     "9fc54a954160000c3da7fee7c8d537275549555674cb320e5a825ea7e5dca261",
@@ -4000,22 +3986,23 @@
     "2fb88b71740e5aafe3ae79c789215f99b00cd317fef12380d2a66822b377e2c0",
     "68e7b7e2a999c79c7f00e69cf8e7aaec9386127bfe9de7ddb63f34569006370c",
     "d88edd6ede95ec999bb1155fe88bb7ca87dedcc5f5cfbd28ba62022f3e4c6a32",
-    "15c86ff2dae146ff4b410e78474ca44581020c8e2fa84a6cbccfd951a64cd709"
+    "15c86ff2dae146ff4b410e78474ca44581020c8e2fa84a6cbccfd951a64cd709",
+    "bf901259d8518573dd6e7a876aa6d397fde2ed3b6b670241f6b003500fc57a5e",
+    "2f9d03b74f520e343236802e436cd14f9b96c1a1b939f986defced97e646f6b0",
+    "d7a77345ff48fd4aba04bd8eb6828a8f9d6edf58dee58d706db4fe48b74966e0",
+    "36ada955d93c717123de2ee0107afd0c649cdccb0a9a1168bd4ba0ef6960b83b",
+    "fb26846e3ca5c94a357e461411b5b3944ffdc1237f32793b96e861ba6d4975d6",
+    "af30e68f34b181e20b520d610451096a7975ebcd0c168228e4cefd6f7dfdcc9a",
+    "446906020447bf14c259683af0ec49a82a9c5c35567c3166cfd6c855c5761938",
+    "febd25456f548dccaf73b8502d17b659dd8429ea39c8e156a4141c5cef305b02",
+    "e76ff66fd262ea5fb873bd18c585e39a0c7ebfb98b6a8783ed9a39cf47f2a06a",
+    "261e8fc5919de394d9bbd26e5e03a776056dd945b38cd1f674aa0e00a337b264",
+    "b860da3905176f07d5daae4c124a27842b6d1db3604012cd42fee915828702f9",
+    "d663fc2f5ba66f744c95550947fee761c76ebe55bac80f7cb6e42f0f447c1d58",
+    "3d0ae34ad50cbc5092d8cae01e947deb3c4a998ac63d9c323a6cf86d7ea1cb55",
+    "5cc81cd6da35a3bd7ec017f516dbc784cf5ab44cfade56ec2dc63ceaff87496f"
   ],
   "title_hashes": [
-    "2cb13952f8746db3db1af7e4f21c8c6c6d47c186789864dfc8e8614e9fb26999",
-    "f5ccbf5707f0d5ad5cc52013452ee5bedd6287d3bb06e793c291945c9bacaa7c",
-    "ba56ba4253b7570accd866a50e5a411d71508a75c61cf5f5fa686a3a9d976474",
-    "351b7d5011272586cf74a7e7a2594d8e77af8d9853fb9f859fd201802854f662",
-    "3cd2c43f1ebe79250e9d4f322b8351a990fe4caab3172a857b489e392c4a370a",
-    "e90dd313a018d6f7d69c3daf154a79a0f8d8afd5822b269cf2e7672db786c321",
-    "f20177f7cb5b1e5d140f3655c62f14f8949a4ad2767b0000ff5e3e9f49847c27",
-    "987fdffdc5c1b5f27a26e898944cbee705e2e4dfec4265edbef65b8c818a95a2",
-    "9973428be2d038cfdec6b9a24cc1790b2571c3f6d02cfe512a4eeefefa13cb7b",
-    "4bbeae30b43ec0762b1bb634744b23f2b60193a1db17f6f6cba43c714786bb05",
-    "1eb1cdd82b7fcb3207734350bc71398d2277e85f182c01a0ce466a42d53d9bca",
-    "8839bfb60de2c354d89b5ac6cebe2f666cd64e04fee2e9449316e1f3512dc329",
-    "2a8357b02684a5be274ef8085dc47dca6ad78af6216c7e7caa709918b8986bf5",
     "c60123f87392d9676c1e9005a70739247a688b1f64d126e8f05ba601196269c9",
     "f6898aff915ebf817926f48b7e476fe7540e37fdce286d15dceeb43c32ebbc20",
     "a98f09a2c5c4bb61efb95945514fadeb10c80585964b2ed37af56e1ed4fb26d1",
@@ -8002,37 +7989,22 @@
     "da9b8c9f16db57fbd4028d3284be648c6d824104755d4dc169efbd4bdd87b664",
     "c5bab0da0e1c98b2bb763fd97d602a251f60529b245167ef379b1effa7be371d",
     "d34bbd4813c7cc0d2cfb7d6d796408dd8bbf3b5fdf3a23d992b2383d75036329",
-    "49ee03417895881629c08290cb5698cb18bf54efba30d70395affd1cea94bbc7"
+    "49ee03417895881629c08290cb5698cb18bf54efba30d70395affd1cea94bbc7",
+    "5ba8813bd743e77019e9dfc833b0adb9f8f968e98f9e30c8db78d900a2a1f72c",
+    "65d8a706c160a7f342d7727af0a80ffdacd00dfd782017da344d78161f2e66a8",
+    "deaeb2ad5fa30679ecec96b432ca1d52ad3b340211c17cf4ea8bb59b7cc18665",
+    "6b2206dd200ef96ca71672d251556c6fec8a1b276851326c9c0801761b24f6f8",
+    "71c17550ff2e0071c0c50ba5d9eb5e85f74f58ab627f4352fc1882ab6c13abcd",
+    "eb7ac42210c3d0e047946f168f18c6470f4ccb99dd8248e00cea3d9e75782b05",
+    "dcb1d118d5dced102e0fc6854ed17049259db98358f0a6737d0da08cb7e50317",
+    "c8f2958ff7041f3153f2b061aa29069ef2c5b2b78f21c27dedfef3f58d43caa9",
+    "b59c2a574649fd18919130db5af263b7f4a10d3df0e6858230d1329981ea1c42",
+    "fcd9b2989056352744162e13f14d6bb07d8a61f60a306556c8f41e9f26e8e176",
+    "7f579f5e5cf6b80ecf823b415dde54ec40901df2893da10a2452b4e2b0e3ec0b",
+    "8cc1eb7f4e37466fdaed23c8acb6c7bf2033854a553432cb291ba60ab6f4618e",
+    "d15f097feb4732c08d3060ed127a9112f24bc71f2be4580744940a834dd1ce12"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "Top S&P 500 Stock Names Implied Volatility",
-      "title_ko": "S&P 500 주요 종목 내재변동성 급등",
-      "url": "https://www.financialjuice.com/News/9859387/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
-      "ts": 1795069953
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Japan Aims to Partner with Allied Nations, Particularly the US, to Ensure Resilient Supply Chains, Takaichi Says.",
-      "title_ko": "다카이치 경제안보상 \"공급망 회복력 위해 미국 등 동맹국과 협력 강화\"",
-      "url": "https://t.me/firstsquaw/194153",
-      "ts": 1795069955
-    },
-    {
-      "source": "서울경제",
-      "title_en": "한화 건설부문, 광명 하안주공5단지 수주",
-      "title_ko": "한화 건설부문, 광명 하안주공5단지 수주",
-      "url": "https://www.sedaily.com/article/20116455",
-      "ts": 1795070017
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Takaichi Says the Quad Displayed Firm Solidarity in Pursuing a Free and Open Indo-Pacific.",
-      "title_ko": "다카이치, 쿼드(Quad)가 '자유롭고 열린 인도-태평양' 추구 위해 강력한 연대 과시했다고 밝혀",
-      "url": "https://t.me/firstsquaw/194154",
-      "ts": 1795070020
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Fed Interest Rate Probabilities",
@@ -11504,6 +11476,34 @@
       "title_ko": "블라디미르 푸틴 러시아 대통령이 19일(현지시간) 중국 선전 국제교류센터에서 열린 2026년 아시아태평양경제협력체(APEC) 정상회의 본회의에 참석했다. 〈타스. 연합뉴스〉",
       "url": "https://www.etnews.com/tools/image_popup.html?v=bjQ5VkNYY2dLZTZMZFBUbmNzandvWmpGcjBTK1pHYm1CUVRXR0pTMldlYVZkdE5JeGJVUFVVNURJN04rbmhKTUl4UUNnaWpWa20wdk5BcVNtWjFEUXJ6R1ZpaWJwVHl0cXlFcVZVOW02dVNBRVIzQWxmZzFwNlZKTUVTRG0xM0dsbldUYnNlUGN0cXVCb3I0eXhjeGI2UkVyYUkyTCt1T1ZzVnFTbWordVIvZGQvYVJuZnBtK2h5ekw1enA0UW4wTE15bWJKZzhlaG5JYkM4YVd5WFF2UkZvQjdmNDJzQk1JSG50elpEaEoySHprK3hrblJVUXVQcFVDWXpmZzBmUGwvcG1XMmg1WGZ4UDduOFY5T1lvYm4zU2xEL0lrZURyaHRUQzF0bUIvN1hDUDd6eFR6eERMUnR1NDhUdTJ3ZU5EQTJTT3B0REVlZFJKd2J1aFZSWVdPeXBWYzN3TWpSUFNkclJ3VkZtbko3ai9NUXNJRVc4OE9jNGtvWDBobmJ2NEQ2dWg0QXZqTVlEUW1IcEVrbHFycEdHZDdtQXdIV0l4QjVNQzR0MDRiUy9yYXdQanYzN05lU0ZHd0hZL0wyMTNlN0V4UDhUenNPd1JZQmVyNmtTQ2ZGNHh5K3FsU1J5MCs2NE1Sd3AzeHYybmwxREY1Rlh2VWE0NzJqKzFDRXZ4dG5mYjdvb25WRGtKOERFVnoyL1ZvZHdjc1JIdHI1c2tOeFU1aW0zQ0pkakQ3RUp3R0JjbHJ5SnNOVGJnVU9hNG9WWGx3Qi93QUplL0Q4dUVQcFhDR2NZZExZT0p3cG0zcXZodVZrWWFzRDBUcXgrUk9tMzNEZkNYS0p6b3A4M3RHay9Uakl1UitOMFcxVDdFMFZuS2FGZER5ejFkVmRZaGdNWkJlcjR6ZGQzaGl4ZnhXRDdFaDd2R1poMDZoRVZ5Q293N1pOcWc4N1JtWStOSU92cEk4MXdaTGdPblV1R3dSeXpxakVqZzNVPQ",
       "ts": 1795096628
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Western Asset Inflation-Linked Income Fund declares $0.052 monthly dividend",
+      "title_ko": "Western Asset Inflation-Linked Income Fund는 월 0.052달러의 배당금을 선언",
+      "url": "https://seekingalpha.com/news/4674709-western-asset-inflation-linked-income-fund-declares-0052-monthly-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795096724
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "TSMC and Samsung pause some chip shipments to China due to new US export rules: report",
+      "title_ko": "TSMC와 삼성은 새로운 미국 수출 규정으로 인해 중국으로의 일부 칩 출하를 중단했습니다: 보고서",
+      "url": "https://seekingalpha.com/news/4674687-tsmc-and-samsung-pause-some-chip-shipments-to-china-due-to-new-us-export-rules-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795096727
+    },
+    {
+      "source": "9to5Mac",
+      "title_en": "MacBook Pro PROLED, MacBook Neo, more: The best Amazon Black Friday deals on Macs",
+      "title_ko": "MacBook Pro PROLED, MacBook Neo 등: Mac에서 최고의 Amazon Black Friday 거래",
+      "url": "https://9to5mac.com/2026/11/19/macbook-pro-proled-macbook-neo-more-the-best-amazon-black-friday-deals-on-macs/",
+      "ts": 1795096788
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Endeavor Metals Group, The Precious Metals Dealer for Wall Street South",
+      "title_ko": "Endeavour Metals Group, Wall Street South의 귀금속 딜러",
+      "url": "https://www.streetinsider.com/PRNewswire/Endeavor+Metals+Group%2C+The+Precious+Metals+Dealer+for+Wall+Street+South/27373825.html",
+      "ts": 1795096791
     }
   ]
 }
