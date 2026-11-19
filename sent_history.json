@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795080832,
+  "updated_at": 1795080997,
   "id_hashes": [
-    "e800485cc1c3759e8179e1bbc949394bf12c718f49a13b013b6c2976a136292b",
-    "6d921e615dddafe9164cfe1d29c37f8b85cb6b913b73709ce7aa14c7a0ffd898",
-    "a84421e251d66a396250378bb1fadab81414e9097ccd0f2b88a7e6ffdf7c3041",
-    "df7e6db9753ce6557998a72944f02db623746822f31f3290c71424a11ffd0ba2",
-    "3665ae81dd0fe283c59877f89611546ac48c328b02e2269e0ae4a0448f4cef45",
-    "2f90e892001dc7182e5f7660730064c4cceb5576f7a39d0f787d20c93f0226b6",
-    "9a9fa29579a63da32a41b4816dc80fea66238123ab4975ec5d2d4ee1f187c771",
-    "c58cac9f04a1e56734db2c2d78b443bc457e4b7adfbf8d913620767870d65b88",
-    "52fc7b880fefa31499953866751edecbe20391e9f05884726d48dce478dea95e",
-    "f8aec55fcfc9b49224f33b69433b3814f7f1b8fa085cf50f41e681ee12ea466a",
-    "8e734a515c971bfc2e253bcc56609bdb087b2476e5b4af2105041993b06d2461",
-    "e2ef43396b2a3ef011a257e46ef6b2d44d91f89e7a2ac0553967dfe06a9c107a",
-    "f9f4c0a5f4a6e0d4ff751fd2082dcb872b8ccdb6b5b7fc2cccd9e7c4a2ec9e0a",
-    "a22b5f75f36c7af8b8f28174f9d145be1952487e6bca1ba074c711982e1b54da",
     "309e3a594ca91a062e921e6242e386c9cb787335b725faf3b5a7460ecc6470b8",
     "c005388c5442d6b5a52c93e0bac7ef956ee6b63f6dcd135aeac5693c4344667b",
     "ff638aad9e3ba301f8b586085faa9b00ee2e69ee6b9b4e6907107035e88bc9dd",
@@ -4000,23 +3986,23 @@
     "1015cbb5fdda9cb9e14998221452a51266c3c079163956301ce97fb7e38b7952",
     "62156b6e6b36b8611f0d038f636d299e083de786bd3adc0e2c8582778d73806a",
     "35ae736fe6d74c0a1a33e8bccbf63c88d150620fad4ce7b3602a6641086b4391",
-    "11266f41e351a4e0aaae68e5a880c6883cb5a05b2b9afbd27dd35725e4e5bde8"
+    "11266f41e351a4e0aaae68e5a880c6883cb5a05b2b9afbd27dd35725e4e5bde8",
+    "273426058243fd295c457d4df24be986824754cb02fdb6fd4c5e9a038255c8aa",
+    "963df4efbbe31fe788e54a41bfee7e927bdc5ded4acb8f86897c329a69b3d6e7",
+    "1f4f1f8498467491c90c20548f82d58d9800768ae87c32ae0e84a661997480fd",
+    "42e023b8de643735bee74acf2db25906a4f153ac2d96accc0d2e4708cae478cd",
+    "11ecb758335284d6d7b0036eac4524fc06e4ad4d421d5c9fc5764ba5aac0bee2",
+    "78a7414bd2dd2a781b860fae9b70c88961859f8ebb3960900117120f84af9a04",
+    "c42096cf26dead8e1e28759fdb10a130ee1d40ddb0ff66d275923b3c1ee71d5c",
+    "43d587630a8faef215e8a1e5d8f5a8295d659b203256111478f371263dad0e76",
+    "43746187bc21f6b63319c0f662a45bcb8b51cc48babd955b4a817ba5091d2e20",
+    "e14320088a1595554b9bb496a7aca79a4c1117cd6fe875762291094cf939ad5d",
+    "6ce582abd63ccb08e22285e74789db4fec0195bfdb3737aee74f17ac0cdbf4c0",
+    "cc5ed038b6bac38c0d66f11c3357c99bd9c8183b05aa6d2a375b21fc4835b2b3",
+    "94297d44eb33b2be219c0b7b797fc65a2cd9b0de0a751b26d769d580d42bd834",
+    "adfd8dd7ac5bf826f0e4592e7174cd4a8e419a067ec48adb6c1e58adf5014ba3"
   ],
   "title_hashes": [
-    "94afd64a9db7e165f4ae480566c92f743f8b8638f2e627011192942896c923f5",
-    "fd5dd138256cc59192fa24229e50da46d9ff90e40f07ba2f8d3650f9b1e49e44",
-    "3ecd08e0428b08bd02422782b31bc71185e52acfa24df184563189edc7229dcd",
-    "e6fa1b5a8c7d7a8d0ee3a670bc2405447002f739e69f5485cbef19252e86d0ec",
-    "eba421efbf4c9c140f1728e148019592f81b2c391c343549008f3a44e7d501d9",
-    "6bde29fc7d1f3aaa9c7b70902b40d2593a21f2e65ac42f85712db0345c438d15",
-    "328c60bb4b0345e9c2eb6ef4fd5d8d1e6441fce5a8ffbbc2596a2843f821951f",
-    "80fe105444c0d455c6a908fcfcae1c8ac47e9ca7f56a77c70910bd61a4bfa581",
-    "a7b7c48c576cc532f0e76d10ff8fb3f2e6f07dfcae5dceda0a62d22352a1a295",
-    "9811ece5a4197b584a4b9965914108651286a09da42011729113880412251063",
-    "730f01db6e7f1b67e6e6201f04eb2d710cfbbd0c8eda79b047d28bb0d6c01817",
-    "d0b7883fb224a124575d9ed92d5784ba405baf7973d4cbfe1639fb4b310a98c2",
-    "4308749eb49ec863d14b622ae91d7b7473b3f8995d3fc520077b7b2286cd27f8",
-    "e1d1dc1154433d63952cb802299439c9d032b2069c5f128d4db33fc580a7ef6c",
     "a9332c05bcc70112eefad97a76639a87ab6713dd5eb11b3ebf6e8d17b47bd8da",
     "4f8acfe4e60d481a873d9ed42b9cb7e16cd1b051229d53467f74a857b882e355",
     "07f66831fb6b44fb4ed4951870a31c373f1f1ff2f7f58aff717506ffdf1a0f58",
@@ -8002,23 +7988,23 @@
     "39500e80d89c917b8a7199dfa50d39713d82a47b1ed4902f35d34ab1e3eb0315",
     "071cf7dcdb6baabf21d30adb0f2db3a9f5042e556a93ba9199a1b3f9be20b5e1",
     "bff5e26587cb4a1f2eb3695061331122b82b7cfe5f7812161fa40008c35de57b",
-    "7ddeefc8eafb333679fbee1ac0cb6f72b8bed6ef8f3ecda2566c7799e821808e"
+    "7ddeefc8eafb333679fbee1ac0cb6f72b8bed6ef8f3ecda2566c7799e821808e",
+    "db139ce47d9cc674e477bcca710ce882c94c228868daf308cbfcb076e289f8a4",
+    "9c99d4b21786cc432640539f45a1d50fff4ffc81688f9780d289ff6548bb2822",
+    "de43c87641bab6f89092c10eb8e5e8554603d7a5c9e001fcef64e9a690925d95",
+    "22cc8aea44b13b40ca58e347122f78876a9725a08c170dc6f5e7c8de082162a5",
+    "3685f229c61320fcb601c86c70e7d9c42e53e69057b60ea87c475e1b2df54649",
+    "ba4b174d834b2f3b6dc31e2eebfa354776cd3c5c47bea35c4b525e70c0efa4cf",
+    "065c173576e54e08e82473365f8b142ab2aee999f31654fdbef0e610c47573a0",
+    "41fdbcf5bc92995695047ce0dc96ed6d806a70182cfae64688ee0021d2a635e8",
+    "825724a67c0d68116a54be9fcd9f518d255febd5251df5bfca3a6a06ba8c9dbf",
+    "f7893b91858206beb53a46563300cb0ad435b922d0b52f8d4477f3484988927e",
+    "13fb94df33b3769a14a5fa171b76d47d95d4862972ab0a42ce968e69f02d3b9f",
+    "a66050fec4302c4743dcaa8450845cbffe78d52c974952e2feb011f08462b7dc",
+    "fa73fbd7639c93c381bfa9be8fb591cde992a6daed8d7b0e80586800ffb242b1",
+    "f54619ffedb9d6da6eb0cd61f41be374e88f00663cc6275c2acdd293efd40f78"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Trump Hails ‘Great’ Ties With Xi, Downplays Nvidia Spy Scandal",
-      "title_ko": "트럼프 \"시진핑과 관계 매우 훌륭\"…엔비디아 스파이 스캔들엔 선 긋기",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/trump-hails-great-ties-with-xi-downplays-nvidia-spy-scandal",
-      "ts": 1795053104
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Loud explosion-like boom heard in Saudi Arabia's capital Riyadh, according to a Reuters witness.",
-      "title_ko": "사우디 수도 리야드서 굉음 발생, 로이터 통신 보도",
-      "url": "https://t.me/firstsquaw/194037",
-      "ts": 1795053188
-    },
     {
       "source": "FinancialJuice",
       "title_en": "BoJ Governor Ueda: difficult to determine response if weak domestic demand and yen decline coexist",
@@ -11504,6 +11490,20 @@
       "title_ko": "트럼프 \"과거 머스크 위기 때 도움 줬다\"…엔비디아 젠슨 황은 '미국 최고의 인재' 옹호",
       "url": "https://www.benzinga.com/markets/tech/26/11/63419216/trump-recalls-helping-elon-musk-when-he-was-in-big-trouble-defends-nvidias-jensen-huang-as-one-of-americas-rare-geniuses",
       "ts": 1795080831
+    },
+    {
+      "source": "The Verge",
+      "title_en": "Samsung’s over-ear Studio headphones leak in One UI beta.",
+      "title_ko": "삼성전자, 원 UI 베타서 오버이어 스튜디오 헤드폰 포착",
+      "url": "https://www.theverge.com/gadgets/1037474/samsungs-over-ear-studio-headphones-leak-in-one-ui-beta",
+      "ts": 1795080991
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Anthropic IPO Today: AI Giant Prepares to Start Trading in High-Stakes Offering",
+      "title_ko": "앤스로픽 오늘 IPO, AI 대어 증시 상장 본격 착수",
+      "url": "https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026?mod=rss_markets_main",
+      "ts": 1795080996
     }
   ]
 }
