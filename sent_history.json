@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795058955,
+  "updated_at": 1795059114,
   "id_hashes": [
-    "f5858ee652f226c44a511a8dd91b68efd1b5e1dc69f2c2d7f7546ff1cc0a73cb",
-    "5ce62afd6266018d6f4b40a66e39c8284961937cade782e51c94b9cfad50f85a",
-    "6a1550a7a2edb570d5ba14a224de1817ce768a0d65c8f3c62e21bf1cc7c2b7c5",
-    "5f72018a88da8ebd7955a27303f89f848a815a7c1ca898e468ca74069bbf7d72",
-    "5f3ba1a388d486de16edf14b30adf4079d6f104ebd8e2f01a36c21f0a0f78829",
-    "a3f20a35645e9ddf95484e4501fc3ad60c80154fe374fce51109e207e23622de",
-    "fb8d0be1cfcaafb7180766f6b3b5a35bb376206c19a611cdb840157199d4e0d4",
-    "c9bfe20e8d144c55f19b4fb1bdc010adcc9916639fc30ab8c3b1627ce9ea42ae",
-    "78138a2a9ee7418b03faf6987317282135d5bcccfeef9ad690cae4a6955ffd4e",
-    "f781a18cdab945c3374a2bca125294e14850bdb73fa279c889d035d8e3c85dd0",
-    "1b56c1a437e60ff6958321098e4802285d788d613a9d79ad10ade3105f3f6e85",
-    "ed600e779b960340727cf0c845e953b6be328056c73ba715c187c020b19792e0",
-    "e43386f1ce03073bdfb2ba5d295df625c9ad556a9eaa6d7d90b158a8304526c6",
-    "3676bca665682d166974aa9be693c8f35d7e9fa6219818040a657fdf84ef24b3",
     "16871a243f5689815b485c683906263401d217dfb9fa366ac98def208a92118f",
     "ca11578993d634d2b011db402a2b2821cea44adca70fd6cc5d3020085fd8d1ab",
     "d5f8999e06bc56ce77ae79efb9a62b98839141336aaf3ab9727a52b8cb0eab2e",
@@ -4000,20 +3986,23 @@
     "faf1fd0aa0f9b2cb8b92f80653277c891a57a14a4a90debe7e2ffbebc012e73b",
     "91c8794a2fb3b30ccb1b58b25e9c8c5b4c70c75ed68158c91870fe1087a89471",
     "d2c7af5a7db07128f0db3dd1141b7f6217cb672600ea867a2e02c3e535878208",
-    "a90f3b0135a645e824e72f4f6a378cd5552df4320a9d33f2a4900b9d52a01302"
+    "a90f3b0135a645e824e72f4f6a378cd5552df4320a9d33f2a4900b9d52a01302",
+    "5c97ecc81b5c38b79a668ec39969f31db6c3a881a3a4f19e1e08f90a63c6a830",
+    "9ed89cb867389eceee74b5a606d823e4a10de90c1fc6823e909fb1519e32d90c",
+    "dad766926ff6a7a3d8d830a598105b6e885845a571f5bc1c1e9d9d3be5edcd13",
+    "b57350cf70c1914295e82a846bf5c843fde4a82154788054aceb423f2a16ac3c",
+    "aefab36a49206cec0d3d865bf3e9c53db263a0c7769eae58e30e6831bd9b5e04",
+    "daf4f23b31541fa40fd9416c0d90df0231e2c5c33eda4c754e6a87dd6f3d752a",
+    "29e030cb1ddfef70ec944e4cd89d21157ca4f2d714293fdc19cad26427907d5f",
+    "dd8f58d5d9a5a332a7e99919dec454da15591f6e560adacb9812d9a8889720ed",
+    "8fd29d5ae01096f82631d47b2c52d77506dc4d57296e9e5e3520beca2b9897d4",
+    "6f7f74a4937ad04f2a5ab77edaa5ca358b967480f172b67e9aab2ce9a800b993",
+    "bdb703a0a9b4437358592851bec305bb45f6c09a59f20ed880a7e68531b3f3ae",
+    "a979e3c438ed3d7cf6b84a179d499e244b5e8362200613854156bc41a4b98ccd",
+    "b3693bd7a7a757bcf8e8bb8db552e283b8d897a0d9889bd6b1f43ff1b8d9c7a8",
+    "bc2204cb6fd244378890518afde692e88d43f83493db1562e9221c3ed75caf80"
   ],
   "title_hashes": [
-    "ec492fcb530567c30668ccf2fbaff2b6b579a35f6ec76a4a78002ab7cbb95ead",
-    "bfbaafce19ad6753e2993630f6b8147787315b4bd40b5223b71320f1a62158ff",
-    "368d0160c99560a69743db7167689fd1c431ca16bdb960385227281fef369175",
-    "9699afee1a1a6ded4332a42f0cb10502f89df6762f378f94e19efc2007b06a07",
-    "0c05f4e53bb4d16e2c940b08161ef58942986487028af701c45bb429a2a46c5d",
-    "a7eec93f55e5f85f0cd989a2d1719a677a4cf3e25e76aaa958163fe7d6c8d082",
-    "9da8adce734327e7d37392ed91c3adb5de3cf387b130558b1c1b982a3754df0e",
-    "64db1a45e38a96d2d32d65b1c73712adbcdd9eabeb2d53bc764c9a06f1823445",
-    "ba72af97b4e4a5052b16279ec68de3857ca9846f1b4fb2059ffb143ba870a74c",
-    "db5d71e6a233d606fe475ddc6f42c899a934d9e6c591aaac6fb2cd62371d9cd6",
-    "b54bc32681cd59bdb2a30a0b4c63151e5fb4c2797caa9f078a8bd2f802161c86",
     "340b5e07b8602a7e1fe03b678a11be45bc33d69d67c7e2e237a2419dea44f598",
     "f0d965da93854df0bebe4f25113392eeef30960def1076d08b432ec4c0be815a",
     "e29ea7bcaee9a0fa755238b97482dbb5a043cd14d5baad0c9f8ecb943c2a005a",
@@ -8002,30 +7991,20 @@
     "e9aa78f43e1aa9a5128f5e78599caa41b29c33693159cae68e9069e74e743d13",
     "b06a66200d7cacfecd93c090e35adcf31f6c0883888bb473465c1a20fdd348de",
     "31167cafe67de084b2eeaebab237a0beebd1651ea5d30a24ad3ec7dee47c0011",
-    "64312509818666342a94cc3b4f85c424f03427c85e8815ea991cb3fb9ab0fd19"
+    "64312509818666342a94cc3b4f85c424f03427c85e8815ea991cb3fb9ab0fd19",
+    "32d1493a743e0eae91eee5f9f44ff05a04c5183b0ee8d3b81feaee46d5317ce4",
+    "56d8341e53d15ebbbaf40232aa772d5c3fb2a8950db59ea1fcf72e5add62f61d",
+    "0154b89d664b17ddaf74e0ff7e2f029067ae172cc5e08bfed096b2232a4995bc",
+    "fecf4e208f7a330e6382e1fdd5d77ec931183ee5754d3742a2f7288bf09c46d3",
+    "cd5d3575d495735b46850d339a0da3169ce7f217afb9ad8b02ff9384055c983d",
+    "ee0d6392c749e95778003ac15fbd2e099dab9dce18afababa210f0fc071e4246",
+    "0fbd3ae9f2a3512ab6d311658bb82296e9490634c9dcfa3b4d05fc169ebb0e0d",
+    "a6ffa6cf3c1e1820122426327bfeda1adc544a9a6878829cfaa8ce7ce7543843",
+    "1d3c8f8c9f75f1490a6ff24f40c949421f5593a763e6fc6844b3ce763fe4f5ea",
+    "2d9cb7fa9664a08cbc5b9d48261c3484f83c84deccadff13d713530d87ac34a1",
+    "99998b3662bc45db14519575c3ba86f78982c5db74f9251f9a40b46647bb9804"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "CITI CEO JANE FRASER SAYS SHE EXPECTS MORE OUTAGES AS TECHNOLOGY IS UPGRADED, ADDING THAT THE VOLUME OF TECHNOLOGY PATCHES IS MUCH HIGHER AND THAT TECHNOLOGY FIRMS RECOGNISE COMMUNITIES ARE BEING LEFT BEHIND",
-      "title_ko": "CITI CEO인 제인 프레이저(JANE FRASER)는 기술이 업그레이드됨에 따라 더 많은 중단이 발생할 것으로 예상하며, 기술 패치의 양이 훨씬 더 많고 기술 회사가 인식하는 커뮤니티가 뒤처지고 있다고 덧붙였습니다",
-      "url": "https://t.me/firstsquaw/193964",
-      "ts": 1795038509
-    },
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Google CEO Pichai: Gemini 4 Neon begins rolling out today. $GOOGL",
-      "title_ko": "Google CEO Pichai: Gemini 4 Neon이 오늘부터 출시됩니다. $GOGL",
-      "url": "https://t.me/breakingmarketnews/178860",
-      "ts": 1795038511
-    },
-    {
-      "source": "딜사이트",
-      "title_en": "국고채 과징금 7200억…규모는 KB 더 큰데 실적은 농협이 더 '휘청'",
-      "title_ko": "국고채 과징금 7200억…규모는 KB 더 큰데 실적은 농협이 더 '휘청'",
-      "url": "https://dealsite.co.kr/articles/172996",
-      "ts": 1795038546
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Iran: Have exercised ‘maximum restraint’ in defensive strikes",
@@ -11504,6 +11483,27 @@
       "title_ko": "시진핑·트럼프·푸틴 정상회담, 실질적 성과보다 상징성에 그칠 전망",
       "url": "https://www.barrons.com/news/xi-trump-putin-summit-expected-to-be-more-symbol-than-substance-a8742bcd?refsec=topics_afp-news",
       "ts": 1795058954
+    },
+    {
+      "source": "매일경제",
+      "title_en": "부동산 전략, 금리가 모든 것 결정…‘고급자산’ 저가매수기회 왔다 [GAII 2026 Live]",
+      "title_ko": "부동산 전략, 금리가 모든 것 결정…‘고급자산’ 저가매수기회 왔다 [GAII 2026 Live]",
+      "url": "https://stock.mk.co.kr/news/view/1202384",
+      "ts": 1795058977
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "KAI, 기계硏 원천기술로 스텔스 성능 끌어올린다",
+      "title_ko": "KAI, 기계硏 원천기술로 스텔스 성능 끌어올린다",
+      "url": "https://www.fnnews.com/news/202611191222469973",
+      "ts": 1795059108
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Canadian Dollar Comes Under Pressure Against the Greenback as Fed Signals a Hawkish Stance -FX",
+      "title_ko": "연준 매파적 기조 시사 여파, 캐나다 달러화 약세 전환",
+      "url": "https://t.me/firstsquaw/194096",
+      "ts": 1795059112
     }
   ]
 }
