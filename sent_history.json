@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795090703,
+  "updated_at": 1795090865,
   "id_hashes": [
-    "bfc88dcf8604dc94fb5d0f0ea9eb127eb5b08cedf8d9bae9ba4cf1862b15f1c6",
-    "a65c80f20a4833c630bd43020ea8d362f80dfd1e06e6b2c1175b4678500341ab",
-    "2c09c50aaa85ce6ac4e2223633e4abb0039990e90664e7a4d00a7bd61a65e784",
-    "b52f1f4ebd04e4053e5a210645ee437e22ae62dfa5dffc3512750c474e41c4cb",
-    "dde59e0c9ec38bbe705b1814a8d67b60c7b85f6bb468f05e986f017d8a466f2d",
     "e9394d126ba8a57a90cd8d3558d1d4cb7efe6e57a8ffc8822e8ab1dcc73825f4",
     "cb6c4a3314b70d4f888e43724bbec33e57fbe21273b964d8ed73412d7a68d944",
     "8375c5d1dd4a77802ca3f1f6ed26f23ad2fe5838ea3d4be0be07706f02090f2d",
@@ -4000,14 +3995,14 @@
     "22e782d4db8e799325cef00414207a95b2f84eba3a152d28fbb21160d7c103ee",
     "74ccf6b48787c66802061c8ea009d474f05f775d7493d3b8fb2a278356f0788b",
     "5fdf767ac5ecfb2541866c466abd562f2eef372ac64f32cc3a69a3f317339956",
-    "fbf73c9536cdabd9c9de92d445341267f27192293eead06ee9e6cfde313f19d2"
+    "fbf73c9536cdabd9c9de92d445341267f27192293eead06ee9e6cfde313f19d2",
+    "8f455e0f8c326f63f059d9fb383a943473f91ef6e15d3b381e9785a17027465e",
+    "c54d9e04ddb164d21143c1432dc43c8a1251f1fb072fef04da62332a43a5a22c",
+    "224c91edd9a14d9f59ede67f993442fd4f30c35976b4c40b5e9d9a515ad6ef1a",
+    "d6e078489613e517a673409198a2b8b04dff2a4d0ec12954be192208598f4c5c",
+    "4aae3f4699a96e12138f69e742b77739d56d3deb8f186bd49d89fccf0bf5582c"
   ],
   "title_hashes": [
-    "220aad01f63e51265b5c47d25cd1be4bd92093d8a34a15ae81322854906e5aa8",
-    "f0cbe4418cb8379cca91850c9b25a6f524eb77407a25ccc83e456922f404e041",
-    "cd49458908021d858153549c257eac4bcaae75bb5baafc5c6b306e5d4002a13c",
-    "9b31971fa7eb54e5a111bc6e3b9627715aae6c1087c07e20db9e5be4e55b1b35",
-    "88f4b851d6ea37fd074ff442ad3a0006af970e57b3f0f156453ff1121b4410f5",
     "538bbf23aed32f65a1e912cacaee84e187b7cb79dc59b7a33f1c5660a9c0048b",
     "7afb19915441977b815b0d28d5ec732abc9640a9e5153ff7e0aac99e7ed51f42",
     "8d1ffed179e12e5e592ca69ab24a45a7ce6a04b1d5325b6bbe1cd03cfce1b795",
@@ -8002,16 +7997,14 @@
     "106e49fc218ee0541e2ef3bf675abd8b9e80468f1abd7e1f1fc643a006a6f0e4",
     "9e3ab7e2efe02c3c83df1bd076b5921ec36e126b5195e69f1ec4433eac6af2a7",
     "76b3c0600dba4a0e7112ed157322d7f772973a7433de50f92267a0c59432c22d",
-    "f23a1ae7e7f3e6d78f0aba6cadfb9aaa155753521832c942c940f1fab3d52a4e"
+    "f23a1ae7e7f3e6d78f0aba6cadfb9aaa155753521832c942c940f1fab3d52a4e",
+    "125e9e4f7fc13287e6337622624ac9b00dec67088975d0185276f9b630bf74c3",
+    "4720aee1217b59f2dfb33e96b9bd41c71af707052e5218fcecdeb7cd06e22a15",
+    "5ff4af6005752517d2e1b261af56d4ba7bade8f778d24bffc2537539e65f9844",
+    "1f9a3af8d2edca1865d47530438fa987cfdb6f630aef52c35af0eaf07eeea392",
+    "df9f2d5e10734e4da6ef3539309f09663b95488426f1289e16d0854226898cd8"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Trump Meets ‘My Friend’ Putin for First Time in Over a Year",
-      "title_ko": "트럼프, 푸틴과 1년여 만에 첫 회동… \"나의 친구\" 지칭",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/trump-meets-with-russia-s-putin-for-first-time-in-over-a-year",
-      "ts": 1795063754
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Anthropic IPO: AI lab reportedly raises $107.3B breaking SpaceX’s record debut",
@@ -11504,6 +11497,13 @@
       "title_ko": "모멘텀이 약화됨에 따라 Nvidia Quant 등급이 Strong Buy에서 Hold로 하향 조정되었습니다",
       "url": "https://seekingalpha.com/news/4674630-nvidia-quant-rating-cut-to-hold-from-strong-buy-as-momentum-weakens?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795090702
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Trouble For Elon Musk's SpaceX In Texas? Proposed $24 Billion Data Center and Power Plant Face Uncertaint",
+      "title_ko": "텍사스에서 Elon Musk의 SpaceX에 문제가 있습니까? 240억 달러 규모 제안된 데이터 센터와 발전소는 불확실함",
+      "url": "https://www.benzinga.com/news/space/26/11/63422058/trouble-for-elon-musks-spacex-in-texas-proposed-24-billion-data-center-and-power-plant-face-uncertainty-after-local-officials-reject-tax-break",
+      "ts": 1795090864
     }
   ]
 }
