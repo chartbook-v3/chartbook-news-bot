@@ -1271,13 +1271,39 @@ def _get_gemini_api_key() -> str | None:
     return None
 
 
+_GEMINI_MODEL_COOLDOWN: dict[str, float] = {}
+
+
+def _extract_gemini_text(data: dict) -> str:
+    candidates = data.get("candidates", [])
+    if not candidates:
+        return ""
+    parts = candidates[0].get("content", {}).get("parts", [])
+    for part in parts:
+        if part.get("thought"):
+            continue
+        txt = part.get("text", "").strip()
+        if not txt:
+            continue
+        txt = txt.split("\n")[0].strip()
+        if len(txt) >= 2 and txt[0] == txt[-1] and txt[0] in ('"', "'"):
+            txt = txt[1:-1].strip()
+        if txt:
+            return txt
+    return ""
+
+
 def _translate_with_gemini(text: str) -> str | None:
-    """Gemini Flash Lite API를 활용하여 외신 속보를 한국 증권사 텔레그램 속보 톤으로 초고속 번역 및 윤문합니다."""
+    """Gemini Flash 다중 무료 풀 릴레이를 활용하여 외신 속보를 한국 증권사 속보 톤으로 초고속 번역합니다."""
     api_key = _get_gemini_api_key()
     if not api_key:
         return None
 
-    models = ["gemini-flash-lite-latest", "gemini-2.5-flash-lite"]
+    models = [
+        "gemini-flash-lite-latest",
+        "gemini-3.1-flash-lite",
+        "gemini-3-flash-preview",
+    ]
     prompt = (
         "당신은 증권사 및 경제 언론사 외신 속보 데스크입니다. "
         "다음 외신/글로벌 속보 헤드라인을 한국 텔레그램 증권 속보 채널 스타일에 맞춰 "
@@ -1288,7 +1314,15 @@ def _translate_with_gemini(text: str) -> str | None:
         "3. 고유명사와 금융 용어를 정확히 표기하세요(예: PBOC -> 중국 인민은행, Fed -> 연준, RBA -> 호주 중앙은행, $NVDA -> 엔비디아).\n\n"
         f"헤드라인: {text}"
     )
-    payload = {
+    payload_fast = {
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {
+            "temperature": 0.2,
+            "maxOutputTokens": 300,
+            "thinkingConfig": {"thinkingBudget": 0},
+        },
+    }
+    payload_fallback = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
             "temperature": 0.2,
@@ -1296,22 +1330,26 @@ def _translate_with_gemini(text: str) -> str | None:
         },
     }
 
+    now = time.time()
     for model in models:
+        if now < _GEMINI_MODEL_COOLDOWN.get(model, 0.0):
+            continue
         try:
             url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={api_key}"
-            resp = requests.post(url, json=payload, timeout=(3, 5))
+            resp = requests.post(url, json=payload_fast, verify=False, timeout=(3, 6))
+            if resp.status_code == 400 and "thinking" in resp.text.lower():
+                resp = requests.post(url, json=payload_fallback, verify=False, timeout=(3, 6))
+
             if resp.status_code == 200:
-                data = resp.json()
-                candidates = data.get("candidates", [])
-                if candidates:
-                    parts = candidates[0].get("content", {}).get("parts", [])
-                    if parts:
-                        translated = parts[0].get("text", "").strip()
-                        translated = translated.split("\n")[0].strip()
-                        if len(translated) >= 2 and translated[0] == translated[-1] and translated[0] in ('"', "'"):
-                            translated = translated[1:-1].strip()
-                        if translated:
-                            return translated
+                translated = _extract_gemini_text(resp.json())
+                if translated:
+                    return translated
+            elif resp.status_code == 429:
+                _GEMINI_MODEL_COOLDOWN[model] = now + 600.0
+                logger.info(f"[Gemini 한도 전환] {model} 한도 도달(429) -> 백업 모델 릴레이 전환")
+            elif resp.status_code == 404:
+                _GEMINI_MODEL_COOLDOWN[model] = now + 3600.0
+                logger.warning(f"[Gemini 모델 만료] {model} 응답 코드 404 -> 백업 모델 전환")
             else:
                 logger.debug(f"Gemini {model} 응답 코드: {resp.status_code}")
         except Exception as e:
@@ -1320,7 +1358,7 @@ def _translate_with_gemini(text: str) -> str | None:
     return None
 
 
-def translate_to_korean(text: str) -> str:
+def translate_to_korean(text: str, use_gemini: bool = True) -> str:
     cleaned = clean_raw_headline(text)
     if not cleaned:
         return text
@@ -1328,10 +1366,11 @@ def translate_to_korean(text: str) -> str:
     if len(re.findall(r"[\uac00-\ud7a3]", cleaned)) >= 3:
         return cleaned.replace("~", "-").strip()
 
-    # [1단계] Gemini Flash 초고속 금융 특화 번역 (API 키 설정 시 최우선 적용)
-    gemini_res = _translate_with_gemini(cleaned)
-    if gemini_res:
-        return _refine_korean_finance_terms(cleaned, gemini_res)
+    # [1단계] Gemini Flash 초고속 금융 특화 번역 (실제 발송 대상에 우선 적용)
+    if use_gemini:
+        gemini_res = _translate_with_gemini(cleaned)
+        if gemini_res:
+            return _refine_korean_finance_terms(cleaned, gemini_res)
 
     # [2단계] 기존 간이 번역 (Gemini API 키 미설정 또는 오류 시 안전한 폴백)
     pre_cleaned = re.sub(r"^\*\s*", "", cleaned).strip()
@@ -1667,13 +1706,14 @@ def run_cycle(
             break
         ctx_en = cand.get("context_en", "")
         if cand["source"].lower() == "wallstreetcn":
-            title_ko = translate_to_korean(cleaned_title)
-            ok, cat_label, is_rumor = evaluate_article(cleaned_title, title_ko, cand["tier"], cand["source"], ctx_en)
+            # 사전 필터링 판별은 무료 일반 번역으로 처리해 Gemini API 한도 절약
+            screen_ko = translate_to_korean(cleaned_title, use_gemini=False)
+            ok, cat_label, is_rumor = evaluate_article(cleaned_title, screen_ko, cand["tier"], cand["source"], ctx_en)
             if not ok:
                 if not dry_run:
                     store.record_seen(id_hash, title_hash)
                 continue
-            cand["pre_translated_ko"] = title_ko
+            cand["screen_ko"] = screen_ko
         else:
             ok, cat_label, is_rumor = evaluate_article(cleaned_title, "", cand["tier"], cand["source"], ctx_en)
             if not ok:
@@ -1704,7 +1744,24 @@ def run_cycle(
         if deadline and time.time() >= deadline:
             logger.warning("Actions 안전 타임아웃 예산 도달로 이번 사이클 추가 발송 조기 종료 (릴레이 보존)")
             break
-        title_ko = item.get("pre_translated_ko") or translate_to_korean(item["cleaned_title"])
+        final_url = resolve_canonical_url(item["url"]) if item["is_gn"] else item["url"]
+        preview_title = item.get("screen_ko") or item["cleaned_title"]
+
+        # URL 섹션 차단 및 실제 발행 시각 검증을 Gemini 번역 전에 선행해 불필요한 API 소모 차단
+        if any(seg in final_url.lower() for seg in ("/sports/", "/entertain/", "/entertainment/", "/press+releases/", "/press-releases/")):
+            logger.info(f"[비시장 URL 섹션 차단] [{item['source']}] {preview_title} -> {final_url[:70]}")
+            if not dry_run:
+                store.record_seen(item["id_hash"], item["title_hash"])
+            continue
+
+        is_fresh, fresh_reason = verify_true_publication_age(final_url, max_age_minutes=max_age_minutes)
+        if not is_fresh:
+            logger.info(f"[과거 기사 재수집 차단] [{item['source']}] {preview_title} -> {fresh_reason}")
+            if not dry_run:
+                store.record_seen(item["id_hash"], item["title_hash"])
+            continue
+
+        title_ko = translate_to_korean(item["cleaned_title"], use_gemini=True)
         if store.is_duplicate_or_similar(item["id_hash"], item["title_hash"], item["cleaned_title"], title_ko):
             if not dry_run:
                 store.record_seen(item["id_hash"], item["title_hash"])
@@ -1718,22 +1775,6 @@ def run_cycle(
             item.get("context_en", ""),
         )
         if not ok:
-            if not dry_run:
-                store.record_seen(item["id_hash"], item["title_hash"])
-            continue
-
-        final_url = resolve_canonical_url(item["url"]) if item["is_gn"] else item["url"]
-
-        # 스포츠·연예·홍보 보도자료 URL 섹션 차단
-        if any(seg in final_url.lower() for seg in ("/sports/", "/entertain/", "/entertainment/", "/press+releases/", "/press-releases/")):
-            logger.info(f"[비시장 URL 섹션 차단] [{item['source']}] {title_ko} -> {final_url[:70]}")
-            if not dry_run:
-                store.record_seen(item["id_hash"], item["title_hash"])
-            continue
-
-        is_fresh, fresh_reason = verify_true_publication_age(final_url, max_age_minutes=max_age_minutes)
-        if not is_fresh:
-            logger.info(f"[과거 기사 재수집 차단] [{item['source']}] {title_ko} -> {fresh_reason}")
             if not dry_run:
                 store.record_seen(item["id_hash"], item["title_hash"])
             continue
