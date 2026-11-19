@@ -1,30 +1,6 @@
 {
-  "updated_at": 1795116304,
+  "updated_at": 1795116460,
   "id_hashes": [
-    "18b5c18fe205882c2f902948a4a496c4dcd5816dc935332fafe2c5ecb45122fd",
-    "b11dbc08fd743faa673e7d41e6a9caf08537cd507156b5443ff05dec03897a0c",
-    "156f7a0436714e05015a569fdb9b2ab0cca80348fe5b38b6e7875496b5a45361",
-    "cb3c36222acc05c7b42f45ef5e2ce67ebc5318fda7fc0f93450601233e3e0286",
-    "c145c8d8a31a355a7b11dd17f550146658a2d705e9e22ba434ec263389d37cad",
-    "42ff6d9c1693423bdca75e56ea195d9fc0370280d45dba0e9625cbbfbf1d572e",
-    "758c27fd9b2c59f3e4d92e8c8cf8c0e580f3830c10729afbc41d8cfdd7967f91",
-    "fc6c2d2e1f120ac80b543e307f926a897733789eec3e7416a1a4d047e59922e7",
-    "c4770a51cf48428ffc8286b9901f36dcc6cab375e855c86db2e201fe6cfd2539",
-    "dfd26deb53bfe9618ffd12a2a3aa66b734db4f05c3aac6e70247e4209ee3ca19",
-    "59c738db175ac5b80cfa89d1b07ba7add215e1a40e3b68726e79d88eba81c71f",
-    "fdf036aabd9dac5e9487563b2bbc25dc07d01122ee816c5e7fa26f8a4488b99f",
-    "b15f6b43258f5e3ae2e14e1bd1c5e70e74625a91aaeed1239a0d1cd44078a277",
-    "38c6a20bc1be325fb692dea8ea8a13b970f8b30e75c741c5db30a8749c523b30",
-    "695cd2f24a0bcbc046e4be7a111a7b594322fc561fdba21a0233a0b734d9e01b",
-    "fc31e2c92aa018bc52e180e9aa827ee68b7c1ea2a912cafd6ce37a8fb64218ca",
-    "3120bb5a949ae1d1e9daed676f146f84247e6414320cd51111456fc0cfffcdbd",
-    "9259381ef57aa6a76a9230afc3fe717f2cd08fad14ae6badd911d5bcc7612835",
-    "8541607dd4ea32c75b128c7eac16d3153826dd472c58f9cfb2fdafe526aa4814",
-    "f9aaffeeae106db32c58d20e0be75ce608b752fc1cf9afb705aabdfaea54a315",
-    "b4bb7961568ddbffb325429b0c1681efa127ce46771938a5686d8c0ac335a36d",
-    "716323ff576abb97a5f8eb93ac1ddf7526936fba4cf87cf8b8a600ed95ec2b21",
-    "1590c739209b01271efb8f0a1017a70ac274a968136972961c16c7b0aec0d8bd",
-    "fd6def95a2497c148794d1a944c7270c468bf14c0585cbd7a641890e299c1dcd",
     "2169f32072aaf7e964964913ebd3169d21f81beada94608ea9fb232e3b059417",
     "c58c77d7837d5c60af2292d26c7bb81eec108a28523d71faa6e57e628c63eca6",
     "7ffdb3cde27bb8f015f75be447aa6706c0275103cc1d59340fc62f3ac2089077",
@@ -4000,24 +3976,33 @@
     "0ea9e1e0aee509c9a9d7149e83f4817c8e7b00f8d6cf9a806cab29ac693ef872",
     "fa97af56e8362969425350cd7c3135e4b8567d95fe7eedbcee536362345e29a5",
     "3a2a1b7cc8f45fc9be60d3c6e1c0f8060f86fea3954390ef3efd82094efc5cc6",
-    "fcac4a2f2d50ef199492be657437d0f90e47dfe24679b5e3acc9000914c72faf"
+    "fcac4a2f2d50ef199492be657437d0f90e47dfe24679b5e3acc9000914c72faf",
+    "38e6823a23d46eeb6047304c69d21d68cd8265e3c145b5c0f96ef1354a30dc9a",
+    "60185470f3b051a30e4b56c43adc4023de62b15629764eb9dae63a560ac35d9d",
+    "0db1a805cf8f511ab3ebc081ed0a03e28386506d283ae038b4bfcb2b096d3235",
+    "dba3104870e3281314eb092a16ec76b9afa01e501c38bf83d98ef468d4b340e3",
+    "775c72ee236742183d86c84324fd25dec74851c867cb22c110f306fdb8e8f892",
+    "b2818414efc715d783635465938a646b0f683670136d399bc9c430a5a8a0993b",
+    "fe3226746378f76af14412dbfec9c626c8e51a22779756f6b65db9e928ccff31",
+    "9f76e36a370c9303d0381625876f80b2b73a8e1ac0d52a964458467d38fca913",
+    "720d33c8e57d032feedbf7a29124fbf326205975283d5d9b3947795c1eb1dd7f",
+    "b5f2b817e7e62a7641cdccb4a660d4a76772326886f6d6a31f0168612d09d818",
+    "be16ae1104c91f854455dfaedca946110f6528970ac26e9eff5f3fd32c69fa2c",
+    "cd01df347265596b8d9bdfe5c28561c802d9384963053c7187693ae5425c30b9",
+    "497e6d971a20889476ab3b73b6b62aff633b3b5d931e39226a85fea307edbf82",
+    "e1f301fab51434c3f42650085ea7ffe71a070484da2a3cc77aaef4465f1a7d5f",
+    "592fb96fcbc17e30d344b8b2d7f9fa928ed71dbdd7b26f5d561195b2fc33a726",
+    "53fbf4d4ea52b8124a1ea56ab01d54eac7b3634af9856735484497b790b1cdda",
+    "f9747eb49f16df018079db5bdc09670cbd905e8401e0c9dfc85d1fb53cef6b07",
+    "80e3c5560dfcec4b574a48aea366135b812d910bb3b6104cfb299e11befb0543",
+    "cac916bd74044a4acac53bc00868abccfc7efff47265f25ee4bb7e152da3109b",
+    "bcf4109dc66536c8e2ad23f6efab4b33339b089888630bc475ecb2e19d2ecc68",
+    "e70fe45c7154ab4b7136f583367355c1ed359273a2733ad4b1c152d69acd9496",
+    "20ca6f01f6b3634828e201db39b6c21c707ea777e90a172e379379825ffc9da6",
+    "bf2d0b41b139db9fef8011df4e41e2849870dd2a843b11adb1f34c2565c608ba",
+    "ab5cf06d4e63f893e5c1a842371ee7f1204488d791031be47150e7d832cd4641"
   ],
   "title_hashes": [
-    "2738acdc36f0b9d7e3e4b779d7a276a58767122697f5d3cf006b7ea19e7f96d7",
-    "90b563e1ce74034e02a4e8ec4148188fed7a5a489e09d8fa69b2e9386afb4ea0",
-    "fe6697ecb9406b699ad38df7ec90e613f4da1fe80f79e514a33b765375ae73dd",
-    "92f0ef27edce8fc9e18992281318c23f27f61595c95c3aad1ac97293f837b278",
-    "c0bc529b4edcadea3b36a5b3752d6d8f3f74a95dcaf0e2db536690035c954710",
-    "adccf488a057c20dd7fe1a969b3c15b4bbd0b58ce790730fe50a25537894b8d8",
-    "98500734c1fbc6840e7e2936b80fc05fea00b27b14b2b7b8d3b5e10f52ff35f6",
-    "e4beac41fd43399ea75453cda0d6a0d3502f9f07b8cfbc781c3741c71be667a6",
-    "d89dae9dabcd490d7b2ff2833de42eeb904e65b351b73ca307ddd0603f143dc0",
-    "faf610739f88bae545a9c705c2d72f0d04e6a99173417ea7c0b3c9cdb41a2453",
-    "77b40d425ecc6244a7185118000d1be70f47b15abc71f167f6f1a9a721afa043",
-    "d56d85230c80f273bd63aa9fcafb0802cf785e460f67fac90d1a3443eeaa9f61",
-    "0c7e97641ca1d0abbdbfee96d3142243c1f74b191015b53c33c0354de44f5183",
-    "7926fb2c53524b53bc53ef4ea019add471d930bf3c2bc97892e64a073e063026",
-    "373bf9ce62b2191629f67bddfa33913ac86090bba5984e065b7ebd265dde388f",
     "1d09cb1697353d17c2ebb50ece3bbb5de7b21c041a56b82d411f1972b9bb2c39",
     "6105c4ed90b9b211970605ffce71b11f599882ee511df7f75d59a9e41cd486e6",
     "36ba39aba801dead12e2d12c43893068d963eeb8974341003320ac6c1f8e952e",
@@ -8002,51 +7987,24 @@
     "61437abf4b29cc8488b51fa4a5d892d0bbda0f6e869f03e336288eb35d6070d0",
     "ef40b27e497884efa38040e84a482c18f07f0cdd919de7c69b990f24d3990bbd",
     "dc55221c18ec2687c102aed9b69545cfa1f5fbee55c2a92f18a12f25050c0fed",
-    "b5752c688ee4c1c291f9a09097a7d5eacfe3172b4aecb30e329dfde06671a706"
+    "b5752c688ee4c1c291f9a09097a7d5eacfe3172b4aecb30e329dfde06671a706",
+    "431ebdafd6c1a333effc373f2214cc0f1d5ed9b877ff6214946e1e97142c47f8",
+    "6ee84a73dfe1720746d980659bcba0149d7ce58e4d53706863f40eb968efb2d7",
+    "c24e2bbc169782f72feb79b44d8d6bb2a3cd8ea8e8e07dce1b176860206e5e0a",
+    "e9e50fd417e1b7b08ac981bed80b7ddd10bd3d6a7995a6719bd31a7c1533abd2",
+    "1a2b4658ff4d76606632f6faed6f0fc7e579e63f7cf34e9fa718858765b93614",
+    "835a691a8d049c6784baa661d95f728de4ec174094215f556cc3018b80ad3522",
+    "9bde9ec83949321f67f72c6d5c6dce88af39b1bbbe7dc4badfc5dc80e795b57b",
+    "306a84d040ba0feecdc95d74bbe555b5faadb3e11b3b7f314f6793e8f5e32887",
+    "75ad2b53ae5be353ffa7659ca05117d883c773213b90146bc1fa77028aafa65a",
+    "96ab4defb2fe61e8fe085e08a3180640f585d7008febcd5298c40ee60838dfba",
+    "4334ec7dd2b15e0db7731fe555092dfa97cca119786dd32e2db57960d61692f6",
+    "57ed2b0b96705b2d7c9bf95ce67a4dbaa927af1ce873835a7b5d9b0000095ea4",
+    "b626e0840ae61850cf1f8571930241a904adcaa7d5c46955e897e02e9b5bbb90",
+    "171f3185714ee8b9d8e4c6d210eab0728e43e671e4c24d45d1127e2ccfb94ca6",
+    "a2a64de634df6e3657ccea7f35c3dd1eb6efb9d8ecf09473b52fc62eb6294a4e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Arbe Robotics Non-GAAP EPS of -$0.06 in-line, revenue of $0.75M misses by $0.1M; updates FY2026 outlook",
-      "title_ko": "아르베 로보틱스, 3분기 Non-GAAP EPS -0.06달러로 예상 부합·매출 0.75만 달러로 예상 하회…2026년 연간 전망 업데이트",
-      "url": "https://seekingalpha.com/news/4674639-arbe-robotics-non-gaap-eps-of-006-in-line-revenue-of-075m-misses-by-01m-updates-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795090072
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "PUTIN: UKRAINE AND EUROPE ARE NOT YET READY TO MAKE COMPROMISES TO RESOLVE THE CONFLICT - RIA",
-      "title_ko": "푸틴 \"우크라이나·유럽, 분쟁 해결 위한 타협 준비 안 돼\"",
-      "url": "https://t.me/WalterBloomberg/38673",
-      "ts": 1795090075
-    },
-    {
-      "source": "9to5Mac",
-      "title_en": "Apple announces Black Friday deals on iPhone, iPad, Mac, and more",
-      "title_ko": "애플, 아이폰·아이패드·맥 등 블랙프라이데이 할인 행사 발표",
-      "url": "https://9to5mac.com/2026/11/19/apple-announces-black-friday-deals-on-iphone-ipad-mac-and-more/",
-      "ts": 1795090105
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "ALIBABA CEO: THE ANNUAL REVENUE RUN RATE FOR AI-RELATED PRODUCTS EXCEEDED $10 BILLION- CONF CALL",
-      "title_ko": "알리바바 CEO \"AI 관련 제품 연간 매출 런레이트 100억 달러 돌파\" - 컨퍼런스콜",
-      "url": "https://t.me/marketfeed/1081602",
-      "ts": 1795090169
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Coherent stock jumps on $2B share buyback plan",
-      "title_ko": "20억 달러 규모의 자사주 매입 계획으로 일관된 주가 상승",
-      "url": "https://seekingalpha.com/news/4674637-coherent-stock-jumps-on-2b-share-buyback-plan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795090386
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Evaxion Biotech ADS GAAP EPS of -$0.01 in-line",
-      "title_ko": "에박시온 바이오텍, GAAP 주당순이익(EPS) -0.01달러로 시장 예상치 부합",
-      "url": "https://seekingalpha.com/news/4674643-evaxion-biotech-ads-gaap-eps-of-0_01-in-line?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795090389
-    },
     {
       "source": "Wccftech",
       "title_en": "Square Enix’s Final Fantasy XIII WhiteRecomp Project Pushes 150+ FPS GPU Performance on Integrated Laptop Graphics With Just 1GB of VRAM",
@@ -11504,6 +11462,48 @@
       "title_ko": "Bank of America 은행가 Stewart Barry가 Allen & Company에 합류한다고 소식통은 말합니다",
       "url": "https://www.reuters.com/business/finance/bank-america-banker-stewart-barry-join-allen-company-sources-say-2026-11-19/",
       "ts": 1795116303
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Anthropic Leveraged ETF Race Heats Up",
+      "title_ko": "Anthropic Leveraged ETF 경쟁이 뜨거워지고 있어",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-leveraged-etf-race-heats-up-video",
+      "ts": 1795116390
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Williams-Sonoma reiterates FY2026 outlook of 4% to 6.5% comp growth as it flags Q4 shrink lap and oil-driven freight pressure",
+      "title_ko": "Williams-Sonoma는 4분기 축소 랩 및 석유 중심 화물 운송 압력을 표시하면서 2026 회계연도 4%-6.5%의 복합 성장 전망을 반복합니다",
+      "url": "https://seekingalpha.com/news/4674859-williams-sonoma-reiterates-fy2026-outlook-of-4-percent-to-6_5-percent-comp-growth-as-it-flags?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795116393
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "东方汇理：更青睐挪威、澳大利亚和瑞士等债务占GDP比率相对较低国家的债券",
+      "title_ko": "Amundi: 노르웨이, 호주, 스위스 등 GDP 대비 부채 비율이 상대적으로 낮은 국가의 채권을 선호합니다",
+      "url": "https://wallstreetcn.com/livenews/3202779",
+      "ts": 1795116396
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "BoE's Greene: second-round effects will likely occur",
+      "title_ko": "BoE의 Greene: 2라운드 효과가 발생할 가능성이 높음",
+      "url": "https://www.financialjuice.com/News/9860505/BoEs-Greene-second-round-effects-will-likely-occur.aspx?xy=rss",
+      "ts": 1795116399
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Trump Bought up to $380K in Nvidia Stock, Calls Huang Exit 'Tragedy' - NVIDIA (NASDAQ:NVDA)",
+      "title_ko": "트럼프, 엔비디아 주식 최대 38만 달러 매입, 황의 퇴출 '비극' - NVIDIA (NASDAQ:NVDA)",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63452585/trump-nvidia-stock",
+      "ts": 1795116456
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "BoE’s Greene: We need to shore up credibility on inflation",
+      "title_ko": "BoE Greene: 인플레이션에 대한 신뢰성을 강화해야 합니다",
+      "url": "https://www.financialjuice.com/News/9860507/BoEs-Greene-We-need-to-shore-up-credibility-on-inflation.aspx?xy=rss",
+      "ts": 1795116459
     }
   ]
 }
