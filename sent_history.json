@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795106839,
+  "updated_at": 1795106991,
   "id_hashes": [
-    "0ce67efbeb5173aa349271b5d716cde81d131b9dc12fb457583196902378c0bd",
-    "4f3e2be79a84dfbbfb852ba384319547adb4feda10054cdbeef2c79bff140273",
-    "cadb29d8326426c8db7855a1d57c5a1b3803c46332131d0e6d54ebcf9322c08a",
-    "4ec527c4ba564a04664e9b8739af75f2274b8f1a6fafe40353ac0ce949bb0ad5",
-    "66e5f1b9feb50716441985080fd0fa674a8e30986247afe91fcb194e0df3cfbc",
-    "e63f4aa41f9f19ead500516bc08e44bad2cf4a1d8bcb4d0e9eca8fd6af0e36f5",
-    "8e4a6c64044662c9acb02edb9fbd7dd86e4f7cfa6f36aaa7c704d6e4d416920e",
-    "12db83cc02e88b89aaa747bfa28395ae3ef20bf73e569c8ec7b66ff101be29b6",
-    "5cf7ba3552c7201c640c076d7bd2f1aaa67eb868f55fbc636e1b062912d9e223",
-    "4a8edf1aa73a41f24dbe067cd0e7a3486ca93dcf6fa982d1595af99a1e563b57",
-    "b3dfee49f8fb2603150d4479fdb90e93d065172f99f9b7d0bd6da40d68fcad57",
-    "e55e94eb53534b552bc71916dafdb320b4fcc2aecd8dca501c2995b32cfad6d6",
-    "c1c19260cb76ec285ec35a7da80de98a3c14a48403a0cecc396f3e86a450cdea",
-    "d41ff610a59e5dd02345cc60952791d0032ad8a6b19de1171d42ba10ccd47c93",
     "e89d10a0b95f83c7dc92ec683fe2bc46098da0121bd05cfdc2709baa3a939853",
     "ebbdfcfb68ecf18030f9bb35d93c5d2904e54bcb50088d2745dd4f7e7feb3cb1",
     "9881c4fff24fe713b7a43c4f2f1d52c0e384026be79b00a27d2691f88c00d15b",
@@ -4000,25 +3986,23 @@
     "ffe80baf5806087ae969edb7fc55cf9ed1f1fa519702a014336e41bed0e429e3",
     "f149624f4f8195f54e0ca15c612ad3abee5d4c1bb557019bb52aa5a512fffcd0",
     "1d5cf16f68731b92d1200d8a88e6686e18830913b688cf2a209083128e204533",
-    "96f7bac44b9a4e921a00bd3dc636a2e0bdc08ca048ce9d229ba155091dc9f474"
+    "96f7bac44b9a4e921a00bd3dc636a2e0bdc08ca048ce9d229ba155091dc9f474",
+    "7085de5f8b1e32b2086bfc420ffa2d647b0a059e14f0e55156b95a9563ebd55f",
+    "efe4aafa69f693b74a6c78edc0662299eff688925c0e40a93dc4c115cdd23ece",
+    "bd42090df2bd93a07cd0f78359a8dbd8f0c254197cc92bcba152842ad2e9e884",
+    "721f67939b6ca973e2bb3c4f44e740bcc0bb7a475e3018a79bed29e5703dfc94",
+    "8bce13ba7e0367be0711bd07b5589bd7f83a98e461cdf2882ba44a18efe4a732",
+    "4410769a4029e037988d9232a2cfd48fa8245b33d7cf53b60269afaf41ad25ba",
+    "c3cbe8b04a7ab55e4cab0fbb73159d293e7b19eae149452800cd07c64ae9679e",
+    "ab9e674bd5e69010396588b1a0b30815c80a5dc46cded3d82f04b8f3347c89b0",
+    "63a4c6ea346aac20dd701db08d2aeab1553222167960ab739d9e0ba3cb156a45",
+    "4b0c0153fe323093c2360989bdf9562792a12ae821fbacbffed49e9d03dd784d",
+    "8c4ad99a31e7f939f37297f2e96ffd1f607fe4566daba03f6c35184dab513380",
+    "347f21b883c946aba9ca34bd1c24cf11f57c839be730a80ecbd241d6dc469773",
+    "548db5c4a9cad69c765436aad566cabce0cafdce89a427c169768d6886a5aad1",
+    "affd5eb6c5ff813d7508126b9367db46a3e7a738a105c5b58a6bdf47017d2632"
   ],
   "title_hashes": [
-    "5e1fcbf0eb28c761afbfe9d358c7e72c3a0338a2f5750b50648a6092fadcf929",
-    "ba259c27cd61992563787e4d0a3b644fb3010b0c33d615e39eaf21e947a9f522",
-    "550a50ab98c5e609da14cec3b9131e66837743b1419a38788d6f0dd924a1b2a0",
-    "85b3b15c4f94dd6da2ec6e0d00c3556be21736cb7816101c54e20bb78056ec36",
-    "c989290d962154fcf06fba6ad939ec5d2e117710ee216678ce07522c4abd848e",
-    "df12d055dfd6778bf3c7b021c66540d3c607334f2099cd42a181209a5c3da01b",
-    "85b42d0ae93e8d7389a1b10e70e97b71970dd700d7ef6ab486d667cd53029fcf",
-    "c921935e9b9a2b7a9773c65f1de04d965eafbc054f048de58d9cb8ed787b08e8",
-    "ffcbe1b1e85b9c6f49afc7ef0f59dd083ba696be92b644feff787e6113d04518",
-    "886623312e2b570719cd879fdcac482d911091bac8490e5372c285c89bbf9e77",
-    "e3d548fe37b4463c44dbcd4b115f7191f6c9ae4fb614e11e9fcacae09fead746",
-    "ef85807bb30b4b8b0dda6b6afec8465feb0c7d214ec2f8b81ff94945e5841628",
-    "6e48d10f8a42d7c7d88056abfe8f34ada849dc18a345a2aedea9ce9e872abaae",
-    "fd074735ad04e5e30b029df069d66db2e4f81bea9f59d37b33b0905c4dccbd1a",
-    "abc8317dd1e84eb259ca5caca824e759e6b3faa621ce5fe6636a88787e79db33",
-    "98288f46f9dba49fd0440f7805200cb88c7afdb9743f07468c2a9ff6a153005c",
     "c598123db81f4b6b1aae80f1ddd4f201e6186b82895c66e8abe8a6956d01dd10",
     "44ab9d37afe6976d65bcce16bd324da3f27d54922149bf73d505ebb24428dd10",
     "ac242642f17e4c4dc66dcc878135ba537e6c07918912a156f7f32b33cace97ec",
@@ -8002,30 +7986,25 @@
     "fc843ac2c77cf9325033801fa6a1d7b3bc1dc5ce739a449b82db71fa12163acd",
     "cb17681d81ebd77580140aa1b68b7573638438833b8685037a29108cab60d0ad",
     "fdc892a708724a26d1ed75e71a4448e752212bd80536c86e9dd1fc95e0cfe48d",
-    "36e209623653f3373ca850aa4cf2e75944e6ecbfc6a2abb80a07b8f798b55a86"
+    "36e209623653f3373ca850aa4cf2e75944e6ecbfc6a2abb80a07b8f798b55a86",
+    "b5c7554b4c583496807b9c46b72f5efc405527d462f95be808d0fcda5dec2020",
+    "0c8c10ccbde60db622c523aace5ac5342282d93625c1e2ae6d6777501795a253",
+    "efd61832ff1d05d83ca83a2befbe27e2d5bb5d1e125d8cb8953e1ad5d82b85a1",
+    "968445af0c358a86988438d9567d15416e9a41fb5fb5d12d4549ac17f1106359",
+    "fa1dbf69c9a838227c2c3ad0a0e4c47c28436620c9b7b0e8e7c150706950da05",
+    "4dc9ae7cf2b0dcff3747e57c642d6773fd910f42b1dd06b73eaea910e3a6c6ce",
+    "ef3f327c10e8c80542541c5528a652c60f956a3aec278a48a69eb717a3f16477",
+    "9d14a5b4a860434e0af714a77ccd957676a406e8175b1e92a91c8974503944e9",
+    "a847f9f1c54e573212021130f2a0c7c79ca2478f0e822acb1abb3fd3b62a831b",
+    "4e9175f717fe3c5ddf56465d51f536ed7a602fc4193e745fdf17297bc06d9e6a",
+    "6ba9447a96e17fdd8f79b1101a31d1b228d421aad9bc7a286c078a0ad68eed4f",
+    "4cdeafe4c98c9b463f4b5b515107dc37874a59fa76515b9383c52189f3504f52",
+    "50b77c5988b8539166ad10ad4b5054331ea821a470057d9e96f2564fb7bb40ec",
+    "a2d0418909203e761edee683fc70224a6164abd8a731a8f4e46d346903efd95d",
+    "a0317de8987ff0eef05081585a2cdc6e77022dd4bd0b795043850b6f7df8aa22",
+    "a735fe6102acb8dc158468fd0195497f2af871d2cead7c292c2b7e6108114a65"
   ],
   "recent_sent_articles": [
-    {
-      "source": "이데일리",
-      "title_en": "[속보]중국 CCTV “푸틴, 미중러 3자 정상회담장에 도착”",
-      "title_ko": "[속보]중국 CCTV “푸틴, 미중러 3자 정상회담장에 도착”",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=04067206645647360&mediaCodeNo=257",
-      "ts": 1795080362
-    },
-    {
-      "source": "지디넷코리아",
-      "title_en": "배터리 넘어 폐배터리까지…유럽 공급망 빈틈 파고드는 중국",
-      "title_ko": "배터리 넘어 폐배터리까지…유럽 공급망 빈틈 파고드는 중국",
-      "url": "https://zdnet.co.kr/view/?no=20261119182405",
-      "ts": 1795080367
-    },
-    {
-      "source": "매일경제",
-      "title_en": "애플도 뛰어든 '빛의 반도체'… 51조 시장 선점경쟁",
-      "title_ko": "애플도 뛰어든 '빛의 반도체'… 51조 시장 선점경쟁",
-      "url": "https://m.mk.co.kr/amp/12213869",
-      "ts": 1795080522
-    },
     {
       "source": "Bloomberg",
       "title_en": "Ukraine Strikes Crimea Bridge Again as Xi Hosts Trump and Putin",
@@ -11504,6 +11483,27 @@
       "title_ko": "Hunterbrook은 AMD 펌웨어가 블랙리스트에 오른 IEIT 서버로 추적되면서 NVIDIA뿐만 아니라 'AMD에도 중국 문제가 있습니다'라고 말합니다",
       "url": "https://wccftech.com/hunterbrook-says-its-not-just-nvidia-amd-has-a-china-problem-of-its-own-with-amd-firmware-now-traced-to-blacklisted-ieit-servers/",
       "ts": 1795106838
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "$NTDO.NE: - ROARING KITTY",
+      "title_ko": "$NTDO.NE: - 으르렁거리는 고양이",
+      "url": "https://t.me/marketfeed/1081811",
+      "ts": 1795106924
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Everpure Posts Q3 Beat, Raises Outlook; These Analysts Remain Bullish on Market Share Gains",
+      "title_ko": "Everpure는 3분기 실적을 게시하고 전망을 높였습니다. 이 분석가들은 시장 점유율 상승에 대해 여전히 낙관적입니다",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/63441320/everpure-posts-q3-beat-raises-outlook-these-analysts-remain-bullish-on-market-share-gains",
+      "ts": 1795106988
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Anthropic starts trading $ANT",
+      "title_ko": "Anthropic은 $ANT 거래를 시작합니다",
+      "url": "https://www.financialjuice.com/News/9860276/Anthropic-starts-trading-ANT.aspx?xy=rss",
+      "ts": 1795106990
     }
   ]
 }
