@@ -1,30 +1,6 @@
 {
-  "updated_at": 1795057872,
+  "updated_at": 1795058029,
   "id_hashes": [
-    "d4af17275fbdd3d81aefb454af35828d0e0800d77722713d8beee597372912df",
-    "06d6546ddc91596a7c1c06e39eede3d9c1177324589209ecf019e6829849cd4b",
-    "30333f0ff94f59f5728f2543335439a647d8fb968ea8ab907d37f4fdc854556c",
-    "a988f1409f316bfa4a3a32927d3ac2f3a1bafb61258130aed62a968576b26e5c",
-    "9f5164750049691e589fbf7928927fcf5615fcf870585b413389ecf180163f9a",
-    "862380eea4a0590dcea5de3b1cd3b69f6764adeed8a481020e793064b621f395",
-    "3ea1c94768385b09fdabc18848134087d4b61b6335b4042a963342c11a88d94e",
-    "d95c82c86491484f8e36929aab7ac29b9606db74e8261fee197afda6efcb36b9",
-    "4f6f2346eabdd6fa86461de3aa7b62c33602a3c64a32f0acfc361fcfbe42b30f",
-    "add443b2c26090c2adff41ae4356e8c927622eecc4e621f78c23ee9278580f99",
-    "7f5e6b7c66ef1cea1f4a6d9496a5e924f0d96d6216c05c746a3ae826c90a5acf",
-    "88b81b14e81c0a85227da40be5960c2b8db83d97590a038af560a7d7ca5f2326",
-    "33684bb5403a2c74f15a4e64f2a912e5fea5d40d0a068add639e6a839cc496fb",
-    "df747a878ff0f2021401ebf445b34dc3d266a7157bc167cf37804d72259ad84f",
-    "8021c7cc1a3dc8d27c1435b487cb1bd9c87fade7ae89e8e35440803df4510f42",
-    "2d5821a7606f55b82c50325393c7d60c4a99eaa2045fc050c328d20217621b2b",
-    "ea29570f9c41936ccdc21a6c0a455b00d698130b4cf9c4dfba75b6daa04da844",
-    "69e3dc3d403e39f152462ada9e595a9ad37c84904d507f7891278231ed8eb6fe",
-    "824a7e5957e165c86b95ae21bcea572da147f67a1bffb8ef8467370751a6307a",
-    "6a2f69a6e909b83339de2b979733249208d3a0e280d06a850416b510845693da",
-    "d8c2680e0383b8aaa1f29df41252cf83f05a440f216f3b3797630fcb74beb7e2",
-    "6dcafe9491b86cfae2f5c4a49ed4bc0ea4a6fdae9e1877220393e6332ea016c4",
-    "fe4a44b3f4f4ca72eb20a1d06f98370669851903538c559bd752d2a969949d90",
-    "5e6e84459d3161d956ebbfb7ba33419791366f0db4128ecf623d3cfd675e65c3",
     "0c7cb1fb5d5084726cb24fd34008009efcc7417be07c868870948bc7870e9706",
     "7a2313bf1a0888665254e2adecc04c3ee0faa5db9a89d240d1f8f79cab8074dd",
     "da462867cde17aa8d4678c440ffce57bce7cbfee8ab19592ea911681f2362ae0",
@@ -4000,14 +3976,33 @@
     "08da86a8e03a24766c663336b8054cde1b2f39afe5aeb52f0dee77a06a69eb7a",
     "7d7439bb976bbc63aeeb0479af9126fdda2ab04ce26592f3e5e3e5158a53d4d3",
     "2d8d7c5fd5d7fc073fbf29468299f86ef6f833e1281c4366cba4ccc14ad3329a",
-    "28856e291b7fd66a9f8a30114ce3e003e10f2cb9b4f1038532f437e811087459"
+    "28856e291b7fd66a9f8a30114ce3e003e10f2cb9b4f1038532f437e811087459",
+    "f974dda4981ab4750b761a8c74d376565a3a0ee37bede4367a04e55549afd58b",
+    "11364e3d85970884ad2f576cea3cfc3a4e0c28a22d8d5acbef0ca996caffbfd8",
+    "6faad081625adde146ed32bb667c6dba1fc92e2555cb97613ca82c89e5f69c1e",
+    "fb4c6f06c57b8258f6775a2117253043e1b8a8b24cd9bb9d1c98ea6c36774ce2",
+    "d0d1a58782c440e48b13ec181a4a1d46e35c52cd9e24cf0a33f51c5a1bf3f381",
+    "d0caf183bcee52122d305c18c5dc32a5940f290578f4c228fc0cdb50b87b1752",
+    "8d6677fda58c37b54d4f026fbd18c3e3b77c42780b12f22372d9a5e6e0a74576",
+    "df513e7677786575ad722d7120c8204f6eebaa78a152b913de5556022f342e62",
+    "4cc5856f06c17f2b18187f31a9a96239a16e0315822fcaf8794a1f344d365be3",
+    "bfe120ec6de3ad1f840de88430c4890082f46fd7adeab6cfefc2bb4428d5edf7",
+    "145acae317a95c7eb6318b6aaca7a03762fab00984790e8c9155e6ee822999f6",
+    "85f869f04994423c3296cd1ca8dbf4b19fcfe2de8f82f38e4ce5abc7f9c4b062",
+    "fea476d463575c4ac8a04e7402e92033bdd962d0a2070d7721c00d4e205ab34b",
+    "a6aa5e2e9c694b13fb44053cd571b8ce376e484583c822d48f61d19aed596db9",
+    "94d4487a05552327db1afd0aaa2bacba369898f82e5aa239003e919c54be1e0e",
+    "9c91de2b8204452d7af49ecb0bcdeff038dda6d2099b9aa5d2af62540b2d05ca",
+    "9f1578a46f37f1ae970ff12e6b1cf61de69cec361502438100a1387130ad08fc",
+    "cb9085c1f480b00ad47b1f3463de32c4925953929e53391c506a0191f8a2debe",
+    "92175dc32bcf5fdb8a09f2493c51ede59899f37af1b3d41908bd465842d51b2c",
+    "17d53209c49b0021f4dbfd36b82e6fcaa4479cd7fe4c2a37303eaa664a2bc9c6",
+    "74036f9671a3b55ec540624614ff315662701f4645518e900319d5aa86ed479b",
+    "dd18ec505ebe18de46e812402709066fc2e5e32995850942f552cf274928162b",
+    "5827bbbeac86cdf9bc7c1a0f15a63f688147882bad19ae2931c4dea62aea4cae",
+    "6374efa06e9aa403d5ca2266bb088a2523fda86f6a2919552d236c3ac92293c0"
   ],
   "title_hashes": [
-    "d04b4f1c425bcdf53e368065a6109d2901a87563519bee6018119f984f0690ce",
-    "a3ea6b40ae20755240bd77f54125c8e19e3ba3bcbdbbbc4966714379cb837bbb",
-    "90122ddc5aa4304b1cc1d3920a36af239e9ebcf842dfcb4d321cb3294597b71d",
-    "8fddd5f2df79d61d653e130337a222478fbb71310b00a2709cbf97e396aac5e3",
-    "372e190c4d2a051943f28d20904bfe837a684d9e4c6b8fd2b31d8d4d89d57f74",
     "4ad7e7782d53b69b07b551fb9ca7906b395b91933faf76b7dde5d15546379967",
     "d5077b9708ac572454d3907c621d5e6a1acd0a204f5b305193cc1ee9788910a9",
     "2e04241060142173d51373f75f7f86e6b1722dfbe3f80aef2029ed0fb051e46d",
@@ -8002,30 +7997,14 @@
     "1387d5067f69e2395feaa5356b2fc7f775e2d819deaed9ce4417a4850cb2b191",
     "194d84be260cf5a733ddae6c80d64225990ea677bcb6f6b944a94bf6ea6c78e3",
     "4d7fe3d9c75168dc0fd61a54f7f2f9e6bf4f926c91ed743525a6e3512111eebf",
-    "d3f278eb218ce042239f0247e3e7b5549a4298e54756df658674fbac8d0f38b3"
+    "d3f278eb218ce042239f0247e3e7b5549a4298e54756df658674fbac8d0f38b3",
+    "8b25e70ea4ec6209d6543b8c19e4af6906c37813ff6ff3b4f3e6f0e45bd9ba46",
+    "15af6edbc81614c0148695d54329b2add0fb99813c2314ce0ae1adcfc8bba621",
+    "d7734cd06160117855920d012724aa52d74ad4b3d44c986221f2b2e8ad2ec70d",
+    "49d8a6e66a46ee5b62f6dc530e7fa12dff17f50f0f2599cda62e0269d9088a54",
+    "e73efefe1b07bacb314ac7aaaaaca988e07c6712d956dd46a8e80fbbbec0a6f1"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "NASDAQ CEO: RETAIL INVESTORS DIRECTLY OWN 40% OF US EQUITY MARKET VALUE IN 2026",
-      "title_ko": "나스닥 CEO: 소매 투자자들이 2026년 미국 주식 시장 가치의 40%를 직접 소유",
-      "url": "https://t.me/firstsquaw/193962",
-      "ts": 1795038451
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "TEHRAN SAYS IT SHOWED 'MAXIMUM RESTRAINT' IN DEFENSIVE STRIKES, REPEATS CALL FOR NEIGHBOURS TO BLOCK US ATTACKS FROM THEIR TERRITORY",
-      "title_ko": "테헤란은 방어 공격에서 '최대한의 자제력'을 보여줬다고 말하고, 이웃 국가들에게 자국 영토에서 미국의 공격을 차단해 줄 것을 거듭 요청",
-      "url": "https://t.me/firstsquaw/193963",
-      "ts": 1795038453
-    },
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Trump has raised the cases of Youlin Chen and Min Zin to China’s President Xi - ABC.",
-      "title_ko": "트럼프는 첸 유린(Youlin Chen)과 민진(Min Zin)의 사건을 시진핑 중국 국가주석에게 제기",
-      "url": "https://t.me/breakingmarketnews/178846",
-      "ts": 1795038484
-    },
     {
       "source": "BreakingMarketNews",
       "title_en": "US action on China unlikely during Trump's Asia trip - ABC",
@@ -11504,6 +11483,27 @@
       "title_ko": "엔비디아 여파에 알리바바 등 중국 기술주 동반 하락…규제 강화 우려 확산",
       "url": "https://www.barrons.com/articles/nvidia-alibaba-tencent-china-stocks-462175ef",
       "ts": 1795057871
+    },
+    {
+      "source": "알파경제",
+      "title_en": "한국항공우주, 양산 본격화로 내년 매출 6조 가시화",
+      "title_ko": "한국항공우주, 양산 본격화로 내년 매출 6조 가시화",
+      "url": "https://www.alphabiz.co.kr/news/articleView.html?idxno=199015",
+      "ts": 1795057895
+    },
+    {
+      "source": "Barron's",
+      "title_en": "The Demise of Data Center Stocks Has Been Greatly Exaggerated. These Earnings Show Why.",
+      "title_ko": "데이터센터 관련주 하락세는 과도, 실적으로 증명된 성장성",
+      "url": "https://www.barrons.com/articles/data-center-stocks-exaggerated-demise-csquare-earnings-dadaceb8",
+      "ts": 1795058025
+    },
+    {
+      "source": "Barron's",
+      "title_en": "North Korea's Kim Visits University As Speculation Mounts Over Trump Talks",
+      "title_ko": "김정은 북한 국무위원장, 대학 방문…트럼프와의 회담설 고조",
+      "url": "https://www.barrons.com/news/north-korea-s-kim-visits-university-as-speculation-mounts-over-trump-talks-f9fab662?refsec=topics_afp-news",
+      "ts": 1795058028
     }
   ]
 }
