@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795105556,
+  "updated_at": 1795105710,
   "id_hashes": [
-    "0d5684faa2f83bb4d669b71b479c58569c6bca4f31dcaf014e7c60ea3687ee2f",
-    "8687bdea0abdc7059408797973d096a5e53c260a3fb0c804bcbe79680d928c81",
-    "8426eee401fdc516b9728e8d8b320df8b873d73ee546c2872ed21b01bd05ed6d",
-    "b2339ee5c7d8da2869687eaf0c5c85bf24dc4f22038506710cb5678b210e9f56",
-    "c99d3ac805b03e59aa72ef4dd38e732968275477f04a9db1ae991d71b0a305b4",
     "441c7f9fbbbca11a5e8b82d7d7a38dc46d3b1b1cc687848be8fc0770dd12d126",
     "8371eb06df497a42d6911ab703d942bd5e0b3d6cdf8be1eb8a40c512b4d9ba98",
     "4264a371799f61735c6cf2e033cd74c55470ddd05b17e131243105ba5f39e70c",
@@ -4000,14 +3995,14 @@
     "b1ecc2e6e99744790750d3c7af2256ecb84036f86d2981fa668a2539c0e17eb7",
     "07ba0ef4c6feaf46f3efa1693619477548a1e313ac1999d2cdfbaceb9c4aa0b2",
     "699a2250495228e3e95db0d2cdb9dd760ba225c63ad5665283ec7c11f2d91cfe",
-    "f522be32d9168c830e2d1c9097aa93ee3a4f211aae214c2395cade82ae6ede0b"
+    "f522be32d9168c830e2d1c9097aa93ee3a4f211aae214c2395cade82ae6ede0b",
+    "98a828e8e4840a614c898029d7ae468ecde8ac58e61d80840fbfe6ae5133ef57",
+    "0cb1640f1726935e18c23fd7b8155ad101476eecc452d31f71e0760660369544",
+    "5bde915f62b1a0db2d52df88c6d9254c50a521800189993eee40adbe41fae7f7",
+    "a705e099efe3c0f620fb6d7142009b9c10cc35b398a0fae35cdb63d39603450f",
+    "8e933dc36ab2204be80995c80cdb20a939e37b0ae3abbda539bb5ea1aa0f3e74"
   ],
   "title_hashes": [
-    "c90b04d577dddd4effeb7f4bba5bda7c6830861794d8a3b300afa3886e3adb44",
-    "853310055198eee9fa1b0de34c99ea2063678bdb030452eb508511e02141edbd",
-    "f13dd3a68b03cd2a64eee51b57c09c2d6db86b44c600201f98c54df19d7f0352",
-    "c0117bb46a58c21f96dcfbb225cb20210bd06fce045d2262b984d2d111fb9025",
-    "128964f3f55387767b1ba2174504af8d41a52e58aea8e72210da8a4f3c2900c8",
     "fb84c1c4739a3696a48464dd899366ce602af9cde1bd2b1f14fff9b82a42e384",
     "30931ffd98f393be13a1897eef116388973540f4eb768d7be3cd5df71e8ff5c3",
     "eeeba02e9e65ed8947fa63457b42b0c0c6ee1a4e94b5780a50bd026cf9c0c456",
@@ -8002,16 +7997,14 @@
     "02a8bd84332a84732347011ea2e5841292a8ee2d1c27855de990e07e9f6ef6bb",
     "c67bee549bed3e25a70867b0e71a0e0a79623d765957720b5059fb294d973031",
     "3fab433359ab6f813362b822b25e7a4b9887466623590c84c3db93f9351e4ce2",
-    "79095c53f3e67bd06561002ec82d862436760094fee478c21e27eff5f77384b1"
+    "79095c53f3e67bd06561002ec82d862436760094fee478c21e27eff5f77384b1",
+    "a3d5446cb332bb05fbd949a20dc340afba55eccc73dac1ca8636c45653a2ac73",
+    "9d7cf138253b04f92e7eadb1a470efeb4d62c8d59e6e21bb38deb2377b3450a1",
+    "397ed6c1ec7b97dbfd7089e4a8ff6c935449647f6e5a2ee1f4c1f7ee5089cf54",
+    "45cb3053c0da1aee9f44bfd97aaab6fd7700cebfde8189a40e215f5ed9907a8a",
+    "b4f9ec62f0a64b61ecfcae5fba894994da7df85dc2dc266cf8e34cf014802838"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "习近平就大国如何正确相处提出4点看法",
-      "title_ko": "시진핑, 대국 간 올바른 관계 정립을 위한 4대 원칙 제시",
-      "url": "https://wallstreetcn.com/livenews/3202471",
-      "ts": 1795079168
-    },
     {
       "source": "DigiTimes",
       "title_en": "Tighter US chip rules set to favor Qualcomm and MediaTek",
@@ -11504,6 +11497,13 @@
       "title_ko": "폴란드 투스크 총리: 러시아, 겨울이 끝나기 전에 평화회담 준비 '가능성 낮음'",
       "url": "https://t.me/firstsquaw/194272",
       "ts": 1795105554
+    },
+    {
+      "source": "CNBC",
+      "title_en": "AMD falls on short-seller report of alleged China exposure",
+      "title_ko": "AMD는 중국 노출 혐의에 대한 공매도 보고서에 빠졌습니다",
+      "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+      "ts": 1795105709
     }
   ]
 }
