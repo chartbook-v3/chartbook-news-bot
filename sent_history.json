@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795109182,
+  "updated_at": 1795109335,
   "id_hashes": [
-    "47721adbbc9138b66ae728797a7ecd5d59cf92ea1af5ba40eeb9ba6e88248000",
-    "64ee9b5b76a767c98f2544c0f59b765a11d3319ba7f83560060f9906c9898404",
-    "c464590aa23201c21eaf122f52e84a0ea7b9136f49f79ffc31768ab4bbec2f1f",
-    "b6522df2fb2f9d35b66e0585ee19a27ccbe2bc637dd9a6cda6dcd4d4b128ab93",
-    "88a4832337bd65646d0341913c9dcee95f47d80c3436fbce3f9b4a630b8c27be",
-    "54e59997fd75c34b858c432004a8f58af877533950293bb5a1cb0b940e81f3f6",
-    "241b7f5aa0c301611cda4a24c7c250b79f99f3924aa8848c56d72c7b84c4483a",
-    "5b8759c3d41086766df77b7678d27a7ff2d8b71bac7e149d5a4dff4a8a3511b8",
-    "83e467a4270f431c87f8b9c58713b684193fd3cb75dd8e999b9e895029c65db3",
-    "881c06015643b5173b78c14b414596184e4701ed43a79ca06791e3a92156b451",
-    "93f6e12df74689a3aaa2511009413759fc86d9192186e022298947c13e9b7767",
-    "642dee63cea9d76a918396ede8c2a3a3637d55c65f9ebd52050e622c5733c2e4",
-    "c819b27881e1c2240043ceb7fe8ce847085788c49cfaccbabf38e7a4aa55fb13",
     "6683f298e525e77d2faa01571a1076f2886e97b7115db88d8646b881f230816d",
     "bf7ad35d5d85b4db77ec760b2d37af06cfce36e4954687596b6274a2bc107027",
     "6075ddce65b41a88041dba35f6f5c3ab9df66ad0142a417e39dc3a545b0e0192",
@@ -4000,19 +3987,22 @@
     "e0c9bcbc33e5676266d720a411508a534e5527dd302aea1a3849ee04e2c8ab23",
     "475c0ece2bcf71c9bfe008c223af47bed15dcf8314d5d91fb547fecc88e596d7",
     "24c6f947e786e7529a38392374ff376bb44447c7c8f5ca630a2098d6e05aaca7",
-    "2227b647ae6c351162f0f511f59fd090395aa2225203708f0c5fc9863c890535"
+    "2227b647ae6c351162f0f511f59fd090395aa2225203708f0c5fc9863c890535",
+    "35a906d4e741eaa12df0b8caa28e019a468965a43700ab24159ab5e8c03faba7",
+    "a15eb8cacd4e9962ed8da4e006f240a2ae041cb7c007bd429f3acef8f0306670",
+    "e520aaae4ac0524f7be6a6c8d40180f938963ced6577c46b3d65b9eb4270b0cb",
+    "f15ea03b990932f65739b87c73ce7637777b657ef170f2ae40aa6f7e4097dfa9",
+    "4ee1efb3e3a461b373108b13d5f39c24ff1b44d7fd496279b05766e14df11b7d",
+    "6c9ebb3067f20c79c46553961766c830c88212eddca83e971b96145244b243e0",
+    "dfd0badbe007ef01fdfada67c21af384608cebe40d77e59a2e709b7110db0ad4",
+    "2d9c3d020375996a511d7522621136ea069a8cc906bcb7f8fdc7050689b0cd09",
+    "24c8fd784dc7b7cd1e29351b520dd119db1ecdef75d405f647b2eab7428fee8e",
+    "1d0fa7e6fe9ae8ddc485767e15ea9ca0d112ef828e5e91d8150ffa2ab9cb1b35",
+    "8152caa3cb7bda56bff10648968114fb92df4322976a04e33c8a24ea58738c58",
+    "cac531fd212d81fb2076dbb8a89e78a6944854ee21d4096bc5b4e5b84a579301",
+    "4710bcb3730dbf84e3b9ab2788e44048722de64143502a68aaf1652e4f7e1e03"
   ],
   "title_hashes": [
-    "239f6afe80fc97528fc567b1c7709b9cc87e634f6c3a67d53bf0ec75719124b7",
-    "a6926b711bc767f717caae76ecee450deb0bebbdd9beef4d7ecac7516febacf6",
-    "6e9bc637ced60a02f5e090362c867d01f96af409badd143c72885868d11ea605",
-    "d9c449ccf3dc0c40b71a056ba28d0cf0d3feecef60dca66d1ff6468bcc68c73f",
-    "602a27ed11f916d4dfe39e6a96440284f641c67c78e01445fc4fe0dc5799b97c",
-    "94a6489e26c884b478e6c9bacc357c7a74672ffa4a26b1b732b80d662155ee5b",
-    "71cf570bc4c8af5ba4456b4690dda9a1bcd2ab2cfaaf1f86502d540cf31b7efd",
-    "69f2ba90a786802c123c4a94f77f2f02885a1e350d7c8a2a14d5a22b7ca027dd",
-    "9e0420dca48fc8f332139ff51341821310cf6e08a9561c1b74a9860c5f4754ac",
-    "c2b4ef11e8f50ff2c102bced3bf7fb7c42ce5fcd4ad3452625d5cd98d766c4cd",
     "435ef33e65a8572f227ef5dd0b61c990a2aa8d7bfb99de7e4e916911a88fc719",
     "9b4b0f278bbb8001340b1005e97248e60908d9979457001d8f5af66d6c56b94c",
     "0c8ca6988cf7dca7f3d8cb4282a5c2d9c4a7ff37b1905092c6c8a7699bafd5c6",
@@ -8002,30 +7992,19 @@
     "fe0d432b25b4aa68d050d104842f3d04c2c89ae6fb7bbd188cf1434e7e1739e1",
     "5b96f3f4228748275bae1ab5cc966a438c40a1aec08b8a9ebe240f5ffddc47e4",
     "68490ab11f1b6de6ce30b6067a527d5082db8dedd4d825118d7df9cc641c4948",
-    "137a8edfe7914445c46b924d4f67991d3e85ae29764f79536b587cc3f27cfb0a"
+    "137a8edfe7914445c46b924d4f67991d3e85ae29764f79536b587cc3f27cfb0a",
+    "ab007b5160ee32a6d3b1cf8224e981f8919cf28d6db8addcaed858941581ccc6",
+    "688de6bf5a75cbf02ece23af52c8ce9e9fb85363671f525c096678d92d249ac3",
+    "4c0551eeae607cab3e6ad46205f78453e59506b67f6a6aa4d918afb6865115ad",
+    "c99001d9f8a0509b484e23997348f13541747289c001d06cb8f16542c58a9c22",
+    "12b0da926807f0a559d27c56e4963117ab829ee2c5c9279c216b074c3ed7ef60",
+    "8da409287ab7dfef08e73b93e0b579eda5ceda49fd4addd1605446d8bf65a990",
+    "afc354b6ad73d74dd431ceab45c0374725896d1d1c67e3bf535da854a8375017",
+    "54945accc5828916ee2cd8a97b2b1f4a9f02b944b92d29c78679cbb3dba2b585",
+    "cc700d323a8c0d99d0e96a096d0fbf1f2adc73b1048cec58aed3afb965f928e3",
+    "e25e91132b9a97f728d1a380354cd0c6ee0a2d545da2dc289dcf592c888de928"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "The Fed Could Be Setting Up Major Stock Market Buying Opportunity Without Investors Even Realizing It",
-      "title_ko": "연준, 투자자들 모르는 사이 증시 대규모 매수 기회 조성 중",
-      "url": "https://www.benzinga.com/opinion/26/11/63419757/the-fed-could-be-setting-up-major-stock-market-buying-opportunity-without-investors-even-realizing-it",
-      "ts": 1795084791
-    },
-    {
-      "source": "Wccftech",
-      "title_en": "Elon Musk Says Anthropic Wants To Rent An Additional 10 GW Of Compute From SpaceX, Warning Power Is The Real ‘Limiting Factor’ As His Starbase Clears 1,456 MWs Of Gas Turbines",
-      "title_ko": "일론 머스크 \"앤스로픽, 스페이스X에 10GW 추가 컴퓨팅 자원 임대 요청… 전력이 성장의 핵심 병목\"",
-      "url": "https://wccftech.com/elon-musk-says-anthropic-wants-to-rent-an-additional-10-gw-of-compute-from-spacex-warning-power-is-the-real-limiting-factor-as-his-starbase-clears-1456-mws-of-gas-turbines/",
-      "ts": 1795084795
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Trump unveils $17 billion of Southeast Asia deals for US firms, White House says",
-      "title_ko": "트럼프, 미 기업 위한 170억 달러 규모 동남아 투자 계약 발표",
-      "url": "https://www.reuters.com/business/aerospace-defense/trump-unveils-17-billion-southeast-asia-deals-us-firms-white-house-says-2026-11-19/",
-      "ts": 1795084800
-    },
     {
       "source": "EE Times",
       "title_en": "Nvidia Reports $115.8B in Quarterly Revenue Under Interim CEO",
@@ -11504,6 +11483,27 @@
       "title_ko": "Google, 데이터 센터 위성 테스트를 위해 Bezo의 Blue Origin 선택",
       "url": "https://www.theinformation.com/briefings/google-selects-bezos-blue-origin-data-center-satellite-test",
       "ts": 1795109181
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "苹果公司iPhone摄像头与图片软件主管离职。",
+      "title_ko": "Apple의 iPhone 카메라 및 사진 소프트웨어 책임자가 사임",
+      "url": "https://wallstreetcn.com/livenews/3202734",
+      "ts": 1795109205
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "BP Said to Weigh Divesting Its Key West Africa LNG Plant GTA",
+      "title_ko": "BP, 주요 서부 아프리카 LNG 플랜트 GTA 매각 검토 중",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/bp-said-to-weigh-divesting-its-key-west-africa-lng-plant-gta",
+      "ts": 1795109268
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "This Lowe’s Analyst Cites 7 Takeaways From Earnings Call",
+      "title_ko": "Lowe의 분석가는 실적 발표에서 7가지 시사점을 인용합니다",
+      "url": "http://www.benzinga.com/analyst-stock-ratings/analyst-color/26/11/63444872/this-lowes-analyst-cites-7-takeaways-from-earnings-call",
+      "ts": 1795109334
     }
   ]
 }
