@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795131867,
+  "updated_at": 1795132018,
   "id_hashes": [
-    "6ff3ad597992b3c88ac1c8d06d68727901122b341cec3aefc6a7dcccfd57b468",
-    "1bae33ab65351da2323b512ce185cc18913e976d88ea272902aa7deab4301a85",
-    "270aca7f1ee1db47cfb70e70724e5e8d2f5c5e9a5d9f2ace155f31d074c0ccf1",
-    "cfb777bf9411f727ff63ae45db44ea7e2c85c59aa83f80839c3a0f30f2447bcf",
-    "aa15c3f04db88c7b37071330bb96781208a9581782c30f03cad65883cc45c0bd",
-    "04f1694149a8fa77a6ee6777bb6b3fa2d91cbcab53b9a1a3764912665156299a",
-    "c684ebde8a86d57ee527bfad1447c610c9381710a821707b96dcad2aa23d282d",
-    "bbfd458fefbbd7e1a4e262bc2f6fb00f2b1cee80c83fa87a23f3fd141db1993d",
-    "ecf83f160036863620934ea8f00e71a069ee57960a121ee00acd0a5c1870f72f",
-    "c7a96cdb665906f0f725358aee54af5cad417e265e257f1d85e9080feed3cfc7",
-    "35943a95c2bfcb6a1125b31ac608b54ef6b156e9cc258200e97b2504dd63b08b",
-    "aea87eb09fcec539ff5e1060a87447a0a2d7d3e5d04ffe19bc471ce5085b8caa",
-    "b1831d2a06e78e685f7d826a98361533bb7743af68036c5cd8299b98b6b928ed",
     "cc75a974a31fd738fb94a27d65a3633bbc7d2558dab4f4a7205a2c0918bd8291",
     "85df29bbbb323f8ca71010fc0f67d7c653046a7af051b6d8e4086887efa469e4",
     "dde7e9ec14c00abb0ccef0015a3e369f082bbccd2747f6d7cb50a8f969f21479",
@@ -4000,21 +3987,22 @@
     "b5d31e0a12284e46c22d153d55f2b96b13f02befddf69dc8863154a362a97fc8",
     "7b2e747c0eb5761ded6b731005c449551db5db2093468bf7ef8c346347aac4fe",
     "de9dba70a44850298c009c1248b0cbb18ede3571b9fb321ad6affe76e3099dd3",
-    "1ffc0f5f9ec8634a03a715bfdd424f1e16257ecd79e99fd9d97dafd81f4bd116"
+    "1ffc0f5f9ec8634a03a715bfdd424f1e16257ecd79e99fd9d97dafd81f4bd116",
+    "a60e53f5d64d7272990b9f2bdd716ecee6960d3790b6b986f5b0e08d7ad8ab29",
+    "417ad4f7087fd39f72034cc1480600099b07934040f36cb750d17c016dfe75c3",
+    "dcb17a80906abed0fb378a3136ea0e85fd0f9cff4bd57d8b4d9509db578b4597",
+    "742b851ef3ba048ddaf2ef7f8faa9a71db5c7eaef98b95fe69ad4c0507f93d70",
+    "993e275bf1a80ff438005becda0c681afd8809bb0b69af7b31e4e939a75b16e0",
+    "d63c34eaaef201fbbdede57a7e12ae2a112417342cab72595acf439ba36b9da7",
+    "0c8e98eda96330234b1fd0d82bc30b1f09e4ca70546e0d643db51dd3551f27d2",
+    "c35aec1633b1e76c1834520d03027ae6c1c1d3e4a3c8934868b1032b0d185278",
+    "72cef75b432fcaaaf047194dcf0dbc150b0b2d46d9e8d637e9ce159dc50ecab4",
+    "09d795308920fc80f45ca79a1cfcb389fbccdc9c28522b8a0bc09c0f59d2ef04",
+    "60cbc5065aa678b1e8869c2a86cbde2d737ce490982474bc09f2f5378a754480",
+    "1b55f5bf9dc5356d472ef345480c1679404b3019f20cfca14b243ad99c2a42ae",
+    "67c323ddf0d59e5c04543ab4feb6a3d7494d38a8c63c1509c9c9a93608719341"
   ],
   "title_hashes": [
-    "4ef618c4cbe18979f7a61c139e5ad23dc35afc178c52ec25166a3bd9cd2cd321",
-    "f09ce61e636b23464c398b2114427e6ae4defc44a2a0bc5b49f2c7fc287ff4ca",
-    "73baaad7a464c2eca702c0f4e47a9910c6dc398e7b470e04c139d6fff515fd6a",
-    "1d3286d801505860b29029c35705e09f0410bdeaca49a55b918a42628b312103",
-    "a25f7db8802c804b78c1f0332b753c9ed7b6599b01abdecc1d23e9ff5eca4c82",
-    "bfea6e3de4cf126f2877d86ab4bc760c1fb98320cf28077c5f5bbe4667fa04c5",
-    "816680f69e13647856b1d61ec95fffd2822cc1b75481b0a1db7891100dc4f94a",
-    "2f76e6dc698893b486a063eb2de8f2870a3c2e0d4fd46d88381f234ad788ab74",
-    "2dca8fce9ce2b377eb963c752b52f63434c12c004fe01a3c722a8274451edbf6",
-    "5164d621dc615b83c97b1adec51a2dea0bf14c78a353fe4b42567f7da65e3935",
-    "45666e0cbc17560f11aa14281d29b85421e503186d04f5404523693d00a0893d",
-    "ef4c08b26a63d07835015dfdf61dfcc586554f4a7acff5990847c7d046c5ad64",
     "5b35776eb9cde0e6d8edccc6cfe0b3cc4193707376bdf059c8cd923b04a6ec6f",
     "1f6c745f24d66dcf488f748921dc68b0acc5d1b1181b4dd3181dc02c685e8ad1",
     "479cf2badca38860cf9e894bc9f9ec94dccee9487761c30787da77630fe2e05f",
@@ -8002,23 +7990,21 @@
     "33241b258200b15c40a63ab21439ef7e80ccb54b11ffa064185476c017a8b930",
     "054846d30d5598d809c522b6a7002a52318bfa5aef6c7c80d639b30e2b02fe08",
     "7af21e0b385c9f7d2ff646296cde8ea4f98c79fd7a9d9563f88e7e1a892d59ba",
-    "892d2bbe02ef71eda5b6fd3f8f0d768f53949366677c2e5542b0cc842c8ca2cf"
+    "892d2bbe02ef71eda5b6fd3f8f0d768f53949366677c2e5542b0cc842c8ca2cf",
+    "d05d25b2357a3836a9e3fa4025124e6b8eb1bae7630368ea984366c1ccce6124",
+    "f4722cea737f94f48f9304500939beab53bc704cd7632b76cc6d72ef93dd8271",
+    "1fbe9ea9a67c12fc79be1a3e6dedf10985481429138a63788f98b37ba22c5355",
+    "f5c3462e3588d98ae53cbaffa32425e8a9f02a5061b846447a6c984a75146a7c",
+    "fed56b54369774245b0a78de13ff873f8cae159a619391907ece46fb1a274b04",
+    "cf03b77b2aa1e6cbddd84fe2ca46b7af8decef38f9ff81a81cb7679f7dd9bdf2",
+    "27df9ed34c2294e28287d782b7c66b8dd2a30ed7eea793d43b9542391fcb0488",
+    "4dd307faa4dc365d3d4234b735703231ffa44dee7859f082d9435a7a38e0d4f5",
+    "531144499f2815bf7bce6c95afb0f5baaf93e68ebbe8db1158ab13d097bee178",
+    "c90916db7e48e973ff50eaeda4239ad5a0f57fdf880ddb3f74adfb118817c336",
+    "68ec4b5f094de7b3220473de2a0e6f1266ac1f34897d691978926d6debd8c832",
+    "b4af29a1983ff2eb3eaa5c03c73c64dc1258072c732ab40496b67baa868c4c2a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Aberdeen’s Galbraith on Ukraine and US-China Tensions",
-      "title_ko": "우크라이나와 미-중 긴장에 대한 애버딘의 갤브레이스",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-19/aberdeen-s-galbraith-on-ukraine-and-us-china-tensions-video",
-      "ts": 1795103106
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "AMD SHARES EXTEND DECLINE TO 8.6%",
-      "title_ko": "AMD 주식은 8.6%까지 하락폭을 확대",
-      "url": "https://t.me/firstsquaw/194268",
-      "ts": 1795103202
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "互联网与电视协会（NCTA）的发言人乔伊·西姆斯（Joy Sims）表示，美国参议院在立法草案中针对数据中心这一调整是由NCTA寻求推动的。\n\n该行业组织在一份声明中表示：“参议院立法包含一项重要的技术性澄清，以确保关键...",
@@ -11504,6 +11490,20 @@
       "title_ko": "에이직랜드, 메모리 컨트롤러 양산 수주",
       "url": "https://www.thelec.kr/news/articleView.html?idxno=65695",
       "ts": 1795131866
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Fmr. Amb. Criticizes Trump-Xi-Putin Summit Optics",
+      "title_ko": "Fmr. Amb. 트럼프-시진핑-푸틴 정상회담 광학 비판",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/fmr-amb-criticizes-trump-xi-putin-summit-optics-video",
+      "ts": 1795131948
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "G80 하이브리드 베일 벗었다…새 변속기·수냉식 배터리 적용",
+      "title_ko": "G80 하이브리드 베일 벗었다…새 변속기·수냉식 배터리 적용",
+      "url": "https://zdnet.co.kr/view/?no=20261120084147",
+      "ts": 1795132017
     }
   ]
 }
