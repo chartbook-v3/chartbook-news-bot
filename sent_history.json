@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795114270,
+  "updated_at": 1795114420,
   "id_hashes": [
-    "eaba660e1e97f74743fac0b74d1497d07717bbb4d7d2458bfd0109d76fd66bd6",
-    "c443bc675b9cb60fe8f53ea68897634652b78d964f208f9ad7cdb05560d0e336",
-    "713ca69298da5917246783913ec73aa1432410452cdcfc70aade5e13b2fb7ee9",
-    "7dbe894dd8a91796d6e04e62b0501f5659ff34c835a92addbcaa24a229d04c58",
-    "13739df8008016432b18edb936e42e8fbf2286707fe43a5fcb48ac7a52ca3c65",
     "3cd3781b82d3c6d0fdf27fe214bd7747d169c658426f44b763cad53ec849d6e1",
     "abace4d7e3441bcae164dc630e67d5173e84e23152a9748faff996642997d8bf",
     "c1484ed16e0a0aba58eb06ee6b43626b6ed2798372dc0403d3526ec404c72764",
@@ -4000,12 +3995,14 @@
     "76025f6d8ea9ec4ad274fdc1320f2220b4223ca0508dc810874db24c04af0c37",
     "054b5f76e9d98587936b2a72e8184ac63c3be8ec18ff1455e38e21941a1306d0",
     "d881ce2ff845133880e3169a9705636ba3581e68e64cbed4452d5d276f927d6a",
-    "0b5317eb3457907f48896a2a91dd493c2cb3dae99469fe13e006e4a3e642dc61"
+    "0b5317eb3457907f48896a2a91dd493c2cb3dae99469fe13e006e4a3e642dc61",
+    "f3b5a63331ecb56142cb7b5889bb724cf46d54ba54eaa60ca3a48504147ee256",
+    "053b58e724dbe28e8171e29e8384604fc9d8c9d7c87d4737243f8f56a01ba2ce",
+    "9d049f6ac9e6c94066f99dd4b3cff538998d0390a68a346518b57be7d2d1d1a4",
+    "0e961694a1516f2d9aa90e14919ce49c92a06f0aacf8acf96ca7dda3c3c75e57",
+    "faae6e9225c424fe60301aba9969332924683cc3df2dd9438ff89d463c4a77d6"
   ],
   "title_hashes": [
-    "7ad3ca77cadaf8afba731d38f12fc511af363336475565a104134b396df68ca2",
-    "996876a861834a09e274f0efc974d602ab81809ef0689af5b19b1851c0bfd3a0",
-    "2eb0d5e7a1aade36e231cbad2ce0b0cbf0af90a6f23309f095ac491c72d06a33",
     "612262b8834b51e9ad3744e08c6c018ed53bca7a4f5a6af75db4680b8fe1afd5",
     "dda5bafee0a0c8e053839da3278a3eb52f3b9e991ebf6af18554c13abb1ec076",
     "0bbe31fa60c14710d33baf2aad973909ec9f229ece90de6ae647ca2268ddc2a6",
@@ -8002,16 +7999,12 @@
     "e611cc1d90e2465c361eaadd29b36c30d76d3441f629bdeaab128bb2a59af190",
     "930e46af81f91c06dcea7fb666614191ebb7293ac81d809ab6ba1caddd9811a9",
     "7d67cefae6c0912c8f9933c8e3949f5e9e634a1344381401cf06df3240ee56be",
-    "c74d7333ecd0e0031373f54a009114c24a29e6292c9c91c12f2e8168cb6e6e4b"
+    "c74d7333ecd0e0031373f54a009114c24a29e6292c9c91c12f2e8168cb6e6e4b",
+    "e41871426d26aad841b72f3f6f263622650616f722463b65597a93697489f07c",
+    "db2fdaff8fba6f41eaabd0d13a77db3ab40a96e93a0a22ac79a219fe5234cffa",
+    "d46c73e1a89799218e9544a90918acf4182b435574a0f5d14603fb69bf472bd3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "StreetInsider",
-      "title_en": "Form 8-K COHERENT CORP. For: Nov 18",
-      "title_ko": "코히런트(COHERENT), 11월 18일 자 8-K 공시 제출",
-      "url": "https://www.streetinsider.com/SEC+Filings/Form+8-K+COHERENT+CORP.+For%3A+Nov+18/27372612.html",
-      "ts": 1795088017
-    },
     {
       "source": "MarketFeed",
       "title_en": "PDD Q3 2026 EARNINGS: - REV: 108.3B YUAN (EST 115.21B YUAN)",
@@ -11504,6 +11497,13 @@
       "title_ko": "NSCALE과 BYTEDANCE의 거래가 미국 칩 커브에 대한 조사를 받고 있어",
       "url": "https://t.me/firstsquaw/194294",
       "ts": 1795114269
+    },
+    {
+      "source": "Reuters",
+      "title_en": "JD Sports cuts profit outlook again as third-quarter sales fall",
+      "title_ko": "JD스포츠, 3분기 매출 감소로 이익 전망 다시 하향",
+      "url": "https://www.reuters.com/business/retail-consumer/jd-sports-cuts-profit-outlook-again-third-quarter-sales-fall-2026-11-19/",
+      "ts": 1795114359
     }
   ]
 }
