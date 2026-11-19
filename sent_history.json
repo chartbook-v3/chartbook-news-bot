@@ -1,28 +1,6 @@
 {
-  "updated_at": 1795070021,
+  "updated_at": 1795070181,
   "id_hashes": [
-    "66a126d8bc9aaf0eecb2d4600bcd33091acd6e3f1377efe93fdafff40afa11da",
-    "171498df8a9b58c5ca666497b84b21deeb1c5661d19c64838d1d44101f609e1b",
-    "0f1647552aec217ad56c7df81d90d432ff24678ceca57ff2b60425b507222b6b",
-    "34ba66278e9b4849fc6a1b3de52c936a89f795b2c40bba36d3591c9e8f340c10",
-    "c60dbde010f9c6a8a22e7549cc75c5cf1d88df1ef231ebf4e795cff095525cdc",
-    "2fe0e1a5314968668da438bea58d4202c879980abf637c51a5e6247f74df6249",
-    "4ebae79e3e73042610d08957bf95a944fca3120d22f3129d78b0b9a051711471",
-    "cd6a1d6d9341de84a6411e72ac63ec1ad40d5047da0b66f0f1741240128ff4d8",
-    "c7929c4b31fed7c71037d72166206ca70df6c1d34889e91596a8cf4cfa55f6df",
-    "f0be670f8832e4880337776d9477141e12f60f8895cbd05c06c597f72a499071",
-    "0671ef6fa8e01f6082a971febcd34e746ca0204cd659a2b3b073fc1b117e481e",
-    "50016cc7470bd3d8d63fe1811718ce34427cc05da3ae83770623db8c78886c1f",
-    "9344662b7a3aaaf162791f48c03e979d86dffd2c46c861b1d1eae3bbae3ae6d6",
-    "21d7e519a4db5dc76f8a177bbb9b20ac969b1937b64a330accf40a8ac83e646e",
-    "c4eb79dddc7fbcc7858148f2673ed3ce3fe3aea7999c3aa8b3119ae4df52359c",
-    "65f1fa55de572ab3ca9097e42725abf51badba23871c8aef494e6d7b51a8f580",
-    "d44d318d8481256302826c2491eacb6eb9f06301a93b95acf161ad9bf1c77d53",
-    "2038eabd5937f86e3a4f79394ce18f5e34c3c869511d874f6b50374f6fc6ebf1",
-    "75453762b295438d151d201639cc2f35492d2d2a2f3be4d528f3228f2aa8cb5d",
-    "adfc6a2cc4ffa224b32e40ff64016d3251c264dbc3b29353c3647c415201a169",
-    "e445db8619cfd4c598eb08fd0bf3497297e44ae20ed2ff3a711a277c0bbbdd87",
-    "787c8df1539c86a8b765ae911500c76635171dfa6161d8ecf9fcfb3b6dd95b0a",
     "4349b6d2224a0b1ea356deec823b1ede182fb5ad85a012c824d804b09582b27d",
     "9cab73cf4642fd47af6cf44f228ce7f7758faf535f851b0ddbb80b823c34267d",
     "edb11650ab3f5204f309021a278c8cf9a6d206b2d52e89a49096e278ae45723d",
@@ -4000,27 +3978,31 @@
     "b540b418626acce4fb34d0595aa595ca2f11fc8f057d3837afa0f9912dc1b398",
     "00be93dba0196f4d4f73a28f715496fbfd6543060f2cc61d19eea901c812bc84",
     "66701553cb9d3afb6833d5bd68cd11e572227c6405b2c923ef30760a5d957aca",
-    "5043f420a2d15edf34659e24f019c54af823772a9361db3d03df0772b78fbee7"
+    "5043f420a2d15edf34659e24f019c54af823772a9361db3d03df0772b78fbee7",
+    "d57bd95f2370fbbbb7b2604f0167dd9c36340400c59eb5e06328cbc63bc738ab",
+    "c3fb031e056d6fb1d422e5d4e4720f7e115924793020f45042522ea344e743a8",
+    "4a769a8aa8a38049820eea9db1d61833ebaa54a7ecbc07bfd8ad797bf71cb7fa",
+    "3aad4a5ae94d85e7050d77091271752bc58e1b409dd7c11e85c02da7c4620d53",
+    "2231b2c7a38c062acbb816ce99affff7ecddc5aabca7ad5636f22d83d5f5c344",
+    "77f56785ab37147d09e0a83cde3ba5b8087fee9c4e6eb4432c56c97a8fa9be5c",
+    "ca4ea59007d495c43afec5aaedbd9f1ed491c4896eff816f11e5b745a7e18f9f",
+    "b765bacbdf1d313b20a3d1919aad75bb81535b7ddbb4d6b85a8b72d96505ba4b",
+    "dbb8122e7e28da01a7f9334726c73d03401ffe012a2a63332da166d83c34654a",
+    "a10a6cc6df9a1c28a7beadaa7c1b6823c0734f7bb49ce387b87269d6a9f94322",
+    "d7ec6ebfa7e8ade60e36d0574db18dd1db9c15a409ea63f4fe2f405d254525a4",
+    "5bfffb1526b346b243e042e0bb6e88fae4193fd1c8398896ad3f3c6395c1e5da",
+    "c7c17e459be74b3553aa7473d0d5376cd216741562d237ac7e7569e0f2233061",
+    "bca2241a15b2d87c69baf1de429f145fb8419559c90278dded73adc01d551698",
+    "8d653c09883d5620b73d3a471c79c7a1b8a396c659c458ef8eb6844c284a5e4e",
+    "4704b5598b3c576380536376949f0fa3da0e3f6976d050a2210881c46e29e54e",
+    "256f1949e55ed917d649e61c03f04f6b20a5bfe833479377b7aca2476bec772f",
+    "9b2c61444211388aacfe704ffcebbefb7926932323669878bf1c784be99f4ac4",
+    "0cb22065e28e2a89e95fa1f44d9b6982c6e47b3f1ffdd6cc1f3a8238a3e43043",
+    "e790c648d5f543a1cd27a1452251a7362b88778c231056a185638bd67632b8f3",
+    "0b2e908711280b0ce3854bf4b131e22bb9226f31408813fa4e29e0af90a82d20",
+    "6a0f3238c3ac1c425ebadf7f0f5e2a7a28493e3cbe2af4a64a3e746ecac7b13c"
   ],
   "title_hashes": [
-    "0de24a652469d10503aba7de81722978a9e9e00a513babe36bc0e9084dacd2e8",
-    "2468927c14f93400a2d7b50ce1eb01e650ad33d21c41dba7209645eb3d130063",
-    "2770fa9e68eaab60d86ef489776f7d1ec8a4541ccf4d7c69830b435274da859c",
-    "7c7633c3ed749cf3f5b9a8a688bbf4818552341aa721a83994e30b10b5a29c57",
-    "616d0689988dbd6aece3da08c5b16a6b21a13fd0d945e2a596f81059da914c9d",
-    "72a8112e9860a7fedb52011341968f6476727dff4c8e1ba43aab315531eec909",
-    "4a9193d05868081e27680333936f462f298f7b7fe8bee635bd0aa48265330462",
-    "08bf6c7d7cd96472d79d1216a06adf8df8720b2cdcac888fbbf2bd952800d32e",
-    "bb8eb3f0280521cd19db2052a86b5b3b6938efae84565f3ef5f89c02b393560a",
-    "510ec279479e0e85f6f84d218f94d453f974825fb111d0d44cf6df4e9d96d7cc",
-    "fd79bc9d1c9acfdedefc8917475a937b54e69ec4cd68e05b108e1f4bd69b21b3",
-    "8c86d9ca60c3fc0dc1b62d7199704bddf662b020e4d44dad20a69bfede460a7d",
-    "6f107fec16711a3d47eddea8109a97ab307db813eb3c03eccb43d637ddbc6322",
-    "d44ed5c72f19970ae76118f7b97a191aa38213a502fdf790ea7267cd1bfbb618",
-    "ca8e3e112fe193bd39721ad547eaa525c5f8ab898ad5f2a0f4a39e268dce8a2f",
-    "5d4bbcce219fc632c9552ccf32508b200b1f7c76388d5c9ea95c724eff890135",
-    "10bc6f76821b92e9d869408ebc36be397e1e977884673426c8178c6913236dd4",
-    "dc09a3398ace3c6c1b6d44be40b78e4b93ce54bc9768c7b8806d840383a22ccb",
     "deefc97756b848869960a1256ef868a3f1d6e2e3057d1a97aba8c57789c63d7d",
     "b7fc1a951ca2baf49fea9ee39add1dcb37c5d0fd87ad56fdcad135c06441afa9",
     "1c2b26ff614260770a27652dc2f248c5b6a4c900121defb59d1811f795391a01",
@@ -8002,51 +7984,27 @@
     "4baca57bb7b5ed1ddd2cf7296162b77043224a0215fba50712a9c101b73a1a82",
     "345b0427d271998373f4ad1612c0cea9b06f03b316855b2798ca97067fb9e09a",
     "dc0d9ca041d6f8f2739e41543215e18dd18e5e46297fe17d7f56ea200d9b6136",
-    "7bf40f11abb042f67785b2edff5afeb9638d6ec82b6c274f5a3eeafd7dc394d4"
+    "7bf40f11abb042f67785b2edff5afeb9638d6ec82b6c274f5a3eeafd7dc394d4",
+    "34bcbf47d3207ae9bf57dba814d0f1e1985758294612b84545e65a631480bf3a",
+    "07400f03dc20f194d554c8d5f5a79e18c15ca3f39322c3c168495aedc50e498f",
+    "25401d8526d96e7e356c2a7b5b3e2afa607fca83b7f4a267b38d33fcdb229541",
+    "d00902501a1f1e17449afd18b6449ac494605cdf277591379c348954184a06e6",
+    "cab2daba0c96f972f434328dd4d9dc45340ea44f945e8acc1b3932674569d8b4",
+    "f8e92d243c4d6f91fa015b8280cbeb69cc10eff0277e49c74827b0fe839c20e8",
+    "1d567935fd2431501933df30966717037b255f7002d1cb3a6932e4ad48ca50a0",
+    "e37c77978a047d46c43043a49efbad6c604f0411eb631e8e6ab7faf633577212",
+    "72c8506e089c5b9c01a0e5325b4055018084004a20436c5fba7c87d3d065ce63",
+    "6fc7265d498ddcb924574b997c55695eb5eb824f9ebc1f7da7172a9e0d9b350b",
+    "d62e6348cff1fce05683ec3a33d4ad991290f43d3c938c75827c47b1b8ebe0c7",
+    "a48c95c8b8581fec5dbfdc0a81c13848c5df795c719d23923818702d0109e8ac",
+    "4fbba68874e8a74106aa6ced018f239481dc7dfcaf1d4af58f7da1498d3d3383",
+    "c5893a886703e04af4ae64668a9503d4213a67935d16396c9d5e51b93a950d8c",
+    "94240c093e4e1d6d4819c9e0ba7df8d1712e4df9101535b0f683cd6639bfa540",
+    "059f98779c7c1f67f3ca01ec3a9158c731d7eecad7b415548e557d0f10dbc5ca",
+    "b7035660d7bbe98a28999bdbc6872cee92acfae178864299f5b73266623ca449",
+    "98d36deabf6b9cc6ea4ea82c39b2b7139b4c10fdf35924a0574ec09eccd8bbf7"
   ],
   "recent_sent_articles": [
-    {
-      "source": "서울경제",
-      "title_en": "삼성전자 “AI 투자 거품 아냐…실수요가 뒷받침”",
-      "title_ko": "삼성전자 “AI 투자 거품 아냐…실수요가 뒷받침”",
-      "url": "https://www.sedaily.com/article/20116215",
-      "ts": 1795045394
-    },
-    {
-      "source": "전자신문",
-      "title_en": "엔비디아 전사회의서 조직 수습 총력…'포스트 젠슨 황' 체재 준비",
-      "title_ko": "엔비디아 전사회의서 조직 수습 총력…'포스트 젠슨 황' 체재 준비",
-      "url": "https://www.etnews.com/20261119000005",
-      "ts": 1795045400
-    },
-    {
-      "source": "전자신문",
-      "title_en": "김용관 삼성전자 사장 “네오클라우드 비중 8%…AI 버블 우려 과도”",
-      "title_ko": "김용관 삼성전자 사장 “네오클라우드 비중 8%…AI 버블 우려 과도”",
-      "url": "https://www.etnews.com/20261119000006",
-      "ts": 1795045405
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "'외국인 겨냥해 용량 줄였더니'…정관장 뿌리삼 매출 27% 증가",
-      "title_ko": "'외국인 겨냥해 용량 줄였더니'…정관장 뿌리삼 매출 27% 증가",
-      "url": "https://www.yna.co.kr/view/AKR20261119027200030",
-      "ts": 1795045640
-    },
-    {
-      "source": "지디넷코리아",
-      "title_en": "갤럭시도 차 키로…폴스타 4, 디지털 키 구글·삼성 호환 기기로 확대",
-      "title_ko": "갤럭시도 차 키로…폴스타 4, 디지털 키 구글·삼성 호환 기기로 확대",
-      "url": "https://zdnet.co.kr/view/?no=20261119084659",
-      "ts": 1795045706
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "한화 건설부문, 1조698억 ‘하안주공5단지’ 재건축 수주… 누적 수주액 2조5264억",
-      "title_ko": "한화 건설부문, 1조698억 ‘하안주공5단지’ 재건축 수주… 누적 수주액 2조5264억",
-      "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/19/IB2QBUB5SJGOFLBA6DGL34PCAQ/",
-      "ts": 1795045728
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "日本9月核心机械订单环比 -0.3%，预期 1.5%，前值 5.2%。",
@@ -11504,6 +11462,48 @@
       "title_ko": "다카이치, 쿼드(Quad)가 '자유롭고 열린 인도-태평양' 추구 위해 강력한 연대 과시했다고 밝혀",
       "url": "https://t.me/firstsquaw/194154",
       "ts": 1795070020
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Fed Interest Rate Probabilities",
+      "title_ko": "연준 금리 인하 확률 전망",
+      "url": "https://www.financialjuice.com/News/9859406/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+      "ts": 1795070040
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "日本烟草公司将把俄罗斯业务部门排除在财务报告之外。（彭博）",
+      "title_ko": "Japan Tobacco는 재무 보고서에서 러시아 사업부를 제외할 예정입니다. (블룸버그)",
+      "url": "https://wallstreetcn.com/livenews/3202379",
+      "ts": 1795070103
+    },
+    {
+      "source": "이데일리",
+      "title_en": "[단독]'AI 커닝' 세무사 시험 부정행위…집단소송 나선다",
+      "title_ko": "[단독]'AI 커닝' 세무사 시험 부정행위…집단소송 나선다",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03312806645647360&mediaCodeNo=257",
+      "ts": 1795070171
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Saudi Arabia overtakes UAE as India's No. 2 oil supplier; Russia retains lead",
+      "title_ko": "사우디아라비아가 UAE를 제치고 인도의 2위 석유 공급국이 되었습니다. 러시아가 선두를 유지",
+      "url": "https://www.reuters.com/business/energy/saudi-arabia-overtakes-uae-indias-no-2-oil-supplier-russia-retains-lead-2026-11-19/",
+      "ts": 1795070174
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Peter Schiff Warns Fed Inflation Fight Could Crash Stocks, Bonds - SPDR Gold Shares (ARCA:GLD)",
+      "title_ko": "Peter Schiff, 연방준비은행 인플레이션 싸움으로 인해 주식, 채권이 붕괴될 수 있다고 경고 - SPDR Gold Shares (ARCA:GLD)",
+      "url": "https://www.benzinga.com/markets/economic-data/26/11/63418115/peter-schiff-warns-federal-reserve-inflation-fight-could-crash-stocks-bonds-real-estate-crypto",
+      "ts": 1795070177
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Japan to Remain in Close Contact with the US Amid Developments Surrounding the US-China-Russia Summit, Takaichi Says.",
+      "title_ko": "다카이치는 미-중-러 정상회담을 둘러싼 전개 속에서 일본이 미국과 긴밀한 접촉을 유지할 것이라고 전해",
+      "url": "https://t.me/firstsquaw/194155",
+      "ts": 1795070179
     }
   ]
 }
