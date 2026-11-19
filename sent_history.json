@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795057062,
+  "updated_at": 1795057212,
   "id_hashes": [
-    "3eb44ee67fab61c8a1ddb6cd7e689f5d354ff27b6ab04cd982eee9b41651a1dc",
-    "d6a1069afb560f8ac2127165bc7885c913271ed6185d6067d07288c99ead750b",
-    "d24bab28af8f0f1730f2f671d5f748b5f7a31c7cfd97e00de0acb1db453eef21",
-    "a8a1e56a67e6215c797bd4e263bfd7417f68746d473833407d0fa060fa24017c",
-    "4c10432b0ef76e1938b420367a550153b5331185af6e9433b81d012b17e33dc6",
-    "3c603b8996b1faaa90d215138a03827f4afa32eaa7875b3397b7b3ccce1bf49e",
-    "538fc2b90aeacf308ed9556b65b497b42af3207628c1e1052f17484800004ff4",
-    "9f0f45c7d2a5c0213db99b9f14adaa1ecd666ec5f7b762668285e0013ea54060",
     "7c8071b7351946e6eb157d9140ca7bbeddde08564023cec88dc20dc01a6142be",
     "78068f86e1be203f3d674d040ef2d508ac3b8791cdf2ccc56ed5e39c17b300d6",
     "1d424e1aaa5a9624fb9895b501dd82f933d9f80b456c96cf78f7c216d26b381f",
@@ -4000,14 +3992,17 @@
     "b342dc90d76a990cdcb2543ee1a045393e1fdf0318f1a918888cf97bbed05f4f",
     "68572b1b71783ffab393bfc2df7f78b426447dd626507ebc8fd40030b2b3f7b8",
     "ec3a3474f121af8f3a00200ddb5e21755bca1c62dff92e32a5c68c0c4ac69c34",
-    "6344e0a1e583919cef06b4f2dded1f52eb385aa2efb7e801304e461f8e947688"
+    "6344e0a1e583919cef06b4f2dded1f52eb385aa2efb7e801304e461f8e947688",
+    "e9f407406e047ac3cd1fa65e3557db62ba2a0a041904708ef01a10aa49b46fe1",
+    "aa08598704f094cd5d05112bec237f24e21e5a979dde00ffeda6d4d360c0cfdf",
+    "2d293b21eb43f28256c6e409b856b96e5f641fb4e72e3a7358254aa61fdc4401",
+    "6222241e5d55b79f132b23223df5aa035df5b37a59f530644d11b8144c132726",
+    "3282784fa6c3155c840ea5bf2872fbf1cfe2ee8294e7e18c990ed8acaf4a51eb",
+    "31b2dddd6e011df5dd520fd631d3325f1de5bd5018dca0f8abb55201c5cb4ce8",
+    "790dabc6a67e2e1c3b1b20f52582b33740414fc026081f342c2e0fee2b30cab1",
+    "73930c30d3aa6b4c2e99c52f2c4e1069a79506d5ff2a33a41e5f261d5c68d3c0"
   ],
   "title_hashes": [
-    "5614d48ccd14e38cc1241de3156298cac5337c69a72c40ef23c19598a1f98f28",
-    "e36d5c2c00279e5312464c8032f4415c4e5528fcbf349c1456ed64a44d7c06ff",
-    "89553a0d1a5b425a5d9c7f4a0e773fd5fa6982c140a06175e6d814c9760a6aa3",
-    "5dd2ec180cfb15e35ac01bf2933ce3d7e9e58f88d1ae3d47ebb5d444df17e02a",
-    "4afb83bf5ab00b20be2791cde8f2eec766315dcba28d4c6e6faac8b0e251ce54",
     "0459e425cb1369a1571c8b95829b5cea59850c73df6c4b1dff265314e82ca8fe",
     "4e24d56011af3f8477b4f52e155332bf29e8bf842978e3ef8c978316366900ce",
     "577534520a436791683c5edb93e300d06a753b7be0b02ed80c0c1f8b5083e8e8",
@@ -8002,16 +7997,14 @@
     "fd074735ad04e5e30b029df069d66db2e4f81bea9f59d37b33b0905c4dccbd1a",
     "abc8317dd1e84eb259ca5caca824e759e6b3faa621ce5fe6636a88787e79db33",
     "98288f46f9dba49fd0440f7805200cb88c7afdb9743f07468c2a9ff6a153005c",
-    "c598123db81f4b6b1aae80f1ddd4f201e6186b82895c66e8abe8a6956d01dd10"
+    "c598123db81f4b6b1aae80f1ddd4f201e6186b82895c66e8abe8a6956d01dd10",
+    "44ab9d37afe6976d65bcce16bd324da3f27d54922149bf73d505ebb24428dd10",
+    "ac242642f17e4c4dc66dcc878135ba537e6c07918912a156f7f32b33cace97ec",
+    "0ccd1c845f88b00db7b8190e7532c341f0f36cdad0a3bcfd7cd9baa8462e9b2c",
+    "d39c550fe787ccd8d4a1d68dcb474e8d5ac84263ca7901d51779a54cb62aa5fe",
+    "171604ea433d5f403d3be16fbce04a50e769e2ff9dc2e2f331fdb65752eca965"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "QuasarEdge Acquisition Corporation Rights to receive one-fourth (1/4) of one Ordinary Share Stock Dividen",
-      "title_ko": "QuasarEdge Acquisition Corporation 보통주 배당금의 1/4(1/4)을 받을 권리",
-      "url": "https://www.benzinga.com/quote/QREDr/dividends",
-      "ts": 1795031036
-    },
     {
       "source": "Bloomberg",
       "title_en": "Microsoft Says Copilot Is Beating Anthropic, OpenAI on Price",
@@ -11504,6 +11497,13 @@
       "title_ko": "트럼프·푸틴·시진핑 회담 이후 우크라이나 동맹국 베를린 긴급 회동",
       "url": "https://www.barrons.com/news/ukraine-s-allies-to-meet-in-berlin-after-trump-putin-xi-talks-530c1350",
       "ts": 1795057061
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "BoJ Governor Ueda: risk of Japan slipping back into deflation is now lower than before",
+      "title_ko": "우에다 일본은행 총재 \"일본 디플레이션 재진입 위험, 이전보다 낮아져\"",
+      "url": "https://www.financialjuice.com/News/9859128/BoJ-Governor-Ueda-risk-of-Japan-slipping-back-into-deflation-is-now-lower-than-before.aspx?xy=rss",
+      "ts": 1795057208
     }
   ]
 }
