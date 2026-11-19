@@ -1,24 +1,6 @@
 {
-  "updated_at": 1795085974,
+  "updated_at": 1795086124,
   "id_hashes": [
-    "e413ced93add63c177f7a91627e856968efa5aff275722798a65650c21d21cf6",
-    "3ed22cd06d17b5a2631fd3279188687449cd696c1f1447bc3114a83262d5f746",
-    "079029e04b25f205adbe06f2e053629caa73f816099f6d748b6337ca3ac35030",
-    "1aa73a70f3fce3c966e43de53f075d2b2c7c54248c7663339a599c4979b085a4",
-    "94a68708de06d8a69121d7c27e4e6b26280cb0e919738c84c75e1e991cea724f",
-    "604e77755b6bf4cd5ae0853054b428b90d882ed4ff2593638750f30ecb48569a",
-    "87b3ebc52259f11845470b03d2c82950acd02e31be96770cc9c0e937d1953b58",
-    "f987c554ccf847f42f55426e246ae5b92a14b34321e00431eaead0e5f18fafe4",
-    "23c3761656f5fb9f2fa98d66f3d73742d91ba57235e3c5eebcc52613cb6ea76d",
-    "3b14c3d17340ba65f10270f6d11c3e24357a8adab2afdfffc7dd7d42dca56333",
-    "1a09a931fa302944a752aba2f1a44c8e6d76485d17ee7e0677053810704423ab",
-    "c0e0c9e5a9b57d74f881d20dc84c9770ed07ca3feab7c5a2020cdcebe3b7c887",
-    "0e46f44c6697eb11f086dc3a1460c40c9a1095a50cf5dd64815afe632fa27c0b",
-    "93b26acb1656e10b460545ef7d7912347f4154d9bba4da8d49be3d8c0154f294",
-    "153df808c204c1b1fa49de1b0a9e3ef1ce43395ac9ab03a5ac13c634c4490cf9",
-    "2123436f8e1e5424d7696222b4392e2158472605bd3ceca9607f911f190a64e5",
-    "354e39c85a19b80dc4621e7a4af714cc125abe15d90c282f2b01ba27dbf0cf98",
-    "da48bbfab620d294847a133cd858fc2079730fb967087f255156c251386de3f5",
     "33d7e5debaf7e322d68c80d822d6bf09cd07564e4e68f16cb389cb2553128d0c",
     "39d44fa36f37c2e000c04c5b639b20d68eb4f2edb729983c6f3b2003a81e2898",
     "71bc0a36cbbe8260b1593d1bdc2e99a56ea80025abcd8ddc89b44ea110932862",
@@ -4000,23 +3982,27 @@
     "09d8625169b2761ac547f50c8fbd170034961444b930156d0f7f74d3b8e946e1",
     "c289cfb531f5c234f5c114ca518a974ba7ab1cbd578ecf40130cb95d7b301c75",
     "a7421f4bf6cbb0ed2ebb1880f339771f741143e84f271adecea4be329cf2c848",
-    "0071723c4a09d1a29953176fe8c4a2b2ea7c78081c805f1bc4656ae22ca184fe"
+    "0071723c4a09d1a29953176fe8c4a2b2ea7c78081c805f1bc4656ae22ca184fe",
+    "a0b24f40360bd55765640e638143e8488f152c53bfb26e35f0775eb1e987c835",
+    "f631a09e9ecf9b5e972224dc3e0fe159dce005591fbe77afaf365106b2c6376d",
+    "540b1379838c5b8cd1837a2ecba99c369272dfcdf9826c1e74d229dce681daa1",
+    "70c18fab0aff2874c520b1504175fb803bf0722b4802066e92a314373046cd6f",
+    "2902d1542ab07e938ce6835a1064254621eed9be751057f85dd15e4f5ca696b3",
+    "ac24c52df250d73475aee6b2b5fa45c0023d840f86c67aa24f43397e9f3ffdd3",
+    "7a731a9311585e49e6b262a8ec8dbfe5678897d8ce4b516fb64ed3a35761ee84",
+    "b9e50b30ad07f2d9a475dc42ce75ca291abb5cb08692a659bb47244c05df41e5",
+    "cedde3bb5bfb0816d403e3a19db930a8f9d0d60e88125426818bee2e75345699",
+    "cbab04cd2b849ab12d50d77b73139a4f2ae15643f4fa9a1cbee1807d4a6a89d2",
+    "23c35c56b59ff6db1b91f6b6ebee450f9be9605216e2873dbb3495777718c350",
+    "a703eb8793cb813337fe3603b80a52f17296a02d88ba520b3833a1d756d6c81d",
+    "b8cf50f8a800944db5e47c7c1153b641e4f2898b92c4e53f091fc806725c0ec3",
+    "d03bea8887ce08b451ee6e5d1d0df7c592bc2075bcb069fe33a914d39639716f",
+    "748ba94c46e45537852cfa115f6b8dd4cade8550095e6e8648acf170a0edd488",
+    "bc50854e26e7c70d3ff69bf699de578f1d34bc15011ee8686a1cd432e85cc6cb",
+    "f2de7ca392d1ba517c4cde0912f8e184f545a3dac1f0562b7aeca134a3e81a3d",
+    "ac5f6ad2159217694bb4a26c4290c76eaf318c4bb89ab12ddee66ad6f60e85ba"
   ],
   "title_hashes": [
-    "d0c960d7959afae0d120161c064d4547ed2305b0d65bcd52c71f69e9d690f1a4",
-    "507ab030e23d875e3050f4413d0dad6e153cf21e6409dc9d73a43b26390c391c",
-    "cbaa4e02b012f07a5148053092d6881ca34ffdfc8e856f53260a3c145d3e99eb",
-    "5f9ed2f771e56d42eedf7daae55ad57a2c27ae234ca6441d33ffc2d893b33969",
-    "3f23d5c6efde7f4275dc145d496731bef56cbb5014d374b96e4f53c5f7286710",
-    "6a8c9278ded9ba9650be05239e787f61d97e885cbe27d11bbf8aa852d02521ed",
-    "9c97cacb2429f09346000c8a1ce18369f739e8f029e0a7399e201439c650cf63",
-    "a8b8bb4abcd44430596d68c5c4918342d70de432c6c4cae8b943c88eae0d9f6e",
-    "f7ddddcf0ad08da6ee1597039016a9105f8fb69a468fa31f653805e68184f82d",
-    "bc52c1f270b9373eb75577f769c1b213b5cc149b4d04bf70864fbf7c5090dede",
-    "10223bb0c52a4866ec94b38f1d091d82bc10c30445675c020eb90936c0230b72",
-    "8ccdf07dd592a8124269b968ad05c93cc12f5e762ba2cd9cbeb8157714e37b95",
-    "abc135b3822597885d1820925a9f6fc74e32ac1fb95efb8efdc372050813c81e",
-    "281932d8e0ead2308ff2a513cbe7b4818a0962729ad650cf79925c4bdf1ed6b4",
     "6951f7fc986410139539fdc7ed81c1b978f0562a5c426c3aaef02e22a127c643",
     "041151acb0b794c39ffced219a52ee866f54c255643221fbf18c9e4b155564b2",
     "66668a86bf637ee2e86030d7c464599dd016cf3e5721b874da8ff7db81ff5b15",
@@ -8002,37 +7988,23 @@
     "a2b83490d18681147563069ebb7b3d20ed67da48e5a9aec685607918d39eb183",
     "156c76153be4d542652d9705f8fda97af19eeb92ffad7c6d3fd0e1e58642c205",
     "8e977e9481f380062ac247cc71cd0a14b3158ed075ef437e1325c2713c07a939",
-    "539eb5d9413f55f61caf8efd161ed19f02b8eaec103bd78b11704aca6dfe9a2f"
+    "539eb5d9413f55f61caf8efd161ed19f02b8eaec103bd78b11704aca6dfe9a2f",
+    "2559314f1738e66cd26162eb7ff448a46287022400f881d456aa92af910d1362",
+    "6bc6153218f0da718db68dcca1a447cbe1c4bf6c1c0c11071c18fd2297b8b999",
+    "ac7294a5ba95e9fa7acbc0f4c52857eef05da81b095bbf0b976549ce270aef53",
+    "04ac1940f938e52e04bd73ed700ea088b1230beb137c277293e4efb3d01adf40",
+    "3f2e86ad8a33c7e7aec2ad149f7a2f76c6ea98d32786a81805899b27c18c7282",
+    "7efcccd4953bedd53848c18db547b4ecff3ae8766c83c60ec1fad9ead6908029",
+    "7dc83794136511df558ff048948636a4125c9594bfd9c0324f783d9ffef957a7",
+    "2c18e5fa607c3b467f2b296615c1750fa544c561aa6fb2e3b5b6dfbd7b4298f0",
+    "a0f816260f6c3780e269ab68d544a070fd132184e3c27020eed1ac34555e151a",
+    "22428c4c0accc5a7cbbacbc1ffcb1c6f24fc5e1156b38db176068d7bb56001af",
+    "9b727649722e361f6586a0672b2cd665455927b87a0ff0110d91efac6b135c95",
+    "df40328aaa563e0a71db5456860290e59d4b3e8e9a38eb7e4a8afa2986990ed1",
+    "477758d00cd661fa5a33b997c0899de88c9b7142057f98a0a47ed64356204458",
+    "2f096075695acec023502ce1cbcaed8593e3366f10df3c8d957a15a09ee686d7"
   ],
   "recent_sent_articles": [
-    {
-      "source": "CNBC",
-      "title_en": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal",
-      "title_ko": "한-중 무역 합의 기대감에 CJ ENM 등 국내 미디어·게임·여행주 동반 급등",
-      "url": "https://www.cnbc.com/2026/11/19/china-south-korea-trade-deal-films-gaming.html",
-      "ts": 1795056993
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Asian Stocks Drop As Anthropic's Record IPO Fails To Reassure",
-      "title_ko": "아시아 증시 하락, 앤스로픽 기록적 IPO에도 투자 심리 회복 실패",
-      "url": "https://www.barrons.com/news/asian-stocks-drop-as-anthropic-s-record-ipo-fails-to-reassure-f292cb7f",
-      "ts": 1795057058
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Ukraine's Allies To Meet In Berlin After Trump-Putin-Xi Talks",
-      "title_ko": "트럼프·푸틴·시진핑 회담 이후 우크라이나 동맹국 베를린 긴급 회동",
-      "url": "https://www.barrons.com/news/ukraine-s-allies-to-meet-in-berlin-after-trump-putin-xi-talks-530c1350",
-      "ts": 1795057061
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "BoJ Governor Ueda: risk of Japan slipping back into deflation is now lower than before",
-      "title_ko": "우에다 일본은행 총재 \"일본 디플레이션 재진입 위험, 이전보다 낮아져\"",
-      "url": "https://www.financialjuice.com/News/9859128/BoJ-Governor-Ueda-risk-of-Japan-slipping-back-into-deflation-is-now-lower-than-before.aspx?xy=rss",
-      "ts": 1795057208
-    },
     {
       "source": "WSJ",
       "title_en": "Uber Co-Founder Kalanick Teases Protest at Nvidia as Calls for Huang’s Return Continue",
@@ -11504,6 +11476,34 @@
       "title_ko": "인텔 270K 플러스·DDR5 32GB·990 Pro 1TB 포함 게이밍 PC 번들, 1,079달러에 판매 개시",
       "url": "https://www.tomshardware.com/pc-components/get-32gb-of-ddr5-for-usd240-with-this-blistering-intel-gaming-pc-bundle-the-270k-plus-cpu-also-comes-with-a-1tb-990-pro-ssd-z890-and-a-cooler-for-just-usd1-079",
       "ts": 1795085973
+    },
+    {
+      "source": "SammyGuru",
+      "title_en": "Exclusive: Samsung’s Unannounced Gauss 4 AI Model Shows Up in One UI 9.5 Code",
+      "title_ko": "삼성전자 미공개 AI 모델 '가우스 4', 원 UI 9.5 코드서 포착",
+      "url": "https://sammyguru.com/exclusive-samsung-gauss-4-ai-model-one-ui-9-5/",
+      "ts": 1795085991
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Why Is Intel Stock Trading Higher Today? - Intel (NASDAQ:INTC)",
+      "title_ko": "인텔(INTC), 오늘 주가 상승 배경은?",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63420115/intel-secures-first-external-customer-for-advanced-18a-chips-marking-major-foundry-breakthrough",
+      "ts": 1795085994
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Risk of US Strikes on Iran Grows as Sides Escalate Skirmishes",
+      "title_ko": "미-이란 긴장 고조에 군사 충돌 리스크 확대",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/risk-of-us-strikes-on-iran-grows-as-sides-escalate-skirmishes",
+      "ts": 1795086120
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "UK CBI TRENDS TOTAL ORDERS NOV: -12 (PREV -32)",
+      "title_ko": "영국 11월 CBI 총수주지수 -12…전월 -32 대비 개선",
+      "url": "https://t.me/marketfeed/1081565",
+      "ts": 1795086123
     }
   ]
 }
