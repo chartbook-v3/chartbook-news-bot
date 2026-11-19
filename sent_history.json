@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795088650,
+  "updated_at": 1795088800,
   "id_hashes": [
-    "84d0062e3b339749e7a559ee8dc40f77c3f73e9574453eb827865eea7d065b45",
-    "c94807c3d770d40d307d4a6df0bbb2a884c5b7834fcdfa9c81b794362a750fe3",
-    "1146bc61f85817a13cf2549275ebd129c6f9254e4fa1e115a1c5d2ca3982a095",
-    "c7f4cfe9b9a09684528553592d3ea15cf134032684f72fbe3953bed2db5ea50e",
     "0f7979d31e116d7aef03bc68edbad4b3847cb70d61e7a455a29303681939e7a5",
     "44eaf53688c3c4cbe76d5da2f1a6f8078f260dcae343f7acf858728792fd014c",
     "a9be4d2b20ff88c1989fb2d7ce432f7f1bc2b33be8e351545cbe13df7bfda63e",
@@ -4000,13 +3996,13 @@
     "3191d4b380dd22509ad8def1fbefbc8f6e4f75e63dac9fda8e9b3047ef1deb7e",
     "0276fbf196baa69b45bb7dcd10a7b301a50d959e349babf480a90326bb0afea8",
     "15accb03f2025617afe461415b3106d7800d4bc342c2356e2b85c344d2aa04f6",
-    "6c2e89c8613cd8b52574c91fed7af80ace67fe53e0bbd3e4f68d443b464d80fb"
+    "6c2e89c8613cd8b52574c91fed7af80ace67fe53e0bbd3e4f68d443b464d80fb",
+    "55ebd3a7677f5589e487acb024c09d0f1ee8c5deef446af4932b9d7f17c02017",
+    "7896fdca21fdc9bbf2453efb898783a18b0a552879b4e25212b3b52873bf5de2",
+    "e3b997b9711e0562c007c1ef21a9eb750a7207213f7663c4cbb047122ddc0006",
+    "686ffad52fad74605459b4052d77a94c21b0f97e1a1d18b34ec5067608fa0059"
   ],
   "title_hashes": [
-    "78b62ed18ca1b934fe1c7ef4f543de87dafa75e22e5aec96703fd4ee85b9eb74",
-    "e3bb91661638e96d97c99428e185eecab618d812148ab34bc8528b457a99249e",
-    "d4af4d415b7a712d4d5678813b16358bef2ca1a915cbd1ee6e76ac1224144b3d",
-    "1d7077bfa3580b24ff3949477ab89ea27845e79f36fc97abd202351ca0feeae2",
     "c6887e3be937a90f5909ce8d6db18617fb6ecefdf1f3014360a574b7de493453",
     "71466f8aad227a21b869963bac5a5fd68e1355f0fcd2c95d2e751f68c1c504a0",
     "91964d96224bdec5b7872ccc0460fd32f7a09d21e1a0c1ede6d7c2d0b7526b38",
@@ -8002,16 +7998,13 @@
     "bfd66dc2f21ff83cc43783bf67bf2ed126fef9d55b7eaaf6ea2727fa482a2d51",
     "459e6a05d251aebe22e20ee54e0756d2fe5d87474a2800832590aee073d767b3",
     "fb300f1912b2b64efb2e8f418020ed26e72a4dd9f4a60c2b8515a6190e1c579e",
-    "5fb2b4530fa115619486cd63dadeec1c239f1a7de8f8015a9849278feabe0b02"
+    "5fb2b4530fa115619486cd63dadeec1c239f1a7de8f8015a9849278feabe0b02",
+    "c06c18bfa373af859cdcba06a2ed2509e35899ec399017eee2bd8a23db973951",
+    "0edc3f0deaa151c5b6e708a6c6ebf95698b5f21aa749df7e4e4761ee0837d133",
+    "785c1a279399f4a1353928cd1d1721c2f07f8376bbabbb6d0ca9de209286d1e4",
+    "28a70b68079b4fc1260fa66e6a1bda203939e1d5488e1b16387c700267f89ac6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합인포맥스",
-      "title_en": "日 자동차 7사 영업익 ⅓은 엔저 덕…환율 빼면 감익",
-      "title_ko": "日 자동차 7사 영업익 ⅓은 엔저 덕…환율 빼면 감익",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445531",
-      "ts": 1795060664
-    },
     {
       "source": "Reuters",
       "title_en": "TRUMP SAYS HISTORIC SUMMIT WITH XI, PUTIN ALREADY A 'WIN' BEFORE EVENT",
@@ -11504,6 +11497,13 @@
       "title_ko": "코인데스크 \"북한, 스카이(Sky) 스테이블코인 활용해 해킹 자금 세탁 후 제도권 투자 상품에 유입\"",
       "url": "https://t.me/marketfeed/1081581",
       "ts": 1795088649
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "NORTH KOREAN HACKERS USED SKY'S STABLECOIN SYSTEM, PUTTING BILLIONS AT FREEZE RISK",
+      "title_ko": "북한 해커, 스카이(Sky) 스테이블코인 시스템 악용…수십억 달러 동결 위기",
+      "url": "https://t.me/marketfeed/1081582",
+      "ts": 1795088735
     }
   ]
 }
