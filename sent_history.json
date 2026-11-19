@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795058492,
+  "updated_at": 1795058649,
   "id_hashes": [
-    "b50d6277ce53aaf1bff5d7b2188a31408d7d691c029ebb7a99fb09d6512dec66",
-    "5c5917ac5d8922b0546db62387072b87c41f8d936531cdc51cb68bc7dde13b36",
-    "fcb20d4ebb96344d718ec1ae2a89d918e8b11ace1f2c70543445ce1f6c8cd6d9",
-    "ab1797ed36c625ba49ef6be1e6a4534be72258fd75549fc04bbd871d36a28138",
-    "8e243f716e59b54617c9673009664bd9ae938548aa1794dcf710489b7a9c67d8",
-    "4f22a6f259fed3707aa8fe83da5c9b62791327c44d275a250b46609263fed52f",
-    "95664168e8bd07f10f66640c367e2e7d780f22fe994ec29261ad17f1790c48bb",
     "272e7fe50e463a8dfe7cc5c21ed63f8d484d08d4e42c8308df17baa25ae099e6",
     "d6b1c6c4c210535fea3e2b71514e8deb4672dacb62e1acff4c761d1237567e25",
     "0054316589da2b28785bc312b1fd65f9c135275465ca16f0e7ee77db3183d4ef",
@@ -4000,16 +3993,16 @@
     "dd1386f0ba1559b68f3d4a136fe05d2f26fae33d9f24f65d7d996d91cf3e815f",
     "c06f56db0211af6e3b1eb9eaa41603a47c31c2214f34d7bc0d83387012abe15b",
     "799f82c4a73ce3fdae36bbfa73c085c107f8a336f084d3c0e60e0ba75d424da7",
-    "3eddf6370106e485e27d7c9dc62b5f6da3962d28805d8cc83c57d5c16fdedd96"
+    "3eddf6370106e485e27d7c9dc62b5f6da3962d28805d8cc83c57d5c16fdedd96",
+    "c49bedc2ebdd2973ca62416f9d1746b0d469d7cc2bff4b06ec25f91ea353657a",
+    "96b54962868f4030ef6033398d6255f88745f8d765373c5abdee1d8451287d37",
+    "97beddec5fb9def78b5e5f6354b5b8ba0f6682a1ec128abf1ed4b832968e8d48",
+    "a6fda6e37fdafd4c12cc5c4132473ba86e7b5bbf41a80927b205f275f419fb00",
+    "806603209fdae2d8a7e5b8eb32a045d8c42499e8a554d983f95327a71db6eeb8",
+    "e53be2f7f6d1626c5a01554c0308da6c225973b12af14600c30dcce3bf89307c",
+    "aae792a4fc797f5b16f3286dfadcc8e3255d07264ba379b35283dffae2b7f9a1"
   ],
   "title_hashes": [
-    "2739c8e8fc48027ee6addd8c256a46ee76f1e2758b8395bc2f769dfb883222ca",
-    "4961c8b99bae1b3ecb325c8db6027b63974dde8e98de6570d49a29f3747cfc5b",
-    "bc565b1432929d6cf966bc90dd98bfc30493b193c4b1054dff6cce22112fc599",
-    "b156167ea06acefc4aa36c83bc6e6a799b91dcebf32a14686069eb2fed7789f9",
-    "3696a7e4302a0c8506e9f5a1dcb12593ebe82f467d39fe2961d36afb7b841f9c",
-    "f6ca1273f855ff3dc356ef1ae0a278c81c27460f7289064d7651ec42b5e0549f",
-    "c6a5a8aae8a12d897074383f85d373a45c46a78df20d3525f8916f7ad65e5287",
     "0b9cd2e921dcec8502c71969c77732348eb75491ee4b91b8d702b986ee49e767",
     "3d881fc9cc43a3f8b6527e5e8e7f80bd6c2d2bcfc65105418086cd9bb9ee3384",
     "67f79305d478afcfe5650d6b40560fd158fb983f7859f79ae4d22db6a312fdfb",
@@ -8002,23 +7995,16 @@
     "c560aa5d494f9422d506e578cadb91dfbff3aedfa9ca60115914fae35a44bb0d",
     "6aaa8b5820926728e18031c9faea3c7b6e6ea3d688e769cdfcd0a3655f11bb2d",
     "567e5e06d4a110e91dce3bd6e8d568b7fbb08b57d7886cf8e0ebf8f58e8d2460",
-    "c34f5ada7e22289ddd65b21cfd5692dcb99d77744758324fc10e0889947eb408"
+    "c34f5ada7e22289ddd65b21cfd5692dcb99d77744758324fc10e0889947eb408",
+    "ee77f84522023af3bac1e274124fee19c62dd301437a397bb1cae0df22d888ff",
+    "cf41d7ad06d895c89c6151f49f679669764a06d47b9ccf30b53d8cfff0d975ec",
+    "541ff76c52a0fb45abf5200a313e963713e9a7a13e0017a5b085b4c3a81faebc",
+    "c39db990eeb359cdc02815a763f72f6e4670d2f1d4a798a552863e2d0acb4d68",
+    "110c0c0f0c278bf1c0ebc7b849b666c45e0917088b1230a3a864c65c17753c1d",
+    "45fcdd44566533b8df181d44d4cdbfb0dd09def49b76b4a2921bf746b16e1814",
+    "7d311384a79079bb45b0ae6ca2f679abf0f3be863e823ce6f45eb7e922bef14b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Fed's Kashkari: AI massive investment creates concentration risk",
-      "title_ko": "연준의 카슈카리: AI 대규모 투자로 인해 집중 위험 발생",
-      "url": "https://t.me/breakingmarketnews/178856",
-      "ts": 1795038498
-    },
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Fed's Kashkari: The Fed is clearly missing on the inflation side of the mandate",
-      "title_ko": "연준의 카슈카리: 연준은 인플레이션 측면에서 분명히 누락되었습니다",
-      "url": "https://t.me/breakingmarketnews/178857",
-      "ts": 1795038501
-    },
     {
       "source": "BreakingMarketNews",
       "title_en": "Fed's Kashkari: Inflation imprint from AI buildout is real in the US",
@@ -11504,6 +11490,20 @@
       "title_ko": "앤스로픽, IPO 공모가 주당 80-85달러 검토 (블룸버그)",
       "url": "https://www.streetinsider.com/General+News/Anthropic+weighs+IPO+pricing+of+%2480-%2485+a+share%2C+Bloomberg+reports/27369974.html",
       "ts": 1795058367
+    },
+    {
+      "source": "디일렉",
+      "title_en": "KAI-KIMM, 항공우주 핵심기술 공동 연구 추진",
+      "title_ko": "KAI-KIMM, 항공우주 핵심기술 공동 연구 추진",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65652",
+      "ts": 1795058644
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "AMD CEO Lisa Su Sells $35.49M in Stock as Shares Jump 147% in 2026 - Advanced Micro Devices (NASDAQ:AMD)",
+      "title_ko": "AMD 리사 수 CEO, 주가 147% 급등에 3,549만 달러 규모 자사주 매각",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63417252/advanced-micro-devices-ceo-lisa-su-sells-70000-shares-for-35-49-million",
+      "ts": 1795058648
     }
   ]
 }
