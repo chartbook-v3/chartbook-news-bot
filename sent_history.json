@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795049540,
+  "updated_at": 1795049688,
   "id_hashes": [
-    "cdc1212f436df008b5af56be1c831b4d0d693f123aa91a1c38682f408c94e941",
-    "daf4402ef00dec443a78b1145cd364354721620996d299cb6e07172d22c8ffba",
-    "e4ff4a2017c99ddf91d2bc2473b3f5b5a1e527d8f356f4294326c95eb337b4c3",
-    "59f3948373e388393e536707c5ea3eb0e8a3b768f867c08606b8c330fe536004",
-    "4109194a4b29aa1eddd9065b46a5e2f4de51928470342e32bfe671136fbc9417",
     "db1ca5b7ce61eeac36cb70142d770d28d129b87ab0cb5ff0bfdf2eae8fc82948",
     "ed0cadaf35425ed25d3bfef5df737bef23323b1647a26c553a8b0879c178be01",
     "dcf80dc0396e83c13ff9c3a230031ab48e36d3d8279736a192afce4af8ef0e33",
@@ -4000,13 +3995,14 @@
     "195029173c04a955ed443991a98881d92a143152a4f4a2e69a27da32dd8d4222",
     "6a70f0a2b2df693cb23a4b704566b1c9625a10dad95fcb1e91c0e06149b26d9d",
     "5139b84f601c4afd686f6ac40bbae5e408d7c2324b23d81e1167fdaf86fa2ae9",
-    "149f32dbcc428b9ae414f282429ad045682ec8bcef43061b8b4247d09b31abee"
+    "149f32dbcc428b9ae414f282429ad045682ec8bcef43061b8b4247d09b31abee",
+    "01ed36792ffd9dbefd1cc343b474c12f88b62da28c634839d1c050458e54d63c",
+    "31fcbb986e5299fc10502a4c275e59894b6b466b2217fbd42ad24f774a9dab48",
+    "2623ffd7985718f71643200bf53ae358adc845768759a618c7672bfdf6ab4c95",
+    "4adc2be8f5d27caa9359db029aa684de416921c093082124dbdaaea6edae709d",
+    "0c98677a0f5b0f25bfc5e89350a0732a0e0b6df94ad01d3dc85475bda0750327"
   ],
   "title_hashes": [
-    "e0d4c56e495709389a85ae79dc60ec8d6ca5e44fc2f440ae5418a5ade794f1ac",
-    "49e0ff2b37a51ada2b7fa99e224dc2c0c9684180d53633b2708ca665aceb8c99",
-    "4c6eb1f275efea3fc43516716e99cb140b5ebb1f5a663a9629d901f22506b8f1",
-    "7ef8be5194eb6593b53f15d93b27c8650e0d190c44dc9a13a5e4d5242bf9938e",
     "fa63c02ce38f312f280753e5a656166b9ebfbad59658636162a283da529f6e85",
     "5e98d2738f21a3dec285dde5f926e1b7d5fb6aa0342c0d4892d44f5f5a68cbf1",
     "498ac186372612ee860bbdaf65930ed5e8ff070b581af58b71cb520c466568b5",
@@ -8002,16 +7998,13 @@
     "33d418d7a7f2ebb0acb494c5c0d8d4dd23861af6a122b5cf8f4b9107a96bf0ee",
     "5c7a74220185146d179b277ffe59ac9d14aa52e6668c5411d7a807306ff87b18",
     "bf9b255e70064904adcdf9b20fba24e29021ebdf4e9413105bc8fa131e559bdf",
-    "8b0493b54a3430875f9485c7274340e046737be1f4657fe917170e50fa30d4b4"
+    "8b0493b54a3430875f9485c7274340e046737be1f4657fe917170e50fa30d4b4",
+    "049c27df3a6c194360a415ff70934af7bd99f78c2761856bf2282a5cf290e914",
+    "8f5567cc888e3c792bc118ea3b65c87f47935b5611daf0ea8b9388d796bfc2ae",
+    "71b719fdf73068f2298b3ee32a6d5bff19829bbb045e1f28b375c33ef4b697dc",
+    "632ec942040a1e38d765f1a4c1445d79394c78ac1ced11af38e78b25f1bbbf78"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "加拿大央行：4月情景分析已预示加息",
-      "title_ko": "캐나다 은행: 4월 시나리오 분석을 통해 금리 인상이 예상됨",
-      "url": "https://wallstreetcn.com/livenews/3202099",
-      "ts": 1795023374
-    },
     {
       "source": "FinancialJuice",
       "title_en": "BoC’s Dep. Gov. Gravelle: When the public trusts the BoC to keep inflation around 2%, their inflation expectations stay anchored.",
@@ -11504,6 +11497,13 @@
       "title_ko": "금값, 최근 하락세 멈추고 1년여 만의 최저치 부근서 보합세",
       "url": "https://t.me/firstsquaw/194006",
       "ts": 1795049537
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "#OOTT | CHINA OIL IMPORTS REBOUND AS BEIJING TURNS BACK TO STOCKPILING",
+      "title_ko": "#중국 원유 수입 반등, 베이징 비축량 확대 재개",
+      "url": "https://t.me/marketfeed/1081147",
+      "ts": 1795049687
     }
   ]
 }
