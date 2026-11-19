@@ -1,28 +1,6 @@
 {
-  "updated_at": 1795116609,
+  "updated_at": 1795116768,
   "id_hashes": [
-    "2511cc4363126a5130efc0706ef6b82438617bfcd7759549dc6651f4d1cead51",
-    "a59454834d69e7de45d294b559b293eba6802e88812f8e5b8ef7c403e918b983",
-    "294a1b99ada5e5284bf090705e7dbff1128f96219d8729bfc80d874da30b9039",
-    "7a35a541c8fb2c70f3cb2ac3a82dad9b3aa15c0ac3209ef1a0156694d7130af5",
-    "42ad60e9fff919e2813396cedd0c24355a523ef623d324f385fe07abcc576cde",
-    "d8eb8ddf7e10d051c5ad7c75c5f9a6c6d81a47066a4508a702c3629e0ebc6bcf",
-    "3f6aaad7a0d1259f6a91fea0144a969527e10cd177ffd024201b50f171272c6e",
-    "5961f45ced7345e921aa516c1e4fbcdc24457ba61b9ab89243feccde8fc7280b",
-    "5952c856932c36259cdb74412272bc2536b3fb6a0c33aa62145ad22ae617ca00",
-    "90571963da1a0d2032d6fe6cf3e157af0b397495d00062e46fe417e123715a0f",
-    "a85ae52c19dc0f4e3daa214daa66cea279b6a4d103d5ba81e58025573ef5be80",
-    "b099aedcf628dcc74f63c28e7fba7eb15f3db5986821c613d1670fc96f7365cb",
-    "143b490104c4e8bbd928d7c8fb1c251acc7d73697a7f701a627aa0eeddd330d9",
-    "7e781bed70d1804353d1fb0e194665eb3f56b5e14121e097a8ec88c6f8401eb7",
-    "05e8b2c41e50002972bd73c417b8e6e11bd9f9aafa94d089096a2e39e1bd2bf5",
-    "b972270d32eaa5e95498efb6d9adc36622c1831b813626d1685891e859cf6634",
-    "4d7cc81f84db8cb85e4399320e95ba349da058ba4be22e4bf6399d74d9b170be",
-    "dd5c46ca0d4d2a742ee21db8e3f99df0f5eb0fc581679c09b253de17173b79ae",
-    "629fcc7aa47b89b9de528723c44f79ff29dadea6beb7308554a5d3c49fab8fab",
-    "8f3e252ea0884c75e1b42106b3ee1e8cdaea891ecbc32661fa28d2022825994e",
-    "5f7c45a7a2a5f83c478e826c0195e4d41d9caef0aa5ccc3eccb35bce883462a1",
-    "56eb40b5e369c0f0288c5f8ed60ede9e2ef57ccb840195e22e294d061d7d92e0",
     "601866f5dc56c54d26edd1eb1461141fc8f0db575f6625e70cea5c1732bf386d",
     "b709eb4461523c140832155fdacac6737fd2e0e2947f17b11f6a5c18dc1a33b6",
     "5104797b99a7b52d90b3351232b1385882034328edacc68095a160fd04db66a1",
@@ -4000,22 +3978,31 @@
     "204f918ca3a1035539419604770817f72658a520d83e39e75f094c996e04cc42",
     "052b0920d23748d055a1a6e357cff04eb35b8709ab7c53d70246a8b49df2b5cb",
     "be83949f45459070844274037be0c27e7c7fe5c362f42f73ec59277ef7ab5275",
-    "e5e4be11d63affdbc4e3d70c8f36eef1ae1811691687aabde2966b3e916e330b"
+    "e5e4be11d63affdbc4e3d70c8f36eef1ae1811691687aabde2966b3e916e330b",
+    "35d7d6b8428f62cd7ea08b3f79e71c866a866f46f21efb292f9bbf6163e8afc9",
+    "915123ce075ba99ba45d93c1cc4402d2129ec661f87042e63f4416d73a6b2083",
+    "1ea06ce6a92d9f49dff9c2b9ad976a46edccfa44bb5def7085cddfbda24a428e",
+    "5dc42a1300d5ea6fd969b9483e3687e03d8d6f5d28011396f4934f903ae70729",
+    "9c58d28cfda41c28a539ee3ff1bfd6e4ce23e6bb140f5a435c102874613e2c03",
+    "1d1bb59ebae651e8f04c80713a0c8c024d19e92744f89081edbc60bffb1c4b4a",
+    "b370093b2aaea3d62ab9a317e621ba91c9340a4acbb8c089d99d21036372f084",
+    "5ed733250fc80e568b43468815fb0197d1a4af04c423236e63b56b714c5fdcf3",
+    "7413ea03f89a0b157c41eb889e8de623b4f527886b75a7233aca752fb8a5f198",
+    "dd1a9f2b994c61c45295a5858131bda29725bd000b5ab44b6f0cda7d50602c17",
+    "b9aafa9cb5256c336b4cf91aa2db0d87d4879c1ed48bd07e783fe85a54d60ab2",
+    "33764c992e6d8293b0c7a580e127ff018e1115d206cb602f74492ae986a1b89c",
+    "bb38b9a052573c8ec18d3bd98ed1446311a62279b0509690993bdc6da69f1e71",
+    "856f4e20a64795b3eb6fa45eac06fd3eb4f85ed28fb0011680b480dc52dadb7b",
+    "68353b2b19fe611100604a4bf2ec06411ab91eb77e70b936ef829e62e79d25e8",
+    "50033f29614e303296a2b224b8fd23d7c39569cb0d9eb279f09e572d5cd8afc0",
+    "bc8043c84ef249f2e452509e4c24aa46d1bd352aac819d7af0ee69d3056724d7",
+    "73d1cc0979fe90615cfc4bd7b495817b1c4bb8c94d44f0e24aee00fd803f9e72",
+    "1134914c4fab3699c6a1fe5cb60baa0cd9b0f4c3d68d190f30257e030c030252",
+    "b7c4bd40f7c82f1fb6fea32263d822d11996cde3feb9749dc41f536df01f438e",
+    "dd767468a30775e7b05a52e0bbafe816ecd9f5af7801270d99f3cac45f454d0e",
+    "268d22bb8eb2db68fc147d0c247a0166671d73644a170aa55122e7325b6d648f"
   ],
   "title_hashes": [
-    "a2e44e9b80865f11fbe0ffb719760f7a9622f1136c19a8587644f37884985b9c",
-    "5591c156edb23befb8ef65e49e77e3eb0125f40bcda6f29553ad8971ead19bc7",
-    "e6149309f9139fa7215ac3f266a90dbd0a3d203b64f5d97e36a0ac54bed52147",
-    "9143be824c10a7b83ef62186f276b56e42cf1379a7b3990685d8a0a60dce120e",
-    "cf3813d1035619962a49d1dc8d78efeeca56bbe4987cd2c8cf98f2a16ddc6825",
-    "cab5cd956b247cabf6e3c3ed89857b72b3596631444816d6a340f386e5a59d24",
-    "fe767965fb0eab6144cf0c96be7eebf1aadb7a392de4c30d2249613b2a48f3f9",
-    "c1e04e92085459b5a23dd4fbba4a4dec31732a755adffc8c8c404ff8d16ea9d9",
-    "88064767c8e838b1d36238582ca81be837092f05088bfa79001f8152e25e41ab",
-    "a665a250cc83e2c0e667bd7b5d8d487c54d006a182cd89fa7fcab140657fef9d",
-    "728a30d456b2231765b28891ca6015e6faf0e8c05c13bc98f801140b9d1ca5ab",
-    "963f12d6b9564c3f57ec846f7fe47cde31727420aab4f1391e4f85a380c9a8e0",
-    "e08be005a555aafc0518b47a93aeb06134d50525f942cb91e5836e64618d17f5",
     "cc9485c2b9a7a57443da300603915588261aa7314781803eb11b77da7dddb61c",
     "9ce9e9f4901488edfd5fe4a6467d4ea23d1cbde13a3fa410938bdf74f1c7184e",
     "e4c80afc17cac989bc0e3137da495f7658387fb6c3ea7f4a87063f13d217fc61",
@@ -8002,30 +7989,22 @@
     "8481130ccdc2c7d6a4dd976b6653643bf6953b9659eb60dada7d2af1b8bd70cb",
     "e282fa8e9c3ae2ebf9aa4fca9c43c95c3a48d4ea684656d2419259792e2b1d65",
     "325065d1d34e3937673021fb007b5a01ff1764199e693629cb911082dc9c26ed",
-    "6d129a84c69babcac353f15fe346bc420c67d8be12ed526e6ed694940c68af59"
+    "6d129a84c69babcac353f15fe346bc420c67d8be12ed526e6ed694940c68af59",
+    "0fb3c5fea26bb3e759e0b3b9a849988b3d209a845d7cdd334b6689787dde0742",
+    "664ac4b7a21299fa4ebc1e33d585342b1f27fc32378f21355f755a073b8e6314",
+    "8277b4fe743f507e5ff6fabee0951511b1f8f7e141f166f0bbe1b81fb214ca95",
+    "ebd8bf4670ea675eb1d447ca0004c14452da3c7fd5a5ba590518c135a281ac8e",
+    "fc7a8cb53903bbfae17be47e10e0b3fcaefbfce3af930416e2b3d98e27ec5bac",
+    "ae67ff5660a16c2a1c0c9cef5658d07697ecaf8540707dce96ad605276040cdf",
+    "b2214f1f7db27e0f82c6d61e57d451b34b121f8ebafd53414f3ab0c546996c6f",
+    "06d43e77a5010b944552a94f345e5f9ea2760d049749058965caef620190dfc4",
+    "db3742affc61c814de21f6806753770644cfa18067920681a963ba8e3d4ef446",
+    "dfbfb26f5e9ae88fb2aed7eaa5b7c974d17e4bd52e031484358768c5388a9eb1",
+    "ad05e7fa5e9e4554b150006b0fec0f228fabd708a7d73241f804cbe0a4a46632",
+    "c93c6d31f8b28b96dfc52bdb5f4d1ee2bd269bed13046b5dca68bb6c3cdec729",
+    "e4967579e87a86b4d14ec758b7dea48d29cfa36baaf4493f721d067150fc13a7"
   ],
   "recent_sent_articles": [
-    {
-      "source": "코인리더스",
-      "title_en": "업홀드 CPO \"리플(XRP) 보유자에게 좋은 연말 될 것\"…수익 서비스 출시 기대감 확대",
-      "title_ko": "업홀드 CPO \"리플(XRP) 보유자에게 좋은 연말 될 것\"…수익 서비스 출시 기대감 확대",
-      "url": "https://www.coinreaders.com/271735",
-      "ts": 1795090638
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Google Stock Is in a Slump. 2 Reasons the Comeback Could Start Today.",
-      "title_ko": "구글 주가 부진 지속, 오늘 반등을 기대할 수 있는 2가지 이유",
-      "url": "https://www.barrons.com/articles/google-stock-slump-comeback-7f4b0b35?mod=RTA",
-      "ts": 1795090642
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Regeneron, Alnylam win FDA nod for myasthenia gravis therapy",
-      "title_ko": "Regeneron, Alnylam, 중증 근무력증 치료제 FDA 승인 획득",
-      "url": "https://seekingalpha.com/news/4674628-regeneron-alnylam-myasthenia-gravis-drug-approved?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795090699
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Nvidia Quant rating cut to Hold from Strong Buy as momentum weakens",
@@ -11504,6 +11483,27 @@
       "title_ko": "Mast는 Nvidia China 수출 통제 라이센스 세부 정보를 공개합니다. 엔비디아 $AMD",
       "url": "https://www.financialjuice.com/News/9860509/Mast-moves-to-disclose-Nvidia-China-export-control-license-details-NVDA-AMD.aspx?xy=rss",
       "ts": 1795116549
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "NYMEX WTI crude futures settle at $83.21 a barrel, down 5 cents, 0.06%",
+      "title_ko": "NYMEX WTI 원유 선물 0.06% 하락한 배럴당 83.21달러 마감",
+      "url": "https://www.financialjuice.com/News/9860513/NYMEX-WTI-crude-futures-settle-at-8321-a-barrel-down-5-cents-006.aspx?xy=rss",
+      "ts": 1795116702
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Global-E Online Analysts Cut Their Forecasts Following Q3 Earnings",
+      "title_ko": "Global-E 온라인 분석가들은 3분기 실적에 따라 예측을 하향 조정",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/63452886/global-e-online-analysts-cut-their-forecasts-following-q3-earnings",
+      "ts": 1795116763
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Honeywell and GE Aerospace cited in House China Panel report. $GE",
+      "title_ko": "House China 패널 보고서에서 Honeywell과 GE Aerospace가 인용되었습니다. $GE",
+      "url": "https://www.financialjuice.com/News/9860528/Honeywell-and-GE-Aerospace-cited-in-House-China-Panel-report-GE.aspx?xy=rss",
+      "ts": 1795116767
     }
   ]
 }
