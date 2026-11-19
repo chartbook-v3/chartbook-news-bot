@@ -1,30 +1,6 @@
 {
-  "updated_at": 1795056578,
+  "updated_at": 1795056744,
   "id_hashes": [
-    "1ea02b7c88f65457128a9e54c8a2a8f0308779f5a23ccaec917247a9994a8e0a",
-    "bae64f92219248cfb7672e2b99eef123194da21e8b2b5c4e2e21cfd6896221c0",
-    "fbe9f9907608427bdca52b5047c0d86797c5cf6057d783c654a08f68276d4112",
-    "137f528ba489b055f95f5fce2d81135c9b4e5029b1fc66a61bec11803deed646",
-    "e395374f65d91769280004d01deb89fda712d8b84c51b49872179b33fefd67bf",
-    "9815b14993c5a60f778bee02c213b5a76716461405648ca053785a5158252290",
-    "ffbba872ee4eb626077fa7b5d80285a5453058b5e3fb21b605ee957f60d4b2c3",
-    "7cdb0684a08cdeb2fe7ea26fd857278eb1a6e4a922e12f131fe9169d2b28c6e4",
-    "c8ea35b91122ffe4bd3b5a6a9469fda7dd0b968dd339ed564570532b3cb60207",
-    "0c26503fceaa07bc5d2a015be326fa0d468d8c624007725c496e32395d471155",
-    "3f7d2b8fb4c5d9fdef12a2ae3bc831d01b9b38328437fdf77a261bb5d7e3b986",
-    "6b0b4da88ed3a5e8cb9cee85cd408d5daefb04f8101bd5ad358d71ed50f0a0ae",
-    "5d623624c8c1a5ce79dc06def9dd8e85de3296f2b2d7ee8768b03709735e5737",
-    "6c0fe9398ccfe257cd6ed1fdd65110b4aec10f8cf9da2798c48aed442acf23ab",
-    "365a88e6b822a398edb0f6f0247b62c42c9df38087807a812125a0c60a10d612",
-    "5f80e618eb0ea728477deda836f7de21cf648b60a7516782b9966f01fa28ddf7",
-    "0388835f16141aeed45cee62e34dfdc515541204b665942ec340dcadd12c7f5f",
-    "f0ad2da549aa6330ae35700b69635eda0e4e2c99d242a0d398111fe965215722",
-    "315e4bcc87971cfb7bb647eab895b45ae95f7696db2d14b90668c87dfdce8461",
-    "ad6012cdd60ec881a882c2d47196c65658b13101d39df9b5d3e2048e5bae370b",
-    "8f7449800fb4323893127594432683a39298ab869bc3a6f18818c048d207966d",
-    "411e6099e320b9ce1370570a1c8a4f1b363010dc2b9a7df8d0cb599417812d4e",
-    "425cbb409f5ab26bcee5fbad6fa30dc8bad1aba5b3f392b5260195d5471308ed",
-    "eb3cda4f6de0d258d65b11c7cd9bf833cba0ba75493fd593b610d6854808689d",
     "482b69edb61edcf14580d3e77f5e5884d1415d8e032671469543df446ae35024",
     "cf01d2dbce85df7e7f33e2efa74105b67b8c86dc27d2de33de89a549ed93bece",
     "06853d5e09f0ea6863c267862e9a292583da0f3bd465c3a31ce37190f51fa878",
@@ -4000,20 +3976,33 @@
     "fa2f69ebda430df7718a20bc25c1da56970de9b8c3106d8d1fbc8751f1ed0ebd",
     "b393f96e6bc194a70dd13cf1e83b2220dfcef0179298c8004ff7f29126657804",
     "566f4ae827b1cf0f5b8ee3bbe7c1645e30472c70623099a5149c2843f7ad7ae7",
-    "55d4fa51334cb9ccd8fb38c2e3edf7a2cfa262147997e04bbe624341fa4f365c"
+    "55d4fa51334cb9ccd8fb38c2e3edf7a2cfa262147997e04bbe624341fa4f365c",
+    "5445f725192fec8a9a5dcbb59cf2d725fc99f35916e7629ebdc25bbd0510037b",
+    "92d011585cf27e0fa94dc2a838b9c722c06140ec143ad6990e582dd267af89f3",
+    "fbce6ad2fcbfa84742078e5de6a16b8a93f0d4b01e9d6056eca44df948e877e7",
+    "7e477eff19f69c8ea622547008d331f1b3475aadb6db072a5aa0fe4fbfceadf0",
+    "ec418fbb1bbd538f2d33c472ff853b4007749160d51a5b48bf2cda31030fe2ab",
+    "8da6be856ea93100e786c00672fd0317dde300dbd748552e8c76894d9b24a914",
+    "c3ed67f0665dfc020c718ed55930a604d3f1495d0cd1d736c586ad3ac86717c3",
+    "d9ef94eeaa3c701888bf6c76d297b92e9bb525e19c6f584f9fbb5b195581d85b",
+    "e8bcae2a544766dbc607142547352c40d7a380f8a5fc959fdf38babc0487acef",
+    "4a37c03ec2aacb8e5ac2e5d54f05be4ea53d88a070a3e9489df51d985dcffcf9",
+    "81b8892656934e4699c98389677c5b5df79a8ec4a160c5edd918f270458e63e2",
+    "64bcd575bd0769e4bcd1c40c31bd75f42887528c879055e64d24b31254531d1c",
+    "780aa3abcb3ff9d2ced974489aef62d6c9d670a89877d5d4aa3c4bb25422e9af",
+    "8fa524e5f1f47010f50531d4db17acf81df1a7d2fbaa51885e01848d0bb7a56a",
+    "1dd34ff2704fdc951f7d55db2e021fbfe00b62fe8951841eb4828bc5a6a5bd0f",
+    "df46ce849628518d14b74d68703809cdb33dbd917055c0e78f055a5b23cd6062",
+    "f1f7f5549b1614d15f0502bf257a5498e595938720a005ba94d6b1d10bc8c1dd",
+    "872f7325e53c9d5fc3f559f38a0a70acdae289da8e0bd8a7ba6fc7d29272cfb8",
+    "c1e5c1df90a9de8130462b646bc3a78e5d182a88b1153db9992e5b7ef17f05e9",
+    "e3bcb1eed886987e7924bd1c7bacc2b532bc4c0531439a626493454e70110d9a",
+    "c6884efa123f3eeb29196e442e5ce3f516553e9954926ff926bcf34f543c9884",
+    "5b9c65caeb9a61eb3239a58f9ae3539cbe7e8f04e271ab2d3e52701e441f2a7f",
+    "ee0a9f08157e53e2c9b19be926827bcf7c87868a9d079677d4a35d4b7bd2b7a1",
+    "f1263d4c8e415c45074bc525206146d5296b038836f57617984f141b4c0b432a"
   ],
   "title_hashes": [
-    "4f54c6f57149195aa269205a5ea2eec7a49205f5391b27d539681d6d8db5a8dd",
-    "2e0e0ca55d47e17ca632d808c3a2b062b119833b1422e76abdc75210c36114c1",
-    "21fad75b43ad1f25be46ecfe666498fe791e9711d16ef77a69c14d949264f0ee",
-    "bb784f371c976c9b6a483526b93eaf77ea7b002647b0881ad3cd9c3e840cf3c5",
-    "7041fde30cfd79ae3970b7d5aad3a958b28a358f0c2c0f2ad0f7a4cfcb2e689c",
-    "9395e976b3a7ce42fcb755b8bf2fee09d808fe564c62b64304654a4b634e6b0d",
-    "bcdd822cc027e1c59f7d736bfac50864ae38d16ce0d1ad8eb14f9b6a1e9b5151",
-    "e64bad17e53b34eda78fa2db4681f1d57002e1ceb10fdde7256c52a39af03830",
-    "6b0b12772d08c15eff4d485ac85154f6516dfd008645973cc6c2a9d24134cbb9",
-    "cb21e20dce9e6e2a8088e8aa088ecff60ca90475dacace4177acea959668322f",
-    "00e85b46dfbaf98ba0b4efab9d5eb52f0741d8d9679a0b82e4bf729dd92c749d",
     "ea95be1cc617131fc86edda641de8fb9ebd9f870f95ed15e7cb1b307e79a6e92",
     "50c3383f2b6c95ca78db9737cf8c7c08e4e7273c3fa1f433daaa600d757dd7f4",
     "dfc5d11114cd20f683b3b550e3ce40e76ebe28b47bda26e9b83b03a959ce9f38",
@@ -8002,37 +7991,20 @@
     "34a7e30ed93fff8a07f4564db49c459ac5d63e721179802a7388c65b98944c99",
     "5bf03526f84a4005cb99d0d0af9cfc4cc5154385f2cbc02de6847bc838b1f53a",
     "d35426d62b4801d2c0bd4d519c2d93611b65cbbdf695331c66215d347195d50e",
-    "b770ed85837833e02ba9a2d6f7eab9bd81c0605a3d3437041cbb3a823f53e496"
+    "b770ed85837833e02ba9a2d6f7eab9bd81c0605a3d3437041cbb3a823f53e496",
+    "5114a2bbf2c6779acebb63a14ee01cef901d78e87c1c33432a31fff491ca1f2c",
+    "918b9091460a54894a03f6bb861ba8d65d6fa14765423d1db3087a987c3fd4f4",
+    "030a97aea7fa11f2284135a84d9919e402472c9437b2e0adaca6a37708276b1d",
+    "8e70f26052380e4108a5293643e4ef611d5ee782c6f54ee7d5c6f4544f7c2067",
+    "25f4be4c9f238fbca8d42f252421ae1c9e21c1233d48093f39df999f81c8fd66",
+    "dc5a2e852944580d401d1630929354ee0f71e3bfd309e54e0a6d5b72aca55162",
+    "306d8a8e32090b9c5a75846b45b11c293375633e70919888ebd2eadbcd93a165",
+    "9391925503c75242d0f30447fa2c89adb3264dee5ab56dff1afd999edf7f81d8",
+    "85b59599bf85f1ab83dc3f88d5c5154843ae5c77e7c60ae97773c20e1d557220",
+    "a8f3ea47781f9f17ae7e86645945c6443c167fb8bfe96de017118416440aa140",
+    "1fe130c7ebcc346d0abd7a9b8821c701e3c155b71b7d11d81bc5c3f91b4b7583"
   ],
   "recent_sent_articles": [
-    {
-      "source": "The Verge",
-      "title_en": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
-      "title_ko": "엔비디아의 다음 단계는 무엇입니까? 믿을 수 없을 만큼 수익성이 좋은 보트를 흔들지 않는 것은 무엇이든",
-      "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
-      "ts": 1795030317
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "WTI 12月原油期货收报83.26美元/桶。\n\nNYMEX 12月天然气期货收报3.3720美元/百万英热单位。\n\nNYMEX 12月汽油期货收报2.4819美元/加仑，NYMEX 12月取暖油期货收报3.9723美元...",
-      "title_ko": "WTI 12월 원유 선물 83.26달러 마감... NYMEX 천연가스·휘발유·난방유 일제 마감",
-      "url": "https://wallstreetcn.com/livenews/3202135",
-      "ts": 1795030320
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "UniFirst/Cintas deal spread narrows on report companies optimistic for FTC approval",
-      "title_ko": "UniFirst/Cintas 거래 스프레드는 FTC 승인에 대해 낙관적인 보고 회사에서 축소됨",
-      "url": "https://seekingalpha.com/news/4674362-unifirstcintas-deal-spread-narrows-on-report-companies-optimistic-for-ftc-approval?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795030379
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "US CRUDE OIL FUTURES SETTLE AT $83.26 A BARREL, DOWN $2.75 OR 3.20%",
-      "title_ko": "미국 원유 선물은 $2.75 또는 3.20% 하락한 배럴당 $83.26에 결제됩니다",
-      "url": "https://t.me/firstsquaw/193935",
-      "ts": 1795030383
-    },
     {
       "source": "FinancialJuice",
       "title_en": "RBNZ's Breman: Inflation expectations remain stable",
@@ -11504,6 +11476,34 @@
       "title_ko": "EU 의회, 에너지 수입업체 메탄 모니터링 및 보고 기한 연장 합의",
       "url": "https://t.me/firstsquaw/194082",
       "ts": 1795056515
+    },
+    {
+      "source": "매일경제",
+      "title_en": "“엔비디아 기판 공급 늘린다”…삼성전기 ‘전례 없는 호황’ [오늘, 이 종목]",
+      "title_ko": "“엔비디아 기판 공급 늘린다”…삼성전기 ‘전례 없는 호황’ [오늘, 이 종목]",
+      "url": "https://www.mk.co.kr/news/economy/12213465",
+      "ts": 1795056732
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Putin: Says Russia Plays a Role in Ensuring Regional Energy Security and Remains a Reliable Partner",
+      "title_ko": "푸틴 \"러시아, 지역 에너지 안보 핵심 역할 수행 및 신뢰할 수 있는 파트너 유지\"",
+      "url": "https://t.me/firstsquaw/194085",
+      "ts": 1795056735
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Saudi Civil Defense Issues Safety Alert Over Potential Threat in Wadi Al-Dawasir Governorate.",
+      "title_ko": "사우디 민방위대, 와디 알-다와시르 지역 잠재적 위협에 안전 경보 발령",
+      "url": "https://t.me/firstsquaw/194086",
+      "ts": 1795056739
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Putin: invites all regional partners to use Russia's transport network, some already utilizing it",
+      "title_ko": "푸틴 \"러시아 교통망, 모든 지역 파트너에 개방…일부 이미 활용 중\"",
+      "url": "https://www.financialjuice.com/News/9859126/Putin-invites-all-regional-partners-to-use-Russias-transport-network-some-already-utilizing-it.aspx?xy=rss",
+      "ts": 1795056743
     }
   ]
 }
