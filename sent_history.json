@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795127822,
+  "updated_at": 1795127970,
   "id_hashes": [
-    "4c9b83e3f05ea8ea7d7612ba67c59716980b796a7db3611746c0ba508d210b28",
-    "981a23794b7b83570753c154628b9b6d5226e71d42b145f663716439326fc472",
-    "c0ba73da00532e65d137e18ee793e55d9d172f2498524b75c4a1fad38f9e49ad",
     "90b1d70b191d4ba3e3075350179cc22b66d630a82af1d7dbcf7765c8b6becb9f",
     "039bf122d144ec1c36799c4f7c12b45ab12b5403d6e89d41a719aea5aba30ab5",
     "f03118c80e57f40905f9605bd23bfcc3786f4e0f8d7b9196048f2af9a59e442a",
@@ -4000,13 +3997,12 @@
     "23c53c61ddf7289b1a508e63e70bf8cc35f09402b5a194d686c0fc7a187a2118",
     "717c444db1f9b1091a6c76dcee1df3c2ad61036c023e1f48bec1b365e27d346d",
     "2cbcafb28ab9d3e80fb678142be76ac39f8933f6416fb9d1e22cab90080ec9b2",
-    "7fd029d157e582d364714dacc55e84eec0fd9ce09721766e71b3a9b53c05dd09"
+    "7fd029d157e582d364714dacc55e84eec0fd9ce09721766e71b3a9b53c05dd09",
+    "93a9f140c8c5517246725de3a162098364952456cc591efde21b901548ce44b6",
+    "e7b5e10817844a217a1ac30514ad1cc1ee68b7c6f3cce4c58e1739bd6073f2a2",
+    "0123125ae20b5455889dfca5e9716ebd19335a3ba3fd1f9834b18e11b8aa3d88"
   ],
   "title_hashes": [
-    "f762e80ef98f06e58ca0f670994a28f4c9e7290648929acf726ab6cc19dad344",
-    "680d763a87f831e8696b4223f9244b8549f7a734598a5056f5179c7af31bb2fd",
-    "e948854974286dcaf1395a7abb364830af4a4454c1f60afe888bda6870dd4f20",
-    "6c37471e5fcdf72896a7864194c74dca3aa212bb80586dc10bc65e06e70d7fbe",
     "6b7f88031987559682a923ae9949c2938b25743a3820e519fd059f2d75ef8f73",
     "cf6fc17ce3ba877e0b874a16ecdfc081e7fc60346420f6b00337581ccf6e6da1",
     "ae1aa8f98d493cbca65d1181e4f2b7c3c546e9fdc2e488b305cce70df4b5e5db",
@@ -8002,23 +7998,13 @@
     "4cced2b343548f53ec6c2eaaa2798ed3a0a901d50b85ec579f3d800532351f22",
     "ea6e2c46e54b6e5aa72151b981d51cd2330264580e871d74a45fde055ec960ce",
     "58e90213d5ef4666b54dc27b2db98cef6e131bc33559e7f5955d5a4a17d1bf07",
-    "7566faccd45cf0ddd0752800590fc22fa90229b92f0b8432231a905b506b25fd"
+    "7566faccd45cf0ddd0752800590fc22fa90229b92f0b8432231a905b506b25fd",
+    "8f281fb7f74638644b70b43624b68039f645f7668d3415f8377130a1bf690d6f",
+    "76bfe2aeb41681b6a672fea564134f1b1a68c097ba51d08cb2cd0957a82f36d4",
+    "0bd15afd7a687a4e89e475962c7d3e28258f3947d5664f22b459ec36ac442c95",
+    "e0c850202b8272ad715cfdc16ea14c35e5aac608dde56d312e5468784e8801f6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "CNBC",
-      "title_en": "Outlook 2027: CLSA sees correction coming, but says bull market remains intact",
-      "title_ko": "CLSA \"2027년 전망: 증시 조정 예상되나 강세장 기조는 여전히 유효\"",
-      "url": "https://www.cnbc.com/2026/11/19/outlook-2027-clsa-sees-correction-coming-but-says-bull-market-remains-intact.html",
-      "ts": 1795100218
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "US LEADING INDEX (M/M) OCT: -0.3% (EST 0.0%; PREV 0.0%)",
-      "title_ko": "미국 주요 지수(M/M) 10월: -0.3%(EST 0.0%; PREV 0.0%)",
-      "url": "https://t.me/marketfeed/1081721",
-      "ts": 1795100529
-    },
     {
       "source": "MarketFeed",
       "title_en": "U.S. OCT LEADING ECONOMIC INDICATORS -0.3%, (CONSENSUS UNCHANGED)",
@@ -11504,6 +11490,20 @@
       "title_ko": "인류처럼 거래하고 싶다면 인류처럼 보이는 것이 낫다고 구매자는 말합니다",
       "url": "https://www.bloomberg.com/news/videos/2026-11-19/nothing-is-going-to-stop-ai-trade-lise-buyer-video",
       "ts": 1795127821
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: 🇺🇸 CALIFORNIA LAUNCHES INVESTIGATION INTO NVIDIA $NVDA FOR POTENTIALLY MISLEADING INVESTORS.",
+      "title_ko": "캘리포니아주, 엔비디아 투자자 기만 혐의 조사 착수",
+      "url": "https://t.me/marketfeed/1082114",
+      "ts": 1795127908
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "锂企“试水”金属锂，加码固态电池材料",
+      "title_ko": "리튬 기업들, 금속 리튬 시장 진출…전고체 배터리 소재 사업 확대",
+      "url": "https://wallstreetcn.com/livenews/3202844",
+      "ts": 1795127912
     }
   ]
 }
