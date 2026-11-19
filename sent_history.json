@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795106683,
+  "updated_at": 1795106839,
   "id_hashes": [
-    "869d49498c1eeb58d534b20650ab1cc228da32a92d87bdf5a93b65dc9b0c23ca",
-    "80a31460e12c8630ab55d69f309bd6eb4a3a57441d380937dc0f7b90c7e369e7",
-    "8beee07b9caada2c11241029988eabacd6475f92f2928f17fbdccb8d964ad48f",
-    "c657899c9d2240c605a30af02d4cc051834d1c4ad29cf2421263d1be27d998de",
-    "007bf169ed2ecec4e761c41c2bd8a74590c3d09e637ec06e000bb0f66782c54a",
-    "a5c0b2fa323ac7fed9829e62180567756ff8eaaa3fff34b7e7823412a19a8c91",
-    "d85e97bcf4d42d8ed6e75f9f64ea9196f5d7d4e311fdd70492e0811a28b20c41",
     "0ce67efbeb5173aa349271b5d716cde81d131b9dc12fb457583196902378c0bd",
     "4f3e2be79a84dfbbfb852ba384319547adb4feda10054cdbeef2c79bff140273",
     "cadb29d8326426c8db7855a1d57c5a1b3803c46332131d0e6d54ebcf9322c08a",
@@ -4000,15 +3993,16 @@
     "d6d8a3df96860720a1fe325c35c87fd5f24fa3dc9e2e65cbcb927dc5a0fe3630",
     "791c7dec2ea22dc7bbb6e6afda482059070bfd9b19edb8a9dee934acc601a372",
     "5e6a07a29dfcd32acc593586e1272913a1c0c0cc578a17d07f5299f4ba5a4870",
-    "5de038c106ef8b2ad8f06ac5a5eb10e61c05e619b4b2175a6ec0cdd6b2d57dd7"
+    "5de038c106ef8b2ad8f06ac5a5eb10e61c05e619b4b2175a6ec0cdd6b2d57dd7",
+    "99991997a452482f02170d9e1315bcd53ba56a647a456434ce0b3e3434416b48",
+    "0651e20d75307115a161c7f25cdca2551566e17e165a542cb708edb1ba9bc294",
+    "3f9167c890c882e26fd8a3bd794b43de24e775fcc6ba879d1499f881789975e4",
+    "ffe80baf5806087ae969edb7fc55cf9ed1f1fa519702a014336e41bed0e429e3",
+    "f149624f4f8195f54e0ca15c612ad3abee5d4c1bb557019bb52aa5a512fffcd0",
+    "1d5cf16f68731b92d1200d8a88e6686e18830913b688cf2a209083128e204533",
+    "96f7bac44b9a4e921a00bd3dc636a2e0bdc08ca048ce9d229ba155091dc9f474"
   ],
   "title_hashes": [
-    "c79e498b05f83cf50d9708a2c5c6128273b1a2c9565d95f8625e6d42a3b92194",
-    "4e0f8d6ee2cb2ec6e9da667ce61ebee0bbf8133ac24319fbafc0adcfc62ed6b1",
-    "3175f27d8fc2394457e9810fe015a0815b20499cb0a454de8e1703d91bf774d2",
-    "2781be019c639302b169d0e7acdcaa84c821964debb1a1e56e90a8d1ba6ed15c",
-    "0cd0d272206392de0015a08e08f75a4545f78013ffc6a80624c73bd509c1ace2",
-    "dbefac0bb9cd749aca93181d8919342a5d14cb5ce3c6ef9b2c2e2b4da886724c",
     "5e1fcbf0eb28c761afbfe9d358c7e72c3a0338a2f5750b50648a6092fadcf929",
     "ba259c27cd61992563787e4d0a3b644fb3010b0c33d615e39eaf21e947a9f522",
     "550a50ab98c5e609da14cec3b9131e66837743b1419a38788d6f0dd924a1b2a0",
@@ -8002,30 +7996,15 @@
     "163e3599d81fc59837216f160b0548a1ee3346f5892de06a1d3a536bdd18d4af",
     "38196d5fa64590167af185ff2fb2f120884926c27cc49f5e4e55cf73c215d378",
     "874fe7355906867c7d593c1a9d31deb8e441eea27ab5095fbcbd2dd140ac7e7e",
-    "82d2940b3f839cc5486bc175463bbf98c7cbb14666de12de799320d12bc5b1f8"
+    "82d2940b3f839cc5486bc175463bbf98c7cbb14666de12de799320d12bc5b1f8",
+    "d6cbf1e60cb43362a9b3f6f9b2900f7dc8884e1bdf41e6ee5cf893fbe6e1bc70",
+    "5af72d94b5bdd949a857fc7cf3515cc29b61f013252b6501c2fb57936920d1bc",
+    "fc843ac2c77cf9325033801fa6a1d7b3bc1dc5ce739a449b82db71fa12163acd",
+    "cb17681d81ebd77580140aa1b68b7573638438833b8685037a29108cab60d0ad",
+    "fdc892a708724a26d1ed75e71a4448e752212bd80536c86e9dd1fc95e0cfe48d",
+    "36e209623653f3373ca850aa4cf2e75944e6ecbfc6a2abb80a07b8f798b55a86"
   ],
   "recent_sent_articles": [
-    {
-      "source": "한국경제",
-      "title_en": "삼성전자 '투톱' 유지…메모리 대거 승진 전망",
-      "title_ko": "삼성전자 '투톱' 유지…메모리 대거 승진 전망",
-      "url": "https://www.hankyung.com/article/2026111982761",
-      "ts": 1795080208
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "코웨이만 웃었다… 렌털가전 3분기 실적 '희비'",
-      "title_ko": "코웨이만 웃었다… 렌털가전 3분기 실적 '희비'",
-      "url": "https://www.fnnews.com/news/202611191820508264",
-      "ts": 1795080210
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "포레나 앞세운 한화건설…올 정비사업 수주 2조5천억 ‘역대급’",
-      "title_ko": "포레나 앞세운 한화건설…올 정비사업 수주 2조5천억 ‘역대급’",
-      "url": "https://www.fnnews.com/news/202611191817579038",
-      "ts": 1795080230
-    },
     {
       "source": "이데일리",
       "title_en": "[속보]중국 CCTV “푸틴, 미중러 3자 정상회담장에 도착”",
@@ -11504,6 +11483,27 @@
       "title_ko": "CHARLES SCHWAB의 2026년 현대 자산 조사에 따르면 암호화폐 투자자의 60%가 향후 12개월 동안 보유 지분을 늘릴 것으로 예상합니다. 이는 ETF 소유자(56%) 또는 주식 소유자(52%)보다 더 높은 지분입니다",
       "url": "https://t.me/marketfeed/1081809",
       "ts": 1795106682
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "WHITE HOUSE SIDELINES DHS SECRETARY MULLIN FROM TECH MELTDOWN RESPONSE, SOURCES SAY -",
+      "title_ko": "백악관, IT 대란 대응에서 멀린 국토안보부 장관 배제 - 소식통",
+      "url": "https://t.me/marketfeed/1081810",
+      "ts": 1795106706
+    },
+    {
+      "source": "경찰연합신문",
+      "title_en": "진주시, ‘방산 대중소기업 네트워킹 교류회’ 개최:경찰연합신문",
+      "title_ko": "진주시, ‘방산 대중소기업 네트워킹 교류회’ 개최:경찰연합신문",
+      "url": "http://www.koreapolicenews.com/sub_read_amp.html?uid=2270194",
+      "ts": 1795106834
+    },
+    {
+      "source": "Wccftech",
+      "title_en": "Hunterbrook Says It’s Not Just NVIDIA, ‘AMD Has A China Problem Of Its Own,’ With AMD Firmware Now Traced To Blacklisted IEIT Servers",
+      "title_ko": "Hunterbrook은 AMD 펌웨어가 블랙리스트에 오른 IEIT 서버로 추적되면서 NVIDIA뿐만 아니라 'AMD에도 중국 문제가 있습니다'라고 말합니다",
+      "url": "https://wccftech.com/hunterbrook-says-its-not-just-nvidia-amd-has-a-china-problem-of-its-own-with-amd-firmware-now-traced-to-blacklisted-ieit-servers/",
+      "ts": 1795106838
     }
   ]
 }
