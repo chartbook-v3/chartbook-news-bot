@@ -1,25 +1,6 @@
 {
-  "updated_at": 1795055194,
+  "updated_at": 1795055343,
   "id_hashes": [
-    "5261100ae5834785289343eb3bfc31059b1fdb3a46b8fdb1127192619fc74a25",
-    "62b109fdc947e4d890e998ac9cbb85b316ee65158640648e42d56032a58d6b32",
-    "a7a692ae0fdad52de7816f98cf7745fa32bf75b7c2440230fe436631f4e94cf3",
-    "4ea46012902133cfe3b6ae4adb5e55b7237c4691616817542b44c34a68270f29",
-    "59ef887928e30ec6e9e59b1dc5e57b781fa9d76a6a8ccae5083506e30b0ad2c1",
-    "722f7c0a6d86f7e512320fac23d6c1550c7ff90fe6f6f9890ac8c2a022941728",
-    "a426717202403016988bd745ded2387aad6bbca2ab2aa66876393226f31463a4",
-    "a64721425914dad8b222c893ae8ee92500019c5ec99859d42b9f5159825ee571",
-    "2045e15f6c3a542e1cdecce8b89eb33ef6c69fd94bc2c5d1876c07ed1b82897e",
-    "5958dac8775cd090023256d1515f5bfd0d17006743de3a5a3c5b050994377b1f",
-    "c58213eea9d6f41aed3272db17efe6b5ac380b1f2a9f37bba99eb09b5a668463",
-    "808d5b5e6cca8363dc05e5d3dfae4db263426c697360deec36e9894b2c8ec973",
-    "adf4ef415c4c8b05c49f7052297e3864bd54f793aff3cee7d3c4893453e63662",
-    "0b5d1bfb2ebd703c17ccecc5d0f791709f6d0797fbc3e8f744edf64c9ece3da1",
-    "6b3e9e46257b0f5702398f256dbab384bee11c6e486ec25b34b791a14a7c0923",
-    "53bf13a035d426bd6b8ef2bb1bf8b4a27228ccb2c5931c2283bc4ee0a3ad35c9",
-    "a683a5d9f55413051be52f0e34e346a0449e1f9e7d5c35b4df1c730cb40a1cc1",
-    "c54128365d84f42bdc19c10d602f2f4b942f71e320a9a82623473af3dc299d2c",
-    "3e329f811c335e880f49380e9f3370d10100ea718eb9700e23950005d666a674",
     "2f16addfdad8016ab7810dfea7ce7c1f14a321e5d9bfd6c7d2dbfd7cd72d38a8",
     "945c052bd7793ce0e235afdbf1b0c98dba431b229e2742d670b0322755b3adb2",
     "d40424fbc7abc2cc8c81519406e4e713b8dc7534d17444390afd3434e3f410c3",
@@ -4000,24 +3981,28 @@
     "1c9a95b797265611ca8f7e3c2b21e60a4ec39733b09f0c03c8e46d67714af17d",
     "6c6b85feeb1c0a6b351e9e556518b75eb561ef0b4a8820c1e9cf1852f4a36966",
     "2a6e372d9fca141b9c4789c6e8c976c3e29d6bc2bd86630c6fe0dfec27cf88b8",
-    "db168a1c29a217a24a25ac7405b49702babf9adb048be0eae52698fcfc7a0a9d"
+    "db168a1c29a217a24a25ac7405b49702babf9adb048be0eae52698fcfc7a0a9d",
+    "9011e01e903bd0e9fb907f2b288154457cd26f7620e7d7710490599cdda60ecc",
+    "2646768ae5ab49c1213b74bb03e20e7b08bad50b62e92f351843a618e6b92599",
+    "0b28b6cfcceb15c26c67fc9fea56cd69285c9ae447a0d4657e285a9e7862b118",
+    "1671daae9123cbef2f708824e467e67d3e071ec70245bdf7fde9e48faf6081bb",
+    "0c8cba986d197912647f7066b0913c953357ab2ba9e93ba7cd1cfa7f39a9b6ec",
+    "1b5fa7de46d8d3020134b1cd93f439312010a4519ae1cf0cac6b7d271c2f3267",
+    "aab55e39c571ae2bdf43203a0a42475ee7c5890808cbf461c6edd3cdb96a9c2b",
+    "68174ee1f3ad8fe53a8fdef6092b5c2ef436b0b265fa2371366ae5c756a8ce52",
+    "6b9bcb9ab46aa29ba0784e77804d8c4d129418f4d761270f897375f1b1b7c459",
+    "3ba0318741fbb0a9bf4f23b9e56a8267de7d20936695309ac3e9e2de76019fcb",
+    "53ee37c15a6633b43c0ad51f2a50a76c9a9530eb9c433ecee1bcfce386bf2eb2",
+    "e42473cc52be52d358e193f74ff96534f6599878b8c8551d78c3a6d71342d64e",
+    "552ebf3c1b0b215ef746c6e8afd72f3b389a87d4c62361b539c18510e44adec6",
+    "3812bb945b9a97b23b67d05c509e83a1fbd09fd9a7f382a1787c8cfd4fb31031",
+    "87bea8c36013ec7db2b26b7b21e06d247ef6915be4f5b40528073db99766d9cd",
+    "7bb161262426903bf623e790115b362cbf14d2fd42fef60e0e986fd30bb583f9",
+    "cb85cc55aef4075dfd8109ad2ec7a59ce06f75a3b628f4d93a9dea04e05904ea",
+    "ee97a0f1cf0d7f6d727c53802038531f331f475e27a033eb29c3b1c1143d14bf",
+    "8994fd596c07a7c1f88200401efd2765f028768fd5bfd8d7fc8dad4da32e7c6c"
   ],
   "title_hashes": [
-    "92d56e084ec762f3afd9bc83c24d76a4bff8528db9a99041c73aa3299047fb78",
-    "a612e13d3bc9efeee4bfd08f963115f471fc06561e6a3af393b94943e82fd7be",
-    "9a6d3bc53032825b2c845d482c3cacc8114c9b1f90428bd2c357853e2e79de53",
-    "93370b2a034202c5706a6df290dcf5713382bfcfb75c0cc8ad9de68f6ea8a299",
-    "613412321d2d1e47d6e1f73838387c63da6309613b38e513de8e7845443f1015",
-    "ae55d10b8e988721d47f13a1f45b3c045105e59d5feb51b552d7fc354b0b5bb2",
-    "7aad84171840dd6e5929b797e337b04d5b436284ac2843da0396d782de2bf34d",
-    "b0b1323722da695b0eed6983c1aee196c23d13de676b5dd10cbd818d74383ea0",
-    "3957e2533a35aabd72bd99827205965dbdbe2ab5b92a71e1756e945a789c589c",
-    "177ec1384e6d6e122fd6da93a69650b29e399445ca09344c07288a06cbc399f8",
-    "6263d103bc78d02c3c2c91145ec0768be60f184331c4617bbf88210e8e56ebad",
-    "5758922a3bc5059e89e747e7b04dbe20a71c7bccb621f4347178925e1cff4538",
-    "19eeeed3e98b39bf7639c107b6da4e5516cde6964e220a598a0163e5e437df0f",
-    "1a70366b9d05dff8be2f550f157940be00dc9af180e6e7d16e55fe9eb330b1ed",
-    "763c440333aa86e8e53d907fbae2677a7bdcc9f883543724a3a9fe65498ce323",
     "f102cd60148d1916635d2093c42b0f30352aa4cf186df21d27206e7c97a84169",
     "1b0f11fc031f01e43986768fedc5117e7f6ddc99a484cbb3052e9b0df250f3a6",
     "3ac427c584d5d33043777244fcd5e540b86cc5842ae5077eceeb82e188b7621e",
@@ -8002,37 +7987,24 @@
     "874d7e775f517db9c22d33d25ff476e03c804eacbd351f15b8e7985ad18f3b90",
     "afc3197c19881a73a222cc8339c88bb1903c9b080f91bf7b6edc893a51d9cc50",
     "6d2f6424b0f176ec4a7fc6006155ade745a9caaf1c5ad97fb5e9424139e46f2c",
-    "ff0094d73d80a8d6658436d4a4ecaaacb46857ca101776ae2300e3610604946f"
+    "ff0094d73d80a8d6658436d4a4ecaaacb46857ca101776ae2300e3610604946f",
+    "107e3bbaa9e1d91a5e218aa2d0d9b7dc4faf4cbc8c1b9cc92787eb446ac6aac5",
+    "0de7d0d97fade1bf61cc37e9ecb0f9257800d2f61568cc5bd41de06c8cdb2fd4",
+    "4f80e8a92a7a64d191e8fb654db38d15b9a29eaf0e95cf84a19d942a067dd3c9",
+    "b2d97afb6ed72ad2196219827bf0efbc1068d249b0133709bb4495147ab08487",
+    "d29892e2a480c4d9a42321c0ad1815cef10edbe818f5b89f98fdc6c099681918",
+    "9a7ccf7224a01eb0d0ddebd7283e377b28043f52466a493994c0df730d876eb5",
+    "690d7b27bcfebe8a661016e211414634ec7890e186e25dff1004d01218bdc55b",
+    "fb7d02800924faccc92caf5ba86daafdedf977ca423d69350f930baa762ac8ed",
+    "73b5a0489e70c304d7e030c67b0215afea3c867ca54bd11db19f41005a2ead84",
+    "5c433a5f606e05a68485fe2cb5f3b499e35722a6dc3faff4e6d25edf4b579a11",
+    "ced8124b4c16506e4f253cb7c285225029b8f3dd586602bad1d5b6e76311b8a2",
+    "2465cd08282f0a03ec431a213eb41f1b988d354de1d041d8f9d4978230826392",
+    "0d7d0b386a34ccf4ace10406310f75c9620725eb2d164eee5be3fbcae6193198",
+    "eb75c5ddfe39e781f832fd84279cf3ea64a7fbffb9cd4ac7392b1e19eb7df5e3",
+    "b0eba9bfcf70c8b30544bcb8dda59c3b9b1de560c9913072cb18097182ac3efd"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "Fed: Almost all officials saw further action likely appropriate.",
-      "title_ko": "연준: 거의 모든 관리들이 추가 조치가 적절할 것으로 생각",
-      "url": "https://www.financialjuice.com/News/9858410/Fed-Almost-all-officials-saw-further-action-likely-appropriate.aspx?xy=rss",
-      "ts": 1795028508
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Fed Minutes: Many participants stressed the importance of communicating that the decision not to hike was not a weakening of their commitment to returning inflation to the 2% target in a timely manner",
-      "title_ko": "연준 회의록: 많은 참석자들은 인상하지 않기로 한 결정이 적시에 인플레이션을 2% 목표로 되돌리겠다는 약속이 약화되는 것이 아니라는 점을 전달하는 것이 중요하다고 강조",
-      "url": "https://www.financialjuice.com/News/9858411/Fed-Minutes-Many-participants-stressed-the-importance-of-communicating-that-the-decision-not-to-hike-was-not-a-weakening-of-their-commitment-to-returning-inflation-to-the-2-target-in-a-timely-manner.aspx?xy=rss",
-      "ts": 1795028512
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "[ Z ]: THE FEDERAL RESERVE SAYS THAT A RATE HIKE LARGER THAN 25BPS MAY BE APPROPRIATE IN DECEMBER: FED MINUTES",
-      "title_ko": "[ Z ]: 연방준비은행은 12월에 25BPS보다 큰 금리 인상이 적절할 수 있다고 말합니다: 연방준비은행 분간",
-      "url": "https://t.me/marketfeed/1080899",
-      "ts": 1795028546
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Fed staff inflation forecast was similar to one prepared for September meeting, economic growth outlook a little stronger.",
-      "title_ko": "연준 직원 인플레이션 전망은 9월 회의에서 준비한 것과 유사했으며, 경제 성장 전망은 조금 더 밝았습니다",
-      "url": "https://www.financialjuice.com/News/9858412/Fed-staff-inflation-forecast-was-similar-to-one-prepared-for-September-meeting-economic-growth-outlook-a-little-stronger.aspx?xy=rss",
-      "ts": 1795028549
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Fed Minutes: A few participants who supported no change in rates indicated the decision was a close call",
@@ -11504,6 +11476,34 @@
       "title_ko": "유로화 좁은 박스권 등락, 연준 매파적 발언에 달러화 강세 유지",
       "url": "https://t.me/firstsquaw/194068",
       "ts": 1795055135
+    },
+    {
+      "source": "TrendForce",
+      "title_en": "NVIDIA Highlights Rising GPU Rental Rates: Hopper Up to 2X, B300 Up Over 60%",
+      "title_ko": "엔비디아, GPU 대여료 급등 확인…호퍼 최대 2배·B300 60% 이상 상승",
+      "url": "https://www.trendforce.com/news/2026/11/19/news-nvidia-highlights-rising-gpu-rental-rates-hopper-up-to-2x-b300-up-over-60/",
+      "ts": 1795055219
+    },
+    {
+      "source": "주간현대",
+      "title_en": "한화시스템, 단거리 AESA 레이다 미국 시장 진출 성공···북미 방산 협력 강화",
+      "title_ko": "한화시스템, 단거리 AESA 레이다 미국 시장 진출 성공···북미 방산 협력 강화",
+      "url": "http://hyundaenews.com/107923",
+      "ts": 1795055222
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Thailand’s Anutin Meets Putin to Pursue Energy Supply Deals",
+      "title_ko": "태국 아누틴 부총리, 푸틴과 회담…에너지 공급 협력 논의",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/thailand-s-anutin-meets-putin-to-pursue-energy-supply-deals",
+      "ts": 1795055279
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "러시아 신흥재벌 관련 자금까지… 도이체방크, 17억유로 의심 거래 뒤늦게 발견",
+      "title_ko": "러시아 신흥재벌 관련 자금까지… 도이체방크, 17억유로 의심 거래 뒤늦게 발견",
+      "url": "https://biz.chosun.com/international/international_general/2026/11/19/E6KG35MV3BFIPF4VOCQ43BYK3Q/",
+      "ts": 1795055281
     }
   ]
 }
