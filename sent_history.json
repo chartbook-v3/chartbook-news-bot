@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795074337,
+  "updated_at": 1795074491,
   "id_hashes": [
-    "3b8dc07e5df9b9c2c279032575d5daac6551c70c0a9a67c5b94af1baf97a3b79",
-    "60fbe6b5eae7a71b0d66f075c736dc834799946d6b98d991d283891cdb36769a",
-    "9e3196653d7382dcf743f864be29a4e9c74eb7b6daedb9fe8bc2c425197b71ab",
-    "00907ff6389516d66c4b62d3911d326e42ef7a0e34a8123cf912cf57a366ee0f",
-    "fe962720deef667d113ad8cb4293fc5dd4cdfcf56ed0ae2a4dcc7ff9af885ae2",
     "d4631600c0de7fec139ce5936478cfdc4a159cc371a920b1c2b8c1a0efc7ab13",
     "849b75c6e074935feafdc20ed314f94972eb458bc4485d7c89949dae4949083b",
     "3eed2ab97196125ce5bdaf93483cb2b2d126905ce25a10a149b9625a3e298a12",
@@ -4000,14 +3995,14 @@
     "2e043eba635e06e1dde52fc2e7d11a7b3d301535807ea84ad62339ff57d5530e",
     "1454404a1d721f884054d07377f7a419d43be509355224e3072e0f279d728de2",
     "33d12355b4a81976bc68eac726cd28e27d7bc03e4cf3610eff000ab239f5fe3f",
-    "e3557773d9d78cdb13ff72bc146b09fd9cb37407a0f3b74f81a5bbae11a9f643"
+    "e3557773d9d78cdb13ff72bc146b09fd9cb37407a0f3b74f81a5bbae11a9f643",
+    "bfb9773aee173a4ec5084d138b91c94f71784c0925157bc858274307c4c1f19a",
+    "e1d57128aeff00431001b185d9687976220c4bc924b62d557486af072070c48e",
+    "ff6845a1948b791ffa6a5d76369f535845b5130c68667e0b479ea8233631905f",
+    "382c4da062d8d28e54f4c669461fd0aa19d0fd3dc69c121bed211e15396acde6",
+    "780a2a3a191b2ec84fc46c1ff3086943317f6953f178b8a3d9ca88af118bcf8d"
   ],
   "title_hashes": [
-    "0f6f1ce5ea2421e7d57830b69f744eb78ba200d0a0d182f3c67194fb0ae184d9",
-    "3abfa3eaeb47314261d951dbab00a0e41e4def91c4a7278a479dcd85160962dd",
-    "bad468fe1dc66ab7fd43bba83d0da66720cfcb213b3516ca83bfd274e76b43c2",
-    "b8107bc7da75cbd20c6752f09f6bdd66c18921f0d737bbdec0feadc5012da56b",
-    "0effc9393fa699d61b3671caee27dd8cf460b883e961bbedca4ad9a1d84e63b9",
     "34cfcd9d1ee38213ca0156234b2288eaa9f8b3607cc4f8e9a8e972363411660a",
     "c7edf80281a8742f6ba21cead387edf67003217d5bc10fd309b87dc053c7285a",
     "e241d1b8e1d0c54f62ed45d7ccfeb13859d015c4c0f7b695bdc7c07bf8b36ce3",
@@ -8002,16 +7997,14 @@
     "7ab1b2666878d8a239f54c983810e200540b036aa68ae6f7612f4fd7aa16e24c",
     "b2bf39e8dc05ae56a84651de1f375aec355dc5f560823ff2132965c10d668657",
     "e3eb5eefb3d6950575aabe9853c20afade528de5e43b7a277047c9879fc6d8de",
-    "266d6a239f69980ded8fcc9f07dadf51ae2ac335bb63a5a881c033754dce499b"
+    "266d6a239f69980ded8fcc9f07dadf51ae2ac335bb63a5a881c033754dce499b",
+    "8416d32588d2b71b84cb97600ff7f82bc331749209db807b61ba1e7a7102d74c",
+    "24a3cf2d593be3fcc3d17ad87f366415169f5f84b2e200b3a515cc9dd61bbef1",
+    "ea73b92169b71c572121f40be9e436713fc9afa7182c8be84101ef129a9e4392",
+    "9c7aeb63bf8bca894874f5fb80c19abea10087f7e116b42bd6c0a9c5a7d5c36b",
+    "d0befb73db5555886994af6bfd5368587039cba3df7a66886d49d816bb0c4305"
   ],
   "recent_sent_articles": [
-    {
-      "source": "매일경제",
-      "title_en": "한달 만에 27% ‘폭락의 눈물’…CEO 리스크까지 겹친 엔비디아 앞날은",
-      "title_ko": "한달 만에 27% ‘폭락의 눈물’…CEO 리스크까지 겹친 엔비디아 앞날은",
-      "url": "https://stock.mk.co.kr/news/view/1202176",
-      "ts": 1795048541
-    },
     {
       "source": "파이낸셜뉴스",
       "title_en": "파인엠텍, 폴더블 부품업계 '4분기 비수기 공식' 깬다.. 실적 재편 기대",
@@ -11504,6 +11497,13 @@
       "title_ko": "AI Labs는 Google의 Gemini AI를 활용하여 시장 분석을 Chatbot에 도입",
       "url": "https://www.streetinsider.com/Globe+Newswire/AI+Labs+leverages+Googles+Gemini+AI+to+bring+market+analysis+into+its+Chatbot/27371947.html",
       "ts": 1795074336
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "한화오션, 초대형 원유운반선 3642억 수주",
+      "title_ko": "한화오션, 초대형 원유운반선 3642억 수주",
+      "url": "https://www.fnnews.com/news/202611191623596898",
+      "ts": 1795074490
     }
   ]
 }
