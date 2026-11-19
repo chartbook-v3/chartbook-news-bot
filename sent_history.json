@@ -1,26 +1,6 @@
 {
-  "updated_at": 1795049371,
+  "updated_at": 1795049540,
   "id_hashes": [
-    "95c89b8c1093d8ca16e62c6e13c9b4f83662bd78efe94f0d902e207e3e793845",
-    "bad4d1b321a13a304d6aa0fec1dd503cc1c672798b458212bedf9c844203ff42",
-    "31c27541b4e64ab65b4d64cc49ba8b9abbdc5d588e229d05c254e7d3546fea77",
-    "cb3e484feb6f7633f5b3d47dc412b8bec738eb01db875f27156887cfdd80001a",
-    "b7f4b3ced5d78a71437d1be29360f540bdeb211e18ae01fddad1d5dd5b136400",
-    "9770fd7e4734b42e2964c1f15cdaa669918c7392a6dbe1cfad1581e37b3a1db7",
-    "47c9c602b82903071ddea552eb311e706f21649a3deeef2bdce9dc5e28301841",
-    "f82ec68a92abe892cf283970a470f0685bba5a3f4e7e519b0b19d0eff0d5829d",
-    "44a09ef40cc3c828d32ca44ca3e1d502c07feebcd5c39a7d0a3346c27c491b1a",
-    "c5aeee37e820e83715859838317c2c7eaf2316cd231078894d22a2a639047336",
-    "03b9cab70f3e0c319fc445c96fafc10ea5cc0da976daf5e2937ed71b449c0f0d",
-    "fef8693307e29520702a150591f53d53a60a0a10872b635941624372fb0b975e",
-    "b602acf9faba51073d2acf80f8ad971e9133465083340b19c6a362728ee14f4a",
-    "f43f1ff7ade7464b378171132a20e284b12bcbfeabc436485b4d4dc2d4cd8e26",
-    "6806db88b4a20ecc73ea9dd93e8e8b5ae75650eff8c7f49dfad9604bf5846982",
-    "a25e69e4b241b1f2d79cdc3ec7f8f40b3df2cad4859b818544b7a33e70edd1a2",
-    "6269f4b7e4d18779527c888858f6ffed87589366ea78a0a550d56ff89b28b6a6",
-    "71c9d2f26d7691ecb4add550a739a819ddd13985c85ee0faeccb24ebaa50d809",
-    "b66bc6c0c2d6702b7c8e0a0d75df8b5b68131121b26abb19bbbf7c6f71ce2cf3",
-    "b8ed5efa3b52a3880f21c67e6842b910c12efad205b00943617ebd0a1f2ea50f",
     "cdc1212f436df008b5af56be1c831b4d0d693f123aa91a1c38682f408c94e941",
     "daf4402ef00dec443a78b1145cd364354721620996d299cb6e07172d22c8ffba",
     "e4ff4a2017c99ddf91d2bc2473b3f5b5a1e527d8f356f4294326c95eb337b4c3",
@@ -4000,25 +3980,29 @@
     "3a9e90009f74a7cc1a5378548e7fe688636f4e3b022f6288f72d86066485a076",
     "20c5c27cfb5b5ea4cb3794f7761833056bfaf476da426200348c70465a812df3",
     "93e4905079c3548392f0b5fc912e716c7054e2036bd159a198bd5410ec4444d5",
-    "639fb33cd2952e2726647d446983eca896cb7c3171fc4243db734afad5e1f380"
+    "639fb33cd2952e2726647d446983eca896cb7c3171fc4243db734afad5e1f380",
+    "403db0f211d7de1a808d48940110918791cc0e075b7205c7646df9b4707ac5b1",
+    "6768bdf7986049a8b216761241800e142db88a51a30adc3584c12d3f831cfa6e",
+    "414001db34ca7f5553e61666adb166d56adaf7a4b245509d7b3b726f46e6c5bd",
+    "e7dd9a2a9dd0774a3ea62d50600d322361124e05300f7a56f792da0797def4b6",
+    "83299fff93e2eeb0d6ca863f74486804c517042dc0362b423bfa354e8ed68c10",
+    "50bbcd6eb1d363ae7297bfa59e286e01298870b0d8b7245437ff807d1be92670",
+    "33436f08fc8e3784f7608bba1eb4423bc03da83ca07a2d995494597d2cffb885",
+    "dc9d40e9670f2ec24480f00ff549b87c4d78d6161af5098c7279e63b0de4d7b3",
+    "64a723b0352e81a56ee8f859280a2884960d37c63f8c6a3c212b1e77506aa8e7",
+    "e20318a5e6a28a48bd03803820f54e1a62b58a9b8ef8c5a76e8c680c9ea0113a",
+    "d5e81b34633b587142556820984a82705ceb0a090a49883464db492b80014e65",
+    "af19efcd129f5c3ca2901c7ea9973e61529f9c5cc231fd477fb368af448b026b",
+    "f0162cd851b5e20ad48f9969df336f9eccf7747ac9d9a22c4f32cc69ff9b5457",
+    "bec7922fa88eba09568d7c1748bf5def1020293b53689676e66d37bf59738f04",
+    "96dd72a7c4a3e9ace50cdd3b1961e92c617a50bfb4d013345fa18186a3d1c19b",
+    "b129b53b25ae14133175302d195ddf39201166aaf8e159defe19d733b26e550a",
+    "195029173c04a955ed443991a98881d92a143152a4f4a2e69a27da32dd8d4222",
+    "6a70f0a2b2df693cb23a4b704566b1c9625a10dad95fcb1e91c0e06149b26d9d",
+    "5139b84f601c4afd686f6ac40bbae5e408d7c2324b23d81e1167fdaf86fa2ae9",
+    "149f32dbcc428b9ae414f282429ad045682ec8bcef43061b8b4247d09b31abee"
   ],
   "title_hashes": [
-    "c23a4ffa5fc879d9dd76cc27db8fdc7595047aa1ab5d67324c52287bf71a5b51",
-    "bfa0e09064eb47a2a3e3f7a39917f6fe9c2482f2b7648d9faab4fae11b247e77",
-    "81da739e70d4646dbb616809e7ffb12137711e5ffcc5a0122e4e60abc3987316",
-    "b3347cff23e43ecc91ae3a49ea218ff53f34daeb7faa1220f759256dea806b44",
-    "bd3ce6bcdb4192586e73ff5e0a0c4f95c3845354f9cba74d8455c545da338bfe",
-    "d82bd10a83bfbbef6a61091371705685a11c37e4690d4bbf2cb12ce19a3d5e8c",
-    "12cc3a12e3dbcd038c11421d1b5d474dd671064182ba2cad1dfe7b8b2831d56c",
-    "7c486cf05cbba9c2214078c71aa4d2f38b9fb343af6a8dbf0b8a2377e4fd3443",
-    "95685af7b8500aa4fa1794bf21f20f277c6055dfee9e3ba8a05c31806909526e",
-    "580d6ace5d2230e600d5ca47de70a7e43e3b2062b91f6ea5780956b931908d35",
-    "284a0c477898c7f48005e3bcb28e17e1aef268526f0463a7aac6cf61dff5bd3b",
-    "02eb38a4a0cd431b82170ad695ff378869e5d9009a30689763c6858be5919889",
-    "b67e3f36a46ee23de897ce715f82c34fde701efce0dc994e7045b7b09e90a99e",
-    "af0dea5a26c913b0cc859b51732a5aecb9ca369cce98c24c38122a668c7bc7ca",
-    "10c08f9d7770aa466dbecbd55b25520323e9621563a13796eafb6be650f4c3cf",
-    "2694d7a1e6f463c5d6634796189988bbc39704c1ec26c279b6b9529edb65e4c6",
     "e0d4c56e495709389a85ae79dc60ec8d6ca5e44fc2f440ae5418a5ade794f1ac",
     "49e0ff2b37a51ada2b7fa99e224dc2c0c9684180d53633b2708ca665aceb8c99",
     "4c6eb1f275efea3fc43516716e99cb140b5ebb1f5a663a9629d901f22506b8f1",
@@ -8002,65 +7986,25 @@
     "c2cd6a86a36d8d981ac77cfd5f62c71f1bd844b728a1967eed637b40edecee2b",
     "b11e79fda728dde49be30d690a6413d91771fc4b3de652ec894c2d5550f269d6",
     "a4c82adc7207152aa9af1d7f6be19884bf0c2e1d5cee5f70eb50e108886a7888",
-    "bbac5bab733a1a4bc92864ad5db4ed5e08bba25f737570df96a2ea16f2ca462f"
+    "bbac5bab733a1a4bc92864ad5db4ed5e08bba25f737570df96a2ea16f2ca462f",
+    "2f4fe7eb79657139087241eaaf1a7b0359097c53185051d84aa141f4a44d14c2",
+    "e98dd7fdf4e43eff772a87f8dc771da5d126a74482576f055438c5d5bc992dfd",
+    "61300221587f020ddb938118418c689a2c78ffecbd8d8a7bba05c2aed86946ab",
+    "2faf3c7333dfc29e90b569413c80ca0c240b308dabcde080f40203975a9a07fa",
+    "9fb11363187cc309e66e98820b7cbd12060b1985e95ca0e8273d90d3e16a7ed0",
+    "c8ac55a0ab8a1bd3596cce2bea017c9655c95470fa3ff986c35aa0210d4b4ba0",
+    "12c8965b8f59c1958c37f00a4625e435aff1574dd9bc7300dd9eaa5b7a3b433f",
+    "d1de3fc38b89ef6a73215a4643d0da98a4f02394654ec8e77880a983d5061845",
+    "559fc7c8db7e8169f9184dee21b3678eca87d1003112a246aabd7f8d6cfeaf52",
+    "96cd92a79a5ffc3361848bbec82b84957580db31fc8b406c4499d13647b5adcf",
+    "af4c6b14ab1b9b4126f87912034f659526264f05adc79d0cb94dd705fe569a76",
+    "139e56859f71bfb76c3fb794ea5cc1709047b5f4b27e8fe53c5361879dc77ead",
+    "33d418d7a7f2ebb0acb494c5c0d8d4dd23861af6a122b5cf8f4b9107a96bf0ee",
+    "5c7a74220185146d179b277ffe59ac9d14aa52e6668c5411d7a807306ff87b18",
+    "bf9b255e70064904adcdf9b20fba24e29021ebdf4e9413105bc8fa131e559bdf",
+    "8b0493b54a3430875f9485c7274340e046737be1f4657fe917170e50fa30d4b4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Fed's Daly: AI could put pressure on other goods and services.",
-      "title_ko": "연방준비은행의 Daly: AI는 다른 상품과 서비스에 압력을 가할 수 있어",
-      "url": "https://t.me/breakingmarketnews/178775",
-      "ts": 1795023330
-    },
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "China's Commerce Ministry: China and the Republic of Korea substantially conclude the 2nd phase of negotiations on a bilateral free trade agreement - Xinhua",
-      "title_ko": "중국 상무부: 한중 자유무역협정 2단계 협상 실질적 타결 - 신화통신",
-      "url": "https://t.me/breakingmarketnews/178763",
-      "ts": 1795023353
-    },
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Microsoft, Intel Collaboration $MSFT $INTC",
-      "title_ko": "마이크로소프트, 인텔 협업 $MSFT $INTC",
-      "url": "https://t.me/breakingmarketnews/178765",
-      "ts": 1795023357
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "RTX TAPS URSA AND AVIO TO DEVELOP TOMAHAWK MOTORS -",
-      "title_ko": "RTX는 TOMAHAWK 모터 개발을 위해 URSA와 AVIO를 활용합니다",
-      "url": "https://t.me/marketfeed/1080828",
-      "ts": 1795023360
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "$NVDA: I BELIEVE THE BOARD IS NOT ACTING IN THE BEST INTEREST OF SHAREHOLDERS NOR IN A MANNER CONSISTENT WITH THEIR FIDUCIARY DUTIES.",
-      "title_ko": "Nvidia: 저는 이사회가 주주들의 최선의 이익을 위해 행동하지 않으며 그들의 수탁 의무에 부합하는 방식으로 행동하지 않는다고 믿습니다",
-      "url": "https://t.me/marketfeed/1080832",
-      "ts": 1795023363
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "JUST IN: BILLIONAIRE BILL ACKMAN SAYS NVIDIA $NVDA BOARD IS ACTING AGAINST SHAREHOLDERS' BEST INTERESTS BY REFUSING TO REINSTATE JENSEN HUANG AS CEO.",
-      "title_ko": "JUST IN: 억만장자 BILL ACKMAN은 NVIDIA Nvidia 이사회가 JENSEN HUANG의 CEO 복귀를 거부함으로써 주주들의 최선의 이익에 반하는 행동을 하고 있다고 전해",
-      "url": "https://t.me/marketfeed/1080835",
-      "ts": 1795023366
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Ackman Accuses Nvidia Board of Governance Failures Over Jensen Huang Exit",
-      "title_ko": "Ackman은 Jensen Huang 퇴출에 대한 Nvidia 거버넌스 이사회의 실패를 비난합니다",
-      "url": "https://www.streetinsider.com/Trader+Talk/Ackman+Accuses+Nvidia+Board+of+Governance+Failures+Over+Jensen+Huang+Exit/27369091.html",
-      "ts": 1795023369
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Fed's Daly: I support continuing with a measured approach to policy.",
-      "title_ko": "연방준비은행의 Daly: 저는 정책에 대해 신중한 접근 방식을 계속 유지하는 것을 지지합니다",
-      "url": "https://www.financialjuice.com/News/9858282/Feds-Daly-I-support-continuing-with-a-measured-approach-to-policy.aspx?xy=rss",
-      "ts": 1795023372
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "加拿大央行：4月情景分析已预示加息",
@@ -11504,6 +11448,62 @@
       "title_ko": "앤스로픽, 역대 최대 규모 IPO 추진 위해 기업가치 눈높이 상향",
       "url": "https://t.me/marketfeed/1081142",
       "ts": 1795049370
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Anthropic Prices at $83 a Share in Record-Sized Offering",
+      "title_ko": "앤스로픽, 역대 최대 규모 유상증자 주당 83달러에 발행가 확정",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-prices-at-83-a-share-in-record-sized-offering-video",
+      "ts": 1795049399
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "美国总统特朗普：希望解决俄乌问题。\n\n不会在没有乌克兰的情况下达成协议。\n\n希望就伊朗达成一项持久性协议。\n\n我们在伊朗所做的事情是正确的事情。\n\n与伊朗签署的谅解备忘录只是延缓了事情，并非错误。（福克斯新闻）",
+      "title_ko": "트럼프 \"러-우 전쟁 조기 종식 희망…우크라이나 배제한 합의 없을 것\"",
+      "url": "https://wallstreetcn.com/livenews/3202263",
+      "ts": 1795049468
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Japanese Government Bonds Edge Higher Amid Mixed Market Developments",
+      "title_ko": "일본 국채 금리, 시장 혼조세 속 소폭 상승",
+      "url": "https://t.me/firstsquaw/194004",
+      "ts": 1795049470
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Nikkei Rises 0.2% As Buying Interest In Chipmakers And Retailers Supports The Index",
+      "title_ko": "닛케이 지수, 반도체 및 유통주 매수세 유입에 0.2% 상승",
+      "url": "https://t.me/firstsquaw/194005",
+      "ts": 1795049474
+    },
+    {
+      "source": "전자신문",
+      "title_en": "셀트리온 '램시마' 亞 3개국서 1위…후속 시밀러 확대",
+      "title_ko": "셀트리온 '램시마' 亞 3개국서 1위…후속 시밀러 확대",
+      "url": "https://www.etnews.com/20261119000069",
+      "ts": 1795049529
+    },
+    {
+      "source": "전기신문",
+      "title_en": "HD현대로보틱스, 국내 첫 1톤급 초대형 로봇 상용화 포문",
+      "title_ko": "HD현대로보틱스, 국내 첫 1톤급 초대형 로봇 상용화 포문",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=374986",
+      "ts": 1795049532
+    },
+    {
+      "source": "9to5Mac",
+      "title_en": "Siri Modular Apple Watch face gains two new styles with watchOS 27.3",
+      "title_ko": "애플, watchOS 10.3 업데이트 통해 시리 모듈형 워치페이스 신규 스타일 2종 추가",
+      "url": "https://9to5mac.com/2026/11/18/siri-modular-apple-watch-face-gains-two-new-styles-with-watchos-27-3/",
+      "ts": 1795049535
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Gold Steadies After Recent Losses, Holding Near Its Lowest Levels In Over A Year",
+      "title_ko": "금값, 최근 하락세 멈추고 1년여 만의 최저치 부근서 보합세",
+      "url": "https://t.me/firstsquaw/194006",
+      "ts": 1795049537
     }
   ]
 }
