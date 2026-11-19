@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795109789,
+  "updated_at": 1795109941,
   "id_hashes": [
-    "c0d89611e892b672e64aac1988cc2b97d0e97df444b6b7190d9a31f0e209e858",
-    "940a7f86e9916e381b3bd8fc5858a0ae7b7727562f9467d3dff727e996a29d78",
-    "6b95bc97f582e57beca41409e60aa8ed23e9386973ae31cf41a6c5f2b803d4d1",
-    "0e9f13716bc03135d64eb7c4a3b33189abd4f8d094e5003560a8eaebca004d5f",
     "c797ee43861501f85b6f8ff999419e0d725eed070913decb35246c550e48c317",
     "bfdf7904f00eaed55ab02aee28dedf3fc8eca59aca1fba1520ef805724180be3",
     "5edcb79f06bddae52fa9a7a208263c5b11c43575d512ba70e71b7fecf1553ef8",
@@ -4000,13 +3996,13 @@
     "d9d8428f1e74b9d61a5517599bfc6420f139293d4b156744c6c7c9f9da5239c7",
     "3f18232bba5a650a6208fc409cea2e99d1f69550133836b6d7c53c2c50f3bcd4",
     "3871798c5c0c95603aa902a68a96081b1324185978acafd96a661505a178dc4b",
-    "ba390084ea32a0348d6deb325c7df7d44a649a1ddb9544e3610915952f4ba5e3"
+    "ba390084ea32a0348d6deb325c7df7d44a649a1ddb9544e3610915952f4ba5e3",
+    "83ef60206844ab803b1ccb5a05c3275dc411e8e4463e495385a60f02b98f4e09",
+    "d29b2d1a9fa10cb1c52ec3a936bd2ad37657baa0f2e4a42d24c2917f0d5fe754",
+    "339978f1d3be7fe2e875e41011d0f4dc90df6e35a18b24c7af235aa5ec06f581",
+    "94ac92b134abbb37bd197605a7f179bd7c045e9bd11653826d68f781255e22e2"
   ],
   "title_hashes": [
-    "9a4503ee6b7f952c75e9464a4a3bdbd294af17279c9f1ca6b1e09c9ca8fc2968",
-    "fc1733b34c6e9b91d7be3d2fa59c68fa556ff3fba0411e28fcbbbe89f706ba2b",
-    "87629ab5439b74fbb7c9aac84858a5b93171a274521945eeb44ee37ded578d75",
-    "8fb687e7bd3fefa1d738e40561e04dfad2cc82266052c0b866554798ad38c7e8",
     "e7b0833e089009f8afc98e19c1c19c8358731624f99e6178859f2b806c6f65b2",
     "c2e0f7e360912ea5c1c91a51e6b7ff619238bbdd8fc666fb828bc433686083d4",
     "b6c7d1b57bd95c48754c4f9580a8c45353f25d4db426e57c7b45a937f2931652",
@@ -8002,16 +7998,13 @@
     "48eeb70499aebd891c08e0cb5e9025ca51327f1abfe2b33c9a3287df0a30895c",
     "f3c2940cecadaec15b8501f79e068a92e3cef35c78a9174eb7c52cd5a2494b59",
     "d24130f202b5588dfa3f528e8a58093860a5f6d5936ef73c561ebf7faa87fc75",
-    "5b54aa69bd1cfd4ade0c8a51adc660d60de10b9db732f9d262e370864005fa03"
+    "5b54aa69bd1cfd4ade0c8a51adc660d60de10b9db732f9d262e370864005fa03",
+    "0ce6d166b8f96a7c5caef187583a26d2d579737b325006c72644cf5615d293b4",
+    "65cc0f485ef4be651b4457a430132dfdbcdde06d01c126ac10e811645cc06651",
+    "a793b5cd1a292bbe62bb06a492ff4588125bd281afb54798911c5034d240ce66",
+    "576db978e48ff078ffe699e9a7f746400db425740aa4921d05a24051c9e3c326"
   ],
   "recent_sent_articles": [
-    {
-      "source": "CNBC",
-      "title_en": "Denmark ratifies Trump security deal over Greenland after months of diplomatic tensions",
-      "title_ko": "덴마크, 수개월 외교 갈등 끝에 그린란드 관련 트럼프 안보 협정 비준",
-      "url": "https://www.cnbc.com/2026/11/19/greenland-denmark-trump-security-military-bases.html",
-      "ts": 1795084818
-    },
     {
       "source": "WSJ",
       "title_en": "Dollar Stays Near 19-Month High, Treasury Yields Rise",
@@ -11504,6 +11497,13 @@
       "title_ko": "Jensen Huang과 Nvidia의 법적 노출 풍선",
       "url": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
       "ts": 1795109641
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Williams-Sonoma Cuts Back on Markdowns to Protect Profits While Revenue Falls Slightly Short",
+      "title_ko": "Williams-Sonoma는 수익이 약간 부족한 동안 이익을 보호하기 위해 가격 인하를 삭감",
+      "url": "https://www.benzinga.com/markets/earnings/26/11/63445668/williams-sonoma-cuts-back-on-markdowns-to-protect-profits-while-revenue-falls-slightly-short",
+      "ts": 1795109940
     }
   ]
 }
