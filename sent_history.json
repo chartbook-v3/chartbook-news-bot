@@ -1,25 +1,6 @@
 {
-  "updated_at": 1795062564,
+  "updated_at": 1795062733,
   "id_hashes": [
-    "dc172e64863c1c44ec833ffef2411eb14052b88e197d2108d3f134720d0e4513",
-    "5569395e71c87e9de042fa9bb63e5583dccde7bfcd1ecfa8f2c3f72c06490ef8",
-    "749f25773d8f73f54d1180b2b6fdeb06614ee0b914aa349fc73311e98ceba321",
-    "b4280eeebfb9dec3011c62f464dc4e94d9fa37c4e0c40989c2eb9355f3481e41",
-    "63334e4537a7260e7fb3fa6879c46334bf2b01483a8648ae187db60ddc977977",
-    "f52f4581579e7cd39ec57b80e095825bc9118556565604f977690110b26b2374",
-    "6767236b01abd47e89e7a1e6bf683226db079927e2b86f9f8878b1213b447de3",
-    "db0fc51add99ae448fd549fda5b8c86854f7cdb65a15d15af23525ea21a368d0",
-    "576b8ef01b8df5629bac5cf571152d74fa2d9d5cb404b4cb4df74bd384ed5796",
-    "bf901259d8518573dd6e7a876aa6d397fde2ed3b6b670241f6b003500fc57a5e",
-    "f1eefe1576206719b050ecd171d65c92c4ef6ab4bd1bdebe69b51dfb6c669e0e",
-    "961f4167f5d42b86fb7f6c8db9c00800b2a036800ad2b0638ead7c318e443c84",
-    "5ec5775f45707deb8c076423842e83cce3db111834312af4fba0890d808d44e8",
-    "e35436e2f4c1a488128e8c5187096a8be7100476e5d5d94227d2773a6cae644b",
-    "7a0eb6ab0e1028658772bac3cbccfa929093c6dac210a0ec7f70afb572da79d9",
-    "96925eaa89cf75ba89403283d8ccae6372cc4de782604ed7b4a6ab1cdc713864",
-    "0f19c077640670a68d9c8835ff2a86a1b2af171b375ce3dcc7199fb6f4ca9793",
-    "d3f2b68893e1dd31e245f72d71aef476fd28ac9724f67743c5cb72e879f9a5e9",
-    "f3b9bdddb1c1993fa2ec90cacfd700addb85309a8fa55e11e124c7e352bc3a37",
     "c5465c4459258aad8d35d37d2069a3f83e8953ce9dfadb139cd60781076830f9",
     "3b407f17e836f478366f4cd65b1dfc7daed14a8c08eafec1d98ed989e7823792",
     "f177e2e2a9283830b15caab9c69ca05c34d8b26a77033f3bdb6e5fb58bba4209",
@@ -4000,19 +3981,28 @@
     "5effeea69a4e2abf71f3c1cc85117c73dd03a783a5c3ab0ff356e6122ee34921",
     "9ae9c85003406f2de572c92b28d291fda5a98dcbe7a1f3f48ea02161b19102dd",
     "758847f86bbec5db03f8d863d05c5dde7b49aa93b9c521c49ebf242c69936a19",
-    "c5d91d5a338f0f48b1436bb3483a6479fe1bb193039522852db056f7df1c7678"
+    "c5d91d5a338f0f48b1436bb3483a6479fe1bb193039522852db056f7df1c7678",
+    "189833fa29d9b9068e814cede9e39260c3a4daa05d0ceec0215330d3aae7ae28",
+    "f2dd4346cf8a3c8e03ba396d5352469b45e3d1ecc068b579b8cfbb51a9f50ca0",
+    "4a45be538f78aca5fbb4b4296603dd8a3568360ae9c0f1eb47734ff7e2ed591a",
+    "b3e185d570d7299606dcbad4b02faf3789b4a1761e2888295ce3fbb3f939d831",
+    "60f506756cb3ab639d169ddeba4260998fcb5094fc55693b88d4cf2eeaf287b5",
+    "6eadcf9f049e3f1abae99e7c0d34c9ac6954555609999ab4fe38764f96be2329",
+    "6829c502519d613c374d9b8e76f4398245285ab90987d4631ce94a75ddb4857e",
+    "421dbe986d742a1443a0585819eabe664306e430751a6cd837fb1b21ce716c6f",
+    "922edaefa8889f5bda2b57970833c20157d8a490a36d1717c4ffe9102dcfab81",
+    "c867e95ba16ee00cca7c5bcea3ebed1a656b0a35e72494c681614d07ab331b17",
+    "bbf24ebc47e6bd45d2bbf7a91b7e95217b343a090065819c8f290d7f77c4b48a",
+    "031d4a6dce9c3e61169ab890b9aff518389317009487f613250ca2f0fcbd7402",
+    "4380c1a5410e2a0b58f6019ccf7866b726f5d795c825dc48bc394ed633623b84",
+    "58b64884697475d0a5a944947a50c04737c73c085ddab10286a045aa4f7ff619",
+    "86219edb89dbcfd603b21f82f9016dc803270a8636b503996d7476b79f5e8b90",
+    "678589121a3cca738667626b501bae5041249e2668d476243aa11d8a727ac586",
+    "743177d0f8f853329df625ac22729cb9a41ad8c7ab1812f61c2c002ec29873e8",
+    "940f4dff2bd6847c5dc974812d35f1489fecd7773324dbe2461b3dbf3af762e1",
+    "4f09be80698a6df09322438ed20f57f67f325e1f947541febb60fb4c5b63394f"
   ],
   "title_hashes": [
-    "077c32bf89aa27da83e13d1e2ef4b6e6c30ee60250f72b3e5774196ab65f532b",
-    "b9694b1f1c2b380865478572c82c1e28fdd17f562957f14631c267ee0e2a693d",
-    "f5ac946db0ded0655b469a70c43e2870afbdf171016a40d69aaf10c71626cf7f",
-    "edb48deedd383eb5e7b8d5cac8843584d757c1580499e2555b7c676c44f6e561",
-    "dc90e9deee4afa752c086472c14ea34916af896ec07fed3c081978ee1d0e9122",
-    "19d50b136b4be90dda3f0e3f91f9b06074fc7e03e11a00f2ddd1134dbf91b745",
-    "baeff60a0d9413a034d22648af9a6360a90478bc3716183bee9516e1e08b7161",
-    "57cb8dcc9176efc5a4136419b5164383960a1995f447319946b9b64dadc78f38",
-    "c92981b99d745d2d49668adb91ff8279e42b70516a84942d51816fbf889f05c1",
-    "7e48778d67c63919f04ea6d910ec9662607f9ab1b6bad085080ccc73ccf8a7f0",
     "cd062e21bf1c67b39e8e7365ee2cf1228ebdfef31d3234e3bff52e2418d77924",
     "bb887f926126118453b1b325d951f20bf6756047a08b67e8872c851608f7efad",
     "a0d679a646f2548123fab36e9ac6717aa894de7c7bce4d4bbac8bdbddccef907",
@@ -8002,37 +7992,19 @@
     "d0d91bda6d3ad925d5f3f7d5d4180e16ac769a8afc31579333a3816efb10aeb5",
     "cbb7bb74d760ed5cce3e95498e931be18a4c667a64f0e8aad37a87033a8eafed",
     "84309b42926212cd11c30c0ac8a735e978d0759c12d933cae0c6f075848f7fb2",
-    "74cea9716366daef55988b23bbe746c74cd3bb9eb7709af927132cc7c9aad3fc"
+    "74cea9716366daef55988b23bbe746c74cd3bb9eb7709af927132cc7c9aad3fc",
+    "26cb65ca8b9c0789371e35ff14c3ddc9929cd96a7d98946dc501223a2ea8e06a",
+    "16dadde772db7dfeab1e94c44bf59da8511b048fa9adcf147269dd8773ff762d",
+    "e54d31e3bd3d8eab193ed6e5367ac13f1895f27f935d06095f58e94bc933cb32",
+    "3d417bcfeadc0b6d5fe859011fd06ef4f9384f6a15d3adf2c386bd3bb26211d9",
+    "e0a0b6b0e4e86501bad328b6ef303a7e8d644e5a3760c0715e0547176dddb711",
+    "ed90a1a51f9768afb1b54fe6eae233d8f6c70a02175199b05f7a823acf1b83ee",
+    "35f300353adde4a6c3b6e387aa223d26b42ecc50dde18f3de291b898139cd0d1",
+    "1bdd04134b1d1161eb8634da17f1a21aa553d87179b5a22991049afcf331c833",
+    "f31ae52d147e4dcc5894e2ce927cd70baa1cddbbc03ea691a539f81827eb8a1f",
+    "82a77255cbb78fc8de389f972c57026e55f3917808068eef12841cdf44c70a8f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Palo Alto Posts Q1 Double Beat, Announces Applied Compute Acquisition",
-      "title_ko": "Palo Alto, Q1 Double Beat 게시, Applied Compute 인수 발표",
-      "url": "https://www.benzinga.com/markets/earnings/26/11/63414200/palo-alto-posts-q1-double-beat-announces-applied-compute-acquisition",
-      "ts": 1795038749
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Everpure Stock Gets a Lift After Q3 Earnings — Here's Why",
-      "title_ko": "Everpure 주식은 3분기 실적 이후 상승세를 보입니다. 그 이유는 다음과 같습니다",
-      "url": "https://www.benzinga.com/markets/earnings/26/11/63414343/everpure-stock-gets-a-lift-after-q3-earnings-heres-why",
-      "ts": 1795038752
-    },
-    {
-      "source": "MarketWatch",
-      "title_en": "What’s next for the AI trade after Nvidia’s blowout results are met with a shrug",
-      "title_ko": "Nvidia의 폭발적인 결과가 어깨를 으쓱한 후 AI 거래의 다음 단계는 무엇입니까?",
-      "url": "https://www.marketwatch.com/bulletins/redirect/go?g=eafdb624-64f5-4c2b-89e2-927ea73ab283&mod=mw_rss_bulletins",
-      "ts": 1795038754
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Tesla Scores Legal Win Against Manitoba in EV Rebate Case",
-      "title_ko": "Tesla, EV 리베이트 소송에서 매니토바를 상대로 법적 승리 획득",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/tesla-tsla-wins-court-order-against-canada-s-manitoba-over-ev-rebate-ban",
-      "ts": 1795038757
-    },
     {
       "source": "파이낸셜뉴스",
       "title_en": "엔비디아 \"우린 할 수 있다\" 전사회의…'포스트 젠슨황' 채비",
@@ -11504,6 +11476,34 @@
       "title_ko": "싱가포르 달러, 연준 매파 기조 강화에 약세 압력 직면 전망",
       "url": "https://t.me/firstsquaw/194107",
       "ts": 1795062562
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "India Startup Sells DeepSeek Access While Pursuing Sovereign AI",
+      "title_ko": "인도 스타트업, 자체 AI 구축 추진 속 딥시크(DeepSeek) API 판매 개시",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/india-startup-sells-deepseek-access-while-pursuing-sovereign-ai",
+      "ts": 1795062651
+    },
+    {
+      "source": "딜사이트",
+      "title_en": "앤트로픽, 109조원 역대 최대 IPO…스페이스X 넘었다",
+      "title_ko": "앤트로픽, 109조원 역대 최대 IPO…스페이스X 넘었다",
+      "url": "https://dealsite.co.kr/articles/173121",
+      "ts": 1795062712
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Trump to Putin: We Have Maintained Great Relations Over Many Years.",
+      "title_ko": "트럼프 \"푸틴과 수년간 훌륭한 관계 유지해와\"",
+      "url": "https://t.me/firstsquaw/194109",
+      "ts": 1795062719
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Trump Expresses Optimism That His Shenzhen Meeting Could Produce Many Positive Results.",
+      "title_ko": "트럼프 \"선전 회담서 많은 긍정적 성과 기대\"",
+      "url": "https://t.me/firstsquaw/194111",
+      "ts": 1795062725
     }
   ]
 }
