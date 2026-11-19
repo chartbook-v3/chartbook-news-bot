@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795113651,
+  "updated_at": 1795113803,
   "id_hashes": [
-    "81bf5e66bed3c169dd34959d1c2ab44a11ef91cfb057234c2ac67f7b5a90e50d",
-    "9a0a908a86049ceb6a75fdbe5bf8105b9856fd4d2c4687c67a1e290ee5335749",
-    "d82394e8b5b8457ade8ee732fcb046436fae9e2248c43837037551186d56dd35",
-    "b15922cd3a29d251cea624a29b34f84808b4740dac940fe1b5b92652cd59d6ad",
-    "41f4539efafd897e2d1a5b5ea8b5c8965001748da01c661ef0dfa53e44e99a0c",
     "da0bc5754db0bd3393591dde2a37607e0f3cefa11665b2b86e26579e0d2fefb0",
     "908da7a536566d9f5cdf3392cfbc98b632c426297336c2d5e75d871b8526d656",
     "88f200826b29fcaedd669530d4d30fc28f1715f952b0ed9474adebd36f83088f",
@@ -4000,14 +3995,14 @@
     "f1c03ffc4031713f0331025adb1203a7987871378166fdd3acfff2a189f6e040",
     "b0616e5bc382d6b4d5f26e57d66a06ee50a9b1e3ce7ae71895e43f53b172ae7f",
     "bd437ff6fe5227f7bcc53c3144f0457874c660b59905d1511b4a8d68067a9d20",
-    "351858bb13ab018d2395138b67e501d11efb13949a7b15f39504e023c6df4fe6"
+    "351858bb13ab018d2395138b67e501d11efb13949a7b15f39504e023c6df4fe6",
+    "fe84fba83f45dcbb29c809c9255613cbc231260c05c549b509ee240eda4bc305",
+    "8c296c951a1dc70f343fcc4b80b164886e3af0bb532e7c010e55159d535e5517",
+    "69ec433885df2da6398a08d10b55440692fb1c973faae007198cdca4b9add329",
+    "4775de5ee043eb6474aebcde7f97b476c20b74377d76b9c85487d1f4ab766356",
+    "79a5c18a463945b937beb1bfa65e53a3d0d653ce8997ca9a14d6d5ec0716269a"
   ],
   "title_hashes": [
-    "b113611ce207edd7531c3013f4d41e29210aa69e175621ead7bf5df193fe8005",
-    "2d3c7592757f9599692d03330248b0ce089236fdfcb9062435fbc75a107c3b5a",
-    "cdcd20eab0dc6c8ca2647f24b3d26d1999e78ffcf93b0287c459ff4d1254db1c",
-    "0da26ddf7b0c19a931e9f4ccadd697e458d89384cc6746d0b33cc5ebf12c15b4",
-    "f8fdd1663c42b4c133236cc0f292e3a522247f73c679fbbc1156489396c64c67",
     "da9a4e1cf9629a6763543f9f4891bde979690a7429592486ff4625d0adbbda27",
     "d37b540aef72a736e185c65193fd98af819796b8db45a56d86a04e3b6494c0e5",
     "d514e21869a55c68c0715225be3191149d7558ee324313f49caaa4609c4eec40",
@@ -8002,30 +7997,14 @@
     "a136d49bd3f080471baa51780aa1019e739861f65aeceb5b260a8932cc279ea3",
     "dfac1cbce7295ca91f351c9edac7227419a0647bcd36b9d5009a9eff54d49cc7",
     "1c4f6af38953dfaaf9471989d14ff539f7d8249b5f2da741354c60e82de309d9",
-    "966a9e8acc7f35d6a20c75dd577ccb84a2225bfa6dd87d743b7b30ebddbe90aa"
+    "966a9e8acc7f35d6a20c75dd577ccb84a2225bfa6dd87d743b7b30ebddbe90aa",
+    "3df4709f4727f0fd9ad65231c1aa89fdadd78a90563fd1fc4b2cd6fc0ac5be75",
+    "9369ea834b16d5de161aed27fbd338ffe0f145a45fd4790340c66fc2b5219b61",
+    "72452d634d7fd0c8abe16eab71e1ae0326d545e7b38cedb48619836d966c304b",
+    "a68473a45a967af2126a702b1539e0bb1da87910d2b62ba16e93bc0ec36183b9",
+    "23e73358c0d7f023ee4b45f093c611c5a1c9d9df0e204ae07fb1a4253ecddde0"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Elon Musk Says SpaceX, Tesla Would Be ‘Better Together,’ But Decision Lies With Shareholders: ‘So Many Ar",
-      "title_ko": "일론 머스크 \"스페이스X-테슬라 합병 시너지 충분, 최종 결정은 주주 몫\"",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63420499/elon-musk-says-spacex-tesla-would-be-better-together-but-decision-lies-with-shareholders-so-many-areas-of-convergence",
-      "ts": 1795087340
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "CHINA-US-RUSSIA TRILATERAL MEETING DISCUSSED UKRAINE, IRAN, KOREAN PENINSULA, NUCLEAR PROLIFERATION -CHINESE STATE MEDIA",
-      "title_ko": "중국 관영 매체 \"중·미·러 3자 회담서 우크라이나·이란·한반도 문제 및 핵 비확산 논의\"",
-      "url": "https://t.me/firstsquaw/194232",
-      "ts": 1795087403
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "US Economy Struggles to Measure AI’s True GDP Impact in Real Time",
-      "title_ko": "미 경제 당국, AI의 실시간 GDP 기여도 측정에 난항",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-19/us-economy-struggles-to-measure-ai-s-true-gdp-impact-in-real-time",
-      "ts": 1795087787
-    },
     {
       "source": "Benzinga",
       "title_en": "Kash Patel Skips House Hearing After Attending Trump’s Mar-a-Lago Gala Offering $50,000 Access to Top Off",
@@ -11504,6 +11483,27 @@
       "title_ko": "인류학 데뷔; 트럼프 중국 방문, 대만과 우크라이나에 주목",
       "url": "https://www.benzinga.com/opinion/26/11/63449642/anthropic-debuts-trumps-china-visit-puts-taiwan-and-ukraine-in-focus",
       "ts": 1795113650
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "RUBIO IS WEIGHING A 2028 RUN MORE SERIOUSLY, ALLIES SAY: CNN",
+      "title_ko": "루비오는 2028년을 더욱 심각하게 생각하고 있다고 동맹국은 말합니다: CNN",
+      "url": "https://t.me/WalterBloomberg/38722",
+      "ts": 1795113735
+    },
+    {
+      "source": "Barron's",
+      "title_en": "How Anthropic Investments Warp Big Tech Bottom Lines",
+      "title_ko": "인류 중심의 투자가 거대 기술 수익을 왜곡하는 방법",
+      "url": "https://www.barrons.com/articles/anthropic-stock-warping-big-tech-books-17525995",
+      "ts": 1795113800
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "GERMANY, FRANCE, UK AND UKRAINE DEMAND WINTER ENERGY CEASEFIRE FROM RUSSIA",
+      "title_ko": "독일, 프랑스, ​​영국, 우크라이나는 러시아로부터 겨울 에너지 중단을 요구합니다",
+      "url": "https://t.me/WalterBloomberg/38723",
+      "ts": 1795113802
     }
   ]
 }
