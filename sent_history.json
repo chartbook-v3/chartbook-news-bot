@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795080997,
+  "updated_at": 1795081163,
   "id_hashes": [
-    "309e3a594ca91a062e921e6242e386c9cb787335b725faf3b5a7460ecc6470b8",
-    "c005388c5442d6b5a52c93e0bac7ef956ee6b63f6dcd135aeac5693c4344667b",
-    "ff638aad9e3ba301f8b586085faa9b00ee2e69ee6b9b4e6907107035e88bc9dd",
-    "463a91143ae22cff887f2945bb2919ac8bc30ed1581a0f2803efd02ecbbf13ab",
-    "70d60b591379885da9f235f0e17882c6be2dc42a09b6c08e1a9d57c2f8dcef5a",
-    "d65ab6a14dc41916325e1b3efa9105a0512be8c9cc073bdb011bc184494b31ad",
-    "fd9d125ac05eaecddf87db541122500c7e7df2f8ad23cd0ee5ebddca993a6727",
-    "e833da80a9a4941b9b3053746e87be4bae705500f0d2f1c8e74ce6423271d897",
     "04ef477a10b118c2871d23b956d8052f43331ca0e3ab444db647488971301e02",
     "5b5ff9ce8fb81e2b744cde9454fe3ced57f84d6232662d7c93680b99534dbc2f",
     "6b32afe380ab54f73b9a963deb7b102f1e10c4acf1752e7da30bc7437be61681",
@@ -4000,13 +3992,17 @@
     "6ce582abd63ccb08e22285e74789db4fec0195bfdb3737aee74f17ac0cdbf4c0",
     "cc5ed038b6bac38c0d66f11c3357c99bd9c8183b05aa6d2a375b21fc4835b2b3",
     "94297d44eb33b2be219c0b7b797fc65a2cd9b0de0a751b26d769d580d42bd834",
-    "adfd8dd7ac5bf826f0e4592e7174cd4a8e419a067ec48adb6c1e58adf5014ba3"
+    "adfd8dd7ac5bf826f0e4592e7174cd4a8e419a067ec48adb6c1e58adf5014ba3",
+    "ad2c2281e008c5ac662605a85e63830bfdefeac668506c46a7d1b756a42bd478",
+    "0e824622199a288f4aba279bc51aa89c9802d50f972a97d791b5fca39d53d14e",
+    "234f5285644b656b216668cf1d29126b53e544eb6badaf4aadf917c96599e6df",
+    "7483fce8ccc8cd41024d81141a8b0ebeabeb0c761501bcac694c049f061b2e1e",
+    "82537eeab122f6c44a6b1647e641dbe869e57960e7e02c4d2054d204385b1801",
+    "d673861835d19fe1e5d758aaeb250078b0c1693724b877552078663f0b0335d6",
+    "2461d327ce52fcfa40d2c839800d969de687c125438531d487fb95b4a0bee6e2",
+    "a4a9a45ec4fb8f5e603e3fabf85b8634e5a03d4403375b98729d4b6d381658ef"
   ],
   "title_hashes": [
-    "a9332c05bcc70112eefad97a76639a87ab6713dd5eb11b3ebf6e8d17b47bd8da",
-    "4f8acfe4e60d481a873d9ed42b9cb7e16cd1b051229d53467f74a857b882e355",
-    "07f66831fb6b44fb4ed4951870a31c373f1f1ff2f7f58aff717506ffdf1a0f58",
-    "0f5a33b1f24fd8e65cb4a2dba552f09f30a3cd0145986c28c4603b6946d2b3b7",
     "e7e0cccc23655a5207529cd1e2180ea41aafc1a25fd61e71908a83435eb1dc22",
     "8cae9c6756a8bca6da3fdeccee9516bfd65643ef8ce9d4c79d25f42b9b0d090d",
     "1f12f34e4c628e48318439d51156cb9d89645a904e39a09a87fd1ff7d38aff5e",
@@ -8002,23 +7998,13 @@
     "13fb94df33b3769a14a5fa171b76d47d95d4862972ab0a42ce968e69f02d3b9f",
     "a66050fec4302c4743dcaa8450845cbffe78d52c974952e2feb011f08462b7dc",
     "fa73fbd7639c93c381bfa9be8fb591cde992a6daed8d7b0e80586800ffb242b1",
-    "f54619ffedb9d6da6eb0cd61f41be374e88f00663cc6275c2acdd293efd40f78"
+    "f54619ffedb9d6da6eb0cd61f41be374e88f00663cc6275c2acdd293efd40f78",
+    "91871ab9a00bd2b686a6cbe6d72b70f3a4ee2e6cfa985cbbf526448ed4b2486e",
+    "55fdb2b3731b50a2792bc5f04a60e9c19720b4f730c4a043fa0a719ce1143f64",
+    "8fb383c78fa810b3bdaf92af3bd85afc959446e88ee0f022f4231bceb37ec1f9",
+    "ce07d63d4219b8ece75ea150184eb7299cca85f317cb205c8544946062c6a493"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "BoJ Governor Ueda: difficult to determine response if weak domestic demand and yen decline coexist",
-      "title_ko": "우에다 일본은행 총재 \"내수 부진과 엔저 동반 시 대응책 마련 어려워\"",
-      "url": "https://www.financialjuice.com/News/9858933/BoJ-Governor-Ueda-difficult-to-determine-response-if-weak-domestic-demand-and-yen-decline-coexist.aspx?xy=rss",
-      "ts": 1795053191
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "BOJ Governor Ueda: Says currency movements could exert stronger inflationary pressure than in the past, shaping both underlying prices and long-term inflation expectations.",
-      "title_ko": "우에다 BOJ 총재 \"환율 변동, 과거보다 강한 인플레이션 압력으로 작용할 것\"",
-      "url": "https://t.me/firstsquaw/194039",
-      "ts": 1795053318
-    },
     {
       "source": "StreetInsider",
       "title_en": "Stocks rise after Anthropic IPO pricing sets stage for blockbuster debut",
@@ -11504,6 +11490,20 @@
       "title_ko": "앤스로픽 오늘 IPO, AI 대어 증시 상장 본격 착수",
       "url": "https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026?mod=rss_markets_main",
       "ts": 1795080996
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Deutsche Bank Probed by Regulator Over Data Handling After Leak",
+      "title_ko": "독일 금융당국, '데이터 유출' 도이치뱅크 데이터 관리 실태 조사 착수",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/deutsche-bank-probed-by-regulator-over-data-handling-after-leak?srnd=phx-finance-banking",
+      "ts": 1795081085
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "SAUDI ARABIA: DANGER HAS PASSED IN KHAMIS MUSHAIT",
+      "title_ko": "사우디아라비아 \"카미스 무샤이트 지역 위험 상황 종료\"",
+      "url": "https://t.me/firstsquaw/194219",
+      "ts": 1795081155
     }
   ]
 }
