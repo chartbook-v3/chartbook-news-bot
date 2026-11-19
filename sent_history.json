@@ -1,21 +1,6 @@
 {
-  "updated_at": 1795072183,
+  "updated_at": 1795072337,
   "id_hashes": [
-    "03ae2f576dbb6f8ad82f97560fb0f421cc27d4fac05ee4c589deb82dc22e0264",
-    "cd2e0b9eb05bbafbabab92595819cca78b3e665327194d9973628ec9f9e82930",
-    "c646b8d26d033264345d5de37d11c6ff8cdf6c820301740e62d7c7d05695d65c",
-    "0325ecc3319fed4cecfa4d0610c3e793d3205354075ec9ef7d44e37cc357e2c9",
-    "4e862d646863570f3222913e381d15f0c15864b261db8cffd6df4041ff6854d2",
-    "09e111e4b29c91f1b9f09e44c07330933a66dd5cc6995116b0c6fba7710e1ff0",
-    "9ff7946186f766d7a4209048f2315e78f025740dc5f3918b53f12028969179a3",
-    "09052918cb4f45278f7b35fc6da778d3ffe871d21cf7d5a1801b34aff873cdfe",
-    "b370537428bf6ddd5012a4a77416d46a81d1fe963595ef10f844c7462e24babf",
-    "c9ac9e0d9f8b0c84aa8c82883582d06f5b35672e6484133c560e3f0c4aa5c48d",
-    "efb5b3d0d70f67a37fcdb7a12f4b36a0bac88c6404ce4cb3683bb8c7f84c4663",
-    "7f50552589d84613cf6e1ad5673f6c0991700830fdcce5ab181e4ef5d80fc7e2",
-    "13535aaa4a1d5a4fe262a320ae050f8d44975b67ce7519a3718094b3cfd11f1a",
-    "82c91672aee74ac63efeb7e726d4c2db0af9ed1bf1aa3e0d6d27c2583bdcd7b4",
-    "a7a48e26e2c8eaef097fc03ff485178688128eb252eab5de91cac7cd07957c74",
     "531f7459a85a1505815df78a6805faf6f9b3cc505ab1e3d2fdcdadd53fd3dcbc",
     "7bb9393bebf9b5d96cec876bef8cc5825aaaabca8b054493259eaea6c496ea92",
     "420f6ff90c13f9566308da501d2deb9e8049b40eab2c6f78323fbe3da59d51ec",
@@ -4000,18 +3985,24 @@
     "ee470134ff012de6b2e69c05fa019b7d7d5b5b9ff98f00650422386b684bb46c",
     "e0b5ab1171477f76f3d29cddf6de2790ed2b44f40b7d3a5b5eaf38adac41cdba",
     "bbff21c3691bdbe1183e0baf1ac49ec441266b6942041a3086825c6dd9d6ea2d",
-    "fce6896a507d2c0f5a11f60ef3397bdfd508e5beabed601215bb0df0bcca2b08"
+    "fce6896a507d2c0f5a11f60ef3397bdfd508e5beabed601215bb0df0bcca2b08",
+    "5c3ddaac9e0da3938fe7eee25c6f401b90296a6182e3843ab5636bb915cb842d",
+    "863dc5499993c911695a0c1564471989b2556f21aa1bbdf4d21d16bdcd5df721",
+    "939c35754169b3488377ebed001bed753bf750e5200bde4179c6f727fa1d45ed",
+    "6e8d4c2e03df215ddd015b6783970cc65cf1853b778ec6b5308a0e84d1982b10",
+    "1865338c96c20d55d06670e6ea4b83cba8beea8c22740824fb7a095fde151601",
+    "f17f8dbd945f5cc081e7cfe0f1fbe651ba22e198bb2c0fd65427e983247cbe22",
+    "0cb0d4b2ac215e2455e83dd3fe5ee3cd1ef27131c0e97ead398e377746b3bc7d",
+    "daf01936a1abb4f5217d1571b4b55325e55fda8ad802675b0f1491b7c1d9618a",
+    "cf57eab970c7b4beb5433845095437b10dd9e395da70960aec319e1ad291d542",
+    "b5efe4a5fbee701aa42125ab594e0b40bce0b46dfbca965888debb92e54868a1",
+    "ef6f68bdd7cb6bfcd97dcded19825b5714f241edee33695060b69a47780d3a58",
+    "fcf0fb656f9ef654b9604dbb09b2a116d2618800c0ff8ef26e52d4575d7bb7b1",
+    "0eddf2ec6ccf2f4b5d82fd1a04a53c172807895b084a01f45e7cd7a40af26897",
+    "57db7d417450e67cafc1380c20bfadc511db06c467ed01945077470d23aace29",
+    "53b4a4b552b880f018697013f1a3d3873c56c7c306c658d60d35a673f3e01520"
   ],
   "title_hashes": [
-    "e35aef3d951c6bbcc76e9dfab2ff02f9b9c5e0bca7c568910d5cf289190e4c63",
-    "3154b2f287906f16e8e7128f507fba0842569776b2d6e6d2388be1ef2d0e40e5",
-    "71ee0a1ece72e32591a0364d9c4ab5693c44f60402e3b273ce290b133ccdbabb",
-    "1fef6ce6ffbb763f515e8ed615164ce0bba5ee3a986bbd01637e6d271c826686",
-    "401f3669ae4b5d25c71a2b77be63430ad3a7a2085772e0f19a7967e393c8966a",
-    "fa325724613b12a7826c2153b8384807bad1bbf9bcf0f05c3669fe7d8cd00765",
-    "155a35cb81b3116ccb73ff461bca57cbd56eac25a88b136120fcf25c8dcf6a1b",
-    "836e1be5b7d91e6c8f78ada3f3c19554c7f03fa22c431be6924944f62bfb199c",
-    "fa26f0cbe9b4aab31989cd0ec08f12de08dd31d62c5a4e9b7725c19394a0a36c",
     "bbe1a84eb11f9a1173634bd3789fdeecfb05a7f369deaa92f77579fc54468306",
     "ffe95b9d969c7c27527f302ad9f9bf6e79e1a8626da72229009d78eac70c6878",
     "5f636326bedb0d758dec8ff14c4e90f685b1b82053bc4a4bdc2d8d2b05860c22",
@@ -8002,16 +7993,18 @@
     "824c5a3e3b95216c7968bec057a0edb4f01913f3b25b501bcb2c802328777fd1",
     "3c344d0a24abca922836607881f89b238065bcbd5db6678b0d6102bf45166ad5",
     "670af137a1a615b9e5b8d42e58c0f7a2f275183889bbf2c53a2d97c078bc745d",
-    "45f9d2e66162ec3b87415e7425ce3ce9dbfee8f3ae663dcfba8a4684678b7d0d"
+    "45f9d2e66162ec3b87415e7425ce3ce9dbfee8f3ae663dcfba8a4684678b7d0d",
+    "bfba73215f4890e347177592f1f161675d02380934049b64368e431efcbf3090",
+    "f34ae2aa48af933ff52e58af97606d07dec138cd6e8bd8c617efa3ea88fbd95f",
+    "be10ac86ecac9237dd08182f3ab0ecadf8f00bfe27c39717dd4e365efad2aa24",
+    "6ea6a4c34a7cb4d5d53d45bbcd09c66265cbe41701dc306277bb1063aef8f9d4",
+    "1a359851faea310b9c6cdd6822443a53f8470bb7b19921f25be03417324a9516",
+    "d056f3be3332ee9d29e5ec0b0174b7fb4d2369cae046341f189cb7b035415bd9",
+    "a442cba5e29126b6e558661b213bf0f8f8ffbe7350b13076eb16ee1ad6617aaf",
+    "c141716c9d6cff0dcb6705c75babd6e38a7bb94d7a4799f9882ad5a8572711db",
+    "4246f28f5be39585cdd16d3293f5ef0d5d6a6326e05f9c3b252b287445931ba4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "GERMANY AND AUSTRIA PROPOSE FORCING TIKTOK INC. TO FIND A LOCAL OWNER FOR EUROPEAN OPERATIONS, FOLLOWING A SIMILAR US MOVE LAST YEAR",
-      "title_ko": "독일·오스트리아, 틱톡 유럽 사업부 현지 매각 강제 추진…미국 사례 뒤따라",
-      "url": "https://t.me/firstsquaw/193986",
-      "ts": 1795046838
-    },
     {
       "source": "매일경제",
       "title_en": "“젠슨 황 돌아오거나, ‘이 사람’이 이어받거나”…엔비디아 직원들 속내",
@@ -11504,6 +11497,13 @@
       "title_ko": "Michael Burry는 월스트리트의 대규모 Nvidia 자금 조달 계획의 진행 상황에 대해 의문을 제기합니다",
       "url": "https://seekingalpha.com/news/4674517-michael-burry-questions-progress-on-wall-street-s-massive-nvidia-financing-initiative?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795072182
+    },
+    {
+      "source": "인포스탁데일리",
+      "title_en": "미래에셋, ‘TIGER 미국 대표지수 ETF 3종’ 올해 개인 순매수 9조원 돌파",
+      "title_ko": "미래에셋, ‘TIGER 미국 대표지수 ETF 3종’ 올해 개인 순매수 9조원 돌파",
+      "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=219011",
+      "ts": 1795072336
     }
   ]
 }
