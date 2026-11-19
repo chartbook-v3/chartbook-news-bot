@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795126295,
+  "updated_at": 1795126445,
   "id_hashes": [
-    "98eea4ef6389f0edfd09675312daa641e4e181ee0482a4b74be18e75e114f152",
-    "343395d164540938cb75bbc4ce6a29440909e2053978dc0f0386acdcee9fb773",
-    "f15238727e625e6a609b7ea0cc3693ad959c5cf5fba57df4e7554a8f529553c0",
-    "fe37c6eb144826776c82624ee984fd262bbc227bf99e650175647a2745207a52",
     "3aad34dcf7f3ccc6bccf00aa79edf7f22751a85a71784e6a42d8231c2b76cb41",
     "74cb96c9e5c79c8ed5892f7f269016aa397ec2f6a5c288122a4a2b8791627636",
     "513bed52c3df3815e7936077337dd03fda3eaa96562e5457e35262b7f325f8c8",
@@ -4000,13 +3996,13 @@
     "ef2147abb96d33eca9dbd9b0f7c2fef1d10949faac621d45fc01ce63b3d9c225",
     "5e0b844f13f1de205ffedf257744e40f494b8700297c1f818c0dc652d4ac31f3",
     "a1b471a94fe1167210d43c799eb779336d136b0247246391cae4f28160e8fcbe",
-    "501fed02be2517c62490864fbab186f02042e9939a79e0e472c58cc9e9edd21a"
+    "501fed02be2517c62490864fbab186f02042e9939a79e0e472c58cc9e9edd21a",
+    "11dbf016c83617d7ac6ab4478790b5d19f525850571bc1f719ba58c7d30e315f",
+    "98eea4ef6389f0edfd09675312daa641e4e181ee0482a4b74be18e75e114f152",
+    "35588da140fb71cd55105cb254b063a0d5d82955a7383fee2115cd9a2373d65c",
+    "6ff3c1c0e777402bb6729ddc5be781a6a32060e9365cdddfe727de9c7537eb1e"
   ],
   "title_hashes": [
-    "1820a6bda0f42c21ff520d80e4ff58e211ed813f8a7a743fe51746b42f3fcc27",
-    "6de5449fd5cc96cae752ba5fe0c48bbeed2b6230dae609cec7bd5eb983c06a50",
-    "a39361096aa9630e135edea6857cdd160c1814d8422de11a7354606e2d939624",
-    "ac0d3a95b26d15bd83e24d8a18aad9c118528eae15201e0794040be18fb11ea8",
     "53215b20ca78f1ce1464608052d7ad23a3f2a4452cf7f14ac16d19d79a082835",
     "42c3a9b799df5a78976518103f64e9a6c6dc95d5fbf8421780645a0bffdb05e5",
     "4f9ab8d7941bb2a906eee0664e8a8b79e5d5881779f8547dd8aea6dfac30d0ff",
@@ -8002,16 +7998,13 @@
     "183f71321015772cd5ed924b256fc15425e51bf93d70ba98cf0844abe59fe7e8",
     "3383f2bfc186d084a1148a790ecb547f105bdcb0f5a9caa3a63f2d233de6a8f5",
     "3263884f1808570c71a4608494b10615af6b6f3581e6aa70ea279e98fea4280d",
-    "1481ec37fa7479ce147d992c785ef6a6f652dce975f870083c6c0607334e1603"
+    "1481ec37fa7479ce147d992c785ef6a6f652dce975f870083c6c0607334e1603",
+    "dd2bbdd366438e5b2e4d550b0dce97d5a74a9ee15397c70a2c411610a6558c26",
+    "98df319719d35c993c4c78a68b2b2d6e673b8312b86f442171242b1af4aec1d5",
+    "fe61b1414b84bfa7401e4173861eacb304eebae91dcdab92539b5d7b300d9772",
+    "a48b2623e56b5d4ed12410f741f158e778bb01800f78a9a9c28a7297e9513ff4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "StreetInsider",
-      "title_en": "Blast Resources acquires eight uranium claims in Athabasca Basin",
-      "title_ko": "블래스트 리소스, 애서배스카 분지 내 우라늄 광구 8곳 인수",
-      "url": "https://www.streetinsider.com/Mergers+and+Acquisitions/Blast+Resources+acquires+eight+uranium+claims+in+Athabasca+Basin/27374324.html",
-      "ts": 1795099021
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Alphabet to sell multi-series CAD notes via RBC, Scotiabank, and TD. $GOOGL",
@@ -11504,6 +11497,13 @@
       "title_ko": "CME CEO 더피, 직접 지분 보유량을 43% 줄여 35,442주로 축소: SEC 제출",
       "url": "https://t.me/marketfeed/1082097",
       "ts": 1795126294
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "WHITE HOUSE NATIONAL CYBER DIRECTOR SEAN CAIRNCROSS IS STEPPING DOWN",
+      "title_ko": "백악관 숀 케언크로스 사이버 정책국장 사임",
+      "url": "https://t.me/marketfeed/1082098",
+      "ts": 1795126444
     }
   ]
 }
