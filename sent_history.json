@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795090233,
+  "updated_at": 1795090390,
   "id_hashes": [
-    "10c3651f904bc7b7b7a4ab5d5316f01c10ca8d9739bb715774aa40eabd14575a",
-    "b9e879e6caa65cf84d4b06399dbfe53730e59da5607fb211cef06b10cb18857d",
-    "d2d1b0b8d55003e13ee152ce4d6024d7d6b8217f523f11a4eeca3c59f3d0b88d",
-    "3bd2d3459db1ad53d4cc0d1337bc6fe8df0ad1ad0d129be1308d2471893830b4",
-    "24f4f37825ed53a92843efd5b25e02466e3922aa2bcdf7a5706403a9ac5d4244",
-    "86391c062375ca81e07fa6388ab8a9b8de9b01a50d9d9617cba454d6ee39c2bc",
-    "7e7b4fafee4d6d0566802d557009234cf4f5f3619b87186e640cb1ed625b9c9d",
     "433712f2dd97a4c9e159e40c2e8aad81efd0c32888e97a36b7ab8b40c9a6f548",
     "5e2feae96b0e0eccdfc89308e3e541238121aa28a73591611878f09ff621f4f2",
     "fbe125893666baee30ef335035093ef15e54e1c22a2a65659eb490e6a516080f",
@@ -4000,17 +3993,16 @@
     "5426a49be8a931423487a5585301e6061aa3c1aded169780ad31eb122e8b20ce",
     "0030a42439b9620ad46934b583d6bc7009ff1c66d4e88c24723207d779e6585d",
     "65fccc740b4b44e4ed2026b34a6751905d1cd3fbc9956fd6ec5eecbffd360bcd",
-    "197fa5f4269e84f04dd61ca1ec441de0b99206a90c99b71284c3d6d6fa9490ad"
+    "197fa5f4269e84f04dd61ca1ec441de0b99206a90c99b71284c3d6d6fa9490ad",
+    "22c36c5c62b0181e0377247c06a8974d08e3c9ee551124bb6572fcb6cd2aefe9",
+    "218230c1d2c2ebe08d9bf8e403876d0186553875e7daecc07c20f728b840c9af",
+    "aad797c9146267d96aa2e4c3270615a5d75a9f9024b41361946b63d4f830b66d",
+    "a4a6609493f9ab5efad977a8680164f162f4b7c6ac20dc5cca7a8317d2c09166",
+    "279e4bf43047bfe4edd04ab2c3b033b276a9a616076e7bff966ead88f1435231",
+    "82e410f949263fa64ef03704ae66ef57a23d268d628226cb7fdc379279777e5a",
+    "d2e30de8d27c12b8713dcbee4980cd61464d7c465aaa16051d437f633fa831a4"
   ],
   "title_hashes": [
-    "c9a36d9f98a33accc5d0c50d1dfd0ff8d454a745b8e43bb47a52104ff850dce3",
-    "287445a530c6164212f0eeb23fedcdebe5674c3df9827c8ef5ebbd8420ec0a57",
-    "e8eeabeb3cec34814b2e673ee23c20f770aabb13137ce06bff1def57ed249d6c",
-    "1cd4f0a960063e7eee76b11e90ace981672abcfef02354922ce3250038228324",
-    "b3dcbe8e2f21934ba4425c79249131abe3144e5f58d1f6e6051b06a950c91c91",
-    "ba820c1949ca70da5e6e3e5fd27d47f190d16fc7f5b41b7be644bc580e5d6ad1",
-    "f058b5119745a367bef965ee31d562af836fa56a4ab699be2e8a93edc2ba1014",
-    "ce2e956fd495993024921479cc95e56ce7e5bd6f63d4abceab79850f8d751217",
     "6b5405bc8fc3558430e95e44784dfd8e7349075c6d808580c12e4936d4cec155",
     "ccc65ae6b32a6e6c66ad7d40f9ea358e093fa2c5f4a55b82ba94f6351e3c9aa2",
     "c9d7b3e4c39e8385ad5ab1ae5425c076ace3962a2bae7a5a133749dbdd052f8a",
@@ -8002,23 +7994,17 @@
     "40573913f9decee21afb182e38db26c70c966c6dc9a66c789015cc6677a338ac",
     "17c67d14cbc855f54742e2d03d388ebfb6e0ea5765fbbb58d5f4085d4d588839",
     "6a4b0e316d2f426bb0bef473956989b7f225ead1d80effe52cba9deee3f15d55",
-    "2802808f5efc42ae7e3297ef78fb1d4fa0d98f4bea137b4c5c27a40487c249ed"
+    "2802808f5efc42ae7e3297ef78fb1d4fa0d98f4bea137b4c5c27a40487c249ed",
+    "619af4f8412576c5818de93e55838954831ddc3231f329277c0cdf974648b7d8",
+    "30c3242683c0e07d79864ca76422d8c480222d01283e5852c075c556fe6db048",
+    "d62c9824a24a7d6d5c03185b08727c59baee9cfac776933803a1d746e7dc45d0",
+    "f4bfa2234507dd686e837908d090f9f5367e3eb9480fa19b1df7e6b6a5614123",
+    "ff9b4c4fdc7406b67820b667d90c27c1ce0db5154c79bb46efb558116fc33a26",
+    "202633d26a43f86de962b3c115cf14010c7a4cc1c142537db2981d2c19324e2f",
+    "6262d8dcfb20416b4962e0fbdf856311be2aea7189f9caabf3c8f4f94972067f",
+    "485a3c2c461d083af81a21d3c8a4e24be110c8ae5fcbec75217731a8a88b0735"
   ],
   "recent_sent_articles": [
-    {
-      "source": "딜사이트",
-      "title_en": "앤트로픽, 109조원 역대 최대 IPO…스페이스X 넘었다",
-      "title_ko": "앤트로픽, 109조원 역대 최대 IPO…스페이스X 넘었다",
-      "url": "https://dealsite.co.kr/articles/173121",
-      "ts": 1795062712
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Trump to Putin: We Have Maintained Great Relations Over Many Years.",
-      "title_ko": "트럼프 \"푸틴과 수년간 훌륭한 관계 유지해와\"",
-      "url": "https://t.me/firstsquaw/194109",
-      "ts": 1795062719
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Trump Expresses Optimism That His Shenzhen Meeting Could Produce Many Positive Results.",
@@ -11504,6 +11490,20 @@
       "title_ko": "알리바바 CEO \"AI 관련 제품 연간 매출 런레이트 100억 달러 돌파\" - 컨퍼런스콜",
       "url": "https://t.me/marketfeed/1081602",
       "ts": 1795090169
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Coherent stock jumps on $2B share buyback plan",
+      "title_ko": "20억 달러 규모의 자사주 매입 계획으로 일관된 주가 상승",
+      "url": "https://seekingalpha.com/news/4674637-coherent-stock-jumps-on-2b-share-buyback-plan?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795090386
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Evaxion Biotech ADS GAAP EPS of -$0.01 in-line",
+      "title_ko": "에박시온 바이오텍, GAAP 주당순이익(EPS) -0.01달러로 시장 예상치 부합",
+      "url": "https://seekingalpha.com/news/4674643-evaxion-biotech-ads-gaap-eps-of-0_01-in-line?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795090389
     }
   ]
 }
