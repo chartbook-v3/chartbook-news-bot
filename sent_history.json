@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795103334,
+  "updated_at": 1795103490,
   "id_hashes": [
-    "7272d696723624d68c2be5e46edf89cedebf6ffd3adc916e61844f45a0da42c5",
-    "8d74874f32a1b7966b67dc4a113e1f51f788869d265bee4da47cb2d818ba9e5e",
-    "7919ebd50473bd861ab1273eeb5712be880bb9e09e803a8629542e068b22554f",
-    "e0dc39c887819c158ff1c0692690f99ab659ac380cdc87356a902ba6ced53ee5",
-    "0260bc2ebc781aae5a18cd4cb2242d27ccf71b454dba51985ce36f4f1bfda43b",
-    "6da746c50b93613e6c50b96f503a55e921a4f080298e9dae694f12594f283af5",
-    "dad09a380a76a826e0b315b50a7ebcc168d1343f5cb34157bbf4c636fe85f359",
-    "3d40cd2cacfb8c23c723f21a4540f2e53edac0ce1785577e907e385650cbf887",
     "9f4603c698caad65ed7f5ec17ec4ea910a32b39b8dd1cc7e5fde6bbce3448052",
     "642321438d962c65f40e5bc6e8e9a3bf66c66026712869b6631bc01852752e9a",
     "e129190e4af847e6842e6c1c55b58ee7b57d9319bf258da7f10f94ad4965bd1b",
@@ -4000,15 +3992,17 @@
     "7a7c1b97df6a7074b2961f665db23373b547921dc51d3210b1342a325ef08cca",
     "86df09cc395f577cea9f562b1b7653a4b9b586f002674d5a250ef797a8f39eaf",
     "80f37404046a06a8ff008af233a83ecb8e6ebfd38fb1bb3db84d51d44628fff9",
-    "32d939da8921ac1b0d16db4536e78aadf2f9bbc58c4bf841815ed73052b2efa0"
+    "32d939da8921ac1b0d16db4536e78aadf2f9bbc58c4bf841815ed73052b2efa0",
+    "26adfe71023f0238ec451715282cfa36fcb64ec35dd66a386de1bd47ae0578c2",
+    "21ddc433f74ff8969bc3fe66dfa518dd9c1889a4533e36190e2be750c0d3fbad",
+    "284c88e9da84f0efd3982d42db194dd68e2d75d69cfcd4e029a79e7c094adcb8",
+    "dde9139aefe4d067b653ea810d2b9c4cc363259b55a07f7cb9d9fbbcedec1663",
+    "652b27a140bc0c829c59987a3e03326346844f907b56e88cdc062f5ebaee9430",
+    "88c90b8aa4e853b2e9f9a474d9b7f4ceef01c2a31f1bb889dc44ef2990fe2a36",
+    "bd842597ec09fa8026b4e9c9684e9f7a3081a23896a5a8ab6eb4b2ce02b1c627",
+    "422b64b5ae1f09168e5b16bda33971507656bc9d66169f30872c072ecf5822e6"
   ],
   "title_hashes": [
-    "73e68bb90a53400e9b9af4fbf84cd6e93c7b112b65f274e56ec3c8a9615defeb",
-    "1d895b3c6d4bb2841438296200bc081b21bb5a8ca595ff10727b8cbd6ccdbaf5",
-    "a1632658dcb881dac862efe41b91751dfd070977c7d0dd86eb1a34eb51544910",
-    "aa926ead2a961771195a023f1e31ac9e4558a72c10d1d1679de5145c1e95fa15",
-    "7ada7d8788a303bbdc01959fd717e63c7c34395fbcf32f3682b09fa808f74957",
-    "21022ed2cf36a35f21f57337807528c77418de6809762ab88cbc6cdf83027421",
     "36901a4127685176b81182e64f51f3e1a2be39fe6341c3360ff00d5cdff8076d",
     "6cca093ced8b48ffd4a5f075b5ffb38a404dc52535b4d2a8d1edf027e1d7df1c",
     "af4a42b4a7db2464403734b1293797bd1db41fe583919de10afe8c91d8f28d06",
@@ -8002,23 +7996,15 @@
     "24bfe6286efeb0b6b0c8bd069a17b1b3597474ff6087972f45a427b25339ec4c",
     "6c0b6f36c9cc5885d1fef2542e2c38f15281e6deafaf92fda5657197541c017d",
     "6efb624768d22b49b7348be02422642518631df920a6a2caa9606dbe48c53559",
-    "9a524301d4429f05264086c004366a8ff285adc23b865bc247783122b1416b86"
+    "9a524301d4429f05264086c004366a8ff285adc23b865bc247783122b1416b86",
+    "8317c7159aa91235b01d4cd852e688670c46588f15634b5b6d14d95b83e4ecf5",
+    "01e72cec1c08100bd244872fb324779a459d524a470ae7d4cde88d6ac35fc172",
+    "9b82c0d1d328cbf78cb2eff3187a57dc62fdbd4b0b4e15ef5cd04bc738457943",
+    "04ebff5d8485ed4247a25ee38c15afe7e2f4ad43d396c60929df28e17a5da136",
+    "14f96d1ef66866f3914a8e20b28ab5dc9a4b44962c61dcd73c5425262abdb4e8",
+    "97c0096696f89bc7e832c47d3a71f1240cdbd284b16815cd257a31a0aae7c3ce"
   ],
   "recent_sent_articles": [
-    {
-      "source": "펜앤마이크",
-      "title_en": "우주항공청 출범에도 특별법은 제자리···시민단체 “국회, 더 늦춰선 안 돼”",
-      "title_ko": "우주항공청 출범에도 특별법은 제자리···시민단체 “국회, 더 늦춰선 안 돼”",
-      "url": "https://www.pennmike.com/news/articleView.html?idxno=132278",
-      "ts": 1795077028
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "网易第三季度营收279亿元人民币，预估303.8亿元人民币；第三季度经调整每股ADS持续经营净收益 14.21元人民币，预估16.36元人民币。",
-      "title_ko": "넷이즈 3분기 매출 279억 위안, 예상치 303.8억 위안 하회…조정 EPS 14.21위안으로 예상치 밑돌아",
-      "url": "https://wallstreetcn.com/livenews/3202446",
-      "ts": 1795077052
-    },
     {
       "source": "StreetInsider",
       "title_en": "UGI Corp. (UGI) Tops FY26 EPS by 21c",
@@ -11504,6 +11490,20 @@
       "title_ko": "트럼프 대통령은 지난 9월 엔비디아 주식을 최대 26만5000달러까지 사들인 것으로 드러났다",
       "url": "https://www.streetinsider.com/Reuters/Trump+bought+up+to+%24265%2C000+of+Nvidia+stock+in+September%2C+disclosure+shows/27374868.html",
       "ts": 1795103333
+    },
+    {
+      "source": "9to5Mac",
+      "title_en": "iOS 27.3 beta can cause HomeView issues, Apple confirms",
+      "title_ko": "iOS 27.3 베타는 HomeView 문제를 일으킬 수 있다고 Apple이 확인",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkZ5UmhvejdPZTkxS25TSmJoOE5PNk5UR21hMnVtVUZsUGJvYy1SSGhTejVCbFc3RHRlOEM1OGI3c0c3d2JqSlJjNmRhanBmby1KVXNocUFhWUdpd016dXNzNzF5VXlyOEFlQnBuZnNFT01GWWI2dTJwSVhpV2JYTjdFM0hlQ3JvdnBfUEItSQ?oc=5",
+      "ts": 1795103365
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Fed's Jefferson: Not interested in altering inflation target",
+      "title_ko": "연준 제퍼슨 \"인플레이션 목표 변경에 관심 없어\"",
+      "url": "https://www.financialjuice.com/News/9860189/Feds-Jefferson-Not-interested-in-altering-inflation-target.aspx?xy=rss",
+      "ts": 1795103487
     }
   ]
 }
