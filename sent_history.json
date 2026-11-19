@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795075901,
+  "updated_at": 1795076050,
   "id_hashes": [
-    "00d8a4a7abbf966714a1b3c4f18f596ce23acbc061c5c10eddf25218b98e53e5",
-    "ef328ad3762ae02ea1abd57d94ea31c390f16c8a95cfe570ef6dbb4f20a66d0c",
-    "5cfa3f1a3c86912da91306c4daca97eac407eb72e090cdc72c5119af3078c9ea",
-    "c4414f8b1b77a1bd60d6af25e7a23d4dfe8fa1af94bf140a059b89274e891245",
-    "f16e1d9e8a1ec339c6511392fb8a29010a20981e487936197e1dbbc63e64b895",
-    "d209713d4b1c6dfaa33d13899aabbe16f6b7eab0acbc8fb35457bd8ce1646523",
-    "184d0180ed859e8971c747ffd8ea77a224a2b4a2eec1bca9a8b73a46eb528794",
     "662b0aaf9b35cf3d3e9483cdd53dc88a9dafb3f22de022367610e579077371ea",
     "4d481656a039c652bce45c5a599a0fcdaf0243f8b039b676e457eb8382360c2b",
     "fea880010b6b793ddaffe57cd753c6eebfefec1276c3da8c6c076f903f99c372",
@@ -4000,15 +3993,16 @@
     "7b2971cee25a237a39c45a7e44b47f4e3a6d34ef2727ed9dd8594ad7f308bf19",
     "09407801f515ac44dcc1c568472fb9367e2a5c6e040ef926d3f89d3b5de0593d",
     "4fd73116b44536f56d205f905e2136bb8715ccaf2abaa7f89896469bf7a0c0fe",
-    "33a27da056dbd6f8c785edb59d8d8e97e7650d68ff809c83738f9fa61da0103b"
+    "33a27da056dbd6f8c785edb59d8d8e97e7650d68ff809c83738f9fa61da0103b",
+    "1040e6c8c2b24433d13da04cf78bb0a91420d77fad234d9ff4000fe750477839",
+    "ebc1b4bbbfdda6a0a0c40a77426641a93ca9fe1c7b294a10951908727fa218b5",
+    "91555e1f4fb59c340fbf7b24f555ccb5c849dbf31a28c2e2346d6679d6db17c7",
+    "f2fc15f9dacf28a8ddbe93073c61f37043d64d510efebbd7453ac1a2604cea20",
+    "ca721bad647f7dbdea4fc822c4237730b7bc17d1fa545cb85589fda69a58e55d",
+    "c66e68be20bb1c1d0e42a6b9db52e9fc3fc28d6806344040dc20239b24e509c6",
+    "05cf643d2565c4b8b5aefe01d2d9e39db0cee0fbdba7ec0e5f4fb31ba527fb44"
   ],
   "title_hashes": [
-    "a339e911f3517246b7d7fa8805841aafedb2956bea096b779fd6c87bd0adc89d",
-    "708dc7fa98d01beea6dfd708ceebeebe45adb730b598dc65cb680a77b448a54b",
-    "80276541887596d931ecc34f34e437537a56b70f7dd77fd48ae3a5cdbc377ad3",
-    "43782353d263914ebaabcc489023306b278bf2ed251bf2d5c3ba23eda9bce358",
-    "9453ae262bb31a5c07259d385d5c5a57dd1f8435208b8adf240ff6e66d91db08",
-    "cba1205e95747f465962030401ef98bba6a7b754ca094bce2e3df7a72681e733",
     "51779fa023cd65549a398bbdd96daf13bbee56685df9299b540936de445ee028",
     "ee702253915ae68a0c982f50042448af95ffca3986ceb96d53d5ec2ee1283fa0",
     "bbc50ec06d4b97313f9de47cbe22ecf6848ad63387e47e12979a99ffddf212c0",
@@ -8002,16 +7996,15 @@
     "ecee2a2b66de25498f615d8f22fa9c26ee17a60794e62c8e1342ee6518b09e7a",
     "81d77855305a234296d0fd4a439dc620e93a0575b967fe558d380893543bf860",
     "16787916cf42e8b21695d8db0e32d4d2d15aa161f33112cf4057de76f15d4315",
-    "e8003abab3e8590e26f5cbdb4c7cfa43e8b2817a25b056712c27f3e5eb4d6f28"
+    "e8003abab3e8590e26f5cbdb4c7cfa43e8b2817a25b056712c27f3e5eb4d6f28",
+    "e6769a97518cbf17f1c82e4d123a822fafcb8b0466c217dea5ca89e3d99aa502",
+    "4cd66f48cd1ee026c2483bef77d0edfd907b73d16da26630f6f98f1cff21e560",
+    "775ac200162d8b3af53bb881140b8fd61c7177dd1f3dbcba0c8d86693f38a8c6",
+    "145a7adca8ef834a6e787d2ec301cc860cdbe5fdb03ba8294f713ca91931dbba",
+    "f774c1a84a4f1e3ada20a4a0bf7eb3d98f62c59881d41efdc76696299be26efe",
+    "8aa642ea5391833fec017584f1fc1206e4a03609a897e5e7342e3e1bfcaf7578"
   ],
   "recent_sent_articles": [
-    {
-      "source": "9to5Mac",
-      "title_en": "Siri Modular Apple Watch face gains two new styles with watchOS 27.3",
-      "title_ko": "애플, watchOS 10.3 업데이트 통해 시리 모듈형 워치페이스 신규 스타일 2종 추가",
-      "url": "https://9to5mac.com/2026/11/18/siri-modular-apple-watch-face-gains-two-new-styles-with-watchos-27-3/",
-      "ts": 1795049535
-    },
     {
       "source": "WSJ",
       "title_en": "Gold Steadies After Recent Losses, Holding Near Its Lowest Levels In Over A Year",
@@ -11504,6 +11497,13 @@
       "title_ko": "[프로필] 김재권 LG에너지솔루션 전무",
       "url": "https://zdnet.co.kr/view/?no=20261119170848",
       "ts": 1795075900
+    },
+    {
+      "source": "서울경제",
+      "title_en": "글로벌 강달러도 못 막은 수급…원·달러 환율 하락 마감 [김혜란의 FX]",
+      "title_ko": "글로벌 강달러도 못 막은 수급…원·달러 환율 하락 마감 [김혜란의 FX]",
+      "url": "https://www.sedaily.com/article/20116571",
+      "ts": 1795076049
     }
   ]
 }
