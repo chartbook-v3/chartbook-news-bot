@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795070795,
+  "updated_at": 1795070949,
   "id_hashes": [
-    "cb4341ff994e8cfb2e28f56b52508b7c5c7e120c52574e72a5d8e23d5891379c",
-    "8ce388a3aaf06140d41bc6a1f1a85f233b1e2af08237d3518701439603076e0d",
-    "eae81126e076e2eb42c39b3d126ac08b66b2ad19ff00bb93a3c01d14f6d2992d",
-    "17cc66bb597e1524512834049b2d8864f3ce88b0c1cb66feaccd90bbf2e1c022",
-    "2d4b637c669dcde6b12007e5c91bb5de05baf55729325b503cf47ef207b1be2d",
-    "430e62b54b66223f64bd6f1d6f4b01a2d66515e76922adfa2831bbe57fff5d57",
-    "60b4c03da17a7df38082c27765cd7c5e1b178175806d959d220d7f815dcb4ba5",
-    "e49c53e5cf7f3377bf9211b495f8c4d4dfbec5ef21d8ccbc7d8cd9809ba3d472",
-    "0d9e7fb16057ef845d7ad77fcecbd60ea6fb8855f7f1929a45c0a7237d7b51ba",
-    "b5e84995a703aded1c98793449081eecfd9f691f2e35850dfbe3ca1ce040109c",
-    "3419fd4e8eff72d7ab5509bc11ae45eb81b70a2b8f8c4a94e7d8ceb8da4f11ba",
-    "60794a7df7949b150d6202e7d9137c45eeeaafe5f59f75fef8b5319fefeddceb",
     "096503a5fe84c61e547ce07bca59009dbe18e28f8b093fd70972b9ed25e964c0",
     "473628cbb48e8f20f2f601f28a1f315944b42170048f3dd3dad3e2ca11d1d9d8",
     "f807b3c82a203170015f8a6c3ee4140c82f8653eec865eab147f5c84b8902ca2",
@@ -4000,18 +3988,21 @@
     "eb55513fd7833f4a8a5fddb56ef797b186b93d68ead5389653fd1981f1f3d768",
     "f99cc03af8849871c7dfda1a44b182239bd78b739918d2789b0ec013ee184da7",
     "dd1c7317b7339053d2895cbb868adcc800cf3ed121279a7e814586f241d5546b",
-    "8dcca9206969f526fc1b1e00dddd0713f3b50ca1408b5cf30a1ab460ea7f9a7b"
+    "8dcca9206969f526fc1b1e00dddd0713f3b50ca1408b5cf30a1ab460ea7f9a7b",
+    "a1bd3c5d85bd97f27d2f733195077fd96ad9f2d28a0d642c62017f04557a85d4",
+    "a9b3ada8ea513cef87c9ef488e1731963ef00ee3951d29265c1c5a3c707c162c",
+    "3759c741a0cba0c8cdb137cf166c1a1d6411e6d1f14592c5b162a82fd97ce7be",
+    "c7c323fe27b93737117a42de0184a41151c9356c235f093a2ed1ae657765e557",
+    "bcf843258f1be5759dac05880224b0eb0966eb4b5f988b786245204a65452c31",
+    "f1887b3574dd3d3e432012c8738e485aa48997316eb2c37c35ea2694ea0eb7f3",
+    "078d89dda246dd90c870f19506b4f1b5d27a551b826d4629df9748bdca82bc1a",
+    "23ce7ae127f8c146d6d72d5a5c7ebc7674a8ecc17c849706dfb9cdab69db28fe",
+    "2f9cb554852eff2a453d00e5df5d0871cfeaed95ef70b86c38d1a4fa91c5decb",
+    "c9b7e0fe0ff649f0fa5218e735490a006c6962705060c90ba3eec5741f3d0812",
+    "18e9079ca1f4b8aefc5a84b9f1029176d8f51d35d5c09998eb4be757733c1b80",
+    "6b098b866b2232a02307023cb0d0eb412fc3be002dc226c272f579e094166a30"
   ],
   "title_hashes": [
-    "3257ffb37bc69548828c1ccd8dc08b2259002330ae53c8b059984df3d33ec948",
-    "8bc5f9dccea719b2b5b628fc5cf6f86afe836f5c1457c4b2ea5f06dd82512b33",
-    "7fe401dd72e570afe69a675706b5215737eb3b8644885f1c86a30594cbd06ad8",
-    "e43a4da0e8960b4b7bbc65c9baf5b527e383bfa9292ab477cfe3f9066f567c2d",
-    "4f277cce6e7469587c42c7b55b5fb77985b6b0885a7744df564dca13731cc810",
-    "3ad3679e250b7ce5c62e607a3b9d4c6340dc88ce5ad1ac67da1ca41b03a3848b",
-    "146664a7b0ff2b70471abfa8098a23049950968402fed91eb965f52ad618e4b0",
-    "2687505435cb52b8fc9eb35b0547c995aaa2346d68d6b7648771268cfda9e912",
-    "53178309d03b20bb2f2ba67c32ccbc4d6b9c8fd6a4501f7e10ca832b7b44a2d7",
     "d48676df1e1fe854cb1498b8c36b05afb42a164aed5ce0edae1d636e66d5ba7a",
     "4d72fae21d88296dc86841426812108059df3d1131a0b07aff3fc4d3b79bcf78",
     "a8236fbb89b91c180e3f9d736226547addc712707913ba45b8db4cb6084f0ff4",
@@ -8002,44 +7993,18 @@
     "776496e0df11e21859f672b778ef970038572ceb8bec36bb144fb0803041b801",
     "777b7b17839ab904789010a821ac2eca0a348fb94877b67f4e085a8e9b3d136d",
     "4f281006912ce431eb659b28a5bbe68d384d72b4f2b1ab2f7443718b4dd063fe",
-    "e3960b22cd93992fecf130defe7e2a0e3d376e717122376b7a24ea47b77d0cf1"
+    "e3960b22cd93992fecf130defe7e2a0e3d376e717122376b7a24ea47b77d0cf1",
+    "55e5abd4735ceabe1b7980e30fcf437289bab532e40b68045520a5133c140e4a",
+    "0fa2f908eeb3fe1980cb963c841fe0844e826612ecfdd5b815cb82af123662bc",
+    "3cc711a6fe886de3d751550429a24c658f469251e61d7db966bdb0352d7994e3",
+    "52e756f6bd688e137a131922f1d7a816c05d22ec206ffcf160d51fdedd79db13",
+    "6d772ce10ba2ac93a65bd456740f5e9bd2c08276ec50d30d8a6546f076ae0293",
+    "86a1eec9c6cbf7048854966b11a183575147d21bd1f70c9d523fb1d7e4c5e713",
+    "2ea3d449ce3544aacdce90692db7be9383307efa1b13bf06d0156538ee94cf6f",
+    "d4d7f431903c9a519968890c7ee0bbec20ef025c9169b8f5f52a816596a31a13",
+    "120ad30a445e61bfbc76cca103a387403024a653733fa979de75f6d1efe3530d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "马斯克称，SpaceX正在开发AI模型Grok 4.8。\n\n特斯拉将在未来两个月内进行Optimus机器人演示。",
-      "title_ko": "머스크는 SpaceX가 AI 모델 Grok 4.8을 개발 중이라고 밝혔습니다. 테슬라는 앞으로 두 달 안에 옵티머스 로봇 시연을 실시할 예정이다",
-      "url": "https://wallstreetcn.com/livenews/3202247",
-      "ts": 1795046330
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "SK Hynix seeks HBM4 packaging equipment for early 2027 delivery",
-      "title_ko": "SK하이닉스, 2027년 초 납품 목표로 HBM4 패키징 장비 물색",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcVQ5WFJOdHNmNEFZS3BIdk9PWUhybjhmdVluZlRYcFl0b0NHdjJxaTY0VWhocUVIblhEbjlyMXhQMVNialhVR1o4dGg2emJFdi1Mckh3SUdLV3RvSkhjU2tEdXZneld4MDZQTVZlQ2lCT1dFRmplU2VpS3JYLWtKN19wVWJESVlGdEdlU2xDaDZWSUE?oc=5",
-      "ts": 1795046461
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "中国即将发行或正在发行的国债和政策性金融债",
-      "title_ko": "중국의 향후 또는 진행 중인 국채 및 정책금융채 발행",
-      "url": "https://wallstreetcn.com/livenews/3202248",
-      "ts": 1795046463
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Ex-Google Engineer May Face New Charges Over Bets on Gemini 3.0",
-      "title_ko": "전 Google 엔지니어가 Gemini 3.0에 대한 베팅에 대해 새로운 혐의를 받을 수 있음",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/ex-google-engineer-may-face-new-charges-over-bets-on-gemini-3-0",
-      "ts": 1795046499
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Dowoo Insys expands Vietnam UTG capacity for foldable phones",
-      "title_ko": "도우인시스, 폴더블폰 베트남 UTG 생산능력 확대",
-      "url": "https://www.digitimes.com/news/a20261118PD201/utg-capacity-foldable-plant-2025.html?chid=10",
-      "ts": 1795046633
-    },
     {
       "source": "DigiTimes",
       "title_en": "Hims passes Samsung Display mask tester validation as Lasertec cuts prices",
@@ -11504,6 +11469,41 @@
       "title_ko": "대만 국방부, 대만 인근서 포착된 러시아 군용기 F-16 촬영 사진 공개",
       "url": "https://t.me/firstsquaw/194162",
       "ts": 1795070734
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Chinese Chip Design Stocks Sink on Concerns Over Foundry Access",
+      "title_ko": "중국 칩 설계주, 파운드리 접근 제한 우려에 급락",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/chinese-chip-design-stocks-sink-on-concerns-over-foundry-access",
+      "ts": 1795070881
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Japan Must Bolster Its Defence Strength to Protect the Lives and Livelihoods of Its People, Takaichi Says.",
+      "title_ko": "다카이치 \"국민 생명·재산 보호 위해 일본 방위력 강화 필수\"",
+      "url": "https://t.me/firstsquaw/194164",
+      "ts": 1795070883
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Japan to Continue Clarifying Its National Security Stance to Other Countries, Takaichi Says.",
+      "title_ko": "다카이치 \"일본, 다른 나라에 국가안보 입장 계속 밝힐 것\"",
+      "url": "https://t.me/firstsquaw/194165",
+      "ts": 1795070888
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Takaichi Reaffirms Japan's Taiwan Position in Line with the 1972 Agreement with Beijing.",
+      "title_ko": "다카이치는 1972년 베이징과의 합의에 따라 일본의 대만 입장을 재확인",
+      "url": "https://t.me/firstsquaw/194166",
+      "ts": 1795070945
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Takaichi: Japan's Policy Regarding Taiwan Remains Consistent with Its Previous Position.",
+      "title_ko": "다카이치: 대만에 대한 일본의 정책은 이전 입장과 일관됩니다",
+      "url": "https://t.me/firstsquaw/194167",
+      "ts": 1795070948
     }
   ]
 }
