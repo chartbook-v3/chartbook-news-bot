@@ -1,15 +1,6 @@
 {
-  "updated_at": 1795099147,
+  "updated_at": 1795099311,
   "id_hashes": [
-    "3e60b27cbe80a5dc804d1f6110e721b7739408b5fc081ef4e5ce050fac616b09",
-    "05e676cfe31e1d4853dcd7400390106ae0ff71ffbf127bd9efa877110909be6b",
-    "9860b6fed322c77a78215dea9e087fabda52c686c3f771824fd729b198217118",
-    "121eda868462c86a7c2e9558f2b83933fe6fbbf06cd46dd785d677e31793fdb8",
-    "1f6ff5a5b2314c8bede9b43447d07ba02a56b6696ff86f76eb050357d6f8753f",
-    "ce0afe1bb7a32b891839220ddebae2c522cce3474691b67d64dea8dc4824c877",
-    "f3c52988a7d941757e1b63ebf4b7972acd7375e59025e6195cc8316235ffa222",
-    "ec8cad52b5c4d491c418a9fda0ad323a3646d04f3b99f001e5e039cca3405c76",
-    "f75cce69e418a85a7d75ba1f0ff801922190a41522b89132187e7f14566e26f1",
     "8488451741514cad9d1f97b1cebd0de0463fff5e0c1efc27badb363b58a5d738",
     "85c6c9cfece195fe5ef586376c1ad948f95ed3138157fb0bbe3ada4f1f58da24",
     "8c948188cbcf396488079c605bc1f2d8c8ef34a8ed0205d7dc396f6a6d0a0c32",
@@ -4000,13 +3991,18 @@
     "1b9d2a56d789806a2c5d1f3addb6831354f403cdce0c47e56415f1c79d064cf7",
     "7f724d5cbf2953d5ab58130bf1c5262080095c33a42c0b5309b4bf97baefdb61",
     "72adcf0eb6ccbf201355cbf479bfe400e903d2ab88b9db6f0f79811b7ba62cc5",
-    "6428d0de0f89677f916b65a0d5ecf8b098507aa6cecc63680e553efb8ab7e585"
+    "6428d0de0f89677f916b65a0d5ecf8b098507aa6cecc63680e553efb8ab7e585",
+    "c6cd1b1b37297a0fa8d2c1b0bd16bfac06c84dc2a358e43dab6ea5995ca62073",
+    "c03398f75ee68c3bec56c00b873390b623eb131c02531f3cb15d01a304df3e26",
+    "b52a56e9f379e8484dc79717af92e88e7dd087762bb5c3addd6cf8b1be87ec94",
+    "1cddd656249fb62f306b300e83ac31d0b2c441efd1bd70e5b3f956c503f8e31f",
+    "ff42746a1f20b6148a332206c0cc6c3104774f0f3bd1f48c45e1f763bc53bced",
+    "03cd7c6b7278fa47ea68605ef607191b8ab75bfa12e9a5ac1fc4b1f717ddbe7a",
+    "b54c033292120239f5971512b0e76607f7f04d3599a41cb3a45623e0b5a13c1a",
+    "f240979d7fb1ce85cc01dfcc01d4e314943b9d6b7c0b1121b45163d04cb7c265",
+    "9b433315b8454462a46f6419b17e019dacf260f110ac365d7ee551ad4b4bf4ed"
   ],
   "title_hashes": [
-    "affde2a57d3f78235773efe3ab1b183cf6234af937255afcc9a952ebfaa796b5",
-    "9a7b9760e18094773184ac8ea7a8d780c29f1841cc4091f9f24a8577a3ced59b",
-    "159ae323d837d586b1e5237587998e170cd56648bb1e0d676223f6e18e0619d2",
-    "44879363bd62488f3fdfa18fd38666f51d6046f43995634efe4f7dec5e5431dd",
     "44183c5e5475a6abd16499fe8a86bb468467c6ccffdf4cf941e4708406ee2445",
     "fa828fb8fed3d608ed162b663bc37884dc802837ed96166ffcf11e06bae7b6e6",
     "18f7f7d0c04a34dda5f18441ef3df1d0df0bb04f770120f3501caf513f362985",
@@ -8002,30 +7998,13 @@
     "a98979bcbcaafacdfd2dc0d6ac960bd92280cab721d636982e0f157b3aa9eb86",
     "5d11cae37fd9f9fb03ce944e456295e1549995a9f8030b0518de96397500069f",
     "d26ce8124326bf408c4b1a304bc5e1dbe80e1f6fbe37656870ff54170330ca57",
-    "00aa8d23ab911f1c8277cd69251292458d66fe84064a34d9a523f5b83d9c54c5"
+    "00aa8d23ab911f1c8277cd69251292458d66fe84064a34d9a523f5b83d9c54c5",
+    "b57c251c95fd6b308322358b28e341e93ebedcdba0187747bd781486a8abe4e6",
+    "58c7cabb60caac72bca72214bcfca6760a4a4cf218bdaaa62db9427aa8ca9f9f",
+    "59f9e415f06e9494091ee489f61edc53129309f66bbb420bc822c43c0f260920",
+    "d5ae1790419f9fafb7f50e0160d84b15a8523a791a715cf7dbe6d6f2dec4edf5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "FTSE 100 Set to Lag Tech Heavy Peers After Anthropic IPO",
-      "title_ko": "앤스로픽 IPO 추진에 기술주 중심 지수 대비 FTSE 100 수익률 하회 전망",
-      "url": "https://www.bloomberg.com/news/live-blog/2026-11-19/ftse-100-live-updates-pound-gilts-what-s-moving-uk-markets-right-now-markets-today",
-      "ts": 1795072119
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "联想耗资5000万美元全资收购BIOS厂商Phoenix",
-      "title_ko": "Lenovo는 BIOS 제조업체인 Phoenix를 완전히 인수하기 위해 5천만 달러를 지출합니다",
-      "url": "https://wallstreetcn.com/livenews/3202397",
-      "ts": 1795072122
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Michael Burry questions progress on Wall Street’s massive Nvidia financing initiative",
-      "title_ko": "Michael Burry는 월스트리트의 대규모 Nvidia 자금 조달 계획의 진행 상황에 대해 의문을 제기합니다",
-      "url": "https://seekingalpha.com/news/4674517-michael-burry-questions-progress-on-wall-street-s-massive-nvidia-financing-initiative?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795072182
-    },
     {
       "source": "인포스탁데일리",
       "title_en": "미래에셋, ‘TIGER 미국 대표지수 ETF 3종’ 올해 개인 순매수 9조원 돌파",
@@ -11504,6 +11483,27 @@
       "title_ko": "구글의 모회사인 알파벳은 총 5개 만기의 캐나다 달러 채권 발행을 신청했다",
       "url": "https://wallstreetcn.com/livenews/3202640",
       "ts": 1795099096
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "半导体ETF涨3.69%，在美股盘初领跑行业ETF，科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨2.72%，全球航空业ETF跌1.19%，日常消费品ETF XLP跌1.79%。",
+      "title_ko": "반도체 ETF 3.69% 급등하며 미 증시 개장 초 상승세 주도, 기술·글로벌 기술·인터넷 ETF 최대 2.72% 상승, 항공 ETF 1.19% 하락, 필수소비재 ETF(XLP) 1.79% 하락",
+      "url": "https://wallstreetcn.com/livenews/3202641",
+      "ts": 1795099303
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "FAA EXPECTS TO ANNOUNCE ROOT CAUSE OF ROUTER OUTAGE THIS WEEK — ADMINISTRATOR",
+      "title_ko": "FAA는 이번 주에 라우터 중단의 근본 원인을 발표할 예정입니다 — 관리자",
+      "url": "https://t.me/WalterBloomberg/38691",
+      "ts": 1795099307
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "NSCALE WARNS OF ITS EXPOSURE TO SUPPLIERS FACING US BLACKLIST –",
+      "title_ko": "NSCALE은 미국 블랙리스트에 직면한 공급업체에 노출될 수 있다고 경고합니다",
+      "url": "https://t.me/marketfeed/1081699",
+      "ts": 1795099309
     }
   ]
 }
