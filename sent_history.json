@@ -1,26 +1,6 @@
 {
-  "updated_at": 1795053479,
+  "updated_at": 1795053634,
   "id_hashes": [
-    "d28bf1efc1de7f619a5d11e203c15b7e46905ec910a10ac7558c62f9249c307d",
-    "6be1589cca5949e332285d9871723a546d304e3c2e89f907c670c5c14f111fa8",
-    "87982d76684d9d0e23f5778974a678d9b9714502805ce225b132fd37302c3187",
-    "f833f91de47a20b76fe7e65407ab6e4b56bc3e1d8880656b98b7b295370c1828",
-    "cd21cee7f18703bba0045815d0c5208fcfd18be668a81e3defb091890c8d15db",
-    "c6cfbcfb1366202c8fe53c2178687de66afad20513ac2a1e18bb6f2c44d6b7f1",
-    "111adb8ecb20217359d6b269efe5a14836c41e381a1b0744877e83e31f6e1f55",
-    "99b015920055f8aa3c18edd16fe8ec494d740f708e6d57bf08a8c5058885d03c",
-    "ce49ec949ae05711263c84f2e4e96163b3bf55be5439fbc3d8cb0e7563318c9e",
-    "6392d6b6fa8926cb6f37450828e9d7f87ef04d1d8c01c09497e8fd489d3650e3",
-    "1a458415d9d94efd64620d32387c4f72311f510ef986018cf90c5245bda0a024",
-    "4d4acb6840bf12080bd257f6d1503b899a68f41807fd81fff3cc017c3fc934d8",
-    "b52387280223c3d0d9233823257c49af47b5c26168391f202be79171b897c1e8",
-    "a7d03876be62a21d62a3f33f52e6c3d3d543bfecd4d808981dc8acd4d0527ed4",
-    "5e1773e24bb7468e03b32d89ea258fcc61d6c5e948407bec24a12510b5de2c20",
-    "dcb3440dbc2b58b3a6b968d7a8ddd0ac0cbd847d3afb15b5c312383a52d8c6ab",
-    "e69f74a9e3f3a8d6a986705c90bb9f95279b351aa26e1d92db0ce6655d499192",
-    "195ed7de478831e16373a1df9b3b5872f30041b704992e73165fb8cadc1e51c1",
-    "cc2c0018a1515a3c30e8fb7561270e003d1fde54b993ad4b72471afd3d5f0a75",
-    "2c1aeac7b515a80475e792a67fea17df002a92bc05c396d933e4f3ac3b97f64d",
     "1ba0c853b0a481be49f46613ea650fdc834aab2384ee27396aa6a6aee870cfe3",
     "1617fb69774931a8491bd36a82eb7769c432c415f7dc64ef62330fbbe51bbba5",
     "eac387a6a9f231eaa5640b627ca98a4a12ea6a0e15b8a178703f7df29ed3cf9a",
@@ -4000,21 +3980,29 @@
     "f738124e96ffc4f60b284a13039eb5934cc1eadfc5db1b36ff3a4940cd9b6409",
     "9b834f4d6c6b024e670419db8dd6c4cce8cdd2ecc7f0ecb528a0dc4761cb3a73",
     "f880059e49573531450700a7426cd5b8b8313a9fb8d84cffd91c4c210280a292",
-    "d9be25b035c7bcbc4f991753fd1bb5b2b6331529050bb2ab3995d1070264c4d3"
+    "d9be25b035c7bcbc4f991753fd1bb5b2b6331529050bb2ab3995d1070264c4d3",
+    "a9fe9edaf29b8ee51658c6fa4f60d6f03fc9747f6b3d7f90033b2a262c4b7493",
+    "4fd937eea915de5d3d0c9ee3dcc020260fe78a101cafb390e2103d99d7fa94ed",
+    "e19c429f57802f89e06e6a8205610976be68d1417a560a8d5b4307d03c65ea3f",
+    "6a33676ded8422aa0b157bb1c7cee7f7693d536af1aa4e2a72bf71f5ae1944f9",
+    "f9a0b3f2b1ef03cafdb4e7090b7ee782a8c3de3e38d2996b5bcbba53dd809d5f",
+    "da3afed7e7b6ddd060bda0e0da76830decd3fd1e89d335b241c6d5c701a339cb",
+    "4884d3a57cf43de9e3a92d954bdd702e210b4cc80b1ac9625868682b704ce72f",
+    "4449666a96889c72731037dd1ee137fce330f107539a12070b4a8f0ffd7bb3ea",
+    "1528a8779dd7abf79fbc3db9de03be701da072d6acfb0c042d8f8ea747f1edb8",
+    "f4ae8a53c65fe956fca7199404d6d9d486fde7287eb9b542f53edaaa79a9774f",
+    "4c10607bdec7be549bf2299afa9133d201af123960314e15c4a521c09609d498",
+    "b2086a85223c9319f0e938cfa0e290f6a3f5b34a70b125cb43075b58f5bd1a70",
+    "94552b2d73df2903e56f78a259cf4229026fc0321659fc93a1a5e70cefa2442e",
+    "ecdf3c5fb6b6fb2a5341e7c47391d14d6b8e7d0856bddeb2e7b07bede5f529b8",
+    "65542328d8caeb0b16eb2a195f336de1504987b21105356aae4f2f686a7f1774",
+    "041efcdeb6543c58d0f11aeb95bc91cf9a4e5691c28b67108832ddd4cf3254be",
+    "1496b838c640d2580f2bb20b67d6151de719282d5b8883569cc672233bad35ab",
+    "83624dcf4ac7aeceb166f1bee12a03551b91e85b1a795cd77b83ba9a6bc9d1d2",
+    "de16aae6fdc140b0bc3bcb4c50c02db791788e12ffcb760982975e21eb01fd02",
+    "4de1c954ac3c0c7a5c854a81832c8a019be352292b33bd91934103fa286f116e"
   ],
   "title_hashes": [
-    "7410c2c65b080245cf83cd7d47087a18488aba75dc38789ae048fe9c9dbad776",
-    "755a8775c761c2d3169406cd02efc90475c382de6c79c514346aa4e3a7f121f6",
-    "518fcbbe9b83cf9f537c68db58dfd65fd509fa6e3ba46277d2668f12b0621841",
-    "b32aef63a6eedc91d08421acc7bbe8e2d1c308c311073d1f71f3dc28aff2b979",
-    "a38c4ed42a0e3baf506f287d75dd1aea5cf29459a54adebffcd41e42d8dd8770",
-    "4d780f2449f3a079aad20f66a82af6f6ca45e4e7a6d7c07914decb302f1085c8",
-    "8b04045bcee105098da306c0c1753bd0a0c383fa54049370509242698720ba96",
-    "cee8b3f3a7f19979410082d6758b7e4b4bfd65ea2a37f86bc4a58a35308fae52",
-    "9ba32da046e7b55f8f2a14f64d9bc1b967bde319e0f8fd1cfb64b4cab2c67eac",
-    "414e57cbb4ff1bedf15039d3bc5ff5878c726acdc7eb5bba59af9f8ec162bf36",
-    "96c6c90284c30164ddad7bb0d859b16021736f5ceb8c3723d6aab41caa2a3fba",
-    "1a93ff1453223c80242017baedc476f8c639fadc0d6a1ca9e30f0d836176e4c0",
     "bd21999d2e0a203efa99c14f45a2e4889279fbb3c734ead5d79d0ce2b6646a83",
     "732b13415aec03acd9a5eadd93e599dfad43adad3d8a8856b6239970da29c8ce",
     "600c8a8b11649e4efe0cbaf46b1787e808f0dd97280ea178c14f2a6627c73754",
@@ -8002,30 +7990,21 @@
     "fadbb5708e579d41ee6ae8efdaf1ffb49927c2cc350560a9874a62c61ff40c25",
     "96c656676f556fd2983f5b6f70ef29f588054a8940d64d407c66cb6ef3231122",
     "1aa28b7b62631922e4498f5059d136a65fa019725a1f6dffabeaeaa7ef0347b0",
-    "2c55e2fa7cad0c6dd50868ede682c34bf4c5602c6edfd992ff9dc57694ecc131"
+    "2c55e2fa7cad0c6dd50868ede682c34bf4c5602c6edfd992ff9dc57694ecc131",
+    "c3a9df98894ffae5bad25fc02e02b2678ae97e3446bf0f534b098dcb2acd10c1",
+    "4f01d26df4885b63142e23ea8da71354d02fcd49ffdcde6710b4afe2da780b18",
+    "07f6a06e88fc4b5e2de9c54a8520ecb0c425bfb12f56ac696333bd0f912355e5",
+    "4e4965ee15ba51c74fc990d440f527e7e4baee3ca53fde06c372fdef2fe6b7da",
+    "14ade3d951992c43c83d490ca4fbe5f4ff015c1fa7e8de113b30c876884c4736",
+    "91f66cb651265adc4f8fb3d8f3a39d437b72010719c0949840ea6729b56f3c49",
+    "25bf44d8f8592c6493f32d6110d987d1a2db6de168e70e8d9aaff2449c6f32bc",
+    "5fefe66d71eb32e54fa8e7298d36f76624b83e42ad8386ac35d6f024a5cfe56d",
+    "84044b8f58453f09d7893f698504d950a3ed8f70467ab84bc49a6b5f7a3e6c2c",
+    "e8f7adc91af9b73d48f5785c0fb6d0d78ceba5187de623d849f39bb466e17dfd",
+    "81c9ed1b15c9161744f50bf6feb5b3d1d5968aabad1c5158bc959634b91d7e02",
+    "43f083fab7b73712953c9be42b1da01155df273947c7789e2a8a65b318cc7c17"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "[ Z ]: SITUATIONAL AWARENESS CURRENTLY STILL OVERSEES MORE THAN $10B, INCLUDING A $5B STAKE IN ANTHROPIC: FT",
-      "title_ko": "[ Z ]: 상황 인식은 현재 ANHROPIC: FT의 50억 달러 지분을 포함하여 100억 달러 이상을 감독하고 있어",
-      "url": "https://t.me/marketfeed/1080881",
-      "ts": 1795027007
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Fed's Barr: Critical for the Fed to lower inflation to 2% ‘in a timely way\"",
-      "title_ko": "연준의 바(Barr): 연준이 '적절한 방법'으로 인플레이션을 2%로 낮추는 것이 중요",
-      "url": "https://www.financialjuice.com/News/9858379/Feds-Barr-Critical-for-the-Fed-to-lower-inflation-to-2-in-a-timely-way.aspx?xy=rss",
-      "ts": 1795027010
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Fed's Barr: Will watch data to determine the Fed's next move",
-      "title_ko": "연준의 Barr: 연준의 다음 움직임을 결정하기 위해 데이터를 관찰할 것입니다",
-      "url": "https://www.financialjuice.com/News/9858380/Feds-Barr-Will-watch-data-to-determine-the-Feds-next-move.aspx?xy=rss",
-      "ts": 1795027013
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Fed's Barr: Economy strong with low unemployment",
@@ -11504,6 +11483,27 @@
       "title_ko": "브렌트유 선물, 1.08달러 상승한 배럴당 93.03달러 기록",
       "url": "https://t.me/marketfeed/1081215",
       "ts": 1795053478
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "IMF Managing Director Georgieva: rising global inflation requires tighter monetary policies in many economies",
+      "title_ko": "게오르기에바 IMF 총재 \"글로벌 인플레이션 심화에 따른 각국 긴축 통화정책 필요\"",
+      "url": "https://www.financialjuice.com/News/9858939/IMF-Managing-Director-Georgieva-rising-global-inflation-requires-tighter-monetary-policies-in-many-economies.aspx?xy=rss",
+      "ts": 1795053567
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "IMF's Georgieva: Stresses the need for countries to speed up digital infrastructure development.",
+      "title_ko": "게오르기에바 IMF 총재 \"각국 디지털 인프라 구축 속도 높여야\"",
+      "url": "https://t.me/firstsquaw/194043",
+      "ts": 1795053572
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "리센느부터 YB까지 한화오션 '오션하모니' 폐막…지역상권 온기",
+      "title_ko": "리센느부터 YB까지 한화오션 '오션하모니' 폐막…지역상권 온기",
+      "url": "https://www.yna.co.kr/view/AKR20261119067800052",
+      "ts": 1795053629
     }
   ]
 }
