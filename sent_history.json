@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795119660,
+  "updated_at": 1795119814,
   "id_hashes": [
-    "01fb66ba342648c7f24599ee2625d1585f42bf33f70683c8fc0e18c4f1645287",
-    "a44fe7be01a140903373181e6d216c9cfc8ad5eacaca6b4708a24cbb79ffb35a",
-    "bcefc03462a78d000c3558b59a5ebc56c8c71ee9927dcb0ce86860d818eaa313",
-    "456546174ae9741bd02d98c50dfe292e4e66c4c5ca0bbf364744b17dd3d7719d",
-    "59807dea262efddf0ef27e9f1f1b57db40aea5641d553739a82a22125c1f9d5e",
-    "737c520a8ced3e9d1f4e347f7ef9650dbb180fd69b6078c087c2d033a112bb8e",
-    "b193dd86b171efb84691ad29fa188b1d56e25031535becb695d36e5e22ea8561",
-    "11fd32db969795c0efd86ae8d15a27c3fb7018d596981809a0e7266ce27af4fd",
-    "3026ef2568312ff3745df955ca78dceefb67ebd26096e2e90b0edc0f3e2a65b8",
-    "2e4d3c04572b838db38bf575953a8e4d797917e0379668c96785b09e74951152",
-    "b2713e1f08bbf0c261d4668e22e6c71a623a6f9cbd49d196ed1f7b2f2d1e36e2",
-    "b14994b00dad076ccf6b63fc63404fcda4138342bcbdb5466ba1aec29750b585",
     "3cebc5242d03c91dac7245d8599a1aaed18b03fd973e72125a314802b2043e88",
     "c95a96f8144009d7f2039ea7aca0c330f5fd38351bf9d544d39ace57319a4a52",
     "54f4bcafc837456dba7f65c0c37d3f2430842c2994ed983b9e2c19416c429906",
@@ -4000,18 +3988,21 @@
     "c0404f50117dba7b29370d6a1a0a22c18f562b723287e4e88e94ea056051e855",
     "647e574b471aa0e623adf2dd597a9c9479c298d71118e07b3b08525c2eab913a",
     "f2a723d50f88e3ed445a5e236e52223efb019191b32f70de14a57b9523535a39",
-    "df23af0758dd0326ef86c0a1739578ed6a72733558f149889aad214ddb4107ed"
+    "df23af0758dd0326ef86c0a1739578ed6a72733558f149889aad214ddb4107ed",
+    "9b72b8c92467cad2baee41d571cc44c6883a45131bc40bd0f5acabaf3b985f2b",
+    "0b9152a2237610c3adbccbc06084c52c97cb6f344e52ff68909d03d0d3087c93",
+    "bc3cdefae23f585fcc0efde90f0900d81b9031f0c6be1ac16a81b054f8ed64d9",
+    "2854e31fcc1cfc8f4125ee4724397c25d04874fc087600c2869200788c4bec15",
+    "5654ffebc2597223a0f0e3329a691b0cfebd607d468188fc9052551c9f49c4fc",
+    "59de17b1b3405f136c790bcf6aa7d21d68229b1d9bf564e51d88757f7145673c",
+    "21318547f0ccfc3072600db289f401f819cb16eb36cdef8eae855cfadc9e1bdb",
+    "e1b230f311f7e223ad8b20fd036e2f296ab9b20c432fc6e50409120d0c68bcc7",
+    "5472912beff104f1e40f7c808c7621174a42f0cb6526e465c26312e147732308",
+    "099a461ab91183eb66a9269682a5804cf276da6bfac3b13b0428dacff8864968",
+    "d87d6386795c1dff76874ea0323af215555818161f4f562a1fc6af1c41ebdda2",
+    "8fd5671cefe05cb6f976f3f4b2ad7b93ae68157481437ba7a853f5e94231bb0b"
   ],
   "title_hashes": [
-    "44b71f2d76ea86ad5e32c9a0af81db143e685ee47f9485371c5ca132c35f47b6",
-    "6914bce254a39184938f19e0518ed3727f7ae77bca918dddd05cbf3a4ab2a653",
-    "d9c3d16ecfd5f5abb44174e557ef555be5ca28a55200686bbc7ce85d4b9384a3",
-    "376a30c8bc3ce330f8000d1c831b9dfdd1ddb8f211050d26da52997340e02b55",
-    "fa5e22811073efef5c122de50378e2e4719dc13430b5afba1b1243c439889196",
-    "39d65701066473df53aa00753ef8fe725d9c7ab8f5d76f139f8caf7b8282f388",
-    "f02a59eb5aaf7469ef689a1570775f9fc37c9c523376a4e7e51bc0b3c1bde3fb",
-    "032bb1e668fb18013be14cdc444f51c62f8d7d907cada714dadb1e06f82718d5",
-    "5d45e0d09c28930ac20cc2bce44b4c471676fc49a9628477fe04766527681b2f",
     "f034d585da6e88074b95e831b372dd9fd85ef02ce1adc3a5c121b6e4c66cc59e",
     "7e42db14b73afa4633cf8b0a135caa4ab1124c0e2664e9fc9345ee366ce4c580",
     "7bdc68fc90a496a32d020248b39756ef1bf9d7e6933dfc9f97b77e1009ff1a5e",
@@ -8002,23 +7993,18 @@
     "4b97c2ead91f572f56fbf6e205383e68d966f1a204e9ef1b897cf1272551a514",
     "528a64b5f9238c56ad0e381aea5b1521519b26fb0a3eb8badc205d2028218f18",
     "ac17306d52fd6ca21b6d353fa8f92ee3f13904637cce778b9238b05b425c80b3",
-    "2908a78c85cbbeefa94365e0864b1daeee379765cac0194a4e7dd3059f0c5efa"
+    "2908a78c85cbbeefa94365e0864b1daeee379765cac0194a4e7dd3059f0c5efa",
+    "a18a323e9255c7bd647a4c7427443f2f44f738d39cb53c2ad9e9a0220a5b794e",
+    "25c434a8d07532d224bcd9188457a35c784daf0297fcdb6cd66c1a16bf65f661",
+    "bb19d561cb3093c089db9cb9b87564d4193f1f24639f04ef7f620c85f0be30cc",
+    "fc403d73f0b8738aedaca6c87708b9e24585012c0fd9d40e51e070222fde54ad",
+    "525228883fb1619463f67b22b7638a58d46e2e2476acf67454047bd6cb6b2cfd",
+    "6b4ee2ac9cb2c92b959d3653f013479d746953c7779c4a5eb03caeb87cbc1ab9",
+    "77b9a90d2b04b9302e8c44528bc1447eb9c3e20a2a7f7b7ddb91a27736c49318",
+    "4bee3e2aed5dd2277041b5c2b43e9782763c1b50e19a2d211d01fd29d8291448",
+    "7ad70dd84414397632b4047739441c69d5bb89c1760a477674552c5c58813055"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Barron's",
-      "title_en": "Walmart Stock Falls as Forecast Leaves Wall Street Asking for More",
-      "title_ko": "월마트, 보수적 가이던스에 시장 기대치 미달하며 주가 하락",
-      "url": "https://www.barrons.com/articles/walmart-earnings-stock-price-bdd280be",
-      "ts": 1795093220
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Bitcoin’s SpaceX IPO Rally Faded in Five Days: Will ANT Follow the Same Script?",
-      "title_ko": "비트코인의 SpaceX IPO 랠리가 5일 만에 사라졌습니다. ANT도 같은 스크립트를 따를까요?",
-      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63423164/bitcoins-spacex-ipo-rally-faded-in-five-days-will-ant-follow-the-same-script",
-      "ts": 1795093230
-    },
     {
       "source": "StreetInsider",
       "title_en": "Tesser Atomics and Samsung Heavy Industries Enter Exclusive Collaboration on a Nuclear-Powered LNG Carrier",
@@ -11504,6 +11490,20 @@
       "title_ko": "MICROSOFT와 NVIDIA가 가속화된 컴퓨팅 푸시를 AZURE 클라우드에서 WINDOWS PCS로 확장합니다",
       "url": "https://t.me/firstsquaw/194332",
       "ts": 1795119659
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trump’s Camaraderie With Xi and Putin Draws Pushback at Home",
+      "title_ko": "시진핑, 푸틴과 트럼프의 동지애가 국내에서 반발을 불러일으키다",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/trump-s-camaraderie-with-xi-and-putin-draws-pushback-at-home",
+      "ts": 1795119811
+    },
+    {
+      "source": "TechCrunch",
+      "title_en": "The unfolding Jensen Huang scandal: a timeline",
+      "title_ko": "전개되고 있는 Jensen Huang 스캔들: 타임라인",
+      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "ts": 1795119813
     }
   ]
 }
