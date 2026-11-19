@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795114722,
+  "updated_at": 1795114875,
   "id_hashes": [
-    "f78688d23425cdba0ed2c1371d298af54f2739f262e63973385dc5f7043835ed",
-    "82a34a63701ba63da8d78d50e97babd1d5a78a301eb346998e94e66e51cd6271",
-    "e03acd44bcc06d614489a920f2f43a859692bc51a31f8995514fe4e7d8ac7dab",
-    "598c65c5c0794f95bdb1dfe23e50c7c19c2510201e769cb9e84e0f47f442d3dc",
-    "102e8aa2ca10c090d925eb933a81a42ff4d93ea13133d5382e6100b5ccb0f4cf",
-    "1c48fb60de03944a983418129a7cb579f06d4e62643665beb97045210016b7b7",
-    "62adf070a075864aadf2ccbbedf9646e879ab578e862c6f56442b31b76e0f345",
     "4f591a35e4ee06970654adf46991134caa95516b4db42862502fb0986f4cc6e5",
     "2c21c1a4c8eb979299d1187272ee4b07b1353d4ae6916179b0e4ba17c29b2b16",
     "42dc542b531b96f8c693f352ba20551c62cb3b7a9207a9d86bbe7c510382997a",
@@ -4000,16 +3993,16 @@
     "4423325a76abddf3867047dbd020a9586a40f8dd79717574ef11a177bdd9ecb2",
     "4ed3ed99e0edbd29053d87325d7471c4c9b4962a655b560f2fff2237c350083a",
     "47b410379bc7d210027611fe8ca026ed4404058b76f8f48ab13f90ed55f95304",
-    "dae6885a837a98aa4f51fbc9aa9374427c3722ad1fb37365099714ada737a25d"
+    "dae6885a837a98aa4f51fbc9aa9374427c3722ad1fb37365099714ada737a25d",
+    "1d2044c2c4b372a58f3d579bba91047dfc82039e3e4fe0180fed602b2522d3be",
+    "128295aca9658fdb8042fa502a6d261b58dccfe08efc65cfd877c8bc70c1ebee",
+    "bf5863cf588e860741bb729fa9cbc3f90b5d2cb9c64db1b25b1af38b00268c0f",
+    "0def331a2c408ec8f8ec26353a2395c5306251e2bffdf241a19b1ff634ac5a11",
+    "8b86bb62d82fd64f24dfe110260f9ad81106f333e1f67c465e0768245b043877",
+    "e45393af2f940a8ca82fd274856d0c643b4c7d918453373c4cc65c651fac6ab8",
+    "0d0dc3193932d99c208b8d3e9d547af7a61ee81e8534c63c225651d8b3e79fa9"
   ],
   "title_hashes": [
-    "b4f445e9c1a3c626733ddd06725c3b9dd322b280d9b257079d747d94d82cd0d6",
-    "2823c28d52512f1da65981bc53fb82bb83b9267d2eafe87d84d0265e541ae324",
-    "2314d0c6dd412fa333ff8f8386886da059f2cdfedaeb08e5444fd23779859a08",
-    "e618c8fbfbb235b72a4277b67d0826dd7481b954ba4c09f8592f99bcacba873f",
-    "f2152252dddec2cf0d4d69ee425c98612e09796455af3ae73a6cdd55ca8cb17f",
-    "341908c0a10ba0349dd7b46cc85b1e51e26621470b4112c8a2a8ec0544b8b586",
-    "9f0435a91fc09d0c22923730702db1795da7a044260a11b2ec9d39d14241ddc3",
     "20b2df6cb12cd73949a8a2c1be2c3fe850cd2c3a682a2fd27bfa56dca1fbbab3",
     "ab3eec6f0bc1f226d5805608df7c35fdbb0fc9e7bf2afcc8c60d867565587012",
     "cda07fa68b2319dbfbbca4fd110d9e5d50170a54b062c7e94e78d3d40db854ab",
@@ -8002,23 +7995,16 @@
     "a8d0d4e15e3dd8e4cd3b2d834e5218849c7cad75c5675c4df37d8ff7deffc03c",
     "f48d5f76e6c3d1f623559a4be68eefa14790a9fff750c12ba47cb97e75d2c9f9",
     "266c22f07dba4196a377b8a2954464b537087463ea9a6ea59308ab225478995d",
-    "022e578a8e1feeb2a5f21a5c0167738100a1be863bdb152c146fd91e88451fba"
+    "022e578a8e1feeb2a5f21a5c0167738100a1be863bdb152c146fd91e88451fba",
+    "cb768ea11783ee2b88a31da8c0f2964105769a11db5423f9d03858411f576615",
+    "a07b5be61744817d5eab89ebb128e6b404775ad4df7c365c3cd9ea90ea571787",
+    "7446719cb642189fd66efffb939e19e87a06f77ebefbfa25aff65b29e95eca35",
+    "beea693e6de1619a490476a8efa94076365ef60ef29f52a31853e2aca188df1a",
+    "f5f36779ad09dea092c992975e77f5d36c0bdc71ccd8c445624586d6d117d5dc",
+    "3dfd291056bed1f2150e2d49590a4e83a094904b218fd876d53383edbd5c6e07",
+    "bdbe4fc54ff91192272fe124278a3f0d582ccfcef664caa76ff110f6e4771cfa"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Loblaw Companies Non-GAAP EPS of C$0.74, revenue of C$19.86B",
-      "title_ko": "롭로 컴퍼니즈, 3분기 조정 EPS 0.74 캐나다 달러·매출 198.6억 캐나다 달러 기록",
-      "url": "https://seekingalpha.com/news/4674618-loblaw-companies-non-gaap-eps-of-c074-revenue-of-c1986b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795088323
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "OUTLOOK 2027: JP MORGAN SEES TWO FED RATE CUTS OF 25 BPS EACH IN 2028",
-      "title_ko": "JP모건 \"2028년 연준, 25bp씩 두 차례 금리 인하 전망\"",
-      "url": "https://t.me/WalterBloomberg/38664",
-      "ts": 1795088327
-    },
     {
       "source": "Reuters",
       "title_en": "Euro zone banks' data centre exposure small but growing, ECB says",
@@ -11504,6 +11490,20 @@
       "title_ko": "Anthropic은 월스트리트에서 역사를 만듭니다",
       "url": "https://www.bloomberg.com/news/videos/2026-11-19/open-interest-11-19-2026-video",
       "ts": 1795114660
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Rivian, Tesla, and Hyundai aim to make a splash at the Los Angeles Auto Show",
+      "title_ko": "리비안, 테슬라, 현대자동차가 로스앤젤레스 오토쇼에서 주목을 받을 예정이다",
+      "url": "https://seekingalpha.com/news/4674801-rivian-tesla-and-hyundai-aim-to-make-a-splash-at-the-los-angeles-auto-show?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795114807
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "阿根廷10月贸易顺差33.94亿美元。",
+      "title_ko": "아르헨티나의 10월 무역흑자는 33억9400만달러였다",
+      "url": "https://wallstreetcn.com/livenews/3202763",
+      "ts": 1795114874
     }
   ]
 }
