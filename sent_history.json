@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795049218,
+  "updated_at": 1795049371,
   "id_hashes": [
-    "88a6d01fef49dabf21d03e6fa19c48a7f9e5812f78b05f42e822a30557ab1e54",
-    "913cdda344aeeaf1088761d3fba3c2364679d6740857167458138d70107fac29",
-    "20282c840e2b5c3e29dbda574cea4020a98031e7422b004887266f2567e738da",
-    "004780bbf2b1edc828a361e2f677c6d309c0d7f9ce68c4d259bbd57cb0c093ae",
-    "74b4273096d3bb80975ab77cf1155e993c587e47ce560d110e95d67c7a9339d6",
-    "8c9024c3fd908db3d0ad18e1a04098f3871b704f9b28682abf0f11f96bb5e138",
-    "a3bfb0c19ada8e6666b21a7383b38e0f23ef9910e6485f7f75c2b2dcc7e82938",
-    "91b8ace931d7eea152cc5200c55b0e7da94b0220b787b50ab0b1d5b0fffc6167",
-    "15dcb7a4896a56b662d3474b07eb4acd3a908c8f02c8357ccd1d4221f806cb10",
-    "bb548db786858ec1a52e5cb8ff774d1a8f771050db0981579255097159bd16f5",
-    "c7a42a033b8dbbd8f3accc7c77014d54cbda62e6b7c2b3300e086600e2c4cb3c",
-    "a78c0356faf0c74e05ba9940bf7618825e3efd3f900aea6f81a955abef5aaffb",
     "95c89b8c1093d8ca16e62c6e13c9b4f83662bd78efe94f0d902e207e3e793845",
     "bad4d1b321a13a304d6aa0fec1dd503cc1c672798b458212bedf9c844203ff42",
     "31c27541b4e64ab65b4d64cc49ba8b9abbdc5d588e229d05c254e7d3546fea77",
@@ -4000,21 +3988,21 @@
     "8d0597251bbd29651298a75ccefebd482a74c55863b7eecac11789b031ad2c29",
     "e079e1f91e5a8137f9a2c152690279e6abf4356100b3985fa216aaec9272411f",
     "7f29035c0157b23452be9162a679f1297f07666a7c8b596bb768dc189a414697",
-    "8be6a2b0b45b4ce9d068f7d84b7ba812d6749146ba485f81e2abd1f552fa41f7"
+    "8be6a2b0b45b4ce9d068f7d84b7ba812d6749146ba485f81e2abd1f552fa41f7",
+    "f64f7f71b14656c28d630469089b5f405c492b8a08021398ac5115c53f829f05",
+    "dbaf5f03e50a321e68ad7e41aa9d1b86d0569bb5c42489c8515e9a567a5af895",
+    "1867368715bae068f2ff8e1066454919fa4d7d683fb965dbe0ab56b5168e0f22",
+    "e32fccf8d12232121ca964864ddf691722e85f0ed6f64ebec77d2889438e5543",
+    "ef94addbfe9b59c42667cd2da2191ec929fa3311da4df907319ace9b3dbaa66f",
+    "0c4948f88fdc16583560822366ecbe9f45312db777f9e6e386a6361e961a46d9",
+    "8a43b0db931943b5cc3c38a9a3224eacdcaed37c43cfd6e5d8c5b7da89dba763",
+    "b4c3f85a357002e43acfb76cc09511f3e9494da5e84bd5f52dfce6a5d580e8f5",
+    "3a9e90009f74a7cc1a5378548e7fe688636f4e3b022f6288f72d86066485a076",
+    "20c5c27cfb5b5ea4cb3794f7761833056bfaf476da426200348c70465a812df3",
+    "93e4905079c3548392f0b5fc912e716c7054e2036bd159a198bd5410ec4444d5",
+    "639fb33cd2952e2726647d446983eca896cb7c3171fc4243db734afad5e1f380"
   ],
   "title_hashes": [
-    "d3d3924cc107088837f87f4b04a7c3473c8a0a1cf0a680e21aa3c5c842399a6b",
-    "260a9cc334d72831b9de8bdde3e4d071441a8c56492fd84146aced6637f65d77",
-    "10eb6370152dd12062181c2a2b43ff720054a189b620f4316a35a2f75e100468",
-    "18786e10e3a4e7dcb927933f847dbe0886e9332084371bf876b4992898f88c25",
-    "504fac83093a1fad161d8de59da4cee1621d9fdf4bbcbddc32e0bdf5e9f2c8cd",
-    "e96712c5a9c044e20582322fa299cdd3e3b6bc8843f1db6dda8f26315d9efd5f",
-    "cb62b65d85dbfcfcc3190199cd14faf3b168c11b965ac5d7c86b0f0f8f0f3684",
-    "9c4ed7b35172cbca76d55b6ded370b73e1f566bd108c1cd0497f8ba823abbeca",
-    "bd1dbf876e9fe9cdf2ba8900e3f5dc6a83d2b910058c36d80173bdef5a2c8ba6",
-    "6de5b8c3de9c4b900976ba5cb58131e1ced01fdaf7ee6e9452e072642521abbc",
-    "166c3ad9774cd901b9faab3734ffbcb112e09ac5a5f6cc738a9eeb32ea9a3ca7",
-    "cb1f5cc4454264f932aa284c70cdd59ee5f4c8003f08162daac487fd133d34dc",
     "c23a4ffa5fc879d9dd76cc27db8fdc7595047aa1ab5d67324c52287bf71a5b51",
     "bfa0e09064eb47a2a3e3f7a39917f6fe9c2482f2b7648d9faab4fae11b247e77",
     "81da739e70d4646dbb616809e7ffb12137711e5ffcc5a0122e4e60abc3987316",
@@ -8002,37 +7990,21 @@
     "7be634b644b1c0f840ecdcf2e5755465c5e135ad02d0b9c64ba55c61e6c408ad",
     "d8d1c460ebf4a4d2dd9686e6aeffb2a286ce32cbed84dc93e18ab3c5a1b1e342",
     "9e02072a22735c463299b2585ae5b82493025b776f097aeabea20dd660b1c357",
-    "5e7816b976f77afbd491643a68a700aa0c9a9793479e73eeeadd3274ec28b66a"
+    "5e7816b976f77afbd491643a68a700aa0c9a9793479e73eeeadd3274ec28b66a",
+    "cbf9f0b3931e38c642782e6652ad50f67ef3b6b2d1e181c41961061b17d6c627",
+    "80f67c6098d7fd5f77818fd8206e20461eb944d5e8d3b71b607cb1d8b726073f",
+    "7a141873f1ed3ec6fdcd8ee235b967e5c66426eca28b1a960d6f730ca51fa8a7",
+    "5c9c3791a71e727eaec95b2df0be30c08b50dfcc1f466c0aea0a678d784c9a71",
+    "78a5917bafb99d87176820901755e05f2ee9164225a6af28cad5d908c67fd930",
+    "af6d19ec50f21bf86b29c43008e7d556639160675686658912cf800da9aa9834",
+    "ee3b9ee698d7957a2e8eb6718524cdcedf81271f4b80668a68e6d367984769fc",
+    "123392596ae3c344922f8b371893966cf834f47455b86bf5d35fd34bbc1ae8fc",
+    "c2cd6a86a36d8d981ac77cfd5f62c71f1bd844b728a1967eed637b40edecee2b",
+    "b11e79fda728dde49be30d690a6413d91771fc4b3de652ec894c2d5550f269d6",
+    "a4c82adc7207152aa9af1d7f6be19884bf0c2e1d5cee5f70eb50e108886a7888",
+    "bbac5bab733a1a4bc92864ad5db4ed5e08bba25f737570df96a2ea16f2ca462f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Fed's Daly Speaks at the 2026 Women in Banking Symposium Keynote Conversation - WATCH LIVE",
-      "title_ko": "연준의 Daly, 2026년 여성 금융 심포지엄 기조 연설에서 연설 - 실시간 시청",
-      "url": "https://t.me/breakingmarketnews/178769",
-      "ts": 1795023303
-    },
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Fed's Daly: Consumer spending is resilient even at the bottom half of income; resilience is a strength but also a risk.",
-      "title_ko": "연준(Federal Reserve)의 Daly: 소비자 지출은 소득 하위 절반에서도 회복력이 있습니다. 탄력성은 강점이기도 하지만 위험이기도 합니다",
-      "url": "https://t.me/breakingmarketnews/178771",
-      "ts": 1795023312
-    },
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Fed's Daly: The labor market overall is stable, not much dynamism.",
-      "title_ko": "연준(Federal Reserve)의 Daly: 노동 시장은 전반적으로 안정적이며 그다지 활력이 없습니다",
-      "url": "https://t.me/breakingmarketnews/178773",
-      "ts": 1795023319
-    },
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Fed's Daly: Inflation has been too high for too long.",
-      "title_ko": "연방준비은행의 Daly: 인플레이션이 너무 오랫동안 너무 높았습니다",
-      "url": "https://t.me/breakingmarketnews/178774",
-      "ts": 1795023327
-    },
     {
       "source": "BreakingMarketNews",
       "title_en": "Fed's Daly: AI could put pressure on other goods and services.",
@@ -11504,6 +11476,34 @@
       "title_ko": "일본 토픽스 지수, 장중 낙폭 만회하며 보합권 회복",
       "url": "https://t.me/firstsquaw/194002",
       "ts": 1795049216
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "원주시-건설협회, 지역업체 수주 확대·공공발주 활성화 논의",
+      "title_ko": "원주시-건설협회, 지역업체 수주 확대·공공발주 활성화 논의",
+      "url": "https://www.yna.co.kr/view/AKR20261119046000062",
+      "ts": 1795049236
+    },
+    {
+      "source": "전자신문",
+      "title_en": "ETRI, 데이터센터 '메모리 부족' 해소할 혁신 SW 구현...美 실증 거쳐 사업화도 추진",
+      "title_ko": "ETRI, 데이터센터 '메모리 부족' 해소할 혁신 SW 구현...美 실증 거쳐 사업화도 추진",
+      "url": "https://www.etnews.com/20261119000074",
+      "ts": 1795049239
+    },
+    {
+      "source": "전자신문",
+      "title_en": "온코닉테라퓨틱스, 근육대사 신약 'OCN-501' 암으로 확장…美 학회 3건 선정",
+      "title_ko": "온코닉테라퓨틱스, 근육대사 신약 'OCN-501' 암으로 확장…美 학회 3건 선정",
+      "url": "https://www.etnews.com/20261119000076",
+      "ts": 1795049367
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "ANTHROPIC RAISES IPO PRICE AMBITIONS AS IT SEEKS TO DELIVER THE LARGEST-EVER STOCK MARKET LISTING - CNN",
+      "title_ko": "앤스로픽, 역대 최대 규모 IPO 추진 위해 기업가치 눈높이 상향",
+      "url": "https://t.me/marketfeed/1081142",
+      "ts": 1795049370
     }
   ]
 }
