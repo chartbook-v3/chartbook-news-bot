@@ -1,27 +1,6 @@
 {
-  "updated_at": 1795052050,
+  "updated_at": 1795052200,
   "id_hashes": [
-    "27215e18074b211c4819dc6a1a38d9524eff6047a0b152f6ed946e31194090be",
-    "847ad14756d4a4fe4a061a0abc587d5e2e1daa1b9e6007d254d388eb2f83ec40",
-    "a592dce627686260f9e480edff7221a623429ddba6c7d7fb5557720ef8fb227b",
-    "4cad159732f5ce3997fe69ba407feefc0284fb66d2296ebe75208e7019417f18",
-    "83861841e4dfdad5b08c0ec000cfac48b3aa8fa296c57a7c914ea528e74d3607",
-    "162ef4d1ade3aac9a80a8594fdd7bcc3633ff86183f1371cc33c82640304ac98",
-    "c575d80107385b898155a973d8d94c1e217a74ff5761f95224185b4be76a4502",
-    "6d1218bde7f2a85107650425e1b45b364c5b18603f83f76e705068a384ac842d",
-    "06c872e3e9c5a569bdfa8a182095e6906be9b7616fa958c97a33cc6e2464fc48",
-    "d97f42b6e557e653549d66c567cf5287c96dfd9bbb71c1e7b4e01d64e5f99fef",
-    "a0ca50236bbd701061aa66af276048fa25df99126dfaa7056e452772b8203a68",
-    "c74842ddaadf437655d64207ebf9c2ca3affb43306b1f2d16ab601df3ee396f0",
-    "74e31895518a934d67617a2d65b8b9908e28c1e85345f4d33eab74b33cf48eb1",
-    "bd9114058acbcb5e097514459376cbf4ec0f24a2d2a87d0c0c3848e32f50b07b",
-    "34c70e752b11e2961c600cda144d503319f4ab92285f175dde9af3ca2e9c3f28",
-    "04107540455ad7272565b9350f3e4e8405730133c400be69673651fce22294dc",
-    "a8b09e94b075bd9fbec70427a8f55523c87f109c1393954aca282176e60f2a46",
-    "6518370563e1878752ae0dff564fa069b8f5c8030247d35e4ca339bd2be73caf",
-    "377e6d407bd8027f2a29366ca14503f698513929bed2a507995ab6b4d2b55004",
-    "e683e3bcf8eea01a9c6fdf9d23910d3c0a5055ee15ec08f6ceaee4f62820e1ee",
-    "ec91949e3453f602be971fc4da9036db2b8b459f019a802fe70cf474440a11f0",
     "08796d3221e9d54cbd2271943a835db351792524f89c4b611f75e9f42f965f87",
     "2a7dde870282b7b83a07a4f8003dcbd7369e5710d0ac5c99eba33521cb05718c",
     "d91e1e927354c1e495c9e3284bf3e43a4c69edae339b71738d02c0963adf3a58",
@@ -4000,22 +3979,30 @@
     "9216ecafb9adb15b22b616bdbb73634b61d68d6952a2e8feffe5a10c50e114f6",
     "070e0bc845813d379eacf787f75463e96e9246428fda3fa5b984346c9d064ac8",
     "c1a65b2a5541c1feade6940f4eb3b80e945c9472903b4cb17d319f122eb4b11e",
-    "cce6f42697f2fd122b67db5a24330eb44f41b1b79ecb574c0f4b613961bfbf9e"
+    "cce6f42697f2fd122b67db5a24330eb44f41b1b79ecb574c0f4b613961bfbf9e",
+    "9c496991d6db31b0d776c31dc07b17f1fe53aacaeadf4a46bf18b734353411af",
+    "e2d366fee37ab50294afd5fa84737cf7194100ecf5ab2c80109b1d273c4f9b9d",
+    "c09e2892c1f6625f5cb5a40af93593f0aa7e7170967b5d1e817aa95870a674c4",
+    "03d10c4c8846c844353d0940bbc443d2a9fa3b1751474b6de80bf3eb61864615",
+    "08c9fc71dba706a1423cc1b21e6450afe912d6864e3b8a5d669dd30c1e39dd0a",
+    "c5c5f6fc25362ca1a975f38ccce51cf0e6a682f21dc998847656169676f4d8d0",
+    "c4f68b0f7f930f4876a987bf65b4897f27a0490af70d1bfadae46add832678ce",
+    "9e86beebfe6b1452b9ec4783efd8944720cf360319a146a6a94a74e5465ab1a5",
+    "6d7663f3e8dd9a08118ab075299e038e17cb39fad142d313161f60d0c6a3585d",
+    "56242106251b5b0091d7e58695a24d56a9eea426d73dd49477204d1e557d8822",
+    "51517c347b204ec0ce9fad4f16d23860f82d3eccec8f05dbcd580823227ab3bd",
+    "c547c565310540c832fbe644bf6bfc7d84866f44b274bacbc0c0c46e2044d954",
+    "7033971f7999e971b907ca9e6f159083ed36534a4d11d90237eaf3c47d581e0e",
+    "32ab74c388ce7f1ceaefdc973ae687f2cea2c6cc3a748277d5dbad2570ff9f2a",
+    "dc04da9b1406d9d0b8a6abf49622a7a3f93dda49df65ff71de642305aef1d8e6",
+    "f639b53884f08f3088218abdfdf3ca20bb6d324f9e1683dfa700020959c0c4c6",
+    "14a176f3fd1bf73076c3b254198b9cdc75df4776ed174a4eba5e5c5673134106",
+    "5330ed4a8c74657c5418509acf5c56b8f7c019793e5352a6acc5bbc8c5199fb1",
+    "40533d96f5a48088de785f6d5a7cdb11cab4fa44af9e3fd4bff76b3b232ea51d",
+    "d4660e533de33bd75d11194ea46d266224b4ed6f0994334de92bc51cb3e074a6",
+    "9c5a91c10e8627f6bb27589d9da913f7c4e73cdfa598e4b60fff27f0141c73d7"
   ],
   "title_hashes": [
-    "6bb8788506343bc25fdd002b4e8272af9852ba94a5fee5781f2f94bf007b3924",
-    "5c5bd53f9d80514583ab4bfeea7f85a5238fb8216d33e85e13176f72a467bec2",
-    "db1954628b0d5b08aa327c2fe3c374f17fa6ad3bb6e65b19b9cd5525b800795a",
-    "ee25c1709850972b2c9381a20cf544e4add43b6d0e7947c93b3af4fe8ed68f4c",
-    "d68cafb655ad0604fea20bc06d20425a70cb02cd63dde99f6ca4a4e76a3919cc",
-    "98bb1ffd18f3a4cc2a1e013d464e0f4c5c6e8f13b10e81a0609bc9ac45c9c834",
-    "7b01636a69f8cf194498c2b3ae67f9aa0a62a5d8ad1538c6d4d41f8fa4ee72e0",
-    "c848ed833c8fc933d27b433a750ec1039c1f7cb5f390547546d744c338ff23b2",
-    "c97b929d5fea60a4686a0bef4ed4fcb139eed85c0f5e88f84f4bceafd5cbc5ac",
-    "64f28f8afd0b07511711e0e96dee242505d23de9139d28b94aa51643696b4cc4",
-    "53f018059918c7e3e76beeb2f9aa8ebc953f6bf1e460807584568aa7bdd49598",
-    "fbb0d4ca3ef70082dd14ad956d91d69fb2191c90c260eec8061adcf571f59311",
-    "81eca838a824e1095f9b8da3f48cc40be3e35a371bdd1c07ac81bef87cf0de9b",
     "93277cb5e5845fb2a156715894974a7e09afe8cb1ec29b7ff2b50760d2c4ddf8",
     "278c3eeb4ebff03f585a13ddcf0dd987de5a0ae8c1fb5d5743839a872cd50392",
     "289b0eecb4ebacb7e47793b819441f2d75043a9bdfd1aba5da63eb22fa650303",
@@ -8002,44 +7989,22 @@
     "630b6b85546bb4e344259529cf65fedc67c6cc68658e331d65c779e7d92f8fa8",
     "09f0417bcefd33f40b7fad8984e7e315df4244e729ec30f82c551dab7be7ac8b",
     "efc5a0d8d47b264cc645c214b200a98a8e18793cad56d8701f54aa4f1c93d2fa",
-    "971479dca742615c7b757c71f296b382277aebd2f1757bb39b10160432796c64"
+    "971479dca742615c7b757c71f296b382277aebd2f1757bb39b10160432796c64",
+    "ac445b20305efb76717970115b44f6b5cbafa96e32858cc8ccca423387161bf8",
+    "6f69849cfa3687b05d8d84e0b67760fe3ad5bebdc8af98f3f0e83ce3116d36b1",
+    "075709c3687a9cf28d5ab8b4e9aef3fbe2058730153a46cfdebd39e94d237c74",
+    "7e18fafdad3ba53aa3e6ece6bdf2048d1d1bd8d81e9b3df61d4a70548e1796e6",
+    "67344d72195b876cb72ad9704851e0c2eaf2ae2088bbd0b2528344f26bfd38e9",
+    "d88c7287ff6af0df1c999141302483ff5293429042905a122f92393213a0d2fe",
+    "f687063baf7e7b512655bd284fc932b9adf4e5488a4931318eed573b60d532ba",
+    "1b87d7b274fceb624a6f0ce120083c724e11a8f505454999da998c3fcb9a7a1f",
+    "d9fd13f2a8cc283da2ef7ace373c3910d3e2a2194bc93b4e28247e5263a6caea",
+    "786bcf7c2e02992918d7a424bc3ee24df9f78608591fc5daeb41062d66c89c05",
+    "39f08ebb830ab2c86f7609499430a371ef38005bfef815b9a787548bbde3b6a9",
+    "d5aa341bc61f3cba6d46f7454f15ae7c7a5802e8ae3a04fd54bc707d1a1acaed",
+    "c5ae0a85d4f5afc26c2e28e7b9fee9d5b135928b49c77527f5f275657ae859a2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Skydance’s Ellison Eyes Collaborations With New Investor Musk",
-      "title_ko": "Skydance의 Ellison, 새로운 투자자 Musk와의 협력 주목",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/skydance-s-ellison-eyes-collaborations-with-new-investor-musk",
-      "ts": 1795025173
-    },
-    {
-      "source": "The Information",
-      "title_en": "Nvidia Holds Its First All Hands After Jensen Huang’s Departure",
-      "title_ko": "Jensen Huang이 떠난 후 Nvidia가 처음으로 모든 손을 잡습니다",
-      "url": "https://www.theinformation.com/briefings/nvidia-holds-first-hands-jensen-huangs-departure",
-      "ts": 1795025176
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Akamai Technologies rallies 9% on management's optimistic AI outlook",
-      "title_ko": "Akamai Technologies, 경영진의 낙관적인 AI 전망으로 9% 상승",
-      "url": "https://seekingalpha.com/news/4674327-akamai-technologies-rallies-9-on-managements-optimistic-ai-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795025179
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Auna expects 10% to 14% FY 2026 revenue growth while targeting 3x leverage after Colombia contract termination",
-      "title_ko": "Auna는 콜롬비아 계약 종료 후 3배의 레버리지를 목표로 하면서 FY 2026 매출 성장을 10%-14%로 예상합니다",
-      "url": "https://seekingalpha.com/news/4674332-auna-expects-10-percent-to-14-percent-fy-2026-revenue-growth-while-targeting-3x-leverage?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795025181
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Modexus Solutions gains as activist Jana pushes for sale; $500M share repurchase announced",
-      "title_ko": "활동가 Jana가 매각을 추진함에 따라 Modexus Solutions가 이익을 얻습니다. 5억 달러 규모의 자사주 매입 발표",
-      "url": "https://seekingalpha.com/news/4674324-modexus-solutions-gains-as-activist-jana-pushes-for-sale-500m-share-repurchase-announced?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795025185
-    },
     {
       "source": "Bloomberg",
       "title_en": "Nvidia Earnings Impress, But Succession Risk Lingers",
@@ -11504,6 +11469,41 @@
       "title_ko": "[속보] 5천피 또 깨졌다…코스피 1%대 하락",
       "url": "https://www.fnnews.com/news/202611191029191607",
       "ts": 1795052049
+    },
+    {
+      "source": "이데일리",
+      "title_en": "“중국인 관광객 몰려온다”…여행·항공·카지노주 ‘불기둥’[특징주]",
+      "title_ko": "“중국인 관광객 몰려온다”…여행·항공·카지노주 ‘불기둥’[특징주]",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=02404246645647360&mediaCodeNo=257",
+      "ts": 1795052071
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "'매파 금통위 예상되는데'…IRS에 녹아있는 금리 전망은 요지부동",
+      "title_ko": "'매파 금통위 예상되는데'…IRS에 녹아있는 금리 전망은 요지부동",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445497",
+      "ts": 1795052075
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "BoJ governor Ueda: July-September consumption decline in GDP data matches expectations",
+      "title_ko": "우에다 일본은행 총재 \"3분기 GDP 소비 감소, 예상치 부합\"",
+      "url": "https://www.financialjuice.com/News/9858911/BoJ-governor-Ueda-July-September-consumption-decline-in-GDP-data-matches-expectations.aspx?xy=rss",
+      "ts": 1795052077
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "BoJ governor Ueda: consumption steady overall as wages grow steadily amid tight labor market",
+      "title_ko": "우에다 일본은행 총재 \"임금 상승 및 고용 호조로 소비 전반적으로 견조\"",
+      "url": "https://www.financialjuice.com/News/9858912/BoJ-governor-Ueda-consumption-steady-overall-as-wages-grow-steadily-amid-tight-labor-market.aspx?xy=rss",
+      "ts": 1795052142
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "JP모건·씨티, 엔비디아 스캔들 업체에 자금 지원 논란",
+      "title_ko": "JP모건·씨티, 엔비디아 스캔들 업체에 자금 지원 논란",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445496",
+      "ts": 1795052199
     }
   ]
 }
