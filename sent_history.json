@@ -1,28 +1,6 @@
 {
-  "updated_at": 1795089911,
+  "updated_at": 1795090082,
   "id_hashes": [
-    "0c02cff823e5f643039b0d9291f65a3cfedab8bdd13747f5e03390e53bd1d56a",
-    "e7f1f6365e60fd72dec25aaaba2d287a2a0988d3f5d68de962f1ebee5f7ddafa",
-    "0ee0a1736206570e17e8c56641b91c1af9fec025891ed55ab8fb0e149ad4df71",
-    "91c0b7d97bf894f1262c1139560dfe3720f77b6556053cae8686b87b06b53b8d",
-    "5953fe08124b0320f3a60c8d415ac033fd7dc4f847a19810a9573438ffa165f4",
-    "66c386a4ac8dfddf55e664154d75374d743c98bacd7e6e1746a9122cc5bbc4f4",
-    "cb94d28c0c0082a1e9dd2670ab66523465d23fc6c5a1c4c9efe14cc3a6af3362",
-    "c5739347d1c10bfa372f691c4c9f3be326cf542d7701af75cebda550bf4e35e3",
-    "d227ffdd8ce164b91cc0becd8b1befd8d41219a838bb90aeab8f8af6693caaae",
-    "0cdb856e317b45e5326baa9adeae675a9d35030839f8733342e622acfcf73aad",
-    "4123297503fe4cf0bb089912578096e1f785e2380b6a7f1d69ee5f26681f04e2",
-    "b4d156bb87f5e0205dde79c2a0d47b734a8e2e273314c0dc5fb576fe0e1896e0",
-    "b609dbd152774569ff382e00da827cbd9bd1ad68f4aeba3083a7bdd9437e7075",
-    "fcc552154798dc096cce4459763a61887a6115cc59e4eff9d8482fd8552b15b9",
-    "e820f676e38337d21023107f92adfe269c575c3f2343efdf81ae2aa6f9a31d9d",
-    "4fd6c5c1384a1e0a4211ad289ace59082c582d8188707633dbfa468975c42063",
-    "4706aaf566b8dab67c8854610dee532ff99319fc5d701eb46cc89d3502725992",
-    "c4de122ee83b3b4f09988865e4f94bddddd2631c35a919044043e9ce1be2058a",
-    "621aa18e484024c857b6e5e05b822d325af287b3c21f55e46dbb82f67cb018b1",
-    "4fe05b91228e5006d331dabc8c5e824cf2099956f40d24e80744ad92645fcd50",
-    "443145fcf28baf3b642316d979fb1c9ccc07a362898bb6aef75f24270b139dbc",
-    "88a432fe3f26454dc1e89f0fc7c89264d2153450a17e90a039bc4cc9c0ba0781",
     "3b87ac5596d24a2f485eaca790cecd3d2e5b8315ec62b94570e8db3d9b481315",
     "ab4dde4a260912d9ce79e70008f713f85112c697cdf7cd52b881ac4cef32ef61",
     "647b5a07a8e1cfd9d298af20ef53ad6f660c0dda46f2b56f0aad814b2d6076d2",
@@ -4000,27 +3978,31 @@
     "e957c15ffa9c1af54a1f88fc273bd0fd7c4a481c4263bc9ec7d3adf2f13eb048",
     "c81afac5501b2b8ac745dd8dc8b649de61e98cd882095f1f6e2e0b8d9d35b878",
     "897533fe390942f939e4b1115bbeb8461257d6fc1152704fb85fb8e8878b88f9",
-    "d8b951fe6e334851f751c1ffc731f32e4bf8ede0062aab4e08b3797180aa866a"
+    "d8b951fe6e334851f751c1ffc731f32e4bf8ede0062aab4e08b3797180aa866a",
+    "1be5ecc6ed34a755e963ab51109ea9295c7e73312c03c2b2d848a9bb355a8d30",
+    "9e466dcb7aeac5760e78ee4acfb05e4e8872ae971f7bb5b640df6ac4758e4797",
+    "cec17e1155bf3d8063311a3c6a1510ff5ae909776500b3d1912919da654a0322",
+    "d3e6779c9b6b1e70abd23ba9e537843474af27c1e83ae3b404887d2a137cbc8a",
+    "ac2e08c51e9b43390145d543122d485e78f29b8d1ae52ded99342e89ec85c7f6",
+    "10528ce189729a484d3841d97f5881ce8b1401a0fd93c5e8a9f3fe84dbf100d6",
+    "b921b0e71395da5797c4b9757e681dfb9054c2af942669da974569d0501f4731",
+    "2f7acf517e29f40e49a5cd4fd87822f6d51d42be428648b81ac2c3b0afa550e3",
+    "878b261a47a8a1572abeb558ae4208ff5dcf61eb3c9731063e71237655faf04d",
+    "bbcae6fbcbbb2869d75b616f3c5ae37f75f100fcfa30628c936589bf90e6cdce",
+    "92ea94ed8fe6eae396567baa82b797623913f79e55ba23ff7ca7bec130932b12",
+    "583a16c504b7e1344b0df768c1c91c95bb17960337fc81fa79f49c1a116e60b3",
+    "50b8d568fc57b568529b1d4b1dcffc7d7ea9fc7005a1a6776fe0989de6155856",
+    "56551254cefe2b6f9b4b60e9b3c915144b36fc7e51281701a24f1e5308c2b4f5",
+    "eb6c39ef0bd75e66675c5037f4ba95dec2c39f4467cc6da6abc16384938bcad3",
+    "b0a165c788c12be10b69097bf15837f09b5e9c7f336866c792f71e39a3e1e5d0",
+    "0674b61fc3705e3d06b92a76bc79fdbb220e9cad9d4d44595eb157ea9914a8c1",
+    "12b2c5f8c6e94b15e634368277d5a2925553a9171725abebbb04deace70aae4c",
+    "0af6ec6a76b486fcc8ee62064357dac7bc8ff1fa8b7ecb053bb6a3320c39d0d2",
+    "7a7013f8981111cba5e99ce4be37bd3a427d99a3b6c3baf18e8d6d5af79cb5d1",
+    "54c3d79a7a023857a919cdb4f0e5f9c93c1e252fdb5dd238683e9a932259af52",
+    "40bf1034508b290e4930763d6d4df25315dab0b196aea7457b9c5446fde41e98"
   ],
   "title_hashes": [
-    "6c4020d680aec9394f19e653716f5c4cabd8fbcb73c1300ec6adc10c99f54758",
-    "4a193d45d73b11af9d20c5725ec130477b8dd5043464180b64afa9c4dfe512a0",
-    "2a709c40f09f133b46f4a3a0e299a3a483e0f3dd0214852e7455be33bcbcbdee",
-    "04cea6b215036176fa24b8ebe63ab81ad838a3e2a5e6d1abccf526977c16c930",
-    "0441340d816670da528ceebca1a9dcefb56a46e02b520a8e05b25e9f96e6971a",
-    "85a843f3543d40a2400a805adeb67d21b280c33ab8885eb54bededb1c83c5978",
-    "c91fddc820319f711cf715b68e76bbe6af72ba67d91e7b448e08a4cf7cd08e43",
-    "0e60bf9c3fcfe921671065175c7e65b41e54f5b904b774fd3b298a55b45084f0",
-    "f988301b03068333e5b9b8cb1483bc5838786f35585d2220ea9d742883073277",
-    "3e37807004e14320ba62b04c5c3a8b22efb0fc493f1227f28a5405e6c7311708",
-    "dddd7f1843a5d91c83ff0a1a4a2495148774c0ab2930f54085c591cc4f345ebd",
-    "7b0c4f99d2227f017c90c91edd3bb0db96cda9f00e8a908811fb2852aa29b203",
-    "4eea5ed49c4a046e7f8fe1f16cc15917d59e0c6539985a3e99403a3c7d980774",
-    "2685d3d282ca31c7d9a4df817390121a7b59fd69d6cf13c5de87423fda77b943",
-    "acc01b082ad994de5cc65f28efb70cd60eef49d3abcb19919b625eac2d0251cd",
-    "67e0ae4272ab5ac5e4c4c348296430b426f617069c026581da44af528bb8f309",
-    "52ec4cb04d8c02df972c0b70a5983a8ad61b52e15bc98553679aac12fad2d16a",
-    "6b3efd9dbb1fc1c30bfaae281e60c3d420997eb26e5e14c8ef09cb2873b3d1d1",
     "c7878bd7620f174489f86ba72682abae4005662e07ce8f13f7ee881befd1633f",
     "a471bc548bfea80261eb2d32e11aea56451b0a2bfffd3b5cdc7db4c6e715659e",
     "5cdcb3c99c8b6d1f0a3e8a5665d144562349eee725a02636bd5440eeca1a93ab",
@@ -8002,44 +7984,27 @@
     "25387512c0172e02196ef0a4524916d6e3ecfd18d6465d90434ced7abd95b016",
     "866534c30a9b24d9e6f51c4b534e09f453e9fa3362bf274e1a696ded405b5c5c",
     "09e0c5512863b7b2edd21dfa0129c9a84087006dac68f16fe0e45f03b0640184",
-    "bdcb6ad61130e25c9102f4e52e20d4122fee45e1712cc8efe6b6c824ae39d2b7"
+    "bdcb6ad61130e25c9102f4e52e20d4122fee45e1712cc8efe6b6c824ae39d2b7",
+    "91ccb98d2adad6ee2c076165965cbf5a85c423f64d758144d0bae9c5e29ae1ac",
+    "a19f4be1d1f61196cdc8b1adaaa2a9763e521869ca7d0f5f56f3047eda977205",
+    "590ff881322183d2c274a9e82304cde4383f5eb4a6cfcf6ad999284ee3f96486",
+    "091173af8b55f0c334e33728544d83a91fdb7540a365274ebfe4431a85a3bf0f",
+    "bf0878f6bdbc1a07c05b0e6f67b86353f87a9e18684ea9f194dc9f6e5d2cd5cb",
+    "95f4a38d78cf879691fb8da018a705640f528a4b043b96d4b756d9fd760fd608",
+    "b51d99dc9d39f62dd84e330349ea671790c03d86190876a87171aff813902463",
+    "d54524018a774e33e16fa84558d3da3612c54d41dfc40dfc2a1a62bdb11e4575",
+    "408687feafd87e3cc2d57fd88568c7933c2f15b88aaafa7ab5e197fa5107f750",
+    "9cc9780fc38675e1772f2e9519b17878e4c36733468fbc8c3effd9f4c33ecfe7",
+    "d27b42284c9c9c62333ecf54babed2ab3fd97a9de6ba4424a933d673d61b73a8",
+    "67e9850a18c996fed468312cea6b245881ca78f18368f03fac75f2dc42935271",
+    "3191b367ddb3d233ead084a122347f95f8946f851f9920a4241b83ef9d3dd567",
+    "f5f3d4607efca4b501c9639a19d04d101824273f13237680b2f15d4e00e15365",
+    "4af1d71f182ff91cbebb59ea926b62989b1aa50451d52a5b8785612dfec2e7ef",
+    "f4b93033d91c07d1c2471a8f584d7560dac23da65a2c54121953410606b21f35",
+    "4440a93636e5f8cd49d1ab7231e656d6308796cfab3e63dadd042ad383c5e4a6",
+    "0fcac3feb24e652d1ea411f3c0b0d3d862ed7e5dfdab52b316b903d10a0753c5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "조선비즈",
-      "title_en": "美·中 정상회담 앞둔 트럼프 “시 주석과 저녁 내내 대화”… 엔비디아 논란 축소",
-      "title_ko": "美·中 정상회담 앞둔 트럼프 “시 주석과 저녁 내내 대화”… 엔비디아 논란 축소",
-      "url": "https://biz.chosun.com/international/international_general/2026/11/19/A4BLMEV3EJE57MWMLQWKB4XK64/",
-      "ts": 1795061820
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "【OpenAI进军手机领域 富士康旗下富智康集团获组装订单】从供应链获悉，富士康旗下富智康集团已获得OpenAI手机项目订单，将参与相关产品的整机组装。富士康同时是苹果iPhone的主要组装商。若OpenAI手机最终面市...",
-      "title_ko": "오픈AI, 스마트폰 시장 진출…폭스콘 자회사 FIH, 조립 주문 수주",
-      "url": "https://wallstreetcn.com/livenews/3202337",
-      "ts": 1795061887
-    },
-    {
-      "source": "디일렉",
-      "title_en": "애플, 아이맥 OLED 탑재 백지화 검토",
-      "title_ko": "애플, 아이맥 OLED 탑재 백지화 검토",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=65641",
-      "ts": 1795061952
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Hong Kong Mortgage Corporation Secures US$2.9 Billion in Multicurrency Bond Offering Despite Weaker Demand -SCMP",
-      "title_ko": "홍콩 주택금융공사, 수요 부진에도 29억 달러 규모 다통화 채권 발행 성공",
-      "url": "https://t.me/firstsquaw/194105",
-      "ts": 1795062187
-    },
-    {
-      "source": "디일렉",
-      "title_en": "메모리 팹리스도 폭발적 실적 성장",
-      "title_ko": "메모리 팹리스도 폭발적 실적 성장",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=65646",
-      "ts": 1795062403
-    },
     {
       "source": "WSJ",
       "title_en": "Singapore Dollar Holds in a Narrow Range but May Come Under Pressure Amid Hawkish Fed Expectations",
@@ -11504,6 +11469,41 @@
       "title_ko": "컨스트럭션 파트너스(ROAD), 4분기 EPS 시장 예상치 하회…향후 가이던스 제시",
       "url": "https://www.streetinsider.com/Earnings/Construction+Partners%2C+Inc.+%28ROAD%29+Misses+Q4+EPS+by+39c%3B+offers+guidance/27372885.html",
       "ts": 1795089910
+    },
+    {
+      "source": "Wccftech",
+      "title_en": "Elon Musk Says SpaceX Will Provide Starlink Mobile Users Rooftop Microcell Towers To Push Signals Through Thick Walls In Dense Cities",
+      "title_ko": "일론 머스크 \"스페이스X, 도심 밀집 지역 통신망 강화를 위한 스타링크 루프탑 마이크로셀 타워 제공\"",
+      "url": "https://wccftech.com/elon-musk-says-spacex-will-provide-starlink-mobile-users-rooftop-microcell-towers-to-push-signals-through-thick-walls-in-dense-cities/",
+      "ts": 1795089939
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "AMAZON: IF NEW YORK CITY COUNCIL'S LEGISLATION PASSES, WE'D NO LONGER BE ABLE TO WORK WITH THEM",
+      "title_ko": "아마존 \"뉴욕시 의회 법안 통과 시 시 정부와 협력 중단\"",
+      "url": "https://t.me/WalterBloomberg/38672",
+      "ts": 1795090003
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "FEC Resources GAAP EPS of $0.00",
+      "title_ko": "FEC 리소시스, GAAP 기준 주당순이익(EPS) 0.00달러 기록",
+      "url": "https://seekingalpha.com/news/4674634-fec-resources-gaap-eps-of-0_00?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795090069
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Arbe Robotics Non-GAAP EPS of -$0.06 in-line, revenue of $0.75M misses by $0.1M; updates FY2026 outlook",
+      "title_ko": "아르베 로보틱스, 3분기 Non-GAAP EPS -0.06달러로 예상 부합·매출 0.75만 달러로 예상 하회…2026년 연간 전망 업데이트",
+      "url": "https://seekingalpha.com/news/4674639-arbe-robotics-non-gaap-eps-of-006-in-line-revenue-of-075m-misses-by-01m-updates-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795090072
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "PUTIN: UKRAINE AND EUROPE ARE NOT YET READY TO MAKE COMPROMISES TO RESOLVE THE CONFLICT - RIA",
+      "title_ko": "푸틴 \"우크라이나·유럽, 분쟁 해결 위한 타협 준비 안 돼\"",
+      "url": "https://t.me/WalterBloomberg/38673",
+      "ts": 1795090075
     }
   ]
 }
