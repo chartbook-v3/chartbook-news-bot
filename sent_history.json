@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795086436,
+  "updated_at": 1795086595,
   "id_hashes": [
-    "53ba0c14f549b088c8efabcb80b01561a4a0276d1c4288133e3fdb8cb25da744",
-    "017601d1238615ed4d713726c28049db5dd94098827f689f1755e37d46aa9183",
-    "8c27fb6c55e5eb927fc3b4b14db0fc8d1c793e2a94772db6b39bc0578477e591",
-    "7f003b198e6ddf8d1b8600b53af33852931443e5ae88858e03a42f54ac41eee2",
-    "442373f57b2259f7c12d29dc6c2299d35560cda3d732863ddeb41ca1eac00ef9",
-    "c64638f78c7db3f23aa4877e4e7c35958014d7e2bdcb3805ff996ba62e0d790e",
-    "21a881a7f451afd36e4ea213e417f3d9ee877fb4dfa6c9cabfaa7e2b5cb7664b",
-    "d41851dc41ef2a02c2b0b166b1e6e5720956892521818d39b2b6e2d25499c835",
     "3d614bb11d07dfdaf78e2aca2a6b3a9582326d35eafacaf955c002de7c8c2405",
     "4e2b2fa748116a825ace4d74da33a79171899865d767a7e541680b3bfed1447d",
     "c45f0a334c46619bb02654bf13247ff54c2364c6db40f62244fbac0a4be9d2f8",
@@ -4000,17 +3992,17 @@
     "d6c18c87bb73395b83c28783baaf46ac7e525adb51336662d3f5c76bc0a6d89e",
     "31f9154ce0eff56a0c4133941e1b862dd95dc957991e9efa286412c43f2e9e09",
     "f574cb931788f571258b4f7ac42d8756a6bffc337ae4814ceeb0524ed0c48b2a",
-    "914f08b79c5f1f8dae121ea7c7fd831383fe83fc96c44faa4977be1c3bd95c31"
+    "914f08b79c5f1f8dae121ea7c7fd831383fe83fc96c44faa4977be1c3bd95c31",
+    "edeba243918644dae92cdb5a342faae14012e9c14281faa362f86ed39d396fdb",
+    "f2d0992799c09758614e2d52a1418fade7d02326c97f8b6cb959beeec1c792e2",
+    "a7fcc7fee1e13f44981ec220287f2377c375605d07406461fda4ebf58b438a8a",
+    "8f2aae5cec42d01dfa8c61aa84f20acb24eb68fb61f2de72622ac70244143786",
+    "34103c09af5bb8804c4e22e2d03c758ab960ef2d573c24b5f960f47965143195",
+    "f6c97e18c31a3f4a8afb63f9a1281b75baf579325fd014b106e938ec4f38f1bc",
+    "c80e052279609d246ebe3876a86ba427a0a5e3bd856dd28a6e870ab0508a394e",
+    "b53fdd148f4e6fb9be4f89093ccf773b765472b1227193c452496d02709bde50"
   ],
   "title_hashes": [
-    "aceda112b21376e383dace62cd8c8eb91d8c201d14d0c90984243024b259b346",
-    "9e8ee8ebaa23c8fe29345b795b49bee08e9646945a578cade068ea6a8902174f",
-    "f91cd3ab9bb7cb8d8650179a40f2c656b58e4882d8ef5c0d97ee1ebc0c3a4b4b",
-    "dc99268c47a26845e1450726326240e55cbc0e268f2c489e10cc333ac29b83b1",
-    "a619280f78098af7fcbc864f4400db034c2f2f5aac701652809af8a93f6297a6",
-    "b5a1f9126b9008328a0788393c8662fa6162a77d2e98b67bb1dca47af4a9e515",
-    "844c0cf306057ec9fd17f3e1e2a7325cce8407ed90e015acc554690239e371dd",
-    "b1d4a4562ea1c3b5327b214228e9f3acbe29ac608b7ef8d2d26fec89d2ed43a4",
     "96e29c1ea8d88407733d1ed2e9d7dcaf24bb70b142fa209a49a19a3b246d4e8e",
     "dcacd97d2bced7fc327c591576b9f37eb6f2bf619069c36f51844486e0c27ca3",
     "7d0c57ff44c4170a697603d0ecb6d9df547b05f00e66e6008560e8267e3cc9b9",
@@ -8002,23 +7994,17 @@
     "f8a5d62164903085bc849260da10bd8831d9874a2aea9eaf0f6ca15828074775",
     "ae308c928913389b3062dcaf6c6b1dd0323e21c6ea645ecabebf6808698faa90",
     "3adc4e083c474d29749aaaa5d949ef4459fa140828822699987f0d22f5206ff6",
-    "7c1b5f9de1761c3e2e9206def94752157998acad58e2ede2e213c247a04c8546"
+    "7c1b5f9de1761c3e2e9206def94752157998acad58e2ede2e213c247a04c8546",
+    "34060367ce093f6b98719aa50defc7c9c865209c2cf864beb9ffaeae74fed58d",
+    "e1d4b4c5d2ba6b115fd59c99fc214d075c980e23574e5c623f217651994eff1e",
+    "e8f10775e438c541852bc82024529484ae76ba1b9a95538869f066714798215a",
+    "6761613c2021bc6d96b84b530dfd82f46287f74daae203b3d892ec0c915ca316",
+    "ce9f7540641959d713e4fc47765d71cc08a2f9eeeaf1a23b723bb86c621487b2",
+    "7c1dc98761820eddb13e37ef04b7e8b7361f2fb8da474cf283abfc139ab7abc4",
+    "1cd7ec1b991ce568f4823034d3bf3f68f7f5e886522cb79e5c59aad4e856fef3",
+    "1b72d65ad72e72526f802b2ba235101d742135bb556841a2ea76e6736ae2c925"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "Lam Research's Taiwan R&D expansion targets faster chip development with TSMC",
-      "title_ko": "램리서치, 대만 R&D 센터 확장…TSMC와 차세대 칩 개발 가속화",
-      "url": "https://www.digitimes.com/news/a20261118PD254/lam-research-taiwan-development-tsmc-expansion.html",
-      "ts": 1795057538
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "DIGITIMES Insight: AI agent shopping poised to take off as model providers and merchants seek to break a zero-sum stalemate",
-      "title_ko": "디지타임스: AI 에이전트 쇼핑 시장 개화 임박…모델 공급사-유통업체 제로섬 게임 탈피 모색",
-      "url": "https://www.digitimes.com/news/a20261118PD255/openai-chatgpt-2026-data.html",
-      "ts": 1795057544
-    },
     {
       "source": "Benzinga",
       "title_en": "Jim Cramer Calls Himself Jensen Huang’s Biggest Defender but Says ‘Just Because Someone Is Brilliant Does",
@@ -11504,6 +11490,20 @@
       "title_ko": "풀트럭얼라이언스(YMM), 3분기 주당순이익(EPS) 시장 예상치 상회",
       "url": "https://www.streetinsider.com/Earnings/Full+Truck+Alliance+%28YMM%29+Tops+Q3+EPS+by+6c/27372421.html",
       "ts": 1795086435
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Hyperscale Data GAAP EPS of -$0.11, revenue of $44.85M",
+      "title_ko": "하이퍼스케일 데이터, GAAP EPS -0.11달러·매출 4,485만 달러 기록",
+      "url": "https://seekingalpha.com/news/4674609-hyperscale-data-gaap-eps-of--011-revenue-of-4485m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795086473
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Lone Pine, Viking build Alphabet stakes; Tiger cuts",
+      "title_ko": "론 파인·바이킹, 알파벳 지분 확대… 타이거 글로벌은 축소",
+      "url": "https://seekingalpha.com/news/4674528-lone-pine-viking-build-alphabet-stakes-tiger-cuts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795086532
     }
   ]
 }
