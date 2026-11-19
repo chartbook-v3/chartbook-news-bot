@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795077647,
+  "updated_at": 1795077809,
   "id_hashes": [
-    "6f27e9632b2ca8f17cf007426de3a740ffaba5e2cbfaa00148064b475ebaf086",
-    "cbd853f4b0d3822e1758b81de0a1a2a0078659a022cf4059b14cf06bd9f34d8b",
-    "cdb4773f8ea5fbdb268efe245be5fe3285c673b6f21c3004440577a769f7aedc",
-    "02ade4f18ee028d67b3eea2553d42028c1ac5562c8197769a37193082c0249d8",
-    "108117414728a79ba5bade579f065d2511ab0adeb69f55374e426d53faa5e135",
-    "3d3f13fcffc1186d9000d56d299f5e1cacbeb8aabe12e8f726b636ac39b3743a",
-    "2e3f5369e6c43bce6a685191792ef1cf071cda85c5f92c3efa4a3805badb1f09",
     "56be92365c3e0f6a8a977011b0bbb3362134efb9294931497ca5e79a80690ab2",
     "0b4c212859e8abfd1324f216b5b97096a8a5b1c4cd7f8d2c8a7650a16f2316f6",
     "f2e0a56fc090672e67e8a9c2f619e7941acd0217a8a312abfff59d56fb2a9fec",
@@ -4000,16 +3993,16 @@
     "c40970e6efb66c88a87e6b1938fdbebe862c305afd7018bda83920595ba0e79d",
     "a36a64c5bcf9a29bec362ed2b6aa12c35424e30dc66df6f74a08116178a9f36c",
     "7a21c886d32789d13d60abdb1a259ac8a8fb4cea766aa214f6b46bf530034935",
-    "307888602fcf26af523aeb83fb9fd08bae7cf6062c9d959c1fb59d4250c6a505"
+    "307888602fcf26af523aeb83fb9fd08bae7cf6062c9d959c1fb59d4250c6a505",
+    "9af20dec1fa26cb287a82a672dccc99ea5dbcd16c5e4033ec77cadaacf2f115b",
+    "3a4ae41bfa37c54915e7f3297fbd37226e11d5a69621946569454bf7e3d9a909",
+    "76fab0ca9057c6feef8eb3d500433eb080245899a32e8703796d5dc91fc5d91f",
+    "21540d1b4c5c33bfe4db6970908dbd9ecc8a31ccf98f5b2c474aca56e929de28",
+    "88949cee3a3ba74839dc40ad8646c604b3e4c5bdb331f17f28676317a9436749",
+    "78acad52c49d360f44597c285eb94d8d8f94ce77fbd6f5961e44370ef6970af7",
+    "178ac678182a944f27ea9488becf78cca564413b92d1f86ad7eed9b150973af0"
   ],
   "title_hashes": [
-    "ce394c78e858ec3c2cb05f5fe33ac5edf4a5b9c07ecb1c585c56f460800b1b43",
-    "d16129bc0c8b761e9d60e850cd39d1f02e08450a28d6327a1ce8415f7195cb29",
-    "37e7cab1d138453ccb5e3d68893433a62edeb777b736e7320e0a10c21423c726",
-    "6320e556246912a62caf27c11d3343486d2a9cfd463e90fc4d9c961e6e1fe116",
-    "c70b70cfb8eb914b462ea73e94548a006df3e80af6a6eee890c71179c988aaeb",
-    "995bea754341e0602aeb22fe77119f4067658e86242c84f452359c7bb59fc6cc",
-    "cd51277e1d3c9b841b286cdc4da111fdd1b83c9be449a5b83718e9c253872265",
     "d4616deac8ee11ee24e2f6ab1251d5f240000cfb22b5596fb55d76d32958daf4",
     "f1bcc65b2dacf7334f0a25fa8fd381911650d5115216f8f3b8730aa96c4a624d",
     "d642a9b69329ecee7315c96641da7942c3a8374767ee5b393a78644877ef122b",
@@ -8002,23 +7995,16 @@
     "1717ac6762e057197f68ecc363ac8f7c793bf17150933ba3736a8cedd521df00",
     "aa1f2f071e8de8b76562c6dc3b1ee80ca463709c6e00d0e344818f6e954c4266",
     "1355fbc3b5b706395651a5baf9eb7d73fe6add1e37e25e6ad4669476f853f020",
-    "a73c74294517bdc7a833328958c6a5fc0de0fbc28728a7ecdf718b5bfd9355f7"
+    "a73c74294517bdc7a833328958c6a5fc0de0fbc28728a7ecdf718b5bfd9355f7",
+    "11851231716ba67f1f9ade045b5f4634b01f2b4c4e5312ca5e4f3ea94f38b243",
+    "b8da06deb94383f5cb0edd5a5dbd3a65056275da0d1e9c63b5672210800a6ec7",
+    "302dc8cc850b869dca242e3b09b6218ad1b6668f442ff1c297b692f546a5174f",
+    "eb058bea197417138cf61df9c39046e0e5b8a9681b254bb4bcfa62380b4724af",
+    "dabc2a3fc8f608e2e2da4bcfab7ce960e66ea5921e0643103312ede86aac1486",
+    "ab660fb91129c85ceef29ae15efe1dd89f5a1170b2eaf2ba2bb1952ea1ee79f9",
+    "7bb821970b47f86e4d1f667c46a6b5ab3cd7604eeed9c03309b7a4617ffbd989"
   ],
   "recent_sent_articles": [
-    {
-      "source": "조선비즈",
-      "title_en": "KAI、韓国機械研究院と提携　ステルス・AI製造技術を開発",
-      "title_ko": "KAI, 한국기계연구원과 스텔스·AI 제조 기술 개발 협력 착수",
-      "url": "https://biz.chosun.com/jp/jp-industry/2026/11/19/V6BIM3YIGFFXNB4QEVTWQY4QIM/",
-      "ts": 1795051041
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "美 긴축 우려에 코스피 보합권 등락… 한한령 해제 수혜주는 급등",
-      "title_ko": "美 긴축 우려에 코스피 보합권 등락… 한한령 해제 수혜주는 급등",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/19/WZCD7XH4FNFP7L5RTTRJPUHVLQ/",
-      "ts": 1795051044
-    },
     {
       "source": "조선비즈",
       "title_en": "[특징주] 3분기 매출 59% 증가한 미스터블루…上",
@@ -11504,6 +11490,20 @@
       "title_ko": "[단독]빗썸 “점유율 1위”에...업비트, 하루새 재역전",
       "url": "https://www.sedaily.com/article/20116584",
       "ts": 1795077646
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "习近平：大国良性互动不是选择题，而是必答题",
+      "title_ko": "시진핑 \"미·중 양국 관계, 선택 아닌 필수 과제\"",
+      "url": "https://wallstreetcn.com/livenews/3202455",
+      "ts": 1795077738
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "特朗普：我们有责任保持公开对话。\n\n在讨论削减核武器方面具有独特的优势。\n\n在核扩散威胁问题上合作至关重要。",
+      "title_ko": "트럼프 \"핵무기 감축 및 핵확산 방지 위해 대화 지속할 책임 있다\"",
+      "url": "https://wallstreetcn.com/livenews/3202460",
+      "ts": 1795077808
     }
   ]
 }
