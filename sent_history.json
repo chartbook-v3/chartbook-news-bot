@@ -1,23 +1,6 @@
 {
-  "updated_at": 1795101623,
+  "updated_at": 1795101787,
   "id_hashes": [
-    "fc8ba94bb89b3e01942414aa940ae8905d60506e5bbe372f25581b0808db4eda",
-    "0d0314996408dff0ee714a9004ac51cd2adf178af80465ed1aa1d45b09a2e6be",
-    "312300ba8cc8c4c842c7a3617c1956f9a307d4797ae528f781e36df4497adecd",
-    "0f9bc070bf239a0bdffead4c10cba07cf0f466701343cd4cf0df7c1f74172d71",
-    "c435998525c4d07b6b3415241ca5cce8461aba29c5ba08735d805c46bd7104ce",
-    "95e614968f2a5dffffe7f5b507b3583f5b8ee68e23070ab09a2a8bc19133f0ad",
-    "2984127f39e45b3127fb85e6682af0a3b9cdbb2181a5fc31ad3b2f554076cf38",
-    "b203b4f5d75c8f427a3db7cd6111ccad48c4c7a0f7a09959a38e5fd5b41c3dbf",
-    "811a690d67e67f17b79de4c363f45f027283e38a2b794b1cfcb2a8c9a286830c",
-    "0ad7acdaedb2d9e7d52360b11f13f539d68105124248087ede3b485fd6b7269a",
-    "0d96061a959bf11cadc709cba70ab0c7186868364315a660a6de2470821ef751",
-    "0ccd4ad40249c988579546071e58e44b57bebb0e64119c288d6534dea37f6b71",
-    "256608ecca3940a3a41f6c9ef7bbf98378a413b226e01e0f6b3240d2ff4e2f80",
-    "f3303566873ac3648434d213f695dddbf14289c412058ced4014400f1f38aa5c",
-    "3038c657e6e0502408b53ac6da5612bf1599705e6b38e82507cb3ad483bcc3aa",
-    "b753b9d91f77f8f4df5dbc6caac3cba174daee70d93eee2b5dfec79b2624c951",
-    "d1d566b659fe38632f5976ffc7588eb090d88ecb019ec3b76c2efe29ed83b4f0",
     "150fa5694ca7b53440ab6891df824666927b6bb6d9133fd082abd31a6471df1d",
     "213b6c0119dad2106756e376693b459061d8bdcfdd32924034b870ec8735609c",
     "ebb154e20d160b8f579b03bc8fbe6d94b12e28ece984529e9d8cf81b2f9050ca",
@@ -4000,21 +3983,26 @@
     "31784402ead5cd3e4d00fa06ff60e05ccb51eb5400ba80c35c7dc14e4aeb477b",
     "603af959f72022a56d6350ba0dff068c096ade81929e8b003963339782afc86c",
     "12fd18c197eba9de332371fe8513a1aed7eb183964adeb0a418e295d3f7ae6a8",
-    "39f53f030bd4c7e0a1a5f98b180cb8fa3ed16950b4e549f386e0b5a5faa497b5"
+    "39f53f030bd4c7e0a1a5f98b180cb8fa3ed16950b4e549f386e0b5a5faa497b5",
+    "748cb9f214d0b0f0799923afbe2ce593c2946d98cd0316bbbb25d324102ec5fd",
+    "425f02a1bbe0d42081c3196798aba2db505fe51f9084bd21931dc6ea2be0bfe2",
+    "d703a8f959c0522f483c7f3a9984ca5ade742ff8427b0efeca9a6344b4d9bd61",
+    "b2b236d0e59f3426c896d4038fd54697488d3cb5f6a20285db9fb6e9cf1042ff",
+    "b74108a14a8c96e1b8a64f6afdd1d3fc8a32ae3f075af5633537bf5a7faf17e9",
+    "692ed3bf03a1f8e62921f777931a48a782456b5488d23aaec730667a4b2b8640",
+    "d6e4bb06d30230c8d2140a96fb5afcc258c626a161e65dcef7fe7cdcae5629b7",
+    "f294ed92b214ed09001a46e24a5df49bddd719096c969684c941c24cf894d054",
+    "289d8f46ac7a85eb3bedaac011b059831ca51860e1cad640f74e152f6005d85d",
+    "e689e85b6a1eb6cd138267e1a763290eb09643c723593af046d11b55eef4dd33",
+    "f3304901a346849bb8e2408b792c40fe13497106dd769fd4921df9ebb17e0b00",
+    "78f6940c046f172a9f1a11529c92cd5fc05f455853c487a21de45752b8830a20",
+    "2fefc730bc3e2466249dfdc9113a9dad79c862b59861a5b7458e84aac6427eee",
+    "cce871366abd4e16dc54efe2b2a6cee65e4e5ec67625d97f4048bdfaa4c174a6",
+    "95102da7b1b0da835685e117fd8cb9ca3c9dcc4cb2a34babea9f5a121f374f1b",
+    "e7ecfa488bc26baf665cfe3bb62b87c50b4b47eb7ac3b28443ade42d21d64bc8",
+    "cc04a64af06ce2635e2a56a531342b8100243928c320332a2cde68bb8707dc34"
   ],
   "title_hashes": [
-    "c0b87d1d2bad2212661e74c5215cc764795b82697690843192e44f6405f570d3",
-    "b13c64e2c2fbf6051e3a41cf552835702debd5c19f67c50bf68b5a67b6599e92",
-    "69c756fe20899127ce7fc8c3767d051c4ee38fe2cd4d02d4e41972dfab1b2780",
-    "3d637f30e70d8f492dda9a6dfe0f55fdcc5710d53239ab78b99266d8c552c3d2",
-    "b27863652ce209f51ce87301705fbd2a053226c2641e12e72c537839e8bf61ca",
-    "f33db3bc0bb8d2ed27d76652c6d112c1e6edf11e01d35796c80efe01b733353f",
-    "3bc6614ad2a402b944b124b3d3215723f18976808552836d95c894609f424fc7",
-    "b69d7811416425b143098fb4c4451ca6dd52aee4be51c80e92a73518633532ed",
-    "20540743d70849e2c84b67b6c177230fbb60cf849892e5d0162dc609efc24b89",
-    "65048f3521e847e7e080538b1070832a7ce479073a6bb9522277d04d7cc11660",
-    "685aa7bf49de736370cfca17cb166595853c7ff3e1c692e72caaef4b1a4b6b98",
-    "b7fa75bb69db86b6d0ce9063e7f044be1d57dc3896d999659363de24f8d094c3",
     "41966565f136a6a122faf095cf5fff2d6b540c18825b2790684eac78272a6332",
     "496ee0b870dfaa9ac128a1f99ae61f68e2bccb418a961868eaaee7bfa9978490",
     "1c07b88e5e9ddbc2226ab55e7f174c62c0c584a0dfe93f88d8d6943029bb5ff2",
@@ -8002,51 +7990,21 @@
     "3ffc40283b81555a2ba10927620b04b3c383b3573717b80ced01458d6cf870ee",
     "bcd614d2a3fe44da58e0da53cd59936b4142eca21700c3a1c160bd023a4228df",
     "267893563788c4bf405d0a3f674665f727cd56d48fdead45d19fd7cfd209254d",
-    "3ecd2a9bfe6d6402d86d5ba41ca24694998a0988e606542cacefbaf9d58ad766"
+    "3ecd2a9bfe6d6402d86d5ba41ca24694998a0988e606542cacefbaf9d58ad766",
+    "10738ffb935465cc4c35296aff8b40ff5af52e2371d877c679abab486313aa7a",
+    "8d7c9203f0b3683e52e0897988b377acbec910c4b044d0ff1e5e04524dd03cfc",
+    "55a377863cd35a8645676f04a09094880d7557cb149a39c2086080a10de92a26",
+    "f39f58fe413a84f0db696e89b710a2ad695c871aeb499ba9ff42c8861455570e",
+    "47e06954d0bee8767a36ec7878d7781b516c83c215f0ca56c580e6e3d1f4011a",
+    "ebb5800bb1b4b761d9da24b0b53e18869abbc4b8dfbb4f106bca41001ae19115",
+    "0366af482ae38658731230fa33eb1f36edfc088c00a18d50bf46515d4287bda0",
+    "5e4c7c10b47ca4d8ba5d047a4d4b7d3289b631fa856a11a61e2ec79634d09f9d",
+    "e24300c925db34990912a2a221163b7894d1cc0d752791809233a1c4c22e81bf",
+    "768fec29c8c97e24434ecbbf81d747528ab4d814b0ac0db683cecdfd431dd6a9",
+    "8f6fdbb318c0c29c9ad9d32bd6995c86134dda01213e94f45fcd235442d029e3",
+    "a59aa9e0d6b565f9bc99a359484136de0ff2ca9b98a6f89fb36644f56663d90c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "Ford ships first Michigan LFP cells, but the batteries are still licensed from China",
-      "title_ko": "포드, 미시간 공장 LFP 배터리 출하 시작…기술은 중국 기업 라이선스 유지",
-      "url": "https://www.digitimes.com/news/a20261119VL220/ford-michigan-plant-localization-production.html?chid=10",
-      "ts": 1795075563
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Chinese battery-materials firms restructure overseas plants as US rules tighten",
-      "title_ko": "중국 배터리 소재 기업들, 미국 규제 강화에 해외 공장 구조조정 착수",
-      "url": "https://www.digitimes.com/news/a20261119VL221/technology.html",
-      "ts": 1795075569
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Microsoft reaffirms Nvidia partnership after CEO departure",
-      "title_ko": "마이크로소프트, CEO 교체 이후에도 엔비디아와 파트너십 유지 재확인",
-      "url": "https://www.digitimes.com/news/a20261119PD227/nvidia-microsoft-partnership-business.html",
-      "ts": 1795075574
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "US AI curbs disrupt Southeast Asia shipments; MSI sees worst-case impact of one month",
-      "title_ko": "미국 AI 규제로 동남아 물량 차질…MSI, 최악의 경우 한 달 지연 전망",
-      "url": "https://www.digitimes.com/news/a20261119PD223/msi-asia-shipments-nvidia-jensen-huang.html?chid=10",
-      "ts": 1795075583
-    },
-    {
-      "source": "WSJ",
-      "title_en": "Exclusive | SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
-      "title_ko": "단독 | 미 SEC, 젠슨 황 CEO 사임설 속 엔비디아 조사 착수",
-      "url": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8",
-      "ts": 1795075606
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Russia repels Ukrainian drones attack on oil facility in Tatarstan region, local authorities say",
-      "title_ko": "러시아 타타르스탄 유류 시설, 우크라이나 드론 공격 격퇴",
-      "url": "https://www.streetinsider.com/Reuters/Russia+repels+Ukrainian+drones+attack+on+oil+facility+in+Tatarstan+region%2C+local+authorities+say/27372010.html",
-      "ts": 1795075609
-    },
     {
       "source": "조선비즈",
       "title_en": "[마켓뷰] 앤트로픽 ‘사상 최대’ IPO 앞두고… 코스피 1.4% 상승",
@@ -11504,6 +11462,48 @@
       "title_ko": "Palo Alto의 AI 인수로 사이버 보안 랠리가 촉발되었습니다. 이 ETF들이 파티에 합류하고 있어",
       "url": "https://www.benzinga.com/etfs/sector-etfs/26/11/63431853/palo-altos-ai-acquisition-sparks-cybersecurity-rally-these-etfs-are-joining-the-party",
       "ts": 1795101622
+    },
+    {
+      "source": "Wccftech",
+      "title_en": "NVIDIA’s Modified CMP 170HX Mining Card Hits 85.9 TFLOPS In A ProjectPhysX FP16 Test, Ahead Of A Retail A100’s 72.5 TFLOPS",
+      "title_ko": "엔비디아 채굴용 CMP 170HX, FP16 테스트서 85.9 TFLOPS 기록…A100 성능 상회",
+      "url": "https://wccftech.com/nvidia-modified-cmp-170hx-mining-card-hits-85-9-tflops-in-a-projectphysx-fp16-test-ahead-of-a-retail-a100s-72-5-tflops/",
+      "ts": 1795101651
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "MEXICAN PESO WEAKENS PAST 19/USD FOR FIRST TIME SINCE JUNE 2025",
+      "title_ko": "멕시코 페소화 가치 급락, 2023년 6월 이후 처음으로 달러당 19페소 돌파",
+      "url": "https://t.me/firstsquaw/194263",
+      "ts": 1795101714
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "日本烟草：因俄罗斯资产被接管计提89亿美元损失",
+      "title_ko": "Japan Tobacco: 러시아 자산 인수로 인한 손실 89억 달러에 대한 충당금",
+      "url": "https://wallstreetcn.com/livenews/3202677",
+      "ts": 1795101718
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Nvidia’s Q3 Earnings Exceed Expectations, But Huang Scandal Still Hovers",
+      "title_ko": "Nvidia의 3분기 실적은 기대치를 초과했지만 황 스캔들은 여전히 ​​맴돌고 있어",
+      "url": "https://www.streetinsider.com/Investor+Brand+Network/Nvidia%E2%80%99s+Q3+Earnings+Exceed+Expectations%2C+But+Huang+Scandal+Still+Hovers/27374703.html",
+      "ts": 1795101779
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "MissionIRNewsBreaks – SS Innovations International, Inc. (NASDAQ: SSII) Announces First Dual-Console, Five-Arm Robotic Beating-Heart Bypass Surgery",
+      "title_ko": "MissionIRNewsBreaks – SS Innovations International, Inc.(NASDAQ: SSII), 최초의 듀얼 콘솔, 5개 팔 로봇식 심장 박동 우회 수술 발표",
+      "url": "https://www.streetinsider.com/Investor+Brand+Network/MissionIRNewsBreaks+%E2%80%93+SS+Innovations+International%2C+Inc.+%28NASDAQ%3A+SSII%29+Announces+First+Dual-Console%2C+Five-Arm+Robotic+Beating-Heart+Bypass+Surgery/27374635.html",
+      "ts": 1795101783
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Apple Announces Health Tool Leveraging AI",
+      "title_ko": "Apple, AI를 활용한 건강 도구 발표",
+      "url": "https://www.streetinsider.com/Investor+Brand+Network/Apple+Announces+Health+Tool+Leveraging+AI/27374711.html",
+      "ts": 1795101786
     }
   ]
 }
