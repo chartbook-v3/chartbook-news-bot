@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795121840,
+  "updated_at": 1795121988,
   "id_hashes": [
-    "8c2eb5ed6254b3182c13bec602b1f7bbcfa3b92a500a4563785f88d2cdbec9b4",
-    "d4456bc854f6108d5977422dcf1260d1650fe14168605c08e51b211d77a72fbc",
-    "9016e56e1806b4d5268bdac3a10f2668c3900375b32fa62058c64c69864c2b8f",
-    "73d2ce944e86fcb3979d2a7b4c8124f5c3820a5836702dded0af798d470a75d1",
     "5b6bd3ecfd58c6b2e76397951ad8431992b041d828e31bb526a34c027f4c95dc",
     "be5517cf66ccef679cdcfdea24a5f4dfe37967529ca6a82999c9199714e73b73",
     "487375d714cfccd6d3133c7b1c2540d51a3d7ad4f15664fb76ac70c5fbe3e2d6",
@@ -4000,14 +3996,13 @@
     "ec01020f8bb7d93d8c4621f58c7f1de1f4a6c0a0c3664c7672a651a7fccb55aa",
     "2e1eb71bf77930e38b596fef14d476a59bc6e531c01872b722f943090c21fe0f",
     "87ee394d823ca1240f6c38ae2d5180ba8ae8649ac0a16dbdba80eac17abe7fa3",
-    "433632750e0dd7c77c89d5e770e56964e583820c9e0842b8bb0e5af94721d475"
+    "433632750e0dd7c77c89d5e770e56964e583820c9e0842b8bb0e5af94721d475",
+    "ba44a1ef4fc5a29a48a6f3270e4fa88b8fea789a62a41e6091d06f8eaa65434e",
+    "050adb259914375704ed149310a34926be171bad7fe83424f2f9ffec4c8c326b",
+    "435538e6d612a855ee00d02a3a71abd4d9ff12a02ea8820bee38946e5d385d7f",
+    "388ad4e25eb1bb1159b53081a082aacbdd1b2a3052e0345a789114ec510fb410"
   ],
   "title_hashes": [
-    "ba954e58419112cbb6d13e4a33840734e62137d46a01a474c8211f8890db8d63",
-    "d8bfca89f5e3fa6ebe22cd821c5371f86345800bbaac18cdfb7957bd6d6713b9",
-    "3a965d3cb4782a95ed4a6239f63ce4f40d3f267fef0dfa1e3448722fdca0645f",
-    "480fe82e14e70b5b942a5794d6abc80e9c572945af9453a82f8f06116bc46e40",
-    "6a5cd14fa64aa4fd878c3a7f48b91ade1d23d5fa8ce0a1aea3d654d64c6fb3d8",
     "3d3922b9a0e44a80d8421446a18c02b5d4bd2485779c44ba60b5e854dcdaf075",
     "83967ca3b92ef153b147a30d2dd6375e16a710fa9bc757a747557d9ef6f38128",
     "c8fce78a94d95b6472c2049fd3c2a30474781038950b021227dd2b560b073757",
@@ -8002,16 +7997,14 @@
     "c56ccb3fb8a8c2a519b6157a8c41bd26ab41e7d053258c68797fb8bcc46af777",
     "958aac90052627b6d35169567aa26dfde6309183295186d1af1c147c6c228c9f",
     "aaf9fde310a4a1518e5355917e9b39780b25f55bb9ef50d9602f078df89eff4a",
-    "dd6a9880342763453a88b22c76bc4b0aa9b2c93cf5bfee1f642055342980cbf1"
+    "dd6a9880342763453a88b22c76bc4b0aa9b2c93cf5bfee1f642055342980cbf1",
+    "6634252a7e29f66ccb02e99ec83049740da82dad57ce0847e21310941890d14b",
+    "051302e6102428ad839036a9f7240f19e9a8fa89f71a864031708972980d0ac7",
+    "4260d608391d70c402bca132a9747a47ef3e27acd59af94747add398b8f0f967",
+    "74c78498989d5ce960a7281eb1c02576758de4e77571fedc8d9e0c8e1d8f8b77",
+    "8503e308a771f188aeae536ec7cc3dadd1df56d70abe4123d02655452da12a53"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Barron's",
-      "title_en": "Ukraine's Allies Meet In Berlin After Trump-Putin-Xi Talks",
-      "title_ko": "트럼프-푸틴-시진핑 회담 후 우크라이나 동맹국 베를린에서 만나",
-      "url": "https://www.barrons.com/news/ukraine-s-allies-meet-in-berlin-after-trump-putin-xi-talks-e44692c9?refsec=topics_afp-news",
-      "ts": 1795094966
-    },
     {
       "source": "Benzinga",
       "title_en": "AST SpaceMobile Stock Climbs After B. Riley Upgrade, Analyst Says Rocket Risk Is Priced In",
@@ -11504,6 +11497,13 @@
       "title_ko": "Anthropic은 1,073억 달러 규모의 IPO로 기록을 세웠습니다",
       "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-sets-record-with-107-3-billion-ipo-video",
       "ts": 1795121839
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Plunging oil refining margins signal inflation relief for central banks",
+      "title_ko": "급락하는 정유 마진은 중앙은행에 인플레이션 완화 신호",
+      "url": "https://seekingalpha.com/news/4674879-plunging-oil-refining-margins-signal-inflation-relief-for-central-banks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795121923
     }
   ]
 }
