@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795067527,
+  "updated_at": 1795067677,
   "id_hashes": [
-    "912d72428fcccadc982adc0a19bdee161f9b4c8fb8ce111b31406414858d712b",
-    "e9584331756be5cb14090de28f68e2d98c26ce2cd484e87d21070787acae6351",
-    "d57b0e49ed192d07d22e7e6539807b94d2ef2d0e798f8b9c57c6eb410dcd27ce",
-    "c6019d771d83f6f6b5acbc5c7c85f17bc0ab999e77977ae446a28e425da1a3a9",
     "4c1137a37b0d88db36c670b6e3f932731bfe69a1b6242638300b6584ef4953fd",
     "f935537b432874b08d803f4f6a304909d36a759c97dcb375894be97bb37ea095",
     "194c81976f5c70aa6b63507cf74b509fc80d3bd7bb34c6aeb6b1c96d9f9bc790",
@@ -4000,13 +3996,13 @@
     "70fc52c41390ceb99b93440331b176b5c77bd895164e77be8040464df12d6218",
     "60b68d6ae4de4e9ee487c912dec56bec51c49ac52e9255303aae591e8b575e74",
     "8537f70f457a96a2f27fb1d357ff57fa96d3ca649c75d99dcde65560365eab82",
-    "918226b8d369387b3a4fcf6c8c3ebb0ce2d90dee0c9c974055ece276c1a4d067"
+    "918226b8d369387b3a4fcf6c8c3ebb0ce2d90dee0c9c974055ece276c1a4d067",
+    "a23ccf395418e6f20e7f9cf1e29401303d45edc27809e7009d978e9f86ec4fcd",
+    "d9776017b83b042815751ba3b8b4ab45c3693a0dd6b9c211db3cad8fa0f1a56e",
+    "3e9dc5e82e0c126bca39555283c8930e08e68585323e999102420ceadaaf5b87",
+    "87dbef217b1e41185e39531a8880b925a2118e596d47b245d90ef79611578211"
   ],
   "title_hashes": [
-    "3799fed985c8a69c1cde49f32b9522c967bd259f78d38ae3234b1448bc20f997",
-    "d907bb325edfde5d7c181342c5ba9a4152a6a5477ef129b83b35627095d1f6be",
-    "12b1d6511c32774a2acc98a3663efd40276ca9e10b2da70ac828cad9ebae7f54",
-    "ead122d8e3463fa1eee6dd6dcf56257ea16f6173495f3b031b03eff05ab2ca6d",
     "84257d2ad05947ecfcb99261fb66b4be1f7d1da2ed2ab0a85bc8878c1267025d",
     "a1033477d89467aa152d4e85d85ff2af7b70c28ae48b167940dc68894874bfd4",
     "0102f4af86e51266428f28ba1bc758a575595f8d185788f4f362223358efb2ab",
@@ -8002,16 +7998,13 @@
     "7b8f6d6ccb97ba4e240586e8024b87486ca2a38440592b1de2129889ec66dcd2",
     "cd8e8f9627d2178a8fdf344a85681692c417d0cafb5877311a7768379270e227",
     "2b9a4c27a0a5a0f527c80935020c99009e4cd4c9edb71b935b8fac5961f17325",
-    "f4da5a9593d870612f862f3c49eceed0ed2188383866aaa046c1f01d5d427adb"
+    "f4da5a9593d870612f862f3c49eceed0ed2188383866aaa046c1f01d5d427adb",
+    "8775935411266c492a9b0cdbf3052f8f04e0b53537163e70789c404dfa5b2010",
+    "5d1076b96dca9cf85d2eb9de1f383996d3e50617538677c9df0f0839e83e5fa8",
+    "59a80dd8205fbf855dd47ce1afb1c446ca11b2ff86f4b9124d224cfd1f3c6b8b",
+    "d932c461588c24c6fd03dcedd4f8cf477c944e1019fcae4f194d18cb70b88e46"
   ],
   "recent_sent_articles": [
-    {
-      "source": "조선비즈",
-      "title_en": "美  “北 완전한 비핵화 전념”… EAS서 對北 제재 이행 재확인",
-      "title_ko": "美  “北 완전한 비핵화 전념”… EAS서 對北 제재 이행 재확인",
-      "url": "https://biz.chosun.com/international/international_general/2026/11/19/S6CA2CUQBFFSTF57FEUI6BZPLI/",
-      "ts": 1795042781
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Harmonic Drive Systems Inc. GAAP EPS of ¥31.54, revenue of ¥36.12B",
@@ -11504,6 +11497,13 @@
       "title_ko": "한화시스템 2.12% 하락…3분기 영업이익 992억원",
       "url": "https://www.job-post.co.kr/news/articleView.html?idxno=239648",
       "ts": 1795067526
+    },
+    {
+      "source": "Nikkei Asia",
+      "title_en": "Trump and Xi hold 3rd summit of year as friendly vibes mask deep divisions",
+      "title_ko": "트럼프-시진핑, 올해 3번째 정상회담… 화기애애한 분위기 속 깊은 갈등 여전",
+      "url": "https://asia.nikkei.com/politics/international-relations/apec/trump-and-xi-hold-3rd-summit-of-year-as-friendly-vibes-mask-deep-divisions",
+      "ts": 1795067676
     }
   ]
 }
