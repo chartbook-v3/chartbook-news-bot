@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795118890,
+  "updated_at": 1795119039,
   "id_hashes": [
-    "00aa8de2e4513531e8c047d0b95b7c86e49976c5399345e14b84744ac7755db5",
-    "61449a02655592b5e65edb4080a353e7f57d0726e04ee00a1627749138d808c6",
-    "6664447ed566b40ca21054c6d7a449d2f690fdac55e62a6ef799864dbbdb900e",
-    "5d9c087c17844695c415bcaefc77dc2d1ac62f51a476d0ae26bac802c6e645e3",
-    "7524e0b0dd55742fa54b960bdd971395754246a2c818d6857699fb34ae1af50e",
-    "80d35ade7882f4224ee2899540a92fdccd4d5875ea44a154cf784b0562dc381e",
-    "286f5f33fe1d15da2c4ed1cac66b2180d69e8787ccaa34906fcdc07dbe788ca9",
-    "923f4018c3f3e766395e578ffba75be5a86ed6b70184af5bdc8e89c2264d10e8",
     "53cc543773606c8c274aff26f051a5435abd1569714380bab4ea9938eda58733",
     "5e38519c00712a73b2d7c68a3e6c64d9c2a29749f1ff35795386fd90c60aa220",
     "bec9bb6ea762bec4bcb206c33d1ef7fd079eee9708933348718266eb847f7304",
@@ -4000,14 +3992,17 @@
     "0a09bee04493d6d42c84a0163cecd50c068694ff7ef05930adef37c657dfac9f",
     "4efbfadd09a84cedd504d69ac040f07b81413457e0574d677bfcb005661bf129",
     "7734363258547414782928d766ad8dde52ca5f6aeb9130ad5cdd494b8a4d9680",
-    "ccbe6465223684d2ae2dbae4b0d8e6505e4b2557d00edf91822094b698f15bee"
+    "ccbe6465223684d2ae2dbae4b0d8e6505e4b2557d00edf91822094b698f15bee",
+    "5d4498e8a5db1900b46870d0335012ac7bc8c7cf4eb90e6ffa5b27012fa544d5",
+    "3d1c22939dc65e7e2aca52df268490c10251a692e0f4b1c6d7e8e85e37a65816",
+    "33b62e230b6cf2cb0cec1cb1054c16b35473fc81743af78a070722711b85e4be",
+    "22b7e807e2bc96151e74e149bb892db4c9b75540e471b6ba9e70128f956c9105",
+    "33e3b2325d350d03133830f2e7e75a934497989a74e879660492a39a62c5c31d",
+    "9492ffd28d56621a5fdd95b06358252df237f742a873fb16a99ee0dde57df394",
+    "b779091ea7cf7a194554c681ab2a8cd38502272ef06fd2f5771d4016ce4d6ce5",
+    "3b3af42c2f589c62fbae7d52cb7a2e41a6cc42636d20d684034c1c240ceb37a5"
   ],
   "title_hashes": [
-    "ab0a82bc960e61a84b62c6e21159f96e6ff9e755978e9c4cf9a66c7a9a2412f8",
-    "9d07decfe96856d77717eea0804ca0b50bdd2fb028ec7a0acb5bfa0b2807a5bb",
-    "8e79b6aa640ccab6375a585a28d660ae9bcb132af9a65ad53088592c07565e2f",
-    "15a1dbb75964195e0c53cccd2823bd0b04f68d1368b779c03779b843296f4502",
-    "41f877e612565825c73002daa6409f0df04dac0c0daf50f4ad202158e061f816",
     "608a8e57f6b25a5257a8ab7f71e77f8cd3bc414a797320532d56071a7f6a3f2d",
     "0dce8a468125a67b2de1d606d5276cd34ba97e17f9d5bf8147a42caf9490ae70",
     "917c4fa72ccc86197aa0a8783380171e8677011d60513c588641c90b9b6337dd",
@@ -8002,23 +7997,14 @@
     "114e1b839fcd0957a85c93837d86080e6a1e620b40bb6bc0ce76bb2ebf9a8217",
     "13bc85386a1ce70bf8036214da297a49a3556aa6770c23111784930538239c84",
     "dd8b7425c3182f440374aff113de4cf4bbeb1b9fd04bdd809358f5a5687f9ec3",
-    "618f414501bd873b38b0c7cb4630da657e664a4a4b087eac240cbe8d80143886"
+    "618f414501bd873b38b0c7cb4630da657e664a4a4b087eac240cbe8d80143886",
+    "e38405b23354f8a30bc0254cb8976aca5905f02eb5de6ae906042395ad54e494",
+    "5c833399c950772e5fc0c4553be69edaff4f2b2215939461292f9fd3b05ba9bd",
+    "512bb066ef0e420189cbb35afc8c7b24f72544d6f770ae884a1d96b504cd7a7c",
+    "91a78120942ca823f0f1ec0957c5fb5fef752501e131b12d5450e0ede2bbf414",
+    "441318c4e05a8efbd6486a3e22dffe4907d5af3263a3952894bed63e80bf3ddf"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Barron's",
-      "title_en": "Anthropic Stock Market Debut Will Change the AI Trade Forever",
-      "title_ko": "앤스로픽 상장, AI 투자 지형 영구적 변화 예고",
-      "url": "https://www.barrons.com/articles/stock-market-things-to-know-today-474ff1f2",
-      "ts": 1795092483
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Palo Alto’s strong results, AI push wins over Wall Street",
-      "title_ko": "팔로알토 네트웍스, 호실적 및 AI 사업 강화에 월가 호평… 주가 급등",
-      "url": "https://seekingalpha.com/news/4674642-palo-altos-strong-results-ai-push-wins-over-wall-street?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795092521
-    },
     {
       "source": "StreetInsider",
       "title_en": "TSMC tightens China AI chip curbs as new US rules close manufacturing loophole, sources say",
@@ -11504,6 +11490,20 @@
       "title_ko": "AMD 주식은 Nvidia 대체품이 아니라는 짧은 보고서 이후 하락",
       "url": "https://www.barrons.com/articles/amd-stock-price-nvidia-ai-chips-70de243a",
       "ts": 1795118889
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Japanese investors sought $9.4 billion of shares in Anthropic IPO, sources say",
+      "title_ko": "일본 투자자들은 Anthropic IPO에서 94억 달러의 주식을 요구했다고 소식통은 말합니다",
+      "url": "https://www.streetinsider.com/Reuters/Japanese+investors+sought+%249.4+billion+of+shares+in+Anthropic+IPO%2C+sources+say/27376071.html",
+      "ts": 1795118975
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "It’s a ‘dark period for tech’ as Anthropic debuts IPO – Dan Ives",
+      "title_ko": "Anthropic이 IPO를 시작하면서 '기술의 암흑기'입니다 – Dan Ives",
+      "url": "https://seekingalpha.com/news/4674868-it-s-a-dark-period-for-tech-as-anthropic-debuts-ipo-dan-ives?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795119038
     }
   ]
 }
