@@ -1,24 +1,6 @@
 {
-  "updated_at": 1795116149,
+  "updated_at": 1795116304,
   "id_hashes": [
-    "761397b5a20c5ab23973d9bb4cdf1c2a72969e332fbc0525c1c4b2e0b5c9f17e",
-    "23bdd941d8995b6cff06cfa4464a86ba8f8a6121286160c06c04208e1400ef0c",
-    "4d1c2bde476b1acd886c0f412216535ed5a1f4849daee0acec5a98532bf57880",
-    "b4dc28c75480ced7408c9b36e25d630aecf7129e6ba51ed8ab41f2e381f89a91",
-    "e5b5b9c85befcf9ad29056073b83742c8803035f2e58adf9baf86f1f2bc93310",
-    "2d4140eb098c3be8559adc23a8b3e89ca8eefabcf01c27c3c21f062b92bb49b5",
-    "5b8d432acb9e6148e68019ed52a0bd2b092311a34558c47e5d428d8a715d624e",
-    "b8da98ac2ac3161845232f2919a4d0bdbce519e515a21d4fa3b288df00ee18a9",
-    "e86b56f3ff09c5fa800eb04f39b76c7788939dd117b0543a5b7cde6e8cda4e17",
-    "6b859ddabb36781746bf32f37d8366feed463bbc86b2d8d4d831b57956f5d67b",
-    "7ef0c8223d4274813cda82c29afd94ba60a325622817f73d7c60867f0a32ac40",
-    "dc65be5bdff478d356d648b55604d9b6b78f4d0814892987bc08c5dc858a5183",
-    "e229ad4b20675fb2738c1b3a49f9776970d558165bc98a982c96835d3a606d30",
-    "88840d17626ea3c80d111cbb901af3d04b18e85b9bb389d74fd7f18065724734",
-    "59e9a1deb36c1337f308aa3dd4a037e24fee16df749a1dd9c5a3e15bead83250",
-    "bb3bc5001ea87301eee9188532b59d3a9c0d5195fc5d5c73c0172af55dfdf41f",
-    "9f11a078e5f835a8adcdc8840f1078153b75bde37ecedebd0a130129292b4a96",
-    "94e103bc967c8c37bb6954ef920aaa45448a1ce2cc2bd638b00086dda1032aad",
     "18b5c18fe205882c2f902948a4a496c4dcd5816dc935332fafe2c5ecb45122fd",
     "b11dbc08fd743faa673e7d41e6a9caf08537cd507156b5443ff05dec03897a0c",
     "156f7a0436714e05015a569fdb9b2ab0cca80348fe5b38b6e7875496b5a45361",
@@ -4000,19 +3982,27 @@
     "20c41b7ed064c78d16055b75b03855219d9c47f1cac1abd3062af317ed3cd6d4",
     "ded3855d046a211ea81188711027313b0fcf77eefda706e5cdbfcebff50b247f",
     "cfbd1337769feaa075d72f642120b40d2284be29adf6f497a0ff8ab63d84af7b",
-    "d594c5ec9609729fd382883a1a23b18a363b4f4898b195950a7c816019796bc6"
+    "d594c5ec9609729fd382883a1a23b18a363b4f4898b195950a7c816019796bc6",
+    "e0b409886650f42494374631fb58d2030b640b0590791915ad06b705e0174b27",
+    "babf09395bc23fc57acfda4606977a36d4a555df22c54475904c2f18bb5180b8",
+    "13f7a2b2525df582b1961b6b72d45baaf137750dd51a0024cf755f0db2a2951c",
+    "ae48001f271628232a442d05ee244eedd2c727d9930824116fb8d66a2a254595",
+    "aca52447b84be204052b163305858fca023ccb475308d81f83c4c67aa1e3cd78",
+    "33faffac911a85d6cbf9c61727da44b9d24f89d9c646ae50534b2d64cd6ff743",
+    "86503bb499b09c24a99f1c17faadb9bc9dee1a0b8101cf57ef869a22b8a8a61e",
+    "0c9d0bb0495830b96eaf745f653a4a141f5acaf36da3d99058c525016612edcc",
+    "363e73572f814576f23fd9d4d0f0d2d450028d639df36dbaa23836d2e803c0e5",
+    "22863f65b08bba1634004190d035de8f3087404127ca8710a3052d62a535de47",
+    "88cc0e2c4898cb0b1e43bcb1116a0ca703d4077f1623f3b758d8212795817bea",
+    "6d5fcc241d6730cca8679e1346301e1a4ea640adebfeeda4feabe0523eeb8894",
+    "f595bbb658e5e0512ff3a1918c4b8057cd6f28973b974f9d6a6f01a292e61613",
+    "27bab69610fd83815b5729009fb78a5ca24baac849290b0f3727e2831ad268a6",
+    "0ea9e1e0aee509c9a9d7149e83f4817c8e7b00f8d6cf9a806cab29ac693ef872",
+    "fa97af56e8362969425350cd7c3135e4b8567d95fe7eedbcee536362345e29a5",
+    "3a2a1b7cc8f45fc9be60d3c6e1c0f8060f86fea3954390ef3efd82094efc5cc6",
+    "fcac4a2f2d50ef199492be657437d0f90e47dfe24679b5e3acc9000914c72faf"
   ],
   "title_hashes": [
-    "8ff7d9097ffd8581d358ae05b5b3f7bba8328d0b6560aae273e73e4bf38eb927",
-    "16f646db505a6bd871d6cb3ff40c08bc3c69be6fc1ab67f63a8df40ab5e41187",
-    "5164090cb8fd228c9eb0aed433f24c1e66ef3132c48106076523a5da6bfd76fb",
-    "7d9ca21c954743f6c9a60ffc98a3cddc6664d07d5a77ade6ce823ceab6cc15ab",
-    "66386435483a297b367af7af95a875ecf2e9c1d564b4e33ce5493c3ae2bb5980",
-    "b4f7c51dded90150ca37446ddf2a3f325974bc0ab6981afd4a32c5dcc8c9e5b7",
-    "d6ae322aa20e9cebe6b0e9a3d07824d33c1c40362cd00ee629b05c4db07d0c43",
-    "fe67f9620e59fa42ef517f4030b77747f4ebf3410e11029c52b7e4febbd15a54",
-    "1da4a8bc4a4119b4a2ab5b8f80e77dae084eae5dee017a00ffe88bed70377b48",
-    "090caaa6c83c75b12b3c0c83ca7f2b83955b3944aa20c6827da20b6975935413",
     "2738acdc36f0b9d7e3e4b779d7a276a58767122697f5d3cf006b7ea19e7f96d7",
     "90b563e1ce74034e02a4e8ec4148188fed7a5a489e09d8fa69b2e9386afb4ea0",
     "fe6697ecb9406b699ad38df7ec90e613f4da1fe80f79e514a33b765375ae73dd",
@@ -8002,30 +7992,19 @@
     "28d1796434e285c676bd9f123346888a94b6e2c7ca8c386653b3450755dba6b3",
     "3690fc24ba1b7d0c42583af9163ddab496a96ac2c1b780d08c462e17274c957a",
     "22a41a0c74a381ade46a719792cd84e1b59ad04dc1ab612a0b4105c35cabcc76",
-    "3fe8ebe8cbb9daa8e33dce7f531535f3f3dbfc8c29763b029fdd2b62f490e680"
+    "3fe8ebe8cbb9daa8e33dce7f531535f3f3dbfc8c29763b029fdd2b62f490e680",
+    "b453064d5d42e3c3e1c7ba833ab996b12d003f3cd48fdc495842e9370a4bbb45",
+    "c34f5ada7e22289ddd65b21cfd5692dcb99d77744758324fc10e0889947eb408",
+    "ad1a3296f17f8a7c794200f7762ceddd6707125e1b8924633ac6672005014a98",
+    "cdf3a19b41fb31cf54e66e9f06c837026280d6b980eda25017f4ce4b7978edee",
+    "cdb4962f224f8dd54f86ceb32d9f4ca5097983a410c32740384aa68b7255f151",
+    "23875207f0405c4460689faf86cd7f86e4b90aaf5850c5e3feed324b3667a3d4",
+    "61437abf4b29cc8488b51fa4a5d892d0bbda0f6e869f03e336288eb35d6070d0",
+    "ef40b27e497884efa38040e84a482c18f07f0cdd919de7c69b990f24d3990bbd",
+    "dc55221c18ec2687c102aed9b69545cfa1f5fbee55c2a92f18a12f25050c0fed",
+    "b5752c688ee4c1c291f9a09097a7d5eacfe3172b4aecb30e329dfde06671a706"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wccftech",
-      "title_en": "Elon Musk Says SpaceX Will Provide Starlink Mobile Users Rooftop Microcell Towers To Push Signals Through Thick Walls In Dense Cities",
-      "title_ko": "일론 머스크 \"스페이스X, 도심 밀집 지역 통신망 강화를 위한 스타링크 루프탑 마이크로셀 타워 제공\"",
-      "url": "https://wccftech.com/elon-musk-says-spacex-will-provide-starlink-mobile-users-rooftop-microcell-towers-to-push-signals-through-thick-walls-in-dense-cities/",
-      "ts": 1795089939
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "AMAZON: IF NEW YORK CITY COUNCIL'S LEGISLATION PASSES, WE'D NO LONGER BE ABLE TO WORK WITH THEM",
-      "title_ko": "아마존 \"뉴욕시 의회 법안 통과 시 시 정부와 협력 중단\"",
-      "url": "https://t.me/WalterBloomberg/38672",
-      "ts": 1795090003
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "FEC Resources GAAP EPS of $0.00",
-      "title_ko": "FEC 리소시스, GAAP 기준 주당순이익(EPS) 0.00달러 기록",
-      "url": "https://seekingalpha.com/news/4674634-fec-resources-gaap-eps-of-0_00?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795090069
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Arbe Robotics Non-GAAP EPS of -$0.06 in-line, revenue of $0.75M misses by $0.1M; updates FY2026 outlook",
@@ -11504,6 +11483,27 @@
       "title_ko": "BoE Greene: 노동시장은 우리가 생각했던 것만큼 약하지 않습니다",
       "url": "https://www.financialjuice.com/News/9860502/BoEs-Greene-Labor-market-not-as-weak-as-we-thought.aspx?xy=rss",
       "ts": 1795116148
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "东方汇理首席投资官称不看空法国国债，AI板块正处于重新定价初期",
+      "title_ko": "Amundi의 최고 투자 책임자는 프랑스 국채에 대해 약세를 보이지 않으며 AI 부문은 가격 조정 초기 단계에 있다고 전해",
+      "url": "https://wallstreetcn.com/livenews/3202777",
+      "ts": 1795116241
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Kraken parent's acquisition of Tribe Capital flags new chapter in evolution of crypto exchanges",
+      "title_ko": "Kraken 모기업의 Tribe Capital 인수로 암호화폐 거래소 진화의 새로운 장을 열다",
+      "url": "https://www.cnbc.com/2026/11/19/acquisition-of-tribe-capital-flags-new-chapter-in-evolution-of-crypto-exchanges.html",
+      "ts": 1795116300
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Bank of America banker Stewart Barry to join Allen & Company, sources say",
+      "title_ko": "Bank of America 은행가 Stewart Barry가 Allen & Company에 합류한다고 소식통은 말합니다",
+      "url": "https://www.reuters.com/business/finance/bank-america-banker-stewart-barry-join-allen-company-sources-say-2026-11-19/",
+      "ts": 1795116303
     }
   ]
 }
