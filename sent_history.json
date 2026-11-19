@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795088482,
+  "updated_at": 1795088650,
   "id_hashes": [
-    "2b7510a82f7abdc0d0b0d4b7aff1f5eeb239b12c268f048210661e919db4fd51",
-    "9bc53eb2189c508d4a6d36d3c5c5d86eb05eb3ef96496b5832c9b62979563b49",
-    "c8f403a6a12e8faefa8c4b48fd0941b639e50f612f738ef5956609a29ef4287f",
-    "5bd1e7fa2336ca2b66f5085c55611153db50041c821025b5d11dc263b43c8e21",
-    "334f3e83456604021de27651094d88d1418324b4f30b9a23d09b8801bf692ae0",
-    "1a1b926f6c216b8f22dd38c2521fad7a542cd8bf22e8aed9f2c8f7fccf7a5a22",
     "84d0062e3b339749e7a559ee8dc40f77c3f73e9574453eb827865eea7d065b45",
     "c94807c3d770d40d307d4a6df0bbb2a884c5b7834fcdfa9c81b794362a750fe3",
     "1146bc61f85817a13cf2549275ebd129c6f9254e4fa1e115a1c5d2ca3982a095",
@@ -4000,16 +3994,15 @@
     "aea87eb09fcec539ff5e1060a87447a0a2d7d3e5d04ffe19bc471ce5085b8caa",
     "b1831d2a06e78e685f7d826a98361533bb7743af68036c5cd8299b98b6b928ed",
     "cc75a974a31fd738fb94a27d65a3633bbc7d2558dab4f4a7205a2c0918bd8291",
-    "85df29bbbb323f8ca71010fc0f67d7c653046a7af051b6d8e4086887efa469e4"
+    "85df29bbbb323f8ca71010fc0f67d7c653046a7af051b6d8e4086887efa469e4",
+    "dde7e9ec14c00abb0ccef0015a3e369f082bbccd2747f6d7cb50a8f969f21479",
+    "880a94bbcee78427869367ab5fbdc2df108894613a7b1367c017c74cdd1405b9",
+    "3191d4b380dd22509ad8def1fbefbc8f6e4f75e63dac9fda8e9b3047ef1deb7e",
+    "0276fbf196baa69b45bb7dcd10a7b301a50d959e349babf480a90326bb0afea8",
+    "15accb03f2025617afe461415b3106d7800d4bc342c2356e2b85c344d2aa04f6",
+    "6c2e89c8613cd8b52574c91fed7af80ace67fe53e0bbd3e4f68d443b464d80fb"
   ],
   "title_hashes": [
-    "4acc211146b70e2668fc77f60cac5a795f399e8b20c7912040addd3219838f95",
-    "b780d663f334acd64b959c5b6eef8402790e9a967b4ccc0ee4c9fa00de45b755",
-    "a4c74e35df653eff647363ebfa6c9bffdc72624570d62821f8b9138ba7bfda76",
-    "9ed49d37c5ae06a95e7f1b6ecc4a2a6e54ddbf20159f5722be331d0cb6cf12fa",
-    "ce560b36d925934d80f28101b287c6d4240bfe4d300f6dbccba5bed487a17154",
-    "b4ae435c6cc96ca2a31ca1f00197b6c0427d7a7df36fec484f232ab394d8476b",
-    "3abcb3251d6d54fdecad5503e546b13e818c2e89eb813fa66492e7c7d24ab94f",
     "78b62ed18ca1b934fe1c7ef4f543de87dafa75e22e5aec96703fd4ee85b9eb74",
     "e3bb91661638e96d97c99428e185eecab618d812148ab34bc8528b457a99249e",
     "d4af4d415b7a712d4d5678813b16358bef2ca1a915cbd1ee6e76ac1224144b3d",
@@ -8002,44 +7995,16 @@
     "e6f8528baa9b003da63791b5441f25d630c65711b8b0534808145a07a071f6ac",
     "56fc265fff39083592929ffa47d22e5ccb8a756c385aa19c17424b16595a1710",
     "543a954654e3255903c1c7f384dcb6c8bd893a2e3e89156f70952ac2bb70dbbe",
-    "109f3b987c696856c33e1fa41488c1b4fdfca250ecb8f3e03e03f86348695ce5"
+    "109f3b987c696856c33e1fa41488c1b4fdfca250ecb8f3e03e03f86348695ce5",
+    "21bf1800a85f7e3849eb948852bc30a08a9bb15e035ea2011095406a741c339f",
+    "395678184fbd3484e57ab960bd091cf0f58545509a08407fb1c8d71cdb9bdfff",
+    "71949a1d9787298a02f4c4cfb3ec3a29abd63cd8c40d3dadecdba8b210f8d133",
+    "bfd66dc2f21ff83cc43783bf67bf2ed126fef9d55b7eaaf6ea2727fa482a2d51",
+    "459e6a05d251aebe22e20ee54e0756d2fe5d87474a2800832590aee073d767b3",
+    "fb300f1912b2b64efb2e8f418020ed26e72a4dd9f4a60c2b8515a6190e1c579e",
+    "5fb2b4530fa115619486cd63dadeec1c239f1a7de8f8015a9849278feabe0b02"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "What’s Next After Trump, Xi, Putin Meet for Historic Trilateral?: Live Q&A",
-      "title_ko": "트럼프·시진핑·푸틴 역사적 3자 회담 이후 전망은? 라이브 Q&A 진행",
-      "url": "https://www.bloomberg.com/sessions/2026-11-19/live-q-amp-a-what-s-next-after-trump-xi-putin-meet-for-historic-trilateral",
-      "ts": 1795060143
-    },
-    {
-      "source": "우주항공청 누리집",
-      "title_en": "우주항공청 누리집 국가상징 국무회의 알아보기",
-      "title_ko": "우주항공청 누리집 국가상징 국무회의 알아보기",
-      "url": "https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/view.do;jsessionid=CnnTeuVegdKqlB5D8FyVPC8NiD0TcEwWjTmsQCMb.homepage20?plcyBrfNo=555",
-      "ts": 1795060207
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Grant Cardone Called Jensen Huang 'Shameful' — 4 Days Later He Told Nvidia Employees 'You Know Better Tha",
-      "title_ko": "그랜트 카돈, 엔비디아 젠슨 황 '수치스럽다' 비난 나흘 만에 \"직원들은 더 잘 알 것\" 발언",
-      "url": "https://www.benzinga.com/news/26/11/63417311/grant-cardone-called-jensen-huang-shameful-4-days-later-he-told-nvidia-employees-you-know-better-than-the-board-after-a-600-billion-wipeout",
-      "ts": 1795060211
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Trump Wants Apple’s Cook to Run Nvidia. Why That’s a Bad Idea.",
-      "title_ko": "트럼프 \"엔비디아 경영, 팀 쿡에 맡겨야\" 발언에 시장 우려 확산",
-      "url": "https://www.barrons.com/articles/nvidia-apple-jensen-huang-tim-cook-f258002a",
-      "ts": 1795060235
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Hong Kong Ends Prosecution of Chinese Ship Captain in Baltic Pipeline Damage Case",
-      "title_ko": "홍콩 당국, 발트해 가스관 파손 관련 중국 선박 선장 기소 중단",
-      "url": "https://t.me/firstsquaw/194101",
-      "ts": 1795060299
-    },
     {
       "source": "연합인포맥스",
       "title_en": "日 자동차 7사 영업익 ⅓은 엔저 덕…환율 빼면 감익",
@@ -11504,6 +11469,41 @@
       "title_ko": "개인 투자자들의 엔비디아 지분 관리 방식 주목",
       "url": "https://www.wsj.com/finance/investing/how-everyday-investors-manage-their-stakes-in-nvidia-8270f025?mod=rss_markets_main",
       "ts": 1795088481
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Bitcoin Bounces Back Into Green Ahead of Anthropic IPO",
+      "title_ko": "비트코인, 앤스로픽 IPO 앞두고 반등세 전환",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/bitcoin-bounces-back-into-green-ahead-of-anthropic-ipo",
+      "ts": 1795088569
+    },
+    {
+      "source": "매일경제",
+      "title_en": "그린파이어 리소시스, 스트래스코나에 피인수..주당 11캐나다달러 현금 선택",
+      "title_ko": "그린파이어 리소시스, 스트래스코나에 피인수..주당 11캐나다달러 현금 선택",
+      "url": "https://stock.mk.co.kr/news/view/1202655",
+      "ts": 1795088637
+    },
+    {
+      "source": "매일경제",
+      "title_en": "플래닛 그린 홀딩스, 락토페린 정제 등록권 인수..면역시장 진출",
+      "title_ko": "플래닛 그린 홀딩스, 락토페린 정제 등록권 인수..면역시장 진출",
+      "url": "https://stock.mk.co.kr/news/view/1202657",
+      "ts": 1795088643
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Laprophan Raises $223 Million in Africa’s Largest Pharma IPO",
+      "title_ko": "라프로판(Laprophan), 아프리카 최대 규모 제약 IPO로 2억 2,300만 달러 조달",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/laprophan-raises-223-million-in-africa-s-largest-pharma-ipo",
+      "ts": 1795088645
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "[ Z ]: NORTH KOREA USED SKY'S STABLECOIN, LAUNDERED HACKED FUNDS THROUGH THE PSM, FUNDS WITH ILLICIT ORIGINS SUBSEQUENTLY DEPLOYED INTO INSTITUTIONAL LENDING AND INVESTMENT PRODUCTS: COINDESK",
+      "title_ko": "코인데스크 \"북한, 스카이(Sky) 스테이블코인 활용해 해킹 자금 세탁 후 제도권 투자 상품에 유입\"",
+      "url": "https://t.me/marketfeed/1081581",
+      "ts": 1795088649
     }
   ]
 }
