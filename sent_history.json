@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795075741,
+  "updated_at": 1795075901,
   "id_hashes": [
-    "e8e2b380810f85de405b27ec08c23aba7c278f35c649a08b6d735341d67e2021",
-    "0efa8be99729986d1f957d228ce51f6835ef501053f08ba9ce5ebcc6c19dacaa",
-    "25edc50df62780fc230e72427fc33ccb82b56544e3dd2f10c735c81f7240ddd3",
-    "50865ca4030c318efbf0d2ab918d002b97f02d1dfb0211b890900c474d115204",
-    "993f1575306384ffc601fbea0cc80dbe70b564f53dacc549ea8c241f79155420",
-    "58a2dd1a1defe1a95f2012a7ba16655508aae1534576b7c7d67a5c4d372267df",
-    "1976ac0e782bb0df7c37298d107123b5e3a3e6db24244dcef9e4ff4bca7e5669",
-    "369220756efc42a92c24fe08eb14d24eba237d2f4f5d1649f7c510321b01bbaf",
-    "927c027194a6a498fc45d7ae2fe528e404d08122e728652cc7f90575d2cb60f6",
-    "ab53f9915899bee8f1e081cd92360290adba8a755b9984ca3073e0456a886c8a",
-    "b2dd5b9b22405686be22e367b7b50c849461a83566c93a36d372ab9fa8e08bb7",
-    "ae5210fdb2ac76a408034190e310f069fa0308efdfb209416508776f1ba01d3e",
-    "d337162da1bf1d6b988ca9266242bfd160f386ab6ce38c5b9095bfc71b9de4d3",
-    "b22d311969759aabdc01dc294157ab1c8fd01b78baf03dd3e72b4d53b0b2b39a",
     "00d8a4a7abbf966714a1b3c4f18f596ce23acbc061c5c10eddf25218b98e53e5",
     "ef328ad3762ae02ea1abd57d94ea31c390f16c8a95cfe570ef6dbb4f20a66d0c",
     "5cfa3f1a3c86912da91306c4daca97eac407eb72e090cdc72c5119af3078c9ea",
@@ -4000,21 +3986,23 @@
     "b1e99d141527f13bcc81a00b100b7864357c1b39bd833bd3c31aab8be09dea91",
     "744c3d12b481f6664c5853f47e46ae108a9d153456c9474ebc8a001b9c0bea00",
     "3f62c003653229794b886e74f8a1e8348ab19cd9a827583f67ec1ce21ba0f48e",
-    "e8f1aab3b882e685bfc3c8e55112b88691004b9aa33be07783d17b2d89ddf1a3"
+    "e8f1aab3b882e685bfc3c8e55112b88691004b9aa33be07783d17b2d89ddf1a3",
+    "9458294bedb6d60a5034c2fa33058a0d0a8d2ae5655851198df05d7b817ec071",
+    "34aae6b790a1c9274f46c140c412f76d879b6e12835d94fe4093aa255874e621",
+    "680ec228eb60c69811640f0e0337838aacf47aabf0b1c915de2ef0a88331192e",
+    "235d109fcfaa74509eaa4be9e8ffdadf8244377bed03142adc0d1bfafd275b41",
+    "13ad6936036be667e86097a3c2a92fc885f44f7bf53bb0a2a909c274119f0c00",
+    "ae4814c2aac2a381c2d674e5d8b0cebbc14e49ccea1ded2955142b39d39af260",
+    "bcad078347b7967ee78e517c7e2a192b2345990d2d01731fa5fe20b95f5a32c3",
+    "97b01fb80dadd47407dc34ffd37babb525e9780892ed0a674a3082bd5c0dfb3c",
+    "4835a9cab3c8850ee04343e7564633957e289e54ea6d703c8ea636bd14ff73a9",
+    "e9aa2d511229889058b49ec2af22405654877a7f40325fc47c96b23132750ba0",
+    "7b2971cee25a237a39c45a7e44b47f4e3a6d34ef2727ed9dd8594ad7f308bf19",
+    "09407801f515ac44dcc1c568472fb9367e2a5c6e040ef926d3f89d3b5de0593d",
+    "4fd73116b44536f56d205f905e2136bb8715ccaf2abaa7f89896469bf7a0c0fe",
+    "33a27da056dbd6f8c785edb59d8d8e97e7650d68ff809c83738f9fa61da0103b"
   ],
   "title_hashes": [
-    "1f6a10425dc06d2954c87b7fe44e8729bca92c1e655dd68b55872de1acba5b15",
-    "e012a75ff7e480ff0d308f188e1167613f885b2383d9a9200a082a6bf67cbdc8",
-    "466a6177cd7856ca912f0befe620c79c70ad1ee7400a9e3ab5081c3e0e69d799",
-    "63fa0b265b8e96b1dbe80d69676291496825b55e59fb212d4a3cb57ad4d4989e",
-    "fb4e3d254dc1aa52fa258e360b1c6384a11200d5c5ee3401db9bbd9645f11d23",
-    "615f7f6d1b379847e65a210a998aec721b0c5206e1a4e09b00a19d8fd1f77555",
-    "13e6d621616c1a549031118b936fc8cff985534691c356c13111373ecb830464",
-    "4dbd7f30c0e872e6fa3e400083687dc7c6ca79d051516613211ee896c0b53820",
-    "d1766ea8cf2d6061ca3ea553fe19a6756614bed727228c2cce8b17185790c9c8",
-    "7e6ba0efc9dd603ce52f9c9c7b7b7c86778603e658099c16904c829bff2030cc",
-    "d2526da01c80604fd54990f5cb3bc1d3e872b1ceaab932fad3a4e5760fd6cca4",
-    "7565681be17e60ce2e3103d222d28e02afa0aa378f4d40615d6d200e66706ce8",
     "a339e911f3517246b7d7fa8805841aafedb2956bea096b779fd6c87bd0adc89d",
     "708dc7fa98d01beea6dfd708ceebeebe45adb730b598dc65cb680a77b448a54b",
     "80276541887596d931ecc34f34e437537a56b70f7dd77fd48ae3a5cdbc377ad3",
@@ -8002,30 +7990,21 @@
     "6d59de67c7b72de2c79dbd9fe58cc66429d11c693b408d303947b3bcb6e84f1d",
     "845294a0cf5bef1cd05a577eeff1292ea08b29e653edca6958036002b6ff52b1",
     "73cda853e4ff1280b61ef0f8d0fa6e74b02a042bbaa7e9e3af29c6d5ab1e74e7",
-    "5fd41d810b1002764214c0dd4c0f9a6fe6bbdee204389d82b82df4cc2c61c17c"
+    "5fd41d810b1002764214c0dd4c0f9a6fe6bbdee204389d82b82df4cc2c61c17c",
+    "851669e9676f7798b707828b7e133577625d7d43ef6f12914321111452c35813",
+    "e63bc31e51755a450f932a099bdae227906c187ba4a843fb9853871f36806e69",
+    "4988c2f3d117a86861845aa9c3707e66245968b57a3791a9697e94e7e96e0481",
+    "f3d2f23a24b1651791cd8aead3c7c3075e84cf44eeacf65b84aed889116d34a2",
+    "4ef1b8ef1dbf352a8430a9376729b5e461330fed89454c8c24661fea7b233a4c",
+    "08049668be0168e51ca41676fd5165e0d97b385cb17542694b8c4738ea1c4af8",
+    "1eec983b41fa2626bea2d9fa632a14741970d03eb19cd3679230219b2a283c41",
+    "237c7913531115fc3624f1af2b5123b091d228f80f73a9ce7666fd9b7f303018",
+    "ecee2a2b66de25498f615d8f22fa9c26ee17a60794e62c8e1342ee6518b09e7a",
+    "81d77855305a234296d0fd4a439dc620e93a0575b967fe558d380893543bf860",
+    "16787916cf42e8b21695d8db0e32d4d2d15aa161f33112cf4057de76f15d4315",
+    "e8003abab3e8590e26f5cbdb4c7cfa43e8b2817a25b056712c27f3e5eb4d6f28"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WSJ",
-      "title_en": "Nikkei Rises 0.2% As Buying Interest In Chipmakers And Retailers Supports The Index",
-      "title_ko": "닛케이 지수, 반도체 및 유통주 매수세 유입에 0.2% 상승",
-      "url": "https://t.me/firstsquaw/194005",
-      "ts": 1795049474
-    },
-    {
-      "source": "전자신문",
-      "title_en": "셀트리온 '램시마' 亞 3개국서 1위…후속 시밀러 확대",
-      "title_ko": "셀트리온 '램시마' 亞 3개국서 1위…후속 시밀러 확대",
-      "url": "https://www.etnews.com/20261119000069",
-      "ts": 1795049529
-    },
-    {
-      "source": "전기신문",
-      "title_en": "HD현대로보틱스, 국내 첫 1톤급 초대형 로봇 상용화 포문",
-      "title_ko": "HD현대로보틱스, 국내 첫 1톤급 초대형 로봇 상용화 포문",
-      "url": "https://www.electimes.com/news/articleView.html?idxno=374986",
-      "ts": 1795049532
-    },
     {
       "source": "9to5Mac",
       "title_en": "Siri Modular Apple Watch face gains two new styles with watchOS 27.3",
@@ -11504,6 +11483,27 @@
       "title_ko": "춘천기업혁신파크, AI데이터센터로 의료·바이오 생태계 모색",
       "url": "https://www.yna.co.kr/view/AKR20261119147700062",
       "ts": 1795075738
+    },
+    {
+      "source": "인포스탁데일리",
+      "title_en": "벨링 브랜즈(BRBR), 4분기 매출 예상치 상회…주가 24.07%↑",
+      "title_ko": "벨링 브랜즈(BRBR), 4분기 매출 예상치 상회…주가 24.07%↑",
+      "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=219017",
+      "ts": 1795075892
+    },
+    {
+      "source": "Barron's",
+      "title_en": "What a Lutnick Departure Would Mean for Trade, Crypto and Steel",
+      "title_ko": "러트닉의 상무장관직 이탈 시 무역·가상자산·철강 정책 변화 전망",
+      "url": "https://www.barrons.com/articles/howard-lutnick-nvidia-trade-crypto-56527f69",
+      "ts": 1795075895
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "[프로필] 김재권 LG에너지솔루션 전무",
+      "title_ko": "[프로필] 김재권 LG에너지솔루션 전무",
+      "url": "https://zdnet.co.kr/view/?no=20261119170848",
+      "ts": 1795075900
     }
   ]
 }
