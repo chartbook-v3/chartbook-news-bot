@@ -1,36 +1,6 @@
 {
-  "updated_at": 1795107617,
+  "updated_at": 1795107789,
   "id_hashes": [
-    "759cf6b6ba5a6535666066ddb06a705f795d209e33f65061e82b7ea7f06bb37e",
-    "c821add12857337f37cac1d428d249a9d37624acf93030ee4f3fa49e5bdb6fd5",
-    "811e7f5fa0518f49644b48451a7f268b470b8757318ca3c113cc656d091c8a98",
-    "7af90af40c4dfc8a396cf140c18cae00c83bfd29281427a25e6bf748e45aeb69",
-    "b83b8398e9f7198183bc284fad7255e3aa639fd5d9eda02ce4bd6d8a2ae9fd67",
-    "dbd52fda16e13d1d2d553b85949c114c51a90b117aee51abb6656f08b9dabf15",
-    "63b11ba7d69616183b2e695c9cb981f683d1dd23ae75f2baf66b930af737dfb2",
-    "fe486d52a009c62e886cf739dcfb533af6e9f65112d4f8a4a859c8a8f5c5ecf4",
-    "764d9370da4ce8bd309a76689cdfc49ec140d345c3d628374bf977da4a7a3afa",
-    "1fcdafe98ff6bf3ba7c4ac5cb40012a489125d3bf64369ae3feabc033b9abff6",
-    "16b975e2758fe595e2e2e16e89075c0a03cdd5118b24830205740d61fe446167",
-    "64552929158688bf29c619c792e46769170a9d7a42b3d27ac7dd14545d3499c2",
-    "5091aed22704c555878c6dbd641d0550a72aae3e1ab6abdace3f0380759d5d64",
-    "386e75c59013f99899f40689447ebf40b4c78907afc9b973ba08c38066dce93c",
-    "17c56061b711fd693317acb139d24895bdc7d0a688bb2214cd63cd4e846db250",
-    "a9b89b98317baabbc9f1c30fc8013100abecddc15d2dffe24607e6cd9aaddc0e",
-    "d0e9da6443f9e5af409790234e248751f1af54589cd258ca7c1a37f79d0aa33a",
-    "49ebdc90c8318261f7dd88fa5d6443661c5ff81b40352be0752b995d4e0ad439",
-    "a8c71438ced1b7616d850f16365472f257e4d225709b55b371dff2f7744dc51e",
-    "a8e392828c26641aff37588128426169b1fe5124279ba67bf5a3158f058d54ff",
-    "c5b0089bca135c64b3620595e9c281de18843f27724eab7dcc86ed72911259fb",
-    "82e91188e2e04560d4b548a146e45e3b852b04e5451303c3b14e4745521eef1d",
-    "42f69fc2daabaad311490c225a5434109ea7dd17f23e3dcc5ca6da1ad83ed037",
-    "e50929e71e42bef234b3ed7887412212013198a515494050a9c857bff2466952",
-    "a92431d2fa26f78fa5fb377b01a75c11b618d4ed493dd843bb8c11e9913cfdf5",
-    "0f300ec529a76ca2c952300b8d0c8cdf0caa9cc1ae1eb7559803aa4cd71f23c2",
-    "38d8f71cfc4a26fa55c047e387c9245280e99351bbe9af034f1633a5ffc0afa4",
-    "6f8f7e4c03134ab778f293a100ac85dfaa6f38abc4e566ccb431a7bab3a1ade8",
-    "c3e8bc7fde971c5162a9598cc54acdba4cbd5983c23d39135aa3cf9eaada01f3",
-    "c66600e6dbde3b6cbb1005ff2bd9d429d0196039d69d382dc76302a7c1d970c4",
     "338d5d70c02b96c382941a01cf8f925c516f4c7474a54da2470ae2f114ba1076",
     "1f73316aaca3fb3dc5aab5a286cf621f02bc076458a1c40d8773b41a16d0df0e",
     "4e6cfe5b542763c050c90ff2756ac792c6a5c48169b99a91e5492973b50d4f34",
@@ -4000,23 +3970,39 @@
     "92dbc3923c1b6b4aa6cead797fe5ac671de18c6bc3bff0c89e90fbb8d6e2812e",
     "5846b9bfdffff554976b1ffe0303b90f86bd603a12f56a3489edced8b33e6613",
     "93888fba5c470ca34f5276145c0f1b1aa1133d77e093f9c949f201bdfaa09fe2",
-    "534cf08088c8bf03acd145f43b4836885f39a2f6dfbfc7052ed8f71d4dfb589c"
+    "534cf08088c8bf03acd145f43b4836885f39a2f6dfbfc7052ed8f71d4dfb589c",
+    "109dbe1b8070bdc8ba4da41de402fe2c2fd443b4110ee12ed5a356a6fad15fd0",
+    "e919d86bc28dbc30cd79b20d2f99d8ca4f2f29de6507c620ffeded3fcfc023df",
+    "cf2a39155537eb50036f2de08c470b8eec45354f13fd55ebd4268d7eff521528",
+    "b3daab1da080fccb5bacda2f5a50b1d96fceb34dafb3569a23e626373cba8d03",
+    "1a00080e83919cd810c8275a03a39e6ee89137579612b08568a9a7374d25bbeb",
+    "547f768fb76c4b8f9e6b53114a286307933fd5db0b0c1ec6b68ee963ab2032cb",
+    "013edcc0a744178869fd41a2a7c30e059e791147cf3ad8f83687273514b59775",
+    "5f092436871e8b944b7338e4f710aa56967daf0e7b96860200eff6131f04dc2f",
+    "794cda62c16bc49ed7887f755f2f901c5fe79905b603d7e26506645b467c2449",
+    "ef0f2c42485d130d5e11fc7e8cd76a713ae566412b84aec1c53174d962a03a21",
+    "d8dbe014bcf9696acd0eb66cef5f819e6fce058bcc43078bd845c3203f0bf943",
+    "0fcb78b295884d8dd6520448077621a76ddc0cba53dfd6cf8a11c5c1812d4b12",
+    "d2ae445696ed5eafe19e585fb2b34d5490c9518d50c1092cd77c8f0e85c38c8a",
+    "2b82e9eb7a05658e0f4207d2d75714f4cf5d635bd458c951693cb44d787ca853",
+    "7b71bfdbd4d2e65a028f319334f17c42df277b87ed61338e99329b19659c246a",
+    "d315ef285ddfed3c804edf98fb5fab69d433e162244d22f4cdebc634bf620230",
+    "1063ac62cf175375865da4c945f066a37b55eff1ee8a67e390856eb56204348e",
+    "b03c779309416d5210b2db0840ebb2df8f8c51cb59a98f0a920396eec13a40ec",
+    "d4b1edf5fba538145d23474e3789b52a653e859e8a07dbf27ca542358baa0dfc",
+    "a1600327b3549fcd366034dba81ce8e6ba08ec910fbda0cb156bd8c8d87c2f03",
+    "fbbcee8f5e0b00f44e806806dfbd7fb23132d3b39bdf25f4137f561d9c12af72",
+    "9b680602142ac5dece4d997ba4be0c80ed1a93cbe21fd2c7031912bdb067f277",
+    "43ba04236a5b531eb88bcfa341edcd32d50fce79c366de28eb04b2ab42b16020",
+    "3bae77f051c0aa05dcbadaa28fb3a0e3b2f323f186e49d7e3604a7c23e5c140b",
+    "7512ecba3b174bb83c7610c701646c77294e74c48e01b60ecad00c69f07d7554",
+    "6420726d992da93938001ac275a0541ef2c2e09b29382882730713309210c767",
+    "267c1f6ce8eeea59674a92257d54daad6eb77560d8668948d4f04f4c210d7e41",
+    "37e2311cc9a75431e0f519070461017eeb8f373f660923a3ee39d8fc30d3d6f8",
+    "6820a0edc7ff36aa2ad1b41e9f692262e032fcb0e0b695620daa7600780e207a",
+    "e7e6c81fcc3d990314bc5eaa5360d0533403a1895414dcd2f0b7ab6e81f3dce1"
   ],
   "title_hashes": [
-    "45e01452975630623462de5f721a9ecb21ee32c266aedc3407b2997db7c72416",
-    "3dcebc54d7604a1eb991fdec455bc22ccac14f79b61c0020b76c0cbce8efca8c",
-    "bf000dc3ac159a305174425c1bffed9500f53e8ff0e14237772e0fd9985c9aa5",
-    "8115938434bdcf5398bd37276b41454a0f2f3a4a9d3b26b3c9a2e7d46f65a440",
-    "21f4788ab9db2ee74f5bee0f1844c9fd4b27cf7b0b22f3d3e78511ddacc241d5",
-    "ba9bdfdb768a5d2430660278821bbf77e86b1e1cd80ab5e014c885a25d8bca9d",
-    "7a497d3dec08a6f199e59f105fcd7f1ae14797ecf253b7e59235a5025d2496d0",
-    "5913eb65820bfc3a87a9ebba64978a9969deedb9f7d5f3eb02ce5a9740594ea7",
-    "ace0e6b104668960af44f37d3f5348213672ae640338401ca456db3dd78650d2",
-    "822a0c4e29c378f38094affcfa1a7660958bebbeed631dd6286b7618e1744851",
-    "e6b39471b0643cb69f4869947077b42847c453a94bf1ed5a03f024c1470a376b",
-    "35d25acd7a1edc38cbab3541a382cab3ae8c7c0e2c8b7425a41999ba8e0c550c",
-    "ecea59eb9d4dc2a879b63bac0ac85f25db8b7692f1c91c912195c905c2aeb770",
-    "ddb32573a9fb9a07d37fd8c482152860e068d1f320f809d81779f22c0a181ba8",
     "208f31accc26e5916240b5da785389cddc5497a6fc5060a7d13d889b8cb9e0f5",
     "ee2cd400db3ecae4b20b15aff1f1206eec905a9225b8038dc3f2317916400dfd",
     "32c9298c825a3bb2beb4d6b8675b6f521b3453ecab0bf5896e6561ab87464ce8",
@@ -8002,65 +7988,23 @@
     "5ee64b1e5e9aa53bf390954122f1927b0714e3d6af4c49952731278f52ad4197",
     "74bf8f4fe21c76d0a63e1dc32efdd2e2e299c49b8c6af290ea52f804b08c2e6e",
     "c67d1a91e7b850e4a902fd692678c7d0f11d780180a4713aa0a1f5093b8a97f5",
-    "a2ca857bcb0418cc4af6dbf6842cf68f44d3a35cc7f62876d37d76c2025ed0ce"
+    "a2ca857bcb0418cc4af6dbf6842cf68f44d3a35cc7f62876d37d76c2025ed0ce",
+    "dab000589c5b46f372c64684e430e4e5a80e7d5aa3f2c0ae8e3e80ad1b53c7d5",
+    "1e479431507766f73a4788bcfa3b0ddbfd67c428d521eac9763833d74dcf4d5e",
+    "8491ac00e2de34cb1ccf49f352b3c3cf336b6e02111251ae40aeec0461e30de0",
+    "481aa8ab806b2f461439344abc26455f5ba47ccbc8cbe8943524853fac5747e8",
+    "a4331c18a9f3326f205555f9d0acbad492ccca902ce854f7e50959f97d1d26d2",
+    "e50ba12a07f03642db8d65f5ec9935ffeed7a584b9f97f5964fa560ee464ca04",
+    "874b594ae341a9919196b8c6f08936da725b188cfc24d19829a3208389fe98a0",
+    "184fdd2bcfe71fc0cf47dbe8a265cd68eb8dca8e97836292bdb58a6ca15e1ccf",
+    "1f336fc2c16906dc95141dc5e90380e1a762f2a5fad5ae25c034909e4bf0ee60",
+    "28f0d44a9bbdf4761c24c8da1874b6f30d939838bf02e42a73cdb7a687543e96",
+    "56ca4adb1c531fe619dca4a66c035e25abde558f820276add1d4f4421055f8b7",
+    "d8ed1ab4e7c19373c610929ac5d532ee4fd45fbae9256a4f3514005a08855871",
+    "ba502ab1b426280cb08416363c74cbbd947ce8503be2a355d3a80891d826d5ca",
+    "e92e61dfcfd198e31d84fc5418214e42eb35ab835f01ebebeab300421c6f63ec"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "ECB to Probe Riskier Private Credit and Hedge Fund Links at Banks",
-      "title_ko": "유럽중앙은행(ECB), 은행권의 고위험 사모 신용 및 헤지펀드 연계성 조사 착수",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/ecb-to-probe-riskier-private-credit-hedge-fund-links-at-banks",
-      "ts": 1795081944
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Intel Stock Is Falling After Parting Blow From Jensen Huang",
-      "title_ko": "엔비디아 젠슨 황의 작심 발언에 인텔 주가 급락",
-      "url": "https://www.barrons.com/articles/intel-stock-nvidia-jensen-huang-61d826ce",
-      "ts": 1795081970
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "'특수 정밀화학 소재 제조사' 피지티, 코스닥 상장예심 통과",
-      "title_ko": "'특수 정밀화학 소재 제조사' 피지티, 코스닥 상장예심 통과",
-      "url": "https://www.yna.co.kr/view/AKR20261119166100008",
-      "ts": 1795082030
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Dow Tumbles Over 500 Points as Nvidia Falls After Earnings: Investor Sentiment Weakens Further, Greed Ind",
-      "title_ko": "다우지수 500p 넘게 급락, 엔비디아 실적 발표 후 하락세에 투자 심리 위축 및 탐욕 지수 하락",
-      "url": "https://www.benzinga.com/markets/market-summary/26/11/63419422/dow-tumbles-over-500-points-as-nvidia-falls-after-earnings-investor-sentiment-weakens-further-greed-index-in-extreme-fear-zone",
-      "ts": 1795082120
-    },
-    {
-      "source": "에너지신문",
-      "title_en": "커널로그-메가솔라이엔지, 태양광모듈 진단·정비 연계",
-      "title_ko": "커널로그-메가솔라이엔지, 태양광모듈 진단·정비 연계",
-      "url": "http://www.energy-news.co.kr/news/articleView.html?idxno=229929",
-      "ts": 1795082247
-    },
-    {
-      "source": "Barron's",
-      "title_en": "SpaceX Catches Starship While ULA, Blue Origin Stumble. No One Is Catching Musk.",
-      "title_ko": "스페이스X, 스타쉽 회수 성공…ULA·블루오리진 부진 속 머스크 독주 체제 강화",
-      "url": "https://www.barrons.com/articles/spacex-extends-rocket-lead-blue-origin-d9e88ca1",
-      "ts": 1795082397
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Iran: 2 tankers hit mine in Eastern Hormuz - Fars",
-      "title_ko": "이란 파르스 통신 \"호르무즈 동부 해상서 유조선 2척 기뢰 피격\"",
-      "url": "https://www.financialjuice.com/News/9859655/Iran-2-tankers-hit-mine-in-Eastern-Hormuz---Fars.aspx?xy=rss",
-      "ts": 1795082405
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Palantir Reportedly Targeted by Alleged Russian Agent - Palantir Technologies (NASDAQ:PLTR)",
-      "title_ko": "팔란티어, 러시아 요원 표적 공격 정황 포착",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63419448/palantir-reportedly-targeted-russian-national-igor-diu-indicted-foreign-agent",
-      "ts": 1795082559
-    },
     {
       "source": "Benzinga",
       "title_en": "ZKH Reports Record Revenue Growth In Q3; Stock Down 90% Since 2023 IPO",
@@ -11504,6 +11448,62 @@
       "title_ko": "마크롱 프랑스 대통령: 목요일 베를린에 참석한 사람들은 특사를 통해 트럼프 미국 대통령과 소통할 수 있었습니다",
       "url": "https://wallstreetcn.com/livenews/3202725",
       "ts": 1795107616
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "AMD SAYS HUNTERBROOK CLAIMS MISREPRESENT AMD'S PRACTICES",
+      "title_ko": "AMD는 HUNTERBROOK이 AMD의 관행을 허위로 주장한다고 말합니다",
+      "url": "https://t.me/marketfeed/1081823",
+      "ts": 1795107704
+    },
+    {
+      "source": "9to5Mac",
+      "title_en": "Halide 3.4 adds a bigger viewfinder and fill flash for iPhone Duo",
+      "title_ko": "Halide 3.4는 iPhone Duo에 더 큰 뷰파인더와 필 플래시를 추가합니다",
+      "url": "https://9to5mac.com/2026/11/19/halide-3-4-adds-a-bigger-viewfinder-and-fill-flash-for-iphone-duo/",
+      "ts": 1795107765
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "NABP Healthcare Merchant Accreditation Now Recognized by Google for Telemedicine Advertising Certification",
+      "title_ko": "NABP 헬스케어 판매자 인증, 이제 Google에서 원격 의료 광고 인증으로 인정",
+      "url": "https://www.streetinsider.com/PRNewswire/NABP+Healthcare+Merchant+Accreditation+Now+Recognized+by+Google+for+Telemedicine+Advertising+Certification/27375261.html",
+      "ts": 1795107768
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "As Financial Stress Weighs on Workers, Gallagher Introduces a Platform Focused on Better Financial Decision-Making",
+      "title_ko": "근로자의 재정적 스트레스가 가중됨에 따라 Gallagher는 더 나은 재정적 의사결정에 초점을 맞춘 플랫폼을 선보입니다",
+      "url": "https://www.streetinsider.com/PRNewswire/As+Financial+Stress+Weighs+on+Workers%2C+Gallagher+Introduces+a+Platform+Focused+on+Better+Financial+Decision-Making/27375260.html",
+      "ts": 1795107771
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "AMD: We comply with US export control laws.",
+      "title_ko": "AMD: 우리는 미국 수출 통제법을 준수합니다",
+      "url": "https://www.financialjuice.com/News/9860283/AMD-We-comply-with-US-export-control-laws.aspx?xy=rss",
+      "ts": 1795107774
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Trump: I will be giving a news conference tomorrow at 12 PM.",
+      "title_ko": "트럼프: 내일 오후 12시에 기자회견을 할 예정입니다",
+      "url": "https://www.financialjuice.com/News/9860284/Trump-I-will-be-giving-a-news-conference-tomorrow-at-12-PM.aspx?xy=rss",
+      "ts": 1795107779
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "US 30-YEAR FREDDIE MAC FIXED RATE MORTGAGES 19-NOV WK: 7.28% (PREV 7.11%)",
+      "title_ko": "미국 30년 FREDDIE MAC 고정 금리 모기지 11월 19일 주: 7.28% (이전 7.11%)",
+      "url": "https://t.me/marketfeed/1081825",
+      "ts": 1795107782
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Trump: Will be discussing trade deals with Thailand, the Philippines, and others.",
+      "title_ko": "트럼프: 태국, 필리핀 등과 무역협정을 논의할 예정이다",
+      "url": "https://www.financialjuice.com/News/9860285/Trump-Will-be-discussing-trade-deals-with-Thailand-the-Philippines-and-others.aspx?xy=rss",
+      "ts": 1795107785
     }
   ]
 }
