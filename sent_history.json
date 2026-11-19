@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795113803,
+  "updated_at": 1795113952,
   "id_hashes": [
-    "da0bc5754db0bd3393591dde2a37607e0f3cefa11665b2b86e26579e0d2fefb0",
-    "908da7a536566d9f5cdf3392cfbc98b632c426297336c2d5e75d871b8526d656",
-    "88f200826b29fcaedd669530d4d30fc28f1715f952b0ed9474adebd36f83088f",
-    "cd70398ee2ad6ba6da5e90591b2622a2cda2070abe9f17edba75d01a574f0dd1",
-    "12b17b3bf7d2760f1d4fd58f0f4f55aeb1d8880c10caa5a9526e1b18b4d3b70f",
-    "596e300eda3f38ed864c5a8eede3a672eece22bf60de515fd4daf4f07a308081",
-    "8a88e706d75df2fcb4d4e95da79ad10a41fe5cfd326dbe9e6b5fbbcd8a523733",
-    "a6ebc6cde0fa0875270efbc4fc7e077e91bdc4c4ac115f1e5c48ba79f041dbeb",
     "80dcc7388339fff3c61774d4e733e0ef66ae30de7f8ff56c6dfdca79433a8399",
     "082e2da9e0e059c76002318bc509550c29c2228bbc706a551c5d117df00dcb44",
     "7babdfde3e425eb010062d16bfcc1115159554a040ec5b0c494b88a4eb1ba66f",
@@ -4000,15 +3992,17 @@
     "8c296c951a1dc70f343fcc4b80b164886e3af0bb532e7c010e55159d535e5517",
     "69ec433885df2da6398a08d10b55440692fb1c973faae007198cdca4b9add329",
     "4775de5ee043eb6474aebcde7f97b476c20b74377d76b9c85487d1f4ab766356",
-    "79a5c18a463945b937beb1bfa65e53a3d0d653ce8997ca9a14d6d5ec0716269a"
+    "79a5c18a463945b937beb1bfa65e53a3d0d653ce8997ca9a14d6d5ec0716269a",
+    "4c31578811d1516552ad3690ab420d219138e65237f4228da0c54d2576039e5b",
+    "69d918d1a859e5ff60c048c1e23634c20ce3d63c22a700e4043636672401c3f3",
+    "f1000be144cdd7055691cda9a0a2e72658b3b6df554dfad89d83e8fdd5c04722",
+    "4c5164698523170fd71cf6d60aae0cff48f020e2888549cf2106bc6ad1e78acc",
+    "e2a8f4a5a6bb1d9ff0364e84ba62899ae8ef53aa6fcba4983708a9f642ef80e2",
+    "59a4a09501466c974f9de89d2c7b614a0d0d458e0c990ad4cc46dd9265f94ffd",
+    "1bbdfad2f35345307bc0ec14648b46d487b41881e9c34ae02c7646f7467169ea",
+    "6303c3b32fdc875166bf585559413717cf174b2672c7a483a294d514802d0f3d"
   ],
   "title_hashes": [
-    "da9a4e1cf9629a6763543f9f4891bde979690a7429592486ff4625d0adbbda27",
-    "d37b540aef72a736e185c65193fd98af819796b8db45a56d86a04e3b6494c0e5",
-    "d514e21869a55c68c0715225be3191149d7558ee324313f49caaa4609c4eec40",
-    "39d0e4b8912ca2e1d697b7b03e3e6026e2ab4e180a5b9bc157d023f9400f2f55",
-    "31a3fdecdb9cf3364ed6ed74245a1770a9244277b32b0b539a8d5d27b802636e",
-    "d7b1910bc40aee787247d3c074d54a62fe75eeb8b6a3cc1575350d9b9d747097",
     "04abe1348587846391b1860bec640b692f9a372bd588f7d2a05263f353639b33",
     "2a50cb4e032cc446e29f3e0cadd6f7294740051cbc12b3c25292848893d62127",
     "281c016bbfa0328b09f2ee51d4346f0ecd7f9c97e4f20d6a928514e263cc80c1",
@@ -8002,16 +7996,15 @@
     "9369ea834b16d5de161aed27fbd338ffe0f145a45fd4790340c66fc2b5219b61",
     "72452d634d7fd0c8abe16eab71e1ae0326d545e7b38cedb48619836d966c304b",
     "a68473a45a967af2126a702b1539e0bb1da87910d2b62ba16e93bc0ec36183b9",
-    "23e73358c0d7f023ee4b45f093c611c5a1c9d9df0e204ae07fb1a4253ecddde0"
+    "23e73358c0d7f023ee4b45f093c611c5a1c9d9df0e204ae07fb1a4253ecddde0",
+    "12ecc123f0be655b900c0a3a7cc1f12bf6a40ecceb6d1bf9e8c7ed9548ba0d4a",
+    "0648714ca52b1e5d054db732c6bc3ece453b0f413b0c2decf24d4268c764ee54",
+    "36fb274607b673fa40660e401bd933b0e4935ad1933abe619bf8127843c21bc3",
+    "40b3dc39008ad377fcb6482ec6de89e712e6596789500f98a2a8afbee6ce8a7d",
+    "e08faf696774ea481bec588eb5211651d1f49b31a1371e8d5b288007739d901b",
+    "f20652f7377fa7d997deb70d463c52d89e3ed482ee172bb1c9be5c8d18eab197"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Kash Patel Skips House Hearing After Attending Trump’s Mar-a-Lago Gala Offering $50,000 Access to Top Off",
-      "title_ko": "캐시 파텔, 트럼프 마라라고 갈라 참석 후 하원 청문회 불참",
-      "url": "https://www.benzinga.com/news/politics/26/11/63420711/kash-patel-skips-house-hearing-after-attending-trumps-mar-a-lago-gala-offering-50000-access-to-top-officials-draws-bipartisan-criticism-report",
-      "ts": 1795087849
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Trump suggests Nvidia's Blackwell chips could go to China later",
@@ -11504,6 +11497,13 @@
       "title_ko": "독일, 프랑스, ​​영국, 우크라이나는 러시아로부터 겨울 에너지 중단을 요구합니다",
       "url": "https://t.me/WalterBloomberg/38723",
       "ts": 1795113802
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Anthropic Makes Trading Debut With Record Breaking IPO",
+      "title_ko": "Anthropic, 기록적인 IPO로 거래 데뷔",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-makes-trading-debut-with-record-breaking-ipo-video",
+      "ts": 1795113951
     }
   ]
 }
