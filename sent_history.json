@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795120580,
+  "updated_at": 1795120733,
   "id_hashes": [
-    "b43d0cf22ce9e97118df85ecf3f36a165774175cafae1f24c9c54c3ad874514a",
-    "9bbee256de1be80c6a592585f002c42bc21ddecfc9ac5e60e2b8c735d3b026cb",
-    "f64a9fdb03d84af2bc0a5336808716edbbeef826e54b248cc4b70b2d0c0ddc92",
-    "eb6ddac4fd66bccb2936ad40705ba0747f05250f16dd1498a681c5b32c71770d",
-    "a8d5a10626c356de5cfd9db849da3471a9484fa5243fd514845585f20510df2c",
-    "0f22ece0eb1fd8c76d40aa097d089f5bf0ddc30ccf79668a9e3130f726d9878b",
     "361f2229f97282c822dfee1bc17dbb2e5c7373b32ffa24f2c15b0b8914265b85",
     "2db83432f7e0462c7dfacfa123606e7e9e97a6ab9d25bb34ea63b8c72c888d21",
     "d5bc702462be003e7edf03e6246685cb8f9ece5a628527fba91698b4901fb488",
@@ -4000,13 +3994,15 @@
     "e891b93e16fe1216949b2b5e1a81f001c7ced1a6876aa22b9e041091bb145c0a",
     "9fbef52ffdc78e26063950b28b46b71f13f47d61091617c926e2ab6b1f8da7d7",
     "1cf6212f0eba791c5127ae3b64be90845a7486470844b7873f14f2e76d0e5cfd",
-    "1ebf35f4b68bf8e2eaddd908f146c2810c4a45d5fe5a2e42a87c02f237298d84"
+    "1ebf35f4b68bf8e2eaddd908f146c2810c4a45d5fe5a2e42a87c02f237298d84",
+    "96ec2875fadfc0baf620dad5c0bbe788701e4d9a87160cd69bbe736b3d368c07",
+    "f239d9210efac71847955d9324e84e6255b0396be84b07e9f0422d01b63da6de",
+    "4a2e5bb7d6ae2fe57eb651110f19a5a527161c0325b075ad32110ed745df39bb",
+    "7829b06974ea5b47eb4606cc6dddcc6ed68f859c6d7243fadd279637728fde85",
+    "39dc42ab06ba5a9f0672b52b9e7afd6cf075c353e55660acfc4ac602d77d4897",
+    "f11641c71d574483dda13118c623bba56811c57b94c96f740e09aa928ed6f6b3"
   ],
   "title_hashes": [
-    "bd37e2a1a920605df83ed95908db02b13d6172f1226a554f619b431493b0c449",
-    "24ed0ad8fd2cde5dd0bd9f99022a2ff64cddaba4350242fe80ad8e38658e03b8",
-    "0e62dc67e08ed25f112f467c79bb116e6167a5efe763115563faa440f8f4060c",
-    "58211c7aaa2d8cca5ff3968239ed20b2959e8e750678314f04e364f7a1dea458",
     "a7499c75009f6df648635b6ea6d81c1366f5f4405c74752ef448c0ec2384a66b",
     "671a4821de1b2624881bcdedb467bc46d93798d8da09264f169b6f40d55ed282",
     "befc288bf2d53f41222d150d5c4b48ccc26beb94fecbf7d6422de7402385cc30",
@@ -8002,23 +7998,13 @@
     "fc436b15bba2d1416f956748efe36b01e1c17cd01f130597d22df5fa4f21b2c2",
     "42f9bab55121fc99f9e76b9e074096e1f04c01905777b45ff0af60d968747212",
     "98a43d4247ad27e630248f00f90ca1c1e622663aa2e3b956d15f6e91df5d00ed",
-    "e89768cd120a9a3980b23ede855a0768cdbc0e4e35cd6f4385296dd40033526d"
+    "e89768cd120a9a3980b23ede855a0768cdbc0e4e35cd6f4385296dd40033526d",
+    "09535a4e40f42cd5f7b013d978a1d87b107bc0a2b661dc6197cc71083d86ed09",
+    "de5185a194b60538c38e3d8aae1ae28fc2a7ba61849ebb867aceed18d5cdec89",
+    "40475e2814d8be49fd8696f2b60897446baecd671ae8c1a2e69e0cdb28ea7d55",
+    "ba19ea13ed3ef8e68946c8575692d0288bca5f35e41070d0c7f9549815c46d2c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "StreetInsider",
-      "title_en": "IQStel posts $313M in nine-month revenue, outlines 2027 plan",
-      "title_ko": "IQStel은 9개월간 매출 3억 1300만 달러를 기록하고 2027년 계획을 설명합니다",
-      "url": "https://www.streetinsider.com/Corporate+News/IQStel+posts+%24313M+in+nine-month+revenue%2C+outlines+2027+plan/27373206.html",
-      "ts": 1795093365
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "台积电子公司斥资5亿美元认购Anthropic股票。（彭博）",
-      "title_ko": "TSMC 자회사, 앤스로픽 주식 5억 달러 규모 인수 (블룸버그)",
-      "url": "https://wallstreetcn.com/livenews/3202600",
-      "ts": 1795093393
-    },
     {
       "source": "Politico",
       "title_en": "Comparing the mayor to Trump",
@@ -11504,6 +11490,20 @@
       "title_ko": "X에 대한 이란 외무부 대변인: 테헤란이 생화학 무기를 개발하고 있다는 미국의 비난은 공포를 조성하고 군사적 행동을 정당화하기 위한 것입니다",
       "url": "https://www.financialjuice.com/News/9860623/Iran-Foreign-Ministry-Spokesman-on-X-US-accusations-about-Tehran-developing-chemical-and-biological-weapons-are-intended-to-create-fear-and-justify-military-action.aspx?xy=rss",
       "ts": 1795120579
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "法国巴黎银行：上调对美联储加息前景的预期，现在认为3月份也将收紧货币政策，即12月、1月、3月将先后实施每次25个基点的加息。",
+      "title_ko": "BNP 파리바: 연준의 금리 인상 전망에 대한 기대감을 높였으며 이제 3월에도 긴축 통화 정책, 즉 12월, 1월, 3월에 금리를 각각 25bp씩 인상할 것으로 믿고 있어",
+      "url": "https://wallstreetcn.com/livenews/3202799",
+      "ts": 1795120669
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "美国两年期国债收益率跌3.6个基点",
+      "title_ko": "미국 2년 만기 국채수익률은 3.6bp 하락",
+      "url": "https://wallstreetcn.com/livenews/3202800",
+      "ts": 1795120732
     }
   ]
 }
