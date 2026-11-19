@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795086595,
+  "updated_at": 1795086775,
   "id_hashes": [
-    "3d614bb11d07dfdaf78e2aca2a6b3a9582326d35eafacaf955c002de7c8c2405",
-    "4e2b2fa748116a825ace4d74da33a79171899865d767a7e541680b3bfed1447d",
-    "c45f0a334c46619bb02654bf13247ff54c2364c6db40f62244fbac0a4be9d2f8",
-    "18e6f03665935dfe3e3181c67c1f583ffed826255ac9edc315af36927c0c4fa0",
-    "81decfefd2a46ab40988b593cb7646ce86fd07449e5e8a33ed0723a97512ad68",
-    "5680b6470fd24e09dba2d71d5aa9703a17c331cf3fb9c7bb75d3e4a20e0d5f45",
-    "1b5f28d43d0a8cc9b857740034dd9881962e4fdab4cb0c5889abfa7709851ebc",
-    "c9659ccae39095249835a90b9cec8702deb7819ef7ab74b0dd28861b547e0fd5",
     "d4936fe17b478ec84f8001e014f4216b9354a350d8a613c8391c041773d19ae8",
     "a63fc7e03cdca7274b15d20ad96dc3570b94fae83899920faf702b7518caad68",
     "e96792e72b4693ce039d8b832c0f1a5eab1986339083ba6ccbd78c6299f88bc3",
@@ -4000,16 +3992,17 @@
     "34103c09af5bb8804c4e22e2d03c758ab960ef2d573c24b5f960f47965143195",
     "f6c97e18c31a3f4a8afb63f9a1281b75baf579325fd014b106e938ec4f38f1bc",
     "c80e052279609d246ebe3876a86ba427a0a5e3bd856dd28a6e870ab0508a394e",
-    "b53fdd148f4e6fb9be4f89093ccf773b765472b1227193c452496d02709bde50"
+    "b53fdd148f4e6fb9be4f89093ccf773b765472b1227193c452496d02709bde50",
+    "c204e10f7d53f0782b51bd3ea104ba72eac8c2083570c90e53e05b819115547b",
+    "4f612fbf944e8f432de01c2684499402c186b3967763f0dde3a19de1cf8940d8",
+    "eb6bec16068bd1745cba1dc8dffa8e410283c7cfb56525cbdafd219353157076",
+    "06d5c403f7c79b073bda4a0e852490c22f1c1f1e6c7773327af9d84910a24643",
+    "2e3a8b97e00fd2ab6ab525db35303cb0c9ebdae14c6f80dfc8f0481370b3dbf2",
+    "c068323791ddb30f64e3495ff19f7379b285e5a3fea1a0d731e28351dd03a9a1",
+    "1e2d733ab45075768e11a4a1e0cce657b9acf7c3399dadb0f4ab5f185cf5d6af",
+    "8dea5ba44cf7c40adf360909b02aecd71ec10a9e6701dc605a469076a49f5298"
   ],
   "title_hashes": [
-    "96e29c1ea8d88407733d1ed2e9d7dcaf24bb70b142fa209a49a19a3b246d4e8e",
-    "dcacd97d2bced7fc327c591576b9f37eb6f2bf619069c36f51844486e0c27ca3",
-    "7d0c57ff44c4170a697603d0ecb6d9df547b05f00e66e6008560e8267e3cc9b9",
-    "ae980eb091e5a33e04e0edc7c51aaea7df32d8b5fec4b9579777bf48520fed12",
-    "85a0b2a0ecc620de4aec4ff465eb06e4aeea01224ac5264320ec1cff84341d9f",
-    "d10cc65e931d063918d97e1a5c98d68c1cb94feabef3bc270fcda4027a5a96e5",
-    "f24c93c6ea43fde11b599856eb660d1d3740bcb92bf75001eb0c9bb8b441601f",
     "7247d1c81a67074ab1ad18fc1c2b9af2166ae89deeec8750feb5cd2520505de2",
     "a83ed708aef1ab4256442cc9d5b255ab605b6e8b5674d8c110437e17f28b31b9",
     "31cdeb3be7bd8d4586708d45ef5138ae56a38913a97d9a6c12383b22a73bf572",
@@ -8002,30 +7995,16 @@
     "ce9f7540641959d713e4fc47765d71cc08a2f9eeeaf1a23b723bb86c621487b2",
     "7c1dc98761820eddb13e37ef04b7e8b7361f2fb8da474cf283abfc139ab7abc4",
     "1cd7ec1b991ce568f4823034d3bf3f68f7f5e886522cb79e5c59aad4e856fef3",
-    "1b72d65ad72e72526f802b2ba235101d742135bb556841a2ea76e6736ae2c925"
+    "1b72d65ad72e72526f802b2ba235101d742135bb556841a2ea76e6736ae2c925",
+    "fa45f5235f76492d7217a59539be1433fc6a0344f0ca4e7e1e66d98b1d30c812",
+    "5b19337ef24b9124f35ac88ea2fe47bb3d36e6cc7ca7fef65e30882591b689c2",
+    "4ef1801de2555e73a9255ee225cb06f80950911aff7bd4a8469c04580f84a09a",
+    "0016fc88f9e81b28d108351bb34c0de2cd158e962aaa2d7b0b51b87980f7a2d5",
+    "7d034ba519b43631512bdbfe0042a51ebb2200b06bf7749d1420e856f9cc9cc1",
+    "07a3eb14d1bf86cf09d3f60198a23d83c27f65022bd4495d7ec2beb9a33e5321",
+    "9191cc0bac9aa3c04288375370c6f4a3b5ce7be803ce64e623022ff39e5d33de"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Jim Cramer Calls Himself Jensen Huang’s Biggest Defender but Says ‘Just Because Someone Is Brilliant Does",
-      "title_ko": "짐 크레이머 \"젠슨 황은 천재지만, 주가 고평가 논란은 별개 문제\"",
-      "url": "https://www.benzinga.com/news/26/11/63417199/jim-cramer-calls-himself-jensen-huangs-biggest-defender-but-says-just-because-someone-is-brilliant-doesnt-mean-he-can-do-what-he-wants",
-      "ts": 1795057548
-    },
-    {
-      "source": "주간현대",
-      "title_en": "현대로템, 서산 항공우주추진시험센터 제2시험동 준공…차세대 항공우주 엔진 기술 내재화 박차",
-      "title_ko": "현대로템, 서산 항공우주추진시험센터 제2시험동 준공…차세대 항공우주 엔진 기술 내재화 박차",
-      "url": "http://hyundaenews.com/107927",
-      "ts": 1795057550
-    },
-    {
-      "source": "데일리안",
-      "title_en": "우주항공청, 연구시설·장비 심의위원 설명회 개최",
-      "title_ko": "우주항공청, 연구시설·장비 심의위원 설명회 개최",
-      "url": "https://www.dailian.co.kr/news/view/1717068/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5%EC%B2%AD-%EC%97%B0%EA%B5%AC%EC%8B%9C%EC%84%A4%EC%9E%A5%EB%B9%84-%EC%8B%AC%EC%9D%98%EC%9C%84%EC%9B%90-%EC%84%A4%EB%AA%85-2026",
-      "ts": 1795057554
-    },
     {
       "source": "FirstSquawk",
       "title_en": "BOJ Governor Ueda: Pushing Rates Into Positive Territory Is Crucial to Enable Real Interest Rates to Fall During Economic Downturns.",
@@ -11504,6 +11483,27 @@
       "title_ko": "론 파인·바이킹, 알파벳 지분 확대… 타이거 글로벌은 축소",
       "url": "https://seekingalpha.com/news/4674528-lone-pine-viking-build-alphabet-stakes-tiger-cuts?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795086532
+    },
+    {
+      "source": "내외뉴스통신",
+      "title_en": "[국제] 머스크, 우크라 '스타실드' 제공 부인...\"젤렌스키 주장은 거짓\"",
+      "title_ko": "[국제] 머스크, 우크라 '스타실드' 제공 부인...\"젤렌스키 주장은 거짓\"",
+      "url": "https://www.nbnnews.co.kr/news/articleView.html?idxno=1071629",
+      "ts": 1795086762
+    },
+    {
+      "source": "FT",
+      "title_en": "Anthropic to list on Wall Street in biggest IPO ever",
+      "title_ko": "앤스로픽, 역대 최대 규모로 월가 상장 추진",
+      "url": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
+      "ts": 1795086764
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Brandi AI Expands Deep Sentiment Analysis and LLM Monitoring Coverage to Meta Muse and Microsoft Bing AI Mode and Bing AI Overviews",
+      "title_ko": "브랜디 AI, 메타 뮤즈·MS 빙 AI 모드 및 빙 AI 오버뷰로 딥 센티먼트 분석 및 LLM 모니터링 범위 확대",
+      "url": "https://www.streetinsider.com/PRNewswire/Brandi+AI+Expands+Deep+Sentiment+Analysis+and+LLM+Monitoring+Coverage+to+Meta+Muse+and+Microsoft+Bing+AI+Mode+and+Bing+AI+Overviews/27372536.html",
+      "ts": 1795086774
     }
   ]
 }
