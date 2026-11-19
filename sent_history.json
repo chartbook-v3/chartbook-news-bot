@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795101939,
+  "updated_at": 1795102098,
   "id_hashes": [
-    "2dd49d3fe9c6ff2f9845ced9c6dbeadd383bda64c35ef1398c52d131f3c1df5a",
-    "5e849391c7255b6e3104c3ae6b3dd958cdfa33e97eb0addee8c5e4350c2865b5",
-    "e1c61296db8369b02dcf403f32b29f68efc22164be0d9e55b89f630abd58e20a",
-    "cba547be84ffa7bdabedd9aeb03c6854611a359f2f0ce5ca9645a0bea793862b",
-    "0f2299fff79acabd1185a23e6246892a938b19cb58eaf6a1a4a29829404b8f46",
-    "10c95cc853b05e96e3cf8c2fc376947d462ebea85dc68c923c7b8536f2d49a89",
-    "e8d15aee710f15f32d3380a371582bd32dcc4ea96c4ecb2b57679fb263fbc562",
-    "77640a3a3d134009fe4f60321ca73e6a50f7a6ab3a740d1055812eccf1ee9d15",
     "677a06ebcb15f5cd5e137ab1e96c7df8faa51cf1af89878eba40224b36a4c972",
     "861388bc53db88f27bc164670a089dc948b650f122dc88d552606b63ec1b5b40",
     "bf82c0bd0cbea85cbfeaaf136972704227de1c61a9f2cff1231f99425ba2c396",
@@ -4000,16 +3992,17 @@
     "c36c9a1f05188b8441b998edfb1f63f2c48d728d3241f44f0d12055e9ba677f7",
     "a862360c7a8005dfcd42dae95cc2dc4370942fbe585c2b869fd19b5a563b6640",
     "fb9aa1f4a996180ca64e54aef12be5040c2a3c5de974998be5e5d3429861085d",
-    "4ce96f7115c774b43ab9120897013c5b4a4feaec14e9c91fe8a87d0457ce4d45"
+    "4ce96f7115c774b43ab9120897013c5b4a4feaec14e9c91fe8a87d0457ce4d45",
+    "c088a8fc61e1858eb21bfb6fd273ce12a2bc48ca0cda606b853c35e098036b1d",
+    "1aa5e32741a980eb13e9a7a1fd73d337c8210d542f46abef4d9f632048162689",
+    "48cf62a63115bbca2815680f677a81112f604120a3589e3a5d7965178585213f",
+    "dd380d7d1469537368077158d2ff797e42eeba59bfc9bda30e68cee0c98d8d83",
+    "f32ac5826bcbc9ec7b20e8f64b1f45f7189ee642745fe94f2513e0e856fd25b3",
+    "f383bee83fb96d3d842ea69487558510c83ce0a34da1265444b167bb8c5ab24f",
+    "6049ea6ef3cb8a7eb483db24aced7de4f8cb88c2fff400fd6dda16077356f62b",
+    "58f7c18f26594d60e0ad4626b3b628bab4f151a469205290272fb150f45fd3d5"
   ],
   "title_hashes": [
-    "5fefe66d71eb32e54fa8e7298d36f76624b83e42ad8386ac35d6f024a5cfe56d",
-    "84044b8f58453f09d7893f698504d950a3ed8f70467ab84bc49a6b5f7a3e6c2c",
-    "e8f7adc91af9b73d48f5785c0fb6d0d78ceba5187de623d849f39bb466e17dfd",
-    "81c9ed1b15c9161744f50bf6feb5b3d1d5968aabad1c5158bc959634b91d7e02",
-    "43f083fab7b73712953c9be42b1da01155df273947c7789e2a8a65b318cc7c17",
-    "b8763416e61845a3bbe9e7e9ec2fcb9f23f7b1778f129de2c1a725fb0a70a3eb",
-    "7994483f0372aad4a074457c121710202bf0f0de33529d017c93f6c07c0fe822",
     "2563f26109cecb31caf75f2c9466d2b332d38e22f574baf0de130578e9b5e864",
     "4aa4c3116c902f7ea5c82cc710da835894017ce0dc5f7a16b50a5e7f900fd0d8",
     "1976e56647513559f40cb8663aeb070d9780a49dd44a7f10f537d094057f7cb7",
@@ -8002,30 +7995,16 @@
     "20f4cc3adf683132afd3d4cb76f6fe5691dea251262ac27e8feb85c1ce98c10a",
     "8bf1fc50d764d8912a214b839afbc6c8a6a8895c89010182305d8ccb1f828a7e",
     "420cd955a3b55a8c9ebbe4e8f4dfdf8660c15a22f365ec541d1ffd9356858930",
-    "9fe5abe573f675c5fe3b81974bd85cd871dc7731b5fd284a0d130e7b9d76340c"
+    "9fe5abe573f675c5fe3b81974bd85cd871dc7731b5fd284a0d130e7b9d76340c",
+    "bb844ebc8d968a3fd26850f5f1e72b3a44dc769466acc4d0706c392dd126127a",
+    "1aa3e9f8ab237efe6c9785b3ee40ed6ef3e0b0b01e6d1a85d665f3fa464f269c",
+    "d9e30d8142606e44038d6b1fbdd08038c25f5e9d88a5e7efa81b5a26d00c6060",
+    "d46df97ed8c67735da4e2c8379a6ba7aecdc3b721785aa2741f5d9ce99def53b",
+    "0cc181b37464d10ccd5f299af7e1be6d6969f8bec64a204daa13655e33544fbc",
+    "6dcd785f10d767de6675d368607241026453f9a6be2dc91a8bd42da2f9fefee4",
+    "43e10c9e6287ccbf9f245699b78b09dd1ff03dafc0cb75949bba4d30a3a86dcc"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "BRITAIN'S FTSE 100 UP 0.02%",
-      "title_ko": "영국 FTSE 100 지수 0.02% 상승",
-      "url": "https://t.me/firstsquaw/194176",
-      "ts": 1795075677
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "FRANCE'S CAC 40 UP 0.63%; SPAIN'S IBEX UP 0.57%",
-      "title_ko": "프랑스 CAC 40 지수 0.63% 상승, 스페인 IBEX 지수 0.57% 상승",
-      "url": "https://t.me/firstsquaw/194177",
-      "ts": 1795075679
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "GERMANY'S DAX UP 0.55%",
-      "title_ko": "독일 DAX 지수 0.55% 상승",
-      "url": "https://t.me/firstsquaw/194178",
-      "ts": 1795075682
-    },
     {
       "source": "연합뉴스",
       "title_en": "LG전자, 7월 매입한 자사주 1천억원어치 이달말 소각",
@@ -11504,6 +11483,27 @@
       "title_ko": "포드 주식이 저렴해 보입니다. 방금 업그레이드 구매를 받았습니다",
       "url": "https://www.barrons.com/articles/ford-stock-dz-bank-buy-upgrade-11b9e33b",
       "ts": 1795101937
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Amazon Stock Moves Higher: What's Going On?",
+      "title_ko": "아마존 주가 상승: 무슨 일이 일어나고 있는 걸까요?",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63433116/amazon-stock-moves-higher-whats-going-on-3",
+      "ts": 1795102032
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "GTA 6 SETS NEW RECORD AS THE HIGHEST-RATED VIDEO GAME OF ALL TIME.",
+      "title_ko": "GTA 6, 역대 최고 평점 게임 신기록 달성",
+      "url": "https://t.me/marketfeed/1081737",
+      "ts": 1795102036
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "SHORT SELLER HUNTERBROOK ALLEGES AMD HAS ITS OWN \"CHINA PROBLEM\" - BLOG POST",
+      "title_ko": "공매도 업체인 HUNTERBROOK은 AMD가 \"중국 문제\"를 겪고 있다고 주장합니다. - 블로그 포스트",
+      "url": "https://t.me/marketfeed/1081738",
+      "ts": 1795102097
     }
   ]
 }
