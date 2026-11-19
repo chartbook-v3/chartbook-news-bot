@@ -1,33 +1,6 @@
 {
-  "updated_at": 1795052690,
+  "updated_at": 1795052850,
   "id_hashes": [
-    "c02ba81b5f71120c0d2ef08a3eaa3de3108b0fd0f7215b964469d67134057a94",
-    "64616d411032590aec4dde0d8e42b63da569038227edd0ad8938bdd7b3765c54",
-    "f6b46a41a9cc4ece7216e4dfd0499a8f8a9ec468faa0e8e37d392f3eec6a0e41",
-    "808fde75b78c2d470b929949a422dcc986f2b3f8f3a27c2c3fb309ae2e4fe448",
-    "68461c2078f0ad930808e3c686d2f3c0acc50d653a04c236a58facee84eb8d71",
-    "b0863e720f4ce1fc60d40b096d917de06b44110c48558ac92d24e23ae238ed31",
-    "cb4f5d1646e9da3f11d5875a9aceda5f5db0d182371afbc75de06499af9a680b",
-    "3debe3fe5fc2a7f3a61f7bd9fa2984bb815fe8d6dbd1858009c3cdb5fcc9afde",
-    "675464d458dce678e65634cbb1b5112ba17e30724dbe832f5c7d6204daeed18e",
-    "ff8ff810ebc38dbd9ca92a49b671103e1c2bccdb24149c307eb0fc104a693510",
-    "672fa5611809f3335dd2ae3d807cc113f4a40cc6ab264f3f225508afb6cce631",
-    "17d024e90a1fa5f152a732a4ef60e3dbf16dd78f96e6e3b3e57bd2631a6b901f",
-    "a5b6f71aaef4338929bb636e63a5088b536b0040ad953355240fb9bb4374162e",
-    "b1a9a7c8cfb44503b620153a263665b50f2fafc80185837d9d5a1a9916dcfdb2",
-    "44f5c723a39a20adeb6528b786c5bfcf71f1692c6660680d254a13e8fb2c6800",
-    "ae6a50c545377918b836bbea5bedb2cfeb2a6c6894d4cfbf35f32447687e037f",
-    "bf3a3ff9aee2bdded1012b00d91108129c67189445779d0e9193047bd8b39c76",
-    "bf8daf41f5bc4d779032c66c683b2e9892739b81280c08a33e9cc0c1ee301fb5",
-    "8e4d9308b121581a662dec01671d3d088e331c2b304bd79617169fa640e45232",
-    "892ad798f3f38dacb3676e3788899ac62c9c78319884d964d0d341204c1a26e2",
-    "5fc230c5a7b4fd860b6f6bea66446ed12a805a394351881c6a4fd24386b38512",
-    "a6bad52e633f9e8eb7b21970b6996d0484819b596f958feff7bf4c136d584fcf",
-    "73d0fc1e670b40213846cfed6640f444169b241ea472352432acbe61ad66827b",
-    "44ff7bf89e4a16f6c79990d75d6060ba7b182b6b661d2559b2ae639d58ad647a",
-    "1fcf1f75c526eecb039d8b3203dc54e9ecb685d50396a95047a29b871099328c",
-    "d52d8ffdc50e330eb951b56ccfa3eb578f35596bf50c1dcedf9b7a76659166bb",
-    "3976f3ad9c90e22ac431ded0a5dc84ede36580f6a72b401e0845a7b0fa670bf4",
     "b6024891a5dd1e57f9a9fb32218f5cac79398374a3c390bfa76904fa9edcc3b6",
     "e3bf099dc4bcde2c2274ca483f41db5e007ab7e61ff3729570bed06ef35e595d",
     "f517dec7c7cd2d4f7eefbdb7bc6340ba86fd45514b5b950fea34b44d0c0f451d",
@@ -4000,22 +3973,36 @@
     "d47b1ab902653755362ac1c60991a30849617a4f484d39d5e680ccab95a3f1ce",
     "9cb5919e06c28b0efc939c0b03fe2a48d840cc5a657bf03ddd84afad7f0a7f2d",
     "584703710146b13ee94d9542b99ff471cf54a279b0838e338346300645ada497",
-    "e5f7c2c188b1ea91b9f4f333e9e61ce4d1158dbc13656bfe2a49cb9fc925f15c"
+    "e5f7c2c188b1ea91b9f4f333e9e61ce4d1158dbc13656bfe2a49cb9fc925f15c",
+    "5a5471c47947027cf2deb75d3dd4ca1927a5eefe635dc4ca2f413d1d63664bf8",
+    "dc0472740bf5ce56becd85a041926bea70d2c8d136712b5a43d7920931d579aa",
+    "bd2a0850142d3c3b74faf62e610f86a1e3c07fd6f56aa6534f539692fa70e1ff",
+    "d7334ad7aa13b97cae3aeef22a39bc00b48303715e50f16d534e8b5fc2682827",
+    "bff421bb51d8571308e9d39d65acff800c8c6ec26c2f4e449397eaf91b70430f",
+    "442db68f649f9995ed7b136f5a96095677f60c37863d8ae2ea6d351cd2decb53",
+    "c6b5a6f9854ffbdcfe968a5b090ac2de3ed7be7ae179a4f7ac803b8c76a10658",
+    "9ad54497578b8faf63cafcd87a0d925889b1f314401a22e884b77f0a52ffd6d0",
+    "091204a05311466eee88f16787cc75803435d6a30af32f864093849dd3473941",
+    "a7629ff12d8b59f894919842e2444871159f8512909e73f137bb3f28e4556af6",
+    "38c72b3159f51b6e70da8c6c77aab3a41c5ec0df7b050f8b0bf329ca263e6500",
+    "f65b3e226e1fd0761e796a7088521e3e81985d3088bf116b7f743bd599bccd31",
+    "c13002a42b6e94f01369a59d466c2803dfc26d0809449862b83dca96fbc49a18",
+    "d4bf94f845567ef2372f619d815ed5efc1de7b43623f22f893304a95790e6a6a",
+    "26f39c67496c2e10fcb6f6c27265c5fda832a218c30ac366d9ea18ccad22e63f",
+    "9b8cd7ec0a4637817f879c5f786da4fc9a259daba1d403657adc5ef59914ad63",
+    "0c02cff823e5f643039b0d9291f65a3cfedab8bdd13747f5e03390e53bd1d56a",
+    "e7f1f6365e60fd72dec25aaaba2d287a2a0988d3f5d68de962f1ebee5f7ddafa",
+    "0ee0a1736206570e17e8c56641b91c1af9fec025891ed55ab8fb0e149ad4df71",
+    "91c0b7d97bf894f1262c1139560dfe3720f77b6556053cae8686b87b06b53b8d",
+    "5953fe08124b0320f3a60c8d415ac033fd7dc4f847a19810a9573438ffa165f4",
+    "66c386a4ac8dfddf55e664154d75374d743c98bacd7e6e1746a9122cc5bbc4f4",
+    "cb94d28c0c0082a1e9dd2670ab66523465d23fc6c5a1c4c9efe14cc3a6af3362",
+    "c5739347d1c10bfa372f691c4c9f3be326cf542d7701af75cebda550bf4e35e3",
+    "d227ffdd8ce164b91cc0becd8b1befd8d41219a838bb90aeab8f8af6693caaae",
+    "0cdb856e317b45e5326baa9adeae675a9d35030839f8733342e622acfcf73aad",
+    "4123297503fe4cf0bb089912578096e1f785e2380b6a7f1d69ee5f26681f04e2"
   ],
   "title_hashes": [
-    "7bbba3dfef6d1f0c39deeab167c51fd99161e861057a6b8eaa6f8fa2434a2bbf",
-    "91ad0a8f6cad77aeb8e9436e2b19b968d0958f21c36994a4f62c12ada76d7b28",
-    "10eaf7bd9f5112c93526dad4fabcba235fe8500a0454373750c7ea18570e9c28",
-    "4cff7034314de22e400d79de5912d010dff60ea5836c663ce64d41911d9df0e8",
-    "46dc6b8457d324ebc52be31146f1cc17962625cd415bfd3d74a341d4bbb08b27",
-    "c8014b246802cab1a6d1b9e8f3b911a6a3113b24e5da493eeaabfb4264acd5c9",
-    "55d72b7256ecf538e592395a41830d6604426d45902b78e94d579547509b9e28",
-    "47417d671ff632fc1811435392ad4460b2bda1e68f4ab03e0fc7dd2e3fd32b77",
-    "c369e5a25795d493c634141c8694cc72ceb55d1aa9e287432e9166e063a21991",
-    "309cad9e5bcb0e2239d80bb7fdf4e6d3805dc73b02fd44d5d9fb51c2286de8e0",
-    "ecf9c0ede919b9bb49e4cd54416db0f310e15bb203660781602aae2a4b08426a",
-    "de4187d9cddf33f64dd3d6f262326367c362e27055c90ee292c22b3d7377db95",
-    "fbb9867a417e244e47f6cc3236569c4008de23808895cd1703fc7af3da782f1a",
     "bb7cb235c8f85fcf93db706ab75f03958634c761903f45e8c0a0258518065313",
     "2546eb838a0845f680202badf6a3999f7543ff7901b766fac3a4d497d4eae962",
     "420835b989fe838b0a9277b57d234d5286f55a45fa22c75dd780dc3bfac52497",
@@ -8002,44 +7989,22 @@
     "b922fbb710b821a8ea968cba1daca2ca01f0efc3783193d93e91b800b895f65e",
     "78740b85fd13b34b4b4f6155862c9495d08bb83cf56dd1535c97fa8a78853110",
     "5df9905c668cf0e945afdd80e2357de98ddf33b4f34db101c6d61a43cb9cf0df",
-    "4eab77a0eab56e8a5c72ecba9f5df7690c8f0acda3433446c647d1528eb0ca8f"
+    "4eab77a0eab56e8a5c72ecba9f5df7690c8f0acda3433446c647d1528eb0ca8f",
+    "5f8bdeb643bc4f8e3f31a15abd2e548a0d03615d6b7779d6f8e71c9c920288e7",
+    "d472d00d9146a90fb4e3d98d987e1e39d95bc10b80565a64ddab99f3391a9abc",
+    "09406b7ad468628187afd60006181c859b34c57d12e076fa863abd6319ff49f5",
+    "a662d6581ebb038d8c0a619e52c8320c13ca93817b589424e585e8b3b49c75d7",
+    "04c1f3eadcc2df990bdd86ae18b9f5921dedddc2c7faa3f7428d76c0cbec106e",
+    "714bbe7b59d8721f1b00f3412eaa321b5e15afe7301c13d3511147129e253288",
+    "b01c6247250f0fc759ec9007d13f72fd65eddc42ac3f91680dd225ae82dbf4a8",
+    "5363186acc41c802aef75d3500198d7148e27c706f4c4d38c1d724657eef01b2",
+    "34c168a243244d16397740f0dbb9735e3559a6df3146d8f70ee08ed9479333c5",
+    "69d1989e509b8f3c2512fcc23cbe012b029579a5fd064705f434019f5f8ed093",
+    "e8a61dc99d31ea6b1b48aa217989b49bff197fd0dd5d11fc18e80c9657f14382",
+    "a9f8c1a00b86fa31acae6718e66bf342e2a1ac97e877830dfe9bee15c922c809",
+    "824734dfc9dc08d8d07a2d7d820ef3ec346148379c4e299f8f0758b5bcc42f1a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WSJ",
-      "title_en": "U.S. Crude Oil Stockpiles Rise for Second Straight Week",
-      "title_ko": "미국 원유 재고가 2주 연속 증가",
-      "url": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-rise-for-second-straight-week-086a0883?mod=rss_markets_main",
-      "ts": 1795026003
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Fed’s Daly Urges Rate Hikes With a Thoughtful, Measured Approach",
-      "title_ko": "연준의 Daly, 사려 깊고 신중한 접근 방식으로 금리 인상 촉구",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/fed-s-daly-urges-rate-hikes-with-a-thoughtful-measured-approach",
-      "ts": 1795026133
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "US Sec. of Defense Hegseth: The oil deal makes the Strait of Hormuz a 'non-factor'",
-      "title_ko": "미국 초. Hegseth 국방장관: 석유 거래로 인해 호르무즈 해협은 '비요인'이 되었습니다",
-      "url": "https://www.financialjuice.com/News/9858360/US-Sec-of-Defense-Hegseth-The-oil-deal-makes-the-Strait-of-Hormuz-a-non-factor.aspx?xy=rss",
-      "ts": 1795026136
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "美国国防部长赫格塞思：美国、委内瑞拉通过五角大楼签署石油协议。\n\n这削弱霍尔木兹海峡的地位。",
-      "title_ko": "헤그세스 미국 국방장관: 미국과 베네수엘라는 국방부를 통해 석유 협정을 체결했습니다. 이는 호르무즈 해협의 위상을 약화시킨다",
-      "url": "https://wallstreetcn.com/livenews/3202113",
-      "ts": 1795026157
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Anthropic Takes Center Stage After Nvidia",
-      "title_ko": "Anthropic은 Nvidia 다음으로 중심 무대를 차지합니다",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-18/open-interest-11-18-2026-video",
-      "ts": 1795026287
-    },
     {
       "source": "Benzinga",
       "title_en": "Target's $301 Million Tariff Windfall 'Flattered' Earnings, Analyst Says",
@@ -11504,6 +11469,41 @@
       "title_ko": "중국 재정부, 1개월물 예금 입찰 금리 1.30%로 결정",
       "url": "https://t.me/marketfeed/1081194",
       "ts": 1795052689
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Saudi authorities alert residents to a potential security threat in Riyadh.",
+      "title_ko": "사우디 당국, 리야드 내 잠재적 보안 위협 경고",
+      "url": "https://t.me/firstsquaw/194033",
+      "ts": 1795052710
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "BoJ governor Ueda: weak yen could cause inflation overshoot by driving up prices across many goods",
+      "title_ko": "우에다 일본은행 총재 \"엔저 현상, 광범위한 물가 상승 유발해 인플레이션 상회 가능성\"",
+      "url": "https://www.financialjuice.com/News/9858919/BoJ-governor-Ueda-weak-yen-could-cause-inflation-overshoot-by-driving-up-prices-across-many-goods.aspx?xy=rss",
+      "ts": 1795052787
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "BoJ governor Ueda: FX swings could affect inflation more as companies pass on costs more actively",
+      "title_ko": "우에다 일본은행 총재 \"환율 변동이 물가에 미치는 영향 확대, 기업 비용 전가 활발\"",
+      "url": "https://www.financialjuice.com/News/9858922/BoJ-governor-Ueda-FX-swings-could-affect-inflation-more-as-companies-pass-on-costs-more-actively.aspx?xy=rss",
+      "ts": 1795052792
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BOJ GOVERNOR UEDA: SAYS YEN WEAKNESS RISKS ACCELERATING INFLATION BY RAISING THE COST OF GOODS ACROSS MULTIPLE CATEGORIES.",
+      "title_ko": "우에다 BOJ 총재 \"엔저, 물가 상승 압력 가중 우려\"",
+      "url": "https://t.me/marketfeed/1081200",
+      "ts": 1795052812
+    },
+    {
+      "source": "스마트경제",
+      "title_en": "“학부생이 우주항공 최고 학술지 뚫었다”… 이한결 숭실대 학생, 위성 자세제어 전동기 혁신",
+      "title_ko": "“학부생이 우주항공 최고 학술지 뚫었다”… 이한결 숭실대 학생, 위성 자세제어 전동기 혁신",
+      "url": "https://www.dailysmart.co.kr/news/articleView.html?idxno=132803",
+      "ts": 1795052842
     }
   ]
 }
