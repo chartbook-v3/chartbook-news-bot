@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795054724,
+  "updated_at": 1795054876,
   "id_hashes": [
-    "26f4095526091d0fcdd88296c01912438ef3751eb7264a7e20ccd2c5a776b0e8",
-    "9366cdaf318659c5ea2cfcd9019015a09d4b0d385551df9f9c2e1606dc0a9aa7",
-    "f27eb09c8c9b2cda1f06b544c1061583350d515c85aedb7c242ed0b79666cc90",
-    "9c40c2ac6e12650899254752288e9100a305e72cc36fcccb0786ba4f262f5844",
-    "84e3d870482e62d4dc6e3a33ab9b23f674139d8fee6effbfae2831ac0a960474",
-    "fba08df3c1c7133eaf58d72ec45986a49dd689b6518ed312f202bf9dd39d4d82",
-    "16d957d1e39b665146182a9eb656f80ed3f19057dbac94c7e6ad6c199a522afb",
-    "007778e9cdb35d6195c9d78309b6af09d0e7455f239afa2d771f0ad79583960b",
     "f83900587db345517deca09cf949c1ac975db83112e51a1465bfc66d02f6f657",
     "d5c27614cfbcaa572d5aed42f1211f327fa8aa3ab9b35336fead2e8f3f4f5e68",
     "b3ef1a38d6e32a4f31eb952db09b6dddf7bcab9ad7e7b8283a761476bcb2586a",
@@ -4000,16 +3992,17 @@
     "b34bce6c028a52c8290461ed85206d257af6a116540a04d963b51a3012a1f62e",
     "edc7a2f2d5698e91adf81803e19504aaf56c4eb339dc0de161d7361d3790f0a5",
     "80c83775255ff7ef2dfe5775561f3e08a9a4f63ac5642a57b57a8b8e7a4afc96",
-    "8658aed8622f744ddc8994bf503b22bbfd4a57ef2bf656fef556c78de57d44ca"
+    "8658aed8622f744ddc8994bf503b22bbfd4a57ef2bf656fef556c78de57d44ca",
+    "5f8736cb552a75e0ec9b539b75d6ee2345c0fd360b7475fce47ba315cf355222",
+    "3b2816be80133fa8bfcd704c9f212024d8cf0b064e816b255b9c644b3891e72a",
+    "c73180dce14d93f5acf1e75c4fd794ecc71f0033207187d8274468a98a82098c",
+    "cd08e5ee088ba6d1c728069cc340501022e2ba7b6ca940b869ffb4c5d3f42f5a",
+    "c31530e10af52ff366b0780be79f8155fa5a74a8e86607de54ede539d5b434a8",
+    "93550c5ba5f94146043804070cfb89ab13c9b59184c54d90b916e3805eb6f017",
+    "984e184bd938f5264f831e024029ff1a0b597e95bfb29fccc1e50c24b404863c",
+    "808291be94bc67ea79fcedb38b0378b0d572a7a60eb0388d365a51fa04c201e2"
   ],
   "title_hashes": [
-    "f7cbabb5f5c205d98f13e65cd73ba1e7761f72545ff5558be13c42886d34fece",
-    "5c0800d5e0ff4e58e0675eade4f91e53f921d54e36202e7b0e916117b7840e8e",
-    "74fb61e3933164bd09d07cc75f3699a3a3f9d19d74be01a5316db17c53e6eae5",
-    "dc7bd71128e7ae96de0cae21c77de4790e4aff1ca396cba35f3bc2e7279b7fe0",
-    "b50bb37af31d49d275a9ec9be9c5a2a56e7baa8588a10f71b110862487aedda7",
-    "fa2ee05e637be5301752a1b5bad8fce7dd346e20f6c724193fb35c0aa458e0e7",
-    "5ad908ef1bad09f8ce05cbe2ff39917c62bbaba5241091c987fe82e48e7d6e75",
     "60d7d94d37bd8658f1216aa772e9ebc44f368954f054f9c924d4baa25fc7263e",
     "85c9b5b051af9b26b5939655c305881fca005525351f2d8d4e52667c1f8bb8c2",
     "b556e5f47926860db4c40eaa4346c40bcc79691244c8de062bcc85cdc044ae44",
@@ -8002,23 +7995,16 @@
     "f77909197e4e52c2da4197c97ce4777760f616ed808a6da630db980eb4c48090",
     "0543d8137c9efcd2ddb33073e555f99b9b8101162a16b9a8a6b5d8ac4ce8b9ea",
     "1c1a948dc065dd214bbb7da4a767f8a3efb21ebeb7bbee563566d53a7ee4af67",
-    "bce8c350f02e8660e43b7b45067d68695a982e06da04cf4951d32ad7639b1126"
+    "bce8c350f02e8660e43b7b45067d68695a982e06da04cf4951d32ad7639b1126",
+    "5c8a5ded46b976afdb0103e8c0f60213fae0dbf658f19c653a12fce31cd9577d",
+    "152f7824cbfb6cc87de6e2383972f34be0a6b76f6b1bd9aa038546691cf33baf",
+    "42747b642049fc76740a3afbe06981af9a6f949237c58dfcd9e87a1ee48e3834",
+    "ac449bb61e61a769b9777cc76170260e628c9afc689e3f9f71fdc05e8e3754e2",
+    "f536a04a22df727c3a2bb0c640c6d6f14d7d6b006fbcdee948ee81a90257014b",
+    "307dcd7576367bdfe64a321cb644cae0598ec163d97ff40fe2cb949dc4726db9",
+    "f41d85f1daa7c51baef8b82492d51346d289fdf87fb921db74b7b49bd3d9ea38"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "U.S. NATURAL GAS FUTURES CLIMB MORE THAN 5% TO $3.371 PER MMBTU",
-      "title_ko": "미국 천연가스 선물은 MMBTU당 $3.371로 5% 이상 상승",
-      "url": "https://t.me/firstsquaw/193923",
-      "ts": 1795028116
-    },
-    {
-      "source": "9to5Mac",
-      "title_en": "Apple releases new HomeView 27.2.1 software update",
-      "title_ko": "Apple, 새로운 HomeView 27.2.1 소프트웨어 업데이트 출시",
-      "url": "https://9to5mac.com/2026/11/18/apple-releases-new-homeview-27-2-1-software-update/?extended-comments=1",
-      "ts": 1795028182
-    },
     {
       "source": "FirstSquawk",
       "title_en": "BINANCE OBTAINS COURT ORDER FROM ADGM COURTS TO SUPPORT ASSET RECOVERY",
@@ -11504,6 +11490,20 @@
       "title_ko": "시진핑 중국 국가주석, 선전서 전체회의 주재 - SCMP",
       "url": "https://t.me/marketfeed/1081267",
       "ts": 1795054661
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Canada's Carney Touts Philippine Trade Deal On Asia Tour",
+      "title_ko": "캐나다 카니, 아시아 순방서 필리핀과 무역 협정 추진 시사",
+      "url": "https://www.barrons.com/news/canada-s-carney-touts-philippine-trade-deal-on-asia-tour-c371101a",
+      "ts": 1795054745
+    },
+    {
+      "source": "인베스트조선",
+      "title_en": "스페이스X 땐 3조 빠져나갔는데…앤트로픽發 수급 쇼크 우려",
+      "title_ko": "스페이스X 땐 3조 빠져나갔는데…앤트로픽發 수급 쇼크 우려",
+      "url": "https://www.investchosun.com/m/article.html?contid=2026111980086",
+      "ts": 1795054875
     }
   ]
 }
