@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795081639,
+  "updated_at": 1795081790,
   "id_hashes": [
-    "22e0e278ba2a65c4a611668c5b4a0627d1bf3f4345d6a903fce946f80fa9853c",
-    "17654cf3ae6a20db9232686f3e64d8a67e3b964ab66edf992e7d3f73199284b4",
-    "43622e2090f508644211649c5e24eb06f2094608fc5d091455d20fcabadd4f57",
-    "46a4c9adc45622e0e931e9f6509a4f6bda94455059721aa64f37989b2fd47eb7",
-    "ae19ee1a187d1e99f54798ce5b148e6f572ec021d1eb8fffebd77d12839f6322",
-    "ccd05efa0b82649c70ca824122295048e96595ec1cc2c62005d4554c7317decf",
     "178bdb0772d2233cdd298ab89b3fda3c3eb664305f30722c0ad632704698d763",
     "5ac38742401b95ccaa3a4c77c2dec9ffe09090342d5c03b09cd8e97eba3da467",
     "99043ee2e323c91bfb2d3959a2c53aa86adfe3287cb6e5f9b1ecff0c6ed7a9f9",
@@ -4000,14 +3994,15 @@
     "73dcf3879bd8d8b9d87eb1d660ca57cd9cb8069b077d5df8c056211729f3ac90",
     "9f4aca89b8c7b8a27c87d3fdb22864d6f4302fd1b9f7d83bb8d403ff44095544",
     "bd7972dd9a1809393bf649dd2e3a80215d2031a0d0264bbc848dba97236bf999",
-    "f5c91261d4c7219ecb8a07f18e06047c91513d18ee4ee0b228074660845a84e3"
+    "f5c91261d4c7219ecb8a07f18e06047c91513d18ee4ee0b228074660845a84e3",
+    "d049295466b2a4d5cea1a63a9bb5fe8f0411aa30fcf672d7ebde79985697575a",
+    "cd1b31f80b3095d41d518535b5ef364a645dc8b758540e1c2c2e6e7c932c158f",
+    "26e56b44538622b6ae3f893bf533532d98fd7f80ebfa689292c2342d76f4a075",
+    "ce7ca4c2d3b2aeb8a2b0a651a16897e9cca6318fdf467f4cf1ba16c35f9afb79",
+    "89e5297a1c4fa6d17b6cea529bb69601e3d0d56379114f4a7d8be9d17f282ff6",
+    "60db9c322365223d34858cc1eb23a1ef0af7f8e768611f31525b85c9f02b600a"
   ],
   "title_hashes": [
-    "5f8eb61b2daa33fadf445ff2edfcc8a1e1977857c63d6338b26db83783af6010",
-    "e7d4ea35302a3b34dcd6e327d0a4e600e2dc027ab1c619f3a881495f7216724e",
-    "2f930c8400ec629047adbe430ac4278a669e6f83f0a51ab29dbbc0c860d84ab0",
-    "5f0b753e5015f66320aa39404a1a4e57ee4b3ca54dcc8f82651854b570d7daed",
-    "36dffcf072898dcd6bff7ad3b18e117c1f31bc35a0232e296df2b970e08b7813",
     "8875f40bf754b30797ef3ff695e25b632ad6747058e2e46be1735389baf4e14a",
     "4eae81ecf9a5b2700bc775443ace064b3a7d6e9b7a0e1946152cceedeac36d91",
     "f051eaa77551b0a3b43728503d22065910bc82ff518c78770108b5b4e568a22f",
@@ -8002,16 +7997,14 @@
     "ea47644005889aa5ee128719c4ff37a5b50cc9994493dcdce7c8b719f02d5180",
     "a05aa00c5e3095b55390e6bc44b94e74e99d4bfeccf9b180b7ab199f78970aa7",
     "2103067f4928cb036269e891c540d9d98eccae8aaecce803c7dbbff7a7d7c628",
-    "c87ae9fc753ae62b38d3cca383367d80cfb7f1e584f752cea9cea009f5718011"
+    "c87ae9fc753ae62b38d3cca383367d80cfb7f1e584f752cea9cea009f5718011",
+    "1e3d869d2c15232cf8ba2aff595cae02f87d526b3c8498b24915fb40f2d53a4c",
+    "6519429883adc1e0aa32f3d2cd9325aa87b1f952fd02a33fa458912640580bb8",
+    "470ce848782ea3a5283c9da67239149fc94c8e5d30cb1462d3bd7c7f4c8c3677",
+    "c888ce17126ca9d203ffb1ee1a48936ddb6115aa645c87efff358c1bf2b4b6f7",
+    "ff180f3067f77530e91b4fd06d3441a59bce6c8254da49725d037267198b8ad0"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "BRENT CRUDE FUTURES EDGE HIGHER BY $1.08 TO $93.03/BBL.",
-      "title_ko": "브렌트유 선물, 1.08달러 상승한 배럴당 93.03달러 기록",
-      "url": "https://t.me/marketfeed/1081215",
-      "ts": 1795053478
-    },
     {
       "source": "FinancialJuice",
       "title_en": "IMF Managing Director Georgieva: rising global inflation requires tighter monetary policies in many economies",
@@ -11504,6 +11497,13 @@
       "title_ko": "월마트, 3분기 실적 발표 앞두고 개장 전 주가 소폭 하락",
       "url": "https://www.benzinga.com/markets/equities/26/11/63419275/walmart-shares-slip-premarket-ahead-of-third-quarter-earnings",
       "ts": 1795081526
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Stock Futures Rise as Optimism Improves Ahead of Anthropic Trading Debut",
+      "title_ko": "앤스로픽 상장 앞두고 투자심리 개선에 미 주가지수 선물 상승",
+      "url": "https://www.wsj.com/finance/stocks/stock-futures-rise-as-optimism-improves-ahead-of-anthropic-trading-debut-ecdfbb2f?mod=rss_markets_main",
+      "ts": 1795081789
     }
   ]
 }
