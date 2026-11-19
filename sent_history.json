@@ -1,25 +1,6 @@
 {
-  "updated_at": 1795115838,
+  "updated_at": 1795115992,
   "id_hashes": [
-    "13b1fba94316ad1e882ca29ab256bf05d5463ade41f65081111db32cc90a07e1",
-    "2f56ff5518ac2e65b03eaba3144d054b58f2996222d60456468160971934eca8",
-    "7f58d402ef561ff3c8c9942ab19aa9690a35e0ac9c25f139f44d88a11c1e2aaa",
-    "2aa3142679e41626a1ff7e47336b649b337d54c5c9e965adc65fb0a79c2e9112",
-    "7f8c2c23965db44008259f2244701939356b4f3ea452bcd992f3be9fcb9fc604",
-    "7f8fe04147fb888c6ea9c16232e6fc22928f03c543d83e5abe55ea9bd2c49ecb",
-    "ff1c85f5471def7293028681d8b5c98449aad0bd30e0f4136260d85e693a00bb",
-    "5bbfc783e789a53d43b1d247436a8b3d271b34a7944d925a348cad572ad195b7",
-    "61d50f1dd4be804c085c7079f76494abc3010f47e1f0aa1a24ef6276b1959ab5",
-    "d5165820a858ddaa90aee28a696b4df972fa02bfb35e5f08a7bcf573620fda08",
-    "3e29d5fac7424c77b1feb5203561ecfc645855c2df1e83827dc69a0b014dd040",
-    "d876eb75e020ba0f9f8c883f65deaee08571feaf4825831a4a1dce02d9119691",
-    "cac8d41c0d47f1a50aa6b9ec642c840f40540d51e5289a57fba2ad63b97eb880",
-    "69f54b21054d559b0eb909f92558a2a5c7ffa305e5a87410adc8a6863b31809e",
-    "910c271a86b6bd8efce69f677e843411251b2e3035d88d57cc0faa4f4e084d82",
-    "4054f2800ed3aef62dffe2583af576e70347b417d2277973c9d7f14d94e4c936",
-    "9be5629b659f871577a89d94675a6ae6705e9681389ae56a9eb8308b8f89f7e6",
-    "af2191ea4214a5e56a7c7cf8237ec5f7a58df1fce9dc2dbd9ded193d7a8d0a5e",
-    "cd3764edfb511ae970959f95fa54d6592766e8ef7940222643265b9f72a436c4",
     "0c8af6b5fe5943bf7d2bd5d6e209a26e85fc40b27ac6ce1a5ebf9ce80d603f54",
     "f3b545540a9d1a2e08733cf17ee43160e4764efdc380ccc31e13ef966a88a76b",
     "c98919cca0781eec1c555938798faefb1b3bffdfc94a4654ae942f8b757e6bdb",
@@ -4000,20 +3981,28 @@
     "16843a3c0541b78b5c7b83da9056ca8971b76644631552564090965d9720683f",
     "0e93fb9fb10b34e83f772f4c953e1b19e03e228180bc0bd300be9bd0fc0e133d",
     "e0f1a1734f8b4fd68c582a2ebaae59066f4da36ff2652abca5907af47a39c90f",
-    "9d8f8611e92e47e6fefbc4add3fdd749f4c8374a12d7d6867465c2ad61b6838d"
+    "9d8f8611e92e47e6fefbc4add3fdd749f4c8374a12d7d6867465c2ad61b6838d",
+    "dcf9e5bdc2d42da35fcdd1566f8d0cffcd93e4eec4f8c3758a1ff41a7879b6fc",
+    "51d72a37b6a16a2ee656e868c760fe816718f1279472a5bbef42e70cdb2504d5",
+    "c31195b2a4b48cad79b305a8bf68e005a6dbbdd8f97bc1f06d2ea51e3ba2286f",
+    "e36711bc6eaec5a07ec854e54be017416c4a2bf3dafa18bffbda971d244cfff1",
+    "b3265910e50642fddb599800095bb062e9a9f3bb792ad3c401ff840ffca66c43",
+    "1a95b55e6bc55c18d4fbb4f14b669bc5d2634a49267b7bc6f4dbab11a2423e69",
+    "e4c7b2a7f25dc51e25d509e97bfc54c186c86aad11ebc12610d849ac4d4fc31a",
+    "36fa3b32868c22846588fba7d80fe318af25d476e8e99ad1bbd0f57e4852a154",
+    "01308a4a5c5adf79f38491252172e2941dffe081e4b9d98dab5cd784ed5cfc46",
+    "63bc610e8b67c63da56fa55778b98c6d3a47285e7ef2fc92f34aa1f5a8a082c6",
+    "e076be445ca2563004c2d561e464f4730a3c53c48daa150fead9046c01519edc",
+    "3e1df16361d78487f2f8c543a0ba79e2f05358895adfa1dadb31d7dc594e262f",
+    "32596fc51bf211ff7e8b33e900690140c5d6c2498b9f0dab14d55ca08ceb4c23",
+    "2ac7710d45bb4d53beec5411e9384a28e6115e78b96cf98968f6e1ce65860c10",
+    "19e069a4a17278fb2f60eadad2befca20bbeb59c6566a4139de0af9cef558e43",
+    "203e38f956327dd31f623a0581295b6ceed553c0617539a8a220193695f8a271",
+    "3f03e607beb6d742fa7699868e730ef259f12919913f9c475f9287677119219e",
+    "b255ce67cf2022758a394700c52f486fb4fbedea76bc2fc53989cd7e8c0e8e25",
+    "3da43ca6b7034a58e8b87f0ef4fff177d78130a959d84a1ae6f722d3e4ce8592"
   ],
   "title_hashes": [
-    "3819dc637ec75452a6bd3933847e1dfb016781a13270ac332234baceffb2c942",
-    "0e603fb136d9242371640b46c384145d6933b24741be25ab4ee3ae4a8878d732",
-    "94ce266c72cee4834ae40275f3187ccb82e54feb65c956460144747f58de3ec2",
-    "4fc878e32ceee50bf345235907fc3162f27bafcab62c98973b02645ca3d19814",
-    "02c897b8940cc83511257e8e00d520d3dc62becc6f22b63569e9af622633d002",
-    "004137b1fc549e17c41fb29401f6cce5e0f61afa3925d74c87cd66792fa5dbf6",
-    "b9a5ee5de368c0ba709f1acb403552bb391a1826641a8044d1ff6774e8d0722c",
-    "86c62191c41cb84de698d06d267fa3253de9211fc7a6d4d55f420f30242cd472",
-    "34ca1ed34672e818bf5ece5f4a21bcec08b95ea72943e4073d7bba1feacc5d94",
-    "a83481d44b3c52bb5f72617babb708172d7c719fd7a17d9cf7252259acdb80c9",
-    "7cb6d0836136c2e5214c9836767d035e8cf424452dccfe4a6cde9bf9489b0879",
     "0a8946b7b5f37a86142f766d629f764a2f679325c6b1957bf982a15b294e81df",
     "0a63826cdea198c697f7acf960113a336770011eb81fb054df28f064709a9edc",
     "2bef492fd36282e5b8a52c27b7562875b04e904e5050ddbe42b3bdff3ab4d430",
@@ -8002,37 +7991,20 @@
     "0d972dd4ecaa0f6d8e34fb117434328d6db8a7c3c9e88512d48bd62404fc9486",
     "f061ea148e9a90ed01e286eccf8f4bcc40f8cf102d29ff425a7a4e9b50bf33c5",
     "77a48d59bbe5991a999b78bac650fcd018e85a584f67f5455db1ef7ec5915f99",
-    "db7a4331cf08c9b56cdf5a651e5781409d7d44b9b2deaf4362677c355b230a11"
+    "db7a4331cf08c9b56cdf5a651e5781409d7d44b9b2deaf4362677c355b230a11",
+    "72849579e1ab320be8f18f4cae5b062ea5b83343a28158250fa8d3f4733dff93",
+    "5f9b514464e0b5b1e3c085a1efe46668029c2cd7ff4caeb25246119e36e39827",
+    "8f1cf2429aa676dc9e67f927a649250451c34a43280c865265c81681d35fecd1",
+    "d072961bbf060e38ae4852e7e54db33be27eb89c52a87049c508888e0342b316",
+    "f692e943271863b941e184e2dd6e948151bc77ac0891fad4f4528d70309460ee",
+    "b3eae48be58e2a5f8e61d222dbd4f68b376dca789aa38b0d9672ee619bc45bf3",
+    "e49c0b227e10392032569a6b1fb50c76a56cd052c25fb813f9b8450f4670ad3b",
+    "b2d0b2244b06268656a6b7b11045d5d5e451e7455dc9061d45994729b85dd452",
+    "1f6a4deb757c904a0c23bfb7223973458ebe8c75935048280bb87c9ab975cfec",
+    "2daae0b6a3689cf4c191024deac0ab5508f56a277a02cfb04b80e2d671060f36",
+    "873b06b5a3996c92fbc6832673ab45b65896a8f044c00bcf06e3782bba3f46fe"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "🌅 Market News Digest: [Nov 18-19, 2026 EST]",
-      "title_ko": "[11/18-19] 글로벌 증시 주요 뉴스 요약",
-      "url": "https://t.me/marketfeed/1081590",
-      "ts": 1795089717
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "WALMART SEES FY ADJ EPS $2.84 TO $2.89, SAW $2.80 TO $2.87",
-      "title_ko": "월마트, 연간 조정 EPS 가이던스 2.84-2.89달러로 상향(기존 2.80-2.87달러)",
-      "url": "https://t.me/firstsquaw/194238",
-      "ts": 1795089721
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Decibel Reports Third Quarter 2026 Results: Quarterly Revenue Grows 7% YoY to $35.1 Million, International Sales Reach Record $12.1 Million, Reaffirms Full Year Outlook",
-      "title_ko": "데시벨, 3분기 매출 3,510만 달러로 전년 대비 7% 증가…해외 매출 역대 최대치 기록 및 연간 가이던스 유지",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPaUxMeGhoTGJWSmdSZ0ZJMEJTY3FqZ3NwMW1FSjd2UUJaTUNMS2dqQ3BmU3ZCVVVFT0t2ZFZzbkc3bWF2MDdnb1g3RWM1WDZ1Vkdyc3lKX080MTBWRFcxdUV0aUs0TU1Ha3dQTGhGZlRoejk1eEJSZDdxWGZEWFN5UURBOU0wUE5lMEpfcUVPelNBNEhEd3JtQ2g2UFJ4VXRxcUJ1VEJnSnNybkhBV0JhQXR3RUhSa3pDSmVUN0t5OFE4TW12aWxqZDI4RG45R0VybUc3ZVFvTXZtakcyMV9PQVlpN3FXaWduMEJteUFIaHhvd1o0VEdhT0xpUlpmNnYzMkZVVGhHVkx4LUY2aVdHNXRjaTRXVS1DR1A2b1F2dzFYVHhWRU5MbDBwTXhFNDJQMXB6anBWSjJ3Q1h2QnZRX05CNnhqMXV4NjVIVzh0cFhSQ2RSNXc?oc=5",
-      "ts": 1795089731
-    },
-    {
-      "source": "FT",
-      "title_en": "Anthropic is a ‘must own’",
-      "title_ko": "앤스로픽, '필수 보유' 종목으로 부상",
-      "url": "https://www.ft.com/content/4224e2ed-116c-466b-97f4-54a5ef43a54e",
-      "ts": 1795089761
-    },
     {
       "source": "Bloomberg",
       "title_en": "Nvidia Moves Ousted CEO Jensen Huang Out of the Spotlight",
@@ -11504,6 +11476,34 @@
       "title_ko": "BoE의 Greene: 정책이 얼마나 제한적이었는가에 대한 질문입니다",
       "url": "https://www.financialjuice.com/News/9860485/BoEs-Greene-Question-over-how-restrictive-policy-has-been.aspx?xy=rss",
       "ts": 1795115836
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Fed Tells Regional Staff to Expect Lower Pay Increases in 2027",
+      "title_ko": "미 연준, 지역 연은 직원 2027년 임금 인상폭 축소 통보",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/fed-tells-regional-staff-to-expect-lower-pay-increases-in-2027",
+      "ts": 1795115925
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "国际原子能机构（IAEA）总干事拉斐尔・格罗西本周向原子能机构理事会通报：“随着乌克兰步入冬季，该国电力系统面临的挑战愈发严峻，电网正处于冲突爆发以来的最差状态。”",
+      "title_ko": "라파엘 그로시 국제원자력기구(IAEA) 사무총장은 이번 주 IAEA 이사회에 \"우크라이나가 겨울에 들어서면서 국가의 전력 시스템이 직면한 문제가 점점 더 심각해지고 전력망은 분쟁이 시작된 이래 최악의 상태에 있다\"고 말했다",
+      "url": "https://wallstreetcn.com/livenews/3202772",
+      "ts": 1795115930
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Anthropic IPO Sets New Standard: Rice Nelson",
+      "title_ko": "인류학 IPO가 새로운 표준을 설정하다: 라이스 넬슨(Rice Nelson)",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/anthropic-ipo-sets-new-standard-rice-nelson-video",
+      "ts": 1795115988
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "BoE’s Greene cites above-target inflation and resilient economy.",
+      "title_ko": "BoE의 Greene은 목표 이상의 인플레이션과 회복력 있는 경제를 언급합니다",
+      "url": "https://www.financialjuice.com/News/9860498/BoEs-Greene-cites-above-target-inflation-and-resilient-economy.aspx?xy=rss",
+      "ts": 1795115991
     }
   ]
 }
