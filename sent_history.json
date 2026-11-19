@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795130629,
+  "updated_at": 1795130782,
   "id_hashes": [
-    "d6c18c87bb73395b83c28783baaf46ac7e525adb51336662d3f5c76bc0a6d89e",
-    "31f9154ce0eff56a0c4133941e1b862dd95dc957991e9efa286412c43f2e9e09",
-    "f574cb931788f571258b4f7ac42d8756a6bffc337ae4814ceeb0524ed0c48b2a",
-    "914f08b79c5f1f8dae121ea7c7fd831383fe83fc96c44faa4977be1c3bd95c31",
-    "edeba243918644dae92cdb5a342faae14012e9c14281faa362f86ed39d396fdb",
-    "f2d0992799c09758614e2d52a1418fade7d02326c97f8b6cb959beeec1c792e2",
-    "a7fcc7fee1e13f44981ec220287f2377c375605d07406461fda4ebf58b438a8a",
     "8f2aae5cec42d01dfa8c61aa84f20acb24eb68fb61f2de72622ac70244143786",
     "34103c09af5bb8804c4e22e2d03c758ab960ef2d573c24b5f960f47965143195",
     "f6c97e18c31a3f4a8afb63f9a1281b75baf579325fd014b106e938ec4f38f1bc",
@@ -4000,15 +3993,16 @@
     "2dc70b98d2b08e8e7accee52d3a42d018c17f1ec059e9430b8baced04c28f124",
     "783fe338c6cb1ceabd65f4929f8da81026f82511253b12e925e3de042d2f960b",
     "d57c3c0a3aae81393dc96db7fbd4d0357d4609cabb8a409b182821f652cda42b",
-    "ebc2112f047b627595970c30a692b05f6091484810b6a8dcf06ea9f8c3f0bcda"
+    "ebc2112f047b627595970c30a692b05f6091484810b6a8dcf06ea9f8c3f0bcda",
+    "44399d2d8b656cc455119c6c203960e4d1b1713a28bfde612a55d14c9b2ef154",
+    "61f48380fce8c1a230b42b02a2cfc7113da3269e13d562bea2c62d6ce848bc6c",
+    "14389ee8f76b027496734c7952f147ffc3454ffc897450238892c01f05318ac0",
+    "3c748a615a2b441804b6d611015eeedeed7666463b6090ebc34fdf1b3acf6194",
+    "587a9806bbb1bdd3f9e226928250880f5e746f6aa69ffdee8e5749a9cd330b8f",
+    "554fc05efc0ae09ceab0b82af0214b10014e403e7e1ef7128da4cf68534c4847",
+    "b047933b18d1162d906a9aa2ef001e8838e851c6e6cfc40f29807baa940e984a"
   ],
   "title_hashes": [
-    "4186d9be3014cb97920380d8b68454a09bcb600bff704f2e5466e8ac91bfec3a",
-    "06fa72e1179f6e7e108d92785d2fedf5e7f04b2ccf32b5e51bb468c8d01099bf",
-    "7c970ca75676d76ab166f03c4ebc30414aa54487cb6654171e325c132528139b",
-    "d6fd4125e0a92820daeef0aa78d5979cd751c73ee2b7f20a3ad72c10dd27e649",
-    "c3b99ed3125fa50e923d5db8558064fa877f4b261c508129173b4595d14c33fb",
-    "9265bd10378c72e2463273dc43c70b485d9d202578723cee2fef2664a072210e",
     "f0e568fdbd61735fabf5e4a126933f3a62846f16525820e93dcb66f73aafce37",
     "69f3d50e343b93bb2bab71df474ac56d753d1d9af29f0216475f833539dd0da7",
     "833df083aeee3daecccb2fe747ff4ec7ce8c690720edb91d12746fed817c31ce",
@@ -8002,16 +7996,15 @@
     "3ecc2f74a5014588f884b09be5c410265cc03abcc8f8cd2ed8facf3d9910a2ee",
     "edb41bc1cc0304d220cd79e01540e3dc8e78b52d864e769ac6d6e26e5b65aefb",
     "e8e6d87747820ae5bab52bd09d30be2ada6952d009096053d317d78e6fd0fc8d",
-    "3d4d45a150e18c43bae19b50e8791627427c77f2576a7da15a7485b8c0d42c9b"
+    "3d4d45a150e18c43bae19b50e8791627427c77f2576a7da15a7485b8c0d42c9b",
+    "ad6023fd7a44ee86115a6a92d1809a576c9fabe6fb38b053dee70f98c4f3e613",
+    "6169845b87f43fe34be04b7209050805b7836f121f8c2aa2f00d079508dae77f",
+    "63de2c67b4589df618ba2ad49d0eb5a2fc580a4cfe4f0b84973f0a6f906dc934",
+    "9c1e42139068367aef5c717676e53e795c7b1b915c27f0f7e7da2a87b4601c78",
+    "1cf05ec39e3ee92325443c18bb9d701471c49eb536c09a0703bd99ecd483437e",
+    "2c5b0f9e46a04d68f6c1d2e65cf358b945de1a97acb2364fa18dad00e96c48fb"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "SA analyst upgrades/downgrades: NVDA, NBIS, SHOP, GM",
-      "title_ko": "SA 분석가 업그레이드/다운그레이드: NVDA, NBIS, SHOP, GM",
-      "url": "https://seekingalpha.com/news/4674756-sa-analyst-upgrades-downgrades-nvda-nbis-shop-gm?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795101814
-    },
     {
       "source": "Barron's",
       "title_en": "Ford Stock Looks Cheap. It Just Got a Buy Upgrade.",
@@ -11504,6 +11497,13 @@
       "title_ko": "우크라이나 키예프에서 폭발음이 들렸다: 목격자",
       "url": "https://www.financialjuice.com/News/9860790/Explosions-heard-in-Ukraines-Kyiv-witness-source.aspx",
       "ts": 1795130628
+    },
+    {
+      "source": "이데일리",
+      "title_en": "[오늘장특징주]앤스로픽, AMD, 월마트",
+      "title_ko": "[오늘장특징주]앤스로픽, AMD, 월마트",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01797446645647688&mediaCodeNo=257",
+      "ts": 1795130781
     }
   ]
 }
