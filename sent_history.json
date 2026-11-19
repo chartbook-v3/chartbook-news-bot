@@ -1,30 +1,6 @@
 {
-  "updated_at": 1795112105,
+  "updated_at": 1795112269,
   "id_hashes": [
-    "f3e5c95300dd5d572b2d48919188497c306a88722983f8ca96eda45454d4652f",
-    "c3191e9e39913b6d17c7fd9d91f9c1c01047f6b5695e0d30c123af4771a49557",
-    "3e52e6a1b6a97ba94bfe257ec18e3c1a9434c0916753286cdbad5754a8ed4a68",
-    "ba63db0db7b13d6ec222696bd49d5c1d4e17b608745ad9e2c45aeed980dd2e09",
-    "ca94bc6dc9b6b94a28b006a08155b7a65ae08bd6e1f0a6d3fdc79fd9dd0cc0cb",
-    "37bc24a8daffda26feda74a03c6875005a0621e729569fa3aa384c5c74fc3969",
-    "203f9d033cb692f528cdabf1eb7516e1017c39d02eb168ed041bc6703b89d7dc",
-    "eb814d4d2238f05ac9e8da2fc85925abdae34870c061303a2d95656450cbe655",
-    "ae96955c78bb33cdf6cab74a59dffcaa195675815262b9b2e37c92644bd00088",
-    "80ce09557a1925092e8ef64386e5f4101feb9ddb52a0912afb457bdea29f0d22",
-    "c5041c662e7081aa32f9d46506983c1292d2da9c785b18af343e30485c9ad6e2",
-    "495cb73109c02b643238604ef0a919bce5e07b354dd03a3197710e4e376dbf8b",
-    "ade8d17c0a1491335588d71604b75abfbb8f6252cacc704ab3f5301493b09413",
-    "82cb434f620b0f176833b0cf8f23aae585dadde6f28f8cd276ba7c2a3b6cbca8",
-    "80484e283a827e4c3d29bc8e0885d8610d32ccfeee5a2ea22a9330407e566bbc",
-    "526a741816ac8fad689beea42f035f7b7e25755922693bed7a6407599f6ee7f6",
-    "fc528cbf3cb948494e0721fc5d5f1a3268c99aad2ef2bb4ae85ee9865023d3cd",
-    "ca842ca0aade5eee6e8ca69f715a8d8df2b7383d44460bffd870e35dabb7597e",
-    "36529d7081e713118724a09c03674e2e6d103b12aacd5187eaaaba332a30a075",
-    "c6492e37ed28273e044807ff1c4dd3b12f128a18e05287ff28a81f6619f774a9",
-    "7c8783ef78b2524eea1e167b983695d3fae5f7bef0ae5f8267ec9f8585f4e69f",
-    "c9466b76f61027196394ae043596a6bf51c3b99309b8d59e84105dad3a8fcd22",
-    "1d6aa9dc95536252058bbd36a3d0623f0188df9ffb45fb6ce3fd323d9218ccc6",
-    "7c9ee51735c1d6494eed7d9f5d550a678ce7fddc475a3e7c965fce41f70772d2",
     "39096d2e1dc54fa24fcd29ff5603ba635ff0205c14a755430d0ae1cd12c16dee",
     "744d2c78d5d482648c022ad4fef75dec6d257f2695e146c1a775126ea02d00ed",
     "730ab98e57560a737452b8716497d7f0d144ca59da3227d502f154427d0f8fdf",
@@ -4000,16 +3976,33 @@
     "cdc2342a6f29fb398544a360b400526b6ca4e91f7a7b0cf780713bb8d4ebea9c",
     "0667e4daeec2cc2cf51a36fa007db8e5d3ce0ba76b606e15dd28b6f8dcfd0d60",
     "0513040b7b6a4e5c2313aacc31463defc2102fe51b12e7d5d67ace246ffe1c10",
-    "3ce9d06e3e932ea41d2970e29a0e580d75c458811571408c2363aef1a8f819cd"
+    "3ce9d06e3e932ea41d2970e29a0e580d75c458811571408c2363aef1a8f819cd",
+    "c78c7e68509d60e020be1f8f5be0eb2e103a9b1942bf1252e61015e411d2e3f8",
+    "6a3f17826aa77689bff6a03638dbf4080aff67bb4eb6551012ffe1dc7c6df91a",
+    "6772f2a1e47070c3d6d0778e6fe6cd7918ad26dc14744f76366f5c855386d496",
+    "bb43047978b7fa35406625d587d614588d081c51ffa7098f23d49294efae4bb2",
+    "4189ba6be1bbeb299e5945c36c5acc89e13400ccc2f7a08b8961f63c284ad413",
+    "8883ac921264a1528a10738f215c1be6a7aaa5e544a337892e9e998ad1a66dee",
+    "51e36372e31700b00559139030688e7df0431aba4563145dc1dc8323c43b6656",
+    "1cc12c3082a588d3a22dcb32257b9535ed58612be07ac8f66c102895e1621439",
+    "42fb8bcd112c8c37bfca014ec64b642acc857a2a6298faed7799a9d05968ee7c",
+    "ee524cf042d45f98b1cd4131f5d15fa586e13f9cadef251427dcb775cf9b9e8c",
+    "82746c5c9bb8bbcabb342386f91beaca21c93d31f239f9a0afd0065ac058eecc",
+    "c5f325004712acddaf35a38bc935ec3debcae7d9100cff6be570fafb7517c02b",
+    "e9b065f4c8a80ec7ce3f30069cc5aa56d4a94dc64a563dff299229cea40755e2",
+    "a90f334e4cf6441d251383cf975734049244fcd0084d015c86e45a4b66c53b4d",
+    "a379b144d2c8695f9b30b954c50d8dcad274e342ff521453a45c2d97dca85c99",
+    "7f2276317bf4ff2462649d3a7ba6d6359a8a99830241a3940f354912a299816b",
+    "6d447850ffc2177bcc2e20e38d9f71751cb70694226fd7641c04cc5e1802a409",
+    "397e095a89a5dfbece94c56c4a2b67e2f811212ce1d594416850d4248231bfdc",
+    "d56a3dda59c67fdfe0bbcbcdc279a04dd0a4ccdb4b8fd0c6e930b592e0806d0a",
+    "5e942f1609db2aae3808b6e43c6923a0a1a827dbe58e2aab88cfff4c263e8700",
+    "845f93e75fb23b9c08b1fa015faf09faa0c752ec600acb0a818ca56251c49c17",
+    "aacdb0b3d6111eb02baf28e58f49ac1292e308bc9e6f9d79598397c959f61623",
+    "af6e06f9cb59ee4279b18784e8899bef51a3a879d5751d90e4ff56fec45ee8da",
+    "bf7a7dcd20d0c04293e5ad470c9c03bb11aa4a4006f6c8c93761ea757fd084d4"
   ],
   "title_hashes": [
-    "7f08a6f9ec5266e0659e858eaa3212ce53feede8f06a37946510f1c1252ba053",
-    "f18984e1f32674444f9b30ef0537e44e813142e80fca1cc0d3aa4aa5a729ffc6",
-    "7265c405b7c64e8f41e03a4d0412780bccc030566cfd232ebd543f7111f5ca89",
-    "4f2cf332a0be0656b44a453b557c43965c973f561c36fdce79e83339bf77500f",
-    "7e0870c37fbc23b238fa93398c8a278d4cfed8a5e98ed779d2780ca159532a27",
-    "1194b6f343bcfd6a186ce4a28f832e011ae816ba4fdb29332a386720af49f53c",
-    "661ca820d8850429d4fdb916b1701dfe34251a20510530f0e6f2127feac30ccc",
     "3dc82fa313bc577406507dc067bacfed1859e4d930dacb148b5030e57a14facf",
     "540292b5b042d266adf2523f526730e1d07b20fcd7ce958b52722f98542f92b7",
     "ed4e8544221a35a78faaa4a34f6e23368a7468f95265e1d3ec6f23687cb63f92",
@@ -8002,30 +7995,16 @@
     "6811a2171fe8916dd67cbc7df20f8c4ac6153742fb26636570b95d354a9ab692",
     "b8f8ab2682c3d028b3d9571882e0e24a3c7dcdca78ac3413bc95b38933dffa1c",
     "4496c9a3949bf27e24a195f89f04b33f1797e76c197a737e8e451e16c8c45c03",
-    "8aa54a709bb9a98114179b6bcd617ac940280910a366ebb88c8483a8ff69fef2"
+    "8aa54a709bb9a98114179b6bcd617ac940280910a366ebb88c8483a8ff69fef2",
+    "4cc6d3d6fc55240276bfabfb540b47c265d66fbb2aeae9ff9bbdcf083cd90a80",
+    "cd1124810a334993efbc801be7354f4f470b7fb848b60eb219fd22f3bcef503f",
+    "bbfac8efddd0056d7395f8ff627c3a1fc09916cffbc189a6c53963172f8f228b",
+    "7189c70eeee40ebd7949846f99a8a6a5f2688e21c33c061fa93359628654bcb7",
+    "db9f8d463edb2b2b3dffc6105f7e8d4b86b3ff4c94d4c9a2db6fa82cf69ccf2a",
+    "d757bbb1cc4c7e4e9ceeea3d43860fa6e547db535d3774994b9b7beb0d6d5f5b",
+    "cac66efa95d96bb5ea0bb9838e03708e556aa31c8cb4753c304ac1b429a317a6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Barron's",
-      "title_en": "Alibaba Earnings Show AI Is the Stock’s Best Hope—and Biggest Danger",
-      "title_ko": "알리바바 실적, AI가 주가 반등의 핵심이자 최대 리스크로 부상",
-      "url": "https://www.barrons.com/articles/alibaba-earnings-stock-price-62a86324",
-      "ts": 1795086427
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Exclusive-Trump official floated ceding Guyanese territory to Venezuela, sources say",
-      "title_ko": "단독: 트럼프 측근, 가이아나 영토 베네수엘라 양도 방안 검토설",
-      "url": "https://www.streetinsider.com/Reuters/Exclusive-Trump+official+floated+ceding+Guyanese+territory+to+Venezuela%2C+sources+say/27372392.html",
-      "ts": 1795086432
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Full Truck Alliance (YMM) Tops Q3 EPS by 6c",
-      "title_ko": "풀트럭얼라이언스(YMM), 3분기 주당순이익(EPS) 시장 예상치 상회",
-      "url": "https://www.streetinsider.com/Earnings/Full+Truck+Alliance+%28YMM%29+Tops+Q3+EPS+by+6c/27372421.html",
-      "ts": 1795086435
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Hyperscale Data GAAP EPS of -$0.11, revenue of $44.85M",
@@ -11504,6 +11483,27 @@
       "title_ko": "Williams-Sonoma 주식: 주택 침체가 도자기 헛간 성장에 부담을 줍니다",
       "url": "https://www.barrons.com/articles/williams-sonoma-earnings-stock-price-3b911aa7?mod=RTA",
       "ts": 1795112104
+    },
+    {
+      "source": "The Verge",
+      "title_en": "Oh, Elon Musk is ‘moderate’ now, is he?",
+      "title_ko": "아, 엘론 머스크는 이제 '온건'한 사람이군요, 그렇죠?",
+      "url": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook",
+      "ts": 1795112263
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "ANTHROPIC SHARES FALL 16% BELOW OPENING TRADE",
+      "title_ko": "인류주가 개장 거래보다 16% 하락",
+      "url": "https://t.me/WalterBloomberg/38719",
+      "ts": 1795112266
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "周四（11月19日），美联储隔夜逆回购协议（RRP）使用规模为4.05亿美元（交易对手7家），上个交易日报3.31亿美元。",
+      "title_ko": "11월 19일 목요일, 연준의 익일 역환매조건부매매계약(RRP) 규모는 4억 500만 달러(7개 거래 상대)로 전 거래일의 3억 3100만 달러와 비교됩니다",
+      "url": "https://wallstreetcn.com/livenews/3202753",
+      "ts": 1795112268
     }
   ]
 }
