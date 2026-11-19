@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795055822,
+  "updated_at": 1795055973,
   "id_hashes": [
-    "cea6fe665b04a037f9e0484fed92c9a988bce478068166a86cc4c8c267a95e88",
-    "8a365647cdedfaa3fd7a1b174701544fb3e58d3aa9889806b1cad75cab9d9203",
-    "9260d4387735682e6a7c76ace5cd72225afbe45019a803872adf25121fa6d456",
-    "531b563361218095a2e9ddb825fadacd53a5a8415472997e8db57390f3196fd2",
-    "3b16436a8fdfff193b09c16e3b9606d74245c2d94dc989a0af97fe857d25f1c5",
-    "e4fc530b8a378da74a089fc086b54fb9fb572499ddaa0b19ce87b0f8d9af47a8",
-    "f46723b60ac2a5d1453b16d2fcc37cbea8a84ed480c5c885d49024b8e81a8ce6",
-    "3afb691527fb4fcfcfe6c87540ab175c13a8230dd3341ab709b14411a294c2a5",
-    "354df83210b977871c9bb321fca7161380f3b4a7deab655ee13183dbfae01fcf",
-    "f9433419bae1cd134d11417b4f7198dc90832294afff06477de406d68571e72f",
-    "53a25979c7bed98df80c1912538166e7f33c62c6484d5c08046b2cbd1a78f84f",
-    "347a3e6751e351468a75d6d224b8ca8082fc1c2823c03f8a8099f8e951d541c8",
-    "d3bba5fd22472a5cf1691e0927c4a7bfbd22dbf56e84e4e6b15fdb81047afb2c",
-    "43cfea180369ed510e0d29042ac69fc41e2909259b271f787decd9d523f210cb",
     "6848caf9a1083bde4bc55cec0dbb26e92b300ff63f8fc73d8dbe451f727a0cfc",
     "aeabd08f457dc4db6e9a74c73457dd3fc68e0093d309cba33764b29585d24c59",
     "a31383d9c5209e4b9ad5b14da2e3a2c6dc67f49b1ea1c032afbdba50ac38a492",
@@ -4000,18 +3986,23 @@
     "7e264ebb0710bc3cea43ef714ef5347136852301eed5195762096e6f3ee11fb7",
     "ed13d2edc68083a47c88d474b9a69c76b9ea913148d2c0dd41a33c6793f96654",
     "a09aaf503911616cb2c78e3241339f7221d8aa09986d9c11fb27c657109a84d5",
-    "0dc3fd12cc1e2fb9f257ebbcb135f0377f916d5781150b3ce5aefbe72bf06ad8"
+    "0dc3fd12cc1e2fb9f257ebbcb135f0377f916d5781150b3ce5aefbe72bf06ad8",
+    "adac3aa71716dd4a37f5c1c24dfc1e58571f430f2fadceea576a2abe5e2bf020",
+    "4f07d38cab99530113518edcf6252c050da1a405a501e201d461c2c18ea7c835",
+    "3f01467a4854162aa8693c1fbdcd7f07219f39224058a1b3561d576694c06b9f",
+    "5ecf7a34cfe90510becc012303ece9f19fc2e9a2ae74f0f598ae7a8d97fc060e",
+    "59f60a214b120cb56391f2ea7a8bca3cca12fb5ae7e3257fd6aae30bdba0b03b",
+    "e8246e7fad12f76cec845f6940c37405a6b898c4f3f728d7e5c9935f9f95ff9b",
+    "89d4f56b6ea078a0c003501e60e7871bf816b6534cfd24a60c979c1921592eff",
+    "f1a1aeb05ce17de529dd5dce9c670d2d71df92469eb8842954b712ffda728dba",
+    "04068e664eec1a692f13ed86998c8395ec1b3bdeba8dda16a62f9a2c84b4bff7",
+    "e18eb950ca77d0024d924c93de3844f6e1649d527d45d6c5490a06fe285906d5",
+    "bb581133b47244b193556361cf4a7a9640ca89c110fd15036eb14e116fa54c5e",
+    "8a4692b4baf598eb3dffe98de7003dc47cc194b8488159a768a8c2104ea854c3",
+    "a999c5fe58b4e28bc2ee1edd612e39f9d577c78a41c20832e4214f091d0f2abb",
+    "777e35d2f7fb4d53f395694ede733e38f3e1d791fbe3bdadaa08576715b67355"
   ],
   "title_hashes": [
-    "03de1da47f91d8607d203e96a19d2ee4f835016b5f9c74f511d3c408ca2c0e5e",
-    "6d5fd46f8368f0c9059fdee2c9f2e659db2d0b1760e52f159eda01175655addb",
-    "1db762d52c850f71d8b92505e58c5a8dfa4c6d628f5e6ca917bc53b559a5abc7",
-    "24a4e1c775b914bb8f3ca493669de9458b004c475f9f1c2c80194c24bd30310a",
-    "a88de1942c6c7b0f6abe3f2c5b4c1adbf4340e323df1240ee4b0b0108b08d5c0",
-    "bf0a9058dc4bbea97f842c1cfa0ce8b23f184bc1d9c781478ec504a29ed6769d",
-    "36bb61ca6fd7f8c20264886e677b956b1a0c6d57c5b71dd2c4b120145df0e451",
-    "23e4640040324b725874211d6185f7a6e6f4405346a3ab88820897a62ceb8053",
-    "235b59cc1dfa6fc68cfb7ab477ebeb1e918aea2baa190d709a6786fcc1b83304",
     "53622bbb2e5bd710265b24ebaf57f1d71d0cd0bd8e849c92437a44c8b541f7b7",
     "3127823611e431f85cb7a88066d06dae589693fe5b07429aac22fe35d75e2335",
     "e0b8658e75dbbaa518d87f811918ca58b93f32d5ad211d8c8384fbcdd1a746ed",
@@ -8002,44 +7993,18 @@
     "853310055198eee9fa1b0de34c99ea2063678bdb030452eb508511e02141edbd",
     "f13dd3a68b03cd2a64eee51b57c09c2d6db86b44c600201f98c54df19d7f0352",
     "c0117bb46a58c21f96dcfbb225cb20210bd06fce045d2262b984d2d111fb9025",
-    "128964f3f55387767b1ba2174504af8d41a52e58aea8e72210da8a4f3c2900c8"
+    "128964f3f55387767b1ba2174504af8d41a52e58aea8e72210da8a4f3c2900c8",
+    "fb84c1c4739a3696a48464dd899366ce602af9cde1bd2b1f14fff9b82a42e384",
+    "30931ffd98f393be13a1897eef116388973540f4eb768d7be3cd5df71e8ff5c3",
+    "eeeba02e9e65ed8947fa63457b42b0c0c6ee1a4e94b5780a50bd026cf9c0c456",
+    "924fe9f54b93fd4b0f373e79ea330ff7ffae97498b3c62d9ff8986872f6cd7ac",
+    "d8cbcb7c75ba9a9e6a2d552011024d85962e8d5c55bdec0e6b27b19bce78ae80",
+    "67997c11ec5c08c2185d6aedd0e670fd9ffa47eac05691a285e62e21ef37219f",
+    "dc1aef422c1770001aee1f02ad7cc3ef16001654586c8204224f9bfa78e18236",
+    "bacd3b434dbab3e21fc4ba9521902b4471ff34613f1727e2a158219702f388b0",
+    "e31250db6d156c3746e92952739a51774647fb99861ca7a5c2885d2a27e2456f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "PLAYSTATION: SOME SERVICES ARE EXPERIENCING ISSUES",
-      "title_ko": "PlayStation: 일부 서비스에 문제가 발생함",
-      "url": "https://t.me/marketfeed/1080921",
-      "ts": 1795029026
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "美国10年期国债收益率持稳，目前跌5个基点，在美联储发布会议纪要之际暂报5.0562%。\n\n两年期美债收益率跌幅略微收窄，一度逼近4.8%，目前跌1.68个基点、暂报4.7872%。",
-      "title_ko": "미국 10년 만기 국채 수익률은 현재 5bp 하락한 안정적인 상태를 유지했으며, 연준이 회의록을 공개한 시점에는 일시적으로 5.0562%를 기록했습니다. 2년 만기 미국 국채 수익률은 소폭 하락해 한때 4.8%에 근접했습니다. 현재 1.68bp 하락한 상태이며 일시적으로 4.7872%에 거래되고 있어",
-      "url": "https://wallstreetcn.com/livenews/3202129",
-      "ts": 1795029090
-    },
-    {
-      "source": "The Verge",
-      "title_en": "The leaked Lenovo Legion Go Beam could be the affordable handheld we need",
-      "title_ko": "유출된 Lenovo Legion Go Beam은 우리에게 필요한 저렴한 휴대용 기기가 될 수 있어",
-      "url": "https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need",
-      "ts": 1795029237
-    },
-    {
-      "source": "The Verge",
-      "title_en": "One potential Nvidia CEO candidate? Arm’s CEO.",
-      "title_ko": "잠재적인 Nvidia CEO 후보 중 한 명은요? 암의 CEO",
-      "url": "https://www.theverge.com/tech/1036962/one-potential-nvidia-ceo-candidate-arms-ceo",
-      "ts": 1795029241
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
-      "title_ko": "연준 정책 입안자들은 10월 인플레이션 위험에 초점을 맞추었으며 일부에서는 더 큰 금리 인상이 필요하다고 생각",
-      "url": "https://www.reuters.com/business/fed-policymakers-focused-inflation-risks-october-with-some-seeing-need-bigger-2026-11-18/",
-      "ts": 1795029323
-    },
     {
       "source": "FirstSquawk",
       "title_en": "NASDAQ 100 TRIMS GAINS TO 0.2% WHILE S&P 500 SLIPS 0.2%",
@@ -11504,6 +11469,41 @@
       "title_ko": "트럼프 \"AI, 대체로 긍정적이나 일부 우려 요소 존재\"",
       "url": "https://t.me/firstsquaw/194077",
       "ts": 1795055821
+    },
+    {
+      "source": "K-우주항공",
+      "title_en": "한화시스템, 미국에 첫 ‘단거리 AESA 레이다’ 수출 쾌거 - https://www.koreasprint.com/",
+      "title_ko": "한화시스템, 미국에 첫 ‘단거리 AESA 레이다’ 수출 쾌거 - https://www.koreasprint.com/",
+      "url": "https://www.koreasprint.com/news/articleView.html?idxno=23224",
+      "ts": 1795055845
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "US President Trump: Says He Is Looking Forward to Meeting the Chinese and Russian Presidents.",
+      "title_ko": "트럼프 미 대통령 \"중국·러시아 정상과 회담 기대\"",
+      "url": "https://t.me/firstsquaw/194079",
+      "ts": 1795055849
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Beam Global targets positive cash flow around $11.5M quarterly revenue while expanding BeamHeat push",
+      "title_ko": "빔 글로벌, 분기 매출 1,150만 달러 달성 및 빔히트 사업 확대로 흑자 전환 목표",
+      "url": "https://seekingalpha.com/news/4674495-beam-global-targets-positive-cash-flow-around-11_5m-quarterly-revenue-while-expanding?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795055910
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "삼성전자, 에이전틱 AI 시대 '소캠2' 주목...\"고용량·저전력 승부\"",
+      "title_ko": "삼성전자, 에이전틱 AI 시대 '소캠2' 주목...\"고용량·저전력 승부\"",
+      "url": "https://www.fnnews.com/news/202611191124035866",
+      "ts": 1795055912
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Saudi Aramco Opens Fuel Oil Sales Tender Covering End-November and December Loading, According to RTRS.",
+      "title_ko": "사우디 아람코, 11월 말-12월 선적분 연료유 판매 입찰 개시",
+      "url": "https://t.me/firstsquaw/194080",
+      "ts": 1795055915
     }
   ]
 }
