@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795061791,
+  "updated_at": 1795061953,
   "id_hashes": [
-    "20b934dc767c6edd7ab0e1cf8d15c86bc2e8d32322c54aea8b8d26f1ede0f5f7",
-    "a86792155399c46f0317cfc59706931af4c5603608be04e36815d72e923b5bb7",
-    "fae3d4a9c9038bd31804dbf04f218af91866db5fbfa4ccbe52bd4db8cf896ae4",
-    "54952056429f47c2f5d7ce2d9b9506eb81aef7152ef6181e8e6014e2a0f9250f",
-    "c2f4bbd7e0a9369f0e158b01366dc4742fcbc7fa59e643bcaee9a16da20a7a4b",
-    "8731678aa865b20928d5f87f78445341ba181494f0acef7bf2a071038ba454f0",
-    "0232b47b6513d848021b681d55c011cec1cffa72e1d1b3d5e36b27f25c75107b",
-    "63ae91fade3bd8f3f36a5db2ded9aaa3bc64385d37e11b46e77037680dc50fff",
-    "20f63a846e2b2d5dd1dcfba7ffe4b80ea0bd6d647af0ff73a9396618156ff95b",
-    "39033d72bf4c5a391adebd336497406664bf04c52a19ef07bab49ecb8e423254",
-    "c435998525c4d07b6b3415241ca5cce8461aba29c5ba08735d805c46bd7104ce",
-    "f1cfeaa7b71c31d394baf32be5c1065d4437d162fb5e90d523c22ed13cde9d6f",
-    "92235eb6cfa85e0d634a395e9d7566e6fb96acdd4f875bb951eaf50390638f1b",
-    "87dcd637afff4818ebde790c2423b5de6872e39a72fbd51170bd8c484b6246d9",
     "b4046284bab36e6736e6af756635dc63b29033e54b32dd2716fc3f9b9a71261b",
     "5ba7814185bca4e6cbdcd871ea5ceeebd5b9f74263136439eb897e95129c46de",
     "b77ec926899aa991a53fae22002f5e3b50136fb44dfd76fe39db1d16c9584094",
@@ -4000,22 +3986,23 @@
     "683666d1a0a055b72eba937853e4edde017c318869fb4c7e2ede03d32c60f2b9",
     "a556ac11fc013c5380a72a276e94faee34a0c808c3dcfc2a7dbe164e10599b34",
     "d6a06733b7457c24028b91fec753cfbda30529f1110e23b7914b942dfb048c52",
-    "033830c801e50900986d0b132df367205638fc43319716c8746816c598668ee5"
+    "033830c801e50900986d0b132df367205638fc43319716c8746816c598668ee5",
+    "e50bcad6b8f87509ae33afc01edc96acc367f8d0ff1dd54fd7353d1c073313f9",
+    "8dc0c4cabff97ec541ecda14d61845256444f858964f29c93d11018d288d23a8",
+    "72ae2278e6c864221aa83c99560c863c8aaeb8b1844695df88889cfb2b1898b4",
+    "b3ae0de02aa54ab36ecd3d16561e08f4bde01abf04f465ab2c8e8e3c74e6c94b",
+    "83e259624e0341f96b778624b1bf144ca7a86db29110bdc7831c6ddeddbd1058",
+    "a2cb645a834456ca6982e47a67d7f6c9e44e46c2616fe9daf5816dfa748ef97c",
+    "6099cda666313b8c4334e94a7bf9183966c6b291ad7075b8d1c247b2f1fd55cc",
+    "45583c18437879c86270531e3dbf8b5425a21b8d1c9619178be77b903e7d9361",
+    "d63ea0873f10bdfd967847e45673b5fcdd27fd684dc67c5b5efe753e14180797",
+    "a136659a9263174dee2dc55dec7a1eebc963d6154246349585f400f15fe14f64",
+    "30c4ec94b72e075275a7eed4c858b2414e544eb26c44da6026eb3253200301dc",
+    "5bcd24f4c35bbfb9e3e738be76ca25ffbcf028f3e608394341981767287e13a3",
+    "c524dad07eb641b4f5c9b942a29620a9f61281b38ec69218cce82a061ca16eb4",
+    "b371a1b29a00faf6c510e6725d28f250524ba9dde80ffe5b66220212928b9af7"
   ],
   "title_hashes": [
-    "ed33dee1b8fff813db36b8827dfeafec68477207533d0240d0a8690252ad53a4",
-    "95d818799f89cba972c408b08fbda037891a0575f75c6fb22faf7e35414ac1ea",
-    "8172deaed38fb2d5e8414d267cbfbd9139a799bc597c8b48985d6dfbd69bd9d7",
-    "6ae4d46846c726e783e81b6318503c0221c5f21fbfc09a816da47a319e28cb5b",
-    "f57f4b480031a9e9ac07f0fb040ab5a057cbf8e122275502dcbcb04a29b499c1",
-    "2ca01b41b34b4158253a5bd075e7092995ea596b786c23f9b08c035524030ea6",
-    "9d9e6b493915fa755ef5cb75190b4c32431d79e99153774e3b9e080430c5fa2c",
-    "04aa795f5ef794760080832b4d2dff4c37fef1da6aa5c0101e0af2654646fcb7",
-    "9b71aa4e5a0d0b427de8de1a7c5eb9b49e1771fac614d3b77697f513d5b6fffa",
-    "354b0449aa52911cf1d104e1535f95776269d1e8fa88367e768fbfb8e8769215",
-    "2ae695bb72a768d7f6b460277e46698a29eae529df6aa3fbb51590da7e1391b3",
-    "96b3bc54066fcc31cb2d6a41dc4405d3b14cc367f84ae50f76fe82510448c84e",
-    "27c65fa1562bc87fd5e81f648c33701f23d97b285fa52eb66c27252a200a333f",
     "4e8083833f0bb9461ca25f63d8e34bcc01e89d9efceceba2dca6f4ded55cd264",
     "2156631aabe5236e7b158f2372f3c36a767111ab188cdeb407a204fdcce6a992",
     "4c6cb6f5b52a56e3ce69135deb6b6182bd2ef490d7ace53e2822a64a3219eeb5",
@@ -8002,30 +7989,22 @@
     "8790c20438cc44ca271e74b55f0da7456ab64d40e407b74c1d4a48c987f18d25",
     "c2a3e1e5d1bb2899cdd761b2d8eb6d4c083d39cc265b02a800ebe6ddf587d66f",
     "01005afe5246d8717d288264a13b9c17d799c7222a846455c520d6cb7a287680",
-    "0edfdc5319125e1fb5a67bfe0f25a7c9e143374ae185873dfd7b77867aa3e8be"
+    "0edfdc5319125e1fb5a67bfe0f25a7c9e143374ae185873dfd7b77867aa3e8be",
+    "1accbfd6ff675b3b3753fda5b7d8ef6c3e666c21b4f6eb3505545516274478b2",
+    "588699ae5e80c2765d5c2508738c5af07ad9bcd64ff3319e68c1b6db6aafb35f",
+    "7a97f60da1e8d936a6d9b35af54764bf04cd5c6f75ee84ea0c233f9781f80140",
+    "10d1250e8ad5f6250c58bc0bad3eea5b89adf690d8a23409bfa207a91be45853",
+    "0330daf7866584f590cf71d58dd780bc94330c8518937d713e339d055161aa8d",
+    "17a880297a5b03c77f0478aa8da81b124a24622128a6def315d23a1d14ba8362",
+    "9e59a379fc5831b73997ca363b746e9ef7996eaa1115e191de981b2ad91a2eb1",
+    "40125bdb451b3fb892583ac04a5def635582b9a702bd45f2f27a165d1c11d5ba",
+    "c08372ed5bb79766ecf299aec4b7708be40aad3b558e03507b138f5f74dc1463",
+    "55faaa52cf2b4686a9580591fecc513488ad12cfd53c30480210aaa68ba5ed46",
+    "3855df2688cbbd16d40e748ba7a2c1151cd081a658f2b5851027c70b36eb46e3",
+    "d324b0f76abb29871d1e16533815211ccdd4403ea1888431907ba7051d03c585",
+    "a5b4ab5256f85fd47a87e62a926920a378c8372b94af9c958be4a9c031fccdf3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Innoviz launches 1-for-20 reverse stock split to regain Nasdaq compliance",
-      "title_ko": "Innoviz는 Nasdaq 규정 준수를 회복하기 위해 20대 1 주식 분할을 시작합니다",
-      "url": "https://seekingalpha.com/news/4674432-innoviz-launches-1-for-20-reverse-stock-split-to-regain-nasdaq-compliance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795038702
-    },
-    {
-      "source": "CNBC",
-      "title_en": "Nvidia's shift in financing tone may spell trouble for Coreweave, other neoclouds",
-      "title_ko": "Nvidia의 자금조달 방식 변화는 Coreweave와 다른 네오클라우드에 문제를 일으킬 수 있어",
-      "url": "https://www.cnbc.com/2026/11/18/nvidia-neocloud-financing.html",
-      "ts": 1795038734
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Modexus Stock Rises on Stock Buyback, Report of Activist Push",
-      "title_ko": "Modexus 주식은 주식 환매로 상승하고 활동가의 추진 보고서",
-      "url": "https://www.barrons.com/articles/modexus-solutions-stock-ai-data-centers-70d13dd8",
-      "ts": 1795038737
-    },
     {
       "source": "CNBC",
       "title_en": "CEO turned informant: How the FDA built a case against executives promising cheap medications",
@@ -11504,6 +11483,27 @@
       "title_ko": "정부, 드론 배터리 표준 제정 추진…\"기업 美 진출 지원\"",
       "url": "https://zdnet.co.kr/view/?no=20261119125628",
       "ts": 1795061790
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "美·中 정상회담 앞둔 트럼프 “시 주석과 저녁 내내 대화”… 엔비디아 논란 축소",
+      "title_ko": "美·中 정상회담 앞둔 트럼프 “시 주석과 저녁 내내 대화”… 엔비디아 논란 축소",
+      "url": "https://biz.chosun.com/international/international_general/2026/11/19/A4BLMEV3EJE57MWMLQWKB4XK64/",
+      "ts": 1795061820
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "【OpenAI进军手机领域 富士康旗下富智康集团获组装订单】从供应链获悉，富士康旗下富智康集团已获得OpenAI手机项目订单，将参与相关产品的整机组装。富士康同时是苹果iPhone的主要组装商。若OpenAI手机最终面市...",
+      "title_ko": "오픈AI, 스마트폰 시장 진출…폭스콘 자회사 FIH, 조립 주문 수주",
+      "url": "https://wallstreetcn.com/livenews/3202337",
+      "ts": 1795061887
+    },
+    {
+      "source": "디일렉",
+      "title_en": "애플, 아이맥 OLED 탑재 백지화 검토",
+      "title_ko": "애플, 아이맥 OLED 탑재 백지화 검토",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65641",
+      "ts": 1795061952
     }
   ]
 }
