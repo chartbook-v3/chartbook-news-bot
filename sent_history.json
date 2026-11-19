@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795105072,
+  "updated_at": 1795105252,
   "id_hashes": [
-    "8e3f46b02bc21cdb944b47711720e852ef0233489afff9ecac859d2d2f6cf270",
-    "2d0a7c550b79061481ffda5f7470d1c92d5f759101e1c8fa477de73565b6d341",
-    "448aa870915d41d65574c9b87bf5100962b2cf12d3952455f157a7e377a79a13",
     "3f13fd5df488293f8c738db4378a6bf2b907bf93ef366475425322d8dde1a38b",
     "c5e848a6b448779b37b9782c5e38c1d9eb01abf16cb8bdea862ccfe241a9cd2a",
     "1e7e611f3061fbbc192f19028f87cd3fbd80927b5dd71e6705bc777a94da5457",
@@ -4000,14 +3997,12 @@
     "431761dceb8531a52be5f5db65128a5d80c13342d62f00a9759c682c22519029",
     "481c3beac3c2194f0445986f5e21e7ec64f1392682af7a7b6afa89c32d783068",
     "54b0432af86852063f51240e0435a87828f5f96b7b15a6c9b4d8cd609a45fea1",
-    "7e4fede56fa37445c5deecbedd1578c7568e9bbe8a644c247c38ab801b86e63a"
+    "7e4fede56fa37445c5deecbedd1578c7568e9bbe8a644c247c38ab801b86e63a",
+    "508068d9ef4564c3caa2adea3e5ea56430217cc82044fb1e811d35e17213618c",
+    "b53688c86a52c684f4289d045c2a0cad364abee3816ace958ede8722b1ebb490",
+    "96ae17a09f25bdcd472976946c831c7635b22f81546a1029e2615bcd7828f8f0"
   ],
   "title_hashes": [
-    "77aabc204161f9e9e58c7c9dbe21ae5ec2342aeeb386737654edc0277e90ca44",
-    "4abebfe600db67b6f07b86109f183a5b5ffaa3ce98d1bc7f0762028c80444a61",
-    "f0c46a3585f0b74657888ddf1979ae631aebb51c6f466806a763c24b84844315",
-    "0403fced958ea949d5c9b7a9c1f960a2a71c75e2cc2f433704123608379c749c",
-    "a570c0fb52588628561f1d377f3e569b66c7d87ab7b7f00757aa2ce50fd63075",
     "c3678433060f16b959066445091e0376cb76d7269922f4fad9dc29651e653a21",
     "0763eeac598c9f697e8d0c9a11f2897fbd43e4835ad2e179c231b316b8815681",
     "2e2c16a8d1c4505ada0d03f3a39737a6ba31a1a1213f21164eee4cbf0e373fe7",
@@ -8002,23 +7997,14 @@
     "f2473482df406e38baf111cb93dd30c18adc3b4b8e05fa674ddae29aad7edb37",
     "f9a858f8e249d4adbad836d7fb349fa996988ff8cf2dff87ce03797c3717bbdb",
     "27a130caf2a7183ad0c86804eb2120405b1bbbb8c723c6a736a9865aab0ec9c6",
-    "2a6a70e2a214e95a4b4166792714357a85efca8d1b505bf77341de70cf4b8ed1"
+    "2a6a70e2a214e95a4b4166792714357a85efca8d1b505bf77341de70cf4b8ed1",
+    "11a1f6b4c8bfb2b26989faab8215e8cd025d501d8801a090c00805006171616d",
+    "d21b99d96ccce953265133ee0d4be0ef99b8ee3853890151461d51ef2ec11a52",
+    "cb65a8dcf8fc12ce07a1a04096e7c6e6913729b54ec559978e3a8df6cba23878",
+    "1b510eb3f5b0b9240ab1609fb183cb93f40b6cf7e92601cfeeb9ed5e818da708",
+    "37b0bb4675261e666d77b613483c620767043c4d4c90f9a0ba7e338dde6e7a2d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "EUROZONE ECB CURRENT ACCOUNT SA (EUR) SEP: 12.5B (PREV 8.7B; PREV R 11.6B)",
-      "title_ko": "유로존 9월 경상수지 125억 유로... 전월치(116억 유로) 상회",
-      "url": "https://t.me/marketfeed/1081503",
-      "ts": 1795078946
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "LG유플러스, 파주 AI 데이터센터에 7890억원 추가 투자",
-      "title_ko": "LG유플러스, 파주 AI 데이터센터에 7890억원 추가 투자",
-      "url": "https://biz.chosun.com/it-science/ict/2026/11/19/C5VOBIJ33RF6JFWNM7YWLHBBMQ/",
-      "ts": 1795079008
-    },
     {
       "source": "MarketFeed",
       "title_en": "LME ZINC INVENTORY FALLS 575 TONS TO 146,200 TONS",
@@ -11504,6 +11490,20 @@
       "title_ko": "SEAPORT RESEARCH PARTNERS, S&P 500 지수의 2026년 연말 목표를 8200에서 7700으로 하향",
       "url": "https://t.me/WalterBloomberg/38704",
       "ts": 1795105071
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "DOJ Got a Trump Banner. We Saw the Bill.",
+      "title_ko": "DOJ는 트럼프 배너를 받았습니다. 우리는 법안을 보았습니다",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/disclosure-doj-got-a-trump-banner-we-saw-the-bill-video",
+      "ts": 1795105193
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
+      "title_ko": "Amazon은 뉴욕시에서 Mamdani 지원 배송 청구서에 대한 인앱 푸시를 시작합니다",
+      "url": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
+      "ts": 1795105251
     }
   ]
 }
