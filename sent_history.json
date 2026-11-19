@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795114574,
+  "updated_at": 1795114722,
   "id_hashes": [
-    "c90113f17ed7da23e851b5ad734b490fdd73fe064774d59e1bdb920cad5fd617",
-    "70a92f64839994028a6b1e8c71789827a919e96b930c3e44d7452d5359e72340",
-    "e7eee009df8d3e74ab4ddee693cfc1307c8170c9969582ca7463b0cf6a19c89e",
     "f78688d23425cdba0ed2c1371d298af54f2739f262e63973385dc5f7043835ed",
     "82a34a63701ba63da8d78d50e97babd1d5a78a301eb346998e94e66e51cd6271",
     "e03acd44bcc06d614489a920f2f43a859692bc51a31f8995514fe4e7d8ac7dab",
@@ -4000,12 +3997,12 @@
     "658e502d0f514d7475764053f64ed18114bacf735ac0a9faae59256eff6ee490",
     "30e75d4bc1211fa3e3d419aa7fbb1d95a00e64003f5f342cc62d554b3db3a8c1",
     "c13ee6e97c946bb289d58aa5e6408f800ae94a81f42969a06439e5f77edd3e4d",
-    "4423325a76abddf3867047dbd020a9586a40f8dd79717574ef11a177bdd9ecb2"
+    "4423325a76abddf3867047dbd020a9586a40f8dd79717574ef11a177bdd9ecb2",
+    "4ed3ed99e0edbd29053d87325d7471c4c9b4962a655b560f2fff2237c350083a",
+    "47b410379bc7d210027611fe8ca026ed4404058b76f8f48ab13f90ed55f95304",
+    "dae6885a837a98aa4f51fbc9aa9374427c3722ad1fb37365099714ada737a25d"
   ],
   "title_hashes": [
-    "ef479b6f90b4e2c56f3a673103fd93c660e1c1bd499852f766621a959bcbe817",
-    "2fd4d76f4a31548fb9b16b2f8437daaa470b2e748d62bf088e76ab49ae27989f",
-    "f8a8f51b11a32052175babca573895e54c75f8e993d803f1739fbe219ab75676",
     "b4f445e9c1a3c626733ddd06725c3b9dd322b280d9b257079d747d94d82cd0d6",
     "2823c28d52512f1da65981bc53fb82bb83b9267d2eafe87d84d0265e541ae324",
     "2314d0c6dd412fa333ff8f8386886da059f2cdfedaeb08e5444fd23779859a08",
@@ -8002,16 +7999,12 @@
     "9e7f82957e9ed7341dea3a82ca9a4115cefe09a906c5433ed1715f9092508bc1",
     "7e950561fcac3a56b163ab2f17937c0b05721ddda5fb688c2ad62a1dff1ab853",
     "22bf0901da9c0be5faef872f900846fcd6b98b0d198670827238b2919895b4a0",
-    "a8d0d4e15e3dd8e4cd3b2d834e5218849c7cad75c5675c4df37d8ff7deffc03c"
+    "a8d0d4e15e3dd8e4cd3b2d834e5218849c7cad75c5675c4df37d8ff7deffc03c",
+    "f48d5f76e6c3d1f623559a4be68eefa14790a9fff750c12ba47cb97e75d2c9f9",
+    "266c22f07dba4196a377b8a2954464b537087463ea9a6ea59308ab225478995d",
+    "022e578a8e1feeb2a5f21a5c0167738100a1be863bdb152c146fd91e88451fba"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "JPMORGAN SEES THREE MORE FED RATE HIKES AS U.S. GROWTH AND AI SPENDING MODERATE IN 2027",
-      "title_ko": "JP모건 \"미국 성장세·AI 투자 둔화에도 연준 2027년까지 3회 추가 금리 인상 전망\"",
-      "url": "https://t.me/WalterBloomberg/38663",
-      "ts": 1795088260
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Loblaw Companies Non-GAAP EPS of C$0.74, revenue of C$19.86B",
@@ -11504,6 +11497,13 @@
       "title_ko": "휴스턴 정유공장 재가동으로 미국 연료 생산량 증대를 위한 트럼프의 노력 테스트",
       "url": "https://www.reuters.com/business/energy/houston-refinery-restart-tests-trumps-push-boost-us-fuel-output-2026-11-19/",
       "ts": 1795114573
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Anthropic Makes History on Wall Street",
+      "title_ko": "Anthropic은 월스트리트에서 역사를 만듭니다",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-19/open-interest-11-19-2026-video",
+      "ts": 1795114660
     }
   ]
 }
