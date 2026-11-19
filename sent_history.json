@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795086935,
+  "updated_at": 1795087091,
   "id_hashes": [
-    "4dde8f64ab32de588aa50b99aa1a4dc3df6e28b1a76e66de2f7bc420b1af6001",
-    "3c2e5cb1334fe0b456adb0825c08efdabef3e2c1535267cb953edcbc4d4480e8",
-    "eef32d4ef7575054a9df78a230e3ca2d22eb6f5dba5aaa30ba762b513710b79b",
-    "35d9789fa4312b218b8347dd58442efee4fedee5d78e36f2469bfe63daf97d93",
-    "3a1e267368d8181f7c0b01ae70f246845c0c737fb67362f37e5c589dd72978be",
-    "b0a68355a0797ac5d12b75b759d5b093ec00897d1744ed8c16a769f3f3403885",
-    "b36dc546b0840e8ef573108285c7184124e7230edb4f40f425d9e19469b5b432",
     "18babcdc91dd952eaa6dbce39ab93b9f700aed5a65163016b083b39cc4beb39f",
     "dee88b29b263e6c0c387d0d723eff6788a53a2cf0ec50e2ec5ffbdb2a63950f3",
     "86354b5ce4876fee2f51d393d141ff90fb946ba58caeb2678541586f2d37ebb9",
@@ -4000,15 +3993,16 @@
     "dfd6498f2be99388534ad75fc7517ce11bdff29a2e4ca455597b0cf39e2490e4",
     "d683fc2e2b6fe26a871db5326a96f5b9860a8c3eadbe80608030af1f5ebb68dc",
     "09ab89c2aedb28e7e450710d6c5a562ed43ca8c82d6e58e06e7ed69ad244f3d4",
-    "a310a41e4fa4b7ee6234c9d6aa376868a57728e27eed80e317b978432047f725"
+    "a310a41e4fa4b7ee6234c9d6aa376868a57728e27eed80e317b978432047f725",
+    "3a921e9176a3bc937807e01a9f6300e1123c2b342c7bb5bf7e897c885f7141e4",
+    "2846fd7d7714e1d7b88d7ef719423a14864f9979b4bcdcc0f11917c914defbe5",
+    "32d1028488a532ce8e62a6f4abcaecc9322589f556cc2617957ede420982057d",
+    "1b931c9d633cfbef9b5be36c193368343cb7dbf3e00acd7ed4968fe60eb4ced5",
+    "637b4c04204401460d49dfa4265afd1e093e0a3a02628d164583d34370225e47",
+    "701213d26c9259f188dcf214a3f9f28989bef19763c86108f1b5e06432e84e23",
+    "10019fd7dbdccc47a5137984ba0ba718193da3833f3ff91443cd20198fd00960"
   ],
   "title_hashes": [
-    "8393203bcf7030fb88fbba1247fc5a19e868bbcd5786cbf6da875ac6421706aa",
-    "0255fb320b91c7398120d2dc6b5a7f3cb0beedfac942e10b8e34507271bc6ddb",
-    "18ab0aa1625cb724fb07b5a8fe7908008b044baa3e8ba5904e9c0f27367436a3",
-    "bfd0e111cabf3f1889b4b88fcd7766807a71d5094f306f9d596d225272b5bd97",
-    "3ccb74f2cb52977afe0b9a959d3bc1eb1737f41419cefcdc1d4f70a0ca7c2372",
-    "6646cfc546e29efc755e60e93e4aca10dea774abe9bbeaa88f8bf7175fb9f21b",
     "855b65f470ee59bafbe7f2079f1f8fae5fd3b9c30cbae6e31b6c26be3dc0b851",
     "06ad2bdf8ff87377013b94d9015ccc026eefb987e2cb936f4b1ecb06edd66206",
     "59158c291be363dba87b08d875464cee9e7802276ed3490a872f9cd1d79fc8a8",
@@ -8002,37 +7996,15 @@
     "b198d21c46adf6a2174a53b0c044b2bdd4e0c1eecf77ae5fb13113f5f690ce88",
     "a767ce306d2bfa56c3557ae45ceba91b3450335c0384aa24e3b04d35425e7014",
     "5c13878bf6a7aa216977f3bb6132ff6cd563b8069a6914f566f4430dd2e97822",
-    "c8c3d81c772302f14ef5d725b59740214df6ba096d2fdccab9f772606c613fc7"
+    "c8c3d81c772302f14ef5d725b59740214df6ba096d2fdccab9f772606c613fc7",
+    "74ec1f47b032106d2097045b9b9b8186b417ffae84791faa035a1aeca51eac8a",
+    "1abcc9fcafbf78b2f41cffbc22dbd6d853393559e898a95a738d89100efee115",
+    "51bf8f6e3f416c377d99c21fe4e3ac121a7719d0db22a846d2a96860a4c054c5",
+    "8e5f5faba9e9d8e8e4547dd3ad397d5ec157fdb87e3d2604ecc078ded7efe529",
+    "fd07ee62401c3980c2724b49ec78d671f0fcc927cb14457384044d4e44061b89",
+    "8050da4433c70bc62803b90e2649904c87c0cf0e422e05053c2ea1745447f680"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Barron's",
-      "title_en": "Tyson Foods Stock Surges After Earnings. Beef, Though, Remains a Problem.",
-      "title_ko": "타이슨 푸드, 실적 호조에 급등…소고기 부문 부진은 여전",
-      "url": "https://www.barrons.com/articles/tyson-foods-earnings-stock-beef-prices-80d42988",
-      "ts": 1795057868
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Nvidia Fallout Hits Alibaba and Other China Stocks as Tighter Regulation Looks Likely",
-      "title_ko": "엔비디아 여파에 알리바바 등 중국 기술주 동반 하락…규제 강화 우려 확산",
-      "url": "https://www.barrons.com/articles/nvidia-alibaba-tencent-china-stocks-462175ef",
-      "ts": 1795057871
-    },
-    {
-      "source": "알파경제",
-      "title_en": "한국항공우주, 양산 본격화로 내년 매출 6조 가시화",
-      "title_ko": "한국항공우주, 양산 본격화로 내년 매출 6조 가시화",
-      "url": "https://www.alphabiz.co.kr/news/articleView.html?idxno=199015",
-      "ts": 1795057895
-    },
-    {
-      "source": "Barron's",
-      "title_en": "The Demise of Data Center Stocks Has Been Greatly Exaggerated. These Earnings Show Why.",
-      "title_ko": "데이터센터 관련주 하락세는 과도, 실적으로 증명된 성장성",
-      "url": "https://www.barrons.com/articles/data-center-stocks-exaggerated-demise-csquare-earnings-dadaceb8",
-      "ts": 1795058025
-    },
     {
       "source": "Barron's",
       "title_en": "North Korea's Kim Visits University As Speculation Mounts Over Trump Talks",
@@ -11504,6 +11476,34 @@
       "title_ko": "탱커트래커스 \"이란, 원유 수출 재개 움직임 포착\"",
       "url": "https://t.me/firstsquaw/194231",
       "ts": 1795086934
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Anthropic IPO Has Stock Bulls Dreaming of a Year-End Rally",
+      "title_ko": "앤스로픽 IPO 기대감에 연말 증시 랠리 전망 확산",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-19/anthropic-ipo-has-stock-bulls-dreaming-of-a-year-end-rally",
+      "ts": 1795086963
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "[ Z ]: ANTHROPIC PRE-IPO PERPS NOW TRADING 26% ABOVE IPO PRICE OF $83 AS TRADING SET TO BEGIN TODAY: MARKET",
+      "title_ko": "앤스로픽 프리IPO 퍼페추얼 선물, 상장 앞두고 공모가 대비 26% 급등 거래 중",
+      "url": "https://t.me/marketfeed/1081571",
+      "ts": 1795086965
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Japan’s Takaichi Walks Tightrope With Russia, China on Asia Trip",
+      "title_ko": "다카이치 사나에, 아시아 순방서 러시아·중국 관계 '줄타기 외교' 행보",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/japan-s-takaichi-walks-tightrope-with-russia-china-on-asia-trip",
+      "ts": 1795087028
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "NVIDIA’s Board Must Decide Its Leadership Path: Satya Nadella Tells Jim Cramer",
+      "title_ko": "사티아 나델라 \"엔비디아, 차기 리더십 방향 결정해야\"",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63420466/nvidias-board-must-decide-its-leadership-path-satya-nadella-tells-jim-cramer",
+      "ts": 1795087031
     }
   ]
 }
