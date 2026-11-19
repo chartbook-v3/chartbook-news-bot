@@ -1,28 +1,6 @@
 {
-  "updated_at": 1795115680,
+  "updated_at": 1795115838,
   "id_hashes": [
-    "8f7f5bbd5d5038bb50941d0b9315d1e3a4f7c8e1a1a04c9b99694e74b26b5873",
-    "b5f7e72d3eba83ae33209258e702d314b71a940d4e3ba65ce1b76f9d028858e8",
-    "a6e37bb4051fcb81cde99a6f235120af101dbe00b56bdf12c49be473c3737abb",
-    "9910435f94b22789547d4071840c51ce20dd894458e93918a551048471cc4f1a",
-    "742208f4438fee911f46ff4137065813f9498f86c4a980645bee6e23331a2d22",
-    "c8a727454c0b2a883bf76af2263accdd328c1d71c26a6c31ab644c0c6b9c106d",
-    "2f461383b9d26ab51b14bcc15a9df99aa4eb2476dd67a72e8e44d0eb22c41da4",
-    "d4d56bc0778b83d2e24551ccdd57a632d20622ee2432054ffee0e7fe60a789f7",
-    "1bf31d4ed19ed56e282e89697a53c82cf88c27875512022fd47cd39048582f96",
-    "26c61a552ff43f7f1e71d9b2d9aa931209d98d2622198996b24614119aa8e073",
-    "209a2e747b232e49a3a5642bc5348be9e838f030a7cf74cd87be86d741c30ebf",
-    "17b9960e39a09a0e9bd82abf17b7da9049e92b75e14a22bf7558201c31e68b18",
-    "c68b86117b4aa2011534dac81453324904dd4984e109c0ca8b75dbcbb9385af6",
-    "bc50fa503dfa707cfba8b7cb393c8281b6ba5467e19fbac8cccd5d6cc18c561e",
-    "5815b354c1506fa200b7d99bf09ea0d82c48236b4e81658fa6d1c9d782619ce5",
-    "86c99c8bebd786a746f23974a220a8e681a10bfe0bb5529f5acc88ef68d6fb98",
-    "5a448a98f57a7f85074d9b6ae9465f425ee1d826137b2bbeb6915c14776c77b6",
-    "611a6abe095e23565680e83c57b6e09b2f9ec3be3756aed1657163a75dbbcc90",
-    "5209563f7e0de48b2041f0700e45382db7538e2ef75085e797608fc8b89f6b0f",
-    "154884229643b36ca7c730519866d57141f7faf2318dde3e4e7ac4aabdfbf332",
-    "a700c0f258b6d47a9db5d400aa732ce4bab612b5fb21df2850533de1dd158a93",
-    "b46638af9bef9dfce3cbb10a80c7aa0fec14893d7fa654e83c5e488c27f7ea7d",
     "13b1fba94316ad1e882ca29ab256bf05d5463ade41f65081111db32cc90a07e1",
     "2f56ff5518ac2e65b03eaba3144d054b58f2996222d60456468160971934eca8",
     "7f58d402ef561ff3c8c9942ab19aa9690a35e0ac9c25f139f44d88a11c1e2aaa",
@@ -4000,20 +3978,31 @@
     "8da642e5189f35aa288059648789d1c32e206dfe6d893ad74c726778af155465",
     "a7ce9bf19d295704f3ea8b9433369d2c5fe539cd1baab2fb089848c82579b8b2",
     "72b57e8a85115179b93534a350ae4e47a234c5163535b93c35d5de281c5244ba",
-    "85e79400e4c285a8de80bfc48df78f262dddb1b3c34420b381ece4b6bd62dee3"
+    "85e79400e4c285a8de80bfc48df78f262dddb1b3c34420b381ece4b6bd62dee3",
+    "0467302c68a8bf956e0835d61a3b45a4952597e27bafa1f900b5d24064957d12",
+    "f1332ae9627b6e782c3acd6cf4680e38ad78f62125f6db9af3660f68edee5508",
+    "a90ce5459ad420bcbf7e204235337fc93840440896f14927a06ca8972aefc689",
+    "00a2fe3a1f4a65d1aafaff6326dc23aa84af665816a7c13f8d5b497f8d2e9b26",
+    "9f3f3410803ea7bf5a9b718e470e00bc11a158acc17acb9c41cd2e64cfe52a3a",
+    "3801dbbff564e076a35e820e0e62f01b7e46e40354428f1fecdaf86c47e3d059",
+    "baa4bbfde4ca1c7307a32ceed331fe26e5d769a41ed699d2fb7f9332c6dc982f",
+    "7e707ef2455ad352c0ec015501bf0e1bd604031618f4c7875eb89dc147b3edde",
+    "ccbcef084427ba8a1b053db95aeef92ec84575349cd59c3c0d756b7a22de67d3",
+    "19ce4feb34e5b932d95a321c309c4ae530e01350b36898954506e1e82f1f32e9",
+    "6dfd1eea967a87438d5ce8d8425265ce7f90c6e762230c59337d2d287073157d",
+    "f942382f0a8bbe34bf31fcc4797454745ce2b2f34a74440fd63eb426a1a542ef",
+    "b666610fc248561bef9a950fc3595d80a7b01e49152a2d6ae5c3f07baf7ba31b",
+    "300a79f8e670105d59ccb5589b754ad0c4a705910ca9ba604be1231e40e15679",
+    "4598b868d83ee549d8cfdcfeb4424da319e1c2ccc82d64cbb536afed9947ef29",
+    "c8841104463e950ac8218bf6e85bbfb7ce4af9ce9b3ccb85ecaa84677939c0fe",
+    "8f376ad8372841fcc9c3b58da00ac42947f3a7cc98e461ef865aa35bcc2c37aa",
+    "d508493b995cf6946c13950e62663c72cb148e7871d278b45193304006ae1c84",
+    "16843a3c0541b78b5c7b83da9056ca8971b76644631552564090965d9720683f",
+    "0e93fb9fb10b34e83f772f4c953e1b19e03e228180bc0bd300be9bd0fc0e133d",
+    "e0f1a1734f8b4fd68c582a2ebaae59066f4da36ff2652abca5907af47a39c90f",
+    "9d8f8611e92e47e6fefbc4add3fdd749f4c8374a12d7d6867465c2ad61b6838d"
   ],
   "title_hashes": [
-    "74f765b904111f038e7af3ce7eb81d61f4269733c888ffb168e7772e433ed5d2",
-    "037f4356770a973da7c1871dc705695c6bccd2d6b084d21bcecbbc4fac5a7e96",
-    "dc48c4d37c2aab0324439da0747cdf26d7b551078758bba6aea2b838b64276fc",
-    "7d7fa0cd24628dcc0a4f56386a16a6ef33ee5873e636ce69d8698389cf509dec",
-    "e0f27a66dace8dd2106fbdee1e580450f5c10cf8077f88641174e4ea08123ba4",
-    "b747296ee32899c429ecd7ceab01426c6803e0ae5eab0b28c88102560c18573b",
-    "e04b8cf607ac76b1ea613c72f888f9f344c39e59e230d92acd89486f6330d290",
-    "ff0b9d7744ef5e19f07c9b85d8e5fae24eafd4682c4595637a8dce8bc64f8c00",
-    "240fe144ff24243bc904fbb45e57385ed38fe581c30581117a184c38d5a59f38",
-    "4b9c665a08e1bc3da3ecf3edb6205ac791a8f3a75ad512101803076e14c376c6",
-    "f2312a5be9ef3eecca6cace323d460b190b04f394ca84c787faa20f5c9df08fc",
     "3819dc637ec75452a6bd3933847e1dfb016781a13270ac332234baceffb2c942",
     "0e603fb136d9242371640b46c384145d6933b24741be25ab4ee3ae4a8878d732",
     "94ce266c72cee4834ae40275f3187ccb82e54feb65c956460144747f58de3ec2",
@@ -8002,37 +7991,20 @@
     "7790f2b19b01559c24955be0b72b9861041b821faa48372917f8f77dbdc0b825",
     "4816674ef4a1b694cbfe3c746a128d107c7a33ed82250937c7d635b1a990d7f4",
     "b18ec3397e42acd03aa4e16cae64447a1728b942df0ac5b853178f600a0264ad",
-    "b7ae49aa4a7621065a80e4a0df302cd7abe7ffb442f964f0083aa4abc3e9937d"
+    "b7ae49aa4a7621065a80e4a0df302cd7abe7ffb442f964f0083aa4abc3e9937d",
+    "d1fd11f5f219658e367c3ceec7c7f14cb9128c7d00aaf7f8b0179471f3fcad4c",
+    "407b460f84ebb0fa1a77802a5566bcfe4e42daea9e48d7b2a916df1e693a35b6",
+    "86586239bf675281498415486f8f7d447fc80ccb685dceb32647ed94743b2fcf",
+    "57885847593ae4dbbaeeb3b639767dc8ee5612c16d0b67d976c26cd62c11f60b",
+    "9db76a3a2520fbc1d1b03321b1291b3370118c0076c0d894fd571e58f24ea619",
+    "117a7a0661e198b6af766b078ffe5d3032473f09a885be5799382e65c7b8e07b",
+    "226a6156f8b72d27987daebac7ac08e774ec8b93eb4f33359eee3a9b42795e8e",
+    "0d972dd4ecaa0f6d8e34fb117434328d6db8a7c3c9e88512d48bd62404fc9486",
+    "f061ea148e9a90ed01e286eccf8f4bcc40f8cf102d29ff425a7a4e9b50bf33c5",
+    "77a48d59bbe5991a999b78bac650fcd018e85a584f67f5455db1ef7ec5915f99",
+    "db7a4331cf08c9b56cdf5a651e5781409d7d44b9b2deaf4362677c355b230a11"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "Bath&Body Works第三季度调整后每股收益0.26美元，上年同期0.35美元，预估0.12美元\n\n第三季度调每股收益0.19美元，上年同期0.37美元。\n\n第三季度调销售净额15.8亿美元，预估15.5亿美元。...",
-      "title_ko": "배스앤바디웍스 3분기 조정 EPS 0.26달러, 예상치 0.12달러 상회 및 매출 15.8억 달러 기록",
-      "url": "https://wallstreetcn.com/livenews/3202570",
-      "ts": 1795089411
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Bath & Body Works Reports Third Quarter Results Exceeding Guidance and Raises Full-Year Sales Outlook",
-      "title_ko": "배스앤바디웍스, 3분기 실적 가이던스 상회…연간 매출 전망치 상향",
-      "url": "https://www.streetinsider.com/Globe+Newswire/Bath+%26amp%3B+Body+Works+Reports+Third+Quarter+Results+Exceeding+Guidance+and+Raises+Full-Year+Sales+Outlook/27372716.html",
-      "ts": 1795089433
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "The Amazon Kindle begins its 20th year of upending the bookstore model",
-      "title_ko": "아마존 킨들, 출시 20주년 맞아 도서 시장 판도 변화 주도",
-      "url": "https://seekingalpha.com/news/4674621-the-amazon-kindle-begins-its-20th-year-of-upending-the-bookstore-model?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795089495
-    },
-    {
-      "source": "Barron's",
-      "title_en": "SpaceX Stock Is Up. Anthropic’s IPO Answers a Key Question.",
-      "title_ko": "스페이스X 주가 상승, 앤스로픽 IPO가 핵심 의문 해소",
-      "url": "https://www.barrons.com/articles/spacex-stock-price-anthropic-ipo-0ea1c91b",
-      "ts": 1795089566
-    },
     {
       "source": "MarketFeed",
       "title_en": "🌅 Market News Digest: [Nov 18-19, 2026 EST]",
@@ -11504,6 +11476,34 @@
       "title_ko": "BoE의 Greene: 과한 것보다 과소한 행동이 더 큰 위험",
       "url": "https://www.financialjuice.com/News/9860481/BoEs-Greene-risk-of-underacting-bigger-than-overdoing-it.aspx?xy=rss",
       "ts": 1795115679
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Meta has pushed back the wider release of its smartwatch to 2027 - the Information. $META",
+      "title_ko": "Meta는 스마트워치의 광범위한 출시를 2027년으로 연기했습니다. $메타",
+      "url": "https://www.financialjuice.com/News/9860482/Meta-has-pushed-back-the-wider-release-of-its-smartwatch-to-2027---the-Information-META.aspx?xy=rss",
+      "ts": 1795115767
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Lula Visits Ailing Amazon Defender Raoni As Brazil Recognizes Territory",
+      "title_ko": "브라질이 영토를 인정함에 따라 Lula는 병든 Amazon 수비수 Raoni를 방문합니다",
+      "url": "https://www.barrons.com/news/lula-visits-ailing-amazon-defender-raoni-as-brazil-recognizes-territory-cd40a037",
+      "ts": 1795115832
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: ANTHROPIC $ANT PROJECTED TO CLOSE TODAY BELOW $1.3 TRILLION MARKET CAP.",
+      "title_ko": "방금 진입: ANTHOPIC $ANT가 오늘 1조 3천억 달러 시가총액 아래로 마감될 것으로 예상됩니다",
+      "url": "https://t.me/marketfeed/1081917",
+      "ts": 1795115834
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "BoE’s Greene: Question over how restrictive policy has been.",
+      "title_ko": "BoE의 Greene: 정책이 얼마나 제한적이었는가에 대한 질문입니다",
+      "url": "https://www.financialjuice.com/News/9860485/BoEs-Greene-Question-over-how-restrictive-policy-has-been.aspx?xy=rss",
+      "ts": 1795115836
     }
   ]
 }
