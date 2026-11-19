@@ -1,23 +1,6 @@
 {
-  "updated_at": 1795070480,
+  "updated_at": 1795070645,
   "id_hashes": [
-    "66c5b5f9f6fdb3c626299c456612a15e7c576154f2a8a43eb6048d8eba28329a",
-    "1b4b7ed6f22a95aa0ac65b992939d3a00d4dae968c31b4f6e2f4b02d24468e0c",
-    "1fcba17a349963674689e744010f72138a64ea097c085c05ea29bb93afc743d2",
-    "0609cada0d32d1b8b17188fb8648ac5bd6671c2b61f3ef744a08037038ec7b05",
-    "f4cc0568c37ee490c0b5066df8a70f889df43e23f1e2aef677aeeb163d524961",
-    "85f4b9f90a6747441e7418642495850ee4d622cf9836920662288357371e740f",
-    "df82501f555a02979afc101f259a34f3debd3aeb1f098de7d7884c380aa87c64",
-    "24cf293d513a77206962e4cdc2e4057f49e58bd5f2d4e94ef518412ee1a45254",
-    "33d9ea0d45ec559071c9fb5d6f8f95278414678c41bdfefbae3f184fe9176c56",
-    "1b53ba7104c58cbd49b2d5826fa08e730054c9694bd5d8777c3fcd43ad6534b6",
-    "c54674360f9df98ebb0fcc601eff7f507ac16a5037c3bfa3a2d6640037878270",
-    "0f0e5cceb6b90e3512e73979a0992885f1b02448a42440c91de5b416240dde41",
-    "72283803e5b83ed63155625b2e9f457cdb81ae6b8f24de7c44f57253b826477f",
-    "96dd42324d75ae98e0495d2bc506198e7fd1203f50e1b236121895c286273aff",
-    "ee2d1d7d626c3a46663bc2c69ae47d07b744fee9ff530bae2d373970c6116439",
-    "7856df2456dd56e963dae6cee6277f2871930b907adb7039eaff98b22ca467c5",
-    "d02278faf10b2b67ecc8e6f91905b2fb716880f49bd7c0ed3ad89c2c68848117",
     "329db7a01b59aa013b5c1dc71f63c10a480a4c522cd8ae038475c4062bb0b4f0",
     "fbda6b97bc13fcfaa33328d0df01b01dcfcd769d21f8ded08b832452a063e229",
     "80750cb8a55ab6e6158d48533c7898971c747c8b628a9374fc32c8b7fd7e73a1",
@@ -4000,23 +3983,26 @@
     "f24911343b4447993fbf87bad37df0d90eddb611b1c168d70aecafcf29637df5",
     "1c7fa43a442c0c91402b63a295f7e001ac9ee78485002fbbade936f280b99c21",
     "12b8a735206d4dadfdf45a29b03797b856354fce565bb6b09ba901fc6ee0c39e",
-    "a5640e83d65b25cbc58c7f7a37225abc4e58aeaac45f7e0bb14f4e43bc462e37"
+    "a5640e83d65b25cbc58c7f7a37225abc4e58aeaac45f7e0bb14f4e43bc462e37",
+    "ad4bb70b89b5cbd890c12951f7b1d2cc6d45a16846d90fcc850304212dda3b01",
+    "d65a21cc0a2b500cbd0af76f89bbd7ffce1e4bf07243d646eb703ab792cf8f43",
+    "e65a9160b378e59cc77de8e356bde997cc69474f28e26ab36b43879c0232f646",
+    "e3e6e593582849f2ad89dfa0bb0902a3c2546945be3bdf455a2ae3fd46a2f005",
+    "58792f97602ea6b3989d8c158d919a278e3fa97a00736bfc486ec80e9661b52c",
+    "6fda547b7a201006db00a11962df9c3228f7931a5cf7392ea4b62abf460fe770",
+    "c7fd747d68b6652fc84505a669ed971961255b49ca2b6bfb7fbb7a78e0e3a08f",
+    "9d5156115c66d1c741cf043d82f195c16918ba1e2a5830a03ce4339269767b80",
+    "0d1d0e286171cb6d77455a757c524ee68923953fdff8f73f9c861ae0c41d0b71",
+    "c3f400ccb0afd802a05df13a1cb19044cd12be293c3767f8e428fd2e01824b11",
+    "0e7c93430f81ba308d9685949a2de74278c0aea1ee2133dacfa3f13b95ac2335",
+    "179b7f95c580bf541908f129a40fc2860672d226049149848683e77344c8b8d4",
+    "f102df0c4b58b64219fcd36034ee6e5817ef0e555064195f7ed580e3737315d0",
+    "ee0c8bba4bf86d71745270f75ae0d28b8db251ed128296b2940aed69c05a166a",
+    "b57d55a2553ff91e91d6239f55cc6d256cf5fa46e0ce93872d88341be937e951",
+    "45e0ae3ab09bfc12be5fad36b183b11edbfbc4bbf6dd65cc24072b3078485b89",
+    "4344b44c68fa0b8ce95f24bb9342bd55ace4b118dd70c06c6a810a8ecca2fa1e"
   ],
   "title_hashes": [
-    "337a9afd133cfa50d534487467c155b1b7016a74076de14d4326133ad01b30e7",
-    "a1ddb529ddf0f76ee70ae32afce29427352572171944c7da68b32398dc2baf73",
-    "946d723a3ffac48078cc1b0087b50c910d2543e82e6661c872be1023ba21e0c9",
-    "7c54aeef1567bc62b70a1bd721d9c8c930b4e3004d3b2635ad6a86bd41dacdfe",
-    "51ef7af9adb2a875a58a0bfe1aaf5ab905ae57aa7845e1fbc1d7eac1f769126b",
-    "d692bc67d070c709020030a8cecf044202539093135927f6951f02d5c25cc051",
-    "c5681042ee34f6b5db877d1289a6ebaa534c94e8c2d6270ecf07ab5642178e1a",
-    "35a75ea09a1f97046eadb2764e01d91996892672040d62ff17745752befdeed4",
-    "1fcd82da42f3902d156f35241e5fe67aa2dd4fe8cfc7954dd061703597a8d22e",
-    "b653ea147fb9750a52f560c1bc614e5b596bebad91fbba9fba16d3ea651c30ba",
-    "7f17d07e8920cf6a2e90200399082f90f680660a12b2c937bd0fb7e39d09dc03",
-    "8b4d683cbfa6ad96190a3014d196b6daf2c59e35f2913f0e857bae3d41e64acd",
-    "754ebf89c846dffff2c22aa379b424071bd5652ac2249f7b4f424acdfe9fc52b",
-    "a7f34ab161201c7a7ad15b06b76c3d321b8ca7d5f27ecfe097b3c4e693e33137",
     "91313a8dba67905fac9fd57b20c516951a8afa190faa8e9d5c2717b2d703e97b",
     "ecaca13cb14ce2bcd523b27eba1e836286e15148ab82bef50797e0e944d1e197",
     "f12aba20e0c303d0aff6d1457fc21c779209b731f3f64e8ffcd96c476149a7c0",
@@ -8002,51 +7988,23 @@
     "10f17fe4c1f1fabc04ce5c9b17a6b676b0cdca2ce9ff9ea10d98928969be23c4",
     "75b1a5ebb1883d054d0fa6b6f0cf873a86708435eb4ba6f35ecb9a4d0adfd18b",
     "40982a6a4fef012b364e5edbfb0e9cb744ebcdb7c385145cbdd0756baa8affe5",
-    "53b6606d1ff07b8e6e503ec10f95e0e108abde48b3ce3b1c336fc0ec3d06db06"
+    "53b6606d1ff07b8e6e503ec10f95e0e108abde48b3ce3b1c336fc0ec3d06db06",
+    "69b0ed67587ae16f68750bb93ee7615f45959a7db33b45f94870cdd583631f15",
+    "aeda04622b84392ac111820778ec5b0bf351325c376df7efd1976188db672ad7",
+    "3f23de50f2736d58cc8e2117b3e0ca313c8b324573022d0d1bb577062e4389d9",
+    "2c2abe4a69d0e928fbe2a9255339bf7e28cf7bec08fd76fe53b710edd4cf7067",
+    "c29dc5804d02f93b8b1b1d0c05cf19036dfbed14154f80fbff9ad5c44e73a8aa",
+    "5e8034547c1f2dbc910086be811061750879e3c5eaf058040bd64ebf79cbdede",
+    "60cfd72ed467f5be03f4495d8b233c80327f03f868c693ac88b1a26adf2b201a",
+    "4478eff48696849bfeeda2015e12e550c87520979beabed129ebdba67d92a516",
+    "85aefbd5e9520773edbb4bb8aa57711351fa41e97962a99dbae732cfb07535b9",
+    "13acb2b10fc8a31bea8929a176f2dcd39bcb973e977082a5d5fbad0c75dc0d57",
+    "395100fb2a6cf4dacee554b32bb690b33c25a6f4dc4a384327c96bdd492c006d",
+    "eb0357470515ca3a3e74641db9de5a71967a1d22e645308f677d2b5d50ce346a",
+    "12758c8d4cdbe648707891b6f8baabc8d05c60f461131a038b6e8d24480738d7",
+    "fd73af7ee02d2a74074b433398a004ce5ab5a03c6c14383d4b06e708a55cc106"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "JAPAN CORE MACHINE ORDERS (M/M) SEP: -0.3% (EST 1.5%; PREV 5.2%)",
-      "title_ko": "일본 핵심 기계 주문 (M/M) 9월: -0.3% (EST 1.5%; PREV 5.2%)",
-      "url": "https://t.me/marketfeed/1081095",
-      "ts": 1795045945
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "CoreWeave’s McBee Favors Data Center Spending Over Repaying Debt",
-      "title_ko": "CoreWeave의 McBee는 부채 상환보다 데이터 센터 지출을 선호합니다",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/coreweave-s-mcbee-favors-data-center-spending-over-repaying-debt",
-      "ts": 1795046010
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "신영증권 “현대글로비스, 대형선 인도 본격화… 목표가 35만원으로↑”",
-      "title_ko": "신영증권 “현대글로비스, 대형선 인도 본격화… 목표가 35만원으로↑”",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/19/7DX7KGTPHZFMFEELDFJAAQKUCI/",
-      "ts": 1795046029
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "반도체 장비주, 2028년까지 달린다…유진證 “전공정株 주목”",
-      "title_ko": "반도체 장비주, 2028년까지 달린다…유진證 “전공정株 주목”",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/19/B5FFU7TD6VBIVDOFA3ALX5MYM4/",
-      "ts": 1795046032
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "JAPAN ORDER FLOWS W/O NOV. 13: - JAPAN BUYING FOREIGN BONDS: -¥440.7B (PREV -¥537.6B; PREVR -¥543.1B)",
-      "title_ko": "11월 없이 일본 주문 흐름 13: - 일본의 외국채 매입: -4,407억엔(이전 -5,376억엔, 이전 -5,431억엔)",
-      "url": "https://t.me/marketfeed/1081097",
-      "ts": 1795046096
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Musk Feels ‘Foolish’ for Spending Big on GOP After Midterms Rout",
-      "title_ko": "머스크는 중간고사 대패 이후 공화당에 큰 돈을 쓴 것에 대해 '어리석다'고 느낀다",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-18/musk-feels-foolish-for-spending-big-on-gop-after-midterms-rout",
-      "ts": 1795046241
-    },
     {
       "source": "연합인포맥스",
       "title_en": "엔비디아, AI기업 지분투자에 78조원…\"위험 이중노출\"",
@@ -11504,6 +11462,48 @@
       "title_ko": "다카이치는 자신과 푸틴 대통령이 러시아에 구금된 일본 시민에 관해 직접 대화를 계속할 것이라고 전해",
       "url": "https://t.me/marketfeed/1081425",
       "ts": 1795070333
+    },
+    {
+      "source": "Wccftech",
+      "title_en": "AMD Ryzen Desktop CPUs Are Now Up To $200 Off As Holiday Season Approaches: 9850X3D $399, 9800X3D $379, 7700X3D $279, & Dual 3D V-Cache 9950X3D2 at $769",
+      "title_ko": "AMD, 연말 시즌 앞두고 라이젠 데스크톱 CPU 최대 200달러 할인…9800X3D 379달러 등 가격 인하",
+      "url": "https://wccftech.com/amd-ryzen-desktop-cpus-are-now-up-to-200-off-as-holiday-season-approaches/",
+      "ts": 1795070630
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "[속보] 원·달러 환율, 3원 내린 1330원",
+      "title_ko": "[속보] 원·달러 환율, 3원 내린 1330원",
+      "url": "https://biz.chosun.com/policy/policy_sub/2026/11/19/HGSRHQ3ZN5H5LPVPVPU6KWWIX4/",
+      "ts": 1795070632
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Red Robin (NASDAQ: RRGB) Shares Fall 17.48% After Hours: Here's Why",
+      "title_ko": "레드 로빈(RRGB), 시간외 거래서 17.48% 급락",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63418198/red-robin-nasdaq-rrgb-shares-fall-17-48-after-hours-heres-why",
+      "ts": 1795070635
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Ukraine was main topic at Trump-Putin meeting, Kremlin says",
+      "title_ko": "크렘린 \"트럼프-푸틴 회담 핵심 의제는 우크라이나\"",
+      "url": "https://www.streetinsider.com/Reuters/Ukraine+was+main+topic+at+Trump-Putin+meeting%2C+Kremlin+says/27371861.html",
+      "ts": 1795070637
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Two Russian Tu-95 Aircraft Detected in Taiwan's Southern Air Defence Identification Zone on Thursday Morning, Defence Ministry Says.",
+      "title_ko": "목요일 아침 대만 남부 방공 식별 구역에서 러시아 Tu-95 항공기 두 대가 탐지되었다고 국방부가 밝혀",
+      "url": "https://t.me/firstsquaw/194160",
+      "ts": 1795070641
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Taiwan Defence Ministry: Aircraft Completed Their Passage East of Taiwan and Exited Near Northeast Keelung.",
+      "title_ko": "대만 국방부: 항공기가 대만 동쪽 항로를 완료하고 지룽 북동부 근처에서 벗어났습니다",
+      "url": "https://t.me/firstsquaw/194161",
+      "ts": 1795070644
     }
   ]
 }
