@@ -1,28 +1,6 @@
 {
-  "updated_at": 1795132319,
+  "updated_at": 1795132482,
   "id_hashes": [
-    "76128f2e79e1ced69820135996920eaff65408d16776585257e9343187b866d5",
-    "62bba4741d269cc4861ec6834f2daca35bdfe91c9c01e257e8bafeb29fc21228",
-    "7536795103885fc5f9045085eeba42f455fdfebeb38fb8c810894f0741963b02",
-    "2bae748939de680a88cc364d787f58a5a3472fe4d7831901cbcfec1e6062d178",
-    "0148fd1a62f167e3032a514339080278e4a8f4396909ebab15d15b9a361f6043",
-    "b82d87107449fc0dd07ac5b4069105aedc0df913b695edfaff424f5b453785cc",
-    "089971079674bc056e0f9bcb28c40a23e48aa7b1d5dee528a5d4a99f15bfbd70",
-    "b74090a17befd400330574147d1a3ab0efd5d3da3d6e6afbd209abe9d84d3d45",
-    "f13cfca403d24b31dcadddf7ef72c8107210c52b9d967333204a5b6fb45df47d",
-    "4ad88378976d38d09a70fb0da559ae10e4db45616f100d9555941c28eb405551",
-    "9016103c8b5c62256e22ea94ce0a96f74ec78762769f5b561ba782a5b68901df",
-    "38426b2ee93c02ebc570832c1c9923e02625fcae5203bbb6b00ed22498e0f431",
-    "6de33af4206f54acc86b4cb93dfae725401e90327c8a32d3c7d7f825ec20c8aa",
-    "6d3b5b70c28240d26f63df5c690faefa8b35d89f68a17211ac06fb848639c34a",
-    "237feabf3bfb5d5bb787025e49169756c0b159821e215ba8d329711535dcbf42",
-    "b74d0dadbd2f5e4f14b7ce1c5c8e6f7feb339d8e9fdac00edc1e96f9bae7d5f8",
-    "b72371c5020163371be07e0ba18212ddfa2e3cb8f7aec9c7d7deb93d25246ba7",
-    "fa21b9272df45b907113c3042db93dd6a718e4666ee7840cbd9fc5a37ba17509",
-    "21ddcd2c5ceb1fe03f7662a45fdf7bb8453535c01e3a61a1dc4d32dc4ee8c9f7",
-    "9668fcf2fe2418f8f922150822673f4cf5adf203e9e99711527e574459044df0",
-    "b6261e77ebbf8dddd6fc8c581644ac1ca1914d05c6a0612c1d4c1c1b643747b2",
-    "4ee054ba588c2de2b5d83759180553cef80baf1bc5987332c96e106fb5031a53",
     "75b2f2cd8c3cdbeb9a045905f58442a1b64cea27ba8d7ebd7501f423dc915700",
     "827f47ef5ea391ee0b041ae28d1270972787d69c89c825686f81e6fc226cb916",
     "58caa5204abe2b9b258e35cbda7266d11660c3b51880774eb8c1bc982a309446",
@@ -4000,27 +3978,31 @@
     "52453d5c293e9c56d4a481feb72ec2855de78cb40cab5d690f62f2db299247fe",
     "1ac6e697f0133dc44a5a024d5b333d86ce5ba3ba3b6176340b52cb28454b602a",
     "8e95bee55baee372a440f5185008828ee388476c51aade97841b2fe6edb3f8e2",
-    "f55f39580229d728682646dfccf4a23286280f61e8a0d7b112f82a89fc107b70"
+    "f55f39580229d728682646dfccf4a23286280f61e8a0d7b112f82a89fc107b70",
+    "47737c3e7566d7739ae60e790faab7ac27d7bec64133639e9a51fec905639bd1",
+    "c164a91f1717e5143e8e95321dcd6d2bfbb850d9fc2ad0aad962024f669fde6f",
+    "74d10b1c6993b5143addee5db8158bc90dfd27ad842c2b6359ad2bac00635984",
+    "6c08d96724886824264553d7e8b55d5568e943d002e505939a783e002dd13549",
+    "611aa56911d81b19052fae1e52f304981c3192ab7e5b06b295e825e1c54b1703",
+    "6d9b1ed94c611d35dd4797e43dd056d3cf278840a25534d4c7dd0b23ae927db1",
+    "748a9bad071e3fc45d509c53579dc3a5959dd10264dee6438136444ce8bb275d",
+    "da83a61c5005c53426bccee8a77c7e4f99bfa0f9375f1e988a3b4facfbd4997d",
+    "22546e194e90159b19a4f6d5c0283b89a29a3a4764d06d7915499074bdd5984c",
+    "efddfb5cf7970aa8590829df7a0613ea9abff8f65259bcec3cab7dbbc14a048a",
+    "2100b1583f6e963a0e48911fa76c42dffbaa2236e17ba968ddbe4f91fca584b6",
+    "762b4ea06b834254d1c4a2cfc7d4735669d538b629da02938941d6cea7f90ce9",
+    "679bcb902f20fc7ac33403b16436110c4827834cb304481b4cb5ec49ab90c6fc",
+    "b0d0a5294253d684dbc1eb53aaac59ff5d29ac70bf58024b202c67a1906531c7",
+    "36226cd406228a4ce0e624d7475510ab757fb3c031f47c424dbef1ec4aa200c1",
+    "2a27f571b953b8348e1ecbefef7fa0bb6adef6af972c78aef38d06638dad74ec",
+    "3a63c67d49e91726dbdb5a5ecb8bdf6d7203f72d80829d4aed68d0e8721dad1e",
+    "7090643b40dd1cd9d44cff66f427f0c0098685efb89bc85bad9610af0b518cd9",
+    "2c49077956251334320ca88e7d7d527610d689671344a541c1f6e249dd2e4209",
+    "0fdd6467ded607db10151caba1f84871c6aaf07904198e69e4ea1f9302221d9f",
+    "8ca29db5a24a3150d09a77cc3054c772faa03b41d70c78ec5f5cef44d59a89dd",
+    "6bdfa72744086e7d7d5ef757fe6d2b42b5d341dc081ed415bbb1f7feb85cd295"
   ],
   "title_hashes": [
-    "ec850aab81ce713f9447ca61cc9c2ec13882a1031782bb1d5e3b34b2db2f3224",
-    "11646500a5673a69a19b39a89ee6f9d9919e6d07aea3ac60d9d2d354ffac5b2d",
-    "ecf8ab86c2d32aa6f7e618d6f770c21dea19ad056055e1e43510f7f5d6cc7047",
-    "44157e213271e877e4c675b4f1177d723f212c6e24c2be690c61106092b04fc1",
-    "b62b95afedd8f3845c1cf2691249357b02c7a9fcdb1fd316871cf38ccb811a58",
-    "f42081e6516a825c218f1f1a78f7aa56f61074c7a16f7f94b07f842485114aa2",
-    "cb9f3311b723657e54ec4ad3d0742e8a2cd15509d4dc50be9e4236310fcd1c85",
-    "454854d870392914f877b137dbceab6e3b5786510a8591670b960433d9622d73",
-    "2acf00acbd9ca2f9fd2bdf5fcd1ec16979615e9f53a9c176abd58b2e71b03de7",
-    "21a7cbe8488f12fb72f30fa4d3993ec6d620535242347ae04f6165dc231817d3",
-    "8db616e132ae782e9c79cb481b40de4f989c70c4746c3937a9ff429a0560538a",
-    "756574ffc25e14614c8e4cfb3e4ef4633a6710edc0fe4e3ca293f0ea1b3c150b",
-    "0e413f5b6047d856c2bd763add34a26d612639a5c60a28d18c3f7dcf9526f5c6",
-    "3f423746aedcbd6205bfafe1248f026c8c3ff4500ab96c0321e97cc3cc8d3dac",
-    "24ca7cb9bda9bdee1d3f132d7450ca702e7e13c4dc8e2d0156b2bd4e1881247b",
-    "32438d2746104c2bef232bf2cb52cb2791f3c232a094e344145f40c6336146ca",
-    "1253706b711557351952bc5a5010e5b59e2ee9626594dfcabd60ea1ca8068306",
-    "bd68184239e1424a406269fecc3017833dd04d69f91aa99a706958890033e340",
     "d055912f0b7c5c8eeb5e2b674c1f0e589d94b3dda80607126bc45517f0239905",
     "53e369cbab20d1e5ed281df19863888be3bc415671d6b23e4eff9b0022314c29",
     "14e44a4164615d6abd9892bfd9e9c73bed95dfa38a5baf17af0cd6ba9580f73f",
@@ -8002,51 +7984,27 @@
     "372256de9c6b9a6e3b5d41e47dabae549254471a83a4863a48e5907959c34ca9",
     "e3c9b4040805a747961b41cec755f525402bf53ca0d863c4aa2cf6e9b95cc8e7",
     "f481fdeeb68962bf34db1ae65829bf23c654baed0491e99014b30e8b53932683",
-    "4c670d6fc0b327fdb3f5a8cbc8444e3b31c9e0f2f2776ad7c77868b62b7b93a8"
+    "4c670d6fc0b327fdb3f5a8cbc8444e3b31c9e0f2f2776ad7c77868b62b7b93a8",
+    "63630038b35e7d93c349a72dfeb7731cb3d69660d94807e3e12ccd6f059227e9",
+    "08d5db064874a5e52d7eea7706d38f3d5ee7a44bcceda3393377d483b50f24b7",
+    "77ea34ec00216e6443c8535cf2f2f1bbd55ae535e5a9bf709ae188042aea3911",
+    "f3936437397b175c12808967e88f9b1b69a2bab00ea97b07d357494198e414b3",
+    "0a82ec02bd4009daea8eda84cc18630ab5497e38b3e286f72ed694d9466aedac",
+    "bc0f731aff6cae6547a6522faa974b1afa91ada0c045d7570a308c36710d7a14",
+    "32e48df33a740ec80b2200d9c45cd22bf3b1f6cbf02a0c4c1180d5d56a9471ac",
+    "228f15b9e0e799d2bb79192165939d627620cfe241dd8c6690c3d7a7a9cff2b9",
+    "01d8ed65ff415acb5201c7dccf7ef33ec94db4f99d3c5cac44b4bc98af3d3c4d",
+    "bee46096c3cb1312b755e363e121f1dd8edd98c2ec239b442f6fb34bd69b705b",
+    "adcec4bcfc6889f194393b886647728a1ab690b9ba51979b27acd03134a6fddf",
+    "2045aef7a8b707f2eff66c4a400a415e96fc48a08e161250170368e74f90f268",
+    "1f9ce2ab954734b1d477e45f6a56fa2b5937d3f5889c01d8251eb5ecb03ee001",
+    "b848a95aa1a1d8d3cb6acd1c1926ba8530bfef3a69845b1c0433dfa2b92495a6",
+    "dd7c9ba7ddd91441479b1f4cb65649bc9ff0face122d84ad0dee3049d571f6a9",
+    "69c5cef0cbd5c60967a3015fa85e658d6f8f351f70eeb9f1d108ffe41b3a79ea",
+    "99ee5e7973295a9d500c073a5538f9117e8ffd602f56ea1dc005b54f4e03fe50",
+    "18af387b1ee966026e778dc5986bb80142d0e21727f91defd6146f435dd04ea7"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Barron's",
-      "title_en": "Amazon Warns New York Labor Bill Could Hike Order Costs",
-      "title_ko": "아마존, 뉴욕 노동법으로 인해 주문 비용이 인상될 수 있다고 경고",
-      "url": "https://www.barrons.com/news/amazon-warns-new-york-labor-bill-could-hike-order-costs-30b3ed54",
-      "ts": 1795103648
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "J. Harmon Debuts Cannabis Accessories Designed for Women, Exclusively Distributed by LUVBUDS",
-      "title_ko": "J. Harmon, 여성용 대마초 액세서리 출시, LUVBUDS 독점 유통",
-      "url": "https://www.streetinsider.com/PRNewswire/J.+Harmon+Debuts+Cannabis+Accessories+Designed+for+Women%2C+Exclusively+Distributed+by+LUVBUDS/27374881.html",
-      "ts": 1795103651
-    },
-    {
-      "source": "WSJ",
-      "title_en": "VISA, MASTERCARD AND JPMORGAN CUSTOMER DATA LEAKED BY HACKERS",
-      "title_ko": "VISA, MASTERCARD, JPMORGAN 고객 데이터가 해커에 의해 유출되었습니다",
-      "url": "https://t.me/firstsquaw/194269",
-      "ts": 1795103653
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Brazil Central Bank Steps Into Markets as Fiscal Woes Hit Real",
-      "title_ko": "브라질 중앙은행, 재정 위기가 현실화되자 시장 진출",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/brazil-central-bank-steps-into-markets-as-fiscal-woes-hit-real",
-      "ts": 1795103805
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Hedge funds take contrasting calls on Meta Platforms",
-      "title_ko": "헤지펀드는 메타플랫폼에 대해 대조적인 요구를 하고 있어",
-      "url": "https://seekingalpha.com/news/4674307-hedge-funds-take-contrasting-calls-on-meta-platforms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795103961
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "BrilliA Inc GAAP EPS of -$0.01, revenue of $48.99M misses by $11.4M",
-      "title_ko": "BilliA Inc GAAP EPS는 -$0.01, 수익 $48.99M는 $11.4M 손실되었습니다",
-      "url": "https://seekingalpha.com/news/4674785-brillia-inc-gaap-eps-of-0_01-revenue-of-48_99m-misses-by-11_4m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795103963
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Trump: Putin said he's angry about the bridge attack - NBC",
@@ -11504,6 +11462,48 @@
       "title_ko": "OpenAI는 ChatGPT Plus 사용자를 대상으로 도트 테스트를 시작하고 비즈니스 액세스를 확장합니다",
       "url": "https://9to5mac.com/2026/11/19/openai-begins-testing-dots-with-chatgpt-plus-users-expands-business-access/?extended-comments=1",
       "ts": 1795132318
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Japan CPI Rises to Fastest This Year, Backing BOJ Hike Case",
+      "title_ko": "일본 CPI 올해 최고치 경신, 일본은행(BOJ) 금리 인상론에 힘 실려",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/japan-cpi-quickens-to-fastest-this-year-backing-boj-hike-case",
+      "ts": 1795132468
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "“한한령 완화에도 실적 수혜는 제한적…中 게임 흥행 어렵고 K팝 공연 불투명”",
+      "title_ko": "“한한령 완화에도 실적 수혜는 제한적…中 게임 흥행 어렵고 K팝 공연 불투명”",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/11/20/JWW6MJ3RXFAAXDTSWQIE3UQOQ4/",
+      "ts": 1795132470
+    },
+    {
+      "source": "더구루",
+      "title_en": "천궁-II에 놀란 UAE, 한화시스템 레이저 대공무기 '천광' 도입 검토",
+      "title_ko": "천궁-II에 놀란 UAE, 한화시스템 레이저 대공무기 '천광' 도입 검토",
+      "url": "https://theguru.co.kr/news/article.html?no=109981",
+      "ts": 1795132473
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Amazon Urges NYC Customers to Oppose Mamdani-Backed Delivery Bill",
+      "title_ko": "아마존, 뉴욕시 고객에 '맘다니 주도 배달 규제 법안' 반대 촉구",
+      "url": "https://www.wsj.com/business/logistics/amazon-urges-nyc-customers-to-oppose-mamdani-backed-delivery-bill-0461ea54?mod=rss_Technology",
+      "ts": 1795132475
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "TRUMP OPPOSED STRICT AI REGULATION, WARNING THAT ROBUST CONTROLS COULD STIFLE INNOVATION, WHILE EMPHASIZING THE NEED TO MANAGE AI RISKS WITHOUT HINDERING DEVELOPMENT.",
+      "title_ko": "트럼프는 엄격한 AI 규제에 반대하며 강력한 통제가 혁신을 저해할 수 있다고 경고하면서 개발을 방해하지 않고 AI 위험을 관리해야 한다고 강조",
+      "url": "https://t.me/firstsquaw/194387",
+      "ts": 1795132478
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "THE US HAS TIGHTENED LICENSING REQUIREMENTS FOR ADVANCED AI CHIP EXPORTS TO FIVE COUNTRIES TO RESTRICT CHINA’S ACCESS, WHILE THE NVIDIA ESPIONAGE CONTROVERSY HAS RENEWED CONGRESSIONAL PRESSURE FOR TOUGHER EXPORT CONTROLS.",
+      "title_ko": "미국은 중국의 접근을 제한하기 위해 고급 AI 칩을 5개국으로 수출하기 위한 라이선스 요건을 강화했으며, NVIDIA 스파이 행위 논란으로 인해 수출 통제를 강화하라는 의회의 압력이 다시 강화되었습니다",
+      "url": "https://t.me/firstsquaw/194388",
+      "ts": 1795132481
     }
   ]
 }
