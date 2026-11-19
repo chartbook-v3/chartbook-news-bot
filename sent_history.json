@@ -1,26 +1,6 @@
 {
-  "updated_at": 1795073104,
+  "updated_at": 1795073267,
   "id_hashes": [
-    "388655d62e128a4550dbd4f13fca2cc8d5ebebeaf4aa87ee082d702e6e53758e",
-    "9d485a5d3156e01f1121c5af65ea3cd7a413a14af1b697667c385c4b8e25f4ed",
-    "ea441e3962d8fc81da72452a9a2688c20fe57973db50a8fcbfc7721897ba0b4c",
-    "30702bb0d5b4f73229ba4125080bc5dfcd57e4b2ba2803b2585bdae1acd8498a",
-    "6f13f6be640a1e7946d3f4251936c8910799081af88909f46ccd7bedbb361cd3",
-    "49414de78bd382f50edc66df8edab9a5cd27cfdf0bd955f1a708bdf323e9f0da",
-    "5a1482b7797b1787dbde937688ebb33478b3eb7cc648eddcb9a90c939ae87e9b",
-    "efa6817804ebf598e036994175dc76d5119eed0440bc37fe9cf5c34dae6b9b00",
-    "fd854e6e37d12761ae471dff97dd08306c95d35a2e0764dce966f12979a8efb0",
-    "04bb8d11d62144626285751ea0a108b71ca93229c80717fae39476ec54c2266e",
-    "f2e365ace316fe8ee63f82fd4df5a938b8129a5600e452177a68dd8c35d76d5b",
-    "5126ddf09a39f2a2e3da14354102837bc153834bc1f38f1e7f65dce033fa05b1",
-    "49088188297f5985a09a8b9c3bc238d544304f396cf790bdc6518b1f3e503a9c",
-    "6e94665aca7b0ea60c3f2aa603bf581a39637c6e227ca47e15925334b50d06ad",
-    "69337b9defe752cb0a3a5165dc086b148eb8feacddd647bd6787cfd77d647d91",
-    "92b0a7e7dc9e16b28ae9ba452cdc07bd9f4965e9aec49c2f450c3d2e55e7228b",
-    "b73e0f7327b96066a33cd3a5e2c382cb17f613804c56c6089d66563c26d3c56e",
-    "cd1448c813d35a76a567f8655aeda6f35a81782b3c7f0d9e87dd85bd528d85e8",
-    "b2dfb0c54a3648c1b68f055bb5199dbd75363239725f20c082915624d8401337",
-    "e9401db48b45216c342e0f77c2087be19b5e029bc19dae2f0b178827606244ed",
     "aa725cf8317884c7782c4357338e21eb076ffd6a4293643b05269cf28412cb66",
     "b9caca701f6293008d69ea88b58a93def2c93629c53f69f808edf2330f5f6f04",
     "28744d1d1667300eeede9e3d27501b54fc5f9232f544b62689702d89219d7050",
@@ -4000,26 +3980,29 @@
     "d0ce0d6303468194b632144338cc8b6ab042c09c089133ec3d98ac32d2b35f61",
     "5b2e0b393d49219d9e8f25139eeacf83554e42fb0c2b99cfc2eafb9e1c7328c6",
     "11ef6b324272fa61844b6ad1b485a275bb5750883fa2557579b1872808008a4c",
-    "f8ea81209a2f4239c9bae2f2abef922b47300987443d97cc960ab272f8131f35"
+    "f8ea81209a2f4239c9bae2f2abef922b47300987443d97cc960ab272f8131f35",
+    "4adfa7644ecc5c45261a7bb8ad1478ed367c4e5acb16b2ba0e3402bb0a6d5d91",
+    "ec0c51ca973d5732a0cfcae2d423296ac1cb935c0062bf862611fd4d2277a747",
+    "404e12da14583abe0de8ab0d9f4c89e404cb3e175ffe8c13242e59282a074a49",
+    "a24353888b5865b0631b809c4036b64d5fe1fe4308982cf8aa1daee5e87fe4ba",
+    "69578b3d1ed6695785c2716f4417cc046d3fdb2976cedbc26c5c3fe375388c41",
+    "c91621bc12bf2e7c16a7a3ad1c7106b9e9cf0ea3158478d004605569e86fa2b2",
+    "5075a6dac9e42b3185d928b02743ff055b66a438d1e37db3f7ae2648d65693e3",
+    "fca8866c0a86820730898b10be2b25f75782183290d9e5fc727764409cbfa174",
+    "322b37b055e00664568525af5dfa55bd004e17c2b6ff988c0887661adee99c76",
+    "d08069d66bffce207c339166f3cfbd76262fb11a6d390df1a4f0fbbe5ff6aea8",
+    "fd5055678822b4c89292538372e0e37d47acfd0924bed67dfac84b9bd134be18",
+    "46dd2aad9804935cf1d781074854c7d8e6ee25104a8ceb2c6e8178dd86d037b1",
+    "36ce7647c6d9940371c53bfc1237136004ee0ebac2c24d34a2406c13a330f2fb",
+    "d7aa0d2ab628c2d1ef3d90b854c918af00b69883c419b3929478f0e54c3480ec",
+    "d95f3b8eeb7015a9e6cd552c30062064f5a33cc3b35b00a5ce4de5f34eea9ac9",
+    "00a5b1220b529e31b5532dee70fb1f78258c127f679f59c188fb7cb0abdce520",
+    "cc7dd65d30939c325fac3ccc2a458081c2e733e9b314f1bfaae18b291ebb3657",
+    "93d2197be737f2fc4e05eda5be6a30b765ae0083123451f3d9d4654fd234d5ca",
+    "5782b934df830109e37eeccdfa0c381155df0fd95f0c7df8430c98dae560d1c3",
+    "eaba660e1e97f74743fac0b74d1497d07717bbb4d7d2458bfd0109d76fd66bd6"
   ],
   "title_hashes": [
-    "d596e95e916a020990d41dc8f34d968e90f36718e242af046ec38bf7dde5ae4c",
-    "07c40e95c041eb4769d11fd2adb9847cd0d970f9e1095f381ea7b00e8a0f6443",
-    "52d38081d86f4f6b2c7fb0c2c5189db0cf6a8b5f0cec506d010908361abd111d",
-    "2697561789ace10fe27691605ccddb5f394c822631f939fbd2a7fc6b526cf4d6",
-    "ce744a654fd1b1792aecbbbe88276e6f09a98dfa7c37f5d2d9fd16d1278c49e5",
-    "6f75d6324aa025f706f49aae99f766fdb5c4b9dbf6e656e6f8e4eccc5c3fc691",
-    "571cd7cb1802f650b3aa550bd39ef73b9bcc4d495dcd58c5911ec7e90300e7e3",
-    "3857dfcb1e1653f2d2a4d11ffaaca34f7a2de96481addbbfc762f33112986949",
-    "b5705317f2a19dc809cc66c7fe0b14a2fba32a9ce97c5a302f662a5d8218ef91",
-    "2be52d4e6c46a8c94aeed52b823ce773a9573c95256772a0f34ebc92d322de39",
-    "7bdf039606fd3d9d4957b2b4d5c1b7ec22de8e198a8491c2a98c15bf96077ca3",
-    "b46b4acdb28450bfe7ae36344907a8a324215e1e8342cae36ce33f9ba1fe7651",
-    "c6fe2c5ddad9b68c69f314cb79f44476172d1fe3a08b202ec316b45bd91d2c87",
-    "2ab729e8c03ededd0ae8f87dc75aa7f11d1ef3e54ebce651d714d9f98f4f5bf8",
-    "82c3b90216744e0604ff6fa0eb1aa59970322257f09de9856d67259440227fd7",
-    "c19ae403104edbf98c61e5edddeecc971f60b35ab7f4c9b84e5fd6b83ce4944c",
-    "db0d7958f3b0e439fe576ba2176e081777e9af8a5d6441904c337adc0560f781",
     "c25b1cb61bdc554d67a56dc6f99c1360070d2f4c0452dfb0af594c4db49f90ed",
     "61d548d226eb44526e1f77f3683b9d8a23da8519d3cfb7a84a74f7a5d17c40a1",
     "711a3c54bcf3ba9777f05d860fdd63836ef6d3c2a8f63f0ad55292a64fe58667",
@@ -8002,51 +7985,26 @@
     "ae1aa8f98d493cbca65d1181e4f2b7c3c546e9fdc2e488b305cce70df4b5e5db",
     "9b3c4b337e82b6ed4cac30932ce668888eef81ac84f84355489963449a80e4c6",
     "318b0ae021667b3f3d87cb4146c75b6ac08227d700a65330841528f557c4856c",
-    "ed79ee4f426261d312e9dbfedb060d44a8d3f9e95bb31cda00c1ed053f2bf891"
+    "ed79ee4f426261d312e9dbfedb060d44a8d3f9e95bb31cda00c1ed053f2bf891",
+    "ea358713db0d6e397c8d12c1e89d36bf57b29f9c319912e3d5183eb6150287d4",
+    "29a93a6e30a8c0b484c8d951110db7533766d1dbb32b1a312da4a4d4a35f3123",
+    "b8093e1d3e7c274e47dde72b651c8a5f440f8e7d8531abefcfff5d97de1bd628",
+    "a96c6c047032c8804d4c55d391e64467f3fc0c1ff70c80944006cead2764f209",
+    "b24c5f5f3069afc8c1d8ff5552f7e3be1510112b8266f2a95260b3b9ba9f9f32",
+    "e5675e9fc10dbee4be6946894a652fada4d74c86cfbd4b5e316a23bb3d78f6c2",
+    "74489cc889d4314d8c2e020ee180e6c68edb46743c0489e4962709844c93dd10",
+    "3bf55b8f5ec940ae801b88f7ca84ee4e073fcd43dca712629f635f765f47c79f",
+    "3af01cc99e3ed3b5b1c98fc98d0acd58ce207661f456805b21b5d4f2edca0db3",
+    "68bea34a9b895b30db386ef84d0b26b1e66fc7f07c4c418ea69ac949c4409b6e",
+    "4522553db8f5f51f19ea6d81999bc834eed24b1f0b9ad7d9814920a50e7310b9",
+    "de768d606bb1c189685dbada0c389b11c350f67a104a28759d67a56cb4c58ea9",
+    "c1f3b8b1b0c9bd75b3f87ae6047178626ef375905ab2858ddcacca087e5c6379",
+    "9b2d3518991a698a7ec32f8b8dda7267a5af24a1599e6209cda3f05ab71f0feb",
+    "1b5373c63b4a595df856a8e1921d7c63cf7a1d689f9b5f07281c59e0d99a14a5",
+    "8ef1780ed48ee0154a5594736d88b2cd8d11fa7275f066cbf7a33de277e26593",
+    "3916ec5454a4f1ec6db5d09940975f273eade52d824ccc95303fb0078199ea89"
   ],
   "recent_sent_articles": [
-    {
-      "source": "전자신문",
-      "title_en": "펩트론 '월 1회' 비만치료제 임상 1상 IND 승인",
-      "title_ko": "펩트론 '월 1회' 비만치료제 임상 1상 IND 승인",
-      "url": "https://www.etnews.com/20261119000036",
-      "ts": 1795047176
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "CNN, CITING FOUR SOURCES, REPORTS AN IT OUTAGE HIT A GEORGIA FACILITY KEY TO US MIDDLE EAST INTELLIGENCE AND CYBER WORK, BUT OFFICIALS SAY CRITICAL INTELLIGENCE GATHERING STILL FUNCTIONS",
-      "title_ko": "CNN \"미 중동 정보·사이버 작전 핵심 조지아 시설 IT 장애 발생…핵심 정보 수집은 정상 가동\"",
-      "url": "https://t.me/firstsquaw/193987",
-      "ts": 1795047179
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "GOLD SLIDES TO 52-WEEK LOW NEAR $3,722 AFTER WALLER AND FED MINUTES",
-      "title_ko": "금값, 연준 위원 발언 및 의사록 공개 여파에 52주 신저가 근접",
-      "url": "https://t.me/firstsquaw/193988",
-      "ts": 1795047181
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Anthropic Raises $3 Billion in Japan Tranche of US Mega IPO",
-      "title_ko": "앤스로픽, 미국 메가 IPO 일환으로 일본서 30억 달러 조달 착수",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-raises-3-billion-in-japan-tranche-of-us-mega-ipo",
-      "ts": 1795047304
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "김민석 “트럼프, 북미관계 진전에 관심…北 갈마지구 관광 대화”",
-      "title_ko": "김민석 “트럼프, 북미관계 진전에 관심…北 갈마지구 관광 대화”",
-      "url": "https://biz.chosun.com/policy/politics/assembly/2026/11/19/ABOFPHV4ZBG6HKW6BL6KCNHLMI/",
-      "ts": 1795047306
-    },
-    {
-      "source": "디지털데일리",
-      "title_en": "\"웹 애플리케이션 보안으론 부족\"…자바 취약점 대응 `빨간불`",
-      "title_ko": "\"웹 애플리케이션 보안으론 부족\"…자바 취약점 대응 `빨간불`",
-      "url": "https://m.ddaily.co.kr/page/view/2026111909105899441",
-      "ts": 1795047310
-    },
     {
       "source": "StreetInsider",
       "title_en": "Ukraine's European allies meet in Berlin in show of support",
@@ -11504,6 +11462,48 @@
       "title_ko": "Commerzbank는 독일과 UniCredit이 인수에 합의했다고 확인했습니다. (블룸버그)",
       "url": "https://wallstreetcn.com/livenews/3202409",
       "ts": 1795073045
+    },
+    {
+      "source": "전기신문",
+      "title_en": "AI가 이끈 수출 1조 달러…반도체 의존 속 새 성장동력 찾기",
+      "title_ko": "AI가 이끈 수출 1조 달러…반도체 의존 속 새 성장동력 찾기",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=375027",
+      "ts": 1795073124
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Trump Reportedly Traded Over $97 Million Worth of Nvidia Stock in 2 Years — Elizabeth Warren Wants Congre",
+      "title_ko": "트럼프, 2년간 엔비디아 주식 9,700만 달러 거래 의혹…엘리자베스 워런, 의회 조사 촉구",
+      "url": "https://www.benzinga.com/news/politics/26/11/63376420/trump-reportedly-traded-over-97-million-worth-of-nvidia-stock-in-2-years-elizabeth-warren-wants-congress-to-force-him-to-divest",
+      "ts": 1795073253
+    },
+    {
+      "source": "딜사이트",
+      "title_en": "[유캐스트 IPO] 공모가 1만9000원 확정…코스닥 입성 초읽기",
+      "title_ko": "[유캐스트 IPO] 공모가 1만9000원 확정…코스닥 입성 초읽기",
+      "url": "https://dealsite.co.kr/articles/173083",
+      "ts": 1795073256
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Williams-Sonoma Gears Up For Q3 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accur",
+      "title_ko": "윌리엄스 소노마 3분기 실적 발표 앞두고 월가 전망치 조정 주목",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/63418397/williams-sonoma-gears-up-for-q3-print-here-are-the-recent-forecast-changes-from-wall-streets-most-accurate-analysts",
+      "ts": 1795073259
+    },
+    {
+      "source": "뉴스21일간",
+      "title_en": "우주서 핵폭발 발생하면…일주일 만에 인공위성 98% 기능 상실 가능성",
+      "title_ko": "우주서 핵폭발 발생하면…일주일 만에 인공위성 98% 기능 상실 가능성",
+      "url": "http://www.krnews21.co.kr/article/363877",
+      "ts": 1795073262
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "코오롱스페이스웍스, 기아 PV5에 '무도장 후드'…장영실상 수상",
+      "title_ko": "코오롱스페이스웍스, 기아 PV5에 '무도장 후드'…장영실상 수상",
+      "url": "https://zdnet.co.kr/view/?no=20261119162620",
+      "ts": 1795073266
     }
   ]
 }
