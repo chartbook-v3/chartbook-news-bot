@@ -1,21 +1,6 @@
 {
-  "updated_at": 1795106367,
+  "updated_at": 1795106527,
   "id_hashes": [
-    "95d37cf449cc43adb0b32431923c6f71b427f83d6d37ebd102fa38a2cba4d3cb",
-    "bece048f8436882d7843b266ce8129012eb8e2a7a5ab8ba2a3daa75277c91ce1",
-    "f69d8670358e7f67ef13d9e8d15bed46a9f10dec6f6114c0879da957f869e8a5",
-    "52c5b36fa1adc361a08d5a9283f5370ab8b0db963c3cc6ffdf2937ecbebe9b9d",
-    "c452c532cdbd0276fca8623816dcfad5820aeb55303830940bec70cb5eb0c78e",
-    "d396c1de5e1044102d0969e214637a719139161f228e23ab0a8565f2e6493220",
-    "23c842f626f197f103c3e5eed70ec3df616a24b4010f33fa7d5e4c75ee20f8ca",
-    "ea7ac727d84499951ad5e423dbbc5ca7d16c1accfbf7df9169cf37c098f276f2",
-    "e12bd2a210b11d60e65039b68ac3debf0658be7f8b6f573643bb1d302b2b0dfe",
-    "ce5487005bedb63e495de4954280a0eef15a92b2dfe13cb01fd817865f878d52",
-    "7283a0b99cc44d0484beacbd20c97364ca398a587c87726f11bdb39819af730a",
-    "644b3a896abd19513bfb6f0dbf277b976b44dec4dfd4def3fb39a6eaa3efe96d",
-    "f2e7c0b2b4358228c20d811f87ded7aa5b8c93817d570dcb909f339312dfbbcd",
-    "3147688411883c05eef89d9a573835b0ab842ad0076b1b40ea7abe9868f39dc9",
-    "126bc6595f71c9954009b9fe7e2bfdebc3175ab44b20aecd88edbcc3335816da",
     "03ed5964cdb5ea9c7bd2a04d4375df230429b5e98b2fe4dcb4bfc3dd3400b5fa",
     "3a8085ffad8ffde47934be372e99ffcc7e9aa3fa5bf334a6576e1a87cd543fbb",
     "48173d06e1edc5f0e19cd0d86a14f048cfbff0006ad2f2f9b06bc79b445cda15",
@@ -4000,21 +3985,24 @@
     "9a9004d971d9ff422c626ef8ae751adf70a2a27dcaf3dd5bdf3e68611b9fa3cd",
     "75d02a9b8d1542285e5398cddef13f4ae9c430faa1444ad96cc77cab48516984",
     "b483f9d76c968b3300e3b36f173f784d71e2b84d4c77e3bbefb1e0d2d30a1a7e",
-    "9145bc27e05b0d8a867fc9e872b3d48357d2b659cff1d99abfdbc63dd0b3324a"
+    "9145bc27e05b0d8a867fc9e872b3d48357d2b659cff1d99abfdbc63dd0b3324a",
+    "af37e6a2a010e4747a23e89a94507c3c2c06ba2e918d89772bfac4bacf602c96",
+    "6da1f886f14066774fab1f266c09fa328bbb56cded4cec42a13f70ccf119e37e",
+    "f61cc82236004393f90b4bb387964b602bf19e4e39ae8207e6fdbca35683e908",
+    "4c0f8acc5ff2e08f1b63d4f873dfc07352599a62db674be596d6797211dee522",
+    "37d5c9535bf64895f00faadbf5d19f455e4ece2c7680f78c631b7a2d032d2ff1",
+    "2a5df06155c773dbbb0c9e7bd5b128a2354f3daedf27424da4779641dd8ec267",
+    "cdcf3cc13692f928f558ce29b3824b85f362b7e58e50e699a00cf79a22651c13",
+    "fde1191e9d2f2c2adecb52f87160877a44d110ec5af560de597529a26f4145f3",
+    "a551ffcfc3d008c2fd871f0c17826454e2f416202376248fe8443decf8e65907",
+    "77bc4dc27c85a51f23b16d8f10ee49e6395cc2a857dbe4078d70143d0da67d11",
+    "7388194285373005f36b6dc0cb1946acf550fea1f74b29afaed1731ac1380a1d",
+    "ee2acf14dc84f93c04af000a7d0624c9c4a6410b0f77195e716c7657be70d92e",
+    "aec821da693cba6484732e3aa37a222b73de5a02df81102b197b58c72aa196ce",
+    "64727f3025e384d4683d29b6be5c72c0aba8d8d6e9a44d14b897eb84e4ea9fdc",
+    "bc5b4d4c34125517310caeb0b65c2b6e232c1104ac8bdb9ea0bdb2c28a10da47"
   ],
   "title_hashes": [
-    "5bf03526f84a4005cb99d0d0af9cfc4cc5154385f2cbc02de6847bc838b1f53a",
-    "d35426d62b4801d2c0bd4d519c2d93611b65cbbdf695331c66215d347195d50e",
-    "b770ed85837833e02ba9a2d6f7eab9bd81c0605a3d3437041cbb3a823f53e496",
-    "5114a2bbf2c6779acebb63a14ee01cef901d78e87c1c33432a31fff491ca1f2c",
-    "918b9091460a54894a03f6bb861ba8d65d6fa14765423d1db3087a987c3fd4f4",
-    "030a97aea7fa11f2284135a84d9919e402472c9437b2e0adaca6a37708276b1d",
-    "8e70f26052380e4108a5293643e4ef611d5ee782c6f54ee7d5c6f4544f7c2067",
-    "25f4be4c9f238fbca8d42f252421ae1c9e21c1233d48093f39df999f81c8fd66",
-    "dc5a2e852944580d401d1630929354ee0f71e3bfd309e54e0a6d5b72aca55162",
-    "306d8a8e32090b9c5a75846b45b11c293375633e70919888ebd2eadbcd93a165",
-    "9391925503c75242d0f30447fa2c89adb3264dee5ab56dff1afd999edf7f81d8",
-    "85b59599bf85f1ab83dc3f88d5c5154843ae5c77e7c60ae97773c20e1d557220",
     "a8f3ea47781f9f17ae7e86645945c6443c167fb8bfe96de017118416440aa140",
     "1fe130c7ebcc346d0abd7a9b8821c701e3c155b71b7d11d81bc5c3f91b4b7583",
     "e12329f592f2ec00080a9ede1a422567517b6f13a05fadd0aaf74b830b62be23",
@@ -8002,16 +7990,21 @@
     "cf99c898e20799d77b04c78db0ee72f7d7b8b0afb03b24a9e43f62cf0e7b2c69",
     "748401c15d9980ac3b4e04eaec5035fa7c3c76b203f6529f038d26e8059efb42",
     "e0c119349d532cb156698dea4f8a8cc5575366b255a2f1b9861724898c087518",
-    "b6b55b13589f50723830e091d4b07e9b71713908d92f87e1b7805e340e13da59"
+    "b6b55b13589f50723830e091d4b07e9b71713908d92f87e1b7805e340e13da59",
+    "9c72dabc88c7c368aefd02f9128d01f6239cd4a9a966f2b80cc04674f5aec386",
+    "f12ad4d7a3c4affa1d7189006d57a71fb121782046db5481df718a3f197f28a5",
+    "7fb4e0c78d9b137aed495723fadb3601eb5b8ec1968e795ec5451ca37b5d443f",
+    "43f4f253cb1617757cc513782a0efcb74988f54d45531b81f5f1b721e7aaf117",
+    "edaba1e6cf0961c9e5cc16ac49b1cf45d538a81ebd43c7902eb7b067cc0655c0",
+    "bf6cf3591cf69c16f7a6ffdeae5b8dca9f14e3c0d6a46d128d8e183ad5864e4e",
+    "7a1b8d1e921f10392499dad9affe7ebee7efd23d4dd650a6ed011892156caac3",
+    "d7441f4a4d251ed40dfcce9601fe4c589827a437f52791638aff87ed37bc9848",
+    "189f99b634c0cc040a0a011cd980ea665c716d4a0e64895f7759db6137d014d0",
+    "57e86b01d275f251dd5aefef99b28186832b313f997ee92f536fa3dc3521763f",
+    "cbd3eea985311746cb6c1ae2dbc2c4a1f018c5e3098bbd08b9a0d836de3b0f94",
+    "a78f137a9929f2879cec9c5dd5f1eecb9e79aaa4b3e1cf761830843df3af9302"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Barron's",
-      "title_en": "AstraZeneca Bet $2 Billion on Summit’s Cancer Drug. The FDA Just Said Not Yet.",
-      "title_ko": "아스트라제네카, 서밋 테라퓨틱스 항암제에 20억 달러 베팅했으나 FDA 승인 제동",
-      "url": "https://www.barrons.com/articles/summit-therapeutics-cancer-drug-setback-fda-678bbca2",
-      "ts": 1795079740
-    },
     {
       "source": "StreetInsider",
       "title_en": "DAR GLOBAL AND THE TRUMP ORGANIZATION MARK SUCCESSFUL LAUNCH OF $700M QATAR DESTINATION TO INTERNATIONAL INVESTORS",
@@ -11504,6 +11497,13 @@
       "title_ko": "Hunterbrook이 중국 수출 우려를 제기한 후 AMD 주가 하락",
       "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63440591/amd-stock-falls-after-hunterbrook-raises-china-export-concerns",
       "ts": 1795106364
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Ashton Kutcher Left The VC Firm He Co-Founded Just Months Before Its Anthropic Stake Could Be Worth $7B.",
+      "title_ko": "애쉬튼 커처, 앤스로픽 지분 가치 70억 달러 육박 앞두고 공동 창업한 VC 사임",
+      "url": "https://www.benzinga.com/personal-finance/management/26/11/63440731/ashton-kutcher-left-the-vc-firm-he-co-founded-just-months-before-its-anthropic-stake-could-be-worth-7b-did-he-walk-away-from-a-fortune",
+      "ts": 1795106526
     }
   ]
 }
