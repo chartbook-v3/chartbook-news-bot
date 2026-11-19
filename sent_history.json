@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795128602,
+  "updated_at": 1795128777,
   "id_hashes": [
-    "b4fcf36707aeeab1e28e49619724c19637c4add2f53a4e69466b8a83be9c6d19",
-    "e171dc8ed44b9326d4a17b93d3900c90e63ba15bd387c5117399bd99a5e01ae4",
-    "c18b487a12d6e76baa6ce817a92f2bad0b687800998bc82e9c60c2f0c3475210",
-    "afd9a881300ae77580ecd3073caccae85b59b394a2203123a5f6dcf0e03744e5",
     "7626daa829f2d991bf9fe1227357fe6b387ed2f3de17621343d713576792d467",
     "6d83abba556dd5c3205fe7130eecc6b4f224f376aeb08dd860efd3549c0e619f",
     "52595892eae954cee98033a50e4bcb9ab68a4ecea10d26015c1553f1c960689d",
@@ -4000,13 +3996,13 @@
     "7e252a9d8e9103b72b372dc2e9c37bda34faf226ac0f42d1b5a57dfa6e922d3a",
     "79ce11bc28e38ebf2f4fa3c9f630495288e4a9db2e26bc900d2c5efdd86d6e62",
     "ae1361284b1ae554e507bd6500f480ec39a37a464edcc7aeea0640935e21aaaa",
-    "bc1cd55d09472cd69526005ad7e0c470f16ad8d50b308916ad23844a079397a7"
+    "bc1cd55d09472cd69526005ad7e0c470f16ad8d50b308916ad23844a079397a7",
+    "8bfed50114dd654e39095e72e19640e87e9d9b0628a0c4f57cd911b21a11a6f4",
+    "87e6ed24a5d641ae7f70b2685034fbb0dc72cdda2cd056168ab0b5b38f47f528",
+    "018eb1ccd08a7a0fff52788e9a10a4c3f6366d7b6b42091c48691ce81a7e5ed8",
+    "a0a7d143a41f5677bb57df85dd5ececc93892c6e5a45a12ed8ba0b38030fa36e"
   ],
   "title_hashes": [
-    "a3be2de1d0adb8967038e401915cd3f630bbc5f09a1cd13e419c9f84d219927d",
-    "8ab07aaec4df6200dee4dfd2e7cf670fb2c294ca0f7bb14d7be6e5640def1023",
-    "92f7317d141911b7c26a55b200914b9a62bbf399f021867b799bcd605cccb4c0",
-    "49240208b7851866a7309a2a94c7ebaaa489fceebda2873826ec8c12c07f0908",
     "99dc2a545effe29c82249042420b61d098a5300a2c240be2bcd0837617597329",
     "756fbc3dfae4a7a0c0b6d068fda396287b6cd8a649b524e738428b8945a0433b",
     "0d54c23023add44414be892a6a692e4a94f7f4a6edc412972114cad00861996c",
@@ -8002,16 +7998,13 @@
     "b94eb409e8abc01665ffead370046676064a2d5b5aad0bcd3b485d85bd21d54e",
     "0ced4fa5b72f1aef0fc19652f9d79dcc296b71d12a58aa4af66d90a21bd19d51",
     "c1e23a6ec8b43ea7c2bf3127c59c816e114b074c238d6b86567ee1cc1e7b6ab0",
-    "850d1ed2b8ff2da6161a77769adb6e3fd2746635d1989bd0ac859ebfa1976009"
+    "850d1ed2b8ff2da6161a77769adb6e3fd2746635d1989bd0ac859ebfa1976009",
+    "92e41c0152d168eb87c32c47bc015ea92ac7e80ea908db915d47411d043922f8",
+    "ec5884eda0ebe5410ec97ec5c9ac31d4a599fc233d14e8ca95dcfdae1f8440c7",
+    "7a70d531c5a17259d4a80e303a15ea0ee8e17814d0369ee0706f75b828307fb4",
+    "6c3bf2056d0e9614322b47848393c694110d646f3c5a5d9f54c653c20df227a7"
   ],
   "recent_sent_articles": [
-    {
-      "source": "9to5Mac",
-      "title_en": "UK court rules Apple can share the top secret order everyone already knew",
-      "title_ko": "영국 법원, 애플이 모두가 이미 알고 있는 일급비밀 명령을 공유할 수 있다고 판결",
-      "url": "https://9to5mac.com/2026/11/19/uk-court-rules-apple-can-share-the-top-secret-order-everyone-already-knew/?extended-comments=1",
-      "ts": 1795100716
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "墨西哥央行会议纪要：所有与会者称，墨西哥比索自从之前一次利率决定以来走弱。",
@@ -11504,6 +11497,13 @@
       "title_ko": "재무부 관리, 절세 거래 물결에 대한 경고 갱신",
       "url": "https://www.bloomberg.com/news/articles/2026-11-19/treasury-official-renews-warning-on-wave-of-tax-saving-trades",
       "ts": 1795128474
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "IRAN WAR HAS WORSENED US MUNITIONS SHORTAGE, GOVT WATCHDOG FINDS - WP",
+      "title_ko": "이란 전쟁 여파에 美 탄약 부족 심화, 정부 감시 기구 분석 - WP",
+      "url": "https://t.me/marketfeed/1082116",
+      "ts": 1795128649
     }
   ]
 }
