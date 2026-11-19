@@ -1,21 +1,6 @@
 {
-  "updated_at": 1795058176,
+  "updated_at": 1795058344,
   "id_hashes": [
-    "a50286763f8d3f9e2b2fff542e6e7d1a51acabd949ec277ebd71ccb533ed695d",
-    "d9eb0b04df0becebce43c44fd27e1f615f60412885271f6ef922468f36cbb37f",
-    "7d98cab50c5542df5fc6f5b98f47e38c723a56328f4d4634680dc18b44c4cfeb",
-    "618353423fb05eac9417cde47dafd7275422ad7abd06697dd44eb15b03906d1d",
-    "df805bad07c8d92887022db3c71975999d27e5b518d53690a68b7fddc41df09b",
-    "6bfe386ee6b7a33bec6b2eb0a1a80e29bd250d651d297ff2fcb02e803546b5ed",
-    "a81485bd0608880cc93e720cdfe40f59d1947b66b2e2d6e38e94b850ac58fa8d",
-    "931962a500af5db06c4fa6e9f753f78ce62cdcb0ec55c779141d4de0803f7e87",
-    "9e1def59876fb2fb539d2e2aa402e46662cc3cbd181f7e08cd0b01a1d321cbf0",
-    "769b26310e65537b210ad25a9d48cc303a65510c60fc7646dff7046fa7798c2c",
-    "89f6caad3e51c6848cb18e94ab0745ab9f1cd4d605e26a31bf8e359b7bc9c6eb",
-    "09e12e6343143e1ea3604fcc04c260c8705f9f2934b12f110ce46cd926046049",
-    "989c4359c51216526cb3f236a982d12e172d8a8692e46bd0db832cf156e0c154",
-    "a79a2e2c55be438a6b59921064d8693d67da00d928da323f51381fe1b7962237",
-    "11ef3a87d86fe6f111ee471076dc83981e7c4264fbf82de482645ae9605d1cba",
     "e11c3aa6d5421c5b1e694e4cfe472e6e2aae9b2395b9e67c8dfc9bc89fe431c8",
     "f6f0135776f8cf76fee29a347e13c74da7c2c32bfd945a7d1dab8674da84be16",
     "58f69adb12eb9ab75f6adf1a9700cf2eaa611d68926edf417bc5c861f0ac8702",
@@ -4000,20 +3985,24 @@
     "d540c775b000eb8e0e786641e190474850f946cacbaf84fa8d6a2ab972be66d1",
     "20897f77712f57aa3e08d1eb22ad61d646dbd3b674b916b4948a9905d03f89af",
     "12e781b16cc289958d81fc7a670f2550785131e6eae765dd2ab83b98fe2954af",
-    "3d247e55a8ae812aa8c4eeb5d0f4e99949a0246a2d5866e4753b7023f5e953a8"
+    "3d247e55a8ae812aa8c4eeb5d0f4e99949a0246a2d5866e4753b7023f5e953a8",
+    "c20f434703bda8336cbbdd75903d8324ea56b00e8c5a1cd8afa43b91667bf8be",
+    "fe791be6df7ad715b810bd9a648356b80f9b483e695f8841f3a98ab19175a7fb",
+    "1559d5db3ffd2a5214c4c60a671bdccbf5d421a9a4e8183c7ad2bfc1913e02e0",
+    "e29c99d3ac2ce6735478962de3755eccb1a489c00a6951f87d75d137aa33a35f",
+    "7a5e5793cfb8bb21b7e19fdc341b72c6bd9611e8dd313fe9a0244f79cf99b72a",
+    "aead011214a3e480eb4ca9053948c0e0b413c14d6bc29d3cee1174d3bcf43efb",
+    "3a1727bb4a62bdc4467ee6d9cf2f6a73bb9c93388320e18f74a520a24e16474a",
+    "7399f54b7f6449f0ea4de149f7b3ae4e08275508e3d254661d03fb4d6746b56b",
+    "0ed85c6b3d1839dfcbe218d1e05e121ac5cd3400dc3d1313a2e62ba0e88a6440",
+    "7a29d36dc399cec5b27424a3a9782e6c932de1b5183e319197e7968c9a0ca164",
+    "a9f7467894f7673d4fdcabe849173ac71991e4609ba0dbacae79ad25235a2566",
+    "365cae160f3c6b5049ba8378afa57533b7b1623703d439b362b3c832816f0808",
+    "2fa7f67ab93b41c412cb51afa313cff26752401df0fe0ae0cdb4b5526cf09da1",
+    "be47801ebd0df35574d4f565f1640efe242b2be9afca14bc364e73ec4f0795c4",
+    "df1cc71cc23a38c7f149281569c840fb6f17a5d2825d70d311d4cf9fff440371"
   ],
   "title_hashes": [
-    "0c5411728372ad5fabd8f4728709fa6effd79b4dccf5ff79b4c8e6b8adde139b",
-    "b5112e44d05f06fe784ebfdeeab2a575266015df455d4d83b7b23551eef76a09",
-    "9ea9007ca2f50901eb16b0058dafb676d4ef5de5e71777ce68bd226b1673a2fe",
-    "b2c33ba4272a8dd431691d3455b540cbea798f5a64e5d8ea23415bdb93e38851",
-    "8e07771a13e1b1faf7fee513f0d6e259d450d644fa3a51b051c88d476866aa0e",
-    "1f3103442f45d51d5ea6e87a60216d0bda858eadb2227cb0228a6af37554a559",
-    "453119113b0af1848517f7b61446204b0d6b2ddf3d538e2eb99d35337965c4f6",
-    "a07d9407f5b799e37801efe74ce01c279a6cdaba6ef7ac5236ced2687e24d846",
-    "2adaf953e61f1bc669d82081ac268658b117653b47e2e18b055ea027a425e295",
-    "fec23c69b948257203ec324031e66a60ac25ba05f0d577126c71a0156c53d99c",
-    "e640ea6f7a2e5f1d083a7b24ac3efce9c5f35d24d7b22d44782ab38c194a3069",
     "ca4e6d77716340ca683e241b6580d0e9c39e7398f9beb22dd6b77ce03e9968e6",
     "5d6b6162d04489ee044336bf51751b04f2b31d7348b07ec3c64ed64b5f993cd1",
     "3342528eabc3cb8b9cbb7467c067924be21a0236cd2c42f8d92414a6262c0ec5",
@@ -8002,37 +7991,20 @@
     "12935df11d820a2ca6fd95fa7bd4ecce2656662cb632f34a48d3a27595c6efb2",
     "0805c4d37cdc9b97de38c7ff3e75cbc32d5aca46436fc4d11b3c77fd58a9c64b",
     "676c5da756fb0d521fc166d09a1f737275ad59aea50931ef688145aa0cd7327c",
-    "2e30654517f4e9426a57c41909d417015210b6f740ae1db4feaffa60902de49b"
+    "2e30654517f4e9426a57c41909d417015210b6f740ae1db4feaffa60902de49b",
+    "1f277399911d3a7b0d2ac0389a3139ae76aad48478c69e52696e802a5c6d46ad",
+    "d15ae5df94b819c873ab54b323ba1ae02a6658007c5e9abf3de84c79feb47f76",
+    "0b1ccdb5e427b7ab8d435ccce1ec6171517a7f6c74bab171515eb64ebfa3c7d3",
+    "4d4495c6a904cb91330efe559fd09209518cb9f4189615cb5e5754b83a93c3e9",
+    "bc819a3f8e30797b8a3a9dc240f16cc0c78788fd4896b82c78ad1f2b4689ed5e",
+    "c1662929cf1388cb9b3fd0e08ac8587756b315bea54eb21d53fd846a4d447bfa",
+    "4bfddf56686cf06e4a9ac06902c83e7b5d304f3545e8e5695ecad3b4124f2df3",
+    "26e5cea1427bbb6470f5536ed7f9ea4e96ba327f9799c346d9f7e687fe1a5af9",
+    "9f2bbb6083c86cee9755cc83f514bd077f919a248b28fd77d933fbeb7059c7ab",
+    "03d90ad9698f2af39b7ecb8bde19939cf415e3a303666f5c2c64828ec20ac0ca",
+    "83d1be176fb16408f19b84c26acd3ff3f8fc1e6e6a28481cd5d65e6798c39da5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "US action on China unlikely during Trump's Asia trip - ABC",
-      "title_ko": "트럼프 아시아 순방 중 중국에 대한 미국의 행동 가능성 낮음 - ABC",
-      "url": "https://t.me/breakingmarketnews/178849",
-      "ts": 1795038486
-    },
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Fed's Kashkari: Interest rates absolutely can impact investment levels",
-      "title_ko": "카시카리 연은 총재 \"금리가 투자 수준에 확실히 영향 미쳐\"",
-      "url": "https://t.me/breakingmarketnews/178850",
-      "ts": 1795038488
-    },
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Fed's Kashkari: Elevated inflation has flowed from a series of supply shocks:",
-      "title_ko": "연준의 카슈카리: 일련의 공급 충격으로 인해 인플레이션이 상승",
-      "url": "https://t.me/breakingmarketnews/178852",
-      "ts": 1795038490
-    },
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Fed's Kashkari: Strong level of demand has been a bit surprising, job market resilient",
-      "title_ko": "연준의 카슈카리: 강한 수요 수준은 다소 놀랍고 고용 시장은 탄력적입니다",
-      "url": "https://t.me/breakingmarketnews/178854",
-      "ts": 1795038493
-    },
     {
       "source": "BreakingMarketNews",
       "title_en": "Fed's Kashkari: Markets believe the Fed will have to hike more than Fed officials now expect",
@@ -11504,6 +11476,34 @@
       "title_ko": "김정은 북한 국무위원장, 대학 방문…트럼프와의 회담설 고조",
       "url": "https://www.barrons.com/news/north-korea-s-kim-visits-university-as-speculation-mounts-over-trump-talks-f9fab662?refsec=topics_afp-news",
       "ts": 1795058028
+    },
+    {
+      "source": "매일경제",
+      "title_en": "엔비디아 위기에…MS·오픈AI, 반도체 공급망 다변화 '잰걸음'",
+      "title_ko": "엔비디아 위기에…MS·오픈AI, 반도체 공급망 다변화 '잰걸음'",
+      "url": "https://stock.mk.co.kr/news/view/1202378",
+      "ts": 1795058328
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "시진핑 “아태 협력 위해 연구센터 설립, 2000만달러 지원”",
+      "title_ko": "시진핑 “아태 협력 위해 연구센터 설립, 2000만달러 지원”",
+      "url": "https://biz.chosun.com/international/international_general/2026/11/19/CNCMCQ6AGVGJVGNJUN4DAPJNHU/",
+      "ts": 1795058330
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Afghanistan Is Left With Just One Foreign Bank After Another Lender Exits, Further Limiting Its International Banking Access - NA",
+      "title_ko": "아프가니스탄, 마지막 외국계 은행마저 철수…국제 금융망 고립 심화",
+      "url": "https://t.me/firstsquaw/194095",
+      "ts": 1795058340
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "湖北发行3年期土储专项地方债，规模12.6300亿元，发行利率1.2500%，边际倍数2.44倍，倍数预期1.26；\n\n湖北发行5年期土储专项地方债，规模2.8700亿元，发行利率1.3400%，边际倍数2.09倍，倍数...",
+      "title_ko": "중국 후베이성, 3년물 토지비축 지방채 12.63억 위안 발행 (금리 1.25%) 및 5년물 2.87억 위안 발행 (금리 1.34%)",
+      "url": "https://wallstreetcn.com/livenews/3202320",
+      "ts": 1795058343
     }
   ]
 }
