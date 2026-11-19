@@ -1,24 +1,6 @@
 {
-  "updated_at": 1795071099,
+  "updated_at": 1795071249,
   "id_hashes": [
-    "0fc2b2c7d7be543ca53fb0519faf06a9568608f6db8dacdca3a9a2a987c96b48",
-    "1d08390960b814081cdcb5144e3595af41dfb59a6c016787f41e7da18de8b9b7",
-    "a30b0c5f1f96a1c8607c1f8d41a55ba277dedec6ab2e1e89fb5a03be1ccaa937",
-    "2c9380c2aecb09d0d5382de6c7610c13a3219b9eeffbf6edef7eafdc38166651",
-    "08680bd52d20ed294cfe9b60f53346dcabafdbe7e31c5d82ed57b8992aeda21f",
-    "86ba4ced3ab02bece5c5a5e36c6e3af13250e72a4849e43d2ca54d40a146c2b9",
-    "fe41136b01cfe8454bd04397160739d8a9b3f13469855fe64073af4e2e7ec69e",
-    "66cf5b94217710ab7ca993231c869b17ff7954b5adc8becc167ee66e4ee9e340",
-    "88f0b54b2143b1d921ad18833a604350a81b9b487c0e9c7251342f97ada58629",
-    "2bb58d5ff3c4635e6cc4e1dcd765d115095fd62b20d9987a623649ef49a17b32",
-    "e4a9df75a002555ce1ffb57b091d2dedea1151cd44027151562cacd162c181db",
-    "d9a6ab44a15abb9125ca62f1281a899303bb26f8d5d71aabd112d71dac6e1ea3",
-    "c7bea6aec4f114bb2da935fda48ca448b5e7549309bfb74c84d9ddcf67c4ef5f",
-    "f361d6c0d8f8b3357ae3ba67c7845986b460a88ef1b1de79bd3f77fda20cb9fc",
-    "95c7d193d7f67455857789747f2a47229f943356047d71ce5c218e725d340cc7",
-    "3d94d7c30f85b8575f7c4db24c80c647ef6530fa642aebdb7e2719353aeec26f",
-    "562dd2166bb7571adf57a8a04290cca391dc37737c316ba604cbade8f8aaba19",
-    "12c61180b5831361b0c7f1bd9a42cde42d80ee020003b587b627d8f9cee2cdf7",
     "d07867b078989ab6bd03b945eaca61e12866a403be660cd54fe35ec84b1a8def",
     "0a7619d6dfcc072dcc9acfd50265578fd8cc099d62dfbdc5ce65191ee924b76c",
     "8035291322c7ae7267577bbd0c97386672c949ab6c1282052c9adad229a0fb9c",
@@ -4000,24 +3982,27 @@
     "45e5cc2b82daeef729da6fa10d4e07a6c2fad42df2510ea65cdc5aaeb6c0bc37",
     "f93b94c7239d4211d6ed7b0ddad9ecedacb9dda2701ea68cf9654c9a1c9420e2",
     "176fdc57d468a29ead09a0dec8f1671040480bfe6891e43336c68332025faefc",
-    "75a9caf8ee8e2ccb69b806b5414a4cfd32b5de941daf30435e3481ebbb310410"
+    "75a9caf8ee8e2ccb69b806b5414a4cfd32b5de941daf30435e3481ebbb310410",
+    "9200e2d0a63184bf52775f43e39427bb1e8f4034e086fcafc55f569fd10184da",
+    "8e5e0507721d0ec23f09eb0b937af750524b0b9641096a2cc821e8d8784e5910",
+    "1982ac8d7b1e0857f0d7f11f4ab1ac0f299d621be767d4f36ef334d131e5d462",
+    "83a12d2b4bac8fb824b8240f1f21b75492e432ba747eb8b07064bd1ad3982b79",
+    "5fa8cdcc79507195863e9f2a858f46a9f372c872e6e5ce4ad2ab9902e4f309ab",
+    "afc0dbce82cf8a6c92429fb539403f08a61f7c25d6ab3b1002d51e5966632e4f",
+    "d41d43f8192aaf3e19cbe00e88b367967ad30c976e6477d140b8d157a919ffd9",
+    "87eefa567138c01913f247457adc2c9d5b5205149b4bfcf06dd684ded633b512",
+    "64b883e181b36a0a5ecb7d2e660b7d79f248116400f8828fa5d6b53f0bdc41d0",
+    "fca56a0ad57f1347f7e91449cd1442dca7bfb6000b32eb083df2db7030b0d118",
+    "fac1ebe2ad6c711750e42464a123f9308b46bb870371c03f34a5f24abacff54f",
+    "6dc9cbdf4dbfaa037c9bf46bce1f897c00a98ee06d26c576229fd1958ad8d3bf",
+    "acb3e54bc4f5cd165d8f7ecae060da7546503737d4650c28ff95431f68c209b3",
+    "787e50866ca38c2d9c54ae0786d70dc5a1da25bb6a65b7685add8c4b49c11a9d",
+    "e243b64cefd75561eb57125a72a3c1edb9addd63229ae978a472f470a9298f09",
+    "4ad96653894c197c3962172ffffe7bf93c5be658440c94a79d1ab79dcd98ad03",
+    "ad594feea35ea3bc4b59013841c5fc9a4a06a174711e5cae27ee365777cb91c8",
+    "0da9173d10a6dfbd39ad3e68b5f09384d509de0d5b59674d0cb67d466862c3ee"
   ],
   "title_hashes": [
-    "1761234b7c07f04b7db8f9aca034cf652e4271773c9bfbd002b8c40306cc7dcc",
-    "32ac955b6a17d38800ff54344ac8b7c2ea74e10845ea048e3f20dbce627a1acc",
-    "08230f5ee7605aa883fe16dfba6f5676a6de5944718796d7cf5a9852cefa9f89",
-    "4a39b5e75a02963b497516609b8e141afe95e91613d872a7ebd997a4cfbcde23",
-    "0671e1148d6861c5bc3162bd4ec070dde73a6199b7200f5c33c8a27880e7b797",
-    "f594d3d2b90b4d23fc6e8af9672cb090c005b23a35b729fd1f314dad12666d36",
-    "99446673936d1d15f4d59d327fd7568043df7ea5083896f97876cb92cff12e3c",
-    "5106d616685900a77083ee949e9b1d2f88e74d489df8efdb15bc5a8e35fb4e35",
-    "45594ba009bac238b81d6db70cf0cd43555d128ce9da7b89fa98f34d465b4796",
-    "c2f11166ea03e4cd6e57f9a44d2bbbce17d252b27074f4fe1a0cc8ecc4d78d0d",
-    "c62dc866a639a3da0554b4ceb1878ef6bd3b7fdbca685edcda2ccaba48a204cf",
-    "09e65fbba393aff766ed70110ff904cd2a6cb42c9ad1137140ceff3164c7fa20",
-    "270dde4556ab2dd3e653da2dac65fbc75d4f34326d711ea029cebe591216e535",
-    "9ef6ec0de655d258726074e3ecb088e5592990b5bec06d22b71df7aefcb81831",
-    "a08452451b70a8efca6e4b52ce4dab64fdf32d1f2bb50dd3b0a3b90337c7fc69",
     "591c56f7b4b3ad852a0f09cd336282f7bb7fa5757d82d26d436c9638fdc961b4",
     "373575a637d894179f5c4abef307106c494f99a1b155f25a601c6dd1e4fa8748",
     "af57e57ef31d9c199497b8dd92c660725ee1d2176dcd0daedde5761553377db1",
@@ -8002,30 +7987,24 @@
     "a174d2eb3001a1866836b581df28e32714d97dc465d7672e4f451afc96620163",
     "72961ae99e7c917b8bd423ff294edfc44d973aa47376e9d8e561478319e03158",
     "855b6519f542d0f008caf5a7713e13826842d39ccbd798a983d12145e9f3ded5",
-    "049d6f046206016047a293382b4165a9d3f6fe5afce5764fe5998728c685ecd0"
+    "049d6f046206016047a293382b4165a9d3f6fe5afce5764fe5998728c685ecd0",
+    "6197d2d534d8af42923405a3e67b3c39493e1b7cf0daeb771f04e0d1a63f1da0",
+    "bede74be3fd2b4b984480337306d1201018a281175af15a35d848b5f973f685e",
+    "0636bbcb29c5d1c86c99041b8688c8671be88e2bd17681c18cf1e3ffd8160394",
+    "066734188e7de5ba2684e0aa9a8686ea9faa95571192bed372198ca6136f02c6",
+    "e56171a5ee72f19a9482b319d506b1ba3a8c95d64d65f37aefca04c668e6b62c",
+    "2c20338ca3284fd8253f93c0b3801ce16bd7ba9bb8be9c7f24cc060e2dc478af",
+    "784ddc582e26809ac9681b0a0e8341d54ba6bb01b5c54a2012b4d65123325689",
+    "8da96859da4966791c7fc10e91cbdfa0df4990db4c395328c1cce2a155c85e9a",
+    "5e17311f59936dafa07dd42949180c1ab595a21b572c7812592c339609461fb0",
+    "124880a2e091a84ee78150298164701c41537baffdd84ff36052a12dfca022de",
+    "96f796d45399bfcc523c76cf9dfb7947665e3a8418aae15dfc6439b29192e433",
+    "534502b135a1d8cb255ef913949b629991da7259b0f5a9c4084c99b9cf0eeb3b",
+    "b879eb86abff3c831996f53087f832ee54d1bc4f5cac3c6732f88eb9f8e635e8",
+    "d6442a85e446a4240587572334c29d41f3c5ddab5679dac3a20dc48f6f4e73f1",
+    "4058ce8948c5313c09362ed4d286b10678c093b9b93112948062dd585a885c8e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "Eson Precision sees high double-digit 2027 growth led by new energy",
-      "title_ko": "Eson Precision, 신에너지 주도로 2027년 두 자릿수 높은 성장 전망",
-      "url": "https://www.digitimes.com/news/a20261118PD216/2027-revenue-growth-leo-electronics.html",
-      "ts": 1795046650
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Boston Dynamics to test Atlas humanoid in GlobalFoundries chip plants from early 2027",
-      "title_ko": "Boston Dynamics, 2027년 초부터 GlobalFoundries 칩 공장에서 Atlas 휴머노이드 테스트 예정",
-      "url": "https://www.digitimes.com/news/a20261118VL219/boston-dynamics-globalfoundries-atlas-robot-testing-2027.html",
-      "ts": 1795046654
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "WPG's memory revenue share surges to 58% as LaaS targets cloud supply chains",
-      "title_ko": "LaaS가 클라우드 공급망을 목표로 WPG의 메모리 매출 점유율이 58%로 급증",
-      "url": "https://www.digitimes.com/news/a20261118PD240/revenue-wpg-2026-growth-profit.html",
-      "ts": 1795046659
-    },
     {
       "source": "DigiTimes",
       "title_en": "Baidu's Robin Li warns of AI bubble as computing investment outpaces commercial returns",
@@ -11504,6 +11483,27 @@
       "title_ko": "쿠르스크 지역 주지사, 쿠르스크 시에 대한 우크라이나 드론 공격 보고",
       "url": "https://t.me/firstsquaw/194168",
       "ts": 1795071044
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "회사채 희망금리 산정 '2곳 이상'에서 '전체 채평사'로…금투협 기준 강화 [fn마켓워치]",
+      "title_ko": "회사채 희망금리 산정 '2곳 이상'에서 '전체 채평사'로…금투협 기준 강화 [fn마켓워치]",
+      "url": "https://www.fnnews.com/news/202611191541455276",
+      "ts": 1795071116
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Morgan Stanley Cuts 3i Group's Price Target to 3,014p from 3,390p.",
+      "title_ko": "모건스탠리, 3i 그룹 목표주가 3,390p에서 3,014p로 하향 조정",
+      "url": "https://t.me/firstsquaw/194169",
+      "ts": 1795071119
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "타임X AI, 44억원 유상증자…휴먼데이타에 제3자배정",
+      "title_ko": "타임X AI, 44억원 유상증자…휴먼데이타에 제3자배정",
+      "url": "https://www.yna.co.kr/view/AKR20261119129200008",
+      "ts": 1795071246
     }
   ]
 }
