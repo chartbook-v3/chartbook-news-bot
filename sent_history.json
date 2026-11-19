@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795081163,
+  "updated_at": 1795081332,
   "id_hashes": [
-    "04ef477a10b118c2871d23b956d8052f43331ca0e3ab444db647488971301e02",
-    "5b5ff9ce8fb81e2b744cde9454fe3ced57f84d6232662d7c93680b99534dbc2f",
-    "6b32afe380ab54f73b9a963deb7b102f1e10c4acf1752e7da30bc7437be61681",
-    "ee11c55b6332e6a85730a1f7674b652a6bbae24e093f115ae99e38ff6b3e8d69",
-    "c97816214ff4daf893e7f39bdce00e7d96bc9bcc29cd6e20245efdb4c09eae9b",
-    "0354cc014e7f89e58d969bdab3dd83d3aa2aacfb06cd49391255d432b0170327",
-    "ce9342116ff841a54ff54b4c35f59421f41e18aab6af547a6b1d5a9b0b99eef9",
-    "1f7a69a64dd4b815ec129de7099e8a4565d09e557f41a30a86800bd9e2a53daa",
     "f8285445d45737d0f7e899f94db99db87134d62fd3597bfd7bc4f73d474eb70f",
     "3d19cb23cac9e5f86b8bd4ca634f1b222a1191ea49529e18d94aa7b2e972a60a",
     "6321e669bd4db0ca2a35d1d9f3b0308956a0dae333edc10fe7d06fe331f9f19c",
@@ -4000,15 +3992,17 @@
     "82537eeab122f6c44a6b1647e641dbe869e57960e7e02c4d2054d204385b1801",
     "d673861835d19fe1e5d758aaeb250078b0c1693724b877552078663f0b0335d6",
     "2461d327ce52fcfa40d2c839800d969de687c125438531d487fb95b4a0bee6e2",
-    "a4a9a45ec4fb8f5e603e3fabf85b8634e5a03d4403375b98729d4b6d381658ef"
+    "a4a9a45ec4fb8f5e603e3fabf85b8634e5a03d4403375b98729d4b6d381658ef",
+    "38ee5add642925eb28902e44c2b983570f010cc64d8deca729f84118669806b0",
+    "ee04fd4d676142b961725370e8e73edd4c28cbcb5d54409c00ee448431486c78",
+    "6fcf4fc5fcb009bead8e66e34944cc9bcde736ad8d416c8ade4b073f2babcfe6",
+    "abe576cec53e6ca06b09643415b839da8041afa67ce678f5aea8a8bf5abc2ae3",
+    "dba614cbe921438efe9682aa6b755b295d882270e50f618e8e1f19019b94c796",
+    "e23ed01ebc767531148e3d73212f65dd8c0b655f305cd1d2f7880641fbedaccb",
+    "cad570fa216f6b927cd3bd4893f339d3b98775bf9cb41842db44d2d4889078b8",
+    "72949d955ded9c56deef4e98b3c4ade7e0b60fef86ff840bb207e56cb8fc335c"
   ],
   "title_hashes": [
-    "e7e0cccc23655a5207529cd1e2180ea41aafc1a25fd61e71908a83435eb1dc22",
-    "8cae9c6756a8bca6da3fdeccee9516bfd65643ef8ce9d4c79d25f42b9b0d090d",
-    "1f12f34e4c628e48318439d51156cb9d89645a904e39a09a87fd1ff7d38aff5e",
-    "e5b9f8a177a546e0e72ca02367917be04d0829810ca352085d89f0201c291f20",
-    "aa521d3ca2544d06e43bbfdd21967c38eb527166e208dde5801199d6475aa81b",
-    "bb53f4a0a589fbe1a48ff096c150e4c25aed46218e7bb3c87f613ed93b2f41c6",
     "9a161f0646acc4990bd39fbaa13e686d00dcd47bffdf5e0f9137856234a713f2",
     "4a69891af185ab5f757893e7933d899ac7695593adfdb51def13d9539107c93f",
     "27815fe7bee61fc3d0fd781f7b72e6a335fbc4b8740de75156d45fdecd412442",
@@ -8002,16 +7996,15 @@
     "91871ab9a00bd2b686a6cbe6d72b70f3a4ee2e6cfa985cbbf526448ed4b2486e",
     "55fdb2b3731b50a2792bc5f04a60e9c19720b4f730c4a043fa0a719ce1143f64",
     "8fb383c78fa810b3bdaf92af3bd85afc959446e88ee0f022f4231bceb37ec1f9",
-    "ce07d63d4219b8ece75ea150184eb7299cca85f317cb205c8544946062c6a493"
+    "ce07d63d4219b8ece75ea150184eb7299cca85f317cb205c8544946062c6a493",
+    "e9a7a3a9ba5632b5e9054633c58403953e02bcc106f547867540cb6610742255",
+    "4f56f6244051230b0e07f2be794e2fb5dd032a24948acf28840aab823c453b2d",
+    "13d459831fb749e163a3e222712c4bbf258385f4ebf5c902059a5f93f8a35e4e",
+    "1d3a3b746a8343373b03c5fd2780421220fa82b20015ca89ebead48873f3166a",
+    "415259eb9d94dd0edf9219875b47c97df0fa74b24e9dc435e68bb857e184d6c7",
+    "8bb37fee66ff0fc528d3f408cd0c85ae2725688e5892ac2b086d68b3271229aa"
   ],
   "recent_sent_articles": [
-    {
-      "source": "StreetInsider",
-      "title_en": "Stocks rise after Anthropic IPO pricing sets stage for blockbuster debut",
-      "title_ko": "앤스로픽 IPO 공모가 확정, 대규모 데뷔 기대감에 증시 상승",
-      "url": "https://www.streetinsider.com/Reuters/Stocks+rise+after+Anthropic+IPO+pricing+sets+stage+for+blockbuster+debut/27371674.html",
-      "ts": 1795053322
-    },
     {
       "source": "FinancialJuice",
       "title_en": "BoJ governor Ueda: reduced presence in JGB market lets long-term rates reflect market views on economy, prices, fiscal and monetary policies",
@@ -11504,6 +11497,13 @@
       "title_ko": "사우디아라비아 \"카미스 무샤이트 지역 위험 상황 종료\"",
       "url": "https://t.me/firstsquaw/194219",
       "ts": 1795081155
+    },
+    {
+      "source": "Barron's",
+      "title_en": "BRRK | Bluerock Acquisition Corp. II Cl. A Stock Overview (U.S.: Nasdaq)",
+      "title_ko": "블루록 애퀴지션(BRRK), 나스닥 상장 종목 개요 및 현황",
+      "url": "https://www.barrons.com/market-data/stocks/brrk",
+      "ts": 1795081331
     }
   ]
 }
