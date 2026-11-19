@@ -1,24 +1,6 @@
 {
-  "updated_at": 1795114107,
+  "updated_at": 1795114270,
   "id_hashes": [
-    "ec0c51ca973d5732a0cfcae2d423296ac1cb935c0062bf862611fd4d2277a747",
-    "404e12da14583abe0de8ab0d9f4c89e404cb3e175ffe8c13242e59282a074a49",
-    "a24353888b5865b0631b809c4036b64d5fe1fe4308982cf8aa1daee5e87fe4ba",
-    "69578b3d1ed6695785c2716f4417cc046d3fdb2976cedbc26c5c3fe375388c41",
-    "c91621bc12bf2e7c16a7a3ad1c7106b9e9cf0ea3158478d004605569e86fa2b2",
-    "5075a6dac9e42b3185d928b02743ff055b66a438d1e37db3f7ae2648d65693e3",
-    "fca8866c0a86820730898b10be2b25f75782183290d9e5fc727764409cbfa174",
-    "322b37b055e00664568525af5dfa55bd004e17c2b6ff988c0887661adee99c76",
-    "d08069d66bffce207c339166f3cfbd76262fb11a6d390df1a4f0fbbe5ff6aea8",
-    "fd5055678822b4c89292538372e0e37d47acfd0924bed67dfac84b9bd134be18",
-    "46dd2aad9804935cf1d781074854c7d8e6ee25104a8ceb2c6e8178dd86d037b1",
-    "36ce7647c6d9940371c53bfc1237136004ee0ebac2c24d34a2406c13a330f2fb",
-    "d7aa0d2ab628c2d1ef3d90b854c918af00b69883c419b3929478f0e54c3480ec",
-    "d95f3b8eeb7015a9e6cd552c30062064f5a33cc3b35b00a5ce4de5f34eea9ac9",
-    "00a5b1220b529e31b5532dee70fb1f78258c127f679f59c188fb7cb0abdce520",
-    "cc7dd65d30939c325fac3ccc2a458081c2e733e9b314f1bfaae18b291ebb3657",
-    "93d2197be737f2fc4e05eda5be6a30b765ae0083123451f3d9d4654fd234d5ca",
-    "5782b934df830109e37eeccdfa0c381155df0fd95f0c7df8430c98dae560d1c3",
     "eaba660e1e97f74743fac0b74d1497d07717bbb4d7d2458bfd0109d76fd66bd6",
     "c443bc675b9cb60fe8f53ea68897634652b78d964f208f9ad7cdb05560d0e336",
     "713ca69298da5917246783913ec73aa1432410452cdcfc70aade5e13b2fb7ee9",
@@ -4000,23 +3982,27 @@
     "bab25424ada20d6a926cb1751b3c3fca9dac451fecfe85b8f205622a38e1b42c",
     "af5a7dfae962f08f28e6435118b4854541f4f0c4b74acbca4fdb09b4270c907d",
     "ebf2f3045604352a9e7297c8b0e0ee66ecd3d535b2b1366503074994a972ea77",
-    "9dacdcb9805fff9034a848c7c20337b5046c6720319ed866e5aad578277fd1d9"
+    "9dacdcb9805fff9034a848c7c20337b5046c6720319ed866e5aad578277fd1d9",
+    "77fbae0091d002881eb68d6649879f5c6f897f6d73a0dec29ead6d1dd890ec4b",
+    "953d1594f6580bd4103c839e9fe628d9170227c39d0e9b64a550d20b24d39548",
+    "c31a0b6f167c9497e63436bcaceb01df1311aaddbbef275aec61b7b946194b39",
+    "3d99bcdd36701358cdaf5f540a6d802c682cc7d794a191227c018c9d9dd42732",
+    "d0a65b32ce152e47bbdf4bfb7befaeee5c49e2c518bd197e69184d5fdb872cc0",
+    "67bbafeb759741456b03352c91582d38265542c603d0e574fcb49dad29f4b794",
+    "9bfa33abc9d7d7dea7f22335434e2d23fd9164a43c08f33f3a1b5ead781c7c57",
+    "8a69a998863b28f5ff2799e15e57871d29ccd4f3e605bbd10c38728d05e3637a",
+    "3fa4162e30c4a0d4e34c368c71eb4ea457e68178fc8be9460ddc060535c31195",
+    "53ac5ca96cee06fbb0f4f5b8ab7fa059623975a9c30043e764e2b57b37f04c10",
+    "dd4a540e8217b76409233dc9947d7c01f4a6cb1351bb660ed2dd23eebecdfcb8",
+    "10c5910479808f1ebbd750898480e8de6702b63f31fc5ac1cfdb50f78c5b8742",
+    "6cbc63925d0db0b844b612cbb138aebaee8e8b151270fa25b68157470c0cc038",
+    "32c77d2c8e0785abca5327f7234e0ae940c3a95d9b5517224162397db99b52af",
+    "76025f6d8ea9ec4ad274fdc1320f2220b4223ca0508dc810874db24c04af0c37",
+    "054b5f76e9d98587936b2a72e8184ac63c3be8ec18ff1455e38e21941a1306d0",
+    "d881ce2ff845133880e3169a9705636ba3581e68e64cbed4452d5d276f927d6a",
+    "0b5317eb3457907f48896a2a91dd493c2cb3dae99469fe13e006e4a3e642dc61"
   ],
   "title_hashes": [
-    "04a0cfbe3c8b4403e4141395fdefbc4e21910a84c6c1121cdfb2c9cc79ee5a59",
-    "ddb0d14230429843388c58f44469c6710be203c96228c0041e471749db936aff",
-    "379c8ed9cf84558101e60a35b53b49d29838ed7ad7db3ec288cfb87cd8300668",
-    "7b41d683597688d7391d94fa29f6054d8ce1194c53c845507f0544e6c451f948",
-    "08671a4187faaada21623f08f0fcd263540f852acf1a761d032cb8ec4e2bb6c8",
-    "8195b9b46766088e3d26bbfcabceeb4eb5fab1ef222c936843be0e2062234f55",
-    "13d6c1b980229da6d5ea682b82441a18a2585c9bccd851dd9edf2a1047f608f7",
-    "f3186056c73d45b24aec7a0409c8375b57c1df8a29e02cffaa27d7aac5094d04",
-    "275bfc50ca692658712851e351bd21cd6bebb36a74863fb2d1e4a59fed9ba34d",
-    "08076ad490de55f80efc3ffc5f6d077cff28d338aaafa7c5efdc8def94e33bda",
-    "45aacb40d70dae16691b79f35c5c3dbb342b978d53f53688daf670a725670dd0",
-    "f007012bf09bd40b82737bdc1f9332179ad2d32f1ca7a2667546aa35e7720c2b",
-    "30d9512b7c8b6435bbc334bbb308408e36999155d7ccec387b3aebffb25fcc79",
-    "cd39b6b3684d9ae0106a074271e752e8bcb55100f2cecd6828c4b5bc23d02509",
     "7ad3ca77cadaf8afba731d38f12fc511af363336475565a104134b396df68ca2",
     "996876a861834a09e274f0efc974d602ab81809ef0689af5b19b1851c0bfd3a0",
     "2eb0d5e7a1aade36e231cbad2ce0b0cbf0af90a6f23309f095ac491c72d06a33",
@@ -8002,23 +7988,23 @@
     "c61dfc0c5e4736c7195dcb925606c11427a9d7531a1c52c3ce307ba3b9fc2363",
     "102601c660c452e633af33a804fcbc42b42fc5d545d432c9f4b60a3949fffd9f",
     "63f7f4db13cdda4ad5cd807ed6d1f2875172dec16469e62e3a0ae7d250576ca5",
-    "b374a70280f3ea95ce088a1c043330f8d58a5edca4795bc78642506d4efa7c6a"
+    "b374a70280f3ea95ce088a1c043330f8d58a5edca4795bc78642506d4efa7c6a",
+    "2b8676e61c94015b2375800e45b6a6d1597773e2658fc721ab91dbe6f96bb3d3",
+    "c96ef0734ae1f75923f4e863e45fb94e3d216ddd9c0345fec688a1c152f4c3da",
+    "28319c2e2af1c1457155ce895959ffc7c28a5353e7fa289015a46bcafc5e8bbb",
+    "77bafe54ac5738773253d25a3e39855e274207914cc03f0204355bfbcca60a13",
+    "a7496e957322b8d7fdad0898efad0c91c2f17f83aa5242bb18d002f3c3ef1f3e",
+    "310ea20cc1fbdae80e17c2afc71c1b14d32b2c643db00bf2a9150b012e2ec4d7",
+    "e749c9dff6c1cea504654e63d42b0cab55db10d33a5b9dacda83128c3d276659",
+    "6477e9d73fa2c720a9b45e8f9ce46663c0062e754d3386cadbbff466b5e4a238",
+    "9506f5c072de8c9f112de81f951f3fba2ccd73ba20bd17751cfc4311d020567b",
+    "ebe620b2b144eeeaa7e91f33950474b71193a2a9edf8ac3763354ff41e0d3c97",
+    "e611cc1d90e2465c361eaadd29b36c30d76d3441f629bdeaab128bb2a59af190",
+    "930e46af81f91c06dcea7fb666614191ebb7293ac81d809ab6ba1caddd9811a9",
+    "7d67cefae6c0912c8f9933c8e3949f5e9e634a1344381401cf06df3240ee56be",
+    "c74d7333ecd0e0031373f54a009114c24a29e6292c9c91c12f2e8168cb6e6e4b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "US Energy Secretary Wright: US mulls ramping up diesel, oil exports to Europe.",
-      "title_ko": "라이트 미 에너지부 장관 \"미국, 유럽향 디젤·원유 수출 확대 검토\"",
-      "url": "https://www.financialjuice.com/News/9859759/US-Energy-Secretary-Wright-US-mulls-ramping-up-diesel-oil-exports-to-Europe.aspx?xy=rss",
-      "ts": 1795087951
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Accenture launches plan to cut 950 Meta-linked jobs in Portugal",
-      "title_ko": "액센츄어, 포르투갈 내 메타 관련 인력 950명 감원 착수",
-      "url": "https://www.reuters.com/business/world-at-work/accenture-launches-plan-cut-950-meta-linked-jobs-portugal-2026-11-19/",
-      "ts": 1795088014
-    },
     {
       "source": "StreetInsider",
       "title_en": "Form 8-K COHERENT CORP. For: Nov 18",
@@ -11504,6 +11490,20 @@
       "title_ko": "딜 – 블랙 프라이데이 위크가 시작되었습니다: MacBook Neo, M6 Pro $150 할인, PROLED XDR, Beats 360 $100 할인 등",
       "url": "https://9to5mac.com/2026/11/19/black-friday-week-deals-macbook-neo-m6-pro-proled/",
       "ts": 1795114042
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Foot Locker's Jordan shortfall leads to downgrade at Dick's Sporting Goods",
+      "title_ko": "Foot Locker의 Jordan 부족으로 Dick's Sporting Goods의 등급이 하향 조정됨",
+      "url": "https://seekingalpha.com/news/4674843-foot-lockers-jordan-shortfall-leads-to-downgrade-at-dicks-sporting-goods?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795114205
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "NSCALE'S DEAL WITH BYTEDANCE COMES UNDER SCRUTINY OVER US CHIP CURBS",
+      "title_ko": "NSCALE과 BYTEDANCE의 거래가 미국 칩 커브에 대한 조사를 받고 있어",
+      "url": "https://t.me/firstsquaw/194294",
+      "ts": 1795114269
     }
   ]
 }
