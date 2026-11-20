@@ -1,24 +1,6 @@
 {
-  "updated_at": 1795183604,
+  "updated_at": 1795183782,
   "id_hashes": [
-    "07e6f394fdb445aa8c8d9925b58bbdbd3a61ae0dc36eeb22b5c59edf94d5d3f4",
-    "a7cdb06f69595b00e36cc8d0406217da16311c17c430d236cfa813382e67f466",
-    "47c933c25a2b5ed1b2ad1e0f55df280a86330413b155fe1e243a75e233fcb081",
-    "90c02017e2dddae5bd0aa5de8e00f7a13a82059edf93bc80c5229a9e6d6bc079",
-    "9b53f11b867246ba0af94658946fbf831cc48f2679508088209a75bca7b4cc10",
-    "56adf59acd2210bfc65c765528f2dee66521732a1615064b5ba05a252987c450",
-    "c75f0eb2d69e1d4a833f44cb2e310a48d2908a99967f719075f514a61dc35473",
-    "796c7fb24793916a940623691f0608e8c2c618b246ff46268e6a77e5b458e001",
-    "a9614431d037669a66f99241ab5176b2a824ba71c8bd4d540b4c87bd920f41fa",
-    "b182ffbff1fa8c0154e80c54ae8e3cfc82c5b386821ffd340b5e7edcc58f8792",
-    "98c71bb10e1b4c1e3cf39a8d6976701fd45ebc15c54be839dd9690fc571d809e",
-    "bd6bd2a3e67880aacb63e18ac85bfe250e958cddce744e38ee091330046ab0c2",
-    "321ef3ba14d70bf294c259da14f92f053324b3aa3fa1964cbd686a3c8bae2635",
-    "ce7134c4bf6f6b071a7d1819f0375e649019388f66fe22c0a4a992da87ccc47d",
-    "8e092017919a236fb634e4f50a31d0701fcf3de051fa12d6077b732727cf4c5c",
-    "c6d478ab2994bd76d916a5fed9f58c883c38d28fb4d0b979f30a9d6ceb3473c5",
-    "f7cb9ddd8a832e18dfd78727eb0eec831352c71add03a3fc6e3edd442d318ff9",
-    "4192d7802aff9ceb0a62652cc56d6f7af51395c313da3f587c2d027369ad956a",
     "e27c4f94eb569b194b15bc49ab0c1ce2386f1db0442ea0be0a9cd822c3e8708f",
     "989aa5f901afd98d4215234b16642b3f3ff049d20e55182207adef066780ea73",
     "d8cf02b49818458c89aac860c26995561c10b4c6bd9e7f5c081f9473b42aaa1b",
@@ -4000,21 +3982,27 @@
     "3743d47f4708314bdf030c0b07433b9d876df79e163d98a072cbc4e1647d17fe",
     "f8ade7d3fc36c3850e420db6a9430a79a477458e21c4db138925cd05bd2d26fe",
     "ddcc4b8b613e533f299b4dbe0529fe87b9deaaf9edf8ff89cf578303466a1027",
-    "ce7c37cec489c7c50a356697bfb900034220566211d938283722fd6874c28f7f"
+    "ce7c37cec489c7c50a356697bfb900034220566211d938283722fd6874c28f7f",
+    "05d361a2e083c154aa0e03c7cbef5ca55ba9c8b02de633faff4482d7b9fbb245",
+    "689f1d0454a9657130916ac5400783adf165fbe08b776d96686100cbfd8f00df",
+    "8378be56d3e35f2024cb6eb5655bda18ffb9016345a0f59fe3c4bb884d100587",
+    "3ec951807224b0b75ffd31e621afe91239489546f438f17bb30ebad45b1e3684",
+    "6f0017b299ff5f115e1c238b99073bc24e556fca7c82f6c83e15fae0a22aa82f",
+    "57bd1ced3daa697570b4633db602e1df4913805e18613eb8f9f1cc0128ae36d3",
+    "c0e997ce5f2eca87f2b34d11d736d99b60db2e80c4d06ba50529e7c1861a0dcc",
+    "c8cf43f9661c213dbd6f24570e437cfcba15c99254221c7dc4d192dfb4c22d9d",
+    "fb48667e12c1eccdb2f98c310d1db8c9128d242fb605012bad15628a222477be",
+    "376fcf0e755714724c3e0dd84e038152846889ccdc095fca35aff5e18d1ede4b",
+    "6aa49e6a53ef254dc8e5f45189ddf42dfe606093a2b10f68bff4d74d27f75b68",
+    "2a5a4884d71695f59786fb202b69e325a01df4c69c0514f7d17bac09de2a0c2a",
+    "17fe4153eabb099a274c93a73128ff78c7501031d440b614ea70cbd6d6f78650",
+    "2b79f4f0ad5f5815e3b86166627498749df0f65c099f8515b928fa7c7b0ddb5d",
+    "eaef04927ee7ace6f4e7d7d464d95b1b0df64e26a1bad3a818355c9495d4fb93",
+    "a7db9d8bd0f0d06d2b0ca31599ac649bbfdb010ccaba5af3cfc5dbdd3dd477df",
+    "41010099fa7c22c64ce666c3711356b21f2da5a9efdc4b51c5eb5ec3bf2fc2ac",
+    "ea73c84b86ab93233b54c9b96e90fec74839194a6230fc8bdfbe4760a199c080"
   ],
   "title_hashes": [
-    "666542bd1859c4ceef23fc385db65f372bf0ce89bdc4feb56fe0fcb8dc0022f3",
-    "7136bc1a950f80395e4c7393cdb02e75e967f69f1f0280f8ccb566716f7c0dfd",
-    "77d964a8958fd54c454f2a18aa5fa224e2bab98c5eacd06a71b707f87bb7cc3c",
-    "191c074951d48bbe3c33186db21f7953f7e6121cf61b7bbb2f68a230a9a93746",
-    "025b4a38d99c9f08aeaa393f3962bf4ee23dc15cc448da6e39d50c07ca950f63",
-    "01135b14dddbdce9b9b4552181811f1659cd0abfea2c8bf3fb781f9621f5b0dc",
-    "064bf97e060634a88d0b80e27bb6553e480841acf465b51e7f1417f342a53949",
-    "f19f47e0a5aec68e822c89ea48a06ca9946712234f1ae1b9feceeab8a6ef3d51",
-    "bd8fbdb197091ea4f332c2dc7f47fe4a276d5a0004fe9378fedac0566500675c",
-    "f6d27dffb957d6323e0f1cbe7aed6c834eb6ae4be9d3ec354ac4a8049891fc0e",
-    "ac7d480a9e904a3503eb1a5b535e68a9965321cd1b229a4f6fce283093766e02",
-    "57301cb0365dccc314669350874a9944e9159ad2a64911d2a3e6d6dc68c9e884",
     "c6caa9acf614da1e9ae787c511be2201feeca8c500033cf2acbbd23dd47dd036",
     "5b0b82742b8cb652b83447ca6e6e7bfd2fe41e7b39c06f6bc84038373e42ccfe",
     "7b4834398895a967cfd8c999f2edd366539af9982ceb37a0553eb4c8382e4d8e",
@@ -8002,44 +7990,21 @@
     "3a44ab656f155b02ddb0514b2cc4d5e8bfd832c81f0deacc1a4e68fbee57aa84",
     "057f11791a5cd6bb13c6cd0ecdc410ef3fd519959b174b1a616f745be14c859f",
     "8d19f4e13675b90a01d8aa297f5373543c850307640b13c27416d74fbf810381",
-    "fc79cba316775bfd7bea1052ab93f4bcee7b0bab3b01bf65c87cded9d048d5c5"
+    "fc79cba316775bfd7bea1052ab93f4bcee7b0bab3b01bf65c87cded9d048d5c5",
+    "ad890f84e1fc479a4bcbb221f790a4fc8fdbb7f429a62061fcfe3c580dd21dee",
+    "44440151c501d9834af3bcfb46f64f91f799e282985b225fe22c3165e9992dcf",
+    "b5f15f3c4f3a4b7999673351a364e9ec8c842e28f8c4fe8ece77834b2219d235",
+    "bce86b01ac7d6ebda6ff2373545e031a589c713906a8a688feff8b9128a68526",
+    "1c573785e59558ea7a3dbefe94b0e3d236c19790db6d3c9ef54d7f29106f98ef",
+    "4a3c8489c52d05999e0961a1ffa3865ca4e67a71b756570222a0780d365882c1",
+    "c8792825896b0c6e713b22bc058639f2e7f75d5f19defaa1b79b36434d112c97",
+    "951a7336f0470e8fabe1a59734fec7e47f47da925053104c8712bff189cdda28",
+    "8ba39c22002a5e04f9e3591e64d5ed7a701c7c6d4c3c098440db65c1817c7037",
+    "3728b13d7c6143f8c0003b540370efc34625149bb655d7963961b96290bcd0b2",
+    "98666f1c80ce0271510b12458a761b4ac716a317499b9a8a1715141bd564c4b1",
+    "5c124b2cc5e1eff0bc8c2ceba35c169b826492c44c96771467f644aab33a6ad0"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "ARK Invest's Cathie Wood on Anthropic, Nvidia",
-      "title_ko": "아크인베스트 캐시 우드, 앤스로픽 및 엔비디아 투자 견해 밝혀",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-20/ark-invest-s-cathie-wood-on-anthropic-nvidia-video",
-      "ts": 1795149000
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "코스피 4%대 급락·대외금리 내림세…국고 3년 4.9bp↓",
-      "title_ko": "코스피 4%대 급락·대외금리 내림세…국고 3년 4.9bp↓",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445761",
-      "ts": 1795149027
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Piper Sandler Raises Walmart Price Target to $138 From $128",
-      "title_ko": "파이퍼 샌들러(Piper Sandler), 월마트 목표 가격을 128달러에서 138달러로 인상",
-      "url": "https://t.me/firstsquaw/194485",
-      "ts": 1795149089
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Nvidia Stock Is Still a Buy After CEO Jensen Huang’s Departure",
-      "title_ko": "엔비디아 주식은 Jensen Huang CEO가 떠난 후에도 여전히 매수세를 유지하고 있어",
-      "url": "https://www.barrons.com/articles/buy-nvidia-stock-jensen-huang-ee276ed1",
-      "ts": 1795149156
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Ballistic missile strikes damage multiple bridges in Ukraine's Kyiv: mayor",
-      "title_ko": "우크라이나 키이우 탄도미사일 공습에 교량 다수 파손: 시장 발언",
-      "url": "https://www.financialjuice.com/News/9861157/Ballistic-missile-strikes-damage-multiple-bridges-in-Ukraines-Kyiv-mayor.aspx?xy=rss",
-      "ts": 1795149240
-    },
     {
       "source": "Benzinga",
       "title_en": "Jensen Huang Spy Scandal Is Now an Alibaba Problem: Investors File Class Action Lawsuit",
@@ -11504,6 +11469,41 @@
       "title_ko": "대한광통신 주가전망, 흑자 전환과 코스닥150 편입이 불러온 변화",
       "url": "https://www.blogchart.co.kr/post/f2gaf9j9",
       "ts": 1795183479
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "CITI WARNS U.S. INTEREST RATES ARE UNSUSTAINABLY HIGH, SEES FED CUTS IN 2027",
+      "title_ko": "씨티 \"미국 금리 현 수준 유지 불가…연준, 2027년 금리 인하 전망\"",
+      "url": "https://t.me/marketfeed/1082575",
+      "ts": 1795183631
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Ross Stores falls after muted holiday-quarter outlook",
+      "title_ko": "로스 스토어스, 연말 분기 실적 전망 부진에 주가 하락",
+      "url": "https://www.reuters.com/business/retail-consumer/ross-stores-falls-after-muted-holiday-quarter-outlook-2026-11-20/",
+      "ts": 1795183761
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Walmart Analysts Raise Their Forecasts Following Strong Q3 Earnings",
+      "title_ko": "월마트 분석가들은 강력한 3분기 실적에 따라 전망을 높였습니다",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/63470182/walmart-analysts-raise-their-forecasts-following-strong-q3-earnings",
+      "ts": 1795183770
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Why Nebius Stock Is Falling Today Despite Strong AI Cloud Demand?",
+      "title_ko": "강력한 AI 클라우드 수요에도 불구하고 Nebius 주식이 오늘 하락하는 이유는 무엇입니까?",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63470229/why-nebius-stock-is-falling-today-despite-strong-ai-cloud-demand",
+      "ts": 1795183778
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Nvidia’s financing risks could keep AI chip stocks under pressure, analyst says",
+      "title_ko": "엔비디아 자금 조달 리스크, AI 반도체주 하방 압력 지속 전망",
+      "url": "https://www.streetinsider.com/General+News/Nvidia%E2%80%99s+financing+risks+could+keep+AI+chip+stocks+under+pressure%2C+analyst+says/27379080.html",
+      "ts": 1795183781
     }
   ]
 }
