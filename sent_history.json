@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795192606,
+  "updated_at": 1795192759,
   "id_hashes": [
-    "2b5c080b5c27ccc2d97fa53c942cd3485e73ca7f3bbf1a184425618925be9cdd",
-    "792a453355c713524ba8e8207839dcca196f98a7760a54a52fe50f46df0c9d8c",
-    "33ee032f80ddf67e89da2502ba28c3355a8b0ff62c43eae82e7554a1cae0c1e7",
-    "cf211275cd68707eab859714d6dd0975d72afb18022503264bce381f530928e3",
-    "430dda90075ea199d0f8d89b69e1e3f328466e8122687cbedcd92da78470cc95",
-    "ac00563abb28067f5bccb36fd2a38725e6d7f49135b19535f2a8d9c55f47468b",
-    "0242cbac9db5dbd3715e5410a64c73f66ed654095d548b8624db44f0123016df",
-    "d7358404dd95398562eb649941be08d59665765b3d923d801a8430c55ccdfeb3",
-    "1fd55060e71432866f57ae7cbb1d209ae40d16d5571d1bf80e0571b6a2c5bd08",
-    "5cdb1c3fe0234cd5587cbea9c54dd78e7dc252c057a8601653ed668187ba21a7",
-    "421e58d0290d7e7d3d7efdfb5e8d8d3068d720290e26fca86b332620371adf10",
-    "f8b9249d2688fbc5788b815e8e7531d1283f37b79c96308aa3fdc0578b24d489",
-    "1f30ebb934d6d4b2aeb8d53b5a1c6fbf7bd7313de389d205a0c5738f8f4a8ee2",
-    "39390927d2004a7a5dd6cabd4d23d28540911082303e4301b533187154164217",
     "de8e9bf34741aa7e76d310760d68037be4004d33e6d028a414768b042bf95760",
     "4b29ac468e68d71c9f162b2aa56f911b9804993434bff29414ae3e735dab826b",
     "5a8e1266091dc95c79ecdcd286eb0ea913bbde1b675c34bc64df3b16eb18935e",
@@ -4000,20 +3986,23 @@
     "34a6b01f6bec29a7bfb49f91e8615d8b84fb3ae0d8bb8c1acc24a0463c9cb312",
     "44f47ae79007d726b277e2ba5707b34fb1ea178666865a4a41f0bd7753c8fcc2",
     "c6a8042d39bfca4555ae5df80b6ddca6bddeece4cb2ba3d7083031ea0bd1c01a",
-    "ecf1aba50a473f995cde19007620cbbc5c35d4a85f1defeb846486f6dc7806d8"
+    "ecf1aba50a473f995cde19007620cbbc5c35d4a85f1defeb846486f6dc7806d8",
+    "fb67acf07d53ac7ebe3710629ad7d88e1305a9e2f9b4af0f112cd2a2ae805f39",
+    "454205febea489a6c68102628759b3729df9a2b5c1915f6fa51240f325ecc39b",
+    "362a0d5fcfad8b62307e43af2fc797df098563aea0594b689b3420e7a6e60d10",
+    "b9b7818a7e710ec03aaf063b6a52b73977f1065beef986329f9d315e9f8587a9",
+    "88954a1804e9113dc6d254ce3b525f1576864370499f4860691102e5a78ec3a6",
+    "0f7df80f8598d9efff1937ce7e650050ff5ea8a8ddadc87159998793897da61e",
+    "c51c0e01436cf6a4a17fc8fa0ca57cc2d893ec2147643e8a61eccffffaa81900",
+    "76bf42d4c48f285e0d7b6a58ba85347261dc1378537e617d5b29c3dc1b8ec693",
+    "a4ef1de995743af6c747a23f684dda8455541c113157c40874aad5cfe47fd9e1",
+    "058ec15cf566bf226b5cb874b6d06006a3c073630dac54f45c59a95bc837ab24",
+    "9a82d37078783850b6a44451cef695bba06a56ee78a1d3042f3c1fbfbe8487c3",
+    "a7751535a3fd2f0fe2ac0ff27871c31b5b7bfbde685f4cdf50eb93821fbda3d9",
+    "66cff543970b48b0a33afbae2850cecdccf62ac767696abcaa2a5a5df0802f50",
+    "c80331a262570592ec1171c8e47139069c5c761f283899e4697ceaa282b13e48"
   ],
   "title_hashes": [
-    "feb6c7fdb285e8e68b8a668166654457edf9d829cff047294ea04d7ab689cd6b",
-    "661a607da267257cdaffe0da75b03f2f99276167455161cd05be50ef38bd7205",
-    "539a5a384ded3c284a7250f40a8f5fa5a7c33e56b5af7dd3eac091bf792ad8f6",
-    "08bfd724dc569b52ea492d55bf6309dc5f7ff2dff9254b491e636826711e28f3",
-    "2854d616ad8b9b5b2d868cb98496965b09d9e2d5f0282b576a66d7fc086ce245",
-    "511d675ce09a86a678ecc29ead3ccb7476f7dd0411ea6919d4fbb9ad99c5fbeb",
-    "81b78d19b167c3dfd20c5f69282b6535ed247da8de98cf2a396705ef2b121e54",
-    "cbaa5b5cb7e9ea5753e8fa1cfadcd0606d9d6fe2d42e08b89f2cf6d02b29de75",
-    "071d34299f3856d2ee9f4cac7c6f6d8384c17706bc5853ee7e9020616f10dc03",
-    "d6ae0298ec79f793056ae6174840e5b6b58ac150dd4358fd75c0e160c5988921",
-    "3ce8b8a23ac2efc725c6fbc45a865e96bfc1d88542706d2dc45c62b57a01be18",
     "5f0c5e3929479a148ec466d66b6ad5e76dd4df012f97ae35d4dc907b62ca8bd3",
     "5e211f53c5a02b0b3356e502ebabc4042cfb2411fc0ea337127548875d53d84d",
     "6b9f8c50c1c5928c98010ee136bdbc2b7adaa63f5ca10e7f54def4fba71976f3",
@@ -8002,37 +7991,20 @@
     "7434fb0bef294c281152020aedff342feb29785da000f586dd058e7a8faf2cd6",
     "661f55909183aa4dbea31d1866c5a69a274ee9335299e8505fd35ad5f1ac5021",
     "ef0fd98f53e15eba4840ff650eb583d74347eecf561030757c6c956624e936ac",
-    "992af37b40d311c1cff14db7140f074a3590fa2cc44975772a6cb7255f199fe2"
+    "992af37b40d311c1cff14db7140f074a3590fa2cc44975772a6cb7255f199fe2",
+    "32e61d66e439638f8a2dec3d575dd7378271bb27410007ac2270a4d60d4ab44d",
+    "289a6043e602d4b5b05891ce5bc8c5d299c5fcf4a1934c9a53fbada4441ed147",
+    "635047e75feeff9fd01fe4f881817f7eca215b15cec7df2db1ce8a57423c283b",
+    "f7ed2e20bb135bace490cbda74534fecc48b2478a9485bba5c329a9226ed8703",
+    "3b32826d610be7ec7ad6495dfde662f162a8dab632a5ee5f54b76c41c88d66a5",
+    "51021f18f5e2bc4fbd6d38787459b7c6bd6d62591ff928002fe7d17bc760b72d",
+    "9f542958dc384903dc47eae00b3d8b6761b43fb477436168b9610be64e1be269",
+    "fc004b754bc4c5d926ee2c55075e8c382b81ca4d40b92035233ec44e3cf6849b",
+    "19a334faaf6bb3a7629d6f3303400a9b22944865ad34605dd6bb64c1a2ac341d",
+    "08ec720be6d2e9c89dadb11ebcd4bd9af16d0b166cb47ca67dabd912c09cef1f",
+    "c5558cd1c23b8d57816dec871974be602fe4dedeb075e79b06eb5cb5fc84eafa"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Nvidia, AMD Got Licenses for Nearly 900,000 Chips to China - NVIDIA (NASDAQ:NVDA)",
-      "title_ko": "엔비디아·AMD, 대중국 AI 칩 90만 개 수출 허가 획득",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63464398/nvidia-advanced-micro-devices-us-approved-nearly-900000-chips-for-china-by-may",
-      "ts": 1795159396
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "앤트로픽이 짚은 AI 병목 지도…GPU 넘어 전력·냉각·광통신 인프라로",
-      "title_ko": "앤트로픽이 짚은 AI 병목 지도…GPU 넘어 전력·냉각·광통신 인프라로",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/20/UARFRHVD7FGKFA6C4GDWXHYJLU/",
-      "ts": 1795159398
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "KBR prices $500M of 7.25% senior notes for planned Trinzic spin-off",
-      "title_ko": "KBR은 계획된 Trinzic 분사를 위해 7.25% 선순위 채권 5억 달러를 가격에 책정",
-      "url": "https://seekingalpha.com/news/4675047-kbr-prices-500m-of-7_25-percent-senior-notes-for-planned-trinzic-spin-off?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795159420
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "5% 급락한 코스피 10개월 만에 최저…시총 4000조 붕괴[시황종합]",
-      "title_ko": "5% 급락한 코스피 10개월 만에 최저…시총 4000조 붕괴[시황종합]",
-      "url": "https://www.news1.kr/finance/general-stock/6361144",
-      "ts": 1795159483
-    },
     {
       "source": "디지털데일리",
       "title_en": "“외국인·기관 반도체주 매도 집중”…코스피 5.21%·코스닥 5.71% 급락",
@@ -11504,6 +11476,34 @@
       "title_ko": "방금 들어왔습니다: MICHAEL SAYLOR의 '전략'은 현재 비트코인 ​​투자에서 $14,100,000,000의 미실현 손실을 입었습니다",
       "url": "https://t.me/marketfeed/1082697",
       "ts": 1795192605
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "明晟公司MSCI北欧国家指数跌2.2%，创3月19日（收跌2.9%）以来最大单日跌幅，报387.78点。\n\n在十个板块中，北欧工业板块跌幅最大。\n\n诺基亚跌8.9%，在一众北欧个股里表现最差。",
+      "title_ko": "MSCI 북유럽국가지수는 2.2% 하락해 3월 19일(2.9% 하락) 이후 일일 최대 낙폭인 387.78포인트를 기록했다. 10개 부문 중 북유럽 산업 부문이 가장 큰 감소를 겪었다. 노키아는 8.9% 하락해 북유럽 주식 중 최악의 실적을 기록했다",
+      "url": "https://wallstreetcn.com/livenews/3203483",
+      "ts": 1795192694
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "欧元集团：法国提名Laurence Boone担任欧洲央行官员。\n\n德国提名Brunnermeier。",
+      "title_ko": "유로그룹: 프랑스는 로렌스 분(Laurence Boone)을 ECB 관리로 지명했습니다. 독일은 브루너마이어를 지명했다",
+      "url": "https://wallstreetcn.com/livenews/3203484",
+      "ts": 1795192696
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Cathie Wood Sees a Hidden Moat Around Anthropic. It’s Not Just Its Models",
+      "title_ko": "Cathie Wood는 인류 주변의 숨겨진 해자를 봅니다. 단순한 모델이 아닙니다",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/63485932/cathie-wood-anthropic-hidden-moat",
+      "ts": 1795192756
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "JENSEN HUANG TO INTEL? WALL STREET FLOATS SURPRISE MOVE",
+      "title_ko": "젠센 황이 인텔로 가나요? 월스트리트가 깜짝 움직임을 펼친다",
+      "url": "https://t.me/WalterBloomberg/38790",
+      "ts": 1795192758
     }
   ]
 }
