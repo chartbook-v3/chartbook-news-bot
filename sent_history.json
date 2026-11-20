@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795145100,
+  "updated_at": 1795145253,
   "id_hashes": [
-    "d836a151696b74377bab3eb45ca098809a9b15c7e74c993f584ba1e8279ed674",
-    "0974ede3e458633823ab74866ea92a8127d19696dcfdf68d76fa8de7e842cadc",
-    "74e01a0f3450f12459c53e5e249de5ef172320a1af0d89eef2c83d658f4edc9d",
     "3470d2dda8973cfb0c464ee91f2350c268c2d24af5331ea990dd5b30a9bad678",
     "be116c367c5ff98cafd78e2f775f9b874c80e34ffdcf2ae5ac5484071d13d7c5",
     "a21465905006765d2c39066c6f634fd8e694c735c61668e31d5c5f640b1ce8ec",
@@ -4000,11 +3997,12 @@
     "f313f8a96311cb365970b130030d211ab8c1f2ffa219fa7658781d8df20b7884",
     "660d9f48160ee51a4599eea4f6a16b66015f23608db0a0091f44df54db2b923b",
     "774a44258d57d98dc5dfd9c3ce4b5ca8d0444a6a331932dad1d4eafb8cf6cde5",
-    "b3325a0525aea469d341ff1427946418eaaac19dc97176f20628057c563c19e6"
+    "b3325a0525aea469d341ff1427946418eaaac19dc97176f20628057c563c19e6",
+    "487a3ecc748a742c2055eb935fd85b221f67cd3bfefe0e421988e610e80dd6b9",
+    "a2027732568c85ec3f421e8c482c4166632f789298584b1ebe9e4ae9c5240dcf",
+    "b151dcb56581bdecfb75c3eb61d9aa1f897895aef0eab642d658ce51a1c0855c"
   ],
   "title_hashes": [
-    "78aa87665b21c5c75723ed39cb87e67345e3205dac645d6bc2ae6af9716b2ff3",
-    "d92b7354e0009797c7379db18a9b7d59ff15c4f8df9bbe1db0a53f1a0f055b0e",
     "2b3e770be611195af1e674f71154b6d5e6d27e9ce75b88a93aa7088efdb8e017",
     "db4f0b57be9fbb961350ef72d44e7caa0bc4e038669c5d895d16f4ba32f3d459",
     "a99d1c5200384258ff64e363bac3599686d0a15a9cb7383f41c14591d08a99fc",
@@ -8002,16 +8000,11 @@
     "01568cf2659c7af347c8886dfd8770ac40d7cdbf3152a8bc5cb863b6bf88eceb",
     "3d5e8db9ddccf5b63d4cd7561d1e222e505dc668ed945617c1ac44896334fcd7",
     "a34c2ae1999e0e2a1dbf0016ee1ace63bec8a5b58c8d537c3e758657bfc4385f",
-    "463c933e9643c39243839a85f4c237c907b1fe9d360940e8855a5ea9fbf314b3"
+    "463c933e9643c39243839a85f4c237c907b1fe9d360940e8855a5ea9fbf314b3",
+    "ba9f8eccfb58ba8bdb23521aaf2b21c2f42d9f31b6dcaf5e02ed822342de4036",
+    "3d2ef6b0bc46208fe8ba5019cc363473738859c45c8ebbffee3fbb0b6982c608"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
-      "title_ko": "그린 영란은행 위원 \"물가 목표 미달, 운 아닌 통화정책 완화 탓\"",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/greene-blames-loose-boe-policy-not-bad-luck-for-inflation-miss",
-      "ts": 1795119965
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Convicted FTX swindler Bankman-Fried misses out on $37B Anthropic IPO windfall",
@@ -11504,6 +11497,13 @@
       "title_ko": "Jurf al-Sakhar에 있는 이라크 사령부, 보안 및 군사 조직에 대한 감독 맡는다",
       "url": "https://t.me/firstsquaw/194467",
       "ts": 1795145099
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "미래에셋증권, AWS 기반 '금융상품 지식 AI 검색' 본격 운영",
+      "title_ko": "미래에셋증권, AWS 기반 '금융상품 지식 AI 검색' 본격 운영",
+      "url": "https://www.fnnews.com/news/202611201213146909",
+      "ts": 1795145252
     }
   ]
 }
