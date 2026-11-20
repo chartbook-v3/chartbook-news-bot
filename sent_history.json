@@ -1,31 +1,6 @@
 {
-  "updated_at": 1795167510,
+  "updated_at": 1795167661,
   "id_hashes": [
-    "08844d8456b5f6637e2a2a618b1ad1ce16d0cb78fec7271cd3606c97418c70a6",
-    "89ac6248da629842f3d34f2c016b433156b1f19620e43baea85477e500bf957a",
-    "708b91de930f37962f2d40082671003120ffb8dc778c6ab54b97255e8f495559",
-    "c81407f23fcac7359dc6955db93f219fa103cc4925bb4d6b5e33dec56732d847",
-    "8fe22907b3bc17db6aa9ebaf8636945671faaa4c143affad0586026234ed4919",
-    "3896f04d132d25aee9a7a12f4453b83a8dda28896d966bf763d92f269324907d",
-    "56cbecc38db9e7771dcafa9e97f426f3d9cbda7ffbcd426d74a5ea3a17940962",
-    "fd8ab62dd1f2461bf1521ea6ef13a615fd95ab7f771e89d3a2cfec6388e7d5ea",
-    "8a753d2670f978f8ff59d05016e4670288c53fdb076648d946c02092092df76c",
-    "01cc9d658ce9576b1a80ab229d5324957571dc231dd8a22c75e1da52b2df88ef",
-    "08f9bec55e474ed1ef2b22d533e1cc5a0d5af08c4315180476680a307e22fa8f",
-    "ca979128305cdd132dc5ca11b2886f648461932545f5cb22ff92b95fff2c511e",
-    "08e5042f1097fcb156fd2460ee1af7f1881f87ecc7d1a27ffe3949291b73807f",
-    "51580d59dadf4cdddbf4d7aac072340be6608fe30fd67e72382466309b2fdcf8",
-    "78f6ca617a3491467a05c0bcbc222a1795140b4b12c32b0c83d2d995310936a2",
-    "23c53c61ddf7289b1a508e63e70bf8cc35f09402b5a194d686c0fc7a187a2118",
-    "717c444db1f9b1091a6c76dcee1df3c2ad61036c023e1f48bec1b365e27d346d",
-    "2cbcafb28ab9d3e80fb678142be76ac39f8933f6416fb9d1e22cab90080ec9b2",
-    "7fd029d157e582d364714dacc55e84eec0fd9ce09721766e71b3a9b53c05dd09",
-    "93a9f140c8c5517246725de3a162098364952456cc591efde21b901548ce44b6",
-    "e7b5e10817844a217a1ac30514ad1cc1ee68b7c6f3cce4c58e1739bd6073f2a2",
-    "0123125ae20b5455889dfca5e9716ebd19335a3ba3fd1f9834b18e11b8aa3d88",
-    "970b3076a814db2856a8730afd707f24b5c9b4a93742ba50a691314a77fe75c6",
-    "afa127f53fe55bee18f6458337d65f4a8032d6c5fcbbf6c029dc42c1babc9cc0",
-    "4a876513dd0e6cc50658e143879ec2f10de47cbb95fd5cdfa2af8e2c048e5614",
     "253e84141b2ed92782c475f4dc275ea645d27f627839a84e740f9e89514d1859",
     "21b19ba9839e5fc670ab60b1ca6652f236dbec77402c6606b17537418e85a392",
     "ed47190c7de42679cc64cf99ac7efe0de6de0e19663856efc602a399be443c94",
@@ -4000,26 +3975,34 @@
     "51c26c0f920a1a403d5caf48c1c1f3720b98aebf70deb910cf33fdf423111468",
     "738ed4374bcd52b06e4c7f6cfd09bf96ab39cbf4793958fdcbe75c78922f3668",
     "5cfe408cffb863657cd904e61abd5d09b5cbdaa04943e68c2e58d78358198ffd",
-    "0be7c8b0cf44df23d71bad7d25988496bb3d3c67a439cc2bc07fa6cf9a79b9f5"
+    "0be7c8b0cf44df23d71bad7d25988496bb3d3c67a439cc2bc07fa6cf9a79b9f5",
+    "b80022bbc7bd8cdb33bdfdd0e9ab29b0c8e436e1b4d32dd66a2f8617356dba41",
+    "ff89b2a8fbaff24551a66f1eb81a6db09621daae069d6c021d65bc2e4c829697",
+    "b5c539fbcbb3a2fa6ee00758df072ae8d3363ab759fbe2424253316da4eeb41b",
+    "8faa91b83c8dd6504e1e0b6ade38db37f2fbcf349b62256e948ae74f745a916f",
+    "472f24a3782558126285ba6e83b3fc5686c9dc2bc7dcd7bdd692bc1bdf349d53",
+    "8daf4116591915a3f3a1b7fc0c560a20c1681f7027a263cc30066812bd64ea39",
+    "e9f154eb5f79b66cbb375719f85e22f6ed0cdc25be2d973c35e82574c5944a11",
+    "7ff2372ab6688592635ccc66a54b47363997960b2608782950f1bc81ff0d0c58",
+    "68bdbc1036a6a12031cc06bcc931e3acde74de74e50fde8d6140c23f461ad88d",
+    "5effeb24f8df8b9718de1972a520819963898d4b71b9d1bf46b4b699e1557da9",
+    "73f7e7a7a0e4e0ab4e0c46e27e4425dc0fb5df18ff822dd49ae426c22b4e60e7",
+    "7bcd84431c26e930fd1ac5d771b702d8129bdd198a09b002bd9e9703e9e82997",
+    "1a03451355a2c3d91676851ba5647e61b6e7e43a8a8806a6bfd20089d176d4f5",
+    "41ee43b24d18f6d8e3c77c58fb1af666e72b6301ff7b3d2d3a49db1a410058c2",
+    "28b45cf3bd50a2747c07a04e3d54fa36c93ced2a7054bddc1fcb45ced21f83ee",
+    "bb69080adf6d4f15766fc288ed9723cddf28c07a7b0346c0834ae4d9110f3a32",
+    "4a107d8f7525e61ef676e465f0652395198504599177432ed83215771d068cf6",
+    "55fff23744e30e17d38df267df68f327e63bd2fa50248b45f43491c0d3b1c073",
+    "936c09d68afbb812d88f4e634ed9c998ab930bb2404840c463b56e2a214ab5a7",
+    "72fe7a22a69426a22e9d0c11cc2e5ec0b1b35033da65db2849cfc0fcbb0b45d7",
+    "0fa32327f6eba3c43e2789eb1bd63716d5737d4ca52ec42de285d74ea8c51dc7",
+    "5ebcee126da7587f20ad8eb3369a8515d412af220ce1c712ab5c19af863cc5c3",
+    "42fe03d671ec6ab8a6eb9279d64dce5de3e604739bac3aec75c9a712d86b47c4",
+    "e87a79e0b23457c1379b297c114c4e006baee3cfbbf06a826a5c0109fafd36ca",
+    "65b8bc26f6d64a64c061eae20b68b16a58f802718f475990b9a3976bd9713a79"
   ],
   "title_hashes": [
-    "3ebbf8cfd81b53b01bb68ce1f3d5df3149b29b8f5bb5ba33e883ae732222d639",
-    "3f4c3dbeb1be1db00f59218cdf4935fc6a8579308099c49140685d1d70f2128f",
-    "589735eef86200c3329682e1fdf6a268ac3140d56408cd99d4ff5951ef988d06",
-    "77750123c8652c9e1a0b7f90f2b8e5f2dbe5c60063c1e2aaa1557e8d7fe5514d",
-    "8481130ccdc2c7d6a4dd976b6653643bf6953b9659eb60dada7d2af1b8bd70cb",
-    "e282fa8e9c3ae2ebf9aa4fca9c43c95c3a48d4ea684656d2419259792e2b1d65",
-    "325065d1d34e3937673021fb007b5a01ff1764199e693629cb911082dc9c26ed",
-    "6d129a84c69babcac353f15fe346bc420c67d8be12ed526e6ed694940c68af59",
-    "0fb3c5fea26bb3e759e0b3b9a849988b3d209a845d7cdd334b6689787dde0742",
-    "664ac4b7a21299fa4ebc1e33d585342b1f27fc32378f21355f755a073b8e6314",
-    "8277b4fe743f507e5ff6fabee0951511b1f8f7e141f166f0bbe1b81fb214ca95",
-    "ebd8bf4670ea675eb1d447ca0004c14452da3c7fd5a5ba590518c135a281ac8e",
-    "fc7a8cb53903bbfae17be47e10e0b3fcaefbfce3af930416e2b3d98e27ec5bac",
-    "ae67ff5660a16c2a1c0c9cef5658d07697ecaf8540707dce96ad605276040cdf",
-    "b2214f1f7db27e0f82c6d61e57d451b34b121f8ebafd53414f3ab0c546996c6f",
-    "06d43e77a5010b944552a94f345e5f9ea2760d049749058965caef620190dfc4",
-    "db3742affc61c814de21f6806753770644cfa18067920681a963ba8e3d4ef446",
     "dfbfb26f5e9ae88fb2aed7eaa5b7c974d17e4bd52e031484358768c5388a9eb1",
     "ad05e7fa5e9e4554b150006b0fec0f228fabd708a7d73241f804cbe0a4a46632",
     "c93c6d31f8b28b96dfc52bdb5f4d1ee2bd269bed13046b5dca68bb6c3cdec729",
@@ -8002,79 +7985,26 @@
     "607b3917d7e6b43a79dfdd8a77979ae1f0ad57a5444ebea659e9285f42a49b45",
     "6c3ff1daffe9f8da440090a37deb23c331bc8fd43a10d27627d114a957fee158",
     "84f18a41c855921fb8823b33f8c5cc2399f3a3225d27ba771d65e0ea439978a2",
-    "0fb4fe82af2fb348f1976d9fc525072c9bd622e6a69c7ded5afac5522efa2367"
+    "0fb4fe82af2fb348f1976d9fc525072c9bd622e6a69c7ded5afac5522efa2367",
+    "948711b7710c0a983af095207993f595a5c4f5df1aa6b3845b7f05835f195b56",
+    "a014e9e40f3817d27bca79d5db5a7bfe3250d89de115be3d4df7cee9a35b0d8b",
+    "1265d529ac63882b9ed7c051b82fc4d69ea1b3a1b305627675f6e6f5a4c3001a",
+    "5c1310c5a533a4e15feb79721a4f78b9b2148fafc2c5d47061ef78fd5f04f4a4",
+    "e7e7e2ccd794562dfc492e58b38bada1ee9faead17435366bcff349afe02fcf9",
+    "2a9dc976e0692219de15da360a31a12fc502d137a06027cfc3f844ec60380ec2",
+    "72b74b3464781ca749f2b9c6bdb5c8bcf578b321c5e70e5690403fbc6f9a7b0f",
+    "66a6fd3b19ffeb7cda2fdd9ca285fd2a69d3cdfc1b7662b711346ab9b475deef",
+    "2be0134acb92ede451b56c9d8b4b4a28e1ad6b4809ba428630c8b41d60560fad",
+    "6d45bb66ab5770de558cb8ede0a3bd372b3c97f53356cdcc6de1f55eb4bd7ce7",
+    "b7b3c4f59e753d0d880c713571bfaf5fa24c602adb810be492f7a921877c8fd3",
+    "bf794cbf2cf03710e7f5fd7cbd502a0906c30b1c0fdf89ed087e44084be73578",
+    "538e7f5a15b3a099e0ccaca48f2e7e6327e9b17af610d73f40cfb41782516268",
+    "e95c03f911b1d629b67c86a017f4716adae8325ef519fddfc24caa7953acd16d",
+    "66fda27ed05809c527a6a8ba2a64f361ec9dad2b4581213319f4e3a998014356",
+    "f222a435e9aac0215d9ff3d579204c05990f9012c680253535d22d678eb75c15",
+    "4c1ed8faf40abe53b67701fd58765765a5f72c67115864cb0489f08ea0003796"
   ],
   "recent_sent_articles": [
-    {
-      "source": "The Information",
-      "title_en": "Why Anthropic’s VC Investors Aren’t Letting Go",
-      "title_ko": "Anthropic의 VC 투자자들이 포기하지 않는 이유",
-      "url": "https://www.theinformation.com/newsletters/dealmaker/anthropics-vc-investors-letting-go",
-      "ts": 1795135542
-    },
-    {
-      "source": "한국경제",
-      "title_en": "엔비디아 이어 AMD까지 '중국 리스크' 공매도 보고서…\"AI서버 중국으로 넘어가\"",
-      "title_ko": "엔비디아 이어 AMD까지 '중국 리스크' 공매도 보고서…\"AI서버 중국으로 넘어가\"",
-      "url": "https://www.hankyung.com/article/202611209209i",
-      "ts": 1795135692
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "삼성전자 사장 승진자 3명 반도체가 독식… 메모리·시스템LSI 세대교체 ‘시동’",
-      "title_ko": "삼성전자 사장 승진자 3명 반도체가 독식… 메모리·시스템LSI 세대교체 ‘시동’",
-      "url": "https://biz.chosun.com/it-science/ict/2026/11/20/EOHCTKXGEVHPFGYUZXRF7L5KBU/",
-      "ts": 1795135694
-    },
-    {
-      "source": "데이터투자",
-      "title_en": "프로텍, 삼성전자와 234억원 규모 반도체 제조장비 계약",
-      "title_ko": "프로텍, 삼성전자와 234억원 규모 반도체 제조장비 계약",
-      "url": "https://www.datatooza.com/article/20261120094254888452ef3da6c0_80",
-      "ts": 1795135699
-    },
-    {
-      "source": "디지털데일리",
-      "title_en": "“하루 만에 5000선 와르르”…코스피 3%대 급락, 삼성전자 18만원대로",
-      "title_ko": "“하루 만에 5000선 와르르”…코스피 3%대 급락, 삼성전자 18만원대로",
-      "url": "https://www.ddaily.co.kr/page/view/2026112009255886986",
-      "ts": 1795135702
-    },
-    {
-      "source": "TechCrunch",
-      "title_en": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "title_ko": "앤스로픽 창업자 7인, 기업공개(IPO) 통해 약 20억 달러 규모 지분 매각",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "ts": 1795135708
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "제주 수출 사상 첫 10억 달러 돌파 눈앞…반도체가 견인",
-      "title_ko": "제주 수출 사상 첫 10억 달러 돌파 눈앞…반도체가 견인",
-      "url": "https://www.yna.co.kr/view/AKR20261120047700056",
-      "ts": 1795135714
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "현대차·제네시스, LA 오토쇼서 신형 아반떼·G80 하이브리드 공개",
-      "title_ko": "현대차·제네시스, LA 오토쇼서 신형 아반떼·G80 하이브리드 공개",
-      "url": "https://biz.chosun.com/industry/car/2026/11/20/BGCPM7Q7BVBIFG5K3U2G2IZYJA/",
-      "ts": 1795135716
-    },
-    {
-      "source": "지디넷코리아",
-      "title_en": "두산에너빌리티 \"야월해상풍력발전단지, 글로벌 수준 보험 가입\"",
-      "title_ko": "두산에너빌리티 \"야월해상풍력발전단지, 글로벌 수준 보험 가입\"",
-      "url": "https://zdnet.co.kr/view/?no=20261120093351",
-      "ts": 1795135720
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Analysis-BOJ's ambiguity on rate hike path could tempt yen bears",
-      "title_ko": "일본은행 금리 인상 경로 모호성에 엔화 약세 베팅 재개 가능성",
-      "url": "https://www.streetinsider.com/Reuters/Analysis-BOJs+ambiguity+on+rate+hike+path+could+tempt+yen+bears/27377820.html",
-      "ts": 1795135723
-    },
     {
       "source": "연합뉴스",
       "title_en": "[특징주] 이수페타시스, 목표가 하향속 장초반 10% 이상 급락",
@@ -11504,6 +11434,76 @@
       "title_ko": "푸틴, 첫 3자 회담서 '대승' 거두며 우크라이나 전쟁 장기화 속 입지 재구축",
       "url": "https://www.cnbc.com/2026/11/20/putin-xi-china-trump-russia-ukraine-.html",
       "ts": 1795167509
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "'나토식 집단안보' 놓고…美 \"러 설득 가능\" 우크라 \"못믿겠다\"",
+      "title_ko": "'나토식 집단안보' 놓고…美 \"러 설득 가능\" 우크라 \"못믿겠다\"",
+      "url": "https://www.news1.kr/world/europe/6361383",
+      "ts": 1795167532
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "SAUDIS SAY JAPAN TO OFFER 16M BARREL OIL STORAGE: SPA",
+      "title_ko": "사우디, 일본에 1,600만 배럴 규모 원유 저장시설 제공 합의",
+      "url": "https://t.me/firstsquaw/194558",
+      "ts": 1795167537
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "JAPAN, SAUDI AFFIRM IMPORTANCE OF OIL MARKET STABILITY: SPA",
+      "title_ko": "일본·사우디, 원유 시장 안정성 중요성 재확인 (SPA)",
+      "url": "https://t.me/firstsquaw/194559",
+      "ts": 1795167541
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "NASDAQ 100 FUTURES EXTEND LOSSES, LAST DOWN 1.7%",
+      "title_ko": "나스닥 100 선물 낙폭 확대, 1.7% 급락",
+      "url": "https://t.me/firstsquaw/194560",
+      "ts": 1795167545
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "SAUDI CONSIDERS IMPORTANT TO SUPPORT JAPAN ENERGY SECURITY:SPA",
+      "title_ko": "사우디, 일본 에너지 안보 지원 중요성 강조",
+      "url": "https://t.me/firstsquaw/194561",
+      "ts": 1795167555
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "JAPAN APPRECIATES SAUDI'S STABLE SUPPLY OF CRUDE OIL: SPA",
+      "title_ko": "일본, 사우디의 안정적인 원유 공급에 사의 표명",
+      "url": "https://t.me/firstsquaw/194562",
+      "ts": 1795167562
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "SAUDI STARTS REFILLING JOINT CRUDE STORAGE IN JAPAN: SPA",
+      "title_ko": "사우디, 일본 내 공동 원유 비축기지 재충전 착수",
+      "url": "https://t.me/firstsquaw/194563",
+      "ts": 1795167565
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "JAPAN PLANS TO BUY 8M B OF CRUDE FROM SAUDI FOR ITS OWN RESERVE",
+      "title_ko": "일본, 비축유 확보 위해 사우디산 원유 800만 배럴 매입 계획",
+      "url": "https://t.me/firstsquaw/194564",
+      "ts": 1795167569
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "CHINA, US MILITARIES HELD MARITIME SAFETY GROUP MEETING- CCTV",
+      "title_ko": "중국-미국 군 당국, 해상 안전 협의체 회의 개최 (CCTV)",
+      "url": "https://t.me/marketfeed/1082437",
+      "ts": 1795167596
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Billionaire Raises $720 Million Private Credit for Megha Buyout",
+      "title_ko": "억만장자, 메가(Megha) 인수 위해 7억 2천만 달러 규모 사모 신용 조달 완료",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/billionaire-raises-720-million-private-credit-for-megha-buyout",
+      "ts": 1795167660
     }
   ]
 }
