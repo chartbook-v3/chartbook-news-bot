@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795218261,
+  "updated_at": 1795218418,
   "id_hashes": [
-    "6516559be879a1f988f805e64894cf15bc3b07a8b6ca5c70a2859c21bcc1e4a0",
-    "f0f5d948b5d497ad5386ab5381f0d95fef73299a0236f616ac1dd96655096ec1",
-    "25292520b12ef5f120286aace5c68014b4be8f69c0c8def6a70fb6f052133bdb",
-    "fa7de49e2aa1ca7d7ffc8aea3f8d5d88e0e987139de95c94d6c5772785a88697",
     "8d13f4ae1aa3f98f6c225961d96f944da898bce655041ad15834139bb4c42b91",
     "9be7fb99c6908a6b3b3da356eedb8b1cc4bfd0f1680c350c8d3f6120523a049c",
     "4f53a15a16690141a79e46d05752f94c524957bed25b349b12aa6054710517e2",
@@ -4000,12 +3996,13 @@
     "2e260dec52d9b06266fa3dbf9418de47acbeabee8fd4ca34ab903b86781b6ed8",
     "aeafa914c6a1ffc3b1b7526eededdd8831296039fcfcd1eb4e4d22f4811449ab",
     "276e4ed12f24bc8cfbaad4a1c230b595174f38cabcfeb76bd95ada3b227da175",
-    "92b62063751429753629972bcee163cc0fa155d92daf14e29b4364db82455b9e"
+    "92b62063751429753629972bcee163cc0fa155d92daf14e29b4364db82455b9e",
+    "f519a7d5d182fcd833b961781313c465e15e86616008afccfc26440bda711722",
+    "9834fe13a3ab4ab7e234f0d739d0c5ffd85e010c417a4d43be2c12b23a84b495",
+    "6b8ff76fe19f7ab93fe070f8854559e49f130e169fa262c8d5d92453b5c53c5f",
+    "b75a047e227da8e386be0d2d3aeabaa975e2e66d3dc10ad51099606f403e5a42"
   ],
   "title_hashes": [
-    "9aa317e64101fd9a5e5f849e469f7d703886812835f8fd7909c29cfb4a94c8c8",
-    "671f4cd75510275c078cbb7b37db48216af1dc688701e6b305a4db52a17d07e5",
-    "cafd6d2a4b23f64d60c73838e57eae1648028bca9e470f057fde15a8e8eb59ef",
     "d4ec941eb30c842dd344e2c372013bf5bb89464ccb8acba65e23e95a0dd2579a",
     "a004b6f8debd20799f75c8e0d9ca9cca09f798376695fe3b6d46533e665a7904",
     "24e93a65835d368f02f0f69bbfb8914f1a9e74cef540f3ef736ad3a5f142b593",
@@ -8002,16 +7999,12 @@
     "850f40704b5f36c50b4856e15dbadf74b14b0f6dfea661f815966b1a239a0f94",
     "97621bb9e09c13871994e30a64fa113ed2dabbe26eee34d2da69c4331e460812",
     "9c3cc1568c7b29ee4bd139550a01237a3457a9e60f942c1cee777d6359e9038c",
-    "7319e21ce6c914fcc7af7e6ecbbc35422fc7ca811c62adf60c1ceee9051b3ad8"
+    "7319e21ce6c914fcc7af7e6ecbbc35422fc7ca811c62adf60c1ceee9051b3ad8",
+    "d8be4de58c33d397e520ae97aa0389b1d76d885cadb53949684eafa4ac8c6e10",
+    "596a49eed20f0ab20a93602f48935285f1b8ad22e1ec48ec723a9c45a13a4851",
+    "af3e92b2622d2dd9d243e73443aba7aafae9bf435b12371100785d115757f908"
   ],
   "recent_sent_articles": [
-    {
-      "source": "StreetInsider",
-      "title_en": "GE Vernova shares drop amid analyst downgrade concerns",
-      "title_ko": "GE 버노바, 애널리스트 투자의견 하향 조정 여파에 주가 급락",
-      "url": "https://www.streetinsider.com/Investing/GE+Vernova+shares+drop+amid+analyst+downgrade+concerns/27380220.html",
-      "ts": 1795190185
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Onto Innovation sinks 12% as semiconductor peers fall",
@@ -11504,6 +11497,13 @@
       "title_ko": "Lujan Grisham 주지사: 2028 희망자들은 이미 뉴멕시코를 주목하고 있어",
       "url": "https://www.bloomberg.com/news/videos/2026-11-20/gov-grisham-2028-hopefuls-already-eyeing-new-mexico-video",
       "ts": 1795218260
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Wonder explores sale of Grubhub, Wall Street Journal reports",
+      "title_ko": "Wonder는 Grubhub의 매각을 모색하고 있다고 Wall Street Journal은 보도",
+      "url": "https://www.streetinsider.com/Reuters/Wonder+explores+sale+of+Grubhub%2C+Wall+Street+Journal+reports/27382722.html",
+      "ts": 1795218417
     }
   ]
 }
