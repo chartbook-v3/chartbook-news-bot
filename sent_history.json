@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795207217,
+  "updated_at": 1795207404,
   "id_hashes": [
-    "f3a3ca74105ddef216551c5856bb2ea638a137a1715de5574ec1f1fb889302fe",
-    "15a5b94aeb5fdd4bce7bb1437d363271dbf244d5eabe82401baab3cecaa16ac0",
-    "03cce5478e293797fe2cd00fc6ddfaedecc80e76dbda4db83d9a1ab5fdb0f7e8",
-    "fb5b45322c6c3b83c39eb1a628e1b29ba83f7dda99838c050eb07b245db74448",
-    "9b4e46099f1c02df4b5a9b7dff4a486e51edca778072c1c85a3c6a8c9018a8b0",
-    "20a41b994a8c5124de631b88e8402c3e5dc901af32222ea35d348bd82dcee07d",
-    "8e984e11bc4653cb9b56437078c1d68eb541336f827c7ad772e9f15a80d6aecb",
     "a2af4db72f5e0378fce03bbabb475bc2dbdb5eb4b0505b130662468c8826a2fb",
     "77cfef32ba49c0a0b48fcb7e44fbed31550c93a8dd5003f5483146bf6272e5d0",
     "d8e7dc23dcde7006e16ba5ffd47781de124df6e26cced598cb3e83f2186c8924",
@@ -4000,12 +3993,16 @@
     "a650a6a2d1de8ffd550872cd55e306e3293b55312d69c3689f6cf145fbdbdc08",
     "eb36690d3355d67c34ff6ea24d93f4c42ecfdc3d9400ef327c9b77a1fdaee3f7",
     "16381272d7f3db1a7b29c35894a16c600d299a045bb056fb5ebb5af61c65d2e0",
-    "36271aa16801cfb61ce891bd3daae39cec99bdb3161db717ce35cfdce6ef5c84"
+    "36271aa16801cfb61ce891bd3daae39cec99bdb3161db717ce35cfdce6ef5c84",
+    "61b17b105c796eb557288b344a1d0fc335c970140e9d6fc33446c071243ba2ef",
+    "27748a574f7da29db94febf0e9caa7644535d8caff6bab8eb1494c001d3902ff",
+    "bff33b23ce80dd3b064287bfad74e3ba5bfae171028c2fefd0fa661876962383",
+    "6df7541adf99bf7b04f17ed4ecf81db01a7ff6554ff042cad573918c8664c4fe",
+    "56e78c09b7ee5114edfe418c54ecc737904092d7aa6228fcd9588093089c50c5",
+    "82abd12945a39cc2bf9ce9d0324a439dd59a640ca49d67b845fb3b6cc0236ba7",
+    "65fc7c4a69e55a389fbe5c3949697d0301bad525af09a4cbf7a44155ee2d2d04"
   ],
   "title_hashes": [
-    "62be0a5141f424793bfa8fa14ca324ffadd156e7b0ab5c5ae97d6b14bd6ce7be",
-    "2a2029f768a1d02de96dd6fac73828c303cf3bb6b019b50fc752bfbac72eba15",
-    "c3a3fbe1b255c488213a313d4b3bd3713db8d6029e84488d86fabd903136221e",
     "ef6ea45318a7e56404ebfd39d854a6785c3986f2d11cd627104380ce2b5eb15e",
     "052bec64c53b7fab97787fbe91bbcb0a6ed121494c1248e33ab0df9ced8a30ac",
     "d96ecd0a7b2be8d7b21f10b585c0ea9fab46aa1fcd1695b089b5d18f943fe6c1",
@@ -8002,16 +7999,12 @@
     "c66ce79998106316e162fb0872571669226d9f55fbed1a61a9a1fc5bd9522d8f",
     "99325d1f8ed98cdd67cd5cc464d8eb9057862d72e33b8b42fb7b7be9ffba085b",
     "e07f4f6e4bb8f15d69a7c328132d7a609735068d2420ee775b738d65dd97cd96",
-    "98b690a130cf78178803e83a765e1705ff21b28c0200749f735f422c4eca59c9"
+    "98b690a130cf78178803e83a765e1705ff21b28c0200749f735f422c4eca59c9",
+    "cd10c6904496db29943762419e7d1add2da929a3c29c996626d121c6b16aa919",
+    "7ef61fb171ee7ea4ab839ea2a1fe407c6e831c8611bd4d68a87ea949ed453ee0",
+    "cf095598283cb09901dc221c80cc22c1bce2b36f050485537dcc9b68d88bebb3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "https://x.com/MarketNews_Feed",
-      "title_ko": "https://x.com/MarketNews_Feed",
-      "url": "https://t.me/marketfeed/1082513",
-      "ts": 1795179689
-    },
     {
       "source": "매일경제",
       "title_en": "블루문메탈스, 오리건 터너 구리·금 광상 인수로 미국 핵심광물 포트폴리오 확대",
@@ -11504,6 +11497,13 @@
       "title_ko": "트럼프, 백악관에서 리셉션 주최 - 실시간 시청",
       "url": "https://www.financialjuice.com/News/9862420/Trump-hosts-a-reception-at-the-White-House---WATCH-LIVE.aspx?xy=rss",
       "ts": 1795207007
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "CBOE VOLATILITY INDEX EXTENDS GAINS, TOUCHING HIGHEST LEVEL SINCE APRIL 2025, LAST UP 9.05 POINTS AT 37.49",
+      "title_ko": "CBOE 변동성 지수가 상승세를 이어가며 2025년 4월 이후 최고치를 기록하고 37.49로 9.05포인트까지 올랐습니다",
+      "url": "https://t.me/WalterBloomberg/38860",
+      "ts": 1795207402
     }
   ]
 }
