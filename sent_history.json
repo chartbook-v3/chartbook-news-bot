@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795171670,
+  "updated_at": 1795171819,
   "id_hashes": [
-    "463cd6d840ddb961095772cb8de491781a0cb4e67a3aed9c87b33c6564a03345",
-    "f56337cdf3de631e22adfae7a203514c35ad4527512b55b81976b702cf2c84a7",
-    "828f68b290b7adffd95475d46f176bdad0a9e275719e5fbaf1ce43ec6c31af7a",
-    "1779d1753372053277f9bc2e2d8a8205fa531a47ebfc627efa0b00dd32355d51",
-    "1d568eb75b47dc37c6b48d6d6dfe012a0dbd0af35f691e850a641fe8e53befee",
-    "2ad6cec78ecb01d3129eb351b7616c6678f72d3d49923d23b87a5381336defc0",
-    "7cc1859b0e5d90cb477d83294a9415e49fa5832401e8d9d6cba6cdaea08a9d70",
-    "d86e208b5504e08e26eeeaace50adef89799f7aeb7ace340201d718b710a14ab",
-    "27192d3a227f1a59b5193d01c3ef13e57974089b1881cb13ad0e08b166440db4",
-    "52453d5c293e9c56d4a481feb72ec2855de78cb40cab5d690f62f2db299247fe",
-    "1ac6e697f0133dc44a5a024d5b333d86ce5ba3ba3b6176340b52cb28454b602a",
-    "8e95bee55baee372a440f5185008828ee388476c51aade97841b2fe6edb3f8e2",
-    "f55f39580229d728682646dfccf4a23286280f61e8a0d7b112f82a89fc107b70",
     "47737c3e7566d7739ae60e790faab7ac27d7bec64133639e9a51fec905639bd1",
     "c164a91f1717e5143e8e95321dcd6d2bfbb850d9fc2ad0aad962024f669fde6f",
     "74d10b1c6993b5143addee5db8158bc90dfd27ad842c2b6359ad2bac00635984",
@@ -4000,20 +3987,22 @@
     "4cbfcd0f54ee80776d987511d83dd2d138d55b506b6115891363a93ed8e7e17e",
     "89820e8a66db924347f1730e2d3bce9fd35a0d2e9ad06d81933085789cde8846",
     "2749e1fcd9ec4b6745785aca26be8b48f0fcaed862aba55304bbcbb56b5b8a78",
-    "dc6a2b3073344ac4f3e4e05266082968783a70366aa38568c412b4f00a29ab8e"
+    "dc6a2b3073344ac4f3e4e05266082968783a70366aa38568c412b4f00a29ab8e",
+    "3cd7bf1f7db3b68f6b3429e4b140e08500b1b9eb16818e071882b64af718abf7",
+    "dab03d845d91ee73f523fceddf1e533c0ca062dcb57b1aeb42bf2aa2ef31bba1",
+    "c16ef893579ca8cc36700ffb267518f13a6cf55ce3e55aaf8e2fac9345712d00",
+    "827f1ec58c87f6ef2b80620b097b6bc7f5f067d94a4542e6ea3dbca5c7f86945",
+    "2c8a29d5a5fb476266f36d152f310ce343b1429e6e92399c830e28937f4e8775",
+    "4d24e69811d231907b8124c4fc54626facd64b84bd36e11b558d0584b941ab50",
+    "a49658aac328e89c6ef49c3002ceef086b0de86565ab3b7599399539306f5d20",
+    "3a10ebccfffcb783ec55a38f4e08f4d7fdeddd2fd90fc2551556b0958b80c9a1",
+    "879c07c18f0e5b5e4f0d861bb6b013d217092493b601e6a70291f8d619dbf741",
+    "ee7d7243336b21db1f5912b4b68e89ec35bd0a54f0791df332b0bf2154daa90f",
+    "7ff8d4afb73ea050920431b8e96c061c02722a7bc68c11c92c0d6d9b5a8f12a3",
+    "6f497ff778223e106bc77943ad4d2eb134a1d3f067a6df0a192d3eb63c363440",
+    "7a99fdffe3edd7423ce2e8d5999ac48dc778264100d00223397a674975d734f9"
   ],
   "title_hashes": [
-    "5725f66fb86faa2423f0fb9a6f99c676aef4f08fe4ba9050e473233b4cd86de1",
-    "5bc763474cb2f40129012363ef959d9a95d2031290c375c8ea783af43cf867d2",
-    "4d1777df4a0ace51c959748abaaf83049ba4476885aa30e2428807c30ec58335",
-    "a609df05869f0ff156314f05628fe6d74be6d5d39554c36163107704d12f231a",
-    "c69b5613ced6ee80ec496da09df57bc49bf7b18cf406371899770b20053e5e4c",
-    "405479f77c674b8638bbf2a4c4fe596e1290c7064b832b300c381441451a52f4",
-    "e551196364e46d0461b72d410dc0590a167d1f5431614514f1237a28a84c15e5",
-    "08f93f8fc5735ee87eb9b55fcbe54f2b446205896de39edfa41cefb77d665543",
-    "a22f43d66a5220e115e776f76b9a4a5256d351e2864a05c47e95c52affd67e93",
-    "5703677ae99b0df7ba3f1d6e447f4ab4827ef2481c2a379dc1601986932ac2b6",
-    "5ce86be6aca89ff69bbe487a2bfae01ebec6c665fe4d0289422fc07e5e8be2f5",
     "8cbefaee8187288b577d3f8193e9ce534c92dee75576a2ba2ecc15562f034f95",
     "5a39385d6dbfb6d2c6a4a51df30d4382b9dbd4c50cdd4042b219a38ce3019031",
     "dd480b479b8fdffb8b501824ed86233cc3f427dc22f2dea3035d9b49547a9f18",
@@ -8002,23 +7991,20 @@
     "b4daa73604b1e3ef36e0c96e52dd119a8c6d94c5487e824763e7ca880903c0c7",
     "044932cabce829e69cce4d2f11d15c65b0e53df62e4783c3190d5e23e5c5cd18",
     "f7bdef14c686254b7b29098198cc9fa4ba3b5c302583ab30b8f8143742f3be5c",
-    "250a1d1c97c00a05c7950b14c985c7261275945e46954e4b660d7509ed699495"
+    "250a1d1c97c00a05c7950b14c985c7261275945e46954e4b660d7509ed699495",
+    "761529c61e23a784123e86e8293a9855faf775161b01c0789e5e6c1faaa31106",
+    "27990860efc61f140d8ebd48a6b5449df40a22f74af6cbf971b3c1cd162eef9c",
+    "d1eca8c83e3271be884e392d6c129d9aefd7ccb88a31cdc88ef11d6a4e2204c7",
+    "ab160ea852c9569ed8e6fdfce4b8a7d775470196751690b4c1bdab15c029644d",
+    "b086d3f43e80c6d7f3eb40dea25f39fef7ed5b2ac2028cac8127c7cd29c6839b",
+    "66a79be8c81217a1d873f75d62afb1354ee9d22b63ae16ddf2d62453320b34d8",
+    "8bd928133f8a5473f1a8367e8de88d44fd208ce0d4727733856ea712da160b59",
+    "d6386fb98cab6f94daa359aab7ab03c687abac23373ea02382d61011f3f1f78b",
+    "3224901bbd6bcf56de844ce4f7ddc988ebc229f72115ee73124cd5c4ff4d234f",
+    "617a9191c55f4fc8bc7c8764656e2ba472c3a72fcc4700d445ae59cc0268f36b",
+    "8d8e86a2b930dd4c93c9ccee57a43028cf413901e022786ee334760e8fe69565"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Nikkei Asia",
-      "title_en": "Asian tech stocks fall sharply after Anthropic's blockbuster IPO",
-      "title_ko": "Anthropic의 블록버스터 IPO 이후 아시아 기술주 급락",
-      "url": "https://asia.nikkei.com/business/markets/asian-tech-stocks-fall-sharply-after-anthropic-s-blockbuster-ipo",
-      "ts": 1795137224
-    },
-    {
-      "source": "서울경제",
-      "title_en": "삼성전자 70년대생 사장만 5명…세대교체 신호탄",
-      "title_ko": "삼성전자 70년대생 사장만 5명…세대교체 신호탄",
-      "url": "https://www.sedaily.com/article/20116812",
-      "ts": 1795137278
-    },
     {
       "source": "Benzinga",
       "title_en": "ANT, INTU, AMD, INSM, GME: 5 Trending Stocks Today - Anthropic (NASDAQ:ANT)",
@@ -11504,6 +11490,20 @@
       "title_ko": "월가 공포지수, AI 우려 확산에 7개월 만에 최고치 기록",
       "url": "https://www.reuters.com/business/wall-streets-fear-gauge-touches-seven-month-high-ai-worries-mount-2026-11-20/",
       "ts": 1795171371
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "UK-EU SUMMIT DEAL REACHED, EU OFFICIAL SAYS",
+      "title_ko": "영국-EU 정상회담 합의 도달, EU 관계자 밝혀",
+      "url": "https://t.me/firstsquaw/194583",
+      "ts": 1795171753
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Intuit Earnings Beat Isn’t Enough to Boost the Stock",
+      "title_ko": "인튜이트, 실적 예상치 상회에도 주가 반응 미미",
+      "url": "https://www.barrons.com/articles/intuit-earnings-stock-price-50cb5c01",
+      "ts": 1795171818
     }
   ]
 }
