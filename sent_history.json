@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795204132,
+  "updated_at": 1795204290,
   "id_hashes": [
-    "c841db6400215e8d1d447d08afadc48901ae2ec670bc6fd6039bbb0d4fe88b8a",
-    "fd70c355587a04a408a86a8f0a9412e19ef14676370e35c1cf17bb82a3f5abff",
-    "9d58f555ba75bbe0d3863ae2b7d4e0adf3da8477092f7a49f34731d19bc205a1",
-    "a026c9b3a4b34fd1073f54cec4d745db11349e1f98000d5b8cfe74e7bad99816",
-    "6d7a07ed13d9ed96324369d4aa1ec46cfb4830392886e8c80fde071d9ab53927",
-    "417d8af575983b6c16012f996d6de4291b64242ba9927a1f9e4550b1d96d67ce",
-    "397a3b0cd02e679dc5e10fc9fb2a4919a342f8c0bd87b4d4f42f17186006ef37",
-    "09ed694ef1d82c2b6ca70e959aeacd933f6a3c4fef2f54d63a427681e5756beb",
-    "455ecee5990718bef92d8b6ab4e3d6b0978ba7caa8deffa1fefd7db622d6df55",
-    "f922243272df2e60ca1660ea8d63498f4f75a8cbba5e29e33db0bb8fe8c41e20",
-    "29d1079ed81779361e98648439e1b5b629270f37d5edf5450237800e9d3e2c60",
-    "d27ed92dcdd8bd93fbdc1fbea222633adcce7dcdddbdd22df20cbd5cd9810254",
-    "13d5d7e03804eafae6371c2932c7d6b67a56ac7483cad343f2a1b8a374f49647",
-    "01f402d86eb9f8383dc54a99e221bd02b81512236e68d7ed03582192bbfa2180",
     "09c7084100c5ff168176259d25e2f54798a562db150285b7695e51e469854cc6",
     "4bd2e722ce0e0b4825a67f88002673b15399f287181db43a8dc3cfebfce7ee22",
     "41b3bd6c1bdfb1ae5b8427f6917eb4ac38c5a9354bacad1202f50e2f23eccd51",
@@ -4000,20 +3986,23 @@
     "4dbfad27833346e50ec5d5c320a32e25227d0f307ba976c2623a09a699bc6ddb",
     "6bba28f8889b2f59c6727a40ffdba18d798d04c2e2fe5a993f66388cdf127ade",
     "d08e0a95b5a16146fbddf07312b7236d50ad8ff3b9699d6a86c742bedd04395e",
-    "9fde0060638bc1e176dd9e1b07dd42943f5889ae3fc120179d902397fa744353"
+    "9fde0060638bc1e176dd9e1b07dd42943f5889ae3fc120179d902397fa744353",
+    "0c26e9428fd31d92395b41643ffce30381197c2183d881924a36a439c768e760",
+    "a7d9019c735b9ea4e5271cab553db58066030568f94ddad7351bc5bca0158ef4",
+    "770854ea94eb257b014b5387220cddac71457d59c2b57076347a6615c2274fa6",
+    "dd1f137267ac6404ccbbc3e0c1ad87d9ca9dee10566674d001de038b2cd7ad80",
+    "5832adb0927c7282568f81b03eb7b2c08151fdb8fd83c0329dc2acbca3636d5c",
+    "f97108fa94283aa28d0c5d5cc80b19b73d7a12bafaab8dc55468e6a7713f99df",
+    "b3c9253504df5b08b83922a9fcdd71df873aa7065e673e8acc3aa55fff4efa8c",
+    "1d5aead26e70980a6edc390e5990429e26bacff1ef7e1379b7108f08cb2a4c6f",
+    "de11611069b0e2e4de8f45d03c7e2e72edda97c145d99396e645b0a0fd550bab",
+    "218f152ca0a409cefc3ccb78983cdda9eb47586413b8064ea1a3a6ab1b2aea25",
+    "8d4455487b99d276a789d07aea11f28d474aca19ab3a0f74e5d4d0444ea2d15a",
+    "721fc4e22d95795b2cbb8aba6e07e60466bc4fe3216803306e45094d43830bb4",
+    "6a4d207b2ee31b131bf43c3187dec793716b497e96eca7fbccbd18d31f96a246",
+    "7be5b4ae136d5389b68e989c50a6ccd119fbe88c6bbe38eac379a11ef83063b5"
   ],
   "title_hashes": [
-    "151045bd96b0272c144ec77e582ed76b1569dba6b055e6314fe0fc2ed661a12d",
-    "501a8d143c8dab3adc6ca32739ce3645fd5ada1b122cef31b2c622f189ba94ed",
-    "52e620263d054677b926a72ea1b627c010ff193ef90761509f0256c336f341ed",
-    "a8d14a97a94cf8a97d64553326ba34e9d86fb9af54246ba5c659d284979d560f",
-    "540fb8c32a25336b21c969cc6dee14fcb9496624a067fb44e7481647090bdcfd",
-    "caf12fc9292e3f5060498f058d7027389f776dd5443c772b8100d14509cbfbb7",
-    "43cffaba607e3dab0455ff166d98909916f20c5616f17bef3d9b0709bf56ec7e",
-    "b2e38aba1322488c723b6681ada2f99940e2c700aeca53255b276634fac63cb3",
-    "9b3c41928135a0eb40844dd4f47ef6456c52dc7308fea445e545946194c94408",
-    "af69b96f751e93b9d514ab9faecd2c36886db58eebffbc6fb6dcaab11037edb9",
-    "eb3acf32a5526def4bf3d3d59d7da4acb58beb6a3bfd39bb6d8de9c615b01c2a",
     "32133299e73c2b728f7d960efa50bce74f23916374de67c146e7fa351da4830d",
     "1a2dc1a930324924b16216808e3d49ec9b7d16fef1060b54b8657353f86e5a2a",
     "02bf4ddedc505ca567f42c2116a5ad2205c89b0718418b257c28e5243f04565d",
@@ -8002,23 +7991,20 @@
     "5d7e270511aa0bf13c0b1a1dad4c1ef8a3408eb8a01e1d5dcfe4cb92757ba7f6",
     "3566180dd2c72b40d429430cd30839a2db7dbe8fb27354740acdfa14f18eeae8",
     "a86e5e8bfcdd828df0e7f49fe82ab8381e86ec2b61b94abc393444a5745cf225",
-    "809abd1d950db60da2b049317d07b2dbdbcee95be9e89258926e82c2af206852"
+    "809abd1d950db60da2b049317d07b2dbdbcee95be9e89258926e82c2af206852",
+    "f208b38a61a20cfa2631c1a2b435c5a0327cf440f5eb0978a4c0782f2467b01c",
+    "52a7f54bd80df92b4b63221e0bae9c9b58e074143d879ef7d173d5fff4974947",
+    "c4e43cdff3306263d7aead400382b6f46a2755e2f7290ac48ebf39d03f7b2119",
+    "44344664ed531b69715dabb8d3ff09f24013aeafaed077befa02bd281427d668",
+    "2c7a109ce75e6c8a95620d1389f476f95b28302b2f9d5ef0d7c3f658c008141d",
+    "97c2ab8f0db7b67e54cdd891ecc833b49ac5a4d187bbd8819cfef9cd85c4942a",
+    "f50a789a193ad312755b7cb92ad5103701dc40573f7a879563f8a1c17a75e775",
+    "e35abecca3bceda5bb67baf8833f5bc61ee5eca2673991ca294323cce7e4af0f",
+    "fe062671d5547c78fa77b146fcd6e23f3ada76d7385cec9188d1fa5aaf655df3",
+    "98e03ed44a6eb6f5acaa05e5cb7c585effb3a50ad9306f8d891ac09dd9d8b60a",
+    "5b479944f2b833b050863cb0ad2f3dcd50ebb5c7ca4bd4e9e67bac615bb66892"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "SpaceX美股盘前跌近5%。\n\nAnthropic美股盘前跌超8％。",
-      "title_ko": "스페이스X 美 증시 개장 전 5%대 급락, 앤스로픽도 8% 넘게 하락 중",
-      "url": "https://wallstreetcn.com/livenews/3203371",
-      "ts": 1795176397
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "US AND ISRAEL CONSIDER NEW ASSAULT ON IRAN IN SHORT TERM, SOURCES SAY - CBS",
-      "title_ko": "미국·이스라엘, 단기 내 이란 추가 타격 검토 - CBS",
-      "url": "https://t.me/firstsquaw/194593",
-      "ts": 1795176454
-    },
     {
       "source": "StreetInsider",
       "title_en": "Barclays warns of further equity weakness as hawkish Fed bets build",
@@ -11504,6 +11490,20 @@
       "title_ko": "인류에 노출되는 자금은 힘든 시작을 맞이했습니다. 더 위험한 사람들도 진행 중입니다",
       "url": "https://www.barrons.com/articles/funds-with-anthropic-exposure-got-off-to-a-rough-start-more-trouble-may-be-on-the-way-efee6ef9",
       "ts": 1795204131
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "엔비디아, AI 테마 투매에 '와르르'…알파벳에 밀려 시총 4위로",
+      "title_ko": "엔비디아, AI 테마 투매에 '와르르'…알파벳에 밀려 시총 4위로",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445831",
+      "ts": 1795204286
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Brent Crude futures settle at $92.57/bbl, up 59 cents, 0.64%.",
+      "title_ko": "브렌트유 선물은 59센트, 0.64% 상승한 $92.57/bbl에 결제됩니다",
+      "url": "https://www.financialjuice.com/News/9862367/Brent-Crude-futures-settle-at-9257bbl-up-59-cents-064.aspx?xy=rss",
+      "ts": 1795204289
     }
   ]
 }
