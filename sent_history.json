@@ -1,26 +1,6 @@
 {
-  "updated_at": 1795180084,
+  "updated_at": 1795180244,
   "id_hashes": [
-    "924cd333ee2ed702b252cd4dcf8e119e6ffa69bd934272a9523b0359485ae809",
-    "2ff1c5883d9153b95e2f4e0232f41c490d49e0d7e205b2173ddd70cf41b7298e",
-    "e8252f51dd3a6a3a0f39ee3fd32d759b27e06e960edaddeaba212f276f1402b6",
-    "7bd3eaf47e4bfedadeff7fc2718e13dd949e7596f91e89574f9b1b2067106e56",
-    "682781636e9b0c4a01cc8aadd0331fa9bbb761639f916ee7db570e8a20cab202",
-    "a05baa0c41180e84f2dcb7315cee6872e1662ecc9f500b0bac567b9d1134b88e",
-    "9a2d631c0266410122f6c57af40b9d517c2265691adb8e9f16e5155bfe0c6f2c",
-    "1b1ef99cc83ce80cb0b343aad38d52d9c9dbcb84db88b79d315e18b5013188a3",
-    "ac6d827d05cb731993bac04006f7e70dd26983aec4d17ed46563f7a1e37ae315",
-    "ea52f1cf0387b0f611893f7700905ef7318716c7466cef1917a773422696d3ac",
-    "9602a31fb66ff3e18e485c9bdc20a7993c037510fb684d626bfaaef929c0c4da",
-    "816e870caf2dc8ebcd4b370b156b7ae4ece486b19d42a906ada55d5564f5b789",
-    "66c46f6f0e078a2619cc77d9371f0fba1c77becea24920e1a3b819ad62dcfe6b",
-    "fd19fe13bad06386c33bf9e2a7729f1823835571483fe25cbf385715a4af2075",
-    "b1f8f7cf97c0004d006aa1fe1ec3431cde4c600ffe4003085dea08106cc17bc4",
-    "491436348ae0517b937b1335c5473e61862bece32739ea1f593370c19da8ae5a",
-    "ddf2f67e5952703d94abd68edf07b2b8a4ccf46165b62fb0f5496e26e123cde7",
-    "0e2e9784e2a9ce4b2f3e645fd5860f9fe55cbbbf446a319b2ca6cd59949dfd32",
-    "3df0623fd1850cd6fd53dbd33996fa8c025f8e29a5087bae0359f57c5544b3e0",
-    "ce409e6c560c910e3401ae237f3b7fb29c91e75972aa922ee75f5dbedddcb48a",
     "8cfae12d4fa9fca71b634c858cb138dcbcff7baa850d14a83a459beef553b0c3",
     "ed7fb12a9a3f4ebd5734eeb33ba36fce73aeb30a381580222c33a77c6051dd70",
     "a849fa0871db11018351c841bf0a64b00f11e40ddc506572069a3240f313887a",
@@ -4000,21 +3980,29 @@
     "84f78ca3c28a5735444497d973243cf7f22e7a67a3ee660138c1b855ee3f0059",
     "bb6f8c022f67c4f731e69935763a78fbe4d4c6c032ceb1b4d98425149d6bc290",
     "a2a3053eef844c24832e31a9a4fb59212a83155fe35569522bb522813c91db05",
-    "b700fcf1b8bdd5a42b592249d4fd8afb86fea1958cb0fa2f3dcdc5fb5b3f6014"
+    "b700fcf1b8bdd5a42b592249d4fd8afb86fea1958cb0fa2f3dcdc5fb5b3f6014",
+    "6bed492473030e1178b4f4ff100a529f10b9f740959902c57bb08e6a380e0e45",
+    "e1741f714759833f32ad35c10c655a995321d8534e5eed1bdb34f78521038289",
+    "c39cccf679c3d9a9157987a7257db1281170e28435afd92e89668e42b45056dc",
+    "1ede711adf69219b325b5d0a87a616da96c4e427094eac8b6ed7d004f4acb2e4",
+    "5ee17436ebbba8f7724c486adb8b3a6762e92be631bca1058b99c7507a0a2ee6",
+    "710a886f9ce502c60cd8b9ed1348bab60eec9d2da1760f9c6acce374dae624bc",
+    "fd4c6aeca10a585835b576c4473842597bf534f4e4a63768599dcfd03273578e",
+    "f2aef12ba64932fbc130e9b95a13e943c97be4297e2e4e610f81400674dc37cb",
+    "ab853027e98f2bdd0239a391087f8451230ccf7254695644f6ccd7fc9ae2cd6e",
+    "33eee1f2c03b63465ead71911f350a848f82a943985f00040d71c16bb871a281",
+    "0232e29b046deb08a1bf87f440ae0c027580b050f8d31dea99b23c807deb57a1",
+    "1c7c7b591d01fe0a946b51e6b40221b12f155b3e608f91053077a482f3c6f5dd",
+    "b24a8c8d16e78043ebc309a9cc5991efa63d0a17b4b1d0995f70a69e9ca8d654",
+    "63038b5922072b41eea8d16b4ffbf4f07148d4bd8b16a10d278826024f20bf11",
+    "327c4c4971265261a8f04896aa350b5855176e79c44e580d0596cd8751417c76",
+    "d5a1d1c88c1ed701e1e9aabae50319eb8d0f89e5e55ae7f0f8ea9725db7e3aa2",
+    "63b62d832115d3cc159a797ced51aaec839e36ab4fd06973bebaabb7a262c2da",
+    "3a08a2487b3e217320c74f009894b0de9d14f0b8d3c815f869a974e6b54ece53",
+    "4805f2c5561dcdc7855ce5d407a834c009e4518488d5ddc3b82548e27631bade",
+    "eee0bbc7e70bee724346798e21c017689199bce2ef678510cfe57f1461bf4ba5"
   ],
   "title_hashes": [
-    "6c4b541022f43d46f7419c3e7819d69824c50902f05b18a450f88a369f6ece42",
-    "957b58a121793d783f3cefa431ea07675d9805c612a52de64cc79ade119d7bc1",
-    "fd68f54e2fe7d105534c5605f32d405e401abc081182a98b414ed9afb31fc8b2",
-    "2de07519f630b87f28adf30c397ec6eb83476c4613d25ac28a32f89b2ba8dc9e",
-    "63f40148571bf24ad7d002b0e1b2dc31017ad74190857f69feebc8abbfbd2a45",
-    "b24ead283bcc2bafdfee5f96fbe41d431df1c8846bedc684587c1cf38f434994",
-    "ee808e9eeaea0977eb18e6c91b25d8504581cefebfa29d86d1999ede95d46f68",
-    "f3bbe3677cb94aae66dbf37c0b2aea3749329497b047607d60d783d775f29e98",
-    "0cba959d7710e26778bae185409d23c04ee719fd3aa0484e55a5d66f670779a9",
-    "ce6a8b30d350e17ec5beb3c0f2382b51c09624edfd0c0ac68b63d4279bd8a7cd",
-    "6223e4fceea3466c36bb09399c583c86428ef35e832d2f15a0ffe4ae57e49086",
-    "6687a2d15456a31444772f14c033b569680d7768170851f66243d0fe4563176d",
     "4eb6f11e464244b4592c913994f8a61f28d5247bd8a92a9ddba8b538e04305c2",
     "a90c01f92283c7ff71ae59b46c6073727ec3ae6cb54abd494f8c72c6e0e88750",
     "3ecc2f74a5014588f884b09be5c410265cc03abcc8f8cd2ed8facf3d9910a2ee",
@@ -8002,30 +7990,21 @@
     "27315d14cf185577f90e242f01c469f50ad8212f48754743059b72f815659f87",
     "69206511e7989f218897042c98cd085e4eb59730ca28e03cb0f50b2dd76f1d86",
     "3b47ac595dcbb910f164198b1435a18728fb79eac51025ffdc3b412eb7abbf9e",
-    "7d9876af86ba75382c66ae62c3b093929d3d21a734f4660b28a1f7613150fadf"
+    "7d9876af86ba75382c66ae62c3b093929d3d21a734f4660b28a1f7613150fadf",
+    "3cc7a8432f639bffb588935533c1f03e62bf0d2fdcd7335c2758244afb5f322d",
+    "57cc96b716f6d02555645f0b784fb37001278bbf823eb3ccca081a308489a29b",
+    "1aadff43cec0808b6a7d5a8cc8123cecc903e2c131855055060271c9ed56352e",
+    "286df46e0237a1254e305c8892d4a53913061791d5e969701bc4691a1d88c9a2",
+    "8d191839ac08588cf28d3e0eaf41d98a840c02579305f946606e30ebff2d5701",
+    "99375f7bbf10a62a0ea9b128a2ae7b327d031d6b7e552f53655d904dc3af9e20",
+    "2ffd8f106ec5236bf11f8434f38a3475dcd7f1e0c60db5300966d7b96f501cf3",
+    "6d7e891d7bb5ff3cdc2baa7653269004ca0313688b8b9cff942ac790c5ce4998",
+    "5df680d2ab07c9a09f04a331d6a95f37f894be726d8d178d0be4da4ac0d1587f",
+    "d51ed213f2f4d73251912db7aa5a1e3728896b97b7af097d9f4fadd85a7f876f",
+    "dc465826f645a419d3a4976e1c7b2609a186fb925b2f93153ce9abb45ee03a8c",
+    "6c2c986d445a9a89f474cdeac3afca8eb4e74c6ad9b27c0550f898e247824d70"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "Cadence sees bigger gains for India in chip commercialization than homegrown EDA tools",
-      "title_ko": "Cadence는 인도에서 자체 개발한 EDA 도구보다 칩 상용화에서 더 큰 이익을 얻을 수 있다고 봅니다",
-      "url": "https://www.digitimes.com/news/a20261119VL225/india-cadence-eda-design-ip-manufacturing.html",
-      "ts": 1795144024
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Google taps Blue Origin's New Glenn for first heavy-lift launch of space-based AI project",
-      "title_ko": "Google, 우주 기반 AI 프로젝트의 최초 대규모 출시를 위해 Blue Origin의 New Glenn 활용",
-      "url": "https://www.digitimes.com/news/a20261120VL201/google-launch-demand-electricity-data.html",
-      "ts": 1795144028
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Samsung taps HBM executive to lead memory business",
-      "title_ko": "삼성전자, 메모리 사업 총괄에 HBM 임원 임명",
-      "url": "https://www.digitimes.com/news/a20261120VL202/samsung-business-hbm-development-dram.html",
-      "ts": 1795144031
-    },
     {
       "source": "MarketFeed",
       "title_en": "AUSTRALIA’S PM HIGHLIGHTS SHARED COMMITMENT TO OPEN TRADE RULES DURING TALKS WITH XI",
@@ -11504,6 +11483,27 @@
       "title_ko": "터틀 캐피털 스페이스 인더스트리 인컴 블라스트 ETF, 주당 0.07달러 배당 결정",
       "url": "https://seekingalpha.com/news/4675129-tuttle-capital-space-industry-income-blast-etf-declares-0_07-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795180083
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Russia-Linked Influencer Under Guard Amid S. Africa Escape Fears",
+      "title_ko": "러시아 연계 인플루언서, 남아공 탈출 우려에 구금 조치",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/russia-linked-influencer-under-guard-amid-s-africa-escape-fears",
+      "ts": 1795180232
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Chuck Schumer Blames Trump’s ‘Disastrous War,’ Tariffs and Trade Dispute With Canada for Rising Thanksgiv",
+      "title_ko": "척 슈머, 추수감사절 물가 상승 원인으로 트럼프의 관세 및 캐나다 무역 분쟁 지목",
+      "url": "https://www.benzinga.com/news/politics/26/11/63468467/chuck-schumer-blames-trumps-disastrous-war-tariffs-and-trade-dispute-with-canada-for-rising-thanksgiving-grocery-prices-says-american-people-sent-maga-majorities-in-cong",
+      "ts": 1795180234
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "EU, UK AGREE DEAL TO EASE AGRI-FOOD TRADE TO APPLY FROM MARCH 2028",
+      "title_ko": "EU-영국, 농식품 교역 완화 합의…2028년 3월부터 적용",
+      "url": "https://t.me/marketfeed/1082520",
+      "ts": 1795180236
     }
   ]
 }
