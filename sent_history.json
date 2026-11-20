@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795203524,
+  "updated_at": 1795203675,
   "id_hashes": [
-    "b33aee4e180f68761a9237ae2205c991cc99a8c0b0ca154d3a0a33a6b862bc69",
-    "0bd031801696b796b0c539c1c058ea03f39b0ff9d8a71632ac0c848cabbd8b0c",
-    "a726a21dd6dddbc4cbfe2071f4a6c731b391d7f931bd6eeeea69cc41a47f1a9d",
-    "d2f8d58be5861de8ec6fa4937aa1b6432284edd6d891c33290109816cd887cba",
-    "eebace87106f23eef9e14f0ce25698aa455bd4fa8a6c312f951f9d59d5b529fa",
-    "db2edc0734dbd85d82a561b3c9f653c91507f833f2fa7076b3908f54f828fe0f",
-    "9869fc7813682a5a74fe4867ce6ef49f62e85c1b4682559a60e4b76af002d9e8",
-    "d2487532e026d7246c1acabda6fa267086205a0dac2db314f34655ab5fe77536",
     "fd6f39eb1a39eb2ccdc5b6b662236453d69757d8c4938c2fa82ac3ea8335322b",
     "9898440cc8d1803bd9b85adb36a5dcc985b8126d30f134652cc51aca5bf2e916",
     "5be7ba4ae1b6f24e6e0bc9e5eed7fec5c42910d934555fb9d9a093b73be8d29f",
@@ -4000,16 +3992,17 @@
     "db1cc8e108a015154dda8fd6ac2714d91c242a2d1245c2c835ba235e7853edcc",
     "a3ca7b3133de0528497cd99574f41908b002601ad59381228bf7451a7b9644c9",
     "4b7ae14b212d41115380137791dd1365ec9c97089ee41df006a9acd44f6bed5a",
-    "8ab6f2903381e36070cf16d7e4a3707fc95478de4485053cc908018a374a2e66"
+    "8ab6f2903381e36070cf16d7e4a3707fc95478de4485053cc908018a374a2e66",
+    "319d6f371c05702dc1c4760bf5a069bbdff9b1fc10d51eaf49ff4b13a9dd6258",
+    "6029a5d83924b2735a99d5b71717a858dd2d19f89e5877e9d1de7beddd9bb2db",
+    "303a975223214ae57e3902bc50bc2c118182161a23be352e911130704f18cbaf",
+    "a42e65c8e5ed7a2e19659b821cd799418999fc7b3c96dd6380b251f72456ef01",
+    "9e418442302f437647c432e87e271b426716178b45eba427d56249f47c4a0cc6",
+    "04476d96aa0de18797c643e246ffc0132f9c072442d9b0819694e00564b80c69",
+    "525e4cfa8ebb4d5f9ee227a0e639b18975f15a10963c83e781794eafe8360aba",
+    "5862307f7718448afff056df2bde5de88973bd48c0023892fbafbf845792ea61"
   ],
   "title_hashes": [
-    "805a28e008083d0eaf36a8939a343fc4893a043a0bc3b8372f158705555d0c01",
-    "bf9160ad13899e9528e23d81bb0134632a42aa8a693458ee2b3e0d73b58a7416",
-    "007a71b44330d490e212ec2945ea4800e378d84c7e50791a354045399598b72c",
-    "1547c25f943e43663e563008bce3f0692250da242d505eecc89baad7088685ac",
-    "528342c361d06645c62c84af8bd6c3c3c8cc49ac2f49a8be9c03e1626c05fe63",
-    "4bf484bb02549e2bba9b7d8f724c46b40e28cdc35b5c46388bdf9f520f4bf6af",
-    "201fa2b3af8089c107b0c9a03a2e0d6439565a472a9eda5cdf78543cea60789b",
     "9f6df731aa80adc747880ae33bdd1d34f8c7f54f7de3185637cb88146bb357ba",
     "46d16c63bc0f23cc6cd747e45683e1f4cacfabec9d568434a0f1177a4e29fc45",
     "ecbb93dfba0b84cf0ab095781841e8cd90cf9e5ae6157128242635730946585b",
@@ -8002,30 +7995,16 @@
     "43489754734db6ef64af5ff6ee1092dfe192aa97752f6c3bde57b26098a538c0",
     "3671b5d7c48731b0fb18716ac2f8f02598f6dde8b5002e705132d07fcce1dd10",
     "c0973f6c43ee63dca64ed04ec92b799b0b5191b96ef72c940acad3baab488968",
-    "59bda43c83ba53f815fccd78fdd4a06808a3ddce4d3dc66244177865d7646527"
+    "59bda43c83ba53f815fccd78fdd4a06808a3ddce4d3dc66244177865d7646527",
+    "e0c1bb382f566b1ebd941f3f62bde7f4bb45fdcc3d15a78b5ab45cd947ef0079",
+    "3ca96c7c88ea5b8f03e6d49c7a37b8793da5935b4a81c9ca8b15215c8cb45893",
+    "d64d4a8024b80b9cb5f8efd8256b173d514454eeb1f458cc1036f33530d8cda2",
+    "1db9b7822b0111acae972ad1001ae68f10ffdf18b4396eea59b9d1d9cc061a4d",
+    "7db70ab6a2be8e13c2702b04b60b3495d64762560c66e0045d7ae1dcc8d7bf2d",
+    "e57d20764bf35a027542224763db75b5b75ba6174aa88806342930825301850b",
+    "eaf86b1ff81506284356756df52702671e40838c73593f3c53f5a2c493ed3ef4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "🌅 Market News Digest: 2026-11-19 to 2026-11-20 EST",
-      "title_ko": "[글로벌 증시] 11월 19일-20일 주요 시장 뉴스 요약",
-      "url": "https://t.me/marketfeed/1082488",
-      "ts": 1795176070
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "MEXICO RETAIL SALES (Y/Y) SEP: 2.2% (EST 3.4%; PREV 3.3%)",
-      "title_ko": "멕시코 9월 소매판매 전년 대비 2.2% 증가, 예상치 3.4% 하회",
-      "url": "https://t.me/marketfeed/1082490",
-      "ts": 1795176073
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Aswath Damodaran Sets $140 Nvidia ‘Limit Buy’ After Jensen Huang Exit, Calls Tim Cook ‘Not A Good Fit’ Ex",
-      "title_ko": "다모다란, 엔비디아 140달러 '매수 제한' 설정…젠슨 황 매도 및 팀 쿡 경영 능력 비판",
-      "url": "https://www.benzinga.com/markets/equities/26/11/63466933/aswath-damodaran-sets-140-nvidia-limit-buy-after-jensen-huang-exit-calls-tim-cook-not-a-good-fit-except-as-temporary-ceo-during-crisis",
-      "ts": 1795176138
-    },
     {
       "source": "Barron's",
       "title_en": "Micron Keeps Falling as Memory Stocks Get Agonizingly Cheap. The Next Catalyst.",
@@ -11504,6 +11483,27 @@
       "title_ko": "달러 제너럴(Dollar General), 과다 청구 혐의로 10개 주 추가로 FTC 소송 확대",
       "url": "https://t.me/firstsquaw/194713",
       "ts": 1795203459
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Nvidia's 7-week losing streak is longest since 2008 financial crisis",
+      "title_ko": "엔비디아, 7주 연속 하락…2008년 금융위기 이후 최장기 약세",
+      "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+      "ts": 1795203548
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Microsoft emphasizes 'pay-for-performance' in its Azure cloud division: report",
+      "title_ko": "Microsoft는 Azure 클라우드 부문에서 '성과에 따른 지불'을 강조합니다: 보고서",
+      "url": "https://seekingalpha.com/news/4675289-microsoft-emphasizes-pay-for-performance-in-its-azure-cloud-division-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795203550
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Ford, Honda, Stellantis and VW Sue New Jersey Over Law Setting Dealer Payments for Warranty and Recall Repairs",
+      "title_ko": "Ford, Honda, Stellantis 및 VW는 보증 및 리콜 수리에 대한 딜러 지불 설정 법률에 대해 뉴저지를 고소",
+      "url": "https://t.me/firstsquaw/194714",
+      "ts": 1795203614
     }
   ]
 }
