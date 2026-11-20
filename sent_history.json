@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795168597,
+  "updated_at": 1795168747,
   "id_hashes": [
-    "67713b41589871f2e44ea2bef3b4bc0e2f0216d7e7d7203853319d4b40031a86",
-    "4d5ec2a904ec4f1e43dbb9cd96c468159a3d54b33ebd423b30328ad28b812b6d",
-    "7416e904bb6cf6c7d311257a50e4b63583a01e84802795a42deff02f86ae1b34",
-    "287ec9dfc5e03b5e09fa60e0f0a777fd1e60b09a08272422b6f9b34a43929456",
-    "0638c865283add70d70b751b26c4911583c1c2b7738666b0dd3f4290acb76fbb",
     "efc8d9120d05716ab0e5a3681a1c5c75c06403b5c24f9080b89e3277c113e9e5",
     "4a24d0523d1afe6ab7aad1b2cf2e985e7adef30c806281a5f1497b1d9a081959",
     "71109a264b4f12c5617a9a9f3c11fa8e821a195feb27152bbeace87031bb960a",
@@ -4000,12 +3995,14 @@
     "9c583084cf4e9d2047a4dc359dc1fddd7594cf24c53542dd4e452f8d162e2c02",
     "5a6191867f4b75c61f446e85ca3d8843d37028b993a9d92cff025f6ef4b58ae1",
     "c9c0e1cfc08ced95a69c5b35133ea34ea6e22e49b00ef26109b953e55ea8cbd1",
-    "3ac7c338d5450946ab5d0b023d49883898bc9f6b931ce6ea1889f56c2614a9f5"
+    "3ac7c338d5450946ab5d0b023d49883898bc9f6b931ce6ea1889f56c2614a9f5",
+    "3f9f7f782879dd6c58a8b54ec4ed153bb91e4f8196c53aae9f26a0b8ad17decd",
+    "ff7b8c9900e0baca9b74f1eb1c7d89af2dd8f61b6e5397d6d9f7d1ce3e415295",
+    "1909bea93fc71eeaf9ec9df07f175e9ce1647070f635f9e1a624045e9c19a436",
+    "273eb5be3aa9c38b4c3e04add6fee3b52cb5baf6021ffdcbf91eb6d94f5ab7d7",
+    "c8bfc554152385ec22bc7a9abaf1eb4811c1c895bbaf8dcc6826c654412217d6"
   ],
   "title_hashes": [
-    "f76a134f9100b4aabbc47325bf931f9f63260bb25199d45c693d2b6fe34df9c3",
-    "930fe40b2e87a6aa866d4dae52d1349b2e79fed4d7fd29201ad2be274fa97cac",
-    "65ba147cff37c41589f6531361e078c27b4644a24c4f102c7a937499170a5c9f",
     "bf20ca87be22d121cf8373a9a6031e7af25ce2e407b2ca286a76805215a46f98",
     "6bd9218904054ce58d2225ac8c8914a7828bcdd170335fd5a9b820127f8d5f0e",
     "2e17b53326432b0f49d113be5b93833e1018c8e46d3e6ae673e42e6fd34347d6",
@@ -8002,16 +7999,12 @@
     "cdcf1b9f784c743370e5ab727fbbb00ba1e7cd3c80f872e77172ba883298871a",
     "d39636729a8900b27e0b05063f2dbe648a0a4a34fa6c189bca49910028ab1238",
     "59a1e72d1b0720d2c0b6dbf8afb50b1fa8098165fcdde51470a114a35b4c7472",
-    "3d6e28f7f57cd6171e6a4b0ed6262537c66a285c7a2db9071053d0ee96cdde7e"
+    "3d6e28f7f57cd6171e6a4b0ed6262537c66a285c7a2db9071053d0ee96cdde7e",
+    "c0c30dadcfc560e9a64bde1eb3b105abdef277599ce682d1d52189f786e9ddb0",
+    "4cccc04d43c1bf36172bf01917942387617e27ec4aafcfda7f684116a8849d21",
+    "11b1930090aaecd0e07684e9586529ff297dfcca8e290eace30941984acbe71d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "中国11月一年期贷款市场报价利率(LPR) 3%，前值 3%。",
-      "title_ko": "11월 중국의 1년 만기 대출우대금리(LPR)는 3%로 종전 3%보다 높아졌다",
-      "url": "https://wallstreetcn.com/livenews/3202903",
-      "ts": 1795136446
-    },
     {
       "source": "BreakingMarketNews",
       "title_en": "🔴 ⚠️ BREAKING: PBOC INTEREST RATE 1 YR ACTUAL 3.00% (FORECAST 3%, PREVIOUS 3.00%) $MACRO",
@@ -11504,6 +11497,13 @@
       "title_ko": "연쉰인스트루먼트(联讯仪器): 고속 광통신 테스트 장비 수주 잔고 풍부, 증설 순항 중",
       "url": "https://wallstreetcn.com/livenews/3203231",
       "ts": 1795168596
+    },
+    {
+      "source": "Barron's",
+      "title_en": "'Historic Moment': Global Media React To Trump-Putin-Xi Talks",
+      "title_ko": "'역사적 순간': 트럼프·푸틴·시진핑 회담에 글로벌 언론 주목",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVGJtMXRyQ1MwdXR6dFdVMlJSX3NoS1R2eEF2RGhETk5zTWNxTjlEdUFua3hsaDFIbzBNbmY3bHF0ZGFCOVo5ZTBTdkhnZVRlbVc4OWNwaXhGZ0luTlFBLVNzcGpkNHNjQTk4ZW1QVXEwUVBkOTVVNVY4TlY5aE1jQi1JNFZNSmN5dkxZUE1XVWJfTWxKTUtINTRhTks2ZU9NYTBHTDhLd2t0czMwZXRkT0Z3Unc1SEF5UWlV?oc=5",
+      "ts": 1795168746
     }
   ]
 }
