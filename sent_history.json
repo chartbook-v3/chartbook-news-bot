@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795211810,
+  "updated_at": 1795211962,
   "id_hashes": [
-    "89db67a4743f8a3c74200a4f4e47160e62131a846fc9f88c438e2e29e18d1338",
-    "200f1bf8a01235a7c8a4997903aee77847c2e2e46715080610fb9f9d8612fe2c",
-    "e91a2ae8ee524e016699e44b32d05f2df69d67e7dc05a344d185051dae580b8c",
-    "27a7d137d751a746abe63c4879ad141a372f2473ee6811d3d5d41a2470dbbf95",
-    "60138ae04c860cfdac4532b7ae10107fdff0e9bbaa9edbfeb2e4658589525641",
-    "a32c236bc8629fc3f990fac8600895145a45bf741f8780cea1c41e2523da6ce3",
     "c0d777097e25dc1cc5eb3864a6e58920a02a15f96ff7cb4d0b0b69b0c4130c20",
     "3241727b1c07b842fe36bda20fcdfedf592a7c91a69ae8cf71a31fb03df470e7",
     "dad403698f7a3f5d5e5ef06209f761aa38c3fa7dace395806a728dc902c63fb4",
@@ -4000,15 +3994,15 @@
     "fdb453224881d6ae2eb6de837aa14bfabdd0fd2b80dce7cee0ad3374a6d1cb7f",
     "19cd8bb5f68d2a5fb3d8a397b2dcacd0f190f24699db292d49219dfcba35b510",
     "91cd0437ccfe6383123170500c4328dc3994b501f44810f78810fefad66174da",
-    "4916429bdf4ccd0dcc2fdd3703b548a95ebbde1087dd29ca7588acf0fb3f9e0e"
+    "4916429bdf4ccd0dcc2fdd3703b548a95ebbde1087dd29ca7588acf0fb3f9e0e",
+    "bea448c45d82035959a5d65bae45859545457d5872e438a64dbb7f8a984750df",
+    "185572a1a05fbd2f615022f314fb94c26874029f0355ba672c5c77877c90bde4",
+    "e6fd3d226be713ddb35c4d89113f644f534e9224c43442590eef95a0393e0aca",
+    "d4c01cfe4a1447b03fc99ee6595232db30a021c0e8eb824cc501c32e97b206e9",
+    "26866e7ab1e4b8a2d7b6a0a74a3fc69d5de0aa9df6a67c2ff8f37452e85eb6e3",
+    "c6a1b47aad8aee48848bc11d1baf304f64661f1577f7461731bbfd2f77bdfdf5"
   ],
   "title_hashes": [
-    "8142c7df617878ddc9c67d56139ae2ba09c4e6fd5bd46f6dbf283236cea406a6",
-    "ee89222ea7fe64288535c7f40578dd47e3a768e4c89e742aa171bfa0b95fb1c2",
-    "e477d0e041d1469fb5041bb268c27efafab4b5368d538da826d75ba601281fd6",
-    "e247eb6050424ee87fb77753a85040d5145500214ac5874527846ee610019b7f",
-    "c22558cbf0accca7cfdfc634a298fe9af5858b7f9374b61bd432f7bea545fa1e",
-    "fdd40b19f09bc2558d04a9f86d3d08fe9b0ddfd70254e5e4ae772290942a9fbf",
     "a4314cb45bf96d680dbaf31046b0df8ca4285f496a7b7b0490d3e99a4d7e4532",
     "70b7d2bf38a3c3655fe08cfc765e529ae683eb203f25e7dc54e0ac48681e0648",
     "e40c59c6b600c7e34285a4e2f555f660567528a84967c0a95399282e949859e2",
@@ -8002,23 +7996,15 @@
     "8a42d024539a28cda352a9340587d6a852dc15884493e2d2b4cfc09e13a2f4e8",
     "71549cce575fbf74bf2e94d2a736a236f90178fac5882159cf8552ac0d61faac",
     "1fbab9413401b21a0452d25a868b3b22966c38d87172cf548f821fdc1e8808df",
-    "a9a75e7bcb09f0d6353add9972e3f4046fdb5dc0c3a4ff9d66e4e2b8079d3f09"
+    "a9a75e7bcb09f0d6353add9972e3f4046fdb5dc0c3a4ff9d66e4e2b8079d3f09",
+    "c0b7f54340011066654e7e4a2c7e7b66758d2cfa55147397040ce6ec23111b11",
+    "dfdf792fa57e87fec451b8bd1202a636864009964a231124e9af2d351a420bdd",
+    "10dbad9a4f8da1105188e15112b55d3f0579f88de25b0dfbbb4691acd6d6ec4a",
+    "13e39d453d57dbda4fb4161ca3f6ce154a1e9977a57597426b55aec986f644d2",
+    "959bff3ac3fa46b6be23cdfa19791d99ad55ee1c27fe2cc5df273cb4872f19b7",
+    "c5d99230ad28926b2c1a6cf5fa9324ef468aee21d2573f8248c4cc3b62c4734b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "US HOUSE COMMITTEE CALLS TO REMOVE CHINA OPEN-WEIGHT MODELS FROM US GOVT",
-      "title_ko": "미 하원 위원회, 미 정부 내 중국 오픈소스 AI 모델 사용 금지 촉구",
-      "url": "https://t.me/firstsquaw/194615",
-      "ts": 1795189590
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "US TREASURY 5-YEAR YIELD FALLS 10 BASIS POINTS ON DAY TO 4.75%",
-      "title_ko": "미 5년물 국채 금리, 10bp 급락한 4.75% 기록",
-      "url": "https://t.me/firstsquaw/194617",
-      "ts": 1795189593
-    },
     {
       "source": "FirstSquawk",
       "title_en": "US TREASURY SEC BESSENT: TRUMP, XI TO HAVE 4TH MEETING AT G20 IN FLORIDA",
@@ -11504,6 +11490,20 @@
       "title_ko": "Melar Acquisition Corp. I 및 Everli 완전한 사업 결합; Everli Global Holdings, 2026년 11월 23일 월요일 나스닥에서 \"EVRL\"로 거래 시작",
       "url": "https://www.streetinsider.com/Globe+Newswire/Melar+Acquisition+Corp.+I+and+Everli+Complete+Business+Combination%3B+Everli+Global+Holdings+to+Begin+Trading+on+Nasdaq+Monday%2C+November+23%2C+2026+Under+%26quot%3BEVRL%26quot%3B/27382284.html",
       "ts": 1795211809
+    },
+    {
+      "source": "Barron's",
+      "title_en": "The Stock Market Is Bigger Than Nvidia. But What About Anthropic?",
+      "title_ko": "증시, 엔비디아 의존도 탈피하나…앤스로픽 영향력 주목",
+      "url": "https://www.barrons.com/articles/stock-market-things-to-know-today-2d681ae0",
+      "ts": 1795211832
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "穆迪对英国的评级：AA3评级平衡了富裕、多元化的经济和强大的机构，以及温和的增长前景和充满挑战的财政前景。\n\n与欧盟更紧密的经济合作以及人工智能带来的生产力提升，为经济增长带来了中期上行风险。\n\n随着通胀放缓，预计债务负...",
+      "title_ko": "영국에 대한 Moody's 등급: AA3는 부유하고 다각화된 경제와 적당한 성장 전망 및 도전적인 재정 전망을 갖춘 강력한 기관 사이의 균형을 유지합니다. EU와의 긴밀한 경제 협력과 인공 지능을 통한 생산성 향상은 경제 성장에 중기적인 상승 위험을 초래합니다. 인플레이션 둔화에 부채부담 예상…",
+      "url": "https://wallstreetcn.com/livenews/3203602",
+      "ts": 1795211961
     }
   ]
 }
