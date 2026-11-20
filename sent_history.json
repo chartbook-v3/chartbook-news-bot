@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795146644,
+  "updated_at": 1795146797,
   "id_hashes": [
-    "5aa06302f81175c63fb6dac0fe10039d06b309d7b8137a04684ec6a6a7c8c301",
-    "7cf1ad04899839943b086675fc250cafc11e89d5c520610c4ed7b3ce0e75b0f2",
-    "131991e271d0a69e5a2325b88330f9b23957bbe95fddba77fd2f962e52878231",
-    "c13e734360f66692a11e66e7cb74a24dd6e7f680a81295b5da001a7c47307712",
-    "d43b3ef79655a955f7b703b5dce5d0d3cdf417ea9cd4633f530734fd73eb7b69",
     "d4d0708166f43dd3e6b85b624f73da971507bc920b54db5b4cc1e1de54343533",
     "549cb3fa83da62722b355308d8d5fef16bcfe959101fe995bd2a8785d9ce79af",
     "f06d8adb79ff782601fd8bebec2688a3c87c66fbed1a29fbc575a47b2ab50516",
@@ -4000,14 +3995,14 @@
     "6a4cf51eb373e7f76ad7e59b34ad14fbc04b68905d7a7006c3ed04b65f9efa7d",
     "8bc2d8139870517913fd917d184ba71f624a3357923febc1de22732be3bbc138",
     "455ea717d8c0fab99bc41f30437991fa7bf2d05ac698065549c8530d41e1a036",
-    "5a0909933f57936a135a0a282a106a1e0d5ad3718930201a663c0119bde7e5e1"
+    "5a0909933f57936a135a0a282a106a1e0d5ad3718930201a663c0119bde7e5e1",
+    "53f8d3d94939e1941ff78af8de48943ffdcc0973a6d37c2578de8a385fb5121c",
+    "e271b46c70b1cc189b6db4330ed508db6c5cdc6eaf8e4fff60c9ff4d1f2b8a08",
+    "2061057bb27d3efb4528d02aac83551cca1d63ab5710194360e1bfd7f672ac59",
+    "2408ecd46065ce7ee6d5e6b84f6642087e5b5af24f79d4650c3111f8cc9e6369",
+    "9ffc4641a4715e5e32252e4efb8790135a647eda415c4cad04955d5335c1ba77"
   ],
   "title_hashes": [
-    "d62be142999c1c54e51ee47eea62071ccd8bc7f0be654bc44860ceae3396f5fa",
-    "974c147729532e99697eec88bc84a076233198c7c4790d4695e92ea57c73d1bc",
-    "5f3a63f113c16bab2e6c49c79b90b1971c34faa12cfded695dcd92a7c3bc5f09",
-    "b335200bc257a070ef67a19a2b3b9f38bd4ba3ebbe65b31df135582d266dedbe",
-    "49617baa03ab31758ee815da7f13f218b76ef39943f6670b9f15dc835757566e",
     "4129f1d58e71637ff6bcdc8705fd6fee9642cf6e9295d09959a0602e841d259c",
     "c62eb29d76c43e81e82519c129abc44d0465262bd08a2d76cee83bb60c914452",
     "f4fa00a48396bcc3f2ea0ee767415da6b46674deba98a79fce9aaa2a2e422537",
@@ -8002,16 +7997,14 @@
     "5336aec91132de9576003cad1f072835552868a1d5e89afbecd71be3b1872bcb",
     "798c765ef6e5eec92e8f9ba9b031c6edaafbce6c4cf23448226a4e5f43d2283a",
     "94a6489e26c884b478e6c9bacc357c7a74672ffa4a26b1b732b80d662155ee5b",
-    "60db275617626738795955e399d882c4a4fed8732204c681057c60d9ca3ecc77"
+    "60db275617626738795955e399d882c4a4fed8732204c681057c60d9ca3ecc77",
+    "d923ad590fbf2ed0b4d1ee2f8d7fa7b6e7305db121c751071548bd25af0d8d9c",
+    "42a4f4eb690e4a1af423650196365ab48b8c7a4241dbf1960fc002a0412ad6f9",
+    "231f5bcad1ffda88a5250e024d4abc92152413ccb77f7f9ff69c203ef13da5c4",
+    "a986157eb4d7f4154e6e6f0652fb04b6ad8b53e8f951cf1fd1236544d421a18d",
+    "16f568fe0d85df124a01d89be31eb63e58da48215c86c2b777021aa11a5051e9"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Tilt Models Nvidia up 8.9% 20 Days After Anthropic IPO - NVIDIA (NASDAQ:NVDA)",
-      "title_ko": "기울기 모델 Nvidia는 인류 IPO 후 20일 만에 8.9% 상승 - NVIDIA(NASDAQ:NVDA)",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63457684/anthropic-ipo-nvidia",
-      "ts": 1795121347
-    },
     {
       "source": "MarketWatch",
       "title_en": "Nvidia’s stock falls further — and has lost $611 billion in six trading days",
@@ -11504,6 +11497,13 @@
       "title_ko": "우주항공청 누리집 국가상징 국무회의 알아보기",
       "url": "https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/view.do;jsessionid=h43pObmg-SMo-s-r4UcndcMWtRBU0zATix1DS_3D.homepage20?plcyBrfNo=558",
       "ts": 1795146643
+    },
+    {
+      "source": "딜사이트",
+      "title_en": "엔비디아 이어 AMD도 中 사업 논란…삼성·TSMC는 칩 출하 보류",
+      "title_ko": "엔비디아 이어 AMD도 中 사업 논란…삼성·TSMC는 칩 출하 보류",
+      "url": "https://dealsite.co.kr/articles/173215",
+      "ts": 1795146796
     }
   ]
 }
