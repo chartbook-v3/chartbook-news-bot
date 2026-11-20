@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795145728,
+  "updated_at": 1795145882,
   "id_hashes": [
-    "baf06170993aaef397afa6598a5fa3fef28d0d577b2b2e859aceb72a1e609e6b",
-    "ff02baf8e2e04355120ae6cdbdba0ab95c5f80291a7e144a6c66979acf0d5b39",
-    "6dcfe513516f58db1dbebc4705f7475528c6253a212389c60a2a192995704e60",
-    "608c03e67c6c1eaa862b84255157e38b91e2dae612bc99c00da5b34e5c3c0d21",
-    "5080010e1bd61b0fc1544b3980b4a0cd3b666b845ce62481eedfdccdb66e0ab4",
-    "c880f4bcd37b48ec80e3f87243c9f278e3b3a6303a5e52082a52042d6639ee63",
-    "2648f13980fcd51a0e8651e48e145f6512843156bb3e7a2cc1c0c22789917f73",
-    "9a9004d971d9ff422c626ef8ae751adf70a2a27dcaf3dd5bdf3e68611b9fa3cd",
-    "75d02a9b8d1542285e5398cddef13f4ae9c430faa1444ad96cc77cab48516984",
-    "b483f9d76c968b3300e3b36f173f784d71e2b84d4c77e3bbefb1e0d2d30a1a7e",
-    "9145bc27e05b0d8a867fc9e872b3d48357d2b659cff1d99abfdbc63dd0b3324a",
-    "af37e6a2a010e4747a23e89a94507c3c2c06ba2e918d89772bfac4bacf602c96",
-    "6da1f886f14066774fab1f266c09fa328bbb56cded4cec42a13f70ccf119e37e",
     "f61cc82236004393f90b4bb387964b602bf19e4e39ae8207e6fdbca35683e908",
     "4c0f8acc5ff2e08f1b63d4f873dfc07352599a62db674be596d6797211dee522",
     "37d5c9535bf64895f00faadbf5d19f455e4ece2c7680f78c631b7a2d032d2ff1",
@@ -4000,18 +3987,22 @@
     "c5f959f62b0e3f36720a331912d7deb5bceaaca0fcba3d112cc3fc24761a0438",
     "4b857535be351022a66d5b41b9b86a80f8c8fa7819b738f2398493e34c6c8c0d",
     "9d1be009461ce8bda8da956e9efb4af57b28f531df85c81e83c4216bd33de81f",
-    "b6da7f2b3f0c1d810b36692db808ba15fcb35963e2be9fce77a649db72d7cc97"
+    "b6da7f2b3f0c1d810b36692db808ba15fcb35963e2be9fce77a649db72d7cc97",
+    "04388d6972c658ec56af8d6e0fdf229e89d6806eaac761145b30604c171058c4",
+    "1394be6a543dfac6280951fa7463c84a7f954273a501ead60df39403128953a2",
+    "07edb54c0f8298ef643ed64704e0454e03975ce3ed4c8e506b0cbfb06b656da2",
+    "d01ebe20b38d09d6e7bbc88c7da93098982e135fe35feac8bc05ba026339dec0",
+    "2a5f9c530100f69eec036cbbb5bfb8b110ea1a9b530424a510edb5ca808f9878",
+    "bf42a4b352fceceb173573d6a814f8de24c62e0763686498f0892caf34f70dac",
+    "7020914996832397b2c4a209f3da97c24b24e6769949fc7e7a0fd722286d8b4c",
+    "afb6fc1355e32b726aeeb4f8050f06e06e4d4831ec5f220e947d66a144d5b5d9",
+    "970b98a8c30071a1b86f0e3b6d06c6ce04fb105754e6b1190c10edb77cb94a6c",
+    "c6db222a4aa39da2df9ceeb12f64eea3d2d2c980bb8532ff9955d5ad2a2aa539",
+    "2556e4f925895fab9864005b176b99fd5c1aae6c3978a782f9122446028e5006",
+    "3974b52770c083389f83604bb64aa15c8d6ef069a4f711826ee8e41822cacf29",
+    "9e1e2ed907ea16e74a78845586d9433913f8141a046b9297800ba02a3e0d67d8"
   ],
   "title_hashes": [
-    "6606db2691feb94375fac12af6cefe1d714a06acd719eddf5e2418660c2e1299",
-    "29a999d2e99a163d7745deed93e61605fd5ba41c24e08cf42189f67d9129b192",
-    "9bf342fbe6d0a50624f3a22b8b0694272e7e2d30cda1a621c46d63b280710c24",
-    "c0d29827bfc2600a110b87be18c5d3ec2ff408cd742e847ce4e3f77685bb2b8e",
-    "92471909280528312cd12f2b1cb00e9442a8fb05057c8e647902af5be00b8972",
-    "fa25c90d01ed1f9190d9637e3853ed3fde34b11c492b9a549fd6f7312545ec5b",
-    "834df811de8d290c919ca319adb3e87049685b0409fc3ef642d7cc7718fa882a",
-    "24e4b00f49db8e304cd3247def52d6aafbd21a28af50a8d7a1f13f83183b3b15",
-    "edaa8bd49c7072702ee9a0058a437ffbc4f7f337302e1efbfcbb7790cb22b42a",
     "5739f1baafcb211fe860743ef5043c44438597383970f48a4d36849159440b06",
     "da8df732e3f4b6de3084359484a4bbe6603db039eca3825fd258880a351cbd5a",
     "777dfa46aa385ff801e0d9e4865ecae9241c78f4ee9bb8cc5ee923c10bc85b99",
@@ -8002,23 +7993,18 @@
     "d3b03a84ea4d4b7806b34639d9ee8c7d7695bc1bcff5e4b72e8c2ba0bb8e25cc",
     "ac8c3656ca51a1086015b2c5df37b7f4521f32fc161ab250e572c2dc42fa97f3",
     "39513f3e042c71324fb28a3a716cf2e4439a668b77b748ab1256df28a553b0da",
-    "aa51644198cfd82e882fab4af06bfb7661d3b05f7aab3ef5f2fe784dc7c3a4a6"
+    "aa51644198cfd82e882fab4af06bfb7661d3b05f7aab3ef5f2fe784dc7c3a4a6",
+    "61e84a09700254351983ca9e533ad7a5a792aebc6e6171efdd559d9accc5e4c0",
+    "31758000b32c88e70a583e7cdfe6c6437852389faadc0f679c2b63ac8c85c556",
+    "ebda6cd74019e1d0fd59ab0d20aa528b2fa27499831eff6fd8e6edf2dd59034c",
+    "9c6bb2bdcf60be4d23b36f24ca9b60ac00b82fac7d8a341904a55fc12620122c",
+    "16477e6ba7811d5fc61d9c4ba8fbe2afa833f019bbb4a09edd08afadeb9100ac",
+    "ab5a972d3af6112bbcbe8dedda48c097c3222de4d392bee7068bf06ff5c2d221",
+    "06bc2a52648559902f49ac5aee97ae080b2d0d1aaf0e10b908f7a9f21875a546",
+    "9bc441c196bad4d3306e26e66bdcb831e426227ff3b82c5d91aaa69e7bb123c2",
+    "f3b954d39995c89d7a8cd1098577f8ffc4491427b14aec971cbb2248fa89094b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "U.S. data center count dwarfs the rest of the world combined",
-      "title_ko": "미국의 데이터 센터 수는 전 세계를 합친 것보다 작습니다",
-      "url": "https://seekingalpha.com/news/4674874-us-data-center-count-dwarfs-the-rest-of-the-world-combined?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795120449
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Iran Foreign Ministry Spokesman on X: US accusations about Tehran developing chemical and biological weapons are intended to create fear and justify military action.",
-      "title_ko": "X에 대한 이란 외무부 대변인: 테헤란이 생화학 무기를 개발하고 있다는 미국의 비난은 공포를 조성하고 군사적 행동을 정당화하기 위한 것입니다",
-      "url": "https://www.financialjuice.com/News/9860623/Iran-Foreign-Ministry-Spokesman-on-X-US-accusations-about-Tehran-developing-chemical-and-biological-weapons-are-intended-to-create-fear-and-justify-military-action.aspx?xy=rss",
-      "ts": 1795120579
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "法国巴黎银行：上调对美联储加息前景的预期，现在认为3月份也将收紧货币政策，即12月、1月、3月将先后实施每次25个基点的加息。",
@@ -11504,6 +11490,20 @@
       "title_ko": "인도네시아, Google에 19,000개 이상의 친정부 YouTube 채널 삭제에 대한 설명 요청: 내각",
       "url": "https://www.financialjuice.com/News/9861100/Indonesia-asks-Google-to-explain-removal-of-more-than-19000-pro-government-YouTube-channels-ministry.aspx",
       "ts": 1795145603
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "#OOTT | IRANIAN OIL TRANSFERRED BETWEEN TANKERS AS US WIDENS BLOCKADE",
+      "title_ko": "#OOTT | 미 제재 강화 속 이란산 원유 해상 환적 포착",
+      "url": "https://t.me/marketfeed/1082278",
+      "ts": 1795145877
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Japan Government Bond Re-Offer Auction Sees Highest Yield Spread of -0.017%",
+      "title_ko": "일본 국채 재매수 경매에서 -0.017%로 최고 수익률 스프레드 기록",
+      "url": "https://t.me/firstsquaw/194470",
+      "ts": 1795145880
     }
   ]
 }
