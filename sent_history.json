@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795211506,
+  "updated_at": 1795211656,
   "id_hashes": [
-    "dbfab2a3af14d06a8809a83ac4e4a653bcb8b8908ee8d4319479596a20469486",
-    "904d0f438e3529c1c3af0d0db7b7205cd33a7a171c681c05e0c46cc95b2545a5",
-    "b30ad8bf910c10ea1d608195995f4979ff35b71a34f14210dcdb6e84a13c7bc6",
-    "eee3baf8783bb605f3468d457e582438ad27a5617d62a54ca86593e72f368d03",
-    "9ac71f49a9442cc357826b94bf3038c0cf21484df26b8506ee694247b0a27080",
     "a297ce09a62cc226071c0329689bb20822b29b2b2f5134a3ee427dd0024137d1",
     "3eed118e00812044b8a0e8634d3509b82aed45dcfc5875af2b5219ee24415a17",
     "7ae3a66dd44df6866e7fc1b2d60ecbb5cd0dac1b033301de6995e7ee79266a98",
@@ -4000,15 +3995,14 @@
     "f29a8d262f535fc9b9e436193b9ed8e11b69eedf8073ccc705947eb74f713ecb",
     "6cd755389e8cf17063431c6c0c28ad4eaeb40aa659dab25f9d5152bf89f02321",
     "cf3ddaf6866e115a9428751b377a579f92ac610c138e12350e3e92c95cbf1cc1",
-    "8ed5c6bce0e82cc8189c2fd55d7e604486d1ae083b4c8c454f77888c945762cd"
+    "8ed5c6bce0e82cc8189c2fd55d7e604486d1ae083b4c8c454f77888c945762cd",
+    "43129e5d6191788ecc840920dba2beede62cc2cc973aea6826da1ae2ec4d7524",
+    "331555fa808dc878b8ec4a31dd3612d8382f3fa76e117f280fe6fa303e68248f",
+    "de6d6983a996b0f3500b5f3ce00bfde4b1d990f357cc67df15036202a6845515",
+    "16fe014e058dc3c6b94b6b33751ece3f677e3e45758ca4e222dbfec12b639470",
+    "0a0b3831ef3c5d38b07c293cc9dfcc86d2b814bddb653edac15baf49fe7dfadb"
   ],
   "title_hashes": [
-    "1c121d3c7a03bb338e6c5f1ad84edec3cbe4dc44f482f3ec2d4c321fcdf3261f",
-    "7c8bec61c5c36ff79550d8188ace2671d228f7f53ca3174cc7db549435589249",
-    "56568e2b7b6ffa7229a6e49617001fafd26ef63bafc2e052cf403de1885fc5d5",
-    "24da300fb09872a5a06d93d2dc9c6289b6362c3276f33e065a0b5f399dea5eb1",
-    "33b7a20ed014544106f27f9e78a4e89b50af1058f74b457113f4008085509184",
-    "5b5864685b9a6a669054cb7aad95063ec46610a6aa343e77ff5b43f311312b7b",
     "dabed29f1ee62c68831812841096c24e833a7fab8629c7597ec68091cdcc0e2d",
     "0db88cd8e639b0624e47d9195f650603671682b9c78c943d26d545dea3080acb",
     "ae8ced615a34d59e8b0fbd1b61c055db0190567fdd1d25870f001ec865d7330e",
@@ -8002,16 +7996,15 @@
     "48278647bf0656564e7f6ce4e47f4f94fad0ea4ea0a98dfb0b459977ae1d4a0c",
     "655cd6018cdd3e660d5f824ecfba01494d78bb5c40ffd957e680ee1404f8d6e8",
     "fbced9b7442c28bfdef7054dff7c0df559883779ca259db569c13dbce5b907b8",
-    "e7f463ebdfb35b5321bdf9589dc07e64c32a0e870f2c4b3dd5d46d86884ea969"
+    "e7f463ebdfb35b5321bdf9589dc07e64c32a0e870f2c4b3dd5d46d86884ea969",
+    "22122832f9c7f0936cf9490b2354038970686de8ce98d4667877fc38ecc449cb",
+    "ca06b8d7a8383ccdb45eedc2db9116a87f3a9315693e1e0633bafb8a857792cf",
+    "1d35c5ec5639212f7e0bb3299d503bff37c806ac516017873f8b28c00332bfe3",
+    "ca21198ac9af2686b5fe4adbc6229d45082af364b557405a08253173d35f6f21",
+    "1e4b037597bbd06706bdcfdfec5c8989990178d8b92224ca13d255cb35d0c611",
+    "058593fed69e6e4e8c4a42de2dc41b93ad8a117aa14ef5bb25526441ad7bd3fe"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "BESSENT: WE HAVE SEEN A PAUCITY OF ORDERS FROM CHINESE ON H200 ADVANCED CHIP AS THEY TRY TO BUILD OUT THEIR OWN CHIP STOCK",
-      "title_ko": "베센트 \"중국, 자체 칩 확보 주력하며 엔비디아 H200 주문 급감\"",
-      "url": "https://t.me/WalterBloomberg/38770",
-      "ts": 1795189560
-    },
     {
       "source": "WalterBloomberg",
       "title_en": "BESSENT: WE ARE GOING TO SEE THAT PROPER CHIP RESTRICTIONS ARE IN PLACE, REMOTE ACCESS HAS BEEN CURTAILED",
@@ -11504,6 +11497,13 @@
       "title_ko": "JUST IN: ELON MUSK의 NEURALINK 브레인 칩을 사용하여 GTA 6를 플레이하는 사람",
       "url": "https://t.me/marketfeed/1083037",
       "ts": 1795211505
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Nasdaq Turns Red For The Year",
+      "title_ko": "나스닥, 올해 적자전환",
+      "url": "https://www.wsj.com/finance/stocks/nasdaq-turns-red-for-the-year-46ad8118?mod=rss_markets_main",
+      "ts": 1795211655
     }
   ]
 }
