@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795200858,
+  "updated_at": 1795201012,
   "id_hashes": [
-    "4e6cce0ef6ea2a9931ba44e381b8634bba57afc8064f3d6008dc08df46b0b293",
-    "5685182c1db03660d56808ce945562afd82f9921f62a99fb60dd7080cbd1b100",
-    "24682ac2351b41a20f3b4808636481544902abc2d03166d91353cc57e4ced6b0",
-    "4a178831e355278ac553739a8f23bed4cd0516e46e8d1ca50b0e03f4c45a0dd9",
-    "f4f11cfcbfac9641dc1697c197a34ebcc41420a1c2be33b3552a86017f79dd47",
-    "8855ea77aa0d90e5db7f62df977a6c112223cd294ebbc31b08b9dcd064036aea",
-    "1a5aaac42180ca720e5b542eab74f59dd449a361f59ec2cd52cccda3e7345438",
-    "44da0d2b6b1e7998bf35d7036d365cfff7fb306ebe552d73e99ff06725672876",
     "039f3234968855aa50d89d2aec722feb1cdac27d030baf6bcb0c377b0f780abd",
     "0a7ff2bc8623baa25b33766e31662f3609550a0003edc39d537bca25ebe5d135",
     "09c4bb2e6ff7eef03335247a7511625233ccf37c687aa37e6a4209f2817e6224",
@@ -4000,13 +3992,17 @@
     "2a2d4151feecd68143298f78ea4195aeb809a496a19b02cae3a450ef9ae6769c",
     "8f90dfe085ba3589b001105f747d4c22cbca8d0088bfbf533829f51579abc175",
     "0d2184e9409f201cc6b9611e3dae1af67b7f33b73c10cd5276b089ac983925fb",
-    "57212f3cfdb4224d9a30f086c1a731334b45316d703a74bce2a9347688fc7226"
+    "57212f3cfdb4224d9a30f086c1a731334b45316d703a74bce2a9347688fc7226",
+    "d7afbcdc4c124c1a44b9cffa59fa90ae71cc2afe8048fd65873cde75af48103b",
+    "99c54e0a2f0bbfd0329c5bbdda05ceb8584c2b6a36688f36a508645baa40a589",
+    "420d8f158cf3175aaec95f7f9bcda8a2d94cb2b34e6f6220f78f6be4179cb5fd",
+    "31c250758845c60e7f7311cc336934455f33a1206449f3293e7e0d6c202a36ee",
+    "b99d448274d973f61a9f7dc4e86f530782f2e58d5cd96d32bca45dd6876cb2ca",
+    "5f8560a94e4cd1edec96e1c7544b0fdedfee09178e9a13330f396912d66c6022",
+    "b676abf441248493a781843c1da937658e33b9f28b391e8578c6670667369885",
+    "8384bbde77355314a5ed86524fca1474eddb78c5d789002453411b37fbdcee53"
   ],
   "title_hashes": [
-    "a51f79ff3723535c9f6313dc2294ca780f7cabc40242ae242a94ec7f426ce4bf",
-    "4b971335b7bc30a30a3ae8d228e4f18b185bf1f83743fba18aff87e55dfaec5a",
-    "e3a9ef1860bd02daebeca1ef866c397f132a54ded2b7cd948c9cb10e1b64522f",
-    "feab0dacdef8ebfbe4ab039147c06a9d5c0acd1552c397a068260fd4fb2d9578",
     "27d34d2687b00ba17fb9287a0bb3ae6a8aa987e9875cbc33a5df9d6ed3c8d5c6",
     "5630d2ab6b8e4f9de4a19bca82d2f67645cb62894fda3ee0ae375c09f8b3b238",
     "98aa1a2fdf80e753e101c741271e68436a493e86c6f4037daffd870917801cf3",
@@ -8002,16 +7998,13 @@
     "f609b89e9f5d83a365c285eb825c2ce485520cfcace41cd417a007658ad89e37",
     "868abfb816a8804374cb8138c1a87dc24a3c07945859db87212bb7f295150fbd",
     "c9b5ef8a6372b954ac1d40c85ddd40f03f8d258607e9d695c70255f090234164",
-    "3b94f6772559e4ee38f58a3f9fc0fca475b33ae114578bc8e44c046a97320990"
+    "3b94f6772559e4ee38f58a3f9fc0fca475b33ae114578bc8e44c046a97320990",
+    "0e47ba8fff535a5e35b5a243947cbdf903f1bc076dee1aceaa2a84e04bb648d9",
+    "8cd8b4d79e52339af686965ea7d5d063d97e49ed5caf4beda828a89bef096fa4",
+    "59b6ed483b96c7195445054cf0480459b64a299adaed203b0b4ed15e1acbf660",
+    "29734a10079a594b5a8cd51f9c40aea1fd58477241b3f81b0d724b007c455986"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Tom's Hardware",
-      "title_en": "Redditor forced to bring desktop PC in checked luggage on US-to-UK flight with GPU still installed — GPU stayed installed and tempered glass didn't shatter",
-      "title_ko": "해외 커뮤니티 이용자, 데스크톱 PC 위탁 수하물로 미국→영국 운송 성공…GPU 및 강화유리 파손 없어",
-      "url": "https://www.tomshardware.com/desktops/gaming-pcs/redditor-puts-pc-into-checked-baggage-from-us-to-uk-flight-desktop-unit-miraculously-arrives-in-one-piece",
-      "ts": 1795172765
-    },
     {
       "source": "StreetInsider",
       "title_en": "Congress struggles to avert US shutdown as Iran war divides lawmakers",
@@ -11504,6 +11497,13 @@
       "title_ko": "NVIDIA 스캔들의 중심에 있는 여성인 앨리스 황(ALICE HUANG)은 가족과 중국 방위산업 관계자를 통해 광범위한 유대 관계를 맺고 있어",
       "url": "https://t.me/WalterBloomberg/38848",
       "ts": 1795200854
+    },
+    {
+      "source": "NYT",
+      "title_en": "$NVDA - SUSPECTED CHINESE SPY'S CHIP NETWORK LINKED TO MILITARY SUPPLIERS",
+      "title_ko": "엔비디아 - 군사 공급업체와 연결된 중국 스파이의 칩 네트워크로 의심됨",
+      "url": "https://t.me/WalterBloomberg/38849",
+      "ts": 1795201011
     }
   ]
 }
