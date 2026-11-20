@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795137127,
+  "updated_at": 1795137290,
   "id_hashes": [
-    "fb26846e3ca5c94a357e461411b5b3944ffdc1237f32793b96e861ba6d4975d6",
-    "af30e68f34b181e20b520d610451096a7975ebcd0c168228e4cefd6f7dfdcc9a",
-    "446906020447bf14c259683af0ec49a82a9c5c35567c3166cfd6c855c5761938",
-    "febd25456f548dccaf73b8502d17b659dd8429ea39c8e156a4141c5cef305b02",
-    "e76ff66fd262ea5fb873bd18c585e39a0c7ebfb98b6a8783ed9a39cf47f2a06a",
-    "261e8fc5919de394d9bbd26e5e03a776056dd945b38cd1f674aa0e00a337b264",
-    "b860da3905176f07d5daae4c124a27842b6d1db3604012cd42fee915828702f9",
-    "d663fc2f5ba66f744c95550947fee761c76ebe55bac80f7cb6e42f0f447c1d58",
-    "3d0ae34ad50cbc5092d8cae01e947deb3c4a998ac63d9c323a6cf86d7ea1cb55",
-    "5cc81cd6da35a3bd7ec017f516dbc784cf5ab44cfade56ec2dc63ceaff87496f",
-    "de65b10402604162bd08fa0658763ed3c70f5b3b09c44bf9c749fae1e6301730",
-    "422ffa641f8d8d78d4d28cd148867cdd7dd3980a9a8ee509a1247aca7146c9dc",
-    "d32b0863f41a58e79cab24e673aa43f3f8ec41c936045fcca5aa9e2a206e1173",
-    "0dc6ac77e2b6447ec54b330587839452c295f096f94d78d9ac9242708aca0d9c",
     "1b820a48d91ef685b7fb22074c6c7ac0893d5f890a365b97d177607b0bd290c5",
     "3488461726fdd8d6902c40d64cff2d2bf1727d639d623c991e933185db47672d",
     "6374d8e2ceef8e0b4adac916e4366d3251f891c7c79cfb04401d7b6d5d729cc6",
@@ -4000,22 +3986,23 @@
     "9bd78a38119762f3c8607f65980cd8eaef7ede5ab8eca6b49eb8aa4a78c30808",
     "950fe42fc0e3ee52e92337f4fe083d965649747ed38fbb14d4d9161e75f06983",
     "04ba474f4447263f4c19d1240f3eba75bc07628f62448a12332d058d94b8cbae",
-    "0b5836e8cabb3893df5c4d1d8cc4f6e74599693f603d66070f705d51ac651aad"
+    "0b5836e8cabb3893df5c4d1d8cc4f6e74599693f603d66070f705d51ac651aad",
+    "c32367e841c40bc49f398bc9c81d2816031d15cddbe907edfbb1a4b8de34de95",
+    "cb42765ec02bcc7ec70d35d7f2d0bbd43bc8b1bce05cb617399e5ed439d34dd5",
+    "1c7a034a1fdcf7530dbe0ee4f14ecd79752ba25eb814793a2766e35d405dd743",
+    "ccc3ae92d52c73fcbf0e9073a62509e186d0c681ad1699bbefdfb72c48a08567",
+    "1a89d3e5e20a8ec443e7a87a7cc6294d340ee3fa86adf296d4d9b870b339e9b0",
+    "c9b7e24976e9d72df8f104a195a18a60fa291cf68ddc7dc32f54e9546768cf3e",
+    "e5e112ad93584b727e12679c2010b329326fb7587551c57a0ad9905ce29d1bc8",
+    "15cb337fc7274b5facecaaa9f3ca683e3c4081389fad1c08e1a8c25821a0154f",
+    "9f764cda9af13b8c96163c570b5c63128fadb81b18b6f066d12746bd1221393c",
+    "e15f9a1932fa9c050202aefbf6d369aa69166eef92e44a75aa5012bbb7e21421",
+    "fd9f5e1cfc9465d7c02ac4d9eb796e2bc2c2a6aafb9092e857bd3fbc372d1f30",
+    "bf781cc847948e2e291f2a59cda5aabed14ba2806f4ef9ebd687349db72adc53",
+    "f2eea2ffb386a74a17d3731a96bda500e6406768d9e6df90a9fd97c5afef5362",
+    "f2fa58befbea794c8a496b2a9cfa1e7fcf597b300937db0821d6c5e69b28868e"
   ],
   "title_hashes": [
-    "848b037f8e1e6a0cf99429a9b29a452ff2d814e48dda7bfe874e31bcb2ba8791",
-    "30e409c931872230573c09d490fa81a85949cff34fb8264d65a9c77badd4748f",
-    "4762366986f9401e65a207f122799e971d2a0d16c1061f90c541828cf3ee35d2",
-    "46083a4acab1cc98a2d38e290f10d2c5c64e935e74aa0d0204feb0af5b261378",
-    "e0fb4e4007f77ab4e8ec60c6585c50e349607aba59eddb6058da3a4ca74ed7dc",
-    "0da27f504cc6b5a554fb49885850b098b14c62fab9760f8417fe4c2b5189434c",
-    "cb8bf4ce55bae614d6006b69525e1177025dd361f96731558b00cedc02eec8db",
-    "43758e7cfb43362ed1f7804874dd1163616fa23d75c7ac683c038ba638d2bdf2",
-    "a95d2901e91e8417df6d9d85c22b0ff5385eaac3726ac9370fb13d32cb111e32",
-    "3d919317c41febdb52b42a4c19c584b7c678c3e10598bcd3bbf7091a44dfee59",
-    "07dc7d77781368495754e0f4b244e0235d0997430d07adc4c3742f4c19648001",
-    "3ac2d76eff28e4b98592fe103bf6b518e09633b2d131b11ff9f7cad03df955b5",
-    "85fce96363ee1099141a00214ada20556448b171b7ebfad2334f6e4f811f7217",
     "f35deaf5b55f3c4136580ffef97eaa15639c948588ae8144dff492ac3e7c2f78",
     "9deacb91725af30605324050b5adb26cb3a4246b8932ce09d7bce0a17f8fb4ba",
     "729a9ce12c74b494ba7b381470e4b12e8ad55c5938a57af8c569a3d22b62edf1",
@@ -8002,44 +7989,22 @@
     "3b62e038cf503a20bfb3cd36d541fe5c17ca87289ccddb4ac447b800bdc2ef93",
     "18572c91f162e2c7c3cfa6563002ea5ed9e66d5ec4ce99ef440e7a428e972d48",
     "f3710140ca8876e6ad07a806c297cfa821518ad9d97e74aa067db6094cf38f9d",
-    "6a029c291b9d9d99a4e34d072c94f707eb362af1cfe5d8b3d03750f2d7943c8a"
+    "6a029c291b9d9d99a4e34d072c94f707eb362af1cfe5d8b3d03750f2d7943c8a",
+    "6083aa203af18551595098a4cdb80bb2cfe9f5791eb5f7c4dadd5cd00471ed4d",
+    "baa684bb47d73a68405f23a339f13fbd7c53bdab7e4241cf6088d3e59e26c786",
+    "ffe07c948f9cf65579a097b0eb8cd15fc56e6095cff75e073eaf9da8f9717f99",
+    "288e392da9990276211319ac609043c006c757956cbe8b69c89ef9e1c1e7bac1",
+    "c9d651c44063bf8e03f44715e2c1af48365fb0b355b2c9e76704d41c3c1fe85c",
+    "1f700dac8ab7db8d935b6853536337d68a5db0f91d134144530f975672388239",
+    "770a04fcc8da43270b78917bf8438878b371d55e22f6b6d0499bb4b18868a1d7",
+    "3ac1dcfb47931ccbca57ad5c05b74c3283b05ad544f98f27067113ff69d43225",
+    "2fe5b434349e074ea0de8e3a7d4b96a78b431d67b049c959970d7d93c212e31c",
+    "ad9b8018112d9930b42b9e23f4821455caed6cf0804fc8ae3d1c5c1df768993b",
+    "c0c05c81b2f55fb7fb6a09270c7e593eedda191789513be651eab741db03a2c5",
+    "506d87603ad81628b5b9faae23fe119251dc61406f3577a2b35e9bc3219cf5fd",
+    "0561a6f12eb7e27e018690192bbd5e8b0acde1933c2ccbab709fe58255a29b2b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "ECB'S PANETTA SAYS POLICYMAKERS MUST FIGHT INFLATION WITHOUT HURTING GROWTH TOO MUCH",
-      "title_ko": "ECB의 파네타는 정책 입안자들이 성장을 크게 해치지 않으면서 인플레이션에 맞서 싸워야 한다고 전해",
-      "url": "https://t.me/marketfeed/1081878",
-      "ts": 1795111420
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Exclusive-South Korean firm plans $150 million lifeline for Eric Trump-backed robot maker",
-      "title_ko": "독점 한국 회사는 에릭 트럼프가 지원하는 로봇 제조업체에 1억 5천만 달러의 생명선을 계획합니다",
-      "url": "https://www.streetinsider.com/Reuters/Exclusive-South+Korean+firm+plans+%24150+million+lifeline+for+Eric+Trump-backed+robot+maker%C2%A0/27375561.html",
-      "ts": 1795111478
-    },
-    {
-      "source": "WSJ",
-      "title_en": "What the Blue Wave in Texas Means for Elon Musk’s Tesla and SpaceX",
-      "title_ko": "텍사스의 블루 웨이브가 Elon Musk의 Tesla와 SpaceX에 미치는 영향",
-      "url": "https://www.wsj.com/tech/what-the-blue-wave-in-texas-means-for-elon-musks-tesla-and-spacex-af0985ae?mod=rss_Technology",
-      "ts": 1795111562
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "TRUMP SAYS 'IN NO RUSH' TO MAKE DECISION ON IRAN: ISRAEL'S CHANNEL 12",
-      "title_ko": "트럼프 \"이란 관련 결정 서두르지 않을 것\"…이스라엘 채널12 보도",
-      "url": "https://t.me/WalterBloomberg/38718",
-      "ts": 1795111646
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "US Energy Secretary Wright: Yesterday was by far the largest flow out of Hormuz.",
-      "title_ko": "라이트 미국 에너지 장관: 어제는 호르무즈에서 가장 큰 유출이 있었습니다",
-      "url": "https://www.financialjuice.com/News/9860390/US-Energy-Secretary-Wright-Yesterday-was-by-far-the-largest-flow-out-of-Hormuz.aspx?xy=rss",
-      "ts": 1795111869
-    },
     {
       "source": "FinancialJuice",
       "title_en": "US Energy Secretary Wright on Iran: There's no increase in tensions.",
@@ -11504,6 +11469,41 @@
       "title_ko": "Minotaur의 Rosenberg: 인류를 위한 IPO로 AI 거래 확대",
       "url": "https://www.bloomberg.com/news/videos/2026-11-20/minotaur-s-rosenberg-anthropic-ipo-fuels-wider-ai-trade-video",
       "ts": 1795137064
+    },
+    {
+      "source": "Nikkei Asia",
+      "title_en": "Asian tech stocks fall sharply after Anthropic's blockbuster IPO",
+      "title_ko": "Anthropic의 블록버스터 IPO 이후 아시아 기술주 급락",
+      "url": "https://asia.nikkei.com/business/markets/asian-tech-stocks-fall-sharply-after-anthropic-s-blockbuster-ipo",
+      "ts": 1795137224
+    },
+    {
+      "source": "서울경제",
+      "title_en": "삼성전자 70년대생 사장만 5명…세대교체 신호탄",
+      "title_ko": "삼성전자 70년대생 사장만 5명…세대교체 신호탄",
+      "url": "https://www.sedaily.com/article/20116812",
+      "ts": 1795137278
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "ANT, INTU, AMD, INSM, GME: 5 Trending Stocks Today - Anthropic (NASDAQ:ANT)",
+      "title_ko": "ANT, INTU, AMD, INSM, GME: 오늘의 5가지 추세 주식 - Anthropic(NASDAQ:ANT)",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63463124/anthropic-intuit-amd-insmed-and-gamestop-why-these-5-stocks-are-on-investors-radars-today",
+      "ts": 1795137281
+    },
+    {
+      "source": "인포스탁데일리",
+      "title_en": "CJ, 주가 재평가 위해 주주환원 확대 필요…목표가↓-흥국",
+      "title_ko": "CJ, 주가 재평가 위해 주주환원 확대 필요…목표가↓-흥국",
+      "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=219027",
+      "ts": 1795137284
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "왕촨푸 \"BYD, 해외 친환경차 산업 발전·고용 확대 기여\"",
+      "title_ko": "왕촨푸 \"BYD, 해외 친환경차 산업 발전·고용 확대 기여\"",
+      "url": "https://zdnet.co.kr/view/?no=20261120094617",
+      "ts": 1795137289
     }
   ]
 }
