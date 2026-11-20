@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795171216,
+  "updated_at": 1795171372,
   "id_hashes": [
-    "a773f4632e6ba9b3bbdbeb4cd022c39cdb9b85ccd37858cd795801c385635ec2",
-    "e473ee1d93ae277a3020d8257e754fa9723d660a3a5534226ca3a00fbd4a7e5c",
-    "bfd59e1ca645b02065522b55508e5a8b3cd4b4edb66e0da8ab0c0bb86822bbe8",
-    "b5d31e0a12284e46c22d153d55f2b96b13f02befddf69dc8863154a362a97fc8",
-    "7b2e747c0eb5761ded6b731005c449551db5db2093468bf7ef8c346347aac4fe",
-    "de9dba70a44850298c009c1248b0cbb18ede3571b9fb321ad6affe76e3099dd3",
-    "1ffc0f5f9ec8634a03a715bfdd424f1e16257ecd79e99fd9d97dafd81f4bd116",
-    "a60e53f5d64d7272990b9f2bdd716ecee6960d3790b6b986f5b0e08d7ad8ab29",
-    "417ad4f7087fd39f72034cc1480600099b07934040f36cb750d17c016dfe75c3",
-    "dcb17a80906abed0fb378a3136ea0e85fd0f9cff4bd57d8b4d9509db578b4597",
-    "742b851ef3ba048ddaf2ef7f8faa9a71db5c7eaef98b95fe69ad4c0507f93d70",
-    "993e275bf1a80ff438005becda0c681afd8809bb0b69af7b31e4e939a75b16e0",
-    "d63c34eaaef201fbbdede57a7e12ae2a112417342cab72595acf439ba36b9da7",
-    "0c8e98eda96330234b1fd0d82bc30b1f09e4ca70546e0d643db51dd3551f27d2",
     "c35aec1633b1e76c1834520d03027ae6c1c1d3e4a3c8934868b1032b0d185278",
     "72cef75b432fcaaaf047194dcf0dbc150b0b2d46d9e8d637e9ce159dc50ecab4",
     "09d795308920fc80f45ca79a1cfcb389fbccdc9c28522b8a0bc09c0f59d2ef04",
@@ -4000,20 +3986,23 @@
     "7e28050fd707ecbab2038dcae6aaf4427d93cc519c3211a752f296da9cea3f75",
     "12e6b9286574941602d9982c37a5272aae7086410c2f7c675bd3dd7aa2a2dfac",
     "85f2841b4a2180d99d55f5e933d021febf65b9d87fee67953dd19025a477a54d",
-    "827925f4b04f0e0fea3c4750d08150e558644e7e6531c09a50b1c5cc86b21e6c"
+    "827925f4b04f0e0fea3c4750d08150e558644e7e6531c09a50b1c5cc86b21e6c",
+    "bc1c25956071aa8bb35a243f1be4f54106dd86fe953f0d9adcbbb3f6ec7b1d36",
+    "54d1decdbbb0f7fcb9db547e0ffba94dc8928301bb5a61bb8761ec42957065ed",
+    "e9ac68c8989df4d3412cb78976b32e3d72abca5b4b23e0f7316dc06f3ed1ff04",
+    "0ab250ccc7d0d48c6ae75a85adea4c11c3dcdb4e469cb458d9c823fd0143c327",
+    "4718289346a47962d3f19cd4a7b326a44e9ca771400dd7c44e3da2a81298069b",
+    "11ed886464b8e5c266d707e090813adbc3172aa80fc525d01242b6c106f435d2",
+    "d66339898a4c709f5c3bfe80cbac432b0ac10cf5c238c2d90461f648b81430e5",
+    "493091f33cb5020c36eddc5b97c522105c8af4d848f9763890d28f1908e944bc",
+    "488e024db783173e71758982b1a2846d5d73b0a15643b1f4b611755edf2bdca1",
+    "9af42d50f1aa112a791a1b569525aef1a994cba72b0c1e458913197d23508387",
+    "041b1e85bbb0f2bc8f3d986e19bd773b51d4222273f7be97cb4f6120c1b51913",
+    "ef11be822c18f1115cc7d0fe48d78467c23ec2311aef701c1a4ef8250ff2d3eb",
+    "ddd738debbe2b2a184140a101436f66b7f02288843ed58815d1a25a984e254d5",
+    "ca0a4de0d3bf459d8d1efe8a03caa87b02cfc84f5bb14dd5504a5803d631b35b"
   ],
   "title_hashes": [
-    "bc9b4b25eeadba5b4ab67d8f48586c46af4028dadbc4feaf717324a59c9c3eb0",
-    "5fafcb36d5430a2b31d9836ac55e39661f9819606c6b6e8acb875f0f98999e67",
-    "452dfbb1dc8e34ae6b8d3465497989b5d43420998372c20395f141753a864a91",
-    "de688e2bacfab86ef4268177e604dd0b2bca89e7078fdf57e40bfa817d1f15b6",
-    "33d1c84eceeaddc2d964d8e0a6aa68ec25ca26ccdf6e4fe702839bde467c3e7c",
-    "4d0c39723ba08ede491f086e86fed7648f37fa5ff6ccae4ffd52177dcec8e011",
-    "c0b8d6a82fff270d12938525dd558b20c55f7d9a413952b240a7c216af657734",
-    "437dfca39090858b3f971001315179903747a5a754c412c221ae014daba8b093",
-    "4a48ff6596814f32a34a84c680d3d7ec78f275d9ee1b5b93e3f40cc2ba693dd2",
-    "d74f343e5e15239c6a6ff68149caf0495c933759985f16ffe48812b13df0f0c0",
-    "d313888d7bb11381664af6afd8846778094307214346fe529340f8b1d39e94fd",
     "fc6ca3deee5d225c0e292403445fc05b6f68493ef95f204fcf8e97ff0197da7f",
     "1d7c461f5a19ba0dd355b725c595050ef5f193d099bc71d284cdd1a8b90d7055",
     "f89fd3c595824fa601a741ac78c9ae370bed424fb39c2a26cffa10536f164251",
@@ -8002,37 +7991,20 @@
     "d57fcd31b51af78e4510fc3b01f1397ddca8df26b8a568cfecb81d538ca28438",
     "9200eb07d75cfb8fdcc541fba8c81238cbe0b6ed3ca949ee3c4e02b8334e8159",
     "74c4721ea60a1f7eec1ee607b022de6aa22b846178c95446ddd93d6102fa2dc0",
-    "19da5afd723eae4c162b702d38a830015e897c55a07ca4ede6ce86fab2938a81"
+    "19da5afd723eae4c162b702d38a830015e897c55a07ca4ede6ce86fab2938a81",
+    "4c5b1b7a4532bcfda691cb5e8346b3a39735386e4f060fe515e575d284d24880",
+    "a0a97355daf75c442314ee2484a12695d770020e1717b3c3fac3bf2c16aa5327",
+    "e80a7b71a3b43f783e91a50f6cd2cbae70c64527a903353abe4a6dd096ea5cc0",
+    "923d2296d56fada053f84a1902dc087f933499fba097d9f5c9e33e34f5f0c486",
+    "a787bdb5925d1d4c772e90081168bfe1ee864058f0553cddd33952a1bd8c6c2f",
+    "f68aaf4a280f044b0095e3623723ca835327ce861e0436f92573ab719d626511",
+    "4071c0a54e45d946f62e5732efd9bd18aa7238efc2a646e2aaa9d5acd9e4f087",
+    "87843b74d501869ae5ddbf273a2600a9479a0d07551133d6d0dd531dd3f158c7",
+    "0ec3b51a42cec5df81a66eade0618a6c827bb2ecec59a58b753e4c5adc928000",
+    "fd4f27e73bb8e9913be3b0dde0182e1f8d658d1b9146ea45856f2b86c759812b",
+    "3dede8617f687c9d3af99c327d001623e931581f0a75dcbccc5f121229551d24"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합뉴스",
-      "title_en": "머크, 아이소모픽과 AI 항암 신약 공동 연구",
-      "title_ko": "머크, 아이소모픽과 AI 항암 신약 공동 연구",
-      "url": "https://www.yna.co.kr/view/AKR20261120049600009",
-      "ts": 1795136973
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "10월 원화 실질실효환율 넉 달 연속 상승…64개국 중 최하위권 탈출",
-      "title_ko": "10월 원화 실질실효환율 넉 달 연속 상승…64개국 중 최하위권 탈출",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445699",
-      "ts": 1795137001
-    },
-    {
-      "source": "CNBC",
-      "title_en": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
-      "title_ko": "소프트뱅크, 앤스로픽 상장 후 AI주 투매 여파에 16% 급락",
-      "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
-      "ts": 1795137060
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Minotaur's Rosenberg: Anthropic IPO Fuels Wider AI Trade",
-      "title_ko": "Minotaur의 Rosenberg: 인류를 위한 IPO로 AI 거래 확대",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-20/minotaur-s-rosenberg-anthropic-ipo-fuels-wider-ai-trade-video",
-      "ts": 1795137064
-    },
     {
       "source": "Nikkei Asia",
       "title_en": "Asian tech stocks fall sharply after Anthropic's blockbuster IPO",
@@ -11504,6 +11476,34 @@
       "title_ko": "독일 정부 대변인 \"메르츠, 월요일 마르크 뤼터 나토 사무총장과 회담 예정\"",
       "url": "https://t.me/firstsquaw/194581",
       "ts": 1795170914
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "AM Need to Know: Alibaba faces Megaspeed lawsuit, Nvidia eyes AI acquisition & more",
+      "title_ko": "알리바바, 메가스피드 소송 직면…엔비디아, AI 기업 인수 추진 등 주요 뉴스",
+      "url": "https://seekingalpha.com/news/4675062-am-need-to-know-alibaba-faces-megaspeed-lawsuit-nvidia-eyes-ai-acquisition-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795171305
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "SAUDI-LED COALITION URGES CIVILIANS TO EVACUATE HODEIDAH PORT",
+      "title_ko": "사우디 주도 연합군, 호데이다항 민간인 대피령 발령",
+      "url": "https://t.me/firstsquaw/194582",
+      "ts": 1795171314
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "木林森：拟投资22.5亿元建设半导体芯片封测及半导体封装项目",
+      "title_ko": "MLS, 22.5억 위안 규모 반도체 칩 및 패키징 테스트 프로젝트 투자 결정",
+      "url": "https://wallstreetcn.com/livenews/3203299",
+      "ts": 1795171324
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Wall Street's fear gauge touches seven-month high as AI worries mount",
+      "title_ko": "월가 공포지수, AI 우려 확산에 7개월 만에 최고치 기록",
+      "url": "https://www.reuters.com/business/wall-streets-fear-gauge-touches-seven-month-high-ai-worries-mount-2026-11-20/",
+      "ts": 1795171371
     }
   ]
 }
