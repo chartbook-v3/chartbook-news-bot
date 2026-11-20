@@ -1,33 +1,6 @@
 {
-  "updated_at": 1795181697,
+  "updated_at": 1795181868,
   "id_hashes": [
-    "950fe42fc0e3ee52e92337f4fe083d965649747ed38fbb14d4d9161e75f06983",
-    "04ba474f4447263f4c19d1240f3eba75bc07628f62448a12332d058d94b8cbae",
-    "0b5836e8cabb3893df5c4d1d8cc4f6e74599693f603d66070f705d51ac651aad",
-    "c32367e841c40bc49f398bc9c81d2816031d15cddbe907edfbb1a4b8de34de95",
-    "cb42765ec02bcc7ec70d35d7f2d0bbd43bc8b1bce05cb617399e5ed439d34dd5",
-    "1c7a034a1fdcf7530dbe0ee4f14ecd79752ba25eb814793a2766e35d405dd743",
-    "ccc3ae92d52c73fcbf0e9073a62509e186d0c681ad1699bbefdfb72c48a08567",
-    "1a89d3e5e20a8ec443e7a87a7cc6294d340ee3fa86adf296d4d9b870b339e9b0",
-    "c9b7e24976e9d72df8f104a195a18a60fa291cf68ddc7dc32f54e9546768cf3e",
-    "e5e112ad93584b727e12679c2010b329326fb7587551c57a0ad9905ce29d1bc8",
-    "15cb337fc7274b5facecaaa9f3ca683e3c4081389fad1c08e1a8c25821a0154f",
-    "9f764cda9af13b8c96163c570b5c63128fadb81b18b6f066d12746bd1221393c",
-    "e15f9a1932fa9c050202aefbf6d369aa69166eef92e44a75aa5012bbb7e21421",
-    "fd9f5e1cfc9465d7c02ac4d9eb796e2bc2c2a6aafb9092e857bd3fbc372d1f30",
-    "bf781cc847948e2e291f2a59cda5aabed14ba2806f4ef9ebd687349db72adc53",
-    "f2eea2ffb386a74a17d3731a96bda500e6406768d9e6df90a9fd97c5afef5362",
-    "f2fa58befbea794c8a496b2a9cfa1e7fcf597b300937db0821d6c5e69b28868e",
-    "67159aca3b323d5a924bf9afcbd6010e578a3ad85fc608092568fe99c69137ba",
-    "bb1c0f0532dee24a01961966eb53ad7655c32a8e1a4ddbc30335086d56c7eab8",
-    "1ef1e1e52ed874feb13304465ce585cd42834cb2476276a174f99e80125c6067",
-    "6653fea53e47378d9bdaceb56a68254c6f848d8541fddf8a6834187d2c8b8486",
-    "cffa891247f1fd53ea896502db0ba94097c639dcefbcb8b6f0198ead0e9968eb",
-    "548bb85f80c202e6870c466c3c65515052fc02749bb18f47e72b8b8f53ff535a",
-    "e684d7a13e8ce654aea304253555ec7b71e8ca68f4814fc6dd9cd39c69d689a4",
-    "a3ec06f7e952c86096a2940765ce496d4603d179106573f71da50117bd4aaa1b",
-    "dbedbd7acf8b4c0f86b75ca0ee30924c93f9565fa43a67714669a9263f6d8048",
-    "02f76959508a30b96b047c3723b4b146171a260d3844561c0ac7e78e24dbdccd",
     "1a2e5e798d83c960abddb6019a02c1679c2c309aaac4772a12b4345170ca4f6e",
     "c13ff72f18480c141acda959fde7b4d4b6997412e71a953c3bd6bcb86e4fd664",
     "194996ae9d2968d3a83171706b657deab3ce8396216cf3468293b56fde530d90",
@@ -4000,24 +3973,36 @@
     "9375947504c84d42296942cb15ae09e381eab1b59ef701a3ab1e2e7781a1a992",
     "f38e21db0851b8df6af5b5d4127e115af18cbf229084c0582a501fcba927a7f4",
     "6ade40b3b8a684d5347d98d5661668506a6fd41ee3e4e6d30af7e7f30d28595b",
-    "31210f13fd8a9aa14c5d6c208bf29200f4180abef4df10137cd2b3256ebbbff0"
+    "31210f13fd8a9aa14c5d6c208bf29200f4180abef4df10137cd2b3256ebbbff0",
+    "595d046016119902c8e22a4137e63dcbfc80e41d99682c2b7932aae8d609edba",
+    "7ffdf641668616a6c51f5e6dceeefd69dd06349b44f31395050a38fc285333da",
+    "adee278f9a92c044a9f41d92940de5025f6714fa89ff003b01fc05c65383207f",
+    "4983c9ab574941c1460249b7c7957b8bb3aae155aa87db8550c182dae1e28166",
+    "edb7c7369d104ba77b670da9a6ce8d0fd6803af5efa69303159317b4a98952f3",
+    "c75ba01f01b84c6806b5626da2a3d0fddf2bf620fb8f6aaf017169ed07cad01e",
+    "42b433241d88bfa3ed4c4b53496db10f17d2cd260c86420079ce72b3a673ed3d",
+    "9c6a6c52668b83641213acba8f6ab523a24fcb2b332eda5e1da79fab0c055811",
+    "d3b99adc812b548353d45ba8e9d46bb684829d0cc1715b2325d56b524369a955",
+    "e1a55ac1d3430dcf75a036ce22ba710aa9e638a84ef38bb39c12bbd2bdfe2793",
+    "370493458dc005da2dc47cf75cc649d80d8a7aeff7f02c4ba0a767ac5e7488b4",
+    "883e64456d748bb2ec7d7ad77083a35955fa16a295bddabfb1bf9fc7970241c3",
+    "b287c3a5d9a06aea41fd296ac9017afaec45d3de858207011feab7735c45b2c0",
+    "e3e3a790d69fde71aff944cf2695a4cb6e63706bc109e6d565835fd741224dab",
+    "c7f6d57edcd9bce060d2a3d81e55e4616f8fa5ed1b5a7a5a12d4b9be144b2eda",
+    "598614e4425b212fcb76d3601c09ca1613f3343d3140dc480355721662d304bf",
+    "4e626ea02c96751ef3f125becbdf558803390b5e8c1660902bbdcacc5c9a2945",
+    "8154f0e62c74b930ca0b0c30356f05b1d458bf3042f4c710fd7ea12182a70fd1",
+    "d812add87f59728cb8abdedfb83d3586d18b6bdf418a4c2cb9a72c284efd2da1",
+    "386b8533b9ef61f0e7b5c61bb1e627705ff3a1ada186f6bf335cc22b2545e578",
+    "83cd70533d0ed8d13ebcd020f1505adcdd475a8375faf11743b2b828c36935dd",
+    "b646b01fa1d6af86c91874bce60d51b009e17e37207089a9c25e0e4869039ef9",
+    "6f7e4b88be5a8c8c41369c4042ac018777b934159282038ea8bfdd348a78dbe6",
+    "09b862a3ebd5e270afa38baa3e626c9cddaf4f67d7d8e129809fe08fe58b8253",
+    "c2cbc46c604d34deadea187ec1f2cf916c584b0019eaffa8d794d9a184fa1424",
+    "de5e2b6cfb6e327f294c0f1a5d01867a207f07bb3acc35b0405efd0ba588646f",
+    "436c26e236b027f805bb28bde90e9d852ecb561513d3fd0ba511667d39804d40"
   ],
   "title_hashes": [
-    "9f6ceecd01717bc730352e284945e1490422d999055ae9852d4e6db9c86d1217",
-    "bab146752bf7d640323874314e5ac43585575dbfc32158593a0584f4e85f975c",
-    "789d46f05d72a90906838f2cf7ee2aa30f05be3da8ffbeb1085f4faccbf8537f",
-    "961f8d3f9f635441510f31bdcdd2fd21b6e4644b7f1ecd50fda57c014b2dffbe",
-    "f35625a810d5889b8f188aefc3ed6b0b33fbc484abe8c288e8d1fc07ab386e15",
-    "acf33041536d6f5c4d958d2824aa3f5271643579b1a548c896c5c51e216f23de",
-    "60301ebbdde818a92f37c225d26a3b1ba962152d10936c1acfbe0ec38ee6f2bc",
-    "7dae995d8ae212bf2173245e92b94f19ba0e86596806da58d3e011b3958739d3",
-    "a48b0bdb6d7c8db36792b41ea8662efb13379c895769477adc39eb04573bbc09",
-    "3abb3f5b347d8001c46014f643a5a547d13d04d9e0c3fc23f79d0d7d8fb79c21",
-    "56deddf946c81a5c7b619c117eafd30dac6cdad348b5b8aa068e4e92c04ad818",
-    "372256de9c6b9a6e3b5d41e47dabae549254471a83a4863a48e5907959c34ca9",
-    "e3c9b4040805a747961b41cec755f525402bf53ca0d863c4aa2cf6e9b95cc8e7",
-    "f481fdeeb68962bf34db1ae65829bf23c654baed0491e99014b30e8b53932683",
-    "4c670d6fc0b327fdb3f5a8cbc8444e3b31c9e0f2f2776ad7c77868b62b7b93a8",
     "63630038b35e7d93c349a72dfeb7731cb3d69660d94807e3e12ccd6f059227e9",
     "08d5db064874a5e52d7eea7706d38f3d5ee7a44bcceda3393377d483b50f24b7",
     "77ea34ec00216e6443c8535cf2f2f1bbd55ae535e5a9bf709ae188042aea3911",
@@ -8002,51 +7987,24 @@
     "84258db8585c30dd40eb8e99a965f6cdfb2657aa5952eb345b6b26f04dabf564",
     "11a96b6322b29282d9ab3c023d148ef1e3384e783ea8f375ca589bf1a9079ef4",
     "7b9871e9b7b4395e476305e7fef9c66b6dbb522c66f7635cfdad41d2ad7dcf00",
-    "65e08b2b9f2f9675e739c6d36f09ec27d5711debca2c0f8bcc177ecd98e7a131"
+    "65e08b2b9f2f9675e739c6d36f09ec27d5711debca2c0f8bcc177ecd98e7a131",
+    "984a31836801178b0d46f55a37204c17308b715b7f624b7e925a35302172f89a",
+    "7fa146e032c89c5b27461b7d812a209fe50a8bde0217e873a987520c1515723b",
+    "db7db80ea694eaa281ea919e5898090baaf83b87f23379e6247b94d5edf3d0bf",
+    "b5a406a9bd2e8437504df0589d57fa6f0c291967a8e6c86cd85a1ea715ca60e4",
+    "96d045805f0cab8318800d2a01faf485c1a0df0440c09a675c22343d28eb5829",
+    "f65f9d7e2e226b4f4d4060b7d579bcebf97c0b9405cde6a4e652f6ee2714f025",
+    "871408b6f09c3b5d998f3394d634e76b7f85cd7659193b11868f14b843c5b4bc",
+    "8382911f3c0702738ce78c4a5c3694c0137606ea6105bc2e32672619a20f6b6e",
+    "fa834455d30252aceab88b9ba5e977344ee410b136f54c2e06b9a8417c10f59d",
+    "2364be5a886870c774ec5d7e9f0c18ca934ab9b8fb4e42f03043be253c2b1646",
+    "89b129f820221c2559c17b2bab12771bec698d0622c631fd9b18cc3bce1a2e2f",
+    "ad6a64d6ac2d68f60b2e8c2a1cd654d70518ce9686e7c3c9c7abe6df5d1e5c6d",
+    "52fa8ef17e0be9324270421482fbeacb6fdfa3cafe8a23c5720e8bac857aa4ef",
+    "c513d8b1d30264ae349f0b235cb61b33a7d1c2649cb9312e7284f53f8bf61528",
+    "d9c331b2ba325c1c6ed0d068101aa2b3179a5e57a6966e9d40a7e700624be610"
   ],
   "recent_sent_articles": [
-    {
-      "source": "지디넷코리아",
-      "title_en": "현대차, 지스타를 모터쇼로…운전면허 없이도 체험하는 레이싱",
-      "title_ko": "현대차, 지스타를 모터쇼로…운전면허 없이도 체험하는 레이싱",
-      "url": "https://zdnet.co.kr/view/?no=20261120125526",
-      "ts": 1795147098
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Anthropic's record IPO puts US$900 billion in AI compute commitments under the microscope",
-      "title_ko": "앤스로픽 IPO 추진에 AI 컴퓨팅 투자 9천억 달러 규모 검증대 올라",
-      "url": "https://www.digitimes.com/news/a20261120VL200/anthropic-ipo-revenue-infrastructure-claude.html",
-      "ts": 1795147553
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Taiwan to build robotics simulation platform with 30+ industry players to advance smart robot development",
-      "title_ko": "대만, 스마트 로봇 개발 가속화 위해 30여 개 기업과 로봇 시뮬레이션 플랫폼 구축 착수",
-      "url": "https://www.digitimes.com/news/a20261120PD229/taiwan-development-robot-management-training.html",
-      "ts": 1795147556
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Renatus Tactical Acq Earnings & Forecasts",
-      "title_ko": "Renatus Tactical Acq 수익 및 예측",
-      "url": "https://www.benzinga.com/quote/RTACU/earnings-forecasts",
-      "ts": 1795147560
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Chinese tech giants sought 1.1 million US AI chips for Southeast Asian data centers, license records show",
-      "title_ko": "라이센스 기록에 따르면 중국 거대 기술 기업은 동남아시아 데이터 센터를 위해 110만 개의 미국 AI 칩을 찾고 있었습니다",
-      "url": "https://www.digitimes.com/news/a20261120VL205/ai-chip-alibaba-bytedance-nvidia-usa-china.html",
-      "ts": 1795147563
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "South Korea eyes monthly rocket launches after 2035",
-      "title_ko": "한국, 2035년 이후 매달 로켓 발사 계획",
-      "url": "https://www.digitimes.com/news/a20261120PD228/launch-2035-hanwha-demand-government.html?chid=10",
-      "ts": 1795147567
-    },
     {
       "source": "DigiTimes",
       "title_en": "Kian Shen sees electric bus shipments hitting 1,000 in 2027",
@@ -11504,6 +11462,48 @@
       "title_ko": "USTR 그리어: 트럼프와 시진핑은 관계 유지를 위해 희토류 이야기를 나눴다",
       "url": "https://www.financialjuice.com/News/9861807/USTR-Greer-Trump-and-Xi-sought-to-maintain-ties-talked-rare-earths.aspx?xy=rss",
       "ts": 1795181696
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Canada Retail Sales Tracking Largest Decline Since February 2025",
+      "title_ko": "캐나다 소매판매, 2025년 2월 이후 최대 감소세 기록",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/canada-retail-sales-tracking-largest-decline-since-february-2025",
+      "ts": 1795181727
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "USTR Greer Speaks On Bloomberg TV",
+      "title_ko": "USTR 그리어, 블룸버그 TV에서 연설",
+      "url": "https://www.financialjuice.com/News/9861808/USTR-Greer-Speaks-On-Bloomberg-TV.aspx?xy=rss",
+      "ts": 1795181735
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "USTR Greer: There's licensing process for China to obtain chips.",
+      "title_ko": "USTR Greer: 중국이 칩을 획득하기 위한 라이센스 프로세스가 있어",
+      "url": "https://www.financialjuice.com/News/9861809/USTR-Greer-Theres-licensing-process-for-China-to-obtain-chips.aspx?xy=rss",
+      "ts": 1795181750
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "USTR Greer: US moves on chips is 'closing a loophole'.",
+      "title_ko": "미 무역대표부(USTR) 그리어 \"대중 반도체 규제는 허점 차단 조치\"",
+      "url": "https://www.financialjuice.com/News/9861813/USTR-Greer-US-moves-on-chips-is-closing-a-loophole.aspx?xy=rss",
+      "ts": 1795181854
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "USTR Greer: Trump makes us decisions on export controls.",
+      "title_ko": "USTR 그리어: 트럼프는 수출 통제에 관해 우리에게 결정을 내립니다",
+      "url": "https://www.financialjuice.com/News/9861814/USTR-Greer-Trump-makes-us-decisions-on-export-controls.aspx?xy=rss",
+      "ts": 1795181860
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "UK PM BURNHAM: WILL INTRODUCE BILL TO PARLIAMENT NEXT WEEK ON EU DEAL",
+      "title_ko": "영국 총리, 다음 주 의회에 EU 합의안 법안 제출 예정",
+      "url": "https://t.me/firstsquaw/194606",
+      "ts": 1795181866
     }
   ]
 }
