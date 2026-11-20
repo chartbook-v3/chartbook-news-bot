@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795160492,
+  "updated_at": 1795160643,
   "id_hashes": [
-    "abaf60a9ec9902a46d7c4171b13b7baaea2432cfe50d49496636f9370b0f9e8d",
-    "9cfaaa8fac217a312a31b5444fde628791fcfbe170155018fcc2a18358dda70f",
-    "599127e8db7fe4c5708841fac3c1258c4de831e6e203afc02fe82664208c7413",
-    "a2329f99d4178384953bae3c668516b982375c6a3368e83ca4352bdc0118a862",
-    "1acdc669fb44c1818d84d669c15e51970180255ae77fa925b0cfb6fadac12019",
     "84669b04361855c5991428ed61bead3478eca24c2f9d44fc7d64c8da09a98ba4",
     "e65947e40c739bdaa7ad4f474fbc1f66e79ef37d798f7e8bc7d49295a9f176ec",
     "81b8d065571bf6a8a9891e27ab3f0c3bba05ac0c1e63dbfb347666d040c5d9a9",
@@ -4000,13 +3995,14 @@
     "48a4ad091e5b573e55c3856dd26c14aa110ea4f7fb6cd6dd71a8393b0dc87ede",
     "2be3747523d655e1012cb5a61a11889895fe2736b207612002a2953c49e4c5da",
     "144ae3b7d47b97d2a353da0f20773bb741a8445fc9f70bc47f509b0b187dc6b4",
-    "af78d9f5e00a45c47ca41f0155fec1e669e8cc827a56d0b56f2e17f9d87fe353"
+    "af78d9f5e00a45c47ca41f0155fec1e669e8cc827a56d0b56f2e17f9d87fe353",
+    "18c38a192c5fd13d0ce77087a8a478929e647f289ca3fad95623589a1c868d49",
+    "0a09623aaad3264df52b1892625cb023c35269cd8660bd8afa340b6758ef5609",
+    "1400ec22bd8f2d6b5d7956697b98ac11b4a045a4f52cd29bbb97e08c1f739a5a",
+    "b3ff421fff48f0e388489ea6e266a4ca96fd0d897cc06cd27e7d4a9b343c11de",
+    "894a23600cb78e476b8d57596eb602690c586e9cfaa72c56f0a27aeb9cb74aaf"
   ],
   "title_hashes": [
-    "ef372b1ad73537c31c9a2e030ab854875a674c2ed827efbdd02486cc247a090e",
-    "308af85c93f1a42ac0695eb0e7e4f92ff0eb644716d086e8995b6d587d69697d",
-    "606b28737cf2baaaefaa14273cf116941ed1308d172c51705d665338fcc71042",
-    "a474324a569d0387e21c3539ed4a9b06b5f24c0d2844e236d0a35ea253485cb7",
     "d753bf29806ad9bd7ed58507e8b602cdc89dbbe812cfd98dbf1d4ac971f97596",
     "8b433a893308d6292b4cc0df4933428d336e207fc2887325bfff414a544c648c",
     "5bdeae05e752b29322d772a7e849891c820a4f2dc0c22fd9751f5e3d2210c020",
@@ -8002,16 +7998,13 @@
     "4696fc0a7b31a73f6936a3ca4e7e5ad40e2309cb23d6266333e0e2cb119297cc",
     "f4c17040fee5316c0d4b616f34a00eace103412edbc3a1f0e9904466585f7da1",
     "bd05af49c33ca341e90e1afa654ad55d877f9907c7e8aa7206b9d9400163283e",
-    "9be1812ecbe9a9774373d9c985ea2066cef49b872359012b9289c944ff568596"
+    "9be1812ecbe9a9774373d9c985ea2066cef49b872359012b9289c944ff568596",
+    "6f115b2c266c513ad0b307cf81b31575918d2fe4d8b8f5335c4a565d732a4ba8",
+    "809eda1d7ad64b5f58c5095ba0ca0d4d89df6739043aa01b4764777ee7135f0b",
+    "903f406f9062fe91ad4ff96b202fd7681cd235302897c87f0d914bc40202b738",
+    "f3e7d188f66ae3a039bfa0698909ba07b1e0fb0310ed1436d527354f06e783d4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "Fed's Paulson: Fed communications need to be clear on perspectives",
-      "title_ko": "Fed's Paulson: 연준 communications need to be clear on perspectives",
-      "url": "https://www.financialjuice.com/News/9860819/Feds-Paulson-Fed-communications-need-to-be-clear-on-perspectives.aspx?xy=rss",
-      "ts": 1795131586
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Fed's Paulson: monetary policy forward guidance less useful in normal periods",
@@ -11504,6 +11497,13 @@
       "title_ko": "10월 생산자물가 0.1% 하락…사과·돼지고기값 급락",
       "url": "https://m.ddaily.co.kr/page/view/2026112016323627516",
       "ts": 1795160491
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Asia tech stocks reel from Anthropic IPO as SoftBank, Samsung, and TSMC slide",
+      "title_ko": "아시아 기술주, 앤스로픽 IPO 여파에 소프트뱅크·삼성전자·TSMC 동반 급락",
+      "url": "https://seekingalpha.com/news/4675025-asia-tech-stocks-reel-from-anthropic-ipo-as-softbank-samsung-and-tsmc-slide?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795160517
     }
   ]
 }
