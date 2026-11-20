@@ -1,24 +1,6 @@
 {
-  "updated_at": 1795211184,
+  "updated_at": 1795211347,
   "id_hashes": [
-    "77350f046d8c0dc07829fa060abfd1960e575746430cc5bbb10ab271b7d35e7c",
-    "9f79d9d61556b1ad46fbed3685c3833ac94c7670f1b394941cf1a97eb6ec5147",
-    "81b2f9c11f6cd7d120b7fb1f6a8deb7466bbd7c569f93c380ace02cf5a866c6f",
-    "1023b00b99c80cdda9f44689f0eeafb432a0546314946cf7eda8f811e8f56ba8",
-    "0153b4c4b4244c2c16008bf3f7e5a031a72b3bb3d5e0ba19a29bdac0df73d7e4",
-    "3db99ef9f17d6386d5cfc695152affc070328db4d591f707ecd0e0a746fc63e9",
-    "edd03fbf3bc75f6c28cad0b8a48e82b5886a5ac2dc83bc95d2090d0a61b570a2",
-    "ffa51760d8b92ebe132da965574adfde6d40e330af1281815e639a98de303c2f",
-    "248e2a936bcc2ce98b52d54f4d68df60694eb6b0042e8c9616dc367c26b77a32",
-    "7c1215596e6fe5f3a5e13fca427a28f5524f57341700c8ab918a61157e24259b",
-    "96e6a44509e70780b29d6068a3c127b8a3f27adb23de3b0e7c387a91f53bd1b6",
-    "8dfc670cac6a3e649a35467c3b073175bd935cf1813762e2f2c3a904ae8dae6f",
-    "6c0d63e684bf51b55226fb65d760d8b10a8865615748bd2e78525593d47be82d",
-    "28ac8ccdeddccf3f26189147ed1354d649b8bb2e91507596e0b8e777e1cc55f1",
-    "83cdc007244df93fa11a7b81daa4a1ac854e90dcb16a89924aa7d040d5ea5bc5",
-    "f7233485ddf10925a3ae02b0b48e2856530cad266ab5834bf3dd630028496dc4",
-    "a5f2aa3f1f7de3e74a41a8349d546e2b0f216c46aff6e780658eb9b5e18ca88d",
-    "887db8aef40e38a351bc0603079a0ee838cc8998357ac7bf3d9f91fcf493fb32",
     "d0bdb35a993c56567febb0570ffa6bb527aef0e7f8a1be5bc97c766efc69b89e",
     "97df91d7d1f0a8093af29c2185123258fa8fb7db535c31929bf3efd229124e36",
     "8f6fe3fa3a39ea302d52df80523b51f8317998bfb59f4b2e4609347eaecdcca6",
@@ -4000,22 +3982,27 @@
     "82ff4c31eddc32c4a9bdb692d97b24bce8f8c9b79b81c97345a6efabadb3ea61",
     "3b69f55e9b1a35b983d217ea9b6b43032e8498e29b9805c51a726566579361cc",
     "28595209ea5650d0b3df9888e7eb41a9bcac00a605f2f9292c76ae578624345f",
-    "d75edbd581ee66b54beaec7a7cb545281ff77426e11214a4706e9793ee01ff9d"
+    "d75edbd581ee66b54beaec7a7cb545281ff77426e11214a4706e9793ee01ff9d",
+    "2d58675f7d1b74889d24a2646ce5ae57af95632d92ea43d134ebf2648632a82d",
+    "bec523ab3fe8e0ae82c7ac2084f93747d3d34b548135f280e17424eb760b17fb",
+    "4466b1acc09a5f126fc2f9a913b9e3ec73040fa659dc33290c05b36754e6bbeb",
+    "3eb890ebb3efc7b0e5925ecb43fcbc137245a662198babfe981c77617d2005f3",
+    "bdf90961a0c822aabe3b06bff4120febda03b4cb14d87ad6611758aa324020b5",
+    "c2eb3f6e9eb846895e319078e50cb690fb9684fa99bb9d01829c9cca51a9db77",
+    "366c0fe7eaa889b1306fc41aeb9be4aab5716af5fb0954d82af4c07c924750e2",
+    "abb545e2d05eea448a602cc199e51f1ec1be20cf756a4b609bac27d526e66659",
+    "5048ba6b71d8631d1a8e34ab123ab56b4ec7766be65de08391530daf6d6177e5",
+    "d8e94a128988c89b4601a9b7b017b9489e6696b8ec9675e1c4a5c44574fdbc3d",
+    "3f48f7e18c8fe81533f45bcfe58d5bce0e8be67710f787884eef921dc2018ac9",
+    "6c877e069e77ea51fda7a435fb2a222bb41daf1eeb6613d3cb55582cd9631231",
+    "8b9a34d47c5713d320dface6e2b65f3f1a6344209affcb43041c5fddd76fef27",
+    "3fd8bdb7342b13451d9f7981f4eee0d4d564c8f4fc24e6aff1566a45c9029959",
+    "ea48dc62e62f83915daab45ca5fb16903ec84287adb3a059c90e8ba5ce5e1790",
+    "03cf760fa1fa18297309937c803e2b9a74a9936f03892a38599304a136317c4e",
+    "09fc6cad91e346e6561d83d1984c1f0301e07e19198044bb7bc6ba062f54bb26",
+    "a7eec4748c736c7c7017cc70dea777bab95ff8d5aad4a9a042f16828870543cb"
   ],
   "title_hashes": [
-    "41c3722921cd16725e6bc3d44f6310080d24784d8fc858757d4810e1ad49c72f",
-    "f069a72e5334939fce41d2460eaf9665620ab1a682c46cea39b671e8f0b69af4",
-    "f3ffd6fcf940658d9891fc0a437507f307c2fef074d385f6203933dbf7d052bf",
-    "847006b4b659042b2840d43e7e67fc8ffb0abf9a8044d5f737fb016e42680bb9",
-    "4d602a540c868b38f5f3e73e388820d235f00b8b6508ff52aeb4d81f3e03fb77",
-    "c0775c4ae8b854508e4b930f67c8de1195afb365926fe96d417724ac3812725c",
-    "bc7af7c5fbd8de9a196786662399e5d7c4509262680e6d6f034413aa626ddf7c",
-    "790fcd9cf58a2f4bd9091ebfe04421c46b1578a98482c285bd34276eeb6c9af0",
-    "575d17fab66c1a8b391061e9567bf8b234998667ecaa175bda2ace791e1cf423",
-    "51838a7d94c2b3f41a4d3163e2b9908a0e48cbd5ecb4be8b80fe818b8387ec6e",
-    "f4176b67b6fd69e9970d5ce7e5a94fc74d60b93d3c99054d4670ce962a77af53",
-    "eb7371c6c048dd34288c6e0742b844261936a32c149e3a3d245370b4d921cefe",
-    "63fa297e49e5424332aa65528882a53ffb108ac80c54b608424039dd67285f29",
     "2c730b31d4ec36d37ea2f39231b39651cd9e273cbb8ceacefad9e2c490724091",
     "4bacd332a49590500b3c423e28c0aeb8bda98e36d230e50b4338d5ade3d27130",
     "822b0b4a0fb26c8ace08abd5dedc69a534be5f43b2110ca1a8c7c64c4831b04c",
@@ -8002,37 +7989,22 @@
     "c8296e53b5970af9991e4acb8a21a84ad2fda43eb2cfe6437ab28771e847cbab",
     "b8395364ce723733696f12987047da70c8d79fe463ed74d6c07afbfa17e9489a",
     "ba5af07b6a6795a821f9ca3e220a53d9db472f32654a0d8e59a5df60050bc3a5",
-    "3f6e90189e830b04dd62ba6b0daca632f5510f7fdb0d5df7ecc7b054c3a826fd"
+    "3f6e90189e830b04dd62ba6b0daca632f5510f7fdb0d5df7ecc7b054c3a826fd",
+    "1d7196daaa23be72aca1f6e414d65a5e4509cceb7ae42e4c25577737a230a1b4",
+    "3af44cc8ae3628592a1be7383fe2ac31579aebddd00db65afb5c49f3275f06e8",
+    "e423f200169651805da3839670ca4686106d638bf29ea2f38e6e6cbf3d7dc08f",
+    "6f082172cc6ad5c36ac700a685aceb9656251ea23151799b78b75484f71bb54c",
+    "ee0d1171a377f9b3de44811e3a3e274525d46dbc64e780e31208f99ebb59b9ae",
+    "0eaf8ba2b521bfa4e6db0309a5fb5ed19205e2d16366a13d987e1f95513fa87e",
+    "e2fa42321f9a3c0e80325a981d7dd3454f3140a1ab340bea98c0c919e4092207",
+    "ec58079802098a15e203a4dcfeb16854b5d68e5fd305655935be38e830fa7bbf",
+    "d88eaaabb8d76d294ac24f9b5339ef10042f123ef38794119854c89ba6671a4b",
+    "f3ce7a9b639c7ad6fde5f4c27ecfc9160d8e2c5c76a4b27d267c9fcacb7c3dc1",
+    "bb876fd7b974a1999097ceb391afee35a002b637136e42ab9728511e411c3602",
+    "33959941983333d7927f50b98dfd1bc4c8ee42b0a39dac849e80d97f8ece83e2",
+    "a95e722984c3b98901e4273d327de4761b556e422f2729d919f43f0a9d0b6100"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "U.S. CONSUMER SENTIMENT REBOUNDS AS INFLATION EXPECTATIONS FALL SHARPLY",
-      "title_ko": "미국 소비자심리지수 반등, 기대인플레이션 급락",
-      "url": "https://t.me/WalterBloomberg/38764",
-      "ts": 1795189539
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "$ANT - ANTHROPIC MATHEMATICIAN CLAIMS CLAUDE SOLVED 167-YEAR-OLD RIEMANN HYPOTHESIS",
-      "title_ko": "앤스로픽 수학자 \"클로드, 167년 난제 '리만 가설' 증명 성공\" 주장",
-      "url": "https://t.me/WalterBloomberg/38765",
-      "ts": 1795189547
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "BESSENT: TRUMP'S CHINA TRIP SAW ROBUST DISCUSSION ON TRADE POLICY, AI -CNBC INTERVIEW",
-      "title_ko": "베센트 \"트럼프, 중국 방문 당시 무역 정책 및 AI 관련 심도 있는 논의\"",
-      "url": "https://t.me/WalterBloomberg/38766",
-      "ts": 1795189550
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "BESSENT: TRUMP AND XI AGREED THAT HUMANS SHOULD BE INVOLVED IN ANY MILITARY DECISIONS AI MAKES -CNBC INTERVIEW",
-      "title_ko": "베센트 \"트럼프-시진핑, AI 군사 결정에 인간 개입 필요성 합의\"",
-      "url": "https://t.me/WalterBloomberg/38767",
-      "ts": 1795189553
-    },
     {
       "source": "WalterBloomberg",
       "title_en": "BESSENT: JENSEN HUANG DID NOT COME UP IN DISCUSSIONS WITH CHINA",
@@ -11504,6 +11476,34 @@
       "title_ko": "美증권위, 엔비디아 회계 조사…대중국 수출·반독점 이어 사법 리스크 확대",
       "url": "https://biz.chosun.com/international/international_general/2026/11/21/PXYH3O4QTRDXJFF4Q54VMBJHJI/",
       "ts": 1795211055
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Iran’s Foreign Minister Araghchi: Iran's first demand is for Trump to explicitly state that he wants an agreement.",
+      "title_ko": "아라그치 이란 외무장관: 이란의 첫 번째 요구는 트럼프 대통령이 합의를 원한다는 점을 명시적으로 밝히는 것입니다",
+      "url": "https://www.financialjuice.com/News/9862493/Irans-Foreign-Minister-Araghchi-Irans-first-demand-is-for-Trump-to-explicitly-state-that-he-wants-an-agreement.aspx?xy=rss",
+      "ts": 1795211213
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Iran’s Foreign Minister Araghchi: Iran's red lines include enriched uranium not leaving the country, but I believe a fair solution can be reached.",
+      "title_ko": "아라그치 이란 외무장관: 이란의 한계선에는 농축 우라늄이 국가를 떠나지 않는 것이 포함되어 있지만 저는 공정한 해결책이 도달할 수 있다고 믿습니다",
+      "url": "https://www.financialjuice.com/News/9862504/Irans-Foreign-Minister-Araghchi-Irans-red-lines-include-enriched-uranium-not-leaving-the-country-but-I-believe-a-fair-solution-can-be-reached.aspx?xy=rss",
+      "ts": 1795211278
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Iran’s Foreign Minister Araghchi: Two-day Hormuz plan is still on the table.",
+      "title_ko": "아라그치 이란 외무장관: 이틀 간의 호르무즈 계획은 아직 논의 중입니다",
+      "url": "https://www.financialjuice.com/News/9862506/Irans-Foreign-Minister-Araghchi-Two-day-Hormuz-plan-is-still-on-the-table.aspx?xy=rss",
+      "ts": 1795211343
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Iran’s Foreign Minister Araghchi: We need ‘confidence-building’ steps that US won’t resume strikes.",
+      "title_ko": "아라그치 이란 외무장관: 미국이 공습을 재개하지 않을 것이라는 '신뢰구축' 조치가 필요합니다",
+      "url": "https://www.financialjuice.com/News/9862507/Irans-Foreign-Minister-Araghchi-We-need-confidence-building-steps-that-US-wont-resume-strikes.aspx?xy=rss",
+      "ts": 1795211346
     }
   ]
 }
