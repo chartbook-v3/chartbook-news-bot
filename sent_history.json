@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795190399,
+  "updated_at": 1795190557,
   "id_hashes": [
-    "3d3934b7164cb76936359bfe279beee303f70c7d17f71144d51729d523bdbcf9",
-    "736f588bfd2953c1a3a350d5304240d2549b05f9bce933504c1ffec366ff4f9c",
-    "09129cfea64e8765916a7e815477bf17108997b7668ce223c4127fb1c9a94e49",
-    "60bb0222ec525e87cb232b11d02b1b7edac42ba34d77e2098c25936466168dd1",
-    "630c054d65f6353c73fb647cf37c14f2845447e8fb4a3dfc3dd4094b07fa2529",
-    "ebdc063f66b67554340b032a4df75892b964695628d2b82dd49017707757737b",
-    "274c7dc4b2ed3ce0971c34766d7b9294d82c0efacd52ee6def2e77385f00cb3c",
-    "b92bc254b05b489ab7ad9850b8b3a50bb752091704eb4c04ab1245165e1e972d",
     "a1848f028d3a997ee599a82bae01b012d3d6e49010dd7c8b7c9c0dc5e3cc3360",
     "1b79c365b4711f4eacf29bc4698687b082cf52504699404e9320f17072220dba",
     "b79093addaee4eb5e83b3ba5a62895ccee0808815b9b936efd448673a7eb92d0",
@@ -4000,15 +3992,17 @@
     "63863b9a3d4311260b50a5e7efb5ba83a6057f026efefcc475d646cdf1f9d610",
     "fef86308a40e69761f44269ad40d473b4d9c965074dedc9e2ee7f7d6bb630d2a",
     "d20d1f2eda1f71e469206bc8b9edb0670537eea65cc710ef74d618ae39d4d81d",
-    "64608c0dbaa32645ab785e71b45ef4ede0e58ceb64672551f0f5f60e9fc9b22e"
+    "64608c0dbaa32645ab785e71b45ef4ede0e58ceb64672551f0f5f60e9fc9b22e",
+    "aa5e86243d67f6267528af17d8c68fa1b37522e76117553152ea223bc7620044",
+    "abab48fd9f05675a61a30f6076fa34069511d2887c4f11d0072423006721a41b",
+    "c6e62b9bc1b03a0539af672deddd631737e2a010f8a42eb124afcd46e767c463",
+    "d665632923ffa8f9472dcc7669373d632b5b394afd5697e2211cec61ac9deea4",
+    "d65ed9b3c3a23a3f1352ac9336c63f34b1753105b05ea1e7c09d3c1ff4e2a8e7",
+    "e6bd342daaa4837a1468de1b4bf33d8671573ce57c9e451783d1827b45551e05",
+    "f891dac8f2ecb02cc3d2c377fd16dcd0c9de2f67f8b875cf6cbcaf0a6b904084",
+    "b9b3bdaeddbe760969d054be6855cbf9f1b782cebabe92bc065d3b5ec3801f2d"
   ],
   "title_hashes": [
-    "7b3e96795c8aeb88468c2df97880ea3adac29c9c088f2e353bf0c2816de86910",
-    "a4aeb9b5489720ccfef55ea686c6be0ae595fd693231b78f1cf6eec0afc61770",
-    "27c1d164326e299daf737de5225c9cbb503dd1722f280121220c54ad19600d3d",
-    "147d1876ebe7408d3c53d29d5cf6f413e99d143867ef2550f77b315586a13d77",
-    "1401d3b6a17ac5137950ace26ea035b3a1da990abdd3eb736b623bec37e740b9",
-    "b025b04dde55c4cefd391d9fee2824c508c056d0c4ed78d418653c19b115034d",
     "f115ec2dea9c007a13e50cf3aa83e07f03952ef37df14b424301828821814eb8",
     "9bf68f0c266e22b9c6267e945aaaeabd4d31afc25703fd4924f8abf7a57d3af1",
     "c16d102103bc8d379d0c7a026a6fa45f382ca345e3587ce58630696b4ec0b6df",
@@ -8002,23 +7996,15 @@
     "4e6f3c748516b33103cafa6b2b9b89b4ac6221e94857a11f7dda2a05b508158f",
     "6213249dc5f28ce2e135ce00822fa9512aaf94344546e828e5846a446b3f096c",
     "6da6802626ccac642ec56bda29c53803b2790961326e6215baf3c860bffc4a7d",
-    "052a0bb619f60eb1359d65ed064d7fa5d5ac8bcef5bc693bc53235df7ee34b20"
+    "052a0bb619f60eb1359d65ed064d7fa5d5ac8bcef5bc693bc53235df7ee34b20",
+    "231d43c9e399431985e3f649e9a257d90d484068e8e5a951ee7feeccb6392cd3",
+    "1a9c3a8d1d27b8bda76f7352a99ea2616b62346075ed1d1acec7b7480f32896e",
+    "e9c5a83229f7f345cf3f9ada715aa1e64302860a70aab7d92b41632379e849d9",
+    "3299af7ebb5112392512dc26edf8b7749a13c76c88723a4c12d635b2ee855105",
+    "0ca915171203c3fbdf5e36cf3cbd4a588cfdf57561998b40bde54e7b313801e6",
+    "471ab41f595f38219be9c6bea7f246851854951188b0d64c5022573b9b579852"
   ],
   "recent_sent_articles": [
-    {
-      "source": "매일경제",
-      "title_en": "코스피 하락 마감, 4,869.96P (-5.21%↓) 코스피 기계·장비, KRX 삼성전자 TR 지수 등 하락 주도",
-      "title_ko": "코스피 하락 마감, 4,869.96P (-5.21%↓) 코스피 기계·장비, KRX 삼성전자 TR 지수 등 하락 주도",
-      "url": "https://stock.mk.co.kr/news/view/1203275",
-      "ts": 1795158477
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "[특징주] 하나에어로, 코스닥 상장 첫날 6% 상승(종합)",
-      "title_ko": "[특징주] 하나에어로, 코스닥 상장 첫날 6% 상승(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261120037551008",
-      "ts": 1795158480
-    },
     {
       "source": "Bloomberg",
       "title_en": "Nvidia Scandal Fallout Creates Opening for India’s AI Contenders",
@@ -11504,6 +11490,20 @@
       "title_ko": "앤스로픽, AI ETF 사각지대 노출…투자자 유의사항 점검 필요",
       "url": "https://www.benzinga.com/etfs/sector-etfs/26/11/63481734/anthropic-blind-spot-ai-etf-what-does-it-have-to-do-with-photonics",
       "ts": 1795190398
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Wall Street trades lower as the tech space remains under heavy pressure",
+      "title_ko": "기술 공간이 여전히 큰 압력을 받고 있기 때문에 월스트리트는 낮게 거래됩니다",
+      "url": "https://seekingalpha.com/news/4675202-wall-street-trades-mixed-as-dow-rebounds-but-tech-remains-under-pressure?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795190554
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: $1,330,000,000 LIQUIDATED FROM THE CRYPTOCURRENCY MARKET IN THE PAST 24 HOURS.",
+      "title_ko": "가상자산 시장, 최근 24시간 동안 13억 3천만 달러 규모 강제 청산 발생",
+      "url": "https://t.me/marketfeed/1082672",
+      "ts": 1795190556
     }
   ]
 }
