@@ -1,24 +1,6 @@
 {
-  "updated_at": 1795180862,
+  "updated_at": 1795181031,
   "id_hashes": [
-    "38a865942cdbebd451ea29aca72f6fae13fdc0ea919adab7050c7a299bcd41b7",
-    "18a2e892c94338b3b1429b2e3ca75a4c04647feb2aa3cdbbc5c113bc5191b08d",
-    "3a81b5d28a392d82a2baf79abbd3a0f4efcee2c7ca0c292683a5a8a5f77462c3",
-    "bfcfb9aa792e883a44303d6cc2c69af6b319c97be4103818c71076d59f5779ee",
-    "49a453eaaea19d795533c6d523c0ea26564327bcbef4c45e9e30fe5a8e9ba9ec",
-    "e7e975cdf48a1810b55ddd257ade299f47f66b15609a70b976ff45d036d7a372",
-    "1bbb9c4b2e8027a73ce9295a913fb67fc22de4ff9ecfd42143bdabf3c52be956",
-    "71f40a4fe6cd6f1e4643e2a8f57328d07520b633af73e95051170f06fe97eb60",
-    "e7be6b98220e840129f3c14d7d3f011681ab0ae4eac7d3f8dd6fbc79b529d197",
-    "1423179bf9704ff2f68910b65036045dfd40ca980a61c604274f1cb44cb70f87",
-    "83a46a99aa45ba9808f1bc3c9820c6312073323af5d44364bbeba48ef9531dd9",
-    "44c3941858fd612d24003a63481c636e94488dcc64b51c2614682f53eb2b4d9e",
-    "cede0f38b974dda844a1ec6c4c6627c63d10551300d036a66c8ad2523eb6dc54",
-    "3c4f57b834cccda54b16f9d3af7522b896ca71d10ec2a86be1f5c367f6164b82",
-    "b09b7a9df29321176114e517ee1d6b0890a6ab48747ed6b4a72a758ff11178b2",
-    "8782d333efea914d56acefe51dd8a5de999974b4a5b5e519a227310765a4fadd",
-    "cfb7b5ef2906a7bda91794d8443b83059bc866285892e0c2e35893cdcb9cac80",
-    "094bba244fc210e79b6fbbeaa347d640a49fd6e78984e25a1b4e1aefb51ab37b",
     "6b6132395c71be80b047dd3239dddf5e3db19996d8c356275eb16737f8ed59a5",
     "64c514e9575d8bb3ab64949a2849e85759585548b694413aeccba43c944e6db6",
     "f3c88faa5658f67a674f7d9984573a4e788c266882c9e4b1c52349efd3133879",
@@ -4000,24 +3982,27 @@
     "5beba47ec7987e5ceeaaf9b6f0cda52e70998f123a5be2bc1cea83523bcc07d4",
     "5785c527956f346d4d16a30d9f17e58b7f8d6b826fcca6a234fe510b8c2fb9e7",
     "dee1db09ef7805c62f586655f192b82c1231b5d3514e4459933aa757f83b7fea",
-    "188c98aac024924783f861c0b3112fa201e72d02ddb4d944dad82d1875cf1652"
+    "188c98aac024924783f861c0b3112fa201e72d02ddb4d944dad82d1875cf1652",
+    "2197f4bfca0f2c5a5de51ab6be2880d74866488de88c901587a11145af3eb767",
+    "7ca3e0484029d5d5e87fa711bb44afa5318d7ff57639d95e0a7dcc7e283818c5",
+    "faa0c682464ae533202a9cbbfd8d6396730151634f5c506e5ef5bca06683febf",
+    "6ab6bad2b0baf00338807c9437c5504a73f0ec06b54489e9230284bfbf0730a4",
+    "d0b8726d07b243c4c802923b276f2b8cce32174b010bb6bdd58a6ca3d106df0b",
+    "fc3325cde928280c1fdb6da80093980465c1aee00ddf1e990ea0a6a882091a16",
+    "8d7fa31bc45553f6c47cc634e62ecc897de747a75d59e4f0110863313220571d",
+    "fcdfa619ce1b75c8ef5bc973fe8086131340d02889c395ac3c5f75001f269190",
+    "82b2ef919307a267539502adfd0d0a353a6016bdd7af4ee9a62052e92969a6b6",
+    "5d8bd55afe68dbf99880e0d54235882769ae46e02446c2041c7b747ba6a396ef",
+    "79932cdde21971c4bfe8633ed4df9c05a9754183ee8d90465aeb75398c213ea9",
+    "0357606e1da6e339aa555a42484d279b3debc63bc8af4b6cfb431118c8d20313",
+    "5aa01827671adc847405a53aea17747d3482d58f10d487cd7953769d185a51b2",
+    "70e6272976add30b7e5e8ab6a60da6b9e20c86ecfc1d81301b951007d9d7f4be",
+    "6e3c241bdad0c19afff060a79b9a7a5b664a6c9b215a08ec0e671bebb733b449",
+    "e35d9affbe8d1102f24ec17a8f3d6e24138c8afd50ee7d3027908aa8c676fc45",
+    "c74e38206e92ed0ff77c1c93d914ce1afb5b1a847244d204e72af7d54ca2dce4",
+    "d8e0e707e843ac66efe93161668c1418bec3db88a6f67d9898bdf5b947a2754b"
   ],
   "title_hashes": [
-    "b4fac7b9537566d6d53d30ec84c6d0cf215ff66c52508ed267e42fae90831e3a",
-    "d730a02ee44bc721fdf4488dacea46653736971b96447bad1b74432c2bcd11c0",
-    "ef77e65286997b35bc36e1b5ceb1248c4e4350ea19a82e187ad88fb3f113ae25",
-    "26c665716a8a5762b9668dfba12e4e9f47de5706b58fb5991ff0574ea50d52f9",
-    "9e54409720592412e99a4914b325c019a5ac4272f1855ae8852c2d79a8b9d085",
-    "795bbc811c5acc2d403737d5fde4e9b5b53e67d2bed3df21dd0263eac88ba5ba",
-    "5d5217c2c410fe65dc9fa53e115c7e81c995c228ac839bf6f9d725a416cd87eb",
-    "dcabf9ba68bb19207016985df82dbbbe8dff7e8e3626f24bb1b8f441bc63a3d1",
-    "b1d151b6a739c25ab0d5f136460797f0e2521138ccb605a138ccd8446822d4a6",
-    "9f0d54f3103324f27b86b81f50e31fa6c7f50a4790b40bea4cb4b90f5260cc39",
-    "69134c70d7ad357fc6f929967f57dbe829f69a665cab66fc03b16a2c22702933",
-    "febe2015f181523d9a4ddc713ce56e449b01879ff57bb8ca283c0b741b3ded2d",
-    "d1ef93863cd74f0b32a239dd03a921bddd1f3ae41b560daf77d7c033c2d23c60",
-    "3cb1afb9ddd4af06f1e890c9b39a95a9fbd55c57efce3477c9e866a0860f627d",
-    "ce988680c76dcb3ec729856fcef4817313add251d21e9c8e427f43e6139cd350",
     "159944c90dc3bb79dc89c70c04da73eeccec4f9c31ec927fb379b8c6c2b2857f",
     "5f148aa26d83ee6ebbde0160edebfbfda1d806726eb5933d5e9dfc230d735d1e",
     "05258a030e1e2eba30a8bc60c4c9b2b5d5b5030a6683a3b8e509a9d1c39e1ca0",
@@ -8002,37 +7987,24 @@
     "86ace35a2232320ab4203bd3707a4eb934cc59761c03ee7f311d729995e42378",
     "268e1221eb1ea0d7ba9bca63a1d92067cde4ad01a365df9d30526afdba45da3c",
     "53cf1c86e45c277ddab5e81c34c0d0ae4029993cfb155cd0bd208f84683fa29c",
-    "32b90964e6cd101c8e13bcb033239420ced62aea8bb59e95a2534724401b2b68"
+    "32b90964e6cd101c8e13bcb033239420ced62aea8bb59e95a2534724401b2b68",
+    "0f84f938e9d7d24fdc517c011cfb1ad3ebf144bf17edf595789ef860978c71d9",
+    "fbd3c72a5f029e84aea4b10386fff718b43217f77ba90abd289be564e7eddecd",
+    "57c507dd722da06252ce9b0b2aebc74621718ccb3e243361efdcd3f418ff00fe",
+    "012c19d096a260ce942cff17c70c178bc0dc0a9915f39b089c06fd0f5eb560f7",
+    "ee0ecb7004de1b9f52a4dbd1f4e55a755d49f59ad06235a3d7a457c61d17bf10",
+    "b4d724aced726655f9e3689127f6ac8b7aebe7926d90258f99dfd08815690c79",
+    "880c55717987194ddc69bc4d118568861de37fe34aac69e6cc3af806217a07f5",
+    "9aa2d07652630dca9bdac4744b94bdc534d61268240468e8b71da983dad5fe4a",
+    "310c67f6bb3fcfa5490607b6f1d36ec4b347067d74fbec218732a26fbe369946",
+    "1ea774060c25c72c41105eb4638fab80cdebec0c97f40a16c54d4dd907f3ff8a",
+    "c36cacca455d371c5211428f7b00e188627ed836e60a50cd42f33918addb4196",
+    "64b2866fbe6ffcf6a421173bc7d68013870eb4f6aa09b5fbca8af73e54258a18",
+    "2357f3648e8afe7ce34f9624f517d6fe8948e594044d59eff19652cf65889ea0",
+    "f64814e92b29e061ad11ba7bccedbfc5a0f38e9eac2e704f02d99e9b1f9dd5e9",
+    "87c1d3dae35484f40f4d4dba9a2e55adc2f569af1ce9687c7cd1fdd1d03d3656"
   ],
   "recent_sent_articles": [
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "\"반도체·수처리 소재 국산화 공로\" 시노펙스, 대통령상 수상",
-      "title_ko": "\"반도체·수처리 소재 국산화 공로\" 시노펙스, 대통령상 수상",
-      "url": "https://www.fnnews.com/news/202611201207273142",
-      "ts": 1795144432
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "중국 APEC서 빅뱅 '뱅뱅뱅'에 맞춰 로봇 151대 칼군무…기네스 기록",
-      "title_ko": "중국 APEC서 빅뱅 '뱅뱅뱅'에 맞춰 로봇 151대 칼군무…기네스 기록",
-      "url": "https://www.news1.kr/videos/25436",
-      "ts": 1795144500
-    },
-    {
-      "source": "WSJ",
-      "title_en": "Nvidia Chip Restrictions Leave China’s AI Companies Facing a Computing Power Crunch",
-      "title_ko": "Nvidia 칩 제한으로 인해 중국의 AI 기업이 컴퓨팅 성능 위기에 직면하게 되었습니다",
-      "url": "https://t.me/firstsquaw/194466",
-      "ts": 1795144884
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Iraq’s Command Center in Jurf al-Sakhar Assumes Oversight of Security and Military Formations",
-      "title_ko": "Jurf al-Sakhar에 있는 이라크 사령부, 보안 및 군사 조직에 대한 감독 맡는다",
-      "url": "https://t.me/firstsquaw/194467",
-      "ts": 1795145099
-    },
     {
       "source": "파이낸셜뉴스",
       "title_en": "미래에셋증권, AWS 기반 '금융상품 지식 AI 검색' 본격 운영",
@@ -11504,6 +11476,34 @@
       "title_ko": "유럽 스톡스 600 지수, 이번 주 5.58% 급락…2025년 3-4월 이후 최대 주간 낙폭 기록 전망",
       "url": "https://t.me/firstsquaw/194603",
       "ts": 1795180800
+    },
+    {
+      "source": "FT",
+      "title_en": "UK-EU SUMMIT LIVE: NO EXPLICIT REFERENCE IN SUMMIT COMMUNIQUÉ ABOUT EU WANTING UK TO MIRROR CHINA TARIFFS",
+      "title_ko": "영국-EU 정상회담 생방송: 정상회담 성명에서 영국이 중국 관세를 반영하기를 원하는 EU에 대한 명시적 언급 없음",
+      "url": "https://t.me/marketfeed/1082524",
+      "ts": 1795180951
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "ECB's Nagel: We see German economic growth around 1.2% this year",
+      "title_ko": "나겔 ECB 위원 \"독일 올해 경제성장률 1.2% 전망\"",
+      "url": "https://www.financialjuice.com/News/9861783/ECBs-Nagel-We-see-German-economic-growth-around-12-this-year.aspx?xy=rss",
+      "ts": 1795180955
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Apple Might Be About to Become an AI Stock—but It’s Still Dodging the Tech Selloff",
+      "title_ko": "Apple은 곧 AI 주식이 될 수도 있지만 여전히 기술 매도세를 피하고 있어",
+      "url": "https://www.barrons.com/articles/apple-meta-siri-muse-ai-82985299",
+      "ts": 1795181020
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "ECB's Nagel: Inflation is too high",
+      "title_ko": "ECB 나겔 \"인플레이션 너무 높다\"",
+      "url": "https://www.financialjuice.com/News/9861784/ECBs-Nagel-Inflation-is-too-high.aspx?xy=rss",
+      "ts": 1795181023
     }
   ]
 }
