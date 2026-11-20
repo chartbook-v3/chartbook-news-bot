@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795190075,
+  "updated_at": 1795190247,
   "id_hashes": [
-    "c62b7b5aaf0e99396e3d815f826aa407ee191ce525055ca0680563903fc8ea4c",
-    "44ea4a66b14916583017c286e28dba7589d8bdedab2439091cc937b69b40b7a4",
-    "5b8880a0ccb9bbaca81c8fdb990b8705b4c05b947068bec0fe6afe9e2b82c3ba",
-    "52056762a497a16bed7ad4b380fb3a338e40d306415c2f180ef8f2ee5a9f715c",
-    "80e79ca1f1e168a07773894e93c3db2cedb1962dc4bc747c6efbc11b54fd6fd6",
-    "77ee701fd88ae85194dc4964cad42e47991649df2fcc4e0d3560d4bdf04d4150",
-    "c12a76860f288a58f903d508d8f0f3e9dec8bc84a4fb1f6c2c049a4f772b8535",
-    "87f11e9f8a1f2160d0c944cc07dd2fdb7f60d5597be5152f3608dce05ba0d993",
-    "0ec2d1b7400b81e9aca6e6f759af3547aec4156227cd195eba8d807ffe2b4d0e",
-    "0b73bed5a64540b4505cad60c1c0039f87204cdf41eddae15ce196ce4000502d",
-    "5662e137244917a82fe07c6f8c44228819862eda5604dbfabb98e65748e22426",
-    "8329c9f9f8c74fbf2180489c3caa4b7d469f4da834553fe10d1af0b18da98e1e",
-    "699325a5194d0d3e104ffec45c305b7ed0f3d858d37288ab76851ccf06750b57",
-    "e1dd4659d12e651eafe7474d91a60b553bbe0f9fb7b0f6186201d987ef5d75b3",
     "4cd92b0a434271bbced4c2de7e5e7b35f28cdf4d4c283346e5590e36ff31bc4a",
     "284cd62d1df2db6c048c3574f3287a0b889c6cf0ee6c3ac1144e2e7683228261",
     "e8f5a8b734c7c080ca3170ebc40364a220686efcc029b0b7d2452a6f701129af",
@@ -4000,20 +3986,23 @@
     "adb830efefa10b289908ae185f49d540cb8dd541b9ef82267c1651b678688c5d",
     "b12cab02f4ce6ce52fe04f03964e4d5e3eb2a0853bd4994e3fa1c3e4cd30a1f5",
     "c3751c70ea73c3eeb70db0cee7e1841c92815041c7db7da34a0c95844b346491",
-    "ae1ec54e48d3e229a63ed60fb142f733dc53d15bfe0cdddf799bc73fa87d554d"
+    "ae1ec54e48d3e229a63ed60fb142f733dc53d15bfe0cdddf799bc73fa87d554d",
+    "8eb9c8e4c63a17ec12b56f5fce1f09dbb6687e775c2cb8059f472345accffac2",
+    "22ff57073d90e3f6653820607007b4975b15bf96205cd279546e933650d61732",
+    "08432f7ed14b0fd36df34c06c0da85fdb27c69c95d1f1898163fd7ff444628fa",
+    "9364ea38a5b947b58094fe761e24ceeac10a47b6d43a687f2ef3de96ffee5064",
+    "03056a21fd9eaad8c20eedcc527b419ada3daef1e661f85ca78b2ae54d5bbfd4",
+    "e22a727ce1ed41ece3b64917f6e2bda1d98b77a12365c9a0bedd7bdf1d646a07",
+    "8b109248daa1555426444a8b29875783050cf7058747fa34be6446c5d708d1bf",
+    "5a82fa0dfeb083854fee0e4b537efa60e6a537d3f707cd5026b4db01e085fc76",
+    "edd84ba133b5a2846bebee5f04d47523bc38fc63d601090efd102d5c7194e873",
+    "ac27acc2eef570d3dbb9f7d0e7798a661dd22c6bb793b311ef6b847d799b88e0",
+    "3cea1fe11b1d4d7efc403f9d56e3b63e55c0f889e64d8f4dd4e0bc6eae16dc3a",
+    "649f4f1d471cf02d991cdb3a962011969ea656a85e9442401cafae5aa82610a5",
+    "6b1a89fa0ce768b87759d58b3251426882a8168d1fdbd852c3aa779f0172344b",
+    "46678b7a6d14a828dbaa4b2058ae4e83e9ae9220e6dfd940a4d6ccb558f75d98"
   ],
   "title_hashes": [
-    "9ada266b7d91423fe74f1f4c5f9369633ea28e1026ea144390df5549cf67b391",
-    "7c59ba6dfda697d37fbfb96a1f10125402acccdd019109758e7bc1cfbe3b1314",
-    "6d170f8f0db4f8a9fcdf2022feffbce6eb6f6763eb5682e7e6152fca48718b34",
-    "c8d5a562ac4dd51d63ec860a74fc0a2b3bb47813c3b445b81d52a6f4b65a540b",
-    "138cdd5f7b1b0906a04b2c92f0847eecc0bfeaab4b21da105263f0616c840709",
-    "b4c57d53245306a9816f1722de1beb5555493ba5a2dc9de14c4b5b24e702b777",
-    "7b70f98b5fb49ecca00fbeb147446f67ebccba9a81b0e6e4e68b25353405a615",
-    "7c7958e6397fdf3bfa1b53e88423effea8c5065465ea3f0cd5b19f03deed76b5",
-    "2ddc04615f39c9b2200fe80b841602e70069894c82e748f0e0085e2e1cd8643a",
-    "1f97f59f95665ba16d939b0985c1258baf7019726c6373d68c24bdc08d51687e",
-    "b35a40f7c0bf649345dbf06a3e72d3d30a4c6e8325f3d3cbd0be3c079b74a811",
     "6ff8715af71100e18ecc6ae4871063c7c99f140319b3fc94c80aee3b135fac4e",
     "a6ba95b128160497ef3cdf1d3638e88055e40ae31581830c000b1ca8b4267fdc",
     "6ef689f9f0afdfb04176aad9c655a391620863f245477b8153eaa2193d94a2be",
@@ -8002,30 +7991,20 @@
     "bde0f1b0865fb373c7ca36ab980f0066d8f3ada295c900bdb9f2f290ea8afd96",
     "8db8c1736834f67546e4f89611c27a329732fff9a25ef3ec6d000f67ba104e6b",
     "71829e17d78454f83db928eecd475b0f82f2a001edd0ff4c1601308b8ccf9030",
-    "ecdc1305374af2379ff3756dbc8dabe6cab95e698ea3bd6776a00ceb5d3b524d"
+    "ecdc1305374af2379ff3756dbc8dabe6cab95e698ea3bd6776a00ceb5d3b524d",
+    "87b69f955bb346d6c5388bb7f3b907b295fcc245f0829723a95e0c9640331d27",
+    "fb770e5d79af7c0ea74fa2f807f541816e8a2aa9cdaca40c04414a40e9f8f899",
+    "7d686b0e87c2c1ab49b6518d5021949cf4046abd50c731c4d94f72138c863d98",
+    "9a2cdb4c207260584ba8c9694ad07552866233db28b20a717e7cd4d76dc84adf",
+    "0144d06bae24dc3e66db227850496271f135ba470ac5139efa068cec21ebd112",
+    "7bd4287a382cde4ebec7d152e137c440ca99d0881cd1dcd44f0d1d659272b67e",
+    "d62c3f55c0d36a89b1239aee2dc7a47eba8bc84f7d340ca5bccffcedb7e2752e",
+    "435b797be8febcf99335b0a4adfbee286bcfd8c313f7359327f727a7b5311709",
+    "f8740f9fa03410bba6c87b77b8ff42ea0df52b0ac75ae5de0597b1915a03398c",
+    "5029d2f2921e61a1e786f34a918e4c3e6d392e0d771c048297504543d40f5550",
+    "dbd467054af70e7a2328107d98c52582d7ce79e6704a1cedd50a6c07b46149fe"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스퀘스트",
-      "title_en": "설비투자 5000억·차입금 2.1조…한화시스템, ‘수출 축포’ 뒤 커지는 재무 부담",
-      "title_ko": "설비투자 5000억·차입금 2.1조…한화시스템, ‘수출 축포’ 뒤 커지는 재무 부담",
-      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=305514",
-      "ts": 1795158457
-    },
-    {
-      "source": "매일경제",
-      "title_en": "오전엔 순매도 1위였던 삼성전자…낙폭 커지자 오후엔 순매수 1위 [주식 초고수는 지금]",
-      "title_ko": "오전엔 순매도 1위였던 삼성전자…낙폭 커지자 오후엔 순매수 1위 [주식 초고수는 지금]",
-      "url": "https://www.mk.co.kr/news/stock/12214629",
-      "ts": 1795158462
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "우리운용, 앤트로픽 공모주 확보…올해 해외 IPO 27건 투자",
-      "title_ko": "우리운용, 앤트로픽 공모주 확보…올해 해외 IPO 27건 투자",
-      "url": "https://www.fnnews.com/news/202611201512230373",
-      "ts": 1795158464
-    },
     {
       "source": "연합뉴스",
       "title_en": "[속보] 또 '검은 금요일'…코스피·코스닥 5%대 급락 마감",
@@ -11504,6 +11483,27 @@
       "title_ko": "루멘텀, 기술주 조정 여파에 10% 급락",
       "url": "https://seekingalpha.com/news/4675217-lumentum-retreats-10-as-tech-suffers-pullback?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795190047
+    },
+    {
+      "source": "9to5Mac",
+      "title_en": "Apple Calendar got two feature upgrades it really needed in iOS 27",
+      "title_ko": "애플, iOS 18 캘린더 앱 주요 기능 2종 업데이트 실시",
+      "url": "https://9to5mac.com/2026/11/20/apple-calendar-got-two-feature-upgrades-it-really-needed-in-ios-27/?extended-comments=1",
+      "ts": 1795190107
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Bessent advocates lower Fed rate hike, cites energy shock",
+      "title_ko": "베센트, 에너지 쇼크 언급하며 연준 금리 인상 폭 축소 주장",
+      "url": "https://www.reuters.com/business/bessent-advocates-lower-fed-rate-hike-cites-energy-shock-2026-11-20/",
+      "ts": 1795190177
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "GE Vernova shares drop amid analyst downgrade concerns",
+      "title_ko": "GE 버노바, 애널리스트 투자의견 하향 조정 여파에 주가 급락",
+      "url": "https://www.streetinsider.com/Investing/GE+Vernova+shares+drop+amid+analyst+downgrade+concerns/27380220.html",
+      "ts": 1795190185
     }
   ]
 }
