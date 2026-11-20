@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795209149,
+  "updated_at": 1795209306,
   "id_hashes": [
-    "f0114812c03373a3bf5944d756fa98d91b717ba6505d9111ba7280300dc5b50f",
-    "b6c2edbfdd376b2805dfc159cf2d0bbcd0cd25d7c38080193b826988b92d554e",
-    "3e72b9e8dcea98f54008eab143826feea5f3e7f856e052ccfc47e234a6b5b905",
-    "22132d753463c6aa3c28348daa6203927f68e8d2cce3a2c5d9cb0f7522e0da11",
-    "0a32f2aafeb99cf08046f344c88f00d6ebf4e67b16b062477d36b0a609b3e287",
-    "8cc733db9b86c78d5009109a005b079f24ec559124c1c4d803c3f0082cf141ff",
-    "4d492e2078cafd08254b4dd7be0aa2ab8b2c65cda2de9d8f0205a9c5a75dcee7",
-    "94cc3e7a33abfefda7ef5a84f1c0ab8534d2dffc1c10561616921534909e75ee",
-    "a6b41ba1163a6f3bd662ca770d6733364f8a0938e22435a46ff7c270e95eaa55",
-    "b20d27ec9bdc9cdbfddbf42d1c4af48f53235a5be357adeef3de58e9c786fcd4",
-    "46950f2deeea8af94e4aa9d8ec49a157b22a6e90505aa15bc8dd6f3afca0a013",
-    "94862ee7ba146a812117a9c13c04fd158091d147d3ffa19571ab845383d3cf2f",
-    "997671a72730c599776ec69b7ac2b45bf1aef6c0430c2b2496a675bc6c51b487",
-    "f25c7c7ca5ffb5cdc00d475d6ced8aaa13cd64865a5155338e9d83dabc459508",
     "502effeed18d4e29d33a2d1d791f28e121c3959cae7cf24dd393cb2b9efc4aa5",
     "7671fe511a7d69ba23f0da19c6f21357af120e11286c17f48c6e3b0910b8b587",
     "7220bb3b2e309a67b4605122570891858d9ff0345f7a349f82deb5aa2b4b81f3",
@@ -4000,25 +3986,23 @@
     "1e13f3d2e4664adb698a4730e5a9da72118fee422270ad5c41cd46552b7b05f1",
     "cbc6cc8eb4e80e209556151d747079439956589c78b70d519f1d08b896e2e345",
     "ab4292d51b6990e76aca2edab5867903788277f32566a6df5975ee9c3dc01265",
-    "be59fc0fdd83047a6fe8e9d6b1205778b181e7b9ffd6186dacd0d73a8a1543bb"
+    "be59fc0fdd83047a6fe8e9d6b1205778b181e7b9ffd6186dacd0d73a8a1543bb",
+    "81682e6b4af79695abde2dd7476dfbf1880892a208c6850bb07c307c45670e2e",
+    "89abb1bc9c18d2f39d9c756e8a0344d0fe8855591c2bd67eb83faf332521da77",
+    "24a56a8abebf304d35a5f70c323381bc585e221a540d9340857c9bb2944666bc",
+    "c85173e9a72173c4a7cf897de6143f8ded6c313ea2242159448bca45bdfe0250",
+    "aa6f1e427a2b35af61a6ce145fa0cc28b9a9c958342561eac32bca5e8eb55533",
+    "afc1f1cdfaa7596cb6ef995fd44b35982262fd5c903da0c17f487016334844fc",
+    "b3118a7b0802ef74c80c54c3ad8a797afff679a4b6d58da1640216583d90ae7d",
+    "e66002639c4f994840bfcf597a327a7fa87de8ce8b9731f325e3a6b8003e718b",
+    "6cfc27c70d4d5103d9e19b22ddc0c574a05df7711886486b943cac08d75e1344",
+    "4532b2b2793227e19d95172f62650e4338b635007b09c7c16d6669c3f322c3bd",
+    "838e71856910fd23f337e780567a54a8a2fa1048a69ecb75528aed0970e93ab2",
+    "d18445e5a5f2f9e0508c106881b5d9ff2fc593377dd85410a61c49be600cf0e7",
+    "27c0de40726fa655ea89730af53e3263ce6a2fde75b065a4e5565c448170927d",
+    "20fbd82995409975d3645bce823cc08be8832f2cc7091c34bba7adadb61d7b51"
   ],
   "title_hashes": [
-    "52167f03c1e6a6499042b0cb58edc218640c93d9a4b6b5dc18902e5420c1c390",
-    "971479a946e9e850f7cae484ec0d584ddf3ab1b08360fc1a94500be969165506",
-    "a53fcc9ccb464cfddb2b0247babeae8d1768c3cb078e34a35cd6978285c6dcd9",
-    "d9fe6cc6a6f1a2625b3694976f37e77ce3f81c6c647aeb2b5735479f958069d5",
-    "11cd575e0bad23dec43b3f92df7ee484f909997f00622a13fb0ac5e6ef13c6dc",
-    "bae73d846edff212365a47e19ed7c53028cee972e97503c4908d70d9c4ca9137",
-    "570d8bb764f46567fc8560602632ecd89cdadab0a4ccfdb9276cd4fce6937f43",
-    "6eab5ac27c2d1e37ded01f0f55976424fb0155bd33764fa044a2dd90564d9b31",
-    "6c46be7025a7bd7d1bc770ce1f0680287e258edec21e7aaa1571540012fdf1f5",
-    "19098dd5a29c74f719e25f975231d73dfa11839c6304e26b8a8ce3e9f961e4b4",
-    "ee5cc1971264d9d7d2a84b866c8b04abffb38192b5a97e420d097658d811f8fb",
-    "2a5383c658726f8ea0b2bd11b3d5dd0556112d4661b12cb6974613642603cb78",
-    "5220b460749772ee196fe2cddf3edcd721f5c11ffa8b445d0364760a92e0fa02",
-    "58eb06c801755289e5a3d28c27285f4525b6278bace5acd52970aa3a92367398",
-    "c1a09ed67192fe5c6b71b267203a0cf2a5a12c5c4b83704c12a6d3cbba202fe9",
-    "79d7c6e69ee8c9a062262cafa83d5f979f72d014303a294767aaf9c7d44ba221",
     "b6889ff8a569a406c70ea04e017a830522989710674e6f5660d389edf74d0fec",
     "4c5d38e944953b2669d17e5336df0835666a31ab264e0f0bf69206e2be70c209",
     "8b381f9177bd5d02ae7c9b8eb586460fa30cc9f196524f33b38469345f558d4a",
@@ -8002,23 +7986,25 @@
     "13fb94df33b3769a14a5fa171b76d47d95d4862972ab0a42ce968e69f02d3b9f",
     "b1deedc5cb510f263ee31143b3f4e7f5e16d4e472fb337b44ee7bf35b339dc65",
     "1d7cf28e366d49845469d93dbeb1ee3825ff7f14a2df0717099fb8c1070f44d0",
-    "fe2251d8f0259fa24849329796f85ef2896d5ae32d4df884177a25855605304f"
+    "fe2251d8f0259fa24849329796f85ef2896d5ae32d4df884177a25855605304f",
+    "9bbd7cde4c1eeb7526aa73fed9201b46a676a587424347ba300c8b5b0760a405",
+    "8278d8825647a14a67d786cf8584809d6af813e390d74ac0930477239626ba5d",
+    "222bf1537b3526899f05b1d383fa78bbfe5d6ef7bcc53b0d1cb9533e9c7cbaa8",
+    "32d7f95fdc3911db23d9115e198024020b35b6687ee3189094b83cc20d6f57c3",
+    "74429f4f3b0e2a0b96afa6feaf46420929d8e5e0c62aa25bab38520699fff48e",
+    "e74616c7cbc8a63cd629a6f889c03a865be7181fc7c60d31f850c01fcdf489c9",
+    "ee9bf5ff8001f5a97913ec8dd49bb44835852b89af4fd41a7b8e9f8d78b06642",
+    "bf36f078231e98970560563aa262eb37068d36dec11ab49543494e39b8636385",
+    "3cb90833c1831d1fc7be71eaa5ca53cab83ca9364c3fb7759591d4a8a0d1d7d2",
+    "62fccfeb25bab08042ff54786edc977bfef2f0999fd75441aad3bb5c23b4c821",
+    "46d24e811b5f7bc4ff1b8fc6ef41174da1f3998d751f3ca11067a0f621bfa277",
+    "80f65c0b62dfcbe93d91f7daa97719be1ac349ee685c22a35dccdbfc670325f8",
+    "8c11eb58c432335b622650b65319ec11760eff118c550ff0941203db09621363",
+    "c227316ca08d8d4a8ba4e758f792b8c3748ea82842060d9bd93798f91556da80",
+    "557d407f7fa70be4dd0777264c103a7c1efa812e4ed1ac9b287ea04d6da0c9c4",
+    "f019db0116aa064bb0f17c97e2c38590d3c1544c4bfc249fa4d9b1f4c27502b6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "ARMED SKIFF FIRED AT BULK CARRIER OFF YEMEN NOV 20 – UKMTO",
-      "title_ko": "영국 해군 교전기구(UKMTO) \"예멘 인근 해상서 무장 보트가 화물선에 발포\"",
-      "url": "https://t.me/marketfeed/1082543",
-      "ts": 1795181605
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Google Is Turning Its AI Rivals Into Customers. Nvidia-Pay Attention - Alphabet (NASDAQ:GOOGL), Alphabet",
-      "title_ko": "구글, AI 경쟁사들을 고객으로 전환…엔비디아 주목 필요",
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/63469027/google-ai-chips-nvidia-rivals",
-      "ts": 1795181667
-    },
     {
       "source": "Benzinga",
       "title_en": "This Tesla Analyst Is No Longer Bearish; Here Are Top 5 Upgrades For Friday",
@@ -11504,6 +11490,20 @@
       "title_ko": "11월 17일 WTI CFTC 포지션 주간 - FJElite",
       "url": "https://www.financialjuice.com/News/9862444/WTI-CFTC-Positions-Week-of-November-17th---FJElite.aspx?xy=rss",
       "ts": 1795209148
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Dynagas LNG Partners LP Non-GAAP EPS of $0.46, revenue of $43.98M",
+      "title_ko": "Dynagas LNG Partners LP는 매출 4,398만 달러에 비GAAP EPS 0.46달러를 보고",
+      "url": "https://seekingalpha.com/news/4675340-dynagas-lng-partners-lp-non-gaap-eps-of-0_46-revenue-of-43_98m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795209236
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "微软：已开始部署修复程序，预计几小时内推送至用户端。",
+      "title_ko": "Microsoft: 수정 사항이 배포되기 시작했으며 몇 시간 내에 사용자에게 푸시될 것으로 예상됩니다",
+      "url": "https://wallstreetcn.com/livenews/3203586",
+      "ts": 1795209305
     }
   ]
 }
