@@ -1,24 +1,6 @@
 {
-  "updated_at": 1795148084,
+  "updated_at": 1795148243,
   "id_hashes": [
-    "3e8cd055baf6dd205d7c1080256fa8ef70fef85393ca37dad3296c0662bd00d3",
-    "645842592efed509e07c7bca7f29bb126d9469efd0cbb5b0092837e210b7eea4",
-    "8bb2becc551ef73726629541e25bb8395785478d89afa04720c5304ca51d0708",
-    "08c03cc9738611900f3151340cf7b8f69d20625a29699c3edef9d0606a120a5b",
-    "74a522664a7fa180655308cd3d32d3232082d09419d52eb39608ca9bb7f2d67c",
-    "e524a81f3f6db6aae46ec707e56d0a66686ec307b7e2fcf4958db0b80fbbac90",
-    "261e5762833f23170629f573aa97b2802b320c27868df29597070d56c8c5fd02",
-    "669202512f7aa3ac72d8d3496f6fa6e42f757e2a18ae1e2d1cc1a1e675f8d523",
-    "175655c0d845d32ec6bf071eda87a2745cb2d77c86882b8d251ec1687246c4ee",
-    "e9c8b40158f2eef99207182bd08680a7bf05e1f2401c0f91a9faa9dc3c0c50af",
-    "1eeb8df0c4415e977b190457982d5e84bf00dc7d992d04bc285a69cb30934bf4",
-    "6403b1a640731cc40edba3e086564757d5a2188669ff4b8338da5b0402452ade",
-    "20da85655bf74f6e13e6e3233c5636bd676c19d9e561bce65979a168520d81c3",
-    "8b66367df6f016283f19cf0e1563cfbc8c5682d428bf01338c497332724e41a3",
-    "360a0b8c0de3a8028a4bb9cf38b602b81c704798bca45afbeddcdf1fd4b48f89",
-    "0aa1b687728e6ceb543eb9d3891476c49302ab9c9fc6bd4f81dedb5500d88e10",
-    "b0da92971ad7f7343386c8acb9543ada98821e857808a58bee5e6f5d70eaf9f6",
-    "192abd82a513686d4d8ed70a5b657b7d4abaa77aeed8eecfa1f4c09fd5e90414",
     "3d7d4dd1293fddfaa2505f06fb93b91ba6fe8d4e1ffeafe0ef7c0aa911eeb097",
     "947074d10dbfd957084556c430308d9d4a78544d0c1af340a26122944e656190",
     "b34595423a39e24b998ca8c574dd80c110e0ee90f59aa41cfe987792f6b00afc",
@@ -4000,26 +3982,27 @@
     "35efc9080fdd20dbf0e105c523915e04089dc701c5d28f84ec800947aa095400",
     "2e2ed3bae574e6116c1ba3da7a7fd28c42844c645f0c2af5a52e86e40ca84f5a",
     "03701c1e33e323425f7c7929ba17efc956035a3afcd3339cf469323d47dc9890",
-    "c9adc36b1674827f5b8972de353dcce8259c68200a4261f3bbefa92ceaf01c06"
+    "c9adc36b1674827f5b8972de353dcce8259c68200a4261f3bbefa92ceaf01c06",
+    "2992cf906f9b54b0e547b646af12bd627ab9e79bc5a1aaa5403dacf9b0d90ad8",
+    "726d266c036299054fd643a2f1166179292845fc10c8f3bff0c2e0cf6da1f49d",
+    "16d54b37fd9dd8dccd3251b7dcc8e7863e133fa25228a1b16b89ba007e912c2c",
+    "7e4e927b81b0cea0b176af98b075086a099b6fa8c26c0a9a0680b5b11ea772b3",
+    "4de676a2f7d0e03ce10547bbe0512c73939384899123cd08c00f9bba3f4f6838",
+    "9b898ca3830332cd37ad2e1514e12549882afab2ef809e3f3ff010462b21f197",
+    "fe1e0e152d9cfcdc2e2b72c52e8c77a9b0621e9f35ffc5006d06f76fefc8a5da",
+    "9788412f9717c56f0806cb43702cd7933dee371e7b36c733efeae7b6a5cabce5",
+    "8b253128d687d0b18107627442c3915fd4208c2973fb6ddc22b41245eff9f850",
+    "68e2820a1653ee16b325fc36577bf4c52bc3e61214497ebe979c028a7bbd9b5f",
+    "7c9a2bd927f9154bd8843e8170ec199638d450d9ade6670ac7040e46a0826f22",
+    "0440e02d1c27f829861482192add23a5d84c0018c041c4b2221811bac9ea8188",
+    "1550a7de23b0f1b03b01bc4919c3d1322691b88f296391082fc3a212f538af35",
+    "453d62b00e46aa0a1f1524ea03e4ed600b47ea6e83de2bffe3613c627c92ac33",
+    "92fa502f00f27c52fc090ac8da4b79bcf11bd72ad183e271dc8ff680b7b381fa",
+    "024c890054d56a9e5f10fd9ccf55e704dbaddf9e07ab40e3ac06d2d4f706942b",
+    "b785fc5d48abb77220a3a259518f386b6e8784e0992bc02691b1e17589417303",
+    "d29f555668c25e801e474e90fa68dd69b3d559edd6199d131e32228e4b62f117"
   ],
   "title_hashes": [
-    "a3c46ada46ac1fd17720430d2d1cfcb121f1359f03bbc88bd77c75b87b95cc18",
-    "c14ecb1093ca9cab67e47b4356a740b1081be04970b7c90ad294da99ad5dacc0",
-    "5f0798406ac3da81d85080dcf606559a1dcd1278af615d31b334f72bd75610b6",
-    "48413255583ecf2cbb2a9c65d8cd2219e289bd80390b6a00d98872905de14da5",
-    "651a2114174608510917e626bd7810bb386d09c402fadeeb84fb301a76a4bcaa",
-    "5ac67633f6806699a682b8ac5ed693ff4c469c87b8d7bad1cdbd8342a0eb6447",
-    "908e6a185bc713bd977ddeb04ce64f8ed096f6d5d7e1d65540e8f20eda992309",
-    "fe771e6030919a6e1a62f52373831b3a623fe498150e445bc00c9307f68af6e5",
-    "7381c12a75a34bf525a3a4bcf11c7fc1a394ccfff03e8a705107b5860bf7669d",
-    "9f8fa282a6e98b1c9464e5421f322a505e64d48281f7837e37eddec5f1dfd3d6",
-    "9ab688b8b8dc0e1c319b55c388addd1a2922c7a51040554289d61f1d70316f5f",
-    "03fbb6a167fdca36684b0ccd4c68688a285584dcdfb46e8b8b7742d81a73d719",
-    "f81a48aed420376f08998d7a472ef7a95801f828e63096a646d1291580e59096",
-    "6ac16fe547bb75c519d330057826505afab947e6a71f38e6c195085dabc87f4c",
-    "1c3a2b0f9e80482f15729736f21f6e29770e088b065bed35928976ed0e0d4833",
-    "1dd6e1342adc02ded35c12bfe6cae0725ea8b78a3b442662c36ad83f42112628",
-    "c90f17034c527bb92a13f240d7992a34800e574b84923efbb6665adf561531e9",
     "4c62294c2337819432fe0ad01348ec6c69cd769d1f6e75976fa0e1e8541ed142",
     "b3a1dd8b5ed090493c965286af6b08e6021fcb8a23c59339dd53ff55ececc1f3",
     "106b9b507358ab8bb9609812006799b44a952b5a8c6b68e62c54fbe96c93768d",
@@ -8002,37 +7985,26 @@
     "48ce7194ba0d04fcdd250e723d13a2dbab7a54bc0ed86ed4d0ba8f97d1781354",
     "69368cee9ca0318073af07fdb3ca26da31b14548030f27ad9e094639694179c2",
     "00fb137b6e2af42217d706408dea560a00b071138cccdfb0a7d2b0607e3493d8",
-    "7a633fdc34e0196d940a419b3f69619419f4bb4d7a42d7743362ad579b400b21"
+    "7a633fdc34e0196d940a419b3f69619419f4bb4d7a42d7743362ad579b400b21",
+    "53299c4fb8239c28ccc071cc3365e151466133a320252fbf006b7f97917ddd05",
+    "3d3e511f88f631cd095f2ce81bb45ce0e2e0e710cf681634c8912b3b8bb5c2ff",
+    "4dd86a20fc0b09115884f91624fc05dd26e50c2740337fe28835839e37a97486",
+    "dc97f4f568510c3846e0fd8e288a4097b40cfd8650ff98e95920117dc13ecde4",
+    "c3299fd7121ad7b6ac9427d2f89432591f89f6a930d44d9d3c89ed563c550572",
+    "eeef37b6ebf12b9da47c94b723c7db8a05b2014b53315346a0cc4c43c8664515",
+    "5d1e5a01c845f0a4b339b60b094cb413da8292364e5f73e81ec2ab888426f878",
+    "38d8358f928f43d1b65eb69d4ba0741e9579fd1fad9751c18358a32dfc1d3e54",
+    "bca2eeec885002f0026b86bd48961057f8b3be16c5af468df252914b87f7cad5",
+    "3890f1c7cd45897b206aa2d4f9021789ceb7e0de6c6aec0d466d20118ad0d586",
+    "3018df9a222d75af153627725dc9f18ba19218e32104eab5378b126f58d63b3f",
+    "7201bfe10dd64ee5df05ef57cee1343df0befdd290c9e2c2752532d20934a2e2",
+    "75b661fc0772d858c875f14b8b136e5e8a0e181ca66c7df683a69fad2acef36d",
+    "e9075a6e1ee71282d18823ddf9cdf2a14543b35f7c6124024ffe6c64c60c2977",
+    "124ceebb0cebc14d0d9b494796eb559eefbe2bba01715285f3b402b6f7f03bb1",
+    "eecf119edcff5781f25bfbfbe8fbfe14e51db8f9498ea15ce2e6b2122ee190c7",
+    "bb03837276832bfa727775649aead84b98a23a0827ae0a8c8a19f128db2593a3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "ROSS STORES REPORTED Q3 2027 SALES OF $6.3 BLN, ABOVE THE $6.24 BLN ESTIMATE, WITH EPS OF $1.91 VERSUS $1.58 YEAR-ON-YEAR AND COMPARABLE SALES UP 8%, ABOVE THE +7.4% ESTIMATE. ROSS SEES Q4 EPS OF $2.16 TO $2.25, FROM A PRIOR $2.17 TO $2.26, AND RAISES ITS FY EPS VIEW TO $8.75 TO $8.84, FROM $8.61 TO $8.77",
-      "title_ko": "ROSS STORES는 2027년 3분기 매출이 $6.240억을 웃도는 $6.30억의 매출을 기록했다고 보고했으며, EPS는 $1.91로 전년 동기 대비 $1.58이고 비교 가능한 매출은 +7.4% 예상치를 웃도는 8% 증가했습니다. ROSS는 4분기 EPS를 이전 $2.17에서 $2.26에서 $2.16에서 $2.25로 보고 FY EPS 전망을 $8.61에서 $8.77에서 $8.75에서 $8.84로 높였습니다",
-      "url": "https://t.me/firstsquaw/194353",
-      "ts": 1795125052
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "PFIZER TO LICENSE THREE CAR-T PROGRAMS FROM CHINA'S STARNA FOR $330 MILLION UPFRONT",
-      "title_ko": "화이자, 중국 STARNA로부터 3억 3천만 달러 선불로 CAR-T 프로그램 3개 라이센스 계약",
-      "url": "https://t.me/firstsquaw/194355",
-      "ts": 1795125054
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "ANTHROPIC ($ANT) CLOSES FIRST TRADING DAY AT $97.17, UP OVER 17% FROM IPO PRICE",
-      "title_ko": "ANTHROPIC ($ANT)는 IPO 가격보다 17% 이상 상승한 $97.17로 첫 거래일을 마감합니다",
-      "url": "https://t.me/WalterBloomberg/38731",
-      "ts": 1795125056
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "P&G PLANS TO CUT 20%-30% OF ITS GLOBAL MANUFACTURING WORKFORCE BY 2030, CHIEF PRODUCT SUPPLY OFFICER SAYS",
-      "title_ko": "P&G는 2030년까지 글로벌 제조 인력을 20-30% 줄일 계획이라고 제품 공급 최고 책임자가 밝혀",
-      "url": "https://t.me/firstsquaw/194356",
-      "ts": 1795125057
-    },
     {
       "source": "FirstSquawk",
       "title_en": "GAP REPORTED Q3 2027 NET SALES OF $4.01 BLN, JUST BELOW THE $4.03 BLN ESTIMATE, WITH GROSS MARGIN OF 42.5% VERSUS A 43% ESTIMATE AND EPS OF 86 CENTS VERSUS 62 CENTS YEAR-ON-YEAR. TOTAL COMPARABLE SALES WERE FLAT AT 0% AGAINST A +1.6% ESTIMATE, GAP GLOBAL COMPARABLE SALES ROSE 9%, ABOVE THE +8.79% ESTIMATE, AND OLD NAVY COMPARABLE SALES WERE FLAT AT 0% VERSUS A -0.81% ESTIMATE",
@@ -11504,6 +11476,34 @@
       "title_ko": "싱가포르 총리, 워싱턴, 모스크바와의 랜드마크 3국 정상회담 후 시진핑 칭찬",
       "url": "https://t.me/firstsquaw/194482",
       "ts": 1795148021
+    },
+    {
+      "source": "전기신문",
+      "title_en": "국회 대표단, COP31 의원회의 참석…K-에너지 전환·전력망 협력 외교",
+      "title_ko": "국회 대표단, COP31 의원회의 참석…K-에너지 전환·전력망 협력 외교",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=375063",
+      "ts": 1795148104
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "S&P500 선물, 앤트로픽 상장 후 AI주 불안에 하락…美 국채금리↓",
+      "title_ko": "S&P500 선물, 앤트로픽 상장 후 AI주 불안에 하락…美 국채금리↓",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445749",
+      "ts": 1795148235
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "AI power demand revives global solar PV momentum, while policy bottlenecks leave Taiwan facing a green energy crunch",
+      "title_ko": "AI 전력 수요 급증에 글로벌 태양광 모멘텀 회복…대만은 정책 병목으로 에너지난 직면",
+      "url": "https://www.digitimes.com/news/a20261120PD227/solar-taiwan-pv-demand-policy.html",
+      "ts": 1795148238
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "AI power demand stays resilient as US grid upgrades, SSTs gain focus",
+      "title_ko": "미 전력망 업그레이드 및 고체변압기(SST) 주목 속 AI 전력 수요 견조세 지속",
+      "url": "https://www.digitimes.com/news/a20261120PD231/demand-jensen-huang-nvidia-solar-market.html",
+      "ts": 1795148242
     }
   ]
 }
