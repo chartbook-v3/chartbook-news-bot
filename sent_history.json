@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795144342,
+  "updated_at": 1795144501,
   "id_hashes": [
-    "b1ecc2e6e99744790750d3c7af2256ecb84036f86d2981fa668a2539c0e17eb7",
-    "07ba0ef4c6feaf46f3efa1693619477548a1e313ac1999d2cdfbaceb9c4aa0b2",
-    "699a2250495228e3e95db0d2cdb9dd760ba225c63ad5665283ec7c11f2d91cfe",
-    "f522be32d9168c830e2d1c9097aa93ee3a4f211aae214c2395cade82ae6ede0b",
-    "98a828e8e4840a614c898029d7ae468ecde8ac58e61d80840fbfe6ae5133ef57",
-    "0cb1640f1726935e18c23fd7b8155ad101476eecc452d31f71e0760660369544",
-    "5bde915f62b1a0db2d52df88c6d9254c50a521800189993eee40adbe41fae7f7",
-    "a705e099efe3c0f620fb6d7142009b9c10cc35b398a0fae35cdb63d39603450f",
-    "8e933dc36ab2204be80995c80cdb20a939e37b0ae3abbda539bb5ea1aa0f3e74",
-    "3cd90dac97bd6f4631283318945e5808549055a46ede8ecd865d83ac9acbc408",
-    "d8e7b1b3058be2346071bbb24b500f71493a5d804365c4bca6b9617eec544a16",
-    "4187112226ad5db73c30a025d07d95645891e2a0acf834445e99c7a49134d0b4",
     "3b1dd759627d8aead0eff2a3c51edfd0a8a1331a9e469963ac00cde34e73d413",
     "96bcb5acd5eac9d5d393f12e34692af649487417c41f3903ea7cbb9c09d84075",
     "98bfd594a8d9a8be681ba59e58dfef009a9e7bf9a78aa631e1911fa92fb91880",
@@ -4000,19 +3988,21 @@
     "a3f8282be778303ed1d3588cc46f6e76fe99a4019eea159770f07215e496180b",
     "a0c7e7a5251bcea16e4a2c01adf7e968171c808939ce8c4e867a73ea9c083973",
     "8ba08fa4057153bdcc0ce2e466149dcc16f1d829bad04f87940c0dce45ebb945",
-    "e1a0018a3f0568fce3e1d86774b363bfc4b8bb4ccd8e335599a0ff43d1c06af7"
+    "e1a0018a3f0568fce3e1d86774b363bfc4b8bb4ccd8e335599a0ff43d1c06af7",
+    "3780c5a32e348e2a522f0cf6296356f1c4122577869bb26ca7830bb97a27d39c",
+    "15c5d9e02964bfa6e3659a52c7959e37d103a274fa9421505843e69142a522b9",
+    "7fb3143edc3d93e0d3732000ad12839cd31efd9df00e9918291a6c224430ebfc",
+    "240a18b10eebb8253c2455fb45c8db8df0e20cf38ffc3f001eabb0af2f33883d",
+    "544d9373aafac8dc5df08c3c3c710b3e6674f86221305be0002dfbda231e9009",
+    "bdbf4d17fda700cb7b00eb4563bcebc72153097bc121745ecd0427fbba66fed2",
+    "e2fa9371ecb84d0a168d52fc12d1c81e8c8812f3ee4fbe04bc5cb1ade7df0839",
+    "cefd9d8b7610c4e19d4741360c59857aaf98404735f092eb6435d32e5c36292f",
+    "9755788dff0d52289b072df6cd8b5d6f0ad83d1a15e1b383777b60654747f27e",
+    "c539e127ab259d056d6451b98b8460209f4721c6cec5e6b0cae8a34c6ce04b34",
+    "4308f1cd4889bec475db0f9c086ff7ed3b5c3a1d6a294764515c2e08d7f0fbe1",
+    "fe8407d39f75f640af0169d6693656256be13e47b83cd1530ab7f073125ef460"
   ],
   "title_hashes": [
-    "60a207ed3eb170553176a312419409fc47fdbc691b9fe26871b6ca448eb53424",
-    "970f15c50fbfc4955321965a6c4173a25bb3ecfa9e1b153d1640180d1c5c92e5",
-    "d93a1cd604000010db1dfde6652f613f1a2a261230bdf980116dd94cae1a91be",
-    "bf6fee09b67ea14a9667d362ca8b33d328d4e4fb2d5ebb6caeded6581f280c16",
-    "1d6e3cb1a99c1f32fec5cd54d3994fcd272502de2c1c49ee1ad0680cd45f2c81",
-    "86e7956fc7f2a2e76f903ce5c675f945be59cf310038b9d3b470566d7ed72f96",
-    "a06cab6849ae82c20f048b090d476563c85d373ddf6cf6b8f3a1c6fda22124a4",
-    "efa5d4c63dab1f8b051d36c4b250e7af9e552a1ada9e7293da25ad17b716da11",
-    "5c007dcd205f8cacc506c53f5b4117e48a4c328e828596286a84de374eae133f",
-    "a762ca1950e115c2c9db6b3998317eec33c4947041daa249e97569355a46fb78",
     "b91bfab574c4a81f72c515e06ae2a08ad07d4cbaed928e960d84f5e9c429d060",
     "a34f1a22fd1488d34ae22b287375d3bc99a74f22acf7f0625865c81b995021ef",
     "4637210ce4f3ac415ce1deea3111522b57179f894ffc90a6338771f147bde6da",
@@ -8002,23 +7992,19 @@
     "d154aff290bde758d78459bc062ed3f8d7f4eda51761b7471f2ee28c57187df2",
     "5bc9736277c1a6c851873a7969aee3848899d8298ec06eba65358bbe89954dcf",
     "41049f4eab04916cfb133ec3eb76f7b883a0d18422c07de16838b9f3f27199cb",
-    "58b66628478f5abe5ac8d258ba3db77cdac0dd3112cb86cce4db74e856a3cd84"
+    "58b66628478f5abe5ac8d258ba3db77cdac0dd3112cb86cce4db74e856a3cd84",
+    "6db1ba6029e57be519dc930d87021f28765b5727e0695275557b18bb6206daa0",
+    "5fd94715b63324c38002f84833e8bdcbfd17d43d073c02eebdc8dba6741e70c2",
+    "bc5c4900b4c2f6801138a0d7013232f26e907d9a90cabd5001371a6ff4e70e5e",
+    "0d4ed5a5757ab17d6ae611350aa4b5d588b6eb8678d655b74e03e22a7623a4a9",
+    "8a9f2cc5eca33252001717227f81462d89d8d95c8a9115cb79612d145120d8b6",
+    "87cd19018246ece57fabfdb59a1399301920863642eb24a67f57c5806df58ca7",
+    "479c4bcf31988fa12ec6d17e31df09426fea386035ae8b8ed3c199b5daba853c",
+    "065e2b5643a758219a0569d21b92136fc506520f2110d0da140bd63c281886a4",
+    "7cd4a6fe00acb23cff04c7aca22697d4a19a6148f4164e670c711b036d2fda4c",
+    "2dc36c819e967126763e30fa45367140f14e0858857629465228b33084a5093f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "디지털데일리",
-      "title_en": "트럼프 투자 계좌, 연방 계약 시기 맞물려 엔비디아·팔란티어·스페이스X 주식 매입",
-      "title_ko": "트럼프 투자 계좌, 연방 계약 시기 맞물려 엔비디아·팔란티어·스페이스X 주식 매입",
-      "url": "https://www.ddaily.co.kr/page/view/2026112005185210510",
-      "ts": 1795119656
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "MICROSOFT AND NVIDIA WIDEN ACCELERATED COMPUTING PUSH, EXTENDING IT FROM AZURE CLOUD TO WINDOWS PCS",
-      "title_ko": "MICROSOFT와 NVIDIA가 가속화된 컴퓨팅 푸시를 AZURE 클라우드에서 WINDOWS PCS로 확장합니다",
-      "url": "https://t.me/firstsquaw/194332",
-      "ts": 1795119659
-    },
     {
       "source": "Bloomberg",
       "title_en": "Trump’s Camaraderie With Xi and Putin Draws Pushback at Home",
@@ -11504,6 +11490,20 @@
       "title_ko": "공정위, 한화솔루션 등 현장조사…태양광 발전 패널 담합 의혹",
       "url": "https://www.yna.co.kr/view/AKR20261120086200002",
       "ts": 1795144341
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "\"반도체·수처리 소재 국산화 공로\" 시노펙스, 대통령상 수상",
+      "title_ko": "\"반도체·수처리 소재 국산화 공로\" 시노펙스, 대통령상 수상",
+      "url": "https://www.fnnews.com/news/202611201207273142",
+      "ts": 1795144432
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "중국 APEC서 빅뱅 '뱅뱅뱅'에 맞춰 로봇 151대 칼군무…기네스 기록",
+      "title_ko": "중국 APEC서 빅뱅 '뱅뱅뱅'에 맞춰 로봇 151대 칼군무…기네스 기록",
+      "url": "https://www.news1.kr/videos/25436",
+      "ts": 1795144500
     }
   ]
 }
