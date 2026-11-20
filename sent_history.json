@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795214572,
+  "updated_at": 1795214728,
   "id_hashes": [
-    "a2ddcd155c022374651547671b4dd5d9b74c8ffb062c4a0ce813a9517ebab8ff",
-    "17ccb326167c5c6abcfbee60267233909098f71db658ad9b2b0821090f6dc06f",
-    "08819258a67d723300489ffb5c7b7d3f0ff8590a82dc94af9ee72e406eac8a9b",
     "d095d47ce08003c304f23792024034e6f2dcb8b3be117a66c409271c2714d411",
     "3f272c36f5d8f8093528da50a287a121962e9eeb44bbf70e3da7fc9d47fc3008",
     "e8678dbe19f527a01ee38422da0d97724cec475649f228d80252b104cf0258c9",
@@ -4000,12 +3997,12 @@
     "a5a8fe0522ff39b768d8e314917d543dcc23264fb60dea52817b3169ad7b56f7",
     "438584a6de53d016a1a098593a8ea9f136cffb81f763636e9a1ebe72c2a38e5b",
     "fa511e0acf2a40e1806d9d46949184f6f1f0664e2f871b9c96ee5097407be07b",
-    "c38da4dc1505ab2b32755dc9eef56cc25bdc2ed1e78fcdbe82af091ace21cc66"
+    "c38da4dc1505ab2b32755dc9eef56cc25bdc2ed1e78fcdbe82af091ace21cc66",
+    "1d368b4f5e4ae9048c0ffec6977602e452f35b69d3cef6f1437c9c0acc4601d1",
+    "912f08af6ff798f5eab3fd1067604047a6d0303658e569aa9d85e2a9db09c402",
+    "fd494013bda3fda38a39f322d1ebdca022abc15bdf8249f6db7d41c1f903dcfc"
   ],
   "title_hashes": [
-    "a8003d606757b3e170688f0f4949c494fddb5ee141bfcf3ca00ca4617cbd21c2",
-    "357203221fc3c0a41843ae0061b6f4cbceb224b3d1eb670a209d49c026b1a9d4",
-    "3a853f64d34650786a1a9c6c2cf7d5868d7d813ef2bccbbec435833e4df4aafb",
     "d02a5554078abc86d55442242d9b50f94a36811dda31638b84fa906a254060a8",
     "8f903469042304db90bcaeed3262af3b3ac7e9505730330fbb4dea259cac66ce",
     "5b89e43e336d62e27df552bfda72aaa2d1b1ee1cff4ef507807739bc1b925f7f",
@@ -8002,16 +7999,12 @@
     "15db5a43285a2fe9fdbc017df170c24c08dd3e5b8ae95c29c11b32d19a544a50",
     "813b8ae6f20eadf02b5fd98b69c4dc5612f2523a2407fba5702013be4716ec98",
     "534a8fa734488e128844f08dc1352206c1005c142753024ea62cadf821bd3e7d",
-    "4adc24a6d1fb8e5d6ea2ade643b8b00822fd4d411fac4a6f184c2d4316ff477b"
+    "4adc24a6d1fb8e5d6ea2ade643b8b00822fd4d411fac4a6f184c2d4316ff477b",
+    "4f38943e69d767e91c00a8c23ec0017dab92639ec819eed566aed0f92aee91aa",
+    "0701eb5b3eb0f700b968e520626f045b3257284d7422397d4d9de8d4c2ac803b",
+    "4c5bb8d9072600b515e4ac7c4fd3debf81564eb5a10fac5f05401c7fab3bebc6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "조선비즈",
-      "title_en": "[주식 매매 상위 종목 및 환율] 2026년 11월 20일자",
-      "title_ko": "[주식 매매 상위 종목 및 환율] 2026년 11월 20일자",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/21/ME4GKMRSMU2TAM3BGA2GCYRSGU/",
-      "ts": 1795189764
-    },
     {
       "source": "MarketFeed",
       "title_en": "BITCOIN CRASHES UNDER $60,000 AND ETH CRASHES UNDER $1,660",
@@ -11504,6 +11497,13 @@
       "title_ko": "'대선에 출마하고 싶나요?' 트럼프, 2028년 비서실장 임명",
       "url": "https://www.barrons.com/news/do-you-wanna-run-for-president-trump-floats-chief-of-staff-for-2028-9f030996",
       "ts": 1795214571
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "美国众议院Analilia Mejia办公室声明：新泽西州民主党Mejia与Rob Menendez呼吁总统特朗普阻止那些装载俄罗斯柴油的货轮靠近当地的各大港口。",
+      "title_ko": "아날릴리아 메히아 미 하원 의원실 성명: 뉴저지주 민주당 의원 메히아와 롭 메넨데스는 트럼프 대통령에게 러시아 디젤을 운반하는 화물선이 주요 지역 항구에 접근하는 것을 막아야 한다고 촉구",
+      "url": "https://wallstreetcn.com/livenews/3203613",
+      "ts": 1795214727
     }
   ]
 }
