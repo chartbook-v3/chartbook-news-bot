@@ -1,27 +1,6 @@
 {
-  "updated_at": 1795203064,
+  "updated_at": 1795203213,
   "id_hashes": [
-    "1b2c439dba7024ba3c9e9f63d6bdef1f3f56e97f9c093febd6953320661faa31",
-    "a1c1eee39262508e53cb0467d4374c5ba0186700016fd17c02075c780dfac947",
-    "580e6f8dc2fbf0e89686e5f1a4885311a6c386e2143b6bcba868e2104951afff",
-    "65cb7eea5d3c67ea9545d4fe15e466624834cc918bb567aedaefdebe1554c0a4",
-    "47383d9e90985bc2d8a9a76a421b904db338b71fdae960fd7ac3e2204b0376ec",
-    "0b1d31617778dcff4011b50aa8923085b79a8cdc48860ece371a34fec3b5dbae",
-    "b6060a6885550a61eb0f5bf134c537ed2e70ab25c8f149ca5fa363814faa42dd",
-    "b487d5dbc784201cd3595f416f8b9bbb04d280890bf2c14af18a632a8ec47276",
-    "d4d84689c5d9b34cc0b0a4e8eb6e10124c29f80eff011d2bcfcf36c7956ba456",
-    "a9448c49c5741410168606956ab66f1d24f6619bed1e2bc979ed5fd1734ca722",
-    "5a90e6a52e45fd6e651baa03c115c19c8b71b2f1165bb9b8e406e1fe6dac4260",
-    "4f970a27cffc3d64ba54598dc81d8c3c8db09b359e7d1c37763b16b80ace9ecc",
-    "61eb3d5fba7b0411da2a487640ed6537bbf57dde0b3a6d18eb94620f5a0e6bef",
-    "1bfe5eaaa2435caf22b3d9bd838ad1d1a2862727fa29fc5f4401b5b47713e10c",
-    "7c30898bb2d7e75a29e080a3bed9a5d195d43263019d7c8dee3214fcd0d80eb9",
-    "49fb2fb3a0aeb60f77ecaccc5b29dbd27c37d479d77f87ded155c09d2cbaf1a6",
-    "8743792cd86d019459aa692bd9d5c196adc3cb3bf5a82d65119432f17dab0da7",
-    "31c1f1c7b1d305b72b1c680ae2e3506770444c0d5dafc3df199d6ce5531852e0",
-    "b4c8b0d01264e83e72e4e56dab6e6c78c8d734e2145c6f108f8a25824ac77099",
-    "e6591347b45c96a6f1fc5d82c428f8d94d159f03757d5360a19ecdf54a7f516c",
-    "9a400d836ea6ce96d0d13526befd139bc1591c20ae352fbb6d355e1cb366f2e8",
     "9aeea432a323a4c5a7a2b28dd2c5e16afd26bb4d142bcd3861c0b056e936db01",
     "75cd6aec57b0e76ab7e113dcbf6fe5b3845f23e556d5d8638df827a5e70fdf64",
     "33475ec302a6f53e4be9e836f6927a21dbfe6b8a0700ff10e03940fe0182c544",
@@ -4000,21 +3979,30 @@
     "fe5a1e5a82654d327e6a3dd9465c64f8bc7c4e9dc73eb28ff29379810a73bc3d",
     "740e724c91b7310a759c1ac6a31282e15df4be20cec7bce44eb8ff1eb7c318b4",
     "1b5e923e7a99883e8c358f9d6c6728e12f4a77000f661c29403315f07ecb9910",
-    "3b7589a773cb9aa35e4805ee1fffc6f5afc9830d1c9ec3e8f41296c73f35f05e"
+    "3b7589a773cb9aa35e4805ee1fffc6f5afc9830d1c9ec3e8f41296c73f35f05e",
+    "f573d61c75f21ecf80f14ef2311cbf9cc4f192a0180320e220c341971583cc16",
+    "e3c25b379882ea092fdb09081b2d5dc589b779d490a7b56e5a6f29af938babaf",
+    "8c8c25383e5c8bc14dc16890ad650208b8ac125418e6c60ab9ca63e4a9b8ff83",
+    "3fc9dd7d3f56b8753b63e3f01ba4b9650d98cb8a865c62a313452a3644a67f18",
+    "8d9ef0fe9bbf35dfc32c6ef6d178598a6d69af45925824246acb19d2ba6b0f23",
+    "d19eebbdd94514182dfc38f6718d22a64dfac5da137d5abbf740bbc2b7948fe2",
+    "c40cbebd77befdcd07f55045fad36151b5a11211e789df08b1e22a14c5602924",
+    "fb789e245e440e5d4b20dc658ad28a1e1615050a253b164a4607d0214f083f01",
+    "18b646b19672235309c47b9931d4102959e6dd90915f40e2275393224c0688fb",
+    "0e1e51ee109f071c6e06989876786559eac5f2d97f75047670f084db54fbdb33",
+    "d5cc59b47b91c0041de2be7d0098c156ca6b3b7a45c399763eab5a1177c32cd1",
+    "ee8c08e296d3092481fe51541dd9eac2879b8464e364b99bbd076dedd08dd762",
+    "652a30e06d525a6794d97121fdbca3e5b28bf0f3e25845e92a35eefd7c6f176b",
+    "8625ab49d8dd461ae228d5f7bb9772508236fd443876bada24f5edbda09e1dc8",
+    "ea5af966633bd9618eee153326ff6d4bea1b97770bc71c66d3be36a87c251497",
+    "713a1ff2c17feece8b98e119fd58767ea6b8374a22a91141f6ad3d86bc8331db",
+    "d1a2a99d757861ab469aff39c2c34b68c2cb4f6fc14a781202649f7a701cac07",
+    "8f1645810d1063e18c99b6a682b082d57a3c9ab1229b2ef11f2fde7f73db6af9",
+    "4733ee06990637ae16f5afe4d8f5e6d65bb5cbb48612d5f567dbb2c7c1d52509",
+    "ffa52436d0f086d149bd0010bcc5824b5ea602d82af2e8b38b27b3d3214c1804",
+    "a08b320447564d0b476b227595290c0f8cf6b8cf24891697ba0fc0c4c0cc2420"
   ],
   "title_hashes": [
-    "e5e9451ab04b218c0e6a917243b050007f367ca6d6ada5277d61b3781a5db802",
-    "3a101d315222297c847bed50eb4aa381a72d9952d9e78fd10624498b6487f49b",
-    "5cb213349c91f26c3b54a8e4736713ed0879873827978992a8b002d6ee40be3a",
-    "48b63b6ed06c3e5ea632036be7f4e5e452898bdcfdd3ae90bcd6f9336bc145f9",
-    "9e4975409d9c8ddc9a412bbb5e7936f1663b9152cbc8becb63e74c5ddca38b51",
-    "3afbeba62d6eb0d92399c79f1c4882983147840e9f1b594cc12062a242bd7d9f",
-    "5177128565c4ec4d58750abc425aa4fdabd66f5ab5354ea11321289799395d7a",
-    "53038aba982399369eac39e166f84f5e4bbc2fbe4373ae3ddab5e6cb135283d2",
-    "6db79b092fc45b97bc9ae723fc45e353e74360d28cae267ce4a15b8c1e8f1edc",
-    "a3b36ea68183f3dce03761b65b43c82a8e55e78cdc3fa8bb7a6606abfdffc104",
-    "5509e478ca8fedbe19fa7719fe52eff63fba19bc0cc8b0dbfe9346ad89d11b07",
-    "7e86e3dd5634c39e12a39fe44b759bc7749a1c51742cff6b6c7cb961c3bed163",
     "6f146b83d0eb447759ec0f4d6bb69cdf6e31b64421abf903da7bd8c07a5bd311",
     "99b2a53bd00b82535be3a69f85f0a44fb4cdb833ca5816957b0fce5c5c6d0390",
     "b67a871c0a8db0046513fdf93560a78e17509af47401010b38b8f28e02b9d87b",
@@ -8002,30 +7990,21 @@
     "15c9a7751c89803587381d624bc0f74ff130417b7fbcf261fb796091fd6154dc",
     "107e586eb6ed5b625d8e427052c8e705d9182ab933ed0c21c80b6a5c573c221e",
     "0f0afec0a88a7d95a4b0af0c35c2f91bfd63c5b0f4913019fa5aee9b254e4c8e",
-    "cb2f539d7134c9c6d80486cef2d5861eea74a2421334cc8e070da4a236696230"
+    "cb2f539d7134c9c6d80486cef2d5861eea74a2421334cc8e070da4a236696230",
+    "d1f577eef0fb6e1ba3953a98e96e63f7016b84424e03f922f903a2c812ba4fb9",
+    "3da33b1bf1569f20a7e4a2ef480478a6a8d739d349db9c97c168712f122c9fa1",
+    "4ea7c59d00e1ff7a85324f1b2878887066a4462e46b45adb6d99cb7e9ef26a4f",
+    "d4d4267772843c1712caa0c0f0061e4666297045e73cf06e22f06d5714b021f6",
+    "725fe6dfdd225d24a648e420b9e7a66a16bfd1d69c9c3f3c276b53b5e3966c2a",
+    "315db9fbf12c3641eb23b4e240f88211c53e11147dcca95ae95c2d537658a9a1",
+    "a1b9d0dc682511a4387a91c42f5e8101770721dc4c014a569b2293f2f9b0b4bb",
+    "332ffc021c6fe188f020bf84de122156cdd41b1599303887959764e676d0f77a",
+    "08028b443601064f34982eac23c249c41924ee7ed0e0334f59d7ff1c3283c28d",
+    "9c691594ce26d613ce042963cfa80c20cf62cbf32867e88487d6f1f0c9d6ac33",
+    "1e0943f99ab88e7b14c6ff14c338483a850d9c316349c5a9d2621190cfb03a24",
+    "bb587fd1dddfea25e86c56c01bdb5dda5c5610ad8c8186c5f0c51c5437e765d0"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "NOKIA FALLS TO LOWEST SINCE FEBRUARY, LAST DOWN 6.2%",
-      "title_ko": "노키아, 2월 이후 최저가 추락…6.2% 급락",
-      "url": "https://t.me/firstsquaw/194589",
-      "ts": 1795175289
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "GOLD PLUNGES 8% THIS WEEK AS MARKETS PRICE IN ANOTHER FED RATE HIKE",
-      "title_ko": "금값, 연준 추가 금리 인상 우려에 이번 주 8% 급락",
-      "url": "https://t.me/WalterBloomberg/38738",
-      "ts": 1795175442
-    },
-    {
-      "source": "Tom's Hardware",
-      "title_en": "Amazon lists the Asus ROG Strix G16 at a new all-time low price of $1,179 — RTX 5060-powered gaming laptop comes with 16GB of DDR5 RAM and a 1TB SSD",
-      "title_ko": "아마존, 에이수스 ROG Strix G16 역대 최저가 1,179달러에 판매…RTX 5060 탑재 모델",
-      "url": "https://www.tomshardware.com/laptops/gaming-laptops/amazon-lists-the-asus-rog-strix-g16-at-a-new-all-time-low-price-of-usd1-179-rtx-5060-powered-gaming-laptop-comes-with-16gb-of-ddr5-ram-and-a-1tb-ssd",
-      "ts": 1795175508
-    },
     {
       "source": "StreetInsider",
       "title_en": "BJ's Wholesale Club (BJ) Tops Q3 EPS by 47c, Beats on Revenue; Offers FY27 EPS Guidance",
@@ -11504,6 +11483,27 @@
       "title_ko": "엔비디아의 하락 폭은 11%로 확대됐고, 필라델피아 반도체 지수는 현재 9.57% 하락했다",
       "url": "https://wallstreetcn.com/livenews/3203550",
       "ts": 1795203063
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Kalshi’s Novel Treasury Perps Hit Delays as Other Bets Expand",
+      "title_ko": "칼시(Kalshi)의 미 국채 무기한 선물 상품 출시 지연, 여타 베팅 상품은 확대",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/kalshi-s-novel-treasury-perps-hit-delays-as-other-bets-expand",
+      "ts": 1795203152
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trump Backs Lutnick After Senator’s Criticism of Chip Smuggling",
+      "title_ko": "트럼프, 반도체 밀수 비판한 상원의원 제치고 러트닉 지지 표명",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/trump-backs-lutnick-after-senator-s-criticism-of-chip-smuggling",
+      "ts": 1795203155
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "US Oil Prices Finish Higher, Adding 77 Cents to Settle at $83.98",
+      "title_ko": "미국 유가는 77센트를 추가해 $83.98에 상승",
+      "url": "https://t.me/firstsquaw/194712",
+      "ts": 1795203157
     }
   ]
 }
