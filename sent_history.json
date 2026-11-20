@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795215832,
+  "updated_at": 1795215981,
   "id_hashes": [
-    "318ffb357776825b5189774939577882d85e2485d034cbef69e2ea37664aac15",
-    "e701963cba330303a104401d1cdd74bdbbfb8568d8612ff5350ea8f5d6ba45f6",
-    "666d88b4127e271a7b217521b87fd301d1ee3c5cf182214449050f01a57f50a0",
-    "73f9c57aed9b1088ab9fd852a97e58b8d60f5fe4f03e2f668f898710ab1ae48d",
-    "2643c30e3e95021a360ae6d12b36823d9f01d4a46c811b0c5d7877c3123895be",
-    "b24be609a8d79e09e4fa78e72e52b05579dd760a5aba83ca8d9da1c7cced3d46",
-    "d4f5ba6b9ace7cd39165186b759889bf9863f139d18a600717bd20edc9a89c5d",
-    "136ee771dc62b0cbe5810b9af11f5c702ae7e70bfcfa9864f2323ca05ecd014d",
-    "8c8cd46613d7c6bd3aef0a72ec700ff4d1decfe6e6d93e6995cfc41729d3e6cf",
-    "d440dd05f8329076a38e70af3839b5e9766301f27dad491b64074255a5f9e840",
-    "6b868e481c4fb33f284a8ccde71c65c8e6be9b77718a770b069e69ad1a83627c",
-    "e95c092faf3d23b536771748618c39a13c87ed7914762f6e690d424b0166f688",
-    "eb34b06fd392a94df5011ca277dbdaeecaebda8a05d63a3437c53e7fd9fed756",
     "0cc566664ca6c74e1082ae9fd193b082d25a4b36ec083075d943750b3a09e2a3",
     "6fd08ae19b58be2230a69ac9360b76783e5bd24f7e4f407f29f4c6ba780a5e03",
     "f56d1aa91a110dcc27eac67fca8cbf945d06e89ccf84284a3d75e057c47bab12",
@@ -4000,20 +3987,22 @@
     "42a6280930cdfaee9416601ff04adc0cffded4cbd44b91d8bb69046cf802466f",
     "492d7ee20cbf4e201ef4c14feabcb811556f5a1ada34fe392403b30abd16ea2e",
     "f1e8b4109d3f53c7f92e18825b13118641518dd922e2d69da0d66013246f4f9d",
-    "228e75abea4a1a2d261464cf2f0ea3395dcd25a46d554ad1a7c9d511fd6ca8e6"
+    "228e75abea4a1a2d261464cf2f0ea3395dcd25a46d554ad1a7c9d511fd6ca8e6",
+    "9404295774d70993538f4bb1f133077fa3ae2011043b25953016d9765c03a1fc",
+    "8f3f4dfd1d3284e8e95a52d2db5caef363a8195c8f5804db83f1c35d5b619a76",
+    "5101bf5ca9f883be5a3d26d8f36d65bfc6862a55593cfa15921dc6d8c021481b",
+    "dbe22ce2bd828227006b2ec169e63a05de99587f3ff45b6bb9a227e6e6ebe783",
+    "1fd4be0dbabe8056672be8894b84d5abda35ee3b6701daba979f4f84fa1f9fdc",
+    "185072b2ca4c008bd21f9eede0dc6a5e0b9573f527f93e7193f179a57c731f0a",
+    "d2bd1214cfa70086c888adad7da8e2b843eda21cc952b9b69095f36d62477c73",
+    "71caaa6d32322098c909adddd0f5bc62ad7e3a9be69dba32cb773febd7488a55",
+    "c5221ca29207b86b8bd0fb3eaf66b480058c8ba754e02e89d93a7931c73c9f51",
+    "d42660457c22023e37a9b8f6e6490af3fac9d0259554e0dd3547f92e02ec0fe7",
+    "5f789d03e0161503105105d54af323064a09156c01e7e5fd3e3ba5a86dc64b51",
+    "53259aa1e20d11cdda09837c240b0741e6b4d7d1a5f016a7607c529c0c8f01d9",
+    "3dad8afe7be90b9419751e905d9ecaaaea13208850bac5b85c987fb22fda0905"
   ],
   "title_hashes": [
-    "544e13c588be6ee497826bfd3c5a7575278ac36cc8fc9fbe217bd2abc9aaa7bf",
-    "ff57e8affda1d739afab90d5f692f33cf4d7e7e7b50aa3099847cb9d91984404",
-    "b9c00fa04c63e8080ab6eaffd31e81f516e37663407d617dc7853d0d47b2c640",
-    "c31aae07068e1b774c1e0b61e0a17ba7485ea22b079b6dde0862b7a092be0057",
-    "2dbdce350afd2e73c33b352ff706cd51a00e68e7540ea79e615cd202f59f8863",
-    "e02c8b314ced330dc90a79d0f5a4018b2e81fa140181617a27014f2bc9ee954a",
-    "1e6873824e25ee04af06219cb3432d46f7e559cc300258bc5ed5e9f94aed86fb",
-    "ad7a9fdea493e6cdf8304a34928998075e590464b0b11a88b302e0b163ce2d96",
-    "5ebcdb735d1b1d9e5d99a3ed6234185a932afa1721effc91f3993b50fe2d6735",
-    "52465598cb4ed5f21f712da11cea1a73f60db7d3bb47d6d02216baeaaf74c6a2",
-    "93c4505aae5b4a74f3871b3f3c238eeeaddf0ba212f7eb3b3f7ce79b7bcf5d66",
     "3c89957836f449292dd6b6f6262c25241a30242f66a953c2fa835e3f2c66c759",
     "c152ae5f340d5046d57f0c70633eb295cfa00fa89aeca7c9d888ce2f95eaa144",
     "ccca0469d1686125e47e855447611203497d0a78217d29fb4ed8029f772bf8f4",
@@ -8002,23 +7991,20 @@
     "21c7c5d465deec25aebd62133024011917a3cf57f84d18037f99f5f4a49495b0",
     "6853fa18e40da1d9c5cf4ccf78078ad8141469997f8a90aca6d59dca488e8429",
     "baaf3a94e20307c0982d1117d382647e020454eaf4f40f7e9e8b516cd0cb7fc6",
-    "42b29f5352b1644660823897419a32641e778a2aaab995cfaea7edd47f7cc0a3"
+    "42b29f5352b1644660823897419a32641e778a2aaab995cfaea7edd47f7cc0a3",
+    "25f5419863ee91188f93e26aef0b96bb756fd9e6cd22b133ef34d05e64fc7c04",
+    "ada6a5e940d432c2befe242e28c885f280e6c4e3fd05747c4b71750049ea5599",
+    "d39b152bc1b4db7aee7e20b493b3ef71d98e274c1904caa9e960605fff90498c",
+    "4d2bf6d0898f88dec206ae4895337dc23f40d5a5167a61561ff6a6798f7dd166",
+    "17f030860df0b365aadb4d22e9a446ccd79f0de51d2e17d6c96fd65e7cae74a7",
+    "5844e30ddbb14fea3192f3da421ed60440b2ec1797ed9da55a3d3f91879d284b",
+    "0fd877633f4d290d9b3162a37c8b398d83d69ba24b892bff909cb876f73f13aa",
+    "7b43e72284c9e9471c6ea0ca654195624e3494beeeeafbd4228910d6fb51bc04",
+    "aef7ef12e16b0d17ef1e95ae92c860961b68c9efc88d633002edbbbbb674a38f",
+    "8bbb1c2b92c34962966d0ee85c94098904cfd16c53ac47412ca539be34cedefb",
+    "8d6b9faa6835072beacbf1fb6c0a122995af96eb851834822c656cee2609d7f0"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Belite Bio Stock Plunges After FDA Extends Review Timeline",
-      "title_ko": "벨라이트 바이오, FDA 심사 기간 연장 소식에 주가 급락",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63476225/belite-bio-stock-plunges-after-fda-extends-review-timeline",
-      "ts": 1795189942
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "美 \"시진핑, 정상회담서 반도체 수출통제 거론 안 해\"…中 보복 근거 없어\"",
-      "title_ko": "美 \"시진핑, 정상회담서 반도체 수출통제 거론 안 해\"…中 보복 근거 없어\"",
-      "url": "https://www.news1.kr/world/usa-canada/6361461",
-      "ts": 1795189945
-    },
     {
       "source": "Benzinga",
       "title_en": "SpaceX Lenders Worry Musk Could Send Nvidia Chips to Orbit - SpaceX (NASDAQ:SPCX)",
@@ -11504,6 +11490,20 @@
       "title_ko": "하워드 루트닉 미국 상무장관이 배터리 스타트업 퓨어리튬(Pure Lithium)에 지배지분 51%를 미국 정부에 넘겨달라고 요청했다",
       "url": "https://wallstreetcn.com/livenews/3203618",
       "ts": 1795215481
+    },
+    {
+      "source": "The Verge",
+      "title_en": "Nvidia’s stock closes the week down 14 percent, as Reuters reports the SEC is looking into its “accounting practices.”",
+      "title_ko": "로이터 통신은 SEC가 \"회계 관행\"을 조사하고 있다고 보도하면서 Nvidia의 주가는 14% 하락하여 이번 주를 마감",
+      "url": "https://www.theverge.com/tech/1039305/nvda-down-sec-investigation-accounting",
+      "ts": 1795215852
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "[머니플로우] 서학개미, 이달 엔비디아 8천억 폭풍매수에도 6조 평가손",
+      "title_ko": "[머니플로우] 서학개미, 이달 엔비디아 8천억 폭풍매수에도 6조 평가손",
+      "url": "https://www.yna.co.kr/view/AKR20261120136300008",
+      "ts": 1795215980
     }
   ]
 }
