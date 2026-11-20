@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795166437,
+  "updated_at": 1795166584,
   "id_hashes": [
-    "9d7a0c61e0315f69fa1e06cb7a2f2c45bbee7fbbfb963093af63021f853bd0ba",
-    "daf9542f08f6465de6f4fb03cafb988124621ab747b4ef94702ab72268626e74",
-    "d74d02f9bfb12a806aea45cd16c79d59914858e1ec1efe6280d53e7c003fcbd4",
-    "43667783864bb0333fe92043f1c319cdcf44ed333358ab43fb15cc7715c8364e",
-    "1acee5b4f13a960f992bcce0adbbb6a590589d5ea5f34f55e330cf5b7a056a20",
     "1b56c2fb0d0ed5c07e047d410325c49919d25616ddfa8fc53e8cd0ebc89e1be5",
     "6daa9d2ff6c0f87a84bdfe58405e8f3a1e980b1a0a60e478ff6a59fa25085f80",
     "2782b81351f168d4e33e5bf45474ea14f9c13b7faf8ed1b96a507f1faea91108",
@@ -4000,13 +3995,14 @@
     "7511ca4e22a64fbcc59520d29638d620f826b54e73d50ea3383d471df0807e0e",
     "23928651694d25f773512a84145bbec8a456011efa6ccc46581849257b439375",
     "9059a77d4d1eb20900d092f73ec1c0032f72b5b081292c562c78c6219001d3e5",
-    "f492f87687425226da033e46933330764d304c7b72b2051965f539555c73ec88"
+    "f492f87687425226da033e46933330764d304c7b72b2051965f539555c73ec88",
+    "c4ddaf5962dedcbf7a7e2f5b168ba3c32e808561eefce480da98666112acc212",
+    "3abf58aeb1155d62431a0844d959e5c40b0589adf99fc2086e310fa45ccda402",
+    "519a5aade06a27275efa8c0d9b599c28c9811a5374d9a88054009d7ff47f78aa",
+    "fdea0ba7a76ba78c598227bb28cc599c51ad08d5eb6dfb90d7e5e16490f0fd31",
+    "94b59361cc43b58327cf9279cbc2213219557d39e679b123effc0fead85272ee"
   ],
   "title_hashes": [
-    "d1fd11f5f219658e367c3ceec7c7f14cb9128c7d00aaf7f8b0179471f3fcad4c",
-    "407b460f84ebb0fa1a77802a5566bcfe4e42daea9e48d7b2a916df1e693a35b6",
-    "86586239bf675281498415486f8f7d447fc80ccb685dceb32647ed94743b2fcf",
-    "57885847593ae4dbbaeeb3b639767dc8ee5612c16d0b67d976c26cd62c11f60b",
     "9db76a3a2520fbc1d1b03321b1291b3370118c0076c0d894fd571e58f24ea619",
     "117a7a0661e198b6af766b078ffe5d3032473f09a885be5799382e65c7b8e07b",
     "226a6156f8b72d27987daebac7ac08e774ec8b93eb4f33359eee3a9b42795e8e",
@@ -8002,16 +7998,13 @@
     "964cca856f4bab39bf7fa36808a793c08d54577ba3a5d5a58b0ef87cfadf670b",
     "ad7bdcc8630ea098b4706380c247f547a2274ef404722bd84338fce1ea817331",
     "986c1ebc2d84367b4edd82a385a4d3ae5fb9491b44cf0186482c18b949a37052",
-    "b852c570f4cce4aa705a4302bd5bd28a022dee55501d811be657d654f803dd94"
+    "b852c570f4cce4aa705a4302bd5bd28a022dee55501d811be657d654f803dd94",
+    "d25b11a7fcde5ef7e21c5417a3d2c8d794027235683da5632104d0761c0193a1",
+    "17d87e166f4c88648a391b6e20ef9982e5e973700fe07af2b4e4ea36b76ac92b",
+    "8516abaaa5ab7a394517064eba047bb41f3721de81118140d030b3ea35da2126",
+    "4128c9d0c1c151f335da6b720df5e9bdd077ca1a5565c7d3ac409e9afdfb768e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "전기신문",
-      "title_en": "호르무즈 위기가 바꾼 에너지 질서…‘안보와 전환’ 두 토끼 잡아야",
-      "title_ko": "호르무즈 위기가 바꾼 에너지 질서…‘안보와 전환’ 두 토끼 잡아야",
-      "url": "https://www.electimes.com/news/articleView.html?idxno=375049",
-      "ts": 1795135219
-    },
     {
       "source": "디지털데일리",
       "title_en": "넷스카우트, 데이터센터 전력 소비 줄일 `지속가능 설계` 제시",
@@ -11504,6 +11497,13 @@
       "title_ko": "\"보험사 금리 리스크 효과적 관리 위해 위험회피회계 적용해야\"",
       "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445807",
       "ts": 1795166436
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "John Paulson’s Hedge Fund Opens New Bet On Calvin Klein Owner PVH With $46 Million Stake, Dumps Alphabet",
+      "title_ko": "존 폴슨 헤지펀드, PVH 4600만 달러 신규 매수…알파벳은 전량 매도",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63464979/john-paulsons-hedge-fund-opens-new-bet-on-calvin-klein-owner-pvh-with-46-million-stake-dumps-alphabet-and-adds-to-madrigal",
+      "ts": 1795166583
     }
   ]
 }
