@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795174733,
+  "updated_at": 1795174884,
   "id_hashes": [
-    "ec7b691b55a6a115a49b74dcfd34b2a45e6b4da8854c0d0694f50561ea37c290",
-    "948449c4e12e673633d46cec6699f303c49e922844f993de41ae7f554f46962b",
-    "845ccb7323034ba2bf3619fdd4f4e6c0a07473cc64ed6d37ca4d0ee30a29a1d5",
-    "f26ed6cd90fe43df2e25482cf0aef751bc6939f53662281da7be72238a94081b",
-    "bfc79d9e3fdae7751750fceb74afb83002508029a36e577ba25fc933293537e7",
     "c22ed3a3c46c39cc99077e09dbaaf48ff12cc50dadca024598eb14f6048c525f",
     "08bccd753ba8c16b2f334b33faf436bed52f134bb22b55da0f6e000176a9337f",
     "aca3b3747fbae648a7cf3a99dbb4d4f0a573e66dfe5fb5b6a4e4689b41472f9e",
@@ -4000,13 +3995,14 @@
     "d8ccb568818a6772b8cd5090ec1604f7e6c6c9d9304100ff5dbf416c32d2ae0e",
     "672a77644dabe8901f5db05c3de090644d6a458a86ccdf68aa4a176093fbab1f",
     "4e84e2f8617747588f3fa3303dc3f331408dc933a50adf9fef0f49f8eae447bf",
-    "adbba54e56c3b8457a1896ad4a4f65e180a3a85e477494bcb1bcff7b5ce1d0d8"
+    "adbba54e56c3b8457a1896ad4a4f65e180a3a85e477494bcb1bcff7b5ce1d0d8",
+    "61b05ca8777fd0c566a4f6bbaf2aa128375f1a7375efaab840bc83fea968fa87",
+    "e8a995ac684d54576976aa9f714bbc2f66f367b8411aab852d42e1c76e1d4919",
+    "3b0918a733e1d61593a96f555444eef2d97b2a40d88e542824e70d2234438ff7",
+    "05fa01b98edded779afac2e66188ebd2b20ccb28b1edd399b5c2ccb413471e8f",
+    "d4cabd31cb966c1e2ed14302a72b1b0481273ad979a8227ff3470e261847d47b"
   ],
   "title_hashes": [
-    "b32cf5ecc080b12c1bc51088987dc1fbfd25dff4c2c1265c1b97b15ff6eda9a3",
-    "6ca596420f98740cf2d46907a79f4e1a648b7d5accbce37649f6ee579d0cb9fe",
-    "50c5d797017459c3be8bc993c6accb6f935158b99f91ecb63db17a629214d6ff",
-    "e28e27e644c4c0350cb5428b5e1fb5d4e3275a15f3b0e40c0e8148b616f8437f",
     "b2a9fe8fbe2c988eb018a8fa0977fc989cd0e543e3b4e92beb0011acaa2d9c7d",
     "a7eb92f0c9530212aff8902d4968259e58076842e75e69338cd87a3aa9724468",
     "073cdc944f495ea100d0b65074602bd03d3716a82205ddc729488ddef0b2cf0c",
@@ -8002,16 +7998,13 @@
     "f8b698f200cc1688c66d7874029a07fcb8be9bb774b3439a67e88c21f834d7ba",
     "85d92604c28b1201d592e8e08e24e5d31b87020e0b479b787241fb494f2d89a5",
     "aaa40a06883785f797273ef44988e552fee0015a8e8a55f61c3bd28ecde70020",
-    "6637f633d732c2378be8da1c9aa47c45a9755c0fc2f124bff63879edb35aeaf8"
+    "6637f633d732c2378be8da1c9aa47c45a9755c0fc2f124bff63879edb35aeaf8",
+    "1a71f15c455f397449da80121c602ff12df8a21cda52ffc1cd9d19c9d4796cb1",
+    "3caf0b99f1afe17a5e0ed596d8b820f9db51573fd92dc7cbf6812f668213bd72",
+    "afbe494a02d932941c6fcd9681db16130fa4be04be3da5f46320878a3b187def",
+    "2029ebd4ee06a95c63587da1f681776a8e9d799f1fc10f35406841e5fa10215c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "美国在最近的会谈提出乌克兰加入北约的想法，库许纳上周与泽连斯基讨论了北约成员国资格问题。（华尔街日报）",
-      "title_ko": "미국은 최근 회담에서 우크라이나의 NATO 가입 가능성을 제기했고, 쿠슈너는 지난주 젤렌스키와 NATO 가입을 논의했다. (월스트리트저널)",
-      "url": "https://wallstreetcn.com/livenews/3202946",
-      "ts": 1795140237
-    },
     {
       "source": "뉴스1",
       "title_en": "김천산단 분양가 '평당 70만 원'…\"조성원가 절반, 보조금 최대 50억\"",
@@ -11504,6 +11497,13 @@
       "title_ko": "AI 관련주 매도세 가속화에 기술주 일제히 하락",
       "url": "https://t.me/WalterBloomberg/38736",
       "ts": 1795174584
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "【文远知行第三季度营收3.215亿元人民币，预估2.688亿元人民币】文远知行第三季度净亏损3.100亿元人民币，预估亏损3.997亿元人民币。",
+      "title_ko": "위라이드(WeRide), 3분기 매출 3.215억 위안으로 예상치 상회…순손실 3.1억 위안 기록",
+      "url": "https://wallstreetcn.com/livenews/3203358",
+      "ts": 1795174883
     }
   ]
 }
