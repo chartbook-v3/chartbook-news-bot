@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795180398,
+  "updated_at": 1795180552,
   "id_hashes": [
-    "49b0cb99f553b4dcc1fb23a8b5a030ccc4631090f090ca057b1fdef2fec7f2a4",
-    "1f65ac9b2176b3c61ae12d74401546f870a63972133f58c1929888848ecbf446",
-    "0b392352fe34996113313eac4ac4a2788f31da1f8b4844835d5c4e91cd80370e",
-    "820cf237d7014e14e29bd69c9a6751df2c4de00f084d8ddddb74575e30b5f114",
-    "c00e37acaa672890cabc9f4d0204f47803724410291ea7d888c0d39097d1df36",
     "d294159cfbd1ca0df38923e75d2906a40ae0773e2579e0547c3fe486712fa7e3",
     "d1ae80419353eb5b820534d3036c1c4f57fbdc631c217b56994c3a4aedaa45d5",
     "65dcf9c9792102ffa6dcb844b612e0ef407d384ab7481e7eca1c61e47ab0b8d9",
@@ -4000,13 +3995,14 @@
     "2962a1ba62a0ffd4a84e4d0614c2796c24f92729800016c80e07edd3fac3bb9d",
     "ac163108aaa3c759d9dddbfff14ee94876aa61e10b074843259f1b466dd47ec8",
     "03115a7cfe189f3e549a269cfa8834ed8ac88419c42b0c1589ab28e95b002391",
-    "ef1a5c5be608ea7b1701f8e14ca8e69b905a62288190fe44aa3d1f83603c0f59"
+    "ef1a5c5be608ea7b1701f8e14ca8e69b905a62288190fe44aa3d1f83603c0f59",
+    "9cf54c94c0a4281a543f4168f17704308a02e9b35e3af53ea8b94bd4a3ec30f8",
+    "7fecd6531d1c88b9c49e467f5299eaa4462eb31eb3471676809e01306861bf6c",
+    "389ac93073d8edfd50814b75a4178c763e5b2f9aaba2db392a12f38c5f61d6ea",
+    "edb4cfee69264a4d86ae42cb5b3d122fe1fa5a65e64d17e6b1dcc0f5b92a4bcf",
+    "fe443e9c8168a7954c4c509829c068db3c00316bc2c5612774a03912cd739af9"
   ],
   "title_hashes": [
-    "3b21d2dd3ad2e4152fe55092531a842844ef18c11061dc85804d1c58eede31c3",
-    "b47a839fd28473ba3368678803e787c31b62e7b12e6d97f0dcef89f5b40c9ddd",
-    "12487f20aced7054b9c0f5d664942fc23ef406e4fa68088d659ab4beb959d67e",
-    "0585f4a9208dcb2b067504167fd4f12f16c85e0405f57cffa21d9068b046b3ec",
     "04b6734f90dcd141f1bc09e19706b7e735ccca75c85ddaa2df640ffe5a7b40c7",
     "2f13e9ef1e2507e4355276d5210a88d6785e0314a8b79e54b8e1fd32864614d7",
     "2dd6c7fd38f92a81774c40c12d90bb0f9aa619837db914f19f276425088e8313",
@@ -8002,23 +7998,13 @@
     "0c43a449c6ddf10d8e8dca08922dd80f31b77fb87d57851b41af7b1a504e76d8",
     "7836c1b9922fc0247c0afed52e2c0af508bd3a8a7a5e27b04e988c5a44921c06",
     "7d4e6695a735b0a616e51d5a85668ff2be3220512ca31f93d707720f17540306",
-    "a5f3eff1a8174014691b38caff0bc7c07d919cb9136ff2f2aa3c590ec56a5092"
+    "a5f3eff1a8174014691b38caff0bc7c07d919cb9136ff2f2aa3c590ec56a5092",
+    "51b0f1c7fa7e7f4d5f9142df10dc66db341498969a2eb6aa778a9320a4aaba4e",
+    "201c01c3fd3467844b16dfef5c49290f79df0d2bf4954b5e5a9ac379eb249438",
+    "9067fe165e68d3f2a0872349cc2bbca235386b971b3f286c551da0368fe60e89",
+    "3eb9e0e9e3ca348cd4960285b8f55f0637ece18a98f0d0db172ed3d455e37c05"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "비수도권 50㎿ 이하 AI 데이터센터 전력계통영향평가 면제 추진",
-      "title_ko": "비수도권 50㎿ 이하 AI 데이터센터 전력계통영향평가 면제 추진",
-      "url": "https://www.news1.kr/it-science/general-science/6360583",
-      "ts": 1795144206
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "SENATE CLEARS BIPARTISAN ENERGY PERMITTING MEASURE WITH 62-33 MAJORITY",
-      "title_ko": "미 상원, 초당적 에너지 인허가 간소화 법안 62대 33으로 가결",
-      "url": "https://t.me/marketfeed/1082271",
-      "ts": 1795144208
-    },
     {
       "source": "뉴스1",
       "title_en": "韓·폴란드, 우주산업 협력 확대…양국 기업 기술 교류",
@@ -11504,6 +11490,20 @@
       "title_ko": "키사이트, 견조한 수요 힘입어 2027년 매출 20% 성장 전망",
       "url": "https://www.benzinga.com/markets/large-cap/26/11/63468541/keysight-forecasts-20-revenue-growth-for-2027-on-strong-demand",
       "ts": 1795180397
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Rising Tuition Costs Put Trump’s College Agenda to the Test",
+      "title_ko": "치솟는 대학 등록금, 트럼프 교육 정책 시험대 올라",
+      "url": "https://www.bloomberg.com/news/features/2026-11-20/rising-tuition-costs-put-trump-s-college-agenda-to-the-test",
+      "ts": 1795180547
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Form 425 Translational Developmen Filed by: Translational Development Acquisition Corp.",
+      "title_ko": "Translational Development Acquisition Corp., Form 425 서류 제출",
+      "url": "https://www.streetinsider.com/SEC+Filings/Form+425+Translational+Developmen+Filed+by%3A+Translational+Development+Acquisition+Corp./27379044.html",
+      "ts": 1795180551
     }
   ]
 }
