@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795206599,
+  "updated_at": 1795206760,
   "id_hashes": [
-    "8c5747fe9ede0e5a7e4b22cf5af359f078685978fc57cc50f98b262ebf6d8506",
-    "860e9fb8376de24e45dbb35e217cd59d1f427ce3842e145bbe40f99c9927729a",
-    "22c042a15f9bc70908dc3ad8e6cbaaf1a691e64a03580c573bb28b1074f73ce5",
-    "e9395bcdf16360158c1750c957d4e72d7672d1d56e43a9599293a96b3f7f3c7c",
-    "a52088829c9fdcf27ba7d24a69e1d645ae179217a2519b5b1fe9fe06dccc445b",
-    "3e0c761019727d199ae0a08ca1a387e0ed8f55e102e7509ebe955b850139a4c7",
-    "16db228553020a702c7b2013e09085dd39cdefbb2d2d78ea1f09cc96dc892f5d",
-    "8f238463dfe0a389cf9417e9054dc09d961916e8b3f716322632712545135bb2",
-    "23a995390418ae9ec8f2d2f62b4b9ca17bec42264038c4d21991f9e099ca6873",
-    "578fdc72514d3c2c695c41ee1e731032c72fe8a23deee2d6210d77f929be2f3a",
-    "8329842c99072041928c910d81c634d72f9b371331fdc5fc4cbe13b0ea4b36e8",
-    "b2a82a6c16981687e415b087488e66a6468b5c8d62c52215576f2c0fa7165802",
-    "cfa90a72b8c908dab1d716cd083e8d949cf0b4da8591e53067d687885cd772d7",
-    "6e4c916a0b1b603cf2fa57554ff8c0de8bffe870d4eb4a7db49e591ea83909b6",
     "98fc8ca49fb8343448be010014349d9d79bdd7843ff33c5363178f05cd0f3276",
     "7efa0c86eca31016d598f9b4acff7a6cb4c1f59c4f994b907faa81c0388ce29a",
     "914dbced721b3006310482eb9d1705d611fe200fc1c89391b5a8f11d039e724e",
@@ -4000,21 +3986,23 @@
     "7b517678989a4d15fd2733142037ffe51b116f2d8f07c79d11023808dc87d8f7",
     "06e929d1891d6dcc4fb3ea473f97667184c1f55ccfd2d6191f09da365a54430a",
     "9f1bc26d22229c66a3759b840b6e79cc986ad4df7e39329e4e4c61981b33f8ee",
-    "223cd792d28285e674c19fd57d53737242362696b844c3c01e5a43414ab1a17f"
+    "223cd792d28285e674c19fd57d53737242362696b844c3c01e5a43414ab1a17f",
+    "0253a59777a01ff90722eb500c34ea3d6b854982c4b9e522b01e386d74c88f7b",
+    "95bf9fe41aa1ce11ae205b43707ee240307fd68ffef3065fd43c615f013ca060",
+    "b347b8b36de6dedc08e4d845e3d6b6ecb1becce0edd64bfa0eecb738da4b06fd",
+    "fcf2dc69b4e6a4b8ba7af2d08cc4983f76ceb75e37a114aab685d2d34ba5e853",
+    "9013294358e36f31da1f49dca8f61d80c6c2365bf0d2e5e482092a541c941422",
+    "fa753dbc5f777da7ecb7563ede946769a5b9b1d61b41e30cb2ff53ac4aa810ea",
+    "6b23c587f728494a1093fabc3cdca18b6114d88ff3cf2962560e8df5f0742816",
+    "91725b8e18746ca3dd8f26924b672e3aab34c3f645e958c640244caaccf8d4b2",
+    "ff1923f4b6391eb6e3aa622378f419f8e296d37f7af25ddb6647e5f98a684282",
+    "ddd4efd4d27ab916bc6259d6765a83616cb1766003f7ec514a127abe60eaed04",
+    "974f051bd8ea5354709de310f660b99f3760cea2978ea5fda4ca35d8c4a81107",
+    "53ed6ad6f6bc71a0eef60787baa2c4255f69d1e89afbe6ccc35505228f8d211a",
+    "deb2c6adcf9bd463c0ad72fb2a6d17ed43feecd7afe7510f748444e099f0b1bf",
+    "c29db4fd28188d0e5070b1dd8785f49a32f2d98aa9f2ba9259fba64eb7a5c71f"
   ],
   "title_hashes": [
-    "26cb35ac84ea2b540c5478a0f5fb09bb6e730406581e687b69985c512a37f4c7",
-    "850725fd3340ea99306b0e88eb7e94c517ebf78c2faffff96f29577645262cfa",
-    "b21b9cafeb9c3627317dab48ec5211183acc1e74e9c02783f6fa2ed7940cb2e7",
-    "2043019e3660c1099ba87dd7858c69cd615b1817843791a0b18f01b49a030d63",
-    "01568cf2659c7af347c8886dfd8770ac40d7cdbf3152a8bc5cb863b6bf88eceb",
-    "3d5e8db9ddccf5b63d4cd7561d1e222e505dc668ed945617c1ac44896334fcd7",
-    "a34c2ae1999e0e2a1dbf0016ee1ace63bec8a5b58c8d537c3e758657bfc4385f",
-    "463c933e9643c39243839a85f4c237c907b1fe9d360940e8855a5ea9fbf314b3",
-    "ba9f8eccfb58ba8bdb23521aaf2b21c2f42d9f31b6dcaf5e02ed822342de4036",
-    "3d2ef6b0bc46208fe8ba5019cc363473738859c45c8ebbffee3fbb0b6982c608",
-    "b96b37d568f821926ac4dc4c717da0993e5f9b49a10dfb70ba9135f651775d01",
-    "47f7c3076904a30e64ba3afd22c445e48a471489812c40d1ce551bca911e2968",
     "26beef66a5cd97ff1bf8cceefef76dbebf237d8fe9fa50f02041a95ecda1365a",
     "12843e58d31a1fd77391b7b78dbdd7ccca120edc212b4608d0efc0969c92540d",
     "d81321badd03ce3833c77150c5a7a010b8530fd2d30f0db25aaec925748da52a",
@@ -8002,51 +7990,21 @@
     "e5e820f97c6b8651d8941dcbed669439a68a6be04e601ef7d76f07974bede03a",
     "251353036389dc677e8f57b3a9a9fbe52c0c7024a078db737e1917b569182dd3",
     "4a27d426ba67d48e93ce76d5b3cc6732a71a3f9886092265d54532a0361893b8",
-    "9cc15cc07e73d788e566df328d05553771b7e59b88c3da1a28b2894fc271400d"
+    "9cc15cc07e73d788e566df328d05553771b7e59b88c3da1a28b2894fc271400d",
+    "2ee962677f02385f8e905f7c6c213962f5fba77624d1e9f9b0f45eea5bdbb1c2",
+    "cd1bbfd5a01a04d39a2b9589a355b96a7f69a2370876c2567391087a1d489b15",
+    "b30e7f5719fb736a016bd5d15b1efe52a1e3aedde2fa0ec1d4a23fc4c2a5abd3",
+    "993b2106c15cacd7719223de7432f5bfc4febf9faad598ef988f76c940b33146",
+    "1815143e5cafba0c908ada7d411e7537786e88809b468a664f23262d4681c2fd",
+    "2854a3e1e48632ac48e79b92e5b5bc134927763e606ef696acb8287c507ce514",
+    "29dc5fc42b2791f53fa22020892008380f236c32b9721bd6e1402abeeffc033e",
+    "1a61bcaa8230eab11c17b5678eed49b1e3dd918e947a396519ec964808df1865",
+    "03d29dac8ea0a62b221075223c86bc5909236c95a939373c2076a5e90e4e6e37",
+    "f8d510682e95ed3db9fc0c97bc2ce5a60f74c635ecbfefa16f967f03d52dc296",
+    "496f59ffa40002ff6a6a4669fa32496f4dd7832575242c155fc83d1660532bf7",
+    "d938fba4ac26a5b0f188df414b0ed40007d1b99e7e58d68952cf579b33364fbe"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "SENIOR IRANIAN MP EBRAHIM AZIZI: IRAN CANNOT BE BLOCKADED",
-      "title_ko": "이란 의회 고위 관계자 \"이란, 봉쇄 불가능\"",
-      "url": "https://t.me/firstsquaw/194598",
-      "ts": 1795179202
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Optimus Futures Named Benzinga Featured Brand For Low-Margin Futures Brokerage At The 2026 Benzinga Award",
-      "title_ko": "옵티머스 퓨처스, 2026 벤징가 어워드 '저마진 선물 중개' 부문 선정",
-      "url": "https://www.benzinga.com/news/26/11/63467675/optimus-futures-named-benzinga-featured-brand-for-low-margin-futures-brokerage-at-the-2026-benzinga-awards",
-      "ts": 1795179268
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "RUSSIA URGES THE NETHERLANDS TO TAKE SERIOUSLY ITS RECOMMENDATION FOR FOREIGN DIPLOMATS TO LEAVE KYIV - TASS",
-      "title_ko": "러시아, 네덜란드에 '키이우 주재 외교관 철수' 권고 진지하게 수용할 것 촉구 - TASS",
-      "url": "https://t.me/WalterBloomberg/38746",
-      "ts": 1795179277
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "효성중공업 사무직노조, 첫 임단협안 거부… 성과급 차등 지급에 반발",
-      "title_ko": "효성중공업 사무직노조, 첫 임단협안 거부… 성과급 차등 지급에 반발",
-      "url": "https://biz.chosun.com/industry/company/2026/11/20/C3DBK53JLFCGLPFDHEQTDTGLZI/",
-      "ts": 1795179433
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Berenberg upgrades AUTO1 as share slump outpaces earnings downgrades",
-      "title_ko": "베렌베르크, 오토원(AUTO1) 투자의견 상향…주가 급락이 실적 하향분 상회",
-      "url": "https://www.streetinsider.com/General+News/Berenberg+upgrades+AUTO1+as+share+slump+outpaces+earnings+downgrades/27378887.html",
-      "ts": 1795179436
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "WALL STREET SEES S&P 500 RALLYING IN 2027 — MAJOR STRATEGISTS REVEAL TARGETS",
-      "title_ko": "월스트리트는 2027년에 S&P 500이 반등할 것으로 보고 — 주요 전략가들이 목표를 밝힙니다",
-      "url": "https://t.me/marketfeed/1082510",
-      "ts": 1795179463
-    },
     {
       "source": "9to5Mac",
       "title_en": "iPhone Air 2 dummy unit shows off new dual-camera design",
@@ -11504,6 +11462,48 @@
       "title_ko": "Intel은 초기 DDR5 메모리 프로토타입이 종종 실패하는 이유를 밝히고 광범위한 검증 프로세스 및 256GB CQDIMM 푸시를 자세히 설명합니다",
       "url": "https://wccftech.com/intel-reveals-why-early-ddr5-memory-prototypes-often-fail-details-extensive-validation-process-and-256gb-cqdimm-push/",
       "ts": 1795206451
+    },
+    {
+      "source": "9to5Mac",
+      "title_en": "Apple Watch Series 12: Four standout features make me glad I upgraded",
+      "title_ko": "애플워치 시리즈 12 출시: 업그레이드 가치 증명하는 4가지 핵심 기능 주목",
+      "url": "https://9to5mac.com/2026/11/20/apple-watch-series-12-four-standout-features-glad-i-upgraded/?extended-comments=1",
+      "ts": 1795206622
+    },
+    {
+      "source": "FT",
+      "title_en": "Donald Trump threatens ‘tremendous’ tax on data centres built outside US",
+      "title_ko": "도널드 트럼프, 미국 외 건설 데이터센터에 '엄청난' 세금 부과 위협",
+      "url": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1",
+      "ts": 1795206684
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "SEC Moves to Directly Oversee Database Criticized by Wall Street",
+      "title_ko": "SEC, 월스트리트의 비판을 받은 데이터베이스 직접 감독으로 이동",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/sec-moves-to-directly-oversee-database-criticized-by-wall-street",
+      "ts": 1795206752
+    },
+    {
+      "source": "Barron's",
+      "title_en": "SEC Charges Fake Advisors and Crypto Exchanges With $37 Million Fraud",
+      "title_ko": "SEC, 가짜 자문가 및 암호화폐 거래소를 3,700만 달러 사기 혐의로 기소",
+      "url": "https://www.barrons.com/advisor/articles/sec-social-media-crypto-fraud-b3c245ba",
+      "ts": 1795206755
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Bitcoin Poised For 'Great' 2027 as Fed Eyes Aggressive Rate Cuts, Expert Says",
+      "title_ko": "전문가들은 연준이 공격적인 금리 인하를 주목하면서 비트코인이 '훌륭한' 2027년을 맞이할 것이라고 전해",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63507856/bitcoin-poised-for-great-2027-as-fed-eyes-aggressive-rate-cuts-expert-says",
+      "ts": 1795206757
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "美国商品期货交易委员会（CFTC）：11月17日当周，比特币净多头头寸为1,528手合约。",
+      "title_ko": "미국 상품선물거래위원회(CFTC): 11월 17일 주 동안 비트코인의 순매수 포지션은 1,528계약이었습니다",
+      "url": "https://wallstreetcn.com/livenews/3203564",
+      "ts": 1795206759
     }
   ]
 }
