@@ -1,24 +1,6 @@
 {
-  "updated_at": 1795134257,
+  "updated_at": 1795134403,
   "id_hashes": [
-    "ba0b3d75329c10ad6e38eb018c1c449b23335446f196e0d3bb0540005cce6182",
-    "ecda8a800dad1aa470ad7b2eae3097fd8d5865269921e467ce3ca7adbd7d24c9",
-    "2379dfa0f2d8d2bd3fea6a55a4cc74c1ebdb567d19394cb2caa8836afb62c241",
-    "f2405c9a41d360312dfe6e65274462c0b02da2d9999054d9960d0f1260e83e43",
-    "006208fb67af33a86f4c0d956bf68fa9f55c6e5619e5ec602d74af85af178a41",
-    "d13fb70f367177e63faf693898f50006681ee1063d2b05afcf89be17634e3834",
-    "64017a7b5d6306f52b0741489c077d42da6f0e9f0cd41daf463f4b4420ce911d",
-    "5b3058b189a38c010e0d9b3bbd5c441bf88d07154ce7c7c36211688878c9c65a",
-    "f67c2cd356a9fdcfcd30b67f286212cf5c5ea902511632e2275839f8d6df5000",
-    "9d50d40bbfac6f19c4781c090d3fc4f395b8259d8c2f1cf5e6443ca07b3b9d5c",
-    "98e967b85951cb5f1c2ce2698a2fbf8d044b617c10982283bcaf82beb8c5cd5b",
-    "7936a13cf173353fb140ad25cc12af490a37b5cd6d997330df255249e02a59c1",
-    "1b0e04bfeb0011be86e2845cbfd18efff84ae795ab201c8ed61ba22dc0ea3901",
-    "ad340722c963eee102cf5501b506a160034fd4b5e29ab6e1fc36eee7fa75f00f",
-    "14411e1c80de98c18de55de8e4cbb5dd23b67dff709d0b1757257bc75a20bf29",
-    "9f72a07dee12ded6e933473198f1756aeb2e4e122dfa67404f569e46ee56261e",
-    "09478c228fd8a93f1178ba3ccaa8d6967c617d5192b4256276ec7b3221b1fbd4",
-    "5483337b00625e8a75535e1b4737cd235ede30dd19a1baef6c102ae2a92a49bc",
     "d77bc9fbe131e6ebef1aa5f1623e97f683c5183edf154d88fe1e359cb4b22c6c",
     "ff62ab8a7692d6478adb5946e7efb142453d2b07dfff7e53b92c91f60912e852",
     "17c429a0244a535d5622d545fb0bc9511b8e73d8f421fe8e49b988ae4bbb198e",
@@ -4000,19 +3982,27 @@
     "1ff8cb9d2789b2b26109d66264c64efde542d877e886b9c4178305590e0f4af8",
     "1961bd0509a9ad9f18d7a0bf9862e0de2b5f1c15073998063d20ed981beae506",
     "899c486eab0a4dfad1952bcc110894e813af411d45b96c9a5f73508d17ed13e4",
-    "892127391533efa4b182cf0307af7051aacff37c7310f2197f7a728c1e1ce76a"
+    "892127391533efa4b182cf0307af7051aacff37c7310f2197f7a728c1e1ce76a",
+    "a6d2cf55b78bbc80b0db70b88e0b4149e00d7f17df69345ed379620d737eb428",
+    "b572b1349ecca016249a89d5bbd416bad70d504ee6786ea9d8b5af2c8dc6fade",
+    "0a18f120f2e058302ca757f1a819fac095e4854318f40972b0c886da76dba49c",
+    "826bcbcf1ac8687f56aa432b416067ea4fee53bfd8adbc6096cd9f800a06aa9b",
+    "b0c4653772f5c702464054b4e352b4e98690c0ffb0eecb08bb9b084af1978009",
+    "7b6300262dd49c022b5a8962c2a931745cbbc4c8ff447aea3aae5a6d53922ddb",
+    "7731da88903b10fbac286a831d525becd4f151bb0122c25678613159143b93d9",
+    "1b4528b7409295ceb2a2c5e08dc42a00470d62f2f4816ab5f9246fbc40b6b553",
+    "969b436ada2aabdcb9075e1fb8d0ff78e2345d98b12f1cf52d295cc826b993d5",
+    "1c721905bbca928b9c6091055a1821a4c383886d8544ab27e73495968120e100",
+    "2a9f69bb22f75fae8ce1456a71e8e19314e141f40922a7c33fa091ddc1ab39b6",
+    "de8ef130720a8a565509d930219145b2cd0cc54c4bb481a283025fbc13f4f4e2",
+    "5be14ac4608a5ee44e355a418072bc211b6b125b9e52bd953283d432d9e8d042",
+    "e198fb9e4622015bba6af51d89b27700b02610229fc7476c0fa65a8ff6f5cbc7",
+    "5ec77afc88ea15c74ac1737944e7bdddef452900989328d6b2bc1701b06d6627",
+    "7ca6a12eb6766735132006349c3309aa6ed3dd902c061e864258eb83a783c67c",
+    "6ae7c27ce519cedb0f18b6ca2a349df6c7f0ba625c7186c357794e7d752d02ed",
+    "b2322129cf17347661bd94cf26a2eb82610b247c2d65075dea036c888e52eacb"
   ],
   "title_hashes": [
-    "57d7d4f4d1321a24fab666405aad335b37c7c641abbf3f7fcfdd79f405bc12e8",
-    "6d4e11d988063c5b8d6c2040ca8ccae231f6e727a11bca1d952382a56286ed73",
-    "7da081786bb919d9e333d2df3b7b818c9cc2fd516da5806f75222bbaaa192a63",
-    "184a8a16a28fd227761f894c8eece510de79ce932aef85190e96ad9b181f5a27",
-    "535aa0904c2ea0ffeeb679644ef42f94fbeadf7817115b7f1c581106632c8461",
-    "6ccc65fa2e6829654f6fd6ff0396c916511ec0486f67640e1aa6775990da8c02",
-    "dee5ec110c43b4011880eb723e5c3336188eb6e6e8af4b125e3876d0db45e82b",
-    "c9fab744cf3c84b5cc610681c3990757e52906e62bdbd8230610a86afa5509bd",
-    "106afa0f9375ba34dad81f96bff662ae0402a927e799a02f90b3e6e3fe163450",
-    "51f5bf0b3adb39d240543ad9066625bb226bf70f5cf9855c308944024a79dd2b",
     "a9a32b26dde55743b99a8386fd579466b599ae23b9dd745e602f6530c28600d0",
     "5d78cd3188dee04ef1bb4d04d376bb745ffef49ba6c06be3ce1ec10b1b40c26e",
     "d4979d4b6785ef6cc7f67b7af35ae6a0f131c1a1fc49514924048423f38917b4",
@@ -8002,23 +7992,19 @@
     "34a49a22950caf286bb37376ea7d46ef4b6783f6041f9efb3dc646d10a4233ca",
     "0a7110d307bfdea209a3b35891245cb3bd99935d3b29b470b057e918060c16d7",
     "f3b5819bad24116240181172d1e306ed34b99a84280a5b07727acfe47a0d1b00",
-    "cb7dcaea2a6c9442b8064a9e3ecd861827d94dcd17307d6e920da40b15e2f166"
+    "cb7dcaea2a6c9442b8064a9e3ecd861827d94dcd17307d6e920da40b15e2f166",
+    "690a5ed8020ccaf93115ea260e49ca3ed67c666e4a6df1db5adbaa0fbb93a690",
+    "bf8f200f4cc9fcc245a34076990351e375600c8a277d5a354550f79bcec16746",
+    "394340da27af2210fd38e0ae0a9fc4473cc1b5c4aafed5f941b37d43625382af",
+    "d585e9a9cafb4378fb38f11d48b87c3a2330a24bf9a5f52704e109d009bfd60d",
+    "f1fcfeeecaca11c9158c76476871e7bb653152d67b687fe76aa951799d858415",
+    "d6fcf03fc8cbab300121c38931375d3dfbb63a8e7de259b9cbba15e95ea81e97",
+    "5f57c33df1f4709f8c56bcb3efc0ccd4b195ae19112a865b7f4a5e4071ac9eea",
+    "bd6589626ee5d6a461d6f5c65666b16bab2c385468f659790a804961cb0dc557",
+    "dcdfb62433e70e43b20c91ef670b3fdab73612f1310abcaae97206bb822db609",
+    "e6e1f80f5bc78f9ae0eee6041d6adeeeaec5b58e9eaa27e9cade922f71ecbc8a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "法国总统马克龙：周四在柏林的与会者得以通过美国总统特朗普的特使与特朗普进行交流。",
-      "title_ko": "마크롱 프랑스 대통령: 목요일 베를린에 참석한 사람들은 특사를 통해 트럼프 미국 대통령과 소통할 수 있었습니다",
-      "url": "https://wallstreetcn.com/livenews/3202725",
-      "ts": 1795107616
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "AMD SAYS HUNTERBROOK CLAIMS MISREPRESENT AMD'S PRACTICES",
-      "title_ko": "AMD는 HUNTERBROOK이 AMD의 관행을 허위로 주장한다고 말합니다",
-      "url": "https://t.me/marketfeed/1081823",
-      "ts": 1795107704
-    },
     {
       "source": "9to5Mac",
       "title_en": "Halide 3.4 adds a bigger viewfinder and fill flash for iPhone Duo",
@@ -11504,6 +11490,20 @@
       "title_ko": "삼성전자, 전영현·노태문 겸직 해제…반도체서 사장 3명 승진",
       "url": "https://www.hankyung.com/article/202611209098i",
       "ts": 1795134256
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Chairman of CSIA Shaojun Wei projects China's 2026 chip sales to rop CNY1.5 trillion on AI boom",
+      "title_ko": "CSIA Shaojun Wei 회장은 AI 붐으로 인해 중국의 2026년 칩 매출이 1조 5천억 위안에 달할 것으로 예상합니다",
+      "url": "https://www.digitimes.com/news/a20261119PD231/sales-2026-demand-development-chipmakers.html",
+      "ts": 1795134276
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "ASIA-PACIFIC SHARES OPEN LOWER AMID GLOBAL RISK AVERSION AS MAJOR US INDICES SUFFER STEEP LOSSES DESPITE ANTHROPIC’S RECORD DEBUT",
+      "title_ko": "ANTHROPIC의 기록적인 데뷔에도 불구하고 미국의 주요 지수가 큰 손실을 입으면서 아시아 태평양 주식은 글로벌 위험 혐오 속에서 낮은 수준으로 개장",
+      "url": "https://t.me/firstsquaw/194406",
+      "ts": 1795134338
     }
   ]
 }
