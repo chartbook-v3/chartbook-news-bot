@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795135724,
+  "updated_at": 1795135878,
   "id_hashes": [
-    "a94c9c20621b00ab97c83cf69d1d2cea2258a214f6d0a3df7a336b55073eb7d7",
-    "2e3203173403dac13d3a1df20d3057b8533e824ad09a25ac4fd930bd31444b42",
-    "667f3c4a2c6c56c62e3472951a2b31a28393a3d61e2d1e599d1296725820410a",
-    "c14437455f303c0fad09df22a2e57a24e300308c713a33b0d279ee69c6963d17",
-    "19fe1c6ad860304dd649ebbc2f2272da0bbcbd46ad71515e3338619474dd5a6f",
-    "94cf93a390a3b3d3be6a2cdc82b08c85845a2e967c87d0b5c6966a96514c2d52",
-    "0d7ebdab35d33fb0872e2965094501896d96d937a2b83c07d595e42d60df2d1d",
     "d217759928a33000d5dd606301e8c87adaeed31f7aba374a2e82553c8815af36",
     "9bdc73ac9fabc0792eb702c309733fd247576b8cf71d271a66c9ed32191640ac",
     "6771f7b21069bde3cc8e9171c82b284f37cd52375142749a6a7293050680d9ab",
@@ -4000,15 +3993,16 @@
     "b1d745e1ea4619b919b05201e7b0ce40a5bf1beb74077d34df4f7e3dee7c4d18",
     "e3bcf049fd421cc003da268af93728db047a10981005bc74c7e820c0d75b674b",
     "0a16c6050879fa96e54986e8bcb53093db6f25212cbc9a235d2a2bda518f364c",
-    "f3ae32c560c8788aa5b953418684872ed35026a617e3e60adf31b28424280995"
+    "f3ae32c560c8788aa5b953418684872ed35026a617e3e60adf31b28424280995",
+    "3d6125d3b91c7e9e8255c74837e998d0b3fbccf7686f5bd92ebacd09a90afb2c",
+    "b30d5f7b75f60a46e0c9153c7a42e75b9a4594c1a5a39c605076d070f66ef178",
+    "d12a155626bc478004216034a844275a1e48aa316b3e7fd4ad23af941d7f71d4",
+    "0ea6d3c94136faa904612a43688720539b3cc3f9e871f93ba55f039578706730",
+    "75f0fd54b94dd8af2fe099714b16e576c06d8d4fe5a330950fae7fd01fc982f0",
+    "81e18028105657c74bee79dacf59cf5f99ea47110e5d29be86f5d8eef61bdf61",
+    "c435998525c4d07b6b3415241ca5cce8461aba29c5ba08735d805c46bd7104ce"
   ],
   "title_hashes": [
-    "3ecf88916ccf4c283f58dff3754d2dd7f29d73ae92371dd7d7011316f04b8cb1",
-    "3a1a80ad5402640f559b2ca904597c7fa2fe9afd02ca7230bcca9fd6489d9257",
-    "af7a51dd6c31877f9325b86dcd96ba490ce15a1197139b3f486bf1639d785266",
-    "8b9b95bc89634e7701f2f4fca230ea4c16aa60fbcbb477b7fc8ece53a3ee3142",
-    "84dd188e0f3ea9493a2047cb5a76a08a79b2977c1031ee50771ad39ba2c95a51",
-    "352cdfa7cbf84bb93a064c10608c773b58a83a49f7aa21e53e873ebfb836541e",
     "375ed8512a09114c643e27ac6e02fbfd119d7a429651022d3eb3eec727be95c0",
     "9af20aa4dbd43adc4e3099c1b15d04fe196b2bfd03a4f91ccc1f43996939c3b0",
     "34ab35d1d8ba5c16284faa80ae98f171e89906493317207a6fa9475ef9c4da20",
@@ -8002,16 +7996,15 @@
     "f115ec2dea9c007a13e50cf3aa83e07f03952ef37df14b424301828821814eb8",
     "9bf68f0c266e22b9c6267e945aaaeabd4d31afc25703fd4924f8abf7a57d3af1",
     "c16d102103bc8d379d0c7a026a6fa45f382ca345e3587ce58630696b4ec0b6df",
-    "ca3f4f63cce5de84040434290d9effe8172ab8d13911a10010dec2e4337f4757"
+    "ca3f4f63cce5de84040434290d9effe8172ab8d13911a10010dec2e4337f4757",
+    "4cd758ef33d98744eb589a7d70a87bb12e679f16449ff6a6bbadab8d65d76eb4",
+    "598820a4ce49963f9bf7cecddb36f1a7d8dd02542dcf57238c8d3bdf53fa34b3",
+    "0d2c836a8941fcb72b49c866097779acf7f6aa800b57f7b19aa7aacf4579f9e3",
+    "9d8283448c1b91a70b3e8d6df3e7af4e06a756f2d4d75db4c399fb2ccdd582de",
+    "2e15973bd6a73f7b41fbac45ff40dd4a2386365f65cfc06b26048c0dff072e2f",
+    "ff0094d73d80a8d6658436d4a4ecaaacb46857ca101776ae2300e3610604946f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "VentureBeat",
-      "title_en": "Exclusive: OpenAI reveals Performance Factory, a Codex-powered software optimization system that keeps ChatGPT fast",
-      "title_ko": "[단독] OpenAI, ChatGPT 속도 유지하는 Codex 기반 소프트웨어 최적화 시스템 '퍼포먼스 팩토리' 공개",
-      "url": "https://venturebeat.com/orchestration/exclusive-openai-reveals-performance-factory-a-codex-powered-software-optimization-system-that-keeps-chatgpt-fast",
-      "ts": 1795108869
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Fed's Goolsbee Speaks - WATCH LIVE",
@@ -11504,6 +11497,13 @@
       "title_ko": "일본은행 금리 인상 경로 모호성에 엔화 약세 베팅 재개 가능성",
       "url": "https://www.streetinsider.com/Reuters/Analysis-BOJs+ambiguity+on+rate+hike+path+could+tempt+yen+bears/27377820.html",
       "ts": 1795135723
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "[특징주] 이수페타시스, 목표가 하향속 장초반 10% 이상 급락",
+      "title_ko": "[특징주] 이수페타시스, 목표가 하향속 장초반 10% 이상 급락",
+      "url": "https://www.yna.co.kr/view/AKR20261120048100008",
+      "ts": 1795135875
     }
   ]
 }
