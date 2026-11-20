@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795205686,
+  "updated_at": 1795205834,
   "id_hashes": [
-    "c3036c8d34dadaf16d2cd46986ee6074bf82564a5521cc8d2639d3a92fb4bd1a",
-    "8ea7242cb1c7bcefa0c6de75e45f8ffe2544a23a7a00571df9563f007ae43d7b",
-    "f9197f74a4e4f4d056e1501ce1edbbdcc60f1d33275c53c138a18d46997f6b42",
     "b7329b3ee55d45a88b2e7b1597804353c68bd981666677b007e4985a00832f0a",
     "89429b8053af16043c5d8dd02ae69f1d64187046827c4ff196586845dea42376",
     "17663f21298d95387538bdc5d57c0fa2caf50e81794cd00543010d4cad2b3422",
@@ -4000,11 +3997,12 @@
     "94266aa9ee62ac5fc2c6e89ed7e0b4024327c8bc4d5cd335789ab6851439d192",
     "80b9563c7215ae75b38cf41828f5394960e088fc6f16ddf8e0c16dbd0b6529d7",
     "df86c6f1be0d3f8c82a6f19086fb77941f5c563695ed761294c83bc697c69f76",
-    "f44f1e0779a65895bbb12d26867f37f1e5a380d117983a7cfee546e13c4fb0ff"
+    "f44f1e0779a65895bbb12d26867f37f1e5a380d117983a7cfee546e13c4fb0ff",
+    "522ebc7f8b5eb910187935c3a9f237d4413ed906eab2a8f3ef40e3b3251bd763",
+    "06a48f6aaeb3fd4417f51af2f39482fe667d6ea5c6e2bfc0468686d0f92d2adc",
+    "ef081234e959c759ef42e9427d0dec70c7ec13e341b5c07294bbd46e3238a607"
   ],
   "title_hashes": [
-    "58b66628478f5abe5ac8d258ba3db77cdac0dd3112cb86cce4db74e856a3cd84",
-    "6db1ba6029e57be519dc930d87021f28765b5727e0695275557b18bb6206daa0",
     "5fd94715b63324c38002f84833e8bdcbfd17d43d073c02eebdc8dba6741e70c2",
     "bc5c4900b4c2f6801138a0d7013232f26e907d9a90cabd5001371a6ff4e70e5e",
     "0d4ed5a5757ab17d6ae611350aa4b5d588b6eb8678d655b74e03e22a7623a4a9",
@@ -8002,16 +8000,11 @@
     "3d2dc0ad4a83c38bc39190217023ae91a120cd17375230002a30c9a52ae43dd8",
     "3f3e5c235267446e6f92e0d230d260b9f1224ecae9e971c110e4829f183f50a8",
     "40816e17e9d288d6197201aa8c488d370432f37be41af00be6dda835c5e989ce",
-    "a6bfc1d5760414919caf5c797a74338b3357b03aeac68accfe18ce8c758a948d"
+    "a6bfc1d5760414919caf5c797a74338b3357b03aeac68accfe18ce8c758a948d",
+    "88dfcaee98e5f24289b2b6f469ba97fcf8e31c556947927cf744a14937861da0",
+    "70414ac2e1a74df63b05098cd9d63093ea83c5fb151ce85225374b819e6892e1"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Tom's Hardware",
-      "title_en": "Lawyer’s $9,450 private AI server of 12 used Nvidia V100s now runs every DeepSeek V4.1 Flash expert at 4-bit NVFP4 — up to 184 tokens per second on code, and long documents start answering in about half the time",
-      "title_ko": "변호사, 중고 엔비디아 V100 12대 탑재 개인용 AI 서버 구축…딥시크 V4.1 플래시 구동 및 문서 처리 속도 2배 향상",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyers-usd9-450-private-ai-server-of-12-used-nvidia-v100s-now-runs-every-deepseek-v4-1-flash-expert-at-4-bit-nvfp4-up-to-184-tokens-per-second-on-code-and-long-documents-start-answering-in-about-half-the-time",
-      "ts": 1795178125
-    },
     {
       "source": "Bloomberg",
       "title_en": "Nvidia Turmoil Leaves Few Stock Market Winners in Sea of Losers",
@@ -11504,6 +11497,13 @@
       "title_ko": "나스닥, AI주 투매에 -4.5% 급락…올해 상승분 반납하며 하락 전환",
       "url": "https://seekingalpha.com/news/4675314-nasdaq-sinks-more-than-minus-4_5-percent-is-down-for-2026-fueled-by-ai-trade-selloff?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795205627
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "FINANCIALJUICE 2.0 IS OPEN FOR BETA TESTING 😍😍😍",
+      "title_ko": "FINANCIALJUICE 2.0 베타 테스트가 시작되었습니다 😍😍😍",
+      "url": "https://t.me/marketfeed/1082985",
+      "ts": 1795205833
     }
   ]
 }
