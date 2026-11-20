@@ -1,17 +1,6 @@
 {
-  "updated_at": 1795191829,
+  "updated_at": 1795191974,
   "id_hashes": [
-    "6f69405083855e1fb5231b7dd89d0c59526f4d5588a8ed8272a2b11dccce9057",
-    "7aa261658ff2cce3ce3b4f68c04a12b78f2b113f5bc3de96e4b93d8e945c9e16",
-    "3f73f0d4e6cdf1cbfdb10f2c6550c60b790ec3b3f026710ee7a3795a63f73b31",
-    "55b235da52514c6d7052830aad5336820c337826f04b5449163ed3f0e7572eab",
-    "fc3fa7e7d10509fc7da5615afd4bab3edf0eae2fb9091cf21537fc9569163356",
-    "ba2a84a04bcac1cbf01b77ce32d41749eedfce9f9296168ce7e16b9fcb4fed40",
-    "af8a71a2a994a6bc8da8d1372797f2bb5ce1de0caf8d40ae8179c5663bdf672b",
-    "e163073bfac0cb418a33638bdd298a75772a8ef6dd2827cfb46ba5064048fc2d",
-    "0570f3e945c2f5fdd672f67259d3be339c813880b75e68e06c3fc9b8566daa16",
-    "16ba384cba1cf81ca9222810a31490e7a453d4dba4d94d00125edf2faed978bd",
-    "d5d77758bd5b9908524350399a272366b11427ade35a63150a5fb1a0babffe07",
     "ca4f365733f662e8d02c70c4bfb52840963b6c85fe9388b9690e5748a7d89cea",
     "39567f54bf23617000f92401f19ed562bd5c91e683d674b640eddc4f5d54373a",
     "ba0095ff7b633aeaf3c369b61492990e3119fb176bc9a6ff6cf738e3adfa31c0",
@@ -4000,18 +3989,20 @@
     "2640ab2df65f871367bcb51fdf6c277460673972af8c443c56dd905d3a1658d4",
     "99d386ef6c9eef723717c4cc3d60d78987d7eb45fa5a132804b7532565f66247",
     "b35bcfe0b8af61bd550defcad87507912c358e3ddefdd5da8f282676f4096204",
-    "dd6ce26c0b3d4f93ec3dc54b18c65b519c28833831d624545e62df9453fc81cc"
+    "dd6ce26c0b3d4f93ec3dc54b18c65b519c28833831d624545e62df9453fc81cc",
+    "db4e457f97708883df165e2b9065e6590bc23c5670fbddd95fc708e2bb322b06",
+    "35fd5873bdcbc8b4bb2e8dc2ec4e246acc64937cbc22493bf6991f674820b2e5",
+    "35ca3707a73ec6ee86990fa3301c68b5120646d2322439b34671b47a511e1bd0",
+    "2f5ef96ccb2cd9f927e9b657465a16f8b6f1dcf8cefdfacbcb3b470c9cb2348b",
+    "b3b3ebf94b1985d0417c3be8a1ad0a31c5b3f4fa74d712138211fbba2f2158eb",
+    "7d82cb14b140f5a0e324c3e3692f6a8351c68df179e636bb0ff5072c00366b32",
+    "fc81df9664cd512ab9fe04339e68d272a30ecda4408a3f392dd5795b76fb48c8",
+    "9a1b19065f96ec529f56b2e03a88ef8d05e99b578098858e42b1a076c14449d9",
+    "7d8a8e2333867117ec9cac750c92b67ebde7a34f00920273b44bb22d8f9cf8ac",
+    "79010dc679d7731ca0743810a7218298b106d78234932d3d33314cef3a9efade",
+    "20761174ae92bb39d55cf8db518ae3a215906a225c3eb134d3b39a51d103b744"
   ],
   "title_hashes": [
-    "3e21add8a4f5e046b4cd93d34dc742783d5348405c6b34a735228dfe60f481dc",
-    "902810ca7ff4f8ecc8f629d9ab2d14881d8e7308aaa3f8e856550af14bcaf6ec",
-    "e78ce4ac652a6b6d52739217c4b5aba67c205d2fef796a9c96bf44c983534811",
-    "95ef0eec985db4a8b9b443b75f315f518012ffccdcc08571123b508868051c9a",
-    "e7bfc47b15257d0dbee65aea4db42566a70691d7c855970f4267e2986bd10916",
-    "4df7e0a8812f005d768a567db033a924308df208621eb09704fccb4a0f5d2ae8",
-    "997cb43c349191d98df90ae91509e2d8de386533d5dcb3d6ed36acca26dc96d4",
-    "eee5588a34011d06478f70fceda1097c57ed457bc6422b0d08648fd29eb39547",
-    "4805a9621c8f56d7e54423dd609d4e3aefba8a7cd4ff3053514f9e1067621e05",
     "490ccb00271526ac3965d14f076aba73295b8c32ec9f39b44719ff119b5b878f",
     "6e90f626a616c9c79fbcd9fc38e0dcf1c004cdf9fe6a0127f3d2cb332c4b4b99",
     "fe480470e8a2a1b505a179dfc93849bc05991d13284ba5fc4d384c36429c0a95",
@@ -8002,37 +7993,18 @@
     "b1c0920ef16e5f67401bd477e56a7415ca03b5b242cbd5acf6a0eb011873962e",
     "dfe1864c819b098b4d9fe63e97fe868ae80408b27cc9aa72e7e16b0d02c2d5f1",
     "decdbe71da0012c75b2bcf3efc9e3f6fbd77aead25e476176de75d9c98a3e85b",
-    "2b7192d23714820c141c6e77c9d564b5e098717c29e221b6025320c5dd759b02"
+    "2b7192d23714820c141c6e77c9d564b5e098717c29e221b6025320c5dd759b02",
+    "71a1d1f0fc553aff51ca921ccdb46a497650b0cfc85c29144d41faa52206b861",
+    "24c18c35dc166cc72593be483579bd1e9a7340948d0a61ead350a893699f37e0",
+    "def9f67a5149b400c6a249956dc255a5bf7dc506568c3e414daba1b24d79a7aa",
+    "94cc5b7be09a093d5e8bd68324807721ea8b505877e8d0dc8f6857b8ba43ade1",
+    "f75eaef02d59a77b87b2f1a93503412f645291459b56c520e86e52279d676134",
+    "0ec18fc3677b4fa85b4628429b072631cb6ee3a681c8d472ad8fa1686931cd7d",
+    "969279a9453fcfa0ce14ff5fac46fda9c2088f67ecc1b817842ccd739688697b",
+    "f038cba2a57049c3cdd6115994cc3c2290e6280a9f9b964a65e80f13c45159f5",
+    "4c9b42cb576ea2fe3a8f7f6f8767c2b4cfb779d5b0ccd9b2799808a0ae735f08"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "\"전남광주 반도체실장 '삼전닉스'가 추천\"…1실장 이어 2실장직 논의(종합)",
-      "title_ko": "\"전남광주 반도체실장 '삼전닉스'가 추천\"…1실장 이어 2실장직 논의(종합)",
-      "url": "https://www.news1.kr/local/gwangju-jeonnam/6361151",
-      "ts": 1795158769
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "\"10초면 핸들 접어 수납\"…中BYD, 자율주행 대비형 모델 첫 출시",
-      "title_ko": "\"10초면 핸들 접어 수납\"…中BYD, 자율주행 대비형 모델 첫 출시",
-      "url": "https://www.news1.kr/world/northeast-asia/6361114",
-      "ts": 1795158771
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Jim Cramer Flags 'Real Battle' for SpaceX With Nvidia as Anthropic, Google Spend Billions on Compute: 'I",
-      "title_ko": "짐 크레이머 \"스페이스X, 엔비디아와 '진검승부' 예고…앤스로픽·구글 수십억 달러 컴퓨팅 투자 영향\"",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63464354/jim-cramer-flags-real-battle-for-spacex-with-nvidia-as-anthropic-google-spend-billions-on-compute-i-cant-blame-elon-musk",
-      "ts": 1795158773
-    },
-    {
-      "source": "WSJ",
-      "title_en": "Nestle Teams Up With Microsoft, Boston Dynamics on AI in Factories and Products",
-      "title_ko": "네슬레, 공장 및 제품 AI 부문에서 마이크로소프트, 보스턴 다이내믹스와 협력",
-      "url": "https://www.wsj.com/tech/ai/nestle-teams-up-with-microsoft-boston-dynamics-on-ai-in-factories-and-products-05bfb028?mod=rss_Technology",
-      "ts": 1795158776
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "问鼎戈登·贝尔奖 曙光8000实现超算应用新突破",
@@ -11504,6 +11476,34 @@
       "title_ko": "미 국방부의 최고 기술 책임자: AI 태스크포스를 위한 더 많은 의회 자금 지원 모색 –",
       "url": "https://t.me/marketfeed/1082688",
       "ts": 1795191828
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Boeing may be considering additional layoffs, union says after meeting",
+      "title_ko": "노조는 회의 후 보잉이 추가 해고를 고려할 수도 있다고 밝혔다",
+      "url": "https://seekingalpha.com/news/4675218-boeing-may-be-considering-additional-layoffs-union-says-after-meeting?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795191853
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "ING’s $500 Million Data Center Loan Auction Stalls on Low Bids",
+      "title_ko": "ING, 5억 달러 규모 데이터센터 대출 경매 부진에 중단",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/ing-s-500-million-data-center-loan-auction-stalls-on-low-bids",
+      "ts": 1795191911
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "S&P 500 is near a bottom, but breadth still shows final low is not there yet – BTIG’s Krinsky",
+      "title_ko": "S&P 500은 바닥 근처에 있지만 폭은 여전히 ​​최종 최저점에 도달하지 않은 것으로 나타납니다. - BTIG의 Krinsky",
+      "url": "https://seekingalpha.com/news/4675231-s-and-p-500-is-near-a-bottom-but-breadth-still-shows-final-low-is-not-there-yet-btig-s?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795191920
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Pentagon's Michael: Anthropic is still a supply chain risk to the Pentagon. $ANT.",
+      "title_ko": "미 국방부, 앤스로픽(Anthropic) 여전히 공급망 리스크로 분류",
+      "url": "https://www.financialjuice.com/News/9862070/Pentagons-Michael-Anthropic-is-still-a-supply-chain-risk-to-the-Pentagon-ANT.aspx?xy=rss",
+      "ts": 1795191923
     }
   ]
 }
