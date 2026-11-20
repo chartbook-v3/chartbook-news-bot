@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795137904,
+  "updated_at": 1795138062,
   "id_hashes": [
-    "96390145a3f408dbb5cc702986c1a58315a1ca411e77e197dcd9bd801c8ced30",
-    "3038f0898fa2827d28d8413896bf04937238d7e68abad84b683640acbe8630a9",
-    "04f3c1a12a2fb918d083e5f43687fb54be1d487e2882ca6246f9c2f4b12a41bf",
-    "70a58bceee517e557f8997620efef0d6100e262f04dd9e234798c7e6ebc44a92",
-    "090ac6258af98538b3d414ac6c9ddc689f534e4a9b4dcaf2619f240b2cff99a1",
-    "c1355bed257c20ebd2c710ec14d18c1ff552eef29492d5cf641d327689cf6a27",
-    "6f247f92fc4fc207ec83fdd5679d2f0d8f6c5213a231e7b69439782d9178371b",
-    "4a65ec8a46488845ff0059e990158ab0299468b5a32557c1284b82d619c75d1f",
-    "adc734e36c434bce481b0a0802d530454b9dfe07f3b8e1b8eb0086c566795089",
-    "5270cb2af86766ff0573ebca0417df6e0cea8dd0f739dbd38ffd82d8d39f582d",
-    "474b7292fe48c9020f5c09a1d1fb1845f0ec5d57bccb8874a37c6e54a2c541f9",
-    "6b758e4f7583f659b54d1ef611a6d49c1a90345706f9ae91eaa1173131b16092",
-    "7b9cc54e5d8c35c6bfbed33b2fe692ad7f04b9ad0c80ade6dd40f6700fbf5f82",
     "97ddaf489a848c88fafe2854cb71f025f8e57f565de9328dd0ba6da6336176b1",
     "6ce4269e03b447a61171f4d9de40aa66b2bffc21f969a06a5c3fd4ecea75ae7b",
     "6e15159f7ee64c5d6a70a48097c5ae8546ae374bff0f1af0a6fe8f0805b19d62",
@@ -4000,22 +3987,22 @@
     "3cfb3126f5ee13a5365f9d2ce235570dffb5b579cf743a2694bcf11abb1b1426",
     "38d7bbfad2f8b617079efead88b72bf8ba2f723197bffb5ae50af8ef9a85d4e0",
     "15bf2e16cc8276eb8a6f75ac4fcb621bbf1f64904edd7afb212e26124ba189c3",
-    "2b045f31ec88d415bd0085e8cb4601ccc6dde9f90cebdf6dcdff96de047ca2d7"
+    "2b045f31ec88d415bd0085e8cb4601ccc6dde9f90cebdf6dcdff96de047ca2d7",
+    "bd909bb5ab17c48835037c277541a8400aa8d68f067962801dae9394a35fd648",
+    "b85395bef1dd19226c176080b39c303d2330526ea4c7918bcab1203c4a06f73f",
+    "57765868e08b3ad66cf2d2c7559f5b5852fd15c91babd58dd6f352eabcdf3e57",
+    "c322a83ef395debd9f1e649d080ccfd5dd9795ec8a887b232a3d07e676e7ef18",
+    "cfa80c8bd853fc417cf11b8680661523d1e9f6fd66f0a5deea67425ea9fa869e",
+    "a48387d4cdf3ef121968b68da044775e156b53069d6b10619f06a069ada4565c",
+    "da99d7fcb6777c4a5a7ce9023e3fe0e3890fd30c8777e0f236acb4288eb0558f",
+    "c824d27c77cd00949ffac51a9798120f2b5984ed4902b1916b73bd400bdd03ca",
+    "b2afb5de90971e84adfdb4db5353f4ea23df4575f0cda48a60bd426e56306f92",
+    "a7385f8be8fbf4472dba8ba41a3ae27ff9ac7662a0ad1de175b9fe2fb3c3bba8",
+    "1dff8680ebfc1a84c16a7938e99cf5a7373145eff099f924493c5ef72f5609c9",
+    "a5ffd6c905306d375118bdf7bf292e1a6999f735c9dc85d90a815c050a1ce51b",
+    "a8b0cbdd161e1e239dd40784cf0fc794e2aaea6b8390d45904308bff9a475ca4"
   ],
   "title_hashes": [
-    "33969e32ccc3a3880c6bb58406119d1d125a383ed66b1f47ce4417156c8af5e5",
-    "9ecf2b3fa722b6762473f601a820eef79a8814e8a6ebea60ad995bb84a4919a2",
-    "f57ffa2211e1e4f54b13d9fe3f1c67234f2cf383eae2185de86b22796d8d2773",
-    "c2412a8823b39fb879794b372f452c5d93b2894cfed8d5443d301a05436f0bb9",
-    "56eb673af4e21a0aca784ca35891812d0cf1a311bb53d2016996bc765d5d9dce",
-    "215cc8b865a508d0f4b067b6e6a05308aebd02dfa39b0b772545c0622010bc83",
-    "018964e3ffe206052e70904833a885c2b16193796172fbd4736960291d2c3947",
-    "6aa275a9a9bcd2fe52fd4317045268cd872501ad50e5770d870bf1ed6941ca0d",
-    "7dfa25447cd0b91a7b82af611032243bc783efda969b5183cf1a50e4361f28ec",
-    "60058779bae0d9e489d0609936f6b4427f24ed58f9be752db46cade39e1a18c3",
-    "7f8f08fabdecb307fcdc2e74f6b0f1429aa9489acdff05ee56ad2911d2bf0661",
-    "d6ef57f7d8ef59e4a2a33e25f7fc4c6dc755da48804fc0b5e5f883713bd137f5",
-    "3233978ec4cc93abb168c78e9021af7994c4cde0a5d130b63ef63f604d313b87",
     "b9654c99f8dabb9272ad2fb1472410f7ef6646115827091e267fd5edd7e52ed3",
     "1610945bf11410d44a150a58dce50204e25ce76c3e17025a286a58e709b08ff8",
     "b5140a8ce53a658e7c3a123d75d19f44f1f8f47dbfa8613e7e89fa55ab4de584",
@@ -8002,23 +7989,22 @@
     "21e7be43b62e0a5775816ef0e75fe45e549f300e5aeaf7616ea7f2be01ca09bb",
     "b97574c9cd04c87a137d77fbc5c5e74ed620c704ac816c36e1032fde6cd7a918",
     "315db9fbf12c3641eb23b4e240f88211c53e11147dcca95ae95c2d537658a9a1",
-    "410f04bd529eba46bbe65467cddd4f6820b9bbbcf90916d4e59a8a4c52435c7d"
+    "410f04bd529eba46bbe65467cddd4f6820b9bbbcf90916d4e59a8a4c52435c7d",
+    "172c3d1097f74ddfe0d7a9f629393e61bbf9e65327d76a694ffea1c87803a9a1",
+    "33e574dd4c6804fdefb232a3c44f057f94fefcc34d7ca44c307cb539a6a0d00b",
+    "e4fc61c82d6326923b78e4bef927f8d22e15d30c78ef0c9b8475112d3a4072a5",
+    "ea0e4150c3ca5d1efcc102cde3ec0b9582f4e3c14b8ebed4f4005ba89639a547",
+    "24a47e6b3905162f4198c9a5e0d651bcd595c53074205c2d51146a6506f5f26b",
+    "594af898557348a268252a0ae31ee765323ebc5fb0ae77faa267d9a4e284ab8f",
+    "9bf48d2a821c234e2c9f24869f70b964058b9d10fa6022f1d86ff0f6043c5279",
+    "7a0c20b1982f95d98683fcc3acdcbee213bffc8666c8c2e0f95161811403e704",
+    "9f679d44e185d7a5a22da11b6c1b8eedd062aad4cda084518619505c39bb9e0b",
+    "91eb3efff940a495ea1e42cdf32b0933405b2c7bd5864b198bb5dda291b275fb",
+    "05b891e9d69a927b8dd1eccd89abdfa1652b9524a916afc42805e65ebe0d83fa",
+    "e5cba657fdb49c2a91e60a64776ec78af8708c3bf72d5181596548cffe637947",
+    "fe2f4c61dd6a321a34659cb39b66a805bbd69f6fbc4c42d2547e514d385fd659"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "周四（11月19日），美联储隔夜逆回购协议（RRP）使用规模为4.05亿美元（交易对手7家），上个交易日报3.31亿美元。",
-      "title_ko": "11월 19일 목요일, 연준의 익일 역환매조건부매매계약(RRP) 규모는 4억 500만 달러(7개 거래 상대)로 전 거래일의 3억 3100만 달러와 비교됩니다",
-      "url": "https://wallstreetcn.com/livenews/3202753",
-      "ts": 1795112268
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "L'Oréal and EssilorLuxottica in talks to buy 15% stake in Giorgio Armani S.p.A.",
-      "title_ko": "L'Oréal과 EssilorLuxottica는 Giorgio Armani S.p.A의 지분 15%를 매입하기 위해 협상 중입니다",
-      "url": "https://seekingalpha.com/news/4674822-loreal-and-essilorluxottica-in-talks-to-buy-15-stake-in-giorgio-armani-spa?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795112354
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Anthropic must generate more revenue than Apple to match tech-peer returns",
@@ -11504,6 +11490,20 @@
       "title_ko": "방산 클라우드 도입법 추진..첨단전력화 가속된다",
       "url": "https://www.fnnews.com/news/202611201019389061",
       "ts": 1795137839
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "수능에 나온 '强달러'…환율은 오르고 정답은 '1번'",
+      "title_ko": "수능에 나온 '强달러'…환율은 오르고 정답은 '1번'",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445709",
+      "ts": 1795137933
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "2분기 바이오헬스 매출 13%↑…의료기기·화장품이 성장견인",
+      "title_ko": "2분기 바이오헬스 매출 13%↑…의료기기·화장품이 성장견인",
+      "url": "https://www.yna.co.kr/view/AKR20261120059000530",
+      "ts": 1795137997
     }
   ]
 }
