@@ -1,23 +1,6 @@
 {
-  "updated_at": 1795136036,
+  "updated_at": 1795136185,
   "id_hashes": [
-    "6c52e9c70f393a0c6be02917f49ac041658bc923f002de3bf1f9f3acb7cff55a",
-    "26c8c56d90f3295650d64c9c6d0c4d5f40d4f84154851320b898043116b07073",
-    "23ef405097338dd290f20aba9f3e6abe82cb16d34ae65c8e0abdde89250ddcae",
-    "53aac97bed177a958c1dd16202a4dd48a1119334234b959918d048da38e3ba3e",
-    "c3377b8067f16c80eaf9e89df77fdc7e778282546bd4ac9e7a8d0ed487ed9c2e",
-    "d9313d429a7318353e9218845692789a528ae2405ce8156b30bf2616d76b934c",
-    "205cd662b0af8ad33947b5b7db9f9180768effbdc925d2ad758e488e079baa8c",
-    "67ab581187d93a1a0d38afbc1ab50fa78a2dceacd62db8fef6274d681ea0d714",
-    "bf63d770358d0454ca48403bc5e73aa0755aa6bccbf9fa50b755489cfe9d1eff",
-    "cca771ece272c8bf7ff0f0d80848003d0769feee3b27d082ebee40bece1a97ea",
-    "d92171a929aa64f5453aa4780d992f671d03a1100729875a52c0fbb2d671c0ef",
-    "98e4480efe390b01dbfedee628592523c47289318523b29cde885d77a8de768e",
-    "9ae6cc81ffece5d56268ca7678ccca30df1543ce5144ff540f5aa7050002ebbf",
-    "7586455f87baa6fdfbf01bc8af4d2b87f975988af6d3c81c24c3cffef9966365",
-    "403ac0be39774585f7abd76db0cf93bb193d1f9466a4de3ea837eef6d81a5952",
-    "7ddd472c6fc9d5053f46ec6bb71d3e13e5d80bff6fbceb0a263a469bbacb5c01",
-    "a1a995c674eb46653bb32dae8bbfaa4b3cef18bda62d0d9790c790cff0b9797e",
     "ed86f329d5216961b54ebc84f8425dccbfffdda6b0015d01d3eeebfecb3303ec",
     "ab48866850fb875fa0a2ac0962708728ef5bfcfa4502c7e986406c06398fd2e9",
     "ac18a590d9a351469b269fa4a70f963259c5301dab5232785cbe31bcfeb1a839",
@@ -4000,24 +3983,26 @@
     "31a405f74337573c3f717e2ec691a2a1d49177b1d1eb819f41a03db1d53d0cb1",
     "b0a16ab45a5006b455b072fdfbe2e064a34bbd8dc61ae49439dbba108f1daafb",
     "6374c4463b89dd2f07dfcbcf6d8aa89740044c993bb1d845f78ced45b001662d",
-    "f49201961d95b803e646a01e4cfcc37d7b28fd4dda371ecede1c4f3bdffe2d86"
+    "f49201961d95b803e646a01e4cfcc37d7b28fd4dda371ecede1c4f3bdffe2d86",
+    "76cee47ddebfd23559852583f1a20ff79a93377440f253a7f5c4acc2534a8914",
+    "1d1539b14648b1a1c47b512b60639c608a05d6f3cdca3936a13a21572bed5b41",
+    "3f21b90d57fb33f99e929aa00a8fc990089eff7c6ddfac2f467c3cd31ba12291",
+    "93ae6b755e79e9e3201b780b7fda3159c6e8e986316f15c8080b8cddf6ed5c21",
+    "ac1c762d4ec36d83c1559f5c04150ea8273e194a6a9469cec31d581b1b4da645",
+    "e12b06a0e1607975b0f3155c5cc2bf0fc0567e4408bc04d5b242c9f9ce7f3057",
+    "e4ef8e71275d38ae13305aa8e6931a8e8b2ab38cf60238321a0483a43f94a544",
+    "e42a952cd7cdb4517006dcff47872c28b1d6b73ba0a7ec361ad59f08d4a13646",
+    "77870c378d9635e857211e349a93686378ef3a4103d806663fe6fb717d13d956",
+    "b42e15e04d91e3aae8502ea86e1ba8252775222aea98391a3bee129410ed00a4",
+    "8cc0c610d77a583ea07ef2613a52aab3e077096c227904ed43fb86257748e66a",
+    "2d310c756f10e30decd254cdee0b35a2f488f0172be2fb82f31eeb50cf2da141",
+    "d03d8684cd8600fc3a2b703a4e2055ca7e3bb21d4c030502ca7206eaa2853164",
+    "c047c4dbf0a2ceb06a02b07f847e3f3c4781081ec39d99f1f0c61528664ed118",
+    "3ad32d576e6a59f8d8839031ce6dce413b9515520f22e75cacd3dea49f4b1202",
+    "3710df7480fd1caf1cfb0a16e6118a8024b0cf84feb61ae106937ce0c2849ec3",
+    "cade3acdf0c4f19848686b8547fb82ba8eb9f9f384266a374d8d0887bae3d709"
   ],
   "title_hashes": [
-    "b66a5d19bbb71b57e8e05829179ccf32c68a3c66a3e051b698b8da2823126b18",
-    "7ddb1c413285e66cc45d8756e078cbd19099a77f44f1741470f6e8099be48466",
-    "39ff2f9d966b4d93321600182cf2d2d52483594df8c5d96b3d1d9bc03a476c4e",
-    "d1bacc4e879c7741c8c4a2f1299b6339dc17cf642fc883895c3f5fa7399b778a",
-    "b56234d8440ce513a36428008a46c6ad0d42cdca91fec705b69f4ab8eb6580a8",
-    "5b4373c3eb50efa6918936cc6940ace8e2b4d67e21c3c444d0cc9ca118f60849",
-    "62193e9edb69107445cc58385b6f1be9a0b355fd9929a58dc039ff4e131b3059",
-    "01a8e605cd2d055431d8cf3da3b6ba2439bd895e2bad0f4b53c48ec7586f60ba",
-    "8cfe831cea38f8f7afe75ea53434a7495be871baebed44ec9fe0fb52df6d30f1",
-    "cb365d6d1317e836b9c782ee7066fd32e6d2c0cc59632bceeaeb680b62e00d1a",
-    "0818690071f30568c3a33ad2f813862fa457e167d80730c56ae130d4fc8e4fbf",
-    "0808f167fee10c7f5a6335a3a55f842120d7101474d0c4c37813d70299d0bb7a",
-    "717a4b7bf318ccdef73fcf73dbf581477ecd6da9e353ae182247fbec79933f37",
-    "49d2fc1ec4097f229007fb615dea346cd815fce96248e5436390d5f4468486ed",
-    "875e9b789d7a10558aeb9195d89caef24a299a99917b285e1328c3e6cb312e3f",
     "a92ebe8a74775db5f3d2d85180d6db13b34852e170bc73fbbd8041a67328915e",
     "2cf28ea9b1e5d4f759990ba00b742abc1df1b6c1fca91cc5511c02e3edf8379f",
     "882897dd44001a4dda6319125e823943e7ed5156e4206a5742d8d4b9e9ea72d9",
@@ -8002,37 +7987,24 @@
     "2e818f296dc57f8a15f4baacf55481aeb7ff0ba811c44e8aa8b54e21ff74cd1d",
     "aefadc968634ffa115fe1ba6a62223823cde323874cb37513341146cba32303c",
     "1e9ced6e129f6f096b5ea5a5c00805007859e2ddab637ead61ac0336251007ff",
-    "2ff76efc8e7b318cd6bb4a793a0d995f0ba80e404a7f5f8d32ef0b0180bc2555"
+    "2ff76efc8e7b318cd6bb4a793a0d995f0ba80e404a7f5f8d32ef0b0180bc2555",
+    "1588b794188e2979605a44cf3735d67ef05084adab8586d647340eba3f8c8513",
+    "af3b664e02171b1144346f442d63529ef0978f4e93cc12ae887c29f968a57178",
+    "f33143822f26ac14928d4b3a868417516865040252dbc59ea223d681f776fe63",
+    "76315c933e578d5ca4d614bac2eb5e7b8b94a4377d50783fc41675fc3f3c911e",
+    "5ac6012fe66dad83c767d7f248fc2d85ab0f946a4ea84586b89160259f650e17",
+    "a332b6af9bf38abb3882409c73346b61004c75d9cebb40a20fc70845b0920a1c",
+    "c78c4018589d92c046412f871987d128cbd4a71c46c49f98e34e81a4c832e887",
+    "66c68252c835eade96d1e9cc2dfa473c967a1132a379cf52891a854ef624d2b4",
+    "98d5bd68afe6b39b68e4648069aa459a1d2094335bd7d09a798e7fcab628ebf9",
+    "c94b623db480848d68ea5a7bfb7acbf445e0b47817317d48c6b1ac94b560b686",
+    "b937b3115774997ed819858d27bb7fe265e2027955da1b9c43882d542c27c787",
+    "7d622cab9cf7e418804547caf7ce0df0b895b25cebf2de8decc1fd6bd980d452",
+    "4de1e524b66710a47c6b9270ded2abb82fe35a889d5341342b029adcf4ae28cc",
+    "665ab29af8181a2974e824bb106137ba719d48be047d9799d132fc2592daa34f",
+    "3ba776afcb45b1502c4b2a82ffbe9164ea93869b8143f255ab900871e5411170"
   ],
   "recent_sent_articles": [
-    {
-      "source": "StreetInsider",
-      "title_en": "DOC Brands Announces Acquisition of MOON Oral Beauty",
-      "title_ko": "DOC Brands, MOON Oral Beauty 인수 발표",
-      "url": "https://www.streetinsider.com/PRNewswire/DOC+Brands+Announces+Acquisition+of+MOON+Oral+Beauty/27375372.html",
-      "ts": 1795109021
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "AstraZeneca Extends Tempus AI Partnership with $200 Million Commitment as Analyst Weighs Multiples",
-      "title_ko": "AstraZeneca는 분석가가 다양한 평가를 함에 따라 2억 달러 약속으로 Tempus AI 파트너십을 확장합니다",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/11/63444528/astrazeneca-extends-tempus-ai-partnership-with-200-million-commitment-as-analyst-weighs-multiples",
-      "ts": 1795109053
-    },
-    {
-      "source": "The Information",
-      "title_en": "Google Selects Bezo’s Blue Origin for Data Center Satellite Test",
-      "title_ko": "Google, 데이터 센터 위성 테스트를 위해 Bezo의 Blue Origin 선택",
-      "url": "https://www.theinformation.com/briefings/google-selects-bezos-blue-origin-data-center-satellite-test",
-      "ts": 1795109181
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "苹果公司iPhone摄像头与图片软件主管离职。",
-      "title_ko": "Apple의 iPhone 카메라 및 사진 소프트웨어 책임자가 사임",
-      "url": "https://wallstreetcn.com/livenews/3202734",
-      "ts": 1795109205
-    },
     {
       "source": "Bloomberg",
       "title_en": "BP Said to Weigh Divesting Its Key West Africa LNG Plant GTA",
@@ -11504,6 +11476,34 @@
       "title_ko": "삼성전자 '전영현·노태문 투톱' 유지…안정 속 세대교체",
       "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445695",
       "ts": 1795136035
+    },
+    {
+      "source": "디지털데일리",
+      "title_en": "“내년 코스피 7000 이상 간다”…삼성증권 포럼서 자문사 대표 3명 중 2명 낙관",
+      "title_ko": "“내년 코스피 7000 이상 간다”…삼성증권 포럼서 자문사 대표 3명 중 2명 낙관",
+      "url": "https://m.ddaily.co.kr/page/view/2026112009152984054",
+      "ts": 1795136054
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Opinion | The Astonishing Wealth of Anthropic",
+      "title_ko": "의견 | 인류의 놀라운 부",
+      "url": "https://www.wsj.com/opinion/the-astonishing-wealth-of-anthropic-a6bb9746?mod=rss_markets_main",
+      "ts": 1795136057
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "[특징주] 화장품주, 韓中 관계 개선 기대감에 급등",
+      "title_ko": "[특징주] 화장품주, 韓中 관계 개선 기대감에 급등",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/11/20/WZYLCDPC6BFEVCKNL4XM6VFNVY/",
+      "ts": 1795136117
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Anthropic IPO a Success But Indexes Drop | Nov. 19 Review & Preview",
+      "title_ko": "인류의 IPO는 성공했지만 지수는 하락 | 11월 19일 검토 및 미리보기",
+      "url": "https://www.barrons.com/articles/stocks-today-anthropic-pops-markets-drop-99d9edca",
+      "ts": 1795136184
     }
   ]
 }
