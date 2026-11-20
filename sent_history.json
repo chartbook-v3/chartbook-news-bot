@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795208018,
+  "updated_at": 1795208166,
   "id_hashes": [
-    "d435575361bf8f172d9bf0447062a5a9a96b3ec69ac583692c6aa18d33991d46",
-    "19daab0d62d99680c9917d84921c3879e0de290eb85b48deca869fb817b2dc18",
-    "044a3a46142855b676647b7ecf9c3dd33d03b1a5263a669f676a5acdffc1f2df",
-    "860a65be19d7da7f53aa75087a0c0ca3223f58bcfcd507ff802e4e3d0e3fb896",
-    "823222ee3ec0e3aa972a8dc1b361f38be228ac4b45b9786fdf3c2d2424b8f55b",
     "467028733ad6526fc20351ac90394a1d435fff0a1b8c117cdd025f4109b015b9",
     "d03c1e1f30e51a193c88d5a173cfb8f5529949049f0331252e3fe025dc8f0e7a",
     "b0490a4a2f5a2f39031c69c3c4592f62cd4ae3c5f64e72e496a3b087ea9dfbe0",
@@ -4000,14 +3995,14 @@
     "e6808a370ebaa9023fe3c843fe70d6a1fb612ffd1d0acafed2ef7241946ea047",
     "254e4817a0f0af2d859ad5ac21f984ec91a7be0728012f0127f0ecbed66d8f59",
     "553811b090efbf6b8c8bdd801375b19b1e2e292ed45b65fa84062208bee60877",
-    "8ed7f6201e19a52c8456b87dc43fbff89d1ede3c556a4527cfd0fb195e65140e"
+    "8ed7f6201e19a52c8456b87dc43fbff89d1ede3c556a4527cfd0fb195e65140e",
+    "09d142d815e34ab30b1938ddbaaca8bc37eafbff41dd5de4d9259f04bb313348",
+    "4590b8cb2e6c36fcf0c5e413d6a80417ecde7f1fa10f9e03dda005b5f39f28fd",
+    "4de9a2951a23c63c39435cae3b850b82fd9f36372b1ba0ef87bccbcb9c7b949a",
+    "ece262e8659f0b6e78861b2ccc0e7f99f0c959b50df1f1302e3f85a22f64e94a",
+    "bd1ae56182423a826a43e92c3b3ccd8c1f73baa5edc206c4ea3ef944cab616fa"
   ],
   "title_hashes": [
-    "a51f8ec4d8dd2d8a8eeccb042be5cba4bc3759d7ce2c4cc46b16692456766101",
-    "42d25215063957e6d6973657807806d53f270936e188125348563e0fcdc9b59f",
-    "39927b4309217342652f542c86d0c562c443efd35fdba506537ff7fd2898b3b1",
-    "575dfeec7cc6f4a92f35d8edbdf7a4ea3153d8fbe3644cd042452803a36ebbaa",
-    "2d9e47b27e6961e1700abe921dfef061499f659083e7717d5e40d14a1b95a3f8",
     "31e7fc46508a881511b00b8ed4cee98cda2fd221b9348030dfd9afdfab7d69db",
     "da20fa219f4f19de3e1bedb4c283561c62180ec5169a59f6a66565cd3e903533",
     "8eea29370fb48825b72844d8071e835b298957edcbfa37524ab0793b7b564073",
@@ -8002,30 +7997,14 @@
     "97dfd7f9b2d9ac1b7c11e34d9fa545c65067b82e7207ff36e7b1983db0a9ef5a",
     "09808f1a54856159a85696ca39cd45318a08fced7fbae5da6bb7e8069bd50d46",
     "a6144014f76ff0118ba95383430747595d5e6c177ea74af0703d7dc92f4cf9ee",
-    "93b29b2d40864249c2c6c15a59c3ce50c205df6e2f2e8076d45d514d85817b2d"
+    "93b29b2d40864249c2c6c15a59c3ce50c205df6e2f2e8076d45d514d85817b2d",
+    "95d612de297baee8eb3daadc9ac77336267833e43ebb439a8260102452dd0246",
+    "729173a44b5a79e9908045078a7d8220c4521100ba5cd1aefd8cc6b684931a4c",
+    "902b17864c913e1579a0681ba691b4aeb486b97dd4e13be1d67267e54adcf947",
+    "0dee9558ff96fb83dd9b36246f41c4ef5db0132377b4a2fe538bf381d5be406e",
+    "f36692c71c1e2386235769a9ecc6d4401081399e0b26b99d11a0c3ee0f1fd4c4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Russia-Linked Influencer Under Guard Amid S. Africa Escape Fears",
-      "title_ko": "러시아 연계 인플루언서, 남아공 탈출 우려에 구금 조치",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/russia-linked-influencer-under-guard-amid-s-africa-escape-fears",
-      "ts": 1795180232
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Chuck Schumer Blames Trump’s ‘Disastrous War,’ Tariffs and Trade Dispute With Canada for Rising Thanksgiv",
-      "title_ko": "척 슈머, 추수감사절 물가 상승 원인으로 트럼프의 관세 및 캐나다 무역 분쟁 지목",
-      "url": "https://www.benzinga.com/news/politics/26/11/63468467/chuck-schumer-blames-trumps-disastrous-war-tariffs-and-trade-dispute-with-canada-for-rising-thanksgiving-grocery-prices-says-american-people-sent-maga-majorities-in-cong",
-      "ts": 1795180234
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "EU, UK AGREE DEAL TO EASE AGRI-FOOD TRADE TO APPLY FROM MARCH 2028",
-      "title_ko": "EU-영국, 농식품 교역 완화 합의…2028년 3월부터 적용",
-      "url": "https://t.me/marketfeed/1082520",
-      "ts": 1795180236
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Intel landing Microsoft for EMIB is a 'positive,' but level of importance is unclear: Wedbush",
@@ -11504,6 +11483,27 @@
       "title_ko": "인베스코 S&P 500 UCITS ETF(SPXD) 개요",
       "url": "https://www.barrons.com/market-data/funds/spxd?countrycode=uk",
       "ts": 1795208017
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Chip Stocks' Worst Two Months Since 2001: This Week On Wall Street - NVIDIA (NASDAQ:NVDA)",
+      "title_ko": "반도체주 2001년 이후 최악의 두 달 직면, 이번 주 월가 주목 - 엔비디아($NVDA)",
+      "url": "https://www.benzinga.com/markets/market-summary/26/11/63510066/this-week-on-wall-street-semiconductor-worst-two-months-since-2001-nvidia-correction",
+      "ts": 1795208040
+    },
+    {
+      "source": "글로벌이코노믹",
+      "title_en": "기아, 2030년 인니 딜러 100곳 확충…내년 하이브리드·신형 MPV 투입",
+      "title_ko": "기아, 2030년 인니 딜러 100곳 확충…내년 하이브리드·신형 MPV 투입",
+      "url": "https://www.g-enews.com/article/Global-Biz/2026/11/2026112105384260992bd56fbc3c_1",
+      "ts": 1795208045
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "US JUDGE APPROVES BAYER'S $7.25 BLN ROUNDUP SETTLEMENT",
+      "title_ko": "미국 판사, 바이엘의 $7.25 BLN 정리 합의 승인",
+      "url": "https://t.me/marketfeed/1083003",
+      "ts": 1795208101
     }
   ]
 }
