@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795207404,
+  "updated_at": 1795207561,
   "id_hashes": [
-    "a2af4db72f5e0378fce03bbabb475bc2dbdb5eb4b0505b130662468c8826a2fb",
-    "77cfef32ba49c0a0b48fcb7e44fbed31550c93a8dd5003f5483146bf6272e5d0",
-    "d8e7dc23dcde7006e16ba5ffd47781de124df6e26cced598cb3e83f2186c8924",
-    "ce03b0c03c25e60e36d32279b9f26966dee4754794c594e671bae2c1b2da3c04",
-    "d9c1759fb114e5c46eac5f4215d5e1b7bbb1bc81912d95ca44f58f31144b283f",
-    "7ad090db38b8c495fb32f088e97a004e876d5858fd92c40558ed9da1dd435113",
-    "1c59536b3c439018ba4ab2fce29277e8acc2beb2432c44bced0ecd840a52e4f0",
-    "b9e7caf4126c696544f83fa4c7400d1cd3a7d572e230178b7368a4ee31f9e8ce",
-    "6b4f096c0fec70650466b87867d6efa7804d80a8ff4a76b24a86c73335d25cd2",
-    "c161af1a44fd61cb41da15e5a48bdde7d477a7c6564f7b5b6b850dc6ce924c94",
-    "74db75579b4e97764f62b75aa86624e0fd5449def2f07a2f3d816d9edce2880d",
-    "cf39cb31c226e10200987026a5ea287f53e10b359b54480f08a6a04f369ad4b3",
     "35c645e4e73878734e3a3057d8e065d06453ddb7590273c051f9e5571995c089",
     "3d82d7707911f5cae626eac2d578d9c1e475b0208d092183932b7f2bcc39f92b",
     "f49a56bdf305a99650a79a8bc9043b038e4de8ce404bc7172f5dd896feb99b55",
@@ -4000,20 +3988,21 @@
     "6df7541adf99bf7b04f17ed4ecf81db01a7ff6554ff042cad573918c8664c4fe",
     "56e78c09b7ee5114edfe418c54ecc737904092d7aa6228fcd9588093089c50c5",
     "82abd12945a39cc2bf9ce9d0324a439dd59a640ca49d67b845fb3b6cc0236ba7",
-    "65fc7c4a69e55a389fbe5c3949697d0301bad525af09a4cbf7a44155ee2d2d04"
+    "65fc7c4a69e55a389fbe5c3949697d0301bad525af09a4cbf7a44155ee2d2d04",
+    "aaf72fc3c5bc567c7eab65a9838a6d431c26729f7ad32231127c8d7d13d419ee",
+    "3e11f40d17b2cab3d89fd24aa195377232b9293918a879c9b06c14fecb1ad719",
+    "dd189fb04731dea6b6ffe75cbdbab73a030e73f1e21a1e5d3f6415dd9d55e15e",
+    "593f09739128574a4500492b595105b3ee8f1b039c501fd261801e62cc0d452e",
+    "e4c789cf2a27630e68c439bfe6b2f3d3b50d106a31148351a677ac1676ae77ff",
+    "99a6a81e3de218afca39fd617923f9cc4bb0ae8bf93850349141a898ae96a81b",
+    "ad5add10b2598a592d95fbefe7955f46fdeac6b58f0251e68bc172c2d145f455",
+    "d6f5374e13802d125f7322fdd18fd1e8235e72b8148a21918f7ae2092d45ae86",
+    "65ff76198b45fab1f91c315aa35f725c91f24aa212c4c05fad505b1721915a5f",
+    "52bfd6f25eca544d6b0e686872bfaf549349f1024f21eee7a22766b64dccd980",
+    "77d9b18b1990c19c8de9c921b635b264235898ceaaa78dd0e123e3ae071e2299",
+    "4177afa9565eba3e4e9ff9d1d59f3d7e58b3a638b4886c4cd5c9b91efb489fc6"
   ],
   "title_hashes": [
-    "ef6ea45318a7e56404ebfd39d854a6785c3986f2d11cd627104380ce2b5eb15e",
-    "052bec64c53b7fab97787fbe91bbcb0a6ed121494c1248e33ab0df9ced8a30ac",
-    "d96ecd0a7b2be8d7b21f10b585c0ea9fab46aa1fcd1695b089b5d18f943fe6c1",
-    "14170e63d6733723a747eaaae76f098dc43680d34a59abd10d9c05e08409a13a",
-    "d3b03a84ea4d4b7806b34639d9ee8c7d7695bc1bcff5e4b72e8c2ba0bb8e25cc",
-    "ac8c3656ca51a1086015b2c5df37b7f4521f32fc161ab250e572c2dc42fa97f3",
-    "39513f3e042c71324fb28a3a716cf2e4439a668b77b748ab1256df28a553b0da",
-    "aa51644198cfd82e882fab4af06bfb7661d3b05f7aab3ef5f2fe784dc7c3a4a6",
-    "61e84a09700254351983ca9e533ad7a5a792aebc6e6171efdd559d9accc5e4c0",
-    "31758000b32c88e70a583e7cdfe6c6437852389faadc0f679c2b63ac8c85c556",
-    "ebda6cd74019e1d0fd59ab0d20aa528b2fa27499831eff6fd8e6edf2dd59034c",
     "9c6bb2bdcf60be4d23b36f24ca9b60ac00b82fac7d8a341904a55fc12620122c",
     "16477e6ba7811d5fc61d9c4ba8fbe2afa833f019bbb4a09edd08afadeb9100ac",
     "ab5a972d3af6112bbcbe8dedda48c097c3222de4d392bee7068bf06ff5c2d221",
@@ -8002,23 +7991,20 @@
     "98b690a130cf78178803e83a765e1705ff21b28c0200749f735f422c4eca59c9",
     "cd10c6904496db29943762419e7d1add2da929a3c29c996626d121c6b16aa919",
     "7ef61fb171ee7ea4ab839ea2a1fe407c6e831c8611bd4d68a87ea949ed453ee0",
-    "cf095598283cb09901dc221c80cc22c1bce2b36f050485537dcc9b68d88bebb3"
+    "cf095598283cb09901dc221c80cc22c1bce2b36f050485537dcc9b68d88bebb3",
+    "1b810055f3d3df8254e45bbcd59965c8ab56d33ce54445fb46f0cc6eebee9c53",
+    "c0448c9cf6d7faa7ffbb2b37a1d61051ef0824922e84210a18dfbdb138a1604b",
+    "6e876fd9c1c8f4e8b6e3949664151b874bce97cd01dbd96aaeb88086fec6a9c6",
+    "f029006cd0349143e9bae94c424c9ff46944f3c068c900f6959d389e83c04dff",
+    "1acc567b830e204c567783de24313902d127ab93f5a90331326618b6e9831f41",
+    "1485c13a55d33f1f6679d65d5e75284c957b25e443bd77b4431ea2cf4b31e95c",
+    "42cababc52c94e18851506d104816071e2137db038124f08a477e5671a2ae422",
+    "e30e881b6c94a50f4dc421cdb8e53d78ce1971a9aded3fcedd2d3f09b0f57029",
+    "6a1f892e0f647c21998c7cc377e24fb22c0694914d8fc963547f477deb5fab66",
+    "4271a8e3be37a3802f8dd4f56407af7c71eae53028f98d3b28b2bc0fc5b4591e",
+    "ba56971de03b82e5520980014ccfc4e06174fc1ac494cf20e9290e24dc428514"
   ],
   "recent_sent_articles": [
-    {
-      "source": "매일경제",
-      "title_en": "블루문메탈스, 오리건 터너 구리·금 광상 인수로 미국 핵심광물 포트폴리오 확대",
-      "title_ko": "블루문메탈스, 오리건 터너 구리·금 광상 인수로 미국 핵심광물 포트폴리오 확대",
-      "url": "https://stock.mk.co.kr/news/view/1203413",
-      "ts": 1795179753
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "PodcastOne (NASDAQ:PODC) Launches People Pleasers Podcast hosted by Comedians Leah Rudick and Jessica Michelle Singleton",
-      "title_ko": "PodcastOne(NASDAQ:PODC), 코미디언 Leah Rudick과 Jessica Michelle Singleton이 진행하는 People Pleasers 팟캐스트 출시",
-      "url": "https://www.streetinsider.com/ACCESS+Newswire/PodcastOne+%28NASDAQ%3APODC%29+Launches+People+Pleasers+Podcast+hosted+by+Comedians+Leah+Rudick+and+Jessica+Michelle+Singleton/27378988.html",
-      "ts": 1795179763
-    },
     {
       "source": "FirstSquawk",
       "title_en": "SAUDI ARABIA: DANGER HAS PASSED IN JAZAN",
@@ -11504,6 +11490,20 @@
       "title_ko": "CBOE 변동성 지수가 상승세를 이어가며 2025년 4월 이후 최고치를 기록하고 37.49로 9.05포인트까지 올랐습니다",
       "url": "https://t.me/WalterBloomberg/38860",
       "ts": 1795207402
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Semiconductor Stocks Head for Worst 2-Month Slump Since 2001 - iShares PHLX SOX Semiconductor Sector Inde",
+      "title_ko": "반도체 주식, 2001년 이후 최악의 2개월 하락세로 향하다 - iShares PHLX SOX Semiconductor Sector Inde",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/11/63508639/semiconductor-stocks-worst-two-month-slump-since-2001",
+      "ts": 1795207432
+    },
+    {
+      "source": "The Verge",
+      "title_en": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+      "title_ko": "유튜브, 30억 달러에 소셜 미디어 중독 소송 해결 준비 중",
+      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+      "ts": 1795207558
     }
   ]
 }
