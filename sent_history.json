@@ -1,21 +1,6 @@
 {
-  "updated_at": 1795215326,
+  "updated_at": 1795215482,
   "id_hashes": [
-    "9ab6fd383306a303982a31c606d905b1bbaa44eb8ecdd61f1f51f25159a76ff2",
-    "e30c334ed2590dcc19cb77b251691cb40e354598974abe6a0b466680c6dcb8a4",
-    "0a89f62b18a4d937c37ec3ab356b9046fb6cf7bb18c80e8ddc6dba89de02a84a",
-    "70693b7a47ddadf903200a8beae36f201dd8d2b9b963601f7032dab94dd84404",
-    "3654bc121d6eab739652395c613662e1a408860f88d6d6c2fee5d2f5ee8f66d0",
-    "280c139483bc2eb47cf549806d5627a1ef3528e1a80e6e23ba9e3c3871f3dd3b",
-    "419fbf814a6bc7bc6b212765f1e48d5bfcaad31e8678ee8b80b1b4d29b6d069e",
-    "393d100b75f4defbc00c55b11df4648f59a10a0f76894820753d546449185226",
-    "3bf2ff64526d6fa9ce6d566da75ab5ab261d52128204375ee154b908c2de94c4",
-    "086d6c5d12a053e74b2cdc09fc342eecab9516589be21991198b41b4af56d738",
-    "15528925dbae2ce25da34110962e5d5287dfb1ebe693a414a78b43005b34d15b",
-    "e35af5a481ad77b48d24bbecccea816ae9ca284205022fd39448ef328d5b0263",
-    "80c35532f0ff2712faf68cf7edfe7b388391040fa940bd3c1a0a78169c544fea",
-    "905dcc0dcf4b45e6da57feacea80a164677076e379c2731a57f1b34e7d5840dd",
-    "24618716e264f1b7415042d5e1e45a541bdf9377ec75b74f48844064d8fa5e27",
     "2c60aaa15c7c94393500a8979456f0d240c98fb360a94cd143e3cb6504f60bb2",
     "c245edecc2dd0043340fa16cf713c3b6bd78b5ca520274fc8c73c76de6127ee1",
     "d4237892bdcb75acd164edb9a0f40aeaac55fdd98263420e07f665c258d69ba9",
@@ -4000,23 +3985,24 @@
     "fda79827ea7d6f5c48f3f72a25fce22a8c9b21ee4ce23942fde03a25e4b54076",
     "f71f66d583248cab90e0ad0304f108beec77ff9469f25924613295cece262955",
     "29776b7f0a84fb7080a2fd7bf771e8a7a76a8e4853bb675c92c8a86de7bb9633",
-    "9c53ffd56275b805072d58f60a47b0a4eb34f0d32c7db6333476e36fdb4e0d73"
+    "9c53ffd56275b805072d58f60a47b0a4eb34f0d32c7db6333476e36fdb4e0d73",
+    "1de0f5fea6b3f77af03c98934616d891e4c12bbcc9ab8c11bb95e4759a465520",
+    "d4e03829881efd6a7a2781aaadd1e6126e32bb80eb2ac99be817d342fc98637a",
+    "369ada93b17467f4e3e4fc5f1423bb05bbcc057cd52b3bdf40ba5581dc9d7d16",
+    "153ab4374b59d444afc189b0fe333fb82e3cd198cfd1c308b902677e4fc34d97",
+    "6cd41e3fe9e510fc098deb669bc40a80b885ef9fcf2cc9bbf02af5de69f897ef",
+    "e537cf704d9141f0f4174a0b57122f8e62a844850d1e8c9715513a92c76b29a2",
+    "6a76b0434daecb6882023d69e254c9d975d21bd27138409f1d89d5cc854d4273",
+    "f60442e6d92aaaae7009b6231ed05cc120d094282e985ef79405206d8c67be91",
+    "3b91516aa2a935f4492ca75f1e7a0960a376de903ec0d68a00b3d066a27ecaa3",
+    "6b43a04df720fed2b45246d2a60daaa876314daf2d8fd73e00b7230205b54269",
+    "9e83d5af3872436a3abadb4714018d2245d9e0eaa20b421be5be9b87077fd371",
+    "e14096d3991dd16eb8bc3076e547db888775454aec74b6fb6ab745bbc087cdab",
+    "bbd353721c161c4915a6379c75ad95cbd40ad6a0709813fde77506e4fd359397",
+    "a89cc0127c7d89574bdaf15df82e9a7acb07848de53fe6833a38b17c568e0fe4",
+    "7a5189e3a7031e237ce9cf44d8b4d9cd525742c6cc5cabb85c3b403a3cbe155b"
   ],
   "title_hashes": [
-    "be8472b12113f170155abaf20298024059591e331ee41002a83b148ac934cef8",
-    "839dc9e577f82de715586905374f858e313b944dfc3bf6eb9bed8b4efd1c4baa",
-    "5ce0165be4479b730d6faec615d34a58463716caeb37ca54f368fa9cc91eadf4",
-    "4390f079d037e53eebc888ff2ed480d5d08d0006d8ea00b792faedbc350c208e",
-    "280f91882221d4c8d67892cfd443abe6a593cc8a2d6f7cea14a7d3611e3bd717",
-    "1baeaf0af0716e4cbda730bf85d94764bcbe8b6bff2f202bcca07a854f828bd6",
-    "c4f25f25c1f5b78fdef835d95e42500aa8d324c0897056a23050f52db099762b",
-    "e5e9cad000ca533bce7310c2fcfdacbef1f72cf6d155554e84c2a1c8d6dbf455",
-    "a9d2f88de5c258738eaf29ced5549ec7826428cc7b17ac59a23f7ee28a9ff0bd",
-    "79c5714243a0880d09dc48c618aa538748bed88a8be6981957d6c2c9392ad300",
-    "7354b18b227fdf55f1959860b6bc75f51a762cbd9fc4200634f99646a9a76cd7",
-    "05dce7b31abb24112dba2ed04e2b532b71f84c7ebce390651a5668b34678c570",
-    "a921e303b3fd6cbae6043bead9fe4dbe36c478cc0c03b2d92284dda53b248c4a",
-    "a6631394b4d2dcff945ae35baa7230e8cfb9567c16230e9e86ef937473ea2b9f",
     "de1c00f2eb4e24e69d64b70ba9ad23a5c4156484eab7f58db0e5ad3a7b8cff6e",
     "cb864b9507ca7d92d9a139de092956a229fca2f08e091e109c2f0a520db19be9",
     "41710d89d7d19fe8e522423129a796e5c98d5dfeb5ebe4e8881e5f4b3955b67c",
@@ -8002,23 +7988,23 @@
     "1a2b445f23ab4dbb50d4c37beec6fcd523a6a6bddc3af44f22050b8636f3b479",
     "744cf16414b366ab8ab2d57b1b7d99802fc55a685f65df8b2b1e16c0955cf64f",
     "f476612f441aee8a227ccd7dab227f6ca37d2cdf651b72e15b4b0c29765537ca",
-    "57cdb97c053ca31f968a00f23ed120bb8a1bafe615059e4845f2717273d4dbb4"
+    "57cdb97c053ca31f968a00f23ed120bb8a1bafe615059e4845f2717273d4dbb4",
+    "426f422da95c558b99b53d25f256b66592235debc9eea619aea385b5eb69583e",
+    "f4d1bcaab089f6c36e684f365044722a603b07cf707bd0f922bfe31bacd48449",
+    "009b162fbfaf687d8f5a1bfb00d2845ca5f17975b7590dd0799162e5dc539b6b",
+    "c42d895e0d87aba99307223ba8657dd5d89d5555a8a6a05bc0e2b8b3e73ddf14",
+    "32ae6a34f562d79fbc118f9d6af669669d8bb22edaf425f434b14ef5f15f576f",
+    "ad7eb151cef14a3f05fbb8a2b54af69607dd39959fdd4e8950eb19687afcc94c",
+    "de0c9856103eb051c6b06bc88785fa2db1ceb0b3062da33c6b5f527b3aa2c316",
+    "91400d1217bf9237b118607644f27685234b39eef9ec44f0491acb02704c8024",
+    "f09172e24c812f46b64f48626bb5258358bc54eb5982745777c5616d48a66e75",
+    "cca42b14c1c8b68060abd9b359d144fe4d26b6d13248ae2e38a09ad14d887055",
+    "82ddc743b612895538d2e41154917708505e5fbec57828baf435fcd7c01c903e",
+    "74d8ba7166e3f0072e1fbe9cb80601945fcad5fb4ee2a69ba395705c17e2b799",
+    "c8e2a86cec578729aae632af89078ca1b69447cfd9346fb5319c625a5d7a6c30",
+    "d0d3a6f6642b407528cf292346fb48fc9ec9ec7d832af2f0153acbdde504c70d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Reuters",
-      "title_en": "EXCLUSIVE: Italy seeks security safeguards in Finnish bid for rocket maker Avio, sources say",
-      "title_ko": "[단독] 이탈리아 정부, 핀란드 기업의 로켓 제조사 '아비오' 인수 관련 안보 보호 장치 요구",
-      "url": "https://www.reuters.com/business/aerospace-defense/italy-seeks-security-safeguards-finnish-bid-rocket-maker-avio-sources-say-2026-11-20/",
-      "ts": 1795189927
-    },
-    {
-      "source": "9to5Mac",
-      "title_en": "Beats Black Friday deals: $100 off new Beats 360, Powerbeats, more up to 53% off",
-      "title_ko": "비츠 블랙프라이데이 세일: 신형 비츠 360 100달러 할인 및 파워비츠 등 최대 53% 파격 세일",
-      "url": "https://9to5mac.com/2026/11/20/beats-black-friday-deals-100-off-new-beats-360-powerbeats-more-up-to-53-off/",
-      "ts": 1795189932
-    },
     {
       "source": "Benzinga",
       "title_en": "Belite Bio Stock Plunges After FDA Extends Review Timeline",
@@ -11504,6 +11490,20 @@
       "title_ko": "Databricks, 2,250억 달러 가치 평가로 자금 조달 초기 협상 진행 중",
       "url": "https://www.wsj.com/tech/ai/databricks-in-early-talks-to-raise-funds-at-225-billion-valuation-e593b1de?mod=rss_Technology",
       "ts": 1795215174
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "트럼프, 젠슨 황 또 옹호…“두 번째 기회 줘야”",
+      "title_ko": "트럼프, 젠슨 황 또 옹호…“두 번째 기회 줘야”",
+      "url": "https://biz.chosun.com/international/international_general/2026/11/21/REBC3DWUDNECLHEGP37PK5Y4PY/",
+      "ts": 1795215349
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "美国商务部长霍华德·卢特尼克要求电池初创企业Pure Lithium将51%的控股权交给美国政府。",
+      "title_ko": "하워드 루트닉 미국 상무장관이 배터리 스타트업 퓨어리튬(Pure Lithium)에 지배지분 51%를 미국 정부에 넘겨달라고 요청했다",
+      "url": "https://wallstreetcn.com/livenews/3203618",
+      "ts": 1795215481
     }
   ]
 }
