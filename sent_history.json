@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795148552,
+  "updated_at": 1795148701,
   "id_hashes": [
-    "da452640d84e087d944b41a782a64241b5a078653d0cd4018da5baa2ed4eedfa",
-    "22b70f23df2e3c939e8c471b4a3d3caeaf29bdf3d7759386f854932c4a4a653f",
-    "631b90af9e45eca1ea1790b94abf553343035d2841ab11b955f78176f432f4ab",
-    "e37a344189eef3d14a28139e47ba1445d5e0b710d7b88b2888c618ba52ee618c",
-    "e844091e07a72969f7bd098d47aa9e414e83a636636dd67af30739ff1534dbc0",
-    "c4dd908082ab5f8f09aacb41025593ee843e445f225944c0a2608f379e628401",
-    "905ba9efcb41d29b6b974c17b60a2168d59dd33a021d7c4e0d8952028e0ccd5c",
-    "5947d0c3f38a6fe6e08ab241d2727c23dc15fbefa52993232f15e9bc2a5b9845",
-    "c7eff37590f426af4d1426c657f47c5b4c95e757c2da9b6d58be8e185f9e0b3c",
-    "ba6e366742ea173e824fab7523bf16d053faf297904e6ec3806831c8e6a0e7f3",
-    "16e006968a15a3e9b64b480ce0e1982a53b0fe72898f899ca299c9e8f0730bdb",
-    "2f09184e85e316947fe161853776dd212c672dd4bbb303a0de53b8edbb22c825",
-    "4d7ee5c2332ebd4976f7a1f31e6ac267da0d2f81319f1c959690ae296c2ff7d4",
-    "bed9875fede545500459d69d58905400bf77cfba50bb28a5ee7415d090e14f28",
     "fb6016b563bf9bae0bae78a93f9add15ed4fa664c641b8b9c87f82efa38046b1",
     "cb24bbfc45d5ff5f952d57f01e2c0d224505253f48eb1b0868e028e653765ee7",
     "a23e7c8bfa0da612d411e57a32efd829aee4ee942ad947e629aac637a1a52772",
@@ -4000,20 +3986,23 @@
     "9a2c4d0da1404caab69fd1489d9af055e2e4ecc077d40613a09d91bddb33fa97",
     "ca7ce55297cf5e3e71efe59eaf7b0cac9cfce8a25da7d79373b49af2f37137e1",
     "a10148373a7731de3bc49781210b42817d7ab058b8e40cee71b47cdc95b987ac",
-    "d83e17b0ee5b19523f947952a5437b5fdc5d422bc769beb98b94b2736d75e178"
+    "d83e17b0ee5b19523f947952a5437b5fdc5d422bc769beb98b94b2736d75e178",
+    "f6835acecd54aa45e65705bb08f6134f569c539fb2bbd46fb76b4ca8a324738c",
+    "e3bd0ab1f434d763ff9ebd3fe401ed580dba68adb27fb94fd456fec65c4e199c",
+    "832f177ebd3a40931278af8d904a42a845ef6ce1c455bfd37621d79d88b66b57",
+    "24a7d5424440feca01a7748b0dd344437927c9762528554c241cacff48a95e2a",
+    "d5588c5b571482424559665646fb5b8dd22add52f8fef1750981116d2f94a4c6",
+    "98aa3350ba3de8003f12e912a81e6d9e5170932fc724771fdbd0770c6dd3bbbd",
+    "0d3b245aba20903e39107b87abe6fbae6352b9bef397bf7052d27e4ccb245c93",
+    "c8ba5b0902516605b531d074d19d2e637b22c248419ee44c4dd1b52f1cf634b5",
+    "345873484db01c9106a837ad248dc6dcbd78243d8b3de9ae107ceedb1cbc2d4a",
+    "e7bb7ecc98a61248a093619df62ba406d6e7792fb72cab0b4d7a75da867dd6dc",
+    "8b741a3c3b7f26d760a965d359c135bf16c78455944a7bf001c705cd4f753abd",
+    "9be58ea9b5d56a1ee35d30c44fa6ac98f68bed146b82f63b6b88db22a4db82df",
+    "e9f105d916732cddf3a73181add2ff70c4230b033ad8a5724324b41f6d186f67",
+    "9bf7fc78072672a600d0c00d335270eb421d68ea2e3fa54aede4e7d2e899a9fa"
   ],
   "title_hashes": [
-    "d731143ca6dfd1d04014e3ce2a50a7653dfb87527af1b8ff23a05e8f076eb93b",
-    "1447ae05e0a3b091698f30be830acde49538c32c644600d2845a4ce57daf8753",
-    "d087532e79db36e85707676ce0c5527e8b24e78cef98e43f85e1ad59678deb09",
-    "543bf78becb785f23af390c626f1c05144eb34a51da518b62dfc26d78704e227",
-    "7bab02f193315a511b3af0a8f07afe28332b6bacfc75a225d50db3b66406c0c8",
-    "9a7b770857b463bceb458de1e5b971de5156741f6b91e5985afd8ec7bb9cdeb6",
-    "17ba9a1718e452ce3cabf44f29df0e74bfe3ed8fb35be58171384a73aec0c896",
-    "6a0a782b1c4f40579cfa69de861010660dcb82a9ebfecef4b1a3f9f6a87e648a",
-    "13245c0be42295cf2da2fa218478a5a066cf2ce8528bc88fab3044c7d4888fa1",
-    "c9069d25c111089a6b475df742d7f3351df2e3bb7959d9bc46149c3f1915f8e8",
-    "47c066c5eefdafb6560833d3764a726603c377452f04a36e20c66177589d7f26",
     "6d58505d23c9330b44945263d0699d974e7d236661ebd6b8f750d356c3029cf4",
     "7aeb0697dbec0179c0060ac001495992fb9a3a88a1a4bce6e5c36746cada8231",
     "052c081a0a42122e9f00f59ca0f57e90a3da51d84fa304d92a007544db827074",
@@ -8002,23 +7991,20 @@
     "1273fd735635c8231825a721371b61c04d6d6332526ad37fecbe60c9c8d394c8",
     "52167f03c1e6a6499042b0cb58edc218640c93d9a4b6b5dc18902e5420c1c390",
     "971479a946e9e850f7cae484ec0d584ddf3ab1b08360fc1a94500be969165506",
-    "a53fcc9ccb464cfddb2b0247babeae8d1768c3cb078e34a35cd6978285c6dcd9"
+    "a53fcc9ccb464cfddb2b0247babeae8d1768c3cb078e34a35cd6978285c6dcd9",
+    "d9fe6cc6a6f1a2625b3694976f37e77ce3f81c6c647aeb2b5735479f958069d5",
+    "11cd575e0bad23dec43b3f92df7ee484f909997f00622a13fb0ac5e6ef13c6dc",
+    "bae73d846edff212365a47e19ed7c53028cee972e97503c4908d70d9c4ca9137",
+    "570d8bb764f46567fc8560602632ecd89cdadab0a4ccfdb9276cd4fce6937f43",
+    "6eab5ac27c2d1e37ded01f0f55976424fb0155bd33764fa044a2dd90564d9b31",
+    "6c46be7025a7bd7d1bc770ce1f0680287e258edec21e7aaa1571540012fdf1f5",
+    "19098dd5a29c74f719e25f975231d73dfa11839c6304e26b8a8ce3e9f961e4b4",
+    "ee5cc1971264d9d7d2a84b866c8b04abffb38192b5a97e420d097658d811f8fb",
+    "2a5383c658726f8ea0b2bd11b3d5dd0556112d4661b12cb6974613642603cb78",
+    "5220b460749772ee196fe2cddf3edcd721f5c11ffa8b445d0364760a92e0fa02",
+    "58eb06c801755289e5a3d28c27285f4525b6278bace5acd52970aa3a92367398"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "Gap的Banana Republic和Old Navy表现疲软，下调业绩指引。\n\n该公司三季度净销售40.1亿美元，分析师预期40.3亿美元。\n\n预计全年净销售将持平，公司原本预计会增长1%-1.5%。\n\nGap盘后跌...",
-      "title_ko": "Gap의 바나나 리퍼블릭(Banana Republic)과 올드 네이비(Old Navy)는 실적이 저조해 실적 가이던스를 낮췄다. 3분기 회사의 순매출은 40억 1천만 달러로 분석가들의 예상인 40억 3천만 달러와 비교됩니다. 연간 순매출은 변동이 없을 것으로 예상되며 회사는 1%-1.5%의 성장을 예상했습니다. 시간 지나면 격차 줄어…",
-      "url": "https://wallstreetcn.com/livenews/3202818",
-      "ts": 1795125097
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "GAP SEES Q4 NET SALES GROWTH OF -1% TO 0% AND NOW SEES FY NET SALES GROWTH OF 0%, FROM A PRIOR +1% TO +1.5%. GAP DECLARES A QUARTERLY DIVIDEND OF 28 CENTS A SHARE, UP FROM 27 CENTS, AND APPOINTS ASHLEY KECHTER AS BRAND PRESIDENT AND CEO OF ATHLETA, EFFECTIVE 14 DEC - GAP",
-      "title_ko": "GAP에서는 4분기 순매출 증가율이 -1%에서 0%로 확인되었으며 현재는 이전 +1%에서 +1.5%로 FY 순매출 증가율이 0%로 표시됩니다. GAP, 분기별 배당금을 주당 27센트에서 28센트로 발표하고 12월 14일부터 Ashley Kechter를 ATHLETA의 브랜드 사장 겸 CEO로 임명 - GAP",
-      "url": "https://t.me/firstsquaw/194358",
-      "ts": 1795125100
-    },
     {
       "source": "FirstSquawk",
       "title_en": "PERENTI SAYS CHIEF FINANCIAL OFFICER MICHAEL ELLIS WILL LEAVE THE COMPANY ON 18 MAY 2027 AND THAT IT HAS APPOINTED SIMON FRANICH AS CHIEF FINANCIAL OFFICER EFFECTIVE 18 MAY 2027, WITH FRANICH TO BECOME DEPUTY CHIEF FINANCIAL OFFICER EFFECTIVE 18 FEBRUARY 2027",
@@ -11504,6 +11490,20 @@
       "title_ko": "PBOC, APEC 이후 변동성 급증으로 위안화 안정 유지",
       "url": "https://www.bloomberg.com/news/articles/2026-11-20/pboc-anchors-yuan-with-stable-fix-as-volatility-jumps-after-apec",
       "ts": 1795148402
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Saudi-Led Forces Reportedly Neutralise Houthi Drone Approaching the Kingdom’s Southern Region",
+      "title_ko": "사우디 주도 연합군, 남부 국경 접근 후티 반군 드론 격추·무력화",
+      "url": "https://t.me/firstsquaw/194484",
+      "ts": 1795148640
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "전북도의회 \"특별법 조속히 제정해 로봇·수소 특구 지정하라\"",
+      "title_ko": "전북도의회 \"특별법 조속히 제정해 로봇·수소 특구 지정하라\"",
+      "url": "https://www.news1.kr/local/jeonbuk/6360858",
+      "ts": 1795148699
     }
   ]
 }
