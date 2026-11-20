@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795218869,
+  "updated_at": 1795219018,
   "id_hashes": [
-    "66c8bf894422d42cf7bd82f268887420163eb4c9dc167051e2ec3b7e8f537b0b",
-    "756760e2e45192282f1b2d36d7c1416cac1de6f436540e6e1a9b8defb83b15f2",
-    "2de70cb0ba305000f100ed0c8ca0578d99c92406283a169664495e74fe035fea",
-    "9483da009fe754d6762dde9e1621b60f0714b4ef255b2a0e99f4055086539c0b",
-    "51046060a618d2c7f5e5355fe2497f510be5a3090726ae379d3166ddfde81635",
-    "c1fad4d9b190edbb0dcb5518d45a900aa033ae3c8f97e09e3f7b7126b39c31ed",
     "098f98e7bc0e726f8f429e9a59e33bd993337bd45d2c17ffc986fd3fa6fedc6b",
     "1080e02168186748effcd01d8342a613bd30869701c4f4c6277d798daa443e1d",
     "2aadb75b682f105e4ab9d4cffa8fde6f6a6d10becfe78915a222eb6302c1bbcd",
@@ -4000,14 +3994,15 @@
     "1a42f5decdcf674391f42ee7946e2209ada99e9f6c10bd0053d2fe3f03eb045b",
     "d005887846f6f38d14cd6c4f0d0dda6aab10ab7c861fa5822acad65be60f9c92",
     "db75d12ef9f75aebde87b3a3d81349a9e889bae2856c49a2542ab5fefcd762e9",
-    "aa390be960621b8d7a6925d8a0f7d96acf6bad919171705e9504d81fc2d9542e"
+    "aa390be960621b8d7a6925d8a0f7d96acf6bad919171705e9504d81fc2d9542e",
+    "e0fa74f3c364102731e8b8af3f6ecea8b08cb046f8391bb04177f47f3a1b698f",
+    "520b321d8278725afbe695d3bb4006fd04c020df4090372a1c3a7deea01e61b8",
+    "c4fb356cebe68c890242645c761cc115a88c6a897a27a784bced64d728a195a1",
+    "ffcbf0780e30c1b2218cf01da96006805db6ff08ad2baade8a53715dac135df4",
+    "1c5cea940f33d331c4479c2ddc61fee2fe8db474a64e1ffa752bb39ca02d361e",
+    "e4c6c6e90e8b6142cb3476ce04458a76148ad56d2bdb51ee718ebf30f232945b"
   ],
   "title_hashes": [
-    "127d097b2271fcd7787642eb2edf3056412285a90df1c73897c53cb73c106ae6",
-    "e537d18062da132d0d6d73611b19abbf2f83e3141017765e843a72f8f4c75c6d",
-    "e7a0de130e043ecb0ce619423b2b38f0fae259d94d4a2098228a76e1de9f4f7d",
-    "c63201e7fa328b6c24fa9b9428da644285c364ab5567554ea0650354cd4b554e",
-    "481a10d7db8e2283a5211ec15a8224ac7b10768d37bf2105f0be5576e3a08aab",
     "3c374fe9204d92b3f27e28565898c3f901eafe1cdad8c00196e7088fcf06093d",
     "5b78c3162a81fdb60471539c95318faaf55bafc225ae16808d8b059b8fda2a33",
     "0f421581a0850c4860394994b3150f37efb5290a48c80aa1776a4f014ed9a1e0",
@@ -8002,23 +7997,14 @@
     "b0f110609d77743f1be40567c9e78fcd600b197c617b554232b34debd96db710",
     "399954f851772af3c7d30a225231aea2d96351c8bbec462d65d447be3e6dbf37",
     "7f07451aa82cce4818c91daaa519b1a12e2f859422eb10b685e21eeb1962ed05",
-    "aac14d9c79883aa0403b3ab95c05579c35ad2bf78964a5c25c4bef40d3154329"
+    "aac14d9c79883aa0403b3ab95c05579c35ad2bf78964a5c25c4bef40d3154329",
+    "c0214380762fdef9e7427592bdfd61fd75118d9f98b9c513ec3502d6d94cbbed",
+    "b8038ae6b2348cd927e413d9605c56e8c9dce76cb542cedfb96bbffc8e9714bf",
+    "57beed8151793fb719f3fe63a7d1b123cc711dc79b6ae4a97f78e642f5f5b319",
+    "4f943bf7a7fd8e3e0011695cac81f2db6d5115b0616c816bc8b357684e26fc7b",
+    "79f56d6a34dccaea312fff386371233945b962d5311a26325864465747ed66cc"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Onto Innovation sinks 12% as semiconductor peers fall",
-      "title_ko": "온토 이노베이션, 반도체 업황 부진에 12% 급락",
-      "url": "https://seekingalpha.com/news/4675216-onto-innovation-sinks-12-percent-as-semiconductor-peers-fall?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795190279
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "EUROPEAN GAS FUTURES RISE AS MUCH AS 5% TO €88.7/MWH",
-      "title_ko": "유럽 천연가스 선물, MWh당 88.7유로 기록하며 최대 5% 급등",
-      "url": "https://t.me/marketfeed/1082671",
-      "ts": 1795190340
-    },
     {
       "source": "Benzinga",
       "title_en": "Anthropic Exposes AI ETF Blind Spot: What Investors Should Know - Anthropic (NASDAQ:ANT)",
@@ -11504,6 +11490,20 @@
       "title_ko": "Wonder는 Grubhub의 매각을 모색하고 있다고 Wall Street Journal은 보도",
       "url": "https://www.streetinsider.com/Reuters/Wonder+explores+sale+of+Grubhub%2C+Wall+Street+Journal+reports/27382722.html",
       "ts": 1795218417
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "트럼프, 시진핑·푸틴과 친분 과시…“亞 순방서 170억달러 계약 성과”",
+      "title_ko": "트럼프, 시진핑·푸틴과 친분 과시…“亞 순방서 170억달러 계약 성과”",
+      "url": "https://biz.chosun.com/international/international_general/2026/11/21/DNZWOVOCINEJLG3NQONIXVBKDY/",
+      "ts": 1795218889
+    },
+    {
+      "source": "재경일보",
+      "title_en": "한국항공우주 목표주가 17만3000원…생산 가동률 한계 근접 : 한국증시",
+      "title_ko": "한국항공우주 목표주가 17만3000원…생산 가동률 한계 근접 : 한국증시",
+      "url": "https://news.jkn.co.kr/post/1111693",
+      "ts": 1795219017
     }
   ]
 }
