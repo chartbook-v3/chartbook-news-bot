@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795213951,
+  "updated_at": 1795214098,
   "id_hashes": [
-    "4dfba2a67ce367a9fff676eaae44d595e43484a7958a3ebb363cbf784a202739",
-    "9ec1f026737f667465c188e20130e18d1673d3c60905586b4448509b00faa104",
-    "9d1769ec73460b82111270192dae9ee6c83b5cad90688eca76335abe7e40f030",
-    "4669819e5e22bdc15bc0e02f791ac32c3dc85d417a999c20ae40ad2bf3b7ae5f",
     "73578295275325f6f96324b4b78fe341c28f31dec40115523aa0fea8e2bc3ac6",
     "d75a0fa568d301db79e3430791f83fad462136c8291e33bfa5f1d43465a1f1ab",
     "c1b41257adb6301459bd63b35c663dad9e5ccc5af800a1331c70e8a1f6998eca",
@@ -4000,12 +3996,13 @@
     "60a53e24503973d0d4c48b4eaaca26fdeef6db07d9fe96780616beb1b854de90",
     "5e26c90b6a8f7dc8917794707b7edd6d5d241bc83b583f248cb9f52f54b03f43",
     "ff43686d557b6f04faeb478ab788d6d5861bbe410c4e0714a0f8462699df996b",
-    "0a6fd83054e332b8eb71d898f52436c6850ffac48cdf59e388804e26e61a17cb"
+    "0a6fd83054e332b8eb71d898f52436c6850ffac48cdf59e388804e26e61a17cb",
+    "41c8ddd805f6174ff9d01e2c8118174fc3400cbe1ce822e5716ba08cfc18e5db",
+    "778379be40ef072e07d8c9038b93968120c2bb567978ebdfa9e7d55827f3ef3f",
+    "9b6676f24afba3f50870064eecee903652e63c8a42b7290e8bf47b42056b9ddf",
+    "476c44286f30897ebab20ef88c8cedb79150a6c2dc9d9e5c51240757d5a478ed"
   ],
   "title_hashes": [
-    "99d62264270ca24014fff5d75786aa671ad434ef5a5a4e779ccb9a275ae4fb24",
-    "efd590d43743c35aabd5199a3404bb26fdb84bbb660b7eb469225877e41f3a95",
-    "c2bb42c22d01ccc1500f37d9760c0f52732d5c99ed56c3e38bd73cb486de915b",
     "d9db3549930097bb5af6c1fe2edd59c33892a218e77ce1cd10d2542e2f0ad4e4",
     "35962def17d980428fbea4568a676b6cfc852f6824d11d1e509b794f919b638b",
     "a06ae8629c5972963f7920c8b14d9a27c28f1273a0203a8a605526c12213f206",
@@ -8002,16 +7999,12 @@
     "5c47c137deae6c2d5ab85e1c79acf0c336375fd54dc6c7668490b7b640f6f46e",
     "7701ba78e14d26158474735fbd36d2aa8b43e40bd056b853a9c20b693bf5ee57",
     "f4e3ba9b36147c13ea05e0fb7b1165e227800a2374ee6f546fa1b4d5972fccbb",
-    "3900196443066a31762f768845744d03426e437843edcfd2fadd61e06336e492"
+    "3900196443066a31762f768845744d03426e437843edcfd2fadd61e06336e492",
+    "49cde457a61922cc04aaf7e14c106fa6f87c9b097a4855abdde7db2a31667100",
+    "569f91134a05281dbb2b4b3e76d07fbfb7936350c8c8c50e80d589943a1edde1",
+    "125f74f63a0dab61e26a461a512e5dabdeaa669e7afeb4fa2401f71dc3e2e04c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "科技股抛售搅动市场，AI信用风险指标恶化，谷歌CDS创历史新高",
-      "title_ko": "기술주 매각 시장 붕괴, AI 신용 위험 지표 악화, Google CDS가 사상 최고 기록 달성",
-      "url": "https://wallstreetcn.com/livenews/3203463",
-      "ts": 1795189679
-    },
     {
       "source": "Bloomberg",
       "title_en": "US Consumer Sentiment Up on Improved Post-Election Outlook",
@@ -11504,6 +11497,13 @@
       "title_ko": "중국을 갓 떠난 트럼프, 자유분방한 기자회견에서 몸을 흔들고 엮다",
       "url": "https://www.streetinsider.com/Reuters/Fresh+off+China+trip%2C+Trump+bobs+and+weaves+in+freewheeling+press+conference/27382580.html",
       "ts": 1795213825
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "两年期美债收益率周五跌超10个基点，本周累跌超19个基点",
+      "title_ko": "2년 만기 미국 국채 수익률은 금요일에 10bp 이상 하락했고 이번 주에도 19bp 이상 하락",
+      "url": "https://wallstreetcn.com/livenews/3203611",
+      "ts": 1795214037
     }
   ]
 }
