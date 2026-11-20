@@ -1,25 +1,6 @@
 {
-  "updated_at": 1795189680,
+  "updated_at": 1795189897,
   "id_hashes": [
-    "dbb3406a45ddd542f40084a2214b298a806db7cbe43743a4ba76bb67479737a6",
-    "d5842f8da6efb8b7f9d953325a29adb288df39207cc153274f14c2052e7d259e",
-    "51026aa741960f9fd7d5428588f3b5b11362a08993b03e39a6532bc4d3339045",
-    "3c0ec731dd86d1d8fbe0a5755089c4ba4cc17ca029d3a2f6c5d11b8cdc628c87",
-    "e5869a6e142a87a3e5326937698a44aee5fe6f2a797318f94d712fbafa1ec9dd",
-    "006f18185ac92bee8c1b0d6e65ac3b0ab0b703ffb9dec5ecdac8772ae48058bd",
-    "36b15f09729822f905f3e996fd31ec65893f781099ba4c6c1fe4d4be45542796",
-    "063b394c8ccb2d4a1e74e5b4c5f5f274a1c10b48f7b30e53106906eddc1a57b6",
-    "49028fef467d77711fd0942a7b895585e473ce6d2f239b4246a6181a02a8b4bc",
-    "d6cf83fec7b1db22e9bb21421faf0238003d534912d44c373d0dff3c05409809",
-    "e9e17dcaa6410c8c33ec79abe54b7416d5fb02faaec1e8fa52d944d22a308766",
-    "ea5ad6b54c1511e7de58b41a9639053b37ec518afeeb75f3fbcb2ddb31c66f11",
-    "7e9756c8393b8f7d0dcb129f98df2e239966b7ad5943ae0187bb409691806f73",
-    "0a3a9e35131be7e0ca3694a05a7b7ac52cbaa40381f1d43ca1cea7eac57aca56",
-    "86f58a5d7fee5fbc1966fb612ed024b2d0971a28439ef1f66ce959e6c6286b12",
-    "812e334880a3afe8ce8d721908c040b96a43080c696a43f418cca4d63851bb9f",
-    "68c06be971ebeeaf759b594426db8b5a382f3410bee6432bb8283ae001888238",
-    "0fdbebc3587bc9a16e5bbf95373f6c6f80e7f7599444a63ef7ef742fcd38d41a",
-    "1d775d0bedaf2bdeeaca7e28c00c1c88cb2f3cddbdbf50b413f3289d7310c1f5",
     "857591e62605275775c866ace3526fc719aa24026837e28cc00ff4ab67afb78f",
     "3ee7c51b96d4876140eac477272d30337bb2274d41459204744e75b9b7e997bf",
     "153d745b31e917d77d153d0508a9d5c557c77878c5f5ccaca7edee96c64fbb43",
@@ -4000,23 +3981,28 @@
     "9784665d93ee6e8c91c8357630da972aea78ce98d73fc66481008568d30f3616",
     "4421405890732352216613ad24c081474a7f1407211704e710c0978390a228ad",
     "d83f06d80e9fd6929fdf8292d17d9caabe7af56b1ce8c2a045a9174f0238843a",
-    "acfb3dda70eefd554833819677615b5c8c248935b9440b7caed90ae97f21589a"
+    "acfb3dda70eefd554833819677615b5c8c248935b9440b7caed90ae97f21589a",
+    "ec28e00b052c9469f2c904a3c72ab6336fb377ea059510b09e3ba6d902a7230a",
+    "7ad9c2a403ccd9fa94bf6beae5d78c375145249ece5f7b1b4f91b95082124cde",
+    "9732ead51a0e3a73fad0b11164bc00df209f34d462b6d528e5279a374fece6c2",
+    "5a49a85e902d269ae34e9bad2318d069e1233d61530c4b93bc4c49b0e0f3efda",
+    "04772ab248f6fefa78a2195fb00f11f419fdd46f2d890c009d19d793ba791342",
+    "57affe503bfc0e0b2102b98901c6abbb14fa3ff8c458e5395baef07dc61132e5",
+    "fd4092e49edc830719722aabc68ab808363e4d527674356e602daed018a3ae09",
+    "2091b75767ac0b0656c3c05abddffd8de29c78cc3fc4d1799995b79c3b743658",
+    "f2c9d47c5d1421b77318596eff74704a2a3424acff670ef87c9fcab3b1a7dd35",
+    "1482d00c8e0536f463ec3461a80e7220271a801ece5d48b8a7e228d55fdd5a5b",
+    "d1bfb230f8a6844d341034e8821c7ab5c0e635dcb59efdac85b53868d8ffaace",
+    "480d651bb13fdac74152e010a90884651737211a0680112740655cc79cd76c62",
+    "bed3f649b1743e48355be13adeecf5d0e61fa7726692e4235d59d3d67ad050c8",
+    "f8572736aa82b1e6100b6f4744e4e62be3019959480e51d882a7e4d0d6383381",
+    "1ea1cbc8004eee649d1d99d6a46e14f08e7be38c49bcf41203755f5e1cad1802",
+    "27480c9584f8c88aae8d900f90d7cb78cd779c5d4c7ba32fc4c13b802aeea563",
+    "f897f1d2ac2357871c15b8382979fa02bb6f2add000cf43c63a2914d2fec8a63",
+    "4ff85d757b9a5222f7cfdd4365c4ba2affba0a1bf479483792e7a4b370e34902",
+    "a594fb32ff4a1525b7dc06b1bb8654ebe803c80689b1daba1d26a3ebdc8fb91c"
   ],
   "title_hashes": [
-    "73f9e05b88954d0a44058282da3aa25c540d9aec7a95d5b39dad6c56c2d7d40a",
-    "ce08b255c8319b12b78590d24a8ee638f5bd69e432c78fb3f42498602c844f58",
-    "4a1e41e8b879b6a4dcf579a51d3e84d65cc2ecf6f715cced53c7a5e9c3ca7023",
-    "ea540c127f261801b0f2f6264be1e8091a493dc2a563b7a1f6002ef3e20d21ab",
-    "169a26092bbb7a54127dcf42ab386492605f8ed243ca5996c5694df0d88036a1",
-    "8a2af69ac705047fa54ba68704cc1738a1e2585596db43fe0de8d8283bcc470b",
-    "f7275e75599aac78301901075b69f33fbebceb3313487374e4719139d24d7e74",
-    "edd627223908610c49d498c588c7b2a049922a46d41b19aa49539ea71a362628",
-    "07b4f3ef6853a7ca09bb4a7be340c28a821a7c0e15bc4a40ae19d0716c0d3d0b",
-    "dbf4378619eff72bf25a2c73ce980eff875cbbe31bd3d93ee69e67c78cbdcb97",
-    "30d248402ac7c907d4c730b849d8b4ace4ff7e070128b9fabd6f5a3b83abf315",
-    "3d51c6548ea5c178119a381705c3c232112d75e39388f30412404db24deaa8e3",
-    "b7e874dad342634b13da7052b5ba21ee78423496560bfe4252c4356e0eaac1ab",
-    "bbec610ec26c2a2b3b78c174e73280ad5d9235a6f6c84d8f069a4cfc211e7dc4",
     "925e9a90ba866e662efd4959eb62c12178bd8337ca8e0856d1a26b394ccbfe7a",
     "0b66ce769e52dfb95dd4c28142af276c38b9f06fa05daf06e725874668886e55",
     "ec86c58ee07e3c9ef5e2d8354d4f9fd040ec4a115ff71abb93824751735a6cb6",
@@ -8002,72 +7988,23 @@
     "87809c332bd081aeb6dc0ee65dcba6b3b99c092a31d00ceccbfe1e7dfdf17d13",
     "ecf80662060fc577969f68838dcf03a34758d99be316d3921ae23e0c5e81250f",
     "6e8d30306bb230f586f152547b4758228d49f29659dc452bf54f0943500f9e5d",
-    "f1f4759fd47fd59f89e7f06dd792d99f6553eb942bcd59f8e2e403a0287c9450"
+    "f1f4759fd47fd59f89e7f06dd792d99f6553eb942bcd59f8e2e403a0287c9450",
+    "bfa1c02784480fdaa67ebc4c0e2ee571dd417ba61d4aafb08595006976aace35",
+    "9995bec4e3eb99582a7f871bdabf3790cf00f35f956664de55f3db1af7d93997",
+    "120e1173fae9efa270992b15e55bffdcec1eedd00cc54e54f4666473cb08ea24",
+    "75b9d812639d2ccd22634f94186aa27a4a8f37b7ac5a38ad1595df4e7711ff72",
+    "84137deb787bdfeb155df807cdef4c47082b3c4f438e31cc28ad3315db6362ee",
+    "d174d25d26b88afdd328288b3bbc611beae0f5cbb3389cca240c008f93a01ae9",
+    "faee03c56d3ceac1b93723c072cd6da946982f2947b21370d7bb61acce612d7f",
+    "d3de314d532dae782d8993579e716ff8a2a0688e0b431afadda776758de597db",
+    "606f2bd5220ad1c02d48d620852dca1b0cfe8b1865716ab6f58b09cad519e1cb",
+    "31a5c096a1cfa351fbef79156ca9709d7e832ec26594f8b55e201ba44a1760c0",
+    "8cc4b41bbeb9e8e254bd32e1073dcb3c97b667967f6fc7b6854c47426b499c34",
+    "2bdae9e36d962dd2778af558ece722038dceeafcf5d48e0f8ad5af1c0bffa5f7",
+    "d57593dcfe07985a3d4a350212219c6fc5cfffd5dc8e04ac087907f2290bc5c3",
+    "032f81cdf86408657e1ebe79d78da4d49d53536d68109813827f051130bb3ab5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Pre-Market Signals Point to 3%-5% Declines for German Chip Stocks",
-      "title_ko": "독일 칩 주식의 시장 전 신호는 3%-5% 하락을 나타냅니다",
-      "url": "https://t.me/firstsquaw/194513",
-      "ts": 1795158306
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Sri Lanka to Resume Rate-Cutting Path After Inflation Moves Lower – Central Bank Governor",
-      "title_ko": "스리랑카, 인플레이션 하락 후 금리 인하 재개 – 중앙은행 총재",
-      "url": "https://t.me/firstsquaw/194514",
-      "ts": 1795158308
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Chinese President Xi Urges Thai PM to Expand Crackdown on Illegal Gambling and Telecom-Related Fraud",
-      "title_ko": "시진핑 중국 국가주석, 태국 총리에게 불법 도박 및 통신 관련 사기 단속 확대 촉구",
-      "url": "https://t.me/firstsquaw/194515",
-      "ts": 1795158311
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Xi Offers China’s Support for Swift Improvement in Relations Between Thailand and Cambodia",
-      "title_ko": "시진핑 주석, 태국-캄보디아 관계의 조속한 개선을 위해 중국 측 지지 제안",
-      "url": "https://t.me/firstsquaw/194516",
-      "ts": 1795158329
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Ukraine Claims Drone Operations Targeted 41 Russian Oil and Defence Facilities in Recent 50-Day Period",
-      "title_ko": "우크라이나, 최근 50일 동안 드론 작전이 러시아 석유 및 국방 시설 41곳을 표적으로 삼았다고 주장",
-      "url": "https://t.me/firstsquaw/194518",
-      "ts": 1795158331
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Dorogobuzh Chemical Facility in Smolensk Region Targeted by Ukrainian Drones – Commander",
-      "title_ko": "우크라이나 드론의 표적이 된 스몰렌스크 지역의 Dorogobuzh 화학 시설 – 사령관",
-      "url": "https://t.me/firstsquaw/194519",
-      "ts": 1795158334
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Moscow Is Preparing to Host Representatives of the European Union – Foreign Ministry",
-      "title_ko": "모스크바, 유럽연합 대표단 초청 준비 – 외무부",
-      "url": "https://t.me/firstsquaw/194520",
-      "ts": 1795158337
-    },
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Russian Foreign Ministry: no agreement on next round of Ukraine talks - IFX",
-      "title_ko": "러시아 외무부: 다음 우크라이나 회담에 합의하지 않음 - IFX",
-      "url": "https://t.me/breakingmarketnews/179361",
-      "ts": 1795158339
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Moscow Confirms No Deal Yet on Scheduling Further Ukraine Negotiations – Foreign Ministry",
-      "title_ko": "모스크바, 추가 우크라이나 협상 일정에 대해서는 아직 거래가 없음을 확인 – 외무부",
-      "url": "https://t.me/firstsquaw/194521",
-      "ts": 1795158342
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Poland’s Prime Minister Confirms No Current Air Threat After Reviewing Airspace Violation Reports",
@@ -11504,6 +11441,69 @@
       "title_ko": "기술주 매각 시장 붕괴, AI 신용 위험 지표 악화, Google CDS가 사상 최고 기록 달성",
       "url": "https://wallstreetcn.com/livenews/3203463",
       "ts": 1795189679
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "US Consumer Sentiment Up on Improved Post-Election Outlook",
+      "title_ko": "미국 소비자심리지수, 대선 이후 전망 개선에 상승",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/us-consumer-sentiment-rises-on-improved-post-election-outlook",
+      "ts": 1795189737
+    },
+    {
+      "source": "CNBC",
+      "title_en": "As Anthropic shares tank, investors scramble to hedge. It could be very expensive",
+      "title_ko": "앤스로픽 주가 급락에 투자자들 헤지 분주, 비용 부담 가중 전망",
+      "url": "https://www.cnbc.com/2026/11/20/as-anthropic-shares-tank-investors-scramble-to-hedge-it-could-be-very-expensive.html",
+      "ts": 1795189740
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
+      "title_ko": "워시 전 연준 이사 \"연준 위원들 발언 자제해야\"...현실은 '입' 더 열렸다",
+      "url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
+      "ts": 1795189748
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "美国财政部长贝森特：美联储应该向前看，而不是向后看。\n\n总体通胀数据因能源供应冲击而波动较大。",
+      "title_ko": "베센트 미 재무장관 \"연준, 과거 아닌 미래 지향적 통화정책 필요\"…에너지 공급 충격에 물가 변동성 확대 지적",
+      "url": "https://wallstreetcn.com/livenews/3203455",
+      "ts": 1795189754
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "郭明錤：谷歌已将博通TPU 8i系列2027年出货量下调约100万颗",
+      "title_ko": "궈밍치 \"구글, 브로드컴 TPU 8i 2027년 출하량 100만 개 하향 조정\"",
+      "url": "https://wallstreetcn.com/livenews/3203460",
+      "ts": 1795189762
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "[주식 매매 상위 종목 및 환율] 2026년 11월 20일자",
+      "title_ko": "[주식 매매 상위 종목 및 환율] 2026년 11월 20일자",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/11/21/ME4GKMRSMU2TAM3BGA2GCYRSGU/",
+      "ts": 1795189764
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BITCOIN CRASHES UNDER $60,000 AND ETH CRASHES UNDER $1,660",
+      "title_ko": "비트코인은 $60,000 미만으로 하락하고 ETH는 $1,660 미만으로 하락합니다",
+      "url": "https://t.me/marketfeed/1082667",
+      "ts": 1795189778
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "Anthropic跌超12%，刷新日低，逼近85美元。\n\n在Anthropic的“带动”下，费城半导体指数跌幅扩大至7%，美光科技跌超10%，ARM跌逾9%，AMD、博通跌超8%，英伟达、台积电跌超6%。",
+      "title_ko": "Anthropic은 12% 이상 하락해 일일 최저치를 기록하며 85달러에 접근했습니다. Anthropic에 힘입어 필라델피아 반도체 지수는 7% 이상 하락했고, Micron Technology는 10% 이상 하락했으며, ARM은 9% 이상 하락했고, AMD와 Broadcom은 8% 이상 하락했으며, Nvidia와 TSMC는 6% 이상 하락",
+      "url": "https://wallstreetcn.com/livenews/3203464",
+      "ts": 1795189790
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "COREWEAVE SHARES BRIEFLY FALL BELOW MARCH 2025 IPO PRICE OF $40",
+      "title_ko": "코어위브, 2025년 3월 IPO 공모가 40달러 하회하며 일시 급락",
+      "url": "https://t.me/marketfeed/1082669",
+      "ts": 1795189896
     }
   ]
 }
