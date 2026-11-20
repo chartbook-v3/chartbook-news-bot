@@ -1,26 +1,6 @@
 {
-  "updated_at": 1795182176,
+  "updated_at": 1795182336,
   "id_hashes": [
-    "577689fb9896c693c92784e6a8c6a9c1083b81f7bedb8bbe6047bcfaf69d6cc6",
-    "df94b599ad04cd5440412ef77ca83ab9ba2b86b3efd2762c08e54b49d538f4e5",
-    "f7bf0f1567911477605ee1fdda26a3816bbbc8e6ffb01ca065633ad2b03821d4",
-    "8d213212f16742411f20ec083b59cfcc05eee3b4b18d6ff5cec8de61130d6790",
-    "9ac47cd561fdf7f682538980673ba7c0c1076a8481ad62bf540b34f0acfcf566",
-    "9514d0e8833a2cc5b843f924fb0f07100c89bcdcb1f229773be7d64393d1d0d1",
-    "2ef9c12e880f3f489aae43dc6df739a3baf9c42cdb307aed9977e3fbab4bcd75",
-    "a2db9df15c1ba2a1e41a7ec59822649bfae7f1564272751b79ec93232c32a751",
-    "5a63898c197117e00ab1066d16429b28b5d099053d26c67c0e0f1f675c84f78f",
-    "a77c7df39d1c47789b0cb1e2f02c3b2cba18763e76203a292e723e1b82ce3b82",
-    "3cfb3126f5ee13a5365f9d2ce235570dffb5b579cf743a2694bcf11abb1b1426",
-    "38d7bbfad2f8b617079efead88b72bf8ba2f723197bffb5ae50af8ef9a85d4e0",
-    "15bf2e16cc8276eb8a6f75ac4fcb621bbf1f64904edd7afb212e26124ba189c3",
-    "2b045f31ec88d415bd0085e8cb4601ccc6dde9f90cebdf6dcdff96de047ca2d7",
-    "bd909bb5ab17c48835037c277541a8400aa8d68f067962801dae9394a35fd648",
-    "b85395bef1dd19226c176080b39c303d2330526ea4c7918bcab1203c4a06f73f",
-    "57765868e08b3ad66cf2d2c7559f5b5852fd15c91babd58dd6f352eabcdf3e57",
-    "c322a83ef395debd9f1e649d080ccfd5dd9795ec8a887b232a3d07e676e7ef18",
-    "cfa80c8bd853fc417cf11b8680661523d1e9f6fd66f0a5deea67425ea9fa869e",
-    "a48387d4cdf3ef121968b68da044775e156b53069d6b10619f06a069ada4565c",
     "da99d7fcb6777c4a5a7ce9023e3fe0e3890fd30c8777e0f236acb4288eb0558f",
     "c824d27c77cd00949ffac51a9798120f2b5984ed4902b1916b73bd400bdd03ca",
     "b2afb5de90971e84adfdb4db5353f4ea23df4575f0cda48a60bd426e56306f92",
@@ -4000,21 +3980,29 @@
     "62e2f7593287884dcf779aa57f768bbd788cb2ac06a78de6608a7bfc00dcdd00",
     "a9aee9aeaa9088908e839e2a1e041991a0a51e1337bfe0b485df91775c6e2838",
     "cf1338cad1c0e99742841f56c5068a39c25babab3602eb329ad6e8b4cb1397ff",
-    "8ddf3ee7366a1d2ef00be17101d425f50cb60d8e8f15f0884e48c440565f270e"
+    "8ddf3ee7366a1d2ef00be17101d425f50cb60d8e8f15f0884e48c440565f270e",
+    "bd20022ccee24d8f9e73976aacddc8403112fbb45aeba9302d9f7e639459a31d",
+    "3e9143636dc0bef1b142f16e3a071d69bad16e802a29fc0aed519670c7c0e19e",
+    "6e739a17ecddfb98cd84dc03fcdd945879e2df267e42da102b0fd567a666d6f2",
+    "04ba0a765c265595b3e6b7dd72d82a03a85d4c850f884de21f6d700a3d08d557",
+    "d6e19d39673428f798db11f12c34b260325aaa2c6d97df04532be51016d26b3d",
+    "5dde0902257301c4bb506bc6b842bbebe06f1efca34ceea2e5b6e99811aff22a",
+    "ed81d2f5732b4fc1851d7f0ccbba2e9beb263d0af7bfda07b9295a3b9b88cd0a",
+    "b99cc0721eb2b52523f4d5b3d9b0eb97bad67f6ad0cbfcb0fa63767d50933191",
+    "55840462b6b8b2b21480c130e9cf935f8a061f7e4132255da6959f9515771845",
+    "c9a97e406f58e6db56b203e875a4d57c9667866a6d5ebdba375164ebd01efe9e",
+    "c1433151c0d14686fe667c82840669479065910ac01460e89424186e04670a52",
+    "7facd6935318dfab0326d843f42b7ee9c5bb4a7d526051585095fef16b4ed295",
+    "160f0f36024fad107c69a6c20ad2227435f2cc6110114f4e1ac2bd8a57d70262",
+    "2bb86eb533c90930d3ea86b20a18ad913f43d5724d713e7caeaa259d4a6ddca8",
+    "aa186ab781ae31ac74e6a06869f053f30f95b0b53486f71eef86ea3299ecbaad",
+    "474f45d10a3f628e45e4c96964ab6be6fa11a50e65777bf315249693d0cdbe3e",
+    "6c613bf6a8d154a7db859a067861d12ae44878e6d61fb3da4d418e3a2c2437ed",
+    "df15e5b71a6a5866a71bd4e98d39b572ddeb77229d898bc06f72fa7be239dd04",
+    "15bf2e16cc8276eb8a6f75ac4fcb621bbf1f64904edd7afb212e26124ba189c3",
+    "0fc85516d07677a48a1c2c8c4db42b07d6ffa5f1d79a9cea4f26d104a9225c0b"
   ],
   "title_hashes": [
-    "db0c8d889994ebfb4bdee8fd6f05eeca6691d442bff0d3daeefce59cb4d3775e",
-    "272cf4ff208021a84be69761947162c45ad57c872fe76eaf52247c765682be99",
-    "58521e5fb61c5f2e59ba26364fc36a936571869b3a8a9169476bd16c79ed2320",
-    "262cb418cd768815ff9ac39d804c00208d8802bdd1d8464930675f339ea7d096",
-    "ebc16ff6e27727cebd4a4656c2bd53b881bc3d9e98051853a681170a4de61543",
-    "040ded6117330c3ab08c7353b453c13513f403bd24cb84234f907ac2b1463021",
-    "e5cb884fe0327b9d803ad890c9dcc19c559431533197a685cb01507929631741",
-    "3563de0c912cbdd36d2e64bd46f09c7049b77963e5d34ae826f72abd6b7e1ad4",
-    "7cba70b2e3b97f5bbbb2fb3b03c566a9fea651555da42afbd3dbed812d772f6d",
-    "0c61f1cc4ce22120fe7a92f8f754b7a628d911472d2524319329a8434c3d16e5",
-    "5cedc5b70f80def0970cca86aa2c010a650e7468229da8ef65a9626e840b1e41",
-    "d7fec022f60855480b034dab903222d3518506a10bb9772c1a62fdc0828f0dbd",
     "e2b17557d91a2a78ecd94e1434b4377465f2b23b1a2c8d49055d7e6b125b5a11",
     "79ca178ef1e7e9e089d7740689784035b2048d0f5e1fbb52d0a924cf348334b3",
     "1e2396a223c28361c309bb9cf59b62de313b5cbfa4221bf612f2f80a5fc47eb3",
@@ -8002,44 +7990,21 @@
     "c8ba8a5d41528ea49941620f6e72d8b774aae25fc76b01175d79ef38b75dc75a",
     "9d0237050d680f747c9ce2115253615e89e9f2d8069c40f4d34749bbbaf45717",
     "112101217ad4ef294d6b6180ce8e9bb18961490cd5c82955e69113acc8366918",
-    "dadcd3ca6c7bd41b1f8f8af2617cb91cab8ac54695eca52105da4c6810d04900"
+    "dadcd3ca6c7bd41b1f8f8af2617cb91cab8ac54695eca52105da4c6810d04900",
+    "516989cc75ca39e7a0c5177b27923a1934348f2d2967c8e9bb93fc658d1424d2",
+    "06f5cd1f98875c6ac2620a444887656ae53c9572e024294227b51ca50cedf04c",
+    "7f9264ead327102825fcc9ee27b0c661ed27f5872b4707f161df621d23df5651",
+    "82abeff621f47af5020749d8084faef7e71d8a71e0c70a10121d54ece9e0d4b2",
+    "283dc660cb64f9b55c50fc3cf16309bee1c43a89f81019b885478eddb0d2e699",
+    "2c620b5dad5b641cf45b892b4f4496ac8316d34e7ef90339320b5e23e036ee62",
+    "8fd81fa6350dca072185b0843f537c89a67fa1ddf7124ea0fd0fc27137ed63f0",
+    "af98c741b370b65285b0dd61a520a76c01b5abda6b6ef7f42a91a3689d6ad2cd",
+    "c9862880b1cb78383da5e731b1c01ce063c7aca0c954a12e63ae131f994cbc22",
+    "04dd8dd7018dbaaaae478283aa8df305d1cc803ecb40cbbf6e587f1d48c74196",
+    "002ae4b85a1f73b00117452dfa575e98e63930a70bb2af424a1767591b096afb",
+    "ae120448402f8c6f07a503038489d34e7712c258f4333b1e1a6b357d48d0e6cf"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "SK Hynix pitches memory-centric AI rack system at SC26 as rivals close in",
-      "title_ko": "SK하이닉스, SC26에서 메모리 중심 AI 랙 시스템 발표",
-      "url": "https://www.digitimes.com/news/a20261120VL211/sk-hynix-hbm-2026-dram-samsung.html",
-      "ts": 1795147584
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Beijing, Moscow and Washington Linked to Proposed Joint Declaration on Global Peace - SCMP",
-      "title_ko": "베이징, 모스크바, 워싱턴이 세계 평화에 관한 공동 선언 제안에 연결됨 - SCMP",
-      "url": "https://t.me/firstsquaw/194478",
-      "ts": 1795147586
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "JPMorgan Lowers Williams-Sonoma Price Target to $245 From $255",
-      "title_ko": "JP모건, 윌리엄스-소노마 가격 목표를 255달러에서 245달러로 하향",
-      "url": "https://t.me/firstsquaw/194479",
-      "ts": 1795147674
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Etron sees memory shortage lasting into 2027, teams with Nanya on AI memory",
-      "title_ko": "Etron은 2027년까지 메모리 부족이 지속될 것으로 예상하고 AI 메모리 분야에서 Nanya와 협력합니다",
-      "url": "https://www.digitimes.com/news/a20261120PD223/taiwan-2027-etron-revenue-capacity-expansion.html",
-      "ts": 1795147744
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "국산 NPU·AI 데이터센터·조선 AX 잇는다…실증·판로 확대 지원",
-      "title_ko": "국산 NPU·AI 데이터센터·조선 AX 잇는다…실증·판로 확대 지원",
-      "url": "https://www.news1.kr/it-science/internet-platform/6360443",
-      "ts": 1795147746
-    },
     {
       "source": "연합인포맥스",
       "title_en": "[표] 은행간 단기금리 기준-코리보(20일)",
@@ -11504,6 +11469,41 @@
       "title_ko": "그리어 USTR 대표 \"중국 농산물 구매 및 희토류 수출 확대 시 양국 관계 개선 전망\"",
       "url": "https://www.financialjuice.com/News/9861819/USTR-Greer-China-AG-buying-and-rare-earths-would-boost-goodwill.aspx?xy=rss",
       "ts": 1795182175
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "USTR Greer: China brought up Taiwan in talks this week",
+      "title_ko": "USTR 그리어: 중국은 이번 주 회담에서 대만을 문제 삼았다",
+      "url": "https://www.financialjuice.com/News/9861820/USTR-Greer-China-brought-up-Taiwan-in-talks-this-week.aspx?xy=rss",
+      "ts": 1795182209
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "USTR Greer: 301 investigations coming before year-end",
+      "title_ko": "USTR 그리어: 연말까지 301건의 조사 예정",
+      "url": "https://www.financialjuice.com/News/9861821/USTR-Greer-301-investigations-coming-before-year-end.aspx?xy=rss",
+      "ts": 1795182212
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "S&P 500 Faces Technical Make-or-Break Moment Below 7,200 Line",
+      "title_ko": "S&P 500, 7,200선 하회하며 기술적 변곡점 직면",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/s-p-500-faces-technical-make-or-break-moment-below-7-200-line",
+      "ts": 1795182269
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "US Sentiment: NVDA & ANT Couldn't Take the Lid off the AI Trade This Week - FJElite",
+      "title_ko": "미 증시, 엔비디아·앤트 등 AI 테마주 이번 주 상승 탄력 둔화",
+      "url": "https://www.financialjuice.com/News/9861822/US-Sentiment-NVDA--ANT-Couldnt-Take-the-Lid-off-the-AI-Trade-This-Week---FJElite.aspx?xy=rss",
+      "ts": 1795182271
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Wall Street Banks Are Demanding Guardrails for Rogue AI Agents",
+      "title_ko": "월가 은행들, 'AI 에이전트' 오작동 방지 위한 가이드라인 마련 촉구",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/wall-street-banks-are-demanding-guardrails-for-rogue-ai-agents",
+      "ts": 1795182335
     }
   ]
 }
