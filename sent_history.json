@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795146338,
+  "updated_at": 1795146492,
   "id_hashes": [
-    "b0bbf9e3771c70d3afdded57f31e0b3415472bcd61fb617fa6c78ee44e46702b",
-    "262d47834e9816a94e399d35c463a503a48821fa592898e1628a65c3a4e1bf6e",
-    "7f3351639ea9a418dd8389d63b4668bcbd95352b9883895f6c5f7b2ee0e0ed16",
-    "8a0a065ef0094b5ac0a2582f854c943637bbbec29d5b05e7bc3fd37f5441a357",
-    "54c6b46d8129107773615b8872d6262eb642e0084e6d7ee708897b09627887b2",
     "53c32c7e60fd8b6a64c26b16020e0edd87d55da1e1a3437cca27a6f16d40e177",
     "57bf70c59d86e74d9d8123193c901798fa36acea430b97e5c97b6a7b4334947e",
     "c3cffd084fb08f948a5c3093775edead308abc78720123489032c52b33bfb32a",
@@ -4000,14 +3995,14 @@
     "1f526577449a8ac043a03711f99f057f4c01634c80051ba4dfd9dbd6ddde7d35",
     "0b0bcf2aef792c407597b44fb30d1f83b5911115da58348a7a35aed33f571901",
     "c987589167faf4c1f3ded3d0677a1264fc5a8fb706c8efaed55e54e42ceb56a6",
-    "627a582dc46a654d3ae22a39d60a17c3358b50ceb668619e920f9828aac708c1"
+    "627a582dc46a654d3ae22a39d60a17c3358b50ceb668619e920f9828aac708c1",
+    "0b79e4c31b6d3f4a6877bc2f53845c953c020f5efddbcf9920fec61d6d874c60",
+    "5f0581e4f4c8850e30093255a524f352151f89d2b272c3421d80eb60af8a40f0",
+    "79e2370ff44766f37224d3532d28c364d8ce70812de20864037860c6405043c4",
+    "9b89ed48a09c2a46f2e0ca0c97dc400d196f0d4708a08ecab7a13f1cd35eb86b",
+    "2ab826c34cbba082b55d9677a51e743472e7e78e11105e486ed2cf8637aa7fe9"
   ],
   "title_hashes": [
-    "5afefe150f9f4decc6f49242a1c5d42a211cfdcf5bc25004732ead7922a4119b",
-    "99aa81cfe1fd56655afd736959b5726f78c00f1b84757bbc044a750dd75eae38",
-    "5014c4f9ef4ae48eed17d73d84e49a932d17580d10f2ee76b9e112f8631b52b7",
-    "7a4e363cacf87ec196d0edb605420100732c1e1ac2dfb35091afbc6cb27fbd9f",
-    "b89fb9ec0dbb6be27a2931883c74790d71b046f6d2619971be24efc7c0604221",
     "7db0b30a0b1128b8fd17b107fc50f34344d512225bf6d641c34c1b9a33600dae",
     "ecd2bb11af5b9e7a72ed78d1dc6a00e508724bd258d63183822cbc622d4f192f",
     "24611fc666721c1cfa8c62e58e8a9f7086c4da3a7e33ab1d3b6fcfe00d553648",
@@ -8002,23 +7997,14 @@
     "8eea29370fb48825b72844d8071e835b298957edcbfa37524ab0793b7b564073",
     "63695ed4865c811e41803b2f1856097ef9e5280dc91c5ba51a2993bfa453793a",
     "cb4beab5bb9f3fddedc318ac36106b7dd30ef68f01432a583793d000d0b8844b",
-    "73415ff94328eeeebfcbd607fe1d92876ecf1c769f037e460cbe2a81ac37faac"
+    "73415ff94328eeeebfcbd607fe1d92876ecf1c769f037e460cbe2a81ac37faac",
+    "24a8bd4b1c9861ec3fb28fab88f6acda88d0007296e86d866026f89786fa9837",
+    "0fc9b7976fba1eb5c2a60ba659504c09306c2bda80d7818f54797670edd2fd67",
+    "4aae1397f670f97d795f18c386d54baeffd3f9ed5b71021b01bec96b388bf6b3",
+    "a9c8060760ce91575c003be6520f7940cf79890e4a4e564216e0461776f12e4f",
+    "93fee523a4756ae823ba49a6eb7a26cf921ea6e0d7bc593635c5968bede40442"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wccftech",
-      "title_en": "Intel CEO Lip-Bu Tan’s Campaign Against A Bloated Culture Reaches The Global IT Division, As Purported Employees Claim Double-Digit Percentage Job Cuts",
-      "title_ko": "인텔 CEO 립부탄(Lip-Bu Tan)의 부풀어오른 문화에 맞서는 캠페인이 글로벌 IT 부서에까지 도달, 직원들이 두 자릿수 비율의 감원을 주장하는 것으로 알려짐",
-      "url": "https://wccftech.com/intel-ceo-lip-bu-tans-campaign-against-a-bloated-culture-reaches-the-global-it-division-as-purported-employees-claim-double-digit-percentage-job-cuts/",
-      "ts": 1795121193
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "美能源部长：波斯湾成品油、俄柴油供给增加，美国柴油价料持续下行",
-      "title_ko": "미 에너지장관 \"걸프만 석유제품·러시아산 디젤 공급 확대로 美 디젤가 하락세 지속 전망\"",
-      "url": "https://wallstreetcn.com/livenews/3202802",
-      "ts": 1795121280
-    },
     {
       "source": "9to5Mac",
       "title_en": "Apple fires back at Epic over claims it withheld 122,000 documents",
@@ -11504,6 +11490,20 @@
       "title_ko": "항셍지수가 2025년 5월 이후 가장 약한 수준에 도달하면서 홍콩 증시는 후퇴",
       "url": "https://t.me/firstsquaw/194475",
       "ts": 1795146276
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "美 캘리포니아주, 엔비디아 상대로 투자자 기만 수사 착수",
+      "title_ko": "美 캘리포니아주, 엔비디아 상대로 투자자 기만 수사 착수",
+      "url": "https://www.fnnews.com/news/202611201233585040",
+      "ts": 1795146363
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Telegraph: Coded Communications Between Saadi and Relatives Were Used to Plan Attacks on Fairford Base",
+      "title_ko": "텔레그래프: 사디 일당, 페어포드 공군기지 테러 모의에 암호화 통신 활용 정황 포착",
+      "url": "https://t.me/firstsquaw/194476",
+      "ts": 1795146428
     }
   ]
 }
