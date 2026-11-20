@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795204290,
+  "updated_at": 1795204438,
   "id_hashes": [
-    "09c7084100c5ff168176259d25e2f54798a562db150285b7695e51e469854cc6",
-    "4bd2e722ce0e0b4825a67f88002673b15399f287181db43a8dc3cfebfce7ee22",
-    "41b3bd6c1bdfb1ae5b8427f6917eb4ac38c5a9354bacad1202f50e2f23eccd51",
-    "2d50eb40e523f84506c32a6638adf6370ff62031595ed835801b62870ba179ed",
-    "52f193320940fdc6edb3c487b7e24d27bcf72a158b31f072de59094ce5d9a07d",
     "440edcdc2704d2a9ba4b0cd2491d9c2db33e7281dc15ba16b1a0634fddfd26f8",
     "8605f64f427d7b53fe6c9906b2b6d65291b2f6293b15f7903e88d2e9f57adfbf",
     "9bdac0876ffc8839beeba692c8f55b4e0e45f539b5fb539cb76d3832f45b0599",
@@ -4000,13 +3995,14 @@
     "8d4455487b99d276a789d07aea11f28d474aca19ab3a0f74e5d4d0444ea2d15a",
     "721fc4e22d95795b2cbb8aba6e07e60466bc4fe3216803306e45094d43830bb4",
     "6a4d207b2ee31b131bf43c3187dec793716b497e96eca7fbccbd18d31f96a246",
-    "7be5b4ae136d5389b68e989c50a6ccd119fbe88c6bbe38eac379a11ef83063b5"
+    "7be5b4ae136d5389b68e989c50a6ccd119fbe88c6bbe38eac379a11ef83063b5",
+    "9b2f280900629e0ce7afa7ed45df0296b62b2c912c14c453c8936867b48ada13",
+    "d0108b2c8aff9dab84582858ecd48896ec253ebc1cc8b2d74d10ac76817cac1f",
+    "3c4b8f744e193cb802992261b0dea60d98dea5f397dafd8218ac1d86ca400e20",
+    "6bc8d0acae77a68dd0d805ebb36ca754b476ffe80c4141a44340221d926250a4",
+    "a9234f8aacdb59460470e9335f496107164d5cd09dee59ec39b440d2b96786bb"
   ],
   "title_hashes": [
-    "32133299e73c2b728f7d960efa50bce74f23916374de67c146e7fa351da4830d",
-    "1a2dc1a930324924b16216808e3d49ec9b7d16fef1060b54b8657353f86e5a2a",
-    "02bf4ddedc505ca567f42c2116a5ad2205c89b0718418b257c28e5243f04565d",
-    "30faf59bc4a43421292412cbc0a1a12ce99b9cf285e04fe64bb813589db71984",
     "f56e7cbf132952628ce9855030815826d0e6634866897220f89c6ea632c072a9",
     "5e4eb1c451ba573f3ffd3fee7bd1d8cc05521102d91891c6bd97bd9d5af731b7",
     "04bf1835c7d2c34619cb0ae2abb6e701ea6e3e44b4442d220b7671ebba3e380b",
@@ -8002,16 +7998,13 @@
     "e35abecca3bceda5bb67baf8833f5bc61ee5eca2673991ca294323cce7e4af0f",
     "fe062671d5547c78fa77b146fcd6e23f3ada76d7385cec9188d1fa5aaf655df3",
     "98e03ed44a6eb6f5acaa05e5cb7c585effb3a50ad9306f8d891ac09dd9d8b60a",
-    "5b479944f2b833b050863cb0ad2f3dcd50ebb5c7ca4bd4e9e67bac615bb66892"
+    "5b479944f2b833b050863cb0ad2f3dcd50ebb5c7ca4bd4e9e67bac615bb66892",
+    "ee5ecbe9b37a427f5403de9e20bbd010420ba725fd867f607dad3406b1d11142",
+    "c466efd0f12eed7b11767023ab7d360e4629b3573797d39a84bbd8b97d00157b",
+    "61f16a4fe051412b7fef047bb3fa85b90f769679595338cf941ef6c7078781f2",
+    "311c5e757bb7803b2b56cc6344d815d566a070b69f7c17b33f44e08c08128a5b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "StreetInsider",
-      "title_en": "Barclays warns of further equity weakness as hawkish Fed bets build",
-      "title_ko": "바클레이즈, 연준 매파적 베팅 확대에 따른 추가 증시 약세 경고",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMDNlVXIzM29xb0VMS0VsQUpsVGkyQVVqcUhQR25adzdlSE9sMnFFa0xUbW8xSTVIRnItdnpubzVOcVNjYTM5V3ZIdy1GRjBKWHlBQXpqV0lGUlptMFNLTGxlMUtqbWVfbkVCS0EwbzQ5WlhsNXBZT0puNFlYR3FvMl9fYXI4SVYxSm1WZ2dEZXZBYmZQUl8wQXlWVTd6aTRYbXVBdGpoMG5oblc4R1pacFV1dHRtTW9BUkxXTXdmS1hIdw?oc=5",
-      "ts": 1795176769
-    },
     {
       "source": "Bloomberg",
       "title_en": "Tech Figures Distance from Trump as Democrats Ascend in Washington",
@@ -11504,6 +11497,13 @@
       "title_ko": "브렌트유 선물은 59센트, 0.64% 상승한 $92.57/bbl에 결제됩니다",
       "url": "https://www.financialjuice.com/News/9862367/Brent-Crude-futures-settle-at-9257bbl-up-59-cents-064.aspx?xy=rss",
       "ts": 1795204289
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "볼턴 \"트럼프, 이란 정권교체 '결정 않기로 결정'…전략없이 봉쇄만\"",
+      "title_ko": "볼턴 \"트럼프, 이란 정권교체 '결정 않기로 결정'…전략없이 봉쇄만\"",
+      "url": "https://www.news1.kr/world/usa-canada/6361478",
+      "ts": 1795204312
     }
   ]
 }
