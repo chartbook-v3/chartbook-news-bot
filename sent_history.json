@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795172741,
+  "updated_at": 1795172894,
   "id_hashes": [
-    "e41ad2c610cedbab03c7d777c3b99129b45baa2504a8e1ddd5d0bf16100c96c7",
-    "db9d35ed4f3f99ae6909397997b853fd25d0f2dd670466338f49be2f76074984",
-    "c5cc2821a83e86436ab863e540652f3f548281feea502acb77ffec43def12187",
-    "23f534d7b0129119aee9ef74f1dec8da07cf0afe53ceed0482473d13a5731f58",
-    "f71c07ff701927e02bd50604cbb0e1a839ae9166b0a4a3f158006266ff591364",
-    "be8669616b917d26d515a3e31d6c4b1cf651ce3472099da3fabf8d169d763167",
-    "52f7af8225fa7d9f9314b7d04b5ede763a3576b301b5b17da5e92972a458ed9f",
-    "e58955f404a9031cbc115c51f7ddb70c64261463bad77bda79fb47e2025c3d0c",
-    "cacb97771439814142560f4588fad43f0ab419e64a202324ce66053d79373043",
-    "0557c0be3da4151059350f27b097066bcab237ff0fc4f32d86a27a3ca5438b5f",
-    "81b902344e24315deffa1c8db43f78a909bc95289cb8f2ac6cb3c721766c2a1a",
-    "08735f11f39d73da4f7855d88a8faf436bb60b77352fd198dbbf010c78a6e24f",
     "651e799cc72178546bf3f65a89c07c760031d09a47e23410568385ce25dc4ded",
     "301ad10e404fbbd66eaa1f0390c525503a9231998f41753fb3016fa7e8175c98",
     "236acafcf7e493a8c2028fc5c78cda3127230ec34beb9176407de2098799de5e",
@@ -4000,19 +3988,21 @@
     "80ff9f98bd34517b30a558dfbc51d56877a3d30733da957be5e93b9be3ffd5fc",
     "c7dfb2f94aaaca166fb35ce6623247892f668192a8d90f4b7e07c5b321462023",
     "9425d23be5b8d3cd57b12fadf90e1ddc3023f7cc06e33d17db24956a28c2dc75",
-    "98d2c810889bc96803450e5b3c2e6deabe1cd184e78432a017c632cdd3476e4a"
+    "98d2c810889bc96803450e5b3c2e6deabe1cd184e78432a017c632cdd3476e4a",
+    "4ac9715ab7b33d9fab420cb766c8f4634fe4d226f61ad7fe3faa6e740b549c4e",
+    "8f49ddc3ca4df157e1b2c66082bdd6cbc0d86f74841c88174816ad9ca919e8f9",
+    "f50aaab4946662a14755c28d57a71849949401f5cd78256329520b2b74a024a9",
+    "6fec5e2f3641775869c3c63bfe319fde6299e51e91a0919996e787a704f0f5e3",
+    "f212a1f939209ae34404375d0eba2dbcbded16d404afb27e171155a6ea46f114",
+    "03cd2f4fced9cdfcfca04e5b9317efe4cb47e7736e57172272104123c16aa692",
+    "d3bac842328b45c86c9b1035f3afd491f3b0b40608586270264f346002aa23cd",
+    "e4bf8d1c5393a5f43186de59922f93d6dfad77a8a737f961811317d3b837f1c0",
+    "1f660fdf9bcc823db94599ee5fc837bcfe184b756f6a899a51321a6a6777a348",
+    "de6293071b09aec01ae35976e36d94fb6952d398b21ce95b6cae8a93fecdf421",
+    "5dc316ebad1000808e3fadf38d30004697e646bea69e0612266d524385779b37",
+    "1ab8ede0866281ef611f1c1206b0131a674ec96ec76cc843398688673e32ee23"
   ],
   "title_hashes": [
-    "4eea5ed49c4a046e7f8fe1f16cc15917d59e0c6539985a3e99403a3c7d980774",
-    "5cc98485c515c47a85b0c7f778b66f118b3270ec5bcca702a7a6333e49361d39",
-    "f7fb65c1626ef2c58bb9e80c2c0a6691b902735fd6ba835a7a0cde5efe4a9ce9",
-    "99dcda7f8e541d7c894941f5269d41fd3689cb4544626976e3feb5871d7ab862",
-    "d06f0b3e010f8ee7e27d37a37a13e56963c5147827ace923532b445aca04a15c",
-    "433b41ed9dbb59c632791393cf540f1405a0715b02da43bf3ccdef2988cc3e1e",
-    "f94846d0b26e4cb3a8b23ef51781c79bfe1e34de2b54a50c9d372a62ca7a2fef",
-    "daf4c7e7adcb2679f7ff29e48fdb19dcd73d88b80c4b97ec9edfa64e2d8545f1",
-    "39729b5820838cd0dc53ab211ebba89fe20af4ae6c0b0907e7977e9aa60449c6",
-    "56b2cca3650f89d3f5b7ac2fe5658e0528509574a80e3a2a0deee3fba7bcfbce",
     "328867571d859868ced335a1e4f9f3738d802878b601497a157866b6f83faf8a",
     "a498d2d286d19b332df13f9bac29328b1f3647e3e91f2d8d86ba2f4495404494",
     "2c7a519bd1a8ec553ee1f09610bec7e47db91c90326ff966e3d0a76df06831cf",
@@ -8002,44 +7992,19 @@
     "9365c67d7be11686db35008ee01afe2655cc44a3ab8b56b6949de3f5b0aef83c",
     "31371bd6696e6ffb25f602b0a46bd571cb62c2d255e2b304a17f98f6bd74b395",
     "3e38840e06b11bddeb906a2a002a7b5919307de95f652d05a3b96092cbe11eff",
-    "e1d71c0d4e944de0feba44b32318c2ddbefb32d9e008cc34f96283e2b89fe5b4"
+    "e1d71c0d4e944de0feba44b32318c2ddbefb32d9e008cc34f96283e2b89fe5b4",
+    "ed212292fc2063d56972de6a1a1c9bb02ad45f6f89a4b6545d72d9b016b2f65a",
+    "4b185754260356fe55f1ccf721b06956076accc4fe8cb724384f9cfa148cd81d",
+    "474efec8b5d7f1bd690d197bd7fe4535e5c0f9a1cfa4371ad6894b3ddf67d094",
+    "560456e5c48ba760b2fffa7c13502d030c5e5b9a31371058fc6823f43589b544",
+    "d0df2c71ebcad73662a92254274f3dc7d94a6a1ddf24756c3eb9332f380f5ed3",
+    "997e2137f271b70d6b4d3458ca8cdc4adf4d723c543d63521f85744f9df74c96",
+    "cea468bfb23be40356e5a0251aaf66a0fb8394dd843888030709fa90e1a52970",
+    "10897a38dbb80ec8ab2f644ab8d0a430fa6e6f413c50489078a153d8c72a36e2",
+    "07976b00dd21f6e01e8ab0fef264294c0147479f4194fc1268c9d0e8aa38ef88",
+    "a92e6a7583540d04b691e71f099da9a6a372ec76a1fac7422b36738fce87dcfa"
   ],
   "recent_sent_articles": [
-    {
-      "source": "재경일보",
-      "title_en": "[특징주] 대한광통신 장중 약보합세 1만4170원 기록 : 기업주식정보",
-      "title_ko": "[특징주] 대한광통신 장중 약보합세 1만4170원 기록 : 기업주식정보",
-      "url": "https://news.jkn.co.kr/post/1109575",
-      "ts": 1795138375
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Canada Auto Plant The 'Front Line' In Trump's Trade War",
-      "title_ko": "캐나다 자동차공장, 트럼프 무역전쟁 '최전선'",
-      "url": "https://www.barrons.com/news/canada-auto-plant-the-front-line-in-trump-s-trade-war-974fe631",
-      "ts": 1795138378
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "美国总统特朗普：这次旅行真是历史性的。",
-      "title_ko": "트럼프 美 대통령 \"이번 순방은 역사적 행보\"",
-      "url": "https://wallstreetcn.com/livenews/3202930",
-      "ts": 1795138465
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "特朗普告诉欧洲，普京希望结束战争。（AXIOS）",
-      "title_ko": "트럼프는 푸틴이 전쟁을 끝내기를 원한다고 유럽에 말했다. (액시오스)",
-      "url": "https://wallstreetcn.com/livenews/3202931",
-      "ts": 1795138467
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Keysight projects 20% fiscal 2027 revenue growth as it guides Q1 revenue to $2.040B-$2.060B",
-      "title_ko": "키사이트는 1분기 매출을 20억 4천만 달러-20억 6천만 달러로 이끌면서 2027회계연도 매출 성장을 20%로 예상합니다",
-      "url": "https://seekingalpha.com/news/4674996-keysight-projects-20-percent-fiscal-2027-revenue-growth-as-it-guides-q1-revenue-to-2_040b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795138550
-    },
     {
       "source": "FirstSquawk",
       "title_en": "LME Copper Declines 3% as Three-Month Prices Hit $12,151 a Metric Ton",
@@ -11504,6 +11469,41 @@
       "title_ko": "EU 집행위, 우크라이나에 79억 유로 지원금 집행",
       "url": "https://www.financialjuice.com/News/9861598/EU-Commission-disburses-79-billion-for-Ukraine.aspx?xy=rss",
       "ts": 1795172686
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Bending Spoons Boosts Revenue Outlook and Continues Its Acquisition Spree",
+      "title_ko": "벤딩 스푼스, 매출 전망 상향 및 기업 인수 행보 지속",
+      "url": "https://www.barrons.com/articles/bending-spoons-earnings-stock-price-8de5dc59",
+      "ts": 1795172762
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "Redditor forced to bring desktop PC in checked luggage on US-to-UK flight with GPU still installed — GPU stayed installed and tempered glass didn't shatter",
+      "title_ko": "해외 커뮤니티 이용자, 데스크톱 PC 위탁 수하물로 미국→영국 운송 성공…GPU 및 강화유리 파손 없어",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/redditor-puts-pc-into-checked-baggage-from-us-to-uk-flight-desktop-unit-miraculously-arrives-in-one-piece",
+      "ts": 1795172765
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Congress struggles to avert US shutdown as Iran war divides lawmakers",
+      "title_ko": "미 의회, 이란 전쟁 이슈로 분열 속 연방정부 셧다운 위기 고조",
+      "url": "https://www.streetinsider.com/Reuters/Congress+struggles+to+avert+US+shutdown+as+Iran+war+divides+lawmakers/27378508.html",
+      "ts": 1795172767
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "ALPHABET: FILES FOR PRICING TERM SHEET OF C$6.00B OF NOTES IN FOUR TRANCHES - FILING",
+      "title_ko": "알파벳, 60억 캐나다달러 규모 4개 트랜치 채권 발행 위한 가격 결정 서류 제출",
+      "url": "https://t.me/firstsquaw/194585",
+      "ts": 1795172825
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Robinhood faces shareholder challenge as SEC loosens proxy oversight",
+      "title_ko": "로빈후드, SEC의 대리인 투표 규제 완화에 주주 반발 직면",
+      "url": "https://www.streetinsider.com/Reuters/Robinhood+faces+shareholder+challenge+as+SEC+loosens+proxy+oversight/27378522.html",
+      "ts": 1795172893
     }
   ]
 }
