@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795217649,
+  "updated_at": 1795217801,
   "id_hashes": [
-    "92e3a284e0fa4bf37b417b65e017a579d20262b3773ea18c182139f543efcb93",
-    "22c8cc80d940235e77dbfc063c687d8b0b66904d4e6ddbb1b715c42fdbdce3de",
-    "eb983a38ff09dc78e522d7fac46037eee78e51ce3c9056aef34db3e983def76f",
-    "b9940d2e9176ce75d8dcd71c6adf0566d9cb1ed5b40ab8e761fe021fbacb6a18",
-    "41f15be3d32c5ce5a4f2248f4586a12218bf714c5fff9dfaa8e2c56f9fbdb19f",
-    "138233ae93d40fe9e1e1015eeeff62b395666cb3af59ee144aafc6436f2e9220",
     "4f8f3f63b923c9858c1f5ea0dbc086c9768fb51d247e1a0399768852eaa8d77a",
     "bfbc3edc0ac1291501e53001495549e956b074c0b80cffc616f9f956be2e276b",
     "0653114a90e94ced4259d061f5c23037e8d67d3f9bf69979307f193805ada7f7",
@@ -4000,14 +3994,15 @@
     "40655bc20e2d3b492cd8cf392580e3db3ec7fd344c072643388a5893e22a2d84",
     "85868a6154fb4e40b41429ce014ab7f6236e91f5097cf077aab65f05db5e8de1",
     "a72aeb23dbf30e2901987affc2525a191129251316f2133c01767e5ac57c7be5",
-    "263b0e6f7b1e14b665f7540dc16e63daea6b8ff1039291d84d97f723125395e0"
+    "263b0e6f7b1e14b665f7540dc16e63daea6b8ff1039291d84d97f723125395e0",
+    "262ba607c0ede643856735a98b791ad7ec77df7b20dc26a675b60de32168a3dc",
+    "7e53628dc7f9c09fd1549212e6f0470cc0d00d0c3e9b355d739c0bc013750c7f",
+    "9d18de953174096223975ce658ac8c9242f8c6c627a277e9b5fb81961f9cc437",
+    "f42944dcf194342c1be683aac58a9579e5fb45b6c270571e77e2e6c65bee4afe",
+    "53f8d3d94939e1941ff78af8de48943ffdcc0973a6d37c2578de8a385fb5121c",
+    "f4607726083b6a2ee0a71baa0cd45e9d9c82f654bc229167356ac7cf48ee87da"
   ],
   "title_hashes": [
-    "879ebd54f61b28447b4ac1bd0c7a6448ba4f7940ca0ddb69f1f6ef7aef6a90ad",
-    "af15b5b5b3d3f5f23307d77357e16f85ea97dfe17a1d45ed32df44492eb6035d",
-    "6a65e167e941a069258ccae5b865229c9c1523316a6d46e8e48a3809a55894c3",
-    "b90e46daa66d25c4fb4fd532b6583e097a582d66b640f7d45edab241b901a0ee",
-    "0f1bee8e1d56274ed5f2de2e5e2055a242efb90d56afc95e7e13ced24b365c63",
     "3675d59cd80818095de011c0a3a00bcbb692eb5b7eec6d09eb50d099f922f1b9",
     "d25df92015e686646696fbf3b8691b04fcca2e33f2ad5917218a425b09a9c2b8",
     "6a4416398a2373004bd530e3225479d9791f9b12f5e6e12444126e90ce0211f9",
@@ -8002,16 +7997,14 @@
     "3faf59e841809913206f813855553afdc3c5038a77c41de27fb1a5d656c8cf8e",
     "275512718ebabe513117b577c9bcde89eda5f908340b538d3f339fb29a5fc174",
     "2a4a821ce77dd2139d6bf66920daf9ab9944bcbf64da33a5538132424a814600",
-    "43e408354307360b503d9ecff7b6f9c805da052281414ddb268e1f6eedec655d"
+    "43e408354307360b503d9ecff7b6f9c805da052281414ddb268e1f6eedec655d",
+    "a7298370b44b851eeb6ac0053d84e285cfb01adbbcb044288bd898b30ecf567e",
+    "06359cfa4514b4bd9fdaa355b38298cffa4de06ddac06a947da4743bc3261aab",
+    "7dca73de1147e8e6c9883d84f6ec2b7d3adab7045feda247a0b77a3c4b1f4495",
+    "d923ad590fbf2ed0b4d1ee2f8d7fa7b6e7305db121c751071548bd25af0d8d9c",
+    "0beb56d23929da1baf420a4a8dcb94a01602e4cda68f9a5c6f74499bc7765e74"
   ],
   "recent_sent_articles": [
-    {
-      "source": "9to5Mac",
-      "title_en": "Apple Calendar got two feature upgrades it really needed in iOS 27",
-      "title_ko": "애플, iOS 18 캘린더 앱 주요 기능 2종 업데이트 실시",
-      "url": "https://9to5mac.com/2026/11/20/apple-calendar-got-two-feature-upgrades-it-really-needed-in-ios-27/?extended-comments=1",
-      "ts": 1795190107
-    },
     {
       "source": "Reuters",
       "title_en": "Bessent advocates lower Fed rate hike, cites energy shock",
@@ -11504,6 +11497,13 @@
       "title_ko": "엔비디아는 200달러까지 반등할 수 있다고 분석가는 말합니다. 또한, L3Harris 및 기타 4개 주식",
       "url": "https://www.barrons.com/articles/nvidia-can-rebound-to-200-analyst-says-plus-l3harris-and-4-more-stocks-3c840464",
       "ts": 1795217334
+    },
+    {
+      "source": "글로벌이코노믹",
+      "title_en": "신약 개발 속도에 나선 빅파마와 AI 기업…앤스로픽 상장 맞물려 협력·경쟁 부각",
+      "title_ko": "신약 개발 속도에 나선 빅파마와 AI 기업…앤스로픽 상장 맞물려 협력·경쟁 부각",
+      "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611210808181449fda4f5ab74_1",
+      "ts": 1795217800
     }
   ]
 }
