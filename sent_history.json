@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795162510,
+  "updated_at": 1795162660,
   "id_hashes": [
-    "32de46a455fb9aa699b5e9e8a016342baeefc267c275484d0aa13a058ac722ab",
-    "e76ff2701deeea97f63b9f1ffcdcf82b56cdab346a782b7b28a441b4a55cffbc",
-    "bf38713b842b0f01cd0d46413250ab3f3b52b61b4496d20845ce0043b7d38e51",
-    "bbb8129474b1532a03779a7a00b51c118399019394fbae24e24db45203270bf2",
-    "0c93fa3056add88ddfa9a9a38371440f99e846c2afa7774d5ab13b07c9eba2d9",
-    "ce68b3848d91c608ec3011319d90f67ffd95fd74232f8b26dd2794adb4b6df49",
     "aba9e06274549cf1ec11ddbc174f71d8940a18f11d95ed7c20f732d487d0ad9a",
     "e891b93e16fe1216949b2b5e1a81f001c7ced1a6876aa22b9e041091bb145c0a",
     "9fbef52ffdc78e26063950b28b46b71f13f47d61091617c926e2ab6b1f8da7d7",
@@ -4000,15 +3994,15 @@
     "4564d40b96e6fcdf288445f1a2646e51a1be7446f314c5ff633e29bf7b10883a",
     "bb0c82445a27979a9b2840f22c00b4538ecc2380a914e2a53ebcac700bb70285",
     "29776b7f0a84fb7080a2fd7bf771e8a7a76a8e4853bb675c92c8a86de7bb9633",
-    "a05e6c29f188ac8f153481a4d74d61232339d897b1ff839c2c64e6fd034cb37a"
+    "a05e6c29f188ac8f153481a4d74d61232339d897b1ff839c2c64e6fd034cb37a",
+    "f40880ff875886b985a10dc68a499761672017073ba87e9985428a633280f959",
+    "fccfe21b4e561e3e2d88c487b2e4e627b40a237437b29206b24e14b779cec850",
+    "98cf4ba42c4c5d480ea38da6c1c0e595b28b114a01575c9f7a565bb16dfd0a44",
+    "869ca67c3ea83e72f93cd29e36716ddd3524376fc9775de9535098cd0058f84e",
+    "311b7137a393c2cd18314b944e77b90c7ab88e553a9f079a7272abcf857006b2",
+    "78c840c58ff723fc32b678369645d9625d97a885faecba6729d0c4cc22f816f6"
   ],
   "title_hashes": [
-    "37652a3aa0b39b505621f2c49806bdbdb40b7cd80f7964175e79d3d4ebbe45ba",
-    "641898e4cdf8f449633d6e0b992c57912653b914af4874e06fec8ace2774e07f",
-    "8922d24316fa7a32b7128865c97b881c820ad4dfc5040f4fe41cf663276fa465",
-    "b30e95b772e8e21f42ea2f69edc7cc6b2e1809ef94d6b9f466c8dbc09b07bfe7",
-    "11aca39a74e64e4e5efc2da1e1e2ad0ac79fa6076b8715e85f0a3976c09d0867",
-    "c40f95b0c43da737adac4895699a3ed7dd68c71109cb3c11a4658e5dea138ac2",
     "cf733e23208001cae705201117d43495dca079ff3300d4950892102ab29f9b71",
     "b40468b2fac1f3b453b2f2bb89823d0daebab697470b9f246b0cf9aa461bc2e0",
     "5c5e070cd0004c00bf5f12f833d56222f2477e480c4688a2af912b978bc2260e",
@@ -8002,16 +7996,15 @@
     "e43ba88056a78463f081cfd2738e8443e1d97af4c96d29b12b5af3edca520e3c",
     "d1504c5a048d2cea50f32346aa5ec4b2737284e84afd3c573e2245022d73a1b5",
     "c5f99637118e203b631450ee20e3bc94bf23089f59a1226d7ff85e9209d9b13b",
-    "8885ae57de2d539e04d75e6f423f597f2cee16a4d1185e20524986711f072a77"
+    "8885ae57de2d539e04d75e6f423f597f2cee16a4d1185e20524986711f072a77",
+    "af74db436b3ea46999d480fc8447badff7594737e9a7d8de48871ee21f35b764",
+    "37a71834b0bb11c2015ebcc5378302a54fb4da7ec54ba6d882da447a93026fa9",
+    "18da63a394843161c90f104a493ec8b21fd10e62cfaa992b3fdb1d40c446c0f9",
+    "df8c17e9b139cc85eefb47fd091ee21a93c24657dd4a30d73b5b105774b9313a",
+    "bfefc52bf5bf2af701bc98ed8994ee8e9e5a6571f4afa668a3ebf15c20604b41",
+    "429676c638e01e2bfe46f239eefb0ec9fe1582c3230f42dd3330e91ab706a5ee"
   ],
   "recent_sent_articles": [
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "[속보] 코스피, 209.38p(4.08%) 내린 4928.51 출발…코스닥 3.48%↓",
-      "title_ko": "[속보] 코스피, 209.38p(4.08%) 내린 4928.51 출발…코스닥 3.48%↓",
-      "url": "https://www.fnnews.com/news/202611200855304073",
-      "ts": 1795133207
-    },
     {
       "source": "DigiTimes",
       "title_en": "Humanoid robots need two breakthroughs before revenue takes off",
@@ -11504,6 +11497,13 @@
       "title_ko": "대학 논술고사도 ‘AI 커닝’ 우려…교육부, 대학에 부정행위 제재 강화 주문",
       "url": "https://biz.chosun.com/topics/topics_social/2026/11/20/6B2TPET5ENGETM2YIRPNKZU5FA/",
       "ts": 1795162509
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "[AI 고속도로] AI 데이터센터 구축 문턱 낮아진다…업계 기대 속 남은 과제는",
+      "title_ko": "[AI 고속도로] AI 데이터센터 구축 문턱 낮아진다…업계 기대 속 남은 과제는",
+      "url": "https://zdnet.co.kr/view/?no=20261120171231",
+      "ts": 1795162659
     }
   ]
 }
