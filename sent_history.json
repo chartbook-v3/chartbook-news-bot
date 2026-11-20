@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795164703,
+  "updated_at": 1795164865,
   "id_hashes": [
-    "dfd76faf901200e50ef23b0f1edc8a06b3a4d75f7daf5c459e05101f61c3793a",
-    "e3e900973bc9f6894070963fd8e158c0bb1c6bfe64e91069afb7965732d803c0",
-    "4e1396e8d088a395c37baee5f80ffd930caa54bddcf508e3f01a0782b7a5aaff",
-    "bc626e114a46b1bcc2d4e1441cfcfeb514d0740237a91413100361a6d2a8815b",
-    "d046397b2206907f674a84e499d23fbd20a30027f59a7aed8c653f957e421eb4",
-    "95b8c9a1b3073d3868216b0da8d650e8b87c3da5186cb5b1fdbd593a512f685d",
-    "c1475d31201fad82708a3fe174c2052320d50ce4390b2cde260daac1f75090f1",
-    "b36cc3aa0a17e6f5471faf2bcc35bce371083ea282f590191463008b0374630c",
-    "a8b41e9d4b8e2a3d74c5f3f3cef585de40c41b6c5617e6a04752de1b02162884",
-    "d27fa7cefb25438fb0bf8d3c339036f0ffbb4ef039f54b303de8e40dab7faf92",
-    "8d9e95b1aafafc736bbb0a8f2c6194615a1eec410b2051150f112c85a8bf4a08",
-    "913d69b8a17010c4d63d767c3b34b1c437011bc6e37688fa1b7d05f9370755a7",
-    "788fb33086652577cb042db0b63c57a8a0d9dcc4555ac6b9c483d5243661f0b3",
     "3cddbda89b8732442e298108f436caa5c32582f68ad40d6857856b71fbf09047",
     "5cb3818993444313eb973f5a2c30bfdf6a25d6a89aa40bf9e1082b90876b5115",
     "a884fa83397bcf9b93c00974f6a50ccc5a16ceb1b388f0e3e11dd1e061bfdcda",
@@ -4000,22 +3987,22 @@
     "15528925dbae2ce25da34110962e5d5287dfb1ebe693a414a78b43005b34d15b",
     "e35af5a481ad77b48d24bbecccea816ae9ca284205022fd39448ef328d5b0263",
     "80c35532f0ff2712faf68cf7edfe7b388391040fa940bd3c1a0a78169c544fea",
-    "905dcc0dcf4b45e6da57feacea80a164677076e379c2731a57f1b34e7d5840dd"
+    "905dcc0dcf4b45e6da57feacea80a164677076e379c2731a57f1b34e7d5840dd",
+    "24618716e264f1b7415042d5e1e45a541bdf9377ec75b74f48844064d8fa5e27",
+    "2c60aaa15c7c94393500a8979456f0d240c98fb360a94cd143e3cb6504f60bb2",
+    "c245edecc2dd0043340fa16cf713c3b6bd78b5ca520274fc8c73c76de6127ee1",
+    "d4237892bdcb75acd164edb9a0f40aeaac55fdd98263420e07f665c258d69ba9",
+    "8165c0dc9d66e72ad258398e39c2327e0c1a8cd0cf7b36d6eb05cbba326da4d9",
+    "9eb99ebf6fb2244d0cbcc17b692ee5e3c01a8ed5665d1439fd1d44753776d0ca",
+    "66e9a4e4f8d5ce19c4f5aaabb3f2a33b6a98fe5be32769ed385260e3ce028664",
+    "6ac1fb0a2425df335d4c2bb83e2c400f52ee064225c12a3802c0b7bb89d1e972",
+    "ae49f02d6af6179874c3185833c44193cfc529a896fd9e07cbbc51e80503ea18",
+    "5448c4cff8e2c23b827aa0708cc57d0359860d5b6cb46bcd6656930a1954eb67",
+    "d3d7cee7dc2eff8af9cc37c5d252d151c2e74bbcdbce9f45222c8cb64deb5834",
+    "dd85451a8b6df7ea5b336f91f02bcda3414f45397dc1ea9dfaa15d055dbd0220",
+    "82473071891846099bc0ca6801a06c235b284eeb67555c83c07dc0916a97470b"
   ],
   "title_hashes": [
-    "70db87ce2da7a846c13af060a8d4684496763d6828e6d2ccf29bcd44631b701d",
-    "6ebf77a4fa91ad0abd65baff6c5d0ebeca68662a0ccc07e9400db49c7f22b845",
-    "3502c6086ca4d7cf454db586711381d9169d5c344fed28bfa11642a6de3f74b9",
-    "3cf2a5432773077d6a53041c2eb31c3db447ffc0b240c66d3559ee9e4ec8a856",
-    "06c8e65e472bb13bb3674e1589342bebaa8956468745f8dbe72ecf5fb4971a7d",
-    "1006ce013ca2ec977025c41a3f8b079ea900f48766d116c2ca3af5af0ca0aa3d",
-    "f8cbc670f517d155415ebe4333b630c7d739dbaa48bd8e61583561d62e8a9322",
-    "45cf4d44258abe39ed25fd53c6396609690327dfd74b1bb8ab98794808272fa3",
-    "025d611228916890b3aa5469b4f6079dd78038a9a67fd0eb362a00aed5efb499",
-    "3530aa81d3bbb3638f70c9f02e3abf2340ac561cda6931e218b57458f7a5dc3a",
-    "6811a2171fe8916dd67cbc7df20f8c4ac6153742fb26636570b95d354a9ab692",
-    "b8f8ab2682c3d028b3d9571882e0e24a3c7dcdca78ac3413bc95b38933dffa1c",
-    "4496c9a3949bf27e24a195f89f04b33f1797e76c197a737e8e451e16c8c45c03",
     "8aa54a709bb9a98114179b6bcd617ac940280910a366ebb88c8483a8ff69fef2",
     "4cc6d3d6fc55240276bfabfb540b47c265d66fbb2aeae9ff9bbdcf083cd90a80",
     "cd1124810a334993efbc801be7354f4f470b7fb848b60eb219fd22f3bcef503f",
@@ -8002,30 +7989,22 @@
     "cb6292bebb787a896e6b085fd503d4a8ce01bbe5baf183123e707ac8ae48448a",
     "6b381a3ae1ebc8d66f3d1d751c714c4714c868cd979eb20ec389da1b4c32722c",
     "b59bdd7b9721f1b08f54893b50ea5b949225f29fc9a670f7178ee24cec2d91a7",
-    "4be3071174a5b3c838e01b1ec944246dc6ba68ef9b28515630a9b8ea962a706f"
+    "4be3071174a5b3c838e01b1ec944246dc6ba68ef9b28515630a9b8ea962a706f",
+    "3493736512c907b50771fb0e14ff8fb92144a9e7542b0219e4c8297a83d3fa12",
+    "8ddcee470bb2908fd50528b6e0b74c25980366e90b818efd9c8bbe41962bf881",
+    "1f49b92965fee3c0b30fdc7ca1e7f43c96d10d58a0a3e6fcc7235f66700b202b",
+    "88ee4eb5e9f988afa5ee61f5ad56f5db85c8881375c107612471355cfe53af19",
+    "079e93ba2610df37dd324360e4112b897d2520aa24aae1976d69fe6288d4b9f5",
+    "205aac091f2d05988d0b58e81dca20d2fd71633df269948a48d72da4ddcd42b7",
+    "df20b07c2a5e03083932316939777d7cc364efb78f0aa61c9fcc13319ba84feb",
+    "a68ca29e3f8cd93d0fe3e8da97b93ae607f8682c61d1265341578dd81cbde8ce",
+    "6672f078a2403a0f56337786855adf0111015cc7b2ff7a91ebe731e19c20bb58",
+    "5eb32a93d8d1851142d27a6da5b1f42a04ff80e437f8ea77a239cc3dc0410c76",
+    "f17a69c4a66f59a7703d3a328405c043a91cdcdea2eef7af4c16dc42cd1e5130",
+    "775ab93002ae0c01fd0c834c4e338c598c9ebacd5045be42e34c48b10803d866",
+    "d368fe8c11202b4d7ad4486b479ff35cd32d3c45bfd376fc251e9f4f35fc8ba5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "日本财务大臣片山皋月：是否对零售国债实施税收优惠交由自民党讨论。",
-      "title_ko": "가타야마 사츠키 일본 재무상: 소매 국채에 대한 세제 혜택을 시행할지 여부는 자민당에서 논의할 문제입니다",
-      "url": "https://wallstreetcn.com/livenews/3202890",
-      "ts": 1795133778
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "ASIA-PAC STOCKS ARE LOWER FOLLOWING THE BROAD RISK-OFF MOOD ON WALL ST, WHERE THE MAJOR INDICES FELL OVER 2%, DESPITE ANTHROPIC RALLYING IN ITS RECORD DEBUT: ASX 200 (-1.0%), NIKKEI 225 (-3.0%), KOSPI (-3.6%)",
-      "title_ko": "뉴욕증시 2%대 급락 여파에 아시아 증시 일제히 하락…닛케이 3%·코스피 3.6% 급락",
-      "url": "https://t.me/marketfeed/1082176",
-      "ts": 1795133804
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "美国费城联储主席Paulson：货币供应量指标对美联储官员的参考价值有限。",
-      "title_ko": "필라델피아 연은 총재 \"통화 공급량 지표, 연준 정책 결정에 참고 가치 제한적\"",
-      "url": "https://wallstreetcn.com/livenews/3202892",
-      "ts": 1795133870
-    },
     {
       "source": "자본시장뉴스",
       "title_en": "일감 26조 KAI, 2028년 항공기 90대 넘긴다",
@@ -11504,6 +11483,27 @@
       "title_ko": "보험판매전문회사 도입론에… 금융위 “모집 질서 개선 먼저”",
       "url": "https://biz.chosun.com/stock/finance/2026/11/20/BXT6U6D5PVFCLDZQENUUXMDYPE/",
       "ts": 1795164702
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Anthropic Pop Is Followed By a Fizzle: Market Analysis",
+      "title_ko": "앤스로픽 열풍 뒤따른 실망감…시장 분석 '냉담'",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-pop-is-followed-by-a-fizzle-3-minutes-mliv-video",
+      "ts": 1795164858
+    },
+    {
+      "source": "The Verge",
+      "title_en": "OpenAI is starting to bring Dots to Plus tier subscribers.",
+      "title_ko": "오픈AI, 유료 구독자 대상 '닷츠(Dots)' 기능 도입 시작",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038370/openai-is-starting-to-bring-dots-to-plus-tier-subscribers",
+      "ts": 1795164861
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Anthropic to join MSCI Large Cap, FTSE Global indexes after Nasdaq debut",
+      "title_ko": "앤스로픽, 나스닥 상장 후 MSCI 대형주 및 FTSE 글로벌 지수 편입 예정",
+      "url": "https://seekingalpha.com/news/4675056-anthropic-to-join-msci-large-cap-ftse-global-indexes-after-nasdaq-debut?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795164864
     }
   ]
 }
