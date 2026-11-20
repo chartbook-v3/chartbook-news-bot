@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795209613,
+  "updated_at": 1795209767,
   "id_hashes": [
-    "4b812453ffc3468f4631ffab45a084a479f0bbebbf31024d7b0cf8a756806f79",
-    "67cacd211a6e2b3452a080359abf70bce1c3d68c52dc8795b34dde8640abbadc",
-    "6119416b2a27e41cc8c36b8a76b21b5d3ea77eb493ce9a26ecc457cd72e0fd2b",
-    "546238a9c10e197540cb05c1779f1b9e6594858b1d309e1717fea95affbf0876",
-    "5b9b6092a8f8e2965eb391ce3dcf01a1f76ffcc01c0a701b2eca245f9896ab10",
-    "4f74098abac1e9bd34466b067e02eb8b66bdf138f0468332a7efa5ba4704c0a4",
-    "e20f4cb126607c466dfbd6651c374e5fc7f65e1c1e171fbc260a3c4b9df648e8",
-    "5805ebdc2a981fc0f52c48577962033e4ee9ed38bd8e035b12dee9bb5e3fe4b7",
-    "a04189269daee9822e01c19f281820a0809029b9cea3da47d72551b664870f15",
-    "89c6ae295b0216a218fd8248efd9e0592831a11ddf86fdcc2b2bcd350140e760",
-    "142d2602cd9a698a6dc803e043bf8e2ef87eada2f7e1634e939135dfbc50c1a2",
-    "8109abfeed8bbc06a9e2d17d6f7c349cb4b87a32df9ffe7dad436da3059152bc",
-    "e0b14b032e912b9916190c39b5cd2e689d184f1014234d01e2ac3bc9d819bcb4",
-    "87dc21765dc680af991e1c77c249d03e45ac0539d90bb1b8f5bad9e16a95dd77",
     "a977cdde71ee5f23597de917a1f74805c62600b658d5867cdb987d502c8ec04b",
     "0fb046ed4661e6072fafc5d4c69717634da7c66eed6f89a31f417ab00e5a164f",
     "3774c2aaa8f8ba3e6d9793231f3b8d1d4576a1a12392bdb771fdf48481be6fa1",
@@ -4000,21 +3986,23 @@
     "21f53005d25460b5eb0d1d5db0f633be743323b15197794f4ffe5b1e87cfe9e7",
     "cf153120614866a8a86be60632d0fc87064ed066ef2d33c9cb415164c9475958",
     "1f15145ce56163de1223619271be82170a89fa3f075e63db3d56b2ad16812c45",
-    "75652bcb20cc23f4fcaaba18f105b39aed31d497fc1f860d7eda615c705d8b94"
+    "75652bcb20cc23f4fcaaba18f105b39aed31d497fc1f860d7eda615c705d8b94",
+    "1c41037bd50417fb155a2d887691f5c496b9060c1af94fe01a149aab3ddca8ed",
+    "2edac9816dd7ddc8d3a4bfdf521e2dced232e88a1315803f789b664659e0e263",
+    "476d94da96e42d7b41db43e66cf888eed5637906fdae8d54324f318ca723a5ae",
+    "52df2cb29f94bde56c1d03374dca12f469e5337940d5a1e693ce7b3b7fa9860d",
+    "c2d2df1d222035e5286ce5d3409e1e92264942fe534f7d52dc5abf289c14cf1d",
+    "458a8627704dd8b3e652b408588247a7c94dd7f56c96ddde4e33368e2f02c880",
+    "5d2e9c4587e1c590974a1f3d441a5f422d800cb688c49695805704a61c300992",
+    "fc50caea967caa4598cb860018617c47dd2fd41f55a87efae6d29c142c115513",
+    "a11aa4a44cec7f7c3de34ad6a5b8fed0e69ae9c3d35ce70139bf785e6238d739",
+    "f84433457fdf83c91bfc9085b605c5c161bb159a3bb0dc93101c7394ca6e22a2",
+    "e50c2f5086c65921bb7936d74c345b6a79689ce802f7aef7fb56418d4c6be981",
+    "2117dd539a58677b68f6f11f02e1e2b76401aec1f6f4f274bc0b7406d9894fc4",
+    "0b362f750f21491cf8b3cbffe36564e7f893f3f5181983b227d15e5b22782b1a",
+    "9a0dc67b58909051c713c53fb6ab8ebb626b249acf2e4d6608eb3a493d5da37d"
   ],
   "title_hashes": [
-    "da99ce0a9aec3a45c0c53f92e8cfd6e83bb938ca055e67af9eb627aa39639eae",
-    "94a4484b6f81469833fdf1f89fc131e902fa88b3a06242369644c5abbac6d6bb",
-    "33f9a13812480ab8e1270d0bc26f0ef04554e3cd64710b4446fba2a70f697d16",
-    "1a073509eca39a489b4af1742d2d5ddfd51d1c2bdb5c98fb55f7f3acf0f66f15",
-    "cb516a7e3294c25debe013968234bcee2c0fd1caf3d531a5420a55c203bbddb1",
-    "0e653b22fe8d80cb2f127ccc5b5ed7af182b1412b0aabdc4acf24002a8d1e569",
-    "04b4d7a6c7b585031a5e0511918555872ba808fccd28bf3b020f2720db943c46",
-    "db0d56f6d979e19804039daea83ff98c8935262d0d7ee17308da2d0ef8f2abcc",
-    "61ec60e2ae9617203a546198ca1153dcd537c18a9a826e719f22809ded7df620",
-    "94211fe2104ba3eb9cc55c4912904b5197dcbd7ba899c2d9b74e1096d5f1577c",
-    "202f5aeb59b4ab139f571f7f26ce7b326a35752027b6b0acbd9e80e4a3863fcd",
-    "b90c5e7ca9ea65cd8fe53cb4e01b72929b23f8c56f37accaec88acfb91e2ba0c",
     "2582e64a7b4f86c18d06b198b85669b6c48c6166c358a07697b9b1f6a7e577b4",
     "a95779f7d4e59347ed285c832d4f1d256a92801837d084a77514e257f7dfed20",
     "8d865ec7c7292ccbdb410c6b5a67dfba6363fc824fd0feb542c8391a8b8a408f",
@@ -8002,37 +7990,21 @@
     "5645f92389fd077b98debe77cd402dcbe789b945fc33f3d1ea923dcbce210af6",
     "e31c42eb150f1a551acbf6afb68fd31051ae085d0d451d8807ace11f29e8f4d3",
     "ddfd12533589a78aa67cec9f9460e0dd4ba05533da06dbe00d6d676fcc35805a",
-    "bf34c17dee55ba136bd72bcf019ea46257bcd54bf1752d83400a1b0b56c79ece"
+    "bf34c17dee55ba136bd72bcf019ea46257bcd54bf1752d83400a1b0b56c79ece",
+    "071890c3d00fcea99ac35f126e6bc0e430f29e9f7abec99c4e80da67e0ac71fe",
+    "8af832d2516866b10c8ec71550fa6a02172f6568724a77ad69baac232410a078",
+    "655bba873233185f79cc42649b8d97efe4d863439e39a087cea3bf2c7c14dd40",
+    "6994578493412c1353a31706c36ba010c63932bcdbf9df7b9dd442d826e5bfcf",
+    "3785f495ec36debfdd5a08b1d1364e80ffeddd62e33fbdea03bc0c45e5cd9ea8",
+    "1f6118b712873b2dcc07d1a6be102a4c97731fe4fecb7415547ce12e1940d84e",
+    "5c69d0a378ef533b42cd3afa9851fdb4afbea90b707b1813c5d2e77e90d18295",
+    "2400172d7666e36d6db2a9943ede85aa2f4a0df3d51ce3f60d8dface9333189c",
+    "be7127f37561ba9332db6d2cb93b5cc85f4cdd4a706c955f7f5c53f0a8c7c054",
+    "b3ad2a732b614a43570370f28ee54a08c821c25ee47649b380a17963d7f66028",
+    "2b3f069febaf8afe7bd3af945052612747671df2accd10447c8c1ed2bedfff7a",
+    "6821b08b88320bfa42291e96a7cf1f9d29ccbc87518ce56880627390ebc37510"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "USTR Greer: Trump makes us decisions on export controls.",
-      "title_ko": "USTR 그리어: 트럼프는 수출 통제에 관해 우리에게 결정을 내립니다",
-      "url": "https://www.financialjuice.com/News/9861814/USTR-Greer-Trump-makes-us-decisions-on-export-controls.aspx?xy=rss",
-      "ts": 1795181860
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "UK PM BURNHAM: WILL INTRODUCE BILL TO PARLIAMENT NEXT WEEK ON EU DEAL",
-      "title_ko": "영국 총리, 다음 주 의회에 EU 합의안 법안 제출 예정",
-      "url": "https://t.me/firstsquaw/194606",
-      "ts": 1795181866
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "USTR Greer: Any US-China truce extension hinges on rare earths.",
-      "title_ko": "미 USTR 그리어 \"미·중 무역 휴전 연장 여부, 희토류 공급에 달려\"",
-      "url": "https://www.financialjuice.com/News/9861817/USTR-Greer-Any-US-China-truce-extension-hinges-on-rare-earths.aspx?xy=rss",
-      "ts": 1795182045
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "USTR Greer: Trump is eager to have China buy more soybeans",
-      "title_ko": "USTR 그리어: 트럼프는 중국이 더 많은 대두를 구매하길 원한다",
-      "url": "https://www.financialjuice.com/News/9861818/USTR-Greer-Trump-is-eager-to-have-China-buy-more-soybeans.aspx?xy=rss",
-      "ts": 1795182107
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Consumer staples companies with the highest EPS surprises",
@@ -11504,6 +11476,34 @@
       "title_ko": "AI 매도세가 글로벌 시장 대패를 촉발하면서 S&P 500이 조정에 돌입",
       "url": "https://t.me/breakingmarketnews/179560",
       "ts": 1795209612
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Arm Holdings slumps 14% amid broad technology selloff",
+      "title_ko": "기술주 전반 약세 속 ARM 14% 급락",
+      "url": "https://seekingalpha.com/news/4675346-arm-holdings-slumps-14-percent-amid-broad-technology-selloff?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795209636
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "CoreWeave sinks 12% as tech stocks plunge",
+      "title_ko": "CoreWeave는 기술주 급락으로 12% 하락",
+      "url": "https://seekingalpha.com/news/4675342-coreweave-sinks-12-as-tech-stocks-plunge?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795209698
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Oracle: OpenAI contract fully funded. $ORCL",
+      "title_ko": "Oracle: OpenAI 계약에 전액 자금이 지원됩니다. $ORCL",
+      "url": "https://www.financialjuice.com/News/9862479/Oracle-OpenAI-contract-fully-funded-ORCL.aspx?xy=rss",
+      "ts": 1795209763
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Oracle still sees positive free cash flow in 2H FY2028. $ORCL",
+      "title_ko": "오라클은 2028 회계연도 하반기에도 여전히 긍정적인 잉여 현금 흐름을 보고 있습니다. $ORCL",
+      "url": "https://www.financialjuice.com/News/9862480/Oracle-still-sees-positive-free-cash-flow-in-2H-FY2028-ORCL.aspx?xy=rss",
+      "ts": 1795209766
     }
   ]
 }
