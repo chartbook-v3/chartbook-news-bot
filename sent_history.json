@@ -1,23 +1,6 @@
 {
-  "updated_at": 1795191974,
+  "updated_at": 1795192135,
   "id_hashes": [
-    "ca4f365733f662e8d02c70c4bfb52840963b6c85fe9388b9690e5748a7d89cea",
-    "39567f54bf23617000f92401f19ed562bd5c91e683d674b640eddc4f5d54373a",
-    "ba0095ff7b633aeaf3c369b61492990e3119fb176bc9a6ff6cf738e3adfa31c0",
-    "02a45a6be80f274f974a968e8e7ef3963736541cc298b7c95bde5252da8d9a5d",
-    "20ffee270215f53af34cfccd4d88a2f9e4391dd5d9da78cd43b78079a3707d6f",
-    "adfa089f89b2d7d47be673379ca16053276d28b93619194ea3de2479c6a42187",
-    "9c0614a75260d294a8f438c4af2ea62a209d45da9322ffa127810a7ba5188879",
-    "919e8a6c9731d55323dfbaf749a920188e995cdb20207d22c0d12fc852035125",
-    "e422854a1286dd4663c45436a962d84f148f31b5974aba02617f06c023bc341d",
-    "36ac05dea70665c2e70ae9e5dcbdd9f3bcb5cbc40c375b9616218e5e524fffdd",
-    "12aaf96c806736910ecb82afca5cec6e6d9ceaa2e68d0dbaa86709910c7c435b",
-    "6007d05f307f2be31f78e123aff388f3ea16507f6c0eaceb1a15ebba2708bbbc",
-    "4c9baa2cec15447fb15c457401bdf0ba51dfe38285788e2dc30ad0d9c4b0b99b",
-    "db68f990e2e207fb5b42c69b3f3d1f352e2550d11df3beadfedae12705b0b293",
-    "5dbecd8cc83ed0b5a5da5d26ff255028eb703e5a3b0a98fbae8ceb372ff1f140",
-    "0d6f08aa7b2774894716372b903ee9540c9c37c5c6f8d7822c5bc087f5e9d044",
-    "4fb859cf9b68755ece5067312d4fad56903c1eaed4aff0794aaf32828e26b0af",
     "35b4d7d2920d47c54d4beddd66e125e0fe9910d63187dc44fa030048b370d4f2",
     "ac3be8b0cb160e64eec27f39c41d4b23157b2568c5993dfdc2376688667bb3db",
     "8cb9793310ce8e5e35a23b21300556f567f6ae3d82a66cff017ea1a3f530a53a",
@@ -4000,21 +3983,26 @@
     "9a1b19065f96ec529f56b2e03a88ef8d05e99b578098858e42b1a076c14449d9",
     "7d8a8e2333867117ec9cac750c92b67ebde7a34f00920273b44bb22d8f9cf8ac",
     "79010dc679d7731ca0743810a7218298b106d78234932d3d33314cef3a9efade",
-    "20761174ae92bb39d55cf8db518ae3a215906a225c3eb134d3b39a51d103b744"
+    "20761174ae92bb39d55cf8db518ae3a215906a225c3eb134d3b39a51d103b744",
+    "e57d6366d5af0aa474d2895f77bc5ee2eac2ad7318d00e635c86bfc4f93936c5",
+    "2c581341524cd8477640f496b318517015918ffe7452bd7857f9f79b08484a9f",
+    "b9171b994da3bf3ff48a42d0c149dfc7884493b2bd251d0dd01c302281ad9c90",
+    "18bdf21ba44f0c10cb635b03a9cba5083808589ae269b561feb69c1f90528ce4",
+    "05f2bf8ef59e23a29d3e2f9aec6be5e265830fee8ec57ad6b2f4cc2646a8f372",
+    "e7614f648ef93c70dce6a523266adce0326d8dc6139b56515242bdc845cc33b3",
+    "02e492ec0bd6e3ffdcfd864cc3edfa1185551e5f7d7a9ac3c003a626e5c06436",
+    "0ae9fa157a575976f0cd429779167e751af8f0396e12beb9e307823c1dc9dfdb",
+    "cdd63f899d28dc0255d0d24f2b0dc528777f5e9ca7f6482099c24cfd6521baa5",
+    "6aacb54dba755b0cc431f1c701cf7876a0894249cff6c0b2aab120f2e281fac0",
+    "5ef0501e4f310e880da8896c4134d5f458cbe93e2039376b8c4e0187eaf5808e",
+    "e3ec4451b346b8cb818b853298c92aabc164540baddf42a24e23d6dc9e1fbbc0",
+    "7c870e1c856c785edcccd0cd0c60337bb3a273a803aeef49d9b840537af9cc6e",
+    "270d7b976332c5771d08994d94c99aa8a2e21b9f86bce6d569b923487402bae3",
+    "451356809248e5f9e130189ef2fb633438d56d522d020e1541cc95603b22b330",
+    "02d0e544c725722a82ab15a400ae578f68497119d3c2ca07230c37aa77e94901",
+    "3da10fb03fd20370d41f55c0874215ff5b32f00cfb4f430c263324f93bac782d"
   ],
   "title_hashes": [
-    "490ccb00271526ac3965d14f076aba73295b8c32ec9f39b44719ff119b5b878f",
-    "6e90f626a616c9c79fbcd9fc38e0dcf1c004cdf9fe6a0127f3d2cb332c4b4b99",
-    "fe480470e8a2a1b505a179dfc93849bc05991d13284ba5fc4d384c36429c0a95",
-    "d482885776854cff74a0a69eac09c1a56378e482b715a93835ca83e9c5ca1aca",
-    "2405568ef2bbe4fb4182cc7559bcfed046ada5ef03404fb074471c7cd15bd7d2",
-    "b256f21a40e754913c169fdf18483064679badd11ee4b3aa3979816afabeaefb",
-    "3543e3144792e43501f8dd7ddb09832a877e5e59dbe9df06015ab4ca638e4b20",
-    "43e2c3abd0f54db6168a20966310b251b8ad454fe91cc7f15178d2138b67bcc4",
-    "017225cc85ee0b2a409cb835d5353633463cc479ef1fa924e1647b6a93281c14",
-    "a0144e14137d48518335d6e29c30a0b3c713563116a9e39088605aeea244a3b8",
-    "c2f1ae2f63cbd790a6e0ba7286ee029530e9c81a736566173d2ce6b72db032b1",
-    "551547b5001c475c405c696467808aa02d8b2eb5d30e21b60429867b656766cb",
     "b14e5e0f13c52ef485aa6a2a8e0a2e7019e8aed58e065c47d7ccc0bd18c927b4",
     "80bc34ebca88bfae6904d8aff27f4600a3401cfcb1d096ab417379dbb67b4da6",
     "eeae808bbbd3a346c44258a547a85a20021f4b8491fd2bc430e3ab61f0044838",
@@ -8002,30 +7990,21 @@
     "0ec18fc3677b4fa85b4628429b072631cb6ee3a681c8d472ad8fa1686931cd7d",
     "969279a9453fcfa0ce14ff5fac46fda9c2088f67ecc1b817842ccd739688697b",
     "f038cba2a57049c3cdd6115994cc3c2290e6280a9f9b964a65e80f13c45159f5",
-    "4c9b42cb576ea2fe3a8f7f6f8767c2b4cfb779d5b0ccd9b2799808a0ae735f08"
+    "4c9b42cb576ea2fe3a8f7f6f8767c2b4cfb779d5b0ccd9b2799808a0ae735f08",
+    "0a2415dad527d0ac08360251ed8bef59a77eb8c79dc88fac43367fddbfb566a9",
+    "64ada582e8d7f4ac702109fd45dd771c76ebd17b45442e33b0be6271dcb65e5e",
+    "d9202d296d0e8e57ecde3d9d087f82437fb855c8938d536ba6ead94476d808c4",
+    "e22f8869c68cfcb6dcec890c439fad98b15a272d48fdce77355ba47c046cc108",
+    "c53b743ea489e4879b325a2c7a0bde019d1032e1e3352076afb3cfc8a454c1f8",
+    "119019df1e1f39fbe19d06fd8ce227eea3e0388405ab7ee08770dee586598217",
+    "e63bd9515d174c12905759f6672b95e67485945312ac0d56ff55c3cdd8e56459",
+    "3ec3edf1b521d2ebc7cb9367a1f1e5407ffcbbcfacbcd6be7c8288900d059efb",
+    "7d66122ab53776da1fd38d0b4b71a93493ba29e67c4c17e2dcace9ebebadf0ec",
+    "841031f8fc6e05a23c5e15c16c8550cfbdc7820a9482732afbd14edb7bdba8b2",
+    "6b1e87bf6c476efcf63c513073e3b9263e4aa709e05ef94ea362fbfd8ad3352d",
+    "5c24a8343878e5bc97bfd6691b2b727aa3aca14b7332db40e72e3b38e8fee2ef"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "问鼎戈登·贝尔奖 曙光8000实现超算应用新突破",
-      "title_ko": "Gordon Bell Award를 목표로 하는 Sugon 8000은 슈퍼컴퓨팅 애플리케이션에서 새로운 혁신을 달성합니다",
-      "url": "https://wallstreetcn.com/livenews/3203063",
-      "ts": 1795158779
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "한샘, 삼성전자와 선보인 '한샘디자인파크 마포' 4년 만에 철수",
-      "title_ko": "한샘, 삼성전자와 선보인 '한샘디자인파크 마포' 4년 만에 철수",
-      "url": "https://www.news1.kr/industry/general-industry/6360834",
-      "ts": 1795158898
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "UK Retail Sales Rebound as Brits Stock Up on Emergency Supplies",
-      "title_ko": "영국인들이 비상용품을 비축함에 따라 영국 소매 판매 반등",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/uk-retail-sales-rebound-as-brits-stock-up-on-emergency-supplies",
-      "ts": 1795158900
-    },
     {
       "source": "디지털데일리",
       "title_en": "국토부, 테슬라 자율주행(FSD) 국내 특례신청 퇴짜…“안전성 근거 부족”",
@@ -11504,6 +11483,27 @@
       "title_ko": "미 국방부, 앤스로픽(Anthropic) 여전히 공급망 리스크로 분류",
       "url": "https://www.financialjuice.com/News/9862070/Pentagons-Michael-Anthropic-is-still-a-supply-chain-risk-to-the-Pentagon-ANT.aspx?xy=rss",
       "ts": 1795191923
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "THE WHITE HOUSE IS HANDING US A COPY OF THE STATEMENT IN SUPPORT OF PEACE BY THE RUSSIAN, CHINESE AND AMERICAN LEADERS JUST BEFORE THE START OF DONALD TRUMP’S PRESS CONFERENCE. -",
+      "title_ko": "백악관, 트럼프 기자회견 직전 미·중·러 정상 공동 평화 성명 발표 예정",
+      "url": "https://t.me/marketfeed/1082692",
+      "ts": 1795192076
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "受AI板块抛售影响，卡特彼勒股价正面临逾六年来的最差一周表现",
+      "title_ko": "캐터필러 주가는 AI 부문 매각으로 6년여 만에 최악의 한 주를 맞이하고 있다",
+      "url": "https://wallstreetcn.com/livenews/3203478",
+      "ts": 1795192079
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "IRIB News: Explosion of an oil tanker after hitting a mine at the mouth of Bandar Khasab.",
+      "title_ko": "IRIB 뉴스: Bandar Khasab 입구의 광산에 충돌한 후 유조선이 폭발",
+      "url": "https://www.financialjuice.com/News/9862071/IRIB-News-Explosion-of-an-oil-tanker-after-hitting-a-mine-at-the-mouth-of-Bandar-Khasab.aspx?xy=rss",
+      "ts": 1795192133
     }
   ]
 }
