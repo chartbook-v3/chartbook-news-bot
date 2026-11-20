@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795201170,
+  "updated_at": 1795201317,
   "id_hashes": [
-    "398a186240e35a73422e714d8b99c58a08308adebb78816cf7260259daab6052",
-    "1449e9c18efaab25ce3efedd4d16729420962b4da395a01f37a66f1a5865f288",
-    "0ab7a26f0ab2a4bf919872a8b207959c0a492d6d005b25841cb9dd213c389c13",
-    "f9571ae801e11c20e91766b39af3b42d1992ffd702af5539b141762e93baa3c1",
-    "e10cabab63b981e45688856516ffee807769bf07fb21001a832dbf4808aa377c",
-    "e4cfd3644c343056b259c29c829c8f42ee7b817b980614c72c1c758d135714fe",
-    "f307ab2233ce7521990852e14fb09a7f138ac2c4ad31375392cce922f7490778",
-    "c9364b2b5d3f203d27e0bf11072330c4d53903e2a61889bd8ed0a28b80482374",
     "c710ba138d645addf561fa4d2a84ffcaa81f03b11c038a5cbea3cda2df66039a",
     "7402dc3b464ae651402868f351f32ead40c0337096e99434d08f0729953bd3e5",
     "99edc8ca4c748aed121fd95730574cce6a89914d16243ae3ce31d82ca5cf8c9d",
@@ -4000,14 +3992,17 @@
     "62f5670d1bb4da3067dfdb3c19e0dd89d95e9810d5e97f89ea86c01cba6f59e8",
     "79f7e90d600d9b8d033f2407f8d31822dc01c87d41ad1c27427d3e302fbb863f",
     "f523136bd4631db8d7fb9ff364282d922502d74a1edce055c5f658bea66b0021",
-    "916c7de961faee779ca4b2e419007e2253fc03b52625603a6cd4b06053daf1fb"
+    "916c7de961faee779ca4b2e419007e2253fc03b52625603a6cd4b06053daf1fb",
+    "416a4a51b69abaa797856af1f7c0fef921fc6962a3da2a315067cb9be881ae80",
+    "30e4264691db966c86e90453887d98a6b5485c5e767629eaca7b5adb72423bb7",
+    "b9a462dacef4a5d174f73b44299db78b6e1c25f4ca1c32d667e7c05ffbaac7f5",
+    "55194dc8bc00a2ac9b3911e9b48c90268e945f63db734b8719c9840af2557f36",
+    "a86b88166772debf537897c1331a358d9bee0733d91f95da986bebf98585beaa",
+    "a723f142c8285677909e014126286a9675c1ac92059a0eb12cd75af00b28ce35",
+    "96b7299b9a40be88a5bdd306a51f4d99af1063be70166b82fb8d7738d8e8a15b",
+    "7742090507f9e191aa5202f4094c183640709b4bee3f2acf912aeb53ead16016"
   ],
   "title_hashes": [
-    "9e1be0fe33be99bacb083c181bd4edf882579a012e5da7ab423f26649d4426f0",
-    "4deb0009e93ed1e5e577d7d8ca1b09e90b7b7a076d2731d58616a622c0f2b9d6",
-    "999af215040fc8c21946e7bba4ebc2d0ebb1d444df3679d81f1bd4940ac53fd9",
-    "a5fc77334f282009f3c94d96cdca297bffbc5a8a484c7e45c5a9ebbb20a217de",
-    "efe3f56c884638fe01c247074ea9243e2f63d4f9bcb6c06cfcae6135a57d8c9f",
     "9dd9fb581f270c0355bfa6994c81924ea0c97ac2295bc05158cb40ce42e03327",
     "ffe542a28cf5da82a860c7700336b480062c4fbbbf4d9394f3007e38a90e3f5f",
     "12a519fdbc4fcad3dae5d4ba1130e9aedbe436bcdc03c745d2f3f0777945c5f5",
@@ -8002,16 +7997,14 @@
     "fc93ca06d678a65693e30b8f904a2c47c1b0a50b31276e18867de7cdb3c459cc",
     "55dbdc6dcfa0c9fe8167a5496038732d7ebe5f3a997066de810ecf2a21dce9cc",
     "7dc8e456ac8940a182a60e2d8620474b9c5cae71d4364441cb2d69d042821e44",
-    "bbd70646aa7464418d0652220cd3c5dbe92aed88096d37ae421b284f2bbf33a3"
+    "bbd70646aa7464418d0652220cd3c5dbe92aed88096d37ae421b284f2bbf33a3",
+    "720cd03efd6aa99bab54697773d7a65c6121f4b0f4b3bad168d052b05e172364",
+    "9b47bdbb8209650d59f08af58fe5714aed7ac636f494f3131290452c15354bc7",
+    "465e5a3c8f43c13a724f5eaf2b1e04c7a2434f1765b15e097302fafeec79dc29",
+    "f55035bd105c14906c178f0884476f7f9199bf97bd281999f1097690bb3f32dd",
+    "164382e28234b3351ba368a61c9f2313cb45dd4dfd8802431a88c71b0471d9db"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "HOUTHI SPOKESMAN THREATENS SAUDI RED SEA PORTS IF HODEIDAH IS BOMBED, URGES EVACUATIONS",
-      "title_ko": "후티 반군, 호데이다 공습 시 사우디 홍해 항구 타격 경고 및 대피 촉구",
-      "url": "https://t.me/firstsquaw/194586",
-      "ts": 1795173347
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Q3 earnings season winds down: 10 consumer discretionary stocks that beat estimates",
@@ -11504,6 +11497,13 @@
       "title_ko": "미국과 카타르, 이란 휴전 재개를 위한 회담 개최",
       "url": "https://t.me/WalterBloomberg/38850",
       "ts": 1795201169
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Witkoff and Kushner Met Qatar Officials in Berlin to Discuss Efforts to Broker US-Iran Dialogue, Axios Reports",
+      "title_ko": "악시오스 \"위트코프·쿠슈너, 베를린서 카타르 당국자 회동…미·이란 대화 중재 논의\"",
+      "url": "https://t.me/firstsquaw/194706",
+      "ts": 1795201256
     }
   ]
 }
