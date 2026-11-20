@@ -1,32 +1,6 @@
 {
-  "updated_at": 1795206146,
+  "updated_at": 1795206299,
   "id_hashes": [
-    "0697c4d4c552b99b59d6735f371e88bfa861b8f48359e58733d1b8ccb6c2e637",
-    "62af1bba1175a1d9f3f49c594275a756b41b870e4235def94dd1051ba50542d3",
-    "c0fb06ddbbae90d9d81de3f8c7112c45d762701e00f8df1391b96f6a56468ed6",
-    "a3a548006627a80660693183c048b1add5d8d03487becf39f6cdee11a4a2fb61",
-    "bd0cb1a92c818bbd3a3ff30ae88b6e710a2c2cd4ff3cc1772381794ebbb189cb",
-    "17db13854e34359727c9db2b4ac70c226bb5279a9e538bc13879fd9d08515387",
-    "d77b89e6f9f37070dcf55ae4f74d4143f189010ee4c4567af1f33adcbe7d7369",
-    "3a5b125097159f508cb691efd50b5b1214fea20381be17218ca7388ebbfcc508",
-    "e3c4d058c154a044d2b71d2df2a79279f87a850184cc306d489b754cc8e989a2",
-    "f7df6371a81b9fad3a6872b067c9d92315450efcab395ce89bd4c206b310cadc",
-    "a946090a970c45c0e62d24197c67c85cfc86c0c046d881a131318fccb2a5f447",
-    "a8eaff7873e94fafdd987e8b793ff8de130f36776feac5f1450a46dc696fe40e",
-    "1193e5e5b0c6702c5b938db82199cdae7903f0a06ad07144a363518eece7d99a",
-    "ae2e2cc87011bd778a7e52572ed417bc7638ea6bab7f87e104409e55d74ad3da",
-    "164789914e5eedd0b4f1c6e1a80e58e9354de8df4cbc0eca9834c35dc929b4dc",
-    "b6dabf54c39bbc7756aa72352409c5676a7d3da85bac8913d9b6450d3c0a15d5",
-    "8e1d31a1953f76ade9136bddd88cc59b9fffaecc1dc44c14de892fdee89d9521",
-    "b345aa90199ed498ea001411b201832940ed04f1985bf13af4705acebf89333c",
-    "ded1c43b0e2bb68b0ee93b5e4d667304c15177728dba4cb2342b093cafbabc14",
-    "ae4f76bd323762f4538a0fcbe28d4369c2b7b29e3a76341917ad23c8c6944d70",
-    "d9ee46597a96d081f4c9b31cbb4767586c10b967df6a805dbb1a7d3f5646c90e",
-    "11ce920853fad3dec5377b7d0520b35cf9e44706de65cb1818f89af0eb8aa865",
-    "b35d179d56bdb20637066d3d25f1ac5c8523db6bf25bb916c4878aec0d7f753d",
-    "04be89abe606009600067ef5422d858c368b4dda94a3028e36f694e8708c6b69",
-    "edcaf51fe78c11544c575652d7667636268c36926b7b19828cb71605ed5b7de0",
-    "5c080712c8596bc5622a8e80da210d4419de7b667965ed80ceb3c0b4ce0ee517",
     "aa2b65deef4711ef8200393e080bca00fc6a28053d8b016356013d89815395aa",
     "e38322856d2902b5b93fb55ddb65ff1decdf7fbc580e8a0d5fc0fa0b21cc4495",
     "5a8cceb2cc1e37bd9dadae3b4310f817b248246e5ca843ba88badef13d30b2a2",
@@ -4000,18 +3974,35 @@
     "258077b74a126a47b4c0a332eb7bd2ee5415d16e757fc899d192bdd1ddd969dd",
     "ea9b148dca5b87fa955515c5603bfbd0301b8e2e5fdef3e7701dd8478f2bde2b",
     "48e14f38416190d3dd6441f05bef0aa485a47cdb6c6ced4dafdf9baf0c32d3c2",
-    "d38053d66424d4cb8184e2e86939fab393a58317ca6152a0be02c0960797c627"
+    "d38053d66424d4cb8184e2e86939fab393a58317ca6152a0be02c0960797c627",
+    "8f2a3d4cdeda6dd796f572e5cfb33706a69c86beca674ef9d3ad59f951ebf17b",
+    "bf721364562abbcd6d16dd92c515a905f67f171a4919ef686f9d186f9ca14c23",
+    "b2402f96cea451c630076c0c2223cfe3690790351c545a07edc9a9d48a43db78",
+    "f0d4715709c4fbc9e827146f93d640111c90ff351771eb5221450c247851e52e",
+    "8ed2edeef4d9ae4e14471cb50cf5044c5dfc7986c6f991aa401cadd6ef02159a",
+    "9a218a6007300f7aa138ab965d6af1caa591b46c101f835644f6269fa835af71",
+    "bb9d387f240c36a5b5b480c226d391e743c7237a04769198298cf99bc336aaa5",
+    "c1beb5f2743cfd7f1ff3fd2c05e5481b2f1d6a8ff177341aec5bf43350294269",
+    "e1073d225fecde2f5648ae14b1d6f1c0ae7819a0ff60ab0b869498a92de772f3",
+    "48bcee906c6c09d8a06408ea41f9ac5962946dea62627cf9023b9193fb51539e",
+    "5e8314ceaebdb9821a7b2630baa80c7f59fe554a4c45aebe6300669d402fefdb",
+    "72155fd1782da3145486e4e53e6077a8bb9aa6bc9bf919ea9589869796cea320",
+    "92b401ce3447fe195b685a514300ddfbda6ed89537a5af6dbbbf142f910e1e29",
+    "a492dfb468d4c695e0c02f5b44cc8004668b1d55080b2c3a51d60ca6ef3e574b",
+    "2e0eefd9eb09b05704a4586bc18461b77a9fdac08df1fc8cc34832dbefd59dd2",
+    "747f867deb75cd91481d583208c6a8055b899b4dd401477a244355eed9a8ff71",
+    "c9af0bd9efdba8d8f215ed0007462c3a3e4ceddc73f2e7b129d81f764eb49f3c",
+    "b303a844102b6b936eb47c56ae4579e5f4ff518ba3d36a3318931d735a2e9a53",
+    "2b4a78f4e740090a971253f3cc47c6ca0c3f5caf01b6ffc72c5d9491198ce1cc",
+    "932619798fa828e5dd18ec8df73fb3207e6e110d5f49c2a61f1a290812477920",
+    "9663c67a527c7b866a12d9be2228768bf73bffbf9a94ed379a191d17a683e296",
+    "49b327ac686c8358d105203f97f8922ef732a169182ee124e4478f072ed6b9c9",
+    "9651929cee016ecd109e3781beba88cb618f86acbdb0ccf65170eb77a1a27f43",
+    "535175a4a24709800fde39497103545ea99f326853d9104870a259aacaec8622",
+    "d0879f34eb49ffea30d6652e4c046a98edd004f56761fe2f1b1b6fc84e2cd98f",
+    "7be4c36705f94b99ccaa160559a7e097fa11f0b1a34880077d52917aa3e356b5"
   ],
   "title_hashes": [
-    "89e1f2799c510b5f9ca2c201535b0e68872fb3e17dd79f9d5d3abfee19f4fd42",
-    "b7b0e93ac3e922db5d73e45c8c92ab28c18cb69f769cbd834159ef5a50799da0",
-    "4907f65a50413ed67cf3bb5167286f252f2d56641f07df373e60ebb7c589a4da",
-    "44d3cb97d1a4f618d4de22e240bcb9ba6912b5bc9b0dfa17c0cc549c12ecdc8c",
-    "cbaa72b71768b5fd3f708069f66a07faaf5ac4ec313b7943d2a6c37090b9e263",
-    "9ce14861d3f3a9f3ace06b4da14c024728ab0339001b1e46fc8aa5780ce544ee",
-    "ab9ce4574769eeb2fa15af583062bb71be54172d5cdebcdc834d523f2bb3763f",
-    "03910a179fdda80aceae58e3cc703620ee14931bfa95fefba7002e93167354c7",
-    "bdc700dcca878cddd1fd2433c83bc1875ea4252dc38e690bf45894fa6fa1ff6e",
     "2f08a7a1ec71efbcd2214417e295dd35a39946798f62041a4461b989c0676c5c",
     "9af8141d529e9569f1ec092dc7a4bd5bf919d0ed445dbebd0b7ed48daaa782c1",
     "8a9c12e765feea8795141c976068440daf213ed3dae8f5fbf32ae46759fc04da",
@@ -8002,44 +7993,18 @@
     "d09ecda2f17ed3e1f90a7a0474d7b8ef64a5537bfce720a6f7e267e15086ba74",
     "25b3623bcf4d8ec1f099946f03973034a2cce14550a31b2ba9793206eb4d48f8",
     "cc44e54c7d173d321be92d41d67cd16810d072fb5ab2ce6d95a8a323340ecdfa",
-    "ab9e8b4a4fad711b836dae53268ac49130fc2a0e7de9685afff6d9f0a031a5ca"
+    "ab9e8b4a4fad711b836dae53268ac49130fc2a0e7de9685afff6d9f0a031a5ca",
+    "8b66ae5215d201fb8f9d1041e39a1091bf4da31f464986f362743332d4f48ef6",
+    "540f0801b03c0d42bf4a0722cf0140304e5302060694414772cb7be0686a3f87",
+    "88211642b156472776e14111568e05a2fe1b66a3ff826d17093eca5d84e17978",
+    "2ed73171a3e73bd2f7208601c049f0b97a05f0d3d61ef3d6d1fc087aab184bcb",
+    "a954facb78e856cf9569135f396a003b88ff00d60b0c786c6d2e2c2bbaa32c04",
+    "38f11b0e4bfebe8401c49de12848af36e8c18177806333ccf0655739ba7ea5d1",
+    "b45c884d276bb6320c4f3480bacfd63327b026d15231a5f5d5a92e51bf5f6844",
+    "07441517aef9c33049ebb805224cb5f3a0734a8feafcba9319e088a2134531d4",
+    "5b4f800599b0a2da326d2fb969ed521ed45fd8b06252dfcca1d52c279c988f23"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "$C - CITIGROUP UNDERSTATED RISK-WEIGHTED ASSETS BY $35 BILLION, FORCING CAPITAL INJECTION",
-      "title_ko": "씨티그룹, 위험가중자산 350억 달러 과소계상…자본 확충 불가피",
-      "url": "https://t.me/WalterBloomberg/38744",
-      "ts": 1795178502
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "PAYPAL - APPOINTS CLAIRE BRAMLEY AS EVP & CFO EFFECTIVE FEBRUARY 1",
-      "title_ko": "페이팔, 신임 CFO에 클레어 브람리 임명…내년 2월 1일 취임",
-      "url": "https://t.me/firstsquaw/194597",
-      "ts": 1795178683
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "How to Earn $500 a Month From Jacobs Solutions Stock Ahead of Q4 Earnings",
-      "title_ko": "제이콥스 솔루션스, 4분기 실적 발표 앞두고 월 500달러 배당 수익 전략 주목",
-      "url": "https://www.benzinga.com/trading-ideas/dividends/26/11/63467629/how-to-earn-500-a-month-from-jacobs-solutions-stock-ahead-of-q4-earnings",
-      "ts": 1795178807
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "🇺🇸US PRE-MARKET MOVERS🇺🇸",
-      "title_ko": "🇺🇸미국 증시 프리마켓 주요 등락 종목",
-      "url": "https://t.me/marketfeed/1082505",
-      "ts": 1795178810
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "Anthropic报告称，其IPO总募集毛收入约为935亿美元",
-      "title_ko": "앤스로픽, IPO 통해 총 935억 달러 조달 보고",
-      "url": "https://wallstreetcn.com/livenews/3203388",
-      "ts": 1795178840
-    },
     {
       "source": "뉴스1",
       "title_en": "트럼프·시진핑 만날 때…미중 軍, 상하이서 우발적 충돌 방지 논의",
@@ -11504,6 +11469,41 @@
       "title_ko": "DC와 이스라엘의 매파 관리들은 트럼프에게 이란을 공격하라고 촉구",
       "url": "https://www.financialjuice.com/News/9862404/Hawkish-officials-in-DC-and-Israel-are-urging-Trump-to-hit-Iran---FT.aspx?xy=rss",
       "ts": 1795206145
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Michael Burry Sells Half His SMH Puts. But His Biggest Market Warning Remains - VanEck Semiconductor ETF",
+      "title_ko": "'빅쇼트' 마이클 버리, 반도체 ETF(SMH) 풋옵션 절반 매도...시장 경고는 여전히 유지",
+      "url": "https://www.benzinga.com/etfs/sector-etfs/26/11/63506413/michael-burry-halves-smh-nvidia-puts-but-keeps-nasdaq-100-bet",
+      "ts": 1795206170
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Brazil’s Former President Bolsonaro Taken to Hospital Following Acute Abdominal Pain, His Son Reports",
+      "title_ko": "보우소나루 전 브라질 대통령, 급성 복통으로 병원 이송 - 아들 전언",
+      "url": "https://t.me/firstsquaw/194716",
+      "ts": 1795206172
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "华盛顿和以色列的鹰派官员正敦促美国总统特朗普打击伊朗。（英国金融时报）",
+      "title_ko": "워싱턴과 이스라엘의 매파 관리들은 도널드 트럼프 미국 대통령에게 이란을 공격할 것을 촉구했습니다. (파이낸셜 타임스)",
+      "url": "https://wallstreetcn.com/livenews/3203560",
+      "ts": 1795206235
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "DISTRIBUTION DECLARED BY CANADIAN LARGE CAP LEADERS SPLIT CORP.",
+      "title_ko": "CANADIAN LARGE CAP LEADERS SPLIT CORP.에서 배포 선언",
+      "url": "https://t.me/marketfeed/1082990",
+      "ts": 1795206238
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "S&P 500 plunges to a 7-month low and breaks back below 7,000",
+      "title_ko": "S&P 500은 7개월 만에 최저치로 급락한 후 다시 7,000 아래로 떨어졌습니다",
+      "url": "https://seekingalpha.com/news/4675322-sp-500-plunges-to-a-7-month-low-and-breaks-back-below-7000?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795206296
     }
   ]
 }
