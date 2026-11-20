@@ -1,26 +1,6 @@
 {
-  "updated_at": 1795135223,
+  "updated_at": 1795135387,
   "id_hashes": [
-    "ce8f6b728b514c40b2d5fb67fe2a96dc0a456f40ff92c42c3dd147895d1b6bf3",
-    "66a1af0a893123d902f39b6c07df82b9f7cc6d1534fdf44c9e7fedf0b76d698d",
-    "a98e299eb3947296cadf21c0baef65bc5833dca794caf87c45bacd71fa5154a6",
-    "4cd445c805dcafd42ebc79d323835a7cb99849099127cd1ee02a5ee41e83aaa5",
-    "67152e97d2d27496f036401b7e972850e1aea34456df85a162713479f1c9cc7b",
-    "f65de9ac5d65c98e47db5f5cceb17c3b2e3e85d0b2d8476cb7cf2d9b3a200057",
-    "aa2cdc4323822e65bc36389f3c84d72e36a6ecb043d7407a54f8f07aadd32e0d",
-    "5f743170de136deab24cf90e25bede4c094c88d81f67481df42b758674271585",
-    "ff84e8c8300ea5f9ab07cdad54eac2b43c228257f5c1d901d4328bf82e508cfb",
-    "9530b01166636caed3191b9503f37ae9950055ac5e1fc488ea50fb058d27fed3",
-    "bd5043c4e407b17df45a84be2b9b6292ff25b65e8cfa9f7146f808d9f21791e9",
-    "d3cbdfabdc8d23296d69e0de2bb0703cfdb1ba4f50539633e9180e7f21effb58",
-    "81e2e9efad90034545c4f5b47d0c4c395ca4cce30214918f36f09c4a55a128b4",
-    "964b8395113d7d5cde1562a767667c4f816532dcf503b7bad3796afaf59f6730",
-    "54c98e3738e4672809416f9d1646d008e7f7cba197de841a62c5385cd58830dd",
-    "5b0452ef91f261b40d4811e9937d717ee9cf84ea13d03bbff7a8068d78061d03",
-    "5983f001e122b6b2c198d115146bdfcbe95b35282069a9bbc466e234c0416599",
-    "c37498554f39afbeff77e686f40f0d182cc3dcaa7e4d64a996ee1b3c21907a9b",
-    "74da20391123c00ca6d274b0203871991cf084bc1e1d4659d5f471d4e953a270",
-    "1dc612e6a68d949d596539f4f3ebb206ae8db1179b0df20e91fc1d61820b08a7",
     "f8c6c5c49d6e929ac1dcbe9dd3ce2f2ac2d3ed102577903735791dcf7fb06ce5",
     "b5027915122a19f957815118b23556c966e8520e00cf5492aa6cd09dafb59f50",
     "e121bf26ed31fcb055dfe146bac3b9982ffe450980b851e84c3e314bbc19e9e0",
@@ -4000,24 +3980,29 @@
     "7ff21ce029aefe02a87aea61878896e0b84c882ea84a9c0718318056e057a2ab",
     "413cc66043cc22cfe85bcf1c5e106c2771a8efd384948d0d71f61ecc37b41c36",
     "a295f10cf828a3d042b738b6b57c5ce2fb9cf6a46b4a92baaa7bdb6e8d8c74df",
-    "c7dcc846edf858d431425109c8d83b524d5718efa72ff83043ef87ed27fc3f3d"
+    "c7dcc846edf858d431425109c8d83b524d5718efa72ff83043ef87ed27fc3f3d",
+    "80373002c72eac9332924547e984da84f45113dd8f5328ba02f131320ecdb7e7",
+    "748f3108b58045616216077045396607e369b79e74ddaa00777549747aa9b980",
+    "3e97f22081fb5547034d5fdb45aeab92950094f345e7e084e1dea31b24264774",
+    "03865ea7351e194e48109cdd55afa054e2b7ae15aeb6cb1cdbf998a6186b1d8b",
+    "4abccf7a2c5dd1d78222ba6e00267d3a2c357d13a694cc47c164dee7dfae3f5a",
+    "f93590d3975ccb21859cfefad7521cf959745a3158b083d27e7e32ccfab104e2",
+    "79c7bdb11ab6d8f25ecb4c0560f11e5ed99d65d5d69194292fe154103aa4276b",
+    "268e0b01308357de507949650ab01ebc18fbfc9b7c3c17d2d7a34f936753e302",
+    "1c468610bd3d18391581e3c24f2b9965fabe91796baa32b76452aae3e9df026f",
+    "7ebb780e94bd17e385ef7e16ae408ad44b2d7ab371d34187a361639edeaff924",
+    "8327695891b3b08a1194cb62c0e2d1310fa6305e00cbc315a20b591b4a8345bd",
+    "b4c96eff18ad9cf2ee3a6cb7b1250aad12b0a05d2c88de7343d1fa8562728abf",
+    "ef9daab86d72b7b65146dc692f5755e03bf960dccb26f1e4873f09e4abfa5d54",
+    "08701b537cb115f5efaa1eacc942e6f135336a65847bdbf7a50bcf7be8fa423b",
+    "f1ab96b2418c28e61590ac123e80c361a0dc22e2cb7aee7edbde48857488a023",
+    "7a65574b14cb94ff1c38178fe348e3aeffa64fad50adc20896179c01b1c13582",
+    "a6fea59cf1380fb69fef701e25932b1bd016cfb773f01f68fbc8b5a9ca9fcbb7",
+    "38b4915cf9889ce86556d57b851f524f2bbb9fdfce2fe1981f07bf93bd95f42c",
+    "2658518f45a9f348312f96210b9f00f89910ff98ffba35ced37684c7f27274d6",
+    "7c2cb0b8e5513fca8a46e54c271fdb1a3594f8194bf8f14c4090f59876f20d41"
   ],
   "title_hashes": [
-    "b974582405857c69b44961edffc3156c20faee16b0e9623b319a210207028d27",
-    "8f68bac82131825512f4eabc819b8bbb768363c368ae64794d8fc585a993b7a1",
-    "fafa5fd76037096c7ffd0d953a2e702a1e6515d4cf9bbb3e88e35b9c13f6f89a",
-    "dbafddd77234519a9f26a77c4c6c887f81fd71db1d745461bd24f77b01c01073",
-    "02585ecff7ad670388c02c5bbd62efaa71c1e6ed0cad9a4506f5c263a08da12c",
-    "11223a50fc1c74e5cdacbb138cc16b9874c66a79aa67732b7128237f47df5be7",
-    "b7f85f4ad55ff981d944ec146c6cc9ca2de9caf3120d83f12438e4b5c3ad083f",
-    "1c6fc103b129f94b57ee778c855ac98fc35497035bc40a8fd78019f74c38216f",
-    "fa5d0d2987b4d38352a9dcf887767f115a779cbb4f010bad0dcf1b0691c59e9e",
-    "7c559b0498e6a56cf54697fae3ee4532b07f756754ebe870afbf5b8587c16c55",
-    "98c3caffcd3676f2169ce9ffd4b211c1d78934af1228db7c4899810110e46159",
-    "4f219e009cac30dbf0f922a1ca28878a70c8bd30d6c03cf31decb7a22156d08d",
-    "170601014485e6dcafa33635dea9bbc6af893ccad63bc738ac556c29614950ee",
-    "c9db993ae640c38580fe332130a5591f1c55948bcdb1806050c5c2d5c3607bfc",
-    "7b8c058cf2279fbdc005cc2ed485d4498ab72a10724733fcc054fe6524754a1c",
     "7acced72d33b6c164fba56f8f55798f99374414e0c9e9ca4690dad1ca32a0431",
     "ef89d6079fc8c51f76483c4279530388a822fe9ef0534eb74a27a18694e63ab8",
     "841afdac6ae2ca209da60a18e1bfd602069f927378edf17b7b217f003aebd123",
@@ -8002,30 +7987,24 @@
     "82d024648c895c6881e92e04722e292ba25b166e20a3500c1d15fcaaba63417f",
     "baa38da2537d4afdf9161b227cd8aec11477dc616a62e6b6d2e10b74e595b998",
     "17c8173f8440bf64ec9f4736480fdb64cfcabf986e385e0f983974ceb1d0c727",
-    "b412b58d74763ffeb6b1fb9c6b1ab043b1a099ca8916e02f0d23f85d7d7cfe30"
+    "b412b58d74763ffeb6b1fb9c6b1ab043b1a099ca8916e02f0d23f85d7d7cfe30",
+    "4a48999bdb3b5fce0a7d29a2ab842aa7e2eddae0f6f4acfed801e563f76bd399",
+    "edb2bf2ba9afa82fbdcbf6470022fef8010776168899970c8ee143727767c59a",
+    "fb49ddd1179ec7dbed9347f1da562fd2e7482e339f3a03908ddadb99d2f83d68",
+    "babfa9b7122a3180b0856edc190cac3788050259f0e0bb89780227a3acfa6893",
+    "9291e72665c97f23e4d3f0fe46380a7e303bd493cf737be4f4f7d0600161b181",
+    "41bd1eb2be3634af161e4dace799b3dcd9d7dd7987ebac55e9627fe336160e03",
+    "d31ac8616bbe07ee8d38e20f3c6070c2a52d540c90f778323a5a4b7b9f02cd3d",
+    "94c667ce0904cc336d28168a827034c3cd590a1ecf7be4df29a6adef77411307",
+    "c54a3fe26f7cc512d8d798f7da3f8c3d3cc96d2a751c6356df24b7927b70067a",
+    "5902c84d3da1a795880b5bdf45a073f9898a704f71c3370cac007f47032c96b3",
+    "45449e5b9db143d522cecce1e83f03dd6da35f82af7f59e9b16c69c8f2abe4ba",
+    "c4eb4be7429b4293c2340aaf2bb9bc479e14c6d1b472a16a5177249da7930582",
+    "d3414bec7a4991479596d7a44d0c43a1eb75acc453d3648b5fd73b0389e31d0f",
+    "fdcd38469decf76d0bb3d458a25d44da1dd8cf83a72b7ce1b84465dc85f2ac51",
+    "546f522aaa280c5a1b0241de3c944737e007de4d501af1dc7b45b21fd87e6133"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "VanEck’s New ETF Makes a Triple Bet on AI, Energy and Gold - VanEck Pivotal Trends ETF (NASDAQ:PIVT)",
-      "title_ko": "VanEck의 새로운 ETF는 AI, 에너지, 금에 세 가지 투자를 합니다 - VanEck Pivotal Trends ETF (NASDAQ:PIVT)",
-      "url": "https://www.benzinga.com/etfs/new-etfs/26/11/63443058/vaneck-new-etf-makes-triple-bet-on-ai-energy-gold",
-      "ts": 1795108101
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "交易员押注主要央行在2027年底结束加息后，将在数年内基本维持利率不变。\n\n根据利率期货定价，预计未来12个月美联储、欧洲央行和英国央行都将进一步加息，此后至少到2031年基本按兵不动。",
-      "title_ko": "시장, 주요국 중앙은행 2027년 금리 인상 종료 후 수년간 동결 전망",
-      "url": "https://wallstreetcn.com/livenews/3202729",
-      "ts": 1795108194
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "英国首相伯纳姆：盟友必须“再次挺身而出”支持乌克兰。\n\n只要需要，我们就会一直站在乌克兰一边。\n\n欧洲拥有“清晰且一致的”谈判立场。",
-      "title_ko": "스타머 영국 총리 \"동맹국, 우크라이나 지원 위해 다시 나서야…필요한 만큼 지원 지속 및 유럽 내 단일 대오 유지\"",
-      "url": "https://wallstreetcn.com/livenews/3202730",
-      "ts": 1795108203
-    },
     {
       "source": "Nikkei Asia",
       "title_en": "Japan weighs raising new-drug prices closer to overseas levels",
@@ -11504,6 +11483,27 @@
       "title_ko": "넷스카우트, 데이터센터 전력 소비 줄일 `지속가능 설계` 제시",
       "url": "https://m.ddaily.co.kr/page/view/2026112009355806662",
       "ts": 1795135222
+    },
+    {
+      "source": "글로벌이코노믹",
+      "title_en": "한화 900kg 무인로봇·대드론, 악천후·통신장애 뚫고 루마니아군 지휘망에 올라탔다",
+      "title_ko": "한화 900kg 무인로봇·대드론, 악천후·통신장애 뚫고 루마니아군 지휘망에 올라탔다",
+      "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611200931016276fbbec65dfb_1",
+      "ts": 1795135378
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "[AI 고속도로] 엔비디아가 돈 대고 GPU 팔고…네오클라우드 '순환 투자' 시험대",
+      "title_ko": "[AI 고속도로] 엔비디아가 돈 대고 GPU 팔고…네오클라우드 '순환 투자' 시험대",
+      "url": "https://zdnet.co.kr/view/?no=20261120093648",
+      "ts": 1795135382
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Japanese Bond Prices Tick Up, Tracking Strength in US Treasuries",
+      "title_ko": "일본 채권 가격 상승, 미국 국채의 강세 추적",
+      "url": "https://t.me/firstsquaw/194414",
+      "ts": 1795135385
     }
   ]
 }
