@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795175672,
+  "updated_at": 1795175832,
   "id_hashes": [
-    "f129a2c3fa29d59584153504d96f8879076f79168b47347a539cb3fa6fca487a",
-    "3fd3533f28a0ab0d5fa46904d247422528da81ffdab79a7e400bafc2c838141b",
-    "85876a6c5a746707ce7b97c16f1b3e3ab86ec9fafd78368fdc914d3232507ae9",
-    "cca66e3bcce53a90a7ecbace8675790553cbe53ea2735304007050235b7249a6",
     "d407f71ddf6eb67601ec4a38a1551eae2398babfc3654cd71a4b3dc4f4c68377",
     "c2fa967612944cad4b81e873ea8017669426de3dc44daecaf2475c0f37f6c2a0",
     "69de02f7f8b3562b7bdc922fc1305202d5a5aa5a417ed6d9b821d9c4324aeef6",
@@ -4000,12 +3996,13 @@
     "5e6222f7a74ec3a905d32b1fb67e9420dfc99c3bbd4c4af6b18b99bb053499d4",
     "5cee15d1cb7054ab9400d029c72b77fd2b4ca90fa829390cd638d9211dd63c19",
     "f113b05601521bef9d3de8c81e0cc2bbc2e13cab29fb624833f2896abef1a09b",
-    "8cb80ad37a4ac75c78f3da1caf72f4f494460e8bce0894c79c0a42f513476511"
+    "8cb80ad37a4ac75c78f3da1caf72f4f494460e8bce0894c79c0a42f513476511",
+    "98f70a62f0ad7264543c1018ac3b13584286ab9c07eb5f2e964f589002551bac",
+    "79aed033ce4845a5d9cf51fd31f9072f069ab3c2f94e8a60f60f0357924bb520",
+    "3cc9ea1231227f0106733fc756e628f3b413d181ab0c4a9e01f5fc21ef4d4312",
+    "f3a7ad1a5ed32cf23ea278f7ad9928ab0d1a153a663296146a2f8c3e9969a541"
   ],
   "title_hashes": [
-    "a0496539c19da73f0b05122affb39732a8a5570fc6adf6f7e0818579490343f5",
-    "b56b77cf0d369a46241d95d9718f14e90e7b0983d1be6e585a268371deaec6b2",
-    "6e2b37c9237b8d40086ba8bfb02d499e4ff751917f541fe167a5f0ccef5f8c9b",
     "fae20750032148b5290ce8bf92fa5c88b3c72ff1f95b56fe0190195253ccb714",
     "c09d33d40ff57f785fd3377e6cabb16ea6569d9ae6b078ca6dc22cd5b6d82f77",
     "c6ed58b287a6f46112c5fd3448c334ade7f7f0d76622836c221af4f0cc6e8359",
@@ -8002,16 +7999,12 @@
     "7648e170cb0a3bfba1465ff1af193cd0e4305ab74f19b9a6ed16b7b4cf3b1c34",
     "20a6ef9ca520845751e6e2cfc633b40649094b476b0ae4abe1438dca86dc6287",
     "b2b2aacd5d84e69a501f35d56fd9a9e98bff2fb4976698645856d5942cf5a2a8",
-    "dfa90bc682a926e10695da9ab1c1c44fcfc47d982e8c0170f50c443a79cf34f6"
+    "dfa90bc682a926e10695da9ab1c1c44fcfc47d982e8c0170f50c443a79cf34f6",
+    "07288648cc0aaf0b110ebf7392f003116ee4cbcb1d34c4a49510d7c8b9950fc1",
+    "5c422f37996f53d6ac20ddfe9660ad481d46aed51bede2060b28a85f45750fc4",
+    "a94ab0742054d05938e67c080a05228f85bb78afc336da78d046401f8854b07b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Asian Chip Stocks Slide as Anthropic IPO Fails to Dispel AI Woes",
-      "title_ko": "인류애 IPO가 AI 문제를 해결하지 못함에 따라 아시아 칩 주식 하락",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes",
-      "ts": 1795140436
-    },
     {
       "source": "뉴스1",
       "title_en": "우루과이 외교부 만난 통상본부장, 한-메르코수르 무역협정 재개 논의",
@@ -11504,6 +11497,13 @@
       "title_ko": "알파벳, 캐나다 채권 발행 통해 41.9억 달러 조달 추진",
       "url": "https://www.reuters.com/business/alphabet-aims-raise-419-billion-canadian-debt-offering-2026-11-20/",
       "ts": 1795175671
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "FRANCE FOREIGN MINISTER: CALLS FOR UN SECURITY COUNCIL MEETING AFTER LATEST RUSSIAN STRIKES IN KYIV, INCLUDING ON AUSTRIAN, DUTCH EMBASSIES",
+      "title_ko": "프랑스 외무장관, 키이우 공습 관련 유엔 안보리 긴급회의 소집 요구",
+      "url": "https://t.me/firstsquaw/194591",
+      "ts": 1795175830
     }
   ]
 }
