@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795142879,
+  "updated_at": 1795143031,
   "id_hashes": [
-    "b27a7171af5a539085f3f731b04ab65a7d9fd6993f0da9eabe46cc961d002a0f",
-    "9b21396a91d59b614078b54966dc586c8fada8013ff4736b64f461d4d7de4d51",
-    "26cc1da7a8ea2cd69e846f11815b6c95034a816b6ae8f4bed783ccb0a958ace4",
-    "7689a8b78a8ea02d8e72a12a47d413ca0f28dd3865e122daed706bbe5b3ada7a",
-    "b477043b0a3aa5ecf6e42476c16dd2ddca8d83fb9d874e533f906c03f4a76410",
     "423a08549a7bc794862fee8dd8b8227eebf4c25a1339f9a3783d75e78826f3a1",
     "7d82e4c449ed7c2cd4443ae725ae6005b5dd4c6d019eaeeca0c413a4e7a4a8f1",
     "e905fad408f2e41566b701b4e9de5a27f5f4e809b959501eb765a2dc60b0ba3a",
@@ -4000,12 +3995,14 @@
     "2d88aa75c0ff3aa092b644feca242892e7e98ca3653032fce7775b568b001ddb",
     "1820bfd8ef9ee37c7a05fc8be004111eb7aa56c918651f8fb0333ca039b9ec4b",
     "59f1c2f6c22d8b01b6ff80f303d48d20cb59f3909fedaea0fc48a31d786c8e67",
-    "9ab24338640d15a14739f60be4f05164e4d0d55480788d703592df94f2a91554"
+    "9ab24338640d15a14739f60be4f05164e4d0d55480788d703592df94f2a91554",
+    "4d1fded71e19498aa5f3793911dd3256fd94fea93752b56296485d1c24c3c638",
+    "f719cef4478770ece0d9815b41f67907123d56b7e312253b89bee388f604645b",
+    "f535f9eaa79f60d7675c0dfb7ae671570482516e7abbdebee61a1f8627084880",
+    "64e862b9a527e8bede0848d304a9bf8683325e764c46f1244a0bd863b11eb8cc",
+    "6b86877f7feecc4b7e4f00362f39fbc492de7e35f5f1939770e32762b3f66cc9"
   ],
   "title_hashes": [
-    "894492e5ea4a5b90be31470c166da0787d583920263ce6cb6133ba9fdcaf7e1f",
-    "0dcfda0a994bc00d8a85a36c8cc6c168e3cccc7e111113271d3b14b71b7b422d",
-    "03f52762d6baabc819a5cf8678e2544ad9db46546b0449288462fc54b8d3c8b9",
     "ed64f387cc64d5a7e374cf6ce28b9d49fc0f3a333874a3ec5aff963208491850",
     "a0f12a3c335c1ad73b426179a6680c439f71f3133478ad11d71bb5047e774db6",
     "3df22a67456452c9ea8e70d933b4bcc61652eeb9ac931be1ac268d625af568fd",
@@ -8002,23 +7999,12 @@
     "9e4975409d9c8ddc9a412bbb5e7936f1663b9152cbc8becb63e74c5ddca38b51",
     "3afbeba62d6eb0d92399c79f1c4882983147840e9f1b594cc12062a242bd7d9f",
     "5177128565c4ec4d58750abc425aa4fdabd66f5ab5354ea11321289799395d7a",
-    "53038aba982399369eac39e166f84f5e4bbc2fbe4373ae3ddab5e6cb135283d2"
+    "53038aba982399369eac39e166f84f5e4bbc2fbe4373ae3ddab5e6cb135283d2",
+    "6db79b092fc45b97bc9ae723fc45e353e74360d28cae267ce4a15b8c1e8f1edc",
+    "a3b36ea68183f3dce03761b65b43c82a8e55e78cdc3fa8bb7a6606abfdffc104",
+    "5509e478ca8fedbe19fa7719fe52eff63fba19bc0cc8b0dbfe9346ad89d11b07"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Retail Investors Dive Into Both Sides of the Anthropic Trade",
-      "title_ko": "소매 투자자들이 인류 무역의 양면에 뛰어들다",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/retail-investors-dive-into-both-sides-of-the-anthropic-trade",
-      "ts": 1795117377
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "COMMERCE DEPARTMENT RECEIVED 3.4 MILLION APPLICATIONS BY MAY 2026 FOR ADVANCED CHIP SALES TO CHINESE FIRMS, HOUSE FOREIGN AFFAIRS COMMITTEE SAYS",
-      "title_ko": "미 상무부는 중국 기업에 대한 고급 칩 판매를 위해 2026년 5월까지 340만 건의 신청서를 접수했다고 하원 외교 위원회가 밝혀",
-      "url": "https://t.me/firstsquaw/194312",
-      "ts": 1795117379
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Majority of US Senate objects to resolution curbing Trump's Iran war powers, voting continues.",
@@ -11504,6 +11490,20 @@
       "title_ko": "갭(Gap), 이상 고온에 따른 실적 둔화로 2026 회계연도 가이던스 하향…조정 EPS 2.29-2.34달러 제시",
       "url": "https://seekingalpha.com/news/4675005-gap-outlines-adjusted-eps-of-2_29-to-2_34-as-it-lowers-fy2026-outlook-after-warm-weather?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795142730
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Saudi Arabia’s Southern Region Targeted by Houthi Missile, Intercepted by Coalition Forces",
+      "title_ko": "사우디 남부 겨냥 후티 미사일 공격, 연합군 격추 저지",
+      "url": "https://t.me/firstsquaw/194458",
+      "ts": 1795142965
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "\"엔비디아 칩, 우회로 거쳐 中 군 연계 연구소 코앞까지\"",
+      "title_ko": "\"엔비디아 칩, 우회로 거쳐 中 군 연계 연구소 코앞까지\"",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445745",
+      "ts": 1795143030
     }
   ]
 }
