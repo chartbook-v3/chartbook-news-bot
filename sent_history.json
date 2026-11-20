@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795193540,
+  "updated_at": 1795193702,
   "id_hashes": [
-    "9c59f425f5936b9750a6840ecdc9863a6414c3a198194f5ab6e118edd374d41f",
-    "802f504e8f9aefefe65f214317c67cd125efdfbc9dd26c2d48ec49acdc2d4031",
-    "511428314f0647a7bf3df8b9c1c407a81e180bdfb94511cd539ae461de6e0033",
-    "e28dddaa090bee8212913762de34e45727be56074260e5a3dc318e5c7abcbff9",
-    "7067f11ad867e18d3ea98decc793f977d4d068d59e9d2c4f06372610e5e3323c",
     "05e4a8a54bf2270770a56bb7f445e26adee247b50bdf4818d34e2815addc0302",
     "6ee13a719a87661c50576e8ef01d746f1c091f4bd6fc6ddf1b7768010909b1b0",
     "cd2a62f8afdaed6c9ca4aef032f008a17deb71066815b5b2e65f3ee8566291c6",
@@ -4000,12 +3995,14 @@
     "40bf502bea1833e383cd33b48af0e342ca09d6401da3cdec39c6381a12e2390c",
     "fc9aec1564f5936ee95e51670829237957accc3eacc4108b6fa39e99cc8b2631",
     "a470a7ac77d9315131df13b6dfa55d74a482b9f7d3519f638f585fa87bbc1588",
-    "de6fafda0b176b9ab664e73071577b8b92da6c7f6818eea5278dab5e8d04ff8d"
+    "de6fafda0b176b9ab664e73071577b8b92da6c7f6818eea5278dab5e8d04ff8d",
+    "78860b6926c56e2b711f77298eb87ad450a4f0b881654809a036c3214aa92393",
+    "e08f9d15850f480a62bf4f0f9405b4c481b83884130d5dcb720b0bc5a7368531",
+    "d3ad3a88d138ff7d473bf9afe7ac49d9f7f1279c493b64b40130cae9e4bb524d",
+    "097723534130f5ff9eb5b1ce983356f880d96934edb6f2af54c7d4e64e5fb728",
+    "ba364cdbb8adc9f77d987208b64b932b85ec4a7850c7ba7846a31128498d4af7"
   ],
   "title_hashes": [
-    "7a1e69dde5d23eb70554041f0c7071a6a39ac01881d2e119d834ef4c33d70ea2",
-    "f0291589d19ca8737a7312ef75cefa482ea2266fbd93de595d85de5de0d779d6",
-    "c16b2bfed7f75409a055a42bb8c80d559cb068f53865c8330d21885e25ab58b6",
     "444e92e15b31477511e0991a47966336eeba1a1ed6420a8ee3730a5b7e4b5b16",
     "afd52693b841833b41fd8cfeadd9c52f648021b063622e2683cffa7cd3b1d9f7",
     "a9b8fd5cbe164b595d6485f324ba0679d675eead066daf030f49abfb08ce4d08",
@@ -8002,16 +7999,12 @@
     "3958bda59d5bb5a7e9e8f95569a9ba3bb7632d5be2da236f20e7518935eac67e",
     "abe80b5423201880308a124849a021100b22a818afe987adc90b0e3c26dab19c",
     "73b588576209d0a649fdf62e88e31aed269d9f4a636a60f494d232651fcc8088",
-    "40e8445d71982f3966235c239c98806c6e28411fe1fcaca605b89b77de5f6ace"
+    "40e8445d71982f3966235c239c98806c6e28411fe1fcaca605b89b77de5f6ace",
+    "5ca07cf95b8a254786780798a944c192baa6e7ce9f2b711a67dd4bcdf0857f11",
+    "37314e18544aba4336b01e5eed9b4feae3af643242b0cd8c5f027eadf95622f3",
+    "45d93809345b94f2ce56864f143c0319b19d62bcfe2cfc0903b65ab54b0f6b32"
   ],
   "recent_sent_articles": [
-    {
-      "source": "서울경제",
-      "title_en": "위험회피 심리에 환율 상승 마감…장중 1340원 터치 [김혜란의 FX]",
-      "title_ko": "위험회피 심리에 환율 상승 마감…장중 1340원 터치 [김혜란의 FX]",
-      "url": "https://www.sedaily.com/article/20117014",
-      "ts": 1795160324
-    },
     {
       "source": "뉴스1",
       "title_en": "우리자산운용 \"美 단기채 공모주 펀드, 앤트로픽 IPO 물량 배정\"",
@@ -11504,6 +11497,13 @@
       "title_ko": "트럼프, 푸틴·시진핑과 회담 후 기자회견 - 실시간 시청",
       "url": "https://www.financialjuice.com/News/9862098/Trump-holds-a-press-conference-after-meeting-with-Putin-and-Xi---WATCH-LIVE.aspx?xy=rss",
       "ts": 1795193539
+    },
+    {
+      "source": "매일경제",
+      "title_en": "와이즈키, 자회사 퀸테슨스랩스 인수 추진에도 희석 우려 부각",
+      "title_ko": "와이즈키, 자회사 퀸테슨스랩스 인수 추진에도 희석 우려 부각",
+      "url": "https://stock.mk.co.kr/news/view/1203473",
+      "ts": 1795193701
     }
   ]
 }
