@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795203830,
+  "updated_at": 1795203979,
   "id_hashes": [
-    "c2f6182c6e8c7cf4fa80dfe229b799ddfac353716da1852fc42ad3b4fe013d71",
-    "9392213e9198bdba16c505b4d3ace40f829cdcc317c4a324c7edd1c9e54e453b",
-    "c37076f725509c80f7be04af28779b966abb8e6bd00a68334ef837323c29f919",
-    "f98602d8bdaaa2c5bdac14e25b630d8bbdf7a7c7050c5185115ae9809294200f",
-    "7f5137f28c196586b8e5375b7dddcf839e4c633188b4948a9b4755ff57d16222",
-    "29379f6b438e53c6ee78a2fd254121ce73e79189056c27920b35eb1d3a9963bc",
     "1d712df61addcec0a61aede7a6469bd6d3445ea459ca435d1688844a60a4bf17",
     "dffcbd632422c137c59db471806dc3289f8b5b2f882e6ea502f330153f0db939",
     "9a4252ca101f8e21f518a3879585dc7a8c2ae9e39b2e3d3c460218b2d93726a7",
@@ -4000,14 +3994,15 @@
     "07a5ba3c3ce654795112a3ff0c428a3f299ce4896cea846b05f99088f4bdb3ff",
     "bdcd0f415f07d6b71ec9d1889aa5e3116e8c58dcbdcf9b5ddde7f95ceb53e1bc",
     "215d3edf8d42d268081f510e5fa325f0877e815db192cba0ccb5d01561cf2a08",
-    "9e3a51ba6169c76891575f333cbdb557f4177d15f1002d560d905ba15713a7be"
+    "9e3a51ba6169c76891575f333cbdb557f4177d15f1002d560d905ba15713a7be",
+    "bc6786e5687878383d89fd90800e7a4c752e94675932089647423f2224b0c3c4",
+    "7ef2acc28153775a7aa3d61c43ce43b5663b81df569191efca03a7e558bc5be6",
+    "033d0f76c491a2de01cac9c626446d7fcdd0c8a505dc15eed15b18bb68325586",
+    "27d37b6c936c58035ec9a6575d1679b20f28e24780849e0e3bfdf9ff3f15150c",
+    "4e3084c560843e2ef892d35f3aab39682838087a7c52295cfee9f2980a2fcb54",
+    "f8a9324e3c1d40ae59dab31b4e165b3569a40274239b9427fa2f146910dc556c"
   ],
   "title_hashes": [
-    "f5b2716908251f0c75c74214813c274e418c44fe9d54010613d753bc17023b84",
-    "87bd7079101d7eb6cc13a99cc930c6b9ecb0fa47b5a4a6c3cd08dfddecb48be3",
-    "1226efd9665730a6e9bd46c2a31c38d2d42b1537f59773f2f3969687148d9a28",
-    "483b165a7689a05d231e99ae8671ab4c44d567981a7dce73084ba04fc871e06b",
-    "340b86f5c32fb738297605b33bdc0a629aa43bedc8f951291c17f939c61077fb",
     "cfd63b8468cf38b8c336f8ed3c1efdf6d2385faa3985f22f11b7c177612dc473",
     "a0411aae8e791b482f90d569926bf745ff73e9121f7c29c420dc8e6edbbdfbe1",
     "b8c2ab1b2fa2304d82647e9a9721e948c67e03a476b28f1bbd424c6097f406af",
@@ -8002,16 +7997,14 @@
     "cef62a8de0710114f260897178a8a4476b8fbf14aa9e1c7ec5bff7566c1ea616",
     "0af68ea4df431745c96efc0cb7527fc864ace16f6083b678c5c3b671d787a609",
     "f4322e477686dea878ce14b83b9215eb02033a43d21cf37958cc1e43094aaf25",
-    "8b83392edf5827b37fd5731458e5afc959ec9cea78d3a71b0a96c983f36ea77c"
+    "8b83392edf5827b37fd5731458e5afc959ec9cea78d3a71b0a96c983f36ea77c",
+    "28af8d5e2c2f597ead7ce88db5471482e695600f9be98c5b0ac20a3e76e5387b",
+    "3dd9354745be8f3af6b21f803991730e906b11ee9a18313a24430f6bf8f1e666",
+    "cf953ff376cc2fff760cdde2a6be593812bc0f51d62f3d0923cdb85032490948",
+    "dff7af5f4a1332bddd7ce3c8fbe63a561979debb6f09751335ae57990fbb6673",
+    "490586d1ba82f19118a826d87420aec4b57d8107580fb08c2cd826b1e0afd786"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "CBOE VOLATILITY INDEX ($VIX) RISES ABOVE 30",
-      "title_ko": "'공포지수' VIX, 30선 돌파...시장 변동성 급증",
-      "url": "https://t.me/WalterBloomberg/38739",
-      "ts": 1795176246
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "SpaceX为AI芯片筹资320亿美元 债务收益率超过8%",
@@ -11504,6 +11497,13 @@
       "title_ko": "미 법원, 트럼프 '승리 아치' 건립 계획에 두 번째 제동",
       "url": "https://www.barrons.com/news/second-us-judge-blocks-trump-plan-to-build-triumphal-arch-d22dd2e7",
       "ts": 1795203829
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trump Defends Ties With Putin as Russia Steps Up Ukraine Attacks",
+      "title_ko": "러시아가 우크라이나 공격을 강화하자 트럼프는 푸틴과의 관계를 옹호했다",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/trump-defends-ties-with-putin-as-russia-steps-up-ukraine-attacks",
+      "ts": 1795203917
     }
   ]
 }
