@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795165180,
+  "updated_at": 1795165336,
   "id_hashes": [
-    "e0cb3b86202059a2f1f6e153bea59bde4369bd2539d730d8a005a3c6c6957566",
-    "30146833399f6039ed2fc18b42db993b7136ca90dae2c2b91753a6a4df5ad6b1",
-    "caf0676eb4e6ecbb92cbe6a6475630dea8ddfb82034aaaca535eea4af82da83a",
-    "01b11b2198b60b7af47eb2ff0cf9f4406b6898a063ebd4845575f2e48101a454",
-    "57fb20db64bc2b6fbb0e0255b2c9b8eec30c4ac160dcd7619b99b9b7b40610e3",
-    "2060a48f35631daa4deef7cc5332f5619a6d3fdb6dc37c410b3cbed1db97978b",
-    "579c90cb0bdd494910fa1236191630aacb502e79ee5b81dd2356553c263f9956",
-    "53c436e28127ee33aa8ab1f8230290e63a4043b19f597f518d769fb14845bac9",
-    "6d382f4449610c29c5463116e9addd0648716aef5097c57cc6317fc36a698763",
-    "2a5630340d9fea9c65ae3fb29f1a9a6643f2de12293a81be2c3a258fbe8d7749",
-    "52ab01803a7eec3b98e68bd8799d86e19f42559882b0dcceb57b475b37c6a014",
-    "35a5bf959265c418b51a83279c9a6126cf7c5b8fc7556b0c0a7f2be2eba71f6f",
-    "51011f2df5a11244ee745216d0fc7d746abf785aa80fc4a66018bb58da497454",
-    "54254ef04e3dfd1129ee3e696e43aa990853f5560a33d17baa59c83974f106fe",
     "1e8c35f599311649119df5a68f2f6ddacff282ab1fda22cd81b16cbf5e2aced4",
     "54183384033cabb34763884167632462d3cee24d66526932f5f0324152d07a07",
     "47dd24b55b86c914866f2ea4e79b0372da4460c87f1a94a627aa4d05bfb53d02",
@@ -4000,22 +3986,23 @@
     "730401b5be4fdd9d25bfc8261035149cce0a524bad26375760494e8cb73c5718",
     "0aa09e33cd751c0961d79b5578b02a9bb5d8ee4d010512c46ae39e91344bbc6e",
     "1223004dca9f341aa8b9dc998ea5e462c51a695bb46591b938aa31bea92ac8e5",
-    "8bd551aee7eae43186a814630123cfe55b0242e6e9f4cc5873556e4ce7611da6"
+    "8bd551aee7eae43186a814630123cfe55b0242e6e9f4cc5873556e4ce7611da6",
+    "5049aec8fb711d9bda1c60d2eddf61978ae559876b886fc828accda683a10f7b",
+    "8269292ea145f7a5726c0a4746fc5aee33647c90347098dbe554507ef5ec9480",
+    "5fbedc565144116fdbd2a632737df08bc5f7388d200fa7b15479fccca74c1a52",
+    "296cc2a17380872cec8d3c9b299556823729b3403c581ef681d093848545c60f",
+    "1c8337dccf9562d114b9dc759a389c0dc0922d37c1207ecc97f9ad7eaaa4ff22",
+    "d3c0a552179a7742d68ae5c689391f3eff3bfb5167396c2159eb088d4116bed1",
+    "cd7a0b852348d132067b1d8f46286d23fa604d98a1d2e6f33ffff6424086d954",
+    "a1795aa5971eee6a70ea57eeb595c37351b590199424b3e948e34fd262400053",
+    "4ce79889154f69020d634485ff77bfc4de360640bbd7ddd6494f8f8cf8036752",
+    "ab338dadba9ba492ddecf4adccd845b27c2bff6ed83e731eef1bde5e145f66da",
+    "3ae6a822a75e04ed310ec34970dbca943e84e9ec90c5d8c902d9c85c3a35aa03",
+    "c6d48c8675a1f2e5300a5c590900fff319f7ce9996ed9f832eaafb751f46ce35",
+    "674e6d4afa82deb56ceea6751d9bf8f94b9f5b128ad628b574ab3e84f241a4c2",
+    "556b6a6d74fd3a90c4caf293c19354135d7c8a8a51bff9a3b5ac04ae990ade13"
   ],
   "title_hashes": [
-    "42cababc52c94e18851506d104816071e2137db038124f08a477e5671a2ae422",
-    "d696191460be539e353d209696b72ae1f53e05f247a1b6e769bf8eb5b65c03f5",
-    "0dbd73eb82d7cb8f67e74a7f07e6f571c292e1fb03e6d4b36abab5278165a781",
-    "8fad6992d7513c20efe817a800f930ec5d760084284561f0bbe9649cb55c5721",
-    "2b8bdb229b9559d0ecb670c3f1b75aafa678ae4efa8383d9bbc32c55f969ba3c",
-    "a4801d88f019b119a056f4600472a8462da3aa7c39357230a01ab4de53fc356c",
-    "5a602d5b670b5cc465fa92fe80bb3a23ea721fe1cd7fce6fa198fe3484bf984c",
-    "503ac05b870a9429d9c139ea99b70bc48dce3cedc73ec5703bf0648b07dfdc80",
-    "22be0df5815133b4e4de02a9c1266a596be069452fd69ef481bd1d30aaa215b4",
-    "d5990a033dd9ad42be93f349d5481b175680657c4e0e720394f91d76cb2266bc",
-    "aa2a8393592d2f807e400a37fab96de2fde1131480fd5eb131e6e3d4ba80d552",
-    "13fa55ae2c76a262b38dcd4992a2e6e9be718d9a0399d407ba8247f58e101ce8",
-    "6a87a32faf8906edc7eed5416956c440600ad15c438b77954a36f19842e1fdf2",
     "5c1ae955ca30c566854cc7354daa90a628e325fc417ddd47b16a80491bb9667e",
     "4599a2ef7cf0e712b23f92ac902a61181ca56ddc51f68aaa34ede0cc3113aaba",
     "147a44c22e1ae66cc189629aafe206d19b9cb20a0326e98aca5cd1b6a44a5022",
@@ -8002,23 +7989,22 @@
     "d21a8a486970f1d158f1902b1945aaefdb1894bbff27e543dc5707a5aaa759e5",
     "d5ecb0379651ea811b80bf97e5791ef883451bf945eac8a84b6e2d871507ca70",
     "771ee3f7509e8bbfcb27d26757f5118eb4916cde44262543405811ef615d169d",
-    "c5ef7245be700556b649a27c54865bf5461b28369e2fc897101360edc87f0cc4"
+    "c5ef7245be700556b649a27c54865bf5461b28369e2fc897101360edc87f0cc4",
+    "4b66c4276b2cb23edbde50165d0a9224f0b6f4ac74066e4dcafd10a248632fb5",
+    "a7cae8d4a890a106072d21b9e547a469f88a5439bd4aff08e6fe02a097f2abf3",
+    "7a3b8170990c4c5fd8e926045c65d43b804ccd9a2f48f1a2d88d11ff40c875d4",
+    "c2a693874ccf554ad9c9de58090fc63464627d400d8594099cb7755c883f122b",
+    "0ee35421fd0a4277f219f19e0df2fc11b2aa95c18de85b2daa21ada9cdd2fa76",
+    "795ce00e07ee03ba084aee44e9bfdc2feb12692cbb0272176b0623ad000c9cdf",
+    "df82ac648055e52d928362a9e14a9f71aac69f3d342468fb68269ac5f660bb7a",
+    "2f5661610e8fc830fae96ba7f0a9ee3e207c2ab8403fdf9a30c323e37a8a5b4a",
+    "0f4990fcee7cd28e0bc2095cf6e2ae9b6e54bba5a01f3adabc6887b87695f1df",
+    "bba13c80c9a11e24159bbad28c3e976e7ee9879c651caa79f1a188e96016be4f",
+    "5f0a3661be4bb9bd3f3a949a6c0632e4ab01df1e41040f109f3b3ffe9063c51a",
+    "fa6b624ccc3126fa47ec2af19d08bfde13b63071d22b3d4662d98658dc269a53",
+    "3c559a3593c12e266284c00707a370ba4930a15993a1e08f3a07f4808e6107ed"
   ],
   "recent_sent_articles": [
-    {
-      "source": "지디넷코리아",
-      "title_en": "중소 브랜드 할인비 전액 부담…스타필드, 입점사 매출 지원",
-      "title_ko": "중소 브랜드 할인비 전액 부담…스타필드, 입점사 매출 지원",
-      "url": "https://zdnet.co.kr/view/?no=20261120090103",
-      "ts": 1795134124
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "앤트로픽 상장에도 美 증시 급락하자…코스피 3%대 하락세",
-      "title_ko": "앤트로픽 상장에도 美 증시 급락하자…코스피 3%대 하락세",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/20/PZWPYYVH3FA6LNWNJMFOOXOUV4/",
-      "ts": 1795134248
-    },
     {
       "source": "전자신문",
       "title_en": "삼성전자, 반도체 '실적 주역' 3인 사장 발탁…전영현·노태문 미래사업 전념",
@@ -11504,6 +11490,20 @@
       "title_ko": "경찰, '자사주 출연' 조원태 한진그룹 회장 휴대전화 압수(종합)",
       "url": "https://www.yna.co.kr/view/AKR20261120106151004",
       "ts": 1795165179
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "장동혁 \"코스피 4900선 붕괴…주가조작 특검해야\"",
+      "title_ko": "장동혁 \"코스피 4900선 붕괴…주가조작 특검해야\"",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93cDZDUDdxSlJYYm00U2QyZ1Y2SGNZeHYwdTFPdXNVa3ZmeV80NlItT2YzRjV6R05kRFREekdZZ3F2bFFRX2NhNzA1QTY4TEtCRllTU1U3T0NTZw?oc=5",
+      "ts": 1795165332
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "美股盘前：Anthropic跌约6%，光通信股、半导体股普跌",
+      "title_ko": "美 증시 프리마켓: 앤스로픽 약 6% 하락, 광통신 및 반도체주 일제히 약세",
+      "url": "https://wallstreetcn.com/livenews/3203132",
+      "ts": 1795165335
     }
   ]
 }
