@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795191350,
+  "updated_at": 1795191506,
   "id_hashes": [
-    "a63e10a9b6e2f6340c9c2c1ed4399b8bc4edb0da81125599cd8b393cbfab2a69",
-    "caeabb1812ead05d071b43e337d3b8b4ae02a611c9f68f4cf13fa84b15129977",
-    "aa5373f0083e6b81c23f768ee651e99167be77db9648eacb1b7761dc7608c896",
-    "1322053956dfc3b6ab3ac97b358c5969c4830c771dafcb4523a8b638f5b135b7",
-    "52f5091826e35f2d44a7b59826085e78bfaf98939fd539e16c1240bde6f2667e",
-    "287c9dced7a7d3d3a7e83986975ce1603d32090e3b5025c03584641af61ca592",
-    "0efa467eb518bfc08209d506c1d1803c17254542153370d6818007d07529a7c4",
     "27b5cee32aa7da3545800bc494bb14bbb160dea15768419aee22a978919af006",
     "480d7e69211acc4cdce29ca9563fda23e5eca17ac3dd2e6ead895c4be8c8b5e8",
     "5c926827b9816146f4afd55e7420b361e0fb0caca8d6965ae1874af71f9c218d",
@@ -4000,15 +3993,16 @@
     "5c544c603f79fdc1177ec0b823acdc67911c134ba5f41f2d99dd08ead606006a",
     "c8bb3f476d5038a70c02dc5d3c3a0ab0d7dcd917e2e3248d9388979dd6e3e2f1",
     "fb22e7b22a1389ca9f637e7f75514f95a1e6b26a74c55f4b84f3afb7108e4e97",
-    "bd8a05553e57129ac69388040282bd21b073b0d1cc7269ea2e511b57d9c041cb"
+    "bd8a05553e57129ac69388040282bd21b073b0d1cc7269ea2e511b57d9c041cb",
+    "879e61d7d807d4d99025ba0627a868644189f49faf2fb90526b08f69549e72fb",
+    "fe1dba53f5b668b86cd525b35a7be45d5b3711e2dd99ed9d39619144761e71e5",
+    "b725669cb5c7fed8ea7aefd57c82f4c81ab81a532f2e8c442afb7b025dec952f",
+    "044bf0190ad59ef643c936244df9cfa241378b43b910cfb0bf8e1baf5aecb653",
+    "e708f667f30f90970b3020d1bc1d6e1bd10a8143638e0ba45a324aee4f278ede",
+    "5bca8f236c74410908d1de37b9ebed0c2438c87c058507c74188f8a676b7c4ce",
+    "3ea18b0ff9d184af45cc5ba384bcdd206e58d54ec297756775282623b649bcda"
   ],
   "title_hashes": [
-    "3f524d3d478eb2bc34e22ca7be32b69d6c20205502ec0b04472bb80f48b523e9",
-    "b7fb274260e42aa3c717982733c5f19b076b68ca4272e16ffd7ded00280b5307",
-    "013328619e57d284ce28219ad4e1f24ae29e44eb7e43eb17b18fd42bd5e20642",
-    "f818c096eeb720ae12edc6b3e531ab2cfd6d95ba388ad49d02a8804d19af435c",
-    "bd0da5c61eb2de76d8471932ec6f3e26dd6ada2cd7cbce5b4b22761864eee027",
-    "e045ccabebbc74ac3afafa42e3d3c8bc53d2abf1c335248c8423d8d7208f24df",
     "c0c073856a5deba3b3550e0ef2f2876ac293afc691ab0f5a14fbf3dca71f69e7",
     "4d6ee87fa21f301c6202d63051a307d7f90654dafddca1d32cf93f5acc74c8a1",
     "78f425e1e49c05805b4fca7091d7e0da8990f837708df9a9802fb3ecf993a94d",
@@ -8002,23 +7996,15 @@
     "95c571ee26f97d0b5388d165ed40817a5534af36ca853985da892ea8067bd87d",
     "6e66151acf77aadc74d206516ee658f89879c2f479b95e48bac86874aff1b470",
     "949624fbc775d304cafc3c2441ec906bdce769ace793c0646f5f270756c1cc0f",
-    "b42fe8b56d753d2495feb93001faa3c48c4f2d5df5f93692b5e939245c48925d"
+    "b42fe8b56d753d2495feb93001faa3c48c4f2d5df5f93692b5e939245c48925d",
+    "55014115085c6283ede7bbe8a4553ec00425a5e757dd277c937a028254c08b0d",
+    "32b11b0b4291d5810b6fbfb7ae7ee46728d97ea010b1ea460e755702e4a66c13",
+    "b2a3552ad8cbb24aa61d9aa68d41c912ac525ee804faca950e2c80670209e88f",
+    "ede6602d5ff8f9fa2c2b7dc496cb69cabdf6c89c02c884d60573d5a7494a7659",
+    "3c5032a1a7528d482c6e696de631e1127d168c97d97d9589f71851f4870502ee",
+    "de63234d20e31b1e181d87a2940298ff8f71c3abf89bcf2ba15cba7437704ef8"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "SpaceX sells $32B in AI chip debt above 8% yield: report",
-      "title_ko": "SpaceX, 8% 수율 이상의 AI 칩 부채 320억 달러 매각: 보고서",
-      "url": "https://seekingalpha.com/news/4675034-spacex-sells-32b-in-ai-chip-debt-above-8-yield-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795158534
-    },
-    {
-      "source": "디지털데일리",
-      "title_en": "\"배달로봇부터 스마트시티까지\"…네이버랩스, 공존 해법 모색",
-      "title_ko": "\"배달로봇부터 스마트시티까지\"…네이버랩스, 공존 해법 모색",
-      "url": "https://m.ddaily.co.kr/page/view/2026112015143034932",
-      "ts": 1795158538
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Frontline Non-GAAP EPS of $2.38 beats by $0.12, revenue of $921.26M beats by $203.84M",
@@ -11504,6 +11490,20 @@
       "title_ko": "호르무즈 해협서 유조선 정체불명 발사체 피격, 영국 해군 교전중재센터(UKMTO) 밝혀",
       "url": "https://t.me/firstsquaw/194630",
       "ts": 1795191229
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "KKR Is Said to Seal Pact to Purchase Portugal’s Logoplaste",
+      "title_ko": "KKR, 포르투갈 로고플라스트 인수 계약 체결",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/kkr-is-said-to-seal-pact-to-purchase-portugal-s-logoplaste",
+      "ts": 1795191500
+    },
+    {
+      "source": "9to5Mac",
+      "title_en": "Car Keys in Apple Wallet coming soon to these popular vehicle brands",
+      "title_ko": "애플 월렛 '디지털 차 키' 기능, 주요 자동차 브랜드 도입 임박",
+      "url": "https://9to5mac.com/2026/11/20/car-keys-in-apple-wallet-coming-soon-to-three-popular-vehicle-brands/?extended-comments=1",
+      "ts": 1795191505
     }
   ]
 }
