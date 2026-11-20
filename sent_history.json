@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795178655,
+  "updated_at": 1795178811,
   "id_hashes": [
-    "cca05f79808136fce1db1807964e3da2eaae96a6670c9050848588d1442f528a",
-    "854c906da34a06bdef34e1292a46044ffe505217586f75796af31e7e03915ee1",
-    "fb77c7e54af9443482fe5430da29b0c75c203e878a27089b43233d98ab91c3fa",
-    "fe4c5749c22046fd5c4fd73ef48dd5809259708f1a1858f8f24ce5ddbaa173a1",
-    "1cd614a80bc0b589a94ca17e30bb201f989fd426a58e746cc0b63398ecaaa21e",
-    "f295e304bcdaa6c75dcafee22d624da0d52902a022e0afc0abe6e904f23786b3",
-    "239c7c19900a61b1626c5468d9e1c342a8ab3ddb258ecf4b064c8506738ecb0d",
-    "bb757f16c6bc4fd52fe1db759b29db2c12035c6c438bdfb1548be98c33cea881",
     "19c9515bf7ba36830b56271341f267d8df0ad0cada793617249bb64208330b0c",
     "d4b3470bc1008d34d9b0f97bffa982a8453388bc0991ce9d3e6c3bcdb8b8bd62",
     "25bd88addc2c2d325d25dd89e50fd72810f6e86ee67decfca493638b52614aad",
@@ -4000,17 +3992,17 @@
     "d2b266d35a3629c7417dc7ce0fc175bae5b221c23376386a593b4de710675994",
     "a2ea7648fd1b33d5ad9df15ae71c772195857ad24cee343a8677df703b2e362f",
     "46ff7c277bcd1529d5f2c32f3b1e32cec97668dde03286fd0a8c11d4ff1bde2a",
-    "6081f9ead531a733fbffd3b3284b6b2b9173f1e1473d4261c4a4e60b86bb9044"
+    "6081f9ead531a733fbffd3b3284b6b2b9173f1e1473d4261c4a4e60b86bb9044",
+    "88e549c72b51c920a067e8759d9917718040955dc00d8994d72caed4d0b57126",
+    "ec1d4171a020c0dd9bd9904c498241e0f5605acb8a8fbf76f02289f055329f2f",
+    "05199fd33518f79319e51b3735e210c55030588f71f37ec7b0f02b6dd12dd942",
+    "99b2745994afb89c0b2b3bfeca0abfbe2b79814ea6429a25ea968e43cdd3f699",
+    "3ef8e1a246ed98d89c35a8dfd553ba1a60c097e7ba4cde69d473404973d7b362",
+    "9c2c9a0206a611c37c12961eee028fc626bf0cbfd50cef0f5e0e781adc5b085e",
+    "53008bded79f802adee586fdee1e55d57e4d7912da2f578ac3c457413a19c9d6",
+    "1b7c77c8bcaa4b01542c542f230b3cb6cac6475dac70cc35a58c35d6ad014551"
   ],
   "title_hashes": [
-    "6c3bf2056d0e9614322b47848393c694110d646f3c5a5d9f54c653c20df227a7",
-    "7dcf6b627832602e90c84dc4c170e043c5ca28ba1f21330c1e1cc9d88e3d5505",
-    "477e686f6136f42511218267b862e9ce2deb90cfd9e81af5c4c7b8c6e8987e8c",
-    "159ddee03e46bf0af1ad816a93d2c4c7b1c59aa69805bce98b10021479beec8e",
-    "8f2f98bd200c8de480e2a53065d988ba6b0a4b7166a8c1bb007890426744885d",
-    "9140d568ec8645ad9bfea06293d73e263fa74b1ccb8befe2906dcca8a3e35c95",
-    "7992e2d2985ae2615d8520f0f17a11b8d71fce6237d650acd9cdd92dbe32a2db",
-    "dc135c7b03b52d18a736f4a49cff87f8809af6c7bf210187156c873d17b59b29",
     "93b67b768030505f5a62921a38bfe94024cc496d31f875c0805a9a8aac038882",
     "902188f6c0599490174f7caba32c3e1389fa689d303527d8dd8725569bae003e",
     "a90bdcfd75e24e204b9b2ccca5d0f962c05c33ed9838e19e05da5415a2a75bca",
@@ -8002,30 +7994,17 @@
     "a3210a4ea07c17140c32d0d2bd979da5bfea3e56b130733e47341749fbe32404",
     "7580bd2055ce783720ccb4fcfdbc19dc47090459c013965e41216f4c553edc5c",
     "8ce903ffec129695b7dff1cd726f2d6df307e3dd1ef945fac013d89785f5fe48",
-    "bd109f2a5b1c3490d07e23920418675ca6cb336b8c87a1e569e6f72efe1875a4"
+    "bd109f2a5b1c3490d07e23920418675ca6cb336b8c87a1e569e6f72efe1875a4",
+    "8ea799a7add91b9c3cc09096063b1a6ae6340fb4c7955c44523ba15f14f293a6",
+    "23c970dfbdedd2f7901f1a10fa0fe22c7234198418d4877b4671d5145d54b6f2",
+    "8d2ab11cb845e2fad21ea4e82a4ff7d5d3d931fd9d966924128105474d6d7f6a",
+    "72e93814d569cfde778df78eb98f8234822e0929093ab925fb0cb0c99c9d6861",
+    "5a13effa3e79e9d6345549be46a4106897eea99441a28f8e011f2cbd44af7d42",
+    "09fb144b667401fe3acc2c97ad57af842d840685a6b5ce48840882628ff4d713",
+    "bddb029365da8723f1146e6199f81e7ff6e509e19a34c91550b9de796dc7984d",
+    "cfa90a94ec82a6f27bac5407aa4bb8195f2af3c3a41404e597095a6cb47a5e29"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WSJ",
-      "title_en": "Trump Seeks a More Welcoming Reception Abroad Amid Domestic Political Challenges",
-      "title_ko": "트럼프, 국내 정치적 난관 속 대외 관계 개선 모색",
-      "url": "https://t.me/firstsquaw/194457",
-      "ts": 1795142728
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Gap outlines adjusted EPS of $2.29 to $2.34 as it lowers FY2026 outlook after warm-weather slowdown",
-      "title_ko": "갭(Gap), 이상 고온에 따른 실적 둔화로 2026 회계연도 가이던스 하향…조정 EPS 2.29-2.34달러 제시",
-      "url": "https://seekingalpha.com/news/4675005-gap-outlines-adjusted-eps-of-2_29-to-2_34-as-it-lowers-fy2026-outlook-after-warm-weather?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795142730
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Saudi Arabia’s Southern Region Targeted by Houthi Missile, Intercepted by Coalition Forces",
-      "title_ko": "사우디 남부 겨냥 후티 미사일 공격, 연합군 격추 저지",
-      "url": "https://t.me/firstsquaw/194458",
-      "ts": 1795142965
-    },
     {
       "source": "연합인포맥스",
       "title_en": "\"엔비디아 칩, 우회로 거쳐 中 군 연계 연구소 코앞까지\"",
@@ -11504,6 +11483,27 @@
       "title_ko": "씨티그룹, 위험가중자산 350억 달러 과소계상…자본 확충 불가피",
       "url": "https://t.me/WalterBloomberg/38744",
       "ts": 1795178502
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "PAYPAL - APPOINTS CLAIRE BRAMLEY AS EVP & CFO EFFECTIVE FEBRUARY 1",
+      "title_ko": "페이팔, 신임 CFO에 클레어 브람리 임명…내년 2월 1일 취임",
+      "url": "https://t.me/firstsquaw/194597",
+      "ts": 1795178683
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "How to Earn $500 a Month From Jacobs Solutions Stock Ahead of Q4 Earnings",
+      "title_ko": "제이콥스 솔루션스, 4분기 실적 발표 앞두고 월 500달러 배당 수익 전략 주목",
+      "url": "https://www.benzinga.com/trading-ideas/dividends/26/11/63467629/how-to-earn-500-a-month-from-jacobs-solutions-stock-ahead-of-q4-earnings",
+      "ts": 1795178807
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "🇺🇸US PRE-MARKET MOVERS🇺🇸",
+      "title_ko": "🇺🇸미국 증시 프리마켓 주요 등락 종목",
+      "url": "https://t.me/marketfeed/1082505",
+      "ts": 1795178810
     }
   ]
 }
