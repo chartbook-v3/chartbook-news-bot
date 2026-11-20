@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795180710,
+  "updated_at": 1795180862,
   "id_hashes": [
-    "40715e2efdbd02357bf60e093c523bfdd4d6a0e8d44c1803f1dcf90aa2190b8c",
-    "fda04b3009f5cf8e0a487d4b058622aeec8e60fae8e79324d14ddcee08e32061",
-    "17047ba00797c2c6159635d0ac7c422bb330bc1a69bc9a746401bdfcbf63e7cb",
-    "af49521947ad303dde0543e5c9eb961303a12a266ae24b9ed6b40de5e768c9e7",
-    "5bd5002de4997c38b3a4fb69cd9148b6139d52f68ba5c4da061e798ee1a8eec5",
-    "942121287df61639749d1d3ca0dde22deac7fe2997c30d3a4815cd3be09cb6ad",
-    "c1a635b3d718166aa51f2b89f4a2adc939cf5321f043adb720cefc8e5d1eec23",
     "38a865942cdbebd451ea29aca72f6fae13fdc0ea919adab7050c7a299bcd41b7",
     "18a2e892c94338b3b1429b2e3ca75a4c04647feb2aa3cdbbc5c113bc5191b08d",
     "3a81b5d28a392d82a2baf79abbd3a0f4efcee2c7ca0c292683a5a8a5f77462c3",
@@ -4000,15 +3993,16 @@
     "a11db7810839a12218f7633fa6ad0804466692db65a71f650ae79758a5b376ae",
     "78c7ef86aa57f926de3f1fdfb96b5d76e3d26de39b7f88578b1a5ce7dbfdf864",
     "f54b953c242acbfb4f3f68049daac85f4b48fd47f2d2eb21681bc33b7eb9d1dc",
-    "fab291e7f51978cd089a2470298190964e0369457fbc11d03269f4cb05efbb8f"
+    "fab291e7f51978cd089a2470298190964e0369457fbc11d03269f4cb05efbb8f",
+    "4a4206e7ffff3a1f09359511079a5fc87a591aa3a627a4e2899367768c586970",
+    "c1f5163f1826a5191aae9ebfcc76171e1d893064978f2cd5cbb3a06aa294312c",
+    "3ae5ae957f2d00dc336c102a5893d5f8361edc0585d71123b6d7fac8896e75f3",
+    "5beba47ec7987e5ceeaaf9b6f0cda52e70998f123a5be2bc1cea83523bcc07d4",
+    "5785c527956f346d4d16a30d9f17e58b7f8d6b826fcca6a234fe510b8c2fb9e7",
+    "dee1db09ef7805c62f586655f192b82c1231b5d3514e4459933aa757f83b7fea",
+    "188c98aac024924783f861c0b3112fa201e72d02ddb4d944dad82d1875cf1652"
   ],
   "title_hashes": [
-    "b2c9f3bc3a41e18fc670cd2742fb1f0190aab662c88205700eb35990254816e1",
-    "b730a853b82c450554d3a700a87ffa9fd7d6cbf9f07e9b0cdc220c38f7527819",
-    "1c11a6acdfb0f9aebe2be96bc61b4aaa73b8fd15e5d714ca7c172e2780b5ba29",
-    "d9a832428ffb2c6747d491028d9c1cfb27f2d5a90cd77713c0ac6bc78ec777e9",
-    "b5ceed8d2286375e739c0f21461700240a5fc5d731722e5596134ee17d832c38",
-    "51ec92be5123e2fe148e308ad3e8e30f22035dacea36b2c1d4fbaa35e925bfa0",
     "b4fac7b9537566d6d53d30ec84c6d0cf215ff66c52508ed267e42fae90831e3a",
     "d730a02ee44bc721fdf4488dacea46653736971b96447bad1b74432c2bcd11c0",
     "ef77e65286997b35bc36e1b5ceb1248c4e4350ea19a82e187ad88fb3f113ae25",
@@ -8002,23 +7996,15 @@
     "ac95b8f1d931f1b3e5f108df5ec6ce18b50c24b7fd54d7ee5898edfe8dc4f24c",
     "a54584b06202d3fe393c5e1ddfde6bf868a60d5c3a018ce5a85baff910b9f536",
     "ed3397755d6bfacf3fefe382f6474f1b7829ef7ed60fd3a32b0e204306a8f4d9",
-    "f502a027226ef55f0714263c6e49ad866fe89b792df64d71d79d2041c927afdf"
+    "f502a027226ef55f0714263c6e49ad866fe89b792df64d71d79d2041c927afdf",
+    "f5ade7c172af1123c67a0203c901f3efbe8db75dd0a4c8425a1dcda68bc68a35",
+    "c57360249c3a1b5bae2bf93ec1e1bf197a53185794d0b9cc758bee6511e9c988",
+    "86ace35a2232320ab4203bd3707a4eb934cc59761c03ee7f311d729995e42378",
+    "268e1221eb1ea0d7ba9bca63a1d92067cde4ad01a365df9d30526afdba45da3c",
+    "53cf1c86e45c277ddab5e81c34c0d0ae4029993cfb155cd0bd208f84683fa29c",
+    "32b90964e6cd101c8e13bcb033239420ced62aea8bb59e95a2534724401b2b68"
   ],
   "recent_sent_articles": [
-    {
-      "source": "조선비즈",
-      "title_en": "앤트로픽, ‘역대 최대 IPO’로 143조원 조달… 순환금융 우려 속 수익성 시험대",
-      "title_ko": "앤트로픽, ‘역대 최대 IPO’로 143조원 조달… 순환금융 우려 속 수익성 시험대",
-      "url": "https://biz.chosun.com/it-science/ict/2026/11/20/R3KK2ND4RJFP5DYYV6S2N5BHC4/",
-      "ts": 1795144338
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "공정위, 한화솔루션 등 현장조사…태양광 발전 패널 담합 의혹",
-      "title_ko": "공정위, 한화솔루션 등 현장조사…태양광 발전 패널 담합 의혹",
-      "url": "https://www.yna.co.kr/view/AKR20261120086200002",
-      "ts": 1795144341
-    },
     {
       "source": "파이낸셜뉴스",
       "title_en": "\"반도체·수처리 소재 국산화 공로\" 시노펙스, 대통령상 수상",
@@ -11504,6 +11490,20 @@
       "title_ko": "BJ스 홀세일, 실적 예상 상회에도 2.4억 달러 규모 비용 부담에 주가 급락",
       "url": "https://www.barrons.com/articles/bj-wholesale-earnings-stock-price-8b6c4224?mod=RTA",
       "ts": 1795180709
+    },
+    {
+      "source": "CNBC",
+      "title_en": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
+      "title_ko": "트럼프 아시아 순방 종료, 미·중 무역 및 대만·기술 갈등은 여전한 불확실성",
+      "url": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
+      "ts": 1795180798
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "EUROPE'S STOXX 600 NOW DOWN 5.58% THIS WEEK, SET FOR BIGGEST WEEKLY FALL SINCE MARCH/APRIL 2025",
+      "title_ko": "유럽 스톡스 600 지수, 이번 주 5.58% 급락…2025년 3-4월 이후 최대 주간 낙폭 기록 전망",
+      "url": "https://t.me/firstsquaw/194603",
+      "ts": 1795180800
     }
   ]
 }
