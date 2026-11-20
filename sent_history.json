@@ -1,27 +1,6 @@
 {
-  "updated_at": 1795138529,
+  "updated_at": 1795138688,
   "id_hashes": [
-    "de7e1e57014156d2885a0f5eaccdf6e28091fcabc5b8e37c83228d7ad49d784b",
-    "f472fbe82c228c50d2d92e121ed980e65b7522b322419ebae166ae904c30e291",
-    "868a6c7446ff652420609c7c6914245286c3722fa1bb1f50dc3ac70a146edbee",
-    "0ff23cf4a486d8ebe3d23f57a24739399627b08f1184eb33428b24a733bed9b0",
-    "be02735d4305d5b6a4f6db955f98bef8d9db3523efa9cd156eb4b5d1189e3923",
-    "4b28f2e42a2b4a4ecf5d51d35440d6d8e3a759915c93c85daea1525bf86999f3",
-    "23035cc7b0b4d44ae6de21f77a44897298584756c8db34a37d4c611a1334dbbc",
-    "f04ccf3021b1d78248f013ec69fc39ecbd3e09734a1fb1055cabc62c6e6159a7",
-    "308bd9d6d84b35e1b664cc182bcff7b4d630398f5f249640f28b350bc90a69db",
-    "a0e302fd2329af9bf00dc858040b3bcb934aa7c5ed4e4e291b028e014fbc2348",
-    "7675925d38a7cb2b4914d145f59db795204b84a09c2bf7ca321afc9d372031ec",
-    "644cb6fb4a8e661b87d111a28504a047d14a50b8b52281ac0a11ac05751a4735",
-    "b9f58a46dcdaa02273017537bc9875463e6970320052c90accd9989fc6e216bb",
-    "77a840057d7db500287aa7f11b2b55efec055e7dd9a1f2c04718904e5bb2fd6f",
-    "a9a030c3b66cc1bb8b20471e9465ab18c7339aadc98be9696024742232b2b85f",
-    "0b46bf03b1a22539ab980e4cb1f2f4f7951d0c8b6cc56458e2c8ac3583e95bd5",
-    "fa46c1b68708fd589893cb6b717a365138b3448157faeca1a7c40eccb6a36f70",
-    "4b5272b46601b2bf8c27783289d2c1b22d518670eb3c39094a07b487ff32d051",
-    "1985aff516ed5b3e1dde56abb37f24e19819da28ec74e7153afdb0a25a415b24",
-    "947779890022ba6b0fb16248b70912730a4e1054508b9f3a60bad162617478db",
-    "1d61a9b7d2702e47f02724ef9614a8bdae12f6e67c2c86026750850b305a3479",
     "aa4fffb73f9ad8f63cf4bfe461ccc8c774e3bb858c5f7bf843505a4240123eb9",
     "7d13f19c3eda2c731481b9582d813f4b0efd670d8c8b0f06138094b720446674",
     "0ea33c55289e039d07a8534712dab73a3be9af62c0a681ebfaed06924505cecd",
@@ -4000,27 +3979,30 @@
     "d15fa438829ead791cd46bb259d96f6c82b11d427fb12cd66ec81771e7cd143c",
     "2a3f495243ab74631a5f684582811c816ec73b5d5d30adbb1cdbffee1adb8b19",
     "aee5b768a8234e4295a5d2633869c1ee390dda5f078408bcac1c16af9d380bc3",
-    "15537d774bdb4808e69205ad63d0c8276a6955cb17ed4990a5db008a303fb388"
+    "15537d774bdb4808e69205ad63d0c8276a6955cb17ed4990a5db008a303fb388",
+    "85ebfb8be478520430c98efccfb4c45e2ae36f3a91ced8d99a3b783eba429f7b",
+    "27e27db9004faac013d24605588027fb93f35cd5338795cc84412deba886abf7",
+    "6f5106a423ef1f9aa19a3e6cf4ffcfe9876b6874eb2e770f562c39114521ce3a",
+    "98ba23c205151fd9d14f0e5bc47ff9f12ca21a2f7f55ec1f2e2cdf0b5c496535",
+    "2e5760a9b850037807d28ccee56b74189ea8c98f2acf1947bb7c0eec54d02cfc",
+    "7f1dcc18f4bb10e7629054cf1e10e34635dd309bcb218b5bf218a06aca524d49",
+    "81be6d860fd7979fd5c393f3687e2241a2d3a9f27c53a141c5668f254b7b8ffd",
+    "b9679d30b41dd677d6bcc21dd4440a79088ea8946958feccc1fe473b7c1ec6cf",
+    "05761ef2edcf08f3039933a86e45c9dce765bc5a279dfdbb743cd3511a29ee6d",
+    "81768145ed230d8da7eb39c5c38d7a5ec7f1370c753389aa610a234f0c20476c",
+    "fbc188c4a52a74ab5b647c903b0e11f75a1e3dd0144787e053352ac605c96e98",
+    "0449e6e1c873e88de45466255dcf6ca1485412e88e23e5563c8bea7a19485844",
+    "8fef4358df38526f092bb62feeef12dc47ff458e7dee676b7c423d99ae3e7290",
+    "316047d9e9597f1ed411057dc8d292682fc317d03daa33ada615caeac82367b9",
+    "030f3dbf72656a5b27953e5a85c11bd82bf3f097af8e75f1cad6d48ef461c907",
+    "4aa7244ec73514ee7a649f936e2aa914ebe640d731d0ea0ae2c9c516858fdb58",
+    "8e2cd2401c0fc48103efca900d2ad8c3405e02db0ce9b08d27bcee3d9c18f190",
+    "6da3d3dee6d1b0ee5777eee5a340a6845139510e83a9593bace30a74fd4ea1ae",
+    "07e6f394fdb445aa8c8d9925b58bbdbd3a61ae0dc36eeb22b5c59edf94d5d3f4",
+    "a7cdb06f69595b00e36cc8d0406217da16311c17c430d236cfa813382e67f466",
+    "47c933c25a2b5ed1b2ad1e0f55df280a86330413b155fe1e243a75e233fcb081"
   ],
   "title_hashes": [
-    "6b9dafd350d9e5a6ff82ebfb443c031bc85c379ba3d94ee2c068ecb94f177aa5",
-    "977341f3083e8ca085cc8476476d3f7f859704f678da4875bd54a6b64a87d932",
-    "701b166006ab5531714f8ad3e7310a5e229eeb2f6df60715213b8dc2ddda7ba5",
-    "b767d933d8d05494189e81568b8aa8e663fbbaed1fcd1c8b8b83eeef4023d056",
-    "1e75138107bdd6311647c71f0195f660a473df7844a24091e9a0e9bdec7f026a",
-    "09f97f6661f5005ae9841a7642f1f8d85f3b3198f677521fffc7a1dea9b0e5b2",
-    "335cbd112399dd65118aaafe763be38ec4ae64938b344bbc685900669990f670",
-    "832b0c8b0f34d8f6713ce7087f4d61ab11c6b2f22f08088fadcafdf3c8b5ee8b",
-    "0dc75556b68987b79ef7616a37d70ca40282fcb912f7974eab58c7e2aec91ba3",
-    "f0e7cbc03620d4c9d246693c97473b3ab5ef65e601c20a5a05f758f8a407e2bb",
-    "ecaa8abf95aeb006700a68ea27e4fea5549c688a87a6910dbd8bab90723d04fa",
-    "ee9cf46489720a35625a55a8e1a67caf018aba99a15d9dda4a281804c24ab1b9",
-    "3b3683d7ba4fadc9ffc772c11854043b2ae503242dbeb735d28c8b9f9bb0063b",
-    "01a1584746ec49d789ee2d014d6703994395ba73f74172d8cfa2eb06ec1ad978",
-    "5e4907df1687d6e838ed6392eb898165a20a4555502f2bdd0d37fff8faabaaa5",
-    "7070bf0c542858acedb03661978a9e9c0d762ba296f2f48032d51f7e597cab30",
-    "6dd416971be5ce2205655db504a5ebbecb31e8241a81a995b6e7416d40675857",
-    "68f41ac989a5779b4ade6accc9982cdb37fa23832d0d57c1ccc9112bb982dba5",
     "0b52b2a22793f264f5b69083d3d3249849ace663f33cb349f1a18addb36a0e95",
     "5b6e8c6ad1a9729a55e0df8e8f9e1c707f10634d0628fed00891a8c05e49e920",
     "58b391de9e4107aea415613aa1e28439753bdcce665e7175b9d7c5af3742dfbc",
@@ -8002,44 +7984,27 @@
     "f687063baf7e7b512655bd284fc932b9adf4e5488a4931318eed573b60d532ba",
     "f46cc3a6a543148ab1cd02e7453e334943a3535da04d87825042c68ed86adc64",
     "4cad932b4ee9b6fa8460804fb00835bd35f09453b2d36fc10003ecf7a68966a0",
-    "5b358f3ef9bf3a07dc465aaab0c996895476a2c6fd3d37c086b355a8cbb8e762"
+    "5b358f3ef9bf3a07dc465aaab0c996895476a2c6fd3d37c086b355a8cbb8e762",
+    "147dc0d816a21f6e18e7ff5f16e05cda56b792d8b138d3ba82785fde3d27319a",
+    "3aabd4f9c7d86927d545d221dee67762816ef964500bb70bbe5361e7dedfef4a",
+    "3fb4bdfe06cb3bdbbb853043c62dbac14bfa1a6f420f40b35255cb96763980c2",
+    "4da5e4dbd6d6ff40595b49317bd1e580d12f9db7cc86f6c332b2590b875f8661",
+    "85cbd193402fa6370ea6f89f8e29fc26cea4cd26284fd9f3908d520033f1bcd0",
+    "08a7b80480e86786d197904086628fa76b7435f2795050720073ebbaf4fc619e",
+    "986b856e8c6ea08e9f8caf765cb417ca71d18226c23bdbcdddf105e650beef3b",
+    "d99d0dcdb225ed3139bd60359ae6671705392ccea4302a5784a2510c6d1176cc",
+    "1afa60428fd9a0df64bf2410e874468a1f669af3cdacbd65689e95c6265a0945",
+    "da64475c04ab1375cbe84bd2f2d16e1c04280614d1d0b7c2bcceb836fa4db355",
+    "bb7a03ee58b1bc249b65bd13dd3c244702a9cf96273204fc874a42ad5f3671c1",
+    "8fbe027f06a3504de40843fcef46ad0eea4d152e057fdf75e5f2e44bb87de79a",
+    "472beb28ef9895cbfea0d0959138e61e424fb5c4babcb3501c69f5d375e5ed53",
+    "3da26181ba072d1326dc0faebc88557736099390e0e36afbc3fbde198be51c5c",
+    "aa3e3f12888dd0f0e1e9853b096e11db3aaa2696ff311873a4fb5d371e2e5016",
+    "d90fc930c81b4cb42179747176eb225ac677342e831bef429b980dd0e4702dce",
+    "7376dcf1ef032b40d2803357391608a6ec90d422dee410135a9829111c35c717",
+    "626f879a5d3391984fbc58a547a28809ca663c96e7525fe2df08f91b0a3a8be4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "History Puts Anthropic Stock 'In the Same Dominant Bucket' as Amazon and Microsoft, Analyst Says",
-      "title_ko": "역사는 인류 주식을 Amazon 및 Microsoft와 같은 지배적 버킷에 넣었다고 분석가는 말합니다",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63448650/history-puts-anthropic-stock-in-the-same-dominant-bucket-as-amazon-and-microsoft-analyst-says",
-      "ts": 1795112578
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Microsoft CEO Nadella Questions AI Clouds Reliant on Few Customers - Microsoft (NASDAQ:MSFT)",
-      "title_ko": "Microsoft CEO Nadella는 AI 클라우드가 소수의 고객에 의존하는지 질문합니다 - Microsoft(NASDAQ:MSFT)",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63448471/microsoft-ai-capacity",
-      "ts": 1795112606
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Deutsche Bank CEO says clients calm after data leak",
-      "title_ko": "도이체방크 CEO, 데이터 유출 후 고객들이 진정했다고 말함",
-      "url": "https://www.reuters.com/business/finance/deutsche-bank-ceo-says-clients-calm-after-data-leak-2026-11-19/",
-      "ts": 1795112735
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "The S&P 500 on track for a third day under 200-d MA",
-      "title_ko": "S&P 500이 3일 연속 200-d MA 아래에서 궤도에 올랐습니다",
-      "url": "https://seekingalpha.com/news/4674844-the-s-and-p-500-on-track-for-a-third-day-under-200-d-ma?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795112738
-    },
-    {
-      "source": "The Verge",
-      "title_en": "Gemini on Mac can now use your computer",
-      "title_ko": "Mac의 Gemini는 이제 컴퓨터를 사용할 수 있어",
-      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "ts": 1795112757
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "美国总统特朗普：我不急于就伊朗问题做决定。（Axios）",
@@ -11504,6 +11469,41 @@
       "title_ko": "트럼프는 푸틴이 전쟁을 끝내기를 원한다고 유럽에 말했다. (액시오스)",
       "url": "https://wallstreetcn.com/livenews/3202931",
       "ts": 1795138467
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Keysight projects 20% fiscal 2027 revenue growth as it guides Q1 revenue to $2.040B-$2.060B",
+      "title_ko": "키사이트는 1분기 매출을 20억 4천만 달러-20억 6천만 달러로 이끌면서 2027회계연도 매출 성장을 20%로 예상합니다",
+      "url": "https://seekingalpha.com/news/4674996-keysight-projects-20-percent-fiscal-2027-revenue-growth-as-it-guides-q1-revenue-to-2_040b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795138550
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "LME Copper Declines 3% as Three-Month Prices Hit $12,151 a Metric Ton",
+      "title_ko": "LME 구리는 3개월간 가격이 미터톤당 12,151달러를 기록하면서 3% 하락",
+      "url": "https://t.me/firstsquaw/194438",
+      "ts": 1795138553
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "\"역대급 실적에 보상했다\"…삼성전자, 사장 승진 3명 전원 '반도체부문'",
+      "title_ko": "\"역대급 실적에 보상했다\"…삼성전자, 사장 승진 3명 전원 '반도체부문'",
+      "url": "https://www.fnnews.com/news/202611200957247554",
+      "ts": 1795138679
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "[오늘 외환딜러 환율 예상레인지]",
+      "title_ko": "[오늘 외환딜러 환율 예상레인지]",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445713",
+      "ts": 1795138682
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "习近平会见印度尼西亚总统普拉博沃",
+      "title_ko": "시진핑, 프라보워 인도네시아 대통령과 회담",
+      "url": "https://wallstreetcn.com/livenews/3202932",
+      "ts": 1795138687
     }
   ]
 }
