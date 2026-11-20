@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795213804,
+  "updated_at": 1795213951,
   "id_hashes": [
-    "f48452adf2f2db877bbcc37601992e17b9fa52ff89b1f30606b0e250e1397487",
-    "efc87b3e30b185e640d11949afaf0e3e7f4c1120ab8b69575188b789bc715321",
-    "fbb5a6184bae993cbd3f9aac04d7d38d0181ec75d10313297752e46a89c973dc",
-    "1f7b04d3dc5b8809b6b77d3dfdafe0506218ac122f0679cdd9b8863fca433e7c",
     "4dfba2a67ce367a9fff676eaae44d595e43484a7958a3ebb363cbf784a202739",
     "9ec1f026737f667465c188e20130e18d1673d3c60905586b4448509b00faa104",
     "9d1769ec73460b82111270192dae9ee6c83b5cad90688eca76335abe7e40f030",
@@ -4000,14 +3996,13 @@
     "89c6867115ff64ef12d506f8ea880db216ea318a0ebbee7d0118a9b89d38d67e",
     "03fd4ba4006c0e5f930f3346032633ef455fc8878ea2775536bc85eefcf456b5",
     "a45006ebe592c1c43827a396af857bf6e090e57501e6995fdef6265e78b1a35c",
-    "67eafa750d819bb0b4739e66e727388e9557024405489e05b51a57f959164828"
+    "67eafa750d819bb0b4739e66e727388e9557024405489e05b51a57f959164828",
+    "60a53e24503973d0d4c48b4eaaca26fdeef6db07d9fe96780616beb1b854de90",
+    "5e26c90b6a8f7dc8917794707b7edd6d5d241bc83b583f248cb9f52f54b03f43",
+    "ff43686d557b6f04faeb478ab788d6d5861bbe410c4e0714a0f8462699df996b",
+    "0a6fd83054e332b8eb71d898f52436c6850ffac48cdf59e388804e26e61a17cb"
   ],
   "title_hashes": [
-    "97a72011070d27fb6aaacddc0c519667e957e93ca4e4e3c594b3855840f6a86f",
-    "172cd81dbd59ee1b5e89125be093dfbd83871ad1bf72240331ffa21e2146a644",
-    "63107cd22aaf85d52b0ae2621b53541d68c4023ac59ee2474c423bbbfa51aee6",
-    "cf5bcf9510aa024e41044617cb416eaf84879791a6868a46c5babbf0b7406acb",
-    "5be0595eae4d366ad928f6d5acfe8263e90b121603d8e3ff2789f879940f0559",
     "99d62264270ca24014fff5d75786aa671ad434ef5a5a4e779ccb9a275ae4fb24",
     "efd590d43743c35aabd5199a3404bb26fdb84bbb660b7eb469225877e41f3a95",
     "c2bb42c22d01ccc1500f37d9760c0f52732d5c99ed56c3e38bd73cb486de915b",
@@ -8002,16 +7997,14 @@
     "6ae5ddc0c04edede7584c833c6270cf04ea960693ef45d96c83879836d91933f",
     "3e612c066402d91fbe36a5e190132e95d683368aeabc0c1d4f8e2e8757bea67b",
     "337a447a9523f86321db26a0b94ca475e539248c7c9321d39e7b36f77a7d957a",
-    "e03641cb9252b0e843070d7d3d661705362cf670c873c9df8cfb72394202100a"
+    "e03641cb9252b0e843070d7d3d661705362cf670c873c9df8cfb72394202100a",
+    "89f836278aedbda5b36d841a34e192cf67facbc76d6c961893d832b6d6e214cb",
+    "5c47c137deae6c2d5ab85e1c79acf0c336375fd54dc6c7668490b7b640f6f46e",
+    "7701ba78e14d26158474735fbd36d2aa8b43e40bd056b853a9c20b693bf5ee57",
+    "f4e3ba9b36147c13ea05e0fb7b1165e227800a2374ee6f546fa1b4d5972fccbb",
+    "3900196443066a31762f768845744d03426e437843edcfd2fadd61e06336e492"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "$SPY $QQQ - TECH SELLOFF DRAGS S&P 500 LOWER DESPITE BROADER MARKET GAINS",
-      "title_ko": "$SPY $QQQ - 기술 매도는 시장 이익 확대에도 불구하고 S&P 500 하락을 견인",
-      "url": "https://t.me/WalterBloomberg/38781",
-      "ts": 1795189677
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "科技股抛售搅动市场，AI信用风险指标恶化，谷歌CDS创历史新高",
@@ -11504,6 +11497,13 @@
       "title_ko": "알프스 그룹, 나스닥 규정 준수 회복",
       "url": "https://seekingalpha.com/news/4675374-alps-group-regains-compliance-with-nasdaq?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795213803
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Fresh off China trip, Trump bobs and weaves in freewheeling press conference",
+      "title_ko": "중국을 갓 떠난 트럼프, 자유분방한 기자회견에서 몸을 흔들고 엮다",
+      "url": "https://www.streetinsider.com/Reuters/Fresh+off+China+trip%2C+Trump+bobs+and+weaves+in+freewheeling+press+conference/27382580.html",
+      "ts": 1795213825
     }
   ]
 }
