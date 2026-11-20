@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795137597,
+  "updated_at": 1795137752,
   "id_hashes": [
-    "f72defa9690de61e04eec8b7868eede1a381d27cbfdec6b6aa4dfadc55acfe3d",
-    "d71e1c0cad75bb8bd796002b52bebac19fa6af8e4946bf91c94be63547a16660",
-    "2da4314f216ad033d1272ef396d23696a8a8ceced1ab11bbeb89891732c665eb",
-    "a2dc376feaf24b0e5101e7f18d14e0fe20daf001aa8c80af00fbcf9b1f56782b",
-    "fb1ff42f761f83dd5b224fcc74e035d3fcc1e9bee32ecbfd093d416266302975",
-    "4fcbdabccbad3211565076945e2e90856c625d9b3419a47e2759d1e21ac8e318",
-    "3081c1db27e4a39f796b16e3932e60eaa731f9374c7af0f531efb13365e33dd4",
-    "29aa6f6b4e855f4d020448264fad1d91da9f5c2549fd2c6cb1aaa6533d8814a1",
-    "9e8a930c96456b119d888572dd2b734c0d92c4e898ab187b63985e3600d0152d",
-    "eb389427f0771957d4b6381a731de9aff9bbfdaf7714dd7e8c697a8e481f79cf",
-    "d1cfd60641d8ae8df3edf9ed36fc0425f84e27b4293ff4b2a96291b09cba5d8e",
-    "09da91f9033ebf9925eea7935f2997a4557cb5d1fb92dde835a94e90db23d51c",
-    "0e1b0d305d8d81069ad7ccf0c91f1aa1cbd2251281351511620989b2d30eb275",
-    "6eea49718b7c6e0e4860ed4c4c923cb03eb406079b15f4918967113e54b7e475",
     "4552f939a60e83d6e6f9d20ac79fcd2c828909349a5debbcab2b7b04ac8f6dba",
     "934c319d026fb97baaa5526193ade6ea44f0646ebd1ee3fec01d538be4f6aebe",
     "f695cd89df5a758b41ab889f6e661615224b351c224cfe5decbd1fc328533e54",
@@ -4000,21 +3986,23 @@
     "617df4a101efcbe26d2e0fe8e736abb3f45a707be0ffb71764fa3affcd0bbf16",
     "acd559a2f276a16ede84eef22cf677812a12c278c2ee03f782fdc164e327bdcb",
     "88ffdd68453874b547eddba742fa857ecb73ca45968cace3a61b5ab9d1ce45b4",
-    "066b73a85f82362d311082904ac49af6c1797f26075901878cd726ca1dbf05ad"
+    "066b73a85f82362d311082904ac49af6c1797f26075901878cd726ca1dbf05ad",
+    "3975088b2ec6322da9151d8ddf63fa7938cb948f98218f9963abb36db1490958",
+    "b5aca6086625217f4c3175926874654c46eab5fe8e998cca0c1ccea8aeb528bf",
+    "397480612c9bd18fefe4ef23b88bb38d612a7b836cf831440f25678dcbf86ccd",
+    "41beb5ec01d9027b2cd12ff03e064055da46b74125ce76e2843a51777201b072",
+    "bf90305a6e6c308e9ba5da24f0355968e426e3ea57d0302cbe4119c78f427d13",
+    "97a2f6ff24bd7b62063d82ce93b67f4a83968883fef9585069148bba0d1d6845",
+    "546181438577f5ac10f08dbf9199255bb8707eed627704c804f906e83662cdb5",
+    "af4f591a67776cd3407cfbc959e6206ff999e096fbbda2268ba3fb0f5bb18736",
+    "0aeed471928bdd35a7f6aa6a0ccd5f2ee97cfb9e82fa4410845fdc86a23560f1",
+    "5019074ece80e8ec03c945c280c10dd3c2664b0f1e47ba59cedab5c8d956ade6",
+    "bbcd85457a260f7c56f2605efdddece84004c0833db560152f005f0e18bf969d",
+    "21e220bfd8161a5ba29ed2523826fad62a9a6234aeb18417a1e1b70350940b14",
+    "15b2ac946c70e3bf178a780cd306ff6ed2d0a1a1a8cc1513dc66ce5e2a0e2d48",
+    "cc3f3ae31f5999a045753b87a155236de56877a41d9edbec7067b3e7cd56b46f"
   ],
   "title_hashes": [
-    "ae18a8f7c4b135f27326ee81f314578da58b67ab86ebc9fbb20981dd81d38268",
-    "b8c4e2ea4e31164ab34b530e6b6026ab17e18c406ecd1ce25c44e13587bf74c1",
-    "ed7979fff6a587ee6d7fb3522784803894a435293294c05b7631f219179a2980",
-    "387b53d7d32ecedadae6bf90391922363ed9a61fccfbfbe431a8e3772066040f",
-    "4c706e1a83742950a7e7035a08cb64b835f8339f85d0ab7a84c2cae8c2b6ff1e",
-    "992e79f1594227cd312c4c88a437f110d2f41ebadb8626953606fc592b455736",
-    "c73ff7fbf5a646bb6ba4f3dcf5c36a41e50a37bc6eb492d4bdc54ffe7c744087",
-    "852d079d8284a8832ff124535f814e276f757f5edca5c21321de9bf21757d437",
-    "76abe5a30634aa3d8bc178aec42314ca7f8beb00c691612f59d03e96205860be",
-    "192d114efefb985e8091d9910e558f392a6a5c79d16c80064f3c7124cd46a0a9",
-    "2802c7c40a1d6a3bb0912d89aff647829a284e1a4b00e8b525665b26a5c1be4e",
-    "6782c31f0b8a9d4e668678ad3481ddd1faa08f34a262ee5b61c5da91a49bced6",
     "a118c7327036ebc6fd22e35e1390d202d537c0dcdf7e0a021fc42140d62e8913",
     "f9dc47ac952092c01fd1d59a8ef254b6fea189ce470eef315e816bda48e22f3d",
     "65bd1123ce7a98639302eed335c41b6ec0b8365d2d42268aab05b0939eba95bf",
@@ -8002,23 +7990,21 @@
     "53b192a4f9610c03c265c54330478e668d79c1b883ed35b69ba54a1f44eed2ab",
     "514c0e0aa37f4cf60e7e20f52c0777d85a324dc8f9f4fec9ec89c85ffcd69205",
     "1ac5383e185b605619ead907213f5d53f84f1632562992bc23feeefb9b41eedd",
-    "d56160b63f2a383799865ab644a2a11e31e0a0c85e4cd2012d7a822f1000044c"
+    "d56160b63f2a383799865ab644a2a11e31e0a0c85e4cd2012d7a822f1000044c",
+    "9460d38c3cde72040fac60a85b29b6243537c1231429d26ecd6a79f39a14d635",
+    "5ec25410fdf5eb1ca971b1b48422bcec92fed3883aa57fc55f34587d02b800d8",
+    "9ba11faf59a0f211995122cf6a321c234a1ee8d93f3ed2c17e74375ffc37b1ab",
+    "3b3e9e8aa38391ee68cdb387ecf4f2f4c78f0521d4a6803ea0df5975a70fef0e",
+    "5c8a43d8a2f8993782b198c8ee0b628daa0d376a0cd43af45cf552683b67ce34",
+    "44697ba7d9853c7f797d5d19a72c68b003b6e96a6a4c4fdf364410de6c8bd317",
+    "4f1564262e5e41051eb7e34db03e7b49bd46ec71603e3dbcbcfbb73be26f7615",
+    "2df237b659e68a2a51bf54e5948dc81d75f3995c82d169670ab6e133d33bcaa4",
+    "fb688f9ebd47a03a908481d7d762de8e714d3f1cb7d51cc290cb7376e7f19091",
+    "abb4eca4a41d0856b81a3496930441c1622d40dc4bea17de515254e4131f5ae0",
+    "09d93d77db809abb8dfd2b1c55ed7471c40ab7b70042acac090a21d6274d0999",
+    "db0648ee1c8737b668051a03837a2205baf68346832258827eb1e4cc6b8f9a66"
   ],
   "recent_sent_articles": [
-    {
-      "source": "TechCrunch",
-      "title_en": "Google gives Gemini the ability to use your Mac for you",
-      "title_ko": "Google은 Gemini에게 Mac을 대신 사용할 수 있는 기능을 제공합니다",
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "ts": 1795112100
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Williams-Sonoma Stock: Housing Slump Weighs on Pottery Barn Growth",
-      "title_ko": "Williams-Sonoma 주식: 주택 침체가 도자기 헛간 성장에 부담을 줍니다",
-      "url": "https://www.barrons.com/articles/williams-sonoma-earnings-stock-price-3b911aa7?mod=RTA",
-      "ts": 1795112104
-    },
     {
       "source": "The Verge",
       "title_en": "Oh, Elon Musk is ‘moderate’ now, is he?",
@@ -11504,6 +11490,20 @@
       "title_ko": "美 뉴욕 시의원, ‘아마존 배송기사 직고용 의무화’ 법안 수정 논의",
       "url": "https://zdnet.co.kr/view/?no=20261120092009",
       "ts": 1795137596
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "BANK OF GA GROUP PLC ORD by Bank of Ga Group Plc Earnings & Forecasts",
+      "title_ko": "BANK OF GA GROUP PLC ORD by Bank of Ga Group Plc 수익 및 예측",
+      "url": "https://www.benzinga.com/quote/BDGSF/earnings-forecasts",
+      "ts": 1795137748
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "China’s Central Bank Adds 379.5 Billion Yuan of Liquidity Through Overnight Reverse Repos",
+      "title_ko": "중국 중앙은행, 익일 역RP를 통해 3,795억 위안의 유동성 추가",
+      "url": "https://t.me/firstsquaw/194436",
+      "ts": 1795137751
     }
   ]
 }
