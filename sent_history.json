@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795203979,
+  "updated_at": 1795204132,
   "id_hashes": [
-    "1d712df61addcec0a61aede7a6469bd6d3445ea459ca435d1688844a60a4bf17",
-    "dffcbd632422c137c59db471806dc3289f8b5b2f882e6ea502f330153f0db939",
-    "9a4252ca101f8e21f518a3879585dc7a8c2ae9e39b2e3d3c460218b2d93726a7",
-    "dfcae414b10ce07e285e409065e83d5a06e70333514d6699f53c48c327bd3d45",
     "c841db6400215e8d1d447d08afadc48901ae2ec670bc6fd6039bbb0d4fe88b8a",
     "fd70c355587a04a408a86a8f0a9412e19ef14676370e35c1cf17bb82a3f5abff",
     "9d58f555ba75bbe0d3863ae2b7d4e0adf3da8477092f7a49f34731d19bc205a1",
@@ -4000,13 +3996,13 @@
     "033d0f76c491a2de01cac9c626446d7fcdd0c8a505dc15eed15b18bb68325586",
     "27d37b6c936c58035ec9a6575d1679b20f28e24780849e0e3bfdf9ff3f15150c",
     "4e3084c560843e2ef892d35f3aab39682838087a7c52295cfee9f2980a2fcb54",
-    "f8a9324e3c1d40ae59dab31b4e165b3569a40274239b9427fa2f146910dc556c"
+    "f8a9324e3c1d40ae59dab31b4e165b3569a40274239b9427fa2f146910dc556c",
+    "4dbfad27833346e50ec5d5c320a32e25227d0f307ba976c2623a09a699bc6ddb",
+    "6bba28f8889b2f59c6727a40ffdba18d798d04c2e2fe5a993f66388cdf127ade",
+    "d08e0a95b5a16146fbddf07312b7236d50ad8ff3b9699d6a86c742bedd04395e",
+    "9fde0060638bc1e176dd9e1b07dd42943f5889ae3fc120179d902397fa744353"
   ],
   "title_hashes": [
-    "cfd63b8468cf38b8c336f8ed3c1efdf6d2385faa3985f22f11b7c177612dc473",
-    "a0411aae8e791b482f90d569926bf745ff73e9121f7c29c420dc8e6edbbdfbe1",
-    "b8c2ab1b2fa2304d82647e9a9721e948c67e03a476b28f1bbd424c6097f406af",
-    "19428dd8ccbb86d7df7d2f8b98b18e8299478aee08677a204886f8d83ffc8326",
     "151045bd96b0272c144ec77e582ed76b1569dba6b055e6314fe0fc2ed661a12d",
     "501a8d143c8dab3adc6ca32739ce3645fd5ada1b122cef31b2c622f189ba94ed",
     "52e620263d054677b926a72ea1b627c010ff193ef90761509f0256c336f341ed",
@@ -8002,23 +7998,13 @@
     "3dd9354745be8f3af6b21f803991730e906b11ee9a18313a24430f6bf8f1e666",
     "cf953ff376cc2fff760cdde2a6be593812bc0f51d62f3d0923cdb85032490948",
     "dff7af5f4a1332bddd7ce3c8fbe63a561979debb6f09751335ae57990fbb6673",
-    "490586d1ba82f19118a826d87420aec4b57d8107580fb08c2cd826b1e0afd786"
+    "490586d1ba82f19118a826d87420aec4b57d8107580fb08c2cd826b1e0afd786",
+    "5d7e270511aa0bf13c0b1a1dad4c1ef8a3408eb8a01e1d5dcfe4cb92757ba7f6",
+    "3566180dd2c72b40d429430cd30839a2db7dbe8fb27354740acdfa14f18eeae8",
+    "a86e5e8bfcdd828df0e7f49fe82ab8381e86ec2b61b94abc393444a5745cf225",
+    "809abd1d950db60da2b049317d07b2dbdbcee95be9e89258926e82c2af206852"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "SpaceX为AI芯片筹资320亿美元 债务收益率超过8%",
-      "title_ko": "스페이스X, AI 칩 사업 위해 320억 달러 조달 추진…채권 수익률 8% 상회",
-      "url": "https://wallstreetcn.com/livenews/3203370",
-      "ts": 1795176249
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "HSBC upgrades Tesla, more than doubles target on SpaceX merger potential",
-      "title_ko": "HSBC, 테슬라 투자의견 상향…스페이스X 합병 가능성에 목표가 2배 이상 대폭 상향",
-      "url": "https://www.streetinsider.com/General+News/HSBC+upgrades+Tesla%2C+more+than+doubles+target+on+SpaceX+merger+potential/27378754.html",
-      "ts": 1795176304
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "SpaceX美股盘前跌近5%。\n\nAnthropic美股盘前跌超8％。",
@@ -11504,6 +11490,20 @@
       "title_ko": "러시아가 우크라이나 공격을 강화하자 트럼프는 푸틴과의 관계를 옹호했다",
       "url": "https://www.bloomberg.com/news/articles/2026-11-20/trump-defends-ties-with-putin-as-russia-steps-up-ukraine-attacks",
       "ts": 1795203917
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Trump says he still backs Lutnick, urges Nvidia's Huang to apologize",
+      "title_ko": "트럼프는 여전히 루트닉을 지지한다고 말하고 엔비디아 황에게 사과를 촉구했다",
+      "url": "https://www.streetinsider.com/Reuters/Trump+says+he+still+backs+Lutnick%2C+urges+Nvidias+Huang+to+apologize/27381173.html",
+      "ts": 1795204004
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Funds With Anthropic Exposure Got Off To a Rough Start. Even Riskier Ones Are on The Way",
+      "title_ko": "인류에 노출되는 자금은 힘든 시작을 맞이했습니다. 더 위험한 사람들도 진행 중입니다",
+      "url": "https://www.barrons.com/articles/funds-with-anthropic-exposure-got-off-to-a-rough-start-more-trouble-may-be-on-the-way-efee6ef9",
+      "ts": 1795204131
     }
   ]
 }
