@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795205215,
+  "updated_at": 1795205383,
   "id_hashes": [
-    "d401ecb50c63f6cf7d03ef69d4a7fdf44c9af5594a0d665aed956babf20a397a",
-    "40f2e64c7d6b083a9809d530ac28e994b6f4fa0905b4b85fc978b065a56d738e",
-    "6b582b9f0d9b7e4b7baadcc292cb3c9e2e81e537b7a1f1ccb89ff87aed86d2cd",
-    "f96e1a91ae126d6bb63dece5b9ff6e09271314c302c1296dd82c81f1c9813f97",
-    "6f92dca4ded106423897d1b3ddb129b675c50cfe5ab6175e234da4de793212a3",
-    "1cd1f05ea91ed046cbc1a18758d0f1cd6881e6a4e9fd73e289b5caf30c0b3e05",
-    "3d13620c5110a1854606609dc058d107a10f2cd9c47f33ee9f981e8bcaf1a3d5",
-    "18dfa1289cfd50bc9fd82b932c7a9a9faaa6ece73721db466795acf6cf8e0074",
-    "8431323a0d4c35a8ff76341f6613a4e7280beb05fd7f24406e4694d8d3f239c1",
-    "7c27518198288279de02cd696065831ba97c9568f4b01f870854f1fe05ddd910",
-    "1ddb0fdb239c919e5373482011ce652029c095a2dc83ccf5ae5f2d9fa432f4c1",
-    "5f9f4fb9b2ed0a7e42a7f4618d551a451e97f9d9f8854371ea3d2d0d94e262c5",
     "593a3a6c6112d2630b6802b9516203d13cad2962689bfbd262f362855aebec68",
     "ae77618d3fe56ec9db184e0bc6d99d7fd177b6331f78824845207e94557598a6",
     "f2d0115ef50f6ae29f24cb4397beb80d6a1aa3a5eaa8f15b7e119547c3e091c6",
@@ -4000,17 +3988,21 @@
     "00cbcb9288b109b1b2ba4768d9c64c08427ac7ca23baa65b1149e6c83117e272",
     "f9284a9855c8c85683958e945b9082d91395b38921f9a33ebda5146c62374960",
     "a6c8fc1b8782d2eaecd129b0be013d78d81adbdafc34a68549c9232eae8c4dc9",
-    "65af94b3e318e089d695e523098eb3e8209696597b33d3847b412c66844a1b21"
+    "65af94b3e318e089d695e523098eb3e8209696597b33d3847b412c66844a1b21",
+    "d1fa0f8f1fd58e193b17e920650876302c4133e0d3930ef8dc223eca1cf6836b",
+    "d53b41cd9b7e29e618f5db694ac536a7963dd078d4d10498ceb2f34ea1269a9a",
+    "4b9a3987869e5a5668f426ce2df9d0c1a14f745a4f93c344413d4a241832db3b",
+    "74d3a8aa49e978e6001f85a36083dede1d3eb3980b87277c656dda32a73c31fb",
+    "40a41cb52e5cd49f127f24f70ed2ca3220efd8b263aa9919f5fbafae7538591d",
+    "3005e323ca48c736a7c443d9bcd765dabcfb68cb629d772b956257105c363b78",
+    "31ce5d3fd7cae1f83c1c572aa4f409628aaedc7f0c53ce71f53cea7c3af60139",
+    "8c44029203042f781761fc3344a463f252e7620913a1ec3fb74f2db3ba367bc3",
+    "dfd2a76c27822878d7ed30dd7c0c01f2a60f65a624ed3491d7f5c89554199a82",
+    "48d09fc1952bda41bf2a996a0fcbd6243f7de4e6538449332e36441db285a94d",
+    "4e9b139bf5b212b01c13c785a4585d9fbd2b60783032186320a6463db53304ef",
+    "d14719ca55d4cc5b3c893dbac52dcd933696de0554ed29bae35e35839b46da78"
   ],
   "title_hashes": [
-    "8de1ba2faac33464e37203ff7b3d70fecf8248a172715915ca62ed3ec33af2a7",
-    "0f0acc24e46b041ed2bded7f823c3838fa6ec88228dca47c457c378b45bca248",
-    "576fc5ff2acc19af58393025ff692e9f8de29dff30058a1d557f3350f37bac8b",
-    "f7a821dc5df5a8e062da46eb8164a5d6f536609be870a74aeb190e028345feb1",
-    "585902d3dbb8160a2619a446d87fbebdfd4bfab2ab1a34374a501939cc3a01b1",
-    "f361308a4f86521ed4902f5ac6e1f62d27a3122872da047350c557ab5c0fc90a",
-    "5362e032040e3f4c5785bf7cd383ac317e3e28e90b46f4c06238d343ce292ee0",
-    "affd81409c6fc9d5fc6b38553b3bdf63179a45612d586171696aeebe0336a4e1",
     "ea6236941ff8aee75d7b215261c133678524b64cff6eb10d7ffa7ec31ce67513",
     "f162369c321a71e4fd9c7f498c855a1761e86f9773ede6fbb75de8a42a98975a",
     "d6cd608e6bf4424fdf0e409e8ff38a148667aee30a97b80c120052d137b068cf",
@@ -8002,44 +7994,17 @@
     "2c0ed70bdfc345e2137ac5fe6f0f06dba66e1d3f15fec9ac3399ecae1cdfd8b9",
     "a1699e463020e3576c5095b7e5ff8adf78ffd014e62b43b2b5d9593529245243",
     "30a50c5961e28a316c08c4c4d913dc7645e320790066d5c013151ceb64975236",
-    "58e1e3bd6ed54c75fc9e4b19b5fa9674a819b61515226b205aaaa5c813b4ae53"
+    "58e1e3bd6ed54c75fc9e4b19b5fa9674a819b61515226b205aaaa5c813b4ae53",
+    "113b00f9280bfa442c683c8f82ff948323b45342f51f61dc7fc93b9c601dc4e2",
+    "a5b59ff47d6e0c1ca127984cb66fb7212ecabd3aa77ea53b69f668186ec07d1e",
+    "667d477c00943c374cec99abd3efd5ca6732b11e8a0e0537e1d76c78b854aa35",
+    "523e3c82927101a43bec70f324d645a82a4a88c533e56d5c8437fbf7a3272723",
+    "5a5946d0e0db7b85cb37a74ec106aa47798194949e83eb270adc78bbfb089939",
+    "22f01083dccdfc95dd14386130d5ee6aac43c97f5b15753b86d9331cc6a2718a",
+    "f594b535b511309c6a8b3a10bc86743d98d5f3568ad817f5b62a8c6724cd3a6b",
+    "6de9d0b967bea9dab25010db5d1ac6509f7e3fa57fd76791bddf0a23e13bdd0a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Barron's",
-      "title_en": "Don’t Sell Tesla Stock. A Merger Is Coming.",
-      "title_ko": "Tesla 주식을 팔지 마십시오. 합병이 다가오고 있어",
-      "url": "https://www.barrons.com/articles/tesla-stock-price-upgrade-78f46efb",
-      "ts": 1795177699
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Nvidia, AMD in focus as GF Securities says talk of server CPU cuts is 'overstated'",
-      "title_ko": "엔비디아·AMD 주목, GF증권 \"서버 CPU 감산설은 과장\"",
-      "url": "https://seekingalpha.com/news/4675107-nvidia-amd-in-focus-as-gf-securities-says-talk-of-server-cpu-cuts-is-overstated?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795177702
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Danaher Collaborates with Microsoft to Make Scientific Instruments Agentically Connected and Laboratories More Intelligent",
-      "title_ko": "다나허, 마이크로소프트와 협력…과학 장비 및 실험실 지능화 추진",
-      "url": "https://www.streetinsider.com/PRNewswire/Danaher+Collaborates+with+Microsoft+to+Make+Scientific+Instruments+Agentically+Connected+and+Laboratories+More+Intelligent/27378833.html",
-      "ts": 1795177948
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "HeartSciences shareholders approve merger with Fortitude Mining",
-      "title_ko": "하트사이언스, 포티튜드 마이닝과의 합병안 승인",
-      "url": "https://www.streetinsider.com/Corporate+News/HeartSciences+shareholders+approve+merger+with+Fortitude+Mining/27378840.html",
-      "ts": 1795177952
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Danaher and Microsoft partner on AI-powered laboratory instruments",
-      "title_ko": "다나허-마이크로소프트, AI 기반 실험 장비 개발 협력 착수",
-      "url": "https://www.streetinsider.com/Corporate+News/Danaher+and+Microsoft+partner+on+AI-powered+laboratory+instruments/27378837.html",
-      "ts": 1795177955
-    },
     {
       "source": "The Verge",
       "title_en": "Signal is blocking Gemini and Siri AI from reading your screen",
@@ -11504,6 +11469,41 @@
       "title_ko": "이제 HP OmniBook Ultra를 사용하면 강력한 AI 노트북을 가방에 넣을 수 있습니다. 이 Nvidia RTX Spark 노트북은 이제 Best Buy에서 월 133.34달러에 구입할 수 있어",
       "url": "https://www.tomshardware.com/laptops/you-can-now-put-a-powerful-ai-laptop-in-your-bag-with-the-hp-omnibook-ultra-this-nvidia-rtx-spark-laptop-is-now-available-on-best-buy-for-just-usd133-34-a-month",
       "ts": 1795205214
+    },
+    {
+      "source": "Nikkei Asia",
+      "title_en": "Nvidia server suppliers halt Southeast Asia shipments over US curbs",
+      "title_ko": "Nvidia 서버 공급업체, 미국 연석으로 인해 동남아시아 배송 중단",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-server-suppliers-halt-southeast-asia-shipments-over-us-curbs",
+      "ts": 1795205236
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Arista Networks sinks 12% amid tech and AI selloff",
+      "title_ko": "Arista Networks, 기술 및 AI 매각으로 12% 하락",
+      "url": "https://seekingalpha.com/news/4675308-arista-networks-sinks-12-percent-amid-tech-and-ai-selloff?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795205239
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "UKMTO: Reports of a tanker on an outbound transit of Hormuz got struck on the port bow by an unknown projectile.",
+      "title_ko": "UKMTO: 호르무즈를 떠나던 유조선이 알 수 없는 발사체에 의해 항구 선수에 부딪혔다는 보고가 있어",
+      "url": "https://www.financialjuice.com/News/9862384/UKMTO-Reports-of-a-tanker-on-an-outbound-transit-of-Hormuz-got-struck-on-the-port-bow-by-an-unknown-projectile.aspx?xy=rss",
+      "ts": 1795205300
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Integral Acquisition Corporation 1 Announces Liquidation and Redemption Amount",
+      "title_ko": "종합인수법인1호 청산 및 환매금액 공시",
+      "url": "https://www.streetinsider.com/Globe+Newswire/Integral+Acquisition+Corporation+1+Announces+Liquidation+and+Redemption+Amount/27381243.html",
+      "ts": 1795205302
+    },
+    {
+      "source": "BreakingMarketNews",
+      "title_en": "Week Ahead: Economic Indicators 23rd – 27th November (US)",
+      "title_ko": "주간 전망: 경제 지표 11월 23-27일(미국)",
+      "url": "https://t.me/breakingmarketnews/179547",
+      "ts": 1795205381
     }
   ]
 }
