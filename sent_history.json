@@ -1,17 +1,6 @@
 {
-  "updated_at": 1795178349,
+  "updated_at": 1795178505,
   "id_hashes": [
-    "79c7bdb11ab6d8f25ecb4c0560f11e5ed99d65d5d69194292fe154103aa4276b",
-    "268e0b01308357de507949650ab01ebc18fbfc9b7c3c17d2d7a34f936753e302",
-    "1c468610bd3d18391581e3c24f2b9965fabe91796baa32b76452aae3e9df026f",
-    "7ebb780e94bd17e385ef7e16ae408ad44b2d7ab371d34187a361639edeaff924",
-    "8327695891b3b08a1194cb62c0e2d1310fa6305e00cbc315a20b591b4a8345bd",
-    "b4c96eff18ad9cf2ee3a6cb7b1250aad12b0a05d2c88de7343d1fa8562728abf",
-    "ef9daab86d72b7b65146dc692f5755e03bf960dccb26f1e4873f09e4abfa5d54",
-    "08701b537cb115f5efaa1eacc942e6f135336a65847bdbf7a50bcf7be8fa423b",
-    "f1ab96b2418c28e61590ac123e80c361a0dc22e2cb7aee7edbde48857488a023",
-    "7a65574b14cb94ff1c38178fe348e3aeffa64fad50adc20896179c01b1c13582",
-    "a6fea59cf1380fb69fef701e25932b1bd016cfb773f01f68fbc8b5a9ca9fcbb7",
     "38b4915cf9889ce86556d57b851f524f2bbb9fdfce2fe1981f07bf93bd95f42c",
     "2658518f45a9f348312f96210b9f00f89910ff98ffba35ced37684c7f27274d6",
     "7c2cb0b8e5513fca8a46e54c271fdb1a3594f8194bf8f14c4090f59876f20d41",
@@ -4000,18 +3989,20 @@
     "291239b09cc2f3fc43375d0303ca3b6d4dba6f26ef0b67de14a23006fe7660f0",
     "d494b6c2d2becbcd186340afa755d1aca2acd79b782e20862b2b434029a96192",
     "a7cd4a59b88c962d600b1029501dfe98661eb89aabbd69c31f7a44986cce3747",
-    "9379131b697c743f0a659509a62884b4953731b44b92c96c632566fd45423bf9"
+    "9379131b697c743f0a659509a62884b4953731b44b92c96c632566fd45423bf9",
+    "9a5f58202623ee5164af159e516aa8afa37ae11d161af580fa9b01569b7bbefd",
+    "4fa5eb9f3b40010ab39c055427723bff5efcc3462b4f44a682f58f41d48cd7de",
+    "951ed37a67553440b6949ea431072c661709d266323075d16c0d2643da342ce1",
+    "4a514d9df520b46110d8650078671953af269897c72d0240d8712e3f642212c2",
+    "faf8cba4218e8030fb2e00a0d75238788030be30b62206c121a425df86f4f1d8",
+    "7477a40a479db27483c98d23d247aea4167588248faf68805790abd75fd21b3f",
+    "10d651c639be41ef1e0311ec6420467640f7e00b39e1bead827d61cec2871d7b",
+    "dfbac118d84cb407cac1f3fd7366633d309636bda0996dcaf1857f6c12a5caf9",
+    "4e91d67f26ad0517a9143c40566493a67c2e58c2ec8740e9d170f72f89be9ae2",
+    "0cb3ea15ab0e5c7a769ee97f2bba47fc7325306c87fa3ca82931eae3bd9b2fae",
+    "8360bab7c58084bd71e9cb495579c6054be6d6ea3748624bc3f5a38b766fbf6c"
   ],
   "title_hashes": [
-    "a0a7f11104af436f3ed85c84aadc49e855436164a41c525ae80d1992d824595d",
-    "9eac02126a02b850db1b3e160fabe1a78c12d3abe345b096a0c88b3229196df4",
-    "1e9fac281adfdd01681f9777b8c904f80c7bac5b79d8ba3acf8a1d765a120689",
-    "32b103de7953a1183df15b7190b526ff3a38e1baa296a559b6829a206db9c683",
-    "10a62e96f958d48d5e85f1fdbcae36141da254c6825a175cca66d8ddd77e39f2",
-    "998569e478320cb0363035019f66d6ce6fe3ac764d1e928c4da0039a2a32bad8",
-    "6e3089e3c228fde052691d66fb36aa910ed8eacda261ac8d622b018e5df341d3",
-    "3628cd84edf0570ab0437832f696da4cc37343f15aefe74c8dd292c3ad073b01",
-    "63530e0c2663cb5ffd2ef73edf533d65237191f4e53574cef26126cde9931274",
     "857b2a4b0d40392158a52be2c8dd07bd2c4d1122649b5fa25e8bf1c704989a02",
     "b55fef116782f31283f18817147e22f55b585f6500b82c89e8d216eea8272100",
     "eeec2cbb86f4c26a0b22c3f2989b151a5be7ff9f342c734bfa4316857126cecd",
@@ -8002,23 +7993,18 @@
     "b0b98eb8c46e2e850751ca7bbce889daf9ab6f15e88bf8616c069e8d5e4486a7",
     "d5e4a9140a4140a814fe49651732b71ae01319a9dbce31e67e743a583ad525a4",
     "2b14fe4a7cefd1e16ae7c6eeecd0f2e6aadd9f99001d71acc4c7085e20e53441",
-    "f04ad386d338a857eb4f211b642b55e8a4b600bc220861e60a28ff0f494ef94d"
+    "f04ad386d338a857eb4f211b642b55e8a4b600bc220861e60a28ff0f494ef94d",
+    "3b3539525815bbd625da81e355eef5f248558faeb01b296622577c13c7c48c6e",
+    "dcabde9beaf73dfea5c2dc8ff9151ad6daba8c70e86e1c4d27bc7b422a47bdbd",
+    "708a40e1d93a2c17f6523318db11cd92efee1eed608c7f3cdeb78042277f8729",
+    "83d3409cd40beb919d6e7d7b51f479ebadac42fce6dbc89b2ce22cc03af885b8",
+    "bf4f7c311dc836f78129a2f562345a1bfa6bae522e06c92d5f41171ea7642699",
+    "9c2bd9ede5d227d32ea6e09c03f721a7bcee3c17b001e9cfc1725755c813319d",
+    "89b0dd9f156d8f290cccacd37489adec1ace2e02572eb2b2938463d375da11e8",
+    "772a4dbd9398fc7ba113286243510ee3eeb9d652cde98196703011e81b898f1e",
+    "c2ac7b0af37d0372ba4ee43b28b9f153d55b726bc00b7c93f94e7e0ba5eea736"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "$ANT - JAPAN’S NIKKEI PLUNGES NEARLY 5% AS ANTHROPIC IPO FAILS TO REVIVE AI CONFIDENCE",
-      "title_ko": "$ANT - 인류 IPO가 AI 신뢰도를 되살리지 못하면서 일본의 NIKKEI가 거의 5% 급락",
-      "url": "https://t.me/WalterBloomberg/38733",
-      "ts": 1795142575
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "\"건반 앞에 손가락 53개?\"…연주 로봇, 피아니스트와 쇼팽 맞대결",
-      "title_ko": "\"건반 앞에 손가락 53개?\"…연주 로봇, 피아니스트와 쇼팽 맞대결",
-      "url": "https://www.news1.kr/world/europe/6360672",
-      "ts": 1795142724
-    },
     {
       "source": "WSJ",
       "title_en": "Trump Seeks a More Welcoming Reception Abroad Amid Domestic Political Challenges",
@@ -11504,6 +11490,20 @@
       "title_ko": "루멘텀 CEO \"마벨 인수, 주가 급락에도 시너지 효과 더 강력\"",
       "url": "https://www.benzinga.com/markets/tech/26/11/63467505/lumentum-ceo-says-marvell-deal-is-even-more-powerful-despite-stock-selloff",
       "ts": 1795178348
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Oil Prices Retreat as Traders Assess Supply Outlook, Middle East Risks",
+      "title_ko": "국제 유가, 공급 전망 및 중동 리스크 주시 속 하락 전환",
+      "url": "https://www.wsj.com/business/energy-oil/oil-prices-edge-higher-as-traders-assess-middle-east-shipping-risks-supply-outlook-faf8f60a?mod=rss_markets_main",
+      "ts": 1795178437
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "$C - CITIGROUP UNDERSTATED RISK-WEIGHTED ASSETS BY $35 BILLION, FORCING CAPITAL INJECTION",
+      "title_ko": "씨티그룹, 위험가중자산 350억 달러 과소계상…자본 확충 불가피",
+      "url": "https://t.me/WalterBloomberg/38744",
+      "ts": 1795178502
     }
   ]
 }
