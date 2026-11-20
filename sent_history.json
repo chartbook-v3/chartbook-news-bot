@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795196059,
+  "updated_at": 1795196227,
   "id_hashes": [
-    "4cd9ebb4fa16771a06c9806a90ca6cab26cabf40393bc763c56c6229f3164739",
-    "72837037abaab8eab21b9d5fd93e980dbb48571a983ac089d71e00c3e5c2ae6e",
-    "79ccc694f575c6c18466d89d5193d9d759192bfabf3871fe79a6abc8457734c5",
-    "881f106f8d4280c9041521814b41d8e2227dc6d931595e78f43099cb50aa2bb1",
-    "56a17ee567fa5a7f655b2f7334be19b1a1ac6b03afeb94ee0e640a94de3b20b6",
-    "9a18a7b405bf66a2fbde25c04b0790d699e830e623d82a5067883028c6d4ef62",
-    "bf2bd4e503eaa169035faf447a7971bb0135fe059312d65e3b95a61b1f707488",
-    "47446a9f8b6fca8d251eee03b54f0800b12e4651912571744b176138850b493b",
-    "f3f5b6561eca24673e5d0da6f8a3a9c106ccc8473851e4cd6534c54e70dd7592",
-    "47def411218598fad4cacfc54235e7f6c3fc8b29c1cec2f25acd57d99fc8d9db",
-    "295f6b442151daaec7b4b3ed66e9ff78d912ba6790f5d913dc55a9a47be1182e",
-    "da72c146a47f47b67280e2f261f5601033a20067abc69e78a0dd79bfc647ce9a",
     "0867478799d8c576ac29c5b4d23f4e04ebe2a8158ca09e90926872461587657e",
     "2671588306c77f91b8e849435902d1536a644d034287f14737ac7e61264d0ab3",
     "fdbdde79187571cbdee8f87ae27a82d825d8e2d4096a1beddab01f87f16a9d88",
@@ -4000,21 +3988,21 @@
     "bdaa378c18242f0c2134a49877184afedf7404f3aad7073c539ccd997e119926",
     "4c417ffb97f500c3d243798e05ecab9dc7228b13444b97c2f3944b40a3f4ddde",
     "f93666307596dd0338e6388bcee9db553fc86d61d1f318538dba9f0a44b31045",
-    "95a993de8f9e10e5e90f0e709ffc88d7b9adb3f0f80c192282a664cd3f294a21"
+    "95a993de8f9e10e5e90f0e709ffc88d7b9adb3f0f80c192282a664cd3f294a21",
+    "d231afc9147d54a928b24c6365571effb27d57014cbac76860837fc00e80a527",
+    "59501ca72ee180d8f20175e8212c1b0af489839dde8784c63bcbd9b3876d04f9",
+    "c9a7d28bd904f17550e0a2368cba6970a51c5bde3932f7b6be4d635fa8113f7f",
+    "e9dc124bb6cfc597412f53295156068007eca37b2007236abcc625670e26f104",
+    "b3f69de32dd81ca0bd10aab10515c321396850b32204301c9fe06ff156ccad50",
+    "d5a43fa82573e682f99b361a7f5d7dae3d4ee462e177cd99a6c1cd2baab587be",
+    "2bfe3f84354957b313e8a87ee38a01fc1153187946df25acbf486a9eb2e5e138",
+    "8a23e07e5730391f43c9e266376d367bf844144379603bc9412bdafc3364900c",
+    "d6e074877383b318a0ad4b1af8c5b7dfee2904a4fbb44a5112da2190c763318e",
+    "a7483c7b07524331e12da9d5cd1ee0733d5ff5b3619f5b6faf78556fd2ed9d62",
+    "7739ea404243768e4ab02dd20f1962aa93bd224b68000a78e47eaaa06bcc1a00",
+    "c5b18be20102d445d33e2f3a41c4344bab4dc5794649be01c2dcc72c11e36a30"
   ],
   "title_hashes": [
-    "a667753517cb336c047145280553323e99c8bdcfee876d99118373a39d7dc417",
-    "531aa1c08011e71327211339937efac632a723c63268e65293a8088e3bcd96e3",
-    "3d9f4be26c404fb453b30b83346dced91a1cdfefacf4354aec673caaa757ba3f",
-    "2d4e260b2b19ffc7ae2870e7a1b40e99ce997e01b73200e7ac0a3dfa2886aab8",
-    "7474f9cef2c3b6a24a2464a6465c382337001c2c2c0dcad4fc4aecf6f0925206",
-    "bc29b39ba63a45ff6d65ae4047389682fa2016f4be107ae5f319482dc0d12094",
-    "ba4dd52d6522e436ab293d38469c0ad071f61bae45bf50bf4a7c7b3ed59c374f",
-    "1655dda1a2a274aff1957f5b76c4feeba3559db0bcca5718ca02c85aed7bf346",
-    "40336c650b5c38ae91eee935c96684de38ca060492089894a5774be863f11bd7",
-    "c4d191ab2426ec4b3f5300805dcbcd1f9eb85df5ebf31409a74c3e8be5369aab",
-    "75e12a398518a6aec5e74b84b8257027028f8561824dbb72900737419b4d8ec7",
-    "2d75090dc33dfaf26a330c0c1f051f343dc4433d709bf1d13b0e59ac14a4c582",
     "cc76e967a1d5e4a33d56a7894d2e848a5cb72d01582cd7fd416f1e6c6f5c8c2d",
     "db9c303a6677dc061479b12a6b747385c7e5a82ec6c68608a74678effa6c657f",
     "d3e4caa5b49f16eca00b81bd3db4e2fdc27f3178b8d6a5210249f15d0af2b1d4",
@@ -8002,37 +7990,21 @@
     "cdbb92545150576f0e728687d821fd692937f53f962f94635c550115a9aa33b8",
     "4024a74af36a61b6de3869e082ffafd5e9b6a84597c4b449faa54f2579041bb9",
     "a9d2122f5d3838f5aecad9969a4e7fad302b1ddbbf4634335724c3f45622acdc",
-    "11f207be12f8c49bf87c0178fa3f2fa54857d9121ae85f2b7a8e35a310e3899c"
+    "11f207be12f8c49bf87c0178fa3f2fa54857d9121ae85f2b7a8e35a310e3899c",
+    "10c534ed55b706e98bb20c04a5914baa0b3c79128cb4ecad3224278761f4d221",
+    "182ddb20a31551c3f8cb9b6169f34e9e1f72015b2197099b54717a7581c8f44e",
+    "aeba9cde39fe6ef2f711fd0d1688a184c3e45c42831a05f39578a5887d0f2eca",
+    "ce6d0f7399433af348bbf15b0dc844a124cf3446018b5f857f3f52f32d5aa659",
+    "f5d373c7fc946e1d37ee2d4a243b3cbe269cd8be7e75bbc04b3c71f9dc696d19",
+    "ae7c897cd9ee2dd30b1b8814d36466bfe23ce002883a4cb288f0e25bbc99e2a7",
+    "c101e09112cde42ec3e4187a0a5bd33908ac909b22689b50a93f0c1b495a395d",
+    "026ec06aed51eba36d48aece8fc8961f45ce602a2a5899b07ec222a8d4f34585",
+    "69ed1ef7af372d3ce55d35be3d637c95228f22b2b067eefae317bf1abf1b33f4",
+    "0c73719d99794e8236438f8087059cf51acd8fc9a837ed0c8a5c139c675237bf",
+    "61f6316efd58efff458a1982f31eaf1da0912fc1319fab7160c46a7c0ef19c4a",
+    "a63817cbefa1803e36fe7504823de583b6cb05e44e4942cdcdada0d36ff79808"
   ],
   "recent_sent_articles": [
-    {
-      "source": "조선비즈",
-      "title_en": "보험판매전문회사 도입론에… 금융위 “모집 질서 개선 먼저”",
-      "title_ko": "보험판매전문회사 도입론에… 금융위 “모집 질서 개선 먼저”",
-      "url": "https://biz.chosun.com/stock/finance/2026/11/20/BXT6U6D5PVFCLDZQENUUXMDYPE/",
-      "ts": 1795164702
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Anthropic Pop Is Followed By a Fizzle: Market Analysis",
-      "title_ko": "앤스로픽 열풍 뒤따른 실망감…시장 분석 '냉담'",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-pop-is-followed-by-a-fizzle-3-minutes-mliv-video",
-      "ts": 1795164858
-    },
-    {
-      "source": "The Verge",
-      "title_en": "OpenAI is starting to bring Dots to Plus tier subscribers.",
-      "title_ko": "오픈AI, 유료 구독자 대상 '닷츠(Dots)' 기능 도입 시작",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038370/openai-is-starting-to-bring-dots-to-plus-tier-subscribers",
-      "ts": 1795164861
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Anthropic to join MSCI Large Cap, FTSE Global indexes after Nasdaq debut",
-      "title_ko": "앤스로픽, 나스닥 상장 후 MSCI 대형주 및 FTSE 글로벌 지수 편입 예정",
-      "url": "https://seekingalpha.com/news/4675056-anthropic-to-join-msci-large-cap-ftse-global-indexes-after-nasdaq-debut?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795164864
-    },
     {
       "source": "뉴스1",
       "title_en": "서방 우크라 지원국들, 러시아에 '겨울철 에너지 휴전' 수용 촉구",
@@ -11504,6 +11476,34 @@
       "title_ko": "트럼프, 미국 금리를 세계 최저 수준으로 요구",
       "url": "https://t.me/firstsquaw/194663",
       "ts": 1795196057
+    },
+    {
+      "source": "The Verge",
+      "title_en": "Here are the Apple deals actually worth picking up ahead of Black Friday",
+      "title_ko": "블랙 프라이데이 앞두고 주목할 만한 애플 할인 품목 정리",
+      "url": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
+      "ts": 1795196215
+    },
+    {
+      "source": "MarketWatch",
+      "title_en": "Nvidia’s stock heads for a stretch of weekly losses not seen since 2008",
+      "title_ko": "엔비디아 주가, 2008년 이후 최장기 주간 하락세 기록 전망",
+      "url": "https://www.marketwatch.com/bulletins/redirect/go?g=4844649e-b874-4033-b895-8b6174b4217f&mod=mw_rss_bulletins",
+      "ts": 1795196218
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "US Senator Tom Cotton: Commerce secretary and top officials ignored communications about Nvidia chips being diverted to China - WSJ.",
+      "title_ko": "톰 코튼 미 상원의원 \"상무부, 엔비디아 칩 중국 우회 수출 관련 보고 묵살\" - WSJ",
+      "url": "https://www.financialjuice.com/News/9862165/US-Senator-Tom-Cotton-Commerce-secretary-and-top-officials-ignored-communications-about-Nvidia-chips-being-diverted-to-China---WSJ.aspx?xy=rss",
+      "ts": 1795196220
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "TOP REPUBLICAN SENATOR SAYS LUTNICK IGNORED HIS CHINA CHIP WARNINGS –",
+      "title_ko": "최고 공화당 상원의원은 LUTNICK이 중국 칩 경고를 무시했다고 전해",
+      "url": "https://t.me/marketfeed/1082792",
+      "ts": 1795196225
     }
   ]
 }
