@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795204438,
+  "updated_at": 1795204593,
   "id_hashes": [
-    "440edcdc2704d2a9ba4b0cd2491d9c2db33e7281dc15ba16b1a0634fddfd26f8",
-    "8605f64f427d7b53fe6c9906b2b6d65291b2f6293b15f7903e88d2e9f57adfbf",
-    "9bdac0876ffc8839beeba692c8f55b4e0e45f539b5fb539cb76d3832f45b0599",
-    "90beb842a362c432c9ea510c40219bceba277488b3196d0c6e27c6d25ee7faa9",
-    "064b8c76fe96ff5582cbc50d0a3694bf7d155f477554735f8f8a7b94b955a3e4",
-    "e3aa3a9b916ebf785e4ca8323ea9034de4a01cc6d6876112b9f2d8d94532d602",
-    "9ec42515f361599bec51895e20ab3a1629f3e97837691dc62de1252b339efc33",
-    "0290551a9851b26566abf359d9eab6628063f851816fd5ac11d34a95dfb57ff8",
     "2d45fccfd7707939b66a2419665cde3669d402d011d26bcb66686845c688f54e",
     "c89422854badc5dff8e53fec795dc405aa23865e0cd2b729b8191f2c0d3591db",
     "6667a344a8302a87cee4bdca401555aa6869f5b398fdf102f1d8437fac8e8768",
@@ -4000,15 +3992,17 @@
     "d0108b2c8aff9dab84582858ecd48896ec253ebc1cc8b2d74d10ac76817cac1f",
     "3c4b8f744e193cb802992261b0dea60d98dea5f397dafd8218ac1d86ca400e20",
     "6bc8d0acae77a68dd0d805ebb36ca754b476ffe80c4141a44340221d926250a4",
-    "a9234f8aacdb59460470e9335f496107164d5cd09dee59ec39b440d2b96786bb"
+    "a9234f8aacdb59460470e9335f496107164d5cd09dee59ec39b440d2b96786bb",
+    "3697c4a3b0d7b036d975bb00c57498b4c305e51b6e9c636849e65293000582eb",
+    "48a99b89291655580511e331d1c98340046b043db2ecb9421aedd73d589086b8",
+    "eba56760d93651bd2ea8d8184a61656188d8f8a8294d5eb6185a0e30023766c1",
+    "64681c9aa15252afed5b4e8f21283d206ecec69732cabfd01496f4c5410e9012",
+    "84c77ce65ec594c532bbc9eccbe2ed5361a1cda9bd3308b475ff1bdcdd04b129",
+    "aa644713476132f053ae77065b39558678c4dc5d080fc29f704e6b50cb92ade8",
+    "ec06278e953aa3a0ae6fe792d72a0364d7ac0c9638a29d2f6445e62a34decc86",
+    "a28477ad02eecdeaa972d0c826cfba738893e80822069687b086ff39752819e8"
   ],
   "title_hashes": [
-    "f56e7cbf132952628ce9855030815826d0e6634866897220f89c6ea632c072a9",
-    "5e4eb1c451ba573f3ffd3fee7bd1d8cc05521102d91891c6bd97bd9d5af731b7",
-    "04bf1835c7d2c34619cb0ae2abb6e701ea6e3e44b4442d220b7671ebba3e380b",
-    "1b70f7f04598796234a675371613a476abfcd70ea5f033be8815a68d1a9848bb",
-    "16c915c0e5264a053c5f77b1dd52a52269286a13972d5355f486dc39ae11fc01",
-    "6c3a3ef0b99181740ea09962a678e1632317ed50e756b23c6d290c36a78b556f",
     "0bd38734a3378c4ca6f4dcaf04185281a3eebe12f959ca85a8cf89be40fce30f",
     "d2f301f300a4f51b09b2df93d615e0c0ed5dedcb4bd3dbf54ae48cadebbc9025",
     "2d984d8a97e586f54c1f746f005c2a3bc54e9da717c5503bd1e6bdda28954305",
@@ -8002,30 +7996,15 @@
     "ee5ecbe9b37a427f5403de9e20bbd010420ba725fd867f607dad3406b1d11142",
     "c466efd0f12eed7b11767023ab7d360e4629b3573797d39a84bbd8b97d00157b",
     "61f16a4fe051412b7fef047bb3fa85b90f769679595338cf941ef6c7078781f2",
-    "311c5e757bb7803b2b56cc6344d815d566a070b69f7c17b33f44e08c08128a5b"
+    "311c5e757bb7803b2b56cc6344d815d566a070b69f7c17b33f44e08c08128a5b",
+    "f887c28e336a5b4cfa6b32aefc29f3bf147c0f0adce144654140a7d991def69c",
+    "9ae7fa35325a6f7bf564b370ca6f720ef6bd220b0bf9516daac57046282da8b3",
+    "3ccc8ef3e01e0fa2970de3f15441d4da00e6a18d8a7b18e7881c5698c82d5675",
+    "fa0baa7c1acfe30e80a618f00d36562d5280deb7df5b78726ae490a82528c3b6",
+    "dc33c81a6110d9cf2e80cf2d680a5ab04259b7558344745f1daa6c51987ca44e",
+    "3879167880d17e8e523ae23d0983ca91382bf5236513360d830882bcf97e3927"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Tech Figures Distance from Trump as Democrats Ascend in Washington",
-      "title_ko": "민주당 약진 속 트럼프와 거리 두는 빅테크 업계",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-20/tech-figures-distance-from-trump-as-democrats-ascend-in-washington",
-      "ts": 1795176854
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Wall Street's Most Accurate Analysts Weigh In On 3 Energy Stocks With Over 10% Dividend Yields",
-      "title_ko": "월가 최고 정확도 분석가들이 꼽은 10% 이상 고배당 에너지주 3선",
-      "url": "https://www.benzinga.com/trading-ideas/dividends/26/11/63467175/wall-streets-most-accurate-analysts-weigh-in-on-3-energy-stocks-with-over-10-dividend-yields-2",
-      "ts": 1795176923
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Intuit Revenue Forecast Shows AI Disruption Concerns Linger",
-      "title_ko": "인튜이트, AI 도입에 따른 매출 전망치 하향…시장 우려 지속",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63467187/intuit-revenue-forecast-shows-ai-disruption-concerns-linger",
-      "ts": 1795176926
-    },
     {
       "source": "WalterBloomberg",
       "title_en": "WALL STREET'S AI SELLOFF FLASHES WARNING SIGNS OF THE 2000 DOTCOM CRASH",
@@ -11504,6 +11483,27 @@
       "title_ko": "볼턴 \"트럼프, 이란 정권교체 '결정 않기로 결정'…전략없이 봉쇄만\"",
       "url": "https://www.news1.kr/world/usa-canada/6361478",
       "ts": 1795204312
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Apollo Enlists 13 Wall Street Banks for $9 Billion ADT Debt Deal",
+      "title_ko": "아폴로, 90억 달러 규모 ADT 부채 조달 위해 월가 13개 은행과 협력 착수",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/apollo-enlists-13-wall-street-banks-for-9-billion-adt-debt-deal",
+      "ts": 1795204464
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Wall Street Regulator Probing Nvidia’s Accounting, Reuters Says",
+      "title_ko": "월스트리트 규제 당국이 Nvidia의 회계를 조사하고 있다고 로이터가 밝혀",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/wall-street-regulator-probing-nvidia-s-accounting-reuters-says",
+      "ts": 1795204467
+    },
+    {
+      "source": "9to5Mac",
+      "title_en": "Apple TV keeps adding fan-favorite movies, here’s what’s new and coming next",
+      "title_ko": "Apple TV는 팬이 좋아하는 영화를 계속 추가하고 있습니다. 새로운 기능과 다음에 나올 기능은 다음과 같습니다",
+      "url": "https://9to5mac.com/2026/11/20/apple-tv-keeps-adding-fan-favorite-movies-heres-whats-new-and-coming-next/?extended-comments=1",
+      "ts": 1795204592
     }
   ]
 }
