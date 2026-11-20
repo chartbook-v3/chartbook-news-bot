@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795147747,
+  "updated_at": 1795147906,
   "id_hashes": [
-    "79b25e0f4e4ce526995995b9ba969477e25f4a2b9093b6899f9ad32f4a2d88b6",
-    "91fd3bc109b61a9189c2655dc785d02b614e6927a39407b4b19e706e3fc4c72a",
-    "e5777ba439cf8862b34ce85ae2a658e4c5f22b42dab2ab9e044ae4360295298b",
     "0314730e703c255e9d3c38ea76bf892a9ea9a895aae33ef514c9df2160c675a1",
     "2c4d19e6ab0b03e41b7ce35d9de63705206670c11754203f5d0c486fa52d3566",
     "36369be49311d13f64538b1785d8487fb587443b9fa3072bac81dbb8dd7d9c89",
@@ -4000,12 +3997,12 @@
     "bf9dda1a6b898a87809e1bcbd4fb5676ee797ad1c3e4a16df1628eb9e77957bd",
     "b9063156b3dc6212b17a978ee56bb3eb15d2ea54942147ed7d7a8951f1d95deb",
     "3031e515891329a3b5a8ca7524381716dbcb1957cc891a44c1d60085d6daf039",
-    "08afe1cbe9964eb515f3cce643253e6e0856375712e43f787beb1228246c46c9"
+    "08afe1cbe9964eb515f3cce643253e6e0856375712e43f787beb1228246c46c9",
+    "6aab5f922ce880d7be04463813db29b6dbc9bfc0b1a725c45265f366da583784",
+    "b945c8d7ffa76276c8ad14f44a1fde93e67418fc98f6b86bef6e41b456b1bde8",
+    "3e3c791b6e2b93d77293c50688c445bd67f99b4c4044df24e846fae930e8dbf6"
   ],
   "title_hashes": [
-    "68dd5e79016083efd19e19b1b40c4511df2c265780fb543f34ecb9265b2539b0",
-    "82ed3f8f1fa9ca4c27af9966a735b5545e703d6756499a2362482b56aae52624",
-    "4011dd6f2440060193fae790dbe0300a006d1b81cd518e6ab889ae4cd7f3b563",
     "e903e50c17c8f5366b16325704f909f75b429647de013fa1052ba01f335f9f18",
     "565d6aec867193e716f21d7c456cceb174a7280e9c630b0afecec5e65f658fe4",
     "2dab2ab614b4ee7e76baad5c6c8943368a0b66e850ad7fb26f9ef04ca003e203",
@@ -8002,16 +7999,12 @@
     "0c82ebff32565087af1083a83ed45be6d3c4a7a83fd50b7acf49fbd2da1e5e24",
     "75023546a83537114d7f26c7643c01dee45a846113e5c6705521f71adcc4031d",
     "8a5f3be630f65748e53f6d55a529ef1e5b4dfcf09daded429b3f5b19e762ad9e",
-    "715bc510c046bb592595a8a8ddf62f49816ea127bb90faaf2c7cdcec81ab6201"
+    "715bc510c046bb592595a8a8ddf62f49816ea127bb90faaf2c7cdcec81ab6201",
+    "15585b4a01ca8b0f02c5de97f16284614d3b78c71e5ca32af252a15475c2926f",
+    "4794d5cb683b9734819eefce1bcaca6bfa95dca2c0e69b7cba9cb48ba7452c7f",
+    "1a7a24cd08d87a2eb265f7dcb6f442039aefad302169477c594753b0e78efcec"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "S&P 500 UNOFFICIALLY CLOSES 144.71 POINTS, OR 1.98%, LOWER AT 7,178.92",
-      "title_ko": "S&P 500은 비공식적으로 144.71포인트, 즉 1.98% 하락한 7,178.92에 마감",
-      "url": "https://t.me/firstsquaw/194346",
-      "ts": 1795125043
-    },
     {
       "source": "FirstSquawk",
       "title_en": "NASDAQ COMPOSITE FALLS 543.01 POINTS, OR 2.22%, TO CLOSE AT 23,886.88 IN UNOFFICIAL FIGURES",
@@ -11504,6 +11497,13 @@
       "title_ko": "국산 NPU·AI 데이터센터·조선 AX 잇는다…실증·판로 확대 지원",
       "url": "https://www.news1.kr/it-science/internet-platform/6360443",
       "ts": 1795147746
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "[표] 은행간 단기금리 기준-코리보(20일)",
+      "title_ko": "[표] 은행간 단기금리 기준-코리보(20일)",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445759",
+      "ts": 1795147902
     }
   ]
 }
