@@ -1,32 +1,6 @@
 {
-  "updated_at": 1795133312,
+  "updated_at": 1795133466,
   "id_hashes": [
-    "197fa5f4269e84f04dd61ca1ec441de0b99206a90c99b71284c3d6d6fa9490ad",
-    "22c36c5c62b0181e0377247c06a8974d08e3c9ee551124bb6572fcb6cd2aefe9",
-    "218230c1d2c2ebe08d9bf8e403876d0186553875e7daecc07c20f728b840c9af",
-    "aad797c9146267d96aa2e4c3270615a5d75a9f9024b41361946b63d4f830b66d",
-    "a4a6609493f9ab5efad977a8680164f162f4b7c6ac20dc5cca7a8317d2c09166",
-    "279e4bf43047bfe4edd04ab2c3b033b276a9a616076e7bff966ead88f1435231",
-    "82e410f949263fa64ef03704ae66ef57a23d268d628226cb7fdc379279777e5a",
-    "d2e30de8d27c12b8713dcbee4980cd61464d7c465aaa16051d437f633fa831a4",
-    "8c776d432605eaaad5ba7860486fdb367d6cd0da6835ff7346ae554494202050",
-    "25aafe7ee7f559513354d1ccbf6f3d27010fbd08327760928e8b325418e072a8",
-    "d01d0f643d94d93aeed8b65c45699fcf627e3b38ee44d486bbe88a9877e37bd3",
-    "8d291d3c5759ff93c2e2c60bf1a0d921972bd06cae605439d00cf0ff532a99ed",
-    "731e76e5faa8fa7c69bb4d0a8372f14b0a121608ec752871ed512eecff700dff",
-    "c94bc7931fd380c89306315163b880cfb68bc45df86a03445c180f5b040b1f54",
-    "120e0e9bbf9f4faf8e02e54bd5c126b4682124c7983c1351a20422a92a094cba",
-    "6c16acdaa03363069f30f18344980d7331dfa596f01801dc7ebfd0142254a53d",
-    "4ce84e9d7411ad1176ef5a7e913ea1353fd120363243cb48f32d1e4d77d50384",
-    "ffd2008052f3fa4ecc4c7f27ccf2be07c1e85d6f232ba61ecea602cd361623ce",
-    "01d7ddfaa877816fb8e7cd50267d2913b9b1782953659eb7ee73bf6a014fffef",
-    "3695d1823387f5d3d5bc9f5cb3decae60f058849400354a8a6f7eda5c406f3de",
-    "3f781047899547249f7ccbd03a8521175d4e731fd074866f9014449616cf11f9",
-    "4284e45ed5779d8f4b495b678fdb67c36954bc4dcaa874f2c36b0a61f66e5f71",
-    "b03dd74e0c57df6b9f1a7a2781911f12c0454b171ee2ce49c8986ced9b2d08da",
-    "cbe4bd1b3c9cbedb72302f560e0fe994b0e8897ed5b1c675759850857e721427",
-    "337003579e7bb337b9a73e5f09f27dea9e02331a8a94b1a7caae48402fbea9f1",
-    "5b51397aee66197b7d2eef0830c325598cde8304d724ec2cdfae95e17962ff81",
     "de2817699f41180cac4b63dba81d9ed5315dbb13d0ceaabcadbbe7fcf6e6c082",
     "49ce4b1a5f85bc04f8277121e96693416246807827e923a7cd679b64dc1253d6",
     "4dda37051c5b7aa06a15633fe1f519c92c553086ae807ab74bc144e850b38ffd",
@@ -4000,30 +3974,35 @@
     "7169da0ff74b2365d18c64902807fa394e11544d2290acf5baa45ea18e466d04",
     "70a022a88a4e6e04ec18bf3b07271ba94e141d9f220676ee596878b719da9568",
     "4c9bc23fc4557c96704d1f8a0051da960c24d3ebcfc30241d33e5625f2dd1241",
-    "1563840277d6d7cf8468474434e6e62c01c111ac3b924e5560235f7e32be6fbc"
+    "1563840277d6d7cf8468474434e6e62c01c111ac3b924e5560235f7e32be6fbc",
+    "b1a4900df4b58408b252c762152d9da146d290b74828153c895cd6bdc5c1ba3b",
+    "82ad7c8cee5cc5daf56bc7a99a7d984c044334fba6fdb326ea29bd1a8a81a894",
+    "92b87b9c7b2c32958ac2e3fb7ed4282663ed3db976a2a59762f7580b337770de",
+    "2a9627185770269d3bbf55ef085af927469042cb239b8cabf45bcb1cd4776328",
+    "197a93d6ad75f890246d1386ca9b2503d385957d5e06c62e919e2e97f1521ccb",
+    "dbf89fa503694f2d19fe037468bb89d7ba307c66c25e86b3eb72d32753a1434c",
+    "c1fac0d35e9b59c3eca0dd30286705b5339c2cda8877f5bf741a9789265d6ac8",
+    "368f11ac97e4a4645fa95bb99e88d7a9e083c894f17cd20b65edc13eb3178bb6",
+    "288574f3b6c1b7e807ed07b0bb7910f3cad4416174975fa3efd0b3e32485d8b7",
+    "83cb63ae207710828f738badaecd5263f75a538d238be7bf175e12a35144d301",
+    "edded1d912522a7be76a47a88c4e7c150c159c51c8da5744ef3b4e4f01743444",
+    "26bdf57a86ec73d36af49b9c461e422694019c75e9cf662e53256c83bba449b0",
+    "51d7cd3def4c193098a6ea8790a7906e4be6c50263c8c287f97d9f7de3a59976",
+    "6fd60d2fd0617d26092c26bfbe2e90c1504133cba7a8c46dd56d55deffb9ec9f",
+    "d83e4800f34bdd8d9392e083eed0a06b6eef4c080e15c80e290d06d40b33f10c",
+    "d85bd13bda4744ba7e3fa3a347dab664780ff4f39cba55e3f30141584184c094",
+    "700d99a0849ed32e9d681c61220d7fc327536611c3ef9a7e0e46460136a47308",
+    "010dc43d40ac24b94af3a19985ef74caf8d9dee3525502eb0b290a636fa6a365",
+    "2a613a8322fb860f7ea72d024f5367cb086a1acbb1e369ed447d8df6115925d2",
+    "45f04302d59c405ef4630ee124b556451befc5126571c589ab5b094440cede7f",
+    "9215eed38cf17613f25a87849d773fccabff32d63a8a86d2f5c081f79a159a2f",
+    "432d4db7523c687c22bff2cd5ec3954bf3b4ab1cc2fc5b4dbd5d77dba0c7dcad",
+    "a9e0e2496e268fba78ad8995ccb1950365eda5073fdad9fa1dd761b853933d78",
+    "e44518ca7ef065b7c2f72dd1f55190302190752ba7aac5a5e76076c8036b5e06",
+    "9e56ee578b1e0e64b7c809626ebccda56b0851eb51a7d81b970ffe7971abff66",
+    "1eff6b73aecfa714ac885ab6c7db6152790cd08fabca571c372a8557f3575614"
   ],
   "title_hashes": [
-    "a55575a5b25e8039caefc367de89388b46729d7a5c28c1e1f6a372fb33ed0105",
-    "5e5286785ca993d660bf9d796ab3366deca09892bed89e4b0000aa4870ef09d7",
-    "a790233d4ffce99fd8d65601bb07d01a18989a81ecbaab69c0a5c7f2ffbd9e5e",
-    "81a13ed75608479c41574df1a18d6cd263f7131438a6ed91cbcb97852ce9f2c0",
-    "c6227ff2313b0260f99aca311bbe193fbb6e967beaa4e4847f9a2fbb7399840b",
-    "f32569e56f8e7b5e1f331425bb6b612ad206fb8789f8b5b15f66415ce22b9558",
-    "7d3689ff2c499c485015b972989128d6c3bb3cf551a6b9a6519b5ec8ff25ddf8",
-    "2b50c861e0bff5998cd2881cc4d8a949a01d7200c91314ded19f5ef2c9dc7129",
-    "f30460fa6a7318638ba5ee92b612cb6e4aa700e6ad93088a0d576b57572f123a",
-    "d1c24bedc61929f2e4e82c719cd09dedf99960272af02393444544edd2f659a4",
-    "51c48fcbcac4774ab2cb3f01753bbbd4cb87eb7d7bb2feeb154a079f604c2b19",
-    "3a074efb479b698bf8c004596c04707f66ae8d9bb64d7760f432cfea7c0e2cfa",
-    "f2b08e7b89072784d7d617de1f0c9ba314269b98d89533012a90cdcf593363e5",
-    "302655271daa5bd81311ba0e0756f9ee7a72c4802b5836e4d552e5efa81a95d1",
-    "092f2428c9cda1f0b2dcc43861a01a3e11320001780437baa5b10b27bd1d359d",
-    "3ae9d90ba9be5a179d1c2fa87e8a183fadd59395fa2996a0a870df86a262af98",
-    "ad2196a8cb0e1d2ca2b987fb8d46cd5a5dc95c6be5086f6427bea7090d2b78f0",
-    "05f64be56944cedefc9879ab34ee8e701ab4939a9109ef1f881f3776e1183143",
-    "6de6e429942e94618bb44a760d6bee90af8857e68cdc06da63d9ea8478cf744b",
-    "66370c4bb1fe8329e4da996a7bf765b18a38bc176ed0506718bea57eca823368",
-    "a447de324c8145b2b4bf9761d64c078c64a9f98e10cc7d9ab76140f2e624c5bf",
     "2335a3639216f8a3191f2feae03166216717198eaf121fea0c575272d22a32e4",
     "0ca7ea0d6c723b23bb2bd12c35f728c5c0b182cede6ef93b6d690ddec8859205",
     "07ab6f273b09b0925b3284632e9f8941b4fcb0e6cf7b8c28bb4ffe14af9fdc31",
@@ -8002,79 +7981,30 @@
     "a8d819b96200fb4e672dc0c3d80c5a0818d64f121020d921dbb06d39f43d4895",
     "45e08827d97c24574d6466d9912174e92dd656917ba083dbc5137b50e52c6020",
     "0d6733ea0fee68131f3743283615f8600b4bd65bac6f0cb814a998bf4105dfd6",
-    "c208934f20ff238320af0db8640af93a66bb56abb78db3fb55fb37283f269d43"
+    "c208934f20ff238320af0db8640af93a66bb56abb78db3fb55fb37283f269d43",
+    "51145d77524248cfcd3e757a722ed3ad829cadde91d330e64d34609cd603542b",
+    "812f6b2cb2c77e579412fcb871ae48aa21c19f0a618328c21d383921965f055a",
+    "1d27c3c23c540add41a4c6b030699a889b54a6a902d301c40514019aead1821e",
+    "73477de86e9065c8fc8e47dcc36d6214eb911c36b52db97bea136b0007ad3cc8",
+    "ba77a5a451c3be516f015d627d6c1aab3f32138479c1f0d967bb24e38ccb3aab",
+    "666542bd1859c4ceef23fc385db65f372bf0ce89bdc4feb56fe0fcb8dc0022f3",
+    "7136bc1a950f80395e4c7393cdb02e75e967f69f1f0280f8ccb566716f7c0dfd",
+    "77d964a8958fd54c454f2a18aa5fa224e2bab98c5eacd06a71b707f87bb7cc3c",
+    "191c074951d48bbe3c33186db21f7953f7e6121cf61b7bbb2f68a230a9a93746",
+    "025b4a38d99c9f08aeaa393f3962bf4ee23dc15cc448da6e39d50c07ca950f63",
+    "01135b14dddbdce9b9b4552181811f1659cd0abfea2c8bf3fb781f9621f5b0dc",
+    "064bf97e060634a88d0b80e27bb6553e480841acf465b51e7f1417f342a53949",
+    "f19f47e0a5aec68e822c89ea48a06ca9946712234f1ae1b9feceeab8a6ef3d51",
+    "bd8fbdb197091ea4f332c2dc7f47fe4a276d5a0004fe9378fedac0566500675c",
+    "f6d27dffb957d6323e0f1cbe7aed6c834eb6ae4be9d3ec354ac4a8049891fc0e",
+    "ac7d480a9e904a3503eb1a5b535e68a9965321cd1b229a4f6fce283093766e02",
+    "57301cb0365dccc314669350874a9944e9159ad2a64911d2a3e6d6dc68c9e884",
+    "c6caa9acf614da1e9ae787c511be2201feeca8c500033cf2acbbd23dd47dd036",
+    "5b0b82742b8cb652b83447ca6e6e7bfd2fe41e7b39c06f6bc84038373e42ccfe",
+    "7b4834398895a967cfd8c999f2edd366539af9982ceb37a0553eb4c8382e4d8e",
+    "156bb51d5ed995e0867d1ea805105778085193f7b3081c71830bee79e1a766c6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "POLISH PM TUSK: ‘UNLIKELY’ RUSSIA READY FOR PEACE TALKS BEFORE WINTER ENDS",
-      "title_ko": "폴란드 투스크 총리: 러시아, 겨울이 끝나기 전에 평화회담 준비 '가능성 낮음'",
-      "url": "https://t.me/firstsquaw/194272",
-      "ts": 1795105554
-    },
-    {
-      "source": "CNBC",
-      "title_en": "AMD falls on short-seller report of alleged China exposure",
-      "title_ko": "AMD는 중국 노출 혐의에 대한 공매도 보고서에 빠졌습니다",
-      "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-      "ts": 1795105709
-    },
-    {
-      "source": "International Business Times Australia",
-      "title_en": "Ambarella Stock Soars 9% on Report NXP Semiconductors Takeover Talks May Be in Final Stages Ahead of Earnings",
-      "title_ko": "Ambarella 주가는 NXP 반도체 인수 협상이 수익을 앞두고 최종 단계에 있을 수 있다는 보고서에서 9% 급등",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVHdUXzdsdnM3N1JONEZCOHpydmR6MnUyN3VWMGNuQWJpRFRRc2duZTBLSmhWbEVtUmNuQWczVlVBZkt1OU0tQjU3dEppblNwT2c3R3Z6X1FHbEQ4cDNTczdJV01jZkdYZGlpak12ellyVmRSOVNwcFl0TWtQMnYyWU5jZ3ZXcURs?oc=5",
-      "ts": 1795105868
-    },
-    {
-      "source": "CNBC",
-      "title_en": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
-      "title_ko": "팔로알토 주가는 실적 개선과 개방형 모델 확보에 대한 회사의 큰 투자로 급등",
-      "url": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
-      "ts": 1795105872
-    },
-    {
-      "source": "The Verge",
-      "title_en": "Microsoft is killing its great tasks app in favor of its worse tasks app",
-      "title_ko": "Microsoft는 더 나쁜 작업 앱을 위해 훌륭한 작업 앱을 죽입니다",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1HS2RkYWVSN3RmSUpqb016TV9aQTRuU3FSdzhSUG5Tb0Q0ZlZlcm54bDVpNmhnaExPUmtUZkptVUJJNWtMeW9WQkZhVkV5UXdxWktfR0Zld0hvYVhBcndmYl9DZ0xTNURzYXQ1M1RMZzJMZnRjRDVnY3hB?oc=5",
-      "ts": 1795105876
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "TRUMP CALLS FROM AIR FORCE ONE IN BERLIN, EXPRESSES SKEPTICISM ABOUT UKRAINE AID –",
-      "title_ko": "트럼프는 베를린의 에어포스원에서 전화를 걸어 우크라이나 원조에 대해 회의적인 입장을 표명",
-      "url": "https://t.me/marketfeed/1081792",
-      "ts": 1795105878
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "OCP Announces Date of Third Quarter and Nine-Month 2026 Earnings",
-      "title_ko": "OCP, 3분기 및 2026년 9개월 수익 발표",
-      "url": "https://www.streetinsider.com/Business+Wire/OCP+Announces+Date+of+Third+Quarter+and+Nine-Month+2026+Earnings/27375101.html",
-      "ts": 1795105964
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Mixed activity by hedge funds on SpaceX in Q3",
-      "title_ko": "3분기 SpaceX에서 헤지펀드의 혼합 활동",
-      "url": "https://seekingalpha.com/news/4674352-mixed-activity-by-hedge-funds-on-spacex-in-q3?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795106031
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "KEITH GILL POSTS ON X FOR THE FIRST TIME IN ~10 MONTHS",
-      "title_ko": "KEITH GILL이 약 10개월 만에 처음으로 X에 게시물을 올렸습니다",
-      "url": "https://t.me/marketfeed/1081793",
-      "ts": 1795106033
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Bath & Body Works Shares Rise Despite Weak Holiday Outlook as Q3 Earnings Beat Estimates",
-      "title_ko": "Bath & Body Works, 3분기 실적이 예상치를 상회함에 따라 약한 휴일 전망에도 불구하고 주가 상승",
-      "url": "https://www.benzinga.com/markets/earnings/26/11/63440065/bath-body-works-shares-rise-despite-weak-holiday-outlook-as-q3-earnings-beat-estimates",
-      "ts": 1795106066
-    },
     {
       "source": "BreakingMarketNews",
       "title_en": "US 4-Week Bill Auction: High Yield 4.050%",
@@ -11504,6 +11434,76 @@
       "title_ko": "ANPEC, 파운드리 비용 인상을 극복하기 위해 27년 1분기 더 큰 가격 인상 확인",
       "url": "https://www.digitimes.com/news/a20261119PD230/management-price-ic-2027-cost.html",
       "ts": 1795133311
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Taiwan's economy minister opens Taiwan-EU industry policy dialogue in Belgium and Poland",
+      "title_ko": "대만 경제부 장관, 벨기에와 폴란드에서 대만-EU 산업 정책 대화 개시",
+      "url": "https://www.digitimes.com/news/a20261118PD237/poland-belgium-taiwan-policy-industrial.html?chid=10",
+      "ts": 1795133338
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Nvidia builds physical AI ecosystem with Taiwan partners",
+      "title_ko": "Nvidia, 대만 파트너와 함께 물리적 AI 생태계 구축",
+      "url": "https://www.digitimes.com/news/a20261119PD206/physical-ai-nvidia-taiwan-galaxy-epson.html?chid=10",
+      "ts": 1795133341
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "[속보] 코스피, 미국 기술주 약세에 4.08% 하락 출발...다시 5000선 아래로",
+      "title_ko": "[속보] 코스피, 미국 기술주 약세에 4.08% 하락 출발...다시 5000선 아래로",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/11/20/HA3DOYLGMUZGMZRVMRQWIMZZMM/",
+      "ts": 1795133344
+    },
+    {
+      "source": "머니투데이",
+      "title_en": "[속보]삼성전자, 전영현·노태문 체제 유지…메모리사업부장 황상준·MX사업부장 최원준",
+      "title_ko": "[속보]삼성전자, 전영현·노태문 체제 유지…메모리사업부장 황상준·MX사업부장 최원준",
+      "url": "https://www.mt.co.kr/society/2026/11/20/2026112009012681229",
+      "ts": 1795133346
+    },
+    {
+      "source": "The Verge",
+      "title_en": "Data center development follows a legacy of redlining.",
+      "title_ko": "데이터 센터 개발은 레드라이닝의 유산을 따릅니다",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038301/data-center-redlining",
+      "ts": 1795133348
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "[속보] 삼성전자 시스템LSI사업부장에 조상연 사장 승진",
+      "title_ko": "[속보] 삼성전자 시스템LSI사업부장에 조상연 사장 승진",
+      "url": "https://biz.chosun.com/it-science/ict/2026/11/20/BDV2D6R2WBEG7EKCWNSLQ4XYUU/",
+      "ts": 1795133351
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "[속보] 삼성전자 DS부문 CTO 겸 반도체연구소장에 이종명 사장 승진",
+      "title_ko": "[속보] 삼성전자 DS부문 CTO 겸 반도체연구소장에 이종명 사장 승진",
+      "url": "https://biz.chosun.com/it-science/ict/2026/11/20/KWBCX47GL5H27DAEXUUTX55KYM/",
+      "ts": 1795133354
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "[속보]삼성전자 DS 메모리사업부장, 황상준 사장 승진…전영현 DS부문장 유임",
+      "title_ko": "[속보]삼성전자 DS 메모리사업부장, 황상준 사장 승진…전영현 DS부문장 유임",
+      "url": "https://www.fnnews.com/news/202611200901384706",
+      "ts": 1795133399
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Houthis Target Saudi Arabia’s Jizan in Attack",
+      "title_ko": "후티 반군, 사우디아라비아 지잔 공격",
+      "url": "https://t.me/firstsquaw/194393",
+      "ts": 1795133402
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Saudi Civil Defence Announces End of Danger in Jizan",
+      "title_ko": "사우디 민방위대, 지잔의 위험 종료 발표",
+      "url": "https://t.me/firstsquaw/194394",
+      "ts": 1795133464
     }
   ]
 }
