@@ -1,27 +1,6 @@
 {
-  "updated_at": 1795195414,
+  "updated_at": 1795195571,
   "id_hashes": [
-    "d01ebe20b38d09d6e7bbc88c7da93098982e135fe35feac8bc05ba026339dec0",
-    "2a5f9c530100f69eec036cbbb5bfb8b110ea1a9b530424a510edb5ca808f9878",
-    "bf42a4b352fceceb173573d6a814f8de24c62e0763686498f0892caf34f70dac",
-    "7020914996832397b2c4a209f3da97c24b24e6769949fc7e7a0fd722286d8b4c",
-    "afb6fc1355e32b726aeeb4f8050f06e06e4d4831ec5f220e947d66a144d5b5d9",
-    "970b98a8c30071a1b86f0e3b6d06c6ce04fb105754e6b1190c10edb77cb94a6c",
-    "c6db222a4aa39da2df9ceeb12f64eea3d2d2c980bb8532ff9955d5ad2a2aa539",
-    "2556e4f925895fab9864005b176b99fd5c1aae6c3978a782f9122446028e5006",
-    "3974b52770c083389f83604bb64aa15c8d6ef069a4f711826ee8e41822cacf29",
-    "9e1e2ed907ea16e74a78845586d9433913f8141a046b9297800ba02a3e0d67d8",
-    "3e7427859c40a17b7d62eb226e2affc325ed918a34b49c993b3afc4bc4a3ae09",
-    "3706a2a1fe6e5f31b429a58d851bad5452fcd85641e62938b030ae7b20315bef",
-    "b4cffb41a7ed5887d3c8a8e1fa39b6feac3c58f643ecab7e0c89fb80f4c03474",
-    "d2302070549053479165709de749757c9b160a9cb24a44d78a874a6eefed7b4d",
-    "4e03956966b026765229e7d67dfb2c3b4930017a15475b1189594b316c7bbddb",
-    "5c926902c3c8a50f95dc2344bdc6265a25f725db2ffb1e1633117a2f46d869ea",
-    "46e237b4ae30d7b72cc089989a92a49c7c0fc2bb2a2126b0de6801ea53dbe42c",
-    "0be5f4208c2fbf59078d67b9fe8c83bc6224b5b55114e603a3f3f6850af04078",
-    "c1c5b7873d723e3b4809236f987b497f4fbecde5b8f6cacaa4bcb028c6d53a71",
-    "d90b4bb7cdc222bfb47ee51e6aef8cd60babd2c3df7a724f06ab86fdbfe26748",
-    "7803484ea07a3c47eabb5894c93c06b6429bbc21a8a80b84849167579a69b903",
     "18b46bdd086d886ae6e971ba669fa3ca6f59105799c20fd380f54f0011a7ba34",
     "70c8f62bfc4e369978058f49f962b33e8f653a68d942eec0bf2250ac36e89c40",
     "0140f7e877b7856ed55c67473658d149f323defacce23f5b87632e36be739457",
@@ -4000,24 +3979,30 @@
     "ac098bbc2d226ee6be3eb0e525d012c1e6a4bc51427ba5b97c9973981cb7dae4",
     "8bf4c7c0d253325069385cb8686c7c97c320b3eb0c0e58a514301a0d71bd805b",
     "8333fb3f4c505fd22e2dd764233d34e80ee07897e447e05e697f09823b8df62a",
-    "f71431b7aa53bf190ad898381febd7ba96cea03fc9befee888c76636517bfb36"
+    "f71431b7aa53bf190ad898381febd7ba96cea03fc9befee888c76636517bfb36",
+    "e58da8a5a2239773872c8a8332a091d316ad3ce8bd968676f196f918f7b187e6",
+    "a0c263b543e56e357acd2b4a75fa20a11873e03f0ed2bedf1e6005570bd70d50",
+    "ea1dc5effbb2582c88a17110c40f8c0934b1897a7165a4624db6221da9e706fb",
+    "1be441dafa10f1f2f6fc7eb336346fc07146c868cf0d65dc050d88377a18e8d3",
+    "cf88581fcfdb13843166b9fab1a7b1497896cd9f2623e04ca456946489c94d85",
+    "f231dd2d1fc3156f7432ac1cc1af471f6073d7d60106cd67610f0971ac81967a",
+    "bc7fbae12e1128573429607dbc16c70b7088fd3731a6f5790c5a5658e811b871",
+    "b77c377d04e873c80af2dbf9e434a717e093867a1c295344000f7ab1930f8d8a",
+    "9c8b0f5279b773aa2239dff48f868787a5fccae0799b296c45e7982ca0ea0c65",
+    "88b9ccd5ca4b33b3a498b37c8eedadd8e3d4af2a591da969f869cd93b263331a",
+    "5d80ed1518598c825b8b59643117cb9c6c1ae787390745924d51a217be917dbf",
+    "f00ad2b1de31f2e6df063aca2e66150e935f3ab5a359b3919b550bb97a117dcd",
+    "138029a8c1ea97fca8d4409a6d48c36f78577e01175184b273be11d1dd464421",
+    "3a0bda04718c58c20b35df3c45f8b8465374267a61ace5b8c6d030c38a7624a0",
+    "e3bac2972b17d49cc942907b17383a553fa749aa8285bd0a0678b0e8eb4df563",
+    "6a3168c7aa240ce21b7ba0c91e3331dc070c1f011f4d304c11af08d61a722b1a",
+    "1c00e20fb6771bc2399b0084037ceecb6e2c492228ad27aae444bbf60ac16894",
+    "59477eea0ceac299fb1f8e45cb051937ae1a4f7b838009de37342e2ecae224ab",
+    "088a07eba3bea66e6e7bb562c98e6f768cc599105bbb1a4f054399b1ee06f88c",
+    "0f1fa3f630462ee71c3df825263510400af47fb98a64e22962b71c921df62ab5",
+    "4ee760806af0e5090f087252495938f39a96ef0f9207cf9235b7742bb26909a7"
   ],
   "title_hashes": [
-    "986b856e8c6ea08e9f8caf765cb417ca71d18226c23bdbcdddf105e650beef3b",
-    "d99d0dcdb225ed3139bd60359ae6671705392ccea4302a5784a2510c6d1176cc",
-    "1afa60428fd9a0df64bf2410e874468a1f669af3cdacbd65689e95c6265a0945",
-    "da64475c04ab1375cbe84bd2f2d16e1c04280614d1d0b7c2bcceb836fa4db355",
-    "bb7a03ee58b1bc249b65bd13dd3c244702a9cf96273204fc874a42ad5f3671c1",
-    "8fbe027f06a3504de40843fcef46ad0eea4d152e057fdf75e5f2e44bb87de79a",
-    "472beb28ef9895cbfea0d0959138e61e424fb5c4babcb3501c69f5d375e5ed53",
-    "3da26181ba072d1326dc0faebc88557736099390e0e36afbc3fbde198be51c5c",
-    "aa3e3f12888dd0f0e1e9853b096e11db3aaa2696ff311873a4fb5d371e2e5016",
-    "d90fc930c81b4cb42179747176eb225ac677342e831bef429b980dd0e4702dce",
-    "7376dcf1ef032b40d2803357391608a6ec90d422dee410135a9829111c35c717",
-    "626f879a5d3391984fbc58a547a28809ca663c96e7525fe2df08f91b0a3a8be4",
-    "04489bac2eb54121f7a2c6c5202268e29705d2fd789f03854ed7c3c4df88dcee",
-    "ee9a1769b74b9eeeddc771823f93c127ef57257b9798708fd4af6d1737ef48b8",
-    "4ed13f1868a36ae06aa9901dfc9b7abec839b2dee73171266a31eaedfa909085",
     "8baf8bc6250890fb1b633627d856c0cb401a3de0275bb8d6bab8ed8580d456c8",
     "268262b875e950c892552cf71d342e1b180176ed7b538c2ffeb4e9175fec6a4e",
     "8a0b153a0a74e8ac570f86b0cca970bb53deabf7e05846b5525924c6e2af2ff9",
@@ -8002,44 +7987,24 @@
     "4679c18132517d84eb7e0136c4110ea30c463411c3d8953f0a17db35a0ad8e79",
     "cb9485b88fa979b190ba3537d5f7a823d81a8e4a69ff43ff075584c0956f8262",
     "7fc7a6e4085c110044c32239542818fa9d0a9d6149653580ca59041dbce6f157",
-    "f1171acfdab20b6418c94cfd0915dbaec9f7e2eed512957986d8979ca69a2a94"
+    "f1171acfdab20b6418c94cfd0915dbaec9f7e2eed512957986d8979ca69a2a94",
+    "c3cb75811bb4fbd73e5e737cd51cb606992ce3a9aaaa4a4b65c8ce59dc84dec6",
+    "e1002cd8bd6aa821186b6a911d0e1e51ff0bdab90c011f1cb2d3f4e4b2aeda4a",
+    "aacddd853ed5e69a1b672923525148a211e12b6fd2a9d3cb830606c6bd09a893",
+    "f132ae0231f8a4e8fa0a28a63c877061380b1d335fd9e7e29ff34e1a5f58488f",
+    "32ebdbff356095daef272d4ee472bc80e44e554ffd694925d40c8c4482fe348c",
+    "be1a42d507b626d7de280e2c570c84dbeba4c2e9d9f9b2890738573328dab361",
+    "3bd83c0ae920b40c9233d34c49acebf95022c5bfb67a4b6246bd0c39386d5773",
+    "d0cc59a1706354525f43ca22c66773034bef0a27f09aa43dec6bbd8e46055cfa",
+    "67c0d22d8042089f6bf5fc9c210f9f82a0b2f458b6e9184787d079de71b95d80",
+    "3c60817b211b2d18cc4d0245c74bd29654d6313298ba6677d261d3ae949a0c14",
+    "25423db8e9689ccf1d4da71a1b22f880d7c040d0425ce23cb56d4e34d7e41482",
+    "2c62d4927c3ffc0139e62a5a3cb93681c7a17e271cfde36dca0c7e8ed934804a",
+    "6170509f53233b6e43181fc32f107a13e462a42e16bb610076b62a3881b67773",
+    "c25c8e984b57e1aeb96a85b1fe361cf16c8ccf9f189ef20f64b93a890df84894",
+    "aef58730222c2167d4de432f9a470b10f57f9d7c0ef95176dd5fb3bc5559a5ba"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "CROO Launches CROO Skill, Opening Its AI Agent Network to Claude Code and Codex Users",
-      "title_ko": "크루(CROO), AI 에이전트 네트워크 '크루 스킬' 출시…클로드 코드·코덱스 사용자 지원",
-      "url": "https://www.benzinga.com/content/63464790/croo-launches-croo-skill-opening-its-ai-agent-network-claude-code-and-codex-users",
-      "ts": 1795163282
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Chris Wright Hails 'Home Run for America' As Senate Advances Trump-Backed Permitting Bill, But Adam Schif",
-      "title_ko": "크리스 라이트, 미 상원 '트럼프 지지 에너지 허가 개혁안' 통과에 \"미국의 홈런\" 환영...아담 쉬프는 반대 표명",
-      "url": "https://www.benzinga.com/news/politics/26/11/63464793/chris-wright-hails-home-run-for-america-as-senate-advances-trump-backed-permitting-bill-but-adam-schiff-warns-of-risks-to-clean-energy-wildlife",
-      "ts": 1795163291
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "국토부, 테슬라 FSD 특례 신청 보완 요구… “기술 자료 미흡”",
-      "title_ko": "국토부, 테슬라 FSD 특례 신청 보완 요구… “기술 자료 미흡”",
-      "url": "https://biz.chosun.com/policy/policy_sub/2026/11/20/2STXSKOCJVBJTMP635OBIQKLKM/",
-      "ts": 1795163377
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Russia Rejects Any Deal Letting Ukraine Join NATO, Ryabkov Says",
-      "title_ko": "러시아 \"우크라이나 나토 가입 허용하는 어떤 합의도 거부\"",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/russia-rejects-any-deal-letting-ukraine-join-nato-ryabkov-says",
-      "ts": 1795163526
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "BOND SALES IN EUROPE TOP €2T FOR FIRST TIME",
-      "title_ko": "유럽 채권 발행액, 사상 처음 2조 유로 돌파",
-      "url": "https://t.me/marketfeed/1082405",
-      "ts": 1795163529
-    },
     {
       "source": "지디넷코리아",
       "title_en": "LG엔솔, 전기차 배터리를 ESS로…자원순환 성과에 국무총리 표창",
@@ -11504,6 +11469,41 @@
       "title_ko": "CBOE 변동성 지수가 32를 넘어 세션 최고치 기록",
       "url": "https://t.me/WalterBloomberg/38799",
       "ts": 1795195358
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Seven funds trim positions in Taiwan Semiconductor in Q3",
+      "title_ko": "글로벌 7개 펀드, 3분기 TSMC 투자 비중 축소",
+      "url": "https://seekingalpha.com/news/4674842-seven-funds-trim-positions-in-taiwan-semiconductor-in-q3?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795195506
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Biotricity GAAP EPS of $0.05, revenue of $4.33M",
+      "title_ko": "바이오트리시티, GAAP EPS 0.05달러·매출 433만 달러 기록",
+      "url": "https://seekingalpha.com/news/4675254-biotricity-gaap-eps-of-0_05-revenue-of-4_33m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795195514
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Arizona AG asks local zoning board to delay vote on SpaceX's $50B data center: report",
+      "title_ko": "애리조나 AG, 지역 구역위원회에 SpaceX의 500억 달러 규모 데이터 센터에 대한 투표 연기 요청: 보고서",
+      "url": "https://seekingalpha.com/news/4675247-arizona-ag-asks-local-zoning-board-to-delay-vote-on-spacexs-50b-data-center-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795195517
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Anthropic's IPO bank closed position meant to stabilize stock, removing source of support",
+      "title_ko": "Anthropic의 IPO 은행 폐쇄 포지션은 주식 안정화를 의미하고 지원 소스를 제거함",
+      "url": "https://www.reuters.com/markets/us/anthropics-ipo-bank-closed-position-meant-stabilize-stock-removing-source-2026-11-20/",
+      "ts": 1795195568
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Tesla proposes $3.1 billion Texas polysilicon plant for solar manufacturing",
+      "title_ko": "Tesla, 태양광 제조를 위해 31억 달러 규모의 텍사스 폴리실리콘 공장 제안",
+      "url": "https://www.streetinsider.com/Reuters/Tesla+proposes+%243.1+billion+Texas+polysilicon+plant+for+solar+manufacturing/27380625.html",
+      "ts": 1795195570
     }
   ]
 }
