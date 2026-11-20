@@ -1,7 +1,6 @@
 {
-  "updated_at": 1795219018,
+  "updated_at": 1795219175,
   "id_hashes": [
-    "098f98e7bc0e726f8f429e9a59e33bd993337bd45d2c17ffc986fd3fa6fedc6b",
     "1080e02168186748effcd01d8342a613bd30869701c4f4c6277d798daa443e1d",
     "2aadb75b682f105e4ab9d4cffa8fde6f6a6d10becfe78915a222eb6302c1bbcd",
     "c4194241b4cd4e85f4369d84509588411d5174c56bfdf58d96a64668b25e6769",
@@ -4000,10 +3999,10 @@
     "c4fb356cebe68c890242645c761cc115a88c6a897a27a784bced64d728a195a1",
     "ffcbf0780e30c1b2218cf01da96006805db6ff08ad2baade8a53715dac135df4",
     "1c5cea940f33d331c4479c2ddc61fee2fe8db474a64e1ffa752bb39ca02d361e",
-    "e4c6c6e90e8b6142cb3476ce04458a76148ad56d2bdb51ee718ebf30f232945b"
+    "e4c6c6e90e8b6142cb3476ce04458a76148ad56d2bdb51ee718ebf30f232945b",
+    "870af2e950c21782f4ffe226347b703cf7bf8d334dda0a75d0b67bf8d276aec1"
   ],
   "title_hashes": [
-    "3c374fe9204d92b3f27e28565898c3f901eafe1cdad8c00196e7088fcf06093d",
     "5b78c3162a81fdb60471539c95318faaf55bafc225ae16808d8b059b8fda2a33",
     "0f421581a0850c4860394994b3150f37efb5290a48c80aa1776a4f014ed9a1e0",
     "a36f777ae78a04fc1e49799e35478c070063a32ac63ff7c55b2d1de458c02bf0",
@@ -8002,16 +8001,10 @@
     "b8038ae6b2348cd927e413d9605c56e8c9dce76cb542cedfb96bbffc8e9714bf",
     "57beed8151793fb719f3fe63a7d1b123cc711dc79b6ae4a97f78e642f5f5b319",
     "4f943bf7a7fd8e3e0011695cac81f2db6d5115b0616c816bc8b357684e26fc7b",
-    "79f56d6a34dccaea312fff386371233945b962d5311a26325864465747ed66cc"
+    "79f56d6a34dccaea312fff386371233945b962d5311a26325864465747ed66cc",
+    "feabdb6ed2ac0f0ac51ad16e95d6b202105568f5cb1585be7feddfdc70614ffa"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Anthropic Exposes AI ETF Blind Spot: What Investors Should Know - Anthropic (NASDAQ:ANT)",
-      "title_ko": "앤스로픽, AI ETF 사각지대 노출…투자자 유의사항 점검 필요",
-      "url": "https://www.benzinga.com/etfs/sector-etfs/26/11/63481734/anthropic-blind-spot-ai-etf-what-does-it-have-to-do-with-photonics",
-      "ts": 1795190398
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Wall Street trades lower as the tech space remains under heavy pressure",
@@ -11504,6 +11497,13 @@
       "title_ko": "한국항공우주 목표주가 17만3000원…생산 가동률 한계 근접 : 한국증시",
       "url": "https://news.jkn.co.kr/post/1111693",
       "ts": 1795219017
+    },
+    {
+      "source": "The Information",
+      "title_en": "The Information Forum",
+      "title_ko": "더 인포메이션 포럼 개최",
+      "url": "https://www.theinformation.com/forum/posts/1250",
+      "ts": 1795219174
     }
   ]
 }
