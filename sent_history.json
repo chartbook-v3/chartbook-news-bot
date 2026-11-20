@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795144948,
+  "updated_at": 1795145100,
   "id_hashes": [
-    "d08c39857405d86bbdb438dc111928c57c565bcee2439bd1f76c2d2d3cdb0ae0",
-    "2b86b68340952495a99a13e53fc45359e9509059f90850697a1b9e0c4a8daf39",
-    "c1e1a68eb03564fe3afd1db5d46911edef945a338797b441f0ab9df30ae90425",
-    "2e1271686b16f5faa0a8cb3f66e60b1f4eb2c4b32abc99a05ca645c14bc056f0",
-    "f367435decac5da97869eebd318a798b376ad601fb8becd263adf5777edafc99",
     "d836a151696b74377bab3eb45ca098809a9b15c7e74c993f584ba1e8279ed674",
     "0974ede3e458633823ab74866ea92a8127d19696dcfdf68d76fa8de7e842cadc",
     "74e01a0f3450f12459c53e5e249de5ef172320a1af0d89eef2c83d658f4edc9d",
@@ -4000,12 +3995,14 @@
     "067405e9e5c87ab47e4eecdd2007328bf4c7adb96c74483e9ff644339a270d54",
     "6158006f77bea9bcea5272d7d39526b6ce3d16b8e4d61cbd6bcf121b5fe4dd9a",
     "4234940c189f25b9b718ca388d972bf37a9fedd49c1de5c3e5f36868e9bc6dc7",
-    "fc01f319a48cb3243e99e6ff486b8c505620364200a1cea508314474c0ec617d"
+    "fc01f319a48cb3243e99e6ff486b8c505620364200a1cea508314474c0ec617d",
+    "788fd28507eb6f7449697bd1f5e5d8699a7bd08d2a3efacd4f9ca22624f461d5",
+    "f313f8a96311cb365970b130030d211ab8c1f2ffa219fa7658781d8df20b7884",
+    "660d9f48160ee51a4599eea4f6a16b66015f23608db0a0091f44df54db2b923b",
+    "774a44258d57d98dc5dfd9c3ce4b5ca8d0444a6a331932dad1d4eafb8cf6cde5",
+    "b3325a0525aea469d341ff1427946418eaaac19dc97176f20628057c563c19e6"
   ],
   "title_hashes": [
-    "dd6d5ec85a5a4d6a6203824586fb71b64bcb0d5a0e9c8a114ecf38d932016e2e",
-    "d87ed103b47b478ce3995a9f96aaa9911297f68aa25c99d295c82173321a5864",
-    "7765083655050ebd5cc4021156b258e14c05f2cf6f1237d4f0dea28cb8ae8064",
     "78aa87665b21c5c75723ed39cb87e67345e3205dac645d6bc2ae6af9716b2ff3",
     "d92b7354e0009797c7379db18a9b7d59ff15c4f8df9bbe1db0a53f1a0f055b0e",
     "2b3e770be611195af1e674f71154b6d5e6d27e9ce75b88a93aa7088efdb8e017",
@@ -8002,16 +7999,12 @@
     "850725fd3340ea99306b0e88eb7e94c517ebf78c2faffff96f29577645262cfa",
     "b21b9cafeb9c3627317dab48ec5211183acc1e74e9c02783f6fa2ed7940cb2e7",
     "2043019e3660c1099ba87dd7858c69cd615b1817843791a0b18f01b49a030d63",
-    "01568cf2659c7af347c8886dfd8770ac40d7cdbf3152a8bc5cb863b6bf88eceb"
+    "01568cf2659c7af347c8886dfd8770ac40d7cdbf3152a8bc5cb863b6bf88eceb",
+    "3d5e8db9ddccf5b63d4cd7561d1e222e505dc668ed945617c1ac44896334fcd7",
+    "a34c2ae1999e0e2a1dbf0016ee1ace63bec8a5b58c8d537c3e758657bfc4385f",
+    "463c933e9643c39243839a85f4c237c907b1fe9d360940e8855a5ea9fbf314b3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "TechCrunch",
-      "title_en": "The unfolding Jensen Huang scandal: a timeline",
-      "title_ko": "전개되고 있는 Jensen Huang 스캔들: 타임라인",
-      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "ts": 1795119813
-    },
     {
       "source": "Bloomberg",
       "title_en": "Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss",
@@ -11504,6 +11497,13 @@
       "title_ko": "Nvidia 칩 제한으로 인해 중국의 AI 기업이 컴퓨팅 성능 위기에 직면하게 되었습니다",
       "url": "https://t.me/firstsquaw/194466",
       "ts": 1795144884
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Iraq’s Command Center in Jurf al-Sakhar Assumes Oversight of Security and Military Formations",
+      "title_ko": "Jurf al-Sakhar에 있는 이라크 사령부, 보안 및 군사 조직에 대한 감독 맡는다",
+      "url": "https://t.me/firstsquaw/194467",
+      "ts": 1795145099
     }
   ]
 }
