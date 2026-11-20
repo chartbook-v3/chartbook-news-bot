@@ -1,30 +1,6 @@
 {
-  "updated_at": 1795192444,
+  "updated_at": 1795192606,
   "id_hashes": [
-    "7d4b82f6356e0efd289eaf5cc74fb995ccece208caed34c8e35d13ce23fb2375",
-    "17612d47641867d41cabbb60f0aef3401fd19de7697de20408da39837c9e1760",
-    "3c817240160b81cef13372045526e508a314b9f001b3f3bb299cae6c9e9eea7f",
-    "dff620a2529cd40a210a2505c9aead1ce90332c5d06933df47f266c53185f159",
-    "df663327ad8fc327482ef5b5be92d1b0053f698e794c540ea314382329c270e1",
-    "5bd8d11a0fd893a6fbb137a47d54766590e871b979bfce9050a48a9908fa3bf8",
-    "852e04faf32318659a10c059f3a6a6517962c7e5181ca6b4e3dc76c4bc2798f6",
-    "48fb7fadea462fbc38c84e149d75b222aee85d15c937ffad1aedcbeebc6d75f4",
-    "7de60acd8af49d8eccacb7f600bbebfe5ea7c924ed4a04ffc41fcd916335d672",
-    "9a2166a1411a2d21cc7ba84477bc581023c6b6c84681874bece3c3325ad0406b",
-    "6bf3049a0fb62dc4c45d96f1581e18bb9c202837904a3bb7425e1a23afad1291",
-    "4e3a990ad823fcabce4b824f0bcb506e0756777997d552ab40f41c124fa95bd8",
-    "0435776935ad5070bee0bcf812230b1ca75fc7b6880b0205ea1ec0199bb84533",
-    "9c5ee4e5e51f33963f5c7a0f1f35767d410e1483e63c9290736f8647f829f789",
-    "d4e50756424c17fed5c63d46b37864d391ccd9879d3c204e3b7864b4e8ee7574",
-    "b0724a22f72d8892066c90610c5eb2a8cdc93958c9b8943502d62a06ca7cfedb",
-    "6bde0a0b2fc15cdbb1fd6b012403cd15c1a834df12f74c4360eabd4e0bf617f1",
-    "91adea718bb713ad01835ae3a087e509c41aeb3fc898ec73af35c236ce848f7d",
-    "384824480ac0ee55e5b0795e7f18fa123f5076025108f4f587e11c50d058cda9",
-    "01aebd2cc9dab47f4412958377abce899999346cfd5bded78458658b4912d7d2",
-    "59a5cc34d6ea74b198fa14ee09eb7aad3443ac7cae1e0e7e212bec2f46d8a51f",
-    "ba3b18379728b74fa9971fae48fe6ac49c35ba873dc16460471dd3faccb19ec0",
-    "33f0374d44be69b40355c9763467c37712ef095fd5fefd5a8905da8b4f03f112",
-    "0e60dbc17a923c18cc3a3df44ee90c45d88ac52e605c019ee3cf085d227732eb",
     "2b5c080b5c27ccc2d97fa53c942cd3485e73ca7f3bbf1a184425618925be9cdd",
     "792a453355c713524ba8e8207839dcca196f98a7760a54a52fe50f46df0c9d8c",
     "33ee032f80ddf67e89da2502ba28c3355a8b0ff62c43eae82e7554a1cae0c1e7",
@@ -4000,24 +3976,33 @@
     "603ffc95a76d2688e71417a5bd3ad0334f62c94297944f0f5c511d8287b3ffc7",
     "804fbd144ddb20e2ec5a4491373e88d9fa844faf77f9cf347052d125f88d6f1e",
     "8e3dba44806b2537e31330a4e13240b9516cccffab3005571c3da8353cc3ecc8",
-    "aaea14955ae58eeb83d1414ff5cce90cc58fc51e74c43202d7eb22c81eceaa3d"
+    "aaea14955ae58eeb83d1414ff5cce90cc58fc51e74c43202d7eb22c81eceaa3d",
+    "280b07130c6575242bcd8f078a552776baee2bcb166b7b0b1a37cc2fa0719431",
+    "d9ce3a5592f1b0a314179e2d7883c29182f73f988d8db87724a3077605b6ba62",
+    "5f7619765d6cd4160955f936e9d588adc0d2a09c45d0ab729deeb25d03ec0637",
+    "8a4cf61f46ba36115e2bff7bda51d09de3b9c19cc976973d74dfc34bcade21b4",
+    "4b071051e5b3dcf81e1e736e65dea446e452560f773bfe043268fe80565e633e",
+    "b370170336fb37f1e1219a52ed9121eb8f8d4a18b248c1e05e50b0b59cc91408",
+    "3a0b223709184ce55c2c9e1fbefd7106b254b38697e834a082422a19f0b0a33f",
+    "5eee8d9d62c13e0a32b5246c1ee91e300b77fddacb440898602e809f8d6b1b9d",
+    "ea938f927a7e0d70ef1dc6fc309da8f5aff85155f059204acdbb65b4157cb2e5",
+    "e066cffcf08fa33bc99fc2f91326758ad8028bb3849bd1676dfa211b2077c624",
+    "227620079e78815882bb606a84d89faf89afaa989ef601c2aebe188b4a6e9004",
+    "49e52d03f2de0ab358ee9f2ba689ab1dae0cb0af9a67445e818e3f861841581a",
+    "9c6138a0f66fc3aa3488884bbd247ac399950d185b814536483a188b6e8e987e",
+    "0a2ee544949f069b59b4a97010d51b76dab433ae49344690c2bcbe7474465266",
+    "d64ad50263c2dbdb66121e47adbb90b8ac9c39658403a4d7d73a260635467848",
+    "9fa5c09b4d76445a16d943196b4d81e8ed975115f5447071dea6ba4132950068",
+    "95269d94c4300cc0ff29c103becde2e6ecfb90975fefc62100d49f12f4ec4846",
+    "b32d615249ec168fa3c13bd9eec88fe7d478c8169fdf0d1c2de2b4cdb5c3329b",
+    "34a166ae0d30eafa50e1d0ce4b916cc4a311f902aec125a1d847f00cd93c062c",
+    "62767c53d09e8f03d921f009d212de59d188931c68d8e995dfe8beafbd7511ba",
+    "34a6b01f6bec29a7bfb49f91e8615d8b84fb3ae0d8bb8c1acc24a0463c9cb312",
+    "44f47ae79007d726b277e2ba5707b34fb1ea178666865a4a41f0bd7753c8fcc2",
+    "c6a8042d39bfca4555ae5df80b6ddca6bddeece4cb2ba3d7083031ea0bd1c01a",
+    "ecf1aba50a473f995cde19007620cbbc5c35d4a85f1defeb846486f6dc7806d8"
   ],
   "title_hashes": [
-    "7b798b95c456fb1f3654c8e231403c6a39477f12bb36470cb4aec651e4fb3043",
-    "b8e0a697fcd553f62d1eadd1555bb98f40324d98d063cf2dd079422a1e6bfca9",
-    "579db9011464365c5eb04b1f543e197e8b36deb7b88b08a406e3fdfa53fd56b8",
-    "195422bb36464c356fe550660f756011b385f9324aac0a71bac47a278d5ee16a",
-    "21c27f2c88638d3fe5c21d8f5857f9cfbd5cb25171355141f2d70cce547cfc9e",
-    "e50b773829f39d211cf28d317a5087fe752aeca100f6b2c704a4884c2b8bc323",
-    "9c22abf883c753d145086c9635e1277eaba3446615ffcb86ee3314a832fef1c0",
-    "c6374776bf3b5b013a0280d30b6c9c163a5932bc085c29cfda321fc32b398eca",
-    "ddd9f8b82b251c3e1dcfc1e0fea9733a219a2089afbd9991f6bb2b9c46f1da4e",
-    "ed9e50ec8008025dab1994c5f6c52307d0c854dfef57cd11c4217833b4d1fa44",
-    "1d46a5d969d9a96597cf549f2e7b03ec60b16a6e16375111ff531a8aa9c43421",
-    "a88dbb59257f7339cf469f951a426221033af4c875910a739d793b49af6744e3",
-    "ab4a056d17e479e787c8043ef5eff8ff44f18d6661cb00032c5ecde62f4f2f90",
-    "bda1fc5199815dc5c790b175027d92b20fe4a5bfce1f87e13a8a4acda9235d6e",
-    "5e1802cc220467abeb35def0b360c1b96f17137a42fed1ffd4efc5190f1d3250",
     "feb6c7fdb285e8e68b8a668166654457edf9d829cff047294ea04d7ab689cd6b",
     "661a607da267257cdaffe0da75b03f2f99276167455161cd05be50ef38bd7205",
     "539a5a384ded3c284a7250f40a8f5fa5a7c33e56b5af7dd3eac091bf792ad8f6",
@@ -8002,65 +7987,24 @@
     "8d3354151613389976c658a775121642c7687ec6caf243ee578aa513f4ea3e72",
     "f316a3358e80efa1beb2da73702c1c5e566bac23c0600a28cdfe8975143afa75",
     "c7935ba1f88b3ec55995293bc4973e53de13019acac740db25a8c27687bd23e8",
-    "cee5d6b327eeaa7e9955d03385d6bb0d906c39b5103d69462270943705b33ec0"
+    "cee5d6b327eeaa7e9955d03385d6bb0d906c39b5103d69462270943705b33ec0",
+    "4272f2e2d37f7a93d0c773d9211b3f5ad91c7ab7e4156f45086a7accc8451ab1",
+    "909fd0a4d49171851ad58b23caf42e13798f27305c3f44693ee49ef070cc73e3",
+    "02d4944fa8629c0af9bde776849daa45087f827a860540793347a649cd3ca6b3",
+    "2f0c01ffedf8b6504f22cd3cc570a1d5b3b06d390e25eeddfe564c46355065b0",
+    "685e3e399647a6d26c0f52fc40af1fd39ebc1f03efefe2759604782e95ab7296",
+    "f30229949f4e38a649635043e0e83b77e385dd4bba295da13b97bc9dd4622221",
+    "77183f9553b48b6cd3117e3ea9f3486662649dbe4459194c78af60a464b6e7df",
+    "aca726c34432bc4840ab069e90169489774eead7150449c6497b4e3c429ef12e",
+    "d5c5a5b8f3a23207ec4c90fc77fb8bc72314213aa6fb97f3024310987bcc9784",
+    "351ace71ad282c0adc5b2cea2613b0e1db5891da77aa61e53760c1a02d9b271f",
+    "698653285822ea177d348d888362e032e8d99b16872512569b3f9cc49425f473",
+    "7434fb0bef294c281152020aedff342feb29785da000f586dd058e7a8faf2cd6",
+    "661f55909183aa4dbea31d1866c5a69a274ee9335299e8505fd35ad5f1ac5021",
+    "ef0fd98f53e15eba4840ff650eb583d74347eecf561030757c6c956624e936ac",
+    "992af37b40d311c1cff14db7140f074a3590fa2cc44975772a6cb7255f199fe2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "조선비즈",
-      "title_en": "[MM] 공모주 주가 부진에 주관사도 속앓이…  의무인수 지분 손실로 IPO 사업성 악화",
-      "title_ko": "[MM] 공모주 주가 부진에 주관사도 속앓이…  의무인수 지분 손실로 IPO 사업성 악화",
-      "url": "https://biz.chosun.com/moneymove/minvestment/2026/11/20/YT2H4Y6LSBFBTL2K5AB7PB6AP4/",
-      "ts": 1795159062
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Why Kim Didn't Meet Trump, Despite The Hype",
-      "title_ko": "기대와 달리 김정은-트럼프 회동 불발된 배경은",
-      "url": "https://www.barrons.com/news/why-kim-didn-t-meet-trump-despite-the-hype-f98d3aa3",
-      "ts": 1795159065
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "国债期货收盘，30年期主力合约跌0.08%，10年期主力合约跌0.05%，5年期主力合约跌0.04%，2年期主力合约跌0.02%。",
-      "title_ko": "중국 국채선물 하락 마감, 30년물 0.08%·10년물 0.05%·5년물 0.04%·2년물 0.02% 하락",
-      "url": "https://wallstreetcn.com/livenews/3203067",
-      "ts": 1795159069
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "俄罗斯称击中一艘驶往敖德萨的干货船。（塔斯社）",
-      "title_ko": "러시아, 오데사행 화물선 타격 (타스통신)",
-      "url": "https://wallstreetcn.com/livenews/3203069",
-      "ts": 1795159071
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Three Kyiv Bridges Hit by Russia after Putin Vowed Revenge for Crimean Bridge",
-      "title_ko": "푸틴이 크림반도 다리에 대한 복수를 다짐한 이후 러시아가 키예프 다리 3개를 공격했다",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/three-kyiv-bridges-hit-by-russia-after-putin-vowed-revenge-for-crimean-bridge",
-      "ts": 1795159231
-    },
-    {
-      "source": "지디넷코리아",
-      "title_en": "삼성 반도체 사장 승진 3인방...\"사업 현장·기술 흐름 가장 잘 알아\"",
-      "title_ko": "삼성 반도체 사장 승진 3인방...\"사업 현장·기술 흐름 가장 잘 알아\"",
-      "url": "https://zdnet.co.kr/view/?no=20261120155142",
-      "ts": 1795159235
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Asia Stocks Drop in Wake of Anthropic's Record Debut",
-      "title_ko": "아시아 증시, 앤스로픽 기록적 데뷔 여파에 하락세",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-20/the-china-show-11-20-2026-video",
-      "ts": 1795159389
-    },
-    {
-      "source": "잡포스트",
-      "title_en": "한화시스템, 방산 수출 실적에도 4.89% 하락",
-      "title_ko": "한화시스템, 방산 수출 실적에도 4.89% 하락",
-      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=239947",
-      "ts": 1795159392
-    },
     {
       "source": "Benzinga",
       "title_en": "Nvidia, AMD Got Licenses for Nearly 900,000 Chips to China - NVIDIA (NASDAQ:NVDA)",
@@ -11504,6 +11448,62 @@
       "title_ko": "[단독] ABB, 소프트뱅크 매각 불발 시 로봇 사업부 상장 검토",
       "url": "https://www.reuters.com/business/media-telecom/abb-considers-robotics-listing-if-sale-softbank-fails-sources-say-2026-11-20/",
       "ts": 1795192441
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "VisionWave Holdings Acquires Critical Minerals Intelligence Platform, Targeting Near-Term Commercialization of Defense Supply-Chain Intelligence",
+      "title_ko": "VisionWave Holdings, 국방 공급망 인텔리전스의 단기 상용화를 목표로 중요 광물 인텔리전스 플랫폼 인수",
+      "url": "http://www.streetinsider.com/Globe+Newswire/VisionWave+Holdings+Acquires+Critical+Minerals+Intelligence+Platform%2C+Targeting+Near-Term+Commercialization+of+Defense+Supply-Chain+Intelligence/27378319.html",
+      "ts": 1795192468
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Savara drops after FDA says it will not meet molgramostim BLA action date",
+      "title_ko": "FDA가 molgramostim BLA 조치 날짜를 지키지 않을 것이라고 말한 후 Savara는 중단되었습니다",
+      "url": "https://seekingalpha.com/news/4675193-savara-drops-after-fda-says-will-not-meet-molgramostim-bla-action-date?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795192531
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Intuit stock slides as Credit Karma revenue growth outlook resets lower",
+      "title_ko": "Credit Karma 수익 성장 전망이 낮아짐에 따라 Intuit 주가 하락",
+      "url": "https://seekingalpha.com/news/4675219-intuit-stock-slides-as-credit-karma-revenue-growth-outlook-resets-lower?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795192534
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Bending Spoons projects Q4 revenue of $984M-$1B while outlining $3.68B Mailchimp deal",
+      "title_ko": "Bending Spoons는 4분기 매출을 9억 8,400만-10억 달러로 예상하고 Mailchimp 인수 금액은 36억 8,000만 달러로 예상합니다",
+      "url": "https://seekingalpha.com/news/4675234-bending-spoons-projects-q4-revenue-of-984m-1b-while-outlining-3_68b-mailchimp-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795192537
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "微软：新版Outlook出现附件上传问题；网页版Outlook和经典版Outlook未受影响。",
+      "title_ko": "Microsoft: 새 버전의 Outlook에 첨부 파일 업로드 문제가 있습니다. 웹 버전의 Outlook과 클래식 버전의 Outlook은 영향을 받지 않습니다",
+      "url": "https://wallstreetcn.com/livenews/3203482",
+      "ts": 1795192539
+    },
+    {
+      "source": "매일경제",
+      "title_en": "아르다 메탈 패키징, 13억 유로 변동금리 그린채권 확정..2028년물 차환",
+      "title_ko": "아르다 메탈 패키징, 13억 유로 변동금리 그린채권 확정..2028년물 차환",
+      "url": "https://stock.mk.co.kr/news/view/1203470",
+      "ts": 1795192599
+    },
+    {
+      "source": "The Verge",
+      "title_en": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "title_ko": "인류 수학자들은 클로드와 함께 권위 있는 밀레니엄 상 문제를 해결했다고 주장합니다",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "ts": 1795192603
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: MICHAEL SAYLOR'S 'STRATEGY' CURRENTLY HAS A $14,100,000,000 UNREALIZED LOSS ON ITS BITCOIN INVESTMENT.",
+      "title_ko": "방금 들어왔습니다: MICHAEL SAYLOR의 '전략'은 현재 비트코인 ​​투자에서 $14,100,000,000의 미실현 손실을 입었습니다",
+      "url": "https://t.me/marketfeed/1082697",
+      "ts": 1795192605
     }
   ]
 }
