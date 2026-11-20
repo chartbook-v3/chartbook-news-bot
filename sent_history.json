@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795191205,
+  "updated_at": 1795191350,
   "id_hashes": [
-    "a3a714b9c93efce163cb321afecfb6cc6ed01c0f9e5a2365604713a63082f065",
-    "9a23189d90f90fd1c5143f3a75d8ad0d3abd1f98e5f2d2de8a61e717c46ce847",
-    "cbf3be1d2ca5a50b7d1ca9516b1bd1ca342d376d4c559de88bfd468b1acf0cea",
-    "dd3adaf4bf1055051fdf60dab11b087ca138f33d5155f17292f35905d5421408",
     "a63e10a9b6e2f6340c9c2c1ed4399b8bc4edb0da81125599cd8b393cbfab2a69",
     "caeabb1812ead05d071b43e337d3b8b4ae02a611c9f68f4cf13fa84b15129977",
     "aa5373f0083e6b81c23f768ee651e99167be77db9648eacb1b7761dc7608c896",
@@ -4000,12 +3996,13 @@
     "a84904a928c7ecee946168a64eebe51942cae514be1ff7114e77d8bacd92efd3",
     "fb6fe5b20dcd01b68f10212e8a24a421094d6b4af581870e9fe5b3821a36631e",
     "5af55c9cd637f90accc6eacf1b62cd5c554b32c95a13739f0a4571e74b4727f6",
-    "830d2037fcc847982d64cf52be8a24bb3c7e448e1a0eed32d36470c4f1377a20"
+    "830d2037fcc847982d64cf52be8a24bb3c7e448e1a0eed32d36470c4f1377a20",
+    "5c544c603f79fdc1177ec0b823acdc67911c134ba5f41f2d99dd08ead606006a",
+    "c8bb3f476d5038a70c02dc5d3c3a0ab0d7dcd917e2e3248d9388979dd6e3e2f1",
+    "fb22e7b22a1389ca9f637e7f75514f95a1e6b26a74c55f4b84f3afb7108e4e97",
+    "bd8a05553e57129ac69388040282bd21b073b0d1cc7269ea2e511b57d9c041cb"
   ],
   "title_hashes": [
-    "4443ec0aadb2647c7c1e633856b30543bc2ea25bc42baca656f0286c312f954a",
-    "643526b06f6088d3d6b5ea94f5a27f827a9c6bfe3d0bcf150d67b5dc04a1e9dd",
-    "f76392a38dbfa5c7702ba6e3b5a4401f0d84dd7410b9321b2ed9a3099ae33376",
     "3f524d3d478eb2bc34e22ca7be32b69d6c20205502ec0b04472bb80f48b523e9",
     "b7fb274260e42aa3c717982733c5f19b076b68ca4272e16ffd7ded00280b5307",
     "013328619e57d284ce28219ad4e1f24ae29e44eb7e43eb17b18fd42bd5e20642",
@@ -8002,16 +7999,12 @@
     "4a2954a09586ded0d41a50fde3af41f1240f253791c89895c5334fc278d554f2",
     "ca5f9dac5f0f8d1bd5a889fb3536cc1325494bc3fc2a7e6b77b12025bc075a0a",
     "34566a8fb1fd8283eaf69e68f2c0a6e308d4b930037f759eac4f1fcb2fea1d04",
-    "95c571ee26f97d0b5388d165ed40817a5534af36ca853985da892ea8067bd87d"
+    "95c571ee26f97d0b5388d165ed40817a5534af36ca853985da892ea8067bd87d",
+    "6e66151acf77aadc74d206516ee658f89879c2f479b95e48bac86874aff1b470",
+    "949624fbc775d304cafc3c2441ec906bdce769ace793c0646f5f270756c1cc0f",
+    "b42fe8b56d753d2495feb93001faa3c48c4f2d5df5f93692b5e939245c48925d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "Rayzher, Messer form JV for semiconductor specialty gases",
-      "title_ko": "Rayzher, Messer, 반도체 특수 가스 합작회사 설립",
-      "url": "https://www.digitimes.com/news/a20261120PD207/rayzher-joint-venture-industrial-supplier-manufacturing.html",
-      "ts": 1795158532
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "SpaceX sells $32B in AI chip debt above 8% yield: report",
@@ -11504,6 +11497,13 @@
       "title_ko": "덴마크 당국 \"러시아, 래퍼 암살 음모 배후\" 밝혀",
       "url": "https://www.bloomberg.com/news/articles/2026-11-20/denmark-says-russia-orchestrated-assassination-plot-on-rapper",
       "ts": 1795191053
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "TANKER STRUCK BY UNKNOWN PROJECTILE IN STRAIT OF HORMUZ, UKMTO SAYS",
+      "title_ko": "호르무즈 해협서 유조선 정체불명 발사체 피격, 영국 해군 교전중재센터(UKMTO) 밝혀",
+      "url": "https://t.me/firstsquaw/194630",
+      "ts": 1795191229
     }
   ]
 }
