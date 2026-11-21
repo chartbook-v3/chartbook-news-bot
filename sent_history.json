@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795303413,
+  "updated_at": 1795303562,
   "id_hashes": [
-    "bc6391e6d517426914ead8960fb9cd0e4ad7de3becd89ca4cd5fdf90477d4050",
-    "2c374843f4cc4f9b50594fee188f045a57af15254d88d8e17f465a2abd5ee8a0",
-    "e88ea0f8c1b65e25cd97d594fd624a92864f04993e98d0a3730eaa99885fea5b",
     "5b3d2c2c84953bb66edc01885223c66c4ed252d313cdd50fd72b12f67f1d8ab8",
     "bac9f6d40059314d3058dda34701edf87a7e3be8970b1c1eff91790df0054334",
     "887cf8e1761bb56b75c01356f51996f58252d66c3f384cda8f4f23e1f5154adb",
@@ -4000,11 +3997,12 @@
     "a565dd17f273e39e8ccf55e5cb36623da7a0f3ebc4c0fd3d3a45b1b73683609e",
     "1f105fd2c3c6a70d96f8ae686fa7af1f1849ef4a7f22e1be5b630c67b7d28489",
     "c8d38408021c736f1d04d36f07ceb0caf67ea1fc6a167fa8a2775c9fda6ae916",
-    "8b6a0e040c06e7490f681603adda79ca0b6ab16f08ce7355eb8d08491b51efda"
+    "8b6a0e040c06e7490f681603adda79ca0b6ab16f08ce7355eb8d08491b51efda",
+    "1bfe22182033b71983e290f2ebed96ef8865b9c25111bb8880e8f0c04fe2d99e",
+    "25372b095b3b5519fc077e8d931cd81771c4ff3f2b448bcfd66b40c4fef53fa3",
+    "5a82ef5dc339843e0b510e1f746e044b75bbf0e434006be9588cae34acb8e618"
   ],
   "title_hashes": [
-    "7314f0398d9e99b952d14bbe8d2a7dbb2a5f8b27ce4c4fdd9cfa7396ae7b2f41",
-    "9a31efeb5c6b6cd31865ff8a7204fb2a00f44654cc31f8f625abcf17011cdf5f",
     "2e816ff3bda49d004be2e203dfeebcd81e49d2f5d49fa0e2645318c08c4565c4",
     "dcc24091c90cab0c8d6234c6a64d4b56400e297726e87de558bc0117c3b65fc0",
     "35a551a5990d0d95f80f36b1c8152d4e187306d875481e7aa0fe0cded33c93cc",
@@ -8002,16 +8000,11 @@
     "4d1e8638f9ffbd96033d8d70594f6bbc7e7e472ff69c4d2263b030e7d15cc6ac",
     "f384b63fb6edf5dd07a2c5d1b7156446b632498565e65b06483a5a455793fedc",
     "f8e4bfa0da1fae1198293f0605fabd38042b21fed8552c2506db320d2fcbb1f0",
-    "5826213374437ab8d09d9e362d019011d0fbaa6de6d35e2aa0d5e165b8559249"
+    "5826213374437ab8d09d9e362d019011d0fbaa6de6d35e2aa0d5e165b8559249",
+    "a921c2cf1bcbb0ece5833aec6e8b341de14fbd6a474376f09ebea6d88e22be95",
+    "d19a09ce40ebd50d82abc844aa5ee6388ece1c8fcc8e1c7a078bba8d08c82118"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Anthropic CEO Vacations at Italian Resort After Public Listing",
-      "title_ko": "Anthropic CEO, 상장 후 이탈리아 리조트에서 휴가",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-ceo-vacations-at-italian-resort-after-public-listing",
-      "ts": 1795208681
-    },
     {
       "source": "WalterBloomberg",
       "title_en": "UNOFFICIALLY, FOR THE WEEK, THE S&P 500 FELL 8.61%, THE NASDAQ DECLINED 10.02%, AND THE DOW FELL 8.02%",
@@ -11504,6 +11497,13 @@
       "title_ko": "초대형 상장 두 건에 세계 IPO 시장 5년 만에 최대",
       "url": "https://www.g-enews.com/view.php?ud=2026112208095795089a1f309431_1",
       "ts": 1795303204
+    },
+    {
+      "source": "X ｜ THE KOBEISSI LETTER",
+      "title_en": "Anthropic is sitting on an enormous cash pile: Anthropic's cash and cash equivalents are up to a record $237 billion following its IPO.",
+      "title_ko": "앤스로픽이 IPO 이후 현금 및 현금성 자산을 사상 최대 규모인 2,370억 달러까지 확보하며 막대한 유동성을 보유하게 됨",
+      "url": "https://x.com/KobeissiLetter/status/2124282426209775663",
+      "ts": 1795303435
     }
   ]
 }
