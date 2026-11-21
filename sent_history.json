@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795232077,
+  "updated_at": 1795232237,
   "id_hashes": [
-    "c44d495702d555aa5a7ae72a4ec1c0e5bc97f11f519d7ada761f9121b61d373b",
-    "37259d1ce147d82b97eb2f2a704be7784c17457f532845629ef6e82a1f19d1ba",
-    "1863163e0a7e33ed0832493d15ebf2fdc0f43b7d95e2154579cc577b7c01b078",
     "18658060e82106b2506c3084d8fec59955b87c6628ec46c475287ca2e37b529c",
     "be8629fe867983d3b63ca8480dcd5d1a385ad5e21c2e62cdad97c0d98990603a",
     "adbc512bc7df63c390d673837c16dd8f123c2fa627ad8cef5ae5f70a052865fb",
@@ -4000,11 +3997,12 @@
     "40746119ec87313624cc130f2eca4e19636721234f529600b0f1c3eb4e697514",
     "a7c9a40591688ed6fb36ca6d0ac514f61fafff4af1bb050f370dff94b915eddc",
     "0e5d7f0be41fc5e2f795d5565d74d33e5d736cbc5525b4e56b769cae5486b60d",
-    "ccc93873bb9f1273c7f9757b340a7e6665551f63a44424647712887b56410880"
+    "ccc93873bb9f1273c7f9757b340a7e6665551f63a44424647712887b56410880",
+    "fbe22ec20d8e23ea16ee86d513c1d8136ef0bf73c51068f58ec308a956bfddb0",
+    "4a20e2e604ab78ec1b9e12d6431ecd4a825c6053598c9b6cf0052d401545a4cf",
+    "6b200fe6fb6c7a5c42ab63020602d31b3903fdeaa45b653050937a66ad2c2672"
   ],
   "title_hashes": [
-    "c24c57bfb8908fecc810b327d9d0c66aee40b1543c4f4ce30d97beadbe017810",
-    "40b7c1a6632744f57b46fe786d10d2106ffe009c87af2fe69fd5199cf7136e82",
     "ba00601479cf03d8d57315b21bf966bd402d2125aecc4daa3b801b99a44ebc6f",
     "91c66779bb08779b13d3f113e7aa3bd188e141aae2937f4725632458018c0c72",
     "ac110ee40499682b6de7561fc0c484917c71ce23f51f17200d5d12d3cf5ca9f2",
@@ -8002,16 +8000,11 @@
     "d06d7ce3bdc1fe0b437c9112750770c1a2e3e3fa4db0d045cd049257c4ef8666",
     "72bd023cecdae33ef5fdc65406dec7c091005bda26c785cab998a0915f9168cf",
     "e0e34db4d33739bca223e72b6639ce6f719f3ca5c7ee8673b6692be2d53e8827",
-    "5fd2417aa06349ac69d5fb388299549df920de9455b516744f29696330604822"
+    "5fd2417aa06349ac69d5fb388299549df920de9455b516744f29696330604822",
+    "41d38728b6c6d61b866a86103dae9e4c806009e30863f183fc457a40024386b0",
+    "7914b0b931d90a0944a120d2814bafd0c919b6d25067b75f43e59a5d790dd0d2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "JUST IN: 🇺🇸 DOW JONES OFFICIALLY ENTERS CORRECTION TERRITORY, FALLING 10% FROM ITS ALL-TIME HIGH.",
-      "title_ko": "다우지수, 사상 최고치 대비 10% 하락하며 공식적인 조정 국면 진입",
-      "url": "https://t.me/marketfeed/1082705",
-      "ts": 1795193310
-    },
     {
       "source": "Benzinga",
       "title_en": "Savara Craters as FDA Delays Decision for Lung Disease",
@@ -11504,6 +11497,13 @@
       "title_ko": "트럼프, 푸틴과의 유대 관계 고수 속 우크라이나 평화 협상 불확실성 증폭",
       "url": "https://www.benzinga.com/news/politics/26/11/63514623/trump-putin-relationship-ukraine-peace-deal-russian-strikes",
       "ts": 1795232076
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: BITCOIN FALLS UNDER $57,000 FOR THE FIRST TIME IN OVER 2 YEARS.",
+      "title_ko": "비트코인, 2년여 만에 5만 7천 달러 하회",
+      "url": "https://t.me/marketfeed/1083084",
+      "ts": 1795232236
     }
   ]
 }
