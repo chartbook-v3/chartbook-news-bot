@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795240491,
+  "updated_at": 1795240636,
   "id_hashes": [
-    "9bd349a1c5d357d72a9a56c779aef15f54ba7d8c0c955901ed852ef59464ec39",
-    "6239cc035c38092ebe1251469a13edee3f30e0d71db351ff9e1a9e3b0e1a0dba",
-    "dead03d28b13b7db27973a00b03f8a2db2acac1251523d6c196231ec49ae150f",
-    "d2b4cf0ad7563206a7a2034b9576d3efc658e1cd5b960921ea34fb606fb4d7ce",
-    "75c7b62e13868621191ff89ea478a709b0ec4fc885530118fe6218813b6bfd43",
-    "bfb26c31b8b04cee18dd7f24ebac1779db740286e967e36092c5a78ed81c6899",
     "23ee55315ff27f137b7b16cf34dcaa900fc7550e4d80ff6e990449c135fb17e3",
     "44b322ad49952f10ccec57aedc5f5ae89659d021e47c10a5a23aa9ba5e888786",
     "b77299bb1ac235608b0c3261712c65fa519792c2e19d8951828a5205f74776eb",
@@ -4000,13 +3994,15 @@
     "bfb2aecf54c7482da0cfc097fd929001021b7b464da7e94548e9d8c5d56164cd",
     "9537e26dad50514ebc2a2a3fdd7271d2e14502d574fa4580454c983ba19e6f62",
     "9bfc344744836a4a1652cb5cd538c337402e8cd112fcaaab6a830abef4ab4d48",
-    "5ab96c9ab30ef3ce6480cd948fa2095c3e4bd8d51c8a50084c9bfdeed75c1b0a"
+    "5ab96c9ab30ef3ce6480cd948fa2095c3e4bd8d51c8a50084c9bfdeed75c1b0a",
+    "39b631bdf8815f07ced6c6614125a3d9d7e98dadb7c4c7fdd96d8a147a338c82",
+    "8f56e08067b6a7e68c037d1a9ba483c7963ee314b592292c8327e7fc2d8eeddc",
+    "0ea79da2c200e35f31b9d695c9b2afbfb4ce21449f424a206ef7d4c50582ff52",
+    "839b31067cc7d3de811d4055569b31bbd37fc0a6a2f3f22686867b0ced25d2b8",
+    "b2e75e4e360e90db079a76c1375185fac760729fec62d6d9e3dcc4a2df82750e",
+    "a08abb6f4a97fee50f7c151d95e82eb82981e043756d06214a9197701f20bf99"
   ],
   "title_hashes": [
-    "60249fe7edf498d6dfbecc0b2bf2d11fa0a4f70d1b6196f845b513e4f5f16c1c",
-    "3a70f23450259236ef83508db97c8e209ccfc8446746ffb070137346a54c4dfb",
-    "6a3d8233bc361bdc31fbb694caa06303da6237838d4e18aac2173351823b263f",
-    "06e8ebd8df628dd34640dc4377b27afce25daca23090638155f2c99d36b7da24",
     "1422aefc1ba7fbacc7be7701ccc71d5bf5df87715a896ff721a851157f83310b",
     "211cfbbb2b9e6dcfc064ae5151d17f53fc29b7a00f836dbca3bc1884acd15abd",
     "e8dda1eafa85e1a269c4b3f028bc136b814e2c0f01419c5e9bc41a1e0a50f518",
@@ -8002,16 +7998,13 @@
     "734befdcf476e3f37d3a2747a9563faf582ff67a6f41f8d9cd4b184db0aa655b",
     "17dad06cbebf7c25ac7531a8dcf03d1a0a57c61ee9fe5ab33d36e88ff7b7319b",
     "9f15493393b2f8cd59b83112fc98fe813f2cc439a8f8340a11ec39b7d21ef86f",
-    "9f4cf633464cd9773e4fce2a468ad253e50e9d515480b9ae99071e02cb8eebfd"
+    "9f4cf633464cd9773e4fce2a468ad253e50e9d515480b9ae99071e02cb8eebfd",
+    "c09670cbd80d37da346617a262044482e342f3e296395e4eaf85d3849291f879",
+    "9a41325b162855d2ca3a2d79b06cc4f739f70493eb630a16c0f28bbf4f8e7f54",
+    "590d277ab18f0bc648f79a3870c76f2b05189ed86f4cfe6d99f22a6ad0cec1c4",
+    "55a5ec6e4b2efce0baf152b2b224b1e7687858811519f9a5ea50ae197346406b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Arizona AG asks local zoning board to delay vote on SpaceX's $50B data center: report",
-      "title_ko": "애리조나 AG, 지역 구역위원회에 SpaceX의 500억 달러 규모 데이터 센터에 대한 투표 연기 요청: 보고서",
-      "url": "https://seekingalpha.com/news/4675247-arizona-ag-asks-local-zoning-board-to-delay-vote-on-spacexs-50b-data-center-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795195517
-    },
     {
       "source": "Reuters",
       "title_en": "Anthropic's IPO bank closed position meant to stabilize stock, removing source of support",
@@ -11504,6 +11497,13 @@
       "title_ko": "S&P가 쿠웨이트 신용등급 'AA-/A-1+' 재확인, 전망은 안정적",
       "url": "https://t.me/firstsquaw/194775",
       "ts": 1795240489
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "S&P upgrades Zambia to 'B-/B', citing improved credit standing; outlook stable",
+      "title_ko": "S&P가 잠비아의 국가 신용등급을 기존 'CCC+'에서 'B-/B'로 상향 조정함. 신용도 개선을 등급 상향의 주요 배경으로 꼽았으며, 향후 등급 전망은 '안정적'으로 제시함",
+      "url": "https://t.me/firstsquaw/194776",
+      "ts": 1795240575
     }
   ]
 }
