@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795251131,
+  "updated_at": 1795251318,
   "id_hashes": [
-    "b700fcf1b8bdd5a42b592249d4fd8afb86fea1958cb0fa2f3dcdc5fb5b3f6014",
-    "6bed492473030e1178b4f4ff100a529f10b9f740959902c57bb08e6a380e0e45",
-    "e1741f714759833f32ad35c10c655a995321d8534e5eed1bdb34f78521038289",
-    "c39cccf679c3d9a9157987a7257db1281170e28435afd92e89668e42b45056dc",
-    "1ede711adf69219b325b5d0a87a616da96c4e427094eac8b6ed7d004f4acb2e4",
-    "5ee17436ebbba8f7724c486adb8b3a6762e92be631bca1058b99c7507a0a2ee6",
-    "710a886f9ce502c60cd8b9ed1348bab60eec9d2da1760f9c6acce374dae624bc",
-    "fd4c6aeca10a585835b576c4473842597bf534f4e4a63768599dcfd03273578e",
-    "f2aef12ba64932fbc130e9b95a13e943c97be4297e2e4e610f81400674dc37cb",
-    "ab853027e98f2bdd0239a391087f8451230ccf7254695644f6ccd7fc9ae2cd6e",
-    "33eee1f2c03b63465ead71911f350a848f82a943985f00040d71c16bb871a281",
-    "0232e29b046deb08a1bf87f440ae0c027580b050f8d31dea99b23c807deb57a1",
-    "1c7c7b591d01fe0a946b51e6b40221b12f155b3e608f91053077a482f3c6f5dd",
-    "b24a8c8d16e78043ebc309a9cc5991efa63d0a17b4b1d0995f70a69e9ca8d654",
     "63038b5922072b41eea8d16b4ffbf4f07148d4bd8b16a10d278826024f20bf11",
     "327c4c4971265261a8f04896aa350b5855176e79c44e580d0596cd8751417c76",
     "d5a1d1c88c1ed701e1e9aabae50319eb8d0f89e5e55ae7f0f8ea9725db7e3aa2",
@@ -4000,19 +3986,23 @@
     "6d09091cadb619cee608f605f73ae42896e3a09f0ddee7bef3d8cfd61e324a97",
     "b57ae494e2ab71db58c796b7d482efe7ba9a81a69443c1f2f00a1fe71c42f4a2",
     "bceb732cc9c0a365caf33e52c71073890f0860ba8ff8dc07c98ccffb9c8ed990",
-    "47216de1d45265fd0cefad29daf2898319b09e148bf95fe41dadec3edc6db726"
+    "47216de1d45265fd0cefad29daf2898319b09e148bf95fe41dadec3edc6db726",
+    "80d44752156f44b95144bda0455c03033bed2c437c07923bc5389c789119cba7",
+    "3871d67773fea6ba4f6e4682c8f2b7343880a24a1b3dfb37c2cb9c068c6ebc50",
+    "31118e8e431d3a1cc3c011dd4634e5f30ce0e216d92746cba7ba4476f79b1557",
+    "0afc897febd5aa1799d65f3137f70db4cea95fb7401bd004201d3c4b737115ab",
+    "6f0a7f773e7ea76256790a4fd1d24d0618d53545e71056a69c12dc3aa1bf5349",
+    "98da8ac6c44753ec469199a9626e32238997753e733744fcb7e0b1d012fb3ab9",
+    "0e55f27eac36af1ce415d1378f2c160d888c794c29ade26829fac7c2a3deb2c9",
+    "5702a2265d4f5c568772750661f8246dd6347b838336869db98e82b35ed15314",
+    "c9f43104722f6c10a28fbdf256b98841025b7f84872430bd06be2135e4ba83b4",
+    "033a2f47176f53f3b8079a3ddb8c43aeb0f54c73434412764926408a3ec266fa",
+    "5b96bbe292d65c3491361d8a8c1b860b5d26c5a9723940834088693b54722d54",
+    "c64d46ca50e9aeeb86b306ae8b79338bab3c577af55e72fa34a6e0619f352c63",
+    "83e51a769907ab617baeb72537bdd0a4bfbf3e0a38f512f71f0e7dd7c8d3c8c6",
+    "077345aa63250dbc22ee40b28c95ccde9830562ad6352d481a597767482455c5"
   ],
   "title_hashes": [
-    "c2432544067c4a682993f6a1edbc6df722ad6e454513d26d1809c9af81039cbc",
-    "607b3917d7e6b43a79dfdd8a77979ae1f0ad57a5444ebea659e9285f42a49b45",
-    "6c3ff1daffe9f8da440090a37deb23c331bc8fd43a10d27627d114a957fee158",
-    "84f18a41c855921fb8823b33f8c5cc2399f3a3225d27ba771d65e0ea439978a2",
-    "0fb4fe82af2fb348f1976d9fc525072c9bd622e6a69c7ded5afac5522efa2367",
-    "948711b7710c0a983af095207993f595a5c4f5df1aa6b3845b7f05835f195b56",
-    "a014e9e40f3817d27bca79d5db5a7bfe3250d89de115be3d4df7cee9a35b0d8b",
-    "1265d529ac63882b9ed7c051b82fc4d69ea1b3a1b305627675f6e6f5a4c3001a",
-    "5c1310c5a533a4e15feb79721a4f78b9b2148fafc2c5d47061ef78fd5f04f4a4",
-    "e7e7e2ccd794562dfc492e58b38bada1ee9faead17435366bcff349afe02fcf9",
     "2a9dc976e0692219de15da360a31a12fc502d137a06027cfc3f844ec60380ec2",
     "72b74b3464781ca749f2b9c6bdb5c8bcf578b321c5e70e5690403fbc6f9a7b0f",
     "66a6fd3b19ffeb7cda2fdd9ca285fd2a69d3cdfc1b7662b711346ab9b475deef",
@@ -8002,30 +7992,19 @@
     "99331856db60822089c39e3e9c0a2137ca136f9173af6d84dd3ce12e1be0b56a",
     "8d659614daca9999c199ab9c0312ebf983eaf3d9036de93eb3de2c7c670f9266",
     "b07ea2f888a699f42526ddc845a5b6561a46aee11f7910627c28d18df7ec3a58",
-    "cddce5a61fea4a44d4a41282c12e1b4fc5212935c59e067a2abd30b0dcdeccf1"
+    "cddce5a61fea4a44d4a41282c12e1b4fc5212935c59e067a2abd30b0dcdeccf1",
+    "4e81dfbb484d9e285fee2b921e8a751e2be637e484e1e8fba9712723f6cfb817",
+    "7de73b2cb08b6c8e90a332b21f4aa22ccf5f9fed7750b50a05e7103b47408f6d",
+    "487ed6db904846ec25045883df820a696390e8c5ce4b055b7939e8ed18a400c5",
+    "f09ce61e636b23464c398b2114427e6ae4defc44a2a0bc5b49f2c7fc287ff4ca",
+    "a85477bf4a0e4ac6f4ae297330b326ca8adf6269226a6db2a0212f01cd685a10",
+    "a21854fba63bd4604084a184b19bc3cb9a9be4ce9763e9475ab12e22f06efb9b",
+    "e1615e1ca81e32981b73b5daab89141d38ccf61d88f5539badd505de60d4f120",
+    "0f1e2e7df5dfc0fd8208273cc988b7e63f27feccce031838d81a49d6397a361d",
+    "45996227892b1948f61d9c9d48112f5aba2a24f1fc95559ebffee0b7c96107a7",
+    "f04a17a225cb83fe97c6a84c7457c4a43bd2e57ed467b07c40bcd8ac109a0179"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "TRUMP: WILL NOT ALLOW BECAUSE CHINA WILL TAKE ALL OF THEM",
-      "title_ko": "트럼프: 중국이 다 가져갈 것이기 때문에 허용하지 않을 것이다",
-      "url": "https://t.me/marketfeed/1082809",
-      "ts": 1795196413
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "TRUMP VOWS TO PREVENT DATA CENTRE PROJECTS FROM MOVING OVERSEAS, CITING CHINA",
-      "title_ko": "트럼프, 중국 언급하며 데이터센터 프로젝트 해외 이전 막겠다고 다짐",
-      "url": "https://t.me/marketfeed/1082811",
-      "ts": 1795196477
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "\"트럼프, 민주당 의회 장악 전 우크라 평화협정 추진…종전 시한 '1월 초' 제시\"",
-      "title_ko": "\"트럼프, 민주당 의회 장악 전 우크라 평화협정 추진…종전 시한 '1월 초' 제시\"",
-      "url": "https://www.news1.kr/world/europe/6361470",
-      "ts": 1795196543
-    },
     {
       "source": "Wccftech",
       "title_en": "Chinese Researchers Beat Quantum Computers & Use Classic Supercomputers To Solve Problem Set As A Benchmark For Quantum Computing In 105 Minutes",
@@ -11504,6 +11483,27 @@
       "title_ko": "폰데어라이엔 EU 집행위원장 \"러시아 하이브리드 위협 현실화, 대응 수단 갖췄다\"",
       "url": "https://www.financialjuice.com/News/9862908/EUs-von-der-Leyen-Russias-hybrid-threats-are-becoming-more-real-less-hybrid-we-have-tools-to-respond.aspx?xy=rss",
       "ts": 1795250829
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "EU'S VON DER LEYEN SAYS STRONGLY CONDEMN ASSASSINATION ATTEMPT AGAINST A US-UKRAINIAN CITIZEN IN DENMARK, ORCHESTRATED BY RUSSIAN INTELLIGENCE SERVICES",
+      "title_ko": "폰데어라이엔 EU 집행위원장 \"러시아 정보기관이 배후인 덴마크 내 미·우크라이나 시민 암살 시도 강력 규탄\"",
+      "url": "https://t.me/firstsquaw/194792",
+      "ts": 1795251221
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "EU'S VON DER LEYEN SAYS WE STAND IN FULL SOLIDARITY WITH DENMARK",
+      "title_ko": "EU 폰데어라이엔 집행위원장 \"덴마크와 전적인 연대 지지\" 표명",
+      "url": "https://t.me/firstsquaw/194793",
+      "ts": 1795251291
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "EU'S VON DER LEYEN SAYS SOON, WE WILL PROPOSE A NEW EUROPEAN SECURITY STRATEGY TO REINFORCE OUR PREPAREDNESS AND DETERRENCE",
+      "title_ko": "폰데어라이엔 EU 집행위원장 \"유럽 안보 전략 강화 위한 새 방안 곧 제안\"",
+      "url": "https://t.me/firstsquaw/194795",
+      "ts": 1795251303
     }
   ]
 }
