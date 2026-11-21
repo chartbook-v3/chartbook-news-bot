@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795302963,
+  "updated_at": 1795303118,
   "id_hashes": [
-    "fb565551db854bc7fe0ad8a77224e10b728082daeec9f0aaf774c007986ee32e",
-    "0e2d64253bbafa407add41c8bedec09d707e19f1e0ac3da952dd801cc8a77ed0",
     "3f44a99cd6c8dcd7da378c8ae3d752b9816bbafc4ddc71e31557c934d69748a8",
     "22d1594f5a55db417fb44c0ec969414619f6824b87ac589204083ca90a91fa1f",
     "a212d092ef8672219af1305ffef7e40d6c7d508a6aeb01d472dc0af656f0850c",
@@ -4000,11 +3998,11 @@
     "3304172f005c4157df8ae49c3c7b8c45183d89b05e1911f730504fc0baaf0c0b",
     "35e54a59691709cb989ed4b4a9b39c1fc8bf04ebd89f6459481740af20d02998",
     "715fa59508d8f40d7c5abd1aecaca995aee38c25b82ea49b0e93cce27549981b",
-    "0bc17d6c91b5e812d3f5d8d58419e59fbf543872f95c61bc0c3917fe7343c99f"
+    "0bc17d6c91b5e812d3f5d8d58419e59fbf543872f95c61bc0c3917fe7343c99f",
+    "83abede15ac97cac2eb101e2e759cd0997d2943e1130638eb172378d2cfd11f0",
+    "8e381acba9a7a79cd0861c23e6594f339750e7491172e43d4557fc3bbc70bc2f"
   ],
   "title_hashes": [
-    "ee3dae8ee219a686d23d08a4538d6882ed1cd51f49966223cddafb8d37bac715",
-    "85b8a609f6b31df050dc4ba99abd407b103b3cd31cf1d1d8e2d0aeee14f65c09",
     "ba35fcb83e04c7bac2a6ad068ddfc34666e3ec7bb7eba12f9667a447c13667ed",
     "31baad08c22e3bc3c8a0a065ab5159ef43a06128ec3df04736f9133a84e3d430",
     "9efdef9befbe90b3d1664e732b786479fab5e866355d240d32ccd465aee4f87f",
@@ -8002,16 +8000,11 @@
     "3cee4644337faa94188e266e90b555287b488de4291628f5c3f1b6c190e66b69",
     "b63e1a58cf974c020709b43b546d6ce162d941509e4c61f1aa64c91567baf466",
     "405663bca2bca8612506c33a343af1d8ed83d67772dc929936bbf92783aa9994",
-    "b60ac0b0cb8d047f08b440f0cfdd058e00f1aa6fe5c56cb9b633c9fc4524e8f0"
+    "b60ac0b0cb8d047f08b440f0cfdd058e00f1aa6fe5c56cb9b633c9fc4524e8f0",
+    "cc3e26ce40e5a73ec6fe0693f5fb368c9e53d4c0d6a8b4281c0272a7079122a4",
+    "4d1e8638f9ffbd96033d8d70594f6bbc7e7e472ff69c4d2263b030e7d15cc6ac"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "$ANT | ANTHROPIC CLOSES 9.1% LOWER IN SECOND DAY OF TRADING",
-      "title_ko": "$개미 | ANTHROPIC은 거래 둘째 날 9.1% 하락 마감",
-      "url": "https://t.me/marketfeed/1083010",
-      "ts": 1795208627
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "万斯：袭击伊朗的决定由总统特朗普作出，自己的职责是支持总统",
@@ -11504,6 +11497,13 @@
       "title_ko": "엔비디아 흔들릴 때 판을 뒤집을 기회 10년 전부터 준비한 진짜 대항마가 온다",
       "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445868",
       "ts": 1795302204
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "\"불닭 넘어 건강식까지\"…삼양식품, 실적보다 연구개발 더 늘렸다",
+      "title_ko": "\"불닭 넘어 건강식까지\"…삼양식품, 실적보다 연구개발 더 늘렸다",
+      "url": "https://www.news1.kr/industry/distribution/6361176",
+      "ts": 1795303117
     }
   ]
 }
