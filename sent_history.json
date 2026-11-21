@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795264027,
+  "updated_at": 1795264176,
   "id_hashes": [
-    "fb48667e12c1eccdb2f98c310d1db8c9128d242fb605012bad15628a222477be",
-    "376fcf0e755714724c3e0dd84e038152846889ccdc095fca35aff5e18d1ede4b",
     "6aa49e6a53ef254dc8e5f45189ddf42dfe606093a2b10f68bff4d74d27f75b68",
     "2a5a4884d71695f59786fb202b69e325a01df4c69c0514f7d17bac09de2a0c2a",
     "17fe4153eabb099a274c93a73128ff78c7501031d440b614ea70cbd6d6f78650",
@@ -4000,11 +3998,11 @@
     "4c6ea96b9ac7d5d3ad07609718ac3f5684195267ec1da458b17d822d8b5be4af",
     "75b1c7114a0054d9ee5e47f7221254976aafad38ccc0fef2c09a83ea16848794",
     "80b510e2a6026de9a4c329574b5ef031f5c863e114bb2a616384781ea511eb89",
-    "bcbe2e9d332d7663322677cad5d5113064b53b2eaa3c35e656fd443e855975f3"
+    "bcbe2e9d332d7663322677cad5d5113064b53b2eaa3c35e656fd443e855975f3",
+    "c4f8a0dc379831aadc080fef8e730b20055d3d6dd82dde3295abfc5ca4044ddb",
+    "18f1da551381cc2d18db81be1e0cea436f00eef4bbc160151fe5886e93a5277e"
   ],
   "title_hashes": [
-    "d413390c70db4871f68b7a46281e20ab88b96c09b109f68a88dafe1e70ccdb48",
-    "6d24f4435b524245c2b8d5f79699567f9dafed58b902d1e46975a73d648b47b6",
     "3ef4f075358370b94777c33c39a527b156942bb196cae33aebe6f93b927a267c",
     "18da070d93b7b5031bf57b653b1bbc78ef93476e0bf5b4c44321ef5ad9351106",
     "5b73535a35a1f569dc75c2b1c65cca012f2649623dd697f517051bf550e6c076",
@@ -8002,16 +8000,11 @@
     "08b80e6bca6ebce95edd129aa621d0914d54fc844a8eafab364306932070c7f6",
     "0a97333d724eb115fc1b6b1ca7232115b4eca1561849397b524bdccce9ef842f",
     "334425afff7d6245fc3b179ebb3f0cb7fc1484ada6269dbc0ae176ac8745e253",
-    "25d82aa0939672033d585abe15cbcf0d5e28a434859be1f7d92a06e63a3489b7"
+    "25d82aa0939672033d585abe15cbcf0d5e28a434859be1f7d92a06e63a3489b7",
+    "a6f68eda7d95d07016215c2dbd3708bb9e0ba285fd662187e28285c90afd4955",
+    "dcd4e75e944e43607711445849e22e71c81c56244e8976dbb4f6fac4fdb3b00b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Microsoft to Pay Top Cloud Workers More, Crack Down on Others",
-      "title_ko": "Microsoft, 최고 클라우드 직원에게 더 많은 급여를 지급하고 다른 사람을 단속",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/microsoft-to-pay-top-cloud-workers-more-crack-down-on-others",
-      "ts": 1795200604
-    },
     {
       "source": "뉴스1",
       "title_en": "[속보] 트럼프 \"핵무기 없애고 싶지만 절반으로 줄이자 말하기 어려워\"",
@@ -11504,6 +11497,13 @@
       "title_ko": "백악관, 직원들의 민간 부문 겸직 허용 특례 축소",
       "url": "https://www.financialjuice.com/News/9862973/White-House-reduces-special-status-allowing-staffers-to-remain-in-private-sector---WSJ.aspx?xy=rss",
       "ts": 1795263576
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Capricor reviewing operations as FDA rejects cell therapy",
+      "title_ko": "캐프리코, FDA의 세포 치료제 승인 거절에 사업 운영 재검토 착수",
+      "url": "https://seekingalpha.com/news/4675389-capricor-stock-down-fda-rejects-cell-therapy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795264049
     }
   ]
 }
