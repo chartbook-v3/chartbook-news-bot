@@ -1,7 +1,6 @@
 {
-  "updated_at": 1795251918,
+  "updated_at": 1795252082,
   "id_hashes": [
-    "bbf8c200f07c66f915ed1dae4c89ed67f76cda57ab6f81614d34088bbe78254e",
     "2b0cafbd1763225d33d6b3ba398393c548cf3c415e74e9130368b5db3e9bd66b",
     "7b0a00950afddd47e32cdd83667eaeeb8313a614c4014960635f293aca6898b6",
     "a11db7810839a12218f7633fa6ad0804466692db65a71f650ae79758a5b376ae",
@@ -4000,10 +3999,10 @@
     "c10c048bbbecdb72ab3259bb1958aaa6e10f49b18ba7363f78c2dc6414d7249f",
     "01e43c9c25d8170e9184c88e007b8ae823baedefa08c34f9d951af2db2e83b13",
     "ad7a61cc872c81c2e6e26cbb3713ac74a94c9aff8b1bb368efd69b551e6b9c2d",
-    "aaffceb99c67965b141eb0dbe76de337f6696f28520e5f7049254d52bf14b437"
+    "aaffceb99c67965b141eb0dbe76de337f6696f28520e5f7049254d52bf14b437",
+    "6606621e6cfbab0091913ba6db29a39fa4a71f396c7bf393247765e0c86100e7"
   ],
   "title_hashes": [
-    "a2c7fc1b31e47b53f27e65b79c2186c50dcb1d541965eb36152184042a2561a8",
     "d13ce31388cd1c11e43529494263cd3eb4acc3e2e7c4eb526ed9e8afe68f662f",
     "70a1526ae781a1538681253d6132395d2b51fea5d10389101cba042fc991fdf3",
     "f0dc8fc5e1ae882b54026c4b7a32e289ee0577135d13b1e01c70267034c1727f",
@@ -8002,16 +8001,10 @@
     "3f655500b3beab2f36917c524c560d9d4bf2a467a7576f1c09ba016900e7e6a0",
     "7bb5584f6cb339c19cab2afe1da91d7b2e445f713f60eb12ff2eca092272fb7e",
     "b7d837c758bd0449a555c016f47670c39acb6e894f6dfaf6f9d52bd7121bc698",
-    "88d1ad30a3b3869f2d1584aa8c798ddedfb8698d62e220c7436dab9d00c5fc90"
+    "88d1ad30a3b3869f2d1584aa8c798ddedfb8698d62e220c7436dab9d00c5fc90",
+    "96cca4544e85e6d6e629ca1b0cac7cb7d633e28ac50fa2aee93d54d26b62624b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "ANTHROPIC FALLS TO $84, $1 ABOVE IPO PRICE, NOW DOWN 13.6%",
-      "title_ko": "ANTHROPIC은 IPO 가격보다 1달러 높은 $84로 하락했으며 현재 13.6% 하락",
-      "url": "https://t.me/marketfeed/1082815",
-      "ts": 1795196553
-    },
     {
       "source": "MarketFeed",
       "title_en": "TRUMP PRAISES ANTHROPIC, SAYS HE HOLDS THE COMPANY IN HIGH REGARD",
@@ -11504,6 +11497,13 @@
       "title_ko": "미리 본 전장의 미래…\"우크라이나, 기관총 장착 무인로봇으로 반격\"",
       "url": "https://www.dongascience.com/ko/news/80975",
       "ts": 1795251768
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Helpware Completes Support Consolidation for Healthtech Platform Following Merger, Reports Improved Resolution and SLA Metrics",
+      "title_ko": "헬프웨어, 헬스테크 플랫폼 합병 후 지원 통합 완료…해결 속도 및 SLA 지표 개선 발표",
+      "url": "https://www.streetinsider.com/Globe+PR+Wire/Helpware+Completes+Support+Consolidation+for+Healthtech+Platform+Following+Merger%2C+Reports+Improved+Resolution+and+SLA+Metrics/27382881.html",
+      "ts": 1795252081
     }
   ]
 }
