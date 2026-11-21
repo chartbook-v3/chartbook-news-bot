@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795239090,
+  "updated_at": 1795239245,
   "id_hashes": [
-    "54ab7e14d793e3ec414ad91a54958da35d3dcfd8eb5e7acf1440087b3bcc4d43",
-    "bc081a4155d35d2017e659c8193f5cc37de5ce49fec0cdc3811d466be0218a90",
-    "8c797926588f16450daa05282c02171ebedd8c622cba86029ce16f9a99f331d4",
-    "c2087a5f1738a0ec10b2bae94a1c315a37a44d6010470f415c25da00fdf363cf",
-    "c07ac211b1e401167ce64d8662b02cde1d770bc28132f950ed2e70e1925461b2",
-    "23a2f1fd6ffc5b6ac7f36eb71fce23a14b05780527f0b40e0163af52418f76e1",
-    "2198091dff51a81bc7e6739d302b4f6d952a402979b30b619d205da8248bc0fc",
-    "781643a60a980f9427c1c483349bb1d12a1360174ed14d7eee59b4fde32f3bc0",
-    "b09eed465883d649c7c1a3a4346abe2da876109feb55749c4e1819524360d3f2",
-    "cc926f901367038d45ce9bfaf4ed909aa5e6aeaf044537dd2c6080517e4f09f4",
-    "50c67c5ea068cccc2c353b3ac21811dca469881bc80d0104059085d2a43f4da0",
-    "4acbfb0e19687ca215217e63347c5aae3ca7377a6b1fb2cb53e5e89a1ee3dc08",
-    "0fb6b33fbb6c61e3668934240e20636a8465638ea6c229a4387248c044aa1d4b",
-    "2ab761c83754c7377b560d810c65cc6307de826b2682ee52f207a646dc2ab4f4",
     "92e52f1627f57753fb5004061fa64d8e32d27021d1f3d21f1aa5e8ed3b5c74f3",
     "46e6d7c20bdb823633c9e273ffba9fbd8e3cefbaea6ffa8517efffe1c7884071",
     "d381476b61073446afd8fcff9ab7846affffe25a43c25ddb205855a88cfceb81",
@@ -4000,17 +3986,23 @@
     "55e9444199840c6968c16bd24b64bed86bc49cc6ed662710784d1d137196f87b",
     "eaeb0b0ffe160124a0a871fcc22e8046118380087a975d3bcad6730dab7ac0a6",
     "473c5ea035f9bbfea95f39a42de989de8c02ffcff3b22dac6cd6809d5fcbb1c9",
-    "00e031b7a449a15a35d7f6bd25e629df02341f5500dfc33553e0830c701a10b1"
+    "00e031b7a449a15a35d7f6bd25e629df02341f5500dfc33553e0830c701a10b1",
+    "5c30074d7223f53e77c1c650b377acc31f2c52a88bcdbca58d52024b0195c069",
+    "ecb898b2ded0e6a951d13e81be219669f53b6660a435785d8def5f639d399d0b",
+    "6ad4f3519e950011c4158a44c85c9ae3ebbfdb1260addd8c504bc3dd37d88dd5",
+    "81931e7effe898a5d674daabd51ecb139d84437c63d93483d739a99043b7f4e8",
+    "ac30b7526426fdc96e611058017ad6a4bde57b2bdf0dd25c4acfbdd7b3660199",
+    "1070dbfe644720692850d7386cf7cf000962b07024f466bcf95785203eb4c988",
+    "e0278e1474c21cad861902536551a6f7d6cb6fa48ef2190c4d8524358cbd90bb",
+    "1a7574d87c30db0b2ece5ec98ac8b5a4405ceea7405602d78e52844fb85801c6",
+    "d33697d27cf9eb7e8105dfee8205a4ce38ab3257b4afa8e8357569bee4bea175",
+    "b6c33f07931c28c61fce089f7dde1bc088b22a92f66c254b61dd208929a02259",
+    "9f03fb0586a0e41fcb46e57d623aac8bd3468d63974a9962638d9cbd9ea54737",
+    "75502f02fc56e1db31e43768210123ed8dbb32c12b9383b49b34c925986cfeae",
+    "deec956e482a6fe93efe2b46749b491c63f03c9b6564e78c222850e16887c8ec",
+    "b35e001835751d52694bc3fbcaca9c050854a8bb0c130b2b79d4b83d84fc9b25"
   ],
   "title_hashes": [
-    "b99c03374d49d350f91a1c8959bd334ff0d5ec022b23408fb8a2d94ee34874d1",
-    "fe88b27eff16072c09acdbdc9dc8548fe33b885bbb8042229f05b42d69c333f9",
-    "cbb164f1db3a049bddcfda92b346487847381bfd22a0b5bfed3152a07f8bcfba",
-    "c9454d330da66a24633233b0ab4dfe6d19137de3f4fa07e8637f54637cc585c1",
-    "4c6849e72a02c15a7137058ab4e71d298000ab90fb0f17c22d079f28e31795ad",
-    "d7a361dd302b869cc12b465be7a858105fdca8fd7e3e184913a669d265b1af70",
-    "6160d989bdcc6a08474125766d408f45bcdef9f294fd178bacb28b5d753f5e35",
-    "fabd969e5a42f8b29cbd120dd111225e1c79dab02bc3d75737406ff71ac3e65d",
     "3de0eaf8494f571e1dbc965f75a6410639b043bd67270b531d49631d6106841a",
     "61e1c56631ed2cbf3fd9592039edb94aa515ea51db5b9a3912caa4d51af40d8b",
     "e4154c8457f614ac418ce2af8bb6bf0b87613cbbebfd791c4a4c8dbcba944c66",
@@ -8002,44 +7994,17 @@
     "0c89f5530605b739ee9a921231f12eaf23aed0556d2613362b08d2c41ea0d659",
     "ba7639a77dc2b8cc257b9e2116053a9732323412de9b507cfb467e0935cc9151",
     "1a8ff33773b67058868d4f6055de7cfc60ed208649427c2b4e391c926b760597",
-    "c2e8e16842a4f0373d72e8fd5a6210d20e2ed7cc59ee5513c56761c014549c5a"
+    "c2e8e16842a4f0373d72e8fd5a6210d20e2ed7cc59ee5513c56761c014549c5a",
+    "ef3fb81f782b775d6e5c7b261434cb764f223be488793b5472ac5fcf4e4f85f4",
+    "7b197eb79aa11b350cb972171f7ab89fb2246e28f96b97a2a6ac66acdd86e1d3",
+    "9a99a38e46cf6289c0adb240bd9516cbf2145fc15bcd59f96d1d9975e9ab992a",
+    "af1cfe4f99bd20d88c6656cdd594e9cd92fc8a601470e43ff8258e29d7ce8084",
+    "0e7af3f37abd56f966bb46d3489ec2797b9450200680e22f7580149501b3f077",
+    "38487fa685195005a2aee490632c5d1fc52e6f988200eb9abe338c5119d339b9",
+    "4858538e4fc9c4661c9acdc9a50a8071b56b13c3eaece9894f921c418d4b49bb",
+    "75db0980fcf8bb617aa18fe09cfe1c8bf87e23e678d984b1ee9d646da52d5f6f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WSJ",
-      "title_en": "American State Capitalism Helped Produce the Nvidia Scandal",
-      "title_ko": "미국 국가 자본주의는 엔비디아 스캔들을 낳는 데 일조",
-      "url": "https://www.wsj.com/economy/american-state-capitalism-helped-produce-the-nvidia-scandal-56ce6dee?mod=rss_Technology",
-      "ts": 1795194676
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Hong Kong slams ‘biased’ US report accusing city of expanding security powers",
-      "title_ko": "홍콩, 홍콩이 보안 권한을 확대하고 있다고 비난하는 미국의 '편향된' 보고서를 비난",
-      "url": "https://t.me/firstsquaw/194642",
-      "ts": 1795194678
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "“新债王”Gundlach：纳斯达克指数今年以来表现逊于美国国债。",
-      "title_ko": "'신 채권왕' 군드라흐: 나스닥 지수는 올해 미국 국채보다 더 나쁜 성과를 냈다",
-      "url": "https://wallstreetcn.com/livenews/3203493",
-      "ts": 1795194730
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "JPMorgan's Dimon Signals Pushback Against 'Unfair' UK Bank Levy",
-      "title_ko": "JPMorgan의 Dimon, '불공정'한 영국 은행 부과금에 대한 반발 신호",
-      "url": "https://t.me/firstsquaw/194643",
-      "ts": 1795194733
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "CANADA FINANCE MINISTER CHAMPAGNE TO VISIT GULF STATES AS OTTAWA SEEKS EXPANSION OF TRADE TIES – GLOBE & MAIL",
-      "title_ko": "캐나다 샴페인 재무장관, 무역 관계 확대 위해 걸프국 순방 - 글로브앤메일",
-      "url": "https://t.me/marketfeed/1082731",
-      "ts": 1795194952
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Fed's Cook: September's interest rate hike was not enough to curtail high inflation.",
@@ -11504,6 +11469,41 @@
       "title_ko": "[뉴스1 PICK] 李대통령, 울산 AI 데이터센터 찾아 \"글로벌 추가 투자 마중물\"",
       "url": "https://www.news1.kr/politics/president/6361605",
       "ts": 1795238191
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Iran Wants Proof of US Sincerity in Negotiations Before Advancing Talks, Foreign Minister Araqchi Says.",
+      "title_ko": "아락치 이란 외무장관은 미국과의 협상 진전에 앞서 미국의 진정성을 입증할 구체적인 증거가 필요하다고 밝혀",
+      "url": "https://t.me/firstsquaw/194746",
+      "ts": 1795239179
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "UK’s Stable Outlook Reflects Moody’s Assessment That Economic and Fiscal Risks Are Largely Evenly Balanced.",
+      "title_ko": "무디스가 영국의 국가 신용등급 전망을 '안정적'으로 유지하며, 경제 및 재정적 리스크가 대체로 균형을 이루고 있다고 평가",
+      "url": "https://t.me/firstsquaw/194747",
+      "ts": 1795239181
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "UK’s “Baa1” Fiscal Strength Score Highlights Elevated Public Debt and Below-Peer Debt Affordability, Moody’s Says.",
+      "title_ko": "무디스는 영국의 재정 건전성 등급을 'Baa1'으로 평가하며, 높은 공공 부채 수준과 동종 국가 대비 낮은 부채 상환 능력이 재정적 부담을 가중하고 있다고 진단",
+      "url": "https://t.me/firstsquaw/194748",
+      "ts": 1795239185
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "UK Debt Affordability Is Expected to Stabilize as Inflation Cools, but Interest Payments Will Continue to Weigh on Government Finances, Moody’s Says.",
+      "title_ko": "무디스는 인플레이션 둔화에 따라 영국의 부채 감당 능력이 안정화될 것으로 예상되나, 막대한 이자 비용이 정부 재정에 지속적인 부담으로 작용할 것이라 분석",
+      "url": "https://t.me/firstsquaw/194749",
+      "ts": 1795239187
+    },
+    {
+      "source": "머니투데이",
+      "title_en": "[여의도 투자본부 2부] 카카오게임즈 vs 노머스 vs 에스엠 vs 오이솔루션, 공략법은?",
+      "title_ko": "[여의도 투자본부 2부] 카카오게임즈 vs 노머스 vs 에스엠 vs 오이솔루션, 공략법은?",
+      "url": "https://www.mt.co.kr/stock/2026/11/21/2026112113547083618",
+      "ts": 1795239244
     }
   ]
 }
