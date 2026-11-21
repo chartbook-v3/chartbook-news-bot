@@ -1,15 +1,6 @@
 {
-  "updated_at": 1795240785,
+  "updated_at": 1795240936,
   "id_hashes": [
-    "70624d27d5d27e63e0a45c546d9ffada2880e4abce726aeac50c4e6f7eb599b0",
-    "8bd2a4042734c3c21bf70d4ad088d884dd42514a5a9b76377f5cacdd6004ddc7",
-    "9cec9eda9e79e3e5848d83ce75c28b3299317e39f2f8282912dd77c7e29acd4b",
-    "9183ca6c90536629c9955cfb12c03cc1c3bb21fa46962f4e5bbc742639c5a52b",
-    "89f0c7f2399fb543c6ad789d088ae91f2f2bb76c6887e6d1cea9f65768a66eef",
-    "4290eb6c6e498d68a5c3eb55c2777db0ed1fc700fad8150dbbb14f961c9af5cd",
-    "c71be890c624093f8b050c66ce041214d0bbf85cd22eb6b9ea9c813165f9c1c0",
-    "3eea924985f41fadf4758990b5f7e8fbbcf0dc6db1605c209a8697620b0b2590",
-    "d70cabf5e694224da1c593193f79d890bfc258f8ba3a4665838011f7d5e4997c",
     "6564793a6fbdcc64338257b372c64c850da752d8e6e128b9cb4ac729c569907c",
     "b6440608791ddb0922240c25121fe2d8b6515c03b7934da10c78f6b60f302aaa",
     "a52bef71e1840ab526b51e0441b5d50a573228ade24cfc76cb5dfc442755fde1",
@@ -4000,16 +3991,18 @@
     "22d5e6de86e503f8c1809d2e4cd6ea8e531b48d0ca6e734d394734f6c80b7052",
     "d72baece7067132bc4e2250c3569d8453fd914a9d013d7181af0a1d8d12d24e2",
     "3b0df5ac949e867a1a12f3367f5eb43620f28e2ff1717ed16bea4e644c5de501",
-    "01fcf67a5e216a626245aaa099977311613e01685553235301cea2d0061a1ca1"
+    "01fcf67a5e216a626245aaa099977311613e01685553235301cea2d0061a1ca1",
+    "49d8de050b94ce4e9966685a0e8a1fe75f5a9872ecbec35ab68b70ea2570812b",
+    "13f62a07dcbc1640f0fcfa3217c0a3f27d72c0b7421a23c6beacb7aa889f5fef",
+    "098f7f2807fb86f94619f0dd3e35bc850aee89e444963777c3719dfa1f8b24b5",
+    "e6219b87c26bb6b64c2d27e5a5c2850062256b9590dc5d43aefd06862ddc6a52",
+    "b38a658add8364f9158cdd7c2153e0bdbdeb7aaf3991593d95fa1bed3e2dfd1d",
+    "976c25d3d4b26c7df220d728808195ec9b499e6e3e12ddc3491ab35deea9e4ea",
+    "13096b4ddd624822db4c58ee8ef2dc09bc56a7e6161cfe8cce857583d341ce1a",
+    "645e520acd0d82f348e2c9bfbd6dc604f6b15caff229f875a703651dc4398976",
+    "8527844d3f6c4d88036475a12ea11a80fc7f5dc89d2b3375180904c1bc38573b"
   ],
   "title_hashes": [
-    "cc9af818fb0b7b883f0d573528ce63da1acf762c4e9f77d15ba574bf2132ce65",
-    "f461e4166a06deb27f3d6cc5e514864ae952587aff65c9940749ed4b3357fe32",
-    "6db0198bfe2bdad64122237410da554f63fc8c5f2e421c00419d61221a4a8c66",
-    "bdcdf0a876880d2563dab19e5a760629bfcba721181b8a7487f2ba45358a0d6f",
-    "a314795846d16a50635fff3013c5e48726df1b2032ba97c0af1c78a57ae921e3",
-    "80b42220505748c2f0434a3452ab3af504bf026fb8dc97d99463c8cdc5e41529",
-    "60e008e30f37368b58637687848a1e04915a7b73f3cceb88e2fa1e88c066b110",
     "c199f0998250b29d7ba6372e56b5ad5feae672c2435205a2cbc0b6b11e1446e9",
     "e25cd1019a00c947d793ebb997b6b1c34318849d2e380aaf413a0dd2efa9fb0e",
     "49f978cd9ee1d0786caacebfeb25c6c66e7651592384a3d52605f3967057cfa8",
@@ -8002,30 +7995,16 @@
     "19ea2b496750c0ba43d79f977ff534cc2ba88b5ac032b3fc2f989d0c25e9ad1c",
     "e054566c2e4d8b78c24c600074d7ab79a6e4863be9be9c58e39cb96789ea71a3",
     "69da8b1763c42f69434a396e5fb4f45d41426632ec5c1544c7c85e11f781a91e",
-    "efdeda56d597547a4f12482455c5cb24971e8877a7926168ef2b2b7b97684f91"
+    "efdeda56d597547a4f12482455c5cb24971e8877a7926168ef2b2b7b97684f91",
+    "aa9f1c0626d0b467aa216130e1ee3f93b9e8a5bd8a51e9ac627fa926460903c6",
+    "8927739f3581b9bcde7a3061fa5c435a841f1cbf7ef3af8ecbca26323fdb17a7",
+    "83f3580ae21cb4588c1cdc7444663a05567e40c5c27647129f97d306afc0e2e5",
+    "2a8470b6c9e04d792dbd7495606b20f5bd181815f04c8d86c0d766219faaa20e",
+    "b0de70f03d8fbca30f8addb5466536bb74643919086477b9d74da005b7987c6a",
+    "27c8091c9bc4d7dc69d1e70daa53583e442ab1dbc58f360781501a5974f1a133",
+    "50aea0b1c490e7cf5eeb47bba87a24760457a729772498fa366a71b0b4fb0ce9"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "TRUMP COMMENTS ON CROWD SIZE, SAYS 'SOMETHING MUST BE GOING ON'",
-      "title_ko": "군중 규모에 대한 트럼프의 논평, '무언가가 진행되고 있을 것임에 틀림없다'",
-      "url": "https://t.me/marketfeed/1082767",
-      "ts": 1795195655
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "NYSE Hires Nasdaq’s Transfers Head as Listings Battle Heats Up",
-      "title_ko": "NYSE, 상장 경쟁이 치열해지면서 Nasdaq의 Transfers Head 채용",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/nyse-hires-nasdaq-s-transfers-head-as-listings-battle-heats-up?srnd=phx-india",
-      "ts": 1795195721
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "UnitedHealth Stock Rebounds After TD Cowen Buy Upgrade: What to Know",
-      "title_ko": "TD Cowen 구매 업그레이드 후 UnitedHealth 주식 반등: 알아야 할 사항",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63490461/unitedhealth-stock-rebounds-after-td-cowen-buy-upgrade-what-to-know",
-      "ts": 1795195723
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "S&P 500 enters correction territory and these 20 names are fueling the leg lower",
@@ -11504,6 +11483,27 @@
       "title_ko": "“트럼프, 내년 1월 민주당 의회 장악 전 우크라 종전협상 타결 원해”",
       "url": "https://biz.chosun.com/international/international_general/2026/11/21/N4EAB6JYRBBJ7JT3TA3O2BA3KI/",
       "ts": 1795240784
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "젠슨 황, 불륜보다 거짓말이 치명타…엔비디아 이사회 \"신뢰 무너져\"",
+      "title_ko": "젠슨 황, 불륜보다 거짓말이 치명타…엔비디아 이사회 \"신뢰 무너져\"",
+      "url": "https://www.fnnews.com/news/202611211406153542",
+      "ts": 1795240803
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Australia Vows to Manage AI Agent Shoppers, Surveillance Pricing",
+      "title_ko": "호주 정부가 AI 에이전트를 활용한 자동 결제와 기업의 맞춤형 감시 가격 책정(Surveillance Pricing) 행위에 대한 규제 관리에 착수할 방침입니다. 소비자 보호를 위해 AI 쇼핑 도구의 오남용을 방지하고 데이터 기반의 차별적 가격 전략을 면밀히 감시한다는 계획입니다",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/australia-says-law-must-keep-pace-with-ai-agent-shoppers-surveillance-pricing?srnd=homepage-americas",
+      "ts": 1795240933
+    },
+    {
+      "source": "한국경제",
+      "title_en": "\"SK하이닉스 통째로 사겠다\"…손정의, 1조달러 베팅 추진했나",
+      "title_ko": "\"SK하이닉스 통째로 사겠다\"…손정의, 1조달러 베팅 추진했나",
+      "url": "https://www.hankyung.com/article/2026112113827",
+      "ts": 1795240935
     }
   ]
 }
