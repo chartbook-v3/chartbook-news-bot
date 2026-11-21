@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795273504,
+  "updated_at": 1795273654,
   "id_hashes": [
-    "dd650d9dff840b3d44a8b33fc030b139da87a42c93a96d595edab394b8118a10",
-    "06b842b39c4dcaf24a967ddb6f9e778e99ab292a5dfdd5ba359957682b2a01d0",
-    "f16be5f93e06a9fdacc77008e6c9d8f91ba53d5cb3f5ea159f34c60dc0e5b529",
     "736c9c318c5cb26bf5ec85b059253995e642ba8049253af2b5559702b60030e9",
     "2a6bf05a71f6993a582eb6ac50fa3be797bac738950bf84ffa2c8a3b62362028",
     "74a870074302dc2215b5f4aae28af05e0b189e16696b152ba792148f7ea6a076",
@@ -4000,11 +3997,12 @@
     "1980718b376daefcb03786edaa51a8e44fd0df76dbc71298801a0e64576d68d2",
     "ef77af7e2fb694e9ddd43535c8e3f1b042e88fd20f3608e9d1e4affcf87dae92",
     "5e5b048f47d8ab587d7905ea5c6124152e8123c08e478b7f7cb9d968878a53b9",
-    "f81ad0a23d6a5a2e73b59cdb6fcd15fd1910f47f3cee28d0959eb053668eaa6a"
+    "f81ad0a23d6a5a2e73b59cdb6fcd15fd1910f47f3cee28d0959eb053668eaa6a",
+    "368a65f46c8d25dbcc3ad71ac838df33107009ecfa4d1970cbfda2c33a2c0d8d",
+    "e7932a76040569a4471bbf3af921416220780e0c59b7459965eaf74f77015642",
+    "8ebf9e5a04007d1a62a02811def002f89712779949b61cdf6b1671995ea02501"
   ],
   "title_hashes": [
-    "4a7ba3421b7cd152c92ac29c81c092875f936fe22174e7d549b1dd19677a2dc1",
-    "50aab88470280f5fd0ad687be9dc5e32542171c6c454debd992b9da1b710a7c5",
     "3062fa1b7564c79ff7fa18e2dabe164c277c9a3c81696c507b84d46c66689986",
     "f5406cdd5d0d3bfba801586d1055fbbb9efe44bb5973e7c776108ef1ed54d5a7",
     "e7c84c48c1440c61d740d41f80c3f60dca9aa27fbd386c3879d2bd2e881ca402",
@@ -8002,16 +8000,11 @@
     "ba7116d74d31a0b415a1bb427a8d4533030dee7b3cd0b8cb89062d34bc1bb8ef",
     "5bc02b537de28f3dab8ca06961363ee3dffa1160b29236a5733de58f4a363473",
     "6404cc4bfc3e94d0a144c96e5f9f89e6c9ed6cad56286e0099ba2c76fa0d6be3",
-    "ac516245f6bace97e3c646240f285d7b65ce1dfd0ecc462b25a6226a9a950fa6"
+    "ac516245f6bace97e3c646240f285d7b65ce1dfd0ecc462b25a6226a9a950fa6",
+    "f35bfbe4f948d1ee853ad7eae96582835dcbdc1f540e5b3e0941b2a09deafd98",
+    "97a13aabb7038dad3a0c87185859e39321186eef44fc4c25e67279a95b04eec8"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Jeanette Epps: SpaceX Dragon Could Fix Space Data Centers - SpaceX (NASDAQ:SPCX)",
-      "title_ko": "자네트 엡스 \"스페이스X 드래곤, 우주 데이터 센터 문제 해결 가능\" 전망",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63499450/space-data-centers",
-      "ts": 1795201809
-    },
     {
       "source": "MarketFeed",
       "title_en": "US SECURITIES AND EXCHANGE COMMISSION PROBE INTO NVIDIA IS EXPLORING POTENTIAL ACCOUNTING ISSUES",
@@ -11504,6 +11497,13 @@
       "title_ko": "사우스아프리카(SA) \"엔비디아, 젠슨 황 복귀 필요할까\" 의문 제기",
       "url": "https://seekingalpha.com/news/4675366-sa-asks-should-nvidia-bring-back-jensen-huang?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795273381
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "35-year-old SNES runs ChatGPT, accelerated with a Super FX 2 chip",
+      "title_ko": "35년 된 슈퍼패미컴(SNES), Super FX 2 칩 가속으로 챗GPT 구동 성공",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/35-year-old-snes-runs-chatgpt-accelerated-with-a-super-fx-2-chip-21-mhz-of-risc-muscle-speeds-2-2m-parameter-chatbot-replies",
+      "ts": 1795273653
     }
   ]
 }
