@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795236668,
+  "updated_at": 1795236822,
   "id_hashes": [
-    "8561c6f037b83768a82abb1fa337485b948c1c380e39889838657826e42d316f",
-    "9d0f974bcef2176054166fb124672c6aa96bc0591df011842a5df7633855c625",
     "d1df2d03abd94b97a64ced2e2a33a9695079be217848574d85f806422336ee0e",
     "62a23d4977d42a8f2d54bfd148a54c358da4ca671085206e69a9a54e7ad8e6cd",
     "6bfd510763a1aa344684c1b12358a1dcd4f61a8a9a646c361888bd6b939512b0",
@@ -4000,10 +3998,11 @@
     "eafabb2fa0df03deb8ee95090dc3492377040bb1335bfb817da0511caeeb24a9",
     "94ed2617d115010f3a035a3fdcf5d10b831518686d35c0e8cfb4496751775a7c",
     "53f761d33537b1e2439640712de90b7b3fd1721ba5b225caaea382da96ba1aca",
-    "2cabce29e8510617f2de8d5185fc49572ec1b3dafcdca643718a20e739efbbd1"
+    "2cabce29e8510617f2de8d5185fc49572ec1b3dafcdca643718a20e739efbbd1",
+    "7e24f1c5793f747399e3544fb5429ea83a3f648ad8b873f45f67c95053f72f50",
+    "06702802af1ea63105dd5d5ae72b7159bc72bcb20464d0acf489e1c1a21f9ca2"
   ],
   "title_hashes": [
-    "c76912166466ca3b900393a1b3b7c6f1b2c5da40a2bfeaea80479d6b881ed8f0",
     "b003a27e33ee2157d487d078db086d69c61482a51e125710b7c9050e65ee3e43",
     "5abf8e845e67acbbbc62fe1277855372f0c9b01039a67e7062188bfc62d61e1a",
     "c7d31cdca7b0fa3daf7eb6cb593fd4ea27935a6f68c9ee80f9796a125691f35b",
@@ -8002,16 +8001,10 @@
     "91b4b2691ca931892d9d9d91d41e67558adf546237cab87ebf37a2e5182732ae",
     "7e497f4ebdee926d821bf97d5097a2497c0615617e101c0a2e68d94ac64c072a",
     "b9d88ebf7bb663e52fefe4485964f71560b67ff8f9632982322fa56c7abc755d",
-    "152511db47de8ea499187f64a41e7416619a7f1b28983c30890a7296de09ab05"
+    "152511db47de8ea499187f64a41e7416619a7f1b28983c30890a7296de09ab05",
+    "42395e28d9dcd5b59a4989403a07f3707a289c045cbdedbaa9d448a38308680d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Equinor Cyberattack This Week Targeted Flaw in Microsoft Azure API Management, Norway Says",
-      "title_ko": "이번 주 Equinor 사이버 공격은 Microsoft Azure API 관리의 결함을 표적으로 삼았다고 노르웨이에서 밝혀",
-      "url": "https://t.me/firstsquaw/194637",
-      "ts": 1795194410
-    },
     {
       "source": "FirstSquawk",
       "title_en": "France's EDF Finalises Bank Loan Agreements Totalling €5.4 Billion",
@@ -11504,6 +11497,13 @@
       "title_ko": "與 \"조희대 탄핵안 12·3 발의 컨센서스\"…野 \"정치적 목적\"",
       "url": "https://www.news1.kr/politics/assembly/6361590",
       "ts": 1795236067
+    },
+    {
+      "source": "디지털데일리",
+      "title_en": "[단독] “시력 정보도 유출”…윙크·하파크리스틴 고객정보 털려",
+      "title_ko": "[단독] “시력 정보도 유출”…윙크·하파크리스틴 고객정보 털려",
+      "url": "https://www.ddaily.co.kr/page/view/2026112113453174397",
+      "ts": 1795236821
     }
   ]
 }
