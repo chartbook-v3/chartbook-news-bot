@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795260351,
+  "updated_at": 1795260518,
   "id_hashes": [
-    "ec656f48f3a4241a5df545f0d827248b70ee3d3eab68a5eaf30802680c2659c9",
-    "f45c509fda255fe31d7a959b8db606f064b8fb4433f4db321edc4f4b1a06b3ed",
-    "a13fa59631e60e7a5bb4bf87076ffa5b8d27e2749b3aa2d099a278283ceefdf7",
-    "194735797341ed4a675a84f975b335d1b650ffaeb411a941ddafe5cb0ddf2f2a",
     "eb548d4cd3a11b274710166495a72db74f48fb273b1f2453a9434eaf66bf2ca3",
     "387f67a1c4b0d7655ca35e7ef46acb52f1ca10afcb31d37a881062f01130a5b2",
     "60276c1c473b402e0e5f36a16ec4bc8872fccbe50022b3b976c5fc700fe863e5",
@@ -4000,15 +3996,13 @@
     "4452188f3cb385a1e6e5b06d2f82454442a5eb92fc6e97ae0c562436bb97e5c4",
     "7788f235c28a9a0494def075b8d8b118b5b281b9e28a26a866c6c8d87f6b63d9",
     "292cc7357b3ef4d4309319fcfb8f08b3e3629a7cbfce9973c70124062b69e4c5",
-    "5094c4b425785545d2b181cc1bf9f3732903435f1e3a4ead9ec453b0437b888c"
+    "5094c4b425785545d2b181cc1bf9f3732903435f1e3a4ead9ec453b0437b888c",
+    "f222765d16705c4c1902ec5a442e6907907faba738dbf441a9d74ac31e0379e1",
+    "9287541ad049f55de466b3fff9597e64e97e4d6f28503e1aff11ec72671423f6",
+    "1217684020244fce550802a05dfe0e7b33976e4d156d7f2d482704fb5fe8ab3f",
+    "436099c2909b0f10f92030ea5f2d718ad0ae36c6414e1213e817161c4074a482"
   ],
   "title_hashes": [
-    "bb887f926126118453b1b325d951f20bf6756047a08b67e8872c851608f7efad",
-    "8d211fabe7b3f2d5ac9139f67d29fb719b3e496ad80be5c2848d037348ac62f8",
-    "681cd2793ad6c7972cba90abc3c8350d7c2e722dc989c6c5439a617f68f510b5",
-    "1edccbf8a5ee9175c1b6e3a92648cce9bc4500a8737746eee2ead78bf2389d7c",
-    "9c80b3e59ef6a219ecef1d43fb89621bddd4593680992c1aed078eb2539f3da2",
-    "12164f5d955266e181c1b3ee37e9f4878a509417fc518161d5367e36fa09bb88",
     "fb93cb63e418da5c8269d32bef17d7fb7e99d58e1e141e2cd3a994032c4bf91a",
     "8902c65a3d77ab5dde6af628c5060617a4d392130dfb8796089f5654e03da00a",
     "7179665138eeea2436af070b8cbbfa3bda76f72b0df4a31ce7a709708f754468",
@@ -8002,16 +7996,15 @@
     "5f55d283e862fc267e9028cbe32af10d125c27ed4296622d431244ef8bd25423",
     "79ad55dcb2d4269158d11019ec2734c63d55c6676082b6846691c4fe5cca7fc0",
     "2374dea4055f26d217d5ebf7f8c61270587ab303a6bed76094be9bf3b8e1576e",
-    "1c919fbf4b4b43cf40be4ac13a39c82b89736baf600bc84a14c60f01b1cfb931"
+    "1c919fbf4b4b43cf40be4ac13a39c82b89736baf600bc84a14c60f01b1cfb931",
+    "03501a5ac27ab51a4eb120c5c1940dde80e52bb0be903ab70a65f17111cf5010",
+    "90239a7c90f2a1575292c80f8dcef9969926d48dc311d0362b9d19147ba21e09",
+    "df61eb9f343140acbaae7fbb41eacb932e93c3f6517d34c666bfad1445f6b314",
+    "92233e344f9124fe47716da17742df4a6aa204588c07e282197c9543cfbade81",
+    "1c6913300884c3c71ac9c02cbe4f07786d54b1340b905ad3302c848862fe9103",
+    "52e4d2d1646dc734cfb93c2aaf6040d94aea83fb230aa2260329344ebf261e7b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "TRUMP: I'M OPEN TO GREAT HEALTHCARE",
-      "title_ko": "트럼프: 나는 훌륭한 의료 서비스를 받을 의향이 있어",
-      "url": "https://t.me/WalterBloomberg/38843",
-      "ts": 1795200488
-    },
     {
       "source": "BreakingMarketNews",
       "title_en": "Fed's Paulson: Open to considering consecutive rate hikes",
@@ -11504,6 +11497,13 @@
       "title_ko": "이란 \"호르무즈 해협 동쪽 해상에서 유조선에 불이 났다\"",
       "url": "https://wallstreetcn.com/livenews/3203665",
       "ts": 1795260205
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Russia's Wildberries CEO steps down days after EU sanctions, media report",
+      "title_ko": "러시아 와일드베리 CEO, EU 제재 며칠 만에 사임 보도",
+      "url": "https://www.reuters.com/business/retail-consumer/russias-wildberries-ceo-steps-down-days-after-eu-sanctions-media-report-2026-11-21/",
+      "ts": 1795260517
     }
   ]
 }
