@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795294477,
+  "updated_at": 1795294630,
   "id_hashes": [
-    "f71431b7aa53bf190ad898381febd7ba96cea03fc9befee888c76636517bfb36",
-    "e58da8a5a2239773872c8a8332a091d316ad3ce8bd968676f196f918f7b187e6",
-    "a0c263b543e56e357acd2b4a75fa20a11873e03f0ed2bedf1e6005570bd70d50",
-    "ea1dc5effbb2582c88a17110c40f8c0934b1897a7165a4624db6221da9e706fb",
-    "1be441dafa10f1f2f6fc7eb336346fc07146c868cf0d65dc050d88377a18e8d3",
     "cf88581fcfdb13843166b9fab1a7b1497896cd9f2623e04ca456946489c94d85",
     "f231dd2d1fc3156f7432ac1cc1af471f6073d7d60106cd67610f0971ac81967a",
     "bc7fbae12e1128573429607dbc16c70b7088fd3731a6f5790c5a5658e811b871",
@@ -4000,12 +3995,14 @@
     "132ea5dbf5de4978d6517bf4c63f7fad54531ce7fa94a2f4b457c90ca3aae068",
     "c65a26583ebe3c860c9cb4fd41afd32ebac1a7b2ab9d7f664203c6bbb3c25a4a",
     "60d4df06d12747600686ef907f7fabf93579230160ec2d37419148a0e95b4d41",
-    "7436c619db01fd11e6e8c4e5691f88cb8930ddfb033c2452e30c10880da105e6"
+    "7436c619db01fd11e6e8c4e5691f88cb8930ddfb033c2452e30c10880da105e6",
+    "e35704b3fedc827570f7b71183cc4bc0bde01899f7219f6c989727fb4b3bfc5d",
+    "8275542e75992b940d66b60f00ceda5c661fc978076390b8b0bf53edcc9eecf1",
+    "5aa3954e619e6bd2a70b60b4657b9ba3d0841bc6f76140900ed169066a8c0da6",
+    "e58ff0d9dd2601df7d4ea9fde577fcb7fe0a12570b1c1642dfd956fb94cb1859",
+    "2fd3ca8075fdb92ecc3f44568663dee4333122eea727e9f9eecc3a8d360d0249"
   ],
   "title_hashes": [
-    "9892d7742f325150aa95c2b13b0b0bd27ded9cd1187586db09080a5eecdf369a",
-    "4ccf7ab823a5d1968dfa55c5df36a8329ce759067967606570f85d5c6ec142a0",
-    "9a41ba36a5c0806b4d8e41f48aaae90e5eea0b38bee838e0def888d659564943",
     "200c5838c8057a39c9b50544002bdbd7ddb4b11fa6e11286585213268b645519",
     "ca7f8abbf3e3c7c32c37a3cacbb3acf416d94e07e238772d5a858e4fcc590747",
     "2c87334894bba35ccf83f06dbdc63602b98b2d2c8e30f45fd412e0e3a177f9d0",
@@ -8002,16 +7999,12 @@
     "51b0a2e536c3f43ad084216e7de1222929277c9f57ec47c66803b3ee054aefdf",
     "7e8370fdd225e226cdbe5f947987afc33018a6bef6165c6d9ea937637fd90b0b",
     "3add65ccc5967c7ff615ebb376847e91abc5105032fa2b369154b39a1e6212a4",
-    "9d84901312295e0e5181768bf1bb35d9a47bde4bef672d9b54114a1398a5b767"
+    "9d84901312295e0e5181768bf1bb35d9a47bde4bef672d9b54114a1398a5b767",
+    "557dc3e7a409e1fe470c8e6bfac4c53953f937e68120b14ad1ce2e8a1c5e2485",
+    "5da5af547964f2bd32946174116e3a0db5c478407c6c4b8ec9888c5d9bd47da9",
+    "8200e5d707d72a553658d9b6f703075012190559f745a26884bc713fed398a53"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "트럼프 \"미·중·러, 한반도 위험 논의\"…핵감축엔 \"예스 어려워\"(종합)",
-      "title_ko": "트럼프 \"미·중·러, 한반도 위험 논의\"…핵감축엔 \"예스 어려워\"(종합)",
-      "url": "https://www.news1.kr/world/usa-canada/6361479",
-      "ts": 1795206015
-    },
     {
       "source": "Bloomberg",
       "title_en": "Anthropic’s IPO Drew More Retail Investor Demand Than SpaceX",
@@ -11504,6 +11497,13 @@
       "title_ko": "이란, 유가 3주 연속 하락 속 원유 봉쇄 조치 준비 착수",
       "url": "https://www.benzinga.com/markets/commodities/26/11/63516268/iran-readies-tankers-to-challenge-u-s-blockade-raising-risk-to-gulf-oil-flows",
       "ts": 1795294325
+    },
+    {
+      "source": "매일경제",
+      "title_en": "우대금리 축소 이달까지 자체점검…10년 고정금리 논의 곧 착수",
+      "title_ko": "우대금리 축소 이달까지 자체점검…10년 고정금리 논의 곧 착수",
+      "url": "https://stock.mk.co.kr/news/view/1203633",
+      "ts": 1795294629
     }
   ]
 }
