@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795237567,
+  "updated_at": 1795237720,
   "id_hashes": [
-    "56205ba3c857922341cdf0b3d474fd004b5e1972f570e21560b00ca02c0c81f8",
-    "ea82b2ca45128254f4e3731b2873ad00e9031c92b8f666d62848226879f0def0",
-    "e689b5660d06be4fa7775e8d31ced0d154ad0a1e776762906b594156263aad02",
-    "b3a974d2364bc79dcd6d366bdeb5b75b9fef3bc3bcfc99a2b50a902529347ae4",
-    "738e4b2290442b8efdc478dbe8d1e481136df5177f5e08b3bb7d2f045582a748",
-    "c7f7ea5b34724a1ef63b930a399a95008d7ab82998d4bd2f161a6ee9dc8e6286",
-    "0d1002f9f5124e767243bb69f03e67a74af8b2be8b06a7f05e6b7cad5cdf0c52",
     "30146833399f6039ed2fc18b42db993b7136ca90dae2c2b91753a6a4df5ad6b1",
     "44ecacce30b62cf7b2fc9e01fccf102c09a875e70260c99f750b6ed65cfecd44",
     "15283700f5d0ad7fafc515f0e6fa098e467b01c9df36e07e14bd3626d9567996",
@@ -4000,14 +3993,16 @@
     "1335fa89256d880ff1d73696e4ec7d13ec5a05db334530943e3e5239edf787a4",
     "4e19b90fb30c9daca1d53a2a710c00f5266eb349fb6d5b0607083f2876b71fe1",
     "71c352dfb7e8337b6835964ef6c07b986cec30b131347e535f105e72d93c8e73",
-    "27dcdab121e8142914d83be8992ed7455958a8fc8b7de33423420fce58cc44fa"
+    "27dcdab121e8142914d83be8992ed7455958a8fc8b7de33423420fce58cc44fa",
+    "b168e7a6396fcfdee26ca6c4265c00692ec188e73539cf8f708da7984908336b",
+    "67f83439bbd802060b8f09c467adb04b6cbf349479c0a5c9940b7259ed048854",
+    "b3cb6469be1ee87cc46845cceeeed65d37ba04d9279c97f6210cb11897216bb2",
+    "3c88b6b6cdc19b20d0dee464692939d1e3e67b9b55ac84adddae5c8796f7c6db",
+    "76389f424d3911216d54aa5256e7158c68b3045a1a42bb38239ba4b03b35d582",
+    "ca14810a5371368b8a79e7b07a45e17e6066b08a3270f08ec8780636ccf4d187",
+    "bb879f180eb8692eeae062ac783191ff88069b04e39b94c605a22fcfd083a55f"
   ],
   "title_hashes": [
-    "a65875a67b1bb7602093e1bd1ef9146ca292e1bf3f6011dbe00a78eb6e9f4e04",
-    "58932000ffed0a09127a98aa94d1028ae57e667ee5c8bcbf345e95f64c2748aa",
-    "69b46b2f738f860c204fc3dc59bb28016d1a8b9d85eb57df371d4f234ba63523",
-    "3076fe6c20a61253b473a2bfbe680be3551e5a881ba8796391143ddc51af83e7",
-    "0bd941d760a2d817aed8abb9c92d1e624ceca42c02bc017a42fbecdec64f32d7",
     "e3f3e70be53b5bb7a1c94bec7e0693a8b2b000f6e0ecc0e8c741a8bdd0e85842",
     "83acf455f85bdc76f53b4c36178816573852878d72e6358a59c462945c8d04ef",
     "e1179a2e5d3fbd4696d28e07452743da459299b4159776907e94aacd75dcec55",
@@ -8002,16 +7997,14 @@
     "be7b14bfddb23a91e512ac9794550addfd1fa1dd919b6ad689e994bfe81fd278",
     "5965f709c3a9ea4c087d6008d3bbf559a4c0108f6d4a82fe1e25ca7f86f95c71",
     "ded7b78dddd83c66274784e5372d620388f28428fff24f3165b9262033677aab",
-    "f48d8a4c9aa247f8d5471c3adb0d15523eff89d232581193d9dc4e388e8a7f4d"
+    "f48d8a4c9aa247f8d5471c3adb0d15523eff89d232581193d9dc4e388e8a7f4d",
+    "975e2d794b199aee01df69f6cd98655123a02ee0e1313251fc8ebbbec8e162f6",
+    "3a8fb166667064e42808a6e0e7fe5d6050413f843ff719bdea3a526b0c14daa4",
+    "3b9732527eabc8debdf6e0c2e6b99f56cce18dcdfd834d0b386a00778e566e4d",
+    "7020ef4dfef13bfebbf16c262624a21a5f1f3ce3d2fcab3f069729b657563c4c",
+    "3436d3bde4e47eae52ef2a606b447c0c7a2297d213ce85e5cf1620268214bb06"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "TRUMP SAYS PUTIN IS READY TO END UKRAINE WAR, URGES EUROPE TO MAKE A DEAL",
-      "title_ko": "TRUMP SAYS PUTIN IS READY TO END UKRAINE WAR, URGES EUROPE TO MAKE A DEAL",
-      "url": "https://t.me/marketfeed/1082722",
-      "ts": 1795194520
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Belite Bio drops on FDA review extension for tinlarebant NDA",
@@ -11504,6 +11497,13 @@
       "title_ko": "넥스트링크, 역대 최대 매출 달성 속 AI 전환 프로젝트 착수",
       "url": "https://www.digitimes.com/news/a20261119PD221/revenue-demand-business-growth-adoption.html",
       "ts": 1795237515
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Scaramucci Regrets Turning Down Uber Investment - Amazon.com (NASDAQ:AMZN), Uber Technologies (NYSE:UBER)",
+      "title_ko": "스카라무치 \"과거 우버 투자 거절 후회\" - 아마존·우버 주목",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63514679/anthony-scaramucci-missed-uber-investment-82-million",
+      "ts": 1795237719
     }
   ]
 }
