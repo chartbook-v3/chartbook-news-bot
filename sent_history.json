@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795274571,
+  "updated_at": 1795274718,
   "id_hashes": [
-    "04c0a26f8ec36b42cf2843467132c05bda757b13c5c430efb415061d90f0e0ef",
-    "1b24b68480c307c7f45168934769d22cbd860822606b5cb7f876d269c215555c",
-    "43367e20f8e94c6ddb14fc569e19407f1f0a23edc805a6afc4f7f5f7fd3235f9",
-    "1dc9c442d33e169c0575b77b4a4058b57400d9e0ccdb3c3028274e1472d0d273",
-    "ada7f5a36187223cd5a63df0f5f88ffc9cb09c0960f9830b8e1c5ef727a1ef2e",
     "1b6bba295343e28888ae87114f8c11ebc2d752c9de53af9741170bde40b16152",
     "74f056a6bec10eb6e7a4ee3c758a337b517df57cea0e7e7a3cd0f574a5b87012",
     "a4208818caad56e55a900f761d9e38248395fbebd2656353b39b07f2e8a403c8",
@@ -4000,11 +3995,14 @@
     "f36ea8ec207e91c408cc1468ce540ce992bcc0d5ec6e9cc5ded916244cd9a927",
     "41fddbb2795b6ca198f101b720ae9834149a9d0eb54d8afc05ce13a8da6298b5",
     "2fa37623c30c28ae887b8288629fe4ea5e1a5238eb594550f52357da177a92b9",
-    "d47259372bfb14c5e7155cbe8dc31503f7266e402ee005721059335cf36dfdc6"
+    "d47259372bfb14c5e7155cbe8dc31503f7266e402ee005721059335cf36dfdc6",
+    "47fefc00675fb8f0185b0ef72f32309ff5de3c5fc6baa219f6ffdb616675fa5f",
+    "7f0953d4552d12eeecc9b26173a31ffbce36c1d77f0f9cdb1497c59e9a516c5c",
+    "adf5c4b75516f3a8b09c551ff45b46e92d477124f4738bb3b7f7ab44693ded5a",
+    "0d0c2b379761f6bf3c13d89659fb2fdf578a9d1c3f53d590256448f3efd338dc",
+    "978960576273c2ca38a583f9fcbdb55f108c8ce9ad53d43290c6074c4390ed65"
   ],
   "title_hashes": [
-    "f365fe6153b63056f8994f3d90cfc06723cac767782ba140e273ee0ccc17d6ee",
-    "ef1e05de58cfb802490be21d8bf33c0a399959c01765039f906fb1aec7ade615",
     "6eaa2c94c9f46e53938d06b2f6768844003b3276b09f543097c7f3b193d33424",
     "13671b3dbafd16a166b4974d63e0a7b774020b7fb7f5203677d16f572a86b7b4",
     "ffb691b46566ba93897e4ab7933ba5892d7e15bc362b7ea7e6f10f1651a3b14d",
@@ -8002,16 +8000,11 @@
     "7c55ab2b5a7e24e92d9d9346a17db303db8bb9ff84368c264ec1663c216b9911",
     "8e79a19d4c7f7f97cc801e640656f905c86fd2c29d1c594245f0fb84427f44cd",
     "696b207e40b021e230544bfdf5359f895b6cbbd6cd6513b7cdf555c9790b1137",
-    "2078ce84b739808ed947942c713ff7e516ef38b3ff224f6c5d87d49eecb268fb"
+    "2078ce84b739808ed947942c713ff7e516ef38b3ff224f6c5d87d49eecb268fb",
+    "13cac089eaaa05e7a4953ab8b94b2f85c42836b1ba28fe0a5d3c380dd753c3a0",
+    "75e595f26be41f83ddc4fb1fb3d695f38aba21b7322001d1229163f29d1654c7"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "《侠盗猎车手6》预售销量达3250万份，Metacritic评分99分。\n\nTAKE-TWO股价迅速上涨，最高涨幅达4.8%。",
-      "title_ko": "'Grand Theft Auto 6' 예약 주문 판매량은 3,250만 장, 메타크리틱 점수 99점을 기록했습니다. TAKE-TWO의 주가는 최대 4.8% 상승하는 등 빠르게 상승했다",
-      "url": "https://wallstreetcn.com/livenews/3203546",
-      "ts": 1795202506
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Will bonds work in a tech crash? Citi weighs in",
@@ -11504,6 +11497,13 @@
       "title_ko": "S&P 500 지수가 50일 이동평균선 대비 4.1 표준편차 아래에서 마감하며 2015년 8월 이후 최대 과매도 구간에 진입했습니다. 이는 최근 20년 내 세 번째로 큰 이격도로, 역사적으로 매우 드문 과매도 수준을 기록 중입니다",
       "url": "https://x.com/KobeissiLetter/status/2124160908968530208/photo/1",
       "ts": 1795274570
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "France Pushes for Security Council Meeting to Discuss Compliance With World Court Ruling on Myanmar",
+      "title_ko": "프랑스, 미얀마 관련 국제사법재판소(ICJ) 판결 이행 논의 위해 유엔 안보리 소집 촉구",
+      "url": "https://t.me/firstsquaw/194856",
+      "ts": 1795274597
     }
   ]
 }
