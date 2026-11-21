@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795240936,
+  "updated_at": 1795241092,
   "id_hashes": [
-    "6564793a6fbdcc64338257b372c64c850da752d8e6e128b9cb4ac729c569907c",
-    "b6440608791ddb0922240c25121fe2d8b6515c03b7934da10c78f6b60f302aaa",
-    "a52bef71e1840ab526b51e0441b5d50a573228ade24cfc76cb5dfc442755fde1",
-    "d4b5642620c0b542862181b70928d2b771eab61dd612e3d71c7d038425e536ce",
-    "02c29a42bc899291db41d19b8b4d80b39a0fc816751c17a10a1baff5eac9a92d",
     "d914e1297b0b4dd4a49e8620b94c2a514f7cdf6a60be7d8b745d91db0238a648",
     "eb0374a3c4262b6a86b99bdb932654ed30e8ad8b188d8ab66742221af119e3c6",
     "ee3acb2472bccf52c17febceb6e574229afe8586dcd3b2b5e9fbc5b08e6aef1a",
@@ -4000,12 +3995,14 @@
     "976c25d3d4b26c7df220d728808195ec9b499e6e3e12ddc3491ab35deea9e4ea",
     "13096b4ddd624822db4c58ee8ef2dc09bc56a7e6161cfe8cce857583d341ce1a",
     "645e520acd0d82f348e2c9bfbd6dc604f6b15caff229f875a703651dc4398976",
-    "8527844d3f6c4d88036475a12ea11a80fc7f5dc89d2b3375180904c1bc38573b"
+    "8527844d3f6c4d88036475a12ea11a80fc7f5dc89d2b3375180904c1bc38573b",
+    "2e5fdc3c38e4d051ab53841149d7f8c0df907dc7aa6fe97a8293800fdfc79e71",
+    "a0d850988b8af69764899843f44127ee561217056c76d7f29ad6c4eeec629da5",
+    "097835f9c40e7eaa2bea19690e644dd7b8fb8272a48b6806c8f26465e9253e56",
+    "153da2b1fe84b071d5e07c53703caa4aabfb7e17301861beb92416766ac81015",
+    "d3eee1710a1e7d533b0484c00303ed071403db669e3ab5f9fbf87fcda7d2b2e1"
   ],
   "title_hashes": [
-    "c199f0998250b29d7ba6372e56b5ad5feae672c2435205a2cbc0b6b11e1446e9",
-    "e25cd1019a00c947d793ebb997b6b1c34318849d2e380aaf413a0dd2efa9fb0e",
-    "49f978cd9ee1d0786caacebfeb25c6c66e7651592384a3d52605f3967057cfa8",
     "707358f398507bd06952bf67ac782103dad2869692f309469b782bc3c9dbd53c",
     "fd73bc4eeb80ed5dea8718c827a3dc29376d2f29b07cf97656147cc406ef22f3",
     "77cefb07732a2cc19a723624a4a45ff3ec89b14e6c68617fb0d8c076010ca247",
@@ -8002,16 +7999,12 @@
     "2a8470b6c9e04d792dbd7495606b20f5bd181815f04c8d86c0d766219faaa20e",
     "b0de70f03d8fbca30f8addb5466536bb74643919086477b9d74da005b7987c6a",
     "27c8091c9bc4d7dc69d1e70daa53583e442ab1dbc58f360781501a5974f1a133",
-    "50aea0b1c490e7cf5eeb47bba87a24760457a729772498fa366a71b0b4fb0ce9"
+    "50aea0b1c490e7cf5eeb47bba87a24760457a729772498fa366a71b0b4fb0ce9",
+    "f69753fcfb4d29cabab399fab06b64b267a83b90868bb690b79b3f92ce4f2e0d",
+    "add5f048f8ba0baa8e7fcc5d0bfe4ca9a8e5d11ad95b8b117f4930624a9a3e0f",
+    "7783371545d10c7d7655ce97532f4e8e22a3822aae77d1f4126ec842328f56c2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "S&P 500 enters correction territory and these 20 names are fueling the leg lower",
-      "title_ko": "S&P 500이 조정 영역에 진입하고 이 20개 종목이 하락세를 부채질하고 있어",
-      "url": "https://seekingalpha.com/news/4675255-sp-500-enters-correction-territory-and-these-20-names-are-fueling-the-leg-lower?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795195726
-    },
     {
       "source": "WalterBloomberg",
       "title_en": "TRUMP: TEN OTHER TRADE DEALS COMING VERY SOON AFTER ASIA TRIP",
@@ -11504,6 +11497,13 @@
       "title_ko": "\"SK하이닉스 통째로 사겠다\"…손정의, 1조달러 베팅 추진했나",
       "url": "https://www.hankyung.com/article/2026112113827",
       "ts": 1795240935
+    },
+    {
+      "source": "디지털데일리",
+      "title_en": "존 터너스 애플 CEO `관리 계층 줄이기` 네버엔딩…아이폰 카메라 총괄 존 매코맥 떠났다",
+      "title_ko": "존 터너스 애플 CEO `관리 계층 줄이기` 네버엔딩…아이폰 카메라 총괄 존 매코맥 떠났다",
+      "url": "https://www.ddaily.co.kr/page/view/2026112115002820158",
+      "ts": 1795241091
     }
   ]
 }
