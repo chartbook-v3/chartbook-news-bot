@@ -1514,7 +1514,7 @@ def _get_gemini_api_key() -> str | None:
 _GEMINI_MODEL_COOLDOWN: dict[str, float] = {}
 
 
-def _extract_gemini_text(data: dict) -> str:
+def _extract_gemini_text(data: dict, multi_sentence: bool = False) -> str:
     candidates = data.get("candidates", [])
     if not candidates:
         return ""
@@ -1525,7 +1525,10 @@ def _extract_gemini_text(data: dict) -> str:
         txt = part.get("text", "").strip()
         if not txt:
             continue
-        txt = " ".join(ln.strip() for ln in txt.splitlines() if ln.strip())
+        if multi_sentence:
+            txt = " ".join(ln.strip() for ln in txt.splitlines() if ln.strip())
+        else:
+            txt = txt.split("\n")[0].strip()
         if len(txt) >= 2 and txt[0] == txt[-1] and txt[0] in ('"', "'"):
             txt = txt[1:-1].strip()
         if txt:
@@ -1533,8 +1536,8 @@ def _extract_gemini_text(data: dict) -> str:
     return ""
 
 
-def _translate_with_gemini(text: str) -> str | None:
-    """Gemini Flash 다중 무료 풀 릴레이를 활용하여 외신 속보 및 X 주요인사 게시글을 한국 증권사 속보 톤(1~3문장)으로 초고속 번역합니다."""
+def _translate_with_gemini(text: str, is_x_vip: bool = False) -> str | None:
+    """Gemini Flash 다중 무료 풀 릴레이 번역 (일반 뉴스: 1줄 헤드라인 / X 주요인사: 1~3문장 분리 적용)."""
     api_key = _get_gemini_api_key()
     if not api_key:
         return None
@@ -1544,17 +1547,30 @@ def _translate_with_gemini(text: str) -> str | None:
         "gemini-3.1-flash-lite",
         "gemini-3-flash-preview",
     ]
-    prompt = (
-        "당신은 증권사 및 경제 언론사 외신 속보 데스크입니다. "
-        "다음 외신/글로벌 속보 또는 X 주요 인사 게시글을 한국 텔레그램 증권 속보 채널 스타일에 맞춰 "
-        "핵심 팩트 중심의 자연스러운 한국어 1~3문장(한 문단)으로 압축 번역 및 윤문하세요.\n"
-        "지침:\n"
-        "1. 부가 설명, 접두어, 줄바꿈, 바깥쪽 따옴표 없이 오직 번역된 본문 텍스트(한 문단, 최대 1~3문장)만 출력하세요.\n"
-        "2. '말했습니다', '보도했습니다' 등 번역투 종결어 대신 '~전망', '~급등', '~상회', '~착수', '~밝혀' 등 간결한 경제 속보 문체를 사용하세요.\n"
-        "3. 고유명사와 금융 용어를 정확히 표기하세요(예: PBOC -> 중국 인민은행, Fed -> 연준, RBA -> 호주 중앙은행, $NVDA -> 엔비디아).\n"
-        "4. 원문의 모든 숫자, 버전 번호(예: macOS 27.3, GPT-5, 2026년), 금액, 등락률(%)을 절대 임의로 변경하지 말고 원문 숫자를 100% 그대로 유지하세요.\n\n"
-        f"헤드라인: {text}"
-    )
+    if is_x_vip:
+        prompt = (
+            "당신은 증권사 및 경제 언론사 외신 속보 데스크입니다. "
+            "다음 X(구 트위터) 주요 인사 게시글을 한국 텔레그램 증권 속보 채널 스타일에 맞춰 "
+            "핵심 팩트 중심의 자연스러운 한국어 1~3문장(한 문단)으로 압축 번역 및 윤문하세요.\n"
+            "지침:\n"
+            "1. 부가 설명, 접두어, 줄바꿈, 바깥쪽 따옴표 없이 오직 번역된 본문 텍스트(한 문단, 최대 1~3문장)만 출력하세요.\n"
+            "2. '말했습니다', '보도했습니다' 등 번역투 종결어 대신 '~전망', '~급등', '~상회', '~착수', '~밝혀' 등 간결한 경제 속보 문체를 사용하세요.\n"
+            "3. 고유명사와 금융 용어를 정확히 표기하세요(예: PBOC -> 중국 인민은행, Fed -> 연준, RBA -> 호주 중앙은행, $NVDA -> 엔비디아).\n"
+            "4. 원문의 모든 숫자, 버전 번호(예: macOS 27.3, GPT-5, 2026년), 금액, 등락률(%)을 절대 임의로 변경하지 말고 원문 숫자를 100% 그대로 유지하세요.\n\n"
+            f"원문: {text}"
+        )
+    else:
+        prompt = (
+            "당신은 증권사 및 경제 언론사 외신 속보 데스크입니다. "
+            "다음 외신/글로벌 속보 헤드라인을 한국 텔레그램 증권 속보 채널 스타일에 맞춰 "
+            "정확하고 자연스러운 한국어 한 줄 헤드라인으로 번역 및 윤문하세요.\n"
+            "지침:\n"
+            "1. 부가 설명, 접두어, 바깥쪽 따옴표 없이 오직 번역된 한 줄 헤드라인 텍스트만 출력하세요.\n"
+            "2. '말했습니다', '보도했습니다' 등 번역투 종결어 대신 '~전망', '~급등', '~상회', '~착수', '~밝혀' 등 간결한 경제 속보 문체를 사용하세요.\n"
+            "3. 고유명사와 금융 용어를 정확히 표기하세요(예: PBOC -> 중국 인민은행, Fed -> 연준, RBA -> 호주 중앙은행, $NVDA -> 엔비디아).\n"
+            "4. 원문의 모든 숫자, 버전 번호, 금액, 등락률(%)을 절대 임의로 변경하지 말고 원문 숫자를 100% 그대로 유지하세요.\n\n"
+            f"헤드라인: {text}"
+        )
     payload_fast = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
@@ -1582,7 +1598,7 @@ def _translate_with_gemini(text: str) -> str | None:
                 resp = requests.post(url, json=payload_fallback, verify=False, timeout=(3, 6))
 
             if resp.status_code == 200:
-                translated = _extract_gemini_text(resp.json())
+                translated = _extract_gemini_text(resp.json(), multi_sentence=is_x_vip)
                 if translated:
                     return translated
             elif resp.status_code == 429:
@@ -1599,8 +1615,8 @@ def _translate_with_gemini(text: str) -> str | None:
     return None
 
 
-def translate_to_korean(text: str, use_gemini: bool = True) -> str:
-    cleaned = clean_raw_headline(text)
+def translate_to_korean(text: str, use_gemini: bool = True, is_x_vip: bool = False) -> str:
+    cleaned = text.strip() if is_x_vip else clean_raw_headline(text)
     if not cleaned:
         return text
 
@@ -1609,7 +1625,7 @@ def translate_to_korean(text: str, use_gemini: bool = True) -> str:
 
     # [1단계] Gemini Flash 초고속 금융 특화 번역 (실제 발송 대상에 우선 적용)
     if use_gemini:
-        gemini_res = _translate_with_gemini(cleaned)
+        gemini_res = _translate_with_gemini(cleaned, is_x_vip=is_x_vip)
         if gemini_res:
             return _refine_korean_finance_terms(cleaned, gemini_res)
 
@@ -2020,7 +2036,8 @@ def run_cycle(
                 store.record_seen(item["id_hash"], item["title_hash"])
             continue
 
-        title_ko = translate_to_korean(item["cleaned_title"], use_gemini=True)
+        is_x_post = item["tier"] == "X_VIP" or item["source"].startswith("X ｜ ")
+        title_ko = translate_to_korean(item["cleaned_title"], use_gemini=True, is_x_vip=is_x_post)
         if store.is_duplicate_or_similar(item["id_hash"], item["title_hash"], item["cleaned_title"], title_ko):
             if not dry_run:
                 store.record_seen(item["id_hash"], item["title_hash"])
