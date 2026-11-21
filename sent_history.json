@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795238044,
+  "updated_at": 1795238192,
   "id_hashes": [
-    "30146833399f6039ed2fc18b42db993b7136ca90dae2c2b91753a6a4df5ad6b1",
-    "44ecacce30b62cf7b2fc9e01fccf102c09a875e70260c99f750b6ed65cfecd44",
-    "15283700f5d0ad7fafc515f0e6fa098e467b01c9df36e07e14bd3626d9567996",
-    "0df97ed0343cfd57cf4772e077664e31580e51b6d10aa7ade28e361584337e00",
-    "91db030fc77a1dd1fa84db1b094536348a97c49826449195c530bf78f09348b8",
-    "c9e07c02c5d83c2ceaeb8c334049f751d70fd82dac09ed61e0fcc30f6618bfbb",
-    "4362633205afd3515b330e529f214a014250526f11903fa228f4b25f9230b9d4",
-    "56bab625051fa8afa52e9c4527fc81ce5e63dbd32953a5ab76e5c62d4df750ba",
-    "a11155b15dd2a6c42b7bb8590100e7b3b61173cc4acd04d123f4ca72b8beeb6b",
-    "ba7f3f4969fb4951363019038663474d7be9f73b25d0ec21b5e9f9a44baeb8a7",
-    "45e3bf64af3a3e4a38470dde4b174ed21857f40d648545a7020a55b220ec6035",
-    "06b85e65117e0ac2b4ce057f253f1139c2488afc5b7b6f88fdd02bd21f054989",
     "eb53bb0a5038f9e44aa6da98f963fde61a6a87d87114d39ed789b1e9d4857bb5",
     "8efdf14c2c56cad7f43d226bb34ddcf4d73bdd6fd6e2e1accfc3bd3fc7cf9b51",
     "4b7582549a0d207e7d4b48414b1a979f4f6413403c17e60772684847e9f99737",
@@ -4000,21 +3988,21 @@
     "3c88b6b6cdc19b20d0dee464692939d1e3e67b9b55ac84adddae5c8796f7c6db",
     "76389f424d3911216d54aa5256e7158c68b3045a1a42bb38239ba4b03b35d582",
     "ca14810a5371368b8a79e7b07a45e17e6066b08a3270f08ec8780636ccf4d187",
-    "bb879f180eb8692eeae062ac783191ff88069b04e39b94c605a22fcfd083a55f"
+    "bb879f180eb8692eeae062ac783191ff88069b04e39b94c605a22fcfd083a55f",
+    "1ed657ad99d9d6e4851e84fb7cdb4d4f2d21fd58b038addf6cf18f6d45148324",
+    "8155e7ae86a7b6504dd5ed23a940dff5913011e7bf63e90f3f7479694d8cc662",
+    "d2fc583085f538521a340183434039c1a73a7a53b32c35dfda1b3819b3b629b4",
+    "8e409ddcb49aef8f88584f82e1fa5af032d8e6a73d2e0a295e7832d822e7feac",
+    "575fe54fb847058a82f22e20a99c8bc60999127646329d0ff0c1aac31debbfa7",
+    "e128f1bcd4515f14fdb908440ff63c2066e4e1d786520b63f603dae2aaf056ba",
+    "617b044375c0900d8c22d74e60aadbe9fe32f55721ff5b75a95d69668e0d111f",
+    "4da3a1d98e70bdfe71589dc2dd9e58b7c70cf075269de6a5324a3054f8617434",
+    "91ceea5196a95e211e39b914a7b835c2f67ddf29a31f92c55afa15a10bc515e9",
+    "67fd87f8079728aaf7ecacdf5e49c299a24def9f868f23aeee2ddb9077c41609",
+    "5044e9b3378dda877342f512854c8dc61f980b626b6b343241a00e6813e1e2dc",
+    "c18a90b5f6178ae1dcd5fab03cc854ce3b4c3d0ed3bd65b69fa63e817481b266"
   ],
   "title_hashes": [
-    "e3f3e70be53b5bb7a1c94bec7e0693a8b2b000f6e0ecc0e8c741a8bdd0e85842",
-    "83acf455f85bdc76f53b4c36178816573852878d72e6358a59c462945c8d04ef",
-    "e1179a2e5d3fbd4696d28e07452743da459299b4159776907e94aacd75dcec55",
-    "a88826066f738db3f580a3e4639481491f8dd6c53b8964682695042601b9890d",
-    "0d0e956bcb64f60802c430e060a635e0f90e4f17679c4b92b35ff1d6e905751a",
-    "ab5fa60fe5392362b2f31e2802ee609ea0d0d002713387b7e65457c8fab6c783",
-    "8c9e1679ddb0732dba8a7183bd70e14065e3b1c989ffdb37b89718e1a73b7b1e",
-    "8ba6b95688761cf34231aa0911262de000e7edbde4ad896ace7b3f2b85fd8fe7",
-    "061761b0bf47006c2ee2e76e4c12a5658d5d434c44b9017e8b3da8df9056ed02",
-    "c8ff696aee6a44c4db752be7b2ab498428e120017b8fad56c518b8b472c54d97",
-    "f15fa05e8e46b8c33eb707c6367ed28dff9237338680068637bdba76e42dc654",
-    "d8065d56686c796b409695987c7fc2d52692ce5e7d60e6294fc0ad665d66dbf8",
     "ff7a5d39975feb72aa665121356b2987025ea4d445c7f2def6ed3a27e473ffcc",
     "0a5859928efd3958465f924babc841b6551ae5c8deda376478acbe22a0dbfa56",
     "a88f1b5beb48c8a5ac2284fc03bc24c994b56743cec4eaa43f418186eb3c31e1",
@@ -8002,23 +7990,21 @@
     "3a8fb166667064e42808a6e0e7fe5d6050413f843ff719bdea3a526b0c14daa4",
     "3b9732527eabc8debdf6e0c2e6b99f56cce18dcdfd834d0b386a00778e566e4d",
     "7020ef4dfef13bfebbf16c262624a21a5f1f3ce3d2fcab3f069729b657563c4c",
-    "3436d3bde4e47eae52ef2a606b447c0c7a2297d213ce85e5cf1620268214bb06"
+    "3436d3bde4e47eae52ef2a606b447c0c7a2297d213ce85e5cf1620268214bb06",
+    "e47341eff11f85a075a40e2e25da235303dd60b0a02606198470e8a80bc22243",
+    "02790809b4959b9c11773a011493f5c40006d7615fde475d8e4a4597148da550",
+    "a428b9fdf33426b83b07d0f91c1799e697b9cd86057f1506d9b9bfb1178c9bda",
+    "4c9fc68ad81e220f982f64759a6e2aa921c9b1855bcf4025cead7ab04f069e1a",
+    "28d9973f6205d1dd48c5eb0d2b8075a0b7fa0ad6a83bf4422bbb1cc408436b0b",
+    "a0f521bfdefd39af5d4a4abe2f785090e3517a5638771b772ef9c489aefaf0c5",
+    "e758fcafe61452881b1e8ea959fa2d88551672b73119681701b7019b58a2b7ed",
+    "75ee1d529a388e38734631b584285fc68f9e2dbb9f024ff27adc6eb0d6977c5c",
+    "c82285f9fd4bb253d8fb8c92840505fe2008bfc9bc81a821650a094f30a5e438",
+    "ef5d6d73764c8f65f02192f89b040f91d1f0ac324d674749156ad317f1736462",
+    "7607f1a2126c75b0dcaa3178c1101b54957d0b1e001efb81c73cc9fb12379f35",
+    "37107666ff5b2f97cf447969515ced5b625a97bccb5da945a29d3fe3987c349d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Belite Bio drops on FDA review extension for tinlarebant NDA",
-      "title_ko": "Belite Bio drops on FDA review extension for tinlarebant NDA",
-      "url": "https://seekingalpha.com/news/4675237-belite-bio-drops-fda-review-extension-tinlarebant-nda?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795194582
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "France Picks Boone to Run Markets at ECB in Pivotal Crisis Role",
-      "title_ko": "프랑스, 핵심 위기 역할을 위해 ECB에서 시장 운영을 위해 분 선택",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/france-picks-boone-to-run-markets-at-ecb-in-pivotal-crisis-role",
-      "ts": 1795194673
-    },
     {
       "source": "WSJ",
       "title_en": "American State Capitalism Helped Produce the Nvidia Scandal",
@@ -11504,6 +11490,20 @@
       "title_ko": "스카라무치 \"과거 우버 투자 거절 후회\" - 아마존·우버 주목",
       "url": "https://www.benzinga.com/markets/equities/26/11/63514679/anthony-scaramucci-missed-uber-investment-82-million",
       "ts": 1795237719
+    },
+    {
+      "source": "FT",
+      "title_en": "Oil shipped through Hormuz falls as Iranian strikes increase",
+      "title_ko": "이란 공격 수위 고조에 호르무즈 해협 원유 수송량 감소",
+      "url": "https://www.ft.com/content/5fbc2b9d-0360-4a1f-9e4a-3e86168cbbc5?syn-25a6b1a6=1",
+      "ts": 1795238065
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "[뉴스1 PICK] 李대통령, 울산 AI 데이터센터 찾아 \"글로벌 추가 투자 마중물\"",
+      "title_ko": "[뉴스1 PICK] 李대통령, 울산 AI 데이터센터 찾아 \"글로벌 추가 투자 마중물\"",
+      "url": "https://www.news1.kr/politics/president/6361605",
+      "ts": 1795238191
     }
   ]
 }
