@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795253138,
+  "updated_at": 1795253284,
   "id_hashes": [
-    "fcdfa619ce1b75c8ef5bc973fe8086131340d02889c395ac3c5f75001f269190",
-    "82b2ef919307a267539502adfd0d0a353a6016bdd7af4ee9a62052e92969a6b6",
-    "5d8bd55afe68dbf99880e0d54235882769ae46e02446c2041c7b747ba6a396ef",
     "79932cdde21971c4bfe8633ed4df9c05a9754183ee8d90465aeb75398c213ea9",
     "0357606e1da6e339aa555a42484d279b3debc63bc8af4b6cfb431118c8d20313",
     "5aa01827671adc847405a53aea17747d3482d58f10d487cd7953769d185a51b2",
@@ -4000,12 +3997,12 @@
     "e2efa1d4a62d68a264f5e7709b3da2b9bca207c5aa0a5afa37d324f253c056e7",
     "11947bfc3df24ff3ba26e0c6b4ba469525916e563f282a10d35c9e94bebcdafe",
     "d34b3d4e0b3d1ab6809f61161e816797a1e107fe4a8052e1b509f8b93aeddc6e",
-    "04f5bf20b10cacf3298b3716dcde93e43757416d4566e4243c7d334b337bb461"
+    "04f5bf20b10cacf3298b3716dcde93e43757416d4566e4243c7d334b337bb461",
+    "82c0fe54331848efa6b6670f64c05498a615673132e1dc9a1e5e7102bac5afb0",
+    "ab5c8cec183da16fd9f31cf9642f23512c9e6d75f8544d1f1a2d915a34b39c78",
+    "c902dbc30159d8059bd09e4331de2594a6dfb3ffb4ac294bbcf64ba532be530d"
   ],
   "title_hashes": [
-    "657bd35b05ea756642a65dfbe8532e17a384f32b7c0a0c955f10c54bfcbcb547",
-    "1af481d0c409d6b9bc84b23962d339975f872afbe3990a60437d5f04c9889455",
-    "67e0658e1ac4d14bbaaa8d6dd13ec123f84f437e583a2619d2f8deef46cfc48c",
     "71ad4d06fd1bbb802e7f534f5b0bc00fb46f5f2dc9eef446df99e0962785aa86",
     "c3a9c88d883df5946271d0b856a15554695aad9532e5f0961731e52e5851a825",
     "28ef0701623b72ea8cb125173dac8c6dc49512acff79320753f7b3fc48ee5cf3",
@@ -8002,16 +7999,12 @@
     "95001249801ad28107ae4f50a269bc10e422bc7f1c271d3c2d74dddfb42e8f07",
     "fc4562bcb15ae4a29f1e265241ae74036a1333cfa6a04966ccd8866b71f40b03",
     "e09af3dcc1b1e86ec454e4f06d4e4e820ad3e0136d57a8debf690825629d7bfa",
-    "1be3b7431fef14c8fb84b6aa78cd28c5dd5854400f66c808fc8fa59af78e474b"
+    "1be3b7431fef14c8fb84b6aa78cd28c5dd5854400f66c808fc8fa59af78e474b",
+    "78e8be5d73ece50de6521466377103124780d739688525e2e0772e96fefec811",
+    "f101f8d47812679a13647bd4778e8ec069d45a7db08638d86e574e67d29806e2",
+    "5b76e58fdb2f8071a3c733b768b01d8e1a6f30a38f04cfa083ff49103646fadd"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Broadcom Stock Plunges Over 11% As Semiconductor Selloff Hits Tech Giants",
-      "title_ko": "브로드컴, 반도체주 투매 여파에 11% 급락",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63491944/broadcom-stock-plunges-over-11-as-semiconductor-selloff-hits-tech-giants",
-      "ts": 1795196585
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "美国总统特朗普：感谢丹麦和吕特。",
@@ -11504,6 +11497,13 @@
       "title_ko": "호르무즈 선박 통항 1주 새 15% 감소…유조선 52척→37척",
       "url": "https://www.news1.kr/world/middleeast-africa/6361683",
       "ts": 1795253137
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "WEEKEND MARKETS UPDATE: #NASDAQ 25266 +0.14%",
+      "title_ko": "주말 시장 업데이트: #나스닥 25266 +0.14%",
+      "url": "https://t.me/marketfeed/1083154",
+      "ts": 1795253227
     }
   ]
 }
