@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795254329,
+  "updated_at": 1795254486,
   "id_hashes": [
-    "7e4dc55fbd573622fe22a7866f93685314bf55a8befbf21301d1072d8d0b47b0",
-    "0780fab7b527d95442d4fdb7c26ed9458e6319e9fb0bb1960b45cd54d4f19ae0",
-    "ec46b1766c4f50900c235a90810594ed9ee7b2c130eb0180e1e589739e0a823e",
-    "6eb67de6fe17538e85231f82ed9a87e64e55f7c498b72b02c874d4502a9b3e65",
-    "25aa35c0cfa6862173391c7fb46fee9e04087e6de1603bc5f0611d36b409a0fb",
-    "fe74e4c9b9f6bdc1c5d2dbd142992f5a751ae42b9355ce6fc8a11451e4a74b36",
     "ebe40b7bb411e7a1f373b5715ae7e81d66bea2c2252974fae5671a1a2f99955c",
     "926b79a3dcd37a4b47f61e5757a87bc5611bea776b9436846703d82a9c8d12e0",
     "d32092965d15f1f8e123933662da7e753c92d636dea9fb23d1d7d68391bf0f18",
@@ -4000,14 +3994,15 @@
     "8d8d2259c47907377f532c4c203832cf3eecb9d32c8ec7cfa202d328ff6da6c1",
     "15e9674a44134ea390fa6081fe1c1ba486c7c3043ba1f03b270b65727dfb448a",
     "ea03cfc902b71236e456c9e741a07f30d2ffa56e550ebebd30c078a7bdae81ef",
-    "9928771e9e521a2653996f91f5b55eff880efdc8d666d9b68ec20d46f749500e"
+    "9928771e9e521a2653996f91f5b55eff880efdc8d666d9b68ec20d46f749500e",
+    "69ccdb2f02643d82dc3b4ecf7b3e73435eadf24f828600c3e29832def2e52fb9",
+    "bc1d5af46a51a6ae5cfdbcad009f4273c0d43b753988785344ab3dbae5e1d3af",
+    "3d45a1d41778c8757076e08d18066c53cdad95e8e89deedfcb65fe49d83cda68",
+    "5b7514033e851edbb05f304f456513cfa56d5e17cc1296c3255f3ab8626e565d",
+    "92c109b76d02a136d2dfea5ec84cc9f39058f143bf77718283175b42e3d63437",
+    "c3e789aaf436f32fe19e2619c747a8b49374cd033721a879cbed39cb7bb73b7c"
   ],
   "title_hashes": [
-    "86e6056ef633603c2487ba321d11c8190798b58a34d6f3ed3dda456eeabaf583",
-    "14b015a5bd0d16654ea576c42cfd3eec309d7eb187bc182ae3b81f4807f136c7",
-    "ff84aae514c34e52eba9a48ddb265518805909f045e65dd21a5b59b296f2c5d7",
-    "100a0bcf80f94839b9928aea4d84134b595582fa39fb09c5bb2791e3e49b35cd",
-    "5720a7e1c4a6e8f2cc779126d90aec67a5c6b32582b8524d0dadd6df96ed2cef",
     "597977604b45b9b2bbe4bfbeb52ed95c902c5bbdfc3c7aecfb83fb0bddc21b2d",
     "5187d1f806c8dae24dfda1a00a973057382c3d932f17f9f0044a58ffe96dcf2d",
     "5c815ab6637a5911ab28a1d09ec4ddeb3318b0cc4555d9bf79a4b7d0cc89c360",
@@ -8002,16 +7997,14 @@
     "40ecd6af0059aa6d0c4ff7ba03ccea301245f4ce3f4417689949456c5a58a70a",
     "a1f6bb3ead82a184904be9cf31f9ec0df822342b3360fd03719bcffdc0a5b8ec",
     "1680659327f7abf7a218bc1c6883754ac4bd543da7db939a9b1417869f2cc8a5",
-    "57761321180b7c584b18c0f3938b3981f2682ad263ec8a418cec6961b0d04777"
+    "57761321180b7c584b18c0f3938b3981f2682ad263ec8a418cec6961b0d04777",
+    "0b67c4b8e2cf9863195c7a46a8979f31ace5182a4095a874f54759c7092ed701",
+    "d4c422c5c2ef06c4db075fab2255decbc8ac57ad14deea749995ec882d416fd8",
+    "a130fb65e0f9f5b0a706bbaced6490d1b578f21aeb1532fd5574cb5e64a24c83",
+    "8fd5d6531945f8bad1cd7eeff8e763a39442f24622323dfa9a2be9a1110af8d4",
+    "5627dcc51eb44ae9a78f09f42740f9219359859fcb7f1d91c9c3d2c78a3168de"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "TRUMP SAYS HE EXPECTED OIL TO REACH $300 A BARREL, NOW NEAR $80",
-      "title_ko": "트럼프 \"유가 배럴당 300달러, 현재 80달러에 육박할 것으로 예상\"",
-      "url": "https://t.me/WalterBloomberg/38828",
-      "ts": 1795200359
-    },
     {
       "source": "WalterBloomberg",
       "title_en": "TRUMP: THINK RUSSIA AND UKRAINE WAR IS GOING TO END",
@@ -11504,6 +11497,13 @@
       "title_ko": "일본 9월 신선식품 제외 CPI가 전년 대비 +2.1% 급등하며 2025년 12월 이후 최고치를 기록했습니다. 지난 5월 이후 일본의 CPI 상승률은 총 +0.6%포인트 확대되며 인플레이션 가속화 흐름을 보이고 있어",
       "url": "https://x.com/KobeissiLetter/status/2124075093143765481",
       "ts": 1795254024
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Wall Street’s $4 Trillion AI Wipeout Intensifies as Anthropic IPO Faces Turmoil",
+      "title_ko": "앤스로픽 IPO 난항에 월가 AI 시총 4조 달러 증발 가속화",
+      "url": "https://t.me/firstsquaw/194799",
+      "ts": 1795254427
     }
   ]
 }
