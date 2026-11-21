@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795266296,
+  "updated_at": 1795266453,
   "id_hashes": [
-    "6cd988cbaca0d6ecbd6dc7a0464523fceb5478cf8819eb56a743fdb4d5c4633a",
-    "41aeb8ce2579005db532b3315b178592528af6d88415087d66cc272d68f759ec",
-    "474f1c649b6cf1dcd8e057a5dc3af5a7ee5ae7a183fbd10e3e65bcd44ced12da",
-    "260f491140f3ad9b2e8c9d17cc16b80e6cc65af4fd2f6c0742ba31d362d15562",
-    "ba2c07cf3c04ae26b7bef911d30ac4eb218df71fcef2a5ca7db1bdcf75893c8f",
-    "ed9e5a7b399b47bd3346e16f40fb36165d20bad0071487993609a1de4af5fa96",
     "aa7de86533a2b31f50ff65b4c2f272ec2bdd25fe13d208ad7880c24aa29bc12f",
     "1d125598ca5448405907cd1c4ebed51e4dc1d295aacf4dc8625cc871546ebc16",
     "13188c68fdf224b22e09de612ec1bb3fb4beb6efb6f142df2ae4ebee2f54b535",
@@ -4000,13 +3994,15 @@
     "0f88358efcf8eecc704fe08e11cee9b038c5a3fd8bdb87bc7bd260f671501f41",
     "2d86222e736fb1a499b10c3ba7cccacd48232a02969396717a8ff7237ea295c5",
     "f5a9654cb284b04ba5769d19a18c23b6a0ef4369574712510abefc1b66ce022f",
-    "fadcc2fc55b890e77763ace78f658c03c094d55719d9253175e7f59851ffbe02"
+    "fadcc2fc55b890e77763ace78f658c03c094d55719d9253175e7f59851ffbe02",
+    "4522bed08202bdc0d3939ae1ff15621e9305fa4bf430217941ade5865ac0d421",
+    "00006618cbd4a13feb65ae66fddd929e2da4eef402e4c6ee951dbfb0d38f73fa",
+    "ef16e21f2f72184debd9941d82a409f0aba25962697f26e6b22b2c9e41bc7d58",
+    "0b9e638353a7ee35a58949a932bfb42850773a818915fb50260dd3694615edfe",
+    "dd73fbe7f2dc17a7af3d062680773b0b6935c224009c06f4c7288c9a0adba24f",
+    "2b0fc6a123434cb690912209b319d690fade8c8ce555e5154d769eed758c5bf6"
   ],
   "title_hashes": [
-    "30248fc4b32790bc900eb0fdf72fd0a3f59db089af387af5066975d1b063a2f4",
-    "accdf43623baecd99548690ccca72e9dcc530e6e168bb5892efab36d2abc1cad",
-    "90a3905a5cc47d3f04726b57a48a875c8e9376533613a072f20b498d2112cd0f",
-    "cdd8a8315cc0667c023ddd662b76350879bf100f57021cfd57b928450ee36207",
     "b32a7fa56ec497b8287d958c3b85007fbcec21520372b4d5834183fd8ff407db",
     "1ef33c6fa7641131089b29ff120bcf48209385095329f055d152ff4e6c812001",
     "7d78390ba9fd0dc7763a78b524569b329079e0fadb9484e537ea5b47beb07e68",
@@ -8002,16 +7998,13 @@
     "7578995c8dee5747dc16616d02fcfd4e60db950ca855e9e418c26795c4a55e83",
     "eb0e21f59951d4ddd543abd2820d148f755dd02014afebe15299c65f1cffcd77",
     "34d0ffb7d54ab1b3e8baf3785975fc6521c46b9f360d296963813f6230f7a067",
-    "1de2fbf98c739b9410cbde0129fa0e35faa37b2ab9979635fe7480edb4dbaba7"
+    "1de2fbf98c739b9410cbde0129fa0e35faa37b2ab9979635fe7480edb4dbaba7",
+    "90effafe1631113306e333fe0a460a89550dfaa56f75a6cdb2999bcdec3864d6",
+    "17d8ace1652c5c27d334e3abefa1966fb2d68f3189e7c96d5886148de4b7ca2d",
+    "69442bc00a014f8fb05ba53d66c77d8f469fded2af86097edc75e3087f220c06",
+    "51f88738454a6fd50c4a452eb1a152803f8feac93675701cea676c735595ba0c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Fed’s Paulson Argues for Deliberate Rate Hikes to Tame Inflation",
-      "title_ko": "연준의 폴슨은 인플레이션을 억제하기 위해 고의적인 금리 인상을 주장",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/fed-s-paulson-argues-for-deliberate-rate-hikes-to-tame-inflation",
-      "ts": 1795200626
-    },
     {
       "source": "뉴스1",
       "title_en": "트럼프 \"해외에 데이터센터 짓는 美 기업에 막대한 세금\"",
@@ -11504,6 +11497,13 @@
       "title_ko": "벤징가 선정 오늘의 강세·약세 종목: 엔비디아, 크레도, 레드캣",
       "url": "https://www.benzinga.com/markets/market-summary/26/11/63515125/benzinga-bulls-and-bears-nvidia-credo-red-cat",
       "ts": 1795266295
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "乌克兰：俄罗斯清理克里米亚大桥拱门残骸需耗时数月",
+      "title_ko": "우크라이나 \"러시아, 크림대교 아치 잔해 제거에 수개월 소요 전망\"",
+      "url": "https://wallstreetcn.com/livenews/3203679",
+      "ts": 1795266452
     }
   ]
 }
