@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795228546,
+  "updated_at": 1795228705,
   "id_hashes": [
-    "d08a135562e4539a22b772d4b1e035e78e6db901b9c4edb0bb3f37b4255d26a7",
-    "82279bd1eda0cdefc1f90b251a99060517d648ec6ae98b85944c4e8410356fdf",
-    "8e610c08c78e2871f976bee5337b647d1f5bf5f60c9f06c8ab177dd2a1e0c61f",
-    "3aa9197cfd1ea8e03aa819e26ce41555640840d88d7292c45ec171c377e87bbf",
-    "9135c712c5023703da5701b2b101b4f711fb3cf5d9c00e3373167c6503497b8e",
-    "3a3b84a5ba8b689e5d61d901534ce4ce662d65ee37759e1ba50a2f7f6f61c366",
-    "f58cd671edf12c393d4e6aca0a1a1c12915d64306dc3152ddef1a1aa0b06e0ac",
     "333aae3a543c84b96cb7ae6b57430aa791695f13d784969b9749f6362bbdd857",
     "b01cf3eca62ec6f1019051b7f6edd2af832d09af1a82fb0079e02590389d56ed",
     "6950956348ba12ce44268cd826818380d8445987b8bfe0f19902cc20ea9c9e54",
@@ -4000,12 +3993,16 @@
     "ad050cdd963ff9e6b5ddd0aacab18e3d903e86a24c81745cb96dfc21a141916f",
     "4b80225aaa92a5234b37be57c2add5aed909074a5f2983ce39919b71608a458c",
     "7c356045041ca4bd87ff0b5ad34849b882b26f13dba9f52e2c3a02c7dbcfcf1c",
-    "2de21564f76c7cf10043e854f0e828f93311ce9080fd96e759a90bc3ba93bb3c"
+    "2de21564f76c7cf10043e854f0e828f93311ce9080fd96e759a90bc3ba93bb3c",
+    "4427ea44d70e860c2f804b75bd23167cfc1efb2aa9061a2b6759baac0cf5add5",
+    "935153ebaf032cb6fc2dc4a9aea907cd213deaa99f2ddab69012cef9cb37abe2",
+    "d52412333559804e4a12e63d19cb7be1bf32f36bc15dca98486f35565a559926",
+    "39a711b71c7cf167677af01b9cf7848da68503100805ba96e55b1d1f4d5ef446",
+    "a4cbd605098bc618b78af3671a412f75f9a45fbed56aa2b10d69bbf30a14b00e",
+    "adff84471b1ccb66b2dfd237b083cc1f6b8884e478f64503240bda3b9b4d214e",
+    "70879c4f4775ab745884e5867b9fa62a2377a2780d588a2149f38c1c1d63be63"
   ],
   "title_hashes": [
-    "f6c9343b59f08de94e2b4b5dda7971b10cc2c83530bf08a273114255cb9e78b1",
-    "71dafc946a1da2af55f2e117cb035623821900960772faff59cb7ee7d251e81c",
-    "d5d4ef8a1d06caaa2ac6f14ce8d573001f395d3311f5dbbf9bf26eb4e9410973",
     "32fe161a7bb9398eb85abdbfffef281f20604161a2b1b2b61b2f5ac9523a4ab3",
     "7afde12fb1c309d3f027e56bac773306587fa90729a9d42c6b65cd01aa663ac3",
     "9d76e79993c5e8a7528d76635b99691e31ce3b46e80c2dddc931c060e2bf0209",
@@ -8002,23 +7999,12 @@
     "f53cab6bf0f9d4ba55b63cf101fa3c972ab0de32771c58ebe1cedec63669bd52",
     "674ba4ee7902383f82f997dc24d7c92887ddeeefada5ee47786e16746e39eba4",
     "19c9c5c50103ccd2c650cfe1d83fdcd6974636edb65ef57de44d258e1a63193b",
-    "a7a0e9a77ce39df34eb529f222d4d57b9f7211aa69795430d00ffee069890ac7"
+    "a7a0e9a77ce39df34eb529f222d4d57b9f7211aa69795430d00ffee069890ac7",
+    "f343b4f393d59f472cd6e3f13569041f5f56902305939276ed103f8fa191e611",
+    "8f88654d3ad722816fc3c9f85b3884b446aecfe425c55c21b3e64f741a1a58dd",
+    "804b826fe4f7dd97ea897d66aec628922097d4b4e44f74efe8fd6b2cbe024c9c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Trump Officials Met Privately With Hedge Funds on Mega Rail Deal",
-      "title_ko": "트럼프 관리들은 메가 레일 딜에서 헤지 펀드와 비공개로 만났습니다",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/trump-officials-met-privately-with-hedge-funds-on-mega-rail-deal",
-      "ts": 1795193053
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Trump Faces Tumult At Home After Xi-Putin 'Embarrassment'",
-      "title_ko": "트럼프, 시진핑-푸틴 '당황' 이후 집에서 소란에 직면",
-      "url": "https://www.barrons.com/news/trump-faces-tumult-at-home-after-xi-putin-embarrassment-e5980a33?refsec=topics_afp-news",
-      "ts": 1795193055
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Anthropic faces rocky next 60 to 90 days – analyst",
@@ -11504,6 +11490,20 @@
       "title_ko": "워싱턴 포스트: HEGSETH, 캐나다와의 미국 국방 협력에 관한 제한을 강화합니다",
       "url": "https://t.me/marketfeed/1083079",
       "ts": 1795228394
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Trump signs executive order on safeguarding executive privileges, boosting efficiency in federal contracting - White House",
+      "title_ko": "트럼프, 행정부 특권 보호 및 연방 계약 효율성 제고에 관한 행정명령 서명 - 백악관",
+      "url": "https://www.financialjuice.com/News/9862779/Trump-signs-executive-order-on-safeguarding-executive-privileges-boosting-efficiency-in-federal-contracting---White-House.aspx?xy=rss",
+      "ts": 1795228576
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "White House: Federal contractors must promptly inform White House and contracting agencies of any pending or upcoming congressional requests regarding contractors’ communications",
+      "title_ko": "백악관: 연방 계약자는 계약자의 의사소통과 관련하여 보류 중이거나 예정된 의회 요청을 백악관과 계약 기관에 즉시 알려야 합니다",
+      "url": "https://www.financialjuice.com/News/9862780/White-House-Federal-contractors-must-promptly-inform-White-House-and-contracting-agencies-of-any-pending-or-upcoming-congressional-requests-regarding-contractors-communications.aspx?xy=rss",
+      "ts": 1795228703
     }
   ]
 }
