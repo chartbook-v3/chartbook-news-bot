@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795292811,
+  "updated_at": 1795292961,
   "id_hashes": [
-    "f7bd7131a08f1755837d7b6f292feccd62cf4da20bfb0def49996715c269ecaf",
-    "60cb1330fce1bfba168c90912217ac11327d38cec0ee05b9fe1256f1dfb4ee05",
     "d8976c3003afdd5a1a4f84be2564225842ca797daa311dddc12652b1305245e7",
     "894f18386599b3917a85806d5f08a597618db03534380183a68eaa5ba56a9ec6",
     "336d9d7e6c922bd4f497e0f40e342cfee81f0a8b11bc7bcb227fbef1b5f21d43",
@@ -4000,11 +3998,11 @@
     "9bfe3a2f8a3dd1dcfc5d5e7caea2f8bafd7ca34513b83c56822443cd737a51f8",
     "808d7905e8eeb8e7d1375dedcae8e4ea5f441aa29ea8587b9a960953177884dc",
     "0954998e5b0c383a427cdc83098000e8d6febcf366a950e61e5a0cc581d18959",
-    "6dc73382fe0b9cd87bc528dc4726df9da644a918ae9ccb925b211db4e0a2a44d"
+    "6dc73382fe0b9cd87bc528dc4726df9da644a918ae9ccb925b211db4e0a2a44d",
+    "826916f9bbe3c0547190acb101a5f2f89a48e08eb7ecb7ae6f9dc3f6f0e65f84",
+    "5f53c8e4097d78e98297f150915b7ff7cf10f02fde51d75b096f4bae094cb9fb"
   ],
   "title_hashes": [
-    "e768ce7408778a1bd18169b2d06d96de27c3dedb249c6ff77c73bb9c37edb037",
-    "b2a5d3a1da3bd21a966a2aa10e3fe46b15b6f6b1e2a7703e6dc986711f077960",
     "6108ddc0b9e06a443d65cea0c5c0143bacdbde814870cb29539751a2d987d277",
     "ac95b8f1d931f1b3e5f108df5ec6ce18b50c24b7fd54d7ee5898edfe8dc4f24c",
     "a54584b06202d3fe393c5e1ddfde6bf868a60d5c3a018ce5a85baff910b9f536",
@@ -8002,16 +8000,11 @@
     "a5154f27d541524160b04b434e28771a433c9254c4ee9ba5ca3306ab6b0c4e5b",
     "0d0ee52e446a3a994db4fd9da02353d062fb9b96587f416ee55f5971aced4fbe",
     "4ffcb58b8514c722c3bf198ba07105ffc4a4587da6b6c8cbdd74092293c0fd7b",
-    "e9016f40ef0528264b3be48ea87ce4fe218a4d8bffb992fc93fc84b9e5bf9157"
+    "e9016f40ef0528264b3be48ea87ce4fe218a4d8bffb992fc93fc84b9e5bf9157",
+    "e26763c8ce5c66f9574692829898b74ee8e500cc8ab073531eaf870fa2d75478",
+    "4c8faec7a9b75357b8152384c189be3e8093d6f4097f7f108d344fdc068cfb0e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketWatch",
-      "title_en": "Dow, S&P 500 in correction territory in final hour; Nasdaq wipes out 2026 gains",
-      "title_ko": "마지막 시간에 다우, S&P 500이 조정 영역에 있음; 나스닥, 2026년 상승폭 모두 소진",
-      "url": "https://www.marketwatch.com/bulletins/redirect/go?g=637c4718-e771-4db0-99c7-f2407a3cc48b&mod=mw_rss_bulletins",
-      "ts": 1795205409
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Anthropic IPO was said to draw about $115B-$120B of retail demand. $ANT",
@@ -11504,6 +11497,13 @@
       "title_ko": "李대통령, 12월 트럼프·1월 다카이치 만난다…실용외교 보폭 확장",
       "url": "https://www.news1.kr/politics/president/6361654",
       "ts": 1795292059
+    },
+    {
+      "source": "Wccftech",
+      "title_en": "Affordable Laptops With Qualcomm’s Snapdragon X Are Now Possible Thanks To Amazon Black Friday Sale; Get HP’s OmniBook 3 For Only $399",
+      "title_ko": "아마존 블랙프라이데이 할인, 퀄컴 스냅드래곤 X 탑재 HP 옴니북 X 399달러에 판매",
+      "url": "https://wccftech.com/hp-omnibook-3-14-inch-2k-oled-snapdragon-x-laptop-black-friday-amazon/",
+      "ts": 1795292960
     }
   ]
 }
