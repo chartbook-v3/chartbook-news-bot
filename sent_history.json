@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795258242,
+  "updated_at": 1795258398,
   "id_hashes": [
-    "7a8513f6eb3e16b490fce90da684ff17a0b3ebccf0a53aa6f0de4f10df83a995",
-    "610d2867ffa23d799e9bbf1737dd354ec7cfdf41c240caedfc2cb07b47a15bae",
     "1dae134cd3283c902c6e7bdd1142f7707ca99897da5dccb6093ae7f15c9e3647",
     "7b82e92c19e4188392e85a017b492bf8ceb4a6ee87eeeed03155ce7dc9dc5d7b",
     "fcc3cddacb231ff8ac12306467e68fec92741267d249460ffdcf6867e430b600",
@@ -4000,11 +3998,11 @@
     "2101cbcff3a1fe6492f0c0e0fd9ad330236663b71f4dd7ebc7d40bf7588595db",
     "6f516e5a43ee13dbe8f00c5e28500759da683fee21975fcd00b772967c18285d",
     "f83e2b6df910886afe20ea0a03046805adaac6b794fdd56b66318d8a5749d0d9",
-    "091f56fcc8bfffd41026819742c38f8bea8e7cfe3d72cfc79d8d50199c73b799"
+    "091f56fcc8bfffd41026819742c38f8bea8e7cfe3d72cfc79d8d50199c73b799",
+    "77bc743730b937951ef29116be7dc09bd21f92797f3bdfdd504a40c5ec3d8003",
+    "c8038e225f38737e87f034a3bb933a7f56a19f6e89d4c7d3d81b1300ba41d63b"
   ],
   "title_hashes": [
-    "58ebf446667e56da4135a175c542f6b904a6b12d9cc89b02246aeabaffce298a",
-    "9afbe8a1bc82c7c4c896f909818de728ae766560f9208bd772cd3810e39773f4",
     "0eb03f0ae905ebb315aecaf16de51425b857628df8a5224b8b2041a14883244d",
     "8c990ed0e22748bc53554a72f92357f2f42878f58a314fd4d6362dc437f33735",
     "f10cad31920924c871847582606b2c7911028063b8c7df23f35bab49a91349f2",
@@ -8002,23 +8000,11 @@
     "73a465838282f4a7fb6d18e1a9d96da9112cf63e5f9ea5ae654bb2248e6ff96d",
     "3a4f4086d494be2a49e80148a5c33be1f98e782fb8983461f60572f438f65fb4",
     "ba3409c16bc69000e236e90879a650160962aa9e3d25c48ff07198ab67d3713b",
-    "946530c4af80b80ccf256ac6448c2fdf57aab9a7a5919c76603699ccb33de32b"
+    "946530c4af80b80ccf256ac6448c2fdf57aab9a7a5919c76603699ccb33de32b",
+    "09dcd1cb9a6c6c3f95273aacdbcdb48de44427f1f6922ad9b9e9f354695b2bb4",
+    "8aa082a40bf503a0a0b8663142a4f2acdfa268e41f0125b406829f344a38f97e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Trump Says Both Sides Are Exploring a Comprehensive Arrangement With Beijing",
-      "title_ko": "트럼프 \"양쪽 모두 중국과 포괄적 협정 모색 중\"",
-      "url": "https://t.me/firstsquaw/194692",
-      "ts": 1795200431
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Washington and Beijing Are Discussing a Wide-Ranging Deal, Trump Says",
-      "title_ko": "트럼프 \"미·중, 광범위한 거래 논의 중\"",
-      "url": "https://t.me/firstsquaw/194693",
-      "ts": 1795200433
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Trump Wants Restrictions Limiting China to Previous-Generation Semiconductors",
@@ -11504,6 +11490,20 @@
       "title_ko": "프랑스, EU 최신 예산안에 강한 유감 표명…협상 기초안으로 수용 불가 입장 밝혀",
       "url": "https://t.me/firstsquaw/194811",
       "ts": 1795257733
+    },
+    {
+      "source": "Wccftech",
+      "title_en": "Former Intel CEO Pat Gelsinger Says Incremental Chip Gains Won’t Cut It As AI Demands A “10,000x Leap In Efficiency,” Rejecting The End Of Moore’s Law",
+      "title_ko": "팻 겔싱어 전 인텔 CEO \"AI 효율성 10,000배 도약 필요…무어의 법칙 끝나지 않았다\"",
+      "url": "https://wccftech.com/pat-gelsinger-says-moores-law-needs-waking-up-calls-for-10000x-ai-efficiency-leap/",
+      "ts": 1795258393
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "FRANCE FINDS LATEST EU BUDGET PROPOSAL “VERY DISAPPOINTING”, NOT BASIS FOR A DEAL - FRENCH PRESIDENCY’S OFFICE",
+      "title_ko": "프랑스 대통령실 \"최신 EU 예산안 매우 실망스러워, 합의 기반 안 돼\"",
+      "url": "https://t.me/marketfeed/1083174",
+      "ts": 1795258397
     }
   ]
 }
