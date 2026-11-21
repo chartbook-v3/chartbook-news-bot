@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795246653,
+  "updated_at": 1795246798,
   "id_hashes": [
-    "d6284919ad6ea4df3fc3ccaf4784584ff0264248c22525210fb4c4a4c5f53b09",
-    "2ede05a0c3b5d8af746b31a3952d76a96769536d0c71ae277b1c3652fbc48086",
-    "21bce0126054157fc5176ddb654725e6a7624b571b267dd5b517af8275b490e4",
-    "bc6e9f1d66b5cf14f7a8346dc5d4b2f2aab330ae7459d131f057460437812f32",
-    "a096c5e40be9ec09021877b03387609e14c42df31fc96b52386492e53ea233c0",
-    "9c70d46bec7d1211ee3a3559cd0e0f67f2e2fac070eefc72343909b82ea10019",
     "8f7c33bb723031195d6bfd3dd3cd60d65e2b0396ba557ce0eb99ce06bc22fc05",
     "b46aa76214953188234bacba30de76b263862466f7ec8600b03782017d59d774",
     "73dfa532a9806252d464ddcc8728dcceace7da92e9e06e8d65900cdc77576fa0",
@@ -4000,14 +3994,15 @@
     "36ad0e80e2449da280da2daab67397a7cf1978a58f0741637a169fa9c8d85e1d",
     "85b2f56aa73babf8a11a5894f33c88df559c2d2b74c618ea06127cb0b0a463ad",
     "1ea84b790f6a89ac912e0b9f48da85006b4be9e67ce431f6de3d3257b6187a65",
-    "75e81e5d0f2cd9822ec7ad4f107b02d9a62ea8c3050a3fc6c4663598aa837d58"
+    "75e81e5d0f2cd9822ec7ad4f107b02d9a62ea8c3050a3fc6c4663598aa837d58",
+    "bdb895dd8a5b63d73631b9a90afa9b4a95e3b2791a0b283f6dcc3856e501f902",
+    "24184765010c314e4774b691e47f8cf8510ade6fd0b57561bf2bcfa88bc6c4a0",
+    "ef0f438ffa83a6c07dd167b6d0df9fd7afab5eb558211c72117bce1590ca9837",
+    "9b9cf07efba58fbf35c70fb87e7abd228c88d797395f4b216f8ce09e4daf46cd",
+    "6b25e0ab4a409573c4e149d3e2eb3a179a56d163142ede31e9e0241ff7bc8b04",
+    "007191fc49368518df90ddb5eec20e5d719a5e9a58bf656d50f4f0915fd9829b"
   ],
   "title_hashes": [
-    "20f2efe98b17bd87bfde06d8e97724b38f55dce3b9490aace63854b8ba17f742",
-    "333b5a6c82460f1de94feeca46823502a10851a8f0436d485488aade10c6fc45",
-    "4cefdef91d36c4a26d8f5144b96daffec1ed76bb005ec240bfddf2818244f795",
-    "4051c58d486bec254abb72e17a3ea0ef6f8d89a076ddef74543ed3de2fce8a91",
-    "9c10c2b523c90cedc5dbd8d128e1641087c104e8cfb9fcd6d46f40f021925b90",
     "e189c3323d96b451b74cc47a519cedc075d2e8f26b1e2a2ee072c2a416edf24b",
     "92dc3e7e2d813cc837ba2ff88bac5e82b39005e920f90bb07fa60856f704bad9",
     "90526fa8ac702aeac9cc25aec300af010e17d940d2e581c97608b3420e3c6a2a",
@@ -8002,16 +7997,14 @@
     "982998cd407ac4f39e29a8a66aeb8fec364b0cddf49d0365a1ff6e518f9bb341",
     "fa376299824d22131d48d5d372ae94c39603f82dcd3f0c20afd2d7234cdbe046",
     "bbcbf7812da02ef4eb04401afc84b06287dae21a3d998e8003296d16f5e109c5",
-    "8bb325fe242425bfb0bd52d45478428b9f1d29d2318122838eb6ff2d2f995bab"
+    "8bb325fe242425bfb0bd52d45478428b9f1d29d2318122838eb6ff2d2f995bab",
+    "d850f07ac753da2ccc847923d37679e847ec1d8212ef6046871d4de9cbfde0c1",
+    "98c3c264423f8c0f5484931ab6b37c8b3aadb932635708669615da7cd22a3a30",
+    "9afdc9b6e8ebe18ac30385e5cfca6e010b3069a9ba77d5ed4407d6b9959995ab",
+    "4b0e4133ef7c397990641ec9a3687e427e6d179cbc6aad5b9d413e77ab641e1a",
+    "fe23fefa9cdd437ade558db44fe85521d13d1d29a2e785e516e812503698bcf2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketWatch",
-      "title_en": "Nvidia’s stock heads for a stretch of weekly losses not seen since 2008",
-      "title_ko": "엔비디아 주가, 2008년 이후 최장기 주간 하락세 기록 전망",
-      "url": "https://www.marketwatch.com/bulletins/redirect/go?g=4844649e-b874-4033-b895-8b6174b4217f&mod=mw_rss_bulletins",
-      "ts": 1795196218
-    },
     {
       "source": "FinancialJuice",
       "title_en": "US Senator Tom Cotton: Commerce secretary and top officials ignored communications about Nvidia chips being diverted to China - WSJ.",
@@ -11504,6 +11497,13 @@
       "title_ko": "이번 달 이후 원자재 인플레이션이 급격히 둔화될 전망이며, 11월 현재 WTI 원유(-21.7%), 가솔린(-21.4%), 브렌트유(-19.8%), 난방유(-15.3%) 가격이 일제히 급락세를 기록 중입니다",
       "url": "https://x.com/KobeissiLetter/status/2124043635972845896",
       "ts": 1795246501
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "MUSK SAYS FSD V15 GOES TO WIDE RELEASE NEXT MONTH",
+      "title_ko": "머스크는 FSD V15가 다음 달에 광범위하게 출시될 것이라고 말합니다",
+      "url": "https://t.me/firstsquaw/194786",
+      "ts": 1795246736
     }
   ]
 }
