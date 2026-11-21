@@ -1,7 +1,6 @@
 {
-  "updated_at": 1795243335,
+  "updated_at": 1795243488,
   "id_hashes": [
-    "f9da2f50cd0bca4f1f9ff6280532113fdd78c90a3f2c261b8918d937de65ecfd",
     "ee9a2ee05258030e1475d1c9fd78491fafb81c1fd77d08ad6a6d614f80ca2da3",
     "d9a64c340a57332cd115e63499b1a0dececa41f261a7c285ba771de154aaa486",
     "deb735516773a5a74de24e1e759bdfeed3703034ee5c1b7a53c8e578d6c3fe11",
@@ -4000,10 +3999,10 @@
     "4b01296b4c56d4911dd08bf7840337dfd6b9994c03d7efeace85bec0eac09211",
     "cb2c4044a67cc6a2004fb9c8b6d11f47d6ad6d8c5fb70ee588b3a62c56f6d895",
     "8eefe94ad5dc1aca1e1bace8a954514bb039d699dc8707d475eb2d1037b2a0a1",
-    "fc11bb2f577c8bb0398cd528943e95806f4ecb4290c5eb15fe721232baed0638"
+    "fc11bb2f577c8bb0398cd528943e95806f4ecb4290c5eb15fe721232baed0638",
+    "1fd7e50945f45e8a7c00f226e5dcac48bcbc3fc91d1c1e79368081a1ab59b087"
   ],
   "title_hashes": [
-    "99f53a0f64af44696b0bc27aaefa3f3bbe58000f4b8192ccb16d4effb6a8f543",
     "86d7e6d7a12d45f72a851a136b52d230f3d020012bcc40370c3cda550ed87313",
     "3df6f7bcf81bef4bfb1c932da58e4895ef2b55108686883e7b4cd618d4ff99d7",
     "f757eaff55b841ee07ad302a1dad0b6be78ff0eb309808ffab0741f961a7604f",
@@ -8002,16 +8001,10 @@
     "d5e91c29c407dec600881682dabe817890673da30e4f9d76b949af63af227861",
     "e3ca3fc04c82c127918acf218ea8ce014af2fdaa492538de5938f285358a557d",
     "d666a823344a4243abf73f085e5de7597eb099686875b64caf8b35cf7fbea463",
-    "fadf9519b88141dafbe8db6e854a375c9a1e243ac7702f11145405738e0e9333"
+    "fadf9519b88141dafbe8db6e854a375c9a1e243ac7702f11145405738e0e9333",
+    "e5c18bc24d55c0e6c11ae28daa9d419c1acc23e5d6c9079d0df0fbe8e6ee585f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Trump Says the Other Side Is Interested in a Deal",
-      "title_ko": "트럼프 \"상대방이 거래에 관심 있다\"",
-      "url": "https://t.me/firstsquaw/194661",
-      "ts": 1795196002
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "美国总统特朗普：利率过高，美联储带有政治性。\n\n我不是在指责美联储主席，但美联储带有政治性。",
@@ -11504,6 +11497,13 @@
       "title_ko": "유럽의 사이버 약점은 아무도 보호할 생각이 없는 일상적인 비즈니스입니다",
       "url": "https://t.me/firstsquaw/194785",
       "ts": 1795243128
+    },
+    {
+      "source": "FT",
+      "title_en": "The dead hand of history weighs on Deutsche Bank",
+      "title_ko": "역사의 죽은 손이 도이체방크를 짓누르고 있다",
+      "url": "https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920",
+      "ts": 1795243426
     }
   ]
 }
