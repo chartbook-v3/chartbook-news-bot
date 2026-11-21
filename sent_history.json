@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795275339,
+  "updated_at": 1795275486,
   "id_hashes": [
-    "aac2e9c0ea3f327c16ea44b038a1a4f7e11ca692c3635d39d3d246b25875cdcc",
-    "abe6792a79637b2cbd8431948a5c58aa1c4312397de46768156883cd87df8085",
-    "71dcae807842c9c494077d610f81bf70463eba06c6ba34f79b1bf417a7f8e414",
     "82f967637c508cbab42189a9c183af198d0cebb55679125c7b32e2e2d5b99714",
     "42ddf7ff694615fccbef558b51a180292c589d7a0f9480d52b70378fbdf6cac2",
     "a84904a928c7ecee946168a64eebe51942cae514be1ff7114e77d8bacd92efd3",
@@ -4000,12 +3997,12 @@
     "0dfc7d3e0b85476e9cd6c48f8ed492dd0f36723e5a429fa9186afc88a4b9d3bc",
     "170962d9e15368ff72742288cd68fb01383e8e0ef152ed2a6ab9d4087fb463e2",
     "bc4634dd05a1d457b308a92f6692b543def58fecbbfa99df4c23ff535a96ca8c",
-    "13dc19bd1929848edb7beb7a5a6775e6d793443cca2dd2c2af0ffcba76445a9f"
+    "13dc19bd1929848edb7beb7a5a6775e6d793443cca2dd2c2af0ffcba76445a9f",
+    "5f112ee4c3e1b13e7f86b1241c4e07957ffba6a1a5def57ac1293bb67c9b60d6",
+    "16aa1c15b598f045a88636272e0a501ecb12b7d343388faeced8285f8cbe83b8",
+    "f395447c0792c50293f7c78510a09e96cb5e69e484451bf1b35b51a13b1320cf"
   ],
   "title_hashes": [
-    "bd9508d2e24319af18a94ee2075b0ac24068d5dc66f39e4f8bc5910882efee03",
-    "13666a682f6bd92ef6fe1a23fd58ba6c07d18662155710b30a4281be728a1524",
-    "ccd1b109253551db5954c3e6d5af3c933c33e44014aaf14051adc4393153193b",
     "3a961289dcbbb02d3432231f7974b14b0c628cc0166ab3bb3cf88abb7676d210",
     "dbc3ce906e140a7e9e5e6ba40100571dc65479f5e0716f43b8abb366fab3645b",
     "5d664b0fc68ef95f3656d95f473cdeacd1bef617c2b7525e9a5ff41269d000c6",
@@ -8002,16 +7999,12 @@
     "71fbd517ce4c6e768bf543e4258370faddd91cd2bf16c9a3185931577cdca901",
     "562c53d230f2d2b8087a6b10526a3c9383dca69cfc32a308f8ea1be8a5347cf7",
     "2869977df36445c739e37b55520950733695d8e99c2387829e6e63c10ec1fd42",
-    "6dc422ca21b5782e7259b45e6217e0764a220f48e3af686a6b6037657258d3b9"
+    "6dc422ca21b5782e7259b45e6217e0764a220f48e3af686a6b6037657258d3b9",
+    "d5ad5b3539ee6ab660179321161caeec46957bd463dde79095b774220a06bd90",
+    "6c60e9bafee0b3fce861ee60e8ec8e43bacb972a8b25fa52400b0b658763c46d",
+    "89f9816f673267c5cf3662a8b686cf626744ca6ec7a93e1c6d9d817fba4a2e7e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "US Stock Market Weakness Continues as the Dow Jones Drops 1.00%",
-      "title_ko": "다우존스 지수가 1.00% 하락하면서 미국 주식시장 약세 지속",
-      "url": "https://t.me/firstsquaw/194711",
-      "ts": 1795202736
-    },
     {
       "source": "MarketFeed",
       "title_en": "JUST IN: 🇺🇸 S&P 500 CRASHES UNDER 7,000",
@@ -11504,6 +11497,13 @@
       "title_ko": "체인플립(FLIP), 키 탈취 의심으로 볼트에서 486만 달러 유출되며 34% 급락",
       "url": "https://t.me/marketfeed/1083256",
       "ts": 1795275276
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "FINNISH BORDER GUARD: THE CREW OF THE RUSSIAN CARGO SHIP DAMAGED IN AN ATTACK IS BEING EVACUATED BY RESCUE BOATS.",
+      "title_ko": "핀란드 국경수비대 \"공격으로 파손된 러시아 화물선 선원들 구조정으로 대피 중\"",
+      "url": "https://t.me/marketfeed/1083257",
+      "ts": 1795275427
     }
   ]
 }
