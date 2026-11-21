@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795235454,
+  "updated_at": 1795235606,
   "id_hashes": [
-    "20fb5d7dceb7a7f10347b4449bce33ca4fc017aa570567f86ce016e213fff2e6",
-    "339b1a495c66914f2fcecaa3e0cf0106e0fd86e63b2fb35c7cac9af5432ef8ad",
     "1ad21644b748f6c512d775b783f33d681748f02f8528ebdc82ed7b6e2305db8f",
     "e3ebda9fd81311c4f2761d6e338732df70afed3d9128134f07cafa555394339f",
     "521ae17e84a881dd4d5a01c47b83cbf8685cc1a6865a15ecae1058c4feecddb4",
@@ -4000,12 +3998,11 @@
     "b2cbea0ea59293a1e0b5b1a0caabea7b67b0687919fed48a40ae79b2bd4f7988",
     "c077b91d261464cdee69e84c542fa5a5b8966f92819aa31d70018a54d175afe1",
     "acd779a62b4ec7073b244815b73f41681e40c8ddc90814b585e800bf5cb125f8",
-    "16039c471ac425138fd4e624314a2e12231b8de743bef72ba57941fda48a8d73"
+    "16039c471ac425138fd4e624314a2e12231b8de743bef72ba57941fda48a8d73",
+    "9d6bf61aeaa73c6204e24a11d5de70dac7e3ea3b49da8541002f5bbf35ea8bc7",
+    "f33cac6307ff0b3d8512377cfe74f353372cab1095335d126e8262c7c966ffb6"
   ],
   "title_hashes": [
-    "4f98665adc3af81445408da683291392bb14ed9c46517156565441ed3d60abfc",
-    "d14515909713a4545a8002f29235b9ab218406c87958861ee645bbb5ab3177db",
-    "92fdbce59bc8d199665083a931331c3edbe9071f68fda0ed1fb7d516d5c9aa23",
     "275181b14c00f0e10e67cb9bfa00d841429ccaae190a88fa6a3b14884c32b490",
     "17cb2cb2960b2f8fb0ae64c4d8c68c2b0ae11c66f6f7b208cbb4d710858dda10",
     "259e0916ddcdf98e890833c403a65913d1397b17baf472cbaee4a6bb052c117a",
@@ -8002,16 +7999,12 @@
     "076bca8321cbd6cb7ee76a2939949b1f7a686dffb1fcc47a8384d106ff9abfc5",
     "04076efe19a31b20b98de2d9df99ee1a87464f39567b63f0bc7b3191f8a012e0",
     "70540b78b0de6c0952ed7efec574bb572230423da40f22be207181912dca514c",
-    "85dfdde6110154d999e9c73998e0ed24d138ab05a16ad44e7f581fa4e4a5614b"
+    "85dfdde6110154d999e9c73998e0ed24d138ab05a16ad44e7f581fa4e4a5614b",
+    "e8cf61705b9786a84dd35c885c1f0e3643df2d590e26b3f3c02cc06054c9bca6",
+    "818a8d510fb95329a36ae4512e4682822e460c4ada558cd28f5f3672e98c9d50",
+    "587356139629920688733f4d8f9dd45163a52c39b1dc30f917d213ec1c9ec9f9"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Donald Trump's Tariffs Can't Kill Globalization",
-      "title_ko": "도널드 트럼프의 관세는 세계화를 죽일 수 없다",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-20/donald-trump-s-tariffs-can-t-kill-globalization-video",
-      "ts": 1795194307
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Ford Announces Pascal Zurlinden's Appointment as Global Director of Ford Racing, Effective January 1, 2027",
@@ -11504,6 +11497,13 @@
       "title_ko": "美 의회 “스페이스X 자금 지원 중단”…우크라 드론 방어망 차단에 경고",
       "url": "https://www.theonetv.kr/news/articleView.html?idxno=255689",
       "ts": 1795235453
+    },
+    {
+      "source": "매일경제",
+      "title_en": "한한령 해빙 기대·日 엔터사 인수 추진…하이브 22% ‘쑥’ [이주의 Bull 기둥]",
+      "title_ko": "한한령 해빙 기대·日 엔터사 인수 추진…하이브 22% ‘쑥’ [이주의 Bull 기둥]",
+      "url": "https://stock.mk.co.kr/news/view/1203608",
+      "ts": 1795235481
     }
   ]
 }
