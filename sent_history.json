@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795297162,
+  "updated_at": 1795297314,
   "id_hashes": [
-    "98b2bd339e1f0143dbb228776028b542610e5cd6386caffa37480f1accb0a51b",
-    "35c5fa1a711e5778bb777a57daf9e82b4f7e386846d80517b3f7f1a97016bad8",
-    "6a8c810114e1f8d7780ba028294237c4e2683f3930a1d90acbae83dd65930cc2",
-    "4ed67b3b789f2afd1e4571fdd2fc4f004196eb44183844b8da23ef042112e25a",
-    "d1eac1d3473435be3b67192fe133cbeb3ec65ee230aabede01bd18363c79ee8c",
     "6f617c76b743898f2c4052f2bc94d6781484dff81a14d7ee097dfee495cab23e",
     "ebf014d505f5ed6f4a25c17fa18aeac7eb57ceda7c5d789da8c632cda7b59903",
     "e24cc5ea67d6bb5b49145e483e37a6a0b7b4529ca0ef4dfe4d0308eb19e1b5c6",
@@ -4000,14 +3995,14 @@
     "68b9004e11553c93fa3bc6c6570c4a911d555adf19875f69ebf2f848c2e3ffe0",
     "aa07efc2e4d769642a79832c32d9e2b482efc20dce98632e0dde1a31965ae48d",
     "4753c9d3c0884e08100ffe19ec1366e3d40cf5208cec0d6a1aa0e25d41be4835",
-    "5c30424baa45e61ae045d98e2921d11267a47658beae08412f0eb15976a690b1"
+    "5c30424baa45e61ae045d98e2921d11267a47658beae08412f0eb15976a690b1",
+    "6c39581968da6ec84eb03a3e9c500eaee22d2ed9d26cee846f0471026625af34",
+    "8c80a1436b6dc5d2e1b414264b0125a89bf78b162ff8008e807ee79f18dbc3c6",
+    "2883c3d8f8b735890e4ac206254537dc253c7fbe166798b020b8297ebe9e1f06",
+    "354933209f84a1d0fab3b660d0a56cb10b2e8ac446e285dd5e0993b348f59350",
+    "2e930399a0396a8f6badc9aff1591fd6ff2d71eabad6db5b3a99f5d5fe6d840e"
   ],
   "title_hashes": [
-    "0bb8c5e9cdfc2e2b76b7d83a8c0ce95731053db32a3969ced706fd1a74d68e8d",
-    "7133bc154e3c6fd05b555295ca273d63a5099ef3019a34266fd7ede37bd121ae",
-    "a570e8517b14d521d72a32fa81bd6f9afb69b413607c24b17b1a5c9f6ec3f437",
-    "d42725f3746c71c2d553396bb91873218a771a7316c53ea0d8b3e14a2bf394cd",
-    "bf6dfd7cb610b6715b609fc5e137fe54786bd0146a57ae7f3b1489421463fd58",
     "1adf4ee636dc64631a308202099bf2dff7f47488f67b53376ab762e11e8c7e43",
     "44f1983081e35ece9e744a6913d9e28b6919648ea4fbcd1fbab39cd040f043f4",
     "862815d866df354b1f2b6897774435030abd4374c358b961dd485ccc021f4342",
@@ -8002,16 +7997,14 @@
     "ecf8ab86c2d32aa6f7e618d6f770c21dea19ad056055e1e43510f7f5d6cc7047",
     "cc377ded39a5cf8825ee5c321b7fe0a575d9835dfe16669216deb74eeb5ba6e7",
     "96e293d8b8afa91fe7af092e2406a39eea620dfc22e9534bc0b38b22d330f479",
-    "f365683f52924c606bea0afe3e3ccc653e52c3190ef257180157cd02474727df"
+    "f365683f52924c606bea0afe3e3ccc653e52c3190ef257180157cd02474727df",
+    "2f52e3f8d6bd5efc96fb285beab63dcc605cc5151901eb17e5bb5d733821675a",
+    "b4644b694b3b7d4d20625267e394f447b000d0c1507099fff8bcb3a8e19aa41f",
+    "c602d3f5e23fd35b05ff18f007dc087f27e7c0dac94df76586f85d82055f3ff5",
+    "78c2f99bb10e354b29e0926070ac9c201c3f96868985d805b908332bc1aa84f7",
+    "ea6e64bef227276749f3700bca2d46a366c81ad6458577cbf617d819b4ac4917"
   ],
   "recent_sent_articles": [
-    {
-      "source": "9to5Mac",
-      "title_en": "Apple Watch Series 12: Four standout features make me glad I upgraded",
-      "title_ko": "애플워치 시리즈 12 출시: 업그레이드 가치 증명하는 4가지 핵심 기능 주목",
-      "url": "https://9to5mac.com/2026/11/20/apple-watch-series-12-four-standout-features-glad-i-upgraded/?extended-comments=1",
-      "ts": 1795206622
-    },
     {
       "source": "FT",
       "title_en": "Donald Trump threatens ‘tremendous’ tax on data centres built outside US",
@@ -11504,6 +11497,13 @@
       "title_ko": "\"한은, 26일 기준금리 인상\" 한목소리…10곳 중 9곳 \"내년 3.50%\" [금통위 폴]",
       "url": "https://www.news1.kr/economy/trend/6361408",
       "ts": 1795296870
+    },
+    {
+      "source": "X ｜ THE KOBEISSI LETTER",
+      "title_en": "President Trump reposts Abdul El-Sayed’s “TrumpCare” proposal which guarantees healthcare for every American for life.",
+      "title_ko": "트럼프 전 대통령, 모든 미국인에게 평생 의료 서비스를 보장하는 압둘 엘사이드의 '트럼프케어(TrumpCare)' 제안을 자신의 SNS에 재게시하며 정책 구상 시사",
+      "url": "https://x.com/KobeissiLetter/status/2124256380341088719/photo/1",
+      "ts": 1795297313
     }
   ]
 }
