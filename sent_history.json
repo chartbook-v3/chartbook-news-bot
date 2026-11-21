@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795222057,
+  "updated_at": 1795222214,
   "id_hashes": [
-    "378cfb9e9ee765aa490d3d5be7305e92bbc6788f139e4bb2431d1c720f29b71d",
-    "308cb29ec08804d050991725044c029b949746aed85c27905bd981c73778d991",
-    "9f20d535ece612bbf40a7b7c18034ac921f3a93c46a9aa29d4f27a717207b0ca",
-    "faf7eb5a231ca2622736653a6398dc7f65d1a3406bfea01b99f008e0e4d5f4df",
-    "665d7cabeff6158152df8898245ceebfd838f45ca4d9122cc604a1f7deacbd6e",
-    "9b94edefde3207cedf160b26226306371c3a0d41efb53f55db682ae84855fc9f",
-    "eb536d4370278dd77aed10a4de45a7de83f1a42ce6ec6fad447893d3963388d3",
     "39f7751acf3e719ca36a6202351f4f6b14fb3e3861f1b9f3b52ae49abd9e134d",
     "4632c8a4cb784ab9bf612236cf2146596dc3bc94e854b4bad30c59c0a6d66488",
     "efa1006adef6e1816fb2b24263d50b9a2dc82f6ff9b1a191150033f1527974af",
@@ -4000,14 +3993,16 @@
     "ab6afe441ca8ff2e806b7b73cb903fd582f0c54c82cc3b7ab552f52619d533cc",
     "1f9d59689956b581448566bb30c97e5244d3e9fd99c10fd67de9b8c97c21149b",
     "921d5eaa3a0d5acea81b6f32d581914490e2c5ca80458b294714edcf79732cae",
-    "9698ffefcbe46d12ebb2721b7bfed06e3b4ff1e284ad2e7c0dc52e52be5b63fe"
+    "9698ffefcbe46d12ebb2721b7bfed06e3b4ff1e284ad2e7c0dc52e52be5b63fe",
+    "d1e4d5f555b605ade0c3f9ab09c01e937473b4373ca5aad6e087e7ce6a1fb12a",
+    "69bcb42709111527084e2f26dd97330fb99f273a0fb5699d9d393593097aabec",
+    "c15a651e898c2f235bbb19101c425500d4fbf702e2869dd6a9c03734ba1fb015",
+    "b064f48bb9dabd6209157aecb2a5409a0ebf237cfb04f08ca687948cbfe52606",
+    "8339cd8a94924d46ce14d5d9e45e146fc873ce5972ac54248db95e83ee23ac0a",
+    "d11c14275494bba7a041beb6189dad4e85fab642852be7a0015637214c6cdb61",
+    "3a72ccb090a5c64bbcf26aa63bb7515ddb6281549d26bcc27109332df1af5116"
   ],
   "title_hashes": [
-    "8e20dc822c01d85a7ffd57da1b2b0f5d34f5d218fa2b19dec8a8f6aa209de088",
-    "a4c09bd88bae1b440e0b73339b0f942c7159b67b37d92fc5c9b9e0131ebe8e3f",
-    "4ebe0460a7120ee70a8d3fe784cd28f5c7a04d6144305489f44fd18c566a06f7",
-    "10fcd57e50f3dcbcf5a60ca881b13bcca2ded3d129d6b8db8a517dcf6cb9b4a1",
-    "cfe16435e8de8e6b9c6aa653f4effb9f1a22e749045377ba253ab154c74c80da",
     "b381fc1d684690d02887124fffcb434d7523700c997b6bb3f845f528c7b5de6f",
     "540302f6240c43a1d9eb1bfbb81c485c0bce40b0d452dc3c21b4ff50ae9a0aae",
     "94259972aa48be5bfb89e2c56856087301de6463b1159a7b98f2a90e8002d815",
@@ -8002,23 +7997,14 @@
     "783b0754ced888a755fa69e15247e0001d9bd07b701fd4f68bc80cddd45cbcfd",
     "ae6aad173be0bab341ddc268ab5f6d7373687f01f65c6d1d22ce29b6f70458a4",
     "1e2ae5f536cb29f76a055299f2efa46a189622439e515dc0781f4d76a014ce03",
-    "c405e66d5cda67e316ea4ab97b4e45d787e75fe7835c68666472bb0a72ce28f8"
+    "c405e66d5cda67e316ea4ab97b4e45d787e75fe7835c68666472bb0a72ce28f8",
+    "d7c46df58992f104fca97d854c156f29a66969974f597bf3cd08133c7387effa",
+    "be08c9efc4cda9a889be6ec2fdf9540b9a576cec31ab621dc2041a543abf5289",
+    "ccb79cb68a175cfa9bf483646b815871a4a9f03c038d2110f5bd365d49faaa11",
+    "74b3b487211486e97cefb45da69e340e1a5a7110deb78a720b3bd7a573805fb0",
+    "65449e10e0729bfc8cba8b2383510d3745b22723c14eadcf402081588af79fcf"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "DONALD TRUMP SEEKS UKRAINE PEACE DEAL BEFORE JANUARY: FT",
-      "title_ko": "도널드 트럼프, 1월 이전 우크라이나 평화 협정 모색: FT",
-      "url": "https://t.me/WalterBloomberg/38786",
-      "ts": 1795191674
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "美国总统特朗普寻求在明年1月前达成俄乌和平协议。（英国金融时报）",
-      "title_ko": "트럼프 미국 대통령은 내년 1월까지 러시아-우크라이나 평화협정 타결을 목표로 하고 있다. (파이낸셜 타임즈)",
-      "url": "https://wallstreetcn.com/livenews/3203476",
-      "ts": 1795191677
-    },
     {
       "source": "Wccftech",
       "title_en": "Henrico County’s Data Center Tax Subsidized New Middle-Class Homes By $226,000, But At The Cost of 500,000 Gallons of Water A Day, Diesel Fumes, And Soaring Power Bills",
@@ -11504,6 +11490,20 @@
       "title_ko": "美증권위, 엔비디아 회계조사...‘싱가포르 매출 제외’ 주시 가능성",
       "url": "https://www.sedaily.com/article/20117192",
       "ts": 1795221750
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Nations Spar Over Fossil Fuels as COP31 Climate Negotiations Spill Into Overtime",
+      "title_ko": "COP31 기후 협상이 초과 근무로 흘러가면서 국가들은 화석 연료를 놓고 다투고 있어",
+      "url": "https://t.me/firstsquaw/194721",
+      "ts": 1795222087
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Vietnam's FPT Software Rethinks Traditional Outsourcing Model Amid AI Disruption - NA",
+      "title_ko": "베트남의 FPT 소프트웨어, AI 혼란 속에 전통적인 아웃소싱 모델 재검토 - NA",
+      "url": "https://t.me/firstsquaw/194722",
+      "ts": 1795222151
     }
   ]
 }
