@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795266453,
+  "updated_at": 1795266603,
   "id_hashes": [
-    "aa7de86533a2b31f50ff65b4c2f272ec2bdd25fe13d208ad7880c24aa29bc12f",
-    "1d125598ca5448405907cd1c4ebed51e4dc1d295aacf4dc8625cc871546ebc16",
-    "13188c68fdf224b22e09de612ec1bb3fb4beb6efb6f142df2ae4ebee2f54b535",
     "4b828144281a9437e3c148d086a1bacb34b91dd1849948e763514d7c75d93086",
     "49658bac343e50f48a00d1f2bd286314f9310ef0cd9ac82eab46816025e114a9",
     "af0888f2161a7f0c17063ba6044845b25bf45e6ddbce67dd6e5992963373a0ba",
@@ -4000,12 +3997,12 @@
     "ef16e21f2f72184debd9941d82a409f0aba25962697f26e6b22b2c9e41bc7d58",
     "0b9e638353a7ee35a58949a932bfb42850773a818915fb50260dd3694615edfe",
     "dd73fbe7f2dc17a7af3d062680773b0b6935c224009c06f4c7288c9a0adba24f",
-    "2b0fc6a123434cb690912209b319d690fade8c8ce555e5154d769eed758c5bf6"
+    "2b0fc6a123434cb690912209b319d690fade8c8ce555e5154d769eed758c5bf6",
+    "2d8951eccf5ef34dd8aac0682bf7ecea258eb4f7e8f51d51ad34156ec0898f73",
+    "a58287286baa04dddd794f62f09eebc48b2aea551b69a38e151f29768e94c901",
+    "8f2b416f7f4e2b6364a2ca23960a06dc7cdee8a140b12e20bddcaad3b829b19d"
   ],
   "title_hashes": [
-    "b32a7fa56ec497b8287d958c3b85007fbcec21520372b4d5834183fd8ff407db",
-    "1ef33c6fa7641131089b29ff120bcf48209385095329f055d152ff4e6c812001",
-    "7d78390ba9fd0dc7763a78b524569b329079e0fadb9484e537ea5b47beb07e68",
     "c3e772318b8e889d0e9fc426d7e4e0fbbe29f8d9e237a21c00847e858c01bd03",
     "c468780d8b7de4c318059c068f539680f4168b4178a2a075b65324398f358854",
     "0de296b1af22531d9e621ce2c5069319ae8d222c5c89489ca39c75eef2a12741",
@@ -8002,23 +7999,12 @@
     "90effafe1631113306e333fe0a460a89550dfaa56f75a6cdb2999bcdec3864d6",
     "17d8ace1652c5c27d334e3abefa1966fb2d68f3189e7c96d5886148de4b7ca2d",
     "69442bc00a014f8fb05ba53d66c77d8f469fded2af86097edc75e3087f220c06",
-    "51f88738454a6fd50c4a452eb1a152803f8feac93675701cea676c735595ba0c"
+    "51f88738454a6fd50c4a452eb1a152803f8feac93675701cea676c735595ba0c",
+    "021f1e1e7bb51656650c372e1ede00cda8dba37c4cbcd0770de017e766ddf0d0",
+    "a6112a7365e2c69b016ba4bc463dedd270330b5935da1ee892debcd11e8363ea",
+    "6878a3397e118eccd9b20762c6f113e6fef038b9bd78cf1d546ea32d5f0910e7"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "트럼프 \"해외에 데이터센터 짓는 美 기업에 막대한 세금\"",
-      "title_ko": "트럼프 \"해외에 데이터센터 짓는 美 기업에 막대한 세금\"",
-      "url": "https://www.news1.kr/world/usa-canada/6361473",
-      "ts": 1795200628
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "트럼프 \"젠슨 황, 사과하고 엔비디아에 복귀하길…두 번째 기회 줘야\"",
-      "title_ko": "트럼프 \"젠슨 황, 사과하고 엔비디아에 복귀하길…두 번째 기회 줘야\"",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445828",
-      "ts": 1795200632
-    },
     {
       "source": "Bloomberg",
       "title_en": "Musk Ally Akis Joins Board of DOGE Alumni Firm After New Round",
@@ -11504,6 +11490,20 @@
       "title_ko": "우크라이나 \"러시아, 크림대교 아치 잔해 제거에 수개월 소요 전망\"",
       "url": "https://wallstreetcn.com/livenews/3203679",
       "ts": 1795266452
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trump’s Putin Ties Draw Focus After Summit",
+      "title_ko": "트럼프-푸틴 관계, 정상회담 이후 다시 주목",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-21/trump-s-putin-ties-draw-focus-after-summit-video",
+      "ts": 1795266541
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "泽连斯基会见英国国防大臣，讨论乌防空能力建设",
+      "title_ko": "젤렌스키, 영국 국방장관과 회담…우크라이나 방공 역량 강화 논의",
+      "url": "https://wallstreetcn.com/livenews/3203681",
+      "ts": 1795266545
     }
   ]
 }
