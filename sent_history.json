@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795289833,
+  "updated_at": 1795289983,
   "id_hashes": [
-    "4ef2b27b20fe730b569072f74abc19362f1e9f098a07dd53034c068d1d7cdfe7",
-    "e896382166811f1547e98854532b00d51c0d224a0a783d1f0eaf337d8869e5da",
-    "a0c48fcbda0d007115e8040be627b3fc934fdc000b96398a1246ff2ef832f261",
     "eac58d85a7e6c9c98377fd2c74706a175ca223a0c9da9b40fd7ba2942b562f60",
     "13b51ca06d7549983f30db326a43c8eafa7a9f21cc58d8098c004b62c3cbda29",
     "1f3537b3f45552b2ee7f9cf36ed8e54a0353ff96b8725e79ea815d6324847cca",
@@ -4000,11 +3997,12 @@
     "662976982e1e47b4efde64b0a921031fa9375f84e64b7b83b93a42942fe06355",
     "3274e5de0e03570ce089849b2015b9834589e8670e64887ff9742d8e7a90dbd4",
     "000003b7269619f0d4a400dc55257643103ffefef12f989e8e0c060cf1000df9",
-    "acf1295fa02607fe888f7d274055c6cae6b99c8e4284b26bc3063450c97b5265"
+    "acf1295fa02607fe888f7d274055c6cae6b99c8e4284b26bc3063450c97b5265",
+    "df38f8cb4e6b8e8ab2e5ddab7f9d34e0da00896c25f416b1c00b123e26b36c76",
+    "0ceb3a66a2ba398b102464aafc3994448c06ac707511e27f4967b2440f9575bb",
+    "a90da8590feb055801e26870d44f3ddf6b3820e8f3421bfc0e47dad190b532b2"
   ],
   "title_hashes": [
-    "edcc726f028cda0e7d8e4d2a0b3394a9fa4e4a07eb74135a01c1976978a54cb4",
-    "fb81a414b75d777d1608410160b2dd0b7e580931d8656ee88e26472fdd3bf1f4",
     "6a0db37c55396c644182e75e57996c0ef87f9c2644128d17c022b3fd16b69e61",
     "2039c2621a136e45fa8f592c828211efaa23487ad5c6dfd163cedbfd3a24e89a",
     "237bddf58150f30a98813a02471dee5647767ccd79274729abc9bc7dd5549644",
@@ -8002,16 +8000,11 @@
     "633d6806efc44aa57cd149b3b398260992f790570c137c08f8cdc0e6d6ffe5b4",
     "f49c939c46f4e7c3d677b5ab587ce55e498ed3b736fd3160dda761147641f584",
     "858d58a93612d09e08bd2e78b8a8a8aa1b3dabf7f8447db472fd5c908590a553",
-    "726f318fc5e70da1544ad36552e546463c476b508de05eb3da7495794ba22780"
+    "726f318fc5e70da1544ad36552e546463c476b508de05eb3da7495794ba22780",
+    "16de4f71be6cdb2a953fdff7dc599044458f1d2e20a12c3b3ebafc07622b4611",
+    "90df7ec1b17cbcb75cb6e1c61905be696969085b01fb6e6bf225883bb9f1c05a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Tom's Hardware",
-      "title_en": "You can now put a powerful AI laptop in your bag with the HP OmniBook Ultra — this Nvidia RTX Spark laptop is now available on Best Buy for just $133.34 a month",
-      "title_ko": "이제 HP OmniBook Ultra를 사용하면 강력한 AI 노트북을 가방에 넣을 수 있습니다. 이 Nvidia RTX Spark 노트북은 이제 Best Buy에서 월 133.34달러에 구입할 수 있어",
-      "url": "https://www.tomshardware.com/laptops/you-can-now-put-a-powerful-ai-laptop-in-your-bag-with-the-hp-omnibook-ultra-this-nvidia-rtx-spark-laptop-is-now-available-on-best-buy-for-just-usd133-34-a-month",
-      "ts": 1795205214
-    },
     {
       "source": "Nikkei Asia",
       "title_en": "Nvidia server suppliers halt Southeast Asia shipments over US curbs",
@@ -11504,6 +11497,13 @@
       "title_ko": "이란 혁명수비대, 바레인 내 미군 기지 2곳 타격 주장 (파스통신)",
       "url": "https://www.financialjuice.com/News/9863123/Irans-Revolutionary-Guards-say-they-struck-two-US-bases-in-Bahrain-Fars-News-Agency-reports-citing-its-correspondent.aspx?xy=rss",
       "ts": 1795289635
+    },
+    {
+      "source": "9to5Mac",
+      "title_en": "Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming in 2027",
+      "title_ko": "아이폰18 프로·듀오 미출시 모델 루머, 2027년 신규 기능 전망",
+      "url": "https://9to5mac.com/2026/11/21/heres-what-next-years-iphone-lineup-will-look-like/?extended-comments=1",
+      "ts": 1795289982
     }
   ]
 }
