@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795259302,
+  "updated_at": 1795259455,
   "id_hashes": [
-    "62078f21e8206eae9a603bfa6679e64ce41c8d41eac9cce66f5778c176a6adb2",
-    "992b573af5762ec23c2e006e435a6a67c41381a735f6c94abdc2d6033666f829",
-    "4045d42b36a64497144ba3d5bf03d1aa479ec64797db749cd2c3a7ae0ebdf624",
     "1970b2b0769bb5c5aca2120b613c959d75f69ff0d8b5a0d9a9d5c178a5917eb4",
     "ee85668f09c45baff3a2645f9e9e84fd6a9f60736874d1ac3e5430736698c123",
     "0bb2c0e66afec2d354002544fb15966397446b5a68a122a1ffacea13b230cd57",
@@ -4000,12 +3997,12 @@
     "e5fb720e3156c6d6e16da51c2ae3bae9019810448b2fc1abca1b41f8fb8ce5be",
     "7546dad43f59cb024aa4d066449d9938182ffe00b18dc2ea47de11f1143fc55e",
     "5a1580393f2195e5970a5d807f46180b940570225a61ea172d770f919fe7237a",
-    "42a9589d01393cce05618be76c0da446cd244aa810911939dbeff5e3511bc44c"
+    "42a9589d01393cce05618be76c0da446cd244aa810911939dbeff5e3511bc44c",
+    "1202f43869a962a2cda22bd250d32a3448f5ead0b4ea79f57ae8f747aa2b2e4f",
+    "f252c0ced3988578355a0bb8579c36a2b1abab17e0d447b74dbc807f51707286",
+    "9ae75e6f26a67fb2a2d8c3a2feb87727af7a220d7a1b831860eed85ee2ae377d"
   ],
   "title_hashes": [
-    "04806fe5310147f7e1e222c0aca4cd1e361e0cb8073744aedd627cdd3ba85c9b",
-    "963711dd34cfbb82e98947f1678e10d5168849e53b942018220a83767dd534bd",
-    "64c6926e7fd98ef3b3cf57b313477723b876561fb1f00973f750abd2ad2ae707",
     "306753a6acc2e3dd7e243bcb053b3309d818a7e887483980f29bd63ae8a46478",
     "a5af8cb014a72ca071f698333d70abdcf42bda6e836fb9952599d88646c2b160",
     "9d630faa4de7a4e92bd03a667a6f54769f6c5baadf397e462db283f5656a6a4c",
@@ -8002,23 +7999,12 @@
     "673bfba5e9e6f403b13cbecec8c0c89e8f8792bcb6e99c83b9f26033980ec3cf",
     "5226bb487840a98e7fecb061c43900e654508a90d8f0c8e5600722654518c1e3",
     "b60485102d00d646633f6faf57b257a5465244e4b26357d0d538784793737e2d",
-    "72e243cc0854a0f6c056ce919f09f779e9b2db0855d55e5449a42466889feada"
+    "72e243cc0854a0f6c056ce919f09f779e9b2db0855d55e5449a42466889feada",
+    "b5b4c5ad6f0e611fbc15afad6d02ca6ed4280c9ab0e38add5034a256f1c03ba4",
+    "08fe14d87a0b178db1197872646bc013317b0d501627482ddb42fa295264216e",
+    "8d70d74e6b26f3919a7c07de5addf2d468fa297a6fe78a6e415a3fe49b6ee4da"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Trump Says It Is Premature to Address Ukraine’s Security Guarantees Without an Agreement",
-      "title_ko": "트럼프, 합의 없이 우크라이나 안보보장 문제 해결하는 것은 시기상조",
-      "url": "https://t.me/firstsquaw/194697",
-      "ts": 1795200441
-    },
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "US Secretary of State Rubio: President met with Canadian Prime Minister to discuss trade, progress was made",
-      "title_ko": "루비오 美 국무장관 \"대통령, 캐나다 총리와 만나 무역 논의, 진전 이뤄져\"",
-      "url": "https://t.me/breakingmarketnews/179516",
-      "ts": 1795200480
-    },
     {
       "source": "BreakingMarketNews",
       "title_en": "Trump: Working on a deal with China regarding exports and chips",
@@ -11504,6 +11490,20 @@
       "title_ko": "이란, 이중 발사대 시스템을 갖춘 새로 건설된 지하 '미사일 도시' 공개",
       "url": "https://t.me/marketfeed/1083179",
       "ts": 1795259154
+    },
+    {
+      "source": "Wccftech",
+      "title_en": "Radeon RX 9070 XT Reportedly Runs Resident Evil Requiem 10% Faster With AMDLSS5 2.5, While Using Around 500 MB Less VRAM Than Version 2.0",
+      "title_ko": "라데온 RX 9070 XT, AMDLSS5 2.5 적용 시 '레지던트 이블 레퀴엠' 프레임 10% 향상 및 VRAM 사용량 500 MB 절감",
+      "url": "https://wccftech.com/amdlss5-2-5-boosts-dlss-5-style-neural-rendering-performance-by-60-on-amd-gpus/",
+      "ts": 1795259451
+    },
+    {
+      "source": "Wccftech",
+      "title_en": "Hydra & DRAM Calculator Author Responds To Recent AMD Ryzen “Zen 6” Rumors, Says Summer Delay & Process Node Info Is Not Accurate",
+      "title_ko": "Hydra 및 DRAM 계산기 작성자는 최근 AMD Ryzen \"Zen 6\" 소문에 응답하고 여름 지연 및 프로세스 노드 정보가 정확하지 않다고 말합니다",
+      "url": "https://wccftech.com/1usmus-responds-amd-ryzen-zen-6-summer-delay-process-node-rumors-not-accurate/",
+      "ts": 1795259454
     }
   ]
 }
