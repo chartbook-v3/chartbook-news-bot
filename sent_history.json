@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795253873,
+  "updated_at": 1795254025,
   "id_hashes": [
-    "d9f0d594e56c98109db392e39f1037cfca4af358f9851e36e4456ca444b60bac",
-    "78a67f0e01d4aa3887b372bbb435f35238feccda8816195187fd1644361840d1",
-    "2f9c921f92824e1ea89f88fb8d326c5e58a7d31885975df5f4511cefd0589415",
     "66a4fa5a371217c7be5170e9a98763143f204cdea9b20ec8d836d198342cbe32",
     "b458f31e93705cc4d2009bf50b991fd86c6daaa618967749a6dd76d8a80b6d99",
     "7e4dc55fbd573622fe22a7866f93685314bf55a8befbf21301d1072d8d0b47b0",
@@ -4000,11 +3997,12 @@
     "fb3ba54ea8a5f9b874e87e5d0f017d90a6c74ce8a80b94424fe992a8d7f1c9e2",
     "1805d455c7d3cdcd2d5be0634f757c4864c126008fa08550c8adfe786096e219",
     "a62a6cf80997671d665db257dd5bdfde25c5359225233a707de140a77c5f1845",
-    "11548da4f48a86b85848f4d90cbc07d18f44e133e94610f1efd3441d4a23a346"
+    "11548da4f48a86b85848f4d90cbc07d18f44e133e94610f1efd3441d4a23a346",
+    "5694072dcd280b59b4d4224dc82d5566ac283cbdc6d059f7fc2fa3eeb79ce338",
+    "8d8d2259c47907377f532c4c203832cf3eecb9d32c8ec7cfa202d328ff6da6c1",
+    "15e9674a44134ea390fa6081fe1c1ba486c7c3043ba1f03b270b65727dfb448a"
   ],
   "title_hashes": [
-    "38ea0c731d5567b553df4efb483e462dcbdc65cfafd81a92473b346a8467dfce",
-    "b996e8e68125582e1c5154a361c5ac6bde6dc67a868d065fb1939f50f3813ae7",
     "318755abf26834ad3cc36f0ce521de697cf1dd16b1e37a98197a43ec9fda5b8f",
     "3514baf594f36f7fb8df2b7c8672fde8f268294b85b46894679245d6da81c756",
     "86e6056ef633603c2487ba321d11c8190798b58a34d6f3ed3dda456eeabaf583",
@@ -8002,16 +8000,11 @@
     "c788ab31e4a939e99fc16bbc973d40ba8a88b24f4144ccaf4ad5d56f054d9d2a",
     "cc131e245559a064c9c5f80f58fcfd0c66618386a3f220ad0c673a3399f4ceac",
     "c6a1565520093881551b6c4053aa68685497aaea44db91d8cf6a7e54b465029d",
-    "a5b4c7d058b6484732531768b5d748afeb28c27a9a3710765a7f6802f48c75dc"
+    "a5b4c7d058b6484732531768b5d748afeb28c27a9a3710765a7f6802f48c75dc",
+    "40ecd6af0059aa6d0c4ff7ba03ccea301245f4ce3f4417689949456c5a58a70a",
+    "a1f6bb3ead82a184904be9cf31f9ec0df822342b3360fd03719bcffdc0a5b8ec"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "TRUMP: CONSIDER PUTIN TO BE SOMEONE I HAVE VERY GOOD RELATIONSHIP WITH",
-      "title_ko": "트럼프: 푸틴 대통령을 나와 매우 좋은 관계를 갖고 있는 사람으로 생각하라",
-      "url": "https://t.me/WalterBloomberg/38827",
-      "ts": 1795200357
-    },
     {
       "source": "WalterBloomberg",
       "title_en": "TRUMP SAYS HE EXPECTED OIL TO REACH $300 A BARREL, NOW NEAR $80",
@@ -11504,6 +11497,13 @@
       "title_ko": "옥스퍼드대·MIT, 마이애미 캠퍼스 설립 계획 철회…켄 그리핀 투자처 변경 전망",
       "url": "https://t.me/firstsquaw/194798",
       "ts": 1795253662
+    },
+    {
+      "source": "X ｜ THE KOBEISSI LETTER",
+      "title_en": "Inflation in Japan is accelerating: Japan's CPI inflation excluding fresh food jumped +2.1% YoY in September, its highest YoY increase since December 2025. Since May, Japan's CPI inflation has risen +0.6 percentage points.",
+      "title_ko": "일본 9월 신선식품 제외 CPI가 전년 대비 +2.1% 급등하며 2025년 12월 이후 최고치를 기록했습니다. 지난 5월 이후 일본의 CPI 상승률은 총 +0.6%포인트 확대되며 인플레이션 가속화 흐름을 보이고 있어",
+      "url": "https://x.com/KobeissiLetter/status/2124075093143765481",
+      "ts": 1795254024
     }
   ]
 }
