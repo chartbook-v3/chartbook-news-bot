@@ -1,16 +1,6 @@
 {
-  "updated_at": 1795267735,
+  "updated_at": 1795267901,
   "id_hashes": [
-    "270cccfb14e05439998f7570ccd3787a08e063b67176b205edd9e8ddbdf0ef05",
-    "e85ef91eeb23e6fb8b8e7cb052d603ab8445d98c43b8e44173fd9795c0a6d5d4",
-    "3b7cffe4616d694d2b6afbcbcdafc68ae0594b8cf1ff42ec2835dd22c61b958e",
-    "caff14dbe96fc127f06bca7353289dce5c29f2d3bead74b4c7e7396f9f953e2c",
-    "20c8c66d0440c09b5d4b15f82d52398221f8e97c13b2e37528e48f908a868775",
-    "cafb9c17a07ee756154e4456d28ffcc33923a0f81542487f83823687cf21bb0b",
-    "d58b22f9509ff13000232c9045388e47a157ba487698c02071f4fde4021918ed",
-    "f8e7b1957cb8a65f496f8f25cca2fca27731f52c9dd042de83f73a24ac59b71d",
-    "4c4fd6f9e949e32cc965e7f3279d463e44123777eb65a9f222515dcfa9e58ef0",
-    "6fa5fe779f6cef7817c1b35d53112c18a0a483580f09208d38b7bb43bd3f9daa",
     "309580c5d9edabd2f4161ec85df4cac3fffd1a8b3c6bc1634de8f8729fc92afc",
     "778305b72770dbf7d770cc0fd47839264471e4443805a97f2b94e857558337c9",
     "7f98f2ef76f6b1fdf98189893333ce54c5c377c9005f9d27657c9e10f7c13164",
@@ -4000,13 +3990,19 @@
     "af8a082d2e0ae14f193086a7d1ceb0319766c9ffeaa4d9195e54e78a0e9944b9",
     "41523ac98fde43b59ee62ad839c42c96b9f1d7db9d826efb8be6088cac2aabf7",
     "3b666d8df95f88be8ee9fbad4607f268327575209357dd9123544433f1322089",
-    "83bfaeb155161a94d01fab97b921f8075c7a8b859356dab70c6e6eee20d01f66"
+    "83bfaeb155161a94d01fab97b921f8075c7a8b859356dab70c6e6eee20d01f66",
+    "d14a8b27992b54776b029fcc61eb2bd132ff296841e227d347018f0bfb51893a",
+    "6c855f37bc72ba91e7640f23c431020a9fb799ad6740ca60c04eae7c7fe8f0f0",
+    "d4ddc72f0cb71d0733ba01ad4bf07b614963386e9c6a93f7371d6b0df4349423",
+    "702fd8e4c99b4049e090659aa926a959ab39dacf0600fbf68154adcf8aef9499",
+    "e291cf4020d567a0f424fa2c68773f200685c0d594c07a8817333820b7e68725",
+    "92676c30f1ab90d7f3e0b6a51268c5e05a547c87e9952f4b6c8d45c5132d553a",
+    "bafc854a635eed9c36659717da8db1129a152bbe615d36d8605585cde2e29a4d",
+    "ce949787b197f5f750ae1831c03ca2e1a477bc9162dc35b8233986c852798cf0",
+    "cef61241a4874f746d17d095173c19e5cc69c3a286b7580176e57ee1f7f1dad8",
+    "8288738c640af1cce08e202994f578dbf9458cf6737358f34a5c3961b37e530e"
   ],
   "title_hashes": [
-    "fc609bd0e1667271d1a68cc3ae7a6e4a8f17c2185c037e7dd85e0c19a082523e",
-    "f1aad313de6d6b41919b540ad98ea69667bdb45fa600feed1ca9101929992060",
-    "089c8fef53a2ae5a5299bed64ea4d81f17f0836cf276942b2e04a4d0c9b4c9a6",
-    "49a5948b9b43db68f2f527fddfef28b0f3ca7747b0d4ccd5772e9213bec668ae",
     "c243611ca0d0bbb2d9c67990f1d1a82e0e933f4097d0863cf1162dbeb84fe14c",
     "1da2b9f54d1c31c1820a7ea69fb5e3f0efa6b1eaf35242c21e696c058de44871",
     "caf30415073e211515107a32f9f626bcaa0840c607a99c5212e3c12f9392f102",
@@ -8002,16 +7998,13 @@
     "dd382de3301a5c6c7ee9ec415595f0320dfd0faee13b195fafac5696f2862a4c",
     "0f3ee65f2ca37514776a41bbf5b77cc2193a657722efcedd1019fdf1fbab819e",
     "2329577c28728d7f3dab5639089f51d517d8b82d11e993c325aaba201c7b90ab",
-    "786be36be048d47021d15c4c6a28adc03b9c1c322af69a121eced8a436711ec2"
+    "786be36be048d47021d15c4c6a28adc03b9c1c322af69a121eced8a436711ec2",
+    "9858d0c7290a0cf8c5debb3f80fc4ce50f8bae1d1c71ee3c3820b3697179615e",
+    "742d436db2930687ca3b42933edd17468ca7cb7b1953e55fc0093646307056fb",
+    "973c3fce722ee1ccb4a035801ab65054f178071044aed8f52972526d134c2df0",
+    "88a830a63972c0f213fd49ab0f1b1d471d514d4166126f064a4c7cf9378301ef"
   ],
   "recent_sent_articles": [
-    {
-      "source": "TechCrunch",
-      "title_en": "Super-hot rock geothermal could end data center energy woes",
-      "title_ko": "초고온 암석 지열로 데이터센터 에너지 문제 종식 가능",
-      "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
-      "ts": 1795200697
-    },
     {
       "source": "Barron's",
       "title_en": "Anthropic vs. SpaceX: The Biggest IPO Wasn’t the Best. The Next Risk for the Stock.",
@@ -11504,6 +11497,13 @@
       "title_ko": "이란군 \"페르시아만 상공서 방공 미사일로 미군 F-16 전투기 타격, 비상 착륙 유도\" (국영 매체)",
       "url": "https://www.financialjuice.com/News/9863000/Irans-army-its-air-defence-missile-damaged-US-F-16-fighter-jet-over-Gulf-forcing-emergency-landing---state-media.aspx?xy=rss",
       "ts": 1795267734
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "ranian Claim of US F-16 Damage Over the Gulf Remains Unverified by Washington",
+      "title_ko": "미국 F-16의 걸프만 피해에 대한 라니언 주장은 워싱턴에 의해 아직 확인되지 않았습니다",
+      "url": "https://t.me/firstsquaw/194833",
+      "ts": 1795267893
     }
   ]
 }
