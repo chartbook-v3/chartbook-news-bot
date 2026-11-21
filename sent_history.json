@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795227498,
+  "updated_at": 1795227651,
   "id_hashes": [
-    "93008ed12d4b647008116cc111d37fd0ed37f57012f5469acbba53be3b9a596b",
-    "af20c34322122ce6d9892e687a808dc24fc7a09f36b58efcd3b82fc04def1468",
-    "b90b99ddb779dd9d09ff4de497aab7bbd4aca1074705e67c02a20546e885904d",
-    "85f1b1878870da392dd2209975d9ec712f8618062a83e04a3a65a15f0c5e78d6",
     "5cf9a9b535e16200abf7baf3618dbb940602e41804ea8b1366ddd11b2e57734f",
     "be70f1fd021e6b3b0d09c585ffe603db8c0698560430bdcb26aec57634da99e2",
     "c0778ae30667e5bd02191e122289ea03c99995d68e9976f777c35fb6306b066a",
@@ -4000,13 +3996,13 @@
     "b91414a0d816906375f5929694334fb040d696ee8408a76f28af0cff6f9855a7",
     "9c551aff1f46dacec5c4253d4e73aadf0e6dcf68d99454eb26ea88496129eaa4",
     "35b2b0c783a5b1f2ac7e53a63d055c2050c6582595a934ec47d12ce04eab4c87",
-    "a1ad4ce205eb663f962182113d9632d5e7b89890a95220102f3f9dc202cf9325"
+    "a1ad4ce205eb663f962182113d9632d5e7b89890a95220102f3f9dc202cf9325",
+    "b27db4a0bd2aef81c87b89e90acad113772494b945f586d39cec71a923416f20",
+    "77c1a731397d9d9dadb5c09fabc78b75590efaabc4af900bc993782771f3bc6c",
+    "eaf50270cef8f5863a70318712f6e76041edda1ab60cbc723f3b8a2180f7ad1c",
+    "b6f8067c689541057966c512ce78570dd14d55b1cc3d0035aa472bdd174d6497"
   ],
   "title_hashes": [
-    "222208a3fcea1dbb1045232c805bcf667279e96f4794967c26caea8a18bb6fe6",
-    "337128711d34b6225d804448afdb6a2f9aeb6d99cc25dd26f7be3b2b1937585f",
-    "6a09fa57ce742b6d83c5bee924d39c58474c5433a217f3349b1a9cf7a1469ac3",
-    "f0a2ed3064445e2ce958c24439d225940ffc6d805fb45951ce16f7c7e635ca8c",
     "4696fc0a7b31a73f6936a3ca4e7e5ad40e2309cb23d6266333e0e2cb119297cc",
     "f4c17040fee5316c0d4b616f34a00eace103412edbc3a1f0e9904466585f7da1",
     "bd05af49c33ca341e90e1afa654ad55d877f9907c7e8aa7206b9d9400163283e",
@@ -8002,23 +7998,13 @@
     "57083e99c31b8e0d96b7d0e6577f811388a77e39c753e9956c7af6ff1e7039c8",
     "0357ea025290cc23434a5932c6d5128d117d280c3b7d494b291cd99e5b56342b",
     "f5b00daf7858f18a5e74e033a442341a7d691aecbd7f2ef79e4d39e81aec926c",
-    "f1a71bd5a702a3a86d5262219c47e71116adec483bf8fc0af09bbf56e6ecb4ba"
+    "f1a71bd5a702a3a86d5262219c47e71116adec483bf8fc0af09bbf56e6ecb4ba",
+    "81094320a8c7ff1d58d310467e3becec05d3a2ac2f529e4d9021fd26db6e2519",
+    "7aaba6442c5327075586774ff503a2539614e4d0b8d76e0f8761f2ee10daeead",
+    "5a84545ee811d88d2ba7536c5f252c38a9d4fa9c80b95b9a95943bdc1d377983",
+    "456a13f78545cbf7616c2139f3ca8fa7195530e53ed5d377adde667a400a6cd1"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Cathie Wood Sees a Hidden Moat Around Anthropic. It’s Not Just Its Models",
-      "title_ko": "Cathie Wood는 인류 주변의 숨겨진 해자를 봅니다. 단순한 모델이 아닙니다",
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/63485932/cathie-wood-anthropic-hidden-moat",
-      "ts": 1795192756
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "JENSEN HUANG TO INTEL? WALL STREET FLOATS SURPRISE MOVE",
-      "title_ko": "젠센 황이 인텔로 가나요? 월스트리트가 깜짝 움직임을 펼친다",
-      "url": "https://t.me/WalterBloomberg/38790",
-      "ts": 1795192758
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Michael Burry: I sold half of my NVIDIA puts. $NVDA",
@@ -11504,6 +11490,20 @@
       "title_ko": "[속보] CNN \"미국 FBI 국가범죄정보센터(NCIC) 해킹 피해\"",
       "url": "https://t.me/marketfeed/1083073",
       "ts": 1795227497
+    },
+    {
+      "source": "중앙이코노미뉴스",
+      "title_en": "11월 3주차 대한광통신 주가, 이틀 상승 후 하락 마감",
+      "title_ko": "11월 3주차 대한광통신 주가, 이틀 상승 후 하락 마감",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=565610",
+      "ts": 1795227648
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: 🇺🇸 FBI HACKED AGAIN IN CYBERATTACK TARGETING ITS NATIONWIDE CRIME DATABASE, CNN REPORTS.",
+      "title_ko": "美 FBI, 전국 범죄 데이터베이스 해킹 피해 발생 (CNN)",
+      "url": "https://t.me/marketfeed/1083075",
+      "ts": 1795227650
     }
   ]
 }
