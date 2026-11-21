@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795286573,
+  "updated_at": 1795286721,
   "id_hashes": [
-    "e2c72dac2d1c9e22624018229da1a7bfc420653c909d8692ff372eff83fc82a1",
-    "c701fe78c737c0a571805742142b4ea94e768771eec66f17a60aaaf89ad5cbaa",
-    "1271d6bc885fc5e1ab7ac852a100816a049ee0a89fbac85fc7823ea2f5edfa30",
-    "886e8c7ae23b9d86ca735e60aefe5042c78d7b795a63ec9164e0054f7adec36a",
-    "907a94c54664cf83cdfad60617b37b11aebafa51e54711a2f06a8cccec7520d4",
     "af2b781292f15ae75bef0ce58af298ceba92d662422fb144f9f08d67426834c7",
     "b99405af8eeb944f0465bbbf9b24315ab05888cb7b1b360b57f4c0455963c75b",
     "6fcc9af029d1da93c08c4417edac0043d93ebc624d0b9b2f764c129e669e5a42",
@@ -4000,12 +3995,14 @@
     "897d31ada854b1eaea5911e53903ed568a2a180a7ce406c94837c764d02d686c",
     "f787bf12ea244fb09297800cefbf84bc5be6c44fd3a96fe2314b76d1dea61e5e",
     "7d6a790108accbe449c2b7062dd8addece3dde2bf41d90baeafff5607dd6f92b",
-    "15fc9d06715e31468fa94411b1847ac97ed7283ba2f51b02d0bdf58383983bb6"
+    "15fc9d06715e31468fa94411b1847ac97ed7283ba2f51b02d0bdf58383983bb6",
+    "f43820d3b9155d70682b41327b42c858ed18ea1e60332d55c5d58724efbe6be2",
+    "9d02366f4dfa55962aea540bcc26d5395996f0ae5df6265f450a02cde5c4de0a",
+    "eef448d80e4211ec2732d2e5abfd52beae0a855059c69a8c75261128f2fd045a",
+    "2601614bb7a6da514fc752f6a1867e3d800472901949cf2507bb96c6b840838d",
+    "6b4cd36b1fb3c4d554f5e466d27a7fd04411b9c3bd1423af7a3b2834b1c3f348"
   ],
   "title_hashes": [
-    "43c60b58421c2a3f49969ee532d1ca0ee02369204fc73bb18c464070bada021e",
-    "51496d41756e45d59209215e69b1f0692bfaee51132ceaae51059fde52694734",
-    "b537582ea1b62c564d0eb3784085bcb61848f883d1636c778c359e798d19edf0",
     "65f9a73ee1277a07bbe4998b701980e79abbdcf9b27610bcde368d5d435b8035",
     "7fc0c98d465b239a1981a67343f7f0b1c1c75aace7250f2f343a7004f72a90a0",
     "b10942f371c905154873eec29813357d8651acbd3a07e991b7d075864fe3034b",
@@ -8002,16 +7999,12 @@
     "75e8acaea8d64c73fca35f006c3f9ff1611686daa95b98c295e68d7dd6315f52",
     "482d4a5c446d314c34c342390ff0c38f4f765b71cd535fceac54b766b0a796fa",
     "24836f3a63a554101cbeff65ab10fb22e5f04a84af0be1df7d001259e11f09c9",
-    "0ce1a2db70ab3fc39a20b83d3969d412894a4d8f0d21a8e56d12974a9dc5bc69"
+    "0ce1a2db70ab3fc39a20b83d3969d412894a4d8f0d21a8e56d12974a9dc5bc69",
+    "2bcecfdff14bd05532461b0d081c491e0f5a17701eaa059ac44589832f3b3adb",
+    "987f2c9e63a343776cc9e2b422e631010aa63833dcbe4a7a55682ee89ce874ad",
+    "f6898d17f2f823dcfbc7b4966e670804f0a0c59e01431b3e26429eb989a8ac74"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Can AI Help Find Blockbuster Drugs? OpenAI Tests It Out",
-      "title_ko": "AI가 블록버스터 약물 찾는 데 도움을 줄 수 있을까? OpenAI 테스트",
-      "url": "https://www.benzinga.com/markets/private-markets/26/11/63504678/can-ai-help-find-blockbuster-drugs-openai-tests-it-out",
-      "ts": 1795205051
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Oklo raised to Buy at Guggenheim on execution progress but shares extend slide",
@@ -11504,6 +11497,13 @@
       "title_ko": "일본, 미사일 및 군함 도입 규모 축소 검토",
       "url": "https://asia.nikkei.com/politics/defense/japan-weighs-scaling-back-missile-and-warship-purchases",
       "ts": 1795286271
+    },
+    {
+      "source": "X ｜ THE KOBEISSI LETTER",
+      "title_en": "US semiconductor stocks are experiencing incredible volatility: The Semiconductor Index to S&P 500 ratio is down to 1.45 points, its lowest since April 2026. This ratio has declined -0.46 points, or -24%, from its mid-June peak.",
+      "title_ko": "미국 반도체 주식의 변동성이 심화되는 가운데 S&P 500 지수 대비 반도체 지수 비율이 2024년 4월 이후 최저치인 1.45포인트까지 하락했습니다. 해당 비율은 지난 6월 중순 고점 대비 0.46포인트(-24%) 급락하며 가파른 하락세를 기록 중입니다",
+      "url": "https://x.com/KobeissiLetter/status/2124211835163570344",
+      "ts": 1795286598
     }
   ]
 }
