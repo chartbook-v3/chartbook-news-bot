@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795271085,
+  "updated_at": 1795271240,
   "id_hashes": [
-    "ae9b39e2f7ab76cf3250db6befe37ce0c3a415888cf794d4181a143d44200223",
-    "5b78013a8e978a59ce8b4231b575dcd64745420596514d141c2735092fd1b693",
-    "d3f42e94ddfcf9d8f884d19eac9fdb2a7d4b5db0933b68eb70de85def77b30db",
     "1d802ab6302ba1dc54d5f68d10b5f0f7a27a0c277f5499ce5d9f2d28161b92a8",
     "1c3ce101429588b027e15c6a7d88306c598357d2fa6d54a4695c0747dec43f0e",
     "9110ce1d5a4ce2f79ca94d966a4659e0ed24048e52736f13329bb82a12c0bf7f",
@@ -4000,12 +3997,12 @@
     "7da34475ba2ae5982672603e4a6edc045dc4d68b48037155bd3343d03e3bb045",
     "bddf5c577b138274e1ac66274b100d3e9018b226d25e0155b5c8f7854e3a5da7",
     "7d3563d15b7b6abbf09d696c18634f5bdc95df4c336f1bc0d745794fc1fa0488",
-    "7966e1651294f01e7d11454f242246a6baf8b0345cae10e601585f4f065e34d4"
+    "7966e1651294f01e7d11454f242246a6baf8b0345cae10e601585f4f065e34d4",
+    "a4d6dfe8103e6555456acf409aa9e93e972e511907cf9e6a8d8949e7998192d8",
+    "dddf694a154b0f62ebee09cdd589098c55fcb82e50de06068d7439b8f18b613e",
+    "6376eea30d09e7d88e4da65839b682d14d4621d32823cc3abd0777d7e9826725"
   ],
   "title_hashes": [
-    "367b9e3d7a3410ff9af08d17a58a21fd982e4a1a688a65839fae4c3733b6cd3b",
-    "815b9c50da5a74ec93b483a68e927770c4602c9d9a82cbf1df1f4d51346e0da1",
-    "158e222b0990e70c2f54c8b046020fe50a1a8f0b085cf7ebf083617338c9d8d8",
     "fc6256d4e48fe6adcb6a7f72fa735792265900b2b579ce0745fc9122ac0c8f68",
     "a58ce5ed0d6e90d0767415e5f1d752275112abf9db283a8c1c2faf10dc6acc2c",
     "6108662fc295e275f9c16d17f85471693174938e37a4b31901a2e24bdf359bca",
@@ -8002,16 +7999,12 @@
     "fb030746bd7dace92d7036517a0f763564a251f4471f6088decd8cda31247185",
     "7b986cbc82f0016107e655cdd57b06990a93f40354673874b7577836a9edd9dd",
     "fef047091fce3939b8aae24fbb8b4d8c9d678c49459bd808a7c59eba34c03e1a",
-    "629e9ebf5a9bbee4c30866a0aa9fed36fe7b225f0f77dbca878df751babfb8d5"
+    "629e9ebf5a9bbee4c30866a0aa9fed36fe7b225f0f77dbca878df751babfb8d5",
+    "cf97785fc7c47e807d24546eea047d261e7bde7caacd59e2bd1f2d49cf77d85f",
+    "a9a23e7cce4f14b06ee532c359c9d49cf71c3554307e8372692b9fa4262acff1",
+    "04b0dd6d44b9155efc561cf5a2a8faf39d180156bae548891a8f82266886a87c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Witkoff and Kushner Met Qatar Officials in Berlin to Discuss Efforts to Broker US-Iran Dialogue, Axios Reports",
-      "title_ko": "악시오스 \"위트코프·쿠슈너, 베를린서 카타르 당국자 회동…미·이란 대화 중재 논의\"",
-      "url": "https://t.me/firstsquaw/194706",
-      "ts": 1795201256
-    },
     {
       "source": "뉴스1",
       "title_en": "트럼프 \"젠슨 황, 사과하고 복귀해야\"…中엔 '구형 칩'만 수출 허용",
@@ -11504,6 +11497,13 @@
       "title_ko": "월가 1년여 만의 최악의 한 주, 저가 매수 나선 투자 전략 공개",
       "url": "https://www.cnbc.com/investingclub/2026/11/21/during-wall-streets-worst-week-in-over-a-year-we-put-money-to-work-what-were-buying.html",
       "ts": 1795271084
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "US OFFICIAL TO AL ARABIYA DENIES IRANIAN CLAIMS THAT A MISSILE DAMAGED US F-16 OVER GULF, FORCED EMERGENCY LANDING",
+      "title_ko": "알 아라비아의 미국 관리는 미사일로 인해 미국 F-16이 걸프만에 피해를 입었다는 이란의 주장을 부인하고 강제 비상 착륙을",
+      "url": "https://t.me/marketfeed/1083236",
+      "ts": 1795271239
     }
   ]
 }
