@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795296719,
+  "updated_at": 1795296871,
   "id_hashes": [
-    "b264a999c43cfc30dfc0113c43997262c380a43fc245a81776b8fdd76ef8a7c6",
-    "22d3b873ba76982e217bdbea3d26f51de6a2ec5140a33a747b153a79aed56f48",
-    "9057317a995d5a5e0adf401d22a0cdc7186157379d6cda68da82ff8f942335a7",
-    "aa28f5a1fd6cc08705567894d58586a8bdaea94e613d026186ce3b0944192c27",
-    "4d42895b46080b328dbec15e4b1c9b6f2e7986bb44567606d160107bd1cd9316",
-    "cf0ca37ca3e8e4c17998ca0c8970964fc4aab09cab6ec9a2a487ecb327941daa",
-    "896038d7ad38474ed655ce957a23d9d4662cee60a17ba5a8e09957fc95434311",
     "29a9928977d4b11dff987530927af03a22ecee6bbace21d366a7dd848fb83f60",
     "ef2391405178fa84fb8e1fc7ffad4316b2e4cd805fe6eca40d1cbe8424d29bb5",
     "e070a7fee3ae853a17d1fe2baa9bda8a3e6a4c49fe8c63e4a0563b05273501a3",
@@ -4000,16 +3993,16 @@
     "e9c65da50f7e3e05b71dcdd620dd3d1b4550f6fd7baf53b58f4aba6e6cea3680",
     "c8c25f3a56a379ed8328d112359cab3b53dbed656c71e52e3e69ce00627ce665",
     "c905ab1e97a310c98dcd35f64fad4c005b30adefb507092417267def01b18696",
-    "1af91d591160aa781e82a54b186ebc7915e234fcb0517b9a19e3ed5daedcdb90"
+    "1af91d591160aa781e82a54b186ebc7915e234fcb0517b9a19e3ed5daedcdb90",
+    "538d04398f46a7cae191e31d5bcbbc3622bd1ca50598ffe8bf4e459e570f9187",
+    "c5cece0bdeb7981d0b5e6bcfc88cd65f7e5c106122c4195fd2ef624ed6d896b3",
+    "0c5070c070c96a7c9494bdf99d7af77e46de445b8ca6e5fdbbd2f20582ae7f58",
+    "7ffa0aaeb8479c86e9f2028446da230d1d8ca7eef336b7192c357c8d90a61271",
+    "46f5c7144b3b70acfde12ec550a9f19a9c870034caf9f41a0fad4b168977d0c9",
+    "61cda7e0c5e80a04db728b3f9fc1a5743b3f423c8be06334b3f0d73579473eca",
+    "c462a989eb2ba052be44eb471d8f9f3b82a8d5623bf73c851307ba683a06603d"
   ],
   "title_hashes": [
-    "e9b71975a24cdd611628e9808cef4e16f45ecbb35f756aff449d8f6cd258bec7",
-    "25c5759e2f4efcbfd67cf7a03fc755d3e421da1e5a5b24991559f713553287a0",
-    "0d752a116857e321312aa6fe7115088720da8897ad2c317f684022be93a42eca",
-    "4db76eaf6234bd83967108ce089f9bad1dc2bec445bea63346a4dd6c57b78f50",
-    "b0b7d76b8198cf9340d180e885ccd57c770cbab00f262df31061039443b80e16",
-    "cb2d87c28563f0f7a0e01e9039407cc8a33c9adcab51583e32817e48828512ee",
-    "0a902284c1822ac3e0cfff5a1c7b1979f7d9258a5184a6182a36617ff8738768",
     "0115e821c795910313772f7984b06b8d7c6d20db4568f75721a2e82e5c17092f",
     "1701109231a011562843bb6eed47dd536ec25cb501557a6f0bd0f41dcc909fdd",
     "ab71a7cb5a3d91bfa4d593f3d9b97d7ae793d3e98ce2b0b7a5c3e071e290eb32",
@@ -8002,16 +7995,16 @@
     "ac0ef48c5f76ae15dc972327b3989e9a43b2a40dbfd6485fbd0032216513ea11",
     "224bc9311cd315aaec154b91c5112f69a5c54a23ab9f22fbf04011662b54f398",
     "d657227fd937ae83c629e0acf7fe84501ab555ea0a711371dc616eb91dafb5e8",
-    "5084f3a3918a9ef0fd8ec9e87da90526edeb0ef22a56ca7a13600f7bf8701d83"
+    "5084f3a3918a9ef0fd8ec9e87da90526edeb0ef22a56ca7a13600f7bf8701d83",
+    "6a90cffab20418b067bd828febc4bc287b883d8e726c96fbaefc16dd5afdc5f6",
+    "3423091ad6d773ab4a905d08f1f50c8384effe54012f752d89f5f3f4eb0ae96e",
+    "3b44313eab94a1f14e1b89b7929785e1fef176b99b977bac002e4778d28d7064",
+    "579dab93be87e1008e1801b2aa883ed834f46b1cc756936878a9e9f5965263e5",
+    "8fdeb55acf687c8e2fc1af32dec2d3382e523b67a1c1620c8b7d03aa77edfe39",
+    "ed506e0defe4d30a2a9b8f5dcd886cb44da3fba0ebd1ad2de3e987651626acb2",
+    "8e0e9c2d4b7205aaddab86e2580b913777881d10c7632de231088a7592089c32"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wccftech",
-      "title_en": "Intel Reveals Why Early DDR5 Memory Prototypes Often Fail, Details Extensive Validation Process And 256GB CQDIMM Push",
-      "title_ko": "Intel은 초기 DDR5 메모리 프로토타입이 종종 실패하는 이유를 밝히고 광범위한 검증 프로세스 및 256GB CQDIMM 푸시를 자세히 설명합니다",
-      "url": "https://wccftech.com/intel-reveals-why-early-ddr5-memory-prototypes-often-fail-details-extensive-validation-process-and-256gb-cqdimm-push/",
-      "ts": 1795206451
-    },
     {
       "source": "9to5Mac",
       "title_en": "Apple Watch Series 12: Four standout features make me glad I upgraded",
@@ -11504,6 +11497,13 @@
       "title_ko": "급락장에서도 로봇주는 약진…반도체 장비주 시총 제치기도",
       "url": "https://www.yna.co.kr/view/AKR20261121027600008",
       "ts": 1795296417
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "\"한은, 26일 기준금리 인상\" 한목소리…10곳 중 9곳 \"내년 3.50%\" [금통위 폴]",
+      "title_ko": "\"한은, 26일 기준금리 인상\" 한목소리…10곳 중 9곳 \"내년 3.50%\" [금통위 폴]",
+      "url": "https://www.news1.kr/economy/trend/6361408",
+      "ts": 1795296870
     }
   ]
 }
