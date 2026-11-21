@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795239567,
+  "updated_at": 1795239713,
   "id_hashes": [
-    "c9bc0da01bf0079fc97f739ab3fcfa5994ea5f9601ad261372366563faa6577c",
-    "6a78511280a558066875775e294f8cb156b8ab907d9528769c53f12a5369b51b",
-    "25d9e48d150af0528cd8b7ac5cb1db18fdd5d64fc81ef0273b779f38b018187c",
-    "08fa64ae39f5ed484657087b48221dce9c69310233b916a28431b169f48ee6d0",
-    "c647839c771a7095799b9746a1ccabe6d2be09772c81d1869f73ad5f897f02b4",
-    "afb4721df19f6d5bc2b028e28855cbfaff36fc65194d09450c93c0a060346e56",
     "d3060cd4f6795ded0f5292677241b0b9b647f24d0a8c16190f370d7d9f03c81f",
     "ca266f1e1f8f03013623d40b43bb185b5b3e054d571c404775f130e7c5113ce0",
     "71d5131b970ef3c49126c74f0d885d699693e96d9d3fc97531c3c1f28b69bc9e",
@@ -4000,12 +3994,15 @@
     "2ec2e55e16f0140c66f1638a420ccbc19052beb7141ca2264979e961b6b0a2a0",
     "10e171b2a28c769440aeab2b6698083791bf121e471786ab71fef78a2849f016",
     "a3c51d2328e0228ab74cfd9217c6d70e10d34fdce677dda566194d35a63d8ea3",
-    "ce5dabba21a7d103e888c69f4171fc8780180cae793cf51fea09ff342ecdaa09"
+    "ce5dabba21a7d103e888c69f4171fc8780180cae793cf51fea09ff342ecdaa09",
+    "da3e0ad301fe23903e59ca26b7be4b78cea55c7168399c2f32a5fca3045d0f88",
+    "59769167e27f049f8487cf654773505ef64bbc49e17d977e070e015bc81d8657",
+    "dba1921f72be8d6e882b0247593e9dae6938855cd9ac20c7a02191893bfbe671",
+    "4ea91524f84ef2d63aa68cd612a6a70bdae9760e072b1dde84d2b8cb7e8f3f1a",
+    "3e3681a55b99e0f298ea461a9a950fabe72f66f972f4fdcc65323c94b16f3fef",
+    "a59ff2b6217782a8e041d929ddd609f4a63a93a8860dc5d7ccac139a07873763"
   ],
   "title_hashes": [
-    "3057729c6bb2b4fa2ae0872602accdd39e1e00ff8c32001f628dc8879653947e",
-    "c5e0f47dc5f678424fd1139f11fa9370149a73375be94b71570340d70ab95cc1",
-    "b3a9c180e50d4444a1253a6bdb105f0ab4941f3bd8a3c9066e2c7bc14d31a30f",
     "3503ed264bceb43da2235d9dc79ca9d92e33fc51dca0ff67683b05338b2e9d7b",
     "a8ff3b54835152acac2d2a7fc0a2a59e13921a24dfc3d2a1f545b3c096d5db1e",
     "f5f9ec4eea72e8ee220657ed3ce8be251e2577e89169e9be15ddb357c653331c",
@@ -8002,23 +7999,12 @@
     "bf04e4c725debfac922701bde45f6c5abb7e62ee1bf3df4894d75d2a1042472c",
     "40bdcad5e90012935bd848b80a22fe8704b645ad9f270d3d86cb019ed7b7c644",
     "e8f870b0d2f11a9c2c03b1ddce1ddad90199efe69723c41971885af1d1ad2f5a",
-    "2f9b57a8b0e2591dbb1d0a4e129d2e63d2e2bcd8ab5106b8e3e516792b29b1c4"
+    "2f9b57a8b0e2591dbb1d0a4e129d2e63d2e2bcd8ab5106b8e3e516792b29b1c4",
+    "0add327d928f8c959c70e0c06d3d3fa68d0d7606d533ba9fb10b6e4bb723fb43",
+    "fb7f35fddb6327814335fb048e44082356f75ad57ab84498296ac08e9f9e4f5e",
+    "26dc53f72c15ae2ab14b6b5f6ca720f13e0727d88955660fb428065ec661257f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "매일경제",
-      "title_en": "美재무 \"'엔비디아 H200 中 판매 허용' 정책 변화 없어\"",
-      "title_ko": "美재무 \"'엔비디아 H200 中 판매 허용' 정책 변화 없어\"",
-      "url": "https://stock.mk.co.kr/news/view/1203471",
-      "ts": 1795195111
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Fed's Cook Speaks - WATCH LIVE",
-      "title_ko": "연준 쿡의 연설 - 실시간 시청",
-      "url": "https://www.financialjuice.com/News/9862140/Feds-Cook-Speaks---WATCH-LIVE.aspx?xy=rss",
-      "ts": 1795195114
-    },
     {
       "source": "MarketFeed",
       "title_en": "FED'S COOK: THE US ECONOMY IN GLOBAL CONTEXT - READ HERE",
@@ -11504,6 +11490,20 @@
       "title_ko": "무디스는 포르투갈의 안정적인 전망으로 인해 정부 부채 부담이 예상보다 빨리 감소할 가능성이 있다고 밝혀",
       "url": "https://t.me/firstsquaw/194757",
       "ts": 1795239566
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Iran and the US maintain ongoing diplomatic communications through intermediaries, Araqchi says",
+      "title_ko": "아락치 이란 외무장관은 이란과 미국이 중재자를 통해 지속적으로 외교적 소통을 이어가고 있다고 밝혀",
+      "url": "https://t.me/firstsquaw/194758",
+      "ts": 1795239588
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Tehran has not abandoned hopes for a diplomatic solution to end the war with the US, Araqchi says",
+      "title_ko": "아라그치 이란 외무장관은 미국과의 전쟁을 종식하기 위한 외교적 해결책에 대한 희망을 포기하지 않았다고 밝혀",
+      "url": "https://t.me/firstsquaw/194759",
+      "ts": 1795239649
     }
   ]
 }
