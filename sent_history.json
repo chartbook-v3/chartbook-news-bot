@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795230701,
+  "updated_at": 1795230862,
   "id_hashes": [
-    "c78575d48c8ed0a13dcd118356308c2487b7b5272ee86995f500f0827049b8ab",
-    "2ddae77dd645f281a4eaf22219879bc96134922619b33c5faf9d5ad0c1212630",
-    "f13776bfc8c6fe75019bdd7142c10bda012253f944597c183eb9cf92baf5a3a0",
     "2736407f3360618035bf2b35ab7e46013d0fad5c71f0b01e657afaab35692a2f",
     "e713f7c26de72e44ee8fb190b3f481a725c4909d6697c9fb0cb48b817595076b",
     "b7b166d0fc12e4b38fdb4faeb7a68c044ed50aaaa321bd8b48e678ad78d913e4",
@@ -4000,12 +3997,12 @@
     "efcefa78ebf7fe36caeab6703c31c9a79773c9966d53fa00ace81cde4255c6a4",
     "9bca9f1348cb52a628326e09bf62cf8b839116e3a6981cdf54f848f130fd3757",
     "530ddb9edf4bd4f4d0b38accbf1fdf174c0a752fe8ffeb58667e90706d7ffab6",
-    "241cf2abc10d07b3951aa84d555a1d6fd2051152d43903f8c75cf2afab58e10b"
+    "241cf2abc10d07b3951aa84d555a1d6fd2051152d43903f8c75cf2afab58e10b",
+    "0093a8b0c045d22cc965fb27b98558e5cce8c82376a137b79e62d59e02c2b5b2",
+    "b1d9f7565768251102bbc45847c90fd8b2f1ab3f2e2fa6412676929c573541da",
+    "580c187562356c84a9f5ee85021c662d865f93aef10c2b84994338131975ad5b"
   ],
   "title_hashes": [
-    "aace274ada66bd11f9e08be5f6f7884e76ea13e778af5f9d55ed8b4598542c95",
-    "08855ab644a5969d5a3b9889fd3b27aabe05090843fbc50375d876f4fd67c069",
-    "0c11a8f43fc6e643c693396329affabf9cd1d4a29cea1674b8c76fd8173d6c3f",
     "2b6d612c35547f651513e98ba882bb6c07b227e627c7d0785cda52a956eab51d",
     "fd1c65ef0c49a81b3a73408c16cfb6c693504d5666912061309c1e35ec555e86",
     "67bd93e441a9dd8a40710dceed4f22c2ee806e1c05106bdd886a6130027bdb22",
@@ -8002,16 +7999,12 @@
     "551f60c89011b23ca59765f4eaaa56df0c63e9256541dba22c3e1b46a893a90a",
     "833914111d6b57d80e40de2b3028f71559df4f7447d28fbb61f8dde686db25c7",
     "429ca779cddd34a7278d25c4f75f35e0847d445a9f9604e52e0bf5651036dfe9",
-    "79df399108022b8b48bafb511695105c416500cf7f224663720c89af3083afb5"
+    "79df399108022b8b48bafb511695105c416500cf7f224663720c89af3083afb5",
+    "84cd89372e149b2aa40690bdfe4d00564b92ac74424afd748cd44b646a56e7f9",
+    "b1f00f3082565e5d903992bb2c1e569e9f7bc5b12758c8456cd61bc0c04436bf",
+    "7a8caa7749c5b510c1c3767b5b05937141d9be29d067886bc0f9716d938dc3d3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Microsoft draws mixed signals as hedge funds reshuffle positions in Q3",
-      "title_ko": "Microsoft는 3분기에 헤지펀드가 포지션을 개편하면서 엇갈린 신호를 보냅니다",
-      "url": "https://seekingalpha.com/news/4674866-microsoft-draws-mixed-signals-as-hedge-funds-reshuffle-positions-in-q3?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795193087
-    },
     {
       "source": "WalterBloomberg",
       "title_en": "RUBIO EXPECTED TO JOIN TRUMP AT TODAY'S PRESS BRIEFING",
@@ -11504,6 +11497,13 @@
       "title_ko": "트럼프, JD 밴스에 대이란 강경 대응 요구…밴스는 전면 지지 유보",
       "url": "https://www.benzinga.com/news/politics/26/11/63514571/vance-trump-iran-war-midterm",
       "ts": 1795229941
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "SM 인베스트먼트, 1~9월 순이익 700억 페소로 9% 증가",
+      "title_ko": "SM 인베스트먼트, 1-9월 순이익 700억 페소로 9% 증가",
+      "url": "https://zdnet.co.kr/view/?no=20261121121013",
+      "ts": 1795230861
     }
   ]
 }
