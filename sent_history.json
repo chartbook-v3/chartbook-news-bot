@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795303857,
+  "updated_at": 1795304011,
   "id_hashes": [
-    "01c476474d69b2adc389bb3bab46842bc489e911c49e93f7e6bf793e4c6ad8c8",
-    "85e7f14b53ec650f5d8b502c5272663cbcf5841f3374e3061ba39bcd123b3c1a",
-    "b91dbf1d3aa57a658989151ddcdb512461b034b183fe76618e52623db7bcfa5d",
     "ed22da1ab9cd186de377b53a3878e361bc80e075761ecfaa80a713575ed74093",
     "18c3063e094c8ade86a96fc15e9ad6322b28ff90757ebb38ed9cf19e22832463",
     "e69d8c6521c66853ef17eda8c4b5137c679db11e7b968af185f95ff6bfe2c7d2",
@@ -4000,11 +3997,12 @@
     "71b47290c4f049bcb48334139619209b7bf298a5257841dc24263c944f6a8e9d",
     "c0e780e0e5fc3ff59552c7d58455c42b7c329dbe7f85ab9c52209480405dc091",
     "9f5e1447bf37a4fd7d323c1502fdbd6a015c0b0335df56c8fb53b1f855b21b10",
-    "c576bd425f81b099620fa1cb816f205abbbc1890da1d9b678c30f4b050e1e7c7"
+    "c576bd425f81b099620fa1cb816f205abbbc1890da1d9b678c30f4b050e1e7c7",
+    "591271de1c0bc6551e8cbd485be83e8cc99609c008374e25ad473c2997c83250",
+    "36969cabda48de0a41eb0914b9be72ea4a1db79faf102437be9bd070ea5e9401",
+    "ddf1a868be509263e6d3c8f047973f6ef98ab2b5524054e9dc9470fe8fbbde68"
   ],
   "title_hashes": [
-    "327b1bcf2048d38db7b8c93df896aa903efecc4d832e36f75918c734f608efad",
-    "9c8d74d47878c6e274e0ee19b951b38578d82fbe4fa3f1ea27cd316bd2eb4284",
     "a3271025eb4f3257466208e84cbbbd27468c9a7b18ffcd0687d19a42b833690e",
     "93fa0f78cfd384189517130333afd1006fda1f0aed0f46f138728a24f4beb48a",
     "a31a94fca89775202174ec3d30d84449ce1727fe6c42ced6cea151625800be36",
@@ -8002,16 +8000,11 @@
     "4b04e62eb9836e7ea6430eea46e782376e66123cc3d36ecbbd3b8e3a5a71b5ca",
     "06b0cbd25d5ede777f35ead6adc9113871eba785b159b3a9618a60d65d858b41",
     "55e3aab5332ea3c10410d7f1f30a6a0a10e6608b747b3b3ace1ae19e7a6430db",
-    "99efda0aa3d714931e9f1884637550a613dc6043c4761293eeb9bbe4d181a188"
+    "99efda0aa3d714931e9f1884637550a613dc6043c4761293eeb9bbe4d181a188",
+    "119e5702b264ac2112906bef76f4ee1967d71e0acec10327fc631ccb7ac0f343",
+    "225346736573ff61882d1e82f18d5832a4aa9257fe0188812d49d9dec8d298fa"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "ORACLE: HAS SECURED ALL THE FUNDING WE NEED TO FULFILL OUR CONTRACT WITH OPENAI",
-      "title_ko": "ORACLE: OPENAI와의 계약을 이행하는 데 필요한 모든 자금을 확보",
-      "url": "https://t.me/marketfeed/1083013",
-      "ts": 1795208689
-    },
     {
       "source": "MarketFeed",
       "title_en": "CROWDSTRIKE IS SAID IN TALKS TO BUY CYBERSECURITY FIRM ZSCALER",
@@ -11504,6 +11497,13 @@
       "title_ko": "\"삼성전자 SK하이닉스 내년에도 웃는다\"…무디스가 전망한 이유",
       "url": "https://www.fnnews.com/news/202611220802359845",
       "ts": 1795303591
+    },
+    {
+      "source": "X ｜ GREG BROCKMAN (OPENAI)",
+      "title_en": "OpenAI models topping the alignment benchmarks:",
+      "title_ko": "OpenAI 모델들이 정렬(alignment) 벤치마크에서 최고 성적을 기록함",
+      "url": "https://x.com/gdb/status/2124283509418422305",
+      "ts": 1795304010
     }
   ]
 }
