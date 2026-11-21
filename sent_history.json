@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795298666,
+  "updated_at": 1795298820,
   "id_hashes": [
-    "7ddfa0d83118a48964f395b636fbc005da44d35efa343690cb951237a9af1d4b",
-    "57cfe24b84973e08be170800f078d2a51d0da317f0d0dcf624ff1e2ce80c7878",
-    "e748055bb88d61a46192fdc4740c1097f24b34d92b610aaccd6cb650090b4897",
     "035d22dbc213922590464d7abb1490b18dbe60faa20b8bb3636d09e92e558895",
     "51b2aecd4358eb7877d0ff73306746008d55280ea3268d5d5bcb3c94d13edc24",
     "eaca384f996ec3134de7a840fd9ce472903360f8812773f4d0c47fa014743009",
@@ -4000,12 +3997,12 @@
     "54e881f3a88091929e9cfb2f8976dfd74c671c58c9f1ec0978686086d521e75c",
     "509a649d517d2a3d1c7e7389e31095f540b81cf0ee79ad08af73b7164366ea40",
     "a8b7876853f6fb6f8960c937b6484ad3d50ea9e2409f9d5e232b9c8dfa1dc3e0",
-    "4ab53967ee18693a264f5c6f9718716b6db568cea2359b7e14bf94b34f3c91a9"
+    "4ab53967ee18693a264f5c6f9718716b6db568cea2359b7e14bf94b34f3c91a9",
+    "1806dae1f6967871b09f54f7e597ddd7ca7becb5693808f5ba12424489b45654",
+    "d228952158eb7bc2d31c40ec3de721eed628f2bf976220ac569cb242aa0a66fb",
+    "41da10a651913d5fd30d839a1e75686cf34004d543d1a9ab1ae951bfb4c5c28a"
   ],
   "title_hashes": [
-    "6e8ed0e731ee621bdb4a8edbc8e541fa08a136201d77d22366cb5d8016e4358d",
-    "6b04593312b9adc5fcb23eeac67416f80304bbe7a502261de1111e7fd288d569",
-    "57a3a6a9d48d3c7f1bd637d6820f98074119c11fdf87fd40c4c74cdbb6f5a3d0",
     "b4844b5b7d9abc93978a2ffbe82ed5ec8b3b7abede981da785f8fd74d2bcd04b",
     "5c9d6a7f172184c1f7d2ecde03a3cd5d7fb92a131d2455362e17d96ac6b96d87",
     "cd4b7e1488cac8d00ef505e5bd4cb4714c405dcb0cc604ffdae8c1c194ba4575",
@@ -8002,16 +7999,12 @@
     "4550173620895fdfb8ea4992c88406a94f9ab946671a1b4f6d8df0d2f8e0ff7b",
     "2a70b81995d3d0c158c669334efa0e4b9be3ad8b618c6e0d51f6adca9298ab24",
     "8817e88682beb36d7694f247f9f1708effce78e8234985a1fba1afa5d93fcb69",
-    "e8fb7a0597b3b2d259246cee3104f0b08967f34b42fa557ef3c0e7a0be3a52dc"
+    "e8fb7a0597b3b2d259246cee3104f0b08967f34b42fa557ef3c0e7a0be3a52dc",
+    "669ed1e9c84e20c77a23706e8441aced4af29f29cd1ca907f3a3e903bb83d17e",
+    "519c647eaf6a328b83322a7d82bb825ff01680d1f088eb1889e69662d861d0e0",
+    "f3255c055d84dd7523b661225105bdfa0227eaeaee42d4960701e31e83c4d542"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "美国商品期货交易委员会（CFTC）：11月17日当周，比特币净多头头寸为1,528手合约。",
-      "title_ko": "미국 상품선물거래위원회(CFTC): 11월 17일 주 동안 비트코인의 순매수 포지션은 1,528계약이었습니다",
-      "url": "https://wallstreetcn.com/livenews/3203564",
-      "ts": 1795206759
-    },
     {
       "source": "WSJ",
       "title_en": "Amazon Urges NYC Customers to Oppose Mamdani-Backed Delivery Bill",
@@ -11504,6 +11497,13 @@
       "title_ko": "수출 1조 달러의 역설…최대 무역흑자에 美·인도·튀르키예 통상 압박 우려",
       "url": "https://www.news1.kr/economy/idustry-trade/6360915",
       "ts": 1795298538
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Four S&P 500 Stocks Rising in a Falling Market: Pentair, AppLovin, Chipotle, and Gen Digital",
+      "title_ko": "S&P 500 하락장 속 나홀로 상승주 4선: 펜테어, 앱러빈, 치폴레, 젠 디지털",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63516363/four-sp-500-stocks-rising-in-a-falling-market-pentair-applovin-chipotle-and-gen-digital",
+      "ts": 1795298819
     }
   ]
 }
