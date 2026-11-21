@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795228705,
+  "updated_at": 1795228865,
   "id_hashes": [
-    "333aae3a543c84b96cb7ae6b57430aa791695f13d784969b9749f6362bbdd857",
-    "b01cf3eca62ec6f1019051b7f6edd2af832d09af1a82fb0079e02590389d56ed",
-    "6950956348ba12ce44268cd826818380d8445987b8bfe0f19902cc20ea9c9e54",
     "7b6ccbeabe83c5f14b000b59930f858fcd8c67602539a52a7346915a49857fac",
     "af1ec085ada4dea27f94bdfd304e30560602f616f815f896e29d61f82f5ce64a",
     "1be00532d9e127dda56ff2497d37f0226501c0aa2d553ea06d054b9e7b2fb9c5",
@@ -4000,12 +3997,12 @@
     "39a711b71c7cf167677af01b9cf7848da68503100805ba96e55b1d1f4d5ef446",
     "a4cbd605098bc618b78af3671a412f75f9a45fbed56aa2b10d69bbf30a14b00e",
     "adff84471b1ccb66b2dfd237b083cc1f6b8884e478f64503240bda3b9b4d214e",
-    "70879c4f4775ab745884e5867b9fa62a2377a2780d588a2149f38c1c1d63be63"
+    "70879c4f4775ab745884e5867b9fa62a2377a2780d588a2149f38c1c1d63be63",
+    "3624ca1a943730925df0646c1805abcd1b44bde4e40eef0cf8612d08244b79b2",
+    "9d1ff93587b17de86c52626530a4167acebeaa23a48cf307d608c8afeb3d4eac",
+    "3564396dd6727a0721adb960830a74e48610d6de7cc642c194d374bd76041d30"
   ],
   "title_hashes": [
-    "32fe161a7bb9398eb85abdbfffef281f20604161a2b1b2b61b2f5ac9523a4ab3",
-    "7afde12fb1c309d3f027e56bac773306587fa90729a9d42c6b65cd01aa663ac3",
-    "9d76e79993c5e8a7528d76635b99691e31ce3b46e80c2dddc931c060e2bf0209",
     "dc1991fd36021fc9fa88d69b1b7eb26b884adf681bff6a9dce58cc38a5eb28a5",
     "9f240e72768c0bf2024f653afc340d5c1d52b172a1385a89624dead6a19b0888",
     "c8a7a0a92091f6e3cde8e933a629dae6cadb09f1e6c511e7b49bc4accd69d223",
@@ -8002,16 +7999,12 @@
     "a7a0e9a77ce39df34eb529f222d4d57b9f7211aa69795430d00ffee069890ac7",
     "f343b4f393d59f472cd6e3f13569041f5f56902305939276ed103f8fa191e611",
     "8f88654d3ad722816fc3c9f85b3884b446aecfe425c55c21b3e64f741a1a58dd",
-    "804b826fe4f7dd97ea897d66aec628922097d4b4e44f74efe8fd6b2cbe024c9c"
+    "804b826fe4f7dd97ea897d66aec628922097d4b4e44f74efe8fd6b2cbe024c9c",
+    "bc15ed3fa5a45c642721f10e91bdeb15a52df3b2fee8016bbebb8c36868b3618",
+    "81eaa248a62d89865026e528fd2db310d0f83a2de7eab4acb401a3ffd2d7aca3",
+    "657297bdabd955cb1fc61c6177201d5faceaa47b2897e5ae56cf45aa2a67bf29"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Anthropic faces rocky next 60 to 90 days – analyst",
-      "title_ko": "인류는 향후 60-90일 동안 험난한 상황에 직면할 것입니다 – 분석가",
-      "url": "https://seekingalpha.com/news/4675235-anthropic-faces-rocky-next-60-to-90-days-analyst?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795193057
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Apple in spotlight as UBS weighs in on iPhone Duo wait times",
@@ -11504,6 +11497,13 @@
       "title_ko": "백악관: 연방 계약자는 계약자의 의사소통과 관련하여 보류 중이거나 예정된 의회 요청을 백악관과 계약 기관에 즉시 알려야 합니다",
       "url": "https://www.financialjuice.com/News/9862780/White-House-Federal-contractors-must-promptly-inform-White-House-and-contracting-agencies-of-any-pending-or-upcoming-congressional-requests-regarding-contractors-communications.aspx?xy=rss",
       "ts": 1795228703
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Former Nvidia CEO Jensen Huang to Face Public Senate Hearing - NVIDIA (NASDAQ:NVDA)",
+      "title_ko": "전 엔비디아 CEO 젠슨 황(Jensen Huang), 상원 청문회에 출석 - NVIDIA (NASDAQ:NVDA)",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63514544/former-nvidia-ceo-jensen-huang-senate-hearing",
+      "ts": 1795228864
     }
   ]
 }
