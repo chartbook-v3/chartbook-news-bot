@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795289539,
+  "updated_at": 1795289686,
   "id_hashes": [
-    "954238e4ff98baa120e38fb6c4a87a3587a6cf8fbc65d441005c7cb0d841691b",
-    "bf3cb2daa85a86f884cc8d3e3d5e2cc237b411ab0deb2bf1ea1c9961bcc3c2d5",
-    "c8a40d03ff7b08b012c7aa1dcd92385749ca4fb1b8b5050a69a4411fc791bf40",
-    "a4830004f9c848a2b96e5606f098053d0314547a1962df2971ff7fdc14011918",
-    "866d284517695b75cd8fb522fee5559b820bc893aa67c5ee25db975ba959d58f",
     "af1b73eeb38e97a27ac050202a4d16690f3c71bef14d25ab389073a78f9e32b5",
     "97a528e1d1ff11c4c61df1c16069444944d38129a6012a2f8ffd5ce2a0fbd60f",
     "a2ce9a4502503eecc6779e18801aa9235f6ce3e175b725fe4382667cd1721cb8",
@@ -4000,12 +3995,14 @@
     "50819249c94c2cbb876ac8f32116c09cd6462226184eea5a1bd5bd4758c14daa",
     "dd06dbabaeb3d44b96979b1a1d2cad0ce649cf02d2a05ade5d4a9fda63def1a8",
     "b0823bebf5039b9ec8f57caea7e6b3de31db6ede90843e2dd3ce89f795194dd5",
-    "a7c3e1c7d3091ea33f7946c3e1cead3bd80997edb0a76128e7048c6197810315"
+    "a7c3e1c7d3091ea33f7946c3e1cead3bd80997edb0a76128e7048c6197810315",
+    "af442591dc28f0445ed8d91c6145e949128acdcd08bedd032fbe9d29279e01d3",
+    "28bdbfcafe162d8ec08ac8f233e3426e0d1ed31c2bb21875bebfffdeadd332d6",
+    "dc8cd08185051e7bc0da4a465e8799c5a55542a24a4663deca633a8f3356084e",
+    "209220d439cf2403e12abf4177212a3ff8fcb3ff5690eaa00dcce6d0c64e3d7d",
+    "662976982e1e47b4efde64b0a921031fa9375f84e64b7b83b93a42942fe06355"
   ],
   "title_hashes": [
-    "710a0f15c696b13829e39824ce2e3ff085e632e2799c8295a3914a18c59367bb",
-    "238bab17c590b58847031f113b598b62083eb0e6df8a0bdd51cc9eeeff94e769",
-    "5e2039a21f392d151ae26e0b263eb6a3225fddd73851cdc4db22acaedfe25a76",
     "af145d754021dafbb8b4b9fb5523f2a82976d0d21db40229383c996c7fa85725",
     "88349c20e26cddd9a853343a8ce933dd52b2ccb01c246e873f88ce03f878e5d1",
     "c1e33f46cc1455dbc994d395e5dce2db74c531ad269a89345c84684195afb3f3",
@@ -8002,23 +7999,12 @@
     "e4975c9af3704c90ae7999b2601618a87272f3840ebf225f39fd2044a442f936",
     "85b3b15c4f94dd6da2ec6e0d00c3556be21736cb7816101c54e20bb78056ec36",
     "a0978c4d3e1def49a44b035581a8ace6fde3f587855948cdeb16784d43cb727e",
-    "c652282a5bd489174e592212b60847fe6b0331cffeb01eec02068b07b46406f2"
+    "c652282a5bd489174e592212b60847fe6b0331cffeb01eec02068b07b46406f2",
+    "2f111408b336989afd61cb5949f81b3d9d349fa9bf86423fd249b68ee6aed184",
+    "9f2d028783775c30af3da7b7de889cabab4f9fa248ad0a811e4b24a50285be59",
+    "633d6806efc44aa57cd149b3b398260992f790570c137c08f8cdc0e6d6ffe5b4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Catalyst Watch: Spotlight on the AI trade, core PCE, and Black Friday traffic",
-      "title_ko": "Catalyst Watch: AI 거래, 핵심 PCE 및 블랙 프라이데이 트래픽에 대한 집중 조명",
-      "url": "https://seekingalpha.com/news/4675220-catalyst-watch-spotlight-on-the-ai-trade-core-pce-and-black-friday-traffic?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795205054
-    },
-    {
-      "source": "CNBC",
-      "title_en": "Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright spot",
-      "title_ko": "AI 패배가 강화되면 나스닥의 2026년 이익이 사라집니다. 알파벳은 기술적으로 밝은 곳이다",
-      "url": "https://www.cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html",
-      "ts": 1795205056
-    },
     {
       "source": "Tom's Hardware",
       "title_en": "You can now put a powerful AI laptop in your bag with the HP OmniBook Ultra — this Nvidia RTX Spark laptop is now available on Best Buy for just $133.34 a month",
@@ -11504,6 +11490,20 @@
       "title_ko": "기술적 요인이 펀더멘털을 압도하며 S&P500은 조정 국면에 진입했고 나스닥은 2026년 상승분을 모두 반납함. VIX 지수가 40까지 치솟고 유가가 재차 하락하는 가운데 국채 금리는 소폭 하락하는 데 그침",
       "url": "https://x.com/elerianm/status/2124213177982312738",
       "ts": 1795287169
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: ELON MUSK'S TESLA $TSLA OFFICIALLY BEGINS ROLLING OUT FSD V15.",
+      "title_ko": "머스크의 테슬라($TSLA), FSD V15 공식 배포 시작",
+      "url": "https://t.me/marketfeed/1083300",
+      "ts": 1795289632
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Iran's Revolutionary Guards say they struck two US bases in Bahrain, Fars News Agency reports citing its correspondent",
+      "title_ko": "이란 혁명수비대, 바레인 내 미군 기지 2곳 타격 주장 (파스통신)",
+      "url": "https://www.financialjuice.com/News/9863123/Irans-Revolutionary-Guards-say-they-struck-two-US-bases-in-Bahrain-Fars-News-Agency-reports-citing-its-correspondent.aspx?xy=rss",
+      "ts": 1795289635
     }
   ]
 }
