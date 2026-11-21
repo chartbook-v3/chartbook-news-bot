@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795221153,
+  "updated_at": 1795221302,
   "id_hashes": [
-    "21071a86b78a463fb3f8f373721e6c72ae0090bc9fc621cddebe49874573896e",
-    "26d973e006e57e585560e1cc63a5796ac263757eb1d6664f455ca38e2db0b15f",
-    "5663d143fff9a533d1d0d9feabf4b2a2e2112afbdb6721566c2f7342fdd01b5e",
-    "9aa2e5f8b1751fa0cb5426ff15172adcd4c32020c56422310ad825864691fb40",
-    "17ddb4e35e77424808a428c2d5feceb4c1504ff6db030ef814cfb082c5adb9dc",
-    "3e72de1b10da1956831cc0f07cefc32cc49956f8f16dc6c12fdf8b99d5557e54",
-    "12ee1a8c090abad5d378cd538e993780e075bed560d847abc52e1da65b9a7135",
-    "ad84254405e92791c0be1e9b182f965706bde33efdad16538897e0fdf64ca95b",
-    "8a1571937c3ee48c3ade5714d3683d968ec2e444fcf5557f7d8c755b6160ae92",
-    "55589d523a3ec90c0bc1c4eaf306b43394f7958dab560ef9a327ff2aaf2b6ab9",
-    "a934f5938f1cf90791cc289e5fe808356f965e42cbe8d83477c1e793494d90c6",
-    "15f9d461050717e5feb739412b88a8be13677c2b2bad5ce334eb58cf9edcc337",
     "178b128cf43629868e616f672c7fc6b68da94a8a11d4ece56e957c651c87fc92",
     "774dfe3d7d83c6e12dedeaed0edf2e1bf2c668bd339868b4c7c0e5117d16a9bf",
     "e5e85226d77fa2e57a5f03030027e08216d4f6b5193549dbb1f988cc36f8fff7",
@@ -4000,18 +3988,21 @@
     "9cd26ddf67f3558972ff683b2fcab03a50e0fb5a396cbbd6773c208cb47f4ba8",
     "26e4f66366073cd4d5cc865c1737bc75e29a4b0843a9e52c345f76763989c3e5",
     "19c60785af955d4d10513c4c67ff3e545d85cf06bc1648fa6663b3dc792a95d1",
-    "17b08d0e9ad3fe6642ca98d2f99df3eb5d56d309775731ad5031b3378bc36f42"
+    "17b08d0e9ad3fe6642ca98d2f99df3eb5d56d309775731ad5031b3378bc36f42",
+    "920c554e9fc6f124e4283fc4c3fafd9e37b3853dfe162d369cd5c09877193a7f",
+    "7848ac32f41f636a8a9f508f0f194fe096e3a459f0cb7bc0b130f08035c5d40b",
+    "f9ff78d2dda7594ea0bb6bfc10c5e76f2fcd029d2043ef26f700709bed5bc224",
+    "e5080968b663d3e579c2a4b0b4ca76bfd138b7d32b3ab8e9602c239b82c6ba3d",
+    "34e5480cbe69b3caaf3a3871d642989c0fb5c65b69f64bdf063b86d97c5b5452",
+    "a35bd27c3beac80246933279e194513b7b6074eba3c71a2d9e5cc1c068b947e7",
+    "a8dd4f742891313e4e5dcc16ac2f1fbf9e08c081daafbe0a10e751de7c612b19",
+    "89eb5290ff23a00a20ee1a879cdbe625b6a86b5902b6f4b25fa8e7769e7dbc1a",
+    "d545a3e816d32ed4835a1ef4996877526c9a17d5be9722d97fc1d8831feeed32",
+    "a5f367f2c42e5e654b9b197989a6258de12c6077c513176906431d04c02c9376",
+    "6484954f7f2a0cc327aea3cbb1184271d1a895f7669bb59fe6c54f375463630a",
+    "6b2968a45eab8d07ca1dee4c7ca592bd27b2c863cae92b4f80f89ecd897f72e1"
   ],
   "title_hashes": [
-    "08a3e278cc374c5c4bdfbc883288e49cab99e50764ae4ae4d483a45e300e7116",
-    "6edef50ec9ac0b0519b5f28401f4596a236035e2d4e7832e8b58fd548b74e0a2",
-    "a9737f060c8d01a55de1258484213d50a9d6a2d6a725ba34accb0ebd3bbdb72d",
-    "bdb3aaff19c23189b9e467d06ce042cc4d1012f62227d69fd38369158f5d4f6c",
-    "f300b40f24057369a6ff0b1f3e59c441eeecca81bd60baaa863da82629a8b259",
-    "dee0927c2f087623eb728a2c744fb5854947ceb85e0da9ec7623b1b33221b407",
-    "f1aee7afa75c6c0115db58223cf01a6252013cf3b565b19abefddb16a0cf2c33",
-    "9997ff2f1ab15e8c265fcad60b2342aac36ad8193e23cb4f8296d4fd7ef67961",
-    "1a66c88b574b21b9c6301cfd5db997d7264dcfcf73b507409eb4bd391529c538",
     "977c13b8a0802f160e8e5993274fab46143f47fcd96b639ec87cb9f2fca48ac0",
     "a3e91c8c39c446f50d3945bf6c6de60bc64411fda3388b3919ce0437ec8ec18e",
     "eba0b1e3d7bdffc9cfc56793f0b6207ba8239ed9b0947395f4f0d5b3222ef3d3",
@@ -8002,30 +7993,18 @@
     "9871dc580dd11158fad278a44c72dabe0a3b299008463bfad7971463498cfbd4",
     "569083e8681b8d51bbdf0295181598aa6c683b23f9d51e563e25a0826d859de6",
     "2bbca0fb133647083c26c10e8c457dc930d05dc25b83287b5bbe89864817529f",
-    "f076aac6a3456ecef06b40cc120c7589a9a884b408bdf2e04aa77c7cfa628d8b"
+    "f076aac6a3456ecef06b40cc120c7589a9a884b408bdf2e04aa77c7cfa628d8b",
+    "e5f8481ed0ffb42e63c379cc83b5b3f65f64a62fec1527fe43cc7ea3a86f84a3",
+    "d229cc414e5b19e4ead063f18e11f117fb8c841054b76dc42ab3409d99b8beea",
+    "64d655213b53dd89d993bd66a6b929b44bf31ad7ed8381ca1c41c6402aae50e6",
+    "2458738d5eec255f5c0e0773cb0d98676486600bb5f8e957dc9d5be6d18ea287",
+    "c2b147fc9f85c8e03a4513468040e3f3665c5a182c425ba1f7a414af0874313e",
+    "9509c0598922fd12fb46111aae4b34776f6a2da1f71e79cec13eda308d112724",
+    "b4f75f1f5e853e05fbb108c71f471448ee783d54d4f129ccf0cccfe5f0cd3540",
+    "21abffec0821e70b1bbe7393fe3eb6d38329dc1c905dfef4ebee308f482b7e23",
+    "bc2ae1c7359c36769efd31b7c60884c117e6b866c0f1a83cc2332046a891a8a7"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "TSMC Stock Slides As Taiwan Market Suffers Worst Week Since 1990: What's Going On?",
-      "title_ko": "TSMC 주가 하락, 대만 증시 1990년 이후 최악의 주간 하락세에 동반 약세",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63483975/tsmc-stock-slides-as-taiwan-market-suffers-worst-week-since-1990-whats-going-on",
-      "ts": 1795191536
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "AMD Falls on China Risk; Ross Tumbles on Q4 Guidance | Stock Movers",
-      "title_ko": "AMD, 중국 리스크에 하락·로스 스토어 4분기 가이던스 실망에 급락 | 특징주",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-20/amd-falls-on-china-risk-ross-tumbles-on-q4-guidance-video",
-      "ts": 1795191664
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Analysts move to downgrade BILL after $6B take-private deal",
-      "title_ko": "빌(BILL), 60억 달러 규모 상장폐지 추진 소식에 애널리스트 투자의견 하향 조정",
-      "url": "https://www.streetinsider.com/Investing/Analysts+move+to+downgrade+BILL+after+%246B+take-private+deal/27380331.html",
-      "ts": 1795191667
-    },
     {
       "source": "FT",
       "title_en": "TRUMP ADMINISTRATION HAS TOLD EUROPEAN AND UKRAINIAN OFFICIALS IT WANTS KYIV TO REACH A PEACE DEAL WITH RUSSIA BY EARLY JANUARY",
@@ -11504,6 +11483,27 @@
       "title_ko": "Michael Gentile, Cascadia Minerals Ltd.의 보통주 인수와 관련된 조기 경고 보고서 제출 발표",
       "url": "https://www.streetinsider.com/Newsfile/Michael+Gentile+Announces+Filing+of+Early+Warning+Report+Related+to+Acquisition+of+Common+Shares+of+Cascadia+Minerals+Ltd./27382769.html",
       "ts": 1795221152
+    },
+    {
+      "source": "글로벌이코노믹",
+      "title_en": "트럼프, 푸틴·시진핑과 '환상적 관계' 과시…순방 성과 자찬",
+      "title_ko": "트럼프, 푸틴·시진핑과 '환상적 관계' 과시…순방 성과 자찬",
+      "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611210928468510112616b072_1",
+      "ts": 1795221175
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Anthropic Researcher Claims to Solve Riemann Problem With Claude",
+      "title_ko": "인류학자는 클로드와 함께 리만 문제를 해결했다고 주장합니다",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/anthropic-researcher-claims-to-solve-riemann-problem-with-claude",
+      "ts": 1795221241
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Wall Street Week | Gaming Blockbuster, Healthcare Costs, Cybersecurity Meets AI",
+      "title_ko": "월스트리트 위크 | 게임 블록버스터, 의료 비용, 사이버 보안과 AI의 만남",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-21/wall-street-week-gaming-blockbuster-cybersecurity-video",
+      "ts": 1795221301
     }
   ]
 }
