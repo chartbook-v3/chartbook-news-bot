@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795283136,
+  "updated_at": 1795283282,
   "id_hashes": [
-    "c1e444ab192c7ffa2cfb5f42526c8f130bf170876b29357c8b5bab8cedf6620f",
-    "af33fa05a35db178081a2f6a56cfa67a3e8a346a97ae659461519ce5c5762b09",
-    "3a81a9f4eb84d97e7982733190c75acdfddbdfbb8354a7075b41345627359d92",
-    "9c672ceed832accb02b49e68a32c96dc6ca353aa7d53f30cba279ab8ed199115",
     "00358e4f91e9e74b71b0cb8d212dde5f56b5e6f6566926173290281891a2c1bf",
     "1910aefea541427b61e2c4ff6686953541f8a61f2235a39d60a33af0540ce1b4",
     "432a5cc1964169e31257263ff4f8f6823168f68b168f1a5f10a12ccef08c8d60",
@@ -4000,11 +3996,13 @@
     "76d06dc9557448c2888182b015facb5e765d6ffa38a8aba23345e4d63d9a4226",
     "a2721f0149aab97438d577d5407a7e7286835b6853041f6f2ecc51126f101e28",
     "41691d2016af7ce122e6ac3baafca1a285ac7f4970db34fb764fe8a27f4f1f5d",
-    "6f42194239371ac3b3bd715d2b7d88ba470e2181302e3fca08a08225fdfdb88e"
+    "6f42194239371ac3b3bd715d2b7d88ba470e2181302e3fca08a08225fdfdb88e",
+    "cf5fe9d62ddc7e690362c784511e9a311f1a767d2827c3780524e36f4cf41cd6",
+    "f49b3a9ec68b25def5be317f5a54054360bfd3fab07275cd7d48191bbd0ee7e7",
+    "df607f7670e94a00f19868e13fb6c847a53630e2a0a4262b65636bfc9a066f66",
+    "7a5eb47630be03cb5df41441897e80694a9cbd2a555d6e16dd1fbf20cee0f2b0"
   ],
   "title_hashes": [
-    "89b0dd9f156d8f290cccacd37489adec1ace2e02572eb2b2938463d375da11e8",
-    "772a4dbd9398fc7ba113286243510ee3eeb9d652cde98196703011e81b898f1e",
     "c2ac7b0af37d0372ba4ee43b28b9f153d55b726bc00b7c93f94e7e0ba5eea736",
     "1dea327655aba9080b4cf3de0b3555dfd3ecafc8f74d97ea1088bd8bfd6fb39e",
     "494d3e06ec92ae14f1ee513541dcf829b6da12a0a18a652dae98cc48e56e7c86",
@@ -8002,16 +8000,11 @@
     "6ba50974a003f24ee2976e4c4cd6de26a332b19b693596e7a527349ed811f059",
     "d52fe282f037f4d004dc2491f335096ed770d829f4b5ad836bb4291d9e731835",
     "70f02918fc772df9af6da5dd17af556a5d6e987a3111420ab98ca3cb65d42e01",
-    "6250944f95ad0da62655fcd4b1c7804cc2f3130b6d329bf9d6a55530a514078a"
+    "6250944f95ad0da62655fcd4b1c7804cc2f3130b6d329bf9d6a55530a514078a",
+    "c3d88e01cab4b640d42ebef33027673269db5e4b6e291bdf3450e763d0dc8ec9",
+    "aad6ab500812d4ea1ba9c4692f423e93679ffcaddfd224d81c2f303e851d65e6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "Brent Crude futures settle at $92.57/bbl, up 59 cents, 0.64%.",
-      "title_ko": "브렌트유 선물은 59센트, 0.64% 상승한 $92.57/bbl에 결제됩니다",
-      "url": "https://www.financialjuice.com/News/9862367/Brent-Crude-futures-settle-at-9257bbl-up-59-cents-064.aspx?xy=rss",
-      "ts": 1795204289
-    },
     {
       "source": "뉴스1",
       "title_en": "볼턴 \"트럼프, 이란 정권교체 '결정 않기로 결정'…전략없이 봉쇄만\"",
@@ -11504,6 +11497,13 @@
       "title_ko": "아마존, AI 스타트업 디카트(Decart) 75억 달러 인수 임박",
       "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
       "ts": 1795282488
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Explosion heard in Sirik on Iran's southern coast: cause unclear, possible warning shot or ship hitting mine - Fars News",
+      "title_ko": "이란 남부 시릭 해안서 폭발음 발생…원인 미상, 경고 사격 또는 기뢰 접촉 가능성 제기",
+      "url": "https://www.financialjuice.com/News/9863095/Explosion-heard-in-Sirik-on-Irans-southern-coast-cause-unclear-possible-warning-shot-or-ship-hitting-mine---Fars-News.aspx?xy=rss",
+      "ts": 1795283219
     }
   ]
 }
