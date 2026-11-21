@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795251318,
+  "updated_at": 1795251467,
   "id_hashes": [
-    "63038b5922072b41eea8d16b4ffbf4f07148d4bd8b16a10d278826024f20bf11",
-    "327c4c4971265261a8f04896aa350b5855176e79c44e580d0596cd8751417c76",
-    "d5a1d1c88c1ed701e1e9aabae50319eb8d0f89e5e55ae7f0f8ea9725db7e3aa2",
-    "63b62d832115d3cc159a797ced51aaec839e36ab4fd06973bebaabb7a262c2da",
     "3a08a2487b3e217320c74f009894b0de9d14f0b8d3c815f869a974e6b54ece53",
     "4805f2c5561dcdc7855ce5d407a834c009e4518488d5ddc3b82548e27631bade",
     "eee0bbc7e70bee724346798e21c017689199bce2ef678510cfe57f1461bf4ba5",
@@ -4000,13 +3996,13 @@
     "5b96bbe292d65c3491361d8a8c1b860b5d26c5a9723940834088693b54722d54",
     "c64d46ca50e9aeeb86b306ae8b79338bab3c577af55e72fa34a6e0619f352c63",
     "83e51a769907ab617baeb72537bdd0a4bfbf3e0a38f512f71f0e7dd7c8d3c8c6",
-    "077345aa63250dbc22ee40b28c95ccde9830562ad6352d481a597767482455c5"
+    "077345aa63250dbc22ee40b28c95ccde9830562ad6352d481a597767482455c5",
+    "f2ce2deeab3c57ea22660f4664ec9bf062fa011e9db50cc239aaef40836f5494",
+    "724148c44b9615e45a5fd4e5de21f4a0faf4acb272296143da016fbba5ac0a66",
+    "e45ae8af5ea34cf76e482bf37afc32c0348e51c2bcd300f1f6be8e9388dcbbec",
+    "2c2492869ed31862cbcd463964df8d59d4a459654db29dd52684c3859ef47300"
   ],
   "title_hashes": [
-    "2a9dc976e0692219de15da360a31a12fc502d137a06027cfc3f844ec60380ec2",
-    "72b74b3464781ca749f2b9c6bdb5c8bcf578b321c5e70e5690403fbc6f9a7b0f",
-    "66a6fd3b19ffeb7cda2fdd9ca285fd2a69d3cdfc1b7662b711346ab9b475deef",
-    "2be0134acb92ede451b56c9d8b4b4a28e1ad6b4809ba428630c8b41d60560fad",
     "6d45bb66ab5770de558cb8ede0a3bd372b3c97f53356cdcc6de1f55eb4bd7ce7",
     "b7b3c4f59e753d0d880c713571bfaf5fa24c602adb810be492f7a921877c8fd3",
     "bf794cbf2cf03710e7f5fd7cbd502a0906c30b1c0fdf89ed087e44084be73578",
@@ -8002,16 +7998,13 @@
     "e1615e1ca81e32981b73b5daab89141d38ccf61d88f5539badd505de60d4f120",
     "0f1e2e7df5dfc0fd8208273cc988b7e63f27feccce031838d81a49d6397a361d",
     "45996227892b1948f61d9c9d48112f5aba2a24f1fc95559ebffee0b7c96107a7",
-    "f04a17a225cb83fe97c6a84c7457c4a43bd2e57ed467b07c40bcd8ac109a0179"
+    "f04a17a225cb83fe97c6a84c7457c4a43bd2e57ed467b07c40bcd8ac109a0179",
+    "48bc511eecc5185c1aa1503f23a1d907fd4b80f4d039a11bba0efcb49b03f0bd",
+    "45ea7da61fc6d8056aba6465d0c722f2a08711ff05ad9e265a5ec2d81eccfe08",
+    "c3299ba26e20e0502b06a9c973fba527ee8dcca5c738e3a014f23ef2fdd164e1",
+    "a9e79d4e7256b512e5ffa69a48f85459a383583692bffe4433069de089d90fcf"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wccftech",
-      "title_en": "Chinese Researchers Beat Quantum Computers & Use Classic Supercomputers To Solve Problem Set As A Benchmark For Quantum Computing In 105 Minutes",
-      "title_ko": "중국 연구원들이 양자 컴퓨터를 이기고 클래식 슈퍼컴퓨터를 사용하여 105분 만에 양자 컴퓨팅의 벤치마크로 설정된 문제를 해결",
-      "url": "https://wccftech.com/chinese-researchers-beat-quantum-computers-use-classic-supercomputers-to-solve-problem-set-as-a-benchmark-for-quantum-computing-in-105-minutes/",
-      "ts": 1795196545
-    },
     {
       "source": "MarketFeed",
       "title_en": "TRUMP: JUST HAD SUCCESSFUL ANTHROPIC LAUNCH",
@@ -11504,6 +11497,13 @@
       "title_ko": "폰데어라이엔 EU 집행위원장 \"유럽 안보 전략 강화 위한 새 방안 곧 제안\"",
       "url": "https://t.me/firstsquaw/194795",
       "ts": 1795251303
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Trump orders federal contractors to notify White House before giving Congress information",
+      "title_ko": "트럼프, 연방 계약업체에 의회 정보 제공 전 백악관 사전 보고 지시",
+      "url": "https://www.cnbc.com/2026/11/21/trump-orders-federal-contractors-to-notify-white-house-before-giving-congress-information.html",
+      "ts": 1795251403
     }
   ]
 }
