@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795274718,
+  "updated_at": 1795274871,
   "id_hashes": [
-    "1b6bba295343e28888ae87114f8c11ebc2d752c9de53af9741170bde40b16152",
-    "74f056a6bec10eb6e7a4ee3c758a337b517df57cea0e7e7a3cd0f574a5b87012",
-    "a4208818caad56e55a900f761d9e38248395fbebd2656353b39b07f2e8a403c8",
-    "e974127c07d2767ef1a6307aacc9df14ff82af6ce170dafb5a9c892c160c9593",
-    "8d2641cdafc4166aadc1b10fc6a90062ca5e40a71d48e39759974c279c647580",
     "a75cadee961e0498ef96ed23f32c0d59f44fa875befb4782147a51016fb3f5d3",
     "e1b1245f185797ceba7824e1a77d2b3476429e19db7c95065fce0ac680bda4e1",
     "74b58c1ad0e545b9724edf7c94be5fd604d948a5b318e5f6291248b15ec821fd",
@@ -4000,14 +3995,14 @@
     "7f0953d4552d12eeecc9b26173a31ffbce36c1d77f0f9cdb1497c59e9a516c5c",
     "adf5c4b75516f3a8b09c551ff45b46e92d477124f4738bb3b7f7ab44693ded5a",
     "0d0c2b379761f6bf3c13d89659fb2fdf578a9d1c3f53d590256448f3efd338dc",
-    "978960576273c2ca38a583f9fcbdb55f108c8ce9ad53d43290c6074c4390ed65"
+    "978960576273c2ca38a583f9fcbdb55f108c8ce9ad53d43290c6074c4390ed65",
+    "b8924207d6faf6a520b90188ecf4bb666da6524aac9847a366e90af5e4026696",
+    "442848692a682bb9941000a381e2ccc84a7f11696779e9f5e63afc7aef38aac1",
+    "ec058342db790ee3a8a167d92d6058a8b797766429d61589c7112e661f37fe49",
+    "739e484b6db66b8927fe70c91f3c535c1ea6f10b4c64af87b663a60ea69068f1",
+    "039cd276be53148fe6d0188d184c617d15225953733e7d09c9c4a6dcf7ce8554"
   ],
   "title_hashes": [
-    "6eaa2c94c9f46e53938d06b2f6768844003b3276b09f543097c7f3b193d33424",
-    "13671b3dbafd16a166b4974d63e0a7b774020b7fb7f5203677d16f572a86b7b4",
-    "ffb691b46566ba93897e4ab7933ba5892d7e15bc362b7ea7e6f10f1651a3b14d",
-    "978ba4f4fdab3ed91612774b7ea5d48cebaf4d71d8c929791022cf74a84aa92f",
-    "34a9b10dbf6982818114d09700cc0409512bad6d99c599f8e84cac5b16057311",
     "d278989e9b0cb0919d2b7538f2100c8b4e658d95e900e77bfcfe3537ca65e621",
     "2688025b06ef7e1ca652247870a9d6f362503e437fdc6cd1ad07bc77de786a1a",
     "a14fc958d30128d707d4d321da0c314dc50b61d6baaefd4c6bd45690854c92e1",
@@ -8002,16 +7997,14 @@
     "696b207e40b021e230544bfdf5359f895b6cbbd6cd6513b7cdf555c9790b1137",
     "2078ce84b739808ed947942c713ff7e516ef38b3ff224f6c5d87d49eecb268fb",
     "13cac089eaaa05e7a4953ab8b94b2f85c42836b1ba28fe0a5d3c380dd753c3a0",
-    "75e595f26be41f83ddc4fb1fb3d695f38aba21b7322001d1229163f29d1654c7"
+    "75e595f26be41f83ddc4fb1fb3d695f38aba21b7322001d1229163f29d1654c7",
+    "094d89ea4c3002e78d7d4edff9fcc47790d2494df6ea84cb9c224ccbc05fdd3f",
+    "c20c86a8bfe3f6d3a111ff3953f77257d4eaa64711d9e06c1f9e00430e7be3a9",
+    "fd2e5bee0ca2101b8052d0a50b3debda55d784e14563523107e7b66bc76dd035",
+    "f282fb33ec2339ea2da90b799c5a37ebad0deaf6bc80410f9a0fff943b1c260f",
+    "095beef49d7cebc9f4d6c2943ec6fabfc1989de4ccaf3088ff93db3b46146689"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Will bonds work in a tech crash? Citi weighs in",
-      "title_ko": "기술 붕괴에도 채권이 작동할까요? Citi의 평가",
-      "url": "https://seekingalpha.com/news/4675273-will-bonds-work-in-a-tech-crash-citi-weighs-in?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795202569
-    },
     {
       "source": "WalterBloomberg",
       "title_en": "$TTWO - GTA VI SHATTERS ENTERTAINMENT RECORDS WITH $3.79 BILLION IN DAY-ONE SALES",
@@ -11504,6 +11497,13 @@
       "title_ko": "프랑스, 미얀마 관련 국제사법재판소(ICJ) 판결 이행 논의 위해 유엔 안보리 소집 촉구",
       "url": "https://t.me/firstsquaw/194856",
       "ts": 1795274597
+    },
+    {
+      "source": "The Verge",
+      "title_en": "Todoist launched an import tool for burned Microsoft To Do users.",
+      "title_ko": "투두이스트(Todoist), 마이크로소프트 투두(Microsoft To Do) 이용자 위한 데이터 가져오기 도구 출시",
+      "url": "https://www.theverge.com/tech/1039481/todoist-import-tool-microsoft-to-do",
+      "ts": 1795274870
     }
   ]
 }
