@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795303118,
+  "updated_at": 1795303266,
   "id_hashes": [
-    "3f44a99cd6c8dcd7da378c8ae3d752b9816bbafc4ddc71e31557c934d69748a8",
-    "22d1594f5a55db417fb44c0ec969414619f6824b87ac589204083ca90a91fa1f",
     "a212d092ef8672219af1305ffef7e40d6c7d508a6aeb01d472dc0af656f0850c",
     "76accf8ece9086621a0cdc8bc456b6e1233a278d4baffac18acc6aa7df8e522b",
     "bc6391e6d517426914ead8960fb9cd0e4ad7de3becd89ca4cd5fdf90477d4050",
@@ -4000,11 +3998,11 @@
     "715fa59508d8f40d7c5abd1aecaca995aee38c25b82ea49b0e93cce27549981b",
     "0bc17d6c91b5e812d3f5d8d58419e59fbf543872f95c61bc0c3917fe7343c99f",
     "83abede15ac97cac2eb101e2e759cd0997d2943e1130638eb172378d2cfd11f0",
-    "8e381acba9a7a79cd0861c23e6594f339750e7491172e43d4557fc3bbc70bc2f"
+    "8e381acba9a7a79cd0861c23e6594f339750e7491172e43d4557fc3bbc70bc2f",
+    "a565dd17f273e39e8ccf55e5cb36623da7a0f3ebc4c0fd3d3a45b1b73683609e",
+    "1f105fd2c3c6a70d96f8ae686fa7af1f1849ef4a7f22e1be5b630c67b7d28489"
   ],
   "title_hashes": [
-    "ba35fcb83e04c7bac2a6ad068ddfc34666e3ec7bb7eba12f9667a447c13667ed",
-    "31baad08c22e3bc3c8a0a065ab5159ef43a06128ec3df04736f9133a84e3d430",
     "9efdef9befbe90b3d1664e732b786479fab5e866355d240d32ccd465aee4f87f",
     "7314f0398d9e99b952d14bbe8d2a7dbb2a5f8b27ce4c4fdd9cfa7396ae7b2f41",
     "9a31efeb5c6b6cd31865ff8a7204fb2a00f44654cc31f8f625abcf17011cdf5f",
@@ -8002,16 +8000,11 @@
     "405663bca2bca8612506c33a343af1d8ed83d67772dc929936bbf92783aa9994",
     "b60ac0b0cb8d047f08b440f0cfdd058e00f1aa6fe5c56cb9b633c9fc4524e8f0",
     "cc3e26ce40e5a73ec6fe0693f5fb368c9e53d4c0d6a8b4281c0272a7079122a4",
-    "4d1e8638f9ffbd96033d8d70594f6bbc7e7e472ff69c4d2263b030e7d15cc6ac"
+    "4d1e8638f9ffbd96033d8d70594f6bbc7e7e472ff69c4d2263b030e7d15cc6ac",
+    "f384b63fb6edf5dd07a2c5d1b7156446b632498565e65b06483a5a455793fedc",
+    "f8e4bfa0da1fae1198293f0605fabd38042b21fed8552c2506db320d2fcbb1f0"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "万斯：袭击伊朗的决定由总统特朗普作出，自己的职责是支持总统",
-      "title_ko": "밴스: 이란을 공격하기로 한 결정은 트럼프 대통령이 내린 것이며 그의 임무는 대통령을 지원하는 것입니다",
-      "url": "https://wallstreetcn.com/livenews/3203581",
-      "ts": 1795208630
-    },
     {
       "source": "Bloomberg",
       "title_en": "Anthropic CEO Vacations at Italian Resort After Public Listing",
@@ -11504,6 +11497,13 @@
       "title_ko": "\"불닭 넘어 건강식까지\"…삼양식품, 실적보다 연구개발 더 늘렸다",
       "url": "https://www.news1.kr/industry/distribution/6361176",
       "ts": 1795303117
+    },
+    {
+      "source": "글로벌이코노믹",
+      "title_en": "초대형 상장 두 건에 세계 IPO 시장 5년 만에 최대",
+      "title_ko": "초대형 상장 두 건에 세계 IPO 시장 5년 만에 최대",
+      "url": "https://www.g-enews.com/view.php?ud=2026112208095795089a1f309431_1",
+      "ts": 1795303204
     }
   ]
 }
