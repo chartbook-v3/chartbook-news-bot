@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795253434,
+  "updated_at": 1795253580,
   "id_hashes": [
-    "70e6272976add30b7e5e8ab6a60da6b9e20c86ecfc1d81301b951007d9d7f4be",
-    "6e3c241bdad0c19afff060a79b9a7a5b664a6c9b215a08ec0e671bebb733b449",
     "e35d9affbe8d1102f24ec17a8f3d6e24138c8afd50ee7d3027908aa8c676fc45",
     "c74e38206e92ed0ff77c1c93d914ce1afb5b1a847244d204e72af7d54ca2dce4",
     "d8e0e707e843ac66efe93161668c1418bec3db88a6f67d9898bdf5b947a2754b",
@@ -4000,10 +3998,11 @@
     "c902dbc30159d8059bd09e4331de2594a6dfb3ffb4ac294bbcf64ba532be530d",
     "83561edd977e7d1d6dc326f92cc4c52d91fc875e1234b0bdf24c5bc3ef1d47d8",
     "775fdffdf61bce4ba64d7636e95bd4423ae08d263e160abb5fdd3c6119653e2d",
-    "e468fe76f14bba7c4d9b0f4d29a52235ca8b8ea2eb029a14da49c152a41adacb"
+    "e468fe76f14bba7c4d9b0f4d29a52235ca8b8ea2eb029a14da49c152a41adacb",
+    "69e1e38afdae66f9f9af8e06471ada2d095988c8adc850f4b3b6651732ed11c1",
+    "ca40b830c739cf9c40b2fdf16374a5303080417423345917475dd7879fa11dab"
   ],
   "title_hashes": [
-    "6484e82a7fb78e570714faff3891c4c44bf6efff2bfbeb198d35115ce4547994",
     "5cab64937a6bfa1c3c595f216dcf37325ef72b62779f05009885e047fec82458",
     "e1bf77197bacf39f61b1b2438a5c29e4fb8c27629f87ee774c887330b6aabc5b",
     "d4abccc8fa392e48ba139494d1808a2b0a54c461a6cc1790452651f59a4f7fef",
@@ -8002,16 +8001,10 @@
     "5b76e58fdb2f8071a3c733b768b01d8e1a6f30a38f04cfa083ff49103646fadd",
     "797380851186e2f5ca1818e5bc48c03c05540fa4d814da5b7f7756bc23f513d8",
     "f6dbb8d58f2236725e43f50deaca55d313b97656e7aa6c09ace8057c19e184a3",
-    "99b468975b5beea662078547b3b4ff99c769a381a1f47426890129fad97ee81d"
+    "99b468975b5beea662078547b3b4ff99c769a381a1f47426890129fad97ee81d",
+    "dd89046c8b9c3715556247fcc9330c566cef0d87798b8fa9886e034653c65dd3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "JUST IN: 🇺🇸🇨🇳 PRESIDENT TRUMP ANNOUNCES AGREEMENT WITH CHINA TO ESTABLISH JOINT RULES FOR ARTIFICIAL INTELLIGENCE.",
-      "title_ko": "트럼프, 중국과 AI 공동 규제안 마련 합의 발표",
-      "url": "https://t.me/marketfeed/1082819",
-      "ts": 1795196645
-    },
     {
       "source": "WalterBloomberg",
       "title_en": "TRUMP: IRAN WAR DROVE UP OIL PRICES FAR LESS THAN I THOUGHT",
@@ -11504,6 +11497,13 @@
       "title_ko": "[가상자산 속보] 비트코인 57,873.00달러 -1.81% 하락",
       "url": "https://t.me/marketfeed/1083155",
       "ts": 1795253376
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "FoxBusiness - More than 51,000 children's and adult oral care products pulled from shelves nationwide over hormone contamination concerns",
+      "title_ko": "미 전역서 호르몬 오염 우려로 어린이 및 성인용 구강 케어 제품 51,000개 이상 회수 조치",
+      "url": "https://t.me/firstsquaw/194797",
+      "ts": 1795253522
     }
   ]
 }
