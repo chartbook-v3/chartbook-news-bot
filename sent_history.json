@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795274416,
+  "updated_at": 1795274571,
   "id_hashes": [
-    "62b04dbbf17b107d4a7fa2ee0b41916211e695f578a43adf4d3b3d72160e22d4",
-    "97b9f027fc0d5aa25ea3cc23f2fc996a6a8550e7831e4950799e759f76039e78",
-    "997fd391451168f7769339e6262f8ddffd9c28a4267199afae89f3b046772cae",
     "04c0a26f8ec36b42cf2843467132c05bda757b13c5c430efb415061d90f0e0ef",
     "1b24b68480c307c7f45168934769d22cbd860822606b5cb7f876d269c215555c",
     "43367e20f8e94c6ddb14fc569e19407f1f0a23edc805a6afc4f7f5f7fd3235f9",
@@ -4000,12 +3997,12 @@
     "ab161d3640451349e4e889e19dd5f86c99e2d134225701e9d16c0f05650457fb",
     "30f6ed680794b75bfa4e729191abc7a3ce546f8ed76bfea95c96ac885e3c326d",
     "f787713959f834b1d8a3a2874a80a6d790fac10619057feb7a111194f9e33067",
-    "f36ea8ec207e91c408cc1468ce540ce992bcc0d5ec6e9cc5ded916244cd9a927"
+    "f36ea8ec207e91c408cc1468ce540ce992bcc0d5ec6e9cc5ded916244cd9a927",
+    "41fddbb2795b6ca198f101b720ae9834149a9d0eb54d8afc05ce13a8da6298b5",
+    "2fa37623c30c28ae887b8288629fe4ea5e1a5238eb594550f52357da177a92b9",
+    "d47259372bfb14c5e7155cbe8dc31503f7266e402ee005721059335cf36dfdc6"
   ],
   "title_hashes": [
-    "15a0d3c4c47fa9ced5ab291935808af58584a84e1c1492c5a5acf2a57c79b105",
-    "01c75583eb7a0d84be46b3f3dff64d6e782af3e2340f416b781d7a5568dea0f6",
-    "b36b368a49ec2238e34726f00dc2b9cce0c8ddc83614a833958069f3c7824393",
     "f365fe6153b63056f8994f3d90cfc06723cac767782ba140e273ee0ccc17d6ee",
     "ef1e05de58cfb802490be21d8bf33c0a399959c01765039f906fb1aec7ade615",
     "6eaa2c94c9f46e53938d06b2f6768844003b3276b09f543097c7f3b193d33424",
@@ -8002,16 +7999,12 @@
     "daf3baa79be5d6da35e90045253d169f79e186a574dbf5e982ff9b6456b48459",
     "fe4610e79d0d1448e51720eb216d4aacd01cddf7dde5522d6b41fa425d864d8d",
     "f8d45eb42ccf5f630f13af9bd54b42494fe2ccd02bc7105efe476f0c4b5c7228",
-    "7c55ab2b5a7e24e92d9d9346a17db303db8bb9ff84368c264ec1663c216b9911"
+    "7c55ab2b5a7e24e92d9d9346a17db303db8bb9ff84368c264ec1663c216b9911",
+    "8e79a19d4c7f7f97cc801e640656f905c86fd2c29d1c594245f0fb84427f44cd",
+    "696b207e40b021e230544bfdf5359f895b6cbbd6cd6513b7cdf555c9790b1137",
+    "2078ce84b739808ed947942c713ff7e516ef38b3ff224f6c5d87d49eecb268fb"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Reuters",
-      "title_en": "EXCLUSIVE: Nvidia's accounting is a focus of US SEC investigation, sources say",
-      "title_ko": "[단독] Nvidia의 회계는 미국 SEC 조사의 초점이라고 소식통은 말합니다",
-      "url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/",
-      "ts": 1795202417
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "《侠盗猎车手6》预售销量达3250万份，Metacritic评分99分。\n\nTAKE-TWO股价迅速上涨，最高涨幅达4.8%。",
@@ -11504,6 +11497,13 @@
       "title_ko": "비트코인, 2.20% 상승한 60,225.76달러에 마감",
       "url": "https://t.me/firstsquaw/194854",
       "ts": 1795274113
+    },
+    {
+      "source": "X ｜ THE KOBEISSI LETTER",
+      "title_en": "US stocks have rarely been this oversold: The S&P 500 closed the week 4.1 standard deviations below its 50-day moving average, its widest deviation since August 2015. This also marks its 3rd-largest deviation in at least 20 years.",
+      "title_ko": "S&P 500 지수가 50일 이동평균선 대비 4.1 표준편차 아래에서 마감하며 2015년 8월 이후 최대 과매도 구간에 진입했습니다. 이는 최근 20년 내 세 번째로 큰 이격도로, 역사적으로 매우 드문 과매도 수준을 기록 중입니다",
+      "url": "https://x.com/KobeissiLetter/status/2124160908968530208/photo/1",
+      "ts": 1795274570
     }
   ]
 }
