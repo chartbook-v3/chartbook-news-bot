@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795232398,
+  "updated_at": 1795232554,
   "id_hashes": [
-    "adbc512bc7df63c390d673837c16dd8f123c2fa627ad8cef5ae5f70a052865fb",
-    "a4507b869ac9e57a4e91e1275f0953b2bcdafe878ef586329fc02181fd5f94c0",
     "c5e8357f230bd3f8bb445030aeed358f845a80b0a35c9d7d659ce38d5f0adcc7",
     "2def99cfe27115bcbc4f1bd39b8da54d7c137b13810d1ac770172ba67c019af6",
     "2a25ae8196f32b6b1712b44864b8f9904751c71f0d73e1ba40dc3e75baa33877",
@@ -4000,10 +3998,11 @@
     "4a20e2e604ab78ec1b9e12d6431ecd4a825c6053598c9b6cf0052d401545a4cf",
     "6b200fe6fb6c7a5c42ab63020602d31b3903fdeaa45b653050937a66ad2c2672",
     "a263e5d183bfb7ae47a84e64540f18170fecb3286d38c3fac0de53418cc05a17",
-    "59ea92fbe4ed322d5845ef218bfd797dec5af9c8d003cc07f4aaa26dd31d0cf1"
+    "59ea92fbe4ed322d5845ef218bfd797dec5af9c8d003cc07f4aaa26dd31d0cf1",
+    "4cf96e031e802d399dd75c854c0623218929d2b15b37910a775063d753d28945",
+    "c00f0f94699e05bca9f51e8fcd9daa2b240998038ea61fe9ef8a472531e9a6d5"
   ],
   "title_hashes": [
-    "ac110ee40499682b6de7561fc0c484917c71ce23f51f17200d5d12d3cf5ca9f2",
     "4b2cb032f6c2d7a02a235dd403be05d8e58da5cef7b91f90aad99d3fc638efc8",
     "da84b1de67e694dc13bec1d631c2ba4dd2ab0f893ea4825b920a7804d050f4b7",
     "24e7c42d0e7fde4c8c65fb4162c47961e7888c6d95a8dd0e525c4043c47740e9",
@@ -8002,16 +8001,10 @@
     "41d38728b6c6d61b866a86103dae9e4c806009e30863f183fc457a40024386b0",
     "7914b0b931d90a0944a120d2814bafd0c919b6d25067b75f43e59a5d790dd0d2",
     "14365f272dd90d61e309f742a803cf76ea705d6a0a96b965fb134497a36d0d39",
-    "887d2779e49c30b06092cf17209b4d2d08b7ac85417c5baebd677fc0f6c4a4a0"
+    "887d2779e49c30b06092cf17209b4d2d08b7ac85417c5baebd677fc0f6c4a4a0",
+    "0b17ccfa72979e89dc74f03b977486adc97df17e7afc49090c24bad1dc3c3920"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Savara Craters as FDA Delays Decision for Lung Disease",
-      "title_ko": "사바라, FDA 폐질환 치료제 승인 결정 연기에 주가 폭락",
-      "url": "https://www.benzinga.com/news/fda/26/11/63486758/savara-craters-as-fda-delays-decision-for-lung-disease",
-      "ts": 1795193380
-    },
     {
       "source": "MarketFeed",
       "title_en": "S&P 500 FALLS 10% FROM OCTOBER RECORD TO ENTER CORRECTION",
@@ -11504,6 +11497,13 @@
       "title_ko": "비트코인, 2년여 만에 5만 7천 달러 하회",
       "url": "https://t.me/marketfeed/1083084",
       "ts": 1795232236
+    },
+    {
+      "source": "서울경제",
+      "title_en": "손정의, SK하이닉스 ‘1조 달러 인수’ 저울질…“현재는 검토 중단”",
+      "title_ko": "손정의, SK하이닉스 ‘1조 달러 인수’ 저울질…“현재는 검토 중단”",
+      "url": "https://www.sedaily.com/article/20117215",
+      "ts": 1795232429
     }
   ]
 }
