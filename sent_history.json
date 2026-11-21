@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795284472,
+  "updated_at": 1795284624,
   "id_hashes": [
-    "40bf502bea1833e383cd33b48af0e342ca09d6401da3cdec39c6381a12e2390c",
-    "fc9aec1564f5936ee95e51670829237957accc3eacc4108b6fa39e99cc8b2631",
-    "a470a7ac77d9315131df13b6dfa55d74a482b9f7d3519f638f585fa87bbc1588",
     "de6fafda0b176b9ab664e73071577b8b92da6c7f6818eea5278dab5e8d04ff8d",
     "78860b6926c56e2b711f77298eb87ad450a4f0b881654809a036c3214aa92393",
     "e08f9d15850f480a62bf4f0f9405b4c481b83884130d5dcb720b0bc5a7368531",
@@ -4000,11 +3997,12 @@
     "b5277e09e2b4b4d11d3224ce15c587d2a23fcd25cba21d928643816be88563ff",
     "a9bc02beca1b243dadcdc27c86c902a2cbee8e1f786e90ba1da63ef112587934",
     "5ae771028d765242a3dbdcaa17142006c3d3ab2178f95d52279dea8ba59533e2",
-    "9381b41d29eb919bf69c9e0bd939ae6c98cf40fff15d470f61b527c76b4c76c1"
+    "9381b41d29eb919bf69c9e0bd939ae6c98cf40fff15d470f61b527c76b4c76c1",
+    "9c79092701ac9ba647e3d24fe4be8a577e141aa133cd783c9271c0bf315ff402",
+    "6652bbccf2086416b652861d64c6a87caaf6242dbf956c7b5dd5ea7045bebc73",
+    "1a854e9071bc1bc50af1c67f178c4885b4a3d5a2fde73100eb78aefbbd1694ee"
   ],
   "title_hashes": [
-    "281f3ece429dc2cc684fe4eaac0983d1c33f62856038ca9f6b8eb1ec43e65bb7",
-    "4e4b219ef3713f8e5a98349db636b49596de6bc2b3da44ecf18b437882985195",
     "2aa322fc763a292a5bac7f4436c06405e1fcc354ad668e8bf052c2fe3ae2ad39",
     "fd2820402252da57efcfd349b85abdb8e99bad09f3b5713957002d41e02a7413",
     "e71190df80666f801a8c702223051b7e0ade2b57331f6dcfd1f01ef6afcc38a9",
@@ -8002,16 +8000,11 @@
     "e977e1ba8126169c9d13d65d26999d653546bf1503519f0ff7db1cde8060dd79",
     "04641cbf74ed449c3aca84d5e800bbbad685c086a2a839fcf8c24a60827f8330",
     "467f66a05f2173cc73c7211abfbe7b0edf46dd558fb90c152810df5e15cd41b0",
-    "407257c49cf0efa56c8c8b608fbdc0ca679eeb47ce7bac4236514ec791c8e64a"
+    "407257c49cf0efa56c8c8b608fbdc0ca679eeb47ce7bac4236514ec791c8e64a",
+    "b78f8ec280540165d2e854035c2c34416e55d12c88aea9db5188a799a0e7aa4a",
+    "4f8ccd6d8995c6e3bb062f36be27f8021e30b8cb7ed8876dfc1fd5396699a825"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Wall Street Regulator Probing Nvidia’s Accounting, Reuters Says",
-      "title_ko": "월스트리트 규제 당국이 Nvidia의 회계를 조사하고 있다고 로이터가 밝혀",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/wall-street-regulator-probing-nvidia-s-accounting-reuters-says",
-      "ts": 1795204467
-    },
     {
       "source": "9to5Mac",
       "title_en": "Apple TV keeps adding fan-favorite movies, here’s what’s new and coming next",
@@ -11504,6 +11497,13 @@
       "title_ko": "원더, 그럽허브 매각 추진 보도",
       "url": "https://www.theinformation.com/briefings/wonder-reportedly-looks-sell-grubhub",
       "ts": 1795284111
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "트럼프 \"누구도 이란 핵무기 허용 못하게 영구적 합의할 것\"",
+      "title_ko": "트럼프 \"누구도 이란 핵무기 허용 못하게 영구적 합의할 것\"",
+      "url": "https://www.news1.kr/world/middleeast-africa/6361764",
+      "ts": 1795284623
     }
   ]
 }
