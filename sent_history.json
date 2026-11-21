@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795273354,
+  "updated_at": 1795273504,
   "id_hashes": [
-    "4775d7241fd99a38d8ea83880c1d933e4b8dd7227c36187e7663c84e44521185",
-    "ecee995a4bb8f33b5a946cfff0d960e10291d5b7a1c6f99c631ba8492a4b8a7a",
-    "62f99bf87c373e38b507d0047589ccda58c2985219e93bc5dcc59b97a81b6010",
-    "b78f75a2ef4b4bdf9d5ce9c60a9e205402f3fcbdb2f94251e0d505bf00815144",
-    "040645a2a441cde39c51101e7ca318daf4dd0ff4d78312a11e02c4cfa0fab598",
     "dd650d9dff840b3d44a8b33fc030b139da87a42c93a96d595edab394b8118a10",
     "06b842b39c4dcaf24a967ddb6f9e778e99ab292a5dfdd5ba359957682b2a01d0",
     "f16be5f93e06a9fdacc77008e6c9d8f91ba53d5cb3f5ea159f34c60dc0e5b529",
@@ -4000,14 +3995,14 @@
     "d718295748dcbd8a56fdc05ac6aa64dd4ab7e96d571d63a3e4fca1deeac8cfbb",
     "d88471c7ab06bd65dd0cec8d9de31a0c0894de230339e02878a99e84a6e027a7",
     "7dcef3e76e0738287fa052c78cc116f399f84860138415057a032909f31de4ec",
-    "999bb20c89fba015f98b411c582cc48c1060d057d3635fe3ebbfb5907343a968"
+    "999bb20c89fba015f98b411c582cc48c1060d057d3635fe3ebbfb5907343a968",
+    "dbf8097f9fc8eba424c4c6f71cdf18a473d45828ca37e7b70289faa93fda8d5b",
+    "1980718b376daefcb03786edaa51a8e44fd0df76dbc71298801a0e64576d68d2",
+    "ef77af7e2fb694e9ddd43535c8e3f1b042e88fd20f3608e9d1e4affcf87dae92",
+    "5e5b048f47d8ab587d7905ea5c6124152e8123c08e478b7f7cb9d968878a53b9",
+    "f81ad0a23d6a5a2e73b59cdb6fcd15fd1910f47f3cee28d0959eb053668eaa6a"
   ],
   "title_hashes": [
-    "7cedd67118ed7074842b15e8500003b35d5abb8beb1b7916e3f09a61fad333eb",
-    "2c21cfc7ed8d2512520a85bed646de6038c25b0a03942a02824aac241e0f168c",
-    "44ea912d88ff5e525fd425374188e746386440f8fe0201927ff5144d20c0d489",
-    "1b4971142513fa924a47d9092c26df7a26e88967f0e5cb51fc3b43c0c82af385",
-    "ce3d55f698bfa2dc1642ef17add28bffff754d9ce7068d419766e2682f95187f",
     "4a7ba3421b7cd152c92ac29c81c092875f936fe22174e7d549b1dd19677a2dc1",
     "50aab88470280f5fd0ad687be9dc5e32542171c6c454debd992b9da1b710a7c5",
     "3062fa1b7564c79ff7fa18e2dabe164c277c9a3c81696c507b84d46c66689986",
@@ -8002,16 +7997,14 @@
     "765966cbca9827fa31efa503d0c954ec8436aa23e2c0023bd57c9f16287c60e6",
     "d93d7a9945b87802cb8e981d4286403b39f96a2e9078f2127193e2e837e9fd5d",
     "5f9d3bb1f9fb497e1cd93b04a1c74703780d9911640b642565d8ab6c9569b596",
-    "31f45e03dd13903c397586c3940c915286e1f2eff334193f99917874f428712d"
+    "31f45e03dd13903c397586c3940c915286e1f2eff334193f99917874f428712d",
+    "e068e07c8b0b64cff37079b259a776fe9536550696741da3b16c678499c6c95d",
+    "ba7116d74d31a0b415a1bb427a8d4533030dee7b3cd0b8cb89062d34bc1bb8ef",
+    "5bc02b537de28f3dab8ca06961363ee3dffa1160b29236a5733de58f4a363473",
+    "6404cc4bfc3e94d0a144c96e5f9f89e6c9ed6cad56286e0099ba2c76fa0d6be3",
+    "ac516245f6bace97e3c646240f285d7b65ce1dfd0ecc462b25a6226a9a950fa6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Moog projects $5.0B FY 2027 sales with $13.30 EPS guidance, backed by $360M capex",
-      "title_ko": "무그(Moog), 2027회계연도 매출 50억 달러·EPS 13.30달러 가이던스 발표…3.6억 달러 설비투자 단행",
-      "url": "https://seekingalpha.com/news/4675276-moog-projects-5_0b-fy-2027-sales-with-13_30-eps-guidance-backed-by-360m-capex?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795201746
-    },
     {
       "source": "Benzinga",
       "title_en": "Jeanette Epps: SpaceX Dragon Could Fix Space Data Centers - SpaceX (NASDAQ:SPCX)",
@@ -11504,6 +11497,13 @@
       "title_ko": "카타르 대표단, 테헤란 방문해 회담 착수 (이란 당국자)",
       "url": "https://www.streetinsider.com/Reuters/Qatari+delegation+visits+Tehran+for+talks%2C+Iranian+official+says/27382929.html",
       "ts": 1795273353
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "SA Asks: Should Nvidia bring back Jensen Huang?",
+      "title_ko": "사우스아프리카(SA) \"엔비디아, 젠슨 황 복귀 필요할까\" 의문 제기",
+      "url": "https://seekingalpha.com/news/4675366-sa-asks-should-nvidia-bring-back-jensen-huang?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795273381
     }
   ]
 }
