@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795278653,
+  "updated_at": 1795278802,
   "id_hashes": [
-    "18bdf21ba44f0c10cb635b03a9cba5083808589ae269b561feb69c1f90528ce4",
-    "05f2bf8ef59e23a29d3e2f9aec6be5e265830fee8ec57ad6b2f4cc2646a8f372",
-    "e7614f648ef93c70dce6a523266adce0326d8dc6139b56515242bdc845cc33b3",
     "02e492ec0bd6e3ffdcfd864cc3edfa1185551e5f7d7a9ac3c003a626e5c06436",
     "0ae9fa157a575976f0cd429779167e751af8f0396e12beb9e307823c1dc9dfdb",
     "cdd63f899d28dc0255d0d24f2b0dc528777f5e9ca7f6482099c24cfd6521baa5",
@@ -4000,12 +3997,12 @@
     "6f9f5b3418a3ba9637c9b7b65ac66b805f0502652a2200dc32d4d6b84b1bec71",
     "1fa6ae1cbb0b48cc59bf12fa1881ad308aebfa8f7fc24cae2a09cb9fe15ce77e",
     "9235b2f226243e6bcacc6f3a1435910d632409ee12c0083424bc15c41727abad",
-    "8eb9048625dcfc4dcf2373560de27b01e2e4aa1ad4ed22b569b4e1bb8d621129"
+    "8eb9048625dcfc4dcf2373560de27b01e2e4aa1ad4ed22b569b4e1bb8d621129",
+    "6974957f959cedc39e698e38a49b989c3146ff940bd1bdd12c9b3f427c6cb090",
+    "6ad1cc9e2f5ede90c644bfbb100c890805706da1cdf7eb8a6f6ab4a66b1d339c",
+    "1031de752921b9197648c1f2c9469088c205635ecb3478b6943eeed42aec6030"
   ],
   "title_hashes": [
-    "5dd4724f63b20e34a5a66c39961b4e560f95a0484ede81d1ce22593fb719ef27",
-    "06a47ac11dee436109dbe7433caa7e3742512c6f4ce1e650379a5302bfdec5e0",
-    "3671ee478a6cca2ec836d49eea92f0be8857d7a9508fad63102845e30f61f560",
     "44d5f353810ef81b963b4671af168de6a18849c492b82b66f0b75e8ca8ebabc7",
     "7e1163e674a76d5f770ebe3ce8417e5e94137c0eb44aead2d7b5fb562f69a168",
     "45ed52b7901f86a03fcf8395cf67d3a069be06a82856ae20891cb079d35f85f0",
@@ -8002,16 +7999,12 @@
     "7eed25e012dc25f917890d6adc735e5459c57883826f786cf0a2a92dbaa54826",
     "9d346088a999d54041053e1789786f8ce36c7f6b0e37b351db1d4d823278b9ea",
     "1be5d1cf3f8724747535174c83cab6d3750ba683f577d00e5a1ffd04a70a9486",
-    "d18d8a8cf1504c0153c8df2b6903d7fd9bf869a56652563796f3fb81e773211c"
+    "d18d8a8cf1504c0153c8df2b6903d7fd9bf869a56652563796f3fb81e773211c",
+    "364835e4dfa3fbb7475f73597ea92e7e716ebfbef869c225e23377beb865ba53",
+    "801711d836c9a2935a93cc6fd54eb9b2380116ec4540e00e3fa18f176789d080",
+    "2ae1ad2eb29cb59e42be77c7bf397150f4f77fdb7cef5a6da94b12b4a883bbbf"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Nvidia Stock Valuation: Why Its P/E Is Below 2013 - NVIDIA (NASDAQ:NVDA)",
-      "title_ko": "Nvidia 주식 가치 평가: P/E가 2013년보다 낮은 이유 - NVIDIA (NASDAQ:NVDA)",
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/63501957/nvidia-stock-valuation-2013",
-      "ts": 1795203371
-    },
     {
       "source": "Barron's",
       "title_en": "What Target, Walmart Earnings Tell Us About Retail and Consumers",
@@ -11504,6 +11497,13 @@
       "title_ko": "재닛 옐런 미 재무장관, 엔비디아 대중국 칩 수출 추가 제한 가능성 일축",
       "url": "https://seekingalpha.com/news/4675394-bessent-says-no-new-rules-to-bar-nvidia-chip-sales-china?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795278174
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "Trump wants to ban US companies from building overseas data centers as bans slow development — also considers putting a ‘tremendous tax’ in lieu of prohibition",
+      "title_ko": "트럼프, 미 기업 해외 데이터센터 구축 금지 검토…대안으로 '고율 관세' 부과 시사",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/trump-wants-to-ban-us-companies-from-building-overseas-data-centers-as-bans-slow-development-also-considers-putting-a-tremendous-tax-in-lieu-of-prohibition",
+      "ts": 1795278801
     }
   ]
 }
