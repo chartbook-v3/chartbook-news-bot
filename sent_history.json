@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795264937,
+  "updated_at": 1795265085,
   "id_hashes": [
-    "e341ae9855ae4142b62abdb84e5f10603eac84d7abdf8832b0f52fc53d63ad66",
-    "6891757dc62db8312dccf880a1325c4a183f4daece73322b3c78a09071412548",
     "4e76c29290ce1022edb26b1772b5aad5def84b4c166a8b45fafa2fa8e7beb192",
     "66b034d07f0b63490aef6f223b65028820b5941c9e92974b584f09e4bc940a18",
     "68d1cfceeabf69df02c086ad75c8e6103d5a17c1edf9e0a0f6d69c1603a131d3",
@@ -4000,11 +3998,11 @@
     "b0b9aa5184b941392529eb0e04e975c0cca0ce5b0622f2a43aeb28287840bd29",
     "b3ec72c2a514896de594a34cc42f1dde32a25b1614e8cc6166c33e2ceed1bc3b",
     "c00af848a0c17bf5f3d3d625d53639f9c0ea6681b09de96e83f011c424a37709",
-    "c27c8e069e14470dcb52e13a449ede6a92375136ff28b485df3170bbc15277bc"
+    "c27c8e069e14470dcb52e13a449ede6a92375136ff28b485df3170bbc15277bc",
+    "1c8dd6ae669313551941a6821efa81e7b9e52992f5ceda2020d0d483706ed908",
+    "3b101c0f02bf727c6797e1d4952964a405451c7b948eee5ab3f876f9eb7d096f"
   ],
   "title_hashes": [
-    "6db659addce4b97c3a05153595f1c05a325b01e52c5416f43a6c2514b54cd1fd",
-    "a5d6c407cc1851c4abfe691c226229f01c2bfb50813a80ba3dbb4859cad8bf33",
     "a2ff2084dd99779190b6ac89adcff48cf7402881f779e8a82e925252d80a853e",
     "542dacaf5454feafcf8e232e46ea1afde498d035dc1ca6bb2a83c11a284e0848",
     "9dbe76d24d61c059809699bdec55fc4cbf1d5ced0e677c4f0abc0d8da603eced",
@@ -8002,16 +8000,11 @@
     "9f53c372ecb34415c634ba89c91d9d5a14b602fced2632b541fff9be84fe653a",
     "fe6b7f2e0715395da4801542e3c3b984cf9f79b21944549f0de75e1b53c0ba3a",
     "71c29ff4781cb6150bc7777b48f10d388d52067f1b91deca96c111255abf2dc3",
-    "cb9439aefaa6b0742041e4eda05dae1d4430f99cea13a94b8f0e1984697d2f6e"
+    "cb9439aefaa6b0742041e4eda05dae1d4430f99cea13a94b8f0e1984697d2f6e",
+    "10918678dec727c8c5e1ea85a84174503ccd1ac602781687cc49ec89afcf599b",
+    "2b0cbb1b9a6e0de968bbbc19e4bef0ea33d8c0e3921ca63417c8f988d1e653e7"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Reuters",
-      "title_en": "Anthropic retail traders face losses as shares dive 13% the day after debut",
-      "title_ko": "인류애 소매 거래자들은 데뷔 다음날 주가가 13% 급락하면서 손실을 입습니다",
-      "url": "https://www.reuters.com/business/finance/anthropic-retail-traders-face-losses-shares-dive-13-day-after-debut-2026-11-20/",
-      "ts": 1795200608
-    },
     {
       "source": "Bloomberg",
       "title_en": "Nvidia Employees Complained About Huang’s Behavior Years Ago",
@@ -11504,6 +11497,13 @@
       "title_ko": "대만, 일주일 새 17.5% 급락에…'전일 종가 미만 공매도' 금지",
       "url": "https://www.news1.kr/world/asia-australia/6361736",
       "ts": 1795264325
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "$TTWO | METACRITIC UNVEIL GTA VI USER SCORES WHICH DIVERGE SHARPLY FROM THE CRITICS",
+      "title_ko": "테이크투 인터랙티브, 메타크리틱 GTA 6 유저 평점 공개…비평가 점수와 큰 격차 발생",
+      "url": "https://t.me/marketfeed/1083201",
+      "ts": 1795265084
     }
   ]
 }
