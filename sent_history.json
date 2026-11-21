@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795219941,
+  "updated_at": 1795220103,
   "id_hashes": [
-    "64544e9fce440adff58b5fa0f9a00e4dbdbe324034fa31fa49052e1bcdf7d88b",
-    "85577797fffefafdf60128c023748b5b45da991cc89c555eceadec3a45ebd505",
-    "441915d7d65283da2ef6a394ca659646c4eb03d9709d3ba08036d02085f8f03a",
     "2d2141cf6483a8fe61906919e4796501133c4cb2cc98d09d4e25827f2e51be01",
     "0cfdb83b4443dcc1a1754b9dbbce532daf6ec98a6c349b23ad51672637be9f32",
     "f27f6a27cb39ff38a93266a2d5affeb7f2628989e24e2f9808e46675a3c44f6f",
@@ -4000,12 +3997,12 @@
     "6733d1530ec9308d4d198bf21afaa50bb24f133664586c79ac647f4251fcc134",
     "ec42906007ee9d5c9978a51ba016718a58cf15590b41598de47bb487e4e191a6",
     "1c98aa50f5b2649d5e18e205af20fc34e5be5b0387e1eae7f99fa51f3de1ecfe",
-    "c5a78f903092a0faf3304437186e688839beba919099930840ede0802e21660f"
+    "c5a78f903092a0faf3304437186e688839beba919099930840ede0802e21660f",
+    "6e0040c0654ec435172e1b1e27c5e763b01b9107fb01b1107bd4242f4b6f0f9f",
+    "1441e98198cfa0140dd32ef34b95124e48beaf5dc5dd49d610176bfde2dcfbda",
+    "e7a758135c393c51c9190a1a104d158d2b91286a8fdc63074dd7d7ff0849e7d4"
   ],
   "title_hashes": [
-    "f84ed0059789f525f4720f1fc107e39bacdd0dc5be0c17353fe6d18aec32d906",
-    "f7f2a7087c817887e91784c940ac3d38b0d692923cadb69155341670eba75daf",
-    "fbf97e1388144d490a95208dd27bbbb3d69dffb4e0925b350f5628ba087f785f",
     "e580be2eff9df28b91b9bf728be3128c93bf478ed00f8253ae1eb6bdd9a8113a",
     "82814055f22568f3f372914379f876f622833a8e25a48759030590085c39191d",
     "2402a4ab210cb398c0983991bc253539e4308009988507130babc2de64806a16",
@@ -8002,23 +7999,12 @@
     "8d408c23cee045214d7d2ec1c509c1b9294d1cc4e625bff116d47ee22ceaaeb1",
     "0879da14e208fe77b92eb0b48bf2a5fc5018dd74378a891b4904847a0929cfa1",
     "7f571bcafaea0e39e39291bfe68c3a70ba1ba4f7e6484bd00335f52e55e9bfbc",
-    "56aa08b785513cdf50a50ec262fc3ffd0c484935bec9b837afac82f5c86aa952"
+    "56aa08b785513cdf50a50ec262fc3ffd0c484935bec9b837afac82f5c86aa952",
+    "e23f631927544424e03308e5d10abd06f2136926db3710614592e3fd12db5c74",
+    "6ccdcba37a551d86a6cf6f1d8513d88aff96aa92db694e2ceacc7ef321dbb3ff",
+    "cb89d7587f46aeb23988057e4b816a25d23997340aca5e584c79d4a1e5f60202"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Denmark Says Russia Orchestrated Assassination Plot on Rapper",
-      "title_ko": "덴마크 당국 \"러시아, 래퍼 암살 음모 배후\" 밝혀",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/denmark-says-russia-orchestrated-assassination-plot-on-rapper",
-      "ts": 1795191053
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "TANKER STRUCK BY UNKNOWN PROJECTILE IN STRAIT OF HORMUZ, UKMTO SAYS",
-      "title_ko": "호르무즈 해협서 유조선 정체불명 발사체 피격, 영국 해군 교전중재센터(UKMTO) 밝혀",
-      "url": "https://t.me/firstsquaw/194630",
-      "ts": 1795191229
-    },
     {
       "source": "Bloomberg",
       "title_en": "KKR Is Said to Seal Pact to Purchase Portugal’s Logoplaste",
@@ -11504,6 +11490,20 @@
       "title_ko": "로크웰 오토메이션, 애질록스 인수 추진…피지컬 AI 강화",
       "url": "https://zdnet.co.kr/view/?no=20261121091049",
       "ts": 1795219940
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "美 증권위, 엔비디아 회계 정밀조사...수출통제·반독점에 설상가상",
+      "title_ko": "美 증권위, 엔비디아 회계 정밀조사...수출통제·반독점에 설상가상",
+      "url": "https://www.fnnews.com/news/202611210840440125",
+      "ts": 1795220099
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook",
+      "title_ko": "유가는 중동 공급 전망 강세로 3주 연속 하락 마감",
+      "url": "https://seekingalpha.com/news/4675383-oil-prices-wrap-up-third-straight-weekly-decline-on-strong-middle-east-supply-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795220102
     }
   ]
 }
