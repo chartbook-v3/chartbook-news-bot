@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795235915,
+  "updated_at": 1795236068,
   "id_hashes": [
-    "4c728f7b6f43662b64c8fc32c4bf7541cdcfaa5a97c2dc27d0fe8be0cd278975",
-    "8f70e975925d894c491baeb37e4daed74d037bf55645ea63c535549d8cffdea9",
-    "ac7fea050f4fab345bf6e5ae6a2cd67af2c677538fbf9d3c9269621cd91eeb64",
-    "5ea977aa1ccf9bba74db22d20f3272ea5d51f8a0ca73c4ccb4a5abd1d4a97004",
     "ac5afb13bb4968681e592bc6b12bcc1e18b3b4cf143c3bb50af0d31150e3cc06",
     "7e24f1c5793f747399e3544fb5429ea83a3f648ad8b873f45f67c95053f72f50",
     "a2fa0814851bbdf7d5c497e4d9908b94e5b91d4d5eb9e75a36463dad0121aaba",
@@ -4000,13 +3996,13 @@
     "0c78841d2382b9329c6607f1aa225d644749af02c7e8abd182f87bfef91f2210",
     "8cb25c7e507fcd66f8a8cf55c4f8f2453a14ae45c7ad0974f64852bcd643f590",
     "7e2f4ff684e46adbf328a11aad11f6d1879d1254c03d815946ab49ed51184de5",
-    "fb5da81c51449a139f44b251378e2e871c858e405d97fc15397294a3243bda32"
+    "fb5da81c51449a139f44b251378e2e871c858e405d97fc15397294a3243bda32",
+    "63a5944ef8b57a0923779a2fd1c3e86678ce0cffad5b2a60410989b4cf672bf7",
+    "87a491508f7054485721cad276b49f44625ff6aa87149706bda80ca83a26b659",
+    "bec4ada22a54e50b0cdf691227f2ae5fce6e6fce6fc8ed8eadce87b64f1dc38a",
+    "bd5ae2866453b3fdc9408d99f530b2bde6c4d078cbbd31e74d5d58144c3ce40e"
   ],
   "title_hashes": [
-    "0e78f65ecb2965a2f375ffa91e7ea5b184322b00e854059bf4be96513612e01e",
-    "1e39d882fb012158270088745cb722f9c3323ade2c16c08a6a70ddaadc4b5fa9",
-    "2114c330b7278a8103f007c518cf886599e724332538a98c414eef91cf05d990",
-    "911f8c92ad7d0817be7ccc30d7ab654c50d52a39c7e14044987db23fc411998e",
     "6406ece49e1dea03e63ac203a0273e288507f3ddf1e0d71e8b29e01508abd763",
     "e35a39fbd4b80c08f030e213eceb9e00f13fc6b7dfff34d55284f1756c982584",
     "e43ba88056a78463f081cfd2738e8443e1d97af4c96d29b12b5af3edca520e3c",
@@ -8002,16 +7998,13 @@
     "f6c1e0ea85f63932c3bedb4964ccb6b4e5d866ae0583865caef9763535619f80",
     "160fc488835516bc9c74b03dce406549fd46dfbc1e83d4a9b817d89b08b1f66b",
     "bc00089776e53b05e512922ad67a1358ab3f5cab153da22a80ecd38194d1d953",
-    "c8c6add37c8b13854b05f0c66cc026717bada2848a6576fc2eebe4f26086eeb9"
+    "c8c6add37c8b13854b05f0c66cc026717bada2848a6576fc2eebe4f26086eeb9",
+    "3b783f4ad8f965498b5fd25928ae1874fba4e98971688b58b76610ce9827b376",
+    "fd027fca13444dba6690306c71e5233db234bc5e3e6f3dc725923418224f096e",
+    "f8127b6b5e36b3d70be739d5f0b616786ca44fdd85fb6ee904a6e85e0c67f6d2",
+    "55906fd1b92bf567af935efed48b1bb440932249faa62d0d9443b4ef0dd095b7"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Ford Announces Mark Rushbrook's Appointment as Global Competition Chief at Ford Racing",
-      "title_ko": "포드, 포드 레이싱 글로벌 대회 책임자로 마크 러쉬브룩 임명 발표",
-      "url": "https://t.me/firstsquaw/194636",
-      "ts": 1795194313
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Equinor Cyberattack This Week Targeted Flaw in Microsoft Azure API Management, Norway Says",
@@ -11504,6 +11497,13 @@
       "title_ko": "Jensen Huang이 보고한 Nvidia의 굴욕 전술은 Chamath Palihapitiya로부터 칭찬을 받았습니다",
       "url": "https://www.benzinga.com/markets/tech/26/11/63514659/chamath-jensen-huang-nvidia",
       "ts": 1795235632
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "與 \"조희대 탄핵안 12·3 발의 컨센서스\"…野 \"정치적 목적\"",
+      "title_ko": "與 \"조희대 탄핵안 12·3 발의 컨센서스\"…野 \"정치적 목적\"",
+      "url": "https://www.news1.kr/politics/assembly/6361590",
+      "ts": 1795236067
     }
   ]
 }
