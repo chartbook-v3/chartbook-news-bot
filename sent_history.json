@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795256287,
+  "updated_at": 1795256434,
   "id_hashes": [
-    "c3ccb564bee5939c028c118298acac815b978487ff3386681e8031b1c9c62ffb",
-    "cb0ed5f1acf8713536fa658d8a134032a3469d279095ed833df5d86a3eebbc8d",
-    "120d891d54b2d9677ab981e838bf2a46760c776d96318b005325d0f1cdb994aa",
-    "ad71293aaca184682dd08351c6a5a2f56e7bb0beeb38f9ae98abddd140ae442e",
     "9d0c2f438098bd447a7950a77f135aa05fd72e018ec427314a921eebc78c330d",
     "faab06585faaaad159e947836fcefd6360f002cb72dea13d3d21c2f4695cc2bb",
     "97b3b378db5a44e840f8d6264e119ef9d92db488077a4de35fba7125ca0589a4",
@@ -4000,14 +3996,13 @@
     "c1322c402a7c4e4c2bbc10b5b75f222212853498039092d28f32f91ddc2f79e9",
     "387f917ef3e8b14342fce65cc958d0ad39eb36150cef0b993250c4cd87daa9d9",
     "361ea098bc3b8075e380a7a53cfadd792404ed3762eb5cd8db3fe8c1e7b5fd84",
-    "797b7054714420e2d57c2bdb1333277e8426dd42ed5ae295ceab646524f1205f"
+    "797b7054714420e2d57c2bdb1333277e8426dd42ed5ae295ceab646524f1205f",
+    "6c49c85b158f656ab334e51b9845d8553a57c793df3648dd42f7369f5d57b07b",
+    "af957c12b4d9d67742efadde2beb0aa8184147b46a81504c5ba4c8dc66e5ffb1",
+    "e8f28a28d6d3191d373c6607cdc3b95903662a6a988a6e54dbde18b10cf86fee",
+    "c05e4c64133c03ea9a9c87c43f0a0641f60801ab5b168a48a0d85eccd3b35a8e"
   ],
   "title_hashes": [
-    "39001c8f40bc735435fafce8abd5a0a20eb076adcdfa74385fc6d865b49b0e7e",
-    "6dcc0f6aaef6763a3f5ae06400e2d569275f5498d2a636b84b6631c155685761",
-    "a6db3829b0a202f87f38d273c07ce07e73dbdea21de87ff1698528a16f5c0024",
-    "9aa0e63c7a139dec4be9946721626acbede8de3da991be723a41d6081c794dbb",
-    "c6acf090712e7b317c997865c55397ca7a215e61c58aa982144727e933333258",
     "b82b69d16e6508756887fb6de3851261ed39bda3a040be929d4532b196e36600",
     "68dc659cd1eecaf8d2afeb84aa453d503f094d7ddd375940ba423e176c06d9a1",
     "98b847769e98546d8b5ff45c5c14686b413ece0de4f7f43f480b8fe88a811678",
@@ -8002,16 +7997,14 @@
     "23bfa44d50978e5da5574e3e40bbbcf35458ab822207d90b898904cd67fd596f",
     "68040dded4185b2834999800b2d5146f3da6332d454fe3a490ebe9ef3078b29d",
     "7f3ec4cefd2079ae88cd6e091149c97611e8cb5407b1d2d1cedf86535956c1bd",
-    "b14a76304d97f6f29f7845c314be8b9c1a9f79501722552e63ef296f22f7cdf3"
+    "b14a76304d97f6f29f7845c314be8b9c1a9f79501722552e63ef296f22f7cdf3",
+    "4c3c8647493e213c5ec8823b419e02df7c4ec2dc0b528a6854e45febfa2386d9",
+    "d6f244d1880768f49cc4840f23aab894acd280d2094fbcf173c8aa67b74fff02",
+    "70d3bf2acf31d6b93b9f55e40ccf90e6d725c0412bff3c3ff462b346475bc197",
+    "b083fbb27c5fbfda2bd52befd8de9203e313842b0bd3df255e6bc4f75b1cf041",
+    "ba8aa3adb564cc5c170c0f1223ef4ff7aab21979f70c599bc3353ffeb8e3ff77"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "TRUMP SAYS OF NVIDIA `I THEY WERE SMART' THEY WOULD TAKE HUANG BACK",
-      "title_ko": "트럼프는 엔비디아가 '나는 그들이 똑똑했다'고 말하며 황을 다시 데려올 것이라고 전해",
-      "url": "https://t.me/WalterBloomberg/38837",
-      "ts": 1795200374
-    },
     {
       "source": "WalterBloomberg",
       "title_en": "TRUMP ON OUTAGES: WHEN COMPANIES UPGRADE, BAD THINGS HAPPEN",
@@ -11504,6 +11497,13 @@
       "title_ko": "중장년 남성과 가죽 자켓: 젠슨 황의 인기를 뛰어넘는 유행 지속 전망",
       "url": "https://www.bloomberg.com/news/articles/2026-11-21/wherever-jensen-huang-goes-leather-jackets-will-stick-around",
       "ts": 1795256283
+    },
+    {
+      "source": "채널A",
+      "title_en": "北 송도원야영소 제재…“우크라 아동 세뇌”",
+      "title_ko": "北 송도원야영소 제재…“우크라 아동 세뇌”",
+      "url": "https://ichannela.com/news/detail/000000561068.do",
+      "ts": 1795256310
     }
   ]
 }
