@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795261294,
+  "updated_at": 1795261442,
   "id_hashes": [
-    "a4397bd2fdd98c1a934acbf625a6b8794fefe4578fdb652d520c43019565b0d8",
-    "4a3374bca9fa7854c4b5742bf9639cecf23ecfe2bdd690750413fe03e50aaf7e",
-    "c809302727c1c03b638f451030ae97782409455d63f821bd2f3dc745537055d3",
     "8634328a76ce2d38b8382fcea9fc763010fe81fde2717913bb887ee62704e6ee",
     "7fd33ce425ec5ab49d9b5b87d55187db03b3c6b4cc3e104c7f001dd7cb12197f",
     "b91594a3cd6157326c01b448637a481c5f74d72f472da5e63c4e684b624b7956",
@@ -4000,11 +3997,12 @@
     "260e4fc912f9731273c4d34765c0cf6b761d9f21f0f23fa887dd9d53a8fbba4b",
     "d508eb2240d279bb9f972da52cc1ccc495f8a742ba95997addcfa183470425b5",
     "1e08189110dbc886083d0733d768ab71bb4bedc8a3a97a5d334089618d86ac0b",
-    "3f6b6a3d4bc6318e91ef05edacd67bfb5b5332ffc88dddd64055c5f1f5f69cdd"
+    "3f6b6a3d4bc6318e91ef05edacd67bfb5b5332ffc88dddd64055c5f1f5f69cdd",
+    "37c987ee90b9d070fb5de4841e33fba968e25c260bfc537b6396d74af4537ea2",
+    "d8ad27cbc5ecc423321375088baf952acab188968ba45f23310f02196f44a625",
+    "c94c8bdef0fa63c9c399a496a888227667c981b9c7717a58746eabcc6df9d796"
   ],
   "title_hashes": [
-    "f80b22dfdd80f4d716f67f93ea62d995ee791bcee3f334f9058707566ded84d7",
-    "3017f300e9abe0511c21645ad1612be4d4f532f5c0270d7532df1cfa899d29f6",
     "22489366a1591b4bb43955d2d91b9a49c72d94e9d7a802132f58cbf6ca9a4940",
     "9aa002b7498cfb29c4eb7fcdf3e9aad784291570fed3ccea441561a55d5b70f0",
     "1aa97e999f64e97fb505225ee071078ece3b3fd3c12e8dbdfaf80f4a5d3865b2",
@@ -8002,16 +8000,11 @@
     "d27505ef35e3364546956fa1c518fd0be3e3201332eaccb18d73fbc65a879493",
     "492dcd976833fccc117afd2e6e95a7561781d8fa70871ef95cb3109bbfc7d2c5",
     "921c3d5d8a4945a120949704627c0b13a4ea863ffac6dc1e6dd8225193cf1018",
-    "2dc7b5768cef22a8dd2fafadaef3c5f3ebf49ebe32da55eec92844f6c66f7d3f"
+    "2dc7b5768cef22a8dd2fafadaef3c5f3ebf49ebe32da55eec92844f6c66f7d3f",
+    "084e25528014f72cf54b6db745de5d51342a2f40654492c8d840ac5bae703dca",
+    "7366d2bacfd48e91fc41efc5b398b231e93008d0994324ee2f3a1c316f4faebc"
   ],
   "recent_sent_articles": [
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Fed's Paulson: Investors appear to understand Fed communications",
-      "title_ko": "연방준비은행의 폴슨: 투자자들은 연방준비은행의 커뮤니케이션을 이해하는 것으로 보입니다",
-      "url": "https://t.me/breakingmarketnews/179532",
-      "ts": 1795200501
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Netherlands Judge Rules BYD’s Ti7 SUV Infringes on Defender’s Vehicle Design",
@@ -11504,6 +11497,13 @@
       "title_ko": "Netgear Black Friday 거래로 전체 홈 Wi-Fi 범위에서 최대 33% 비용을 절감할 수 있습니다. 게임 라우터, 메시 Wi-Fi 설정 또는 무선 확장기를 업그레이드하세요",
       "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/netgear-black-friday-deals-save-you-up-to-33-percent-on-full-home-wifi-coverage-upgrade-your-gaming-router-mesh-wifi-setup-or-wireless-extenders",
       "ts": 1795261146
+    },
+    {
+      "source": "FT",
+      "title_en": "EU's Costa Brings Back Digital Tax Plan in Push to Secure Agreement on Bloc's Budget",
+      "title_ko": "EU, 블록 예산 합의 위해 디지털세 도입 재추진",
+      "url": "https://t.me/firstsquaw/194819",
+      "ts": 1795261383
     }
   ]
 }
