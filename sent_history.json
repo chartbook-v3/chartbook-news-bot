@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795278020,
+  "updated_at": 1795278175,
   "id_hashes": [
-    "79010dc679d7731ca0743810a7218298b106d78234932d3d33314cef3a9efade",
-    "20761174ae92bb39d55cf8db518ae3a215906a225c3eb134d3b39a51d103b744",
-    "e57d6366d5af0aa474d2895f77bc5ee2eac2ad7318d00e635c86bfc4f93936c5",
-    "2c581341524cd8477640f496b318517015918ffe7452bd7857f9f79b08484a9f",
     "b9171b994da3bf3ff48a42d0c149dfc7884493b2bd251d0dd01c302281ad9c90",
     "18bdf21ba44f0c10cb635b03a9cba5083808589ae269b561feb69c1f90528ce4",
     "05f2bf8ef59e23a29d3e2f9aec6be5e265830fee8ec57ad6b2f4cc2646a8f372",
@@ -4000,13 +3996,13 @@
     "5935f240d8aec216edd915568c54af63e794f0c7003e1078e4d2e7a0354e4cc1",
     "42f9ca02ee0e0ce577c6b2ddf884e8c61071084e42663d3e507b4e5f25f7bcf6",
     "251a8d242f61aef2656f8c3e4aa9be2b9facdf993119cf004face267379ad9a8",
-    "ebb641fc82583274395862117ca0d99fa1459391dae461f18cd6948c3360b703"
+    "ebb641fc82583274395862117ca0d99fa1459391dae461f18cd6948c3360b703",
+    "104cd6ba01c16237f28b72fdf82529eecae6a776e8418dd6d09ab0bb5f11e710",
+    "6f9f5b3418a3ba9637c9b7b65ac66b805f0502652a2200dc32d4d6b84b1bec71",
+    "1fa6ae1cbb0b48cc59bf12fa1881ad308aebfa8f7fc24cae2a09cb9fe15ce77e",
+    "9235b2f226243e6bcacc6f3a1435910d632409ee12c0083424bc15c41727abad"
   ],
   "title_hashes": [
-    "57f280d1ab8ea9fbd0a0f18959d314e332dec132069d60d7700dbf4b2597da0b",
-    "39e95db176d054764e1a80bffba6d7ea5885a8cae776b5c2c3bb80dda90bd85f",
-    "6710f4b0391b8380bd4f067ff774d24e6d369060b62e6c0cd42f3b8248aebc99",
-    "78eb902562bac64679e7e277797adb08f3979d2a14ccd281c3573e05b671e06e",
     "3ef00d3a685317ea2fee7ddb682fe23ae8aced8ed1ef9087e540411117d61b86",
     "5dd4724f63b20e34a5a66c39961b4e560f95a0484ede81d1ce22593fb719ef27",
     "06a47ac11dee436109dbe7433caa7e3742512c6f4ce1e650379a5302bfdec5e0",
@@ -8002,23 +7998,13 @@
     "301e365a0ce6141c5d9f73bccd98235a618e81fb7517290f7d68b554b8079e25",
     "672516638f3a2a6a2fd4c2992a00da5dafbd5df189cf47d0183ebfaab26bdb27",
     "1fb84a595f03e929fcc19b8dc91ed8c1c1d1b6d708a99ce25b11e2d049516904",
-    "0563624233c6591e14e81cdd63289a1c347af43eb5eb709edfafe701d2032975"
+    "0563624233c6591e14e81cdd63289a1c347af43eb5eb709edfafe701d2032975",
+    "d75531d58477c9f4fc74de5607e280b526ba90c7d9b82ab6a9e69635ce1efd78",
+    "7eed25e012dc25f917890d6adc735e5459c57883826f786cf0a2a92dbaa54826",
+    "9d346088a999d54041053e1789786f8ce36c7f6b0e37b351db1d4d823278b9ea",
+    "1be5d1cf3f8724747535174c83cab6d3750ba683f577d00e5a1ffd04a70a9486"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "US Oil Prices Finish Higher, Adding 77 Cents to Settle at $83.98",
-      "title_ko": "미국 유가는 77센트를 추가해 $83.98에 상승",
-      "url": "https://t.me/firstsquaw/194712",
-      "ts": 1795203157
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "BITCOIN FALLS 5.62% TO $58,048.61",
-      "title_ko": "비트코인 5.62% 급락, 5만 8,048달러선 기록",
-      "url": "https://t.me/WalterBloomberg/38858",
-      "ts": 1795203308
-    },
     {
       "source": "Benzinga",
       "title_en": "Nvidia Stock Valuation: Why Its P/E Is Below 2013 - NVIDIA (NASDAQ:NVDA)",
@@ -11504,6 +11490,20 @@
       "title_ko": "오라클, 오픈AI 계약 이행 위한 자금 조달 완료",
       "url": "https://www.theinformation.com/briefings/oracle-says-completed-funding-fulfil-openai-deal",
       "ts": 1795277578
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "EU, 트럼프 힘 빠지자 디지털세 시동…사실상 美 빅테크 겨냥",
+      "title_ko": "EU, 트럼프 힘 빠지자 디지털세 시동…사실상 美 빅테크 겨냥",
+      "url": "https://www.news1.kr/world/europe/6361762",
+      "ts": 1795278171
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Treasury secretary rules out further restrictions on Nvidia chip sales to China",
+      "title_ko": "재닛 옐런 미 재무장관, 엔비디아 대중국 칩 수출 추가 제한 가능성 일축",
+      "url": "https://seekingalpha.com/news/4675394-bessent-says-no-new-rules-to-bar-nvidia-chip-sales-china?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795278174
     }
   ]
 }
