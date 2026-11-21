@@ -1,7 +1,6 @@
 {
-  "updated_at": 1795235148,
+  "updated_at": 1795235304,
   "id_hashes": [
-    "1963d12d33826f3bfc220f447334e259547c74cf1523809a63c854cf147ae65e",
     "4452a5cdfc5b952dac0d615b3de4be6bd3ccade50beaafe96dbad186c21ebe72",
     "b5a4afa1c6437d4d3cd2c7ce09a5afbd8294b51ad854a7816248ed265077b1cd",
     "b4c21115c2e7c57e516130bc5b5fccf8b55318ef6c5c806723ddd1eca4369cb8",
@@ -4000,10 +3999,10 @@
     "3c5b01fbcaaeea662a3ef2655baccc85400aeef732b965a24e36c3123c0a8922",
     "1481a382b1eba5a9c96b32e57345e60833e764be5781f73888213276496a1037",
     "118edf2fda31ebd8acf00f5a5bb395b1d31193edfe67409ce2c31946af405922",
-    "59e7ca144b3706f4c9ce9cf1125e49eb7b107da7e346c5fb241626b97908d675"
+    "59e7ca144b3706f4c9ce9cf1125e49eb7b107da7e346c5fb241626b97908d675",
+    "8b467bd5dbbc3aa9511df82a7a97d705a311cbeda40fb2d5d424250f6aa32946"
   ],
   "title_hashes": [
-    "d79fafa3cb96664c6c57e147b090a5ab483b91ffda60484cc8c2e6148684dfaa",
     "783394f0639d9ba286b8e5af0ff854257559c2c5df70490e11e7dfa2e385e434",
     "0a63cbfddba0b6d4c9a3cb57cf6ab69a796c446c08bea897e8a2aa8af308c3a1",
     "911e356a3f51bb7d0333016ab3ca6e107a1480a302dfd5464bc57716a72114b7",
@@ -8002,16 +8001,10 @@
     "236db2ee8982ddc119a725dc0320afb9f3115ae65e238cb8699b6db1455ae4c4",
     "de259065ea811d55395df4ea1c4817f7a913f838250a3cef84d03690ddbb1593",
     "fb2ec3dcd1809ec6f3ba9aa6dcef548b1162ca1ae7d713b309bf0b86ad37e031",
-    "62cbed2d2a9750cc8d5045baf5da69fc5a9406974294c55b54b1775015203917"
+    "62cbed2d2a9750cc8d5045baf5da69fc5a9406974294c55b54b1775015203917",
+    "19afc7bd43bf9767cd8401ca179fc6ac628f1e18b06ae740628481e2a6498b52"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "GUNDLACH SAYS NASDAQ HAS UNDERPERFORMED US TREASURY BILLS YTD",
-      "title_ko": "GUNDLACH는 나스닥이 YTD 미국 국채 대비 저조한 성과를 냈다고 말합니다",
-      "url": "https://t.me/WalterBloomberg/38794",
-      "ts": 1795194179
-    },
     {
       "source": "Benzinga",
       "title_en": "Cathie Wood Has a Warning for Reddit and Shopify - Shopify (NASDAQ:SHOP), Reddit (NYSE:RDDT)",
@@ -11504,6 +11497,13 @@
       "title_ko": "가상자산 시장 급락세 지속",
       "url": "https://t.me/marketfeed/1083091",
       "ts": 1795234553
+    },
+    {
+      "source": "이코노미트리뷴",
+      "title_en": "KAI 김종출 호(號), 항공·우주·AI·첨단제조 글로벌 ‘빅4' 노린다",
+      "title_ko": "KAI 김종출 호(號), 항공·우주·AI·첨단제조 글로벌 ‘빅4' 노린다",
+      "url": "https://www.economytribune.co.kr/news/articleView.html?idxno=3904498",
+      "ts": 1795235177
     }
   ]
 }
