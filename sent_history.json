@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795293111,
+  "updated_at": 1795293265,
   "id_hashes": [
-    "894f18386599b3917a85806d5f08a597618db03534380183a68eaa5ba56a9ec6",
-    "336d9d7e6c922bd4f497e0f40e342cfee81f0a8b11bc7bcb227fbef1b5f21d43",
     "5e9ee75eefef186e765dbb2fe9ea10aa8efa6d1d7918ffe9d830e4a3d194a36d",
     "da8d86fafaf603249505da8cbcb9319fd68deb89b3fd5b482e7690b7371a1ac5",
     "836e3ffa87a1b86e57a1a45fd0a54b50194bcdb6587fde8f920d59083dda94f3",
@@ -4000,11 +3998,11 @@
     "6dc73382fe0b9cd87bc528dc4726df9da644a918ae9ccb925b211db4e0a2a44d",
     "826916f9bbe3c0547190acb101a5f2f89a48e08eb7ecb7ae6f9dc3f6f0e65f84",
     "5f53c8e4097d78e98297f150915b7ff7cf10f02fde51d75b096f4bae094cb9fb",
-    "42a82e9149beb3c93c57b201da421c7c9f554ea325681e92ffa59de983e190eb"
+    "42a82e9149beb3c93c57b201da421c7c9f554ea325681e92ffa59de983e190eb",
+    "2dd633967e2177a4dfc1299cd16343ac6d01bce935ce452c081ca25e677e9a45",
+    "490ed4cb1c0dd55810bee6da6c6d3768b662f97dce6d8eee739e31e7aa501e83"
   ],
   "title_hashes": [
-    "ac95b8f1d931f1b3e5f108df5ec6ce18b50c24b7fd54d7ee5898edfe8dc4f24c",
-    "a54584b06202d3fe393c5e1ddfde6bf868a60d5c3a018ce5a85baff910b9f536",
     "ed3397755d6bfacf3fefe382f6474f1b7829ef7ed60fd3a32b0e204306a8f4d9",
     "f502a027226ef55f0714263c6e49ad866fe89b792df64d71d79d2041c927afdf",
     "f5ade7c172af1123c67a0203c901f3efbe8db75dd0a4c8425a1dcda68bc68a35",
@@ -8002,16 +8000,11 @@
     "e9016f40ef0528264b3be48ea87ce4fe218a4d8bffb992fc93fc84b9e5bf9157",
     "e26763c8ce5c66f9574692829898b74ee8e500cc8ab073531eaf870fa2d75478",
     "4c8faec7a9b75357b8152384c189be3e8093d6f4097f7f108d344fdc068cfb0e",
-    "ecf8ff64de821c6af10f56adaae0d6676a71c62b705cfc524a6fe6a0fc982f67"
+    "ecf8ff64de821c6af10f56adaae0d6676a71c62b705cfc524a6fe6a0fc982f67",
+    "fc0341decbd3500066600d161aa13fb4f7ae205612c31191c346fa6e56415765",
+    "2562ac1b64140cd89ad363e20f935629929631b1bae7db8473fde5e403fc2c37"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Nasdaq sinks more than -4.5%, is down for 2026, fueled by AI trade selloff",
-      "title_ko": "나스닥, AI주 투매에 -4.5% 급락…올해 상승분 반납하며 하락 전환",
-      "url": "https://seekingalpha.com/news/4675314-nasdaq-sinks-more-than-minus-4_5-percent-is-down-for-2026-fueled-by-ai-trade-selloff?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795205627
-    },
     {
       "source": "MarketFeed",
       "title_en": "FINANCIALJUICE 2.0 IS OPEN FOR BETA TESTING 😍😍😍",
@@ -11504,6 +11497,13 @@
       "title_ko": "일론 머스크, 테슬라 아르헨티나 출시 행사서 어색한 모습 노출",
       "url": "https://www.theverge.com/tech/1039559/elon-musk-got-really-awkward-at-teslas-argentina-launch",
       "ts": 1795293110
+    },
+    {
+      "source": "9to5Mac",
+      "title_en": "Indie App Spotlight: ‘Salon’ is an Apple TV app that turns your TV into a picture frame",
+      "title_ko": "애플TV 앱 'Salon', TV를 액자로 바꿔주는 기능 출시",
+      "url": "https://9to5mac.com/2026/11/21/indie-app-spotlight-salon-is-an-apple-tv-app-that-turns-your-tv-into-a-picture-frame/?extended-comments=1",
+      "ts": 1795293264
     }
   ]
 }
