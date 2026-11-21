@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795243043,
+  "updated_at": 1795243190,
   "id_hashes": [
-    "44b6e53c6f21d1ea6c1d14b8d095d64e95ee91fda38f95c16c68aac6ec476c93",
-    "440dd94de68ec9d6bcbeb09da8362de41b1ff3b4c8ea33b96474df2c76c64f60",
-    "0bcbab691acda766a8578b5f59c8b53c68f1124fa44bc54a0124338cd03b99f8",
-    "1429e1bff62baacc9c316a2916b5425291e85b0b504b566ab53fe040a17b86b9",
-    "7f7fb5949b26e618abd30b54871a03d7e182c0256d35171280f37735add023cf",
-    "4a14a86909c3d68f30f6c93ade6d905e9ee24554d20a8f38a04c4d5eb60a4830",
-    "5b9463e5ba56aa66b310f0dd43b8ab4daf47d0e3728cca224c9ec6eafa9f60ed",
-    "61d91424b66f560ab4d9bfea6622e27e7e42680ab9c9398056eedfa9c9fc28f5",
     "2fb23f42fee5e77b196c31911c4f15ba673ae12c7b2cd359725f77e319750d83",
     "add9a36ba811f3eac0f2b89482c77398589a9a9e3f1974859810b7bd549e54c0",
     "5371e33b6434b2d3835956ad654474fa16bfd4c397a57be0c3ca02cf5239bcca",
@@ -4000,13 +3992,17 @@
     "60ab3a17ac59630f6f66dcfc04eff626397b90bfb9661709e3d9fef6999854f8",
     "f2c55615fad1ad5da8820f184f7d75cc43772a33d086cd2cdee94ce2bd88efd7",
     "d1c536b0bdb1af1984593ade61293b03e8f5ad98bbd4810d32519c453337fc9b",
-    "8f1d3b7117b7f48cd56af684a46b51b47f435158bead8b20f5e1a62ccea6a13b"
+    "8f1d3b7117b7f48cd56af684a46b51b47f435158bead8b20f5e1a62ccea6a13b",
+    "6de16fcd6111556413897698980613a8db160a8ea66f190c6cfb38c5e6ef5567",
+    "cd1be8729b81ff8f22bf65589d3c4b62885a4caf8fb188a434fc4018402b3946",
+    "4c501c27441b0f4bd24528abcf182b6bcc5f49623c9982f8eed81145d1f94812",
+    "4073d219baf1f873439b0e1cdd3c747aa5a72be1976d7b77932a99fca453c66a",
+    "9ec7e501a0d884e2596037feb9d1561a270b91026590221e646dfcee09d5d2a4",
+    "aef4e080921def51ed506e8adfb3a23a7e62f33672cb3524117d2bc348da69a7",
+    "4f8af9c21f11483c3287e02bd33d551343177bfa9a5fd9ed47382e0085a467b8",
+    "e170260c84ec4e073980990479703a790cc01516ed631b7adca71632b973b2c9"
   ],
   "title_hashes": [
-    "e4412c34bff7ec8edb88f531d2c7c357745ad61bf6d6931b279a27baab7ecc60",
-    "c9c78c1ef699a5f5873919e7a2ea3a76577187e21d35c14d74cd355afe3c2b36",
-    "ff105bbaaf372df261994853787ee7e8efa010d394d31a950064f87a2d43647a",
-    "a521018f47d4a928627036a1fcfc8118e0db0fdef7180536c2ddea537885c143",
     "d798d4b5903f7810e1f4c0b5ac9f671b71efe6f710b5d82eb354ffd67b991c8e",
     "7438aac7f0e3aaa674f6bc4d6982ef51cb0c50998dfd3a20621ac6f28d1d1581",
     "dfae4d14af326104d597475a61659d8c020ce2fa75dc834508f3c57c75e99f43",
@@ -8002,23 +7998,13 @@
     "b478913f0b61f95b57b85fc5cbb9ce6d80ccd681be61110b1135de5e871c16e2",
     "defac59caadc7437f4bd52fa496e88637a9bdd552513ca9d870cd44907081b68",
     "7913a938e7477efbcb4f8eed5f9e5d36f91a2599ec77822e1d7e5a6733005fd3",
-    "25a4b8ca2778274f213406cfde389ef3e23e304f6b4fe5f071eb5d8db3d83ffc"
+    "25a4b8ca2778274f213406cfde389ef3e23e304f6b4fe5f071eb5d8db3d83ffc",
+    "1989a2bcf6e04f25306981c3e4732c47769ef4590a779871287bf87336e1b7a7",
+    "9dc6a126e747ede047ea6ac85e0e1608b9d39f1699df6aae7ccb3285960de6a9",
+    "0ef2bc8b6e1cfdcea20253af1f5403133ae4643807b5b2d806e774bce261b21b",
+    "7efb29df2fdce26c6c7f7d66eec041176162e999955cb234ffd3e9300d023a76"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Barron's",
-      "title_en": "Anthropic Researcher Says Claude Solved Math's Greatest Riddle",
-      "title_ko": "인류학자는 클로드가 수학의 가장 큰 수수께끼를 풀었다고 말합니다",
-      "url": "https://www.barrons.com/news/anthropic-researcher-says-claude-solved-math-s-greatest-riddle-be910241?refsec=topics_afp-news",
-      "ts": 1795195994
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "TRUMP: INTEREST RATES TOO HIGH BECAUSE WE HAVE POLITICAL FED",
-      "title_ko": "트럼프: 정치적 연준이 있기 때문에 금리가 너무 높다",
-      "url": "https://t.me/WalterBloomberg/38806",
-      "ts": 1795195996
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Trump Says the Other Side Is Interested in a Deal",
@@ -11504,6 +11490,20 @@
       "title_ko": "호주 정부는 가스 예약 제안에 대한 협상이 계속되고 있으며 법안이 의회를 통과하기를 희망한다고 밝혀",
       "url": "https://t.me/firstsquaw/194783",
       "ts": 1795243042
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Tehran is weighing a tanker shipment that would test the US naval blockade. Washington is targeting payments for oil Iran has already sold. Nearly nine months into the war, Yemen’s Houthis are still firing missiles toward Riyadh.",
+      "title_ko": "테헤란은 미국 해군 봉쇄를 테스트할 유조선 선적의 무게를 측정하고 있습니다. 워싱턴은 이란이 이미 판매한 석유에 대한 지불을 목표로 삼고 있습니다. 전쟁이 시작된 지 거의 9개월이 지났지만 예멘 후티 반군은 여전히 ​​리야드를 향해 미사일을 발사하고 있어",
+      "url": "https://t.me/firstsquaw/194784",
+      "ts": 1795243126
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Europe's cyber weak spot is the everyday businesses nobody thought to protect",
+      "title_ko": "유럽의 사이버 약점은 아무도 보호할 생각이 없는 일상적인 비즈니스입니다",
+      "url": "https://t.me/firstsquaw/194785",
+      "ts": 1795243128
     }
   ]
 }
