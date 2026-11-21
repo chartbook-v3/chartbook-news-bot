@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795269119,
+  "updated_at": 1795269266,
   "id_hashes": [
-    "71547791e7aba461bbc4b95a65256ab4939a8ff892fe539fe4e1acdd5bafc82c",
-    "0c05ad48ce42a50cac91b6b7b2010a06d752a71da4427d6185752f51d13d4cd2",
     "c0c74b7910af4d9eb04ec36facf7562e515995eefeeeaf3b8000020267d05dd3",
     "523cdd1ac420a2e21a7fedf89c896cdc2b3945455e4d520fbfc4abec63ac7d1c",
     "3c9d4de532c8decb7d38492d12b83488d047a7dc79554100a5cdd92d11fbf3d5",
@@ -4000,10 +3998,11 @@
     "ca3b5e2ffbf9ff142f2e7ecc15c6829539d2cff7b0787840e707c4323055a245",
     "5f54f8bdd3531993b020391e56565b00a459979c9dd31caaa8392f2536a33846",
     "5ea77848240a37e43ead5ced37552286188dfe55ea56130c77c53e87eb0ce2a3",
-    "c73864a3bc48007b074dd7c485f8dcee3349d0cf90f161592c68a9d8a7fad80b"
+    "c73864a3bc48007b074dd7c485f8dcee3349d0cf90f161592c68a9d8a7fad80b",
+    "acdc1f59b3b974aebbad46900bbf641240130638bafcd4a1420f77e01884fc76",
+    "22cfb2bcae96e39cf27ffea3f34c7fb79071cfdaa11fd3e0d0fd732e0a3a2a05"
   ],
   "title_hashes": [
-    "a8b172be4756defd3ef09d5c93efba8268fa04a1146e93788cb3fada30c14417",
     "d12bc46bdd6370ecfada5d0c64d02d19ed4e0098e33d47c088d16d78a8cd2ebd",
     "23c9f359a4a1f63af31cc5bdb737b2146187d6f13c60fc475d9d3725f7f7fe84",
     "ce6752a96b3b239031d56f09ca21102b8b5fe425e788ae95e366c46ec805b74a",
@@ -8002,16 +8001,10 @@
     "b5d375ed05bae6888a0cce333098ea53782af232c94ab1af9e660dce74850ffe",
     "135aa65417215f80eddcadd1860a7110a95a422ef580f7d9ca68e68340e6b45b",
     "c42ab9fb011b582a4c032dceb90ffd558e7633976d73ae699142378717f90b3d",
-    "8f823845f38bef6ade39e48a8638c14e2eb5a7b0af5a16547858ca7a3d767b93"
+    "8f823845f38bef6ade39e48a8638c14e2eb5a7b0af5a16547858ca7a3d767b93",
+    "6e66529574e6b78a2e5775ae070426126e50ff96efc5d1913640a4893af586e1"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Trump Says Jensen Huang Should Return as Nvidia CEO After ‘Big Apology’",
-      "title_ko": "트럼프, 젠슨 황이 '큰 사과' 후 엔비디아 CEO로 복귀해야 한다고 말했다",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/trump-says-huang-should-return-as-nvidia-ceo-after-big-apology",
-      "ts": 1795200736
-    },
     {
       "source": "Bloomberg",
       "title_en": "Anthropic Falls After Blockbuster Debut as Tech Sells Off",
@@ -11504,6 +11497,13 @@
       "title_ko": "EU-인도네시아, 10년 협상 끝에 무역 협정 체결",
       "url": "https://www.reuters.com/markets/commodities/eu-indonesia-sign-trade-deal-after-10-years-negotiations-2026-11-21/",
       "ts": 1795269118
+    },
+    {
+      "source": "WSJ",
+      "title_en": "US Ports Avoid Potential Strike After Tentative Deal Is Reached",
+      "title_ko": "미 항만 노조-사측 잠정 합의 도출, 파업 위기 모면",
+      "url": "https://t.me/firstsquaw/194838",
+      "ts": 1795269208
     }
   ]
 }
