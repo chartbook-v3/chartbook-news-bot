@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795253284,
+  "updated_at": 1795253434,
   "id_hashes": [
-    "79932cdde21971c4bfe8633ed4df9c05a9754183ee8d90465aeb75398c213ea9",
-    "0357606e1da6e339aa555a42484d279b3debc63bc8af4b6cfb431118c8d20313",
-    "5aa01827671adc847405a53aea17747d3482d58f10d487cd7953769d185a51b2",
     "70e6272976add30b7e5e8ab6a60da6b9e20c86ecfc1d81301b951007d9d7f4be",
     "6e3c241bdad0c19afff060a79b9a7a5b664a6c9b215a08ec0e671bebb733b449",
     "e35d9affbe8d1102f24ec17a8f3d6e24138c8afd50ee7d3027908aa8c676fc45",
@@ -4000,12 +3997,12 @@
     "04f5bf20b10cacf3298b3716dcde93e43757416d4566e4243c7d334b337bb461",
     "82c0fe54331848efa6b6670f64c05498a615673132e1dc9a1e5e7102bac5afb0",
     "ab5c8cec183da16fd9f31cf9642f23512c9e6d75f8544d1f1a2d915a34b39c78",
-    "c902dbc30159d8059bd09e4331de2594a6dfb3ffb4ac294bbcf64ba532be530d"
+    "c902dbc30159d8059bd09e4331de2594a6dfb3ffb4ac294bbcf64ba532be530d",
+    "83561edd977e7d1d6dc326f92cc4c52d91fc875e1234b0bdf24c5bc3ef1d47d8",
+    "775fdffdf61bce4ba64d7636e95bd4423ae08d263e160abb5fdd3c6119653e2d",
+    "e468fe76f14bba7c4d9b0f4d29a52235ca8b8ea2eb029a14da49c152a41adacb"
   ],
   "title_hashes": [
-    "71ad4d06fd1bbb802e7f534f5b0bc00fb46f5f2dc9eef446df99e0962785aa86",
-    "c3a9c88d883df5946271d0b856a15554695aad9532e5f0961731e52e5851a825",
-    "28ef0701623b72ea8cb125173dac8c6dc49512acff79320753f7b3fc48ee5cf3",
     "6484e82a7fb78e570714faff3891c4c44bf6efff2bfbeb198d35115ce4547994",
     "5cab64937a6bfa1c3c595f216dcf37325ef72b62779f05009885e047fec82458",
     "e1bf77197bacf39f61b1b2438a5c29e4fb8c27629f87ee774c887330b6aabc5b",
@@ -8002,16 +7999,12 @@
     "1be3b7431fef14c8fb84b6aa78cd28c5dd5854400f66c808fc8fa59af78e474b",
     "78e8be5d73ece50de6521466377103124780d739688525e2e0772e96fefec811",
     "f101f8d47812679a13647bd4778e8ec069d45a7db08638d86e574e67d29806e2",
-    "5b76e58fdb2f8071a3c733b768b01d8e1a6f30a38f04cfa083ff49103646fadd"
+    "5b76e58fdb2f8071a3c733b768b01d8e1a6f30a38f04cfa083ff49103646fadd",
+    "797380851186e2f5ca1818e5bc48c03c05540fa4d814da5b7f7756bc23f513d8",
+    "f6dbb8d58f2236725e43f50deaca55d313b97656e7aa6c09ace8057c19e184a3",
+    "99b468975b5beea662078547b3b4ff99c769a381a1f47426890129fad97ee81d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "美国总统特朗普：感谢丹麦和吕特。",
-      "title_ko": "트럼프 전 대통령 \"덴마크와 뤼터 총리에 감사\"",
-      "url": "https://wallstreetcn.com/livenews/3203510",
-      "ts": 1795196593
-    },
     {
       "source": "MarketFeed",
       "title_en": "JUST IN: 🇺🇸🇨🇳 PRESIDENT TRUMP ANNOUNCES AGREEMENT WITH CHINA TO ESTABLISH JOINT RULES FOR ARTIFICIAL INTELLIGENCE.",
@@ -11504,6 +11497,13 @@
       "title_ko": "주말 시장 업데이트: #나스닥 25266 +0.14%",
       "url": "https://t.me/marketfeed/1083154",
       "ts": 1795253227
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "CRYPTO UPDATE: #BITCOIN 57873.00 -1.81%",
+      "title_ko": "[가상자산 속보] 비트코인 57,873.00달러 -1.81% 하락",
+      "url": "https://t.me/marketfeed/1083155",
+      "ts": 1795253376
     }
   ]
 }
