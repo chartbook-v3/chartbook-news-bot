@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795290428,
+  "updated_at": 1795290579,
   "id_hashes": [
-    "1f3537b3f45552b2ee7f9cf36ed8e54a0353ff96b8725e79ea815d6324847cca",
-    "f915dfaf4afc8317454a33f57205f4a72ff5cf2c3849aeaf2cb568a69a43e45a",
-    "9d1cc4b54f29da6734e8a2e938dd3f740eacb81a6d7d04d2151bf9f011808e82",
-    "1965f571cdcf5deb6849ce76c57a9de23d7580fa066e44fec15a61bcf8e3cbcb",
-    "9a3966a896ded9c3791dcc8dae13a3137b7bea49ed15599a4302fbaf23c10c80",
     "816fc38a107ffb276c61b4e7e34a35e3a9bc9cef1f0ebd9d4e32216865a6b063",
     "7f8399bf2c647778738e776917f369c9e4a83cf9785bf63ac9135020d8314eae",
     "842e2858a2dcb6b198217d8552fd30a165610f9417148cf28c65da16ac9e548d",
@@ -4000,12 +3995,14 @@
     "0ceb3a66a2ba398b102464aafc3994448c06ac707511e27f4967b2440f9575bb",
     "a90da8590feb055801e26870d44f3ddf6b3820e8f3421bfc0e47dad190b532b2",
     "6752c3f31331adc860bc744d33a38639fb211ee73dbd54bd5e494f58c3b21e8c",
-    "b810f97b80c789437c52b6f2cf6399c73eacce9bb31ad7d82d6bf5b064060a31"
+    "b810f97b80c789437c52b6f2cf6399c73eacce9bb31ad7d82d6bf5b064060a31",
+    "148f71668fd0c7f9b6846679b26f32405cbe1c035cba24b329b9cca1ea53160d",
+    "53f54c67f633931d5fba108b75a3f3348d7c42279cd047342fe3737375dd52de",
+    "f588eabeea437bbf2c786b6c82612dbafe43faab111ab2ab2b13a1b33e2f8b2a",
+    "c518354ebcb9f1fa1420718d75627427cbc76554390a376fb8d860104e700eea",
+    "943c039a8bb1069b5957ea2f8e4ba584afc4969db453a337a054bbf93d8a7fe3"
   ],
   "title_hashes": [
-    "2039c2621a136e45fa8f592c828211efaa23487ad5c6dfd163cedbfd3a24e89a",
-    "237bddf58150f30a98813a02471dee5647767ccd79274729abc9bc7dd5549644",
-    "d35005ed777fba79ceb76014e8f91bf0b0d42afa25c8975faba84a0cbc06ecd3",
     "c5e117bec79731f2d069986603e53d72392a27451d71f031e90946393a12b4f7",
     "e26a9dfbb94e084c10b718ce58f533947000fef9a8fe282ad12724374bce7dcf",
     "500d3a34b8fe0f656d20a645db446ea5455eebcc657f8b28674e5298ecf93eb2",
@@ -8002,16 +7999,12 @@
     "726f318fc5e70da1544ad36552e546463c476b508de05eb3da7495794ba22780",
     "16de4f71be6cdb2a953fdff7dc599044458f1d2e20a12c3b3ebafc07622b4611",
     "90df7ec1b17cbcb75cb6e1c61905be696969085b01fb6e6bf225883bb9f1c05a",
-    "0487c3718117f68d2b4fa32798d45275425049d227404ec169e663b25427cba8"
+    "0487c3718117f68d2b4fa32798d45275425049d227404ec169e663b25427cba8",
+    "20482fcb941c5ae21899cc5db925ded1577a3383cdd31234baa48f8eb4cb80e6",
+    "a9565c029536cca7436861104ba837b0856bf29d8f9ecca20dd4b2799f7e277b",
+    "c8fb9ae77bdc1fb38e69fdcc69244fac682f110615586259184cac23f2e9b730"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Nikkei Asia",
-      "title_en": "Nvidia server suppliers halt Southeast Asia shipments over US curbs",
-      "title_ko": "Nvidia 서버 공급업체, 미국 연석으로 인해 동남아시아 배송 중단",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-server-suppliers-halt-southeast-asia-shipments-over-us-curbs",
-      "ts": 1795205236
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Arista Networks sinks 12% amid tech and AI selloff",
@@ -11504,6 +11497,13 @@
       "title_ko": "아이폰18 프로·듀오 미출시 모델 루머, 2027년 신규 기능 전망",
       "url": "https://9to5mac.com/2026/11/21/heres-what-next-years-iphone-lineup-will-look-like/?extended-comments=1",
       "ts": 1795289982
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Crude Oil Choppy as Strait of Hormuz Flows Fall and Traders Price In Renewed US-Iran Strikes",
+      "title_ko": "호르무즈 해협 물동량 감소 및 미-이란 충돌 재개 우려에 국제유가 변동성 확대",
+      "url": "https://www.benzinga.com/markets/commodities/26/11/63516226/crude-oil-choppy-as-strait-of-hormuz-flows-fall-and-traders-price-in-renewed-us-iran-strikes",
+      "ts": 1795290578
     }
   ]
 }
