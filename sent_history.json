@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795246202,
+  "updated_at": 1795246351,
   "id_hashes": [
-    "1c9db30e7f67f8bf5609df00314ba520f7309c394def74032bfb24cd7525750f",
-    "fe31f1dd941ab50fa4fbbb2c2c17517bc199efbdebf7b313ec00eb40dd401d20",
-    "91966138fb919c8de02568ec472538f3e5870fe916b9550518204f6384523f2a",
-    "b923efecafd3af0069fcc7dadf1337f46bf373f9b781cc9855c9a3f4a5bd8bb0",
     "f0d09340efbb5b78e7d13c80f28b73432ba956c5d03b5354e3c89b7b3c5d25d3",
     "5d67ff65232ad714544ab4363ee389901c755d68237910ecab329344dd29afe1",
     "5461b1f5789793d5b64abd97a5793892af0f05d173daf21b773c8698e7e5c1da",
@@ -4000,13 +3996,13 @@
     "1c2c2c008e358eaa1e6449e0198bcdae418d1d648f66edfef6136cdeff7b541d",
     "997ef1aa3b76aa5a77be61aeda9da9744b9305477ccda7526b1cfd8392f3c23d",
     "61ea76d7723b05fac57e65ba012f31daa40b67c344e5d341c851b1c2cc7f7dea",
-    "052cf03cb39e1d22e8d54e1fab13bf5f09b83466df83e582b08f98e7cc1a2ace"
+    "052cf03cb39e1d22e8d54e1fab13bf5f09b83466df83e582b08f98e7cc1a2ace",
+    "c5e63b436ea6251b24c899146ad68c2be70e3403c1a5bcf7aea3d013a0bc0371",
+    "c1f22fe08ab14b95262ae79181f9a76ef2482ebee2da8be14030e7eb07fdef1a",
+    "ab71e9cbb27c4a8dcb7bfaec42eab5d8836c4695b63d25cbb4943599d6f32dad",
+    "170912084011a99d929fccfaa2bb09e5577b8d58b7c8b959cc242de477abcf2f"
   ],
   "title_hashes": [
-    "86e3da4bce4e0c514349dd0360180c01be90afd25a4ef94ecda8c516e38cf8bc",
-    "b57200497474c412d7c41336e12dbe151b6595677a20e2a7b8c3742e47b16949",
-    "3c8ec6df437dd59a42500b34b80f14ea80387cc8c32cd6e9bd2298a5159cd1bd",
-    "c4e69075e34c4b6a987bccbd7d0826ef3070f43dbe19ef85b3848dd1821daac2",
     "92fb34d59829282001cfb3e5527976ac427d35ccde2f5234a4b98ceb9739dcc7",
     "837773a08ffcbe806369444ee6ddbd554eae084e73f0bbab874f6bdc38a99243",
     "4257d2be5bde11d60cd3652c46c8db2414c953e30424422201bd5b6618f1cc16",
@@ -8002,16 +7998,13 @@
     "393fe1e3f9f7804cbb32692233540801e4f743a7da9ca633bade46918fdb763c",
     "bcd3432a83a8a7f77441b24c4e9bc9f482c1c81b0e8bac697907a6acbcc380a7",
     "dc276e9c9dbd9da147a8aa78349db0dddfbfd4e3ef3c6aea8949942d6ed5f0e0",
-    "66ca2a7cd00c551c7b68ca392be1e01224f240ded73e7fa21dc715d282552a41"
+    "66ca2a7cd00c551c7b68ca392be1e01224f240ded73e7fa21dc715d282552a41",
+    "46124c23c51e9025d3bb3876701fe14ca0f4e950fb5b45199a13b8f37a44e0a6",
+    "ccad8437c1fbca8330f4639a2a2d22175c30f50d2ab3c1283812ce9b823a3cee",
+    "0b816e2b485081bd586ed58cad894968ad3f86291699143b17df63f360a22a9a",
+    "915036fe76607e2ad5b05f6c47b596c7bb2b081c8746f4eb2ae6180915098439"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "TRUMP: WE SHOULD HAVE LOWEST INTEREST RATE IN WORLD",
-      "title_ko": "트럼프: 우리는 세계에서 가장 낮은 금리를 가져야 한다",
-      "url": "https://t.me/WalterBloomberg/38807",
-      "ts": 1795196054
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Trump Calls for US Interest Rates to Be the Lowest Globally",
@@ -11504,6 +11497,13 @@
       "title_ko": "틸리스 상원의원, 1월 6일 의회 난입 사태 발언 문제 삼아 트럼프 사이버보안 지명자 인준 제동 - 팔란티어 테크놀로지스(PLTR)",
       "url": "https://www.benzinga.com/news/politics/26/11/63514880/thom-tillis-blocks-trump-cisa-nominee-michael-losapio",
       "ts": 1795245139
+    },
+    {
+      "source": "X ｜ PAUL GRAHAM (Y COMBINATOR)",
+      "title_en": "I've never known the tech world to be more unanimous about anything than they are about Jensen Huang. Everyone in tech thinks the board made a huge mistake. Except the board.",
+      "title_ko": "기술 업계 전반이 젠슨 황에 대해 이례적인 만장일치 의견을 보이는 가운데, 이사회만이 유일하게 그를 배제한 결정을 내리며 업계 내 거센 비판에 직면. 업계 관계자들은 이사회의 이번 결정을 중대한 실수로 규정하며 강하게 반발",
+      "url": "https://x.com/paulg/status/2124041291046785484",
+      "ts": 1795246225
     }
   ]
 }
