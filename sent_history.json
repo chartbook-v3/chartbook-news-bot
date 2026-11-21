@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795241840,
+  "updated_at": 1795241993,
   "id_hashes": [
-    "df597ed67f4f63d3be5a599bfc0828deb906e7230443407d73d5325f86bddce6",
-    "5bde18f7d8b14ed1566217ff9b79d5067b614367f9d78ad5a24312d4807ccc13",
-    "8784728d60d0737fc46ad557dadb3e1af2c55f969305fe03249d789e64575889",
     "87f0ad80cffc710dea2487679f6031ad57eacfdd4ef832f5d0aa312131600465",
     "6505052c6f4f139ce42cd11442e897123211a183229804f30c37b19b5e9517c3",
     "595d24d1699a32769fa5f6167d4de0948303c73f67dd36146b043fa760920a48",
@@ -4000,11 +3997,12 @@
     "5b644d1b63274586efc7186142d1a0a11fa9840e14848d443b8cad0688c715bb",
     "4b5e80973e6b4d1b355479283bbd1feb40091ae1bbbce4e3e1eb31a5858b07d9",
     "191c006dc5db0c2248e2caae7f3b3cda78633ea0d761634e9c5f43b375673419",
-    "5ec7b9d5fedb9e4a2c79164d09a460f8f1b4a37686413e931b13d9cefbfb5586"
+    "5ec7b9d5fedb9e4a2c79164d09a460f8f1b4a37686413e931b13d9cefbfb5586",
+    "330c2e593fe92a3c4c1b92fc70b1747f322bc883efe1581dba829ed5cf69bc2b",
+    "a872ce544398a0909c9fea80975a1ce5396436bab844d60eed94bfc2252159c3",
+    "3b99538c51d8a55fb1a8527aa12f3ec82949b9b0e5c3ac5ae43c45f02034e106"
   ],
   "title_hashes": [
-    "9c05806fe21537d4052367c124dc489401c867811f45cef4db678bd3a6caac63",
-    "009639dcdd8629150ec265658e7d6b9831667b99834dbfd68cf459f22636d300",
     "80f6cd74cfccfa57b363e9e83998fcefd2cad0dbaa36287b2f6035c1bf2a555b",
     "cb6292bebb787a896e6b085fd503d4a8ce01bbe5baf183123e707ac8ae48448a",
     "6b381a3ae1ebc8d66f3d1d751c714c4714c868cd979eb20ec389da1b4c32722c",
@@ -8002,16 +8000,11 @@
     "fcd2e30423cf9a8ce6f5b3866f1c2427e5f2b6ca2efb4b8401898855e3b0c794",
     "b856ac6fff3556ad2d2c9d62bbeff74ef5f6390d18caa80b9ed30067e9c9126a",
     "fbd125f8bebbd6309a45f0e25dc8167767c0e436bb3a13b94a46c6f94476b78e",
-    "d98cb786e28cea699c5d0655ca90ee2ed7d0b421492886faa07b745993b0464a"
+    "d98cb786e28cea699c5d0655ca90ee2ed7d0b421492886faa07b745993b0464a",
+    "d83deed0df3c3cc5debab8f1ad9ed04d5e845d04fb7c8ba9a0cfd771f436b3de",
+    "23e7940a5e9cf14043f099a00b0de8b2e4ab9526919ea1dd805f47a146aefcd2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "美国总统特朗普：即将达成大约10份贸易协议。",
-      "title_ko": "트럼프 미국 대통령: 약 10개의 무역협정이 곧 타결될 예정입니다",
-      "url": "https://wallstreetcn.com/livenews/3203501",
-      "ts": 1795195731
-    },
     {
       "source": "WalterBloomberg",
       "title_en": "TRUMP SAYS CRUDE OIL PRICES DOWN 20% SINCE START OF NOVEMBER, NEAR $80 A BARREL",
@@ -11504,6 +11497,13 @@
       "title_ko": "EU, 예산 증대를 위해 거대 기술에 대한 세금 검토",
       "url": "https://www.barrons.com/news/eu-mulls-tax-on-big-tech-to-boost-budget-878c400a",
       "ts": 1795241540
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Burnham’s Big Worry Isn’t Brexit or Welfare, It’s Trump and Iran",
+      "title_ko": "앤디 버넘 맨체스터 시장은 영국의 브렉시트나 복지 문제보다 도널드 트럼프의 재집권 가능성과 이란발 지정학적 리스크를 경제의 더 큰 위협 요인으로 지목했습니다. 그는 특히 트럼프의 관세 정책이 글로벌 무역에 미칠 파급력과 중동 정세 불안에 따른 에너지 가격 변동성을 핵심 우려 사항으로 강조",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/burnham-s-big-worry-isn-t-brexit-or-welfare-it-s-trump-and-iran",
+      "ts": 1795241991
     }
   ]
 }
