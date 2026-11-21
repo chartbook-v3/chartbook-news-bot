@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795250064,
+  "updated_at": 1795250211,
   "id_hashes": [
-    "36268dc9fecc10e197aaad96ea0571dc62572ac41324e2ec2c0f5e4de93b263b",
-    "57a5476e304bffb4e62c3ed49f221ecf392ad9e386fc5cdce56eed2f48e6af35",
-    "6b1fddaf71499c0943f3ac1f7188beea84db42119cac081f5be3abd0ed0cd382",
     "c25c53d1c7ca531e713748a0ce891b86c75fa56e167b88a3b9aaabe861bca3d0",
     "442889491700694de52805720369dbcad23e86f5b8dfa6c8226efd0b3ebd55b3",
     "0804de31b38734cb5fb35f1e514ac5ef2c482391231b4287b96a9dc0c3355053",
@@ -4000,12 +3997,12 @@
     "591439e2cb49c839e82b9f865b92efb3bf316e505269930680953cc2b573028b",
     "9b6501dee9b0c9a13632cba748cbe729280fabdf3d685e1cbe4954ccf51854e4",
     "f8377e1c43d1056b1d14ac535955f94c8369c3280a6e89d094a7f6522160611f",
-    "f64334ee34b84ff333bce722eacb4b9b6967ec39096cefa11b09559c1a71429b"
+    "f64334ee34b84ff333bce722eacb4b9b6967ec39096cefa11b09559c1a71429b",
+    "c757e8dda3f362ae0e4c09d004b3ddaad5be7485c3272714ba02b8c68daf904e",
+    "9e61b0ee9f4bc5c72920c2515b3da1ebc7801c145a3802ad0d141c0ddd132cce",
+    "60f1e7dad091308d6029f4bb07f4e5e9cda5853434540434fd07af74fe029ed6"
   ],
   "title_hashes": [
-    "85f29989d97a1367cc981e80607df8c486c163b57d220acfd2804c2b8f51a7f6",
-    "4ccb9064eb2d07675c31e52c1799fe1292c9c959841dabd0da0f5dddd3971be4",
-    "6456c08365c14c2c8351d7289f04125f58fa26e314d6caa9f4f0352e7c3a39ce",
     "7d26cb04396b3a0f68e82463369291a2fafdd316107b8272d133bfd872517c6e",
     "1e417fa6c223be12955971be9c1c190dbd8def442c83da7f4db30709ccec44bb",
     "4f6d1aba0a8aa40843268f4bdbbacfe246f62ce95f701ecb57d16acadf3bf0b6",
@@ -8002,16 +7999,12 @@
     "c50ca8adb4617a25bb403e5f62a9f13baaa2452c9ef780196102909acfba282b",
     "a49d8babbce1f88edac9c9ecc30f335fedd3b3e9f7bff9977f60e9a73fcebabc",
     "659ff15e3fc17112f851d2a46c372a6bd69fbdc9984119280a78af8eb6670904",
-    "8a9876a8d548fbf609cbd880b004b7051cb5924584a425a1a37add4f24f6e8a1"
+    "8a9876a8d548fbf609cbd880b004b7051cb5924584a425a1a37add4f24f6e8a1",
+    "ff16cf57e1acbeaaeb801075e8b9a9b099105262c9fd65a1c5dc3dc4f929e034",
+    "d350de2f8e5e66ab6f4b5b58dee4b3376d319835bbfa74d01fc75a0b1d7c012d",
+    "9e43d5dbe292a5d5899bdbb73d8f64e563321004d3967d01af3c36e535c53954"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "TRUMP: COMPANIES MUST BUILD DATA CENTRES WITHIN THE US, NOT OVERSEAS",
-      "title_ko": "트럼프: 기업은 해외가 아닌 미국 내에 데이터 센터를 구축해야 한다",
-      "url": "https://t.me/marketfeed/1082804",
-      "ts": 1795196387
-    },
     {
       "source": "MarketFeed",
       "title_en": "TRUMP: IF US COMPANIES DO, WILL PUT TREMENDOUS TAX ON THEM",
@@ -11504,6 +11497,13 @@
       "title_ko": "메타 인도 사무소, 계정 삭제 조치에 반발한 시위대 난입 및 항의 시위 발생",
       "url": "https://www.cnbc.com/2026/11/21/metas-india-offices-hit-by-opposition-protests-over-account-removals.html",
       "ts": 1795249474
+    },
+    {
+      "source": "한국경제",
+      "title_en": "'최악 폭락' 엔비디아 3800조 증발…\"지금 저점\" vs \"더 하락\" [분석+]",
+      "title_ko": "'최악 폭락' 엔비디아 3800조 증발…\"지금 저점\" vs \"더 하락\" [분석+]",
+      "url": "https://www.hankyung.com/article/2026112114747",
+      "ts": 1795250083
     }
   ]
 }
