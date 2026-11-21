@@ -1,7 +1,6 @@
 {
-  "updated_at": 1795292961,
+  "updated_at": 1795293111,
   "id_hashes": [
-    "d8976c3003afdd5a1a4f84be2564225842ca797daa311dddc12652b1305245e7",
     "894f18386599b3917a85806d5f08a597618db03534380183a68eaa5ba56a9ec6",
     "336d9d7e6c922bd4f497e0f40e342cfee81f0a8b11bc7bcb227fbef1b5f21d43",
     "5e9ee75eefef186e765dbb2fe9ea10aa8efa6d1d7918ffe9d830e4a3d194a36d",
@@ -4000,10 +3999,10 @@
     "0954998e5b0c383a427cdc83098000e8d6febcf366a950e61e5a0cc581d18959",
     "6dc73382fe0b9cd87bc528dc4726df9da644a918ae9ccb925b211db4e0a2a44d",
     "826916f9bbe3c0547190acb101a5f2f89a48e08eb7ecb7ae6f9dc3f6f0e65f84",
-    "5f53c8e4097d78e98297f150915b7ff7cf10f02fde51d75b096f4bae094cb9fb"
+    "5f53c8e4097d78e98297f150915b7ff7cf10f02fde51d75b096f4bae094cb9fb",
+    "42a82e9149beb3c93c57b201da421c7c9f554ea325681e92ffa59de983e190eb"
   ],
   "title_hashes": [
-    "6108ddc0b9e06a443d65cea0c5c0143bacdbde814870cb29539751a2d987d277",
     "ac95b8f1d931f1b3e5f108df5ec6ce18b50c24b7fd54d7ee5898edfe8dc4f24c",
     "a54584b06202d3fe393c5e1ddfde6bf868a60d5c3a018ce5a85baff910b9f536",
     "ed3397755d6bfacf3fefe382f6474f1b7829ef7ed60fd3a32b0e204306a8f4d9",
@@ -8002,16 +8001,10 @@
     "4ffcb58b8514c722c3bf198ba07105ffc4a4587da6b6c8cbdd74092293c0fd7b",
     "e9016f40ef0528264b3be48ea87ce4fe218a4d8bffb992fc93fc84b9e5bf9157",
     "e26763c8ce5c66f9574692829898b74ee8e500cc8ab073531eaf870fa2d75478",
-    "4c8faec7a9b75357b8152384c189be3e8093d6f4097f7f108d344fdc068cfb0e"
+    "4c8faec7a9b75357b8152384c189be3e8093d6f4097f7f108d344fdc068cfb0e",
+    "ecf8ff64de821c6af10f56adaae0d6676a71c62b705cfc524a6fe6a0fc982f67"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "Anthropic IPO was said to draw about $115B-$120B of retail demand. $ANT",
-      "title_ko": "Anthropic IPO는 약 1,150억-1,200억 달러의 소매 수요를 창출한 것으로 알려졌습니다. $ANT",
-      "url": "https://www.financialjuice.com/News/9862386/Anthropic-IPO-was-said-to-draw-about-115B-120B-of-retail-demand-ANT.aspx?xy=rss",
-      "ts": 1795205533
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Nasdaq sinks more than -4.5%, is down for 2026, fueled by AI trade selloff",
@@ -11504,6 +11497,13 @@
       "title_ko": "아마존 블랙프라이데이 할인, 퀄컴 스냅드래곤 X 탑재 HP 옴니북 X 399달러에 판매",
       "url": "https://wccftech.com/hp-omnibook-3-14-inch-2k-oled-snapdragon-x-laptop-black-friday-amazon/",
       "ts": 1795292960
+    },
+    {
+      "source": "The Verge",
+      "title_en": "Elon Musk got really awkward at Tesla’s Argentina launch.",
+      "title_ko": "일론 머스크, 테슬라 아르헨티나 출시 행사서 어색한 모습 노출",
+      "url": "https://www.theverge.com/tech/1039559/elon-musk-got-really-awkward-at-teslas-argentina-launch",
+      "ts": 1795293110
     }
   ]
 }
