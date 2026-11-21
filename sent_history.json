@@ -1,24 +1,6 @@
 {
-  "updated_at": 1795300688,
+  "updated_at": 1795300846,
   "id_hashes": [
-    "7dfae8760a8ce2f45d664f18a0498d7c61e9fe56ce673ab4b119fdd53bd034a7",
-    "e41335115648b754ae29a9e179738153e3f7729fb3e93dbee7b44759275a2a65",
-    "0eb627e04d8ce8a0ce4b934b598e03187b8d020a956b8f176341be6961e95a53",
-    "c779d31513e38a429ba486545940b2ff456e8095a01c41f7057202742e4b3172",
-    "62df89e93595cd9727a8ceb7dbed3135e24542877a8a59ba74bc3c5061a7f485",
-    "40aefbd13cb851c45975a037135f790d27abc0cf632700f3d7ffb3cc70a2d750",
-    "eec11cbb824e2da7d9aa6a1ddb08ea4343b842cb97a4d9497c1a087f3b440c93",
-    "b2203655016e314ea48aef0a7da42f16932555f913840bd327bb8723b2d98fe4",
-    "af5c2537275bb78bda72f9ae118845ef3ba5d875c046f2b7b9a8dd4043205370",
-    "ab1b265db46e065b24c4aec494028a60961488c5891fcb98d4e082ee79b744a2",
-    "4d1ecf643750c91fc8e116248e4b50f21db54d0ad9130eb99eb7d3a70dd3c1c3",
-    "5fd9cfe03d40049cc6d82594a05bdfb5654acf782a94d2bf469063d7575f3ef1",
-    "ee030a0817fb9c285f1a5e36a10eea5ded3ce7bd27198aec81589a24c105cc7c",
-    "ed3499e6325e86205acbf9d25af79cf64fe27a4c3a59a66958806679d2152cf6",
-    "406168310d817ee8e212106a63f43362949d223581dcb1b454c101d2e2b640d7",
-    "cbd81e7f75a8a116f1a8e419d776d6a1cbaf937aefe38e5ac064e546ceb01663",
-    "37ac3dcd4fe14fec6a53c464fd452bf059d076ec7a713fd56aa0df216968ebce",
-    "4d791c370f8f76bb7538e5694df9049ce4b82668e30bdb3cf1b0fd472f77c6fc",
     "38b0f8cdb090439b98875d936531f4155a8aa7d3cc245de17c823022a67d2140",
     "62dab6e9a8851a9e5e416763ae3010bac8ff65baa0a9311de7f5f76921e18e5e",
     "52ac9cedd5e97b9730ac5961665709b1d0ead6c99a64196198a68cbbe1863410",
@@ -4000,22 +3982,27 @@
     "30469e74109c88aac967e80b5850214425cf129616cc327430ce515468e7f9e5",
     "b769498a2702387a5ed888b11ec7a8eed6abb16899f73a20a1fbe602d3fc43a2",
     "08e7045e9c616f8287e4103018e63c62aa334d6ea19f0b005eabee8e1dd396eb",
-    "12ca2ddd0cd1ab4606a7572e0ce9f330042e66b3053e5757f8b067b3258fc9ad"
+    "12ca2ddd0cd1ab4606a7572e0ce9f330042e66b3053e5757f8b067b3258fc9ad",
+    "0c17f2dba8e54b039f195cb4bdcbcde3b01fca50ddc5307b67eec98538e2fb8e",
+    "0d55b7071d94d20d2cf15fa04a2d7fbe2990b88dfc5dccdfa226c92da8926573",
+    "ac1c8d8521a4e21cf38cb26ef41b6d07cf578ee27956b33ac38bd2ac8c4dc244",
+    "02f6fb47474a71cca490e59d7d3c9782f863e601bc4996fdc860f75bcf6162f2",
+    "cb25eeb97aaa83b917844fd55679573e42af425a3b161b09eb58b80deac08660",
+    "d115d752876f58b962fa81b6a18d297ed9c7c929884d4869a4d0c2400e9e23a8",
+    "7ceb34eb6b5973484bf4105b000b1daeb281c65629f3577acb71e29cf41f3059",
+    "a63b8260321fb36507a18fa16fc44d97c11544bfc28373d06d633cb8839c7432",
+    "2672edbe9159fe4113c9fe531faee76835826752c92959eb6b28fabce8970eaa",
+    "2809b3a3e6335ec005f338b4dc88391fdfe0f61095a054b7558b5d75c4595644",
+    "453892e7de0254fb7b1d572f0b0a0b2f1dc2b96a3774becf396c2e7a3c87fd80",
+    "aaead1dff714aa1030bf81818e55c8b89d82e7f41715cbf8d43fdb0fc80da006",
+    "418ddab6bfbe11f043f23bd403378ec15fd92a4bdeea0b134d7f05f89a693e3f",
+    "e837f05d6a4766da5a687c227052f44d581e92becf7c3e29d6c8ed81073f4740",
+    "fedd8c745b43e7606bbe94c3ccb953e7dbd53c0a32665dbfa07b167f157b7e8e",
+    "934b390ae63e300612ab7a01aa5cab115edf26dc6e5f3ee4b0f05772cc25a323",
+    "8620133b4555b9e3caa37e11381e7cac09d55a46093874d1f4174dd3be8af6fd",
+    "c13f4a27706df3145ba851350ff5e7d1eaf4c3f110fb2b432dd4ec19e4359040"
   ],
   "title_hashes": [
-    "e7e3484bb18ce9810e9a4834d128920922c5870ec90d6eef37f9313832f1259f",
-    "8cea9f39a7c79ff554a9c9be6eb7744c1bd9e895302f9617066b1288c59012f1",
-    "090e25d47ac0e634de65d72c464d0f2c7cbc49f9eeb6623a1db0259fc1be8d89",
-    "79d3df40e3ed338bd6079e36984bdd9fcd456d7fd6746a22d55bbcd041448da8",
-    "a34fa45206bbca5f4a1fbfb284e44c9cb78d5abf969c702e9dcbc079ca77c8a6",
-    "023fcf72c4a26b83a62dc2c90c4796e76b224b5ec98dbaebd3e856ff3182f882",
-    "cec55e04d4ffd8c9a29a01161e43349f5afd7815287624f281558d71359b296b",
-    "a895e140e85478746a9ee8355e0a8864102eb9d460bc967c631107dbff2e119b",
-    "b11795a69948a82e95664b10b639d7a66b492d09d712ba22bbfb5523ed2b20cd",
-    "0ef0deed91e47742165fa8fcdce3c6cc45091e5c65dbd6f1262a5f5c737cd751",
-    "77f57ccc7464360ee3345fc91f04542f43fabd85c8a20101aaeb11a6bc8d45d8",
-    "dca34f8afdb2a5c0bed08133de7358fa06b25c7b42bf7f9c9cede931cb23f9c4",
-    "41f86cbcb807ed686c84e4a7fd74f697b9aa7bee3fb5b4ea62490e77d9e79b7c",
     "bad9159cd5ea4b60c42754ad2c3f06303791b388b2beee167940c895a37804f9",
     "3f3b96f28957deab0112f016c3dd2eed4defd85bcac2e33f624dc1ebd3f76283",
     "e6d3f6bcfbed32514e4888e5d409bed4ec0f6b73032b124d85ebca6818c8fedc",
@@ -8002,30 +7989,22 @@
     "d2ac48b057eb4ad6267160ea87e2f0337f3a8cbafc5362e0d0f92dbae5e828c9",
     "83e7b457cabbf61660235c932d9ef25e6f9d74624bfae33e1aab6a424a30370b",
     "1302d9469e583a62eeea65f17a77d93d1a85eed061389bc9f455c36117debc30",
-    "6efcc4da4b425caa909e09e5e453bba7a2478472de00d84fe6b6eba12e6eea6a"
+    "6efcc4da4b425caa909e09e5e453bba7a2478472de00d84fe6b6eba12e6eea6a",
+    "56378567605171f8380ddbd4501dfff86496633b85ae8647749ba0a258d9c990",
+    "6f2ea534b1d60b0fde36d9b5f56cce1e5354bd1f05cb591e08216154784a8e89",
+    "3827577d4a693048dd8ffeb49e933dd7cbb2ba15874508a71199fb35ac4281de",
+    "d8693c9d84dbb78a0fc95cbb5c2d1daf1f42c35d1d0789daef873243234bb183",
+    "a7c4a6a61cb6d9e6ce063add433214dc22f33029d3259db03c9fdedf6bb9950d",
+    "6eeacd5295a0be0e805f1b68fed844e5db5e9b6e150f94e510052a71a65ee5d8",
+    "a0d707f73962ed2d34430de540b44b02f892dc87bb3011c59c73c0a7bd3a817b",
+    "d82e1b86d51ccb4df66493549773ac18633abb78a0d8a4366f61cf159aafb52c",
+    "69c310e9672b95425a16a102cfa9552f92433f46486e0e7d77691eb51ae9dd19",
+    "89f7b055d3e5e8c5877b809b71bd1c0d240161a87c90be5119bca1987aeb5497",
+    "045d752cb8db437722e648e09807d530698079f3547c693b89063ea2666f54d1",
+    "390480de29bbe938d7735dde99a35413e806056bab11b7c46129a47cdcee6cca",
+    "d7b4e86f0aaf4a87756f2ef78046a957292a6755a46bca00dae4e21c957b1347"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "纳斯达克金龙中国指数初步收跌3.4%，本周累计下跌大约9%。\n\n热门中概股里，阿特斯太阳能初步收跌25%，日月光半导体跌14.1%，小鹏跌14%，万国数据跌9.8%，理想跌7.7%，网易跌5%，小米跌4.7%，腾讯跌3....",
-      "title_ko": "나스닥 골든드래곤차이나지수는 당초 3.4% 하락세를 기록했으며 이번 주에는 약 9% 하락했다. 중국 인기 컨셉주 중 캐나디안 솔라(Canadian Solar)는 25% 하락, ASE 반도체는 14.1% 하락, Xpeng은 14% 하락, GDS는 9.8% 하락, 아이디얼(Ideal)은 7.7% 하락, 넷이즈(NetEase)는 5% 하락, 샤오미(Xiaomi)는 4.7% 하락, 텐센트(Tencent)는 3% 하락했다",
-      "url": "https://wallstreetcn.com/livenews/3203577",
-      "ts": 1795208477
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "NASDAQ UNOFFICIALLY CLOSES DOWN 1,259.03 POINTS, OR 5.27 PERCENT, AT 22,620.17",
-      "title_ko": "나스닥은 비공식적으로 1,259.03포인트, 즉 5.27% 하락한 22,620.17에 마감",
-      "url": "https://t.me/WalterBloomberg/38862",
-      "ts": 1795208561
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "NVIDIA SINKS 23% IN BIGGEST WEEKLY DECLINE SINCE OCTOBER 2008",
-      "title_ko": "NVIDIA는 2008년 10월 이후 최대 주간 하락세로 23% 하락",
-      "url": "https://t.me/marketfeed/1083004",
-      "ts": 1795208564
-    },
     {
       "source": "MarketFeed",
       "title_en": "NASDAQ 100 DOWN 6% ON THE DAY -",
@@ -11504,6 +11483,27 @@
       "title_ko": "이스라엘 예시 아티드당: 아이젠코트, 정부 구성 돌파구 마련 위해 내일 리쿠드당과 마라톤 협상 착수",
       "url": "https://t.me/firstsquaw/194886",
       "ts": 1795300624
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Iran’s Revolutionary Guard: Our operations were in response to the continued American aggression and violation of our airspace.",
+      "title_ko": "이란 혁명수비대 \"이번 작전은 미국의 지속적인 침략 및 영공 침범에 대한 대응\"",
+      "url": "https://t.me/firstsquaw/194890",
+      "ts": 1795300774
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "CBS, citing a U.S. official: Iran launched a new attack, but there were no casualties or damage to our forces or military assets in the region.",
+      "title_ko": "CBS \"이란, 추가 공격 감행…미군 및 군사 자산 피해 없어\"",
+      "url": "https://t.me/firstsquaw/194892",
+      "ts": 1795300838
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "COALITION SPOKESMAN: A BALLISTIC MISSILE LAUNCHED BY THE HOUTHI MILITIA TOWARD THE WESTERN REGION HAS BEEN INTERCEPTED AND DESTROYED.",
+      "title_ko": "연합군 대변인 \"후티 반군이 서부 지역으로 발사한 탄도미사일 요격 및 파괴\"",
+      "url": "https://t.me/marketfeed/1083335",
+      "ts": 1795300845
     }
   ]
 }
