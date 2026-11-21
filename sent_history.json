@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795268666,
+  "updated_at": 1795268817,
   "id_hashes": [
-    "05c32ae397f36ddff050b3abc46b7f3aba154ab20d82a353a64cbabea96061ed",
-    "336711a6b9b350d8ad6801b671e6ac46396da30a7cf9c0796edfea73407206b3",
-    "52041f801e69523c826166affe14e2739699e2ebd8257b452442448f9613dd84",
-    "356f9138d163a706358979e4fad874ae3a73d29a3d38a7afa18115f87c5ce58c",
-    "b36433ca9004dc8a620fa844426f816496883a95b34ae579958f07bdfccfa4bc",
-    "5f1589f03d60da29695e02e0274f44e6b636b9e91b639b0af3b9960513dd4e68",
     "9464e5dfbeb52e35f5d97ff5f42752aec08265ee4c71998e6f602bd760de00cc",
     "307c6b2eeac7ced212574e8aa79e2c3834ccb334f8a080f3739a1ae2dc4b27e7",
     "a920bb5f35eb64b16187a7c2321e94839e2495d25b7d3fc5fdba80b1503bef45",
@@ -4000,13 +3994,15 @@
     "20d83efa6d78a8d19f4a89d73fddf79e922320a85d7e4dbbb3c3056a0a82ea19",
     "9bbdff2d8cb5ce42ca7d2abd3cc9756a7212f426e403aafcfc6b9bf3b06b782f",
     "831f18fb4cdb162c816bd08d57dbfa7f16c3d27758bf9f868d39f7837ac4af1f",
-    "a8fcc61e2f5af69b429cb7216b73d7a6e775fccdf7fc651be013064ac4b5d05b"
+    "a8fcc61e2f5af69b429cb7216b73d7a6e775fccdf7fc651be013064ac4b5d05b",
+    "7f8eae24223323449e9196b39b25ec7463abdb5d65174d8710b54516cc1543ec",
+    "8719b34d132021b0e4796b00210d7f0d555e333f7ff357f291b817e8365e4cd3",
+    "8207996194ac88ec4404a0803e7628b4cb99065e42cbfbdfe339268caa561eaa",
+    "41bb606640a6d7654978c96d42810cb94d08da8f433951a6b85bfa797aabdf13",
+    "401fafa022097af4ea2e3eecb2e02c8260f2a8ca28adb86a001a3f25b8c6f8d6",
+    "ca3b5e2ffbf9ff142f2e7ecc15c6829539d2cff7b0787840e707c4323055a245"
   ],
   "title_hashes": [
-    "97a9183b01b1c0f0388bef25e8a3a24df1f8f51b7973770f0c0dfa2c0d455475",
-    "7e12fd45cb47b0fd63aec1217170761848aba901997470005fb722325f7b9f99",
-    "de1e90d20a07cf8c969334c88de94e732263b23784aa6bf7631547a8226768aa",
-    "79be2340b2b80b398f5aa27d0471abdb56acbf018d1da6bbf844b2c9bc475044",
     "07c86969b605ce628b2263d4bdcf919c378c203d074a812e8fd5d253cd086850",
     "28f8b9246b39dbf935e4c2f4c948139e352d2d727ce3d59e79cce5d4865aacec",
     "a8b172be4756defd3ef09d5c93efba8268fa04a1146e93788cb3fada30c14417",
@@ -8002,23 +7998,13 @@
     "c3d45e4966c20b55341c20128acf96758dd8ad5e443918a6c15b951b28286d25",
     "438b713f805860e0ac45707012abbb1b565188633d9fbffa3c9cb5b8a69093dd",
     "9bc90b6f8979c1a7bc0f9a889fde15df24b9e874481bf47d25d3cba853c2153b",
-    "329b967f2c7a78ccb1182bdf507031555d477ab403343c5a9ae1b09cb4085c44"
+    "329b967f2c7a78ccb1182bdf507031555d477ab403343c5a9ae1b09cb4085c44",
+    "528f07fb93e2e1e14d035a2d80a85036d3ed9df8520a7a778fe12305f1034f87",
+    "bfd56926046c362c8a40d3c960b843d6f32c3c97e9d2b79f9b85ec053e908cbd",
+    "b5d375ed05bae6888a0cce333098ea53782af232c94ab1af9e660dce74850ffe",
+    "135aa65417215f80eddcadd1860a7110a95a422ef580f7d9ca68e68340e6b45b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Anthropic IPO: Record Debut, Slowing Growth and a $900 Billion Bill",
-      "title_ko": "인류학 IPO: 기록적인 데뷔, 성장 둔화 및 9000억 달러 규모의 법안",
-      "url": "https://www.benzinga.com/watch/anthropic-ipo-record-debut-slowing-growth-and-900-billion-bill-63493630",
-      "ts": 1795200726
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Anthropic Investor Sees Huge Runway Beyond Coding",
-      "title_ko": "인류애 투자자는 코딩을 넘어 거대한 활주로를 본다",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-20/anthropic-investor-sees-huge-runway-beyond-coding-video",
-      "ts": 1795200729
-    },
     {
       "source": "글로벌이코노믹",
       "title_en": "러시아 드론, 키이우 네덜란드 대사관 뒤편 추락… 네덜란드·EU 대사 초치 파장",
@@ -11504,6 +11490,20 @@
       "title_ko": "이란 군 \"어제 걸프 해역 상공서 미군 F-16 전투기 대공 미사일로 타격\"",
       "url": "https://t.me/firstsquaw/194834",
       "ts": 1795268663
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "CBS, citing a U.S. military official: Our fighter jets bombed an Iranian missile site on Qeshm Island last Tuesday",
+      "title_ko": "CBS \"미군, 지난 화요일 케슘섬 내 이란 미사일 기지 폭격\"",
+      "url": "https://t.me/firstsquaw/194837",
+      "ts": 1795268751
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Anthropic IPO Fails to Calm AI Jitters",
+      "title_ko": "앤스로픽 IPO, AI 거품 우려 해소 실패",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-21/anthropic-ipo-fails-to-calm-ai-jitters-video",
+      "ts": 1795268816
     }
   ]
 }
