@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795303562,
+  "updated_at": 1795303710,
   "id_hashes": [
-    "5b3d2c2c84953bb66edc01885223c66c4ed252d313cdd50fd72b12f67f1d8ab8",
-    "bac9f6d40059314d3058dda34701edf87a7e3be8970b1c1eff91790df0054334",
-    "887cf8e1761bb56b75c01356f51996f58252d66c3f384cda8f4f23e1f5154adb",
-    "fa5a0011af838c23cdc76788709571f96571455f6fe01dab3791b905e7fa1062",
-    "52e8ea00be7f9bdcaed1ebd17a4b80903a0a3361af83c19fbe29368f388752c1",
-    "1c80d81c24ee39f4664e124d727b3adaa3fde63a3038f7aa4091bd9216a1f0e6",
     "e5d52e9c0b558ea9129a2e13c97817e96a7576d47a168b1ce40c92287d53a124",
     "01c476474d69b2adc389bb3bab46842bc489e911c49e93f7e6bf793e4c6ad8c8",
     "85e7f14b53ec650f5d8b502c5272663cbcf5841f3374e3061ba39bcd123b3c1a",
@@ -4000,15 +3994,15 @@
     "8b6a0e040c06e7490f681603adda79ca0b6ab16f08ce7355eb8d08491b51efda",
     "1bfe22182033b71983e290f2ebed96ef8865b9c25111bb8880e8f0c04fe2d99e",
     "25372b095b3b5519fc077e8d931cd81771c4ff3f2b448bcfd66b40c4fef53fa3",
-    "5a82ef5dc339843e0b510e1f746e044b75bbf0e434006be9588cae34acb8e618"
+    "5a82ef5dc339843e0b510e1f746e044b75bbf0e434006be9588cae34acb8e618",
+    "f0bf810257615c403dc15a719c511d4b9d35667ccd7c5639443bcd54efa7e127",
+    "339f66651893da43403e9d534e643707e44e7645bd2800e9fcb349eaf31e37c3",
+    "bbf93e5ce651ed22f2e492414de7477820910e5c169b96fa1a531b03f024c5f0",
+    "71b47290c4f049bcb48334139619209b7bf298a5257841dc24263c944f6a8e9d",
+    "c0e780e0e5fc3ff59552c7d58455c42b7c329dbe7f85ab9c52209480405dc091",
+    "9f5e1447bf37a4fd7d323c1502fdbd6a015c0b0335df56c8fb53b1f855b21b10"
   ],
   "title_hashes": [
-    "2e816ff3bda49d004be2e203dfeebcd81e49d2f5d49fa0e2645318c08c4565c4",
-    "dcc24091c90cab0c8d6234c6a64d4b56400e297726e87de558bc0117c3b65fc0",
-    "35a551a5990d0d95f80f36b1c8152d4e187306d875481e7aa0fe0cded33c93cc",
-    "d542dc2814c194362dff45af94b944c82796371192a5baed4f3b5a13974b5044",
-    "9bd9cd91fc5b9fbb1d9614f394b87d8f9f301d66ce55fdd9025f48bb17c3baee",
-    "4043e3ac3ff41f3c47a2520fbb89b51fa37e39e8e5d0079bbf0ecfb7c1b490d2",
     "5c470dc05aceb26cf6dcfb1be26ca24b5b65ab97f5127e743cc86fbb97ddc541",
     "327b1bcf2048d38db7b8c93df896aa903efecc4d832e36f75918c734f608efad",
     "9c8d74d47878c6e274e0ee19b951b38578d82fbe4fa3f1ea27cd316bd2eb4284",
@@ -8002,23 +7996,15 @@
     "f8e4bfa0da1fae1198293f0605fabd38042b21fed8552c2506db320d2fcbb1f0",
     "5826213374437ab8d09d9e362d019011d0fbaa6de6d35e2aa0d5e165b8559249",
     "a921c2cf1bcbb0ece5833aec6e8b341de14fbd6a474376f09ebea6d88e22be95",
-    "d19a09ce40ebd50d82abc844aa5ee6388ece1c8fcc8e1c7a078bba8d08c82118"
+    "d19a09ce40ebd50d82abc844aa5ee6388ece1c8fcc8e1c7a078bba8d08c82118",
+    "ddf38a0b9918c57d7c6860d219c9ddb42243ec38c8f01f68057f9a3db4249d28",
+    "45017e731cbbe32b4b807876ece931f806cedbdca83a68b1723e4a810dc5a0da",
+    "7d7c680aaccec91acc7d60728d4e9b19dc441b6457873cf700192d7483c9aaf5",
+    "4b04e62eb9836e7ea6430eea46e782376e66123cc3d36ecbbd3b8e3a5a71b5ca",
+    "06b0cbd25d5ede777f35ead6adc9113871eba785b159b3a9618a60d65d858b41",
+    "55e3aab5332ea3c10410d7f1f30a6a0a10e6608b747b3b3ace1ae19e7a6430db"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "UNOFFICIALLY, FOR THE WEEK, THE S&P 500 FELL 8.61%, THE NASDAQ DECLINED 10.02%, AND THE DOW FELL 8.02%",
-      "title_ko": "비공식적으로 이번 주 동안 S&P 500은 8.61% 하락했고, 나스닥은 10.02% 하락했으며, 다우 지수는 8.02% 하락",
-      "url": "https://t.me/WalterBloomberg/38864",
-      "ts": 1795208683
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Christian Dior board approves Agache merger terms",
-      "title_ko": "크리스찬 디올 이사회, Agache 합병 조건 승인",
-      "url": "https://www.streetinsider.com/Reuters/Christian+Dior+board+approves+Agache+merger+terms/27381484.html",
-      "ts": 1795208685
-    },
     {
       "source": "MarketFeed",
       "title_en": "ORACLE: HAS SECURED ALL THE FUNDING WE NEED TO FULFILL OUR CONTRACT WITH OPENAI",
@@ -11504,6 +11490,20 @@
       "title_ko": "앤스로픽이 IPO 이후 현금 및 현금성 자산을 사상 최대 규모인 2,370억 달러까지 확보하며 막대한 유동성을 보유하게 됨",
       "url": "https://x.com/KobeissiLetter/status/2124282426209775663",
       "ts": 1795303435
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "NVDA INVESTOR ALERT",
+      "title_ko": "엔비디아($NVDA) 투자자 주의보 발령",
+      "url": "https://www.benzinga.com/pressreleases/26/11/n63441692/nvda-investor-alert-hagens-berman-updates-nvidia-corporation-nasdaq-nvda-securities-class-action-inv",
+      "ts": 1795303588
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "\"삼성전자 SK하이닉스 내년에도 웃는다\"…무디스가 전망한 이유",
+      "title_ko": "\"삼성전자 SK하이닉스 내년에도 웃는다\"…무디스가 전망한 이유",
+      "url": "https://www.fnnews.com/news/202611220802359845",
+      "ts": 1795303591
     }
   ]
 }
