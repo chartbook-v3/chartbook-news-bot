@@ -252,8 +252,61 @@ SQUAWK_OUTLET_SUFFIX_MAP = {
     "ap": "AP",
 }
 
+# X(구 트위터) 주요 인사 44개 핸들 매핑 (시안 C: "X ｜ 이름 (소속/직책)")
+X_VIP_PROFILES = {
+    # 1. 반도체 · 하드웨어 · 빅테크 애널리스트 (7명)
+    "dylan522p": "X ｜ DYLAN PATEL (SEMIANALYSIS)",
+    "mingchikuo": "X ｜ MING-CHI KUO (TF INTERNATIONAL)",
+    "divestech": "X ｜ DAN IVES (WEDBUSH)",
+    "benbajarin": "X ｜ BEN BAJARIN (CREATIVE STRATEGIES)",
+    "patrickmoorhead": "X ｜ PATRICK MOORHEAD (MOOR INSIGHTS)",
+    "iancutress": "X ｜ IAN CUTRESS (CHIP ANALYST)",
+    "markgurman": "X ｜ MARK GURMAN (BLOOMBERG)",
+    # 2. 거시경제(매크로) · 월가 시장 전략가 (6명)
+    "nicktimiraos": "X ｜ NICK TIMIRAOS (WSJ)",
+    "elerianm": "X ｜ MOHAMED EL-ERIAN (ALLIANZ)",
+    "schuldensuehner": "X ｜ HOLGER ZSCHAEPITZ (WELT)",
+    "charliebilello": "X ｜ CHARLIE BILELLO (CREATIVE PLANNING)",
+    "kobeissiletter": "X ｜ THE KOBEISSI LETTER",
+    "northmantrader": "X ｜ SVEN HENRICH (NORTHMANTRADER)",
+    # 3. AI 연구자 · 빌더 · 뉴스 큐레이터 (8명)
+    "karpathy": "X ｜ ANDREJ KARPATHY (OPENAI CO-FOUNDER)",
+    "andrewyng": "X ｜ ANDREW NG (COURSERA)",
+    "ylecun": "X ｜ YANN LECUN (NYU · AMI LABS)",
+    "drjimfan": "X ｜ JIM FAN (NVIDIA ROBOTICS)",
+    "emollick": "X ｜ ETHAN MOLLICK (WHARTON)",
+    "rowancheung": "X ｜ ROWAN CHEUNG (THE RUNDOWN AI)",
+    "simonw": "X ｜ SIMON WILLISON (DATASETTE)",
+    "_akhaliq": "X ｜ AK (AI PAPER CURATOR)",
+    # 4. 실리콘밸리 VC · 창업가 · 테크 리뷰어 (5명)
+    "pmarca": "X ｜ MARC ANDREESSEN (A16Z)",
+    "paulg": "X ｜ PAUL GRAHAM (Y COMBINATOR)",
+    "garrytan": "X ｜ GARRY TAN (Y COMBINATOR CEO)",
+    "eladgil": "X ｜ ELAD GIL (TECH VC)",
+    "mkbhd": "X ｜ MARQUES BROWNLEE (MKBHD)",
+    # 5. 빅테크 · 반도체 · 프론티어 AI 수장 (16명 + 인텔 공식 2개)
+    "elonmusk": "X ｜ ELON MUSK (TESLA · XAI · SPACEX)",
+    "tim_cook": "X ｜ TIM COOK (APPLE)",
+    "sundarpichai": "X ｜ SUNDAR PICHAI (GOOGLE CEO)",
+    "satyanadella": "X ｜ SATYA NADELLA (MICROSOFT CEO)",
+    "ajassy": "X ｜ ANDY JASSY (AMAZON CEO)",
+    "finkd": "X ｜ MARK ZUCKERBERG (META CEO)",
+    "tobi": "X ｜ TOBI LUTKE (SHOPIFY CEO)",
+    "lisasu": "X ｜ LISA SU (AMD CEO)",
+    "jensenhuang": "X ｜ JENSEN HUANG (NVIDIA CO-FOUNDER)",
+    "intel": "X ｜ INTEL OFFICIAL",
+    "intelnews": "X ｜ INTEL NEWS",
+    "sama": "X ｜ SAM ALTMAN (OPENAI CEO)",
+    "gdb": "X ｜ GREG BROCKMAN (OPENAI)",
+    "darioamodei": "X ｜ DARIO AMODEI (ANTHROPIC CEO)",
+    "demishassabis": "X ｜ DEMIS HASSABIS (DEEPMIND CEO)",
+    "aravsrinivas": "X ｜ ARAVIND SRINIVAS (PERPLEXITY CEO)",
+    "alexandr_wang": "X ｜ ALEXANDR WANG (META AI)",
+    "clementdelangue": "X ｜ CLEMENT DELANGUE (HUGGING FACE CEO)",
+}
+
 # ==============================================================================
-# 2. 티어별 글로벌 & 한국 Top Tier 피드 + 텔레그램 실시간 스쿼크(방안 A)
+# 2. 티어별 글로벌 & 한국 Top Tier 피드 + 텔레그램 실시간 스쿼크(방안 A) + X 주요인사
 # ==============================================================================
 FEEDS = [
     # ⚡ [v2 신규] 텔레그램 실시간 스쿼크 채널 공개 웹 프리뷰 (인증/과금 0원)
@@ -619,6 +672,86 @@ FEEDS = [
         "type": "gn_rss",
         "url": "https://news.google.com/rss/search?q=(site:thebell.co.kr+OR+site:investchosun.com+OR+site:dealsite.co.kr+OR+site:infostockdaily.co.kr)+when:2h&hl=ko&gl=KR&ceid=KR:ko",
     },
+
+    # 𝕏 주요 애널리스트 · 매크로 전략가 · AI 연구자 · 실리콘밸리 VC · 빅테크/AI 수장 (44개 핸들 6그룹)
+    {
+        "name": "X-반도체애널",
+        "tier": "X_VIP",
+        "type": "gn_rss",
+        "url": (
+            "https://news.google.com/rss/search?q="
+            + urllib.parse.quote(
+                "(site:x.com/dylan522p OR site:x.com/mingchikuo OR site:x.com/divestech OR site:x.com/benbajarin OR site:x.com/patrickmoorhead OR site:x.com/iancutress OR site:x.com/markgurman) when:2h"
+            )
+            + "&hl=en-US&gl=US&ceid=US:en"
+        ),
+        "priority": 1,
+    },
+    {
+        "name": "X-매크로전략",
+        "tier": "X_VIP",
+        "type": "gn_rss",
+        "url": (
+            "https://news.google.com/rss/search?q="
+            + urllib.parse.quote(
+                "(site:x.com/NickTimiraos OR site:x.com/elerianm OR site:x.com/Schuldensuehner OR site:x.com/charliebilello OR site:x.com/KobeissiLetter OR site:x.com/NorthmanTrader) when:2h"
+            )
+            + "&hl=en-US&gl=US&ceid=US:en"
+        ),
+        "priority": 1,
+    },
+    {
+        "name": "X-AI연구빌더",
+        "tier": "X_VIP",
+        "type": "gn_rss",
+        "url": (
+            "https://news.google.com/rss/search?q="
+            + urllib.parse.quote(
+                "(site:x.com/karpathy OR site:x.com/AndrewYNg OR site:x.com/ylecun OR site:x.com/DrJimFan OR site:x.com/emollick OR site:x.com/rowancheung OR site:x.com/simonw OR site:x.com/_akhaliq) when:2h"
+            )
+            + "&hl=en-US&gl=US&ceid=US:en"
+        ),
+        "priority": 2,
+    },
+    {
+        "name": "X-실리콘밸리VC",
+        "tier": "X_VIP",
+        "type": "gn_rss",
+        "url": (
+            "https://news.google.com/rss/search?q="
+            + urllib.parse.quote(
+                "(site:x.com/pmarca OR site:x.com/paulg OR site:x.com/garrytan OR site:x.com/eladgil OR site:x.com/MKBHD) when:2h"
+            )
+            + "&hl=en-US&gl=US&ceid=US:en"
+        ),
+        "priority": 2,
+    },
+    {
+        "name": "X-빅테크수장",
+        "tier": "X_VIP",
+        "type": "gn_rss",
+        "url": (
+            "https://news.google.com/rss/search?q="
+            + urllib.parse.quote(
+                "(site:x.com/elonmusk OR site:x.com/tim_cook OR site:x.com/sundarpichai OR site:x.com/satyanadella OR site:x.com/ajassy OR site:x.com/finkd OR site:x.com/tobi OR site:x.com/LisaSu OR site:x.com/jensenhuang OR site:x.com/Intel OR site:x.com/IntelNews) when:2h"
+            )
+            + "&hl=en-US&gl=US&ceid=US:en"
+        ),
+        "priority": 1,
+    },
+    {
+        "name": "X-AI수장",
+        "tier": "X_VIP",
+        "type": "gn_rss",
+        "url": (
+            "https://news.google.com/rss/search?q="
+            + urllib.parse.quote(
+                "(site:x.com/sama OR site:x.com/gdb OR site:x.com/DarioAmodei OR site:x.com/demishassabis OR site:x.com/AravSrinivas OR site:x.com/alexandr_wang OR site:x.com/ClementDelangue) when:2h"
+            )
+            + "&hl=en-US&gl=US&ceid=US:en"
+        ),
+        "priority": 1,
+    },
 ]
 
 # ==============================================================================
@@ -711,7 +844,7 @@ CATEGORY_PATTERNS = [
     (
         "빅테크·신제품",
         re.compile(
-            r"(\b(openai|sam altman|chatgpt|gpt-5|anthropic|claude|gemini|grok|xai|deepseek|microsoft|apple|iphone|google|alphabet|meta platforms|meta|mark zuckerberg|amazon|aws|tesla|elon musk|musk|starlink|spacex|cybercab|robotaxi|optimus|humanoid|palantir|oracle|coreweave|nebius|quantum computing|qubit|ionq|rigetti|smr|oklo|constellation energy)\b|오픈AI|테슬라|머스크|애플|구글|메타|마이크로소프트|아마존|휴머노이드|로봇|자율주행|양자컴퓨터|2차전지|이차전지|배터리|전고체|LG에너지솔루션|LG엔솔|에코프로|포스코퓨처엠|현대차|기아)",
+            r"(\b(openai|sam altman|chatgpt|gpt-5|gpt-4|o3|o4|anthropic|claude|gemini|grok|xai|deepseek|perplexity|hugging face|microsoft|apple|iphone|macos|ios|google|alphabet|deepmind|meta platforms|meta|mark zuckerberg|amazon|aws|tesla|elon musk|musk|starlink|spacex|cybercab|robotaxi|optimus|humanoid|palantir|oracle|coreweave|nebius|quantum computing|qubit|ionq|rigetti|smr|oklo|constellation energy|ai agent|computer-use|reasoning model|open-source ai|open weight|llm|agi)\b|오픈AI|테슬라|머스크|애플|구글|메타|마이크로소프트|아마존|휴머노이드|로봇|자율주행|양자컴퓨터|2차전지|이차전지|배터리|전고체|LG에너지솔루션|LG엔솔|에코프로|포스코퓨처엠|현대차|기아)",
             re.IGNORECASE,
         ),
     ),
@@ -755,6 +888,10 @@ def evaluate_article(
     source: str = "",
     context_en: str = "",
 ) -> tuple[bool, str, bool]:
+    # X 게시글 중 타인에게 보내는 단순 답글(@username ...)이나 짧은 인사는 차단
+    if tier == "X_VIP" and text_en.strip().startswith("@"):
+        return False, "", False
+
     # 블랙리스트는 헤드라인(제목 + 번역문) 기준으로 엄격 검사 (본문 부수 단어 오탐 방지)
     headline_raw = f"{text_en} {text_ko}"
     headline_combined = headline_raw.lower()
@@ -1080,6 +1217,25 @@ def verify_true_publication_age(final_url: str, max_age_minutes: int = MAX_NEWS_
     if "t.me/" in u_low:
         return True, "OK(Telegram UTC)"
 
+    # X(Twitter) 게시글 링크는 Snowflake status ID에서 100% 정확한 UTC 생성 시각과 작성자 핸들을 즉시 검증 (추가 HTTP 요청 0회)
+    if "x.com/" in u_low or "twitter.com/" in u_low:
+        m_x = re.search(r"(?:x\.com|twitter\.com)/([A-Za-z0-9_]{1,20})/status/(\d{15,22})", final_url, flags=re.IGNORECASE)
+        if not m_x:
+            return False, "X 개별 게시글(/status/)이 아닌 프로필/일반 링크 차단"
+        handle_low = m_x.group(1).lower()
+        if handle_low not in X_VIP_PROFILES:
+            return False, f"지정된 X 주요인사 외 계정 차단 (@{m_x.group(1)})"
+        try:
+            sid = int(m_x.group(2))
+            tweet_ts = ((sid >> 22) + 1288834974657) / 1000.0
+            tweet_dt = datetime.fromtimestamp(tweet_ts, tz=timezone.utc)
+            age_m = (now_utc - tweet_dt).total_seconds() / 60.0
+            if age_m > max_age_minutes + 5:
+                return False, f"X Snowflake 발행시각 초과 ({age_m:.0f}분 전 게시: {tweet_dt.strftime('%Y-%m-%d %H:%M UTC')})"
+            return True, "OK(X Snowflake UTC)"
+        except Exception:
+            pass
+
     is_kr = any(
         k in u_low
         for k in (".kr", "hankyung.com", "chosun.com", "investchosun.com", "biospectator.com", "fnnews.com", "newspim.com")
@@ -1193,6 +1349,52 @@ def extract_publisher_from_gn_title(raw_title: str, default_source: str) -> tupl
 def clean_raw_headline(title: str) -> str:
     _, clean_t = extract_publisher_from_gn_title(title, "")
     return clean_t
+
+
+def clean_x_post_text(raw_text: str) -> tuple[str, str]:
+    """
+    X(Twitter) 주요인사 게시글 원문에서:
+    1) 말미 '- X', '- Twitter', 단축 URL(https://t.co/...), 리트윗/답글 접두어 제거
+    2) 타인에게 보내는 단순 답글('@username ...')은 즉시 빈 문자열 반환하여 차단
+    3) API 토큰 추가 소모 없이 파이썬 규칙으로 핵심 앞 1~3문장(약 240자 이내)만 추출하고,
+       Google News 제목 길이 제한으로 인해 마지막 문장이 단어 중간에서 잘린 경우 완결된 앞 문장만 보존
+    """
+    t = html.unescape(raw_text or "").strip()
+    t = re.sub(r"\s*[-–—]\s*(?:X|Twitter)\s*$", "", t, flags=re.IGNORECASE).strip()
+    t = re.sub(r"https?://\S+", "", t).strip()
+    t = re.sub(r"^(?:Breaking:\s*|BREAKING:\s*|\*\s*)", "", t).strip()
+    t = re.sub(r"\s+", " ", t).strip()
+
+    if not t or t.startswith("@") or t.lower().startswith("rt @"):
+        return "", ""
+
+    # 문장 단위 분리 (소수점 27.3, $56,000 등 숫자 내부 마침표는 보존)
+    sentences = [s.strip() for s in re.split(r"(?<=[.!?])\s+(?=[A-Z0-9\"'“(\[$])", t) if s.strip()]
+    if len(sentences) > 1:
+        last_s = sentences[-1]
+        # Google News RSS 제목 길이 제한(~245자)으로 마지막 문장이 미완성 절단된 경우 제거
+        if len(t) >= 210 and not re.search(r"[.!?\"'”%)\]]$", last_s):
+            sentences = sentences[:-1]
+
+    selected = []
+    total_len = 0
+    for s in sentences[:3]:
+        if selected and total_len + len(s) > 250:
+            break
+        selected.append(s)
+        total_len += len(s) + 1
+
+    headline = " ".join(selected).strip() if selected else t[:240].strip()
+    context = " ".join(sentences[len(selected) : len(selected) + 3]).strip()
+    return headline, context[:500]
+
+
+def resolve_x_vip_source(final_url: str) -> str | None:
+    """정식 URL(https://x.com/<handle>/status/<id>)에서 핸들을 추출해 시안 C('X ｜ 이름 (소속)') 헤더를 반환합니다."""
+    m = re.search(r"(?:x\.com|twitter\.com)/([A-Za-z0-9_]{1,20})/status/\d+", final_url, flags=re.IGNORECASE)
+    if not m:
+        return None
+    return X_VIP_PROFILES.get(m.group(1).lower())
 
 
 def extract_squawk_source_and_title(full_text: str, default_source: str) -> tuple[str, str, str]:
@@ -1323,7 +1525,7 @@ def _extract_gemini_text(data: dict) -> str:
         txt = part.get("text", "").strip()
         if not txt:
             continue
-        txt = txt.split("\n")[0].strip()
+        txt = " ".join(ln.strip() for ln in txt.splitlines() if ln.strip())
         if len(txt) >= 2 and txt[0] == txt[-1] and txt[0] in ('"', "'"):
             txt = txt[1:-1].strip()
         if txt:
@@ -1332,7 +1534,7 @@ def _extract_gemini_text(data: dict) -> str:
 
 
 def _translate_with_gemini(text: str) -> str | None:
-    """Gemini Flash 다중 무료 풀 릴레이를 활용하여 외신 속보를 한국 증권사 속보 톤으로 초고속 번역합니다."""
+    """Gemini Flash 다중 무료 풀 릴레이를 활용하여 외신 속보 및 X 주요인사 게시글을 한국 증권사 속보 톤(1~3문장)으로 초고속 번역합니다."""
     api_key = _get_gemini_api_key()
     if not api_key:
         return None
@@ -1344,12 +1546,13 @@ def _translate_with_gemini(text: str) -> str | None:
     ]
     prompt = (
         "당신은 증권사 및 경제 언론사 외신 속보 데스크입니다. "
-        "다음 외신/글로벌 속보 헤드라인을 한국 텔레그램 증권 속보 채널 스타일에 맞춰 "
-        "정확하고 자연스러운 한국어 한 줄 헤드라인으로 번역 및 윤문하세요.\n"
+        "다음 외신/글로벌 속보 또는 X 주요 인사 게시글을 한국 텔레그램 증권 속보 채널 스타일에 맞춰 "
+        "핵심 팩트 중심의 자연스러운 한국어 1~3문장(한 문단)으로 압축 번역 및 윤문하세요.\n"
         "지침:\n"
-        "1. 부가 설명, 접두어, 바깥쪽 따옴표 없이 오직 번역된 한 줄 헤드라인 텍스트만 출력하세요.\n"
+        "1. 부가 설명, 접두어, 줄바꿈, 바깥쪽 따옴표 없이 오직 번역된 본문 텍스트(한 문단, 최대 1~3문장)만 출력하세요.\n"
         "2. '말했습니다', '보도했습니다' 등 번역투 종결어 대신 '~전망', '~급등', '~상회', '~착수', '~밝혀' 등 간결한 경제 속보 문체를 사용하세요.\n"
-        "3. 고유명사와 금융 용어를 정확히 표기하세요(예: PBOC -> 중국 인민은행, Fed -> 연준, RBA -> 호주 중앙은행, $NVDA -> 엔비디아).\n\n"
+        "3. 고유명사와 금융 용어를 정확히 표기하세요(예: PBOC -> 중국 인민은행, Fed -> 연준, RBA -> 호주 중앙은행, $NVDA -> 엔비디아).\n"
+        "4. 원문의 모든 숫자, 버전 번호(예: macOS 27.3, GPT-5, 2026년), 금액, 등락률(%)을 절대 임의로 변경하지 말고 원문 숫자를 100% 그대로 유지하세요.\n\n"
         f"헤드라인: {text}"
     )
     payload_fast = {
@@ -1614,14 +1817,21 @@ def fetch_single_feed(feed: dict, max_age_minutes: int = MAX_NEWS_AGE_MINUTES) -
 
             parsed_rss_items.sort(key=lambda x: x[0], reverse=True)
             for pub_dt, raw_title, raw_link in parsed_rss_items[:15]:
-                pub_name, clean_t = extract_publisher_from_gn_title(raw_title, feed["name"])
+                if feed["tier"] == "X_VIP":
+                    clean_t, ctx_en = clean_x_post_text(raw_title)
+                    if not clean_t:
+                        continue
+                    pub_name = feed["name"]
+                else:
+                    pub_name, clean_t = extract_publisher_from_gn_title(raw_title, feed["name"])
+                    ctx_en = ""
                 results.append(
                     {
                         "source": pub_name,
                         "tier": feed["tier"],
                         "priority": feed_priority,
                         "title_raw": clean_t,
-                        "context_en": "",
+                        "context_en": ctx_en,
                         "url": raw_link,
                         "is_gn": feed["type"] == "gn_rss",
                         "pub_dt": pub_dt,
@@ -1719,7 +1929,7 @@ def run_cycle(
         for fut in as_completed(futures):
             all_candidates.extend(fut.result())
 
-    tier_priority = {"RUMOR": 0, "SQUAWK": 0, "TOP": 1, "TECH": 2, "SECOND": 3}
+    tier_priority = {"RUMOR": 0, "SQUAWK": 0, "X_VIP": 1, "TOP": 1, "TECH": 2, "SECOND": 3}
     all_candidates.sort(
         key=lambda x: (
             tier_priority.get(x["tier"], 9),
@@ -1730,7 +1940,7 @@ def run_cycle(
 
     new_qualified = []
     for cand in all_candidates:
-        cleaned_title = clean_raw_headline(cand["title_raw"])
+        cleaned_title = cand["title_raw"].strip() if cand["tier"] == "X_VIP" else clean_raw_headline(cand["title_raw"])
         if not cleaned_title or len(cleaned_title) < 16:
             continue
         id_hash, title_hash = compute_hashes(cleaned_title, cand["url"])
@@ -1784,6 +1994,17 @@ def run_cycle(
             break
         final_url = resolve_canonical_url(item["url"]) if item["is_gn"] else item["url"]
         preview_title = item.get("screen_ko") or item["cleaned_title"]
+
+        # X 주요인사 게시글은 정식 URL에서 핸들을 추출해 시안 C('X ｜ 이름 (소속)') 헤더로 확정
+        if item["tier"] == "X_VIP" or any(d in final_url.lower() for d in ("x.com/", "twitter.com/")):
+            vip_header = resolve_x_vip_source(final_url)
+            if item["tier"] == "X_VIP" and not vip_header:
+                logger.info(f"[X 비대상/미확인 링크 차단] [{item['source']}] {preview_title} -> {final_url[:70]}")
+                if not dry_run:
+                    store.record_seen(item["id_hash"], item["title_hash"])
+                continue
+            if vip_header:
+                item["source"] = vip_header
 
         # URL 섹션 차단 및 실제 발행 시각 검증을 Gemini 번역 전에 선행해 불필요한 API 소모 차단
         if any(seg in final_url.lower() for seg in ("/sports/", "/entertain/", "/entertainment/", "/press+releases/", "/press-releases/")):
@@ -1936,8 +2157,11 @@ def main():
     logger.info(f"🚀 ChartBook News Bot v2 가동 (시안 {args.style}번 | 실시간 {args.max_age}분 타임락)")
     logger.info(f"   - 타깃 채널: {TELEGRAM_CHAT_ID} {'[DRY-RUN]' if args.dry_run else ''}")
     squawk_cnt = sum(1 for f in FEEDS if f.get("type") == "tg_web")
-    rss_cnt = len(FEEDS) - squawk_cnt
-    logger.info(f"   - 모니터링 피드: {len(FEEDS)}개 (글로벌/한국 {rss_cnt}개 + 텔레그램 실시간 스쿼크 {squawk_cnt}개)")
+    x_vip_cnt = sum(1 for f in FEEDS if f.get("tier") == "X_VIP")
+    rss_cnt = len(FEEDS) - squawk_cnt - x_vip_cnt
+    logger.info(
+        f"   - 모니터링 피드: {len(FEEDS)}개 (글로벌/한국 {rss_cnt}개 + 텔레그램 스쿼크 {squawk_cnt}개 + X 주요인사 {x_vip_cnt}개 그룹/{len(X_VIP_PROFILES)}명)"
+    )
     logger.info(f"   - 누적 중복방지 해시: {len(store.id_hashes)}건")
     logger.info("=================================================================")
 
