@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795263420,
+  "updated_at": 1795263577,
   "id_hashes": [
-    "f8ade7d3fc36c3850e420db6a9430a79a477458e21c4db138925cd05bd2d26fe",
-    "ddcc4b8b613e533f299b4dbe0529fe87b9deaaf9edf8ff89cf578303466a1027",
     "ce7c37cec489c7c50a356697bfb900034220566211d938283722fd6874c28f7f",
     "05d361a2e083c154aa0e03c7cbef5ca55ba9c8b02de633faff4482d7b9fbb245",
     "689f1d0454a9657130916ac5400783adf165fbe08b776d96686100cbfd8f00df",
@@ -4000,12 +3998,11 @@
     "615f4b61dbcf73849e3d7d7c13f8f7a312622850684e66ad9fdb37493c2a7663",
     "01ff9776e94125dc3e40aeaf9a338d116039903d3f5b6cd00179bd012d6c9eb7",
     "5e9e75149816b194e774ec0424236d272bb13bdbf89ddc4410c6df7d7c370b87",
-    "3c26049f6a0ccb568af096a3561359ade0bd8665f5c858142b0dc50b627be6ab"
+    "3c26049f6a0ccb568af096a3561359ade0bd8665f5c858142b0dc50b627be6ab",
+    "29e07c97155b824eb40176a01265903578b749e8e6cf5969271fba92d704b06d",
+    "9a4d1d1a3c46ecf97ca68a1c2e7624234ca8f44573a977d852bc67b766f4c4a1"
   ],
   "title_hashes": [
-    "95a08d7eb8f4d5690d559dbb36544718f753dd5ffca6566fb1eddf108c780646",
-    "5a8a6425994354a0df3abd70801d2b05fe7ca159caa6920b7f544a80e3816c10",
-    "79f866a48f865c62242e6a46b9d5834fdfda192ffa171d626f86b41f3d18f0e5",
     "792e8ab9bd671a1740db4c2d99a5b5db41035a093b9e7a57e0961121f0bdd126",
     "0bd177981edc4e425e03d46712d736c2935e7fee03f71146d54aad6cb42fa3d4",
     "327f6ff3c7dbb7be22d97a17f14c3d2f56acace7655af43fa04f91d3f082f6ae",
@@ -8002,16 +7999,12 @@
     "3b577911bfecc4748dcbfd1547896cf6f1b107f65d8a7d57eb57e2d2a25af2fc",
     "d839a9ed4f72ddabe0c0a33cc2a329435d5a9be96d12ac722b3e2decb6e5ac3e",
     "7c1eed0c39749226fc746e1a141b5dc880af8bf1dc303e0a15cb71343324ee6b",
-    "52c3c0b6fcd9d18f2647a3156b0c926f4c8857f04e27de8498a304e3567825f8"
+    "52c3c0b6fcd9d18f2647a3156b0c926f4c8857f04e27de8498a304e3567825f8",
+    "1beb77fb8a93656644eb865b594a2d813e1e11c45664f6c11c49929c1c190479",
+    "ea662f2985902069777933cbeddeb075d6b953b0ded9913e2f1d453910271767",
+    "0adeaf4efeac069bc96d681e3cfc2034bef2934de28f294e661633e799baff82"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Trump Says US Close to Mexico Trade Deal, Less So With Canada",
-      "title_ko": "트럼프, 미국이 멕시코 무역협정에 가까워졌지만 캐나다와는 덜 가깝다고 전해",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/trump-says-us-close-to-mexico-trade-deal-less-so-with-canada",
-      "ts": 1795200601
-    },
     {
       "source": "Bloomberg",
       "title_en": "Microsoft to Pay Top Cloud Workers More, Crack Down on Others",
@@ -11504,6 +11497,13 @@
       "title_ko": "트럼프 관세 우려 완화에 미국산 구리 중국행 물량 이동 시작",
       "url": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1",
       "ts": 1795263270
+    },
+    {
+      "source": "WSJ",
+      "title_en": "White House reduces special status allowing staffers to remain in private sector",
+      "title_ko": "백악관, 직원들의 민간 부문 겸직 허용 특례 축소",
+      "url": "https://www.financialjuice.com/News/9862973/White-House-reduces-special-status-allowing-staffers-to-remain-in-private-sector---WSJ.aspx?xy=rss",
+      "ts": 1795263576
     }
   ]
 }
