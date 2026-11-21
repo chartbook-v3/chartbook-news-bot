@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795257031,
+  "updated_at": 1795257185,
   "id_hashes": [
-    "d3b99adc812b548353d45ba8e9d46bb684829d0cc1715b2325d56b524369a955",
-    "e1a55ac1d3430dcf75a036ce22ba710aa9e638a84ef38bb39c12bbd2bdfe2793",
-    "370493458dc005da2dc47cf75cc649d80d8a7aeff7f02c4ba0a767ac5e7488b4",
-    "883e64456d748bb2ec7d7ad77083a35955fa16a295bddabfb1bf9fc7970241c3",
     "b287c3a5d9a06aea41fd296ac9017afaec45d3de858207011feab7735c45b2c0",
     "e3e3a790d69fde71aff944cf2695a4cb6e63706bc109e6d565835fd741224dab",
     "c7f6d57edcd9bce060d2a3d81e55e4616f8fa5ed1b5a7a5a12d4b9be144b2eda",
@@ -4000,13 +3996,13 @@
     "7547041484c2776df9d88fd18943e47484de7f462cc9b3e2f032a68c7b230c68",
     "b2eada025a2032b609e736c4fa23185878e45defd4b0200857eaaad39818fe98",
     "f3745950bae55cc49ab808399588a1b3b058b399ec8a5db24f38bca53dd4d9cb",
-    "c6736bf4e076ffed5775992d0bc3ee0b54f0e7399908559df1a3f7084e82102e"
+    "c6736bf4e076ffed5775992d0bc3ee0b54f0e7399908559df1a3f7084e82102e",
+    "0a80b6fbb3f2cabc86c4b4dffd82cd122bc15f7028ef6729e7376f830e5533e7",
+    "0f2bb9429b1a33c31bfe5120243267e66c0e71b2171956cfe3383fe1e7232864",
+    "6f19fd734a99461567dd7aa63ba9cb5c540a7abd89fa16b4ea34bc4c1c93e673",
+    "e19e6de0ee17d48618ac599be10533d81e1ef5ad0c9a573a55f73da625e73c47"
   ],
   "title_hashes": [
-    "f2c92c880d3c8f41d2cb0615c3f89fa4bd0bc25debe42346365ea8f442c6dbe0",
-    "899520362e90ea05d00dc95357d7ad8ba6e2df11c2628d689f20c5def07c2b32",
-    "c53d3e93d6947b1118e4fd5e2043c62f085f3d86452a5f692ff6ca5b75f3c92c",
-    "5335366d3907c522e6f2b9b2d3090d22b359bbb9e3c319fd419f3768eb0454ff",
     "e104c6d33a43b3379b630f520e7f7b7f4e2b1767c2daebfeb0c265c31a0d144c",
     "2012f7706f7cf8f2a510c08e9b7cbc694b6b9acc40755409027b958c32c8b2d1",
     "8782f29bcdab29cf13e478554ee9b137560c650a63911c3f6ab62ec4519a140a",
@@ -8002,16 +7998,13 @@
     "ca499bf8b8c5ec4ba35d82fad933d48ee6e6f26c6e2eb1c895ec33b1be946046",
     "97f553d2c538fc6d4f14a0cf2ec3d8f358780511f0defa1cbe4559898ef36072",
     "56c37bf356b7406a860abd61045827e7edbf85b1a4b603b453e287b9a41c3563",
-    "a263c8c7a97482cf93c3a8bd7e9911c3c3d0a99cf8f299aa68783ae9265a252d"
+    "a263c8c7a97482cf93c3a8bd7e9911c3c3d0a99cf8f299aa68783ae9265a252d",
+    "cd01cf4a1797f646d8b66c1175b9e003311858e23c5f79414d30cc183b860fad",
+    "1e985b71534593eae235f6c70386ada5fd9a43b6af1357655274ed9246e25cca",
+    "20333b27dbb50cd867077a065e5d1648a9aeff08480a93608248835b9917ad38",
+    "b5dca6f7a442b1fa080339cdf759a8fa2f59b7f621b5f4a0a2a369a09b9f7a2d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "ECB’s Moulin Sees Strong Foundations Across France’s Banking and Insurance Industries",
-      "title_ko": "ECB의 Moulin은 프랑스의 은행 및 보험 산업 전반에 걸쳐 강력한 기반을 확인합니다",
-      "url": "https://t.me/firstsquaw/194688",
-      "ts": 1795200421
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Trump Describes Putin as Someone With Whom He Shares Strong Ties",
@@ -11504,6 +11497,13 @@
       "title_ko": "영국 해군 교전통제소(UKMTO), 토요일 오만 카사브 인근 유조선 대상 공격 2건 발생 확인",
       "url": "https://t.me/firstsquaw/194809",
       "ts": 1795257029
+    },
+    {
+      "source": "WSJ",
+      "title_en": "The Danger of Jensen Huang’s Handshake Deals at Nvidia",
+      "title_ko": "엔비디아 젠슨 황의 '구두 계약' 방식에 따른 리스크 확산 우려",
+      "url": "https://www.wsj.com/business/nvidia-jensen-huang-deals-8750daf4?mod=rss_Technology",
+      "ts": 1795257184
     }
   ]
 }
