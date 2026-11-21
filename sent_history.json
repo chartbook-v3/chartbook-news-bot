@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795264176,
+  "updated_at": 1795264326,
   "id_hashes": [
-    "6aa49e6a53ef254dc8e5f45189ddf42dfe606093a2b10f68bff4d74d27f75b68",
-    "2a5a4884d71695f59786fb202b69e325a01df4c69c0514f7d17bac09de2a0c2a",
     "17fe4153eabb099a274c93a73128ff78c7501031d440b614ea70cbd6d6f78650",
     "2b79f4f0ad5f5815e3b86166627498749df0f65c099f8515b928fa7c7b0ddb5d",
     "eaef04927ee7ace6f4e7d7d464d95b1b0df64e26a1bad3a818355c9495d4fb93",
@@ -4000,11 +3998,11 @@
     "80b510e2a6026de9a4c329574b5ef031f5c863e114bb2a616384781ea511eb89",
     "bcbe2e9d332d7663322677cad5d5113064b53b2eaa3c35e656fd443e855975f3",
     "c4f8a0dc379831aadc080fef8e730b20055d3d6dd82dde3295abfc5ca4044ddb",
-    "18f1da551381cc2d18db81be1e0cea436f00eef4bbc160151fe5886e93a5277e"
+    "18f1da551381cc2d18db81be1e0cea436f00eef4bbc160151fe5886e93a5277e",
+    "3a753e90a61cf0ab4110b159ac7ce8c68e93e22449f8b37c0e30f1e2a5dc7ea5",
+    "20a3c6824d21b9b832f9555a448df87b67cb99a652e18394a4e816ffb06b9672"
   ],
   "title_hashes": [
-    "3ef4f075358370b94777c33c39a527b156942bb196cae33aebe6f93b927a267c",
-    "18da070d93b7b5031bf57b653b1bbc78ef93476e0bf5b4c44321ef5ad9351106",
     "5b73535a35a1f569dc75c2b1c65cca012f2649623dd697f517051bf550e6c076",
     "d8f83fd70d98d925c4e30e8b8dd2164b56c792baaee5d2a1c11bd67b2c41eda5",
     "94f8d3ea0266d1770f0b93496ebec5661d9bb09feeb59826f726a6eeb55afca6",
@@ -8002,16 +8000,11 @@
     "334425afff7d6245fc3b179ebb3f0cb7fc1484ada6269dbc0ae176ac8745e253",
     "25d82aa0939672033d585abe15cbcf0d5e28a434859be1f7d92a06e63a3489b7",
     "a6f68eda7d95d07016215c2dbd3708bb9e0ba285fd662187e28285c90afd4955",
-    "dcd4e75e944e43607711445849e22e71c81c56244e8976dbb4f6fac4fdb3b00b"
+    "dcd4e75e944e43607711445849e22e71c81c56244e8976dbb4f6fac4fdb3b00b",
+    "ef2e005ff408db966f9271860f22ca54838d98c35a7cd8e6881c52a67c07cbff",
+    "54e5149f6792d54f9b6240a9dd5ebc09ac4d3fa94946952050b4bfbb2d9e6c0b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "[속보] 트럼프 \"핵무기 없애고 싶지만 절반으로 줄이자 말하기 어려워\"",
-      "title_ko": "[속보] 트럼프 \"핵무기 없애고 싶지만 절반으로 줄이자 말하기 어려워\"",
-      "url": "https://www.news1.kr/world/usa-canada/6361472",
-      "ts": 1795200606
-    },
     {
       "source": "Reuters",
       "title_en": "Anthropic retail traders face losses as shares dive 13% the day after debut",
@@ -11504,6 +11497,13 @@
       "title_ko": "캐프리코, FDA의 세포 치료제 승인 거절에 사업 운영 재검토 착수",
       "url": "https://seekingalpha.com/news/4675389-capricor-stock-down-fda-rejects-cell-therapy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795264049
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "대만, 일주일 새 17.5% 급락에…'전일 종가 미만 공매도' 금지",
+      "title_ko": "대만, 일주일 새 17.5% 급락에…'전일 종가 미만 공매도' 금지",
+      "url": "https://www.news1.kr/world/asia-australia/6361736",
+      "ts": 1795264325
     }
   ]
 }
