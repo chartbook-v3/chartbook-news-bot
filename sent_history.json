@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795279117,
+  "updated_at": 1795279271,
   "id_hashes": [
-    "451356809248e5f9e130189ef2fb633438d56d522d020e1541cc95603b22b330",
-    "02d0e544c725722a82ab15a400ae578f68497119d3c2ca07230c37aa77e94901",
-    "3da10fb03fd20370d41f55c0874215ff5b32f00cfb4f430c263324f93bac782d",
     "55adf4b4d3d373aa6619a872a6c7e942b864884373174b2232a32c2684e941fa",
     "f7f699a627f0a346b5a0277f2677bb719276cc48750a8890078950a60eaa6670",
     "d0fd9fec437721da3e57bf87cadba80710792718e47bf3b7622b6c066c1cb853",
@@ -4000,10 +3997,12 @@
     "9990492eab452a842f7ec537ea228d010a4ffbf6501d80d904ebbea8f99c9521",
     "3b2f1a65fd3d358a474079aec93c0bd223d4a623e96815ff94751490fe97bc4f",
     "ad19ddf7a31bb6e78213b01fe74cf8ae5a0d2b057a27348c5178807d481e6540",
-    "9a0d630bdb6c58c9f2416fd2ef321b8374a909ea89fa562ceaad1dd37d82298e"
+    "9a0d630bdb6c58c9f2416fd2ef321b8374a909ea89fa562ceaad1dd37d82298e",
+    "57ec3f2bc7de08492ac3b637f725ec67f14f31057207254a96f082a08a3473cb",
+    "605618d563eba3f39a0a5459cdc23e3fe7a4c530c267cebe79b710296d25962e",
+    "9547df1c4b1296c85f3ea81e74ae285f3930a385beab8680b5031f7cc08f835c"
   ],
   "title_hashes": [
-    "ba5af4dc094cb33cb35d4f6be33aa7bfdd8f6ebd082c414353cd1a2fd913f41a",
     "743c838b05c450a243649c77318f4cecc67838d37adabc2292baef87964404d1",
     "2b2296024d8533a4c08e8a3865fa1773ee515e8ec229ff58a8463266963f0b31",
     "71c669db60706456694a42f16f8b646fdecacb7ba44a14b6e6226a56ad41ebef",
@@ -8002,16 +8001,10 @@
     "c921431380f8a07a1220d5de204ce9c313b240e68e8d5a4a129ff784ea5efa73",
     "611e2e5ec8fea215dd2f9ee0f32d00a03bf542f1f0cdd56a3db85c1040facc72",
     "f1d85f2dc3f41c800db34fc6776705a815145f3e1a6e29caea602f6c1734a2b8",
-    "1be2600b4fc28579575a42181ad546a7e92abe0688e44df651f6770a46f81888"
+    "1be2600b4fc28579575a42181ad546a7e92abe0688e44df651f6770a46f81888",
+    "de1f4d9b9d21b2be72ee128e89f1409e42e9c6e94411c106c52b04d08ad25cfe"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "Traders no longer fully price in a December Fed rate hike.",
-      "title_ko": "트레이더들은 12월 연방준비은행 금리 인상을 더 이상 완전히 가격에 반영하지 않습니다",
-      "url": "https://www.financialjuice.com/News/9862359/Traders-no-longer-fully-price-in-a-December-Fed-rate-hike.aspx?xy=rss",
-      "ts": 1795203376
-    },
     {
       "source": "CNBC",
       "title_en": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
@@ -11504,6 +11497,13 @@
       "title_ko": "앤스로픽 역대급 IPO 추진, 2020년 이후 최악의 '뉴욕증시 테크주 폭락장'과 충돌",
       "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
       "ts": 1795279116
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Worried About Black Monday? What Wall Street Says Could Happen.",
+      "title_ko": "'블랙 먼데이' 공포 확산…월가 전문가들이 전망하는 향후 시나리오",
+      "url": "https://www.barrons.com/articles/stock-market-black-monday-crash-wall-street-a06dbf99",
+      "ts": 1795279270
     }
   ]
 }
