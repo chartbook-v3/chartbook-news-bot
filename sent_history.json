@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795249325,
+  "updated_at": 1795249475,
   "id_hashes": [
-    "3820a0de283ae4187b39256be3e2b75777ee9352f58ead5b5e39d76df1e8f6f8",
-    "dc6969ad39c5a05f7cb3cb67375cb9dcdab950ee81eacc26fee9a6cd51f8e34e",
-    "77ff6bb69944d7fa9a1c45c4068c8e2a8fd7ef54356c9e8cd976ea7532f25efa",
-    "1546068c503fbadd9c2202c0340281728e46eae8647107be56f84744c7800da7",
     "af3436bb8c5cbcdf46a9b04c0bb0235e5f3999d9c255dcfec3205f7949cc549d",
     "3cbb262f527cb87f27e5b3d59ad4cedbee758cbd51919ac705720f438105309c",
     "f13e21dffaf432d25d58fb3c58ec60579e8d60500e9bac1e9f55281ca74b1f54",
@@ -4000,13 +3996,13 @@
     "518e96d5c345b06b27a0c99c7eb2b8e71c4961d9873329207b3f374e8b6cac85",
     "525cf8e7ebca81575b53f15f2f73e78273f53d7c0ce81b773c4bd951647edbcd",
     "f65123d39bb1f9c0098d37f1b3d4adf78ba069cf42b785c7d64f53002394d61a",
-    "5fc88bf9e4eebc69238f462a3dd935594eff995854e44f47a96d33fc166c91ff"
+    "5fc88bf9e4eebc69238f462a3dd935594eff995854e44f47a96d33fc166c91ff",
+    "a698c2510758a09361c0d740c7070bb444db04917002bac242fe6a6b440a6b6d",
+    "455dafa515034eff51c9dba58ac97af0d77b068820b5ef9c42ed973431b0f0d9",
+    "ac5b03936c3067afbd298c7835e639f42b9651f9e1cb052defdbaadc41e31e62",
+    "c6be85d05db561d63baf8b15bc8149ffc64dbe59967443c2dcb8f6d1dd9cea89"
   ],
   "title_hashes": [
-    "17d87e166f4c88648a391b6e20ef9982e5e973700fe07af2b4e4ea36b76ac92b",
-    "8516abaaa5ab7a394517064eba047bb41f3721de81118140d030b3ea35da2126",
-    "4128c9d0c1c151f335da6b720df5e9bdd077ca1a5565c7d3ac409e9afdfb768e",
-    "a296a8e28dfa0021047519811a14bc7ef862981eed3f28f4fa2110e0eea981a4",
     "2e00a1c79043ff2f97b921d399314bac91f4a7ca5f89efb13aff953eaaee2ecc",
     "ae1a27f6325333570005f9111db2c316679785db72d9bda3ea927419cdabfb2a",
     "f72beb3b4850f356b1fe29f7f3ee9b86770c7def1515883c6c8d791d0dfdff6d",
@@ -8002,16 +7998,13 @@
     "a68bed1cd316cac710ff3c4a6425b7198417393f621b64f7d9dce75b3f781c18",
     "57362c4a58210bf9f0b164557d5aea7d6b1e3c58db0ce9ed4857befcdaaa1a72",
     "e0d51855ae3b17491bd2f82f53d036c14e745d696858def92642478c2aeb34e5",
-    "101e6914f541f77737feadf72927f6af0b1c2c9d6f491b193a5fc47aa4ad34a1"
+    "101e6914f541f77737feadf72927f6af0b1c2c9d6f491b193a5fc47aa4ad34a1",
+    "7c61b67a1136e25b30db0c0f1da32d78c31396927abb263cdd24899efb0e8426",
+    "947661afec5a6a5a84480bde2016b9318c9442e07ab66368c81581906f5489cc",
+    "2441f8ab5c4d82b9fa30c3fec01bbef22327fbc1ea866ec23772bd88050fccd7",
+    "7ba406576eb384d25d579272275d8d23539b62a388ff4abcf5b36e87d982b30b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "The Verge",
-      "title_en": "Jensen Huang’s charity is spending $350 million on CoreWeave.",
-      "title_ko": "Jensen Huang의 자선단체는 CoreWeave에 3억 5천만 달러를 지출하고 있어",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038792/jensen-huangs-charity-is-spending-350-million-on-coreweave",
-      "ts": 1795196384
-    },
     {
       "source": "MarketFeed",
       "title_en": "TRUMP: COMPANIES MUST BUILD DATA CENTRES WITHIN THE US, NOT OVERSEAS",
@@ -11504,6 +11497,13 @@
       "title_ko": "삼성 49인치 오디세이 OLED G9, 아마존 블랙프라이데이 33% 할인으로 역대 최저가 854달러 기록",
       "url": "https://www.tomshardware.com/monitors/gaming-monitors/samsungs-gorgeous-49-inch-odyssey-oled-g9-hits-a-new-all-time-low-price-of-usd854-amazon-black-friday-deal-slashes-33-percent-off-gaming-monitor-upgrade",
       "ts": 1795248424
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Meta's India offices hit by opposition protests over account removals",
+      "title_ko": "메타 인도 사무소, 계정 삭제 조치에 반발한 시위대 난입 및 항의 시위 발생",
+      "url": "https://www.cnbc.com/2026/11/21/metas-india-offices-hit-by-opposition-protests-over-account-removals.html",
+      "ts": 1795249474
     }
   ]
 }
