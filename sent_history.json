@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795262189,
+  "updated_at": 1795262340,
   "id_hashes": [
-    "7a66a8a0d51352b31f728837dcfed37f12aed2744afe37372b85c0c4f955f562",
-    "c30857e7cce62f2d7871ff84f000ae8a5f58a84617788b1ca125438347f02d18",
-    "abb82edf37b525d8d7a7226d62f3682180ecb7283398842ad0dcec2b6ec0251d",
-    "e047c3418a14746b43953f911f36f1a7de615e5b3cb4ecfdb1f7f68061deeb17",
-    "d1a1d7f2a9a94724f84ab6c19247fa9f2b135be08bbd35b7300347c9d4230460",
-    "94155cc26f08dfc7ae97081fad22e50f6bf93d1bb6c915c736a84586e1be0fc4",
     "7ce2efa81130789259ad05d9b971984e5617b24c7f5e6bdd641213d7f90587af",
     "cb105ad24063958c703b0d4d9d95947f68792a2d00a36b158bb746a06e581d35",
     "363e0951ab3e199edc4e3375a11a7a0acc5743bd6dc14a7c55bcf5fe2636d3a8",
@@ -4000,10 +3994,15 @@
     "ac24c09c8585cbf5486dc41867005e90adcbe7a07e3d8fdc9bca3c1e69864c29",
     "694eda8bd3676002f225dabda554dfcdeb38e9126091ad38ae6b7095d62d1191",
     "88f17a069fe339918929467b6f947eaea07e7788841d54fe11e1a572058c5b0e",
-    "6d15a78208de0c3246ebdfe5b9a9ccbb328f1b4c6a110fac8b6bd804f833b36a"
+    "6d15a78208de0c3246ebdfe5b9a9ccbb328f1b4c6a110fac8b6bd804f833b36a",
+    "a04d0eb983153977a1e62af0816d27737c482e5fc4f1a38f2c5e6820400f9dbc",
+    "f0bacc58fba78a9160b779b0a72037a337a282eb4786343007767381596babd1",
+    "75880beb9f27ed07fef9bf45d99119c218a68c7c1d22a5ec7ceb31e04fc241a9",
+    "d7e3cb21813d30e99ca99b2ab183475595e30d0a8c9187349c4fe3e9153e4cf2",
+    "298486d25bed1892d948bc1ad958d6043aaaec98ab0d9993622231983683a147",
+    "4a5656c1337fb294b266b93c91ecdb130147260544e4e95c09a8818da657144d"
   ],
   "title_hashes": [
-    "3dede8617f687c9d3af99c327d001623e931581f0a75dcbccc5f121229551d24",
     "aab677e175db2e981c7e3f520cc9f02d3d6ad449d4ffd327982ce33fef26138a",
     "5d0f0d7ab7099be4c054b5806c11c6f0cd95510488c9f1a74a06d5d123ae70ec",
     "bd6abafd8b37284248b61a7a8d26a23aea87b3b4623b92b3e054fef9400b39de",
@@ -8002,16 +8001,10 @@
     "06e6f9060348d2ee932c129ae385fa1a01e388cbf3b479d23863901f8287649f",
     "4710dcb51c79fe9222a1f45b3aa6beabf0b2c991db822ce6d812d7f114c17364",
     "eeb18240a6546357af7b7ae2a81ead731c0c7ad9258aee6a69b9f905f37a80e2",
-    "fef7a00e3b1906fa381f3cef8a65be08ae4c4b07f2d2a2ba9ecebc2730d94bbe"
+    "fef7a00e3b1906fa381f3cef8a65be08ae4c4b07f2d2a2ba9ecebc2730d94bbe",
+    "3d4b4c85bac6fa65447b4e93a8dff8ba64247ce048a02b483bbcb2bf024055d8"
   ],
   "recent_sent_articles": [
-    {
-      "source": "StreetInsider",
-      "title_en": "Scheme Effective and Completion of the Acquisition",
-      "title_ko": "계획의 유효성 및 인수 완료",
-      "url": "https://www.streetinsider.com/Globe+Newswire/Scheme+Effective+and+Completion+of+the+Acquisition/27380913.html",
-      "ts": 1795200560
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Two Soldiers From El Salvador Die in Haiti Explosion While Working With Explosive Materials",
@@ -11504,6 +11497,13 @@
       "title_ko": "젤렌스키 \"종전 후 우크라이나 나토 가입 여부, 아직 결정된 바 없어\"",
       "url": "https://t.me/firstsquaw/194821",
       "ts": 1795261977
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Zelenskiy: China summit was very unsuccessful for Russia",
+      "title_ko": "Zelenskiy: 중국 정상 회담은 러시아에게 매우 실패",
+      "url": "https://www.financialjuice.com/News/9862959/Zelenskiy-China-summit-was-very-unsuccessful-for-Russia.aspx?xy=rss",
+      "ts": 1795262221
     }
   ]
 }
