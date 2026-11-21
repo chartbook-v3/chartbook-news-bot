@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795260668,
+  "updated_at": 1795260827,
   "id_hashes": [
-    "d92bbda007d4b26e1b59b29c31de2473709a0ce90fe902e57f9112b3b6ffdf71",
-    "1ad4aea3c4e59864f99cc222473772ef4a435942f8f19b59e0af49cb0bb49595",
     "2b3300011b0cc414abeb1040a84b57a421d355a61974328ddd7738cfe5ec7882",
     "291f76ffad1f858f63efb13a60bd61922437904a71ab4da11d3c6fd738d824f6",
     "703e75b21d536a4710bfd04591b83b632f5e090545031e5d8106606a3b4110e1",
@@ -4000,11 +3998,11 @@
     "74d30ff9e84a971252347654600b37d3ef57c758249f03753efbbc917f627246",
     "5c950e67903e8c006d503c464af009b340841a213e4c3732a8127fbbb4a6fbc5",
     "0a4cfb1c7ca0f6ed7f503918d3e40bf4b193568de3e29941702cd7efbbbcd114",
-    "5d89c7a08227f86e2919a0c37ecabc5c831079796477285c2787aed08b6a69ae"
+    "5d89c7a08227f86e2919a0c37ecabc5c831079796477285c2787aed08b6a69ae",
+    "ee90aecd139f20f09b02c48b425fb5177fb7cb8ae0300b4448804f6762ab82e1",
+    "f74b117df3c490708a5f9a2390a8a2bbdadf78a15b2aa4d168173c7310ad6e85"
   ],
   "title_hashes": [
-    "2e140151302ef26390a8031d899f039f874d7d3de56873eadc1ddaa7852d18bb",
-    "9b98f527d239d7c56e79993dd184b7ff73d24646c2948202677cf84540856325",
     "4ad2d5cb2030ed5d1c1986afbb315ac80136f70f7bb08a06c1c5abea4709a922",
     "bd58608775b010ad3854bae1534463cf362a2a10671e05a33d9e533ca69adece",
     "186d61cecdc22e04409af7e98765d931478425b2daf1007c7099f0fd3a030994",
@@ -8002,16 +8000,11 @@
     "7bbf8afdd3c89830964bd6f89ad10a602ea64b88ee1086f911370b826d04fc51",
     "ef4f0dc5f027778103045baab03dc0d0095937c97ede0b8102acfbb000ce70c4",
     "41e13d3c6c4c107b871ba48eada031e614a1eab000246877d3568c6611c67e42",
-    "912f8709c923a591c719e731722b81d4b1509d6204a4da7289c2b7269ec1f592"
+    "912f8709c923a591c719e731722b81d4b1509d6204a4da7289c2b7269ec1f592",
+    "d323b9e7b5da53adb515fa733b1c477732b55dd43ccc39e04ed3827aeeca8512",
+    "8ee2667ad2408fd5302f6b7872d0602655611e50e0d7675b7ba7690b6abfce2a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Fed's Paulson: Open to considering consecutive rate hikes",
-      "title_ko": "연준 폴슨 \"연속 금리 인상 검토할 여지 있어\"",
-      "url": "https://t.me/breakingmarketnews/179529",
-      "ts": 1795200491
-    },
     {
       "source": "BreakingMarketNews",
       "title_en": "Fed's Paulson: She favors raising rates in a deliberate way",
@@ -11504,6 +11497,13 @@
       "title_ko": "러시아 와일드베리 CEO, EU 제재 며칠 만에 사임 보도",
       "url": "https://www.reuters.com/business/retail-consumer/russias-wildberries-ceo-steps-down-days-after-eu-sanctions-media-report-2026-11-21/",
       "ts": 1795260517
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "One gigabyte of Wikipedia losslessly compressed to 105.39MB with self-learning AI transformer model — 'tufazip' needs two Nvidia B200 GPUs and about a week to compress or decompress",
+      "title_ko": "자가 학습 AI 변환기 모델을 사용하여 105.39MB로 무손실 압축된 1GB의 Wikipedia - 'tufazip'에는 Nvidia B200 GPU 2개가 필요하며 압축하거나 압축을 푸는 데 약 일주일이 소요됩니다",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/one-gigabyte-of-wikipedia-losslessly-compressed-to-105-39mb-with-self-learning-ai-transformer-model-tufazip-needs-two-nvidia-b200-gpus-and-about-a-week-to-compress-or-decompress",
+      "ts": 1795260826
     }
   ]
 }
