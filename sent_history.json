@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795226441,
+  "updated_at": 1795226603,
   "id_hashes": [
-    "02bb1a168a28b8647344c7c994542a9e9a7de1032780bcf5fea2c9f85b35a31e",
-    "edd9be1059c9138747eee5fe783b0412249d554fb565abf50c8cb9ed312efde4",
-    "4d0dcedd87b619921083fb19d279c86dd7b9569d56f2fc64ae7dca7021752b70",
-    "f39048e151b3b5cca9c0d4e9726048f42c85da250da3fe76d70d5946c9555a69",
-    "b48088a7b8ccad9fe3e7c876be0e1a562649cfc37de814a0fb402990d88e5f40",
-    "5a539c709bdd529277f0f793aa87c1466daaf6a6742ca3f23420bea505bfe515",
-    "7943630271c96d9304dbe1855ac292f87a60b81c5e5704d9dbc9baa5b578f2d5",
-    "e0dde7eec7c3acdb3839aedecba6e3b01bda6861af4c808f07908a6aa311ed45",
-    "77befda946f829e43e61e7851c39686ba083c4b277702eb249509e451d845bef",
-    "12d83b954d36c37cce2bc10032e820d04ec2d2b9989ceefdce6c6c0857a718f3",
-    "9a7a91e32ad1cc6f6eabc51f876aa92a069ec335b3365e2bcacd85da4f65b688",
-    "4c91fbd2aa9324cc4823d75557642cee5645d0693cc46b1dceabb63e5da05d77",
-    "9a35b24adba7d7fdc1bb0029d84b646d480fe64cdd6f675af299c59401345c3e",
-    "2eb050317c75badd2df7faad02d8868345b6ce9a63221c6e1c58558191279d8f",
     "dd6d8399b7ace02b81252951a098844ca77e06e68571a1f4df7e327a41b44e09",
     "3437b46f710f48feb8b0a9b932fd6ee624231b4417a094c2edb8b2a8e3823786",
     "cf5f53ed734f5bc6c9e8331496c20750525c9172df78e7a65bdf409456f2d558",
@@ -4000,20 +3986,23 @@
     "b9c2141df21c7c43c4db65cd39ad1f0a280910909cd319a791753c801d0780a7",
     "4337324c3f1d0d4ea54b5985aafb96a3eb5c1c0fd46dfd8448412906955970e8",
     "8053079560b7f47ec8327304180621dea63fd8f8c41c994fa3cf46d1ff51e640",
-    "183cabd48769678025d4763daf8097e53547eb90785bc13e9b48b42c60f36e24"
+    "183cabd48769678025d4763daf8097e53547eb90785bc13e9b48b42c60f36e24",
+    "4b2531a61eb004b1bf5bcf52eb40c0bf2ffc15b7bf56384657ba93a1f73540bb",
+    "7acedcbb6358bd38e4a103df0a9b1d5786175b24675c20f9604265fff2c7e30f",
+    "33818443051b2f22ee41f4c29650b5b6dee72be10fa52456e1b9cc11305b528b",
+    "1091646d75a0850498a2b30a72ec34cc8e6ecd2d47bf8efd2e8d95360f40eced",
+    "77b662193a003ea31cda3af77573a658a043b0001add74e288c86f8305026d23",
+    "63a4f9d9d1891f70b4b1043817788b7595f8bed1b3ae08415af19171c705434d",
+    "c36ade5d498ae724cab5934c8c081c771e74f8c49ecab9de854986dcdf56c7a4",
+    "f6a2a3acccf63577caf024a76981b63e3f372242591a0eb491b24c08cccc89a5",
+    "03c825c9666970013bfdb240b36cb97bd11e898f6036a488e1786e7dd345a3a4",
+    "d8136a41f1b3510b4f200a0195a37169a449a040c2af5450fac0afe83b87f9e7",
+    "72b19eee5ba24db8ef8774b46e61b7be2878b8278b1b16cdd045b26ac581acd6",
+    "c8fce05361e9fe142238b22fb7eabaacc06f688dd1f43f71e16516ab63dc8679",
+    "a61d19cec4115ee45cb93ab09b009d5c188bd7c754b729ae18dfa11cdc37dee4",
+    "77e97be4db9ab349037505110f553aeac47311653ac6934bf725bffda4b126b6"
   ],
   "title_hashes": [
-    "685f91d4136268f61b58631e60ba1349035a1e3be48c2f78bf1b4ff2fa9c5789",
-    "9287c0af0854a299920e3236526e09aeebdf49e794e808a4038038cb036cf4b2",
-    "97624321b069b2fef79c4669c195f772ff1cd6ca03f41f8003553f2e7d5da494",
-    "18bf1de72385a4c8d8da3d38564b5aa36838d3b685a310238d7b3764e902a5c5",
-    "5b0932c2d30649cbe844c48785df3415a12596cade64ff1ad88724ab51a55070",
-    "263e35e4060b462aac70a4c4e9c9b8158b8f2d1da3da2100611b0d3193f5ab69",
-    "0add327d928f8c959c70e0c06d3d3fa68d0d7606d533ba9fb10b6e4bb723fb43",
-    "e5002b41071cca2f9d6091d5ed92271a4c2f6747ed158ada092d56ce62c4a507",
-    "b8dda79266cc1dd5340638f0c3c6fa738ba0886434c6d7484350518c86f39e57",
-    "7d449588f82cfd4d411fef29b72400e5613bfc674829e09ea1263de13216a340",
-    "8be05e47982114905613bea0c28ed24a0a6ad4ae16bb80cdc8c90042a1381e69",
     "11700247961bf57fd9b2704e675fa604a9fd2c1d457ad68e5b19f294e321ff82",
     "8473dfc5bdfba54938c881cbc310b116b49fd6395286fa63e21d36681b14b7ec",
     "71de59d7649f76e0a3cecce428a871371fa6ce08f63299213f5f09ca698964ea",
@@ -8002,30 +7991,20 @@
     "83c7f04aacc1b5ce37adffa55f7a5fdf27af321277ad5cd9e5bbfe6611ea8352",
     "383d6b4d1ce6b34313a8a77f4e23e6e474affc7a5611d65b49b4caaa7215cd00",
     "d2ec307fdf43e08f764582c473ab1484c992d2a8e9735c5c218cee7be4809ca1",
-    "07473a29b74852012341ec1b38ed680813aecb5db54759bcce86b78c4c7f1776"
+    "07473a29b74852012341ec1b38ed680813aecb5db54759bcce86b78c4c7f1776",
+    "2cf45eda7b0a05773c30bc5734bb1e2328be2b16c05e0afe9f25581af99f6225",
+    "c26f41c4e2557877dc9980434fd2226f0f34eee339c046cb6beba9addcc02a37",
+    "743ee99705dc5312351dd73804ffe6ceb53720554777d51cb904c2b10308b5c4",
+    "65b22b1a6dff98f15e8a4a74fdb0a5ad7e440b5e1218a04c2364f6bcbb5f6ae8",
+    "adba4a7a9d9f8ae218fbd01d3c09f861db3a30f923f1b7ae04bdeef7e5bfd2ae",
+    "02eb281cf8b030559892d41b7abf7f336f506a1a9427a556d8ef72a097e58a73",
+    "f1dd53d7041d126b2052d55021f1bca0ef3d3d72fe603cbd9d684174bd23cc3d",
+    "5ea6c2fb18b5a7219989eaf29012ab21948be64430a82f67b52419847510202a",
+    "f6acea4dcac44c370ea57e11c5b881b56941a207044d15193462121b966376db",
+    "cad989c050ec9c626e9ad0e8f5d7948c65752fc757d2333bd64d84dee26d5519",
+    "75d9cb368e6f9b72c4f1161da55286f8108bcb2c49aacb59299737b9b7ec0f9e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "IRIB News: Explosion of an oil tanker after hitting a mine at the mouth of Bandar Khasab.",
-      "title_ko": "IRIB 뉴스: Bandar Khasab 입구의 광산에 충돌한 후 유조선이 폭발",
-      "url": "https://www.financialjuice.com/News/9862071/IRIB-News-Explosion-of-an-oil-tanker-after-hitting-a-mine-at-the-mouth-of-Bandar-Khasab.aspx?xy=rss",
-      "ts": 1795192133
-    },
-    {
-      "source": "Reuters",
-      "title_en": "EXCLUSIVE: ABB considers robotics listing if sale to SoftBank fails, sources say",
-      "title_ko": "[단독] ABB, 소프트뱅크 매각 불발 시 로봇 사업부 상장 검토",
-      "url": "https://www.reuters.com/business/media-telecom/abb-considers-robotics-listing-if-sale-softbank-fails-sources-say-2026-11-20/",
-      "ts": 1795192441
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "VisionWave Holdings Acquires Critical Minerals Intelligence Platform, Targeting Near-Term Commercialization of Defense Supply-Chain Intelligence",
-      "title_ko": "VisionWave Holdings, 국방 공급망 인텔리전스의 단기 상용화를 목표로 중요 광물 인텔리전스 플랫폼 인수",
-      "url": "http://www.streetinsider.com/Globe+Newswire/VisionWave+Holdings+Acquires+Critical+Minerals+Intelligence+Platform%2C+Targeting+Near-Term+Commercialization+of+Defense+Supply-Chain+Intelligence/27378319.html",
-      "ts": 1795192468
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Savara drops after FDA says it will not meet molgramostim BLA action date",
@@ -11504,6 +11483,27 @@
       "title_ko": "북한 김정은, 트럼프 회동 무산 이후 군수공장 현지지도 나서",
       "url": "https://www.barrons.com/news/north-korea-s-kim-visits-factory-sites-after-apparent-trump-snub-15c843a9",
       "ts": 1795225987
+    },
+    {
+      "source": "WSJ",
+      "title_en": "The Brother-Sister Duo Who Want to Keep Anthropic Weird",
+      "title_ko": "앤스로픽의 '괴짜' 정체성 고수하려는 창업자 남매의 행보",
+      "url": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11?mod=rss_Technology",
+      "ts": 1795226595
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Capricor Therapeutics announces FDA's Complete Response Letter for Deramiocel BLA",
+      "title_ko": "카프리코 테라퓨틱스, 데라미오셀 생물학적제제 허가신청(BLA)에 대한 FDA 보완요구서(CRL) 수령",
+      "url": "https://t.me/firstsquaw/194728",
+      "ts": 1795226597
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Capricor Therapeutics announces regulatory developments regarding Deramiocel for Duchenne muscular dystrophy",
+      "title_ko": "Capricor Therapeutics, Duchenne 근이영양증에 대한 Deramiocel 관련 규제 개발 발표",
+      "url": "https://t.me/firstsquaw/194729",
+      "ts": 1795226600
     }
   ]
 }
