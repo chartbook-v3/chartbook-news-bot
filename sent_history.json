@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795299156,
+  "updated_at": 1795299304,
   "id_hashes": [
-    "b38136aa12f3d54b5d7c3f7453652e9e169d4a47d8174bbd94c6721f5fe8c2b5",
-    "b7133d8ee40bce1aa69738ae75385ccfd2febd475ce4f5ffc8642403c629f632",
-    "5b9d7e3a70d0c6e7b72250acce8eb7b03f9cbc2af4fa250cb41f82d36d538e65",
-    "0329b8d4dd749e59f5b8fa1dbf0b27dd38142ca03833fd9ebf6944ba32d9d0b1",
-    "1a94361dc2d32b22a1bfbfd1710920fa67e889ed7d4fabc8109a0d2b74070726",
     "2ec8519a7893374ff9eee480a91ca78e2826eec7bd32e09957bfdf2725eaf954",
     "cffda99bc135bf9ab2a4bddd545e621ae545860e91e4320c824d771fbb1ccbb3",
     "75b296fa451c7ba0654372dff08e6e25dcdb2deb4488155ba921532322f49632",
@@ -4000,12 +3995,14 @@
     "cc4c7376fc78c7ea90505021de9ed3a50f6e87f79d73e6cf9d927c2f9e1c509f",
     "f4588bed0c6fcf08b6fd17643889d4bd90cc653dd16a034a04bf6dc48dd658c2",
     "be03be174dd4e96d53478bb202a0561cffe07c4c34cd1f263712f596a5e4062c",
-    "982de11d9b0ebc862fd37a25c5969724514dc0d71a5bd876d492634e32012672"
+    "982de11d9b0ebc862fd37a25c5969724514dc0d71a5bd876d492634e32012672",
+    "781c1f552082ddffc1f4612448b788f19a679a6a9b32eabed898dfd3e2791235",
+    "2b5b76a267808864f78b9981a8b0ef2019298a91c8bfd8af47df15967b15a602",
+    "988c459442b22ba519a9ef01eb2e736bc7aff011650a6ebba3630f2c320f5bea",
+    "4c3b38041e6fa4471b74857527080b72cb13afe81cdb70386c1ae1278289f6ff",
+    "9b9ab55214de9c5298b6827a0e3c3f28e0be9493155dcc622f25edf08677d0a2"
   ],
   "title_hashes": [
-    "34d147524e7f8ace3ad663ae787a6870d4ca0769200a9ca4db09d4e9fc0504a9",
-    "6dacf85165b8270fd42898d0dbccd34eda2ad1d1afeba97fdc73ac217fda5404",
-    "522906f139d44d83b8133906bb334048afa36cc713159ba0d8c1664b436da6c4",
     "dcf915f60f0099abf834e9ff12ddb38037d3027f48bdd469cc9d49803901f443",
     "da9b705fd4bc8297b6f24b6565eba865f268b44ce6bedbad9ee09b24d0f9ba27",
     "2802808f5efc42ae7e3297ef78fb1d4fa0d98f4bea137b4c5c27a40487c249ed",
@@ -8002,16 +7999,12 @@
     "0c0d4b40a9f9af22e567f4d0dedb666772afb9f4922ee5caafed2e708c98d26c",
     "2ff06e469afbc643e29a77894568b668050e1474b378ab55d356465d85ad4844",
     "61c20da87a82f9202f0cca5a38933eeee62dea208dc5be5ed9a60686865cc624",
-    "d2b4825ba2ad780d08a82bc884285a51e775cbd76b1e0f7fb81bb55e978f8baf"
+    "d2b4825ba2ad780d08a82bc884285a51e775cbd76b1e0f7fb81bb55e978f8baf",
+    "2514d3d7a74f1497dddec1395093584961edb2c54963c45f0a9fe8374a891377",
+    "c68c75780ba0aea321de92f6006f74270016a9da4d9863342c9bfcee3c88e46c",
+    "b167d0d2000583b0329e05be3aa0b38af4467bfb11b292c490bbd031ef82a85c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "The Verge",
-      "title_en": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
-      "title_ko": "유튜브, 30억 달러에 소셜 미디어 중독 소송 해결 준비 중",
-      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
-      "ts": 1795207558
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Trump on Iran: We're being patient",
@@ -11504,6 +11497,13 @@
       "title_ko": "FDA 차기 국장 후보군에 암 치료 전문 CEO 및 RFK 주니어 측근 포함",
       "url": "https://www.bloomberg.com/news/articles/2026-11-21/fda-leadership-search-includes-cancer-care-ceo-rfk-jr-adviser",
       "ts": 1795299155
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "아이폰 테두리 전체가 '엣지'로?…애플 '4면 곡면' 디자인 시험설",
+      "title_ko": "아이폰 테두리 전체가 '엣지'로?…애플 '4면 곡면' 디자인 시험설",
+      "url": "https://www.news1.kr/it-science/mobile/6361136",
+      "ts": 1795299176
     }
   ]
 }
