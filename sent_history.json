@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795299934,
+  "updated_at": 1795300088,
   "id_hashes": [
-    "bf92a3eeae432cd30501936b33960399f2c415c1e53b0128a04a11587ea9cebc",
-    "6409df614e985853ace5f95c033d0177cdf6f979881ef8e8d37a776fbc483884",
-    "46a5f0798616d077bc3c4a9680b60267e3f1cb38e923c6f002b4ea96f45375d4",
-    "e935cde7512517d54c60114063842dba49124ff7f32668adabe9e07e320256e8",
-    "a89c4ce00f44ed918c2e1aa10b63cfb61ac9b194f0584f73027dc84439a07226",
     "791dbc803c23be913eda54472d85dd2c18d6750fb39ac2ea93b80d74b427ef25",
     "e1b98c780ec38f8109918fb2cf78b72ed3dc5c8006cc9e728e6b36b0a515c78c",
     "30f0035b81d9f519de75e2630dd8b511bb87bd8ac0c66a5c1c291367956492f4",
@@ -4000,13 +3995,14 @@
     "40d2bb2e4759409decdfea1caac3a6b6d8ae0e040934479a78edba071aec127f",
     "dad6509998f6a328eeeaf5ea72baf6f179bab687837550d471bac4c95691aa72",
     "68f3d28f972e032dc71f0f58528db04f4b4b77a823b9ac0b1750ac82a9fb474f",
-    "ae9a4b32fd230395401cdef05cc8d28c0f6a1b0367d8812fe2392619233609b6"
+    "ae9a4b32fd230395401cdef05cc8d28c0f6a1b0367d8812fe2392619233609b6",
+    "409697f69765524d0a45b8faa1de9161ba4c1ab274606d3bf6232c80b5d086dc",
+    "0b7382fedf4b987a0ace63dbf870f0bee54bf464ab7c1a12c0a6b5d047ab94d2",
+    "48f6286c010c19ea852aa5199dcc074dbbfdf1fcb68c96fc736021916bcf3d3d",
+    "c3a28c890c1bca7f4c0a723d8b620691086b483f052bc2c5df48655f1c3f861f",
+    "a28868d8968ad2ac10ae1aa0ed4617a6571d88f13bf7ec9770ad4658fe0826ad"
   ],
   "title_hashes": [
-    "44440151c501d9834af3bcfb46f64f91f799e282985b225fe22c3165e9992dcf",
-    "b5f15f3c4f3a4b7999673351a364e9ec8c842e28f8c4fe8ece77834b2219d235",
-    "bce86b01ac7d6ebda6ff2373545e031a589c713906a8a688feff8b9128a68526",
-    "1c573785e59558ea7a3dbefe94b0e3d236c19790db6d3c9ef54d7f29106f98ef",
     "4a3c8489c52d05999e0961a1ffa3865ca4e67a71b756570222a0780d365882c1",
     "c8792825896b0c6e713b22bc058639f2e7f75d5f19defaa1b79b36434d112c97",
     "951a7336f0470e8fabe1a59734fec7e47f47da925053104c8712bff189cdda28",
@@ -8002,23 +7998,13 @@
     "deb3670f84bb76320a00527a4e68cf3819307197d9ef0b628c2e3af292fcd8e9",
     "85637fe43757b5f64edb89796440fc4d0f37a0869c840417bdcb250032395521",
     "dcd02aec4243b6be37dc0e4d92d119d90c3ad5233b91a515c2c9cdffe7a1a0c8",
-    "0c9158f0d44f30ff354b07c2cabd72fa4825dffb7f4c02b88f200950ecd8dbc9"
+    "0c9158f0d44f30ff354b07c2cabd72fa4825dffb7f4c02b88f200950ecd8dbc9",
+    "cce8e2aad9857aacf329218e11cec655a578e86c76dfe312888f26c2b431c9d7",
+    "6dc9566c8db3b398673a85c48bd131be35c70aa3b9efd2af9c9bdd175feb60c0",
+    "8aa1bb5d229dc8c626eaabe9761f377e4b4042862ecc136fecd1a85ebddb4f87",
+    "b6134c8d4586d68abcd65cf330f716bedb2ec12bb087adb4dc8e781465e54365"
   ],
   "recent_sent_articles": [
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "🔴 MOC IMBALANCE: S&P 500: -2356.6 MLN",
-      "title_ko": "🔴 불균형의 힘: S&P 500: -2356.6백만",
-      "url": "https://t.me/breakingmarketnews/179557",
-      "ts": 1795207866
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Invesco S&P 500 UCITS ETF Overview (SPXD)",
-      "title_ko": "인베스코 S&P 500 UCITS ETF(SPXD) 개요",
-      "url": "https://www.barrons.com/market-data/funds/spxd?countrycode=uk",
-      "ts": 1795208017
-    },
     {
       "source": "Benzinga",
       "title_en": "Chip Stocks' Worst Two Months Since 2001: This Week On Wall Street - NVIDIA (NASDAQ:NVDA)",
@@ -11504,6 +11490,20 @@
       "title_ko": "iOS 18: AI 제외 아이폰 신규 기능 중 가장 기대되는 것들",
       "url": "https://9to5mac.com/2026/11/21/ios-27-my-favorite-new-iphone-features-other-than-ai/?extended-comments=1",
       "ts": 1795299933
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "AI 안경 쓰고 기내 생중계…스타링크 부작용 우려 항공사 '골치'",
+      "title_ko": "AI 안경 쓰고 기내 생중계…스타링크 부작용 우려 항공사 '골치'",
+      "url": "https://www.news1.kr/industry/general-industry/6361610",
+      "ts": 1795300085
+    },
+    {
+      "source": "디지털데일리",
+      "title_en": "美 FBI 해킹 당해, 농무부 시스템도 공격받아…트럼프 \"부정선거 파악할 수도\"",
+      "title_ko": "美 FBI 해킹 당해, 농무부 시스템도 공격받아…트럼프 \"부정선거 파악할 수도\"",
+      "url": "https://www.ddaily.co.kr/page/view/2026112207245152357",
+      "ts": 1795300087
     }
   ]
 }
