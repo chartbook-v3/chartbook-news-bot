@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795225235,
+  "updated_at": 1795225386,
   "id_hashes": [
-    "5de3ca7714ba71f4ac65cc4b0e408896e8e3196ef822a9bd6570802ac7cf77fd",
-    "75c567756d9bb8e65a7d68238055b74e6344da8f677e3e227a3f61a01f5956e0",
     "432d6624a2ca2cca0b8324a7fd08d13277b139443e5db3b4c79e3164ddaceb52",
     "559ddd2a12fe7cd7ae994c8e68cf86d5faa074e6f82813623806c9e049885208",
     "392ac88d304c442654f15161435f165f2d15e8b0206388ade6ebf29b3bef7862",
@@ -4000,11 +3998,11 @@
     "ab373654c2b296c8c54f36d84146cbc108f77584a4390007d2e1f223a35842f1",
     "8e27c13bf8337dc8dda5408ca650bc809076b66fb33e0be14b4bdf0f69c0827e",
     "52c4d306902954f9bdc90dc26d24a282078ca96b193e2194cf40d999841bcfcf",
-    "c6690042684759050831d13a48ff234ab935b2a08ed8b5c2d40bfd71568ae1c9"
+    "c6690042684759050831d13a48ff234ab935b2a08ed8b5c2d40bfd71568ae1c9",
+    "d7ece48d5dadc6872b3081b548c9eac71d161b21ae5918832590e6c4abd64e6c",
+    "053a6eca1bc145033c190d0962ca900df44c0bd09a97e31854d17b4ad23c582c"
   ],
   "title_hashes": [
-    "0cb953d1b8c52d6f4feec2c48febf648d19563de418163fd54d1bf7459db334d",
-    "a329b7b1d9bebd3976e409884dd66939c242a8b7bba67923f3f2820bd7727285",
     "8028a3cb73bfa70a64b57afcb8948261f6d504963d2ba0f5e258306210a2d002",
     "2934515341c83ca9b104d8e1f7373f8fad0a0fb1ebaa51b5f40a4af1ea506e1f",
     "047a09c67578f053c4a06a62387b6e36cc174d4b1951fdb9fb24fe73da8b422e",
@@ -8002,16 +8000,11 @@
     "e2d85da047df512f81f4eeeea09baa48c2d1ffac1812cbdd29997607f13f4b0b",
     "f687063baf7e7b512655bd284fc932b9adf4e5488a4931318eed573b60d532ba",
     "9d0e6ec4d085530efac085e36d448c749a20b041aeb39731406678506b6b8429",
-    "6084bb4d5589eb2a554c98b8e0b5b97b7e4e85d154b5d2f6c11e9cc1060ae633"
+    "6084bb4d5589eb2a554c98b8e0b5b97b7e4e85d154b5d2f6c11e9cc1060ae633",
+    "33a376cb1d4e9f422dbaf602e1432713b71a5aa10bbf2fd6d0417720c380a827",
+    "7f0105bcd418d67d7bc747df172a16344c13cf6bee2446c035fcacfa5eed5ca2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "THE WHITE HOUSE IS HANDING US A COPY OF THE STATEMENT IN SUPPORT OF PEACE BY THE RUSSIAN, CHINESE AND AMERICAN LEADERS JUST BEFORE THE START OF DONALD TRUMP’S PRESS CONFERENCE. -",
-      "title_ko": "백악관, 트럼프 기자회견 직전 미·중·러 정상 공동 평화 성명 발표 예정",
-      "url": "https://t.me/marketfeed/1082692",
-      "ts": 1795192076
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "受AI板块抛售影响，卡特彼勒股价正面临逾六年来的最差一周表现",
@@ -11504,6 +11497,13 @@
       "title_ko": "암호화폐 가격 2021년 VS 2026년(11월)",
       "url": "https://t.me/marketfeed/1083061",
       "ts": 1795224166
+    },
+    {
+      "source": "서울경제",
+      "title_en": "삼성전자, 메모리·MX사업부장 교체…황상준·최원준 선임",
+      "title_ko": "삼성전자, 메모리·MX사업부장 교체…황상준·최원준 선임",
+      "url": "https://www.sedaily.com/article/20117202",
+      "ts": 1795225385
     }
   ]
 }
