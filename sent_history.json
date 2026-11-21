@@ -1,7 +1,6 @@
 {
-  "updated_at": 1795281632,
+  "updated_at": 1795281784,
   "id_hashes": [
-    "a7751535a3fd2f0fe2ac0ff27871c31b5b7bfbde685f4cdf50eb93821fbda3d9",
     "66cff543970b48b0a33afbae2850cecdccf62ac767696abcaa2a5a5df0802f50",
     "c80331a262570592ec1171c8e47139069c5c761f283899e4697ceaa282b13e48",
     "b1a6e0af120f2c09535ea0fd1256b0cc58784b35181239671026424ede30589a",
@@ -4000,10 +3999,10 @@
     "b05d431eb3c9f623135fe589c02711d7681db4968fcbe26e0cb09a99aec224c5",
     "fefc77323d11648606196b72fc3c989b23c1411573983f605206f039cb021502",
     "b3280ba44ec3034c52eb952bfcd94186f134a214da9459b43e6f1a85805c7ef8",
-    "778e9e1a585a4a273c2fa1201bc200c4b7d97d90290e5f8f955ecb40c0d9dd64"
+    "778e9e1a585a4a273c2fa1201bc200c4b7d97d90290e5f8f955ecb40c0d9dd64",
+    "3d9813d5a43ccb7756ad965053c23e1e6b7a299151c2dff53469a8ffe39d569c"
   ],
   "title_hashes": [
-    "7fd817797223ac69c74de1c5c69bd4f5992df4f6c233f4bc8ce549212495f2f0",
     "d9ae3bde66262aa7db8c3cbde945431f45240c1adcc8514c2e98281dcd6caa23",
     "1eace52655cb816a95f4a016c387a3cdd2e07737d692ea5b6bebc38de75cc081",
     "10007222e64e8e8f04914494e352733ab163d3e34c478147e746958eaed2b190",
@@ -8002,16 +8001,10 @@
     "845e1f21a09da544299d668590b76ab7adea87e70142b7db169d8c9cb54d73f5",
     "ba175979e8b97c773ce8ad04ae4d019ae220046b3d10bf01c286ad570a2de031",
     "232e155f9c7c1fd038f9d29d386cc1a49ab966ddaa114a4dd633e586f2a63f01",
-    "56ffac1feb152733d82b4ddb8243e6d6261b40659e8a8755548fbc687e233a76"
+    "56ffac1feb152733d82b4ddb8243e6d6261b40659e8a8755548fbc687e233a76",
+    "175bf1c68d7b272f762ba5e84ebdccba38b382744af03abf6d135bae6abaafe8"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Barron's",
-      "title_en": "Second US Judge Blocks Trump Plan To Build Triumphal Arch",
-      "title_ko": "미 법원, 트럼프 '승리 아치' 건립 계획에 두 번째 제동",
-      "url": "https://www.barrons.com/news/second-us-judge-blocks-trump-plan-to-build-triumphal-arch-d22dd2e7",
-      "ts": 1795203829
-    },
     {
       "source": "Bloomberg",
       "title_en": "Trump Defends Ties With Putin as Russia Steps Up Ukraine Attacks",
@@ -11504,6 +11497,13 @@
       "title_ko": "구글 워크스페이스, 제미나이 도입으로 소상공인 지원 강화…첫 6개월 20% 할인 제공",
       "url": "https://9to5mac.com/2026/11/21/how-google-workspace-with-gemini-powers-small-businesses-get-20-off-your-first-6-months/?extended-comments=1",
       "ts": 1795280616
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "California Nvidia Probe Covers Potential Criminal Law Violations",
+      "title_ko": "캘리포니아주, 엔비디아 대상 잠재적 형법 위반 혐의 조사 착수",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations",
+      "ts": 1795281783
     }
   ]
 }
