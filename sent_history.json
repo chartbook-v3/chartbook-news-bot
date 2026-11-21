@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795286122,
+  "updated_at": 1795286272,
   "id_hashes": [
-    "2ae48c0a96bf2ede9ecdcb4fc4e47799f65836823c15e4c33ff866dbc6eacfd8",
-    "b8580c2f2806ebe81af534c4b8f4d984a7ad6dc7dd0ca322780a18ce2d5f3245",
     "3a81d1a4aae47e625f8d092ea701aef2f7a2a41465d14e6b73f4f968ecaaf104",
     "e35bc443e6daa1e74f73f57a80585e7974279ea348f25585a1a3e60751e6f1fa",
     "65210c96ca432dc56d594924ee3dc6a2381c790948e76343004948af6297a3d7",
@@ -4000,10 +3998,11 @@
     "f0a5501df4f5bc4438669667f94f91c0760cb4bdf631eae8b0658b2e29123650",
     "e4740db5426a71bd64b3e8db24e98465c930814c25d900c1e6bfba9b5ee33a79",
     "82256850e97a8d2b0fe353a7939428ed40d0426d86db97e97b2bea44a04559e4",
-    "3137b25fda743c92f3f24ca49eadaf727f86e670d284bf99d7d06a3172d52e27"
+    "3137b25fda743c92f3f24ca49eadaf727f86e670d284bf99d7d06a3172d52e27",
+    "2bd8f1235e25681068cacdd44f27bd3cd7e939fca46e8182b5ca27dabe0c1944",
+    "47e3252f1c2a7d84166701504e70ec14324f21d7b79901c73e82b158e9ed7ebf"
   ],
   "title_hashes": [
-    "1e82e593e432e852e31d04858d48affaa053a7513e76d4206a42496b47111a5b",
     "f8d268ba40ac242f1cc350c8753a271a2f65b5764a66b3a0a2b3849825c9a3e3",
     "ef64ec2172d8dbfc7f93e29bfb88eee5dc56948295e1c676fd0f43f1a4f347d7",
     "793e5b357cd3c9c1881b2aea8eb1509535e4bf6feb72eaf73385e2cc6fc9d9fd",
@@ -8002,16 +8001,10 @@
     "6953944e710ea2551cca4882fc9bd4f5e3867e9fe3afbd48153ca07ab05a9925",
     "3b7273e9663d1d1ecbb4e6144146cfa6aca32735142f51df47e6bb38480acd10",
     "8e94fbd6b1418ac7ea0269d02313ad38bab8d69b4eba36a1ed80f105537a9c75",
-    "106871f212c9b9dd5689ce4aa45135bd8940d07a384254d094d5fc6817469f69"
+    "106871f212c9b9dd5689ce4aa45135bd8940d07a384254d094d5fc6817469f69",
+    "b1f5dbc4e89daa40af6da4e19c14466556ae3c88afe3496260ec7fbe34a8c444"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Barron's",
-      "title_en": "Troops From Europe's Coalition For Ukraine Train In War's Shadow",
-      "title_ko": "우크라이나를 위한 유럽 연합의 군대가 전쟁의 그림자 속에서 훈련하고 있어",
-      "url": "https://www.barrons.com/news/troops-from-europe-s-coalition-for-ukraine-train-in-war-s-shadow-94fa31cf",
-      "ts": 1795205048
-    },
     {
       "source": "Benzinga",
       "title_en": "Can AI Help Find Blockbuster Drugs? OpenAI Tests It Out",
@@ -11504,6 +11497,13 @@
       "title_ko": "일론 머스크 자산, 테슬라·스페이스X 부진 및 AI 거품 우려에 하루 만에 640억 달러 증발",
       "url": "https://www.benzinga.com/news/26/11/63516155/elon-musks-net-worth-takes-a-64-billion-hit-in-a-day-as-tesla-and-spacex-falter-amid-ai-bubble-risks",
       "ts": 1795286058
+    },
+    {
+      "source": "Nikkei Asia",
+      "title_en": "Japan weighs scaling back missile and warship purchases",
+      "title_ko": "일본, 미사일 및 군함 도입 규모 축소 검토",
+      "url": "https://asia.nikkei.com/politics/defense/japan-weighs-scaling-back-missile-and-warship-purchases",
+      "ts": 1795286271
     }
   ]
 }
