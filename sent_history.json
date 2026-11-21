@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795270481,
+  "updated_at": 1795270630,
   "id_hashes": [
-    "aa4ef62d6d42e9c596b28644a5adc8957c3e4bd3f00015eaaec9999e2205043a",
-    "00690b5f1b61b203e9b8a9bf3d92f9facb0f59f14ca0c2f7e58c0dffc1216a57",
-    "161e39caa21d874e156f7668eedb79686286c0994ee15fb4c1115a3ddf60b578",
-    "425d418467a8338d3c7aa157e9dcfd03fc897e61fb44bb3cafc4e280f17597bd",
-    "61c8d25db575446893727a9f05350f6577f2cca42567be381715e989d16c510b",
     "faf0c2be903116ffff64b2efed5c0c74482920eca6ae00e4813e4539231034f9",
     "910b43cda0e52620d22c01c25e70057e75f538b8fe734c78bd537c414fae63dc",
     "d79ffb1eae6f67ee17298ecac8bc658e32ab344b57b1e242c19ae41a4a8ee0f8",
@@ -4000,12 +3995,14 @@
     "d983007394fa394ce53199a0bbcefe416387e022b2a1507f3f9ec964cd1677a4",
     "a77d76a4c2c3aaba756e39a3f47e6d4c917f580ddf10cce4084b077e21111a0b",
     "146228f4549eb14ebaff9a44c916b09eef66ba62f88824410e98edf8f8a24621",
-    "d96997df283f610bd456726c3b18f2b349f0eaa107b67ae7b9f6a9da3629bd20"
+    "d96997df283f610bd456726c3b18f2b349f0eaa107b67ae7b9f6a9da3629bd20",
+    "68a6fcef5f126445c9ec98daf56ac90e7876f82ca2ddb75583511382ff6eb197",
+    "a6b71c26965b6f7ab2fc0023d3abf20742f718439b8e1050ae1f15eecde11a1f",
+    "2229d32baecdb949a3a0401cb271f2669ed8318e23640b5a1fecb514496f0acd",
+    "1aa4eedc184118c3e84639fe0537bd0de6cc9efa44b85dea062a8fa749c08cd8",
+    "5a52eb607c911aef88ba9623aaa663965b0448aafa4fe505fce1a9c2fe8cdfd3"
   ],
   "title_hashes": [
-    "1a9d6df30ba0e4a947e91a0f8435e29dab619e8c2526c382a729abc0456fed6e",
-    "711a0ac874fee16ef59fea2d66339442deb1a47fded98e2e366cdec04499655e",
-    "a24de3e52d3fa179b9ba663b80a8bca051fbe033160cb35a67ad94c564db899c",
     "f39885421004355b8554fd095888a73f1c3284b10bb82b645fbff398cc5fb8b0",
     "8ce1c55b3fb47af1fe3c44bfb426aeeb7bb54850899a2f0be1389a0e68aac50f",
     "6f1ce3302f085c3a6402f782fde9048b285b2cef771ac2eae141b67f0775a7d9",
@@ -8002,16 +7999,12 @@
     "ce1602553bf6567f06aaa4172ef5ce1ffdbeba71a56466cf1a2d44a5686ea724",
     "ad3088bde3df267991bd48cc5eb39a35d0a07a3589ab02887c809587c6020cfe",
     "ffab815dfe69ad25d0c561fad5ae08b02ef2b4b8aeaa6aa2d156241f176fa31f",
-    "bcd1f891b69ed628aead0e5f8e52ce4c682dcbecc6b3b83f1d5a5dd1857880ac"
+    "bcd1f891b69ed628aead0e5f8e52ce4c682dcbecc6b3b83f1d5a5dd1857880ac",
+    "9557084bcd3afa0dfde73d06e80f7e0fcf62548a71da59b8039dd3e2f9c2a6c0",
+    "70911e1d42dc8bc3436a4820b6e837702b66857d714d6f4f4021ed01407c5721",
+    "f294e70224453038271275484255f4099dabb837d1dd32a77042bdd0e6420ab6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Trump Plays Down Tensions With Vance Over Iran War Critique",
-      "title_ko": "트럼프, 이란 전쟁 비판에 대해 밴스와의 긴장 완화",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/trump-plays-down-tensions-with-vance-over-iran-war-critique",
-      "ts": 1795201097
-    },
     {
       "source": "Axios",
       "title_en": "TRUMP ENVOYS WITKOFF, KUSHNER MET QATARI OFFICIALS THURSDAY ON IRAN",
@@ -11504,6 +11497,13 @@
       "title_ko": "인텔, 16코어 '노바 레이크-H' 사양 유출…터보 4.8GHz·DDR5-8000·TDP 25W 탑재 전망",
       "url": "https://wccftech.com/intel-core-ultra-4-series-16-core-nova-lake-mobile-processor-specifications-leaked/",
       "ts": 1795270480
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Iranian deputy foreign minister Gharibabadi: Gatari team visited Tehran last night for two-hour talks - Tasnim news agency",
+      "title_ko": "가리바바디 이란 외무차관 \"IAEA 사찰단, 어젯밤 테헤란 방문해 2시간 회담\"",
+      "url": "https://www.financialjuice.com/News/9863020/Iranian-deputy-foreign-minister-Gharibabadi-Gatari-team-visited-Tehran-last-night-for-two-hour-talks---Tasnim-news-agency.aspx?xy=rss",
+      "ts": 1795270569
     }
   ]
 }
