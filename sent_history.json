@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795258993,
+  "updated_at": 1795259155,
   "id_hashes": [
-    "aa186ab781ae31ac74e6a06869f053f30f95b0b53486f71eef86ea3299ecbaad",
-    "474f45d10a3f628e45e4c96964ab6be6fa11a50e65777bf315249693d0cdbe3e",
-    "6c613bf6a8d154a7db859a067861d12ae44878e6d61fb3da4d418e3a2c2437ed",
-    "df15e5b71a6a5866a71bd4e98d39b572ddeb77229d898bc06f72fa7be239dd04",
-    "15bf2e16cc8276eb8a6f75ac4fcb621bbf1f64904edd7afb212e26124ba189c3",
     "0fc85516d07677a48a1c2c8c4db42b07d6ffa5f1d79a9cea4f26d104a9225c0b",
     "5aa242e0d47eb95c56e6ef690cc3903173e9eb2974b8ea1b069d0fd498a3d826",
     "c435998525c4d07b6b3415241ca5cce8461aba29c5ba08735d805c46bd7104ce",
@@ -4000,12 +3995,14 @@
     "f55931f71dbe6afef19ef2072383b4feb2ef6ffa02a1592168727813a7c1e30c",
     "c2679ec5f37eeca9cdcee62d36e8b90c08830f9f3d2bd985f813b22baed9a8cb",
     "f460c7449711dd3913536196738349d2a485fc25b0f409339553f2ec4ec8fed5",
-    "6b02b66f33f54acca746241c7689ae0a4e5142a40d5a04bf79664a39854154b7"
+    "6b02b66f33f54acca746241c7689ae0a4e5142a40d5a04bf79664a39854154b7",
+    "d8464a70ead8b421309fd1b818fa7477b99548c0b04a082a6b67c93a86630439",
+    "2140c68f01d92e2bf0963184abe79794f12addd815b3f0d99194b3418ae725b7",
+    "3f5b483c063fa005e5c37561480212d272024b159af22735410661b8613c5767",
+    "6fea6392b886677243d3d9e95c1cff941bf4d752f5efab90d34c8a649995ea77",
+    "e5fb720e3156c6d6e16da51c2ae3bae9019810448b2fc1abca1b41f8fb8ce5be"
   ],
   "title_hashes": [
-    "84c07fe3c3e218ae0e6b7acab5a0720c6fa8ad09abb21c73b9c69f8a9c4a54e5",
-    "da4f8174e953af4a93ef90ef1db49be42ee9e530a03699ba0399d3ad7ce399e6",
-    "1f8e33fa1df772f86d33b443ed336d097f33594c3809c7568525ee20c2fed703",
     "a0740172a7391794244d83384b6b51d1362af28d9ce68d55d544f92fbb68c9e8",
     "b1189ee945772aea0a4878511d4dd3a36958f02050163d908a296cc20b9afdc3",
     "74e4577f0b3a6e2544f0f623a9b2c5a3136836355ac47079125d80066ca6f865",
@@ -8002,23 +7999,12 @@
     "63f1333c2c4dd9bbed0a8e6df946a73fe17b6bf439027c4bd383a40ddaa3adfb",
     "4e7639a1b8388793e204a43bc93d8bdc83f54086a3ede84084dc8e6d960a9f35",
     "d4e3914e144f2a21736db5972050e9276a139145074c00027be5789020927fb3",
-    "458f4e9baab1acfc53e0df2962ba12086929b57b78395bee97489ae3f7094e6b"
+    "458f4e9baab1acfc53e0df2962ba12086929b57b78395bee97489ae3f7094e6b",
+    "7aa869328c7b815cf326caafc8c65b87edd5a49f67427aaf82a028bdfa84f625",
+    "893eb47f6385e0c305af63dfcd7ed5d0fb879cf32156b384522892b192f14318",
+    "673bfba5e9e6f403b13cbecec8c0c89e8f8792bcb6e99c83b9f26033980ec3cf"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "TRUMP: FIRED CYBER CHIEF BECAUSE DIDN'T THINK HE WAS GOOD ENOUGH",
-      "title_ko": "트럼프: 자신이 충분히 훌륭하다고 생각하지 않았기 때문에 사이버 수장을 해고했다",
-      "url": "https://t.me/WalterBloomberg/38840",
-      "ts": 1795200437
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Trump Explains Firing of Cybersecurity Chief, Saying He Fell Short of Expectations",
-      "title_ko": "트럼프, 사이버 보안 책임자 해고에 대해 \"기대에 미치지 못했다\"",
-      "url": "https://t.me/firstsquaw/194696",
-      "ts": 1795200439
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Trump Says It Is Premature to Address Ukraine’s Security Guarantees Without an Agreement",
@@ -11504,6 +11490,20 @@
       "title_ko": "러시아 \"크림대교 철도 운송 전면 재개\"",
       "url": "https://wallstreetcn.com/livenews/3203662",
       "ts": 1795258484
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Iran releases footage of new underground missile hub with double-launcher: state television",
+      "title_ko": "이란 국영 TV, '2연장 발사대' 갖춘 신규 지하 미사일 기지 영상 공개",
+      "url": "https://www.financialjuice.com/News/9862936/Iran-releases-footage-of-new-underground-missile-hub-with-double-launcher-state-television.aspx?xy=rss",
+      "ts": 1795259093
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "IRAN SHOWCASES NEWLY BUILT UNDERGROUND 'MISSILE CITY' FEATURING A DUAL-LAUNCHER SYSTEM",
+      "title_ko": "이란, 이중 발사대 시스템을 갖춘 새로 건설된 지하 '미사일 도시' 공개",
+      "url": "https://t.me/marketfeed/1083179",
+      "ts": 1795259154
     }
   ]
 }
