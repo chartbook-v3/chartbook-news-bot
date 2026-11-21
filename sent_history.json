@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795293708,
+  "updated_at": 1795293861,
   "id_hashes": [
-    "3b6410edfb2eb26448015bfaec67244a1ee5e6b1f77be10f3dbe710b7a5bc2a7",
-    "7718a7c52a879130c2d7eff622603252d9c5638b8c12cb1f650bd03bffec3851",
-    "220161a4db8bd85ae186404bec2dfdcbea347d03c7c4a505ba458bafb2819df6",
-    "e754525df142fd8788f485155f815a43ea8f1ce252a3b6a03a57f264a8f360a5",
-    "8abc9873963c27cd78c996da41f25c679f6818c402579ab3facaff47a398358b",
     "b17038c3bbc14937cb1b74067c65f044b364d37f958f09cb91287c40e27a00e5",
     "9cd54b7f7770bdcaf326692663d85ff999e5a73402acc5f449313a13c8ffe097",
     "1db9d173899f5b81b6e1ef92663632648f04de536bbf98f55e78f0f32c9256ba",
@@ -4000,12 +3995,14 @@
     "2f6ed4a9b93f5cf2319c5ab397061105a8e885994a5665ce28a8871d899ca097",
     "c3ff9bb0e8079bd64bc46fb7052c44d7fd54d5dfca972b37b7a6a2add07b984e",
     "6055387fb1dbb6ad3a83304afe9e39ad18e906ce96893b72827082333bc37b2e",
-    "0761d745b76c9ef90da1df443d321a71d4710078f2b4a04ce0e301f660f45f1d"
+    "0761d745b76c9ef90da1df443d321a71d4710078f2b4a04ce0e301f660f45f1d",
+    "47fbc96f2e5498fbe8517422baa105cb634017fe141cea05b9e1669914475713",
+    "6b2b5923f0199ecca6f92184a4e1e3958d07cccdff956730a8537e63251ebb4d",
+    "a38c658bb29eead25390fb67a963967c06b5c14dc87ca2e3fba5ec1fb23623ad",
+    "a631b19b35ad63ae380de84e3386520764c095283e41760f4e73365572eaead6",
+    "f5a976f5b5a3b61ec569f56bb89c8339b933d04ba1aa004dc7e3060606da512e"
   ],
   "title_hashes": [
-    "880c55717987194ddc69bc4d118568861de37fe34aac69e6cc3af806217a07f5",
-    "9aa2d07652630dca9bdac4744b94bdc534d61268240468e8b71da983dad5fe4a",
-    "310c67f6bb3fcfa5490607b6f1d36ec4b347067d74fbec218732a26fbe369946",
     "1ea774060c25c72c41105eb4638fab80cdebec0c97f40a16c54d4dd907f3ff8a",
     "c36cacca455d371c5211428f7b00e188627ed836e60a50cd42f33918addb4196",
     "64b2866fbe6ffcf6a421173bc7d68013870eb4f6aa09b5fbca8af73e54258a18",
@@ -8002,16 +7999,12 @@
     "43e30c26bb345928f596d7c11383bb329c44275a20627a896e77b41cefaeb7cb",
     "1aedbd1cc73cbb92ac5560c45e5527ff22b3731b673cabe3e512f97d07d6c686",
     "615edf28a8051e852fd2e89e97c59761099fb9233b70cc11dc01e47b2c4b6f26",
-    "c732eb68ef37f4368f218a12d910954386099e1a063a19883fdeed8228f49e45"
+    "c732eb68ef37f4368f218a12d910954386099e1a063a19883fdeed8228f49e45",
+    "a4013188f6e0b22354b155761a417362420baaa9b4775cb02b2db71b438c5676",
+    "18dbe48c24ab03dd16c53aa86f57703df7f9ddb6f0e756df96207d3e7a0057b6",
+    "1f7295020c55ecd88ab4f2e9e61c4c34a9b74702b72671e36a30b3889912c44d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "FINANCIALJUICE 2.0 IS OPEN FOR BETA TESTING 😍😍😍",
-      "title_ko": "FINANCIALJUICE 2.0 베타 테스트가 시작되었습니다 😍😍😍",
-      "url": "https://t.me/marketfeed/1082985",
-      "ts": 1795205833
-    },
     {
       "source": "Benzinga",
       "title_en": "Grandstand (GRSD) Stock Price Target 2026 & Analyst Forecast",
@@ -11504,6 +11497,13 @@
       "title_ko": "애플TV 앱 'Salon', TV를 액자로 바꿔주는 기능 출시",
       "url": "https://9to5mac.com/2026/11/21/indie-app-spotlight-salon-is-an-apple-tv-app-that-turns-your-tv-into-a-picture-frame/?extended-comments=1",
       "ts": 1795293264
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Nvidia Stock Has Suffered $2.75 Trillion Wipeout as Charts Point to a Drop to $100",
+      "title_ko": "엔비디아, 시총 2.75조 달러 증발…차트상 100달러까지 하락 전망",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63516255/nvidia-stock-has-suffered-a-2-75-trillion-wipeout-as-charts-point-to-a-drop-to-100",
+      "ts": 1795293860
     }
   ]
 }
