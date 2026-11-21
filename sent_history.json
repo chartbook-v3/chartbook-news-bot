@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795221598,
+  "updated_at": 1795221751,
   "id_hashes": [
-    "573418dd2f0b59e3b0b55dc65cd16ea195808e492fe326f16cb6a610ba653f8d",
-    "45ea8b0473f3aa1b785bbfaa59133d7b9447f0280552e10f95c1bc927497ac3d",
-    "f1eca916e27bb70f3b6edddc0a7297f3ed6dee5adb824df5cba265bf9465ce6d",
-    "f8f220bc7dd5fc143746c540157ddc73d151063d202f95cc23db2b182ff06c3b",
     "cd520c440eebffc12294d1efae611bd9279e2ee54ee4e1354f71496de3268250",
     "8d5f18cce044550643c43fc8c4e49b5bd34137e7c710d83cd83bcfd32215e8ce",
     "caeb1c9768f78cfd3920c15011f8030a0477bb648acd14e1f0258350ded048fc",
@@ -4000,13 +3996,13 @@
     "f2c38d9287e7166b2db32ec8b07184b04f75f8d529ceb9a349b1b7c19641312a",
     "b4405db2da30b4aa3d86f0165f6a804bca6cebb8e31130c1c5f21ad4e8d24664",
     "670b3c67d8580e832f131371d598b21b6dadfe966d1a2097f17ecee59e2bca7f",
-    "ebb48b69584625b7a506179e9bf9cc43a108dc790156014a1256a68af8d1427b"
+    "ebb48b69584625b7a506179e9bf9cc43a108dc790156014a1256a68af8d1427b",
+    "092ee50a294ea44dd7a71c12009dbc2dc616b5cafed774f6fc1e46de353e0417",
+    "215deca0bf1e3e2ecccdf642d3821f93dc97d4bd5eaa32ef6c4c88cc4b11f169",
+    "55a959e16918ea4253132ad62ce5f7d76752c8431207eba832d4e21debe9c069",
+    "0b77145331dba1c1fb843cbfd5da5fa86562e04ad789e035922a8aa40beb6334"
   ],
   "title_hashes": [
-    "e2a52a60ad07588cc99d388e37a43cc64196e2bd6d3c2f66410c73c466261c6e",
-    "8d87c5fbf56f7fe5f77b60e097ce3e5c47ad07464785fa6dab092ce9266ba913",
-    "bb25731e0131f6812476a64aafde5783789b13c21b53d2f6c66256d0c54a0781",
-    "52a8081c9ac28b2b4ceadefaeb734a292be4b5ef79548472d328c8efe27552c5",
     "e45fc539cf007b577dfd1a971e3311026af690e383536435b571832b8b581fc6",
     "01fe45a7dccbe013f3e5e5f763d2435f25572cdd6701ff6d92b8eea835a5e69c",
     "ba31665ca620f36527a88f6cbdceca0747636cb9bc8532f178ed51f201732717",
@@ -8002,23 +7998,13 @@
     "d51c911afb749e4bf5dad0c12dbaeda7898902bf1fa791efb2054155482890e5",
     "10234e536332dcaebc90674a38c8f9f08736744ce30b57e00d801010117e3d0b",
     "b481d69e35b2717ac30b48e2a58614f0efb95ac27cb8b905d3c10ea6ba56d00d",
-    "64f4192ef750469a4da7e9084d9370a2d0291b333890ed02c760893bff1fadb7"
+    "64f4192ef750469a4da7e9084d9370a2d0291b333890ed02c760893bff1fadb7",
+    "784f2a75be3bd95de18b9adee424bfb23f152ff972f6658147eda83e60e933d1",
+    "7f923dd6435884e50a0375c4f04e790b21a8eaad894e0abac513a96a55bc823c",
+    "32d3fd732bb6f85252f4499c229bb7b2e8fbb39388b61f0141d1c1f863e22ba4",
+    "02fbd6fba2360d46cfc37870517269bf53b8f7a7c1d71b8353bd905988d58569"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FT",
-      "title_en": "TRUMP ADMINISTRATION HAS TOLD EUROPEAN AND UKRAINIAN OFFICIALS IT WANTS KYIV TO REACH A PEACE DEAL WITH RUSSIA BY EARLY JANUARY",
-      "title_ko": "트럼프 행정부는 유럽과 우크라이나 관리들에게 키예프가 1월 초까지 러시아와 평화 협정을 맺기를 원한다고 전해",
-      "url": "https://t.me/WalterBloomberg/38785",
-      "ts": 1795191669
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "JUST IN: FINANCIAL MARKETS ARE CRASHING",
-      "title_ko": "JUST IN: 금융 시장이 붕괴되고 있어",
-      "url": "https://t.me/marketfeed/1082683",
-      "ts": 1795191672
-    },
     {
       "source": "WalterBloomberg",
       "title_en": "DONALD TRUMP SEEKS UKRAINE PEACE DEAL BEFORE JANUARY: FT",
@@ -11504,6 +11490,20 @@
       "title_ko": "월스트리트 위크 | 게임 블록버스터, 의료 비용, 사이버 보안과 AI의 만남",
       "url": "https://www.bloomberg.com/news/videos/2026-11-21/wall-street-week-gaming-blockbuster-cybersecurity-video",
       "ts": 1795221301
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Capricor Gets Second FDA Rejection for Muscular Dystrophy Drug",
+      "title_ko": "카프리코, 근이영양증 치료제 FDA 승인 재차 거부당해",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/capricor-gets-second-fda-rejection-for-muscular-dystrophy-drug?srnd=prognosis",
+      "ts": 1795221747
+    },
+    {
+      "source": "서울경제",
+      "title_en": "美증권위, 엔비디아 회계조사...‘싱가포르 매출 제외’ 주시 가능성",
+      "title_ko": "美증권위, 엔비디아 회계조사...‘싱가포르 매출 제외’ 주시 가능성",
+      "url": "https://www.sedaily.com/article/20117192",
+      "ts": 1795221750
     }
   ]
 }
