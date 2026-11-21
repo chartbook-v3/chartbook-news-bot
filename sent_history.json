@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795266761,
+  "updated_at": 1795266928,
   "id_hashes": [
-    "67cd9e6edbef035e68e723f1ac7a452fb28f351fd498058052960feb15728815",
-    "c937602d8da5c0baea824dcca86d0ddfb1faa719f4815188806f21da57ae82f4",
-    "15c704493eed9cc92f1911b4d57a080de186c6b9dbbed84c910a4681464facd2",
-    "ad8d1a60fc10f8c54ec7b6b390fb9000d8d18fa4eb3c5e762c463f94cab7bef1",
-    "4657428b5242a507cb20f49c3286e62b0787fbbb0d0ed687967588edb45f3799",
-    "f5da3324be1b532752f60d6bbb3bc94734700063ff18675327d95d86fcb157a1",
-    "1ed07041aa4d54885783dadb305ca68fabc0a4caaca126957d93856187bdfc66",
     "3ee46c86dec1df7b7cba803bde9148468153e1b1a376c3b99627c4ff0f8e5e01",
     "d70caf9a0b71ae3261ecfcaa3a48d8c60941da8df3cd6b1aab55c16bc8b57673",
     "b6009f0ee2f470f28a2c12e897e74e5b946a1c653d9950f33321e0d2506268b9",
@@ -4000,13 +3993,16 @@
     "6661e1b4f23123d6b04ccec8e2268004e2289bcd14f41544b1a57543a6df34f3",
     "e91370f839b18329c539d6bc0c24fa767b97b4c8a5e9f71a485c5d02707bd0e0",
     "fcaacad1b12c6a50d13d447c8fb19b139e1cc8a2db892036491a02ce34251adb",
-    "84fae98d6e21f1be26a94076c907cfaf2bf45c4c7528d2ea1660b7d35af1494e"
+    "84fae98d6e21f1be26a94076c907cfaf2bf45c4c7528d2ea1660b7d35af1494e",
+    "e70b04c5734e0aaa8df49bde544357bc2222b2eed68ad77f7fd330ee4289f2bc",
+    "a786f2c6a4648c69e0691a152aae1c690ec5a12e952dc22fdb0f83a2ba712723",
+    "68ddb63e63875391aaf333c24f6d6a46c5fc682ff1b75d5a494e15a709c20f16",
+    "814ed00b38f9fa59f655e7e25fec2d166eeefb51e18d4e7946c7d05e5eaae25b",
+    "105cda2363fb4e9b92604073256c9f855857409915e83ca729e62fc2206dffaa",
+    "40da3d58e7e33d352b034c769a480cb0fc9beee530116ab70a01ab5567715a6c",
+    "409eca1c8197f17dc3df3301e28a8cc5251aefdb461d199e9a4caea8d0dacdc8"
   ],
   "title_hashes": [
-    "8281ed0bf96bc6ee424c4bbf1d9d14cbb1d7dce0d911d059bf5480590af386fc",
-    "1d61b14dce444f989619a9e820b2f5b30e9bb0d155036e1f1e68942d3c30b0da",
-    "0e988c4af796dc2a7f28a4931a002319ccb67e4ae5a3ff5bf46154216df00322",
-    "d0c87a49468bd25228a0f8ef8bdb233a26c441ed99fc8f62b852b86f2e404654",
     "531ee02cb461b044aec1b014543aa724b613ceb90c6c0abf4f80aa4969137b04",
     "9365c67d7be11686db35008ee01afe2655cc44a3ab8b56b6949de3f5b0aef83c",
     "31371bd6696e6ffb25f602b0a46bd571cb62c2d255e2b304a17f98f6bd74b395",
@@ -8002,16 +7998,13 @@
     "37e6e28299032dd57e783f8931a0798d1ffeb662d090f51e9ca8d331b2120c42",
     "f3ac314bd67a856e435219d759bfa3d22a955aecbe41a80b5c1e1e1350108299",
     "468a21bda64215286ae767d5e49f274b882ce6eccd799af27babf610592e4951",
-    "7d5d2497760e238ae03bc00325d51bfe40efcd245c6176c4bbcd52e537edded9"
+    "7d5d2497760e238ae03bc00325d51bfe40efcd245c6176c4bbcd52e537edded9",
+    "32cec0e973772e5b540e5346ec6d304f5e4f2888ece2f7867eecbcd33eb4ecf9",
+    "dc5f764ec9c4f86bd0c99649989c62bb351f97774c135ddc6f0868a3089468e4",
+    "b573b25c1734d80b78cc711eb2430a9900fbdc41fc576dd8ca9ee07102fe3280",
+    "ec693c4e472904491b813486b247c306eb0be69334d61713f6f12eea568ee8a2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "SEC’s Daly on a Rapidly Evolving ETF Market",
-      "title_ko": "빠르게 진화하는 ETF 시장에 대한 SEC의 Daly",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-20/sec-s-daly-on-a-rapidly-evolving-etf-market-video",
-      "ts": 1795200669
-    },
     {
       "source": "매일경제",
       "title_en": "엑시큐어, 뉴로Q 지분 20~100% 인수 추진..파킨슨 기기 확보",
@@ -11504,6 +11497,13 @@
       "title_ko": "MSI Crosshair A16 HX RTX 5070, Ryzen 9 장착 게임용 노트북은 Amazon에서 400달러 할인 — 시스템은 초기 Black Friday 제안에 무료 게임과 함께 제공됩니다",
       "url": "https://www.tomshardware.com/laptops/gaming-laptops/msi-crosshair-a16-hx-rtx-5070-ryzen-9-equipped-gaming-laptop-gets-usd400-discount-at-amazon-system-comes-with-a-free-game-in-early-black-friday-offer",
       "ts": 1795266760
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "U.S. Central Command: Our forces have continued to enforce the naval blockade on Iran with a high degree of professionalism for 130 days.",
+      "title_ko": "미 중부사령부: 우리 군은 지난 130일 동안 고도의 전문성을 바탕으로 이란에 대한 해군 봉쇄를 계속해왔습니다",
+      "url": "https://t.me/firstsquaw/194827",
+      "ts": 1795266919
     }
   ]
 }
