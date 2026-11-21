@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795234401,
+  "updated_at": 1795234554,
   "id_hashes": [
-    "76b031805e2271c3f693a4f6853c4288f16e93127bd5f271c8e6a1bd5c5a6a0e",
-    "ca1267d989d039113c35cd57e6120ed3f11670534db53fd651818f0d79897b1e",
-    "61a14e2f956c6f069254400be802634be1cc80edcf386b9e8a09bc74aaacbe91",
     "1e69b70113eb5bec236dc852df9e1aa368b068ca24451f7b833cc9937d37e578",
     "85f194d10cdd02adc505ff19e31eda2dc43d373943a66a056928d8f818d9e987",
     "2061a88611d297d2710272f635d7ecdd01c7663f862ce92bbf4e59c7795c6333",
@@ -4000,12 +3997,12 @@
     "710dc064a8c1528e6eb363d3f07fa97b90f753b9bdb8d146e12af14df74f5aa7",
     "670e60c932e4e45adaa29dbbcedbde00aa9af6ac0df24bbf7edbb7b9216ca0a9",
     "b65c829efbf4cea1f483d6af5e122fd4f3c60a55050fbfcfbaa93cb871849f2e",
-    "eb14122f6167d64f70b3e5b7d596b98c2d6dea70aaaba3d02699023566ad1886"
+    "eb14122f6167d64f70b3e5b7d596b98c2d6dea70aaaba3d02699023566ad1886",
+    "cd06d3ab44d2ec4c2f90bd51bb8089abfd79935b37ef83815dc004607a916022",
+    "76ef1a5e0b9709b3df6d20ddeecb0a0f503772dc5aed6d09ac6eebdb62544124",
+    "1323e66defd6223003ef49f38f72e500464da8bfc7075db406a80f11699ffa2f"
   ],
   "title_hashes": [
-    "46164509be2d09b849619a7b8df65944fb14751b21a484dcd6ac327b50d2e777",
-    "faf651e5e6697cdca3fc5192bfbae91ff10268295384d537f3e32dc1325f70f5",
-    "c4918405dd2c17e744612bc20db921d94c7c626fff3c094ccab322444ef03dc8",
     "da0b6b63dd6ccf2d67d6b56064b44a808b1b88b3e8d5ac243ed2e6e121c20e5b",
     "a0e060b6bc3770220e2ef60c7c1c4664f2e4b931ad3a266439fc0e951db42faf",
     "027f3a37b62d9ed1699a4752d1bfa787f2ce92014879391d900057f0857b5efe",
@@ -8002,16 +7999,12 @@
     "e416a4e73d8890c8ad0b3f22c0c29be58fbc78255b48779927524a32c80b6ee6",
     "1849d4f2ef1af58ad7c9604256b852119d6f6311f36dd80063a96d120627da2d",
     "d72aa9f762fe4b030e0599ab7d9d92d10e28813347f72eda71fd7754dd421a0c",
-    "c3aace7ae26117088858c7489a5fa8269b255b7ac1a4a80c9e0d4ab5c1747885"
+    "c3aace7ae26117088858c7489a5fa8269b255b7ac1a4a80c9e0d4ab5c1747885",
+    "ed731b30e54e33609b8f73ff58e5520db8b3b9e62c9913ef2caabed5d90ee30d",
+    "4d11df733ba72521fbf0b851231b142910669b438a7df36db1ba8e9baea7ceec",
+    "e19226139777d727097d5d143819c1e4bf06d5af8f2c6f63c58cbb48e316c1c9"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "英国两年期国债收益率跌9个基点，本周2/10年期收益率均跌超10个基点",
-      "title_ko": "영국 2년물 국채 금리 9bp 하락, 이번 주 2년·10년물 금리 모두 10bp 이상 하락",
-      "url": "https://wallstreetcn.com/livenews/3203489",
-      "ts": 1795194176
-    },
     {
       "source": "WalterBloomberg",
       "title_en": "GUNDLACH SAYS NASDAQ HAS UNDERPERFORMED US TREASURY BILLS YTD",
@@ -11504,6 +11497,13 @@
       "title_ko": "\"소프트뱅크 손정의, 한때 SK하이닉스 1조달러 인수안 검토\"",
       "url": "https://stock.mk.co.kr/news/view/1203605",
       "ts": 1795234103
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: CRYPTO CONTINUES TO CRASH",
+      "title_ko": "가상자산 시장 급락세 지속",
+      "url": "https://t.me/marketfeed/1083091",
+      "ts": 1795234553
     }
   ]
 }
