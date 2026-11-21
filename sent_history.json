@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795263112,
+  "updated_at": 1795263271,
   "id_hashes": [
-    "9a3a7769ca5ed75573206c12db6e197ef06fdbfdff35870083203af79ca8fd51",
-    "7f6b46e127f82fb308b3a2d6ab916d13a05e3adcb41356b8ce2e22d0b6b3fd3e",
-    "607ede8672f7ac47f890dbaa397a0d890ad1d343863686da144f02f9039b423f",
     "3743d47f4708314bdf030c0b07433b9d876df79e163d98a072cbc4e1647d17fe",
     "f8ade7d3fc36c3850e420db6a9430a79a477458e21c4db138925cd05bd2d26fe",
     "ddcc4b8b613e533f299b4dbe0529fe87b9deaaf9edf8ff89cf578303466a1027",
@@ -4000,12 +3997,12 @@
     "9574cd7cb773f3312d4e4e6b523e1b09f22a0cdfc77f56f3a9214fc2797bdda6",
     "e2db6e86f468c74d5e28fdd32bb96b754cea68ae53ce5ffe0f5e486f27230604",
     "35e1b0a08c2e52d534c26a81dcc2ea45ff02432ecaa5eec7ac41d9ddad0b6560",
-    "ca611374940739bb0171fa796ed970b53026b437ea14c1208c720b61b8eeb4cc"
+    "ca611374940739bb0171fa796ed970b53026b437ea14c1208c720b61b8eeb4cc",
+    "615f4b61dbcf73849e3d7d7c13f8f7a312622850684e66ad9fdb37493c2a7663",
+    "01ff9776e94125dc3e40aeaf9a338d116039903d3f5b6cd00179bd012d6c9eb7",
+    "5e9e75149816b194e774ec0424236d272bb13bdbf89ddc4410c6df7d7c370b87"
   ],
   "title_hashes": [
-    "3224901bbd6bcf56de844ce4f7ddc988ebc229f72115ee73124cd5c4ff4d234f",
-    "617a9191c55f4fc8bc7c8764656e2ba472c3a72fcc4700d445ae59cc0268f36b",
-    "8d8e86a2b930dd4c93c9ccee57a43028cf413901e022786ee334760e8fe69565",
     "3e2884dae0f8bb4127c9716b5983ec21cceda9a6bc92f0c1801d31e151799c7d",
     "95a08d7eb8f4d5690d559dbb36544718f753dd5ffca6566fb1eddf108c780646",
     "5a8a6425994354a0df3abd70801d2b05fe7ca159caa6920b7f544a80e3816c10",
@@ -8002,23 +7999,12 @@
     "9f6fb6147cbfba9f7d9d8e4bcdd52eb70f95fa715d2b0a038dd676200417a647",
     "2bf48b34a72203f016c21a6230aca1cf922775ea310084b7d33e01a91daa97fe",
     "87f1042ee7c3e56a4eb0e8ad7ecba2568926eb5b4fd1515f372dd34cb6d72912",
-    "df762508aed7feb064166f2cc0a69eb1b4ec5399c23e4d68d49041d82de45391"
+    "df762508aed7feb064166f2cc0a69eb1b4ec5399c23e4d68d49041d82de45391",
+    "3b577911bfecc4748dcbfd1547896cf6f1b107f65d8a7d57eb57e2d2a25af2fc",
+    "d839a9ed4f72ddabe0c0a33cc2a329435d5a9be96d12ac722b3e2decb6e5ac3e",
+    "7c1eed0c39749226fc746e1a141b5dc880af8bf1dc303e0a15cb71343324ee6b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "NEW ฿ DAILY LOW: $58,503",
-      "title_ko": "신규 ฿ 일일 최저가: $58,503",
-      "url": "https://t.me/marketfeed/1082933",
-      "ts": 1795200580
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Trump says he, Putin had very good talks on Ukraine",
-      "title_ko": "트럼프 \"푸틴 대통령과 우크라이나 관련 매우 좋은 대화 나눴다\"",
-      "url": "https://www.streetinsider.com/Reuters/Trump+says+he%2C+Putin+had+very+good+talks+on+Ukraine/27380952.html",
-      "ts": 1795200583
-    },
     {
       "source": "Bloomberg",
       "title_en": "Trump Says US Close to Mexico Trade Deal, Less So With Canada",
@@ -11504,6 +11490,20 @@
       "title_ko": "젤렌스키 \"우크라이나, 유럽, 미국, 러시아 간 4자 회담 시기는 미국의 조율에 달려 있다\"",
       "url": "https://wallstreetcn.com/livenews/3203672",
       "ts": 1795262593
+    },
+    {
+      "source": "FT",
+      "title_en": "Navy budget pick has family investments in Trump Jr-linked contractor",
+      "title_ko": "미 해군 예산 담당 지명자, 트럼프 주니어 연계 방산업체에 가족 자금 투자 확인",
+      "url": "https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98?syn-25a6b1a6=1",
+      "ts": 1795263262
+    },
+    {
+      "source": "FT",
+      "title_en": "Traders start to move US copper to China as Trump tariff fears ease",
+      "title_ko": "트럼프 관세 우려 완화에 미국산 구리 중국행 물량 이동 시작",
+      "url": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1",
+      "ts": 1795263270
     }
   ]
 }
