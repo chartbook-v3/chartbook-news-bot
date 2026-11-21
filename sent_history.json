@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795295672,
+  "updated_at": 1795295825,
   "id_hashes": [
-    "30b6d18d1b9b6a5467a8e4f68cd47ec374d2368e9ed1d76ce4d32e813514bee9",
-    "2398f1bef512e5a0aa42e2d153a117a2ba49f93766af7a52721766d49d5ffe5e",
     "bdaa378c18242f0c2134a49877184afedf7404f3aad7073c539ccd997e119926",
     "4c417ffb97f500c3d243798e05ecab9dc7228b13444b97c2f3944b40a3f4ddde",
     "f93666307596dd0338e6388bcee9db553fc86d61d1f318538dba9f0a44b31045",
@@ -4000,11 +3998,11 @@
     "e477cd36ea5e2f9ff08c11fde570a8830f035239a6c7b23ccde0c6ce616856c9",
     "b3477e4eb2a6d79bc34f04947a3be1da6d1ab0d11ab6b8bc53ad0576707da4a6",
     "6f32a40a243005ea207154de930c4ae8ec7965eb9ac5f66d5d723901a705a3b9",
-    "32f74ed86a9c6c063a0d58292532361b8f8900a760fbbb160b422e7a6e125ed2"
+    "32f74ed86a9c6c063a0d58292532361b8f8900a760fbbb160b422e7a6e125ed2",
+    "a985fee9e4ed7e8b497f6725df444586a246ecec941b868aa9b6a494945f6f91",
+    "eec279d8b0dba1f48c0e8be4f4fbba9fad2d475a63e4851ab674ab0d0ff0f9de"
   ],
   "title_hashes": [
-    "2c620b5dad5b641cf45b892b4f4496ac8316d34e7ef90339320b5e23e036ee62",
-    "8fd81fa6350dca072185b0843f537c89a67fa1ddf7124ea0fd0fc27137ed63f0",
     "af98c741b370b65285b0dd61a520a76c01b5abda6b6ef7f42a91a3689d6ad2cd",
     "c9862880b1cb78383da5e731b1c01ce063c7aca0c954a12e63ae131f994cbc22",
     "04dd8dd7018dbaaaae478283aa8df305d1cc803ecb40cbbf6e587f1d48c74196",
@@ -8002,16 +8000,11 @@
     "f55a15697d6a70323cad78059038c269b047e8260aaa3e38de7a771f0603e769",
     "9f2787f6208519ebcc318d66540e2a4e92cd29c32b91c7602b393401451feffc",
     "4fde7d9b5e2e8c1a1ccc32427ceaefbb8cf2012a5e0d5fed6afb7666daa5c31f",
-    "9e606d20e195ece1fc53d8256072be71806332f97190e87bfc1cffca9805f3d8"
+    "9e606d20e195ece1fc53d8256072be71806332f97190e87bfc1cffca9805f3d8",
+    "6fdd2ae35beaf48b9dde6faf2ed581c50dd008e11df0b245fb622eeca1bd355c",
+    "7e21f0344002005450a4804fe41f517dfce390c59f2135f72dd4264fa1a1d98e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "S&P 500 plunges to a 7-month low and breaks back below 7,000",
-      "title_ko": "S&P 500은 7개월 만에 최저치로 급락한 후 다시 7,000 아래로 떨어졌습니다",
-      "url": "https://seekingalpha.com/news/4675322-sp-500-plunges-to-a-7-month-low-and-breaks-back-below-7000?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795206296
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "美元兑日元跌约0.8%，Anthropic IPO和AI板块抛售迫使投资者寻求避险",
@@ -11504,6 +11497,13 @@
       "title_ko": "삼전 100주면 '39만원' 27일 30조 배당…주가 반토막에 '저가매수세' 기대",
       "url": "https://www.news1.kr/finance/general-stock/6361336",
       "ts": 1795295522
+    },
+    {
+      "source": "서울경제",
+      "title_en": "한은, 기준금리 인상 재개하나...美 PCE·성장률 관심 [한동훈의 위클리전망대]",
+      "title_ko": "한은, 기준금리 인상 재개하나...美 PCE·성장률 관심 [한동훈의 위클리전망대]",
+      "url": "https://www.sedaily.com/article/20117264",
+      "ts": 1795295824
     }
   ]
 }
