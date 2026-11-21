@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795291172,
+  "updated_at": 1795291319,
   "id_hashes": [
-    "7f8399bf2c647778738e776917f369c9e4a83cf9785bf63ac9135020d8314eae",
-    "842e2858a2dcb6b198217d8552fd30a165610f9417148cf28c65da16ac9e548d",
-    "b9763131a030ec3bb181b99d06b745de2b5efac4537268bfa06f0696cf9b4914",
     "ab31dff983789b7abbcb9226f2f852ca6471c3e1cbf516b33b22f94f06426f3a",
     "84f284ad72caab00f161254fb05d319829d537f844f18ef84168ac90b7bf008a",
     "9d236839de1aa83d2ec7963d6b53d76c8ba4eefc3464ed849549af0ba8f03136",
@@ -4000,12 +3997,12 @@
     "f588eabeea437bbf2c786b6c82612dbafe43faab111ab2ab2b13a1b33e2f8b2a",
     "c518354ebcb9f1fa1420718d75627427cbc76554390a376fb8d860104e700eea",
     "943c039a8bb1069b5957ea2f8e4ba584afc4969db453a337a054bbf93d8a7fe3",
-    "603af164e8dd392f2fb93c74921ce689946a1054cca5668ef911abe74b7db081"
+    "603af164e8dd392f2fb93c74921ce689946a1054cca5668ef911abe74b7db081",
+    "e452b98633d34250a1fa9eca8b887424e041b58052e362584258c1006725e070",
+    "aa677d44a721130c4cd3470d5e5afa82a736437c0aa169c7c43e6aacabf8f7cc",
+    "ce67431925d2497e699309ed8cc8a5c9cc9c863e6a514b108fcef06444a19865"
   ],
   "title_hashes": [
-    "500d3a34b8fe0f656d20a645db446ea5455eebcc657f8b28674e5298ecf93eb2",
-    "e107fb32f2b6dd84decd61472a430c38477a0c3acd09eeafd2c3d435029d72f6",
-    "bd82e85abd5c55d206aba73895585af2dd9dfbee844f4c2a3f9033539bd7dd83",
     "f34a26360231cc18ed5b8976e975a69745ed3613d1455176ae6d5880ace98ca0",
     "6b99bdd096f7eddc2859262049ba686e58b5dbb2b6f7a376df5ecc4632ca6606",
     "c68c75780ba0aea321de92f6006f74270016a9da4d9863342c9bfcee3c88e46c",
@@ -8002,16 +7999,12 @@
     "a9565c029536cca7436861104ba837b0856bf29d8f9ecca20dd4b2799f7e277b",
     "c8fb9ae77bdc1fb38e69fdcc69244fac682f110615586259184cac23f2e9b730",
     "158be72c40584d6d8ee053637809db8c6885c53e25b6f931a2e5c0db627b499a",
-    "6de2f5cf8212f809bdff00f659d5479bdcbd7beefdc504e4ed7b0eb41ba060ef"
+    "6de2f5cf8212f809bdff00f659d5479bdcbd7beefdc504e4ed7b0eb41ba060ef",
+    "b32acf7a28fa225de0067577a9d63e4915eedb85069748819902d93f38e45111",
+    "89ab1d78ca45eabf6baf954a8d553b0d710825d0ebfb93aab4e27080564e5452",
+    "305d023a3886fe55085b20b79810e13f370967446fa0bf8dcbedd9851e8cde6d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Arista Networks sinks 12% amid tech and AI selloff",
-      "title_ko": "Arista Networks, 기술 및 AI 매각으로 12% 하락",
-      "url": "https://seekingalpha.com/news/4675308-arista-networks-sinks-12-percent-amid-tech-and-ai-selloff?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795205239
-    },
     {
       "source": "FinancialJuice",
       "title_en": "UKMTO: Reports of a tanker on an outbound transit of Hormuz got struck on the port bow by an unknown projectile.",
@@ -11504,6 +11497,13 @@
       "title_ko": "호르무즈 해협 물동량 감소 및 미-이란 충돌 재개 우려에 국제유가 변동성 확대",
       "url": "https://www.benzinga.com/markets/commodities/26/11/63516226/crude-oil-choppy-as-strait-of-hormuz-flows-fall-and-traders-price-in-renewed-us-iran-strikes",
       "ts": 1795290578
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "https://x.com/MarketNews_Feed",
+      "title_ko": "제공해주신 링크(MarketNews_Feed)는 특정 기사가 아닌 X(구 트위터)의 실시간 피드 페이지입니다. 실시간으로 업데이트되는 최신 헤드라인 중 하나를 예시로 들어 번역해 드립니다",
+      "url": "https://t.me/marketfeed/1083303",
+      "ts": 1795291255
     }
   ]
 }
