@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795268509,
+  "updated_at": 1795268666,
   "id_hashes": [
-    "68010da7fe4f18ee0380487152cb256ed62f1c1f6269faeecfe66b7b8329aa6f",
-    "19f37fac426a7fb8a100df07a65b230185524197402072000bb3450ddebbe42c",
-    "529fb91b2698c33897a60972987d5178ea0b91db21c3dc266d8231c27009c5a2",
-    "2c4088189ae221f982577c4f166bceca631517c151a8df805321d12747346231",
-    "dca3ec12c7475c3ac71a14f879a2bb5eb586ecfadb98bd4c5ca9851f8ed5db90",
     "05c32ae397f36ddff050b3abc46b7f3aba154ab20d82a353a64cbabea96061ed",
     "336711a6b9b350d8ad6801b671e6ac46396da30a7cf9c0796edfea73407206b3",
     "52041f801e69523c826166affe14e2739699e2ebd8257b452442448f9613dd84",
@@ -4000,13 +3995,14 @@
     "4c475f661e65ef1ac52421d9eea2e8fab7d82bbd5ebf5f194763aae6954c5211",
     "b023f76c296b73cab6952026a23abb53b8ae10423202a0472ad4b52c30f4004d",
     "2ad51acb4c1d00219c3b0a7302af94147da376e86eb841e3a7f9a68ddeb18fc2",
-    "68af728f632a061a83aac940b1cf294d38d8c1167fba684c2ad07157fa98a1dd"
+    "68af728f632a061a83aac940b1cf294d38d8c1167fba684c2ad07157fa98a1dd",
+    "bc6efa70edceef681991283b9644e2c0b14406e57b98a58419fdbae0cba26bdf",
+    "20d83efa6d78a8d19f4a89d73fddf79e922320a85d7e4dbbb3c3056a0a82ea19",
+    "9bbdff2d8cb5ce42ca7d2abd3cc9756a7212f426e403aafcfc6b9bf3b06b782f",
+    "831f18fb4cdb162c816bd08d57dbfa7f16c3d27758bf9f868d39f7837ac4af1f",
+    "a8fcc61e2f5af69b429cb7216b73d7a6e775fccdf7fc651be013064ac4b5d05b"
   ],
   "title_hashes": [
-    "125f1ac13cd08335813bd7f948378f393eca95ac5e3679e45299f4d384c6e156",
-    "1028fadf7481d1a1a940373941ad4219e38b5e1b20d448add7faa5c92f77738b",
-    "b9bd7f17df3064f3c0d323dd815bef5ac7a34c8f5b6f9a62fb86ea1c26d8ef62",
-    "fcd3568f562d154d0239997a0b0bbf5bddabcd5e84d524c33f263b091a7362b9",
     "97a9183b01b1c0f0388bef25e8a3a24df1f8f51b7973770f0c0dfa2c0d455475",
     "7e12fd45cb47b0fd63aec1217170761848aba901997470005fb722325f7b9f99",
     "de1e90d20a07cf8c969334c88de94e732263b23784aa6bf7631547a8226768aa",
@@ -8002,23 +7998,13 @@
     "fb08db662341319b55ef880385e403fc6f7c728c80e1b8cf1c72a4e4d7df9d69",
     "5b3696ccb53a4396ef8adc02ac72c48263db37815a526431aa13e43cbae24604",
     "e956a3a724cfa0473d9e441de843f1e6f8f978ddacf45a840ba82ed4270ee6f8",
-    "ee02bc1455016e0522dd57db60337def5d76c2cc9d22f5619cfc7feffa3dc77b"
+    "ee02bc1455016e0522dd57db60337def5d76c2cc9d22f5619cfc7feffa3dc77b",
+    "c3d45e4966c20b55341c20128acf96758dd8ad5e443918a6c15b951b28286d25",
+    "438b713f805860e0ac45707012abbb1b565188633d9fbffa3c9cb5b8a69093dd",
+    "9bc90b6f8979c1a7bc0f9a889fde15df24b9e874481bf47d25d3cba853c2153b",
+    "329b967f2c7a78ccb1182bdf507031555d477ab403343c5a9ae1b09cb4085c44"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Barron's",
-      "title_en": "Anthropic vs. SpaceX: The Biggest IPO Wasn’t the Best. The Next Risk for the Stock.",
-      "title_ko": "Anthropic vs. SpaceX: 가장 큰 IPO는 최고가 아니었습니다. 주식의 다음 위험",
-      "url": "https://www.barrons.com/articles/anthropic-spacex-stock-ipo-lockup-5b6c935a",
-      "ts": 1795200720
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Micron Stock: 3 Catalysts Set to Boost the Memory Chip Maker Beyond Nvidia Earnings",
-      "title_ko": "Micron Stock: Nvidia 수익 이상으로 메모리 칩 제조업체를 강화할 3가지 촉매제 설정",
-      "url": "https://www.barrons.com/articles/micron-stock-price-ai-earnings-bf520abd",
-      "ts": 1795200723
-    },
     {
       "source": "Benzinga",
       "title_en": "Anthropic IPO: Record Debut, Slowing Growth and a $900 Billion Bill",
@@ -11504,6 +11490,20 @@
       "title_ko": "미국 F-16의 걸프만 피해에 대한 라니언 주장은 워싱턴에 의해 아직 확인되지 않았습니다",
       "url": "https://t.me/firstsquaw/194833",
       "ts": 1795267893
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "芬兰称一架俄罗斯直升机疑似侵犯其领空。\n\n周六稍早，芬兰边境警卫队称，俄罗斯货船在芬兰湾东部起火，受损船只已从国际水域漂入芬兰领海。",
+      "title_ko": "핀란드는 러시아 헬리콥터가 핀란드 영공을 침범한 것으로 의심된다고 밝혔다. 앞서 핀란드 국경수비대는 지난 토요일 핀란드 만 동부에서 러시아 화물선에 불이 났고, 손상된 선박이 공해에서 핀란드 영해로 표류했다고 밝혀",
+      "url": "https://wallstreetcn.com/livenews/3203686",
+      "ts": 1795268607
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Iranian military: We launched an air defense missile that damaged a U.S. F-16 fighter jet over the waters of the Gulf yesterday.",
+      "title_ko": "이란 군 \"어제 걸프 해역 상공서 미군 F-16 전투기 대공 미사일로 타격\"",
+      "url": "https://t.me/firstsquaw/194834",
+      "ts": 1795268663
     }
   ]
 }
