@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795226603,
+  "updated_at": 1795226755,
   "id_hashes": [
-    "dd6d8399b7ace02b81252951a098844ca77e06e68571a1f4df7e327a41b44e09",
-    "3437b46f710f48feb8b0a9b932fd6ee624231b4417a094c2edb8b2a8e3823786",
-    "cf5f53ed734f5bc6c9e8331496c20750525c9172df78e7a65bdf409456f2d558",
-    "35618abb945811edfc53b793a7c66d8ffb07c16b1452c0da394cd71c66a27f57",
-    "29a7a80b2131cb66f34b0633a3de95eda441e65e95c880688d1472748c98f377",
-    "5419accb76029775c0812857f0c073ed0de1b4fbceeffeb2c7ac072b6e0dae72",
-    "dcbc4d5b3e03d391ac56b02ad7278bb078fd78ec02e537834db98f39bd4fbb5f",
-    "79235bd9bdd266fd29c53253a7573019204e194b44b5a160210b2c1ef8a20389",
-    "561908870e08676e8439dfcc59699a5ed32efa6c8fcdc3ed60060058ef84ed19",
-    "eafbf3b2a010c7f66adc8e71b83dae1f55e45d6e4461f4d7a4fddd9e49f6cf2e",
-    "e67af3df7582f6a9b9c62f417970ff229656e2cdd34897b7451f036525c77dfa",
-    "21cfeab75cc11cb9878ca11bc48088a6a0f6bcab8a146b2395416f325823f03b",
     "9c583084cf4e9d2047a4dc359dc1fddd7594cf24c53542dd4e452f8d162e2c02",
     "5a6191867f4b75c61f446e85ca3d8843d37028b993a9d92cff025f6ef4b58ae1",
     "c9c0e1cfc08ced95a69c5b35133ea34ea6e22e49b00ef26109b953e55ea8cbd1",
@@ -4000,17 +3988,21 @@
     "72b19eee5ba24db8ef8774b46e61b7be2878b8278b1b16cdd045b26ac581acd6",
     "c8fce05361e9fe142238b22fb7eabaacc06f688dd1f43f71e16516ab63dc8679",
     "a61d19cec4115ee45cb93ab09b009d5c188bd7c754b729ae18dfa11cdc37dee4",
-    "77e97be4db9ab349037505110f553aeac47311653ac6934bf725bffda4b126b6"
+    "77e97be4db9ab349037505110f553aeac47311653ac6934bf725bffda4b126b6",
+    "b173d34b934fd09d3376fb431e8b203eedc4c32719e3ce801f5796034fe54126",
+    "3ca3ca0d4186b8f3f40236d93f4d6c01236b495aecdc84512193bca384883a3b",
+    "e03806e88cde87e167e8a850f5c762ff226c925b57b87ea59f829b9f514d0799",
+    "b75f315fd4d6b2e3f54599e5668142a682902a4a73d54d44c0a065b3766c7598",
+    "7c281cffb8652174ff49ec1cfa3b138804097d27d00e2e504bb2714a09244524",
+    "024785a518e8c47624b820209acdff95c5ce52cd446ade4dfae8964824423d21",
+    "3311ba69a18bd31c1ed21f0cb7143358bf597f8601dc817c14f5ee133e021424",
+    "c38894a43ba29b68ed92c16eb8afdc2d6b8def519f75cc5c3b31c4d494805114",
+    "adabe66fcfa56747b7261e39367c2590aec040ac8bc4ce4d644b13c70ca62f46",
+    "f602b0c91fd50a22842ba26ab6e06e1b949ef6c0e3cad3bdc665fa8b23e502ac",
+    "136f6787f6e02a9ae2b4fa37c4acb3ec1f17cfac35c102ccb9678291e4b3b4e0",
+    "43fd4ed745d020948c590ce360acb8e5330012d18296d04d6d398d356c676013"
   ],
   "title_hashes": [
-    "11700247961bf57fd9b2704e675fa604a9fd2c1d457ad68e5b19f294e321ff82",
-    "8473dfc5bdfba54938c881cbc310b116b49fd6395286fa63e21d36681b14b7ec",
-    "71de59d7649f76e0a3cecce428a871371fa6ce08f63299213f5f09ca698964ea",
-    "77686f797917904b3c5d9730374dfbf9fbca26951f8c1890ae1358b07cacaae7",
-    "0c5051cc6d3de37890222aeab66ff2a0b816e06e48bc04c0a5b7d28d3b27bd3e",
-    "0254a75da5c859bb0d197d9ed11a335267dd1167867aef92c4b6916c44b4523c",
-    "302f1594de464efecf344a80f930d586d387242b4d329a88f743754ad6aa0bd2",
-    "62dfbc58aab1af86df5df672fc53a1ae8ae117b8fe1e0387f3dbce307be9f8c8",
     "e57a2c813d251835ad18aeb3f92490db56adf264587aad63b8c340f85f13fb2d",
     "64a2d551a68418c491739c20bdb177c33e82a5e45b4d285443caff594a727e6a",
     "cf0e12331a06ec235787cdc58332c9667ea20695311d1dbb226763d53a3b150e",
@@ -8002,44 +7994,17 @@
     "5ea6c2fb18b5a7219989eaf29012ab21948be64430a82f67b52419847510202a",
     "f6acea4dcac44c370ea57e11c5b881b56941a207044d15193462121b966376db",
     "cad989c050ec9c626e9ad0e8f5d7948c65752fc757d2333bd64d84dee26d5519",
-    "75d9cb368e6f9b72c4f1161da55286f8108bcb2c49aacb59299737b9b7ec0f9e"
+    "75d9cb368e6f9b72c4f1161da55286f8108bcb2c49aacb59299737b9b7ec0f9e",
+    "105820ea8d29de19269b073e1e05ca0eef8093418a8d2a5363504cceba86c69c",
+    "bbb7c2e875b13d759b5ecdc5bd4280c526fb1da351b57cbd0c7a13140aff337b",
+    "7f147550c886270ae4df11650be1776a247dc02f69008125b2ef453faf903268",
+    "2573dc904c2462bb12a5fd7f15ce170924c38c6c4f3358735eb853643aefff77",
+    "b1974dc3c6265cf6693b52bb1651c0ac95ecc9570bebdd5d56fdeaf943a36383",
+    "8cc0e91085ea46f4f40cafb16e2a64541e48fe201f1d6842995cd78aac4aca08",
+    "4f68579586a201cb39ba87e72b2823c12f03da0caf5cee7799e63b59c93b4b25",
+    "1246cc243319379ece51f8ee6a027f59f69ff7c4a69a9b823af7963e726ffebf"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Savara drops after FDA says it will not meet molgramostim BLA action date",
-      "title_ko": "FDA가 molgramostim BLA 조치 날짜를 지키지 않을 것이라고 말한 후 Savara는 중단되었습니다",
-      "url": "https://seekingalpha.com/news/4675193-savara-drops-after-fda-says-will-not-meet-molgramostim-bla-action-date?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795192531
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Intuit stock slides as Credit Karma revenue growth outlook resets lower",
-      "title_ko": "Credit Karma 수익 성장 전망이 낮아짐에 따라 Intuit 주가 하락",
-      "url": "https://seekingalpha.com/news/4675219-intuit-stock-slides-as-credit-karma-revenue-growth-outlook-resets-lower?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795192534
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Bending Spoons projects Q4 revenue of $984M-$1B while outlining $3.68B Mailchimp deal",
-      "title_ko": "Bending Spoons는 4분기 매출을 9억 8,400만-10억 달러로 예상하고 Mailchimp 인수 금액은 36억 8,000만 달러로 예상합니다",
-      "url": "https://seekingalpha.com/news/4675234-bending-spoons-projects-q4-revenue-of-984m-1b-while-outlining-3_68b-mailchimp-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795192537
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "微软：新版Outlook出现附件上传问题；网页版Outlook和经典版Outlook未受影响。",
-      "title_ko": "Microsoft: 새 버전의 Outlook에 첨부 파일 업로드 문제가 있습니다. 웹 버전의 Outlook과 클래식 버전의 Outlook은 영향을 받지 않습니다",
-      "url": "https://wallstreetcn.com/livenews/3203482",
-      "ts": 1795192539
-    },
-    {
-      "source": "매일경제",
-      "title_en": "아르다 메탈 패키징, 13억 유로 변동금리 그린채권 확정..2028년물 차환",
-      "title_ko": "아르다 메탈 패키징, 13억 유로 변동금리 그린채권 확정..2028년물 차환",
-      "url": "https://stock.mk.co.kr/news/view/1203470",
-      "ts": 1795192599
-    },
     {
       "source": "The Verge",
       "title_en": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
@@ -11504,6 +11469,41 @@
       "title_ko": "Capricor Therapeutics, Duchenne 근이영양증에 대한 Deramiocel 관련 규제 개발 발표",
       "url": "https://t.me/firstsquaw/194729",
       "ts": 1795226600
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "US safety agency says Toyota is recalling 314,029 vehicles linked to Takata air bag inflators",
+      "title_ko": "미 도로교통안전국, 도요타 타카타 에어백 결함으로 차량 31만 4,029대 리콜 발표",
+      "url": "https://t.me/firstsquaw/194730",
+      "ts": 1795226628
+    },
+    {
+      "source": "Nikkei Asia",
+      "title_en": "US, Japan should lead next-gen transportation: Trump's ex-transport chief",
+      "title_ko": "트럼프 전 교통장관 \"미·일, 차세대 교통 산업 주도해야\"",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/us-japan-should-lead-next-gen-transportation-trump-s-ex-transport-chief",
+      "ts": 1795226690
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Three ballistic missiles fired by Yemen's Houthis towards Riyadh were intercepted and destroyed, Saudi-led coalition says",
+      "title_ko": "사우디 연합군 \"예멘 후티 반군이 리야드 향해 발사한 탄도미사일 3발 요격 및 파괴\"",
+      "url": "https://t.me/firstsquaw/194731",
+      "ts": 1795226693
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "FDA reports serious findings from inspection of Capricor's Deramiocel study",
+      "title_ko": "FDA, 카프리코 테라퓨틱스 '데라미오셀' 임상서 심각한 결함 발견 보도",
+      "url": "https://t.me/firstsquaw/194732",
+      "ts": 1795226695
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "FDA SAYS EVIDENCE CURRENTLY AVAILABLE FOR DERAMIOCEL DOES NOT MEET THE REQUIREMENTS FOR REGULATORY APPROVAL",
+      "title_ko": "FDA는 현재 DERAMIOCEL에 대해 이용 가능한 증거가 규제 승인 요건을 충족하지 않는다고 밝혀",
+      "url": "https://t.me/marketfeed/1083068",
+      "ts": 1795226754
     }
   ]
 }
