@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795220993,
+  "updated_at": 1795221153,
   "id_hashes": [
-    "4d02c59b93b65df9e9ee730673dd283736387145fdd14c5b9ab65a0ee4f75370",
-    "e03b5b86213ca68ce7a08ee2e91ad893bb21e2e736344791e563012887cf40a8",
-    "98ed431af1cf1b9770144743274e63f203fc8d213d39a32ef74b95c5119085f2",
-    "9bf186bd493a9c25d2aeb0b8915428f376ae6fd596e15280e69a9cd84443a154",
-    "5dd2b2febae72a0727d93440b2c49fc31f72a1a5ca9d78766b32818c35b43224",
     "21071a86b78a463fb3f8f373721e6c72ae0090bc9fc621cddebe49874573896e",
     "26d973e006e57e585560e1cc63a5796ac263757eb1d6664f455ca38e2db0b15f",
     "5663d143fff9a533d1d0d9feabf4b2a2e2112afbdb6721566c2f7342fdd01b5e",
@@ -4000,14 +3995,14 @@
     "85225ab131d2d822311d69d493ffcb913ecd5403080f6e0a3561c526afbf5377",
     "9a2d631c0266410122f6c57af40b9d517c2265691adb8e9f16e5155bfe0c6f2c",
     "69d2d7729e4877af2179363848f357f94f95ae7d2bfc94d33b70e57c129c5d4c",
-    "7439b5c8b98e3b2933e28fa7d0e11f86df1ec4d7ba1b66f472180f5991101ebf"
+    "7439b5c8b98e3b2933e28fa7d0e11f86df1ec4d7ba1b66f472180f5991101ebf",
+    "477dc9c27351b2c59551c41f95dae96b891b6928d1ae3ed50ae6abfff920a0d9",
+    "9cd26ddf67f3558972ff683b2fcab03a50e0fb5a396cbbd6773c208cb47f4ba8",
+    "26e4f66366073cd4d5cc865c1737bc75e29a4b0843a9e52c345f76763989c3e5",
+    "19c60785af955d4d10513c4c67ff3e545d85cf06bc1648fa6663b3dc792a95d1",
+    "17b08d0e9ad3fe6642ca98d2f99df3eb5d56d309775731ad5031b3378bc36f42"
   ],
   "title_hashes": [
-    "94cc15f1f671c8f386552a2ccc43d5790ff17e606445ecf99546f7b98e644aba",
-    "62274b88d4071c3540cf7d656470697b7ca3a72666a4bdcc6d9ad871b7e7956f",
-    "4bac1572de5bb40bf31e6c83cddce159d33ee3900cd5faa4171445c74d2b8054",
-    "9fe42cb56cdeecd83a7230dff7d48b7ef79ebd8b5ce90f38fc05030355553533",
-    "a00b492e0a0113e86971c1a0f2fe2c29d22a2a91d8e6a4b2eea2ff2cc313d239",
     "08a3e278cc374c5c4bdfbc883288e49cab99e50764ae4ae4d483a45e300e7116",
     "6edef50ec9ac0b0519b5f28401f4596a236035e2d4e7832e8b58fd548b74e0a2",
     "a9737f060c8d01a55de1258484213d50a9d6a2d6a725ba34accb0ebd3bbdb72d",
@@ -8002,23 +7997,14 @@
     "547ed906e70d6d54d634e41a9bac623afa317c1b502fc3c210bbc21f59b09e30",
     "c0c073856a5deba3b3550e0ef2f2876ac293afc691ab0f5a14fbf3dca71f69e7",
     "013ff9931c945d5b32fa4e6d74834477764d443a522064303f40061ad715a211",
-    "82e804a806ddc2ffc557699b94e3006dbc1ea56256c24a46aa40da8bc63fbc42"
+    "82e804a806ddc2ffc557699b94e3006dbc1ea56256c24a46aa40da8bc63fbc42",
+    "9fe3885985b139ea62d5654a5b380ea4b5372937688f90c26491ba40a116ebde",
+    "9871dc580dd11158fad278a44c72dabe0a3b299008463bfad7971463498cfbd4",
+    "569083e8681b8d51bbdf0295181598aa6c683b23f9d51e563e25a0826d859de6",
+    "2bbca0fb133647083c26c10e8c457dc930d05dc25b83287b5bbe89864817529f",
+    "f076aac6a3456ecef06b40cc120c7589a9a884b408bdf2e04aa77c7cfa628d8b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "9to5Mac",
-      "title_en": "Car Keys in Apple Wallet coming soon to these popular vehicle brands",
-      "title_ko": "애플 월렛 '디지털 차 키' 기능, 주요 자동차 브랜드 도입 임박",
-      "url": "https://9to5mac.com/2026/11/20/car-keys-in-apple-wallet-coming-soon-to-three-popular-vehicle-brands/?extended-comments=1",
-      "ts": 1795191505
-    },
-    {
-      "source": "CNBC",
-      "title_en": "Data center construction costs soar 13% in 2026",
-      "title_ko": "2026년 데이터센터 건설 비용 13% 급등 전망",
-      "url": "https://www.cnbc.com/2026/11/20/data-center-construction-costs-soar-13-percent-in-2026.html",
-      "ts": 1795191533
-    },
     {
       "source": "Benzinga",
       "title_en": "TSMC Stock Slides As Taiwan Market Suffers Worst Week Since 1990: What's Going On?",
@@ -11504,6 +11490,20 @@
       "title_ko": "LG전자는 매디슨 황 엔비디아 수석이사를 비롯한 엔비디아 핵심 관계자들이 18일 서울 서초구에 구축 중인 LG 데이터팩토리를 방문해 류재철 LG전자 사장 등을 만나 양사 협업 방향을 점검하고 시너지 창출 방안을 논의했다고 밝혔다. LG전자 클로이드가 세탁기 제조",
       "url": "https://www.etnews.com/tools/image_popup.html?v=bjQ5VkNYY2dLZTZMZFBUbmNzandvWmpGcjBTK1pHYm1CUVRXR0pTMldlYVZkdE5JeGJVUFVVNURJN04rbmhKTVNjTFFQMmY2YXMzUFJCSXQrVll0MjBvNHowSDkyd0N5OVlWQWw2ZDV1MzhvT1ZicWxURjhPOCt4ZEppRWw1NHBhMjJwa0NDVkxRM2FjdXQ1QnVtd0h5MXNSNEtVdGZHRE8rbjNPWFRuYStid0t0N0tBVmxqUmQrNzZGUGhOUXV1dEZrcXE2T0hmUmwzczRGQmJzVko4aHFrQW9lU2diWXppZG4wcEVqREwwQmZiemt4bC85L3QyNHpVb0ZuVjhLdEZEdGl6KzJIR0V2dEV1eElFZ01Ud0FLQTR2bnBVTExUbXJvZlpYRkMyc0srWk9KZmhIUGdvbnkxeXFXaHdjaTRNblJyT0NWQlhRRnRlZExzenNQSmdDbVdmeG5LM1VNZ3lpdlFOWTJOeFB2a0Y1K0c5ZytUdDFWKzEyUVFrbzlveVl6cmxNNmlub3B3Ui8yN1N6MnFjWkZ2UDNtYjBtcWtVbGMwMkZ1Z0haLy90VVpxRG83bEJRUnFMUitRdGk5L1dQT0tnRDJxMjFFZ1pGTE55OXFmV2R6SHBXczhOc3FCeUttRVE4YkplbHBnQTlvaUoxeCtzR0gwUkU5UUhweEUxUll6dkpMWlE0VWQyU0M5cE1FaWpnMDlRS1FiUnlwRCthUm9tTjNTNHQ3RkdxSzdxSFVrMkUvYUNCYi9kNzVTNzQ2N0NLbkg1b2lhOGhVTnRMSHAyUTMrOFRZZ2NML0x5VzJsWGRxRG93dDZ6eG8yMlpTNS9jaU03VVVIZTZwYk0rSFBGVlRTajQ2SnZFVk5mYTlRckVDNkFJcnVySlh3d3FrV0V1WkcvaVpvVEJxOEsrZjA1QU91WWJSajc5U0JBNHNoWDZ0WGxqdkN1Q3NaK0lxUlVIMmRTbi81UXI2Y2Q1M1ZDZ1JpS1oyM3pVZlkyd3FlMmh0NjNiejBLK0pvb3ZUdWl4cmk5aXZTNkdZWFFJTlV6RjNKY1h5YXFVRFd6WDNyRkJ5OEREZXhyTUdDa2pHYzl4WGN6TS82RnFTVm1IbVFYZnNNVUxaNXBqWHJPekZaWUc1VTdIeGpsczdHQUFsWXpJbzc2aDRUc0hKTDRGbkk3bTR6d3FhRXU3VVUvSWJ4WlpvTVB1b0o2UnZGSjd5L081QW1sa0xRdUxoZlQrS20vQmtUWk11N0ZEdVpGVmp4clpQbDF3LzRsb0RmWUhBdnR1ZFFlYTc5UDRlTzNWcEtzWmR2Y2RZeU9hM3Y0eFFtK00zazY4UnlsaG5BVTJjeG1CbWdRUWhKSVhMK3J3YTNaTDRTSmcxcXROa3Y1WXl2RTBtamU4Y1JzbXNRSDZuMW9heGp5MzBOQ2s3aWJNd25tVVdqVnRvRldnbFFEWEs4aU9vQmorVGl2UkpyOC9ZMWVJczcyMUVVZ1oxYXp0WWVqeVYrU2pFU0V5NnpuSUE4dVFxdnZFK0htb3hlZlFGLytLMkk1UjBiN2RhNDZUTlY0cmd1RXVPZVROdTFhV2hHRmtmUWJ2cHJjSklzLzhnbEZyNkt2VDlOK2tGOVh4TXo3ZFkwQjhEMWZDYVMwTW9BZnc9PQ",
       "ts": 1795220253
+    },
+    {
+      "source": "매일경제",
+      "title_en": "국장서 당해놓고 또?…‘반도체 3배’ 이어 ‘엔비디아’ 쓸어 담는 서학개미",
+      "title_ko": "국장서 당해놓고 또?…‘반도체 3배’ 이어 ‘엔비디아’ 쓸어 담는 서학개미",
+      "url": "https://stock.mk.co.kr/news/view/1203585",
+      "ts": 1795221149
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Michael Gentile Announces Filing of Early Warning Report Related to Acquisition of Common Shares of Cascadia Minerals Ltd.",
+      "title_ko": "Michael Gentile, Cascadia Minerals Ltd.의 보통주 인수와 관련된 조기 경고 보고서 제출 발표",
+      "url": "https://www.streetinsider.com/Newsfile/Michael+Gentile+Announces+Filing+of+Early+Warning+Report+Related+to+Acquisition+of+Common+Shares+of+Cascadia+Minerals+Ltd./27382769.html",
+      "ts": 1795221152
     }
   ]
 }
