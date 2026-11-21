@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795284027,
+  "updated_at": 1795284174,
   "id_hashes": [
-    "432a5cc1964169e31257263ff4f8f6823168f68b168f1a5f10a12ccef08c8d60",
-    "de7c24b1beac404232d0dc15e5354d2c90ce789f71778028984df36be1cda02d",
-    "5af76506b6210554b883402cee0bf6bf13ba854c0ac7ba5d5a60ee32e0a20022",
-    "7e0a2c2f9a36ccfb243d969a86bc5045741c6fb5688a192fc3167ebae336aac9",
     "c704dc440f15ad498927a727d8ecc8391c518d091619c3e2955b693a3032a4d2",
     "738fce73323a691ee2013c06abf81d816f84c6933795b33c281677b739e3a5d4",
     "6e73a438320df08ba7b8bcdb4bc2c8c61613b521efe26c69abac74a925558dcb",
@@ -4000,12 +3996,13 @@
     "df607f7670e94a00f19868e13fb6c847a53630e2a0a4262b65636bfc9a066f66",
     "7a5eb47630be03cb5df41441897e80694a9cbd2a555d6e16dd1fbf20cee0f2b0",
     "501c2d918aaada61ee7a75a5773f4548276c1be8f6c13ea9fa9ff7893795c0b7",
-    "231a870590ef82a9a631a768330f3602cdcf193b3b09fce1ded22ef1dfd16e39"
+    "231a870590ef82a9a631a768330f3602cdcf193b3b09fce1ded22ef1dfd16e39",
+    "33999ba9492d4096bdd6abee352d1e6dae05a593bd1a4b0dfaffdd4376563f9c",
+    "01a680e3e5a81d10aa75406832108174523853a7f1a77bc5f35fe36cf77693cd",
+    "3f118b5d676af9ee30b771ad02b069f6c8d63c9143900b150dbd2328d5e43a07",
+    "df151503675f53d4e9fa23d8a2695ac4b32a6a362b6e91aeb08643b07e09bd35"
   ],
   "title_hashes": [
-    "494d3e06ec92ae14f1ee513541dcf829b6da12a0a18a652dae98cc48e56e7c86",
-    "492bc74a989f11436cce937e9c7baf86728ea5231200d183db8fe6ec7c2dedc7",
-    "fb7242380e96f75c687fbf63f3b12bf00a8b516873be15c5ce98d7e8c948a062",
     "0eb88e096ca3f276a46a133c1b282d1ec2afba0603382d6c5a274f44d9b8f04b",
     "fc150bec51b93c165d6bbbea5c79d872fcc57fc77f3a06dda9e6ecafcb573108",
     "fbf42c64d5623211c74fe54e6ad19f08b9efbdc7c27f00a2dbf08b72145b2f20",
@@ -8002,23 +7999,12 @@
     "c3d88e01cab4b640d42ebef33027673269db5e4b6e291bdf3450e763d0dc8ec9",
     "aad6ab500812d4ea1ba9c4692f423e93679ffcaddfd224d81c2f303e851d65e6",
     "3f76b59a4654fa81ad5dc44e5974448cc0f1c730fcda7b6fa4f442e26f3cdcc6",
-    "7e35b0b54a88d4c97841906d5206e941964751734e47b033b3c9b7378df9a4fb"
+    "7e35b0b54a88d4c97841906d5206e941964751734e47b033b3c9b7378df9a4fb",
+    "90d5ac10a066dad5175a94a910fe106bd59054ea67b46c900b29bed0b2e6b629",
+    "ca76dd250f29ee2c0b978136f3ce6aa2e8629ae609bbf722c0b796827d0e27dc",
+    "86908bd5603aaca1093de73fce1f54f73ca877f16dcf2b0a3134d8de463bd07f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "볼턴 \"트럼프, 이란 정권교체 '결정 않기로 결정'…전략없이 봉쇄만\"",
-      "title_ko": "볼턴 \"트럼프, 이란 정권교체 '결정 않기로 결정'…전략없이 봉쇄만\"",
-      "url": "https://www.news1.kr/world/usa-canada/6361478",
-      "ts": 1795204312
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Apollo Enlists 13 Wall Street Banks for $9 Billion ADT Debt Deal",
-      "title_ko": "아폴로, 90억 달러 규모 ADT 부채 조달 위해 월가 13개 은행과 협력 착수",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/apollo-enlists-13-wall-street-banks-for-9-billion-adt-debt-deal",
-      "ts": 1795204464
-    },
     {
       "source": "Bloomberg",
       "title_en": "Wall Street Regulator Probing Nvidia’s Accounting, Reuters Says",
@@ -11504,6 +11490,20 @@
       "title_ko": "이란 남부 시릭 해안서 폭발음 발생…원인 미상, 경고 사격 또는 기뢰 접촉 가능성 제기",
       "url": "https://www.financialjuice.com/News/9863095/Explosion-heard-in-Sirik-on-Irans-southern-coast-cause-unclear-possible-warning-shot-or-ship-hitting-mine---Fars-News.aspx?xy=rss",
       "ts": 1795283219
+    },
+    {
+      "source": "Trend Hunter",
+      "title_en": "Women's Motorsport Streaming: Apple TV Secures Exclusive U.S. F1 ACADEMY Coverage",
+      "title_ko": "애플TV, 美 F1 아카데미 독점 중계권 확보",
+      "url": "https://www.trendhunter.com/trends/womens-motorsport-streaming",
+      "ts": 1795284048
+    },
+    {
+      "source": "The Information",
+      "title_en": "Wonder Reportedly Looks to Sell Grubhub",
+      "title_ko": "원더, 그럽허브 매각 추진 보도",
+      "url": "https://www.theinformation.com/briefings/wonder-reportedly-looks-sell-grubhub",
+      "ts": 1795284111
     }
   ]
 }
