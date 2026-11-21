@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795259455,
+  "updated_at": 1795259604,
   "id_hashes": [
-    "1970b2b0769bb5c5aca2120b613c959d75f69ff0d8b5a0d9a9d5c178a5917eb4",
-    "ee85668f09c45baff3a2645f9e9e84fd6a9f60736874d1ac3e5430736698c123",
-    "0bb2c0e66afec2d354002544fb15966397446b5a68a122a1ffacea13b230cd57",
-    "4eb3bb860aefe85ab97f6522d30d28954a8e2a66b8f610cb4b7d4a76860b8cf1",
     "7cc98ac0f4958fb65004e8fb4e89ebd3a00ecff9edb7fcc2ad3af52f0865848d",
     "09a8d46317efd0a66381d7dd0a81fac4e612a33122a999ceac6f74531d937ed4",
     "eabb18bd3062659ed4eb490460b6a0d9eaf36f720c0a05f555f527b969144d29",
@@ -4000,12 +3996,13 @@
     "42a9589d01393cce05618be76c0da446cd244aa810911939dbeff5e3511bc44c",
     "1202f43869a962a2cda22bd250d32a3448f5ead0b4ea79f57ae8f747aa2b2e4f",
     "f252c0ced3988578355a0bb8579c36a2b1abab17e0d447b74dbc807f51707286",
-    "9ae75e6f26a67fb2a2d8c3a2feb87727af7a220d7a1b831860eed85ee2ae377d"
+    "9ae75e6f26a67fb2a2d8c3a2feb87727af7a220d7a1b831860eed85ee2ae377d",
+    "6f65b1c37ca19c5fdfe2b3902235059f59397954e6f760c8876639554af57bce",
+    "4416c857c67a65306abc3b3d5cac1ef7efc30f6c19e90297b4135290f6436fb8",
+    "99bafe7992d1115f5dd99cd87ab7ccbae4af98ca1d64f582625f0bf695f86a00",
+    "98a828e8e4840a614c898029d7ae468ecde8ac58e61d80840fbfe6ae5133ef57"
   ],
   "title_hashes": [
-    "306753a6acc2e3dd7e243bcb053b3309d818a7e887483980f29bd63ae8a46478",
-    "a5af8cb014a72ca071f698333d70abdcf42bda6e836fb9952599d88646c2b160",
-    "9d630faa4de7a4e92bd03a667a6f54769f6c5baadf397e462db283f5656a6a4c",
     "ed05ae7c876a5e55c383cebb70408e0eb6b85fb2fe075a21ca6444518f9b9f77",
     "19b6c697b3f06c93a32ae5323de88cf30e4715b736cf0f138e0e3ccb8d104f0a",
     "4bcfb330eb41d1c6b832fd4bc5a3d8d994943d3878a2708fd820d8620ed5aed5",
@@ -8002,16 +7999,12 @@
     "72e243cc0854a0f6c056ce919f09f779e9b2db0855d55e5449a42466889feada",
     "b5b4c5ad6f0e611fbc15afad6d02ca6ed4280c9ab0e38add5034a256f1c03ba4",
     "08fe14d87a0b178db1197872646bc013317b0d501627482ddb42fa295264216e",
-    "8d70d74e6b26f3919a7c07de5addf2d468fa297a6fe78a6e415a3fe49b6ee4da"
+    "8d70d74e6b26f3919a7c07de5addf2d468fa297a6fe78a6e415a3fe49b6ee4da",
+    "88778cc07714671069f3bd1b430d8279515256cf743ff7cdba59ef756a9f77fd",
+    "ef9a2864353051f7f8417cae26e1b3a1a02cd3655a2e61cb6a2b6df18015d210",
+    "a3d5446cb332bb05fbd949a20dc340afba55eccc73dac1ca8636c45653a2ac73"
   ],
   "recent_sent_articles": [
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Trump: Working on a deal with China regarding exports and chips",
-      "title_ko": "트럼프: 중국과 수출 및 칩 관련 협상 진행 중",
-      "url": "https://t.me/breakingmarketnews/179517",
-      "ts": 1795200481
-    },
     {
       "source": "BreakingMarketNews",
       "title_en": "ECB's Moulin: Inflation is currently clearly too high",
@@ -11504,6 +11497,13 @@
       "title_ko": "Hydra 및 DRAM 계산기 작성자는 최근 AMD Ryzen \"Zen 6\" 소문에 응답하고 여름 지연 및 프로세스 노드 정보가 정확하지 않다고 말합니다",
       "url": "https://wccftech.com/1usmus-responds-amd-ryzen-zen-6-summer-delay-process-node-rumors-not-accurate/",
       "ts": 1795259454
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Insmed Stock Jumps as Sanofi Eyes Takeover, Report Says",
+      "title_ko": "인스메드(Insmed), 사노피 인수설에 주가 급등",
+      "url": "https://www.barrons.com/articles/insmed-stock-sanofi-takeover-report-e8574321",
+      "ts": 1795259603
     }
   ]
 }
