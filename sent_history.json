@@ -1,7 +1,6 @@
 {
-  "updated_at": 1795285663,
+  "updated_at": 1795285814,
   "id_hashes": [
-    "2d105e3963970401afafd0c1bea7d2009c0aff7f162472bcd7adadf37f5e82c2",
     "179c08c524d7ded3ec0b24204eb4c2444ee248ddb9ebe5206fc38b7b370751ca",
     "b22c5107d9a7a3a48b5ab8731a9630ed436ef1c50277d29a57d464d9238f233a",
     "f7757601c4ddd752c3cec56fe89d127c19a012ebd0bbf1301f71aa8e77496ebe",
@@ -4000,10 +3999,10 @@
     "ebd345829b38ae49b0338dedcafdd57a468d1b6b437ebcceb8a4da9066e6a263",
     "179c1a0753be0a1e3b4890e4e95a4a9361dd8cc1c465bd1781ffb0e7d67a6cca",
     "7faceb4828df4f2e84426964f5ce1bfc868df6c28e118eb7593cefc845b28b93",
-    "ce72d3a57920cfd9c47947220a3d6178381a9921480fcdd141f954fff0f702ea"
+    "ce72d3a57920cfd9c47947220a3d6178381a9921480fcdd141f954fff0f702ea",
+    "e6d9c4a1eea8ad60bda55d5d904eac15d7369f2c616e3f618e24f6d70bbe7846"
   ],
   "title_hashes": [
-    "fa935a832ef1edef8b4142900e86224655bdb0386666a6737d0570cdfa31c78d",
     "0d17b259353aa39bab04cbf4cfc7b0cb4f64dbd76dec34903f38c5ffb0e078f3",
     "2e49bbf866228be8394ce0cbc5ca77e00b5df8d467e23ec0b09dd62a38452759",
     "2197feb40a01eb822263882c093ab4a6b9985250d0e25624ac3ceca7581757b0",
@@ -8002,16 +8001,10 @@
     "9af0ce1673ce26b9ce5f4069f1d3e75aeae6754d2ad1f286b6cde30ba2e9ae78",
     "67a41a02c416ff47b057265fbaee0000ff02bf052eb0205aa8b23bc54904ddea",
     "996469897fcec3cbcfd6db369471b9c9331899e4b9b5053cd86e4854afe1f0db",
-    "08d624fe976aa22e234b7f3d811b6fdd04093b67e4d0a8b1452bdec260009404"
+    "08d624fe976aa22e234b7f3d811b6fdd04093b67e4d0a8b1452bdec260009404",
+    "95a295bb130a1844b157da7e9433765aab0950454e52fff5ea98b66870f7116e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "9to5Mac",
-      "title_en": "Apple TV keeps adding fan-favorite movies, here’s what’s new and coming next",
-      "title_ko": "Apple TV는 팬이 좋아하는 영화를 계속 추가하고 있습니다. 새로운 기능과 다음에 나올 기능은 다음과 같습니다",
-      "url": "https://9to5mac.com/2026/11/20/apple-tv-keeps-adding-fan-favorite-movies-heres-whats-new-and-coming-next/?extended-comments=1",
-      "ts": 1795204592
-    },
     {
       "source": "전자신문",
       "title_en": "[ET특징주] 하나에어로, 코스닥 상장 첫날 74% 상승",
@@ -11504,6 +11497,13 @@
       "title_ko": "트럼프 \"누구도 이란 핵무기 허용 못하게 영구적 합의할 것\"",
       "url": "https://www.news1.kr/world/middleeast-africa/6361764",
       "ts": 1795284623
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Planet Launches Pelican-12 Satellite",
+      "title_ko": "플래닛, 펠리컨-12 위성 발사 성공",
+      "url": "https://www.benzinga.com/pressreleases/26/10/b62464431/planet-launches-pelican-12-satellite",
+      "ts": 1795285813
     }
   ]
 }
