@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795251614,
+  "updated_at": 1795251769,
   "id_hashes": [
-    "a42866854ebd19f2d066c0030b30beb1222ddfc022ac240e48d3336d6a848ee0",
-    "28ee78786529bc40ded9130c8943c35cead56b9feedf345b34265c87ac506d3c",
-    "65e0c2ecd93943036e969e983ab0d53f5ce4229784b52361fccc07483fe3e700",
-    "133d82ca62a745ae493d4c2d3954c7817bd76e98dbb7016a0b3d5b84a5f601f4",
-    "b936475361c91849750f14ab370f44dd9d412f3c8d0a38d323f108f34489b6ad",
-    "2962a1ba62a0ffd4a84e4d0614c2796c24f92729800016c80e07edd3fac3bb9d",
-    "ac163108aaa3c759d9dddbfff14ee94876aa61e10b074843259f1b466dd47ec8",
     "03115a7cfe189f3e549a269cfa8834ed8ac88419c42b0c1589ab28e95b002391",
     "ef1a5c5be608ea7b1701f8e14ca8e69b905a62288190fe44aa3d1f83603c0f59",
     "9cf54c94c0a4281a543f4168f17704308a02e9b35e3af53ea8b94bd4a3ec30f8",
@@ -4000,15 +3993,16 @@
     "fca6cad69b6e742cb9e397ba88c8aa85bf79a08dccdb268054cf1838afea4fee",
     "73d1d1f0c6432c9ca1d15081877255957aa58144d509cdac3055284e9f5ab4b6",
     "8864ee8d9d550e603439ac7ad3942bfc8c26d305a0e8bae42b227024f54040b5",
-    "d6eeddc1841457cfc325d216a005c3ae9c76323f6498254d5fd67bd99540d2f8"
+    "d6eeddc1841457cfc325d216a005c3ae9c76323f6498254d5fd67bd99540d2f8",
+    "409d893fcf96a4bb2cf347efb370d444e8edcef6fd79eda765b3957626ee993f",
+    "04dcf958e736c2b994949f67b6f0b892fd347594eb982ced18f338a4f36e19a9",
+    "acfa8f098e29f434511f99f66bfa24591480492c67e8081cad872a719387eb7d",
+    "eb856cab17b1848b85bcaaeefe3b5a77eee8276551ff7bb9a5c036f10c34a4c5",
+    "3ecc6c79247b3afb031aa75928c1d8b530172df171b825043b8bef801c174c70",
+    "1f65677dfbcfcd4cb3c1bc9c04a142b31c47d89a1d352cf0a2728f0f2adcd0bf",
+    "e1b82d765cc860d9aa6c0926d5ab7a10e9e5efe0000aa4aefad82770bc31241d"
   ],
   "title_hashes": [
-    "f222a435e9aac0215d9ff3d579204c05990f9012c680253535d22d678eb75c15",
-    "4c1ed8faf40abe53b67701fd58765765a5f72c67115864cb0489f08ea0003796",
-    "6e6b1f2ea3affb89f90424b19c2e6fe45a9bd5f1ad3e45f1fa5affb4f35f2fac",
-    "feb235ff967837325a7eeaa650964dacf6e71645a3995dc634986e88ad53bfbc",
-    "1d50d9b5343f25af05d8526b6f07d0b8b0171285dda5b192c97bba9284f1232a",
-    "110cd9e1c5a42ae687383e58887ab11c3c5449053010222dea1be87f6383cade",
     "15b9f18f4f0d94047ee6a798cb8d2509d640c074ea06bec15fa9777e57b44ca9",
     "83742424c3741025d8b6083537e51c5fd9c8363f2a7d8d4409dc293b1ace8a07",
     "5e19cc0fb51a60ee52a446620d30e7b976538fc104d5a2d1c1d081007a4cbd7e",
@@ -8002,16 +7996,15 @@
     "44ed8a9cea407914a8ebce610aef9d8ebcdb5f8074e17237bead74a13230daba",
     "aeb5540d379d97243d6819c0464d56d1479b7853c9bb2104dfac97716c94a9de",
     "a7986aba6f117be5bdb9d6690d0b7fcc87584a3c533f9e3bf47855e39d4cb961",
-    "4b7e582dad0755a4cdbb918974a53b88f6db2fa2205512877810ffadfd8b149a"
+    "4b7e582dad0755a4cdbb918974a53b88f6db2fa2205512877810ffadfd8b149a",
+    "d9f1675130f17902418c7dd36b09e34080df8389deb267e1c811a62b4fcbdc63",
+    "453eb5bf6d41ffa95befd5b9028b0eb6ef5e1836c72ed4186e03480b3355b3e6",
+    "83001bbebdf84ec05a5c4676e3292b8337c80fb1bd612d07ef3a5e92258d6075",
+    "ff36a3f2aaffec3908f3fa6640e75b458ce3819ee2e51059bbdcfeec1af96c3e",
+    "32045381e0a28f718399afd19ae79256461dbc70f646d43c510774c21e44d1e8",
+    "59772b0bc11fea96f416101c7672a8dd2da10dfbdd51d6d13b51fe657b334ae4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "TRUMP: LOT OF RESPECT FOR DARIO",
-      "title_ko": "트럼프: 다리오에 대한 많은 존경심",
-      "url": "https://t.me/marketfeed/1082813",
-      "ts": 1795196550
-    },
     {
       "source": "MarketFeed",
       "title_en": "ANTHROPIC FALLS TO $84, $1 ABOVE IPO PRICE, NOW DOWN 13.6%",
@@ -11504,6 +11497,13 @@
       "title_ko": "이탈리아 위빌드, 건설 그룹 트레비 인수 완료",
       "url": "https://www.bloomberg.com/news/articles/2026-11-21/italy-s-webuild-completes-takeover-of-construction-group-trevi",
       "ts": 1795251556
+    },
+    {
+      "source": "DongA Science",
+      "title_en": "미리 본 전장의 미래…\"우크라이나, 기관총 장착 무인로봇으로 반격\"",
+      "title_ko": "미리 본 전장의 미래…\"우크라이나, 기관총 장착 무인로봇으로 반격\"",
+      "url": "https://www.dongascience.com/ko/news/80975",
+      "ts": 1795251768
     }
   ]
 }
