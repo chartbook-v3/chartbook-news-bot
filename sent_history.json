@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795228865,
+  "updated_at": 1795229023,
   "id_hashes": [
-    "7b6ccbeabe83c5f14b000b59930f858fcd8c67602539a52a7346915a49857fac",
-    "af1ec085ada4dea27f94bdfd304e30560602f616f815f896e29d61f82f5ce64a",
-    "1be00532d9e127dda56ff2497d37f0226501c0aa2d553ea06d054b9e7b2fb9c5",
-    "bf85f07f6610a550771c285852860babd49e938df736944a08e81fca3e5f50cb",
-    "d501dc769f2ecf76895022f6f1aef948cb0b2b6ea905622d377e7c88d63a6bf1",
     "944e756efaf8212cf7865b8053258fe3002f5a8ad58e7029ba37ced0bcf810eb",
     "ce70892777ba2c8054257e407f6000dbc4b8a81dcf84f5fa5cf26f9adef9ddbc",
     "acfbd4f3e06bebd61423572dc4f0ad64d6a3b5169053b234b3bd3fbc3143bfee",
@@ -4000,13 +3995,14 @@
     "70879c4f4775ab745884e5867b9fa62a2377a2780d588a2149f38c1c1d63be63",
     "3624ca1a943730925df0646c1805abcd1b44bde4e40eef0cf8612d08244b79b2",
     "9d1ff93587b17de86c52626530a4167acebeaa23a48cf307d608c8afeb3d4eac",
-    "3564396dd6727a0721adb960830a74e48610d6de7cc642c194d374bd76041d30"
+    "3564396dd6727a0721adb960830a74e48610d6de7cc642c194d374bd76041d30",
+    "e0b3bde9235b1b0ad99e270b70c96a1aaf6bdcccc5560383604a524c062fad09",
+    "d0aeeba8565deb336d39f577ea73ff58ffc1275d2a3f01a5526102bfee7a0a73",
+    "f9bacb06c8f376cf8ebc267f6403ce34420222ad023819595f7d49862eda3062",
+    "87bad2958abfcd0232d0fbdb96e62e573e28712991234d04b2d3da9b005fa899",
+    "9914ddfb1f795b4d7cf0f925e58e41b728fa357eda8e96bcdc94ae502762454e"
   ],
   "title_hashes": [
-    "dc1991fd36021fc9fa88d69b1b7eb26b884adf681bff6a9dce58cc38a5eb28a5",
-    "9f240e72768c0bf2024f653afc340d5c1d52b172a1385a89624dead6a19b0888",
-    "c8a7a0a92091f6e3cde8e933a629dae6cadb09f1e6c511e7b49bc4accd69d223",
-    "f419ccbbe508a273d8db1ec113909166dd70b8afe1f62c54fc8227887e8d80c3",
     "665577817f7d24b1e92220cbed17642a0fc700b5bb10a4504c10454bb1bc69e5",
     "0f1519b6ca17def8d508ccf6888d3555ebac8d02477820e8e38dc639b6e2edff",
     "95473300e498699ddcf1ff47600ff95d145ab6031d4d94506a355dc93464d969",
@@ -8002,16 +7998,13 @@
     "804b826fe4f7dd97ea897d66aec628922097d4b4e44f74efe8fd6b2cbe024c9c",
     "bc15ed3fa5a45c642721f10e91bdeb15a52df3b2fee8016bbebb8c36868b3618",
     "81eaa248a62d89865026e528fd2db310d0f83a2de7eab4acb401a3ffd2d7aca3",
-    "657297bdabd955cb1fc61c6177201d5faceaa47b2897e5ae56cf45aa2a67bf29"
+    "657297bdabd955cb1fc61c6177201d5faceaa47b2897e5ae56cf45aa2a67bf29",
+    "cf11ba4652c6d1ba5b82421feb29a998fa4735ea31e6fbd5469835c8c28408ed",
+    "5087bb54bcb1a9606667472bff95fe42e74111ba504bc23b625e6777ba6006a3",
+    "08dbeb6343c7a31838ffce3d8ccb6730fcfecb3ad8c96b27cb1a43cdaf55cbf5",
+    "f9f2b118701d0d32e75672b09b01dc7368e79d714141d0060664b1b72ac640d2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Apple in spotlight as UBS weighs in on iPhone Duo wait times",
-      "title_ko": "UBS가 iPhone Duo 대기 시간을 측정하면서 Apple이 주목을 받고 있어",
-      "url": "https://seekingalpha.com/news/4675232-apple-in-spotlight-as-ubs-weighs-in-on-iphone-duo-wait-times?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795193059
-    },
     {
       "source": "Barron's",
       "title_en": "AMD Stock Is Getting Crushed by Anthropic’s Drop and a Short Report",
@@ -11504,6 +11497,13 @@
       "title_ko": "전 엔비디아 CEO 젠슨 황(Jensen Huang), 상원 청문회에 출석 - NVIDIA (NASDAQ:NVDA)",
       "url": "https://www.benzinga.com/markets/tech/26/11/63514544/former-nvidia-ceo-jensen-huang-senate-hearing",
       "ts": 1795228864
+    },
+    {
+      "source": "Wccftech",
+      "title_en": "Upgrade Your Everyday Audio With Samsung’s Galaxy Buds 4 Pro, Buds 3 Pro, And Buds 3 FE Starting At $99.99 With Up To A 47% Discount",
+      "title_ko": "$99.99부터 시작하는 Samsung Galaxy Buds 4 Pro, Buds 3 Pro, Buds 3 FE로 일상 오디오를 업그레이드하고 최대 47% 할인을 받으세요",
+      "url": "https://wccftech.com/samsung-galaxy-buds-4-pro-buds-3-pro-buds-3-fe-black-friday-amazon/",
+      "ts": 1795228896
     }
   ]
 }
