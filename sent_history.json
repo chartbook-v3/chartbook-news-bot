@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795250519,
+  "updated_at": 1795250667,
   "id_hashes": [
-    "dfa73b6f317db1d11c99d682a657323ad4d2391b2b219a058eeb5beeb8095e5b",
-    "d9f5b63750d443b7ed73041e5fd11e3bbf217e82ef43877d7207c01f22f57928",
-    "a8f4f64f6ee96408c249f3570e44b45c8e62c17676b90eb46153c82eee17279b",
-    "11aa649a9e77cc2a3bf4a3791d10a8acf4a1dc6abd017d67bc58b30c1009499a",
-    "d5b7274247dd485760c8a0152a0aa9d42460675b32376f02d7109567a63be968",
-    "587679f7be5951ca742d9dbe7d37c7cd2722bf8b16b295880db86f9196f147cd",
     "c9eed925a0db0366c8d51781bd23eec1a9206e12ffbe9ce75bf264bf373fd33c",
     "47a7a44dfbc1b22f71d215bac0bd83946b23494896d69abea65cd96348558f11",
     "79eb47b1d288323a790aa2187efb5bbbc7ea267c9a403ad3dad1e475ce202fd7",
@@ -4000,14 +3994,15 @@
     "0d0138316244a8d93677453221769b6921893331366e142924da35fa0d82a757",
     "059e85b6df2a585a8f6f38d9bc99febb37713b97842e62729835f30afee70ee6",
     "09afa2163f0247b73655f5e622853218df2a284fc0346fd7bd39e745a12bc090",
-    "47448ad9a596fbc3803f3d0d1a8a04ca6f04362af9b5bad5f208870baa1fbe57"
+    "47448ad9a596fbc3803f3d0d1a8a04ca6f04362af9b5bad5f208870baa1fbe57",
+    "31d3efabea129aff4aab3b1655070189059affaa6194ce0c7d6bd0c96254c48d",
+    "621ffeb85d3726222042d12193ec5c8728fb9345da956e3e91332fa7109654fb",
+    "e7a4f75d09e019e970ecdbf6ebbc5184cc4a1673f1b252b3b2f99c645b8fecb8",
+    "3c510434edd4ae0e41f82a95a04ed436988a66e7fc462a052e4c2aa9b4b45671",
+    "fd99538fd3c8564c047e49d349eab96e86881ce307da81e6dd034b63aeda4dc5",
+    "b32f290e2a0dddab37134a77c4ac3401c84ba75fc6a0c1142a6ed2d55c15931b"
   ],
   "title_hashes": [
-    "7d6f203ed0935d7cf24c7da4ab66a3875d71d80a43d9e730e8bba2e87941bcf3",
-    "3c3c48e204ebb4c0c85f78e18c2ed63e14be06d3999cd8e7b330e94340d10658",
-    "3c00594feaa026a43eb1ec5c92fe44010847f5c13b88881d4de437925a504171",
-    "32ddb8c099467881d91b273e92680c77c3bdb714590723393b691f11dd8b3da7",
-    "27179ef3d43ce05ba4d9b669aacd5716b80b9b3e2c352d3f15150227322cb54d",
     "2883abe1c1120c0c16e7e2a9a1dbdb30d07bc2adfacfbc3a07630d19a957a723",
     "7a3be7c828c6b6fa7dbde2714046f0f6a1cbe9f623e99bc9326db172c9de80fb",
     "22da5716450a0ea872e0759bb9269413b443435fabc2ae232574ffd0066ec962",
@@ -8002,16 +7997,14 @@
     "5972a41eb7f1c93277e6ec95051c6f8aace54a3fdd75f45790f2243963fcf06b",
     "716f05490bc73c03f10e03cd3621bf1a7b7e3c3c66bdfd5a5360ef45cf02fab3",
     "6ee4dd906a597afedaf650955280be1fa06c54a2ff074defea86c33bee6f6f0a",
-    "f348f6b8d5fee199f33ba222e22a43e6d07c2d569960df4ae31fcbeb431f1a57"
+    "f348f6b8d5fee199f33ba222e22a43e6d07c2d569960df4ae31fcbeb431f1a57",
+    "2758781d71da49c82296285b6d283a8721439be41b8d50f43334e6a76d005c05",
+    "f4501d876bc5a795dcc6360c428e439b2e60293e3f3d817b2c4a0e808368a5dd",
+    "738e967da1685e23ff049dbc24f3d7b794398e2e56acdb4c28efe7a0754a34a1",
+    "a2d2c7a1b60b804b1470629230f10be648971640ec95e3209801463581ef0ea7",
+    "f1cc2ebce4e6777acb1b62a52768f29847a3d3bec14be392678c6fc12d0dbaf9"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "TRUMP: IF US COMPANIES DO, WILL PUT TREMENDOUS TAX ON THEM",
-      "title_ko": "트럼프: 만약 미국 기업들이 그렇게 한다면 엄청난 세금을 부과하게 될 것이다",
-      "url": "https://t.me/marketfeed/1082806",
-      "ts": 1795196389
-    },
     {
       "source": "MarketFeed",
       "title_en": "TRUMP WARNS OF SIGNIFICANT TAXES ON AMERICAN COMPANIES CONSTRUCTING DATA CENTRES OUTSIDE THE US",
@@ -11504,6 +11497,13 @@
       "title_ko": "'최악 폭락' 엔비디아 3800조 증발…\"지금 저점\" vs \"더 하락\" [분석+]",
       "url": "https://www.hankyung.com/article/2026112114747",
       "ts": 1795250083
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Analysis-As Trump basks in summit pomp, China's Xi strengthens his hand",
+      "title_ko": "트럼프 정상회담 화제 속 중국 시진핑 주석 입지 강화 분석",
+      "url": "https://www.streetinsider.com/Reuters/Analysis-As+Trump+basks+in+summit+pomp%2C+Chinas+Xi+strengthens+his+hand/27382879.html",
+      "ts": 1795250541
     }
   ]
 }
