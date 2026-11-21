@@ -1,17 +1,6 @@
 {
-  "updated_at": 1795296263,
+  "updated_at": 1795296420,
   "id_hashes": [
-    "d5a43fa82573e682f99b361a7f5d7dae3d4ee462e177cd99a6c1cd2baab587be",
-    "2bfe3f84354957b313e8a87ee38a01fc1153187946df25acbf486a9eb2e5e138",
-    "8a23e07e5730391f43c9e266376d367bf844144379603bc9412bdafc3364900c",
-    "d6e074877383b318a0ad4b1af8c5b7dfee2904a4fbb44a5112da2190c763318e",
-    "a7483c7b07524331e12da9d5cd1ee0733d5ff5b3619f5b6faf78556fd2ed9d62",
-    "7739ea404243768e4ab02dd20f1962aa93bd224b68000a78e47eaaa06bcc1a00",
-    "c5b18be20102d445d33e2f3a41c4344bab4dc5794649be01c2dcc72c11e36a30",
-    "8d8caa2b3a8cff96e21b3fbf7165588be9c8ede57993acd74ad354e5971267ed",
-    "bc33d5ee506bfa64afaac3d1c6b761885066d2bf5de146063304cdaf22a06b37",
-    "c87bf528ffed25c6f90daae0cc244d117a495130e1127e1697a1c0940425c4d3",
-    "baee8082fd2d83e724604ab241507e10f45ce528138fcde29d7ead6f9b8f3f53",
     "9eeae4ad02327bd1d925daa55c485e4afcd09686f4cbaf396505b0c3f527003c",
     "0005ba841590925fc3cbc9365ae5d47649a299961ca73d39427c0bf100e9e86f",
     "65f0409f12f12199460da89c1fa20dceddbd764371f58635c9783dd24e74c939",
@@ -4000,13 +3989,20 @@
     "b8aa35368ddbbd5e4751cd048d2e49e65c8a42c921cf706c8fb332dc273c608d",
     "0759dbed1be39dcc0ebf1cb6979d231c541bfd66d87dccb52bac9768be9c3ed0",
     "f5db1fab74805f06f3bafdb9b663165cda57982e8ac762a88055a38b59bc0c7f",
-    "d162bd29b256faf46181e4ccf797019c70973a72d977474b830918ae1d308a60"
+    "d162bd29b256faf46181e4ccf797019c70973a72d977474b830918ae1d308a60",
+    "fef68864ac1256c61797ef643a580e44ad6c36c81f053350632d8872febd14f5",
+    "c3b750172a4cb9e9e99362fa39d41ecc84560cf9bb752c786b8710d02797f0f3",
+    "ee522c3dfa246013edda0f77afd7202cfdfe06a58182675900b71313c9e0c6b9",
+    "3f4e17bb18ca6593b476aed4a19a5a1b8b88f90da6fbe047ce42f53b6ae75bf4",
+    "f2764e60895ef853bd6254fda7c9903018ad154b37e103c50ba4fce0f3ebbde4",
+    "146e3159dca8d434dc9ecdc789254021ea633cb69790b639cd06015c88c4b168",
+    "07c2bb54e01aa67c64dab566f183c747b7995ebddb979565f99ab386bd1cf2bd",
+    "96cdf19100bc3f734d173589df02c83e79eddf1754719f41aa2f09f46c6d608d",
+    "1da1b0918cf4aa6f805cd48f69615c2a56de80018c0841f530b18ef51198545e",
+    "3bb17b86f732014fcbdb591c9a01a94c159331311e0a22bef68b52d280cd7cbc",
+    "d534b860cf1928bec837b9e7b45d226c6e12b1fb529e34b7170a5470dc2eedec"
   ],
   "title_hashes": [
-    "0b0b74363932849671afd98e0fb64be611e180c75c8d7f98781dce3b44474869",
-    "a85c770cfc4a8b77f2e87edf0a596b629b0be253beb7deab2da9a6ddb0f9e866",
-    "b358f826bd036914e6b073858095ebfefe7ce84ca259cca4782c9496208d0207",
-    "d5b50ccbcd8a4ee9ad2227e717a1a48e2b17caa1264d975f4cf90642ad971111",
     "be69547523ca272ed579788f19d5a6511328af50da2398a12127cf20c874e343",
     "3d329f7b3dfa9282b7f19c3f1dde9c3bad3857fd951e7ccc9e6102712e497fff",
     "9fd12f5f001c63644244dfab972a7ef730c212c79f8797373b63a4e7408b360c",
@@ -8002,16 +7998,13 @@
     "6408e752c8aba7ebf49c5c7e3eb746159d22cd5b315cb65c3602c4f09224d254",
     "84bbab66d303ec871977ecf71a3130f04252dbae47f9b6337aca3c891cb4801f",
     "c731782d15e36ec9eb534c965714b63772592d4bd3c5bfed80cfaf0d0794319e",
-    "cb4029ec23a2a8c1b7da091541efd695f243bada37fc3300fcffaff6b8635e93"
+    "cb4029ec23a2a8c1b7da091541efd695f243bada37fc3300fcffaff6b8635e93",
+    "d2278a9a672d1c5f9a20cb93be7209928ad8133673bb0f12838213b2ba870262",
+    "0fe0af6b35bf9c888867b3692e2dfce31ee2525b9732347d9add3a4cd327a452",
+    "f6d93e66c2256523a5e159f08d5ac6d7e81910f06a8648d7f63d4916aa492bec",
+    "4ecbef3ad63639b53235d5c206177b8e283661aeae834740f9c682e3b113e9fd"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Sony Said to Abandon Talks to Anchor $2.7 Billion NYC Tower",
-      "title_ko": "소니, 27억 달러 규모 뉴욕 타워 입주 협상 중단",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/sony-said-to-abandon-talks-to-anchor-2-7-billion-nyc-tower",
-      "ts": 1795206448
-    },
     {
       "source": "Wccftech",
       "title_en": "Intel Reveals Why Early DDR5 Memory Prototypes Often Fail, Details Extensive Validation Process And 256GB CQDIMM Push",
@@ -11504,6 +11497,13 @@
       "title_ko": "'수출 1조달러' 한국, 세계 4위 전망…반도체 빼면 세계 8위",
       "url": "https://www.yna.co.kr/view/AKR20261120179700003",
       "ts": 1795295907
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "급락장에서도 로봇주는 약진…반도체 장비주 시총 제치기도",
+      "title_ko": "급락장에서도 로봇주는 약진…반도체 장비주 시총 제치기도",
+      "url": "https://www.yna.co.kr/view/AKR20261121027600008",
+      "ts": 1795296417
     }
   ]
 }
