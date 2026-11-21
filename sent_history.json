@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795222368,
+  "updated_at": 1795222529,
   "id_hashes": [
-    "1543fb92c437ec1362b84160c02278872ea0464cf3539de11d795c6ab6612a90",
-    "89303bd76170327ba8c556a6ff8262aeee6d1ff10b09f429cadc6cd5eb700491",
-    "b1b180ade617db9a965a62ae19d81488b596d877c369a25873fe9340b06e5284",
-    "26024dabe9104862912dbb7fdc1958181ae1f07f81fa98c009497e8194f4bac7",
-    "4f251ad18692471966208d60d324213b62b58b1858553fffc5afc2b68b5ab033",
-    "56f262e47d4bb919c952ff2fa1fc4d3fb7327c32b66b1a8286eae997e0771bc3",
-    "df30818423bc838f18ee2c2b844c661aba58fd31079b6652b4cf3ae24262cb6a",
     "b58c899e14fb05d846e656ac2f89d3b12e721e0dff086cabec96980b97019053",
     "51c26c0f920a1a403d5caf48c1c1f3720b98aebf70deb910cf33fdf423111468",
     "738ed4374bcd52b06e4c7f6cfd09bf96ab39cbf4793958fdcbe75c78922f3668",
@@ -4000,15 +3993,16 @@
     "754b8394346c1ed8d3109fbfef1cdf98d3a82b4d1c65326444051fc8ec110571",
     "d289a6cb00170e0a6a01a07e82e44746239c8ccb4907d1ab3f0a5fa153e0b360",
     "ec74caa7448f653e41bbefba1bd5c49edb006544b7b206736ef910dcd447d91f",
-    "61f2aefa7538de76a9b16b9c1c9d208c324f3eb357c0674eea1700df78c9ac81"
+    "61f2aefa7538de76a9b16b9c1c9d208c324f3eb357c0674eea1700df78c9ac81",
+    "8bf247ef54240b3cfaeaeec1a9b77df915a951636624890f0508a8659e6edbfb",
+    "64486140c56404bd6836d8a027770339ce5c560144b8e9d60144a5de1a645b05",
+    "1282c837ccaa609dbd044d60bb50d42e9a42abf6d78aba8aa849b89253f05b88",
+    "1469bae52f14deab2b25fc356796e02a681c8d1a81d2e86b5f5be0f042c0b721",
+    "3d068257756154b9f87b1e423eb00ef2c9862cd5e59f454049b392d39def085b",
+    "4cd09d1f3fd7addc8a528d7cc58bc86d7e2ffe86a36a04489c95341f6129e2c7",
+    "004fb0c0c095eb0dbb058868cfa2534a6c9d30302a3603b9df449028a6d6ce4a"
   ],
   "title_hashes": [
-    "2d7d76ffaef2e1ca359943760e0d28a851c1a5bd9a023ab819a430a2d9a43c53",
-    "2e14fcb0345a1a26ec2e44e0172cd921ee32a11cc51a4298d7bc5daa362d604a",
-    "af7586d2c4068aa70b5bc3610f264666ecb29cdd9eee3e106101b4592259442a",
-    "d66fd1dbce9033bffd3eba70c87d77d8df8a8aeae23ceffdf6412cd9677d0fcf",
-    "9b80ce9dac2a880e126bab53a40eef06ffcff12f3892eaa39728d3ddd3860205",
-    "175092e4bed3161a9065eec1a2407575df8068f641201a6d56938a9ded112104",
     "76e592e4f810ba1603cde5b430f1f22740897d085e8fdb5969a8110d4e1f0da8",
     "ad1878cb97410b223fd52e82cfd9fec4f911cc1ab388b7096e002166648a7413",
     "d61521868daaa72dfed21165c237d3c1c0ccff9a871d20d1d6ae535113f1e5c3",
@@ -8002,16 +7996,15 @@
     "63f310a902cb5e69e52b61b7c48729ee3b4a1edb41dacccc78e5f388b48b87e8",
     "60d2922ae7355ebc62b3190006a66f0751da2a09cf43de241651746f674a81e3",
     "225e5a3f26f6d08994203ba14556ea732870ea6163e6cb474e49f7b2de79e729",
-    "d625a3b35e27bf897e73610b182d520200f4a03e16a2751a92e8257dad2196e6"
+    "d625a3b35e27bf897e73610b182d520200f4a03e16a2751a92e8257dad2196e6",
+    "ba39947bb860d9957f3e4e334a1728355d679516e64f740b2d8d5722a254d6f8",
+    "7926cd9f85fc9af764ec6f5ccc97fd01f0031e3578d31183be234460b5d64af9",
+    "e8f6ebfd51c2de55a1fb5b1e29e86bdabd262f1ce85b8ef32326c177f9ef2921",
+    "0be9449142a380a683df8436d52de46cad0cadb8238d0017519008d2a4c8a820",
+    "2065d5ec0d875872fe87bfbef0aa6ad28cd66341b800600402cdc18be03264c3",
+    "102d36c317f13dca17e0abd6fca85132f0c50712c7097ccc8f5e06c264b53eb7"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "ING’s $500 Million Data Center Loan Auction Stalls on Low Bids",
-      "title_ko": "ING, 5억 달러 규모 데이터센터 대출 경매 부진에 중단",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/ing-s-500-million-data-center-loan-auction-stalls-on-low-bids",
-      "ts": 1795191911
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "S&P 500 is near a bottom, but breadth still shows final low is not there yet – BTIG’s Krinsky",
@@ -11504,6 +11497,13 @@
       "title_ko": "기후변화에 대한 학교 자금 지원을 요구하며 유럽 전역에서 학생 시위가 벌어졌습니다",
       "url": "https://t.me/firstsquaw/194724",
       "ts": 1795222367
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Power Problems Reported at High-Rise Buildings in Riyadh Following Houthi Attacks on the City",
+      "title_ko": "후티의 도시 공격 이후 리야드의 고층 건물에서 전력 문제 보고",
+      "url": "https://t.me/firstsquaw/194726",
+      "ts": 1795222466
     }
   ]
 }
