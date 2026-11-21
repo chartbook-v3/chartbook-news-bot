@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795282249,
+  "updated_at": 1795282398,
   "id_hashes": [
-    "45730cb0db38779bc208d3bb1b685649c7d033cc95552ffd842bdda253beff22",
-    "cc59947605173cf1512fab0f6aa7a3dafde6cad58542025e4a1bb023706bca2c",
     "5be0b91974c9dc0ee27342a053c74f287967f4053c9145f9b36bb0f449ffcb67",
     "5a402703784ceef5211e40cc165a4160c992b7a900aada05e3ee8d2c1c1755c2",
     "cd5b9b84e213ed45abd2762feca99fcf93b45bae62c5eef5812fa24c5d47051a",
@@ -4000,11 +3998,11 @@
     "3af38f2434231a78fa3a9e1fc5a336ce80a0136dc869ff4424852c2b8dba2c1c",
     "156ed702a540f3d83c66b7f055eed72358b2f45232dcb4f09e66a2c044aff1e9",
     "366a76f6dbe84088402f491dce68c8724992114970c121c94908d5e5ea3b679d",
-    "512b7525559b07e9772f92141c6b934247603877c6c6603f567e0107e96da347"
+    "512b7525559b07e9772f92141c6b934247603877c6c6603f567e0107e96da347",
+    "a28eb92da93ea5a36243dfdc43fc523b6558fa3e55102015153056d0fef0fd31",
+    "4449c4c52e50cb8a352e94d1c484510edf40f011f77ff1a043223f184b5bcf2e"
   ],
   "title_hashes": [
-    "2b14fe4a7cefd1e16ae7c6eeecd0f2e6aadd9f99001d71acc4c7085e20e53441",
-    "f04ad386d338a857eb4f211b642b55e8a4b600bc220861e60a28ff0f494ef94d",
     "3b3539525815bbd625da81e355eef5f248558faeb01b296622577c13c7c48c6e",
     "dcabde9beaf73dfea5c2dc8ff9151ad6daba8c70e86e1c4d27bc7b422a47bdbd",
     "708a40e1d93a2c17f6523318db11cd92efee1eed608c7f3cdeb78042277f8729",
@@ -8002,16 +8000,11 @@
     "2213078f3e092e5f021e6011f50a785baf5c4b21c06feb2ef534a294af58d650",
     "927b3c8a983523a55eb71daeae9c10f72a4332ec7c367a56d01a0656a2a81872",
     "e00424c162edec805694521d4691dbb108bca5c8c18e5ddfd30afae4744a1e5d",
-    "d4dc5a50f21096cdd45aee0619cd84d3a2e044c53d4b31cce8e18a42aead0d39"
+    "d4dc5a50f21096cdd45aee0619cd84d3a2e044c53d4b31cce8e18a42aead0d39",
+    "41e2935f8852ad4172e2ab2be9a6db433bc5060e3d9803b63f0eb328bb1f7e6a",
+    "2d6372a5682b592c350c58fec55a2e00db43d3636e71e2861576059f7ff222b9"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Barron's",
-      "title_en": "Funds With Anthropic Exposure Got Off To a Rough Start. Even Riskier Ones Are on The Way",
-      "title_ko": "인류에 노출되는 자금은 힘든 시작을 맞이했습니다. 더 위험한 사람들도 진행 중입니다",
-      "url": "https://www.barrons.com/articles/funds-with-anthropic-exposure-got-off-to-a-rough-start-more-trouble-may-be-on-the-way-efee6ef9",
-      "ts": 1795204131
-    },
     {
       "source": "연합인포맥스",
       "title_en": "엔비디아, AI 테마 투매에 '와르르'…알파벳에 밀려 시총 4위로",
@@ -11504,6 +11497,13 @@
       "title_ko": "이스라엘군 \"가자지구 북부서 차량 이동 중이던 이슬라엘 지하드 군사 조직원 3명 타격\"",
       "url": "https://t.me/firstsquaw/194872",
       "ts": 1795282091
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "BITCOIN REBOUNDS 8% AFTER PLUNGING TO TWO-YEAR LOW",
+      "title_ko": "비트코인, 2년 만에 최저치 찍고 8% 급반등",
+      "url": "https://t.me/WalterBloomberg/38874",
+      "ts": 1795282397
     }
   ]
 }
