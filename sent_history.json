@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795257649,
+  "updated_at": 1795257798,
   "id_hashes": [
-    "38edcb36773a713dea26723742efb96664dbe9922d34f31a6e5a78b5e7cb58e1",
-    "b49d6de22d5b39488ca61198b8c3a3621cd026880c0f823f5209334d3ebd4cca",
-    "8a2c064e6a9b4ec87bf41bb63601e5adb99ed85e11d8879dc6326838af47db8f",
-    "9c856770611e2ae5234ccc310ae997203e6e0e79c73c1841c9cbfa6681be78f6",
-    "b886ef877886ddb8b53bfec08a42fea4d6a404ba4d0e4218a6469107d744fe91",
-    "e8cb5bb448f4604115b4e385877d06e323d48fcd2c289f281dd9edeea5aa182f",
     "481c759d1c1c8cf5800c4307a994cf7acf367c85304a02728c0841ae29428ad9",
     "4f0bf1716ca950d4e54f6f69aa92e5e56bbf850d166f56c10a4931b925405f7d",
     "3ae8ee6371c870f5ec119b018756fbd0a213525d0524bdc53d78edc252a68eb6",
@@ -4000,13 +3994,15 @@
     "bb9ba45f5358ee3cad7f7f871fae2b763c922155306927a66ab3083060ae8d8a",
     "80274148a0950b6f6f3f94a5dfa5b099ad8ae3450b020aad65438ef539421f33",
     "2b8506d8326c6a8f1363f42e5b21637c219baaf18aea4198b3f15417a615e42c",
-    "6c040afe6444ea6fda11bd665b805512cdddfc696db5f73398d90c9fbcdbaa67"
+    "6c040afe6444ea6fda11bd665b805512cdddfc696db5f73398d90c9fbcdbaa67",
+    "18823f2252f612e56b555c220e973fc09239a3ef8c8296f12aa57e07292cf3d9",
+    "20de4a1cddbc6f6d0df5207f44015bd3f5f5550baeb502fcc52ae764d33f71b7",
+    "2e88c9a3e8c4c94b886f8399d8f9b3817f76d7de37f203d8f099cb30c12d7041",
+    "f8f468a28497d59b2cc0c9e51999812c54906cb3251ea8a3c8dfd7307188825e",
+    "15d0a103b3cb15fb3858744bfa2caa5ae335a752383854ce2294e4ab9369e23d",
+    "f3a936513fb080b05666607b3b2d48c1b5ab3ec40f4b4c86d2d3233791292f0d"
   ],
   "title_hashes": [
-    "a355463950ced4c29e9e6e31aba1d965738cdc854aa223952a23841de066b0b5",
-    "6a907dd28524cf95eeb7ba37f7617895969b146acbce718e8e8f130622a77cbe",
-    "9b269c6325881658d1b14346ed4605b555d894894dd466965e5bb59cdfec1159",
-    "e3e03da52d04f2fd78adf8560995b124a5a55d438c414c8c9d0923e4dfed3d4d",
     "6fa5fcda5d6f7b0f17577ff7f9509dd112be51a03c90ccb4c19ca32ec43294df",
     "fa9f8fc5b1ac99be5a779c7f3ca238aaf2f8d1b958473b1f1aa3053a875ac849",
     "cc09794914db12e187dc2a37e56fc6326bbcf897d9236a4469d714d79cb102f5",
@@ -8002,16 +7998,13 @@
     "ac817d35dc171652a838c8092c0559e9ef14a69a9c27073039ceb80c8b80d8d7",
     "1802e4c521c4af04807fb99229db05855b9c082daeba048c4908dcbc78104877",
     "c44c942bff8f009f2ef6b75d99677579b3528b8e6f99fe7ffc5eb64fbf01c8dd",
-    "af826b5de07b5f14cb069b7c7651271255d05aabd10d24c7afc211053c1de98b"
+    "af826b5de07b5f14cb069b7c7651271255d05aabd10d24c7afc211053c1de98b",
+    "1b6abd53e24065952eeee4d48fe6ca8f22f118e09fabb1164e8c91871e93f345",
+    "01c5f5611eea15b38ee670769ec5cf8687cd235ee7754233d93b36eaf97d9ad9",
+    "3d273d470665728d69f0c8cf6271d896a5daae4be6193e5e4db0d10f52bdefb2",
+    "89bbac6ec397f5abd57243292f420426d4826ba2a5b5b2bf39947514f6639c67"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "New York Fed Records $401 Million in Accepted Bids Against $401 Million Offered on November 20",
-      "title_ko": "뉴욕 연방준비은행은 11월 20일 제안된 4억 100만 달러에 대해 4억 100만 달러의 수락된 입찰을 기록",
-      "url": "https://t.me/firstsquaw/194691",
-      "ts": 1795200428
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Trump Says Both Sides Are Exploring a Comprehensive Arrangement With Beijing",
@@ -11504,6 +11497,13 @@
       "title_ko": "트럼프·시진핑, 군사적 AI 완전 자율 결정권 배제 합의 - 베이전트 SCMP 인터뷰",
       "url": "https://t.me/firstsquaw/194810",
       "ts": 1795257492
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "France Expresses Strong Disappointment With Latest EU Budget Proposal, Rules It Out as a Starting Point for a Deal",
+      "title_ko": "프랑스, EU 최신 예산안에 강한 유감 표명…협상 기초안으로 수용 불가 입장 밝혀",
+      "url": "https://t.me/firstsquaw/194811",
+      "ts": 1795257733
     }
   ]
 }
