@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795247239,
+  "updated_at": 1795247389,
   "id_hashes": [
-    "6b86f9216730202a47d1f72288171f050b771b60cf52cec786ca3d8a95a224d5",
-    "b23da6d3d0792238fd6673bd96dfd83e46995773097837839ba6a098105afd99",
-    "3b3810ec16044356dd355dc457ab23596bcbb87a852c1fafb877aada2ed2fbbb",
     "6cc16aca4cc5c987859fb8704af418a00f65acc35008ea74f6dadc653573a9ba",
     "b2278a93e9130cc9062af854310c0a5c31c5e6226da5631e7a4f9faabca6315e",
     "2232e4517556f943ef1be43b446604c28a1315912a972a774d63406ce52e99c5",
@@ -4000,12 +3997,12 @@
     "f8d6e39c75fd644e072f3e5851bbe155b99378c6dd391b8eb50cd3f0e96b1d83",
     "82caa4e970a24fd1d197a5df97fca246b3289615ac358757839aeb80988344bf",
     "452ffb71a6f2272f44712d10d9cfed9042e48585f10b967fd829b68d1ff1eebb",
-    "6f6ead2ba9749ca0d2c70c562d331d5a437da1b632cda1b69c96bd1a3d7cc00f"
+    "6f6ead2ba9749ca0d2c70c562d331d5a437da1b632cda1b69c96bd1a3d7cc00f",
+    "f212178b10dfa6b69704b61b10a58cd6fec97b1d17c7cdf0f871e283732a6bd7",
+    "71808dcbc29308031dc20c6939d75968f1d4b1e5d95eaaf400b7896a2412e538",
+    "a9bf6030d91772dda8519bd0514731dec54635063008f3a0bf6be73456391e2d"
   ],
   "title_hashes": [
-    "4cb927fb7396fff65aab4a9189ca7710c574c01a0beb1acb6a2979aa5a1d3f6b",
-    "4c8f424073166b2b322956ee4753c6934f7bf58923c3827f796a8d20c69d6dfe",
-    "58b8e5bb07daa23dbdf53c8646fc319c584e7f0d0c19361f16731f089fed3397",
     "d7e2c70185235f94395d8c46fa6d310ea28ddf24f8c463150257eb7a07c36545",
     "05b706a73b2a51a0b0c0dd1677a7d2c27745b78b6073457ef2d5e9a2714952d2",
     "1bd2dceaee7e331bf81c4f6f5484ff9b5a68dca495f022062e83af7b904c18e9",
@@ -8002,16 +7999,12 @@
     "18c661566ce894ae0abf4b2af6da131d9e55d6b18e9e858ecc44b7f1cb900284",
     "fc04177608011334157f2dd61b87b927b98d2b06efdd61e660f01d5c38bad529",
     "e86c0c7f75310522e974afb776be7ece431296b51c7ddae0ca6a7120a6c8ef7e",
-    "80000c7277c8e40eae4e76c0e8ea945264df41d7de37b20bbbfbf10df823f2a7"
+    "80000c7277c8e40eae4e76c0e8ea945264df41d7de37b20bbbfbf10df823f2a7",
+    "deba25fe08a4613e022a34d310344a9173d50fedf9ed80b6ddfc92a322632e66",
+    "e508f4765fa956154ddbc1fb75ce2f1f6e9ac3c043b177b96f4403b19b51633e",
+    "9ce1660e5ca98acb39e494f6a00bb4918b2fb8585c5a2104c67f04a1475e66f6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "美国总统特朗普：我们必须完成空中交通管制系统的升级。",
-      "title_ko": "트럼프 미국 대통령: 우리는 항공 교통 관제 시스템의 업그레이드를 완료해야 합니다",
-      "url": "https://wallstreetcn.com/livenews/3203508",
-      "ts": 1795196316
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Waiting to act when a policy adjustment is required has a cost, says Fed's Cook",
@@ -11504,6 +11497,13 @@
       "title_ko": "UKMTO는 보고된 부상은 없으며 환경에 미치는 영향은 알려지지 않았다고 밝혀",
       "url": "https://t.me/firstsquaw/194791",
       "ts": 1795247180
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Trump Jokes Stephen Miller Could Run for President",
+      "title_ko": "트럼프, 스티븐 밀러 차기 대권 주자 가능성 농담조 언급",
+      "url": "https://www.benzinga.com/news/politics/26/11/63514908/trump-stephen-miller-president-vance-rubio-2028",
+      "ts": 1795247388
     }
   ]
 }
