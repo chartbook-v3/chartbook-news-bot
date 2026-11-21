@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795241391,
+  "updated_at": 1795241541,
   "id_hashes": [
-    "3ec2190d47d2af7df24da0c3d921d2544a272551e1dd84f82e6baded5c5fed1f",
-    "9446654e7791f6728bb571bb49fea415644f3c9861ba7670b79b059d4dd656be",
     "5e6222f7a74ec3a905d32b1fb67e9420dfc99c3bbd4c4af6b18b99bb053499d4",
     "5cee15d1cb7054ab9400d029c72b77fd2b4ca90fa829390cd638d9211dd63c19",
     "f113b05601521bef9d3de8c81e0cc2bbc2e13cab29fb624833f2896abef1a09b",
@@ -4000,11 +3998,11 @@
     "8a9433dbcefc70f6b477f38183e66285c5978d56fb3c198df1657c140b6b91f6",
     "2b41167cf30d6b918f1841be2d2234657617a478a96cf5102e523c949f15779d",
     "1121b45954dc18fe71d751a9a81e262e4e117edc97b1d6fc795b3928a792407a",
-    "f61c891d2ce3402e1e03ed772f742a703e097ec52028b54622d43590d52b31fc"
+    "f61c891d2ce3402e1e03ed772f742a703e097ec52028b54622d43590d52b31fc",
+    "5e86ba6720c6e30fd882d44aa5b9b12fc7a3af714779b826d93df0a945b4c12b",
+    "51475c4eecd1a04081ae201ff3d3a618f6a11c5d2bb383654fb9cfa9a1606efe"
   ],
   "title_hashes": [
-    "ef7d7ed3cfbcfcfa96dd94d5b99850aba1d26cf2bb12ce6e3e72b4a72d540b13",
-    "5e2a5964b6e4169ab37a7b9b199bb2685eb68908ee7b7925a222d2878ba94f3f",
     "94836abe1c0c26f379d6bfc9e0f817aae187a57cd1cb5c1cf6f3ef321a35f3d6",
     "181b7b8daa39468fba4b66e3befc10a3b1f9a87e3f3213e75dd678167ecfe11e",
     "e1ac1b1ebcb26faa481c17be24ff65345decf57c70c297196f26b5ee6993c479",
@@ -8002,16 +8000,11 @@
     "027b847eee892f7800542a7d53b9f206f857fdad4b26c2638f832e948a64c72f",
     "93244455b9beb5778f544e8c48c4662a84357c11c7277581cd1b24efe9e31f79",
     "7e26531775cf03687fc66221bc3965a9f1405b71df552f4df78010a55a71f28d",
-    "df2bd0665afaf7445b16a27c3337221bbf9929b77c4219d1b35227cdd2e41c56"
+    "df2bd0665afaf7445b16a27c3337221bbf9929b77c4219d1b35227cdd2e41c56",
+    "504100c67efe6a4a5ba41dca5c52fc86d8568df863f8c23f31abe7246329136e",
+    "540470ade98ca47f718b86334aaabb1243f2e435675cea7994693f03c9f15733"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "TRUMP: TEN OTHER TRADE DEALS COMING VERY SOON AFTER ASIA TRIP",
-      "title_ko": "트럼프: 아시아 순방 이후 곧 10개 다른 무역 협정이 나올 예정",
-      "url": "https://t.me/WalterBloomberg/38801",
-      "ts": 1795195728
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "美国总统特朗普：即将达成大约10份贸易协议。",
@@ -11504,6 +11497,13 @@
       "title_ko": "존 터너스 애플 CEO `관리 계층 줄이기` 네버엔딩…아이폰 카메라 총괄 존 매코맥 떠났다",
       "url": "https://www.ddaily.co.kr/page/view/2026112115002820158",
       "ts": 1795241091
+    },
+    {
+      "source": "Barron's",
+      "title_en": "EU Mulls Tax On Big Tech To Boost Budget",
+      "title_ko": "EU, 예산 증대를 위해 거대 기술에 대한 세금 검토",
+      "url": "https://www.barrons.com/news/eu-mulls-tax-on-big-tech-to-boost-budget-878c400a",
+      "ts": 1795241540
     }
   ]
 }
