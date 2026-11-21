@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795255526,
+  "updated_at": 1795255671,
   "id_hashes": [
-    "92f817957333b77b962f70953d79697f378502697870d194f1849c31cd2f4214",
-    "7eecd74d28554a8f1b95cb4945d6e1a647e927cfd5381495c6e60a2eb470e2a2",
-    "88117aa52bf8518d07c38be68ec88180965cdd0944c605f7cfb12b03fee497c1",
-    "414bb6abc71670452bd73bbfb610e7cf999408bdd4e9292bb575e12623201a94",
     "d4c21cd4fb6b4cfc7e3b376e06fd26e91339948070c5c2c132b3216786bf8399",
     "401bba392a6768ccde3968eb62e7d80d7d0ff51a841c4b9c28c7e30b6b34a41b",
     "9e0aaf273db91c24e49781337bf25453c4d6074f3c3967c7d032467fad5d75f4",
@@ -4000,12 +3996,13 @@
     "7c97859b41251568e026d6e7ae0de47daa97315ade63f768971132556ce40f57",
     "07d3e858fd21a1487d0e0dcc84978e993007d96da4405afa9ef241d696dfe788",
     "ec0f6974074d9c2d1052c2e17efd24c69ba8ac1e9c4fdcfc10fff4a7255b7f44",
-    "3adefca946dc8848591c4e37a6f28b230d1f01669139be88db199776b1014508"
+    "3adefca946dc8848591c4e37a6f28b230d1f01669139be88db199776b1014508",
+    "450cfdc591f3fd9b0bfbf91c540c32d170c76611b50b9f90407c7fcd735231d3",
+    "d05e5211cf4fec9592a44eda8c3056791bd01944ecb9e97a3315c3f2326d769e",
+    "a3ca874d50fe7dcc9922ccd41851228bb2ff540df0a0e678578a9b31d3e90150",
+    "e8d0f126fa946076f674ad892809e7ff8b4a82b5809d11cc30926550235306c3"
   ],
   "title_hashes": [
-    "4cccc04d43c1bf36172bf01917942387617e27ec4aafcfda7f684116a8849d21",
-    "11b1930090aaecd0e07684e9586529ff297dfcca8e290eace30941984acbe71d",
-    "2e781ba9f807556777776079cd73116a1789e21e9c88f5c519277478d1d19096",
     "5d51236198b3735372dc57334be08a0079245fd306cbc4657fcae1a2d027cc89",
     "8677b81c88782a42b620dd4abd7035a456a790c62266609fe7b0ed59ca8da8dd",
     "69ca9d0d1f3c4af97f526efc75c91f0edeef5c841e7cc62051ab8ce644e66481",
@@ -8002,16 +7999,12 @@
     "ecde534be9d5174776b81b63bd3cd19610554c5a240276fd933063cde32c3669",
     "aa4c1c482848d526d2ade4aab3e6c83809a5c991d220635fab64e5e49600560d",
     "d9815a75a2e2843c566a453105992a2e7d24db4fce26609d1a79b5eaf170bf88",
-    "2bf9f0b29b60098690ac3f4f8338b1461d00d21e4e2e7a283792439a1425b90b"
+    "2bf9f0b29b60098690ac3f4f8338b1461d00d21e4e2e7a283792439a1425b90b",
+    "0fde2f716286e275c00b1c2ad4905976fe4c84a033439cd4af22b51bc4899acd",
+    "6e4a36b5d8e17b5e0a21c7ae98d3d2408e477f3a1a334dc1e3c6e1ca23915f86",
+    "30dea068368dba75402fab0a2efd0a7dab38efefbbb951274f297b8716ca7af8"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "TRUMP: WE WANT ONLY OLDER CHIPS TO CHINA",
-      "title_ko": "트럼프: 우리는 중국에 오래된 칩만을 원한다",
-      "url": "https://t.me/WalterBloomberg/38831",
-      "ts": 1795200363
-    },
     {
       "source": "WalterBloomberg",
       "title_en": "TRUMP: NVIDIA'S HUANG MADE BAD DECISIONS BUT IS BRILLIANT PERSON",
@@ -11504,6 +11497,13 @@
       "title_ko": "유럽중앙은행(ECB), 토큰화된 은행 예금 및 증권 테스트 파트너 모집 착수",
       "url": "https://t.me/marketfeed/1083161",
       "ts": 1795254952
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Russia's Leningrad region governor: cargo ship bound for Kaliningrad hit by two drones in neutral waters",
+      "title_ko": "러시아 레닌그라드 주지사: 칼리닌그라드행 화물선, 공해상에서 드론 2기 공격받아",
+      "url": "https://www.financialjuice.com/News/9862922/Russias-Leningrad-region-governor-cargo-ship-bound-for-Kaliningrad-hit-by-two-drones-in-neutral-waters.aspx?xy=rss",
+      "ts": 1795255614
     }
   ]
 }
