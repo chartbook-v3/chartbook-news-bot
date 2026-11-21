@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795225836,
+  "updated_at": 1795225988,
   "id_hashes": [
-    "09f897f86c57f465b9ce3ffad85252a44fe2a2f71b7bc6168a2c323ffb75c16a",
-    "3d99bcdd36701358cdaf5f540a6d802c682cc7d794a191227c018c9d9dd42732",
-    "197219057b476624dda8d7a1aad730dc9df8dd30c1168af53b0607a3859945b9",
-    "883c254720f2e0328cb09168de755a5d517004925fc6250d24b886f24c8371a9",
-    "d84be348dd94ac0da6af66cfb2d4a1dcc0e63021b59f9e03f6c9755815b931ef",
-    "c00f3be209953c754e57aca4480b3469840c42a573f497c2a85bb4c8b934bea1",
     "31bca7d3009662ee4a61714f3304b1b73f43d374c0cfc140ef016539dce067fc",
     "70172efec192fa742e23f09d17e7c2bbb71803bc91a43459599b4b302ac1fe02",
     "dc59afc58b4e5e29c819c691bf3071b810412ade4ce900b7ca414eabda8fcf4e",
@@ -4000,15 +3994,15 @@
     "b6f3f3912e1a5abace59bc08033a3bbe4a104ae2d63df1cea3d3f1a86de71e2e",
     "40fb0974ae1dff2ce6d1e5c2801936dcb3417e434d453f0d4930f60a8fb719dc",
     "6f13fb9ee98a551148426cbf8244347588b44f0817476239fb4e0e01c49f825b",
-    "8dc9a8a5897b4fce7b3dda9e85e039a11666f8e2a66dcaaea420dc58b4eff48f"
+    "8dc9a8a5897b4fce7b3dda9e85e039a11666f8e2a66dcaaea420dc58b4eff48f",
+    "e904891e6131511a691347f8a756e97f25c3f948ff84c736bc8877dbbc990b10",
+    "bf3510c3e3a64b09d6d8513a5961852d78df0d996d7597375ae729150798fc00",
+    "04603c13671617518d654914baced4911fced912838635986009fb722c8476f9",
+    "b56a5afdf9b0265a1a9fc9dc15792f4b49f0f187101f2b36a725b1de1e2e550f",
+    "e15907c3c082d4dc630c560aa976a1364834389c68cc177557193646aca49352",
+    "5d5a565c5084ad13b3ca8adcdbb056f38105396a42209466b37534292fc4d43b"
   ],
   "title_hashes": [
-    "2542372f29a78ff0060d3a1ba93cb454b6ccedd2aec28c7c0e73f1944ac7dd71",
-    "410ef7db05a32c94a84548289a3461574ba1e88f645f4370f0888143cf217c5d",
-    "3f0aca37e4b9f76a8a34bf9625dbd4deda3a6ba4a3abf2ddc9ea0adef706a98c",
-    "035f6b788b52c36c428fc33531771e3b38a8a590e89026b9ba2f7448c5a5b1b0",
-    "cef2c6a6a0d0790dbda58ac1b7ed561cbe8309579515c19e47bf8715997c2b3b",
-    "60acf2031c48c1aff7bd0d8e26282c068e1a763a2f7d352ff0a7a08ff7da0abe",
     "e5f3bb10972143eceff6d9990d4885bba956e7b3d7cc60f3f1d7682314f0eeba",
     "756ab523ef4be7ed091b6bab1c15602744c6864bb48149de3688c33178c99cc1",
     "90b91a054a6ddf6618c02f54e253c65655c50dee27a2c40a9b18449a961d90fa",
@@ -8002,16 +7996,15 @@
     "2b3a0b606adcdaa37dea9caf27e23dff21ac9181b1743bd40ed63b2c9c25207b",
     "4d739fb93e1c27d8e6f3d04bc24a15bf22b910bd1d2101a022b70d07f8bf35dc",
     "6b38648702e13386feadea424b8500b03ae8ca3ad1c515002db59c28c8e24cce",
-    "c651e06aebf9e0b01dedd30158ed2639ad01bfe0986b811cc1decd1976e67e9a"
+    "c651e06aebf9e0b01dedd30158ed2639ad01bfe0986b811cc1decd1976e67e9a",
+    "3d73af2c93641bbf99219c66fa268c271d5d111e9a8775d9c79c30a12a4c158c",
+    "74b964557fc9781e1c5266a11a0b1647853009a86ddbe3f2e67a460badc3157c",
+    "39de81c406054da1be437ad0a4b3a065bfe1ea606d302818500f55fbddb6c03a",
+    "7ea34c8e092fe6afb5da4d12be24c0237ec6ec953320f2ffa4adfd0970e27936",
+    "7fe2006e6336bc82b1ee927de84c8eb8d3cc57d7c949298c69c9abb2708eea7a",
+    "9c9a1de88fc724867b1808a8fb1b3fa50c29766a6323fbcaa0ef8dc5a5c836ea"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "受AI板块抛售影响，卡特彼勒股价正面临逾六年来的最差一周表现",
-      "title_ko": "캐터필러 주가는 AI 부문 매각으로 6년여 만에 최악의 한 주를 맞이하고 있다",
-      "url": "https://wallstreetcn.com/livenews/3203478",
-      "ts": 1795192079
-    },
     {
       "source": "FinancialJuice",
       "title_en": "IRIB News: Explosion of an oil tanker after hitting a mine at the mouth of Bandar Khasab.",
@@ -11504,6 +11497,13 @@
       "title_ko": "삼성전자, 메모리·MX사업부장 교체…황상준·최원준 선임",
       "url": "https://www.sedaily.com/article/20117202",
       "ts": 1795225385
+    },
+    {
+      "source": "Barron's",
+      "title_en": "North Korea's Kim Visits Factory Sites After Apparent Trump Snub",
+      "title_ko": "북한 김정은, 트럼프 회동 무산 이후 군수공장 현지지도 나서",
+      "url": "https://www.barrons.com/news/north-korea-s-kim-visits-factory-sites-after-apparent-trump-snub-15c843a9",
+      "ts": 1795225987
     }
   ]
 }
