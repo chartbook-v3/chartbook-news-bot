@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795232705,
+  "updated_at": 1795232867,
   "id_hashes": [
-    "c5e8357f230bd3f8bb445030aeed358f845a80b0a35c9d7d659ce38d5f0adcc7",
-    "2def99cfe27115bcbc4f1bd39b8da54d7c137b13810d1ac770172ba67c019af6",
-    "2a25ae8196f32b6b1712b44864b8f9904751c71f0d73e1ba40dc3e75baa33877",
-    "41b3e7afe758f1f1c6d699060939493082b6e51fc5b5cb271e84acd87eaed373",
-    "e8816cbd4fd31ceed283c9fd2a5d24902a509b33ee1ea3a6c6a0abd88367d567",
-    "77ffba46350c8a236db7e5565d0a7f7b20c675e73b285710eeee6fdfd9ab2c09",
     "9e097144e84e070da8926e473f0521ec6cdf27d8cb901460ff62258e86534155",
     "af43cbe3eba6f7f55446262c9d3d1fd0b6b1fd5f1aa6ae171244606e0d428a47",
     "be92b756f40d6118a2313acbfe48612ae79fa28d3c6c2e74f2293ef32a93bf2e",
@@ -4000,13 +3994,15 @@
     "a263e5d183bfb7ae47a84e64540f18170fecb3286d38c3fac0de53418cc05a17",
     "59ea92fbe4ed322d5845ef218bfd797dec5af9c8d003cc07f4aaa26dd31d0cf1",
     "4cf96e031e802d399dd75c854c0623218929d2b15b37910a775063d753d28945",
-    "c00f0f94699e05bca9f51e8fcd9daa2b240998038ea61fe9ef8a472531e9a6d5"
+    "c00f0f94699e05bca9f51e8fcd9daa2b240998038ea61fe9ef8a472531e9a6d5",
+    "a65117c6db72b6b7a1380792b86eb3628e0c21fb5fea42c7d7fdbc9d78a3a9a5",
+    "b5ba1fb603fbd33f94e9e1cf5b3dc7748b38312a3eb0c600856ada300684503b",
+    "21bc9e3d554b4bf2179b7423d2d7e2e1c5596d25f91aea3bce279cc73d499e81",
+    "318074ecd83f2cd7b750ac109534ce2c8e59301e8fa491740e149c18bdc1c73a",
+    "46cac32b18bb75e93b1fcab56bb71b1026980f088821643fb02584d3108b494d",
+    "5aa36db7e711f85f472e2c55a07dbc3eab165cfc08a2e7d47cfc11065abab7e9"
   ],
   "title_hashes": [
-    "4b2cb032f6c2d7a02a235dd403be05d8e58da5cef7b91f90aad99d3fc638efc8",
-    "da84b1de67e694dc13bec1d631c2ba4dd2ab0f893ea4825b920a7804d050f4b7",
-    "24e7c42d0e7fde4c8c65fb4162c47961e7888c6d95a8dd0e525c4043c47740e9",
-    "dbd8e2c502d524d88ee0b286b828657bd81063d15dff0c9f0689daf66e5ffbe1",
     "0daaac14365c9e6147d9acabc76a43520994882e1b7d19e6d76b9d8aa356712b",
     "c4fe9660c6f2c09362e38a3159a59e75f8d6aebedff8963c366a1080fbf8dd3e",
     "308565770c0329b04b86c1f2516e3aae2091606fa40a5d99da0d4b204a990abd",
@@ -8002,30 +7998,13 @@
     "7914b0b931d90a0944a120d2814bafd0c919b6d25067b75f43e59a5d790dd0d2",
     "14365f272dd90d61e309f742a803cf76ea705d6a0a96b965fb134497a36d0d39",
     "887d2779e49c30b06092cf17209b4d2d08b7ac85417c5baebd677fc0f6c4a4a0",
-    "0b17ccfa72979e89dc74f03b977486adc97df17e7afc49090c24bad1dc3c3920"
+    "0b17ccfa72979e89dc74f03b977486adc97df17e7afc49090c24bad1dc3c3920",
+    "e5846ffb5971ceba6e658ae3b64b588da4679c3c4a791c4f29d430b213590133",
+    "0b0e4e5c984aad5deb963ce24f1b3d9fabb74ca124650a89097c93972a6ad3b6",
+    "934ab54a78ca58d0bca73a321fa2709e5262913be2abf0d223393fca3b128d10",
+    "877392e93182da87963df970c19792aadb71c8e56f2418d4f9bb4263e799256e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "S&P 500 FALLS 10% FROM OCTOBER RECORD TO ENTER CORRECTION",
-      "title_ko": "S&P 500이 10월 기록보다 10% 하락하여 조정에 돌입",
-      "url": "https://t.me/marketfeed/1082706",
-      "ts": 1795193382
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "IRAN HORMOZGAN OFFICIAL SAYS QESHM BLAST AND SMOKE FROM ORDNANCE DISPOSAL - IRNA",
-      "title_ko": "이란 HORMOZGAN 관계자, QESHM 폭발과 무기 폐기로 인한 연기 발생 - IRNA",
-      "url": "https://t.me/marketfeed/1082708",
-      "ts": 1795193386
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "标普500指数跌幅扩大至2%，较10月高位回撤10%。",
-      "title_ko": "S&P 500 지수 하락 폭은 2%로 확대되어 10월 최고치에서 10% 하락",
-      "url": "https://wallstreetcn.com/livenews/3203486",
-      "ts": 1795193388
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Trump holds a press conference after meeting with Putin and Xi - WATCH LIVE",
@@ -11504,6 +11483,27 @@
       "title_ko": "손정의, SK하이닉스 ‘1조 달러 인수’ 저울질…“현재는 검토 중단”",
       "url": "https://www.sedaily.com/article/20117215",
       "ts": 1795232429
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "이재명 대통령, 울산 SK AI 데이터센터 방문",
+      "title_ko": "이재명 대통령, 울산 SK AI 데이터센터 방문",
+      "url": "https://www.news1.kr/photos/8226098",
+      "ts": 1795232853
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Goldman Sachs Private Credit Corp. retains Baa3 senior unsecured rating as Moody's maintains stable outlook",
+      "title_ko": "무디스, 골드만삭스 프라이빗 크레딧(GS PXC) 신용등급 'Baa3' 유지 및 전망 '안정적' 부여",
+      "url": "https://t.me/firstsquaw/194740",
+      "ts": 1795232861
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "American Atomics outlines progress across uranium exploration, Colorado project development and reclamation initiatives",
+      "title_ko": "American Atomics는 우라늄 탐사, 콜로라도 프로젝트 개발 및 매립 계획 전반에 걸쳐 진행 상황을 간략하게 설명합니다",
+      "url": "https://t.me/firstsquaw/194741",
+      "ts": 1795232863
     }
   ]
 }
