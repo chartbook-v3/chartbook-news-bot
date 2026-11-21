@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795301448,
+  "updated_at": 1795301598,
   "id_hashes": [
-    "bcc831c06d961d997be77f82da65a03513368ee773ed03400e03cefbc386295d",
-    "4df29858039186e92b4600d38e590668d88b4f54e1f125999f0aff93c119598c",
     "011fd66e1cce44aa1ea2b46c9de9350627698362b62dd2223084d5caeaa05ff0",
     "43c6518270c1deeba7bc69ac9959a382d75c64384b24356dcd7804fdec5d1925",
     "453b44fa2b029edabc229f3b6a9ca3b39aabf2e8557f690e0ee54de554bb0752",
@@ -4000,11 +3998,11 @@
     "a1f1b23a5d3949298296123e704398231f3efbbb08e811f02454c7e6c1c8eb60",
     "41555e16a9b2046be8e3ccd592350bce595956a83f2cbcbd883e46c2310bf977",
     "b765e5371b9a342461329a1a6be1b1c7f067c51e07b2786c371698027a45e8c9",
-    "600d658ed4310ec6f3b057d01fe63a5ce6bb213cb42bb22778ed3cefdc82698d"
+    "600d658ed4310ec6f3b057d01fe63a5ce6bb213cb42bb22778ed3cefdc82698d",
+    "53e05d5c705ab96bad68ed8bc23a509cbdedb06a8b9d43ccb0770b7247d39ab5",
+    "ec77b497a627959712a20d1c0ef8c63c109a3584ff3257f25268359f922878c6"
   ],
   "title_hashes": [
-    "e2ea2173c1639974a102da287e0f16c2f5e1eaa58412338e5f8d476d885d81d7",
-    "d901b278f115fa35c24a7a98faa17a68bd4d8302ccf4f36a28773eb845d9cc12",
     "06e3d3bbab293f152704fbd89f041482b4ccd751d0e35b1c4303d7b374dc01b6",
     "512e6a796edcea0df4c9de8df6842a7fed845a33e47e23a4119f2529634c2b2b",
     "146dbb42e309f633ad125e2a3aae202c51664b985a7d712bcafdc953aff46cc1",
@@ -8002,16 +8000,11 @@
     "5ad59253cb67d9dad4ab8d79b2cfc0e8b73c38b842438de12710e45d5d48b98a",
     "b6522c036bdcd1b0c9b56410b4bdcd3e89275920ee26a178a80de4d9f6226fc1",
     "d9e73e8b0d4a7f2653b90af99c32e1ce44498ca830ad2267ac65cc80df57dc4a",
-    "83e0dbd5bb41e823863a808d0fd1b18f34a94b752eb8e61655201f3cec912dea"
+    "83e0dbd5bb41e823863a808d0fd1b18f34a94b752eb8e61655201f3cec912dea",
+    "668673a9a4b5a60ee93a42c0f51f3d434dec18e079c6734524f50a8b5157a5c0",
+    "6a1ee36c60a1a06fcea70aa60055d139948503e3ac257961a665ca181e177f2e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "NASDAQ 100 DOWN 6% ON THE DAY -",
-      "title_ko": "나스닥 100 당일 6% 하락 -",
-      "url": "https://t.me/marketfeed/1083007",
-      "ts": 1795208566
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "特朗普：中俄美元首会晤“史无前例”“意义重大”",
@@ -11504,6 +11497,13 @@
       "title_ko": "연합군 대변인 \"후티 반군이 서부 지역으로 발사한 탄도미사일 요격 및 파괴\"",
       "url": "https://t.me/marketfeed/1083335",
       "ts": 1795300845
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "\"연말 예약 벌써 꽉 찼다\"…고물가에도 다시 뜨는 아웃백·빕스",
+      "title_ko": "\"연말 예약 벌써 꽉 찼다\"…고물가에도 다시 뜨는 아웃백·빕스",
+      "url": "https://www.news1.kr/industry/distribution/6359620",
+      "ts": 1795301471
     }
   ]
 }
