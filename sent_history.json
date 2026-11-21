@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795260056,
+  "updated_at": 1795260206,
   "id_hashes": [
-    "d347586d1ba99be9e98151396849015713c28ad3f2022cfcb5e1cf8743c9c9ed",
-    "6b4aa63fc881b8ad16fb4f4a70566e2124e40e677a79b06bc101ea6b847e2914",
-    "0cde9a3a74f9e48d263aa71428e94d058fa287a31d6bb981515363ddbd5b7c29",
-    "ce2ef061b7d0b3fb09f743506ddb4fced6a0806854c10bf9240f318af28ed2e5",
-    "51770e563072cf162006663d5465f226f7e4c11f939361e1d2b470f083a8d3ce",
-    "dfa4bf7b7a7593c12a57cd2e1ad09f73bba2b26fdcb7ddd376a64abe55dd14ef",
     "3a0b96fe4ac0e52be131470baa7e7c5f27e61e0317a6f6b37fe64ac724db0361",
     "66d344b1c24b4a33806c15109f71fca1426d5ee196d05839d02e588d1cd2f613",
     "b806c96323b215deaa1f4864ab0e90a706d40a4252b1d86e59c65af10d66e557",
@@ -4000,13 +3994,15 @@
     "e2be00490ad05985b9bcaf36607e205b459a51f820915dcbe6af52132def70b5",
     "b615e03911637a16173d6f910ef5e9e3f89557a482a2fd476be223e6b398d0ec",
     "2a33970ade72ff70690162ccd87e458400347b6a631df7f3e9dbb48e65d925b6",
-    "56fb6d0079900ccd27be593330fcfb75fea66b8879654bc8423bdd60bd356511"
+    "56fb6d0079900ccd27be593330fcfb75fea66b8879654bc8423bdd60bd356511",
+    "b18f8f99124303b1b282e500d065379d527fdda5b0297e8fde38929d4209e04b",
+    "69838db7de4cabd8ede1c084b20130840e5727edb73d96fa8a64e9ea825de55c",
+    "e2af5a349bcecc6a7d493a745eac1425838f9df1326157be49c2a819734fca19",
+    "803d13a82a6bfefecd6aa80576cb54cd0e9429c51b3d6d83916b58459404bdfe",
+    "db796c4c98aa8f9397e71484aafcb5396bc433d1dd6c8e18bac27a444f39a7c3",
+    "212a0a2d5f1be0432a6525e16e9776b7ef1d79358d5ed3986f34c45a68a8849b"
   ],
   "title_hashes": [
-    "342c679aacb693bb54973fe4c4fbb7d57e5f8913d86cf23f47e67fda3b858862",
-    "d79fdff4c5e9728bed3ab3b7458764a1496aa6dffa708a8fcfcea99a6634bc9f",
-    "232c77f7f99486b2dfda7aeaca33c8770a3c7704cd39af585ac79c835627fac5",
-    "f805502984da98a53ed7275e77f2f145972c538cbee07c79f88cd09d5de00db5",
     "ea684f664b790c53048dc4049762d93e00ad632a8617205a9259a5815cafc2da",
     "2f3d87ce0636d95805e3f1031142995f148d612d2ece1276e733539a62e03fb7",
     "cbda4342947817e41f7251343c4582b1848b2b69080f577b849760a589c8a292",
@@ -8002,16 +7998,13 @@
     "19caf36597eb406cb2065f8882ab480f0be190e1255b5e6cc79d6242cbd0aaec",
     "673b4d9422a8cd76b51d6ba0f5f61d43e2931c0eb58a69d1f3edcf11452e027c",
     "5a3f34373b140a9dbcae57a4300cb156e905729395a459e94c140db5fe537ef4",
-    "9b2ebb2145ea995698f120926f64b15175f73e67877da22b126c8ee4e8571f80"
+    "9b2ebb2145ea995698f120926f64b15175f73e67877da22b126c8ee4e8571f80",
+    "50e09d23f6802a876b8db6bcd532bc31bb63e4dc4723ef42fc85fe78f3dd9f49",
+    "7f7960a34159b6c55c8b9421c9f4f100e2cae10c3b903ec895b05931753b0323",
+    "b4f0545d478c4ef73245a85413fb7ec3b07e0a885b42fbcd8a31d08b72313b30",
+    "5f55d283e862fc267e9028cbe32af10d125c27ed4296622d431244ef8bd25423"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "TRUMP: DEMOCRATS IN NEW CONGRESS WILL SEND THINGS MY WAY AND I WILL VETO THEM",
-      "title_ko": "트럼프: 새 의회의 민주당은 내 뜻대로 할 것이고 나는 거부권을 행사할 것이다",
-      "url": "https://t.me/WalterBloomberg/38842",
-      "ts": 1795200486
-    },
     {
       "source": "WalterBloomberg",
       "title_en": "TRUMP: I'M OPEN TO GREAT HEALTHCARE",
@@ -11504,6 +11497,13 @@
       "title_ko": "핀란드, 공해상서 표류하던 파손 선박 영해 진입 확인",
       "url": "https://t.me/marketfeed/1083185",
       "ts": 1795260055
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "伊朗称一油轮在霍尔木兹海峡以东海域起火",
+      "title_ko": "이란 \"호르무즈 해협 동쪽 해상에서 유조선에 불이 났다\"",
+      "url": "https://wallstreetcn.com/livenews/3203665",
+      "ts": 1795260205
     }
   ]
 }
