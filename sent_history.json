@@ -1,17 +1,6 @@
 {
-  "updated_at": 1795239245,
+  "updated_at": 1795239407,
   "id_hashes": [
-    "92e52f1627f57753fb5004061fa64d8e32d27021d1f3d21f1aa5e8ed3b5c74f3",
-    "46e6d7c20bdb823633c9e273ffba9fbd8e3cefbaea6ffa8517efffe1c7884071",
-    "d381476b61073446afd8fcff9ab7846affffe25a43c25ddb205855a88cfceb81",
-    "4192d4ddf92ae3cb49a8958a665fc864e62508a56a111d0b4639693a90b2ee00",
-    "a1b3df6deccdb9583cac4532507949dca58a53a3dfec2fb7ca25c255069f8a99",
-    "9a195cdf4730fb16755f79c71b0f992e672acd7210a450ae88ee2a1753b51940",
-    "118ebf888d905f2f7f3ebe3485700e539f1ba7b7852b11794e0334afed7bd7d4",
-    "cfe411bae1d2d7ef6ba05b4126e73c2e82c8890426ab4baf318fe243400cd500",
-    "ff136a57ae35493dfd7f1238956ed5e7a45d071cbec5c2408397ab4869b96777",
-    "b04776f7a79e51e282d4149ae15374ea9653225b4c787809da06d2f8a3d4780e",
-    "17e62a37dce61fe5b41cf2b39fd4ba9e3da42750a74bbd9bca4145310b8e45fe",
     "7a97d4f6332bce17f669f13a7395ca37d90d43f24fc37562978708660bcd6d3a",
     "5469962557873d910a9eac6096f6a58dc7a085b0cb4a0c0bab1218e554aac97b",
     "12fe7d328dc4ee17cefe41420b8532330a2d4dd6c1ae783815944ef283970f5b",
@@ -4000,18 +3989,20 @@
     "9f03fb0586a0e41fcb46e57d623aac8bd3468d63974a9962638d9cbd9ea54737",
     "75502f02fc56e1db31e43768210123ed8dbb32c12b9383b49b34c925986cfeae",
     "deec956e482a6fe93efe2b46749b491c63f03c9b6564e78c222850e16887c8ec",
-    "b35e001835751d52694bc3fbcaca9c050854a8bb0c130b2b79d4b83d84fc9b25"
+    "b35e001835751d52694bc3fbcaca9c050854a8bb0c130b2b79d4b83d84fc9b25",
+    "41c581357d819a9f711d43668fecdf41aaf8657be2292df3fb77bf8dd82a72ff",
+    "6b9842d267bc23a04f95fa5d860fef8f7a6270463461bf9bcb6cb63495d5c35a",
+    "6a75fdd9f3f109d64c493128715f9ffda21ed0fb2b128c82d1063cd4f67c25f5",
+    "312548ca42e978ad059e5ce1a2984accf2157ff17b51474039ab049d90fc0aa4",
+    "4a4efe7167829c3541fe4baee955d18c40f2adec5770122aa780ab8cc33065c2",
+    "44017f56c478d754c4a98a151a914d34a9ec70a4681d03a135da12948ac81a56",
+    "cef5d92a69398ab9a2da6ab24179ae63673106fb15bd1285c46f44a8b9699957",
+    "de8f062588268a5641bb063f97fd25f730bbd4cf9ba7e0cea8e72bb68936b331",
+    "6f4c6b9b3513bb945f98c82041ef64001f4b22ec6a47c76e465042c9b2f3da25",
+    "cfe21e93e113f9ba10a61139b489f8ee0b5e1b2edfea3ed05ced6d061bd0f340",
+    "cba6f57abe2a2e91cbdc2eea90e3e760d157b7968f315da78473f120d20dad0c"
   ],
   "title_hashes": [
-    "3de0eaf8494f571e1dbc965f75a6410639b043bd67270b531d49631d6106841a",
-    "61e1c56631ed2cbf3fd9592039edb94aa515ea51db5b9a3912caa4d51af40d8b",
-    "e4154c8457f614ac418ce2af8bb6bf0b87613cbbebfd791c4a4c8dbcba944c66",
-    "8f215cf0fdf6e293686882cd1a4ee5dc0dcec43b71f77acc02c24705065eb693",
-    "e638ae2425451b7548196fc47cd225eb496536a392fcc9512e90437116c95cd2",
-    "1bd93350864543cfb5a2e74bd9562f05741d7c95f1f587835ed429e9c6d309b7",
-    "a67d9af3bf570a54e759ce402251a67f1ab59e2e924ec1c4fcac75f3e78c20e6",
-    "1e961490dc9ed17c41b7f33a6f51fcb38304ac952204baee596a66d3d2b452f2",
-    "1c44043c090265f6c376d88602d00b4b39a464867e0cba84306f33921631604e",
     "c35c726b3431fdad7e7bebf65f05963179045b9f947774a70a7d62dca6af60dc",
     "34d4f5d750709f1480308d8ed8e8b66af3f504f0e132874c603fee3f5c73c236",
     "c30cfabb897e852d853a842186dc4c1b6641548a02e432b1e1295f899b692b74",
@@ -8002,37 +7993,18 @@
     "0e7af3f37abd56f966bb46d3489ec2797b9450200680e22f7580149501b3f077",
     "38487fa685195005a2aee490632c5d1fc52e6f988200eb9abe338c5119d339b9",
     "4858538e4fc9c4661c9acdc9a50a8071b56b13c3eaece9894f921c418d4b49bb",
-    "75db0980fcf8bb617aa18fe09cfe1c8bf87e23e678d984b1ee9d646da52d5f6f"
+    "75db0980fcf8bb617aa18fe09cfe1c8bf87e23e678d984b1ee9d646da52d5f6f",
+    "7f402f0cd74defa028e85b08206f288c413d1057c254d5b593d809f3adf60d7c",
+    "bd36b54a3a83ea6e13b356c437d6b0fb5763b6ba95a1b56aa51de2c888e70e62",
+    "db4f7d7606b6db3eb0106d30e5d934acd9c6635d1d76e91e3bfd045fc33ee345",
+    "994f3e2754af0a72a4f7125135413f4956c83d7c81c3882e8ca11ce9f65066b6",
+    "8a104d0d4cc50ba65c41932417e2984377f19fa83f0fe32789bdb5195e8aa751",
+    "8a15c45617029e6db9bb2f690be3dc90ab987a2a20146eedd645368ba25b2385",
+    "f220a799cb9bf4f9487f7a9916b68a96678080abdde0fa55313ac62ae9e0b917",
+    "740beaf5ea6711b9c9691bb35fe59215a2e295e3bece5500dc7d4ce0f949cf29",
+    "504f7de0fb1588cce20586f27f9b25a596798d9f53bc9206f1cad4fe35b63e1e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "Fed's Cook: September's interest rate hike was not enough to curtail high inflation.",
-      "title_ko": "연방준비은행의 쿡: 9월 금리 인상은 높은 인플레이션을 억제하는 데 충분하지 않았습니다",
-      "url": "https://www.financialjuice.com/News/9862125/Feds-Cook-Septembers-interest-rate-hike-was-not-enough-to-curtail-high-inflation.aspx?xy=rss",
-      "ts": 1795194955
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "美联储理事库克：应对不断蔓延的通胀变得越来越紧迫。",
-      "title_ko": "쿡 연준 총재: 인플레이션 확산에 대처하는 것이 점점 더 시급해지고 있어",
-      "url": "https://wallstreetcn.com/livenews/3203495",
-      "ts": 1795194957
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Fed's Cook: High inflation does not give Fed space to be patient",
-      "title_ko": "연방준비은행의 쿡: 높은 인플레이션은 연방준비은행이 인내심을 가질 여유를 주지 않습니다",
-      "url": "https://www.financialjuice.com/News/9862126/Feds-Cook-High-inflation-does-not-give-Fed-space-to-be-patient.aspx?xy=rss",
-      "ts": 1795194980
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Fed's Cook: Holding off on rate hikes increases risk that inflation will embed in economy.",
-      "title_ko": "연준의 쿡: 금리 인상을 보류하는 것은 인플레이션이 경제에 고착될 위험을 증가시킵니다",
-      "url": "https://www.financialjuice.com/News/9862127/Feds-Cook-Holding-off-on-rate-hikes-increases-risk-that-inflation-will-embed-in-economy.aspx?xy=rss",
-      "ts": 1795194983
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Fed's Cook: Data since September points to need for tighter monetary policy",
@@ -11504,6 +11476,34 @@
       "title_ko": "[여의도 투자본부 2부] 카카오게임즈 vs 노머스 vs 에스엠 vs 오이솔루션, 공략법은?",
       "url": "https://www.mt.co.kr/stock/2026/11/21/2026112113547083618",
       "ts": 1795239244
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Better Hungary-EU relations have significantly eased governance-related downside risks, Moody's says",
+      "title_ko": "국제 신용평가사 무디스는 헝가리와 유럽연합(EU) 간의 관계 개선이 지배구조 관련 하방 리스크를 크게 완화했다고 평가했습니다. 무디스는 양측의 협력 강화가 헝가리 경제의 불확실성을 해소하는 데 긍정적인 영향을 미칠 것으로 분석",
+      "url": "https://t.me/firstsquaw/194750",
+      "ts": 1795239335
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "MOODY'S LINKS HUNGARY'S OUTLOOK CHANGE TO REDUCED GOVERNANCE-RELATED RISKS FOLLOWING INSTITUTIONAL REFORMS",
+      "title_ko": "무디스가 헝가리의 국가 신용등급 전망 상향 배경으로 제도적 개혁에 따른 지배구조 관련 리스크 감소를 지목했습니다. 이번 조치는 헝가리 정부의 제도 개선 노력이 국가 신뢰도에 긍정적인 영향을 미친 결과로 풀이됩니다",
+      "url": "https://t.me/marketfeed/1083097",
+      "ts": 1795239401
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Iran's red lines include keeping enriched uranium within its borders, though Araqchi believes a fair solution is achievable",
+      "title_ko": "이란 아락치 외무장관은 농축 우라늄의 자국 내 보유를 협상의 레드라인으로 설정하면서도, 핵 문제에 대한 공정한 해결책 도출은 가능할 것으로 전망",
+      "url": "https://t.me/firstsquaw/194751",
+      "ts": 1795239403
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Araqchi calls on Trump to openly state his desire for an agreement as Iran's initial condition",
+      "title_ko": "아라크치는 트럼프에게 이란의 초기 조건으로 합의에 대한 자신의 열망을 공개적으로 밝힐 것을 촉구",
+      "url": "https://t.me/firstsquaw/194752",
+      "ts": 1795239406
     }
   ]
 }
