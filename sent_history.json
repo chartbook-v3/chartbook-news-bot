@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795255966,
+  "updated_at": 1795256134,
   "id_hashes": [
-    "8310f326269f59554378979dd21b9d062fe282d4f3d88832940a572099f7b7d0",
-    "886e4e9f0c56cb768f07d6bd52d7c73f366a3a5e7b71f7867c9eb1919c42d657",
-    "7b32b4b106a42169cc0ecd131a44afd3cd46a9a177e6b12c5c66d134473ab16d",
-    "e9ea8629434145ec28a8e6538b1d260713d755394da72c649afa5ee5038b0c80",
-    "189a2106df961f62a062dc15e9e05b79610bb4a91bd654fff40346cf0561b7d9",
-    "ef7555417f77c4baaf59b504184b3ec23483a90dd6b42f5e41aef28f9002df77",
-    "e846b6d04c966a6dd6bbc834242e4275af4259625d95aa40f5b9e44862d1af8c",
-    "627fca319559cedb0d1c8d8156920bf572efdf8e7c1fb31671605f3eb700cd92",
-    "82daa2c48e367fab5f04645cfc52fdda599fe1b6b0266c41c3400953b878569a",
-    "42c5e6218e55278d563aeee9f4459d05ea5b8f94e17cbf129618dae89af4d4c8",
-    "81ee462c2f9b018504e49110b5bdccfbc7818c027277834cc18067772febdbf2",
-    "4f105b607909aa87b4cd511f27bdfd37ca3292e84447699af7dd4d17d26c34f3",
-    "064310339737c91b106d1ffd8bae4d5bd435fdb8c91ae33618d438fb903cbc53",
-    "0c49ae344a2101a227405cfcbe8d0e8e9c0f2b29cf8aa78e8b78e478672308cd",
     "19665cca1119b7d1ad4a345eecb7bad7566e1a22a1dbf5027e43f356783d3593",
     "24b5afa966d1c57fd70e89bab4afab207668f8cb3cc931c4a19b6feb3644e1ac",
     "28ef37c6f55070548a9efcc2cd39796f47f58f4064a37f50462b9fcc0f4638d0",
@@ -4000,22 +3986,23 @@
     "ee80818f38ccb24fd402d2b16ca9d7c75b184ac69cdfdf9ac6396879e53ea732",
     "cbfdb0c599a4ebba48b10e42aefed400f23d118fddf27eecb45f4ab09640f131",
     "f7e26ffbe88e29a55ecbc14a4da9863b13e42ab27e8ac2a2c4cf8d765c739a81",
-    "26cdbac30df3a8aeb77548ab2d85b3389c4b395da83b5e7cdf7a690799981f13"
+    "26cdbac30df3a8aeb77548ab2d85b3389c4b395da83b5e7cdf7a690799981f13",
+    "1fc8395160e34788b95c6c0252518555895063fe9b310793d979a078ea1dfc05",
+    "55ef1e4e0dceb8863b38ff6956b7df9bc405ffe4520f827ec502a2fd13bc5b23",
+    "72ebcf39fd67bf1baa875575ac7f4227800637d21ba0845e5c627216c800de05",
+    "22c39bf66588dbba6c3a9d2a9c7e46d943269e7ac92ac2ffbe4abc0b484fd667",
+    "6e0047d391b4136bb2c16b43064fb47fb313ed3262de087cb2d63f8f38846ad0",
+    "6312d1543a3c1866ff754cdf0a56bfe673599407f2ff4cd425e92804e24ce039",
+    "c84263801c6883ebb6b85033edd79595d0b8160d62db0a19740ba582c1cb56c7",
+    "a6caeacd6c66a84a416fd47b6e9bba3136e458bdc7b4ad6766c227a7625cfa48",
+    "4b41b93b02a339a62a4dccbf63553fe9d4d00cfb3ac8eba4f71d4fcef0637dbe",
+    "a6456f48f62f4e9421ad71aacd65ae43405f0bc25461569c1c57f9bf63544d94",
+    "466de9bf83017d7b311d7b709cac33a2f7d189945796aa487ea035c255898e87",
+    "d3e06f511aa9424cb1d0126646709c613a1d3db6fd17ff67dc515f66ce33363d",
+    "508b583e9d1f5ad0963323553320e3389d76f1f02bc673e19fc9b57d2821ddc8",
+    "6def7d47079c5bbc69d32560840fd223dd82c8451ae89845b899b0d901ac7942"
   ],
   "title_hashes": [
-    "83c51c48a1623fb15e7b83d9077a543c237e3a477590f0161e5f607a7ecb76ec",
-    "2434fb245b42dd3ab6b3b3bf87501874899cc300b8462bdda9b2952db510773e",
-    "832e88e7e83a0a861ff497f7cea07aae0ab540b583f7c775d784752b97e850cb",
-    "4d5b960f472b7615ba1564e24f344731b88cf2527ba0fb83fe8c85d1f72de0ad",
-    "4d1730489ce9034bf47bc24b4d75f2d42af6b0b68f0da92c6f2b84fb360eb249",
-    "66870b4d0cf1374788aa88174141e7bddd04347b8f6020f8d5eeb93b5d3df365",
-    "4a677a7280dec7b2c16a0ae94ddb6d5fba750a3660727d37399bd071763bc25b",
-    "74144d752001c3d3d73dd2c0312bd8ca4a873a0b1562f4a5ff384ca28481d9c4",
-    "920c1cb294524b7ffe94334564130607b2ea371f61ac58bf1e2b0f48065414e2",
-    "e27162bb3de6858f28e7b9fb7f0a167cfb71b84eb01fb1afc8455b5ee53c61a1",
-    "11988f1e69cf1069c93a0d4c8c05ccb8fb77e60f2b7a2a3cf6d4443701444e00",
-    "256769cc20a2468fdb1c71f18a347041e598f33348d6243649cffa401a4abab6",
-    "59ae72660ce7b0cf96e1363c746bf20ffbdc63820b0294c785eb6242da7d5e34",
     "f97cfd6257b895f5c0700ac6ad203a5722dbab952c0a5a488e31d8fc9eb49674",
     "a5b7c20b2f4b17825ca7e3004c6ca63aba81f6dd04553799f826e55927c71464",
     "da677392727cb27b2ef3887785a4487a5e48f48de29c9761960314426a5739f6",
@@ -8002,23 +7989,22 @@
     "79ba257ee98f7aa30dacd044756eda148eb8f4aafa0a9543175089538fb997e2",
     "9a926c557a5425ab0d5e82b6e12bb31ff62e0eccc35555f0494ad566901b46ef",
     "2ae0f8f72a5efd808e155585e715792891ff83aeb8268be6d11df566c0f8ec4b",
-    "08af9ad3f50e532cd13d8af593c88ef54924282bc82111093a96e217d3cddc00"
+    "08af9ad3f50e532cd13d8af593c88ef54924282bc82111093a96e217d3cddc00",
+    "49cdbc09f761fbc56e10f432a2f7335f0860cd4986b9ab392557fd92510ebdd5",
+    "cd03f4f57ad1fc37b9628510d07a9a468391857bea0bc269a43c0cd6e5361037",
+    "2ae959f3e96d57942c31952abe9defd567a931d0a5cc0ab4628691427d4737c5",
+    "060a0eafda7c6668663179200e61bdb6e7b3beb023422477fc8d213cd980b9fb",
+    "f0c11da026fea38c678631e7d0e2a438058f142c31798cd1fa4a176679734433",
+    "c1052815d0541ddb533f8945bda9a6142158d5e1bbf981d026c1c31365f4f082",
+    "d2d7d662c5e4b800be337bfaed023a2544d08c75c3d450cf8d908b30fb325eb6",
+    "73a4cd457d3cea990062be662f8eb09985a39e208aaa298814096db9013dcbbd",
+    "44f078e8299d94246f1b03bebba885a90d2b6ecbdcadf06a15682c4f2c354de0",
+    "3c511a1c865c2f9aa9fa537d210ba2414c1244538e9c6e9800dd64ce9e1f0ec0",
+    "dd752fd8fa5db8530c9c187e57a5f65baafae70e53e83a63ea5d6e67ef1d394c",
+    "9448384fc9d7b42beefa7d1bbd2399165b03ad3a7b487dcc65e8d82c91f1ecf8",
+    "23bfa44d50978e5da5574e3e40bbbcf35458ab822207d90b898904cd67fd596f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "$NVDA - TRUMP: NVIDIA VERY IMPORTANT COMPANY TO US",
-      "title_ko": "Nvidia - 트럼프: NVIDIA는 미국에게 매우 중요한 회사입니다",
-      "url": "https://t.me/WalterBloomberg/38834",
-      "ts": 1795200369
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "TRUMP: DISCUSSED HUANG WITH XI",
-      "title_ko": "트럼프: 황과 시진핑의 논의",
-      "url": "https://t.me/WalterBloomberg/38835",
-      "ts": 1795200371
-    },
     {
       "source": "WalterBloomberg",
       "title_en": "ARK COINDESK 20 CRYPTO ETF: FILES TO WITHDRAW S-1 REGISTRATION STATEMENT- SEC FILING",
@@ -11504,6 +11490,20 @@
       "title_ko": "중국 관광객 여행 빈도 증가에도 지출 억제 추세 뚜렷 - SCMP",
       "url": "https://t.me/firstsquaw/194804",
       "ts": 1795255759
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Charting the Global Economy: GDP Slips in Japan on Weak Consumer",
+      "title_ko": "일본 GDP 역성장, 소비 부진에 경제 위축 우려 가중",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/world-economy-latest-japan-s-economy-slips-as-weather-dents-spending?srnd=homepage-americas",
+      "ts": 1795256121
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Iraq's Military Says All Security Forces in Jurf al-Sakhar Have Been Placed Under Unified Command",
+      "title_ko": "이라크 군 당국, 주르프 알사카르 내 모든 보안군 통합 지휘 체계로 전환",
+      "url": "https://t.me/firstsquaw/194806",
+      "ts": 1795256130
     }
   ]
 }
