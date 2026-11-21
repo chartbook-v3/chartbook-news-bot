@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795300380,
+  "updated_at": 1795300541,
   "id_hashes": [
-    "30f0035b81d9f519de75e2630dd8b511bb87bd8ac0c66a5c1c291367956492f4",
-    "18a69c12c53b7c326c612cdb185aaae7875f2055382f54a751d1e265bc0d148a",
-    "3255be61095d64c1ea5e5d59c3686c71387505b9773256e01702134d6f8ab6ab",
-    "06bed2e9d9332d26d616b20ee127798d149cebdd5fbbaaffcd01afabfb8ead0d",
-    "103ccbba872448ef7a47b9dba335ddd86a6c0f80d5df15a1bc0b64a02f7bd36b",
-    "9b0bf9dfaada9fe1a76d4fa320b2649918d0ccd0707aa3181a53619f7f777a80",
-    "8bba57e38f709c41817f665d935df5f230a2b2d68b12a9d9ac579c6429e840de",
-    "9f0aa7a6f42d891ee8e00ac988458f86f9496da374f8ae5ed12621d1ac9b27b3",
     "2e619e38ba53fbf1ecc7fd840194e6cebc8ff7aec11a47ed09e7ce2a2260f488",
     "210a5fa3c1bf31e73aa2db9ae2102c037fc578cc3e681f781ff9ef630aadb00b",
     "b4f5d2878e9e635c117d20b1307a9aaf657d47256670d7fde8cba91da08b0da0",
@@ -4000,14 +3992,17 @@
     "c3a28c890c1bca7f4c0a723d8b620691086b483f052bc2c5df48655f1c3f861f",
     "a28868d8968ad2ac10ae1aa0ed4617a6571d88f13bf7ec9770ad4658fe0826ad",
     "084593cc20234343e91731dd711ec7b263e80b74b05601931ff1cb0744f3f6eb",
-    "8ada4194e83be40b2f8a4ff3319c2210058cc3ad7b8a41e85d40ffa628da5ff0"
+    "8ada4194e83be40b2f8a4ff3319c2210058cc3ad7b8a41e85d40ffa628da5ff0",
+    "39d8f259def03d96274fdb052e3bf3fba5b18c5820a0fb730f5498209da23da8",
+    "f382d75d6f496505d5348aa607d5e4ecb3a947dcf603fd6261c34c81d22517c1",
+    "231a916a1bcb95b61cd059868114e5a12eb34332cf5861f6513c5c638524d7e9",
+    "76c8716c696ffc529ae7ae9b2dfea080c93b9232c23e11e94ea9054b81544a9a",
+    "bf7a87a111bf237e3840ebf7213141c58b292beac03632584ef344fa478c7ea8",
+    "47fd9d8136affbe347305cfbd56d22369e7d0f11f19f7667ec02ed7268382030",
+    "360bc5264538508c16e7930f8bdfd263978baf664d10ec664eb74bd5e598a95a",
+    "45052ddf7781de682e51afc22b703da16817ed3d7be0d40b0daf1d62cc741b6b"
   ],
   "title_hashes": [
-    "951a7336f0470e8fabe1a59734fec7e47f47da925053104c8712bff189cdda28",
-    "8ba39c22002a5e04f9e3591e64d5ed7a701c7c6d4c3c098440db65c1817c7037",
-    "3728b13d7c6143f8c0003b540370efc34625149bb655d7963961b96290bcd0b2",
-    "98666f1c80ce0271510b12458a761b4ac716a317499b9a8a1715141bd564c4b1",
-    "5c124b2cc5e1eff0bc8c2ceba35c169b826492c44c96771467f644aab33a6ad0",
     "af8a33d83ea20d8607647eb860bd0f521a154e582e972cb2f7a4314a0d13fb4a",
     "deadcbcfe414d50a0fcc4b3e3a816b068599feb05c366b6ccf6fe8ba4a453f17",
     "c98b197abd571694e0cffe37d31dd340dc99cde40785ec9e6d408943f59a7881",
@@ -8002,37 +7997,14 @@
     "8aa1bb5d229dc8c626eaabe9761f377e4b4042862ecc136fecd1a85ebddb4f87",
     "b6134c8d4586d68abcd65cf330f716bedb2ec12bb087adb4dc8e781465e54365",
     "0966e587442f93de591b884bfa1b217971f8d91fcee1e34c783e2fb9ce152980",
-    "c10df60c03271d88ec12268cf4bd889c570dbc1351a7c60081f228ecb0384831"
+    "c10df60c03271d88ec12268cf4bd889c570dbc1351a7c60081f228ecb0384831",
+    "0f5e7cd17fffcfa1fda0f511eb703661f6c553700e420b275b7e6c8191af050d",
+    "c441618b02cbcf8a1d2451100026d5c6806b4c70835f73a3260bd248bafeec36",
+    "d93f2f4c8125ccb3f026581e0826a158e3cfff5cf3576d3c267dc5062b35dab0",
+    "ba77588e1119eb9d5b2f7f1a6e7eca411e70ab8930a692970fcc79df90edad98",
+    "9c71620dc9d498cceb7e44cd18ce379d633a536208b0c16764369806fa3df17f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Chip Stocks' Worst Two Months Since 2001: This Week On Wall Street - NVIDIA (NASDAQ:NVDA)",
-      "title_ko": "반도체주 2001년 이후 최악의 두 달 직면, 이번 주 월가 주목 - 엔비디아($NVDA)",
-      "url": "https://www.benzinga.com/markets/market-summary/26/11/63510066/this-week-on-wall-street-semiconductor-worst-two-months-since-2001-nvidia-correction",
-      "ts": 1795208040
-    },
-    {
-      "source": "글로벌이코노믹",
-      "title_en": "기아, 2030년 인니 딜러 100곳 확충…내년 하이브리드·신형 MPV 투입",
-      "title_ko": "기아, 2030년 인니 딜러 100곳 확충…내년 하이브리드·신형 MPV 투입",
-      "url": "https://www.g-enews.com/article/Global-Biz/2026/11/2026112105384260992bd56fbc3c_1",
-      "ts": 1795208045
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "US JUDGE APPROVES BAYER'S $7.25 BLN ROUNDUP SETTLEMENT",
-      "title_ko": "미국 판사, 바이엘의 $7.25 BLN 정리 합의 승인",
-      "url": "https://t.me/marketfeed/1083003",
-      "ts": 1795208101
-    },
-    {
-      "source": "The Information",
-      "title_en": "Anthropic Shares Slide After Banks Exercise ‘Greenshoe’",
-      "title_ko": "은행의 '그린슈' 운동 이후 인류 주가 하락",
-      "url": "https://www.theinformation.com/briefings/anthropic-shares-slide-banks-exercise-greenshoe",
-      "ts": 1795208317
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "标普500指数期货跌4.00%，道琼斯指数期货跌2.15%，纳斯达克指数期货跌5.99%。",
@@ -11504,6 +11476,34 @@
       "title_ko": "美 FBI 해킹 당해, 농무부 시스템도 공격받아…트럼프 \"부정선거 파악할 수도\"",
       "url": "https://www.ddaily.co.kr/page/view/2026112207245152357",
       "ts": 1795300087
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "남대문 스카프 아저씨만 뜬 게 아니다…닥스·헤지스 매출 최대 50%↑",
+      "title_ko": "남대문 스카프 아저씨만 뜬 게 아니다…닥스·헤지스 매출 최대 50%↑",
+      "url": "https://www.news1.kr/industry/distribution/6360227",
+      "ts": 1795300530
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "수출 1조달러에도 연말 환율 1380원 전망…美 긴축·외국인 역송금 변수",
+      "title_ko": "수출 1조달러에도 연말 환율 1380원 전망…美 긴축·외국인 역송금 변수",
+      "url": "https://www.news1.kr/economy/trend/6361269",
+      "ts": 1795300532
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Yemeni government forces: We carried out 816 operations in the past 24 hours targeting Houthi militia positions and reinforcements.",
+      "title_ko": "예멘 정부군 \"지난 24시간 동안 후티 반군 거점 및 증원 부대 대상 816회 작전 수행\"",
+      "url": "https://t.me/firstsquaw/194880",
+      "ts": 1795300535
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Yemeni government forces: We thwarted attempts by the Houthi militia to advance and infiltrate Lahj, Dhale and Abyan, and repelled attacks in Taiz.",
+      "title_ko": "예멘 정부군 \"후티 반군 라헤즈·달레·아비얀 침투 시도 저지 및 타이즈 공격 격퇴\"",
+      "url": "https://t.me/firstsquaw/194881",
+      "ts": 1795300539
     }
   ]
 }
