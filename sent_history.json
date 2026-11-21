@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795274871,
+  "updated_at": 1795275029,
   "id_hashes": [
-    "a75cadee961e0498ef96ed23f32c0d59f44fa875befb4782147a51016fb3f5d3",
-    "e1b1245f185797ceba7824e1a77d2b3476429e19db7c95065fce0ac680bda4e1",
-    "74b58c1ad0e545b9724edf7c94be5fd604d948a5b318e5f6291248b15ec821fd",
-    "5cdb25764f205332d29d158fd31bbc500e3b26ac6bae837e56fda6e3cc502161",
     "4ac0442740293d07b6ec94595d922ec9f88fc79409c48c0fbde3079d8c69f74b",
     "87ae49d2c23c2ef73414ad988d2e12bbdfda9434a20c6badf09a41a29c68e8c8",
     "4431bd2595063f9d99186fdc3cabc0895f6a0b925ba5c976f57896265e9d6a73",
@@ -4000,12 +3996,13 @@
     "442848692a682bb9941000a381e2ccc84a7f11696779e9f5e63afc7aef38aac1",
     "ec058342db790ee3a8a167d92d6058a8b797766429d61589c7112e661f37fe49",
     "739e484b6db66b8927fe70c91f3c535c1ea6f10b4c64af87b663a60ea69068f1",
-    "039cd276be53148fe6d0188d184c617d15225953733e7d09c9c4a6dcf7ce8554"
+    "039cd276be53148fe6d0188d184c617d15225953733e7d09c9c4a6dcf7ce8554",
+    "a4506cf74c0e603843bc6028a0bb7f36c0fd291778e1315241fdfcbf2423ee24",
+    "564c79ac225ea237a114ed46a0e5ef0268c9deb05f66f3963e1b67ec3b7f02bb",
+    "1243a0a9fa653a5964e666b855a746b40c11d54e4775c575217d12e9b5d2423d",
+    "570c1a12fcaaf203a56a24031a0c2d53bd0c0a4fba588d6af919e0608033a11a"
   ],
   "title_hashes": [
-    "d278989e9b0cb0919d2b7538f2100c8b4e658d95e900e77bfcfe3537ca65e621",
-    "2688025b06ef7e1ca652247870a9d6f362503e437fdc6cd1ad07bc77de786a1a",
-    "a14fc958d30128d707d4d321da0c314dc50b61d6baaefd4c6bd45690854c92e1",
     "3b67232dfec6a36e2d679de705911630bfbf0abde8034c15c86293f983582fe2",
     "18b24d8f6a96c268cd650d72269d9cdce6fa183150415a343ca28a0300f93794",
     "2afcecfb2b426c1f2187708e3038213fad7c073016f4fa3019c145058d55e90b",
@@ -8002,16 +7999,12 @@
     "c20c86a8bfe3f6d3a111ff3953f77257d4eaa64711d9e06c1f9e00430e7be3a9",
     "fd2e5bee0ca2101b8052d0a50b3debda55d784e14563523107e7b66bc76dd035",
     "f282fb33ec2339ea2da90b799c5a37ebad0deaf6bc80410f9a0fff943b1c260f",
-    "095beef49d7cebc9f4d6c2943ec6fabfc1989de4ccaf3088ff93db3b46146689"
+    "095beef49d7cebc9f4d6c2943ec6fabfc1989de4ccaf3088ff93db3b46146689",
+    "f6a70af0d390f484cc46714642233ab371d46893723820c61e9281c7947f7e2c",
+    "8e52c1d232fb85e3613454cb314ef75bb01815684b19c7aaf10d68222958ed62",
+    "a5c1ab5a0c4797ae7059d27348fed07a935b4b170a2c4cbc8fdfa090be701ace"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "$TTWO - GTA VI SHATTERS ENTERTAINMENT RECORDS WITH $3.79 BILLION IN DAY-ONE SALES",
-      "title_ko": "$TTWO - GTA VI가 첫날 매출 37억 9천만 달러로 엔터테인먼트 기록을 경신",
-      "url": "https://t.me/WalterBloomberg/38855",
-      "ts": 1795202571
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Alpha and Omega Semiconductor falls 14% as tech stocks plunge",
@@ -11504,6 +11497,13 @@
       "title_ko": "투두이스트(Todoist), 마이크로소프트 투두(Microsoft To Do) 이용자 위한 데이터 가져오기 도구 출시",
       "url": "https://www.theverge.com/tech/1039481/todoist-import-tool-microsoft-to-do",
       "ts": 1795274870
+    },
+    {
+      "source": "Nikkei Asia",
+      "title_en": "Global crude exports hit record high despite Hormuz closure",
+      "title_ko": "호르무즈 폐쇄에도 불구하고 전 세계 원유 수출 사상 최대 기록",
+      "url": "https://asia.nikkei.com/business/energy/global-crude-exports-hit-record-high-despite-hormuz-closure",
+      "ts": 1795275028
     }
   ]
 }
