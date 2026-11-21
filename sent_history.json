@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795235606,
+  "updated_at": 1795235757,
   "id_hashes": [
-    "1ad21644b748f6c512d775b783f33d681748f02f8528ebdc82ed7b6e2305db8f",
-    "e3ebda9fd81311c4f2761d6e338732df70afed3d9128134f07cafa555394339f",
-    "521ae17e84a881dd4d5a01c47b83cbf8685cc1a6865a15ecae1058c4feecddb4",
-    "826a1cc0b6599ed8ad85a30daa5c1e94dc5ab9077bb85073be1d2e713bc2ef7c",
-    "a7a25b5d3a80e98a89cfbd6e7ba655c95b1d89c12b3070eea1529ca32e4ade15",
-    "08651a94cb6663edfdd770915328cd60f7d3db6f062c40e2ac728490c79a7e03",
-    "aeb3c922a49e93be2846c1d4e80c0755bb361f62eca5ba0d6b33ce32d96cfe44",
-    "9e8032fcca2f93010896dddb66a9d6fe4ccc496a50691a4918f4a3262a34452b",
     "d0157b4dac5dff7648cedaf1575234121a5b950163472a5249037a8c3f02d6c5",
     "4c728f7b6f43662b64c8fc32c4bf7541cdcfaa5a97c2dc27d0fe8be0cd278975",
     "8f70e975925d894c491baeb37e4daed74d037bf55645ea63c535549d8cffdea9",
@@ -4000,17 +3992,17 @@
     "acd779a62b4ec7073b244815b73f41681e40c8ddc90814b585e800bf5cb125f8",
     "16039c471ac425138fd4e624314a2e12231b8de743bef72ba57941fda48a8d73",
     "9d6bf61aeaa73c6204e24a11d5de70dac7e3ea3b49da8541002f5bbf35ea8bc7",
-    "f33cac6307ff0b3d8512377cfe74f353372cab1095335d126e8262c7c966ffb6"
+    "f33cac6307ff0b3d8512377cfe74f353372cab1095335d126e8262c7c966ffb6",
+    "91e497d16d388ab4aacd3f6ecb528f385403771e926e367e61598a6a79051844",
+    "5f225e5d99b73628e6f2bf15933c8028c3bedb070f41d33aa6591a1667af27b9",
+    "76d481240bf4d47ffeb46da5cf6658e4a84a186ed90df1fff92756b08387eb37",
+    "4d54f53212281a15632f244272cfda3efa6ff6f2fcea1749fc62c3c56ed951cf",
+    "33a94852aa9c222dafb2df6001f73010f5e06b9947994c68374cf6437396462d",
+    "0c78841d2382b9329c6607f1aa225d644749af02c7e8abd182f87bfef91f2210",
+    "8cb25c7e507fcd66f8a8cf55c4f8f2453a14ae45c7ad0974f64852bcd643f590",
+    "7e2f4ff684e46adbf328a11aad11f6d1879d1254c03d815946ab49ed51184de5"
   ],
   "title_hashes": [
-    "275181b14c00f0e10e67cb9bfa00d841429ccaae190a88fa6a3b14884c32b490",
-    "17cb2cb2960b2f8fb0ae64c4d8c68c2b0ae11c66f6f7b208cbb4d710858dda10",
-    "259e0916ddcdf98e890833c403a65913d1397b17baf472cbaee4a6bb052c117a",
-    "7dc2ffc32afe5330e5171727c42afd0d682091a72c1c1cb43f5e2c11bd8380c0",
-    "8bcb1e0c5567677e59dc4789f352195ead9b7737e8250fe294c0090d4a1da08a",
-    "c7aaef182d0917dfbce5fc94b75f6ea4ff1ddba1533bbee014e98ed70814d5c1",
-    "5c1b051c39ad37cebb215ec0749c6ae6fd3dd62be95a91520a2d654a20894d2c",
-    "687bbb6bbc47a2bf81539a1fc0f1589cfe76327a5fd542e9817138ae8da2fec8",
     "111a28ab753ffe8d1af87b1d404bd4f748275131702d0725990afcfa5103891d",
     "c71a1cba4a5ab382a44b0b6a060b0a9a6d5d53f5511971edea015042e77c1b34",
     "0e78f65ecb2965a2f375ffa91e7ea5b184322b00e854059bf4be96513612e01e",
@@ -8002,16 +7994,17 @@
     "85dfdde6110154d999e9c73998e0ed24d138ab05a16ad44e7f581fa4e4a5614b",
     "e8cf61705b9786a84dd35c885c1f0e3643df2d590e26b3f3c02cc06054c9bca6",
     "818a8d510fb95329a36ae4512e4682822e460c4ada558cd28f5f3672e98c9d50",
-    "587356139629920688733f4d8f9dd45163a52c39b1dc30f917d213ec1c9ec9f9"
+    "587356139629920688733f4d8f9dd45163a52c39b1dc30f917d213ec1c9ec9f9",
+    "f9d9c69ccc6fa9d4748b6eb60e9752a5bbc94c68d22fbac56cba4e37f14dd4da",
+    "6eb12e7125608f1dbce44931da17c6ea3879df5baa32b4eca0f133fd9504c488",
+    "42df0939d20412aa4587cda4cd1f521cb647bc3022a3e94e540343618bfa51dc",
+    "91d24f718ad813e0e75b43927eace711eefc188a86cab61d52377fd0162c6afe",
+    "ee20130aea67ba5fe425a2e88de643676ad1fc6e96d10873c150124d0ce4d2e0",
+    "fe8ebc2b0e989cc2020f6f03e73bb0b41a58e2a6487fdf84f8dbccbc32fbab77",
+    "f6c1e0ea85f63932c3bedb4964ccb6b4e5d866ae0583865caef9763535619f80",
+    "160fc488835516bc9c74b03dce406549fd46dfbc1e83d4a9b817d89b08b1f66b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Ford Announces Pascal Zurlinden's Appointment as Global Director of Ford Racing, Effective January 1, 2027",
-      "title_ko": "Ford는 2027년 1월 1일부터 Pascal Zurlinden을 Ford Racing의 글로벌 이사로 임명했다고 발표",
-      "url": "https://t.me/firstsquaw/194635",
-      "ts": 1795194310
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Ford Announces Mark Rushbrook's Appointment as Global Competition Chief at Ford Racing",
@@ -11504,6 +11497,13 @@
       "title_ko": "한한령 해빙 기대·日 엔터사 인수 추진…하이브 22% ‘쑥’ [이주의 Bull 기둥]",
       "url": "https://stock.mk.co.kr/news/view/1203608",
       "ts": 1795235481
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Jensen Huang's Reported Humiliation Tactics At Nvidia Draw Praise From Chamath Palihapitiya: 'This Makes",
+      "title_ko": "Jensen Huang이 보고한 Nvidia의 굴욕 전술은 Chamath Palihapitiya로부터 칭찬을 받았습니다",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63514659/chamath-jensen-huang-nvidia",
+      "ts": 1795235632
     }
   ]
 }
