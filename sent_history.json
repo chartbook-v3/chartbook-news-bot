@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795297314,
+  "updated_at": 1795297463,
   "id_hashes": [
-    "6f617c76b743898f2c4052f2bc94d6781484dff81a14d7ee097dfee495cab23e",
-    "ebf014d505f5ed6f4a25c17fa18aeac7eb57ceda7c5d789da8c632cda7b59903",
-    "e24cc5ea67d6bb5b49145e483e37a6a0b7b4529ca0ef4dfe4d0308eb19e1b5c6",
-    "ad8b217599766abf6ccb09283fe4c5ddbfdc61fc1339e2f26fa584522a42ef85",
     "f217c7791aa1a7fc9e791253373ab7d32908b28218a84443822d0c1c48b316ca",
     "66fce54c21218326eb257c47a37386983e7beebbff1e63eef17d1b388037d9fe",
     "339ff60c2245eabc59ee96ae44751cdd10ac705d4a662c0ef3a4b27da5bb596c",
@@ -4000,11 +3996,13 @@
     "8c80a1436b6dc5d2e1b414264b0125a89bf78b162ff8008e807ee79f18dbc3c6",
     "2883c3d8f8b735890e4ac206254537dc253c7fbe166798b020b8297ebe9e1f06",
     "354933209f84a1d0fab3b660d0a56cb10b2e8ac446e285dd5e0993b348f59350",
-    "2e930399a0396a8f6badc9aff1591fd6ff2d71eabad6db5b3a99f5d5fe6d840e"
+    "2e930399a0396a8f6badc9aff1591fd6ff2d71eabad6db5b3a99f5d5fe6d840e",
+    "08753ffdf30f251b8a3cca6eb45c8d62d08d71902048843025a89ef2699df804",
+    "bc7c1e48f462ff4ba637a9056b78c9d94b456064f60dc5bbbc92dc8d1e4fab62",
+    "4abd291711276f330ed271d1e7c0a83a0623d55b7d8353244ea82cce3acdf17a",
+    "50afd6f40ecbc9cc7be22d2d58f0204018432d2702b562d3c6f7c892430fe879"
   ],
   "title_hashes": [
-    "1adf4ee636dc64631a308202099bf2dff7f47488f67b53376ab762e11e8c7e43",
-    "44f1983081e35ece9e744a6913d9e28b6919648ea4fbcd1fbab39cd040f043f4",
     "862815d866df354b1f2b6897774435030abd4374c358b961dd485ccc021f4342",
     "dc6650ceb313018b6d747b4ad9527fc168aba026ab61284f0057ff5dda015ea0",
     "f00a94ce62c86eb4dcafc260f87ee0d509f8cb5d16cfd3b54951f36cbe0d866d",
@@ -8002,16 +8000,11 @@
     "b4644b694b3b7d4d20625267e394f447b000d0c1507099fff8bcb3a8e19aa41f",
     "c602d3f5e23fd35b05ff18f007dc087f27e7c0dac94df76586f85d82055f3ff5",
     "78c2f99bb10e354b29e0926070ac9c201c3f96868985d805b908332bc1aa84f7",
-    "ea6e64bef227276749f3700bca2d46a366c81ad6458577cbf617d819b4ac4917"
+    "ea6e64bef227276749f3700bca2d46a366c81ad6458577cbf617d819b4ac4917",
+    "29f1840105bd9aa9ced8dd1c1e2f49eec4a47bfe28b8d73e2eb0cfd981fa5787",
+    "c7b5408cf7184bd479b1992319375f49e2944bddfd97755635e63e9705377dbc"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FT",
-      "title_en": "Donald Trump threatens ‘tremendous’ tax on data centres built outside US",
-      "title_ko": "도널드 트럼프, 미국 외 건설 데이터센터에 '엄청난' 세금 부과 위협",
-      "url": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1",
-      "ts": 1795206684
-    },
     {
       "source": "Bloomberg",
       "title_en": "SEC Moves to Directly Oversee Database Criticized by Wall Street",
@@ -11504,6 +11497,13 @@
       "title_ko": "트럼프 전 대통령, 모든 미국인에게 평생 의료 서비스를 보장하는 압둘 엘사이드의 '트럼프케어(TrumpCare)' 제안을 자신의 SNS에 재게시하며 정책 구상 시사",
       "url": "https://x.com/KobeissiLetter/status/2124256380341088719/photo/1",
       "ts": 1795297313
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Michael Dell's Net Worth Falls $88 Billion From Peak: Can Dell Earnings Turn the Tide?",
+      "title_ko": "마이클 델 순자산, 고점 대비 880억 달러 감소…델 실적 발표가 반전 계기 될까",
+      "url": "https://www.benzinga.com/news/26/11/63516342/michael-dells-net-worth-falls-88-billion-from-peak-can-dell-earnings-turn-the-tide",
+      "ts": 1795297462
     }
   ]
 }
