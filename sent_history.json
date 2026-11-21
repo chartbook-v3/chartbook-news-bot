@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795291912,
+  "updated_at": 1795292060,
   "id_hashes": [
-    "6ea050f21b96acae9bcd1a493bffbc70e3beea9220fa51d3718bb3bb32651fab",
-    "67395b0e6d24a611f502e4751f3ca814c5d136acb75f9c838f944bab379a5f85",
-    "967ffd004a03e96830e8f3db7aced851a8674e5573d364d863e602992839dc83",
-    "87c33457c3d7824a3be58e256ca7c2428243e4f6939820fe4564d91f6d350f1d",
-    "1e06ad7e0eaec45741ba83124647fcf20af09041b8766cada793075ff3c5a6cc",
-    "06874f1048b3d150c9d55eac107ca43c7ea8154b00f6ca4bf6e9bdc2973b67db",
-    "0cae16f6a0a6f5345c9900c0a9924044c654c277a7de42e41758aada8d46f501",
     "66b0b03040b53368daa0f79927d05ab45b25d25efa19b77495357d1f38633a93",
     "7a684cfb72e8d6535a7959ed0ce83c4b76d420f7774c97dd7ab859641813048c",
     "e8a52e20dfa79392437f706b0108c21a8778ecad632d4afdf69158d13d808ec2",
@@ -4000,13 +3993,16 @@
     "181ed7910b2ec4da129f142fb1a34803a36e64381cbb9811d270c0df87b28d0e",
     "e5e7ab905c5cb58c847afeee6563affc726b9d6ca01a7d754a17432d4f038596",
     "03e3cfa7913978bb48a7516ae1badef84e8cc7f8d1ba48d5acc1e04da85d7f85",
-    "2900723183a1d6d134a62bad3044fbbb63ab3ba05275e5e02b22169787f84cd1"
+    "2900723183a1d6d134a62bad3044fbbb63ab3ba05275e5e02b22169787f84cd1",
+    "0d67af10e6b4d48b0c940fbda48151e21287a76bcb4479cb13a47ed4d7587537",
+    "a4f3c9df6272d3e71d9ad09e62d07f2b08fbbd745500f7e8bb5461d5f2449a4b",
+    "d995639909c1c7030f695eb8a717d03a72235199440e7d89ef1a03de5170b79a",
+    "377c070300e42f8d6c5f08c677554b4e403bf7102e890558215974862942b9b4",
+    "095e9004d887f2b52de491ce32bcde339efcecfbf911c90aa917fa5bf3e92e24",
+    "66c8e7d6d7dfe798a5084bcbb2b2a0e68c7ea2f48c31529f1c0711402d0bc7e6",
+    "9ab41b9ae9cbc8fb111eec0ec9d0561f9b2a31bec8ce7f3eec18f6290516cf44"
   ],
   "title_hashes": [
-    "0d6f669f037d0a1018e0769bb61dbb4b53fad7abdfac3f2d72ef70110c62d46e",
-    "0c43a449c6ddf10d8e8dca08922dd80f31b77fb87d57851b41af7b1a504e76d8",
-    "7836c1b9922fc0247c0afed52e2c0af508bd3a8a7a5e27b04e988c5a44921c06",
-    "7d4e6695a735b0a616e51d5a85668ff2be3220512ca31f93d707720f17540306",
     "a5f3eff1a8174014691b38caff0bc7c07d919cb9136ff2f2aa3c590ec56a5092",
     "51b0f1c7fa7e7f4d5f9142df10dc66db341498969a2eb6aa778a9320a4aaba4e",
     "201c01c3fd3467844b16dfef5c49290f79df0d2bf4954b5e5a9ac379eb249438",
@@ -8002,16 +7998,13 @@
     "d2b7391ae9d40db47115c763d5a03149539bddefb102cf895be4da286497e890",
     "88b9a4581f839e6259f6c4d6cbf25142a5689e3806a4b4916379e8328d479465",
     "98c2356a823d337e7521db9bd7faca2e7a8cd5bb9f351ae95b9e81db00c2233d",
-    "4a2dd4ad94b6576baa7b11f88180035757ea48e14d50f4249d08ece3ab12037b"
+    "4a2dd4ad94b6576baa7b11f88180035757ea48e14d50f4249d08ece3ab12037b",
+    "c063dd38be6b2e372b47e838d6960a2e1a24de423715e663b8b4679159d8caef",
+    "da7ca9abd80dbb35f7b3ad52a1efb0d7e73ec8638c8412c7f9cffaf76e49fe19",
+    "037bb6e1faba22944032ae8937a892dba3dbe3f100c9eefa295f0c145bb98d0d",
+    "3026b2a4351062d0d03c08e88662e7499969c749f566f19edd29937a5c211a27"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Marvell Technology retreats 11% as tech stocks suffer",
-      "title_ko": "기술주 하락으로 Marvell Technology 주가 11% 후퇴",
-      "url": "https://seekingalpha.com/news/4675309-marvell-technology-retreats-11-as-tech-stocks-suffer?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795205406
-    },
     {
       "source": "MarketWatch",
       "title_en": "Dow, S&P 500 in correction territory in final hour; Nasdaq wipes out 2026 gains",
@@ -11504,6 +11497,13 @@
       "title_ko": "일론 머스크, X의 AI 모델 'Grok'이 모든 것을 이해하고 있다고 언급",
       "url": "https://x.com/elonmusk/status/2124219378489311656",
       "ts": 1795291787
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "李대통령, 12월 트럼프·1월 다카이치 만난다…실용외교 보폭 확장",
+      "title_ko": "李대통령, 12월 트럼프·1월 다카이치 만난다…실용외교 보폭 확장",
+      "url": "https://www.news1.kr/politics/president/6361654",
+      "ts": 1795292059
     }
   ]
 }
