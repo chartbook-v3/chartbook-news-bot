@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795229784,
+  "updated_at": 1795229942,
   "id_hashes": [
-    "533c7382ff8f8f37c45a8524e04f6ffdf424091e40b8b8ee08011898f54e4d30",
-    "f3101629ba327ada65d87ebb1aee3cfcdd338e2633029d60e204342463796456",
-    "520dead98f9dfc255f1944324d21152cc2b8e47a238a88af990302f900cd6bd2",
-    "3dc169178b33863f1972a4259441e03a5e6d5a43e596b2edc1d28040b02cf465",
-    "f795534d9d0bd95b3b3f7f04c3395d0fbea7317e44b09fdd7a48df4993373bb5",
-    "d78449bc444e0632c71e6a730ed4bee72e52faa29da003250fc4475ee3adde96",
     "46a740c422e9a04044b4fd63795a7f112052c219d4fe70bfdbbace458012cdbd",
     "06cc843fe385984403a154dc9fb2107d6d0dc9ce372a17e5598923a5cbddf808",
     "ff22e2d9ccee86d9b64c13673ddcedcb771bdb49afcf7a39321753098a66c0be",
@@ -4000,16 +3994,15 @@
     "d82a0d001d843f17cb2cf217f07ab23e187e8300dbd96498bee716867b51bf32",
     "25bbf708cdce304a3188c11120ed9fbd5bd68edbda40a7888f8521fbe5aa5234",
     "1e5d1bfd79cb43c51b7ad4bc16f5f925286698310604aa830370431bd40e9654",
-    "bdd905ee1948bc6f1ec0ae5c75ac2caea59e6852111543b80d23ff394a7b9f28"
+    "bdd905ee1948bc6f1ec0ae5c75ac2caea59e6852111543b80d23ff394a7b9f28",
+    "b769fff22f75f279942aeb1fdbb5abe2c5030efde90efd1e8b4cb60bbca628e2",
+    "6ece72106509df77fccd2f14f1311732ca4841b05cb18448f83a5c69a6b02503",
+    "6137834615daf4ad69a0c679fd982e21bb302ab59e8f0f3fce41bc71e599d2b4",
+    "23489b06539115616c80ff540589d9b42de2aecc9f3475b6cf833e3c76e31401",
+    "a064d365262ccc89d3e472669b55b37f12e51e4919bd7b9f17633dcf569d3eef",
+    "3d54613b20619aaa6a8a711912e837cd36dcd1db351ac68a0b141182a0029167"
   ],
   "title_hashes": [
-    "5a553a0a4f496f436185b9f495ca4ce638bff79b7ac588e7c0c1910a954c3509",
-    "13483a427e892aa150ce99f882b5a0db3e3b75246e93235770942ccb1152f9ae",
-    "0fe115508d112de8d62e81566165147cba165f5448a96527e587ead4048a1185",
-    "76d028257b3fa4c17f70a791e83c0979838f304529ac058c78c4c0505efbb2e7",
-    "5b3b892ab46d7db4ab88e847fea76e8cc014ccd7aa064c72705a2488fded38d6",
-    "110c265d406a6fe23bd689f72fa971f01d0a23ebe685258370bcb6dc15a48aa3",
-    "647bdd4aa036f662194ca46b7e88d41341d6db43620458344fd1e31770c38ae7",
     "a03f4d90f6625f28e09de6239aa5008c165d98921d2ec6689a341e3883e1c34c",
     "dfb2670d7735eefbf80e358b454de4bd8e2d071f68df2dc3a4ee407b0c8c0b11",
     "cda2f038652fd3401854c136752cd65551c88b47c3ff041ac27dbe18de8d61b7",
@@ -8002,16 +7995,16 @@
     "0b42cee7a1f389ed49a7f493541420fccefa72b10cc5293a99f10ba11d70f34f",
     "cfae67de8d777ba23f38f55db4471f2a8696ff6f330eea4f0832bb0e8199fbef",
     "805ebe3df7903ba74f5663734f93fc05eaf9c28917f20524f74ebdcc58da945d",
-    "ff0094d73d80a8d6658436d4a4ecaaacb46857ca101776ae2300e3610604946f"
+    "ff0094d73d80a8d6658436d4a4ecaaacb46857ca101776ae2300e3610604946f",
+    "861ee1e5fd15f54b0f5031b5ea623280f21a99c699d707a56574dbc7163d115f",
+    "be4dd4b3b8f6a16c0910c986e515ab4c445d4c627b50fdbde85e064017be8850",
+    "9ef80b82a777205af73988367f6131e44cc4962a32fd449545ad864c5cf17bf8",
+    "44f0d8963d8246cdf8a3f4b52a281b17a66d805cce707be7d16860829bbb5e6d",
+    "c0ec540d2b4b2c411c8816b0c250ca0c8e989c92b987fb6473f218096e57250d",
+    "b6e62f54b2ed9195de7f1e2d5edeb2dba0c8016f024ab5ecb7b9fa00bcd7c8bf",
+    "f0d6e59df517c86179748fe93338334c2550931ae1bdaa71cc027dcb771d71a0"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Barron's",
-      "title_en": "AMD Stock Is Getting Crushed by Anthropic’s Drop and a Short Report",
-      "title_ko": "AMD 주식은 Anthropic의 하락과 짧은 보고서로 인해 무너지고 있어",
-      "url": "https://www.barrons.com/articles/amd-stock-crushed-anthropic-drop-388a2a6a",
-      "ts": 1795193062
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Microsoft draws mixed signals as hedge funds reshuffle positions in Q3",
@@ -11504,6 +11497,13 @@
       "title_ko": "$99.99부터 시작하는 Samsung Galaxy Buds 4 Pro, Buds 3 Pro, Buds 3 FE로 일상 오디오를 업그레이드하고 최대 47% 할인을 받으세요",
       "url": "https://wccftech.com/samsung-galaxy-buds-4-pro-buds-3-pro-buds-3-fe-black-friday-amazon/",
       "ts": 1795228896
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Trump Wanted Stronger Iran War Backing From JD Vance, But Vice President Stops Short of Fully Endorsing S",
+      "title_ko": "트럼프, JD 밴스에 대이란 강경 대응 요구…밴스는 전면 지지 유보",
+      "url": "https://www.benzinga.com/news/politics/26/11/63514571/vance-trump-iran-war-midterm",
+      "ts": 1795229941
     }
   ]
 }
