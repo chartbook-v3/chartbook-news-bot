@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795301598,
+  "updated_at": 1795301748,
   "id_hashes": [
-    "011fd66e1cce44aa1ea2b46c9de9350627698362b62dd2223084d5caeaa05ff0",
-    "43c6518270c1deeba7bc69ac9959a382d75c64384b24356dcd7804fdec5d1925",
-    "453b44fa2b029edabc229f3b6a9ca3b39aabf2e8557f690e0ee54de554bb0752",
     "755e9f484cf4f47e84810972f7108c28ca93a0654a18674dd5cd94d32d44805d",
     "9d9c897796d67afdc0549c51ee482d1bbe5939949f0110515280b0b4fc86d18a",
     "3fa9a2ef886b7c19f3e9d9ba0ec6a419fb07e9261c861b7fefb1f68ef5f253a4",
@@ -4000,12 +3997,12 @@
     "b765e5371b9a342461329a1a6be1b1c7f067c51e07b2786c371698027a45e8c9",
     "600d658ed4310ec6f3b057d01fe63a5ce6bb213cb42bb22778ed3cefdc82698d",
     "53e05d5c705ab96bad68ed8bc23a509cbdedb06a8b9d43ccb0770b7247d39ab5",
-    "ec77b497a627959712a20d1c0ef8c63c109a3584ff3257f25268359f922878c6"
+    "ec77b497a627959712a20d1c0ef8c63c109a3584ff3257f25268359f922878c6",
+    "647a89a3c8478c67753ff1a31a5ffb154d2406bd3f0f9957b2f6e3c669f0d19f",
+    "3372dc2d971e2fa83ea775537df458b8170d2601f795a2a76e0600b214ce4671",
+    "d796be82ea112a92b113c4053df17abc9784a6cc16e14b04a7ed9d81ce7217ac"
   ],
   "title_hashes": [
-    "06e3d3bbab293f152704fbd89f041482b4ccd751d0e35b1c4303d7b374dc01b6",
-    "512e6a796edcea0df4c9de8df6842a7fed845a33e47e23a4119f2529634c2b2b",
-    "146dbb42e309f633ad125e2a3aae202c51664b985a7d712bcafdc953aff46cc1",
     "598ca47b380f987e75de816518295de140cd5abcbf549d9b96c3aa351cb2a583",
     "d7b7d7a47bf36fe715cd44c4b78f9a3589ec9fc64eb243c459fac002aae56067",
     "bba9ae906deb7f00538d61ed794880e71c5d1f409ce6d29ffc562674e355d6d5",
@@ -8002,16 +7999,12 @@
     "d9e73e8b0d4a7f2653b90af99c32e1ce44498ca830ad2267ac65cc80df57dc4a",
     "83e0dbd5bb41e823863a808d0fd1b18f34a94b752eb8e61655201f3cec912dea",
     "668673a9a4b5a60ee93a42c0f51f3d434dec18e079c6734524f50a8b5157a5c0",
-    "6a1ee36c60a1a06fcea70aa60055d139948503e3ac257961a665ca181e177f2e"
+    "6a1ee36c60a1a06fcea70aa60055d139948503e3ac257961a665ca181e177f2e",
+    "bf0bb61d59d32783db7e881c5943ab71912e39559a0e8dbced4f4bb40bf31bf0",
+    "0b1734e16ff65fbd7ab6c5d7b6967de12a9e778846d4b9494bfe2f7da432783a",
+    "d7d82a95606ff4320cdae4854704623b9614048ad340cb3adf8edd9b7ada85c2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "特朗普：中俄美元首会晤“史无前例”“意义重大”",
-      "title_ko": "트럼프 \"중국·러시아·미국 정상 회담은 전례가 없고 매우 중요\"",
-      "url": "https://wallstreetcn.com/livenews/3203580",
-      "ts": 1795208568
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Dow Jones Plunges 2.02% at the Close as Index Sheds Nearly 1,000 Points",
@@ -11504,6 +11497,13 @@
       "title_ko": "\"연말 예약 벌써 꽉 찼다\"…고물가에도 다시 뜨는 아웃백·빕스",
       "url": "https://www.news1.kr/industry/distribution/6359620",
       "ts": 1795301471
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "반도체 팹 유치 넘어 장비 공급망까지…민형배, 미 AMAT와 협력 모색",
+      "title_ko": "반도체 팹 유치 넘어 장비 공급망까지…민형배, 미 AMAT와 협력 모색",
+      "url": "https://www.news1.kr/local/gwangju-jeonnam/6360855",
+      "ts": 1795301747
     }
   ]
 }
