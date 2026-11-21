@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795277272,
+  "updated_at": 1795277429,
   "id_hashes": [
-    "35fd5873bdcbc8b4bb2e8dc2ec4e246acc64937cbc22493bf6991f674820b2e5",
-    "35ca3707a73ec6ee86990fa3301c68b5120646d2322439b34671b47a511e1bd0",
-    "2f5ef96ccb2cd9f927e9b657465a16f8b6f1dcf8cefdfacbcb3b470c9cb2348b",
     "b3b3ebf94b1985d0417c3be8a1ad0a31c5b3f4fa74d712138211fbba2f2158eb",
     "7d82cb14b140f5a0e324c3e3692f6a8351c68df179e636bb0ff5072c00366b32",
     "fc81df9664cd512ab9fe04339e68d272a30ecda4408a3f392dd5795b76fb48c8",
@@ -4000,11 +3997,12 @@
     "86d413368ef0ebc19f233e18f01c86debb3fd9d43854cd7afa6a22f44a4db296",
     "d8137ab0c542bef1c66aa3ebc05869c16427c3ba654c4e3370f64d31b056b9e8",
     "4df179db0be2c15e47caf322d95af537e9ed2fb97bc8a9e2964d415f55c6095b",
-    "b1c2e6ac5495917a68044be0523634510cc86143c836fdd70751eb1c31abf1ad"
+    "b1c2e6ac5495917a68044be0523634510cc86143c836fdd70751eb1c31abf1ad",
+    "405e4ae0d995e07db07c3ff37b5b6331e7bfdaa49bcd4ccd3ce5ee4d95fb74db",
+    "d92d082719d3712270ec559bf00bd660c30214bd91a922f33c73c4c2e8fde6d5",
+    "eb281f6a4e95a956ecfa383c156d41519580dd2b61c197f3fa4b7cd4479e83aa"
   ],
   "title_hashes": [
-    "feb9f9e83080a49ea3b9b96f7f1862ae1c129e852f5552d461a92a492a4872f0",
-    "10a80cd7d0f209246bf8e498551ab617ff86234c5435cb9972d407b4c7dbddc2",
     "90f0f48cdbf702f4e9da000c4e8a474542eee8d0b28bf6b8883b213ae760ca0b",
     "5b5d64e66d51a54189f4f883fbcea48a19ddbe2ae96e5b8751919ceaacd57785",
     "b35419f08108acdab91b1ff63852fc7066816ec2515025e68b4759cd2e4736b2",
@@ -8002,23 +8000,11 @@
     "9800198329dbfc463609ad6cde12c359d269efe6e196efbb422d5892723bdd43",
     "68a015098df4848ee6173fb300562da7a00c877c4d95888c00b2c7c52ea07567",
     "e124dc77ad30f3ba803c1e499ccc522ad0b48aecbe28fd0abd88b91d8a6f4a31",
-    "330b075d7f2c99ee699a351a076c6def53eaedbf9a6646db25b7e5bb7e402c13"
+    "330b075d7f2c99ee699a351a076c6def53eaedbf9a6646db25b7e5bb7e402c13",
+    "8d14d5ded1fa38aa9ba961da28017e26590c66507cadb024561d06eed00e0870",
+    "267c65f25b071c9c3954ef360d6eb6849c8bc247f550bc9dc78f65bed402162f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "英伟达跌幅扩大至11%，费城半导体指数目前跌9.57%。",
-      "title_ko": "엔비디아의 하락 폭은 11%로 확대됐고, 필라델피아 반도체 지수는 현재 9.57% 하락했다",
-      "url": "https://wallstreetcn.com/livenews/3203550",
-      "ts": 1795203063
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Kalshi’s Novel Treasury Perps Hit Delays as Other Bets Expand",
-      "title_ko": "칼시(Kalshi)의 미 국채 무기한 선물 상품 출시 지연, 여타 베팅 상품은 확대",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/kalshi-s-novel-treasury-perps-hit-delays-as-other-bets-expand",
-      "ts": 1795203152
-    },
     {
       "source": "Bloomberg",
       "title_en": "Trump Backs Lutnick After Senator’s Criticism of Chip Smuggling",
@@ -11504,6 +11490,20 @@
       "title_ko": "마이크론 테크놀로지(MU) 주가 분석, 바닥은 어디인가",
       "url": "https://www.benzinga.com/trading-ideas/technicals/26/11/63515277/stock-of-the-day-how-low-will-micron-go",
       "ts": 1795277125
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Insider trades: Apple, Meta, Coca-Cola among notable names",
+      "title_ko": "내부자 거래 포착: 애플, 메타, 코카콜라 등 주요 기업 포함",
+      "url": "https://seekingalpha.com/news/4675363-insider-trades-apple-meta-coca-cola-among-notable-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795277362
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Kalshi’s GTA Guru Beats 35,000 Applicants to Land Dream Job",
+      "title_ko": "칼시 'GTA 전문가', 35,000대 1 경쟁률 뚫고 드림잡 취업 성공",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/kalshi-s-gta-guru-beats-35-000-applicants-to-land-dream-job",
+      "ts": 1795277428
     }
   ]
 }
