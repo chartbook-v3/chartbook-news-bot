@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795269728,
+  "updated_at": 1795269880,
   "id_hashes": [
-    "fa87a05e24e3984304f8f14d4bf9f2966b986bcbf78ed092486bf677a84480cf",
-    "4b1480bf22eb69c6774fb513ecf30589fcb548e184ec9363a47d30aec4739e2c",
-    "88e1dcc0995a6a5ab7edf2551f96026e00f1ef3cb1c10b638313c907e1019308",
-    "9047539767f260fec4ee993738d6af693cdb2eab84ecad6021570f7280f6a55c",
-    "00bbc4d456f5d389bb3c8e5fe807455fbb927f1db166f31be9ab3369f56fe737",
-    "340b042926d8c2126a8f6b4b771ffcd49272c8f8c39ff1dcd256a0d8770e21c4",
-    "97f304099cdff59dde2862003139b8f5155a5e7b9a739e7e4b36d4c379520499",
     "8c41fefc62c22f657635924e71e2d9ec0a7870aeae454e1ea09273e3ff9dd136",
     "c8c6afeff60cc990d62bf723a9c55b4de3bb57fbd2b1f102b30e223f8807e8ed",
     "30f527ddeb60312d433e73b2f2cd93c06e1fd60c108af2581d018b30c89098eb",
@@ -4000,16 +3993,16 @@
     "72269491a64df8a1728043209bd1ca4c3eea0ee855700172824cbfd7c3dd0b94",
     "9377684ff5a8a522c1e9dc9be83f27f6704aab3144f686c8ce917060fcfd94be",
     "dacc36beb74f7efece9792f795e2dcfbba42fd6118e271c254bdfb749e6ccf76",
-    "cad84a60debdfc0e2adf9d6a3ddfc119e3ce70cfa82462e115e12b52212509c8"
+    "cad84a60debdfc0e2adf9d6a3ddfc119e3ce70cfa82462e115e12b52212509c8",
+    "af8d75cfb6b5ad138d2e21c041993b01a900d7913ad654259bb2dafafd25ec26",
+    "248bceb743d10cb9bc571b0df9e6bbaf081c7a5ad989db5feede57f3438f97f4",
+    "60b4b73897a26b0cf0496e7990befb1748471f937f99d95313ccd66d211a91cc",
+    "50b3841075c19076339658c8053b26ee15cce7cf8a6f540dbdb305682c7533d6",
+    "e3836e44d7f269a024bd82b3b54d916033a7eb3aa92d706f9199f9cea8ae7bef",
+    "11149c87837689f8fb1f06b3e3ee3991e717b27e0c5b5d90477b8d08132c3889",
+    "fb8704c0ba0ef3e48c6c87ad4cc715dedb57b7d6558b67cb4eb5e4cbba77ba50"
   ],
   "title_hashes": [
-    "9bb0c856e59d687b3587ffc27534c5111181306b6e2a1a544407a80e0340a8b9",
-    "412a56ed0b8e9665493eb5a7d0273730d926e7abe18c29c0165d2b1c8ef856df",
-    "f30af6ed2c9a2f616a6406cf67143265d3a922fbe46bb73da14570aaae0e4393",
-    "49896eda8a4113631b1d065c8d4081ffa139425d82b2e66c9f722dcaa4e694e1",
-    "97adb14e629c2f0efb7eac2ee9c2c581c8d8a75c95a48482faa0c33caf421d37",
-    "c2842a682433d6f9a59c4cd02f7215732da02478a6d4b43674ba4de253dda0ac",
-    "f3e0c3fcc49cff6de0231d4f686724b8b93463df482170e1d1aed6e7aca9348f",
     "4170405798a0efb1cf0db0382173390d999ec8e4d46cd0d08f03e29afd09f15e",
     "51747ab1e33b232903b1bb624fd06e9a0c6c0843c9a423390595e6593dc3c358",
     "bc59d8a96c70cc446391e1693c5984a16af7e9431da73402787087a68404fefd",
@@ -8002,23 +7995,16 @@
     "02ab1ac647b79987f194f89ffc77f15a324f681cfbd41b2e4ce1327596b2e947",
     "ae805393c9b25a5f17f47145366ec75da066cb260aa8aaa78ec22321cafc6cb2",
     "1a0326a4cbd490ab7c41d29a4eeffa077e800fc274e11c6e1aced471b0aef976",
-    "b1844bff5b69216b7e2a7fd30bc7667a06be751c2cfa0ca94eae333f5f208b05"
+    "b1844bff5b69216b7e2a7fd30bc7667a06be751c2cfa0ca94eae333f5f208b05",
+    "f36a213df9df59f92adef1dab86f1ab6afc747e4947c13aa32a796b3d5b70d43",
+    "71b8af6ba175d36780b36c9571c5b75e6205e19fae0020daa3febddd1b0bfd92",
+    "2154af42f1bf875a8acd8fdc95b898a67e1109bfb4d844417c70109099e130c7",
+    "9d3e7094c026c00a226fa727ffb6d0a8424a149d10e7a03ad9178da297d2d734",
+    "a86fa727c61785d41d01860e775126c8ae4491d686e85c3480e5aa6985b20f75",
+    "15c490ab24b670ebeff268cae79f52b46ab29cfe20a0c8820ef18378fe86ee49",
+    "3c2feaf6d554c8ec42129ab80bb2b8bbf34d344d004d927df45d8739c397f70b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "US TRANSPORTATION DEPT WATCHDOG TO REVIEW FAA’S OVERSIGHT OF BOEING, OTHER AIRPLANE MANUFACTURERS - MEMO",
-      "title_ko": "보잉 및 기타 항공기 제조업체에 대한 FAA의 감독을 검토하는 미 교통부 감시국 - 메모",
-      "url": "https://t.me/marketfeed/1082936",
-      "ts": 1795200782
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "GTCR Said to Weigh Possible $50 Billion Global Payments Buyout",
-      "title_ko": "GTCR은 500억 달러 규모의 글로벌 결제 인수 가능성을 평가한다고 밝혀",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/gtcr-said-to-weigh-possible-50-billion-global-payments-buyout?srnd=phx-latinamerica",
-      "ts": 1795200849
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Anthropic quickly finds itself already inside more than 80 ETFs",
@@ -11504,6 +11490,20 @@
       "title_ko": "가상자산 시장, 최근 1시간 동안 1억 3,600만 달러 규모 숏 포지션 청산",
       "url": "https://t.me/marketfeed/1083228",
       "ts": 1795269727
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Broadcom AI outlook in focus beyond quarterly results, Goldman says",
+      "title_ko": "Goldman은 Broadcom AI 전망이 분기별 결과에 초점을 맞추고 있다고 말합니다",
+      "url": "https://seekingalpha.com/news/4675236-broadcom-ai-outlook-in-focus-beyond-quarterly-results-goldman-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795269760
+    },
+    {
+      "source": "9to5Mac",
+      "title_en": "Apple @ Work: Workbrew 2.0 is an inventory for the development software your employees installed without asking",
+      "title_ko": "애플, 기업용 소프트웨어 관리 툴 'Workbrew 2.0' 출시…직원 임의 설치 앱 추적 지원",
+      "url": "https://9to5mac.com/2026/11/21/apple-work/?extended-comments=1",
+      "ts": 1795269818
     }
   ]
 }
