@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795291764,
+  "updated_at": 1795291912,
   "id_hashes": [
-    "7cfcd14cce13ba0978f92a2b66a5032d7b1af2467e022b37d7c6ee74a9a10170",
-    "7ee1683ef8c54541777b526bb5f0af07d33b942abc7161597c6d278632acdd93",
-    "984d53c0298ae91714bd0601c202d72ee9561b02e4c124460b3ef832fa5b6da3",
-    "72725d266282f2c8f639ce5ec7ac236a22727a0496d4ca416f1cf13bda9a6d26",
-    "0a55fac36d84b9c281adf5a2b1253923ebcfbbec92408a0d8fe321a7f61510e6",
-    "c501c2c0af9ebbd9feab3eb23bff9dda6df1c70e933d9ee551d012c99a2b4cb3",
     "6ea050f21b96acae9bcd1a493bffbc70e3beea9220fa51d3718bb3bb32651fab",
     "67395b0e6d24a611f502e4751f3ca814c5d136acb75f9c838f944bab379a5f85",
     "967ffd004a03e96830e8f3db7aced851a8674e5573d364d863e602992839dc83",
@@ -4000,15 +3994,15 @@
     "b76c17cde7b656e4f6dd81d9e1494079a0ddf00c690005ee3ee8af10626707db",
     "be9f60a1a6d0892b86412abbf36b13a37fc9034a6ed51d028b8b9d6cce1b0c70",
     "68bfade460f38f75fde2c68dca9488df935e64c5ae43ae297adc3cd59caf77ab",
-    "533a8943b5e891f220eff5e0f8db3ec5b896ba0f8c82519c796002c13ee4e636"
+    "533a8943b5e891f220eff5e0f8db3ec5b896ba0f8c82519c796002c13ee4e636",
+    "64d3151e27ea9859d15a0fd207aa5edc0a01f49b862866c6efd8e4c25e3dbcfe",
+    "4a1c592bac0c2a30336ea7a70d679ff4451c7512690462e343f063b9b3571d97",
+    "181ed7910b2ec4da129f142fb1a34803a36e64381cbb9811d270c0df87b28d0e",
+    "e5e7ab905c5cb58c847afeee6563affc726b9d6ca01a7d754a17432d4f038596",
+    "03e3cfa7913978bb48a7516ae1badef84e8cc7f8d1ba48d5acc1e04da85d7f85",
+    "2900723183a1d6d134a62bad3044fbbb63ab3ba05275e5e02b22169787f84cd1"
   ],
   "title_hashes": [
-    "89323fadc15ee4d17ca213d0342ea43f25de13ec45544a87c46a433c2cb7a947",
-    "5e9568db7122a60028003a678ec031e9825dd4a7b1b3bc3ca5922d0d1b3e7f9a",
-    "5b12402ad41bb2fb09bd6b38fb51a6f690ec262bd8f8c6887c326f998f7bc759",
-    "1dbb80e3a05762dbe8e4ef66cffcb2b2f05af6b39afed4636e663aa97264ff2f",
-    "134fcf311b06baa023942b20b9d5f008a58f4ee3dffdf4c67c02be89462b93ef",
-    "686286acb0715d9c759e947c41f71a3ef57d869a2203eb13e5446da854f368e5",
     "0d6f669f037d0a1018e0769bb61dbb4b53fad7abdfac3f2d72ef70110c62d46e",
     "0c43a449c6ddf10d8e8dca08922dd80f31b77fb87d57851b41af7b1a504e76d8",
     "7836c1b9922fc0247c0afed52e2c0af508bd3a8a7a5e27b04e988c5a44921c06",
@@ -8002,16 +7996,15 @@
     "4c9dbf905b5c4eea81bdd8373e0ae956ea2d94c93256fdc20499480cf32fba2c",
     "7eb1b78781f346eda7096e02e32dd5077d3d2d6f49c733984e33543faeb47188",
     "c6753cdc54d248533742c80d45ff6ed9798a4f5fc271a27c8b87580418705488",
-    "5bf5f7eb6d5acc82724fc7198fb1e06f0cd0fd3b3ac9fa7d19e5c9cb3c2c25a5"
+    "5bf5f7eb6d5acc82724fc7198fb1e06f0cd0fd3b3ac9fa7d19e5c9cb3c2c25a5",
+    "7ef1297342a3124a091d0e5e28797af00e4fce2c15ce2ad9ce5192c1622ab496",
+    "a083f48da2e6a8cbbb5e94d8b5d859e4207d7fd51a659dcc1d7923ea469b47cb",
+    "d2b7391ae9d40db47115c763d5a03149539bddefb102cf895be4da286497e890",
+    "88b9a4581f839e6259f6c4d6cbf25142a5689e3806a4b4916379e8328d479465",
+    "98c2356a823d337e7521db9bd7faca2e7a8cd5bb9f351ae95b9e81db00c2233d",
+    "4a2dd4ad94b6576baa7b11f88180035757ea48e14d50f4249d08ece3ab12037b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "BreakingMarketNews",
-      "title_en": "Week Ahead: Economic Indicators 23rd – 27th November (US)",
-      "title_ko": "주간 전망: 경제 지표 11월 23-27일(미국)",
-      "url": "https://t.me/breakingmarketnews/179547",
-      "ts": 1795205381
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Marvell Technology retreats 11% as tech stocks suffer",
@@ -11504,6 +11497,13 @@
       "title_ko": "인텔 코어 i7-14700K 역대 최저가 249.99달러에 할인 판매, DDR5·DDR4 메인보드 지원",
       "url": "https://www.tomshardware.com/pc-components/cpus/act-fast-to-score-intels-core-i7-14700k-for-its-lowest-price-ever-at-usd249-99-raptor-lake-refresh-cpu-is-a-bargain-that-supports-ddr5-and-ddr4-motherboards",
       "ts": 1795291472
+    },
+    {
+      "source": "X ｜ ELON MUSK (TESLA · XAI · SPACEX)",
+      "title_en": "Grok understands",
+      "title_ko": "일론 머스크, X의 AI 모델 'Grok'이 모든 것을 이해하고 있다고 언급",
+      "url": "https://x.com/elonmusk/status/2124219378489311656",
+      "ts": 1795291787
     }
   ]
 }
