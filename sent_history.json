@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795256134,
+  "updated_at": 1795256287,
   "id_hashes": [
-    "19665cca1119b7d1ad4a345eecb7bad7566e1a22a1dbf5027e43f356783d3593",
-    "24b5afa966d1c57fd70e89bab4afab207668f8cb3cc931c4a19b6feb3644e1ac",
-    "28ef37c6f55070548a9efcc2cd39796f47f58f4064a37f50462b9fcc0f4638d0",
-    "d39461a79647b91025cb43888e2d292894e18f913cc56f9db70ae8ed8a3875dd",
     "c3ccb564bee5939c028c118298acac815b978487ff3386681e8031b1c9c62ffb",
     "cb0ed5f1acf8713536fa658d8a134032a3469d279095ed833df5d86a3eebbc8d",
     "120d891d54b2d9677ab981e838bf2a46760c776d96318b005325d0f1cdb994aa",
@@ -4000,12 +3996,13 @@
     "466de9bf83017d7b311d7b709cac33a2f7d189945796aa487ea035c255898e87",
     "d3e06f511aa9424cb1d0126646709c613a1d3db6fd17ff67dc515f66ce33363d",
     "508b583e9d1f5ad0963323553320e3389d76f1f02bc673e19fc9b57d2821ddc8",
-    "6def7d47079c5bbc69d32560840fd223dd82c8451ae89845b899b0d901ac7942"
+    "6def7d47079c5bbc69d32560840fd223dd82c8451ae89845b899b0d901ac7942",
+    "c1322c402a7c4e4c2bbc10b5b75f222212853498039092d28f32f91ddc2f79e9",
+    "387f917ef3e8b14342fce65cc958d0ad39eb36150cef0b993250c4cd87daa9d9",
+    "361ea098bc3b8075e380a7a53cfadd792404ed3762eb5cd8db3fe8c1e7b5fd84",
+    "797b7054714420e2d57c2bdb1333277e8426dd42ed5ae295ceab646524f1205f"
   ],
   "title_hashes": [
-    "f97cfd6257b895f5c0700ac6ad203a5722dbab952c0a5a488e31d8fc9eb49674",
-    "a5b7c20b2f4b17825ca7e3004c6ca63aba81f6dd04553799f826e55927c71464",
-    "da677392727cb27b2ef3887785a4487a5e48f48de29c9761960314426a5739f6",
     "39001c8f40bc735435fafce8abd5a0a20eb076adcdfa74385fc6d865b49b0e7e",
     "6dcc0f6aaef6763a3f5ae06400e2d569275f5498d2a636b84b6631c155685761",
     "a6db3829b0a202f87f38d273c07ce07e73dbdea21de87ff1698528a16f5c0024",
@@ -8002,16 +7999,12 @@
     "3c511a1c865c2f9aa9fa537d210ba2414c1244538e9c6e9800dd64ce9e1f0ec0",
     "dd752fd8fa5db8530c9c187e57a5f65baafae70e53e83a63ea5d6e67ef1d394c",
     "9448384fc9d7b42beefa7d1bbd2399165b03ad3a7b487dcc65e8d82c91f1ecf8",
-    "23bfa44d50978e5da5574e3e40bbbcf35458ab822207d90b898904cd67fd596f"
+    "23bfa44d50978e5da5574e3e40bbbcf35458ab822207d90b898904cd67fd596f",
+    "68040dded4185b2834999800b2d5146f3da6332d454fe3a490ebe9ef3078b29d",
+    "7f3ec4cefd2079ae88cd6e091149c97611e8cb5407b1d2d1cedf86535956c1bd",
+    "b14a76304d97f6f29f7845c314be8b9c1a9f79501722552e63ef296f22f7cdf3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "ARK COINDESK 20 CRYPTO ETF: FILES TO WITHDRAW S-1 REGISTRATION STATEMENT- SEC FILING",
-      "title_ko": "ARK COINDESK 20 CRYPTO ETF: S-1 등록 명세서 철회 파일 - SEC 제출",
-      "url": "https://t.me/WalterBloomberg/38836",
-      "ts": 1795200372
-    },
     {
       "source": "WalterBloomberg",
       "title_en": "TRUMP SAYS OF NVIDIA `I THEY WERE SMART' THEY WOULD TAKE HUANG BACK",
@@ -11504,6 +11497,13 @@
       "title_ko": "이라크 군 당국, 주르프 알사카르 내 모든 보안군 통합 지휘 체계로 전환",
       "url": "https://t.me/firstsquaw/194806",
       "ts": 1795256130
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Middle-Aged Men and Leather Jackets: A Love That Outlasts Jensen Huang",
+      "title_ko": "중장년 남성과 가죽 자켓: 젠슨 황의 인기를 뛰어넘는 유행 지속 전망",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/wherever-jensen-huang-goes-leather-jackets-will-stick-around",
+      "ts": 1795256283
     }
   ]
 }
