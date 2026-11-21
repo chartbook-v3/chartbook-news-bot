@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795297766,
+  "updated_at": 1795297923,
   "id_hashes": [
-    "eb91234c6404036302734d0d7b59958ef691cdc8b0f52f6b5fcf8b76e36478d1",
-    "e44eaf260636f5b7047e28ed9dd84250f1a97a40c5723f166ee5867f8b9746c5",
     "7606711d14730944a35978063f434f3c7da1f06a13c6af707df188cff1f7f10c",
     "2d3cb01674311ad84b26aee4a931ce2beb7f57eed9c4d95b0a97858f1fa7a949",
     "e7ff0cfcda98ae5c7b98277466cd0770571adbca51c878ac2f7ca4b20dbd7671",
@@ -4000,11 +3998,11 @@
     "88b8ac4273602afb4fbac5f4cb996b245b5371e46f61e661ec134859d8ce72af",
     "f6c0e2955ee4939ff5a31f5b55dbe37f0931464eec279bd09ee9bc68719b8f53",
     "60a7b71092c3f24c3b45f563e4c88fae98e43bc58e1176335660bed97258ff5d",
-    "187bab784b95e508abb36010b8ea889a63bdca53071b47ef37f7ef38222d9e38"
+    "187bab784b95e508abb36010b8ea889a63bdca53071b47ef37f7ef38222d9e38",
+    "2307f6c9467f665bb5bc18dc9ec10627065c783d1f7dd438780e888e61a0a674",
+    "9b3a285f738d921a918d45fa13140fe03e8966fabe25e0e179e34c67a074e23c"
   ],
   "title_hashes": [
-    "522abf6b036158060dab97b7494224ee2d6357c9c06ed00e4c5bcc6451863e4e",
-    "24ea6a4cb22adf8afeddc32a586700547f806614b042e28c20b746e90919193d",
     "4c0cc3400e255c7a8f73e7253c5e4e271f4146903531bef28b24cc11f498d5f3",
     "7e2f5c71d7edbbe1715a31636cf6bef1cf9840f2c239691a57bc5945e1cc49fc",
     "91fd1960dfb18d0726e7729b8d32822749d3ca70e63262c852bfad9f9be622a0",
@@ -8002,16 +8000,11 @@
     "e1f1855b6360f6d5b87a29cc2e0e9765964f5f34758322e37b2a054e858bb446",
     "d390ed05543ed5c87f049a151a5d4b4842573f98d3aecab59ed896311e426ab9",
     "83f22c734ddceac36d7188465bb3f124dca3e10367a555a3e647a98dca552a2e",
-    "b4e21e2158628d4c1c2bde3cb86f60c4066ad32069e31abe8fd72fec05a071d7"
+    "b4e21e2158628d4c1c2bde3cb86f60c4066ad32069e31abe8fd72fec05a071d7",
+    "ae3f11845276b23a246cfa7c6d4afb2fdd97775f91663d1725d79b57582de4dd",
+    "e7f64347996335ac51101d2c0dfd768c141d809a9932a3427da666b4e2aefc0f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "SEC Moves to Directly Oversee Database Criticized by Wall Street",
-      "title_ko": "SEC, 월스트리트의 비판을 받은 데이터베이스 직접 감독으로 이동",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/sec-moves-to-directly-oversee-database-criticized-by-wall-street",
-      "ts": 1795206752
-    },
     {
       "source": "Barron's",
       "title_en": "SEC Charges Fake Advisors and Crypto Exchanges With $37 Million Fraud",
@@ -11504,6 +11497,13 @@
       "title_ko": "마이클 델 순자산, 고점 대비 880억 달러 감소…델 실적 발표가 반전 계기 될까",
       "url": "https://www.benzinga.com/news/26/11/63516342/michael-dells-net-worth-falls-88-billion-from-peak-can-dell-earnings-turn-the-tide",
       "ts": 1795297462
+    },
+    {
+      "source": "한국신용신문",
+      "title_en": "美 FTC, 한화디펜스·시스템 기업결합 승인…필리조선소 재편",
+      "title_ko": "美 FTC, 한화디펜스·시스템 기업결합 승인…필리조선소 재편",
+      "url": "https://www.creditnews.kr/news/articleView.html?idxno=32789",
+      "ts": 1795297922
     }
   ]
 }
