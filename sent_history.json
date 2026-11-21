@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795277429,
+  "updated_at": 1795277579,
   "id_hashes": [
-    "b3b3ebf94b1985d0417c3be8a1ad0a31c5b3f4fa74d712138211fbba2f2158eb",
-    "7d82cb14b140f5a0e324c3e3692f6a8351c68df179e636bb0ff5072c00366b32",
-    "fc81df9664cd512ab9fe04339e68d272a30ecda4408a3f392dd5795b76fb48c8",
-    "9a1b19065f96ec529f56b2e03a88ef8d05e99b578098858e42b1a076c14449d9",
     "7d8a8e2333867117ec9cac750c92b67ebde7a34f00920273b44bb22d8f9cf8ac",
     "79010dc679d7731ca0743810a7218298b106d78234932d3d33314cef3a9efade",
     "20761174ae92bb39d55cf8db518ae3a215906a225c3eb134d3b39a51d103b744",
@@ -4000,13 +3996,13 @@
     "b1c2e6ac5495917a68044be0523634510cc86143c836fdd70751eb1c31abf1ad",
     "405e4ae0d995e07db07c3ff37b5b6331e7bfdaa49bcd4ccd3ce5ee4d95fb74db",
     "d92d082719d3712270ec559bf00bd660c30214bd91a922f33c73c4c2e8fde6d5",
-    "eb281f6a4e95a956ecfa383c156d41519580dd2b61c197f3fa4b7cd4479e83aa"
+    "eb281f6a4e95a956ecfa383c156d41519580dd2b61c197f3fa4b7cd4479e83aa",
+    "c7d42df76e9abd824d5be3ef398de1a128730d95eaea659ca96d70a54e740347",
+    "5935f240d8aec216edd915568c54af63e794f0c7003e1078e4d2e7a0354e4cc1",
+    "42f9ca02ee0e0ce577c6b2ddf884e8c61071084e42663d3e507b4e5f25f7bcf6",
+    "251a8d242f61aef2656f8c3e4aa9be2b9facdf993119cf004face267379ad9a8"
   ],
   "title_hashes": [
-    "90f0f48cdbf702f4e9da000c4e8a474542eee8d0b28bf6b8883b213ae760ca0b",
-    "5b5d64e66d51a54189f4f883fbcea48a19ddbe2ae96e5b8751919ceaacd57785",
-    "b35419f08108acdab91b1ff63852fc7066816ec2515025e68b4759cd2e4736b2",
-    "9c03c94085f2962d7f257e451a7b93079582db39838e329cca66b95ac04893ed",
     "cb4a7606b8a7f7392019d3bda15ec3682020bff053dc95a33ae1fd5482796ad2",
     "57f280d1ab8ea9fbd0a0f18959d314e332dec132069d60d7700dbf4b2597da0b",
     "39e95db176d054764e1a80bffba6d7ea5885a8cae776b5c2c3bb80dda90bd85f",
@@ -8002,16 +7998,13 @@
     "e124dc77ad30f3ba803c1e499ccc522ad0b48aecbe28fd0abd88b91d8a6f4a31",
     "330b075d7f2c99ee699a351a076c6def53eaedbf9a6646db25b7e5bb7e402c13",
     "8d14d5ded1fa38aa9ba961da28017e26590c66507cadb024561d06eed00e0870",
-    "267c65f25b071c9c3954ef360d6eb6849c8bc247f550bc9dc78f65bed402162f"
+    "267c65f25b071c9c3954ef360d6eb6849c8bc247f550bc9dc78f65bed402162f",
+    "d8032ef18432680de6a80df41dee4cdd2b7a59cab7421440e5e5f63a5f51ca1f",
+    "301e365a0ce6141c5d9f73bccd98235a618e81fb7517290f7d68b554b8079e25",
+    "672516638f3a2a6a2fd4c2992a00da5dafbd5df189cf47d0183ebfaab26bdb27",
+    "1fb84a595f03e929fcc19b8dc91ed8c1c1d1b6d708a99ce25b11e2d049516904"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Trump Backs Lutnick After Senator’s Criticism of Chip Smuggling",
-      "title_ko": "트럼프, 반도체 밀수 비판한 상원의원 제치고 러트닉 지지 표명",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/trump-backs-lutnick-after-senator-s-criticism-of-chip-smuggling",
-      "ts": 1795203155
-    },
     {
       "source": "FirstSquawk",
       "title_en": "US Oil Prices Finish Higher, Adding 77 Cents to Settle at $83.98",
@@ -11504,6 +11497,13 @@
       "title_ko": "칼시 'GTA 전문가', 35,000대 1 경쟁률 뚫고 드림잡 취업 성공",
       "url": "https://www.bloomberg.com/news/articles/2026-11-21/kalshi-s-gta-guru-beats-35-000-applicants-to-land-dream-job",
       "ts": 1795277428
+    },
+    {
+      "source": "The Information",
+      "title_en": "Oracle Says It Has Completed Funding to Fulfil OpenAI Deal",
+      "title_ko": "오라클, 오픈AI 계약 이행 위한 자금 조달 완료",
+      "url": "https://www.theinformation.com/briefings/oracle-says-completed-funding-fulfil-openai-deal",
+      "ts": 1795277578
     }
   ]
 }
