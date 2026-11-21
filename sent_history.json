@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795275185,
+  "updated_at": 1795275339,
   "id_hashes": [
-    "54e80013d987570b9176eaefa404302083f2c9842a1c36d2aa5c455dfbd3e645",
-    "91864303b65f68162e6db261a400315e3edac03096015391f65e45c382d6b2ef",
-    "fdb539d6619ed46030732159e943dcff03c74fc3000dd6574e5f2299112deb63",
     "aac2e9c0ea3f327c16ea44b038a1a4f7e11ca692c3635d39d3d246b25875cdcc",
     "abe6792a79637b2cbd8431948a5c58aa1c4312397de46768156883cd87df8085",
     "71dcae807842c9c494077d610f81bf70463eba06c6ba34f79b1bf417a7f8e414",
@@ -4000,12 +3997,12 @@
     "5da9faa8b570a0ced03bbec5ca99b76869df6ceb7c6f4121c01e9674be0fc3ac",
     "2db82c98f730b40973916af3c7a2083de001765ce4256d1f7a9ca40b17d1ece7",
     "82157f2503aa8130d070042d755b402c7aacb5f880a8a50ef31d2fb66896c68b",
-    "0dfc7d3e0b85476e9cd6c48f8ed492dd0f36723e5a429fa9186afc88a4b9d3bc"
+    "0dfc7d3e0b85476e9cd6c48f8ed492dd0f36723e5a429fa9186afc88a4b9d3bc",
+    "170962d9e15368ff72742288cd68fb01383e8e0ef152ed2a6ab9d4087fb463e2",
+    "bc4634dd05a1d457b308a92f6692b543def58fecbbfa99df4c23ff535a96ca8c",
+    "13dc19bd1929848edb7beb7a5a6775e6d793443cca2dd2c2af0ffcba76445a9f"
   ],
   "title_hashes": [
-    "59506af48301985947fd2457406f3536b72f4b12406f314ba31df7a7e616c1dd",
-    "9df0c79437742a0c50bbc44a58d3f7d0d88da39ffed30370250ac706d3bdffde",
-    "b6aca2c978ece827ad09412acd5d22592efa5b8e4b0d08d230997b996fcc993a",
     "bd9508d2e24319af18a94ee2075b0ac24068d5dc66f39e4f8bc5910882efee03",
     "13666a682f6bd92ef6fe1a23fd58ba6c07d18662155710b30a4281be728a1524",
     "ccd1b109253551db5954c3e6d5af3c933c33e44014aaf14051adc4393153193b",
@@ -8002,23 +7999,12 @@
     "c490e33e22dbc3bb061e6ba2f1d2c0c48ddae6cf1123d52a1ba874e456cc3399",
     "295ba94e6d4b4db2af07bdac7f59cea80c2d329dc05c7fc3b2271c3271b5bcd1",
     "dc4e67ce1afff409848049c463cb51176548e0d2097787b9d07fdadfc2eaf59f",
-    "71fbd517ce4c6e768bf543e4258370faddd91cd2bf16c9a3185931577cdca901"
+    "71fbd517ce4c6e768bf543e4258370faddd91cd2bf16c9a3185931577cdca901",
+    "562c53d230f2d2b8087a6b10526a3c9383dca69cfc32a308f8ea1be8a5347cf7",
+    "2869977df36445c739e37b55520950733695d8e99c2387829e6e63c10ec1fd42",
+    "6dc422ca21b5782e7259b45e6217e0764a220f48e3af686a6b6037657258d3b9"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "英伟达跌幅扩大至10%，路透报道称，英伟达的会计处理已成为美国SEC调查的重点。",
-      "title_ko": "엔비디아의 하락세는 10%까지 확대됐고, 로이터는 엔비디아의 회계처리가 미국 SEC 조사의 초점이 됐다고 보도",
-      "url": "https://wallstreetcn.com/livenews/3203547",
-      "ts": 1795202672
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Tesla opens first Argentina store, deepening Latin America push",
-      "title_ko": "Tesla는 첫 번째 아르헨티나 매장을 오픈하여 라틴 아메리카 진출을 심화",
-      "url": "https://www.streetinsider.com/Reuters/Tesla+opens+first+Argentina+store%2C+deepening+Latin+America+push/27381074.html",
-      "ts": 1795202733
-    },
     {
       "source": "FirstSquawk",
       "title_en": "US Stock Market Weakness Continues as the Dow Jones Drops 1.00%",
@@ -11504,6 +11490,20 @@
       "title_ko": "젤렌스키, 차기 주미 우크라이나 대사 후보군 지명",
       "url": "https://www.bloomberg.com/news/articles/2026-11-21/ukraine-s-zelenskyy-teases-short-list-for-new-us-ambassador",
       "ts": 1795275183
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "Rapidus reportedly struggles to produce working SRAM on its 2nm node, putting 2027 mass production at risk — company faces significant challenges using EUV to develop GAA transistors",
+      "title_ko": "일본 라피더스, 2nm 공정 SRAM 생산 난항…2027년 양산 차질 우려",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/rapidus-reportedly-struggles-to-produce-working-sram-on-its-2nm-node-putting-2027-mass-production-at-risk-company-faces-significant-challenges-using-euv-to-develop-gaa-transistors",
+      "ts": 1795275212
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "CHAINFLIP’S FLIP DROPS 34% AFTER ATTACKER DRAINS $4.86 MILLION FROM VAULT WITH SUSPECTED KEY COMPROMISE",
+      "title_ko": "체인플립(FLIP), 키 탈취 의심으로 볼트에서 486만 달러 유출되며 34% 급락",
+      "url": "https://t.me/marketfeed/1083256",
+      "ts": 1795275276
     }
   ]
 }
