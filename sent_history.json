@@ -1,7 +1,6 @@
 {
-  "updated_at": 1795355199,
+  "updated_at": 1795355360,
   "id_hashes": [
-    "a7c9a40591688ed6fb36ca6d0ac514f61fafff4af1bb050f370dff94b915eddc",
     "0e5d7f0be41fc5e2f795d5565d74d33e5d736cbc5525b4e56b769cae5486b60d",
     "ccc93873bb9f1273c7f9757b340a7e6665551f63a44424647712887b56410880",
     "fbe22ec20d8e23ea16ee86d513c1d8136ef0bf73c51068f58ec308a956bfddb0",
@@ -4000,10 +3999,10 @@
     "a33dbcb303777d5a9f65cf7bd5fd202b87960ec7471dbd61f1ac90f53f985b43",
     "b8c2f099c13cab8267b7ba063f31510536781e61eccdddf6c3e12238c032a879",
     "8333704aca4d915599427b2b3adb9020479ced5e1e2da67f27b142c14c02ab74",
-    "de043de969ad92978e1b82bf2eba7c3c5a7765a73226f7bd4cb7ecb639814e4b"
+    "de043de969ad92978e1b82bf2eba7c3c5a7765a73226f7bd4cb7ecb639814e4b",
+    "51306b13d359a853925e6382afb2932427974ea9c0eac18b3a0bb762105d26e8"
   ],
   "title_hashes": [
-    "b8395364ce723733696f12987047da70c8d79fe463ed74d6c07afbfa17e9489a",
     "ba5af07b6a6795a821f9ca3e220a53d9db472f32654a0d8e59a5df60050bc3a5",
     "3f6e90189e830b04dd62ba6b0daca632f5510f7fdb0d5df7ecc7b054c3a826fd",
     "1d7196daaa23be72aca1f6e414d65a5e4509cceb7ae42e4c25577737a230a1b4",
@@ -8002,16 +8001,10 @@
     "c9044cb995117d144902e33ce0f2811c1de134ee6853de9b28a37a37c992c5e3",
     "e8bba8081aaf13b9e6d924a981e43b85d9cfb86911ed4a5d9cdd7f50fafd5c64",
     "5dd25fd4e361317c6be01296cc0de37610b6d6e3254a14717456179011104491",
-    "65691e421a9727018c74127316048262256016137b129caf08b847b772f42fd6"
+    "65691e421a9727018c74127316048262256016137b129caf08b847b772f42fd6",
+    "0696379435889ef8488261e30002cbbce332f280d3530dced35592c85270e7ba"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합뉴스",
-      "title_en": "GTA 6, 출시 첫날 매출 5조원…3천250만장 팔려",
-      "title_ko": "GTA 6, 출시 첫날 매출 5조원…3천250만장 팔려",
-      "url": "https://www.yna.co.kr/view/AKR20261121036200017",
-      "ts": 1795240260
-    },
     {
       "source": "FirstSquawk",
       "title_en": "US life insurance mortgage performance shows stability, with residential lending expanding, Fitch reports",
@@ -11504,6 +11497,13 @@
       "title_ko": "태국, 미얀마 희토류 채굴용 화학물질 수출 차단 계획",
       "url": "https://www.streetinsider.com/Reuters/Thailand+plans+to+block+exports+of+chemicals+used+in+Myanmar+rare+earth+mining/27383029.html",
       "ts": 1795355076
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "美国总统特朗普：如果Chuck Schumer（舒默）出任参议院多数党领导人，我们将很难合作。",
+      "title_ko": "트럼프 \"척 슈머 상원 다수당 원내대표 되면 협력 어려울 것\"",
+      "url": "https://wallstreetcn.com/livenews/3203762",
+      "ts": 1795355359
     }
   ]
 }
