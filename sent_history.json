@@ -1,28 +1,6 @@
 {
-  "updated_at": 1795391200,
+  "updated_at": 1795391362,
   "id_hashes": [
-    "5d89c7a08227f86e2919a0c37ecabc5c831079796477285c2787aed08b6a69ae",
-    "ee90aecd139f20f09b02c48b425fb5177fb7cb8ae0300b4448804f6762ab82e1",
-    "f74b117df3c490708a5f9a2390a8a2bbdadf78a15b2aa4d168173c7310ad6e85",
-    "570e13035c52448be8f5e8d1dc145dd32cda3d2e4f0f87c1fa208b54ed09c57b",
-    "8690e9005d0ada9ef8529c4060c396ef4ad9b24f61c7db8aafed0c5e51ea82d4",
-    "f172289743725e31b170cd314e8f0d8b866a3dd16f39662246d280ef6b6aefa2",
-    "78b98fe27105867543fe622822d83bf94e7f09e83ae192aa73ce3926b5643799",
-    "3c2c26f7511d768785e3e3c5174144df7a9e857d005cf094141698ec153055a2",
-    "8d52c8dd6c2455c3a02f389cfb5b2da092bdb9b4d9e262340028ea237addc607",
-    "b4bd20e21b64bccbd091d08b41cef57489a1979fe40854e4444bbae1a50a820b",
-    "824a63b8e1730d5921295487498274ee68700a2bdbef709039ebe0c10870dcb6",
-    "6b0f2f0a52936f9e117ab654c3f15421e8fb6e0326094b2331f8e859953af50f",
-    "260e4fc912f9731273c4d34765c0cf6b761d9f21f0f23fa887dd9d53a8fbba4b",
-    "d508eb2240d279bb9f972da52cc1ccc495f8a742ba95997addcfa183470425b5",
-    "1e08189110dbc886083d0733d768ab71bb4bedc8a3a97a5d334089618d86ac0b",
-    "3f6b6a3d4bc6318e91ef05edacd67bfb5b5332ffc88dddd64055c5f1f5f69cdd",
-    "37c987ee90b9d070fb5de4841e33fba968e25c260bfc537b6396d74af4537ea2",
-    "d8ad27cbc5ecc423321375088baf952acab188968ba45f23310f02196f44a625",
-    "c94c8bdef0fa63c9c399a496a888227667c981b9c7717a58746eabcc6df9d796",
-    "ae1ff6a6c29285907f86dd2d51819905e7e862fb81bdb0918d2255cdc20e0c7a",
-    "ad6ccb9d8df571abe92b846bf51625158cbc85e0e51c9092b8882436d17b4822",
-    "ebfa0194d5b32b9835f8b7693558926d0c18203e44cd4adc755fb93f300a1165",
     "166f1fd8c5542e6a308d7667f4cc9423caa0b6385b42b78c1158e9c245bc6827",
     "11fde67188df710380634ccf7bb5fc28556df2bebb7ea77484ebc5b2bf977e81",
     "c6b1df2f08dcd68f9ee2df0563961561d44aad30bbf0f5a516f50f7f6a27af16",
@@ -4000,28 +3978,31 @@
     "a4c18b4ac6f8448540d706db8361c50692a50a60ebef5f93778c193db8c120d4",
     "2e440c3c81fbb4dca4aabc0bc270a8ec9edb2d598696503ef5a92dc31f2eb144",
     "2747cd45b3eb26aed60e542ece340eeb40555868302279fd1b44c977a41f3306",
-    "059c0ee079a3d1dd60babeed34142dcd68131583bee2f15ea4c0c3bf11cbfd3f"
+    "059c0ee079a3d1dd60babeed34142dcd68131583bee2f15ea4c0c3bf11cbfd3f",
+    "66800eba245a6fa9d91f2a8626b11d38df44626dc17bde0044d3e1c6e9759810",
+    "06f45b3460d4cca7a6be60f790a5b9d0bdb2f415ad641fd334f25e30f6495e86",
+    "1676c1c3a6b775ba896ccd0012178d44340a2ff96a5747b85b36e3fff1911c98",
+    "bca85b468bc0bcd01899924276e5051b47d83a87dff5a4af5be18591bfe39215",
+    "f45ec8210280caf84d75d536885a9e106c4523b17bf791b281e068f451bacf19",
+    "ae8f68e5c09e9f16a308d8a6fd0dfb0a15fe8c3baebeb1af51c332926793241f",
+    "2316a6f6ed53e14d14f48c808506217f5b7d97cd2606eaac00a6e00ef725f937",
+    "18b31629a616405dad2d4bb5af0972e51c3bdbca1016386b00021cca30c86d59",
+    "07cc8faa45851cd72a5c3226c6c7cfdacfa036befe17271adce957c2ad135023",
+    "69b28918b07c488bafec39fbce08f51cec94d143a9666dfce421ab032ad77f53",
+    "4a9ecbbeb336ae8c79f70413221082798c9887f541f358267333f32d895ea77f",
+    "c0337d57af99cf73d67eebe2df22658ea6b29c02e1e0a0bfe91871f0c5f40bba",
+    "0579e276591cab27aaa63c9c480b0a632695e45422aadb7743eba1c09f979336",
+    "6d1103b9163cb117185c2e1668f58398789273992823559218b3717a07cb18de",
+    "6f9857163a4a1824e71bdf2aa879e0804ddb4188f5f22e5e031446e4f986083a",
+    "f3384391bfe8b2c4b0741b659c660edf91e86e1c6204d9e86b4703db2fc5e356",
+    "fe83c6ccc30076bda731207d23ee08a92395e513e0dbfde57a13e2df26dc72ed",
+    "54837dabe4ff8769028fead509fea46ab787728dce0f3f68f1201521cb463e6c",
+    "d0cd3fc4e1acab55ca592d922d11154fd0da27ec4b3a3e40406f4adb3c423a65",
+    "f7e7c1434563ce8492426de6f2413fdd3befb47e65617853c1d41b22adef809e",
+    "f9073e6d01e3b15fb1d28e73870ca3e75bece443207955a7db712d203108b7b1",
+    "3353fd2c4470b8ae5adeb854b55627caa76414bc76ff4e82f517e7163e4d6024"
   ],
   "title_hashes": [
-    "7f2316736edd85240b15b3365ca914384bf0fb04ecf7895db555af3f327ac77a",
-    "f868e832003e2c814fa8d49d6cf8857250b631700239f88b5c25525f4f56bd36",
-    "d177704f7a5f3cdf7730909e50ff8870cc57a5480f24baa29c0992674d64b6e0",
-    "78a3aa897137311a8acd3840452787b72ebdc6182efaab970f4cd60638f838fc",
-    "e96dcc118cff21729ee8492b9fcb2f70ea7c1d9ed1159f67963fb961a7d7186c",
-    "236db2ee8982ddc119a725dc0320afb9f3115ae65e238cb8699b6db1455ae4c4",
-    "de259065ea811d55395df4ea1c4817f7a913f838250a3cef84d03690ddbb1593",
-    "fb2ec3dcd1809ec6f3ba9aa6dcef548b1162ca1ae7d713b309bf0b86ad37e031",
-    "62cbed2d2a9750cc8d5045baf5da69fc5a9406974294c55b54b1775015203917",
-    "19afc7bd43bf9767cd8401ca179fc6ac628f1e18b06ae740628481e2a6498b52",
-    "e57213acf513f236cca96f43a2609db49f7cdf52f083ac3d9af47d205268e804",
-    "dadf5d848ddf692a3103073e73237bc38fd3eba20e3a30697617867cf8ac6281",
-    "44d2a8d99f3b3f75276c1240e990f317f78a916bb002a4def146a7588401648a",
-    "076bca8321cbd6cb7ee76a2939949b1f7a686dffb1fcc47a8384d106ff9abfc5",
-    "04076efe19a31b20b98de2d9df99ee1a87464f39567b63f0bc7b3191f8a012e0",
-    "70540b78b0de6c0952ed7efec574bb572230423da40f22be207181912dca514c",
-    "85dfdde6110154d999e9c73998e0ed24d138ab05a16ad44e7f581fa4e4a5614b",
-    "e8cf61705b9786a84dd35c885c1f0e3643df2d590e26b3f3c02cc06054c9bca6",
-    "818a8d510fb95329a36ae4512e4682822e460c4ada558cd28f5f3672e98c9d50",
     "587356139629920688733f4d8f9dd45163a52c39b1dc30f917d213ec1c9ec9f9",
     "f9d9c69ccc6fa9d4748b6eb60e9752a5bbc94c68d22fbac56cba4e37f14dd4da",
     "6eb12e7125608f1dbce44931da17c6ea3879df5baa32b4eca0f133fd9504c488",
@@ -8002,44 +7983,28 @@
     "80c29a1bda3fb5e54c60eea83213167e4caef613b683aed3f18508f99e4401af",
     "9b5851d3c54e99e0d56f61ed2274ac689b44ef489fc508ac50564022e8cd9faa",
     "57dbc60cfff43d4d0ab1f9ad51f672a89e107355bbd56606ce3e0b31dd9af9eb",
-    "944da75eb63120f1868de6867621d2b346e63ae66d122be79110ca0a2ba3a74c"
+    "944da75eb63120f1868de6867621d2b346e63ae66d122be79110ca0a2ba3a74c",
+    "c9d62f83721e8cfea112cef113c2ee0b3799e60bf834dc6b2a50d1e0f1159ab7",
+    "d71a4edceca3f0edb12b8b46cb95d05c90b33b343f0649f49d03ed30a4dd921f",
+    "882a6ca182447d294c0013ecd2b53527479fd2e20f88f637c256abb2b6b7e762",
+    "c636438d2af7c1c436a45ace6410349d594f4876f67be46f4d5c88f9c51a2ff8",
+    "dcc8a3c9761be8147cd4d540d2a4f132832a88a3697db8b8c13b05b63f1ef8b5",
+    "fc4669ecf9aa2497c14712f226e63f94e0ea4922599b6984761eb673363d0aee",
+    "5c9614374a1d95e93b9cadf51e4eb267ebb3a8ec1daa7be8c21f5e5494956d0c",
+    "303c8ca1d9931561b328304f64f0add09200ea13a36fdf1f3f2c4250daebb4f0",
+    "107336b0ba353ae29371d2ed543fb484e7f233f943e8ef4ffe76b236d3fc78e8",
+    "0759bfd786bd7e7a616dc2ef112fcf3a76561c7f5bfaf016fcd20af8e3c6169d",
+    "66f77977d308513fc0fa7a829d3dc3db96855a94e21b1852f9a8eec2543303ab",
+    "67c43dbcef38e4787a20010ca97f946fb31802d09f7e6a1e682b0f3b16da5a6c",
+    "7136f0d335111f2340f0b776b992472740404a8e8c3d9f20eebac1a41dd4a287",
+    "90d2347e1dcc89cdf25fd76fe297394d5974bfe07f506de409304058df302867",
+    "106d646a7f431ee6226492458b1fe335a248d13960268ab059f358f9b7868030",
+    "c17e4843cc832d2be372a5fea3e62705feea2120c9b074e837862abc04a32ab8",
+    "938de4ce6cad4e3f937ce6411ae18365aecb378c3b6811e6ca2e875f0fede6b5",
+    "4de846bb2dcbfa433853111f49a952f79872cc1790a1725f15f495c9093f5a7b",
+    "ccc86edf4e0c655e803d84881ada1db193a4dc13e07ef4a078e64fa83824c1cd"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WSJ",
-      "title_en": "US Ports Avoid Potential Strike After Tentative Deal Is Reached",
-      "title_ko": "미 항만 노조-사측 잠정 합의 도출, 파업 위기 모면",
-      "url": "https://t.me/firstsquaw/194838",
-      "ts": 1795269208
-    },
-    {
-      "source": "전자신문",
-      "title_en": "한국산업기술기획평가원과 전자신문이 주최한 2026 글로벌 소재부품장비 테크페어가 '대체불가한 소부장 생태계 조성을 위한 개발전략'을 주제로 20일 서울 강남구 섬유센터빌딩에서 열렸다. 장제트 ST마이크로일렉트로닉스 매니저가 'Powering the Future with GaN",
-      "title_ko": "한국산업기술기획평가원과 전자신문이 주최한 2026 글로벌 소재부품장비 테크페어가 '대체불가한 소부장 생태계 조성을 위한 개발전략'을 주제로 20일 서울 강남구 섬유센터빌딩에서 열렸다. 장제트 ST마이크로일렉트로닉스 매니저가 'Powering the Future with GaN",
-      "url": "https://www.etnews.com/tools/image_popup.html?v=bjQ5VkNYY2dLZTZMZFBUbmNzandvWmpGcjBTK1pHYm1CUVRXR0pTMldlYVZkdE5JeGJVUFVVNURJN04rbmhKTXR3bThUNHFiVkdUUTR0WjBHSmFBalMrQlZGU2FiOW5jcWhGcmdEV3BlVnQvNlFFR3JuUFVpdU93bHlmVk1MSXR6YnM5cU5sY01zV3pEZjNIakhmTDBGazFLY2I1WUczNTNBTmdJY0liUXdabjZiczg1Q1JGUXZEeUppR1JUenlkM2MzUDlVcy9XMkZnNWhEMDU5SjRYM2Rabm5uRkVidmF1SThnNlNpU1VTUy9ZUjlvc2xzL2pNRXFUenFvUnRrTkVjS1plWG9TT1l3cWg4TTBqY3FCMzBQYUJyODQ5UEFzOEpsNWJYREVzUFZhMm1ESHhLZnNUZGYySkI0eE1HdWhYVDJteDRJaGxKRGRpRmdmci9DYVFxU0Jpb2RrQVFjSFBORmNzbm1pa3RmaDcxK3N4YzV6K2pmbVlNN2ExOGgvVUdFZGcxRGJlZW5ZTDA4SkQxdG40UVpQK09Ha3J2WDZxRzRJeGJRT29kY2NTY2d6VHZ4b0V6TTNrVzRETjJNT1dEOW9abWdVbTQ0NUZ2aWlBRjRORnFrVjZUQkw3OEFGL3RJUGhEaEw4U2t3QWcxdkdQVUJuS3VTeGdLM3luWWZoUTFrbmlkTUFPZXUxbHpybXo1WFVRWU5idlBaU1hobitpVUNYRnNURWcvdVE5SU5iSERrdFdKWVJSUFZscCthUUdEbkxGMkd1c1loMEJGeU9TT0tsSVF0dlJxbVMzZlhCaWlrbXVtdnltK2JKS1VqMEU1ZXd3dFVFdlQ2M1ZXL091OURFUXU0VFROTW44U0FYdTl5ODZMbVc1Wi9ITXVVL0wyM0k0Z1J1Y1ZZVGcyM1JEZXBPVlZ4b0psWTg4aUlFalE3d21kYmZGOTQzajVHdzNCV2hkNHppTE5uemNlVGtrL3ovMENLK2ZvMC9lVm5zQWJwR1ZWNHNnZ2hUNmJUSzBpTmhhakhBS2h1QVprMkdFVVRIcWRvK1BVYW5MdFJuc2ZpY3EwVjU3S01ZclJoMVB6c253c3JiQ3Y2Qm5lblh0ek94WCthTWd1eGF4MmJMZDF3ejJxcEVyalova1l6c3FzZFdySWFUb3dkSVc1Ly9KT0VkcndKRDNKeTVEYytVY0tWT3pNVjl4aWE3WmdEaXVJSEx3NnZHK3YvOU9YZDVSQnN2Ujg1Z3p6YlRHUmxHUDcvVlppQjdnOWI1dktLRWJRaWZlY1ZkcWhodHVZS0xnMFVxMVVsN1h0NnFvYndHMmZLUnJmUFJKaVo3SzhFTzVYQXZoT3dOaDI2UXdRTHltRVVzUk5rYVlYQjVSWkl5M1h6azZCWHZCMytHVzdxd2ZlbUE0WFVlWW5VNUZmaUdMaUxBdjVqT3F4Zmw0SnE3Z0RSTnRMQ2xLOU9HYVhESEpNZk1hQURGZXhqRDJqZlF1V2p0NUxTSkIrbWlkMlhqRFdlUlpKSmNYNzE1KzNOV0RXVTlWNzVNOEpTM1VMT3FQNnFRN3dNR3gvM2FGaFZmN1FFWDEzOFhSbW5xVWxrTWxHb3ZoYmNMSm5oZ3doRUpjYzBlbExLdU1JZ3dlbUVsK211a0JOY1hHTlVkNXRBQ0VJMG5mTm55dHFVTjFibGl5WHp3MWpzRWtKTTNISVVlcFhBa2h5SEs0VWRPOEd5WWYra1lBPT0",
-      "ts": 1795269436
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Finnish Ministry of Defence: Suspected violation of our airspace by a Russian helicopter",
-      "title_ko": "핀란드 국방부 \"러시아 헬리콥터, 자국 영공 침범 의심\"",
-      "url": "https://t.me/firstsquaw/194839",
-      "ts": 1795269503
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Governor of Russia’s Leningrad Region: A Russian rescue vessel is reaching the targeted cargo ship in international waters in the Gulf of Finland",
-      "title_ko": "러시아 레닌그라드 주지사 \"핀란드만 공해상 화물선, 러시아 구조선 접근 중\"",
-      "url": "https://t.me/firstsquaw/194841",
-      "ts": 1795269568
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Governor of Russia’s Leningrad region: The situation aboard the targeted ship is under control, and efforts are underway to resume its voyage to Kaliningrad.",
-      "title_ko": "러시아 레닌그라드 주지사 \"피격 선박 상황 통제 중, 칼리닌그라드 운항 재개 작업 착수\"",
-      "url": "https://t.me/firstsquaw/194842",
-      "ts": 1795269573
-    },
     {
       "source": "Bloomberg",
       "title_en": "Trump’s Putin Outreach Tests Ukraine Talks",
@@ -11504,6 +11469,41 @@
       "title_ko": "\"애플, 내년 초 신제품 쏟아낸다…아이폰18·맥북 네오2 출격\"",
       "url": "https://zdnet.co.kr/view/?no=20261123080815",
       "ts": 1795391199
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Ant Group Bets on Simplexity to Thrive in China’s Humanoid Race",
+      "title_ko": "앤트그룹, 중국 휴머노이드 로봇 시장 공략 본격화",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/ant-group-bets-on-simplexity-to-thrive-in-china-s-humanoid-race",
+      "ts": 1795391289
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "오리온, 글로벌 수요 힘입어 전 지역 증설…목표가 16만원",
+      "title_ko": "오리온, 글로벌 수요 힘입어 전 지역 증설…목표가 16만원",
+      "url": "https://www.fnnews.com/news/202611230837509904",
+      "ts": 1795391291
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "고점서 46% 급락한 코스피…\"최악 땐 4200선까지\"",
+      "title_ko": "고점서 46% 급락한 코스피…\"최악 땐 4200선까지\"",
+      "url": "https://www.fnnews.com/news/202611230837598911",
+      "ts": 1795391293
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "BBQ '서울닭방', 평일 매출 주말보다 40% 높아…여의도 직장인 공략",
+      "title_ko": "BBQ '서울닭방', 평일 매출 주말보다 40% 높아…여의도 직장인 공략",
+      "url": "https://www.news1.kr/industry/distribution/6362308",
+      "ts": 1795391354
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "OIL PRICES HOLD STEADY AS MIDDLE EAST TENSIONS COMPETE WITH AMPLE SUPPLY",
+      "title_ko": "국제 유가, 중동 긴장 고조와 공급 과잉 우려 속 보합세 유지",
+      "url": "https://t.me/firstsquaw/195046",
+      "ts": 1795391360
     }
   ]
 }
