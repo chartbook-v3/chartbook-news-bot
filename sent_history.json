@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795358848,
+  "updated_at": 1795358999,
   "id_hashes": [
-    "36e50542b0cc598f4a9eb396cf99b05ad56bec8bd41408839638bca166227047",
-    "ba6e87d7e03175f380081e3c58592227416139b20ce6e08d5a9d68e9bedc2133",
     "4487542c02edd231a9d920c47805e075b542254d3ad91f836d5a87342e1d957f",
     "7825e7fede605c2272a5c21e0b81cb004ff18255ca71b84bad866315b7c7ae79",
     "710dc064a8c1528e6eb363d3f07fa97b90f753b9bdb8d146e12af14df74f5aa7",
@@ -4000,12 +3998,11 @@
     "48eb9796df03cec2c5fa9888378612d02491710426b7f9105ec9da74cf548ce9",
     "89b6e82ec30e8d8e2086a9202ed4a5b7418cf6b20776c2fc72cef79d9a8fb1d6",
     "3cb8015e07e786aba0c2ed18fed083bb0b3b4332489557b0b2a151b0a3c39713",
-    "cb2655f320569d0135aec0c5d16f5305a0bc423d22e263b6692e303921f1bf96"
+    "cb2655f320569d0135aec0c5d16f5305a0bc423d22e263b6692e303921f1bf96",
+    "262e3847d58609ddb246f4a4f7d7c65a56f939f3ec23426cab32a64f030f9564",
+    "64881045c2cc8c6a07116f95b15a961fa43ac7354c5eea5b7bf612c2891ebc7a"
   ],
   "title_hashes": [
-    "9506b211d58fefae9dce5210d6c05d85cd8b00ba8c95927eeeae738833ed2571",
-    "ec0c83078a3d0964da8280200d9a07acdd7709529e4afcc6c37195d85619e13d",
-    "0a409b55f1e48e8cdb938bd9460f5f0a5da22b0a2e0a7ea35ce81f3a28ab92e3",
     "fdebe4657b8ba451280d191ff15a0415d3c9436f855242efee09a2693dc7e5d8",
     "38c67f60e54e5d5b06c811ca80368e7f5ad875e46fc66c95f451ac07c5581b18",
     "17c44c6d741040bed6270e0600f9b60234f111549353c80daf2e127cfad7066f",
@@ -8002,16 +7999,12 @@
     "f960568397f7ac04c97674b55bb8a5511e9a20593363dd97e2d5418254d6ba90",
     "e6db6f90c3328a0310b71078708290628c88396edcfa942abc4dd7313f612829",
     "6b2a8ae12c0bc7dfb412acb1a82b741c2e9102b437be5fd318d07b68eb25a9ab",
-    "4891dda9aa3fd271f0405d6f48e4979f79d8edc585ada99d70698931d0c5dceb"
+    "4891dda9aa3fd271f0405d6f48e4979f79d8edc585ada99d70698931d0c5dceb",
+    "1937e595dfdf005351fa566a3dd351f1fb99d240da7413db8c27bba648c371ee",
+    "44c26bd0090a1fa5218d096f39a4b24f1d71a006427402247ed733e5af167fd4",
+    "436a094485816b055cf8509edb2721c892b204751ea72efda5d5fad88f0e95d1"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Burnham’s Big Worry Isn’t Brexit or Welfare, It’s Trump and Iran",
-      "title_ko": "앤디 버넘 맨체스터 시장은 영국의 브렉시트나 복지 문제보다 도널드 트럼프의 재집권 가능성과 이란발 지정학적 리스크를 경제의 더 큰 위협 요인으로 지목했습니다. 그는 특히 트럼프의 관세 정책이 글로벌 무역에 미칠 파급력과 중동 정세 불안에 따른 에너지 가격 변동성을 핵심 우려 사항으로 강조",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-21/burnham-s-big-worry-isn-t-brexit-or-welfare-it-s-trump-and-iran",
-      "ts": 1795241991
-    },
     {
       "source": "X ｜ THE KOBEISSI LETTER",
       "title_en": "If you're Nvidia's board, what do you do this weekend? Your stock is down -45%, almost every government agency is investigating you, Jensen Huang says he wants to return, and shareholders are calling for you to be fired.",
@@ -11504,6 +11497,13 @@
       "title_ko": "이라크 사법당국, 디카르-바스라 주 간 석유 밀매 연루 혐의자 대상 수사 착수",
       "url": "https://t.me/firstsquaw/195008",
       "ts": 1795358749
+    },
+    {
+      "source": "9to5Mac",
+      "title_en": "UGREEN’s excellent liquid cooled 25W MagSafe battery for iPhone is now 40% off",
+      "title_ko": "유그린(UGREEN), 아이폰용 25W 맥세이프 액체 냉각 배터리 40% 할인 판매",
+      "url": "https://9to5mac.com/2026/11/22/ugreen-25w-magsafe-liquid-cooling-battery-black-friday/",
+      "ts": 1795358998
     }
   ]
 }
