@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795363507,
+  "updated_at": 1795363660,
   "id_hashes": [
-    "ecb898b2ded0e6a951d13e81be219669f53b6660a435785d8def5f639d399d0b",
-    "6ad4f3519e950011c4158a44c85c9ae3ebbfdb1260addd8c504bc3dd37d88dd5",
-    "81931e7effe898a5d674daabd51ecb139d84437c63d93483d739a99043b7f4e8",
-    "ac30b7526426fdc96e611058017ad6a4bde57b2bdf0dd25c4acfbdd7b3660199",
     "1070dbfe644720692850d7386cf7cf000962b07024f466bcf95785203eb4c988",
     "e0278e1474c21cad861902536551a6f7d6cb6fa48ef2190c4d8524358cbd90bb",
     "1a7574d87c30db0b2ece5ec98ac8b5a4405ceea7405602d78e52844fb85801c6",
@@ -4000,12 +3996,13 @@
     "1ff2f725a4529662c1a63cced46b69ce13f6e424f6c14dc16221fefe17853472",
     "193f1ade936b5b70135e4d91900e86548d0a65a92fbbd3557b6cfcf00b153234",
     "ee3ec54e18333726c053321f80969465937e6327eddb74af17c59f5fabc1b91a",
-    "deaf0493104ef02f38477bccd0a3b36206172c5867b1da90d926852cb2c9c64f"
+    "deaf0493104ef02f38477bccd0a3b36206172c5867b1da90d926852cb2c9c64f",
+    "cbe17a3e73ee2eea6d95435d82be5c3dfa720146f1b739f56514eb3c7d19c7c7",
+    "005e92263a7bdfdd543355ad5a23938bbaa180a5cb9f7aff96d850877d222f99",
+    "eaf88dd6d999ae813add1fddfca05d301a076c6af854d1828d7f6ce58fa4de5d",
+    "25d17e864b1147240cf20e9b61eeb888cdf3420fd38c2e6e40c4fd649b20a245"
   ],
   "title_hashes": [
-    "569f91134a05281dbb2b4b3e76d07fbfb7936350c8c8c50e80d589943a1edde1",
-    "125f74f63a0dab61e26a461a512e5dabdeaa669e7afeb4fa2401f71dc3e2e04c",
-    "c385e98b713f932a01ef15adc701b8b7cfb49cf1ed3a7bf72e24aea9a6afaea5",
     "4939aaeb0030520512e1be2a83724d608cd8b7112db5aa0845b9456114187d98",
     "0eaab62601c5b6f9be1b1fff0e006b5ef323eeeef1cc57991bd1b56def71641e",
     "45d02ed94c37b0e9c25ef543c7e4cb93a2b51e068801a26d004764e8d3a19429",
@@ -8002,16 +7999,12 @@
     "15afe36be959d75071ad46b7c262051fe19a4607ed964d339b561e2a3998869f",
     "87142b5904fadcc4d4a96e2d50777d709aa676bf8c2a1654c05fd8991ec9a71f",
     "ded9c3d617ad62c4d99281bee06dc165f9db4295aada17134ad5b640a5917330",
-    "3af764a12e75051a6b37fbbc686c07d0a072afa3f770c0c1a955b2731daabde1"
+    "3af764a12e75051a6b37fbbc686c07d0a072afa3f770c0c1a955b2731daabde1",
+    "7dd965af2510767ba8b8957a6205fbbf686416827f9b725744ef1f52b08b989c",
+    "e6206d30723f934f764bfbefcebe4b5f36da6e8017bff2531d5c97f6b1c044b7",
+    "9452f2b813175165f101a2652ddb2b4adea283243c5808a3b3a28f1f1d42f746"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "EU'S VON DER LEYEN SAYS STRONGLY CONDEMN ASSASSINATION ATTEMPT AGAINST A US-UKRAINIAN CITIZEN IN DENMARK, ORCHESTRATED BY RUSSIAN INTELLIGENCE SERVICES",
-      "title_ko": "폰데어라이엔 EU 집행위원장 \"러시아 정보기관이 배후인 덴마크 내 미·우크라이나 시민 암살 시도 강력 규탄\"",
-      "url": "https://t.me/firstsquaw/194792",
-      "ts": 1795251221
-    },
     {
       "source": "FirstSquawk",
       "title_en": "EU'S VON DER LEYEN SAYS WE STAND IN FULL SOLIDARITY WITH DENMARK",
@@ -11504,6 +11497,13 @@
       "title_ko": "환율·채권…원·달러 환율, 연말 1380원대 전망",
       "url": "https://www.hankyung.com/article/2026112224171",
       "ts": 1795363353
+    },
+    {
+      "source": "로봇신문",
+      "title_en": "1X, 가정용 휴머노이드 '네오' 12월 개발자 공급…로봇 학습 생태계 구축",
+      "title_ko": "1X, 가정용 휴머노이드 '네오' 12월 개발자 공급…로봇 학습 생태계 구축",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=49725",
+      "ts": 1795363531
     }
   ]
 }
