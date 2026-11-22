@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795347784,
+  "updated_at": 1795347946,
   "id_hashes": [
-    "a61d19cec4115ee45cb93ab09b009d5c188bd7c754b729ae18dfa11cdc37dee4",
-    "77e97be4db9ab349037505110f553aeac47311653ac6934bf725bffda4b126b6",
-    "b173d34b934fd09d3376fb431e8b203eedc4c32719e3ce801f5796034fe54126",
-    "3ca3ca0d4186b8f3f40236d93f4d6c01236b495aecdc84512193bca384883a3b",
-    "e03806e88cde87e167e8a850f5c762ff226c925b57b87ea59f829b9f514d0799",
     "b75f315fd4d6b2e3f54599e5668142a682902a4a73d54d44c0a065b3766c7598",
     "7c281cffb8652174ff49ec1cfa3b138804097d27d00e2e504bb2714a09244524",
     "024785a518e8c47624b820209acdff95c5ce52cd446ade4dfae8964824423d21",
@@ -4000,11 +3995,14 @@
     "a62f36975ff585ab6964e7c75dfeb947caab55539bfe9cebf69e7493b0c0cbf4",
     "94fc5a18507271bddf33e327478bacc48c7eee3fed10f69b679167541a325608",
     "8749a7c3a7ac26637a4bc4c35d33b8dc801f18f4a810231dec42919d734c7d1b",
-    "c4cbd26e6fa6d498fe89bd5386339c84d8a4488ba9f31e6b76cf0f7a943348c9"
+    "c4cbd26e6fa6d498fe89bd5386339c84d8a4488ba9f31e6b76cf0f7a943348c9",
+    "932bd88314b36e223298d3e98fd0bc62cc684ce2c5c398b0103ae38d73f88c4d",
+    "cb2de09500d2423790144d4d647a4a8b861c0362e1848be5e1114c4d6dee34ae",
+    "faf7a3a11e7b0f58f3a85b7fe0041327e894af1cec2f19b76b2e76fa52c49125",
+    "26ca0bd15feb6a346a3729d59daad7679e05a04981226aadeadda5ca30888ae6",
+    "2f13fcbbc3a4ae7531cd7b147dc82aa421aca2ce452ebf0a8caa70c3359480d0"
   ],
   "title_hashes": [
-    "f0692e4fae70494343559c844f9209bcf9002d0e8f67297c6866de6c0eae8260",
-    "9e8c444c14d29a5c715d5cb9c34bf4268e4678b7c2ee2c7f44d17c2ed1ffbebe",
     "12242c3d3ae0d10473a0ae84c60c183bc239ddc3856670b36bb0c26ca54a97b8",
     "3a4d2c3caeadcd9c60b0dae91b506813725ad0ec99523b9e67d714e3bcc57223",
     "895b932a07e5d2b915cc664bbbb02fbedd41c4aaf947076771bf7c6f970c35c8",
@@ -8002,23 +8000,11 @@
     "e5cf6bdf52b0e94a62b1507a0708c23818423dc3db9cabbf0079008fe656736d",
     "38bb79c2220b707652089483aaca0be09bf5c4866eedae4240ffa9bddfead334",
     "4b394b736fc67b3c0e885b55311dcce555f9197833f7da881629f0a1cc2492e3",
-    "6996401bf0250f6f426565a2f2e36ded30e0403ac5597f616105a4bb49f55f0a"
+    "6996401bf0250f6f426565a2f2e36ded30e0403ac5597f616105a4bb49f55f0a",
+    "f16ba70774a964e24bba5721ee2c7a3ae928164b292136cd12d4835a2811db8b",
+    "5edcb840811d97c66f023adf750a31b1c5eaf0ed445f85de02faf1a65ec785e5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Databricks considers raising additional capital at a potential $225 billion valuation, according to WSJ",
-      "title_ko": "데이터브릭스, 2,250억 달러 기업가치로 추가 자금 조달 추진 (WSJ)",
-      "url": "https://t.me/firstsquaw/194742",
-      "ts": 1795232895
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "WSJ: Bankers explore potential Grubhub sale with Walmart, Target, Kroger and other retail giants",
-      "title_ko": "WSJ: 은행가들은 Walmart, Target, Kroger 및 기타 거대 소매업체와 함께 Grubhub 매각 가능성을 모색하고 있어",
-      "url": "https://t.me/firstsquaw/194743",
-      "ts": 1795232899
-    },
     {
       "source": "Wccftech",
       "title_en": "Apple’s Entire 13-Inch & 15-Inch M5 MacBook Air Lineup On Amazon Is Now Flat $250 Off Thanks To Black Friday 2026",
@@ -11504,6 +11490,20 @@
       "title_ko": "Nscale, 350억 달러 규모 IPO 앞두고 채용 축소 및 비용 절감 착수",
       "url": "https://www.ft.com/content/98f5aa90-5581-45ed-8e9b-d72217c56df8",
       "ts": 1795347718
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Lebanese Army: 264 kg of explosives smuggled from Syria were seized, and we detained 3 suspects.",
+      "title_ko": "레바논군, 시리아발 밀수 폭발물 264kg 압수 및 용의자 3명 검거",
+      "url": "https://t.me/firstsquaw/194985",
+      "ts": 1795347938
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Iraqi Army: What happened in Jurf al-Sakhar will accelerate efforts to place all weapons under state control.",
+      "title_ko": "이라크군 \"주르프 알 사크르 사태, 모든 무기 국가 통제 하에 두는 작업 가속화\"",
+      "url": "https://t.me/firstsquaw/194986",
+      "ts": 1795347943
     }
   ]
 }
