@@ -1,7 +1,6 @@
 {
-  "updated_at": 1795331181,
+  "updated_at": 1795331331,
   "id_hashes": [
-    "d4e03829881efd6a7a2781aaadd1e6126e32bb80eb2ac99be817d342fc98637a",
     "369ada93b17467f4e3e4fc5f1423bb05bbcc057cd52b3bdf40ba5581dc9d7d16",
     "153ab4374b59d444afc189b0fe333fb82e3cd198cfd1c308b902677e4fc34d97",
     "6cd41e3fe9e510fc098deb669bc40a80b885ef9fcf2cc9bbf02af5de69f897ef",
@@ -4000,10 +3999,10 @@
     "7ef1e83b1751db46608b5128d460c5a25f4987453788f52c79907d2acabc3649",
     "ff0b2e8f82e4face6b490b0fd22291b96c6a60613f3f5716d002ef844679557d",
     "482c523db18730da09ffaf01a0ebeb230b7b8c97ab498b7990352c5ad1eea963",
-    "efa051d49694a9b938af3b292bfc4102f98c99abf87632258ee9af513c7532ab"
+    "efa051d49694a9b938af3b292bfc4102f98c99abf87632258ee9af513c7532ab",
+    "45737f9c45bbd597fecddb71fbe92a38671cf84f7d4f5876aa1f7b155565dd59"
   ],
   "title_hashes": [
-    "e57d20764bf35a027542224763db75b5b75ba6174aa88806342930825301850b",
     "eaf86b1ff81506284356756df52702671e40838c73593f3c53f5a2c493ed3ef4",
     "53fee866e68efb76f291cf1ecea7f6df49337efc3566291bc846a9b8327684d5",
     "7c4ce8b0687cf7f5fb061299411c02c9f3574c0e7dc0d1146015d7e6d0ce0917",
@@ -8002,16 +8001,10 @@
     "0c3b3f77248a2f9908533eff6ffb45b790a4171b6b8c46cae4e090bf1ad34d2c",
     "f8225172897b049b2a7be6a3fcc7a80a8ec27d5461f522f3f3ec7da3ff04a8b5",
     "28b75ce099abbfa84f2691e9a7b5113daf4c9608bdbfac2e954dc3e30516d00e",
-    "5c783c5630eec9b949b381d3a261ca0e0f2446c5cfd87815159f3d57394911d8"
+    "5c783c5630eec9b949b381d3a261ca0e0f2446c5cfd87815159f3d57394911d8",
+    "a0524fe0642eb7192a11d2cccec85cbaaa8aaf589019321d0c7ec7ef90df8a2e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "구글 지도 길찾기 국내 상륙 초읽기…네카오 지도와 뭐가 다를까",
-      "title_ko": "구글 지도 길찾기 국내 상륙 초읽기…네카오 지도와 뭐가 다를까",
-      "url": "https://www.news1.kr/it-science/internet-platform/6355668",
-      "ts": 1795219804
-    },
     {
       "source": "매일경제",
       "title_en": "[속보] 트럼프, 젠슨 황 복귀 촉구",
@@ -11504,6 +11497,13 @@
       "title_ko": "같은 코스피 4800선인데…시총 1조 클럽 26곳 줄고 10곳 중 7곳 하락",
       "url": "https://www.fnnews.com/news/202611221541249953",
       "ts": 1795330733
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "용인시, 반도체 산단 교통망 확충 총력…철도 3개 사업 반영 촉구",
+      "title_ko": "용인시, 반도체 산단 교통망 확충 총력…철도 3개 사업 반영 촉구",
+      "url": "https://www.news1.kr/local/gyeonggi/6362024",
+      "ts": 1795331330
     }
   ]
 }
