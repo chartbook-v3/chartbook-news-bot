@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795366235,
+  "updated_at": 1795366383,
   "id_hashes": [
-    "feb1857e384d00d19eb96afbd7c45fd3c5cbd4f8f256469cbfad31b62d5f9ae6",
-    "623c5ce2dadface3bd31e93a70f318a9cabcbdb9d0486e1a264713c27b4ebd43",
-    "c603e7e55e8d9ed84f2fadcb65ba113cbe709721427ed4c302dd9d431900a846",
-    "deef10db3c549df8c304b9e88c1c18f85ab50958f82e376b812040c1bef8b115",
-    "e7bfeba691703c4eaa272ee5cc5dee118334138cfc6b1643785b470be83586e8",
     "dc49f62e205605fab1542acb5af91d76d50717f9d52f179c8c296443c96b98ff",
     "7e5d261371120d512b0af7749a2f89bfb723b320cf8e2951d247b17e0c012f5a",
     "494babd1e83e08d98b7ef7bd755aa4ab24b5749151d0cb2f01368a8a4d63286b",
@@ -4000,10 +3995,14 @@
     "fb470b018e05d8da3353881a79cada197c946f85012cf8220f4c8ef119c1b818",
     "6d067857eff44485bfc0eaf48840991bc1cabc790233bc4bc74dc829064909cd",
     "a85360c06e6f5173de8d5557b1cee6b1a04f88d4a3cd2e338857c686af54413a",
-    "e1776ee6934978daa99f832ba7ce3cec2f716788841d252a00548c1729b54958"
+    "e1776ee6934978daa99f832ba7ce3cec2f716788841d252a00548c1729b54958",
+    "ca847b1de34fcf1cb6010f277db7fbb8d37a19318ebe612c66a736ccc12a1108",
+    "0ae7f39b5b650833c7c6fc2d01c934cb4e22e8c6c6f9e87b416817a534795083",
+    "56e38d20ce9b2f8253fd6c118674c4e3b0782fe8843e412ae6b15c16b94fd453",
+    "e2ac5a58f0621e951e8dc7b1a8bcb3f3e328aebaf27a613d4bf3c3b4a045551f",
+    "8682164658e98918715b00101c307dfeae1362fd9073ac0edcd20fd96d119c4a"
   ],
   "title_hashes": [
-    "fe7ae7cce165c49c69992f9adf2709c68e1cd06fd5f62deeafd825e49a131e28",
     "1a2b445f23ab4dbb50d4c37beec6fcd523a6a6bddc3af44f22050b8636f3b479",
     "744cf16414b366ab8ab2d57b1b7d99802fc55a685f65df8b2b1e16c0955cf64f",
     "f476612f441aee8a227ccd7dab227f6ca37d2cdf651b72e15b4b0c29765537ca",
@@ -8002,16 +8001,10 @@
     "c4dd95ceab41ea57ac7426ff1c60e4264569f3b047a800207279129a3048a108",
     "3c21955920f2580489894a31b9034793e9f5cb3ca4c06f632b39fa961eeaae78",
     "a76b3b9db37d36ff095a33fbfc024a1b24c86a32cdd341ff9c7251ec6d2de585",
-    "2ea67af7c4b8286d7bc0e847b3764e72320ec9652855826d9e7f1d07a35e5eac"
+    "2ea67af7c4b8286d7bc0e847b3764e72320ec9652855826d9e7f1d07a35e5eac",
+    "73f204b35cc751fe58c899c9e6f4d07a635b4a062fc0feccd448c40ac958d804"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Tom's Hardware",
-      "title_en": "Razer's MMO mouse hits all-time low price at under $60 at Amazon in Black Friday deal — Naga V2 Hyperspeed price craters by 42% in stellar gaming mouse offer",
-      "title_ko": "레이저 나가 V2 하이퍼스피드, 아마존 블랙프라이데이 42% 폭락하며 60달러 하회... 역대 최저가 경신",
-      "url": "https://www.tomshardware.com/peripherals/gaming-mice/razers-mmo-mouse-hits-all-time-low-price-at-under-usd60-at-amazon-in-black-friday-deal-naga-v2-hyperspeed-price-craters-by-42-percent-in-stellar-gaming-mouse-offer",
-      "ts": 1795252243
-    },
     {
       "source": "뉴스1",
       "title_en": "호르무즈 선박 통항 1주 새 15% 감소…유조선 52척→37척",
@@ -11504,6 +11497,13 @@
       "title_ko": "비트코인 61,000달러, 이더리움 1,715달러 선 회복",
       "url": "https://t.me/marketfeed/1083499",
       "ts": 1795364996
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Libyan sources: Reports of another drone attack targeting a merchant ship off the coast of Benghazi",
+      "title_ko": "리비아 소식통: 벵가지 인근 해안서 상선 겨냥한 추가 드론 공격 발생 보도",
+      "url": "https://t.me/firstsquaw/195028",
+      "ts": 1795366327
     }
   ]
 }
