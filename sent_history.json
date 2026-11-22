@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795388234,
+  "updated_at": 1795388385,
   "id_hashes": [
-    "c902dbc30159d8059bd09e4331de2594a6dfb3ffb4ac294bbcf64ba532be530d",
-    "83561edd977e7d1d6dc326f92cc4c52d91fc875e1234b0bdf24c5bc3ef1d47d8",
     "775fdffdf61bce4ba64d7636e95bd4423ae08d263e160abb5fdd3c6119653e2d",
     "e468fe76f14bba7c4d9b0f4d29a52235ca8b8ea2eb029a14da49c152a41adacb",
     "69e1e38afdae66f9f9af8e06471ada2d095988c8adc850f4b3b6651732ed11c1",
@@ -4000,11 +3998,11 @@
     "1174167ce812c1d4ba6cfcc6efa2b2392f421eda3ee775c5c2f8da989ba51752",
     "6d674c8e5d72c793b938cdafc86d93dd80d33495a8580b55eefcf65b56c3594c",
     "192718ae718a90aef8a1434560359a4c6eebce296212dba44b210a5a53d3c678",
-    "225e73816371960b97e5b9fb37ebf835a5122372872f90276d47b822b99e838b"
+    "225e73816371960b97e5b9fb37ebf835a5122372872f90276d47b822b99e838b",
+    "a953b53db068ea538425a15275bd8657b79e66c5af24dd44677330899741716b",
+    "2b6a56e32dcef680e7c278e9bec2e85d3959727eb1afdcd9ac3fd6355d45192f"
   ],
   "title_hashes": [
-    "1246cc243319379ece51f8ee6a027f59f69ff7c4a69a9b823af7963e726ffebf",
-    "0ab5c280138302a43bb234361376864f036d392eb17be1472998c40d6fe6df74",
     "09eca8865787a3b72c0d6ccfce9596ebf4712c93fb2f2d700fadae1d287fd059",
     "4644158f69e7038b15db8646ab5c2961462c46a8ec360fe269d58e7dc90d34c9",
     "3208f0def3f43340d5a4fb7a52213cbdefdf6a677d423cfa3ea6fbb39c2357f8",
@@ -8002,16 +8000,11 @@
     "9735041cb4ea13dc40ad54d9d3325064b9d48d40d99ac8d4f539e9bb4de2dbd7",
     "118156fe552f9232c3fe38317262d2e44d931d5b67825792f669308307af0bf5",
     "5a093785221e2ea42ac0995fe8c035c4b7a14b1b388609e82858aee20dadceee",
-    "9da882027d59b6b784b6ab9a65022317003deaac5b52c63d899934e385c1be45"
+    "9da882027d59b6b784b6ab9a65022317003deaac5b52c63d899934e385c1be45",
+    "27a25836c8fc9dfba1a23f771ca29bc78fa61d2887bf1c90df6def6816e5eded",
+    "ad77de1f67396c2e08a7f827d5fc964d72fe1ffff5c6582861bff3edbac1a11e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "Zelenskiy: China summit was very unsuccessful for Russia",
-      "title_ko": "Zelenskiy: 중국 정상 회담은 러시아에게 매우 실패",
-      "url": "https://www.financialjuice.com/News/9862959/Zelenskiy-China-summit-was-very-unsuccessful-for-Russia.aspx?xy=rss",
-      "ts": 1795262221
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Brussels Considers Taxing Big Tech Companies to Generate Additional Revenue for EU Budget - SCMP",
@@ -11504,6 +11497,13 @@
       "title_ko": "[1123개장체크] 美 증시, 엔비디아 SEC 회계 조사 악재 및 반도체주 폭락",
       "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=219049",
       "ts": 1795388082
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "삼성 준감위, 삼성전자 주주환원·증여세 논란 이번 주 심의",
+      "title_ko": "삼성 준감위, 삼성전자 주주환원·증여세 논란 이번 주 심의",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445919",
+      "ts": 1795388384
     }
   ]
 }
