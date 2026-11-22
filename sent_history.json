@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795371233,
+  "updated_at": 1795371391,
   "id_hashes": [
-    "7a81cd74cedf07ffd9a5157e387bec93f53fd1c2095e10302f99e405aed6b1e3",
-    "c67cace16253449a100c50547e6848a193d7bfdbdd313b5ebdbef37577db92c1",
-    "7df23f2081ca9e641eb4d14d0cb4b0f68395115ef237f26b48efe7e3faf8967d",
     "e9aceb188c2671553159677d5daef74515a8a0e5dd35d75c64637295ead2b2af",
     "32fc5c932af4aa702bc963b2f5b042de283b0c97be74144a0d94557b2b095b76",
     "38dc2ab48a67862350d839dd2b65897c20eb0478ffbd700fadc249d400c8a537",
@@ -4000,11 +3997,12 @@
     "f29ef0ed3077b77d5d11112a340bb4f3dd9e3e2ce2bf1cd5876e90d3b85e5171",
     "277a845a57c877bb9e529a7c4f32f5d6e37710107250e82cb6b756a114501cff",
     "4c71eee0ff3c20d9987b435959b4f570836dfd1dec0cbbaea625aec6dad9f640",
-    "06fb0689727077c22514f4fe0353714bab48cebb30abd232381833e95ac68bae"
+    "06fb0689727077c22514f4fe0353714bab48cebb30abd232381833e95ac68bae",
+    "10a586d32813e5e9ad956bde01e10041d8d2d51d827db0be74b1b7d0cc520420",
+    "ecfe8cff3f0ef7c18f4efbe91c121e997267012eda288c9bceff0b4019387b85",
+    "7c14d59da35bc783335e5fec0f2d1e52f47d0ed7f19652ca8bba98942ced4cb8"
   ],
   "title_hashes": [
-    "5dbd9842e651b77b92e0c9ed5cc2b335c29b125ed9668f7b36630bacf6bce523",
-    "450238acf196ebaa3a7cd9494c1007e2193483985d1a12bb911dbe30fd0591bd",
     "44b3c3aacfc85e706f9447eab82a1a3722c05a77434bdd9ce0b4c573e6c23be9",
     "14f3b83a780e68da321a3c37792d3fad43089ec93a392c272528e0d797bbd885",
     "a5f672ee2611b02306ec8e0f801fa7ff7cb2cf9f84a81727c9d30936fae85fa1",
@@ -8002,16 +8000,11 @@
     "7ad3980c80d1cdc491b5d4e8483b1ebc59e25e399c4feb7da119437731fa1211",
     "b910189713ec41b62563729de6f695286dc4c425a73b0620b70614eab7fa7f7f",
     "db9d5d0f92ff14055e47e7315c7d0a973ce7738fdfc8a51c711b0a3963ae99e4",
-    "9e31438c9fd2dd43c50b82174ebd566993edeb153f34ff7a7d9a68ff93df8b72"
+    "9e31438c9fd2dd43c50b82174ebd566993edeb153f34ff7a7d9a68ff93df8b72",
+    "43f91cac840ab75844388d25ab08dfe6b0b0be2214c03f969c29041e5010ff1e",
+    "6be9dbb207ef164a6063cc0cfbd96c2d0d72a08e7eae6456e00cac35e9de8520"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "Russia's Leningrad region governor: cargo ship bound for Kaliningrad hit by two drones in neutral waters",
-      "title_ko": "러시아 레닌그라드 주지사: 칼리닌그라드행 화물선, 공해상에서 드론 2기 공격받아",
-      "url": "https://www.financialjuice.com/News/9862922/Russias-Leningrad-region-governor-cargo-ship-bound-for-Kaliningrad-hit-by-two-drones-in-neutral-waters.aspx?xy=rss",
-      "ts": 1795255614
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Russia Reports Drone Attack on Cargo Vessel Heading to Kaliningrad in International Waters",
@@ -11504,6 +11497,13 @@
       "title_ko": "델·HP 엔터프라이즈 실적 주목…서버 계약 가격 인상 조짐 포착",
       "url": "https://www.benzinga.com/markets/equities/26/11/63517315/dell-and-hp-enterprise-earnings-in-focus-as-reports-point-to-server-price-hikes-on-signed-deals",
       "ts": 1795370777
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "IMF SEES ISRAEL'S ECONOMY GROWING 4.5% IN 2026 DESPITE WAR, ON TRACK TO RANK 25TH GLOBALLY",
+      "title_ko": "IMF는 전쟁에도 불구하고 2026년 이스라엘 경제가 4.5% 성장해 세계 25위를 기록할 것으로 보고 있어",
+      "url": "https://t.me/firstsquaw/195031",
+      "ts": 1795371386
     }
   ]
 }
