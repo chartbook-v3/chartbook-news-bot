@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795334816,
+  "updated_at": 1795334962,
   "id_hashes": [
-    "0f7f3f65a5853f29de6cb84b1d5dbabf3e65fc5c6b5982d78f8ecb55b146260c",
-    "ae48597c67cb692380e45d87cb21895509fdfcd2f6aec49777b08128d58398e6",
-    "d1643e8570fa002b5716af9006fc035cc7ee9b830096ed87b48cddceb5f0b51d",
     "62a87d2c55a35d4f2d8d4be32c75042e1c950956a9aab63c2a9e7f849a523d0c",
     "ef9daf970cadbcdfbd227dddb3df51701012db400c98bb7f5c90220eb8db71bc",
     "1519833ec8fd4ae79b13392bd1fe750090a1b607d3d995eeff2b6975fef960cc",
@@ -4000,12 +3997,12 @@
     "ae5b9fba3380220c1df4e115436634e32e2d7c7b5c5fae1c0e0822a12f9cf1b4",
     "71dbe12a3714356436bd1d0db0d51a9f3d7806a82c98e347a9b8bb71ae1aea68",
     "520f9bab1c4de202a7978fd06782829574628594ea4d7776898287c3a9cf847d",
-    "202a66c9dc3d233fb453feaea5fe0c35615754ce2a010b307fdb4f53ad8b69d4"
+    "202a66c9dc3d233fb453feaea5fe0c35615754ce2a010b307fdb4f53ad8b69d4",
+    "f7aee267a1d96768d8b84a7ea9be866593db475c0613bfb171d233620459c3bf",
+    "33887f28361f9ff020362a6b005f1243d81f63fb20c7f232adde73cc59aa9ac9",
+    "cac9ff31e4c31730d3ec16f52e2854c6704a7bbaef1b263d69abd3a5d9878404"
   ],
   "title_hashes": [
-    "b8c5db7cfafe2a3cdc2476cbd3b1cafa5cb2e205bc4fcad8fd3434e0482ea91b",
-    "40bcd6d06e4e47639cb0056656e86ce1224fdbd2a031fa6e6775c1dc7b506e1d",
-    "f1ce9c3264e456bf48f03b49257f06566192ed7a84c2b0af172d3c1fe97df1f5",
     "47c206d318d129cb5bc30d87c6774e4b8dd4476da966a8b7ffce6b0acf9b1ca9",
     "3d2dc0ad4a83c38bc39190217023ae91a120cd17375230002a30c9a52ae43dd8",
     "3f3e5c235267446e6f92e0d230d260b9f1224ecae9e971c110e4829f183f50a8",
@@ -8002,16 +7999,12 @@
     "526f63c7306c220d4592ef186521c0882a08144d06c1d6be4d0818b1c04405e1",
     "2f18daaba674493344afb813566c5b010445647a901c7a620aadb05a0e6ac34a",
     "fa4328979fa2a882c92e260f7f3fd7e34a6d88bf965d675ab34eef2fe7efcb88",
-    "0f9d2bcdae9cfa68ad7ab1fac3f572ecada971392dc2d99635c603ac3399b407"
+    "0f9d2bcdae9cfa68ad7ab1fac3f572ecada971392dc2d99635c603ac3399b407",
+    "627e1750a38f413d8e07d381dc85c84e9e8a4b31e7d311a5fa8bb54580f64878",
+    "c977fa523a4021da8abeab9a9e448476e9c554bd8e6336a0393dde364cbea53c",
+    "bcdbcbde7dd282cc17633221ce7dc808a690916b1e3a2e2d3e3570f4ed70bee6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "글로벌이코노믹",
-      "title_en": "트럼프, 푸틴·시진핑과 '환상적 관계' 과시…순방 성과 자찬",
-      "title_ko": "트럼프, 푸틴·시진핑과 '환상적 관계' 과시…순방 성과 자찬",
-      "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611210928468510112616b072_1",
-      "ts": 1795221175
-    },
     {
       "source": "Bloomberg",
       "title_en": "Anthropic Researcher Claims to Solve Riemann Problem With Claude",
@@ -11504,6 +11497,13 @@
       "title_ko": "'제넨셀 사태' 재발 막는다…임상시험 신고·포상금 추진",
       "url": "https://www.news1.kr/bio/welfare-medical/6361982",
       "ts": 1795334153
+    },
+    {
+      "source": "매일경제",
+      "title_en": "[단독] 中, 韓 핵추진잠수함 IAEA 검증에 문제 제기…“국제 안보에 중대 도전”",
+      "title_ko": "[단독] 中, 韓 핵추진잠수함 IAEA 검증에 문제 제기…“국제 안보에 중대 도전”",
+      "url": "https://www.mk.co.kr/news/politics/12215581",
+      "ts": 1795334835
     }
   ]
 }
