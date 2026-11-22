@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795326921,
+  "updated_at": 1795327073,
   "id_hashes": [
-    "d862ba14205005fedf17d46df65fca818ee95661e94efc397c143585e5544388",
-    "9a8f0f65a5180945f225a7bfe2da7c8f2f8987c53471fe7f295aae5e551b376d",
-    "630bd78681a0be9b46c39c3c37fd3d76708dc89d790bcf17a6c0363a8714c8dc",
-    "edbf63da1055726165873eded991347453a42ac9ededed8c7503a064161b145c",
     "45cca842aff4807bb2fc37119786ca0d076aeacd625da51c821e5282d5f5a8e3",
     "9b5a35bc340f162bdd2a4e1d853a3fd6437850a6e88a3d12b66d38ed28138214",
     "fb9f2ca5ccf3bacce4cd1fd27d4073d44c19fa21dc64b4134b2a5d505cfe4b9e",
@@ -4000,13 +3996,13 @@
     "9c05871df989c72e40914cf5627e72b333ee6389cf0b9e45513081a2e3b913be",
     "7cf480711b3ac34cea6b5b4fa0012044e1ce57b5e28878475c82718bfc8a34e7",
     "b144abd9880390927dd2404883e67ff37b1e63580271d345a037526211a9c8ae",
-    "1a7558974f3a4d1119102cba219346c1155c9d4454fbaa22d923d607ed868b3e"
+    "1a7558974f3a4d1119102cba219346c1155c9d4454fbaa22d923d607ed868b3e",
+    "a05911897a46a287971a6850ed71f00dfc33070f78a3d4377d22015cb056839c",
+    "29b22e7888669366e82e9da4872a76ab2710068282a5f436eb90851c051c64c1",
+    "62659371b48e561a7b1bb730bb5965a9da3ec6d59c9da3c948e4f8fd323b66bf",
+    "8bf3c1d5b1e4ec7a7ad7919abdf72e1ec0669f8db77d65bc8bb461cdc3ffa68d"
   ],
   "title_hashes": [
-    "1af5abeffbe8b429d0574351217a902eee6b28a5405bcf16e7fbedfbf155c6c9",
-    "cd7757438e12d6d05560adf1228b9a04ff9200c8b27122019672654d19291af8",
-    "319232c870d1ff8fab48e0ee8fdd73eea959ceb60daed66ff75e159f3a500fe1",
-    "eb192bc634a398f8f32427d3869a7d0dfc7418c9afbd30e01e40d94c1fc20d35",
     "eda437b8de9ddc051794ba7f3230e21ffb5e9409682404307442ba12f64df443",
     "4d66a4961079dc6efbdbb248b39f64dfc35956c7ed223985061a83d01debbe3c",
     "22b97a3c0bcc525b65a09d8dde098be63e7f17ce5b49f9aa9348bba542c715ef",
@@ -8002,16 +7998,13 @@
     "6e9ca0065a60f77069f2319e7fe75294c3a8a041ef85734d8e038aaacb01ecbc",
     "109830929b2fd5ee0611e9c27d21e8298f1dae27a89c2d423fee10b47926c6ff",
     "9d38847feb696cc4678508a42d3bc575fbfbceda56df6b5cefb06bfd112f68ae",
-    "1fc07988afd50229a6b356ae511f6cbf462a98025ef6d2b75d47433d31cbd090"
+    "1fc07988afd50229a6b356ae511f6cbf462a98025ef6d2b75d47433d31cbd090",
+    "e71a53e8588d1c560e97f43244c0a3c4fdfaec7c0f9749c4fb5e1a75c716496b",
+    "5f38fbf05ab18b516598ff266e6cb4928fcbfb2587e16f4c5ce5820a7c37bb9f",
+    "ac51b9dbbdf25d1715457dab16e7ade788d3e84ae4ae4993b23c7a01897cd6b0",
+    "f6004c3fdc7cb1b5c1be3376ca46d8bb65d929f74b0e3e2b0e68c50959bd15dd"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합뉴스",
-      "title_en": "[머니플로우] 서학개미, 이달 엔비디아 8천억 폭풍매수에도 6조 평가손",
-      "title_ko": "[머니플로우] 서학개미, 이달 엔비디아 8천억 폭풍매수에도 6조 평가손",
-      "url": "https://www.yna.co.kr/view/AKR20261120136300008",
-      "ts": 1795215980
-    },
     {
       "source": "Nikkei Asia",
       "title_en": "Rubin prize puts Bhutanese contemporary art in the spotlight",
@@ -11504,6 +11497,13 @@
       "title_ko": "번햄의 EU 야망, 르펜 영향력 확대에 정치적 난관 봉착",
       "url": "https://t.me/marketfeed/1083396",
       "ts": 1795326861
+    },
+    {
+      "source": "FT",
+      "title_en": "Sudan’s military steps up its offensive as fighting intensifies around Khartoum",
+      "title_ko": "수단 군부, 하르툼 인근 교전 격화 속 공세 강화",
+      "url": "https://t.me/firstsquaw/194948",
+      "ts": 1795327072
     }
   ]
 }
