@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795348387,
+  "updated_at": 1795348534,
   "id_hashes": [
-    "136f6787f6e02a9ae2b4fa37c4acb3ec1f17cfac35c102ccb9678291e4b3b4e0",
-    "43fd4ed745d020948c590ce360acb8e5330012d18296d04d6d398d356c676013",
-    "9bea65e358c66d7913847532a49dbbf3490e9286d5cc4c85a9ee2d0f11cd387b",
-    "8aa81a72d4b01991446eec2b635be0ada9aa29eddc0e213aff765e37d03f3a1b",
-    "435e74b45e2425e7991797e5edb51c535288dba32fec429df3d59398b8eea2f5",
     "901f2cb1ddd807d7b26956e51bf543c7a7e37cb136d742c120584f11a38ac8fe",
     "1749a8db7e3abd20be402a358cc8161c2dbec2932224185a9080df0c4b561b6a",
     "9b4f7ceacef36318f1f8a2da00cc6ebd1760aed852d4977d63fd41ec20448023",
@@ -4000,14 +3995,14 @@
     "e4f1f8c7ab4e3296ffc2fd11018cfaa35cf9e99abbe471f9552ca0c3a72c857c",
     "7ec82560989572f6a78502bc3930521acb68579f4763be6b89c732e97c406c13",
     "ff05d2df83198f64537421e75929af9f1553f9d1dcd993a1761fedcc3ed47dd7",
-    "9996eb2d09debc5c3cc53fd053557f42acf68bd21e05b3542393cfd7b6eb87a1"
+    "9996eb2d09debc5c3cc53fd053557f42acf68bd21e05b3542393cfd7b6eb87a1",
+    "be8bf77482f04e73743433bfb53dbd052f50af97750a7442a338cebdecb58e8b",
+    "169ba632bd592bb23103e40f8833f883dab5994981c82d831b4bcf6763425cf3",
+    "307f4ecb59954f2f1761de676969c680f430d68cbaac3d874a26de035e96e6a4",
+    "520a6eb3ed6566bdc261005911bdaf4903f7420cbb061ec00c299984c419ff38",
+    "227ab424afb76aa381fa4c15dcae47b8fe50ace43d43f089793c11a22a87e374"
   ],
   "title_hashes": [
-    "28caf28db93bea341898f89b40e77816093b10bfbd0c69cab121e83f833f7d55",
-    "28534e38132e036be1c0dd7bb980f23956ef3ca19083252f27599e3a60b99fc9",
-    "c104d028e94f73792eb24bcf465acee3b2b362eaf72c0c8a1d1d937261e767d0",
-    "f07aad71886e7aed9e48399dfecd15d1d18d7af9bbe732c0903a40383ece738f",
-    "c7d05e53539932ce605ae8f465df82faaa495e3fa08a8c8eae6d91f2b8d4d75c",
     "7761f8ae46fa9d9793e795a438ff4ef4692bf6d339607b4e52fe4fd3e987d8e2",
     "9b1df1f947cc96b0eac9082bb6d6026eb99ac055fd8a60dfede24dc176edf391",
     "46fc7085c4fd78b7cea3d84bf71bd07be41d15243d1c1a580a8dfa7dbbac4e54",
@@ -8002,16 +7997,14 @@
     "e295dd3f7c49156f2ac236f4aabc554261c84db10629b15769e321ae30001cce",
     "7a621093d83354ad280a72388b8143d79ed1506b22ae2074140f08aa22929e35",
     "8829c1b0228f9d9bf093b797f484382170e30982ab720c8099fdd026c0ed002c",
-    "fe71050fe61e8f58a79516a793d8b1e53a2531d8e7c24dbf28114faf89f90f72"
+    "fe71050fe61e8f58a79516a793d8b1e53a2531d8e7c24dbf28114faf89f90f72",
+    "f782ddf16987cb17e1def859e27da40927174a41f46aff03e4933c63c70f321a",
+    "883b9d7aeecc5a959f8ee7654258585042909aa94c3c706c306c4bd81ee61681",
+    "8ebd93bd007e9a644392e254d854a0a0f847558cb65fe684e0d8b9377115f378",
+    "8e3bcc7b64edba79d366458cb67229deb987d6a20ae940679cfd5a4928386fd9",
+    "73621af339d3194cab0e6a3359e050b58df52f9d7fc41279e6d2d20e59e8f780"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Trump addresses multiple issues in an expansive press conference following China trip",
-      "title_ko": "트럼프, 중국 방문 후 광범위한 기자회견에서 여러 문제 언급",
-      "url": "https://t.me/firstsquaw/194745",
-      "ts": 1795233182
-    },
     {
       "source": "Benzinga",
       "title_en": "TELE2 AB ORD B SHS NEW by Tele2 AB Earnings & Forecasts",
@@ -11504,6 +11497,13 @@
       "title_ko": "한경 이코노미스트 전원 \"이달 금리 0.25%P 인상\"",
       "url": "https://www.hankyung.com/article/2026112225181",
       "ts": 1795348093
+    },
+    {
+      "source": "Wccftech",
+      "title_en": "Engineering Student Left Stranded Before Finals As ASUS And Best Buy Reportedly Point Fingers Over A Failing $2,800 ROG Zephyrus G14 Gaming Laptop",
+      "title_ko": "2,800달러짜리 ASUS ROG 제피러스 G14 고장, 기말고사 앞둔 공대생 발 동동…ASUS-베스트바이 책임 공방",
+      "url": "https://wccftech.com/student-caught-in-asus-and-best-buy-warranty-loop-quoted-2500-for-2800-zephyrus-g14-motherboard/",
+      "ts": 1795348408
     }
   ]
 }
