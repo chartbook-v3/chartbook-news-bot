@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795388385,
+  "updated_at": 1795388536,
   "id_hashes": [
-    "775fdffdf61bce4ba64d7636e95bd4423ae08d263e160abb5fdd3c6119653e2d",
-    "e468fe76f14bba7c4d9b0f4d29a52235ca8b8ea2eb029a14da49c152a41adacb",
-    "69e1e38afdae66f9f9af8e06471ada2d095988c8adc850f4b3b6651732ed11c1",
-    "ca40b830c739cf9c40b2fdf16374a5303080417423345917475dd7879fa11dab",
-    "bf18ce5dd051437182bba0f892cd410346f0976c17b78d8a0c9b8424a1ea39b9",
-    "cd7358b7948082d694aa6d1b884cdfdb95733554cdde8e9dff38969bc31285af",
     "597df53438ae9e1eee9fb680ad583df2816930c34b2922784d198b002fd7ec8b",
     "ace0fa19be2f1bcddfb215af8c82f6c06c84a16a0e3d3bc0a9bc859673ac480b",
     "ff8625c204fd6e8107f9e84699ff1558886ac84375079b2f88e7d55469cdf112",
@@ -4000,14 +3994,15 @@
     "192718ae718a90aef8a1434560359a4c6eebce296212dba44b210a5a53d3c678",
     "225e73816371960b97e5b9fb37ebf835a5122372872f90276d47b822b99e838b",
     "a953b53db068ea538425a15275bd8657b79e66c5af24dd44677330899741716b",
-    "2b6a56e32dcef680e7c278e9bec2e85d3959727eb1afdcd9ac3fd6355d45192f"
+    "2b6a56e32dcef680e7c278e9bec2e85d3959727eb1afdcd9ac3fd6355d45192f",
+    "4b66fa653b8e4f0ef8d40266155583336b61284f2119f9141b9084ac92d7ad47",
+    "bfc74c982f2366c8db31fb59992a98d1558c6e1b913cf0963f285ded423ab90a",
+    "e188eb834337d67d4208fbd34931c25e4dccce4dbf80c0e61bd8c7b22972268e",
+    "064da8bd45b654b6492f135d1e9799f103ef35501d9d9c784622952d33e723a5",
+    "a7a63126dffb7540ebd49d743c1831e5f3b9d59fbabf35f295b2fc2e240f7e8b",
+    "8a637e29f2df56d76f6dbc3cba2752b212a989bcee7404c7da5344996aba5e43"
   ],
   "title_hashes": [
-    "09eca8865787a3b72c0d6ccfce9596ebf4712c93fb2f2d700fadae1d287fd059",
-    "4644158f69e7038b15db8646ab5c2961462c46a8ec360fe269d58e7dc90d34c9",
-    "3208f0def3f43340d5a4fb7a52213cbdefdf6a677d423cfa3ea6fbb39c2357f8",
-    "f11d6118a1b5f67467114444e87a3054aa6f6ccdad03a92b37d281747af9f30e",
-    "0177eabc3430ff5fc53ad34d1c99c80bf2450da429c5699b8928ed1dfa13b730",
     "29850a897a2d2e55a8996435b169388d064aaaf827907d5dd77b71a2b111bc0c",
     "42c93f086197d8d3228f239ff02cb0ee0b03aa59e01333bf0513afd8550ea54a",
     "be764988df7ccad8712c93ee90ac55943b1aa704f990117ec081fab1ce5c3012",
@@ -8002,23 +7997,14 @@
     "5a093785221e2ea42ac0995fe8c035c4b7a14b1b388609e82858aee20dadceee",
     "9da882027d59b6b784b6ab9a65022317003deaac5b52c63d899934e385c1be45",
     "27a25836c8fc9dfba1a23f771ca29bc78fa61d2887bf1c90df6def6816e5eded",
-    "ad77de1f67396c2e08a7f827d5fc964d72fe1ffff5c6582861bff3edbac1a11e"
+    "ad77de1f67396c2e08a7f827d5fc964d72fe1ffff5c6582861bff3edbac1a11e",
+    "50a2de7ebb6efe6ee28d836fc7dd19260e7afbd8a1f4cf209a5a068309b4ce91",
+    "014e66c069adac7d48ab88642b8f9cf8491178f4ee06162179d32a35e64154a7",
+    "d3a8d249fb2cf05880168052cf8bec39fbd0faa058d550866dfa04278a8b91be",
+    "1e4555c2229146475bf8fc389829afdca55f5c8f3bf13d2f4f5e3902a6e04fc6",
+    "348a68e85a92d7b771713e49e168c927c25fef4557995dd9bd97a15862950be3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Brussels Considers Taxing Big Tech Companies to Generate Additional Revenue for EU Budget - SCMP",
-      "title_ko": "EU, 예산 확충 위해 빅테크 기업 대상 추가 과세 검토 - SCMP",
-      "url": "https://t.me/firstsquaw/194823",
-      "ts": 1795262429
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "🌅 Market News Digest: [Nov 20-21, 2026 EST]",
-      "title_ko": "[11월 20-21일] 글로벌 증시 주요 뉴스 요약",
-      "url": "https://t.me/marketfeed/1083194",
-      "ts": 1795262494
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "From ChatGPT to Claude deals: Walmart looks like an agentic AI winner",
@@ -11504,6 +11490,20 @@
       "title_ko": "삼성 준감위, 삼성전자 주주환원·증여세 논란 이번 주 심의",
       "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445919",
       "ts": 1795388384
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "KB證 “LG, 주가 반영된 ROE 회사가 제시한 목표 ROE보다 낮아…밸류업·AX에 주목”",
+      "title_ko": "KB證 “LG, 주가 반영된 ROE 회사가 제시한 목표 ROE보다 낮아…밸류업·AX에 주목”",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/11/23/6Q2OYKJ5FNAGNFKH46SEZTPHLQ/",
+      "ts": 1795388467
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "美股期货高开，纳指期货涨1.8%，标普500指数期货涨1.1%。",
+      "title_ko": "미 증시 선물 상승 출발, 나스닥 100 선물 1.8%·S&P 500 선물 1.1% 급등",
+      "url": "https://wallstreetcn.com/livenews/3203787",
+      "ts": 1795388535
     }
   ]
 }
