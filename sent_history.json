@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795306240,
+  "updated_at": 1795306388,
   "id_hashes": [
-    "5e91243771c2a4e93810f207e5a4350d66d350573f7288ae69024693a0ed93ba",
-    "5affb21cb1f072e33edf2cc8b5099671f870725bf4a7f1d07babc10a18882f0c",
     "101b25374fa361a825175712bf5a017af1ff97dd9f9216dc8436e4fc6ce2b3ac",
     "d3cb2cd946956a676e09e25c2056ece78401b64edcf8a3ff75bbcfd173e2391b",
     "c89a1c1108b32b58324e9c831b58ead0dbb417eff8f158095759ed37505dc24d",
@@ -4000,11 +3998,11 @@
     "624020da0f6794397b9c4d7f50daa998ea566e19438c8e7e3c8af4e23a87dc53",
     "308bc5fe11264801ad33cd47bbb349244b4e442e2be7f448abad4ba51f2c0d74",
     "7bc655b31b61dc14e09337f47e25e55b5b066f0658731599df46c0f5cc5db906",
-    "16665ddddc4e38d666cb18560f50ac6aba34d1e52a63fb84dfcbb351798b3c43"
+    "16665ddddc4e38d666cb18560f50ac6aba34d1e52a63fb84dfcbb351798b3c43",
+    "28111d5020b221107fda758b5ea07aa5d8d1db1859174ca0849ed9297e35dece",
+    "4c0d8c567f4145f6366c98eee1f0cb1d68606eefeb32794e848bfc5ca97db3a3"
   ],
   "title_hashes": [
-    "b6a773ee5a75e42b84d927271d5e5acf6b77033c0a1cd53345cd19c35583fdb4",
-    "1cb29e49d082d7eb5634eb5d193fd663f88559d5b676c65743540e090dc8bc93",
     "52dbe001f1189dfe239f4e242644cc0adb9caf141591a70cd2c9bf36ba589ef0",
     "8b6d01e33e218adb5bcc30549c155a758451c7c7d64940011daffa53e5246008",
     "bf0ae567250a593d3c89f30c25acd90f50b30a673a1d17d57ad6f3dd7a21b906",
@@ -8002,16 +8000,11 @@
     "72ac22a5e1363438a1d36de1e082396963dea34eec7c811b0463e99a151daa19",
     "7a69bbe51da7938cd4e3fa3bff567bcad898e8ba52e2f9da312f5620866858fe",
     "24007df0d9c10c63b7a75d842e63aa7de857bd0c122437e2dd5df344cbdf2d36",
-    "96c55640da8c48a66f2da12a78516df233cde1750f488b774081d7563a4418bd"
+    "96c55640da8c48a66f2da12a78516df233cde1750f488b774081d7563a4418bd",
+    "e8e214651707d6317d3849f0fed75e7d99dd8081cdeb0fe1c44a987d6e625094",
+    "a7cefe274008dadd0b0ab6f9a2664a4b8f099be51a80e3c39a2423d3595f6ec2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "🇺🇸 $8.9 TRILLION ERASED FROM THE US STOCK MARKET IN THE PAST 45 DAYS.",
-      "title_ko": "🇺🇸 지난 45일 동안 미국 주식 시장에서 8조 9천억 달러가 삭제되었습니다",
-      "url": "https://t.me/marketfeed/1083016",
-      "ts": 1795208814
-    },
     {
       "source": "Barron's",
       "title_en": "Housing Inflation Is a Bigger Problem Than Official Data Suggest. It’s About to Get Even Worse.",
@@ -11504,6 +11497,13 @@
       "title_ko": "레고 베트남 공장, 배터리 가동해 재생전력 75% 충당",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZU1vTzFBeFdIYnZxeWpoUmJ6cWZQcEcyRmE5TmNCNjdNVDBDem5VTENIMzJIeVhqaUlQckczcm5lNGU5aTAzdmRmT1NydnJzWUhRWWVfUnZfZ21VWnN3MWZFNFJjeEZhODJhRDV1UEFYdnFITWYtMUxjSXZROWQ3ODd2bnNmQVVq?oc=5",
       "ts": 1795306112
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "UK govt: UK joins 10 other nations in NATO starlift program to build network of adaptable satellite launch services",
+      "title_ko": "영국 정부, 나토 위성 발사 네트워크 구축 위한 11개국 연합 프로그램 참여 공식화",
+      "url": "https://www.financialjuice.com/News/9863187/UK-govt-UK-joins-10-other-nations-in-NATO-starlift-program-to-build-network-of-adaptable-satellite-launch-services.aspx?xy=rss",
+      "ts": 1795306387
     }
   ]
 }
