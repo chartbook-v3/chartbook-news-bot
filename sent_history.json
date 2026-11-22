@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795357933,
+  "updated_at": 1795358086,
   "id_hashes": [
-    "97047b636315052f76dbed4433eef07b422fd88e8655889e59f69fff129d0b20",
-    "a8779199708728b11dec90059194aa5e94240cc52d25a371384cf7c9cb6534ce",
-    "38835aa3ad08567b45255385c4a37383329dfc6a604832e40db7751536f0046f",
     "ecb4ab7b75d462e0bd41c3fa1a57d7585b94a2bd431d7146056b0d31695d7c55",
     "63d9786c42c4aa7be0cf815ec38d6f963843ea58dc437bdb326257ed4df5e2d2",
     "d95ab3040039757f459e412f870618252332df5730f720fde6cde615ec5237af",
@@ -4000,12 +3997,12 @@
     "e3e37ff8d9b41e81f9c9844b6ca403a12d308ae704bba93d7414c47837632eec",
     "c453a80f694e4864f4f610b530d7d6c38d17c5c8c295e7ea0469937834d97604",
     "643afdd9286fcc8cf34ea9943b8f4b2f1b843b1432cc3a5c90135f410bc52f41",
-    "0e7151f3c463c45c79703a7515de131c56450095cce6e82f697bae02592f392c"
+    "0e7151f3c463c45c79703a7515de131c56450095cce6e82f697bae02592f392c",
+    "2bce9cc1eb472a20cc230e983f958bdbada851c4363522fdd7838b74c4c8ff53",
+    "721f1ca69e72310a4e9e11f215ddbc7595ddc119a4ba7c7e496766c0b0acc030",
+    "4f4b833a42d5e10a43ba80a82ef8b2fab82bb8874616cde16e09d1c4b02d63b4"
   ],
   "title_hashes": [
-    "37b578ef109e2e04bacc9ff7288e2428830cd45ff046de2b0abe518a030ac6f6",
-    "2862d6820a1488eaef872fee6de3ce2e13ad2f16ea49e488404965f86ab33d1d",
-    "12ffe7db5f2ea41b15aefa7dfe324e1c5ea5af6e6065425355500cbb6fc064ed",
     "97d6ecfc9698303947f6e291891433eecfab164d2246200e8de8b447a198cb86",
     "9aaf45631c9afd5421f8965d3560affee9a7c61382c120cc1b49371ef614a3c4",
     "a03bee036c91dd2e406ee71c74b83ad280b8b24dd7efbea8f28b8e0b64bb065f",
@@ -8002,16 +7999,12 @@
     "8aef84f1b10b18ae4e7a8fe7ba9876395164b98ad50790ca254197e4afa5edf6",
     "a00f084b28406e4291deeef575aabc9a37b77f1e22e34615a97cc06e4f400a5e",
     "3803204b10bd9e516b89ca2f82302316b0a7ada0518905e9801d5496373dfafa",
-    "b63fa3e9202844b5b2d0bf880cf118c5c028fad98a590ecee9d5b7baea866328"
+    "b63fa3e9202844b5b2d0bf880cf118c5c028fad98a590ecee9d5b7baea866328",
+    "109c3c4991a884f529a3c948df3118f9dbb4fc1158e26ffed2c41eed8fb21ef7",
+    "8a460355e58315623941cff747ebf97ab0265a91cb5a3e012aff088332adba2a",
+    "ede4a81e467d54b2e9ea490c2d72bb0a8a81c8f70a0ddecf4bedd522f7add663"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Oracle's Abilene facility used to train Astra-6 is almost complete, with the Shackelford gigawatt-scale campus fully permitted",
-      "title_ko": "Astra-6을 교육하는 데 사용되는 Oracle의 Abilene 시설이 거의 완성되었으며 Shackelford 기가와트 규모의 캠퍼스가 완전히 허용되었습니다",
-      "url": "https://t.me/firstsquaw/194774",
-      "ts": 1795240428
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Kuwait's 'AA-/A-1+' credit ratings reaffirmed by S&P, outlook stable",
@@ -11504,6 +11497,13 @@
       "title_ko": "엔비디아 AI 수요·알리바바 칩 압박 등 이번 주 기술주 주요 이슈 요약",
       "url": "https://www.benzinga.com/markets/tech/26/11/63517079/nvidia-alibaba-walmart-pony-ai?utm_source=googlefinance",
       "ts": 1795357637
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Pony AI Results Show Just How Big Tesla’s Robo-Taxi Fleet Needs to Get",
+      "title_ko": "포니AI 실적 공개, 테슬라 로보택시 규모 확대 필요성 입증",
+      "url": "https://www.barrons.com/articles/tesla-stock-robo-taxi-pony-ai-3c97ab99",
+      "ts": 1795358085
     }
   ]
 }
