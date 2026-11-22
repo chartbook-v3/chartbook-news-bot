@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795332118,
+  "updated_at": 1795332269,
   "id_hashes": [
-    "7fc880d09113c5a7f8ff01f1093c3160423af1b378e66818d2c7e8efbb1c057f",
-    "35cf4edc87fda5ebee5aa004cfc39ec699575930b94a46d01f1f9d1471d67299",
-    "af4d16fd1f624fe220d577cf667a877d0f6bde2338ddbcf14d69d27545759158",
-    "cfa9dc356d6c173ab8783c8a0b12c30469153fa13d2e79c7228c91b70669fd0a",
-    "5367ec88ecfd31e06ef5c67a50bb44fd989bd9f4d6f576485a051f73c07040a3",
-    "5157896b9f52172078d3937afb0ca4d900c3bd5c5c303594fdf0ca9e78395786",
-    "3980c2cf5c1717be364eba1c4b854c74b91e0d322463500905d7a0c7af9a1732",
     "4a18542fa7fad8cc21f56bd61d385e98eb86bbb7e883d67b8beff098fff8e900",
     "6df4a51a5cacd58c670629f737c142a75fea7c451964dbadcbbaf9aecd6d99cd",
     "42a6280930cdfaee9416601ff04adc0cffded4cbd44b91d8bb69046cf802466f",
@@ -4000,16 +3993,16 @@
     "cd0c3067bb3f1424272ba4b5d13a6c4ed16ce74c0e755dae2464b944204b486d",
     "289679b1df1829267bc016597d6c495691d8d07aa7a0e92a55e8081af27ee30a",
     "41b71ff394ec64790a31b59a429645ddd45279b970a1b067daa1b08374c02bd7",
-    "03e4e287e8a897b5ad0ca23f519b0bd39f15e4c1788d903376951c4c73a0e620"
+    "03e4e287e8a897b5ad0ca23f519b0bd39f15e4c1788d903376951c4c73a0e620",
+    "b186d35deb8ef4b394752dfb5a6e47d3a3c772c249bf368422593dcf6c72e49a",
+    "8d1959aac62cf889ad9a7977d497fb6e0592c73841c5de51ae1b93657e2d6b1a",
+    "abefd2571c3db3ae19134dc6607f9281988dc8526a35a4f848ba8c28de04d8a4",
+    "fc286593ad2e8ca95e8b77a9c7267e4f1467c1d1e6db66d3bb6e3325f7b4a39e",
+    "74b49f56152762444059264e981d91ac33c518f81693ca9bc91d38a1d968307c",
+    "c5bab64fabb06ae53745ddae015e5dd988d1cac69dea71f9b4b5a13b18de6553",
+    "d45687d4fe8cb8e624e6ea00226260008b7d637dedfd3e74563c78564005d748"
   ],
   "title_hashes": [
-    "490586d1ba82f19118a826d87420aec4b57d8107580fb08c2cd826b1e0afd786",
-    "5d7e270511aa0bf13c0b1a1dad4c1ef8a3408eb8a01e1d5dcfe4cb92757ba7f6",
-    "3566180dd2c72b40d429430cd30839a2db7dbe8fb27354740acdfa14f18eeae8",
-    "a86e5e8bfcdd828df0e7f49fe82ab8381e86ec2b61b94abc393444a5745cf225",
-    "809abd1d950db60da2b049317d07b2dbdbcee95be9e89258926e82c2af206852",
-    "f208b38a61a20cfa2631c1a2b435c5a0327cf440f5eb0978a4c0782f2467b01c",
-    "52a7f54bd80df92b4b63221e0bae9c9b58e074143d879ef7d173d5fff4974947",
     "c4e43cdff3306263d7aead400382b6f46a2755e2f7290ac48ebf39d03f7b2119",
     "44344664ed531b69715dabb8d3ff09f24013aeafaed077befa02bd281427d668",
     "2c7a109ce75e6c8a95620d1389f476f95b28302b2f9d5ef0d7c3f658c008141d",
@@ -8002,30 +7995,16 @@
     "3932c79ef5795f56c50122ac40e441b590db2a9eb63fa97f5be46b66fb3e9467",
     "440ade96ca30fa9f434a9fed592acb5366250cceaf2ab2f1ebd1394f221e8657",
     "c12a3ea187916130d79a40210b2281ffa7677584caec72cb57e42187c0d4d83b",
-    "5ff91700baeabf3df6d1475e464faad96719b9bee6733046a4b07f4dadba63a3"
+    "5ff91700baeabf3df6d1475e464faad96719b9bee6733046a4b07f4dadba63a3",
+    "4597ef064c4be92dcb8180ce00c61f80372b6d439a2340569bb7afedc1a8f9c3",
+    "cb431eaa2b2f740372359fcee88d5c1ff4f53cb3dd46c75f4a147da61dc0d89e",
+    "e1c731eada56b6a661de584da56e055522e7af417762dc61e63f3ea493fdea5d",
+    "d725434647e55b60b43dcef818f146ae24247ecdb6152dbc4b82f7c41e22713c",
+    "e38a6ef4a51512cab2b6196a522e0cea761a60effc887754adc164c2f6d40c8b",
+    "74c6d27d4d18b9cc2ea7d64a029cc6feeb032f7e249447157b1291165020b6cb",
+    "c159eaeada4a1f19c2374e766fa2654ca99d13dd23e04438413054bc5a7391f4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "글로벌이코노믹",
-      "title_en": "대중 무역수지 4년 만에 흑자…반도체 빼면 적자 확대",
-      "title_ko": "대중 무역수지 4년 만에 흑자…반도체 빼면 적자 확대",
-      "url": "https://www.g-enews.com/article/Industry/2026/11/202611210907251555112616b072_1",
-      "ts": 1795219936
-    },
-    {
-      "source": "지디넷코리아",
-      "title_en": "로크웰 오토메이션, 애질록스 인수 추진…피지컬 AI 강화",
-      "title_ko": "로크웰 오토메이션, 애질록스 인수 추진…피지컬 AI 강화",
-      "url": "https://zdnet.co.kr/view/?no=20261121091049",
-      "ts": 1795219940
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "美 증권위, 엔비디아 회계 정밀조사...수출통제·반독점에 설상가상",
-      "title_ko": "美 증권위, 엔비디아 회계 정밀조사...수출통제·반독점에 설상가상",
-      "url": "https://www.fnnews.com/news/202611210840440125",
-      "ts": 1795220099
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook",
@@ -11504,6 +11483,27 @@
       "title_ko": "로스 거버 \"앤스로픽 주가, 인내심 갖고 지켜봐야\"",
       "url": "https://www.benzinga.com/markets/equities/26/11/63516705/ross-gerber-urges-patience-anthropic-stock-after-record-ipo",
       "ts": 1795331482
+    },
+    {
+      "source": "K-우주항공",
+      "title_en": "UNIST·KAI, 미래 항공우주 인재양성·공동연구 맞손 - 울산매일 - 울산최초, 최고의 조간신문",
+      "title_ko": "UNIST·KAI, 미래 항공우주 인재양성·공동연구 맞손 - 울산매일 - 울산최초, 최고의 조간신문",
+      "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1070845",
+      "ts": 1795332143
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "\"엔비디아 칩 中 밀수, 앨리스 황 배후에 핵심인물 있어\"",
+      "title_ko": "\"엔비디아 칩 中 밀수, 앨리스 황 배후에 핵심인물 있어\"",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445894",
+      "ts": 1795332146
+    },
+    {
+      "source": "The Information",
+      "title_en": "Annette McConnell",
+      "title_ko": "아네트 맥코넬(Annette McConnell) 임명",
+      "url": "https://www.theinformation.com/u/annettemcconnell2fm4bj",
+      "ts": 1795332149
     }
   ]
 }
