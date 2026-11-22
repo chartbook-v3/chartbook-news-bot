@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795355811,
+  "updated_at": 1795355962,
   "id_hashes": [
-    "a65117c6db72b6b7a1380792b86eb3628e0c21fb5fea42c7d7fdbc9d78a3a9a5",
-    "b5ba1fb603fbd33f94e9e1cf5b3dc7748b38312a3eb0c600856ada300684503b",
-    "21bc9e3d554b4bf2179b7423d2d7e2e1c5596d25f91aea3bce279cc73d499e81",
-    "318074ecd83f2cd7b750ac109534ce2c8e59301e8fa491740e149c18bdc1c73a",
-    "46cac32b18bb75e93b1fcab56bb71b1026980f088821643fb02584d3108b494d",
-    "5aa36db7e711f85f472e2c55a07dbc3eab165cfc08a2e7d47cfc11065abab7e9",
-    "df231160179c2ee7dede1a6f7eaef05523cc91afb70506c210225438c32ca164",
     "24565a8f10642d402205d701a3b0a817eb4418517e02dcb1e5f5d40f984cba6e",
     "9fb8e883c325006bb2d6ba8702ef2a4ec386366bf4b0838ff6d33bf75b06371a",
     "21826d1cf01cfb1d5b0e8697adde5a81fd4852f720cab5509368a01b8a49c29c",
@@ -4000,16 +3993,16 @@
     "3f8236918d9a62079f0a8bbce4ee877cc9c7a1fb005688a42250f40486547fd8",
     "d9d27f1314561c61863c4d085599531463f6248993069a2054d15e0939a38a9d",
     "5ff3f795405022df8bbe7e92d18ad3b5a00e3fb20378bba690a4cb36addb8a21",
-    "e06e784641fff4e1b19689ba248fb521f84c136d8043a4b25d26ae19fe6f1440"
+    "e06e784641fff4e1b19689ba248fb521f84c136d8043a4b25d26ae19fe6f1440",
+    "82b689dad3be815857bee22fb8daa87d392d517b81c016b11d5e7fb211de0811",
+    "dd14b577fe4a2c87ad462435007fbb41254c7b80aa282c86bc00be8872752027",
+    "69929887ef3a3f5c1641ae9f0dcef6bee8c24d080a6d74e8884442eeed88f595",
+    "0054660b015fbaf4ccc20886a730c873ef890af713a641214dec629502c9dbad",
+    "a83f2ec6a1431d0723bd65a564a09b91eb4ad3632fc63d9b2651cf8478e8f117",
+    "e7f8cb540e22c3165a311e1890c84f353792534e137c3d36182d2bbc326e622e",
+    "e10fc08cc889cdfac86a7b69bff40f11486db7eea070608d026d37edf0e3ee99"
   ],
   "title_hashes": [
-    "ee0d1171a377f9b3de44811e3a3e274525d46dbc64e780e31208f99ebb59b9ae",
-    "0eaf8ba2b521bfa4e6db0309a5fb5ed19205e2d16366a13d987e1f95513fa87e",
-    "e2fa42321f9a3c0e80325a981d7dd3454f3140a1ab340bea98c0c919e4092207",
-    "ec58079802098a15e203a4dcfeb16854b5d68e5fd305655935be38e830fa7bbf",
-    "d88eaaabb8d76d294ac24f9b5339ef10042f123ef38794119854c89ba6671a4b",
-    "f3ce7a9b639c7ad6fde5f4c27ecfc9160d8e2c5c76a4b27d267c9fcacb7c3dc1",
-    "bb876fd7b974a1999097ceb391afee35a002b637136e42ab9728511e411c3602",
     "33959941983333d7927f50b98dfd1bc4c8ee42b0a39dac849e80d97f8ece83e2",
     "a95e722984c3b98901e4273d327de4761b556e422f2729d919f43f0a9d0b6100",
     "48278647bf0656564e7f6ce4e47f4f94fad0ea4ea0a98dfb0b459977ae1d4a0c",
@@ -8002,16 +7995,16 @@
     "f4b5fd8b50dfcaa7bcf75d8d61a0ab34e46c9dc475ef2d42338bee4fc595bdfc",
     "4e21a30a80bb2eb005758202d1c8bd0e7405bd379e66486208332250aa7ad2e7",
     "3586653977661120aa6b1a4782eb456df596c62ab4550a51465b53b29e7df7de",
-    "cad3ed42eee6e905e12bdffd0801ae2f314c77f434ce243ee5bb07f787a1cca9"
+    "cad3ed42eee6e905e12bdffd0801ae2f314c77f434ce243ee5bb07f787a1cca9",
+    "e459f8e735f4ba4c0d8d9d3fce9ac7da0ae6cb5214f4da613039edf248213c7b",
+    "14a107b053717f4671f7c4e28a3fcfbdd8841c53feb02b05d4cd280c0164456f",
+    "9a7bdf73fa0d8863278ae0a4b9008f12db6bcb114f247246505a8d9faecdf467",
+    "b208701ebb1b213ef8255a74f28aed3f6263581baab4a2e228f0b0310d89c24d",
+    "23cab9fd41b73babfa283278df3a41f6764b2399598e7b0fc8f10554c0a66cd7",
+    "7d7a40c7377c865e0164d19c6f6164f16a59d1e955eacfd0b48f1fd31854ebff",
+    "e861a7f53acd1b5ca8ff1487047adcd4e4d3909d357f860999a5f6d1825b6d84"
   ],
   "recent_sent_articles": [
-    {
-      "source": "StreetInsider",
-      "title_en": "Goldchain DAO, The Oracle of Blockchain, Advances the Future of Financial Infrastructure",
-      "title_ko": "Goldchain DAO, The Oracle of Blockchain, Advances the Future of Financial Infrastructure",
-      "url": "https://www.streetinsider.com/Globe+Newswire/Goldchain+DAO%2C+The+Oracle+of+Blockchain%2C+Advances+the+Future+of+Financial+Infrastructure/27382862.html",
-      "ts": 1795240326
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Zambia faces some fiscal setbacks in 2026, with S&P expecting consolidation efforts to regain momentum over the medium term",
@@ -11504,6 +11497,13 @@
       "title_ko": "우크라이나, 미국산 푸마 드론 500여 대에 자체 개발 재밍 방지 기술 적용…작전 반경 31마일로 3배 확대",
       "url": "https://www.tomshardware.com/tech-industry/drones/ukraine-revives-its-grounded-fleet-of-500-us-made-puma-drones-with-homegrown-anti-jamming-tech-anti-jamming-upgrade-triples-range-to-31-miles",
       "ts": 1795355810
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "This Week in TSLA: Cybercab's Deliveries, SpaceX-Tesla Merger Talk, Model Y Without Steering Wheel and Mo",
+      "title_ko": "이번 주 테슬라 이슈: 사이버캡 인도, 스페이스X-테슬라 합병설, 스티어링 휠 없는 모델Y 등 주목",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63517090/this-week-in-tsla-cybercabs-deliveries-spacex-tesla-merger-talk-model-y-without-steering-wheel-and-more",
+      "ts": 1795355961
     }
   ]
 }
