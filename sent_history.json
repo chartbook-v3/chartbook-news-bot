@@ -1,7 +1,6 @@
 {
-  "updated_at": 1795351238,
+  "updated_at": 1795351393,
   "id_hashes": [
-    "4427ea44d70e860c2f804b75bd23167cfc1efb2aa9061a2b6759baac0cf5add5",
     "935153ebaf032cb6fc2dc4a9aea907cd213deaa99f2ddab69012cef9cb37abe2",
     "d52412333559804e4a12e63d19cb7be1bf32f36bc15dca98486f35565a559926",
     "39a711b71c7cf167677af01b9cf7848da68503100805ba96e55b1d1f4d5ef446",
@@ -4000,10 +3999,10 @@
     "7d3205d51c5d3ac52751f42a215d490f98f929150c8bb093d4ffb44e28469ca6",
     "d2ed1da333cd15337e78197c70928c60ac050f40821937b66255cb5a2bc4ef1b",
     "1c1a538547388e601899227943588df50e37d6f011ae282088412f4bb786aeb6",
-    "407c51df7c062ea59f169205ba6eb43a56bd79ccca84d5d3a1d18ef5081e6368"
+    "407c51df7c062ea59f169205ba6eb43a56bd79ccca84d5d3a1d18ef5081e6368",
+    "0a7c46abfb90f8b44ba426bbaa6b462ba1a1d48307f59d039c1a7a342f7ef33f"
   ],
   "title_hashes": [
-    "15a20ac559b0d30475b0904e2f3f60ad0a309ce4799901b2022791e924cdafe2",
     "c28657a1bdafe91fface3ddc058a0e72089581014c3f3d9e994bc67d57e69a55",
     "4d12c11e7a57531e2bd06a832b62516f982660132e340ea08e4adc9692979195",
     "00212253523d048cf7d9b71657ced959b5bb53e033ee51f5c0b4586cea954156",
@@ -8002,16 +8001,10 @@
     "e5052364e31a368761f1620ae20004d0490db14ef9e8ea911c112daf65a1c76a",
     "8eb2b6434f295f2e33f4104563117578b99c83a96f90c587bc13c64386026a53",
     "40bc49dc53e7c6919c16c80affee2136fdff5252b62b081c130b55731221249f",
-    "86f9873e5520c549aa7a8bbea5bf3c2161045858ff5769aeb4ccf864faba778d"
+    "86f9873e5520c549aa7a8bbea5bf3c2161045858ff5769aeb4ccf864faba778d",
+    "eb14eccd55211780fb3452680e8df0e81f937dca52bc428d6d35cdc236bd895b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "UK’s “Baa1” Fiscal Strength Score Highlights Elevated Public Debt and Below-Peer Debt Affordability, Moody’s Says.",
-      "title_ko": "무디스는 영국의 재정 건전성 등급을 'Baa1'으로 평가하며, 높은 공공 부채 수준과 동종 국가 대비 낮은 부채 상환 능력이 재정적 부담을 가중하고 있다고 진단",
-      "url": "https://t.me/firstsquaw/194748",
-      "ts": 1795239185
-    },
     {
       "source": "FirstSquawk",
       "title_en": "UK Debt Affordability Is Expected to Stabilize as Inflation Cools, but Interest Payments Will Continue to Weigh on Government Finances, Moody’s Says.",
@@ -11504,6 +11497,13 @@
       "title_ko": "앤스로픽 기업가치 급락에 책임 공방 가열",
       "url": "https://seekingalpha.com/news/4675405-blame-game-emerges-after-anthropics-ipo-market-value-plunge---wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795351090
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "\"中 국가안전부 '엔비디아 스캔들' 2년 전부터 AI 반도체 확보 작전\"",
+      "title_ko": "\"中 국가안전부 '엔비디아 스캔들' 2년 전부터 AI 반도체 확보 작전\"",
+      "url": "https://www.news1.kr/world/northeast-asia/6362162",
+      "ts": 1795351392
     }
   ]
 }
