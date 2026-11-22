@@ -1,21 +1,6 @@
 {
-  "updated_at": 1795327073,
+  "updated_at": 1795327224,
   "id_hashes": [
-    "45cca842aff4807bb2fc37119786ca0d076aeacd625da51c821e5282d5f5a8e3",
-    "9b5a35bc340f162bdd2a4e1d853a3fd6437850a6e88a3d12b66d38ed28138214",
-    "fb9f2ca5ccf3bacce4cd1fd27d4073d44c19fa21dc64b4134b2a5d505cfe4b9e",
-    "7f6a360847695335a7367275dc271893691cb082a0a17b909975df09501f465d",
-    "46fc8fe2ff05e3baa6fa05e0afeedf1224b55e93fe2e32c701f834d62e8e9bad",
-    "9ac5394d5acc4349263bc12c89706677d82619cb838f642b804facd126729f1f",
-    "3b32acc3a8d84ed4fd59d01d6354dfd27312fdbfa0394210efbd23d9dd695af2",
-    "cedc9bb4137c5cf09b0ae8685cd5cd032e8705aa5d59e06f7b3200be3c04cd23",
-    "a415bda2a75c9eb941656e0cbf9084c130f4dd85fefad97e4ecaf027a145523f",
-    "b9c5feba925f24d24cf969f67a52f52c0e133aa5375c2ea818a789fec276101d",
-    "44303b73ac5bd9322b98386f35e65323d8f5af3de97434e5311d7fec4e42e67c",
-    "61480b06b40f37d24165d16e88ca5e9a2c4411b6fd52ef7153833ec4e2627f69",
-    "1f5e9d1f6229a7cc81dc4a6ec7be9c2978967686e15f2c0797ecd32b460ac1e2",
-    "c1cc9d9b687095aeff6a8d94d9153a3fe34717cd593ff20fe859333ef74cf394",
-    "56ab50b0d8a08b0027ef8abce179ad98348affc115bfdf8cee6f72b35ccc783c",
     "26696a249545e5fba710ddcd1be7587c4f0d4128f8b481cf50c81eedaab0fd93",
     "378a87f97ba5135657f6e6000e62872dd6ed187771b57ff2387f65b58b050986",
     "427cf96201e407bb32f00aacb1870f9e3085701f98cf35c57047935081dd9970",
@@ -4000,19 +3985,24 @@
     "a05911897a46a287971a6850ed71f00dfc33070f78a3d4377d22015cb056839c",
     "29b22e7888669366e82e9da4872a76ab2710068282a5f436eb90851c051c64c1",
     "62659371b48e561a7b1bb730bb5965a9da3ec6d59c9da3c948e4f8fd323b66bf",
-    "8bf3c1d5b1e4ec7a7ad7919abdf72e1ec0669f8db77d65bc8bb461cdc3ffa68d"
+    "8bf3c1d5b1e4ec7a7ad7919abdf72e1ec0669f8db77d65bc8bb461cdc3ffa68d",
+    "f034ccfc3a42114d47386fffb7e967fb414a55974e11840de4dabfc8b8650212",
+    "e251a6d69290163576a5c033d627a310a4c2baaa2ad316bfd7d14d9394794d51",
+    "5aae32bc0069afde5da45324ffbe6eb517294ac651c42e1673da963018e52be6",
+    "78d8062a0bf1117dde6601b2bb4afb18c131d12fab2d70a2d08cbf0fbb76f014",
+    "824687ddb31f599e64c8d8780aecc18790e9d2e13847b2fab397e24142de7bc7",
+    "116a640f1d6e53607153426e63b010ddfb0fff63c4c840c8e48a437e3361836f",
+    "5bfef8eeb34e57798fe564f80c1b22602cd158c351d0430018e458b9ce3da017",
+    "0cf26c15fc6032efe07b63eb917fa44e06fb0833d763f35d557bc8caf9a9e741",
+    "f977d8c40082845f0cb157056a8800b2052efb5b97aaa49bc134e58fa6327b42",
+    "ee8764b819e7dda6c455db77f88c53f0ca733354fc226c3ab3b140acf792c85c",
+    "04cfe5a2a0cdd910bc2499ecd0e70fefd6772798f88c64ae94e2c558ff351db7",
+    "202ebd4476cca7c4b9d15feb115cba99737d8a8c1832cb76ac4fd47a4f2bfce4",
+    "e1dd71067db639f7d37ce940c0c23b731bee9ae603c81b07382d362519247716",
+    "c650b89472044644344230c4a7d840a985e6990d2c6a29bdd272567d4633e315",
+    "47953ce7e9eef7b97f47a377ebff97c56d2291ddcc31eba57e0ac6c9345ada62"
   ],
   "title_hashes": [
-    "eda437b8de9ddc051794ba7f3230e21ffb5e9409682404307442ba12f64df443",
-    "4d66a4961079dc6efbdbb248b39f64dfc35956c7ed223985061a83d01debbe3c",
-    "22b97a3c0bcc525b65a09d8dde098be63e7f17ce5b49f9aa9348bba542c715ef",
-    "122dfbeae49599fb413f682a1f84227a7c52b144f17c996cb368117c37f37aaf",
-    "895e70d7baa63ed5bdd95f4b8e000200993e1c4ee14fc0b8aa99d9f77a2ffcc1",
-    "0cee8ed34c94952da89ab720331d04ef3c632ff7185289cb1daa7e90b05616c4",
-    "808b90e4b6e28652fe885ae8f64aa5649c04fa9021371bfe4806834baeda4e1f",
-    "f75368a1d4817e8f2bc880825cab957530088823b6ffef3a5852d0e7ab01e9a5",
-    "4bd6f29086b9a4c5e8311b0ea236a501fe9624c1232d26cd3f0784e8ed8de201",
-    "8208182b53dde0979cf69373a56b998de240ff1213f7c1175765b80d833691b3",
     "da0268e3942e9d8ff757300953d42ccf76e2b16fdeba6e7a8719cc05180dc26d",
     "b7006ff8ab17947b0931436f7e9caff009387151d54bc7d026d3feb9f5d55229",
     "0dd27805cdd22370a39974bf6b1821c50d307c26ae7e0dc6451f3423e248e7b9",
@@ -8002,44 +7992,19 @@
     "e71a53e8588d1c560e97f43244c0a3c4fdfaec7c0f9749c4fb5e1a75c716496b",
     "5f38fbf05ab18b516598ff266e6cb4928fcbfb2587e16f4c5ce5820a7c37bb9f",
     "ac51b9dbbdf25d1715457dab16e7ade788d3e84ae4ae4993b23c7a01897cd6b0",
-    "f6004c3fdc7cb1b5c1be3376ca46d8bb65d929f74b0e3e2b0e68c50959bd15dd"
+    "f6004c3fdc7cb1b5c1be3376ca46d8bb65d929f74b0e3e2b0e68c50959bd15dd",
+    "767840e45e47a10adfffcafeff50c3f346c5f59a1d55f75f2827ae288aa001e7",
+    "faab49acd16d7c4b6221836099dce7fb752ba4374c67a91b1331f9171fc1cb88",
+    "41b678a141ea2a46155f16ee85203b6bd7fb1b3929d0b887a11b12092cd82a09",
+    "b0ffab26e75a16514014c934736691c24915ff3ae63b252c5a24e0d23c584b8b",
+    "f13097d5300b0a8a785914c36c0ce06dbb03fb9a858fede70e5b38ef4f2054fe",
+    "c61c060a3f8f61e78750da98237f886e3edda105f0bee3bd6151d29ea1036785",
+    "a03f764a2897fce31f5fc08148fd5c9f4dcff88fe8d228d6df4910b26c37d3b4",
+    "3885553b8761ab3687329e872a620d1e2b4904c8f7ed4f218906c76a66d498b5",
+    "634e583452b65b692bab187a3730c60193efa3fa62e0ccf093a25e7d1382ab42",
+    "4603e473d91565c9ce34a5a5565b172085e4bf4799fbb8ebce408f3ca5e51aaf"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Nikkei Asia",
-      "title_en": "Rubin prize puts Bhutanese contemporary art in the spotlight",
-      "title_ko": "루빈상, 부탄 현대미술 주목",
-      "url": "https://asia.nikkei.com/life-arts/arts/rubin-prize-puts-bhutanese-contemporary-art-in-the-spotlight",
-      "ts": 1795216006
-    },
-    {
-      "source": "뉴시스",
-      "title_en": "KAI 미르온, 육군 노후 헬기 대체 본격화…유·무인 진화로 해외 공략 [K방산 오디세이]",
-      "title_ko": "KAI 미르온, 육군 노후 헬기 대체 본격화…유·무인 진화로 해외 공략 [K방산 오디세이]",
-      "url": "https://www.newsis.com/view/NISX20261120_0003876949",
-      "ts": 1795216133
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Araqchi says Iran wants diplomacy to end war; Trump says terms unacceptable",
-      "title_ko": "이란 \"전쟁 종식 위한 외교 원해\"…트럼프 \"수용 불가\" 일축",
-      "url": "https://www.streetinsider.com/Reuters/Araqchi+says+Iran+wants+diplomacy+to+end+war%3B+Trump+says+terms+unacceptable/27382691.html",
-      "ts": 1795216430
-    },
-    {
-      "source": "이데일리",
-      "title_en": "[오늘장특징주]앤스로픽, 엔비디아, 유나이티드헬스",
-      "title_ko": "[오늘장특징주]앤스로픽, 엔비디아, 유나이티드헬스",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=01653126645648016&mediaCodeNo=257",
-      "ts": 1795216597
-    },
-    {
-      "source": "Barron's",
-      "title_en": "The Case for Buying Nvidia Stock Now",
-      "title_ko": "엔비디아, 지금이 매수 적기인 이유",
-      "url": "https://www.barrons.com/articles/the-case-for-buying-nvidia-stock-now-4647ab9a",
-      "ts": 1795216723
-    },
     {
       "source": "핀포인트뉴스",
       "title_en": "[주간 코스닥 외국인] 대한광통신 티씨케이 에스텍 글로벌텍스프리 '폭풍 매수'",
@@ -11504,6 +11469,41 @@
       "title_ko": "수단 군부, 하르툼 인근 교전 격화 속 공세 강화",
       "url": "https://t.me/firstsquaw/194948",
       "ts": 1795327072
+    },
+    {
+      "source": "FT",
+      "title_en": "BUYERS FACE STEEP AI SERVER COST INCREASES AS SUPPLIERS REVISE PRICES UPWARD BY AS MUCH AS 45% AFTER CONTRACT SIGNINGS",
+      "title_ko": "AI 서버 공급가 최대 45% 인상, 계약 후 가격 조정에 구매자 비용 부담 급증",
+      "url": "https://t.me/marketfeed/1083398",
+      "ts": 1795327092
+    },
+    {
+      "source": "FT",
+      "title_en": "Largest investor signals confidence that Heathrow will proceed with its long-planned third runway",
+      "title_ko": "히드로 공항 최대 투자자, 3활주로 건설 사업 재개 자신감 표명",
+      "url": "https://t.me/firstsquaw/194950",
+      "ts": 1795327154
+    },
+    {
+      "source": "FT",
+      "title_en": "AMAZON’S AI AMBITIONS ENCOUNTER GROWING OPPOSITION FROM WORKERS OVER PROPOSED DATA CENTRE DEVELOPMENTS",
+      "title_ko": "아마존 AI 데이터센터 건립 계획, 직원들 반발 직면",
+      "url": "https://t.me/marketfeed/1083400",
+      "ts": 1795327158
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Capital gains tax reduction needed to boost UK listings, says biotech pioneer.",
+      "title_ko": "영국 바이오 선구자 \"영국 증시 상장 활성화 위해 자본이득세 인하 필요\"",
+      "url": "https://t.me/firstsquaw/194952",
+      "ts": 1795327220
+    },
+    {
+      "source": "FT",
+      "title_en": "PROPOSED CAP ON INSURANCE COMMISSIONS DRAWS STRONG OPPOSITION FROM INDIA’S $126 BILLION SECTOR",
+      "title_ko": "인도 보험업계, 수수료 상한제 도입에 강력 반발…1,260억 달러 규모 시장 긴장",
+      "url": "https://t.me/marketfeed/1083402",
+      "ts": 1795327223
     }
   ]
 }
