@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795390415,
+  "updated_at": 1795390575,
   "id_hashes": [
-    "318c26f208017bc6c3db3a350dcde6d539796c05bb5efb10006de5ab69c38ec4",
-    "6470163e40902ff21d5a4df046505f6bfe250776e14a68ac651c0202671815a8",
-    "62ea9fbc1b8838f41aa25af94272aac46acf5b9d683cb635b9f2613bb7d9544e",
-    "ac761e112fd8d944da77548defc981924ed768e3ae5eb6eea0b934c138971b3e",
-    "71b273498877b2bc536e0a2441931f92977ab2c8a05958d90c91725d0e16d705",
-    "2101cbcff3a1fe6492f0c0e0fd9ad330236663b71f4dd7ebc7d40bf7588595db",
-    "6f516e5a43ee13dbe8f00c5e28500759da683fee21975fcd00b772967c18285d",
     "f83e2b6df910886afe20ea0a03046805adaac6b794fdd56b66318d8a5749d0d9",
     "091f56fcc8bfffd41026819742c38f8bea8e7cfe3d72cfc79d8d50199c73b799",
     "77bc743730b937951ef29116be7dc09bd21f92797f3bdfdd504a40c5ec3d8003",
@@ -4000,15 +3993,16 @@
     "afd7aebc5705d8898249fb495135cf640f0002483c10f29a5bf2dc6764147e0b",
     "5a9171126b55ccadc27194f2566b16f5579868d8788cfa0c6a2e9884cf3fbc00",
     "4f3fe1e8a02f4aef00b8bff9c3e09402a3d57097d9c84dc4fc37b44fd32ec20b",
-    "315327e69c551158eb322f0442ebdcb0263c4a198d2ebd9ac6a25fb2a39bc104"
+    "315327e69c551158eb322f0442ebdcb0263c4a198d2ebd9ac6a25fb2a39bc104",
+    "de74c3ad91d261b3cfd4765df07889875c765b5a69b9fa11625f88e3513e0212",
+    "1596267d05cd15ab097488ffa367cf027176ceb1a7add6d1590bcf209e09a4fc",
+    "4de847c95b831012b525a2abf9076d6c5b633bcd7e10430c267d069f5d869d92",
+    "e3e089924af0c6e69ad1ec5369367d101900cc3c13879c5f2748f9452104e882",
+    "41fef1400e42f665ded746abe96366d4ec1ee542d01d770c214a52b416272202",
+    "c38bb6772e8939b22cb91adb686ed2cdd0a67a0f392556be49bac80c7c801c32",
+    "04eef7b6cfac532091df97fd556f7dd9d347663095332b7d83c1c6631ea6f35b"
   ],
   "title_hashes": [
-    "d06d7ce3bdc1fe0b437c9112750770c1a2e3e3fa4db0d045cd049257c4ef8666",
-    "72bd023cecdae33ef5fdc65406dec7c091005bda26c785cab998a0915f9168cf",
-    "e0e34db4d33739bca223e72b6639ce6f719f3ca5c7ee8673b6692be2d53e8827",
-    "5fd2417aa06349ac69d5fb388299549df920de9455b516744f29696330604822",
-    "41d38728b6c6d61b866a86103dae9e4c806009e30863f183fc457a40024386b0",
-    "7914b0b931d90a0944a120d2814bafd0c919b6d25067b75f43e59a5d790dd0d2",
     "14365f272dd90d61e309f742a803cf76ea705d6a0a96b965fb134497a36d0d39",
     "887d2779e49c30b06092cf17209b4d2d08b7ac85417c5baebd677fc0f6c4a4a0",
     "0b17ccfa72979e89dc74f03b977486adc97df17e7afc49090c24bad1dc3c3920",
@@ -8002,16 +7996,15 @@
     "9a052bab299275c638e3f76e1170cf17b5631ead10844b0df325af5442ff20c6",
     "60aee880184d3a927a6c6f9f8faadba6c52dad4852b1e3aa6d9c43b2ebe4bcd8",
     "5807a0ba2104366bd5ebcdb6a64d737f0d84d29b7d13916a38fe56c18bc7609f",
-    "4403daef155b9fea0fd2515eafd4077095c260956937cb9ea8fd923a9f1310aa"
+    "4403daef155b9fea0fd2515eafd4077095c260956937cb9ea8fd923a9f1310aa",
+    "5423d1f54ecceb08376bd4d7cb609a9fd5de40ad71d5512ef81ad1161cdd0164",
+    "40332a6e17dde188fc26a9819994ee9c9cd78f745898339925f4f9b911c8a2a0",
+    "e3b58dd94380a3ebe17233d2ef983a16ad842e50779d1038bb1237282081d626",
+    "f702936ebb82052153c77ef221b9125d966f04844ea49f0759c388850eb59a2f",
+    "209937105eb4c601dec0ccf6f1f125a44fa825ab9bfc9d89b84d90c31bac2614",
+    "9e863f7db94aa70120e71b04964e08576bd01f86cee2efb0fbd75521786ccfdc"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Clean-up of Downed Crimea Bridge to Take Russia Months, Ukraine Says",
-      "title_ko": "무너진 크리미아 대교 청소에 러시아 수개월 소요, 우크라이나 발표",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-21/clean-up-of-downed-crimea-bridge-to-take-russia-months-ukraine-says",
-      "ts": 1795267083
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Singapore Shipping Corporation Seeks to Acquire Two Newbuilding Vessels for Car and Truck Transportation",
@@ -11504,6 +11497,13 @@
       "title_ko": "“코스피 최악엔 4000까지”…유안타證, 내년 전망 상단 1만→7300 대폭 하향",
       "url": "https://biz.chosun.com/stock/stock_general/2026/11/23/ML5QQPGQ45ETPGH5BDFVA67COE/",
       "ts": 1795390414
+    },
+    {
+      "source": "문화일보",
+      "title_en": "기품원, 군수품 품질 향상·방위산업 발전 기여 KAI 등 8개 기업 포상",
+      "title_ko": "기품원, 군수품 품질 향상·방위산업 발전 기여 KAI 등 8개 기업 포상",
+      "url": "https://www.munhwa.com/article/11633194",
+      "ts": 1795390513
     }
   ]
 }
