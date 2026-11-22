@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795345830,
+  "updated_at": 1795345984,
   "id_hashes": [
-    "0d03142f2d748c33163850c281d75d0cfca069ab33b6f93584a46827f0578850",
-    "8e0c4861c6e021803d4c3e9d37e4cdb88679ce9aa2ad85578671a654510c0f55",
-    "7b54bbb108fcac5e01630d0ea5a350b942d9c4bbfbf91bf3d1f36eb803664968",
-    "5492ed8b8daa763f02f34ef4f99ff1af3ac3c09191329f70f1b575d25bc5621f",
-    "c4c9c35aadd0657918910620890231c70c5a3a4880abf7a7d10b9c1e174948c7",
-    "83402a2e677fa09879dafad7c5f8580b8e3acf0acc8dcfff7eacaea648887224",
     "fb0beacb0fb4f77efcc354f7e388d1b096dd19302c29bf2d8f6927496162b3cc",
     "9302271d74358ff4f423de481c6128c9e1c2ac28acd9d0d9ddeb9fb0e7905119",
     "19f6cc4d757e773dd206f7a4eac66dbc1d0ec10e28c664a827d8aadef26e602f",
@@ -4000,14 +3994,15 @@
     "0e1268c4e6c886fccfee62f4007ec128864fe4e4c62f9c581694e04aab3db2a1",
     "0316353d3a8b2d59d1556baa4322d4992b5d15b95258373b5c218909559cece0",
     "7a670ba979ff56388d9d46f53f7e66cbd928321127f9a5b10433dcb3688e330d",
-    "14606f0a9c3eeb91c2961b0e7d9e9b03bcd122491348226da3624a7b6a7ad700"
+    "14606f0a9c3eeb91c2961b0e7d9e9b03bcd122491348226da3624a7b6a7ad700",
+    "e486a809222ff0ef37059bc892c8792b27933d14c86db7bdc591bf1ea180d3fa",
+    "587f9769c1332562bd1a02241cb4c4924667b025ba3641ebe77851a21521935c",
+    "e7317f7f351cd7d2ba666e8386e4ad0f8e4a6380a54494ace6e3d2c3e3b38b6a",
+    "96ba98dcd88aee1100ab79540d60219ed1e76c96d19b7f9c92198a8d3d264baf",
+    "be019b9cd67f689031271f794222c4c89d3e230caa770bec952c8fdb2915499f",
+    "fd5a1105a4598e95d3b8fb29dc3555ffbfd77945f3f920a82766fef8142fb96a"
   ],
   "title_hashes": [
-    "c6db426ac6bdbb7b33836b46c68b34e2ee30cee7697728aa98e1b7a074600389",
-    "b3af4544dd3dbaf339c61c75eb630efba2ef0ed53fdaf61807892b48ad7d3476",
-    "e7c615b1108bb2740d1baa15578e0978aa67ca70b52d1722b962836eae9c2639",
-    "89413e2ef35021b22b9d44f8107fadcc186efa3f8a20d7697dab54ceec8955b7",
-    "1b00c4bf56d8941659c3019686193292870ad7c2760e0d192c70b65dbbc99bb8",
     "c8ac50c74dff7d0c4f6c55506d8b947043df6de7571ae8c05e3763ca7af3dde0",
     "38d6017ac3b20eb6b124ca68d5dd10c88bd1b3a612583ad0743becc26e430f86",
     "03a3aee8861362c5323a55354a565e7c537bd72cdb7ebf505df255a6f77f20c9",
@@ -8002,16 +7997,14 @@
     "a197096c6f698930c3832f53b71a50cc17deedf9b484f88928c44ba0d48202e8",
     "c570c48889179d8515c541392f90315ec3c41778ab405910ee414ebe6bd13232",
     "08bdd14dee24884bfefcd4eb6d3e7fa6afa1af474610e878f1a2083e9eaf8fb2",
-    "bad3c8ba12487385201e9fcc9509e18b38dc45c602087366dbe8c2a7dbd11e1a"
+    "bad3c8ba12487385201e9fcc9509e18b38dc45c602087366dbe8c2a7dbd11e1a",
+    "8c3d8ec9cd1c501836458a4b0802298a9c8079f856d54df41749e89fc45e4d7e",
+    "d1e027b5038e392a88b013e78f3adea1cc679337188f514c1b639ecaf954ac5e",
+    "3d701646add1e092a762f8fd8d317ee5968edd1cfbf8a6a20a6406e17941cee1",
+    "fee3b5f0e38b06fa6aca795526545ae09276709d50dbbd58461ebed3eac1db49",
+    "135665414c9329da1e9b16aac56aeb8d36f2a011b66044b73da4372ec5f5dbd7"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "\"손정의, SK하이닉스 1조달러 인수 구상…월가에 자금 조달 타진\"",
-      "title_ko": "\"손정의, SK하이닉스 1조달러 인수 구상…월가에 자금 조달 타진\"",
-      "url": "https://www.news1.kr/world/usa-canada/6361577",
-      "ts": 1795231169
-    },
     {
       "source": "VOI.ID",
       "title_en": "생물 안전을 보장하고, 중부 파푸아 격리, 수라바야에 604 톤의 CPO를 보관하십시오.",
@@ -11504,6 +11497,13 @@
       "title_ko": "민주당, 트럼프 감세 및 관세 정책 폐기 추진 공식화",
       "url": "https://www.ft.com/content/8af97161-2ae0-4655-9f8b-a560f9227359?syn-25a6b1a6=1",
       "ts": 1795345703
+    },
+    {
+      "source": "로봇신문",
+      "title_en": "美 벨로3D, 최대 130억원 규모 미육군 드론 탑재체 사업수주",
+      "title_ko": "美 벨로3D, 최대 130억원 규모 미육군 드론 탑재체 사업수주",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=49714",
+      "ts": 1795345983
     }
   ]
 }
