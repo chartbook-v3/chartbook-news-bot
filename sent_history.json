@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795348839,
+  "updated_at": 1795348986,
   "id_hashes": [
-    "3d6edb60f217f2efe41d870367b7e178e8c17963ff2e4dd6c9e98f38b3d72549",
-    "6f048c5c7269fd387ac84dd69b9f4596c3e30932b0f1988d7e1fc6b9b6e14bdc",
-    "ff12eab1af5d4b552962d5f28f180594e53d307fd40e5857ff6d2b10236a0c48",
-    "5e1a767b71bc01cf06a3ef8a636113061d4e78e1d26fa8d52b25e3cbcbf7b071",
-    "a754638711a76392ed4c77bf17f283270d459e5eb556400712b10640bc6c4774",
-    "9f562fe2232e77c1d3d5b398f16b6f7524840a134e44532713553a19bbaa778d",
     "1ef330a82840332f903fc3c8bf9835e02c8715f1f433630db3870e70822ec3fe",
     "b3f8590f38128e20b83f8035dfbbbb932108ac1218042e773eb8e9a5a5b2bd01",
     "187f64a27df5fdc8c7af6ef354bb323a892c8bb8759eb4dd4399493b2014e2ad",
@@ -4000,13 +3994,15 @@
     "bea84528f615a912795c6d073991dedd3660bd6ab3b8943862d8a5bbfb14441e",
     "7f42f6e05c269f25542bf4237ef831b15d6cdc06dab72243233068bea6fbb536",
     "e5f9269e83d779ca7d6c0f8831c3ad10eee6c0a7e52d874be2547ee978f881de",
-    "f928f1edc088bab69a0bdaaffa48aa13c1daf83bb51bdd35aeef7a41c4acb2f7"
+    "f928f1edc088bab69a0bdaaffa48aa13c1daf83bb51bdd35aeef7a41c4acb2f7",
+    "5bc2b82cdeea6069ed88c69cf6913d14b2efb6d69728d9a7799084aba3d9bd68",
+    "b022d0762d050794aadf644a2db15a85f16da991219d8c21847d3d43bf9e0ad4",
+    "2e75ac5e2426d7787569420587ee2d061c87a1ac750a87107c9da9e3e1243573",
+    "52dcd2f3a6e91eb1fcbd6ef2fa26b4eeaa8d3994315fc30e3a14f8de412e22ff",
+    "89d65aded1a2561987ba39cd50a6fb112df9a971abb0f2413182feb3053573a4",
+    "539e538681fedda96700dd6ca0a534283fae7ffce2bf89896c039bad88b16b8c"
   ],
   "title_hashes": [
-    "c728a27c30d7c0933e819ffb93e77b87bfda2cc925add4d22c7893011030876c",
-    "f1409ee6c257331c096a51084395045833d94ee5b227f74fd728df0969739f1c",
-    "dc634b46a34812209a22e311fabc14b3cf1d113ae98b94adda02eaf6af051bb7",
-    "7a897ce71b4ba88f13974bc14237cb0565917b6a674e033580cbfacc9822958b",
     "5645f92389fd077b98debe77cd402dcbe789b945fc33f3d1ea923dcbce210af6",
     "e31c42eb150f1a551acbf6afb68fd31051ae085d0d451d8807ace11f29e8f4d3",
     "ddfd12533589a78aa67cec9f9460e0dd4ba05533da06dbe00d6d676fcc35805a",
@@ -8002,16 +7998,13 @@
     "84bc19e8f1d649aed9508240686eea3b905f85eb6758151e62330d784f599686",
     "c6c3b8e5dc9c4f62cab93776d4500c451c2cd9e59d442f41b8434956fb3dad2a",
     "0e0e78a81961046c8a02c81df77247e166cbd93f8f537cc614d2c02d4bac389f",
-    "9732e9d1082173a08d4c8223d18853c0083c9f086e39e4608ab9ad18148b22c3"
+    "9732e9d1082173a08d4c8223d18853c0083c9f086e39e4608ab9ad18148b22c3",
+    "67a7e6c5f8f2e89a5252806828f2bf4c621659d000232be8360ace5d0bd94975",
+    "79af4b35a9a445943040f289fa4bd1979263584a57b966f87e9e3949c92a18da",
+    "ee31eb5dbdcab5baaa14dacebcf8038fe6b2674dd16d760f4193082db62412c2",
+    "6bfeeaf87d184972df3d55b5c58637307610ec64a996ff1a6654d8b53a8967e4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "JUST IN: CRYPTO CONTINUES TO CRASH",
-      "title_ko": "가상자산 시장 급락세 지속",
-      "url": "https://t.me/marketfeed/1083091",
-      "ts": 1795234553
-    },
     {
       "source": "이코노미트리뷴",
       "title_en": "KAI 김종출 호(號), 항공·우주·AI·첨단제조 글로벌 ‘빅4' 노린다",
@@ -11504,6 +11497,13 @@
       "title_ko": "이란 전쟁 여파로 미국의 대중국 우위 격차 추가 축소",
       "url": "https://www.bloomberg.com/news/articles/2026-11-22/us-power-advantage-over-china-shrinks-further-on-iran-war-effect",
       "ts": 1795348838
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "🌅 Market News Digest: [Nov 21-22, 2026 EST]",
+      "title_ko": "[11월 21-22일] 글로벌 증시 주요 뉴스 요약",
+      "url": "https://t.me/marketfeed/1083440",
+      "ts": 1795348858
     }
   ]
 }
