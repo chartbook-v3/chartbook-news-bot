@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795367907,
+  "updated_at": 1795368055,
   "id_hashes": [
-    "1fbc09644ef2ee5edcc026f7ea36a255a9c5e929df610acd21a9f0e9b7e0fc9b",
-    "b64d08d615bc348f057d10b52d4a05f4e4af91e15e1f2afd0d14c840aba10ac5",
-    "bc82a277dd6fd64808e43438a92efbdfa64322df34915a8d839c5ac71f71f61e",
-    "aca36a10ee1e58bc920097b3cb7f46908c54182af541fc5037907310649d62fa",
-    "9cf664014fd318ac80ead8910b4ac7d7f49b8ecbddbee7690e70931a8b69b98c",
-    "dd73351de7a16ba5d85bab3a5d6e1b4eab851d272d70b266a66e2425d0268698",
     "fd362aca4dcbeaf89eea5bd6577c8d55752bd1abb4a2ee2a4af9614c54ce1e0c",
     "8a9433dbcefc70f6b477f38183e66285c5978d56fb3c198df1657c140b6b91f6",
     "2b41167cf30d6b918f1841be2d2234657617a478a96cf5102e523c949f15779d",
@@ -4000,10 +3994,15 @@
     "d37e62f0518c6ea685fb688356b13fea6f18d23bd2498db30479d555db5d09dd",
     "5389fb7a77d246976aad716932a41d68fb8f7b9dc1556378344aeb9688b55290",
     "dcb055e7ab97d6dcb291b17901a94159d9d0c92d53fb94ed392be4837fc43c3a",
-    "6b7df7fbbe0976dd7d04b07b937e96d00b98bd504bb5466c8fbd5a564fce6123"
+    "6b7df7fbbe0976dd7d04b07b937e96d00b98bd504bb5466c8fbd5a564fce6123",
+    "76bc5663a54974d8cd0aea2d0ae584eb747a48c38140f5172953d55aa6b0180f",
+    "b5b98714790ea83ad7b27d39f0d3976f55f41b554d01bf820df0ec62084b59eb",
+    "c172f9633fc35659c2110d046f7bb3c8397733a438abd6bc4bc25f28948981f0",
+    "93e000204e1cbf63ff123d72438eecaaf8fee0a98d3f61bc84bf9413aa6bebc8",
+    "c505ca452c8f69919c1de78485bb6a8c8a6bb79b4b3f652c839301ea352b9102",
+    "13524114e9eeb14115c4da862cb6502b95553637a713f136a7a6dfa7d88fd92a"
   ],
   "title_hashes": [
-    "4d2bf6d0898f88dec206ae4895337dc23f40d5a5167a61561ff6a6798f7dd166",
     "17f030860df0b365aadb4d22e9a446ccd79f0de51d2e17d6c96fd65e7cae74a7",
     "5844e30ddbb14fea3192f3da421ed60440b2ec1797ed9da55a3d3f91879d284b",
     "0fd877633f4d290d9b3162a37c8b398d83d69ba24b892bff909cb876f73f13aa",
@@ -8002,16 +8001,10 @@
     "687f1f7fb6734aad29d4066efbf6276c6f9df2fc62b91f77e72a9f5e3928fb4b",
     "f348f6b09bd55d09d5a7c15eb0d62e02a7cb0bf2ec24517e9b9f6b62231201d6",
     "fe884f34b655f4c1733cb124705d3d605e069a8f678114d12e21651f7a739842",
-    "d74d5afd0d934ddb5238d5c7242bda29bf8acb0c65e9aa285862669ab84551ae"
+    "d74d5afd0d934ddb5238d5c7242bda29bf8acb0c65e9aa285862669ab84551ae",
+    "fd54b0bbcf2eb9ef4e95d02986d66137210f941ee705029c99072de1cb593e89"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "FoxBusiness - More than 51,000 children's and adult oral care products pulled from shelves nationwide over hormone contamination concerns",
-      "title_ko": "미 전역서 호르몬 오염 우려로 어린이 및 성인용 구강 케어 제품 51,000개 이상 회수 조치",
-      "url": "https://t.me/firstsquaw/194797",
-      "ts": 1795253522
-    },
     {
       "source": "WSJ",
       "title_en": "Oxford and MIT Walk Away From Miami Campus Opportunity, Sending Ken Griffin Elsewhere",
@@ -11504,6 +11497,13 @@
       "title_ko": "궤도 위의 안전자산? 월가 \"스페이스X, 여전히 매수 적기\"",
       "url": "https://www.barrons.com/articles/spacex-stock-buy-rating-jefferies-8a82866d",
       "ts": 1795367906
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "More than 12 drone boats intercepted off Benghazi coast by Libyan naval and air forces, two Libyan military sources say",
+      "title_ko": "리비아 해군·공군, 벵가지 해안서 드론 보트 12척 이상 요격",
+      "url": "https://www.financialjuice.com/News/9863506/More-than-12-drone-boats-intercepted-off-Benghazi-coast-by-Libyan-naval-and-air-forces-two-Libyan-military-sources-say.aspx?xy=rss",
+      "ts": 1795367994
     }
   ]
 }
