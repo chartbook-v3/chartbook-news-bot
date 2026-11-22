@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795322966,
+  "updated_at": 1795323113,
   "id_hashes": [
-    "3c8d133174bfcde5516820d74fd0cd96ed2d35b3f5f2fed4eaa9a7d1a0cb5f4e",
-    "cc9d7876d497929aef1c307a525d726770b90ff189e9f0ab3a8fe42434a14c5d",
-    "ca894ed02e9e12f05270070c2ee70fba7961b2b0f74be56f06cfa8985704f564",
-    "00d7f30ce4ee521261ab193295a4c6126c9ecfab2e3463a0d646cdcf4463e5e7",
-    "31ebd2956a95747d72394b064302e85479ff7020a4ff4a3a10e769d90a4c00e7",
-    "1ffbe74206681fa0f89ca37a7e22e606bf367828fc0a6d98e8ac942101ad91a2",
-    "ee981d27b6a8f9fc9fa2e2f67e953222bb9624c820e85350469f03c0f6b2e4dd",
-    "c66cef7c883307b6af88325ac57ad1eaccf531eaeb524f6ea33aceafbe99f862",
-    "4b885b6f8086fe3390cf886e2b3bb2a343bae7e8c6ee6693f8057352e260a19a",
-    "4137411ef1ebda9df0c83989c192b44964ea4e921ca02ed454f46b4baf633183",
-    "347da408f0c400e02f3e6e34f8d57a977d9908c15022bf5d904f1ea325db038f",
-    "eab9f0a2428965dfd2321707e089fdc5dfcd5ac53015d4e99da66cfe1035217c",
     "b5f93cef407f33d7e7f7b33d7e421c2f59474e7577bc3baedc40274c01923fe8",
     "19b02f22d68181a33a55bfeb1ad3350bcf5997a179a78b9d562c772cccf2d033",
     "fd9d062259b1ca1c410ab408436c1cc103113b68b5f66ab3170c7b3923a05535",
@@ -4000,17 +3988,21 @@
     "790af0ad6d857310f42c495337c0c32a0ea1d336bb5793fedf542143b13b1969",
     "145019e1cf4d6716af302a98a54057269ac7f74aecfd7aeb2e984f0dd2eafff7",
     "31511e5c21b8e0bea20442a56d87ebb440005873d2d866a9fbe5094a48aae5f1",
-    "54e30b09684109eef46944f716695ad917e68157a074af337fb81c762d8bdbf6"
+    "54e30b09684109eef46944f716695ad917e68157a074af337fb81c762d8bdbf6",
+    "ab6c4bee9b9bb3ca6eb153e7a0d837254cda3bc30b237c0ffcf66b59f05ffb57",
+    "711675e5c88a307e43c875c3bb48fd1f7079a9f8f60e4a5fa659ba37eea6b4a7",
+    "3e0fdf04c802ee91cc1aeb1a7ee8cdeea316b9d8355ec574f44be99db2675e96",
+    "642027c201051fe4f7d725503e56b05d1b6c9c4e7385893c7fc6a5e82dd80c4d",
+    "5b12e39171bfcefbcc0f2039c8337710dd943e465649a028ac5cdab64a8c94fb",
+    "f8511327a06477214871c7116deec31f2ff74e93ac0a56767a96516977d47f78",
+    "8b860871e267040281dfb859bfdaa1413e2cbe360a8eafc9ecb4d1e4ed607e49",
+    "0126847171596714b099e7e4e0b56b965660c80803d47eba01f16b573be92a7f",
+    "684de54b76f13fc8d32694d52d6db590a7fc846f33dcb88bd9ee26d47aa03236",
+    "f598292ce1b21022920a67f4dc1d9b8608c1fdaa21a875d0a3041f47f3ea7605",
+    "141ecaba57fb2f1a228b228e129ccb963d6579a5a85fd1d67eb12558a2c3d3b5",
+    "04aeafd7c86f83cc9439e5cf671bc1e279b972afb16d77b8cc7b0b993398e35f"
   ],
   "title_hashes": [
-    "106c786e335bc6f1aba079e39230b1d6c9fe38b5188ea0ed57057565a268f66f",
-    "c935980682d8ea5b7e89116327189fa189bb66e6e3788e7b494acea738bcb9e0",
-    "a0117de2b67d37c3341c30aa882553717f563dcb09c0fd08d876950f4a8874a0",
-    "94141e3b2fa22342f1e3a63ff467c623e8929fa6d8ae80fa562d24358ed090ff",
-    "7e6ab78deb8941f9ceff30f1bb672cdabb2c95425dea60debfd0755d5202dfa3",
-    "b4a2822f48192c131ae8efffcf64b4205d3d481f4bf097bb45f96fcfc4988eda",
-    "e51c30f8b8e836ed1a48df0e46e8c7360c7c981be691961642b0638a4469b401",
-    "4a27f563b8797a78d9b62343ceb2456cf249a704e9c0fb6b2d6f520d71a9017b",
     "80c3113a5ed22e93eb31f231197c8dd5000ae0583c6ad609feffe278b646e6b5",
     "969217837c72f187bf2eca879becbc804742c05a54dc1cac1e5a154cd64414b4",
     "be69eb6adee086857db9932556f0f828d8c4b22f40031d9dc385d03a460a8eec",
@@ -8002,30 +7994,17 @@
     "c504ecec73a5f5601e4ad9cba650eb51b93ce6c54d476432822a97dc1710553e",
     "b9a44210455434a6d1efc86d583878d55f22f47926bdab983c21beb0b8795ca6",
     "99517d6ddec4a65bb9fd47e4d435eb10480052f78df3bdd5030db3c9c88fdf10",
-    "dcda4dcff9e559c65fb1f70c068b78926b6bd28acc7a57636ff5d8ad202f9430"
+    "dcda4dcff9e559c65fb1f70c068b78926b6bd28acc7a57636ff5d8ad202f9430",
+    "28f22180572ea9195de740dfe6ddcb57f70b9c8d68bb502c59c3a34b70b683c8",
+    "9e035980942fc421197f266d994668416ebf97b3ee0093dc223a131eb77a9f3a",
+    "801c55201dcae0a1a47ca83c6ea9e84089da9ed6ec6d12d5beefad60e4640644",
+    "d06d7ce4938f7e24caf20ec8cf80f12cc1f9a9c780e889f9a17f47d5cb88b430",
+    "63554c4abeed6568815e15e86c0376adbb87b6bb0eef260d85057a2512642ab0",
+    "216ae494b073e91080d509b45c1fe8fb4593518173fddb92b7297d6e98f447ad",
+    "30a60b70c29e8cac856c813d48ea2a06fc91597ea909bc8563b4bd82d4cc7ee1",
+    "e18bd3511a5df7653c76d2dd59bd77adbde1e4e4a80ac0dbd41e17621ff19815"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Wall Street Nears Breaking Point as Fear Grips Global Markets",
-      "title_ko": "두려움이 글로벌 시장을 사로잡으면서 월스트리트가 한계점에 가까워졌습니다",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/wall-street-nears-breaking-point-as-fear-grips-global-markets",
-      "ts": 1795212047
-    },
-    {
-      "source": "전기신문",
-      "title_en": "글로벌 전력기업 연합, 전력망 신설 역대 최대...투자규모 연 1560억달러로 상향",
-      "title_ko": "글로벌 전력기업 연합, 전력망 신설 역대 최대...투자규모 연 1560억달러로 상향",
-      "url": "https://www.electimes.com/news/articleView.html?idxno=374992",
-      "ts": 1795212426
-    },
-    {
-      "source": "전기신문",
-      "title_en": "[철도 에너지 전환, 현장에서 길을 찾다] ④ 지멘스 에너지, 열차와 함께 30년…변압기 신뢰성, 설계 전부터 쌓는다",
-      "title_ko": "[철도 에너지 전환, 현장에서 길을 찾다] ④ 지멘스 에너지, 열차와 함께 30년…변압기 신뢰성, 설계 전부터 쌓는다",
-      "url": "https://www.electimes.com/news/articleView.html?idxno=374975",
-      "ts": 1795212430
-    },
     {
       "source": "뉴스1",
       "title_en": "\"병동은 누가 지키나\"…PA 간호사 법제화에 지방종합병원 '직격탄'",
@@ -11504,6 +11483,27 @@
       "title_ko": "영국·네덜란드 정상 \"푸틴 협상 테이블 끌어내려면 대러 압박 지속 필수\"",
       "url": "https://t.me/firstsquaw/194912",
       "ts": 1795322963
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Oman Oil Marketing Company SAOG awarded a contract to provide fuel for government vehicles over the next two years.",
+      "title_ko": "오만 오일 마케팅, 향후 2년간 정부 차량 연료 공급 계약 수주",
+      "url": "https://t.me/firstsquaw/194914",
+      "ts": 1795323048
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "The newly awarded Oman Oil Marketing contract carries a value of OMR 4 million and becomes effective once signed.",
+      "title_ko": "오만 오일 마케팅, 400만 OMR 규모 계약 체결 및 발효 예정",
+      "url": "https://t.me/firstsquaw/194915",
+      "ts": 1795323051
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Oman Oil Marketing says the contract is expected to support revenue growth and improve profitability over its tenure.",
+      "title_ko": "오만 오일 마케팅, 계약 체결로 매출 성장 및 수익성 개선 전망",
+      "url": "https://t.me/firstsquaw/194916",
+      "ts": 1795323055
     }
   ]
 }
