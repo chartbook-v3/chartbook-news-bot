@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795353498,
+  "updated_at": 1795353655,
   "id_hashes": [
-    "ec72e13a67cc4b395ecef714cffaea6b57167b1b96039ec6ee9327299c552d34",
-    "472d435cd3ddbce0a4a007ee36146222e781b266e680bbaa7e3e9dbd4ec1d551",
-    "52306d88a3d2185d07c785710d710273560ab7614b9236e2f7148177fa3de4d8",
-    "3ace6c4f4622261c87c4939c5cac20610becc6e43533668a6a00f2008cf03297",
-    "67d63cf0f66cbb40df5eab31f2af72d39db6fab4896e07f3d4d7d65e9d37ebdc",
     "efcefa78ebf7fe36caeab6703c31c9a79773c9966d53fa00ace81cde4255c6a4",
     "9bca9f1348cb52a628326e09bf62cf8b839116e3a6981cdf54f848f130fd3757",
     "530ddb9edf4bd4f4d0b38accbf1fdf174c0a752fe8ffeb58667e90706d7ffab6",
@@ -4000,11 +3995,14 @@
     "e95e1709a8911ed0c0c78871d960283ccef1c5329513e97fd455893a4772f35d",
     "d0f627371e89b1a37b63112048b463228ef2a91fcde458332067c551ec41a18c",
     "ffae02cc62de7441388fbaa4bf67e8ed6cbfd42cba81c7db52fd6bfb6c3f5755",
-    "1892bf9ead3d896f36370d156bcdc16a39f5ee3213ca1c569752931625b6fdec"
+    "1892bf9ead3d896f36370d156bcdc16a39f5ee3213ca1c569752931625b6fdec",
+    "0caa5943d39c8f08de12297d9511f7c9eea3443f186559dbb3628bd493307229",
+    "4cf4960ec8a1f920890e33fa239c00d5b9a2f1f3b2c936f93c24610243b99ccf",
+    "0850d7ee178690093c23778ef68bb53539b3790e2998a52f1a05c373fe7230c5",
+    "580aa0dc31ea170336b1b511fa6d8d3578122f9b63bece83c13ecdde8a59e1b2",
+    "19176d9fcb94599f1244d4e770e4ae7748fdc4a9ce3487a6952833cd1921d50a"
   ],
   "title_hashes": [
-    "14edc77a1012bb4906239943f6857ac30ba149e0347639bf694b0530d3091822",
-    "2d000dfcbb96045a5e735dd3072b87626b4779831039aac4d510c7618c64a91f",
     "b0dc64fcb969ee58e355322a4e5487cca5867095e485415bbf51ed7d613d9363",
     "4d1dbc2408d421e01a06730f64a7e5f7e402f287b63f562a19c166c5e31576ce",
     "886617df169548d9b16f3b725843c29272fdfc22ee246886101f88209d2859e1",
@@ -8002,16 +8000,11 @@
     "1af57304943b98b9f04fe73a675c6668c616541c58af08f498be2ef594bf638e",
     "b91cb732d1372d001ad405ed1af906dc5b271daf6233560365e01f2022a72025",
     "f438931ac323f632a185c6f790b0d6c3763fa528d58543304459a889b0aed718",
-    "46e6f169c2684eaa5b1bd6de147930ceb8303fe69f32320f8655727b8a5ebfaa"
+    "46e6f169c2684eaa5b1bd6de147930ceb8303fe69f32320f8655727b8a5ebfaa",
+    "c4d94f283dee1a23e9a6bde18b5187cd58bbe61c459471af914af7292f5bfc57",
+    "7de0ebfdb52e23e6212058b7e947cdc55efa74592d303b1e39c8d8f2cb56978d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Washington demands formal written assurances that Tehran will permanently halt future uranium enrichment, Al Arabiya reports",
-      "title_ko": "알 아라비야 보도에 따르면, 미국 정부가 이란 측에 향후 우라늄 농축을 영구적으로 중단하겠다는 공식적인 서면 확약을 요구한 것으로 나타났습니다",
-      "url": "https://t.me/firstsquaw/194760",
-      "ts": 1795239801
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Al Arabiya: Mediators have no assurances that military escalation will not resume",
@@ -11504,6 +11497,13 @@
       "title_ko": "트럼프 밈코인 갈라, 수요 감소 및 감시 강화 속 재개",
       "url": "https://www.bloomberg.com/news/articles/2026-11-22/trump-s-memecoin-gala-returns-with-demand-down-and-scrutiny-up?srnd=homepage-americas",
       "ts": 1795353080
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "대만, 美 무인기 '스카이가디언' 내달 인수식…\"中군함 감시용\"",
+      "title_ko": "대만, 美 무인기 '스카이가디언' 내달 인수식…\"中군함 감시용\"",
+      "url": "https://www.news1.kr/world/asia-australia/6362166",
+      "ts": 1795353527
     }
   ]
 }
