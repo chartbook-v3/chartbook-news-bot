@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795360811,
+  "updated_at": 1795360963,
   "id_hashes": [
-    "16039c471ac425138fd4e624314a2e12231b8de743bef72ba57941fda48a8d73",
-    "9d6bf61aeaa73c6204e24a11d5de70dac7e3ea3b49da8541002f5bbf35ea8bc7",
-    "f33cac6307ff0b3d8512377cfe74f353372cab1095335d126e8262c7c966ffb6",
-    "91e497d16d388ab4aacd3f6ecb528f385403771e926e367e61598a6a79051844",
     "5f225e5d99b73628e6f2bf15933c8028c3bedb070f41d33aa6591a1667af27b9",
     "76d481240bf4d47ffeb46da5cf6658e4a84a186ed90df1fff92756b08387eb37",
     "4d54f53212281a15632f244272cfda3efa6ff6f2fcea1749fc62c3c56ed951cf",
@@ -4000,12 +3996,13 @@
     "d72bb2e9d854bc3a855951b9504484b2b51ae3836e3d9f689947820d461aeef8",
     "e571512208b4f6b927cbcc1b6add847d3ff9866a938b0d022314fa78e4062b8e",
     "1c411a7c2420ae9268fafce072cddbdd6883cf612223a6c2aeca3346f3ce8efb",
-    "2c5457c33342253bf555eae1287885713a521b6e666778acb7333a59f00e4cf6"
+    "2c5457c33342253bf555eae1287885713a521b6e666778acb7333a59f00e4cf6",
+    "f9ef87a378d300a70f400d07123de033cfc450bcfb977aa5e65503c6aa67738d",
+    "e7dfb009839c7909cc64bf30278a2bc9337b302eadd7ed7f8ed07c937c78ccda",
+    "fb7fc6abe348b1c79b769bf914ccfa90a027db70cba44532504ff0f8bf2e0cec",
+    "12c73945d335498ed865b6eb4433c5658a1927d504322f868191a2bed9ee6ca8"
   ],
   "title_hashes": [
-    "da0f093d37873fa751c4f61ebd28fd921496f2959566be758b571d0dec86b5a2",
-    "e215bfdf249f47e7860db0c1c72cd505a19c224060595b6a6cb64782da5aeb82",
-    "1657954f034626535e107ce6d04406684c24b45d3feb8597211c346475e477a9",
     "244fcbb22d9404750ee862f6a9aaec1b51c9484780152a3c47a32d37c7f444f7",
     "ed6521f953cbf0c1d7c7c926964438ed471a406e9f44a607bf83930388e661d6",
     "bdac89ba22b5d595bddcbbef18e83a2c01f75d5f33f34afcaac69a94fb3748df",
@@ -8002,23 +7999,12 @@
     "b7925e16e2f14d58519e11261f73f36440b466f3ca45700a78f4e2df81a97afd",
     "e2e544bd203720d15f457ced5df2f111bb8ce1d9552a6d04641c37aa767325aa",
     "c66f005f7d759089a88503301a9e0ab2cf5ceb9088cb183ada09c0957ffe4204",
-    "7aa0ef45c696627b36bcab8da20a2b50d460395948c38c7bf5efd06c4213960f"
+    "7aa0ef45c696627b36bcab8da20a2b50d460395948c38c7bf5efd06c4213960f",
+    "4dda63400e08e766531cfe70a6d38024f186c1070f1565de2a949329c5c0c2ae",
+    "4ff7855cda527221f9749ff504d28f76a8a1cc0b1fad59c2ba9a7f004f8475c4",
+    "ed4c4b9737586c223c39c5abbcae8c6ea07e768db9d4fdbd37237014d49fffbf"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Europe's cyber weak spot is the everyday businesses nobody thought to protect",
-      "title_ko": "유럽의 사이버 약점은 아무도 보호할 생각이 없는 일상적인 비즈니스입니다",
-      "url": "https://t.me/firstsquaw/194785",
-      "ts": 1795243128
-    },
-    {
-      "source": "FT",
-      "title_en": "The dead hand of history weighs on Deutsche Bank",
-      "title_ko": "역사의 죽은 손이 도이체방크를 짓누르고 있다",
-      "url": "https://www.ft.com/content/bfa66957-73d4-44f1-bea5-6b141c197920",
-      "ts": 1795243426
-    },
     {
       "source": "Benzinga",
       "title_en": "Tillis Blocks Trump’s Cybersecurity Nominee Over Jan. 6 Attack Remarks - Palantir Technologies (NASDAQ:PL",
@@ -11504,6 +11490,20 @@
       "title_ko": "미 매콜 의원, 엔비디아 젠슨 황 CEO에 답변 요구",
       "url": "https://www.bloomberg.com/news/videos/2026-11-22/rep-mccaul-seeks-answers-from-jensen-huang-video",
       "ts": 1795360691
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Chile Central Bank Head Tells Newspaper Recovery May Take Longer",
+      "title_ko": "칠레 중앙은행 총재, 신문 복구에 시간이 더 걸릴 수 있다고 말함",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/chile-central-bank-head-tells-newspaper-recovery-may-take-longer",
+      "ts": 1795360907
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Yemeni government forces: We carried out 639 strikes against Houthi militia positions over the past few hours.",
+      "title_ko": "예멘 정부군: 우리는 지난 몇 시간 동안 후티 민병대 진지를 상대로 639차례의 공격을 감행",
+      "url": "https://t.me/firstsquaw/195013",
+      "ts": 1795360924
     }
   ]
 }
