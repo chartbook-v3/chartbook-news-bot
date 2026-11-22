@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795364891,
+  "updated_at": 1795365040,
   "id_hashes": [
-    "4c6cfcf52abdd30ea6d37944bd1955b29a6fb0ec1743a2da63c2bb598aa2a5d4",
-    "a35b6948b39ed33b20b86062426cac7246eab391c87c20488087be7814bc0473",
-    "7ad13d89f40b3a6004c4ae8d04d6199a6b83fb1f806bf583ac84065e0a0b5cd0",
-    "40ff01ba1989ae1d88378bbfa7d240a614682bf01f83bf11e371389182198bbf",
-    "cd3731ff03c9c0961f541ec5bc30cbf44275c6e9a5f5f0350ba43be033885695",
     "605d71398b8008d262eedf9b7719a149fd46bd88cba7a2d6d7e0063ae24052a0",
     "6647674887d1edbc47e2ac96990aeff22747c1e3dc13b23006845c46235c3150",
     "a10aac7bf712f6c154e5aae24267ac91d6602099e01c593048d4d86fa614a0ae",
@@ -4000,12 +3995,14 @@
     "bcd654bf9702196626cafbbcb150a314026e57fc6fa85ff0427f7ce1bb239726",
     "f3e94be46396ea52008b3e9bc4e46910ecf21516cdceb94755868b6d1d0a1ea7",
     "143452bbb2021bcd23e10154df4c2dc89f7d6f07b1edb1990cdd4f875fed6b5b",
-    "f45499c10a2600aaf681e9f64f5210e2273fe597e6471d2346080be84f7f8d10"
+    "f45499c10a2600aaf681e9f64f5210e2273fe597e6471d2346080be84f7f8d10",
+    "853b85abd9765380b4023ae0229d99b6b0a28603a2aec08ec99ea7d2825d73ed",
+    "d232fd598c429e001d463f17e4f122beb6b2d57fe08a5221b59a7cd367e7eb54",
+    "e8c01e7c83c5a3877450d80b4eb53978dad66a7d9fdae491c1a70cd2cdde13b2",
+    "e2352cc2d98d390728654079aadaa42c62670e0218daa53529e4f48ca6cb2ddb",
+    "f716e2c58dd5443cf01da8f23b46bf98894e55a7c462ce2831f5a1dcf55dfe2f"
   ],
   "title_hashes": [
-    "9b5541c4ea6928e5904f93bcfef644af3c84007d08189c70d24fa0f6b4ddb727",
-    "02f176069f6efeee582ca16bce243b0544dcc3ea797cb2175fe72c68cffe1cb2",
-    "6981f5c6203d5b940299f409ac6a4c872ecf4e68e77a726133e60af5b27f8629",
     "91dba299cf65aba87bf49f392a7ab1229768311217d442fd5c14d5d578004057",
     "71c6918ffa9db3747fdb10a6a73b9844e4fd9a9a7714d0edd732f3eaed0f9453",
     "840b03c8befadad41de33ce1c887e93f53a3a76b158031a2beed3b741f9133db",
@@ -8002,30 +7999,12 @@
     "694d35be00365d3846347dbf96de1c1b15f665d595000b196bcdff7d2e5a9503",
     "1a274b5f402e4a0eea5a046ee22fda175a509d55e682d12c58f655f3e5340249",
     "f5dc2a64415715950e22cbb8da18905e33f1b2a45a110c9e8d32eda3eb0b0a8b",
-    "9c736e31ad2cf47fbd56c79fd6886bfba124c7ebda316c97f2964324dca1cc0f"
+    "9c736e31ad2cf47fbd56c79fd6886bfba124c7ebda316c97f2964324dca1cc0f",
+    "8604a54d53741a38ce0e9b4503d9454e03b43ebcc8ba4367c18eaec991d3e7a0",
+    "4c769e9d063efc8b288bb7b1ae46f498c81be4150a119df6de5040e53ad0bd04",
+    "f54d7e2880e93763ddfab7474a71f6ee8f308a902ea0d49b04b9177c1a2915e9"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DongA Science",
-      "title_en": "미리 본 전장의 미래…\"우크라이나, 기관총 장착 무인로봇으로 반격\"",
-      "title_ko": "미리 본 전장의 미래…\"우크라이나, 기관총 장착 무인로봇으로 반격\"",
-      "url": "https://www.dongascience.com/ko/news/80975",
-      "ts": 1795251768
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Helpware Completes Support Consolidation for Healthtech Platform Following Merger, Reports Improved Resolution and SLA Metrics",
-      "title_ko": "헬프웨어, 헬스테크 플랫폼 합병 후 지원 통합 완료…해결 속도 및 SLA 지표 개선 발표",
-      "url": "https://www.streetinsider.com/Globe+PR+Wire/Helpware+Completes+Support+Consolidation+for+Healthtech+Platform+Following+Merger%2C+Reports+Improved+Resolution+and+SLA+Metrics/27382881.html",
-      "ts": 1795252081
-    },
-    {
-      "source": "Wccftech",
-      "title_en": "NVIDIA Releases GPU Hotfix Driver Version 621.35 That Addresses Excessive And Unnecessary Writes To SSDs",
-      "title_ko": "엔비디아, SSD 과도한 쓰기 오류 해결한 GPU 핫픽스 드라이버 621.35 버전 배포",
-      "url": "https://wccftech.com/nvidia-releases-gpu-hotfix-driver-621-35-fixes-excessive-ssd-writes/",
-      "ts": 1795252240
-    },
     {
       "source": "Tom's Hardware",
       "title_en": "Razer's MMO mouse hits all-time low price at under $60 at Amazon in Black Friday deal — Naga V2 Hyperspeed price craters by 42% in stellar gaming mouse offer",
@@ -11504,6 +11483,27 @@
       "title_ko": "베센트 \"미 증시 급락 속 연준 과도한 긴축 위험\" 경고",
       "url": "https://www.bloomberg.com/news/articles/2026-11-22/bessent-warns-fed-risks-overtightening-as-us-markets-swoon",
       "ts": 1795364594
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "UK Maritime Trade Operations: Report of an incident involving a tanker and military forces in the Gulf of Oman",
+      "title_ko": "영국 해사무역기구: 오만만 내 유조선-군 병력 간 충돌 사건 보고",
+      "url": "https://t.me/firstsquaw/195026",
+      "ts": 1795364977
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Russian Ministry of Defense: A cargo ship carrying dual-use materials for the Ukrainian military was targeted in the Black Sea.",
+      "title_ko": "러시아 국방부: 흑해 내 우크라이나군 이중용도 물자 운송 화물선 타격",
+      "url": "https://t.me/firstsquaw/195027",
+      "ts": 1795364986
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: BITCOIN RECLAIMS $61,000 AND ETH RECLAIMS $1,715",
+      "title_ko": "비트코인 61,000달러, 이더리움 1,715달러 선 회복",
+      "url": "https://t.me/marketfeed/1083499",
+      "ts": 1795364996
     }
   ]
 }
