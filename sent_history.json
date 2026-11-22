@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795325409,
+  "updated_at": 1795325559,
   "id_hashes": [
-    "3faa7902bcd8f7661727c2eaf88eaea813f09c939a5c9ebba2dcec172d81b8fa",
-    "eb44e5cbbd0f57663f02aa31694d202c3984fdc9c787ecdfcefb5d6e5455292e",
-    "55f8f00e852dec860aa57b087468ffc6b66ba65652f0116cc9389fc6998c98f3",
-    "083609ac7de3e587d459e20b0b89f7e86e18e27eb609fd8cae75f39a0372b24e",
     "11531672216fd8b9a59a30151fdf38271e207322c6ad93e2d09a7018051fa642",
     "ac8ab3fa32e860dec67d39297d01baae0af70ddec01458d1960c0d8672befafa",
     "07fd4233810f8edefe29ce7188cc0bec0571e61679c19ae82e972ada1b734921",
@@ -4000,12 +3996,13 @@
     "8bdebf09d1eccb5e558fd9236a1b01548934df10aebb8fd922960cfbf4f6d97d",
     "9a724841788d5254d81de6c150257d22cca9838b32a07174e33c3d20ee142b34",
     "bf2d235595ec816ddb7fdd52601bcc8854fcf389e69648819a98b2613c14b19e",
-    "56a4cd5bebbcd416f1df8becf1e077864c4b968367e737de84714902e76e0db0"
+    "56a4cd5bebbcd416f1df8becf1e077864c4b968367e737de84714902e76e0db0",
+    "2e8bf0f19675c922d40edc3ff872d50921bcbc5fb135e78aa2a45cb72a8e2a50",
+    "2c3fd29eea2489a8de5b927724625de11fd0182634626cfb21238a72671c001e",
+    "c19aa303e67f5f92327ea2f127818e935fbf88239fd58296fdfce7196c84045c",
+    "4065be1dbf96ff0841ade5512225b7f9db896fe94597516bc14e02448a0a526f"
   ],
   "title_hashes": [
-    "365c36616f93663e6a3ab054dbb7009020d3a099c44f39f4f2679208a2ff5b5c",
-    "c9710ae2d845c6442f16819044898045fa4eff596ff618d420f513f69c1ef0dc",
-    "681ce20a7429958749e261d1cb2ddc66d58059f2efa9b9cc4dcc70b1567d4dab",
     "f75f43cfbd82e6e1bc20b1c3857a08cff2baf9c2f820a852b59803e016bca8bf",
     "f609b89e9f5d83a365c285eb825c2ce485520cfcace41cd417a007658ad89e37",
     "868abfb816a8804374cb8138c1a87dc24a3c07945859db87212bb7f295150fbd",
@@ -8002,16 +7999,12 @@
     "9d173c42088a1f8e714eb351493511895bedeadb03dc3e5bc343d34b7aeb644e",
     "4b7a19ea4b02c384395c5254cc5a00d7cd9e455adfe2ca92ea96b4fb57099ee4",
     "e3053b35cb4240c3c5ab1832ddab8a2828820bc0c355cca83527cd5964ef7212",
-    "c1f67d3bc75126bfc0dc06eaf693cc4c3f8af4172996237a9b207d9c088113e4"
+    "c1f67d3bc75126bfc0dc06eaf693cc4c3f8af4172996237a9b207d9c088113e4",
+    "5f837de96f7393f19131fafd286c541471563313f63f955eb8cebd0435f9b7c5",
+    "e9176f130c2da1c648fa434c83cafd4ea5fa1219b55962c4d56e8cb0a34249fc",
+    "850393504c6463f27a93bfc45d290f6fe7507dba9b521d39c1c0400174972c5e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Alps Group regains compliance with Nasdaq",
-      "title_ko": "알프스 그룹, 나스닥 규정 준수 회복",
-      "url": "https://seekingalpha.com/news/4675374-alps-group-regains-compliance-with-nasdaq?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795213803
-    },
     {
       "source": "StreetInsider",
       "title_en": "Fresh off China trip, Trump bobs and weaves in freewheeling press conference",
@@ -11504,6 +11497,13 @@
       "title_ko": "전기연구원, 차세대 반도체 공정 핵심 ‘맞춤형 펄스 전원’ 기술이전",
       "url": "https://www.electimes.com/news/articleView.html?idxno=375092",
       "ts": 1795325282
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "NEW HONG KONG-CHILE WORKING HOLIDAY PROGRAMME EXPECTED TO LAUNCH DURING H1 2027 - SCMP",
+      "title_ko": "홍콩-칠레 워킹홀리데이 프로그램 2027년 상반기 출범 전망 (SCMP)",
+      "url": "https://t.me/marketfeed/1083388",
+      "ts": 1795325431
     }
   ]
 }
