@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795315073,
+  "updated_at": 1795315225,
   "id_hashes": [
-    "c29db4fd28188d0e5070b1dd8785f49a32f2d98aa9f2ba9259fba64eb7a5c71f",
-    "2baaa0a65a658ec02b38e8323b4d225cb30cbb5e3508d430ea8bcda237f9100a",
-    "8f11b8f7fd700089c3e4e944baf7f3aca48c7217f19c713ef041bba0dc287b3b",
     "70a9aed59ab53512bf0aabf914c8ed327632d189d1058e061f4e0d85e0de2e5d",
     "600127af66ff8151272160ad3d5af0a9a36fdce6237e2e520f906ee0d1657c04",
     "f421fb2c955818c8ce153f8f12a929b9b8530867615082922b4576d735c2a9d0",
@@ -4000,12 +3997,12 @@
     "1367616551b0793193f1f4d658e926940cacfe128307a65d85a5706120731f48",
     "23b77da56a78a168bd4bede47cb5bbd823babb2b735d7393e19f55c168736f02",
     "b3f25312e280741e3435dc4d4b5fde6604dc3870ce306f9b41b4fc945f5e0ddc",
-    "3bff3d017747471f6aa017472e75068e238a2d788801ed196830319527126dba"
+    "3bff3d017747471f6aa017472e75068e238a2d788801ed196830319527126dba",
+    "551ec3edb0e0a59dfa93a457ff7d411a7053e297ad0ff2e6c7ce58f85cf3616c",
+    "2876a8aae2e3bb591fd82f733a6ca718b1a99ad8b367fbe23e38b259ed0593a4",
+    "7d264ee828af29b58ba0eebab8d3d7520309772e230266bb518098aa2d36c7f4"
   ],
   "title_hashes": [
-    "80961e6ead8a36dc1365e7d5dca02778376f85221d80b23765c00c1dafc07777",
-    "772e42d0de59de5bbfa89c3af33cc0b2c432d01d3f45aaa53f0301c4f0ad0dd7",
-    "fb85919f4727a68e9175bf2ced6ffe04511470fee9e5669bd812c577f67c36f6",
     "6b39337b6a21f694bb0252efe9658fe65e4477a8f875788e1d6a68e427b00f43",
     "c916ed3d8c11762f01fd859b42c2327ff23866bc2b851abc5f820b96ef7e7f04",
     "40902c9343554ea459cf9b6eda9750f4b230c4c3686099f8983e38d9e3159683",
@@ -8002,16 +7999,12 @@
     "10699e03e6224ad53cf0f7d72a136abdffe57cb65371ace11c883d1d0c07081a",
     "a9537058a712997f7dad789bf9226986b67fc903c8934be137270312cb1c9785",
     "d46753f00ddd7b195498b914686fd8afd6cb790d051b36cf9e1acda5cf1cb269",
-    "f9056eb45e5b54fe00d954cc4208900d58366130d5e5fb26e34c04b132b4bbb9"
+    "f9056eb45e5b54fe00d954cc4208900d58366130d5e5fb26e34c04b132b4bbb9",
+    "51f7d1fa22a6d909e132552139a1f092e1729342a9d1daae841c3ff278d78e03",
+    "5392b124d6354ec953c99a11c844483ac06dd8102e04bef553494550a4aa8fa2",
+    "d3fa18782f5b4e25d6ae9021fa9d8e98345f89f5e5fc9115467e0ccce353a563"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Congressman Sold Nvidia Stock Two Weeks Before Jensen Huang Exit — Here’s What He Bought Instead",
-      "title_ko": "하원의원은 Jensen Huang이 떠나기 2주 전에 Nvidia 주식을 매각했습니다. 그가 대신 구입한 주식은 다음과 같습니다",
-      "url": "https://www.benzinga.com/markets/equities/26/11/63512862/congressman-sold-nvidia-stock-two-weeks-before-jensen-huang-exit-heres-what-he-bought-instead",
-      "ts": 1795210861
-    },
     {
       "source": "Benzinga",
       "title_en": "KKR Targets $8 Billion-Plus EdgeCore Deal as Data Center Gold Rush Continues",
@@ -11504,6 +11497,13 @@
       "title_ko": "젤렌스키 “성탄절 전 3자 종전협상 개최 동의”",
       "url": "https://biz.chosun.com/international/international_general/2026/11/22/SDSJZBSB3NBLDKQ5CE7SG3DHMI/",
       "ts": 1795314772
+    },
+    {
+      "source": "서울경제",
+      "title_en": "[단독] 서울 금천구 건물 지하서 미라화된 시신 발견…경찰 조사",
+      "title_ko": "[단독] 서울 금천구 건물 지하서 미라화된 시신 발견…경찰 조사",
+      "url": "https://www.sedaily.com/article/20117316",
+      "ts": 1795315224
     }
   ]
 }
