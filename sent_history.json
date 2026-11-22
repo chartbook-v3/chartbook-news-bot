@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795383719,
+  "updated_at": 1795383874,
   "id_hashes": [
-    "598e59bfef6f4ed59d7616843ed6711dd44f16b1cd71de5c58ebcd111d50d503",
-    "868e638301bc3a19583f1daea19c60c7b44e9d3cd6eee3065166c591523e1c20",
-    "79fc0612dd2ed5188826190ba4045cb988404ceee4a516e6d516c5b02fc58863",
     "5ad254253574e240f2fbd11101359a59d3bfa88bffd9dda901831202c285bdc7",
     "f6036660804cd1178e15f2fa25e0faaaaba37012f0cb69a9d27724672bafe125",
     "407cf4dc5fb25d9783b50a5e62f4c1afdf4f562ddbc8aae935e82b264dcc2bea",
@@ -4000,11 +3997,12 @@
     "f91a103284bb7c940e18670b45cbb9ad0a3826a5f136d7e546d9a8d77aa8b128",
     "cc394a4e9cec9316482194d8639e5c6d35791b2f930e06c1898e32392fe1fb27",
     "0d0a245aa38d12afff5cb71f41c683b8299890a42368ca9f99cb580a661bf337",
-    "0ea68e8e71e50d35fec973410300362b3d93358e8e68360e9fa79a8934c77f10"
+    "0ea68e8e71e50d35fec973410300362b3d93358e8e68360e9fa79a8934c77f10",
+    "67ad6594e1234f1050678230b1bab6c6239fcb3a190bff79ce3ed4c8a52ae46b",
+    "ad1b62362edf54df62d8ce9d0761ca6a7b5017951f4addb7454617de7a3bab3d",
+    "7922a57800a85edc844e4515618cab4b733690f68725b88e7c62bfa53814a641"
   ],
   "title_hashes": [
-    "783b0754ced888a755fa69e15247e0001d9bd07b701fd4f68bc80cddd45cbcfd",
-    "ae6aad173be0bab341ddc268ab5f6d7373687f01f65c6d1d22ce29b6f70458a4",
     "1e2ae5f536cb29f76a055299f2efa46a189622439e515dc0781f4d76a014ce03",
     "c405e66d5cda67e316ea4ab97b4e45d787e75fe7835c68666472bb0a72ce28f8",
     "d7c46df58992f104fca97d854c156f29a66969974f597bf3cd08133c7387effa",
@@ -8002,16 +8000,11 @@
     "600c3fc8a2a2e786bcdc2760a593f85a61947d5c20f47423efc4c72da2b28541",
     "e31a1aed02f53ad28ae1aba3ac9ee7b97571fd5270390105288979ecd57a5496",
     "f768b5118bef0b09b4864d15007fc9ce0fad1a79ae1b2e7ce3ecf906aef3a29c",
-    "3efd105c0d5248858a868bee14ee116b2475c4ce9a2642408152838258526761"
+    "3efd105c0d5248858a868bee14ee116b2475c4ce9a2642408152838258526761",
+    "7f570ac74ce17973f74818a40a729fff47cefc3dd87a0a19f6fce5ff11c61357",
+    "bc59d882330359b05d1b5c977b2ba7256d8de67c2368a179c3276ca97af163cb"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "IRAN SHOWCASES NEWLY BUILT UNDERGROUND 'MISSILE CITY' FEATURING A DUAL-LAUNCHER SYSTEM",
-      "title_ko": "이란, 이중 발사대 시스템을 갖춘 새로 건설된 지하 '미사일 도시' 공개",
-      "url": "https://t.me/marketfeed/1083179",
-      "ts": 1795259154
-    },
     {
       "source": "Wccftech",
       "title_en": "Radeon RX 9070 XT Reportedly Runs Resident Evil Requiem 10% Faster With AMDLSS5 2.5, While Using Around 500 MB Less VRAM Than Version 2.0",
@@ -11504,6 +11497,13 @@
       "title_ko": "트럼프 행정부, EU·호주·한국 대상 디지털 무역 조사 착수",
       "url": "https://t.me/marketfeed/1083532",
       "ts": 1795383662
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Anthropic (ANT) Stock Analysis Report | Ratings, Financials & Performance",
+      "title_ko": "앤스로픽(Anthropic) 기업 분석 리포트: 투자의견·재무제표·성과 점검",
+      "url": "https://www.benzinga.com/quote/ANT/report",
+      "ts": 1795383873
     }
   ]
 }
