@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795357482,
+  "updated_at": 1795357638,
   "id_hashes": [
-    "2e2c1be915dd3e8cdfc88dffcad9823669c9e1c80dba4ec6f8ff3307f3948884",
-    "7c891f0405d55763441425adfc4b4135ad5833e05e5a5f0b9d4b3cd4ee209ae3",
     "7704b6ebf2f60656e227774675e2025d94b38b59a35c7d6e4e521d5628d3121b",
     "44c83c6714dd62f65b86f6b5360ef4589de1dc082f5035622f7ad0cc73429fc3",
     "a3b670b7871dbc4dd8c403e50f738997cf5aacddb445de9a450bd251c7678a47",
@@ -4000,11 +3998,11 @@
     "b141a1ffca93a1cf340de09a5a796c0e0e68206e12ff56e0a1a2da1cd1b1e9ef",
     "2d346a6b0d50b0cd35637cb272ef9b98554c8631da611678c11a1b4e75a515ae",
     "ed2ad34e6522ca91b731477c3a2b57261b231e45c994a0bef81052fcb008ed66",
-    "92f292b367df27384fb99417789682c3c3909c87d229dc5342a7621134748a0f"
+    "92f292b367df27384fb99417789682c3c3909c87d229dc5342a7621134748a0f",
+    "35d964f68efe47a065215c244233b93fa5053a76325b7b97327ce4a94b945a4d",
+    "64c5c9232ad8836c68089bcefae3f1d0ce6ccd71554115001fa8184e49f71636"
   ],
   "title_hashes": [
-    "10dbad9a4f8da1105188e15112b55d3f0579f88de25b0dfbbb4691acd6d6ec4a",
-    "13e39d453d57dbda4fb4161ca3f6ce154a1e9977a57597426b55aec986f644d2",
     "959bff3ac3fa46b6be23cdfa19791d99ad55ee1c27fe2cc5df273cb4872f19b7",
     "c5d99230ad28926b2c1a6cf5fa9324ef468aee21d2573f8248c4cc3b62c4734b",
     "be530f980123860dbe0c4c6937054aa1d936dc362d2016f01c4f6492040ce0fe",
@@ -8002,16 +8000,11 @@
     "a1a7a6b00243e65dc96a3b641b7b288777f1495fa8c06d21185bb500c9343aa4",
     "d4de1f7160038602cba04e9f3aada18af8e8aec9de59ae8a393ca0fabdc6395b",
     "b08f72bcb9d0b50696068a46323cfb927d33e2de7282baca613386de7d23c905",
-    "a4e676a4bb6caac55b51d136db3f3135bbff7daed8f0f5faf66076e1d7aa90f3"
+    "a4e676a4bb6caac55b51d136db3f3135bbff7daed8f0f5faf66076e1d7aa90f3",
+    "0103745cd870f9b5100cf00f68a3c9bc6bd9d263a9c9731f3aead593e891e58a",
+    "754899aa69e8e4002a1573da0d17c17d41bd67d9e9f522cb3562674b76adef1a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "S&P lifts Uzbekistan's rating to 'BB+' as fiscal performance and external position strengthen; outlook stable",
-      "title_ko": "S&P는 재정 성과와 대외 지위가 강화됨에 따라 우즈베키스탄의 등급을 'BB+'로 상향 조정했습니다. 전망은 안정적",
-      "url": "https://t.me/firstsquaw/194773",
-      "ts": 1795240424
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Oracle's Abilene facility used to train Astra-6 is almost complete, with the Shackelford gigawatt-scale campus fully permitted",
@@ -11504,6 +11497,13 @@
       "title_ko": "연준 인플레이션 억제 위해 추가 금리 인상 필요 가능성",
       "url": "https://www.bloomberg.com/news/videos/2026-11-22/fed-s-inflation-fight-may-require-more-hikes-video",
       "ts": 1795357419
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Nvidia's AI Demand, Alibaba's Chip Pressure and More: This Week in Tech",
+      "title_ko": "엔비디아 AI 수요·알리바바 칩 압박 등 이번 주 기술주 주요 이슈 요약",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63517079/nvidia-alibaba-walmart-pony-ai?utm_source=googlefinance",
+      "ts": 1795357637
     }
   ]
 }
