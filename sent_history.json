@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795389159,
+  "updated_at": 1795389307,
   "id_hashes": [
-    "03221f7046c99680ac03a0eb7b8a890df86e79f85cde5ad93893322581b71f99",
-    "94568aa96b30c74d330e6867724bc10dedef7bc1cfa2051ed308c326054c600a",
-    "133271fea9c288fc44936dde5256e52a7b9fab0658325e8603bdb521a3203667",
-    "5adfd6dad79a5bfa8c5280064cd458fdcff67c15a7bc9c63e8b55d15feb39914",
-    "c0dbbb7ff3a31e38b41c326ea16eec8ed6b83e52678ee00e431fa4c1ac592087",
     "7c97859b41251568e026d6e7ae0de47daa97315ade63f768971132556ce40f57",
     "07d3e858fd21a1487d0e0dcc84978e993007d96da4405afa9ef241d696dfe788",
     "ec0f6974074d9c2d1052c2e17efd24c69ba8ac1e9c4fdcfc10fff4a7255b7f44",
@@ -4000,13 +3995,14 @@
     "28c4783bc4064db19b0c3f10f93e8e4466185cd373cacf75ec065e9c3308978f",
     "a0bb36a19b2a41f19255233b3744a1429163f12cce5ce1844beb4cf87c18819a",
     "a08ad3164f49ffa468ced78cfc0d2f417c81af8b537471bdde4d03488c42ed1f",
-    "866a222654f3d530ce4b1a32b8a98fbd571832a19d745a9aa318680f38ec7993"
+    "866a222654f3d530ce4b1a32b8a98fbd571832a19d745a9aa318680f38ec7993",
+    "dd3c1c8bf75a5cf052108bfc422d48558c97990805db95aee1905682f1c5e362",
+    "0880f3f8447ba7cbd04d1049e5730100cdcbe7a063064b0abae2824e904c0a04",
+    "e3241469c54c98008743d0cc1097041ebfa39afe58b195f6ef45334f7dac7589",
+    "37098f3e8026e90ac13de9681c697fec3e174c7725d3aa1392269e87e924cc42",
+    "f15fbc19fd5201a63c14d7485ec50175f91a3c7311ebc17fab91e9815800d7b2"
   ],
   "title_hashes": [
-    "eff3a3caecbf8dc6a2d5c2344ae37123d92c4d49700c254da903e9ed942c82f2",
-    "e52530541fba7cadb6cb7022b76d97563525d07899c31cbae2008e082b73f903",
-    "caea82b4a4dc88d82f8cb62f432c36a571c845a997085d09643b7cc97b4e7c75",
-    "c9031e8380270e814eaa3931ee16a2586f54ca06d754f89f90da157bb5e3d259",
     "d22a0e7ff6b08b17aa4be2ed8eb1b877ddcab744430ad68937df56718d73486f",
     "988dd346c08df8f58fc7c483f3fa72f291b82b02c27e74c84fdc58b08006ca99",
     "f53cab6bf0f9d4ba55b63cf101fa3c972ab0de32771c58ebe1cedec63669bd52",
@@ -8002,16 +7998,13 @@
     "93448327453a9b30189080125b20717fdb73b7a27fe5a60488572fbb21c9cfd6",
     "84822e29464d64604d1bbf350891ac8c89cacb7fc4e97ea18e7f3c38a5f0884b",
     "d10b8dee74894929d8b218476e87a73d10906b3e0f9c8326c03c17637271961a",
-    "4b0d8f771e1b20839e2ab19c0638c6fbba18cb6d65fc4aed5cd4c25699ca1a0c"
+    "4b0d8f771e1b20839e2ab19c0638c6fbba18cb6d65fc4aed5cd4c25699ca1a0c",
+    "8324887f2c57254647a2bb4ec5f59a04192dc2114a1ddd18a48a16bb81c3b067",
+    "bd98cc7fd57229676f10e94fa2480f8f95813aaca7e960379b1a08e36ca98e61",
+    "b7389c0e2021ad4f8b781b005fd4de035a73e6c4ceb2984c03b980f6c8942fd0",
+    "643eeddb5dabb25ba27a2512e140dde62c5231043334df09ec27e3174923270a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wccftech",
-      "title_en": "Samsung’s Memory Production Reportedly Almost Fully Booked Through 2029, As Customers Seek Supply Deals Until 2031",
-      "title_ko": "삼성전자 메모리 생산, 2029년까지 사실상 전량 예약 완료… 고객사들 2031년까지 공급 계약 타진",
-      "url": "https://wccftech.com/samsungs-memory-production-reportedly-almost-fully-booked-through-2029-as-customers-seek-supply-deals-until-2031/",
-      "ts": 1795266287
-    },
     {
       "source": "Bloomberg",
       "title_en": "Anthropic Makes Its Public Market Debut",
@@ -11504,6 +11497,13 @@
       "title_ko": "美민주, 한국 3500억달러 대미투자 들여다본다…관세 청문회 추진",
       "url": "https://www.hankyung.com/article/2026112329517",
       "ts": 1795389158
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "美 '나토식 안보보장' 시사…우크라·유럽, 기대와 우려 교차",
+      "title_ko": "美 '나토식 안보보장' 시사…우크라·유럽, 기대와 우려 교차",
+      "url": "https://www.news1.kr/world/usa-canada/6362214",
+      "ts": 1795389306
     }
   ]
 }
