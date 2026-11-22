@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795356421,
+  "updated_at": 1795356574,
   "id_hashes": [
-    "fa886cfd1dae3ef681792e17c3c3b73001fde1de176dcaefc65db24408f980c0",
-    "443990d3d0d70e5303f3e33e14dbec08f4dd816c43fb889cb179eabad3338ef3",
     "18604f72ca43b3dfb8ec14278a1d76c45fc6a861d8875992f6920ce5f716da05",
     "970618c3b0d8c596bc5a818bf66fae438b1d1b0468e89c13c0c4d1ca65db37fd",
     "d74d11c782aefb37b736a1e74f4ebd8932c039d31e8fa58cc08502c331af0c4c",
@@ -4000,10 +3998,11 @@
     "23934ac96d2603e0f5ce33074985e616975579110f28f4c3b5b0230978b63ec8",
     "b0c7ed8f63421d9465275e08c4a91580d01923b23db8a637912c89b64d4c0084",
     "6a14fed0aa0cf1284cf6ef36b6d6607b22e118e1e7a39205ec83a5e83a374e66",
-    "94d2d328f63483fc75cc9c99bbb7e5c0c0c67f6f8f23e0bab0fd6aaca1d27c72"
+    "94d2d328f63483fc75cc9c99bbb7e5c0c0c67f6f8f23e0bab0fd6aaca1d27c72",
+    "60ef0b87c29e2389d2288261a1c2267b81fc8b040fc84acb7b1d7409314964b6",
+    "401cb56e02900ce94d999ee0c6c0f666f7c3f966ca4f621c6a0e00090addb6b3"
   ],
   "title_hashes": [
-    "058593fed69e6e4e8c4a42de2dc41b93ad8a117aa14ef5bb25526441ad7bd3fe",
     "a1474383dbde7e7716934a4236f0cb70dc67025467adab4c6b6bad5f8aa62ef3",
     "890906052bd5a37cafc0ee0db6f66bf5ffdb0705529765b1101fb61941c0b671",
     "f08761892aa8406276cb04bb7723a9c11d999ffeff019484dbd22d23c928f7e7",
@@ -8002,16 +8001,10 @@
     "a0293eb175c4dfb7d006b601212279bb2f377ffdf5b7e94c2019716a42f87f60",
     "e359f678b2152f828a058771042eaed8a0dcfb01ce40911b658dbe71d49d1353",
     "05dac44f4072d26dafd3e43f67052d81d0a92ab34b62f0b3a0a39f00e9cb08e4",
-    "c8b1cd5aa19b854b4c75aaaa1894b29ed4b6a4f92ac339c91ace4913ff7e3125"
+    "c8b1cd5aa19b854b4c75aaaa1894b29ed4b6a4f92ac339c91ace4913ff7e3125",
+    "2d2a41bd688dd5e0f8075e963c725d7a35139ff90fb0e2501713073e44b82efd"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Zambia faces significant agricultural and energy security challenges from El Niño, according to S&P",
-      "title_ko": "Zambia faces significant agricultural and energy security challenges from El Niño, according to S&P",
-      "url": "https://t.me/firstsquaw/194770",
-      "ts": 1795240333
-    },
     {
       "source": "Bloomberg",
       "title_en": "Australian Energy Officials Warned of Data Center Risk, Age Says",
@@ -11504,6 +11497,13 @@
       "title_ko": "강력한 실적도 무너지는 AI 트레이드 막기엔 역부족",
       "url": "https://www.bloomberg.com/news/articles/2026-11-22/strong-earnings-prove-no-match-for-the-crumbling-ai-trade",
       "ts": 1795356420
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "[단독] 법관대표회의 의장 \"조희대 탄핵 의결하면 판사들도 '행동' 나서야\"",
+      "title_ko": "[단독] 법관대표회의 의장 \"조희대 탄핵 의결하면 판사들도 '행동' 나서야\"",
+      "url": "https://www.news1.kr/society/court-prosecution/6362172",
+      "ts": 1795356573
     }
   ]
 }
