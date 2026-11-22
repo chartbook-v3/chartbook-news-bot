@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795309143,
+  "updated_at": 1795309303,
   "id_hashes": [
-    "bc0c3087773d3126a04eee7fb2bc8bf3fed43332763c50c93547deb5643d5ccd",
-    "54a3612986536625c0e7e6c16f454828b56858fae2b991f929b8fb7ca3e2288f",
-    "b9f1e181e46f5c106a01d056f8374b2731130b0d91157fdd3743d871f01a5208",
-    "4eb71475a28fa942d9ae98647a6a1a786c8d79447d105fa62d79b1b3b14ad67c",
-    "57c18ca685c76a5c3b992cef8b35efe58cc7ef101c62fdd59b1a5cc385afb11b",
-    "5d40f2d59cbdcc362fceb8927bdfd4d214ab13f77a64983eba399cd1ee742430",
     "7a0ecf7a4ae65d5923c49b7a7c5cc7cf9cd0633396c2db5339dea8273febba8e",
     "848ed224209cea191cbf82b2a80a9aaaeda9ff81974e79edc28a49aa201391b2",
     "e589c01b89cb5e72f52d2a6b8baaa1adc14f2bf0f16392ff6000f6e6c98342dc",
@@ -4000,13 +3994,15 @@
     "568038324cfc4b7c193f43db720278940c5d0fde864a6bd1f84a0c31561fe6b8",
     "5b29e5a660eb3a1beb62f6abd6c72c0eaba8c3eb1f975520c07cfdd4d493a109",
     "3853093b370de9b87d16ef398f9a1493a169b0f970e25c510180b63f2e6bbddc",
-    "cd70d57910e8bae65da514efb714be00aced63daa2c8aa430d4d4ec449ad26b8"
+    "cd70d57910e8bae65da514efb714be00aced63daa2c8aa430d4d4ec449ad26b8",
+    "1bce9d0e0f10639a3350a406d79f3c3cd0b14010be6755d226a4e3d21eb9dd6a",
+    "8463e078e8c50ba1284cc8e8a3f1f894ab45bae3e42468a391cc36b108910f8b",
+    "209fb5a92303ca55407f940edc35e79605c5813d82b9da92142249ef82561fff",
+    "c23bb13e8019c0b3a7687a4265a7f162095593d6e7f37b753d46b6d5e2958e57",
+    "3d5ab4ad4c8521d56088f25d34e796353cfb12f71d11b300a394e14bd5e2222b",
+    "492e04e5c0a8baa0d9ae23f7a075a6c0a7c54eb708bbd4aec42cc0411d164e67"
   ],
   "title_hashes": [
-    "ae203cef92d5e302f9a59207852f906347f4081b5c8d0b79dc93eb2d67c38a10",
-    "f263887c0f75e04de95994b16dd5ddddcb31f0c267502d75053afed96a8e413e",
-    "006dffce30e4328b1c6d90f8c0dc79112dda40649949ad80cfd322e4064f8f92",
-    "3f0146f889e7c014e4f22802aed54a3c3d41de6086d03d005e4182302697267d",
     "9bc9858fc5ed2108ee7a04111e4c98d18d1484e24ca2467f83fe6e29b98ac893",
     "b850c6e116ae07c260bb17b57bbb96a415697ad6221c0693f9df12f4ce90b68f",
     "c49eb5def9a8ef703c5700c22cfee6ef1da7a699a184a21a2f0f24bc81f61496",
@@ -8002,23 +7998,13 @@
     "82bb452d7549c4a4cbd0eb579998e6db8710db45c822fba766808f65b8374247",
     "0bf5f48b7c15f928100a83a9b86398fa1a29bf8c1164017c8af01d1c3f9ceaf1",
     "35b9c3f1f3b2b1937c8dedf76c4692f1f45e3f60a071214790e5ee96f90396d0",
-    "552dd3b30bf59f35d43b95a7eb60d50ed3aa8801b4db4dd85da1a79cb033eeaa"
+    "552dd3b30bf59f35d43b95a7eb60d50ed3aa8801b4db4dd85da1a79cb033eeaa",
+    "61c405e1c4f5db52f1c9e973e291871ca085dc9c42d5615b13c53fd589ab2639",
+    "f4a73337bc71c25022700ad07b777d73e3681d22ab91ebf322eecf82b0f1b4c3",
+    "168b23d1e7598593f6f8fb60a5c599ef0a12b94f630a41fdcc37fb5b06e9864d",
+    "b426abb3e7416ac44b840f50398dcc8e21d45e5d00f4d7582ca6c538dd6b126b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Tech stocks lead Wall Street bloodbath as S&P 500 posts massive weekly loss",
-      "title_ko": "S&P 500이 대규모 주간 손실을 기록함에 따라 기술주가 월스트리트의 대학살을 주도합니다",
-      "url": "https://seekingalpha.com/news/4675345-tech-stocks-lead-wall-street-bloodbath-as-s-and-p-500-posts-massive-weekly-loss?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795209484
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "AMD slumps 13% as China chip scrutiny continues, tech stocks fall",
-      "title_ko": "AMD는 중국 칩 조사가 계속되고 기술 주가 하락하면서 13% 하락",
-      "url": "https://seekingalpha.com/news/4675341-amd-slumps-13-as-china-chip-scrutiny-continues-tech-stocks-fall?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795209551
-    },
     {
       "source": "MarketFeed",
       "title_en": "IRAN FM ARAGHCHI: ISLAMABAD MEMORANDUM NO LONGER ON TABLE OR OPERATIONAL",
@@ -11504,6 +11490,20 @@
       "title_ko": "COP31 최종 합의 임박, 의장 \"협상 진전 중\" 밝혀",
       "url": "https://t.me/firstsquaw/194893",
       "ts": 1795309141
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Egyptian government confirms normal communication channels with Libyan army remain in place",
+      "title_ko": "이집트 정부 \"리비아군과 정상적 소통 채널 유지 중\" 공식 확인",
+      "url": "https://t.me/firstsquaw/194894",
+      "ts": 1795309297
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Egypt reiterates support for Libya’s sovereignty, stability and national institutions",
+      "title_ko": "이집트, 리비아 주권·안정 및 국가 기관 지지 재확인",
+      "url": "https://t.me/firstsquaw/194895",
+      "ts": 1795309301
     }
   ]
 }
