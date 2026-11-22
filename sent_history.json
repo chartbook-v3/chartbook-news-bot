@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795329084,
+  "updated_at": 1795329233,
   "id_hashes": [
-    "ff43686d557b6f04faeb478ab788d6d5861bbe410c4e0714a0f8462699df996b",
-    "0a6fd83054e332b8eb71d898f52436c6850ffac48cdf59e388804e26e61a17cb",
-    "41c8ddd805f6174ff9d01e2c8118174fc3400cbe1ce822e5716ba08cfc18e5db",
-    "778379be40ef072e07d8c9038b93968120c2bb567978ebdfa9e7d55827f3ef3f",
     "9b6676f24afba3f50870064eecee903652e63c8a42b7290e8bf47b42056b9ddf",
     "476c44286f30897ebab20ef88c8cedb79150a6c2dc9d9e5c51240757d5a478ed",
     "df183adfba665e1c811412964fb86852e8a7f88cbdf8496df33be460069197da",
@@ -4000,14 +3996,13 @@
     "e653a36d9fbfbe8c29f0feea5ffbc1a2834783a079b53428b63d8956ca1fcea1",
     "f695db294bd1faedd54a7262fbd938a8dbfeea2fe0ac9db396bb4fbb5eb3dcb4",
     "64e54f96d216e6306f1e002f1972b556230a7fd78b56e9d4af5cc8c5c2d09779",
-    "2967125bbd160ac31f1381b96e5dfd26080306bceea20827f39252d6ba2f7faa"
+    "2967125bbd160ac31f1381b96e5dfd26080306bceea20827f39252d6ba2f7faa",
+    "e06d14c1467814ec4e15f540da011eb3ac62b6e0b6a95ed9d1e52879a432e5d1",
+    "861624db75ebec6b8b155f59002f0d8d8be69d28b257f827481f8f7378e04ff5",
+    "bbaf02319275ed150070dba7c510802d649a85d1d6eefdfacf141b0aac6a1e9b",
+    "35efe652b1758e45187500f7509e6332c07039116aeffc66037fbdd3ed49f9f0"
   ],
   "title_hashes": [
-    "892423e71a4471663fa7b4755cfc15cf299c0a665158c36f3dd1a0398919fa84",
-    "05a44e3682082a6e63c9a5d110c43cc54bcdfa9cb6b3f22029ebfa3d8c922105",
-    "4bf572ab3271bbcbdf18b682183c034c89bfdcef18ac2b1edb777cbf3aec05fb",
-    "7620b8178a12691a4255fe625f53e76f44ba8cf6352387da386816e62d1ff9f7",
-    "31b3849cc9eda6fd9b7712b7e8b17fd6734dc4a8458c219867281654bafeedcf",
     "70f3af756c3d35cab93d77f89b52e468b46ee2d645ac4cabb3281abae2e683e4",
     "4d6a2847e7f5cabc534c436883b8e201263870416c43a3075a114a90a99cc1f8",
     "117d7eee94ac7dc60ed25ef89fc4e8377e21bfcaabc35b136a877e253b9a2008",
@@ -8002,16 +7997,14 @@
     "7c688e806846180cae387cbaff7d8c06ff39084873f734569e973fd11e890829",
     "4b36ca57169dedf17d655d985177cf6e9319fbfc5a14a0e914c48a6d662edbdc",
     "2088548ba5df87422bb2abec128e6cdfbcd837e1786fb3f07986529f5fa5e230",
-    "f1f6c75477fe9a8b3c3010aa04914b3cb1470e1b36684824d6e06093a2726281"
+    "f1f6c75477fe9a8b3c3010aa04914b3cb1470e1b36684824d6e06093a2726281",
+    "359ad46ec48a04a58a6307d2230435ef51b16c93d627ed6f332b7ca958387f1f",
+    "f7efb9f17577a783a9872a528c0ce3a111a43d764b1a1073ee94154dcd39877b",
+    "16813a340ce2ef5f1f235adbd63772e40a4f027247c8fb541113641c6d692dfc",
+    "86c4f2f7c9c854fc8227d981457b5d9d84d15a6a44810c8ae279675cd49764e4",
+    "615576f877065eb09f55c3ea2d57ddd9432b946b2554055d67a960215f2cd742"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Barron's",
-      "title_en": "Nvidia Can Rebound to $200, Analyst Says. Plus, L3Harris and 4 More Stocks.",
-      "title_ko": "엔비디아는 200달러까지 반등할 수 있다고 분석가는 말합니다. 또한, L3Harris 및 기타 4개 주식",
-      "url": "https://www.barrons.com/articles/nvidia-can-rebound-to-200-analyst-says-plus-l3harris-and-4-more-stocks-3c840464",
-      "ts": 1795217334
-    },
     {
       "source": "글로벌이코노믹",
       "title_en": "신약 개발 속도에 나선 빅파마와 AI 기업…앤스로픽 상장 맞물려 협력·경쟁 부각",
@@ -11504,6 +11497,13 @@
       "title_ko": "양자 컴퓨팅, 신약 개발보다 에너지 분야에서 첫 실질적 성과 전망",
       "url": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
       "ts": 1795328938
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "DL이앤씨, 2조원 규모 성수2지구 재개발 수주…'아크로 성수' 조성",
+      "title_ko": "DL이앤씨, 2조원 규모 성수2지구 재개발 수주…'아크로 성수' 조성",
+      "url": "https://www.fnnews.com/news/202611221436005180",
+      "ts": 1795329232
     }
   ]
 }
