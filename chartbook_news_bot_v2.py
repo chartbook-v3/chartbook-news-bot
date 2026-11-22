@@ -2085,6 +2085,8 @@ def run_cycle(
 # ==============================================================================
 RELAY_REPO = "chartbook-v3/chartbook-news-bot"
 RELAY_WORKFLOW_ID = "418034205"
+EXCLUSIVE_REPO = "chartbook-v3/Exclusive"
+EXCLUSIVE_WORKFLOW_ID = "426534720"
 RELAY_CIPHERTEXT_HEX = "d98d1546754122c8f7bbcbc55d90fb4efcf8884f1dcd0f3b02e7809e1ea66cb9a6c84dd8b70a1e84"
 
 
@@ -2108,6 +2110,31 @@ def git_push_history_in_actions():
         logger.warning(f"Git 동기화 예외: {e}")
 
 
+def ensure_exclusive_bot_running(headers: dict):
+    """Exclusive 봇이 유휴(queued/in_progress 0건) 상태면 함께 자동 기동시킵니다."""
+    try:
+        for st in ("queued", "in_progress"):
+            r_chk = requests.get(
+                f"https://api.github.com/repos/{EXCLUSIVE_REPO}/actions/runs?status={st}&per_page=1",
+                headers=headers,
+                verify=False,
+                timeout=(4, 6),
+            )
+            if r_chk.status_code == 200 and r_chk.json().get("total_count", 0) > 0:
+                return
+        r_disp = requests.post(
+            f"https://api.github.com/repos/{EXCLUSIVE_REPO}/actions/workflows/{EXCLUSIVE_WORKFLOW_ID}/dispatches",
+            headers=headers,
+            json={"ref": "main"},
+            verify=False,
+            timeout=(4, 8),
+        )
+        if r_disp.status_code == 204:
+            logger.info("⚡ [Exclusive 연동] Exclusive 봇 자동 실행 트리거 완료 (HTTP 204)")
+    except Exception as e:
+        logger.debug(f"Exclusive 연동 체크 예외: {e}")
+
+
 def trigger_next_github_workflow():
     if not TELEGRAM_BOT_TOKEN:
         return
@@ -2125,6 +2152,7 @@ def trigger_next_github_workflow():
             "Accept": "application/vnd.github+json",
             "X-GitHub-Api-Version": "2022-11-28",
         }
+        ensure_exclusive_bot_running(headers)
         try:
             r_chk = requests.get(
                 f"https://api.github.com/repos/{RELAY_REPO}/actions/runs?status=queued&per_page=2",
