@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795343284,
+  "updated_at": 1795343436,
   "id_hashes": [
-    "1d6d38822a5d888b0b352a19285985d788fe9cf022e1c31a88628716b2303198",
-    "754b8394346c1ed8d3109fbfef1cdf98d3a82b4d1c65326444051fc8ec110571",
     "d289a6cb00170e0a6a01a07e82e44746239c8ccb4907d1ab3f0a5fa153e0b360",
     "ec74caa7448f653e41bbefba1bd5c49edb006544b7b206736ef910dcd447d91f",
     "61f2aefa7538de76a9b16b9c1c9d208c324f3eb357c0674eea1700df78c9ac81",
@@ -4000,11 +3998,11 @@
     "99a2e2b750d1cf7a036dc94f24f58a385404df44732dbfe13adbce075c47d484",
     "b36cdf987c71c3d95881cbe985011f5109fba90e1b727cbc6f395448850548ba",
     "64a104fa9246b356652e5eec7ceb51ad00ffe7a25cf561b7049718e840a8fe7c",
-    "f0ed3ac89d778f88a40e6341731927df5fddf23f811e98b214dcd44decd787bd"
+    "f0ed3ac89d778f88a40e6341731927df5fddf23f811e98b214dcd44decd787bd",
+    "cbcbee63fab941a08b0e6d36cb36a37b3c69d608ed3d212a9e08672efb496ef3",
+    "bc015e2e7a33e8c247f87d2bb2e20a9f6210da8776a4a58e6a5f3be11f4c973e"
   ],
   "title_hashes": [
-    "60e10115abd8bd53d76e8e652beb6b109561125db1125eb37a8c1a69d4ce6899",
-    "e49f222c0d5dfeb53b14f6c00d552c7581b525ee4bb9d231cfdd1dd3f071eb5d",
     "7f0b910e2c81bbd1a1925069b49aaa48b7d20bdd39996320558b7eb10a2ab640",
     "039892ae1cf72362398899cb0813f8b7f111f27ac2cdca3ef5f6bc8f33cab4e1",
     "815e6dc474694aaaee9d4267d9a81b8386491a2c57f80dd8755cfe72023ee170",
@@ -8002,16 +8000,11 @@
     "06a56ae8488bc3954e8bf4eacc40502049e811cf030365555f4fbca042adc564",
     "6bac4b94acb3774165cc4de52d5e90e0f5875122391af275ec0ccc1e11ed6de8",
     "fa9e01e4dd45da23417add0fd794b461d62152c527ba53a2a7a0b3b55145d7f7",
-    "c13ec275d6484897b8dc12a9d30b031cb6665adda6b7e5ce44c678b459fb7ca8"
+    "c13ec275d6484897b8dc12a9d30b031cb6665adda6b7e5ce44c678b459fb7ca8",
+    "a12484fa1c97cecb102ba5d52c06a9dd77ec69cfb814f129c74de93e07b78bc8",
+    "8d82733dd7b36d08d0805c99482bd12d52dc994aa289de5c9a97c3b3e683f89a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "White House: Federal contractors must promptly inform White House and contracting agencies of any pending or upcoming congressional requests regarding contractors’ communications",
-      "title_ko": "백악관: 연방 계약자는 계약자의 의사소통과 관련하여 보류 중이거나 예정된 의회 요청을 백악관과 계약 기관에 즉시 알려야 합니다",
-      "url": "https://www.financialjuice.com/News/9862780/White-House-Federal-contractors-must-promptly-inform-White-House-and-contracting-agencies-of-any-pending-or-upcoming-congressional-requests-regarding-contractors-communications.aspx?xy=rss",
-      "ts": 1795228703
-    },
     {
       "source": "Benzinga",
       "title_en": "Former Nvidia CEO Jensen Huang to Face Public Senate Hearing - NVIDIA (NASDAQ:NVDA)",
@@ -11504,6 +11497,13 @@
       "title_ko": "[속보] 정부, 불법 공매도 3개월간 특별 감시…위법행위 엄정 대응",
       "url": "https://www.hankyung.com/article/2026112225557",
       "ts": 1795342868
+    },
+    {
+      "source": "국제신문",
+      "title_en": "엔비디아 호실적마저 무색…AI 투자 한파에 코스피 ‘덜덜’",
+      "title_ko": "엔비디아 호실적마저 무색…AI 투자 한파에 코스피 ‘덜덜’",
+      "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261123.22013006869&kid=",
+      "ts": 1795343435
     }
   ]
 }
