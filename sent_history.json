@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795357331,
+  "updated_at": 1795357482,
   "id_hashes": [
-    "d7d85161769e65009e54a4230014dc4235b62e1341cb67352818d8652ef47187",
-    "45f64a1a2712c58e6535915adfc3e63c4f36ff804d0c9fdfca1d5667c80daad7",
-    "1190a8036c6041e9b7d457281ce2e3d1748c094ab9b6dd07551da1f786fb3976",
-    "a04daef2f360b4fcceb9141059c9765109c302954e263bc7ba32970e6917ecdc",
     "2e2c1be915dd3e8cdfc88dffcad9823669c9e1c80dba4ec6f8ff3307f3948884",
     "7c891f0405d55763441425adfc4b4135ad5833e05e5a5f0b9d4b3cd4ee209ae3",
     "7704b6ebf2f60656e227774675e2025d94b38b59a35c7d6e4e521d5628d3121b",
@@ -4000,13 +3996,13 @@
     "daed9b3b89e235e62fce207d1c121a941e7d39d284dd97a378b6629eef85bc14",
     "dfc4ae0dafd6e91e243b2d6ce65cfda306c6a013f483dde4459ba275d2f177c6",
     "d373e5df0043862c1b9a3bf1a63e05c86d10e620c2048a3bd17aabda8a9d9a74",
-    "bd24ffe36a5225c01a077e606289e2aa2853755c018e8228cf7c07fdb334ee3f"
+    "bd24ffe36a5225c01a077e606289e2aa2853755c018e8228cf7c07fdb334ee3f",
+    "b141a1ffca93a1cf340de09a5a796c0e0e68206e12ff56e0a1a2da1cd1b1e9ef",
+    "2d346a6b0d50b0cd35637cb272ef9b98554c8631da611678c11a1b4e75a515ae",
+    "ed2ad34e6522ca91b731477c3a2b57261b231e45c994a0bef81052fcb008ed66",
+    "92f292b367df27384fb99417789682c3c3909c87d229dc5342a7621134748a0f"
   ],
   "title_hashes": [
-    "1fbab9413401b21a0452d25a868b3b22966c38d87172cf548f821fdc1e8808df",
-    "a9a75e7bcb09f0d6353add9972e3f4046fdb5dc0c3a4ff9d66e4e2b8079d3f09",
-    "c0b7f54340011066654e7e4a2c7e7b66758d2cfa55147397040ce6ec23111b11",
-    "dfdf792fa57e87fec451b8bd1202a636864009964a231124e9af2d351a420bdd",
     "10dbad9a4f8da1105188e15112b55d3f0579f88de25b0dfbbb4691acd6d6ec4a",
     "13e39d453d57dbda4fb4161ca3f6ce154a1e9977a57597426b55aec986f644d2",
     "959bff3ac3fa46b6be23cdfa19791d99ad55ee1c27fe2cc5df273cb4872f19b7",
@@ -8002,23 +7998,13 @@
     "f603ca9194ca6e868c78523d72492aa5372e6922c2d1118ad7a9343701eced0a",
     "ba411f55cf68b79d7b3d19b632c7a24a8fb96669f49803f88ae725c7ec90cf4c",
     "7cf092ef64c5094bee1c7d25a5224c07ab5a017e0daa1a9f1687ab63c916698a",
-    "78c4c7bf5034cf74d0151632cf5b0e65c698ffbff56f44cdd7c5e0b11c60ac05"
+    "78c4c7bf5034cf74d0151632cf5b0e65c698ffbff56f44cdd7c5e0b11c60ac05",
+    "a1a7a6b00243e65dc96a3b641b7b288777f1495fa8c06d21185bb500c9343aa4",
+    "d4de1f7160038602cba04e9f3aada18af8e8aec9de59ae8a393ca0fabdc6395b",
+    "b08f72bcb9d0b50696068a46323cfb927d33e2de7282baca613386de7d23c905",
+    "a4e676a4bb6caac55b51d136db3f3135bbff7daed8f0f5faf66076e1d7aa90f3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Uzbekistan's stronger fiscal and balance-of-payments positions drive S&P's rating upgrade",
-      "title_ko": "우즈베키스탄의 강력한 재정 및 국제수지 상태가 S&P의 등급 상향 조정을 주도함",
-      "url": "https://t.me/firstsquaw/194771",
-      "ts": 1795240361
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Middle East war poses risks to Uzbekistan mainly through rising energy and transportation costs, though S&P expects limited broader effects",
-      "title_ko": "중동 전쟁은 주로 에너지 및 운송 비용 상승을 통해 우즈베키스탄에 위험을 초래하지만 S&P는 제한적인 광범위한 영향을 예상합니다",
-      "url": "https://t.me/firstsquaw/194772",
-      "ts": 1795240363
-    },
     {
       "source": "FirstSquawk",
       "title_en": "S&P lifts Uzbekistan's rating to 'BB+' as fiscal performance and external position strengthen; outlook stable",
@@ -11504,6 +11490,20 @@
       "title_ko": "엔비디아 이사회, 지배구조 개편 압박 직면",
       "url": "https://www.bloomberg.com/news/videos/2026-11-22/nvidia-board-faces-a-governance-reckoning-video",
       "ts": 1795356974
+    },
+    {
+      "source": "CNBC",
+      "title_en": "26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage",
+      "title_ko": "26세 구글 직원, 연봉 32만 3,000달러 수령에도 최저임금 미만으로 생활",
+      "url": "https://www.cnbc.com/make-it/2026/11/22/google-worker-earns-323000-a-yearbut-he-lives-on-minimum-wage.html",
+      "ts": 1795357357
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Fed’s Inflation Fight May Require More Hikes",
+      "title_ko": "연준 인플레이션 억제 위해 추가 금리 인상 필요 가능성",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-22/fed-s-inflation-fight-may-require-more-hikes-video",
+      "ts": 1795357419
     }
   ]
 }
