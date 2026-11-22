@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795329233,
+  "updated_at": 1795329391,
   "id_hashes": [
-    "9b6676f24afba3f50870064eecee903652e63c8a42b7290e8bf47b42056b9ddf",
-    "476c44286f30897ebab20ef88c8cedb79150a6c2dc9d9e5c51240757d5a478ed",
-    "df183adfba665e1c811412964fb86852e8a7f88cbdf8496df33be460069197da",
-    "0610dee24f5b22d54eec57f76a2fdd0866f47261be8971ab37b57b648fcdeaec",
     "16ea8383caf36d03ebea8fb9ac999c84a63d52cbb11f87c3b0d4dff3546f0173",
     "1869032bca8ebb7ff6e01820d94c938f04669f50b9f10aec5112ea98be66d111",
     "294ca05189d4e9d463a78da6a02af9b9f0b102b3176062041ba9f25874546507",
@@ -4000,13 +3996,13 @@
     "e06d14c1467814ec4e15f540da011eb3ac62b6e0b6a95ed9d1e52879a432e5d1",
     "861624db75ebec6b8b155f59002f0d8d8be69d28b257f827481f8f7378e04ff5",
     "bbaf02319275ed150070dba7c510802d649a85d1d6eefdfacf141b0aac6a1e9b",
-    "35efe652b1758e45187500f7509e6332c07039116aeffc66037fbdd3ed49f9f0"
+    "35efe652b1758e45187500f7509e6332c07039116aeffc66037fbdd3ed49f9f0",
+    "e50aece4746e9ee3c87c7252019ef504e7e1a1e86f2db9c616a7cc8dd752e02b",
+    "1692d25c70bb09631b3c48b19598c04dfc602c4c50ea21707ae67627b176098e",
+    "9a9918949e632176669afc649f56c92b26ec9bca99e19aa57ea63b57e82b1cb4",
+    "6ff60f61dde9727a61bdbd2074026673b6e665d82f3148e1b4ff30a503641f13"
   ],
   "title_hashes": [
-    "70f3af756c3d35cab93d77f89b52e468b46ee2d645ac4cabb3281abae2e683e4",
-    "4d6a2847e7f5cabc534c436883b8e201263870416c43a3075a114a90a99cc1f8",
-    "117d7eee94ac7dc60ed25ef89fc4e8377e21bfcaabc35b136a877e253b9a2008",
-    "26934e77e0a528c7dee84949249aafb685845df9d66fe1c689e534a9c38f846f",
     "158aacc18fd5abab9415937d68266b29fae24b90454b44e1d7cf971329b7dcf0",
     "af7e49bf4f39202018b729f979c0c8be66a77bfb6099e13f133e4b95cc282dac",
     "f4c330b17cb2a6027ffb10a07dd618d769d9335c2153a3ee08e357b32841dd29",
@@ -8002,23 +7998,13 @@
     "f7efb9f17577a783a9872a528c0ce3a111a43d764b1a1073ee94154dcd39877b",
     "16813a340ce2ef5f1f235adbd63772e40a4f027247c8fb541113641c6d692dfc",
     "86c4f2f7c9c854fc8227d981457b5d9d84d15a6a44810c8ae279675cd49764e4",
-    "615576f877065eb09f55c3ea2d57ddd9432b946b2554055d67a960215f2cd742"
+    "615576f877065eb09f55c3ea2d57ddd9432b946b2554055d67a960215f2cd742",
+    "2aa59ae68548963716f410c308ebd7eca0bda5d8278689d8ee31ea5e0b7d3f0b",
+    "c46a10897582b0cfc31383eef7af6df2857dff707ffc5a3ec190e0e898d224c7",
+    "45724f054127eaed03655e79dac64376d70b8afc5bc04ce2941356649af185e1",
+    "85dfd0effa05e3a874e6be022c32adb7e289dd96367a26d2dbac46dd27727288"
   ],
   "recent_sent_articles": [
-    {
-      "source": "글로벌이코노믹",
-      "title_en": "신약 개발 속도에 나선 빅파마와 AI 기업…앤스로픽 상장 맞물려 협력·경쟁 부각",
-      "title_ko": "신약 개발 속도에 나선 빅파마와 AI 기업…앤스로픽 상장 맞물려 협력·경쟁 부각",
-      "url": "https://www.g-enews.com/article/Global-Biz/2026/11/202611210808181449fda4f5ab74_1",
-      "ts": 1795217800
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Gov. Lujan Grisham: 2028 Hopefuls Already Eyeing New Mexico",
-      "title_ko": "Lujan Grisham 주지사: 2028 희망자들은 이미 뉴멕시코를 주목하고 있어",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-20/gov-grisham-2028-hopefuls-already-eyeing-new-mexico-video",
-      "ts": 1795218260
-    },
     {
       "source": "StreetInsider",
       "title_en": "Wonder explores sale of Grubhub, Wall Street Journal reports",
@@ -11504,6 +11490,20 @@
       "title_ko": "DL이앤씨, 2조원 규모 성수2지구 재개발 수주…'아크로 성수' 조성",
       "url": "https://www.fnnews.com/news/202611221436005180",
       "ts": 1795329232
+    },
+    {
+      "source": "서울경제",
+      "title_en": "[단독]AI 커닝 막으려 감독관에 바디캠…부정행위 증거 남긴다",
+      "title_ko": "[단독]AI 커닝 막으려 감독관에 바디캠…부정행위 증거 남긴다",
+      "url": "https://www.sedaily.com/article/20117375",
+      "ts": 1795329388
+    },
+    {
+      "source": "더글로벌기빙뉴스",
+      "title_en": "우주발사체 탱크·고압 배관부품 국산화 …중소기업융합대전서 산업훈장",
+      "title_ko": "우주발사체 탱크·고압 배관부품 국산화 …중소기업융합대전서 산업훈장",
+      "url": "https://theggnews.com/ko-kr/articles/28557",
+      "ts": 1795329390
     }
   ]
 }
