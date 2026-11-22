@@ -1,30 +1,6 @@
 {
-  "updated_at": 1795391839,
+  "updated_at": 1795391999,
   "id_hashes": [
-    "c27c8e069e14470dcb52e13a449ede6a92375136ff28b485df3170bbc15277bc",
-    "1c8dd6ae669313551941a6821efa81e7b9e52992f5ceda2020d0d483706ed908",
-    "3b101c0f02bf727c6797e1d4952964a405451c7b948eee5ab3f876f9eb7d096f",
-    "1b5ee281a72534293e3668171827cd900b33b9c7e0d5ac3b65f1175e188b71b0",
-    "9e8bf6be33666a9d666d3a3af2e01526ac37cc5595ae737a7c2b5632989ef0f8",
-    "edf1c3c3a3027dd856d805f00fc09324a94921b92f6199cbbc43be0247f02436",
-    "4a026b1a8b455012f9df15ede688a62400da9d98d66dbfb4ed732b00d97a7f28",
-    "ec12a16650a8e9bfee5311086d7cef791d1717603463d96121887433e5f87ddb",
-    "511b9e4ae203ed5097a3fb873b885b474bff4fb8eca184e1732cef87f9992181",
-    "c79d6c3973a7d9e29cec6cf35b0ebe918f5a9ecc701344617c2321dd9dc9f52d",
-    "880fc33d4011d0ccdd5e8bf5e482353ddf7ca1bf4674907c1c4e6b7b6a355ea2",
-    "5fec3b0d7792dbc710eee612fed42b92a3dc05f680819fad57955ea9fda80d5e",
-    "d49ab39985e34b9064ec96a9963a07c68807f66a727af2ace433ed1a730e0de3",
-    "3d93474cde09eecd8b4dcbdadd749b4d3a6703c249f5b1e02497f62ae9b80de0",
-    "4448e347f4bd37b4cf036f9ebcd16f7cf67858e12ca1c448aa68acac175d2ec8",
-    "78dc7d71f6a78ff6bee94fd51f34b7e9b65d1443f5a9d253c9266b2740aa81b6",
-    "6b86f9216730202a47d1f72288171f050b771b60cf52cec786ca3d8a95a224d5",
-    "749c505adaf4b6ada3e356ffb1849a753e9f8339ffc97075955518387ce17873",
-    "632a3311ada89781dceb82dc7da6cce678347483335ef751cd206ebf2706b6b7",
-    "359f277b9a89751be1ae63c72c3b1fa83f1868b8a111d3c80a04d605461d362e",
-    "583fcf5130d39cc88bb795f459c39b42ea145416ac7da04d0c74207981170796",
-    "c4c418aece051f51b5cd919088c03d0753cdee3cdbcf023491f5a7278064b3e2",
-    "0f88358efcf8eecc704fe08e11cee9b038c5a3fd8bdb87bc7bd260f671501f41",
-    "2d86222e736fb1a499b10c3ba7cccacd48232a02969396717a8ff7237ea295c5",
     "f5a9654cb284b04ba5769d19a18c23b6a0ef4369574712510abefc1b66ce022f",
     "fadcc2fc55b890e77763ace78f658c03c094d55719d9253175e7f59851ffbe02",
     "4522bed08202bdc0d3939ae1ff15621e9305fa4bf430217941ade5865ac0d421",
@@ -4000,28 +3976,33 @@
     "b26b714e53a4fc1d5a2a5b625104a2d44726fe4570af24fc5831ff83017cce7f",
     "7158307a308986ee856df561825b8b510a5180be57bfb0e8c1536b3cdba7edd3",
     "22d197e639d31a6b78d103bcf8c0ebc0fc2cb67a3d00d332cec4b31c4c1e6664",
-    "67a5ee7aebc58f215991b6035f19cbd88e5d090c8ef1191ba370e14f259007b3"
+    "67a5ee7aebc58f215991b6035f19cbd88e5d090c8ef1191ba370e14f259007b3",
+    "1713aaa6240cb9a9f65cf2cca38e7cb3cd244a23c413a101f0ad51051bfd00ab",
+    "50f93af862b2e3735e562138ff4994e56a8dabc839f707d18c34723422d66749",
+    "afc6bea9394edf7d96af1d2118ff7dfd6c07d1a4a72e9132ea4eec150230bb1e",
+    "8ce5d7daec1a027228cc8c31ae4a81e5ca27924670194742f8812fe84ed9f195",
+    "c477606c87da924d603f410d5e57f4babeb4bea17af8ecf7dfabb04d873692b0",
+    "113dd936d36ac875f1e26054180b3a347709345f39e43310cda7e8c93237a5ab",
+    "2b1b9a93e50bad21bfde385cf1660b52ab53b245550c1a642ac81c0f3a951b09",
+    "0af834402aeb701732cd758f039eebbacb0e190f2a176be609de62778908ea35",
+    "00ca701528f4cfd240576e5775cf1971ed80e3845eaecb25e623940460c6f426",
+    "2f24b38284a9baced98d53f6520d04b5c37a34a0807881de5d77630e8d052caf",
+    "7125bc676f917bea34770a406d0a82045e382acaf6b68557455d347b7ccd7388",
+    "88e8f847bcd256147b97bdca7a0871fa1d994a1b82f1327eec72c1167e319a93",
+    "f4041967d8446aca19c027a5c7406e11808123bc958c7d8a91c25777ba518972",
+    "185181984e9c08d1b14bbadec56f24935caadeb6ff5f8cdbe6a7ce3cd63840a3",
+    "3bf9f4828f76656209483ac522a5e6e2a209b091a2e6487d4866df6cfa9d6702",
+    "2e7899c281b524f28085264cd05ea7ca725183e61bcc1e22db2d175d213dca3f",
+    "0f3e1058e6f042f28a8c0e74a3b63c178b129b567ffb858394a525e91eea9f10",
+    "c90cc4f9fa1ac435f97be9317788a4715b7631be6a4bfa42a4ec14250c61e580",
+    "e16be3c48254b7d70fa6df4e7e7dc7a7cb9166a02bb9856aa20a4527a6e7ec92",
+    "623f7acab3ae964007d31eb423aab59f847e3c3870d046f7cd0bf033703dd204",
+    "0068f332878f276547ce6a06c326eb914cf88bad68683179312f4b393f24f908",
+    "8c9e2f419436de4574729812137017a41e02cf228147841c036af12562a05994",
+    "c9fd989e4d549728a05b1a3f21b4e95d73a94ca4f1ef6e2a925f2e95d4b8b246",
+    "65f28e2f9baf286fe05f661f144b57395fc605289263eae5bbb32946c5568cc3"
   ],
   "title_hashes": [
-    "975e2d794b199aee01df69f6cd98655123a02ee0e1313251fc8ebbbec8e162f6",
-    "3a8fb166667064e42808a6e0e7fe5d6050413f843ff719bdea3a526b0c14daa4",
-    "3b9732527eabc8debdf6e0c2e6b99f56cce18dcdfd834d0b386a00778e566e4d",
-    "7020ef4dfef13bfebbf16c262624a21a5f1f3ce3d2fcab3f069729b657563c4c",
-    "3436d3bde4e47eae52ef2a606b447c0c7a2297d213ce85e5cf1620268214bb06",
-    "e47341eff11f85a075a40e2e25da235303dd60b0a02606198470e8a80bc22243",
-    "02790809b4959b9c11773a011493f5c40006d7615fde475d8e4a4597148da550",
-    "a428b9fdf33426b83b07d0f91c1799e697b9cd86057f1506d9b9bfb1178c9bda",
-    "4c9fc68ad81e220f982f64759a6e2aa921c9b1855bcf4025cead7ab04f069e1a",
-    "28d9973f6205d1dd48c5eb0d2b8075a0b7fa0ad6a83bf4422bbb1cc408436b0b",
-    "a0f521bfdefd39af5d4a4abe2f785090e3517a5638771b772ef9c489aefaf0c5",
-    "e758fcafe61452881b1e8ea959fa2d88551672b73119681701b7019b58a2b7ed",
-    "75ee1d529a388e38734631b584285fc68f9e2dbb9f024ff27adc6eb0d6977c5c",
-    "c82285f9fd4bb253d8fb8c92840505fe2008bfc9bc81a821650a094f30a5e438",
-    "ef5d6d73764c8f65f02192f89b040f91d1f0ac324d674749156ad317f1736462",
-    "7607f1a2126c75b0dcaa3178c1101b54957d0b1e001efb81c73cc9fb12379f35",
-    "37107666ff5b2f97cf447969515ced5b625a97bccb5da945a29d3fe3987c349d",
-    "c521524f41a9ee2efb0b55635bf6455fe2ae6483635129bdfb130f104001e52c",
-    "5551a8cbc161b3fe53963bfa29f0f39d5782acf782a10074987e649e8d9da974",
     "2492f532d5e175f486be9e06ca79fe275cf3553c9b4871428266d6902393c692",
     "477fe7cb018dc476f73f61f65d68ae3ea51e3d4486ff2e76cbaaed04665aae11",
     "fa8efe25c9498fc7bb24e5c7b75482f47736f4ab24a172a7e1735fcaa3ce2a8d",
@@ -8002,51 +7983,28 @@
     "454f5f2ab84af52b860fbd3c3b6c1a333cd73e765a2ee0ec35586f13b5f0da9e",
     "9b3a562ac83d3c7b7166911b813725c41795c73d6465447fd923658b1010102a",
     "96d16ec11e4d0cf5c8a9e185cd262807e29e19e2f6e6d8b6d534d8c5fcf9ecb0",
-    "e99cbd1984b152ebc4ac32bfcccb1e2de32d8f2f08e5887cda8104bf467f667e"
+    "e99cbd1984b152ebc4ac32bfcccb1e2de32d8f2f08e5887cda8104bf467f667e",
+    "41e7bd9007d2663ad634828d515f2a2d86bf349a228c4dc4400884474d403a7d",
+    "97419709effb5b27b1e68a5865802a18c618a449408f13d31d89c896e691d1b5",
+    "0777f42c172dd7e8dca69c964c96af663095fe619f0392383b0bc89c8417e8a5",
+    "39d366df17b93ac6c83e07449dc55dfa2eefe423ff68bd50e057b61706cefa02",
+    "7818026d96af98d87a63e6c306489fb149f9b9afcc57b998a28f541a64c5ac84",
+    "ba906ef0399006bda50bb3616157978bbbd6ac701dab808fc95807d151a00b97",
+    "3ea391e3a0ba71fc29099bc1cbc54ffbfe66c92f81a71927ef713d3d793d63e3",
+    "74272facb8514a0ca79e3e2f4b8e82e26d33d5eacbf4d6c491dd1e2cda9a41a1",
+    "1b4d348768af2540e26b8990ed4da5b4651d68e5b70bb79dc7b302247092c6ec",
+    "14c2dec95d191da1300bce763824b98e426e95f4d3ceee0b1f308919dc735db8",
+    "2c20413b2ed48dae82b87236c5453e2ff4f67bbeda752a096dc2da4638dc789c",
+    "e411833b5c119eb6b5a4a9eae8dbe83b60a56aa1b2e0a1b0b1b1dc0f26c637af",
+    "4875fc0138557d900742f5b1c4f57c820c92442a4fc1034206d78139d6988606",
+    "f298faa57ea509ec44715d23f06d871cc0d54fd9e31b17a51b0ce77bee3fc9b1",
+    "a12b4f645d5b5ffe744b621baf7ff194ac9729d2a12e6d0b126e8a3d776cdeb7",
+    "0179cf71df8cd71705d9ec911949035eb4cf5b406b3d3b58fa9cb60eeffb8784",
+    "64f7491c997c0259cead76eab6f673eb429ef2d52a38be48d8597c1af96f8230",
+    "43af912f279805058e4fdfbc600e296e4955f9e18db2ca8a1863bfeaa4a87f7c",
+    "40c47ca7713cc37c458470e105751ddf3f385ab9d299b91e3ea41333698a1546"
   ],
   "recent_sent_articles": [
-    {
-      "source": "CNBC",
-      "title_en": "During Wall Street's worst week in over a year, we put money to work. What we're buying",
-      "title_ko": "월가 1년여 만의 최악의 한 주, 저가 매수 나선 투자 전략 공개",
-      "url": "https://www.cnbc.com/investingclub/2026/11/21/during-wall-streets-worst-week-in-over-a-year-we-put-money-to-work-what-were-buying.html",
-      "ts": 1795271084
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "US OFFICIAL TO AL ARABIYA DENIES IRANIAN CLAIMS THAT A MISSILE DAMAGED US F-16 OVER GULF, FORCED EMERGENCY LANDING",
-      "title_ko": "알 아라비아의 미국 관리는 미사일로 인해 미국 F-16이 걸프만에 피해를 입었다는 이란의 주장을 부인하고 강제 비상 착륙을",
-      "url": "https://t.me/marketfeed/1083236",
-      "ts": 1795271239
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Earnings Scoreboard: 11 of 14 reporting firms beat EPS estimates; 12 grow Y/Y profits",
-      "title_ko": "수익 스코어보드: 보고 회사 14곳 중 11곳이 EPS 추정치를 상회했습니다. 12 Y/Y 이익 증가",
-      "url": "https://seekingalpha.com/news/4675046-earnings-scoreboard-11-of-14-reporting-firms-beat-eps-estimates-12-grow-yy-profits?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795271878
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Mehr citing Iranian deputy foreign minister Gharibabad: US-imposed economic blockade an act of war, Iran will take necessary action to break it",
-      "title_ko": "이란 외무차관 \"미국의 경제 봉쇄는 전쟁 행위, 타개 위해 필요한 조치 취할 것\"",
-      "url": "https://www.financialjuice.com/News/9863025/Mehr-citing-Iranian-deputy-foreign-minister-Gharibabad-US-imposed-economic-blockade-an-act-of-war-Iran-will-take-necessary-action-to-break-it.aspx?xy=rss",
-      "ts": 1795272001
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Trump told European leaders they were spending a lot on Ukraine, Zelenskiy says",
-      "title_ko": "젤렌스키 \"트럼프, 유럽 정상들에 우크라이나 지원 과도하다고 언급\"",
-      "url": "https://www.streetinsider.com/Reuters/Trump+told+European+leaders+they+were+spending+a+lot+on+Ukraine%2C+Zelenskiy+says/27382927.html",
-      "ts": 1795272774
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Wall Street Confronts AI Reality Check",
-      "title_ko": "월가, AI 거품론 직면하며 현실 자각 단계 진입",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-21/wall-street-confronts-ai-reality-check-video",
-      "ts": 1795272835
-    },
     {
       "source": "The Verge",
       "title_en": "Is Anthropic turning into OpenAI?",
@@ -11504,6 +11462,48 @@
       "title_ko": "브렌트유 선물, 배럴당 1달러 하락한 91.57달러 기록",
       "url": "https://t.me/firstsquaw/195051",
       "ts": 1795391835
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "PCB and robotics demand drive Taiwan Chelic's 3Q26 growth",
+      "title_ko": "PCB 및 로봇 수요 증가에 대만 첼릭(Chelic) 3분기 실적 성장세",
+      "url": "https://www.digitimes.com/news/a20261120PD244/taiwan-growth-pcb-revenue-demand.html",
+      "ts": 1795391866
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "India roundup: India's semiconductor ambitions' execution hurdles",
+      "title_ko": "인도 반도체 굴기, 실행 단계서 난관 봉착",
+      "url": "https://www.digitimes.com/news/a20261119VL210/india-roundup-cost-equipment-investment-manufacturing-xiaomi.html?chid=10",
+      "ts": 1795391869
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Clariant, CD&R  in talks to acquire chemicals firm Ashland",
+      "title_ko": "클라리언트·CD&R, 화학기업 애슐랜드 인수 협상 착수",
+      "url": "https://seekingalpha.com/news/4675417-clariant-cd-and-r-in-talks-to-acquire-chemicals-firm-ashland-bloomberg?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795391872
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Libya's NOC: valve closure on Sharara oil pipeline by unlawful group to cut about 350,000 bpd of output",
+      "title_ko": "리비아 국영석유공사(NOC): 무장 단체의 샤라라 송유관 밸브 폐쇄로 일일 원유 생산량 약 350,000배럴 차질 전망",
+      "url": "https://www.financialjuice.com/News/9863606/Libyas-NOC-valve-closure-on-Sharara-oil-pipeline-by-unlawful-group-to-cut-about-350000-bpd-of-output.aspx?xy=rss",
+      "ts": 1795391926
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "美 재무장관 \"엔비디아, 칩 中 유출 신속히 해명해야\"",
+      "title_ko": "美 재무장관 \"엔비디아, 칩 中 유출 신속히 해명해야\"",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445947",
+      "ts": 1795391993
+    },
+    {
+      "source": "인포스탁데일리",
+      "title_en": "LS전선, 7000억 규모 美 '플로펠 뉴욕에너지' 지중·해저케이블 계약 수주",
+      "title_ko": "LS전선, 7000억 규모 美 '플로펠 뉴욕에너지' 지중·해저케이블 계약 수주",
+      "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=219051",
+      "ts": 1795391996
     }
   ]
 }
