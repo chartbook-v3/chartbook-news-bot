@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795388536,
+  "updated_at": 1795388686,
   "id_hashes": [
-    "597df53438ae9e1eee9fb680ad583df2816930c34b2922784d198b002fd7ec8b",
-    "ace0fa19be2f1bcddfb215af8c82f6c06c84a16a0e3d3bc0a9bc859673ac480b",
-    "ff8625c204fd6e8107f9e84699ff1558886ac84375079b2f88e7d55469cdf112",
-    "db48b13a58dbc613bad4a2178afc5713a6ae8efd5527335f9ac189d945fdcf78",
-    "756cadd449190ee804b326908dafc83cf506a1b56e7475a16143e35628997056",
-    "d8ed40d9d1c204954486cf5f44b002392bde522aa192a1ab1847d8bcefb5b124",
-    "fb3ba54ea8a5f9b874e87e5d0f017d90a6c74ce8a80b94424fe992a8d7f1c9e2",
-    "1805d455c7d3cdcd2d5be0634f757c4864c126008fa08550c8adfe786096e219",
-    "a62a6cf80997671d665db257dd5bdfde25c5359225233a707de140a77c5f1845",
-    "11548da4f48a86b85848f4d90cbc07d18f44e133e94610f1efd3441d4a23a346",
-    "5694072dcd280b59b4d4224dc82d5566ac283cbdc6d059f7fc2fa3eeb79ce338",
-    "8d8d2259c47907377f532c4c203832cf3eecb9d32c8ec7cfa202d328ff6da6c1",
-    "15e9674a44134ea390fa6081fe1c1ba486c7c3043ba1f03b270b65727dfb448a",
-    "ea03cfc902b71236e456c9e741a07f30d2ffa56e550ebebd30c078a7bdae81ef",
     "9928771e9e521a2653996f91f5b55eff880efdc8d666d9b68ec20d46f749500e",
     "69ccdb2f02643d82dc3b4ecf7b3e73435eadf24f828600c3e29832def2e52fb9",
     "bc1d5af46a51a6ae5cfdbcad009f4273c0d43b753988785344ab3dbae5e1d3af",
@@ -4000,24 +3986,23 @@
     "e188eb834337d67d4208fbd34931c25e4dccce4dbf80c0e61bd8c7b22972268e",
     "064da8bd45b654b6492f135d1e9799f103ef35501d9d9c784622952d33e723a5",
     "a7a63126dffb7540ebd49d743c1831e5f3b9d59fbabf35f295b2fc2e240f7e8b",
-    "8a637e29f2df56d76f6dbc3cba2752b212a989bcee7404c7da5344996aba5e43"
+    "8a637e29f2df56d76f6dbc3cba2752b212a989bcee7404c7da5344996aba5e43",
+    "86f1f6239ca6e2158857f3632053ff7925c22eafffe2af0907c26e8451de89d6",
+    "2a9c1301c6b8db4b39cb33bc99e24a52247d4780605719cdf8b7efeb2e183725",
+    "ecc5f3ea068242bd07e0e3d1a35d1da75e43f88740420528523052b46241fd38",
+    "b692e9f843b91228e53eaeea0a10bf3412ff48d0ac451abca273e3a5b55321d9",
+    "d28c2db610c7c9604c29597e814e428470cd2a32d41188ca113375ea4ebd3ecf",
+    "8a7ace8008bb647d74c2d7b36f2635f33f635c5a1dd48cba7170ea94ab6ea27d",
+    "523c75380a96df147db67a9a66cdc7fe1c9e2a1eb33ec00368fc31c121a81415",
+    "271a7e3fd7b3452cb425324d9a1640c9651562dfc449dc67a169bd8c890d19b3",
+    "861753fbd9d863926b84e1f29b6715fdd86b1334ff54a9a425bc78af918c0fcf",
+    "2a25ad147b3bae809f50542634d67588b82d9cb2712eebe88e3d8b677cd43cf6",
+    "ab2e1658f5f4cb60ff4eb031a0e090ebad4ede1841e3ecbbe011e007b15ae2e2",
+    "7510a9a18e2e478405c9ff2c7a20451e1b1c4a97867282815ace8190261e7212",
+    "3272824f0efceae73de937028f9c97a2dcdd36d87eed83a57055e916ff803b44",
+    "f39d388f70d02c58199e38e557b73071f237f6fc44c255e245eed72b4ab02ec4"
   ],
   "title_hashes": [
-    "29850a897a2d2e55a8996435b169388d064aaaf827907d5dd77b71a2b111bc0c",
-    "42c93f086197d8d3228f239ff02cb0ee0b03aa59e01333bf0513afd8550ea54a",
-    "be764988df7ccad8712c93ee90ac55943b1aa704f990117ec081fab1ce5c3012",
-    "23ed52fe330faaede67abd32298c9d426feaa535fb7a2dad4bc270fdde49e7a1",
-    "3dcf2b6ad4b563083b6260eb11da3aa2c0c4600359f40a2931b35e15cbe05c67",
-    "8976c7efe6c86ac56332cf1133454ad876faa82771326de1365ba1186724e3e5",
-    "4ff85e3ee94adcf455a7bf0b9c9ebceeb1d7cb26fc310f72bdcdcf2bfb268db6",
-    "a31e5786bcf5099daa450c6bafad6183cf81c6794f3dcf2fa80c30cde43b419d",
-    "d11417a88bdce627ad77b09016db62f5abc4775669a3333d150f9489507a1e44",
-    "2121fb1f0b2d789fa7111921158f00e612aafd62ccba890d6ee6040e1ff65377",
-    "3dd6cd978e8282f1487cacb537e1814aa59c99d413744993676fe0940680f481",
-    "4b42c9ce2f042daf5dd98346df1302c372f77da91801170fa0e9453b2d938730",
-    "57083e99c31b8e0d96b7d0e6577f811388a77e39c753e9956c7af6ff1e7039c8",
-    "0357ea025290cc23434a5932c6d5128d117d280c3b7d494b291cd99e5b56342b",
-    "f5b00daf7858f18a5e74e033a442341a7d691aecbd7f2ef79e4d39e81aec926c",
     "f1a71bd5a702a3a86d5262219c47e71116adec483bf8fc0af09bbf56e6ecb4ba",
     "81094320a8c7ff1d58d310467e3becec05d3a2ac2f529e4d9021fd26db6e2519",
     "7aaba6442c5327075586774ff503a2539614e4d0b8d76e0f8761f2ee10daeead",
@@ -8002,37 +7987,24 @@
     "014e66c069adac7d48ab88642b8f9cf8491178f4ee06162179d32a35e64154a7",
     "d3a8d249fb2cf05880168052cf8bec39fbd0faa058d550866dfa04278a8b91be",
     "1e4555c2229146475bf8fc389829afdca55f5c8f3bf13d2f4f5e3902a6e04fc6",
-    "348a68e85a92d7b771713e49e168c927c25fef4557995dd9bd97a15862950be3"
+    "348a68e85a92d7b771713e49e168c927c25fef4557995dd9bd97a15862950be3",
+    "b9e1746fc75acce0f91ac090e5e7bff12c099a3b622bb7b6d2632fcb2592c00a",
+    "3a47e916e3b88565a4fe0d616895c997b673079bf412a238acd4c24f3a16461d",
+    "fe161fa61a5378a93f0d8805ccbada206345e81aeb29fbfb7e6c9721f854ddd4",
+    "a2a4174d52a56eeb29addb693912eaf8d96ed34d0b153328f596edc0fe98012e",
+    "e2b1883f0c4bb37837cd43c7c5c0228a6ae77a3ab2f2a2c4ceccf3845ebc15c0",
+    "190a56f80d931562ea48801d829b753454898151dca6350d4d724867c8c2a727",
+    "bba8cfeb78c5c3841686c318f1de18e2d243c2abcb31e580e14f7fa24ddc8031",
+    "d552f2235739c16a6a43d0307c1bed561dbc05324ccc73e0f62c8ca2ff96692f",
+    "ff7bfcaa9c84b4802bd8904a3532301d523d7b14dcd8468da507f5169330fef4",
+    "b7278d5aab8ff3107eea21244591f3d971b0c1457a498288760d69771d830be0",
+    "f86bae42c49d8bd4908ab8ab3ddc7b4970e95fbd99f49b29f09e4cc1538c86df",
+    "961e0706741da41e1c02ed957651756a596eb656d28770a0a2b72b98a95d2622",
+    "007d359131a9bfef4e6014fe12a0e0adddf8dc5b615e8423560a9a2d8b504a16",
+    "71255d9efd08ea13651fd081ff72a39998047e844edd248e4e6ce9f34eb24686",
+    "90465ae320aa34cb1019f44d06abdd5fa722f330e6e1b98639c9565ad07cc486"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "From ChatGPT to Claude deals: Walmart looks like an agentic AI winner",
-      "title_ko": "월마트, 챗GPT부터 클로드까지 AI 도입 가속화… 에이전트형 AI 수혜주 부상",
-      "url": "https://seekingalpha.com/news/4675280-from-chatgpt-to-claude-deals-walmart-looks-like-an-agentic-ai-winner?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795262584
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "泽连斯基称乌欧美俄四方会谈时间取决于美方协调",
-      "title_ko": "젤렌스키 \"우크라이나, 유럽, 미국, 러시아 간 4자 회담 시기는 미국의 조율에 달려 있다\"",
-      "url": "https://wallstreetcn.com/livenews/3203672",
-      "ts": 1795262593
-    },
-    {
-      "source": "FT",
-      "title_en": "Navy budget pick has family investments in Trump Jr-linked contractor",
-      "title_ko": "미 해군 예산 담당 지명자, 트럼프 주니어 연계 방산업체에 가족 자금 투자 확인",
-      "url": "https://www.ft.com/content/145e6fab-d93a-412d-8670-0554064fdf98?syn-25a6b1a6=1",
-      "ts": 1795263262
-    },
-    {
-      "source": "FT",
-      "title_en": "Traders start to move US copper to China as Trump tariff fears ease",
-      "title_ko": "트럼프 관세 우려 완화에 미국산 구리 중국행 물량 이동 시작",
-      "url": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1",
-      "ts": 1795263270
-    },
     {
       "source": "WSJ",
       "title_en": "White House reduces special status allowing staffers to remain in private sector",
@@ -11504,6 +11476,34 @@
       "title_ko": "미 증시 선물 상승 출발, 나스닥 100 선물 1.8%·S&P 500 선물 1.1% 급등",
       "url": "https://wallstreetcn.com/livenews/3203787",
       "ts": 1795388535
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "현대차 '비포서비스' 20년…누적 445만대에 고장 전 예방점검",
+      "title_ko": "현대차 '비포서비스' 20년…누적 445만대에 고장 전 예방점검",
+      "url": "https://www.yna.co.kr/view/AKR20261123009700003",
+      "ts": 1795388556
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "回购增持密集落地，一年多次分红成常态，A股市场投融资生态加速转变",
+      "title_ko": "중국 A股 자사주 매입·지분 확대 본격화 및 연중 수시 배당 정례화, 투자 생태계 변화 가속화",
+      "url": "https://wallstreetcn.com/livenews/3203788",
+      "ts": 1795388621
+    },
+    {
+      "source": "딜사이트",
+      "title_en": "[조달비용의 역습] [우리은행] CD 금리에 묶인 원화대출 70%…금리 상승기 NIM '역풍'",
+      "title_ko": "[조달비용의 역습] [우리은행] CD 금리에 묶인 원화대출 70%…금리 상승기 NIM '역풍'",
+      "url": "https://dealsite.co.kr/articles/173066",
+      "ts": 1795388683
+    },
+    {
+      "source": "바이오스펙테이터",
+      "title_en": "브리즈바이오, 코스닥 상장예심 청구..\"HNP 전달기술\"",
+      "title_ko": "브리즈바이오, 코스닥 상장예심 청구..\"HNP 전달기술\"",
+      "url": "https://www.biospectator.com/news/view/30484",
+      "ts": 1795388685
     }
   ]
 }
