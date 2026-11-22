@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795347946,
+  "updated_at": 1795348094,
   "id_hashes": [
-    "b75f315fd4d6b2e3f54599e5668142a682902a4a73d54d44c0a065b3766c7598",
-    "7c281cffb8652174ff49ec1cfa3b138804097d27d00e2e504bb2714a09244524",
-    "024785a518e8c47624b820209acdff95c5ce52cd446ade4dfae8964824423d21",
-    "3311ba69a18bd31c1ed21f0cb7143358bf597f8601dc817c14f5ee133e021424",
     "c38894a43ba29b68ed92c16eb8afdc2d6b8def519f75cc5c3b31c4d494805114",
     "adabe66fcfa56747b7261e39367c2590aec040ac8bc4ce4d644b13c70ca62f46",
     "f602b0c91fd50a22842ba26ab6e06e1b949ef6c0e3cad3bdc665fa8b23e502ac",
@@ -4000,13 +3996,13 @@
     "cb2de09500d2423790144d4d647a4a8b861c0362e1848be5e1114c4d6dee34ae",
     "faf7a3a11e7b0f58f3a85b7fe0041327e894af1cec2f19b76b2e76fa52c49125",
     "26ca0bd15feb6a346a3729d59daad7679e05a04981226aadeadda5ca30888ae6",
-    "2f13fcbbc3a4ae7531cd7b147dc82aa421aca2ce452ebf0a8caa70c3359480d0"
+    "2f13fcbbc3a4ae7531cd7b147dc82aa421aca2ce452ebf0a8caa70c3359480d0",
+    "6b0c2b92b25f7ec7755b20903c48a81ba7457c9af4436935e851c452832a8a9c",
+    "db4eeb27364a1f00f0fd0c2ec4e423218b727c2ab7bd58083a50414cae8bc94c",
+    "6b727f044f8dca41e8c41b7c0ae1b47d8e466e03534c2dcc5af12929b1713f9c",
+    "e4f1f8c7ab4e3296ffc2fd11018cfaa35cf9e99abbe471f9552ca0c3a72c857c"
   ],
   "title_hashes": [
-    "12242c3d3ae0d10473a0ae84c60c183bc239ddc3856670b36bb0c26ca54a97b8",
-    "3a4d2c3caeadcd9c60b0dae91b506813725ad0ec99523b9e67d714e3bcc57223",
-    "895b932a07e5d2b915cc664bbbb02fbedd41c4aaf947076771bf7c6f970c35c8",
-    "b9d6ceb8f97440501d548b8643fd1ea3694018e4d483e239f5b148d36b6468d5",
     "ce595fffb86a022ad167eb92e3c37ab9b7485c709199f6ceb556b3c30b5a90ad",
     "4dfcc57fa5c3e661fab102e7a85c7353b9938d20d940bdadf685bbff6bfcc089",
     "55784797c309f2fa4395fc318d44820acb6d1fc8504b46cb5b719c80f22d7a03",
@@ -8002,16 +7998,13 @@
     "4b394b736fc67b3c0e885b55311dcce555f9197833f7da881629f0a1cc2492e3",
     "6996401bf0250f6f426565a2f2e36ded30e0403ac5597f616105a4bb49f55f0a",
     "f16ba70774a964e24bba5721ee2c7a3ae928164b292136cd12d4835a2811db8b",
-    "5edcb840811d97c66f023adf750a31b1c5eaf0ed445f85de02faf1a65ec785e5"
+    "5edcb840811d97c66f023adf750a31b1c5eaf0ed445f85de02faf1a65ec785e5",
+    "bec6aaf6838e0d371cebbb9be69384de6382338dda64f482ccd04cf8b5ac7e04",
+    "c0d6f4eecd78d114be81d66d6ee905e80543147abd1715325dafb1b50e3e3ea8",
+    "6b10c1e561805610e0a8ea74c95424a62337bd51d1ad73323cac6a68211c9714",
+    "e295dd3f7c49156f2ac236f4aabc554261c84db10629b15769e321ae30001cce"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wccftech",
-      "title_en": "Apple’s Entire 13-Inch & 15-Inch M5 MacBook Air Lineup On Amazon Is Now Flat $250 Off Thanks To Black Friday 2026",
-      "title_ko": "Amazon의 Apple의 전체 13인치 및 15인치 M5 MacBook Air 라인업은 이제 2026년 블랙 프라이데이 덕분에 $250 할인됩니다",
-      "url": "https://wccftech.com/apple-2026-13-inch-15-inch-m5-macbook-air-black-friday-amazon/",
-      "ts": 1795233173
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Trump addresses multiple issues in an expansive press conference following China trip",
@@ -11504,6 +11497,13 @@
       "title_ko": "이라크군 \"주르프 알 사크르 사태, 모든 무기 국가 통제 하에 두는 작업 가속화\"",
       "url": "https://t.me/firstsquaw/194986",
       "ts": 1795347943
+    },
+    {
+      "source": "한국경제",
+      "title_en": "한경 이코노미스트 전원 \"이달 금리 0.25%P 인상\"",
+      "title_ko": "한경 이코노미스트 전원 \"이달 금리 0.25%P 인상\"",
+      "url": "https://www.hankyung.com/article/2026112225181",
+      "ts": 1795348093
     }
   ]
 }
