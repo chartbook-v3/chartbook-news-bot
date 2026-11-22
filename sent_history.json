@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795386425,
+  "updated_at": 1795386573,
   "id_hashes": [
-    "3ec350df66da35ebcb926d58afaaf91b3d8e67044c159a5f6c3bd8cfc13b71b2",
-    "6d09091cadb619cee608f605f73ae42896e3a09f0ddee7bef3d8cfd61e324a97",
-    "b57ae494e2ab71db58c796b7d482efe7ba9a81a69443c1f2f00a1fe71c42f4a2",
-    "bceb732cc9c0a365caf33e52c71073890f0860ba8ff8dc07c98ccffb9c8ed990",
-    "47216de1d45265fd0cefad29daf2898319b09e148bf95fe41dadec3edc6db726",
-    "80d44752156f44b95144bda0455c03033bed2c437c07923bc5389c789119cba7",
     "3871d67773fea6ba4f6e4682c8f2b7343880a24a1b3dfb37c2cb9c068c6ebc50",
     "31118e8e431d3a1cc3c011dd4634e5f30ce0e216d92746cba7ba4476f79b1557",
     "0afc897febd5aa1799d65f3137f70db4cea95fb7401bd004201d3c4b737115ab",
@@ -4000,14 +3994,15 @@
     "06c588ee500c1aaf949936011b00437feea359e05c9dded54bf350e0e9070a35",
     "0ba9cf2a66e5e773fc58a4cb99ef970879fb95f1ac643fd1850b56c90f18316e",
     "fc6df81890543115b04ead1217bd2520ae12bb2dee4d062e838a8491119b4129",
-    "6b65d6fb6b006c0c93f7343460cd25e3d882423679c40ac89b579846ce795ca4"
+    "6b65d6fb6b006c0c93f7343460cd25e3d882423679c40ac89b579846ce795ca4",
+    "ff86eefd42bb872a12382fce75ec4fe88c8d727ac40fbb0c0a5d93728782e9ec",
+    "097ff48025752843a5a9e5e52d82ea05f3e2565ce109fdbcb121cb63f0b28f20",
+    "442937bf61d6db1ae89340f6d347270def68fdc228ca1a64a24fb49ca5886400",
+    "a5bccd2ad428eae8b41f15f43818c4f0942a1702a92e5d366129d00aed49070d",
+    "d3558ef67a7ff7041f4205aa4e609cc7431ecfba63b5ede3ddbf86bf9930f92b",
+    "be21d3980ca3f189c9d3cfc33e0c26c25c363b9b2dec74ef795c7d124aebd817"
   ],
   "title_hashes": [
-    "c5ad3d0b7798ca3beb120561c0ad22c29c3a32dbb77b9c5286c0b85905628e8d",
-    "dfeac33dfbfe41aae3e96961754bfe6f1a6df6eb73afbe3293deaf7750a0328f",
-    "3ec04792fdbe5ed446b72dec69300944410bfb6a517186f3b8cfd22198be39b4",
-    "3012bac7ee77c0713db93d727e931edd33265ee3742afc344d0ec74cfac49b73",
-    "caef70cf869aeb5960695471143f53bcf70a0fd95751beb2016682587feb037d",
     "fa51f02f50bd58ba4b412943c481c6cc9a03fc968db9d266165433fb2e7b5289",
     "969ff9d6a9d9a5338b6f619ce18b79305da103fc20d2a2b3f236ccb11f9cdae3",
     "ce37186374ce5c79bec08c479d50abb4fe68a8ef478d2b552b7d3365b223f371",
@@ -8002,16 +7997,14 @@
     "bbad952e6445a3fea8aefc212fb8a46e2bd949dab8c9eb373838dcec13c45cb4",
     "d4d427d82240a20546e2df276eb5e731f23c803f93cb5fb8885601fd6496046a",
     "35c118bf736570b97580d1e80bf69e5da2825c7cc17f5166959e66d7805830db",
-    "f5745f3301b0a225bf036095483f97f624721e28e315a0711ad99c822d5300aa"
+    "f5745f3301b0a225bf036095483f97f624721e28e315a0711ad99c822d5300aa",
+    "fe43bd193d47caf63037335911450a53379f9f499d4daa5e4f66f80b0685d764",
+    "fd09516f9c3763b3b4e5f459d5c76541711ba3643c5359a5df726fdb4c8bba15",
+    "4e5b10db0f66a971b9d7d06157825adf5369801398be1fff59ce83537358ff9d",
+    "0a56a738a26df8d3f17a9b3426af27e1e1c8a44885108a95ec893230a5e017c2",
+    "1d762338950ce0eadcf3d1605833428ad689479e5671413298c7e8516eda89f2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Politico",
-      "title_en": "COSTA CUTS PROPOSED EU BUDGET BY €44B",
-      "title_ko": "코스타, 제안된 EU 예산을 €440억 삭감",
-      "url": "https://t.me/marketfeed/1083187",
-      "ts": 1795261068
-    },
     {
       "source": "글로벌이코노믹",
       "title_en": "[美 중간선거] 美 재정·글로벌 기술주 불확실성에 원·달러 환율 단기 변동성 커져",
@@ -11504,6 +11497,13 @@
       "title_ko": "트럼프 \"중간선거 과정 매우 이상해… 선거 후 유가 하락도 의문\"",
       "url": "https://wallstreetcn.com/livenews/3203769",
       "ts": 1795385539
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "DELTA FLIGHTS FACE BRIEF DELAYS AT ATLANTA AIRPORT AFTER AUTOMATED SYSTEM ISSUE",
+      "title_ko": "델타항공, 애틀랜타 공항 자동화 시스템 오류로 항공편 일시 지연",
+      "url": "https://t.me/firstsquaw/195043",
+      "ts": 1795386447
     }
   ]
 }
