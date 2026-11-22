@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795353055,
+  "updated_at": 1795353205,
   "id_hashes": [
-    "6d5317b716792f1c00dd66d9a3e1e7fbef5bf8ae1c1f1c3a92da9b8fc69494fc",
-    "eb4f924365b96eb13f4345980b6210a59bc259313d3aa72d7cbd18adcfdf25a9",
     "d350cb3e584a8508209a1d7a96aa04a9fc4581dc6337390f4db47387a722f8b1",
     "d71e44e4eef868cee46f195028fb0844571f0da0c6470c4b76adf43e482e50a2",
     "3419cdeddbcab040e63392c2c467f9ac30e4234590d8c13918a83f8c1cfab145",
@@ -4000,11 +3998,11 @@
     "2b4fa735726f80fdfe442005c9555ac4a258a9f8582fee1d265ad2f350a4bf71",
     "9857eba45cf348d29604170a6d926b8e348f5d3169765c25c90c7d0e285a19fb",
     "81cd608183cbb60d131fb5d57d4b4a8c708f4a524cde653b816c9834262f468c",
-    "23494c02b8d96233221b2d838033b7ae1959935d86433a17f4a9a45bb0e6261c"
+    "23494c02b8d96233221b2d838033b7ae1959935d86433a17f4a9a45bb0e6261c",
+    "5eb072657362178b50d0f0c3b913f5ef677133539db114d5d88d56cc21d4263d",
+    "00329915f64229f13371dfffa2fcefc8062037b4d8f4b0e9db38476338bc6cc3"
   ],
   "title_hashes": [
-    "d4e047f4c10e1fbf630a20df977a331981207f031abef48145c2d2a4d3fc22c8",
-    "7ea0f780a42492d93ee8af5b957d36476d709934458639007f93dc677ad63d41",
     "6d6e78d05a78c2afa120a10560e703025b2e1303ac83389ddbbbfd42d3085e5d",
     "b3c8e74823a4c62e33ba080c7520501fc9382278d3e7f18cfd39b375f801f3dc",
     "854e376fdd37345a41754b7dbbcee6c0a46411a2d5a0cda9fd4f967f826f8ae9",
@@ -8002,16 +8000,11 @@
     "b10cb3feece8011b2318e2bddc3bac8bb42d170c781adbbce28bf1d508d41d5e",
     "c39caf409bb7d01041335ffb52d08d78c969f6dbc93537eed64ea26582bad5b5",
     "cae3c053ffd34d93d25770197826270704c8d2c0abe0dfd6866a1d39b34fb7f2",
-    "ea3dee846d78db15f6a8dd7315ecabd796ff4f2be7f2e23a5007761ccfe8ed85"
+    "ea3dee846d78db15f6a8dd7315ecabd796ff4f2be7f2e23a5007761ccfe8ed85",
+    "5c82341f843178e3caa0c1f06e51f6900f2265a0bef49315b71a564df34f8d30",
+    "ea01b5ed3ab32b7475b99cf50d22eeb382f250fe7112321dd9c4ed9116c14748"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Tehran has not abandoned hopes for a diplomatic solution to end the war with the US, Araqchi says",
-      "title_ko": "아라그치 이란 외무장관은 미국과의 전쟁을 종식하기 위한 외교적 해결책에 대한 희망을 포기하지 않았다고 밝혀",
-      "url": "https://t.me/firstsquaw/194759",
-      "ts": 1795239649
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Washington demands formal written assurances that Tehran will permanently halt future uranium enrichment, Al Arabiya reports",
@@ -11504,6 +11497,13 @@
       "title_ko": "\"휴머노이드 판매부터 훈련까지\"...中 윈저우에 '8S' 센터 설립",
       "url": "https://www.irobotnews.com/news/articleView.html?idxno=49722",
       "ts": 1795353054
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trump’s Memecoin Gala Returns With Demand Down and Scrutiny Up",
+      "title_ko": "트럼프 밈코인 갈라, 수요 감소 및 감시 강화 속 재개",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/trump-s-memecoin-gala-returns-with-demand-down-and-scrutiny-up?srnd=homepage-americas",
+      "ts": 1795353080
     }
   ]
 }
