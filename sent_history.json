@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795387024,
+  "updated_at": 1795387174,
   "id_hashes": [
-    "5e9aba6cc82b6bf0c0d28034bcd2c2946fb5ab0bf2ab9ba3258df867e77a2bc1",
-    "fca6cad69b6e742cb9e397ba88c8aa85bf79a08dccdb268054cf1838afea4fee",
-    "73d1d1f0c6432c9ca1d15081877255957aa58144d509cdac3055284e9f5ab4b6",
     "8864ee8d9d550e603439ac7ad3942bfc8c26d305a0e8bae42b227024f54040b5",
     "d6eeddc1841457cfc325d216a005c3ae9c76323f6498254d5fd67bd99540d2f8",
     "409d893fcf96a4bb2cf347efb370d444e8edcef6fd79eda765b3957626ee993f",
@@ -4000,12 +3997,12 @@
     "ccc42667c86f2a1855f0a4cd75a1d5634882c84415e4b5d6fd92f2f7027d2958",
     "31bb63fdbccaaff77a09016a09309e107bcb2d8e0c49adaa6d467e68a6da7af2",
     "b5c5b62753d87f2af3a7e86974059ad83066eb589ef167cb1e4bd438cbf6c4fc",
-    "710e02619b96d6341d5ef4ca011143cf9e8decf449b1a28c06045f87069db37f"
+    "710e02619b96d6341d5ef4ca011143cf9e8decf449b1a28c06045f87069db37f",
+    "21d35fc004f6c27ee013ad65063ebc3bf2a5986d98cfe4a42ac32c1f5704dcf4",
+    "5fc7e4d5338b99beaf1b4a9b4eab61c1d81616866336864debba8435b2d9b715",
+    "2ec547ad037ced02ed0b701306d51297e9e3fc62bde65174181b9a10864aa015"
   ],
   "title_hashes": [
-    "9d0e6ec4d085530efac085e36d448c749a20b041aeb39731406678506b6b8429",
-    "6084bb4d5589eb2a554c98b8e0b5b97b7e4e85d154b5d2f6c11e9cc1060ae633",
-    "33a376cb1d4e9f422dbaf602e1432713b71a5aa10bbf2fd6d0417720c380a827",
     "7f0105bcd418d67d7bc747df172a16344c13cf6bee2446c035fcacfa5eed5ca2",
     "29366f9b715dcf3ffecc309d99d1e5a7efe33183d32b66c10d478c4c36313e9e",
     "208e217ed649895b65c5d4644f995839d6c22d1ab2993cf720d1ec103396d3ff",
@@ -8002,23 +7999,12 @@
     "9720033723c8424f4b24403740fdd5cf1146d53c7c43338c72747d48aa92dcd1",
     "88d10c0476bf94a8b53f7fe53604be89c54fd5636b3a9be02406587ea8456ede",
     "df2b813f770333c2d80014c18ec93a305a9f0d55b4cea6290b0b83ecd20698bb",
-    "3965b922b534d924dbced25c4f0e03171bcd977899502b1039903b86ea18bbbf"
+    "3965b922b534d924dbced25c4f0e03171bcd977899502b1039903b86ea18bbbf",
+    "1025c74b73a974a84b312729961b99ad91288852a5430eb83e84e35a71392257",
+    "d7a3aae01d04cb42924be1183f91b62600b9e526f00f5623f48886dd8d964533",
+    "1b61a5d994b5645a823f638de5604e7f5c12368e9e8037c63075e14a00cbee42"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Tom's Hardware",
-      "title_en": "Netgear Black Friday deals save you up to 33% on full home WiFi coverage — upgrade your gaming router, mesh WiFi setup, or wireless extenders",
-      "title_ko": "Netgear Black Friday 거래로 전체 홈 Wi-Fi 범위에서 최대 33% 비용을 절감할 수 있습니다. 게임 라우터, 메시 Wi-Fi 설정 또는 무선 확장기를 업그레이드하세요",
-      "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/netgear-black-friday-deals-save-you-up-to-33-percent-on-full-home-wifi-coverage-upgrade-your-gaming-router-mesh-wifi-setup-or-wireless-extenders",
-      "ts": 1795261146
-    },
-    {
-      "source": "FT",
-      "title_en": "EU's Costa Brings Back Digital Tax Plan in Push to Secure Agreement on Bloc's Budget",
-      "title_ko": "EU, 블록 예산 합의 위해 디지털세 도입 재추진",
-      "url": "https://t.me/firstsquaw/194819",
-      "ts": 1795261383
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "伊朗称美军掩护油轮非法通行，霍尔木兹海峡触雷事故不断",
@@ -11504,6 +11490,20 @@
       "title_ko": "판사는 CPO 뇌물 사건에 대한 회사 소유자에 대한 법적 절차를 검찰에 명령",
       "url": "https://voi.id/kr/berita/561975/hakim-perintahkan-jaksa-proses-hukum-pemilik-perusahaan-kasus-suap-cpo",
       "ts": 1795386875
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Zoom Communications Q3 2027 Earnings Preview",
+      "title_ko": "줌 커뮤니케이션즈 2027 회계연도 3분기 실적 프리뷰",
+      "url": "https://seekingalpha.com/news/4675228-zoom-communications-q3-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795387047
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Zoom faces mounting estimate cuts ahead of Q3 earnings; outlook in focus",
+      "title_ko": "줌(Zoom), 3분기 실적 앞두고 월가 실적 전망치 하향 조정 잇따라…향후 가이던스 주목",
+      "url": "https://seekingalpha.com/news/4675179-zoom-faces-mounting-estimate-cuts-ahead-of-q3-earnings-outlook-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795387052
     }
   ]
 }
