@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795330583,
+  "updated_at": 1795330734,
   "id_hashes": [
-    "dcc69a361bdd723a26fa0e6554a4b9ea5ccc289c5d05729919711c5fa8371f14",
-    "417ae670b5274a7bde95b4decce786f1683297b9d04e80f7ac12ba77e7c27568",
     "109063bd958614cff0cd3398d3445ae9c8c88dbee3df7df57f007438ed35d10e",
     "0f7174b775bac6f22eb5fbf21a741da0f2def5103fa86647d698cbce52261fa5",
     "67b6def8b045ac9849c5d3c7e6c129c02adf42cbe6448539ffe24ab24fb27cb1",
@@ -4000,11 +3998,11 @@
     "e58e23470101dd9c558ff90f42aa06d4cf5bcde05138e3dace34acde7ae894cd",
     "c9d16cbdedebab0e89b839de8e471e71c121f301809b20813d8dff5d87f28891",
     "5d2074689d044ba94017f31f94fafaa90478e8294afc20912330721e3e1d2304",
-    "6f0b14ff603f106ec872e09fd63bab01248b96fd0ee453c2ac9718c4d78bd5f9"
+    "6f0b14ff603f106ec872e09fd63bab01248b96fd0ee453c2ac9718c4d78bd5f9",
+    "0c6c349260f70737fb4c93f1ca3d3ef6f7afe2993476b1092f2bcd5edd3d638c",
+    "f24bbb8d41e0dc5389d46fc4c62c34af6d749d55c12212b8a180a968062ce3d3"
   ],
   "title_hashes": [
-    "21ad30e7728f0692074e2edd5a830d3b2d415745506eae90c67e56d3c1300267",
-    "e6b517ca05eb336d2fa3cd2ada61f02dbedc10381534e42cf3b1a872161b9862",
     "42e768a1c88030bb2b2e79d3f0f6753d2dd727aef20189b2849fb2c46c93cdf7",
     "db262d380a7c0cbeaa4e0c63e5109b054a6b3121370ed4950da89b4be5fa7b66",
     "e491e367bfa713b804b4c12001c49cd64d1a00696e103bfafe31de17a7db28d0",
@@ -8002,23 +8000,11 @@
     "6043c99e1b1bbc3aa584687c7eae6bb00f63c006ef0b9f4fa91f0bfcae13b00b",
     "ecbced312e9667cba43f2b89ec0a44ba9245bd4162a5dc344cbc28af3aadfa95",
     "f08d79c2c604f972211b2e3ec2de6f9f78513c546593233bcf3766127b97ec9c",
-    "e87bf6b006a5c8cce5edbd3138603593a4a0d52614446d34c7bd704591454ede"
+    "e87bf6b006a5c8cce5edbd3138603593a4a0d52614446d34c7bd704591454ede",
+    "d025a725b63804e644ae44d75b15a4e09c7538e97fc0a22c7c3622327f515bdb",
+    "404c76f7c947b75fde0e7d3f5e8cbe4c70d50af6b6c6443b16b9c5eee54336c8"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Trump Approval Drops to 37% As Cost of Living Tops Voters' Priorities",
-      "title_ko": "트럼프 지지율 37%로 하락… 유권자 최대 관심사는 '생계비'",
-      "url": "https://www.benzinga.com/news/politics/26/11/63514265/trump-approval-drops-to-37-as-cost-of-living-tops-voters-priorities",
-      "ts": 1795219779
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "트럼프 “시진핑·푸틴과 한반도 위험 대응 논의했다”",
-      "title_ko": "트럼프 “시진핑·푸틴과 한반도 위험 대응 논의했다”",
-      "url": "https://biz.chosun.com/international/international_general/2026/11/21/HYVK6CPMSBCSNA5M7DGMV32ZXY/",
-      "ts": 1795219781
-    },
     {
       "source": "뉴스1",
       "title_en": "구글 지도 길찾기 국내 상륙 초읽기…네카오 지도와 뭐가 다를까",
@@ -11504,6 +11490,20 @@
       "title_ko": "영국 공군 참모총장 \"차세대 전투기, 유인기 시대 마지막 될 수도\"",
       "url": "https://t.me/firstsquaw/194958",
       "ts": 1795330022
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Scaramucci Takes Aim at Sean Hannity Over Pope’s Iran War Criticism, Says ‘Trump Is His New Jesus’",
+      "title_ko": "스카라무치, 교황의 이란 전쟁 비판 저격한 션 해니티에 \"트럼프가 그의 새로운 예수\"라며 맹비난",
+      "url": "https://www.benzinga.com/news/politics/26/11/63516678/anthony-scaramucci-says-former-trump-allies-sold-their-souls-to-president",
+      "ts": 1795330731
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "같은 코스피 4800선인데…시총 1조 클럽 26곳 줄고 10곳 중 7곳 하락",
+      "title_ko": "같은 코스피 4800선인데…시총 1조 클럽 26곳 줄고 10곳 중 7곳 하락",
+      "url": "https://www.fnnews.com/news/202611221541249953",
+      "ts": 1795330733
     }
   ]
 }
