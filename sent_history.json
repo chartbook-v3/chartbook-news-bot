@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795332851,
+  "updated_at": 1795333001,
   "id_hashes": [
-    "3dad8afe7be90b9419751e905d9ecaaaea13208850bac5b85c987fb22fda0905",
-    "bd0e6f0b30f956f598c4ba1368cd67c42d95248ce7c3e32b15030280d1c4ea5d",
     "5d2052850c07648abfbc31a0de060ff7dc7a9be4c697e592a0ac5beaee373cb2",
     "79cf51c2559677caf7bedbfd5c146d31513e78736ed5d42efa235f96678b5ff5",
     "da9744b12c8d91daed4cbf9dcc599eaa136090cafd548a9b1aaa15a8780864d9",
@@ -4000,12 +3998,11 @@
     "1e588989bb3929fec2ab7f77c114ada5ad728a15170a25c01d63a0aedefc949b",
     "a21c180e3a2d4ea5f4b872539b131b741fc36ee5971b54d0b103ef9aae83dfa8",
     "d567200b90a85c10b52e7da25f4773e6898348d6583adbef8fe12fb30312ea13",
-    "8bc8c400f3e05156a3dffce0fc400efcf5a6c9bed6c9bda7a3de0e623bc506cb"
+    "8bc8c400f3e05156a3dffce0fc400efcf5a6c9bed6c9bda7a3de0e623bc506cb",
+    "a01c91cc3b748226211863683f14ba7de38e0a58e10e18781f9aacd187fc7de4",
+    "257183829f786127918d47b84de4985c539be2d4004ca924fe423078a594e657"
   ],
   "title_hashes": [
-    "3ccc8ef3e01e0fa2970de3f15441d4da00e6a18d8a7b18e7881c5698c82d5675",
-    "fa0baa7c1acfe30e80a618f00d36562d5280deb7df5b78726ae490a82528c3b6",
-    "dc33c81a6110d9cf2e80cf2d680a5ab04259b7558344745f1daa6c51987ca44e",
     "3879167880d17e8e523ae23d0983ca91382bf5236513360d830882bcf97e3927",
     "eab6bb2622f950bfa1226da2cdf20503d451a1153b15a81cfa67b8fefdf1df7a",
     "df7b4520579734c5a337bb4d455a8f2cf378b91857d05a0cea35887eb02310a2",
@@ -8002,16 +7999,12 @@
     "06190babda3a9a8ea2ab92861dd154f87a4cf05e33c2d5a57e0776fe2914d21c",
     "43d3c23822cd3491e5d4b96a35fe13ff6acd8e1049828c459f01b44205c6ae0b",
     "e12e76c2a4fa514c3d07996ab5cae093f30d234cefe809f2256c39d350e703d8",
-    "ffd5c3ad279712c098c86459a38bb9c8eed621b7dc6107e132beecd0b3ebe6e9"
+    "ffd5c3ad279712c098c86459a38bb9c8eed621b7dc6107e132beecd0b3ebe6e9",
+    "77630698195b1cfa24a7e52725336177eeeaa9bb51b20a430cac498bff65bfc3",
+    "c1e1d54047bc5c299e450b8a47ddfbbc26333bf4da5ce2e114ea63a643b8c8e4",
+    "4c3093234065d46df91987a90927e8279384013b6b22929124a7ca45856087dc"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Oil prices wrap up third straight weekly decline on strong Middle East supply outlook",
-      "title_ko": "유가는 중동 공급 전망 강세로 3주 연속 하락 마감",
-      "url": "https://seekingalpha.com/news/4675383-oil-prices-wrap-up-third-straight-weekly-decline-on-strong-middle-east-supply-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795220102
-    },
     {
       "source": "전자신문",
       "title_en": "LG전자는 매디슨 황 엔비디아 수석이사를 비롯한 엔비디아 핵심 관계자들이 18일 서울 서초구에 구축 중인 LG 데이터팩토리를 방문해 류재철 LG전자 사장 등을 만나 양사 협업 방향을 점검하고 시너지 창출 방안을 논의했다고 밝혔다. LG전자 클로이드가 세탁기 제조",
@@ -11504,6 +11497,13 @@
       "title_ko": "아네트 맥코넬(Annette McConnell) 임명",
       "url": "https://www.theinformation.com/u/annettemcconnell2fm4bj",
       "ts": 1795332149
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "CRYPTO UPDATE: #BITCOIN 59042.00 -2.16%",
+      "title_ko": "비트코인 59042.00달러, -2.16% 하락",
+      "url": "https://t.me/marketfeed/1083410",
+      "ts": 1795333000
     }
   ]
 }
