@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795323861,
+  "updated_at": 1795324011,
   "id_hashes": [
-    "40e8c2b6331882c0697f77bc333140d4161e1adba4818867b930b024387cc7d4",
-    "a37c48574cfccc2f7c1530a55929070f86824bb5a9f49ad736df682a60d668f6",
-    "1c24f7eebd58368808873a87189d40afc58b715b07954803b23853ae96925966",
-    "fbbfc948fa0c7532dda8898206eac4d19cb7fdabaccbce45026da5525531bcac",
     "637c4d0ce2fe1cdac3a40458b62a2475d8894a848a24888313983c5693f6b0ca",
     "4555e4609f398970daf09a0205753c39e4e83c87f558ee3fa240a38e54e0a2b7",
     "b5939c44f3d85abc8867730cac7afc22d9f1fbb2826c0bb248e19761e1366611",
@@ -4000,14 +3996,13 @@
     "13ec299cd8158d566eeacd4e0c5ce0aba545d152afaf38f299a830433a405826",
     "32b8edd4a7fece015b3dd3a019a68e34e25b430a232d185b5b212d19475e9249",
     "358431e6e43d7ca0a85d4b53198520ed5fe0345ed2a722c03bc0cecd98e09743",
-    "e5f9ae6b2e2ab8a14e03a8f70d6a03c19f89ef427ab60b8bb6852fe94f0d2ae4"
+    "e5f9ae6b2e2ab8a14e03a8f70d6a03c19f89ef427ab60b8bb6852fe94f0d2ae4",
+    "3319e3a7251d411695ca15e0a7143201a853156d11f1d471a6ee82f3c9f2ba4c",
+    "cffe7a355b34036329cd1056ad91803054b2c19f210a857fd2f1693f6b04fd24",
+    "741ec896e2a63fc88f8e60f3e8764a5138fdb23ae7c2a36eec4e3f8266651a00",
+    "907987d4a7feba337538ce96450571796cd660e23c9c428462f48879f3f013a9"
   ],
   "title_hashes": [
-    "a859752e9407337694597752c3ec3b2d19bb344e29729b6849c72c3e1b04c8e0",
-    "b752976482abadc2961086d23673ed082dfbcfef9acc17c3b926454d4691a14f",
-    "940c261eac51da8b360dc554062b7023dd37ab43616fe089a1b80aae3b774ea0",
-    "5546b9ef61f4229483cb8b0b43d333998bac536ade43e56efdb90d4ef67dcf67",
-    "90a1580c4f27bdaa188d73444f18ac23fbb0223c263e3060e0e1733c999f64c9",
     "06b71f1ae5a616570a5196f2a87cd88a94a8efc3b626622d70c514a80733df53",
     "eac429aa247aafa06dc7d160020b56b069a79e5674defa601189e2af88d88c3c",
     "923c2a4875ffe08474abc587cabf8bec60ec8c26546ba539f01031b9a46ebac5",
@@ -8002,16 +7997,14 @@
     "5593b9f2f796ff4b78eff92e6e4a0d85314baf2d702ed4c9c324f00db32a6fab",
     "6e54b477c6627dfad8bc4969f4ebd553eb1f2b21342ac4f47c24673bf32b18f5",
     "38fa95c565be28e41c7c83dfce6481f948a02a89661c33c354920b364afb6da2",
-    "f2cd32dae8d436edb6c6e670d3df5770613aff001e9ab4c8c068f95894c9d8c7"
+    "f2cd32dae8d436edb6c6e670d3df5770613aff001e9ab4c8c068f95894c9d8c7",
+    "851cf7d4321d05a7fce8d52bb6ce65c721d2a75c444a24184779816fc4bac029",
+    "b774e121b846d32dbfeb97edf704b9820045acc7956cde84d4ba9f7592779a8d",
+    "9aec4314519a4bb2b9afbdef6d87d34dcf5d5fb68bd3e54913d4bf90d74374d8",
+    "ea669dc3349bfe9c4f20c9ec8aa662ed8a3b23fa1b8223e366a01a21e8aa81ed",
+    "6b8dab14d3f72dc97d3ef523f94b2f3485c71438ec7f86b7819e11cae2576aaf"
   ],
   "recent_sent_articles": [
-    {
-      "source": "The Verge",
-      "title_en": "Claude has a new mobile design, too.",
-      "title_ko": "Claude도 새로운 모바일 디자인을 가지고 있어",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1039188/claude-has-a-new-mobile-design-too",
-      "ts": 1795212734
-    },
     {
       "source": "Bloomberg",
       "title_en": "Nvidia Plunges as SEC Probe Deepens AI Market Selloff | Closing Bell",
@@ -11504,6 +11497,13 @@
       "title_ko": "반도체 밀수 혐의 피고인, 과거 업무 연관성 통해 젠슨 황 엔비디아 CEO의 연인과 연결 확인",
       "url": "https://t.me/firstsquaw/194925",
       "ts": 1795323799
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "상표권 빼면 사실상 적자…순이익보다 상표권 수입 많은 계열사 13곳",
+      "title_ko": "상표권 빼면 사실상 적자…순이익보다 상표권 수입 많은 계열사 13곳",
+      "url": "https://www.news1.kr/economy/trend/6361960",
+      "ts": 1795324010
     }
   ]
 }
