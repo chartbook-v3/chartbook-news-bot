@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795346130,
+  "updated_at": 1795346280,
   "id_hashes": [
-    "19f6cc4d757e773dd206f7a4eac66dbc1d0ec10e28c664a827d8aadef26e602f",
-    "3c0513ab7cf1db77d6ee6875ba4e79996d9177a8d7451e4404772f3d2157d0d5",
-    "ddde79ca6a0bd584e1a87914a4799dfad63170a84a261ae74100ae9647243b70",
-    "0f2da27db61092860ddcbd510f1788192444b9ce1733c55e8731c97157244d6d",
     "ab373654c2b296c8c54f36d84146cbc108f77584a4390007d2e1f223a35842f1",
     "8e27c13bf8337dc8dda5408ca650bc809076b66fb33e0be14b4bdf0f69c0827e",
     "52c4d306902954f9bdc90dc26d24a282078ca96b193e2194cf40d999841bcfcf",
@@ -4000,11 +3996,13 @@
     "be019b9cd67f689031271f794222c4c89d3e230caa770bec952c8fdb2915499f",
     "fd5a1105a4598e95d3b8fb29dc3555ffbfd77945f3f920a82766fef8142fb96a",
     "4777a8cd3fc6eaadeb549600fe4004d2d6cad40d84a993e8fa3363bc01507e68",
-    "e03da3abcbaa8c48169d33c58ff593e3984dc367d065a2aa532557f8876024ff"
+    "e03da3abcbaa8c48169d33c58ff593e3984dc367d065a2aa532557f8876024ff",
+    "609f6ed5b5bac9427344f331220f7ee3c54324c8903a3a2a3e57e8d1a838b8ea",
+    "abfbd6769100ca2ee43053e94082f8c98026aab365f294c3f103928622bfa593",
+    "4e712637f5fb9f3c6ee4cc26546b887f1774f906c0d98cc074667ad1637f36c7",
+    "1a3f053a1668257cde7b30abb65a7c1445390a314f8bdfa771935251f27496e7"
   ],
   "title_hashes": [
-    "38d6017ac3b20eb6b124ca68d5dd10c88bd1b3a612583ad0743becc26e430f86",
-    "03a3aee8861362c5323a55354a565e7c537bd72cdb7ebf505df255a6f77f20c9",
     "d69a793866a54e9313e29da4140934c0d61e4b548de25e7035b8ef8197fff1eb",
     "f3d05768bd9ac1942e406b09eff42404cf7383b4b89d6a107d4da7dcd3c4c98e",
     "6849067184204468c0716579b965f662878af81d6dc897dfe53e0c285e27687c",
@@ -8002,16 +8000,11 @@
     "3d701646add1e092a762f8fd8d317ee5968edd1cfbf8a6a20a6406e17941cee1",
     "fee3b5f0e38b06fa6aca795526545ae09276709d50dbbd58461ebed3eac1db49",
     "135665414c9329da1e9b16aac56aeb8d36f2a011b66044b73da4372ec5f5dbd7",
-    "6b04f6124fa7dc8bc6bfdff047e54cbd7693c230599d33d67ea77d0dec9f69aa"
+    "6b04f6124fa7dc8bc6bfdff047e54cbd7693c230599d33d67ea77d0dec9f69aa",
+    "29babc957c457b24ca0572d99a89869633b67649045670d4b2c39cabaaea0fb7",
+    "535d69529ff83f2d494a6ace7151fc882553bf7174b3f22ae4e666ba49cb9bf3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "VOI.ID",
-      "title_en": "생물 안전을 보장하고, 중부 파푸아 격리, 수라바야에 604 톤의 CPO를 보관하십시오.",
-      "title_ko": "생물 안전을 보장하고, 중부 파푸아 격리, 수라바야에 604 톤의 CPO를 보관하십시오.",
-      "url": "https://voi.id/kr/berita/586724/jaga-biosekuriti-karantina-papua-tengah-awasi-pengeluaran-604-ton-cpo-ke-surabaya",
-      "ts": 1795231803
-    },
     {
       "source": "Bloomberg",
       "title_en": "David Jones Union Says Large Firms in Talks to Hire Workers",
@@ -11504,6 +11497,13 @@
       "title_ko": "美 벨로3D, 최대 130억원 규모 미육군 드론 탑재체 사업수주",
       "url": "https://www.irobotnews.com/news/articleView.html?idxno=49714",
       "ts": 1795345983
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Exclusive-Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
+      "title_ko": "앤스로픽, 스페이스X와 유사한 이례적 IPO 절차 강행에 일부 투자은행 반발",
+      "url": "https://www.streetinsider.com/Reuters/Exclusive-Like+SpaceX%2C+Anthropic+ran+an+unusual+IPO+process%2C+chafing+some+bankers/27383019.html",
+      "ts": 1795346155
     }
   ]
 }
