@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795318193,
+  "updated_at": 1795318343,
   "id_hashes": [
-    "9f2350e23196ce9847981c480091a053b040b2a4e3ad5feaaa8f00e20e7f9208",
-    "dc550c271fe9dec62829d9cac43ece9a5bd9901faaf7cf2654a1c2867a9917b5",
-    "209f7a75f1ba3328ad8c08cedc9ac60e95511b6d06d18f9d19b497f91266a31d",
-    "f2d705e460be084ed3667d43cc095cfea4a3061471393a6bfd8bf4e9809dc69b",
     "15efb785ce09cc14a75a5c3004b797b10aa8b61a3705efe07d68e0fe2450777d",
     "9aed26a0f7be35ccf7f389822a6a0eb0a89974d05b7476939b04f690af4fb3a4",
     "d17d8cdd7201ef6c5af24a163634a82c0f2524f23c5880598349f62542a91e39",
@@ -4000,13 +3996,13 @@
     "6364ea28f9177b41aaba24aeaa0c60395171e27a777b4c556f02bc1150363514",
     "39840ec5d1bec65ff15728b2d2e2cd353b6f37fa489f96e42c2de38d573a748b",
     "a4664c9cb08a51bf54f321ba123b726fa576c11a67241e272509a9ba5d3e5b10",
-    "09e45fdef2965026f142c0e89ee6d70bebd64015c0a9f6e40d2f986ebda7d205"
+    "09e45fdef2965026f142c0e89ee6d70bebd64015c0a9f6e40d2f986ebda7d205",
+    "80231d904b875de9f1798ae2f943e03d8dea032841f502788ce88acc6103c436",
+    "be2c13f8588ee63f0eeeb8245d4705b5810227fea5466bff0a3045f52cc9deab",
+    "1357e43a81889cc563e91fc4689aedfe8e6b707810dd408c86927c33f20c23c0",
+    "8f1408c49fbc1ba4bf66b22ddcf544396837968e672394bd1bd90036d6daf38b"
   ],
   "title_hashes": [
-    "04eeb4feb3f5925eb122eb84af965975dd7b887c391722b53453ea9987ad97cf",
-    "a75778b3c9c1affe7fbb80f7d5a78bfc81e8c132c8a6e6d8077de24b533133b7",
-    "9dd16fd904ffaf8fcadd0f0adae549a6ae7c85122bb65adfa4ed14b2a74d6682",
-    "8464c91f37881384258f2d19110b13d1f63e4fb232f0ff15537b1afc9df4706a",
     "1140d75416bad3c33a96c16eb9536f6825602e8913ade31eb836e1c4edd690ab",
     "1ccab369b0119d340af6810faeb52cdce4f2911da41954e4a40da254b28899c6",
     "c61aa653f891b85255110962046897022af0eb31c29efc578e1b59a7ac707599",
@@ -8002,16 +7998,13 @@
     "304f13e646562973822d9fdd3e6638749ca846f43c71c4b267d4acbf6be5e23f",
     "c68466ea460fd554243a0f8f10a2d8c78f4c24bd1a171c49ff154fd50d7631af",
     "666e95f30053a6621a581f552fd436c569ca749d5ad32206d741bf93d39c262f",
-    "a636ce34e18ff11bb88f0cb1c1921bd883a3c50e4c735c66fb1518e0256bd057"
+    "a636ce34e18ff11bb88f0cb1c1921bd883a3c50e4c735c66fb1518e0256bd057",
+    "0429510e95c4a6b05d449f28a442b4379c7a773c40ba6d2549747724c5ff90de",
+    "0877f0c595851ae1f3dd3f428afb3dd84ec1a5c23294fab2e4fe2af7565c8a4d",
+    "edddf396ca083ca0356a16bd1fd4f807a0dd63c95c86777d1a4006ca08e12232",
+    "0a5b5c696f7f2c6e7ef45a375f6f0eee53e4efb79812bd0d11c6d7b63c0e47b4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "조선비즈",
-      "title_en": "엔비디아, 中군 연계 기업에 AI칩 수출 추진…앨리스 황 연관사도 포함",
-      "title_ko": "엔비디아, 中군 연계 기업에 AI칩 수출 추진…앨리스 황 연관사도 포함",
-      "url": "https://biz.chosun.com/international/international_general/2026/11/21/GUFMFQIKCZCB7LURHYF5S6OSPA/",
-      "ts": 1795211053
-    },
     {
       "source": "조선비즈",
       "title_en": "美증권위, 엔비디아 회계 조사…대중국 수출·반독점 이어 사법 리스크 확대",
@@ -11504,6 +11497,13 @@
       "title_ko": "금융위, 유럽중앙은행과 은행감독 협력 MOU 최종 합의…유럽 진출 지원",
       "url": "https://www.news1.kr/finance/general-finance/6361878",
       "ts": 1795316872
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Australia Spy Chief Warns of Data Center, AI Risks, Age Reports",
+      "title_ko": "호주 정보기관 수장, 데이터센터 및 AI 보안 리스크 경고 (Age 보도)",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/australia-spy-chief-warns-of-data-center-ai-risks-age-reports",
+      "ts": 1795318342
     }
   ]
 }
