@@ -673,85 +673,7 @@ FEEDS = [
         "url": "https://news.google.com/rss/search?q=(site:thebell.co.kr+OR+site:investchosun.com+OR+site:dealsite.co.kr+OR+site:infostockdaily.co.kr)+when:2h&hl=ko&gl=KR&ceid=KR:ko",
     },
 
-    # 𝕏 주요 애널리스트 · 매크로 전략가 · AI 연구자 · 실리콘밸리 VC · 빅테크/AI 수장 (44개 핸들 6그룹)
-    {
-        "name": "X-반도체애널",
-        "tier": "X_VIP",
-        "type": "gn_rss",
-        "url": (
-            "https://news.google.com/rss/search?q="
-            + urllib.parse.quote(
-                "(site:x.com/dylan522p OR site:x.com/mingchikuo OR site:x.com/divestech OR site:x.com/benbajarin OR site:x.com/patrickmoorhead OR site:x.com/iancutress OR site:x.com/markgurman) when:2h"
-            )
-            + "&hl=en-US&gl=US&ceid=US:en"
-        ),
-        "priority": 1,
-    },
-    {
-        "name": "X-매크로전략",
-        "tier": "X_VIP",
-        "type": "gn_rss",
-        "url": (
-            "https://news.google.com/rss/search?q="
-            + urllib.parse.quote(
-                "(site:x.com/NickTimiraos OR site:x.com/elerianm OR site:x.com/Schuldensuehner OR site:x.com/charliebilello OR site:x.com/KobeissiLetter OR site:x.com/NorthmanTrader) when:2h"
-            )
-            + "&hl=en-US&gl=US&ceid=US:en"
-        ),
-        "priority": 1,
-    },
-    {
-        "name": "X-AI연구빌더",
-        "tier": "X_VIP",
-        "type": "gn_rss",
-        "url": (
-            "https://news.google.com/rss/search?q="
-            + urllib.parse.quote(
-                "(site:x.com/karpathy OR site:x.com/AndrewYNg OR site:x.com/ylecun OR site:x.com/DrJimFan OR site:x.com/emollick OR site:x.com/rowancheung OR site:x.com/simonw OR site:x.com/_akhaliq) when:2h"
-            )
-            + "&hl=en-US&gl=US&ceid=US:en"
-        ),
-        "priority": 2,
-    },
-    {
-        "name": "X-실리콘밸리VC",
-        "tier": "X_VIP",
-        "type": "gn_rss",
-        "url": (
-            "https://news.google.com/rss/search?q="
-            + urllib.parse.quote(
-                "(site:x.com/pmarca OR site:x.com/paulg OR site:x.com/garrytan OR site:x.com/eladgil OR site:x.com/MKBHD) when:2h"
-            )
-            + "&hl=en-US&gl=US&ceid=US:en"
-        ),
-        "priority": 2,
-    },
-    {
-        "name": "X-빅테크수장",
-        "tier": "X_VIP",
-        "type": "gn_rss",
-        "url": (
-            "https://news.google.com/rss/search?q="
-            + urllib.parse.quote(
-                "(site:x.com/elonmusk OR site:x.com/tim_cook OR site:x.com/sundarpichai OR site:x.com/satyanadella OR site:x.com/ajassy OR site:x.com/finkd OR site:x.com/tobi OR site:x.com/LisaSu OR site:x.com/jensenhuang OR site:x.com/Intel OR site:x.com/IntelNews) when:2h"
-            )
-            + "&hl=en-US&gl=US&ceid=US:en"
-        ),
-        "priority": 1,
-    },
-    {
-        "name": "X-AI수장",
-        "tier": "X_VIP",
-        "type": "gn_rss",
-        "url": (
-            "https://news.google.com/rss/search?q="
-            + urllib.parse.quote(
-                "(site:x.com/sama OR site:x.com/gdb OR site:x.com/DarioAmodei OR site:x.com/demishassabis OR site:x.com/AravSrinivas OR site:x.com/alexandr_wang OR site:x.com/ClementDelangue) when:2h"
-            )
-            + "&hl=en-US&gl=US&ceid=US:en"
-        ),
-        "priority": 1,
-    },
+    # (𝕏 주요 인사 44인 추적은 별도 전용 저장소 chartbook-v3/X-Tracker로 분리 이관됨)
 ]
 
 # ==============================================================================
@@ -2085,8 +2007,10 @@ def run_cycle(
 # ==============================================================================
 RELAY_REPO = "chartbook-v3/chartbook-news-bot"
 RELAY_WORKFLOW_ID = "418034205"
-EXCLUSIVE_REPO = "chartbook-v3/Exclusive"
-EXCLUSIVE_WORKFLOW_ID = "426534720"
+COMPANION_BOTS = [
+    ("Exclusive", "chartbook-v3/Exclusive", "426534720"),
+    ("X-Tracker", "chartbook-v3/X-Tracker", "x_tracker.yml"),
+]
 RELAY_CIPHERTEXT_HEX = "d98d1546754122c8f7bbcbc55d90fb4efcf8884f1dcd0f3b02e7809e1ea66cb9a6c84dd8b70a1e84"
 
 
@@ -2110,29 +2034,34 @@ def git_push_history_in_actions():
         logger.warning(f"Git 동기화 예외: {e}")
 
 
-def ensure_exclusive_bot_running(headers: dict):
-    """Exclusive 봇이 유휴(queued/in_progress 0건) 상태면 함께 자동 기동시킵니다."""
-    try:
-        for st in ("queued", "in_progress"):
-            r_chk = requests.get(
-                f"https://api.github.com/repos/{EXCLUSIVE_REPO}/actions/runs?status={st}&per_page=1",
+def ensure_companion_bots_running(headers: dict):
+    """Exclusive 및 X-Tracker 봇이 유휴(queued/in_progress 0건) 상태면 함께 자동 기동시킵니다."""
+    for label, repo_slug, wf_id in COMPANION_BOTS:
+        try:
+            active = False
+            for st in ("queued", "in_progress"):
+                r_chk = requests.get(
+                    f"https://api.github.com/repos/{repo_slug}/actions/runs?status={st}&per_page=1",
+                    headers=headers,
+                    verify=False,
+                    timeout=(4, 6),
+                )
+                if r_chk.status_code == 200 and r_chk.json().get("total_count", 0) > 0:
+                    active = True
+                    break
+            if active:
+                continue
+            r_disp = requests.post(
+                f"https://api.github.com/repos/{repo_slug}/actions/workflows/{wf_id}/dispatches",
                 headers=headers,
+                json={"ref": "main"},
                 verify=False,
-                timeout=(4, 6),
+                timeout=(4, 8),
             )
-            if r_chk.status_code == 200 and r_chk.json().get("total_count", 0) > 0:
-                return
-        r_disp = requests.post(
-            f"https://api.github.com/repos/{EXCLUSIVE_REPO}/actions/workflows/{EXCLUSIVE_WORKFLOW_ID}/dispatches",
-            headers=headers,
-            json={"ref": "main"},
-            verify=False,
-            timeout=(4, 8),
-        )
-        if r_disp.status_code == 204:
-            logger.info("⚡ [Exclusive 연동] Exclusive 봇 자동 실행 트리거 완료 (HTTP 204)")
-    except Exception as e:
-        logger.debug(f"Exclusive 연동 체크 예외: {e}")
+            if r_disp.status_code == 204:
+                logger.info(f"⚡ [{label} 연동] {label} 봇 자동 실행 트리거 완료 (HTTP 204)")
+        except Exception as e:
+            logger.debug(f"{label} 연동 체크 예외: {e}")
 
 
 def trigger_next_github_workflow():
@@ -2152,7 +2081,7 @@ def trigger_next_github_workflow():
             "Accept": "application/vnd.github+json",
             "X-GitHub-Api-Version": "2022-11-28",
         }
-        ensure_exclusive_bot_running(headers)
+        ensure_companion_bots_running(headers)
         try:
             r_chk = requests.get(
                 f"https://api.github.com/repos/{RELAY_REPO}/actions/runs?status=queued&per_page=2",
