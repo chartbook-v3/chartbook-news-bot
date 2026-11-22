@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795354450,
+  "updated_at": 1795354606,
   "id_hashes": [
-    "26b115fe6cd75e27f3f1a3f0a2c75ff937c977517cb561b2b486df989786e8f8",
-    "693cf4bacb0523349ec659d01142a1623ed0f7638321ed402075f5fb9bb3828a",
-    "8806bd16ba32dd4beccd1c02a5aa643ea0ff767e37bc5cf5df234f6d29f3a9b0",
     "0b37dc630c226904958a2a7abbb54d7a16ff433f43932accff1088fb2c613612",
     "c33bbeb1ba544d0af72ff072d45a14bc4336791d1140d8d8072c171a8e7fd625",
     "29b515760c65da6939c63d79005ffdf315ed53c5dc5876e1b6c9fb34e0c5784f",
@@ -4000,12 +3997,12 @@
     "8a4e3cbaa9fb6cbd8f33329e4bac317dd464966ef3d5e106f5205c77fa1d9867",
     "ada382dad972fea3685b6abcf2fed6868ff4f19d0a09f5a823b0c32429927040",
     "5da0f1e671b2fc4684d20c55f26fa3afb9dbdb950bc6cd1a59a542ee350ebe39",
-    "91264e003b5f68365d76aa60f306d47d74a4ed7202807c25cb60dfba87670f73"
+    "91264e003b5f68365d76aa60f306d47d74a4ed7202807c25cb60dfba87670f73",
+    "443c4677e07eb1e279b743e995ed6eed7ab4e2547327e6e8b08edb1d1f6789e4",
+    "2839a9be9485de543c9ace4885013e34f2defd553d3615ae3ebb5b537a5e8214",
+    "db25b4bb2b99d8f6c35e9482f2cae2b48274039afff45bf30abac8b3100e474a"
   ],
   "title_hashes": [
-    "361db52c0b0308fefa3d3b5c191e58c1229a702f6814aba3db05d283ea99a61e",
-    "666370c60a1dd041369432ac4f3cfd6a5f28cd3aa06eae662d66dcf5d7fbec14",
-    "46ce3901a74c320322ca7ababcf1129e4263d3c41925287e8936c3c8f8c90ec5",
     "c74009b836d0f7b9af39238322fb91e1e674df80f286b8653aad3bbf70d58a9b",
     "ac3600346ff0af89f5415b2288c4d3f5e06766145e6967cd832ef977b9dbe0c1",
     "fd4f03888d0230b345deeee7e6b347c087fa5551792d13c15a5a4f0db021c9eb",
@@ -8002,23 +7999,12 @@
     "30dcad72b5e9313c3f64ca6d5baae57aad0ced894e5a597e9e1364d3e1f67b0b",
     "72ba83a1404b691a5b5e79738cdc47d64435c5c4cc6dd44ef2ee3c1c4b7b1a50",
     "269da97d80fd9423aa71e69eba8a7356200c681615ae34a276fc500a28da0597",
-    "9173bfc34b623f9f065b28297bb81e1609b6b9767f67792d647640d1bdcf76cb"
+    "9173bfc34b623f9f065b28297bb81e1609b6b9767f67792d647640d1bdcf76cb",
+    "185aff920732c73cd9da6409183ec00c1c3944bff76db4d72fd6bc5d71ad2265",
+    "f9c8675170c1b257da85b1ddfd1bc907f8266773cc41b97ba6d74544a4bd5d05",
+    "6e22e7feade55511947738aa154d048cadae1c56ba8766f4248efeb832200504"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FT",
-      "title_en": "European construction firms position themselves for a €620 billion defence infrastructure expansion",
-      "title_ko": "유럽 건설사들이 6,200억 유로 규모의 국방 인프라 확장 시장을 선점하기 위한 전략적 행보에 착수했습니다. 러시아-우크라이나 전쟁 이후 유럽 각국의 군사 시설 확충 및 방어망 구축 수요가 급증함에 따라 관련 수주 경쟁이 본격화될 전망입니다",
-      "url": "https://t.me/firstsquaw/194763",
-      "ts": 1795239888
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "UK youth jobs initiative worth £5.8 billion relies on uncertain projections, FT reports",
-      "title_ko": "58억 파운드 규모의 영국 청년 일자리 이니셔티브는 불확실한 예측에 의존하고 있다고 FT는 보고",
-      "url": "https://t.me/firstsquaw/194764",
-      "ts": 1795239951
-    },
     {
       "source": "FirstSquawk",
       "title_en": "FT: Scouts face mounting camping expenses as tourist tax liability reaches £1 million",
@@ -11504,6 +11490,20 @@
       "title_ko": "클로드, 리만 가설 증명 성공 여부 주목",
       "url": "https://seekingalpha.com/news/4675406-did-claude-just-prove-the-riemann-hypothesis?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795354449
+    },
+    {
+      "source": "전기신문",
+      "title_en": "전기학회 2027년도 차기회장에 구자균 LS일렉트릭 회장",
+      "title_ko": "전기학회 2027년도 차기회장에 구자균 LS일렉트릭 회장",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=375108",
+      "ts": 1795354601
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Earnings Volatility Watch: Dell, Zoom, Nutanix Lead Swings - Dell Technologies (NYSE:DELL)",
+      "title_ko": "실적 변동성 주목: 델·줌·뉴타닉스 주가 급등락 예고",
+      "url": "https://www.benzinga.com/markets/earnings/26/11/63517061/earnings-volatility-watch-tech-worst-two-months-2008-dell-zoom-nutanix",
+      "ts": 1795354605
     }
   ]
 }
