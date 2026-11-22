@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795389006,
+  "updated_at": 1795389159,
   "id_hashes": [
-    "67172666e9780a61f135402ffba9ae04a6b12324eab43ae0a2f6d919bbde2d6b",
-    "da6d3412b24b46882cb7126432c82af50aa2297148800f2a958889bf9be73a8e",
-    "598f369275de78bf5a89f6a55ac3e3e50b1e00363eb7fcff1afd021ee40a2ce4",
-    "34d6b04873d051ab201e1c109259d30e45b44c9449c77a131c12c83cbf89ee86",
     "03221f7046c99680ac03a0eb7b8a890df86e79f85cde5ad93893322581b71f99",
     "94568aa96b30c74d330e6867724bc10dedef7bc1cfa2051ed308c326054c600a",
     "133271fea9c288fc44936dde5256e52a7b9fab0658325e8603bdb521a3203667",
@@ -4000,13 +3996,13 @@
     "219c010e5a5305b50200342d71c1cab53fc15a3239998a0769b273fac475a5b6",
     "cf2dc2dbe626ab66c9c0dcc6cfb37ce920b6ee62e637a73e6d4bd99925b37c7a",
     "c912da1b1eb3173358e3a08ba97e4da8027990be435099dbeef7bf94c84a424f",
-    "b71db27ae1713c5880ea888c755c012561e3723aec1601934493aa0a48a55be7"
+    "b71db27ae1713c5880ea888c755c012561e3723aec1601934493aa0a48a55be7",
+    "28c4783bc4064db19b0c3f10f93e8e4466185cd373cacf75ec065e9c3308978f",
+    "a0bb36a19b2a41f19255233b3744a1429163f12cce5ce1844beb4cf87c18819a",
+    "a08ad3164f49ffa468ced78cfc0d2f417c81af8b537471bdde4d03488c42ed1f",
+    "866a222654f3d530ce4b1a32b8a98fbd571832a19d745a9aa318680f38ec7993"
   ],
   "title_hashes": [
-    "4d2c3e5d831d086fda885aa4985bde73c0f109b0d83fe55e960cd948a40c0264",
-    "7805be9e88c7b13f0264cc64a51b8acb3d74416fd387ab3791e725bb5658c8ee",
-    "65e312882916677d972c1fd9f58de2877e991008bb0068e8e3cf06182f9abebb",
-    "da595e603e5459536d00ee9bd36fb42b81cf72bc836171449c82c9c97f3fe5e7",
     "eff3a3caecbf8dc6a2d5c2344ae37123d92c4d49700c254da903e9ed942c82f2",
     "e52530541fba7cadb6cb7022b76d97563525d07899c31cbae2008e082b73f903",
     "caea82b4a4dc88d82f8cb62f432c36a571c845a997085d09643b7cc97b4e7c75",
@@ -8002,16 +7998,13 @@
     "bf50847adac1f48fa3fed3e85a63929f9adb85cd2005fb28ddcda667320083a6",
     "eb4db55435b130cc59a6e51dea678d1cb6552a03d0c0eb7d3aa2bc80d9ff1a35",
     "0255f1d2b681004b9bc55c2170f838ba5b66a699abfe1542f3ddb82c733cc410",
-    "ebf4a8b2f47b407ca5310dba455b025415f2627c9c18a6929ff670909b808c9e"
+    "ebf4a8b2f47b407ca5310dba455b025415f2627c9c18a6929ff670909b808c9e",
+    "93448327453a9b30189080125b20717fdb73b7a27fe5a60488572fbb21c9cfd6",
+    "84822e29464d64604d1bbf350891ac8c89cacb7fc4e97ea18e7f3c38a5f0884b",
+    "d10b8dee74894929d8b218476e87a73d10906b3e0f9c8326c03c17637271961a",
+    "4b0d8f771e1b20839e2ab19c0638c6fbba18cb6d65fc4aed5cd4c25699ca1a0c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "9to5Mac",
-      "title_en": "Weekend Black Friday Apple deals: MacBooks from $649, Series 12, AirPods $130 off, new iPad mini, more",
-      "title_ko": "애플 블랙프라이데이 주말 할인: 맥북 649달러부터, 시리즈 12·에어팟 130달러 할인 및 신형 아이패드 미니 등 포함",
-      "url": "https://9to5mac.com/2026/11/21/official-black-friday-apple-deals-now-live/?extended-comments=1",
-      "ts": 1795266138
-    },
     {
       "source": "Wccftech",
       "title_en": "Samsung’s Memory Production Reportedly Almost Fully Booked Through 2029, As Customers Seek Supply Deals Until 2031",
@@ -11504,6 +11497,13 @@
       "title_ko": "[속보]프리마켓서 삼성전자·SK하닉 4% 동반 급락 출발",
       "url": "https://www.fnnews.com/news/202611230803274590",
       "ts": 1795388856
+    },
+    {
+      "source": "한국경제",
+      "title_en": "美민주, 한국 3500억달러 대미투자 들여다본다…관세 청문회 추진",
+      "title_ko": "美민주, 한국 3500억달러 대미투자 들여다본다…관세 청문회 추진",
+      "url": "https://www.hankyung.com/article/2026112329517",
+      "ts": 1795389158
     }
   ]
 }
