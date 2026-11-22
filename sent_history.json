@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795326772,
+  "updated_at": 1795326921,
   "id_hashes": [
-    "a473f8cb34305c33e304f67a690e7a047a283d47d74ee69f08a5f0cc68ee9e40",
-    "249eca50e974aa927f8c1177a17c4b5a4bd4bfd93972bfc59c6d04f27dfa8809",
-    "3a5ab3044d1711351159ec3dce8b845e05c341acef0b21b2358c0d2db0a89dc2",
-    "22197429ee9bb4af7d4bb6b0731aa3652e7ef05922a10d8883b98b830086e8b9",
-    "a5250c48ef55a2486530ebc926ae6369000ffdc0561add29b2ced9d65efb743d",
     "d862ba14205005fedf17d46df65fca818ee95661e94efc397c143585e5544388",
     "9a8f0f65a5180945f225a7bfe2da7c8f2f8987c53471fe7f295aae5e551b376d",
     "630bd78681a0be9b46c39c3c37fd3d76708dc89d790bcf17a6c0363a8714c8dc",
@@ -4000,12 +3995,14 @@
     "3ba290e604b80f94473f5f4c4959ca8519cb2edbde9b16b404095c607fc9c9b2",
     "7e27823cee5526b91f8f34dc9efa41f10f2d3da87e6a35f936241cf40961c375",
     "72504eebed74dcc8b73fca072a0d035ca8065f1ee527beb87e42b180ecda49db",
-    "114738f2f9fe00d42ef8d7a779ae4ea7f7bd041f8ff942769c9f65b5c6ed6c75"
+    "114738f2f9fe00d42ef8d7a779ae4ea7f7bd041f8ff942769c9f65b5c6ed6c75",
+    "c0ff241d8ce8d9d9620915e9048740bfc0a3e88d7c0203a97f592a4f1754c868",
+    "9c05871df989c72e40914cf5627e72b333ee6389cf0b9e45513081a2e3b913be",
+    "7cf480711b3ac34cea6b5b4fa0012044e1ce57b5e28878475c82718bfc8a34e7",
+    "b144abd9880390927dd2404883e67ff37b1e63580271d345a037526211a9c8ae",
+    "1a7558974f3a4d1119102cba219346c1155c9d4454fbaa22d923d607ed868b3e"
   ],
   "title_hashes": [
-    "1b367219211636b38fdfd6382b68df68a500754a0d756099248a2abc89508e3a",
-    "88a1ce6ec29b9098f8736220534224c5969e0699201430610dcf57b0a837440f",
-    "1639a938befdb90787c5b97edec80295a728f92974ba55c2c7aa08503072e38a",
     "1af5abeffbe8b429d0574351217a902eee6b28a5405bcf16e7fbedfbf155c6c9",
     "cd7757438e12d6d05560adf1228b9a04ff9200c8b27122019672654d19291af8",
     "319232c870d1ff8fab48e0ee8fdd73eea959ceb60daed66ff75e159f3a500fe1",
@@ -8002,23 +7999,12 @@
     "a14f99a5d75c6714d9055fc99dfcf5914982218338823ca3095e7d4bba4070ab",
     "72647e98c5f945d9813a03781295f17e36f1c89a68f7f837711e3290d5f10719",
     "d41c92cbca40c37429e6c9fa69152efbb43887228043b7d0b439a8b8c6cc0dfe",
-    "6e9ca0065a60f77069f2319e7fe75294c3a8a041ef85734d8e038aaacb01ecbc"
+    "6e9ca0065a60f77069f2319e7fe75294c3a8a041ef85734d8e038aaacb01ecbc",
+    "109830929b2fd5ee0611e9c27d21e8298f1dae27a89c2d423fee10b47926c6ff",
+    "9d38847feb696cc4678508a42d3bc575fbfbceda56df6b5cefb06bfd112f68ae",
+    "1fc07988afd50229a6b356ae511f6cbf462a98025ef6d2b75d47433d31cbd090"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "美国商务部长霍华德·卢特尼克要求电池初创企业Pure Lithium将51%的控股权交给美国政府。",
-      "title_ko": "하워드 루트닉 미국 상무장관이 배터리 스타트업 퓨어리튬(Pure Lithium)에 지배지분 51%를 미국 정부에 넘겨달라고 요청했다",
-      "url": "https://wallstreetcn.com/livenews/3203618",
-      "ts": 1795215481
-    },
-    {
-      "source": "The Verge",
-      "title_en": "Nvidia’s stock closes the week down 14 percent, as Reuters reports the SEC is looking into its “accounting practices.”",
-      "title_ko": "로이터 통신은 SEC가 \"회계 관행\"을 조사하고 있다고 보도하면서 Nvidia의 주가는 14% 하락하여 이번 주를 마감",
-      "url": "https://www.theverge.com/tech/1039305/nvda-down-sec-investigation-accounting",
-      "ts": 1795215852
-    },
     {
       "source": "연합뉴스",
       "title_en": "[머니플로우] 서학개미, 이달 엔비디아 8천억 폭풍매수에도 6조 평가손",
@@ -11504,6 +11490,20 @@
       "title_ko": "시진핑 주석, APEC서 \"변화하는 글로벌 환경 속 국가 간 협력\" 강조",
       "url": "https://t.me/firstsquaw/194945",
       "ts": 1795326771
+    },
+    {
+      "source": "FT",
+      "title_en": "Argentina faces rising financing costs as Milei’s slipping approval ratings weigh on market confidence",
+      "title_ko": "아르헨티나, 밀레이 대통령 지지율 하락에 시장 신뢰 위축…자금 조달 비용 상승",
+      "url": "https://t.me/firstsquaw/194946",
+      "ts": 1795326857
+    },
+    {
+      "source": "FT",
+      "title_en": "BURNHAM’S EU AMBITIONS ENCOUNTER POLITICAL HEADWINDS AS LE PEN’S INFLUENCE LOOMS LARGE",
+      "title_ko": "번햄의 EU 야망, 르펜 영향력 확대에 정치적 난관 봉착",
+      "url": "https://t.me/marketfeed/1083396",
+      "ts": 1795326861
     }
   ]
 }
