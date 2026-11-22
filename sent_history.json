@@ -1,7 +1,6 @@
 {
-  "updated_at": 1795359436,
+  "updated_at": 1795359582,
   "id_hashes": [
-    "76ef1a5e0b9709b3df6d20ddeecb0a0f503772dc5aed6d09ac6eebdb62544124",
     "1323e66defd6223003ef49f38f72e500464da8bfc7075db406a80f11699ffa2f",
     "d26a6bc0a9bf8020b5a19647821f6e451e1afa2ed27b4bb65caf14fc1aab7bb3",
     "06fa99e4d817f8e0689bd5b3967f39591251c6fbfa6af0d72272173d6dd035dd",
@@ -4000,10 +3999,10 @@
     "531cbc067b74b314acee856ca96f46b6ddef623bcaf69021df47a9131fb1004e",
     "7b5951f48ab9646d102fded6b4b1bb6cbc5156b66f5e913c51d2f91bade86eb7",
     "bf6bc9d071f0f99d2bfdb54e013d52eb520e6e2d1383845ac7a5ad73bd7d4162",
-    "89217780cd6d13b2943b2b2f57435fa2a42efc134ea6d7de1ee69fbd7c8fb1c3"
+    "89217780cd6d13b2943b2b2f57435fa2a42efc134ea6d7de1ee69fbd7c8fb1c3",
+    "28f3d34c31e1959774a0d5df097c74e3d3e57897f54e58ed3e4e203ccf31433a"
   ],
   "title_hashes": [
-    "3d053ea25fc8e209a1a1f8bf731c3f917c356bce9caeb7431db3a7e0aa9b95ad",
     "5a8a7f6dc08dbf2372a0574ac1ceeee669702f1e16cbe1fe68a8861242c04063",
     "01f48daa9a7cb5ecd368dbef958493db83c3ae4983aea7e3de7f841c58bb5251",
     "f659f32ade0d8692cd49ec049afd9bcebe2d2dffe7c2384fcafb6f37c0aeb54c",
@@ -8002,16 +8001,10 @@
     "785d6e45f7e5243f6733c5b9ca50fdfacd4fa736c4b9a834f54d97547b31a915",
     "63f1a97ebff93a09a3db8a87261e086228a903f612381614eb0b2673acad9f42",
     "5dbb5803c718e3c6dc720962347d99086c32edb784f90b0b489ce8776c4d1b03",
-    "62fccfeb25bab08042ff54786edc977bfef2f0999fd75441aad3bb5c23b4c821"
+    "62fccfeb25bab08042ff54786edc977bfef2f0999fd75441aad3bb5c23b4c821",
+    "49f76cd090847283f3d77d162a8af97bef9d0b6dffa6ed9cd7332bd3d3fd1c5d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "X ｜ THE KOBEISSI LETTER",
-      "title_en": "If you're Nvidia's board, what do you do this weekend? Your stock is down -45%, almost every government agency is investigating you, Jensen Huang says he wants to return, and shareholders are calling for you to be fired.",
-      "title_ko": "당신이 Nvidia 이사회라면 이번 주말에 무엇을 하시나요? 귀하의 주식은 -45% 하락했고 거의 모든 정부 기관이 귀하를 조사하고 있으며 Jensen Huang은 복귀를 원한다고 말했으며 주주들은 귀하를 해고할 것을 요구하고 있어",
-      "url": "https://x.com/KobeissiLetter/status/2124028536164139438",
-      "ts": 1795242890
-    },
     {
       "source": "FirstSquawk",
       "title_en": "California entrepreneur says state avoided economic disaster with billionaire tax rejection",
@@ -11504,6 +11497,13 @@
       "title_ko": "유그린(UGREEN), 아이폰용 25W 맥세이프 액체 냉각 배터리 40% 할인 판매",
       "url": "https://9to5mac.com/2026/11/22/ugreen-25w-magsafe-liquid-cooling-battery-black-friday/",
       "ts": 1795358998
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trump Tests Common Ground With Democrats",
+      "title_ko": "트럼프, 민주당과 공통 분모 찾기 시도(테스트) 중",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-22/trump-tests-common-ground-with-democrats-video",
+      "ts": 1795359525
     }
   ]
 }
