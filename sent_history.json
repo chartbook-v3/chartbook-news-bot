@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795308831,
+  "updated_at": 1795308988,
   "id_hashes": [
-    "56fe4cfbc2cabfdb806248180c3808c07d98f2ae27b2c4830776a68e56c6a0ce",
-    "ae35850cdbac171db88be5380d43f07fb6cf07a7de1205d11524dbe6f5feb986",
-    "ba3bc1588db53817e2308996622ba342f64d36404cd0d074cf9d1f69789bf516",
-    "e02c2f4367702017dc1905256a55beb12ecd627f453cfb1e5779f2b834437bdc",
-    "32dbea970f3ee989b43538757824c3774eafd5f94dda4acbf404d69b919f59e2",
     "4405baeee8901b6fdb392cadeb2308d73377163859bb6886b9dd61f52fad471e",
     "a9a9583d69089f5ebebc9cf1ed7ea2b723b4d0565ed36e8d13a8154d137631b5",
     "ed0214185a97db9ecc28b3c3c885f8b8de25c7d9977fcc34b14b7314f4f2aad5",
@@ -4000,13 +3995,14 @@
     "ea4ce50a68b6e90d17dab5923188b29fbc5ecfc6ac01fa2cd59db04429d98288",
     "88598180e6265192bed259b4e3fb2f7283a00164220fbaeb52bcddcab6f29e4f",
     "fcf1c89596fb648322619087fe787cb47c1542a7eb5f46e97fa01cc9b47a054b",
-    "1cd8578e2dfbbefbc9dba6d5dd9e069ee72a7f7d583b25eb56a7d10910928285"
+    "1cd8578e2dfbbefbc9dba6d5dd9e069ee72a7f7d583b25eb56a7d10910928285",
+    "eecf05d5e9b97a63e54918ad847717cd18864ef17886658d7716060180b8154c",
+    "d6ad178ffbd4ce6b04d1d5e6c125eb808d61e4ebf9841ddcb27f987803a78b0f",
+    "f61220bdeaa0cc481145041ad75b051b51ac9c90746586b3f7cf6c03106f75d8",
+    "ebfd2365a05ecda098e813e44009476d40960ad9c8ddc65eff8cdf34bbd2f82c",
+    "83a4957ddd3dfd856da503e26c7ef329263a2baa68bf77d57d38f932e1619967"
   ],
   "title_hashes": [
-    "376d2a32c608b1b3bd5520c42920aadb3eb1129c52b8717e707fbeb059a2d1b1",
-    "d9b12bec4e13df094ea1ba12bf32a6b6967167867753a3922bf78da281918101",
-    "c0b90656260146cf2a5ec3a3fe9fea8aceb6d381598b9f9659f7567cc5b1e10c",
-    "5da58e63f3b9ccba7a680dff462593c39927b14b1d2adb118dff1218426bfbf2",
     "38967d7474c4038892cb3a96cf3d41cbac26f66da3048b3fe49a08b2cdb9fb09",
     "598e0bdfcd4f5ea38d80ff17374589998470b937cee252e7b557ed1553a25fdc",
     "3be196c66ae1ad899d385ca63b48836ef4942ee6f8411357c47715d5c94a95e0",
@@ -8002,16 +7998,13 @@
     "27bf72b69c3a2aa81679e32b91c32d738d2f63797776b2724391ad940c8cb757",
     "03c1bdb25b6bda82b91a3408bbdb246643c2ee18ff132b66fbfb8fbaf565028d",
     "58cfdddb3cffe2f73709255133d28b6cd51c60843a4efe3ea493a83238bafc9b",
-    "e8c2a3342847a5e35a3e72dfd6d7c063f3ae708f21f7124766d831dbe1c9f876"
+    "e8c2a3342847a5e35a3e72dfd6d7c063f3ae708f21f7124766d831dbe1c9f876",
+    "88fa1160c9121133a93c6f45013b7cca117a8cbdba963eed33c3bc0196d509fe",
+    "568323b59633c73e9df95d7d0815c960a797a5687157234f22f3bf5f268bc40b",
+    "a46ecf61a2f3cf9854efb262e8e14e17bc83c3a8f189d7b26b4b57ebc383da39",
+    "5903ac63639d2ed551c39104d4966a25b31c31464128ca1889b2bdc01fa138ef"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "微软：已开始部署修复程序，预计几小时内推送至用户端。",
-      "title_ko": "Microsoft: 수정 사항이 배포되기 시작했으며 몇 시간 내에 사용자에게 푸시될 것으로 예상됩니다",
-      "url": "https://wallstreetcn.com/livenews/3203586",
-      "ts": 1795209305
-    },
     {
       "source": "글로벌이코노믹",
       "title_en": "佛 사노피, 시가총액 약 35조 원 인스메드 인수 검토…거래 성사에 수주 걸릴 듯",
@@ -11504,6 +11497,13 @@
       "title_ko": "한국로봇산업진흥원-육군 제2작전사령부, '국방분야 첨단로봇·피지컬 AI 도입 확대' 업무협약 체결",
       "url": "https://www.etnews.com/20261122000043",
       "ts": 1795308830
+    },
+    {
+      "source": "X ｜ THE KOBEISSI LETTER",
+      "title_en": "AI-related investment contributed +1.27 percentage points to real US GDP growth in Q1 through Q3 2026. This represents ~65% of the economy's cumulative growth of ~2% over this period.",
+      "title_ko": "2026년 1분기부터 3분기까지 AI 관련 투자가 미국 실질 GDP 성장률에 1.27%포인트를 기여한 것으로 나타났습니다. 이는 해당 기간 누적 경제 성장률 약 2%의 약 65%를 차지하는 수치입니다",
+      "url": "https://x.com/KobeissiLetter/status/2124305136692408552",
+      "ts": 1795308861
     }
   ]
 }
