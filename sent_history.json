@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795369410,
+  "updated_at": 1795369562,
   "id_hashes": [
-    "39c941b2df0b0c84d454715c555328d171f912d2bb23d7a6d625e91d33d956c3",
-    "ed3c72035fb678161d05a91158d4e7953c216d688a2c26d7ac97915a3463344a",
-    "9c600ef51a82e8d0ca688d4060d76a1d7cc329197d8f753b0b80e4c9c004b4b2",
-    "b40fda14b29d4c453a0acff423a54751f80746a7e2514751ca74b817189c4997",
     "89e1c18a2dec28f29e1b9208508de8d714ca718f328d6be2fe5514fe2404113d",
     "add8d957f5e6500bc59bafd0bc9e9be8e4682b4208a13265472d54e6a736d9a0",
     "faad1d55ba312fadfea2d20c72e5bb58097f035b3c31a758074afde8c155863f",
@@ -4000,12 +3996,13 @@
     "79e628d874e25d2d37c63845fadcc7adea986e21f281e30b451d380fc75493c5",
     "6d91268ec35c6df588c818bea95a2f0f831240ce4501dbaab584c66032319710",
     "0257d6b6977999cc77c8673f6e170eecf4abbdac7ea7be5e795789589fcf6614",
-    "d4968bdfa278d33b6ba2507fb00f0456d454e93a1e1135b6a06c875f5063c991"
+    "d4968bdfa278d33b6ba2507fb00f0456d454e93a1e1135b6a06c875f5063c991",
+    "fb4953a05389a1800900fce27263b45459d815d407a705933769f13c32237388",
+    "18e1b048140a6deff892bad1cc84c2d5ebd7f67d7e37f2b7e3143423dae52b14",
+    "5f74b9fc6c7302c568dda2e161a1f6d85689c20e3e948e039c1fcb85fba1ae51",
+    "a510af232704d68b1f1fe1906cd351b581bdb245537bf50221cf1ecfe578365c"
   ],
   "title_hashes": [
-    "41d5a8bc0dc1f20dedfe73a05c4dde06091f41873d4dbb2a75514128b8f8c7e9",
-    "943996ff2bb08d027d0abed4d89d4f299f5c3f96417c78ad9bd1ec9717def54a",
-    "a636c42b1ce5307e23422dbfae923bba6a25b8224703979854bee1981b4770ec",
     "bf4397c8987f4346ce00e12830e64502d4d991365c9912b15b098606681a7918",
     "365bd31413e2e39651f06aa7b0b8fa755a7de4e4c16aad99314dafdf77957019",
     "feeea6f339db9698139acf63e23992c584d83b254ff81dc18f957c8c2f4e044e",
@@ -8002,16 +7999,12 @@
     "7ce499f4eb4a0ab014a37040aed113680408fc2d7f031dbe90ea24f7827390a4",
     "034ca0215bd48b2eea270c7c5c30a6a09c696f89402abd68a9b3ca418ae7141f",
     "1502bcac780b39bc0aaf0ff10f11e9a8bd1df04f95603d642b2ba5d351ec01f6",
-    "da4173a3461780ead6d731b00347b9953f386d5106be34b83583173645f12d17"
+    "da4173a3461780ead6d731b00347b9953f386d5106be34b83583173645f12d17",
+    "5ac98ae8fb28a605c26119068c7e4861dfc9834de63c2e62ac6279585765eb05",
+    "784f981d7989fbb51281a5b5faa6bc4b06190b61d953034a8416dc20844ab583",
+    "11ea13ecb948bc61900a23b1c0c0015bd10885cf11834325152d89ff1965bb49"
   ],
   "recent_sent_articles": [
-    {
-      "source": "X ｜ THE KOBEISSI LETTER",
-      "title_en": "Inflation in Japan is accelerating: Japan's CPI inflation excluding fresh food jumped +2.1% YoY in September, its highest YoY increase since December 2025. Since May, Japan's CPI inflation has risen +0.6 percentage points.",
-      "title_ko": "일본 9월 신선식품 제외 CPI가 전년 대비 +2.1% 급등하며 2025년 12월 이후 최고치를 기록했습니다. 지난 5월 이후 일본의 CPI 상승률은 총 +0.6%포인트 확대되며 인플레이션 가속화 흐름을 보이고 있어",
-      "url": "https://x.com/KobeissiLetter/status/2124075093143765481",
-      "ts": 1795254024
-    },
     {
       "source": "WSJ",
       "title_en": "Wall Street’s $4 Trillion AI Wipeout Intensifies as Anthropic IPO Faces Turmoil",
@@ -11504,6 +11497,13 @@
       "title_ko": "방금 전: 🇺🇸 트럼프 대통령은 주식 시장 붕괴에 대해 민주당을 비난하며 \"상황은 더욱 악화될 것\"이라고 전해",
       "url": "https://t.me/marketfeed/1083506",
       "ts": 1795368439
+    },
+    {
+      "source": "BreakingMarketNews",
+      "title_en": "FJ 2.0 now has real-time news for day traders in these languages 😍",
+      "title_ko": "FJ 2.0, 데이 트레이더를 위한 실시간 뉴스 다국어 지원 개시",
+      "url": "https://t.me/breakingmarketnews/179662",
+      "ts": 1795369560
     }
   ]
 }
