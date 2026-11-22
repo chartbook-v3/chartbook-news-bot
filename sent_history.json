@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795345383,
+  "updated_at": 1795345535,
   "id_hashes": [
-    "bdca7358bbb9f5f26c08bcb67c38cb007ff58be4e9c459a309d8b738a2575b69",
-    "a4e3b31ba27e44d19282bd7a2106121f3268e7ff603b45d6856e9c1eb34b3453",
-    "38681d8309f16fc3f5af1bea3ff7a874cff087e8a5d8dc7eb35565f9df9f2c3c",
-    "fa152825206e8e629e2f158124462b93c5c84003fe5c447c9c5bc6be865f2b9b",
-    "5de48167ab6e9ccbf4d21d3fe3b62aa27c188155f23bb30bfd9cf74292355cdb",
-    "9d18e1499d4cfe270453f22d8d12eb45826686fca3469c74a54f5c1583fee6f5",
-    "1b1b1090c3d966797de98f1e9cf1a6b8f8953e737901c965b8514b126427b26d",
-    "8b19c717c38fe68dc8bfb22d25f50efc53ea0b690f503f22978326e6a1dd9d09",
-    "7180b039d63422fa3b9bad48894592ffa147f07de7801a92b5440afbebc52e49",
-    "bf84230eff02cd8b4f3582f125b94300eb48947925cf24f54d9056c7a69f932c",
-    "d5da939397dcbe206e3ed106e9ecb79ef3ca641b52f59493d6c83936c00ed162",
-    "1f57a959cd8698c232b079e08e1f332584e9afe713c79d71152e87bcbaaabd3b",
     "7dc087a93a490f50e44a2194c22a705a7610c6220c1d2bdd33b68acf2b84579c",
     "ae7ddcce0c67a3d34b29d66990c4859fdc78e48da971a46d4a35cbca886256fe",
     "6f15135c40643c18a8bd37c38ca22931272e8a286995883c2bc4c254b1f03178",
@@ -4000,21 +3988,21 @@
     "a89c9fe035d0bbbe3320d3df9da6431435efa654154170ade505203ed5dd8c86",
     "b4ce7825c234e0d2b90323e2dfad6d0a2193ad7e35854961bc43b2ed225107b1",
     "7155f56922c6f4817d682908d86acc79f4ec823402e82b806e29611a2f296bdc",
-    "9b46029987d12d177e1c39b82f4146e2e5c962b5d8f75125bd02181dc940974b"
+    "9b46029987d12d177e1c39b82f4146e2e5c962b5d8f75125bd02181dc940974b",
+    "33d67260d4db9fb751c0df52f61ce79361ad2f5bd8fefcfab35c0f1979a4d477",
+    "95e3d5f9b9034b4c9e3b7e2f2cf262d8ea931ccd087cd5d980eb401fb0e1e3c7",
+    "f471877caced4e6858b7ac09b92873f9012c9774b6ecb6468740c223ca990ab0",
+    "b14cf31309614538bc0859c9325c9ecc61be9a4fbb122ad9d37975d0777a2878",
+    "81f964a10f1ae9d09448c2071fab0e0155555aa693a4a83e2dd86d917bcac134",
+    "9dd8171de367b3451abfa51da62c84125e933fb5a1c1623c9037c98a2a910ffa",
+    "8a86b29a1fda97bd5c3d2e871e69346ac4040d8dd31e8597c354b52ce5d48266",
+    "f370dae47c219168cc32fe30e64c762f597a3c3c71bb32d94b29f151cb9a0f2f",
+    "7cd25a70776ce4ad775578b5df132f9c51ee6459a747ee53ae3a98fd0842f20d",
+    "c014b3fa811e51c70fff8d3cc739e7b4dd4df8dca8ae20d30fd8b6cd18e54100",
+    "46025735e69dd80663c338172b7621e8eb4c1c33ba9920b7fee5b937bdb46c56",
+    "88f5943ce914b6e4eaeb3138bdcf723aa8e3ad29bfb390e495b4764147a93ba3"
   ],
   "title_hashes": [
-    "52bfca8510c23e85e6ad6ba49d803cd9db64cb358e727c275d353fd95e883df6",
-    "0e889c70b4f52e1e4b9faf203b0016c26de45a2c2804da26e9c1ac7026e5f632",
-    "d76a4b0794da50f0675956395ec2a8a2c6ce9588f80dd7734f3d85a4590214cc",
-    "d83d382f575e9147c97b420500323f40d62068f87e4993fe4b991f9294767423",
-    "a36a2b20af1be7658b24a46a7b85c9cec596440fa717fa0ebf00720d43b94889",
-    "770f6a95d35188e7786a240edc5c559e9b40e30c6095f1fe50122702ea19e108",
-    "7928e24505d3e070e23e1ac6d1073ea149b1e52aeae6be67019153fcd9411d44",
-    "6d129a84c69babcac353f15fe346bc420c67d8be12ed526e6ed694940c68af59",
-    "c7b19eb2e424184039f65b4473a260a5a0fa857981e36d3de43a4ad03a21ccef",
-    "a3cb890b0e2eaebb84ead3464efa078673fa18636f4bcd15ea787b3482a3a6f4",
-    "87043dc4fc69d006d75c1d10cc762c67f74043de157dfc0a345e91a751273c22",
-    "51bba2e677b9efb6edfb429800e7c7348ef0b9947e9e4c854c68b2359a72bd1d",
     "3b94c2fe0e8f2b83d75780d31add6a6a93c050ec4820941212120f30c74ec0e8",
     "9219b44360b112f413d8e5920598d7d0f3bfa71eb27356a1779ec58e14883243",
     "e80fa4de16dd2931b507a4981fd66a84e5720e2f64c134a5fc7672c949c09562",
@@ -8002,23 +7990,21 @@
     "caa293a32cec38b3b840d530a58bcb2d4bc682836950608667441d0ebbabe077",
     "8fc7e6b6a998225fe7edbd8ee36903b977934c442ac2160302ca431f4eab0da9",
     "541a2aa684c09a9ab75c32a6c90507a0f30e20a0fb88d49ff2518bf43f9a1297",
-    "13c7c5444be211ff6e5fa28c247230e6f5eb4579dfb854eb41e36704ea3a5295"
+    "13c7c5444be211ff6e5fa28c247230e6f5eb4579dfb854eb41e36704ea3a5295",
+    "4663fde53ead8acb52d63d92de09241f7adf62cbf4abf19bdd4e3a2588ab53b9",
+    "1ab49e3e3233df324d7820622ddd151e5b7bf6ae14345baefbd8f451ca063490",
+    "72ea608e077e81ed5a32c6167f543d742ecf90c68082174c5c85391de5811f76",
+    "19787899768334d4c224d5c3272240c32120f66647fdaa64140434d648f7e331",
+    "7bd7e2a9d8d85a7039fbb31e4f0bf30cf0fac7777105f75a75e625cc851ce11d",
+    "5c033267bfa3d2e4ed904b632b8d8da3f4a815979f67696dd908c36c1c106707",
+    "3bb9a0294b46cd6677e88c474116a99b4664a0aaa64cea0c6da85766c5a93ec9",
+    "dcbd8eddf4ea607404fa4b1947cf970b2efdfa497cd7c932062cc147b913640e",
+    "25a5babda6479bb6017a598d2ee52a387bedf9c0c0df824104ac0485bea3d330",
+    "53ca3355475815f94f8934bed542abac9afc21604d60ff8a393253ba5f8911ea",
+    "407f5da9727ff8a740336bde7f4eedf5c8798f3c860fe44970e5af14ac6976c5",
+    "a197096c6f698930c3832f53b71a50cc17deedf9b484f88928c44ba0d48202e8"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Former Nvidia CEO Jensen Huang to Face Public Senate Hearing - NVIDIA (NASDAQ:NVDA)",
-      "title_ko": "전 엔비디아 CEO 젠슨 황(Jensen Huang), 상원 청문회에 출석 - NVIDIA (NASDAQ:NVDA)",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63514544/former-nvidia-ceo-jensen-huang-senate-hearing",
-      "ts": 1795228864
-    },
-    {
-      "source": "Wccftech",
-      "title_en": "Upgrade Your Everyday Audio With Samsung’s Galaxy Buds 4 Pro, Buds 3 Pro, And Buds 3 FE Starting At $99.99 With Up To A 47% Discount",
-      "title_ko": "$99.99부터 시작하는 Samsung Galaxy Buds 4 Pro, Buds 3 Pro, Buds 3 FE로 일상 오디오를 업그레이드하고 최대 47% 할인을 받으세요",
-      "url": "https://wccftech.com/samsung-galaxy-buds-4-pro-buds-3-pro-buds-3-fe-black-friday-amazon/",
-      "ts": 1795228896
-    },
     {
       "source": "Benzinga",
       "title_en": "Trump Wanted Stronger Iran War Backing From JD Vance, But Vice President Stops Short of Fully Endorsing S",
@@ -11504,6 +11490,20 @@
       "title_ko": "엔비디아 호실적마저 무색…AI 투자 한파에 코스피 ‘덜덜’",
       "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261123.22013006869&kid=",
       "ts": 1795343435
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Apple Weekly Recap: Palmer Luckey Criticism, Leadership Changes, Insider Selling and AI Rivalry - Apple",
+      "title_ko": "애플 주간 요약: 파머 럭키 비판, 경영진 교체, 내부자 매도 및 AI 경쟁 심화",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63516916/apple-weekly-news-palmer-luckey-leadership-insider-selling-ai",
+      "ts": 1795345402
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Nvidia's Crash, Gold's China Boost and Gensler's AI Bubble Warning: This Week in Economics",
+      "title_ko": "엔비디아 급락·금값 중국발 상승·겐슬러 AI 거품 경고: 이번 주 경제 이슈 요약",
+      "url": "https://www.benzinga.com/markets/macro-economic-events/26/11/63516917/weekend-market-news-semiconductor-selloff-gold-social-security-ai-bubble",
+      "ts": 1795345534
     }
   ]
 }
