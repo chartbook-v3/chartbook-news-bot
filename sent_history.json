@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795354285,
+  "updated_at": 1795354450,
   "id_hashes": [
-    "de1cbabd19e5bbe4a768a39635e9627748fe71af69792450df966fe374b203d7",
-    "5379969ca75f786836981e358e9b27e2441c0b9ff5a69339bd9130881e265121",
-    "ed42994a81bbd6a61eb7c44241a64acab5fc246accbc41b26d4253bb26e0a384",
-    "cb58b7f1fe2bf0859a271027995fe22583c64ecaf5da9cf873e6f89e422397a7",
-    "564a0cb69ce115e40ce38d2cacbdf57740724088e4b0a794d16a7c060303cc02",
-    "f4e084ed985c6aab4b92cd8e22b8d486885b2edcb4c1346bb4d5e211f9c960e3",
-    "70899e00feff825f1d7ce6e6f892ee4b259092308aaa14e7fe959f461139e62b",
     "26b115fe6cd75e27f3f1a3f0a2c75ff937c977517cb561b2b486df989786e8f8",
     "693cf4bacb0523349ec659d01142a1623ed0f7638321ed402075f5fb9bb3828a",
     "8806bd16ba32dd4beccd1c02a5aa643ea0ff767e37bc5cf5df234f6d29f3a9b0",
@@ -4000,15 +3993,16 @@
     "b80387c643c17dbeefbdbb5821d3bd190532e6ed0460df51d2050efe6b20b526",
     "580b5df05fac0a14ef1e6e34ae67bc03f614d3981f9081cce172553ee3db6648",
     "ca49ef0739d8b71b9d63812003d8d46a94124e3431cb393dfdfd7a1d83efce58",
-    "e7d85204545787efb5bd5f316bed8efe6a1429e3c3d585439b2d194e65d4d530"
+    "e7d85204545787efb5bd5f316bed8efe6a1429e3c3d585439b2d194e65d4d530",
+    "8c1f3bb5b84933a4fc3e219f59cdad07150a2774ecc7c233972bffd5b7dd9f08",
+    "d67dcec4e78cd0cc3d8658129ca49380fac2cde1c8ead9bdbb7c8bede1fd24d1",
+    "6ca01df2bbbf18b811da3083c6f1f5c39ad4f64279bb791d018e20b3bd94fd24",
+    "8a4e3cbaa9fb6cbd8f33329e4bac317dd464966ef3d5e106f5205c77fa1d9867",
+    "ada382dad972fea3685b6abcf2fed6868ff4f19d0a09f5a823b0c32429927040",
+    "5da0f1e671b2fc4684d20c55f26fa3afb9dbdb950bc6cd1a59a542ee350ebe39",
+    "91264e003b5f68365d76aa60f306d47d74a4ed7202807c25cb60dfba87670f73"
   ],
   "title_hashes": [
-    "458ae9f214d5fee069922801e1e3ea38fa9f00ee9091a9038daf5a3cf713676f",
-    "183485ad23751b2714b4087763bbe54d3e52283baf103d19a38be4a1787d82f1",
-    "f11f93ca46139237e17aa9668cb5633be835550111342bbd344df43843bcd132",
-    "74ad0c03f5af8c0ddb0441c159f1bcc024b0c892b812bf2abc6c6c74f17a8fec",
-    "940b362116be0a4fb4c2afd31f83e19158a5486b144ad83002a1fc81686c4246",
-    "6eb85107fe0363e8649c3ba648c8fe5c4bf38013a848ddffa6b27af6093070b3",
     "361db52c0b0308fefa3d3b5c191e58c1229a702f6814aba3db05d283ea99a61e",
     "666370c60a1dd041369432ac4f3cfd6a5f28cd3aa06eae662d66dcf5d7fbec14",
     "46ce3901a74c320322ca7ababcf1129e4263d3c41925287e8936c3c8f8c90ec5",
@@ -8002,23 +7996,15 @@
     "aac9bf22d5374d836ea219e9d0e038295ab4d56b8a591ec8ba0074bed34ba71b",
     "e58fb187a935b2f5713e91341efc6898b00d36d52ca51517173babc6cd424fda",
     "f70a48f5e483e109c622836a33085ea2075da3202b17abbcece9ded4c1ba03f6",
-    "28d3f89ed68929d4ba4f87b6dac607ebfe214e87e2d350f3d87706b2d12c2463"
+    "28d3f89ed68929d4ba4f87b6dac607ebfe214e87e2d350f3d87706b2d12c2463",
+    "bdd6990843976939c673df8ac7a5231f2e51b1af85b2fc0c3ce7e6fe0aeb773c",
+    "32e8774b825eb7d30130cee0dd1791f87014a189a3b7094e0124b6204c8a13a3",
+    "30dcad72b5e9313c3f64ca6d5baae57aad0ced894e5a597e9e1364d3e1f67b0b",
+    "72ba83a1404b691a5b5e79738cdc47d64435c5c4cc6dd44ef2ee3c1c4b7b1a50",
+    "269da97d80fd9423aa71e69eba8a7356200c681615ae34a276fc500a28da0597",
+    "9173bfc34b623f9f065b28297bb81e1609b6b9767f67792d647640d1bdcf76cb"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "李대통령, 울산 AI 데이터센터 찾아 \"속도가 생명, 인력 부족 고민\"(종합)",
-      "title_ko": "李대통령, 울산 AI 데이터센터 찾아 \"속도가 생명, 인력 부족 고민\"(종합)",
-      "url": "https://www.news1.kr/politics/president/6361612",
-      "ts": 1795239863
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Iran refuses to move its stockpile of enriched uranium beyond its borders, Al Arabiya reports",
-      "title_ko": "이란이 농축 우라늄 비축량을 국경 밖으로 옮기는 것을 거부했다고 알 아라비야가 보도",
-      "url": "https://t.me/firstsquaw/194762",
-      "ts": 1795239866
-    },
     {
       "source": "FT",
       "title_en": "European construction firms position themselves for a €620 billion defence infrastructure expansion",
@@ -11504,6 +11490,20 @@
       "title_ko": "사우디·바레인 추가 공격 보고…이란 \"미국과 협상 여지 열려 있어\"",
       "url": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
       "ts": 1795354005
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "TSMC reportedly pauses shipments to Chinese designers after U.S. export rules flag decade-old 16nm and 14nm nodes — new BIS controls threaten smartphone, TV, and automotive chips",
+      "title_ko": "TSMC, 중국 설계업체 대상 16nm·14nm 칩 선적 중단…미국 수출 규제 강화 여파",
+      "url": "https://www.tomshardware.com/tech-industry/policy/tsmc-reportedly-pauses-shipments-to-chinese-designers-after-u-s-export-rules-flag-decade-old-16nm-and-14nm-nodes-new-bis-controls-threaten-smartphone-tv-and-automotive-chips",
+      "ts": 1795354438
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Did Claude just prove the Riemann Hypothesis?",
+      "title_ko": "클로드, 리만 가설 증명 성공 여부 주목",
+      "url": "https://seekingalpha.com/news/4675406-did-claude-just-prove-the-riemann-hypothesis?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795354449
     }
   ]
 }
