@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795354755,
+  "updated_at": 1795354906,
   "id_hashes": [
-    "0b37dc630c226904958a2a7abbb54d7a16ff433f43932accff1088fb2c613612",
-    "c33bbeb1ba544d0af72ff072d45a14bc4336791d1140d8d8072c171a8e7fd625",
-    "29b515760c65da6939c63d79005ffdf315ed53c5dc5876e1b6c9fb34e0c5784f",
-    "1dcdebddfabfb4863d9c5ed23cf8e4dfe417538ea2bb607b3c50822431f0f24b",
     "06ff74027f179e7ac494af0b82f7d06ef839a101f97c3d07e5bdcbcd31b8b707",
     "8823eb725f56279b2faccbed59083005311c49af9f06bb0549eda40068f4d078",
     "41bd38be82d02a55e7c63d1d617ec527df7b445096103bda682aa047f9a72fff",
@@ -4000,12 +3996,13 @@
     "91264e003b5f68365d76aa60f306d47d74a4ed7202807c25cb60dfba87670f73",
     "443c4677e07eb1e279b743e995ed6eed7ab4e2547327e6e8b08edb1d1f6789e4",
     "2839a9be9485de543c9ace4885013e34f2defd553d3615ae3ebb5b537a5e8214",
-    "db25b4bb2b99d8f6c35e9482f2cae2b48274039afff45bf30abac8b3100e474a"
+    "db25b4bb2b99d8f6c35e9482f2cae2b48274039afff45bf30abac8b3100e474a",
+    "7551bb158584dc751697019d86606493bb87b8992c3ae5da473ad3a9d88fdac0",
+    "8d3032900ae8b3956a616078953c26c7989b8b7ccbc46401a1013abf751712db",
+    "bcdf88bcd2e283267e3518e5e4b32785f0b1e1e37d1add4a13760dc77ab075a7",
+    "5316a946e0e3690ddc243816ad4acd18e1d99651d4b0a72c6fd26f94ef7ed1b4"
   ],
   "title_hashes": [
-    "c74009b836d0f7b9af39238322fb91e1e674df80f286b8653aad3bbf70d58a9b",
-    "ac3600346ff0af89f5415b2288c4d3f5e06766145e6967cd832ef977b9dbe0c1",
-    "fd4f03888d0230b345deeee7e6b347c087fa5551792d13c15a5a4f0db021c9eb",
     "c4564a163ff0b43dbeaf258b1104b9b32f2f00fc2b9f54cb7bde3eedefac2850",
     "8dbdd71aaf857426b9613f3748f32867bb7660c1e844ffb2e0fda06b710cb720",
     "cb1ab62d45127b611829d18c9a00a320374ecdcecb4fa66faa699aaa7d1f7996",
@@ -8002,16 +7999,12 @@
     "9173bfc34b623f9f065b28297bb81e1609b6b9767f67792d647640d1bdcf76cb",
     "185aff920732c73cd9da6409183ec00c1c3944bff76db4d72fd6bc5d71ad2265",
     "f9c8675170c1b257da85b1ddfd1bc907f8266773cc41b97ba6d74544a4bd5d05",
-    "6e22e7feade55511947738aa154d048cadae1c56ba8766f4248efeb832200504"
+    "6e22e7feade55511947738aa154d048cadae1c56ba8766f4248efeb832200504",
+    "9f69877ef8123d0e2108c6fd270541511d4212c4562f8e2c88917031c513f685",
+    "2a5c5a47e3bbe28ef5bc8c837716f67d389b1dc5f32508d3f3f4d4e5980042f0",
+    "ccc5f20aebf4ca8f7768a4b3165e2b8cb9ec4d02a42772af1d9f41acb86c96f8"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "FT: Scouts face mounting camping expenses as tourist tax liability reaches £1 million",
-      "title_ko": "FT: 관광세 납부액이 £1백만에 도달함에 따라 스카우트들은 캠핑 비용 증가에 직면해 있어",
-      "url": "https://t.me/firstsquaw/194766",
-      "ts": 1795240016
-    },
     {
       "source": "FirstSquawk",
       "title_en": "FT: CVC challenges accounting practices in Advent's €3 billion pastry ingredients deal",
@@ -11504,6 +11497,13 @@
       "title_ko": "실적 변동성 주목: 델·줌·뉴타닉스 주가 급등락 예고",
       "url": "https://www.benzinga.com/markets/earnings/26/11/63517061/earnings-volatility-watch-tech-worst-two-months-2008-dell-zoom-nutanix",
       "ts": 1795354605
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "Anthropic、IPO主幹事に競合業務の制限要求　銀行に不満",
+      "title_ko": "앤스로픽, IPO 주관사에 경쟁사 업무 제한 요구…은행권 불만 제기",
+      "url": "https://biz.chosun.com/jp/jp-it/2026/11/22/PDURZKVABBGQBMQSZ27SPSAS3A/",
+      "ts": 1795354905
     }
   ]
 }
