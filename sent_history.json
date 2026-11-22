@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795324488,
+  "updated_at": 1795324635,
   "id_hashes": [
-    "8ed5c6bce0e82cc8189c2fd55d7e604486d1ae083b4c8c454f77888c945762cd",
-    "43129e5d6191788ecc840920dba2beede62cc2cc973aea6826da1ae2ec4d7524",
-    "331555fa808dc878b8ec4a31dd3612d8382f3fa76e117f280fe6fa303e68248f",
-    "de6d6983a996b0f3500b5f3ce00bfde4b1d990f357cc67df15036202a6845515",
-    "16fe014e058dc3c6b94b6b33751ece3f677e3e45758ca4e222dbfec12b639470",
     "0a0b3831ef3c5d38b07c293cc9dfcc86d2b814bddb653edac15baf49fe7dfadb",
     "d2df287de63c0f1b9a78395e604fa175b2af2a2f81a452bfd25238508762050d",
     "506e6eb523a03d6236f5ca0726bfb5c4f0540ff4c4c186ff3eeb3b1fe2588052",
@@ -4000,14 +3995,14 @@
     "37145c53a12147f2e1dae8c9a0ec69c910677328ef0212ba1d6db3e8e8519d04",
     "78bbdf733ca33516fc4440944834fe87f49a664868f36392e067c088abbb09a1",
     "3fe1de55d0c4ead68fd983e7e50e5422ed528338e91f19766bca55bb3d218ad7",
-    "cc9eb110b86b7c5268e872cffa0b5d34a23f60cc4fd5ab6a99fe05fa8f8ec9f4"
+    "cc9eb110b86b7c5268e872cffa0b5d34a23f60cc4fd5ab6a99fe05fa8f8ec9f4",
+    "8ccdf6449d2100c5e54ee646fa346fbdee42f31271dd991b59d53d942ab23868",
+    "e85c6a99a4d9fc47b0f32ccdb3a337a8d97605a8df2ef1172f1f5bc3c0dc58c4",
+    "6cf9772c44073d2a5d222f8d5d78252c07d357c3c0332246a1f82339b2493c0b",
+    "3ca6e1af06c239bfde49a77636da5086b8de5b1697fce828a52aec85328b2f5b",
+    "0544dff1cba3c12bc7773bb795b4c4f8307075c0191898bd3cc30c9341c2e977"
   ],
   "title_hashes": [
-    "695a12ca4bf13d0158e4222aa53e98abaa715115652c80dd442d678da22331e3",
-    "1cb7f438b8007e37557218e4eff8d68496b1ed2545aee9f586f2c6893c3700e8",
-    "f24eac8a55a523a060cf530cb802e1282174fdae6de232a617dc0730fc971217",
-    "e473adc48f9f44278f30add2d4c5279c48954d91487fb7804101c91833c636b1",
-    "240f376099e1a0d73971b47840dfec199c6db95f40ac43e8b78da717d86847cf",
     "c7691556f2b1d558208c7d0b30e0033f59b61b52f5cf2ef59e1807ff4a7e333b",
     "c2efb4ccd1cc313aba9cba42fb48e0cda938721f4334c3f2f29687698674d738",
     "22cc87447c3f534e3e0b07a9a3a272a21fbb6efd824a59c73159accb05833d05",
@@ -8002,16 +7997,14 @@
     "c3580d46a80b9b332a78edc501517e554e81669347e0904db68475017c8f5ee4",
     "5ef456a3a2e8fcc9ed3285f07b9952d9376f96a7eb8a8f58a0941cd1f2cefae2",
     "82e036624460784baa2dbe54a3d7b4616c35e5159fc2c06e883a2676c0ce523b",
-    "bede76557da085d65e033267a0950de565decb5f2c4edf2d9841019e8eb490db"
+    "bede76557da085d65e033267a0950de565decb5f2c4edf2d9841019e8eb490db",
+    "919066d0fd419e319d764f7462e2a9f8c5b48bb0945b8221988b48c70ffd1c1e",
+    "ee92127a6e7a07338d5d2c5d9d978abb9e01062783fe7dfab214de96b952ea0e",
+    "c7aca791a744a3efd8165342d624e3220a4921f44de930b0baa2739b6ecc9df9",
+    "794f2f568c8fab751fe4610af3971d7ac54636323865d494b5cac3b838d3bcc2",
+    "fed88a055595ff3b52024600161d3187a2feb6d08026fb7db08ac546afc72c08"
   ],
   "recent_sent_articles": [
-    {
-      "source": "StreetInsider",
-      "title_en": "FCPT Announces Acquisition of a Vive Collision Property for $3.9 Million",
-      "title_ko": "FCPT, 390만 달러에 Vive Collision Property 인수 발표",
-      "url": "https://www.streetinsider.com/Business+Wire/FCPT+Announces+Acquisition+of+a+Vive+Collision+Property+for+%243.9+Million/27382497.html",
-      "ts": 1795213193
-    },
     {
       "source": "StreetInsider",
       "title_en": "Iovance Biotherapeutics Reports Inducement Grants under NASDAQ Listing Rule 5635(c)(4)",
@@ -11504,6 +11497,13 @@
       "title_ko": "핀란드군 \"러시아 함선 공격, 우크라이나 소행 가능성 높다\"",
       "url": "https://t.me/firstsquaw/194936",
       "ts": 1795324482
+    },
+    {
+      "source": "매일경제",
+      "title_en": "\"앨리스 황은 '얼굴노릇'만…엔비디아칩 中밀수 주도자는 50대 중국인\"",
+      "title_ko": "\"앨리스 황은 '얼굴노릇'만…엔비디아칩 中밀수 주도자는 50대 중국인\"",
+      "url": "https://stock.mk.co.kr/news/view/1203760",
+      "ts": 1795324512
     }
   ]
 }
