@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795353981,
+  "updated_at": 1795354132,
   "id_hashes": [
-    "07fd5ebac9d4ecc9490de3edbe08b021166674126b5eee14d59b0d82e55efcf0",
-    "9f1c5ad821568ffdaeb9d752d3a70fb53f8e0a4fc9bddc09d3d9018467ec3b07",
     "614bdfa365b450184718e8a4716999831e0258d7f93773e74fa6d0c1c7365eb8",
     "de1cbabd19e5bbe4a768a39635e9627748fe71af69792450df966fe374b203d7",
     "5379969ca75f786836981e358e9b27e2441c0b9ff5a69339bd9130881e265121",
@@ -4000,10 +3998,11 @@
     "2f09caa9903933f4aef7b0b179a2a4132fa02e7c185726a8ef4207508bed7183",
     "24cdf5259527e2ffd182326d196c1346d8c196d9a871cfb0e4c4a2d87fc17e26",
     "4a893ffd6f6d3affc335b3e7d120b502bd6e51338e8069bd81bb855047b97934",
-    "b80387c643c17dbeefbdbb5821d3bd190532e6ed0460df51d2050efe6b20b526"
+    "b80387c643c17dbeefbdbb5821d3bd190532e6ed0460df51d2050efe6b20b526",
+    "580b5df05fac0a14ef1e6e34ae67bc03f614d3981f9081cce172553ee3db6648",
+    "ca49ef0739d8b71b9d63812003d8d46a94124e3431cb393dfdfd7a1d83efce58"
   ],
   "title_hashes": [
-    "886617df169548d9b16f3b725843c29272fdfc22ee246886101f88209d2859e1",
     "20c49d2273544ac08dac997409522bfc12e8c0aa340da15575fb37aea98a1526",
     "458ae9f214d5fee069922801e1e3ea38fa9f00ee9091a9038daf5a3cf713676f",
     "183485ad23751b2714b4087763bbe54d3e52283baf103d19a38be4a1787d82f1",
@@ -8002,16 +8001,10 @@
     "c4d94f283dee1a23e9a6bde18b5187cd58bbe61c459471af914af7292f5bfc57",
     "7de0ebfdb52e23e6212058b7e947cdc55efa74592d303b1e39c8d8f2cb56978d",
     "aac9bf22d5374d836ea219e9d0e038295ab4d56b8a591ec8ba0074bed34ba71b",
-    "e58fb187a935b2f5713e91341efc6898b00d36d52ca51517173babc6cd424fda"
+    "e58fb187a935b2f5713e91341efc6898b00d36d52ca51517173babc6cd424fda",
+    "f70a48f5e483e109c622836a33085ea2075da3202b17abbcece9ded4c1ba03f6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Al Arabiya: Mediators have no assurances that military escalation will not resume",
-      "title_ko": "알 아라비야: 중재자들은 군사적 확대가 재개되지 않을 것이라는 보장이 없습니다",
-      "url": "https://t.me/firstsquaw/194761",
-      "ts": 1795239804
-    },
     {
       "source": "뉴스1",
       "title_en": "李대통령, 울산 AI 데이터센터 찾아 \"속도가 생명, 인력 부족 고민\"(종합)",
@@ -11504,6 +11497,13 @@
       "title_ko": "대만, 美 무인기 '스카이가디언' 내달 인수식…\"中군함 감시용\"",
       "url": "https://www.news1.kr/world/asia-australia/6362166",
       "ts": 1795353527
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+      "title_ko": "사우디·바레인 추가 공격 보고…이란 \"미국과 협상 여지 열려 있어\"",
+      "url": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
+      "ts": 1795354005
     }
   ]
 }
