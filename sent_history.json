@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795352446,
+  "updated_at": 1795352603,
   "id_hashes": [
-    "12087e36499d200ae6cddd2243c439feb982061281038f2678ce0afb8295d395",
-    "9a9772429c54334861707b2ad0ae72fc5615a5ef04d00e16125843c82bf5b57b",
-    "6e84ea6e325519df0a3ee7ec107fb4f5d26445d20bdd9b9224e73b7832d3eb59",
-    "1a355f0555344f4e8b1286b73d79d51eaa0295350ab113472d636ee86434ec73",
     "3ceda6097807b00683b151a9c4d5db2638ee451aa41cce0535a68478acddcb38",
     "50f4cf569d24b294f796775859a7382259cdb635f850ab461f8ae570c8973342",
     "c7aea67edf9afd4b5b5ca882762c3c3513abb35788ed13898e19157dc1e70738",
@@ -4000,11 +3996,13 @@
     "800c6160fc9d7df0b95b55bad75346701f1764683b2df200f0754770d167c849",
     "bd29047404ce00588c0b8cf044237b969199ac93746e7f7ae318761d6ed0f801",
     "728ea00480d0f40bae5dacf6e9182ab15e4e44c1df4147402cf46310a72cb4e9",
-    "fef762bdf188790e804d4f7fa7c5be4888780116e1bacbed60e19313c2749161"
+    "fef762bdf188790e804d4f7fa7c5be4888780116e1bacbed60e19313c2749161",
+    "0f4bd12b8871d4aa540b39322a6e01b85dc0cd730c331f353b391e7eda8b8de2",
+    "98b5e1e49f08d87ac358f677353a8e15d920d7b02b1a402e53b25203f36da74e",
+    "53e6ca08f337bc4ca0e456472d1a4372a2f2ad12f2bc734996b32fb3254562c1",
+    "4ba5d8059f3dc0bdadb33de9050eefce0a39459b9de06cc7d3aac92ab1124d4e"
   ],
   "title_hashes": [
-    "736cd74a7ccdf1978aca8fb161a018b89401a870c8121c20503ca12fb929bf34",
-    "101a64043ba26f8c95ee1bf32008b6a8dddd5f58c6de312ed67866a2d366e88a",
     "c9b7874ac6a08fa591fb0d588f55e860964907e706203fce923e60bfc27dd0d8",
     "45dddc085c53cde432472cc6bc15200f5c73f74972bb9eeeec2dddbb7d8f60bb",
     "aefe7e279f1ee9760032ab6ec155c8136b04c26728a67c83edb28920b8bcb03c",
@@ -8002,16 +8000,11 @@
     "ae17adfa466ab3b347a4faca6137ce67d72e97a38ba9ff52d38596c58564aa2b",
     "05ea8c16d08167e3ea8314d5f0cfd2766f58f76f7f8ebf9b9355de305e870f92",
     "1425ebd253095f0465313ae88167c38afc4b991bbedbef176b3a88ad9db24362",
-    "7b203f2d89479e676e3ca49b86e0b8ab007d1d23835cb6f7b96c80b96259b358"
+    "7b203f2d89479e676e3ca49b86e0b8ab007d1d23835cb6f7b96c80b96259b358",
+    "4fb8401da27aeb7811fe97bef306bf811cc7851831a39ccf9d99cb80c99df6a4",
+    "56a05692fc56856e3caf0eef52e0c75a9fbbf90af72c1ac9814cf88d82b6e9ef"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Moody's reaffirms Cyprus' A3 sovereign ratings with the outlook unchanged at stable",
-      "title_ko": "무디스는 키프로스의 A3 국가 등급을 재확인했으며 전망은 안정적으로 유지했다",
-      "url": "https://t.me/firstsquaw/194756",
-      "ts": 1795239559
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "沐曦股份曦云C系列GPU率先完成腾讯混元Hy4 Day 0适配",
@@ -11504,6 +11497,13 @@
       "title_ko": "\"엔비디아 칩 中밀수망에 앨리스 황·캄보디아 범죄조직 얽혀\"",
       "url": "https://www.fnnews.com/news/202611222147105848",
       "ts": 1795352146
+    },
+    {
+      "source": "The Verge",
+      "title_en": "Your questions about Apple HomeView’s audio, answered",
+      "title_ko": "애플 홈뷰 오디오 관련 궁금증 및 상세 정보 공개",
+      "url": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
+      "ts": 1795352602
     }
   ]
 }
