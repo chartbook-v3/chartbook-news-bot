@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795328784,
+  "updated_at": 1795328939,
   "id_hashes": [
-    "a45006ebe592c1c43827a396af857bf6e090e57501e6995fdef6265e78b1a35c",
-    "67eafa750d819bb0b4739e66e727388e9557024405489e05b51a57f959164828",
     "60a53e24503973d0d4c48b4eaaca26fdeef6db07d9fe96780616beb1b854de90",
     "5e26c90b6a8f7dc8917794707b7edd6d5d241bc83b583f248cb9f52f54b03f43",
     "ff43686d557b6f04faeb478ab788d6d5861bbe410c4e0714a0f8462699df996b",
@@ -4000,11 +3998,11 @@
     "8c1547dd75934a38648183b6cf8bd00e8896b7df71e80b84e4309600f662be33",
     "42e740c971d60fd49324c8f5b7de72e19ec58791323d8b953b2d86ed2df5b2bf",
     "7236399c6b23d7071301d95d475ddd4b525933dd555094265206cdf0b3ca54eb",
-    "0b2e7326a4ab1f7b511fdd22ce6eb8ae36d77e2cd1ef33e68d40b0c01c93411c"
+    "0b2e7326a4ab1f7b511fdd22ce6eb8ae36d77e2cd1ef33e68d40b0c01c93411c",
+    "e653a36d9fbfbe8c29f0feea5ffbc1a2834783a079b53428b63d8956ca1fcea1",
+    "f695db294bd1faedd54a7262fbd938a8dbfeea2fe0ac9db396bb4fbb5eb3dcb4"
   ],
   "title_hashes": [
-    "b847ca037464b31b95b044843f3d4d0d509acef3217f49fee828c0891cc99f25",
-    "a7ee51cad05e4c3f6e5a666cc1c9412a3ef2813cd3eddd76fb62ff4d02931277",
     "d4cb0e310b45f60ee3cd420d696d2e459a52f90af82f79a4a7914d6d78444be0",
     "507924e2b91feff4e31562f859327ed0ccf246b20c54ca4ecb17287c28081c5d",
     "892423e71a4471663fa7b4755cfc15cf299c0a665158c36f3dd1a0398919fa84",
@@ -8002,16 +8000,11 @@
     "7146f3404e195a50f61d204ef888aed03b9f180949562a37d415938faf429b0d",
     "0d9e826c9907d1ceb2e4155404e32f2d996c8700a2bb2a3687924f26818658e7",
     "27b9820b22c34e2c8c046ccec31b19c3bb01dad5643869306685b48c96de9e4e",
-    "21c58e7946346386be394e212d20434e09062fba8613aa9ed93b65aa58f04904"
+    "21c58e7946346386be394e212d20434e09062fba8613aa9ed93b65aa58f04904",
+    "7c688e806846180cae387cbaff7d8c06ff39084873f734569e973fd11e890829",
+    "4b36ca57169dedf17d655d985177cf6e9319fbfc5a14a0e914c48a6d662edbdc"
   ],
   "recent_sent_articles": [
-    {
-      "source": "The Information",
-      "title_en": "Anthropic Mathematician Says He Proved Riemann Hypothesis",
-      "title_ko": "인류 수학자, 자신이 리만 가설을 증명했다고 말함",
-      "url": "https://www.theinformation.com/briefings/anthropic-mathematician-says-proved-riemann-hypothesis",
-      "ts": 1795217331
-    },
     {
       "source": "Barron's",
       "title_en": "Nvidia Can Rebound to $200, Analyst Says. Plus, L3Harris and 4 More Stocks.",
@@ -11504,6 +11497,13 @@
       "title_ko": "\"엔비디아칩 中밀반출 핵심, 젠슨황 내연녀 아닌 50대 동업자\"",
       "url": "https://www.news1.kr/world/northeast-asia/6361996",
       "ts": 1795328465
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
+      "title_ko": "양자 컴퓨팅, 신약 개발보다 에너지 분야에서 첫 실질적 성과 전망",
+      "url": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
+      "ts": 1795328938
     }
   ]
 }
