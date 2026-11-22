@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795352750,
+  "updated_at": 1795352903,
   "id_hashes": [
-    "c7aea67edf9afd4b5b5ca882762c3c3513abb35788ed13898e19157dc1e70738",
-    "077c70eda898243f191e240aee56b3134aadb20cc27a2a19ff2e3d488516e58b",
-    "e0718b0c82feec244f45af2f804f01b674ea4095fcb3b6f0bdb057e15ac7973c",
-    "7c1f50202252395d30cf27d1cf71984bd676c60b268da13efb1a91e7d5ec3a4e",
-    "9bdaf7218e5340214f15957cdf17f82438d2c55a50b10c3f795f48485979f8a1",
     "f8fb6c8a029a175869207334b832e47548d1fa7379a9401f039e14e28e782b7d",
     "6cf72cd5b3ca6e62cdfa2b423a9ca70b11b4cb0ab35a8e42e963c2cd2d8b9217",
     "8229600b41a5ab34dd0f76e23ab78b044452cee439856235eaa1ef66a6d35fc4",
@@ -4000,14 +3995,14 @@
     "53e6ca08f337bc4ca0e456472d1a4372a2f2ad12f2bc734996b32fb3254562c1",
     "4ba5d8059f3dc0bdadb33de9050eefce0a39459b9de06cc7d3aac92ab1124d4e",
     "ab9cc58087bfc763fb440534e8f2313c0cfc302f289d5090970f764f02074e0d",
-    "773bfd0e4c696eee7469971089dcad11724bafb8b199a1dcce0ecd4e0d55d73e"
+    "773bfd0e4c696eee7469971089dcad11724bafb8b199a1dcce0ecd4e0d55d73e",
+    "f029c6fe2847c151e6b9bb0719894f92f39f45b50931b1fad03c7b5867b01edf",
+    "f63e203c8c2274fb3ecd83c5fe944abdbb86b228483f8ef61ac4b79ccd78ceda",
+    "a42a7c06c51972fc336cf39014f9e6920a5d6b380337928002cd1222d3771ead",
+    "764c17f8cfcc8193636ed672f583b2eeb57d766e8ce396e58302a904d030ffb1",
+    "082abf83e041b313d35e6255d1262d22b20ae4b9f074243b5a50caf28d474e0f"
   ],
   "title_hashes": [
-    "45dddc085c53cde432472cc6bc15200f5c73f74972bb9eeeec2dddbb7d8f60bb",
-    "aefe7e279f1ee9760032ab6ec155c8136b04c26728a67c83edb28920b8bcb03c",
-    "6c1fb4d4d88a804216c1ea25faf005c32818d59eeb2a345b515c9d27f4aa5c6b",
-    "17fabe9391cc82f03ce21552a627b0daf8dbf525c466488e4d385ac4456eec20",
-    "67d9382c22de526cf8ae27c6f5e31fbd67f550b3d09a51ceb8b10c27d9d33133",
     "f4d54b32541124007e94f4d724608382fad3ace296319cf74b1954aa040e7413",
     "9289e62c9fd5b0a4bc60b21cefbe4186d0c4aa1dd5b213d5198c59746eb1408e",
     "9f4e27076d3d4a62465d831cdb045b088589723b23629c6e53c6a56da07175fa",
@@ -8002,16 +7997,14 @@
     "7b203f2d89479e676e3ca49b86e0b8ab007d1d23835cb6f7b96c80b96259b358",
     "4fb8401da27aeb7811fe97bef306bf811cc7851831a39ccf9d99cb80c99df6a4",
     "56a05692fc56856e3caf0eef52e0c75a9fbbf90af72c1ac9814cf88d82b6e9ef",
-    "397196011f18afdb88da8c9705feca5160bb6304dc154b75b04756b114a8d612"
+    "397196011f18afdb88da8c9705feca5160bb6304dc154b75b04756b114a8d612",
+    "8936f1301ddbf60c904f3c2e5fd6710ef656ed195cfa9903b9d8c075e5a11ed2",
+    "bf236cef9eb28632e0908baa97dd7f1d22c6ecf676cca6b35e114e985644890f",
+    "3d274ab256164c34dff90bce23c5c44521ecb15f2b8ba5355f874ca5e0922e4d",
+    "ad054c893b5a625e9700494332c9d0ff147d5e05648b799c3c5fc6f650cf29ed",
+    "9212f432a4cbb50a48603783735d7de51a910d50394805bf80fa13832e84af8e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "沐曦股份曦云C系列GPU率先完成腾讯混元Hy4 Day 0适配",
-      "title_ko": "Muxi, Xiyun C 시리즈 GPU 공유, Tencent Hunyuan Hy4 Day 0 적응 완료에 앞장서",
-      "url": "https://wallstreetcn.com/livenews/3203645",
-      "ts": 1795239563
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Portugal's stable outlook factors in the possibility of a quicker-than-anticipated decline in its government debt burden, Moody's says",
@@ -11504,6 +11497,13 @@
       "title_ko": "애플 홈뷰 오디오 관련 궁금증 및 상세 정보 공개",
       "url": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
       "ts": 1795352602
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Earnings Week Ahead: ZM, MDT, DE, LI, HPE, DELL, and more",
+      "title_ko": "이번 주 주요 실적 발표: 줌(ZM), 메드트로닉(MDT), 디어(DE), 리오토(LI), HPE, 델(DELL) 등 예정",
+      "url": "https://seekingalpha.com/news/4675117-earnings-week-ahead-zm-mdt-de-li-hpe-dell-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795352902
     }
   ]
 }
