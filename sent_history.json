@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795325261,
+  "updated_at": 1795325409,
   "id_hashes": [
-    "26866e7ab1e4b8a2d7b6a0a74a3fc69d5de0aa9df6a67c2ff8f37452e85eb6e3",
-    "c6a1b47aad8aee48848bc11d1baf304f64661f1577f7461731bbfd2f77bdfdf5",
-    "a9f1946c5063659a6f1ca6c0d0b94a32e9893e8afd02e7c7cf18fee29e438197",
-    "3d687177a51c11bfa37652ffb56913ac537bb6bb5ed9370f0b2b88b34ebbbe3f",
-    "d53a246ea0de1dbe4c2d46f4541a7c5d0c543c99c2e0714b607d6bbedf3647d9",
-    "5ec420e0dd716956c6f7f624c316dff026ffa93a46fdea38197ca24cfc419944",
     "3faa7902bcd8f7661727c2eaf88eaea813f09c939a5c9ebba2dcec172d81b8fa",
     "eb44e5cbbd0f57663f02aa31694d202c3984fdc9c787ecdfcefb5d6e5455292e",
     "55f8f00e852dec860aa57b087468ffc6b66ba65652f0116cc9389fc6998c98f3",
@@ -4000,14 +3994,15 @@
     "c8851c923fb473b8b2b8d9c1df0cd129ac799c70478f5ab0de2fe4d59b238f0f",
     "19e3d5a4b41d86dd4280d5f53b7e7b43063641234e0530dbd5a4076a1a3d0519",
     "342b636576a2cf7d1c166c9bc41cffb8e4f714e1722145f88a70b8bace078788",
-    "f821eaadec7dbd890b10cff16261b21e8ab186e66ab8764534134b1a2bfb5f15"
+    "f821eaadec7dbd890b10cff16261b21e8ab186e66ab8764534134b1a2bfb5f15",
+    "2a928878c356c454ec5872c1e1a47932e72f4687c14c2b484ec16ead22b95e95",
+    "6d2c5a57ac8a40915a0fae55bce13ae447b9b8b776a834267e926b41a5066931",
+    "8bdebf09d1eccb5e558fd9236a1b01548934df10aebb8fd922960cfbf4f6d97d",
+    "9a724841788d5254d81de6c150257d22cca9838b32a07174e33c3d20ee142b34",
+    "bf2d235595ec816ddb7fdd52601bcc8854fcf389e69648819a98b2613c14b19e",
+    "56a4cd5bebbcd416f1df8becf1e077864c4b968367e737de84714902e76e0db0"
   ],
   "title_hashes": [
-    "586d8b5d9eff030bb3c60164e49d5bd0a9cbab680e541b501f78a579104da41d",
-    "6e5f004dd783a1107cc77aa4741205663ea5fc84ab2d57fb97400abf02befd25",
-    "c025bafd6d13a7e3136c5f319874198a6da432d32a7f9516bda5f3425c9a3704",
-    "fdf70b0bb29e2bd5abbf56c9bfc96334b44a5a8e4e9aaceaabade62974608ec4",
-    "02a81ae7b84791ec1d5e22c664a2bd3c1d09b18237565ecb975014c4b2357651",
     "365c36616f93663e6a3ab054dbb7009020d3a099c44f39f4f2679208a2ff5b5c",
     "c9710ae2d845c6442f16819044898045fa4eff596ff618d420f513f69c1ef0dc",
     "681ce20a7429958749e261d1cb2ddc66d58059f2efa9b9cc4dcc70b1567d4dab",
@@ -8002,16 +7997,14 @@
     "65210ef6d866982b481499102812de3594649958967feb223d66b57f6c9dc930",
     "cd636e5f2a24fa10342402a11f5f101f19fe566137f8fd6ad92470dd535edc01",
     "46e4fc2d25122bdf946a717b757c6d98e463204b896d6e8212e5015d0849cfda",
-    "d68020cdc535d7c29ae5c2dd4b6744f773a12283169ba8feca61c32deaf5d7e0"
+    "d68020cdc535d7c29ae5c2dd4b6744f773a12283169ba8feca61c32deaf5d7e0",
+    "2ca7c1d9ad1d0e30ba65ef2a2a8a50647d2ea82eab745dc5873c6a6ae5580fe5",
+    "9d173c42088a1f8e714eb351493511895bedeadb03dc3e5bc343d34b7aeb644e",
+    "4b7a19ea4b02c384395c5254cc5a00d7cd9e455adfe2ca92ea96b4fb57099ee4",
+    "e3053b35cb4240c3c5ab1832ddab8a2828820bc0c355cca83527cd5964ef7212",
+    "c1f67d3bc75126bfc0dc06eaf693cc4c3f8af4172996237a9b207d9c088113e4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "디지털데일리",
-      "title_en": "나스닥 5.3% 폭락…AMD·마이크론 13% 급락",
-      "title_ko": "나스닥 5.3% 폭락…AMD·마이크론 13% 급락",
-      "url": "https://www.ddaily.co.kr/page/view/2026112107251226435",
-      "ts": 1795213671
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Alps Group regains compliance with Nasdaq",
@@ -11504,6 +11497,13 @@
       "title_ko": "우크라이나, 급성장하는 방산 부문 모멘텀 유지 총력전",
       "url": "https://t.me/firstsquaw/194938",
       "ts": 1795325017
+    },
+    {
+      "source": "전기신문",
+      "title_en": "전기연구원, 차세대 반도체 공정 핵심 ‘맞춤형 펄스 전원’ 기술이전",
+      "title_ko": "전기연구원, 차세대 반도체 공정 핵심 ‘맞춤형 펄스 전원’ 기술이전",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=375092",
+      "ts": 1795325282
     }
   ]
 }
