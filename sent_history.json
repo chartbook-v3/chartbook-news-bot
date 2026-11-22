@@ -1,7 +1,6 @@
 {
-  "updated_at": 1795360662,
+  "updated_at": 1795360811,
   "id_hashes": [
-    "acd779a62b4ec7073b244815b73f41681e40c8ddc90814b585e800bf5cb125f8",
     "16039c471ac425138fd4e624314a2e12231b8de743bef72ba57941fda48a8d73",
     "9d6bf61aeaa73c6204e24a11d5de70dac7e3ea3b49da8541002f5bbf35ea8bc7",
     "f33cac6307ff0b3d8512377cfe74f353372cab1095335d126e8262c7c966ffb6",
@@ -4000,10 +3999,10 @@
     "a683b9cf308cdd071877c2369b695ca1323b152fd5a1e465d9f6ef0c3cd6a867",
     "d72bb2e9d854bc3a855951b9504484b2b51ae3836e3d9f689947820d461aeef8",
     "e571512208b4f6b927cbcc1b6add847d3ff9866a938b0d022314fa78e4062b8e",
-    "1c411a7c2420ae9268fafce072cddbdd6883cf612223a6c2aeca3346f3ce8efb"
+    "1c411a7c2420ae9268fafce072cddbdd6883cf612223a6c2aeca3346f3ce8efb",
+    "2c5457c33342253bf555eae1287885713a521b6e666778acb7333a59f00e4cf6"
   ],
   "title_hashes": [
-    "b1a405fee85cc039428daad6e9bdd4b014ec843a64ce62f4654566f7f63a79b6",
     "da0f093d37873fa751c4f61ebd28fd921496f2959566be758b571d0dec86b5a2",
     "e215bfdf249f47e7860db0c1c72cd505a19c224060595b6a6cb64782da5aeb82",
     "1657954f034626535e107ce6d04406684c24b45d3feb8597211c346475e477a9",
@@ -8002,16 +8001,10 @@
     "6d00256d13bbb4616d6f3ad6b38a87634f429f78440c30acf595ad39be82a9f4",
     "b7925e16e2f14d58519e11261f73f36440b466f3ca45700a78f4e2df81a97afd",
     "e2e544bd203720d15f457ced5df2f111bb8ce1d9552a6d04641c37aa767325aa",
-    "c66f005f7d759089a88503301a9e0ab2cf5ceb9088cb183ada09c0957ffe4204"
+    "c66f005f7d759089a88503301a9e0ab2cf5ceb9088cb183ada09c0957ffe4204",
+    "7aa0ef45c696627b36bcab8da20a2b50d460395948c38c7bf5efd06c4213960f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Tehran is weighing a tanker shipment that would test the US naval blockade. Washington is targeting payments for oil Iran has already sold. Nearly nine months into the war, Yemen’s Houthis are still firing missiles toward Riyadh.",
-      "title_ko": "테헤란은 미국 해군 봉쇄를 테스트할 유조선 선적의 무게를 측정하고 있습니다. 워싱턴은 이란이 이미 판매한 석유에 대한 지불을 목표로 삼고 있습니다. 전쟁이 시작된 지 거의 9개월이 지났지만 예멘 후티 반군은 여전히 ​​리야드를 향해 미사일을 발사하고 있어",
-      "url": "https://t.me/firstsquaw/194784",
-      "ts": 1795243126
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Europe's cyber weak spot is the everyday businesses nobody thought to protect",
@@ -11504,6 +11497,13 @@
       "title_ko": "인도 내 메타 사무실, 시위대 난입 사태 발생",
       "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
       "ts": 1795360661
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Rep. McCaul Seeks Answers From Jensen Huang",
+      "title_ko": "미 매콜 의원, 엔비디아 젠슨 황 CEO에 답변 요구",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-22/rep-mccaul-seeks-answers-from-jensen-huang-video",
+      "ts": 1795360691
     }
   ]
 }
