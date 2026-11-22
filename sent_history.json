@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795387325,
+  "updated_at": 1795387476,
   "id_hashes": [
-    "e1b82d765cc860d9aa6c0926d5ab7a10e9e5efe0000aa4aefad82770bc31241d",
-    "e81113e854727170a9f89475d92ff57312a61fab51336647b99415745d961b8e",
     "1ade7d1fa3b86aa0e8d0126c8c496c0df29b7ce101c418f2ee04c85c472a57b9",
     "a06c7418b203079c4dda9a6c6d6498a3df96f6bb9f6d105899da4753f0015731",
     "8723a80ebd266e5252309a02c4289239e94f14845cbb6251d753c7896554c081",
@@ -4000,11 +3998,11 @@
     "2f0ca32b0dabbdb48555b0296958a68182e4767cc9f12630487c47ead797138e",
     "81207c5ccd9a06966b53229a71ec7da698c1bcd5c7d2da260ac5427afcc032ca",
     "91298024be601d904f46050affa57ed6854b83a5180359ac0913d907854a0936",
-    "3cc424d1cee30316207a6c206717a21f6fccb130d46fa94764401a8281e91f37"
+    "3cc424d1cee30316207a6c206717a21f6fccb130d46fa94764401a8281e91f37",
+    "767d85f01c054aea51af8dc9ef143dd3d1ef770e2d339c557f98d5af999719db",
+    "d431e1bed22b9b7bb59362b297600c3e48d2ee4153b1291fb86fa58eae3dd858"
   ],
   "title_hashes": [
-    "4d739fb93e1c27d8e6f3d04bc24a15bf22b910bd1d2101a022b70d07f8bf35dc",
-    "6b38648702e13386feadea424b8500b03ae8ca3ad1c515002db59c28c8e24cce",
     "c651e06aebf9e0b01dedd30158ed2639ad01bfe0986b811cc1decd1976e67e9a",
     "3d73af2c93641bbf99219c66fa268c271d5d111e9a8775d9c79c30a12a4c158c",
     "74b964557fc9781e1c5266a11a0b1647853009a86ddbe3f2e67a460badc3157c",
@@ -8002,16 +8000,11 @@
     "dba391b5af74aea35d03eeb3072932e9e21039f782e2c0ede95958c3e1ea8220",
     "a56ca279592e2baa2f021ea4e70d21248495a896af1229f816465104ff03d609",
     "b0ed9867174185ffa42f58a80d315fd5be4a0f9f874d235c595b433e3b0a0e05",
-    "98e2bb6ce5bb0baae441d5d864d5fb9a5bfa9f512e16ff201ded6cf0219fd91b"
+    "98e2bb6ce5bb0baae441d5d864d5fb9a5bfa9f512e16ff201ded6cf0219fd91b",
+    "602f223db53828964c8dad5ae7e201846530e43aeeef3ed03a7dd1dd594a7699",
+    "89bdb70190018503b264955124f05f3fb88d2106f520ae54147ae142e6ba63d6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "New US AI Chip Rules Against China Threaten Pain for Southeast Asia",
-      "title_ko": "미국의 대중국 AI 반도체 규제 강화, 동남아 시장 타격 우려",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-21/new-us-ai-chip-rules-against-china-threaten-pain-for-southeast-asia",
-      "ts": 1795261617
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Zelenskiy: too early to tell if Ukraine will join Nato when war ends",
@@ -11504,6 +11497,13 @@
       "title_ko": "[차이나 브리프] 중국 데이터센터 전력설비 154억 위안 발주, 수혜 기업은?",
       "url": "https://www.thelec.kr/news/articleView.html?idxno=64364",
       "ts": 1795387324
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "美정보수장 \"푸틴은 미국의 친구 아냐…우크라이나 문제서 분명\"",
+      "title_ko": "美정보수장 \"푸틴은 미국의 친구 아냐…우크라이나 문제서 분명\"",
+      "url": "https://www.news1.kr/world/usa-canada/6362206",
+      "ts": 1795387475
     }
   ]
 }
