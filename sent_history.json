@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795348986,
+  "updated_at": 1795349140,
   "id_hashes": [
-    "1ef330a82840332f903fc3c8bf9835e02c8715f1f433630db3870e70822ec3fe",
-    "b3f8590f38128e20b83f8035dfbbbb932108ac1218042e773eb8e9a5a5b2bd01",
-    "187f64a27df5fdc8c7af6ef354bb323a892c8bb8759eb4dd4399493b2014e2ad",
-    "6a1d55f9b7faff7f9782e4a47dd2d48ea16557c18b5f4723c13e78172bb90d94",
     "e891e8baf3b2000a72aa808ab2aa7e8769f8c091ba75a3b98166758c2799fddf",
     "b97a5eb7b22f0d93af315502060adfa826d66acd81033ab21d60773fe7f2c7de",
     "a41da87673935d00755a96c99276421136f940f868b8d2e3229b4f5e2ef1c198",
@@ -4000,11 +3996,13 @@
     "2e75ac5e2426d7787569420587ee2d061c87a1ac750a87107c9da9e3e1243573",
     "52dcd2f3a6e91eb1fcbd6ef2fa26b4eeaa8d3994315fc30e3a14f8de412e22ff",
     "89d65aded1a2561987ba39cd50a6fb112df9a971abb0f2413182feb3053573a4",
-    "539e538681fedda96700dd6ca0a534283fae7ffce2bf89896c039bad88b16b8c"
+    "539e538681fedda96700dd6ca0a534283fae7ffce2bf89896c039bad88b16b8c",
+    "6004357f554ee21d26b4bf38880f86a823fc013e8f9fc6a8a5fd06caf663b123",
+    "7d2332122b91d4ec599e463551b75f5ffeb5cc48021b4614185c9403e96bc2aa",
+    "c973628d8bbab5c7b97be7cb19c67340e0726d71fb8c3645e1508f77702ba78b",
+    "43f3774c0ec30d6bddd2c6c81b0ea034f468ec65e7ab1733b17f613e9cf3cab8"
   ],
   "title_hashes": [
-    "5645f92389fd077b98debe77cd402dcbe789b945fc33f3d1ea923dcbce210af6",
-    "e31c42eb150f1a551acbf6afb68fd31051ae085d0d451d8807ace11f29e8f4d3",
     "ddfd12533589a78aa67cec9f9460e0dd4ba05533da06dbe00d6d676fcc35805a",
     "bf34c17dee55ba136bd72bcf019ea46257bcd54bf1752d83400a1b0b56c79ece",
     "071890c3d00fcea99ac35f126e6bc0e430f29e9f7abec99c4e80da67e0ac71fe",
@@ -8002,16 +8000,11 @@
     "67a7e6c5f8f2e89a5252806828f2bf4c621659d000232be8360ace5d0bd94975",
     "79af4b35a9a445943040f289fa4bd1979263584a57b966f87e9e3949c92a18da",
     "ee31eb5dbdcab5baaa14dacebcf8038fe6b2674dd16d760f4193082db62412c2",
-    "6bfeeaf87d184972df3d55b5c58637307610ec64a996ff1a6654d8b53a8967e4"
+    "6bfeeaf87d184972df3d55b5c58637307610ec64a996ff1a6654d8b53a8967e4",
+    "c11218a590adbd863e32c09191a2a809202489eeba467d22d2321d554bb1080a",
+    "3aa4796274f829999edbb5efc069678121aad72ac6c951145a24f9e388b1774b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "이코노미트리뷴",
-      "title_en": "KAI 김종출 호(號), 항공·우주·AI·첨단제조 글로벌 ‘빅4' 노린다",
-      "title_ko": "KAI 김종출 호(號), 항공·우주·AI·첨단제조 글로벌 ‘빅4' 노린다",
-      "url": "https://www.economytribune.co.kr/news/articleView.html?idxno=3904498",
-      "ts": 1795235177
-    },
     {
       "source": "OBC 뉴스",
       "title_en": "美 의회 “스페이스X 자금 지원 중단”…우크라 드론 방어망 차단에 경고",
@@ -11504,6 +11497,13 @@
       "title_ko": "[11월 21-22일] 글로벌 증시 주요 뉴스 요약",
       "url": "https://t.me/marketfeed/1083440",
       "ts": 1795348858
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "Lenders back SpaceX's $43 billion Nvidia GPU deal but worry the collateral could end up in orbit, making them impossible to reclaim if Musk defaults — five-year 'hell-or-high-water' lease may lack a written Earth-only guarantee",
+      "title_ko": "대주단, 스페이스X의 430억 달러 규모 엔비디아 GPU 리스 지원…담보 회수 불가능 우려 제기",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/lenders-back-spacexs-usd43-billion-nvidia-gpu-deal-but-worry-the-collateral-could-end-up-in-orbit-making-it-impossible-to-reclaim-if-musk-defaults-five-year-hell-or-high-water-lease-may-lack-a-written-earth-only-guarantee",
+      "ts": 1795349139
     }
   ]
 }
