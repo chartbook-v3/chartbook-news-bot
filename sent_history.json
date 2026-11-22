@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795350035,
+  "updated_at": 1795350187,
   "id_hashes": [
-    "c0804cf1c9bc4cb1c32044056a9caecbbf83fd740d69e144629019f27db5a505",
-    "017535073a112e92828a9363bdcf4d2c917cdb5a2c2bf158d94208e108b86b8f",
-    "1db7b4de9917940d920f570859c9a96137b86b19d6ed4b90c765bf422cd37723",
     "5f53e52209b79e68756d4ec6e20cd1b38f72c9948476aa9f1bd76d749ec52775",
     "8fc4034fe524673254fd747218f0ce7c9d38c0c472c4b9f8c5d6ebfa96f78537",
     "919f94235ea41d6a84c3e654adb13fe8ef130b9adb4990f093489b298ff42552",
@@ -4000,12 +3997,12 @@
     "0db4d6a882fada4e0f173b9d9b571fd1413276f52345cbeba172608e12b58942",
     "8da107e475708b2bd34d60bdae1cc0eba977e78f9130acdac1616fd11cc008c4",
     "f67d39ff3163dbd4276a63b5044a1d371ced87993ec2bc2865592ca1f4c8a514",
-    "e0c8cabf945f3730d85dd72be4e7905887edf1da3c5f4fd7af0e355f94362f7c"
+    "e0c8cabf945f3730d85dd72be4e7905887edf1da3c5f4fd7af0e355f94362f7c",
+    "734261882533e21bc0961f0e96f01bb6a2be56786f04acb0394119a0f6ff4ef3",
+    "7bbcaa493709f888edabd10ccce9130610cd2eef51bee064091a61d094539757",
+    "2680b9da0b04063d9b636b1c51ec5f1d47d5cf01602c63a0d0ccb9d4e823ccaf"
   ],
   "title_hashes": [
-    "cbf16ebf3968c101dd6e3687fc6ab88a636fd0a112db0ea67547efced0ea8aa6",
-    "c649ddad6c379b4218330404304c217af06e1898674863b5e7c1edeb89168e7c",
-    "c05fbfd07776b49d4be7b7efae09d442a46b0c32e1bfdba844bf1eecdf7281f8",
     "353fe7b530c0f4c2c1b2ae8cd12f4099da07f0575738c2da8178fca075b9f5c9",
     "e0b49f854bb16dc43baf176a3c9861b7c07222f7d969c0045d29256939e98997",
     "e14fda60e6c0dac81a42e807804a8c3f6ceec1a4374b531e8d95061b2bf72a4c",
@@ -8002,23 +7999,12 @@
     "b68b81e7fba37c7088fe475f56c212a7f17deee5cc8dd6b7b48477ac1996c17f",
     "f70019d9febe8c18625e0761f46b96eadf7939a490bdfc2cad241515fc970d08",
     "51347154d7d335824cbfd7d7d49b44d5214a1f797e4ba803021950d461ffca1e",
-    "5763f07d52b571956c8d4b76212fa5ab8b1fac5cebde7e2f6f6873e0487cf474"
+    "5763f07d52b571956c8d4b76212fa5ab8b1fac5cebde7e2f6f6873e0487cf474",
+    "8958eec37bd2793ee5a9cb6adfa0f73cff26d06433b3eead4291be5d0e6be06a",
+    "3a153f6f5565a70f4ca37053a99b5f9f52a65acaab925d1be54e1e28e00120cc",
+    "34d59fe5d374106d4b27056f08d05c329e3fe9df69bf8d3c49c3912a52d5e70d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Scaramucci Regrets Turning Down Uber Investment - Amazon.com (NASDAQ:AMZN), Uber Technologies (NYSE:UBER)",
-      "title_ko": "스카라무치 \"과거 우버 투자 거절 후회\" - 아마존·우버 주목",
-      "url": "https://www.benzinga.com/markets/equities/26/11/63514679/anthony-scaramucci-missed-uber-investment-82-million",
-      "ts": 1795237719
-    },
-    {
-      "source": "FT",
-      "title_en": "Oil shipped through Hormuz falls as Iranian strikes increase",
-      "title_ko": "이란 공격 수위 고조에 호르무즈 해협 원유 수송량 감소",
-      "url": "https://www.ft.com/content/5fbc2b9d-0360-4a1f-9e4a-3e86168cbbc5?syn-25a6b1a6=1",
-      "ts": 1795238065
-    },
     {
       "source": "뉴스1",
       "title_en": "[뉴스1 PICK] 李대통령, 울산 AI 데이터센터 찾아 \"글로벌 추가 투자 마중물\"",
@@ -11504,6 +11490,20 @@
       "title_ko": "예멘 정부군, 타이즈 남부 자발 하바시 지역 후티 반군 거점 공습 단행",
       "url": "https://t.me/firstsquaw/194991",
       "ts": 1795349986
+    },
+    {
+      "source": "CNBC",
+      "title_en": "The Nasdaq is in freefall. Here's one stock to look at",
+      "title_ko": "나스닥 급락세, 주목해야 할 종목 1선",
+      "url": "https://www.cnbc.com/2026/11/22/the-nasdaq-is-in-freefall-heres-one-stock-to-look-at.html",
+      "ts": 1795350184
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "One of the best gaming headsets plummets to just $78 at Amazon in unmissable Black Friday deal — Razer BlackShark V2 Pro outshines its successor at less than half the price",
+      "title_ko": "아마존 블랙프라이데이, 레이저 블랙샤크 V2 Pro 78달러에 할인 판매…정가 대비 절반 이하 급락",
+      "url": "https://www.tomshardware.com/peripherals/gaming-headsets/one-of-the-best-gaming-headsets-plummets-to-just-usd78-at-amazon-in-unmissable-black-friday-deal-razer-blackshark-v2-pro-outshines-its-successor-at-less-than-half-the-price",
+      "ts": 1795350186
     }
   ]
 }
