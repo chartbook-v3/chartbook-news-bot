@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795322660,
+  "updated_at": 1795322807,
   "id_hashes": [
-    "a3642811cf90cfeabe2dd1bf2b375c32cc8d62fd23a1861ef6739c2524e987ad",
-    "a15c14369b74bad42323ea7329fbcd3d4257a80ecfe931abe166ff3896deab8d",
     "e6eeee40505bc31da64ff4d552e518b9968f49803003c6bbf7dabe8e521ede83",
     "0ee624174f6883e3a86fb9ae4c2d75f5b06e933ed139fb0a9c79fb223b447e78",
     "3abb42ec2fe33c1f12b6a2f390b616c2d4b75df1e693261207a0b7b9fab1ce42",
@@ -4000,10 +3998,11 @@
     "571dbfa5e5f0ba9d0b89cbd5aff99e747906e4406d34cc2feeeb8a42b7b77749",
     "21c80ad17a74c7154378db40277f1b21f170e5a380d6e6122d546039cca5e28e",
     "33b082e8aaa3d679905e578d5ca0911c2e8589731970df0f0c97e31dc79a3aee",
-    "6b0b4fb7a72b4b2e8785e47e63125e22043e6e35d546d4c0096e9969ff1f9451"
+    "6b0b4fb7a72b4b2e8785e47e63125e22043e6e35d546d4c0096e9969ff1f9451",
+    "4e7e98273bd8622009226e007c06a0698f4cc422d14a3843482c777a2f41c3b4",
+    "0bebf89654ceca3674f2ad702972dfccb278860055855e725fa375cf1e64bcc3"
   ],
   "title_hashes": [
-    "5aa38ae685c8487e447aab2fa415594ba8696c4efe3528f6f9b99d4929afc5c9",
     "d03e78ae69a47fae1f8db35d3649cfe62fe1acacaf69732aabfc6b44455b5da2",
     "2b79541d9f7ae7b7347d1d277d8fff2c96c924851a9b3acc2f272e16226e89b9",
     "a3d323f42d8a24ad16783e95cf5d3abe22a0e9d783e53f57fe215dcc9d20a4f4",
@@ -8002,16 +8001,10 @@
     "6a29be47bc8dbdc1baf40b68d2a0e56d9daa53e93e6a1c01b4cba0bad7b73564",
     "d98ca443a5e881fedb741c7b74fa11ffc18fdb3ee37f632a59c5400833f2448f",
     "38357de2ab744a9eabee54f81e8fa92f6a7274581d7689aeb4e8cd06a5b7d7c5",
-    "c1467b2cb774ac1889d7120dbad7c03d3d57dfff8a9fe94659731563e4f569ec"
+    "c1467b2cb774ac1889d7120dbad7c03d3d57dfff8a9fe94659731563e4f569ec",
+    "3f005211c54f5fac8d15e49604607381999a47f7a45bf8dfc19d288a3f87ddd1"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "JUST IN: PERSON PLAYS GTA 6 USING ELON MUSK'S NEURALINK BRAIN CHIP.",
-      "title_ko": "JUST IN: ELON MUSK의 NEURALINK 브레인 칩을 사용하여 GTA 6를 플레이하는 사람",
-      "url": "https://t.me/marketfeed/1083037",
-      "ts": 1795211505
-    },
     {
       "source": "WSJ",
       "title_en": "Nasdaq Turns Red For The Year",
@@ -11504,6 +11497,13 @@
       "title_ko": "[단독] 스타트업 산실 '청년창업사관학교' 폐교 위기 모면",
       "url": "https://www.edaily.co.kr/News/Read?newsId=01597366645648344&mediaCodeNo=257",
       "ts": 1795322659
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Kim Jong Un appears uninterested in engaging with Trump, despite North Korea’s continued nuclear expansion and growing capability to strike US cities such as Los Angeles and New York. Trump is struggling to get a response from Pyongyang.",
+      "title_ko": "김정은, 핵 확장 및 미 본토 타격 능력 강화 속 트럼프와 대화 무관심…트럼프 측 응답 확보에 난항",
+      "url": "https://t.me/firstsquaw/194907",
+      "ts": 1795322749
     }
   ]
 }
