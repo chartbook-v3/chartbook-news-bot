@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795324933,
+  "updated_at": 1795325081,
   "id_hashes": [
-    "185572a1a05fbd2f615022f314fb94c26874029f0355ba672c5c77877c90bde4",
-    "e6fd3d226be713ddb35c4d89113f644f534e9224c43442590eef95a0393e0aca",
-    "d4c01cfe4a1447b03fc99ee6595232db30a021c0e8eb824cc501c32e97b206e9",
     "26866e7ab1e4b8a2d7b6a0a74a3fc69d5de0aa9df6a67c2ff8f37452e85eb6e3",
     "c6a1b47aad8aee48848bc11d1baf304f64661f1577f7461731bbfd2f77bdfdf5",
     "a9f1946c5063659a6f1ca6c0d0b94a32e9893e8afd02e7c7cf18fee29e438197",
@@ -4000,11 +3997,12 @@
     "e49941bcab50772365047e9f141f9b8b34cf85e6c944cb33d8c0438b6731d24f",
     "77477978db548b4f843c9d39dd78f097092fe89a76dc149b289601ed9f65ee51",
     "c44d40160a1850b65d6c89b7f514ac8e8ee834b2426eb7228169bec5f3ba5dc6",
-    "c8851c923fb473b8b2b8d9c1df0cd129ac799c70478f5ab0de2fe4d59b238f0f"
+    "c8851c923fb473b8b2b8d9c1df0cd129ac799c70478f5ab0de2fe4d59b238f0f",
+    "19e3d5a4b41d86dd4280d5f53b7e7b43063641234e0530dbd5a4076a1a3d0519",
+    "342b636576a2cf7d1c166c9bc41cffb8e4f714e1722145f88a70b8bace078788",
+    "f821eaadec7dbd890b10cff16261b21e8ab186e66ab8764534134b1a2bfb5f15"
   ],
   "title_hashes": [
-    "5def2914141bb3b5857bce636e51a89234b25cc1e3d9c6877b269c902d5757e0",
-    "797393f3125262025ab724810f9b8b45d9a4e07ad5181b2a48e35912f2558dc2",
     "586d8b5d9eff030bb3c60164e49d5bd0a9cbab680e541b501f78a579104da41d",
     "6e5f004dd783a1107cc77aa4741205663ea5fc84ab2d57fb97400abf02befd25",
     "c025bafd6d13a7e3136c5f319874198a6da432d32a7f9516bda5f3425c9a3704",
@@ -8002,16 +8000,11 @@
     "349ba7d32b6f6894ded3ff0dd12d9bed7ae7ab9f7c08a788814fa4c2312ad1a4",
     "5c0e4bf631fee1d6aa0e3ddc61c2dca5155162c13cab6fa0ab5a3070325214ea",
     "65210ef6d866982b481499102812de3594649958967feb223d66b57f6c9dc930",
-    "cd636e5f2a24fa10342402a11f5f101f19fe566137f8fd6ad92470dd535edc01"
+    "cd636e5f2a24fa10342402a11f5f101f19fe566137f8fd6ad92470dd535edc01",
+    "46e4fc2d25122bdf946a717b757c6d98e463204b896d6e8212e5015d0849cfda",
+    "d68020cdc535d7c29ae5c2dd4b6744f773a12283169ba8feca61c32deaf5d7e0"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합뉴스",
-      "title_en": "인천공항 화물터미널 로봇·AI로 자동화…시범사업 추진",
-      "title_ko": "인천공항 화물터미널 로봇·AI로 자동화…시범사업 추진",
-      "url": "https://www.yna.co.kr/view/AKR20261120098600065",
-      "ts": 1795213281
-    },
     {
       "source": "디지털데일리",
       "title_en": "나스닥 5.3% 폭락…AMD·마이크론 13% 급락",
@@ -11504,6 +11497,13 @@
       "title_ko": "우주발사체 연료탱크 국산화한 검사장비 기업, 중소기업 협업 공로로 은탑산업훈장 - 플래텀(Platum)",
       "url": "https://platum.kr/archives/299211",
       "ts": 1795324784
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Ukraine Scrambles to Prevent Its Booming Defence Sector From Losing Momentum",
+      "title_ko": "우크라이나, 급성장하는 방산 부문 모멘텀 유지 총력전",
+      "url": "https://t.me/firstsquaw/194938",
+      "ts": 1795325017
     }
   ]
 }
