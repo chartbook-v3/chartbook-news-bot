@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795347483,
+  "updated_at": 1795347635,
   "id_hashes": [
-    "63a4f9d9d1891f70b4b1043817788b7595f8bed1b3ae08415af19171c705434d",
-    "c36ade5d498ae724cab5934c8c081c771e74f8c49ecab9de854986dcdf56c7a4",
-    "f6a2a3acccf63577caf024a76981b63e3f372242591a0eb491b24c08cccc89a5",
     "03c825c9666970013bfdb240b36cb97bd11e898f6036a488e1786e7dd345a3a4",
     "d8136a41f1b3510b4f200a0195a37169a449a040c2af5450fac0afe83b87f9e7",
     "72b19eee5ba24db8ef8774b46e61b7be2878b8278b1b16cdd045b26ac581acd6",
@@ -4000,12 +3997,12 @@
     "01797d6ba47738b841a12552900d04f00598cf020581bd887c4b8d6be8ed302d",
     "826a3d9f5ea8e2472c6fd5bcf286a990cecc64757ff8477043e2ea3417a52bbb",
     "5d9485c604c5d95107ef7e0390b15c12e883f3bf11b0787ee46fb743e3441ef0",
-    "2cc387506f3949dd1557bd800b6f16fe049d3937c818178c5bd7eaa59cb53ef3"
+    "2cc387506f3949dd1557bd800b6f16fe049d3937c818178c5bd7eaa59cb53ef3",
+    "cb1c4e4185d7f2b4c97516c863e868d58fe1d63eab2286ada014c5b41906ce2a",
+    "22a5acf47d46632c50b34603b765162f8d940aee3bed4ba881c7cc908793cf3e",
+    "f4e001a0f4c744ef4816b569793132d65fd33e8bcf7b138f276c15e9197f05ed"
   ],
   "title_hashes": [
-    "f7d244329a57484d3d146aa490888dfa1c82386b5eac2d392b8e7a0b30494076",
-    "bf9be2479dc2c9e76ccca39c7f8f8e8cdf2f93e71f5732b2974676e5d115d3eb",
-    "eda98308bf5204562499c76fabaa119c4989df0e390214211c9f72ad46833083",
     "cfce920a800bb57402001044497e1407c504e989ed99034f93d276a4e9641b7b",
     "05ffa3b379af29b8bf091d1ac2da2063b17e30524edbf6d1fa0aaf297b26b25b",
     "2836d41d16e5f16bf63ae7f026aeeb3d9a9b40cce6c56c57db3f995c938d3d0c",
@@ -8002,16 +7999,12 @@
     "b4b4f9d281ea855106882e4c678cb8ff36e69ccf0e078f39f3be4fb4071d0e15",
     "57a35f3042c456048788f48ab8ab788c1cc14f89d06dde7bfe2f050d2227e7b9",
     "99ea2cdd0db31f5b1667957bbb41969c301a01755c6fa300d07f132a9cc200a0",
-    "7da26482340e55d8f1abb973ec82f870c46161847795a2ec3baa64036deda092"
+    "7da26482340e55d8f1abb973ec82f870c46161847795a2ec3baa64036deda092",
+    "22952cc2164088c941c311b47bda3e608e278ec99db689c68fd9b98954f39091",
+    "b79d6a804563c8e7e766b35cfa37d7fb3acbe1355a7a818c5def4dc8a1245c4f",
+    "58b293f0c5eed3da99bd87f2ef4d8b0114d26cfd55292c27c89b3ec4b45ee6db"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Goldman Sachs Private Credit Corp. retains Baa3 senior unsecured rating as Moody's maintains stable outlook",
-      "title_ko": "무디스, 골드만삭스 프라이빗 크레딧(GS PXC) 신용등급 'Baa3' 유지 및 전망 '안정적' 부여",
-      "url": "https://t.me/firstsquaw/194740",
-      "ts": 1795232861
-    },
     {
       "source": "FirstSquawk",
       "title_en": "American Atomics outlines progress across uranium exploration, Colorado project development and reclamation initiatives",
@@ -11504,6 +11497,13 @@
       "title_ko": "“中 정보기관, 美 AI 반도체 확보 위해 최소 2년간 ‘비밀 작전’… 장관 직속 조직 가동”",
       "url": "https://biz.chosun.com/it-science/ict/2026/11/22/3GWEPOM3U5ALTDPWHLJDXAG2ZQ/",
       "ts": 1795346591
+    },
+    {
+      "source": "디지털데일리",
+      "title_en": "[DD 주간브리핑] 오픈AI 보이스·AWS 클라우드 재설계…서울 달구는 `AI 에이전트` 공세",
+      "title_ko": "[DD 주간브리핑] 오픈AI 보이스·AWS 클라우드 재설계…서울 달구는 `AI 에이전트` 공세",
+      "url": "https://www.ddaily.co.kr/page/view/2026112220343677291",
+      "ts": 1795347634
     }
   ]
 }
