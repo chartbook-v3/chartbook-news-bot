@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795351695,
+  "updated_at": 1795351845,
   "id_hashes": [
-    "f9bacb06c8f376cf8ebc267f6403ce34420222ad023819595f7d49862eda3062",
-    "87bad2958abfcd0232d0fbdb96e62e573e28712991234d04b2d3da9b005fa899",
-    "9914ddfb1f795b4d7cf0f925e58e41b728fa357eda8e96bcdc94ae502762454e",
-    "1e9c57ad11913911346c6122dcf13c4c1d32843198702a8ad1f8d9f4ff5182cb",
-    "3c94df548ceaac1329560b1e58ec4d8194ee3f63aa396388127d59b3861c34d6",
-    "1a1b005337c50883562af446d26a15471f719846c4d8afdfdac74e8cd62769c2",
     "f4db8334843292d75c78945f4aea920a726ff838ad0858f61afca64fb1ed52a8",
     "f6112f09a4f6ba5677cf9e85e4fb8855fa1184f29570cb08964475fbe69a99d9",
     "d82a0d001d843f17cb2cf217f07ab23e187e8300dbd96498bee716867b51bf32",
@@ -4000,12 +3994,15 @@
     "070ac75c86bfc0bbe6de7115356dc3cbe94bf394859d44833188cfd1da8cceae",
     "8a242e829305f6c4c74564e9fab56b53767febd3c4e41d6e745fbdfec78f7381",
     "d32b7ad8aa78f719b3d640e87ce5821a1be93de9ebe8c1c55d846860bdf3e990",
-    "0f0c036488e97cf4ce9f667e08f3afb4e00ca6d848ce12c1518b9a82cfa7ae2e"
+    "0f0c036488e97cf4ce9f667e08f3afb4e00ca6d848ce12c1518b9a82cfa7ae2e",
+    "2c8219d1e2a8f37174f8dcc258f80c0ffbe724001fe7c8c5c3abea764f54443c",
+    "27b96a0162654f993f97aa942623e755d590a5a9bc42f229d7ad8c91c4b3bed8",
+    "bd3568a9006e7f3a354ac44125719739f9644fc075f420bb153cb5325636d1f6",
+    "7d4f67bf61f08e568c6e5d4c227f3063868444e32695c078ded663498b558526",
+    "47486d8989f9771749dd95dd6ef0b2f08ea007af2fa512acd7d6128f9524a0f5",
+    "89e5092b4be6f4ad5f0d61a4e1afa70d156184254ac3dbf4db9d273a9c3bdcf1"
   ],
   "title_hashes": [
-    "eafb3352f207f60d9485e0fc9c6a5e99ae7f8abcb231de8440bb70f672d8ba42",
-    "1d6ff9d26a593cd94fa4a6d9b37221dc26ac09fc66f7a212b0591ce60d3194d2",
-    "7f9a698e076d92211355e14e36ce527aa054af724aa9992fe47587c538faba26",
     "7b569664be8a89ae7d25ad43c1b16819d700ad42ed4956367136e71e549c1238",
     "3614d89ca0c7bace7f2710c1e1842e7bd27e01e10e05bd637e9e4316294c9f69",
     "d5b13d825293a4abb9d9e92fcfc7cf008a2d72fbae7ea07222602fb7928c1a50",
@@ -8002,16 +7999,12 @@
     "fe662c2a21e17e069b1864c88f5f07ac0242fcd2477d0995cee212f51f69ee74",
     "811b00c4a2511bc4c7e5241fdaee84b5329945b88b8411495890e6486b08cb07",
     "f452e72207a4b620fb906570d0e1faad939ae5a44ac1b205ec78ba05286c8a8e",
-    "7dd4a5a50d3b5d802b57411fbb04befc758456399cf3d38c6d1a72d5281727fb"
+    "7dd4a5a50d3b5d802b57411fbb04befc758456399cf3d38c6d1a72d5281727fb",
+    "9b56f8d901a8129ac40b9986e0c2238302fa537e616096c51ba47b5ebc7780a1",
+    "efeb11a09548f02bfdde80187eda7f7a91aa88b52fb76d007ce581110f0ae90a",
+    "a0c613903e49215238694321a354294e7cef157dfb8c3e4ed9d975d18151d812"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Iran's red lines include keeping enriched uranium within its borders, though Araqchi believes a fair solution is achievable",
-      "title_ko": "이란 아락치 외무장관은 농축 우라늄의 자국 내 보유를 협상의 레드라인으로 설정하면서도, 핵 문제에 대한 공정한 해결책 도출은 가능할 것으로 전망",
-      "url": "https://t.me/firstsquaw/194751",
-      "ts": 1795239403
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Araqchi calls on Trump to openly state his desire for an agreement as Iran's initial condition",
@@ -11504,6 +11497,13 @@
       "title_ko": "러시아 당국 \"우크라이나 드론 공격으로 벨고로드 지역 민간인 4명 부상\"",
       "url": "https://t.me/firstsquaw/194993",
       "ts": 1795351694
+    },
+    {
+      "source": "X ｜ ELON MUSK (TESLA · XAI · SPACEX)",
+      "title_en": "Elon Musk reposted",
+      "title_ko": "일론 머스크, 해당 게시물을 리포스트",
+      "url": "https://x.com/elonmusk/status/2124472650554658990",
+      "ts": 1795351718
     }
   ]
 }
