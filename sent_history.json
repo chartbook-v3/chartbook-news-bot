@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795364422,
+  "updated_at": 1795364595,
   "id_hashes": [
-    "d17a44badcfbb81fb4f6639b993eb63750b5428cfcfb0bd78a241674fa89b07e",
-    "2ec2e55e16f0140c66f1638a420ccbc19052beb7141ca2264979e961b6b0a2a0",
-    "10e171b2a28c769440aeab2b6698083791bf121e471786ab71fef78a2849f016",
     "a3c51d2328e0228ab74cfd9217c6d70e10d34fdce677dda566194d35a63d8ea3",
     "ce5dabba21a7d103e888c69f4171fc8780180cae793cf51fea09ff342ecdaa09",
     "da3e0ad301fe23903e59ca26b7be4b78cea55c7168399c2f32a5fca3045d0f88",
@@ -4000,12 +3997,12 @@
     "9e9ad6535054767537eb8f3ce3f3260ed5e2123e49a7baa6e55f973030a006c4",
     "7edb5d05223df8ed412e5fd9fee661df7f7674fcd012deea3ae176331d27b504",
     "00ef13dcf1e5d3ec17fea748d06f936b1dee742628b319138c73500ddd919292",
-    "db3f40efa42d37e774d585433c21c4fa96192012448b40bb33087b35f4fb33f7"
+    "db3f40efa42d37e774d585433c21c4fa96192012448b40bb33087b35f4fb33f7",
+    "d06c7b75c3d937bfec17a6a3d03ae5b2d72c6a944f60a128e25274819dc4a2b2",
+    "91852692232c7d5ca7c0fbf747b873fea6fffe619a5a3683aa014e67b461d98e",
+    "bae52b840e6e557626dc4d83e77f2cae2a2790ede4ece7a3d9fba5b2364f7960"
   ],
   "title_hashes": [
-    "9c984a626a779c25eaec6791c16fbff564a009800180b37be041dabdf38fed56",
-    "15db5a43285a2fe9fdbc017df170c24c08dd3e5b8ae95c29c11b32d19a544a50",
-    "813b8ae6f20eadf02b5fd98b69c4dc5612f2523a2407fba5702013be4716ec98",
     "534a8fa734488e128844f08dc1352206c1005c142753024ea62cadf821bd3e7d",
     "4adc24a6d1fb8e5d6ea2ade643b8b00822fd4d411fac4a6f184c2d4316ff477b",
     "4f38943e69d767e91c00a8c23ec0017dab92639ec819eed566aed0f92aee91aa",
@@ -8002,16 +7999,12 @@
     "52b3e5dfec2849726ae1de22154de962c9dc23fde81ff327865080ff19c0d362",
     "8f61c958126905b366e23a399928e43d107b6b80ebc89b48b928441e1e7555b9",
     "d0f3f0521514e6a87f0824bb1c2118cccd49bccfcd4609a1e4098ffe330e1ed2",
-    "411d158bc721c57da20d359a699f6ae571da5eac8cae830474e28ab600c5dad6"
+    "411d158bc721c57da20d359a699f6ae571da5eac8cae830474e28ab600c5dad6",
+    "a0a0e91dbf77d7365dcf5a6adb73c1954acee534eba605335349a9995fa0ad7a",
+    "43e013eb9b327c1eb14325f7581bda5019373a1691ef60f65c5617281232fbf6",
+    "a8c5bf95de788f49cf72d851787dbc0c7996a17a4cb81628190691cf317b725c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Italy’s Webuild Completes Takeover of Construction Group Trevi",
-      "title_ko": "이탈리아 위빌드, 건설 그룹 트레비 인수 완료",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-21/italy-s-webuild-completes-takeover-of-construction-group-trevi",
-      "ts": 1795251556
-    },
     {
       "source": "DongA Science",
       "title_en": "미리 본 전장의 미래…\"우크라이나, 기관총 장착 무인로봇으로 반격\"",
@@ -11504,6 +11497,13 @@
       "title_ko": "반도체 지수, 2027년 8월까지 하이퍼스케일러 수익률 상회 전망",
       "url": "https://holder.io/news/semiconductor-index-beats-hyperscalers-2027/",
       "ts": 1795364421
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Bessent Warns Fed Risks Overtightening as US Markets Swoon",
+      "title_ko": "베센트 \"미 증시 급락 속 연준 과도한 긴축 위험\" 경고",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/bessent-warns-fed-risks-overtightening-as-us-markets-swoon",
+      "ts": 1795364594
     }
   ]
 }
