@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795387775,
+  "updated_at": 1795387928,
   "id_hashes": [
-    "d894d1c7b9203171ffeeaf8c2af6e2d29de3562ada2b37906aad32a3e49f56bb",
-    "2473004060f0959612eccab14253408e6d4fa51fc64e3ca6a12d483a8df071df",
-    "0f8866ced731cef83a894528276fab831a4749dfcdb13c7c8b32c45021ce53c6",
-    "03a592c15a90e446d98f0f2dfbfc41b244ae8131d81a28bf7e9e5418396fd615",
-    "4aaef857ab0bd9d59a30c1ba9f577d93bddea89ff508bf60bd1c90ac15321e42",
     "3bd116b522c5b2d502de0d36377dfb7613e073ffbe82cfee75cee3eae303e03a",
     "c21ab6d1a3a3d24712e8829110e1fe3f9e219372abe967fe5d615682f05cac28",
     "16ac47e01be3f9f3f006224b27d632dd7603ee1dddc8fd688513dbe7dce42f77",
@@ -4000,14 +3995,14 @@
     "38a343024dd901d796dfc7c6b9278a7a55c2013571fc3f789fd3e52c8302acb1",
     "32c4ab32e70949f67ec817dd88600535a3f90b7fd439a8d86b0b6f8c58f2ad70",
     "efa0ba98f47fcb911e10097156d1d329a2951dd52c99df1ad94eb593eaf390a1",
-    "d711c3fb8cff4dff807e14e85229a9e0876071b6641bc93a816e6ec985972040"
+    "d711c3fb8cff4dff807e14e85229a9e0876071b6641bc93a816e6ec985972040",
+    "fcfad58eb7765aa22874107012517765ad1ff104fe092164f61f2875bb175f6a",
+    "b0d21e2bd4e3e1656e03e74f5366deebcb04f26c03e360cd85252d3e94be6586",
+    "451efdaa05918a291ecf915cc2f1ddd55a157c4303c8127e993676d0c5a348d7",
+    "da6b21da2e253aa80aab5ecc67fe36de7fce2c2967e273406d940910ea91325a",
+    "0d5071be2d2a034c8f593012dce1b61c4acaf5c04ffea24cfa0780842e30a9e6"
   ],
   "title_hashes": [
-    "d2ec307fdf43e08f764582c473ab1484c992d2a8e9735c5c218cee7be4809ca1",
-    "07473a29b74852012341ec1b38ed680813aecb5db54759bcce86b78c4c7f1776",
-    "2cf45eda7b0a05773c30bc5734bb1e2328be2b16c05e0afe9f25581af99f6225",
-    "c26f41c4e2557877dc9980434fd2226f0f34eee339c046cb6beba9addcc02a37",
-    "743ee99705dc5312351dd73804ffe6ceb53720554777d51cb904c2b10308b5c4",
     "65b22b1a6dff98f15e8a4a74fdb0a5ad7e440b5e1218a04c2364f6bcbb5f6ae8",
     "adba4a7a9d9f8ae218fbd01d3c09f861db3a30f923f1b7ae04bdeef7e5bfd2ae",
     "02eb281cf8b030559892d41b7abf7f336f506a1a9427a556d8ef72a097e58a73",
@@ -8002,16 +7997,14 @@
     "1745ecf1ca7b2b02276a3b5a8e89f513a95d3733518601e30c1ecaaf33210c25",
     "c5c2cbbb0765a8d02f443b969357a91a928b23c89895fca5b2a19e3c5ca001e7",
     "f9d25ba96c0907326f1fdcb4b95456978bf2f675fb418c57e842b92edba6d7b5",
-    "b13c54eed6dc46a6831e4eecc365f6912458cd2f204c6cfc571397cb2be8a893"
+    "b13c54eed6dc46a6831e4eecc365f6912458cd2f204c6cfc571397cb2be8a893",
+    "a97f2701deda37811e99120ce531e25e9481cd540a3acef396f49adbcb6a3063",
+    "6d16a6d3648cc80469ef2e3d0ac322d30012370cb9f9329350c9148cb328d9db",
+    "370be92c77b472e309907f64d3dd9d7287ea1db4904025b30830a4e420a76aba",
+    "352a6c663dc31a6df5810f1e7343ad57fd93db30d8be5caa5b7c246238a60898",
+    "eb884229df0415b24ce50a5aabce64d6c76aa5dc9637690746d0103193f04dae"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "Zelenskiy: too early to tell if Ukraine will join Nato when war ends",
-      "title_ko": "Zelenskiy: 전쟁이 끝나면 우크라이나가 NATO에 가입할지 말하기에는 너무 이르다",
-      "url": "https://www.financialjuice.com/News/9862951/Zelenskiy-too-early-to-tell-if-Ukraine-will-join-Nato-when-war-ends.aspx?xy=rss",
-      "ts": 1795261687
-    },
     {
       "source": "Wccftech",
       "title_en": "Silverstone Says Intel Nova Lake-S Has “High Power Demands,” So Its HELA 1350Rz Power Supply Ships With Three 4+4-Pin CPU Cables",
@@ -11504,6 +11497,13 @@
       "title_ko": "美정보수장 \"푸틴은 미국의 친구 아냐…우크라이나 문제서 분명\"",
       "url": "https://www.news1.kr/world/usa-canada/6362206",
       "ts": 1795387475
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "俄称打击乌基础设施 乌称摧毁俄无人机",
+      "title_ko": "러시아, 우크라이나 기반시설 타격…우크라이나, 러시아 드론 격추 주장",
+      "url": "https://wallstreetcn.com/livenews/3203780",
+      "ts": 1795387865
     }
   ]
 }
