@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795327524,
+  "updated_at": 1795327683,
   "id_hashes": [
-    "1a95202246e547d1232a8c5dca21f8ed5c3eeb774e14e71e318b8aa59e9e4028",
-    "9097e514ae05514cead5dae52006e31eb7184ca70d4143c7bba191d331ea3d74",
-    "276399894ffd5d2801021775fcccaa5b67240a3e1c881fcf8d18e2feeb9f8aee",
-    "400f0cafdd4bdd879b004076735664a885a9e153cdc1c75cf06d6fe107217593",
-    "a716614a64e5624e60713ecd81c2795a9136d94cf94574b537d1d49658beb0b9",
     "33a0a95a9acdd6025bccb52f396c58b39edff98562be9925da7158f77fe8bf4a",
     "e022769b3fd9c85d65a8243480c10ff47b9b6ee719743168c8dce273fbfca3ce",
     "1350619e180273ab1f2f3c2e207bdee1f1fb64bd274896c3ff35da27a2807a27",
@@ -4000,14 +3995,14 @@
     "0d109d6eace13804b669b2eb00477f3a0dd2cf29a592b3579c77b648f027648a",
     "86d4084d6db379d8d193e228a47fcee991d20d78dfcbfc653d0ffcaf4951538f",
     "808e6fcbd4efd5b00e3e788540d51a9d5ded0f768de43ae233bfd195a1ffcd03",
-    "524e12531d9b67c33df04f26c5577e8bcfae26914bd23c09b094bff6f5fa21ad"
+    "524e12531d9b67c33df04f26c5577e8bcfae26914bd23c09b094bff6f5fa21ad",
+    "b0f002e69524ef8382cd23d7601b5f8e81ef2fb8c281637a5ec73c3d3fce03da",
+    "0f725d116409320cafca70e54166fc024b874780742292d7b8c2f79527209bb3",
+    "81fe542e2a41b066c078d3ea1e7072f313b12bba42ac589c05ed8345bfd368b4",
+    "d36c0522ceb77ef1d2c230f5b3f65c5827bdd1013d61f9d96d817872f0d48a72",
+    "684007f7a62e46804827ef4d21113ad982b185722c51f8af41f359ba974ed5c8"
   ],
   "title_hashes": [
-    "a8caa9a3cc861819aedf37ea860d7c237a4e8cca10fb3c69d793068bbd08b25e",
-    "36d2bd01a6499dabbdbe532aec28a45f818e810decbfc74bd1d17300d5ba4dc8",
-    "bf217a53ca573974772ce5c5127c6d48423f79362b34ed1afe3a8a54e453d0b3",
-    "2688f1e8189e6b4aa5a8c6afc085f5e5675c6d36f71f8e1e1b7c84c212b1bfb6",
-    "03bdd46199bccf58653b90ea8c780b6f55b89a62713245071d44c527c951b633",
     "500802d63ff1c38c50cd0c85f0510109defa117335823590f2a6a76dd49dcdcc",
     "be56995126e53a8048732df6fbfb2e5c3f8a941ef08090acd2985fdf1e7407c0",
     "b5520e0e4e562d3c19d56cba107109c0918d94c39d23206d5649f2cb46384faa",
@@ -8002,16 +7997,14 @@
     "0e3d72f5be5a7bf2ebbfcd82dca7b7de56d006b82a524c46d7462cc670877a91",
     "a3cd16c0ac31562daaa0dd0e5049a59c523ab6a03a1c87d38f7da389997eedc8",
     "997b6ca37356e320d884ad439e02320251ed00c515b7115dca20ba46dac15bb8",
-    "6749b0e8785f6932a1ccaa4da3577bb8ce1209db1c65c67f6abc4f30d06b114b"
+    "6749b0e8785f6932a1ccaa4da3577bb8ce1209db1c65c67f6abc4f30d06b114b",
+    "a9019bda0d1eecfd3a790652be106b1ae64a5283eac9c1f193fb7d24b14f5ace",
+    "d1b097789c21cdf9a8a292ddbcaf37a91cc67aee04156fe56c65fca69798bc0c",
+    "44187eef49417643a15e256216cb0cfc6757a86ba173be731a58bb5c76c441db",
+    "2cb10bf344728d461c786e88e6f6daa882aeb9c052e85b2da8c8bd74c8c405dd",
+    "8d485508db289f1fcbdd9a0a9b452f800b7de1dffbac07bed23e0f7845f3c6e0"
   ],
   "recent_sent_articles": [
-    {
-      "source": "핀포인트뉴스",
-      "title_en": "[주간 코스닥 외국인] 대한광통신 티씨케이 에스텍 글로벌텍스프리 '폭풍 매수'",
-      "title_ko": "[주간 코스닥 외국인] 대한광통신 티씨케이 에스텍 글로벌텍스프리 '폭풍 매수'",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506518",
-      "ts": 1795216744
-    },
     {
       "source": "Barron's",
       "title_en": "Rigetti Computing CEO Says Focus on Quantum Milestones, Not Sales Numbers",
@@ -11504,6 +11497,13 @@
       "title_ko": "인도 보험업계, 수수료 상한제 도입에 강력 반발…1,260억 달러 규모 시장 긴장",
       "url": "https://t.me/marketfeed/1083402",
       "ts": 1795327223
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "“트럼프-김정은 회담, 北이 무리한 조건 내걸어 무산”",
+      "title_ko": "“트럼프-김정은 회담, 北이 무리한 조건 내걸어 무산”",
+      "url": "https://biz.chosun.com/international/international_general/2026/11/22/CUEXNOGGLZDWTP22HFE4TB6RVI/",
+      "ts": 1795327682
     }
   ]
 }
