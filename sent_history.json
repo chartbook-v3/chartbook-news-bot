@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795358237,
+  "updated_at": 1795358390,
   "id_hashes": [
-    "d95ab3040039757f459e412f870618252332df5730f720fde6cde615ec5237af",
-    "6219cdf198060332eaa3ba471c3c65514e64850da0f809047394fcc64c4055a7",
     "a035eed9db06fec414943218e2894d92d1eaf05d6e10b0d131f54a540c8627b3",
     "15048ed59839a1c0f31927e6371b97ed1c3c788f458e16de08deedbad1a22147",
     "76a7c00503fe6fbbc72bada5afc74445068d6763b72961e0d694e2a45184368e",
@@ -4000,11 +3998,11 @@
     "721f1ca69e72310a4e9e11f215ddbc7595ddc119a4ba7c7e496766c0b0acc030",
     "4f4b833a42d5e10a43ba80a82ef8b2fab82bb8874616cde16e09d1c4b02d63b4",
     "1036dd8d45cfafc58832ff9d6a62cebc86f3ffd942ae8c7358474d17c3991171",
-    "6e24868032e4d369631a859eaf532010256cf73e30e8ecfc799b844ab94d4d80"
+    "6e24868032e4d369631a859eaf532010256cf73e30e8ecfc799b844ab94d4d80",
+    "790e6a2c53ec7905ba3b4104b68f7d9f0f75f999646c7c4ff6a235d4cbc111bd",
+    "6f982d8c248d010e6cf862cfee5be5e438a8c2f880afa16dd9e1631c4370ab64"
   ],
   "title_hashes": [
-    "a03bee036c91dd2e406ee71c74b83ad280b8b24dd7efbea8f28b8e0b64bb065f",
-    "c0540738a338175bc313b0c2dcee0a78e0eb0f3384090a4b5d575f13b88ac9ac",
     "3b6d250d22f40440e7df3658d8403f8d5bf64e0694a5dc5dfacd6aedc725e757",
     "dca3aa8352b8e3b15fc20aedecda85052c23618c4d85a417a09d0bc4be849d9f",
     "f95827a75c51c9284304597628db8538defe2de560cf7fa057d5f05d030ab86a",
@@ -8002,16 +8000,11 @@
     "8a460355e58315623941cff747ebf97ab0265a91cb5a3e012aff088332adba2a",
     "ede4a81e467d54b2e9ea490c2d72bb0a8a81c8f70a0ddecf4bedd522f7add663",
     "93338ed85b9f48eb2836e430f6582684001cdd452794bb6fcb90885dd2c7fe96",
-    "806bb52b62b708e229768f4a9a99662adaf432875d30afb40c6887361106b824"
+    "806bb52b62b708e229768f4a9a99662adaf432875d30afb40c6887361106b824",
+    "ba11eba46457e245e8bad32af0f839a1e59a66978049b8d717ad57a3a3f275e3",
+    "5cab04aa4d4ffff8749d09dd1f6e012531379165dedaf09facfba19f92d8973e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Kuwait's 'AA-/A-1+' credit ratings reaffirmed by S&P, outlook stable",
-      "title_ko": "S&P가 쿠웨이트 신용등급 'AA-/A-1+' 재확인, 전망은 안정적",
-      "url": "https://t.me/firstsquaw/194775",
-      "ts": 1795240489
-    },
     {
       "source": "FirstSquawk",
       "title_en": "S&P upgrades Zambia to 'B-/B', citing improved credit standing; outlook stable",
@@ -11504,6 +11497,13 @@
       "title_ko": "포니AI 실적 공개, 테슬라 로보택시 규모 확대 필요성 입증",
       "url": "https://www.barrons.com/articles/tesla-stock-robo-taxi-pony-ai-3c97ab99",
       "ts": 1795358085
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "马斯克：AI行业明年可能面临严重的资金短缺",
+      "title_ko": "머스크 \"AI 업계, 내년 심각한 자금난 직면할 수도\"",
+      "url": "https://wallstreetcn.com/livenews/3203764",
+      "ts": 1795358328
     }
   ]
 }
