@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795345535,
+  "updated_at": 1795345684,
   "id_hashes": [
-    "7dc087a93a490f50e44a2194c22a705a7610c6220c1d2bdd33b68acf2b84579c",
-    "ae7ddcce0c67a3d34b29d66990c4859fdc78e48da971a46d4a35cbca886256fe",
-    "6f15135c40643c18a8bd37c38ca22931272e8a286995883c2bc4c254b1f03178",
-    "241d831486ef040bac2b1468f6c0d36f3da2a2d677a1472e0eba461c80a11e5e",
     "3728463b73717ebeaf795fb10ff7d990eedd04d8f44ffcf91a3c0ce29911fe47",
     "d89cffbbb94979a03d3ac6850ffd950857298a2e4963e72c3b56421921931f2e",
     "0d03142f2d748c33163850c281d75d0cfca069ab33b6f93584a46827f0578850",
@@ -4000,10 +3996,13 @@
     "7cd25a70776ce4ad775578b5df132f9c51ee6459a747ee53ae3a98fd0842f20d",
     "c014b3fa811e51c70fff8d3cc739e7b4dd4df8dca8ae20d30fd8b6cd18e54100",
     "46025735e69dd80663c338172b7621e8eb4c1c33ba9920b7fee5b937bdb46c56",
-    "88f5943ce914b6e4eaeb3138bdcf723aa8e3ad29bfb390e495b4764147a93ba3"
+    "88f5943ce914b6e4eaeb3138bdcf723aa8e3ad29bfb390e495b4764147a93ba3",
+    "54e72d9427e22fc8eec487039dc425843ec4b0281ffdae6c53a9e5fe55ff21b6",
+    "79d86b59f40f771aa883f4705c52f134163ab832f450deae10a3eca065200c9f",
+    "0e1268c4e6c886fccfee62f4007ec128864fe4e4c62f9c581694e04aab3db2a1",
+    "0316353d3a8b2d59d1556baa4322d4992b5d15b95258373b5c218909559cece0"
   ],
   "title_hashes": [
-    "3b94c2fe0e8f2b83d75780d31add6a6a93c050ec4820941212120f30c74ec0e8",
     "9219b44360b112f413d8e5920598d7d0f3bfa71eb27356a1779ec58e14883243",
     "e80fa4de16dd2931b507a4981fd66a84e5720e2f64c134a5fc7672c949c09562",
     "c6db426ac6bdbb7b33836b46c68b34e2ee30cee7697728aa98e1b7a074600389",
@@ -8002,16 +8001,10 @@
     "25a5babda6479bb6017a598d2ee52a387bedf9c0c0df824104ac0485bea3d330",
     "53ca3355475815f94f8934bed542abac9afc21604d60ff8a393253ba5f8911ea",
     "407f5da9727ff8a740336bde7f4eedf5c8798f3c860fe44970e5af14ac6976c5",
-    "a197096c6f698930c3832f53b71a50cc17deedf9b484f88928c44ba0d48202e8"
+    "a197096c6f698930c3832f53b71a50cc17deedf9b484f88928c44ba0d48202e8",
+    "c570c48889179d8515c541392f90315ec3c41778ab405910ee414ebe6bd13232"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Trump Wanted Stronger Iran War Backing From JD Vance, But Vice President Stops Short of Fully Endorsing S",
-      "title_ko": "트럼프, JD 밴스에 대이란 강경 대응 요구…밴스는 전면 지지 유보",
-      "url": "https://www.benzinga.com/news/politics/26/11/63514571/vance-trump-iran-war-midterm",
-      "ts": 1795229941
-    },
     {
       "source": "지디넷코리아",
       "title_en": "SM 인베스트먼트, 1~9월 순이익 700억 페소로 9% 증가",
@@ -11504,6 +11497,13 @@
       "title_ko": "엔비디아 급락·금값 중국발 상승·겐슬러 AI 거품 경고: 이번 주 경제 이슈 요약",
       "url": "https://www.benzinga.com/markets/macro-economic-events/26/11/63516917/weekend-market-news-semiconductor-selloff-gold-social-security-ai-bubble",
       "ts": 1795345534
+    },
+    {
+      "source": "Wccftech",
+      "title_en": "Apple’s Entire AirPods Lineup Including The AirPods 5, AirPods Pro 3 And AirPods Max 2 Are Up To $130 Off For Amazon Black Friday",
+      "title_ko": "아마존 블랙프라이데이, 에어팟 5·에어팟 프로 3·에어팟 맥스 2 등 전 라인업 최대 $130 할인",
+      "url": "https://wccftech.com/apple-airpods-pro-3-airpods-5-airpods-max-2-black-friday-amazon/",
+      "ts": 1795345558
     }
   ]
 }
