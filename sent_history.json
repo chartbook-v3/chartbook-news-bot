@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795359898,
+  "updated_at": 1795360051,
   "id_hashes": [
-    "59246071bc62519cfb1e620f6d061d59c14408fa63c3501d061421e30043cb0c",
-    "ffdbf6baed1cd5e9081e65fbd36362691845fc3a5d78d780946776fd9772926e",
     "7c2b58ae8e02939550d8ebf938d54eb213f07090db857c4ec46b3e5e04928e4e",
     "96cfe0455568d8e8f5f5facd8ccbda0c15f89cf03fdcd417809d130a63ea60fd",
     "9b233cff6378345ac50922e16d74917ecaa6ffa7b0fdcb6cc99dc5599668c2d3",
@@ -4000,11 +3998,11 @@
     "64e294cd2e041ee0f86749a7c78e5ad2af3a2d9dfc1bc90b0355117532c7768f",
     "738b3371cac1305f095baaf29265f4816aaf59d730434db1b203ac6fde343830",
     "257425a132b88de40c2993b68948f6aca6c9c25cfeed829e6a6cdc4f75792253",
-    "cbfb104882d0747a6d773dc4244c6432e2ff05d4066bee6e54ea1537ec595f78"
+    "cbfb104882d0747a6d773dc4244c6432e2ff05d4066bee6e54ea1537ec595f78",
+    "30de2f7533ac2459a40eefb50b0c99021ae804bf34e5162c9adaaeea21ebee2b",
+    "ade1384879eca716a905324fbbd74a1ba9329f0aef6dc01910145df4ee509a8e"
   ],
   "title_hashes": [
-    "6533f0fa63886a5e0bbc98b090d59478aa504f75ab4b57b3d1966911f91ee56b",
-    "b81bad908c0cb64f132558d073b4c775eb674f03b0539c3c4510934a10b650ef",
     "922f94b4ef68abf15b0f4fcd466bee0f1f9de6ece3d891a601137873ce5059e6",
     "8e7fb93564d1c8f64c16ad2f5550dab0146fc25e7d4e571ea88789ac7c2a8989",
     "39e8a44571323578f4abee680573112ed9853c25b76492ec0017734458828efe",
@@ -8002,16 +8000,11 @@
     "5cf3bf9ca623456d83f67590c56aec257751ae5b70a4fe1eb28c57d53279be23",
     "496be38abae9cd7772e9352fe410a015f0d70eb886880f9bf600e2363cce9bf0",
     "90fc25a6344c01fab1e50255c61879eeaaf5e4dab17f1d88528b42c3bb0223cb",
-    "eb13b38df130d99058f8525806c027e277e2a9b3db9ae55e6d526be31df4efc2"
+    "eb13b38df130d99058f8525806c027e277e2a9b3db9ae55e6d526be31df4efc2",
+    "1bdff1fbd2d2f1703aeb66b5ff93da4b78cd6023001ade8b2284f7974b4edc8c",
+    "4cdc7b1963631a8c539dbefca758df0893e2330068ad8b5402e37b85becc6df5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Iran should wait for Washington to meet seven conditions before resuming talks, Mojtaba Zolnouri, a lawmaker from Qom who heads parliament’s defense caucus, told Mehr news agency.",
-      "title_ko": "이란은 회담을 재개하기 전에 미국이 7가지 조건을 충족할 때까지 기다려야 한다고 쿰(Qom) 의원이자 의회 국방위원회 의장인 모즈타바 졸누리(Mojtaba Zolnouri)가 메흐 통신사에 전해",
-      "url": "https://t.me/firstsquaw/194779",
-      "ts": 1795242972
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Zolnouri said Washington had accepted the conditions in earlier negotiations but failed to deliver. He said the Supreme Leader had authorized talks in principle, but any discussion of other issues should wait.",
@@ -11504,6 +11497,13 @@
       "title_ko": "월요일 장 마감 후 주요 기업 실적 발표 현황",
       "url": "https://seekingalpha.com/news/4675401-here-are-the-major-earnings-after-the-close-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795359739
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Dow Jones and S&P 500 Outlook: Top Stock Market Headlines and Data This Week",
+      "title_ko": "이번 주 다우·S&P 500 전망: 주요 증시 헤드라인 및 경제 데이터 주목",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63517143/dow-jones-and-sp-500-outlook-top-stock-market-headlines-and-data-this-week",
+      "ts": 1795360050
     }
   ]
 }
