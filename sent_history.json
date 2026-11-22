@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795363660,
+  "updated_at": 1795363821,
   "id_hashes": [
-    "1070dbfe644720692850d7386cf7cf000962b07024f466bcf95785203eb4c988",
-    "e0278e1474c21cad861902536551a6f7d6cb6fa48ef2190c4d8524358cbd90bb",
-    "1a7574d87c30db0b2ece5ec98ac8b5a4405ceea7405602d78e52844fb85801c6",
     "d33697d27cf9eb7e8105dfee8205a4ce38ab3257b4afa8e8357569bee4bea175",
     "b6c33f07931c28c61fce089f7dde1bc088b22a92f66c254b61dd208929a02259",
     "9f03fb0586a0e41fcb46e57d623aac8bd3468d63974a9962638d9cbd9ea54737",
@@ -4000,12 +3997,12 @@
     "cbe17a3e73ee2eea6d95435d82be5c3dfa720146f1b739f56514eb3c7d19c7c7",
     "005e92263a7bdfdd543355ad5a23938bbaa180a5cb9f7aff96d850877d222f99",
     "eaf88dd6d999ae813add1fddfca05d301a076c6af854d1828d7f6ce58fa4de5d",
-    "25d17e864b1147240cf20e9b61eeb888cdf3420fd38c2e6e40c4fd649b20a245"
+    "25d17e864b1147240cf20e9b61eeb888cdf3420fd38c2e6e40c4fd649b20a245",
+    "e2bbee9041d0ecb934f3de44d1513d3a76b03a9c4c6757d3fbf4d73e5d14309c",
+    "176aa1eca83712b759e8e4874d127e279a523d8719ca7a6278881b25f7a8ad31",
+    "74407842183459ec0b8a3665c0099290f7933b1385090eaa1435e606cbc1e09e"
   ],
   "title_hashes": [
-    "4939aaeb0030520512e1be2a83724d608cd8b7112db5aa0845b9456114187d98",
-    "0eaab62601c5b6f9be1b1fff0e006b5ef323eeeef1cc57991bd1b56def71641e",
-    "45d02ed94c37b0e9c25ef543c7e4cb93a2b51e068801a26d004764e8d3a19429",
     "e20c39b7631d465ed207d5a64d0348fcde8610118b57735e2720cd55848a7768",
     "6997072e8ea9054d5a1d0ea8b5a7b3ac938d58abcb31b5fb9a7e3d72301ff56a",
     "4818817519511c4a3c6cbb99abf78f66019204c9e92df2b04657e48fea4db3e4",
@@ -8002,23 +7999,12 @@
     "3af764a12e75051a6b37fbbc686c07d0a072afa3f770c0c1a955b2731daabde1",
     "7dd965af2510767ba8b8957a6205fbbf686416827f9b725744ef1f52b08b989c",
     "e6206d30723f934f764bfbefcebe4b5f36da6e8017bff2531d5c97f6b1c044b7",
-    "9452f2b813175165f101a2652ddb2b4adea283243c5808a3b3a28f1f1d42f746"
+    "9452f2b813175165f101a2652ddb2b4adea283243c5808a3b3a28f1f1d42f746",
+    "0784e42aa80b6b1cb62ba4405f65e5e64784f9d3de4bbee253d4b27a286c1d4f",
+    "370baa332b1a2b02bfae238471c3744fe97bbc19c65bf47fa12a5b43e2505802",
+    "e191d8ea4bfa3d38da13e2e165e6fdf38e5cf547201d9b0eb8db6a4c27f70179"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "EU'S VON DER LEYEN SAYS WE STAND IN FULL SOLIDARITY WITH DENMARK",
-      "title_ko": "EU 폰데어라이엔 집행위원장 \"덴마크와 전적인 연대 지지\" 표명",
-      "url": "https://t.me/firstsquaw/194793",
-      "ts": 1795251291
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "EU'S VON DER LEYEN SAYS SOON, WE WILL PROPOSE A NEW EUROPEAN SECURITY STRATEGY TO REINFORCE OUR PREPAREDNESS AND DETERRENCE",
-      "title_ko": "폰데어라이엔 EU 집행위원장 \"유럽 안보 전략 강화 위한 새 방안 곧 제안\"",
-      "url": "https://t.me/firstsquaw/194795",
-      "ts": 1795251303
-    },
     {
       "source": "CNBC",
       "title_en": "Trump orders federal contractors to notify White House before giving Congress information",
@@ -11504,6 +11490,20 @@
       "title_ko": "1X, 가정용 휴머노이드 '네오' 12월 개발자 공급…로봇 학습 생태계 구축",
       "url": "https://www.irobotnews.com/news/articleView.html?idxno=49725",
       "ts": 1795363531
+    },
+    {
+      "source": "로봇신문",
+      "title_en": "유엔, '킬러로봇' 국제 규제 합의 불발…2028년까지 논의 연장",
+      "title_ko": "유엔, '킬러로봇' 국제 규제 합의 불발…2028년까지 논의 연장",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=49724",
+      "ts": 1795363811
+    },
+    {
+      "source": "The Information",
+      "title_en": "How Apple Got Caught Up in Google Search Ads Slowdown",
+      "title_ko": "애플, 구글 검색 광고 성장 둔화 여파에 직격탄",
+      "url": "https://www.theinformation.com/articles/apple-got-caught-google-search-ads-slowdown",
+      "ts": 1795363820
     }
   ]
 }
