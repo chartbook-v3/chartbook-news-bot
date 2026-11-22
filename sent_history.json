@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795371694,
+  "updated_at": 1795371853,
   "id_hashes": [
-    "9ef2a49a655ff94ade084fe756980e85542968a6b526b212e3e66dc03818d34d",
-    "3796b9a46e94ecd8504a1cc999a16dd67c6d6eccc4b1c24018527037efeecb49",
-    "846f35cfb7a385f36c43a2699f65a35b8ff14bde7f072befba9348af7bd8d507",
     "98746686d9ae68655a53acc2f8d7b321dc34bbf16e672c955e78f0c1b4657b17",
     "1ee28799d7e260b161421ad2cf71c71c5cff3c605cc5258cd87d3805c4006ceb",
     "77aef4c68d4aa658868a1351551390b893f41fd8a4c68fbc98231d1d22cc7e92",
@@ -4000,12 +3997,12 @@
     "2d4ccba0d92a2a2fddc5ac077c789601cf3ca75805d6f29b84df80b13395c4f3",
     "8fd7e9e94c19870672400e30a90b1d44b1d7e754248523e78218737d122219b5",
     "1bccedd008568dc31c3df76eea531d8fd3b50b48307f68241a58b4f17bd3bdd6",
-    "c1a3367d5445d5e948c2f0ebb632d3256edbbd81b5c92568a5a75df71fa21c6f"
+    "c1a3367d5445d5e948c2f0ebb632d3256edbbd81b5c92568a5a75df71fa21c6f",
+    "141e81df0b3fb6bc5289d53548d1d21d632144657d2cedf8122788d6cef81033",
+    "b5eefb8fac03258ea62f52fdf98e226b6622b8e995bbc2866b496d75fe3b31b9",
+    "7e18379e0da1e1b22e9cf08f317a9cfa784e5a31764542394b99892c7c497d8e"
   ],
   "title_hashes": [
-    "3528d82900c5f9ab4a84c1e6d75c1cb6e06e30d4a736e8d321e2ebeb953468a8",
-    "961f2fda1644a599d9615d69c76ef0eeecce44678c644e4284c7ca9be8962e34",
-    "4a8e4ac4f8f0af55294db77c09b6e946aeacf234d0a5e22ecbc0b26d9c197a1f",
     "e3909b329bcd14f668b09d3e28f54da2b8ddd2b08ba0d5809138c5d02439a022",
     "850f40704b5f36c50b4856e15dbadf74b14b0f6dfea661f815966b1a239a0f94",
     "97621bb9e09c13871994e30a64fa113ed2dabbe26eee34d2da69c4331e460812",
@@ -8002,16 +7999,12 @@
     "cc47b6a92c77d6c314d7cfd84949bdc3eba111a9049c3151d8061cfbe7a3413e",
     "c715118d9d7544bcce4b88667e3b068d020862936c0f3deff4b9b9975960e5c6",
     "a5cadf8c7cb1252c8d941be634b8e5640b2333dbab07e7afee24fa134744aa46",
-    "432241722c84e843f5cd93000ac5612961dcf07ed97a10b1c20ef51f61d762ec"
+    "432241722c84e843f5cd93000ac5612961dcf07ed97a10b1c20ef51f61d762ec",
+    "2fe4ffee9a1fe03a039950ef7417823e2f4af0be63bebd4b6452baf16dacd2e4",
+    "b46158eae4a73930b8d44ecbb6ea27dc6f7f69d8446b121246651935908ca044",
+    "a2c5d2afafbe55410e282fd172d553c58141f262d05497e35e08edf0f01842ef"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Charting the Global Economy: GDP Slips in Japan on Weak Consumer",
-      "title_ko": "일본 GDP 역성장, 소비 부진에 경제 위축 우려 가중",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-21/world-economy-latest-japan-s-economy-slips-as-weather-dents-spending?srnd=homepage-americas",
-      "ts": 1795256121
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Iraq's Military Says All Security Forces in Jurf al-Sakhar Have Been Placed Under Unified Command",
@@ -11504,6 +11497,13 @@
       "title_ko": "레이저 바실리스크 V3 게이밍 마우스, 반값 할인 32.99달러에 판매 중",
       "url": "https://www.tomshardware.com/pc-components/give-your-gaming-setup-a-serious-upgrade-with-the-razer-basilisk-v3-for-half-price-for-just-usd32-99-you-get-26-000-dpi-sensitivity-programmable-buttons-and-plenty-of-rgb",
       "ts": 1795371693
+    },
+    {
+      "source": "The Information",
+      "title_en": "How Amazon Plays the Long, Expensive Data Center Game That Neoclouds Can’t",
+      "title_ko": "아마존, 신생 클라우드 기업이 따라올 수 없는 장기·고비용 데이터센터 전략 가동",
+      "url": "https://www.theinformation.com/newsletters/ai-infrastructure/amazon-plays-long-expensive-data-center-game-neoclouds",
+      "ts": 1795371852
     }
   ]
 }
