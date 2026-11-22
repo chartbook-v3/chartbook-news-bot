@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795351393,
+  "updated_at": 1795351543,
   "id_hashes": [
-    "935153ebaf032cb6fc2dc4a9aea907cd213deaa99f2ddab69012cef9cb37abe2",
-    "d52412333559804e4a12e63d19cb7be1bf32f36bc15dca98486f35565a559926",
-    "39a711b71c7cf167677af01b9cf7848da68503100805ba96e55b1d1f4d5ef446",
-    "a4cbd605098bc618b78af3671a412f75f9a45fbed56aa2b10d69bbf30a14b00e",
-    "adff84471b1ccb66b2dfd237b083cc1f6b8884e478f64503240bda3b9b4d214e",
     "70879c4f4775ab745884e5867b9fa62a2377a2780d588a2149f38c1c1d63be63",
     "3624ca1a943730925df0646c1805abcd1b44bde4e40eef0cf8612d08244b79b2",
     "9d1ff93587b17de86c52626530a4167acebeaa23a48cf307d608c8afeb3d4eac",
@@ -4000,14 +3995,14 @@
     "d2ed1da333cd15337e78197c70928c60ac050f40821937b66255cb5a2bc4ef1b",
     "1c1a538547388e601899227943588df50e37d6f011ae282088412f4bb786aeb6",
     "407c51df7c062ea59f169205ba6eb43a56bd79ccca84d5d3a1d18ef5081e6368",
-    "0a7c46abfb90f8b44ba426bbaa6b462ba1a1d48307f59d039c1a7a342f7ef33f"
+    "0a7c46abfb90f8b44ba426bbaa6b462ba1a1d48307f59d039c1a7a342f7ef33f",
+    "3ddd1e8fee9252a3f35b512d65a7e34ec41d2d0a95bc0b6b325428995f324bac",
+    "23897b89c2cb2efcb1a206dfad738bd0174a9e23703d0c2e4c48e2a023a1eb74",
+    "bc26070323b74916611b40146bb38ad75fc77721a54f2ee416cd33a9110d3471",
+    "5e451fedd31537d2d9cca424f54d7ece1891632cf1ad0993a69ff3ed761ee012",
+    "03f37bd4814020e40b11e6f6d26cd82e6aa7161eedbe388e67ea9c7470d1ff1d"
   ],
   "title_hashes": [
-    "c28657a1bdafe91fface3ddc058a0e72089581014c3f3d9e994bc67d57e69a55",
-    "4d12c11e7a57531e2bd06a832b62516f982660132e340ea08e4adc9692979195",
-    "00212253523d048cf7d9b71657ced959b5bb53e033ee51f5c0b4586cea954156",
-    "6b6c65d8ec526a089914cd279516fbb8de7c869ad10e24d1a76dc57cd3c242eb",
-    "3a4c53e07ad6046ac67144258a7f236760db46da16bc5e90a83b4bc09979ac3f",
     "647ed4100a57bdda75b8e58d692733b96bf7c8b137476c2ed364e76642db46d8",
     "9225291ba8a14fc81fe8165f493afc7d56275715bdbf80db2a50ff6e642f2240",
     "a32b15c12480e7a80663fd7ff2996c96a2b31d4b7bd3f831eb4a7bdc8a05957d",
@@ -8002,23 +7997,14 @@
     "8eb2b6434f295f2e33f4104563117578b99c83a96f90c587bc13c64386026a53",
     "40bc49dc53e7c6919c16c80affee2136fdff5252b62b081c130b55731221249f",
     "86f9873e5520c549aa7a8bbea5bf3c2161045858ff5769aeb4ccf864faba778d",
-    "eb14eccd55211780fb3452680e8df0e81f937dca52bc428d6d35cdc236bd895b"
+    "eb14eccd55211780fb3452680e8df0e81f937dca52bc428d6d35cdc236bd895b",
+    "76952b9dfbd60544af13c75a85105b11b392171edde8073f892bc1b62a0f9e36",
+    "87ec3e7e8ec0d526e28261ad648346e286a85cd0c8ff2860ab4b8206949310b2",
+    "60c6a87dc27bed574dd250a3569baa2017a78e124372ee2ee2e956703a6370ab",
+    "02e6fb73c2c13b35631e76b02e957e2e6b1cfcf8911b50ca586ff8ca81eff79c",
+    "3c9d03038f0dff58748da80d8deda607ea308b6c86e7e653f51fff83dbffe3d2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "UK Debt Affordability Is Expected to Stabilize as Inflation Cools, but Interest Payments Will Continue to Weigh on Government Finances, Moody’s Says.",
-      "title_ko": "무디스는 인플레이션 둔화에 따라 영국의 부채 감당 능력이 안정화될 것으로 예상되나, 막대한 이자 비용이 정부 재정에 지속적인 부담으로 작용할 것이라 분석",
-      "url": "https://t.me/firstsquaw/194749",
-      "ts": 1795239187
-    },
-    {
-      "source": "머니투데이",
-      "title_en": "[여의도 투자본부 2부] 카카오게임즈 vs 노머스 vs 에스엠 vs 오이솔루션, 공략법은?",
-      "title_ko": "[여의도 투자본부 2부] 카카오게임즈 vs 노머스 vs 에스엠 vs 오이솔루션, 공략법은?",
-      "url": "https://www.mt.co.kr/stock/2026/11/21/2026112113547083618",
-      "ts": 1795239244
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Better Hungary-EU relations have significantly eased governance-related downside risks, Moody's says",
@@ -11504,6 +11490,20 @@
       "title_ko": "\"中 국가안전부 '엔비디아 스캔들' 2년 전부터 AI 반도체 확보 작전\"",
       "url": "https://www.news1.kr/world/northeast-asia/6362162",
       "ts": 1795351392
+    },
+    {
+      "source": "www.calcalistech",
+      "title_en": "Palo Alto in talks to acquire Israeli AI cyber startup Terra in deal that could exceed $500 million",
+      "title_ko": "팔로알토 네트웍스, 이스라엘 AI 보안 스타트업 테라 인수 협상…규모 5억 달러 상회 전망",
+      "url": "https://www.calcalistech.com/ctechnews/article/4nq9tjogn",
+      "ts": 1795351418
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trump’s Asia Trip Leaves Key Issues Unresolved",
+      "title_ko": "트럼프 아시아 순방, 주요 현안 미해결 상태로 종료",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-22/trump-s-asia-trip-leaves-key-issues-unresolved-video",
+      "ts": 1795351478
     }
   ]
 }
