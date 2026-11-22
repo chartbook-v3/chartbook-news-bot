@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795335118,
+  "updated_at": 1795335265,
   "id_hashes": [
-    "63dc0301c77329ec8db0764b9b922d5c155294f2872d5c1a467ad2a9acbbb7d0",
-    "b31cca1a4f442b846738f3482c761dcb1762c29087fe457c90a1e7622d6ed460",
     "84f45d52a67fd8e655d3ee1c8cd692ea14e2aa566d2313b8ea9bd037c62af923",
     "7e9df57aa695205be03aee83c6d712ccb61cb68551add1e658183a8128c7cf99",
     "40655bc20e2d3b492cd8cf392580e3db3ec7fd344c072643388a5893e22a2d84",
@@ -4000,11 +3998,11 @@
     "1cab85fdefd516c077f9ee16113994a98f71b85801ca854289222b172127683d",
     "001f811d31d34b3bcbd60b4bac12dd48ec23c07fe1f54e8344466dd9799fce91",
     "14a5e981f457d9341d8f56f746a25172f5600e5abae2ecca98de69df37f301eb",
-    "f919b265a74483b3633cc7feb5fe5f48d4ba7ec0256b455735d79d2c9df6b906"
+    "f919b265a74483b3633cc7feb5fe5f48d4ba7ec0256b455735d79d2c9df6b906",
+    "ad74d7ae0c46ef11280158368b7261e3935db0e9ea479c34ba05aa1b7f8b6401",
+    "63cf622e4a11d5eaa6572e534eecd29e3db3b61118fede5c914a2da63bc25906"
   ],
   "title_hashes": [
-    "e11fa09045e2b2f93cebb86e0f4d529fe41d31fa3ecdffe221e2588d14be2f2b",
-    "c4f7a279e375539185ce7d90cdcd39c0691b6e001dfe4a9cf3a5391da9373bf2",
     "aac540409bfaec063057368ef9204b05a7bdcf015ee6313e952599ebae8aa7ad",
     "cf0309bfcd6ebf5746c282d1c62a325964b82312645a69cac51b3bee3d0d6422",
     "36b668b587282fd0a023e2c2e0910728be99b4c36936e65579addcc084105ad7",
@@ -8002,16 +8000,11 @@
     "4327ffc9d80a8bf91f45761d620f0d648403d0a0a369229c2d1f8a5b444ece39",
     "91a5a3d9b9a72706178866782361edf6cfe5a91eae67db9807a570a6233ea38f",
     "cda19dcb7b0e77904803a25b9ff88da4dd0a6c8f8e2e81e1407d9c1e8ad29374",
-    "1d5c17460f1d70305ee18a1b0d4c1414a6d98699956cf96a8591806e0b557956"
+    "1d5c17460f1d70305ee18a1b0d4c1414a6d98699956cf96a8591806e0b557956",
+    "5bdd5a4de10fbbbb2b008ca78b5ad6871ab6cb57d872b37c507c0d662a3d1621",
+    "1a84af71de3cea761f69b39ee5cda4b0cc82ccfb3f8b5d0a996347e7c3302154"
   ],
   "recent_sent_articles": [
-    {
-      "source": "서울경제",
-      "title_en": "美증권위, 엔비디아 회계조사...‘싱가포르 매출 제외’ 주시 가능성",
-      "title_ko": "美증권위, 엔비디아 회계조사...‘싱가포르 매출 제외’ 주시 가능성",
-      "url": "https://www.sedaily.com/article/20117192",
-      "ts": 1795221750
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Nations Spar Over Fossil Fuels as COP31 Climate Negotiations Spill Into Overtime",
@@ -11504,6 +11497,13 @@
       "title_ko": "5000선 깨진 코스피…증권가 \"4300선까지 밀릴 수도\"",
       "url": "https://www.news1.kr/finance/general-stock/6362048",
       "ts": 1795335117
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "Alienware Aurora PC with RTX 5070, 32GB of RAM drops to $1,899 in Amazon Black Friday offer — Core Ultra 7 equipped PC is one of the best value prebuilt deals we’ve seen so far",
+      "title_ko": "RTX 5070·32GB RAM 탑재 에일리언웨어 오로라 PC, 아마존 블랙프라이데이 특가 1,899달러에 판매",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/alienware-aurora-pc-with-rtx-5070-32gb-of-ram-drops-to-usd1-899-in-amazon-black-friday-offer-core-ultra-7-equipped-pc-is-one-of-the-best-value-prebuilt-deals-weve-seen-so-far",
+      "ts": 1795335138
     }
   ]
 }
