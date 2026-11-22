@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795390079,
+  "updated_at": 1795390259,
   "id_hashes": [
-    "7d20624a1cea2a7ca025b94c7d97d94cf72c3971bf8fd316ff96c69d94b72bc1",
-    "330c24c1b93d89ee166c992b3e72cb7a5b8aeaf018e92e264e6cb8ef53c074ca",
-    "71e4964d78bdb64deb3d90eda4099de831c321f423505a6849cf76b7601261ff",
-    "c0ab9e6e1cdac3462ea00c019aa190295a949655d9073f8bd7641535ce72a274",
     "868b5f00b69ede3949181009ccb0930fc339341188e91decdd1a06b7455cbab3",
     "17874bf8778d78776f55f95cbce86c770741c78997ad6a8d51d2aa81a8212048",
     "3c74a7a4454fe7825316e9cfca4a9bd481be09c70aebe0bc74e45bce25a4f5e9",
@@ -4000,13 +3996,13 @@
     "cc938b380fd4f02b8eb1d5ab70fa36c7d65071aa1ff7f15111ff7e9496a1f660",
     "3dbefb046e4a9215578fdb7ab0740681b0f3ecced9f5725c5ae50ae0dd34ef53",
     "2dcafbcb221fec08c7c8ddbf4d89f8c58c42e157244e8b628bfffca74a83c1e0",
-    "68a4d9edd7347c40cfa97bb182efa770751f1848fdc9c1403d44b30235b7c816"
+    "68a4d9edd7347c40cfa97bb182efa770751f1848fdc9c1403d44b30235b7c816",
+    "102422e91e8d62bac1b4fd68331cf316a173ed1be0d058690306745bc7ec97b1",
+    "0ed1dba54d6f2b923f91a78a56675192005b60aa1251d177d8406abac55cf8f3",
+    "63bd3f8c110a67433e6974a8248a2d56540aa74160fb9016c1ac886b6af37dc2",
+    "aa1bf74c8686ce21cffde80ca6d6bb9121b5296ba62d590d05923cfbdb426aa1"
   ],
   "title_hashes": [
-    "1a6f0947f7b75330517e1428b7703df61c5117ca2a03af530a3f5f3d136e0595",
-    "cb7f1f847498dfc253024ef2bc019d8ac9f2be57ef98762fdbcc84d061a70c04",
-    "ee975aa1af6c11e4b7ee2c7c680348f7629f650fbf761bb0497346482c10c8b6",
-    "5ab43fdd022eb76183a2ea2f647027dfdd2eb6c230d78dad897aea2b582491dc",
     "2ef9b28cfe4d529c848b3d8cdbdbe7f53be5150a6766784379aae5a5c78953be",
     "d5a229337e212de50655edfc79c5d0351c94626431ef7ee727c85d95c9350768",
     "52e17ef430bea3a18dff7f78d9a2cb460e167f5a331caa727caa23b37e0c6955",
@@ -8002,16 +7998,13 @@
     "1653dc81de41b4ce285d3a8f93f93e0393cb74ec6c227f53286cd10e024d4ce6",
     "bfd72d8f51bae7df0676f80c2769ccedf9d33f8d893951e95ed2f3e5834ca7fb",
     "f1e07c2901421e1b33cdfecff50b4d9fb734818ff63d4900bb9a032723e8efd5",
-    "439a86a7cc7bf9dd85fa476bc8dfb145ebbd1ebdc347b53c8b0fe829221766e5"
+    "439a86a7cc7bf9dd85fa476bc8dfb145ebbd1ebdc347b53c8b0fe829221766e5",
+    "01e2ad47d66a180642ebb1322de9450aedf264e68e253bd822a472f2abd71bb6",
+    "3687b1a0c7a9c06ca8841dc5a5914f44d2429d45e030acb1f2feec8936549957",
+    "6c19ec3fc321ca3543bdfe0ea46e9e7e57c934df8fee5b2cc1b73caf959f6c68",
+    "e23470a0fcefd15d7ad0e4de3edc3f61d3fd49524b7de3068605702dcfd188b2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Saudi Civil Defense: Early warning sirens activated in the Jazan region to warn of danger",
-      "title_ko": "사우디 민방위대: 위험을 경고하기 위해 자잔(Jazan) 지역에 조기 경보 사이렌이 활성화되었습니다",
-      "url": "https://t.me/firstsquaw/194828",
-      "ts": 1795266963
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Beijing Maps Out Space Mining Ambitions, Plans Major Moon Mission Within Four Years - SCMP",
@@ -11504,6 +11497,13 @@
       "title_ko": "미국 국채 선물, 아시아 오전 거래서 하락",
       "url": "https://wallstreetcn.com/livenews/3203799",
       "ts": 1795390078
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: 🇺🇸 US STOCK FUTURES OPEN GREEN AFTER $2.7 TRILLION WAS WIPED OUT OF THE MARKET ON FRIDAY.",
+      "title_ko": "미 증시 선물, 금요일 2.7조 달러 증발 후 상승세 전환",
+      "url": "https://t.me/marketfeed/1083546",
+      "ts": 1795390258
     }
   ]
 }
