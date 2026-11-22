@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795311427,
+  "updated_at": 1795311575,
   "id_hashes": [
-    "525e4cfa8ebb4d5f9ee227a0e639b18975f15a10963c83e781794eafe8360aba",
-    "5862307f7718448afff056df2bde5de88973bd48c0023892fbafbf845792ea61",
-    "83101b200c488e627b46850950294fb77e1d089f48812c0304478cbb9280010c",
     "059eb3f9b6f49b7e66ad1d1dea7fe2bc430ce4dc660d3f0b06cbcd190df4bc89",
     "ae38268684065dcfc74b4cf67011ccfceb4556246a75193afe92b4460e5f685e",
     "e0972fa756972a0bda37ac606e81617a975bad59670e0466b61d0b274e0fbfb7",
@@ -4000,12 +3997,12 @@
     "315d2d5553bd357d6d87c5a3b6b8bc9e07008d64177763cc1e61a04ecaeeb92b",
     "19f0588176fa9be413a5e0ba3f228ccb2acbc8aede96f756ae4f7126b562ea4e",
     "460162baa87f802fc6e3ec8a50a389ae63820729c0b9600ad65ed8d426b226f5",
-    "a9604b77b37a7f5fc9d9205680079764532319c381d8d8cd4a06484398ac3e1b"
+    "a9604b77b37a7f5fc9d9205680079764532319c381d8d8cd4a06484398ac3e1b",
+    "18d202225e6d16768663efe45b583dabe3927f332a53c66fbb43a805260af2ca",
+    "d29676e9d7d2882297fbfce4ebaead073dec8a55c9d8f59dd5bdfa6e93e1cce2",
+    "7a405d94a2d309d493bd20888dcae8837244ac197bd952595481b971bc144668"
   ],
   "title_hashes": [
-    "aca726c34432bc4840ab069e90169489774eead7150449c6497b4e3c429ef12e",
-    "d5c5a5b8f3a23207ec4c90fc77fb8bc72314213aa6fb97f3024310987bcc9784",
-    "351ace71ad282c0adc5b2cea2613b0e1db5891da77aa61e53760c1a02d9b271f",
     "698653285822ea177d348d888362e032e8d99b16872512569b3f9cc49425f473",
     "7434fb0bef294c281152020aedff342feb29785da000f586dd058e7a8faf2cd6",
     "661f55909183aa4dbea31d1866c5a69a274ee9335299e8505fd35ad5f1ac5021",
@@ -8002,23 +7999,12 @@
     "2a04a06c58cb11b20f74d07b1a612b34808e36bbbcc51cecdebbad46bf064011",
     "9cd4f6260a882928f6dae6aab954e6ea10236f9b89c31b7d88f252453e9443d0",
     "f81930de0f4a2095d120f8e4981ea40e7201dd04d0b1bc7e6a889cfc38dcc43b",
-    "e5fe126a94a387bafe02621bf7a5c8cb0fb200904374a02632fdfb6f6a978b55"
+    "e5fe126a94a387bafe02621bf7a5c8cb0fb200904374a02632fdfb6f6a978b55",
+    "11be5415c96f29c919b0d065a637bf771fa922f77477aefebc06e4e5a76fb17b",
+    "f4c87e8196fe10f456fae82473aff4f696fa73eae0d4f4d33301487b438d8d65",
+    "e0c7d7511801f4dc26ea1fb294a2038c19cc3ff9ba2503d9aa058c7cb47e8ac4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "글로벌이코노믹",
-      "title_en": "[뉴욕증시] AI 쇼크에 '검은 금요일'...엔비디아 14% '털썩'",
-      "title_ko": "[뉴욕증시] AI 쇼크에 '검은 금요일'...엔비디아 14% '털썩'",
-      "url": "https://www.g-enews.com/article/Securities/2026/11/202611210621035239e250e8e188_1",
-      "ts": 1795210096
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Nasdaq plunges 10% for the week after Friday's bloodbath",
-      "title_ko": "나스닥, 금요일 급락 여파로 주간 10% 폭락",
-      "url": "https://seekingalpha.com/news/4675354-nasdaq-plunges-10-for-the-week-after-fridays-bloodbath?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795210118
-    },
     {
       "source": "IT조선",
       "title_en": "AIDC 뜨자…5G 주춤, 광통신 부상",
@@ -11504,6 +11490,20 @@
       "title_ko": "한국 투자자, 9월 미 국채 1977년 집계 이후 최대 순매수...7월 국내 증시 급락 영향",
       "url": "https://biz.chosun.com/stock/stock_general/2026/11/22/MVRWGNTDHA2TSMRTMQ3DIZTDGM/",
       "ts": 1795311426
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "한국 참여 컨소시엄, 5천600억원 규모 베트남 고속철 설계 수주",
+      "title_ko": "한국 참여 컨소시엄, 5천600억원 규모 베트남 고속철 설계 수주",
+      "url": "https://www.yna.co.kr/view/AKR20261122017700003",
+      "ts": 1795311512
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "华龙一号再添捷报，漳州核电4号机组三台“巨肺”成功安装",
+      "title_ko": "화룽 1호 또 쾌거, 장저우 원전 4호기 '거대 폐' 3기 설치 완료",
+      "url": "https://wallstreetcn.com/livenews/3203704",
+      "ts": 1795311515
     }
   ]
 }
