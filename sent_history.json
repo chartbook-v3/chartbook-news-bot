@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795359582,
+  "updated_at": 1795359740,
   "id_hashes": [
-    "1323e66defd6223003ef49f38f72e500464da8bfc7075db406a80f11699ffa2f",
-    "d26a6bc0a9bf8020b5a19647821f6e451e1afa2ed27b4bb65caf14fc1aab7bb3",
     "06fa99e4d817f8e0689bd5b3967f39591251c6fbfa6af0d72272173d6dd035dd",
     "a020dc8d4be894ec4650d61f0928bde5e5afa33d14284195cc32e3be379eda0c",
     "59246071bc62519cfb1e620f6d061d59c14408fa63c3501d061421e30043cb0c",
@@ -4000,11 +3998,11 @@
     "7b5951f48ab9646d102fded6b4b1bb6cbc5156b66f5e913c51d2f91bade86eb7",
     "bf6bc9d071f0f99d2bfdb54e013d52eb520e6e2d1383845ac7a5ad73bd7d4162",
     "89217780cd6d13b2943b2b2f57435fa2a42efc134ea6d7de1ee69fbd7c8fb1c3",
-    "28f3d34c31e1959774a0d5df097c74e3d3e57897f54e58ed3e4e203ccf31433a"
+    "28f3d34c31e1959774a0d5df097c74e3d3e57897f54e58ed3e4e203ccf31433a",
+    "64e294cd2e041ee0f86749a7c78e5ad2af3a2d9dfc1bc90b0355117532c7768f",
+    "738b3371cac1305f095baaf29265f4816aaf59d730434db1b203ac6fde343830"
   ],
   "title_hashes": [
-    "5a8a7f6dc08dbf2372a0574ac1ceeee669702f1e16cbe1fe68a8861242c04063",
-    "01f48daa9a7cb5ecd368dbef958493db83c3ae4983aea7e3de7f841c58bb5251",
     "f659f32ade0d8692cd49ec049afd9bcebe2d2dffe7c2384fcafb6f37c0aeb54c",
     "819b14bade2236f3e71f1c17b712f05a5c6a6a4adfc8e2d68b3d787fc4cead16",
     "6533f0fa63886a5e0bbc98b090d59478aa504f75ab4b57b3d1966911f91ee56b",
@@ -8002,16 +8000,11 @@
     "63f1a97ebff93a09a3db8a87261e086228a903f612381614eb0b2673acad9f42",
     "5dbb5803c718e3c6dc720962347d99086c32edb784f90b0b489ce8776c4d1b03",
     "62fccfeb25bab08042ff54786edc977bfef2f0999fd75441aad3bb5c23b4c821",
-    "49f76cd090847283f3d77d162a8af97bef9d0b6dffa6ed9cd7332bd3d3fd1c5d"
+    "49f76cd090847283f3d77d162a8af97bef9d0b6dffa6ed9cd7332bd3d3fd1c5d",
+    "5cf3bf9ca623456d83f67590c56aec257751ae5b70a4fe1eb28c57d53279be23",
+    "496be38abae9cd7772e9352fe410a015f0d70eb886880f9bf600e2363cce9bf0"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "California entrepreneur says state avoided economic disaster with billionaire tax rejection",
-      "title_ko": "캘리포니아 기업가는 억만장자 세금 거부로 주가 경제적 재앙을 면했다고 전해",
-      "url": "https://t.me/firstsquaw/194778",
-      "ts": 1795242910
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Iran should wait for Washington to meet seven conditions before resuming talks, Mojtaba Zolnouri, a lawmaker from Qom who heads parliament’s defense caucus, told Mehr news agency.",
@@ -11504,6 +11497,13 @@
       "title_ko": "트럼프, 민주당과 공통 분모 찾기 시도(테스트) 중",
       "url": "https://www.bloomberg.com/news/videos/2026-11-22/trump-tests-common-ground-with-democrats-video",
       "ts": 1795359525
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Here are the major earnings after the close Monday",
+      "title_ko": "월요일 장 마감 후 주요 기업 실적 발표 현황",
+      "url": "https://seekingalpha.com/news/4675401-here-are-the-major-earnings-after-the-close-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795359739
     }
   ]
 }
