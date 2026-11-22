@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795324635,
+  "updated_at": 1795324785,
   "id_hashes": [
-    "0a0b3831ef3c5d38b07c293cc9dfcc86d2b814bddb653edac15baf49fe7dfadb",
-    "d2df287de63c0f1b9a78395e604fa175b2af2a2f81a452bfd25238508762050d",
     "506e6eb523a03d6236f5ca0726bfb5c4f0540ff4c4c186ff3eeb3b1fe2588052",
     "d5a952ce05213e60344e1767305dad0dffa2a6d590098c815791d54724c8001b",
     "4bd15e9a363cba5447fa45ddb819011ca4aa6f5a647048de35de3ad75137ab5e",
@@ -4000,11 +3998,11 @@
     "e85c6a99a4d9fc47b0f32ccdb3a337a8d97605a8df2ef1172f1f5bc3c0dc58c4",
     "6cf9772c44073d2a5d222f8d5d78252c07d357c3c0332246a1f82339b2493c0b",
     "3ca6e1af06c239bfde49a77636da5086b8de5b1697fce828a52aec85328b2f5b",
-    "0544dff1cba3c12bc7773bb795b4c4f8307075c0191898bd3cc30c9341c2e977"
+    "0544dff1cba3c12bc7773bb795b4c4f8307075c0191898bd3cc30c9341c2e977",
+    "b8f265a41fda2aace6b147f96002a81316c078d5149950b681752013962e7881",
+    "4b7beda76b2e767b6fd07c831422477cf38f2ec85a5f9be2f3ae30ca9656ef06"
   ],
   "title_hashes": [
-    "c7691556f2b1d558208c7d0b30e0033f59b61b52f5cf2ef59e1807ff4a7e333b",
-    "c2efb4ccd1cc313aba9cba42fb48e0cda938721f4334c3f2f29687698674d738",
     "22cc87447c3f534e3e0b07a9a3a272a21fbb6efd824a59c73159accb05833d05",
     "b6f04af6dcadfd1c0d4420494345a97baf8616c05d01e985b9e9ea0ce63a6a1d",
     "94606a7ddb89cce3d4a03daf7d97f37e492bb1ce6595a9930ffc390c7c818fa4",
@@ -8002,16 +8000,11 @@
     "ee92127a6e7a07338d5d2c5d9d978abb9e01062783fe7dfab214de96b952ea0e",
     "c7aca791a744a3efd8165342d624e3220a4921f44de930b0baa2739b6ecc9df9",
     "794f2f568c8fab751fe4610af3971d7ac54636323865d494b5cac3b838d3bcc2",
-    "fed88a055595ff3b52024600161d3187a2feb6d08026fb7db08ac546afc72c08"
+    "fed88a055595ff3b52024600161d3187a2feb6d08026fb7db08ac546afc72c08",
+    "03e258a0d131f6947a57afeab8e49025316a655c8a789872934460b7e53811fe",
+    "adf9a90c05944913f0ec6f95bebb3d9f9983e022b7491ee1269b1011b59d07f8"
   ],
   "recent_sent_articles": [
-    {
-      "source": "StreetInsider",
-      "title_en": "Iovance Biotherapeutics Reports Inducement Grants under NASDAQ Listing Rule 5635(c)(4)",
-      "title_ko": "Iovance Biotherapeutics는 NASDAQ 상장 규칙 5635(c)(4)에 따라 유도 보조금을 보고합니다",
-      "url": "https://www.streetinsider.com/Globe+Newswire/Iovance+Biotherapeutics+Reports+Inducement+Grants+under+NASDAQ+Listing+Rule+5635%28c%29%284%29/27382482.html",
-      "ts": 1795213196
-    },
     {
       "source": "연합뉴스",
       "title_en": "인천공항 화물터미널 로봇·AI로 자동화…시범사업 추진",
@@ -11504,6 +11497,13 @@
       "title_ko": "\"앨리스 황은 '얼굴노릇'만…엔비디아칩 中밀수 주도자는 50대 중국인\"",
       "url": "https://stock.mk.co.kr/news/view/1203760",
       "ts": 1795324512
+    },
+    {
+      "source": "K-우주항공",
+      "title_en": "우주발사체 연료탱크 국산화한 검사장비 기업, 중소기업 협업 공로로 은탑산업훈장 - 플래텀(Platum)",
+      "title_ko": "우주발사체 연료탱크 국산화한 검사장비 기업, 중소기업 협업 공로로 은탑산업훈장 - 플래텀(Platum)",
+      "url": "https://platum.kr/archives/299211",
+      "ts": 1795324784
     }
   ]
 }
