@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795384619,
+  "updated_at": 1795384773,
   "id_hashes": [
-    "bafd2eaef98cfa75bfafa61692a4151d31dad3314bdecce008c427b09196643d",
-    "2eee9472afba9d5bd8468baa530c58f9e95404bea48e1cbbf092b70286e87918",
-    "29297e673318bb7a7f0d04e0e99c8f949926d5c49886557b8f3a5174c6cea22e",
     "4ddb5cad58d0c96790d1d1c4154fb0f6934125009b3cea59728cbaca07c8d1ee",
     "8b3d5e112ee9698bd66c26e5255a26a4bd881346da30e025e668ca3b58d1e0fe",
     "e38cb9b707eccae7ce30382eaf2232aa0e983df50ef1bf79955c7b793b42864e",
@@ -4000,11 +3997,12 @@
     "7d5c922553023a5e27aab0a03a28e9ea7cbc3314c46f3693e9435a4b98483f02",
     "9c4473867f5d9d946976edc375516709b739a9381f53f0180a81a9044e036d9e",
     "bb2ba3720e9cf7c9c700314482289429006b1cad277e8dd347bbff7c6b7387ac",
-    "ba5a4da844b2fca6e45e47ab9327cff53a5f9f7598ade76600071f1ac6d604b1"
+    "ba5a4da844b2fca6e45e47ab9327cff53a5f9f7598ade76600071f1ac6d604b1",
+    "950a049feb0c44ed417d41fa78cc48a6e3e50c853b0144a4124aafaa1fdcd00c",
+    "fd16bb413b74e8372e0c4a0b34ce5f127803102c3527ff8fc5c34d88e6eaf09a",
+    "eaf53a23c18ef02129ae990dc0818ad1a61bb1d33487f75c811346cf6db610c3"
   ],
   "title_hashes": [
-    "0be9449142a380a683df8436d52de46cad0cadb8238d0017519008d2a4c8a820",
-    "2065d5ec0d875872fe87bfbef0aa6ad28cd66341b800600402cdc18be03264c3",
     "102d36c317f13dca17e0abd6fca85132f0c50712c7097ccc8f5e06c264b53eb7",
     "58bd36501d337db78f55ff90c7dbe84caf675a3958d3018d90f531ff315c4377",
     "7f2d049b3ecde2e1645454575dbfb5fe7638654323db087baf2b413a1e96efaf",
@@ -8002,16 +8000,11 @@
     "d1d07a1ea07b9073e0ff77493ae731cb0c79101f9a91c576632d5737f0fd48eb",
     "c42f408441ad12d6bee62dd93d3833467ebc86d13135fb8cef9163bfa6cf6be5",
     "cabe9853272d0402dba220cdd0cee64be1c052692577c484e4e8fb0cae2c12f8",
-    "b73d2d02ec30897b6914b98a4de6e9c3e792f2b2efc03f0b73a95a342ce4819c"
+    "b73d2d02ec30897b6914b98a4de6e9c3e792f2b2efc03f0b73a95a342ce4819c",
+    "a7978cb21e630c424544de54542232e25eae3cebd9743503656c43b8ae432d2e",
+    "85325c6cccdc9b0a3050906633aba622206466e168065544db9bcd867e794a5e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wccftech",
-      "title_en": "Hydra & DRAM Calculator Author Responds To Recent AMD Ryzen “Zen 6” Rumors, Says Summer Delay & Process Node Info Is Not Accurate",
-      "title_ko": "Hydra 및 DRAM 계산기 작성자는 최근 AMD Ryzen \"Zen 6\" 소문에 응답하고 여름 지연 및 프로세스 노드 정보가 정확하지 않다고 말합니다",
-      "url": "https://wccftech.com/1usmus-responds-amd-ryzen-zen-6-summer-delay-process-node-rumors-not-accurate/",
-      "ts": 1795259454
-    },
     {
       "source": "Barron's",
       "title_en": "Insmed Stock Jumps as Sanofi Eyes Takeover, Report Says",
@@ -11504,6 +11497,13 @@
       "title_ko": "뉴질랜드 3분기 소매판매 전년 대비 3.5% 증가 (이전 3.3%)",
       "url": "https://t.me/breakingmarketnews/179663",
       "ts": 1795383959
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "GOLDMAN WARNS STOCK MARKET BOTTOM REMAINS UNCERTAIN DESPITE EXTREME SELLOFF",
+      "title_ko": "골드만삭스 \"극심한 매도세에도 주식 시장 바닥 여전히 불확실\"",
+      "url": "https://t.me/WalterBloomberg/38879",
+      "ts": 1795384770
     }
   ]
 }
