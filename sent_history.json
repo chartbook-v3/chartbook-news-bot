@@ -1,28 +1,6 @@
 {
-  "updated_at": 1795449051,
+  "updated_at": 1795449201,
   "id_hashes": [
-    "88560846e1b036615b4ee1064e3347773a5d53d63f60581858f52abd7854dde6",
-    "5d7c4862f18e345fe9c8c7683ee28ac6f0b6c557f139acf693109c9357025c3e",
-    "083df1d2e399c172e7bbb970589d99b2fd82428e866669814ac16bc09e18e68f",
-    "6c5e8ed5043af08475c43d0754c8d1291ba30333f1dfdfa1fcdd83cb15be0d00",
-    "eaff9d47ae1420ecdb4c34f07ad63756c9c68579e8ea50c48d0f27497a8d3f7c",
-    "77da4a32d7fba64815175bc029cd68ac3af4c6a0440c41839fdae4e8442bd115",
-    "b345b80ef7823c99688cec1fcb1d37cedceb90b7ed3911e9ba863880669287c6",
-    "7631791a8fcc2976a688aa198f59f3e6bccb0cf005e2a790f69a5c058f20a15d",
-    "6fc2cdf11f35f352a60a2eb3269a969a22c56b6cf429d3e696562a5a6ab3d571",
-    "7385e7b01a2ccf36f2b19de91363440e85b3d0427b952e0d440a076f8a865a6c",
-    "f1f504086c608ec5790106d4505c1bff70633b8c827cd1a2b73fa15145ff223a",
-    "92a855b983d0497008058e02167f3b971df7bffeff562a1cab9dc79e8435f7e3",
-    "cb4101b90cbdb9db1cf6bc1c0557e1fdc1d85b19f151963a4ae280ae4ed3521b",
-    "3fa480233f238f851b8422acee42c14f9573ce424854473254dc8404c99d53f6",
-    "e66f85cc45652033998ccce619326b6fbae459bbc60b9d43688f29141e9757b6",
-    "2a87ee298c68bb07d4a1575891b4102ee4b6bf93a5ddfb111141cfd52156ad4d",
-    "8357fa96d0a0f85e18bda3a4dfdb0b75e76344641c7359e7511f2065d5e389ad",
-    "c7c9d7685566d9f4fbae411a0fc117bea287ad1fbeb5e0ecdac85146dc0ecff5",
-    "6cefd87a7c683eca986fcd0895df4d2a2a22bf1e20282c52879e5df8a2f5a168",
-    "1cc56a1491bc55c11d21ba51b60e1af552f7854f69c6070b1a6824753cbe0685",
-    "4ea27b7066d8b2a9f8573f85e4dd804cb0d419c92d279f34643b979aabf0227c",
-    "30e9db8e09360d1767c1a65a09f3c7e1da6263b50ddc9169bcc40cde46b33c0c",
     "e4c940f66fcbcb92eea51ada6ec7a823ae8d4665263fdb93e998c5978503c353",
     "c4a69c3823a86689fca1ce665776d309292862dd0b65f643d04d48506d5b7ad8",
     "2fadea90ef1cffd34b19192a7fa90221b24ccacad75356eb5fa0944fb8ed6230",
@@ -4000,20 +3978,31 @@
     "a02b298d9d158e80fbd1092a99ab26d2aebbcd2fced473c5bfc8752634b0be2d",
     "a1c639bd27ab91725a3835b0d5d36aced768f1262b517c8e98172121188fcd94",
     "19817f052f1d8bf1b34368aadc7bc78229c31b9a68f0f5b2f0bf0adb3b1502fc",
-    "fc7ac53c36c5cd048636cecf568de438985ba2932280ea72b2bbc4e927ef9d35"
+    "fc7ac53c36c5cd048636cecf568de438985ba2932280ea72b2bbc4e927ef9d35",
+    "22b2501beada1449df76aa2f140696f8c21fa4dba8e4a4f82ae061d7297ef657",
+    "16adbe0c7707e2bccb34935bb9630e1063da200f1e85852a1f6642c10689fd02",
+    "a685a87da254051242f22d1b4d2f996853e72609adcb2786eb6626a5b7d7583e",
+    "13aa02d3438b429c6d4a6f33616ef5307067ba53d4c120b22ffdd55f040e6a60",
+    "4f8ad68d173113bc597b727fcecd57bc3b1c559a43668c7b9845e89300872331",
+    "fc2fdcea8f7fb35117a28086f229b3f4a72f6616ee8ebab8e02b0a8f788aa8bd",
+    "a509031e11241d04e9c52eade5cc28574de6682828aeb573273b6d6fb71e7174",
+    "758eb40db621b082d196b72fccbff0a2360c7f18ad019b93c4a9a72eb65c1e8c",
+    "7f032dffff435bf9b4375b33e2deff90cff8bc891a4d40d3aa45fccd4ae1f931",
+    "03f3421e7ed2668cf59c595d4f444a7194b482db7e39b44bd3e6b6abd504e3e6",
+    "c3f7aea158645c39308d18db7c6dd382444010d43c53e6c9dd15197063ef1e83",
+    "6b94a0acef6b45f08a512c3470a09ba6ef6e9ebe0d370f8f545f6c4b41ace32f",
+    "1b48b68f2159814b45d55f9287c8ac2c642e32f0b9f1f954d8fe8213f4414bc5",
+    "6516e55357aca7cd390bcd8e48de2779daf769f79850d4e1b5bdb97ad8ea5566",
+    "c2098c2882f24dd92d34b6d40e264c31d40f9587a0da980ff7b43f15d1ecb1ab",
+    "5b72abf92cde2b2fd96173e6e9ac25545e54fd300e7a86bc287bcb84b3f6910b",
+    "2a185186d311c08e9e2d24af3de4b88b23f871feff9b460fbd53442abba8edeb",
+    "5dcde99c6817f0158f995df7190d848fdac23e3587d6d06ac022f676b40123d9",
+    "2c191bb8693e69c72169c3bfbf4f4bc5efa8e26656a5f1ed82638c49f88488e8",
+    "8879c498a7e7a571ce8d371d7fa28eacc8c229448efd843bf5af5c6c4fd3bc30",
+    "d2535992493c493c6740f9102e4e7469e726899f0f4d98265531cef0e6ffb3f1",
+    "07e77dc25b4632aee7015aae5c3483f05c47bd5ceb7237d56817a36cb8fe8b14"
   ],
   "title_hashes": [
-    "c6a0c4774a49980c06c2c848c64f6809344565e09799d4df92dfb7776cc976f1",
-    "3c843eb161704cb458f1dfaba89113227eb5fb02118411f20649084fb6eed8d4",
-    "56039d32be80aa212f1e79babe347cade8b1769c64c5ef78fd534e918f83e95c",
-    "8e4413138badd3f6de6ce9438e420413128ea734e66a95fd3e2fb25d128987b0",
-    "af63d91fc9aab3048f2f915ee139340b381a7a1022285f5b33fc9d8cc399d886",
-    "9e69f89184168b4e336f3039ad8f3c7eb8c1aa389aadbc46559787527b165af2",
-    "4760d9a753654e89f836e1ae642833688071b537cbd7c0a5aba1e395856acfe7",
-    "de32779dd40cd13c61ddcad0befe06541c080684591da3f0b2ae0e2fb43f9fa4",
-    "a91096933d0316bc3b5e6ba6cd01771025b73b77f0926a6d6c92e8bfddac63c6",
-    "d39c421a61cf687fd7a939e48093fd8511fb80984ce2b8f9c2fe94a3a969188d",
-    "24097c304e7867243bc1c5a02e1fdeef8547167bcbeeee12c1cd1f72f4fc9cea",
     "e78dfeb683da4206174cfefb502384323eda941e8914d06934cf5d9a3c845444",
     "974003aa8b813520001df33f6bf0eea3e04664f15c9f0ecdee4fcce06fcb3935",
     "bd953eede400a7c4d74c78ddaf123c13f3be1b131e3daea4c6679554a96fbab5",
@@ -8002,44 +7991,20 @@
     "0524a505245db9a2aa7ca844bb4bf3afaa76eb961efbebabb771c328015662a8",
     "0fa563ace2b3fd826d701c9c2773524a8fbc5c770595e8342e81abe718b5bb8e",
     "c049d5f6e18d8aa808e4159b66da21d9be6621d51eee94a0c483c27296f40aa3",
-    "3300e8d870b3364112c369bfdd11e8f718022420f01e9e30bae5ef7ee4e5d9e6"
+    "3300e8d870b3364112c369bfdd11e8f718022420f01e9e30bae5ef7ee4e5d9e6",
+    "b1a4925dac7993a47317308d24078a55c045d21cc9561c423b2b8e05fd6ad379",
+    "bd99d22fce762162fabb4d45d43b3a573565e48a73b8d14d01a58887d3a02cd2",
+    "f3974c441212d10641ba4916c6ba7c919190c8a960aa70bed9f9b30d3b42f658",
+    "189504b8a19ba17dd19bb668aba74b922025319cd6ad03457811a210b4247283",
+    "4178b8d73f81a7fd923686e5c3cee1c7345a060845423ae0c203677c152763fa",
+    "bc65e78a9fe501af279676fc38f3dc0e178d9fba3c9cf9e445e6179baf01f521",
+    "5a073e5f536f6423b634bbc56fc8b0f287c1ff9a5a85a1b07b1804cf3ce60adc",
+    "8c53c0d8fc4a8f73f5a7ce4cc5fa82483b6abd26a77e8d50a0bd3d6fdd9bd2c7",
+    "af849878f6439338e2015e5e7a2c4e0f937e9b2a56bef5977171e8f60805895e",
+    "6134dbf8db15797b60d5c89e357bc65f9c85f67b6ce043052cc71f2f8bb59b4e",
+    "508b4774f37ae40705a094174bc51b2b230ea28f07962e0f8f56db17adb9663b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "获英伟达投资的人工智能公司Firmus考虑发行15亿美元债券。",
-      "title_ko": "엔비디아 투자 AI 기업 퍼머스(Firmus), 15억 달러 규모 채권 발행 검토",
-      "url": "https://wallstreetcn.com/livenews/3204092",
-      "ts": 1795423861
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "IRAN CALLS REPORTS ABOUT LOADING OF ITS OIL TANKERS SPECULATION",
-      "title_ko": "이란, 자국 유조선 원유 선적 보도에 \"근거 없는 추측\" 일축",
-      "url": "https://t.me/firstsquaw/195155",
-      "ts": 1795423946
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "乘联分会崔东树：2026年动力电池市场呈现“双雄份额松动，二线梯队加速崛起”态势",
-      "title_ko": "중국 승용차시장정보연석회 최동수: 2026년 배터리 시장, '양강 체제 약화 및 2위권 업체 급부상' 전망",
-      "url": "https://wallstreetcn.com/livenews/3204094",
-      "ts": 1795423951
-    },
-    {
-      "source": "서울경제",
-      "title_en": "[단독] 금감원·국책은행 서울 잔류 가닥…다음달 발표할 듯",
-      "title_ko": "[단독] 금감원·국책은행 서울 잔류 가닥…다음달 발표할 듯",
-      "url": "https://www.sedaily.com/article/20117919",
-      "ts": 1795424227
-    },
-    {
-      "source": "매일경제",
-      "title_en": "닷컴버블, 고점 회복까진 5년 6개월 … 美금리 향방이 반등 가늠자",
-      "title_ko": "닷컴버블, 고점 회복까진 5년 6개월 … 美금리 향방이 반등 가늠자",
-      "url": "https://stock.mk.co.kr/news/view/1204304",
-      "ts": 1795424230
-    },
     {
       "source": "한국경제",
       "title_en": "美 Fed, 내달 금리 동결 가능성 '솔솔'",
@@ -11504,6 +11469,41 @@
       "title_ko": "인도: 영국, 대량 스카치 위스키에 대한 높은 관세에 대해 인도에 우려 표명",
       "url": "https://wallstreetcn.com/livenews/3204409",
       "ts": 1795449050
+    },
+    {
+      "source": "매일경제",
+      "title_en": "텍사스퍼시픽랜드, 이글록 30억 달러 주식 인수 발표 후 지분 희석 우려에 약세",
+      "title_ko": "텍사스퍼시픽랜드, 이글록 30억 달러 주식 인수 발표 후 지분 희석 우려에 약세",
+      "url": "https://stock.mk.co.kr/news/view/1204467",
+      "ts": 1795449077
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "Baird看涨英伟达，将其列为看涨优选标的。\n\n11月11日，Baird将英伟达目标价从500美元下调至200美元，评级下调至“中性”。",
+      "title_ko": "Baird는 Nvidia에 대해 낙관적이며 이를 낙관적인 선택으로 표시합니다. 11월 11일 베어드는 엔비디아의 목표 가격을 500달러에서 200달러로 낮추고 등급을 \"중립\"으로 하향 조정",
+      "url": "https://wallstreetcn.com/livenews/3204410",
+      "ts": 1795449139
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Trump: I didn't discuss if Alice Huang were a spy with Xi. $NVDA",
+      "title_ko": "트럼프: 나는 앨리스 황이 시진핑의 스파이였는지에 대해서는 논의하지 않았습니다. 엔비디아",
+      "url": "https://www.financialjuice.com/News/9864670/Trump-I-didnt-discuss-if-Alice-Huang-were-a-spy-with-Xi-NVDA.aspx?xy=rss",
+      "ts": 1795449142
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Trump: Xi is probably not thrilled at the NVIDIA news. $NVDA",
+      "title_ko": "트럼프: 시진핑은 아마도 NVIDIA 뉴스에 별로 기뻐하지 않을 것입니다. 엔비디아",
+      "url": "https://www.financialjuice.com/News/9864671/Trump-Xi-is-probably-not-thrilled-at-the-NVIDIA-news-NVDA.aspx?xy=rss",
+      "ts": 1795449146
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "NVIDIA SHORT SELLERS SET TO CLOCK ABOUT $12.2 BLN IN PAPER LOSSES AS SHARES RISE TO $168.5, BIGGEST ONE-DAY LOSS SINCE AT-LEAST 2019 - ORTEX",
+      "title_ko": "NVIDIA 공매도 기업은 주가가 168.5달러로 상승하면서 약 122억 달러의 종이 손실을 기록할 예정입니다. 이는 2019년 이래 최대 일일 손실입니다 - ORTEX",
+      "url": "https://t.me/WalterBloomberg/38962",
+      "ts": 1795449150
     }
   ]
 }
