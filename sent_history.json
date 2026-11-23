@@ -1,17 +1,6 @@
 {
-  "updated_at": 1795402559,
+  "updated_at": 1795402719,
   "id_hashes": [
-    "0a066c9d49bdb98809537a72fe66153f1e35c115622d2c259d296619c9bc0f18",
-    "e980856d2dfaf0e6223604a86495b0c8959a9bf4eb62943692c63e442afb32ac",
-    "26b2a2011370c7d68c25e208e611c419aa94eea17b82d26fabb70620819bcf84",
-    "54a9fcd2590d350910da10c4f6be72ead443bf6a0a42dba3894c0cc9f97b1bd2",
-    "9973e2981b18cad334aaa2d0d71c9e083c59ba296a493884cf7878ee83fd76f1",
-    "7d1222b2cc1f518457419ee8ffee68344771f788877691479df89d516570cb69",
-    "e80847d451b95639c05210dc3eb5d4668bc01304a016a29a67c27f42373ece54",
-    "0f50e0d20a7d4ccf60a7aecb45a3f15e2dcc1809fa6c2b0dc49ae3a21c7439ac",
-    "463aa6250f4dbac17fa82227afbe99570c6a2c7cd4ff02117fd6d4a15a7bc596",
-    "4ae245cb265a753bf4d8a9b16989c023e205a99840d2606cf9b5b45348af1e95",
-    "2ca25da6aff936a4d403885d2e19fbdc2e3835329513858c0a39500ecfca3028",
     "15735913d6df0a2cf248b5cd9137315d13e628584e00c5e379b3e64b19d32e6e",
     "f4f5e3e0958eba5fe738088aaa3969a50bcdc5e16e8beeda1392b97b44f85ccd",
     "43b410f85d31b93598b1e3149bb20483d102f0d2fc1e91c79442500a72743bd5",
@@ -4000,22 +3989,20 @@
     "9dfec019d63278af5de86b39586b97ee1ad052e8aa5ed7ca2b2fd57981cd31c0",
     "e1ab8894e2f90a29c11f28ba7dfd5214cd54504a05779b43d12f6ccd5e73ef5d",
     "9a79c0075ce6d9d1909cbe7ef46127cd71255e39797eba15c1e5efaf2e02433a",
-    "23f063fa8b66f0ae5d87f770d57efe86b3fad0a70e4c35ac2dd4adf18e78725d"
+    "23f063fa8b66f0ae5d87f770d57efe86b3fad0a70e4c35ac2dd4adf18e78725d",
+    "9299d9c1d221c8abdfcb4d7bb8128fdc26eb351731407c8330bc10bee08b796d",
+    "9d3e96bc344c88f82b60b5ce639b3f9d91ed2eadf71a8c8e62f8ab2aefd3389d",
+    "6f7b93703755b7685de46f9392a9fb4c0bf85f92510cfdbe782c89812dcda0ca",
+    "10f28050d246b921e1ac0abc95eeca7a4223d99236029334c1010fe1de467f47",
+    "2453a2e3e9d76e84923be81c305774ad0211136460f7560154aec7e20cb47843",
+    "bc402d2748e2dbafc709f9b3c6975f482ed0587840c19ece5c0e563985a53055",
+    "398e88a511fea1577be069f1316c4e5ddd042ed35e5d301cddf9a8a30549cf89",
+    "d3466d34c5cc7cd66198c8d8b53b97cf5607ce7c99a1419d930710f3da52118f",
+    "f9b7ea346a82264caab1db7be52b0392673d41e826f00c15be306d9ea2d6cbd0",
+    "309d0bccdeed53574b85f39fcd5d1744dd8929ddf8be99b50f20900cb90d813f",
+    "e15686d6a656d47b7e49195f75e6cce20d259800a9672b6602484d8fbf1f9012"
   ],
   "title_hashes": [
-    "d657227fd937ae83c629e0acf7fe84501ab555ea0a711371dc616eb91dafb5e8",
-    "5084f3a3918a9ef0fd8ec9e87da90526edeb0ef22a56ca7a13600f7bf8701d83",
-    "6a90cffab20418b067bd828febc4bc287b883d8e726c96fbaefc16dd5afdc5f6",
-    "3423091ad6d773ab4a905d08f1f50c8384effe54012f752d89f5f3f4eb0ae96e",
-    "3b44313eab94a1f14e1b89b7929785e1fef176b99b977bac002e4778d28d7064",
-    "579dab93be87e1008e1801b2aa883ed834f46b1cc756936878a9e9f5965263e5",
-    "8fdeb55acf687c8e2fc1af32dec2d3382e523b67a1c1620c8b7d03aa77edfe39",
-    "ed506e0defe4d30a2a9b8f5dcd886cb44da3fba0ebd1ad2de3e987651626acb2",
-    "8e0e9c2d4b7205aaddab86e2580b913777881d10c7632de231088a7592089c32",
-    "56035ffb23753597ebd71095d9db3bd5476baa182ce7ad8d153700c00e2eff16",
-    "f0fb5d32556bd13572ab327b8ef8f42991dcc0cd9ed4f661b49f44f6ad0ddcd4",
-    "6ff4e155b594013290a9888d8aec89c2f62d5f0b23e4d11d0f3cdf7542eb3e82",
-    "614625fc3ede0471a61a713bb25bf6aa59905a77e86c8a1919fcbcd74a792beb",
     "fff8a25d8f7388eae50c361fe4cfc3dc1e0e6d0158132000a0d4a30f833e3d5c",
     "bd712fd8f88dc20882dbaa78f671ad987939401d9302920c053eb28c6c32fb5d",
     "b4dcd0cb099c0a2cac3ad846466dd68cd0d9a0909ca3fd3623fb80a24ee4580b",
@@ -8002,37 +7989,22 @@
     "7951688d8b2f06e0a4cdfea9cb5e8d4d7b404e259ab8a8c6855f6bfc3a54023f",
     "77ae2773872bd7cb8653af9b2957f4c3f6cd48858a201223e0f7f959ee0d02b0",
     "72bf52a13b4d899b86e3621bf69a9a6cd0b079344ceac0a11970534835a2112c",
-    "f8bc4fe660f4d8f9850cf6bb34141a8362501f50f113b61e035662289fafaf20"
+    "f8bc4fe660f4d8f9850cf6bb34141a8362501f50f113b61e035662289fafaf20",
+    "0d259747d9c51b2dc7483e91927741ff03f537342aa99268dbed37ba08722d19",
+    "c7e57058a9e32d5f35f564a911c4bf1adbcb8102b72347c0161d5a2bf85121e3",
+    "1cf99aadbdeee3e14a131c9f98cc28a45387686700bdc18550cae801c14670b8",
+    "94533dabfbc0f43ccb05f019600d136d27018c07677d105c45f4efe4e36dbb1b",
+    "741f415df1d1c1af7e04f0aa240fa1c5f19201f5c5a53c99df9fff9af6a75ccf",
+    "78ba9810973cff6f343ba78e27636fc4ae9ccf281a2640a0c2193df058cd09fa",
+    "5dabef8443670503b8f21496c5847a2951557948a4596aa7bb7d3eae05d12230",
+    "d559c18d4f13fb4488d0090a74ee27f83feeb395e1a1af877cba472cb7a0ff77",
+    "b5d399ea5525e92d091e9dfcb8c86e4ee429c96215edc04d562906992300e6c6",
+    "75ea73cb89987a6ef7c70008e7459a60999a37bfee660650efb31f897471d729",
+    "da71fbadfe4c00951302edea0edbab847e136e6a276faebea9a74378d865f655",
+    "9ea5dea47f152e1b63dbd810d078b04a52c0e3d4ce6c6de83e91902fc6634ad4",
+    "e2bfe1ff57ca0d204ac29569259df4e32bde17bc0eb4d29d8c10f0f9c5a1d976"
   ],
   "recent_sent_articles": [
-    {
-      "source": "전기신문",
-      "title_en": "전기연구원, 차세대 반도체 공정 핵심 ‘맞춤형 펄스 전원’ 기술이전",
-      "title_ko": "전기연구원, 차세대 반도체 공정 핵심 ‘맞춤형 펄스 전원’ 기술이전",
-      "url": "https://www.electimes.com/news/articleView.html?idxno=375092",
-      "ts": 1795325282
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "NEW HONG KONG-CHILE WORKING HOLIDAY PROGRAMME EXPECTED TO LAUNCH DURING H1 2027 - SCMP",
-      "title_ko": "홍콩-칠레 워킹홀리데이 프로그램 2027년 상반기 출범 전망 (SCMP)",
-      "url": "https://t.me/marketfeed/1083388",
-      "ts": 1795325431
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Max Verstappen wins the Las Vegas Grand Prix for Red Bull.",
-      "title_ko": "레드불 막스 베르스타펜, 라스베이거스 그랑프리 우승",
-      "url": "https://t.me/firstsquaw/194940",
-      "ts": 1795325657
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Oman Oil Marketing announces completion of its sale of Sultanate Energy Company",
-      "title_ko": "오만 오일 마케팅, 술탄 에너지 컴퍼니 지분 매각 완료",
-      "url": "https://t.me/firstsquaw/194941",
-      "ts": 1795325870
-    },
     {
       "source": "뉴시스",
       "title_en": "인재양성도 기술개발도…UNIST·KAI, 연구개발 협력 구축",
@@ -11504,6 +11476,34 @@
       "title_ko": "[단독]트리니티 조종사노조, 올해 임단협 결렬 선언…내달 파업",
       "url": "https://www.news1.kr/industry/general-industry/6362739",
       "ts": 1795402434
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "美国总统特朗普：我希望英伟达董事会重新聘用黄仁勋。",
+      "title_ko": "트럼프 전 대통령 \"엔비디아 이사회, 젠슨 황 재고용해야\"",
+      "url": "https://wallstreetcn.com/livenews/3203894",
+      "ts": 1795402590
+    },
+    {
+      "source": "딜사이트",
+      "title_en": "네이버웹툰, 日 매출 역성장…콘텐츠 투자로 반등 모색",
+      "title_ko": "네이버웹툰, 日 매출 역성장…콘텐츠 투자로 반등 모색",
+      "url": "https://dealsite.co.kr/articles/173252",
+      "ts": 1795402712
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "여전사 무리한 금리빼기 '눈살'…일부 운용사 보이콧 기류도",
+      "title_ko": "여전사 무리한 금리빼기 '눈살'…일부 운용사 보이콧 기류도",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446027",
+      "ts": 1795402715
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Kevin O’Leary Says Nvidia CEO Colette Kress Is ‘Pretty Sharp,’ Chip Demand ‘Insatiable’: Crypto Bettors W",
+      "title_ko": "케빈 오리어리 \"엔비디아 CFO 콜레트 크레스 매우 유능, 칩 수요는 여전히 '충족 불가' 수준\"",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63518223/kevin-oleary-jensen-huang-nvidia-ceo-polymarket-prediction-market",
+      "ts": 1795402718
     }
   ]
 }
