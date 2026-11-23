@@ -1,15 +1,6 @@
 {
-  "updated_at": 1795436161,
+  "updated_at": 1795436311,
   "id_hashes": [
-    "3ce6c450691e457796e2c9de862f12e6581d6c2fd7303b55e3beaae3caf46522",
-    "63a1d3cbc0eb21ad6aeb3cb02c0e9f7b7024ed8306c7a803fef44e5077e986d5",
-    "6d1e15e5d480d26353e2f3cfcbce4b02b2b93c5dcd1ec0cc8051b55e93904941",
-    "e902f67847b200db71e415d61b61f715a891196dd1dcb725fbc270e387d32b91",
-    "2e10bc95e2479b5bc7598925ba73831ed1b2cb582fca141c4224ddd34b0e559d",
-    "946d4d57d1b0c749ed41ed4d81ad64bd4924f1eb8fae768692d6382450906c92",
-    "1bb8b6658317593024492d33cbceba26e6f5c463cab289eeb3baad64fe2ebd62",
-    "21a0d9b7bd6f981adb4255a0b5369a1f95dbb021cf4c93a6b8114975702ab2f0",
-    "6322d58d7076c9143f5664cfcf55c0d60858920ccf22d39d28428f2c7dd0db7c",
     "6d74ede34dc3aeb1202ae4ae8499e6e5fbaaf08bd12749ebeecd7f448ab6d345",
     "99a6a221f1d2b0955da995706b5ffcaa661da69c64362b85fd8c73d9eeb2c908",
     "f4eb6b4f02595b538c0f987da96c56a2e311b4fa0b4f61e17741d08839ac272c",
@@ -4000,17 +3991,18 @@
     "f01779f230178c416b16454ea74def7190c0f9bcf67bebab389d82cb19611802",
     "e4e14f8bf6cd8392f181457743339e5ed9880f2c629b01bda150b4acda519183",
     "f17ead032973b2f1ef7c1c5e9625e641fa576c2e58a7c275be5d1d1c843190a9",
-    "2f32e13923e9a54c3c14154c5e86d66259bb50dc750cc5f495cbae01b5610406"
+    "2f32e13923e9a54c3c14154c5e86d66259bb50dc750cc5f495cbae01b5610406",
+    "8fd838d70fa4254e82ae0c8d667316c62a1c4669fdc7790c39b9b883f7b244f2",
+    "2cacfbcb8ee38b871e6670d9dfde3e3b4e1da7bc81e76e6fa78b98b38fa133dc",
+    "f78305f4a30d247dd7abd649f43520074a16273cdfbb69168c944243590cf409",
+    "a8980af2f22d440d487f9511e09e01652d2b71d520565896b0230f276a0e3deb",
+    "ff1d57f86f7038f95674e93f4814abf2964e7c9df5b078af22d5942b4fa28cbe",
+    "8e45eefa2800f7820bd65c634450d296f32618c77a8ac36b64d12b925f889fae",
+    "988d9b90c54570e50a0aa698eae6e155e912ae895ed240111d23f7c326cdd295",
+    "522941eec368f5e67b5e480fc19263585dcfc63581bdf28766b4387f2ad390cc",
+    "7a5decd0feac9e49cb1cd8f418692079ab170bfea7b8c6f5e84c05bf185b1c8b"
   ],
   "title_hashes": [
-    "e58ae712300fff953239343a485be21936236e1b59e4e7e1866fb3db35c8d87d",
-    "8efa45305a7d1de753b0c2d1a6ed0c4ea88c31184204a936bbfe73e7c5905367",
-    "4e3d068eef789ceb44786668a7f56255983e6cf7da9c346947e7f216ff09628e",
-    "a8a82976e9dfa8c181b8b4e5b3d8a53420ee246a6d079a8e8662767cf7eb73ee",
-    "cdcd0fa75022241129787a4941214e90a18e2154d79d7925e3b386f96b63ba0c",
-    "1948a4558146bb2d0e337f202e0b4e4eeb626322ebb4d5180802639f189b842c",
-    "53255866478601697e6a067337ce6db3ec290cdcd71272970d962803aba19740",
-    "1fb0d2b321708ab431d4d54acb07770fec3fd16dc98937c3c37318be8d79e7a9",
     "b8a3cce6dcd1a21237f9ba223f87e0ce62ca2626846bce4b7c66cbb51f607afb",
     "a2aec5d0490799a3efedf7ea323b4ebabd503d738041f8d2412344a49310e23f",
     "46bc8051b04fa8e13419c96abd875949c286728bfd9b108b1855b7030bec9306",
@@ -8002,23 +7994,17 @@
     "ffbe50b0faeed37ef58c51e3fd05926d4c43eb080e3245015b3422747ab8dce3",
     "82eb9184d49063f2bb85c534bd91c2da504c3c538dc1f1bb74e2b0c99aad94e8",
     "d4e8c01fca9a95944d5324718694d7c3412ea81c4405d8d54cf9330ac1111d6d",
-    "f2430e5677835dd263c4595e7f3a260bcbdb12f3c142cac94cd9cd06d8c4f80a"
+    "f2430e5677835dd263c4595e7f3a260bcbdb12f3c142cac94cd9cd06d8c4f80a",
+    "51c1b7aaa98345dca13919c18918bae6aeac3ae78808dc36c88c079b5ab3c61e",
+    "939dc71919e16d4c36812ec028de18d0da2841434e19991752a48302f3a05448",
+    "bf6b6e6b951b07d89aa53326ed005c3af592d724287545b73170b6d29af2d813",
+    "a1980bd14c05d4986eaa02204db538664324336884717adb206580e39cffe2a3",
+    "e001b785401321d8efd8471a59d2762f5dda245726c3fa794c97c3f5f9109dcc",
+    "f7762477c46dc913d4981edd589d13dcb0c0c071e6f6dead120c3ce217d500f2",
+    "215122763acbb580c9b215a755fae212a47beb989a741246048c4a33ed38fe48",
+    "8abe92861db6640fb7ab5fda0ae8102b11c4fc57cb4997f88d2972ad993668f0"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "JUST IN: 🇺🇸 PRESIDENT TRUMP CALLS ON NVIDIA $NVDA TO REHIRE JENSEN HUANG AS CEO.",
-      "title_ko": "트럼프 당선인, 엔비디아에 젠슨 황 CEO 재고용 촉구",
-      "url": "https://t.me/marketfeed/1083605",
-      "ts": 1795402748
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "팀코리아 \"체코 원전사업 차질 없어…적기준공 약속 최우선\"",
-      "title_ko": "팀코리아 \"체코 원전사업 차질 없어…적기준공 약속 최우선\"",
-      "url": "https://www.yna.co.kr/view/AKR20261123079700003",
-      "ts": 1795402810
-    },
     {
       "source": "WSJ",
       "title_en": "Gold gains as prices stage a likely technical recovery following recent losses",
@@ -11504,6 +11490,20 @@
       "title_ko": "동맹국, 러시아가 다음 달 핵우주무기 발사할 수도 있다고 경고",
       "url": "https://www.financialjuice.com/News/9864286/Allies-warn-Russia-may-launch-a-nuclear-space-weapon-next-month.aspx?xy=rss",
       "ts": 1795436154
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Activist ADW Capital Plans Proxy Fight at Compass Diversified",
+      "title_ko": "Compass Diversified에서 활동가 ADW 자본 계획 대리 싸움",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/activist-adw-capital-plans-proxy-fight-at-compass-diversified?srnd=phx-finance",
+      "ts": 1795436191
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "BELGIAN PM DE WEVER SETS END OF YEAR DEADLINE FOR BUDGET DEAL",
+      "title_ko": "드 베버 벨기에 총리, 연말까지 예산안 합의 시한 설정",
+      "url": "https://t.me/firstsquaw/195190",
+      "ts": 1795436197
     }
   ]
 }
