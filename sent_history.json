@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795438273,
+  "updated_at": 1795438429,
   "id_hashes": [
-    "894b21cfb1527b111f5649f6c92beca5ae900a165af4903f417ede08d8551bbc",
-    "56fa6efe926a9b3ee0641bb37215c11299a5481b6783c4c857cc7c148ee9709b",
-    "38e9c088d0b57674d88411f8bafa4e1069a147d3fbb0184d3a7fb16352c365c7",
-    "c68f5487222269ec98e4b16e8fb1782b4e18c6f1a18275758c9a2efdf9c94040",
-    "74c4c92304987f7689d8a5611c5e0b2c96b1fe1f67f5fea76544a8bd5e17fb4e",
-    "44d440c57dcb98cca91f176f46fe8619bf6291c85d802893735dda47bee77713",
-    "b180d14460e71f51048f73987a9e813f76ffc5d841818dd3cfec98294e63d657",
-    "d6c5c94e68733143645649dcb90dfca62bbc10efb333e6ef4f504c12d0f45d8b",
-    "5f7099d4053405e9829b2e8a3585042d82ddb9abb8abdf0217500f3731eb2721",
-    "662163bd51f1369d914b7e0406b33535783eebabc18a14f2d868a0c16de0159a",
-    "62935d950cf7b9f644df1782be37bb463315bfd85dff12060f260c566a06cd10",
-    "61efe22d519d8cbfe691d38c45a756c3331eacf88e7422e3bd9c9332049212dc",
     "8f692b07f20c22301b8642364837f6627460ee44868d035b9a069849646949f0",
     "6f8dd8025853535e4752ab560c2daa2696ff9b00953ee3095500a0ad7b2e161d",
     "d45f71a71370a2ab370e4737e899d104de4aabed12d6d6d0a399ee2d027b9186",
@@ -4000,18 +3988,21 @@
     "8e293d0bbd1b2751f17b0851c56b7d0bda5e13c816add4f228f799bc675d1d18",
     "edf2b765b65d8fa3a84465732507b912e035439ab2e794866eb1a8c848e669ea",
     "b899ed71ec0e9608dace989d18d0ccd6c8b910f653bb120bf64c49476322b8ec",
-    "5132ecdf9e4add20b2ea74f5acbfae874ec3739646fb3a9e9090f219b2606653"
+    "5132ecdf9e4add20b2ea74f5acbfae874ec3739646fb3a9e9090f219b2606653",
+    "c368ccd1a2048dfbfe75227ebad9621ae3103694b7d97b9b7466384586a5b411",
+    "77d8aecdde5c4d0b830e324a334852e86a32f5cdb0759ad9c87edcec783296b6",
+    "362094674540e9f10c53013b229ebc6ef8cd5803566077f86e7beabc9f139d77",
+    "5b121b0d51541713ee2b8267d675e8162bebd38e6a9d61555acadd5d9f2eccd6",
+    "cc54d9dfd63f24b35a6def712d74eb5c0c1afa33681229cbbd717236d5707b0d",
+    "f321fc69448f343555ce8f8b34657fca403fa4dc5108e3e720d2cfcb179dbc4e",
+    "b57c9c22163d9382c414582035a110dbe9fae1bf738ff1ff408233f89953eb1a",
+    "fc6ec689b09811a94c5381c1161b7d7828e0021b4352667a8dacb8974c83afe9",
+    "99b7e6db63bc93d8b4c7013a9ae2bab666c2914577c796b203a9c31fbb2dfdad",
+    "abd86b3ce195a77b3f951c813369fdfcc4cbe6069cfe199272eff3099b922e55",
+    "f4fe5e6298e0593c073a16dd1a80828dc01bbebe1fc160bdc98afbc94148333c",
+    "71a76cf1ad0aa14fd43b4d225fe2244d1a885a0de0815cb8185b4af1f48df6c8"
   ],
   "title_hashes": [
-    "ce3ac4d4f0829d2dcbf057627701239224f505da836e906da951d3a271a5f081",
-    "3d1054d6374154f38072837c1ce66781af11c69ac126ec5d89eb84967d7f95a4",
-    "e89643923ee8d2aed45a74f0e20d5d3b89b5171b53df8c0558c105b236cb407b",
-    "2ce2ef149f62af3c6d7a3ebe7d7ccdc5970b46ff6bd168172675416bf7954093",
-    "91c61176ebf168b45d979c2544833916d23bdd125d9a705a53ae3ccec5d9d506",
-    "f416a1512f59501fb6f6e368c07ede3b9c449feb6b1201f4160ddc2cf86bfa03",
-    "03a7a73416ec6a7b4140225e360e40732371ca8f82acbece35ccb0df6178fd88",
-    "7d266c51f6bcf12ade56113683476ceec702a251683f5cf1161ad8eb66938dfb",
-    "cf419962f6f5c221fac8b3be9db72f5dba68eec4318d5eb901bc9841c8c54fb6",
     "1fcfef2221ac5718739ee5ef4884a83055009956cced1f78081eb98a7f561e1b",
     "2c555911756c455f51a2cd982f8a98857b0ad60ecbf45d56af09165be1ec0d39",
     "51c7d81d252478be13301378521f0800cf46e4153bc54b63b9384f0a3d89efd7",
@@ -8002,37 +7993,18 @@
     "5c0e08623f52a7a87aba16d8635a6c0f2ad621539ea97965874bca4676d3ac64",
     "e0cb21fc686ef859f60e796a389964e82b212901db1f68e23ff7789661fb18eb",
     "ad6d432cf0f2b83df3531dca860980a8a3d1b18c9834176d84613b6136e1c3bd",
-    "a15466f000cd1e9f34807077042cf8a922c21bbd7ec0d4fb4c1f4e02630fea84"
+    "a15466f000cd1e9f34807077042cf8a922c21bbd7ec0d4fb4c1f4e02630fea84",
+    "8f4e1ff7f9c8cc6884af1b5796100a0183a0cb7621a3f65c94c2581101428dd6",
+    "75d7310fc7f3256e15da1bed170594b76f4b08825f93aabdd0c16dc8c5ec93ca",
+    "11ed91be4254a6c18165dc2568798f8d7affae3bf7b8e3a665d10d77ae37a507",
+    "4c4c9a195f8ed48cb94a022d242c9866faeda52064f582026ce990a13ea68389",
+    "7f0ef337f68676232fd6d103100f68c731662c6463f9a050f48e1a104bb8e444",
+    "9af2e93b33583670af41ed03ad970d8b4ca118c4663812f7224a023d2b084774",
+    "b41048c75f05c6dadacb43bb533a65cb31a948ca344827092d195f2e875aa009",
+    "ca9740fd00ecb982cb0cce26e7b59882fa6e46b5ca51ef5164da11b3ff709321",
+    "2474deaf9409a96f1c5fbed4d10647fa755bda19f07f0c5a10cd11703afd2d12"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "OIL PRICES SLIDE BENEATH $83, WITH EXPECTATIONS OF EXCESS SUPPLY OUTWEIGHING GEOPOLITICAL RISKS IN THE MIDDLE EAST - FX",
-      "title_ko": "국제유가 83달러 하회, 중동 지정학적 리스크보다 공급 과잉 우려 부각에 하락 - FX",
-      "url": "https://t.me/marketfeed/1083614",
-      "ts": 1795405518
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "WeRide CEO on Earnings and International Markets",
-      "title_ko": "위라이드(WeRide) CEO, 실적 및 해외 시장 진출 전략 밝혀",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-23/weride-ceo-on-earnings-and-international-markets-video",
-      "ts": 1795405793
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "IPARK현산, 1조1430억 광명 하안주공 6·7단지 재건축 수주",
-      "title_ko": "IPARK현산, 1조1430억 광명 하안주공 6·7단지 재건축 수주",
-      "url": "https://www.news1.kr/realestate/general/6362781",
-      "ts": 1795405880
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Australia's Composite PMI falls to lowest level in over five years",
-      "title_ko": "호주 복합 PMI, 5년여 만에 최저치로 하락",
-      "url": "https://seekingalpha.com/news/4675421-australias-composite-pmi-falls-to-lowest-level-in-over-five-years?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795405963
-    },
     {
       "source": "전기신문",
       "title_en": "전기차 ‘일률 보조금’ 한계…국회예정처 “일정 예고 후 선별 지원으로 전환해야”",
@@ -11504,6 +11476,34 @@
       "title_ko": "유로화, 달러 대비 0.3% 급락한 $1.0932 기록",
       "url": "https://t.me/WalterBloomberg/38894",
       "ts": 1795438265
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "StoneX: 'CrowdStrike (CRWD) Reportedly Exploring Zscaler Acquisition; Strategically Transformative & Compelling'",
+      "title_ko": "스톤엑스 \"크라우드스트라이크, 지스케일러 인수 검토 중…전략적 시너지 기대\"",
+      "url": "https://www.streetinsider.com/Analyst+Comments/StoneX%3A+CrowdStrike+%28CRWD%29+Reportedly+Exploring+Zscaler+Acquisition%3B+Strategically+Transformative+%26+Compelling/27384445.html",
+      "ts": 1795438298
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Iran: In talks with Azerbaijan on gas transit - Tansim",
+      "title_ko": "이란, 아제르바이잔과 가스 운송 협상 착수 - 타스님 통신",
+      "url": "https://www.financialjuice.com/News/9864358/Iran-In-talks-with-Azerbaijan-on-gas-transit---Tansim.aspx?xy=rss",
+      "ts": 1795438300
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Gold Rebounds as Traders Pare Bets on Near-Term Fed Rate Hikes",
+      "title_ko": "금값 반등, 연준 조기 금리 인상 기대감 후퇴 영향",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
+      "ts": 1795438424
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Market selloff and falling oil will likely force a 2018-style Fed pivot: BCA",
+      "title_ko": "시장 매도와 유가 하락으로 인해 2018년 스타일의 연준가 BCA로 전환하게 될 가능성이 높습니다",
+      "url": "https://www.streetinsider.com/General+News/Market+selloff+and+falling+oil+will+likely+force+a+2018-style+Fed+pivot%3A+BCA/27384402.html",
+      "ts": 1795438428
     }
   ]
 }
