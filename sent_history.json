@@ -1,26 +1,6 @@
 {
-  "updated_at": 1795426305,
+  "updated_at": 1795426457,
   "id_hashes": [
-    "97402ce541d87a6578c50cac7fd2eb32cba7825b3a5281cacd7d48d766e22463",
-    "1a38fcc63210c1f6bc15f917d0beaa0d281a405a1190569e92f93895e54e5c42",
-    "c859bccd04e517b503f32d918b1ae59e6a1b66c2335dda6fb842faf8f82d207a",
-    "450a3b16865c80a1777b0d60eccfaa09a678792cf80f5168b51733f9a935b943",
-    "d27da492d1f19ef50579737035a2b363edafecc66380c87984eaf2f7b9e3849b",
-    "937affca93f0e7dc2482dee108b86c916a16b9afcad81e7b0265a5229de8bb0f",
-    "2c26c5fbfffa438f52a6b598bb95c034eff5e5acc2f7b603307dc44009130cb9",
-    "8ebb1a6a2c5234c21e1f990eab6cc56e8dedcbb04d24a87dadd47bbf715e741c",
-    "58b81935e0ae9de7bdb9399f89c086e4bb3fb626c80529dba3d70080ad1e50f2",
-    "97e5f217d6c3be6226da9299565a3767ee2c422198d9402517ec61d788ef82f5",
-    "bd600fa8337dc0cd12599181afec1e4388bd4481139d4a85bf34fa2a2160987b",
-    "231a825fc75b8f2106e1afe1df7d24a3c8ea7de52de40e4a7e9cd67045241b53",
-    "df95665d2182adc3d29168c82357901d9a6713e07cd59a61c809b2e4917a72f8",
-    "cafe0871c672e4f5a2860f9a702f1c6c33a69b6318af19d725d96726d7ac61d8",
-    "d7446616e3b35cd8c8821a35927b4ec3903873c3c710deeb7c26254450b79d2f",
-    "b5afc89d5d98b406c07554b63c75cd5827ca16b2b3c03729c5093b8679f801b6",
-    "daff92313826048fd3512492dabf682964e46a2cc0b83ddad83d15dfd6add056",
-    "a99caa165c8cca132e22bc595226603e6002a2a138a5f91dcb0601278592cde1",
-    "4b3c9fc606bd6d44bcd5a03f30dd7e9fd5bf54a80ae24a3e7212e5502eb25a5e",
-    "4bfad18f39d837af1885c9c4fe73b32593c326677ad68612c1f4c75237a3883d",
     "65a03b93347f7e4d217265005e2158f74423e7f0c26d85e513d3f033be969679",
     "d11946817062eab7252fa42556752568799fb5642186ef81ffe57bce5c0694a0",
     "b222e3707df1f5a8595364ec3cdc075eabfcc2ba22eb6b9f3a0a76095aa83237",
@@ -4000,20 +3980,29 @@
     "8d86c84a5a8c45db82272a1cf8a91cb77ab90e20031522e9cfe5b0c9171ab53b",
     "366350f00d15751980c2863e7a856c6eabcd2ec1c1943d8927870550c7c6bc1b",
     "854119febaa051686237a7ae790995d527e22235856f7bc3ed2e7a24ecf75200",
-    "b4056c88b68a1137f334fe99bdeca588632995388f4fe5804a23b7f4861bc6e5"
+    "b4056c88b68a1137f334fe99bdeca588632995388f4fe5804a23b7f4861bc6e5",
+    "c570bfcb0080f0e69eecf5fb24aed24bb87a655c3e3cffbea29dc02ed86661b6",
+    "f340cabed1ea488191ee37a4b27bb792f13fc9918e237fc6165e3b8d70d23c68",
+    "181cd61aa139ae6ad054e489206d1087ef622f3a33b330baef58e7af9b15f9ca",
+    "0f7d68be604bf5ffd821ff6a9f9d636e1d8efe56a41462361dd85b415187595f",
+    "410ff3c98fc20c500fcbaf14780a309cdf0d029dd7d4840cae6e4853b139f0fe",
+    "a8ae1c3216f717734c1a2b341df044dbbe096d5b241d428cf67a08180d5c3bec",
+    "9f756b07ab167d5d152b858c088e34c6c64e8f8c79725cf4c8f72035b6f75df8",
+    "c82b572532445463a14eed8879ffec770f151fbf7035fad0cdec77acfeced398",
+    "f4ce924abc4d8988708c3800442261504194b14fe94138840600419861610975",
+    "f6e60296a5e62c8fc56af2de398a53ec1a04f717aa699ba9ee7c1a9d8088cfff",
+    "946a6895071ed0dd2c1bee98a0d69edec36c01b3a8f20e00d83f7e2598ff3cac",
+    "d8e766c40b5565a04f4a5d4c34f4bf8d07449bd2b146adb4ca33a27666d548cf",
+    "8174f733c52d980b90314b38cdca7b1b3e5a601a344fc5d73bac10abdb4429a7",
+    "e9b7dae201a919392ffed15eea642d6bf0d49b6c19d7b49f9ae43b0384096225",
+    "79948f78b4dbc77cc70fe1e6536f995612fed885faab21f178a9a6823daaee37",
+    "d008f9f7e56d3935dd9595fc80892ff8149d32afbd256759bff8fe32c3bedb1e",
+    "e4eb9f85c72a5b0559c5474b2fe0fe295dfcf436dccd150b30ef74e64372d0be",
+    "54b4179e550728a5c0278e1da5747f39f87062cc50c2040d59638aa7dd28f792",
+    "c06fcd90640356aa403a9a152e33e22bb4211a6b1ebd3f84fd277266bfec6cca",
+    "16d612f4a8d786656059f59d131a4cd2865e29ed8a4e3ae13e9f062b7ba71d08"
   ],
   "title_hashes": [
-    "5bed3af320da39224bfb9223d25c2aca2d2e16e984f2e1c5d8fdc640e06ef1bd",
-    "bb29f3fe11754f1774d48d321ce3caa06b65db4252d5ba75899a32c00d32b6f1",
-    "1f7665c7c3818eca3659adaee661cd1a45c4a81d220b2a8a36092683618d2486",
-    "e66ab9182a57cb3c3aca9ce8bf943d0dee2a4746f373e8df8a8619ede0cc776d",
-    "c0f1fe11d36e41d7958845eb31211d6d584c3cebbc83e1b39db3ed123cf881bd",
-    "fbed2481ee0ed3eb623a5ef0cbf49b94e0991117d2461cd8ede42ea0fdb765f3",
-    "f0f5f9024cbd1660629dbee9e768603dc744fd7db1eca8aac33ca7ef2fc16f39",
-    "e3cbd914f3613e0fee129825cb16b6a88d1ce3bc2718481a4d3dd37a839f71ff",
-    "b8654ec3e2f16d9c3fb3853d023f1e6f131df50cca578bbd40cfb22839980da6",
-    "9a052bab299275c638e3f76e1170cf17b5631ead10844b0df325af5442ff20c6",
-    "60aee880184d3a927a6c6f9f8faadba6c52dad4852b1e3aa6d9c43b2ebe4bcd8",
     "5807a0ba2104366bd5ebcdb6a64d737f0d84d29b7d13916a38fe56c18bc7609f",
     "4403daef155b9fea0fd2515eafd4077095c260956937cb9ea8fd923a9f1310aa",
     "5423d1f54ecceb08376bd4d7cb609a9fd5de40ad71d5512ef81ad1161cdd0164",
@@ -8002,23 +7991,20 @@
     "166220b1d3148f95e8db885e1c727a126b6405b2ac2418da5b4ccddec7693a24",
     "5e5bfa74903d8fcac41e2b6f32b2062b0310979bfccde2b9209195cad17f2735",
     "de96f1659ddbff46bc4ee07ef7b3e409d0595cd647dcfbcc134e5c3910984893",
-    "c99e4da1b44965f012ca82bdd8e701d703d272a4f61aa093296fe3015ee5188b"
+    "c99e4da1b44965f012ca82bdd8e701d703d272a4f61aa093296fe3015ee5188b",
+    "661ef7ead86e50677d9ff6729943233764991529137ccb64cb371e4553d858cb",
+    "7c5ea555665cea61b5ddd7f85f72008ccc8704e5fb0e3f4da3ea8d38debf8fa8",
+    "2cba8716a9109c79d5b6da59023d5d296fe6e59f0a57818c0572266818536c48",
+    "a8d5327a1afc0695a4fea494921653d7c0216b84b32545dee4f2b795cf0d764d",
+    "51547f15aa67328a00117e30852556b4d028f8a4115f41a996bcd296b70873e7",
+    "780c050fa4e2894fe27a44f9e21fd226ea7551fb99bd758581fbc883f1e42d53",
+    "5656466c38ac1528fa0e9e12ac4ec2d7288826b4453caff4c77ef014fd2c82c5",
+    "bc6282c1c1add3942927661c4ee1290360781d903b84cf09373826b23cf9449b",
+    "62170c7fe83821551a264af1585f0e502cd58f6078239750a3c36be0f23a4635",
+    "bf92dd9d703cb0a45056fc1f01ffb010d29a6e4af83930c1ca1fdd12b7fc2eb9",
+    "3a9e949ca4f2f6cea55d8f5a0e911d0cfeb584ddd916c9a6e3507b166e686c0f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "\"불륜이 문제가 아니라…\" 엔비디아 칩 中 밀반입에 캄보디아 범죄조직 연루 의혹",
-      "title_ko": "\"불륜이 문제가 아니라…\" 엔비디아 칩 中 밀반입에 캄보디아 범죄조직 연루 의혹",
-      "url": "https://www.fnnews.com/news/202611230942302676",
-      "ts": 1795395655
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Samsung SDS suffers a sharp 15.7% decline in its share price.",
-      "title_ko": "삼성SDS, 주가 15.7% 급락",
-      "url": "https://t.me/firstsquaw/195065",
-      "ts": 1795395715
-    },
     {
       "source": "중앙이코노미뉴스",
       "title_en": "대한광통신 주가, 11월 23일 장중 13,330원 4.65% 하락",
@@ -11504,6 +11490,20 @@
       "title_ko": "두바이, 이슬람 은행 추진에서 대출 기관 통합에 주목",
       "url": "https://www.bloomberg.com/news/articles/2026-11-23/dubai-said-to-eye-consolidating-lenders-in-islamic-banking-push",
       "ts": 1795426304
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Anthropic, Nvidia shares rise in premarket trading after major tech selloff",
+      "title_ko": "엔비디아·앤스로픽, 기술주 급락 이후 프리마켓서 반등세",
+      "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
+      "ts": 1795426390
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Health Partners Expands Prevention & Behaviour Change Offering with Acquisition of ICE Creates",
+      "title_ko": "헬스 파트너스, ICE 크리에이츠 인수 통해 예방 및 행동 변화 서비스 확대",
+      "url": "https://www.streetinsider.com/Business+Wire/Health+Partners+Expands+Prevention+%26amp%3B+Behaviour+Change+Offering+with+Acquisition+of+ICE+Creates/27383506.html",
+      "ts": 1795426456
     }
   ]
 }
