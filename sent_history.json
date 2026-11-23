@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795433770,
+  "updated_at": 1795433926,
   "id_hashes": [
-    "f9e296a420cc1e96d618bc6cfaad3f48c0d7c8a33c6bf1f00c5245b3b4f95d34",
-    "4e4b36f134625af4a2964cb88ed9978b2e884a0fe56e972e65355897996edeae",
-    "12f93da827c7c871b6387af51a8c80a13e959f4b4bab48208b1e275142ab58b2",
-    "fa6c72ef766f32afc8704ef10590b2eee5614e04b543a5ba277623677b5dd9ac",
-    "2b7d0b8ba3b8a2b8f22b0516ca402540e85fe04d4882b39226bb871087a8efbb",
-    "a48c2437e7c7fe8c8418d89b8a2583741c4148a14e347af257e2396ca55421f2",
     "7b9fcb4ef10922676469cf2e93634c8b809202bd19872f161e9871bd60bdbd52",
     "7fad577c3e82f15ae2e14647f24bce28007a93feaed373c207e38812b8620201",
     "4bf3df600088dda4d2a5fd112dc451e66eef953313ddde54f5428db26341064d",
@@ -4000,14 +3994,15 @@
     "d542d6d36a7fb2e86dd06e7efe900ecb1de33951a9242270388e4b808671b710",
     "a8eb5fb7761b233961aaf9f7bac0648bca7dd3e49b0598c329c930b813b27e75",
     "f0fe4b2534b385d8b885494d4ae374454d8b8e6e903474cc5a6ad5aac3c58fc3",
-    "15013b9b2cdb5e5eab99471f0c931dfdd43983bdf7b336197d225e8b38e12a99"
+    "15013b9b2cdb5e5eab99471f0c931dfdd43983bdf7b336197d225e8b38e12a99",
+    "5f4734396d2d4ad92a7ad597ab6b43b1d942bba4017809bc31ad426570537688",
+    "c1768edb8afac095ee2772809b7009be8d4e11ffd6380e7e108bdbbee045a6da",
+    "fa9ccfb485433da8a6d1bf75b26610693cb89c7aef9ef88dcddc4cebeca143e8",
+    "ce1d5250253d7ee8d053577ccf78a7eb4ecf7401f86b630572afa75c00b863ca",
+    "72905455e9683c9bd24c6b6a504131c36a3cf7f97e3e22d53721453d19f57f95",
+    "180496ce989009817aeec429b2eddc5a8d1b05a70f4201e9c55f66b519369770"
   ],
   "title_hashes": [
-    "2f9d2c35eca7257fc75d4d697c1fb7d000f384c88b092c695371b289f0a9ce94",
-    "5f37aed57a862d25df5fb7dcd22742f30e9f4aaa5708835b8aa6614e84fde9fc",
-    "1a2a09963280221860d745452fc59ecb55683729feab6067f6d60f4a19d929f0",
-    "3ba4b3fc2f07540ae31f01b08245823f74aa2d14ac8bbd2056ec3833a59557a8",
-    "cace88af6e6f6116db801080facff9fdd89210f48ccabce5b0284b373c58cd96",
     "7965678fd98bd45e90e26bc3cb9e87e225ca1a0cbf5068d11de292dc9886eea5",
     "e3609a6ce6338fb50e813fa547d6c2a1986bc7fc934536eef3776172e131ce43",
     "397750878e6fb164c2bea2a4abc497d9f834892365601e64037f265f17a3f1f2",
@@ -8002,16 +7997,14 @@
     "1a8a0f28e017715d8ecd7e4f098edd4a151df1656551cc912071b52312543c8a",
     "7389a9ea0204383aca8873b5398511fef91dd8f650a73227e81781c87a4b5811",
     "6351032e85f3339da7b3681f09407a28558ecc92a6fda9269d450443e28479ba",
-    "6e98a614f4ff216de5c69741895e9fe9210b5c5c7e975f0679afebe3043ba278"
+    "6e98a614f4ff216de5c69741895e9fe9210b5c5c7e975f0679afebe3043ba278",
+    "695c2e202ac9a53fe1eb190a83336bf3cb2648083ada16c8ac667944e963d496",
+    "f20bd769111adbb1ee47cb176eb72c79f83b2bbfdbea8ad4497c2b4ef1bb36d7",
+    "2bf25a9a99c04cc39024f81fdfa1e04da63738817de732e20a36b2eb21581583",
+    "79e736458f90c71077118563e9e5eeb1b310efd6e90a3d46d1ced23d710b6abe",
+    "96e24e2099c00b77df82e4a5eef3aabecff5fdb49a455874e9fc99bcc0cb1b50"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "트럼프 밈코인 보유자 초청 만찬…가격 폭락에 참석 열기 식었다",
-      "title_ko": "트럼프 밈코인 보유자 초청 만찬…가격 폭락에 참석 열기 식었다",
-      "url": "https://www.news1.kr/finance/blockchain-fintech/6362581",
-      "ts": 1795400546
-    },
     {
       "source": "KB Think",
       "title_en": "KAI, 경남에 1.5兆 투자한다…차세대 민항기 개발 등 투입",
@@ -11504,6 +11497,13 @@
       "title_ko": "뱅크오브아메리카(BofA), 2027년 글로벌 성장률 3.4%·미 10년물 국채 금리 4.75% 전망",
       "url": "https://t.me/WalterBloomberg/38882",
       "ts": 1795433768
+    },
+    {
+      "source": "매일경제",
+      "title_en": "브룩필드 애셋 매니지먼트, 블랙스톤 PGP글라스 17억 달러 인수 합의",
+      "title_ko": "브룩필드 애셋 매니지먼트, 블랙스톤 PGP글라스 17억 달러 인수 합의",
+      "url": "https://stock.mk.co.kr/news/view/1204327",
+      "ts": 1795433925
     }
   ]
 }
