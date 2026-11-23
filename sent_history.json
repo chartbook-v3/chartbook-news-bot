@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795431291,
+  "updated_at": 1795431457,
   "id_hashes": [
-    "8897f710196682ea5014a5d32da9baf8a828a1d1723106fa1c280d5a4ca20104",
-    "70293756c3d64d4b5e4ac9d4f80cd55cfc60609c8ab4ac78682d379fba89892b",
-    "de4d99c1a75eea7f02b9b171c547b9ea87f27c893e279d36a2c7a4b927f3a051",
-    "172138a5fb4ded578da76d165310f6fe6fe43d3cc003c4263aee8ad62d5d8e5d",
-    "7f5720bf1015ac667ff450f6154a5c92e95058b3825c2b4c2b62e2c77db903f3",
-    "ea06c20fd9506a640c9885e86d7a5425895536dc6d8855f2d93890d84a127c81",
-    "dab97bab426345a07c866c85e5146ee26130d331bfaf00b5f9ffd3f54db1faa5",
-    "86c806a8e637f1c9aefaa8a1cd708bdac05e8e058fe423f4b5bcaec99ceb84cc",
-    "5b71693eb8ad9095e11296cc8cbf92181cec43db7eb83c0b795bb2ca4b49fb18",
-    "e58fc1641eca704c81b6cd970b617f4e0adf5877e2c89b4a9c6c40a72512cb2a",
-    "25cb6aafd65a15c84d8c28768d2b528de6179660fc08edce3f0df3194cd7962a",
-    "fe4d87c80cc676c21876be6a304bd4d7e21aa95791a984615565a85d90b99dd7",
-    "cec1cd844015aa8d1554e99dc73405c8bc6e08d4bfbf2bf4949438f42ae0fb70",
     "0026389b07b54fbe7f3106e0edbf710b7c82b713a9b7baa09b88d8e180903c0a",
     "feb55bcb84f2f6f60cb61ae2c2b282717bc1d907f3699751782544e9342a4b2b",
     "b2451c7ff28fae65ca195c543e08de4aa64800221af6e16d1d5494f0c1eaac00",
@@ -4000,18 +3987,22 @@
     "1f4c06c2b348e5c0f08168d13d194df3aaf334041de732f859cf0d288bf2ee83",
     "0ea112a2cf4fa53be3e376137ae617a82dc7d62ddaa9ec6e2bb64897413583a3",
     "e6589ebf340ee08bf1c6198010d9b5c0002d5254e27093c709b33178e9490d22",
-    "fd1858a73578848512c7c9c3202fda79c551a1858bc4d61d338e853801eda216"
+    "fd1858a73578848512c7c9c3202fda79c551a1858bc4d61d338e853801eda216",
+    "120937280fe99a4a080ca7ce908c4725c4dcf4a6ad86e195f7e0d004865890b1",
+    "4613e61dffb11bc2fe8f11e1a402a735bde16abec7d7c183c7a54ea754614fb7",
+    "2b7eba9930873093744c9d39052f924ae3c63e5c3eafa2efb8fbc77e6ef873bd",
+    "af2b795bf6e0e104c8d66abdcd09d2d89b88d4b7cce03e3858e6b58c74d6b666",
+    "6edddc474fa625506796876f3c7e8ee4215b8568c475efd468a4f34dd02cf39b",
+    "502a3f181f9a2726f7ac36e064c00da2811d11725f6f717fa65571954cd63125",
+    "222391fb0fa895e7522e62679f006d3f51c792da2e5bbd7341fcfcf9dd8f2157",
+    "2ad725a36e8c64516d7094f6fd8d515df88fdae901fe6a0a5f87189dca998311",
+    "a674209d9f596fe70f38ecaeb7967ab388f547c914d193278c87b02ddcc8807c",
+    "6cdddd3e44fd4a0421306a384717ef5e78a96fde4747ea94de8a824626cb77a3",
+    "1ad8e8404cbebd800a29169f2ad834a93231b457ce7b263e623b2f064c3521f1",
+    "153cc0affbcab682ded6f5f1a521e5d9ecda556b4fd635b489e80e530fc98d93",
+    "03208ff6daf427876319b34719914e284ae03b1eaf0f8ff5ea744d2c0c6fc206"
   ],
   "title_hashes": [
-    "2baad0e9d3026a18f5379cc688b2849a7b0d4215d14fcbb6c3d56b10768f8ec2",
-    "b0703fd3c4a0a58d48f62a097679a1ee450487fd2624ac9b0fb632dd88b31889",
-    "18ceb8ab665352ebcb9ee8822e185f486f1bc8a6072059c298d67c5cf0d7c895",
-    "b7834dcf57011a65a9b8c42178357cc563b4a348944b27754d82b45bef00cef7",
-    "a990d73081003b1a384181ac196a2b4e89cd820c5ada292923a87ae1a3a37fa3",
-    "9544bbc45a2d42594e9ddd00ad51d21761f3bc8027cdbe2cd581b9ed58b82b47",
-    "a4a2745a0776caa9cad46b1445c3be373fb2337421645ec7465368389c5b394f",
-    "c6b14426401b9a2c5218f236f00c6101f75a9f94cd10eb525d933841d3d1190b",
-    "9a88923bf3ec52fa170c553914c78f7457e18c701801ab646078e0558020ec29",
     "f105d716a2b5f7e357deb4d1edf1667c2786903196fdc79b1a75ddd824eb04c6",
     "f20b1395771664fa9cf19965fb8288f8b275c9dbe60946df8093dbd08f875a6b",
     "b38cef089bca7b25f8fd8725de2648f625018a9c90029d2f0ba0167a96ecf935",
@@ -8002,30 +7993,18 @@
     "467eb475c50e1e2f6c0d18f0ffa58a4af03dab963c8ac4d63aa6699aa39649f0",
     "d2db2d492a3f2376808b4b94beec38be5541ec6e245074baf80dac6572c3c4b0",
     "65a7e73632c751f12fcef7883477230872a174c451eb570feb125929e22874f8",
-    "b5695d46f3d73686a6794e6a8c4c531b969c4f20c39f4655c4945dad339efacd"
+    "b5695d46f3d73686a6794e6a8c4c531b969c4f20c39f4655c4945dad339efacd",
+    "661dc647b24f0583ba3a3e1228e5f62d37e5e1349e2b2079c29d0d6336082bfb",
+    "d8eb52a322636662e60025a281a9b0f3e65703e562e3f35f9e84226e16964aeb",
+    "29875ef0e4a13225d20f872c73c5de7e81ae95bb229587b5626172037da1af0a",
+    "e765f7ab7da938308152503622b4b1b1b496bb5a0fabf296108f4c06d3124da9",
+    "f6aae4b2b75a5a1f24536b3d1dd45bcc7e89e675b2ac51a989d73f23dcab7a32",
+    "cd0120c011f8a83d2652cf166aa3b600565060c1a699a3ebe8005a1ab43723b2",
+    "d81e10442a928a860075a7b76ec3d1d456fca417f6a56b803a767d1bfd4248ec",
+    "5b1877b89a28f9c3e89526615f6ad33243c1ad25f2b42299a6413a66bf2f697d",
+    "2989f7fa8828e1d111f830e9d2637fbdd76983a2c1a25e1777cddb337fb7f2e7"
   ],
   "recent_sent_articles": [
-    {
-      "source": "인포스탁데일리",
-      "title_en": "롯데지주, 실적·지분가치 하락... 목표가↓-흥국",
-      "title_ko": "롯데지주, 실적·지분가치 하락... 목표가↓-흥국",
-      "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=219058",
-      "ts": 1795398617
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Vietnam's Nghi Son refinery locks in crude supplies through January, sourcing oil from Kuwait and additional suppliers.",
-      "title_ko": "베트남 응이선 정유소, 쿠웨이트 등으로부터 1월분 원유 공급 물량 확보",
-      "url": "https://t.me/firstsquaw/195079",
-      "ts": 1795398620
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "美 무역 동맥 노린 해킹 시도 잇따라… 항만·해운 보안 ‘비상’",
-      "title_ko": "美 무역 동맥 노린 해킹 시도 잇따라… 항만·해운 보안 ‘비상’",
-      "url": "https://biz.chosun.com/international/international_general/2026/11/23/UJHKDBXTUJAMVFAUV3UYR4D544/",
-      "ts": 1795398709
-    },
     {
       "source": "FirstSquawk",
       "title_en": "South Korea's defence minister says extending the naval unit's deployment in the Gulf of Aden should not be interpreted as joining the US-Iran conflict over the Strait of Hormuz.",
@@ -11504,6 +11483,27 @@
       "title_ko": "마이크론 테크놀로지(MU) 최신 뉴스 및 주가 동향",
       "url": "https://www.benzinga.com/quote/MU/news",
       "ts": 1795431290
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "RKLB Stock Soars Pre-Market: Rocket Lab CFO Sees ‘Very Strong’ Electron Demand Ahead - Rocket Lab (NASDAQ",
+      "title_ko": "로켓랩(RKLB), 프리마켓 급등…CFO \"일렉트론 수요 매우 강력\"",
+      "url": "https://www.benzinga.com/news/space/26/11/63520562/rklb-stock-soars-rocket-lab-cfo-sees-very-strong-electron-demand-ahead",
+      "ts": 1795431313
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Jacobs Solutions Gears Up For Q4 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accu",
+      "title_ko": "제이콥스 솔루션즈 4분기 실적 발표 임박, 월가 주요 애널리스트 최근 전망치 수정치 공개",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/63520519/jacobs-solutions-gears-up-for-q4-print-here-are-the-recent-forecast-changes-from-wall-streets-most-accurate-analysts",
+      "ts": 1795431447
+    },
+    {
+      "source": "Barron's",
+      "title_en": "The S&P 500 Had a Terrible Week. What History Says Happens Today.",
+      "title_ko": "S&P 500 최악의 한 주 기록, 과거 통계로 본 향후 증시 전망",
+      "url": "https://www.barrons.com/articles/sp500-stock-market-monday-af36010a",
+      "ts": 1795431456
     }
   ]
 }
