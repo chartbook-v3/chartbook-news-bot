@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795419897,
+  "updated_at": 1795420053,
   "id_hashes": [
-    "c7de1ea3bf95d5294c9e1b8777d7f23a262a052d563ca67f74aadd5cf9c9a4bb",
-    "a46df67517c7ab025a628158feae770e8468560aa16405814ad27e21fe9ec40d",
-    "b0a25b485dca5fa90c3697340d6c614d6e842cea822f6d197604e8d1107d33c0",
-    "7dcdeff61159c0f636dfa06d75348c1e2b477e1e4eb77653a2b9f5094c89b54e",
-    "1628c4a1738c78604321afea41810718064a7d8886adc267a8075f117ded69bb",
-    "eb84bcf37cff1969d22e2d90d1f4e49958ae0d8bab64ba41455ad82455a5c5bc",
-    "08914be20bacc73ed725454f262e5119102ef1f28d5409e76c5760f1886ebedd",
-    "c5e2cd48063ac0cecd0f523fa86885b7673af568a761f1322e7ad5a7687f9379",
-    "dc667cd2101900eb4050afa28f8ccdbe7f227cf9012c490557049d400364ae73",
-    "e20793b60ed603bebd2f1869a038c467ee2a91d6ace5c7cdee75c63714468b27",
-    "ea804456ef91ca459e669b78061d3ab1a0d5e1009b14572d8849d43fe362fc22",
-    "6f4c64826803798578aff1a0efd6668640225c9b7064f687078087d00b1250db",
-    "316cc8d4f6923ef1cb264601150975bc1fd275191cc2cadb9d75d5f8ddf106a0",
-    "aa11aa6856431c7cf142500b04f73f16df01923b5b5dadb9dcdf28128b58760e",
     "a244a2f360516d7df3a586d3fa90738e13424c0838bf5ea1b85e9ac657fc421b",
     "c811e11fd6b7e8ac90e4e43b5ef576af530355815fe7eb5dadd9afe147247671",
     "109bfd7d28d88b8c88f09a8624c8335cda3d29e2f1588251b8490df23879f777",
@@ -4000,24 +3986,23 @@
     "412390ad287117152d4bc4f5648e6ba130e57ec8be0cdd298159174d3a97c2d9",
     "d6844b5e16b418b84ed0fa401164dc42824bed25665e473071ed3fbd73e4e8a7",
     "469ef958a1db75e4617b6cb31d69e9fdd32a84abcbc7fb4fef4485c4b4f8c1f6",
-    "9e82403ef6f4a3e2875ea3706c98eef20b36e73d8e4887cb97e9f61bd0dae684"
+    "9e82403ef6f4a3e2875ea3706c98eef20b36e73d8e4887cb97e9f61bd0dae684",
+    "2c47907320e6eb36e276de2e5fa7da5c83475651b27228a520e383370d71846d",
+    "620ab3414897959fca36ed9ffd074679de483d5a6b25d1f426cf5fb4cf4f4f0a",
+    "980d97f3c67cd48ece652e6e28430c84b7d5489b42931f60e43e3cf8fe206047",
+    "42d2cc05ff593634a3c43707be1bd7eb20f3cb06a26a129c3e267fcb5c71d59b",
+    "a44401b815e954574887c0ca26753d75b3502dc8d04cd213261cfd40230ea2df",
+    "023c43b0216e37d75e3fda86fcfa0446c9385563e6bec4240178e00c0a806437",
+    "7fb0c801864898f42e089a837407e1a0dbbf1e5b202e974b1933d80a77baf9b3",
+    "d8bf03a3a1aaffea6e79ae4fb98cb297c05d2a102b316c5638297596af4a23da",
+    "6b6f77e10c6c3d9d9d515d77428bfb40b11220fa07da6b9cca377a9fc655c34b",
+    "87e9d9211be3aa1484ed0876bc676795986ad5030a8d02597dcf77bc4e80da04",
+    "3702dec05b3a2e706e98b075b278d73307ad27cef490edd15492c5479eb0e8e3",
+    "d503babf7fe3c4df013cf4728c6aa62d64b82d0abfa7de84fc17b8785f9c6bfd",
+    "6148cc301303c85f709df80b06e3b5b014b995e475ac13e428c4bc26a5426360",
+    "402a89cd20453cd22f0f9ce604a7b0434d08a203a789d95144ef3a55c29ecfd0"
   ],
   "title_hashes": [
-    "4891dda9aa3fd271f0405d6f48e4979f79d8edc585ada99d70698931d0c5dceb",
-    "1937e595dfdf005351fa566a3dd351f1fb99d240da7413db8c27bba648c371ee",
-    "44c26bd0090a1fa5218d096f39a4b24f1d71a006427402247ed733e5af167fd4",
-    "436a094485816b055cf8509edb2721c892b204751ea72efda5d5fad88f0e95d1",
-    "241f62e7fef509d2ab3ebb6a23c745941db1988dc99223dfb7cb7342f874bbfe",
-    "643987516c9bd7f48c42575da332d73543ab688f54e7a33fc6f9f0fd5254cba8",
-    "248a0cc5355538cc9f6c5bf8dbffda747a740ab964ab78482a1f20f0b22a7724",
-    "785d6e45f7e5243f6733c5b9ca50fdfacd4fa736c4b9a834f54d97547b31a915",
-    "63f1a97ebff93a09a3db8a87261e086228a903f612381614eb0b2673acad9f42",
-    "5dbb5803c718e3c6dc720962347d99086c32edb784f90b0b489ce8776c4d1b03",
-    "62fccfeb25bab08042ff54786edc977bfef2f0999fd75441aad3bb5c23b4c821",
-    "49f76cd090847283f3d77d162a8af97bef9d0b6dffa6ed9cd7332bd3d3fd1c5d",
-    "5cf3bf9ca623456d83f67590c56aec257751ae5b70a4fe1eb28c57d53279be23",
-    "496be38abae9cd7772e9352fe410a015f0d70eb886880f9bf600e2363cce9bf0",
-    "90fc25a6344c01fab1e50255c61879eeaaf5e4dab17f1d88528b42c3bb0223cb",
     "eb13b38df130d99058f8525806c027e277e2a9b3db9ae55e6d526be31df4efc2",
     "1bdff1fbd2d2f1703aeb66b5ff93da4b78cd6023001ade8b2284f7974b4edc8c",
     "4cdc7b1963631a8c539dbefca758df0893e2330068ad8b5402e37b85becc6df5",
@@ -8002,23 +7987,24 @@
     "4e90798e9dc4126e0661e96ff29c92b6d4c02c31e432e41669cfd2c9105655b4",
     "b7ccde5fb2dbb6d9b7629b79ae96610e96cd74f85f9e955b98838fdc9399afb0",
     "e472292305a58d3823f95ded511f0cb99f102b6fee8d909924fc34e378c42d24",
-    "82768e531843e9bb24c3e39065473dfe461c19c97d69c4ad7ed9ada89298dfe7"
+    "82768e531843e9bb24c3e39065473dfe461c19c97d69c4ad7ed9ada89298dfe7",
+    "4d7509ca086a89cc3a801de20f82b10253d8b9ca6fa13a5afa280379cb98a578",
+    "13eb66ce64eafadf578584cbf660fe20f5bc5255d6ad512b30cdd6a623b6a5bb",
+    "37ce5f6bd4578c4e007e722d03a664d4c0615f77da7b13f6c8ed0964e497a834",
+    "4f0dd206117cab106011f890b0d9b90c3f0fc53599d96235e675184a3cff4a0e",
+    "d07f4bdb9908bc28ae4110ab93709fb44872f9989a859a3b28fc5ed8dc24ada6",
+    "eb26a9b8d38f4b1b5b3ebd6336d692e5d1f4404f6e40ce73cf6b5b1452577937",
+    "b608f35709aa8983a6f66ce261fb12f44ddf39d4884700df462275198bbc76bc",
+    "8a7a9ee1d5dcfe5c39904edd1748dbb2de7fd55e21910da18744cecaf0a9d60d",
+    "ec7183521cece27ce8c41f6ef298dd8078a997e51693fdbcd8620e4d3b8b2a0b",
+    "2ee7dceef3b287c5c2a179751a621c0a15f5cc7738d0b84107fbc3f990c285be",
+    "d41c0a9fe7c1beccf7b1c57c998ba9a41f769a8dad73f1bede66c50148435b10",
+    "86b8e7e3671e535bafc3264124e5e543cb844dabfc0cc8d3ee2a97b70f14a5dc",
+    "c3973ed6c7eaa68e55d4c5a9ed6e82226f344abd2d08073d1697d707c356b918",
+    "a484a8a0a93ac1dea19016ed7fa4dd925fdb5e081e1cc50ef24bbc2a011b5e84",
+    "41c281d1f70483d2528fbaa2651b1441118be78a481e5a227225d976470ec9b9"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "JUST IN: 🇺🇸 US STOCK FUTURES OPEN GREEN AFTER $2.7 TRILLION WAS WIPED OUT OF THE MARKET ON FRIDAY.",
-      "title_ko": "미 증시 선물, 금요일 2.7조 달러 증발 후 상승세 전환",
-      "url": "https://t.me/marketfeed/1083546",
-      "ts": 1795390258
-    },
-    {
-      "source": "철강금속신문",
-      "title_en": "현대로템, 극초음속 엔진·메탄엔진 개발 본격 추진",
-      "title_ko": "현대로템, 극초음속 엔진·메탄엔진 개발 본격 추진",
-      "url": "https://www.snmnews.com/news/articleView.html?idxno=577761",
-      "ts": 1795390284
-    },
     {
       "source": "TradingView",
       "title_en": "Beijing to bar young 'red-chip' firms from listing outside mainland China, sources say",
@@ -11504,6 +11490,20 @@
       "title_ko": "케이엠에프, 코스닥 상장 철회… “적절한 가치 평가받기 어려워”",
       "url": "https://biz.chosun.com/stock/stock_general/2026/11/23/LBUMLAUNXNBVHLDOYY75AVRMAU/",
       "ts": 1795419896
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Trump’s Intelligence Chief Warns Americans to Brace for More Tech Disruptions as AI Era Forces System Upg",
+      "title_ko": "트럼프 정보 수장 \"AI 시대 시스템 개편 불가피, 기술적 혼란 대비해야\"",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63519133/trumps-intelligence-chief-warns-americans-to-brace-for-more-tech-disruptions-as-ai-era-forces-system-upgrades-bumps-in-the-road",
+      "ts": 1795419922
+    },
+    {
+      "source": "인포스탁데일리",
+      "title_en": "키사이트 테크놀로지스(KEYS), 4분기 매출 40% 급증·가이던스 상회…월가 목표가 하향에 주가 약세",
+      "title_ko": "키사이트 테크놀로지스(KEYS), 4분기 매출 40% 급증·가이던스 상회…월가 목표가 하향에 주가 약세",
+      "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=219068",
+      "ts": 1795420052
     }
   ]
 }
