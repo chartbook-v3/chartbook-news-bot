@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795477445,
+  "updated_at": 1795477597,
   "id_hashes": [
-    "2c47907320e6eb36e276de2e5fa7da5c83475651b27228a520e383370d71846d",
-    "620ab3414897959fca36ed9ffd074679de483d5a6b25d1f426cf5fb4cf4f4f0a",
-    "980d97f3c67cd48ece652e6e28430c84b7d5489b42931f60e43e3cf8fe206047",
-    "42d2cc05ff593634a3c43707be1bd7eb20f3cb06a26a129c3e267fcb5c71d59b",
-    "a44401b815e954574887c0ca26753d75b3502dc8d04cd213261cfd40230ea2df",
-    "023c43b0216e37d75e3fda86fcfa0446c9385563e6bec4240178e00c0a806437",
-    "7fb0c801864898f42e089a837407e1a0dbbf1e5b202e974b1933d80a77baf9b3",
-    "d8bf03a3a1aaffea6e79ae4fb98cb297c05d2a102b316c5638297596af4a23da",
-    "6b6f77e10c6c3d9d9d515d77428bfb40b11220fa07da6b9cca377a9fc655c34b",
-    "87e9d9211be3aa1484ed0876bc676795986ad5030a8d02597dcf77bc4e80da04",
-    "3702dec05b3a2e706e98b075b278d73307ad27cef490edd15492c5479eb0e8e3",
-    "d503babf7fe3c4df013cf4728c6aa62d64b82d0abfa7de84fc17b8785f9c6bfd",
-    "6148cc301303c85f709df80b06e3b5b014b995e475ac13e428c4bc26a5426360",
-    "402a89cd20453cd22f0f9ce604a7b0434d08a203a789d95144ef3a55c29ecfd0",
     "362c08bfba894dd4cb7a1b3a1a7d3e9dce968292409fea0e2db6fb98f8080615",
     "590f469ad24d6ee1150ab5d3335d8873f92ebc2815ece39ffa89e495aed8f399",
     "0ef94457c2c24bf0a72ab070fcd19f10e4eddbdb9e806eb5892fa8106c66dc9a",
@@ -4000,22 +3986,23 @@
     "c27cca0220ba874cf3dc34bafbdda630c9543ecfa0d2a62e1f2bd9efff66267b",
     "c1bc9f91266f12cec3d05136e919a9710d70271e3d4d69e40f2ebc125f464a48",
     "1d43286bae0a1b470a99a5856c0dc6633703176c08ef0b45a86c8f89820d8505",
-    "6b8d88aff2d5911fd3fa656197d39cb2a1f019b4e3a656d016ea24e8f0795119"
+    "6b8d88aff2d5911fd3fa656197d39cb2a1f019b4e3a656d016ea24e8f0795119",
+    "280413243869f5d3c84afa027a853c39b29fd134dd81ab0816fd47abced6dc1e",
+    "8a80227642e0aa5a67af75746387a6b099880ab51045b0ffdf0110cd2de4f8c6",
+    "5c4d305f7cd5ca77c69ab3e3792aad1c36b7ef5b5b7fde0b0966cc6ee51e418a",
+    "87aea03c203bd2af602dd4c3e52fd5346a11b8eafb3224dede06a3ba639092d5",
+    "8d9722f4958229b9e04dd56e2ab8d503a80810b9bd73d2ffd2afbc80e850f9a0",
+    "6ec33b3dce95c62b25c02d9068bca12510bd33f35a0374b0c87526c8a78f00e3",
+    "82d6772bb8c6b9391615c4ee1915200dcb41eace3f0efefdd683fbdba79b8754",
+    "afccb0608c45a09eacf42d0be8e086a1714fad2e99b10de7fe20e12d2dc0361d",
+    "67c88eb25f2fa83e9b9248a77fa97884f24b49087692e7ef47f64e3d60c55c98",
+    "00e980cce86879e1666cdebe5ba14650de649750dc7be35c9fb3c3fc9ff42be3",
+    "f232197598ef25049df1d7f1a32697957bcb4e081df1685bc50f4bd9987537d5",
+    "c2d6b3c213157ad17878833d004dbc50d11a32d1c38e2a14c2b4d50cd73c8a6a",
+    "90279f2e33d15d61e577c9637170afe845e3416e199058f8e66ce9d6b14faaef",
+    "dc0ed13493f7838a6cf93d2b0e72d5e845783a2b1ae7f191055625dc0b40380e"
   ],
   "title_hashes": [
-    "eb5ee978c739562a9ff786f9677cfb142d69510d8a1a4e3ce1d74eec7706460e",
-    "355f82a89f8ddaab40823be88ac65175d31f74bc5195f039c6bbf3e5e93eff1f",
-    "521fc06ae5b60e70b4e5fc4c5efc25e4a329f7778114570e97cda98fa12531b7",
-    "a8c70276b445116a73f8ecd3bb7181cc5e31e742b1c9922b74bf63f4d649330e",
-    "46a93a32a3c74969c2d0366b67e199bec61bed1d8a8490f74c02d54f05990f45",
-    "8bf89af8a19cec35db2d8d0e5d1809a2d53a3bfeeda5da2aa8083479137d3f24",
-    "4a41502ffcb0e645348dcd986c139ac6ff487a7e2e630e225ee354f37738db7a",
-    "4cf046cd0452546ce565984aa9c27b369097758b703eeb10e8ebca59d924c3a6",
-    "34d2420ffd68b9ce858890f1da846476b46117e8c065c20c827745a8e28f96a3",
-    "d51d8392e7aa394eee9653bde2c953b3478dbc97eec1257ec64b26a9f46af041",
-    "b5b075e7ae78f0a50636c4fc4ec77b1e5cbdef7a68fe0ec56cff786bffe375b2",
-    "8354069224815829f28d43e70347f147e7f6091b993f02e80ac0900a3786f9a3",
-    "60d46d914e0b0a0e3bc2ed311601d7e83b788c689a57bcd81de845cda67e13c2",
     "23a57ad2a1120888b5ca2282508a629f5a4a2615364bc1ede91376be57aed313",
     "9ace75168dfd510131bd92c05686eba8c452b40cb8e37e05716d5fb4645b649c",
     "f4db60f13a35af9f6fe07ff834520be13e080dac9ed3ce1b14c67dccd7a680bf",
@@ -8002,51 +7989,22 @@
     "66413bd2ecb9fb0791ee9330dc6aa1f2995c9ce73cf2a60711c75b8e25e15df1",
     "3aba85bf3aa916518abe872370ebd50d597c5d9cc0a3072bf6ec42d69d70c584",
     "895bb852ef5a70fbbb671f50f45a302ca084e51a0fedb785da13a72edcc38bb3",
-    "ef8036a06a2556e3d09e9ba2dc1dbbe7b0fccb90d7715028dcf71ed328b29e0b"
+    "ef8036a06a2556e3d09e9ba2dc1dbbe7b0fccb90d7715028dcf71ed328b29e0b",
+    "09bc46cdaa7dc774bde91d0ba43bf25d3f1cef3e9072e0da3ca2e5ae3d534f3d",
+    "a5296c337bc508efd0c196c728820a47602b857ac6e40aa43dacd8f76e089d9c",
+    "7470aa2bab1914320a9d0db20d2de61022df213767183b6ca510bbdf42f35cba",
+    "cee1ff44aaa5c4e786904b8ce6ad95b067f1c9bc4dbc112a86e3ed65c713b723",
+    "7a5934258d999fd22752f2a4ad6c730efdc3f93eba58b1da24d9d269f956c727",
+    "ba8122ddc87e1adc96def9c5786088e5b1207224ba02394cd9cebe2ca26f2e89",
+    "4d29a816a2902690671226ad8fa6837f591d33e695d93f9b78e7484250bf01a4",
+    "d68120b28348a64bc93ae24b992383b68378712c304fae6c1706ea5823ad7c27",
+    "58511686f5fb6191b06324f39568a96dc15dedd139eb0f82a8cd1abc727dad63",
+    "bb385f313a39566370e433ed75278a6bb6d826e539e88e9d84f5095108963430",
+    "8718ab55431c738f7ba139eef022f89efc035fb20ae2a7ec68e2720bfc11e0aa",
+    "c37c2039ebb5a341a4fc8c88e4813927e6b2e3f6a92aab8c63321a0345b73be1",
+    "76dd2b8e2b6196baae8f35ccb869fd74ca9cf6a88cd60bb900604504e12f7bd3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketWatch",
-      "title_en": "Dow points to 900-point gain at open as Wall Street maps rebound — live updates",
-      "title_ko": "뉴욕 증시, 다우지수 900포인트 급등 출발 전망",
-      "url": "https://www.marketwatch.com/bulletins/redirect/go?g=c41f49fd-0f54-40fc-a731-c14ee917f8f5&mod=mw_rss_bulletins",
-      "ts": 1795437583
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "$SPY $QQQ - YARDENI SEES AI SELLOFF AS BUYING OPPORTUNITY, NOT START OF BEAR MARKET",
-      "title_ko": "야데니 \"AI 매도세는 매수 기회, 약세장 시작 아냐\"",
-      "url": "https://t.me/WalterBloomberg/38890",
-      "ts": 1795437751
-    },
-    {
-      "source": "CNBC",
-      "title_en": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
-      "title_ko": "SpaceX, AI 딥페이크 포르노 관련 오리건주와 버지니아주 고소, Grok 안전 주장",
-      "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
-      "ts": 1795437809
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "$ANT - ANTHROPIC SHARES ERASE PREMARKET GAINS, LAST DOWN 0.3%",
-      "title_ko": "$ANT - ANTHROPIC 주식이 시장 전 이익을 소거하고 마지막으로 0.3% 하락",
-      "url": "https://t.me/WalterBloomberg/38891",
-      "ts": 1795437817
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "GOLD NEARS $3,500 AS UBS IDENTIFIES HEAVY FUTURES SELLING",
-      "title_ko": "UBS가 대규모 선물 매도를 확인하면서 금값이 3,500달러에 가까워졌습니다",
-      "url": "https://t.me/WalterBloomberg/38892",
-      "ts": 1795437826
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Deutsche Bank sees S&P 500 reaching 9,000 in 2027",
-      "title_ko": "도이치뱅크 \"S&P 500, 2027년 9,000 도달 전망\"",
-      "url": "https://www.financialjuice.com/News/9864341/Deutsche-Bank-sees-SP-500-reaching-9000-in-2027.aspx?xy=rss",
-      "ts": 1795437872
-    },
     {
       "source": "WalterBloomberg",
       "title_en": "U.S. PREPARES NEW TARIFF WAVE AS INFLATION RISKS MOUNT — KPMG'S DIANE SWONK",
@@ -11504,6 +11462,48 @@
       "title_ko": "러시아 군용기 영공 침범에 한국군 동해안 지역 보안 경보 발령 - 연합뉴스",
       "url": "https://t.me/marketfeed/1084219",
       "ts": 1795477319
+    },
+    {
+      "source": "한국경제",
+      "title_en": "젠슨황 엔비디아 복귀에…공매도 세력 '16조원' 넘게 손실",
+      "title_ko": "젠슨황 엔비디아 복귀에…공매도 세력 '16조원' 넘게 손실",
+      "url": "https://www.hankyung.com/article/202611245745H",
+      "ts": 1795477469
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "키움증권 \"이차전지, 내년부터 실적회복…업종 투자의견 상향\"",
+      "title_ko": "키움증권 \"이차전지, 내년부터 실적회복…업종 투자의견 상향\"",
+      "url": "https://www.yna.co.kr/view/AKR20261124029600008",
+      "ts": 1795477472
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "한투증권 \"주가 하락에 외인 매도 둔화…환율 상승 압력 완화\"",
+      "title_ko": "한투증권 \"주가 하락에 외인 매도 둔화…환율 상승 압력 완화\"",
+      "url": "https://www.yna.co.kr/view/AKR20261124027700008",
+      "ts": 1795477474
+    },
+    {
+      "source": "인포스탁데일리",
+      "title_en": "현대차, 산림청과 손잡고 ‘ST1’ 산불 대응 차량 실증 나선다",
+      "title_ko": "현대차, 산림청과 손잡고 ‘ST1’ 산불 대응 차량 실증 나선다",
+      "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=219072",
+      "ts": 1795477478
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "RBNZ: NEW ZEALAND MAY NOT SUFFER ECONOMICALLY SIGNIFICANT DROUGHT FROM EL NIÑO",
+      "title_ko": "뉴질랜드 중앙은행: 엘니뇨로 인한 경제적 타격 크지 않을 전망",
+      "url": "https://t.me/marketfeed/1084220",
+      "ts": 1795477533
+    },
+    {
+      "source": "전자신문",
+      "title_en": "젠슨 황 복귀에 엔비디아 31% 폭등…美, '메가스피드 제재·상원 공개 청문' 압박은 계속",
+      "title_ko": "젠슨 황 복귀에 엔비디아 31% 폭등…美, '메가스피드 제재·상원 공개 청문' 압박은 계속",
+      "url": "https://www.etnews.com/20261124000017",
+      "ts": 1795477596
     }
   ]
 }
