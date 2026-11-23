@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795435854,
+  "updated_at": 1795436004,
   "id_hashes": [
-    "2f085bb1993c61b0a661a43dcd743d4a1077355b0edb55b6c74b8867e57a487d",
-    "ffa1976293da31990b1640b6d7fa1c394597dd12edcfb95709d466615505d768",
-    "b316062f62a51b3bfdf6ea9b9991e99b9b851c1940c2cf0f8dc5822b710eb878",
-    "7b595a94c6be5eaf505ba9198b6f37292e0f3b8d003eb69e7c9156f1a732a085",
-    "31ea3a447c0079da9a9e46c390c49c64835ddbfd0a9c3609513d92c57d3d48b2",
-    "ea56092430afc97046863ecb1c1382a16244f47d05299876346cc93ad814c1d5",
-    "56ee95d296cfc3f8518c513d02e3f0d965a31d466d4a77ae03cb534cab9c116e",
     "b36a3438bf064ab722c2fae18bc24f04ffe0c1ee682283d533e32802ff1ebccb",
     "8c0540900668de4c2ec6a95566f885b6cf74cf89d1b88dc8c6986e4adbedf90e",
     "b51f7dd7c6a9cf277572f8fca6435b1848a38a732f4acb14e04177f8d155b2cd",
@@ -4000,15 +3993,16 @@
     "2ba3a561d0f7b17d2a11f442f25c5df13727082a4d26203a0ea29243c1a78668",
     "9b94aa57cab2e33f4b4c775619529e62189fa263440490073c945c06f36dc790",
     "c59e2228e0104599d77379c73ed025285059c9dc3610a999f8cf5fa925390379",
-    "46cd0a06f281abeb2981ac75713ffb0497e2c12621ff09231a9b5db810275092"
+    "46cd0a06f281abeb2981ac75713ffb0497e2c12621ff09231a9b5db810275092",
+    "40e808dbc39aa6a83a67b3b0baac37c240a8f170238e5c9212b2faa3926ff271",
+    "05350d3475873b06e10c559ad1c8a86632b1a8ed545b4f6bdbde5217e913b17a",
+    "cede4b3ee60b4e8f80508bb7b6e6924c4a83242297fb5d0b589e1a2c88f8d67d",
+    "c558755a2fd2cd943697d26607572b57ba631d9758781b4b59b4297ad9942d6d",
+    "8b233c7739361f536597e1d92b549381e51d7ccc0bba0c43b4971411014ef9b2",
+    "027fdea73af35166bb8eea79125d775c5f299679d451d90b5ae2665b3ada1675",
+    "8c3ef3371867066bb6d64cd8a4b8935a2acef8869ffadab3e7387b255e28da8b"
   ],
   "title_hashes": [
-    "6f3c49617ec3994f70a359e58cfff32dcbc7a32ef2003a26abfc63393cf5d647",
-    "b49ea37f57cf7b505255d18e2ffd245543438fcda7c6b9a89bd93b98f0a44e72",
-    "0992bcac453bbb914085d898eb1c2a3a6bde93344a4606935ccca735d7c0b6b5",
-    "7407f43ff22d5665d596f5427e53cca9820f98aadc08b27f71936d909007527b",
-    "3b10c8513d63d4f375a6b391322024bbe85417908018ab6d0bd89cb316757a65",
-    "bfd978390820bdda19162fb15807af33a8d16e8e60faed10f13df16702e188fa",
     "c7f67241901bc880ff413ed06e775785e22e58b69ed57efe0b74821b0214a376",
     "02e99a2f8c243393e30eca16ac9181741b802e7bf67a6a185a331c7973583f2f",
     "2e1242cf20df385a6fe70a4f4583b48f8405e9b36e3de4b2bb9f598cd8a549fb",
@@ -8002,16 +7996,15 @@
     "df207cadcbd1d7a25f543e8937c6efa9bfabaf46717a9b6b1fa1d60b13e17d73",
     "81eca77a0e2f510b9bdf6860d0597acd106d1b343ea92f3bb9e70483e68d5f73",
     "d3d4b3820ce3048936980405b86aecb527570ae8e9cfd9e4e5e81f1903fc6e62",
-    "110bac4d3e85c7d8f8594635dcf135b24595c977d55d82484f07b6750317a3ee"
+    "110bac4d3e85c7d8f8594635dcf135b24595c977d55d82484f07b6750317a3ee",
+    "ab8ddf7817ddb5b0424a136630315c7e391e30cffd2c9c00b13d57a2d3a73015",
+    "70782d89f296a43e850bd0936135ff18f4032171375ed6f4de199c4d83f465bc",
+    "5b58ef1fd612e59ec60b1853b89a6d1b8f5d976e8733ea5f82d205353dd8271c",
+    "3c730872404a339872a8b56fce8dc62037134dd76a6c32c146a559aad6ac1d7d",
+    "e24af65ee0f3c96aabc61115d99ec27650a87a0bcfeedd55cb182d71acb905c6",
+    "be3f34daeee91fcd936f7a2896dc3e078ab2ba8f2219a4ccf7fec7cf9d0df8ad"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합인포맥스",
-      "title_en": "여전사 무리한 금리빼기 '눈살'…일부 운용사 보이콧 기류도",
-      "title_ko": "여전사 무리한 금리빼기 '눈살'…일부 운용사 보이콧 기류도",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446027",
-      "ts": 1795402715
-    },
     {
       "source": "Benzinga",
       "title_en": "Kevin O’Leary Says Nvidia CEO Colette Kress Is ‘Pretty Sharp,’ Chip Demand ‘Insatiable’: Crypto Bettors W",
@@ -11504,6 +11497,13 @@
       "title_ko": "헝가리 총리, 조만간 우크라이나 방문 예정 밝혀",
       "url": "https://www.streetinsider.com/Reuters/Hungary+PM+Magyar+says+he+will+travel+to+Ukraine+soon/27384252.html",
       "ts": 1795435851
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "\"러, 이르면 12월 핵탄두 탑재 위성 발사 가능성\"…서방 정보당국 경고",
+      "title_ko": "\"러, 이르면 12월 핵탄두 탑재 위성 발사 가능성\"…서방 정보당국 경고",
+      "url": "https://www.news1.kr/world/europe/6363450",
+      "ts": 1795436003
     }
   ]
 }
