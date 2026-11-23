@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795452585,
+  "updated_at": 1795452734,
   "id_hashes": [
-    "b264f9938a9c2645a589bbc66faec643b8274fac8f075717ee3aa6be83750d6c",
-    "da59e6afecb7e5309f25bcbfe3866f4089d0d45c353a47a2c5dbf49290091ae0",
-    "cfd5d893d5cdd0087dceb75efb97da3363f53b2d4ee6644cd4b165862268f2a8",
-    "d64ef6d505b5ef4c8d3aead69425f5fab8412a0b726d17b95ff713c0d1436d39",
-    "c7e442dc0553998c45a7d5744a2c3d5b0aa197e01633216c980f40f6ff6837dc",
-    "7ddf0d7943cb33f3ede4cb43ee7e5d58345fb1c8b79d005143f02a43e5dc9b32",
-    "213859b4b02850b485a261cce5b3acab81579242f23ca802f8623c382a4ec792",
-    "07bdf2202c2a06c370479362637efe2f7062443609550c6e355fee99acf34d01",
-    "8513b88be24db0c43fb1084be4755f74025236f1b76fa2bc32581acbd509b736",
-    "c3503fa9c5390fefee6f8048861ce74135d315246da21c98f683715c34d51e22",
-    "d7f4f237209c33f43ded41406b941ceb281d117789a5efac00a57bbc1c9dd5db",
-    "a8740df8c47a6f23538ddada97743aa74d4f7103f02664374b3c579032322d53",
-    "b5abb486eb2297ed351494d5881a032effc9f03aab84f86a7da262bf1e863a15",
-    "17482b0d5c3f984d1fd490189138a76cbe75cf24ab0cddc409ab044ea483c4da",
     "1d761105510549811be76b347c78714de6b07e272434d3373c953bcc5ebb438d",
     "5d98f237f61e66948723bbe33a783288e44afbecb71125e86f3663cd4f31e255",
     "72b14590a4f78ea8ed8b941776addd18659a2de8a1ca5f5d015fd8f0a4d92c8a",
@@ -4000,17 +3986,23 @@
     "fa0738c7e6bff1f12fac98e45072a6d3297e55ca5a7f8fccfd7921e9cf56a03e",
     "4a4ee0652ec69443b3a56077dbbde396778ad0f13a14446bf262451e60798044",
     "62f31aef3e03af1627f20ad3c468a1a384aeb6958d7eb86f2ba137dcdeb9844c",
-    "1ea4f0cc616542692e152d5c215d319d627929d06f4a40b22584f792b89a18f6"
+    "1ea4f0cc616542692e152d5c215d319d627929d06f4a40b22584f792b89a18f6",
+    "9093048663bb6bd5d2dee448392fcdf4d51ce45de1daee8cafe053c96111e2ae",
+    "9970c1b35ff992107cbea7074e823622031ed29e686c4db8e89fce868ed0291e",
+    "7813c212dcbce38a420c16e28c5bd8449763f9268181c39dbbca27f31a58e5eb",
+    "357e4edc2071f87bcd7fe0b5e9315ec4873b0345bd1130420a38093a7eb004de",
+    "18005704cb852a9053c2240cabf9bc3f21c77df6a72b2741e3351d420b933e90",
+    "4341001e0d08d171a29f81a084d290c050850d37262e915e8fc7ca4ae8575f07",
+    "820fd7ec028b58310a48d87e4b8ebd9f0816ddf5ac0b1591dc82bde93eba1f39",
+    "e77c12969f05a457da3ff2dcd082bc88f4c14da3f5098b1195a68dd66b5caa0e",
+    "87d443ed38e4c3a1ca7b6dd5aa55316b2d208f16faa5fe79eb89f4428b957f49",
+    "543568aa2033945626bd345899d34b52626eb3c03ea9970ff2c45614c2b769fe",
+    "41a2591c6adb95d9994a68806b9c2318318f166096487517ed5b0f719a93e650",
+    "b7abc9b72473244248b4e26b07c3bb145665a400a8fe8bffee90502e40407674",
+    "acb4563ad81dabb225069a9c81c6500d22351535bc11eb562cebcb71ac6072aa",
+    "d612fa7da4a184319e313a9b9bfbd2c84e2af875377395a4d8fb3db4c91ea0a3"
   ],
   "title_hashes": [
-    "0a0aff723ee46e3f858995396415e322703f67224a267e13abf788bcab038e1f",
-    "df9e73281b7b5db13d3855222ea880f3c4f0d572dded8743673b0ded72d22ab0",
-    "5137cfb0ac094223ae8056b251d7742fac564bf268df1365086ad632d5479ec1",
-    "a87da23b825f0714f28fa01d29899862be3b591655f80aa732562e17bf50bd68",
-    "9cc3dee8ed2a5f1f82cfae46dacb4abfade2a4c12d5202d6d6ccf35c62d991b8",
-    "d0c7e5dd24eaf3798ef4ad5db201db8e198844971fb67b3b50fff8a436050a0d",
-    "f709abc8bdce562cc66722fab59f9782903ab4de7b9ad63d17936fdb2699d4f6",
-    "305038a026332ee2a5a77cc9f7ab10115a40cd6804f8e8f966205ef782026538",
     "95e56acbec81a40f0d3bc3876a4cbf8cd3c2b032bd171bcc20158c27d3856532",
     "a7ec517f209accfa3df1eab678353f78a7bb565ea4b92cb1dc191a8359d4a59a",
     "2daf1246b7d4c220a4e0e6b8b387402b94f46f653d9d09f2232c05707c84a3a5",
@@ -8002,23 +7994,17 @@
     "2aec7e3472adb96e52cf96fb5e48130034b1c477bb859e375177c4c6bff7841d",
     "84d00bd1d740fc058db84b49143ea885f470c3cb3ec2476ba0c1b56917b34495",
     "c8e2d9881eb299da66abd5cb35541339dcdc1a180a5cff6226bc421ef53426e4",
-    "bb450e120dc07248b3e1b1741cafb4553f3b8c2abbd64e842034bfc1cf4958e1"
+    "bb450e120dc07248b3e1b1741cafb4553f3b8c2abbd64e842034bfc1cf4958e1",
+    "92ddc5b0749003cceebbcbf036626809e71dec58ad90cc00e4ca68fb96abde07",
+    "3a0d9e405e037c320a616a940978f8e382b46979309a8bd74050466a4410c039",
+    "a4bae67c4bbdaa8263856a60f1d007649b4ccf14ba7ae3de2a53a92cb29ae74e",
+    "b0391eb6b9211a73a92d21386d9cb222bb03fbe7b376157dad37d04d7b0af517",
+    "82fa86373787e600eea5a7bd4e402617d1d4891cae6f6954a3dceb5163165555",
+    "1246711b6f7ba46da184f57da3be7b55604e44ee0ad7f75abe5a88951bc403e7",
+    "614be9aeaa6f2c946404b93b864adc85c78e0c01c351aeab43b44d2ec2777e2e",
+    "3090cad92224d2d12e61584134f958993d74b367b131449c49dfe46c4366b194"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "월 15만원 기본소득 정선군, 생활물가 인상 우려에 '조사' 착수",
-      "title_ko": "월 15만원 기본소득 정선군, 생활물가 인상 우려에 '조사' 착수",
-      "url": "https://www.news1.kr/local/kangwon/6363403",
-      "ts": 1795429163
-    },
-    {
-      "source": "CNBC",
-      "title_en": "Zelenskyy praises ‘exemplary’ drone operation that sank Russian warship in a Libyan port",
-      "title_ko": "젤렌스키, 리비아 항구 내 러시아 군함 격침시킨 '모범적' 드론 작전 극찬",
-      "url": "https://www.cnbc.com/2026/11/23/ukraine-russia-warship-libya.html",
-      "ts": 1795429230
-    },
     {
       "source": "CNBC",
       "title_en": "Treasury yields jump as stock futures rebound, investors await New York Fed President Williams speech",
@@ -11504,6 +11490,20 @@
       "title_ko": "미국 6개월간 시상된 높은 실제 53.420%(예측 -, 이전 7.390%) $MACRO",
       "url": "https://t.me/breakingmarketnews/179811",
       "ts": 1795452583
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Move over, Microsoft: Nvidia shatters one-day market cap record",
+      "title_ko": "넘어가세요, Microsoft: Nvidia가 일일 시가총액 기록을 경신",
+      "url": "https://seekingalpha.com/news/4675716-move-over-microsoft-nvidia-shatters-one-day-market-cap-record?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795452672
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "INVESTIGATIONS INTO MEGASPEED REMAIN OPEN AMID NATIONAL SECURITY CONCERNS",
+      "title_ko": "국가 안보 문제로 인해 MEGASPEED에 대한 조사가 계속 진행 중입니다",
+      "url": "https://t.me/WalterBloomberg/38971",
+      "ts": 1795452674
     }
   ]
 }
