@@ -1,27 +1,6 @@
 {
-  "updated_at": 1795446120,
+  "updated_at": 1795446305,
   "id_hashes": [
-    "9febb6de7f205cab2ab88cf2c723306586aec295095a0de9462c4c54b94feade",
-    "5437ca50662917f0e3054056f06894193e87b1f28512b4e20cdb68545d5a883d",
-    "b768df8a8c7b784c74c49d814126a95574da6f63d1b0e546af5c8b5bad630e6b",
-    "346246cc98c390983306c8ec6064a5f54b98063eb5fa28f1fca1e3852d17c8f1",
-    "7db75113f3f67a1da0eb0f9bf79b30d9fc0dee67df7dbf17115b9720f52bac48",
-    "ad66ad782244a7eab08aa533deea0543fbb410b7abd0a1f07f960ad925cd02ba",
-    "228a1da27bc53290c02a83247584dc79d6340593f0c5b467c0961e0974fce243",
-    "1cdd608be416a4367b18a50cdf6de7668354d2650b668fcd138bde514b650fa2",
-    "80e2879f7759cc3a3219312bb29fd944b9db76dab6a32e2f421172a90221a6c6",
-    "be53a7dab9557f69e8f71d456d9f3661363996b176c00bfa2a846030fa92fda0",
-    "b7d2c4765e46e150fa350d56fb1f762e9a0e1b71e358608b7f368d8096692d93",
-    "a9c4c175478544af044fd2a56c41c3c767fecf680fd9c959416f3343eb0008be",
-    "967da63b513bf9eeee48a93a7e055b3238083768487a64ea71b1b7c0679d8a59",
-    "ab7578122f3da366024cc518fe743740e5f4dfd83570e2de3bd0dffce8e6b55f",
-    "d3e1fa87bb24d5d541e40a20a2cd38a0fd9d782c4ee44291160bec3608db1b79",
-    "f002c7c658877fdb2bef37505cc46158580e91a3fc5c999dbda415217d13a2f6",
-    "ff417109997be91aa76fc958ec7b61092d8d9b911552bb11a2bbde18ccd2a929",
-    "157a06c34eeade15690bc81390618def894acdec9578d77b3ae2465bb938d282",
-    "e177cb28274bc92cd36b1b310e5a3d6dae9897e08abd656ca656625276c0b6ab",
-    "52241caa26fda88750fdf6e281587217b5f19a4fa3101beab3c7bf58bc8e8f9d",
-    "4ef7b9071d9dfc40cf44e2bb10d39c4472dab32c358368935f658379b7ef3ba8",
     "1b9ab23ef5a3f1c2bf7cb18bc2d2e01b771b4a32f42cccb4118eeb77a9808851",
     "406153f50857145acb45e251428885529b9a82d8ea53a0571a6c75896101abab",
     "24e4a7c5dbd579dcb8145ef0a8424769b6c5e31bc388dfee30cd21b39b6c2595",
@@ -4000,23 +3979,30 @@
     "f0d9fc65425cf2bff2623b62448a393d1fd68a229bdb7e803cd1989862c16675",
     "2c43204e924c4524ae00ea21dafd6746d5f03d3fe647416bfc451926716a64b6",
     "5841a7b687aded7c846a84dff0f8fdad010476d251b1c68d20382853fb21eea0",
-    "4f0732b5f063fa73978bc1cea82997efb4f47b3a75f187ecbbec6bd632d080e1"
+    "4f0732b5f063fa73978bc1cea82997efb4f47b3a75f187ecbbec6bd632d080e1",
+    "541d78e42d1007c7f5395d326e6338ba889a11b4ee61076028443b0968bdb349",
+    "580424012c963c64f7ba602fd2d26fceb2d65da17e7b0217c319aee727febc9f",
+    "ddd8c59a7589e1897b79f64ce7ba0d7a3e3d0fb6a23d2fa286fa19d1bbd97103",
+    "33b829bcf23a18f5d151b8fb10446d9dea1b029ee7fd6eb1e0e739e0cd3ea4e8",
+    "799c9129ecb41465dc1d5e3a2563ae99bfe635764373edbbd27d88528b53d0aa",
+    "1c1986c0f2772e70a11b687bb0e045847da9b36662e04699f00b55f48d85a941",
+    "333b155407822f0ba6c5cc225f1335156b652dfe3e859766a8f816e9bbeb02cb",
+    "a715354c90a5d035da8b671928c9ced1d2289949ed199468a5013e6ee60b4e6c",
+    "bebf88c6c14a7155d45f370f6fa6800e3c3664d979a9dd07c5e80674d0f1cb7f",
+    "11cff920e4f47daeaab92682ae0c70f4d37f0b51127acfd0b424b70229f3fa80",
+    "87cd995e9da35716a9ec7bd72797f2aecab3830aaacc456d4050b7d50c4386ae",
+    "9ac154070757e6909f81a5e39b3a2844be29252868277f00a7000e955dc49f34",
+    "38d39c50438c9d8ed31313871a5c95dc590651e46c1e77ad88d7f2caa1fb3929",
+    "d4642a2990450f359eb207d128fd1dc061622bd32a69f16ff118f979a5527ebe",
+    "d6d43df21b76e11ae1cb28ac39c57bfed358ec6e23184c33db76f73d9fbbf51c",
+    "54b111cf3353ee44dad17c9e784683d6014fe2c87ceee2ccb696392333f43a07",
+    "80b8ab6e3f5098b0da6e62e60f9a3734921a5a8b6c5725eeea08a9fbf6bf45ce",
+    "f503b7443a7fdaf8dc4b3a8859292b572c1f510e320ff39ab1471d656e01bed1",
+    "fb6e42f40d1c58d9ced20a49cff4801cc0570147cf6d410b3df3a3b462bfd433",
+    "4410aa362bfb60a852844a35d1140a2e72a12e9a170a10095b643a8e171a0506",
+    "c4747c0562491b47aa0dba24fe9fb62ae1e3e73d38212a6ef1dace6756dac238"
   ],
   "title_hashes": [
-    "de8fd20672a6c14842c62715422647f8321bf1d90750423ab3fe3265bc3bd224",
-    "63656dade2611f96fc0c5e98d273578dc7a62eabd90bb8e43065033eee75be8c",
-    "5ec515911051d4555b01c9416e23d7d5876033e495b8a3844588182eef222e88",
-    "1f4e29ced9216a1f2bfc88291f6d987d0032c0530afe524b754aa0afda29dd6f",
-    "3e73e53479ed9ac4cee989582aefd2f53003a37d6a38fc2afd5e2a0ab4813367",
-    "6fe3589d50144af99ea0fe6af4130f2464da3c18eb4d0ffa612a514315403450",
-    "f071fef2570719658033bcd9ff8f2a90515de1781a76199b9be6f34f5f23009a",
-    "d71c2b5cd1dcb887275c0a0ccd6b40e1bebca45687d2d2df6c1321e812edfc3f",
-    "d0a825d7651026c4d8a487fba9960679fe49be253f344ce552973b83e472dbc9",
-    "baea44b8a9cdefbb413624d0e343ff77a91a31bd265e52cec5db28f340ffcc70",
-    "992b3fdcb1c0d3e1dc2836803d8f6df6855cfca7cf4f63baba6a966e5b49fe9a",
-    "6d73ca9259338792382749de97002b29c553400a43ec0a79d1b306fc86278f53",
-    "27de6ef1cd9aaae43851d5b86786d94cecf6491b89ba3c77e89ac168f2116fd5",
-    "bcf73c43c690aea06c831cd333030ae4a0f8fdb458f40e1bf23304c0c9ce3c08",
     "288edcb4b80ee2b3022789b3b4726069466fdbfd309eb51ccfd43ac12c451e6d",
     "38e211fd5863d5c1e0022cb17aa67dfa4c0ce0694cf694fcf986834cd37aa751",
     "0a4becb3f886266f86543762d608253eb6eb734dcd67dde2596c25c889627725",
@@ -8002,58 +7988,23 @@
     "06bca32497e1899aef18794f4bf951a35aa17956d7c43972b3a519313548b9c2",
     "138ad410ec99241367f0736d4436ee9e034a65151e69c94e0b2de8eab78c1758",
     "b245780a01d89bcfeafdd630cf9a8d9cbc4c99c31fa209ab16ad261f135c9b2e",
-    "6ffbf54fdb7838fb536ce12f7842bb9742e514d1643d9cb67e0c44607ed5a422"
+    "6ffbf54fdb7838fb536ce12f7842bb9742e514d1643d9cb67e0c44607ed5a422",
+    "af8d043807b11c7076520bfb0b5f0d86998afc2d103c055dacb6cca168c3f779",
+    "34029968c8ac88a61d3bffd41b00787d884f3e3b8bb03c0e41d2503213db69b1",
+    "3a7ca182d275d5150f9d7119226bc96e2a613cf28955b4a1c2c7a4485a54503f",
+    "0aad9852d2661c468c7da9a49a85e4fb19229813e5b9126d88454ca9f603bcb9",
+    "d8c5de1783b6a18ff7429e8e83c0102a438e7c164c607d946fba4b9ba9f0cb9f",
+    "5265034abbb8945ade3cac71c4b0a640d248aaa579560391409aa8a37320069d",
+    "487bd1b6ae422894a6daaf96c41df81677137a440c3cbe92edc92b0565253d85",
+    "50cce589c5b38a594e1cf34ca77ed31f269d7b18fe763100653be53136b34e30",
+    "1d4a28492068c377847f4163507b9950fa2feabfd44a1b1d0dc2c7185804c79c",
+    "4a9a3d090f96fc1ba98e641db798089c7912f77a098ef07d3c1f07cf0385af8a",
+    "14b3a900f9c4133569b0db2be3a145c36c6cd85f4ec3170ebddd5938f6bb0112",
+    "3fb62d88b6da4ee5b384f1ab2dd93964713b7212c8158cab38dc3e4977fddc3d",
+    "408c947c129e7e0172dc020aa98e55e24f6884a1654c37bd9da27c2d83eb03f7",
+    "14f9324372e02e71752aecb94fd5a827f90436ea379575ea8756b40654045cba"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스사천",
-      "title_en": "KAI, 사천 등 경남 우주항공·방산에 1.5조 투자협약",
-      "title_ko": "KAI, 사천 등 경남 우주항공·방산에 1.5조 투자협약",
-      "url": "http://www.news4000.com/news/articleView.html?idxno=58777",
-      "ts": 1795416280
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "코스피, 3%대 급락 4,700선 턱걸이…코스닥 2년만에 최저",
-      "title_ko": "코스피, 3%대 급락 4,700선 턱걸이…코스닥 2년만에 최저",
-      "url": "https://www.yna.co.kr/view/AKR20261123129800008",
-      "ts": 1795416283
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "LG엔솔, 배터리사 최초 UN 주도 ‘지속가능발전 선도기업’ 선정",
-      "title_ko": "LG엔솔, 배터리사 최초 UN 주도 ‘지속가능발전 선도기업’ 선정",
-      "url": "https://biz.chosun.com/industry/company/2026/11/23/QG25EIWP6FEP7C77OZVI5CBMEI/",
-      "ts": 1795416341
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "원전 공론화위 참여 원전 전문가들, 활동 잠정 중단… “논의 목적·범위 명확해야”",
-      "title_ko": "원전 공론화위 참여 원전 전문가들, 활동 잠정 중단… “논의 목적·범위 명확해야”",
-      "url": "https://biz.chosun.com/industry/company/2026/11/23/VPQEDOL6WJGUJJ54S35RKFVB3U/",
-      "ts": 1795416343
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "'반도체-학교 연계' 전남광주 미래전략산업인재원 2027년 설립",
-      "title_ko": "'반도체-학교 연계' 전남광주 미래전략산업인재원 2027년 설립",
-      "url": "https://www.yna.co.kr/view/AKR20261123129600054",
-      "ts": 1795416494
-    },
-    {
-      "source": "뉴스경남",
-      "title_en": "조선·원전 이어 우주항공까지…경남에 1조5천억 투자 릴레이",
-      "title_ko": "조선·원전 이어 우주항공까지…경남에 1조5천억 투자 릴레이",
-      "url": "https://www.newsgn.com/news/articleView.html?idxno=587417",
-      "ts": 1795416560
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Alice Huang Reportedly Tied to Chinese Spy Agency - NVIDIA (NASDAQ:NVDA)",
-      "title_ko": "엔비디아, 앨리스 황 중국 정보기관 연루 의혹 제기",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63518852/jensen-huang-affair-partner-reportedly-in-touch-with-chinese-spy-agency-officer?utm_source=googlefinance",
-      "ts": 1795416566
-    },
     {
       "source": "연합뉴스",
       "title_en": "[과학스냅] 원안위, 전국 7개 원자력안전협의회 워크숍",
@@ -11504,6 +11455,55 @@
       "title_ko": "Donald Trump는 회사가 Jensen Huang을 다시 데려오면서 Nvidia의 소원을 얻습니다: '위대한 애국자이자 국보'",
       "url": "https://www.benzinga.com/news/politics/26/11/63532073/donald-trump-gets-his-nvidia-wish-as-company-brings-back-jensen-huang-great-patriot-and-national-treasure",
       "ts": 1795446119
+    },
+    {
+      "source": "Reuters",
+      "title_en": "US DISCUSSING MILITARY TRAINING FOR SYRIAN FORCES",
+      "title_ko": "미국, 시리아군 대상 군사 훈련 실시 논의 중",
+      "url": "https://t.me/marketfeed/1083918",
+      "ts": 1795446170
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "EC Pres. von der Leyen: We are targeting new Russia sanctions on financial services and crypto.",
+      "title_ko": "EC 대가. von der Leyen: 우리는 금융 서비스와 암호화폐에 대한 러시아의 새로운 제재를 목표로 하고 있어",
+      "url": "https://www.financialjuice.com/News/9864565/EC-Pres-von-der-Leyen-We-are-targeting-new-Russia-sanctions-on-financial-services-and-crypto.aspx?xy=rss",
+      "ts": 1795446238
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Fed Fund Futures Pre & Post Nvidia News - FJElite $NVDA",
+      "title_ko": "연방준비기금 선물 사전 및 사후 Nvidia 뉴스 - FJElite Nvidia",
+      "url": "https://www.financialjuice.com/News/9864572/Fed-Fund-Futures-Pre--Post-Nvidia-News---FJElite-NVDA.aspx?xy=rss",
+      "ts": 1795446241
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "欧盟委员会主席冯德莱恩：我们在制裁名单中新增60家银行，并成立加密货币制裁工作组。",
+      "title_ko": "폰 데어 라이엔(Von der Leyen) 유럽연합 집행위원장: 우리는 제재 목록에 60개 은행을 추가하고 암호화폐 제재 실무 그룹을 설립",
+      "url": "https://wallstreetcn.com/livenews/3204380",
+      "ts": 1795446245
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "젠슨 황 엔비디아 복귀 소식…뉴욕증시 급등 출발",
+      "title_ko": "젠슨 황 엔비디아 복귀 소식…뉴욕증시 급등 출발",
+      "url": "https://biz.chosun.com/international/international_economy/2026/11/23/QDPQKCITTFHT3IQENKC4BEO2KU/",
+      "ts": 1795446298
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "$NVDA SURGES 32.94% AS AI STOCKS STAGE MASSIVE WALL STREET REBOUND",
+      "title_ko": "Nvidia는 AI 주식이 대규모 월스트리트 반등을 시작하면서 32.94% 급등",
+      "url": "https://t.me/WalterBloomberg/38933",
+      "ts": 1795446301
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "NASDAQ-100 SET TO ADD OVER $2 TRILLION IN MARKET VALUE, LAST UP OVER 6%",
+      "title_ko": "NASDAQ-100은 시장 가치가 2조 달러 이상 증가하고 6% 이상 상승할 것으로 예상됩니다",
+      "url": "https://t.me/WalterBloomberg/38934",
+      "ts": 1795446304
     }
   ]
 }
