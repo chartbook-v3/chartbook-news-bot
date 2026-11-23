@@ -1,26 +1,6 @@
 {
-  "updated_at": 1795449201,
+  "updated_at": 1795449361,
   "id_hashes": [
-    "e4c940f66fcbcb92eea51ada6ec7a823ae8d4665263fdb93e998c5978503c353",
-    "c4a69c3823a86689fca1ce665776d309292862dd0b65f643d04d48506d5b7ad8",
-    "2fadea90ef1cffd34b19192a7fa90221b24ccacad75356eb5fa0944fb8ed6230",
-    "23e08482a4dd110e110b6ef58b354075d5a25809d14808836dd23513a9331711",
-    "f3c5617245b0dbec5092e2654be05de783097756bf949a5e697f55eb45768f69",
-    "1f21d175c06d92c879fe29838124ce26c44220256e2c576e669f32da06b9a85a",
-    "a87dd0c276b5609712a485ef33dfac99a13f99222538b94f43f75d785d162a18",
-    "4082bc894914568df9a803635209b8ecd35c8722845c401de37e5c3f64ca42bf",
-    "cdeb7b8c1cad941d5ff03b3e920257b63bb776ef934a048f2edd59ab108445a0",
-    "3e5b6c13ecc1d1945d451fd21f416cebbf890ef645d8ac3d139ace30b2d1324a",
-    "07833a776d89ead49aa02914352b93e6ef675bcedcf9e196a181f3bd13d9d949",
-    "6018766373bfe9a53227f21d09f3c90e7b32c3af4f371f352ed638a20806e978",
-    "4666703d02c9e9ebe48eb3770a3551d6493bdb6b378eeb3041828fe1afb5dae3",
-    "1c73ad9edd6318891b018464f12dd2ee524af78e031be15076535dd3a7759918",
-    "f89dbe0e8f973b33d9b09e0472bca0858acd1fbc0d2e0ce054def1112d12d2f0",
-    "30a30496ab953a5b9fcb16a78c07dcbc2a7acaa28fcac5bc0081eb9ffdb673ef",
-    "e3e4207fd8572fe3e1332839c0147496c210d05f0e547deb4a08343be513bf9d",
-    "7e4a086afe72659dc60ae9376e67bc83d947bb41e0d7d5aeb436210c9a844703",
-    "3870f3ea8bf49e888fa89d8b67fff8193258f9fd9d42765c07af2ba4b11db51c",
-    "d8e70427dc884e1f91ce10a26332fefe28609be42fa2e3988923e9cd181738d3",
     "e1a8938b1020cce2267baac7afb1332f79d2db8505d000c049a5778a650fffeb",
     "be38fed2f6ff56b0b81c69e47a4f0a991acb5b2f5f49046001f4fe850b054dec",
     "75e8ad765cbef079c18b9ff6573031254b61888a80d8fd1542411c436ef76b6e",
@@ -4000,25 +3980,29 @@
     "2c191bb8693e69c72169c3bfbf4f4bc5efa8e26656a5f1ed82638c49f88488e8",
     "8879c498a7e7a571ce8d371d7fa28eacc8c229448efd843bf5af5c6c4fd3bc30",
     "d2535992493c493c6740f9102e4e7469e726899f0f4d98265531cef0e6ffb3f1",
-    "07e77dc25b4632aee7015aae5c3483f05c47bd5ceb7237d56817a36cb8fe8b14"
+    "07e77dc25b4632aee7015aae5c3483f05c47bd5ceb7237d56817a36cb8fe8b14",
+    "f2bd767027211c0a97ded612dbc01f2332d900f9c917f5f85306634d22f33f4c",
+    "1a20e1f3f53b41c65ffeae165d18da7474d23af6f1cd960dd29683a4b06aeaa4",
+    "c8e9edcce2d215d2a50befebb1313b4fa21f5290df69473b3904547ac91ff307",
+    "6ea0be19ca55cd58978204c880ab6414bf56b2ac2d55a77caaf0b82453eb3832",
+    "9563b020ab7fc41d48ba1e9a283c723c05287abc77e1c88df516bfdee552a8fd",
+    "a3f6326e9de0fee50ba3753b5337a07e43cb31c5fd36bcbfc3a5b51471eecbb1",
+    "c31701280e86cc67d93c8b5d5632c0e7f9f65e9f81cef89f3da6b2c191da5b81",
+    "ea1255841699d8c15f5ede886c9dc2e83e6814ec24d4314cbbb61996f333e8ae",
+    "e7f5893c176fface7bda98a8e95f87c3a32aeee5e502dac61e364c979abdfb0b",
+    "fcaebb8067534f3c6a1df74b0bf64c4df450867af58eeeb83e0ab9d34a302c3b",
+    "96a44e5148dd22cf7377f2c29fd611565e90cd628632cf25da88064037d7006a",
+    "e0a98fcd343839fd220c8b14334e63df0633b67b08e05c5819b6add50cd40bcc",
+    "678505429c5956eefeecfa56393a153131deeae5d9e84dc71546f319cfb2d228",
+    "72f60b13fc766f41e9894ab40cd603e832be9ae3af7e715db055fd439e2a1856",
+    "fac9c22a7859323b2a2dab965adbe0d28f42cb39c871d87313611f718619eae7",
+    "2f793f3942554160bfcea521190a62f6fed4d1e63870b0c6edd1fa1f39fc5096",
+    "8a7f209cb3c68faf283d9308644fb526c123e0c1b1cbc1ce09684ef4eabd2cc9",
+    "e2c58166df13325d5c7197e19ab5f5e03ad8f09c536f6849aa1fb7d26d4a2ab1",
+    "7664ec1ded2a809df61991b2895e4bd75571215c6bee178e1d9b0ea075dcc48c",
+    "375dd039ced3e585df001b816dd0ce93796f4628d312bc13522f59e517556da5"
   ],
   "title_hashes": [
-    "e78dfeb683da4206174cfefb502384323eda941e8914d06934cf5d9a3c845444",
-    "974003aa8b813520001df33f6bf0eea3e04664f15c9f0ecdee4fcce06fcb3935",
-    "bd953eede400a7c4d74c78ddaf123c13f3be1b131e3daea4c6679554a96fbab5",
-    "abb6f5360004f1a2f890b1af605ee2cd8b4bf1a728e46805e36d5e1cf0e7e1d0",
-    "35c08a4c027d65df90d3e9a4f6ab37d60a83a660f5129b5fc6da5e06ceee99a1",
-    "f74aaf6fd7497c9cc786065782339556d4318fde049fef0e0e37de368459e66b",
-    "688f94f8d06e686355a34dd530988d31378a8dee617052090cf12613aab11dfb",
-    "ff2322f1b29a66301ad9519650e5fc0a2b5c7fde534dd3f90b7be5a34063fb39",
-    "d9abeea9f25268874864b9f347184962b769a744ea376599e9a92d3ed1da1732",
-    "64a6ae65ed08635e0dfe06d309a0ca4c0724e06517a4bf14531e6ab07756fab2",
-    "3bfa5a019f14d9b234402c32b844322177d6b977a2b00e769d9abd915004fbac",
-    "3dd55fdbef41877592ee243ac45e7fa0739b19203bd37c4bc30e7fa417c6e284",
-    "8de9db4f8f438126659da9c8e99db8571340e702a9b9237c4c7d8f51223a3250",
-    "eb381d6dbfaad6a6a5557145662ca0d058cb63bcbe59cbda9dc2eebb311c64cb",
-    "0b99da3e360e96b14e826cabe0b7077089c0204b5292dbed2a2fb7a0258acbc3",
-    "0475eef17a80e7069bc68b0e8b176c43fb080127c059aed7e92e2e4bb7f24525",
     "aabe89f4360e40316e42b8ef72ddff3fde47125ac6a1de04f1d66187fa0a9a4c",
     "61a0573dcf49731981870c0bdf0cbb955f8aa657cef3b024c8869bfd3f1ca0e9",
     "9bab72a159c62f96c2bf4e08640c5fe2499963dbe3b517f4a9f329068eb29906",
@@ -8002,37 +7986,25 @@
     "8c53c0d8fc4a8f73f5a7ce4cc5fa82483b6abd26a77e8d50a0bd3d6fdd9bd2c7",
     "af849878f6439338e2015e5e7a2c4e0f937e9b2a56bef5977171e8f60805895e",
     "6134dbf8db15797b60d5c89e357bc65f9c85f67b6ce043052cc71f2f8bb59b4e",
-    "508b4774f37ae40705a094174bc51b2b230ea28f07962e0f8f56db17adb9663b"
+    "508b4774f37ae40705a094174bc51b2b230ea28f07962e0f8f56db17adb9663b",
+    "41c888250c98ff70f337c33325c082fbe6998b5389e8db3d3c3b384ea6a77558",
+    "2cb0a262d4b8138f9f86b24323eebcbb348883097b76b7a19aa8fa84f252a977",
+    "a0166bb01374828d7cc19938037a41e9521da66e2a5382d252b73e029cd66ab2",
+    "044fce9fa9bf29a89e2a1e4bcd0eb0163814ca8d9916605c2bc013f5336c526c",
+    "f618017de7dc408c59be8d522ace587822521807a96b779425dbcd086386bab3",
+    "a7bf7c01e1f7c44474dbcde636817191f88db07182558306524b34b6f07913a5",
+    "8cb47971bb07313fe6db1fa1d4bd96080d1e9c10280f63d07c8abdac6683d84f",
+    "8cd198ca4120ad0dfb65164fc325e52aeb33a24641e9e50e67708cd4388ab624",
+    "1f9014145aad1433ddc7aceeec7ce655f25be788b63b93bc7a34f6527398a114",
+    "6777faabc4430aee38036e9fb731c47b3e9db13a23a91ec1021a667670c3b02d",
+    "a82034c37f0a23e51891d539437c35f93a108b74ecd17cf684fb9af41d150fc4",
+    "c5dd607c7d5aa9d9a03e51480a45d62283d803742b1ef524ca81fd79f2bbde40",
+    "447804f3032bde6644963abbbd6905c2dbfa4fc9eeb4dc40be341231529e4e7e",
+    "ac3d083d810196547e6f34981d102f24507b6386d5e8b0faff558338f01224e5",
+    "ffc80014f664b4c4529c02f54782f6862462aee91646b35a15e6c1789727bd64",
+    "36c751e5361280ecb5df9a1c1b29bb6888fa929c87b735d5c31ceab9845815b7"
   ],
   "recent_sent_articles": [
-    {
-      "source": "한국경제",
-      "title_en": "美 Fed, 내달 금리 동결 가능성 '솔솔'",
-      "title_ko": "美 Fed, 내달 금리 동결 가능성 '솔솔'",
-      "url": "https://www.hankyung.com/article/2026112350621",
-      "ts": 1795424233
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Eric Trump-Backed Robot Startup’s Employees Lose Health Insurance After Weeks Without Pay as Company Scra",
-      "title_ko": "에릭 트럼프가 지원한 로봇 스타트업, 수주간 임금 체불에 이어 직원 건강보험까지 중단",
-      "url": "https://www.benzinga.com/news/health-care/26/11/63519551/eric-trump-backed-robot-startups-employees-lose-health-insurance-after-weeks-without-pay-as-company-scrambles-for-150-million-lifeline-report",
-      "ts": 1795424399
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "燧原科技回应e公司：在手订单充沛 正在与多家国内半导体产业伙伴进行合作",
-      "title_ko": "수이위안테크놀로지(燧原科技) \"수주 잔고 충분, 다수 국내 반도체 파트너와 협력 중\"",
-      "url": "https://wallstreetcn.com/livenews/3204095",
-      "ts": 1795424403
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "WTI原油日内跌幅达1.0%，报82.56美元/桶。",
-      "title_ko": "WTI 원유, 장중 1.0% 하락한 배럴당 82.56달러 기록",
-      "url": "https://wallstreetcn.com/livenews/3204096",
-      "ts": 1795424406
-    },
     {
       "source": "지디넷코리아",
       "title_en": "구글코리아, 국내 공간정보산업 상생 모색한다",
@@ -11504,6 +11476,34 @@
       "title_ko": "NVIDIA 공매도 기업은 주가가 168.5달러로 상승하면서 약 122억 달러의 종이 손실을 기록할 예정입니다. 이는 2019년 이래 최대 일일 손실입니다 - ORTEX",
       "url": "https://t.me/WalterBloomberg/38962",
       "ts": 1795449150
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Super Micro stock jumps on Huang's reinstatement, AI server price hike report",
+      "title_ko": "황 회장 복직·AI 서버 가격 인상 보도에 슈퍼마이크로 주가 급등",
+      "url": "https://www.streetinsider.com/Investing/Super+Micro+stock+jumps+on+Huangs+reinstatement%2C+AI+server+price+hike+report/27385940.html",
+      "ts": 1795449234
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Coherent stock jumps as AI sector rebounds on Huang's return",
+      "title_ko": "황의 복귀로 AI 부문이 반등하면서 일관성 있는 주가가 급등",
+      "url": "https://www.streetinsider.com/Investing/Coherent+stock+jumps+as+AI+sector+rebounds+on+Huangs+return/27385951.html",
+      "ts": 1795449237
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "US CRUDE OIL FALLS BELOW $80/BBL FOR FIRST TIME SINCE AUGUST",
+      "title_ko": "미국 원유가 8월 이후 처음으로 $80/BBL 아래로 떨어졌습니다",
+      "url": "https://t.me/firstsquaw/195230",
+      "ts": 1795449294
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trump's Intervention to Reinstate Huang at Nvidia Pays Off",
+      "title_ko": "Nvidia에서 황을 복직시키기 위한 트럼프의 개입은 성과를 거두었습니다",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-23/trump-s-efforts-to-reinstate-huang-at-nvidia-pays-off-video",
+      "ts": 1795449360
     }
   ]
 }
