@@ -1,29 +1,6 @@
 {
-  "updated_at": 1795450500,
+  "updated_at": 1795450663,
   "id_hashes": [
-    "1d78973b5a38fb482cb87b618bf7fd0601a565d0ceedfad2f5e77a4fed43739f",
-    "565145eea3ad738f49d6cd805fc618a67d5cf667a4d8d55c3e47e7e7e7104e33",
-    "ad0aaa1f73f996497804224edc54c91856936b82ee7b865d7698214d2e6b9492",
-    "b8758f25ae97ff18c79a7802104577a3da58f818d1d9be65a5c1068cd8d10196",
-    "4a9c03f2af5c1a6552e77a569e8dcaa6943e22bbc268c51afcffe07316513006",
-    "72561cc55cdecbe106d249f77af36daf1ddd1df5a0bd60e0258da0425afc3298",
-    "3727452220171255201ff345e50f702f8c20824cd0a78340121a0847304f8a00",
-    "94508140477fb11fd97285f77b254c9478dc26f3f112a8fd5d9b28ced1005359",
-    "aa600f5e1d7d00068463531b481ad104c9dfdadb0d206e19650ac183f14160ae",
-    "71339a229be8110baade0316349ac7bea7e44d5a92133b22671c3827120dfa3b",
-    "9e32d01ee75ca990e920255f23ab3fb25617e163f1f0553fe0c002cc70d30575",
-    "c9d262ed1b465f3f9dc4b070d4acd87f45283fb78ad48e44a1b4af19e6f10e6f",
-    "42cc95715ae6d75656fd83a89e14d49f314b9922f76543cc369f11231e52c8c0",
-    "881e41d1a834707be001db0adc16b8f047bf87bc87b5ea10188a79eef629efc0",
-    "c40381cc109c8ce95b7635b75c294cfdc0e36e420ad35ab11b8d976f48f4c1cc",
-    "6b22d764ed66663238fda8a4df9de5bc1188051b68cb8f15e7d52d00a2fd8e4e",
-    "7aaebad5187887ae15903e51529c3761fed1aed7e37b993d2b37a1dae7c545b5",
-    "4b9a8cd52a07e1fc59946fc363fb5da74f7d9c9a3194a79cbcdbe41d5f947602",
-    "102046061b26e2be1fa079126eaac0cd1f08cc6c0b8f66bfe9cd4f6f22c5af2c",
-    "bed4a7c46454962d0f6453b9c18f23ce023a0f71b812cc587c42c3fa442b7555",
-    "b69d7fe022c1166ff3ab1c547071795cc129796e32387f938d0c28319ba1eb56",
-    "34f6d2a964923b4cc5e4a602fe3205b778f8326f7c8e156fb642ac990fa496ed",
-    "fec038d629fe7cc8e23714b5cdbda6b258b056dfa215c1192e184aa37736ed92",
     "589d5187d2ac228d25b23f59fab18ea03e721a3b05220d022d3ab9fd1d1e240b",
     "98e9685f0a01c55a78d40b8c27b1c4926cb3fec8d886a4121848115d6982fbd1",
     "d6c24cd04a95eaf14a1cc8b0053d81cd666785e38200f5f91c4c8bac1243a1f1",
@@ -4000,26 +3977,32 @@
     "6325cc5de5b0dd05e3312c55614debc0ca81a538921964b9fcaff11ed7c790a8",
     "2d36d1f62dc4afd56cd8923f5b2b586098733a3f24ec622c8545fd7eddb7eb6b",
     "f73413a1618cf7bb817c07c6a162b051fa8e3e0e819d60a6b417b52e7d659fc9",
-    "0b446b5506506f36b78cb61cad22e7e0ce3458eef5432868ec852a507c0384ac"
+    "0b446b5506506f36b78cb61cad22e7e0ce3458eef5432868ec852a507c0384ac",
+    "a405711f54eef446a63559802501dc6d42c5946c55ce5d0a0dc7ff483f7b25c1",
+    "4493775926be0c8a0d7ef429e824139eabdb686f0294f564a8e54557bc642755",
+    "bf769dc7b0e84ebbfee1cb4ce62a3c46dda61a066a820bd5bd78c5b274e45c60",
+    "ff3585bd8283afd7e9b35c9feeb3a5e11c284133ca7f9c947cdd71c3e51f42dc",
+    "1c3926b4e3164a1d05134b72eb53e8ca388efc1a43496e6295269741ba3feaf6",
+    "59781a55e099c2c794612218eecc37b443abb3e3940c46267c81fb40b945f183",
+    "d5b148281536b15a295d0b910b31ceacf581e305176ebda9b0dc84e8829cc388",
+    "2903237e0fb87db11ee099131084b38374766c68c8812b1a973bfa6db25c125d",
+    "2ab32c72fb3afbb2d1c90435d5f1bfde9f5df098072ec130b72a918803493619",
+    "be1f34b119c1e2ceb041401aa5c6c3144fb793893cdda16c5e076459b82f6f2e",
+    "7d44004e5b3e34f3617731a30f511226c41b9aee36bfa9a3c1f4bf31a9c0a53b",
+    "fa18b62a6cc4cac43fb439cb80b65b30b6db47d31f8ebd6581109ac70413ae45",
+    "318e6c89bf6aed71a6b2f57048444cc3953e633b3d768a594bc63f12fb70f7c1",
+    "d7868da85febb882a40e0dbcd3c9267ec440d58570b37a78d020c5ba14035738",
+    "c400e275b7f742631fce66c582080aa84dcd13e5f02126c0dce28d16d3207546",
+    "16ea27f8012579fe00dc7c7da4c185bed709e06d3c8b57f9064318d77c99b821",
+    "7ba5465ab2a78fd633a4de855b4f0075f830319db71567aa48daa2acbe171e95",
+    "36cb1905931397e9223d71ab01d3836f8bc8a11d50f9a8831548932760105390",
+    "3f1c4840336354b99445b7333692f8d2e3a4173b9e5a97fbb54501bce81753e2",
+    "50c18e49f0b20f19c27d91524ea1f2da03fe77c5f8b9bd2a9696ca0cb054fb82",
+    "bf6ea8f9c5d8e58c4dc8563d908319bb2b67996110758855d674ec969a30a32a",
+    "e858c0667e703dc4f23f85559d6f7082776605228bd29954db8d064830747f08",
+    "dcb87a07cc766c4964b599ea8516e2bd149aff225727de9c87c4543282b9cf46"
   ],
   "title_hashes": [
-    "b1d93af19f9aab568526a50d9623b8c62434245aca3169080f9ebdd6f669489f",
-    "541e81e2152c56d5616e5dc7ebe1bf8d6265f6d6fdb1e495598e5769e4783d1e",
-    "5880de456aafad3a33f5ebbdba799a78991cef026c0c2de4af62b01d8abce473",
-    "4d6ee8c04db48f8b8d92490bb42865f92501e6f64c5b0ab1955f55c64a7d9d84",
-    "110b9aa1aee2295a5a192dd789326ec985523a33875fba88beceb7a2aabb078e",
-    "bfc49bb56bc46a969c0465d185473f8895d65e7ecb92fec6198294d5061283fb",
-    "ca09917ec90576c5ae5059827b3fe9815da7ea4b6f15e03c9b7894faa74af7f7",
-    "e86cb0cf98f8c679b9c7ae4d08dd604fcc77755243d827751cd85e0dfefab0e2",
-    "0b89c4544b2c23fc0cf5087632efdce17332bfd8426eaf61df55cb0bdfa20033",
-    "2c31df138e9105b21457cd8fbeddc280826eb58d28edd3ccf46f39758ca5c39e",
-    "ef3089d9125bbfcaf9a3eaa0b6620d5f4538ad1d10e82667dad282a88cb26a81",
-    "e26caa66702036ff376966b60bbbde20b7c83bd9514e48ec93df7eb5936a0745",
-    "e9ffcdd2d422438a097a0a46b8fad2012a3643c3057dacee7d019849ca0f0d16",
-    "d4c6919decde300938f8f7efdcbb36f6d653af35ddfc511b65bff2f477a5520d",
-    "755b1b0744fb6684b527a7b04460201a8368939c1d5b90e4ca5cd8f6e327b22b",
-    "5d38dac683dd325f85c5b06b2c6e280d3afbd2e7530376df2c693b79cb48642e",
-    "c13cb41f14744b7ff3ac127a96560fa3b07515fd2296ca5e874f7af50ff97335",
     "9b51f7ad49b6c4a37403990a1e3af0c255b087125f338357c2237fbd5984c97a",
     "fdab4f0b656a94d1ec555f991bed74a258e99f77ce4607a9f99222a35bf0f4ca",
     "cc6ffd45e85968a91ec9122d29db076271041c0bca6c10f7d7a838b8783a0541",
@@ -8002,44 +7985,26 @@
     "4c1b0f3214246f6a6b2c1e880595c343b1d55c623f8fc8a8ebffa8d5d7bb1f72",
     "4d568288099ff02e968920df34ca85048ed18610627b422614569bb3e9d853b5",
     "422f2629fbb45ac288333add1bdbb1a1e437c6dea7ba831ddf93d98d21d089fe",
-    "7b7c97e40c8e38efa5f28b128ff5e3f06268cbfeb9949676ff2d1159aa495bbb"
+    "7b7c97e40c8e38efa5f28b128ff5e3f06268cbfeb9949676ff2d1159aa495bbb",
+    "ea832b6e030a150fbff350dfb10cb1f4559804eb0ef6f66684cbb937542a682e",
+    "146708e04309f1727ad736f6f3eaec749a13a7d994ad60a994feda4ff6fac6b6",
+    "9edf6fa343dfed5da8e2a10230431e451fed9649688a751af8fea923b1f89d15",
+    "1698589b6862bdfd40594c9abc51e658a312d180521ed60e9035921b44ee2bd6",
+    "9440cc6c2a7555c660db7ff88eb7bc63926773c5ac8b2602bf506c7222925512",
+    "913316288fdd0feb14c18825a54971ca3a249a8e90d86b96354d2fe708d5c73a",
+    "4b4c9583c9ff5f58dc8f2314f8f9f801dc9db199347a4c54ef01afa0795b1308",
+    "780030194c4ef3597150ce4b3f7a04aa29006bb65cd94cc2a939d6a065e465af",
+    "8d7529ec3322d88078dbf81b25c94da5acda42c81fa8a36371dbd499521e3537",
+    "9aa3a1854a430593c795581589c3a6d6e35044274f5755de7bc450315d7303c6",
+    "0cc322146aeec9d2c7fc2d75d1e336ada39dc30923a3a8f5d6bf482d6db6d50b",
+    "8c32cbd44d9d6dd9a128562f01a837c8c4faf0d4a347cd231c73cbcae28a192f",
+    "7ec6993d6104bbec9973e148adc6909fe10f189b7b2d012402e4e09ca37af0c7",
+    "b043a0146241ea7af405bad3bd3d64cd22f60bd62f3711b7356cbd7fe316ec3f",
+    "2f3bb0ae66ced5ddd7e082100d4ad95b2544e6c2bd886c047c3aaa3e94f03179",
+    "31edbbd3aff4314bd2675ccdc98f57e29288c4c558ae39d606df55858b93d199",
+    "101acdc57d87f0082fa60cfb422efa0e93f1f32fbd35dc74e3a8a3ec6e434587"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스락",
-      "title_en": "KAI, 경남에 우주항공산업 생태계 조성…1조5000억 투자",
-      "title_ko": "KAI, 경남에 우주항공산업 생태계 조성…1조5000억 투자",
-      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=140737",
-      "ts": 1795425696
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "현대엘리베이터, 유지보수·금융업이 실적 버팀목 됐다",
-      "title_ko": "현대엘리베이터, 유지보수·금융업이 실적 버팀목 됐다",
-      "url": "https://www.fnnews.com/news/202611231819449889",
-      "ts": 1795425759
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "현대차·기아, 아카이브 전시회... 제네시스 '박스 버기' 첫 공개",
-      "title_ko": "현대차·기아, 아카이브 전시회... 제네시스 '박스 버기' 첫 공개",
-      "url": "https://www.fnnews.com/news/202611231820290661",
-      "ts": 1795425761
-    },
-    {
-      "source": "경남도민일보",
-      "title_en": "우주항공 정책 통합 관리·연구기관 자율성 강화 법안 발의",
-      "title_ko": "우주항공 정책 통합 관리·연구기관 자율성 강화 법안 발의",
-      "url": "https://www.idomin.com/news/articleView.html?idxno=2020368",
-      "ts": 1795425825
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "TSMC's Hou: Not seeing order adjustment from clients.",
-      "title_ko": "TSMC 허우 부사장 \"고객사 주문 조정 움직임 없어\"",
-      "url": "https://www.financialjuice.com/News/9864092/TSMCs-Hou-Not-seeing-order-adjustment-from-clients.aspx?xy=rss",
-      "ts": 1795425828
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "台积电高管：人工智能的发展趋势维持不变。",
@@ -11504,6 +11469,41 @@
       "title_ko": "머스크는 직원들에게 SpaceX가 AI 개발에서 뒤처지고 있다고 말했습니다 - NYT. $SPCX",
       "url": "https://www.financialjuice.com/News/9864691/Musk-told-staff-SpaceX-is-falling-behind-on-AI-development---NYT-SPCX.aspx?xy=rss",
       "ts": 1795450498
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "New Hacked Data Puts Russian Death Toll in Ukraine Near 500,000",
+      "title_ko": "새로운 해킹 데이터로 인해 우크라이나에서 러시아인 사망자 수가 거의 50만명에 달함",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/new-hacked-data-puts-russian-death-toll-in-ukraine-near-500-000",
+      "ts": 1795450529
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Musk shared data showing that the company lagged competitors - NYT. $SPCX",
+      "title_ko": "머스크는 회사가 경쟁사보다 뒤처졌다는 것을 보여주는 데이터를 공유했습니다 - NYT. $SPCX",
+      "url": "https://www.financialjuice.com/News/9864697/Musk-shared-data-showing-that-the-company-lagged-competitors---NYT-SPCX.aspx?xy=rss",
+      "ts": 1795450595
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "马斯克告诉员工们：SpaceX在AI开放方面落后。\n\n出租SpaceX算力更有利可图。（英国金融时报）",
+      "title_ko": "Musk는 직원들에게 다음과 같이 말했습니다. SpaceX는 AI에 대한 개방성이 뒤처져 있습니다. SpaceX 컴퓨팅 성능을 임대하는 것이 더 수익성이 높습니다. (파이낸셜 타임즈)",
+      "url": "https://wallstreetcn.com/livenews/3204420",
+      "ts": 1795450597
+    },
+    {
+      "source": "한국경제",
+      "title_en": "돌아온 'AI 황제'에 환호…엔비디아 폭등 출발",
+      "title_ko": "돌아온 'AI 황제'에 환호…엔비디아 폭등 출발",
+      "url": "https://www.hankyung.com/article/2026112454011",
+      "ts": 1795450659
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Tesla shares jump on self-driving software and merger talk",
+      "title_ko": "자율주행 소프트웨어와 합병 논의에 테슬라 주가 급등",
+      "url": "https://www.streetinsider.com/Investing/Tesla+shares+jump+on+self-driving+software+and+merger+talk/27386131.html",
+      "ts": 1795450662
     }
   ]
 }
