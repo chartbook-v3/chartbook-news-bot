@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795449988,
+  "updated_at": 1795450175,
   "id_hashes": [
-    "502f0c8dcd6c11f1e2063136f1c302d91b3ee1d622fb84d847b3e9003aff0987",
-    "cd8d65133a60de26ed7ca61ec7572d728d8727d6243cf35f80cf1a0cd18ab8d7",
-    "cb6a7fbd81a6fe51c3a576b6e41c367f9b221f564bee456af4c10fd33360a98a",
-    "7779d0f69623ca61107e1b43e7113d85fa78ce7e9e1131a346d8fedab694f351",
-    "f5fde5c13457a2554dc6af058a66725f75c647fb996d2372fd6812a51c5b79f6",
-    "7842254558c818dc4aad25bed49bf1e898d8f2bd2e2bf209103185519f30f4c1",
-    "0805df1eb69395edd9340b054b1138ad099535b16210b03311e7ede48acb2352",
-    "579ecba1224e4f0404fa115268d8b9a68f26aba107c1a3025a70ec2f0e155ee8",
     "eb1c33ecfa7bea4e6fec6795716b2df7bed5b9038846fdeba8f2902710b20774",
     "e7073e698e126711641950954d2c31451c9a9eb00bb582ecbe9774ead82fc18c",
     "c49bc6c7aed4ea6f0e36c5ea025a660004f535f38a1d904fe16b3d805eb5363a",
@@ -4000,15 +3992,17 @@
     "8757f71377343a2846031650f45e142ef95b8e06c2a0e1a0d1724bce4c2dfd1d",
     "d08f86936d1ae752b7ed04a553c08af99bde66cc179d8308559c9aaf1eb3a39b",
     "a5cee9f8f9a6289cc9324b80ccd53c418b6b0a1041b042bf8c8bc3a0ea742f19",
-    "6104d24ff3f05292667a3c68d783def6d5a67d13a3ce723142fbba8f7077655b"
+    "6104d24ff3f05292667a3c68d783def6d5a67d13a3ce723142fbba8f7077655b",
+    "bafccaf12b45de9ff03c54b30012d34135298bb98cf90413ac5e8d297471f16a",
+    "a083da08683fa34151967715522f3fb9972a28abaf19b02f3cde2b2524e7f984",
+    "2da9cd050a2aa92b218b9ec8ccb587c88ec9a4cf46660c1a13be6bd6ecffa823",
+    "ee700e93931429e5720b59107dd21a1e7eece119cd24ce1b7d4c5ac6b201b312",
+    "4df09003a63113f1b269b8ee0e543ca441ceb67f7282852d6e9e7b82d65f71c6",
+    "a0debac7e6fe8e5392bcd8b01e5d3603fda7e712919271823fcb1f6f29e18441",
+    "c66c6fbb1da0de8be03a0e9946c92c825eec26157cc0c9a17e9174ad603a824f",
+    "edf2db229e12b3cf091d0ce487761952452ef76c2b9bcc6238e4ba6273d637d7"
   ],
   "title_hashes": [
-    "20c17b951b462905bb1995ee3324c04507f8be950a3b34093543338379f0d218",
-    "966f506d430cfafe932823e1afb182ad93ad612b0106d3d98492f427eedb65de",
-    "03aa5f9fb35c98ddeca737ab29c1570c702adc0e1dde57f59252a5d9ebcaa44b",
-    "2bdda4b029951c59c44cd84cade24a5edca84725dced8848c6704ebc5dfc981f",
-    "e456d3253bc3bc177191c16ce04bf23573fc42253c45776f0b54a25f95bd7127",
-    "d56038272870fd9654bba87d420d0ec1ac7a04697fe6ab9a4ae47f4ca8c3818a",
     "db9f5c76bfb4291514ad9ab8b20604893b4257565c1df0859a88d35c0524e33b",
     "08c8649b3b490aea39db34ffcd135f0f2136a11fe462612e96ee94995866607a",
     "ff7499a19109ca53fdc6716b5e8aa68159b45e421aebf56acd01b0eb5d7b168d",
@@ -8002,30 +7996,15 @@
     "dfc83dfd5c12cf11a1b05a3f54026fb437cd70227751cd2b816a2a902b7ef188",
     "759bdbf1af0b4d30712de64b12fa1fa75fb54db70218991e600f5980eaab3d52",
     "3383e5982e4913f2c72cd0aa295bafb30529f9238bc28aee28021a76de7ac9b0",
-    "5847efe83058e9e964825a9d7fb7b014873ccb56ff8618d5c6bd27b60d90e4d6"
+    "5847efe83058e9e964825a9d7fb7b014873ccb56ff8618d5c6bd27b60d90e4d6",
+    "08ec59823098de77630998ef507483980996d6e6c4a1e1a6fd5fb705b1811f2f",
+    "c1eece60333f6604a6dfaf23248a774e4a5f078328e5f51c931ee7ce5b2ec3b1",
+    "3915102c5650f5d0969de39ae7696422078be20d4fe20a9b1394333e2bf545ff",
+    "6510671db9f6a9f38ed368e3fb033c52413c8b06aecb41aa0d7ef9dba9bd1cca",
+    "1212b267bd66a9037296bd4a159a2935ebfdc2e576d2bf93e7f23274c42d931d",
+    "724e8db88f0df932b121f77059553b2a1d2938c340187c15730af559774668bd"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "EUROZONE NOV. COMPOSITE PMI UNCHANGED AT 51.7",
-      "title_ko": "유로존 11월 합성 PMI 51.7로 유지",
-      "url": "https://t.me/firstsquaw/195157",
-      "ts": 1795424863
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "LME COPPER INVENTORY FALLS 1,050 TONS TO 330,975 TONS",
-      "title_ko": "LME 구리 재고 1,050톤 감소한 330,975톤 기록",
-      "url": "https://t.me/firstsquaw/195158",
-      "ts": 1795424866
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "S&P 500 E-MINI FUTURES UP 2.7%, NASDAQ 100 FUTURES UP 3.4%, DOW FUTURES UP 1.8%",
-      "title_ko": "S&P500 E-미니 선물 2.7% 상승, 나스닥100 선물 3.4% 급등, 다우 선물 1.8% 상승",
-      "url": "https://t.me/firstsquaw/195162",
-      "ts": 1795424872
-    },
     {
       "source": "FirstSquawk",
       "title_en": "NVIDIA RISES 8% PREMARKET AFTER 14% PLUNGE ON FRIDAY",
@@ -11504,6 +11483,27 @@
       "title_ko": "50년 넘게 몰랐던 항암제 ‘탁솔’의 비밀 풀렸다…담뱃잎서도 생산 성공",
       "url": "https://biz.chosun.com/science-chosun/science/2026/11/24/MNSDKMLBGI2TOOJYHAYDSZBVGY/",
       "ts": 1795449987
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "IF ONE CENTRAL BANK IS ON THE EDGE OF A POLICY ERROR, IT IS THE RBA. THE BOE HAS ACTUALLY DONE OKAY BY STAYING ON THE SIDELINES, WHETHER BY DESIGN OR BY DEFAULT. BAILEY IS PROBABLY NOT GETTING ENOUGH CREDIT. THE UNDERLYING UK ECONOMY IS WEAK ENOUGH THAT HIKING RAPIDLY WOULD KILL EVERYTHING.",
+      "title_ko": "하나의 중앙은행이 정책 오류의 가장자리에 있다면 그것은 바로 RBA입니다. BOE는 설계상이든 기본 설정이든 부업을 유지함으로써 실제로 괜찮게 해왔습니다. 베일리는 아마도 충분한 신용을 얻지 못할 것입니다. 영국의 근본적인 경제는 너무 약해서 빠르게 하이킹을 하면 모든 것이 죽을 수 있어",
+      "url": "https://t.me/marketfeed/1084033",
+      "ts": 1795450042
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "SA analyst upgrades/downgrades: NVDA, CMCSA, ANET, AAPL",
+      "title_ko": "SA 분석가 업그레이드/다운그레이드: NVDA, CMCSA, ANET, AAPL",
+      "url": "https://seekingalpha.com/news/4675687-sa-analyst-upgradesdowngrades-nvda-cmcsa-anet-aapl?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795450172
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "美国参议院民主党领袖Schumer：民主党将动用全部力量调查黄仁勋。\n\n民主党将调查政府及其他英伟达高管。",
+      "title_ko": "슈머 미 상원 민주당 대표: 민주당은 황옌쑨 조사에 모든 역량을 동원할 것입니다. 민주당은 정부와 다른 엔비디아 경영진을 조사할 예정이다",
+      "url": "https://wallstreetcn.com/livenews/3204417",
+      "ts": 1795450174
     }
   ]
 }
