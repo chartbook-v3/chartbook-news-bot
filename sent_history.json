@@ -1,29 +1,6 @@
 {
-  "updated_at": 1795437261,
+  "updated_at": 1795437423,
   "id_hashes": [
-    "73b524db0a969e680c088bcafdbd12069dc32f7f73ce5465f10ea2af365c6539",
-    "22a53f6eee3ca86c7f7f8a35847d607ebab26cd54dc6212f969f788b6741f3a8",
-    "d62222af97e7cdd4282698dc65709b56789d880237a30a004caca06eac1ce993",
-    "27ed29ff220e77970f37195106655a82b1fc7d610ba86d01b63c98b52e715eee",
-    "5da005e7289f3bde1e1b3a1a0107fbb2353f04f6fb08e19745c4fb39b9493e65",
-    "34187076bc297e69ca50d8d6179dce9ee786bad18e771d2d6c9dfb629d878639",
-    "e9c8fd95d7ec7b0f150b3bbf2ccfc1be42623aa263277dbb91f2f4f7dbb1b196",
-    "c9bfe6b27ec81140b29cd17e8ef5466e8f6f8b0e7377b3589e0eaf02d8571201",
-    "095b1fd1eb2d40a040f9c6fcb67e3fcfeca88812c822480bdb669c9eb9af50b5",
-    "276be5897e83cc722f35afd2787e748578f16ff179c5b291313274572beac37d",
-    "ac94daddd59ca79d724d342bd784ba9403afa1a5a9522ace54641103f18b7183",
-    "1a1f771ef712388072dfdfda39af2b10fc1b45d9124c96780ac79bcb7557f898",
-    "30d2fa83ee2b298ae9d7fc7c0a256ba2eed3f2c348d1fd49dcfd900e17b8fc2e",
-    "117ba3367ab3ef7a74be1a65fc238f0924581511e9fc70ee2acf4ef80f81d429",
-    "8b12cd5b8084b7923fce18898d9bd69bc1d96d8f1c17543de056ceec674324dd",
-    "2e5d83f32777df1eaaee17aea14160f152a784fa11e96cb9380ea5c0921b769a",
-    "b8eead1032b575d0f762f97a2f95cf39ee56bf6432947ed9a8ac0a447686fd92",
-    "caff0593a158cc3fb0d03615ad360152cbab9e65a70cbd6d0ee3b7bcf8a382a1",
-    "79f65cbc08385820e5cba1d1cc68c1df74b42cb355c2fa3888dfff840b8df99f",
-    "f28a36444f780c16ca6c083084a2d2d15aafc508755c1c3f0b8ebeb8f61a6461",
-    "5a5ae67673cd52b6f70a384bb65a0418fd1fd20853678af0e37757c7e8b9c728",
-    "d28a0eead5214a0fd18914ecbbaf18f9c775e0f8940a239c10ffc07ccd835144",
-    "fa71afc9fb650259e4c049c671ac46d9364502fce8a9977db14a484f9ca15105",
     "2d99acff8affa667d0a7142ca41773057ae87e80d3f17e12e2fd8073edc29a48",
     "86a1484b4de68c70b75c8c11e94872b583292d7027528f26d89dad131529c1f0",
     "10fd4edcc2b4fbce83b880b557ba46890923269ad2042575387b652c7e72803a",
@@ -4000,27 +3977,32 @@
     "4a16b056663582a3d398451c604d7d19de66ff8e41964d01aa1505fa83eb4238",
     "7285c2622b0671f8f1a3cfaca6161456e46c4c05d1fa89ebb6cec4ea9a1ee13b",
     "0e9e984feab89623950c8ead6871869845728d29860947431f1a49ca4ba7f810",
-    "8bb8a3c744312b5d21603a0f24ea61a83ce5a7219668d3ade06c0c115b07a894"
+    "8bb8a3c744312b5d21603a0f24ea61a83ce5a7219668d3ade06c0c115b07a894",
+    "a913efa148ebf9f7b50b0738a860740ba32f1cd4b7724532d25ea47ec1ad4170",
+    "654172dd6905a7b76f65e097eb3f24f8a0559be3cd59224ddb441fdf7f2b66d3",
+    "6bbd434a01f8e6f25416fd9d112e3b62c6494aed5ff0301f0590a66da42eb924",
+    "87c050e2dca8055f529beec16b8bc96bf5f3bd7f3bcfdbf039217a75d15b6e6c",
+    "c6c36fcfce64333cc97ca7a261f18f0fdb830322080d0dfd24d33a579490500f",
+    "f05c985034d6dd836c5f2bccd6b4346dc112c1294f65ec2b5185007cfc3b6bfe",
+    "955893906f678ffcf6e05556fce7e2362121b0939f02643468342339520d8e47",
+    "74c2d3ad784606a692efe96a6b0aa0c6d8c8306fcc17151b94ef7431d8a698ae",
+    "1643c5d6940738be3e0733c8baa72d2f533669b8fbe42eaf351fe4ef364923ca",
+    "12ecc6ec2327e7712b37e0523e8642e6f669ac6e0f6576995b12678dc6949961",
+    "d0d0f79f9425d5d305dd3c76a1c8a462be6574faa558e426f60ef0aeaea4b37d",
+    "508dbac94f08724ff57e14d01ebeb5bedd86ebb37554191d1f9ba00d9abcf09a",
+    "7f39aad362f3e675b51730e807143c79a608aefbc2ab0bfce3f09e170ba17768",
+    "8aed081dae405066e680a7b5dc0765b51aa259295606f8a3d4e77bf2ad6ede42",
+    "661b4f9c63a4968b9462c847b879d2303eb2ba79dfff7e049bbdb037fd4c5d98",
+    "76d85d90ff2d6b17dce29b2ffd2febbd17041d963c2ce9d81c54c792168e14c6",
+    "bff3030772abfee00cbba75874454da29cfb706ca49cdc9f163ffb586de5480f",
+    "77946e7d0da521d014113c2cf3df13dfbdf478ab181deb9a40fc7cab32dc350d",
+    "43947effda7b28c2231ee29c3e163bf37609162ec64c7948063e38930a67b0f1",
+    "a30b555b50f6b6a142758a3cb5e1fad660623b4377a68c9fd2a8c6fd5a5dce5a",
+    "2c344727333768d1b1d840eb514fea89cfea0fa5be43f30fcfae5f267fc611e7",
+    "e8bb129537d9c07e21fcd2eb07bcd497a6c0a17ea33e980db13139a6dfbd9f19",
+    "5be6e85df5e2b01e6be87bdef3d3b319a64b83bd2176280791c84d157d8825af"
   ],
   "title_hashes": [
-    "d4c3370a5c85797d7d879cd2fa520334c2eb1476b69eb5ec7f32710b93c5a044",
-    "6c3c9e2e060bd9c755b95f960f8ab96cf31b9b8e38f0c88555be4a69988412fb",
-    "b0ce88417eafc70360259913aac3b9b72ba952014e94eda60757b2b25df296c7",
-    "7bbf0bd0fc8d07a1a779e1552be361775d2739d97637f783af9983e83544287a",
-    "d55bbd9faa283a1c910120cf0312aec6edfc0d124341ce50e5a9c70e317c7ecf",
-    "cefbf35de59395152a3d2c3d4a68b16e8ee4bbd2f2395fcf4112da1c4d0d27bf",
-    "08221427c4205f6cc1dc44c19bbdee3c1dfc310f80d255baabcbaa14c1ebe592",
-    "85f7f910a6739cad22cdd2b6327e0c4a436b6ffe18dcb739af369bbf934ffab4",
-    "7807c4ab075d0b36d3df5e41e0cbc5d6c0e566bb20fa66f6a1e03b20e3b4b289",
-    "2e358439f667b7e7c33e9ea94f5d0b3d4195a9f9caea6cfd42918cd8d31943fa",
-    "b612c4298d5cf46471e32ef304279518f218a529b5a5b1577bfe9f4ba98938f0",
-    "652fd91d9fddf3a65a31a2078f9164445d99125243ba2d8a18ad76db16d8da86",
-    "ee7fdee1d57f30169b7a7706265d6a2a5a98fc4ebc533819782c6c810d61ffc2",
-    "32e6773e220615d137f452cf9e8cd2019f832069c66eb6114b6f19692d852eb1",
-    "d0a732c23a153cb49f8a6d1eb65c8203782d2ec6014c5d435c2433e398e5d017",
-    "9262321ecd0ef713eec767710168053c27251fee5a8ad3041de8eaa31e05555c",
-    "bd983d4bb99c025f66eb6eca0103f37d471384d50d8e658f1c230acb2f1c080b",
-    "3ccf5992a4d1ead2f4d72194023f1a8f9396018f69063e38de082846f12e52c0",
     "bce0307a9d661291eff3e0850b99b22bf6854de6087565bd4fbd06da8696848f",
     "ca5db6d5209631563a60cd8f59429b338aec4f6613b9f17a09488381537876e2",
     "f3e67a6bbe5e46413a477ad23a09d064c21a326a8100e6f1d25a27e36609f3f4",
@@ -8002,51 +7984,27 @@
     "eb443166421bd4f91d00367e28b657571bec60014a8337fc7b9de361974739c2",
     "ebc5337013069ab3ebbd886243ab655aafe981ea2abdec8e3a1f2aa260fd6781",
     "6b91b790d9ac503b9e222c19342ea65047fd5fd493ff21a81d61ce9760b97990",
-    "81fa20945a00f5880ce00fd99873917c5f6294e4f7a686dc75e377b21bac97a9"
+    "81fa20945a00f5880ce00fd99873917c5f6294e4f7a686dc75e377b21bac97a9",
+    "b3c3627aa89980e67ea0da301f5899412f353b19c0da35d8fd91a9eea028e8b4",
+    "e644a686056b5053a489be60c050725b626118f9b6a39765e93dafc2134ace5b",
+    "8fdc720d42eda2a8e8777ca96f5a7c256787ea9fa6be9431df0b520e34b9440b",
+    "171241debe8e86d8dc98fbc23710869ffbd9fb9534ac3f232cf167e9db72628c",
+    "2258ebf95b32a658a5a11be7aeab5d646c632810c3714a5018e49ba28acceb5c",
+    "7e4c5cd080d58fb345ab749d9281122d242a4c566c7a8a3d1690efd8cc5d1fa5",
+    "10209083038fa0fde81a9fe23ade1793d703b1f66fd28dffbe190dfab9d9d187",
+    "a5a3c500106b640c91b692edc9af8e5a3522df3db9746c2dd8d612206f1fc58c",
+    "ba8bc543b7c81efbcf49908065e8010357b389c624d9a0c5e18d1630e8db0879",
+    "6da77191475e2c93b629be9d9a0b70a7ec04545196678351c142dbaecd4068bc",
+    "0e06150ecf319792a0b980db7518be449ddd7b623c023a13ffa69a670ecb2bf3",
+    "c476be69d3f018308a87dc1268c5f09bb204925a897ed3d129ee8850a6e4e79b",
+    "bb424941c90ce40d07b9587231f178a4d1cae1beeb09cfe564c35228460575f3",
+    "0c505cb2c910e38f30db323193b733e56886fe23550b0182d5ea29e84a332472",
+    "1e4943a773cadc51127f2267d286e9900de161f6b292c2c4f5982b6070ad274d",
+    "7341521d02f576eccf0d17558f89683ef1a1db24f27f17f2185405a6269ff657",
+    "bee5913b381ef9d2e129f4dbcee433f228e1e0a2b88f7a6637a78a58feaf63f6",
+    "8772499b019253715e94074841df293b9ba68225c9634e5b6061291e1b375280"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "Lisa Su praises Jensen Huang as AMD targets 80% data-center revenue share",
-      "title_ko": "리사 수 AMD CEO, 젠슨 황 극찬…데이터센터 매출 점유율 80% 목표 제시",
-      "url": "https://www.digitimes.com/news/a20261123PD213/amd-jensen-huang-nvidia-lisa-su-revenue.html",
-      "ts": 1795403238
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "AI server prices jump up to 45% after contracts signed, putting buyers at suppliers' mercy",
-      "title_ko": "AI 서버 가격, 계약 체결 후 최대 45% 급등…공급자 우위 시장 심화",
-      "url": "https://www.digitimes.com/news/a20261123VL206/ai-server-dell-price-hpe-lenovo.html",
-      "ts": 1795403242
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "China's memory buildout could boost Korean suppliers as local rivals gain ground",
-      "title_ko": "중국 메모리 반도체 증설, 한국 공급업체에 호재 전망…현지 경쟁사 추격 가속화",
-      "url": "https://www.digitimes.com/news/a20261123PD212/equipment-expansion-materials-market-ymtc.html?chid=10",
-      "ts": 1795403246
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "서울교육청, 정시 지원전략 설명회…1600명 일대일 진학상담도",
-      "title_ko": "서울교육청, 정시 지원전략 설명회…1600명 일대일 진학상담도",
-      "url": "https://www.news1.kr/society/education/6362253",
-      "ts": 1795403248
-    },
-    {
-      "source": "디지털데일리",
-      "title_en": "고교생이 직접 가르친 AI 로봇…네이버서 실력 겨뤘다",
-      "title_ko": "고교생이 직접 가르친 AI 로봇…네이버서 실력 겨뤘다",
-      "url": "https://www.ddaily.co.kr/page/view/2026112311154272480",
-      "ts": 1795403369
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "“固态锂电池标准项目组”将成立 正式编制《固态锂离子电池和电池组安全技术规范》",
-      "title_ko": "'전고체 리튬배터리 표준 프로젝트 그룹' 출범, '전고체 리튬이온 배터리 및 팩 안전 기술 규격' 제정 착수",
-      "url": "https://wallstreetcn.com/livenews/3203902",
-      "ts": 1795403438
-    },
     {
       "source": "DigiTimes",
       "title_en": "Weekly news roundup: From November 16 to November 22, 2026",
@@ -11504,6 +11462,48 @@
       "title_ko": "S&P 500 선물 장전 거래 상승; 카이메라 테라퓨틱스·지스케일러 주도",
       "url": "https://www.barrons.com/articles/s-p-500-futures-climb-in-premarket-trading-kymera-therapeutics-zscaler-lead-199b54a0",
       "ts": 1795437141
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Deloitte: Participation in Black Friday-Cyber Monday Shopping Expected to Hit 10-year High",
+      "title_ko": "딜로이트 \"블랙프라이데이·사이버먼데이 쇼핑 참여율 10년 만에 최고치 전망\"",
+      "url": "https://www.streetinsider.com/PRNewswire/Deloitte%3A+Participation+in+Black+Friday-Cyber+Monday+Shopping+Expected+to+Hit+10-year+High/27384333.html",
+      "ts": 1795437281
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Energy Fuels rises on White Mesa uranium plans, 1.25M-pound growth pipeline",
+      "title_ko": "White Mesa 우라늄 계획, 125만 파운드 성장 파이프라인으로 에너지 연료 증가",
+      "url": "https://seekingalpha.com/news/4675508-energy-fuels-rises-on-white-mesa-uranium-plans-125m-pound-growth-pipeline?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795437350
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "How to Earn $500 a Month From Best Buy Stock Ahead of Q3 Earnings",
+      "title_ko": "3분기 수익을 앞두고 Best Buy 주식으로 한 달에 500달러를 버는 방법",
+      "url": "https://www.benzinga.com/trading-ideas/dividends/26/11/63523060/how-to-earn-500-a-month-from-best-buy-stock-ahead-of-q3-earnings-3",
+      "ts": 1795437412
+    },
+    {
+      "source": "DongA Science",
+      "title_en": "[사이언스게시판] 우주항공청, '한국형 위성항법시스템' 통합 상세설계검토회의 개최 外",
+      "title_ko": "[사이언스게시판] 우주항공청, '한국형 위성항법시스템' 통합 상세설계검토회의 개최 外",
+      "url": "https://www.dongascience.com/ko/news/81032",
+      "ts": 1795437415
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Deutsche Bank sees 2027 euro area GDP growth at 1.2%",
+      "title_ko": "도이체방크는 2027년 유로지역 GDP 성장률을 1.2%로 예상한다",
+      "url": "https://www.financialjuice.com/News/9864340/Deutsche-Bank-sees-2027-euro-area-GDP-growth-at-12.aspx?xy=rss",
+      "ts": 1795437419
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: 🇬🇧 UK TO BAN CRYPTO EXCHANGES FROM TRADING ON THEIR OWN PLATFORMS STARTING OCTOBER 2027.",
+      "title_ko": "영국, 2027년 10월부터 가상자산 거래소의 자사 플랫폼 거래 금지 조치 착수",
+      "url": "https://t.me/marketfeed/1083778",
+      "ts": 1795437421
     }
   ]
 }
