@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795405184,
+  "updated_at": 1795405337,
   "id_hashes": [
-    "6de28798d6f3993d83a67417be730b462440d039dd03c516dc215ac8652a99a6",
-    "9c15d804d29ae4135e887ae07e2d2cde068f0f693ab0cb6257ce1aa7bbf49baa",
-    "6cbf928c5f5bceabb653bc1848bf90e751ca675d17b33b096b84ac7fe554b016",
-    "deab8a53a8b1e1e928d4cc7c7b37337f4dc02293c10e67ca8dc0e26c491d59a1",
-    "5f8a0c65b807d4b90628518bbce9ba3cafda1cb2abecdf5d119097491da71dcb",
-    "c0310703b8d593c515a23b3be3d52de847247c01a1fdcfcf3dd7c317daeb8c73",
-    "49743ec6d7ede4abb6ee512a68c273b1f453044600a3946e6280cea118ccf5f0",
     "44c6d82412534cd2a1ac0f1f88b31c449b0db3e1b904267eaac9a5924e8682b0",
     "1c4ab115670da5bb0607c9468c3832b13f7e5660d668bfe604d70a6ad89a487c",
     "44eaf76609839eeaec4a0ac9106448cb0e2d1874803c4275329af58d9ae30f99",
@@ -4000,18 +3993,16 @@
     "d7794623b70f46f7d79aba2948b36e1b93cc0324106ff26cd90fe41855a40cb7",
     "4eb589de8e3a0b3f2100aed67dd576ca7da1b4225741d873d2db5cbae80dfa9c",
     "f1616b5270a4bb8f39fea5a7229885c20a63fffff80ef56b57db5d39d5a4c945",
-    "5efd6df863ffd8942f6b5dd519cd80c7ae1bb1dc915f1a8f7d2264be635e6f42"
+    "5efd6df863ffd8942f6b5dd519cd80c7ae1bb1dc915f1a8f7d2264be635e6f42",
+    "1e98f8878924f44ab35c6616ebb1aa8577633c2e596b8dbf8f00de29a66068e6",
+    "20210e4df44846a106a4678df951974bafcc1de57dd1914bea0c9cd634cfdb90",
+    "46bc3d0d51c636d6161565d5bb9d880d2c966c4b7128996a4b3dd82a9790f7b7",
+    "4a3b26438c37be3f3fb9bd9fbf96d31a74f9cad00f80eda6d68e06894cfa4524",
+    "d6c18c87bb73395b83c28783baaf46ac7e525adb51336662d3f5c76bc0a6d89e",
+    "9f753e7b76d5dc2337274220fb57dab114683381c8cbdfc2345ca414607672b6",
+    "192423e87d9f031db20e0f7f7c979cb79151488f0265475e040a07b39a0a254b"
   ],
   "title_hashes": [
-    "dca18e67cee5de669853b9b729858654ec40dc34df58de8a9fb20cecb82c0efb",
-    "01751e1a442473edab0730b1640b03f3bd9736fad64feb72ac3cc413ef383efa",
-    "b3d4ebb57453eced43ef90fbc0d3dd23b1d9d7a530b99876d697c9b3fe86d1f5",
-    "2eeeb451eef16daf0ce4aa3cc5e9c56393c85e95084f383e5550b17fd2c71929",
-    "8936360188dcfa8678f9df3485eabe85d616383f19342b26e84a9c8e2e919c57",
-    "b2643f0ae2c9b7beaaea91d871046f713287e978405e0481ffb701bac8eb1977",
-    "1a8f026d3de1cc3a76f588acea390548a92caca01510f0a9568ba2e143bc9331",
-    "37486740322a061bd94c494c9762746f5430e18aa8659e2a88b63eee82a3fc85",
-    "5301ea6eaf6048015d5182abd7fbd692add279f6e50baeb589ec640fed9b6ac9",
     "f0e60336de4cc2779337850190a5a284da1323951715cb398f4262baaefa242c",
     "b9445d8b8f4771d4821b25903fae5e0189bd4785d6d436ec92de9ee117a75b52",
     "55eaef103b211fd481ad8324ec05b59dcca3d0a823d9e209bfe52c66877c1b35",
@@ -8002,16 +7993,18 @@
     "ff390c7a1d3c330803f9b2dbf91d022e00efa338e11814cddd92d9ef4be0e3fc",
     "3ed21f3ae8b42ea2161b5089fa47a2386649150e8ff521b82c38fc3bf037be5c",
     "5706d570fae73ad036dfe56151a5be1810983d6a8fb14da7642aa3c1272b61b6",
-    "6243387ad857c702369b3fd3e89b4ca3a12d0aa2765b75b531e80c4bc850978f"
+    "6243387ad857c702369b3fd3e89b4ca3a12d0aa2765b75b531e80c4bc850978f",
+    "1b2a65a73e9aed4ec1b27f4b87734e1b43650fc2ca4df217854e63bd74660b0b",
+    "db0479c4dbce3210c338d8a0bc14723f56dae58adc5ca0c11e7a2eba2540ab2d",
+    "d4f5716012382e80b777a9b9d00ea76baa525374de5cf1809b923e3bde40e7d6",
+    "ce01c9c7915f4fde0f35b9dc96f29b82b0bbc0340f4c5f7cc76fa02f370f07f6",
+    "58889c1650ce4822b71a002d9d2e1097b16e8ca57ff28ce1f32df99974c7fa37",
+    "c2d155294d48e8f0dd39c8ebee290b65cc432075b3a131c0d0b388ae936e3833",
+    "f8a5d62164903085bc849260da10bd8831d9874a2aea9eaf0f6ca15828074775",
+    "31d7645d03e08d30356c095dd165a368057c138bcddd0f26e7e85949e7074fc4",
+    "728e996a5bc678c893524efc472521a7228380750d1be9028fd0f57bd2c461a9"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Britain's next fighter jet could be last with a pilot in the cockpit, says RAF chief",
-      "title_ko": "영국 공군 참모총장 \"차세대 전투기, 유인기 시대 마지막 될 수도\"",
-      "url": "https://t.me/firstsquaw/194958",
-      "ts": 1795330022
-    },
     {
       "source": "Benzinga",
       "title_en": "Scaramucci Takes Aim at Sean Hannity Over Pope’s Iran War Criticism, Says ‘Trump Is His New Jesus’",
@@ -11504,6 +11497,13 @@
       "title_ko": "월가서 연준 '2% 물가 목표' 회의론…\"정책적 선택일뿐\"",
       "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446036",
       "ts": 1795405183
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "이형일 \"증안펀드 가동·규모 검토…공매도, 규제 강화보다 불법 단속 중점\"(종합)",
+      "title_ko": "이형일 \"증안펀드 가동·규모 검토…공매도, 규제 강화보다 불법 단속 중점\"(종합)",
+      "url": "https://www.news1.kr/economy/trend/6362793",
+      "ts": 1795405336
     }
   ]
 }
