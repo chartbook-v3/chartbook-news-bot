@@ -1,23 +1,6 @@
 {
-  "updated_at": 1795414004,
+  "updated_at": 1795414158,
   "id_hashes": [
-    "a62f36975ff585ab6964e7c75dfeb947caab55539bfe9cebf69e7493b0c0cbf4",
-    "94fc5a18507271bddf33e327478bacc48c7eee3fed10f69b679167541a325608",
-    "8749a7c3a7ac26637a4bc4c35d33b8dc801f18f4a810231dec42919d734c7d1b",
-    "c4cbd26e6fa6d498fe89bd5386339c84d8a4488ba9f31e6b76cf0f7a943348c9",
-    "932bd88314b36e223298d3e98fd0bc62cc684ce2c5c398b0103ae38d73f88c4d",
-    "cb2de09500d2423790144d4d647a4a8b861c0362e1848be5e1114c4d6dee34ae",
-    "faf7a3a11e7b0f58f3a85b7fe0041327e894af1cec2f19b76b2e76fa52c49125",
-    "26ca0bd15feb6a346a3729d59daad7679e05a04981226aadeadda5ca30888ae6",
-    "2f13fcbbc3a4ae7531cd7b147dc82aa421aca2ce452ebf0a8caa70c3359480d0",
-    "6b0c2b92b25f7ec7755b20903c48a81ba7457c9af4436935e851c452832a8a9c",
-    "db4eeb27364a1f00f0fd0c2ec4e423218b727c2ab7bd58083a50414cae8bc94c",
-    "6b727f044f8dca41e8c41b7c0ae1b47d8e466e03534c2dcc5af12929b1713f9c",
-    "e4f1f8c7ab4e3296ffc2fd11018cfaa35cf9e99abbe471f9552ca0c3a72c857c",
-    "7ec82560989572f6a78502bc3930521acb68579f4763be6b89c732e97c406c13",
-    "ff05d2df83198f64537421e75929af9f1553f9d1dcd993a1761fedcc3ed47dd7",
-    "9996eb2d09debc5c3cc53fd053557f42acf68bd21e05b3542393cfd7b6eb87a1",
-    "be8bf77482f04e73743433bfb53dbd052f50af97750a7442a338cebdecb58e8b",
     "169ba632bd592bb23103e40f8833f883dab5994981c82d831b4bcf6763425cf3",
     "307f4ecb59954f2f1761de676969c680f430d68cbaac3d874a26de035e96e6a4",
     "520a6eb3ed6566bdc261005911bdaf4903f7420cbb061ec00c299984c419ff38",
@@ -4000,23 +3983,26 @@
     "5ddd25e211995ca44707310ae341ed3f53957482edb5fb98954abd1a2147f738",
     "fc8482af01b1aa86bd9985701ba8e568be14243f9f967375880c823fb8cf7512",
     "efdd22b6db2db1738f95b0e29bf500c7042a453a602fdb6796269cc764ebbe21",
-    "93ea2d038df9f49dba1ab8e19d037dd4716c78664288471ed85b6779951f90e8"
+    "93ea2d038df9f49dba1ab8e19d037dd4716c78664288471ed85b6779951f90e8",
+    "bfb56c4de36a61be99c1fd23f42cbe4b3e86189f84766dea0d4b8cc2f28497a9",
+    "4909b1e520b769ddecca467707798bda53e716a54e8ddb8cfe108cd811e234e1",
+    "365e63d74eafc3423e31c443d7b681a2285277bbbb380d979b94ffc11c1d54f1",
+    "fa74bca7b2c83c077761688be28991fe3b8b3562f4672680e32405ea947eaa0f",
+    "93ec912947cd473f99fe36859e2aabd19f08082724dbca49678d7a24b1d805a5",
+    "58ad553f29b82717a4893fb784b95b64a1684e94fcf49897340b9379e29ad70d",
+    "7471099326373c5a71731a8261823324ff32b2aa6697b010ba6dfe8c837bfb6d",
+    "d171cdb11c286cee405ce4a958d50aef06e09a98f61260458d24150e8bda843c",
+    "77704c6d53a8e0f59148670f40fbf2bf1ad506eaa344262a0af88c65a331fc88",
+    "ece9db717aa81b3242c4138e1da93b63b3753f362bb7766838ab1de98eb63018",
+    "8c33ba1e2ec5236d750135bce21e830ed88af9d57af284cfe46456c9ed66f9a7",
+    "eeffc24623087342347788ade8c2137e1dcab8fb4aac5be43a8291813b3948d1",
+    "24594e105e4095b0c5e8bdafe5e47b0e0db2c3b19ed015bc4d00f7563a4e85b9",
+    "b24d5a0b0eaa8799d2024ba17c91e0a62162a49626b73665ac951e04b7f33f75",
+    "c4e0a216779d895af5babf1909e3fcf39b9fa148a97e719a95b9bfb88f08d5d2",
+    "2e103d7909f0db858d7de8fce4dd345a85b0677fe3fabe4e98a3dfef2548a17b",
+    "c5c7f2f410ba1dc015f23456c140c23391479ec791de43a84de9f2b2a0101e71"
   ],
   "title_hashes": [
-    "c3580d46a80b9b332a78edc501517e554e81669347e0904db68475017c8f5ee4",
-    "5ef456a3a2e8fcc9ed3285f07b9952d9376f96a7eb8a8f58a0941cd1f2cefae2",
-    "82e036624460784baa2dbe54a3d7b4616c35e5159fc2c06e883a2676c0ce523b",
-    "bede76557da085d65e033267a0950de565decb5f2c4edf2d9841019e8eb490db",
-    "919066d0fd419e319d764f7462e2a9f8c5b48bb0945b8221988b48c70ffd1c1e",
-    "ee92127a6e7a07338d5d2c5d9d978abb9e01062783fe7dfab214de96b952ea0e",
-    "c7aca791a744a3efd8165342d624e3220a4921f44de930b0baa2739b6ecc9df9",
-    "794f2f568c8fab751fe4610af3971d7ac54636323865d494b5cac3b838d3bcc2",
-    "fed88a055595ff3b52024600161d3187a2feb6d08026fb7db08ac546afc72c08",
-    "03e258a0d131f6947a57afeab8e49025316a655c8a789872934460b7e53811fe",
-    "adf9a90c05944913f0ec6f95bebb3d9f9983e022b7491ee1269b1011b59d07f8",
-    "e32be11cf115528b7bffc6f691defe40c5ddc8c5cfdbf41ccaf18c834856e674",
-    "fcd24f79b492f9be2962c4e9ed9aea49f907f59460c27ac1dc23a648919b9230",
-    "b031c389e5f6cf5438d8bc5eebecbdf48efababeeccabc8775aff190f37304c4",
     "2bb2899bd464e9401202ab1fbf9c236ab93d7f35b3dadc2f09bdb3adea8a79c0",
     "349ba7d32b6f6894ded3ff0dd12d9bed7ae7ab9f7c08a788814fa4c2312ad1a4",
     "5c0e4bf631fee1d6aa0e3ddc61c2dca5155162c13cab6fa0ab5a3070325214ea",
@@ -8002,23 +7988,23 @@
     "0d12617ed5d88a2d3d394c27819f6a24cb7bb19160697fab9e6e423be8ad4ed3",
     "b8fc285f3a1cf9cb1a5c020fa8bf059a3a9cef88a4df641168acce74f40a0a3a",
     "37e4ede524f9423b062776fd9af11da416bfaacae8cc7ffeefc557609eadb77e",
-    "07d5beefe78471d7f094013b86bd0d3fcb41f522120aada96bae45f7bc6696d6"
+    "07d5beefe78471d7f094013b86bd0d3fcb41f522120aada96bae45f7bc6696d6",
+    "04f0d2815fed170cd51adbddb25d42308016ceeb907e713db1b5e9e4c7074488",
+    "d48ca365cce347f09409930e3fca200e3cb5d510f43328d53d304cd46f0ca97c",
+    "4415cd6c329c367de8bee873b03c2a78dedb50d556b5dd81e75ddabd657544e4",
+    "674eb6f43c7ddb7b9a7ca6795aa60886181b79d1c9b48b6d678eae3573c2e4cf",
+    "96f2ac61c328382bce9611a2f0240a6184b7bb3437c8a67ffc05f38ef3308227",
+    "cf265d8ed956fbb7ea13efed7903ab15f0d2dccd4227013f4e3f274f0a074169",
+    "3317582edec0b1695cbafecbbe2988721e78349cf275ef1536130049f4cc760c",
+    "642cd88838962b013eec0a813122b78a8554767ef0fc4dd4e68fbfb82f784fa8",
+    "b4b543c2c975bf3134f99f0bd91e7b12803ee1512e4e7ef95f6402acc31b24d8",
+    "36685a7cf08193e9ebb842648375fe8b2105cd0fc5039b68d067592f8d2c810e",
+    "f7de993ff5210c75dafb807a8ed3baf6ed77496e0f5ef69b1b5f77c4148c790b",
+    "acbdd9b84ebe15bdb4523c9723122e846639eab2c78821e98eda9d70775127d1",
+    "1a181a50f5fa6d52f0e9a948f546728a1d1415bd72a7b7e10b040a3783d866ec",
+    "3d990c5fb802e0a07c44e568f55f0648d0a49775ca4b10153d6da9abd3d82f47"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Here are the major earnings after the close Monday",
-      "title_ko": "월요일 장 마감 후 주요 기업 실적 발표 현황",
-      "url": "https://seekingalpha.com/news/4675401-here-are-the-major-earnings-after-the-close-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795359739
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Dow Jones and S&P 500 Outlook: Top Stock Market Headlines and Data This Week",
-      "title_ko": "이번 주 다우·S&P 500 전망: 주요 증시 헤드라인 및 경제 데이터 주목",
-      "url": "https://www.benzinga.com/markets/equities/26/11/63517143/dow-jones-and-sp-500-outlook-top-stock-market-headlines-and-data-this-week",
-      "ts": 1795360050
-    },
     {
       "source": "MarketFeed",
       "title_en": "THREATS, INSULTS, SETTLEMENTS: HOW JENSEN HUANG MADE HUMILIATION ROUTINE",
@@ -11504,6 +11490,20 @@
       "title_ko": "[단독] 카카오표 모두의 AI, '톡톡'으로 선보일까",
       "url": "https://zdnet.co.kr/view/?no=20261123150151",
       "ts": 1795414003
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Unsafe Bisleri water sample prompts India to order testing of all packaged drinking water brands - SCMP",
+      "title_ko": "안전하지 않은 Bisleri 물 샘플로 인해 인도는 모든 포장 식수 브랜드에 대한 테스트를 주문했습니다 - SCMP",
+      "url": "https://t.me/firstsquaw/195135",
+      "ts": 1795414097
+    },
+    {
+      "source": "이데일리",
+      "title_en": "“우주정책은 대통령 직속서 조정, 연구는 자율적으로”…황정아, 우주항공법 2건 발의",
+      "title_ko": "“우주정책은 대통령 직속서 조정, 연구는 자율적으로”…황정아, 우주항공법 2건 발의",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=02699446645648672&mediaCodeNo=257",
+      "ts": 1795414157
     }
   ]
 }
