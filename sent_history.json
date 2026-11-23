@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795438429,
+  "updated_at": 1795438590,
   "id_hashes": [
-    "8f692b07f20c22301b8642364837f6627460ee44868d035b9a069849646949f0",
-    "6f8dd8025853535e4752ab560c2daa2696ff9b00953ee3095500a0ad7b2e161d",
-    "d45f71a71370a2ab370e4737e899d104de4aabed12d6d6d0a399ee2d027b9186",
-    "662d05de560382e2d21ef94d2822b5b2d4cd75559a8645fb9d4ed48f8f9ee57c",
-    "0719a5b697913a5b617804e0cc78beba3e538f5fc5ff1317005e616f50655b2c",
-    "791cb69029e02567f05f37771d72aeaa2b124390c5d0c2cd3c751ea0ef8fde32",
-    "d7a580d5f4c015f50da219191dd636ae0ff23865b229ad13ff1c71fdf46960ee",
-    "e4dbed50aba5bea81192fb3ce0dad9fc7a1cf1c25c6f84f95a508ed8025d461c",
-    "6060d6408d47d8c7b169a66a80aa35b84e43df3bc80847ef09c5d031b6ff87bc",
-    "9e9c67c4807d0c534058a9130a5c4ad62eaea135dd6c643567bcd4b73841fd4a",
-    "9c9e11a405ca2137d49066677c366478fb60c6da51f4ac359f9b0296f8a51c91",
-    "f4170c80e7af59f859000464a7c8d0b22688fa23022da11e7aa8d565e4469680",
     "fb3b39fea3ebc9aac1731734216c18b5b9d9d1ee0e6de18a66867b5ccaebca5c",
     "24f71fd5711aa3cb258616e52528d728244379dc53154f4b24bb2b6518795507",
     "35b0460a4fdb70b5b36d722fe320ecf7ae4ebd211c2c871a3328ca1b1afec0c3",
@@ -4000,20 +3988,21 @@
     "99b7e6db63bc93d8b4c7013a9ae2bab666c2914577c796b203a9c31fbb2dfdad",
     "abd86b3ce195a77b3f951c813369fdfcc4cbe6069cfe199272eff3099b922e55",
     "f4fe5e6298e0593c073a16dd1a80828dc01bbebe1fc160bdc98afbc94148333c",
-    "71a76cf1ad0aa14fd43b4d225fe2244d1a885a0de0815cb8185b4af1f48df6c8"
+    "71a76cf1ad0aa14fd43b4d225fe2244d1a885a0de0815cb8185b4af1f48df6c8",
+    "b18f3c5cd1354273f61ff5c596f4f3c8f469b2cb72dbde4a4ad6ba544b5ba1b3",
+    "1de17838590caf3d46dcbf8ee06dc571076f6c9dcbc84588e150782b7bdda446",
+    "eae9ee9ce5dec9ec15e8da7431fe954c9a17990f3a37e8bc7302b3e82b69f80a",
+    "579253221cb32cde4e6b9adc7630ae90ca6ff23b630055c243935819ef74327e",
+    "15b8ddbdfdeceaaaad2bbf2f175b45fb9b85b36d6b1e6ef47544b37098bd5198",
+    "06b312151a9076a8059582c9f6c8640d71be06ae199553eded75b4dafb038b0c",
+    "463abd50a18a0a7f529b86cdae32188d3e92099209ccc44c94b9a2cdef66dcc9",
+    "2ef6c7c2bd17ef9893c486964820f692c339092f94d6b7bc5ce0a10b86b4c636",
+    "6532f873efe20fbea58eeb407c8e83dabbf477489f8b0011cf5b353279f5bb4c",
+    "fb299b1d2f8bcd408730f7ad6a96b77ed6d6b49c3d039e50eab8ae90a511e683",
+    "a34442179f51f25c545ebe913c1b511422c23e537caae0d6230e50a9db70b69d",
+    "6bdf37fa407443e6578f078f9e755eb3fbf776f8b3d11e0d8b681dbad71424e5"
   ],
   "title_hashes": [
-    "1fcfef2221ac5718739ee5ef4884a83055009956cced1f78081eb98a7f561e1b",
-    "2c555911756c455f51a2cd982f8a98857b0ad60ecbf45d56af09165be1ec0d39",
-    "51c7d81d252478be13301378521f0800cf46e4153bc54b63b9384f0a3d89efd7",
-    "b51b73862073ce2fead93871e15ace9695665b184dbc71151aa6512a1669b01a",
-    "f61c32719cc644e4fdcbf97a3313e27ff221282bd6ab6d9b93a00e566f381e9a",
-    "54c617878485ccea37a9c20c43a8d8478fe191d6b9574b7a9308034e0594117f",
-    "74becc2f5009d6c45f8908f9711beb2236792eec710f125bee8464d1a6e2abff",
-    "c5e2d89c9ccc88ad92a933aa11436a9d1b8ccfa9ec3a4b66e35f4ec6d57865ca",
-    "2dd0890ca7fabb38def7290be8a108e9c62e893c353a6e4c5a7db7efe513f4ef",
-    "514f6bf040e7718e9b2fbdbe66dbb7134455662fb06ca353e62aecc7050ffdfe",
-    "c1e12cb333cca1705f4562912d0399654184c3ffbfb36814c31ef642af95d0e3",
     "63881842c12694a611f89a3dd664d3deb205557f6eb00c4294f1e1f2605863e9",
     "0b1457ca73073a4ab40379345370b260603671d7c2419f3238561b4e793fb14f",
     "19f8e956091332fac85a2b8897f1c7d88c17b21c1bd0eec0cc4716c8b9a32b64",
@@ -8002,37 +7991,20 @@
     "9af2e93b33583670af41ed03ad970d8b4ca118c4663812f7224a023d2b084774",
     "b41048c75f05c6dadacb43bb533a65cb31a948ca344827092d195f2e875aa009",
     "ca9740fd00ecb982cb0cce26e7b59882fa6e46b5ca51ef5164da11b3ff709321",
-    "2474deaf9409a96f1c5fbed4d10647fa755bda19f07f0c5a10cd11703afd2d12"
+    "2474deaf9409a96f1c5fbed4d10647fa755bda19f07f0c5a10cd11703afd2d12",
+    "e4d363f48e3227d3b84098e88bb62dd2bf1352ac9d89416207319806652053f1",
+    "890b81951202dc4cc7c8dcca32470ec74d9089c508226346b16447bf5ff5bc0b",
+    "dfbd297e708cebf039443710998a68bb79121e98a699d312a3be14ade28dbf7e",
+    "1f6088410f5e6d961fcd77d9c663b157a2fd9a5c0b5077f22067e7ab9e3aedb7",
+    "2fb0c71b5ee9ac58ac629c6b534979ad484873cf43f1db9fb99ce7077e2d9113",
+    "8d3161fa3a51120802ddaa5800d52c99b6273d1509fb57ec73a195a572d13b64",
+    "07cbdcc938fad4ead4e1c0a5f17812a162783dc2f2f4db130d939dd5e647af23",
+    "575ffbca5f4ce1e91af06370aef32b5c1e05b097104e200cb34aa7476b41df9e",
+    "32a7984b22a0841acf2cb2cd5f6653473f16eb3f7e02aae02f3f18959975188f",
+    "cc8eb2ebd8d283695f67599b082671ca693d42cccb5eda932aee9f460ee5f16b",
+    "8ca4f7856df0e24cf7b113af8690896f27f99b13f1e4ba473377368909bc0b32"
   ],
   "recent_sent_articles": [
-    {
-      "source": "전기신문",
-      "title_en": "전기차 ‘일률 보조금’ 한계…국회예정처 “일정 예고 후 선별 지원으로 전환해야”",
-      "title_ko": "전기차 ‘일률 보조금’ 한계…국회예정처 “일정 예고 후 선별 지원으로 전환해야”",
-      "url": "https://www.electimes.com/news/articleView.html?idxno=375114",
-      "ts": 1795406094
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "US AI Chip Curbs Test Southeast Asia Data Center Boom",
-      "title_ko": "미국 AI 칩 규제, 동남아시아 데이터센터 붐 시험대 올라",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-23/us-ai-chip-curbs-test-southeast-asia-data-center-boom-video",
-      "ts": 1795406116
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Wall Street futures traded higher on Monday while Asian authorities worked to support weakening stock markets, following a broad sell-off last week in the technology and semiconductor sectors at the heart of the AI boom.",
-      "title_ko": "뉴욕증시 선물 상승 출발, 아시아 당국 증시 부양책 착수…AI 반도체 투매 여파 진정세",
-      "url": "https://t.me/firstsquaw/195103",
-      "ts": 1795406119
-    },
-    {
-      "source": "로봇신문",
-      "title_en": "한국로봇산업진흥원-한국화학융합시험연구원, 첨단로봇 지원 공동 네트워크 구축 업무협약 체결",
-      "title_ko": "한국로봇산업진흥원-한국화학융합시험연구원, 첨단로봇 지원 공동 네트워크 구축 업무협약 체결",
-      "url": "https://www.irobotnews.com/news/articleView.html?idxno=49740",
-      "ts": 1795406423
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Seoul has stepped up surveillance of North Korean troop activity following the sighting of a North Korean ship near the NLL, according to the military - YONHAP",
@@ -11504,6 +11476,34 @@
       "title_ko": "시장 매도와 유가 하락으로 인해 2018년 스타일의 연준가 BCA로 전환하게 될 가능성이 높습니다",
       "url": "https://www.streetinsider.com/General+News/Market+selloff+and+falling+oil+will+likely+force+a+2018-style+Fed+pivot%3A+BCA/27384402.html",
       "ts": 1795438428
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "DOLLAR INDEX HITS FRESH 19-MONTH HIGH",
+      "title_ko": "달러 인덱스, 19개월 만에 최고치 경신",
+      "url": "https://t.me/firstsquaw/195193",
+      "ts": 1795438452
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Why Ed Yardeni Lowered His Year-End S&P 500 Target",
+      "title_ko": "에드 야데니, S&P 500 연말 목표치 하향 조정 배경은",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-23/why-ed-yardeni-lowered-his-year-end-s-p-500-target-video",
+      "ts": 1795438517
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Salesforce in focus as Citi lowers price target on 'sluggish' checks ahead of earnings",
+      "title_ko": "씨티, 실적 발표 앞두고 세일즈포스 목표주가 하향… \"부진한 체크 결과 반영\"",
+      "url": "https://seekingalpha.com/news/4675519-salesforce-in-focus-as-citi-lowers-price-target-on-sluggish-checks-ahead-of-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795438581
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "[ Z ]: STRATEGY BUYS 457 BTC OVER PAST WEEK, BOUGHT BACK $212M OF STRC STOCK: FILING",
+      "title_ko": "[ Z ]: 전략은 지난 주 동안 457 BTC를 매입하고 2억 1200만 달러의 STRC 주식을 되사들였습니다: 제출 중",
+      "url": "https://t.me/marketfeed/1083792",
+      "ts": 1795438587
     }
   ]
 }
