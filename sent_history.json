@@ -1,30 +1,6 @@
 {
-  "updated_at": 1795447114,
+  "updated_at": 1795447272,
   "id_hashes": [
-    "dd7014b168a7b72464c01e885920a36efe3ab2e1a0e5cae7185d133cbce837c2",
-    "676115da2c6bad45caedbaa216efe63fd01e6431d98f82a803035056f09408cb",
-    "afdf157dd8354d9b6f064bea9654ddc0f9d8bfadf59832a419f85cf5b2b44fa5",
-    "cfd8120795c35859e2bb69d84fea5f219ea76ffdddbf721f2fcae23761678a00",
-    "95db417d731101ebd5f1fb1e31df2cb349e0006cc34c943f2ec69260ef1932a8",
-    "ef165e405a2712764c379dae9269aa15e5bffffe486dd9654f08031635730c6a",
-    "c6745a494ec234e02dd8bf714573b75fdb96da4e44d62db354dcdcf6757b7259",
-    "1638fb194f90834455f3d7ec17f9f640ba63b33b3d2af6d5dcb82f6241759cad",
-    "a91bfa19c5e99cb8556c515fa7d4cde6aaa8bde4fceb7f5ac2414d277ca8cbbc",
-    "2131e877dbfd8b0360b9804117df5469d92c19b0d4a9602a1b20396381c53299",
-    "e7423cbb8ee99a070cc9e3107d4d1c7b68e35d421d8e4331e0c23fdd969f4de5",
-    "e87de3a057ace07079b1c4260720603e011e00e2c6fbb318506d86f9113e5700",
-    "f46313043b72695ec53562166d6efe03e39d13a862d96005bf0e0b473c760874",
-    "fd44353c1d8f64ec408e3efe36f5ed9d4863f7f3725e3e1b18f8d3c12c52ae00",
-    "4e89bad315dfff9f44f177a5fd3a80fd981cedf6b829339efbbfe44035ed8a0b",
-    "2e53226f40a0093a59879b30c6e0e443c9a3130223dc17dd895d05de8163e366",
-    "79da61d331ebdec53401b7cf8ded603a663c781897b1b413f3598fa3b3004003",
-    "8dc1ef089ef9b2390921be2460aa8e0a5a66da3f487faadf7eb4f453eff5af94",
-    "58a23d27343c56a1be2a3606eff714d6edb801b5db921905d07c08861ae41f28",
-    "9abad9092253edf671e1400ca81009f94e225792c4a4cb9836fce2b3ab7b5fea",
-    "97b5dbdbe42082a5023bbd5793b1a3001c2eff82759633bc5e745b07f52666d1",
-    "783d112ca47fc84ebd376e0a44f26d32d21400d67dd99a7e14f079b6523aa2bb",
-    "697b638e763018436dd9e9cd1eff26bfa9c532e8631c2eb56b35c33e08b90346",
-    "7896a011f4d22ed1adb9fdfa1490dda4dbdae33d1fe5767d57c4bf603f2cbc0c",
     "e1dbb854e196091cd544c3d0cbdc3134bb2b0fc16780b1a238885b141f608eee",
     "05d6048f6bd747dc89b10b5234304388060547f1b82f8c7d9c009c23a3613728",
     "af1870508d241ee2c67f23bdcbcdf854d72f300e2ea74ed545406307236ce5e8",
@@ -4000,28 +3976,33 @@
     "db3d22ec9c978af1c4b2c8242f35bc32cb8245724eaf8b1d05fe7e10f26e7469",
     "cb91484f11ce4367094c06b2ba9e173ba9a53bf8e99090f5342303531f8f303f",
     "260780b4b7dd63f9becfa0c0d16a26c6ceff8ddd3233a910bbeac5e1a2a93a2a",
-    "59142be44f5b7b10cb900f52625d138ce10d95766e1a39050fe6b81023312c16"
+    "59142be44f5b7b10cb900f52625d138ce10d95766e1a39050fe6b81023312c16",
+    "82d6fa872bcc369c1c5061e8c4c76e95328b7d278c026bf850812511673cf40b",
+    "c5210b2cdca58bdae900a79530cdd7de32db37add19899d192b6196f361fdaa7",
+    "3d1bee419dbd51b205c0ff2e462cca67845960a76b3227fb4f36154448c71740",
+    "9ad42073085a658f5c69c6fd1b9f51036df5cefb5ca13173965fccd07b224b77",
+    "ea67fdbe0427b4e1943bc07c038bd4b39ceceaabad432ea914b4d3cf6cbc83c4",
+    "e3ce651e3b0648fe79387cfb97252b0aa07879b0df9ef9547ff0c9367d3feaa2",
+    "8d10219374a1d438855e63eca26af6c132701e4255372d7a35492a3f55bed088",
+    "b9d82ee3d5620255809fab08796ff9ad0d32bc38769828037e0ed09e58568f70",
+    "46ed8f287de2fa019e2debae378c47bd3ba4d04016bb288b306b33ed2ad0d3fb",
+    "8be31bc23ef36249b68a554b74c221e411cb3b67b236a47f0f737d85f6e5910a",
+    "5b43710e1501e13ab7f34ecbab0fc642d824a7f1a1875b2ff1fcae9cc7118489",
+    "30d4f124d765f5df571b764469ef58e13ed077d12049ac5c676c9871159cf7a1",
+    "ea10d2b5f69d9aa672eceba907f4726d70c095269d1bd3db380b23e89331b297",
+    "ff32ceccf33fcd10366d252cb17750c6825ba5b2ff17e42cedc229aacceff021",
+    "1b86ac34cc3a1289053b13f6bff9fcd7d1e97d09c25993e8f0ded644fc73e4cd",
+    "d3d5e30060ac8e47c80a99a2e571d7b3298a0f37b262137ff24d8752adefd378",
+    "72dc0b067f0b0c8a5a7f7ab315d6f0e6c62c2a2dc85f071ffd935ae1936bdf0b",
+    "b0ba5554963bec75dd0e155ce431942b4218ac476126d8141bc5b19f03fe871a",
+    "d5d50bafcc89ffc6a9e59083f90d6bba8ce83f249b1665b17fd28307fda2b6f7",
+    "2009a3804672c9e013f7a710c1716071ae109c6721f55964afb619d934ae830f",
+    "256ce01bdeb4dcf330c943528660bfd5de457634dc5fed98d8e41f288d7ae701",
+    "a3b0589ddedacaac4625a80bcafe39155dbf977c18471d7b870f2fbbf6de9e26",
+    "e81a7fad5200739af78cacd0e78c82819ed36cb8e4e1838f98d413306d93cd3c",
+    "88ea11e1781a6a15be7c62c910811d1a5b33afd935a8a447a5ef73af4d078245"
   ],
   "title_hashes": [
-    "efa0292ed46b0dea258b9318b2279e07cacf39e313a641c444d7ed6308392edc",
-    "af221578ef4f6e2aeda41cf6f10ac4ba3f0f0ccce2303e424b2e4b6e4fc8c6b6",
-    "1d224e79caa6c92750f9a966029a624bf0de59d88f53866d9e25efcbe9d1bfed",
-    "90593b9dc97e48a5f5f04b45f802b247f59644d1640f8006cafc695c1a1e09bd",
-    "1506f0806774eedb34a6feb7f605534925e35f643570ec089b83603f11054350",
-    "b6929463431c5cac56d844d8421229ac887dce6fb802718095a6901f1b64e970",
-    "9fceed6a70960b8c1cbf836516d7ed4c0abe5296dbcce25ea925f14e6a5527a9",
-    "0f1759efd36a8da77847f0b9eda1d5841c0781d67cd5682d0f4d99f88fa8cb73",
-    "6d580e2e4fc93c7836b96a422ee6a99e6ac40323cc373d29fb37665b0ab817df",
-    "2cd88d24996e99c083ceee2646f7324b4d7e59a053750f0d83406058ec49bc98",
-    "4cc26d59d65403c8991f2afba578e62acff3c37336da7129aa8339f52871c202",
-    "10f02a2ccb4e6e0367c38af221ac23f0ac4de1c995151ca76fc0e84694805b6d",
-    "2c3762df4674aae4f21ddf3cf87b3428e8cb431607ecbd8c7bf59dab1fa17ed2",
-    "fa93c1feb14e533a43578c4e5307c3fcd664fb8a73286ffdcec1d68b476111f0",
-    "d9bb7a0c4ab96974558f57528acf2d0bc371e25bbbbb10bb3ab36becd29945b4",
-    "4f5f6aaf80005fa2e31555e38a3cbb16777e066e7210d86981caf26595c32901",
-    "85fc3f384ac9cb8c1033e29523aecc58570cfac027b3186908139337d7bf91f9",
-    "e0a5a7deb9fcc8736b2db4be88c68b21f17a41669340056a1496a2854fbd19e0",
-    "6ab628e33f747ad5293fdbcc48453be2324509cff47d4e7fe7bce1857636f164",
     "4a0c0eac44a61e48b4ade140b0e1685c2877128ed60acb3d8a316c53dbf11d2d",
     "48b493f040d7e6ad3a630dbf4125a85d89ed75953dccd64d68bae979c3c78f16",
     "b81d3ffb0109bcf7f5a7fa501543d25af599b4d2fa799f44f245dc87fba80f6b",
@@ -8002,51 +7983,28 @@
     "cf10416f0087fcfea317874bba5482e44d7a3a82ac0a410907580e37e06c803f",
     "d65f20ceedcd4cc80c8fed262cd6884e684d021dc8dea8fff22be4ec011143cb",
     "f88d9a9f1cd553d66639d4e8d3d0c8de7b62dc4c7f3b147a9cea14b2ffb860f7",
-    "110b6a49718a4518ff517792650896b482451fd4b2991ed703d9b5f7277603d2"
+    "110b6a49718a4518ff517792650896b482451fd4b2991ed703d9b5f7277603d2",
+    "2a30fabcc2a1b345a2c35ab1806a85ac079de3e24552343de35a7c17e23d1947",
+    "cab5df5d844ad5e9c063aa311a3e1f25f5b637730be49adf4f07d46568c5613c",
+    "629a975e17420a0dd7a36bd98ac529aac4122cf748ed4e4619d154700f9c52c6",
+    "dbcfa015dee332e3f6d442bc2ab836825b965ab03a40b21e1d8de12e4cfd0406",
+    "9768caafba7476b0cad7bed8dc1f9b6c007eaa8cbc0bcb76bdfd0eec2d8df3e1",
+    "f7947c0bec84b49eb120aa05ca7255ae216ca4dd98843af985142ad9b0d82567",
+    "443910b33e4aee40dcf0b8f2aeae9539674ddfaef31c491dd00ec20d1bb19609",
+    "f7c9f482418f59aec9d9fb504ce7c836e2ef8906381917daeb7135370f87429c",
+    "e2acca7dffa27ff51bbbaaffa037bb0248c484694cdd652680cea67b0de660a6",
+    "c54effd4d91e9252de4ebbfc2fa5c174c3f95bbbc60c23d4a629b3f226455ab5",
+    "41d19b2a2c04ec5dedfde7916070945fd87cefab8354c249a0b1090c4475cf47",
+    "bd94e5ef06d06a073e4ce75a847131f068bff5777cd689bb194f8f428f837dc3",
+    "70a2df99366e72d8db52d1a12fa37a94503b5395e17ccd4bf45037e45f061362",
+    "b52f750322529190d1765489d2ab9d368846b97685209e759abc31e09a3e2f3f",
+    "8f84598aa67bff2205879bfcc166c92f6706a80d6f8ff60c82b1f47b9ce81aab",
+    "fd700694116ecc8926cc7d9ad18a008f97d03fa7dcde08de60c9a31b4c6fabc4",
+    "b9c867ea220e6be01c1b15bf749cf47f4e337d4c56085bc90ba390fb4163eeda",
+    "01a579a6df2842aae4a2737d9d0e74762538d352b27d0cdaa58bfbb37cf1cb00",
+    "0b40a259eb77ba0ed88e34b4e541ebcf944f8221cbf9447afbc314029538e11a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "서울경제",
-      "title_en": "[단독] 한진, 에코프로와 합작사 설립…배터리 물류 사업 본격화",
-      "title_ko": "[단독] 한진, 에코프로와 합작사 설립…배터리 물류 사업 본격화",
-      "url": "https://www.sedaily.com/article/20117841",
-      "ts": 1795419152
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "SK플라즈마·에임드바이오, ADC 항암제 美 임상 1상 추진",
-      "title_ko": "SK플라즈마·에임드바이오, ADC 항암제 美 임상 1상 추진",
-      "url": "https://www.news1.kr/bio/pharmaceutical-bio/6363181",
-      "ts": 1795419155
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "\"개미들, 수년 치 연봉이 사라졌다\"…코스피 4700선 마감에도 불안",
-      "title_ko": "\"개미들, 수년 치 연봉이 사라졌다\"…코스피 4700선 마감에도 불안",
-      "url": "https://www.fnnews.com/news/202611231626427138",
-      "ts": 1795419208
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "공정위, OK금융 '총수 회사 부당지원' 혐의 제재 착수…총수 고발 의견",
-      "title_ko": "공정위, OK금융 '총수 회사 부당지원' 혐의 제재 착수…총수 고발 의견",
-      "url": "https://www.news1.kr/economy/trend/6363150",
-      "ts": 1795419274
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "China’s Next AI Deals Clouded by Selloff After Anthropic IPO",
-      "title_ko": "중국 AI 투자, 앤스로픽 IPO 이후 매도세 확산에 불확실성 증대",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/china-s-next-ai-deals-clouded-by-selloff-after-anthropic-ipo",
-      "ts": 1795419365
-    },
-    {
-      "source": "ER 이코노믹리뷰",
-      "title_en": "태양광 모듈값 올린 美 무역확장법…한화·OCI, '업스트림' 승부수",
-      "title_ko": "태양광 모듈값 올린 美 무역확장법…한화·OCI, '업스트림' 승부수",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=758214",
-      "ts": 1795419455
-    },
     {
       "source": "Benzinga",
       "title_en": "Bill Ackman Warns 2% Inflation Push Will Put World In Recession - SpaceX (NASDAQ:SPCX)",
@@ -11504,6 +11462,48 @@
       "title_ko": "칩에 대한 트럼프: 구식 기술을 판매하는 데 신경 쓰지 않습니다",
       "url": "https://www.financialjuice.com/News/9864598/Trump-on-chips-Not-bothered-by-selling-obsolete-technology.aspx?xy=rss",
       "ts": 1795447113
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "J. M. Smucker Q2 2027 Earnings Preview",
+      "title_ko": "J. M. 스머커 2027회계연도 2분기 실적 전망",
+      "url": "https://seekingalpha.com/news/4675644-j-m-smucker-q2-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795447205
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Trump draws line between smuggling of advanced vs old chips.",
+      "title_ko": "트럼프는 고급 칩과 구형 칩의 밀수 사이에 선을 긋습니다",
+      "url": "https://www.financialjuice.com/News/9864607/Trump-draws-line-between-smuggling-of-advanced-vs-old-chips.aspx?xy=rss",
+      "ts": 1795447208
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "美国总统特朗普：黄仁勋规划的芯片远不止Blackwell。",
+      "title_ko": "트럼프 미국 대통령: Jen-Hsun Huang이 계획한 칩은 Blackwell을 훨씬 뛰어넘는 것입니다",
+      "url": "https://wallstreetcn.com/livenews/3204389",
+      "ts": 1795447211
+    },
+    {
+      "source": "한국경제",
+      "title_en": "젠슨황 복귀에 美증시 기사회생…엔비디아 30%,나스닥 6.7%↑",
+      "title_ko": "젠슨황 복귀에 美증시 기사회생…엔비디아 30%,나스닥 6.7%↑",
+      "url": "https://www.hankyung.com/article/202611235365i",
+      "ts": 1795447264
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "NVIDIA (NVDA) December 170 calls active as share price up 32%",
+      "title_ko": "NVIDIA(NVDA) 170년 12월 주가 32% 상승으로 활성 통화",
+      "url": "https://www.streetinsider.com/Options/NVIDIA+%28NVDA%29+December+170+calls+active+as+share+price+up+32%25/27385720.html",
+      "ts": 1795447268
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Trump on Nvidia: Was a rocket ship going in wrong direction. $NVDA",
+      "title_ko": "엔비디아에 대한 트럼프: 로켓선이 잘못된 방향으로 가고 있었던 것입니다. 엔비디아",
+      "url": "https://www.financialjuice.com/News/9864608/Trump-on-Nvidia-Was-a-rocket-ship-going-in-wrong-direction-NVDA.aspx?xy=rss",
+      "ts": 1795447271
     }
   ]
 }
