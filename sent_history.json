@@ -1,21 +1,6 @@
 {
-  "updated_at": 1795413044,
+  "updated_at": 1795413208,
   "id_hashes": [
-    "68ba7ec13304e7153e567d0e4e566c9ee086a9b2dc5adbe981487a2f5ac6601f",
-    "9156a0ae0dd6a19d655e82a83e3b22c8937da326ff33680f13052addec55bfb8",
-    "7cf94997862f34a30bec79d7cf09ad36ab709e39bdd60feb28f04b3da68cd9bb",
-    "f16e2c548ee43782600908962aaeb65b48cff739d9b964ca02362bf629865c5b",
-    "943f9c7bdd42b41717d1f4ec4151ccf14585191147db71d5a4da362061d6cc5d",
-    "8c0a8539968817aacd2ab10baa898c81073333716d6693331fde9f55089da98f",
-    "466eeb89541559ea7f7fafb922e2f98c33ebbb9ce5ea85b053fa37930d2b76ee",
-    "5fd7723696ef9745bbc867bdb6e1a8f70fd1cf862b7137fd48bea0ae63605d19",
-    "3ebdde98a8ed6967f57dd176463e714fbb40f593c357bdd5f6290418cdd1e4a8",
-    "a788cc0a7b328f230c14e0102e493e0175fecb0d62882cc746c4a70383dfe7ec",
-    "1e5ec4e2b956612d5d07e480f7aa891715f0e944471d818e90b74bb1606bf2d4",
-    "8072ff71dc63cd7e9adf9725eb5410b766df750a11c46872065724639a5ee489",
-    "99a2e2b750d1cf7a036dc94f24f58a385404df44732dbfe13adbce075c47d484",
-    "b36cdf987c71c3d95881cbe985011f5109fba90e1b727cbc6f395448850548ba",
-    "64a104fa9246b356652e5eec7ceb51ad00ffe7a25cf561b7049718e840a8fe7c",
     "f0ed3ac89d778f88a40e6341731927df5fddf23f811e98b214dcd44decd787bd",
     "cbcbee63fab941a08b0e6d36cb36a37b3c69d608ed3d212a9e08672efb496ef3",
     "bc015e2e7a33e8c247f87d2bb2e20a9f6210da8776a4a58e6a5f3be11f4c973e",
@@ -4000,20 +3985,24 @@
     "39b99d6d644414f86c89c06bb452184c238bfe8da7d767e0dfb9bc6a82fbd505",
     "d3c3be141abd5f75817bab0a3de58ac7059583696cd51324a9147bef090f1dcc",
     "d12053e7931569aa6df9361e5b500ec9777aee265bf016d668e78a3dee040e79",
-    "180a02cdb65649bc4232a8324ab9ad7a36cdba167288e9b0537bf979dc408fcc"
+    "180a02cdb65649bc4232a8324ab9ad7a36cdba167288e9b0537bf979dc408fcc",
+    "11d731800a7c5ea46766536e790ed4291329c8dc0078f2c8e1edeaeb5ac4cbc8",
+    "c6a0b815731ea8f258c98114a5809710ce735406acc581c181194bacbbfb9aad",
+    "c5b1e9ef5844deae618e8a8c7fd2cac336d8f7213a1c3a1f0fc25c54059765a4",
+    "56a52e7227016f309e2f42f0f6a6e4dacbf2919c23d22668bac8957c70d836a9",
+    "d2f94a2a4de9277ca612a6160b59fd416c9d2eefe3d9d7b1659953d4af16126a",
+    "ed181d58c54f5c09cbf0b00e4080bc63e80ac6f37d0543f9c9df6bcf636ba6e7",
+    "9e4f2a54a5959f04f39fd9499e25bcaf8b60418c8b780df045920ba8473f8721",
+    "f7cc744199e8fc5df426b52068bca7c133483eaa9a1efccff62a0ffd32253025",
+    "2f48c9fa64e60fc325399ef7fab785d833b97b208ac4d8e61906007182573704",
+    "311a97935b4f93f0bb28edd4268830a456cb2eb92960e4aca9c8a08a9e93f333",
+    "dde768947f58da86a19e4da180be074815d146b164a7ef2f9bb10d84696ebb41",
+    "af9504e2ab09cdcf6a11c444def36d506d252a94437715c9478effceb2951bcb",
+    "f16fa7f51a0d2c54eefe444096530657dc04b579d2904f6ad23111449036def6",
+    "c7151eef48f84c142dff263f9d0eda46920175bf9225ad3f2abb7e2ef3745179",
+    "2a05a2576e0b914839fd1ef369c7b86f89b777fad4dcf7ee976f31e38bb2dee2"
   ],
   "title_hashes": [
-    "9add46ecdab3d81d0a5666ffb773461c2819f9a9a2ee9cb66bebf52dbcff20ac",
-    "9355f47eb5d29092d39f1e62dd82bd31aedef576180cc813b57c998e6b09be27",
-    "930c330441ae3a1cca04209f0a991ce6ff8286012895c07c7b9f402f806bc2fc",
-    "9a0208d37569e06ab7a7524fee3bb844935664fe14b13ae7ed219f23911affb5",
-    "a86f4af3dd7bbe6ecd91e13c6d5c3457367526731379603127b6993c4b063d97",
-    "c226216f85b253e237b628ab2edced21b83f6525c213c76bc8973881b3cdd3fb",
-    "02d200bd6a88b014e5c234145f0b4034154b026460da6246d5b4efb1d225ef4a",
-    "c0f58e64015fc3d452666c8b675aa1552965d46207c7cf1e624daad71e717f46",
-    "4bab8de542c0b3c16ec8e5bd4219b24843dc66476a520b568526424bb51055b4",
-    "97addfcec95580e04899d0ce55cbd553c60a0a1ba741be074941dd41fe3d6b05",
-    "b53f3a5baebad9cf1f9ed11a03fb154c37f89d5d0dbb08d2f4ac6ef29aec6620",
     "740a05860ae1bdbd47123af9e2b65f8534c8453a4ff8c71d885e642807c81e60",
     "36c26ca46a2d392463f0d088c7f7beb665c6a95ef3093cbcc658be285baf6ad2",
     "33ded4c8f0c2c5563da796e87529c37527e6885045dac2207e398afc96a3fd07",
@@ -8002,37 +7991,20 @@
     "77beb88cfc08a0804659b176dcc0f749bcba1778e481a3c9acc10d9802b3a9e7",
     "0ea319ee7472ad4f0935ed70b4683e48738a5bb954630fef9f585b6d592bb40f",
     "ef6f21fb7b649648507f6c29db31e74614ff31ee69dff7406d9ba241b1c6a900",
-    "45c28f4b4acfa9820d08d2675e96a5df3b51a6356b9dbc310ace70149a5bafe1"
+    "45c28f4b4acfa9820d08d2675e96a5df3b51a6356b9dbc310ace70149a5bafe1",
+    "28269d5f2d3593d5e9cc35f5bff3ac3cf17b1aff4cd1488dafe4d941502938f9",
+    "efc8dac8ff3bd76937838467b8d02036d37b558886c89a458a5f7190c4dbf383",
+    "e5e6b15157f452cf94335901272f242aea317c16a4e94cccb1fb21b19b2e701f",
+    "3dc1fbf3ae8cb5ff7254d74a5b438d2d830ab0c7996d30e1ed53fff1cd5de9a2",
+    "d0b2e12d860344f18bd6c13be1f39fd57b727f8ea7325f5d5e057d5e04edd5d8",
+    "b4387019b10493b1d6109d0f278bffc4e4965e213345c8f3f04230d19d964547",
+    "fc2f7537e70e8f9debf8de11d906360348996423dd4d07e97955f53efe4a9830",
+    "960cf87339fe99778895c576916f6561e01847c1a2181e4c1eec636f02553811",
+    "37e2f0490e46f11bc19f6e2fd7998fcb7bac4164fa4a88627523c2240dec6896",
+    "a2fd4989285f00b667f81475e6cc2bb2b8d30b963cf03a62b1309792f6bf9862",
+    "b76b335d4856afa15466e33f306fba44d127cafd59cb7d33f9ee0bdedace2de0"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Strong Earnings Prove No Match for the Crumbling AI Trade",
-      "title_ko": "강력한 실적도 무너지는 AI 트레이드 막기엔 역부족",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-22/strong-earnings-prove-no-match-for-the-crumbling-ai-trade",
-      "ts": 1795356420
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "[단독] 법관대표회의 의장 \"조희대 탄핵 의결하면 판사들도 '행동' 나서야\"",
-      "title_ko": "[단독] 법관대표회의 의장 \"조희대 탄핵 의결하면 판사들도 '행동' 나서야\"",
-      "url": "https://www.news1.kr/society/court-prosecution/6362172",
-      "ts": 1795356573
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Nvidia Board Faces a Governance Reckoning",
-      "title_ko": "엔비디아 이사회, 지배구조 개편 압박 직면",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-22/nvidia-board-faces-a-governance-reckoning-video",
-      "ts": 1795356974
-    },
-    {
-      "source": "CNBC",
-      "title_en": "26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage",
-      "title_ko": "26세 구글 직원, 연봉 32만 3,000달러 수령에도 최저임금 미만으로 생활",
-      "url": "https://www.cnbc.com/make-it/2026/11/22/google-worker-earns-323000-a-yearbut-he-lives-on-minimum-wage.html",
-      "ts": 1795357357
-    },
     {
       "source": "Bloomberg",
       "title_en": "Fed’s Inflation Fight May Require More Hikes",
@@ -11504,6 +11476,34 @@
       "title_ko": "리비아 해군, 벵가지 연안 감시 및 보안 작전 지속…잠재적 위험 식별 주력",
       "url": "https://t.me/firstsquaw/195127",
       "ts": 1795413043
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "금융위, 상장사 자사주 취득한도 3개월간 확대",
+      "title_ko": "금융위, 상장사 자사주 취득한도 3개월간 확대",
+      "url": "https://www.fnnews.com/news/202611231443226214",
+      "ts": 1795413070
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "A股机器人概念持续走高，宇树科技20cm涨停。",
+      "title_ko": "Yushu Technology의 일일 한계가 20cm에 도달하면서 A-share 로봇의 개념이 계속 높아지고 있어",
+      "url": "https://wallstreetcn.com/livenews/3203956",
+      "ts": 1795413136
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "\"트럼프가 못해서\"…美中 국력 격차, 역대 최소로 좁혀져",
+      "title_ko": "\"트럼프가 못해서\"…美中 국력 격차, 역대 최소로 좁혀져",
+      "url": "https://www.news1.kr/world/northeast-asia/6362906",
+      "ts": 1795413203
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Taiwan's stock exchange has asked listed firms to repurchase treasury shares and organize investor meetings to showcase the resilience of its industrial sector.",
+      "title_ko": "대만 증권거래소는 상장기업들에게 자국 산업 부문의 회복력을 보여주기 위해 자사주를 매입하고 투자자 미팅을 조직할 것을 요청",
+      "url": "https://t.me/firstsquaw/195128",
+      "ts": 1795413206
     }
   ]
 }
