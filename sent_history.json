@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795403498,
+  "updated_at": 1795403649,
   "id_hashes": [
-    "938bc3222c35f7adfe0756b6b684db41c778a689bd25080361a963ed28da3761",
-    "93cbdd68eccaf7ecb520a3f0f6c2ff1ed4bace926851502de5d0ec16a2af6b6c",
-    "39c9b0d7733a55d338cf77e91311521fb6b28c9e1d053ae24b193e531d229ce9",
-    "8af91bf0b3d3a4a88ab03632b84aa7e265586852d4aa7faf220caf9ff6b14e55",
-    "f05c8272a5e20eee80206f7bd54c23d08e60a591766ca1232099c872c49ce361",
     "882c6f701c2112635f35bb0507b81223d6bb519417207eadee9a40938f57f9d1",
     "c464c34e9b4271731972606d34bfb30ee9cfebdb98e12cb3b10dfd77badb2f45",
     "a10bc27f245105657b0cf0ab6fbee93686831c8c92deb45ac814d45def68bf45",
@@ -4000,13 +3995,14 @@
     "d2c7ab8ae59b97a7427852650e7cbbcd82f26855dff67f0aa8e5ad6f74b81857",
     "ca816ddc7b3e9a2f7df769c5970a9dde8a2f63c537435941c9a35b1af82a4325",
     "9455cfc348169b4d90b2b836c486b2bdb12dad222b0abff6dff481b4acd92403",
-    "09e456cfb5c7e84c4139bbafcb7e5d8384c0b21856df488ccf49a05eadcf7fdb"
+    "09e456cfb5c7e84c4139bbafcb7e5d8384c0b21856df488ccf49a05eadcf7fdb",
+    "3046e1be07bdb6d675f8bd58a9d208828ac60ee99b29975c212462b4eddd29b3",
+    "0caf82c98e4ba693f88f8fee7810b3b3d6494ba9954c51c03f43cd4248dc78df",
+    "50eb10277f7671c813571cb9c6302bfe2e066322d62b5517d878b8d202d6bb2b",
+    "cb153b2f5e87c3eb8b0bc260768e1537fcac25c7bf3786aa499cf4a188fd0c34",
+    "d879587034a449137f48a97b902069b555218966419b396dfb7454113e1e30fa"
   ],
   "title_hashes": [
-    "7ebaae896c429b0e7a209dff3f394547d978d1748b8e211c6da0cc51be01d7e2",
-    "6cab70fb7157e52015d68bb4df91bce7f72164956d98704f124eee45962e50ef",
-    "4c5cb50aadd0330e7a5fdb070bb5f01c4a577011d6d5fbf9b8cb8dba0fdd043b",
-    "bef088687add9737fc2ae3c463c8b5d0543364b9d521fc89e57470c2588ca567",
     "e7f10f78a6ea76f9db590f44c637cddabd04e41e995d58a2875bbdb75689f187",
     "55c9b83be0e043a7cf736e89d26bd5fc1b67026075ce7b79f092e7d5cec1ef59",
     "cc96756331706dfdbd950b9dd29b772a7eb5d3203d0fc78e6702710ca8cb908f",
@@ -8002,16 +7998,13 @@
     "9e1da93525e4f085d6d4da32d6b9cf3841191d7a1cd801d3a23b46672b9f15a0",
     "dd84f270634edfc727aaba077d899b34a079c0793b9fc10222891dbaa9fe74ad",
     "38d97c3667495515ab59bea2d549381504b5c1b08ad9e5a8273716d723d8ae7c",
-    "84f0122c07a742cf2c98ef897c9b078b34c0e54d91161385c0deffadead30c9f"
+    "84f0122c07a742cf2c98ef897c9b078b34c0e54d91161385c0deffadead30c9f",
+    "217eecb45afa890d0b1a633b2fc250297569a9639755337c17c86bb2345b665b",
+    "77b0a63923c10e43f5f67c388360b883dfdeb71b15bd66bb3db4405711f20cf2",
+    "6260bda15947a4bb492eb9a4d6282b705b8750da2abaa5404c973a9f4b2d955d",
+    "9fbf918ac33571571c4f97e6dbda564608ad6c088d02514dd35f4bebd9da57a1"
   ],
   "recent_sent_articles": [
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "DL이앤씨, 2조원 규모 성수2지구 재개발 수주…'아크로 성수' 조성",
-      "title_ko": "DL이앤씨, 2조원 규모 성수2지구 재개발 수주…'아크로 성수' 조성",
-      "url": "https://www.fnnews.com/news/202611221436005180",
-      "ts": 1795329232
-    },
     {
       "source": "서울경제",
       "title_en": "[단독]AI 커닝 막으려 감독관에 바디캠…부정행위 증거 남긴다",
@@ -11504,6 +11497,13 @@
       "title_ko": "[주간 경제 브리핑] 11월 16일-11월 22일 주요 뉴스 정리",
       "url": "https://www.digitimes.com/news/a20261123VL200/investment-tsmc-equipment-chips-sk-hynix.html",
       "ts": 1795403497
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Sterling advances past 1.3100 following upbeat UK retail sales figures, while hawkish Federal Reserve expectations lose momentum - FX",
+      "title_ko": "영국 소매판매 호조에 파운드화 1.3100 돌파, 연준 매파적 기대감 약화",
+      "url": "https://t.me/firstsquaw/195098",
+      "ts": 1795403587
     }
   ]
 }
