@@ -1,27 +1,6 @@
 {
-  "updated_at": 1795415419,
+  "updated_at": 1795415583,
   "id_hashes": [
-    "7551bb158584dc751697019d86606493bb87b8992c3ae5da473ad3a9d88fdac0",
-    "8d3032900ae8b3956a616078953c26c7989b8b7ccbc46401a1013abf751712db",
-    "bcdf88bcd2e283267e3518e5e4b32785f0b1e1e37d1add4a13760dc77ab075a7",
-    "5316a946e0e3690ddc243816ad4acd18e1d99651d4b0a72c6fd26f94ef7ed1b4",
-    "791a51964097469f005d75354d56b1278fcd087d3a2b44f45dd0fcfa2d002a92",
-    "8232ee56018ad7d3030a449d91e3d301b83b9c241b36bf1fc042dc2b2b5c28af",
-    "4284f9c784f300b411405ffe6763b31acba1cb6907989ed5bb6123baa785c0aa",
-    "a33dbcb303777d5a9f65cf7bd5fd202b87960ec7471dbd61f1ac90f53f985b43",
-    "b8c2f099c13cab8267b7ba063f31510536781e61eccdddf6c3e12238c032a879",
-    "8333704aca4d915599427b2b3adb9020479ced5e1e2da67f27b142c14c02ab74",
-    "de043de969ad92978e1b82bf2eba7c3c5a7765a73226f7bd4cb7ecb639814e4b",
-    "51306b13d359a853925e6382afb2932427974ea9c0eac18b3a0bb762105d26e8",
-    "f69e866e30ca5b7ddf7b8ca4bb65fdd6bc6667739c7f721378676a0f9cadaaae",
-    "d40d82ee608ad0dac33a9928f7e33633709ed8f6401d9b150f8a2c3361839350",
-    "20b57d754dcfdfe0622485b79a2645d887afa18eeebc6ef6cd22ad42cfb7b9a5",
-    "25a6921ee67f0ff85cc6d0401509b0d215f893b58f4072203e487a6654457cd0",
-    "0d1633f9c75cba769f5398c15b3e092bb4c1a177bbacce72207c554b3fd6d3f5",
-    "3f8236918d9a62079f0a8bbce4ee877cc9c7a1fb005688a42250f40486547fd8",
-    "d9d27f1314561c61863c4d085599531463f6248993069a2054d15e0939a38a9d",
-    "5ff3f795405022df8bbe7e92d18ad3b5a00e3fb20378bba690a4cb36addb8a21",
-    "e06e784641fff4e1b19689ba248fb521f84c136d8043a4b25d26ae19fe6f1440",
     "82b689dad3be815857bee22fb8daa87d392d517b81c016b11d5e7fb211de0811",
     "dd14b577fe4a2c87ad462435007fbb41254c7b80aa282c86bc00be8872752027",
     "69929887ef3a3f5c1641ae9f0dcef6bee8c24d080a6d74e8884442eeed88f595",
@@ -4000,28 +3979,30 @@
     "bed144cc9dfe0873f854d54324526f3df77886cb55202f37deb4b42d8ecaceb0",
     "118485bab144dc6e48ea6f49037f1a55239194bc64ad55925691f048e6b4439b",
     "c2ddf54e79ae6e19c43cc71e48db8c617472a2c79c3830522115fac3315292a2",
-    "7909be09bd4c42df8b409433dfabfdf0981fa05e464386a4b43eefc8ce87b0b6"
+    "7909be09bd4c42df8b409433dfabfdf0981fa05e464386a4b43eefc8ce87b0b6",
+    "24f653cbcdd0dbb20cf7c03d6b86cdcf6563df472123e92b2fd1ff83292efb93",
+    "b10bc4ebc2882e8dca4830ddc509c31f67f2b5efe46f1c25ac3f625f8269d5c9",
+    "08cea3dec3a103a0b876dcd7b1ca2a1aa06c60193e732adb89c7e79a58e945c2",
+    "8013e20e24d65dfcbd8bd4c8cc4f023d8bd028e1ee17817d366282bfd23c3223",
+    "7a077aa741d5c849c84d4c83469a0ada34b19c7def525bfcdb9507d9f90cb219",
+    "e9ed37760548aedcd3b7666e82a7b4af58ced71ba9a56c361d02c8b6dc1fca97",
+    "99ab11b2e2621f32acd0bdfa13332b5d71f61aa9f0f32bb2e6dce6593efb158c",
+    "03b33132d2b8dda8f85729bffba9d984acf1dbfdba379d1f71af202e9adaa5e7",
+    "cc8c8afcdec3e17316049aa22ea8def5533c5055d54d37d7f2d7fe889bbfabb0",
+    "7331f2fa01e84ea2be4d37f987a534155f0a7682bf6338d74b5f7e62cba6c0eb",
+    "948e56765806ac42a2da320e33bf2b762b62b3969d12111776e495b78b2e770c",
+    "e7c6258122e8f2815dfeccd891462d4747ab9c41540dfc91773a71fadf78d310",
+    "fb64e505e0f3f33b03c3e0891403b5a415bc941359ab65ad220f7f1dcbebd9cf",
+    "c1a89e624b2e2dd7eda3e3a9661a414960e545125766965799b17d9de22f25a8",
+    "94c433f60de5b83ba2fdb84201e12c7df30bf5c0cec8d4d7ff73921a0d6450e6",
+    "9fa51f5f02355b70ef954c8618ed02ac6656bc1c3b4b39bf860ef2656f8a82be",
+    "fac8cafbfb49276020970f0f97acad6b59b8877f66bc333eb3fa52db436fc1b3",
+    "272a603c4a34c5304a00d4988b4930499167d84ebf2bc5aa2af7d46ab4963e97",
+    "69984e1690f1a794836a0e679f3bbbfa36670d642d494f25f7dd0b30668deab7",
+    "dc2e5766f3ffe60602df119a16911bf6d4fd58adde5a29a4c87871f70feebeff",
+    "1afde36971c2ae434930f72afc252661ae6697164e223ae95d8ee159aa9ba92f"
   ],
   "title_hashes": [
-    "46ff642e39d09ac983972b305a3acced623caae67317d8fce6c95a26e993fef3",
-    "d3034c1d5511c5abdc1a7b111fb21d5d41f0b4c8f344016eeb82e2e36bc471b1",
-    "fb422d54091c9ab76a3069907617c4b369a51735e63695cf725a5ba61cb11ed3",
-    "fb2888d1d29fc925176b9831a24ec439dfd06ac4092ca73d84b5018a1da9dfc4",
-    "6043c99e1b1bbc3aa584687c7eae6bb00f63c006ef0b9f4fa91f0bfcae13b00b",
-    "ecbced312e9667cba43f2b89ec0a44ba9245bd4162a5dc344cbc28af3aadfa95",
-    "f08d79c2c604f972211b2e3ec2de6f9f78513c546593233bcf3766127b97ec9c",
-    "e87bf6b006a5c8cce5edbd3138603593a4a0d52614446d34c7bd704591454ede",
-    "d025a725b63804e644ae44d75b15a4e09c7538e97fc0a22c7c3622327f515bdb",
-    "404c76f7c947b75fde0e7d3f5e8cbe4c70d50af6b6c6443b16b9c5eee54336c8",
-    "2a3a51b32c7a12c1a340ac6ece98dca02bd0a2b612fb7bca453b9def97dc9171",
-    "8d2c59e7b09fa59d8126190f3f24e6ea3732c98dbd2fbdd311879bfb5c1d148c",
-    "83ced03e9f8823a631224802cf58dd88243e10a5ea7d80cd157f96d9dea4445e",
-    "c1a5202859950d20b64351b50f73ffaf26aab887e4f032b002e28f47d1da0b0a",
-    "b0a796618d4ee579db57e1bbb9921cfe586e0ff63ac8f3c0d79e1859477610cc",
-    "2128566e1e397879fb952c44745ccdd56d2e08328dd425fae458775b1265d9a0",
-    "f64556cdf8c88295b262dac282dbefc6f42dcc8a71fb40e5820391966c800b29",
-    "3153e46145bd0675abc13ec615a05688dbfabb22e59946e66f651af3f1ca25dc",
-    "3137f82eb1a47d5bc7547161c75af848fa225d61a36df37dfe48dbe40784d30f",
     "94ac3cf756b3d42498ccadbd9f08662f27f4130f8512f4856be884b6d301f07e",
     "861250374bf5fd00c964ac4d794e1b8abdc4b85f6ca41a25d79d4daf2501dcc7",
     "c801f712c5b3f5547eafbb9fc6f5deaf30a0a7d0c3b08942bf71d49ff6788fdb",
@@ -8002,44 +7983,28 @@
     "95b335ad4f7d7c4be30b656c7e78cdd0e676538d2f58790d3c9600fcdbe20bca",
     "10a8c76e5f2e1cc2a5d58f844cfd4b692caaa1426d31d61dd1da61de44ed39a3",
     "140d4df2870afa8907af2d6f81c45b866aa55dbe251c9c16f50033a9d39ff816",
-    "520fdc4eabbb3e0d64c40c3af872f428f16e69899051c48334872c2779a534b8"
+    "520fdc4eabbb3e0d64c40c3af872f428f16e69899051c48334872c2779a534b8",
+    "4f57bfc7a0fd9424f1a4702baa7256561f3c7b6e26de7d662a9f23c8833fb486",
+    "03c979dec4811057dfbd7c6c33077a0f2359b24dcc745976658f379062f84dc3",
+    "5885e3f4662e1e33e1fe00a32f68cee3d7e5579118f860023601c23e10142ec9",
+    "8ff3569a0b02ef56eee4881b6b34f5371224c79c921c5754067bfad825303122",
+    "2b40bdab1be44d76e56f87c30bf990e8394ec9604186ea356b7aceae11702540",
+    "dff9c2fe2beb089918a8ba5f0ff9e12ff9f2b019cccdb114071937204ab3cf53",
+    "c6644c129fcec7b94a50b7c0cf88bba871227f5f7c31f9d2efbf82dd59939148",
+    "afb503310f088e7958aa605552a3a4e8c744e60338b8ab53685ed2ded6dd7d32",
+    "9e6eed2d2d8534885d7024c34766df0d069f0cd7f8a665756ca7ec47e429d7a4",
+    "feb281f6ee043f4f0fed7ebee87a913211a86636858b40858dd665c9b1a57545",
+    "d8f41dfea14f6191ba1f16f9e4e66ee6188903b6cc59aecacc0a0870f39a38e9",
+    "3a91e90837ebeb4b2f3a6d77462cdf507a4646aa4874c07d78bfb573a1676969",
+    "37adfe91c3ba9cdc9076276d560a74639f205c04acf314467f2b890eefad1434",
+    "137e4eb65c99c3f87d5fe0f718c764b1bcf50f99c172bd45864807f67abdf065",
+    "8efb789c902129c77afdfeccf9db40eb9a8bfd4f3ba3a66fe29839926a6057b2",
+    "424f8d2167737986b8063c65c97450c7e6faccd787722689e53d524ce2313565",
+    "4ea3d6e567b2aaa17d11f20b2c39e1b9ee51158614005ed2155f164f4755cc48",
+    "375378741f489d8d27f14162dd02630d10bbe45c76a9df4364e49ff91c7cdcbf",
+    "66f0585ff2625ffb7b306408656ae363fdf393673999a001a08e2fbbf8d63f90"
   ],
   "recent_sent_articles": [
-    {
-      "source": "조선비즈",
-      "title_en": "서학개미, 황 스캔들 후 엔비디아 대거 매입… 주식 평가액 큰 폭 하락에 6조원 이상 손실",
-      "title_ko": "서학개미, 황 스캔들 후 엔비디아 대거 매입… 주식 평가액 큰 폭 하락에 6조원 이상 손실",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/23/G44TEZJZMU3GGYZQMFRDMM3CHE/",
-      "ts": 1795363298
-    },
-    {
-      "source": "매일경제",
-      "title_en": "\"'엔비디아 사태', 휴전 두달 남은 美中 무역전쟁 재점화할수도\"",
-      "title_ko": "\"'엔비디아 사태', 휴전 두달 남은 美中 무역전쟁 재점화할수도\"",
-      "url": "https://stock.mk.co.kr/news/view/1203808",
-      "ts": 1795363305
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Rahm Emanuel Says Trump Is Playing Into China’s Hands",
-      "title_ko": "람 에마누엘 \"트럼프가 중국 손에 놀아나고 있다\"",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-22/rahm-emanuel-says-trump-is-playing-into-china-s-hands-video",
-      "ts": 1795363307
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Bluerock Acquisition vs. Peers Comparison",
-      "title_ko": "Bluerock 인수와 동종업체 비교",
-      "url": "https://www.benzinga.com/quote/BRRK/compare-peers",
-      "ts": 1795363311
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "“엔비디아 사태로 美中 무역전쟁 재점화 우려”… 반도체·희토류 갈등 격화",
-      "title_ko": "“엔비디아 사태로 美中 무역전쟁 재점화 우려”… 반도체·희토류 갈등 격화",
-      "url": "https://biz.chosun.com/international/international_general/2026/11/23/KZGZ7U3WTFFWNKRFYI4X4HOW4A/",
-      "ts": 1795363313
-    },
     {
       "source": "한국경제",
       "title_en": "환율·채권…원·달러 환율, 연말 1380원대 전망",
@@ -11504,6 +11469,41 @@
       "title_ko": "오늘이엔엠, 임시주총 소집해 인공위성·드론 등 우주항공 사업목적 추가 추진",
       "url": "https://www.digitaltoday.co.kr/disclosure/articleView.html?idxno=717436",
       "ts": 1795415418
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Nasdaq Tumbles Over 5% As Tech Stocks Plunge; Investor Sentiment Weakens Further, Fear & Greed Index In",
+      "title_ko": "나스닥 5% 넘게 급락, 기술주 투매 속 투자심리 위축… 공포·탐욕 지수 '공포' 진입",
+      "url": "https://www.benzinga.com/markets/market-summary/26/11/63518799/nasdaq-tumbles-over-5-as-tech-stocks-plunge-investor-sentiment-weakens-further-fear-greed-index-in-extreme-fear-zone",
+      "ts": 1795415444
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Japan islander close to Taiwan fears possible conflict as diplomatic ties with China worsen - KYODO",
+      "title_ko": "대만 인근 일본 섬 주민들, 중일 관계 악화에 따른 무력 충돌 우려 고조",
+      "url": "https://t.me/firstsquaw/195139",
+      "ts": 1795415508
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "俄官员：下一轮俄美乌三方谈判日期尚未确定",
+      "title_ko": "러시아 관계자: 러시아, 미국, 우크라이나 간의 다음 3자 협상 날짜는 아직 결정되지 않았습니다",
+      "url": "https://wallstreetcn.com/livenews/3203975",
+      "ts": 1795415572
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "韩国KOSPI指数收跌3.32%，三星电子跌超3%，SK海力士跌超2.5%。",
+      "title_ko": "한국 코스피 지수는 3.32% 하락 마감했고, 삼성전자는 3% 이상, SK하이닉스는 2.5% 이상 하락했다",
+      "url": "https://wallstreetcn.com/livenews/3203976",
+      "ts": 1795415579
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Vår Energi targets production above 500,000 boe per day into the mid-2030s following the deal, which is expected to create $700 million-$1 billion in post-tax synergies on a net present value basis; downside protection covers roughly 80% of additional gas volumes at about $110 per boe.",
+      "title_ko": "Vår Energi는 이번 거래를 통해 2030년대 중반까지 하루 500,000boe 이상의 생산을 목표로 하고 있으며, 순현재가치 기준으로 세후 시너지 효과가 7억-10억 달러에 달할 것으로 예상됩니다. 하향 보호는 보우당 약 $110로 추가 가스량의 약 80%를 커버합니다",
+      "url": "https://t.me/firstsquaw/195140",
+      "ts": 1795415582
     }
   ]
 }
