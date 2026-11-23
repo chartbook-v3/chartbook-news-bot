@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795434705,
+  "updated_at": 1795434864,
   "id_hashes": [
-    "3971b6bba69edae8c049d095924b337df355313e21333f780b45fd0d19c790a8",
-    "cfc737b552546e091dd83e453b5ca58426ba9f7a381e8ffb080e50366e934211",
-    "7fb2e7b46c008d27b1b3f3042657c954018238be28a552f30c83c5ae31fc76bc",
-    "de80a700454686306e20d34f7df59ecef9e5d539dacc10aed0c7cec3f049b569",
     "2a18667f3a776bed4e4deff66c06f7ff2787092319b0fb6f1118e014f125a178",
     "3fa99ae5976679427708cabb2c84257094a861b2926c466738ff5169cd035b29",
     "39a458f9ea53e0e060c3e9e1dd565658faa5bac679c7d51a5d6e4e5079f85c9e",
@@ -4000,13 +3996,13 @@
     "9326339b861e62524cfc5d230a954cdda04af7559ae31741a0fcb0595ec7619c",
     "904df8c5b0915d7c945b3d17ebdce99459977d45baabbd52773b86d25dc56fb1",
     "996410e5ff4e7b6ac5c95b80cf05d6c50b1aed227a9fa506769f7b3d33320864",
-    "690a1fca26e7d064e3aa1e67c30dd2cfea8debb3fe9dd0b58e318ad637b8cb61"
+    "690a1fca26e7d064e3aa1e67c30dd2cfea8debb3fe9dd0b58e318ad637b8cb61",
+    "85b088918ed59e61f7c07dbec312b8820340f35ca991ad189ebf5a46c8b035e4",
+    "92ba05e80ea2e2369af1a0a1b0703cfe59ffaf47e9118a0a6702f51716daf600",
+    "3892c4885c7fc297fb67f62e68a23c1e91c5b01f8a78a8f9e9d240927b3c2ff4",
+    "80b20fcf2fc40b6819415f2af2e760ffa9da27fd8df9617b2a8c3ff18a4b2900"
   ],
   "title_hashes": [
-    "a858887ece89c2c794dabe8558d7393714f7dcb385c9771373a5eb4c8aa34e1b",
-    "073a485b6a50e37632ec88440ead14070871195fa64e107ce07b7218247378b6",
-    "66dcf34d3977d180c88c6047965f55c38676eb0a9902f04d0cca2aa5329f1ef8",
-    "7577cdc7043221ac8f90cfad45b2d4e9f06684040fbf1144c31bc98283fa04d9",
     "9186d2fb65fdd0c60df6dcd8fe4f74fa46ba3a98ef0e6e2c63745c89cfa65360",
     "a5a143c6ade63bd85a6c3ed5b8c77b7ac33ab7f2132999a55950bc4bfd11939e",
     "6ea70f9ad2118eeb5ef7931343d1fa4b29a91b607d120aac67df86cad2e4353d",
@@ -8002,23 +7998,13 @@
     "bab98ec013aaafba32be9ec0ae6b2c660c92cd5bdbb51527c4debef38a63b22f",
     "0a9dc47bcd41d53b2c8de46e12963415258303b7b0dc97a1078befe35451d0d2",
     "b5dd2294ffb71467440c079c7040485914231c79086201a4e182026b95c644f0",
-    "27677941572f63ec6c757748e4cc5e63b03031d099fa4e0934cfb3acc8a67e8a"
+    "27677941572f63ec6c757748e4cc5e63b03031d099fa4e0934cfb3acc8a67e8a",
+    "f57ff7c641d4f2cefee56a046c35b8a19b45c122daa65c946bb75460f4475116",
+    "1ceed1df2e8746c997ec020c711568beeac5c18dadc7a9478d4a793636860543",
+    "470a705ce83070cb485f0f2a53a23b72261bbba451316eb8dd4065cafe0ec84d",
+    "dfd55a6f43f72ab5832616ac180f56479a9710f590feec6906bf4855987855bd"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报89850元/吨，较上日16:30价格下跌1750元/吨。",
-      "title_ko": "상하이강롄: 오늘 배터리급 탄산리튬 중간가 89,850위안/톤, 전일 대비 1,750위안 하락",
-      "url": "https://wallstreetcn.com/livenews/3203882",
-      "ts": 1795401245
-    },
-    {
-      "source": "인포스탁데일리",
-      "title_en": "[테마시황]필라델피아 반도체 10.73% 폭락…국내 반도체·전력설비·데이터센터 테마 하락",
-      "title_ko": "[테마시황]필라델피아 반도체 10.73% 폭락…국내 반도체·전력설비·데이터센터 테마 하락",
-      "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=219060",
-      "ts": 1795401304
-    },
     {
       "source": "연합뉴스",
       "title_en": "우상호 지사 \"강원도를 AI 데이터센터 특구처럼 만들겠다\"",
@@ -11504,6 +11490,20 @@
       "title_ko": "젤렌스키 “우크라·유럽·美·러 4자 회담 조속히…나토 가입이 해답”",
       "url": "https://www.news1.kr/world/europe/6363438",
       "ts": 1795434704
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Top Wall Street Forecasters Revamp Agilent Expectations Ahead Of Q4 Earnings",
+      "title_ko": "월가 주요 분석가들, 4분기 실적 발표 앞두고 애질런트 목표가 줄상향 조정",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/63521767/top-wall-street-forecasters-revamp-agilent-expectations-ahead-of-q4-earnings-2",
+      "ts": 1795434855
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Petrobras' 2027-2031 investment plan to exceed $120 billion, sources say",
+      "title_ko": "페트로브라스, 2027-2031년 투자 규모 1,200억 달러 상회 전망",
+      "url": "https://www.reuters.com/business/energy/petrobras-2027-2031-investment-plan-exceed-120-billion-sources-say-2026-11-23/",
+      "ts": 1795434863
     }
   ]
 }
