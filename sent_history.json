@@ -1,17 +1,6 @@
 {
-  "updated_at": 1795441993,
+  "updated_at": 1795442150,
   "id_hashes": [
-    "23f063fa8b66f0ae5d87f770d57efe86b3fad0a70e4c35ac2dd4adf18e78725d",
-    "9299d9c1d221c8abdfcb4d7bb8128fdc26eb351731407c8330bc10bee08b796d",
-    "9d3e96bc344c88f82b60b5ce639b3f9d91ed2eadf71a8c8e62f8ab2aefd3389d",
-    "6f7b93703755b7685de46f9392a9fb4c0bf85f92510cfdbe782c89812dcda0ca",
-    "10f28050d246b921e1ac0abc95eeca7a4223d99236029334c1010fe1de467f47",
-    "2453a2e3e9d76e84923be81c305774ad0211136460f7560154aec7e20cb47843",
-    "bc402d2748e2dbafc709f9b3c6975f482ed0587840c19ece5c0e563985a53055",
-    "398e88a511fea1577be069f1316c4e5ddd042ed35e5d301cddf9a8a30549cf89",
-    "d3466d34c5cc7cd66198c8d8b53b97cf5607ce7c99a1419d930710f3da52118f",
-    "f9b7ea346a82264caab1db7be52b0392673d41e826f00c15be306d9ea2d6cbd0",
-    "309d0bccdeed53574b85f39fcd5d1744dd8929ddf8be99b50f20900cb90d813f",
     "e15686d6a656d47b7e49195f75e6cce20d259800a9672b6602484d8fbf1f9012",
     "f2f593ac03c2a94c7d6d91dacedd658425baaae3837f981171590a4f92b4c764",
     "719d3940740320cc6a3e9cd6b092e460d3f43a0f56f2049f99fc598b56be5446",
@@ -4000,20 +3989,20 @@
     "d4f1a26251441417a7fd61d2faeb1b7388de5b18cefb75d50d0c98ffdf2257ef",
     "ae8a36c10262f1238c3fa6c2c429e7667e0d1c70b8f6cf0422865a5f830930a3",
     "e401f41584f8520259044d98d14feb6205e4ec1bd384083793bb704753e062ec",
-    "d0acb47b7a47c1a8f54edf6cc1afcb89963e88be03dcd5bbf8148c8d18ab53d2"
+    "d0acb47b7a47c1a8f54edf6cc1afcb89963e88be03dcd5bbf8148c8d18ab53d2",
+    "23badb47997d0eced957c588ea8ca71f4a74940cc7c69fca8e28e5b0459eddfd",
+    "39c71a536cb5a8d0a4f00b3a03b2d4a1302f89d1efb415fa791038a7bc0a9c87",
+    "369fda484b4193939e9a1ba6ce3d084d8cfa9f3f60d2d2cacb549096e8a90ebe",
+    "b0c6a34e1f8da948c467176efcd3063e2e90d8b6f053dc8e822e3bbb18ca89bb",
+    "b2ee021a41991dd60e63a557b4982989e6d7ca40391a885fd37fb1b09479277b",
+    "8e8d1043dd9dd857c727561eaf0871db9169be484d0bb98d5ac57a3bed4f0eb7",
+    "c6bf415941547af3b3b95e94f376a1065cb24dcddd16ed28ad441edfbfc095f0",
+    "6ca17a4498319ca659ec18cf8681f93e59f0e6ef18ce3328105337eaf122611d",
+    "92af47067767254e3cd8eaf95620d553418f2dd470312f1a545c3741416aa6fd",
+    "5e045decfce07113df92c2e5070d4f5f2c4506763fa4e46c3e6f25eba2d3b3d5",
+    "23e48ad4245bcaaa50b5148579d96a0f6a077c0cda26dc1c94595c0ac3c561c0"
   ],
   "title_hashes": [
-    "40f53f902ac2f84c423bcd7d4593638fbb6f0309664898985219cc2bafa8c481",
-    "20e815bad6eca7becaa95ec3ac706d1ac814a0063f9acf26ace828d0c5dea787",
-    "b99462d5ba0acaac4a47169edc4f96120cf0d286616a620bc8b77978fab08d40",
-    "1ce0622091b4116946e4842fb822c5f4aa0a9fe0aa4c31efc763483cd91adb44",
-    "f9b9f52278f8703e5a165f589ed817c7854f5213e13a61e4588d55eb2c13d7dd",
-    "20a1b486a93415c0aed79bde1f5cd4927d47ca027811cbceab3d9f63fd096df8",
-    "696a845a87682a657269a594e38b5cf99d44db5c2b5103fa3bdba0d215a48185",
-    "ed97d4ab1b02f8be74172ed24001c6007d26258bfa0a1c54e058fd0685ebb48e",
-    "76d5b3e567336b58d616789bd4d58963b9ad2a442395982ca293e6ab70835148",
-    "4d3515b536bcf98664cd476def9a6de1c0a2cc151ebaf73219360b6c31954f10",
-    "9ed1eeed52af5bb112c15844ae6c3c27ba6fefb77e02c007d2d057c09c389e2f",
     "74cabc3e68262745835de216ba93d2c1bf538d9fddb5bb7341475c79c884dd21",
     "d9fbb3b2ff41c390c5636ecea23917ae426b3cb9412108849b69db5dd4245e4c",
     "8122549d5b284d324d0c031b92998a08ee9fdf9ae7f7e9b55222487b999c435b",
@@ -8002,30 +7991,20 @@
     "4fc84e4446b265c1dfcd6f003ab13177838fdf16ed9df2efe923d621398624e8",
     "4e3307d0c530ac1c1b3dc168e21f086b3eda9e5a590faf4392a928421ec47da2",
     "9d1cba7ebc5ad3b870bf0ec06f3079703481aaa921b5a51543270cf537cbbcbd",
-    "8707e39d2987ba8c466fe5f9bec7c3649efad94e4366526cd98171ac01a3ace9"
+    "8707e39d2987ba8c466fe5f9bec7c3649efad94e4366526cd98171ac01a3ace9",
+    "19b62235d6fe1be4f3f04d9d4a01e77a671328466fa5f96e1ef2d33e456cf1d1",
+    "986fea75f21b85fd994cccbea94cdd99538f29612e7955819621b147f5d6ba67",
+    "0bb94ec9982156fdb306e7b07c0415819805a9bbee4571431f27ccc8cb9e396d",
+    "569241dae48196be570ad64032072fae4d17a8e4ac4ad442ded76cf9458d260f",
+    "cf95606944342e35b3789e70e9fa5cdf9a178ca330b8160446d83f2613833d20",
+    "e66756d5273e755bbfabc4033adac5e701b842645ffd1583480d99adb05ffc20",
+    "645ca265421fa4f4b224d230c347e1eb3969285a6265da82c9b83c31fb732005",
+    "fdd8ae80b52cabcc3558bd5227ef7321334966f9c6ea222b3993602579f37145",
+    "6dfe0dd5ac6e43db03f444429c54f0d73f0a1a25955ead608ac85509effb7cce",
+    "1bca2fec15e41173debdec2d2708853eefde4ed6d883d8a9129b0cb34d7c6cf6",
+    "69237a41e0b822e06272a721cc482f34a8a057fe666876b0158a0b8b53d9b5ab"
   ],
   "recent_sent_articles": [
-    {
-      "source": "일간투데이",
-      "title_en": "황정아 의원, 우주항공기본법안 등 2건 대표발의",
-      "title_ko": "황정아 의원, 우주항공기본법안 등 2건 대표발의",
-      "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=805638",
-      "ts": 1795410578
-    },
-    {
-      "source": "CNBC",
-      "title_en": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
-      "title_ko": "미 당국, 엔비디아 칩 사건 관련 메가스피드·앨리스 황 조사 착수…새 인물 등장",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
-      "ts": 1795410580
-    },
-    {
-      "source": "FT",
-      "title_en": "NOVARTIS REJECTS AI INDUSTRY HOPES TO CURE CANCER IN 5 TO 10 YEARS",
-      "title_ko": "노바티스 \"AI 암 완치, 5-10년 내 불가능\" 일축",
-      "url": "https://t.me/firstsquaw/195119",
-      "ts": 1795410705
-    },
     {
       "source": "조선비즈",
       "title_en": "오픈AI 수석과학자 “AI 개발 상한선 둬야”… 이르면 내년 통제상실 경고",
@@ -11504,6 +11483,27 @@
       "title_ko": "이번 달 #독일의 비즈니스 신뢰도는 개선될 것으로 예상되며 이에 따라 최근 투자자 및 구매 관리자 설문 조사의 주도를 따를 것입니다. $EUR 유럽 편집자는 여기에서 화요일 IFO 설문조사 결과를 미리 봅니다",
       "url": "https://t.me/marketfeed/1083822",
       "ts": 1795441873
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Dow Jones, Nasdaq, S&P 500 preview: Consumer spending in focus after AI rout",
+      "title_ko": "다우존스, 나스닥, S&P 500 미리보기: AI 대패 이후 소비자 지출에 집중",
+      "url": "https://www.streetinsider.com/General+News/Dow+Jones%2C+Nasdaq%2C+S%26amp%3BP+500+preview%3A+Consumer+spending+in+focus+after+AI+rout/27385107.html",
+      "ts": 1795442024
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "WTI原油日内跌幅达3.0%，报80.9美元/桶；布伦特原油日内跌幅达3.0%，报89.75美元/桶。",
+      "title_ko": "WTI 원유는 이날 3.0% 하락한 배럴당 80.9달러를 기록했다. 이날 브렌트유는 배럴당 89.75달러로 3.0% 하락했다",
+      "url": "https://wallstreetcn.com/livenews/3204328",
+      "ts": 1795442027
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Vystar Brings FDA-Cleared RXAIR 400 Direct to Consumers with Limited-Time 60% Black Friday Special",
+      "title_ko": "Vystar, 한정 기간 60% 블랙 프라이데이 스페셜로 FDA 승인 RXAIR 400을 소비자에게 직접 제공",
+      "url": "https://www.streetinsider.com/Globe+Newswire/Vystar+Brings+FDA-Cleared+RXAIR+400+Direct+to+Consumers+with+Limited-Time+60%25+Black+Friday+Special/27385113.html",
+      "ts": 1795442149
     }
   ]
 }
