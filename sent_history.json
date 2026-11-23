@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795406857,
+  "updated_at": 1795407005,
   "id_hashes": [
-    "f311af54ea176fd68d407deb7214192e890fd013fa81f0c2d0782b404bf9a4a4",
-    "4549e3e3f7967589e8338589b774dfb22e6dc6e0b08da1fe9c7546581c5a456b",
-    "dd28856b29d6fb9414af256e3fb422c8222feb3efafd569cb86902a7fbe9fce0",
-    "df78f3e5e70265ba9c5d278725c792cab6cf15a570aa96020c786ed74150d1c0",
-    "f65de9ac5d65c98e47db5f5cceb17c3b2e3e85d0b2d8476cb7cf2d9b3a200057",
-    "635a0c045953c7bfd6a6e5a303599e59d90de2707714f0468bb25e23571e78f3",
     "c57ff59c4954ff36788e6a73dab41a478b53bea269d84133e59a0dbba635b5d5",
     "068660b0f84d4c0c8133cdd51d6204e935fb5be4295f940308910470e272c610",
     "a559a6de31a4c5c9c97937adc840077ccf0b7d38f2d115194dae9e0479aa182a",
@@ -4000,13 +3994,15 @@
     "411e58605316c4f5e2a0e27b88dcf034f3c7ba1090a74cefb27b2509b70acc3d",
     "53f7597dca367b0a46c9dcba38eb0e0d534f6a1967a383c466829b41dbdcaffc",
     "faa35353a6d02fe60c2211cd4fe32a03f58088fd4c4c49821d416036b8415693",
-    "836cda14f2ea6c29a831245bcc5cd5c053fa1d1b89efbd9e134751242bed1101"
+    "836cda14f2ea6c29a831245bcc5cd5c053fa1d1b89efbd9e134751242bed1101",
+    "ecea9fc30e76f8c9041ed4af70811cd49694c963e00ea5f5b828e755f3cbd23b",
+    "3d26cd414ceb189f5d89be5072acc4dd3862124b652d29af3c7df452e9dda44b",
+    "5f8f7afb47815786da5552210d43b7b83a2c53f0103f276f15e2b5fb8e599dba",
+    "ba9d89b8bfb490ad28115a9a9019f7df77d1fc78089610c817fc1484c1c84f96",
+    "9e2c50d08736f31a8fd83f38bdfeb7bdb376e714a0af98b0ff615e60a342d45a",
+    "da190922aad818c3d1124c73dadaf877b338082a9bbb2ffa657082c4cf34388c"
   ],
   "title_hashes": [
-    "ad6180c7f0695ae05ea49073fa1a2d16a3a72792617d9f2903a8bf8547c6433f",
-    "554aabc167dac953c274566e1fc9a6c021981b412cc4af86fbcdb83619869939",
-    "414e7b9c33fa47b3aadf86c9087f5bb19f55fe9499f750188614d11553f058f4",
-    "62a6d9b16b260a71246692f1efc30c8e05733b12d45ba37d7c74854eb4dbfdb7",
     "8be50d103edb6b218ea4672288d147ff762c6f7ff2a6215547817139b4d6c7f0",
     "5ccd2549bb7996edbf6f0f5c3658d48b74939c02298aa28d2dd0bc3d6ed43d75",
     "b99367c6a1c4b871bdcb9c048426d8c2257ded2c1d00dece475ef0cca1ef8ae5",
@@ -8002,37 +7998,13 @@
     "aabe89f4360e40316e42b8ef72ddff3fde47125ac6a1de04f1d66187fa0a9a4c",
     "61a0573dcf49731981870c0bdf0cbb955f8aa657cef3b024c8869bfd3f1ca0e9",
     "9bab72a159c62f96c2bf4e08640c5fe2499963dbe3b517f4a9f329068eb29906",
-    "62fe6f44b211eaa9765403e607e309b6b4b8c55dcac9e029669b961de749e4ed"
+    "62fe6f44b211eaa9765403e607e309b6b4b8c55dcac9e029669b961de749e4ed",
+    "3828ca143fdcf16f9098932074fc213d8a45fcabb13f6a2bb67781c3fa9d5ba4",
+    "74ade3dd1477b36acbf3c00b5a89f8940a6823e0d5f8e2b18f855c922ea7a886",
+    "1be7884d276969b7e76c58b2765ebf25c17479b2f0f26f81c8ca6e268c41caf7",
+    "518ac47bfd18da75cf574c04bbc69d5d728f3fc4f96c279a238079276d196cee"
   ],
   "recent_sent_articles": [
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "주주환원 늘린 기업 집중투자… 배당금으로 월 분배금 지급[이런 펀드 어때요?]",
-      "title_ko": "주주환원 늘린 기업 집중투자… 배당금으로 월 분배금 지급[이런 펀드 어때요?]",
-      "url": "https://www.fnnews.com/news/202611221812437145",
-      "ts": 1795342125
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "하락장에도 반도체 집중 매수... SK하닉 한주새 623억 사들여[1% 고수의 선택]",
-      "title_ko": "하락장에도 반도체 집중 매수... SK하닉 한주새 623억 사들여[1% 고수의 선택]",
-      "url": "https://www.fnnews.com/news/202611221812483896",
-      "ts": 1795342127
-    },
-    {
-      "source": "이데일리",
-      "title_en": "[속보] 정부 \"증안펀드 가동 준비 착수…자사주 매수한도 3개월 완화\"",
-      "title_ko": "[속보] 정부 \"증안펀드 가동 준비 착수…자사주 매수한도 3개월 완화\"",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=01843366645648344&mediaCodeNo=257",
-      "ts": 1795342132
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "수주잔고 꽉 채운 대우건설, 영업이익 1년새 3배 쑥",
-      "title_ko": "수주잔고 꽉 채운 대우건설, 영업이익 1년새 3배 쑥",
-      "url": "https://www.fnnews.com/news/202611221819376292",
-      "ts": 1795342134
-    },
     {
       "source": "파이낸셜뉴스",
       "title_en": "\"검은 월요일\" \"저점서 반등\" 코스피에 쏠린 눈",
@@ -11504,6 +11476,34 @@
       "title_ko": "인젠텍(Ingentec), FAU 및 GCB 이니셔티브 가속화로 2027년 말까지 TGV 라인 12개 구축 목표",
       "url": "https://www.digitimes.com/news/a20261123PD220.html",
       "ts": 1795406767
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "아이엘 \"애지봇 이어 자이노바, 로봇 토털솔루션 확보\"",
+      "title_ko": "아이엘 \"애지봇 이어 자이노바, 로봇 토털솔루션 확보\"",
+      "url": "https://www.fnnews.com/news/202611231303240189",
+      "ts": 1795406874
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Australia Recession Risk Is ‘High and Rising,’ AMP’s Oliver Says",
+      "title_ko": "AMP 올리버 \"호주 경기침체 위험, 높고 커지는 중\"",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/australia-recession-risk-is-high-and-rising-amp-s-oliver-says",
+      "ts": 1795406939
+    },
+    {
+      "source": "FT",
+      "title_en": "Asian technology stocks extend their decline as selling pressure mounts",
+      "title_ko": "매도세 압력 심화에 아시아 기술주 하락세 지속",
+      "url": "https://t.me/firstsquaw/195105",
+      "ts": 1795406947
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "GS건설, 데이터센터 구축 기간 단축 추진…전력·시공·운영 역량 결집",
+      "title_ko": "GS건설, 데이터센터 구축 기간 단축 추진…전력·시공·운영 역량 결집",
+      "url": "https://www.news1.kr/realestate/general/6362566",
+      "ts": 1795407004
     }
   ]
 }
