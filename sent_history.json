@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795436004,
+  "updated_at": 1795436161,
   "id_hashes": [
-    "b36a3438bf064ab722c2fae18bc24f04ffe0c1ee682283d533e32802ff1ebccb",
-    "8c0540900668de4c2ec6a95566f885b6cf74cf89d1b88dc8c6986e4adbedf90e",
-    "b51f7dd7c6a9cf277572f8fca6435b1848a38a732f4acb14e04177f8d155b2cd",
-    "32ef4bc2e079d8ebb2902f9cf280e653c0f93bb5b9cbaaefe1ce5cdcd7d6a3d1",
-    "8ee60335c2f75f78915c9bb12e3cc7452d8f7ff14b59fc538de585288b089630",
-    "0862fc8e6931e2eb5d80524032fe8b4d407b222bd3b661aed2aec186c1570044",
-    "33627487c7a52e0dd61b44521f0b2b939f93c1b43cfb9c7a6d8b2989e33e1f1d",
-    "13ef32dcbf55899293fc210cc1e16e5ab2e5b57a497add7581d818efad9530ba",
-    "6bc35a8363441a408fc409f498eb11420d3956646cdfe15565666e64bd52273e",
-    "7793945e12f1dbc7891d7500bd8686d116aeec97582788942788c9c690d07c82",
-    "1731ab07c0652168810a8fe973bb74454a4defecf668232c30421ddfe0e32095",
-    "6a32c3331b5d748bdb032d2df52f7bb73af4ac7f675278004e0ceebcf53083fa",
-    "ee0b9d3ab296889abf1569352ce4a760dbb427b683a973b4c8aed89585cdd32e",
     "3ce6c450691e457796e2c9de862f12e6581d6c2fd7303b55e3beaae3caf46522",
     "63a1d3cbc0eb21ad6aeb3cb02c0e9f7b7024ed8306c7a803fef44e5077e986d5",
     "6d1e15e5d480d26353e2f3cfcbce4b02b2b93c5dcd1ec0cc8051b55e93904941",
@@ -4000,22 +3987,22 @@
     "c558755a2fd2cd943697d26607572b57ba631d9758781b4b59b4297ad9942d6d",
     "8b233c7739361f536597e1d92b549381e51d7ccc0bba0c43b4971411014ef9b2",
     "027fdea73af35166bb8eea79125d775c5f299679d451d90b5ae2665b3ada1675",
-    "8c3ef3371867066bb6d64cd8a4b8935a2acef8869ffadab3e7387b255e28da8b"
+    "8c3ef3371867066bb6d64cd8a4b8935a2acef8869ffadab3e7387b255e28da8b",
+    "fa2822025acac3a5debb93e21c62431971549d6d197a58f59dc2c6afb416d5f8",
+    "7709e7c8b261d967fe992937dfb1e64f225f80529b55365764a3fdd311332c8f",
+    "3ddbc459105fc6ea664e93791ff0533c5f1b37bcda680de713e2b31f5417b2f6",
+    "3559934be5a35e52663de40d5f4034c796b644ddfc53e939aa20195dd3b74def",
+    "960b4b87134a9c2fd5d58bbe866dbcd0fb24f002d366b57d375febda45fe3b71",
+    "a3017a7fa5c37582c14cf4410735b6625afc1ba9f6edb277a6afc89aeeff9d40",
+    "bc9c8d81114daba0cc7227b221b045862c7f8efdb1adcb1750b012225b3db7e2",
+    "585059d3761721c794c109af9df79a6b2ab3d2cd56642c453e4c89588e0cf4a0",
+    "49066ef0c235c87dcb30a442155bdb0be7b06ec877d7a910a8d29b89358f14d8",
+    "f01779f230178c416b16454ea74def7190c0f9bcf67bebab389d82cb19611802",
+    "e4e14f8bf6cd8392f181457743339e5ed9880f2c629b01bda150b4acda519183",
+    "f17ead032973b2f1ef7c1c5e9625e641fa576c2e58a7c275be5d1d1c843190a9",
+    "2f32e13923e9a54c3c14154c5e86d66259bb50dc750cc5f495cbae01b5610406"
   ],
   "title_hashes": [
-    "c7f67241901bc880ff413ed06e775785e22e58b69ed57efe0b74821b0214a376",
-    "02e99a2f8c243393e30eca16ac9181741b802e7bf67a6a185a331c7973583f2f",
-    "2e1242cf20df385a6fe70a4f4583b48f8405e9b36e3de4b2bb9f598cd8a549fb",
-    "6b874a669b056c64e53e76a3ba10c92508db1031c2842be394f221011e7b58ef",
-    "b1ecb578f32fa2e80755d226576f4df574ab8b8f369c6621bc0efa44cff3c3ba",
-    "23b6eda80ce2cf49df3199472390e37ef774f6b5f13647edd91724a976b378f3",
-    "317c6bbab8b75fb00ea6599f4c298487938fc1c5f0aa0765b43d5e8c49a35235",
-    "1418501bc5dd6648ea72031b4daec7283b15a1a6b267291e8a86257d4ab0928a",
-    "ca89acac3f7f8a7abd390b46090360e31f72d9bdc590810b634f4de4308ebaf8",
-    "7ec9d8169fe365b0ad5f00af5b9985b5bab01c2e1cd1c51f140e64d07f918f73",
-    "8038b9571b1c30469f1edc3ea1fa52f4a837d13e16c050e13690b76091aeaee4",
-    "a83c86ff03d4e90748c023176d003ec928d07480a01a66664f37de6d169f8859",
-    "ff317a57500d02c990cdbc3a65b96d91273301b68e3e82173cafa48d93f6b8c2",
     "e58ae712300fff953239343a485be21936236e1b59e4e7e1866fb3db35c8d87d",
     "8efa45305a7d1de753b0c2d1a6ed0c4ea88c31184204a936bbfe73e7c5905367",
     "4e3d068eef789ceb44786668a7f56255983e6cf7da9c346947e7f216ff09628e",
@@ -8002,23 +7989,22 @@
     "5b58ef1fd612e59ec60b1853b89a6d1b8f5d976e8733ea5f82d205353dd8271c",
     "3c730872404a339872a8b56fce8dc62037134dd76a6c32c146a559aad6ac1d7d",
     "e24af65ee0f3c96aabc61115d99ec27650a87a0bcfeedd55cb182d71acb905c6",
-    "be3f34daeee91fcd936f7a2896dc3e078ab2ba8f2219a4ccf7fec7cf9d0df8ad"
+    "be3f34daeee91fcd936f7a2896dc3e078ab2ba8f2219a4ccf7fec7cf9d0df8ad",
+    "c999060dd285e2defd96b26e5b64360c800fdb7201d6731960aeb0c397917d0a",
+    "73f479a75749e61984cb9b70ef60b06514b922f6fb88bd601aab02cbeba41ac4",
+    "c3d9ce58190104709c253f4587ca14114ca5456ec6ec1707cb6f065048013d97",
+    "44c2937576766f972504486e878c4503df16e07d5f549c13eb580b559b9827b1",
+    "2f3011c8c3e77d3b4fe0362983cd3a29565da4470f5887cdcf8a2bda2434bd65",
+    "dc6c771082822630639374ec3dd236f2cae810d3af0e8c7d4b1845977e43a127",
+    "b7284e7f7734c4a5ebc7db01e9517bcb7277def81c1ce84cb532b76e7ffe902b",
+    "8cc3dc1ea65e8c81aa1db4de1924969bedddcc8c50614328fed9bc93b7b0422e",
+    "a68397875d4c7ad8724972e73362b71870c1fdf40d491d972b45a369e21a5234",
+    "ffbe50b0faeed37ef58c51e3fd05926d4c43eb080e3245015b3422747ab8dce3",
+    "82eb9184d49063f2bb85c534bd91c2da504c3c538dc1f1bb74e2b0c99aad94e8",
+    "d4e8c01fca9a95944d5324718694d7c3412ea81c4405d8d54cf9330ac1111d6d",
+    "f2430e5677835dd263c4595e7f3a260bcbdb12f3c142cac94cd9cd06d8c4f80a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Kevin O’Leary Says Nvidia CEO Colette Kress Is ‘Pretty Sharp,’ Chip Demand ‘Insatiable’: Crypto Bettors W",
-      "title_ko": "케빈 오리어리 \"엔비디아 CFO 콜레트 크레스 매우 유능, 칩 수요는 여전히 '충족 불가' 수준\"",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63518223/kevin-oleary-jensen-huang-nvidia-ceo-polymarket-prediction-market",
-      "ts": 1795402718
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "HD한국조선해양, LPG운반선 2척 3084억원에 수주…年 목표 95% 달성",
-      "title_ko": "HD한국조선해양, LPG운반선 2척 3084억원에 수주…年 목표 95% 달성",
-      "url": "https://www.news1.kr/industry/general-industry/6362766",
-      "ts": 1795402745
-    },
     {
       "source": "MarketFeed",
       "title_en": "JUST IN: 🇺🇸 PRESIDENT TRUMP CALLS ON NVIDIA $NVDA TO REHIRE JENSEN HUANG AS CEO.",
@@ -11504,6 +11490,20 @@
       "title_ko": "\"러, 이르면 12월 핵탄두 탑재 위성 발사 가능성\"…서방 정보당국 경고",
       "url": "https://www.news1.kr/world/europe/6363450",
       "ts": 1795436003
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Cathie Wood's Ark invest weekly update: trims Nvidia by $107M, boosts SpaceX stake by $74M",
+      "title_ko": "아크인베스트 주간 포트폴리오: 엔비디아 1억 700만 달러 매도, 스페이스X 지분 7,400만 달러 확대",
+      "url": "https://seekingalpha.com/news/4675426-cathie-woods-ark-invest-weekly-update-trims-nvidia-by-107m-boosts-spacex-stake-by-74m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795436152
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Allies warn Russia may launch a nuclear space weapon next month",
+      "title_ko": "동맹국, 러시아가 다음 달 핵우주무기 발사할 수도 있다고 경고",
+      "url": "https://www.financialjuice.com/News/9864286/Allies-warn-Russia-may-launch-a-nuclear-space-weapon-next-month.aspx?xy=rss",
+      "ts": 1795436154
     }
   ]
 }
