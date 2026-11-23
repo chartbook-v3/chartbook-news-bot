@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795452734,
+  "updated_at": 1795452923,
   "id_hashes": [
-    "1d761105510549811be76b347c78714de6b07e272434d3373c953bcc5ebb438d",
-    "5d98f237f61e66948723bbe33a783288e44afbecb71125e86f3663cd4f31e255",
-    "72b14590a4f78ea8ed8b941776addd18659a2de8a1ca5f5d015fd8f0a4d92c8a",
-    "04bf2d468936789f623eabb89b44039394b27240c94dbacb8ac4bf3b8c4b8037",
     "7ee3cbb0e52042035860c06b760a63d142444577b95b57a2fd86fbfc82140f49",
     "59f7100dfd897a7bb4cf5c6a67bf2c43b938fd904190815870354ef4859fdc34",
     "35f03f50b1143fc7f5a76a6243e7981d990e77f45779fabcdc425c486ceffe9a",
@@ -4000,11 +3996,13 @@
     "41a2591c6adb95d9994a68806b9c2318318f166096487517ed5b0f719a93e650",
     "b7abc9b72473244248b4e26b07c3bb145665a400a8fe8bffee90502e40407674",
     "acb4563ad81dabb225069a9c81c6500d22351535bc11eb562cebcb71ac6072aa",
-    "d612fa7da4a184319e313a9b9bfbd2c84e2af875377395a4d8fb3db4c91ea0a3"
+    "d612fa7da4a184319e313a9b9bfbd2c84e2af875377395a4d8fb3db4c91ea0a3",
+    "0419db82984da0e74f492e392bc32fb5549440bf3d1baec1cc55724074d1b85c",
+    "400fc079b807a7fe1f268a7dc167af954ec5abdec9ecb5df194f9ad2a9305380",
+    "4b9a3022ad218e7ca365a3cddc07c92a95d83c465287f07fe20b471a50b74ad1",
+    "df9466f559e24b8fa7fcb87ebf8d8984c6751ec9c1aa690956b65ebbe60462d9"
   ],
   "title_hashes": [
-    "95e56acbec81a40f0d3bc3876a4cbf8cd3c2b032bd171bcc20158c27d3856532",
-    "a7ec517f209accfa3df1eab678353f78a7bb565ea4b92cb1dc191a8359d4a59a",
     "2daf1246b7d4c220a4e0e6b8b387402b94f46f653d9d09f2232c05707c84a3a5",
     "5b48dbdac993e0792408da0fbdbc831700ad66ef4cd26feb1a4ed122d06769be",
     "53405dbd451da8ee4f15868073089076cd9e6b47e6af9a7e3f5c56b0bf2e66fd",
@@ -8002,16 +8000,11 @@
     "82fa86373787e600eea5a7bd4e402617d1d4891cae6f6954a3dceb5163165555",
     "1246711b6f7ba46da184f57da3be7b55604e44ee0ad7f75abe5a88951bc403e7",
     "614be9aeaa6f2c946404b93b864adc85c78e0c01c351aeab43b44d2ec2777e2e",
-    "3090cad92224d2d12e61584134f958993d74b367b131449c49dfe46c4366b194"
+    "3090cad92224d2d12e61584134f958993d74b367b131449c49dfe46c4366b194",
+    "021d7d64760833ff8235ccaf5541d3019713571cb9d2a0fdbe74cf0327a7ad4d",
+    "83be684e07ad3d6c095709b102544189dd412d6e198b12d59686ad97c871c218"
   ],
   "recent_sent_articles": [
-    {
-      "source": "CNBC",
-      "title_en": "Treasury yields jump as stock futures rebound, investors await New York Fed President Williams speech",
-      "title_ko": "미 국채 금리 급등 속 주가 선물 반등, 뉴욕 연은 총재 연설 대기",
-      "url": "https://www.cnbc.com/2026/11/23/treasury-yields-bonds-fed.html",
-      "ts": 1795429232
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "兴业银锡：拟以3亿元-5亿元回购股份，回购价格上限36.77元/股，预计回购815.94万股-1359.9万股，占总股本0.46%-0.77%，用于维护公司价值及股东权益，后续依法出售，期限为董事会审议通过之日起3个月内...",
@@ -11504,6 +11497,13 @@
       "title_ko": "국가 안보 문제로 인해 MEGASPEED에 대한 조사가 계속 진행 중입니다",
       "url": "https://t.me/WalterBloomberg/38971",
       "ts": 1795452674
+    },
+    {
+      "source": "NYT",
+      "title_en": "US VP Vance spoke with Huang and worked with Nvidia over the weekend",
+      "title_ko": "US VP Vance spoke with Huang and worked with Nvidia over the weekend",
+      "url": "https://www.financialjuice.com/News/9864763/US-VP-Vance-spoke-with-Huang-and-worked-with-Nvidia-over-the-weekend---NYT.aspx?xy=rss",
+      "ts": 1795452920
     }
   ]
 }
