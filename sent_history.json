@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795436614,
+  "updated_at": 1795436763,
   "id_hashes": [
-    "0bd9bdc945f94e5b77ace091cccd1f589510609aabae9514a97ec8a160d13040",
-    "f6b55a90b1a8a8d524f2f2b8bdddf1fa7e9e0dffdeb7bc3ae3e93f79c740de69",
-    "ff214dd8ded90f3d53db85ac504989a0c84840157ba67231e808c6da10496a45",
-    "216a871e329899ab62f0152e034782fffc0d81dcdfd4923c0c893441f47ee78e",
-    "7dc9376eedce85d81acf7dcad289e40a565a0179b7ba2bb4a44829f547126a1d",
-    "c4f9ee82f85d644914569b5128c18407f15a1ef9fcb47ffc887f8a56462f2f72",
     "58b94523fb35f35f9bf55f84637b6342b2e64a5e5ae56172b868fbd98fa95ace",
     "0b434b311583bc8fe7bfc4e4ee4f6c25083fa229cbac229d3d997d156e8d7243",
     "acacdbc6e7ba440b44c299ad3afcfe5f8e90e381728d0dae5faf85fa80e192c3",
@@ -4000,16 +3994,15 @@
     "33644b8cda67f311511286d23be9d84a9f7a6d172745688b3ee24166b1fece58",
     "ef95e896683b4a6181cbfd560ec0f1f4c08c5a9c90f8ca3647fa868abfc0861b",
     "2458d47b948aa9c8d6d7a3b56248f17bf6647be0473bca5eb1d8a59d7eefb818",
-    "65244f455426fb74309fcb302a0d67472086883e3154d08d0249583a2fa0efdd"
+    "65244f455426fb74309fcb302a0d67472086883e3154d08d0249583a2fa0efdd",
+    "6baa246dd4917fe26a7a5aa008db8fc00f0ba3c15ebac443a321a7ec68f7f44b",
+    "0ae69f2f0d296f8f4e29e8fcc7fa52041bf73fa1e0018ad260ae13ea4443d352",
+    "0db79957e478f8ea6a4c2c732f8b92f42eb3e37c9100bf466f2914464322bb54",
+    "e54f686220d556065e4b6da9d709f18b51d6eddfba09329300e03196cf861d2f",
+    "024399017278e12dbb16aae91f16535ad4bf31cbc91e84875da137d2df0d5c33",
+    "0bfa96beceb2e178e2ed1f6510cef6cccc201bcb8fb512e4d6487a8c77139529"
   ],
   "title_hashes": [
-    "d0d2893055632e882188afe45ebbf1a25c6804c868f8d5dd3b2d45d36e725ae0",
-    "3d293afa92b78071765c3482d75aa53bb20655f37d6adbf45ddd9341618e1db6",
-    "c6ff151d7ee5514e2d102e104b4df352056bafe109c666487edce58141576831",
-    "3674aafa70f9654cab5b523abb77a41b6f181097e29c1a9d4a46e49de7af5662",
-    "6ed0bde7ddf45a96d21359cea2a036f05702f7e04015379ca885fae2797c2a22",
-    "0a3e963a75ca5d3904744cf240db4d6a8f66197dccee208924516b9f8017c592",
-    "c62028dbc7f9ae524b82d81923db5b26795a37ed0e6c773ecf939f46d491b610",
     "7121f0466370722a89966f9c605b31483e27d4d4b9c45ec37a06a8ca02d3d4cd",
     "ee4d2fed262ed9738626eb997697aa9467397272557a00cb558b41e2d153cdfa",
     "db7fdc5b70aeba993fccfbe4af76c2dbf896247316a50229a688721369bd30d8",
@@ -8002,16 +7995,16 @@
     "2783d5fcf1a4b52cb7bcc9cca0e7053fddd4dc7f0022a67cb90001130713800a",
     "d1ede2fbb4daad5191cbe0c845c2c06b3ad51ffe9a6183703c185bd1daa81e0e",
     "48ca0b17494bc0b58775f6040695e329930a46a404b4b92c89792420eb1b51c3",
-    "8c0978700369b0b5d41046cacf6d58d643db1617c0fe5ee79217b52dfa3ac6e0"
+    "8c0978700369b0b5d41046cacf6d58d643db1617c0fe5ee79217b52dfa3ac6e0",
+    "5e23460ed8d4e7bf402e1cd7dccddffe7ca78ff548ccddd067ba35675dcc1d17",
+    "c1d7e012bc8d9d7a149c7f243875fb14a62af4d06b5a9af3e4cdce7409db2a35",
+    "c19568d3781e1f38cf3ab6c0dcd9f0b991b89ae6dc27ef04948ef7bd327b09bc",
+    "cfa90a94ec82a6f27bac5407aa4bb8195f2af3c3a41404e597095a6cb47a5e29",
+    "b542e897c787f8d253aca1823b3aef96bc554a14332dc254ea7b13892e0dde14",
+    "283369b14f41a4fb8f148efd23e3620fe3f6e8eb31adfd6a44c8059f2cea644e",
+    "7297e2b7b4df151b367cd2306204552c77a1e125f636a015cfb2f4a9373f25d8"
   ],
   "recent_sent_articles": [
-    {
-      "source": "비건뉴스",
-      "title_en": "한국항공우주 소해헬기 계약일 정정…주가 장중 10만원 하회",
-      "title_ko": "한국항공우주 소해헬기 계약일 정정…주가 장중 10만원 하회",
-      "url": "https://www.vegannews.co.kr/mobile/article.html?no=409787",
-      "ts": 1795402875
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Zepp Health Non-GAAP EPADS of -$0.74, revenue of $68.3M",
@@ -11504,6 +11497,13 @@
       "title_ko": "프리마켓 주요 등락주: 지스케일러, 트루이스트, 엔비디아, 럭스익스피리언스 등",
       "url": "https://www.cnbc.com/2026/11/23/stocks-moving-the-most-today-live-updates.html",
       "ts": 1795436613
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "🇺🇸US PRE-MARKET MOVERS🇺🇸",
+      "title_ko": "🇺🇸미국 증시 프리마켓 주요 종목 동향",
+      "url": "https://t.me/marketfeed/1083774",
+      "ts": 1795436701
     }
   ]
 }
