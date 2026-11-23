@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795437584,
+  "updated_at": 1795437754,
   "id_hashes": [
-    "7c8fb8a00268fb047c5bc41bd57bbf886f270b81ae5bf28459e971a1c9b7e3e2",
-    "cadfbb9e6da4e1e066682223b45fa970d36b90e146f00bfbf7d3c875632d8126",
-    "c74732b73ff3cc9d89f28c1acdcc332452118a40556804e4a7769815d07b4801",
-    "4b76ed44ab8098119d74b489877f59fd6d48677d07d4363fd53f5054c1272acc",
     "f74a6fff1417ebebf34dc6eeb9c8031577006cb8d5d60cc17ee21fdeb860b9eb",
     "4177b55770f207ecf05ec72d64bc137e3148a35cf8d97fc69f0d9cfc4034e728",
     "8b2337a258a570144e47c68ab5d5e9fa53ce9f4401ce2b78d89d90574f02a973",
@@ -4000,12 +3996,13 @@
     "7c5832b2267d21d5766ffdd8d9ae7cf6f4d73274a2bb0789a92cdbbde313983e",
     "8f54a493f9d3ade9591dfed8020dd9e148e42ac17589de50e7cb8df11b13400e",
     "9edda987568cd9c2b650c01bbc718ed1de84dde931ff404655bf6f8813d474cc",
-    "08c29eef72e0ca06483335ca3eb33a563354d03d6106f1728f73b07a9e525b77"
+    "08c29eef72e0ca06483335ca3eb33a563354d03d6106f1728f73b07a9e525b77",
+    "700c61c9741eaf8fdb927f4f002999d76cdbf33d4c2de48919f64c4f1478ebf5",
+    "a239ed939b77483fd1d33e855af36cee59f888e475b82d72e548d0f1472f9689",
+    "fd2e32b8bf62d0e3d876aa35f7ac60766370b698041aaa68bb047b0845083b41",
+    "9d195a7d8aef07ede1c672f90d7e30a4ebead6552fd535fa007c8c7268da539e"
   ],
   "title_hashes": [
-    "73300df67f1045357e576a570ba5a04796b24309a077b0f6d240231b6848d36b",
-    "011787d311bbeb370c29436b0e2b787a7fe1a80bc511ca240b6021721f94656a",
-    "4fa679a4693fe2c1fe947122e8c7c32351dbdb1b4ab07e7c989f35ad7156ccee",
     "427d9920d0128b8c0f0f8b1dc0bb89f606bf0cc9c21487ecfa71f0542055347d",
     "bed7a1c5c0371b2567515bef109a8f4933db8b560b144668ec92d2d27bc51a08",
     "7a912dcf47dbe7865dbf5aaa3770a85f463e517ed358e7e5c0b0e89321891f0a",
@@ -8002,16 +7999,12 @@
     "610333635799ab0cde9d4f2653f211b3ab89a51d87d6962981c52ca90e91d843",
     "e521d65adb7625764f47dc1cdc37f37f98c0bf3867e653c38fc36bb71550b60f",
     "791a24b9fadd2cb257b8e105b85cd1032093d7774b475c578c447733b79b5588",
-    "ed088a374539ba5eda55a3fbb3077b84044d735515e98a2809a8b3159e19003b"
+    "ed088a374539ba5eda55a3fbb3077b84044d735515e98a2809a8b3159e19003b",
+    "911ff6e65639a5145c3e0a19752d3329972f24dc8a392548f3e386d1a442f314",
+    "ccc6ad7903c44cfd1fe1633b07e841250f99d028e270d2b95ec250ca23f1970d",
+    "fc20830b34b73cc0fe3cda91aa4f858c76f1e5d08a228a6fb529319fbc5abd1e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Sterling advances past 1.3100 following upbeat UK retail sales figures, while hawkish Federal Reserve expectations lose momentum - FX",
-      "title_ko": "영국 소매판매 호조에 파운드화 1.3100 돌파, 연준 매파적 기대감 약화",
-      "url": "https://t.me/firstsquaw/195098",
-      "ts": 1795403587
-    },
     {
       "source": "연합인포맥스",
       "title_en": "트럼프 \"엔비디아, 젠슨 황 재고용하길…미국에도 최선\"(상보)",
@@ -11504,6 +11497,13 @@
       "title_ko": "뉴욕 증시, 다우지수 900포인트 급등 출발 전망",
       "url": "https://www.marketwatch.com/bulletins/redirect/go?g=c41f49fd-0f54-40fc-a731-c14ee917f8f5&mod=mw_rss_bulletins",
       "ts": 1795437583
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "$SPY $QQQ - YARDENI SEES AI SELLOFF AS BUYING OPPORTUNITY, NOT START OF BEAR MARKET",
+      "title_ko": "야데니 \"AI 매도세는 매수 기회, 약세장 시작 아냐\"",
+      "url": "https://t.me/WalterBloomberg/38890",
+      "ts": 1795437751
     }
   ]
 }
