@@ -1,27 +1,6 @@
 {
-  "updated_at": 1795425661,
+  "updated_at": 1795425836,
   "id_hashes": [
-    "161564805a232710013e7651379a6c167af1f65cd42c11a86a2c556648199237",
-    "1a3338f8ac4302900b53d9b9776ffe5b3755a7dbf7a6ed372874e5d478c76123",
-    "fe18d274d342d042c96e569d2b1f7749a5b364a44655f57c25d95eceea44b3ba",
-    "477a50ee1a8b795796da5d798b9be543df4412e0e60e7713ca5f7aedfaa5190e",
-    "f7e096cc1cc00a57576cb28b0088380d0d77a2558e93a2cfed4761b68b99e977",
-    "57ed7b158a453964ababd2f8246bfb424205ca6123194fb093f57c7327dae377",
-    "3e871bf7ea1d620fb70506285fb43319dc21c99903a2810a2e961e76f775779e",
-    "dc59f1bdc6ad7ec8d56336b50a78a9c0e26a302effec4cc8f9571eb72e5c638c",
-    "dd81c742a21bb03030bd863455a5ac78661f3ee74d9ad19c5de7be30a0b33f09",
-    "57ba9248bbc31f73bbad08d63aedd46cf0356261de20f4f9fdef3def752e2315",
-    "c4aa701f6b2f1965d1a06f4bc1a600ac967739454448fd0dfcc7cdfa236ae1f7",
-    "38b9f65ba0bc35f309b95d0dd30f104315e1d195a5249836ce6ab169b41b9de7",
-    "1742fa6f90cafecde9c5cd164e108129cdd05e2bd1ba15182563c86e7ea1463c",
-    "2458d47b948aa9c8d6d7a3b56248f17bf6647be0473bca5eb1d8a59d7eefb818",
-    "719a4034243cf64858ee323c5079101b5208efc641f9f82a4d97eef783a34789",
-    "f0db27ffdf185476a235dc312350bd8372fc6cc11c7ef8752a9a9a517fa28308",
-    "48a4f1a6b2bb66eff711f0c27a4de0e2729f8d3727dedeaf3dcb67c44646bc37",
-    "156862484683697793cd875eae8c5e93c9fe643df0d9f144751ac676e5b92f2f",
-    "459664e3eeba1fc7fb6179ff9530b2748cdce36f831d41469eadc1f9fd45d2ca",
-    "e356ecc69e6d89f225d8185f9a150b7fbc36371de1ea23b0a14f000f601e5dea",
-    "87475617b9c83c75903e36bd0e22d957ce3e2f15f2be1d2901ff0ac7babaffa0",
     "7c9c42da59d02ee944f2cf5559ef10981ea5a849314225743bdcde121d54ef5e",
     "da9d50fb5e65fc02155e46268795d393df7c921280e470c5142ca983bb21dac6",
     "f67006737baa4eb6464024376a0c3988e864c1e25433d73a0e616283ac35379f",
@@ -4000,25 +3979,30 @@
     "b32a4fc3e6ec595ac5917c5267d607f6dadb4288ed3ad8fd266af3b6784f2904",
     "eebd1f4501e9cf8c36c5099c6c767ba6aec2ca81cb6d0bf26084831580f4cadc",
     "451362bcc4161d6c989ad6cc9ae7105e12ca2bbb487d1991320734d50eadb3d6",
-    "be32bfbddeb2064ec37403d7f771aed8e6806cfa7650770e21a5c2560e28b0f0"
+    "be32bfbddeb2064ec37403d7f771aed8e6806cfa7650770e21a5c2560e28b0f0",
+    "5554dd6936778f8dd5ecba35b2ba621ddc253e0968f4811c7161348e00fcbaec",
+    "c32580d335f2318321f5bcdd3eaa3c8381e49e5dc7cf341a85d0e52a5d621c8d",
+    "ff196cd0b8a4a215bae6215f646310d418b61239161502b7a1d5cfcaea17b102",
+    "273f6a9052485cdc7b7d6018f714676ccda20f39c171d5e06033ea9700a6fe41",
+    "ffdc96af6f17b5a75afd8fd0488840c9b115c49046ad309b5a8abb0396fb856d",
+    "bebcfa938127c0ff8d076f7971a85837ffd0c1be36c0553293958f7e923a9eb4",
+    "e1116ef30bffc24e02e49d002298e570db7f464b0c137d2396e0f9ada5e657f5",
+    "d0f838c074e6f93fa7b4dd2aae9312ae8bf3e35c98b49f7aa6d04f93469b5d64",
+    "a7bc67d492c7f42c333de46ef9c1456a33f38b55e75db4f7b8efcdce62e9297f",
+    "d62cde515d79cba0447c182819b13ca496c5041288cfe0502aa64b0e0b0680bd",
+    "7a1a33a39c6bb6516023410da5ac497b4691b20a78b6d1ea71a254b3724c1e7e",
+    "3764cb7aa6f9f61f40976145d24defb7e820af364fe37f5c5bf87f7bf25ef0d2",
+    "ae6781693da42a217615128d237982815588a547da72ae837663f78d79baf756",
+    "a8f7b1d11314a0f795eba245ede14ba2bc29295fcf6f274c8de52cf4d1c76ffe",
+    "da6171d96552e5e5797a0f706d381668e1d7a13e5eb4046b50117e7366e427d9",
+    "9ce2f972216415cf93acaaeaaf3fb80bb160609ba3b4213da397dee575ad0c53",
+    "07359023cc0596b7632e4a413cc11da11a6adf39f81bec32096864a12a99dcf3",
+    "28852426d1a9d311ca42776927b99163c5643b95929208bb591885875ac853ad",
+    "eb4846a5a497f8e83617269d35c43b15666b7c5160ba248949de3000584e48f6",
+    "f931cb2b41dbc6fee289cda597b04fb03b2f2bb32ce46550653818e929d5f379",
+    "f997d1336d80e9eb4bbbe7f40a713becd11eb54a200fc52f5883149e3a3c289e"
   ],
   "title_hashes": [
-    "76158f396fc7c43edc4a3eeed5d231527cbeee23aa1da7011bdf61c4684b2f07",
-    "565fbcce17a951ed8c0d11f66a3e1bc5b2f17af714c647a49fceda29bb342836",
-    "2d5e746b36e1b290d85321c61529d436c4af725a3ab261a6efcf8837be16d455",
-    "e14e247aa0285acd1ffad8faba34ac8ee3b4984cc165fc55a9fbcdeabc54b463",
-    "e6cf687a840550cb3b8b56b009c48bebf46750ed7c11120031637ace73ddeb12",
-    "ff98fc21ee9a7e1cf54f34df181fa9e5fe9d3074c5bb2688fee24ba5c4690ffc",
-    "32e82e31cc9fd716f4b8f30dffacc02c0ad4dd410023b620b8e8bce1b95fc443",
-    "6e67c2d16ab5783f187d40602851c2651f5f13fa265f8063941121ddac8349c7",
-    "2988ba0bc2b622d452e9ec1cd4db0c4f70665047733bc1a2759b5f60f61bfcd9",
-    "a97f1b32fe259033bcb5af738008bd3cc8f3f35b372b5cd00046eb4e4ac9bb95",
-    "c9dae58a96c654efee9e24da481c832ddddea54ef7f880522e3b6c8f095ee53d",
-    "d274c1e78d6d91d479a61b45cbd6994fce8e0d2772834e3c9fef1bc2bdd30ad4",
-    "bfe2822d4be0dd8fa4671f54c08b51b834efd67ffb0accf635ffba88bf02b40d",
-    "3646e92d8cc175545e3ad83d8416af5c47e9453f27dbe0a569bedd12ab95c1e3",
-    "6eb0f833c5d7cd9e3b3c635140f2be62ae4882330d35edf84e8cdfacb06f6a03",
-    "fc23976ee6182d7f912b9f26e2b53b01576c706af353981fe3f0af70b5145687",
     "d05d53793e8fe083f06e695bdf9c79deaafb9b62a4d44a99de1d42ab3fa09a42",
     "4d1eadfeb4a92afffac9b3a174e5778fec18f0d918eb439ea6b335643d89159f",
     "246fe6163ea8f66dbf02d724d57c7d6993576167440d2aa675aca9dc21ac531c",
@@ -8002,44 +7986,25 @@
     "13b4d002ad48f3ce32e834c61cbbcf247a892883e0b96f9ed3907ee0dd2e475a",
     "9b30012bfe1289b8252e6734701b09674152eb6bf735c2746667e3ab1827d0f5",
     "6b18b233059714a1171d8eef9a1a97435dbd775e99bec023b6507476eaedf7ad",
-    "37b5afd5a388444f16176c60630722719ea5f9535768f752d93082d78332fe47"
+    "37b5afd5a388444f16176c60630722719ea5f9535768f752d93082d78332fe47",
+    "55f089e1887ca12a89ca57f5a4570dbda2f8784d8e7ee71e0ccdcbead8ce8dd1",
+    "6b84e2a28eadb4d0b779bda64162b87226599d9cb603fecc92e83776b0836e5c",
+    "d1d8e46cf61bdd4698eca7d6e20c77c010a77a483877085c88dd52f492638967",
+    "54731bec96f3874ad7a82735efbd7d40441da6469e6af82f65a101a97fa0c540",
+    "5df1634bba905a2610609146723a502e9f74a1c35517d4771ca89b7afe00cfff",
+    "f29b832ed18af22d00063042d3d15c65d18af569c8688dd44195b256482eb89e",
+    "9d299ed74f6572425c282566bee6102a62e2fdf79d1cd9ce498996fd7ad30978",
+    "7911d539ed64feb23208ceb1f0ce2a052a1a116a451c098f9e74f2aabe0b0430",
+    "261de5875bf1d8ad5307ce57ce4548f8013861a8d594d9daf764aed95c033fe5",
+    "7cf20d28e12314f1e92970ef542463dcf126843cb2ee8de5ef37d6ccaf50cafe",
+    "633cd1a6bf4ce59206a61687ddf9efccec1ca03d56b0cdf00bb9a7acf18fe8ea",
+    "b54e32d6e0189f01afdc8fe8a9cb73cf06bcac77a8504c1418c2c58c509fd6bb",
+    "980821bc6b147cd24cf3c5c3554ba3cee4b3730828ec24ec256dcb459a515347",
+    "8ef8f6cff9590be4b5819bd56360fda9d5fd4cab5e0132118ab2d24f60bde331",
+    "c2938185ea12a6492f98d3e29f3a17f303d70446e8258c795968892b2d6cd0bb",
+    "0830f5c35f398df07572e1e0a166b1206c41c9733dcda024384076200da7a88a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "전자신문",
-      "title_en": "연구소기업 큐어버스, 5000억원 기술이전 이어 230억원 투자유치…내년 코스닥 상장 도전",
-      "title_ko": "연구소기업 큐어버스, 5000억원 기술이전 이어 230억원 투자유치…내년 코스닥 상장 도전",
-      "url": "https://www.etnews.com/20261123000109",
-      "ts": 1795394879
-    },
-    {
-      "source": "매일경제",
-      "title_en": "SK하이닉스, 장 초반 다시 110만원 밑으로…미 반도체주 급락 여파",
-      "title_ko": "SK하이닉스, 장 초반 다시 110만원 밑으로…미 반도체주 급락 여파",
-      "url": "https://stock.mk.co.kr/news/view/1203932",
-      "ts": 1795394884
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Gold Rebounds as Traders Pare Bets on Near-Term Fed Rate Hikes",
-      "title_ko": "금값, 연준 단기 금리 인상 베팅 축소에 반등",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
-      "ts": 1795394940
-    },
-    {
-      "source": "한경매거진",
-      "title_en": "뉴욕발 ‘엔비디아 쇼크’ 직격탄… 코스피 장 초반 2.9% 급락",
-      "title_ko": "뉴욕발 ‘엔비디아 쇼크’ 직격탄… 코스피 장 초반 2.9% 급락",
-      "url": "https://magazine.hankyung.com/business/article/202611233226b",
-      "ts": 1795395007
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "달러·원 환율 1341원대로 상승…외국인 자금 이탈 우려",
-      "title_ko": "달러·원 환율 1341원대로 상승…외국인 자금 이탈 우려",
-      "url": "https://www.news1.kr/finance/market-exr/6362426",
-      "ts": 1795395009
-    },
     {
       "source": "지디넷코리아",
       "title_en": "LS전선, 뉴욕 145km 전력망 잇는다…초고압 케이블 공급",
@@ -11504,6 +11469,41 @@
       "title_ko": "모건스탠리 \"헤지펀드, 모멘텀 주식에 약세 전환\"",
       "url": "https://t.me/firstsquaw/195164",
       "ts": 1795425659
+    },
+    {
+      "source": "뉴스락",
+      "title_en": "KAI, 경남에 우주항공산업 생태계 조성…1조5000억 투자",
+      "title_ko": "KAI, 경남에 우주항공산업 생태계 조성…1조5000억 투자",
+      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=140737",
+      "ts": 1795425696
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "현대엘리베이터, 유지보수·금융업이 실적 버팀목 됐다",
+      "title_ko": "현대엘리베이터, 유지보수·금융업이 실적 버팀목 됐다",
+      "url": "https://www.fnnews.com/news/202611231819449889",
+      "ts": 1795425759
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "현대차·기아, 아카이브 전시회... 제네시스 '박스 버기' 첫 공개",
+      "title_ko": "현대차·기아, 아카이브 전시회... 제네시스 '박스 버기' 첫 공개",
+      "url": "https://www.fnnews.com/news/202611231820290661",
+      "ts": 1795425761
+    },
+    {
+      "source": "경남도민일보",
+      "title_en": "우주항공 정책 통합 관리·연구기관 자율성 강화 법안 발의",
+      "title_ko": "우주항공 정책 통합 관리·연구기관 자율성 강화 법안 발의",
+      "url": "https://www.idomin.com/news/articleView.html?idxno=2020368",
+      "ts": 1795425825
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "TSMC's Hou: Not seeing order adjustment from clients.",
+      "title_ko": "TSMC 허우 부사장 \"고객사 주문 조정 움직임 없어\"",
+      "url": "https://www.financialjuice.com/News/9864092/TSMCs-Hou-Not-seeing-order-adjustment-from-clients.aspx?xy=rss",
+      "ts": 1795425828
     }
   ]
 }
