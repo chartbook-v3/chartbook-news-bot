@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795439575,
+  "updated_at": 1795439726,
   "id_hashes": [
-    "9e4345e12d4207468b7e050c8afbe46d519b8cee77c916a3f6daf22d7c56d630",
-    "acb9255ac3624ad11822d318e75f97613da8b5750d0a548f7dc6f897fe2a0a96",
-    "5a257242a0f5be5d4c155712723e306cb19176d36b1167a33feff6b6818ff021",
-    "0434244e6e1fd8b4e830ef4fe2388d83ccf1b34581aab48c734e9d69ed5941fd",
-    "7981dfaf4ac5fe5a0d0846552b4f864141429f497d580e8646fea79addb14d47",
-    "ca76c8af14d04af1c5b434f99b3c72d42eae8f8c4ceeec03d1f0c14f19657751",
-    "6f714734803bc49461cdbc5a874b80daa053087f4acbe7a91638fcb7f075cef9",
-    "49a8250688fa7aa21e9269e35d507cd8d383cb4f8db9b6c5903d6f91faeb8a75",
-    "a2700f5d2eb5c1aeac6679a58f643af906e978ae730b349231ca3af813168aec",
-    "17a0ff49919d92222c128a453686ff07e8c5215ff35be810740f152fc8e8a22c",
-    "eaa5ccf13d33a57e60b7cf1493368fe307e0aeef31b5e0d21e479dba1a346eb6",
-    "e4f6dbb393393686f7bef9f31c8c83b0a47d10eb7ba3ba1001fbfaccc0e1b6ab",
-    "0ab909844ed19a3ddccd91aacf57c2fba2cbb22f9f1650e97da33ac1bc762764",
     "3ad5a04109222ed94f05d2b61f5a09ce37a7693123bc30fbef217993a02323a3",
     "c170875b216daa6f6db44dcefb3af59061c053963022700c9964ba18a1b0f73b",
     "84520ec7da345391c3a471070f37eab59bae2736fb0d13ab95ae46c1e2944f18",
@@ -4000,19 +3987,22 @@
     "e590c5290ba937c180a67426ff7d945ac74b8c2bd8fc2e56fd9681800d6376bc",
     "8138fd5a6ee13535400b27b78edb43f29648a098d62296d5f8912445523023df",
     "25f9dff7d62ee412f37b18c6d2edea4fe3e1f6edd1666a050a6b7e614bc5d9c2",
-    "99479cd9aa58e20a5e4171a9c076470422ccb70337f74518f11f2e38d4c606e0"
+    "99479cd9aa58e20a5e4171a9c076470422ccb70337f74518f11f2e38d4c606e0",
+    "738f840c99bbb9645dd63924d39c073b637e912e97ded6750a112324fc33b863",
+    "5165e11d65dc2c6bd2562febfd5d175becbcbf140dfecfee418b2e399b33c9f4",
+    "17e382b82cb7771dd8aa2f0e293b6367926f2d5617556b5af9caa66d8c1153ab",
+    "539934f0da2a0669d62a5a9597021ca8a08daccdc17ba3986f6fd8f29197cd0a",
+    "7251c0248171bb3bf7e357dca750c9929dd49cdc36f11626930247ca939f20e4",
+    "3978a6c3abaead8cc9211602a30f392d566f9e406315beeb72a9fcce72a12212",
+    "48fcedff42a1c3ad4caf4a731f0dec8df601aa4d6a20d3be0b551514b9284185",
+    "fae56b47f87e7d17743c763f9fc34956d81e0c7b134c24f5701474e40d3bfd42",
+    "fe1c31dbfbd6764762ac8a427c91bfe7b69348c6f1a07612a8afa214e1d700e6",
+    "e008fe8476be642cae9dee4e6d82a76ccd263a1a1526a73bdbd6106b7a5dc9a5",
+    "fdc1d85cca1cf272dfeb34511c359da672eed6323e2a57c23d85a5282923719d",
+    "533991ce51b13993e465c39f4544c2c0c5b056cec386488c8c61fa030fcfcdf5",
+    "25423e7e07482c098853634632d3c31a9dcdd7b5f14f734eac69176a62c61819"
   ],
   "title_hashes": [
-    "dc49f4baba9f21a79cb9e9064ec413f9a529bb59b193adf25511dc0ac1c9c27f",
-    "1e53d15a07ec08b0bf1cc2517cab0d6c64f142009bfc33faf6db76b40ebc110b",
-    "df74e60a6fada709a32266ad19d383bec0b88a8ecc01145aec57beb7adcfa974",
-    "935706f58ef992bcc15ee03a33c620e2f845c9efd84741bba4603a224145fe9e",
-    "6c6db0a9c2bf7d4510144bf57a5ab6aa3512320f0297be222f45a4f93f5d100b",
-    "f9e4f16dd8cad18a6956fd5cc6da58f4d55b6ca61950433c382c0604253de24f",
-    "d97c6719c3b886ec5eb787716f192bc9d287bc457ffb1cb5a4545a2f8588fd95",
-    "b5a2bf97572d79d3c762123c5f60eac2032dd0d9b81737a72f86452c5bb7ae82",
-    "9e41fc1b8bbda683949b79047c598ee9688bab7f0ac9dc36a43489f40307f480",
-    "34fbd628df643a8c0594707558943b3dce9de9a0fbe80caf51a2dc8ad69c8aa9",
     "f87c46221bd17f2782de034b90d84ecb4cdce45d6b719bc6b4178ecf78cd86a0",
     "5e2e332ec8c164347293e73c46a3a172b8787f46b35ecf88b03a3b4ed313eeeb",
     "f65e6aef6e4bb9881353b5df6233a930781f510017d63b70c186a65b0abba13a",
@@ -8002,23 +7992,19 @@
     "9a82ded4446ea98adb108f6a1c20730b266465a0e28fed86dcb4ca10dc2043c2",
     "911e5ab2a8e9af1bdd54f8dd906f43d3bf4e39d57c4d56fc16a26c5abd02cca2",
     "b59833423a454f6f3aace75848dc93437075c99cfc4543a0ff06a4856423f1aa",
-    "45e941125a53c4b0c356268c8ed21c0bc4646be4b2f2f821fc4923498f95cefe"
+    "45e941125a53c4b0c356268c8ed21c0bc4646be4b2f2f821fc4923498f95cefe",
+    "fcd695134c7822a81b4d4887a57f0789ee66eaee4f398b0bf74347695e14bf9d",
+    "58a26046417183ab74968588b2813e8e28632447ab8fe308be7e2d8d17487ddb",
+    "e9b662d5aeb1e3950b32a6bf0a26eb5665c24b3d4b122175d0a66e122a5538a5",
+    "84257d2ad05947ecfcb99261fb66b4be1f7d1da2ed2ab0a85bc8878c1267025d",
+    "f1ef6638199799bdd9986315997e8708fb125a8b60752e16f43cde1959f1fd67",
+    "f53eccff01861a1df78a6e32e6ce7dca5a8697b64ac1ad2082f0177387b58603",
+    "e967c3f6d675ea581514edc2511fcc68990deb64ab3d9d3433a89dd432b5b69f",
+    "f3a8d6388a31af31e507562accfe108f539ad2bae3dd3ec1060f46e416326763",
+    "5fb8aa8f5b8b51dcab6d9834e7ea7e0c5a22ec84d5a343f8d884ca20598d0a8b",
+    "8de53a7f6a1de6dbeb0ad38b57fd5866277dc2800d47bb2afe857d8c35e5c2be"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "Taiwan premier summons finance, industry leaders as Jensen Huang scandal ripples outward",
-      "title_ko": "대만 행정원장, 젠슨 황 스캔들 확산에 금융·산업계 긴급 소집",
-      "url": "https://www.digitimes.com/news/a20261123PD221/taiwan-scandal-government-economy-technology.html",
-      "ts": 1795408513
-    },
-    {
-      "source": "K-우주항공",
-      "title_en": "하나에어로다이내믹스, 한국항공우주산업서 인니 수출형 훈련기 ‘KT-1B’ 기체 수명 연장 사업 수주 - 더스탁(The Stock)",
-      "title_ko": "하나에어로다이내믹스, 한국항공우주산업서 인니 수출형 훈련기 ‘KT-1B’ 기체 수명 연장 사업 수주 - 더스탁(The Stock)",
-      "url": "https://www.the-stock.kr/news/articleView.html?idxno=33890",
-      "ts": 1795408516
-    },
     {
       "source": "Benzinga",
       "title_en": "Meta AI Chief Alexandr Wang Says ‘Superintelligence Is Arriving’ — Prediction Market Bets on the Date",
@@ -11504,6 +11490,20 @@
       "title_ko": "Amazon은 Moto Tag 3가 발표되기도 전에 주문을 받고 있어",
       "url": "https://www.theverge.com/tech/1039903/motorola-moto-tag-3-tracker-amazon-leak",
       "ts": 1795439574
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "US Probing Alice Huang, Megaspeed Amid Ties to Nvidia",
+      "title_ko": "미 당국, 엔비디아 연루 의혹 앨리스 황·메가스피드 조사 착수",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-23/us-probing-alice-huang-megaspeed-amid-ties-to-nvidia-video",
+      "ts": 1795439599
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "크라우드스트라이크, 지스케일러 59조원에 인수… 보안업계 사상 최대 M&A",
+      "title_ko": "크라우드스트라이크, 지스케일러 59조원에 인수… 보안업계 사상 최대 M&A",
+      "url": "https://biz.chosun.com/it-science/ict/2026/11/23/LRS23EFC5ZC5NNRWNJYVO757GI/",
+      "ts": 1795439725
     }
   ]
 }
