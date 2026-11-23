@@ -1,25 +1,6 @@
 {
-  "updated_at": 1795449663,
+  "updated_at": 1795449832,
   "id_hashes": [
-    "7471099326373c5a71731a8261823324ff32b2aa6697b010ba6dfe8c837bfb6d",
-    "d171cdb11c286cee405ce4a958d50aef06e09a98f61260458d24150e8bda843c",
-    "77704c6d53a8e0f59148670f40fbf2bf1ad506eaa344262a0af88c65a331fc88",
-    "ece9db717aa81b3242c4138e1da93b63b3753f362bb7766838ab1de98eb63018",
-    "8c33ba1e2ec5236d750135bce21e830ed88af9d57af284cfe46456c9ed66f9a7",
-    "eeffc24623087342347788ade8c2137e1dcab8fb4aac5be43a8291813b3948d1",
-    "24594e105e4095b0c5e8bdafe5e47b0e0db2c3b19ed015bc4d00f7563a4e85b9",
-    "b24d5a0b0eaa8799d2024ba17c91e0a62162a49626b73665ac951e04b7f33f75",
-    "c4e0a216779d895af5babf1909e3fcf39b9fa148a97e719a95b9bfb88f08d5d2",
-    "2e103d7909f0db858d7de8fce4dd345a85b0677fe3fabe4e98a3dfef2548a17b",
-    "c5c7f2f410ba1dc015f23456c140c23391479ec791de43a84de9f2b2a0101e71",
-    "b9002cb1a8e7bb4c0865c0a862f7758f600f4003969bc0283999ef90ff4d0daf",
-    "d540377d1ffa13d0b8d76785464d5cefc5d263edc5d1eca9d2253c6171552baa",
-    "d8e1c89c3136dc5b82009c0ed9dc8b308a1eb0f472377adef8f2dd1abc22e0d2",
-    "0da5884df165e8a08dcf89ebb201dba9c1c98a5716a8eda7d3db5d34f43c230a",
-    "e95c44f184ff1fc47b4455056b636484df991500704acf375488db962767ec69",
-    "c1a7f2883eef8794f2e64d14e342e72ed3dd16f4b4e64b4857054bbb10875856",
-    "b3e13c58c4d0a04d75071f6bfc08b39277bf0b190a5fd734c79278138e7332ad",
-    "8e2435d04e4bc154617e7a70db18bbfb0651ead03cf95800fd04015d4ffd0694",
     "0b28052503153eb10d8d5b884235b5081cd600b7656e61a82754d3fd03bfb884",
     "c93261f7581d2c325fdf457f8334d125a6cd3205f75781bbde2ee607a6ce3f16",
     "feb266b44cb23b8cb8d392c5526fc5eaf4d5d920dc1658b942f426656cfa7eaa",
@@ -4000,26 +3981,28 @@
     "258714a3d37e19784a1422ca332f8b1d718dc345f4562719b4f40e6490b4a780",
     "8cf5a28a5b98db11b412d15f9ffbeec406bdc4a77f3be776c20b42f4762542a9",
     "c046e3371e40d7fca412e29bfb696ffdb3267af245371e6f47e50e93950fb2bd",
-    "269762ee0cbe99f23c345bcafda4a5d094ddca637b0426b36e5b308e24a99e39"
+    "269762ee0cbe99f23c345bcafda4a5d094ddca637b0426b36e5b308e24a99e39",
+    "7ab648034ad2f2aa835a36be00ff522326f1b3ba64e7d10148add04c37a99a8e",
+    "ad07358197e2718506e0955731cf55d3dcde7d21161ec97ff664903b4cfc06ac",
+    "670c7ff0b0b40e18b7af5b66e4432c44d1253f8af7ebc2e023327ed225cf062f",
+    "92cda07a496058bfa6669d5fc74437bf6c47798e02568d517ed37dd7c47c9f27",
+    "ddd8137225dc1e87617213fd30393bee3bc0dd55acbc7872721258a1a2ff064a",
+    "12b8de453f6d1b60c27ae50a02cead2495e1df741b4370ef0769eff347a165ed",
+    "c023502c9574b04b146b8b34914c8d4f3dcd6be6f18a723b0ebd2b0e439b0485",
+    "c1553a3facb9e7d82dedbf7eec77e982da6c22ce6ee7f5dbb7a4dee136c89b46",
+    "e6ee3443748eb8c3cfe5a89b1161b5bdbca5e9b61e3ff6fc3fdd8ecd6df40f89",
+    "dd7ca8febc8333b0573c7cd19d54b4286c41b2563b593e2da15ae797a57197c1",
+    "69b5588e886b681d94a1e0ac1b5512dee5e64a61c6e8b4c0d75397d369c3b337",
+    "5730f5987f9da10419b39990a95fb652778966f3aaa10a0fc955ea6d04c8ebe8",
+    "0752e46f93ab46a88b45baa5a3c3937857a177be2de9e74d3dac2897e17de96b",
+    "13c3ded57d6e8c342a3763c1f47931d8696a2c3df099510484ab804b2bf803be",
+    "1f4411b535923207ccd1a0989a542ead99c01a77f2649f7196a068e0cfdffcf9",
+    "7a81559451b803ab3e362cbe586293fbb45ab7c580b2175ff9f3340998112e4b",
+    "259c45256ad03c7eb2394066e0cb10f758c260a4c01b0962af978a635b10b0cb",
+    "64e8cea1c0e06738c82d66cae06f25b2854e4b446b4f6d1faffb71d1eefd0887",
+    "b2089187c0800cc8477fa613aee93c33bda346210850b336ac7544a2bbfba8ef"
   ],
   "title_hashes": [
-    "fac3eb921b43143bb6f134fc3d46470fb5e1097c0b997c1e1384426cb6fa7e55",
-    "0218e5619e5ffed237adcd6782c580f97a2893b6d157e7816f3bf07aa1395973",
-    "68f6198bea15c9d6549ee67cc9d2298447366a2f478375f8de2415dbb71f10a0",
-    "2173999f5e2b3200ecb14f1d09d9612e62693f358dc6508deac5dbe5916ccc28",
-    "6ed34d8eabd1b752706a9982b8e9f9d493636a4cbafb5a3785adb7fc90d4ac06",
-    "369c52bc6c6f676840d1e137ec45ad61b34c18fc49aee2dd76b2ed9901e0e201",
-    "4f3db97259799b8a07a206ea9d63b1736eda4e425b14af610570d488fb7f6095",
-    "0f3025d5c27e512aeef70af0dba6b6910684612d8bc3c31d4772eaaa72e896b0",
-    "11d0992218a4b7f488c665db815f3fabfbd37aaa1d14bb4a2c9c249bc33c97dc",
-    "6d20cc2ceb9188a25934a04c96b56bb64116b0659818c83214b865b099a1799f",
-    "5a15d4fe0ad4b3966f48bf1ca68d5fd016917c69650eb55c63c77abc52e9fbc9",
-    "5d8e07b23f1e1a2506f8f559df8ed2be4ddcb8389b57050b1c42c478d9aa1996",
-    "6eab7c9e0a9f39409b6d02b199a6432ef6fea5bec9e324a5ac22d03b648ebe3d",
-    "dc48cc288379a6962cf75f61552970783becec354fd6e17e1533df4807356fb3",
-    "1644b6e1dacb713a8ce302f949c75a325a5e64b87512019627f322aff6a52eaf",
-    "5b9d5adf8cc492bf9cdbb0f38584fb7a0aa419f7ae52e0e6ffd433fa91568be9",
-    "6b6aeaca9413dabe9528d1ac3b65701c9ee701ce9d95e63b520840feb6b746ea",
     "f8e6d8bc0d5b5bc1e75696fed594fd1d43dc2a71b639d5927f80020d2052b435",
     "ced351face0911244379508802888a96d1671d749e8cd7f28dd3625f3dc56b4f",
     "8581ba8f6529f9cfa3b2eebaab4f35784ff9b1c50444628ef99cc7669e88a7c9",
@@ -8002,37 +7985,26 @@
     "b1f1db4859c1903acd91c671f17f725ae02aa6bd56b64c76110f70c13824a12f",
     "3459b22c161a8341383428762913ed508c4f1f518bb1e69d11a4db00f47f2e59",
     "0c357c1c37e5284eed9ed818460cfdb8d3423ca52eaec47596b43329b0db43f6",
-    "94cae3dae210a72a9e1c7a93286b351f48313b8b883ad2dddb1db42dbd10d2ea"
+    "94cae3dae210a72a9e1c7a93286b351f48313b8b883ad2dddb1db42dbd10d2ea",
+    "d30988687ec4cefbefa6aedd8024acbf786acdb68a31d27cce9fd667e6aae9c9",
+    "9029af8b87ee493d8a0d2dfeff8ecfab7348bfde5e679908258d906c090d7277",
+    "03bcbc8b218d78db8520f981c8e6312ba52c905d493f2d03402ed886ee971bc5",
+    "d78915e67dc36dc05a3616060fd1bbdea1054a6ba517af51e8f0585c982ec24f",
+    "58deee73bf17a30ecedb9cb23c9b47cda64d94ed9a3b98b1c277aafcb9983421",
+    "f0326ded802774f6a25a0eb448d653a7ee7bdb233168de88bdda91d35397e0ee",
+    "487ceada2348bc575a9d2c8441a8ee7d2e219d393620fd6f95d32ae56162ed61",
+    "fcad089226c1e30f3f52d8eaea83ae449647055b9fe9f43e0a0eb6eabb209f94",
+    "15a61f5c742603d20846a36d383846f286b47a7ba9fc7d59b8336b34a513c98a",
+    "a837f8a3b784012eee2521d863d5db3f5c84bbb23d0eca1286cc50dd20e192e9",
+    "6eb68f3100a00cf35ccb88181f10330aebafd31edcec64baca5db55704923973",
+    "033e9908505b4a95c4c785b88070d58faeeebb1bd61793fd86933e8e99f6e8d7",
+    "e68539855ab676538c74c944435461d3e06d0b880b4619a9081cbb058477f58b",
+    "20540bdbce6f39fe8c7bceb66888ccbfb4c3b325eeac5388f32f7ba402f725d5",
+    "cc93a8ea82dcf833b4b25490eed2ef590679edbb36fa7c6a3753ffd8a1d6cb27",
+    "9122bb20403df55d2b37b566e79e6276e22b89554acb1843d2078725ffcfdc0a",
+    "e4838171cc88cb0d0e9fdedfebed7a65be881a47705b426429616b301abc8a81"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "BYD claims first mass-produced foldable steering wheel, opening doors for smart cockpit suppliers",
-      "title_ko": "BYD, 세계 최초 폴더블 스티어링 휠 양산 성공…스마트 콕핏 공급망 확대 기대",
-      "url": "https://www.digitimes.com/news/a20261123PD225/byd-foldable-vehicle-smart-cockpit-technology.html",
-      "ts": 1795424655
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Ford takes key step toward US-made LFP batteries",
-      "title_ko": "포드, 미국산 LFP 배터리 생산 위한 핵심 단계 착수",
-      "url": "https://www.digitimes.com/news/a20261123PD227/ford-production-lithium-catl-automakers.html",
-      "ts": 1795424658
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "NSK and NTN finalize 2027 merger plans under dual-HQ structure",
-      "title_ko": "NSK·NTN, 2027년 합병 계획 확정…양사 본사 체제 유지 기반 합병 착수",
-      "url": "https://www.digitimes.com/news/a20261123PD229/2027-merger-business-europe.html",
-      "ts": 1795424663
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Chip prices set to rise through 2027, driving semiconductor growth",
-      "title_ko": "반도체 가격 2027년까지 상승세 지속 전망, 업계 성장 견인",
-      "url": "https://www.digitimes.com/news/a20261123PD231/2027-growth-demand-revenue-chips.html",
-      "ts": 1795424668
-    },
     {
       "source": "조선비즈",
       "title_en": "삼성전자 MX 수장 내려놓은 노태문, 사내 메일서 “부품값 급등에 어려웠던 해”",
@@ -11504,6 +11476,34 @@
       "title_ko": "회사가 하이퍼스케일러 선불 자금을 확인함에 따라 페르미 주가 급등",
       "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63539813/fermi-stock-surges-as-company-confirms-hyperscaler-prepayment-funding?utm_source=googlefinance",
       "ts": 1795449662
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "[사이테크+] \"담배 친척 식물서 항암제 파클리탁셀 생산…축적량 500배↑\"",
+      "title_ko": "[사이테크+] \"담배 친척 식물서 항암제 파클리탁셀 생산…축적량 500배↑\"",
+      "url": "https://www.yna.co.kr/view/AKR20261123109700017",
+      "ts": 1795449816
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Odd Lots: Can Huawei Challenge Nvidia in the AI Arms Race?",
+      "title_ko": "이상한 점: 화웨이가 AI 군비 경쟁에서 엔비디아에 도전할 수 있을까요?",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-23/odd-lots-can-huawei-challenge-nvidia-in-the-ai-arms-race",
+      "ts": 1795449820
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "NVIDIA (NVDA) PT Raised to $240 at Citi",
+      "title_ko": "NVIDIA(NVDA) PT가 Citi에서 240달러로 인상되었습니다",
+      "url": "https://www.streetinsider.com/Analyst+PT+Change/NVIDIA+%28NVDA%29+PT+Raised+to+%24240+at+Citi/27386067.html",
+      "ts": 1795449823
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Union Pacific and Norfolk Southern CEOs push merger case at RailTrends",
+      "title_ko": "Union Pacific과 Norfolk Southern CEO, RailTrends에서 합병 소송 추진",
+      "url": "https://www.streetinsider.com/Corporate+News/Union+Pacific+and+Norfolk+Southern+CEOs+push+merger+case+at+RailTrends/27386066.html",
+      "ts": 1795449831
     }
   ]
 }
