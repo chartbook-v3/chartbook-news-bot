@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795420657,
+  "updated_at": 1795420819,
   "id_hashes": [
-    "710e02619b96d6341d5ef4ca011143cf9e8decf449b1a28c06045f87069db37f",
-    "21d35fc004f6c27ee013ad65063ebc3bf2a5986d98cfe4a42ac32c1f5704dcf4",
-    "5fc7e4d5338b99beaf1b4a9b4eab61c1d81616866336864debba8435b2d9b715",
-    "2ec547ad037ced02ed0b701306d51297e9e3fc62bde65174181b9a10864aa015",
-    "54c573be7de4fa6fefbfa28463f84f28633e0463bf4a5aeaf772beb0b885f23b",
-    "1a1f97bc495bbd3bbc1431b2310bf7f0136a5102d63e40bf1bc2e14a99869dcc",
-    "e0e142dd1ec279084a62fed9ecd9f398d27c2d37dd0381f729d1af3ec4b04771",
-    "81d93e7a595106c82d5e2f1d7349d94d50a43877091f4597657cf4385f4738ff",
-    "2f0ca32b0dabbdb48555b0296958a68182e4767cc9f12630487c47ead797138e",
-    "81207c5ccd9a06966b53229a71ec7da698c1bcd5c7d2da260ac5427afcc032ca",
-    "91298024be601d904f46050affa57ed6854b83a5180359ac0913d907854a0936",
-    "3cc424d1cee30316207a6c206717a21f6fccb130d46fa94764401a8281e91f37",
-    "767d85f01c054aea51af8dc9ef143dd3d1ef770e2d339c557f98d5af999719db",
-    "d431e1bed22b9b7bb59362b297600c3e48d2ee4153b1291fb86fa58eae3dd858",
     "1ad213ad86c4271d4c45d4cc0c64e2183a837d651d53e17cf0f1adab5a31ff00",
     "2ce1019741630abefd4ec70a32e095b42e931ea9fc1dca46473bbab3d270da16",
     "bcc9ebc4737b49c9601c264d86a2c09dc3e40616741ab771673f4df8e731dfce",
@@ -4000,24 +3986,23 @@
     "9dd77e6cc723af0814c2ae49f4d11bef532093b3a2ad806624d210149008c558",
     "e17c73bc463d5d657c4a3fce73fb279e6c9899d187dbf89c4b28b9cee498184b",
     "f14b5c994f5092307baf6b6e7140df0066817bb8aa33ef22b248b26190733bf7",
-    "125bc73d31253067d16e2c30b14750ebafe9d63a55afd8eaadcd6fe5ad891846"
+    "125bc73d31253067d16e2c30b14750ebafe9d63a55afd8eaadcd6fe5ad891846",
+    "ea20437822b55e6711f658ab43f1ccd66252a924262cc1ee528276d08b54ffaf",
+    "96092f7ae91397f0d2f75c448f81b09aa0eb64fcfd299c7a1ab7ef2ea5b865b7",
+    "6cffead60909960a15d7f1a496fd558291e69f191c2562a6c82169e0919ce307",
+    "0edc36a3a2dc1b4782bdfaf5e32365f3fbd61a1efd8490dd9188a9590951638a",
+    "5b453cf7731635cbcdd4a7f35ea89e1cbebb960bfa9ce284685fbdb81d95332e",
+    "e23c93398862e97815bf324969b9ee43e5fd97925a711ae07fb4648355d5aa7e",
+    "0e5ab3a3e81c3ab517801710e135c975f4852746a021da8da64581dffbd51fc7",
+    "6b1faca810efea1fc2a3d7679a2b8f386648a74a62c24eccde53b186ac2a1384",
+    "0a4f826c2c0f625adc12bed19c3cfd7a48e9700e5ffc2b445cf9293c3ddda4e4",
+    "14226968406b2008d8e0274907396506fb5ff95288759ef4be87e1f6815db9cc",
+    "41017de552a439359e8c091626ea13e51ce356cca62dbee22e6f6972e9574319",
+    "c5264f826475c9864e77267fccc56c87afe42c26f3f2ce104f5fd9e3254cd344",
+    "a3a48c5177a1d385c0c8670af888b2e0877c1fb638614750f8e6263973d45dcc",
+    "12e8ea75bb516ef6ab59c0abfc68aa94a185424209c213321074875b80129bea"
   ],
   "title_hashes": [
-    "a94bf048e98183972511a60bbd48a7d449c86fb33c23de1b62dbb7cfc3f5e404",
-    "35cc6a9db3a66abd6004ffc6946ca3d30d836c50985be2706c30a5a3c69bac59",
-    "869a1703d097ac0614d2aac2f04755b5ef65cd2d44fdf80f07b647a8226cf668",
-    "2fb5b4c8e8b1f1ec8a33a6f41d103671512b626e9528384e4ec759f6bf2d539d",
-    "fb1cd66f6f52c0f5623af0d579367be90d412850561ba55f246b510377d38a9f",
-    "f768d5498930f78f1b326dea15821b1fb4da124090b70f948ce7fe30fb015193",
-    "6b41341276cd73b7c1898331e83f736c67018e9c8d37a08f9fde32d652b78c4c",
-    "dc8d138c20548781538c3458c6f9202c5b028a61cba22459f006981ab58107ba",
-    "3fae861b2383cfefe040ed75ba4a60f3a6e9324f91b74c68baf883bae5463676",
-    "e1420f11d98230e20fb36ebad0345fe2572f95bc98d0b54b63bf3c2cf037f456",
-    "66594dd5d44ec0d6d56edb0fc129d23ac0dfda62580ad634903a75c7639deaaa",
-    "6a7380b379fb6cff820927c78cc427778e5852d2ec85434d74105ebb02260d23",
-    "92dace1981a4002403af17fdbdf99db23bc700f54c6b54a3bceaaf64e633d172",
-    "f3ede80248f21ffa0d0f8348b73e15a5df364c8620a57fea27616a1a5bf5c0ce",
-    "04bdbae9ef5f3f41b1cb24909c63098cbc04dab2e57936c23abdedf1cbb06cc6",
     "0f617dc554625010d3b38d06740e034918eb9aa898d06c0b3d54a6d840a8b91c",
     "f7fcffebbc688f432ec9e73f0d412c3fe0fc9887da6df851503c1c2245c902c7",
     "bf24971c5c49b44312a10b4b1613cea95fd7d02df1772f4c1fc924c185528acc",
@@ -8002,23 +7987,24 @@
     "cf339b7c9f47d1a42c1e0988ec14abe7a24f75f51abc67f6d05d3f845878e6af",
     "31dc57cd2d305ed8103fa5f852b7ee9d8b27bad19d48d362a7bd1973454a13dd",
     "8de683c570e15b75e16d273ca3adcd396237506b066c03e57b05f393ebcb882e",
-    "3cd783920308b822ba80a2cdb048cbf19ccf7ff901bb10c519e5382ce661c396"
+    "3cd783920308b822ba80a2cdb048cbf19ccf7ff901bb10c519e5382ce661c396",
+    "a8068a76ef125f4c45c819a3dbd6f9d5edf6c09a1e057beaf586755989221c9a",
+    "5eb6e7fcbd05124f058aa1f10f1140e9005c164aed5880a55bdfcbe201b88553",
+    "cb450a9a58ea87e605574bf08a1ec86f3cb554eb44999146656742e98e74c192",
+    "cfad0345530566ffc901fe203baa352f080716a319fdb1bd1bc509ec07618ef7",
+    "fdeac0e751bb41fba8c7c8373712b8c94af5de94a93ebe3632f2b2124e277872",
+    "792158ecff765f2467dcbfaecd63a3ef27d07145faed180d16bc050991baaaff",
+    "915978a4078f3d11cf92fb7bb0de2702f3fc20b62d8db9e0f95b30ea7fc192c6",
+    "6fc78f589394a63068b8f1cad6374a5ee69f4d8a5245bf4a1d19ffc41f8c1e73",
+    "312b9ea314e0f5b7fa731c75a488f7b002e0058ecb98a1a96f4846e86846fbf4",
+    "f485900c16ba4edf9f1977ede854c9a4ed54a25a60e43e7c57196984c3fba5bf",
+    "4822ee230677d3c7d8c6c9c87937120572ea66817bacf60df3c5d95652a2059e",
+    "ea3f7b7b8d76ce86f554a9faa41af0a449d6f308abe8bc07fd7a56d7693a4cb7",
+    "b1dc033ad93e4885f55b480445f30b325fb25ac6edae9ee9ba262b39a0b2dbda",
+    "b1dceb371476f8bb39f3dddddd52e2504297bec34b29d53f0867037db4a42f32",
+    "38c8c9fd7e89c496e604acfa5544cf22626509fd1c4a8b4df6ee10f0d1f0ea8c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "메디톡스 실적 반등의 조건…3공장·해외 판매·소송 종료",
-      "title_ko": "메디톡스 실적 반등의 조건…3공장·해외 판매·소송 종료",
-      "url": "https://www.fnnews.com/news/202611230834333709",
-      "ts": 1795391067
-    },
-    {
-      "source": "지디넷코리아",
-      "title_en": "\"애플, 내년 초 신제품 쏟아낸다…아이폰18·맥북 네오2 출격\"",
-      "title_ko": "\"애플, 내년 초 신제품 쏟아낸다…아이폰18·맥북 네오2 출격\"",
-      "url": "https://zdnet.co.kr/view/?no=20261123080815",
-      "ts": 1795391199
-    },
     {
       "source": "Bloomberg",
       "title_en": "Ant Group Bets on Simplexity to Thrive in China’s Humanoid Race",
@@ -11504,6 +11490,20 @@
       "title_ko": "나스닥 규정 준수 회복으로 MEDIROM 주가 79% 급등",
       "url": "https://seekingalpha.com/news/4675442-medirom-stock-jumps-79-on-regaining-nasdaq-compliance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795420656
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "산림청, 현대차·세화차와 전기차 기반 산불현장지휘차량 실증 협약",
+      "title_ko": "산림청, 현대차·세화차와 전기차 기반 산불현장지휘차량 실증 협약",
+      "url": "https://www.news1.kr/local/daejeon-chungnam/6363210",
+      "ts": 1795420809
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Trump Shares Abdul El-Sayed’s ‘TrumpCare’ Universal Healthcare Proposal — Senator-Elect Says ‘I Don’t Rea",
+      "title_ko": "트럼프, 압둘 엘-사예드의 '트럼프케어' 보편적 의료보험 제안 공유 — 당선인 \"정말 모른다\" 발언에도 관심 집중",
+      "url": "https://www.benzinga.com/news/politics/26/11/63519252/trump-shares-abdul-el-sayeds-trumpcare-universal-healthcare-proposal-senator-elect-says-i-dont-really-care-what-its-called",
+      "ts": 1795420818
     }
   ]
 }
