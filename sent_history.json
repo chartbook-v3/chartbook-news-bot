@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795439223,
+  "updated_at": 1795439405,
   "id_hashes": [
-    "d83bb7745a94a1d567f0247c73b2d6967fe3cacce9d3b686eb82fef9a3d6f035",
-    "00247f180263bb8508dec3f90b0e90f840e025b4eb8e63a1001285026c68c3a9",
-    "57f05ee0058a476a6f09f8c781d35f765cf2a130cc106c6a2c4d8469630072e9",
-    "02b05da632f34e1fb8bc8e1a5a4322272476d72e0b1dd965ba6fa6b6aa57b6df",
-    "f5ea553e066b6d078257d73e782ff3dea7501f39986bd59e3243118c15a83988",
-    "d20812459d2c773a0e6f3eee749a5799747769c29be9ded766c25230580bebc5",
-    "5e1ee9a1c7b9fd4db435b4cd9eaacfed6ee3b6eb03ad6f8f4617cbc012fb8e6e",
-    "0f04a0440eccf8eedaf2fdc7819b10fff19704b66f99b4fb10b3dc31a47025f9",
-    "a5b8ee326238155c74385a25922146b54222a5b9468ed3ff2fd296c91b09e2a3",
-    "ef9a6a0d08f24a1a85173386bda3316e2f8c156db6faa88779970e717763c9af",
-    "3bd97a3993dd91078fdaadf18558e3577766e5189066f096ffce33ba7905681e",
-    "da461b0b129e89a664e6988a2c815f515dbdea5da8474f4c92a3b0453c0dbb49",
-    "2ba8337d8643e324c7bbad57b708740d933d04985ba17fdf688f004df46cba02",
-    "feadfa81185f1d163db55bf1b3459bd7fac21c55167f92a6e40aab990a1cae69",
     "dd1fd2bee3fa562c885dd3e8c99a63d1ddfe4d8f71548aee7e76b636b0075dcf",
     "5397e7508982feaf6e61c0762cc9c2462615ef6699bfbf8d288e871c4cd0d8e2",
     "077071f6c4cc629ec4f981cdb9ef5d12eb4a207f4917848debb1dd98151da479",
@@ -4000,19 +3986,23 @@
     "b248a9036628291e061de8cfe745ce0cc880643e430837b57b0e7e2b315cdaf9",
     "2f75484f2395a6cc82f4820c12eebf2a9bbb26e15564d0c5b59fd2b7fe7ce0d1",
     "85af2cf71cefa33f371ce3d4bc1a234b11b8a2d381ba844a64c6a0df11d76597",
-    "49a737e23f2b9186c08bf66998ebc778561b393494f922203d37b87e138e4346"
+    "49a737e23f2b9186c08bf66998ebc778561b393494f922203d37b87e138e4346",
+    "9007e16567a465e0a759223aa43adaec3f604b3a8ad954d71b987ac38ec683d6",
+    "3ba486f15cd6ba0efbd7ab0089d01f175c2b333264f8c6328efec0461cff5762",
+    "d23f403c50a7b2b8a5945c2ce16496c4bd74fb62894a321d43ee6a5c6fe5869a",
+    "a56f071d71c99a96a2d90b105d38f21699c3598ecd9c2b7791bff3e1c779b47f",
+    "7596255c239b3402b601f4731030a699722aad54b4f00abddb2d3a4089f45840",
+    "5b260172b99fd52e9f7293cca36b9408f00a9edae394460afb2c951fda9d6104",
+    "58f1b0d6d6bf2ad7a393bc0cb856891d0652f58ba52fec7c38c9d75ef96c7a41",
+    "3611d7e14b587f194ae16598f3d020640e2174b35a51e4ca715bfb6343c39bd7",
+    "0510addaa391624ff1cb02727a4ecd2cc33886798ff21bd7c273c3f2ba90a8ed",
+    "94196cc9b32cf5729d32748a1013e6f9a53f6aa17f9881be44e942527965fd09",
+    "aaebe951d091026f8b1f6be4bae3cfc1a4e950345d8b01e9ba0717ef95efaf11",
+    "5289ba0e00f79be930ca6f8e9620c8da5c118521b44b77708609078768115d81",
+    "65338e4914efd8164ba393849a69f3aa670247168123fbc613b2e664f6f2f587",
+    "7a5d38b14f9245449e50fff72ee49abc93996dd076148b59b64c9d65b17ffa78"
   ],
   "title_hashes": [
-    "6d017329b7217ceb6e3662f7efa4b75d29cb898e67efaf127e0cc779e369f49e",
-    "af16b746167c36596513f3e8779eb348f1ac26d4aea3e4e460d1aecbe4f0d046",
-    "739e663cd3773e14fb8273ca0ab9e1b6beaf71b3a444fc98ee57e54c24e1c168",
-    "2cfb8762cd91b05e569603b8ee006f0a595ab111d5cb903a4ef61f4c7a63d2ef",
-    "1aa251908290903a2e2f14aa8b0e76afa5ab6f7a0f1b3699667e77fe31cc1d75",
-    "51cba1a3d19080c7ad4e7da44aaf8b58419c0af8ee35956aab7e54e41e781187",
-    "8d572d3b4cae7545942400d149ce5d4ad8181da44567d1f28f9e670f0e39b968",
-    "e718a0adec592f888c13b00e77cb6ea9de7be2bb5292ae2de4916b3dd5837f47",
-    "c56f8f8c33980abf968bf6a687a3179a26f0b48fe4b8dee965dd95296a8e729e",
-    "b3510a4a297c90c19230bf1d2f393cd01b8889da00fcee15ebc80c903a403591",
     "b03dc3b071c75ea588f55b92e55f570785f5e967f8922f1d9c52388581c3713f",
     "ffc5b911a31fb62c3f65ce50b88f36f5ec145cef19e678052efcd014f934fe9a",
     "1a9c906b78abe08ee4beac7323ce43e28ce7333ef77b4d4d90d7dbc1a82566d9",
@@ -8002,44 +7992,19 @@
     "ef7eeadfddfc03b4506b90007716f25219594323d85dc3768813877f14163894",
     "ffdc452249eff213f05ed1e12ff30d9a469311915314663f5a28d7f4f2dabde5",
     "88141a1c6a3b5baf8d07deb9213393d0268f96b585a6b9bade1d10bdb4e0e5de",
-    "6223662149fd961b10f3fceafec4109c3a2a21ebbb69669fa11e8be669599ff4"
+    "6223662149fd961b10f3fceafec4109c3a2a21ebbb69669fa11e8be669599ff4",
+    "a1ce763575078f553fb26d5b65603787a84f5bd6321cc932bb49bdfea0ca5a25",
+    "03f52762d6baabc819a5cf8678e2544ad9db46546b0449288462fc54b8d3c8b9",
+    "ecf78a4bd9090fd3f2e66a08861198a5677df23604cece6e7c570cead216bfec",
+    "c2ce7b8c88aa85a7c978619350533dec5fb3e90f418ea16e7b3772e853dceedd",
+    "14c9e046c8ccd5022918490c8bbbf92aa1b4a58b0601d6044e0d8ccb8133b011",
+    "bfe4b9b9a1e5bdb92abfabffc615a63fb21d8045ff0b1b86112c3bd4d02cf858",
+    "8b23779ebeec73b278f613c60b2778404258d903195872a5f273f8dc80bff9f4",
+    "30038c04baeaf5f8a0d3a5325214204c957a1fc55f16d2e909b7462906c5fb0a",
+    "a88340fb40430e6d66f8932dcc2cac2c3d5a21aba0c4fad47e462c361789da7e",
+    "8389b4d8187380995bb1ccf5bf2254b602019088adaa46d3ea28b107c06c691a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Malaysia most frequently refuses entry to travellers from Indonesia, Bangladesh and India - SCMP",
-      "title_ko": "말레이시아, 인도네시아·방글라데시·인도 여행객 입국 거부 최다 - SCMP",
-      "url": "https://t.me/firstsquaw/195106",
-      "ts": 1795407393
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "MUFG \"한은 금리 25bp 인상 근거 있어…원화에 지지력\"",
-      "title_ko": "MUFG \"한은 금리 25bp 인상 근거 있어…원화에 지지력\"",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446042",
-      "ts": 1795407625
-    },
-    {
-      "source": "WSJ",
-      "title_en": "The greenback is likely to trade close to 160 yen over the course of next year",
-      "title_ko": "달러-엔 환율, 내년 중 160엔 부근서 등락 전망",
-      "url": "https://t.me/firstsquaw/195107",
-      "ts": 1795407836
-    },
-    {
-      "source": "WSJ",
-      "title_en": "European Union seals a trade pact with Indonesia aimed at lowering duties and encouraging investment",
-      "title_ko": "EU, 인도네시아와 관세 인하 및 투자 확대 위한 무역 협정 체결",
-      "url": "https://t.me/firstsquaw/195108",
-      "ts": 1795407839
-    },
-    {
-      "source": "서울뉴스통신",
-      "title_en": "초소형위성 활용한 해양 감시체계 고도화…우주청·해경 기술협력 강화",
-      "title_ko": "초소형위성 활용한 해양 감시체계 고도화…우주청·해경 기술협력 강화",
-      "url": "http://www.snakorea.com/news/articleView.html?idxno=1066354",
-      "ts": 1795407900
-    },
     {
       "source": "Bloomberg",
       "title_en": "ING's Sareen: Asia AI Chip Demand Unlikely to Crash",
@@ -11504,6 +11469,41 @@
       "title_ko": "최고의 Apple Watch 블랙 프라이데이 거래: Series 12, Ultra 4 등",
       "url": "https://9to5mac.com/2026/11/23/best-apple-watch-black-friday-deals-2/",
       "ts": 1795439222
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Florida Cities Rebel Against Role in Trump Immigration Crackdown",
+      "title_ko": "플로리다주 주요 도시들, 트럼프 이민자 단속 정책에 반기",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/florida-cities-rebel-against-role-in-trump-immigration-crackdown",
+      "ts": 1795439312
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "푸틴 최측근 \"러, 핵무기 사용할 권리, 사용해야 할 의무도 있어\"",
+      "title_ko": "푸틴 최측근 \"러, 핵무기 사용할 권리, 사용해야 할 의무도 있어\"",
+      "url": "https://www.news1.kr/world/europe/6363457",
+      "ts": 1795439374
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "APPLIED DIGITAL SECURES NEW 150 MW, 18-YEAR LEASE WITH TIER-ONE INVESTMENT-GRADE HYPERSCALER, BRINGING CONTRACTED BASE-TERM REVENUE ABOVE $41 BILLION",
+      "title_ko": "Applied Digital은 Tier 1 투자 등급 하이퍼스케일러를 통해 새로운 150MW, 18년 임대 계약을 체결하여 계약 기본 수익을 410억 달러 이상으로 늘렸습니다",
+      "url": "https://t.me/firstsquaw/195196",
+      "ts": 1795439383
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BRAZIL’S REAL WEAKENS PAST 6 PER DOLLAR AS LULA SELLOFF EXTENDS",
+      "title_ko": "룰라 매도세가 확대되면서 브라질의 실질 가치는 달러당 6달러를 넘어 하락",
+      "url": "https://t.me/marketfeed/1083809",
+      "ts": 1795439398
+    },
+    {
+      "source": "WalterBloomberg",
+      "title_en": "EISENKOT: DON'T SEE IMMEDIATE IRAN THREAT REQUIRING ACTION NOW / EISENKOT: NO NEED FOR IRAN ACTION BEFORE FORMATION OF NEW GOVT",
+      "title_ko": "아이젠코트 이스라엘 장관 \"이란 즉각적 위협 없어, 새 정부 구성 전 군사 행동 불필요\"",
+      "url": "https://t.me/WalterBloomberg/38901",
+      "ts": 1795439402
     }
   ]
 }
