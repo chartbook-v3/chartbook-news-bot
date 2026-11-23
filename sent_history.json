@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795424234,
+  "updated_at": 1795424407,
   "id_hashes": [
-    "46a8b4c9fc68109e03b4d3b9dafc6571106a63c60fc8b357b3198acbaa259559",
-    "c9f2974fd7ef3b7cf0ae879a6116b3ebeb0f413558b68481131895660eedec68",
-    "da0ce71aaf68cbd9ee21761a4229862664a57f48c2c01859ecdf2a84cf953408",
-    "3ea056bc6c241efde2019d81c30178276cd41ec735973b95ca0479aab7d1f6eb",
-    "3e752ab88bb18a873ee91c6fe9563fdbfe2d97ebf835b280250f9d89ee59107b",
-    "d19e943b541fc8fd7133f6e2135657a7d7921f9acc3a6a4766122560e7e89e01",
-    "6147ed7699a4287bfbc4ff8722d923903e4f2d26fff22a3dec7ed0b2a22c9fb4",
-    "bbd26e2ab4d08fda4c85935db5037e9059465a294ca0731227ee04f62d6e8309",
-    "d1c23360ce968d683209a31b7710975b355ff4d4386f6184a93ac1c48ed09c29",
-    "dba8d0ee3ce725b519d44144316f22b976b8f2c1df48bc82d97fba2f7bcdf0bb",
-    "46fbc12352a5e02b7a8adbe55528a32bf43a5ba9363b7ff00e75f6560de948d1",
-    "872426f9b44333c6e75c54c80d19e92de583f157c5f49e270b86ac51191e2310",
     "b10d87b22c47b01a2a0fb498d13d7644659b780ab07e047b50c55af0793f4266",
     "e0a7c08efb7b17601d4b4f393e2c652d6d25cf71dc6de4ad49397b6aaff24f2e",
     "86d99767e1295550c2935dfffc5943a5ab13f04733ed4a7e7140b2c7af03df67",
@@ -4000,21 +3988,21 @@
     "d7eed2ff000b108c8b35c45e07479395138beb9ea18a15747421dab4a5ee8180",
     "7387f12ce0aae4d42337feec96531f508b649d4e5d92a5b6515322703b5b8720",
     "4ce60f4c8ced87b48d9340560db1ceabe64b84288c998e9cd86eb01fca32f771",
-    "a36fec7517588332b09aa3e9e6dc0f7bfbb081d4e489a005568d6abe503c32f5"
+    "a36fec7517588332b09aa3e9e6dc0f7bfbb081d4e489a005568d6abe503c32f5",
+    "05c647fce274c593db3b808e2911e340347300b0c119f0006a552f5b7e4e2add",
+    "5217492d0df5748459c2440db49d4a889d774801d9117383ec984b40c70b172c",
+    "83bf9948ba8b339bd9ad7a64d2f4e30f739a67aa886c46e0848509eab6241dab",
+    "b01bfed4d03712293def265a2af2841f23a6adf8c8015ac01bd434bd678297e8",
+    "1c6bca4a104fbb0c3597ca595f48f8cd6130f007df8a2dd8911a8a29e8706a2e",
+    "09818b572e5539a52f8c0c237c774cc63847844205c9c821b3ddb6851078d7f6",
+    "cc589e99de98e412eb87361a7ee507c874e8856ec19a233ec6b32d15fdaab7b1",
+    "761193d47fadbe13b2350f037d19167be4a94268d312f7587d541677eca38797",
+    "f2a3828a1c8e8fc7f2a411a34cb3760617ccd355e03c26c4e015df79d136f3d9",
+    "a416a81bd9492af6091bdc7b6e011c14ec29ea3acc2504fdcbd1f51af262e2f9",
+    "3d74e0104174c3a14fd954284bca5c682bb090f518a5c3ad67b562f24b6412cd",
+    "61d73b012cdaf0ac79e0cc379d54f80e689f0d8354f4fe285ceffb0376d8a118"
   ],
   "title_hashes": [
-    "272e29d4fb88a1a43b9f79a31baab0b3759f96040d270884fde43b428bac151d",
-    "e0826b83530df69cd6fc677e79aab2f9d57082bf71932681deb773d185314c1a",
-    "e5703c756eb82a301fb361090b2350a1a662738f566134022279ca708f31d1e3",
-    "d3290583d6e63345c7c695bc6e7fd97a7b123a61fe48d8c925231f367190b252",
-    "ae037049ceda9fc139180f35defdfbe786d51b7e222359228a6fff4e43885607",
-    "f49ee552612a741d0b379344f7ae7ab2acc58cda1eef9da8e06cf7d91588046b",
-    "172ee91e7ac0235cb6ea96567001117711a8d835bbb8e555fa11802474bb7d25",
-    "cb1ce56b92a0ea36dccbb9afeba025bad77031e39f0e893dcdb8353142b5ba1e",
-    "c50891fb248565864b8bacd9e50bd9bc55c7f9f5cf81503256c0d71cb06fd8c3",
-    "6c8bcbebb4f8999ac1b9898f1dc8827fac88db94268361751b0471cbd44b31e6",
-    "ebbc0a07271393e98a68aad5318e7f8773132db9363c4a7a68b6211044226534",
-    "3a29f0406591cc1f31764e8b4da4abe47548c32d44b9d557cf8aee05871eb40f",
     "da85160c81deeb3fffbba33fab2da2d65eea5a5cd4fbc710566a1d70d4ffb148",
     "7ad6c9bbce747a59071bd01748d541751fd5d3dce4f02f4f325d8f67a64d1f09",
     "782e2aa09c9077ef1e3ed8606855d54a08b192fca906559e3ba9c40aac39b7b6",
@@ -8002,30 +7990,21 @@
     "323078335ec353813e673abdb42b7d4ef9bbbf6f361b1582ba705de39d1bbb75",
     "d367b2f642c80eb24ff425817f666928cc6ab6e231fb452fffbeff1e316816ba",
     "8a41d6736078719a00fbc8cdee471e214f2d4cfa66fd781ec608f70da46a9286",
-    "b0050c2ce8bc640c66543624b226d54d9192f595890bd6e7f8dd597c6701050c"
+    "b0050c2ce8bc640c66543624b226d54d9192f595890bd6e7f8dd597c6701050c",
+    "c0a84d477ddf26658bc4f3f1eae3d73b934d0d8cb043fd37dec2a44c2bc8c1c1",
+    "52e3843932f0e0c55209b5d71f826e60ce089e834b50d9821e517e27e48d40d4",
+    "5f5c692600e22b31da0a3d30d98417d5010355a79dfcf33d3778e9b560059fdc",
+    "9e0d9eb01328e8fa7d7918663ea9a617a540772bf2f5b60c030a502263053746",
+    "4e22572d50ae5ecea4f2b33cc890b9512aa88c71c3f9ee61790229bd73e63c5f",
+    "c9f1a9bbaf4b7d0ce251263d43028f6ff5b63ca4d0868beb0dc53319ba87c02a",
+    "83c3767b00969954730144ea466dceb83718cb5a57a94db4069533a8dd433f93",
+    "447f154e867e76addf29c09ed802c939917ddc38f6d7080738b5c857a11c6073",
+    "daed532b5152f8402bb25362dc2ec0aad4d7520109ac89f116d8a0c040db96cc",
+    "d3826b26b8dfabb9e4406a31a26e5e9941651d0fa852c744750cca9e49092207",
+    "e76f4de247ace6f200d4776281d41f3ef9b565cae90a78c4a4d8e27e56852dca",
+    "a60b539ddb3e997f20b1d89638d7ebc3a75e7fbfeaf3b22e051aaac47e47dd9d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "조선비즈",
-      "title_en": "11월 1~20일 수출 774억달러·반도체 385억달러 모두 ‘역대 최대’",
-      "title_ko": "11월 1-20일 수출 774억달러·반도체 385억달러 모두 ‘역대 최대’",
-      "url": "https://biz.chosun.com/policy/policy_sub/2026/11/23/PAPRYCAWBBC4XB4PXTHLX6ZN3Q/",
-      "ts": 1795392999
-    },
-    {
-      "source": "전자신문",
-      "title_en": "주가 계속 떨어져도 내년 반도체 호황?…삼전닉스 한번 더 믿어보라는 전망 나왔는데",
-      "title_ko": "주가 계속 떨어져도 내년 반도체 호황?…삼전닉스 한번 더 믿어보라는 전망 나왔는데",
-      "url": "https://www.etnews.com/20261123000067",
-      "ts": 1795393049
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "현대차·기아, 신사하우스서 루크 동커볼케 사장 디자인 아카이브 전시",
-      "title_ko": "현대차·기아, 신사하우스서 루크 동커볼케 사장 디자인 아카이브 전시",
-      "url": "https://www.fnnews.com/news/202611230910131068",
-      "ts": 1795393133
-    },
     {
       "source": "뉴스1",
       "title_en": "제10회 국방품질경영상 시상식…KAI, 대통령 표창",
@@ -11504,6 +11483,27 @@
       "title_ko": "美 Fed, 내달 금리 동결 가능성 '솔솔'",
       "url": "https://www.hankyung.com/article/2026112350621",
       "ts": 1795424233
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Eric Trump-Backed Robot Startup’s Employees Lose Health Insurance After Weeks Without Pay as Company Scra",
+      "title_ko": "에릭 트럼프가 지원한 로봇 스타트업, 수주간 임금 체불에 이어 직원 건강보험까지 중단",
+      "url": "https://www.benzinga.com/news/health-care/26/11/63519551/eric-trump-backed-robot-startups-employees-lose-health-insurance-after-weeks-without-pay-as-company-scrambles-for-150-million-lifeline-report",
+      "ts": 1795424399
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "燧原科技回应e公司：在手订单充沛 正在与多家国内半导体产业伙伴进行合作",
+      "title_ko": "수이위안테크놀로지(燧原科技) \"수주 잔고 충분, 다수 국내 반도체 파트너와 협력 중\"",
+      "url": "https://wallstreetcn.com/livenews/3204095",
+      "ts": 1795424403
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "WTI原油日内跌幅达1.0%，报82.56美元/桶。",
+      "title_ko": "WTI 원유, 장중 1.0% 하락한 배럴당 82.56달러 기록",
+      "url": "https://wallstreetcn.com/livenews/3204096",
+      "ts": 1795424406
     }
   ]
 }
