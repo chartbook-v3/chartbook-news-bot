@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795433926,
+  "updated_at": 1795434083,
   "id_hashes": [
-    "7b9fcb4ef10922676469cf2e93634c8b809202bd19872f161e9871bd60bdbd52",
-    "7fad577c3e82f15ae2e14647f24bce28007a93feaed373c207e38812b8620201",
-    "4bf3df600088dda4d2a5fd112dc451e66eef953313ddde54f5428db26341064d",
-    "111d48acbc494c9f1af90a81a1b1c0c0dc70eda8a2299b17281522f79c72fa82",
     "9f9ff2761162d902e306913d86e8492a7e3decf96b1ce2e5c1c045d4494aa527",
     "27394829d1a3d49d3b98ec4ec497790c13a527f167d86cc2694116c846566d9a",
     "90d3ab8167150ab05d243589db6ad610958d154401a2d658a21a882dce496b66",
@@ -4000,13 +3996,13 @@
     "fa9ccfb485433da8a6d1bf75b26610693cb89c7aef9ef88dcddc4cebeca143e8",
     "ce1d5250253d7ee8d053577ccf78a7eb4ecf7401f86b630572afa75c00b863ca",
     "72905455e9683c9bd24c6b6a504131c36a3cf7f97e3e22d53721453d19f57f95",
-    "180496ce989009817aeec429b2eddc5a8d1b05a70f4201e9c55f66b519369770"
+    "180496ce989009817aeec429b2eddc5a8d1b05a70f4201e9c55f66b519369770",
+    "90431fdd20c628662d880ecdc7989c777b50d6de8e2ae0080dfbfb6567a4b6ad",
+    "4262c9185e45078877381a5bfad4c0d362efbf72e0a80c97c378858bf5e76efd",
+    "fe24ebdc02f28c29d68b631f49d96a199c26a862ff29d6ec6eef9bb10a8e56d9",
+    "751bafe61827007d3c7a173c6762326adf51f7cea96fc8d790a313748ede2f27"
   ],
   "title_hashes": [
-    "7965678fd98bd45e90e26bc3cb9e87e225ca1a0cbf5068d11de292dc9886eea5",
-    "e3609a6ce6338fb50e813fa547d6c2a1986bc7fc934536eef3776172e131ce43",
-    "397750878e6fb164c2bea2a4abc497d9f834892365601e64037f265f17a3f1f2",
-    "f67ff96871a42eb51a80912bf52415519aaec715a5406dcf82565ef5a27f5885",
     "9d5c88220d442362a7309a100cf50c1f7716f733c73383937f7deae69bce219b",
     "bfeb00b0d2fb54026d7bef68e198bb5db7bfe5d106021f3d487be684d92bbe8c",
     "eff7bfdd1ffadb8812f88dfc6732ab7c8b509a47de99098a8c06b27659e34fec",
@@ -8002,16 +7998,13 @@
     "f20bd769111adbb1ee47cb176eb72c79f83b2bbfdbea8ad4497c2b4ef1bb36d7",
     "2bf25a9a99c04cc39024f81fdfa1e04da63738817de732e20a36b2eb21581583",
     "79e736458f90c71077118563e9e5eeb1b310efd6e90a3d46d1ced23d710b6abe",
-    "96e24e2099c00b77df82e4a5eef3aabecff5fdb49a455874e9fc99bcc0cb1b50"
+    "96e24e2099c00b77df82e4a5eef3aabecff5fdb49a455874e9fc99bcc0cb1b50",
+    "789e867cdc01a5dde23560c90115497f4fc74f1608c0be3eca328d0442d6a42b",
+    "7b582971281ff39d377a6b2bb3c1f09063e607eb71289e6e074f7200903171e9",
+    "38c17bc8e5941718491472b806eb04cdc944e1f06a49721874ba439c226ba65b",
+    "381c87ae2ab820da5e13d870830e1ec4aca622732dbee36809f558685ea7c640"
   ],
   "recent_sent_articles": [
-    {
-      "source": "KB Think",
-      "title_en": "KAI, 경남에 1.5兆 투자한다…차세대 민항기 개발 등 투입",
-      "title_ko": "KAI, 경남에 1.5兆 투자한다…차세대 민항기 개발 등 투입",
-      "url": "https://kbthink.com/news-list/view.html?newsId=20261123110007411",
-      "ts": 1795400696
-    },
     {
       "source": "머니투데이",
       "title_en": "[속보]靑 \"올해 무역수지 흑자 규모, 3000억달러대 후반 전망\"",
@@ -11504,6 +11497,13 @@
       "title_ko": "브룩필드 애셋 매니지먼트, 블랙스톤 PGP글라스 17억 달러 인수 합의",
       "url": "https://stock.mk.co.kr/news/view/1204327",
       "ts": 1795433925
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Morning Bid: Wall Street reprieve or recovery?",
+      "title_ko": "아침 입찰: 월스트리트의 유예인가 회복인가?",
+      "url": "https://www.streetinsider.com/Reuters/Wall+Street+reprieve+or+recovery/27384009.html",
+      "ts": 1795434082
     }
   ]
 }
