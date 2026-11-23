@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795435031,
+  "updated_at": 1795435187,
   "id_hashes": [
-    "e64cf429a5aa541b5095b9832386846e546cefaabd16c758fb520c8ce503274e",
-    "56bd5bdcf5a69c2d8a86faca424f29ddf686fd76408e2939d2c75acfb22a2fc3",
-    "a6bb574285d2314ddd9284c967bf599abf8af3541ca8bb4662d28b127357d99c",
-    "f8dca31b3b212fd7fe4210328927bb6c37ec896a9d3206626843cbdb4f0460b1",
-    "ab7885e4270d97db0f56f76feba6c1c0973514f3ea5b675c0adb3436eb58579f",
-    "450049b79c5ba6872bc6545e538cb81d5e12d22dcae1dbe16349a4f365819841",
-    "4d067475f6ca426029cfec7180681d14cc04416a6d916b676f78fa8fc2e9f8e9",
-    "12595d54953a334220968a943f85207795117342cec8ecdcba62c5899a467b50",
     "0adfb5b9cb38d3518398d19690765e9f4d19fcf3412614aad4df9231662a7bc6",
     "ade4400f0d4a8323600b95919fa0ad6ca1c19dc993423a854de9632cd022aca9",
     "1e35a543f5068e15ce843e6786dc8fb54c9c449959350ff624f69b92bc459588",
@@ -4000,15 +3992,17 @@
     "60684cfb684ffff6ae7ff57cb82fcb563ad278cbe1a56593eab1ab6e085da80d",
     "a660087cf0b721c1b3e868ea656ab91e29bacec435b00cad130c3610f0be9994",
     "d4f5a9920d9d8c5c011551230c985da490ce84b262918b6fba56e22c4d8a7405",
-    "912e4d52df61058baa4b489822c1cc7cd506755b34762e5196ec9223e0d7116e"
+    "912e4d52df61058baa4b489822c1cc7cd506755b34762e5196ec9223e0d7116e",
+    "30600604d6a9d3f0e7cc60a9f1734c6c78569be146afd514611a7296541b10a3",
+    "567f4596da4612c3273cae80a810e637459a73e1e01280ea37f011da7e40f4e3",
+    "a94432248f35d18c93f4beafd35c119e0433272bb791483bdff5af4eb777996f",
+    "8498b439930b22422151d5b3a64b12522147560932f55524e6d6223dfeaf9fad",
+    "0bff11846bf4b3ebf3046fc72c18c60a6452a5efe15c5be9a6a350325e9108ac",
+    "80a64fc8a00ca9c169a331ce34acaa157a494ba57138fef99a20c3162196a108",
+    "f4d095a67557defb96b6291716a4bbb1f77e539f2b9cc3e9d6503dfda4b7c1c9",
+    "7cc64c00ddfc746afad9f2e2ed0f7d8a81e14c0411d567c84f4f8c22aaedec29"
   ],
   "title_hashes": [
-    "b080c3da2f990aaac4e9c50930a5eb63c4503b9eee5ab364c34b39820d8efa01",
-    "ac2ff253c1629a6791de2f9890f94e19029e3991090ecfa97d68c3793d763b46",
-    "50b68322a5dca7f7b6b034ade99529e9de95f5ccd2ee700fdd6931472a0a6550",
-    "81a581904f8d5efb6193fdebf402087a4516d19a2f4d918ae3a23f9ad7d1a384",
-    "326bb15880a27b87bc347804b08b9f53b68901f19f1e322dcb94152e8210bfc8",
-    "d51107b31683907f82612bfd7b2f9ab49bc08485a9ce7ceedb889fce5fe2ae60",
     "bc019a83fc9df491624718c25af19e1fbc6605780e4a31d3a397c7616135cef0",
     "b3bdfd97f8e4270c6f5fa30006bc678c0f614e0eac241df721ce39f70bcc5704",
     "9ce23f09e990f62ae9bbf6a37a8fe817407e7fb1e1c87b66d1af34a965de690b",
@@ -8002,23 +7996,15 @@
     "14bad6c19bf4b5261f57ee0aa01f6c1fd2888eefbca642ea4b877f40540d9019",
     "9e69232dd7b9c5d9982cd1c5cbac78d755ea37620744d96ea210e22d816b7f63",
     "620a9382286b5d4b52bc905f0c7cbd4aefb7d88e070b5907a381b5c475048e7a",
-    "cb87bc72db4b0687ee80a08e1c7093b48f4f7be1285e7a1a218560166dfb6619"
+    "cb87bc72db4b0687ee80a08e1c7093b48f4f7be1285e7a1a218560166dfb6619",
+    "e21b53d7f358a7001fac924d3361f5490284d6ea9221169cc93b98cec5926e85",
+    "3ba542aeebcd668a2e82952f72bddb1e69f3d9690a7205ad8d5618cfb26efe22",
+    "a698028dbcf87b6d7a14f641bd7a24ffac4e1e94f6d76876f8bef668e0783ad6",
+    "9fba7282a7741b3e499ae47dba3c49b78ca278254ca9c40ce4c2fa17a89c1596",
+    "43ce42142626fba8b90c41f4eb0b605061b883e67f84c18e6281fb35cfed5dab",
+    "246d5778ff860771657ca50513e10332b0a352314d43dad4c303e531d19e8c85"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "韩国交易所启动SIDECAR机制，暂停KOSPI程序化卖盘。",
-      "title_ko": "한국거래소, 코스피 프로그램 매도 호가 일시 효력정지(사이드카) 발동",
-      "url": "https://wallstreetcn.com/livenews/3203883",
-      "ts": 1795401392
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "오픈AI 수석과학자 \"AI 개발에 공동 제한기준 도입해야\"…올트먼도 지지",
-      "title_ko": "오픈AI 수석과학자 \"AI 개발에 공동 제한기준 도입해야\"…올트먼도 지지",
-      "url": "https://www.news1.kr/world/international-economy/6362589",
-      "ts": 1795401456
-    },
     {
       "source": "뉴스1",
       "title_en": "체코 원전 우려에 팀코리아 \"예산·기한 내 반드시 짓는다\"",
@@ -11504,6 +11490,20 @@
       "title_ko": "우크라이나 총리 \"러시아, 우크라이나 12개 지역 철도 및 에너지 시설 공습\"",
       "url": "https://t.me/firstsquaw/195187",
       "ts": 1795435029
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "$SPY $QQQ - JPMORGAN DROPS BULLISH STOCK OUTLOOK, WARNS RALLY MAY NOT LAST",
+      "title_ko": "JP모건, 증시 낙관론 철회… \"랠리 지속 불투명\" 경고",
+      "url": "https://t.me/marketfeed/1083761",
+      "ts": 1795435114
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Trump-linked American Bitcoin secures $150M credit facility backed by Bitcoin holdings",
+      "title_ko": "트럼프 연계 아메리칸 비트코인, 비트코인 담보로 1억 5,000만 달러 규모 신용 한도 확보",
+      "url": "https://seekingalpha.com/news/4675495-trump-linked-american-bitcoin-secures-150m-credit-facility-backed-by-bitcoin-holdings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795435186
     }
   ]
 }
