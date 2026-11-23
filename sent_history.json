@@ -1,29 +1,6 @@
 {
-  "updated_at": 1795443850,
+  "updated_at": 1795444005,
   "id_hashes": [
-    "621b85e8aa01dd99a44253c04093e5eb0aa735b8ed8291ad0eef4dd8d2d8d776",
-    "07b34fb39e1aee07b8b103045a84fff43a58280129cdc2a3e1914221b58c59d8",
-    "838e70a3973ef9f34419e4fdbd801739ec74ae335b626341e0636684d184a9f3",
-    "bf0588642d8a50b707445928c71eaf0467e571149d93b44984797066d9b4010b",
-    "9e6c6698f2e795a21134d533e729448ed6c61258b6c399e96fb5a41a038ae66c",
-    "e465799ed8d99940a9c58d5dbdf79982e1ef6e83157b1fca5d17908bcf0c05ce",
-    "b027a5a80472b62b18cc0f1b87722108daee7521dc58990b3bb0f9695407338e",
-    "9db9d7401859736525df10a9ba1ce4fb599649e91dce7b8064a1bee012b1c031",
-    "e73fb1738bc3f9a4960b4ecb4492f42278439f93a63f9087af42da805fd7e59f",
-    "6da25c44b8a001ecc81c2ebc650389c728257390a17355a3bfcd07247867e094",
-    "b079c00668147c71566f79440fee491122ad996928d91087ca97b7b1115fd842",
-    "935f0e6eca96ca1523c9a543f52e1117fb02883f72c18f687dd714e9f252f586",
-    "ec65dd19c0f4599e7a6c0cc55f70e298d95ea083ed0563c48f79ae4a6bc6335e",
-    "ee2f8175b7cf84f0568897ca469de4f64e410585c480ee4c7d7b2b6add059d5d",
-    "ef41b90c4f4d9a154eaabfd499797f0e585f7aff07f90132bbf987495c42358e",
-    "49ad283146371630edcf9819d2f1207d0e2d11114b1b96385e3b8958b3ef5f56",
-    "fdd997465552197097d9e8feb0e64560438f5268e4eed054cf7545525a6e219f",
-    "6058a06102ae45e2b6c8669d8c778fbd44a71a1714b6495974de42465df76353",
-    "10e7233f3fdbcdde5447857b3652f3f8e2e7f9ba9d2c520ecf17b493f48803d3",
-    "ec0cd47f910b77ddfd1a945587ff2d8f29a76a9b0798aae64af4066c4742229a",
-    "46a45647bcebffe2a8ed182795f0b3d992906cee77c9c2059deacc71a48cf748",
-    "8ce44e704ceb6e82affd178309906058709607087a50be07ad8b0c4b1bd8461e",
-    "bf52f13f7b30c1a83e2bb44097a6b9e60d5755a05b810e00be6f3b68d7a6eb96",
     "0868b7f0c19a3c90eb67ec9efd397dbd6a2c03c161e6814a7f4c65785624004a",
     "10adae0c4cda9fc616b17a8ea752c9e0ff8c30892222a369a5247f860e5e428c",
     "11d5c0f741543e03200fbd8ee25e6165ada00999878a9cfd0063217696f5767d",
@@ -4000,27 +3977,32 @@
     "49db4311b4ab01e6ac811024b6ad93e6cbf170f316a1f3487443bb269efd269b",
     "da2f22134f21d672143459dd800bc3c1fc5f4e9e3c98b692b2c5b7d55c7cead7",
     "b4a5f20628c076ce6f04b665d19924010f419270a76ba34e60e69ea42b616727",
-    "8b16d061e1ea392281c33e938bdd00a845243279f662eaa0acb337d033ed1baa"
+    "8b16d061e1ea392281c33e938bdd00a845243279f662eaa0acb337d033ed1baa",
+    "28adb6edf66db6bcae8059ee6de048326713509a46dc601d47b10b18386ebb01",
+    "1117b5c12a9eb1b983eb568dab63067b28e179c66a6da97cde59adb9cd38d14a",
+    "70ed594b8ef8444344251bc3f604e9e7790158b2be1bb5de18ec94fcdea4c321",
+    "b5b1cc05b45f619543db2d77eb3be9b551b41114d229355050a0775338cc1d1d",
+    "4939db9a33057f729e3e58f770bc3a72a0974f8f65c05a6d24a81354eda813be",
+    "16bab87e9b20c243f4e3339efe4236bef39a9cd69782cdf29e6b21b6979a0d5b",
+    "a5fde6b52cd0deb7c5e9990c3abe92af58208bd6dac6b8c92680dedc1def32cd",
+    "a2bc0ac379c84ddb62a63f78f472bf3860c1e6402bd1b4c00ad793dd5d51ad74",
+    "ec4c1e16f68751260bf0f0634d83befdec49e1eab56c6f3d08a87dcf3ffc0799",
+    "71e9aff04f1f519266b287c653ad09ca81d4c1ddd69126c7c1bcfcf43b123c0d",
+    "2fb2cb4236d3fe87e1f20efe04434d65cc0d5a9c6acb5557311b53e98c5c2b02",
+    "9fd5f3a1199b8accc1343107f66e157366933c36430c78b3d40423354eb90d57",
+    "bfce0215fa204bfd2095f874e34618baf981fc54e43a0c710396ce3b3d4f012f",
+    "40ed64c6cc6b8f5c80ab281539ffd8beb704224aa2956c2c34e79157b4c613f3",
+    "d8c85d2b1e42979136615a80c165f20d4f7a0606d4746e94ee5892f000521b28",
+    "7fab7d39d209094825f7fe7cbbb2bd90dfc7027fa765ae400e2fd0925c3136c0",
+    "436149502821c41318ef88be6592c522ca1a2df498a7b50b01776ed384bc90df",
+    "d5998dfd18175f6e92df89f11ac4f9a253a3a41c6e03b1969deba0bddb9677d2",
+    "94d01f9925a2110bce5cd30014ea16d42880ae68d0e4f29f0e08388258e91af0",
+    "0ab02362dd0279ecd4a85be7ec317e898def0740f1f78dc7beed3247dba2a96d",
+    "833a7a175224174940002286ca4147f5ac17ee90f6a1e280259e9a4f28012fb9",
+    "085947b97372904dd0594c10dfb8aff02ddefba70047272b5015489fc9b333e5",
+    "4dbb860953f8fc9efecf32df282dabdbcf86183170361a63d3b02da45f348dab"
   ],
   "title_hashes": [
-    "9860c0e29cf93f2b98bd315baa5e80024ef223f94e9785e78a4086625a43e1a2",
-    "645999d9983fc5ae0af3ccfc2e8db0743874f755196dab328a34e72da43615f4",
-    "40e83271b4902fe339fb06904d8e4ed139525c2b15ef15ea49cff9748a169f32",
-    "5ea025a6fe5102bc423a191bc612c0a91632134829e97344ec72292702f0c2e1",
-    "ebe36c630a19926a7605d51b6d2d60601f716c7e07bd32bdefc588ad10c8d9a8",
-    "47eb6d6c7371274a980f8d26bcdaf66b2cf1d91191a0b25c9032e99b5475979d",
-    "417004b709f6a3578a098471ceee10b57c69c78cbed58321f1d16d982d4de4b5",
-    "631a5812f9b9ccad5d0dd96da6fa010260ebc17a24102ced36d45938efd56a4a",
-    "7c60c68b2d213d80bb8acf24726791cd2e60a7fc90742cf30f99a9be15d01129",
-    "4c7789cfe6a783607f55270dcfa29ffa7b19cff6477fc655a768513298f17dc0",
-    "2a92d43ac48a896a44281aeeb158c5da023b52b6a1930c19789e4db188abf536",
-    "994d5349a31220fe96b12156034f2a938ab9b5ee3b5f6a01d308ac6021785105",
-    "4a8117d34d3e344237a3606b5874c1aac580f0c7a3ad2d902e5ccc5c71d05b7c",
-    "1ac61779abf61ffd10928b68392ef6a3c70af603a20704c69b29f97931ac6c65",
-    "c9d1503aae57d6a7b6735d9fb02ba12ce11a383e4e2ed4d1ced477b50464177b",
-    "1d43d01adab3f0844ef49884110fb4e3a3100f6e7a5f8d53e27e62e437d10d9a",
-    "dfb3f52490b65576be2956a6a7b4203b69e13ec57e6636305a707e7bafa538d8",
-    "9d56d15739581cd7eb959b3d7bd80ca3e2e3462f3d5111c9aa2dcf01f1d8b7b9",
     "7de2a36dc6433cc8c11f59f94dbde9a5f155172bc66610f875832d86994dae45",
     "3d499c13eab3f53c186e9ce3dfc8b11a0c8d67bb0e54d847b59fff3559e3b81e",
     "bf8ef9b1cc2c88b936fdbf984c5706a6c229efa9921455fdab7271813650e985",
@@ -8002,51 +7984,27 @@
     "183932ffd8b36e37436dd28ab69ef796a2f1d9b2f8a1fa24b04c1beeb027168d",
     "fbd96cd113174bf048935552bee8af22b1108ca41a403e0a093c9148f0f297cd",
     "7ca7c215a66c22405a753904404ce5a676d3fddaccffc3dd50e8d509588d74dc",
-    "b93506ec9581ee8742f25b0e7d76d6ff39705aa5de67ca8d375c50cdf1d16bdf"
+    "b93506ec9581ee8742f25b0e7d76d6ff39705aa5de67ca8d375c50cdf1d16bdf",
+    "d339dd61507e6a58e60259eb5b588b64ef72e71c253ddb3c2148988754c6fc40",
+    "9c4e138bb46186edec785595f919c2f6c55b2305a67316277bac6d0a2f250b23",
+    "5957c451f044fc6363d2550b35de5d3c60fb2abafb0aac5e0d038fad0c89774d",
+    "15f59a75063e4ae4e78d752b16d813554fd4dc1eba43d27d83bdb17cef45c4c0",
+    "a3d0f5ec49c06d37917d08a88b8c355bb266c9b83cffa86bf2cafa142b74f073",
+    "8cefa4ef19315a8a20d05d407c9d285306ac885bdb29eafe40c4aa1b33ab9086",
+    "2cd261dce45a0c00410ceb2f990143889b66f00aad980aa7243264337b4bc83d",
+    "d33e37873763773e820f2ca79f0599db6a939a17609f25af8189e171b73cd672",
+    "550f72cf326c6c45fb8efe009eca60cef9d35a914c1d4fc71328fe442ba7d3a2",
+    "c1f5b914767addd5620977f39f8615756f39351837e8fe2a66bdaf7d0b8fd1a7",
+    "74e29dda4e06ca0e7c3521deccb029cf1385152b8d0ece12d3dc7ce24df00d8b",
+    "06973a38e7d03483824fc59661f2e4c9917a771880b12e385ae8875ea7c65d5f",
+    "406af415992b61b543f6186c20f8e46c01a6531d46a2e4aed23686f60eed447e",
+    "f6856a3ac52e4c39c47a62b7e87a280a654fa2cefde1db58afadf4066fd14b24",
+    "544f9f193eb4bd06fc42ff6c7c732907effdbd7cef755a32f8e2ed9292ecdc37",
+    "a4c56ecfd53c7b60dca656d92ffc0923484ae1281c8d5875853511f28ae2c709",
+    "f68150acd4156a40023527026ad96e98d7e99a6de98542ed90228e40780409c2",
+    "95e83ee47392403f525698413aaf61ba740788588396fedc372d09409caaca6b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "https://x.com/MarketNews_Feed",
-      "title_ko": "https://x.com/MarketNews_Feed",
-      "url": "https://t.me/marketfeed/1083649",
-      "ts": 1795413672
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Grant Cardone Says Elon Musk Could Buy 50% of Nvidia and Bring Jensen Huang Back, Days After SpaceX CEO’s",
-      "title_ko": "그랜트 카돈 \"일론 머스크, 엔비디아 지분 50% 매입 및 젠슨 황 복귀 가능\" 주장",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63518673/grant-cardone-says-elon-musk-buy-nvidia-bring-jensen-huang-back",
-      "ts": 1795413834
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "South Korea's Lee puts forward former Justice Minister Kang Kum-sil for the intelligence director position, Blue House says.",
-      "title_ko": "이명박 대통령이 정보국장 자리에 강금실 전 법무부 장관을 내세웠다고 청와대가 밝혀",
-      "url": "https://t.me/firstsquaw/195131",
-      "ts": 1795413842
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "South Korea's Lee puts forward Lim Woong-soon, the deputy security director, for the foreign minister post, Blue House announces.",
-      "title_ko": "대통령실, 신임 외교부 장관 후보자에 임웅순 국가안보실 2차장 지명",
-      "url": "https://t.me/firstsquaw/195132",
-      "ts": 1795413865
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Trump-Xi talks set human guardrails for military AI",
-      "title_ko": "트럼프-시진핑 회담, 군사 AI에 인간 가드레일 설정",
-      "url": "https://www.digitimes.com/news/a20261123PD223/military-donald-trump-xi-jinping-chips-shenzhen.html",
-      "ts": 1795413994
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "AI stock rout puts Taiwan's tech supply chain on alert, prompting government scrutiny of capital flows",
-      "title_ko": "AI 주식 대패로 인해 대만의 기술 공급망이 경고를 받고 정부가 자본 흐름을 조사하게 되었습니다",
-      "url": "https://www.digitimes.com/news/a20261123PD224/taiwan-government-moea-stock-market-industrial-supply-chain.html",
-      "ts": 1795413998
-    },
     {
       "source": "지디넷코리아",
       "title_en": "[단독] 카카오표 모두의 AI, '톡톡'으로 선보일까",
@@ -11504,6 +11462,48 @@
       "title_ko": "Jen-Hsun Huang이 Nvidia로 돌아온 후 거래자들은 영국 은행과 유럽 중앙 은행의 금리 인상에 대한 베팅을 늘렸습니다",
       "url": "https://wallstreetcn.com/livenews/3204353",
       "ts": 1795443849
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "엔비디아, '젠슨 황 복귀' 결정…\"국가안보 위험 없어\"",
+      "title_ko": "엔비디아, '젠슨 황 복귀' 결정…\"국가안보 위험 없어\"",
+      "url": "https://zdnet.co.kr/view/?no=20261123231902",
+      "ts": 1795443875
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "NASDAQ HITS CIRCUIT BREAKER, NOW HALTED",
+      "title_ko": "나스닥, 서킷 브레이커 발동, 이제 중단",
+      "url": "https://t.me/firstsquaw/195210",
+      "ts": 1795443878
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Trump hosts crypto gala as his meme coin falls below $1",
+      "title_ko": "트럼프, 자신의 밈 코인이 1달러 아래로 떨어지자 암호화폐 갈라 행사 개최",
+      "url": "https://www.cnbc.com/2026/11/23/trump-meme-coin-gala.html",
+      "ts": 1795443936
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Texas Instruments in spotlight on back of Cantor Fitzgerald upgrade",
+      "title_ko": "Cantor Fitzgerald 업그레이드로 주목받는 Texas Instruments",
+      "url": "https://seekingalpha.com/news/4675552-texas-instruments-in-spotlight-on-back-of-cantor-fitzgerald-upgrade?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795443939
+    },
+    {
+      "source": "9to5Mac",
+      "title_en": "Apple TV announces TIMBERLAKE series coming soon",
+      "title_ko": "Apple TV, 곧 출시될 TIMBERLAKE 시리즈 발표",
+      "url": "https://9to5mac.com/2026/11/23/apple-tv-announces-timberlake-series-coming-soon/",
+      "ts": 1795444001
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Capricor Tanks 75% as Second FDA Rejection Cites Trial Data Violations",
+      "title_ko": "두 번째 FDA 거부로 시험 데이터 위반을 인용한 Capricor Tanks 75%",
+      "url": "https://www.barrons.com/articles/capricor-stock-fda-drug-rejection-732832f7",
+      "ts": 1795444004
     }
   ]
 }
