@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795410861,
+  "updated_at": 1795411015,
   "id_hashes": [
-    "b3983b1432870bb74622731c8fd901073e60e6c430f356a19ad0f2ed40893b9f",
-    "21171dd89865ca2ea050ca0f2c8c3a36f1f047a92c05c65ba7ce9283c019c6f3",
-    "c6d28a73a1e9a291d6dd629570040ed90c52f8e920664f077fb6e494ffa82b7c",
-    "4be53c3ce6aafa74d938c4bd8ee43573ac086681838fd4ac6890f3806362a621",
-    "b7e630cdf9d4e779fe5b612cef1be5996d1f579a1dd02dc8c140bb34c0408a05",
-    "8c93cdb6f9bb81d6749107dc286eeb6622aacf82bd116aa7cce166197d019593",
-    "abbf8daf943eb9c3b0330c3b7de9f70ed86f7632e097dfcdb108bc5e4f3b7f94",
-    "25cbebb94295fa661753dd7437ac40fe733c424172e46de45001c59ab5b252db",
-    "8a86c973a82540dfffe65aad044cfb4d547a2132809b178a1b233dd9324a326d",
-    "9b5fae9afa728c846890cf58cb341d9bbcd185322eba53732209bd5aef651437",
-    "7ef1e83b1751db46608b5128d460c5a25f4987453788f52c79907d2acabc3649",
-    "ff0b2e8f82e4face6b490b0fd22291b96c6a60613f3f5716d002ef844679557d",
-    "482c523db18730da09ffaf01a0ebeb230b7b8c97ab498b7990352c5ad1eea963",
-    "efa051d49694a9b938af3b292bfc4102f98c99abf87632258ee9af513c7532ab",
     "45737f9c45bbd597fecddb71fbe92a38671cf84f7d4f5876aa1f7b155565dd59",
     "e67b7a7ecebce00c032adcdf1200179489505ce72eb2ee92ab9aac2b409b3130",
     "75688baf45cf8f6ce13e34470cfe84e502de8c800d7851fe814bc70c6a5a0f74",
@@ -4000,22 +3986,23 @@
     "2f87d461de8f6b275ec799340ade4f63c9c768d3e87802419467a46290fc8517",
     "f4d987c82e7ce7f9876a9c4867595edf307df81480696be9947035df3ddfb37e",
     "40dbd4bb3bc7248690df9196763191311555c67f3cfb6c0fb95ed9a7dcae1e97",
-    "5cf5dcb90d56dca58f260286d40403fd4be61a6e7a0e8c899b0a688919f3ed6b"
+    "5cf5dcb90d56dca58f260286d40403fd4be61a6e7a0e8c899b0a688919f3ed6b",
+    "cbf282be535259cd339bd54ee1b112e535e4f7f7c5ea5495cffbd5e1051bdcd4",
+    "949147d5ca874be2b43b43879c0eb4a37999ebfce2a9e29e5fc98a0e952cdc08",
+    "396aa165c120cc7d879dd8c5c80f4d5faefbab8846e0e2100264582c1f7333f6",
+    "44ae3032cd37d95cf1ae880086f103e02422ce248ba1c6110c72e0718142df8d",
+    "9fcd7f0ea44f6ce5d1c53801f707b83e7f8e9d6bd891ed5c847aa5cd1fad38e8",
+    "bac0ebad9e9b3097260a89e64d16492d5b3c7a3b8c09342d162808516c72cb02",
+    "7c2c7c0e8dcc326899c7177e2dc0256e5a7305d098f3eec6e5950cb2ed87260e",
+    "0efb7557fe13aba9897a16c472baebf76a003abf0a95481058a7afc165487893",
+    "72e4c5cdbf765ad5cefd13c4f0b814ad794136a759e053d35934b21f1b6b9a78",
+    "a706d59434d7614e8e977b925ca64fe539d2e228b3d61861b40449077bcd8419",
+    "f18d65ba3eb7df6ce7c8a1294e50019328fe557349efb10066d955dbd63ac52d",
+    "91d4e900e487417d8d23743fc143dcef7232908840e46ec8d026cdcdf723ae6b",
+    "7fbdbda46c48f4059f78ec7dedafcc146fc38072304c27417da0c9eb0f9c882c",
+    "feb376bd3b2b8e0ed82f8bc511b495e52a56c77a7c37139bc314c340b41cb9e9"
   ],
   "title_hashes": [
-    "698709c4159a4900c0902d0e6889c557a54b9fbb5d116d9a2ab70cc1a252ac6f",
-    "0f0459b84ab08633d9bcba803265586ebf5dc3b602410a4426675e1643a3de9b",
-    "4d81416b56d1f08a1ac5a763a129987b7546c21dec01b562b00eea9f37773cba",
-    "48ed953c9375ff0f6cc4ed7b4520ce71fa5c2b832bd243f07411dd062a217e56",
-    "f8f6930e153fb860c99bdeec3d710fdd6cfa4b0a4e7304f1f4c5880a0075ece9",
-    "596384fd07d30419b9edf75ff6b083ff024ce2cec8ae51dc3c9931949c5976bc",
-    "3d914784391b4f42676711c4fe8b3de760fa7da2da1054da6ad40e7940cfed42",
-    "d033e050c402f2c9acc8d9b21a9aa6262c6a0b15667f8c664495975730e476cf",
-    "fd7d57d09e2e77c9faf5c51a1701f8f797b451002a4f018bedfec81468a9a290",
-    "18b3586c32b9607ff0a0408fa799b0e1112f94752485c7af663f78884653241e",
-    "65a4ceddda87f7d2f90f6dba74ad90c9ce340ed9596f6907577bc2d936810c87",
-    "a725bc343d5691e0a971a2ffa627b2cbb11fae55a8d75f0d6673f43c9da9996a",
-    "a9356f860bf9f45f6ba5638ee7bb9c0c557c6f80d312c28870101738b528e95d",
     "233a0766e99db9351e0d620ce3d20911de76b47106acdb2f7ada50df182c1c91",
     "e526765f0d60a06a87bb7a1847506a177720606a09cf4339375c6d24c350c408",
     "cc2b8979eca9a3eaf83765be9f968ebb1f7b6752b8cdfbd4d08773d05d10e86e",
@@ -8002,30 +7989,22 @@
     "f091e7d201306302ed114b479d3fb68e97b0363d4ae230e7708899e85cbeb4e0",
     "71b52ba68a8c375a0515646c51f54abde02d2ea9882d83a0e3c5d6949ecb0527",
     "9b784deb8a6fdd77046287eff530ecce790e1f6f9d755dfad90f7f3cbe8dad92",
-    "45c7ef2f06ccc82764d0f30a45f1608e78f7d20c218c7e0f4cc5e6f63be697d5"
+    "45c7ef2f06ccc82764d0f30a45f1608e78f7d20c218c7e0f4cc5e6f63be697d5",
+    "b389bc1769f989e3271be79e400d0d5b5f13d0cbaca60f0a8d50deefec305f85",
+    "cd7996912afd23f74f365fe1643cbf2d0a9ea9ee1a000704eff0b06f1b53ade4",
+    "691328504a32ce1f15d9464f43ba231437022dad417d0aba071a3c17889c02ee",
+    "6892e294c1dc0d7086c692ab3d4ece596f4b5b9cfa624f8085868af10a9e01b9",
+    "e6e468e7e68744539ff47459ef99a0263c1b103571937477a1ddfceecd732974",
+    "d1ed075937ce00b4cc9d9ccec5a0e2a925b31d369074b0ac8bfeb45d278c8fd4",
+    "96139725c69b27c0cf4f4c84ae4b64b4c45ff8f1e0b80706402bf8bd6264612e",
+    "e4aaeb7688acee0e98cfc7ad59db0c8900424113b0bd5b8722d26de095e331ac",
+    "d485e10a2849400c86d6ba20c131ff402205ca66a364351512bc7839b792e3dd",
+    "733e1569911f9f429ddd2dd056014a8279eb79abf4e529319cc2cf68af93a129",
+    "4c722f620dc087dfb24eeeb470c6c2b8fb87a14ef610ef62a9cf2bc91a2377cb",
+    "ddaf2009e4a70d17a8a742ae36c64d6938868b925994cfa8b364271991cf0901",
+    "611721e49ac30a0b980b2c2b60b64ce2fb4c27326ac1d238b23773b273855292"
   ],
   "recent_sent_articles": [
-    {
-      "source": "로봇신문",
-      "title_en": "中 의류 생산라인에 휴머노이드 로봇 적용 추진",
-      "title_ko": "中 의류 생산라인에 휴머노이드 로봇 적용 추진",
-      "url": "https://www.irobotnews.com/news/articleView.html?idxno=49720",
-      "ts": 1795349443
-    },
-    {
-      "source": "로봇신문",
-      "title_en": "中 아톰로봇, 위성 탑재 우주 로봇 공개",
-      "title_ko": "中 아톰로봇, 위성 탑재 우주 로봇 공개",
-      "url": "https://www.irobotnews.com/news/articleView.html?idxno=49721",
-      "ts": 1795349446
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Qatar’s Foreign Ministry: We condemn the Iranian attack on a civilian industrial facility in Bahrain and consider it a violation of its sovereignty and territorial integrity.",
-      "title_ko": "카타르 외교부 \"바레인 민간 산업시설 향한 이란 공격 규탄, 주권 및 영토 보전 침해\"",
-      "url": "https://t.me/firstsquaw/194989",
-      "ts": 1795349972
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Qatar’s Foreign Ministry: We stress the State of Qatar’s categorical rejection of attacks on economic facilities, civilian objects and civilians.",
@@ -11504,6 +11483,27 @@
       "title_ko": "오픈AI 음성 AI, 조선·건설 현장으로… 모국어로 작업 지시 듣고 질문",
       "url": "https://m.ddaily.co.kr/page/view/2026112314070256670",
       "ts": 1795410860
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "대우건설, 목동8단지 재건축 수주전 승부수…분담금 최대 6년 유예(종합)",
+      "title_ko": "대우건설, 목동8단지 재건축 수주전 승부수…분담금 최대 6년 유예(종합)",
+      "url": "https://www.news1.kr/realestate/general/6362849",
+      "ts": 1795411010
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "네이버, 청소년 로봇 대회 열어…후속 연구 환경 지원",
+      "title_ko": "네이버, 청소년 로봇 대회 열어…후속 연구 환경 지원",
+      "url": "https://www.news1.kr/it-science/internet-platform/6362875",
+      "ts": 1795411012
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "\"호르무즈해협서 피해 발생해도 관여 안 할 건가\"…국방장관 답변은",
+      "title_ko": "\"호르무즈해협서 피해 발생해도 관여 안 할 건가\"…국방장관 답변은",
+      "url": "https://www.news1.kr/videos/25454",
+      "ts": 1795411014
     }
   ]
 }
