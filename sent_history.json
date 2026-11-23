@@ -1,26 +1,6 @@
 {
-  "updated_at": 1795397196,
+  "updated_at": 1795397365,
   "id_hashes": [
-    "2047353a5a3ddb8c44c2f3be3620bd62b4fcb7cac3712403b7900ead63550cc4",
-    "509034eb2eabd8412c425a3038672f9d7720c91efe91e98b2973b529277098f2",
-    "9d9e11433158de4385e5c95e0dc2a76023bc5632dc8e00e96b6cdf63c8ed96c5",
-    "90b077643df8b9d86ce884f543087f6be983de574dbf68cce4fc91c810cfa5c7",
-    "05f83cbba2a24568eb44c93f9489bf10d2bc930c4c6be6c7a7ea3fb9e72b5b5f",
-    "245081ac78d80400819c3f1e3aa161149d6feda189e4f5dad1c293abe33d4c8a",
-    "c5038afb6aa6901fbcb32cfbcc40441f14cea086cd881469ef9492660b8976b4",
-    "25af57c0bb6eecb1d03d9e2b4fdb1baebbed18b65ad8a535dfe8d5507432408e",
-    "7fd492417574118c2aa5c448d643911bd8ad119fb7b6e7d5f6ebd08d6412c22c",
-    "bb42c865a18369077611cf87016a34b4f6a5617c64ee4ea913e5768c65741c2e",
-    "50b859e918425eb32b22aef1ad74703442ba57d793490fd3c9dc1a67620e02c1",
-    "77b0d19b085fcf151cd451096674fda578992d5aeeb8c89f1782767799c91f65",
-    "0fb6aaed8f26a963ff839c65e3ddb2ad68b2182f3b29b304d69e237e6a925d53",
-    "091e1c4f517bd78bb98e9e3142a6b4909291f4a33e2d4f99a86b38dbe012014c",
-    "08ab129b0277251013439ef9926d0958d69590498e98c53c943c0311e13e78d4",
-    "4c797c774628d65ec69f9e8df8ce0dedbc451bd177c7fecbba970f433e08f740",
-    "35ae03e063385bf3719e5c87b4c35d4667ec1849f6d41a9701653161b9bce5ee",
-    "18e009102b7293230e958dd256210aafaf183b9af2beb74fc0c656f341b9cb91",
-    "17d485a90c82ca2fc5ccc1f4434eaff425115d8b59036e5af03478ad4dff80bb",
-    "f38c2b4b9c1dbabd15bb8426b279b6fdfb8a4ba62e368a9e67ee21e0ec819e4a",
     "1f43eac8930a98329ee626499a19d1d9f9a7d5f3db1c39239e94ec03281df858",
     "4e819977f25e467727388db9397ed2feb251bdd4bd2230e962677c8e0bdd6525",
     "9c16f512c4314365ccba148485e476ba0938121cd162cb96f92c42b5ea50c9e1",
@@ -4000,23 +3980,29 @@
     "8c2a25db82f65986eec7f4da2ac0103f1e35730aacd0df0c9f3206c0be3e946b",
     "d43a56e2317e81c73cd8e0258e4643593dc798b2cfb290e280509448dbdc46e6",
     "142587efcc9ef4c9390bf7c84f77b07f1fc6e3f603a34cc515382048dc988323",
-    "83d94e1bffc39880738d83151a9203550931b33861f33500b8c9d2b1b40fd7dd"
+    "83d94e1bffc39880738d83151a9203550931b33861f33500b8c9d2b1b40fd7dd",
+    "7d724ef9b20fb24d3487e9333860827f3485f5fb7e688524bd7275c68f265217",
+    "7f660a2d5e3f564185a389c18f6e05b667867ebaa6fc95fc42aa4e57523b1acb",
+    "e4dc2607fb6d6b117a788c95a84651fb001866e2101a9514f06ef948c67968af",
+    "c186870625b88e0bcba7f3d29ecb24b914a53cc7d91784725d3a4c94074e2b64",
+    "d24618be9055681bc0efcce38315e997a221aed8e88ba72c987d60defa85bb75",
+    "86618aa564b04c96d6e6db66bd3b3ec36d0e53752ce3ab916394dd9ff7d654a8",
+    "1dd1bc7b05f659e140b47bed24c57b2e314a39a03d2b1c4660483dde3304416e",
+    "b3d5737d53c045ff9bd42eafa1fadfa04720eb94e9681bbe5b6a61744497123d",
+    "b75c42426e0f19a617248d53811aaa39ad9a03537c39635602ff058224bd80a5",
+    "1d331c190a7b57593821e7e82786875aea0f7e6454ff9d19422ea6bfa91633c6",
+    "d78564cbe0a1891afcd60db1741ac73901584e796415df2bb4ecf76c1bc0b49e",
+    "949cee5a9f292362e9bca50492606ff37f11cf0a79a418cda18889113edeb49b",
+    "222673eb0193863d9f65eaecdf857a58772efdbf9a32281008b9e23d856b2906",
+    "c34ee4e5b8ec7d380539739a02bbc15ace0d226030669556dcaced399c6944e3",
+    "734aa83385c2860902024e71ae6c9bcebaf5dc3d71645820a6883685e770c633",
+    "e78aab17b7306e52a5d58f81d0d92969e1a6500d4e5b96e79971034721b7cac2",
+    "3182162edd8ccbdc04930e55cdce9f26f5bebf12b8e3072820ef60d204226d8e",
+    "3800b4ce0cef429e0701d61df95f7bfd774b2347d27d107806c9f407e88f977b",
+    "922bcf3b2224795e94924eedd37e597cc5a93d7acd67df2155697fd6a4f6fbb4",
+    "470de1ce1c915817b81ee2944e312e9d0cc1706880a4c108d748e648bbb8aa65"
   ],
   "title_hashes": [
-    "08d00df6b3e00390475b24496cde45372b8eea1b2a8955ff66234a579d006765",
-    "c80af8def5b4155379deacc97745e7686692b260b6f8a18510d489759177a13b",
-    "302e1a441278088c527b5db6926dbd44fd0ab93564ef917b610838b7d4dae88a",
-    "934641578e4acf6905021c42dba487ea1f1bde29786379ec862663e40f1ed4e4",
-    "532bc729dba10fea900e647d2e7c579e98ce09e02cbcafbd313acab70872c5dc",
-    "133665098ef602bfb5a3a9e10075b89863bf61852f637fe3fb3191a5e40867bb",
-    "7578995c8dee5747dc16616d02fcfd4e60db950ca855e9e418c26795c4a55e83",
-    "eb0e21f59951d4ddd543abd2820d148f755dd02014afebe15299c65f1cffcd77",
-    "34d0ffb7d54ab1b3e8baf3785975fc6521c46b9f360d296963813f6230f7a067",
-    "1de2fbf98c739b9410cbde0129fa0e35faa37b2ab9979635fe7480edb4dbaba7",
-    "90effafe1631113306e333fe0a460a89550dfaa56f75a6cdb2999bcdec3864d6",
-    "17d8ace1652c5c27d334e3abefa1966fb2d68f3189e7c96d5886148de4b7ca2d",
-    "69442bc00a014f8fb05ba53d66c77d8f469fded2af86097edc75e3087f220c06",
-    "51f88738454a6fd50c4a452eb1a152803f8feac93675701cea676c735595ba0c",
     "021f1e1e7bb51656650c372e1ede00cda8dba37c4cbcd0770de017e766ddf0d0",
     "a6112a7365e2c69b016ba4bc463dedd270330b5935da1ee892debcd11e8363ea",
     "6878a3397e118eccd9b20762c6f113e6fef038b9bd78cf1d546ea32d5f0910e7",
@@ -8002,37 +7988,23 @@
     "4acdb1d2a2f13079ee04120f73cc5aead4f836cbd91948bf0fdc2b5b79d070c4",
     "78e99f9b90b014230a26c3f3468fcfa9b67c4e8a03384585c001e466a92145ca",
     "dd871c39aafcc955c72d3bf6683e269d45f5a888508117e11bd67bddec5010a0",
-    "9535d2c17bacbf4f65e155bd3df16f72d8cd4517e449a7df2aeacf0613623e86"
+    "9535d2c17bacbf4f65e155bd3df16f72d8cd4517e449a7df2aeacf0613623e86",
+    "c216ecb25f2f7d7cf7d6c582bd3967775940c2998b49040be2d99db849fa88b1",
+    "31e0d24444a6122b546a116b01a3c9d94a668ea4c7071cfdb61036529639313d",
+    "4a397470ad7a1cac8aeea8cb058c9a053e42b9b7de78ca93a2d97494258b8969",
+    "3de9b0fb2daeb23c49c3de750cf0da967ad96657cc921f0480b5ecccfcbbd5cb",
+    "4355cacb59bb6653f7145594bcf66784a13cf5f021ff41faadd0f4258daec312",
+    "9a3a8e4f8c6eebc336fabf85ee251f7f33de4c99c39880f49041e431622da94a",
+    "e0499fd9f391757dd13e09e5566a614dc3e816d75ca0c2fa1c7120e57668844e",
+    "d26d58299ece4b57b86bf20701624e9b981843385ffcd23a6b78e9ab923e79a5",
+    "935b6a0a8691fb125a42fa6b31271ac5546583a02e55016f9e905420da09d050",
+    "265312e3bee6725e5f5a259edbfa3256902587905f180b29be3667985a5855b2",
+    "5df3adc160b96f3df84c4a6f9a003d5f55846b25879b91866480611528b778ea",
+    "af9e1614929b03c04d9bcb397ab7add29c6c026b75d3b437548a456f494ae570",
+    "ecb4bda8fdbab092f8c811f19251a595e66f77e572a63a7ce1a09937d5b1f67c",
+    "a1b1911ae13a53b5d1367141797ca78b7b88060e6b4dfbaf6ec12c51fb954edd"
   ],
   "recent_sent_articles": [
-    {
-      "source": "글로벌이코노믹",
-      "title_en": "초대형 상장 두 건에 세계 IPO 시장 5년 만에 최대",
-      "title_ko": "초대형 상장 두 건에 세계 IPO 시장 5년 만에 최대",
-      "url": "https://www.g-enews.com/view.php?ud=2026112208095795089a1f309431_1",
-      "ts": 1795303204
-    },
-    {
-      "source": "X ｜ THE KOBEISSI LETTER",
-      "title_en": "Anthropic is sitting on an enormous cash pile: Anthropic's cash and cash equivalents are up to a record $237 billion following its IPO.",
-      "title_ko": "앤스로픽이 IPO 이후 현금 및 현금성 자산을 사상 최대 규모인 2,370억 달러까지 확보하며 막대한 유동성을 보유하게 됨",
-      "url": "https://x.com/KobeissiLetter/status/2124282426209775663",
-      "ts": 1795303435
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "NVDA INVESTOR ALERT",
-      "title_ko": "엔비디아($NVDA) 투자자 주의보 발령",
-      "url": "https://www.benzinga.com/pressreleases/26/11/n63441692/nvda-investor-alert-hagens-berman-updates-nvidia-corporation-nasdaq-nvda-securities-class-action-inv",
-      "ts": 1795303588
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "\"삼성전자 SK하이닉스 내년에도 웃는다\"…무디스가 전망한 이유",
-      "title_ko": "\"삼성전자 SK하이닉스 내년에도 웃는다\"…무디스가 전망한 이유",
-      "url": "https://www.fnnews.com/news/202611220802359845",
-      "ts": 1795303591
-    },
     {
       "source": "X ｜ GREG BROCKMAN (OPENAI)",
       "title_en": "OpenAI models topping the alignment benchmarks:",
@@ -11504,6 +11476,34 @@
       "title_ko": "\"6개월간 오픈AI 맡지 마라\"…앤트로픽 IPO에 월가가 반발한 이유",
       "url": "https://zdnet.co.kr/view/?no=20261123101243",
       "ts": 1795397195
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "코스피 3~4%대로 낙폭확대 4,600선…코스닥 장중 연저점 깨져",
+      "title_ko": "코스피 3-4%대로 낙폭확대 4,600선…코스닥 장중 연저점 깨져",
+      "url": "https://www.yna.co.kr/view/AKR20261123059200008",
+      "ts": 1795397218
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "효성굿스프링스, 美 원전 인증 확보…체코 등 수주 기회 모색",
+      "title_ko": "효성굿스프링스, 美 원전 인증 확보…체코 등 수주 기회 모색",
+      "url": "https://zdnet.co.kr/view/?no=20261123102212",
+      "ts": 1795397347
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Shanghai Composite set for a weak start, with futures indicating a 0.9% decline at the open.",
+      "title_ko": "상하이종합지수 약세 출발 전망, 선물 지수 개장 시 0.9% 하락 시사",
+      "url": "https://t.me/firstsquaw/195075",
+      "ts": 1795397351
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Vietnam's PetroVietnam Gas is looking to secure 1.7 million MMBtu of LNG for delivery during December 19-23.",
+      "title_ko": "베트남의 PetroVietnam Gas는 12월 19일부터 23일까지 인도할 170만 MMBtu의 LNG를 확보할 계획이다",
+      "url": "https://t.me/firstsquaw/195076",
+      "ts": 1795397362
     }
   ]
 }
