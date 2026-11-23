@@ -1,26 +1,6 @@
 {
-  "updated_at": 1795453389,
+  "updated_at": 1795453568,
   "id_hashes": [
-    "5a1de07f7ff2caa4bc419153b9b933a20e32002876bc879478c435d50132f8ac",
-    "3eb2efa5c8f5b00a461e895614bf357da492276afc2fb4b3cb33407876a82f5a",
-    "4f26372bb25442c48b98412137c5f225b9017678fa23bccd69ffe64aa84599f9",
-    "a3ed4b19861bb446016441cae3cada3123d61eadb8cb53b7e0141faccca4b052",
-    "0c56934fbabe3e9a991052046fbdbccc3e6be7944efd72c85966199bbba25820",
-    "66263bf2079e5de5834764b0b37e2bd5738de5e7db434d3f4a20fbc062bb4feb",
-    "cd6d816fce77f2bf423cb4439ecfd2abdeab6dd8f868ca968bae9a200fc927d1",
-    "a72868e54fd0bdcbcba285602ec64c43c5137381355046750c2c421830bcbdc5",
-    "65efe9788b2a41a2e1ea53ed11d6e27c279647ec8adbd73cef0ab8205262f874",
-    "7853b25605a8a7941942fd97762e99ab0c106f757c7708dc67842cd78c8f67c2",
-    "0b74a969e2650e600b6fbc548b922f1f9f1dea75800f95a7dba3f839638ee926",
-    "c942977c13dc4cd88e521ee64fa6391aba71575b10038a0f9092be71e98a1349",
-    "2befc4216e86ebc254c18549f9a79e1f7b78da31100b7e53a30a71e5c9c1d29a",
-    "d7b06b1fd10b2b759c954ae8a89e99b926a056327bb5ac5e8fde4860846e7b14",
-    "2e5b621a6855d804fa7e1285e08095fae6624aef2e489fa2552fde372ad4c89c",
-    "b2611f3483a3b5d7f5dfda7caf39b6a6bfa902805dc0b713e2d5e12f7d389412",
-    "ac5e63cc527eb98a6784f1c68f1ff2b7112e9a0ebfef49bd42cf445ffa96e2bd",
-    "571e1521b8a58d2892e9b8999030b7137ece95631abd73d0ebcdd6eca554ad6b",
-    "19e85e91cfcdaedb7084f793a4bc693f820c25e9bb4935c8b57f6b165893fd6d",
-    "1a66be1608a5609a804517a4f97c18d2ad18d430ef33038894fde0abbeae12b2",
     "c7472c5d372e6bb4e80831db00367a89048309f8b4547e2ba060919db460642b",
     "3ff94b765b33ffe6fa5a7c823edf75ed2a9280d18b422c57d1881e85aec8aee2",
     "df3e8d85323a948c04c8923f4cd67f19f5478d1462ed2a0d08ab5cd7dfff3138",
@@ -4000,26 +3980,29 @@
     "f79a8e081f86da54d4b9f7f4886f787e3e75760f9529089ed35df3b872a42ee5",
     "dc0138683fca1acb0cac7667122952d344b21a41771bfd298e5421fb87b6c0b3",
     "51f03c593621dcdeba1a2f6e037f5d5da32e702fadcc99f3566da95a2e53a876",
-    "7ee1136d9f03eda8c3d46ad08554a95874a218a50014927f57a9071068cc3f4b"
+    "7ee1136d9f03eda8c3d46ad08554a95874a218a50014927f57a9071068cc3f4b",
+    "1e1f29af5694c48da14e06ef83c526b228cdbc79600967e5389204ee51394c8f",
+    "7dedfbe22048fd6d4f42a71b34e96a9030ac03442ff2e39a2d61dc9a33501749",
+    "409bda0296dd38d01b534ede3a0936977292e1353f68fe083a9632986bc65084",
+    "12a6acbd0c79ff7210d1bbc996dd2b249999752b795bf855881f70a38e39bb6c",
+    "8cce390565dbd643b3424a7562cc46c7db8c38dc9f98370906c1bf3817cf95e9",
+    "933c10bee8a095e1a5405fb16d07158aefa706b04b640ccf016a527853c6c38a",
+    "ae4e0a738c4eb5cf39e50e578054c18c0c9af2976014e6fb4a1b19b04f749f75",
+    "f568a1a137388d1bd16805be9a14132a6ded640f9c9c63b4e5b3de171336470f",
+    "73b4e60a9f099711368a93a947d5ca78ccefcebcc2b65cb0c3e8e59561b3233c",
+    "7c0d542cdffdd0b3e2fe47575b80008f3103856da985f6d03763e161c62943b2",
+    "65c410e717e9343c9e2137afc1ae92c4da84994cff56599c52fd8241c9633712",
+    "3b166db93c0289b3b8d7b7305f48d83fd44663e069f02815e5024fc24729259d",
+    "2e7be55e43c0e407602147f9e88f3198fd34aca07d42e0021cd840a4283b0a17",
+    "9d3d457cccf5eeec262b66691b901edff22ca164b9fb8fd5831b5c55c2c79012",
+    "3fa31879d253e4b2c0d4e39968445ccf1ab650bf62781ac4c74ddb77ad742b99",
+    "18911e793cd4b5cee16a2b6cb388a11a720bfd99af7750253d8983a9ee88e8c5",
+    "8fb4d4011619a29d1cc986d938358a4a7a13a44edb7455ad64e80634f44c6fca",
+    "026f71efa45e9157d1b2a4523356445707942f597a1693225e0452cce5a500ed",
+    "de5b35c353e517d37c9450031cefeb8a8e7c3ec4e4b635a5521bd704f4c83a86",
+    "358e9b38a5522131f40e235e922987c98b1e40c22b20c949bb66c59b4b2f46be"
   ],
   "title_hashes": [
-    "45c7ef2f06ccc82764d0f30a45f1608e78f7d20c218c7e0f4cc5e6f63be697d5",
-    "b389bc1769f989e3271be79e400d0d5b5f13d0cbaca60f0a8d50deefec305f85",
-    "cd7996912afd23f74f365fe1643cbf2d0a9ea9ee1a000704eff0b06f1b53ade4",
-    "691328504a32ce1f15d9464f43ba231437022dad417d0aba071a3c17889c02ee",
-    "6892e294c1dc0d7086c692ab3d4ece596f4b5b9cfa624f8085868af10a9e01b9",
-    "e6e468e7e68744539ff47459ef99a0263c1b103571937477a1ddfceecd732974",
-    "d1ed075937ce00b4cc9d9ccec5a0e2a925b31d369074b0ac8bfeb45d278c8fd4",
-    "96139725c69b27c0cf4f4c84ae4b64b4c45ff8f1e0b80706402bf8bd6264612e",
-    "e4aaeb7688acee0e98cfc7ad59db0c8900424113b0bd5b8722d26de095e331ac",
-    "d485e10a2849400c86d6ba20c131ff402205ca66a364351512bc7839b792e3dd",
-    "733e1569911f9f429ddd2dd056014a8279eb79abf4e529319cc2cf68af93a129",
-    "4c722f620dc087dfb24eeeb470c6c2b8fb87a14ef610ef62a9cf2bc91a2377cb",
-    "ddaf2009e4a70d17a8a742ae36c64d6938868b925994cfa8b364271991cf0901",
-    "611721e49ac30a0b980b2c2b60b64ce2fb4c27326ac1d238b23773b273855292",
-    "d748e5d9fbf42dd8c0899570063fb680d4fecc22840bde6600910d92a7a0104f",
-    "a40ffbc2604a14afd47dc5fb73ee193d2b457906f6166bd1e6a981e2fcb8ad0e",
-    "06ce08aa307d4aa169e468e15917e967d89bab2ba32a12bb32142f95257c2596",
     "6533d5df44374e1601ed6427f683ae0bc356e4f73149e0e51d4e7a4cccf93477",
     "680dc2b5c2bdce1c14a58a6e2588d7078402288e4946cb7c8529af4c37d27117",
     "ad3f37bba3fdb929a8287f08d5a24f2a6829d9946d441b8d3eea63b01ebd8fe0",
@@ -8002,44 +7985,26 @@
     "4e99994e5dbe4ab59b1596b8d5f014b81711cdb2cc9b75f9388666b664fb2db2",
     "59d2602972d5446974c426a583c6f9bb3bd2d80c01a875131e4b242f64cc8b03",
     "bf81d63be70214cf9a85089a7fd53311251001e2ca7d183418f4a99a48d9d462",
-    "8c97b96a8dd5920dad340e2feecbcc52aeab7f5811a1aecc0e0cb129b776ac95"
+    "8c97b96a8dd5920dad340e2feecbcc52aeab7f5811a1aecc0e0cb129b776ac95",
+    "57a61afc930e379cfff0b390f5c4ea1965d7ccb751b5d85f151dfe8a3d9981cf",
+    "c6a297e4dda15e926c640f31976bc9e50bee9573ce24b4cc35e1be3623e3c21c",
+    "f086a932fd545ab27a61cb07c73518234d90f06dbab7aa0fe3c232157881ae49",
+    "3be488db6dfc1143d78d985c704680dfcf4471867e7356c0dcec3bd4052d6d72",
+    "e39cead57e7cae81c03eb309df3b43e3b6d92f09c3cdd586e16abc3348e73c47",
+    "c4ad1321c767f18e56e33d4f56b4835cadc6577aa6f153fd78b9b9412d535330",
+    "904e6fae137f3d0bf171620b1deddc863c795bec1e3a2233fd11242992bd1605",
+    "9dac6f0c31014040a2bb8fbd06ef7f7b9184bf13842d0a5a1c8d814764e7690e",
+    "06ca836ece9278e0b27a2472109993a94e1cdb213ed55214d9c0f82cf8f2d4ef",
+    "b19eb170ce72749039172c113f934ad537b31ca5997587ce6ad99d528ee02c8a",
+    "527928c4f0cf5719ff92fc6c4b9856aea47deee6caea09603d3963a716a9f2a6",
+    "ddc0d17b2b0c947757969c6a7d329c6c41573a88fa3e9ae7500a86d6496f919e",
+    "8301855c59972c92fc2c33112c62bc35147489bbd1e959cc8672b4e0ab86c54a",
+    "ff50fa591eefdd86c5f361fb34f072d81c97cd371e058ef90bb3851eda5469b7",
+    "bc262bfb2158ac9aaa3401e3fdde3b083cd8413915fa93eea68acde0e3933869",
+    "dff2bbef2f0cd9dc3c78c0f6079e9dd48830916e388e16f9c4e731a23336a2ad",
+    "157e5bd8078af73009148a7b04e83bbc15fe771713b60a80a73f2b1caeb2c3a8"
   ],
   "recent_sent_articles": [
-    {
-      "source": "StreetInsider",
-      "title_en": "CrowdStrike Holdings Inc. (CRWD) Tops Q3 EPS by 3c; raises forecast",
-      "title_ko": "크라우드스트라이크(CRWD), 3분기 EPS 예상치 3센트 상회…연간 가이던스 상향",
-      "url": "https://www.streetinsider.com/Earnings/CrowdStrike+Holdings+Inc.+%28CRWD%29+Tops+Q3+EPS+by+3c%3B+raises+forecast/27383636.html",
-      "ts": 1795430664
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "AM Markets: Goldman eyes rebound, Ackman flags Fed risk, and more",
-      "title_ko": "골드만삭스 \"시장 반등 전망\", 애크먼 \"연준 리스크 경고\" 외 주요 뉴스",
-      "url": "https://seekingalpha.com/news/4675481-am-markets-goldman-eyes-rebound-ackman-flags-fed-risk-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795430666
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Trump Suggests Resumption of Iran Strikes Next Year If Talks Fail",
-      "title_ko": "트럼프 \"이란과 협상 결렬 시 내년 타격 재개 시사\"",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-23/trump-suggests-resumption-of-iran-strikes-next-year-video",
-      "ts": 1795430694
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "第十二次中俄财长对话在俄罗斯莫斯科举行",
-      "title_ko": "제12차 중러 재무장관 회의 러시아 모스크바서 개최",
-      "url": "https://wallstreetcn.com/livenews/3204237",
-      "ts": 1795430915
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "'원전 확대' 전문가 불참…원전공론화위 \"일정 계획대로\"(종합)",
-      "title_ko": "'원전 확대' 전문가 불참…원전공론화위 \"일정 계획대로\"(종합)",
-      "url": "https://www.news1.kr/economy/trend/6363412",
-      "ts": 1795430977
-    },
     {
       "source": "Wccftech",
       "title_en": "Microsoft Is Removing 32-Bit App Support By Default In Windows Server 2028, But Windows 11 Remains Unaffected",
@@ -11504,6 +11469,41 @@
       "title_ko": "Grand Theft Auto 온라인은 Fortnite보다 더 많은 최대 연간 수익을 창출할 수 있어",
       "url": "https://seekingalpha.com/news/4675707-grand-theft-auto-online-may-generate-more-peak-annual-revenue-than-fortnite?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795453268
+    },
+    {
+      "source": "TechCrunch",
+      "title_en": "Jensen Huang isn’t out of the woods yet",
+      "title_ko": "Jensen Huang은 아직 숲에서 나오지 않았습니다",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+      "ts": 1795453427
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "US Sen. Scott announces the Huang hearing for December 3rd. $NVDA",
+      "title_ko": "스콧 미국 상원의원은 12월 3일 황에 대한 청문회를 발표했습니다. 엔비디아",
+      "url": "https://www.financialjuice.com/News/9864785/US-Sen-Scott-announces-the-Huang-hearing-for-December-3rd-NVDA.aspx?xy=rss",
+      "ts": 1795453490
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "AMD's top-performing Ryzen 9800X3D is down to its lowest price ever at $399 — get the fastest gaming CPU and save $80 off list price",
+      "title_ko": "AMD의 최고 성능 Ryzen 9800X3D가 사상 최저 가격인 399달러에 출시되었습니다. 가장 빠른 게이밍 CPU를 탑재하고 정가에서 80달러를 절약하세요",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amds-top-performing-ryzen-9800x3d-is-down-to-its-lowest-price-ever-at-usd399-get-the-fastest-gaming-cpu-and-save-usd80-off-list-price",
+      "ts": 1795453556
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Happydance Takes Careers Websites Beyond Chatbots with Its Latest Conversational Navigation Upgrade",
+      "title_ko": "Happydance는 최신 대화형 내비게이션 업그레이드를 통해 챗봇 이상의 채용 웹사이트를 제공합니다",
+      "url": "https://www.streetinsider.com/Newsfile/Happydance+Takes+Careers+Websites+Beyond+Chatbots+with+Its+Latest+Conversational+Navigation+Upgrade/27386436.html",
+      "ts": 1795453564
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Paradromics Advances High-Performance AI Computing for Brain-Computer Interfaces with NVIDIA",
+      "title_ko": "Paradromics는 NVIDIA를 통해 뇌-컴퓨터 인터페이스를 위한 고성능 AI 컴퓨팅을 발전시킵니다",
+      "url": "https://www.streetinsider.com/Business+Wire/Paradromics+Advances+High-Performance+AI+Computing+for+Brain-Computer+Interfaces+with+NVIDIA/27386449.html",
+      "ts": 1795453567
     }
   ]
 }
