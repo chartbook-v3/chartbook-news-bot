@@ -1,27 +1,6 @@
 {
-  "updated_at": 1795401788,
+  "updated_at": 1795401945,
   "id_hashes": [
-    "3e88696243ff92e4afe97495c3155d3af1a2ff09944c315a450a1ee5088b9002",
-    "77c32ca112bf558b60aa4cc64af208a8fc3986a077ff92c00a2df2590e71475e",
-    "f89ef7ca081d5dbb703795af7766cf4bbbd8fa7de3bab388175682e221950a6a",
-    "cfb31e203d513aa347052f6477da2f4e01369585ed9258d842403e636a7d76a9",
-    "94920f4078354404ce5be2f39a26c8563a95b3880e9042d8d9459fcbbf050d37",
-    "a8d7a6765f43d215631abc78348a3265661607e3d532577ed4b73f684a170529",
-    "f1ae6eb60981c1ebce968d874f4f442a92eeb7d6749c479e167db985a26757d4",
-    "9d4cfb8c467a0018e2b5f7d072175b4a4179d25a17a066cd4b97dce57de1c439",
-    "eedb530bb7cb2c84dbc2b93d72496a906b44160aaa621b7fff17c9c672bd6b32",
-    "ca4311e36cfe2ac094a224a99e010aadacc3c013b227df72942afadbd7c4c7c8",
-    "4c57dc742a6b38ef63b52f6b0a503ac7bc3eea8e4467f1810f6a42d99aa276ef",
-    "a59f11b609cb34b6cc6fdc3f85a65a78f7eb93e1c164c3fe75c680df82a776b5",
-    "5a779b51aa13aa5f83125e235f9be0c0e211fde546e2c933bc21b0a503cff12c",
-    "93449c940548ec9e8568abac0fc7a96ea1976c29d8495b00873c0119b8caa5a8",
-    "4f6c7b482898b145c5b55989a95cd92860b1e6173ac573b246736a016773e0bf",
-    "d1dc97baa7ac78a8bcfee97129df02dd525a7694c46891e205f540c26beb1c4d",
-    "b0b45fcb899c5fde7637ab75b5d1005da1374c784a35aec54f10a12a89c8bdce",
-    "4ddd8980fd41c1e73b2a71f3a02f45ec9ab26c1abc54ca220789839427fc959c",
-    "b15cca1b6e2eb9f98f4ec4ae0c27a68016865bc356db57442ce518656c5e79f1",
-    "f8c99525da7e3290ae52ac693342a5163095da2fea8b0cc247176e8c82ec596a",
-    "a6175f065cf88225562495982510ac8e425a82fe6ee252a0604a33c3fd3970d6",
     "4316ac8e74a2dd90422bb2e87aa35c3fc29bb3bb055c936041652af6de1f22ab",
     "5d6361537574add08587b9d07a9ae4b59813c79a03c2f689834b15d2fb14f0c9",
     "57cf31ffc9bd65ded5ea7cb9db61ed1ad8cb05a86035c69561418c106092e903",
@@ -4000,24 +3979,30 @@
     "4c776c225dbfb0a41644905190826ef221a2783bf9cfc3f1c22e1d3dcc87bc87",
     "de69e391de239b63344b05fa7d831e5edf1ed88316120d87951f62476e6927cb",
     "88d1398c4613927d33b6c8944e113ff76a002ba15e95790cd05b2b30728fc95f",
-    "49f933a20e15b513c51594cda7f2d1bcf434b5ee7d41ee551bb46187cc6dfc37"
+    "49f933a20e15b513c51594cda7f2d1bcf434b5ee7d41ee551bb46187cc6dfc37",
+    "2073932585dd80c581fea067ee2fd0dd8a7ecb6bfa67b665c3a0f797741ff51c",
+    "4282783577dc10684c0b121033d3c69c6cf97afb8f44d292c5e5d7414671bfcb",
+    "13559dbef1ca2b0babcd216af159b05816661b7c5c8a3ae7158c16060657fba4",
+    "f352edb785c6e4c8ed3a0654b72d8066c6ba8dbd9f0d6174a76762c01b1d09f7",
+    "9a401a4baa84a0dec9d20a3c7bfbd9e835466fd03087437a77d668e2c185a6c1",
+    "7c9a0ae2d991d2c0cf19ac49579dd6f47afaada005b43b538b4ae3e39b945821",
+    "d5aa44cdd22f139afb96bbcee8422e1d1c895ca9cfdde09cec4b0d921e78690a",
+    "ad1519b13635c619c50245f42295ff3dd311bf3513e970d149a474843eb9f839",
+    "61831aed644a5ed58d6a84262e830caf6dff9814ce2ad5caf4d34dc28ec69005",
+    "42e554f909086bf7f66617b39860f13d1b9654fa982194c2a1e77d96156877e7",
+    "eeaf19182be5953d5c127bf4bc85d083edf587d5e5bd4c73355b8554c5ce41c1",
+    "5f5303463c2b339d9156adda5efb3d6970d9542d9488e8e9eda833396fb934c9",
+    "399384c8298bf66d47629fe717d82f3ee8835bac541e24cbe5d436fa3dd00ff7",
+    "df367c6662ee5faa9a4cd761333a25e4296cf2939946355b4d4ee0671c68f400",
+    "a23c5875f1dc84d59f6f5d013d338263e19ef5f2949eb6859cbdd398e8e92f0d",
+    "667e561fd574275266dd45af3ae81d4f81b55635c6780a95e0ed258680661f97",
+    "88694ea8d4488111e82ad00f106915014c468cc21f6090877eabac796664c28b",
+    "68bce4be3a90b167f4b01a087aba9c90d9c35bbc568b4d0b912a18ff0a2f4089",
+    "ebf2311c753bbb7826fa51ca064f0b288faac16f94bbfee9e26c91925553db63",
+    "be6afe104072e8808fb2b3f0742e7a1eba1c556547426b8a8e343332cb0daa6b",
+    "d634daf648bb628b5832cf4d917fcfe16c29586d85ce0b792ffe4b86dcf9ed6a"
   ],
   "title_hashes": [
-    "92ca29131882c277eb589657a62a3e45ff767f55def0aa28180c0f499569bcc1",
-    "7a5369bd39dd5af742969be1838a81e2fcbba65755ff564db898654e31f4df80",
-    "ae29637df074b82c3d7ff0c3b050a2d460bb9b2433c65eca71f76ae1fe9ea935",
-    "ad7a1d4c2f39bfc13c596a8a7b455c457befda88c3cfe68b6a0686a7487d1eb7",
-    "0ae658ed25c10d857ae7721823adc2146f2f778e53f32d0f8feb27a04374b91f",
-    "6be9024dc5047e55c5f437a7246ce9b965d83e6727cf49e4c49187fb20a40c4c",
-    "05ff623c31c0ceb506863b8ac4a48e6781b44c39ade95894c3f383180c035836",
-    "7a4aa3704bad6f900be075a3f5c02cd6677b2b1cc2cf442442688eaef7dfa452",
-    "da0ddc505ef4a1d71357645f4859c69c4136a93d42bad1c22c4865b37e2e862e",
-    "34920c9c184b2b97261e76e3e7785cbd050aad63fa7732ac05beb0aed2fab1a9",
-    "03cc09a0cedef8219b9558b5a7b720b2a02235a2313e7108b7c2739f69b976e4",
-    "43dd62499d80154c1fda5e747c6de7bf9346593528e09e0623e5166e3b07ebfa",
-    "619dcab6f7434a0cfe6f41d685088a4beed7cfd740bda2b75f2a4817feb72b3c",
-    "51cb582b4245ff979b28cc7ccaeb184a7a919036e96cb9e82c751b5893c9ab25",
-    "0434dc17280c4848a3dcb32891fe1d07d9e1bd8257b7d505bf0ef923a99e6e13",
     "3f3011d619acfa7b630c7f3210414f4865196c96b4e1b45e767ad1053e52e0f5",
     "510a334ac82b70286ac83cdc157502aed2e75599a8e7682e0c8ed92b03cc61af",
     "f1401670a4f9912c2d54729eb8ff3aede6ca08396e5b53eaec9f6b7a16ec3fba",
@@ -8002,44 +7987,24 @@
     "6eaf4203978894eadee13e5bbcaece8e5fb322fc01eefb1de1ba7db958b252d6",
     "139da79b9cb6bbae8080679cbc5614c148db8fffd2ea12ba8f1eb5d0b6a7482e",
     "d03a62cf5840b988cac16d201453f60e1fd0e69ec766f705522b297bb7e8dba9",
-    "12e9723166e608d4716aca22e0e003f11bfe0c4e10e939c8188c506b13063dbc"
+    "12e9723166e608d4716aca22e0e003f11bfe0c4e10e939c8188c506b13063dbc",
+    "1c20644dfa8e1489ce1b457cc019a94ca5f44ea58ee1ee88f31e7376c11433cb",
+    "00874181e0c92047c2a48678ec97d06754f72e52726fe04831efc81dc8ec8165",
+    "fe6374dd7b074405fc79663296fa03c88f73c2d246800d2d0566d5dbd84ef782",
+    "0780995957ed5b90138c708beea4c26b38391412b2b50bcce8c23bb204a43e7d",
+    "f8a4fd0d71d2ae2ea078a6edef758946d8e3b6a2e63428f99f37f069bf7b7d3c",
+    "66760acbe47ca66c2577e24d280d2ec7b806fb131675b7001e994db81f5e59c9",
+    "7814df3bad55392ad65e2a73e1f78af8f0bbd4b4106e99bdab5f732d3f6daf23",
+    "d88691ee4ac19c74b437c44cc523c7eedd99e8abd4a6c874f111624c0bc85daa",
+    "ef50b0fc0facb95409f023dcf8dd48395075d89f3d458e6312059e9feb87fb82",
+    "75b7acb1d9bd74b35129f188b7605654617b924fb62453bca6bc8e087edccdb6",
+    "e3381a9f98eb15cb955c83fe02b23023e9c7415bdbd3d2be8b5d9696cb21bc4e",
+    "8be6f49503c27b09cc22b4bae36808bf9da7a94c73cbbea9c29612c7b367d49d",
+    "229e8fc5f29dbb08fe56942b51e5fcb42f289b0f67657eaa5bfeebcbd3d00637",
+    "81801c9ba0dc5f6b093598ab4dda3ee83f0d2bdc75bc15820838e0941c2ee6ea",
+    "7bf00b179b9f7e4eeeae9209b1ba484aee3ed0c7c9a64883ab7c93c31e82070a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WSJ",
-      "title_en": "Chip-smuggling defendant has links to Jensen Huang’s romantic partner through past professional ties",
-      "title_ko": "반도체 밀수 혐의 피고인, 과거 업무 연관성 통해 젠슨 황 엔비디아 CEO의 연인과 연결 확인",
-      "url": "https://t.me/firstsquaw/194925",
-      "ts": 1795323799
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "상표권 빼면 사실상 적자…순이익보다 상표권 수입 많은 계열사 13곳",
-      "title_ko": "상표권 빼면 사실상 적자…순이익보다 상표권 수입 많은 계열사 13곳",
-      "url": "https://www.news1.kr/economy/trend/6361960",
-      "ts": 1795324010
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "A Russian rescue vessel is currently on location, contributing to ongoing rescue operations, Finland’s Border Guard says.",
-      "title_ko": "핀란드 국경수비대 \"러시아 구조선 현장 도착, 구조 작업 동참\"",
-      "url": "https://t.me/firstsquaw/194926",
-      "ts": 1795324161
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Arabian Drilling signs a SAR 1.5 billion agreement with KJO covering two offshore vessels.",
-      "title_ko": "아라비안 드릴링, KJO와 15억 사우디 리얄 규모 해양 시추선 2척 공급 계약 체결",
-      "url": "https://t.me/firstsquaw/194929",
-      "ts": 1795324189
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Revenue and earnings contributions from the agreement are expected to begin once each vessel enters service, Arabian Drilling says.",
-      "title_ko": "아라비안 드릴링 \"각 선박 운항 개시 시점부터 계약에 따른 매출 및 이익 기여 시작 전망\"",
-      "url": "https://t.me/firstsquaw/194931",
-      "ts": 1795324259
-    },
     {
       "source": "FirstSquawk",
       "title_en": "MEDGULF confirms the award of a contract by a government body.",
@@ -11504,6 +11469,41 @@
       "title_ko": "한국 기재부 \"필요 시 증시 안정화 위한 시장 개입 준비 완료\"",
       "url": "https://t.me/firstsquaw/195089",
       "ts": 1795401787
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "SOUTH KOREA'S FINANCE MINISTER SAYS AUTHORITIES WILL TARGET ILLEGAL SHORT SELLING RATHER THAN INTRODUCE ADDITIONAL REGULATIONS",
+      "title_ko": "최상목 기재부 장관 \"추가 규제 대신 불법 공매도 엄단 방침\"",
+      "url": "https://t.me/marketfeed/1083599",
+      "ts": 1795401814
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "South Korea will keep its market stabilisation fund ready for deployment if conditions warrant, Finance Minister says.",
+      "title_ko": "한국 정부, 시장 상황 악화 시 증시 안정 펀드 즉각 투입 방침 밝혀",
+      "url": "https://t.me/firstsquaw/195091",
+      "ts": 1795401874
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "India steps up Venezuelan oil imports, reinforcing growing energy ties with the United States - NA",
+      "title_ko": "인도, 베네수엘라산 원유 수입 확대…미국과의 에너지 협력 강화",
+      "url": "https://t.me/firstsquaw/195092",
+      "ts": 1795401880
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Bisleri International reaffirms its commitment to drinking water safety, pledging full cooperation with authorities to address the issue through the appropriate channels.",
+      "title_ko": "비스레리 인터내셔널, 먹는샘물 안전 관리 강화 및 당국 조사 전면 협조 방침 밝혀",
+      "url": "https://t.me/firstsquaw/195093",
+      "ts": 1795401883
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "韩国企划财政部长官Lee Hyoung Il：无法就汇率水平置评，但如果经常账户顺差持续，汇率走势可能会更紧密地反映基本面。\n\n预计今年GDP增速将在3%区间的较高水平；从技术层面看，4%的增长也在可能范围内。\n\n稳健的...",
+      "title_ko": "이형일 기획재정부 차관보 \"환율 수준 언급 부적절하나 경상수지 흑자 지속 시 펀더멘털 반영 전망\"",
+      "url": "https://wallstreetcn.com/livenews/3203891",
+      "ts": 1795401944
     }
   ]
 }
