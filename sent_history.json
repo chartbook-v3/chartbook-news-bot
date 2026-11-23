@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795408972,
+  "updated_at": 1795409134,
   "id_hashes": [
-    "71c1cab4c9dbcc0975a4d46f193b84f6c2ba3fd32e7237adac78bcdc5ebadf53",
-    "d84dcb25f465bd46245478d15b65712ce463cc9ead102dd03396084294873e7e",
-    "5d960b53f0c0e1ed2a31b7f42a255ac047c36919156a903d5c235c7478da2ea6",
-    "37145c53a12147f2e1dae8c9a0ec69c910677328ef0212ba1d6db3e8e8519d04",
-    "78bbdf733ca33516fc4440944834fe87f49a664868f36392e067c088abbb09a1",
-    "3fe1de55d0c4ead68fd983e7e50e5422ed528338e91f19766bca55bb3d218ad7",
-    "cc9eb110b86b7c5268e872cffa0b5d34a23f60cc4fd5ab6a99fe05fa8f8ec9f4",
-    "8ccdf6449d2100c5e54ee646fa346fbdee42f31271dd991b59d53d942ab23868",
-    "e85c6a99a4d9fc47b0f32ccdb3a337a8d97605a8df2ef1172f1f5bc3c0dc58c4",
-    "6cf9772c44073d2a5d222f8d5d78252c07d357c3c0332246a1f82339b2493c0b",
-    "3ca6e1af06c239bfde49a77636da5086b8de5b1697fce828a52aec85328b2f5b",
-    "0544dff1cba3c12bc7773bb795b4c4f8307075c0191898bd3cc30c9341c2e977",
     "b8f265a41fda2aace6b147f96002a81316c078d5149950b681752013962e7881",
     "4b7beda76b2e767b6fd07c831422477cf38f2ec85a5f9be2f3ae30ca9656ef06",
     "befb1e588e7a6d02c3b4d19fcddc17176fb44332bff5c1da8e7cdd623b8cd988",
@@ -4000,19 +3988,21 @@
     "40be80149e97e6cb0fe3114d9ece832809788ebb577543f8dff06caf4408ec29",
     "d1d0d5d8bb4ba6a032d36ae3364603b4c48a6db8d4c247590fa7ed542f008bad",
     "5c189a06a83687a34ff55705e4a20f796e83a2d524bd1167e54c9ae9db91c170",
-    "b18ed2f9c9553f87ea7d22a0fc6a9469976e7c65d60a77809df8d0882282a6a1"
+    "b18ed2f9c9553f87ea7d22a0fc6a9469976e7c65d60a77809df8d0882282a6a1",
+    "420e4db9a724bfc540b962475f55b5810efff8d9af11f903c3e93505e0d3a9ff",
+    "f5e4e012d1f3d254fa2d9e7377169fb4e103fa229c3498756ed5e562412ce0ee",
+    "35eb5f5602d95db1c0580fda599f59a882c305c43322bdfed2e906e35c635827",
+    "ca334ee5a8c061f2906a8a4e28951cb3e1978876abe0a0a986b0fca3694f3178",
+    "6160c8f398cf05039da0628b7b5783069308b0ac687be88e7d6b4f3a87bc4035",
+    "07cda988dcf7b81135ede8c011d926729c734f3a692b5a103098cf51edf8bb78",
+    "3886408bcd1f0fddf470adeffdc9221b2984e0baaa03e2aef9160a1439f2283b",
+    "56f8642dac7e05d972ba888c07f37ea29c0bbfdc1be49d6c9694f80462958dd3",
+    "d64cb6b544c9c9bf793764fc2ee923ce17cd561778d5011df85ff66ad7ada788",
+    "49844fb7391ef43b0f3669d2c082c12db44fb2509d69f2445a6089116c16ad9a",
+    "fd1adc36348e984c933edff3c7fc63fde0bd13101aae33822af74dc4ffb82d22",
+    "058c7fc177112fb10c93dc6853ec00a82f240407b41184475cafc7a466332e39"
   ],
   "title_hashes": [
-    "a0d3f8e29dc5877a4ab80b893f9f277f0c923952a9332f725442a9c17300bc5c",
-    "2a0daede82e77095850dc687cf3e64965d0a1526efff8eb5f06d0f6db2cd4252",
-    "dfa88ea5692e7c803359a4e4394d21952ef196c8c6cf0f0e6df21fdaef1f07ff",
-    "7b0fc4250dd7004fb8da440205c0d3224eb71778d77a5e22d17e6dd4d53399af",
-    "186e130eb7c629bd31f11dd36148db12d0561dc4392a8d3c7243be9e96e339d4",
-    "4398349827fdf25de1e9f19f5acacdcb28ac6ee346c3f852fa3f5a344e6874df",
-    "aad95866c83241d2e02b8d8cb251b601ef96dd8fae2f1866f1e3b8edb1185541",
-    "c41a33dabb97cb8d246a7adb707be1a78f456826d67b419d8b01729f2119b177",
-    "2491163c4f9f83a61596a4425d56d43c17c0f581092c262eeac912a8071d57c5",
-    "e453cd6d135b8b42339ac82ecdbda303147ace93c43321c6b0439a25994e1131",
     "486ea4eb8c4322e33134823b0a19eeb895d4224e4c401dce02183092af6758a5",
     "436a76e8f9e3fab7aa0b7179934689574c28eb82a17ec38ba84253f8fceec646",
     "caff8a69e2357c96e9eb0e2aee4a54ca79a5308c9a77c6e27f6d249194646870",
@@ -8002,23 +7992,19 @@
     "c13cb41f14744b7ff3ac127a96560fa3b07515fd2296ca5e874f7af50ff97335",
     "9b51f7ad49b6c4a37403990a1e3af0c255b087125f338357c2237fbd5984c97a",
     "fdab4f0b656a94d1ec555f991bed74a258e99f77ce4607a9f99222a35bf0f4ca",
-    "cc6ffd45e85968a91ec9122d29db076271041c0bca6c10f7d7a838b8783a0541"
+    "cc6ffd45e85968a91ec9122d29db076271041c0bca6c10f7d7a838b8783a0541",
+    "f90c3dd3d8f873c31ea56bfa97133f6d514862b1ac73bfcd6bfd457558097b2e",
+    "f58a36680f8af9565f84442c2e9d5b3d183452c334b6d0d9e5b88223d743de5c",
+    "86d7a224e918d2850b0fc356a95a2bb2ca7e32bcb74138597b68b2ae2b7ca6f0",
+    "38ab23bd20b29a471bb8207ca31ab482eb3f8b59c004b9271b1bb4bff4d9a777",
+    "b45251fbc2e949c3803ccaae4ddd1ed303921a49f80cf8727e2570a6cc24e6c5",
+    "ff35b467e475cf8bc171d415be864336bf76d91dea0276fa74b82ebcde03f9a9",
+    "22d5bb5583466f10a4b49d4d143ecd8e5359e0085af5a88de8a660ab3b5b72ea",
+    "f6b61a78e822dd1cfc03f2a78feaaa39b1f40b98847ed1bc873cda8c2a2bce1d",
+    "21238948d29792cd8fa1ba9d863d951d49a4f31cd64623165389a6acfc9455fb",
+    "4f00602e16a3284478ea0766b412fbedff280b2e22f7b9651d7461d72ed8eedb"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "Iraqi Prime Minister: The government is moving forward with plans to extend state authority and enforce the law",
-      "title_ko": "이라크 총리 \"정부, 국가 통제력 확대 및 법 집행 계획 추진\"",
-      "url": "https://t.me/firstsquaw/194970",
-      "ts": 1795342203
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Russian Defense Ministry: 792 Ukrainian drones were shot down over the past 24 hours.",
-      "title_ko": "러시아 국방부 \"지난 24시간 동안 우크라이나 드론 792대 격추\"",
-      "url": "https://t.me/firstsquaw/194971",
-      "ts": 1795342205
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Iraqi Prime Minister: We will continue to confront encroachments on national wealth.",
@@ -11504,6 +11490,20 @@
       "title_ko": "월마트(WMT), 미국 이커머스 11분기 연속 20%대 성장…월가 목표가 상향 잇따라",
       "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=219062",
       "ts": 1795408532
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Washington leaves the possibility open for Jensen Huang to rejoin Nvidia, according to the US Treasury Secretary - SCMP",
+      "title_ko": "미 재무장관 \"젠슨 황 엔비디아 복귀 가능성 열려 있어\" - SCMP",
+      "url": "https://t.me/firstsquaw/195112",
+      "ts": 1795409003
+    },
+    {
+      "source": "전기신문",
+      "title_en": "GS건설, 데이터센터 구축 병목 푼다…통합엔지니어링 체계 구축",
+      "title_ko": "GS건설, 데이터센터 구축 병목 푼다…통합엔지니어링 체계 구축",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=375149",
+      "ts": 1795409133
     }
   ]
 }
