@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795406095,
+  "updated_at": 1795406246,
   "id_hashes": [
-    "ff22e1fbd0db908632c16605624a203ea8bc860940f9eefdb218126ca744b925",
-    "038828c86a4093fd6099efee544351142e997a4bdf6809ba64664fec8e1f5945",
-    "c139f32f8213216d9ed6374166112bf3b3a824bcc860897ddfd587a4a09f98f4",
-    "5db0039702d9dcc39508dd85635effb59b29847a1c9b956aeedcdbb7444e3986",
-    "da086d33b26143828a6dbf77de6dec9a50446291ce338631b337be4f7af5a7b0",
-    "d091600fd8cb70c30c464373acea4c2db07f5deb0b7442fa5f78e62e7552976a",
-    "ffd99583fdfefbd68011a38803f81817fcd612ac22a41d54d287de2ec65d2db0",
     "4123f99591c4d0dd304c4e22f37ef8e5c97a5c605259dc8ecd96a99e08095f80",
     "6549bb1c527e651e180c0b3a0f21311b179b10b7a40aac2828ed177d3f4e586f",
     "a327a1ff5c9339771dd4b2ed2b322cba26026f249957a8d85ee4bf34cbef4d5c",
@@ -4000,14 +3993,16 @@
     "c036b16813fe6d3edb22d9d5a61c10b4f54a57395e1e61965c363e3efdf43caf",
     "c9a11a03f9080f8180c1464c60083d09f062296dcf011d0dec405e36ebdaf94d",
     "d08eb0b46d1314ccbd6c249e744e22850658e5c133afc81b5efa5a9a34ff745f",
-    "4cd1a0e6dd89b5b474631b6174e2355b6f25d9bbb73689961c1d1e25f0ba92cf"
+    "4cd1a0e6dd89b5b474631b6174e2355b6f25d9bbb73689961c1d1e25f0ba92cf",
+    "fd23d34d252246ff220f2630b8c230c62ad6ca0e7df1558ff3df634437ba3a72",
+    "f8c767a4fdbb43d043948d99ee01dfa17629613f4a13dfcc3c066ae03ece3c87",
+    "3b92a87c359ba9f49ebfa0ee8609cd6a0f9d5548498507b1b78481a0ca81362e",
+    "5cb9cb2122b24b1fd13e5e9559cfbef1d0ffebd0cbec810974b4f63fa09dc0df",
+    "dfb1ee97f864dbdcce7ab40c225696120ae3342d7cb8b0963b24e4c81fdc2a76",
+    "1d4f0ce6dd81fabcd868b3413f38bb028bdf516ce40341ac7412118507f37d61",
+    "179cad5ffed84a72e6a0d722f00d33d89860dc6159046268c15126452ccacbc0"
   ],
   "title_hashes": [
-    "8b8224680f08d8cf36184e072d36ae1e4e4d4ce9da4e3caa7c78c4e31bf4fad6",
-    "e9ef0df23f1571e00d98c3ef85dbbeaac5aca29f489bbbf1660dc034e252aed2",
-    "5e4f8623a5d3bfa66ef9372c523b963b5ecf6a801c23603b073ab154586098c2",
-    "d001cdaa1ba82b1c1694b3124b26c2e8cfd71cea78a2e712ec2d94f4ad149df1",
-    "5f11511723e142c9e8c9fb1c5871f481511b0536762415a7b941be7fc08fd068",
     "c629a320bfc32ae96b567ed6aa4c15d1b2175a7f2668a6fb9e8226eb83710e84",
     "49f9a2ce4fb8ca9bda93abe313d2958c47d936a8dd9bc6fbb15130eeda28dfb0",
     "b51149fe995a06a9f1efd9d5e9ae0b6a958e0abc60d7fb2fd347a2d7d73ece81",
@@ -8002,23 +7997,14 @@
     "5cc22c876f18e1982fd8a5b871bc33298b7bdf593aa8557b23976a8d5b534ccc",
     "ab3bc582d821026303b6afc233c8b282f92cb0f8332f61bf99f73f73382b04ae",
     "b480d298ffc7f474acc179acbde3347df70d4ce1f4e9a2bbaa07a011a9fea68e",
-    "1a0c364c40340a420e1bdb3aec7d1f49fc16ad14126010e0c72274bc7e7f78b8"
+    "1a0c364c40340a420e1bdb3aec7d1f49fc16ad14126010e0c72274bc7e7f78b8",
+    "dffd3f15c0106d00397cd05369ff8b7012e5214d30ddc6da8cdde9a850b05a53",
+    "0f49f0ecf7ce86e9d684b5a84af721f1a8d21f9daffd03aa384097ac80848db8",
+    "427a5d01e38f6d6afa9637a0a7c163fd3f4ddb722b3f7400a30c8cb892bb1d00",
+    "fd5f32da99dea0306a857b4b2c421988ced098d357b2498f3e3d8c1fa54ef4f8",
+    "6e6832b005977e7845c3e742796978da4ebc4f4cff43e9bde0be67d8cec2f81d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "CRYPTO UPDATE: #BITCOIN 59042.00 -2.16%",
-      "title_ko": "비트코인 59042.00달러, -2.16% 하락",
-      "url": "https://t.me/marketfeed/1083410",
-      "ts": 1795333000
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "WEEKEND MARKETS UPDATE: #DAX 24714 +0.41%",
-      "title_ko": "주말 시장 업데이트: 독일 DAX 지수 24714 (+0.41%) 마감",
-      "url": "https://t.me/marketfeed/1083411",
-      "ts": 1795333024
-    },
     {
       "source": "Barron's",
       "title_en": "Nvidia and Anthropic Will Really Test the Stock Market. Only One Thing Is Certain.",
@@ -11504,6 +11490,20 @@
       "title_ko": "전기차 ‘일률 보조금’ 한계…국회예정처 “일정 예고 후 선별 지원으로 전환해야”",
       "url": "https://www.electimes.com/news/articleView.html?idxno=375114",
       "ts": 1795406094
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "US AI Chip Curbs Test Southeast Asia Data Center Boom",
+      "title_ko": "미국 AI 칩 규제, 동남아시아 데이터센터 붐 시험대 올라",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-23/us-ai-chip-curbs-test-southeast-asia-data-center-boom-video",
+      "ts": 1795406116
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Wall Street futures traded higher on Monday while Asian authorities worked to support weakening stock markets, following a broad sell-off last week in the technology and semiconductor sectors at the heart of the AI boom.",
+      "title_ko": "뉴욕증시 선물 상승 출발, 아시아 당국 증시 부양책 착수…AI 반도체 투매 여파 진정세",
+      "url": "https://t.me/firstsquaw/195103",
+      "ts": 1795406119
     }
   ]
 }
