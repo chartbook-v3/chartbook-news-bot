@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795416089,
+  "updated_at": 1795416252,
   "id_hashes": [
-    "5f877143c2258aaef69d38eb89b112197cbd836cbe3ae221001471bf8efe6997",
-    "7538ab2cd5c425f04cc62536f13cfaead32b0f9d67df0646bdc7a89c2d5a3a19",
-    "3764c699892ba1826a0f398d8b3d059cb94676224e593809333fb62d31466a20",
-    "d334ffdce12afdda2be9383313c2a78a47af60ef323c69e0a5d2114b161f752e",
-    "54cc2149566c8d83090e016ef51a29a8e9203bbee93616595f67fe64c19879c5",
-    "1bcb5174a4843b66356bb0f14ecb504217e5074fa83619ee17b14635cbe42048",
-    "f0d1d5933529fc5c18369ebafb985109a364cdebf74755bbdcaa57fa1fbc2876",
-    "46679fd4c35809317e17ee2c484edc94888e4d398bcb141430a6b4f9d27f3a32",
-    "d650beccc615cfefff6f9803339b9d6eb4d5c878c0128681ddeb605165902ceb",
-    "54abda16d1779d5814690fa3bba10239b6e718aedd5eeabd22e83743ed2f828e",
-    "a683b9cf308cdd071877c2369b695ca1323b152fd5a1e465d9f6ef0c3cd6a867",
-    "d72bb2e9d854bc3a855951b9504484b2b51ae3836e3d9f689947820d461aeef8",
-    "e571512208b4f6b927cbcc1b6add847d3ff9866a938b0d022314fa78e4062b8e",
-    "1c411a7c2420ae9268fafce072cddbdd6883cf612223a6c2aeca3346f3ce8efb",
     "2c5457c33342253bf555eae1287885713a521b6e666778acb7333a59f00e4cf6",
     "f9ef87a378d300a70f400d07123de033cfc450bcfb977aa5e65503c6aa67738d",
     "e7dfb009839c7909cc64bf30278a2bc9337b302eadd7ed7f8ed07c937c78ccda",
@@ -4000,21 +3986,23 @@
     "bfd5fe4e7fa9608c3c9190a948f31217c4235c04b55f813f7a3023d1a8d00121",
     "0c1bec79439487dd60f688d8596f910e626b8a3f0e2e606148995829cdcc9911",
     "9561bd9766d6d2bb3580e43ee3847c0539a1e355e2e4d1ecd084d08efa9e43d1",
-    "49feb74e939c43fa14c886735d1036c90252e121cec025ac26576aa4399d34c2"
+    "49feb74e939c43fa14c886735d1036c90252e121cec025ac26576aa4399d34c2",
+    "6c0bad34a4bce1a451499bd0a4eb9e39c27cec9949c982adee4b0070e03cde5f",
+    "4b2a5dfb7c38862d9d2d28131e443b59e4fd76ffde798cc303be59c3f8bd06ab",
+    "3153678f44c6681d536d3d1a3d94235b6bac8c9a24d1219c196323b69f641dd3",
+    "3a938227f137373e7ce21304d179a0048c58edb3791fb9754e942a5d686253ea",
+    "76929ffc39ff8ca54e54e66b5aae7962dc5122f6b0abc0300849b581db3c8888",
+    "4f77f2e86b6e213892e5babc31179fb5182490c02fc606a104428658b1b78a84",
+    "f39658e3323b452bfc78225a6c34485abf61111767e613e3730e81c6a4d196e6",
+    "1f204563620b66880ec523d7eb0c0bd44a3e05bad974a3c4a8375f3cdcde7cd1",
+    "a56eccbbb7a3d2da923e7801276c06de15d3f98bdf0a79bf285edcbd7642e673",
+    "170a09a0d39e7091597d24881ea9c77c445212d324ab3daf5ca2db7bcc56c5fc",
+    "a2779ce2a07af77f709f785f9fa43fe30b560d6f07b99a270b3ebd5df7c22163",
+    "645485af41696ec6d819bc9fcdf49cf6591a0aabff1c1d502fcc70cf8aafc311",
+    "b06e865b7cc5e80f7ddd62bd486f0b8d1e30529ce2e2f58f209206155c564d11",
+    "a3b01d5222d9a17569579463294b2b049ffb31212a5b27d5410c13fc9f8c24e6"
   ],
   "title_hashes": [
-    "b409f3b9d29701a38ed005df02c6562aad7cd695225a932a2dc89d786b67741d",
-    "a3bc26d80ce47ccac5eedf001e5b67a0c0e30fd784c0489b7b730c080a2d1eaa",
-    "c60beb6bf98c0db337e15db5ba015e0d703be15ee7ee46eb5fa5eb07f4e5c1a8",
-    "02ce604d9d72c6f8686095735992f6accbd0bd418d16f7e19315661598f10421",
-    "ef8635cd1932e04ca08328121728f0db45b469b99d2352a31349f8f2bb0315c3",
-    "a326ac6cc6de3346dfabf513088dd5266e909457c1925bb900482221a663aaa8",
-    "6dd44965e43b6638ba5386979e30bea67b033ec1c64e36687597f66520752431",
-    "e4ce8cc126e0ab1ba49c2eb2a418911838b6c773b5e807ef90d08740e806fc6b",
-    "46675f650a739601c3ebec7bf4df5bab73da9470b4e5cbc2ce6f4f8aaf212deb",
-    "a35c8a537239bd3226a470768d3df7c6f8231fda173ade27c291f74df0e01f95",
-    "d8095df5cedc302d90041bcc7c043b977bc2a6e90f61c7131cd99f01046453bb",
-    "a277f37e729e26aee0b406c850262cb4e47c1cd362c25723ff3d30f987070b69",
     "a177a31b165197e67d15fda535061300c36f45ff42f9a51c38127b06ebe9f446",
     "c4fee76df3388bfa4bf712c6137e9326aba83e3a6696e1e88d3cae0d2fa67623",
     "5ef41311cb3527abee3fec109a48672dd216309eb3ee72d336b1088b6aa8aa4f",
@@ -8002,44 +7990,21 @@
     "0bb25845655f613db6d64cf91d98f5b0ead3e1eb745a03aaa526c15433706f13",
     "a4323169effc65d39978c1fd76563539134a70a59c98c433215af73c646e62f6",
     "f53d15294cbdcb3a573fa755b3c4222799c63c6b7e4cc2be49166e078a46686d",
-    "a313e65610ef143255d28467ab0899458e2f6e584de956255b963ba64f70f202"
+    "a313e65610ef143255d28467ab0899458e2f6e584de956255b963ba64f70f202",
+    "09f7e0348ec87c78559967a1f7ca4c25ff468bc72a96921b120fdb3c3cdb55b0",
+    "a2f83cd09d8973601954512d7a92cf75fa4b2b96083860827cda288eb629b97f",
+    "0a17c5601e1d7bcc6ef8a01e537b713bc1759f6570cfb5b993fba346cb4013f0",
+    "fbd3f3020e76ab5f31c7c0f7a64a8b3eb1ce66b54a4ee51df8ab81d7f71eefed",
+    "b63582ab77d13a6183558aa2aec333cf12af52efa4221a80bf157d6f8fc3259e",
+    "720cb6bc97f444befb57a30d4fb4f50f588b8699c995c71daeac307aeacad99d",
+    "7a4a9cf3c2b00b679ddb8ba8240987e2782058520ed7353b115453d327008fcd",
+    "0aa83da2788011451df31bcbe3527fbf9da9e02a56f6e6b7373985c4c90ab9c9",
+    "e8346c1ec9c3205c8423e63cf4657ec1135cc668a691c775c21c936b380eeba1",
+    "73ba2c0567d0649e8c3fa3d2b8e4cfb884a83c4083ee67af9411cec87746d099",
+    "85a9871a115327a7a8e307366b375daef174fadc8e8e9c6448ce2e082c73ce64",
+    "421c7c8302b3013b7ff8360249fb1db0edd3aa00a300be2293bfe2091fccac04"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Dell and HP Enterprise Earnings in Focus as Reports Point to Server Price Hikes on Signed Deals",
-      "title_ko": "델·HP 엔터프라이즈 실적 주목…서버 계약 가격 인상 조짐 포착",
-      "url": "https://www.benzinga.com/markets/equities/26/11/63517315/dell-and-hp-enterprise-earnings-in-focus-as-reports-point-to-server-price-hikes-on-signed-deals",
-      "ts": 1795370777
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "IMF SEES ISRAEL'S ECONOMY GROWING 4.5% IN 2026 DESPITE WAR, ON TRACK TO RANK 25TH GLOBALLY",
-      "title_ko": "IMF는 전쟁에도 불구하고 2026년 이스라엘 경제가 4.5% 성장해 세계 25위를 기록할 것으로 보고 있어",
-      "url": "https://t.me/firstsquaw/195031",
-      "ts": 1795371386
-    },
-    {
-      "source": "FT",
-      "title_en": "Bessent refuses to rule out Huang’s return to Nvidia",
-      "title_ko": "베센트, 황젠순 엔비디아 복귀 가능성 배제 안 해",
-      "url": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
-      "ts": 1795371476
-    },
-    {
-      "source": "Tom's Hardware",
-      "title_en": "Give your gaming setup a serious upgrade with the Razer Basilisk V3 for half price — for just $32.99 you get 26,000 DPI sensitivity, programmable buttons, and plenty of RGB",
-      "title_ko": "레이저 바실리스크 V3 게이밍 마우스, 반값 할인 32.99달러에 판매 중",
-      "url": "https://www.tomshardware.com/pc-components/give-your-gaming-setup-a-serious-upgrade-with-the-razer-basilisk-v3-for-half-price-for-just-usd32-99-you-get-26-000-dpi-sensitivity-programmable-buttons-and-plenty-of-rgb",
-      "ts": 1795371693
-    },
-    {
-      "source": "The Information",
-      "title_en": "How Amazon Plays the Long, Expensive Data Center Game That Neoclouds Can’t",
-      "title_ko": "아마존, 신생 클라우드 기업이 따라올 수 없는 장기·고비용 데이터센터 전략 가동",
-      "url": "https://www.theinformation.com/newsletters/ai-infrastructure/amazon-plays-long-expensive-data-center-game-neoclouds",
-      "ts": 1795371852
-    },
     {
       "source": "WalterBloomberg",
       "title_en": "ANTHROPIC 2X ETFs FROM LEVERAGE SHARES: TRADING STARTS MONDAY",
@@ -11504,6 +11469,41 @@
       "title_ko": "DL케미칼, '세계 1위' 카리플렉스 매각 추진…미래 성장동력 발굴",
       "url": "https://www.news1.kr/industry/general-industry/6363028",
       "ts": 1795416088
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "SK하이닉스 윤풍영 사장, 자사주 1천500주 매입…16억원 규모",
+      "title_ko": "SK하이닉스 윤풍영 사장, 자사주 1천500주 매입…16억원 규모",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446071",
+      "ts": 1795416120
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "How Trump’s AI Chip Crackdown May Hit Southeast Asia (Video)",
+      "title_ko": "트럼프의 AI 반도체 규제, 동남아 시장 타격 가능성 제기",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-23/how-trump-s-ai-chip-crackdown-may-hit-southeast-asia-video",
+      "ts": 1795416185
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Technical issue with the NESA funding gateway under investigation, Kraken says.",
+      "title_ko": "크라켄 \"NESA 펀딩 게이트웨이 기술적 결함 발생, 조사 착수\"",
+      "url": "https://t.me/firstsquaw/195142",
+      "ts": 1795416188
+    },
+    {
+      "source": "마켓인",
+      "title_en": "[속보코스피 3.31% 내린 4708.54 마감…'블랙먼데이' 최악은 피했다",
+      "title_ko": "[속보코스피 3.31% 내린 4708.54 마감…'블랙먼데이' 최악은 피했다",
+      "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02817526645648672",
+      "ts": 1795416248
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "\"유조선 피격·전투기 날아올라\"…'불덩어리' 호르무즈 해협서 수영한 남자, 왜?",
+      "title_ko": "\"유조선 피격·전투기 날아올라\"…'불덩어리' 호르무즈 해협서 수영한 남자, 왜?",
+      "url": "https://www.news1.kr/videos/25455",
+      "ts": 1795416251
     }
   ]
 }
