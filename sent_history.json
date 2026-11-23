@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795431140,
+  "updated_at": 1795431291,
   "id_hashes": [
-    "5ce9cf4c9b854e2d43a89d584d6f93cb0a0779d46352e825e585d08dd07bd266",
-    "a89d80a747c3b145b33cc5928142817749444e7068ca047ef2b291071eeb41fe",
-    "7450a08ccd3af8e794f4f3f87151220d5059cc605f9fdf26e001be78731651e5",
-    "db0896ec8563f1c5f886e8fbd4fcd35a87ddb425f8419a9b6dd9b9270d61b3a3",
-    "620a301e22e850fcf045fdef92a4827849207577721c74a81326418bdc19c1ed",
     "8897f710196682ea5014a5d32da9baf8a828a1d1723106fa1c280d5a4ca20104",
     "70293756c3d64d4b5e4ac9d4f80cd55cfc60609c8ab4ac78682d379fba89892b",
     "de4d99c1a75eea7f02b9b171c547b9ea87f27c893e279d36a2c7a4b927f3a051",
@@ -4000,13 +3995,14 @@
     "53a1887b8615ed25cea2c698c7f9faf101e0c8900bfc505b01a8c494483322a1",
     "39de90d6315cfd4b1b74d81eacdb7c23ee82a9ac08dd599dc222535ec61e51c3",
     "6748ccd9402a1636f8fee57bcdb39a80d3a44716ca072fa393e93c9799b33aa6",
-    "9c04d11c729777a9be5d348f9a87632e54bb709ddeb60bb2e2d062c5812eafdc"
+    "9c04d11c729777a9be5d348f9a87632e54bb709ddeb60bb2e2d062c5812eafdc",
+    "912e12227e8b1d64d40a0da429b4e4ca1ccfad36e2a9a4631064355c089986d7",
+    "1f4c06c2b348e5c0f08168d13d194df3aaf334041de732f859cf0d288bf2ee83",
+    "0ea112a2cf4fa53be3e376137ae617a82dc7d62ddaa9ec6e2bb64897413583a3",
+    "e6589ebf340ee08bf1c6198010d9b5c0002d5254e27093c709b33178e9490d22",
+    "fd1858a73578848512c7c9c3202fda79c551a1858bc4d61d338e853801eda216"
   ],
   "title_hashes": [
-    "aa227d5865dc5eed7e8739473287203ebe918d6fc8ed3bca5ebf749fc3524096",
-    "7c01871baa62bc67de7a7614a25415faa386fd06f44d47f244ab6123a6e62dfc",
-    "d2a0cb66c90105b50c87140e83a8a1f2aaa0b385e0cb67a0ba6bc231a58f1371",
-    "5d56407692e412d6ad29697c826d335d039fd4b18172c1c099f6175bf828a5d3",
     "2baad0e9d3026a18f5379cc688b2849a7b0d4215d14fcbb6c3d56b10768f8ec2",
     "b0703fd3c4a0a58d48f62a097679a1ee450487fd2624ac9b0fb632dd88b31889",
     "18ceb8ab665352ebcb9ee8822e185f486f1bc8a6072059c298d67c5cf0d7c895",
@@ -8002,16 +7998,13 @@
     "5f01dca88a716c4369959d8260afaee2ea041f073984e5136175909e805f55de",
     "a44b184c2577c8276fa74268cb330ff4c10ecb1931f9f27ce646cdde123ab984",
     "de97e6133c1be53e6dc3098b919416999d09b7c2dc3451b3ac8faa826311e114",
-    "670b93808f3166b9458db8ee7515d3d309b85aed64e8367298a85bb49d804984"
+    "670b93808f3166b9458db8ee7515d3d309b85aed64e8367298a85bb49d804984",
+    "467eb475c50e1e2f6c0d18f0ffa58a4af03dab963c8ac4d63aa6699aa39649f0",
+    "d2db2d492a3f2376808b4b94beec38be5541ec6e245074baf80dac6572c3c4b0",
+    "65a7e73632c751f12fcef7883477230872a174c451eb570feb125929e22874f8",
+    "b5695d46f3d73686a6794e6a8c4c531b969c4f20c39f4655c4945dad339efacd"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Nikkei Asia",
-      "title_en": "China carmakers scale back humanoid robot ambitions",
-      "title_ko": "중국 완성차 업체들, 휴머노이드 로봇 야망 축소 및 속도 조절 착수",
-      "url": "https://asia.nikkei.com/spotlight/caixin/china-carmakers-scale-back-humanoid-robot-ambitions",
-      "ts": 1795398614
-    },
     {
       "source": "인포스탁데일리",
       "title_en": "롯데지주, 실적·지분가치 하락... 목표가↓-흥국",
@@ -11504,6 +11497,13 @@
       "title_ko": "월가 적중률 상위 애널리스트들이 지난주 추천한 5개 종목 공개",
       "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/63520536/5-stock-picks-last-week-from-wall-streets-most-accurate-analysts-44",
       "ts": 1795431139
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Latest Micron Technology Stock News | NASDAQ:MU",
+      "title_ko": "마이크론 테크놀로지(MU) 최신 뉴스 및 주가 동향",
+      "url": "https://www.benzinga.com/quote/MU/news",
+      "ts": 1795431290
     }
   ]
 }
