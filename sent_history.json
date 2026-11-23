@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795450663,
+  "updated_at": 1795450823,
   "id_hashes": [
-    "589d5187d2ac228d25b23f59fab18ea03e721a3b05220d022d3ab9fd1d1e240b",
-    "98e9685f0a01c55a78d40b8c27b1c4926cb3fec8d886a4121848115d6982fbd1",
-    "d6c24cd04a95eaf14a1cc8b0053d81cd666785e38200f5f91c4c8bac1243a1f1",
-    "54f67f56bb5d4887344cb3abb2d2709af48f7cc06d86eac4537453889572d0b3",
-    "4b1779e9198d09a07f3a01e71984f83634da159114eebf62f85070e160110fbe",
-    "e7f96372572cf26cf1458d2c03ca1a046847118ec442eb6854eb5c314679bdce",
-    "b2b33ea6e2b0738f4d9ba53d6a546dd19c3ff16feecacc85375eabc07c0fd982",
-    "457872ec3ca9f0543d08e891dcbd14edc19aa26cec3ffa192de6619eaae90ae0",
-    "2c813c1a981c91ac04292ad5f896d0b5f5222ae1aae28732d66947c7c06f0ea2",
-    "95040d1ef3f507a72641e7e11d66e5432fdc7a4fa0afa94473f1c10a29419e02",
-    "fb88dd274ffd79a47897b9949cfc0c0ae59f7aaa966e86dbf555fbf853b5e28b",
-    "850df2f674889f8fbb5f15f56e6419b54d6d86385b2be6e32702f8ec1f6fc736",
-    "4b73cb149fafa88f14bc4074fdab6c0f5295ef6890c5f65bb66b86302ccd7d7c",
-    "96e516132f853015480ef824d16791ec80f67dcc2cb6168084da0df9ac4764be",
     "39a93914d761a335d3f0193a815cb86f262c88b7707a18cdd26e0ad730392790",
     "77766a8154d0a62a5f33d8752bd56e400fff3bbca73ebd394803e56545c15818",
     "3ad3250124ca52ec1adcf72eb7d5c913d21782feb66b5167df926b840190de0c",
@@ -4000,22 +3986,23 @@
     "50c18e49f0b20f19c27d91524ea1f2da03fe77c5f8b9bd2a9696ca0cb054fb82",
     "bf6ea8f9c5d8e58c4dc8563d908319bb2b67996110758855d674ec969a30a32a",
     "e858c0667e703dc4f23f85559d6f7082776605228bd29954db8d064830747f08",
-    "dcb87a07cc766c4964b599ea8516e2bd149aff225727de9c87c4543282b9cf46"
+    "dcb87a07cc766c4964b599ea8516e2bd149aff225727de9c87c4543282b9cf46",
+    "87fc3a3e7f1ccc21472cbe9902282940ea8a618467e87f523cdbcdf0c93eaf98",
+    "d768383d47f9de6ad99665a34b009656acbf66a56a8ededd11284681d0c85e02",
+    "81a3b6ae9e00f95d0b7b75692a63b20f98202cb1653a869911088bb6ce721ebc",
+    "dede8e1a9d8048aad97186f2db91ef8b66faab90628d0cc293b426aca78d8c80",
+    "72b2ab49b56fa773e95f5d8cd567f8e768525501df76f8119b0d71fbeaf3fba4",
+    "e290b8bf9ad6b90c776250aed9bed590d6651ac944cd65d9759e2f22bc7321e3",
+    "b55784df55448bcd6d16494394bf8451b7c795311215d0c3c9a5a6e6a3ed2cbb",
+    "92c793f5900261b89d7bea0fca6127f46a6b18e220fd54049b8c1f9e2398ce3c",
+    "c0dd8db5bfe6ca50137b889fd157d9d9dbe1e4e39c51e3227573cd831b5190f9",
+    "9a164e4917bb88119fb15b09e7d41546f2e1b8f6ddec26f4cf0a51a807fcbf1f",
+    "9673a272c73cf04d6530a8f0e040e15402e2336360bc853ccaf4bc91774ecaa1",
+    "ee75085b69d977b24086ccaf2d01af2d8a392367d1c123f6e24322e4f745abab",
+    "86ff21710d6ddd139161959cfbeebede4dd131f8ddbec9522b230411503a18f0",
+    "83e0f84c0f1a2405c79a7a5885b0be2a0d16a780cce7c7f4cd4cdcb612bcd818"
   ],
   "title_hashes": [
-    "9b51f7ad49b6c4a37403990a1e3af0c255b087125f338357c2237fbd5984c97a",
-    "fdab4f0b656a94d1ec555f991bed74a258e99f77ce4607a9f99222a35bf0f4ca",
-    "cc6ffd45e85968a91ec9122d29db076271041c0bca6c10f7d7a838b8783a0541",
-    "f90c3dd3d8f873c31ea56bfa97133f6d514862b1ac73bfcd6bfd457558097b2e",
-    "f58a36680f8af9565f84442c2e9d5b3d183452c334b6d0d9e5b88223d743de5c",
-    "86d7a224e918d2850b0fc356a95a2bb2ca7e32bcb74138597b68b2ae2b7ca6f0",
-    "38ab23bd20b29a471bb8207ca31ab482eb3f8b59c004b9271b1bb4bff4d9a777",
-    "b45251fbc2e949c3803ccaae4ddd1ed303921a49f80cf8727e2570a6cc24e6c5",
-    "ff35b467e475cf8bc171d415be864336bf76d91dea0276fa74b82ebcde03f9a9",
-    "22d5bb5583466f10a4b49d4d143ecd8e5359e0085af5a88de8a660ab3b5b72ea",
-    "f6b61a78e822dd1cfc03f2a78feaaa39b1f40b98847ed1bc873cda8c2a2bce1d",
-    "21238948d29792cd8fa1ba9d863d951d49a4f31cd64623165389a6acfc9455fb",
-    "4f00602e16a3284478ea0766b412fbedff280b2e22f7b9651d7461d72ed8eedb",
     "91fa67c67040ef54a5f8372e489ba28b42449e7ef4c2312b1b780d6a033805ef",
     "10be0c870443cf2ad25338c76cf64441291d653598758df5af09692602e2d07f",
     "82f01c0229cfa959d305f2b9378ae4ce9774a225a8c4c45f00e98358cb9b69ed",
@@ -8002,37 +7989,22 @@
     "b043a0146241ea7af405bad3bd3d64cd22f60bd62f3711b7356cbd7fe316ec3f",
     "2f3bb0ae66ced5ddd7e082100d4ad95b2544e6c2bd886c047c3aaa3e94f03179",
     "31edbbd3aff4314bd2675ccdc98f57e29288c4c558ae39d606df55858b93d199",
-    "101acdc57d87f0082fa60cfb422efa0e93f1f32fbd35dc74e3a8a3ec6e434587"
+    "101acdc57d87f0082fa60cfb422efa0e93f1f32fbd35dc74e3a8a3ec6e434587",
+    "7d0c8daa3d2d625b731d27757ea430f5d517fa860700f88aed81aad8328e6479",
+    "657955eaf12cd7d2b2d5c80762afe9471fa8223cc9cbc6e7d79262c79678daff",
+    "5a5059ec083dfcbccf452338b9acebecf2c1011f55a4d67b5f81d14d2cbbc281",
+    "8e42b543d370e796bf0f9e388cf8011adc4843a86336bc6e8b02017f0928fae7",
+    "4bbf531d1e7b6253e37ce70c85f0847676d69cfae8daa7e98f695a658103598c",
+    "868d43d3d0db9c8d1d22e97b0860c1302dac68f5fe6f28af85a06339e141d4f3",
+    "cce427c65dccc1269152334a3efc666a58fb826fafe890944c0e91b9da150ec0",
+    "ac67fef3b4d7f2f9df181a3a5112f669b6d79540e46d10b150451fc97e897c20",
+    "29040f9d6b5b502797d623bd0fd5b3c6b0d1b4797448e23d9aba56f97305b210",
+    "b5899afc185ecf4a218142d6b4a754e41aedd452f903b1de6535e25affc33471",
+    "c8d2022bfe519bc088f8c9b08927adeae60446d6395ebbde953c00790241e73f",
+    "8916e3acfd5f4d54c4cfa8f66cfe3cb00da0288fedec180da589611eece084c3",
+    "3637b113a7359936d20bca25d8d99a3ff97e5f4374ad98ce403605b67b907ae0"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "台积电高管：人工智能的发展趋势维持不变。",
-      "title_ko": "TSMC 경영진 \"AI 성장세 변함없다\"",
-      "url": "https://wallstreetcn.com/livenews/3204128",
-      "ts": 1795425864
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "TSMC'S CLIFF HOU SPEAKS AT JOINT BRIEFING WITH TAIWAN CABINET",
-      "title_ko": "TSMC 클리프 허, 대만 행정원 합동 브리핑 참석",
-      "url": "https://t.me/firstsquaw/195165",
-      "ts": 1795425926
-    },
-    {
-      "source": "전기신문",
-      "title_en": "에기평, 현대차와 수전해 사업화·청정수소 육성 위해 MOU",
-      "title_ko": "에기평, 현대차와 수전해 사업화·청정수소 육성 위해 MOU",
-      "url": "https://www.electimes.com/news/articleView.html?idxno=375173",
-      "ts": 1795425988
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "迪拜考虑合并迪拜伊斯兰银行和阿联酋伊斯兰银行。",
-      "title_ko": "두바이, 두바이 이슬람 은행과 에미레이트 이슬람 은행 합병 검토",
-      "url": "https://wallstreetcn.com/livenews/3204134",
-      "ts": 1795426013
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "VNET Group GAAP EPADS of -$0.04, revenue of $442M",
@@ -11504,6 +11476,34 @@
       "title_ko": "자율주행 소프트웨어와 합병 논의에 테슬라 주가 급등",
       "url": "https://www.streetinsider.com/Investing/Tesla+shares+jump+on+self-driving+software+and+merger+talk/27386131.html",
       "ts": 1795450662
+    },
+    {
+      "source": "전자신문",
+      "title_en": "지오로봇과 미국 매사추세츠대학교 챈 의과대학 관계자들이 업무협약을 맺고 기념촬영하고 있다.",
+      "title_ko": "지오로봇과 미국 매사추세츠대학교 챈 의과대학 관계자들이 업무협약을 맺고 기념촬영하고 있다.",
+      "url": "https://www.etnews.com/tools/image_popup.html?v=bjQ5VkNYY2dLZTZMZFBUbmNzandvWmpGcjBTK1pHYm1CUVRXR0pTMldlYVZkdE5JeGJVUFVVNURJN04rbmhKTXR3bThUNHFiVkdUUTR0WjBHSmFBalhrSVpSVWF2SnJmeENSOVNiMStOUVNZSFkxSzRhNkZjKzl4RGoydlFVaHRMVjlhWEg2dVRubmlZcnpBaEFYb2NBd0tZUXJBSEFKajZMUTV4bHBMOW5rRlN5VlVjTnhKK2NzZ255K1ljTjNxNzdPeEpsZTQxNmdnMDM0cld0TUIvOXBHNEVWRGI0S3FFejFMbFpJUnpJYVZKcE5WcFYrNm9YR3I3WkNNTjN0UDN4RDZrVTUyV3VWZG1tWUhkRXpzbmpBdmNYK1hOaXZLajBGdW8yY2JNUklINS9uUHRHMmkrN28xWXczV0VwZnRZNG9YdzBKYU41T1lJdmFhYURkZDZZdjlwSVp0SGhPTW40VzlvS0ZabXB0WmxFaXcxSC9vZXFBMmZJTk1iRlZLMHE3UWR4SWY5WG1MWm5JbDdtMXd5NEpSUkNtSUcxSkN5YldWQStYMkM1Z1hRclZvNDVsMVNVS1ZwRHhqSk5OSWRzenN5Q2tzR2c5M2V3TzNQTU9mYWlJSGlyQVpMek1rRE9NdDB1TXF6ajVTQjhkZzlGOEpXbERNNUd3UDNMaWVvVVNOdElTSUNnaXNHR3RCUjdrYTFBPT0",
+      "ts": 1795450685
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "US PCE Price Index Market Reactions & Deviations - FJElite",
+      "title_ko": "미국 PCE 가격 지수 시장 반응 및 편차 - FJElite",
+      "url": "https://www.financialjuice.com/News/9864712/US-PCE-Price-Index-Market-Reactions--Deviations---FJElite.aspx?xy=rss",
+      "ts": 1795450750
+    },
+    {
+      "source": "The Verge",
+      "title_en": "Tech leaders are celebrating Jensen Huang’s return",
+      "title_ko": "기술 리더들이 Jensen Huang의 복귀를 축하하고 있어",
+      "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+      "ts": 1795450819
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "WALTER CONTROLS 36% OF GUGGENHEIM, MORE THAN PREVIOUSLY KNOWN",
+      "title_ko": "월터는 이전에 알려진 것보다 더 많은 구겐하임의 36%를 관리합니다",
+      "url": "https://t.me/firstsquaw/195233",
+      "ts": 1795450822
     }
   ]
 }
