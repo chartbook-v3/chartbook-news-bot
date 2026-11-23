@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795431764,
+  "updated_at": 1795431923,
   "id_hashes": [
-    "d2edbb2b1ad46e75331f6993bf88c07320436488a4425e011f25e61cd44c2544",
-    "f5ecfb6af49c2c698744be62676d735147e2e5c31dfe5d032a9022b34530536f",
-    "c5091964145bb724d22841d5d755480ea06d06268bfd1ec54b1bf1bbe98511f4",
-    "800f9fb7a658fec562826c254d9f9a1b4d7c72efc15c63a5abe6061e7681b066",
-    "f4d5a413ebf62c8796cc782c1af8e95a74c372aa501d8e3354e01a6d42f9389d",
-    "e1060bcd757c65356471c4e41e3ca9021a3b62f412351021d10dcadd0e6cccfe",
-    "728a68b1473df10589caf812c565f1549a2a7fe24b2b1e1459f97b2d42446462",
-    "c2c51939b1c297a75d11cc85977928477858904e739bb08e7aae9471e99ff770",
-    "5f320b523b45c37c04e08eee736275990cfb24698490c208bbc137c627e2f8f0",
-    "a79c4ef9afc408757e094160c04c632e69ddee9e923ad33d0c95096fee8eab14",
-    "44d8f9b48f43286b8e9b7adec38bc057c2377a3a7eab3bc8119c445b5cc573ab",
-    "1c9a25629b94e40f97d5805cc37a025d5bedc67ebeac0bb25fbbcc6df07f8c8f",
-    "1d22c2857e8fb3d146b854054941efcb1c049215cc52aa19fa2070a08c71798d",
     "c093a8f8e9bcb357ff9fb3dbfefdf3549a74151d6082e9a06dff6f35035cb625",
     "ae251e6f98d2327d7505a17c2713924bbbfb5ee0a88eff482e2c0e71c5de9a4a",
     "0f009fc97af85b235f99bb65edc2284d064d197563581e9fe8189b7c48667fe1",
@@ -4000,21 +3987,22 @@
     "2c9dc1255d6efeeba51bcfadf4129a34e4f7a6c894468f0b123ab9ea7493b767",
     "84e1376dc9c31e49677a0529c5419d2e1639a984623b2ab4005bc049ed95ce11",
     "7162d1d4c445a324ef4d7a05341c0dafbd82691bacbcedfe15e2aa28811eaa36",
-    "563e0320c1ceda97bd50d97640435d93aa49a8a5cd24ce91260687655cc301f8"
+    "563e0320c1ceda97bd50d97640435d93aa49a8a5cd24ce91260687655cc301f8",
+    "650c2d6f80c1370cf99b8da54a94b263e69183ca9660ba6dd5097cb5677a051b",
+    "e6eefc9c0693c96d8324125d4cfa4320ab1b75ea3774e356650cf81d05433c03",
+    "7ccc28b9d1de0ae21b439d40104ccfca8241a1fccce308f7e1d6000de51dfee3",
+    "5af0cb3db1ae843be88171891e9c5ab8a20139effa5510cc52723c67c588419e",
+    "1bfd75f7dc1e7d886268daf8bd121b0f22545c878ddce905d25e5ec0782d956a",
+    "73475b5ef5d5e16029a72b76624aa881f80dab2cb4dfc5c0c92976478092bf57",
+    "35c943932e0f67892289ab2e8a088df4aa8732ddc981182e4242cad7a8425c6f",
+    "c7ce89bdbab21f057d310a1078096302ba6042dde6327352a2913eda7e783737",
+    "73c476fed96cdc3e6ded2a84ab6829af590e21412027fbeaa30572a2d0cc7b81",
+    "e96516af59ea7827ab95d81e8e9f29c2b7e9db9e61c44b35b81465743f16b47a",
+    "d5038657151e7f0fdf48626ab054fce759ae74f1c46a8939eb92af4c53d2a2b9",
+    "c5b0174deae76734d7f1b793e25f035980327b47cb01b7b8ff2b55dd77bc0e21",
+    "d4dbf22078e4254655b8b44aef72dec99c597d54b60a46b1f28c7cc51988c026"
   ],
   "title_hashes": [
-    "e9d086d995afae495f3f6cd6b3b8328c697e3f157204e82ceb3a7052392cc136",
-    "5ba77c133c3c7db84d7265a6b6fea9117517aa9ae44ed906ccdc28557750ba4a",
-    "4e8755e083a971a28a4a032df053f9c7788b975376f6c25c5cf8c3fa657f2c44",
-    "b12fc3f392cb681b2db2ba7acbac8d64b42bfad8f124fb8e39f6c76bbdadbdf6",
-    "9b1df8a785d3713834d6797ec4a2e6d39ad6aa09f05ab9f8dcc9cd39e1c2a5f3",
-    "c16985819a9ac11514e2a9432ee680ff97c68a23f960d5048e74415c53b982b9",
-    "a46a144e3dc1d923586e791c2ba0d61573852045aabc6a3d1ee821136259c5e4",
-    "4acc50b2db4ba5d62822467207113ea6f75389f56e5eb5b0eb6709417604cc60",
-    "a1217307a4cdf0d0b15f069109f8b6f3dbd117936f0c63328758718705be7606",
-    "e20ec95412dae39645dfb18795e90667fc89ed83970b1969147f641dffa4600f",
-    "578e9d4733411bf7e3e7222f9599d64ec24d68d3178a689ce80b5142662c33b7",
-    "f2391af10926cec8970a9462e1337106080fd2c37dfcebf2dc7f3402eae6ab56",
     "d34f5566269b2af5c2b34d56542924bbbd806dc9214e6cdf985958b58dc29003",
     "18d7d4f1d7fe59422d5b61f0f74c51c34743fc9ef9dd0e696e21788588d08539",
     "b75380ff418b3d436a7bf65f8d80a8af1a45b34f5e75cce0d57290c5747edfb6",
@@ -8002,37 +7990,21 @@
     "2d4012f309c7aad70725ae4937c758c3d304f8ba9b6f86884045644b24fafde1",
     "4eda2cd3ba0e044c73e50bdf2373f767270e1d7871799779363b6a78004ace4f",
     "7f611eadf391c668de3549d512da275796e58ac6e009522c1c44df826264c61a",
-    "395df1984128c1cf00dbe45c3baf10f85f998b79c90ed6278a15e58d09f31b2f"
+    "395df1984128c1cf00dbe45c3baf10f85f998b79c90ed6278a15e58d09f31b2f",
+    "fbe363cd752753b513324357ebd50fb414b52f1ebfbd30a970e5486428194d03",
+    "2d1241a912c134f27124f2eb4c9f888e38173e063b50766dc579f59f513cc81e",
+    "979748426665eff64d7cba03efd5b267c08bb8be1a3fe292c7173538145f8aa2",
+    "0aac916d0b67f127fe3f3543f854a4e9f81cc7cfac908afa803d213556e9906f",
+    "57e0fd213a47fdc4f4667d49375e56c0e3113e1ec518f4828583b7cd6ae7fad1",
+    "fe83c5b08d83dd71b19f42e93c3f3b4fcdc114eced2367740875ed2367981b92",
+    "6160b3be1d70abc2bd0eb72171528e95949df2982dfda8f3be12f7b442f2947f",
+    "813226c510cee448cf4406072d441c58974c523b82fa87a0c3bf8e5eff49d26c",
+    "8a4cd44600cc17ab70fa1211cbf5d7ef0dbde80e0fa10291ab17124c52f02878",
+    "c0061db98a1a79578605c1f0cceb41ca0e0ccacbfc59c18fa0df7d2273a9f3e6",
+    "503192383c9f9bd8d5a94543ffb13fb7f6fcb856f9ae1a7becfc2f25a9a0b267",
+    "c67316e675c183ad95172a40096074b25a11e1338f5e16815b68292a0e45df76"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "인벤티지랩, 다발성경화증 치료제 임상1상 완료…내년 2상 추진",
-      "title_ko": "인벤티지랩, 다발성경화증 치료제 임상1상 완료…내년 2상 추진",
-      "url": "https://www.news1.kr/bio/pharmaceutical-bio/6362604",
-      "ts": 1795399070
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "KOSPI Falls as South Korea Readies Market Rescue Fund: US Futures Rise - Anthropic (NASDAQ:ANT)",
-      "title_ko": "코스피, 시장 안정화 펀드 조성 소식에도 하락… 미 선물 지수 상승·엔비디아 경쟁사 앤스로픽 주목",
-      "url": "https://www.benzinga.com/markets/equities/26/11/63518123/dow-jones-futures-jump-after-ai-rout-kospi-falls-south-korea-rescue-fund",
-      "ts": 1795399073
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Alice Huang in touch with Chinese spy agency during affair with Nvidia CEO, NYT says",
-      "title_ko": "NYT \"엔비디아 CEO와 불륜 관계였던 앨리스 황, 중국 정보기관과 접촉\"",
-      "url": "https://www.streetinsider.com/Reuters/Alice+Huang+in+touch+with+Chinese+spy+agency+during+affair+with+Nvidia+CEO%2C+NYT+says/27383115.html",
-      "ts": 1795399076
-    },
-    {
-      "source": "딜사이트",
-      "title_en": "[IPO 캘린더] [11월 넷째 주] 엠비디 코스닥 입성…이노보테라퓨틱스·마더스제약 수요예측",
-      "title_ko": "[IPO 캘린더] [11월 넷째 주] 엠비디 코스닥 입성…이노보테라퓨틱스·마더스제약 수요예측",
-      "url": "https://dealsite.co.kr/articles/173292",
-      "ts": 1795399235
-    },
     {
       "source": "아주경제",
       "title_en": "KAI, 경남 우주항공·방산에 1.5조 투자…무보, 협력사에 8200억 금융지원",
@@ -11504,6 +11476,34 @@
       "title_ko": "에벌리(Everli), 멜라(Melar)와 합병 후 나스닥 상장 및 거래 개시",
       "url": "https://www.streetinsider.com/Corporate+News/Everli+begins+trading+on+Nasdaq+after+merger+with+Melar/27383687.html",
       "ts": 1795431763
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Hyperscale Data reaffirms 2027 revenue guidance of $300M-$350M",
+      "title_ko": "하이퍼스케일 데이터, 2027년 매출 가이던스 3억-3억 5,000만 달러 재확인",
+      "url": "https://www.streetinsider.com/Corporate+News/Hyperscale+Data+reaffirms+2027+revenue+guidance+of+%24300M-%24350M/27383688.html",
+      "ts": 1795431786
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "BofA Securities Reiterates Buy Rating on NVIDIA (NVDA)",
+      "title_ko": "BofA, 엔비디아(NVDA)에 대해 '매수' 의견 재확인",
+      "url": "https://www.streetinsider.com/Analyst+Comments/BofA+Securities+Reiterates+Buy+Rating+on+NVIDIA+%28NVDA%29/27383686.html",
+      "ts": 1795431795
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "TEXAS PACIFIC LAND TO BUY EAGLEROCK IN STOCK DEAL AT ~$3B VALUE",
+      "title_ko": "텍사스 퍼시픽 랜드, 이글락 약 30억 달러 규모 주식 교환 인수 합의",
+      "url": "https://t.me/firstsquaw/195183",
+      "ts": 1795431850
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "Homelabber's $3,500 build straps four 32GB Nvidia V100s to a Lenovo mini PC for 128GB of VRAM — coreboot, OCuLink docks, and a solder bridge unlock 285 tokens/sec in Qwen3.8-27B",
+      "title_ko": "레노버 미니 PC에 엔비디아 V100 4개 장착해 VRAM 128GB 구현, Qwen2.5-7B서 285 tokens/sec 속도 달성",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabbers-usd3-500-build-straps-four-32gb-nvidia-v100s-to-a-lenovo-mini-pc-for-128gb-of-vram-coreboot-oculink-docks-and-a-solder-bridge-unlock-285-tokens-sec-in-qwen3-8-27b",
+      "ts": 1795431922
     }
   ]
 }
