@@ -1,25 +1,6 @@
 {
-  "updated_at": 1795410707,
+  "updated_at": 1795410861,
   "id_hashes": [
-    "4b9130ab6668162b1f144418bafcc465d6805f5db602e46a57c16c54a55c9cf6",
-    "ea76f7d238058a9685d40258bfe4b3158ca8d908ca8991518ae1dd9385157438",
-    "0949f24244e9b917a0fab33af4a8d7c2082b1ae97994da6f9c79113c57eba41d",
-    "c8383d9ec86adcaf1aba216279744b69108e87f58dd32f2f73867575ddd3af7b",
-    "f6fd768fd73f45936a7d917f206a5f6271014029b5b9d8d7ba9ae51ebe2c93d8",
-    "913548b6ac9b21e7dc4e2bf8437dd668f722c0c726c1e8dd123d11b51ac4d066",
-    "ff950f4aecd77cac9f472931af94b74ecd36843e7d79d3b626abe586a41eab3d",
-    "0030bc1e8a5c93c5b4a125407ce97ce0a4e26ad2d80f8c2ca604299f7c8dbf4e",
-    "8e08a09cfb1851375605ee33ad4947a879c546805780a643bef23663cca75af9",
-    "a54670fdcfa61c373ac917f2b0724d392f035e2eacb421a85f603f01e2d7947d",
-    "e58e23470101dd9c558ff90f42aa06d4cf5bcde05138e3dace34acde7ae894cd",
-    "c9d16cbdedebab0e89b839de8e471e71c121f301809b20813d8dff5d87f28891",
-    "5d2074689d044ba94017f31f94fafaa90478e8294afc20912330721e3e1d2304",
-    "6f0b14ff603f106ec872e09fd63bab01248b96fd0ee453c2ac9718c4d78bd5f9",
-    "0c6c349260f70737fb4c93f1ca3d3ef6f7afe2993476b1092f2bcd5edd3d638c",
-    "f24bbb8d41e0dc5389d46fc4c62c34af6d749d55c12212b8a180a968062ce3d3",
-    "39e1c65318fd3af73ba5e2bd7bbb043aabef46b40edc0a71303c7f9176d944dc",
-    "d44314f8cbf6bcd272976e625c84335abf3faf163dbf2a699204348373858938",
-    "a94e0ec8c469fdc44157a108d487d68d495aa9e14788ba69a927da6be57e1562",
     "b3983b1432870bb74622731c8fd901073e60e6c430f356a19ad0f2ed40893b9f",
     "21171dd89865ca2ea050ca0f2c8c3a36f1f047a92c05c65ba7ce9283c019c6f3",
     "c6d28a73a1e9a291d6dd629570040ed90c52f8e920664f077fb6e494ffa82b7c",
@@ -4000,27 +3981,28 @@
     "56360c2548716c1f45130eaf0906bd060740f45c26871092ca9ca66137a2e665",
     "3dfc0158fbb616111ee973b48ce9246b49a798fdb5507bdecce72e15e8e5db14",
     "3e20b3bedfe8f3ee0dcf07d45c6f9c36b47ceceffac2d4b971d82c895e73c233",
-    "0b93abf0a04e10ab8c437bd099acf4d4302ecb5a280bf88ece69e4ed3c533445"
+    "0b93abf0a04e10ab8c437bd099acf4d4302ecb5a280bf88ece69e4ed3c533445",
+    "b91f598b61b0db43b5225cae5e30573597c4c847c8dd29e716a79c43b6750479",
+    "935bff96e17c99fa3467527465e4b3e75f231cf750b63aebf2a61fa37c5ea728",
+    "4573a20efc1b7bc2576b63739c741f16445c192103c8e2007f248b6d82292c2c",
+    "f261e52e8cdb36c746d808b0740e28f5f46c3d61ff83ba6bdb6de5e3111e563d",
+    "1edd65024ebec1ede541f48fe88c9c0b8343df252745492684c3e160c60ecb0e",
+    "41ca752f4cf707311f7d4291d7efab96e8fab454a7afc3323a610080a797ae13",
+    "1e435179f703a2651e658a3ea1b9b5196b5d6eeed7a7a095cc3b37fecae058f4",
+    "a8e4c29a41d6bef6b0428d7927e28748d3e86c66b9ce0f099f83908e5c29316c",
+    "0a033945ad5df38cf41f5a6a8fe43845aae1d2ace72c1cf8e9d293895c56b618",
+    "f4e24bd26f62d66d9b25eaff8e92a0ce98fbad170b87525cd569dcb4322b40b6",
+    "9a7451aca9d8374dbd9fbb5aecdad2949c2245f138539d9b0ab24a44dbeadb32",
+    "2b54199b7cb739f3658a4f3d2ba333cf57438e7b6e3b8b7c1aff74b24ed78a85",
+    "74170f6b521d9ff7c36d87d8c81e124248ff6b4e43e65ed1f8c5f0c012835de2",
+    "b56ab8ee0b1eb2941cf76bce80057538162890e1caf99f092b12f45b766f5ae3",
+    "cdd43ba5020deae0747136d5494adda2d66a0125a6ea600b0215db2040aff745",
+    "2f87d461de8f6b275ec799340ade4f63c9c768d3e87802419467a46290fc8517",
+    "f4d987c82e7ce7f9876a9c4867595edf307df81480696be9947035df3ddfb37e",
+    "40dbd4bb3bc7248690df9196763191311555c67f3cfb6c0fb95ed9a7dcae1e97",
+    "5cf5dcb90d56dca58f260286d40403fd4be61a6e7a0e8c899b0a688919f3ed6b"
   ],
   "title_hashes": [
-    "1f2704f1fdbf209745ecd923519242f2ee6e98b147fab112a9873bf0dd7dc080",
-    "34cb7fae241f1e983de1f843a6c909e3fe87beb69abc6901e5e5379b2ff1f013",
-    "191826f5e96a86faf175428854590fa3dc0fbfe7bcb709dfd9602d8bb820f936",
-    "3f09360d30f72c92741bc8705365c1e12001d70d9957cfcdac4a1f567be27405",
-    "08b4e66e5533b4e0db437b255fbbc57bda5caad0070cfd15a318db56722e78cd",
-    "9f9ce79fc576272dc8251e127712a8bc13baa05f4aa0543d66dd721ee0fd3b53",
-    "eccce3dbaf5198552f738ddbc51e3e7e9facdcc435757f82f50b8b81069b0711",
-    "0103c6f877d9ff1687ac39ac85db39637e555c72c2d7f6f577c1dd5f9d41b938",
-    "81aaef1786e5719af0c6e9d6a2d201f6cdd6adacb741715f664d41f9ff28cbea",
-    "30ebd7c2b78e09fb32ea8bf718810ad8e207f6f1398bf44094aef1b705f6c9cb",
-    "6fbcfb0f86fd73f0807d08387b1db8fd993c8517a1fc0d7f645e415edd4b1099",
-    "876cb398fa89f3db59a49ecf680986507077b28bc2b2a19ccb48f9ddce3b5cc7",
-    "95eaec5d32f4b7f0d6d49fecc31b6fa60da55f29ac40965ca25d0766e694d8a1",
-    "a689b4640b3f6818645c80c35272b11584afaf5120ffaa0a6c7c11fd7da2c7d3",
-    "d5a974a3bd65641cf83a2e84272c8aab063317786189e366d9071583379cca9b",
-    "f453a637f9367b370106b2b7f83beb507088ec99e4d7f56c33cc24aae318616e",
-    "fb40bb4fcae385c79e0f82770248fef9014025889fd2896615fa5a384173bf2e",
-    "abd7f5e2406806cad4c3c01f3551a416d5aaf1181648f97d2100ccb803982983",
     "698709c4159a4900c0902d0e6889c557a54b9fbb5d116d9a2ab70cc1a252ac6f",
     "0f0459b84ab08633d9bcba803265586ebf5dc3b602410a4426675e1643a3de9b",
     "4d81416b56d1f08a1ac5a763a129987b7546c21dec01b562b00eea9f37773cba",
@@ -8002,37 +7984,27 @@
     "f9006845c13648a4d92c8242035c181d1b02d47606a5f2fc4cd327c36c450900",
     "4acdfe0165b4a07c636b845ae4f370a39f691a688eff455ee7b75015772b55f0",
     "f149230a74014f14b9f48c281039f862eea924b49e4723fbd876311e5953dbf3",
-    "0d4ace8bed860af9d5909325cf89df2a6df35d69e6a9b5e52b3e4eab30e6e8e6"
+    "0d4ace8bed860af9d5909325cf89df2a6df35d69e6a9b5e52b3e4eab30e6e8e6",
+    "d8cbebc0b14c8b0d9160f3b06aff6ac9a2841e26625e9171adddfb92031c5e65",
+    "3ddc07d30fb6f23f59e3aad6efda8df5ec55484eac31bf269e5d034ad28e8104",
+    "ffbf05f9abc86fc292fd885b7393e1bc8a6418745c0852b8695513bb135ddae3",
+    "b83a651d5df0d1f51f3d39f629675b18cf16ab9cabdc99e686bb973c9f11600c",
+    "84e55c7c261d476cc84bac8122e1844661391e233338d60419a4e9bf758d5c5f",
+    "fe113b6be2f0f69acfa79fd28a42880e9edd5a539a30c2072a1953452108e1bf",
+    "358641bc01032862ccc41fa69fd66151b5bd4dbc1cb01ef723cfedd1d107940a",
+    "c22cb8e84cd3583d35517057976fd1e01ab46b1ddd7fd7c2d954d3550d7e1f36",
+    "405a50591d9c256de73fe440ed0991ba83645139db46a9cdcdf8f172a133d8d3",
+    "29ea73145729a1bb20266316902a3af8b2ef31e917989637d6e90a2737aa8a69",
+    "5c9cca80218110bffab9c79018a4faeeeaab6bf323cdf3e69b91972e9ce41935",
+    "ddc57dcd76ac5f5c00bffa44fb3098ba7109c44e04f57c5339b61fcc57117a21",
+    "25ab786a987a6cd1c07436bca8604d963ad0009126ffe8b2f72cd2cfd517f4ed",
+    "6a62e15e7e8ae6af823b0f48d6c51faf2cbc09f047eb524c9d53afc8dd656070",
+    "f091e7d201306302ed114b479d3fb68e97b0363d4ae230e7708899e85cbeb4e0",
+    "71b52ba68a8c375a0515646c51f54abde02d2ea9882d83a0e3c5d6949ecb0527",
+    "9b784deb8a6fdd77046287eff530ecce790e1f6f9d755dfad90f7f3cbe8dad92",
+    "45c7ef2f06ccc82764d0f30a45f1608e78f7d20c218c7e0f4cc5e6f63be697d5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "🌅 Market News Digest: [Nov 21-22, 2026 EST]",
-      "title_ko": "[11월 21-22일] 글로벌 증시 주요 뉴스 요약",
-      "url": "https://t.me/marketfeed/1083440",
-      "ts": 1795348858
-    },
-    {
-      "source": "Tom's Hardware",
-      "title_en": "Lenders back SpaceX's $43 billion Nvidia GPU deal but worry the collateral could end up in orbit, making them impossible to reclaim if Musk defaults — five-year 'hell-or-high-water' lease may lack a written Earth-only guarantee",
-      "title_ko": "대주단, 스페이스X의 430억 달러 규모 엔비디아 GPU 리스 지원…담보 회수 불가능 우려 제기",
-      "url": "https://www.tomshardware.com/tech-industry/data-centers/lenders-back-spacexs-usd43-billion-nvidia-gpu-deal-but-worry-the-collateral-could-end-up-in-orbit-making-it-impossible-to-reclaim-if-musk-defaults-five-year-hell-or-high-water-lease-may-lack-a-written-earth-only-guarantee",
-      "ts": 1795349139
-    },
-    {
-      "source": "로봇신문",
-      "title_en": "獨 슝크 휴머노이드 로보틱스, 택틸리아 로보틱스로 브랜드 변경",
-      "title_ko": "獨 슝크 휴머노이드 로보틱스, 택틸리아 로보틱스로 브랜드 변경",
-      "url": "https://www.irobotnews.com/news/articleView.html?idxno=49715",
-      "ts": 1795349437
-    },
-    {
-      "source": "로봇신문",
-      "title_en": "中 샤오미 CEO \"로봇 산업, 자동차 산업 넘어설 것\"",
-      "title_ko": "中 샤오미 CEO \"로봇 산업, 자동차 산업 넘어설 것\"",
-      "url": "https://www.irobotnews.com/news/articleView.html?idxno=49719",
-      "ts": 1795349440
-    },
     {
       "source": "로봇신문",
       "title_en": "中 의류 생산라인에 휴머노이드 로봇 적용 추진",
@@ -11504,6 +11476,34 @@
       "title_ko": "노바티스 \"AI 암 완치, 5-10년 내 불가능\" 일축",
       "url": "https://t.me/firstsquaw/195119",
       "ts": 1795410705
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "오픈AI 수석과학자 “AI 개발 상한선 둬야”… 이르면 내년 통제상실 경고",
+      "title_ko": "오픈AI 수석과학자 “AI 개발 상한선 둬야”… 이르면 내년 통제상실 경고",
+      "url": "https://biz.chosun.com/it-science/ict/2026/11/23/N6MTYYCOFNGUTLQD2GDLHN5BC4/",
+      "ts": 1795410790
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "[단독] 공정위, 소니코리아 현장조사... 게임 유통-판매 독과점 지위 남용 혐의",
+      "title_ko": "[단독] 공정위, 소니코리아 현장조사... 게임 유통-판매 독과점 지위 남용 혐의",
+      "url": "https://biz.chosun.com/policy/policy_sub/2026/11/23/UBWM6SN3ERFQLFPQT7Z4PCSDH4/",
+      "ts": 1795410792
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "Russia's Tatarstan region reports drone attacks on oil storage facilities, IFX reports.",
+      "title_ko": "러시아 타타르스탄 지역 석유 저장 시설 드론 공격 발생 (인터팩스)",
+      "url": "https://t.me/firstsquaw/195120",
+      "ts": 1795410794
+    },
+    {
+      "source": "디지털데일리",
+      "title_en": "오픈AI 음성 AI, 조선·건설 현장으로… 모국어로 작업 지시 듣고 질문",
+      "title_ko": "오픈AI 음성 AI, 조선·건설 현장으로… 모국어로 작업 지시 듣고 질문",
+      "url": "https://m.ddaily.co.kr/page/view/2026112314070256670",
+      "ts": 1795410860
     }
   ]
 }
