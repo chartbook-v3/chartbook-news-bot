@@ -1,28 +1,6 @@
 {
-  "updated_at": 1795449511,
+  "updated_at": 1795449663,
   "id_hashes": [
-    "9692b82fd9960de96ea2d084500fe8517276241cd5b31008d55f4f5dfa79db95",
-    "1bf284bc6d79a9cfc032033df50cda9fa6ab3d51807eee8658a20fd72f1c8b0a",
-    "c3f4eb99af4460d1be8f52a990b053a15dec5694cb85aface55118e7fca6b3f4",
-    "dfe696f576a5838a2615ea94e417c388902fe7ad210eace973ddbee3e7e4155c",
-    "e0ecbbeba1cde1454c105bf350467efeff50fec55b3367a8c4246f0aaa080ca9",
-    "d812b6f5cd0b5ae28c4a6a0254f4881e57ba7665320ee1199206c2f32712cb0f",
-    "c66094b3d5f75c5cd270826206e967c372038a3642e80dbae9625131bacafc63",
-    "49f83065ba2fda6c9bc26c7fd94f22778afabe149964f594d71a15152917ec1c",
-    "eca70b18d1b3b3090b08574a382e14865ae20e9af8e21fa612be615b05d55778",
-    "fce1049665d2729cdc7ea89a41fd2b8117f8f97c2a8364b512893b0dc98d9c37",
-    "38d78dbf35f7f93cb78cadf7e8e4163bbca64a8c4b843984bc3ae5dfa4fee024",
-    "acdcf47c76eeb426486c8a7bef34c8f0550ebe9392e0e3b0361ca4a20729f3fc",
-    "5ddd25e211995ca44707310ae341ed3f53957482edb5fb98954abd1a2147f738",
-    "fc8482af01b1aa86bd9985701ba8e568be14243f9f967375880c823fb8cf7512",
-    "efdd22b6db2db1738f95b0e29bf500c7042a453a602fdb6796269cc764ebbe21",
-    "93ea2d038df9f49dba1ab8e19d037dd4716c78664288471ed85b6779951f90e8",
-    "bfb56c4de36a61be99c1fd23f42cbe4b3e86189f84766dea0d4b8cc2f28497a9",
-    "4909b1e520b769ddecca467707798bda53e716a54e8ddb8cfe108cd811e234e1",
-    "365e63d74eafc3423e31c443d7b681a2285277bbbb380d979b94ffc11c1d54f1",
-    "fa74bca7b2c83c077761688be28991fe3b8b3562f4672680e32405ea947eaa0f",
-    "93ec912947cd473f99fe36859e2aabd19f08082724dbca49678d7a24b1d805a5",
-    "58ad553f29b82717a4893fb784b95b64a1684e94fcf49897340b9379e29ad70d",
     "7471099326373c5a71731a8261823324ff32b2aa6697b010ba6dfe8c837bfb6d",
     "d171cdb11c286cee405ce4a958d50aef06e09a98f61260458d24150e8bda843c",
     "77704c6d53a8e0f59148670f40fbf2bf1ad506eaa344262a0af88c65a331fc88",
@@ -4000,29 +3978,31 @@
     "d244da908f60f7b498c86f9152fbad9f6fa7d59573f554b69bcaeb97d6c58302",
     "cf397b8938906727d2338622cf48857431577797e95ac31bb944c0c5bfb5c7e9",
     "f24df916e7f682273c96125751bffcca9b5f288168e1c076d66cc3fbeb67807d",
-    "0c692b6bd78abf3dd36fa066e1746d33b1b48543b919152be2ea0ce28e43467e"
+    "0c692b6bd78abf3dd36fa066e1746d33b1b48543b919152be2ea0ce28e43467e",
+    "181bcfff248be2678bc0bb0e9bdfaf8a00830b162957d6d88b31636df35b8841",
+    "f8427eb936feb4951533fc13052e497746fe11eac45a7a62f3c82959e8e5fb7d",
+    "ab718111774d41bb64e6c2f8a305cc76a36bad9b43feb7bbe0fc41005ff462ba",
+    "0208885be3e9a5359768bc7921976f0d05a639ccd680390fe6699dc30178221b",
+    "6a10c8fc8b7d88f2bb6994343fdf3ad66b0438f250bedeecc04214e21df27208",
+    "7c98f8fdd9c9225b497df5f2b3026ddcb0ca79b5c8ea57f8c849e42c3f7c7c9a",
+    "56dc0ee7ce6c4619f7af9d3fff345bb69f7cceae12ff2f02569accabc31b811b",
+    "b5aa0fe2628bb14c33612beda994735a498c34323e74160ebc882cacd2dec1ad",
+    "e0871c5f3ced4113a4396f99e81ed1622fc4a350c62fe296fdd614e74267a0d8",
+    "16dae4a51db1d581c65b1fefd7b0f22f6b7c09e0f46e84e72035e0774a03045f",
+    "332f8e7a3e212568c4ee2662d60c3a681032b6b7cfa04e8d7421a53f5d082381",
+    "011387653437d039fec89d4d6ff0d7a4bd5f7e18d1077489d23c011948e27ef3",
+    "57caa42708c8670a0cc9afe32f6cb595693fbf4c18990aaa62fbd2a55a63f113",
+    "60a2edd588cb6343de96797c3d4f9fdb63d5a4247bcb7174ce3b79ccdeef8460",
+    "450e65b6afde67354f5b04199f1c14be4bef28a0a5ee1bddef50a0b39a888d37",
+    "c606afe65a41897989e3a5ba4e189900b9898de5cb5a844bb67d48e11b5c6f40",
+    "7659bfc39454ce4eda9450afd26141e4127cc8b7d1ff411ecd120aa0eeaacdcb",
+    "0e8631539418e5af6bd324587a951eca05d182577e9825da33ca209d56b627fb",
+    "258714a3d37e19784a1422ca332f8b1d718dc345f4562719b4f40e6490b4a780",
+    "8cf5a28a5b98db11b412d15f9ffbeec406bdc4a77f3be776c20b42f4762542a9",
+    "c046e3371e40d7fca412e29bfb696ffdb3267af245371e6f47e50e93950fb2bd",
+    "269762ee0cbe99f23c345bcafda4a5d094ddca637b0426b36e5b308e24a99e39"
   ],
   "title_hashes": [
-    "1e55a8ad590fa97bad27dd4686034e767aa0870b1fb2650259d41d276b4a0e40",
-    "4aa93d5a4e824df35d032266ede427ba67c5763731d894d9eced6185b067b436",
-    "6877d4916b3cd72176ddc972b4873265aab13ba79982a00baef8e997491ce00f",
-    "5821dca11dbf4c7ea5c12243a7b08427b6499070c7872cd3ddcf4188e60c2ffb",
-    "3607caba3476f8ac417a78507ec5937402bdedfd32dee2af1acde55d102c180b",
-    "62e7008ebafb37e8a8d98760f7af9d5d2a8c52bc6ca18bad30b32941c9586783",
-    "73411ae84d41247c75e66b04f950fcd549dbec2fc1dc7df960b88d5bce4cbec7",
-    "a51fdd7913d1c258289bc9996541697f468353a887b7b07df79771b6eb87d2bf",
-    "52ddbef585f5d4f8c81ad165027107b619bc771fc0026eaf04c604fc2c4581b8",
-    "7593f7e34f13f1eabd844a7138c2c9ab2a211359c90cee7e796723b2dbf2f431",
-    "2d9349b92e73cfa8e81bcc0a952c94a34a78f3079488c6e5c15b9d45bf71bef0",
-    "7f565a28a0b92f4efd8c41c828a449b09795a558652353267b5294f37fbf8470",
-    "d4cac165b956df1898165fd408141371db6fcb132f398ca81327ecda7454be02",
-    "b4f0045b9c3cae990448bbd4d6de626e87455ab8c53072912c84f3c7ec1eff81",
-    "db7492c3dd56c3392bc545b35ca9558c774fbe6a5dcc13e084fdf204121d9dbc",
-    "64424fc9eb33e92a6e8937eed7839a58fe37b5f4f355948710468ce4b8f70eaa",
-    "d1608df6df36cfb9adca8173fb67771a9e217324bbc03e5d861e1c557f0ceaba",
-    "7e1a05af809613bb3d6bac0fff956c35d6ab9c79d6fcb6f95d02999899d26d45",
-    "ddda7bed62f139013d65c65ebb52c447ede39ab814768e8ea36da5bcb2a33f96",
-    "1ea0586fcff032c9b52e9f3ce1c61a0b97f73ede9f0c3da7f6974d9e2958031e",
     "fac3eb921b43143bb6f134fc3d46470fb5e1097c0b997c1e1384426cb6fa7e55",
     "0218e5619e5ffed237adcd6782c580f97a2893b6d157e7816f3bf07aa1395973",
     "68f6198bea15c9d6549ee67cc9d2298447366a2f478375f8de2415dbb71f10a0",
@@ -8002,51 +7982,29 @@
     "b38a5cb34ed19e27f556d0615f531a255edea1ac91d684c07e3d1327f032af9b",
     "cf130de20203bcf886636c781930ad229ea901493fe3b88f76e995b651c2b783",
     "e1ebe31de7d24117e6c4a297adf842f9be5ea5c8d748bca8bb19df28383c66d4",
-    "1a6e410382331021e6bc719e2722a44d3bf6b2771e65c120d7acddbae8ef3f9e"
+    "1a6e410382331021e6bc719e2722a44d3bf6b2771e65c120d7acddbae8ef3f9e",
+    "cc49cfedcdb59b98e5d15e87088c671168437cefa3e0dc98e38266f83a31a887",
+    "16634d3b45c0270d6489563736564b816a3170a85b27d33cb2cdc0bd0237cc8c",
+    "4b2f28295b4078ca3160501a688b9de18cfc94d75308d2e14282e488d40f828e",
+    "9fbccfc32577e860558218996d170c01d957e033ee5e25cedb5f989377b81fc6",
+    "1ac96635c8bdd44d03761be65ced444fcd32bbe14ced4375362f5a4854e954a8",
+    "afa7c11b302a7f01a0489c41bee99a46af6e1d44722aa85bf329b2f5876075ae",
+    "c8b9f1e3104928c620416e7b7afc72cfe20f4958dd26cdfaccc02f171eda7974",
+    "a6b3f635962a4a0390d0162cf31e93df72fb3f69fe27a2ca4b3c025d47be9f78",
+    "4c481284ee9e32acedfe096e41b9e68a5305db1d78699dba9555324c2a32b280",
+    "d62bc8f21e0fc566a386211c20706353dae02bde387d9ccde05f25e19340cba0",
+    "b2ff02f77dda600be1867010a8b4655feda478f84f8ed79a934c50a0aac78aa9",
+    "ceb71a279cd31d01cd5af00e50d9cde76ce8b7ed257239325744936df1c01288",
+    "91f53211e635ca381ae75ee26abc3945c6b178654e29062022e331a4549425ad",
+    "9596d845c21c66469cef0489200cf3aa8831d179b69fd37820359cd91c3929e3",
+    "1b960c82cbc7827d813a522fa7ba8e374abec97ff2ea6b769d0fc8db62ea626c",
+    "c5fe5a6c7261e402bdf61ab7f580003c343d0c14bdd4bd919aa2335347c52fd7",
+    "b1f1db4859c1903acd91c671f17f725ae02aa6bd56b64c76110f70c13824a12f",
+    "3459b22c161a8341383428762913ed508c4f1f518bb1e69d11a4db00f47f2e59",
+    "0c357c1c37e5284eed9ed818460cfdb8d3423ca52eaec47596b43329b0db43f6",
+    "94cae3dae210a72a9e1c7a93286b351f48313b8b883ad2dddb1db42dbd10d2ea"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "美股盘前，科技股集体反弹，英伟达盘前涨超7%，Anthropic涨超3%，特斯拉涨超4%；美股三大股指期货持续拉升，纳指期货涨超3%，标普500指数期货涨超2.6%。",
-      "title_ko": "미 증시 프리마켓 기술주 일제 반등, 엔비디아 7%·Anthropic 3%·테슬라 4% 급등, 나스닥 선물 3%·S&P500 선물 2.6% 상승세",
-      "url": "https://wallstreetcn.com/livenews/3204101",
-      "ts": 1795424496
-    },
-    {
-      "source": "TrendForce",
-      "title_en": "Tesla Cuts AI4.5 Memory from 32GB to 24GB amid Soaring Costs; AI5 Reserved for Optimus",
-      "title_ko": "테슬라, 비용 절감 위해 AI4.5 메모리 32GB→24GB 축소…AI5는 옵티머스 전용 배정",
-      "url": "https://www.trendforce.com/news/2026/11/23/news-tesla-cuts-ai4-5-memory-from-32gb-to-24gb-amid-soaring-costs-ai5-reserved-for-optimus/",
-      "ts": 1795424584
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "SWITZERLAND TOTAL SIGHT DEPOSITS NOV-20: 444.3B (PREV 443.7B)",
-      "title_ko": "스위스 11월 20일 기준 총 예치금 4443억 스위스프랑 (이전 4437억 스위스프랑)",
-      "url": "https://t.me/marketfeed/1083700",
-      "ts": 1795424587
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "ECB'S SIMKUS: THERE ARE PLENTY OF EARLY WARNING SIGNS OF SECOND-ROUND INFLATION EFFECTS",
-      "title_ko": "ECB 심쿠스 위원 \"2차 인플레이션 효과 조기 경고 신호 다수 포착\"",
-      "url": "https://t.me/marketfeed/1083701",
-      "ts": 1795424590
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "- NO PRESSURE FOR QUICK FOLLOW UP HIKE GIVEN THAT PRICE PRESSURES ARE BUILDING SLOWLY",
-      "title_ko": "호주 중앙은행, 물가 상승세 완만해 추가 금리 인상 서두를 필요 없어",
-      "url": "https://t.me/marketfeed/1083702",
-      "ts": 1795424592
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Nvidia server partners reportedly suspend shipments to Southeast Asia following new US export rules",
-      "title_ko": "엔비디아 서버 파트너사, 미 신규 수출 규제 여파로 동남아향 선적 중단",
-      "url": "https://www.digitimes.com/news/a20261123VL212/nvidia-southeast-asia-ai-server-shipments.html",
-      "ts": 1795424650
-    },
     {
       "source": "DigiTimes",
       "title_en": "BYD claims first mass-produced foldable steering wheel, opening doors for smart cockpit suppliers",
@@ -11504,6 +11462,48 @@
       "title_ko": "트럼프: 중국이 보잉 250대를 추가로 구매할 것이라고 생각하라. $BA",
       "url": "https://www.financialjuice.com/News/9864673/Trump-Think-China-will-buy-another-250-Boeings-BA.aspx?xy=rss",
       "ts": 1795449456
+    },
+    {
+      "source": "Barron's",
+      "title_en": "AI And Spies: A Timeline Of The Nvidia Scandal",
+      "title_ko": "AI와 스파이: Nvidia 스캔들의 타임라인",
+      "url": "https://www.barrons.com/news/ai-and-spies-a-timeline-of-the-nvidia-scandal-4784c9be",
+      "ts": 1795449535
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Cinaport Acquisition Corp. III Announces Proposed Qualifying Transaction with Greenflame Petrosierra Corp",
+      "title_ko": "Cinaport Acquisition Corp. III, Greenflame Petrosierra Corp과의 적격 거래 제안 발표",
+      "url": "https://www.streetinsider.com/Newsfile/Cinaport+Acquisition+Corp.+III+Announces+Proposed+Qualifying+Transaction+with+Greenflame+Petrosierra+Corp/27386029.html",
+      "ts": 1795449539
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Prolean Wellness Launches Goprolean: Calorie Counter App on Google Play",
+      "title_ko": "Prolean Wellness, Google Play에 Goprolean: 칼로리 카운터 앱 출시",
+      "url": "https://www.streetinsider.com/Newsfile/Prolean+Wellness+Launches+Goprolean%3A+Calorie+Counter+App+on+Google+Play/27386028.html",
+      "ts": 1795449542
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "FX weekly: Dollar strengthens as Fed bets weigh on major currencies",
+      "title_ko": "FX 주간: 연준의 베팅이 주요 통화에 부담을 주면서 달러는 강세를 보이고 있어",
+      "url": "https://seekingalpha.com/news/4675592-fx-weekly-dollar-strengthens-as-fed-bets-weigh-on-major-currencies?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795449599
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "CANADA AND QATAR SET TO SIGN A FOREIGN INVESTMENT PROMOTION AND PROTECTION DEAL ON TUESDAY, SOURCE SAYS",
+      "title_ko": "캐나다와 카타르가 화요일에 외국인 투자 촉진 및 보호 협정을 체결할 예정이라고 소식통은 말합니다",
+      "url": "https://t.me/marketfeed/1084031",
+      "ts": 1795449601
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Fermi Stock Surges As Company Confirms Hyperscaler Prepayment Funding",
+      "title_ko": "회사가 하이퍼스케일러 선불 자금을 확인함에 따라 페르미 주가 급등",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63539813/fermi-stock-surges-as-company-confirms-hyperscaler-prepayment-funding?utm_source=googlefinance",
+      "ts": 1795449662
     }
   ]
 }
