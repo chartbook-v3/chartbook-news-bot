@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795451620,
+  "updated_at": 1795451781,
   "id_hashes": [
-    "dd1c7f2af9d0c63b846995acee9d64999b10b35018ccd53220578c7ecfa393bc",
-    "6da13027d0a5856d75cb37f18d45d5b21f80fa9c80a30bd800e21010e4f81710",
-    "951fc7d01a2df709f64c32a6dde3b68f53ad3f7eade267d64d62d5b32c634cdf",
-    "4013902c35eba3a105ff8ba4de5f1266d5304b175b2c83f0b0b31770e497dda3",
-    "3715127aa9302f9942c1472f3c1632b74a86d7787bed95ee1c3527f6aa09c3dc",
-    "17a1a2ea2fc2a406d9b7f5b262cc5cf5c109e8279f4dd3bd6415e003c56cae3a",
-    "fed845937d3d934c36eb148973a73673e1c10962a653d8d3479a1689c6c7dac2",
-    "738922176c7cb67a448bb940094bb92d863c854f73ff6507d1892c9a8ac53b3e",
-    "e2fead2fe3926c621eb6c418930c13bb6e625d98b225134c0d9d968b90dfb53c",
-    "1792e2fcfc6bd551b4aafc5a509f9cc16a112e162fe9d6e5c6e1aef4a5a7ba94",
-    "3cfaa8b021baabc4a6508b776613d2bf67bbc24cb9cb3147096540784cca1725",
-    "7ff095b473fe32ad2d2c1be4009aa6c038e1c436475d58816b97ec2de3683dce",
-    "b83d1282abadc98a67f2a0d7463e29a2f539d386f1415ad94b71f920d935e5ea",
     "e9feedd8ea1ae69be10ac870e106c44dfad13c53d642cb804342289e4edf0051",
     "94e3ae353232ef8fc9a18cad4d3ba38b413a025598bf3c39399d514bb02f64ab",
     "609105b65e1fa756729362eab4ad6abdde06479c60480467413d31bdc49a45a2",
@@ -4000,22 +3987,22 @@
     "ad1154b1339f74b45eca95236e0f51e4d1c84abcc9f7248dd26e3813acebf275",
     "88542006f44ea9a1c90b13852b1b3c6c32b93cd1ec3631bad4ec7a07fe5536bf",
     "4c97834f9850f16ec20aaf00d6d8baccf4192b1822b0d098c8417016320d7f81",
-    "ac02722d4f1fcc387276ec3eeb0374c5ed0aa313f8ec6b8ca2f9ceade76be116"
+    "ac02722d4f1fcc387276ec3eeb0374c5ed0aa313f8ec6b8ca2f9ceade76be116",
+    "430bb80ec72cdef8c1a3bdf01754ce243f55b4322a8ae697b885d0a2329304d5",
+    "cb80f6b36f6953d4e21d7cbbe68ca32289c800ff5a7fea31f5191fe044136455",
+    "c350a025de293c03b682caac386a4180f61a908b28a95463da675e0bd1d51ce8",
+    "3500ca575d192f5dfbf7ed50b030f232abb6529029ec9eef95bb1ed559a68f5e",
+    "ab5fcf94239c88f84c2d37c20f0bb649283d54a5d878f577a28fb1730d3a3d60",
+    "9ad46d3a4557a2d94f3dc768a34ff4e2780a9296c0fbfca7d37559142bdf05da",
+    "1fe000ce5a82c53784f012f288fb216520a853a7e68628cc18b7d4d222e31d5e",
+    "68c9a414fa19148cd2cc36261e5045bca3692c8e6b6b8100f917335a5c6eff59",
+    "92fe94a6744c533af677e4fa83e0068e2b4afaf3925bbf6749e7252e09562980",
+    "d6ea88bfb73a66379034f1746627e92c59d7145ef94b753ad472d7d310740cbc",
+    "be52cce54bdf595d1d1c069251a57c9e4532a83c42494c7bda4c0d26303cf639",
+    "11f1f302ee55bebf7c813b1b88e4ea8aaf9430b8df4a8870383c994c7281ab60",
+    "ff281aba0454275bf76c18b76e33160bcce2e1d37e78b2dcde7873b61431da5e"
   ],
   "title_hashes": [
-    "adf072f4ee9aad6bdeb2aeeb091c95444cd2a5c2c0fbdcff6fcb4b5fec42b26b",
-    "a1cc7d545c2f8d47a1c948e6bcd8d9d733223d4f3ca84c4fd79115f03370c91c",
-    "111504e6bbbf09715110ceae2c42e04d7a87ffd3e1d665862794f64815117f33",
-    "75541e994c3f9089bfe0061d36525d6f11c777c2de2e4d6d2107289ecaeee6d0",
-    "79d47d90a360503c34a56c8fa932d2175caf4e0bc276bedda24f1a4004e4f03a",
-    "0a130e374c7576908e82fc040b882afdf69dd2c8c592eb50bbd91e2055165aa3",
-    "73896e4991621a813344cbf0737c816e71fb6829285082967920b9dba45bca05",
-    "d30db058f00596a72bf1f102a2461e80fb4e04937e51a2f375c4e9b3b1610026",
-    "f39d13baf72c7d678f53f62481a3a079279b2a7d81aa1334d4c59d6a8fba2152",
-    "738676dcf39be3fe147f11c574ba6ce8ce2e9e38d77b68a067c6d381b7a3dc4a",
-    "53b592cb2b98841a1f37c274e163b947ffd5d2e6533a424c96fabbe88298ac3d",
-    "d63bf85aab09e4de8eb891f8e4a37fe3915fe5cb2b606534b76670af1726af39",
-    "cc236b3e662020c9601735083afacccfbba396f1fb5d3f308b5bc0fba786aed3",
     "aff4ba312eb0e117d4bdfab991c2f9f4d6177bc574875115cb402a835a7fb106",
     "0eaeb41bb8fd1d1122da4f9b1f7cb73ee16673d1c6cffd27b9349adf0f2f35b9",
     "3691a9180edbda645639acb0e72396dec05149bf01ba82b0a046c99f9faeff24",
@@ -8002,58 +7989,22 @@
     "efca1fa6295514d6bf2f5e186fe9802bb253aa26b6d606ba8a781d3207cbd45f",
     "2bb255eb2d0922e8d648acb3894890e1232528043ac89fc6c1078c750f9336d3",
     "12ffde921fa8fa7919da63c55810436c810d5cef5c9f31039cb81f390c47a85b",
-    "50d087eaa9747559e6e51632e1229c027a77923f9d659d7badbcc4cd58addb48"
+    "50d087eaa9747559e6e51632e1229c027a77923f9d659d7badbcc4cd58addb48",
+    "e83370549f9ea964bcfc26d9227ca34ff2e7e4a2681d5fa0eec3e420cde8ecf4",
+    "0ae83f23aa7a6cbac8c5b35cf2d5ee09291dd34293294129d6b0de40d1890b45",
+    "7181c5e7e5fd5182806876ffdf0cd98b194c7837d391f4aab5541a513ab80b1e",
+    "bedcf89823a5b5908f275ac72e9aff9bdbe7b6c6785657a06f57e6672ebf48f2",
+    "c8e7af1c7f4600cc43472d033e072acfad837a7a821760da64be199d2579953d",
+    "bb41188d3cf633aa2c047a33a145ff1c68c81c6ca0c322071367b99351b7f710",
+    "62ad5c7c3fef9b229088b03130e7ad291360925779b00aca3e28a042d50463a8",
+    "852af6e4d423748120db72a50039f37a40a948efb756a13ab8cfe5e2c5899782",
+    "b7ad280f3c0c8380c36b7246493450b5518628747b66689d64ad9fa7a6ca582b",
+    "2e8028a6d68ab39c1641d1334e7790ccefe479c70759ac5024dda2f0a7403b70",
+    "22e15798c264ef5060f4599cda85e4074ea44526adfdb7e00a4c8583f44a7de4",
+    "1e5b21cca506abd17b0e7cf30c8ae8e5825520312357beee6a68d774d419b798",
+    "932c990fcbb47bdbd0df608688c75e54dafbbc0626b437ccd0799006d7c3f44e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "CHINA FOREIGN MINISTER, TO SWISS COUNTERPART: HOPE SWITZERLAND OPPOSES 'TAIWAN INDEPENDENCE' THROUGH CONCRETE ACTIONS",
-      "title_ko": "중국 외무장관, 스위스 대응: 스위스가 구체적인 행동을 통해 '대만 독립'에 반대하길 바랍니다",
-      "url": "https://t.me/firstsquaw/195171",
-      "ts": 1795426625
-    },
-    {
-      "source": "뉴스저널리즘",
-      "title_en": "한화시스템, 전술정보통신체계 계약 195억원 증액…2027년까지 연장",
-      "title_ko": "한화시스템, 전술정보통신체계 계약 195억원 증액…2027년까지 연장",
-      "url": "https://www.ngetnews.com/news/articleView.html?idxno=556228",
-      "ts": 1795426787
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Elon Musk Hopes All Teslas Will Get SpaceX’s Starlink Connectivity—Except in China, Where It’s ‘Illegal’",
-      "title_ko": "일론 머스크 \"중국 제외한 모든 테슬라 차량에 스타링크 연결 추진…중국은 불법\"",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63519806/elon-musk-hopes-all-teslas-will-get-spacexs-starlink-connectivity-except-in-china-where-its-illegal-says-it-will-be-key-for-unsupervised-fsd",
-      "ts": 1795426940
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "UK services PMI hits 5-month low, manufacturing output surges",
-      "title_ko": "영국 서비스업 PMI 5개월래 최저치 기록, 제조업 생산은 급증",
-      "url": "https://seekingalpha.com/news/4675472-uk-services-pmi-hits-5-month-low-manufacturing-output-surges?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795427028
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "BITCOIN ETFS LOST $1.79B LAST WEEK, LED BY $1.37B IN OUTFLOWS FROM BLACKROCK'S IBIT.",
-      "title_ko": "비트코인 ETF, 지난주 17.9억 달러 순유출…블랙록 IBIT에서만 13.7억 달러 이탈",
-      "url": "https://t.me/marketfeed/1083724",
-      "ts": 1795427090
-    },
-    {
-      "source": "교수신문",
-      "title_en": "황정아 의원, 우주항공기본법안·연구기관 육성법안 대표발의",
-      "title_ko": "황정아 의원, 우주항공기본법안·연구기관 육성법안 대표발의",
-      "url": "https://www.kyosu.net/news/articleView.html?idxno=212769",
-      "ts": 1795427634
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "HAIGH SAYS COMPETITION SHOULD BE LEFT TO THRIVE WHERE IT EXISTS",
-      "title_ko": "헤이그 교통장관 \"경쟁 가능한 시장은 민간 자율에 맡겨야\"",
-      "url": "https://t.me/firstsquaw/195172",
-      "ts": 1795427637
-    },
     {
       "source": "FirstSquawk",
       "title_en": "HAIGH SAYS UK STATUS QUO ON WATER, ENERGY IS AN OUTLIER GLOBALLY",
@@ -11504,6 +11455,55 @@
       "title_ko": "Saragon, 3개의 추가 데이터 센터 시설을 인수하여 엣지 공간을 오마하, 타코마, 샤이엔으로 확장",
       "url": "https://www.streetinsider.com/Business+Wire/Saragon+to+Acquire+Three+Additional+Data+Center+Facilities%2C+Extending+Its+Edge+Footprint+to+Omaha%2C+Tacoma+and+Cheyenne/27386220.html",
       "ts": 1795451619
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "트럼프 \"젠슨황 복귀에 내 개입 컸다…이사회에 대리인 참석\"(종합)",
+      "title_ko": "트럼프 \"젠슨황 복귀에 내 개입 컸다…이사회에 대리인 참석\"(종합)",
+      "url": "https://www.news1.kr/world/usa-canada/6363491",
+      "ts": 1795451647
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "NextBoat (NXB) Stock Price Target 2026 & Analyst Forecast",
+      "title_ko": "NextBoat (NXB) 2026년 목표 주가 및 분석가 예측",
+      "url": "https://www.benzinga.com/quote/NXB/analyst-ratings",
+      "ts": 1795451651
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Micron Technology jumps 19% as tech stocks soar",
+      "title_ko": "마이크론 테크놀로지, 기술주 급등으로 19% 급등",
+      "url": "https://seekingalpha.com/news/4675697-micron-technology-jumps-19-as-tech-stocks-soar?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795451713
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "VNET outlines RMB 11.5B to RMB 11.8B 2026 revenue outlook while cutting CapEx to RMB 8B to RMB 10B",
+      "title_ko": "VNET은 2026년 매출 전망을 RMB 115억-118억 위안으로 설명하고 CapEx를 RMB 80억-RMB 100억으로 줄였습니다",
+      "url": "https://seekingalpha.com/news/4675713-vnet-outlines-rmb-11_5b-to-rmb-11_8b-2026-revenue-outlook-while-cutting-capex-to-rmb-8b-to?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795451716
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "NEW TRUMP TRUTH POST:",
+      "title_ko": "새로운 트럼프 진실 게시물:",
+      "url": "https://t.me/marketfeed/1084047",
+      "ts": 1795451718
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Suja Life Stock Fizzles on Lowered Outlook. It Sees Softness in the Grocery Aisle.",
+      "title_ko": "수자생명 주가 전망 하락에 부진. 식료품점 통로의 부드러움을 봅니다",
+      "url": "https://www.barrons.com/articles/suja-life-stock-lowered-outlook-e109f5a0",
+      "ts": 1795451778
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "随着美联储加息预期升温，新兴市场债券ETF录得创纪录资金外流",
+      "title_ko": "연준 금리 인상 기대감 커져 신흥시장 채권 ETF 사상 최대 유출 기록",
+      "url": "https://wallstreetcn.com/livenews/3204426",
+      "ts": 1795451780
     }
   ]
 }
