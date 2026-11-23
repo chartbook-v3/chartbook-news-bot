@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795425501,
+  "updated_at": 1795425661,
   "id_hashes": [
-    "04b9d4d37749563cccfc0d21ab6c4d373f6e43ce883268c86c361ef755665022",
-    "f1162878d3863d9eeaee4936e3c893465a08c6010415311b79b18d5c0f75610b",
-    "081de7a2075106e77104c040be8cf906253a8ee7bab552c117631b75fb78e2ff",
-    "832c63ed230e674c81dcac681fd90bfcd8446930b96e84241fef5fc3c79bb18e",
-    "aae675c139fb80b00779b9b0bad3b6d6ab301f53b63213e1665b5de4a2d08437",
-    "d90cd485d1ca376879ee722944279eaf00c9e95043e037c1772e6304965f95dc",
-    "eb482896b888f578474f3d1ec4f15a41b08af2895c2ae03e99e8fe6e61f12dc2",
-    "b5dff8eb2c510d3753970bb4efccf69c1ff2ffb6d64a4c501c24d70a3638502b",
-    "0292081c3be00f9e010c80caaf6b216e60d246eed0022c0c2e4122bb9b889cd7",
-    "8bf5d7ebeec92e18e5d0a649375ed96c986dfb09754103bf0ee57a5337be75c3",
-    "af8ddb984488f9b7cf13de51aabfbaa23b98f31ba249b5daa58bb0c771454b35",
-    "aa155f508a30e574bce2fb6baf166d3590b15f342c8192771c251b5cfb314ff6",
-    "3c63bfa8f2def0ed692ddd1d850a5abd9806347318e4fca13125a451f4113dd1",
-    "8875d3bafd3501455040ce645f7f9348001a36f1b3294dba5234f515ce5f6f90",
     "161564805a232710013e7651379a6c167af1f65cd42c11a86a2c556648199237",
     "1a3338f8ac4302900b53d9b9776ffe5b3755a7dbf7a6ed372874e5d478c76123",
     "fe18d274d342d042c96e569d2b1f7749a5b364a44655f57c25d95eceea44b3ba",
@@ -4000,21 +3986,23 @@
     "f7e1150df20e57ffaf1c618c214adedaaddc4b7c4b1e778de08b09e21e12ad30",
     "aca775ed6fa66063c6b50698c79381c63530bc6c96cab910dc9a7bd66ad50f07",
     "f29e7bd5ca1805350512a18ca8928aaa9647986c1e6a921811e08cd3e3bcb91c",
-    "cc4c9e8dc34cc048072acf5bd72fa9d05ca5294022c1f10b2cd96981c4eb4edb"
+    "cc4c9e8dc34cc048072acf5bd72fa9d05ca5294022c1f10b2cd96981c4eb4edb",
+    "b63c0d858450157052e80d0a4a10216d97410a17608b4b3148293ea47ffd3eb0",
+    "cd13a5d81c44e8f842dd009b2eead64bd29501363cba479db1c2c6719dab8d49",
+    "0dfdc12c85f5383238f8801164c00939f1275a132792386cc7a9d586ee5f06a0",
+    "074854425617a73758ac32fb9b7bf42aef6e11a471faef4b32423b05d5a8d96a",
+    "371f4dad5b9083b8ea0c2fa447c58cd132ad621da263697b08e614753f2f8b9b",
+    "e93c2766eda5ba5447a175508db25488e3ea87f899930db034f9837ed8fba927",
+    "8d6cd7be23cbf8c639c352e6e54c09f6921645d6b5e06df0670e92cef4719424",
+    "eccc9208b7e7b683ef574aa2c57dabcb03cdff9573577e3c1d4555bbef520db0",
+    "da0f25d004964ffb29e6895e00b567c43cdb80d1999ea0b92f69da36c6844a3c",
+    "b011024dcd8475428db774b521911a57297a8a09424d18528bc2f44526227569",
+    "b32a4fc3e6ec595ac5917c5267d607f6dadb4288ed3ad8fd266af3b6784f2904",
+    "eebd1f4501e9cf8c36c5099c6c767ba6aec2ca81cb6d0bf26084831580f4cadc",
+    "451362bcc4161d6c989ad6cc9ae7105e12ca2bbb487d1991320734d50eadb3d6",
+    "be32bfbddeb2064ec37403d7f771aed8e6806cfa7650770e21a5c2560e28b0f0"
   ],
   "title_hashes": [
-    "643eeddb5dabb25ba27a2512e140dde62c5231043334df09ec27e3174923270a",
-    "ff3f5e18a044a436edecee1c0f08f0be196e5bea83af0dc1741fffbff7afa30d",
-    "23ef4430dbb18f2473ce3c928d085fcfe4186784b93d76d64c7ee305c7ae9c06",
-    "074b152081a045ca864205042cee50895f3b12020965ad04ce56d0095fa932eb",
-    "989461f9ec063c27ce348bbc194462f0aa1b7349afc6f794539ddcebb4cd8fd9",
-    "3f0fb4a77bc02d3236224d199c4bce5c1c4631d8a6c3cda80a7cf78de1642479",
-    "4cb3e41bb75889e0f46230f62958d5d7b9c2e984024a291b9613d4efe5976363",
-    "956e2fc854617b8b18706151c614d9bd15c01128a567742ace1d23a85604c9cc",
-    "f9ff2bf598cbdacde0db0f0df3c630eb0aca6bbebb5fc4d0ca3ae45344ffa738",
-    "dd6f6cbf8b09ee57c02bbe5f9ede9cbd676dacd6cca459c92393ab3e83792cf6",
-    "e1ce8e553a46b10259d4ee3939e679725b9b39ebfae0268852dbc39d88ea203a",
-    "5f424ad792602b70e117392b3010f24ecd64c55b07ce8692fd0c2cb852ba8da0",
     "76158f396fc7c43edc4a3eeed5d231527cbeee23aa1da7011bdf61c4684b2f07",
     "565fbcce17a951ed8c0d11f66a3e1bc5b2f17af714c647a49fceda29bb342836",
     "2d5e746b36e1b290d85321c61529d436c4af725a3ab261a6efcf8837be16d455",
@@ -8002,23 +7990,21 @@
     "4d8608c49036d630a2c3ff3daac1f77f0de27938cce3c21558202756579705a6",
     "69aaa6f64bfa677edada40f8a11f08ec3af49fa6d2bb05230febf6bcb0f8467b",
     "6ff9c60820d8d2ff4945e042a9d6618ef8dd6f7e0c7228f177a2c526b2188f6f",
-    "ffd86cf8126ebd909b8cf2329d47f85045393354924c2705d022a7a3ed9f43de"
+    "ffd86cf8126ebd909b8cf2329d47f85045393354924c2705d022a7a3ed9f43de",
+    "82cbea67f3a3a59c2f5f6a30a3430b934e3dcb046389380d3889e8e7665eb989",
+    "99fc6a578d944fd8fb44d83c0d7f0d9f6f998497d7c529b078cc1a438830a6a1",
+    "0e0b2ede7a1193744e20f31c9ab871a9177c97fccca5a5046a599438221019ba",
+    "bea238c67ecd81ed3c0e892bd987781737d74b8402d834f6511ae25555218071",
+    "bdeea05c32699b0406eb52f46c788017a403f29a77d61d7d6d64e47c30fbce8e",
+    "664bc558227d866a88481579d27c714954ee257c90a87d42540830ddc8219cff",
+    "0a87ed4f564ec641e1e3a5c0e9ba23324f1b0691b5e535913e3cb1e564a0b123",
+    "4a68e8a040e63ea9713d0458196090de2d5d6095034781a1353e6baedaecd8bf",
+    "13b4d002ad48f3ce32e834c61cbbcf247a892883e0b96f9ed3907ee0dd2e475a",
+    "9b30012bfe1289b8252e6734701b09674152eb6bf735c2746667e3ab1827d0f5",
+    "6b18b233059714a1171d8eef9a1a97435dbd775e99bec023b6507476eaedf7ad",
+    "37b5afd5a388444f16176c60630722719ea5f9535768f752d93082d78332fe47"
   ],
   "recent_sent_articles": [
-    {
-      "source": "머니투데이",
-      "title_en": "[속보]코스피, 4700선 밑돌아­… 장중 3%대 ↓",
-      "title_ko": "[속보]코스피, 4700선 밑돌아­… 장중 3%대 ↓",
-      "url": "https://www.mt.co.kr/stock/2026/11/23/2026112309432050472",
-      "ts": 1795394849
-    },
-    {
-      "source": "FT",
-      "title_en": "Delta’s latest flight delays add to mounting concerns over operational issues in the US air travel system",
-      "title_ko": "델타항공 잇단 운항 지연에 美 항공 시스템 운영 차질 우려 확산",
-      "url": "https://t.me/firstsquaw/195063",
-      "ts": 1795394852
-    },
     {
       "source": "전자신문",
       "title_en": "연구소기업 큐어버스, 5000억원 기술이전 이어 230억원 투자유치…내년 코스닥 상장 도전",
@@ -11504,6 +11490,20 @@
       "title_ko": "15조 자사주 매입 '실탄' 풀렸다…외인 투매하면 '줍줍'으로 대응",
       "url": "https://www.news1.kr/finance/general-stock/6363339",
       "ts": 1795425500
+    },
+    {
+      "source": "Reuters",
+      "title_en": "NATO believes Russia is ready to launch nuclear-armed satellite, German media say",
+      "title_ko": "독일 언론 \"러시아, 핵무기 탑재 위성 발사 준비 완료\" NATO 판단",
+      "url": "https://www.reuters.com/business/aerospace-defense/nato-believes-russia-is-ready-launch-nuclear-armed-satellite-german-media-say-2026-11-23/",
+      "ts": 1795425656
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "HEDGE FUNDS TURN BEARISH ON MOMENTUM STOCKS SAYS MORGAN STANLEY",
+      "title_ko": "모건스탠리 \"헤지펀드, 모멘텀 주식에 약세 전환\"",
+      "url": "https://t.me/firstsquaw/195164",
+      "ts": 1795425659
     }
   ]
 }
