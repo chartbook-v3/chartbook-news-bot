@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795393419,
+  "updated_at": 1795393570,
   "id_hashes": [
-    "f00d29395fd55e67a4852e6eb46a5a1cea697cc6f9ad5886cc2c131e508eb894",
-    "c28cec456ff7db0b226fe3edac85a106d13b8793b59fbc45317080f9b6c0da07",
-    "e935583f2657906c3468340f46fd5ca246a966c4294ca809c7a63284b961bc82",
-    "9251835ce37019b5513a40e3cc7e603e9325c34567b4415c26cbd22f6f35c12e",
-    "873aea675ec38a0e3ca217bda6b7339a60baad74f3a36706df34fc14727a42e4",
-    "0f792b41eb3262d6c541f8f5a1e765a19b4cb581041eb3eefb4b6e868e01e150",
-    "b3067520f5df544932b99e79c0a0159b5207815a322cd02723f73c692e5b9550",
-    "5c957a6e5c449321467c3e3df22829111989c7a2f7cb6fdd2ce3b568a6ac5ae4",
-    "3fa6eb14afabee220a325ff9e376d3752662c2c732b0d34607798d644675c590",
-    "b8905f46ace017b83de299b00cc8aa5d0e2f63d5bfa8b336addc759592a1cffb",
-    "768e9a2a1e8e0cc3dc7d4ae8c85ca9d4cd79c2e52ecb8b73fe560c6ad38f6f5f",
-    "d5b0bd2269cb0f8e9e5b62aa89bf2524655b600c24df26707662800e1464efb0",
-    "c5ab1f204dec4e5c52d70074518628d8ef0e7375fd0db0db306499347ff84566",
-    "a6038a6317e40b9ff9733793307bbb6ebf4519ed51448f12ad3e0f2d39b67371",
     "90aae5e89e6a2bd0449337b0d2b4b356805766dc2c1f20a2bbbca51158d55f01",
     "fcbc29f5443caee57b061fb4a8b2633a896535871b7fe910f1576a4699926c93",
     "8260047e808c3c0077b1b5971c61f3eb939284990d19921700fde01c58d9c153",
@@ -4000,21 +3986,23 @@
     "e356ecc69e6d89f225d8185f9a150b7fbc36371de1ea23b0a14f000f601e5dea",
     "87475617b9c83c75903e36bd0e22d957ce3e2f15f2be1d2901ff0ac7babaffa0",
     "7c9c42da59d02ee944f2cf5559ef10981ea5a849314225743bdcde121d54ef5e",
-    "da9d50fb5e65fc02155e46268795d393df7c921280e470c5142ca983bb21dac6"
+    "da9d50fb5e65fc02155e46268795d393df7c921280e470c5142ca983bb21dac6",
+    "f67006737baa4eb6464024376a0c3988e864c1e25433d73a0e616283ac35379f",
+    "d129fd520d040f7e8bb06a22a2e120355f492e2407daadd8f76d23b2b9dec998",
+    "084e44652300efea3cbfeb93bdf22ae065c85226ec10abcac35d5a42581eb98e",
+    "2106099db177395571fe3de937d77302271726ea91b473dbcc0676b521589fad",
+    "fe33297e6da59604c67a24c8f68e1345d84cea576fbbd3ae26802b6c4522f189",
+    "75e72aa5ec8489d84eeb19fea931acb2419b81f471419e448035f3dd4e978e42",
+    "cac81ccb5b1df62515139859e6bf6fd36aa0ae700c7ad874dbcd48d50d12794f",
+    "f419ea5d526ba5754b9eaadb71fe8ad4afbb67086e724588eb615f654eea4927",
+    "4d5b1541c1452447e83b66e017b9b7d5bcd3ace897fbf30adf13e288d38182a0",
+    "b82bd6cc94fea79621763e7b98b647774f70c21a3b89163affe634334a58aa56",
+    "2cd1f27771b871ac7c8c00cc3e30aad32199e587b7384570cbaf6f46ede7ff1f",
+    "92ee4ff8c5493a7a2ac6928708df0d951f8afded2f732a373b861ff29ab08ce0",
+    "c1f09fa78882562e63675388c73398d9abc1801e31c70fac145e1e65ecb1895a",
+    "4f7092c39f8b7772cf35e68b39cad53aa8284baed5577317e668fefdf33417b1"
   ],
   "title_hashes": [
-    "3e7a69c1e9a0f7d3e699b6394f0c34c71151e5d7db55a4c8fed2eb0546e092d0",
-    "877fbd36c4e9d2657c04e04569010e560d790d813defa7d2ce2c10f29c507f87",
-    "799f61c595f9b53934ad96eca078aadbd839d3231357face702c83dde003d3c3",
-    "7d260890d31f336ee4ce690881e49b2f4bc6137e0ac89984932e31b486807ebf",
-    "54f2f4ad6d914daa457deab497abb6c500dbb004d958a3287c2f91191b927d6c",
-    "a83a28aa37da43a61c993baf4bae76bf1d60bd807f21ec11af8a6b875e1c3f15",
-    "55a6d5b47acc0da46deef8aeb392b3e040897fb2a4b124f5b94509a884b78134",
-    "75ecdf63d02c8deb5827b7ab997406dbd221a01d5c5ce239350144735e969c2c",
-    "393fe1e3f9f7804cbb32692233540801e4f743a7da9ca633bade46918fdb763c",
-    "bcd3432a83a8a7f77441b24c4e9bc9f482c1c81b0e8bac697907a6acbcc380a7",
-    "dc276e9c9dbd9da147a8aa78349db0dddfbfd4e3ef3c6aea8949942d6ed5f0e0",
-    "66ca2a7cd00c551c7b68ca392be1e01224f240ded73e7fa21dc715d282552a41",
     "46124c23c51e9025d3bb3876701fe14ca0f4e950fb5b45199a13b8f37a44e0a6",
     "ccad8437c1fbca8330f4639a2a2d22175c30f50d2ab3c1283812ce9b823a3cee",
     "0b816e2b485081bd586ed58cad894968ad3f86291699143b17df63f360a22a9a",
@@ -8002,30 +7990,21 @@
     "631b283d898c6fcabaa22d4bcc762302aaff8e6985e2cd2231700d08a7b109e1",
     "6b2e2e7c345164ce612e5da2e8f6afa7607f07cb689ea61a6e561e2686e4d722",
     "45ac68b1384a503964d8ef59f6f2e9ec0ebd563b839d92e8119807b060ffe208",
-    "a515b9024c3793ddfd0cd40ec6cb6d29f9de4c3bed7e29d5bc50424a26b6b283"
+    "a515b9024c3793ddfd0cd40ec6cb6d29f9de4c3bed7e29d5bc50424a26b6b283",
+    "64a8a00d5f7f61ce6274280280ff6186a24e0b1a6bc92d5d32ea53b09e3973d6",
+    "8327c39c1873b200e53288a134d8b743df049b7f46b80819fdabac3c18751288",
+    "4c4e04e95acc4652ab54690edc09338c5e2a2a56a2a1b2ecd0ff143b3cb88ec3",
+    "b2eb21439b9db4a8cf49704ff19155865c2f11cea008423d4bc8ace9f321c20f",
+    "f283abac983cc7be13e1df32894bb102a95eb3716c59306f9e9a176cf82c61c0",
+    "2df5a083671a472a9c24948379132b1fa37221f6f1da21eb874258664769532d",
+    "0bb923ac20f4d6f0a653409e6d333f662553fb4006a989f0a482e63be70d35ec",
+    "8c49e3d3cae6e00a79b3cfd66ec1dc18b7add170dcfb2fbcff72d7a4e4eb7c92",
+    "03cd9feea3e91a89bd54edc6eafdfc5185594204fb086edc1f1a567f9cc596ff",
+    "6ec07f981242a88808d5ba0a8771db3386e76ab103421f1de05d3983c5e35da0",
+    "dc5fdc80eed290589d7c9b795d0bae8394bf1f5e05f1350e78f3640c47081f7b",
+    "697b58bcbe17da2a81b2e1ad5483f95fbbc8f79b006547917d6599e9d9af04a0"
   ],
   "recent_sent_articles": [
-    {
-      "source": "CNBC",
-      "title_en": "Trump says there could be a 'positive spin' from the latest FBI database hack",
-      "title_ko": "트럼프, 최근 FBI 데이터베이스 해킹 사건 관련 \"긍정적 측면 있을 수도\" 언급",
-      "url": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
-      "ts": 1795280391
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "AOUN SAYS THE ESSENCE OF THE NATIONAL PROJECT IS THAT THERE SHOULD BE NO WEAPONS OUTSIDE THE STATE'S CONTROL THAT TAKE ORDERS FROM ABROAD AND SERVE FOREIGN INTERESTS.",
-      "title_ko": "아운 \"국가 통제 밖의 외국 지령·이익 대변 무장 세력 용납 불가\"",
-      "url": "https://t.me/marketfeed/1083271",
-      "ts": 1795280393
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "Aoun: We are facing a similar campaign from officials, stakeholders, and parties linked to Iranian interference in Lebanon’s affairs.",
-      "title_ko": "아운: 레바논 내 이란 개입 연루 당국자 및 이해관계자들의 공세 직면",
-      "url": "https://t.me/firstsquaw/194864",
-      "ts": 1795280448
-    },
     {
       "source": "FirstSquawk",
       "title_en": "Aoun: Lebanon’s security is guaranteed not by multiple armed groups and decisions, but by a single state, a single army, and a single legitimate authority.",
@@ -11504,6 +11483,27 @@
       "title_ko": "美 반도체지수 10% 급락…삼성전자 3%·SK하이닉스 2%↓[핫종목]",
       "url": "https://www.news1.kr/finance/market-exr/6362385",
       "ts": 1795393418
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "UN Mission in Libya raises alarm over attacks carried out against Benghazi seaport.",
+      "title_ko": "유엔 리비아 지원단, 벵가지 항구 공격 사태에 우려 표명",
+      "url": "https://t.me/firstsquaw/195057",
+      "ts": 1795393444
+    },
+    {
+      "source": "FirstSquawk",
+      "title_en": "UN Mission in Libya underscores the importance of upholding Libya's sovereignty and territorial integrity while ensuring the protection of its people.",
+      "title_ko": "유엔 리비아 지원단, 리비아 주권·영토 보전 및 국민 보호 중요성 강조",
+      "url": "https://t.me/firstsquaw/195058",
+      "ts": 1795393447
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "\"세포치료 넘어 자가면역 신약까지…\" 차바이오텍, 국가과제 발판 눈길",
+      "title_ko": "\"세포치료 넘어 자가면역 신약까지…\" 차바이오텍, 국가과제 발판 눈길",
+      "url": "https://www.fnnews.com/news/202611230920239813",
+      "ts": 1795393506
     }
   ]
 }
