@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795562399,
+  "updated_at": 1795562561,
   "id_hashes": [
-    "f9d4ab7987afe84eed969813709f0b76c068c7132309156de6d774145ac5a37a",
-    "745e7ecb812a410f09a127fe8dc871cea02b3d515fc50f3e33542cfe32bdd2d9",
-    "46e83c81259e3b4c60e5a9d19b4c5a675a419d5c52cecb81854bf811c358b0b1",
-    "2942d82467fd730c75e0574430a8c693ab8db3ab1c0f570bb0c001628fb1f524",
-    "5788c56b40195247920f54ffbbabdaabf6c9c36e084f3cb8257776c4ba825e4e",
     "bf395d4da3c7dfbe5e4649cf65f15e6f564822e2cdf3e866dbf6033f53febe13",
     "839cf57d66c75be1dbe612446334ea6604562923ae8918654e80a23722bc9284",
     "34b5ec5bbce27056590ccf2196105ee7f6d4f19e51c5b3386619d3a74b814dbc",
@@ -4000,14 +3995,14 @@
     "e6966e6d3c41554d0a64355fc72560bd211053f1525cb66f6d85f1ce0b75be3c",
     "7da4e56f28b4a096204498376991637e8f8c301d9bd78b4fcf2a4782971be917",
     "0c512eae38eeaf6924745f5a1f1382d5173f150c050c04c451a94c1ae254cd6d",
-    "5ab54d0e67279e3c8bdf9c2ed8cc83cdf1c32f195972e230a5847aaeb03e6a33"
+    "5ab54d0e67279e3c8bdf9c2ed8cc83cdf1c32f195972e230a5847aaeb03e6a33",
+    "7dd0893e987ec8c50ef710dc117d86cd727fcedc32c0d37c79820e790610b494",
+    "a2ca015118983c8e2777e962ccf53a4d4227574274e8341714d3d1bf1128c547",
+    "d6832bc6ecc10cf356d415e4c6cca3e4e720fdd205b5ee843833602279f63e58",
+    "c5cbf6a971947db8e8db17f3ad8c34e0760ee56013081306b51ac34506edc756",
+    "24047c0370640ab8e6ccf65426844073e3cb4ff851119763c83dd7cfb271f2c9"
   ],
   "title_hashes": [
-    "b5dd2294ffb71467440c079c7040485914231c79086201a4e182026b95c644f0",
-    "932fe68dbc85189003120b33311a0d0792cdf4c38bafc51ae8acbfce2ddd3e8a",
-    "561028e6049774d9555516847b4c7c1c33bb22ac7f2f80fab51d5ea58d34d9d4",
-    "acb44b06e3f11568eeba6ea5ddf4d59153e9e44fc344e0bc43558ce34d49084f",
-    "9600e24a087b3f2ddee2b9576bf51ca49c35af1e3e3d3611761b51c297f517e0",
     "6554f6daf144f2338f2555921a6e5e48fe5e0ac65e6c344f836145fd3855be2a",
     "ad58d2087da1af4f48cb7e9b32c74300baf8cbb111e6f269f1b7e512186fb5bc",
     "43fde1125dd2cbca6104a425d108cf0f1bd91151c27fb6027629c5b237625b02",
@@ -8002,16 +7997,14 @@
     "5de8fc0f7a9feb62e817d78d1af403c9750ac8c1118e16b36cf66a141933bb8d",
     "2f473ce0b3244956d5936bd56773c74f92b05020fffbb1552374680307b03811",
     "6ee64fb1e39bf9821c23db87846d330bdb9370b9079db0032a3b0b4f8d02cfee",
-    "8d294712fd7f04ba3f242289ebfbd714a25cfff552d5d23cd548ad729312822b"
+    "8d294712fd7f04ba3f242289ebfbd714a25cfff552d5d23cd548ad729312822b",
+    "6e90a05de7a0cb851c0898890095b4c91eb83f101ff6ebc02c624e8bd573c848",
+    "eddfbf9cb754e96350b5616be9dd14f0fa019899b3b12421ef27ea4b0486e14a",
+    "2754d323f6d5ad68151666312119cd9940278ec6d07b08c17ac52bacebab2913",
+    "a73c5f259d8329840c036bf2e3b1c9a654069650938c0ee5e0122e38d8274a38",
+    "012852586cf0d618b8325b243a0809d715177d2ecf625d003ca6354c89886f67"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "ECB's Sleijpen: Direction of ECB policy in December seems clear, but uncertain after.",
-      "title_ko": "ECB의 Sleijpen: 12월 ECB 정책 방향은 분명해 보이지만 이후에는 불확실합니다",
-      "url": "https://www.financialjuice.com/News/9866250/ECBs-Sleijpen-Direction-of-ECB-policy-in-December-seems-clear-but-uncertain-after.aspx?xy=rss",
-      "ts": 1795532470
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "崔东树：9月末我国工业企业与制造业应收账款周转天数分别达76天和78天，应收账款总额逼近30万亿元",
@@ -11504,6 +11497,13 @@
       "title_ko": "NSCALE: 기술 매각으로 인해 350억 달러 규모의 IPO가 위협받으므로 비공개 상태를 유지할 수 있는 옵션이 있어",
       "url": "https://t.me/marketfeed/1084826",
       "ts": 1795562284
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "부광약품, 우울증 치료제 '루라시돈' 임상 3상 첫 환자 등록",
+      "title_ko": "부광약품, 우울증 치료제 '루라시돈' 임상 3상 첫 환자 등록",
+      "url": "https://www.news1.kr/bio/pharmaceutical-bio/6364962",
+      "ts": 1795562560
     }
   ]
 }
