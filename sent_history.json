@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795496902,
+  "updated_at": 1795497062,
   "id_hashes": [
-    "ed1bf8994421742cb4ee833f69d02349776b7cfbf024bfb7441277c50fffeccc",
-    "ef4c8434fb127be444c809ecbe6ab2291c0d3cb949cac2b9980b6f3270857937",
-    "04cf8edeb5c22149bd282b6629067b5203a3f7a993f29268e3363171693c15ab",
-    "be5b4fc407ad42d2af0a98a8049c992ef9d2618141d3a20a775e3d539acfa6bf",
-    "4839c269cc9483acd0a738e48cb39f33b7c995f0d193ec5d660cdbf65ac113c1",
-    "b55b0a7331e79bf189822087dae9467b92cd0e93947932649028b3d369f09450",
-    "36c1da469c8612dc4841da493029d16472b13f0db7f6db3632de6634edbf65a2",
     "851b98336987f50ba8933adee3e823b94fe100209df07b077e41e2c2b977d858",
     "11bfcc6c3b41f0cf4227693488af1258f8f78a3e80a98b89562cf64297c465b6",
     "a9406f24dc173e070d5cb9f307117e6142cb7471fb1554eca0c795fbac04aeb6",
@@ -4000,14 +3993,16 @@
     "5488bce520a417956afbf2ec9037948bf49aac5800d955e7b73db105a11936fe",
     "08b3ce4cbc659f171fc3a4e3b5d4aabc0a1335aa1c9e415747de476dcec881d4",
     "c8e84253180c1461385c2a23c2915fccb8455e3ad4dc3782ee6d1f4d5cf1f62f",
-    "c4468ed8acf3af066aa9d9033a1c1b6161bef5b7f5174cef2e6fd269f3b97f28"
+    "c4468ed8acf3af066aa9d9033a1c1b6161bef5b7f5174cef2e6fd269f3b97f28",
+    "59e7bb5826a25ce6d68b414c0eb9515bcfc589256d463e9281c3ee055a2745d3",
+    "047229522599e566dfd3f367952d41f419d7aa1731a8e7225a9c211021eb0018",
+    "b8933497e5ad388b7871230e0d0574dd322b24b4a6812f21007a961534c289c9",
+    "08467db490fcbf394b2a6348d4a3119223b16bd760f55ad2fa886501b3ca8476",
+    "d5406717816194b895d76cbd8e9e76239e46004b3efc5752b5fc9c1f687fb955",
+    "89472f3990225ba32204331e589279246b91c0938ac5b76d63bb6ba17420fe23",
+    "61cf0a8ec3f1340d8244228738bc8388a6ebc4b9f137e47f6a05919679d12512"
   ],
   "title_hashes": [
-    "d028d834bad76bd61cda3b4ab38df4ffee78f9415a93a3b7898c6bf51916d5a4",
-    "bf835238ebdffdbbf751d067a277a03e94626f55c500505f4c00a9d8c053ba74",
-    "269b05ad8189b910215faf3999ffc7345949b0df83ffc3b29e1b2f98bc51f131",
-    "5fcd4ad88e59f0e222431a81de1ba74955197ba8f82d9432f04c9774ffbea6d2",
-    "21de94f95119aa7c7881660d63a91d4bc9e55b337a9f53e5c00694b94bbd9a2b",
     "eb805542bc34672a67c55b38f7c5e74cc192d09c00a41e33c9a70c2b9f94c5cb",
     "0a44630e92927e4aa81e0a84d0c59ddec882e996d5bcb93f62d2f8a61d89a5e8",
     "d2bfb966da29dccfe8697208676b50b4e216617ab21123ff218d9a7ba758b82c",
@@ -8002,23 +7997,14 @@
     "3404d3b54d309fc8df7430befbc674ca20e910c5f4880d618329b81ef253b3f7",
     "920af3fcd84544ddef0cdb35b91ab26287e905ea7dfd7b07d4fed47ee96e29a7",
     "7d7f8415e61f80e6bef0a2cc9a68f80dd572cee20d26fa5c0e4ccda5f897aebd",
-    "83f7629fad441b66fcbb3b7a92a8676cfbc5c2820ef8006b45fbbb2d7311fc8b"
+    "83f7629fad441b66fcbb3b7a92a8676cfbc5c2820ef8006b45fbbb2d7311fc8b",
+    "3b6e227dd4b0aad90f1acdcd2ff24f8ca6c5c241f9f3fbe2ac519ba689407049",
+    "b282a3e25a82b5ff58d96f077e80ca0d00787a3ce220c067d2b123c3ffc548d2",
+    "b5cb64ba879bfadd3591aa0f25a983a5d749333018d9ddf02c7208b2869e1934",
+    "9e2e144c070866169c49cfb9c129cd89cb318d2a96004ba978b774e990dd7af9",
+    "4ad7b2b221e670f53b434442825e5bc68ead431b2e57557b64dd57665bf4e589"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FirstSquawk",
-      "title_en": "UK PM BURNHAM: UK, EU TO AVOID POLICY HARMING EACH OTHER'S INDUSTRIES",
-      "title_ko": "번햄 영국 총리: 영국, EU는 서로의 산업에 해를 끼치는 정책을 피하기 위해",
-      "url": "https://t.me/firstsquaw/195229",
-      "ts": 1795448977
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "트럼프 '젠슨황 구하기' 통했다…SNS 11시간 뒤 이사회 \"복귀\" 발표",
-      "title_ko": "트럼프 '젠슨황 구하기' 통했다…SNS 11시간 뒤 이사회 \"복귀\" 발표",
-      "url": "https://www.news1.kr/world/usa-canada/6363485",
-      "ts": 1795449042
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Anthropic 2X single-stock leveraged ETF starts trading",
@@ -11504,6 +11490,20 @@
       "title_ko": "A주 휴머노이드 로봇 컨셉이 오후 들어 다시 상승했고 Weihong 주가는 20cm2 판을 돌파했습니다. 이전에는 Ampron, Xingyuan Zhuomai, Redick, Fulai New Materials, Ningbo Dongli 및 Keli Sensing과 같은 많은 주식이 일일 한도에 도달했습니다. 헝공정밀, 한웨이테크놀로지, 하온오토모티브, 산웨이신소재 등 많은 종목이 10% 이상 상승했다",
       "url": "https://wallstreetcn.com/livenews/3204698",
       "ts": 1795496849
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Micron steps up HBM investment in Taiwan, Singapore",
+      "title_ko": "마이크론, 대만, 싱가포르에 HBM 투자 강화",
+      "url": "https://www.digitimes.com/news/a20261124VL216/micron-hbm-investment-taiwan-production.html",
+      "ts": 1795497059
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "WASHINGTON HAS YET TO CLEAR THE DELIVERY OF 60 PATRIOT INTERCEPTORS TO KYIV, WITH EUROPEAN STOCKPILES ALSO INVOLVED, FT SAYS.",
+      "title_ko": "워싱턴은 아직 60대의 패트리어트 요격기의 키예프 도착을 승인하지 않았으며 유럽 비축물도 포함되어 있다고 FT는 밝혀",
+      "url": "https://t.me/marketfeed/1084296",
+      "ts": 1795497061
     }
   ]
 }
