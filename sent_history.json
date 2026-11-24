@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795518684,
+  "updated_at": 1795518840,
   "id_hashes": [
-    "6d60d32f7e13c124ee03e219cee4cbb23570cc536149914a863ea3676f41be02",
-    "8348d03aeba4110e3ca89e3ad443cd8ca6ef80c3d99b8b8ab00cc1a3384991e4",
-    "48a2f0e36ecd9eed46d506e47a66b15852d7fe6f20f58dfca872029469a4fbfc",
-    "e84f61190d9bd304109f2d1e40b66e97f959c76831350c328d8a30c331a2bb1d",
-    "3d638b2e146595269dfcbe9f04ca25a00c60f58f0ce01a3707199f6719709952",
-    "fdfb6cf99bf2b5ab76c97c4eb1f5382c262207631490e1cebd2cbe22a13d9e99",
-    "a02b298d9d158e80fbd1092a99ab26d2aebbcd2fced473c5bfc8752634b0be2d",
-    "a1c639bd27ab91725a3835b0d5d36aced768f1262b517c8e98172121188fcd94",
-    "19817f052f1d8bf1b34368aadc7bc78229c31b9a68f0f5b2f0bf0adb3b1502fc",
-    "fc7ac53c36c5cd048636cecf568de438985ba2932280ea72b2bbc4e927ef9d35",
-    "22b2501beada1449df76aa2f140696f8c21fa4dba8e4a4f82ae061d7297ef657",
-    "16adbe0c7707e2bccb34935bb9630e1063da200f1e85852a1f6642c10689fd02",
-    "a685a87da254051242f22d1b4d2f996853e72609adcb2786eb6626a5b7d7583e",
     "13aa02d3438b429c6d4a6f33616ef5307067ba53d4c120b22ffdd55f040e6a60",
     "4f8ad68d173113bc597b727fcecd57bc3b1c559a43668c7b9845e89300872331",
     "fc2fdcea8f7fb35117a28086f229b3f4a72f6616ee8ebab8e02b0a8f788aa8bd",
@@ -4000,21 +3987,22 @@
     "83a7a5668cb23744d0cbfcd41de64adea04e9c39c1d190ad8761123d80607169",
     "0e8ca8402e03a8487410281211f316ae528c3e3a02ce14661d8bfb9bbb836e1a",
     "1a6c094e720c32282c2f2f682b583547331c96330d25840a7ca60e679ec9b8a7",
-    "c3135bd6881de1c04552761a55afab14a610b5db9b0b69056613cf72d9d55d34"
+    "c3135bd6881de1c04552761a55afab14a610b5db9b0b69056613cf72d9d55d34",
+    "261ebf4e399a8bbd173c8202d76a45a1a545ba3a3e253a8471ce254b96fb144d",
+    "40a9cfa62ff55dd97a90da6f9e2ce61abab91e3589d3cd79c6c0ef20eefd2ca7",
+    "b8253bc9837fed5d68a60a97159b69eb1141e966b1b3a86b005ec729234d7767",
+    "1fe69f9a01e87e067b62335bcc52241fb6aaa6c7eb2376c4fd695b23962da2af",
+    "e0996ad6884bd8eaf87e86962f1cd5a85dd756239f6a0a626edc45ff869a25c0",
+    "26c1f301d83e9b815cca8d06d3bb08e34f60a0961de41b03767a01c2c73c9471",
+    "34754d8524db15e02a67f4d82eb02459a15ecd83a7a8a6cbc0e7799a913f48d9",
+    "9f1b283ff3120878fb2801caf585fb5438eca0af7477aff24e2d1348d82f1e6c",
+    "429b2ee2243733f5454a8325fa2a3792dc35069bcf2f098cbce2312e1a061619",
+    "a6bfd11997b3cd390d81dcf3eeaa426d6da8b92b35ecea64b6211c3f6abbc389",
+    "5cf020d930afb4a4e1859de185e94f5b3d09b4cb0231b8c3492ae1c1f7219ac6",
+    "6f39b1d66eea9e55b1a1b72ade93d00525de1515ea4be2e2fcd22c8c5d2c3072",
+    "3c46d13bad9fc86afa53db561d4a37d87491d60405ba11177bde26e1d1c64de0"
   ],
   "title_hashes": [
-    "52ae4064f04174a3a85e86b59243aa3b633f7dad7dc023b61989987a0b1053d8",
-    "f1e97e2e47e539baba083d8f67c51a3dde0122b57a57bfc89d749486bb28e324",
-    "7ae058bb2d89429d707f04ad2087b6b11431ce8dc28fd7ff24bca2e8b1ddddaa",
-    "5f113f00e6da93f6a817716abe416e8026464cc726996b250608a0d45ed628e3",
-    "3e7b1f898250375132abc9076c181ac146871abc81d25ab3609ba6c4ad1585f7",
-    "184d587a8a4c43ddeac7616241676a20802ea8cd148f72f7c38763e1f43a719f",
-    "e6da2d04bf5b236485c60187ecddcf1ee7abd9f8daaa3bd88e8367e87e9ddcd7",
-    "467ea8380120f01e1b882c0652e404bc5bab048ffa2e7ba70e9f82e0294eeda4",
-    "bb3d266069bcadf60adf521a1fc883c03d6a43b9e6b46533292ead0d28791dcd",
-    "cd971e201a40fa9a273acad88f0d0584cb54bb1e8862936f647c699c2b3624b1",
-    "176d4b95d9ed8f378f3b76a6ae1fd345dd05a55a092482caa687d63588c543a7",
-    "8b204851efe0f7ea80eea4e213be421276471ddc42bc4ef9c2960a0010fdf2dc",
     "25b8743ca1c78eff6f60181e39e80c9d625fccf88d41ca4ff01953637d2e0149",
     "7f0d2b4d033d85e7d2b4cce2032306800957f6d762c43a0088e456dff957e572",
     "33825599f96cb03cc96b57098632d4c85d45f1ec48a79d79c61f734b3b7cb38d",
@@ -8002,30 +7990,21 @@
     "c6c657e150e5a749ca7331664aba6d7137a65fa3acba7291ad9bdc9f71f4205b",
     "3f51d96039a9294c067c0ef7a8100abbe27b094ece9d6a5b5fdd189930351502",
     "e3de67ccf0b4653ced7fb30537e72774376a333cb6d1debc4efe1378ddd3ece2",
-    "704324130b83797b9ad2afd875023abbb25b2b89078f328f9ba4b82feed0a8d4"
+    "704324130b83797b9ad2afd875023abbb25b2b89078f328f9ba4b82feed0a8d4",
+    "da0f63c07fd91dc68f42a0d0dcbc8b132bb4626853057d02e7c699f6dd055f0c",
+    "185e76dfc320c2e484e789cc409395b6a85fcae51e12bb00afafac5401c856db",
+    "95a58cce989f83f6377f6a73d28bf161ec396ad298bf94bf5f59cffca303b839",
+    "ac1dddf59332ac9c1bb3e0d4479358b66704744f41d5bc880f15c4af1437d21e",
+    "84ede71f9b1690fe41f002ff669c81b15192b1b7156a833a55392256a601d3a1",
+    "1696313a8de9612426922766bc1b7259c5a03a02fe90cf644933d1f7c56d70fc",
+    "5d0a7e68ffe438d1643ea409d789cf631b3f1a6eaf2fe7d7061246302afc7674",
+    "d11086d52a494f8b8ce1a4d93cb6ada2df450e8f720f05a0dad52d1d5f98e1da",
+    "8e8ea21ccb949088c2f6055428488bd6fc59a1e1951513a380b09667f1b3630a",
+    "f31417c8e8f6e76b1b2ae3adfc5be2d589f1c2e0d0f05bb2b56d1dff6204e92a",
+    "5148e6743c438d3b8de256c4a904f139c5fc25f84b45bc583e020790c233e500",
+    "9353d2bc070a13a90180e675fdd85d263008daee89a4d4fe8225c54eac61985d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "CHINESE AND EUROPEAN UNION OFFICIALS DISCUSS CURRENCY MOVEMENTS, WITH CENTRAL BANK CHIEF PAN STRESSING THE NEED FOR COOPERATION",
-      "title_ko": "중국과 유럽연합 관료들이 통화 이동에 대해 논의하고 중앙은행 총재 팬과 협력의 필요성을 강조",
-      "url": "https://t.me/marketfeed/1084224",
-      "ts": 1795478703
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "TEAMSTERS UNION URGES CONGRESS TO QUICKLY PASS BAN ON CHINESE-CONNECTED VEHICLE CARS",
-      "title_ko": "팀스터 노조(TEAMSTERS UNION), 중국 연결 차량에 대한 금지 조치를 신속하게 통과시킬 것을 의회에 촉구",
-      "url": "https://t.me/marketfeed/1084225",
-      "ts": 1795478705
-    },
-    {
-      "source": "전기신문",
-      "title_en": "(수요광장)ESS, 이젠 국가전력망의 핵심인프라다",
-      "title_ko": "(수요광장)ESS, 이젠 국가전력망의 핵심인프라다",
-      "url": "https://www.electimes.com/news/articleView.html?idxno=375118",
-      "ts": 1795478733
-    },
     {
       "source": "전기신문",
       "title_en": "“오전엔 원전 협력, 오후엔 민주주의”…이반 얀차렉 체코대사의 부산 외교",
@@ -11504,6 +11483,27 @@
       "title_ko": "씨티그룹, 엔비디아 목표주가 225달러→240달러 상향 $NVDA",
       "url": "https://www.financialjuice.com/News/9865910/Nvidia-Citigroup-raises-target-price-to-240-from-225-NVDA.aspx?xy=rss",
       "ts": 1795518683
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "[ Z ]: ANTHROPIC FALLS TO ITS IPO PRICE OF $83, ERASING ALL IPO GAINS: MARKET",
+      "title_ko": "앤스로픽, IPO 공모가 83달러까지 하락…상장 이후 상승분 전량 반납",
+      "url": "https://t.me/marketfeed/1084439",
+      "ts": 1795518721
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "$ANT ANTHROPIC SHARES TRADE BELOW $83 IPO PRICE IN PREMARKET TRADING",
+      "title_ko": "앤스로픽, 프리마켓서 IPO 공모가 83달러 하회",
+      "url": "https://t.me/marketfeed/1084440",
+      "ts": 1795518778
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "东方证券收购上海证券100%股权完成过户",
+      "title_ko": "동방증권, 상해증권 지분 100% 인수 절차 완료",
+      "url": "https://wallstreetcn.com/livenews/3204988",
+      "ts": 1795518782
     }
   ]
 }
