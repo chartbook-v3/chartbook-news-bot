@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795521426,
+  "updated_at": 1795521581,
   "id_hashes": [
-    "dc4463e5d20dc8eb4418db002b9f9f0debc6678bd65345e4c4fbadbbc8cca615",
-    "cf594ebf00899d4f24106561588cfd4d1989ca3010d4aba2ce62811b7a4d288e",
-    "e56cd6850332c63f3b8005d0e72d80754560fcfc29edb27470d2062ec012a2eb",
-    "970d2652acd6f9a48cba70df4f95600a50b2310124ee69b0d8ea5f0e64be0e24",
-    "ab2056a35316ef4e085105e96eaa0f9d353a97faa2255f0acdccaee6495baa9b",
     "c7e2370228a568dc0d213e2465a1eb2e095b6e5746756fb445d692e97ee67414",
     "00639a61c4b244d1828db041dc0c9c79ac4853e7cf57192fc793d39e6418cf03",
     "ab70fb6f692d8520a70c88dec3345ca82091a4a1dec7fdc82ccda6b2107ed012",
@@ -4000,13 +3995,14 @@
     "22ff99df28ff976329024f718a70496f75ef2694e29f39f01ddafcf70446bb58",
     "eeb6aedfdcceba06545e7e1fdac9cb6243c2ca30467fd37808e460d59a91e347",
     "a3de077a87a1ff102104dc2ec1f130facbef46fd59a162f1541df10129582c8a",
-    "f2dc256b10667698ced413014538a94787ead6a358020d756502d26d7d61c7cd"
+    "f2dc256b10667698ced413014538a94787ead6a358020d756502d26d7d61c7cd",
+    "bd6e8b3a3fec9b2a5ffbd5f584d5794a804da85cdf0c1eda12628df10960de6f",
+    "5be0ab48ba06edd5ebdf535ee4029615c08d6e5200c4bacd929f2a7f07e36731",
+    "5f40f6d703c62c1d803780f3a458fce403f088ba6697fcd8c6c5e203c35a44e6",
+    "caa219a8392a083d970bb710c82ce26dda2ae9d6b88008eeced61f700942283d",
+    "d09c354dd0eb2cbac28338e8ccc7fe80e9600c7c6e73341a632f908e31509049"
   ],
   "title_hashes": [
-    "a7993c0f4b003cce2a7a4e165080f27538b22f4cbb11947f663c288f5350eb6a",
-    "51b0c0a01098e07614417eead81852ef62f92ec4e8f249891813fde99193c736",
-    "4af4c2eee60445e8a42d0e40145479839234f011805443353e16f946a7c83b20",
-    "7f86fd41b2ea83d1bbb765eba44d5b12267a27ba3e1ababa414b20bf9d0fa221",
     "f023bf124fee6deb307dc82fb6ba0a7b708af4c599738bdaed98df0efc23cbd0",
     "4a21b6430294df117da6ee2b3520ca16d0d9111362dc02776cf9988f4d1f739a",
     "f65cbf6c2e49eadbfd0934b341d950312e35d38a473520e39d83b5ed3a9881e3",
@@ -8002,16 +7998,13 @@
     "30e4ebf8cb9297e0b2abc81c18e31864281ae3f97e04fd37bced7d5fb755987f",
     "ed77e1794e33befa6c0f481e2f40dcda1a43ab8af337a1da8154629573f84335",
     "6540218bf66af89d75dfc2976527b5eb017e112254a267f06c42cf13964102be",
-    "3a98832beab56f35e650ea0d7650962fc4b3f3f3e077a28d305e0a8962483657"
+    "3a98832beab56f35e650ea0d7650962fc4b3f3f3e077a28d305e0a8962483657",
+    "e839f472f034fdfa9f9a89817e6a9f642c55a2c1bab31d6e40a3f3297cb6d556",
+    "cc210a98ff7b5e32b72c52162a7ae0b063a300bd505b36a2d4fb612aa8ea42ba",
+    "e4d363f48e3227d3b84098e88bb62dd2bf1352ac9d89416207319806652053f1",
+    "8bd6a078c8b40a441929b6d4432fd49000c3a7265176ed8e1e7f6befc6b25f46"
   ],
   "recent_sent_articles": [
-    {
-      "source": "지디넷코리아",
-      "title_en": "삼성전자, 부사장 등 131명 승진…\"AI 메모리 핵심인재 적극 발탁\"",
-      "title_ko": "삼성전자, 부사장 등 131명 승진…\"AI 메모리 핵심인재 적극 발탁\"",
-      "url": "https://zdnet.co.kr/view/?no=20261124090334",
-      "ts": 1795479849
-    },
     {
       "source": "지디넷코리아",
       "title_en": "현대차 ST1, 산불 현장 누빈다…지휘·회의차 3대 실증",
@@ -11504,6 +11497,13 @@
       "title_ko": "ETHEREUM FOUNDATION은 프로토콜 보안 팀을 두 배로 늘리고 AI를 QUANTUM보다 '더 긴급한 위험'이라고 부릅니다",
       "url": "https://t.me/marketfeed/1084459",
       "ts": 1795521425
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "FITCH: GLOBAL SOVEREIGNS 'NEUTRAL' OUTLOOK FOR 2027 REFLECTS EXPECTATION OF FLAT WORLD GDP GROWTH, EASING OF INFLATIONARY PRESSURES EMERGED IN 2H26",
+      "title_ko": "피치: 2027년 글로벌 소버린의 '중립' 전망은 평평한 세계 GDP 성장에 대한 기대와 2H26에 나타난 인플레이션 압력 완화를 반영합니다",
+      "url": "https://t.me/marketfeed/1084460",
+      "ts": 1795521456
     }
   ]
 }
