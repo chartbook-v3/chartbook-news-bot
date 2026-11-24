@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795526553,
+  "updated_at": 1795526714,
   "id_hashes": [
-    "f55a50a649cc6694b67c623b5f475e2f197e860027da4b0c728e860986f6d002",
-    "8237e665bb5c1803ee883471f28414834675149fb481640052f41026da263c12",
-    "1dc5dce9db6ef8f77e9e13ec2a02dca40191dbda7048bbdbd04d8ac72ee590f5",
-    "3064ac6e0f0b46ea025e901b1ac791861073b7c2f45204cd07d590ad11c2686c",
-    "0de2f742e72bba27c06f584716eae1c18980cf725a8bb9ae5a9078220793109a",
-    "6e93fd451bdf058dca582e160141561cdd66b064623be5946adf1c11c5329565",
-    "c8494b9c6e474a77c848a1f7f0cff4ff489c53d7f202b816182a0d28879aad0e",
-    "e56dae55046cabf56140afaac61b63bb7049f2e66842f40e61ab49a8b13ffb2f",
-    "7b539871fc1cfa005664dfd40402781b9fb8775366b95a2543a570325192e620",
-    "260de7aa0b90797f2f0223f395cf010df479fb9fb86e2fefabf01e8cd263cd22",
-    "1db1b34ee0222056710f120661a5cc26c14f52312538362abd37a57ec54e5c92",
-    "ef661c37416d3f34c985b4ae36c03f0be9e9da6dbc8a7be188615902728fb2fe",
-    "1db435e896fb3ab7c52a56469f4c78c180e2b3ff3435c859bec7717b3ffcac9c",
     "afd6f3868b6de3d97553f29a54088c8a34ac7692ff62c978fc9745ace50252f4",
     "38a232d9dbda58b1cc7b0b9ce5ca213b22101e4a6c9e3dd595071df1ed7c527b",
     "bfb26e62d4b2095ccd220b94cca30fe8b7268a6e366be9a7cb3ca29a7f55f9a7",
@@ -4000,19 +3987,22 @@
     "4e3afaf64bed994c235979e74f2b21c1bd5449dbfe83071280de8734d90d83ff",
     "7745b48c4a568e448d48edd79499a97bc786e4d431f25a3f2609ccf103ae8c8a",
     "1f15e133ce71b1c0f573e779486d963e14725c799d4b2f7c307b00ff6eeb44e6",
-    "ff1f636b1b4f71e71473389cdfceabd204c2a5f5592fd6f0b4b41c4f4f992741"
+    "ff1f636b1b4f71e71473389cdfceabd204c2a5f5592fd6f0b4b41c4f4f992741",
+    "3aa2bedc333955cba37432830358217db1159d442e459a53a9964c9bccbf245d",
+    "6799e32d37cb053aa5022b94b60edaebf472e1a43c09ac6ecd4c4defe9728a99",
+    "8cedee6a6f1d53ec1d697c94f04a9b7be4ec182b3f690878c0b0914a22bd53b9",
+    "b551ddbf51e7a7bb9d3f3ce64480a036d33db0717136a4ad5b6ef4737bdc8f1a",
+    "2ee9198b430a9fdcd447a10476a9df06e91f7d07360cb576358091ad1a156d29",
+    "d71bfbb12a24e1f8b3a96e74a48f10ffc66351fc60a9681a8f24953e4bdd602b",
+    "bcc7c3d40f5be3642eb140df7a2c3e3d4781998da9c2ceea4451baa6c919d83b",
+    "d8662382a6b2455492bcd7a3efa9b431ea8d69a542440b9461afee82170db27b",
+    "d722b87e907be33746da13a68a401bb22d1f3d8d5c15dd5e8a8108b4ba2fbdf2",
+    "776a1f384c67ecfc38783e552e5454e2835b02e8511e41cd41ccae3a832f03ab",
+    "63be5a609c91255093b195a6afa55df5d4be498c8adf3ffff2a71185da75632d",
+    "0ad8f605284121859c7be2a3b9947eaebf394fbe5bc447eb16674ebe1649ecd2",
+    "c232bb368a27fe740216f4d58a3572bbd6bd50c6e5894bd22a5aaea6e725188c"
   ],
   "title_hashes": [
-    "f8580e9233525e40054fc26e1fa0fc50d1e15e3da0585c609fec2d81058ab713",
-    "4788004bb322a766012eabf85da9f1b35f032c6a9b0790744de667cc29d842a6",
-    "f0b2003ec56a276775be1465c101e4deb5c3926d8a1692cfa7f329bf38e826b7",
-    "b12f01a714cdc5ca3868f1355b4d73f8baedd843370092ccc7a6a932b0ee2537",
-    "71b9078534ab7abf63bab361becb5e3955fe65643e0962951de33f5aec79d7be",
-    "1531b3cb666b9fb5db6d6afb8d5006805336f23a3acf5b15e5b6a46e0b96a9f1",
-    "79e561dfa696f1e182a5d29b05c4e1a5756eb904e45fdb301a3881261e4978f1",
-    "7e259de89043960e2b30b48b582703f62c43aa0578f46ea86f281b0d277d2688",
-    "667007a62b666ac46a826241e4339335e0286fb21a4cc325524b1cf1a1590000",
-    "09e9d915fb9789cc58b994e666280902c07f111a9e9021127877ddcd074fe974",
     "2aec7e3472adb96e52cf96fb5e48130034b1c477bb859e375177c4c6bff7841d",
     "84d00bd1d740fc058db84b49143ea885f470c3cb3ec2476ba0c1b56917b34495",
     "c8e2d9881eb299da66abd5cb35541339dcdc1a180a5cff6226bc421ef53426e4",
@@ -8002,30 +7992,19 @@
     "40979b39032d7852caae7a2c17861a8aaeec21428717cd9da60d2c4e03e8db3a",
     "9d221ccebbeb367bc09c2e6d6c80bcfd0bf3afdde61e26752f0d1f9102fd4283",
     "215501c464bbdba3475f659b0c3d93cc6f0c30b992853d4aacd5d1fa1dc82e80",
-    "7fe7ca873b355c8cfe59cd533e296f563ea47833e75bc6033b20fb696f386076"
+    "7fe7ca873b355c8cfe59cd533e296f563ea47833e75bc6033b20fb696f386076",
+    "4a8cff239a2dda12c905931bf22ffee84c189445fa16bfb9458ee25573e86e81",
+    "d31b6d759ac47a1ffbfeceb3bcacf41d480390cda118bbc6ef0d386cfe29bb55",
+    "cf661833535d0697d1c626308e01eadeb2b8848e52c29c85abba3027509a82ba",
+    "bed0d60b7facfbfcb8c31de11f223ed9427fd6daa03ff789e1cf1912133e6668",
+    "be08de3b0ff488a71d257ece6a83cc3eeeed69fbce101ff03efdf86a78c0e870",
+    "86b7479c381f68f08b78ccbb301f19b9922ba161c2dd857399a6c81e3a7d5921",
+    "10575132df97f725f0dcb863d4c769d77f394b29a77637805cde593a861948cf",
+    "0697a5cebfaa0faee908ed2241ae1cd5a8286bd22ec42a8b58321962022d0cc0",
+    "48ab14d3cb1bcaf23e7397e3b74f16f72d13fe272b15b392aec8a82994532d03",
+    "aca7086ae208eb83a78efa44f5c982d3d6d30374fdd8af1ea1a2b6c280406972"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "JUST IN: BITCOIN CRASHES UNDER $60,000 AGAIN AS ETH FALLS BELOW $1,700",
-      "title_ko": "방금 진입: ETH가 $1,700 아래로 떨어지면서 비트코인이 다시 $60,000 아래로 추락합니다",
-      "url": "https://t.me/marketfeed/1084269",
-      "ts": 1795490962
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "特朗普将于美东时间周三下午4点在佛罗里达州同北约秘书长会面。",
-      "title_ko": "트럼프 대통령은 수요일 오후 4시(EST) 플로리다에서 NATO 사무총장을 만날 예정이다",
-      "url": "https://wallstreetcn.com/livenews/3204667",
-      "ts": 1795490964
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "MALAYSIAN PM ANWAR PRAISES BEIJING'S STANCE AS 'EXTREMELY REASONABLE' DURING SOUTH CHINA SEA TALKS",
-      "title_ko": "안와르 말레이시아 총리, 남중국해 회담에서 베이징의 입장이 '매우 합리적'이라고 칭찬",
-      "url": "https://t.me/marketfeed/1084270",
-      "ts": 1795490967
-    },
     {
       "source": "MarketFeed",
       "title_en": "MSCI PROVIDES STATEMENT ON ONGOING DISCUSSIONS OVER INDONESIA'S MARKET STATUS",
@@ -11504,6 +11483,27 @@
       "title_ko": "이 Tesla 분석가는 낙관적인 메모에 대한 취재를 시작합니다. 화요일의 상위 5개 이니셔티브는 다음과 같습니다",
       "url": "https://www.benzinga.com/analyst-stock-ratings/initiation/26/11/63574509/this-tesla-analyst-begins-coverage-on-a-bullish-note-here-are-top-5-initiations-for-tuesday",
       "ts": 1795526552
+    },
+    {
+      "source": "9to5Mac",
+      "title_en": "CAD images suggest iPhone 18e will have an odd new camera design",
+      "title_ko": "CAD 이미지에 따르면 iPhone 18e는 이상한 새로운 카메라 디자인을 갖게 될 것입니다",
+      "url": "https://9to5mac.com/2026/11/24/cad-images-suggest-iphone-18e-will-have-an-odd-new-camera-design/",
+      "ts": 1795526706
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Amgen, Anthropic, Kimberly-Clark and More on CNBC’s ‘Final Trades’",
+      "title_ko": "CNBC의 '최종 거래'에 대한 Amgen, Anthropic, Kimberly-Clark 등",
+      "url": "https://www.benzinga.com/trading-ideas/dividends/26/11/63574641/amgen-anthropic-kimberly-clark-and-more-on-cnbcs-final-trades",
+      "ts": 1795526709
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "SAUDI ARABIA SEES NON-OIL ACTIVITIES GROWING 2.5% IN 2026",
+      "title_ko": "사우디아라비아, 2026년 비석유 활동이 2.5% 증가할 것으로 예상",
+      "url": "https://t.me/marketfeed/1084546",
+      "ts": 1795526713
     }
   ]
 }
