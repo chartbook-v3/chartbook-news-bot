@@ -1,17 +1,6 @@
 {
-  "updated_at": 1795562250,
+  "updated_at": 1795562399,
   "id_hashes": [
-    "9092ae8b501c9b9fa94a15af0f0c2d3fef1457082bc24342874dc5858ebe9975",
-    "8913b02905674c8544be77c04da9e449450cdbb7125fe9564e648b2ee714df05",
-    "5c9c20ec905440a381ca293061da8f6c3da32c956af4966cbbcaad88e9be4323",
-    "45f4a919e98ec10267098090b7eeabaf77f07f1d672980abc2006334d1d57b37",
-    "299c0a7a7a1a5349236341c161e7673bedd93628c34603cc70dde4ce2a0e68cd",
-    "0b381a3cb3d3eab75267d118440897f3df7c1d79d074191cbb6dbcb685bf5d28",
-    "eefe22b2f970138b19d6af357bd3a6e6fe67a377b8990f0b4d685c7ac5367144",
-    "b5f5f03f8031a5d8b18a189ddb03c88e1f3474add65f3bf54c909c6dd0d19cbf",
-    "acd2a423c33401c80d57352d8416659b7814ee461aecaf11c8dfb1f7c32832b8",
-    "6d3666e02ed8d136501c26610e78ef54fff731afc49ff392766794285f25b6b8",
-    "0420162ffd50fb4af5cf11f59cf43f69a1004cf61228ff5205d94d4f19540d48",
     "f9d4ab7987afe84eed969813709f0b76c068c7132309156de6d774145ac5a37a",
     "745e7ecb812a410f09a127fe8dc871cea02b3d515fc50f3e33542cfe32bdd2d9",
     "46e83c81259e3b4c60e5a9d19b4c5a675a419d5c52cecb81854bf811c358b0b1",
@@ -4000,19 +3989,20 @@
     "08708d95577e6e0af077a15f59c7ff4e101e0ea43bbe29fad7a18a9c653c5b5b",
     "94c1cf2e858cc3dc1b68356206fe4b1b146b68d8cd284d934db1ece02054a375",
     "3011ac08ce82e132168dbd2aace9c6009f9f7865e0dcde7b54e2400f27a97c62",
-    "a8e3cd9296ce389ed89db8c6e2acc8f489a96e882c4c582791541e29f2d25066"
+    "a8e3cd9296ce389ed89db8c6e2acc8f489a96e882c4c582791541e29f2d25066",
+    "12147241ce2a2988efa1208d6ee14ba91c2ba1e539dfb22879027f4323149e3e",
+    "fff210b2ac0034f1e7804fd92f460d9ce4510029c586902770b90bb1c2e42e28",
+    "ff52a720a6f5380bf1a2e0b2362f24684ccd7278832433cdf20b9ff7923f8a88",
+    "de6c131b2826071e8d5c362bfc111825d575f878442fccf6c69c304cf9274bb9",
+    "93fccaee34b3b56c6f2a08352292fbd3ff20dce4e02567e19531fd890e3680d5",
+    "b510311d21da5e8182950484503eb7ddbbc5d661c2a2a0a4090cd3ddf06b4f68",
+    "57e892bd848cc6a6f26e35d6dd46cc2f08540f501a97a157ac8c9a336a4525ff",
+    "e6966e6d3c41554d0a64355fc72560bd211053f1525cb66f6d85f1ce0b75be3c",
+    "7da4e56f28b4a096204498376991637e8f8c301d9bd78b4fcf2a4782971be917",
+    "0c512eae38eeaf6924745f5a1f1382d5173f150c050c04c451a94c1ae254cd6d",
+    "5ab54d0e67279e3c8bdf9c2ed8cc83cdf1c32f195972e230a5847aaeb03e6a33"
   ],
   "title_hashes": [
-    "23efa4d3f19ac1b406ff9316a207e2b238ec179148a146f66b921c18554cb822",
-    "1fc03f0aec4ec77a8416b49552481e2ab7390d225e35f17917c7f0320f7bb101",
-    "79dc08a93dd08f5ad392e7cb1b82f4e0795107dcd573d7e9fb5774efd57823e1",
-    "bf894f216c299dd8cee2617fb7b283e5fdf843b76321444b1442df707000c3e6",
-    "7a35b7a8b9d25393eac1aaa45852e38cb345e2947f15e0f277dc00da13e50d26",
-    "bc729640feb9a4b423549ffa635e065b8ef44c3f8b249a70e0cd51f5962b8e19",
-    "c9ee105c8393c3ce4d36800892e57368418e229e396b9f8baf20bc8ad7bb398f",
-    "fe9f4e328b9ef5b2f7b4eb9a1946c1693b9d8b03b13817c1bb3b46c98ad6f687",
-    "2da6befa3ac2902d9aae457ccd63a264a040f81fd02d932c252865e131ccbba8",
-    "4136ba7c7ebaaf9aa8b53d2f9b6e5b8df9eca380eb993db292f8cfa61a74474a",
     "b5dd2294ffb71467440c079c7040485914231c79086201a4e182026b95c644f0",
     "932fe68dbc85189003120b33311a0d0792cdf4c38bafc51ae8acbfce2ddd3e8a",
     "561028e6049774d9555516847b4c7c1c33bb22ac7f2f80fab51d5ea58d34d9d4",
@@ -8002,51 +7992,19 @@
     "2d2266aa2d3f636ba076e175f4c8e2801a54061f6af4ba959ee8112bf7c51a05",
     "c42cde3ada272e6d7ef89e5e399f21ddc56e9e509dba337e0f379edc6a96a48a",
     "258b33c625123d1ce6dc1d35de11fd3411c39ea129407a34b4b807e06087c4de",
-    "e54a9b8f4bd10e853b02cbc668adba7113da5f275d6b555e1e5efa11b6b03ad0"
+    "e54a9b8f4bd10e853b02cbc668adba7113da5f275d6b555e1e5efa11b6b03ad0",
+    "84ad164737ea304e5d019e86dfac402bc5fbb223e6ea50e9e2af038b33b415e2",
+    "3493168c02a8bbf206e9f8d17cdf0cf29d4829bc8feaff221ef908f9e07c59ce",
+    "6fa8b99e33f98bfdbfffa6730b41baadd848ca242509610a3f1632c2afd1c7f2",
+    "3fcc0309c258f08668f6ead964b109b7bac7e7bbc8a501311ce354a03f58a3a6",
+    "626ded48c2bb64d749254a86e2c2022cd03f2b98eaff8f23e8790fa8a7407e39",
+    "b75d920ec4d1dd585dd09ec954d6c070f4d2e167cdbaef1a8a26646db1c4f8a6",
+    "5de8fc0f7a9feb62e817d78d1af403c9750ac8c1118e16b36cf66a141933bb8d",
+    "2f473ce0b3244956d5936bd56773c74f92b05020fffbb1552374680307b03811",
+    "6ee64fb1e39bf9821c23db87846d330bdb9370b9079db0032a3b0b4f8d02cfee",
+    "8d294712fd7f04ba3f242289ebfbd714a25cfff552d5d23cd548ad729312822b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Medtronic Reaffirms Fiscal 2027 Outlook While Warning of Harder Second-Half Comparisons and China Pressur",
-      "title_ko": "메드트로닉, 2027년 회계연도 전망 재확인하고 하반기 비교 및 ​​중국 압력 강화 경고",
-      "url": "https://www.benzinga.com/markets/earnings/26/11/63580004/medtronic-reaffirms-fiscal-2027-outlook-while-warning-of-harder-second-half-comparisons-and-china-pressures",
-      "ts": 1795532356
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Nebius shares fall after HPE financing warning",
-      "title_ko": "HPE 자금 조달 경고 이후 Nebius 주가 하락",
-      "url": "https://www.streetinsider.com/Investing/Nebius+shares+fall+after+HPE+financing+warning/27392147.html",
-      "ts": 1795532360
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "South Africa Sentences Russia Army Recruit as Ukraine Urges Action",
-      "title_ko": "남아프리카 공화국, 우크라이나가 조치를 촉구함에 따라 러시아 육군 모집 선고",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/south-africa-sentences-russia-army-recruit-as-ukraine-urges-action",
-      "ts": 1795532427
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Gaza Peace-Board Envoy Blames Netanyahu for Stalling Trump Deal",
-      "title_ko": "가자 평화위원회 특사, 트럼프 협상 지연에 대해 네타냐후 비난",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/gaza-peace-board-envoy-blames-netanyahu-for-stalling-trump-deal",
-      "ts": 1795532431
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "OPEC+ Faces Its Most Consequential Supply Decision of the Year",
-      "title_ko": "OPEC+, 올해 가장 중요한 공급 결정에 직면",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/opec-faces-its-most-consequential-supply-decision-of-the-year",
-      "ts": 1795532434
-    },
-    {
-      "source": "한국경제",
-      "title_en": "삼전닉스 상승 폭 반토막·엔비디아 -6% 출발…'젠슨 황' 효과, 하루 만에 끝?",
-      "title_ko": "삼전닉스 상승 폭 반토막·엔비디아 -6% 출발…'젠슨 황' 효과, 하루 만에 끝?",
-      "url": "https://www.hankyung.com/article/202611248045i",
-      "ts": 1795532462
-    },
     {
       "source": "FinancialJuice",
       "title_en": "ECB's Sleijpen: Direction of ECB policy in December seems clear, but uncertain after.",
@@ -11504,6 +11462,48 @@
       "title_ko": "\"엔비디아, 튤립 버블·NFT 열풍과 유사…젠슨 황에 지나치게 의존\"",
       "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446351",
       "ts": 1795562249
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Nvidia Board Lacked the ‘Guts’ to Tell Trump No: Steve Eisman Smells a ‘Whiff of Corruption’",
+      "title_ko": "Nvidia 이사회는 트럼프에게 거절할 '배짱'이 부족했습니다. Steve Eisman은 '부패의 냄새'를 풍깁니다",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63612406/nvidia-board-lacked-the-guts-to-tell-trump-no",
+      "ts": 1795562272
+    },
+    {
+      "source": "한국사회복지저널",
+      "title_en": "우주항공청, 제11회 우주개발진흥실무위원회 개최…우주수송·천리안 6호 안건 의결",
+      "title_ko": "우주항공청, 제11회 우주개발진흥실무위원회 개최…우주수송·천리안 6호 안건 의결",
+      "url": "http://www.ksw-news.com/news/articleView.html?idxno=3066886",
+      "ts": 1795562275
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Bernstein’s Rasgon on What Jensen Huang’s Return Means for NVDA",
+      "title_ko": "Jensen Huang의 복귀가 NVDA에 미치는 영향에 대한 Bernstein의 Rasgon",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/bernstein-s-rasgon-on-what-huang-s-return-means-for-nvda-video",
+      "ts": 1795562277
+    },
+    {
+      "source": "한국경제",
+      "title_en": "\"영원무역, 환율 하락에 순이익 60% 급감할 것…목표가↓\"-유진",
+      "title_ko": "\"영원무역, 환율 하락에 순이익 60% 급감할 것…목표가↓\"-유진",
+      "url": "https://www.hankyung.com/article/2026112582946",
+      "ts": 1795562280
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Butterball CEO on Thanksgiving Dinner Outlook",
+      "title_ko": "추수감사절 만찬 전망에 대한 버터볼 CEO",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/butterball-ceo-on-thanksgiving-dinner-outlook-video",
+      "ts": 1795562282
+    },
+    {
+      "source": "FT",
+      "title_en": "NSCALE: HAVE OPTION TO STAY PRIVATE AS TECH SELL-OFF THREATENS $35B IPO",
+      "title_ko": "NSCALE: 기술 매각으로 인해 350억 달러 규모의 IPO가 위협받으므로 비공개 상태를 유지할 수 있는 옵션이 있어",
+      "url": "https://t.me/marketfeed/1084826",
+      "ts": 1795562284
     }
   ]
 }
