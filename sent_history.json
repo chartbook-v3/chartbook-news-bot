@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795528486,
+  "updated_at": 1795528653,
   "id_hashes": [
-    "60d68a958abebf50e7161b341cf38afcca62ce676d701d84206c9d37a722aa49",
-    "40737ad8c0e2471778912c09c80dc4b73d499e190b4092a9a4eea1e1888ecfb4",
-    "eb5b7a5aeae92daf5fd3613948b909bf50b66861a745bd3cd2c0797d0d2a27dd",
-    "14e5b9ebd86f5593ee85319138ac1ab77f3e26a0a9af8f9bc5db89ba186c2d9b",
-    "7977c9c43b916d1eae94ba7cd32c58ea99e8f09882e2bedff9dc304adffaa402",
-    "efe942d887f427a525d07becae9222201e178774d3ebb58ad25621ee19deac5b",
-    "86477d77dc608ae9bdd7117a642f4b9e6526a8bd0cb5375d6a28e7df53e8725a",
-    "03d97ef00dcfe7619a940774c223b9fb8b76adcb9c6db69590f59671b913d889",
-    "37ba1e971255eea3fcb403f45dfbbd458b6b3c3b8dafb99365dd23f5d3364e91",
-    "0d807ab8b0cca298a69631329039dbe5636d38b2ca3b6d603a935882aa6b8c43",
-    "3ff3b01ca47ef868325568adfb9cc3c359338b85c78872b9c3f280b29a0578bb",
-    "b9d7df9536a4f4d6b393cf70393cc719bd1178663b7f1807d28ee86e38d465ed",
-    "1490d31272c6106e3a7327cbe89d1081e4a6a0f31332995c654feca606515e27",
     "c4bf0de38713c62c0d7854a43dd8b62862fc3b85f72bb9a73a3f74a3c31a6326",
     "52a9c4186d7775fc8a24cd0229eecf59fd8579d7d454269f6d1df4d6216a52fe",
     "906e7b1efe5debd20ca601a63490a0e38a7af87c0b785f132a5fb42b5dd65774",
@@ -4000,21 +3987,22 @@
     "96f57efe0e27b4360425e419f3bd6545e297bf2a3421c93d3fb28e11f0292c09",
     "64ddf36033a6992e6312b4546a0d76feb2a702468e12c921208854b7643f458a",
     "0f248a6cb0932e4e45e31034b511a90bd0d39e86d68a27d79032a161226617ff",
-    "e1631f77a5fef7d2bd0e0f7764bf6c5000be410f8e695361bffde809025484d4"
+    "e1631f77a5fef7d2bd0e0f7764bf6c5000be410f8e695361bffde809025484d4",
+    "091d56f720c13dbd12577e091943400c0ce6b6359382b006b7a2aa2c0894e326",
+    "1dbdb0b30a49becacf481a8c10ec01223f793864883056b5121d47df58056365",
+    "fff4c64ba8191ea9ce66fbefa4aec9ca8b11a8f35878b4eb6892a2c2f9dc5ef6",
+    "a332a197f43a497fddbb982ad89609de0255f2b7e1b1fcb4887b14f5c33a9e18",
+    "3842df9deb868632ba6725cb966a864313ade59f563d95b372d0a1999bbe398e",
+    "ae42ae6cc963506129da96efd1e66ab5d814722035a387ca4429185bd0e7b9aa",
+    "8cd1ba7e5b626de6cf69cdd7be23722e5cf173edbb991ced2a8993004c6f7a27",
+    "a62e11c2d38708f82abe7dfe5fe253790a89e1e832d569ca7c41823940b79892",
+    "dcdc905db021d56bd509b8fee2b27e754e16fcba62de81e6fa21876f093a9094",
+    "04f846cf1818b9729ff1a52da2aa1ace71fa06ef547f34465e49ca03afbab54f",
+    "69cbc9a0dd3f7e554f424f7e5470b454cbe0a055d6a9d36af59af9984e844014",
+    "4ccd2fe15d8513487eec0b38308a5913d04361f27199fae87a0b95c1f1d44b45",
+    "a0570f60dc7312c70bb13222f69e22403c724b6eef77e2b51e984b60aa8d87d5"
   ],
   "title_hashes": [
-    "82448b82d6d65e05ba75e6252a7f5e1f4d7fd5b9d550057e55c01fd3f87becc5",
-    "c8819e9890b5c61f8811c9212feabbb7300f100a06af0b5c780410452fce60fc",
-    "9d6215c22c9b6d71d136f25aa907518ce0353f4801c358240ef5f6b770a33c4e",
-    "ba2afc73be97cd27f4f589a2efab033b8cfeccb80050f0fcef5ece96c884a1a1",
-    "94f6cf9c4ddcb35bae8f70ae56485c6a5292a7ce2e5fdff925b3a2dc7ecdb40a",
-    "d71aafdd2ad84f49fd25b3079fb04aa6e398de9b62ae350f49eb60c9ecd780fa",
-    "a6795ca2c7f64f5526554626f9e7b41a925cfac389fa9786ef98507a0150f95a",
-    "c835ee485a98cb8c677fffb704aa0f1beb12f45e7045f4f30c1995a99fb61285",
-    "eb20ceb75e1d2ccb894ea3c9a172807311441586f190815e451e479110ea2e0a",
-    "c68ed0a37ec1bc4910c3ca3997de20499f7477f032b30a09515f8e1508f14a17",
-    "af9c7344b140644b681dc8e1cd1460bf5726f6bb52edc140de60cfbe1fcb73c7",
-    "f4be255bd24bb58c0cafc096f151bc195613eae2358cd4468ea161f3d121d773",
     "2714e42deefb7b700b5ac3db5e94602d645f776b60a60a5331fea3d71b61c0d4",
     "80f20ef7ae5651d88a3260db6345f66f02bcecde748c326916ee5db7551b1734",
     "d218613f8ddfdd65e3ecb5a712fec7c6dad839a9ebbad23c4bbb2186167cd3bf",
@@ -8002,44 +7990,21 @@
     "94fb442d33d0d889e54f486b294cb73451cc5298db1c05c51955e4a2d6c80369",
     "53d6e2199ef5be66a50ae6c2814f921a6f5aa554d4da59315d2b153a3731998f",
     "531875e34f0da5a8b1f9e21b621fb36eacecb577db192f9828cbae922a43e575",
-    "29f5ef0210938b4b489f5ca83eed6381fc1ccf2d3d6627bdcd146ad2caf43303"
+    "29f5ef0210938b4b489f5ca83eed6381fc1ccf2d3d6627bdcd146ad2caf43303",
+    "35c72f59d3382334c060be9477fc00a2eacb0dc6fb8f6a4080468922cf6c512a",
+    "8a5c4d887880d1161f9092b1a9def7bcdaf30d853c26b7cb08fad5b0ac29a39b",
+    "e859073dba61c1cdc3163ef309be6f54fee3168ba2f8bcf957e0fcc5f37b4e6d",
+    "18bc8ecea12a3ba60a8f41ea10b3881a114e004384d4aaa6a1ec168a884182d1",
+    "ccbd025515ef9683ff890e2d9342b34c857312a876ad1f0ac8b86e0511c47c2a",
+    "0ea032fa1f14b47f6b9f099db8fb7e5830eb0f892c699c0394374261e5995614",
+    "94ae5ddb3a426435ce5d56385fec303122441709e78bcc38764496b31e3cc735",
+    "25f82faac6f7c34a4d134b39eea0c61d55a21ce1d28a77a334ec7b1c60514210",
+    "44bee2fda8f98176273bb5ab5e0e910af8f74e5a921ae6c1ec2b656470f6ab16",
+    "ad7a301fdd9c92c5f7bc618c47e1b0908dbb8e9876461d2302ce2f7eb3e569d8",
+    "8d5bd72c5c189331ebe155020678de7bf27a8aa160d246ee600d78f9dabb1f20",
+    "49f6f654acea3e5d876950c725cd790b0c991188f110c78d3b816d7ed628226b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FT",
-      "title_en": "NVIDIA SHARES GENERATE UP TO $15 MILLION IN GAINS FOR TRUMP AFTER HUANG'S COMEBACK, REPORT SAYS",
-      "title_ko": "보고서에 따르면 엔비디아 주식은 황의 복귀 이후 트럼프에게 최대 1,500만 달러의 이익을 안겨준다고 합니다",
-      "url": "https://t.me/marketfeed/1084285",
-      "ts": 1795494207
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "HPE targets FY 2027 EPS of $5.05-$5.35 and at least $5.5B in free cash flow driven by 27%-35% revenue growth",
-      "title_ko": "HPE는 27%-35% 매출 성장을 통해 FY 2027 EPS $5.05-$5.35 및 최소 $55억의 잉여 현금 흐름을 목표로 하고 있어",
-      "url": "https://seekingalpha.com/news/4675959-hpe-targets-fy-2027-eps-of-5_05-5_35-and-at-least-5_5b-in-free-cash-flow-driven-by-27?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795494210
-    },
-    {
-      "source": "헬로티",
-      "title_en": "마우저, 반도체 미세화 한계 극복할 차세대 컴퓨팅 기술 소개",
-      "title_ko": "마우저, 반도체 미세화 한계 극복할 차세대 컴퓨팅 기술 소개",
-      "url": "https://www.hellot.net/news/article.html?no=116544",
-      "ts": 1795494272
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "但斌评价黄仁勋回归英伟达：他是英伟达的乔丹，是英伟达之神",
-      "title_ko": "Dan Bin은 Huang Renxun의 Nvidia 복귀에 대해 다음과 같이 말했습니다. 그는 Nvidia의 Jordan이자 Nvidia의 신입니다",
-      "url": "https://wallstreetcn.com/livenews/3204690",
-      "ts": 1795494431
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "伊朗革命卫队：3艘“违规”油轮在霍尔木兹海峡触雷",
-      "title_ko": "이란 혁명수비대 \"호르무즈 해협서 '규정 위반' 유조선 3척 기뢰 접촉\"",
-      "url": "https://wallstreetcn.com/livenews/3204692",
-      "ts": 1795494461
-    },
     {
       "source": "MarketFeed",
       "title_en": "VILLAVICENCIO, COLOMBIA, HIT BY SUSPECTED TERRORIST ATTACK INVOLVING A CAR BOMB AT THE META GOVERNOR’S OFFICE.",
@@ -11504,6 +11469,41 @@
       "title_ko": "화요일에 주목해야 할 주식 4개: ANT, AMD, DKS, DELL",
       "url": "https://seekingalpha.com/news/4676154-4-stocks-to-watch-on-tuesday-ant-amd-dks-and-dell?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795528485
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Trump Tariffs Return, China Could Be Hit Hardest: WSJ - NVIDIA (NASDAQ:NVDA)",
+      "title_ko": "트럼프 관세 부과로 인해 중국이 가장 큰 타격을 입을 수 있음: WSJ - NVIDIA (NASDAQ:NVDA)",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63575690/trump-china-tariffs-return",
+      "ts": 1795528515
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "据美国纽约联储数据，上个交易日（11月23日）担保隔夜融资利率（SOFR）报3.92%，之前一天报3.92%。",
+      "title_ko": "뉴욕 연방준비은행 자료에 따르면 담보부 익일물 금리(SOFR)는 지난 거래일(11월 23일) 3.92%로 전날 3.92%보다 크게 높아졌다",
+      "url": "https://wallstreetcn.com/livenews/3205054",
+      "ts": 1795528580
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "US REDBOOK YOY ACTUAL 11.3% (FORECAST -, PREVIOUS 9.5%) $MACRO",
+      "title_ko": "미국 레드북 YOY 실제 11.3%(예측 -, 이전 9.5%) $MACRO",
+      "url": "https://t.me/marketfeed/1084555",
+      "ts": 1795528587
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Bilibili Q3 2026 Earnings Call Transcript",
+      "title_ko": "Bilibili 2026년 3분기 실적 통화 기록",
+      "url": "https://www.benzinga.com/content/63575353/bilibili-q3-2026-earnings-call-transcript",
+      "ts": 1795528645
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BAYER TO WITHDRAW KERENDIA DRUG FROM GERMAN MARKET",
+      "title_ko": "바이엘, 독일 시장에서 케렌디아 의약품 철수",
+      "url": "https://t.me/marketfeed/1084556",
+      "ts": 1795528652
     }
   ]
 }
