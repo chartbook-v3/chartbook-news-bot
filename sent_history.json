@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795515140,
+  "updated_at": 1795515296,
   "id_hashes": [
-    "260780b4b7dd63f9becfa0c0d16a26c6ceff8ddd3233a910bbeac5e1a2a93a2a",
-    "59142be44f5b7b10cb900f52625d138ce10d95766e1a39050fe6b81023312c16",
-    "82d6fa872bcc369c1c5061e8c4c76e95328b7d278c026bf850812511673cf40b",
-    "c5210b2cdca58bdae900a79530cdd7de32db37add19899d192b6196f361fdaa7",
-    "3d1bee419dbd51b205c0ff2e462cca67845960a76b3227fb4f36154448c71740",
-    "9ad42073085a658f5c69c6fd1b9f51036df5cefb5ca13173965fccd07b224b77",
-    "ea67fdbe0427b4e1943bc07c038bd4b39ceceaabad432ea914b4d3cf6cbc83c4",
-    "e3ce651e3b0648fe79387cfb97252b0aa07879b0df9ef9547ff0c9367d3feaa2",
-    "8d10219374a1d438855e63eca26af6c132701e4255372d7a35492a3f55bed088",
-    "b9d82ee3d5620255809fab08796ff9ad0d32bc38769828037e0ed09e58568f70",
-    "46ed8f287de2fa019e2debae378c47bd3ba4d04016bb288b306b33ed2ad0d3fb",
-    "8be31bc23ef36249b68a554b74c221e411cb3b67b236a47f0f737d85f6e5910a",
     "5b43710e1501e13ab7f34ecbab0fc642d824a7f1a1875b2ff1fcae9cc7118489",
     "30d4f124d765f5df571b764469ef58e13ed077d12049ac5c676c9871159cf7a1",
     "ea10d2b5f69d9aa672eceba907f4726d70c095269d1bd3db380b23e89331b297",
@@ -4000,20 +3988,21 @@
     "d26dd8048dde6b91ae2702098534507d76861a3351f2cd456ad0a5be3368ad8f",
     "6ca0aed7da2e8f12930bb5cb5169d16917f4a6c8f752dc62dbc551c554984046",
     "fd8cc4026f9988dec7654caddf48c29a0c768270ea1487b4ea1e953dddb8b367",
-    "8bfa51f4d5a873e69451f1e08fae0adb4291aae07e892ce662582448304fa085"
+    "8bfa51f4d5a873e69451f1e08fae0adb4291aae07e892ce662582448304fa085",
+    "e83f4c49bae22295f03079e029c1055ecffbabc81328704529b2d9b072d8ef54",
+    "f9f0126d374dbc20282c58de2a418c99d35e759b46b328a730bb71c828a85fcd",
+    "ec868bebad131db6a6d0296ea7d4be2a55658568c9ea77e886b0b09e8b0da873",
+    "93049a8ba5e85dec46747ef0dd285588608fe6f50d320ef6013725d158605fe7",
+    "0ef9ba4aaf70ce2b0593a8f735df8d9586e488c59c3d85c7b3fe46e434822740",
+    "da674714007cb54b2004015192f8c844fcb0a19773fccbb9b12ca88c9a244135",
+    "e38f4716e468f313500d7c169651ae21fcae2b11bf815d028b15db6019bd0af3",
+    "48fd32402feb1b688af0a75f7f3fce4311aecbb44b3f42588f482c0d5661d492",
+    "64e36c668003db9e2bf5da37da3c1fd880f9cebc46813a3f1f47d2666de4546e",
+    "1ad4414134e8de9f9568c1c94c810b7e88fe14346d7be303face1123e662f6a3",
+    "bf3fa6dad6047a111f595f044aca84a8a99b2daada60440618bee0ce3ab97d17",
+    "d1d8f6e729dfcf88d499e528ae43a16bc4fb26d92274f37959058c6a9c143ca2"
   ],
   "title_hashes": [
-    "0fc3715c35dbf36f3265ca320207b0a758474630ea6fa7b1feb74a8bfd0243fe",
-    "21e96f456292c20e6feadb41726f88fa5c48cd550f1f1aa06b72d1c9584f4775",
-    "d165a1ec1e301a8fe9e5fd24c306d0ca340a713fe91262a9cbe4d6b06b0b5f7b",
-    "8b0b58d168c442cd11fad3d00194a61efb12cf86b3712a44fc746c8624d9a8cd",
-    "ae8bb823ae6dbee416bcb8105a33d3f4f637dbf797a5c7e88e50561a71d96efa",
-    "5c1ec9ba9a0ea482f2dff7f556e9430108e3310f65cb35710a7c38893046d8c2",
-    "45769e56f39d2f689ef1b06cd219f96ba86b2d4b2bc2322b023585b8887bf9e2",
-    "e48567a49344a6061c4894d3b9c758af6fd777f895f40ccdebf5d3045cf5e34b",
-    "1ae18659e928d7c9dd0a91bd39bdb283c2f27e751ad2136152f357534f7cc25e",
-    "2ccd7171b0f63b2aa0e1e59813d4e831bde4b066e24f812df2892f369c04efbd",
-    "ae6dbdff89699742aeb2ac87d92f50343169185c26d86c80121203bb53329ef3",
     "f1853c505ac94a5fd0ed617f12b2f74860ab36aa96dbf74ba12f7ba4cebf5c69",
     "d1aaf5dc170da82c9d91483292649dbc205402e1a07bbaaad72d79dbf581abea",
     "759b23f2cb3b7f3bcca0edd284f8834ac1f5986a4cad0ad81833eb5c49ffb390",
@@ -8002,30 +7991,20 @@
     "cc303fbf1f068b8f29a95b616a1a55b905141d4595d32c47b62e61ecf0ce589f",
     "d45dc0ce3e9079963147208ab2dded5309ae8f338feea22d19b04e1a08866439",
     "6ecc3964b12f1ff5857d050e922eaa0207e1891501eef7afd4b224aa8671d38b",
-    "971bc3a1bcfa8e972dd8a2d889769304e4b2669e6406c0b5db164af9dfa6431f"
+    "971bc3a1bcfa8e972dd8a2d889769304e4b2669e6406c0b5db164af9dfa6431f",
+    "f13f9be508e66389d7771a9827d42df0b8f9ba5722fe5934705a6342238a91b7",
+    "992afa35fe7ded9b33d9871d21ee2d22363700ccfc8c6bc7aebcca00f7fc0a22",
+    "b6abba14993b2c8413c7bf12edeac3b2860e0102b34ac6998fc20df1f312aed3",
+    "54ee7e508d6343ca7532810a5f667116453003af582d9a389aa2ba62af9de1d8",
+    "15b4cca1a3b601ebb97a88af8c46385aabd378c217f1c5487cb241670cd54bcb",
+    "5f83d9f90e8b568c4e3c4b76185411c948727c92845aea80bc9b61727b16e1e2",
+    "5ec2d18c34226a1648562d1fbdede4e2ece0fea62ba6a90f6cf13af220696f50",
+    "458d9c83d8d1e848c4a827ab8b309cae2f959a813b163be7d4730fad335cd723",
+    "25cac55e8469d15658cac18a1c8f6510c7ddabb84f802e3e0cff8c13eecbbf3f",
+    "6bfcd4701c96470a73fd800f2095ff93e7b2104298328309118b27881889552e",
+    "3b8c4c2d92f17b41d15067d844ff9a4efdc0a60beec5e0eb3afdab026ff5de3f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "RBC Has Ideas For Canada to Unlock Tech GDP Gains as NVIDIA Rallies",
-      "title_ko": "RBC는 캐나다가 NVIDIA 집회를 통해 기술 GDP 이익을 얻을 수 있는 아이디어를 가지고 있어",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-23/rbc-has-ideas-for-canada-to-unlock-tech-gdp-gains-as-nvidia-rallies",
-      "ts": 1795477132
-    },
-    {
-      "source": "전파신문",
-      "title_en": "우주청, 초소형위성체계 공공분야 운영·활용 워크숍",
-      "title_ko": "우주청, 초소형위성체계 공공분야 운영·활용 워크숍",
-      "url": "http://www.jeonpa.co.kr/news/articleView.html?idxno=228966",
-      "ts": 1795477134
-    },
-    {
-      "source": "머니투데이",
-      "title_en": "[속보] 軍 \"러시아 군용기 수 대, 동해 KADIZ 진입…영공침범 없어\"",
-      "title_ko": "[속보] 軍 \"러시아 군용기 수 대, 동해 KADIZ 진입…영공침범 없어\"",
-      "url": "https://www.mt.co.kr/index.php/politics/2026/11/24/2026112408284075110",
-      "ts": 1795477137
-    },
     {
       "source": "에너지데일리",
       "title_en": "우주항공청 출범 2년 반…흩어진 우주·항공 법체계 ‘하나로’ 묶는다",
@@ -11504,6 +11483,27 @@
       "title_ko": "Vipshop Holdings(VIPS)가 3분기 EPS를 8c만큼 놓쳤습니다. 안내를 제공합니다",
       "url": "https://www.streetinsider.com/Earnings/Vipshop+Holdings+%28VIPS%29+Misses+Q3+EPS+by+8c%3B+offers+guidance/27389983.html",
       "ts": 1795515139
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Vipshop misses top-line and bottom-line estimates; approves special cash dividend of $0.73 per ADS",
+      "title_ko": "빕샵, 매출 및 순이익 예상치 하회…ADS당 0.73달러 특별 현금 배당 승인",
+      "url": "https://seekingalpha.com/news/4676039-vipshop-misses-top-line-and-bottom-line-estimates-approves-special-cash-dividend-of-073-per-ads?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795515232
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "老虎证券第三季度营收同比下降1.5%至1.73亿美元，净利润4640万美元",
+      "title_ko": "업비트(老虎证券) 3분기 매출 1.73억 달러로 전년 대비 1.5% 감소, 순이익 4,640만 달러 기록",
+      "url": "https://wallstreetcn.com/livenews/3204930",
+      "ts": 1795515240
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Dell Gears Up For Q3 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analyst",
+      "title_ko": "델, 3분기 실적 발표 앞두고 월가 최고 적중률 애널리스트들의 전망치 수정 주목",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/63569833/dell-gears-up-for-q3-print-here-are-the-recent-forecast-changes-from-wall-streets-most-accurate-analysts",
+      "ts": 1795515295
     }
   ]
 }
