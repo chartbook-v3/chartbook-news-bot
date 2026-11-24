@@ -1,30 +1,6 @@
 {
-  "updated_at": 1795479196,
+  "updated_at": 1795479363,
   "id_hashes": [
-    "318a10f69eae0f8eddf2daf1863deb3b988d6cccae8c175fd99183e08f47b82a",
-    "37714a4b01cb6b3c89b38b77b658d875e31b9063782f4875b5e6ec87bc054dba",
-    "dbc8790920b95fb5a2af9ac93ab945614e545c42cb53fa884dc2cfcc274a1cfa",
-    "637180ae33fa13986570645c5772be063dec47ecd1ecaddbcac7042b152343c9",
-    "9b5ae2809c846aab28ced521e623cd3d56c1f1192894881fe9740259634afde5",
-    "695f98c301bd0be3b9cb2938a069557437a8766926285f287ecad12e900d3dbb",
-    "0381601882858060081fc8545c69157b35334243f5f6b08e24e558b83fc88209",
-    "0ec07507981832df2207a33323ce5338636911886263fe8ccf9f33a860abc20e",
-    "5fe3ebc05f6bd3bd12d8012a26190d2ddacb9bc1054e2faf0c2be45c21fe0fdb",
-    "81995218f768b3924be29da674dec12ca43c08e770cd442b576fed1dd5c89682",
-    "67df2fbe1ff0edb76163dc83844068947aaae0456f4e71a20a4b5b2717238132",
-    "180547bc003b8d104e7480069d8a4f99d14813e6f0815fe86f1737f7bdb170da",
-    "7125e13119252743285a58774fa377ad4a4550a0692c2dc244abccb481a4cc3a",
-    "aa665b3f2bd4a028862dda7b4ca69ebae25fe59f31096edc4c7e98e2f284f98f",
-    "efd8e1354538b21b2128782de24cd633520424e9e54453f8963927f4054d1363",
-    "a848678c2893dce705556cfba9c99b5f5f53357d19861864428aa70d1a3f1ca2",
-    "3e256c3dcb6e5dc08dc97eccee1daa5961717988c66e5471702f3e42ce1cbc7f",
-    "a46dc3e7bbf5d95203606f6806f0905c836112745b90a63468f549f08385dcb4",
-    "029dce04f2bda5970dbb7e690b6df6c371cf5227457068e1aae3cb4220424a8c",
-    "1cb7bc5f47bdd85701466f952f2e049a4ff20a13b5c958f0a79ee3429531c7dd",
-    "85555f8233465ea7b8fb12980a02702f745f8317e6bf6d13299bc603b522eca9",
-    "aa3bc0ad742a96f23d0ec2f7361529dffe792f7df08dfaca170320536740e846",
-    "e783eabfcd8b843f6e1dde45ba345b46a06e8dcf174ddc713efdda80bc5645a2",
-    "5855d7e0ca3ad5e49234705f5bd1ee935c078a8055c4853445da648138bbd7c1",
     "bee30c7ae752edc59ac32892993bcd64961d300f4995aea89009ce081cb505db",
     "933c3f2cfa5ca36367c72ddd84ed2f87c51fbea2ce241b4c1902cd7ecf0dcdf4",
     "471e36a0c410dc5a28ed669069e6203a4d9074fea04520a741c533bf90a115b4",
@@ -4000,29 +3976,33 @@
     "74fcadd5275f68a339a9eece8ac81c0a7f233158976b13726da0127afe42efa1",
     "6feed37d70b5620605b9c6905cbd5fd02c5ffdf24abb0f41083258a6727a0a30",
     "4abab880623bbde9c31c20c6fd5baf29b6c40bfc8fac1d207e0bd1de15592b0a",
-    "215e61981fdf99a4ed55ee798c09b81151aa4cc21f8151c7e66cfaaf595df49d"
+    "215e61981fdf99a4ed55ee798c09b81151aa4cc21f8151c7e66cfaaf595df49d",
+    "ec3bf8824e122ba98efd819d8a1c573a41abd4d40000b75d6dabd67854331c15",
+    "9c808e8364976888eea4c50965693eea45c9d82f28eacfe044c7d1b1eb6218f9",
+    "336df5eb530bc3691f6acd8557d02d7b7c83c8460cefc02829586e2e0f803276",
+    "b6646f666dfb60988edce4b696403f355ec984f87de11d42635117036275e964",
+    "9c1c995ddd82b375e8b31c5beb909ea662abb3c91bbce17eff661d1214dbea09",
+    "c4ee7bdac884798737db4f62f926bec6f48e0b10b768c9dab4251b3b531af5cd",
+    "60dc0938d95719ee598b24afa0e0f24c595be59617f302af31b1abc65ca6668b",
+    "c1eeae6a9aa2a600d080483d693b6f8862e3d3d4d87ce6cbb8c4f221178cb09a",
+    "57094eafb116448d231cc01770a33e3fcd364aa55c75455be8b3d934f74c9174",
+    "bdda7827de7809e89016ef104ba348c6e8538d52954cd5e0923c108cfe4045f6",
+    "aebc8765dc716626747b15ffda827eef434972fcf1eeb524dec1e21abbd61486",
+    "85c43e43079249f58b649c9486ca5e87de63e8453b2e5f080b3b43f60e440a83",
+    "33146299100b2053db747ec89f2551cbbc0723b9bb84770c296701ef7a0c0895",
+    "b40c1674ae11a8af8e26882ba9eb9183f409f6a5acdd80b9c005f40aec2e72af",
+    "b40b57cfab0ef719f59c5551be48dc72c81f11c5858f442699c7e4ed7015ef96",
+    "fe605572a90b1b73ba52d2e90c1135c67cebf6fe461f31c592bbb1a13b95d216",
+    "6c68da3a8d16fc554353b41184b5f5acec96ba75e9857e30b8181a4b8932d2a5",
+    "d66d27610f3cdf4981899b279dfef779030f4994f485ce4a5cae84733ad0b3ee",
+    "20af4bdf92d13e760db053b14432391234b37fbfbdef52ce577f300567ac5c9d",
+    "69d28d192284bd9bf762a334b2c221c0373bd95e3613ef2928c1438719387dbe",
+    "2933be23659719df5396c619b42d2687394636e8144744065f78708c8d053e8c",
+    "3076491261b9ae1b3163d4ad645618bf7794e700d7630f0320edb309d48930df",
+    "bdfffe5752a2288933069cf60338b04984fdc9cd1a325ac94cf9b19af723abc8",
+    "e7e23d9211287f75f3dc2fd3724998d0f6f578f28a4d484a03177ce05e4489cf"
   ],
   "title_hashes": [
-    "6c6fbd57e127ca745dad312c77c92d4e2ff1a81e4d2e51d51df97f860e43a2c5",
-    "569085ef3f7ffa3b55b88c70d53f5fa9e87dd49985634b5dfd3d4550b9f92daa",
-    "a557aa13f0f416f19cb865e6570968f09b1682e5c0b629cc41c20db0cd8b0c75",
-    "c0a23a77b99347334c52d5eeb2da73bf0481c71bec83404d01ae544745e18a95",
-    "eb87b2694ad91117ea1ec90154ceb4e706c28ab6d9a76f25099dc6703de68281",
-    "13156178b11e69f39b220d51228eb9b0d7c26565ecc513a927a31f6fd015908a",
-    "e12d3ba36a8dc79a5c02822dc9e464a558133908e07c37cdbb2237407e86641b",
-    "9dbf35e869ce2d511c2ced14e6acf7a17ab70c7608b5a5836d4ace64f020f3eb",
-    "4050eed75dceb4dee076269320adc3e6ae1449fbce58c19000c6079e7e256d7c",
-    "bfe56f33c57a4c5b99c467e9c89b7a4fa1aaa59f68458f66983312cce08e1442",
-    "2491e30d2b6d4de4fd9d5cadf88d1a77f36a77eee11adb244d65174ded8ab768",
-    "776e23267c837d07285342abcd147fd51df84286fdeaa8cb4f8ecd4b1efa27d2",
-    "d27f0add6c639499c91caea7497bf0659d3e6d461edc6724815dafd7f9a02d79",
-    "59566cea4d1e5c5ce33a61737710b8c95e6161d81bc1d98bdbc1b3f60b4f8380",
-    "a1c2fd2a1d1eac30e3d5d38c9adfb7671bd4db747ace56767813cc95bcdc432a",
-    "5135257ba029713ee1985e977647bc77c4ba64ef20847e363d4f6d468d1ec8fa",
-    "dbfde4d7710fff22b58ca0ac5212c4d8e1ad94d6ae538133ce5a2d909c74a9e7",
-    "53719a4ab1a9c6ff6083120116e17fabad06e6a7b50186793b88351789858dc0",
-    "1cb854b35488340fcc3071fb4ae025fb4dbfc182086f014a09e0114cf93ef095",
-    "2d367c31dcfd9b797affde01286766b62b532568dbe44cb8bb8653f63a49bc10",
     "799dacfe26630270a7f9241ae996d443c7d093a7899358d06b8f0955e412711c",
     "7b0214cdbd79aa4f573352b8842e7d2e68f9710c5d3f1c78f68d80b816106d7c",
     "e069af2be7374cc75b150bdd485fc70f8330e90346d1a0b86156bbdad2e49176",
@@ -8002,58 +7982,29 @@
     "cfe9f3302c1e15e9d5b7cd976b8cd79b0a3ca8dbd640a9db40565b1fc5592572",
     "d789028e7b18bf78bab5381b9a0d15a74b48fadc583e691bb52108d1dab48513",
     "6ab03ca4f07af3dfd534bcce0baff11bc5385c98cd8e14c12aa668ecab0523e1",
-    "acf9222c9e9065fe05d081f26fbe831a4aacf0aa337bd3d2e577650182e9175a"
+    "acf9222c9e9065fe05d081f26fbe831a4aacf0aa337bd3d2e577650182e9175a",
+    "5717ba0541af90ad183fae5aeb1ab9675f17b6751dd79a38fb426555e1a6d869",
+    "0965c79486038a20e5a9b1b649e2c684bca1891ae9e62fb6209fa2d97bc45672",
+    "063493e3556ace7b97d8513dcdc5d9caf883198b1a7648d8a5ffce2a9a496011",
+    "209af05c5f2711cbb6aacb6be18eb4baa0a0831c5cf3a3866521d67f717e6ace",
+    "0ec60fda539fde58c78ae4d2c8d365ce1e489d5ba61c4862ef558b70171d69c7",
+    "4b0c5bfdeb1fd78d41a1dac7925939f302846a2c4fefd7fd400080651bc0f170",
+    "0728a32fe3d6a681d9e232c2cfbfacda4677379858c75dc997b22cff44951b60",
+    "53c2caa5a0a4230d0fb5da7d6a6625c4eedcc44df122de8a1239e2d5d3cc4d45",
+    "0e917c09c19e947cf970c8ebba28a64b4406a88a8819803fabf4df17f64aee42",
+    "9c68fcffba91d3e1926e7a748d5c3850a3059695344af72bb865caf7b3d83fa0",
+    "b0817e31c0d2e7e0f4ce87d575db3b06f08ca75d6d2361c40e1333adbcee1d72",
+    "b5d32265a254e186da4ea54491853f88bba081dd40089d26069736bb16f132f9",
+    "3841b38ef6ca4b9900edb4917b792ab924cdc40c062829d5deefc2718af62da6",
+    "d83ed027b218a0c5f334fe15581e3581c97ce430d779c6aabf21d75a7c74fe35",
+    "66762154fb363a6bccfa5ecffdab5b85b48ae55a6b1b79db217ae31dd94e9f84",
+    "dfd6dd911c2b9520a347405858ced0776a136c9c034651ac514b92349406ea69",
+    "45115d610b2b4eb38b462dde6707746fb1d59c261dda97cd367283ccd76cf398",
+    "731df60a8693d95563d6deed9d3fbaf7bdd4604dd90997991f3bc88eb5292473",
+    "1796abd7adbb766d9a2fb82ec0e1246b007e876a0584b6c86ce2f6cf973bdf52",
+    "b1a696ba9aaf7a7398808770801a9f09d1bc3e612bad73e615f31f7939f64f6a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wccftech",
-      "title_en": "Intel’s 12 And 10 P-Core Bartlett Lake CPUs Now Reportedly Run Out Of The Box On MSI Z690 And Z790 Boards With Power Limits Unlocked",
-      "title_ko": "Intel의 12개 및 10개 P-Core Bartlett Lake CPU는 이제 전력 제한이 잠금 해제된 MSI Z690 및 Z790 보드에서 즉시 실행되는 것으로 알려졌습니다",
-      "url": "https://wccftech.com/intels-12-and-10-p-core-bartlett-lake-cpus-now-reportedly-run-out-of-the-box-on-msi-z690-and-z790-boards-with-power-limits-unlocked/",
-      "ts": 1795440692
-    },
-    {
-      "source": "매일경제",
-      "title_en": "리서치 솔루션즈, CJK계열에 피인수..주당 3.25달러·프리미엄 52%",
-      "title_ko": "리서치 솔루션즈, CJK계열에 피인수..주당 3.25달러·프리미엄 52%",
-      "url": "https://stock.mk.co.kr/news/view/1204394",
-      "ts": 1795440729
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Trump: I hope Huang will be back at NVIDIA soon - PBS. $NVDA",
-      "title_ko": "트럼프: 황이 곧 엔비디아로 돌아오길 바랍니다 - PBS. 엔비디아",
-      "url": "https://www.financialjuice.com/News/9864411/Trump-I-hope-Huang-will-be-back-at-NVIDIA-soon---PBS-NVDA.aspx?xy=rss",
-      "ts": 1795440734
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Pioneer Power Begins Converting PRYMUS Quote Pipeline into Commercial Wins, with Significant Growth Opportunities Ahead",
-      "title_ko": "Pioneer Power는 PRYMUS Quote 파이프라인을 상업적 성공으로 전환하기 시작했으며 상당한 성장 기회를 앞두고 있어",
-      "url": "https://www.streetinsider.com/Business+Wire/Pioneer+Power+Begins+Converting+PRYMUS+Quote+Pipeline+into+Commercial+Wins%2C+with+Significant+Growth+Opportunities+Ahead/27384907.html",
-      "ts": 1795440858
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "BITMINE'S ETH HOLDINGS REACHED 6.09 MILLION AFTER ACQUIRING 7,819 TOKENS OVER THE PAST WEEK",
-      "title_ko": "지난 주 동안 7,819개의 토큰을 획득한 후 Bitmine의 ETH 보유량이 609만 개에 도달",
-      "url": "https://t.me/marketfeed/1083815",
-      "ts": 1795440866
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Counselor to US Treasury Zervos: Last week brought tightening in financial conditions",
-      "title_ko": "미 재무부 저보스(Zervos) 고문: 지난주 금융 상황이 긴축화되었습니다",
-      "url": "https://www.financialjuice.com/News/9864429/Counselor-to-US-Treasury-Zervos-Last-week-brought-tightening-in-financial-conditions.aspx?xy=rss",
-      "ts": 1795440875
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "DoorDash increases borrowing capabilities to help fund Instacart acquisition",
-      "title_ko": "도어대시, 인스탁트 인수 자금 확보 위해 차입 한도 확대",
-      "url": "https://seekingalpha.com/news/4675534-doordash-increases-borrowing-capabilities-to-help-fund-instacart-acquisition?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795440917
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Chicago Fed National Activity Index dips in October, reversing September's increase",
@@ -11504,6 +11455,55 @@
       "title_ko": "K방산, 브라질과 수송기 이어 전차·장갑차로 협력 확대",
       "url": "https://zdnet.co.kr/view/?no=20261124091126",
       "ts": 1795479195
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "오픈AI 모델 보안 사고 파장…미국 은행, AI 근무 시간까지 제한",
+      "title_ko": "오픈AI 모델 보안 사고 파장…미국 은행, AI 근무 시간까지 제한",
+      "url": "https://zdnet.co.kr/view/?no=20261124090351",
+      "ts": 1795479222
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "美国正在调查伊朗是否参与了针对油轮的网络攻击。知情人士透露，有多达50艘载有石油、液化石油气、化学制品及其他易爆物质的船只遭到网络攻击。（华尔街日报）",
+      "title_ko": "미국, 이란의 유조선 사이버 공격 연루 여부 조사 착수…선박 50척 피해 (WSJ)",
+      "url": "https://wallstreetcn.com/livenews/3204575",
+      "ts": 1795479225
+    },
+    {
+      "source": "한국경제",
+      "title_en": "젠슨황 복귀 밀어붙인 트럼프, 엔비디아 급등에 보유 주식 '잭팟'",
+      "title_ko": "젠슨황 복귀 밀어붙인 트럼프, 엔비디아 급등에 보유 주식 '잭팟'",
+      "url": "https://www.hankyung.com/article/2026112457787",
+      "ts": 1795479348
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Nvidia Board Faces Questions After Huang Reinstatement",
+      "title_ko": "엔비디아 이사회, 젠슨 황 복귀 이후 의문 제기 직면",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-23/balance-of-power-late-edition-11-23-2026-video",
+      "ts": 1795479353
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Analysis: Huang's return to Nvidia leaves China strategy and US oversight unresolved",
+      "title_ko": "분석: 황의 엔비디아 복귀로 인해 중국 전략과 미국의 감독이 해결되지 않은 상태",
+      "url": "https://www.digitimes.com/news/a20261124PD202/nvidia-jensen-huang-government-ceo-market.html",
+      "ts": 1795479357
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "HPE's AI server demand drives fiscal fourth-quarter growth",
+      "title_ko": "HPE의 AI 서버 수요로 회계연도 4분기 성장 주도",
+      "url": "https://www.digitimes.com/news/a20261124VL202/hpe-growth-demand-revenue-business.html",
+      "ts": 1795479360
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "코스피, 장초반 6.16% 상승한 4998.69…코스닥 3.40%↑(2보)",
+      "title_ko": "코스피, 장초반 6.16% 상승한 4998.69…코스닥 3.40%↑(2보)",
+      "url": "https://www.news1.kr/finance/market-exr/6363701",
+      "ts": 1795479362
     }
   ]
 }
