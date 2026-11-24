@@ -1,21 +1,6 @@
 {
-  "updated_at": 1795554745,
+  "updated_at": 1795554899,
   "id_hashes": [
-    "7e2a0a867272e62f2183a680cac756bd7039703bcbdb2c9447385009e6afe576",
-    "140d2ee964e466dd138249f0fc9cdce27f33a39b31e898ac9ade217eb61c91c9",
-    "c31870af6d2d889dd117cc3f19e59cf45bc550457d3bbf9847e508d7e9d1f9b6",
-    "996410e5ff4e7b6ac5c95b80cf05d6c50b1aed227a9fa506769f7b3d33320864",
-    "26560355e977210fa65f86d0f1f21af6ce4fac680a0ffc03ebdaf2123db03333",
-    "ee1bc10b07a87cb9f2a8ffebfdcc9854a54f629f6fcd4c6c822e17e28321a869",
-    "fae014b757d8a03a900ebae757cfb516eb23a4cc10c2cf1afec2ec549b737a7f",
-    "3a6c9c703c793f2082e27814c781e613350ca2d366d6f111c8d8f9b034c06faf",
-    "abe3899f5beaffe2092f4560bf90d26dea023f9eb424db0c731e2a4a316d3c03",
-    "80104166ec6f522b623accee75ddbf4cc2da6db687aeeea1b02d32b68d0aa4f4",
-    "91a708d46a56505049f7d6522f8d401005a1a229cb6fd8c529e80af779deca3a",
-    "1ea8b92c5dd49e3ff517b876935ddf3a4943a7cb62cbc4f9d24bcae87d2be1e4",
-    "3acd34340d41463dfa5702ac6a4b50fc1b30354a5018f43e7ff01cddf7dee08f",
-    "67037452f4696e04b10c2efabf5ddde60107e3502595dd42772e43b304d5b3ca",
-    "e075e5e199853bf0b2feb1928f3348592738bf670234c2a63311ecd96a1af98b",
     "2d2bb3bf772b75473e03dc7538642214345ead936775101688128305a236fe4d",
     "97400a742271c05c50eeca388015f78c72826896776c45e6290068011da4556c",
     "13c789818029f22b53bbb6a7534490825111b29b5177103a11aa040d790ba2c8",
@@ -4000,22 +3985,24 @@
     "26d4f4675716f5e924484a18c4acd01a6fc64c478791abb3e31d41f97613aabe",
     "876a9401cf7de55898168670cd7d4640a02a684337d192aa0e7610057d1bb243",
     "d3a799a2b09a52d9fc5aec3f8b52707ed3284d6d0c1dd64d9213398469e96101",
-    "2b4e5fe79fcbe5dc228ad1be2abf8397f11b1b120bcef5264ac47ce68845f212"
+    "2b4e5fe79fcbe5dc228ad1be2abf8397f11b1b120bcef5264ac47ce68845f212",
+    "5c9443bfd1fb920599c73e52c27c7385f9abec4150d5e5d7433714db26489725",
+    "d03f5e050fd60f99b5852e022ba66d677ad17872d5b300110e42a12ef6a3a767",
+    "489c8c7133b33b9f2b8db26a5c5cbd48e775c985985a70da88be5ac6f33eefdd",
+    "49a95f762e000e64f4f6d2ddfd438359baf844e43856c74e249ade9d0b4e3d37",
+    "a2ce201050054b5e7be82393ae613935ba01a86b3832c58c80cb80126d063b44",
+    "e2cbd4e20cf2db90b703216009a8098bbf167adea5ea7d778002981faa52440f",
+    "619a87410f19ecd3fa7faf028e5e6b1a2555610a4bdcba455397c5acdb26ff10",
+    "b06c0746f7d3143c0c40dafd34db9c21740370f5e123858fd31757b5a3db2b26",
+    "dd8d4e3ec774310ce3ce02c916b69a74f98f8854a578af1ad346a3d274a75bff",
+    "02b312c1e52b396452175997e0245d3464bac5d130c4b7dbd4892e09ad83e739",
+    "36b24a283003604dca5a2e688a63b6fe8a80023cd13671614b49840b58c3d665",
+    "1ecafd8820818fc2ca6fdec95f7144d4e55aac8f410f14349962d61dac9baa62",
+    "20dc7b9c167a9ec0a597b0602334e613ec1ff3273fbf4bbe0be77734ce3dc67a",
+    "aa0a2b86531b15f34f1bf6c921ec5bdf494445f2ff80f9df1aaf51b96fa367d9",
+    "bc537bba2768874fc80edad37fa03451cf916fcded23c7c23872be5b5bc70f70"
   ],
   "title_hashes": [
-    "18cd87e3a4e5cfa210ae591072594f9033dfa24aea08ba32fbc8cfe60ef1a6bf",
-    "5e490cb49058e90f636800d58adf078a72ffe2f4df940b45d77484d012122434",
-    "f958e761efe822e68954752688eeade165615c1e4b477da316199ce98f8b30ad",
-    "f2339c7dff88c5358312628e854c859f2e6aacc8deb99c38fe53b6343d9b0429",
-    "75d2596d8030e833de694df2a43ce196d112e6e4856ce416b9b87e2d05bd995f",
-    "c41cc057f5f30987d8d60638f3fd03de015f8dc2b04b0b0f5f3cf33f806402c1",
-    "d5b128e05af49aa0c4c464c5f41de29f8a5f8dae39bc0afe434dc26443a8967c",
-    "1c05aacfa9c6dfbb8a02cfa6b9b8e31923287e2b17db6e74fb67799ed732d132",
-    "2bf021a382bf958d320895590cad7901d328b00b5a7db75fdc6d74cf28ff90d1",
-    "e782dbc818502e529c0d1123af6035632cc5cead008d0ecb92a6ee68900d3a52",
-    "b98a1283ed811b4a9c519e58cead4bdb6eb90f0106ccfc517fc2b24ee69be387",
-    "430aaf21078f248344e00deba9829551b2bf1639ba4b99f5fa172632e60106cf",
-    "1fb62e2247563c25637249f6dcf3c386f996ce775533fca24d6aa3ab9afb1307",
     "764b880914d32f540577281fbc5b830ba30009f9240fce5deceaf811e1250068",
     "21ee66cd0a34213f8f99e18534c568fcec2e84ef5964c6200393722b1c2b16b4",
     "efec707761c45e4337d741c01d691c102cb9334720edbbb0710331faa2c1a19c",
@@ -8002,23 +7989,22 @@
     "df2b9e1b93c717692d6261548ed098170e206c5a7da43856022fa73f67cec7a6",
     "f5671418acb8b6e87a44ec10b5ef5ffae06abac3ecdbecc2e120bc76a9374324",
     "4bf2aea981327779b04d04f857341cdb8722a1dfe177cd5420be44cd6fad4c5b",
-    "954deb30ba84b1ae1ebbaaae3400ecbbe59d3c8bf5c0f42fef8ef6fa0bdce638"
+    "954deb30ba84b1ae1ebbaaae3400ecbbe59d3c8bf5c0f42fef8ef6fa0bdce638",
+    "4bad74b995ce5ec82b4e60d009400f86d834c97cf6c19725fd8a5677261e1b34",
+    "7c7b5ed503b04955e77b398a6be195c7f71a842b79759677e43cb4924c61d03d",
+    "0a6270c12d2bd7dc4da5a43db6e9c51a7f0a47f62637bf45131e79e1f1158647",
+    "cd2a837d2e103d4b82bdc17f77d1c9feb021fd0abf0016fa4eeef29b8a9b5b79",
+    "ddf97e142d58e6ade60995078be8c0c418e4678ba4941aeb233cb95fbe7fc8fa",
+    "f1516dc2e66821a658229b5669dd71938a39c581cf92f7beab1fce3fd9c53369",
+    "256587c74bd414ac530129e7830f42593c1086d32b2d41620f8b6b7267db8ed2",
+    "7826e4ea12f8909e139a7a5b0b124210688f2395c33e02095beb791fc247d284",
+    "89923f5ac06832664beb5eb78c47d5c9181f4d7c9a92c3607f98de2d69aebfb2",
+    "b02f1fbd8c5a762479e7ae1a344f1fb607c4f044c5c99e39ffda5455c6ea57d4",
+    "3293cec81e81e97b4228066c9f51436b85d3f1cb503c40785adfcd1e7ae5736b",
+    "545b98e99c6a233680d21573aeb6b54878ffc68dbc44f2df6c4589f8d3e51f0d",
+    "1104aeb578e0d787a29daf7fc68c9a71e44d6e3d566a60341d83294268b24a99"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Turbo Energy receives Nasdaq notification regarding minimum bid price deficiency",
-      "title_ko": "Turbo Energy는 최소 입찰 가격 부족에 관한 Nasdaq 통지를 받았습니다",
-      "url": "https://seekingalpha.com/news/4676111-turbo-energy-receives-nasdaq-notification-regarding-minimum-bid-price-deficiency?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795526484
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "AQR’s Tax-Cutting ‘Holy Grail’ Defies Easy Bessent Crackdown",
-      "title_ko": "AQR의 세금 감면 '성배'는 쉬운 베센트 단속을 거부합니다",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/aqr-s-tax-cutting-holy-grail-defies-easy-bessent-crackdown?srnd=phx-india",
-      "ts": 1795526545
-    },
     {
       "source": "Bloomberg",
       "title_en": "Google Snaps Up London King’s Cross Office as Rents Soar",
@@ -11504,6 +11490,20 @@
       "title_ko": "트럼프의 고등 교육 단속이 새로운 저항에 부딪히다",
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-24/trump-s-higher-education-crackdown-runs-into-new-resistance",
       "ts": 1795554744
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "젠슨 황 거취 하나에 출렁이는 코스피…반도체 쏠림의 '민낯'",
+      "title_ko": "젠슨 황 거취 하나에 출렁이는 코스피…반도체 쏠림의 '민낯'",
+      "url": "https://www.news1.kr/finance/general-stock/6364801",
+      "ts": 1795554771
+    },
+    {
+      "source": "이코노미톡뉴스",
+      "title_en": "하나·우리·KB국민은행, K-방산에 8200억 원 푼다…생산적 금융 확대",
+      "title_ko": "하나·우리·KB국민은행, K-방산에 8200억 원 푼다…생산적 금융 확대",
+      "url": "http://www.economytalk.kr/news/articleView.html?idxno=425516",
+      "ts": 1795554774
     }
   ]
 }
