@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795536569,
+  "updated_at": 1795536719,
   "id_hashes": [
-    "7a941b29423bcb12208d13b4da74ff66d33d740a2e58721952a5e1f737b6923a",
-    "dba9ae4a6bca3e3f5c08db9cfe5982ddc756a97644ea7e123d918d3820b7d88d",
-    "58254c0134662b31aad33522b6953d9c04242026a0977979c7dac02411c973f3",
-    "af46daa763e25cdc00c9d42438bac173fbf24cd8ef375608334fd5f047278b54",
-    "7354b36176f96972668001fb7d36fb7a7ff4cfb3c9ca81a2accaffa9955e1561",
-    "b87e4ed0c749396ea24bab2cb602632b25430f32240f5c47fac7b382c7bed98f",
-    "81c1b885685de514a5b9a084c45dcb32b5bb46b0303f4b79684b64be2e3ec550",
     "bd155e47102de30c5257a19896ac17f9b1f1beba2b19776dfafc130b260ac9b2",
     "0c89558dc76f6fabd2a3482036e4c4e2b668b59148d1f715a55a9d048e52fbdf",
     "def515c8b12ea54c492c6cd511ffd5ff3c5c2b41905d715b90fba7e3e8b77f5d",
@@ -4000,18 +3993,16 @@
     "bbb272fcc7b97966f4681ea6c2ba767c382fb91f57f467b7ac24ce9fdbfc0110",
     "6babd781f91c6cd58c37e13c0ad77adbdb84dbe1266f1a924e500adf3d942993",
     "760eb212fdea41f71a47ec3c70eb2c9782753946127406beb99e4d7f4fd50b9f",
-    "bd4ba78b79805c0098e732e26ba081f27122b854f21ddff491116873f27228d6"
+    "bd4ba78b79805c0098e732e26ba081f27122b854f21ddff491116873f27228d6",
+    "f7a7971ddf4fc6575c0cde5a5d2049fb7b63aed3ddcdbdff8900d20a9e42cf21",
+    "d08c878ae301b7e0c742b70e924450ac145499450bf5a4cad9cb38b8861f7f02",
+    "09c653a2935095dd878302297bae78b3bc2d989c219fa568b13d959a1ea1b99d",
+    "664cdf8bc879d4b97e2610f3fcc19361eadd286a47f99ebe8fdd6ecc99f0204c",
+    "c3007e59eb2607bdd2e58d91f067b7b8c8349ae3989cfe27bdfa383e374ba6be",
+    "a22e47c003433017ba91ef0f2bbd8d852b2f5a031e76e02d7597522b1cd9ed8b",
+    "dee4787ca8c39fd883217581d90dcf40b5738f36dd978790fdf4b8ce13078b3a"
   ],
   "title_hashes": [
-    "49212dbe960235ea59608d1ae26407d0cdf03c109322a6f21fc18ba5a87ab84d",
-    "04fc281456c14d12798b2b793106891ab71e6ee7a81e913dd82cdb24155b058e",
-    "8d827161a5f9cdad919505386ce5ff19d1c238a9e7e4fb6b85c1a7865bacb3cc",
-    "ba0481900b3ec36fdc5c2c37386088d459d3875cfa9c7a9ea78a7606bd9b793e",
-    "0d9f10cd9d8078ade7e5bbd2807ca537660fc5fe9ff21417834480656552b849",
-    "f5bbc1f0a4a983d7edfd1e7387be6b494b6286c03b67dbf3ae1a268a9ca36bc2",
-    "478110e34ca847cf9eda959f2fc50061f1d03e173132194561ddbf7b0c5521cb",
-    "53fa5342583ce4728b8e3e9d82524e2ac68c60f485b971f7b5f7581c4a91686b",
-    "3da32df093395d4cc7850b65a0a2d14d63ec97b23a5447f8dc9d4b03412a6d32",
     "db8cd1f765cadf322da84dc9069fe9e931efe25b66d3fe81755c1424bc0c923a",
     "95d0ffcc05bb250c5d516d2eba484cac910562404e54eef2859f3bb20cda916b",
     "c1eea562417028c2473c9719d355231bb40e3194846819b7e531b89fb96ecfc7",
@@ -8002,16 +7993,18 @@
     "a79587c12164aecc9cb3f73f358afa4787e6c3d2bb2fa06ecf4a038151af7ccf",
     "eb6796996e4c83186a133c279af3361381d570f20d9efbb7665d17fab3f19522",
     "7009901e8995100464c7ed88b5e71309dbf27cc9e2809bc10e2c4e33fd85ee0c",
-    "a349197c5ea3f6914c3d23ef6dae7c689d7e444f54a2068c1434c7cb8f4643ac"
+    "a349197c5ea3f6914c3d23ef6dae7c689d7e444f54a2068c1434c7cb8f4643ac",
+    "4273955344844485ff97b0a8b0f6f1b673b22dd2587fea859b3bec0761c8452c",
+    "6de3abcb4a5bfb4e1c1671d4c9cb2872c570d7d66acb7b4e7e0ec396214acd63",
+    "8332f1a5bd3d0ffcd8dd80b2003a98d7933bae91878a2f1ed21535532a9bc89a",
+    "9918f059b51cf7d2507d38e0198e90781366349d935e75c7bc787984b8a32422",
+    "afb1457eb529ab6401d1ca940391957eba3a5760c7df36ecbe5a14f2196c5ca7",
+    "8b70f20813f8020b97dabd9efad7ea174d7730cc37c5b5901373425082e7e721",
+    "2b2a5bc972c0b63daddd08d6fa551a02c784410789410146af3780298741b904",
+    "695d73fe4ddff838cb43a19d19b4360868a80e523dc60da76b63d7b875afe780",
+    "b8fd978861cc0c083d33814ac42867e594015dc66da337380bf432d231425281"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "BASF SAYS M&A REMAINS PART OF STRATEGY, TENDS TO BE MORE ATTRACTIVE THAN INVESTMENTS IN CURRENT ENVIRONMENT",
-      "title_ko": "바스프 \"M&A는 여전히 핵심 전략, 현 환경에선 투자보다 매력적\"",
-      "url": "https://t.me/marketfeed/1084383",
-      "ts": 1795511507
-    },
     {
       "source": "MarketFeed",
       "title_en": "LME ALUMINUM ALLOY INVENTORY UNCHANGED AT 1,500 TONS",
@@ -11504,6 +11497,13 @@
       "title_ko": "Microsoft는 향후 사고에 대해 1시간 이내에 전 세계 완화 목표를 설정합니다 - 메모. $MSFT",
       "url": "https://www.financialjuice.com/News/9866361/Microsoft-sets-target-for-worldwide-mitigation-in-under-an-hour-for-future-incidents---Memo-MSFT.aspx?xy=rss",
       "ts": 1795536566
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "MissionIRNewsBreaks – BOXABL Inc. (NASDAQ: BXBL) Expands Sales and Home Delivery Teams Following Record Monthly Orders",
+      "title_ko": "MissionIRNewsBreaks – BOXABL Inc.(NASDAQ: BXBL), 기록적인 월별 주문에 따라 판매 및 택배 팀 확장",
+      "url": "https://www.streetinsider.com/Investor+Brand+Network/MissionIRNewsBreaks+%E2%80%93+BOXABL+Inc.+%28NASDAQ%3A+BXBL%29+Expands+Sales+and+Home+Delivery+Teams+Following+Record+Monthly+Orders/27392642.html",
+      "ts": 1795536660
     }
   ]
 }
