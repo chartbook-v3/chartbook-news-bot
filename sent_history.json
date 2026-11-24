@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795533248,
+  "updated_at": 1795533417,
   "id_hashes": [
-    "7e72fbb644d26f91d2916140854c60ae66a26aa5af7fb4b0d2798043acb1a9eb",
-    "c09101065ba001208c00e2b7c62a18a5edea9ddd26e4b266013bcdd88a59ce61",
-    "23c28ac6519eec17d5b1745bfcc65e6e945fdb756429a06250e6d39506024118",
-    "8ba8c1adb2a5b8b85dc08f9c5431637d56a9aa326787d037385d299e923df74e",
-    "3b6a80524820e9230e3142d3679344c9b87df1453e9ea4b3317991cd68f649e8",
-    "db7ca2abd4cbf2a07448f64d6004c130760ac03e7adefe54269ef9de95bbaab1",
-    "ee0b4e788bc0adce71a7f73d6895694dbf6c07f9734d04ba6ac01dc89dcf69c9",
-    "94ea8a78b89e4f593cba48d6c9a178e1193c4e3ccf2d7ea82a6621144a94c7aa",
-    "7685ad4e293cf76ddf1ba4dcab1a3224c1e7dfc1a439330575df09f77849256d",
-    "58ae1a7e07377081ca481e0f7192ceeeba05f008b92058fefd978d40e74a46fd",
-    "f58fa7016edc1362dba2f84b839349ea98a0843e9c1ce7ed4fd2ea20d674f2aa",
-    "b592b0f86ef9bdd85a60c7fcefa91d1f0bb3d71c630108f7238257728c8b0af7",
-    "34599d34281228a1377727fb28b9aebc4ebddd475ec7604228644d983b8e9eae",
-    "8e730bf3a2807613ccb806cec967de5aeb8b0d1889f059a03f9b8c81ed7462cf",
     "2b6df0afc671a8f7ec7c690d1308630252c1d6b660246d172641c9bf53347075",
     "fa34d151130e6b4929f877ff4f5df65d14d53d29302fecfd5f144812a096edcb",
     "29b50e7b6c8e8a7eeb44855034dde4505b96383eca5e66ec4676fff9399772e9",
@@ -4000,24 +3986,23 @@
     "7c72a7cc90042361da7ea62042a0777213e53f5fcb403672088181eede8b133f",
     "4db058eac2e357c6e7ed5ebfff34fc594bab46df200c554092fa70cca12171fb",
     "bd5c56b89383710619d6d6b2b3d46fd57911bf02d91e641a73a8e096c446fdee",
-    "fac5f70bbdec970fb0a2d51725dd6c82275edd401a1d2c352d1c1f828ae3b71e"
+    "fac5f70bbdec970fb0a2d51725dd6c82275edd401a1d2c352d1c1f828ae3b71e",
+    "6583fe9ecb730abbe17d7b6d603f1b89f3900208e9ed85be8f9c7f025cabc1f9",
+    "e51c3de5233c67bd1240e4c278464c82fd0a0592a0ef28dd8abd24089c63bb8c",
+    "eae1fa411649b6aa0fc7f57b10743a64ecfbe5e1dfadd1c835cdab29fa53146c",
+    "80d0b844cffe0059876784c469abe9102db1a795938c8aef06d19a50ffab24ca",
+    "e4950e37b9feaf13185fd0f03e1d5423a1714d335aebd21d1a39b6c412e9dcee",
+    "3b9ccc047a834e9a1e29950d87bc5a5b1757631546bc511badec7b267af791d8",
+    "4031a3da00ed39ddd86c884dd2b43f62147b27ca3997df880d6627198cee930c",
+    "4661eed11fe05187c4716d0053c514df0a0e48dcde485bbab887255e6a53e933",
+    "fd09477497c1efd18df0223dd009af58a8c586c0cec201dec249cc48851b5c96",
+    "7429efceaf00824dab0762884dc4978fd115e334b97f5908cad560c3d96e7ce1",
+    "e289219ed420277b0ca50173636d9cadcc1f56a00786fbb2cefa9eebecf0c75e",
+    "6178366c5a121ccb4052f1651f7b8b9bf3b2e9ef4a5883d553fa6d0227b7e96b",
+    "a21180b0a885d8765b3aa32a6f52d2c8ea12072b42267826a19e520a3ffce7ce",
+    "cd1871eb7f4368332fa4879d07d4439f4f7d3f68c80dd92f6e29b255fcf08684"
   ],
   "title_hashes": [
-    "47363c8cd64754acf1ef280f22b2565d434316992b6baa28303c41f0ec9ace9b",
-    "f1e742b4a69169124bd3db17b7adbe34b86d05d77d0e3f7e9cb8ab851e3b7cef",
-    "1e2396a223c28361c309bb9cf59b62de313b5cbfa4221bf612f2f80a5fc47eb3",
-    "9c3934290c9e19a66fa57ba9c96fbe354e0b976556e82774b49869ccc9cdd378",
-    "09a937be0898dcff127ffabb93c5aec3618838faf7f03e04fcd29633fd1aeaf7",
-    "a8e591549ed3ed30ea7ff8454f62cfdf5fb033add14de5f10382fece24d83b41",
-    "524875f55d980257dcc551c2aad9d66f05799884c1082bd1585a0590d3ea3ce5",
-    "25512a7d6c77c93994a9d4339603c8840b5d9a5178ce5998775c7abeed48bf4c",
-    "293d16476b990a84aa40f5e168cff829cdc6781db3382abbff213e96b0d19080",
-    "ea9b18334c7566ac2116533b93dd3524c67726ac884d18dc872d2eb06c843fad",
-    "cdbe2d749062ff3bb87e1350576e3576e7f223136f553ee371c67b82fd3f77a4",
-    "b062fd1d47db19b7950d8c5d14f975f0928b75f8bd00a736eee9729cc7c0562e",
-    "24f47dcc4e1425e4b4768490705e77d82570abe0b8c248e196d2665bf346d9d7",
-    "ee312c64a0030d852ebaf01711b8dad44d808650ae8ddbe90812dda74aa14369",
-    "8f54e7651fe623114fef32b025ebf347fc54ed8bf0cd1d46377f2a02924c9ce8",
     "4e5d6d844284248234cad477d6d5a84330209a29b4dc4272a03a42b40f034d98",
     "139558be17128258116f4dbd55d1629bbaf0c8f2a16665807853c26c3923ea9c",
     "c0941e074139447c06adcdf1f839e5ef1db7dc17cc50b1c321f9e53fc4858255",
@@ -8002,30 +7987,24 @@
     "b91f741254ed0db9742ef4dd0b70a4b3042fb62b76b5ffe0631181aa0ed4fadd",
     "dfcc6d75f9cd3a02cacd74b7ec67f11e7e89ef84cb1a30d1b5cedd28167d0e52",
     "9bdbe19f2a9a7a23ef6c31094738bd99d939837a09f3aa5b839bcab24e6d2bbd",
-    "1ab49c0cb0c28a731852f0400640c4ee3937f2d11eac1e88c0e7a36e4e67593c"
+    "1ab49c0cb0c28a731852f0400640c4ee3937f2d11eac1e88c0e7a36e4e67593c",
+    "a727f5b6b1b54828c5cb575dfaebaf9039c0e225aef67a5c9a61bb3e2c6700fd",
+    "12f5da521f0b745e2e9e844c7dc96070acd0df09ff6bf57e425f153d0530973a",
+    "9e212d0be8c78e6196e1f9b7fa16d5782d02678daad092cbfd55a00b8bbf035d",
+    "cc31d6fa7ef957eed5cba470b6aee908b4bd7158018487934e3f6e65862e82d4",
+    "4c083d22ce61b8565ffde80109b3eac55912274f117269a740d91983f7592b19",
+    "2364425b1c816e077a87fbc1a250c6cadded0bbdf5e57fc630924baea88e9266",
+    "122311cada32522ad01a004a2f12da8af4dbcb75ff508f1464b8874704e45be8",
+    "7d644de86fb90edcf389518c31ef1d57b2eba7f6f0fb27906a51d06925dbf5f4",
+    "48a4915125197547fd10d52e17e255eed9f3c2acbefa927c22c0d410197c88eb",
+    "819a59868cbc6bb2baa3b07736c712ac7c2e750c6e2a81f5e4805ee8bcba312a",
+    "b82164c4169d48644485ee868120e7a52c17fca317cb6ac61aa4c0969c6580e2",
+    "7394d31580f99c10684bb047f7801949bb9ed0b6eb3c8bb1d9524626bdc13c3f",
+    "2054fd97d74d63a9f88252fa72d205514963b8052e94bc3a8722f3dec04b02f5",
+    "ec56b173ac55cf45f88e0376bab65b7548fb4f62605df2f3640dec1b962eec9e",
+    "6f9ac08b824ee005718b1bc39ecee147ec6c39df8e0071bf31c7e27135784011"
   ],
   "recent_sent_articles": [
-    {
-      "source": "매일경제",
-      "title_en": "골드만삭스 “내년 한은 기준금리 3.5%가 상단…달러당 원화값은 1280원”",
-      "title_ko": "골드만삭스 “내년 한은 기준금리 3.5%가 상단…달러당 원화값은 1280원”",
-      "url": "https://stock.mk.co.kr/news/view/1204988",
-      "ts": 1795500411
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "快手生活服务重启服务商和商户补贴",
-      "title_ko": "콰이쇼우, 생활 서비스 부문 서비스 제공업체 및 가맹점 보조금 지급 재개",
-      "url": "https://wallstreetcn.com/livenews/3204721",
-      "ts": 1795500414
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "ECB'S SIMKUS: RECENT EURO WEAKNESS IS ANOTHER INFLATIONARY FACTOR.",
-      "title_ko": "심쿠스 ECB 위원 \"최근 유로화 약세, 인플레이션 자극하는 또 다른 요인\"",
-      "url": "https://t.me/marketfeed/1084356",
-      "ts": 1795510666
-    },
     {
       "source": "MarketFeed",
       "title_en": "CHINA URGES EU TO HONOR DEAL ON HYBRID CAR TRADE",
@@ -11504,6 +11483,27 @@
       "title_ko": "나스닥 100 하락, 2% 하락",
       "url": "https://t.me/marketfeed/1084609",
       "ts": 1795533035
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "美国消费者信心升至近两年最高 对经济和就业市场更乐观",
+      "title_ko": "미국 소비자 신뢰지수는 거의 2년 만에 최고 수준으로 상승했으며, 경제와 고용 시장에 대해 더욱 낙관적입니다",
+      "url": "https://wallstreetcn.com/livenews/3205106",
+      "ts": 1795533343
+    },
+    {
+      "source": "매일경제",
+      "title_en": "엔비디아 3%대 하락 출발…전날 '젠슨황 복귀' 랠리 일부 반납",
+      "title_ko": "엔비디아 3%대 하락 출발…전날 '젠슨황 복귀' 랠리 일부 반납",
+      "url": "https://stock.mk.co.kr/news/view/1205255",
+      "ts": 1795533407
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Why Is Nebius Stock Falling on Tuesday?",
+      "title_ko": "화요일에 Nebius 주식이 떨어지는 이유는 무엇입니까?",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63581972/why-is-nebius-stock-falling-on-tuesday",
+      "ts": 1795533416
     }
   ]
 }
