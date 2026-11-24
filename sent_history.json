@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795515475,
+  "updated_at": 1795515655,
   "id_hashes": [
-    "2009a3804672c9e013f7a710c1716071ae109c6721f55964afb619d934ae830f",
-    "256ce01bdeb4dcf330c943528660bfd5de457634dc5fed98d8e41f288d7ae701",
-    "a3b0589ddedacaac4625a80bcafe39155dbf977c18471d7b870f2fbbf6de9e26",
-    "e81a7fad5200739af78cacd0e78c82819ed36cb8e4e1838f98d413306d93cd3c",
-    "88ea11e1781a6a15be7c62c910811d1a5b33afd935a8a447a5ef73af4d078245",
     "83cba2a88956261becb5606b66b4778dff9711e8e669901bb76b75863d100ec0",
     "a3225567eb99d3b1cdff9dde46f6959fee3467205793d90f84972b6c690a19ab",
     "9df84b49824c3d887ff88341bec09402121d06960c1df17e5cf779def27fcd0b",
@@ -4000,13 +3995,14 @@
     "f6af3618fc6146d99d0066041878163f731484904db41b84453a0531c9d2969b",
     "c456017d642fe8331126e8f103a7d9513b3ef752fc644291ad6c07ec3c299019",
     "4ee318130cca0cbe0877a7348ada2761fa9be40a1bb7cbc55738be9731cfff3b",
-    "b0e937c9c8ee145757412cb5cc203e4270102fb479b907dde34b455edb745079"
+    "b0e937c9c8ee145757412cb5cc203e4270102fb479b907dde34b455edb745079",
+    "15030b8b6fcd21922bda7d41c2e919678495fb5e3aa54251ae801574b56d622c",
+    "3cfb316c28e3c5af2684ab25c658255d5e5c3f28ca70e755a67594efb24d5f12",
+    "732e8bfd679d5cc0b81b1c4e5bb4af60787f80ed81dc412e70d5ebc50241f7fe",
+    "dade40a75e8d80666c7de3db5356646309ceb4df7f9c3d0424575cb8d17817cd",
+    "a8edb3e42cb54b7755aba526e12adb70dc8c19de236526e417c13a653fa4d0a2"
   ],
   "title_hashes": [
-    "e6c6ec38454f24b90d6043ccf73c41cc4b48fc8dce997dc734ac4694177c45d6",
-    "8cde15bdc0ce24bb0ca2e3db56f82cf97ac2a311dd9023888a6ef59a0944f9c2",
-    "098fc13f0f50296f8d94733e9b60c7c1c73565752cd7fa40192264540e23c00c",
-    "1b67334ce42c19a0748e68bb0ff8a25b53263fcc415e0a4a47ad99a13da5f48d",
     "3564e32d12eab932493b5ae9eff15b641e47ff9c82ef40f4dc4f174421560305",
     "246fadbacb2c7bf96a484b99d0ddd633ebfee153277a79017880ee77faada97a",
     "d901997b0039b695195ed368468ca85de94335e79c0cb9dc128d9a1d3d4cc4dd",
@@ -8002,16 +7998,13 @@
     "b51cda58625355a53afc0afabc1f0e5b5294319218a4deedbb10e960cbb1943d",
     "fabc2959d2b0455a477c8a0a0664224f60e6f1244b72a7d5577e3da48e720b5e",
     "6130c1f2986bdb1b71a7ca643ea7b73b6a956a0627fe1451aa89842009a0c776",
-    "b112acc2f93ef6761ec2480989081d9c89f511aa47007a7bcc0d497897bf44e8"
+    "b112acc2f93ef6761ec2480989081d9c89f511aa47007a7bcc0d497897bf44e8",
+    "4475d14d709c83deabe206007ed82886de69c10e38ad38f66314bd804a4fc48b",
+    "b95480654ba4091982dc4cf86f19f391e8a70e5585fcef75b4a2d806f46c9716",
+    "df80911bff2d512d74b07365389b5a2823a4e344b92256df96e9a48462b304a1",
+    "20b932371c6a70af2c655f17c31e406c615030a13de7f684b85c76a73b014adf"
   ],
   "recent_sent_articles": [
-    {
-      "source": "디일렉",
-      "title_en": "KAI, 경상남도·산업통상부와 우주항공산업 육성 MOU 체결",
-      "title_ko": "KAI, 경상남도·산업통상부와 우주항공산업 육성 MOU 체결",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=65776",
-      "ts": 1795477178
-    },
     {
       "source": "디일렉",
       "title_en": "HD현대삼호, 3084억 규모 LPGC 2척 수주",
@@ -11504,6 +11497,13 @@
       "title_ko": "미국, 우크라이나에 신규 패트리엇 요격 미사일 미인도",
       "url": "https://wallstreetcn.com/livenews/3204932",
       "ts": 1795515474
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Self-driving race: Mercedes wins German approval ahead of Tesla",
+      "title_ko": "자율주행 레이스: 메르세데스, 테슬라 제치고 독일 당국 승인 선점",
+      "url": "https://seekingalpha.com/news/4675999-self-driving-race-mercedes-wins-german-approval-ahead-of-tesla?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795515593
     }
   ]
 }
