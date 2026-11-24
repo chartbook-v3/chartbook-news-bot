@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795537022,
+  "updated_at": 1795537171,
   "id_hashes": [
-    "7c12c27b6a2d21e9cff0b1538d15c749cc235ad0a2de92434f0fde1d4abc0589",
-    "214c3cbdcb2f8a7f02f8fa80860bceed6f5200116a51a811a6d61f8e136f64dc",
-    "baf74c72d24e19638a0b768ddc69aa64b9cd45f94cffa0e935927484d27ad950",
-    "87aa18ff6754485d5a818f9e81724967c3d3e58e10021456ec570a52ba14913c",
-    "e605a8124b9a418f22700e46b28588a96331156942e3831b41a51753d64a94a3",
     "eefaa018c45e1e68e7ff02e571d567512a65867d3506c04a3df94fbba8eb9883",
     "5553de5a84bdff524d050b78c10af28832f6703df931d21979bd883a2cf8d41e",
     "866cedae5fcf3a81ac4b6873a8768bb37e4fdc3ba663886d6ef83da965de8e9e",
@@ -4000,14 +3995,14 @@
     "93df6c4873558455572979bd5fb09d8f224f9eb7b068a92004edab905246afe5",
     "4cf78377b841d4aaa645c4a93ae44fab52253b093b76e683d7fed84862411789",
     "893b9715402b6187dcd7af5c8f51b42cbe4d24160a74a1b408a723e7426a0f69",
-    "31ec85cfb97654cf31ea4144141d52671476daba4661baf8451d3c0a40811baf"
+    "31ec85cfb97654cf31ea4144141d52671476daba4661baf8451d3c0a40811baf",
+    "eae48417ccaf333f47d79dc2e7c3b14d88486fddf46818da569974f7644691fd",
+    "b90208e6c79dc55100a8dc8d148fb016098b4de21620392bc034570acd8b0863",
+    "2e4084a009ab2e916bfb8a672f359f4946de1d5b1257ebc219c0361dc8c617f2",
+    "179797d1a314b99e7e50b2cfcec08edd5025eb554a97b561d052a10baadd3449",
+    "24d5fa1b10135272c10b31980b691aebb46a1d8ed4d8148b4800418c1ef14d7c"
   ],
   "title_hashes": [
-    "a776229ccf9d558178681c15089c4c7c7eb3f4bc987176e677d29d2bf6d7aebb",
-    "9b8e6f470e315c651bb5284a2d59db43fd50a8a4077bc0670a82d8a5c0f85466",
-    "dad092ea8e52116c827546d7c65d5e1776b40cbece736e6cf827ca46220511ba",
-    "37f4f030305230078b7f5ab4ad3ace74dacc8ff54117fbadec601080cfaa0aa8",
-    "1043ac7f0a96d595331c3ccfcb22bbc03f5dad1584989adbf8764393bbf1fafc",
     "c788724d2f470aa1fe54f657adca2e48c48925b8b90f6e229746ce4bb9b5ec67",
     "d7312c5823bf1c252fda4f76d8abdd17a8d5e01386bbd67a45421e9860dd4140",
     "5baf752e2809a0d8b26c4e9874309c6b2d96ff7af13113619d9c9925434fe8cc",
@@ -8002,16 +7997,14 @@
     "9573e66f73384b340f66abcb70e3a1e38347f873f0d920d0d5df8efd94a49ae7",
     "49103d24f1f361631794b0e8fdbd0513f57d141a4cef00da1b555b365f96379c",
     "cd669f606935e41f4efdb5e8ffde4fe4a1697a0d7a37b12cc2cfb842b45bae3c",
-    "c8af70105f6c0848504de65c0b95e48c8639ca77aec4b4c02ebc214b8b22482f"
+    "c8af70105f6c0848504de65c0b95e48c8639ca77aec4b4c02ebc214b8b22482f",
+    "46bdd62f97fcaaee4c82c3e881ea9a5b4d171e3c1a195087d91b800ea96204e0",
+    "a98e7ee5ed1fb9fb8633348786db3af79babde803a0ca57304aff7947031e692",
+    "c8a1e534b2f2e020c2dfb9ede9b793053a76b00405ea28fff447a5e3edcd815c",
+    "5d0abc7092743dac721d9e9e79929081437d85dff61764eff6d6c1355afce313",
+    "0e0f71926ef6ad41f6254f1150cd1fd48aaef8a0d1a6fd5d5bd2b7de3ddaf950"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합인포맥스",
-      "title_en": "[외환-마감] 코스피 6% 급등에 환율도 하락…3.50원↓",
-      "title_ko": "[외환-마감] 코스피 6% 급등에 환율도 하락…3.50원↓",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446310",
-      "ts": 1795511636
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "BingEx GAAP EPS of -$0.01, revenue of $138.6M",
@@ -11504,6 +11497,13 @@
       "title_ko": "Robotaxi 테스트가 시작되면서 Lucid 주가 상승: 무슨 일이 일어나고 있나요?",
       "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63588253/lucid-stock-rises-as-robotaxi-testing-begins-whats-happening",
       "ts": 1795537021
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Hg’s Visma Plans Up to €6.5 Billion Debt Sale With UK IPO on Ice",
+      "title_ko": "Hg의 Visma는 영국 IPO on Ice를 통해 최대 65억 유로의 부채 매각을 계획하고 있어",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/hg-s-visma-plans-up-to-6-5-billion-debt-sale-with-uk-ipo-on-ice",
+      "ts": 1795537105
     }
   ]
 }
