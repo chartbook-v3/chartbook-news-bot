@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795549136,
+  "updated_at": 1795549285,
   "id_hashes": [
-    "6bf7b97d8e0afa9c4bc168a9a1a6cf3c8feb45a01ff51d0a037a0de41d0b5f08",
-    "a770de03aa78a252a96065d82c9415ceb3495bb12f6e0b7c66503bb05ee0ff74",
-    "1ba8cee269bbe085ccc92ffa1728a6d0473c650bf055aa5a27e9cf0cbcedb373",
-    "2c03650b2e3f58e6d0d18805dfc4b185c2c4e60d679c9a568645eee9a904819d",
-    "4355a32563fc3b484c6790e09e7897f767899ed97abed367a5c0a481c5b871ac",
-    "49d25eb6d0473c05573ee05842f61c8df68ce68ebf74c531b89fadbefff30340",
-    "c8909e611a2119e9bb75bc00cacb3bf8afe1fa729bd90ab3a55e39ea1a009054",
     "5e6f11db984a98d6d1e70b88e9d86b980c95fb9f206bb9015b178e2be630f730",
     "27ff0817e8381f14ee85c8d83f782a190600d1ea3347f1e35172c12b98638156",
     "1a5f40eb5f2e5ce64195ae83c1447963c705914b48edb9a81fcf75c4b71e7557",
@@ -4000,16 +3993,16 @@
     "8704a115db805f957810551a443afc0342099fe3ad8c208e9e52307f8a43bf57",
     "0fe060a221c241d47c505c3609023aa8e9aed620adaaac186c1d2ef9b67cc17f",
     "cde88d4a9e458714e53d455e5147c53a5179a1c4b1dfb3e715764df1f2474066",
-    "355c500503b131c0fe8b52aecf38199cef494ae8d59e4f1b519b5a018b9eeb49"
+    "355c500503b131c0fe8b52aecf38199cef494ae8d59e4f1b519b5a018b9eeb49",
+    "e8c2e29d4508956c6177e78ae5b03b88ab345cdba8863c7f62ef673dd2588091",
+    "abed26dc4f1eb9d54fad4ce1985ce3ac6db66afeaf1cf87675f7bbbcba516949",
+    "b3100208b275023ece6946549d25b6df6297475acf6e206c09d41206d1067a1a",
+    "68e535ec9704fc62503a919a7500ba590beb0e4ea1402b0e41f9c735595895e4",
+    "859dc5426fa2ebeb38d6a3439fbbeebd68047dff216faca7f763b3e9eecdc630",
+    "5e34c3254fd952f0da41fb39a288e429684a18d5b9ef3a851a337d92ad5494c7",
+    "b5666d322fa87c6d30fb8a31b7e1862c250425e4039f9e7e6950666767ea6890"
   ],
   "title_hashes": [
-    "8ce29b4a057e1d7d00edabd497ec4076176416d2cef7469e512fe7e198443da4",
-    "18764eda86945706459ace30c1b9c0f2818114cd2bc300b40e536c283ee0f702",
-    "ea8f87b11463a893ffe488c4c601958056efac718f36ca9c1b5f3902cea64bc2",
-    "884608c1750bb783de533ff70b04bbe542d43083cb59f99b17fbc02136906376",
-    "9ea1d49d9c665d9a271db8a5f32d9e3f1f0b6f34acbb9e8d2b769176952066d9",
-    "0d44891d35f15eccaf6bfd36568d5f8a07fb6c41553e3bb357529c99d9e48865",
-    "3973d893776f7b0bab807fa7bcd8ae29257307def8d7215f1a2008281e51e12e",
     "07f352abbb5e091a0db15c02bf73a3d094b5a84d3b39777a3bba6927ed586026",
     "0a05bf345b477ebd397c5caeda612ee4b1d105b38c65a82b6969579be800d6a4",
     "3500237ca95852bc35d1bb046a924e01e87893d251b8dd5560881ea08be93425",
@@ -8002,16 +7995,16 @@
     "bdb3900922c955924549c992215d6d176cc0b3adafe071a5942691f68c05aab7",
     "791ced48149407227cf3e808dc25e904a6a20881068ceb17ea0e05f0ebedfcd8",
     "0168161185410efdef73eae2c2d87d87f51432aecbb41bff866ca7212dfde92d",
-    "ee35348f8bacd527f576cb97634791a1581b37ec2c4ed332e0ba3fe826f540b7"
+    "ee35348f8bacd527f576cb97634791a1581b37ec2c4ed332e0ba3fe826f540b7",
+    "905c992f5298bfe609b58900105943211a721e9f416910fdc637648f909abe96",
+    "6c91ae4f44cc5e7ff781f7ef2f42e11a1c84cac20c1cd6ad1f05248e2d263343",
+    "29f27ba56b8bc9816a55ad186728519f488e3244940de5588ace5392410f8d10",
+    "fbd9639bc9c38cefbf236a75943d258da191fec0da32ceead40165d0583e4c9c",
+    "b24bb34ff35090f2b011eafb9f9c1206730c37844779535e6bad9315ed6cc982",
+    "49872866f938f7db35210f0a06a6ce20bc885ad1d3399a05a00b258a6f015169",
+    "8a464502754624d0ec77394b20477f27318726088783c6254befed718cf4c6be"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "AFP WITNESSES: SKYSCRAPER IN RIYADH HIT FOR SECOND TIME IN UNDER A WEEK",
-      "title_ko": "AFP \"리야드 마천루, 일주일 새 두 번째 피격\"",
-      "url": "https://t.me/marketfeed/1084479",
-      "ts": 1795523567
-    },
     {
       "source": "Semafor",
       "title_en": "SAUDI ARABIA SEEKS MISSILE INTERCEPTORS FROM ALLIES AS YEMEN WAR LOOMS",
@@ -11504,6 +11497,13 @@
       "title_ko": "미국 스파이 기관은 공개 소스 정보 시스템 및 기밀 자료에 영향을 미치는 침입으로 인해 기밀되지 않은 정보가 유출되었습니다",
       "url": "https://t.me/marketfeed/1084767",
       "ts": 1795549135
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Most Fed Regional Boards Wanted to Raise Rates in October",
+      "title_ko": "대부분의 연방준비은행 지역위원회는 10월 금리 인상을 원",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/most-fed-regional-boards-wanted-to-raise-rates-in-october",
+      "ts": 1795549284
     }
   ]
 }
