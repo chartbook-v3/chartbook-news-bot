@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795534053,
+  "updated_at": 1795534202,
   "id_hashes": [
-    "28ba9ae322b73c93a605ab641e71b7309c9e581a40355409f5e014930b36668f",
-    "e8fb0b6b6094b89a048d6ba132d12e6a8604305c25c4097374501d39ad9bd547",
-    "c7fb5132ae02a437a60da428ead539d17f959b3343cdedf06f6b401a3c7bfc44",
-    "793befdeae1566f2af80a10d6bc71a9088a799e8da1545207cba5287dc217d0e",
-    "5b2ca57f38d5737b170f2c174f22f5005de2bb498c9b23d2163b26c54e78054b",
-    "b6c102e80b62d50a458d38b8899504c83d5b40ba52e99652d64ad699b0d9cd9a",
-    "d72844dde6a87b7c9ecbd2ef8329fa2f74259e1cd2cac1a2e53a1989152f9f39",
-    "0e681470d2e3f93ec601ca38595ddb0bd18efd4b50ac5d334ebbaff30f66199d",
-    "4616f4baf8280c95bea037d02e10b7fef6f2fc846086775acf35f01c185d4f39",
-    "2f93425ef2cec1e1ad30ed1bab46c3e8459c85ea8c6d6f2ab76cefba2a62ed6d",
-    "57ca6455a16ac94f66a4b234e839cfc393183a5bf9620be738ae4f243d49c729",
-    "fe21b5cdf8cd26bda04566fd76f80510d3ddb396e075723829ba5082b73ac8b9",
     "a10e3a0569a9d845aad8bd7c967dd20db5b2cd82cdbb28abdb960e9555d264f7",
     "619d1cdc3be5dd1ac0ed4da401d6559d4edea50f7d1b82c41511441c9dbb7dbf",
     "cf19689c923ceda4744105796d9da45dd7035f10ab792403b754d1719d7c8a18",
@@ -4000,20 +3988,21 @@
     "5a472ed99dd38a2e744a40a796fcf1dbd8cea1a04c9282de87cc88c32e21805c",
     "0f87b929e6def3008cfc2a69d45c08c53842fc96e820e078eed223b2943e5c73",
     "7b5b56ffa8f8f1a773a3f1c9a3bea882467e68f150889f138ed0537d531facc0",
-    "c895272e774d6a5f40e984c4dd606ae2cdff8ce617a4c65115b022781ebfc52f"
+    "c895272e774d6a5f40e984c4dd606ae2cdff8ce617a4c65115b022781ebfc52f",
+    "d882e34583932356b325a059867ac090a02d8665772e934722229459bc30f4d9",
+    "20508a7e144b70b0c570c3de3819ee0b13aaaf531d8a9daea09ba1d6af62b0df",
+    "b752d32bee8a2aeeefb5a33c45852ccc49f607dd1905ba7ddd3edecd32f36463",
+    "d83e1668fc0f2c378d4f88958f355237fdc06470dd225f252d5aafe19c08d33e",
+    "8529ee402146983e36dca813861a60abe80b7aa0dc8075626543848fdc6f83e0",
+    "0880ac22c71cec80fa2343d2aae234ab969d91454f0196e3adac14c372d4854d",
+    "06d5bb58aede81e6f87e87c5eb3a96a71bb6512ce531e292c6c803aa778eb2d6",
+    "c885ee9c60f8c6dc75543dc536eee25dd2a3ad619e264f94a13446a8b5f71612",
+    "606f8e1f17ee22d8e3abf62def8e7bd690747f0f8ec42b4de4e98516699a33a4",
+    "83ca0f8e6a37a06a18a97a7beda3eee2ab5bd8e505df78d31c32bf05f4a4c4fb",
+    "2cc534b4e1e99762ea2ed7cca4af7157ef6261c9310233d4ffca3c5bd39105b8",
+    "32e0902d298e38e5728ff160019f085e5101d903d5cbf77c521844ddce595495"
   ],
   "title_hashes": [
-    "01c6e9415212eeaf00b81fb11b5cb3a5685bf8865fc547d6cec97dd67978d00d",
-    "21da9a7399df697215958fa1b33dcc943fbbf8eae7bc60d008355b1c5889af8b",
-    "f723d111bae8c5c090b03b08f03be9eb7b874538984a8a5617ce8f78880c4a31",
-    "86f106ae0513523d83c832e790c72c3ccaeb91ce0cdff3501cdf7d3bbded9708",
-    "7b4f904d9b92c236d6873f1c1b1a5f54e5f1eacde90dc1f0b81b89a2612a71fb",
-    "983480ebcdde464cbaeafb7a49df7b8c2194c411f208c4ed3474e7c680edc631",
-    "81f569f401a6e4619edbda10deaa10a99b4264aeb543fd4b016d5c24c0bf88fc",
-    "4620b5ef1a20f51b0bd080bd56af5f73cec6613fbdafc85d399bfaa7f7c21b83",
-    "9026bfb10e2f37f20cd93d2c8c917725b0f2a8746d7bd5a4de42fd1c3bb1e03d",
-    "0572e2f1f05829ae8cafba872c27af1ad840408cd6bf5a9aa7e077588b2bbdfa",
-    "6f0c699897a17da6f766b437d5b5d78a575390722dc4a5cf966eff8a6d995829",
     "b001ec1d9d37315201c09a8b37d6644f38be4a01bf982af11cd59a58193ec9e2",
     "18faed0815dcacf8ac7aeb32c2f87e8c2c6f9079127d7b3d9597a223196e0815",
     "9322087f2056dc707ae17bb64f9496135dfc89a4964722562f3aa0231b6fe7a0",
@@ -8002,16 +7991,20 @@
     "33147535c2c3a511f77a9ece991c7673c4c3a708be2a7787c51f8f33990546d3",
     "defd04197a8043fea49dad2adeb4ceae0bab776b7a9a4511e5b185303ab1bfbe",
     "1e24eb6d262d62a303779a7b090db1f96f73cd3e66569dd20fc420e2c5fd9d3e",
-    "59a7f6337c223c29a47495b57fd5652e2bede8d9ddec9af7991c48b88b79d2c6"
+    "59a7f6337c223c29a47495b57fd5652e2bede8d9ddec9af7991c48b88b79d2c6",
+    "4c3077454376a0a748c4652c0122e9f626fd2d8c7139efec4246cfd58256ba5c",
+    "707a86f3ecc53ddb2cc24f062ac62ccf32bd20bb13772696e4f47ef1fe580ccd",
+    "6d6988d0ff5bf0021ad15c6ed3eb20eac553589ab5b84ed56331aeedf745c148",
+    "db6ab019da1f8588db22b6efe284371539bdf99bee9bbbf2ae66f5b00b717ef4",
+    "0b8a620620194d02418e0d8e5017628dd1f684cc41303d43c0bbf7c14f0ee22b",
+    "adfe1fdf454493215c44328865d98600f51258adccaf518feb789acb93e98bf4",
+    "6fc4b0afbc35fb7b5ed6d86679c7ee4d934a67a2be2a358c3861686f23a44cdb",
+    "cd9637f8fdfb90430af3d59b0303ee0f455ad2538a92b9c249997c0df680d0e6",
+    "59e618c6c09716d1328f6e93a083774fc2b1143e1e523ac7235f7d449044130e",
+    "647dec12624683016baf386cd95b577ad7befc6176bfb509f84307f5067a460a",
+    "141b66b7752729674ba9ab64af7b481afbff3c0cdf69fb0749343125902f3cef"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "China Suspends export control on some dual-use items to US.",
-      "title_ko": "중국, 미국향 일부 이중용도 품목 수출 통제 중단",
-      "url": "https://www.financialjuice.com/News/9865734/China-Suspends-export-control-on-some-dual-use-items-to-US.aspx?xy=rss",
-      "ts": 1795510732
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "广东发行10年期一般债地方债，规模86.0000亿元，发行利率1.5900%，边际倍数2.54倍，倍数预期1.59；\n\n广东发行10年期其他专项地方债，规模109.4520亿元，发行利率1.5900%，边际倍数2.26倍...",
@@ -11504,6 +11497,13 @@
       "title_ko": "Tesla는 오스틴의 주택 붐을 촉발하는 데 도움을 주었습니다. 하지만 이제 파티는 끝났습니다",
       "url": "https://www.benzinga.com/real-estate/26/11/63582708/austin-home-prices-tesla-boom",
       "ts": 1795534052
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "LME TIGHTENS RULES ON BIG POSITIONS TO ADDRESS ALUMINUM SQUEEZE",
+      "title_ko": "LME는 알루미늄 압착 문제를 해결하기 위해 대규모 위치에 대한 규칙을 강화합니다",
+      "url": "https://t.me/marketfeed/1084623",
+      "ts": 1795534142
     }
   ]
 }
