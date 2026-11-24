@@ -1,26 +1,6 @@
 {
-  "updated_at": 1795534362,
+  "updated_at": 1795534530,
   "id_hashes": [
-    "e763056cb9c584fa030ff809ea3030018a2491e1b8f692d9dfc8c4e51a3c1651",
-    "48092131fba22803c6039fd037daf831f5e2a020948d2d07e8df8e3c8f6cac9f",
-    "e313cbf085d22e75dd27667673f3eac3b2ab873dea49bd288c32689fda0fb4c7",
-    "8831054cd5c480af25d16f04d1db41132611692c409e04a277454f7ba0264781",
-    "5284c90bd6b48029d82bc9856ef1c62e3a989b2fc88d60dc222977c5716e1e22",
-    "dd72274ab0b52ee2b0e2cb0247627263abb1c02de98a905c698bd10a1f6183f5",
-    "7a788551b4381e36d4bfebc716353a40c33648a6042989d29808ed7b63cc477f",
-    "35dd8a60a560368bb14bab499d62ccd6afbb42265aca78b2d343998075b72f6f",
-    "35fe30907e4d8fff431cca9f399a999a27f2786c07520ad5af3ff38278709628",
-    "09b3ca3bf8cbbe65cc773f7f8970ca7ffda76a681003d20759b072785d50701d",
-    "b803602afb0b205d9c62a766356cc73fcca5ec0c5a6e227f5ab0bf67872989fb",
-    "79b32bfaddf6fbe813b42b0983c42a61d7f5831ec7a889af4fbb9110dcacaeb5",
-    "4ee34d04002ea38ad4dec3aaf1ea64b113394f750053386725c1ef714f07fc75",
-    "d232b31f8654cd930a5e4aaa2beb9b46ff8eaf821ca5063139cc754c9b4378cd",
-    "6d4283ea435f719cf36661723245bb48acc7af6bf304e8d595250fad6c417610",
-    "56bcb468f0851cbc9b879524e6def32da16a2b6192167f3522e894c658c36f69",
-    "a89d51fa9c1f467d1a2beecfb736a58427a6770fdff8a63a247b6a5c224721fd",
-    "9b981b1da32355f137a5b32d78e3f04ba5130165be09a24f4d6308d639336f8c",
-    "b1869a42d786aa7c1fe587a2960d5aa49a7f5ce98afcff6239070f59ceb8ff02",
-    "5b52d44cc9e1a2ba3a188601ce6396ad50c9af73390626271e6bd80cd309350f",
     "6a0a1c36ef235a9b786e870f5361f88e77c608ada502d1ad2aa1c720b8185439",
     "5fea91a2d38adce608db1eae576c0fca86679acef58fff75fe6e50dfef0dcf7d",
     "43b033be549208dbfb5491abc49bef7b2145de6fd4e7eae9c29778cd2d61de33",
@@ -4000,22 +3980,29 @@
     "1bec2b25db78e365b906f7f94cbbd464b9cc5c237e734364775af05b07b0219a",
     "fff3e87e78affdc072594c9b0826041df771c5a39da7e4de3070cafd955d10df",
     "827442ea967fb1da03378134d205221066c7a79d70c2a5c8f38ad56a6180b82e",
-    "d56264f3f8caa24c5be77cd46587e7575f383a5b964c3a07278a0a89a52cdbe6"
+    "d56264f3f8caa24c5be77cd46587e7575f383a5b964c3a07278a0a89a52cdbe6",
+    "b6df63041b0281336e4eacce90211605f1410f4680affac4bee40b73b904c16e",
+    "400e756eea38841c826930c2a7b0f6cca05bb3b4158addb0a9d3e0256277e52a",
+    "c490773988cd8468d88f7379c987f0bea50c2df12d4c4c9f5c5446aa558f62ba",
+    "45d178edfc080eace56213a3d3a291c08ada73b993d70b0e15f739b2c9cc477d",
+    "8ab54133c717de24dec193bc06c4dd376d1a94f95548ed1f4f9412959ec5f319",
+    "ad88b537ca274aaa47e1b88564cc3c9cc879e6c8e2303494851d3e00efef38bd",
+    "17407c0dd398d8dfd8d46b335784326931e7b4bb77c42f1d317593e4d7f4ab00",
+    "e9b1056c15cfa2e692e585fceae3c3c0f2da513b31ea1905c646fe2e1856948c",
+    "658f6d985445771c4217a56e39b857fc7d41fac21eb85745b51e8a9f047cb4ff",
+    "3980bb7da5a86f3acd595666a4f3897eaac43cd004b94e2fba6eb7f3c0a20de5",
+    "4a97cb5fd40871e820339e109253ae6c131944956d32e905ee47dc3a1df00f6e",
+    "3f749310c6a46351e3b2165afcf91f39783704dda60917691aae1624d26d8159",
+    "3159c27502d8e66cfe9167cf1eea34f384522c9ec2201f6bd7745c9123c02e59",
+    "351196b1324c00cbcead55f8a1c389121f2e7c233b98d98fdaabe03d84f322ac",
+    "8c6ab2a7b6702f40341d453996c489b70e6afa846ceaf445372905429d0b0c7a",
+    "f2863104588f009cf15c660b464b53ded37e37f77ca8acad19f92b9d834ef119",
+    "59fc0ab8b1175afc873fd69d08737a1f35f02f5c7f506f526d774a11b2472c9a",
+    "d87583eb80d1da86b21c4b4278e2bc4db784cb47f9ad31f10b95078040b8e8c8",
+    "733ce1b2265e36d26904cfa44e84cb829dbf6887c2f18cb7cbcd331c7c9db194",
+    "95c8716887a6c1aa1e7c9dc8a42ff0864fcc66a0c12cac5af6eec273806796f9"
   ],
   "title_hashes": [
-    "b5e0d2c23a9bec9ca5f4d65f51bf3a5ff2f692966497224b01573c7925974acb",
-    "e7c59c7874dfa0ca79f7f79e52121efab71dfd2ab05eacd787a6b7a3dfb9d5e5",
-    "98e1e6aef695e746f8c6b716e7d32d582235f45832a522462b08e16497b13593",
-    "52d3e4affbdf6c4ceeea126c4f4e64ecbacfe53d7e6aded408bf456ac2f95059",
-    "b11ee329875e78dbc6ac4d7d2784cc935c21f3e7145781c3de7068fa0af84d16",
-    "92e6016dc894bd2288b85c703037a8cda13598517f69d6def0cd5107c448cd9d",
-    "b28777bdd71632183e227adf9d6cedca5714f87c1359c06527760afb53dc2e85",
-    "cc2e5727cd62f2d0b17432622fac65cdce2955f681bce662e338eab417785f7a",
-    "27a96896188d04ede8bec578780bb2c1604efce5cbdc318cd73654131d26558c",
-    "8331204817c0988555bc269cb82c2e3555bad518f01da82d41ea10dd33217aed",
-    "844ff24ca333e6de1dc8d1f5e2056f04b6881609a30d80d439887e1d80826e64",
-    "d960364273a0f53bdc405dd1c9194551d09245925084101315c1310bd13f9176",
-    "69878d2693f8d2302e10c6d1f6f9e1db1a0aec8e2aa3db0c7f97be49ed848d62",
     "48bdb9e17c980bb5291188ab9def22e49e80124ba233fcd3e0951fef57dafe1c",
     "935269e473c56e0c379bdd6453d59f3c76627ea0e1ece2bb96dbc0cb2bfd942f",
     "9c2b1896a9523b7f681327a2bcea585d679095b6eb197e15543d805ab6df67d2",
@@ -8002,30 +7989,22 @@
     "0e8ed6d4a7eb168fad459bee5951f1a8bb7d68c9706266943c22ccf7b2127b09",
     "3cce7a849b0902537aa771ec8d83b406bbd6ae5549a278e319a19c28fc0c4f57",
     "f65cc96bd3959960cd8b8f9c40a93b4ba7b166c5346efb778e5c2cc0c0797f1e",
-    "ec3aaafbc90e1783aeb3549b1d25b9e66c498ebbf7bf451ec58fcfef4a668631"
+    "ec3aaafbc90e1783aeb3549b1d25b9e66c498ebbf7bf451ec58fcfef4a668631",
+    "fb14ae50592558cb560662b1434410232f7fd4d082f1c768833b9b005898ea48",
+    "8f76749bfb1af91349c09f6815eef6c631dde32615da59969d95b3d3a83a2390",
+    "3175d910f3eff3840380167c9a0314e2fdfa1a17b92f818dabfb593d63717ad9",
+    "d7bc0120cf2e0d11aa3c5eb4225828e7bdb6b401a4b1668438adb8499a1b5afd",
+    "3063dcdfbbbfdd2ec6f9e9ba83c018f7aa2d18ecd772bc81bca2bd8936c25d2a",
+    "2e6911d3de923ac5221f5419ec36808f680b1e95fac08b8538cf6fc88c31cbf5",
+    "910df846639a19305fc38fc7272118026425651b073b9a05a81eb0dcd648a2dc",
+    "efb216a7775414f0875f353e9af8055262811d395a0ed44d7087bada8a3abbbd",
+    "64c59b26ad12af781dcc449f35adb90bdff21c03c1063aa2c419b6f5982ae8ca",
+    "d198b7148cde9d5a27305ebf33f3b14039b80550f6a90f3d3247cf054ff293ef",
+    "8d18c539ba2451479594f07bb77c48813cca5ab4b876fd74fb1e8b55153e8149",
+    "29bcd5e2145aafd24804b1c372e3680a01fbb41b98731f184aa6a38782347e56",
+    "e3aa8be68cf6f206b4a7d95a3a759066bd616faaa36a7bee66b5b529e16233ab"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Is Nvidia's Rally Overlooking Risks Around Jensen Huang's Return?",
-      "title_ko": "엔비디아 랠리, 젠슨 황의 수익 실현에 따른 리스크 간과하고 있나",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-24/insight-with-haslinda-amin-11-24-2026-video",
-      "ts": 1795510783
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "\"SK하이닉스 세수 늘었지만…청주시, 세입 감소 대비해야\"",
-      "title_ko": "\"SK하이닉스 세수 늘었지만…청주시, 세입 감소 대비해야\"",
-      "url": "https://www.yna.co.kr/view/AKR20261124159400064",
-      "ts": 1795510785
-    },
-    {
-      "source": "재경일보",
-      "title_en": "누리호부터 재사용 발사체까지…한국 우주수송 다변화 : 테크/과학",
-      "title_ko": "누리호부터 재사용 발사체까지…한국 우주수송 다변화 : 테크/과학",
-      "url": "https://news.jkn.co.kr/post/1119533",
-      "ts": 1795510788
-    },
     {
       "source": "Bloomberg",
       "title_en": "Sutcliffe: US Appears Set to Reengage With Iran",
@@ -11504,6 +11483,27 @@
       "title_ko": "실적 시즌 이후 100억 달러 상한선을 초과하는 최고 및 최저 정량 평가 통신 서비스 주식",
       "url": "https://seekingalpha.com/news/4676117-highest-and-lowest-quant-rated-communication-services-stocks-above-10b-cap-after-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795534361
+    },
+    {
+      "source": "Reuters",
+      "title_en": "German coalition cuts green power subsidy budget to fund electricity tax cut",
+      "title_ko": "독일 연합, 전기세 인하 자금 마련을 위해 녹색전력 보조금 예산 삭감",
+      "url": "https://www.reuters.com/business/energy/german-coalition-cuts-green-power-subsidy-budget-fund-electricity-tax-cut-2026-11-24/",
+      "ts": 1795534519
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "NVIDIA (NVDA) call put ratio 1 call to 1 put as share price down 7.7%",
+      "title_ko": "엔비디아(NVDA) 콜 풋 비율 주가 7.7% 하락으로 1콜 대 1풋 비율",
+      "url": "https://www.streetinsider.com/Options/NVIDIA+%28NVDA%29+call+put+ratio+1+call+to+1+put+as+share+price+down+7.7%25/27392574.html",
+      "ts": 1795534522
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "EU Commission: May end disciplinary budget steps against Italy in 2027 if 2026 data confirms deficit was below 3% of GDP.",
+      "title_ko": "EU 집행위원회: 2026년 데이터에 적자가 GDP의 3% 미만인 것으로 확인되면 2027년에 이탈리아에 대한 징계 예산 조치를 종료할 수 있어",
+      "url": "https://www.financialjuice.com/News/9866320/EU-Commission-May-end-disciplinary-budget-steps-against-Italy-in-2027-if-2026-data-confirms-deficit-was-below-3-of-GDP.aspx?xy=rss",
+      "ts": 1795534527
     }
   ]
 }
