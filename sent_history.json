@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795545076,
+  "updated_at": 1795545232,
   "id_hashes": [
-    "34dd1d5b2374727f2ab533cb5052a350ce624a585ba3b650642b52496aef985c",
-    "43a66edf66c55422f8f2d1738eb55242a701a1e7bd8cef723eaba380cfd138d5",
-    "6f807a6b3a3c35e3760333e4858eae5b10c275a81d5218fe6e51cb953a2d6cda",
-    "7d9a67fbc625d249f49b5bd479d2723d1a21a1f14414c671382a157a20c1b15b",
-    "267b9df09c4dfbdf2d4dc4c8496fa8606f002390bb27156a46aa58bc482ecf71",
-    "7adccdd63691ca560f33ac5d6553d2c2e0f1c3fec4d0bab731cd725994cb98ff",
-    "ed479de4430e1ff646deb272ec75d6a59dc40d3e69740f9ac1562256bf60f6e7",
     "d397406bb3947b396c9ffb678983310e3e56065cd1f22a6b900071e9ceda9eb6",
     "2bce0c0abb45fa4043cb58f2eaca78163c4e9e1a2d868a605d4c0804d22f7759",
     "57b151dcb3c1287bfd721e8aca927f708406961302d091cff594afedb43b0909",
@@ -4000,16 +3993,16 @@
     "003ce55c1f27a7566090357cd7214d26f65e747d5418df0c4df62475a7b17afc",
     "cbe46c8f18a155c8b965f73c69c73deb3407ad20b3be3cd6bfb9c53518748936",
     "411deaf78776fc47e209b79f27dfc6e1539bd9d38407538e1974d41a2501fca8",
-    "3a23b212d5e4f88041cf5405657a4ca6a11c2be35334eb5e5dfc90bf04d7f070"
+    "3a23b212d5e4f88041cf5405657a4ca6a11c2be35334eb5e5dfc90bf04d7f070",
+    "8d94d305895b1c5bb3082e60dd0fc2a22a0629e722efbb86a7616f85b3a68d4d",
+    "533483a68cfbfe6ebe556106049a5a866e858512809039a9eb3bf1f7e039581e",
+    "a804fa2c4d2e22bdedf632d8a232a1b5990345a67048f171c803c074e6f1efe3",
+    "d988358b1e77447544494e785b9977d0e633ba6579cb94f9a3e8000aef1c9e04",
+    "5ebf81df8b0b73771fad88dac770d96b99d6edebe1e017800e0e87c566fca7fe",
+    "e0ca85f9baf38d0855d74cce20d09e59f84986b3d3fb201b4ed569687a845e1d",
+    "55e05a24a5d034dc7444225acf651927da22a0e3d0a2f93111f3e14a12aeeab3"
   ],
   "title_hashes": [
-    "8aa8750f7df7a86b2327016e680b3f57c08305cd86132e0da124fb6737c5d6dd",
-    "c31f19bb1530aa39e28a64b20baee7d68c4e635dcb55eb4fc6c2177610789367",
-    "2f46abe209986234585128e0280f822b6266b06157b91ee03e39fb83196535f4",
-    "5c6b6ed8fba1fb81025d60d334d82eb00f67eaa4628e34bf958f488f0fe24f15",
-    "cc80b797e94774df2ecd5e98413457fd6280a1fa3796cc708d867f4112292014",
-    "4380c12bb8995dd872c3ca76bba9347d9ebc428f909e21fc8dfc3a322233fa09",
-    "8f74e0cb0f3433e41c7c5faff44f660dd65f4a3484e57d3b74c4546e9408bf63",
     "3f2f18e297bfb491c58b6256cab11248c8be6f1d5ef3abbc241f23013f51dc20",
     "4fa7e0e5c149e001293792ba28607f4e20e7f27a57988917da47157707a8135d",
     "b828ef3142357c95dba0058dff7c88632f78e024842906aa379cb05bc8ecd7b6",
@@ -8002,16 +7995,16 @@
     "1ce66f9fdde16931f78c5be01f5c77c44614133a381de6036e495f4a885fcaa8",
     "d0a7d1515060899a20f72ff2aa7d1b1dd1e145b5494ae226a1127a48022d9a44",
     "20218530b7a36e480e030d39d3f3b42a42d53db23092f0cc2630ad7da90640b7",
-    "90d16970cfb84320e3f4bf0974061edbd7b98d43bab4120a179020699d53681c"
+    "90d16970cfb84320e3f4bf0974061edbd7b98d43bab4120a179020699d53681c",
+    "370bbf973e6196d09a1d596f5ec54ee400c8794680287a36455e475507ef189d",
+    "8e438d08417b046664a114b19bcb1a4ae12ca4f98f1d1fb931df69a7e753fe1e",
+    "bd13cb24f6775ab0699927e6f1d6c7a42ab4f2fd34e052e2928df874b4ea49f6",
+    "6ab6164f00a10b9beb897a6b306c5611a71ab91cc22a5e79653c33f87ae5a9d5",
+    "ab36221451baab3a364160b2b833427be147bb43f7664673b20d5abfb90d7ce0",
+    "a2e92cf0480d3e48379269bfe0864e7a59c85cc5090de8113574b210c3afb5a9",
+    "4e7474ef90d4910f663d28514d9fe721d34b9fdbb0b5a28b500be4d456b95705"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketWatch",
-      "title_en": "Anthropic stock falls below IPO price: live updates",
-      "title_ko": "앤스로픽 주가 IPO 발행가 하회: 실시간 업데이트",
-      "url": "https://www.marketwatch.com/bulletins/redirect/go?g=cb62e45a-2595-49e8-9966-dd12c0eeea7b&mod=mw_rss_bulletins",
-      "ts": 1795520496
-    },
     {
       "source": "FinancialJuice",
       "title_en": "JP Morgan: We forecast US 10-year yields will peak around 5.10% in Q1 2027 before retracing to 4.95% by year-end 2027",
@@ -11504,6 +11497,13 @@
       "title_ko": "코로(Korro), 납 자산에 대한 FDA 희귀의약품 지정 후 뛰어오르다",
       "url": "https://seekingalpha.com/news/4676316-korro-stock-gains-fda-orphan-drug-designation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795545075
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "WTI原油日内涨幅达2.0%，报81.84美元/桶；布伦特原油日内涨幅达2.0%，报88.42美元/桶。",
+      "title_ko": "WTI 원유는 하루 동안 2.0% 상승한 배럴당 81.84달러를 기록했습니다. 브렌트유는 하루 동안 배럴당 88.42달러로 2.0% 상승",
+      "url": "https://wallstreetcn.com/livenews/3205181",
+      "ts": 1795545231
     }
   ]
 }
