@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795546327,
+  "updated_at": 1795546493,
   "id_hashes": [
-    "64e8b9f3d230abf1402f45b54f7f85570232776cbfde4df0c7a6bc54f6adbea0",
-    "f0774decc708f7dd1e9f0504390af8f424e9f67d0c99d256c8dbdebccbba827f",
-    "55692b0e9d8b5755463316431269d673cf43b4c35e353750142e9950bccdadb1",
-    "ce5bf24d36bd259e6bbb399e80f22e8099595fd7b688fcc05b094d23a5572701",
-    "0bb6701fb258c18325c31b2b916175edb3e853ff23ee7f3e0bb156402f720574",
-    "71a8ef06f1163c31c07521178fc9ceada169d23ff1ad0e704c8358a6f4d4d1f8",
     "b55ccc1ca173316d7a965d43d1303b2d6360d475e95a0cc87748d9a38044bb07",
     "d66722901f1d3c4a7a1b20b433e05c0aa10e50377c1a224daf58d3691bcf1a8d",
     "14c5ba260fdbcc072a6dd5b5f67ab55e909b47aab0644769900ba8edb7cf22f5",
@@ -4000,15 +3994,15 @@
     "2b2d112796295875080ee9fe12449fd3ac351e7279de7d29bc4f5c13cffe733b",
     "0f7520d43605157425a219a0504571fb3edd890fa14c205dc1ab308d581c371d",
     "4e730c7cd891d6efb89b6973de4d55a0aba00bb85b47c7d38de8d48368ad7da6",
-    "0b6d90bdef1613ed9eae31e998889c49818c829a8069daef68b53c6d44a68340"
+    "0b6d90bdef1613ed9eae31e998889c49818c829a8069daef68b53c6d44a68340",
+    "c4eee362161619cf5aafd94e8b82b7805dae1d278029c7c6af5eca1e477c60b0",
+    "f1e04f5d7968e16c216667e81210e11426b4555450c298f7dc375b3981661812",
+    "748a8d293411e1f739663fed839fb7b6651b4afaac0311cc52a5c0f4517f5737",
+    "ad4ef09764354004675325aaf069018f89a882d70f34d607fda417a871cce0df",
+    "c8722fa6422292d3b9756852167e2923ed5d9d2d87f35ed09c08f60aa1f21efc",
+    "32bbd198346557d0b48b7d6e7ff7b3930ec190ebefe59599f3cb59d03f0d41be"
   ],
   "title_hashes": [
-    "f0eb6aa1e6e8ddc4dfd622471be99a24100d12797b8207c087df3a885a9424f5",
-    "00b34df2f8a2b226d69fc225cae5aea4d75eadcb3060910128967590b8b8c872",
-    "22be739cc034f34fab79c323ef141e0f38c57655bdff1ee9e7e38c66baaa1916",
-    "b9fd5d3b04527a3043c3729ebcfeaabe23be77762cd580519dd860f8febbc74f",
-    "5ceb2bd51db4fd2c12e010965d49f1f21162413e877babe62e8c9a58f29d8814",
-    "117fbae3c98d88fdfc9da9a3bdbd70eef75f46974af3684282d7aacbfcc35421",
     "b2093b0b3e117a1792794f7fa2816918954acd2a7f82e4641d62efdc19fa0598",
     "7bdf4f9f04dd3f65d1d58f05c98b0f2725725750a4aa8ce6cde4b11a28c0976d",
     "fade04284401413e124bc2706e149d907fcc1af964a76683ce4c26fcfa21896a",
@@ -8002,23 +7996,15 @@
     "dc18bbfffde8ca7ab239cf16cb7cac6d6b86240905671b97a0f2f2bace064745",
     "c2b0b44d5e449b2838048fadacedb86d1ba540e3fbf096e5378bb85d5239da3b",
     "0f85e8a486e09f5dfea669b70c8d76221ec2e04964d5301b14050fec927f5cd2",
-    "d14376333a374d0e5c32f8057c94b1379279ea1296599a92583d4f3df522c1fa"
+    "d14376333a374d0e5c32f8057c94b1379279ea1296599a92583d4f3df522c1fa",
+    "e951ed4d885d63b208b3a80fbcfc4625e81ba56d7f4538152a97723331144616",
+    "433102eb6079d1424f1e5e5bf40f00e7a0fb62e951bb31f355954d6f620d7f4d",
+    "8c26ffd9bd482f758abc3d90d0d3299e207b4e8c4bcd985e28443e36cd45cb53",
+    "49bacb88f7cba9f34bbd843e0db26b5aa248163d01d755856459416192db67a8",
+    "58752d04566cdf1bb0e20b311445f9c4412ef1f508836b3e2552664020aa3378",
+    "12a385c68f2837c3f78811cec5592cbaaf811dc8440dbb225e24f87d6fadd624"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Reuters",
-      "title_en": "Pound claws above 19-month low, as dollar pauses after Nvidia-driven rally",
-      "title_ko": "엔비디아가 주도한 랠리 이후 달러가 멈춤에 따라 파운드 발톱이 19개월 최저치를 넘어섰습니다",
-      "url": "https://www.reuters.com/markets/europe/pound-claws-above-19-month-low-dollar-pauses-after-nvidia-driven-rally-2026-11-24/",
-      "ts": 1795521782
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Northmark Metals acquires four Saskatchewan properties totaling 23,208 ha",
-      "title_ko": "Northmark Metals는 총 23,208ha에 달하는 4개의 Saskatchewan 부동산을 인수",
-      "url": "https://www.streetinsider.com/Mergers+and+Acquisitions/Northmark+Metals+acquires+four+Saskatchewan+properties+totaling+23%2C208+ha/27390666.html",
-      "ts": 1795521786
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "柯尔百货第三季度毛利率41％，上年同期39.6％，预估39.4％。\n\n第三季度销售净额34.5亿美元，同比增长1.3%，预估34.1亿美元。\n\n第三季度每股收益2.15美元，上年同期0.070美元，预估0.04美元。\n\n...",
@@ -11504,6 +11490,20 @@
       "title_ko": "신규: 바이낸스의 토큰화된 주식 플랫폼 'BSTOCKS'가 관리 중인 자산 $1,300,000,000를 초과",
       "url": "https://t.me/marketfeed/1084741",
       "ts": 1795546326
+    },
+    {
+      "source": "FT",
+      "title_en": "The expanding boundaries of the Ukraine war",
+      "title_ko": "The expanding boundaries of the Ukraine war",
+      "url": "https://www.ft.com/content/bdc970b8-e99d-4668-8e64-dcefdc80bcd6?syn-25a6b1a6=1",
+      "ts": 1795546425
+    },
+    {
+      "source": "이데일리",
+      "title_en": "[美특징주]딕스스포팅굿즈, 풋락커 매출 회복·가이던스 상향…주가 15%↑",
+      "title_ko": "[美특징주]딕스스포팅굿즈, 풋락커 매출 회복·가이던스 상향…주가 15%↑",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01154566645649328&mediaCodeNo=257",
+      "ts": 1795546492
     }
   ]
 }
