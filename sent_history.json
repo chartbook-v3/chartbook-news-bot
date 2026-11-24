@@ -1,23 +1,6 @@
 {
-  "updated_at": 1795483018,
+  "updated_at": 1795483170,
   "id_hashes": [
-    "005a57cfe3067d6b3d4d0180acb116fdcc44b5744ccde6d9047410905bc2d99d",
-    "bd0947a38ddedff3170ac0ac29a9a375e8acf9fc972f11ad9bd22585af135e44",
-    "9dcb839b3f7d1d62341dea2091f8a82e74dea551fdc5c87f7d5647f1f0fb98aa",
-    "672384e6444070090e023bd9162293b6a2e548e0ce60e97616c716dd23b17d8e",
-    "ea32d4cb5d100ae30f67581c74991b68335a3325b7aa028e291f303e61fdfc24",
-    "472ea35fae5a7d7b08c7021bbcf1ef1482fa2709f8e3c227467f073b7ebed7fe",
-    "753d39c34d623f71931bd344d1814cf147285264c0b8fa2897d320263037e933",
-    "034f2cb3cbf338e0f5159761e92a29f088e0a9a7484cf49184fb34981bff31b1",
-    "2db2e4776ebe33b829130e40ace788f4172bad5c56d5cef417a67fce33aabe31",
-    "58c374a9c28acf535d4e62a49ff478f999927f292ba1586a0460b595d741d671",
-    "5f19b608950d79796057d32711fe4201b0ef156be47643ce02c627b1f4588534",
-    "50137dbea9e3679320959b877d0806580c56f386a3025b84e24559a9c5cc05f0",
-    "417f54c53dced1ca5e3ff9b0b77e6948dfe8e3dbff4d576a850c228f315857ba",
-    "80805e110fa0560e5c7d8ac6151afb097f9e19dc1e02818233ed473cd2185f9a",
-    "598b8407b915f297141d515087db06b350095c9883c98f03a5be5032e9777b7c",
-    "00c06f3326474ba557c3efb200996a17ff8fe67d5bc862477ab03fd15026023f",
-    "b2b50828bf43a9a7d5a4d5a56767ccf4f39bd971f0ff1cb6b4d22cf354436a32",
     "0d806aa2a7c421a7459510737fb05287a0c124e6a833f55f8ab72dac292d6896",
     "60c6b983508efd967938176b0a4e5b0ca8987cbe3a7314e581b1dd5b757fe3aa",
     "f1017e8c8907a1a87a3b0bd2ad71098afbfc358d15743ca897f2917e5b4152f9",
@@ -4000,24 +3983,26 @@
     "585feb11a778400978c90d1d403f30f902db4778a667d4ee2bd625dc04d97276",
     "98550fcf06be092e38cb5665778d7b2c768861d8ef63b82858586ce2b4181ba3",
     "97356c5c36eb3dcc226c1379a9ec7e8893b1a61c49fc39aaa52e74b9ed3573c4",
-    "264337dc4d2f22f57d8b1f71290f9dde26b408591c4310bbff782319957e9161"
+    "264337dc4d2f22f57d8b1f71290f9dde26b408591c4310bbff782319957e9161",
+    "4ac6013cc0a9f0304badbbfc5177f15c84ad990aeb9808bf0919694d8b48f496",
+    "53e91de0c49f52974845fec633f4b3b3100dd54eafd3d1beba1d648377aa7d88",
+    "9322825c6679b9d18939a4cf9cbcd2d3a7aa5331a5340362a554d93ff9a298e3",
+    "a42083c5cd2dd5d70412e2eb64c94efe7ad421ece1ca601122eba2e22eaa343b",
+    "fcb96b1ea6f3621b0e20069cd582c4a554ba6aaeccaee694bb86de5e61474caa",
+    "34a39d9eaaecde431244e93258176b2f3bdcc35da4117cdccfdc034ac78324a4",
+    "b39064c852197982eb70662c004de0bb6568bcc280f47556af0726a2673c4548",
+    "64fcdbcf7fdbddafcd3867c0ac09dc9529bac94a96437bf53b25b6e3b0083346",
+    "df6b1b2be3c64522b27e79d7198872e9ddaf3de986d0e2ae6d3b684e1d1b5141",
+    "75da62e99167861ecb8fdb5ac0ffda991697c2ab9e8bc1aea5157d26214c4341",
+    "48f8d9d5788ce62333d688a67b7e9a48d142db8318f113d53bf42ec2de834219",
+    "e38b01c28b390a1f67577d84b15971205fa443e6c61056e2572decdaef5790dc",
+    "2545589c8a6d0fb16191ffe2fcf0a6ccfa1694262b502e8dda82e0d9ecae4e03",
+    "61d43148b8027950e1bc7757688d4eeeb089ae6fbbf06166000da29587317e47",
+    "802c94dbb97ce3b926ea19a43df0f69ea95b0c5096a8e8ef1f3c1632d7ac0156",
+    "676b7d41daa5c72bbb892063c8cfc375d90a5ab56ed098a921fc68a1534a71f3",
+    "062b25e01726d029ec3bd415c95cea43fa2dfce88c00ad2750d09df62a4b4779"
   ],
   "title_hashes": [
-    "2cf850d9326465ce35cb8b2e426bf97f52e5193f672b80c2a058f57f9ccacfa2",
-    "54091a22604b6e31b226bdbc2b23e945efd37ebd52470ed5dc1ae671bc3414c9",
-    "12bb69da4062202d514a0e154760e4e052244c78d7b47f8c9a17f080935fc510",
-    "fd3211d39eab49e4056844a5a60964e8aa3ed4a241ac2f757e67aba229e5e233",
-    "a6b6d57a260fa274ea33addd3712445cbba5ef8d5e971ad4197604e39e6675b1",
-    "ae496753d9ca6830f2f1facebf6c4230b4075693ac67b8440fc27b823b132e0f",
-    "24a9107b964ae76bc705887ed2b7b8ccb50616ee1413fb5266d9054849c487d2",
-    "f9428c728d8ed8ed4287d241f65917374a85e32cfa369b35475fe967cbaae261",
-    "4426bad29834ece19d8596923b97952fa2018c3454cebe39031009bf8416b6b6",
-    "7e0781a6fc510c23c0cccbf979d22fad94eb68584ed1fc0bcc19138ffa250bcd",
-    "34a6b8739b10ea99642b1f3c40af264041a84bf12cdc5820131a41913e80cd4f",
-    "bb4ce1bfe8263514dc71f850ea44f660e361a54a321074895b36bb203772664a",
-    "fde669e8a0489c4d02e5be65e9b701669b5440143cb0f8383bcfa352c91857b7",
-    "d8e36043cf84624e9e947b0a5413b64e26806b0af43ff675479a1e8f289d9890",
-    "d258c279442d60095bc04e4c35a2bc2ea4c2fd8d3c1789d3d9fabbb3e8c76b87",
     "059dd0d02d23be5768aa349e4ef752a9e2e4ab779e25fa9492e9b7037a96042e",
     "166ff2139cde8b2eef8c2276a9941ff0e1b479a203ba45932149623de0d951ab",
     "d443de25315a57784de1a4e3034cfcfb3fd6c2cb05fcda8a0b08ff0d3927058b",
@@ -8002,23 +7987,24 @@
     "bff1deeb33be302eb13fcad8d4a5731256a95d23b7b891dbbaf1cbe99bb5a076",
     "89eeae9d8ee887a6328b3d6f7023d376bdc0169fdfc3fd899c5fb5b77cd6864a",
     "dd1b489a169a69ccec7db836730642d70db543f5beda3db32068873408f744af",
-    "801cf850fdeb633ac97c1dad6621aff3b937ab8f6727c4c87c64a4d8e34a34fd"
+    "801cf850fdeb633ac97c1dad6621aff3b937ab8f6727c4c87c64a4d8e34a34fd",
+    "515d757c81b622a812a25eb5ccdf22c9bf89f7531197aa7ae940e337e29584d6",
+    "7fa6c2cd334f18dc4de3dedcfa143f79d0ea8e657bdb2653423c47eb539174f8",
+    "74fac14246ccce146229283477d073bf8a98cbc758261e8a5da1131feeb531c8",
+    "b5b9d4c15f9665b4bfeda23026b11a74ac97d15507997e4185433a51baee8853",
+    "4da0dc1735bc6cd0c72c9de854885047a7a22aece12c18a29554a59ea14754f5",
+    "c3d2e38cec6ab6538d2366f51b62497b11e9f4b2925c11b738f385f9a0b3efd1",
+    "95e120d704eb2197bfe8d0e2b189b4c13a8cc2e72c132f26b8673a63933aaf96",
+    "d3b619750794fb0be3c9e2f0340a82d672292a37ad4729194460ab6c592dc36a",
+    "fe66517fd89cf99d0ecabea58caec339dd76cc3c82f5812de914825f29b2cacd",
+    "0cc0bb3e737a0f19d9bbfde172d5cd654b141fb2d94ec8d8f59bb3706566747f",
+    "12824e8a79faf765e34596e42e991fd3d6a7fd66bbbd2aec879f78b08b7768a2",
+    "4dc0f12701c2393f82cfde54238b412274b42b6e3f29010f160aef42edfe13e9",
+    "414eee9314f443838fa2c09306d6d7453d243a502166fe996bba959a2e9759a7",
+    "3d4c93dd10990c9005ffbc36306d207d2c0ab5edb875ebd4ef8e3698b84c0dbb",
+    "0e9a22d8c979e02ce7a1ce693e8295c303aba89a63e104afc140d8626ff58a9d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WalterBloomberg",
-      "title_en": "SEN. WARREN SAYS JENSEN AND NVIDIA STILL OWE CONGRESS ANSWERS",
-      "title_ko": "센. Warren은 JENSEN과 NVIDIA가 여전히 의회에 답변해야 한다고 말합니다",
-      "url": "https://t.me/WalterBloomberg/38932",
-      "ts": 1795446046
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Silexion Is Testing a Way to Switch Off a Key Driver of Pancreatic Cancer (NASDAQ: SLXN)",
-      "title_ko": "Silexion은 췌장암의 주요 원인을 차단하는 방법을 테스트하고 있습니다(NASDAQ: SLXN)",
-      "url": "https://www.benzinga.com/content/63531261/silexion-testing-way-switch-key-driver-pancreatic-cancer-nasdaq-slxn",
-      "ts": 1795446110
-    },
     {
       "source": "Benzinga",
       "title_en": "MediWound’s Next Clinical Chapter Could Change the Scale of the Entire Company (NASDAQ: MDWD)",
@@ -11504,6 +11490,20 @@
       "title_ko": "새로운 AI 행복감이 연준 인상 베팅에 연료를 공급함에 따라 달러 상승",
       "url": "https://www.streetinsider.com/Reuters/Dollar+climbs+as+renewed+AI+euphoria+fuels+Fed+hike+bets/27389508.html",
       "ts": 1795483017
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "人民币兑美元中间价报6.7111，上调9点；上一交易日中间价6.7120，上一交易日官方收盘价6.6643，上日夜盘报收6.6667。",
+      "title_ko": "미국 달러 대비 위안화 중앙 환율은 6.7111로 9포인트 증가했습니다. 전 거래일 중앙 패리티 환율은 6.7120, 전 거래일 공식 종가는 6.6643, 전일 밤 6.6667에 마감됐다",
+      "url": "https://wallstreetcn.com/livenews/3204611",
+      "ts": 1795483110
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "日本内阁官房长官木原稔：英伟达在日本AI芯片产业中扮演关键角色。",
+      "title_ko": "기하라 미노루 일본 관방장관: 엔비디아는 일본의 AI 칩 산업에서 핵심적인 역할을 하고 있어",
+      "url": "https://wallstreetcn.com/livenews/3204612",
+      "ts": 1795483112
     }
   ]
 }
