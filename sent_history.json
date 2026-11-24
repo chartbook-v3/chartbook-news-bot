@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795515817,
+  "updated_at": 1795515984,
   "id_hashes": [
-    "471e112daec00e1648f799c76d88dbe0e3c9a21af451baac63bf63e287a49801",
-    "0acdc0387d9c0cc7ff4c571f109965c9f9cf6d7487ada27a4e74b4ccb585be74",
-    "3a5ad03e6ce809a3cb845fb1be293898cfa45f9bd83a9de3d2c37abc306c82e0",
-    "925a6bfcc58d572b856df97251093bb5efe284caac09e1025ad027395c334d24",
-    "582160240f04f9e0e77ea12db7fd07e1f56dfe179653d10b5da1e56cea88e3f1",
-    "f3251a4ee23c7a0548af08a73d4eba38bec71e547e9b1e62bea7ac6201d376b4",
-    "8a03710e9226b286e4338c2d5a44a9a5de22bf87266d3027019b87aff1cfc443",
-    "083f56e6685e22cef9e8b55fd6c1053d18fd96881bd5938f4de48225b28fb35d",
-    "20c9a25fc5ce775d073e2835f4ea35450d865761fcc70e52f887c6f3b8138ee1",
-    "bb2d80bcc875a72ea4c272402b8644fa5ffa4a10d9c714a885b2c1e57729ca94",
-    "3630f044f50ede578222dfc2dc1abacd7f784b195f67de8f9856ad738c7ce6f2",
-    "9a628e199256e52d40ab258aadde2da66a967af17488df7ce58f812507cea3cd",
     "91aa3f21424947c747ed2d637bbe545edaf1697a13c8092d1262c7bbcc0a5754",
     "326ca307bcf37da9d795060cb3d659b43aa1d21977e4251833fa223191c0c359",
     "586bfd8f5124c6b38487f5d9bbd0efc05e2bd7531a35d7c4eb74f40eb035e8d9",
@@ -4000,19 +3988,21 @@
     "d8a85444cea1c4cda35856d1f62eb8cb17742e516e1c7242ce56c1edd3d42242",
     "00d949bb3f5955aa689d4d4e6b8d5465ef89fb48deca2dbf7106f6b6372b107c",
     "ab6dcd85725d38e5aded9028e46e8267377cfb2cd9db11457635cec66906d485",
-    "fc9b2d056059282394d553e6ebe18e941254452d494c29ed1d2f0940cfe0b203"
+    "fc9b2d056059282394d553e6ebe18e941254452d494c29ed1d2f0940cfe0b203",
+    "1320c51b2d526e005712071d50698881292e65d96501823b66481b15da125cc8",
+    "87ce354eb39636088cfa2405424478ca6fe555e321eb04b40a421c4ce6a295c5",
+    "15eecfa21516ea909c084def260fb6e719311dfbf70a852626fb9f214bad461f",
+    "f033610bccf75790ef55c0502f24679c4f1ff00da59271b0fcbcc91569cd3bb0",
+    "25a23f69236fbcac691a324c95802fbf8614f9e7a15f1a788408338cbb965217",
+    "c6d7d24be62274d9ca86c571a145d1a9305601d0d63f79edf69300b560ba75b3",
+    "10616077e039f92d05f225d07120c1513ed35b54c156bfc057a81e6ae0a820ed",
+    "c990dde1b3d689c0881aa046ee5647f59d3804caf57a1ece3de98cac7cf5fb8c",
+    "889541acd4d28ad67e9d64e8b7623ef199c55fec69ee9ebc620725a35b2d8a79",
+    "1bb4ebe13cc0d65b993d7c6461bdcc7d69a2c1203215778e92fad8e9429132ce",
+    "22270bc4e95ae86d552101d3760e87bc6ffab29e98c093e9cee5aea66495ec39",
+    "48a48f39c1bba093d6919d5ac29946399e051002f229de412848e09190a2a2eb"
   ],
   "title_hashes": [
-    "367a93206a556b51d18ab34a400fa9886b905a8815e4e29faa7e834e607350c1",
-    "92db543e17b9ab933b305d0abac2de42fb5a5a0945d38daa27c96275f0f2db1e",
-    "cdd922df6552238ab6e5bb17db21a08244f3984c987c2b78b495cf15730cc106",
-    "47efb49bf754f9c6f1749d2b4788a290a3d5309d0d96f3e0e7e7b0e4a7242abf",
-    "c2102d4b6ce55deb73601e49903904f35356e915b6627f0b50429408ab0e7382",
-    "2d7f827c0b8f9ab608457714f59ea9eaa385cab73451c37d87784340615398d0",
-    "183932ffd8b36e37436dd28ab69ef796a2f1d9b2f8a1fa24b04c1beeb027168d",
-    "fbd96cd113174bf048935552bee8af22b1108ca41a403e0a093c9148f0f297cd",
-    "7ca7c215a66c22405a753904404ce5a676d3fddaccffc3dd50e8d509588d74dc",
-    "b93506ec9581ee8742f25b0e7d76d6ff39705aa5de67ca8d375c50cdf1d16bdf",
     "d339dd61507e6a58e60259eb5b588b64ef72e71c253ddb3c2148988754c6fc40",
     "9c4e138bb46186edec785595f919c2f6c55b2305a67316277bac6d0a2f250b23",
     "5957c451f044fc6363d2550b35de5d3c60fb2abafb0aac5e0d038fad0c89774d",
@@ -8002,37 +7992,19 @@
     "976520fbf1d0a01b42827c36623e6021acc5424c2ad21db46fe46c6322da3aa8",
     "cb8aaa50cc017b4650af197e98d68c9b06e7823954313b995e1eff008e027083",
     "abe845f4f3ca0cb79db5db820e15a8918ddf65e7a2e7f4f186d9d5f3aba46a59",
-    "f11104bdaf3fddd453a246a8d86e87bb73c7545c6b76309854d58c1493f12b7f"
+    "f11104bdaf3fddd453a246a8d86e87bb73c7545c6b76309854d58c1493f12b7f",
+    "7066fc22b1c00e8e13bc3069c6d926a8a84b90d21fcb603df7c6f03641395be4",
+    "f1178de4b09e24ee69c3ab704f5b366c0e5dda2438841af61ba75dc3976b3563",
+    "f5771d3907caa079c1801f3bb0507044e627eef0f6046ae4ed8113a50e5cd2be",
+    "1cc234307d54b3cd60810d45e6cba75120a28190e2e25567ad2cc67ad9955e81",
+    "69b0c518e1f8e7b201494f3b88970bdbc5c113bd9e077648b16897cccb5909db",
+    "e5b8c0c8cac4167428b56d27d6731f452c4e103ab035e72bb911b75fa19e1703",
+    "570b8663f93ac2018d024b4edc7f123e56720f832883a9473ccc05de09504308",
+    "578bf83ff98fe0fda1b41f807b9b75267c974a13812479f57051426242b7a808",
+    "5b1d92e0f98811ce78ae2ac3081dc030ddb42e44debfc4fde79420a79de7269f",
+    "a04a59381fd39ddcadd1f693a512116924609e407a9d98a0b6417dcb72089f62"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FT",
-      "title_en": "Inside the ‘war room’ that lobbied Trump to bring back Nvidia’s Huang",
-      "title_ko": "엔비디아의 황을 다시 데려오기 위해 트럼프에게 로비를 했던 '전쟁실' 내부",
-      "url": "https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1",
-      "ts": 1795477190
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Trump Wins New Chance to Ask US Judge to Toss Hush Money Verdict",
-      "title_ko": "트럼프, 미국 판사에게 자금 판결을 내려달라고 요청할 새로운 기회 획득",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/trump-wins-new-chance-to-ask-us-judge-to-toss-hush-money-verdict",
-      "ts": 1795477193
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Trump Slams Newsom for Commuting Death Sentences in 2028 Preview",
-      "title_ko": "트럼프, 2028년 미리 보기에서 사형 선고를 감형하는 뉴섬을 비난",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/trump-slams-newsom-for-commuting-death-sentences-in-2028-preview",
-      "ts": 1795477199
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Circular Financing Will Now Be Under a Microscope After Jensen Huang’s Return, Warns Gary Marcus",
-      "title_ko": "Jensen Huang의 복귀 이후 순환 금융은 이제 현미경으로 관찰될 것이라고 Gary Marcus에게 경고",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-23/expect-more-bearishness-after-nvidia-ceo-return-marcus-video",
-      "ts": 1795477202
-    },
     {
       "source": "부산경남대표방송 KNN 뉴스",
       "title_en": "KAI 1조 5천억 원 투자 약속했지만...특별법 없인 '반쪽'",
@@ -11504,6 +11476,34 @@
       "title_ko": "뉴욕증시 선물 하락, 스콧 베센트 이란 신규 제재 및 호르무즈 해협 봉쇄 언급 여파",
       "url": "https://www.benzinga.com/markets/equities/26/11/63569914/stock-market-today-dow-sp-500-futures-fall-after-scott-bessent-unveils-fresh-iran-sanctions-hormuz-warnings-hpe-smtc-dell-in-focus",
       "ts": 1795515816
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BILIBILI Q3 EARNINGS - NET REV: ¥8.32B (EST ¥8.24B) - ADJ EPS: ¥1.85 (EST ¥1.77) - R&D EXPENSES: ¥1.01B (EST ¥1.02B)",
+      "title_ko": "BILIBILI 3분기 수익 - 순수익: 83억2천만엔(EST 82억4천만원) - 조정 EPS: 1.85엔(EST 1.77억엔) - R&D 비용: 101억엔(EST 1.02B)",
+      "url": "https://t.me/marketfeed/1084411",
+      "ts": 1795515846
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "IG METALL'S GROEGER: VW MANAGEMENT WILL LEARN ON JANUARY 1 WHAT IT MEANS TO ENTER DISPUTE WITH WORKERS",
+      "title_ko": "IG METALL의 GROEGER: 폭스바겐 경영진은 1월 1일에 근로자와 분쟁을 시작하는 것이 무엇을 의미하는지 알게 될 것입니다",
+      "url": "https://t.me/marketfeed/1084412",
+      "ts": 1795515855
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "ECB: banks borrowed €21.0 million at marginal rate",
+      "title_ko": "유럽중앙은행(ECB), 은행권 한계금리 대출 2,100만 유로 기록",
+      "url": "https://www.financialjuice.com/News/9865859/ECB-banks-borrowed-210-million-at-marginal-rate.aspx?xy=rss",
+      "ts": 1795515974
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "ECB: banks left €1.9 trillion with it overnight",
+      "title_ko": "ECB: 은행들이 밤새 1조9000억 유로를 남겼다",
+      "url": "https://www.financialjuice.com/News/9865858/ECB-banks-left-19-trillion-with-it-overnight.aspx?xy=rss",
+      "ts": 1795515983
     }
   ]
 }
