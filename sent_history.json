@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795528322,
+  "updated_at": 1795528486,
   "id_hashes": [
-    "a8223abbfec74b1881cfd98f67e186f4f509410f12a3bd3075970574224f9de4",
-    "eeb78008460fe6106431f9c029778696a0a346bd7286968d8ef5ac9c74d36edd",
-    "2afcac295824c6e42749756c3a0dc489cd1b39389a7d7589281cfd0cb1dc9197",
-    "e09a7e1515304995b3c8efd55dce559dcb0551272bdb730437f5a942f301c20c",
-    "cdd90393d389a5ccb8716dc587a8ea51b0a361b9ce3e76f75bc21f196c35d161",
-    "9dbb1001d6b4576124a61df8d6039ba7d497f26ee9e6008b2dce7a8c52d1665a",
-    "6071bcb9552f92be985da3c325437e29e019dfb4fa38a8898983201ec375de2a",
-    "22176c99a4fce7e56f618df1a01c3f18d5e9315d3460fdee3ffe0fe1c990f562",
-    "185f733a22f2867f8c90c5b80999882b4ee6dca895e42539640b3dc58e90ae5c",
-    "23692e77c6dab3712a76c1738d880d00ddcd7a6f73f4e4a35729ee22b2964ae1",
-    "77933f6a702a53c9a0761e8a2af2736fd087dff1d89a1fb0e981ff6a37ac6cf4",
-    "2abbb525e7cfe02751a96177ac0e0748d3c63fc24b019f537b7fa555c2dbf736",
-    "bafaaa51380b47a059836e34b508d991007ff42798153ab6c62395054b2892ca",
-    "0ed222bebacce8611f774c3950e4de7bd8fe78c5903254ee0228e8e090cce699",
     "60d68a958abebf50e7161b341cf38afcca62ce676d701d84206c9d37a722aa49",
     "40737ad8c0e2471778912c09c80dc4b73d499e190b4092a9a4eea1e1888ecfb4",
     "eb5b7a5aeae92daf5fd3613948b909bf50b66861a745bd3cd2c0797d0d2a27dd",
@@ -4000,22 +3986,23 @@
     "0eedadf566143bb9890a22b6d38905a1c9f64d07fd315a6d6ba9229d98c3f47a",
     "327b51f0ccf1293f6694fc9e402c49cc2e8051a61824cc8ebd916fceee29870f",
     "baded05d77569f9162180059d175484d5dd0b1ffb6c7fd082af25dedf714fa5d",
-    "404c89bfb5d7710afd06022607dde2876884b23e75a8c7faadb8dc39e20ffe51"
+    "404c89bfb5d7710afd06022607dde2876884b23e75a8c7faadb8dc39e20ffe51",
+    "a8c2db651ac28d205774d9cab78b7b92daab7588186060c40f23bd57844cf6fd",
+    "712009152e6db4ec29619d0739c71edb742182e2d77c80e650b372aa17a02b58",
+    "8fc53822026c78a41f64a6079e9e298f1d02d70120f37706762c68478e8b1505",
+    "349adab5e0045335814c513eb4b91622ed294c4c2219c5e2e8c6d0e3ebd5354f",
+    "627721e480a7a9378d9410696bc8a7aeb49a8f62ee82a25c981d86bb1726a786",
+    "179f2e08f90dc66ace1bb2de094e1fa934c3c1b70fcbd539fc863b59572c29af",
+    "a9f86216d5277b4d44f511c5e3d8c766e6819705073d7a71351ca6f79feb295c",
+    "5b27a039cc54f25d94610d155e3486c2b8fa286aa7c854396abaaac214cfb3ea",
+    "103ca5939b123237b3c8c80fa6752eddd7f1a8a4ef04fdb7df3e78f18ecef7f0",
+    "08a8f24f6c1f1ee4f57dfed05c68585b539208af9c038ed2264d1617abc97a7c",
+    "96f57efe0e27b4360425e419f3bd6545e297bf2a3421c93d3fb28e11f0292c09",
+    "64ddf36033a6992e6312b4546a0d76feb2a702468e12c921208854b7643f458a",
+    "0f248a6cb0932e4e45e31034b511a90bd0d39e86d68a27d79032a161226617ff",
+    "e1631f77a5fef7d2bd0e0f7764bf6c5000be410f8e695361bffde809025484d4"
   ],
   "title_hashes": [
-    "f391e9a192c1c57f8ebd5607464d966adc2559f3c8540876f3ee3edc04371565",
-    "f9f60009e52e82feedd7fb850c27d1d6984aca4608275b13cf284937d16933ba",
-    "ce0dc2ee956774442ec5a6ee4efadba3512cf67346480468191fea1b55d202e1",
-    "cd7b94e3585ec3100b00039366208a3bf99a70c17b1f1970f05be6ad4451c74b",
-    "71f2f71809b68efa5620669a97973ee25fa28e492424221449d0c134745ce734",
-    "8d0061f689ea8314d8e4ed798534ea99c3c5bec08d7e95bb484b016058b11dae",
-    "2ba95ead0f97cccc08aebad3ee1ff6c68a78fa7f0a5a7709d35fd3b7b9bf80cd",
-    "95524eb71e7c01776e81a45d0c21a46804ea78ac01333f1441a3c1f9b3f9c460",
-    "7aef18c3afb83dc2f629e44b9c0e2fbf75a4f03bb261e42ce5fdfd850104711d",
-    "ef6b60d1bb4f67c51f3d490e0ee3c9abb682f7219383635b4c23442700a5fb8d",
-    "df813d163e4eebf2db5a109efca826201a9f3dad5cabab0459a23c425e179604",
-    "ec084322422a2d205c3ee489d9b63ebf4289262f0036724b02181b61ec90b34b",
-    "a33d6967d26473a9dac6cb176fe00adb12eb28e8211e507a951ea3dd7a1fa4c6",
     "82448b82d6d65e05ba75e6252a7f5e1f4d7fd5b9d550057e55c01fd3f87becc5",
     "c8819e9890b5c61f8811c9212feabbb7300f100a06af0b5c780410452fce60fc",
     "9d6215c22c9b6d71d136f25aa907518ce0353f4801c358240ef5f6b770a33c4e",
@@ -8002,44 +7989,22 @@
     "4c1354523226fbc915647bba9be6c1ea3bfa4b56de91e4672082cca02f10605f",
     "6fe0b7c8365b4a8ae365a31164ab84a09185f617e21e6c2a6ae59c7d9c140eb5",
     "e58b339c31aaa8e9482a901f04fd2e72afb5aa4ed18da6ef2ef3145938cb1f1e",
-    "ec984cef705bc2d9a9269bbf335f64d8e36a1202950fe3e7e21e004f00e88bb9"
+    "ec984cef705bc2d9a9269bbf335f64d8e36a1202950fe3e7e21e004f00e88bb9",
+    "d9adc974e9099de5cd2fb657c3db48d6b3a828611ed19c9374a94c802375dab4",
+    "607bbb12381b8a9f3ceb45cab84804ee47d565d5017157ed2dce3f20ce580b2c",
+    "f5c8d5ffc2f4a7081725415945c727378fa28b85b80ece25e0690e8548e020b6",
+    "382994281712264c01d91238e4c1d4b61d6d7b8afcfcd9aede5d219623ab2b87",
+    "63bc23b5f5803980887a96e6c5e33a50b075f64253406b0aac16aa07d1c6eaa3",
+    "c5d360933c9060fdfe7930f51e7aa1988ce74d74241ae250bb8b58b2a4f45132",
+    "4176606b944deefac173616d52fd86a85071151f3209c40642a7c9e6ca33567b",
+    "8a290e9f00accd6e1804981485c1ea9d264a8068f39cc4ac298623125d66bba5",
+    "0ffb511a15cc6c356fa5141f1b8affd0e2ff06fac857775098aacf35a0e14a73",
+    "94fb442d33d0d889e54f486b294cb73451cc5298db1c05c51955e4a2d6c80369",
+    "53d6e2199ef5be66a50ae6c2814f921a6f5aa554d4da59315d2b153a3731998f",
+    "531875e34f0da5a8b1f9e21b621fb36eacecb577db192f9828cbae922a43e575",
+    "29f5ef0210938b4b489f5ca83eed6381fc1ccf2d3d6627bdcd146ad2caf43303"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "INDONESIA'S DANANTARA TARGETS A 0.8% RETURN ON AVERAGE EQUITY FOR 2026, ACCORDING TO ITS CIO.",
-      "title_ko": "CIO에 따르면 인도네시아의 DANANTARA는 2026년 평균 자기자본 수익률 0.8%를 목표로 하고 있어",
-      "url": "https://t.me/marketfeed/1084283",
-      "ts": 1795493649
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Malaysia Tells Data Centers to Cut Off Firms on US Blacklist",
-      "title_ko": "말레이시아, 데이터 센터에 미국 블랙리스트에 있는 기업을 차단하라고 지시",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/malaysia-tells-data-centers-to-cut-off-firms-on-us-blacklist",
-      "ts": 1795493894
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "TSMC, SK Hynix, and Asian tech surge after Jensen Huang's return as Nvidia CEO",
-      "title_ko": "Jensen Huang이 Nvidia CEO로 복귀한 후 TSMC, SK 하이닉스 및 아시아 기술 급등",
-      "url": "https://seekingalpha.com/news/4675957-tsmc-sk-hynix-and-asian-tech-surge-after-jensen-huangs-return-as-nvidia-ceo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795493959
-    },
-    {
-      "source": "지디넷코리아",
-      "title_en": "\"경쟁사 방송 매출부터 쇼호스트 화법까지”… 버즈니, 홈쇼핑 데이터 판매",
-      "title_ko": "\"경쟁사 방송 매출부터 쇼호스트 화법까지”… 버즈니, 홈쇼핑 데이터 판매",
-      "url": "https://zdnet.co.kr/view/?no=20261124132017",
-      "ts": 1795494120
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "JPMORGAN LOWERS ITS PRICE TARGET FOR ROLLS-ROYCE TO 1,650P FROM 1,800P.",
-      "title_ko": "JPMORGAN은 롤스로이스의 목표 가격을 1,800P에서 1,650P로 낮췄습니다",
-      "url": "https://t.me/marketfeed/1084284",
-      "ts": 1795494143
-    },
     {
       "source": "FT",
       "title_en": "NVIDIA SHARES GENERATE UP TO $15 MILLION IN GAINS FOR TRUMP AFTER HUANG'S COMEBACK, REPORT SAYS",
@@ -11504,6 +11469,41 @@
       "title_ko": "Autodesk 수익이 임박했습니다. 가장 정확한 분석가들은 실적 발표에 앞서 예측을 수정합니다",
       "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/63575566/autodesk-earnings-are-imminent-these-most-accurate-analysts-revise-forecasts-ahead-of-earnings-call",
       "ts": 1795528321
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "LIBYA TO HOLD NEW OIL BID ROUNDS IN 2027, 2028: NOC",
+      "title_ko": "리비아, 2027년, 2028년에 새로운 석유 입찰 라운드 개최: NOC",
+      "url": "https://t.me/marketfeed/1084553",
+      "ts": 1795528413
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "SAUDI ARABIA SAYS FIN IMPACT OF ATTACKS IS 'VERY LIMITED'",
+      "title_ko": "사우디아라비아, 공격의 최종 영향은 '매우 제한적'이라고 밝혀",
+      "url": "https://t.me/marketfeed/1084554",
+      "ts": 1795528416
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "GCL Global regains Nasdaq minimum bid price compliance",
+      "title_ko": "GCL Global, 나스닥 최소입찰가 준수 회복",
+      "url": "https://seekingalpha.com/news/4676158-gcl-global-regains-nasdaq-minimum-bid-price-compliance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795528477
+    },
+    {
+      "source": "9to5Mac",
+      "title_en": "Muse safety debate continues as the AI agent rolls out in the UK",
+      "title_ko": "영국에서 AI 에이전트가 출시되면서 Muse 안전 논쟁이 계속됩니다",
+      "url": "https://9to5mac.com/2026/11/24/muse-safety-debate-continues-as-the-ai-agent-rolls-out-in-the-uk/?extended-comments=1",
+      "ts": 1795528482
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "4 stocks to watch on Tuesday: ANT, AMD, DKS, and DELL",
+      "title_ko": "화요일에 주목해야 할 주식 4개: ANT, AMD, DKS, DELL",
+      "url": "https://seekingalpha.com/news/4676154-4-stocks-to-watch-on-tuesday-ant-amd-dks-and-dell?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795528485
     }
   ]
 }
