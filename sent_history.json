@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795550533,
+  "updated_at": 1795550691,
   "id_hashes": [
-    "dfaea679a7fe9e47db19e7948d02c73b477eb56a722853f394961eebc67d9a90",
-    "7857f3ca837ef5bd82eaed5919b12f32c4d7a76ca0525b826e7f451e45f660ee",
-    "3b3d50d4eb51ee3cf10385ed1445b6a1b4e4c273802404a6e3927b456f4c6b40",
-    "dddca6cba2ff7acf8e95022fc966e409145750f69edc3f886ba59eb6c1675361",
-    "3c0a685b82e3215656df1e6edb3ee856b464a48237a7b8fbcb6fa77127ced8ca",
-    "dace41d8e0a18103388985bda5dca2585d6c95029885826b8aaea9a926712ebb",
-    "6de1e464775d26516845f9d5829c05afb58f345746a0b706e19513b3646c4081",
-    "5afe261c93926089ea6c30dde1a63f9fe1968a5c5305b0611a736da8bc52837c",
-    "8783fcb562e24fdc8c6d47600b1f655370519d7c981a396918fb953b82b53b00",
-    "5af65452fadb5c23c30f0a721eaf825ec741bc119552a8e90890cd7664f62e4b",
-    "a944a0246189285d75a2ba01048279f98ff505f9d13e9b77d174d2fce5051a4a",
-    "880f179e9e23f8c065e27e6016d5bf6c47d61917ff02672d55e4927706ece174",
-    "5cd04f6915760fdc75855abe1cb8d47d375089571c42717082206944623edb46",
-    "4f9c59ebd7bd74a5b4a59c7bc23cf458e4907dc9cdc9b8f0c5a864c0ba7a868f",
     "dc21740ab63dc31b6d67ae730282cfe310ae916ce5f4e127acbdad67f53e4ebd",
     "3d5c44dad32d5f2406de8bfeec222c31e6bf3b44d93acc38028b4a156d520b76",
     "de38ad1a27f93ce876d840f6f4dbe00a5247d5e08d9b8c91a1a1f20c14e13266",
@@ -4000,22 +3986,23 @@
     "c84e9026886fd26041d0743a462bb99f5d431c7a2f1cd4388d2b82be5ece18f1",
     "67d43a4b5552c02f10983e507e845860c1d12b1e5f0df094d684d76cce51ee78",
     "604d3561501b3b3a9495290a1345a27cbe06484f6712f2f0f8181a7797b02fbd",
-    "c8beda51a26cc8a4fa0c60b4dabb8386a57eef6a9ea4c035e67a47518e669072"
+    "c8beda51a26cc8a4fa0c60b4dabb8386a57eef6a9ea4c035e67a47518e669072",
+    "b946ecd6e9e49006d3cf5aa0a1cbb3f2bea2fa4de029f1cb53a147357fb19f4d",
+    "be7d7c3071e7f687d199d719dc39061eea23d1ce815812ff6999c1ad8402744c",
+    "8563786239a44e70f9f3939f103d0a175a7fc59627663ee6205d9cea558e1eb2",
+    "8ed3d38af03f8ba95ece0c0209941a50098eaa3cbd845a9c802e6fdfb4435ca1",
+    "84f2e663e5116b4da3bfd2c614b809b2e05ce0abb8e6b5371290af2847ccb580",
+    "9d18b2797e05a1264a07cb5b39b52da919ef8131e051e1013717d2bf2ad4ce97",
+    "650e9734d112d587169c91e2166ab857b583a864c698baf554bb04d4e44597e4",
+    "7460e58a22ee9597aefa5af07790542ee55dc17647f322ab820b030e1b8e0fd4",
+    "916e62eaebf146f39794d29a741026a2fda3b14ab032ce1810b04fa660c6e01a",
+    "7f87dd99c1791723de50e2f6f64d49a71433d934575b619518e438cbaf7ffe90",
+    "a14bdf118083a978ff53fd79ef8ed4dfa2df7163620f3f9f2a9a5c53d81804a8",
+    "999eb06d82852c3dfd229c68c6c7ab3124a2fe50a4a98076198c57dcf84fd4fe",
+    "361c9198b9885d4b0d42ebf354e18ca2112e143cb08b19fdff033f95b4e42000",
+    "b1fbde2edb054ea928143393d091c56f97c13c537a591755f896e235b1676b7f"
   ],
   "title_hashes": [
-    "5a7dbd3cce19e9e313256c0709da5d9f6d5ff5afcd06f8468b608627f31aec2e",
-    "3284f0211eae0b68ee454e52267d3183d4f129ab4a2be4dffb6660f187a3ecc0",
-    "0a77322d4683f6a33cbd4ad9bb08142ff66366db2a5681b6d677d0d5d72dfdf9",
-    "edc03552aa74fa6a6f07700acf60dcfe8c3ca9e8a32426aa297ff821b8b0861e",
-    "699b1a0d4ad51692ad17da70ab38bbe5a430c297cbd067147caf4f9f0b02d8b6",
-    "cb8b2e50cbb465bf3dfe588930c242553a5f4c1f6af281500ce10ff9fc87e303",
-    "b91c4d74b99dc6afec666ea72c36c3c141505a9399f2163bb7642966f731c5c7",
-    "75325b049c369830dd6d764fbf83d017bb5cdeb36223b7b424bcf5c2cc172e93",
-    "1281d80148163025fe73f282a60a1524f22478034f9ac38501735db12d4606e7",
-    "d3ccdb5a87ddb28dbcba5372620d29015102667ccfec5ea8ee03c1b9a8c2c69e",
-    "c84aa6e23a5036fe85f9f2e95e49c94687b48cc2265760bd260d005386396f86",
-    "71a4467ea8a9f1dbaf79d91f7fbff715578a1f214f2047f9fdd6117fd81683e6",
-    "5011afac9fd23a2ea0f3cf460e96e323dbd574a90c2a9a4fc068afcc57c8171e",
     "d286f64864592651568702a2037941d9a60364b20e8c25cc196088e21753c302",
     "d2900bb1d72881fbebabf62ac721f116fa63224755192bbc2ac06f427264dc90",
     "d4c875372c3215368b848db98b2c1daa348f230c00dfb17bf7cb6633aa31a938",
@@ -8002,23 +7989,22 @@
     "b32acf7a28fa225de0067577a9d63e4915eedb85069748819902d93f38e45111",
     "a26ae7a5ee73d3ed8df1c3c28ddf14ff0f84ffd99d2413f06394449ef6720d1c",
     "9da37c132e1ae5f5af7795c97fc0e853a6a42aa5c9602e52208162091c5658ec",
-    "0f228a75dcce843dde62a74d8ea70197bd24c05f95f6577f6109a7a2690960c3"
+    "0f228a75dcce843dde62a74d8ea70197bd24c05f95f6577f6109a7a2690960c3",
+    "8d488a593565dec0d38e29f2aa51a4717ac4c7dc89a593f1918d1e46288f234b",
+    "5f317aef9e37fa9516559f8647b5897a73bb7273a719b759e46aa6a7e5dd8248",
+    "aef186b90789fefaf9675fed167310269cff936d4ce6a93719d668aa3161f38e",
+    "fc65fd2e5a6092434a3db5550643d2f8129c7bcd3fcd6ecadf65a0f48109c04e",
+    "fd166b4d47a39e10ffc2f4fcbbea2a3938936121e416111ee6c5bbcc95ba1348",
+    "8de71b31b4d1cae00093ae46a527d29361652d6a7a8a04fa544d250639990655",
+    "5f214498f94ec5d3419c745d3e38526a384101ddf4ad2c6b259bf0e717a8794d",
+    "9014f7bde9ddb70204e043c086dce78e5fc9ba95e26df54d48f9cbb75d215c3b",
+    "d7e8e1bd2cdc1a9dca88cf51bcf2721e4be21ab34cc92e127e9c0b4e88120f8f",
+    "dcd915c53d50ab8ec44f09defbc4a325665bfa3135a7f39b75425199cac91df9",
+    "210452df0f3787297af002647d43e5d166761b821bb60b05ce2f9d51c35d62f5",
+    "0fcf84e1200fc5994c9a9d1fd73c822573e1f9800f32190eda75c03a1d5e489b",
+    "a98aac071d9cafbed3bd22dc664f1d9c39fb8d10adfe77402a067d7f7361ea54"
   ],
   "recent_sent_articles": [
-    {
-      "source": "StreetInsider",
-      "title_en": "Best Buy stock climbs on earnings beat, raised outlook",
-      "title_ko": "Best Buy 주가는 실적 개선과 전망 상향으로 상승",
-      "url": "https://www.streetinsider.com/Investing/Best+Buy+stock+climbs+on+earnings+beat%2C+raised+outlook/27390900.html",
-      "ts": 1795524068
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Dick’s Sporting Goods shares soar as strong profit beat prompts guidance upgrade",
-      "title_ko": "강한 이익 증가로 지침 업그레이드가 촉발되면서 Dick 's Sporting Goods 주가 급등",
-      "url": "https://www.streetinsider.com/Investing/Dick%E2%80%99s+Sporting+Goods+shares+soar+as+strong+profit+beat+prompts+guidance+upgrade/27390903.html",
-      "ts": 1795524077
-    },
     {
       "source": "FinancialJuice",
       "title_en": "BoE’s Greene: Firms expect wage settlements at 3.6%, too high",
@@ -11504,6 +11490,20 @@
       "title_ko": "CF 인더스트리즈 홀딩스, 모자이크 암모니아 공장 6억 달러 인수",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mM1BPTEo5cjBVYTNoVS13SWN5MHF2WW1DTDE0cmtsbjY3NXVoUlFDRlZsWFlIN3Z3NkJ3YXVVVjJwTmxEN0t3ajhVbWZxUEVkSlE?oc=5",
       "ts": 1795550532
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Zscaler Analysts Weigh CrowdStrike's $43.9 Billion Takeover",
+      "title_ko": "Zscaler 분석가들은 CrowdStrike의 439억 달러 인수를 평가합니다",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/11/63603703/zscaler-analysts-weigh-crowdstrikes-43-9-billion-takeover",
+      "ts": 1795550687
+    },
+    {
+      "source": "The Verge",
+      "title_en": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+      "title_ko": "Jensen Huang은 Nvidia 직원에게 Trump가 자신을 재취업시켰다는 것은 '사실이 아니다'라고 전해",
+      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "ts": 1795550690
     }
   ]
 }
