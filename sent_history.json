@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795545398,
+  "updated_at": 1795545562,
   "id_hashes": [
-    "c21a5c5b629c9c36a274d43ae35d6850d7774269c8f2c9491cf92fb122a000b4",
-    "2364999860a14d76f49c5098e58254354d09f002eca299dcdcbdec9cc36f9d01",
-    "e4ce8f481732325ebe5efe16b7af9c4803e372c4c6222d18a840ecab5dfecc80",
-    "537a646df2d5776406c04c96d4640638da015ee908bd52791fd4fe63d66a403a",
-    "07631fe797648fe09e5bdcbe3184a0a49a078e5cb6231295937e52cee4c7d6f8",
-    "21da939c2353727d17f8331c24bccabfd4c916211ea6a240323d776a89f147c3",
-    "69a2905cb535c89020455c6150b0e0b90a414a21785801abd103d891ff38c29f",
-    "4af93e697a11c93c32f3d237ca03f1df5aa987274a51c890f5e1073dbd35b4a0",
-    "c5939c94bc7f984fcb2a08974d367707e41b77e86862d1f99449e57ea4878ed2",
-    "df0ba0efa309688dd3493d868b0fa07ccec4d7a0750408a08bab871cdc9e04cb",
-    "696a5c4c68273ed7c039dc0caf73c9c2e2eb26e56f5fb8420233e4c936128f2b",
-    "6083a3c8786da14826ea3b79a2a494943c4f16e73c701b35afb0254a1f3e0d4b",
     "792dd65c6141767d3db34573706b1b907ba6a4b7a3b8146431f1373374e05d48",
     "024f40abdfe3f31c77ef1977389899b2a54690abb57152397f79859d869a522d",
     "60675d8ab590cf5f7ce73d6d53b9ab1837bf10ff6d61fe63f1394cd943fddc3f",
@@ -4000,20 +3988,21 @@
     "ffb4d7e8b8b6409e3936b580dace826fb3f9d801c04201fa1c16e405b824e8ea",
     "232acbcef8e46fbe27fee507ccb8d5ec060771e896388bb01aa85beb576d11d3",
     "5a8e329d514512bbfa6da1ac04d83b0cd88a272d3ac66ab3465c0fd0305eaf4e",
-    "10b598c9a2911440d3428c8e7f0378896811ebb3cd6dd0ce4800c6690a50297e"
+    "10b598c9a2911440d3428c8e7f0378896811ebb3cd6dd0ce4800c6690a50297e",
+    "c8bbceac0ff6431f859de41c3721e1549cf9f88d0ee061fae32ef7ea00cf76cb",
+    "34962f1355de4a545a4ba92432560cf30690c5dd176b99eca43c67f8a4435ef2",
+    "26b9bcb15a3efcb88039ad2acd5d1ee7ae2860614f7432d3779acad561690677",
+    "06b7df69c0ddef31b2c746c2e44ba53d0ba914e6c19e5dcc3033e2df13eda3c6",
+    "b2f3653c2a26d9f72fb18f3379d984fe17e5a09bc54925a2184780a9558b36f7",
+    "1e9054b40f26f17a538e15ae183c7c82a6e2d69fb3e831b47e32d9d372df8aa7",
+    "e028c732fb6f951413b78bba85550f4422e6547540c73a5f7cecae56c0a2e2e6",
+    "e66969dbce8fa476d51c754a0c11e354ecfc0486cf64baaf836ab56d5a1ce39b",
+    "a2b04e659cbf607b822e49e91b67171013b0b0c13cad08eb9a22a1f717bce464",
+    "2f55b127c4e7e08bd11a1a3e4420961339af5788d9c1d07f7631a31e23601463",
+    "696db9efcf1eaacfbb83a24b9ec90608238d31fa6388372aa8a5a2b868b591dd",
+    "aac2e0edc0018acc084e49d0a7bdaf45db0aeecb27048e30d4cafe10c3916979"
   ],
   "title_hashes": [
-    "b512cd31a3ff29e2a69ff203864adb8c423d5093a9d7b14e88a344b522e7b73e",
-    "b2c047b568999ada862b0f01dd1d43ca401c30422eea77f7ee0338af911ccabe",
-    "e4265fb667eb9b9cede0802be2544160617e3c0e77eea701b6fea9c412bce05f",
-    "bd49c37bd124436ee91703af964975f8aba9dc152bba17e84cb71935457b7116",
-    "5f6bde0ae3f0a381038a12af9e0bf76d11409119f013bd9443f37eb289221184",
-    "00e18ca68093ad72327857c5f4af2f7f2b053aa8d3b1e50cd5785b2e0bf98921",
-    "4eff14971fa598d2acaf3884ac5c3021e12da7c7c9f927987732268ccf4eeb68",
-    "be57d334ac7b1d78b18c2acf6203a40ec4055a45402f43f34c49f1fb18850b9f",
-    "ebb4272000e0b03b58eb4a4e59251dd0e2c7ca757f3e059c6970e32a25913981",
-    "ebfa296e6ce0906d449eb6140f612edb3c68a0439b9a3dc47d1b296cf00b562b",
-    "bf81edf0d2115a7a8bc17414b4fb4236809723ab6a70409b7fbc532ff3c374b0",
     "42376bee67c46f760c59d37e4d7f8491b45c8f1823f018308d0c05b3f927bb1d",
     "ca348df6bd22bcfdc58b1f9097cdc298e5aaa5a6ea5b9e1b37ddf1fd8c064edc",
     "8bc1590d7dea5e5b4b1b38a7b579a50fd3bd7fb445baec9d2553b083b43d7fb3",
@@ -8002,23 +7991,20 @@
     "f3bca9fe49a7ca396f5d77d1d430f55d352a78b1c55bdb0ae23a883643714cf3",
     "609f7f109935507ce6837cd4095f7c4d568453a921156bc0cd81183a9252ba3f",
     "29b1ad6dfc091aaaf8313560601d9dc2fe49352d0273330c8bed596b6abc28e3",
-    "d01f87f3bed9c7d0b52ab2bb40ea6f5d74eef6d6e10551b636236611d1b9a73d"
+    "d01f87f3bed9c7d0b52ab2bb40ea6f5d74eef6d6e10551b636236611d1b9a73d",
+    "559270c47e77138d8b7240d6669708d73e75af5b817b071f4dfcc9e198c38bc3",
+    "708e43177e1dfa14a90a8d41d811bc0fa37b7461ad318415d2622b2e08f7c4a1",
+    "d3e6fa6c5b28425614fa3b996129b16ff4b6c08dfc8043002d4faf72bb6fdad9",
+    "33e5a849265bfe86ace5f33c7b1a7acefce2f633e083debd053164b145ca1e98",
+    "de781fd43c0ddb137fc06b46a782b18edfc0d71bda2a4dec326d45b14314d455",
+    "b097aec3265782a17ea04548efe695abbbd7b380aae7cda9f33310f3684d5d6b",
+    "38ef9d428ffd896c73a6d90abacf58aeb01ef9cd76dafaa29686bcf53f3ba809",
+    "f7f33db6a4bf95703bf3e52c82995a29ff6d7c85536c23811bf9876a3548a13f",
+    "93425ce05bd9d89cba9873cfc323f947a07ea856aeb7805cbecd56417dfebe4c",
+    "ef2db1029e5fa14ccb249f1944be0282c031d2c534b29923f52709ee8dc75a5e",
+    "35a847a9f619b2ec9dc4d98bffa5ba28d47a3b4bcf9bc74f51e005601f3a258a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "OBS경인TV",
-      "title_en": "\"러, 12월 핵무장 위성 발사 가능성\"…'우주 핵무장' 경고",
-      "title_ko": "\"러, 12월 핵무장 위성 발사 가능성\"…'우주 핵무장' 경고",
-      "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1544861",
-      "ts": 1795521101
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "RTX CORPORATION: MIZUHO INITIATES COVERAGE WITH NEUTRAL RATING; TARGET PRICE $205",
-      "title_ko": "RTX, 미즈호 중립 의견으로 커버리지 개시…목표주가 $205 제시",
-      "url": "https://t.me/marketfeed/1084456",
-      "ts": 1795521108
-    },
     {
       "source": "Barron's",
       "title_en": "Nvidia Staff Chant, Holler And Hug At Huang's Triumphant Return",
@@ -11504,6 +11490,20 @@
       "title_ko": "전 Amazon 부사장은 비공개로 제프 베조스가 실제로 어땠는지 밝혔습니다: '매우 까다롭고 결코 S가 아니었습니다",
       "url": "https://www.benzinga.com/personal-finance/management/26/11/63598741/former-amazon-vp-reveals-what-jeff-bezos-was-really-like-behind-closed-doors-very-demanding-and-never-said-anything-good",
       "ts": 1795545397
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trump Awards Rudy Giuliani With Presidential Medal of Freedom",
+      "title_ko": "트럼프, 루디 줄리아니에 대통령 자유 훈장 수여",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/trump-awards-rudy-giuliani-with-presidential-medal-of-freedom",
+      "ts": 1795545496
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Bruised S&P 500 seen gaining more than 12% by end-2027: Reuters poll",
+      "title_ko": "멍든 S&P 500은 2027년 말까지 12% 이상 상승할 것으로 예상: 로이터 여론조사",
+      "url": "https://www.streetinsider.com/Reuters/Bruised+S%26P+500+seen+gaining+more+than+12%25+by+end-2027%3A+Reuters+poll/27393694.html",
+      "ts": 1795545561
     }
   ]
 }
