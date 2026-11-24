@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795548507,
+  "updated_at": 1795548666,
   "id_hashes": [
-    "f970ebf007a319c7c7fd58ed3673ad4c97b54ec088072cec040d667b9bd8ab2a",
-    "521c1ad0cb7bea0f7dc6bbc4ee8e4706bf6bee0873bc3fec71258e3783c6fcc9",
-    "cc32d1154683b7ac8f8b536849fdc5bde16d3978de48ff7bb7d8e7e7b77212a5",
-    "76f5f4a49b6ad75163456221bc9c6c68b2d98cfde5772955b37fe7402c32f590",
-    "6be3a6f6fab83fcac5339b59afc1842d2482808545954f52a51edf8fec333118",
-    "772700f6607b1c806597d81dc0b047e50aaaf47db0696126dda8ec96b3ff8bf4",
-    "a949b01300e462155bb13fb973430e3e979d4e22ef35147e2da4a54d076bce6f",
     "a2d54d38ed04331a8ec3308fc2cefa962008edecb0bb072876b8befa19f99e7f",
     "0cf6f7927d86cfa86927e7c2f7a21fba5359f6294e1ff0b716fe44e234b48398",
     "7207f65992122052fc1c2c17ecfb624f598113d60495f65867732af8c5e8d08a",
@@ -4000,18 +3993,16 @@
     "d4c6d7f953cbeba942d4fc8ff9fa022571e444373beceb1cc89e29ee09ecb55a",
     "ccd7a2504f1294f9314a8e99d3bfe253bbeca998617f6e21269c0b7c4a1527aa",
     "33aa0c414dfbda38d050bf1bf9adb6f97b66f7abe1148ef305a8c321159c297c",
-    "88bdafaa4efd48ed354759ea663243d0fc6e7e73b89e345178f5feae74dd2c12"
+    "88bdafaa4efd48ed354759ea663243d0fc6e7e73b89e345178f5feae74dd2c12",
+    "ffd411e2c2730e086a420ade14babe5eed7b4436298a2b9a4595cbeb97d955ca",
+    "ca0178a8319b35288b46ac787f9c3c17f700d0bc0a036cef58c2214ac916f36e",
+    "47b94fbcc3fd848eb53b230910e82597cff0875ea4caa89790cdf1c3c00fb361",
+    "a179ef2743ec8e59891f1f03ab33a5606a412070b2d43215242d725289739744",
+    "1daf0d7ee0c19caf0c57dd5c7f70f5e5bfaafa5e939d2e15add47d06a7608d9f",
+    "57d92dac632d67775f8c1a72b6468ecc046455a04008885a607e18637dec7a05",
+    "b6fec2b3d131aff5c29014a0bf3d7e26de0e286a927a16dd20b127d2e73d32e2"
   ],
   "title_hashes": [
-    "994a88456cf74e555b177e0148878f36dd7d945835befcc7a6093ac40003e33e",
-    "32d0127026835086f5f82565608258da4b84e257f80517f5ec36aea96a5d8a4c",
-    "88472a097ec725f7d3d13b6b7dce7adc22cfb7abbb1d0ca9d4030c926989b384",
-    "338508e89a4e2bcb50b8f5786b271a23e85528bea9112c694ddf2c2377d2eac0",
-    "35e1195b6a526835cbeca122aa8242403ea982fccabc4d11cd05a1f0f5f2a609",
-    "e6b3779dcbacee1ed9cdc4d32808335b45f720fe8173e6ee6fd1519054f33ef0",
-    "b43cd4708cebee12f4349758521c48de5065893b6f5e3c2d5520e2f8b58cec6e",
-    "d923ad590fbf2ed0b4d1ee2f8d7fa7b6e7305db121c751071548bd25af0d8d9c",
-    "13248e93319b30540730ef6030004cae10f93985b4e35941a16c86d22c4192e1",
     "362bc17907b5b6c0b052cdb12801288a249db1ea353a179fc63f9be93d0722b8",
     "841db45386ae900b8015e78dae938fff6dd54f24a128f0808354c2cbfd722240",
     "f122c06d5c932fecb6dfa514a61b91a1cd01a51194c61a16646ccd199c49d57e",
@@ -8002,30 +7993,18 @@
     "55cd59551a3102dfe45a3c10bc5c17690d72c08c36f0dbbb8021d90c22139e07",
     "9a38a3a9f3f337a6e49e7b569c52cc92f549164c692515443091479a8cf875d0",
     "592fbe865c30df94e291f12f18a3fb62cbc2fc825b59f7dc66b6ac3547e20757",
-    "127fe2658da022081d0bcdaa9419b7e591403ae8bb7dba6b2097e4d32b1898d5"
+    "127fe2658da022081d0bcdaa9419b7e591403ae8bb7dba6b2097e4d32b1898d5",
+    "ded1c76b14952ed353e9dbad659b2a85675f4ef409ac40bb73a9f2b036ad8b34",
+    "a63e384eef236a17b2e5a3cf1a1c9d99fb6f3e766d8a6ac07b85dd986f538e5e",
+    "15588730aa39777fb45785d18f77afda3274f88ff19e48f46a25f92f2c7adaa3",
+    "298c21022c3a913a52d57bf5768612d586ebcf9e6c122da63020d0db9d4bb1f2",
+    "5700a4b318d410837b444ef192fadd52945dac35d23458d5c8696bb9f84c9ecc",
+    "c327f5900c9378f9a20ce8087aa5f10a17a418e3eb8c6c4fb604b8ff61dcb3ee",
+    "60e14ed43f4a9245fc51178c001e93a403f872605d711048eda8a871c34beead",
+    "ca72d17eb3ed27af1c3ad41039744823162df7cee51c7845a0f14accce7e5738",
+    "ddad5c574ae5bf86fa17f14c9e95ef4afb238db9dee4ebef32b7e2607edb98a5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "핀포인트뉴스",
-      "title_en": "한화자산운용, '글로벌AI병목인프라액티브' ETF 상장...전력·냉각·광통신 투자",
-      "title_ko": "한화자산운용, '글로벌AI병목인프라액티브' ETF 상장...전력·냉각·광통신 투자",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507698",
-      "ts": 1795522608
-    },
-    {
-      "source": "아이씨엔매거진",
-      "title_en": "[분석] 11일 만에 복귀한 젠슨 황… 초거대 AI 네트워크 전력 위기와 광통신 전환의 기로",
-      "title_ko": "[분석] 11일 만에 복귀한 젠슨 황… 초거대 AI 네트워크 전력 위기와 광통신 전환의 기로",
-      "url": "https://icnweb.kr/2026/82302/%EB%B6%84%EC%84%9D-11%EC%9D%BC-%EB%A7%8C%EC%97%90-%EB%B3%B5%EA%B7%80%ED%95%9C-%EC%A0%A0%EC%8A%A8-%ED%99%A9-%EC%B4%88%EA%B1%B0%EB%8C%80-ai-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%A0%84/",
-      "ts": 1795522610
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Nvidia Board Had No Choice But to Bring Huang Back, Says CFRA’s Zino",
-      "title_ko": "CFRA의 Zino는 Nvidia 이사회가 Huang을 다시 데려오는 것 외에는 선택의 여지가 없다고 전해",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-24/nvidia-board-had-no-choice-but-to-bring-huang-back-cfra-video",
-      "ts": 1795522616
-    },
     {
       "source": "뉴스티앤티",
       "title_en": "[공시] CJ ENM·휴림로봇 '공매도 금지', 대한광통신·썸에이지 '투자경고' 등...52건",
@@ -11504,6 +11483,27 @@
       "title_ko": "Dick은 2026 회계연도 비GAAP EPS를 11.45-12.30달러로 예상하고 Dick의 구성을 3.3%-4%로 높입니다",
       "url": "https://seekingalpha.com/news/4676328-dicks-projects-11_45-12_30-fy2026-non-gaap-eps-while-raising-dicks-comps-to-3_3-percentminus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795548356
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Who qualifies for Costco’s $30-per-share dividend — plus, Meta puts share plan on hold",
+      "title_ko": "코스트코 15달러 특별배당 지급 대상 발표…메타, 자사주 매입 계획 일시 중단",
+      "url": "https://www.cnbc.com/investingclub/2026/11/24/who-qualifies-for-costcos-dividend-plus-meta-pauses-share-plan.html",
+      "ts": 1795548597
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+      "title_ko": "Jensen Huang은 직원들에게 Nvidia는 승계 계획이 필요하지 않다고 말합니다",
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+      "ts": 1795548663
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Li Auto Q3 earnings on deck: What to expect",
+      "title_ko": "Li Auto 3분기 실적: 무엇을 기대할 것인가?",
+      "url": "https://seekingalpha.com/news/4676276-li-auto-q3-earnings-on-deck-what-to-expect?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795548665
     }
   ]
 }
