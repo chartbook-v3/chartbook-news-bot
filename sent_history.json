@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795546810,
+  "updated_at": 1795546964,
   "id_hashes": [
-    "5f52ee49aa369255f297454bacd9c64ca6913387fc6216668a43fb168cbacc40",
-    "ef8e94f9b4bacf789ef76c9a882270a0b064e2e350f956946190cdef874411f7",
-    "6e674ccf5bdf6ee20cd4d1a719bf140146e4cbf0fcb7f043d43f7b42e30a61e1",
-    "182e823659e5a9f9a6db3abec598aabd60e2b7a9da0b97d709f01dfe9c05dd60",
-    "bab2dd70e0f25c3f4e3afbd86d3f27814d064a9780137d7c956abde96362cf09",
-    "e0232f58d3d20243decb4c711113b7ad428c2c37c8739398c6a9915953b3eb46",
-    "1bc9d07862cc26ec6d4af92db610f4c1015ce993e72a278b6699cbeb60fad9f3",
     "c02865403050ab966b786173388c78ea33b1027183b3e54c40ed3fcd69a05d5a",
     "5488bce520a417956afbf2ec9037948bf49aac5800d955e7b73db105a11936fe",
     "08b3ce4cbc659f171fc3a4e3b5d4aabc0a1335aa1c9e415747de476dcec881d4",
@@ -4000,16 +3993,16 @@
     "b39ebde4117aa3a28129b9185be1dcd19fc60d93a6dfd3f8149e669632f4df82",
     "fb68ada079016ca1e09f3bbecd96a2fb9251d23208272b45f5128e4d0eea1b85",
     "8b647be038c5400344ea1b1d6c1299f3cf036599465825863389932ff3603c2b",
-    "aa7780bb90b92f651a294764a1e22a3486bb0dae93a783526a9ee7638eb8395a"
+    "aa7780bb90b92f651a294764a1e22a3486bb0dae93a783526a9ee7638eb8395a",
+    "50ab894ade350895471f6974d4d81486dda25bbe18fec005a60cd3b7ce612c49",
+    "120db1022050f4b13df3e76e207f5ee0420ec90c3ab4559339dab31a6a1cc49d",
+    "bf4d8b6255f589cae966811a38593cb6d16d14c56d759373e5997fd9ab587ba1",
+    "7fd8b1e92b2fad2b1c2d8722116ea168dd7637af21e0753a5e28fb2824a9f192",
+    "68ae653dc329820a5d200ef33f10e10dce190cafeeea14f68e97bbd9d6c2eab0",
+    "c257a8a54225232c08252de07f812f23d76be900b16e6dd1009b691e0d595bfc",
+    "1d42f8fbd850e180ea7ff06086dac338aab5e8c51b0929aa7ce0a4eafb8494b1"
   ],
   "title_hashes": [
-    "3ff24aca50eeafb7079969727c2e72ba4d0494e70ff9f2e7295c62b0c2e3bffd",
-    "a5ef5f950669f8541a9c1b4d53c50163cd55dfdc510b760266ec1e06c110db1b",
-    "d86094e84f8dfebe7ddcd7f186bad527bc94aaf06f7c61ed3f3ba00aea0ddf80",
-    "30b70ed074aeac6797c62df37b439b6e9e36307629b1e5bbf48d03efc79e6aca",
-    "e6de8610ae3c500464d6287cbf65e0e0522d862436eac47f15a921da90c02008",
-    "1d4b9160e0b02def93f66b37e8b57ce0c936447b30832b43a14400f3a3385ea4",
-    "2a84664c40ee566e9ada20937083d154f76821a8e65a39f1d606b756c51b1d71",
     "dc36413f4b645a44790579812e08492b5f149262c55044c36ed35e701be86647",
     "77d5d3f2a6b7dfe54475f7887b9fbc5de1062cde339a02c815f110ef5ebe48a5",
     "9489f620c8cf24190c7b24b904275e63cea09a6b2702fd81371f9fc38a883e1f",
@@ -8002,30 +7995,16 @@
     "5b973eb661be6fb86cb0f325d65fcbff980e6dab3448ad47d73a46634c8e6459",
     "52aea2ff45ea8436bdf9c9544d299e3d414a38c7ab7b2e49f6c7d20a40203411",
     "58c2f0f16959fef7a22a6ca1a622c4515a9f8acc7e497090de61a3e399f6cda8",
-    "8a8927c6d38ff2528e6acbe68683b11c6968679c0c1a3c779f9484ef80b90032"
+    "8a8927c6d38ff2528e6acbe68683b11c6968679c0c1a3c779f9484ef80b90032",
+    "7ef96e39f009a105a8d0e7437d23a2184f71283e273c4b79341ae00757b5e1c2",
+    "5bdd3fc9434ee10aecfd12e2da2f2c00ff7345c29211572337829693ec92499b",
+    "7a6159fa99cc30ce9b1c345dc26d8d80beb37c249695d938bda9ece8a324bda6",
+    "4f1c2862171601c50eb8ddabc3f3067ec5c64f1348178edefe3c903682ac327a",
+    "e6e5ea1488aed212af0cd2c4246221d2f80f4734ca031eac997b82226b3eb7b0",
+    "a7970befae97a857733aedc22c45fb56ed9998c852db7068a76e4deae1c1aac5",
+    "e45f140ddc297d530d51bad11c2e3742f4d65ea2409ef77161f7635b89172e01"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Nvidia’s Huang to Face Bipartisan Scrutiny on Capitol Hill",
-      "title_ko": "Nvidia의 Huang, 국회의사당에서 초당적 조사에 직면",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-24/jensen-huang-to-face-bipartisan-scrutiny-on-capitol-hill-video",
-      "ts": 1795522090
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Dollar Tree Boosts Earnings Guidance as Discount Retail Meets Early Holiday Demand",
-      "title_ko": "Dollar Tree는 할인 소매가 조기 휴가 수요를 충족함에 따라 수익 지침을 향상시킵니다",
-      "url": "https://www.barrons.com/articles/dollar-tree-earnings-stock-price-0e1bd232",
-      "ts": 1795522101
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "$ADI | ANALOG DEVICES Q4 EARNINGS",
-      "title_ko": "$ADI | 아날로그 장치 4분기 실적",
-      "url": "https://t.me/marketfeed/1084467",
-      "ts": 1795522106
-    },
     {
       "source": "CNBC",
       "title_en": "CrowdStrike will continue surging thanks to strong hyperscaler demand, says Guggenheim",
@@ -11504,6 +11483,27 @@
       "title_ko": "보고서: 독일군은 150억 유로를 들여 \"스타링크\"와 유사한 위성 네트워크를 구축할 계획입니다",
       "url": "https://wallstreetcn.com/livenews/3205187",
       "ts": 1795546660
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "CITADEL SECURITIES PULLS IN RECORD $15 BLN IN FIRST NINE MONTHS",
+      "title_ko": "CITADEL SECURITIES는 처음 9개월 동안 150억 달러의 기록을 세웠습니다",
+      "url": "https://t.me/marketfeed/1084743",
+      "ts": 1795546895
+    },
+    {
+      "source": "The Verge",
+      "title_en": "Amazon is knocking almost $50 off six months of Apple TV",
+      "title_ko": "아마존, 애플TV 6개월간 약 50달러 할인",
+      "url": "https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday",
+      "ts": 1795546961
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "New Zealand Treasury to offer NZ$700 mln bonds in December.",
+      "title_ko": "뉴질랜드 재무부는 12월에 7억 달러 규모의 채권을 발행할 예정입니다",
+      "url": "https://www.financialjuice.com/News/9866574/New-Zealand-Treasury-to-offer-NZ700-mln-bonds-in-December.aspx?xy=rss",
+      "ts": 1795546963
     }
   ]
 }
