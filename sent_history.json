@@ -1,33 +1,6 @@
 {
-  "updated_at": 1795541489,
+  "updated_at": 1795541650,
   "id_hashes": [
-    "7bd7ede03055e51c794d41f5a497a31926622759500120cac9ca6cb871a9f436",
-    "5e541418d8b044215491a2f4b14dea7858ce02e7971748fe93b703a03922a929",
-    "001368e803e8cbbd7ddb1a91ea19840dea39e0b7910b233ddb0a9d25c211298b",
-    "11c437a6b0e8d2b60a4869a1d58478aa31f54581db73b94d9cfaa5e986331ad6",
-    "057c5d908e3bb89729a583408a40306534cce0d0415fdfc703efd241d75aee8f",
-    "5b803ca72969ca08a7ecbafc2403ec0b3693794055299574ead10e4191c19ed5",
-    "01106efc355472f280265f42706cd5eae449de66b4169f1265e188a0ec7671b5",
-    "c69bb433ffe0c9c9ac1956d1730d4b01ddc77b6d40e2867d2859d06a07f7a63e",
-    "cc44e5ae92ccc21d7f7820260e12ea934cc04c7559d7a9a051615ff01c009017",
-    "4603da8eb98abb27b8dc9f25de5dcbde8929d589d03e2976eb9f0562f39a8176",
-    "fcd41d04693f341267fd5460367a662f7fff04ff14f0e0c62361c941bd8992cb",
-    "5b2c57cd63a9d3d16640214fdab79077605eb83ff2bb188a51e785e971a0fd0f",
-    "9432462ea448cdc244cbca61a44d1d35ecb4d51d04c52c310a260a29697fcdc6",
-    "a837a81c08c83598ba71024da0831736ca5abd91f45d7aa3b2a8e9f8ada09a98",
-    "0491a1bafa6a1c60da441dde3786f96c27e9cfde34f7eb6744f1b531e8b5aeda",
-    "d2a3d4138dcb05e6b280e6438ad5c5d2b6db1dd4cf4fc35d0058bf97445d6d8b",
-    "a1f015d252d36edf84d14d6b5813700fddd6f095c9169b79876afb3412949b9f",
-    "c7c4948ae41bd2a02fdb9ca02c30debda2684528a6bf3e857cc4e6bedf94a31e",
-    "ac15615df27fa8433181d01b7c662e9fcd27c7fd4e058bff91d245aa2cd23d1f",
-    "f159f04f737edff27a793ad1cdadbe63566f1712ada098c1fb874274d0e86f97",
-    "e7cd8cd50374ff0a139d9a306d168e96c02df3dd97bdee6cee293da39040e9c1",
-    "337451a85565ead5534970d77ca0bcd8e71a9644ae4f762688054cb056638bd8",
-    "71cdccc48bc1f88827bc005e9624d0f1f92d7715023991b8d7c9addd29193568",
-    "756b76240af6864e96064bee72d3feefa722abd56801881dcddffe096b0c6716",
-    "33bfdd9c6cf41b45c88bc02ba8ad199b28b73e8236c052e28d2faff562ecea3c",
-    "fb94e3f94687ae6ed5670f3edfde225be7d113105bd40df148353320c7ec28a3",
-    "2b9fbecaeec50bc69d66258e1059a89a07c107ed148517c54a7b74f799e6a0e6",
     "3d183dfbe7e0f4bc8b6bd1a5e15a864ae6f8dd3db8ca6779c611e50b7d18ed47",
     "09bf9b5f036c7b55c37b96f339c6dcdf93470da7cced86804e6aa83e242184cc",
     "47958177d42a795e05dbb3d92b8146dde26dafae0917ed58278419e7538b3168",
@@ -4000,21 +3973,36 @@
     "e367a3ab405a78e1b1b7d5a62aff95b2b1c2e4e3ca842c9e7ae1541b90fccb1a",
     "f8fdcc2202d29be3cc78448b2672b4f37402317a9f5acdd664bfa00503fabe1f",
     "81ac2dfa7650c41ea3dd2b5d61340e4d897b888127d2c414ddf36bb87b20ddad",
-    "96e5c4a49b73d07b463c9f1c476fcc4cd7942c28e5b323d0ad9d19b8be609bbe"
+    "96e5c4a49b73d07b463c9f1c476fcc4cd7942c28e5b323d0ad9d19b8be609bbe",
+    "4bf7d554d765c865ee62f1c016f87660839463b5f7137f3f6c3ae8981f8d6cdf",
+    "e27cc1a97e65c9ef8ab6aa1d246ef247b7074dd325191dbc11fb90b54f41301f",
+    "5a3329846753086c691a682392c0a5f07d31d0c8de7ed1027e2003edbac10bd0",
+    "16b52dd2340fda8e24bc8880355fd6195b071d0f0b28acb63d4bbe4374ee673e",
+    "8be484d9947a68d73aa95a83b49056e5d7b2ef8c4ef3269c4e8e100d4218891d",
+    "3bba4668b753773a45c68118ec677ec9cb1dcfe638089b2bf804b8a13f4bf5ee",
+    "a2495f8cc1cd54786e12c85d2e045dc2cbac6be0dcb43ea42da5b23064296af2",
+    "1a5e89adb347eaa2c2b70ade9e4d393664c4185a8796732238a923d2ba184df9",
+    "5242a75807041b6fe3daf17d93a0a2c04c68cd9df134dc09e220fb67a8e6ad76",
+    "7f80afab34ff28012b30642b74a09b49c9e24e2905b628e3f9018abbb317d7d3",
+    "246e96f7bc540b5bc31d1c3fa84ce759178124c2425557a399a685214c1116de",
+    "2ad195c2ef38c904ff303790c8c0113b3440ab0d48a29acfdf5afd460d15fefa",
+    "ce433f37204c72a9089ae86b1ec7fd054c759806e00c504784f16a5b2f04ee93",
+    "eb821a31c0b32ad179b15459e2a6fb317aa56f63f78e0e3c8807ac10adf160d9",
+    "cd9c227a9dc7cd981c05db4efdaf4a3d7bbed1506f5d848588a3a1764dfafeb5",
+    "286ddb97e2b73550bb6f36562ee306b9720b39ac6e09890e53e5d9b0d8ebc0e5",
+    "f6fb71f4d7ab3cb781a22e5556b155f28b460b8e31bd7b1199a670de0f8f65a0",
+    "89bdf9d60c7c56735a75da8b5768d31146643e3544d39fe963515c3d09915e34",
+    "606da6981639f717596aa57175ee5ce0a503fe40add41acc3b968b51b16c037c",
+    "40b018253bd470c69c82b445e4baa8cde07c5c84cac57cdceaec20f72c283a46",
+    "4d9f04896bb070ca071b7fa7c573aa6feffcba0da46dc8150e1e94cd74065ce5",
+    "10daf6674f00b739b3bc9d0afe81a6e14af53b3d49df13c8d7e6a4ad57346e61",
+    "e56e2a5e96a6d132b73873363a41e3cd94725e8730322b27c315e8df5686dc23",
+    "ebd0c2e0118231026122231bf6ab098e2af7fd905c9e1d0f6209a825d479eeee",
+    "ef3f85c30c2d8e58dbcef03342bbc5d345c73051e99d1aa95c91edee5b423b45",
+    "e857ed730d6a1a36e679ff4c2eec64e28d9ee02f64f6545a7cc0fad45cc4376b",
+    "1810ea5da36f8df5f64ec28e82cacf7f738cccc0b5d097ea09742002cb78e2e1"
   ],
   "title_hashes": [
-    "61be235444c4c850dc2d5a6171938e53dc543340a81683b1e58d647f08c2b74c",
-    "697cbf39a4ca0cd519f1efb39f337b2df28b04155ec040bdec39d8e369561012",
-    "59a044161af048c5fa553f086e6c825f1ed0fcaf60c1080a59614b611c8f8037",
-    "7207a1591b6cee755a51110ed30fc541092f61cb334a9ec9643bcc37789c96bb",
-    "489496ed85ccd5736b4d389d374127bd756129ee8ea2e7298ee2876c336349e2",
-    "afb7cba30d9a67b752defd01595e1e22de9425a009d44ff13e7bdea4adebe84a",
-    "00f6fa858e7e6490c41e6a8c72a24c04d57683d940d2e096f93e54713cf29e72",
-    "67da6f7ebda2919647872d643a5ad94293c0d3381d91d05323d6ae2be70eb4c0",
-    "9ee33e08ba9c1017c528c3fc12f06008f5f1af8deb21bb8458267a333858165a",
-    "a90af7200a9861ebb5a9a70cd42265ba7dcd469e5a485d694a5f7dbecc799b54",
-    "5812ed61b30b4893ca31a8af39aea1396aaa9455e0fe812a51e9c00e1787a41e",
-    "9df55a68f04c1456e157c97e1a6ad72330d53571de755b0a35dc0cee68c21cc6",
     "58396b7aed316603c4aaea0ec47f833d60106c96409415828799511f2ff4ccfb",
     "ce5e7d76c25c756552d67bd36cdef4a8c2c6417f51db429ee6a2bfa97018c359",
     "3744dfb35efbbadb6ffbdbc28cb3832338ebe140c88988c7b145ff60ae8268fe",
@@ -8002,44 +7990,21 @@
     "eb9edf5dbbed8d0d75a77925717396cb038ac98e4458e87f4ed60b7ad6dd331c",
     "8533e8dc20334589d10fed414ca38484fe0c3cb4f7d6b52c163dcfdb07185411",
     "fdaf521aed28d2ce28d8f5094017cb77512c78b5d702328207bd3db9da38ade0",
-    "6a977f2b334015690f969c25c5fdef820a32e4877ee7dc62d9f2f6588e33623e"
+    "6a977f2b334015690f969c25c5fdef820a32e4877ee7dc62d9f2f6588e33623e",
+    "2d254978cc5a3b3b1d160215450108a53efdd1aa11632469ee987e04b58b7dd6",
+    "6e952a7569ea9e0958d712bec590920de834c4d5f376db0747836dc1ebc98638",
+    "c72f45033cf7a1b5f3e1ed3bb4803785fb7accb59b47cc2dfe0e2a0c14acf72a",
+    "539aab81d3094ed532b5376c220d6c566bcfb7e09585ed9fb902977d2089d0c0",
+    "5bf3980b62a4230b956815f3059fa56cea67aaed50630cce1e56a0bc1a0ad0cd",
+    "e1e0080a7716d06fc452852557c7658fa6b5bb61bc47ca23caea2ab699eddf2b",
+    "516f12ee674685d53e6a8688edb9c54554374bd8bea58d2a56c35cd7ae2087d5",
+    "06ee179111530ba3f69ee1c84e4608daacec0845e9886374cab6515f234873b5",
+    "c956c5160cdb6113ce1c3289661b02dad6bae65e2d5f557c7f41cb640e6312cb",
+    "6530640fa35cd64792228006f60b20ae5cc57975f160bd7f45eefe57649fc8e7",
+    "f54a0ffe9ae4b5084430a3a0afd8d15526d64a4f831da96b3c60885db8657761",
+    "983f8ea564446e7f0cb3c31a40d54e40c4d865830d0150039573df5eb290a6bd"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "俄罗斯认为欧洲在乌克兰谈判中没有额外价值。（塔斯社）",
-      "title_ko": "러시아 \"우크라이나 협상서 유럽의 추가적 가치 없어\" (타스통신)",
-      "url": "https://wallstreetcn.com/livenews/3204948",
-      "ts": 1795516923
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "ZELENSKYY WANTS CONGRESS TO PUSH PUTIN IF TRUMP PEACE BID FAILS",
-      "title_ko": "젤렌스키, 트럼프 평화 협상 실패 시 미 의회에 푸틴 압박 촉구 예정",
-      "url": "https://t.me/marketfeed/1084418",
-      "ts": 1795516949
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "$GOOGL | EU PLANS TO REGULATE GOOGLE CLOUD UNDER DMA - HANDELSBLATT",
-      "title_ko": "$GOGL | EU, DMA에 따라 Google 클라우드를 규제할 계획 - HANDELSBLATT",
-      "url": "https://t.me/marketfeed/1084419",
-      "ts": 1795516957
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "如果特朗普的和平努力失败，泽连斯基希望美国新一届国会向普京施压。（彭博）",
-      "title_ko": "젤렌스키는 트럼프의 평화 노력이 실패할 경우 새 미국 의회가 푸틴 대통령에게 압력을 가하기를 바라고 있다. (블룸버그)",
-      "url": "https://wallstreetcn.com/livenews/3204951",
-      "ts": 1795517021
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "卢伟冰：小米手机Q3收入环比增长8.2%，全球市场份额连续三季度提升",
-      "title_ko": "Lu Weibing: Xiaomi 휴대폰 3분기 매출이 전월 대비 8.2% 증가했으며, 글로벌 시장 점유율이 3분기 연속 증가",
-      "url": "https://wallstreetcn.com/livenews/3204952",
-      "ts": 1795517029
-    },
     {
       "source": "Benzinga",
       "title_en": "Sen. Mark Warner Warns Trump’s Medicaid Cuts Could Strip Millions of Health Coverage: ‘No American Should",
@@ -11504,6 +11469,41 @@
       "title_ko": "BoC의 Maccklem 총재: 우리는 두 가지 주요 핵심 지표에만 전적으로 의존하지 않을 것입니다",
       "url": "https://www.financialjuice.com/News/9866464/BoCs-Gov-Macklem-We-will-not-rely-exclusively-on-the-two-main-core-measures.aspx?xy=rss",
       "ts": 1795541367
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Pfizer’s $330M RNA Delivery Deal Highlights the Delivery Challenge Behind Silexion’s Approach (NASDAQ: SL",
+      "title_ko": "화이자의 3억 3천만 달러 규모의 RNA 전달 계약은 Silexion의 접근 방식 뒤에 있는 전달 과제를 강조합니다(NASDAQ: SL",
+      "url": "https://www.benzinga.com/content/63594429/pfizer-s-330m-rna-delivery-deal-highlights-delivery-challenge-behind-silexion-s-approach-nasdaq-slxn",
+      "ts": 1795541514
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Bank of Canada Chief Warns of Oil Passthrough, Sticky Inflation",
+      "title_ko": "캐나다 중앙은행(Bank of Canada) 총재, 석유의 통과와 지속적인 인플레이션 경고",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/bank-of-canada-chief-warns-of-oil-passthrough-sticky-inflation",
+      "ts": 1795541641
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Elon Musk asks US appeals court to throw out Twitter fraud verdict",
+      "title_ko": "일론 머스크, 미국 항소법원에 트위터 사기 판결 기각 요청",
+      "url": "https://www.reuters.com/business/media-telecom/elon-musk-asks-us-appeals-court-throw-out-twitter-fraud-verdict-2026-11-24/",
+      "ts": 1795541644
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Best and worst large-mega-cap REIT quant picks as earnings season wraps up",
+      "title_ko": "실적 시즌이 마무리되면서 최고 및 최악의 대형주 REIT 퀀트 픽",
+      "url": "https://seekingalpha.com/news/4676146-best-and-worst-large-mega-cap-reit-quant-picks-as-earnings-season-wraps-up?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795541646
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "BoC December rate hike chances rise to 80% from 65% after Macklem remarks, swap market data shows.",
+      "title_ko": "스왑 시장 데이터에 따르면 BoC의 12월 금리 인상 가능성은 Macklem 발언 이후 65%에서 80%로 높아졌습니다",
+      "url": "https://www.financialjuice.com/News/9866470/BoC-December-rate-hike-chances-rise-to-80-from-65-after-Macklem-remarks-swap-market-data-shows.aspx?xy=rss",
+      "ts": 1795541649
     }
   ]
 }
