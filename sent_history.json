@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795549438,
+  "updated_at": 1795549589,
   "id_hashes": [
-    "dbde1cc088e792140aee5654f26158f3041747dea12d01dda5175b95a8a5128d",
-    "0feef6d0d8e80fd032bc588b9cd63b9af5258dd1c04fe830b802b6f64f756bfd",
-    "f25e17d3e05477a461f8ee641ff544948299c056a7f20f85c5663d3126c4fef8",
-    "2eeee55b15648a09815dd7af63ac7ffcb7a2c0df5a2acaf6e4350d5721e2a224",
-    "95fd1fbe1f727ce54088094c1247f383592f06af8d97bc9810f3804602b5b3cc",
-    "acd64bcbc1f428fba88a2bc025183b1217c15c6220e57fd14f7ad1eeed0d602a",
     "a7139c29100b1f542ca90f30b5e6994b26fe337710bf929ed8ea4965dd216ee9",
     "d76b612fafc47b6bfba4002f376efb55a31420f7f4c53d1877128c4367050a65",
     "c242f62789cf2eb1867489875fa876a3f240f5858cf7e609d18854bd7bd00c41",
@@ -4000,12 +3994,15 @@
     "a03b868e0cbbc046351c265b3f2c7de1c0750531fd8d424a28b597d996cc9066",
     "8b901f1b78d6a67847f43f3b6bd06bea781b7116e15f6755395a0c8da09bb993",
     "bc6584f34e794ced96586497c43267d17b61fc7cf401ec32c115cd598c267222",
-    "a5e46f3f8c0c78089a7e0f8d75feaabae1f4a8630afbcecbc21ee40742f006d4"
+    "a5e46f3f8c0c78089a7e0f8d75feaabae1f4a8630afbcecbc21ee40742f006d4",
+    "4f637099c589fdd3f8abdb4f91c5f614ee379492a8715faf1aac44e04b27fe2b",
+    "7b1e37317a536e4a7d2882bcb94b10b6f3b167cf88426e894719d96b1773abb6",
+    "d139d9e5bd27f7be4bb604ce4fed23afe89cb2c794bbc7f8537c91e2f9d34eda",
+    "350576a1bb29e4509da4d57eeda3da2891533c60de7ac0e750793975aa1245d2",
+    "fc482026940a14863ac68b66b02d4d07203a893020effd7b27a627e0e29d0dc5",
+    "607dd4f1d62bc9deeb03e824863ad49123bcfea51b4fb8fd19cb34b07123e601"
   ],
   "title_hashes": [
-    "75112c578e328ded880d0535146011fbf92c3203d4ab890f634b5353c313c9da",
-    "45ed491a4c44337fd9f05f5f1a61bbf47c89ff3d575ae2a80f06a3e1a5949e5f",
-    "09b01cff840502fcf6bdb7bbf4af5ab325e41f4f010330a175b38bbbf7613344",
     "3c6ad72553c90f7dcd3455465bca125d940254391754eacc28df642b1e1c8ce5",
     "def6c7f4fbc6071fc263a3c61715efaa7a48d5bb36f2ec2fa1a91999fc53ae09",
     "f116ca4c562955393f51d14975975cb03dd877e56251a5288275f65a973da3d7",
@@ -8002,16 +7999,12 @@
     "47bdca3e08ec342c0dd9acc8ecb54ac6dd5ae7a82d0d64212b3203d88411c5fd",
     "852c47cc7aa593ad9e89f06561156a5f7b4dbc8e28e1b337c07168110d68ffd5",
     "f8611f403c71779a4305da0b5ad9beceb90fe64ad3b67ca4f5f46e961d80baea",
-    "6b0ba56ccb2e60cd150ee972f2eea2a5dc5e36e872fc8d5fc93b7adc3d1e0c60"
+    "6b0ba56ccb2e60cd150ee972f2eea2a5dc5e36e872fc8d5fc93b7adc3d1e0c60",
+    "66cdc58e97bc991f61012d5d10bce8cb450686361bbccd6cebf7360464b356f0",
+    "cdb83f2d5bbba461a9f06c9ea0b4b93b521c36ec81e855ea9b4c8daf1af13a44",
+    "3f606d64448e423b8c32cda63db64d65606dea3c3f99e5a01583a5e11f5d81bf"
   ],
   "recent_sent_articles": [
-    {
-      "source": "StreetInsider",
-      "title_en": "America's Biggest Manufacturers, Farmers, Railroads and Labor Unions Unite Against UP-NS Merger",
-      "title_ko": "미국 최대 제조업체, 농민, 철도 및 노동 조합이 UP-NS 합병에 반대하여 단결",
-      "url": "https://www.streetinsider.com/PRNewswire/Americas+Biggest+Manufacturers%2C+Farmers%2C+Railroads+and+Labor+Unions+Unite+Against+UP-NS+Merger/27390849.html",
-      "ts": 1795523602
-    },
     {
       "source": "CNBC",
       "title_en": "Russia accuses NATO member Estonia of hostile actions ‘on the verge of unleashing open war’",
@@ -11504,6 +11497,13 @@
       "title_ko": "캐나다 달러는 BOC 인플레이션 경고로 8월 이후 최대 상승",
       "url": "https://www.bloomberg.com/news/articles/2026-11-24/canadian-dollar-gains-most-since-august-on-boc-inflation-warning",
       "ts": 1795549437
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trump's Nvidia Push is 'Crony Capitalism,' Says Rep.-Elect Killin",
+      "title_ko": "Killin 의원은 Trump의 Nvidia 추진은 '정실 자본주의'라고 전해",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/trump-s-nvidia-push-is-crony-capitalism-says-killin-video",
+      "ts": 1795549588
     }
   ]
 }
