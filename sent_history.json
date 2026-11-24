@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795553189,
+  "updated_at": 1795553339,
   "id_hashes": [
-    "93c0366979ddd9dc7c29545a9dc2bd1d2d521092112117df2af35bc6b6b76a6c",
-    "fd9fe72f0619f88294503e44eca46ddd6e1750d872a4e4d0f16775d015b3b324",
-    "6ddead304a0916724f47a27a613e403b116ad92e207abe5d8290cd3d77cde3e6",
-    "25603c1cf56fe35a7df39e8ced3f26743dc854c03acb4ada0a30555a8f70d329",
-    "d3f041fb10a5b93f7f036751886dfc65d64b60bcc1a7ef32cea7fa68ccb41790",
-    "2ad63104aede29e6d2380a0a03e4b3b817cd2f7bcc4ebb9e249991b011029e19",
     "6f7b2345961c0105d67aa4c2d5afa6f82969a7c0414e751c8cc1fa2ecb49a4d4",
     "ac22e3f0c97af1b1ecf006781ef3a601d1238e48ff38c130f38047c557ceb561",
     "d26bfbe0751db60298dc26a6dbb4739db8f53924f0ae6f810300b8d85ccc4746",
@@ -4000,16 +3994,15 @@
     "85ebf7fef56040233fc4bb07b9b77b467e6adbf85c9a47b5ccec2ceed6ba320e",
     "3dcae66e23ca76257387eda3deb4eeb3489ff6fe0c62787a634a7b51c24020bd",
     "445351bff4b240001bce2df9464a0806095ac26da45ac5478d713530fdc99e14",
-    "41ea3c111a1dccac42241d5db8b4fd008be3338acd045b2e28d14c4ef4948db2"
+    "41ea3c111a1dccac42241d5db8b4fd008be3338acd045b2e28d14c4ef4948db2",
+    "4040d12aa6e4f8327e24463f8d9b1b3319c7006fada5a46992205d0a890fd296",
+    "7e0a1c8d2cb86750b2d1e70c3c70fc16fe888ac3f56d3e8f593ac107ac06fc56",
+    "5600dcdb4dbd9ba581dc6ca9986cd36f4c67cb19fc31782eb1026c0c79d868b6",
+    "40b6e322f3b4761249b8578f28200da42fd732522b444e96cbcb8507cd58f197",
+    "a7a22b60a9ee8308c5f221fc272ca23926d2aa37be323483ee7463841fd3bb4a",
+    "3fa0db4f569377910af5708ab3fcd894bddcf2721aae42cdfbb628ba36733cf1"
   ],
   "title_hashes": [
-    "90766e5c48886131952687ff036be41b391dd58bf501519999660fb583158582",
-    "b618052583e5fc68b049a60ff83785c878397fc5c17233c9e4565dc3e05905c6",
-    "f440ce72686d52457986d59f79e01eb42706eb31fa47d1faf8251f4417f97ac2",
-    "13cc76c7a0c835e605f2856da63557d7d781a43e53e83bbac1341da115d1850b",
-    "ef417d0b0013ae86259af3a9349b94646ad01bd25c7194825f32ce7933624924",
-    "7c947d369e3fd207245eea47a86dc539160919a72f4050602157c36519d2a085",
-    "e3f2a4806420d8684ec36cb83c28d46519f3af76946d1927a75c82da4714cb9b",
     "1840b74d11e9e61af055c10a16db553490fcf21152b575fed3083468f5953b2d",
     "322055a4d458b2bb0dad2e44987bc4f0070bc0bd7ad061c192f4baaf0d75c73d",
     "eaf17a13e6e20ad358ebae6ea2774173f774830898ce715c376d0c2b4dea9245",
@@ -8002,23 +7995,16 @@
     "e3a4fa072fdd87eb325e371a2390f8d8b0fe540c21ef67bcff0f541dd67ded71",
     "75271a50c2229216912e516761ed326f90120a00c659d7b8aec85a251b8577db",
     "eafac0eb31f77f06b10ea1904c553bcb99fab0371cacba71b6127acc15e2c8c2",
-    "ad29e0785b1017e66f5b5c108bda91aa030d49c45230c2203c34c2a8b366fe27"
+    "ad29e0785b1017e66f5b5c108bda91aa030d49c45230c2203c34c2a8b366fe27",
+    "5aaa7053b3ff383faffe190963206debc533fb056dd1bdaff62e1f66209d3736",
+    "ed1e35a7d87efe80f40db2cf26deccc43f1b602e20b43f6742cd4ecb69ae6666",
+    "1087862bf857330ee32e901270eaeaf00b66f3967837ceba6401bc51fb4e4c68",
+    "f1cc7d8a959b05dbe45e0801d0bbab26a496380f66fc2feeb09d1445604022c0",
+    "a42919d1e729cfde931d46a28ba1083d4d1d2fec0aca7fed5accc578b83c435b",
+    "89c84f3596a4837cfc1cf64e1e846344ecb3fa46fcb22fcdf3f7819b70eb954c",
+    "88af7e4197d42f61688d01369c7ed5ae6ed7632d40b242dc5df6e5bb63cc5a6a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Dick's Sporting Goods rallies on signs of Foot Locker turnaround, improved outlook",
-      "title_ko": "Dick's Sporting Goods는 Foot Locker의 턴어라운드 징후와 개선된 전망으로 반등",
-      "url": "https://seekingalpha.com/news/4676083-dicks-sporting-goods-rallies-on-signs-of-foot-locker-turnaround-improved-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795525181
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "GREENE: HARD EVIDENCE OF SIGNIFICANT EFFECTS NEEDED FOR 50 BPS",
-      "title_ko": "Greene: 50 BPS에 필요한 중요한 효과에 대한 확실한 증거",
-      "url": "https://t.me/marketfeed/1084503",
-      "ts": 1795525189
-    },
     {
       "source": "edaily.co.kr",
       "title_en": "[개장전특징주]엔비디아, 델, 베스트바이",
@@ -11504,6 +11490,20 @@
       "title_ko": "앨버타 주정부, 가스 파이프라인 부족으로 인한 TC 에너지 문제 해결",
       "url": "https://www.bloomberg.com/news/articles/2026-11-24/alberta-premier-takes-swipe-at-tc-energy-over-gas-pipeline-shortage",
       "ts": 1795553188
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Moody’s affirms Sanofi’s Aa3 rating, shifts outlook to negative on Insmed deal",
+      "title_ko": "Moody's는 Sanofi의 Aa3 등급을 확인하고 Insmed 거래에 대한 전망을 부정적으로 전환",
+      "url": "https://www.streetinsider.com/Investing/Moody%E2%80%99s+affirms+Sanofi%E2%80%99s+Aa3+rating%2C+shifts+outlook+to+negative+on+Insmed+deal/27394712.html",
+      "ts": 1795553209
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "HUAWEI SAYS IT WELCOMES ITS ACQUITTAL ON A RICO CHARGE IN A US COURT AND WELCOMES THIS DECISION, ADDING THAT THE GOVERNMENT'S OTHER CHARGES LACK LEGAL AND FACTUAL MERIT. HUAWEI SAYS IT WILL REVIEW THE VERDICTS AND TAKE ALL NECESSARY LEGAL ACTIONS, AND THAT IT TAKES COMPLIANCE OBLIGATIONS SERIOUSLY",
+      "title_ko": "화웨이는 미국 법원의 RICO 혐의에 대한 무죄 판결을 환영하며 이번 결정도 환영한다고 밝혔습니다. 또한 정부의 다른 혐의에는 법적, 사실적 가치가 부족하다고 덧붙였습니다. 화웨이는 판결을 검토하고 필요한 모든 법적 조치를 취할 것이며 규정 준수 의무를 심각하게 받아들일 것이라고 밝혀",
+      "url": "https://t.me/marketfeed/1084784",
+      "ts": 1795553338
     }
   ]
 }
