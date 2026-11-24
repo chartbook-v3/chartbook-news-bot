@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795519973,
+  "updated_at": 1795520129,
   "id_hashes": [
-    "80d0d04abb7602049024593418690c7ecaeef9af2896a6a10a3cc332862d2732",
-    "2f12ffead2723e034d8c28f0c1a14f7fe137da7f3eed4e5f1e6ef772edbde4dc",
-    "cf39d80766646e4e219237add60446273be73e29f67e1e0c6b6b21f94b9236a1",
-    "a8b37ff9c6848fe861d2ce7be43c677bbfb21d14c8bbf67741e415b0afc84cf5",
-    "25a25bb2e63ba58d1ceeff5e712c85c8e78165a1a15dccbe2bbf08aa21391975",
-    "e0e53ed92fa97a5c470402fb9cc27661cc00030fe70908cc99be69e4f0e0e974",
-    "dd51ad4ef16717d371e82d1c3d3a84fedb65d7ed3116f5f1f59e970ac8add3bd",
-    "cfcb578bbfae569aefbe9b545ae4df07bf9eb51e41cd852e32ce5233f567dd2e",
-    "a050b3509544e9eca4e11210c9c618e2a1370d160fded8a4241ccd2dd41ac664",
-    "0fba43a4685c0123661ed5bbcd8c45f9b3019d094638b9c5de589e336d3f3937",
-    "0ad8973ecc5e7b73f5ac425ee1a8fbd5f64b6830971e2266c3dbdc96717be63e",
-    "8757f71377343a2846031650f45e142ef95b8e06c2a0e1a0d1724bce4c2dfd1d",
-    "d08f86936d1ae752b7ed04a553c08af99bde66cc179d8308559c9aaf1eb3a39b",
-    "a5cee9f8f9a6289cc9324b80ccd53c418b6b0a1041b042bf8c8bc3a0ea742f19",
     "6104d24ff3f05292667a3c68d783def6d5a67d13a3ce723142fbba8f7077655b",
     "bafccaf12b45de9ff03c54b30012d34135298bb98cf90413ac5e8d297471f16a",
     "a083da08683fa34151967715522f3fb9972a28abaf19b02f3cde2b2524e7f984",
@@ -4000,23 +3986,23 @@
     "80800fd91ab3a5fd5ab1c430b6a0672f09995b519aca9b67b6173d2d7fcc66d5",
     "2064cfe5162526a15c24778e5fbf82d71d2ab769c5cf1bffaa2144f165239b88",
     "b5eefb8fac03258ea62f52fdf98e226b6622b8e995bbc2866b496d75fe3b31b9",
-    "67eab8ab28e1e3a40acbd3f38fd9119cd4fc7f7f17880a1ba73140e66667ad1b"
+    "67eab8ab28e1e3a40acbd3f38fd9119cd4fc7f7f17880a1ba73140e66667ad1b",
+    "5f4b3a57175f64111f9ae28a5fb991e4d6c78f2e833d861c560f1f5844d220f2",
+    "e94df39de85c1893246e6f7c9bd08ebcc1043d38e7819f0d68d95c2d87491f90",
+    "a52552408dc2ec5151d73a9bb0a61fec4520d6d65df728b9b907ec130feac17d",
+    "58dc0fc12e51ad93ed2e83a85efc2f8fc0f9417393205abbcdfc13b09ac63b3a",
+    "44ddb87b2fbed6783e1cbbafa5e280e5641e06ad570f33b0ed87a0348631d52f",
+    "f07a63f059f06ef8027231f8f1d017153a9a1a7443aca6658c3274bd8128dc00",
+    "ffac6f9e305438353702ad6690e4c9647378d4e0ba25ea755420d061a41d0811",
+    "7fcad80ca516ba3adffcf5d4fc2e41b5098ada6c501852626838b6f5fa918ebf",
+    "0449b0ab1c9769814cb42866cf7d43da77976873ed360374606a5ad504e0cd8b",
+    "0caf0cc2e6c550709382fca3eebc0d2ff021ea78219ee3d20fa16798c413860b",
+    "d3151e35ae3c70bb233c204a40a18165f75201ecc36166f024c651de4b57da16",
+    "0d01a1f73c6c2aba4ae16cbccf83c068d8bd162d54348cf75f99eeb971288092",
+    "1249ad339e006b937de56f07f3c0775af99e40a2c41428c281517ae35cff89c3",
+    "7b87637ff2d80335e3fa459ab9998d5d7615e7f01a9d4023e5ed6d33a5148a6c"
   ],
   "title_hashes": [
-    "56ecfbaebfd2e9dcd670ffb8cf0dc88db1e3b73c9b7704fc969c1104a0901796",
-    "12f9475db645a21234c5ebe9deace7ed5670727f8e7a9f6db3fedde08c884966",
-    "1caf7ea00b406a3e0c3d306b7a8596459d167e7344cc735defd1797cfc3f2c01",
-    "357ecd555fda9280f0e72e7f573d904e951120462a059d8302e110221446c92a",
-    "ffc54cacea602f73de689e3c978bda45dff2cdde688c0d4fdeaa82ca7e8cd38f",
-    "7d160db8d6abdbd41301ec9060e7d88e8279927ca15c12d0eb9b2694be496bd2",
-    "ee03ae02ee4e6619d927f902529f0d84fb68f2cbaba625034da512cd60281221",
-    "755f54eabb2264d232eac34bf3b48fa5f9fc44fa13cc793ca98e7f9ff77d1e1e",
-    "e9dd43dd0cd62b3c719e5b12de98f470964513ce53ce050a550f15c1d44f2486",
-    "0ff7c910ef3f39a3b330be8bf3158c8c760e3d42b5514067e91638447eff171b",
-    "086b0839b0e88edc93ddb9fdcb6fae8a50869436f24b6741fc2802680d132328",
-    "11e4cb8eb2cc955ea483b9bd5bf983b83d7fc2c4bfd48417ac63f0911297ee79",
-    "b860226a2cdc4e818d6d723446f7ff49afd3342f8c6ffac284bbb91e221717dd",
-    "752e920028d4a37aa3581af3d4b165c3086ef7875e1c752ead0a05797fe10e61",
     "f4b70401bcded20b111b351f061e7731985c109197760354c1ec7ba5a970604f",
     "930527b71524b76105224c738028baf34058d767cf40ee41bd55cbd45b04475b",
     "0c230ae60be410442bbf8f195a2a2bfae5b3e5bc219772b1e552feac5909cf70",
@@ -8002,30 +7988,23 @@
     "1b42aea611fa3eab5f06c06ba28d32737fb3637e9697983ca44bd5190a11c59c",
     "ab878511c6620ccce34388240b28fc35d714cc8db54d45ecde9c550d031b2891",
     "b46158eae4a73930b8d44ecbb6ea27dc6f7f69d8446b121246651935908ca044",
-    "4a0f87d0ad4ed1dfd6678537a10630fc5d169cd42e8de2cb90c36427f93b72d0"
+    "4a0f87d0ad4ed1dfd6678537a10630fc5d169cd42e8de2cb90c36427f93b72d0",
+    "efb74c2150bb126db42d1b8ca6d9ce3e0727c28656e5fd15bb7e43224416ad94",
+    "d9ef85585edcb09460db47389bcec7c12e0ec8a5407742901a7db51b74f52072",
+    "502f2c4fa7e5fb08e913d82b1f44274a671e5109a8a58e3cfdc630ba150aba4c",
+    "ea94d5a9ac16afd46406688b939fa01432122b36c1427eada81ff26df050f495",
+    "6389ed6ee90795f995dc6e9ff8f450549edc1eb51d5a62ddabc8033259748d6e",
+    "ed6a826c1de3a4fe6359ffbf0fb651127b47d28b23100ef4abfda576417115a9",
+    "9938938c65e174d5a82c22ca465991c9ba8082d19982b2fb2c850cd39d732d42",
+    "1d1be3dc394a3ca16366d59aa2dccec068aea80694cb8e178fc3aef30bc25a85",
+    "f47de9c04ff0bcae30c5a1a091d6244a743d1754fa868a6f7ac32d11da5a6b04",
+    "a7756ed7c6f29efe09f929c2445020c2edd593baf3d159daddbd1224bcdba197",
+    "8d1f0fb5b91491bc80c72cc03f912a5ac03c4b442949dda2a69339de1154f6da",
+    "ab1df1d3f2330d8d5b88407e98502b3f188e4bba28f6ba266577de45dd2bb678",
+    "c6c057ac166dbba1b6e47410abcbb8159b100fa3614c777954058b18c6e04957",
+    "be0ab769ba48028ba85906d3916134ae9a95b0e836c716b3a69fb4511f069bad"
   ],
   "recent_sent_articles": [
-    {
-      "source": "데일리안",
-      "title_en": "KAI, 국방품질경영상 대통령표창…품질관리·공급망 역량 인정",
-      "title_ko": "KAI, 국방품질경영상 대통령표창…품질관리·공급망 역량 인정",
-      "url": "https://m.dailian.co.kr/news/view/1718781",
-      "ts": 1795479188
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "트럼프 밀어붙인 젠슨 황 복귀에 공화당도 반발…\"의혹 여전한데\"",
-      "title_ko": "트럼프 밀어붙인 젠슨 황 복귀에 공화당도 반발…\"의혹 여전한데\"",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwTnRYM21vd0ZkeUFBU0x3ZnJaeVUxY2tIcmpYeFNXNlRHbEJXTk0xWTBDWFNSQUtFZ01KZ2YyVlFEZUtoaFRrZTFCVEQ2V2hTM1RUQ2h3aks?oc=5",
-      "ts": 1795479191
-    },
-    {
-      "source": "지디넷코리아",
-      "title_en": "K방산, 브라질과 수송기 이어 전차·장갑차로 협력 확대",
-      "title_ko": "K방산, 브라질과 수송기 이어 전차·장갑차로 협력 확대",
-      "url": "https://zdnet.co.kr/view/?no=20261124091126",
-      "ts": 1795479195
-    },
     {
       "source": "지디넷코리아",
       "title_en": "오픈AI 모델 보안 사고 파장…미국 은행, AI 근무 시간까지 제한",
@@ -11504,6 +11483,27 @@
       "title_ko": "머스크: 컨테이너 선박 12척을 주문",
       "url": "https://t.me/marketfeed/1084446",
       "ts": 1795519972
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Jensen Huang’s Nvidia Rally Cools as Citadel Warns on Growth Outlook",
+      "title_ko": "Jensen Huang의 Nvidia Rally는 Citadel이 성장 전망에 대해 경고하면서 식어졌습니다",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/the-pulse-with-francine-lacqua-11-24-2026-video",
+      "ts": 1795520069
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Ituran Location GAAP EPS of $0.91 in-line, revenue of $106.6M beats by $1.88M",
+      "title_ko": "Ituran Location GAAP EPS는 0.91달러이며 매출은 1억 660만 달러로 188만 달러가 상회합니다",
+      "url": "https://seekingalpha.com/news/4676057-ituran-location-gaap-eps-of-091-in-line-revenue-of-1066m-beats-by-188m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795520078
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "CHINA PROBES POLITBURO MEMBER CHEN JINING",
+      "title_ko": "중국 당국, 천지닝 정치국 위원 조사 착수",
+      "url": "https://t.me/marketfeed/1084447",
+      "ts": 1795520080
     }
   ]
 }
