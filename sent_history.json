@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795523404,
+  "updated_at": 1795523573,
   "id_hashes": [
-    "319ab67d793e4766b419b98e978c300d164751c7b061c0c87e8355e6b9292d2c",
-    "2ec783682edccb20e98b59cada8000453b3ce664bb3da6b6b9d15936ef028a24",
-    "00a68fd72dee158674dcb363dc7954e50324c1f88098750bc095fdf73c7d9ea1",
-    "2f21673687b1bb139fe796fd5acbb795080afb3442f67398c041427f18d2aa5d",
-    "d2e2e039958b337ae122b387c4c9cc38dfbad27298a124fd0e43d9aa1462aac5",
-    "d820374c1a45f13adf54aef5020b0c97e40f0a9c5fc41085ffd47949924360af",
-    "b7ec0c225420561cb62c07cf22e679f9f703383c855e320368c6798f2e5af34c",
     "48a1fb5052962164b7fb95f0e0ba83517b3b22039d33938d2dcbe30dc4885b6a",
     "36df9abaa374cc0517a68eeb57abfb795e8904b000183b70db97f7dff37454cb",
     "1ef7a21d90cad409e5a323052860e6b906c08631a3470c68b6197ebd8b656f75",
@@ -4000,15 +3993,16 @@
     "04e73bc46e8a2e9dbbcb7fd12d88945577af5d615fe3e432327166b9202f4e9b",
     "9776bc1e6631c35368eac1d76db1530929399669c6e83528f9428a0bf38693d2",
     "88e945383bd19ec75be78c8ed320af3ce4cd62ff98f5126509ab87be679cbc05",
-    "3e3ae5e08eb8a1913170a7bc9f17ef3178d411397aa30671de3c508aee620526"
+    "3e3ae5e08eb8a1913170a7bc9f17ef3178d411397aa30671de3c508aee620526",
+    "1b6d124df34e5c0a209367e3db515325cfa3b79e282f30ebb428b0f12eeca3bf",
+    "1c7b3476ef01d64ce255487ff666dc8ba29a177398f00fae601653fc96078d0d",
+    "37124ea7197ba008e8a53de322a477fb656063f0c41aeebf9d75e36f45a153a8",
+    "777a9d0d05ace41e04f050a4640b87563edd69e9f14be858f3a0e17e496731d8",
+    "a0036e093ed2d6ebbb36e82201fabc042c29ef888ccc4af3ce69f6d6dd4fc504",
+    "92814b5beabc7c8d08e9567e68218603e540682bca3d0ad664464d9054515fae",
+    "ea059964d929c4f105770d26d65b69a779095cc133f56358b00aad94ebc13d46"
   ],
   "title_hashes": [
-    "5a073e5f536f6423b634bbc56fc8b0f287c1ff9a5a85a1b07b1804cf3ce60adc",
-    "8c53c0d8fc4a8f73f5a7ce4cc5fa82483b6abd26a77e8d50a0bd3d6fdd9bd2c7",
-    "af849878f6439338e2015e5e7a2c4e0f937e9b2a56bef5977171e8f60805895e",
-    "6134dbf8db15797b60d5c89e357bc65f9c85f67b6ce043052cc71f2f8bb59b4e",
-    "508b4774f37ae40705a094174bc51b2b230ea28f07962e0f8f56db17adb9663b",
-    "41c888250c98ff70f337c33325c082fbe6998b5389e8db3d3c3b384ea6a77558",
     "2cb0a262d4b8138f9f86b24323eebcbb348883097b76b7a19aa8fa84f252a977",
     "a0166bb01374828d7cc19938037a41e9521da66e2a5382d252b73e029cd66ab2",
     "044fce9fa9bf29a89e2a1e4bcd0eb0163814ca8d9916605c2bc013f5336c526c",
@@ -8002,23 +7996,15 @@
     "da4a523128684f76ef7f2a5b8cdc002823ba60b9b5fb7ce3bb4c76f42286065b",
     "ecd528c7d03f3bbfd1f4fe82a347153ca20b9b91c65a0e937f57460c4e618e62",
     "efdc4a95cad98ad6e1a13ac9acdca8076df1738c12b3f3b1d99f0fe43ef3524c",
-    "47e430d8c04f4e71595a5f6423bdd419e9e6892b32bd8075af80425f9ef37f79"
+    "47e430d8c04f4e71595a5f6423bdd419e9e6892b32bd8075af80425f9ef37f79",
+    "6e02d76883dfc6998cc15ae1ee0c5cbd7259a9f6a69e95653476351a38246f5d",
+    "6ca15362ef86846f986597a344569110d1a77f1ed55ae70d6d66667d3d3114d1",
+    "9afa6ccf9113262a500952e1e17bcb1618831f234ddf44f9228102ec42a058d6",
+    "edeb0edc58a689f217ab4d85aa1af9167685edb35937c2b9679d190c5ac47e05",
+    "75f5788fb0f6e6cbcbafda739652bb1717c485a3bcb07456fde811f165e9d748",
+    "632f02a7452e1c2fd3ba1fbfb397ddc33878bf084eba2695864dc907d62b7b96"
   ],
   "recent_sent_articles": [
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "현대차, 산불 현장 지휘용 ST1 3대 제공…\"산림청 1년간 운용\"",
-      "title_ko": "현대차, 산불 현장 지휘용 ST1 3대 제공…\"산림청 1년간 운용\"",
-      "url": "https://www.fnnews.com/news/202611240917497059",
-      "ts": 1795481036
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "野 정점식 “코스피 반토막, ‘이재명 버블’ 진상 규명 특검 도입 추진”",
-      "title_ko": "野 정점식 “코스피 반토막, ‘이재명 버블’ 진상 규명 특검 도입 추진”",
-      "url": "https://biz.chosun.com/policy/politics/assembly/2026/11/24/PTFU56ZBOVCCJL4LKPWJEMTG7U/",
-      "ts": 1795481103
-    },
     {
       "source": "조선비즈",
       "title_en": "[특징주] 젠슨 황 복귀에 로봇주 일제히 강세…현대오토에버 22% 급등",
@@ -11504,6 +11490,20 @@
       "title_ko": "NVIDIA(NVDA)가 Jensen Huang을 CEO로 복귀시켰습니다. Truist Securities의 비중",
       "url": "https://www.streetinsider.com/Analyst+Comments/NVIDIA+%28NVDA%29+Reinstates+Jensen+Huang+as+CEO%3B+Truist+Securitas+Weighs+In/27390809.html",
       "ts": 1795523403
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "AFP WITNESSES: SKYSCRAPER IN RIYADH HIT FOR SECOND TIME IN UNDER A WEEK",
+      "title_ko": "AFP \"리야드 마천루, 일주일 새 두 번째 피격\"",
+      "url": "https://t.me/marketfeed/1084479",
+      "ts": 1795523567
+    },
+    {
+      "source": "Semafor",
+      "title_en": "SAUDI ARABIA SEEKS MISSILE INTERCEPTORS FROM ALLIES AS YEMEN WAR LOOMS",
+      "title_ko": "사우디아라비아, 예멘 전쟁이 임박함에 따라 동맹국으로부터 미사일 요격기를 찾고 있다",
+      "url": "https://t.me/marketfeed/1084480",
+      "ts": 1795523572
     }
   ]
 }
