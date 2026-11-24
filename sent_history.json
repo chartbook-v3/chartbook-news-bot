@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795516601,
+  "updated_at": 1795516765,
   "id_hashes": [
-    "f410784c6e04a47c28182de1969682770086052bc19e88e85f05733432609409",
-    "ef622ed7f64e4c612b7b259dc96769623985831ae5d77453557134e6c52b19df",
-    "49f82a26c971eca0b85c7784e4ddc1b5de5c88377f655f0d39615c9ae6eaab51",
-    "7e74cb3a2b3b6d779cffb1d2fc638a870e5194d96ca3c3750227db5db973e2e5",
     "b0142bf0b5276f91c62a8d6c2cea804be75e5bf2f3e28201a42ee3981546a375",
     "61a14e2cc075d66fa663d618ed8916fa0d5bc17214f83a507a5d43c471d2ccf8",
     "8373ef9c697a4fa8f616e96c9dfbb388a1eff9344dcf60429960cb28b8cf3847",
@@ -4000,14 +3996,13 @@
     "2f823fa955d3ddc52dc501410dfa58beabf22f58db9eb69f2ab3ed269a043a72",
     "69405e22b3f5dc3836fce9be2a2bc6d9a181f10cf0abf78da78a889d20be32bc",
     "4dd72ac4dc3b99cd0812530aa771e514c66260ecbaa0d09dc6b609a76f18f083",
-    "2ba80caf200126a66fd54e5135d35dd3e0de501ba9566d3d522bab046d0ae0c3"
+    "2ba80caf200126a66fd54e5135d35dd3e0de501ba9566d3d522bab046d0ae0c3",
+    "827d66400991eb7e7b4b3e46d2a2b76d8d652b4e1e4dcdb8e155f47c726b5006",
+    "b603a5d9503fb0c30d135dcbffcbe417d794a7d46cc56145512878653979188d",
+    "0f8af92fd562f620a621d791e45940592d1c9fe36793316b6342a60ab70f2b2b",
+    "ffd4cf8cdd18d61b989505a179aceebf1795376983316727d45ddf49daa56ab6"
   ],
   "title_hashes": [
-    "aa273670e65571dcdd36a5787eb6862833ffa3c64a4cbede6a59a249f329dc7c",
-    "f5a6121124dd661499692882c1d3c266768867af1bf4916a984ec52f7cc1e5a8",
-    "91db81fda833a9445b887b6052da4e05cf47cbe4eb9805c8a9d55e278730ecdf",
-    "dba7eed1d0b7f933a3f5185d1075aadd069bcc49efd86b8ecbf7719e8402f0e7",
-    "e6ff26aa60b82118791624131857c7ecc9b4e5b4f2ea6203b83554bf48ef7df2",
     "182a2d2146db8261d48706cb6fd9845c3dc1daaf3e3378261b8f062a7563e599",
     "3bd08465ddf67d451b3f9ac72cd662c5498c454b816ca59b2846e51fe4f7b879",
     "9c5338ef96e2e0265cfb304ecf671251c6d11878698c86be7e509734d686f35e",
@@ -8002,23 +7997,14 @@
     "63284d2d9eb001dd0b6cb3373123f8f6da8777273b550bdd17afaaafdef881ba",
     "31f65bf22fb7f6975e12ffda750e44ff19df88413cb52a1718214d0137edcb49",
     "0b77b2ef66d4ab280fc175ffd643a7a68e94b051f02cb2bcb0ac2c9b0d3eb1b0",
-    "d24587bb0c9d71a86aac01c8e2631829f19b434e6acbdc5e96980de9a9b3d9b4"
+    "d24587bb0c9d71a86aac01c8e2631829f19b434e6acbdc5e96980de9a9b3d9b4",
+    "151dab9181633825ba1f7fdebd988187d1acf75bfd39b43a9fd2303f8633ed2a",
+    "ba8cc4dd9b152f766c97fb123320e41d32ee4c5fffe37e25a0e09162a2e0be2c",
+    "4c2b7658777658f46fff043f866bf99a9e2ca396b50f1f1edcc5719c09a4b9d3",
+    "c2b83608186fbf5a4c25a23977c758e24a7c45998afd8bb5f85f8039380e440d",
+    "cac00451c510133458de6d7ffce620357440f29ce305c4225cc50c587ff3512a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Barron's",
-      "title_en": "HPE Stock Drops After Earnings Beat. Here’s Why.",
-      "title_ko": "HPE 주식은 실적이 저조한 후 하락합니다. 이유는 다음과 같습니다",
-      "url": "https://www.barrons.com/articles/hewlett-packard-enterprise-earnings-stock-price-c260452f",
-      "ts": 1795477235
-    },
-    {
-      "source": "전자신문",
-      "title_en": "일론 머스크 xAI, 자체 모델 부진에 GPU 임대사업 확대",
-      "title_ko": "일론 머스크 xAI, 자체 모델 부진에 GPU 임대사업 확대",
-      "url": "https://www.etnews.com/20261124000024",
-      "ts": 1795477238
-    },
     {
       "source": "Benzinga",
       "title_en": "Scott Galloway: Anthropic 'Is Going to Win' the AI 'Capitals War' - Anthropic (NASDAQ:ANT)",
@@ -11504,6 +11490,20 @@
       "title_ko": "트럼프, 보잉-중국 대규모 거래 예고 - 보잉(NYSE:BA)",
       "url": "https://www.benzinga.com/news/politics/26/11/63570097/trump-teases-massive-boeing-china-deal-king-of-selling-boeings",
       "ts": 1795516600
+    },
+    {
+      "source": "뉴시스",
+      "title_en": "[올댓차이나] 홍콩 증시, 美 대중 규제·금리인상 경계에 엿새째 속락…H주 1%↓",
+      "title_ko": "[올댓차이나] 홍콩 증시, 美 대중 규제·금리인상 경계에 엿새째 속락…H주 1%↓",
+      "url": "https://www.newsis.com/view/NISX20261124_0003881736",
+      "ts": 1795516622
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "俄罗斯发射“进步MS-36”货运飞船",
+      "title_ko": "러시아, 화물 우주선 '프로그레스 MS-36' 발사",
+      "url": "https://wallstreetcn.com/livenews/3204944",
+      "ts": 1795516764
     }
   ]
 }
