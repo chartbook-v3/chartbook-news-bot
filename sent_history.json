@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795545866,
+  "updated_at": 1795546018,
   "id_hashes": [
-    "9d296d7676f3729f961904425aec5d90ecff401f2c29e8c54ea5516eb97cdb37",
-    "9b84da5b42390e748868cce724e201b3a95ee6949bd8ba2f79ee254fa95204d4",
-    "e1fefc1fe027ff3b7b933158278da22977c3708cb64dd522837fccac175ff5e8",
-    "22185c78eadc1afc75ced31a7b3e6bdb37e975bff2aae2fa1dc459f9db45f88d",
     "f2bd39acedd99eff29c5186b641346392c7389be7cfd7527b5960fd6d2887e73",
     "bb0d26b17ccd6ab4e4b226021b409b6c78d2e66eefa13a84c17522f20826f8a4",
     "9d359041eea66eb05891f4c240c947e40a0c54c209c37f0a03ecc27f6f001649",
@@ -4000,13 +3996,13 @@
     "cbbdb6b95f406347023c6425752d65b51c66bcf7cd28fd281b391900f532e72f",
     "71a1120a1f8b9fe1f1dc209103410d1cd1a1d29243e99d07e905f1e9218a0416",
     "2f1f53f1e65f86d4f8f6c91bcc1b7f0644a507b2c77e914af6638b04231a7632",
-    "652cfdbc405f960f2681e0701fe21f51ce5bf9854cff29e11df3cb73f4aeb632"
+    "652cfdbc405f960f2681e0701fe21f51ce5bf9854cff29e11df3cb73f4aeb632",
+    "978cdaacdd8fcbf744c70d5afcc385550169cde8875404c858cf21dd33c6e7f0",
+    "dece75739a36a83bb50af8e7db22d691300a1d90c16877e66519eff25362751e",
+    "50264559f61f5bfb87463fdb890c1dbfc79d5d0d7f7847fd046e569d8715b3cc",
+    "ac1fa73bf2673c184a81871626bac9138ee25c30a9f86394dade93533b4ad920"
   ],
   "title_hashes": [
-    "ed7af18dc4117018e3f631afa53a1457b8104951f32e7398238109c860bbc7ef",
-    "38d59884b2d062884c75df064da19263762f1c30fb13d6afdc4b3d6567eaccec",
-    "6354951a3cd2d576cd436ada57c822c8fc2248b79a646c4a72f54ee201ebda6d",
-    "f1293d54b837d1661c80dcbe25603d56fbf76b2be224a2f93f806ffe7f0551fb",
     "a3c07253c48d9a4c779283cbc539f52e242c374a7f965de14d053340e439c7ce",
     "a17084e53652ac30176c5528a0da81fba3ca44db09105361b05805074ceafaf5",
     "f2c6f475bb6ca7586b05aeabac804c4d11585bc2f484d7ac12ff0111b5dedb99",
@@ -8002,23 +7998,13 @@
     "9fea43b0064955befd8cfd9fce6e6228a8c929f2d3c2b119cb472fcdfcdc84a5",
     "4976a48a2f5a9d5556c1e4d9849094c9800a42de13f8f7ee54f29fbebfad2e16",
     "715f7ab1a6b95496d00f24e3052061d4933eacf174431fb128d9720012315add",
-    "28a2d5254a04312ba28b2bb9e6c6c49e861ce1f03564f723116d63412d2d7623"
+    "28a2d5254a04312ba28b2bb9e6c6c49e861ce1f03564f723116d63412d2d7623",
+    "3404ad2b4a8b9096981496dffbd0ddaf99b2217839e25fe8505159abb589536e",
+    "c725724db5042f853b0ec4e5ca2abcff759d3cd5a1ae218d34409cb1db808854",
+    "eaf7258094dbed8b9b90b3c1646ca0bb521a0a877d8d6a708e8e2fdf90c0ca6d",
+    "03ab26d8e5c3ebc1ce7c083b42c8b2e6cf6b710b938d0be040690dd6ff5b0cc3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "FITCH: GLOBAL SOVEREIGNS 'NEUTRAL' OUTLOOK FOR 2027 REFLECTS EXPECTATION OF FLAT WORLD GDP GROWTH, EASING OF INFLATIONARY PRESSURES EMERGED IN 2H26",
-      "title_ko": "피치: 2027년 글로벌 소버린의 '중립' 전망은 평평한 세계 GDP 성장에 대한 기대와 2H26에 나타난 인플레이션 압력 완화를 반영합니다",
-      "url": "https://t.me/marketfeed/1084460",
-      "ts": 1795521456
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "伊朗称当天第四艘油轮在霍尔木兹海峡触雷爆炸",
-      "title_ko": "이란 \"호르무즈 해협서 당일 네 번째 유조선 기뢰 폭발 발생\"",
-      "url": "https://wallstreetcn.com/livenews/3205015",
-      "ts": 1795521613
-    },
     {
       "source": "뉴스1",
       "title_en": "\"트럼프, 마오쩌둥이 되고 있다\"…젠슨 황 복귀 개입에 시끌",
@@ -11504,6 +11490,20 @@
       "title_ko": "엔비디아가 AI 거래를 부활시켰지만 투자자들은 여전히 ​​헤지해야 할 이유가 있다",
       "url": "https://www.cnbc.com/2026/11/24/ai-trade-nvidia-rally-defensive-stocks.html",
       "ts": 1795545802
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Tech Slides as Nvidia, AI Risks Take Center Stage",
+      "title_ko": "Nvidia, AI 위험이 중심이 되는 기술 슬라이드",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/bloomberg-tech-11-24-2026-video",
+      "ts": 1795545952
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "德国支持业界设立原材料贸易公司的计划",
+      "title_ko": "독일은 원자재 무역 회사 설립을 위한 산업 계획을 지원합니다",
+      "url": "https://wallstreetcn.com/livenews/3205185",
+      "ts": 1795546017
     }
   ]
 }
