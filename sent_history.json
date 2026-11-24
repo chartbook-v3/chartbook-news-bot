@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795548197,
+  "updated_at": 1795548357,
   "id_hashes": [
-    "a7aa385f5af3cdd8da2ecd34eac170b98ac2c23a5bb2f1b80645c4e1976d994e",
-    "423c7b916aa782530ca4d77508d013337576de652c2a04e4fc597f00403da993",
-    "c968c15081d73afca3b808659aa857ab5fd93582b6094061bf55c355b11c2d8f",
-    "2d3f54e624108c2be06dbe455f75aec8502441cf6118316f5201a1f207f380ae",
-    "4fee9b95735ef6e4a3728f8a25081b046450732c41639ec9bd5241520f13b92e",
-    "9116fb255cca6524b959378f6e29294cf8b899538ca5160c65b145648c5b3ab6",
-    "75c207b41b7d7fb82f571dbfe937de586121ad65595607971bf921213b81ba73",
-    "5f5319457b7af1b4177f03f6e75f2957b00061a9cf5229b76158e73932d23e5e",
-    "00229db109e17bde11c34236845a0a3c0ddd65b99184ef74f6bee377deee707b",
-    "956dc364a094224a5417fc6a5f98bf312f21a69a44fe2cef6752141812dc4419",
-    "9ab98ab3f378ca59fe697a1a2b741cea47f8a5737f8534eed3da1c388cb55312",
-    "19e81eda6289668d542542b17eaf73c6198b21e8e49246968de3caa164a26497",
-    "459097b60bf31b62d364c60f32c798d848336a5bc5feeac9a12c30c976a8f7c4",
-    "7e694d1f290dbaaf10fe270583a04cf6c9b2106aa11aaba55e4eb2adce8dd9a4",
     "a42939f9c26f023ae051feff3838ece6086b2b7961c500f2a3fd98cc1f73761c",
     "09f4b0c407d8f180e3972de0a87e62a154ab1e5d916a925424f05db05385ab51",
     "193d20b0427871cbb93c7799a1de0267cd81239bf0c49a7c9ffb0a276c981079",
@@ -4000,23 +3986,23 @@
     "98fdfa49ea6b625c19a9220eb13e3df51a63952b9809e0420e46e40ac615e953",
     "c79d386ec1b6945a3526701ab9a7b4364dffd6b84f8e49963f611a540dd39a29",
     "7764fe36fb2debdebaa3ee46d7ff2c94218a0461aff6a28c6cdd4c04ad4e52d3",
-    "fb6eca75ed77ff9e060b1edca7dddf2ae4732cc4c476f3f615091b50feb1e832"
+    "fb6eca75ed77ff9e060b1edca7dddf2ae4732cc4c476f3f615091b50feb1e832",
+    "469ef50debe5867b7bc76ff895b0457b66ab473566647b5b5f2e53442ae4f639",
+    "e64feffbc09444edaf664bea90d92a0d41b2d74afdbe1ea550dde7cebcbdcbfd",
+    "774a163e1af40c038e07c7710c855c2af47247f939bf17dfb2716c9a9aabeb08",
+    "7d3082f2a14eb011b5c5bd1ec4419dee2940cb813921c19659a296fc2d3c0ed6",
+    "b930e6d64da7e60329a7452252e905bb7b0629901ddd23111412dad1aeec1569",
+    "dc1c237067e1dc38b3a7f0f0dcc1e087210a76a8201c772e2d38448f951c0b8a",
+    "b361042d94cf2000dc2ba41cf4b6dfda80e6793cd3046155bfe221ba865f713a",
+    "58783c2cad44c976f79d1e06586044bb968f2c0df7b17f8bceedc204347947ad",
+    "ad9886c55d203086fcf8a79a95b528b2487f8b957941978e4aa48d66a9ae42cb",
+    "9060b39b4538e9948ba4f9aad59d11adba22ac041c0e6f5db77d7330c45f1146",
+    "af3d38de98dc94d9dd36bd48a49d8636d3b93aad6a62608194d0b04aee38f609",
+    "07f694661e7dff4cc15a8cd69533090d1833c969767d4e32f1b1cff511e4c8c9",
+    "49f06fef826450084a44183cbd7daceee947eb2caff5c0ce7fdb2657bc545435",
+    "4a76fa5fe379a034cddaf7d67aabe00ccc6b8c045a0666f48552e7518e3f57e3"
   ],
   "title_hashes": [
-    "4283d6b106237fe16f37ca88d3031f58582141d636a44cf0e77379eaf5725de5",
-    "0931a79c3b8b52599c5ee3620319a218f432e5fd74c46390866fec1223a6a037",
-    "105093b4154955b42473a49949a91762bd804f596b364949187f07266685ae78",
-    "5e180e4d4fa47a03c3989534b76d173ebe464e299b2944e5fff52b834f5476c5",
-    "d6a9fba82c718de49930b1b7d2ffe6128dcaed4593103adc9658b6cd17d9bd86",
-    "644b0a4ac414808bc48fc1c3dccea470da96a946c0a46b0a4d1dab39fa4c4338",
-    "0dd9321bc691ae2de8761ff7dfc5ac594c0bb66a6bf04dd6371af93599018a67",
-    "30e4b9ee5d712f8b03b84dbfc202ae9c9dba6f5689cf5ede5ab369f5ada637f9",
-    "6aaad23966bab75c81b982b6d860e936d4335598ee41265689e17c7dad74d4ee",
-    "0e22ca54b52e7a462f62f35aabbb9e7e773839254d5074c307167c9bd09bbff0",
-    "1fc63fd806947e47518ae97bf89132f206ccde60c92acc93bf2f6cfe0e654124",
-    "9d9ed63ae08e1fc4fb3cf72f74fcdccad830ef2990f2508f1cae61ca57065396",
-    "ad61cf9c76f2c615dbba9efc5f9604766bbb0de9345353bc4340503cf6d355c2",
-    "2ac18df09e44b9e67af06f53a63ffa6e02038ef066ff452c632cc617466fa73b",
     "f27450888ab17157d2713b3c67a3f2f3e459fc68af5a47a6157d95133a8dc9c6",
     "32c1416f1eea602debc561d4d9fc662c9f5fc3ff6f92d602d1e4dbd99747258a",
     "0a8c6922635947884467f9f69f676ecf4899e8961e78dac77f330d8c53928100",
@@ -8002,37 +7988,23 @@
     "1572579fbc00843d5de14379fe2105dd997aa810820274cbbfce53f064c68ea9",
     "492c17e7dc543e9119475952c938a863bd093ad3adf036ace0e9381c9dbe413e",
     "16a41e417c77ecd7e75c5922803b3e804114adce4232fd73e30225ca39659a6a",
-    "a5d508165b6b86f801759cc075cc4426fdbc5cba971c823dddd2ca2089f79326"
+    "a5d508165b6b86f801759cc075cc4426fdbc5cba971c823dddd2ca2089f79326",
+    "c9ba23f26a634da4a17a8651ec779abe440b247b2c91e7c036638ff1c214b858",
+    "5a074f42616e804439337453f73edb7130319014a93d764a560b96943941dbbb",
+    "3f800cea69e9df10d5d893d6d1e78d5ef0376f5a970b3a8e6df9eb069cb70d0c",
+    "774ab0d59c50e60b507c01520ff73e5c43e9a248323b8f200af441811120e812",
+    "c49be052273aa412760e1c1837528710b9d712a171959b23fb781e574507b28c",
+    "8c22bb7e642be7d008ba11bfa675536447e62c89e749c7ee87d5689329a6340e",
+    "2fc4c7987aef763ad7da0d9e06aac73d581f1ba5813660483c6006c8bf4bd429",
+    "ab704d967ee6756713f039849e41f37f6919b606cb75e28b1380d42d36da70e9",
+    "12103e14b4fc383f0158f52f56d0b9f97fb6df36a611ff8681c74fa25f0eb759",
+    "d1bbbb70abb0da7cde6e7db9c1426a1b51735be5b72011778aecd9dc534849e2",
+    "715b0ea992aebceb411335ca3142f327f5804666a01ed27575c7a5d325936bfc",
+    "5edc14f6c0c4e9e84c1d657b97c62efc01cc841c6ade72922a86cd6eae1ff994",
+    "503674191d44e23c9eb38b505cab4e1abc4886df6441d27d023c24bb371d05c5",
+    "0a1183c7fb41a2833e89a3e5bade7d7c29cb1161f436d3ce1acc0e65a9ea4544"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "阿里健康上半年营收182.3亿元人民币，同比增长9.2%，预估179.5亿元人民币。\n\n上半年净利润11.1亿元人民币，同比下降12%。\n\n上半年毛利率23.2％，上年同期25.1％，预估24.6％。",
-      "title_ko": "알리바바헬스의 올 상반기 매출은 182억3000만 위안으로 전년 동기 대비 9.2% 증가해 179억5000만 위안으로 추산된다. 상반기 순이익은 11억1천만 위안으로 전년 동기 대비 12% 감소했다. 상반기 매출총이익률은 23.2%로 전년 동기 25.1%, 예상 24.6%를 기록했다",
-      "url": "https://wallstreetcn.com/livenews/3205020",
-      "ts": 1795522445
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Medtronic in Charts: Revenue growth moderates across all three segments in Q2",
-      "title_ko": "차트에 나타난 메드트로닉: 2분기 세 부문 모두에서 매출 성장이 둔화되었습니다",
-      "url": "https://seekingalpha.com/news/4676085-medtronic-in-charts-revenue-growth-moderates-across-all-three-segments-in-q2?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795522474
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Earnings Snapshot: Medtronic posts mixed FQ2 results; reaffirms FY27 outlook despite MiniMed separation",
-      "title_ko": "수익 스냅샷: Medtronic은 엇갈린 FQ2 결과를 게시합니다. MiniMed 분리에도 불구하고 FY27 전망 재확인",
-      "url": "https://seekingalpha.com/news/4676084-earnings-snapshot-medtronic-posts-mixed-q2-results-reaffirms-fy27-outlook-despite-minimed-separation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795522482
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "MI5 Warns UK Defense CEOs They’re at Risk of Attack by Russia",
-      "title_ko": "MI5, 영국 국방장관에게 러시아 공격 위험 경고",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/mi5-warns-uk-defense-ceos-they-re-at-risk-of-attack-by-russia",
-      "ts": 1795522603
-    },
     {
       "source": "핀포인트뉴스",
       "title_en": "한화자산운용, '글로벌AI병목인프라액티브' ETF 상장...전력·냉각·광통신 투자",
@@ -11504,6 +11476,34 @@
       "title_ko": "AQR의 세금 감면 전략으로 베센트 단속 위협에 도전",
       "url": "https://www.bloomberg.com/news/articles/2026-11-24/aqr-s-tax-cutting-holy-grail-defies-easy-bessent-crackdown",
       "ts": 1795548043
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say",
+      "title_ko": "트럼프 행정부, 과잉 생산 조사 후 신규 관세 부과 발표 예정",
+      "url": "https://www.reuters.com/world/us/trump-administration-set-unveil-new-tariffs-after-probe-on-excess-factory-2026-11-24/",
+      "ts": 1795548348
+    },
+    {
+      "source": "Microsoft Flight Simulator",
+      "title_en": "Microsoft Flight Simulator Announces a Marketplace Exclusive: The iniBuilds Global Jet",
+      "title_ko": "Microsoft Flight Simulator, 독점 마켓플레이스 발표: iniBuilds Global Jet",
+      "url": "https://flightsimulator.com/inibuilds-global-jet",
+      "ts": 1795548352
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "美법무장관, '젠슨 황 수사했나' 질문에 \"뭘 위해서?\"…엔비디아 감싸기",
+      "title_ko": "美법무장관, '젠슨 황 수사했나' 질문에 \"뭘 위해서?\"…엔비디아 감싸기",
+      "url": "https://www.news1.kr/world/usa-canada/6364906",
+      "ts": 1795548354
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Dick's projects $11.45-$12.30 FY2026 non-GAAP EPS while raising Dick's comps to 3.3%-4%",
+      "title_ko": "Dick은 2026 회계연도 비GAAP EPS를 11.45-12.30달러로 예상하고 Dick의 구성을 3.3%-4%로 높입니다",
+      "url": "https://seekingalpha.com/news/4676328-dicks-projects-11_45-12_30-fy2026-non-gaap-eps-while-raising-dicks-comps-to-3_3-percentminus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795548356
     }
   ]
 }
