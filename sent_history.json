@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795550054,
+  "updated_at": 1795550209,
   "id_hashes": [
-    "c4609dc019263bad9bcefa5b0328c3541b6ceed9edf77c6d91f98fcd93dffc62",
-    "0accdbbc8db972738ca172c1ffa18579c423c762ef5e70fc456c392eae87aa0d",
-    "b43d07b8b206a4ebd09dc7a1e893cec95c48d1b8e61f1bbc48b25a1e541e6934",
-    "9d66cd2d27b4ddaffa34aefe2bf639d2dd507eb4fd64281ede537f166940963c",
-    "3f2a26d3f4678589e2830f1b9a8fc460afae441cef01ef7ac2204486c3458da1",
     "fbcf3072cc6e593a6b90f17bcc47d2926d32882d1063f776fa56fc28921dc5c0",
     "2d36adae8c28d45168915093367043e6d888701f7d24cd20db959be7063c5b2a",
     "7860664c71d23c2ed0cf6be1e660e69c63f727ab69983f332349e4004f38816a",
@@ -4000,16 +3995,14 @@
     "3d40e0d0f055a26a608bdf29a6616a875e8fa844d49a2e16ce5d1613f4459bf6",
     "1bffc4e7d9813254b61a7509b86db620576d9b4b89f4155908c16c5cb2db76d1",
     "fe69bdd7aa327eeefc50e33b1e0fdf69a6a6886c5d21b6ae9c3cf74ddb13a715",
-    "5864380ef135b9ddabf4f33ad12fba96bd787eef4aa67d3f8f83d5db0cd2c66e"
+    "5864380ef135b9ddabf4f33ad12fba96bd787eef4aa67d3f8f83d5db0cd2c66e",
+    "69cbc364ea4c688848f40c9707f31ad170f7c76b9e4d7132954c5781b1f4fb34",
+    "8d0d0fc3db7d81bb6b6d61bad2d3a6b128bd8963ed505c3f7883dae117f4b6c8",
+    "2bb1df0cee966e7045655c5d39ef7f486b6342dc1b856ec4e888adca48bd3dc4",
+    "bc9a7d05e45650028b5127a388f1c17024097245b4bec213d7c948274ced74f3",
+    "e1c8cfbf08c7174b491e1fb705423de69f268c74e46ed887c7649e0a97b60770"
   ],
   "title_hashes": [
-    "f06a9b3b7cf66e9ad48fff38315dcdefb5a2690d5adb67cb7dbf72b81df63ce7",
-    "d7c24e7c7f362440fae85f65d6f9f4a46d763bcd1e4f236c87147adf4040d894",
-    "3e31f328642afff85928fbcc9e35fd29f54e083a2065823cb70c4049ab65ce05",
-    "d74e3ca83cb439aa63d75e25b051a5acbd111c8396b338dcdf5aea5c3c20a767",
-    "4b30638e855cd9873785c338debcb39a60a2eb40db341e8c83b68a9b7dc7d46b",
-    "86e5d6b49bd5b1873592cd7246f9aa66e83e52aa12596e74e9bc46b90a10dd48",
-    "a492c4a827c4c37aa61253ba18b778aa0a2715f1260a5a2ade0cec9c776a6a83",
     "dc72fa22fd432a9fe4b0ab5dfb0c01327d422e835aed3f9ba0f8b6e439203d4d",
     "ea139dc3616c4386ba4bc05241bdc4c315979cf2a0895d865eb79da6f08f297c",
     "64fb81d7be23ba5c89ac1a70d122ca82dfc3c10db3bfbd13c2bc24b1899efb09",
@@ -8002,16 +7995,16 @@
     "213693b6fe7d041cb445d9fa635988381d0506f99894067eba9c37b0c87985e3",
     "5331553b572a17c8fa13256f10717ed50e90a5bdf671b6b864cbc4d914a455d2",
     "43968fe36ded184237f1ad84356c8273107a0be769d6048d7d42ecf12b5b46c2",
-    "139b600539f25202a5324f5db5c02e23b6b085470540a9b8a6908a7142492f73"
+    "139b600539f25202a5324f5db5c02e23b6b085470540a9b8a6908a7142492f73",
+    "b106439a7e3cf363fa0bd5e7e55b95565a7f63fd4f556861ca3784fac773d4ec",
+    "70db86229ee92705546d9e13b5bea2328a70c59d7ef1dae2d38263b5fdf0502f",
+    "4c7fdb748be5c0a84cf84a27fd956577578616f94f0554caf46130a8567bc839",
+    "780815e5dd9737aeeaa48cc4d837d290dccd5d66f286cd20d8bb1d9cd42bcc1e",
+    "7314e186fe32c807e5b75cc946fd7a123b9ab1b9c7d949a163b2bb8e1c993f0d",
+    "8f7f0041cf110f2368d5798f5a193b043d1f33c321ffe1611db87df2abddf1ff",
+    "ff60ded2d4bf5f7630fffe0b1dc985cd3f86ef90984a4190d4ec999cf70b9ac5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Barron's",
-      "title_en": "What Dycom Earnings Tell Us About AI Growth",
-      "title_ko": "Dycom 수익이 AI 성장에 대해 알려주는 것",
-      "url": "https://www.barrons.com/articles/dycom-earnings-stock-price-6b5b94d8",
-      "ts": 1795523891
-    },
     {
       "source": "CNBC",
       "title_en": "Stocks making the biggest moves premarket: Nvidia, Anthropic, Best Buy & more",
@@ -11504,6 +11497,13 @@
       "title_ko": "베스트바이, 연간 실적 전망 상향…챗GPT·제미나이 쇼핑 기능 도입",
       "url": "https://www.benzinga.com/markets/earnings/26/11/63603052/best-buy-raises-annual-outlook-enables-shopping-through-chatgpt-and-gemini",
       "ts": 1795550053
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "DEMOCRAT FLIPS TENNESSEE HOUSE SEAT IN ONE OF BIGGEST 2026 UPSETS",
+      "title_ko": "민주당은 2026년 가장 큰 혼란 중 하나에서 테네시 하원의석을 뒤집습니다",
+      "url": "https://t.me/marketfeed/1084774",
+      "ts": 1795550208
     }
   ]
 }
