@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795545719,
+  "updated_at": 1795545866,
   "id_hashes": [
-    "c12bae240ab8461734566373a917565caf9ebc60c46ad488a328515158b57bcd",
-    "7d55064bb7c77ec9c1b2bebdfcfd1dbcec8239187b1d19ba384a2f49daa0182a",
-    "2b57c7eeabdf8f5366c12015762310383fd143031d290a4f6a821fa45f9c6e3b",
-    "c7257957fa9a8d9d58b3e636f9659a9e93f9f02efe8c0d36fdd0fe4383ddcc8a",
-    "321fcf497d3738ee04b5d75ae01200a22d7edc4b923618c22b12b2d4387843a8",
     "9d296d7676f3729f961904425aec5d90ecff401f2c29e8c54ea5516eb97cdb37",
     "9b84da5b42390e748868cce724e201b3a95ee6949bd8ba2f79ee254fa95204d4",
     "e1fefc1fe027ff3b7b933158278da22977c3708cb64dd522837fccac175ff5e8",
@@ -4000,14 +3995,14 @@
     "058f23106b5ffbacb87533e64b2d4b7a03425d7c7b8cc1fa666300d3cf664205",
     "f9ea7cae976f24acc19ea88fe763b4d90e9e6356dfb38ff996f3ec92f8941a46",
     "26981d8635dc79f8b9be0f520738d9dba70daf14b09a42e656c73fbf43855efa",
-    "9c0cc0944c569875c3daf226616156d99f8516e7ae4a8f58c506512bbf402d42"
+    "9c0cc0944c569875c3daf226616156d99f8516e7ae4a8f58c506512bbf402d42",
+    "6bed472e7f8cb6c040df3835361486fe10ee8602540ab67e008afb7edb25f874",
+    "cbbdb6b95f406347023c6425752d65b51c66bcf7cd28fd281b391900f532e72f",
+    "71a1120a1f8b9fe1f1dc209103410d1cd1a1d29243e99d07e905f1e9218a0416",
+    "2f1f53f1e65f86d4f8f6c91bcc1b7f0644a507b2c77e914af6638b04231a7632",
+    "652cfdbc405f960f2681e0701fe21f51ce5bf9854cff29e11df3cb73f4aeb632"
   ],
   "title_hashes": [
-    "117e488b0b288fa00d967cc2d2da44c407965f8c580cafc88622bf72a6820d8b",
-    "3f44a5fbbb4e448729ae4c36f1caa87ce2fdf5492aaf5cb8ec218e039fd01139",
-    "148ce73c6406cb23143bed757ea5cc66026b052bf0c9ce475bf02cb5b64b3c78",
-    "116533f53da4f2adc6bebc5650962bb8c2ffda4f54c8f4e9ed29221f00689aa9",
-    "406dd2107b9136bca019107874eea06dc0797c441755e6d0702ac7f530580612",
     "ed7af18dc4117018e3f631afa53a1457b8104951f32e7398238109c860bbc7ef",
     "38d59884b2d062884c75df064da19263762f1c30fb13d6afdc4b3d6567eaccec",
     "6354951a3cd2d576cd436ada57c822c8fc2248b79a646c4a72f54ee201ebda6d",
@@ -8002,16 +7997,14 @@
     "2bea6bb65d893692d2b28884d754593904584d5a25c93035d7fe6a513e934557",
     "35f1e5eb3edbb486119e02bca6c1e476535a32b2df3342d31e977134dc1d68c5",
     "f98efa21e39f356497fc15af31355f34081e816e3219bc5841eb7d304ceede4f",
-    "d8650860a6a7f1b56c5f278b3144342c67cea7beec98fcd2e3a92da1eb909401"
+    "d8650860a6a7f1b56c5f278b3144342c67cea7beec98fcd2e3a92da1eb909401",
+    "2f74e3150e6bf54d10c9a55673fe3f8242193602e768714fdb150718bffa7442",
+    "9fea43b0064955befd8cfd9fce6e6228a8c929f2d3c2b119cb472fcdfcdc84a5",
+    "4976a48a2f5a9d5556c1e4d9849094c9800a42de13f8f7ee54f29fbebfad2e16",
+    "715f7ab1a6b95496d00f24e3052061d4933eacf174431fb128d9720012315add",
+    "28a2d5254a04312ba28b2bb9e6c6c49e861ce1f03564f723116d63412d2d7623"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "ETHEREUM FOUNDATION DOUBLES PROTOCOL SECURITY TEAM, CALLS AI A ‘MORE URGENT RISK’ THAN QUANTUM",
-      "title_ko": "ETHEREUM FOUNDATION은 프로토콜 보안 팀을 두 배로 늘리고 AI를 QUANTUM보다 '더 긴급한 위험'이라고 부릅니다",
-      "url": "https://t.me/marketfeed/1084459",
-      "ts": 1795521425
-    },
     {
       "source": "MarketFeed",
       "title_en": "FITCH: GLOBAL SOVEREIGNS 'NEUTRAL' OUTLOOK FOR 2027 REFLECTS EXPECTATION OF FLAT WORLD GDP GROWTH, EASING OF INFLATIONARY PRESSURES EMERGED IN 2H26",
@@ -11504,6 +11497,13 @@
       "title_ko": "Nvidia 매각으로 AI 인프라가 타격을 입으면서 Cipher Digital 주가가 11% 이상 급락",
       "url": "https://www.benzinga.com/markets/tech/26/11/63599116/cipher-digital-stock-plunges-over-11-as-nvidia-sell-off-hits-ai-infrastructure-plays",
       "ts": 1795545718
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Nvidia revived the AI trade, but investors still have reasons to hedge",
+      "title_ko": "엔비디아가 AI 거래를 부활시켰지만 투자자들은 여전히 ​​헤지해야 할 이유가 있다",
+      "url": "https://www.cnbc.com/2026/11/24/ai-trade-nvidia-rally-defensive-stocks.html",
+      "ts": 1795545802
     }
   ]
 }
