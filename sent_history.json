@@ -1,28 +1,6 @@
 {
-  "updated_at": 1795518374,
+  "updated_at": 1795518530,
   "id_hashes": [
-    "3f87b08a50d14d16ba8863cc81cae101755c73ae0f43b8ddd13d1027f9649b17",
-    "8c3ce3c41b06ca12af272ee87a8d256b036250b21185227adb34e4adf7331c04",
-    "2341e95ea7783336a05b0175a86d8f270c700d12e574f5fbea9754d84aab0e3c",
-    "10310d763cc16ca96e0e6eea6098ed317d88712415b1aff422debc31b6fcda7a",
-    "d30a430bf3754788608b54af13a86a7e3aefdd46afd0028899b7dc41a4d6aa07",
-    "a72dc3c8805e630223ca39ef9774d6a6d00f431e85a6954d417d82b64c1afd0a",
-    "8ef0382b14a822007c8911367e1538988746d53103d866bc94cb80abbae0d2f1",
-    "a6bbdef4c0f24606baf7fea581eb2265d07d8fbd4b02cca897428f601802d4f2",
-    "90878865fcea81e8b2bc4f70199a7ab921e8000f890f36e419d2825da67dc353",
-    "b9e29f8561ec4f07396ac313de60f5cbc3bb087e1da562200f767235ef4ab7e6",
-    "bc82e9d53d99dfcef86319542d40e9d9d9bf09a7894da7280f98908be2ecb2a6",
-    "42fee4afc9492e205feb08fa8a3d57247356d8bfefa20d4dbbadd4f95544d740",
-    "47364f6683fc5488eccf8d6b3217ce21698857141ffcb05d3c3ec86eaee3bc60",
-    "2348c564d64ee062410f451a6383b9d2f3e7b771cb3f63d2a366e28626556d6b",
-    "0d8f36af6aa850bb339f8bb6d916576cda8a041bf8a04d357c4096797b9c7b42",
-    "ebb854d7f74f79a31d91cf0be898b3f9d64f97c4ef107f9abd1474d886bf156b",
-    "64098df930d1e1b02a8f57f1073520d45dc8770070f38bbe9b97a541b582ea3f",
-    "e10aad2cb8cdd3b828850d40fd0af56a242efe5d11c12f05914dcf756a7f2d44",
-    "01ad1cc4c9da25f54b3fc214f8b005aee153ffaa9a652f29a5fdc60b88c5be23",
-    "7d4c1c863a338cbffc8f2cccaa1498f2fdd9c6fe4c404084d42bd2342881c1a3",
-    "ce4fad79d50b61fb611bd36f8df73dc0f1f4d3112d3aba9c45775d8a54f5d332",
-    "59498b14cc09b5f08ccea84888684b9a3db13de35b7b76a1702e161e65d15ad4",
     "a593ab380fa343a010433151a2474dacee05da5546877503e7545f6c1f9f468f",
     "e7ae0f2e010dcdd10676c866f5a33fc100c539cb544958447b474a25a25caade",
     "61aa54799d475180a28a4abce1f4e78a3efad4050ea931dc744a8e6d01e36ba3",
@@ -4000,29 +3978,31 @@
     "10f61c6d955c0c7d160a6fe977337847f101ef5298c814158e210cd28938ba0b",
     "6f998ae252d60077c54ca8e12bebda881f1b0538cf02e740916cabe843616cb1",
     "e35812da0e92a2b141769138f81cef81727df1a9cb43980343ad51ec98e9b6ad",
-    "121cd229af7a5cfbc283634a5cf1139475b9d1dfd61c4082eabac0ef16a99fbb"
+    "121cd229af7a5cfbc283634a5cf1139475b9d1dfd61c4082eabac0ef16a99fbb",
+    "b71e3040495a4d28b3ee3110620db439e25d6f2ee5784745e6c58e3d607bdfe8",
+    "ed6f2a6be68edbea54cf51f3ec37ebfb7b64f2273a6fcbadbfea1bbc727a1b1e",
+    "243a4442a4f0106df4d225e3cb700fe55589dbea364cb8d5f752b1be9cf20018",
+    "d97cd89ea97d979f64c0793530cfadbade7563b2923d8b329a8c2d87c67996b5",
+    "7ce15380ad80bfd240b8959637f3883ff6d87363ab3fbe0c404067de248fcdfa",
+    "cd84e84a1b16e7f92d728fe59a949f7081df973080f97c9519c756c791433785",
+    "3dc1fe91c1ef0cc72c73c1f0c8509bc835f3d697fe7d15417a25413694d862e1",
+    "cc00816f01b5ad92eb9ed0e897c7aa38815d16daab7d34b16bcd9b371722e4fb",
+    "6a9b8bb0b6908d7fa80d9a8306ad84eafe446c015b5bb775728a836e06553623",
+    "716b29ed68ad818138c93220d81f4c03625abf936f4fc9ff0fb304f9183d0dee",
+    "e5a07c5f767e9043b79f1e6a88c0e12ba23d78d94cea6832da36c414e73a26bf",
+    "015f4696479c131ac4e766deed18f45b4fe43db1ef26d71cb5d7405bea922157",
+    "fb1051008a1e4dfed3dce8a290551ca947943afd12958c3603c7f52ec821ada9",
+    "da1da3c06422594cd43904389353d3d61e77a0d6d22a9748a29cd5c5311d8965",
+    "a816fa5e9a4606c8a386a747329aaa9a3d42896c5c8b3fb7b8ca9b4c18fdb061",
+    "a9c26b6fd3fb16f00e9dd3e146dda8dc239cca005f37a31dc33766e9c88ba547",
+    "1246787ba2ff68a194ffcd15563bf9e0473a68d0a59f2e58621d452f91d92232",
+    "0d9ab60ac864fa62f3a7ed4d01db31b2403b4e2293eb465dd6bd10e001fbb5df",
+    "b6636310c5a9610fd913fd166d14ee5338d23fab5daa6b8b7dc56e6e7ee3d655",
+    "df3a884fdad7c371b41d710656350ef6ed13cdc1adedd1096b1c6fe1380a5be0",
+    "96c710f990ddea87824e8d5ce77b3f8f1cd626924eb7e330acc45a6796abcfaf",
+    "3a31b21cc1567cfe53c9359f1c2cd9f91d4094d06fa18854c2aa199d8962a476"
   ],
   "title_hashes": [
-    "3b1b6c6b435bfee10ba008f853ef4c11fc0d6e7da775552553cc83bff59f2c28",
-    "ad726ab230c8bca4a9467a283c430fffede68033f5b9b4dc13f4e67504475d71",
-    "d5403c573bb2ee031be8356aefe63e8c8bd5423febe8366791eecc79d2ca42d3",
-    "d4a9dd8d14f13a2467f2447874a3b902adb9982017a1f9f3568d850c2504fa0c",
-    "696db2b80305fb614a3cf60ffdf5885994fb1e9d580e2ba643633dbea32dedd4",
-    "7c7b13d935572a5632472666e6b3c165dc4d62ee64754220334e4dcb27d3cf50",
-    "05ae6728bc9799b6dbe63dc126f2379156b95c98c50a7b4fcd25afc8ae709519",
-    "9672eafe68a3fca849c6d2cde82da33a0dade46a7e3b946391de52068247f57c",
-    "d3034c1d5511c5abdc1a7b111fb21d5d41f0b4c8f344016eeb82e2e36bc471b1",
-    "9565a04e5bce9f296b0ef961e32b75acd527a1f650645850bfdb8093f63f586e",
-    "9ec4f681035c4842353510505b412f289f498963fc22f4f72bd4df29fe91ab20",
-    "0da414992faff14fdd699af3895e9364bacb661bb40c179904bd797c2c7e2a69",
-    "343a2fea78265598f6904039ed53c0de01bfc462d03551ad9bd07908a3ea3f24",
-    "2e1ca5ea749487fdf4e738873f0dcaf21423e3cdf379561abd5c33423ed06eb0",
-    "c76d0e8cf9ca37e6dfdea0315deaaa5bc2bc7eb82b36d85c5065efa2d747665e",
-    "621164d011d9ca9833a48892f57f0fb1a442e821c3a649cbe15ca31427132244",
-    "42358a04333be491cfb7a387e1c40fb418a28fce833ce47c889b7d4b3e774242",
-    "195258f4acf23aa3644ec34729b1ff0180109269cdd298e0d3d5259c16765135",
-    "c9dc093494522785c751e5772e2f735099c8d5fbb9fcee17ccc0c9802702b23e",
-    "8e7616c7c86ed92f3cf1e4d4b3b51afbc5b685baa18e7685c2393b251f6b80d7",
     "6c8eac9bdf2f61fba5047cba5344b0eeff004807b5e6169f94939d66eaf460dd",
     "1ff1d40b9fed61f7b788d1d04c71f35f0a4ab33f2bfcf59e51e2fec402482447",
     "7fcbce1d433dc510ec59802b5b586038e15b3dde6f4fe41cb59a672cfa5b1f7e",
@@ -8002,51 +7982,29 @@
     "31ed74f9019361ba9c06df70062f83c5d8109bef54f0f225209802c221c14683",
     "14336c4b4ecdf4fa47ef489d3a69db832fff38e3d2cb27f60b5f3e9ed5267ab6",
     "fbb3ad9ceed5f9bf487464f486197d2f483ee73688ed601eaaddf4eebb5c2b36",
-    "6c6c46d1022228648f55881f659ac7b12dd19e693b441660e83e7803d16d1594"
+    "6c6c46d1022228648f55881f659ac7b12dd19e693b441660e83e7803d16d1594",
+    "981a36acdbac8fe216db695b342d4e28d687cbb78f7ffc733aabbac688aa83bb",
+    "f49374349a73da81ff400f1787c529a7ffd716295cf8094b41b496a9ee3045f3",
+    "0a4d09b6c8977c5fc2943ac95a0540a18b289c6d6681f6bfba3193647c337635",
+    "06692be4b9057a38242a6bf3cc5643a2624aa0e893c1c36a74ab6b7ca83c64cd",
+    "89f67051d28b6d617460b0351540b9103699485bbcde72097069c06bf489158c",
+    "a7861c926e76d9d4ba51f10eb11a4bc93334f290210747eef73266bdc94c86e5",
+    "39563e2f3ef493fa29a0e75b4bc2cec9d0026c3d98c3ac6e0278bc3c1ef93883",
+    "00c37aebdf6d3eee20e359be5b90b0788733c71b60907e245f5ba683e4260b30",
+    "e510f788c647581b4fcd452e6bd5b2e1e4bf08ba34e2a443924f1dd11224a1bc",
+    "0dbfe3e3b3e192549be9032a5c2bf78e1a58a6713210661784cfd1039623f961",
+    "4e2cce6aadc297a139c19003df156cbf3ae2757a75207d3144584983d9771af5",
+    "9e1d875029b0ad73fa3ab0c66aa73f7680fc6128f61745cd30d9ec7198c368fd",
+    "a0cf325a222811d44f432ae99e3639990cfcc548a91ef8cf15724fb21cec5bd4",
+    "eb350dabc9b130f84dafe939c68e5b55aea678079ccd5d21603629c28e2d264c",
+    "543740f25a63e9e95f04809ab09f6c369961eff6ffc18f9b5fce6c3744c27f48",
+    "cced1a0624ad520fe5aaa6e09f51e16516c19ec07cd8ffe3e1161d5d077f1a00",
+    "c90a50e0dc16e00a896a92c399ccd7b43d39836d42a885860d5692d87ebaec41",
+    "e79e2664f75449ff18152ca7213a8f49d2f4a65f029d2e28cf7f6a5e2f42f759",
+    "201e4b82cb762c7496838508c83b8bbb8c5d1534a5b098717457f4f03f04e8f5",
+    "94e63718c879c02ff09ed15b31ef46d4aed68c37604fe6780c51e4fa4d36cbc9"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "10-YEAR JGB FUTURES RISE 0.18 POINT IN EARLY TRADING ON NOVEMBER 24",
-      "title_ko": "10년 JGB 선물은 11월 24일 조기 거래에서 0.18포인트 상승",
-      "url": "https://t.me/marketfeed/1084222",
-      "ts": 1795478559
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "[속보] 코스피, 3.64% 오른 4880.16 출발",
-      "title_ko": "[속보] 코스피, 3.64% 오른 4880.16 출발",
-      "url": "https://www.fnnews.com/news/202611240902091104",
-      "ts": 1795478619
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "\"트럼프 행정부, 韓·EU·호주 '디지털 규제' 겨냥 301조 조사 검토\"",
-      "title_ko": "\"트럼프 행정부, 韓·EU·호주 '디지털 규제' 겨냥 301조 조사 검토\"",
-      "url": "https://www.news1.kr/world/northeast-asia/6363620",
-      "ts": 1795478688
-    },
-    {
-      "source": "전기신문",
-      "title_en": "(김형중의 전기에너지 이야기) 작은 전력망이 모여 큰 전력망을 강하게 한다",
-      "title_ko": "(김형중의 전기에너지 이야기) 작은 전력망이 모여 큰 전력망을 강하게 한다",
-      "url": "https://www.electimes.com/news/articleView.html?idxno=375119",
-      "ts": 1795478691
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Anthropic IPO Mania, Friday's Market Crash and the Year's Biggest Rally: Inside Retail's Wild Ride",
-      "title_ko": "인류를 위한 IPO 열광, 금요일 시장 붕괴 및 올해 최대 랠리: 내부 소매업의 난폭한 질주",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63567136/anthropic-ipo-mania-fridays-market-crash-and-the-years-biggest-rally-inside-retails-wild-ride",
-      "ts": 1795478694
-    },
-    {
-      "source": "The Verge",
-      "title_en": "Google alternative Kagi launches an email service",
-      "title_ko": "Google 대안 Kagi, 이메일 서비스 출시",
-      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
-      "ts": 1795478697
-    },
     {
       "source": "WSJ",
       "title_en": "US EYES IRAN AS POSSIBLE CULPRIT IN DOZENS OF NEW CYBERATTACKS AGAINST SHIPS",
@@ -11504,6 +11462,48 @@
       "title_ko": "젠슨 황 퇴진 반대하며 퇴사한 엔비디아 엔지니어 \"성급했다\"…복귀 가능성 시사",
       "url": "https://www.tomshardware.com/tech-industry/nvidia-engineer-that-quit-in-response-to-jensen-huang-resignation-welcomes-ceo-back-i-may-have-moved-too-quickly-says-robotics-engineer-who-made-viral-post",
       "ts": 1795518373
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "금융위·경찰청 등 31개 기관 5460명 세종행 확정…1.6조 투입",
+      "title_ko": "금융위·경찰청 등 31개 기관 5460명 세종행 확정…1.6조 투입",
+      "url": "https://www.news1.kr/local/moi/6364812",
+      "ts": 1795518396
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "[ Z ]: ANSEM SAYS HIS WALLET HAS BEEN HACKED, BELIEVES HACKER HAS GAINED ACCESS TO HIS BULLPEN ACCOUNT: X",
+      "title_ko": "[속보] 안셈(Ansem) \"지갑 해킹 피해, 불펜(Bullpen) 계정 탈취 가능성\" 밝혀",
+      "url": "https://t.me/marketfeed/1084434",
+      "ts": 1795518399
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "WALLENBERG-BACKED STEEL STARTUP STEGRA IS SAID TO NEED $2B",
+      "title_ko": "발렌베리 가문 투자 철강 스타트업 스테그라, 20억 달러 자금 조달 추진",
+      "url": "https://t.me/marketfeed/1084435",
+      "ts": 1795518463
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "美国民主党参议员沃伦称，英伟达及黄仁勋仍未摆脱困境。（Politico）",
+      "title_ko": "워런 미 민주당 상원의원 \"엔비디아 및 젠슨 황, 여전히 위기 상황\"",
+      "url": "https://wallstreetcn.com/livenews/3204984",
+      "ts": 1795518467
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "독일 외무 \"트럼프, 젠슨 황 복귀 개입 충격적…자제해야\"",
+      "title_ko": "독일 외무 \"트럼프, 젠슨 황 복귀 개입 충격적…자제해야\"",
+      "url": "https://www.news1.kr/world/europe/6364821",
+      "ts": 1795518526
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BUY DOVISH, SELL HAWKISH. ON ECB DAY IT DID NOT WORK DAILY, BUT THE WIDER PATTERN HOLDS. IF CENTRAL BANKS KEEP HIKING ONLY ON THE ENERGY MOVE AND FORGET THE REST, THEY ARE IN A BIG MESS THREE TO SIX MONTHS OUT. THE RBA IS AT THE POINT WHERE OVERDOING IT NOW IS THE REAL RISK.",
+      "title_ko": "'비둘기 매수, 매파 매도' 전략, ECB 당일은 통하지 않았으나 큰 흐름은 유효…중앙은행들 에너지발 금리 인상만 고집하면 3-6개월 내 큰 위기 직면, 호주 중앙은행(RBA)은 과잉 긴축 리스크 임계점 도달",
+      "url": "https://t.me/marketfeed/1084437",
+      "ts": 1795518529
     }
   ]
 }
