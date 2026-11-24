@@ -1,7 +1,6 @@
 {
-  "updated_at": 1795557242,
+  "updated_at": 1795557422,
   "id_hashes": [
-    "f94b0b9dbaac5b19c150e79f4b79979b5b375987ce2447e63b954994cbd8318a",
     "64cbf4005ef35739b08d1899826c96842f5261ce1f1105d911717295a8455e1f",
     "2104bc39bd111925f1a61313858fd94216273efbe0152c87e53b06bf14223896",
     "192639e1980474ca7a83cbc06f68cd50e9f84bd7c573d30aced0ec0bcfe12802",
@@ -4000,10 +3999,10 @@
     "eb96ecfe76eae58ee2b72a54ae6ef96dad616365bc1b7f9184de93005ef8e686",
     "a9f01e9aa6f2bfcba936bd3223d43d8b67863641ee798bb025e55321ecf37c1d",
     "7971b78e24813b2f3a807e214ed323d5f56bfee463229c212b7a76d8806b7885",
-    "bab75eeb60b932d686a0d2236068b5cb733c4b88d48590c1ac4e1f55a554e766"
+    "bab75eeb60b932d686a0d2236068b5cb733c4b88d48590c1ac4e1f55a554e766",
+    "f02a5a984eeb541f35697f4ef7fa18e9c50d1d44c25afb980a81ed71de0c7555"
   ],
   "title_hashes": [
-    "0eb3fdf31743f98dd0690c863d866d1847c4e4380736ab913bed72729a25874f",
     "3e024a7a83d8694d84393c1452277026c4584132395dc8684d9beb997f630af6",
     "e4169b90797acaf5806932a661deacc3c275215f7bf3b9775439561280ffb51c",
     "c3e065462a35ef62a664d60d5ff748c5060dfec185cde3398af5efd112269339",
@@ -8002,16 +8001,10 @@
     "6897313b8c2aa563f58df336f5cc7c4dda86163a12cfd79958200b2c41764209",
     "57c8cd3cfff7dff63f6a9d925289242f9cc302b0d394c1c6feabf981ce8b9842",
     "da4a442aa371fcc7b8b2fbcd18015df586932e30b50f97ef53d8cad3c1b684f9",
-    "e39c7284d0f37a0c54fbbdfbdd4e142e3ab4b413b08ab391a3b3cf89f291d6b9"
+    "e39c7284d0f37a0c54fbbdfbdd4e142e3ab4b413b08ab391a3b3cf89f291d6b9",
+    "0a4f04edd4742ce6c9ae5037da2879a39c1b61abe1b04313d56530bc9b8b9296"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "HPE Tumbles Despite Earnings Beat — CEO Warns of 'Significantly Supply-Constrained Environment'",
-      "title_ko": "HPE, 실적 저조에도 불구하고 하락 - CEO, '상당히 공급이 제한된 환경' 경고",
-      "url": "https://www.benzinga.com/markets/earnings/26/11/63575777/hpe-tumbles-despite-earnings-beat-ceo-warns-of-significantly-supply-constrained-environment",
-      "ts": 1795528815
-    },
     {
       "source": "뉴스1",
       "title_en": "\"美USTR, 韓포함 16개국 과잉생산·보조금 조사결과 이번주 발표\"",
@@ -11504,6 +11497,13 @@
       "title_ko": "전체 회의에서 Jensen Huang은 백악관에 감사하며 치료 중이라고 전해",
       "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
       "ts": 1795557241
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "WTI trades below settlement as API reports small U.S. crude build",
+      "title_ko": "API가 미국산 원유 증가량을 보고하면서 WTI는 정산 이하로 거래됨",
+      "url": "https://seekingalpha.com/news/4676399-wti-trades-below-settlement-as-api-reports-small-u-s-crude-build?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795557421
     }
   ]
 }
