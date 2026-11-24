@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795519328,
+  "updated_at": 1795519512,
   "id_hashes": [
-    "d244da908f60f7b498c86f9152fbad9f6fa7d59573f554b69bcaeb97d6c58302",
-    "cf397b8938906727d2338622cf48857431577797e95ac31bb944c0c5bfb5c7e9",
-    "f24df916e7f682273c96125751bffcca9b5f288168e1c076d66cc3fbeb67807d",
-    "0c692b6bd78abf3dd36fa066e1746d33b1b48543b919152be2ea0ce28e43467e",
-    "181bcfff248be2678bc0bb0e9bdfaf8a00830b162957d6d88b31636df35b8841",
-    "f8427eb936feb4951533fc13052e497746fe11eac45a7a62f3c82959e8e5fb7d",
-    "ab718111774d41bb64e6c2f8a305cc76a36bad9b43feb7bbe0fc41005ff462ba",
-    "0208885be3e9a5359768bc7921976f0d05a639ccd680390fe6699dc30178221b",
-    "6a10c8fc8b7d88f2bb6994343fdf3ad66b0438f250bedeecc04214e21df27208",
-    "7c98f8fdd9c9225b497df5f2b3026ddcb0ca79b5c8ea57f8c849e42c3f7c7c9a",
-    "56dc0ee7ce6c4619f7af9d3fff345bb69f7cceae12ff2f02569accabc31b811b",
-    "b5aa0fe2628bb14c33612beda994735a498c34323e74160ebc882cacd2dec1ad",
-    "e0871c5f3ced4113a4396f99e81ed1622fc4a350c62fe296fdd614e74267a0d8",
     "16dae4a51db1d581c65b1fefd7b0f22f6b7c09e0f46e84e72035e0774a03045f",
     "332f8e7a3e212568c4ee2662d60c3a681032b6b7cfa04e8d7421a53f5d082381",
     "011387653437d039fec89d4d6ff0d7a4bd5f7e18d1077489d23c011948e27ef3",
@@ -4000,20 +3987,22 @@
     "5740af72f1377f731f6009653561b8e36a907b481204a483c9c0f0345c94b955",
     "1bafde910989860b25b110dce2c75654c366c9bfed8938357ec82fc1742e55c5",
     "5f27ac2f6df15ec6013ab8e0dad7281208ccdd12680c8f6987a02ed749a409db",
-    "ee97bdca5e65d974807586e9715c168d034023b5e1abbd36a6ee1f737c648473"
+    "ee97bdca5e65d974807586e9715c168d034023b5e1abbd36a6ee1f737c648473",
+    "b4697ba4a1eb2e5b2d882c7fc7dae409e22a0f56bcd946d64fc7c0f0a97d43ae",
+    "888759b58d75719695ac138004fb3e684591035bd6f95b765b28bdac5ec399a5",
+    "2fdc80a910be2abdacfbd001793863799fdc255895602d36ee5034a502e4423a",
+    "d3d24764d3bc3262590efca218849bd641e6f7309e6205f9098e2e10f733158e",
+    "bec973d30e133649a8a9442409135c0777a6c9f5246911622b9a9625b9278b02",
+    "174cd3ed24848ffe4fb410d70b3cc3a4f64d7aea5c0431ec8daf8501c4cc55be",
+    "1e7b557f2500ed661c8cd9767b2f6be9a8fa311313d384a3719463d006ce6ce7",
+    "948e845038bcbc57fa96870612b27c1052b3cb3dfbe9cd6ead9f5e4981ec9a81",
+    "a0f526b44fa6324ca44f23a3694781a7e1c058ee4cd5a4671ec6d1882866172b",
+    "f46a7ee9bbe0e9e6b7e6a0fbde56dd701fb9aa5626546ae4b87ecbe6ce99be83",
+    "42be6a1f6be11da2e0374cf120f3aed46ecb5babd57cafe1d3191ef940315024",
+    "4a93529f9edccfe945b0e6ed4468cfafec2eafcbae8a4426268f498c01807127",
+    "f58d33c92cd651b6d71b1a30d39264c91767683b4a664647765b14b540a607eb"
   ],
   "title_hashes": [
-    "1d4a28492068c377847f4163507b9950fa2feabfd44a1b1d0dc2c7185804c79c",
-    "4a9a3d090f96fc1ba98e641db798089c7912f77a098ef07d3c1f07cf0385af8a",
-    "14b3a900f9c4133569b0db2be3a145c36c6cd85f4ec3170ebddd5938f6bb0112",
-    "3fb62d88b6da4ee5b384f1ab2dd93964713b7212c8158cab38dc3e4977fddc3d",
-    "408c947c129e7e0172dc020aa98e55e24f6884a1654c37bd9da27c2d83eb03f7",
-    "14f9324372e02e71752aecb94fd5a827f90436ea379575ea8756b40654045cba",
-    "83dd518c81664319f0f2863b528028211eaad4df5cbc3de67f392268f032431a",
-    "217b259a014e47ed2bfbbf082680d66c566ac009d41972ff5bf1e5eb4d93e7a9",
-    "48c2676f9e218c64de391ba752cc7d9213d39e228ceb841142c5110befb39174",
-    "853fff6561253b9bd9c74d70c13c383ae0431a95d97ee273607b36282d5b5eaf",
-    "691504d63f9cb0991a1af55bbf92ac72bb23a7aa02713d78c4ca2dea1d5b8c23",
     "ca363e8a77b2fd03b3c0dfa396417f56cef42e698cef0c34c0198590f9961e44",
     "07f97792e8dafb48ff892d95a3f556d773c7044102ebfa0021b848df80de6a72",
     "02b4bcc17bb4c2bf77b16dd0372d18e507aa8eb0f2f5d2ff8c15d97a00546f49",
@@ -8002,44 +7991,20 @@
     "1f9e710f33d1978042b4b13c5582af459c5ed72901418a920838d3d8cacd3b8a",
     "0dd727391151ccd8027222890b40aeb0cec4be447c285e59e41e7095a2d2e870",
     "bbcbb01682652e155f67ef81c3d38aab98cd57960ec19b1f269d263263aaa89b",
-    "cb623aaee26d3baa432545f67bfd7ad129737ba03bb2158a88e96d6ba3b13cf2"
+    "cb623aaee26d3baa432545f67bfd7ad129737ba03bb2158a88e96d6ba3b13cf2",
+    "8a22b515866440a3777f8ec61319e27d2a49215998971459632ab89764a989f1",
+    "15ea2d934d85839933b8faed7f7698270a13270c6f104a98f7fc19f286507be1",
+    "46a8e16c81286c3639ec164a23c04af8557e84717cf614c60b6332528a78f2a0",
+    "cf1e8071dae98d94423aff949fc14cfff02a7061e7b5bd682dbe4d3c61db4770",
+    "79c84be10aff1da8f19e64d0877c5e763be5674f701f9021ef98cadf0336f126",
+    "250576c6e27da4f10efdd996d887f04e8a311ab3e5bc886f6942e294bddfd1d5",
+    "6ed90eb1301570d33b00ec803cc8ce1f4ad9a7938e49e84b8b7013eed6efda77",
+    "1fd372f595efad87081871b3b734f69da336c6fc717e4a0a1d7a3a94b47b2be2",
+    "f039d2f736d164c0271bfd8d226fe3c4b9e0fa74343b24af4051ba6858a29001",
+    "576918a6464f6b1b254e06a6da214fee069bd0e45039d3900cea6d645b6e6ec3",
+    "25ff5f9cd6aab0174936c6360122aa21b6e60e69e3e896ec6c37114a4c5635f0"
   ],
   "recent_sent_articles": [
-    {
-      "source": "조선비즈",
-      "title_en": "미국 투자자 전문가들 젠슨 황 복귀에 “위대한 창업자는 대체 불가능” “SK하이닉스·삼성전자에도 안정 효과\"",
-      "title_ko": "미국 투자자 전문가들 젠슨 황 복귀에 “위대한 창업자는 대체 불가능” “SK하이닉스·삼성전자에도 안정 효과\"",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/24/MNRGEY3DGVRTEM3DMRRDMM3BG4/",
-      "ts": 1795478956
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "[속보] 코스피 5~6%대 급반등 출발…코스닥도 3%대 상승",
-      "title_ko": "[속보] 코스피 5-6%대 급반등 출발…코스닥도 3%대 상승",
-      "url": "https://www.yna.co.kr/view/AKR20261124036100008",
-      "ts": 1795478959
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "[속보] 삼성전자 8%·SK하이닉스 11% 급등 출발",
-      "title_ko": "[속보] 삼성전자 8%·SK하이닉스 11% 급등 출발",
-      "url": "https://www.yna.co.kr/view/AKR20261124036700008",
-      "ts": 1795478962
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "하나證 “SK텔레콤, 현재 주가 앤트로픽 보유·데이터센터 가치 반영하지 않아”",
-      "title_ko": "하나證 “SK텔레콤, 현재 주가 앤트로픽 보유·데이터센터 가치 반영하지 않아”",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/24/FGAOGPZNV5BARNSVIIBT2YTJUU/",
-      "ts": 1795478965
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "[속보] 코스피 급등에 매수 사이드카 발동",
-      "title_ko": "[속보] 코스피 급등에 매수 사이드카 발동",
-      "url": "https://www.fnnews.com/news/202611240907423856",
-      "ts": 1795478967
-    },
     {
       "source": "Bloomberg",
       "title_en": "OpenAI Staffer Likely Captured Secrets on Hidden Bug, US Says",
@@ -11504,6 +11469,41 @@
       "title_ko": "RBC 캐피털 마켓 \"엔비디아 주가 변동성, 아직 끝나지 않았다\"",
       "url": "https://www.bloomberg.com/news/videos/2026-11-24/nvidia-market-whiplash-far-from-over-rbc-s-wu-silverman-video",
       "ts": 1795519327
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Nvidia, Anthropic, Intel, HPE, Sanofi, and More Stocks That Explain Today’s Market",
+      "title_ko": "엔비디아·앤스로픽·인텔·HPE·사노피 등, 오늘 시장 흐름을 주도한 주요 종목들",
+      "url": "https://www.barrons.com/articles/stock-movers-0853c431",
+      "ts": 1795519485
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "中, 시진핑 방미 앞두고 대미 핵심광물 수출규제 유예 연장",
+      "title_ko": "中, 시진핑 방미 앞두고 대미 핵심광물 수출규제 유예 연장",
+      "url": "https://www.news1.kr/world/northeast-asia/6364829",
+      "ts": 1795519487
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Narrow majority of Germans oppose military aid to Ukraine in survey",
+      "title_ko": "독일 국민 과반, 우크라이나 군사 지원 반대 - 설문조사",
+      "url": "https://www.streetinsider.com/Reuters/Narrow+majority+of+Germans+oppose+military+aid+to+Ukraine+in+survey/27390455.html",
+      "ts": 1795519496
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "SANOFI GETS $35B BRIDGE LOAN FROM JPM, BNP FOR INSMED DEAL",
+      "title_ko": "사노피, 인스메드 인수 위해 JP모건·BNP파리바서 350억 달러 브릿지론 조달",
+      "url": "https://t.me/marketfeed/1084444",
+      "ts": 1795519503
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "赛诺菲获摩根大通和法国巴黎银行350亿美元过桥贷款，用于收购Insmed。",
+      "title_ko": "Sanofi는 Insmed를 인수하기 위해 JPMorgan Chase와 BNP Paribas로부터 350억 달러의 브리지 대출을 받았습니다",
+      "url": "https://wallstreetcn.com/livenews/3204999",
+      "ts": 1795519511
     }
   ]
 }
