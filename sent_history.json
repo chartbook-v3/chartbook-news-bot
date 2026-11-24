@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795516433,
+  "updated_at": 1795516601,
   "id_hashes": [
-    "2b4056965451c34aff4f760f654ee54bf753cd3e2cd152b5e6b809708cb9ea58",
-    "f0810056eb0bec0ef279b22267b89fb87e774db142d974db0eb9a0c309abde0c",
-    "8f4ee1780c2387bbda6ec4af55c91b629eedb1312e285d8e85c63838bd28734b",
-    "4b92bd574dff1bbfa74d77187d8132016111f124296ec26baba4a8cde69d9ae5",
-    "3aa812e2b980260bae23eba87ed21272038723dc0b5f52507c499da541a38595",
     "f410784c6e04a47c28182de1969682770086052bc19e88e85f05733432609409",
     "ef622ed7f64e4c612b7b259dc96769623985831ae5d77453557134e6c52b19df",
     "49f82a26c971eca0b85c7784e4ddc1b5de5c88377f655f0d39615c9ae6eaab51",
@@ -4000,16 +3995,14 @@
     "bf395d4da3c7dfbe5e4649cf65f15e6f564822e2cdf3e866dbf6033f53febe13",
     "839cf57d66c75be1dbe612446334ea6604562923ae8918654e80a23722bc9284",
     "34b5ec5bbce27056590ccf2196105ee7f6d4f19e51c5b3386619d3a74b814dbc",
-    "1365c1b3b001673d71452ebbf1c3eb981ff9b59e5014f9f0c275d4080983ae4e"
+    "1365c1b3b001673d71452ebbf1c3eb981ff9b59e5014f9f0c275d4080983ae4e",
+    "e9fde27b50dfbe8afcf4d258f79f3cdb36aacb83cd4024e14d6a11097a5a8a1a",
+    "2f823fa955d3ddc52dc501410dfa58beabf22f58db9eb69f2ab3ed269a043a72",
+    "69405e22b3f5dc3836fce9be2a2bc6d9a181f10cf0abf78da78a889d20be32bc",
+    "4dd72ac4dc3b99cd0812530aa771e514c66260ecbaa0d09dc6b609a76f18f083",
+    "2ba80caf200126a66fd54e5135d35dd3e0de501ba9566d3d522bab046d0ae0c3"
   ],
   "title_hashes": [
-    "3072bf20e6414f800bbfb05be8c8b707a1be04171602ea195805e5bdd818bb94",
-    "fe62a3cf294c09d5ed4cc8d2c7adc68683e39b13b8f13e3bc3290ef7cb21f5ee",
-    "b5950bc629f9d08491c3f44d481494d73248c0775c09562f5855bee3adeb4235",
-    "2c20f78b838d8444b88815df8ac92c0f3a8358fab8fd137e6e0df6714c9bb5d1",
-    "426da2fd64eb33e15abadb0e0c7a65cf6d1a27c8adffc783d4080ba2a4a42df9",
-    "1c27d6adb55ce4b7eacf5f607dd5d96b52e231b4b55ef7a3030ba3564489b4ae",
-    "8da349cccac0ec9623af88e221ae77bcfe89f0e12c1e2a40c7ebe6bcbe6c9dad",
     "aa273670e65571dcdd36a5787eb6862833ffa3c64a4cbede6a59a249f329dc7c",
     "f5a6121124dd661499692882c1d3c266768867af1bf4916a984ec52f7cc1e5a8",
     "91db81fda833a9445b887b6052da4e05cf47cbe4eb9805c8a9d55e278730ecdf",
@@ -8002,23 +7995,16 @@
     "450c3178f4252156301f25a8ca42860f83c810013516e9482a1c4147eddd9a97",
     "63fba345dcb9ceff5744c9cf4fad3c51a4f4adefed2be512e3de38ad7e8cb377",
     "d8a9ab1212076a62bab01c00bb301b25a89f81f23a9c1619b3711abceff2d3ab",
-    "44ec6b73faa84c9b5c3f1ab56a1ba5772b9ce962b31994656b9c5e67c88dbece"
+    "44ec6b73faa84c9b5c3f1ab56a1ba5772b9ce962b31994656b9c5e67c88dbece",
+    "894925ccea8bea230d98af8628e8697710825e92ba9ec7767d2c109fda1c8735",
+    "d531784521cef9b1799843e0333d1b05d7f7c9e2979a6cff3c294ac5b05ab756",
+    "21c2063491d3cf924413909ff22b6287a3e4e14e1de8a37b714d6fa70af8db65",
+    "63284d2d9eb001dd0b6cb3373123f8f6da8777273b550bdd17afaaafdef881ba",
+    "31f65bf22fb7f6975e12ffda750e44ff19df88413cb52a1718214d0137edcb49",
+    "0b77b2ef66d4ab280fc175ffd643a7a68e94b051f02cb2bcb0ac2c9b0d3eb1b0",
+    "d24587bb0c9d71a86aac01c8e2631829f19b434e6acbdc5e96980de9a9b3d9b4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "CNBC",
-      "title_en": "Nvidia surge: What investors should do with the stock and the AI trade now",
-      "title_ko": "엔비디아 급등: 투자자들이 지금 주식과 AI 거래에 대해 해야 할 일",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
-      "ts": 1795477229
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Flexible Solutions International GAAP EPS of -$0.02 beats by $0.02, revenue of $14.28M misses by $1.53M",
-      "title_ko": "유연한 솔루션 인터내셔널 GAAP EPS -$0.02는 $0.02만큼 상회하고, 수익 $14.28M은 $1.53M만큼 상회합니다",
-      "url": "https://seekingalpha.com/news/4675949-flexible-solutions-international-gaap-eps-of-0_02-beats-by-0_02-revenue-of-14_28m-misses-by?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795477232
-    },
     {
       "source": "Barron's",
       "title_en": "HPE Stock Drops After Earnings Beat. Here’s Why.",
@@ -11504,6 +11490,20 @@
       "title_ko": "현재 호르무즈 해협에서 폭발음이 들렸다. 확인되지 않은 채널 보고서",
       "url": "https://t.me/marketfeed/1084416",
       "ts": 1795516376
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "US envoy 'not certain' military aid to Israel will end this year as Trump promised",
+      "title_ko": "미국 특사는 트럼프가 약속한대로 이스라엘에 대한 군사 지원이 올해 종료될지 '확실하지 않다'",
+      "url": "https://www.streetinsider.com/Reuters/US+envoy+not+certain+military+aid+to+Israel+will+end+this+year+as+Trump+promised/27389961.html",
+      "ts": 1795516591
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Trump Teases Massive Boeing-China Deal - Boeing (NYSE:BA)",
+      "title_ko": "트럼프, 보잉-중국 대규모 거래 예고 - 보잉(NYSE:BA)",
+      "url": "https://www.benzinga.com/news/politics/26/11/63570097/trump-teases-massive-boeing-china-deal-king-of-selling-boeings",
+      "ts": 1795516600
     }
   ]
 }
