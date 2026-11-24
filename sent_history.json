@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795549745,
+  "updated_at": 1795549899,
   "id_hashes": [
-    "8b0b289e343b2a9653cba7e6a77fcf99de363573e7ffa7c65dede9c4d36236bb",
-    "533505e6f48ce130b5007b6aba72ccd0989effd22b04940be07a4d115cd76405",
-    "b3cae41ca0705ec7a7751799882ca1a7738e5347976c641a7888174295d37827",
-    "1a431a8863d8262041b0e782b276210af9aedc335220b05bdf894f660fc3615d",
-    "1badffa5e0cd1f43d63693b081b948b2381f6433ac240faedb1b1aa31bbd8f8d",
-    "ba54d7c0c1c7fee3ce404c8f21fa8e7212b7e47d80a27a40db60b2995e3ac7f4",
-    "1925f2f8f1b1fb45b3d393a8581218ea3cb4b91ea810fd4b75f39fa521af4d9b",
-    "f67d4b65290dd89c757626368ab77d275109e7bcb186386d571566c797c1e12e",
-    "670bef5f555f7d4ee4790364ce604cc5004c834bb708aa59e2f5d32d3280e520",
-    "353bac16813f68825f0f246191df6caa776a493e15158bb46a5ade4754fe5181",
-    "0e72f8d364b10b0367b94ee162d1dea237e7055cd3e95c5cf6778f291ac1c552",
-    "8c073add72abb989127d0c28cb9aba4efc6e5fea2de065ff78bba8ef89460ea4",
-    "7fe29825c827bae275d3beabe87e25a97a7e283e40473ebc454b25261755eb58",
     "1adb832241b3713bd7b1daf437a232b3e60b3bcdcc5b4fb417e42a0c9040d5a3",
     "530aae2028b08f78e30176503bbb46104b6570c07aa2012fc7038be93d87841e",
     "0b76f351eb55575da0ab183444b9fda2d2f6cfd8ca10492569171ac300a11e48",
@@ -4000,20 +3987,22 @@
     "84683a4ef02888b4f6645edd8cba6eb1ad60b086a461c3d7c05238ed491853fd",
     "8e83003e9314db289d8a53202407e5a109b69cf9fd66f21bd82cc4c850247cb7",
     "1e13f3d2e4664adb698a4730e5a9da72118fee422270ad5c41cd46552b7b05f1",
-    "ed499d6a65fbda78498f2e74ea083e21f3e4381ab4025f4c612cb260a565d054"
+    "ed499d6a65fbda78498f2e74ea083e21f3e4381ab4025f4c612cb260a565d054",
+    "593d69b8fa51f20285dfdd97cb439f032985271529d7a06869baf29af8853340",
+    "57b0f716898c199d79a5378eaab6fc09119343affff8a596ade1fef9cfaf2105",
+    "607cfdc505940883417e5071bd3d8f467fb9479aa5a4e321fe33a35dbd28fa3a",
+    "1d8e5967ed68cef32e696191d554a9fd68fabe40dadf51410946c454b1484f08",
+    "27b25e27a7da82dbe24a6261b9c2e675fb8045d57981472b5adaf9afa7213888",
+    "57be31643cb9a879eb6f8f239e87463411a274aeaba73625570679faa6e4f78d",
+    "f7d55e62e49372081eb4675f65c3f5c013d71c781801de537236a4147e827eaa",
+    "7825c2011801f4e1cbbb74969876537b803be7fe342615bb951893d02713b335",
+    "0e5d50e2ddc95b56d277d192008747a81304fd789bab00044394bdc1f7b9e6ef",
+    "65ffe4fee19e253430c489ca17bf8b74b83e8020eb39bc7dd0eac84071c44aa4",
+    "17ebda4384597a02ecbfa52e9cfb46243255a5ed99878dbdf26fb3d0523cc925",
+    "5f522f2b5d29027a1f2296d34476d7d73d378fdf051e329fb4663283ce0113c7",
+    "87a8d704a44f39465d340747177e30c54eca8b0c2e3a3c16ce295c68408f2e6a"
   ],
   "title_hashes": [
-    "2109add740f2d3361190e62fcad9d00b96b1fbdce80891b9ecf8277232d60bd5",
-    "7945b60bd2e45c6fedc0af2237dc1b4d20bd2dded280894685cefc7ca861a760",
-    "ba49c5d5e44935dad11cb2c2e061ccf2d465a1b5fededb6843f03ce3c31db072",
-    "f87775857b4fcfd0ef7d686408d9f523aa871f04d51fb748cbf50be899b29873",
-    "a3d79fa2e67a94e5d669f3276492002b5c61be456a1a57086539eb7cba4e1f0e",
-    "9b569bfcd7305a22e9838d7306f7bee82ed7f852cea9cfad4003bbf05220f8aa",
-    "9349b11a6fa940e16d6b9a521fac1b7a93ea9e52cc0a97fa91d40c23b4e26a7a",
-    "f6a21867d524d18b899cf6f3a7d247f6054bd1678890b40c8ef85604de87ff7b",
-    "16049b628af4cbcd8b47b202f504ff39264e1960c4a069e2d3b70f58f0c82cde",
-    "4b99b78a0f61c3425e73828f35ab2ad66a136e966674c869bacbae64ff0f76f2",
-    "d7012eeda4b9b7e620499e92ae48cd46f3e647c6c6fe7918e919db231e4e9004",
     "dea0fd96378770d10d0474fb55e7c735ed82fb36e23018afc09bc93390d9d964",
     "78f59aaf40c13f60777d53f61329c4cc213aa6365eee0e5e220588e8e235717a",
     "9c6291c68da76bef1cfcb94c2e3e3265c1a055ff2938e26eb35b1f82163d0350",
@@ -8002,30 +7991,20 @@
     "9834be894bf1b140f3617d050c828ff61acdb41fd81cf56387fefc6454731765",
     "b7bb418753909640be0162bd0905d8e91bd1666fdbda6a5ee41cf1ac6467ae3b",
     "6febfee8159c6069a4677ecd5daf28e4ac1ea50c650146c88d324a085a819baf",
-    "8be6c5a46ac51afc22f0e3dac918a78c74e1555045d48ce42ee71aec02f254cd"
+    "8be6c5a46ac51afc22f0e3dac918a78c74e1555045d48ce42ee71aec02f254cd",
+    "978c20aee0a5a45c53d7f6dd8de4aeabfcdd11394a75221b2dd3699ed4381a0a",
+    "e10fbb66e06acaa48b29fa6e403e96a18602309a45787b9e05d688feb5d90bea",
+    "00790f2c3ad76530a7e8133900dd15bd187041d697b78649912ed4a626917b31",
+    "63bcb59c42e399b767b9d9f224984ac2deeeb2f07b1834ab4152161f73b6645a",
+    "1ffef86174f993183b3002f012c958740aec304414258ca14b7786c556341b6b",
+    "f64991421527b74d6f1a55d91ec243818c649ab0ba7994d308cd12d6d486058d",
+    "f3d690a98cef206b69fc382e7184009e228b8716d4aedb6a10fa4ecb9edc390e",
+    "7516d3b448f55c9f2674b714aa86d3352e50287d4c2470f73030bccb28958984",
+    "684bbb04a7d38ddab6271538b7dab7a9ded2feacf7afb5f3d828e43a9a0dcbf5",
+    "c30becd757d749d1c15ba7a3b75cfeea11e5f58fc0b6205ef7582acbba709e76",
+    "d8fcfe43a80fccd11eea3064624c84c045be28f69ed5515559d75da336140654"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Barron's",
-      "title_en": "Nvidia Rally Can’t Hide the Market’s AI Problems",
-      "title_ko": "Nvidia Rally는 시장의 AI 문제를 숨길 수 없습니다",
-      "url": "https://www.barrons.com/articles/stock-market-things-to-know-today-18b5b439",
-      "ts": 1795523756
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "BoE’s Greene: Need to think about successive shocks differently",
-      "title_ko": "BoE 그린: 연속 충격에 대해 다르게 생각해야 함",
-      "url": "https://www.financialjuice.com/News/9866020/BoEs-Greene-Need-to-think-about-successive-shocks-differently.aspx?xy=rss",
-      "ts": 1795523813
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "BoE’s Greene: Monetary policy has role in anchoring inflation expectations.",
-      "title_ko": "BoE Greene: 통화 정책은 인플레이션 기대치를 고정하는 역할을 합니다",
-      "url": "https://www.financialjuice.com/News/9866021/BoEs-Greene-Monetary-policy-has-role-in-anchoring-inflation-expectations.aspx?xy=rss",
-      "ts": 1795523822
-    },
     {
       "source": "Barron's",
       "title_en": "S&P 500 Futures Drop in Premarket Trading; Intercorp Finl Svcs, Dick's Sporting Goods Lead",
@@ -11504,6 +11483,27 @@
       "title_ko": "뉴욕, 예측 시장에 10% 세금 제안",
       "url": "https://t.me/marketfeed/1084769",
       "ts": 1795549682
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Nvidia CEO says he has no succession plan during all-hands meeting: report",
+      "title_ko": "Nvidia CEO는 전체 회의에서 승계 계획이 없다고 말했습니다: 보고서",
+      "url": "https://seekingalpha.com/news/4676330-nvidia-ceo-says-he-has-no-succession-plan-during-all-hands-meeting-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795549834
+    },
+    {
+      "source": "NYT",
+      "title_en": "CIA AND U.S. INTELLIGENCE CHIEF'S OFFICE HIT BY CYBERSECURITY BREACH",
+      "title_ko": "CIA와 미국 정보국 수장실이 사이버 보안 위반으로 피해를 입었습니다",
+      "url": "https://t.me/marketfeed/1084771",
+      "ts": 1795549836
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: 🇺🇸 HACKERS BREACH CIA AND US INTELLIGENCE SYSTEMS, EXPOSING UNCLASSIFIED GOVERNMENT DATA IN CYBERATTACK, NYT REPORTS.",
+      "title_ko": "방금 전: 🇺🇸 해커들이 CIA와 미국 정보 시스템을 침해하여 사이버 공격을 통해 기밀되지 않은 정부 데이터를 노출했다고 NYT가 보고",
+      "url": "https://t.me/marketfeed/1084772",
+      "ts": 1795549898
     }
   ]
 }
