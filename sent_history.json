@@ -1,23 +1,6 @@
 {
-  "updated_at": 1795497557,
+  "updated_at": 1795497715,
   "id_hashes": [
-    "2f074660bd44c88f68d185411f1579d26a646d7a510f18f06bb97492e0a9df8e",
-    "f7f16b62fb25f724d6648c01aa357a25ab0ed5a0e23c4644679ab080940a7ac7",
-    "e590c5290ba937c180a67426ff7d945ac74b8c2bd8fc2e56fd9681800d6376bc",
-    "8138fd5a6ee13535400b27b78edb43f29648a098d62296d5f8912445523023df",
-    "25f9dff7d62ee412f37b18c6d2edea4fe3e1f6edd1666a050a6b7e614bc5d9c2",
-    "99479cd9aa58e20a5e4171a9c076470422ccb70337f74518f11f2e38d4c606e0",
-    "738f840c99bbb9645dd63924d39c073b637e912e97ded6750a112324fc33b863",
-    "5165e11d65dc2c6bd2562febfd5d175becbcbf140dfecfee418b2e399b33c9f4",
-    "17e382b82cb7771dd8aa2f0e293b6367926f2d5617556b5af9caa66d8c1153ab",
-    "539934f0da2a0669d62a5a9597021ca8a08daccdc17ba3986f6fd8f29197cd0a",
-    "7251c0248171bb3bf7e357dca750c9929dd49cdc36f11626930247ca939f20e4",
-    "3978a6c3abaead8cc9211602a30f392d566f9e406315beeb72a9fcce72a12212",
-    "48fcedff42a1c3ad4caf4a731f0dec8df601aa4d6a20d3be0b551514b9284185",
-    "fae56b47f87e7d17743c763f9fc34956d81e0c7b134c24f5701474e40d3bfd42",
-    "fe1c31dbfbd6764762ac8a427c91bfe7b69348c6f1a07612a8afa214e1d700e6",
-    "e008fe8476be642cae9dee4e6d82a76ccd263a1a1526a73bdbd6106b7a5dc9a5",
-    "fdc1d85cca1cf272dfeb34511c359da672eed6323e2a57c23d85a5282923719d",
     "533991ce51b13993e465c39f4544c2c0c5b056cec386488c8c61fa030fcfcdf5",
     "25423e7e07482c098853634632d3c31a9dcdd7b5f14f734eac69176a62c61819",
     "abcf9a7887a08b350002ae905ad84c776d50da712cfa0c53398a14a71db18f5e",
@@ -4000,22 +3983,26 @@
     "1defd6ea5a6a98c177a7a94a76b1022d9086a874ac8ae6f39456a8c93f010e0b",
     "e248cb90b87dca43054ceb729bf498bd98ab99c7a5a9f1a32fbeac19a1028e9c",
     "6190c6ec268111d1a523dd5f15534591f966cdfe97cdd35a6d0938e27a50c1b9",
-    "a3a871c4b946286a2e615aac232653829e17c21943c0925ade2629baca7bc037"
+    "a3a871c4b946286a2e615aac232653829e17c21943c0925ade2629baca7bc037",
+    "a1577406f3b6fc428a5c43dd1c6cbc62c15eecfaf2ca245c7320a83e076a680c",
+    "a7aa385f5af3cdd8da2ecd34eac170b98ac2c23a5bb2f1b80645c4e1976d994e",
+    "423c7b916aa782530ca4d77508d013337576de652c2a04e4fc597f00403da993",
+    "c968c15081d73afca3b808659aa857ab5fd93582b6094061bf55c355b11c2d8f",
+    "2d3f54e624108c2be06dbe455f75aec8502441cf6118316f5201a1f207f380ae",
+    "4fee9b95735ef6e4a3728f8a25081b046450732c41639ec9bd5241520f13b92e",
+    "9116fb255cca6524b959378f6e29294cf8b899538ca5160c65b145648c5b3ab6",
+    "75c207b41b7d7fb82f571dbfe937de586121ad65595607971bf921213b81ba73",
+    "5f5319457b7af1b4177f03f6e75f2957b00061a9cf5229b76158e73932d23e5e",
+    "00229db109e17bde11c34236845a0a3c0ddd65b99184ef74f6bee377deee707b",
+    "956dc364a094224a5417fc6a5f98bf312f21a69a44fe2cef6752141812dc4419",
+    "9ab98ab3f378ca59fe697a1a2b741cea47f8a5737f8534eed3da1c388cb55312",
+    "19e81eda6289668d542542b17eaf73c6198b21e8e49246968de3caa164a26497",
+    "459097b60bf31b62d364c60f32c798d848336a5bc5feeac9a12c30c976a8f7c4",
+    "7e694d1f290dbaaf10fe270583a04cf6c9b2106aa11aaba55e4eb2adce8dd9a4",
+    "a42939f9c26f023ae051feff3838ece6086b2b7961c500f2a3fd98cc1f73761c",
+    "09f4b0c407d8f180e3972de0a87e62a154ab1e5d916a925424f05db05385ab51"
   ],
   "title_hashes": [
-    "1eecc7a879a4d3801671763b749f8db5eba03d99d64d20f092231f921b104025",
-    "4d40f5eadf97307f6a4fec37b867dc55197165ebc37676a37411e276b6475651",
-    "5c5b0d0c105c6138097121f493a1a00d832083ac6860655329c706a488f44bb8",
-    "0ea1e36b08a3d5802ee5334a3bd264a036a0e359ee22f103d39ebeb51a3b74fd",
-    "a9dc69d3620b66d90f18c73a1f706c624d0689f90b2e8d967bf13598b1498569",
-    "fc64f87361779805591ec4b5f6ef2cbd0d3a076f66adc940a68008ed5d16ddef",
-    "3c3d02f7ba842eb9f45eb612336930cc7686185023746feb1d496c5f1ad41b7e",
-    "39247bde597ce47ba3f38656eb3bc849ee1c77cf170245f2ee484e01732efb5f",
-    "05525f3ffa246610452577075ccd1b7f48d5808de9fa2278061cb6db32534fb9",
-    "c4b1f67d64fa358c71044f598a9d1d76adde34bf008c65fd1610d0994fadc97d",
-    "d2082b946b5af61fbd28018b47a99c2e0719dbad78445d311dc9e3ea1a56faca",
-    "c5d2d6a5b92187aeb7f2c5ea014f81065d127f8fe9df21ece956e528b0f25b68",
-    "5f01dca88a716c4369959d8260afaee2ea041f073984e5136175909e805f55de",
     "a44b184c2577c8276fa74268cb330ff4c10ecb1931f9f27ce646cdde123ab984",
     "de97e6133c1be53e6dc3098b919416999d09b7c2dc3451b3ac8faa826311e114",
     "670b93808f3166b9458db8ee7515d3d309b85aed64e8367298a85bb49d804984",
@@ -8002,23 +7989,22 @@
     "e87adf0602d1fee45b90083673a324442dbfbba1a6f2f6c8771348df9020e8e6",
     "53a0eb1a30d13580b5a9c4b72661ac5d19d924a0f8145e156dd40eca658d24bb",
     "18d9ddbe30039d3765b65046a0004bd14ed62a8eef8dea1c633bc913d6931044",
-    "6e60eb4988ddf6b075c801b9c1d54d7f10ea898d8f05ce41b05d38bf5d577519"
+    "6e60eb4988ddf6b075c801b9c1d54d7f10ea898d8f05ce41b05d38bf5d577519",
+    "d8637ea6ef4a9b15caf93e520f7e7c48cc1eb3f548b88ed63c4ad1a2f8b25133",
+    "43867bb8323f2291e289ebff255e454e6d5dd615ee6924ed71047a5aabaf2fbd",
+    "152dcf4ce8f6cd5b79fc0ab5eb42424c448924fff6a8c0d7c77b8ae21c28a780",
+    "cf664b0977fa4d1ab20552e0c35c3a7e93dcc681abc5fb3153ddfd0ad4cf2e80",
+    "979d60e6103a96b13914559071f4827ef97329807fb8b37fcb9c30f9f174f55a",
+    "aa39a5097d20f8bab42dd2a66697896cbca799c603fd13c18f2ec780e45f5a6a",
+    "29183182c4f57415350a916086e54577ccb90be4d7f493c62fb6b17dbc0ee01f",
+    "02328fafa4ea1ffe0f966fe72d88d7afe284ec849f3e6d1afefa79ac6290fcbc",
+    "d1eb3d8e41944dcd7cbcc1baffaadca1bac7844c58fa1b128f62767c647941a9",
+    "66393a0ec96dc0cd81ac557135d7080bdc8e2622f979c496f0ad136cafc955eb",
+    "e781cd4af7efc5ee75273f0da3d7c4a5536a1267e0eea8b52e5f10a9fc8655d0",
+    "adf649cb7acc3ce0b2987db8cba6bb19ca2e2ab9cf5e7f684f9f0849d03a81ac",
+    "dc1fe0bc735054ecb91f59cee271326ff8d5e12dcfceabc16dcd204daa20d95d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "CANADA AND QATAR SET TO SIGN A FOREIGN INVESTMENT PROMOTION AND PROTECTION DEAL ON TUESDAY, SOURCE SAYS",
-      "title_ko": "캐나다와 카타르가 화요일에 외국인 투자 촉진 및 보호 협정을 체결할 예정이라고 소식통은 말합니다",
-      "url": "https://t.me/marketfeed/1084031",
-      "ts": 1795449601
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Fermi Stock Surges As Company Confirms Hyperscaler Prepayment Funding",
-      "title_ko": "회사가 하이퍼스케일러 선불 자금을 확인함에 따라 페르미 주가 급등",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63539813/fermi-stock-surges-as-company-confirms-hyperscaler-prepayment-funding?utm_source=googlefinance",
-      "ts": 1795449662
-    },
     {
       "source": "연합뉴스",
       "title_en": "[사이테크+] \"담배 친척 식물서 항암제 파클리탁셀 생산…축적량 500배↑\"",
@@ -11504,6 +11490,20 @@
       "title_ko": "Michael Burry는 31% 상승을 앞두고 NVDA에서 큰 움직임을 보였습니다. - NVIDIA (NASDAQ:NVDA)",
       "url": "https://www.benzinga.com/markets/equities/26/11/63568106/michael-burry-big-move-nvda-before-31-rally-jensen-huang-fresh-warning",
       "ts": 1795497556
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "현대로템, 협력사에 3020억 금융지원…무보·하나은행과 맞손",
+      "title_ko": "현대로템, 협력사에 3020억 금융지원…무보·하나은행과 맞손",
+      "url": "https://www.fnnews.com/news/202611241410573280",
+      "ts": 1795497586
+    },
+    {
+      "source": "FT",
+      "title_en": "Britain bought fake C4 explosives for Ukraine",
+      "title_ko": "영국은 우크라이나를 위해 가짜 C4 폭발물을 구입",
+      "url": "https://www.ft.com/content/b5873050-2b90-4889-bbf6-902234e51e9f?syn-25a6b1a6=1",
+      "ts": 1795497651
     }
   ]
 }
