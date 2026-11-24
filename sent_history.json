@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795547444,
+  "updated_at": 1795547593,
   "id_hashes": [
-    "ed48290d922197430869c794f0ce476e671f0f55c062a43b3b759eea8baa323f",
-    "832efefdac172d79b0c5afd258c7003e60da249a49e671a4ac6dfeb9cbf03964",
-    "74846728b8ef18746ea926af55597b0f1d3528736e87a3e5cd09bb58eb2c67b7",
-    "e7347aaa452475320a71f59f107f67c53687cac1ec1b59e0368286f64a8e5ffb",
-    "6e77dc900c52b932131cc87dcc47b545ae2561d2a6bb20745e4dce35a15f4e65",
-    "12d73e92649cd0de5e34cc6a915a7d73551e576b32d45031af9042ec04ed459f",
     "7396d73e7f901c65f517c844fd551a972740156f856bf01a72c368d9cd78640c",
     "867d1ba064130a8e96cd2e7fb6c535e75292dea711e31e5ab57afe46ba76ebf4",
     "8c85e699d820f14b836e7909674573d0e7153d66d26a14838b5efa9777384518",
@@ -4000,14 +3994,15 @@
     "c1ca52589d867433182ffd1c67bab9c2bf9530fef8c61b26d47d49bf5f66bbfb",
     "c6c478ac39a1e5636f3f894507cab2ec4f4757f061d89671e2cffe132783d7df",
     "e9e314068505c1d9186f70d83f77bd1cc809e9e063538c59abe02998449805c8",
-    "e8123043dfa71d23f4ad803a942f7a585030b38a3bf6def754a2972d71b9d72f"
+    "e8123043dfa71d23f4ad803a942f7a585030b38a3bf6def754a2972d71b9d72f",
+    "80a13b357e9ec5cde643f991ac6e582db866d84767fd2512852db580ee201cd8",
+    "4c7367b684f8d3212628bafab0e5400c0d95ab357e5cd4926fa6b8bdac143559",
+    "6eebecb65ed601f94a848300659679891d795219524bd09edb08d58cfc2adf43",
+    "b5a26e77b32e21c0c10470ed21635c56f6c4de57b5e0a78620a3383167181d85",
+    "9453494ffa6b1ce3f9ffac7e1a3ad8dc62ac172920149a15da5fa799171480cb",
+    "a681a39f981f89acd3c4ce8779cd4e72f96a73fde2589ebad74ea6fec54a9e2e"
   ],
   "title_hashes": [
-    "eeb969df06f286fe7d6d437e3bf95335c2ee1e768c5871b1a5668e1ea62196cc",
-    "0444697a1a273dd83d9e00afd7312eed73551ba1fc98794f477cc4943e84edec",
-    "ca5c2fe6b647722166dff9cf4b642f409caa80c085438a85216dda90e134fbc6",
-    "4d47e1b3c90c238a1fabf93185afb4dce0718c3b5bf6780e79c1d0c2e0f8e38b",
-    "05af38ee258eb81b2740956bf386ccbef936bfa71dc366ba25666c4fc79a9c23",
     "ced567a687f73e7f417cfeb487c8311b6350727301d8e1c5aaf1e7b56c22cf42",
     "e9022c495c8e3e0daf9fbb17959221853387ffa0a5842d7fb06498a7982f32cc",
     "4b4cd49cd450296ce16230728f60f03db14b69cb32b24e6c66c64623e5b39ba1",
@@ -8002,16 +7997,14 @@
     "7f6b4aa72d8598b700c6f6a64be77c8a655059b1d04bde340ae5e68ae59cd655",
     "43f3d80bca609dfc0960d984685a12a8eb69e43b7ad3d8afe7a696ed2e89ee2e",
     "722248bc0cf447bdb4d5962150e9436025a4ce00726175a035e456b81b2fb0ad",
-    "c006a6df70a7e021090fa74670a066bea511a88581949c15af36a391e27a1e15"
+    "c006a6df70a7e021090fa74670a066bea511a88581949c15af36a391e27a1e15",
+    "c5ee9181003388948d3796dddbeaa5f3850d7ef3498ac886e491b6cb6e398b42",
+    "8db6aea0bba62f1a215c36a5acdb1705443485356bfead25ed7d5891ccb3cb64",
+    "13fb94df33b3769a14a5fa171b76d47d95d4862972ab0a42ce968e69f02d3b9f",
+    "77433e0e7437d0b66aebe4b6f42ab970bd168b10b35861466895acbb8b80798e",
+    "1002b546bc50a810481b70949c16511d0dfaabf859a7e3201b26e3b1eea470e0"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FT",
-      "title_en": "EU EDGES TOWARDS MADE IN EUROPE DEAL FOR UK CARS",
-      "title_ko": "영국 자동차에 대한 유럽산 거래를 향한 EU의 우위",
-      "url": "https://t.me/marketfeed/1084468",
-      "ts": 1795522268
-    },
     {
       "source": "MarketFeed",
       "title_en": "BINANCE ON US ACTION TO RECOVER OVER $1 BILLION IN HACK: COORDINATING CLOSELY WITH THE US DEPARTMENT OF JUSTICE AND INDUSTRY PARTNERS",
@@ -11504,6 +11497,13 @@
       "title_ko": "Citadel Securities 거래 수익은 이미 연간 기록을 넘어섰습니다",
       "url": "https://www.bloomberg.com/news/articles/2026-11-24/citadel-securities-trading-revenue-already-tops-full-year-record?srnd=live-events-v2",
       "ts": 1795547321
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "TG Therapeutics Stock Soars After FDA Accepts BRIUMVI sBLA",
+      "title_ko": "FDA가 BRIUMVI sBLA를 승인한 후 TG 치료제 주가 급등",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63600883/tg-therapeutics-stock-soars-after-fda-accepts-briumvi-sbla",
+      "ts": 1795547467
     }
   ]
 }
