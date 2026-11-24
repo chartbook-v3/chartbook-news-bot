@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795558662,
+  "updated_at": 1795558821,
   "id_hashes": [
-    "c9d4db786dddc1149ce42407029cf0f2117544f9da24f32f3c4525c85f28faa1",
-    "f98984ae98591ff3acadee5c472dfa66aae261336efdeb3d6ed79832ca466d53",
-    "853e1cf39c0f61021bb6914b9c93cbd99ad12b5d823c499c4b0d2b9de671e9d4",
-    "01f3acd8d8985a22dd5dd71145eb29e03951cccec95de6ee270ba80db579b25b",
-    "c87711d277fe64714d3a2273d9fd47554edef12f934bacfa9b9019e651dbe64c",
-    "c3b9d939544d5007975a94c33fc66cf0e7e00228655d6502ad686874ba1b2c38",
-    "67ef7fd3de37695b3b6341cd21947f4c3993c878f2cdc682a1960d2ba8bee722",
-    "7f75246b20bc8c531bae17ffcd41c92e5744f55325719896b24d4e3a6351f940",
-    "1985a744bc9cc46ed784821ce21ac1e5d180522ccaa99fc87bc9985b2c061ff8",
-    "977b66cd569d0f760906f1fff02f7acde0cc92f678dca76318bdaad2ab6ebeea",
-    "6e94a1cf84891d5536fcabcea3f06571fc18c9f305099da8980e594f1159e50d",
-    "e0be341a6fb7dca396e127d83d1e144dbcb310f256ee6f252b4d792109157b55",
-    "bc4451fcb9d544bc4502c7eec83541ac8a0fcfd06a15392ebed4c3768909afd8",
-    "06a6d5732c055127cdb821e537ec99b6049c80f232de90868a7eb38e912f58b1",
     "437ec31859add76b556eee03fc7866dcbc7b03ecb6ab44a33b23a294058188bf",
     "75975f08249865e4dc51ff502b33aa98d3f2d11552069031f6f3c52e70f9b127",
     "36b4aad1fce50e15dddc74ca98398ca7ce1fd35758ed453efef1bb78d7177c75",
@@ -4000,22 +3986,23 @@
     "9d6f6e2b5acb36f3d2ae52aae6425d13e0a87979ec3e17fedb017980a3c2aab1",
     "7e0a08b7f061b40d19a03b703fda6688bbd0b7f058ab014012dbcceba514b8c2",
     "26b004964726207aa00983a66f472ebe24e81e613416c0391a5bc08a5d385332",
-    "b9d2e6a1731f12f0581142dafb632754fc511261156b5e6167230cc5aa735d27"
+    "b9d2e6a1731f12f0581142dafb632754fc511261156b5e6167230cc5aa735d27",
+    "9311d7d288a6c9b21d905c0ce1ef17ec328d3dd5c464e205d53c84694075fc50",
+    "5ab6957d11dc4ab6d9a9ea6395cbaccf847992b2d38cdee86b4d16f3e8742ec3",
+    "9997ce24c64074ecbb6ea2d377ccc5a81acdfbd7a603169a8b24ed1b57e10a23",
+    "648f627c9217418bf67433b551e817b8df0d8d8c108b18b8cfcb049bf8814c36",
+    "47ac15935c7a32c5650f4a2d37cbc3604b0946a6c090055f8c03c72e81f4f69b",
+    "40b6660e44ba2faa4ec08104926a087676c7d7cd4c4063c34b2839de7255efca",
+    "3326059f5b3e19ce94c8d7ea33c575bc0afd0499815864e11dab6e1dd1abd7b5",
+    "3bf27e93358bf6a6a96de559caa7c517daaf64f4b30be894e1776e7e47442279",
+    "d189dc72d7ee30bd4ebe596983186b58a70efd4a7e5793c3402dd167dcff21f9",
+    "c042e9a388b1d11d7e6a3897f627b0d7e94862f356d940e1f946646c09bf049f",
+    "6be35239dd378bc45e3c739f01573dcc5219b96d593d5e1fd65fc2442c22a13b",
+    "eed1152e3d64c41da9a183c71517e2b276f2f4fbda8c4ead87527965717eafc7",
+    "c00d7c31e4a994a98c0c8f5c7f96ad328a841e35cb64f05eeac216f9e37a8285",
+    "fca0122090f3b09c300f0be18c9402d3be595525a1be22e46c6aa2b341cde272"
   ],
   "title_hashes": [
-    "ca97577b407594fd942b0d74a852ed217e6b050815ef8b147a6d3f3a4f66532e",
-    "3f634e842f5b41042862d08e049c853114428e555e12c0472b46a7e016bcc35d",
-    "7afcf8e3e842eec710d92fddb214e55011b3a007672e92e6784d77a5597c92f7",
-    "0ff5771bcfa586ff7eb68fea068473f9f56dd247cc3ba081fb296cb79478e64a",
-    "4ab7910d8c46b7c8bcca29a9b71bc3f151c97791e9667ae668c4401b1b5416b1",
-    "da326e02cbefd630e97ce6837feea8332956bc0ff55017c071bc149a8079f640",
-    "f6a7b808c98b2e8fe4b05e1491d46871b4aa7fca522f80984043abff578f8b83",
-    "5502ce7aee3fc9f02abbe5fc2e72616e0ebe0518ea04e427edda24890bba331c",
-    "98a174e7a003d231c5f57e9384921bfaaf4775f22a6ab0100c174de12b28d558",
-    "b963e432376f8cc5d1cd0b8de40a1d242b94348c38146254ce136ba84c75d840",
-    "0cae5eb50a41eacd84c841b6d1b3f5025541a6c7a9831bab3349a8f0dc7d3c6b",
-    "4b45e48d97cc718e882ed83feb81c6f4490712f64be2b5342c8b5267206480e5",
-    "6b026f94243570a2ab17c14ac2a739f70dec18959c4e020086237559d900ec88",
     "460bda0daf514badb26002cf9ff4eb1bc109e42b54b4d78f294d352a0d280be0",
     "4e847faaa4242f2745134dea0c717b2aa59207211d736d15f04784301dd6bc84",
     "becac31fc1dc783183a26a04302dd1a325f67f25b15a7a09c05b925071360b9e",
@@ -8002,23 +7989,22 @@
     "e1a73b8376b630b61bee3a8152d43b8233e41f78bbe5d9db7c42a2b4d0adf229",
     "35c00275bdb8a553a0f851ac77221354d4bd4cddd72ed80f0b4713ed0c14f9f6",
     "f41797665b7c5b3d05fe2008335b8b20f83856f4ca8cc1b7518f637be2d077cc",
-    "22f5998f18ac6a6a54719468acde83dba60a3560f0287b4ca3e057f5dbd28d9e"
+    "22f5998f18ac6a6a54719468acde83dba60a3560f0287b4ca3e057f5dbd28d9e",
+    "9f96af136a1ce679b49d287a7030f5f2f7d5fb0e453ddfcd61fa2f5ec83e4e65",
+    "38e3715b3dee267015dd310d5a0cdd7f56842a0845ebca3188a11ee3f10ad3ce",
+    "27e8873d0065397f9f357ae6767fb9dbeaf72804dcd88593a44315ceb34d2a3f",
+    "eecddb5f58fe8a3f0e095487c9fe2297f0ea81b1481f84c01f7c5856af1d28ec",
+    "6504e8e35a92f0a298eaf9d0a20e967e86459813db053f1e69947f7f437a34a6",
+    "9e7baf99790eecd83507443adc4be138ce5b3e6644366ff5c552ca2de9e27d86",
+    "330262ba5e64e7712b5b77c6c29a2178d650f9bbc3527ab9b1c9423baffd24f1",
+    "7e96e6233818ccf3a29150f20bbcd4b776d7e5c31854965fe349ba07f01e7363",
+    "966f61337195856c73370ddd40900a5058699039ded068d9ae2b2f84e11d8776",
+    "84f825fec6cdc5501c496dd8f8005231225f73e54a252ec828ec718eee083fd9",
+    "f19209cbe05c8dbf904d85801fdf8fb9ae556e3404bd224f38f6bee7ba7a7e98",
+    "e43b170a46c0f846b0a3d8757f19b0873fc3ef4710ffa0c2995bffe31a3ad708",
+    "151eb1c4d79518fd6042602bedd8f435097e4394ffe32ec2ca975f7c6a78fe47"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Nasdaq 100 Is Cheapest vs. S&P 500 in 20 Years: Jefferies - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ)",
-      "title_ko": "Nasdaq 100은 20년 만에 S&P 500 대비 가장 저렴합니다: Jefferies - Invesco QQQ Trust, Series 1(NASDAQ:QQQ)",
-      "url": "https://www.benzinga.com/markets/equities/26/11/63576779/nasdaq-100-value-trade-cheapest-20-years-jefferies",
-      "ts": 1795530158
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Why Is BridgeBio Pharma Stock Trading Higher Today? - BridgeBio Pharma (NASDAQ:BBIO)",
-      "title_ko": "오늘날 BridgeBio Pharma 주식 거래가 더 높은 이유는 무엇입니까? - 브릿지바이오파마(나스닥:BBIO)",
-      "url": "https://www.benzinga.com/news/fda/26/11/63576853/bridgebio-pharma-drug-secures-first-fda-approval-for-rare-muscle-weakness-disorder",
-      "ts": 1795530194
-    },
     {
       "source": "Benzinga",
       "title_en": "Nearly 1 in 3 Amazon Holiday 'Deals' Saved Nothing, Study Finds: How to Spot Real Ones",
@@ -11504,6 +11490,20 @@
       "title_ko": "AI 안전성 우려에 관세 악재까지…앤스로픽 공모가 밑돌아 [월가 업&다운]",
       "url": "https://www.hankyung.com/article/202611258194i",
       "ts": 1795558661
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "THE NASDAQ 100 FELL 2% AS RENEWED CONCERNS OVER AI PROFITABILITY AND SAFETY HIT TECH STOCKS, WITH NVIDIA DROPPING 6% AND ANTHROPIC FALLING BELOW ITS IPO PRICE.",
+      "title_ko": "NASDAQ 100은 AI 수익성 및 안전에 대한 우려가 다시 제기되면서 기술주에 하락했고, NVIDIA는 6% 하락했고 ANHROPIC은 IPO 가격 아래로 떨어졌습니다",
+      "url": "https://t.me/marketfeed/1084817",
+      "ts": 1795558694
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "半导体ETF接连举牌上市公司，机构看好科技板块配置价值",
+      "title_ko": "반도체 ETF는 상장기업을 잇달아 상장했고, 기관들은 기술 부문의 배분 가치에 대해 낙관하고 있다",
+      "url": "https://wallstreetcn.com/livenews/3205255",
+      "ts": 1795558760
     }
   ]
 }
