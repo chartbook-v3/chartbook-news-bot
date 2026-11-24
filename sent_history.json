@@ -1,25 +1,6 @@
 {
-  "updated_at": 1795537641,
+  "updated_at": 1795537809,
   "id_hashes": [
-    "df6b1b2be3c64522b27e79d7198872e9ddaf3de986d0e2ae6d3b684e1d1b5141",
-    "75da62e99167861ecb8fdb5ac0ffda991697c2ab9e8bc1aea5157d26214c4341",
-    "48f8d9d5788ce62333d688a67b7e9a48d142db8318f113d53bf42ec2de834219",
-    "e38b01c28b390a1f67577d84b15971205fa443e6c61056e2572decdaef5790dc",
-    "2545589c8a6d0fb16191ffe2fcf0a6ccfa1694262b502e8dda82e0d9ecae4e03",
-    "61d43148b8027950e1bc7757688d4eeeb089ae6fbbf06166000da29587317e47",
-    "802c94dbb97ce3b926ea19a43df0f69ea95b0c5096a8e8ef1f3c1632d7ac0156",
-    "676b7d41daa5c72bbb892063c8cfc375d90a5ab56ed098a921fc68a1534a71f3",
-    "062b25e01726d029ec3bd415c95cea43fa2dfce88c00ad2750d09df62a4b4779",
-    "670952d021186a702a862d8cbfee49a0b4af3e8de165f2f7f240bebc8bc45f2b",
-    "5b3f8fc2d6b4a1aedae1a642233848802ce89e15f066cd49778f1301e3ac5fdc",
-    "35d7efc1e84d65dcc81f58f8aa68a5d710a85691c6e6a56268ba9019c127a872",
-    "5ff1e124c7b567a602e51971f00f280d0a5625d57382c819217c5f632595a00e",
-    "9a9be46c03f9fa5055adde8263264e89cbd06cb550cd3a42418f72080ea1c846",
-    "dc863e23e660407ec4e359ac198ac46893f6513a74c72258c61dfb16b81d59f1",
-    "96dce0671f3da46688d253cc80365c8d65478437709bb2eea6326d476b8c2ffd",
-    "d23cf7c6669f9b89c75068e0adb1b63e98b6d58d43e7c64253c7f490f0b204c8",
-    "805c38f20bda2b014cf34a88f916422f26b25d97df016f252ac3d0f521d57bb4",
-    "ed6bb28654e66f1d3c6dd9e509ac99d78478fcfa74b5dc052e980d7dbfed4a06",
     "595c106a8e54783c0542c7de3b3ac2c2fdf127e8b7c4f480986fa19ebb3137e8",
     "122719804994e9231f8cf73502595bbd8dfcd3677ce75a29da1c0de603c44e2c",
     "c075a84c09f2588f724999fce8a8a21195bee874da6ace20d7a4a6fa876b6199",
@@ -4000,28 +3981,28 @@
     "2e496e0e83099ce64c4d7b536a5e24401170da805f6067234d79db7efe3bc982",
     "05fcb8dd0ec403ac0002bee2fb7ba503395080c662c93ff20f30be4dc663c3e1",
     "3d903646932eba501a4036f8d9f6afc93c554c4b4a6cd4bc16623844e0ba04c1",
-    "7ff4436d55a4d8e66ec2be963ef60079e9624ce1a2a178e7b9cc2421f4720f55"
+    "7ff4436d55a4d8e66ec2be963ef60079e9624ce1a2a178e7b9cc2421f4720f55",
+    "22cc2e1eb4eaa698e59ae90bb80b84758f8840f04638cfd4aa99f747ac658027",
+    "ddfc14a96b48357c411eb68f6b4c737a66e911750be8752e9f5d84fe3cef0ff3",
+    "3ecff6ba36a3e3c16bee7ee91cf61a19c2cb0fbf9e7188b28212c72184671e8c",
+    "ef0648e48356b7f938cbc61100a47cba64115731e5ca3ae6f6e5478301a46d13",
+    "9b0114e538b42e55a82b3221ace76e94cae1f5e44d919cbc6111f59ef56f0a82",
+    "c2eaea4e40b47903ae89ac95c99bb539c3461760790db6f0a4b116bc311c47b6",
+    "e5b7664b8af9eadeaa8fe4d5be8705bcb0cf24265cf0923a71f7dea015c99c1a",
+    "f094d4dbb1c4b6e3e364d52e5b91e118c8f9dea6ec984c2902bafb936b43bf60",
+    "5abd9505661c4ee9d09778dfe1a3610d3fc477d4df1b6e6d7a83fde7483c091d",
+    "d7419893f9179ceb119cd8898aced943f39f3daabb225261eeb5b79532280465",
+    "4c3c831241940d73fd5d0a3c546adeac7f9830e1ff641ba3c1e2a94e41b62dc4",
+    "2f699ce7ede1c2ec130dcd423e196135c9414992e70d38386f11e116a521c13b",
+    "c43e28dae80e35fb250a5f4b5ac9d1d656b07fca0b50b4aea7680c7afba9d082",
+    "1c404edf3ad197d6fab49273eb0daeb989156b3bea2230d9d61a31e8b39cd790",
+    "b43d76ed7c7f03b1eba171845b71b273e45ee8236dd340b21b2216458b20e133",
+    "138641849dcd6a4108e0f2610880330fb18a98f563eed3e85916d756ee096e6f",
+    "2b0779ca102a5b9ab5e11946d3727f473640c489f8c2b880c78c525421c4479d",
+    "d48db4df4e05ce56e1b3909851d5305e3a81bc0814d0db3623d4cbf85d69d093",
+    "1ef11e24db177af5453dd26bafb14476a2c32656191f24a4239b7007308b098c"
   ],
   "title_hashes": [
-    "d4caf8c56527bb831bdee840c161e26767d18f7c64dd00113e13d0f17c026a70",
-    "8b4dc1c455ae6e3a9aad3907bb1c046c5da2241e91f87a07a3328097a25c1031",
-    "89cb186e83fd6ba85f805a5b0dd519e590f75939214e6ebdc193324459f0da6c",
-    "d5f08f37e4a274b2c7816b7587cbb2ae09afb4604fca30f8632df8b6f51e98e8",
-    "a07c05cb535569f6b4aa8c8a1029035771210250686cd0c69e9a21ceaf4dd3bb",
-    "5707e3b2d758493dc7357f80b4d6cee0a603b65e9d3a4eb3d31bd5d51de27130",
-    "2f92f822f1a31d25d3a2aab4d04841ad989639447fe213b02329990d1c8114b7",
-    "6010eae895c756cb3886457da4f9834154902af977116d3721c1fb2fe9bd4e16",
-    "0af7e242550bc2702401b1971a9187c3b4c665bfba81b2cd1d1ac2d103dad450",
-    "abfdf675ffd091f24baae8cef8cbca2d2f92b33b7ad52950e2eb7a215d51686a",
-    "9fb8c4519850bed4cb0693e6cf1163d0e72ee7093b350b31ba9f254c952e9634",
-    "1724a6afe2b2d34566bb6ccd5c7de493bc7416d5e4bfe973194f0710839c312d",
-    "04d16165517969f5f4caaf835e4fba67148f937e6ba7a109df06f6aab4a3a926",
-    "1d989e7da34ea1339dca9a662411db311fc2720ca327e12b92e83baba0fad5ed",
-    "6e2651634cc45e909e7203fba7a1c6262eb2810d4a7f65ae1b4a0b45983e1882",
-    "18988a27194df81f5cada7b8cbd890bd916eb377c0f1b19246aa249409bfb12a",
-    "c1f304b2bdc2fc4b7eddab73989ac4b95267c44c9cf9cfbd266d31bd6fbb9b44",
-    "efe0c6b8f41ed9434ca2b1ee63ba2c90b9615a5723802bca2a204cc38e049f2a",
-    "d180220b44bbcf9fae2ba6f8de643a785ab072b28b86b521d82bd5b3fe2ccb76",
     "bb78b98ade0599631b11780502052c7bbef4e301a7177c678765585572b03b43",
     "f66c3a41cfff2f9909f5642a55d436889648c67caac69c4abae1fb8111a52fce",
     "86b2dd84848372d511e15d8b3f6d74c9a537d2c4f3118739e19fd170270f9f9f",
@@ -8002,51 +7983,28 @@
     "c54a792f2b2a9c0fb3f7a8774606bd497cbd299a56337f3708a77b9b03183281",
     "e3b67184537da77846c6b5c7fa68a27420ff91be2213ced86610ee1576f18c52",
     "0eff68a6cf52d38b6aad03316f8178cd1935552cc08245fe1760be895096a0be",
-    "38aa840a32e235fda0c6d145a31e8ef708bf1ac6b82b43d3334896c938ade95a"
+    "38aa840a32e235fda0c6d145a31e8ef708bf1ac6b82b43d3334896c938ade95a",
+    "cb063cfb305beebd00ca9bf2549bbe7ebb064fc01de9d2c69188015adb80e56b",
+    "119019df1e1f39fbe19d06fd8ce227eea3e0388405ab7ee08770dee586598217",
+    "581b9f5ceedceead176eea8949e87e13b18664c0ebf850f9430fe5c9b58b2874",
+    "12a50a5747e378f8df630402799dfd6b9f3fdd011ac24c035a9d58cb05595b1f",
+    "84dd0bee9d624c55cd454f7e117917791e261e9c93f1566694aff0abb86b3c49",
+    "e3b5dbd31f1ed17a0d7e27c600fee4e99a80a5279efa4c011ec597f5d896f5bb",
+    "b6d9685067ca4ba19d7faf45ff7eb8d894bb26897e0b0b69324b7606ffd10979",
+    "fc60559a50859d881329db1b2ade456b6f8193f271ad4cbcf1b299c8810b3c9e",
+    "5bd7c20ac7d7b1da99af042601c075ab06c1811e5471d663dfda0dd2ba954c9f",
+    "f198683decd457154f0de043bc2ce404bb01e76d7f268941ba94fd0524dce06d",
+    "fefc65d334717a08be78a7431e735cf5a21be1ed9b323d7e8cf4ed65604044d9",
+    "b1b97250a89a390e396967ae6810aa871b05579b902e46ba89bac4de3c6a9dc9",
+    "9a94d6cf407a4f939ee6c663a5dba066f17200403fa1f56631b08a8d88ba0dba",
+    "f5d5e1d351b75c7573c93de26f54a5d8472272a4d9c9b99ee2273ebc9794cb89",
+    "676b56bee0ee890a7846672edba6cec4ee490281e91bcca5a37bca69c71e2507",
+    "b3156ba4c9f17f6d86a1c1bf1f301f2734df659096ef59f3afeadcedaa64f6dd",
+    "35cd52d3a612ed1e461590b0834d4259193d954b3652371aef433ab00611eb9e",
+    "a467e3c4c4e6657d80be988a0c0b0892c0b680214ccd1d922319c51d3dae3fa5",
+    "35a26832879a56ba5e0fc1416003846e9f3b8c9726fc592c0f63d7cac336576f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Hedge funds are positioned for an earnings slowdown Wall Street doesn’t see",
-      "title_ko": "헤지펀드는 월스트리트가 보지 못한 수익 둔화에 대비하고 있어",
-      "url": "https://seekingalpha.com/news/4676030-hedge-funds-are-positioned-for-an-earnings-slowdown-wall-street-doesnt-see?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795512597
-    },
-    {
-      "source": "CNBC",
-      "title_en": "Nvidia shares fall over 3% in premarket after Huang comeback rally",
-      "title_ko": "황 컴백 랠리 이후 엔비디아 주가는 프리마켓에서 3% 이상 하락",
-      "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
-      "ts": 1795512626
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "삼성전자, 승진 문턱 높았다… HBM4 주역엔 확실한 보상",
-      "title_ko": "삼성전자, 승진 문턱 높았다… HBM4 주역엔 확실한 보상",
-      "url": "https://www.fnnews.com/news/202611241826229813",
-      "ts": 1795512628
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "XIAOMI Q3 2026 EARNINGS: - REV: ¥107.24B (EST ¥106.44B)",
-      "title_ko": "XIAOMI 2026년 3분기 수익: - REV: 107.24B엔(EST 106.44B엔)",
-      "url": "https://t.me/marketfeed/1084399",
-      "ts": 1795512683
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Ex-RBI Chief Rajan Sees Nvidia Governance Risk in Huang’s Return",
-      "title_ko": "전 RBI ​​수석 Rajan은 Huang의 복귀로 Nvidia 거버넌스 위험을 확인",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/ex-rbi-chief-rajan-sees-nvidia-governance-risk-in-huang-s-return",
-      "ts": 1795512754
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "현대차, 전기 상용차 ST1 산불 현장 투입",
-      "title_ko": "현대차, 전기 상용차 ST1 산불 현장 투입",
-      "url": "https://www.fnnews.com/news/202611241827596790",
-      "ts": 1795512756
-    },
     {
       "source": "파이낸셜뉴스",
       "title_en": "부산 유망기업 증시 입성 돕는다… 'IPO 노하우' 공유",
@@ -11504,6 +11462,48 @@
       "title_ko": "트럼프가 공격을 강화함에 따라 국가들은 ICC에 대한 공개 지원을 피합니다",
       "url": "https://asia.nikkei.com/politics/international-relations/countries-avoid-open-support-for-icc-as-trump-ramps-up-attacks",
       "ts": 1795537640
+    },
+    {
+      "source": "Wccftech",
+      "title_en": "NVIDIA Releases Game Ready Driver 621.40 As A Hotfix For The Hotfix 621.35 Version To Finally Fix The Excessive Writes Bug Plaguing SSDs",
+      "title_ko": "NVIDIA는 SSD를 괴롭히는 과도한 쓰기 버그를 최종적으로 수정하기 위해 핫픽스 621.35 버전의 핫픽스로 Game Ready 드라이버 621.40을 출시",
+      "url": "https://wccftech.com/nvidia-driver-621-40-whql-fixes-excessive-ssd-writes/",
+      "ts": 1795537670
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Medtronic’s High Expectations Leave Little Room for a Revenue Miss",
+      "title_ko": "메드트로닉의 높은 기대치로 인해 매출 손실의 여지가 거의 없음",
+      "url": "https://www.barrons.com/articles/medtronic-earnings-stock-price-4539d19e",
+      "ts": 1795537676
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Zscaler receives multiple target hikes ahead of proposed acquisition by CrowdStrike",
+      "title_ko": "Zscaler는 CrowdStrike의 인수 제안에 앞서 여러 목표 인상을 받았습니다",
+      "url": "https://seekingalpha.com/news/4676237-zscaler-receives-multiple-target-hikes-ahead-of-proposed-acquisition-by-crowdstrike?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795537680
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Alpha and Omega Semiconductor slumps 13% amid weak tech session",
+      "title_ko": "알파 및 오메가 반도체는 약한 기술 세션으로 인해 13% 하락",
+      "url": "https://seekingalpha.com/news/4676260-alpha-and-omega-semiconductor-slumps-13-percent-amid-weak-tech-session?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795537800
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Deere faces Q4 earnings test as investors look for signs of agri recovery",
+      "title_ko": "Deere는 투자자들이 농업 회복의 조짐을 찾으면서 4분기 실적 테스트에 직면해 있어",
+      "url": "https://seekingalpha.com/news/4676267-deere-faces-q4-earnings-test-as-investors-look-for-signs-of-agri-recovery?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795537805
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "UKMTO: Tanker struck while transiting Hormuz eastbound Nov. 22nd",
+      "title_ko": "UKMTO: 11월 22일 호르무즈 동쪽으로 이동하던 중 유조선 공격",
+      "url": "https://www.financialjuice.com/News/9866373/UKMTO-Tanker-struck-while-transiting-Hormuz-eastbound-Nov-22nd.aspx?xy=rss",
+      "ts": 1795537808
     }
   ]
 }
