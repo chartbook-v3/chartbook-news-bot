@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795530787,
+  "updated_at": 1795530948,
   "id_hashes": [
-    "3076491261b9ae1b3163d4ad645618bf7794e700d7630f0320edb309d48930df",
-    "bdfffe5752a2288933069cf60338b04984fdc9cd1a325ac94cf9b19af723abc8",
-    "e7e23d9211287f75f3dc2fd3724998d0f6f578f28a4d484a03177ce05e4489cf",
-    "781407da47ffcedd648ec76ccf456cf1be27a522974be602580fb269ab48c138",
-    "a2db2679a203ec26293564cf9196d4dcb0285ee4cea80495e6ffb37214929448",
-    "82b3e75e3c81eab8b2fbea1f880ac12936a8b7ef5090a579618fa161eea1c805",
-    "b452602a352b76d17e2af2e9ec4635729bbc8b3e12849093e2de2e70bd7bb356",
-    "c076ff77741bd8d97989ae41a86c949f30ac7eb760fff937dc9d9dfc28b4dbc5",
-    "6cf92c1f3b58d38861d197cca25610b9be3670fd484b217f0b5388ff5c71bd8c",
-    "ec225b8d843c671b1bd277b19ef868f6cd32d7bb2a25f87216d6e11cd9f01d56",
-    "fac32deb820f951a6ca20801a4c9e93d4b750dec05cd0f3cc79a2844d448f685",
-    "ab814bcd16a25bed1063717af08c1ea70c2003d6b018e32e946d473d0c089cd9",
     "cd3f79eacb1cfa23622a8ca661dd97f604ff8c407476b7da4a6378874799bbc3",
     "d6d0c49df63e60602a2f229fa596f31ff3506740649702575ed28e3d2dad6891",
     "4f91e9dc4bf033b5401dc285f77307a9b0d22db4d4c243449a60d38924cb6c15",
@@ -4000,20 +3988,21 @@
     "e47c52d7dcb3cd248edfdc7eeca46525ab83d4f9aeb18e8c72f781ed75cc0a2c",
     "18607df8f822fb9cfe49a00b5d802c09d30ba7ddf9812bc344e0edc26f2cf9ef",
     "39994db17270d46fc0cb0f3c7eaa55c312b4a3a450afbbc6df93292c469c902c",
-    "5fdc5ac196f1ec4f452c5797a4fa24736e9d578d0567f06993a991eca4a262e3"
+    "5fdc5ac196f1ec4f452c5797a4fa24736e9d578d0567f06993a991eca4a262e3",
+    "88a562d1a12d78eae658660d3389903e768b8002bffddee08763f6dcc4c96b00",
+    "1763b853ec8bd6dbd36091672d1f55e5646d6771edaa119fd0e2569eacced8c1",
+    "7d7ef36952b957099bab2fbd704d38de012a0356b00fff24b4df6d9f47cf020c",
+    "82f5ace7fff4ea30d6d418d0ce314b1e6e889fae4467ca670304b7868947368a",
+    "952d37c65e83c24ab05f7a1e0009f9cbe7d8a81cfbe9d3ea2c4f8efd9c8003a7",
+    "7182e6bf8cd82e760c93b48462306bd47139e1c6642a7380b55791c103295425",
+    "e4ab2eac6d2b1b9246185a8fa8fc53ca8ae1f3c48b94d212f616ae8eff5bb659",
+    "9b9e49b553e650cf1771e74f3d44e758cf5541cbb9c61d89a204fbc30c6f105d",
+    "74337c2d427c47cdd298e452207f0a87a6537ccad975fe139a0c6e4710cf373d",
+    "6da06234e7254d715c623b715fd3f0a8a467bec2bf3bcffd6639854f25919b3b",
+    "a7d466bb02db0b572aad3fd7b6eeeefadd03ac27844fb1610770685a03fe32a5",
+    "50203580a6c0a5348cac963b67f5cfee0b11bd53cff5514ad5641028ceee0356"
   ],
   "title_hashes": [
-    "0ff37bd7cb8d87e00dc28cdd4a4e2a7c22f79645bc675abc770088e265052cc8",
-    "81ff61d04f83a0de1e497cb37198cd69364156f2762b4f30176b510480c194ba",
-    "862989669537eced651a6dd477d8d46cbb32cf163ab92acddacc25e9569b01d1",
-    "c8f943b58b489b9c05e74d3dd89712dabd76a9c6fe1aec5844a256be909015de",
-    "a87850967ce9cb57ef123befe1921e96a579d18263db0fa4b4cd6499bcc2636d",
-    "f4a7cdac0deb29483f49a2677fe7d3ee926558272410ee1e6af6601d12ec53eb",
-    "f8988d07ea72c1622688b5fa307ee607b9758d085f0523def992010ca14f58df",
-    "a560de200e7806f49fba4505486f7e560af3ddfee720584170ebf4d8853d457c",
-    "3b14d7a67a01524b1eb56838481e5a834eb5cebad867d70abe3ec784ef94017e",
-    "303564560a887d27cc337aa9094cbb02af34cb9c6eb4e93c487af5d1955558b1",
-    "0f0a1715bddbab9cfa0b057acf031b5dcb298ac4a35880549de5428bccbc8366",
     "5031322613d082b767c0b1a3e04337397a29f710782a43cb355948c74d019df2",
     "fed2ef6ac097443c5e9bab83bdfdb70335104522b25d40b50195e7433343a552",
     "7fab47c4b175aa404933c3eeb218ae4f182d9d45cafa200767139be5b22494a4",
@@ -8002,30 +7991,20 @@
     "045a8d89d1d416b11a4957f1861164e825d68f9129fef3cd302b3aad4deaa3cc",
     "fe5c713257b6856026a57d3c59bf88384f9667ca5aa7821691c67728e6ae08bb",
     "139598607becaedc15090f4e054dcf3e6a0ba4efef714f942efe22e1d0ff6f0d",
-    "03765ed41e80f547953067d2135fcf232a4e2400433a9ade96857e7761a27d3e"
+    "03765ed41e80f547953067d2135fcf232a4e2400433a9ade96857e7761a27d3e",
+    "9081c66a4e8068bfcf7c2d32a1ca78fd300d62347d8309110c8d4fe7f657051a",
+    "11025ede4b3773f36bb02e1bcacf58d47a5e2f5a17c1ee5e84dd94d5e1981f62",
+    "d3e96f56a836ffab8db9fcccbd37ab1b1bf14bb25beb01e949d93ad1dce1f67f",
+    "e0dcaeeccf5978b606f4af1bf63568871faffdd4ac921648b5be34c64a6b3689",
+    "e3173e0fad8b97d619922f438988135adf2a880e14a763b6017c9f71d67e4db0",
+    "15f5e6ccefbfb359dacff15f3f1fd4fce18b4025af568ab0ee44714eb77fe034",
+    "40cd133a6202470419704cef76a4d188b43388359dff4ec26cee0ddde1c33f59",
+    "9122e72d5ba07dbeff2db87a9ad575179e301480ba5bc816102a2e5c6e60ad69",
+    "d969df5a96f84ab8db76c6cbc6c229d463a1eeb93d0894c01ebb9248bc94f021",
+    "a27509b700f55434fe05642e156f356f84c21395c97cb6879e3182d0879793ee",
+    "827a520898bcdd56ae0dbcf87569eea4bc021ac99fb7a704eae987f419a8c8b4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "英伟达和美国脑机接口公司合作，推进脑机接口高性能AI计算",
-      "title_ko": "엔비디아, 뇌-컴퓨터 인터페이스 분야 고성능 AI 컴퓨팅 촉진 위해 미국 뇌-컴퓨터 인터페이스 기업과 협력",
-      "url": "https://wallstreetcn.com/livenews/3204703",
-      "ts": 1795497380
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Most Germans Now Oppose Military Support for Ukraine, Poll Shows",
-      "title_ko": "대부분의 독일인들은 현재 우크라이나에 대한 군사 지원에 반대하고 있습니다. 여론 조사",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/most-germans-now-oppose-military-support-for-ukraine-poll-shows",
-      "ts": 1795497547
-    },
-    {
-      "source": "디지털투데이",
-      "title_en": "우주항공 정책 통합 추진…황정아, 우주항공기본법 대표발의",
-      "title_ko": "우주항공 정책 통합 추진…황정아, 우주항공기본법 대표발의",
-      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717729",
-      "ts": 1795497551
-    },
     {
       "source": "조선비즈",
       "title_en": "금감원·거래소, 불법공매도 합동점검 TF 가동…3개월 집중 감시",
@@ -11504,6 +11483,27 @@
       "title_ko": "DOW JONES는 개장 후 49,299.10에서 296.21포인트 또는 0.60% 하락",
       "url": "https://t.me/marketfeed/1084583",
       "ts": 1795530786
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "半导体ETF跌5.2%，在美股盘初领跌行业ETF，科技行业ETF跌3.05%，全球科技股指数ETF跌2.94%，网络股指数ETF跌1.13%。",
+      "title_ko": "반도체 ETF는 5.2% 하락하며 미국 증시 초반 업계 ETF 하락세를 주도했다. 기술산업 ETF는 3.05% 하락했고, 글로벌기술주지수 ETF는 2.94% 하락했으며, 인터넷주가지수 ETF는 1.13% 하락했다",
+      "url": "https://wallstreetcn.com/livenews/3205083",
+      "ts": 1795530815
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: 🇮🇹 ITALY'S SECOND-LARGEST BANK UNICREDIT LAUNCHES BITCOIN-LINKED INVESTMENT PRODUCT OFFERING 100% CAPITAL PROTECTION AT MATURITY.",
+      "title_ko": "출시: 🇮🇹 이탈리아에서 두 번째로 큰 은행인 UNICREDIT가 만기일에 100% 자본 보호를 제공하는 비트코인 ​​연결 투자 상품을 출시",
+      "url": "https://t.me/marketfeed/1084584",
+      "ts": 1795530942
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "BNP Paribas cuts Micron rating on risks to 2028 hyperscaler capacity plans",
+      "title_ko": "BNP파리바, 2028년 하이퍼스케일러 용량 계획 위험에 대한 마이크론 등급 하향",
+      "url": "https://www.streetinsider.com/Investing/BNP+Paribas+cuts+Micron+rating+on+risks+to+2028+hyperscaler+capacity+plans/27391993.html",
+      "ts": 1795530947
     }
   ]
 }
