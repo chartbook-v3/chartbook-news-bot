@@ -1,24 +1,6 @@
 {
-  "updated_at": 1795529331,
+  "updated_at": 1795529507,
   "id_hashes": [
-    "12952bd23a9ac9469a3b22218a110a65fb15d6950afa6a91d26764b42fa672da",
-    "3a174e9bf5a8285985778419f8891f7107dd09fd093120340d9c80b9b36c2f76",
-    "afc7c9e708c50d81040e76ba1f26f0268838f1c02511d11b4268e6c3d72534b1",
-    "eed7e56c99f46607720062fdbc68ffad9b644f6d10ae6a333d49058e9499ab0d",
-    "9f38086d590eb2f4b215a0feebce3b21617e4476d334dbc057686ce28e6d41fb",
-    "5339b225f28b5ba0908b26971da64789975a19f5bd52b96ec95c92a3ee0a0df8",
-    "560132f14fef581b615adfa098b80d40ee8b0b489d0f791e78d2a4f69463d3fe",
-    "fad9bc10b446dea2a5384257adb01754888016682c3095bfb9eb4c129839c0d1",
-    "bcd5a28ff4ee97c9d6a2d421fd4b211b5d6f1c98479be8f67c5e17f71e4a4727",
-    "63a19c8c32ec7e54fc681f6c8b92204f0d65c474e109d3e9af4fa3ab90f65b42",
-    "b4fe3d621c837234f831734c13356af2f7e0341ca50dbd3f82d137720127b727",
-    "e091456e4b1f4fce1f9d9c6ebc032a9d2c8e94fe7b2f9be0cc0e6d72ab75f4ec",
-    "e76d6d0f816057c5f511da1b5aaff623db846328470c9a1ea2df44795cf5de3e",
-    "586a5b873ca23370b13f8a88c038e39cf47de3dcfbd4e1101427dd044c61ffad",
-    "098bbd22ccbf04852a20ec671003ac878b07fddcda5a82c3d1bce6ebb237f949",
-    "a4bc9627ff6fbba92f169ba0beb763f7dc7906ea32a5b0474801146042a247c7",
-    "12688c68b02cb8f95aac25fd095e0a9c70c0a28976aa19a509424c8ea86e936f",
-    "eb348e22bd4095390dd1b490529041e3d7758721998dd621f12bae4ecf1dc57d",
     "40e4a52b224f53b6e45fbfff27096fe6197e88593e911d5905ab86a88b253f38",
     "c54cdb07059380393727ff3dd0e6b71496cc929e682bca59cefa1976a582fbf9",
     "c845534c439a22b444b4752997a8ca01003771393225692847a995dc9a62ff7f",
@@ -4000,25 +3982,27 @@
     "b089104280ef2e672dfd24aac106054e8d4fef3f850ed9a71df1a26c641146e4",
     "2ab247e33ee4df8066b606b7e720da7ea398c6a699b940cf44bb69d782a40777",
     "419d871b2754df212cfb9ba30591cadcd7cce5531a163a46392edcb60a6889bc",
-    "c16e01d9f82c3e9cfe8655234d083671fa11ab08967b01048c5cf729e372013d"
+    "c16e01d9f82c3e9cfe8655234d083671fa11ab08967b01048c5cf729e372013d",
+    "d051639d13e3c79c3bcc633290e6317017fce228b7efcf883843653b1dc0f616",
+    "0d5e303bec4d1d588592bf9c62fb32045de840e0e1923ce8f216680e7d1206e5",
+    "d90abea4ebbc351f40de17fe77517940e932b503865f919a5d958131fed94334",
+    "1da8dd0ec343e9e3af52957797cb34d22165de785159f20b531a7b9b47ef90a0",
+    "cdb39c1fba90b1d3a62ae2a3d453b7ee5d87b3a9f1b6ecabf53a17abf98396b3",
+    "2f4e36886696fb9f062764c1b7e161580b7db4e8aaa4d1471575cd87449535fe",
+    "67e035072bb35e73c48d6d1c259e88c5eac4f5e56592436fb57d6931fe1fad7e",
+    "6c9b57d6e6668ec5e56f065768556a54c9fe3c5fd02e2303aa4a7f709da7a54e",
+    "8787ae4e012c81cdaa28665242d28f0b1958596e6077d461010790f6b26c3075",
+    "d7176d35df14afdcf5c6eb8d8f80d29c7a1173f280cbfe45cb90acd37ee69d8c",
+    "de9041d580f957632ca6508130438165d7a437596ac7783fb287f80109b2b46b",
+    "ec462252ee50dbb38696abbd9c244ed19699aa6585c961d32799c380568178ad",
+    "a361848cdd3614a9a69774fda72dddd214717f4f9f229121f6514af8dc193062",
+    "8634ecdb42973ddba2fc2df58d961a79872e919807adb4491b6545bcf88feabc",
+    "a4346d34e62cd8b485297cee089f69d85f4ba8eba174a6e4e394e1562ae38a14",
+    "db4a8055b29d696ad83d183e3e040e4eeb721ae6fadb4359745d03e58441340c",
+    "dbf159270dd875be825268af5120f6b109ccf596c3185ab52faf9fce67381a5c",
+    "763c71f1ca9546cd498a9d1df671b7a79243b7984e90ea752647e5d9efb8f2e7"
   ],
   "title_hashes": [
-    "09e84990946f3009acc25507555a9e8adbe5eb4dadc98c96555c156e298cd82f",
-    "fab4f98940e5f07a7623aa83e296717b93c672551289846aa26266f4e6c67db5",
-    "80a22ffa485714a6bf0f2048eb036d808921c0270399173eb9327138cc966277",
-    "00aed147d8c41b500dd018d4bed484ea63cb131e3c76ea2a728d2533a3ad313f",
-    "c7724b09deb20c08472545981ac72a1babd1e78af479c38444cf787db73b1ccf",
-    "e32aad7e61f20ba2a33438905d2f1b07f2e6c1975cc209d0c4b4096f7350757f",
-    "60d6fdeb3fa8ba5ec5f8ac1bd7c58f056ddfcffb8a0bf5bdf406fbfbe7a567d0",
-    "5e96effb41b723f37fb08b94ff4b0f5d67e3c1b68d6ba6692a7333a0b488354c",
-    "78382da10da74fe4369eb998b5f40ee53f932ac8dcbed0785ca9391fe3dcfedc",
-    "6b14a8d010cc7851e89bcf497054a7994ed430bd22630f76842ecc40aa7bea29",
-    "54028d1b17a62ddfde7d3da40ce1f3e3c739aee5f1d191416ffd7b466e369ff8",
-    "64dfdd73be0178f042636ea1128bdd38809adbc9e8f178b083690cd5cbcd5061",
-    "ee21dbcae70be96b5b3201f23b9a7e3a527439924a04622f6bdddbb8fa852c38",
-    "bfb154d062b295b95f5beb44989372454c018d27f53131b5711f4cc21f20d360",
-    "c1cf9fc55a62e9c1e25e1172b3bc48c77e1412e852e50a47cfbb2356c410b88c",
-    "6d1e3c8a5bd120d9da5e94418069e2b1899244ba177e9223e7330c046b8e304f",
     "d191b01400cf082c4307eb8e7cb5ac4d16fe7773b1f2d8d7251bce7cba55d03d",
     "fff7a8b6a8c4d9bb7cfc2f5065bafd1ac3d60aa876660349b1a2e2c72dd78ee5",
     "aa765d8efa324122c4fd10ac71c2c21756f1099f4ff206a242991b17f601fb65",
@@ -8002,30 +7986,25 @@
     "141576979cb933454ee35e3dc0d136f6d615692c68f2b64e29a65f072be1ab2b",
     "c0b02528787a09ff50e9fc63e1c11c7534046b818d6d81f8e2bc403339ff540b",
     "1717a7409b6e19339bfab00a452668b25082c4918a80e09dcf72f87c219d1398",
-    "2c2199c7189ad2794ae0a211ffc853a0876dca1bca6fa80c35f42c24b30ea4ba"
+    "2c2199c7189ad2794ae0a211ffc853a0876dca1bca6fa80c35f42c24b30ea4ba",
+    "e5a58d38bc5b7d1d3c65a7505c9caae4d92982b5879a4a2183ac630ad52f3aad",
+    "97a47c7248cfb49485a9e4055b6ecdc6f5015a06c3488d2048825715fd16e4a9",
+    "9f53881a28cc53508f15ab05089b6f55d353c73e6eac2545c84c289d1af1a765",
+    "66cea7877581a296db5683ea6d7a72ab574d6789e0e1b189d36b6ebd5d2558a6",
+    "a0f0e3acea0d5108ea15475bbc7300f3ff3b18d420795324865685c233921260",
+    "95901eb8d7f80853feda1bac5bb9db4edc888d023e1669c99d32807957480a51",
+    "366a165a909794410314dcf829294108a4d033762a639d362f0d87788680c421",
+    "e2f0cb5eec41c312733429d053610894683cc5c74857c8af51da862531eeb8ac",
+    "40160c34bd6d1f072fcaf43fe0f6e1cfc3cf1bde9803d77312f075f658d7e912",
+    "63d346eeeb85b0ca779b4fbf1e0bbb4f2dcefe7070566b5d09fb399838077b3f",
+    "334397b712ed4cc9e43a3f7b00f345f33c629463d05b83cb6246e9a0bc984502",
+    "04155120f52dce23c5b84e50c669671feb53c0f5e7129d840e6251bf605ccd70",
+    "81aea9d7abd5cf1833924c73ceaa1348ed80d125d276f5f7d1cabb7772b99ed8",
+    "6fef8e9d33c12b799a8908b23b7bc79f05d04779bec85d15b4e094c8f7dde81a",
+    "fe159693184a24bcc9599fecf4a1bcf1055e1f409c50117f6973feb0defa1aff",
+    "0e995e7bb7f662a0447ffb6b9f02a89ae66ef0f9bddca403b1cac5b620eaf22c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합뉴스",
-      "title_en": "빅데이터 활용 빵 생산량 조절…매출 15%↑·재고 부담↓",
-      "title_ko": "빅데이터 활용 빵 생산량 조절…매출 15%↑·재고 부담↓",
-      "url": "https://www.yna.co.kr/view/AKR20261124107500056",
-      "ts": 1795496433
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "KALSHI HALTS OPERATIONS IN UTAH WHILE DODGING IMMEDIATE BAN IN NEW YORK",
-      "title_ko": "칼시, 뉴욕 내 즉각적 금지 조치는 면했으나 유타주 운영 중단 결정",
-      "url": "https://t.me/marketfeed/1084294",
-      "ts": 1795496436
-    },
-    {
-      "source": "디지털데일리",
-      "title_en": "‘K-로봇 성장활로’ 찾는데 30억원으로 될까…후속 예산 확충이 관건[종합]",
-      "title_ko": "‘K-로봇 성장활로’ 찾는데 30억원으로 될까…후속 예산 확충이 관건[종합]",
-      "url": "https://m.ddaily.co.kr/page/view/2026112413113853670",
-      "ts": 1795496591
-    },
     {
       "source": "뉴스1",
       "title_en": "[의학칼럼] 고난도 자궁보존수술, 로봇 보조로 정교하게",
@@ -11504,6 +11483,27 @@
       "title_ko": "Tesla는 AI5 칩을 자율주행에는 필요하지 않은 Optimus만의 특성으로 보고 있어",
       "url": "https://www.teslarati.com/tesla-eyes-ai5-chip-exclusive-optimus-trait-not-needed-self-driving/",
       "ts": 1795529330
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Dollar Tree rallies on Q3 results, traffic growth, and higher FY26 profit outlook",
+      "title_ko": "Dollar Tree는 3분기 실적, 트래픽 증가 및 FY26 수익 전망 증가로 반등",
+      "url": "https://seekingalpha.com/news/4676127-dollar-tree-rallies-on-q3-results-traffic-growth-and-higher-fy26-profit-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795529367
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Jensen Huang is back as Nvidia CEO, but investigations and risks remain",
+      "title_ko": "Jensen Huang이 Nvidia CEO로 돌아왔지만 조사와 위험은 여전히 ​​남아 있어",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ceo-return.html",
+      "ts": 1795529501
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "MUFG on Fed Rate Expectations - FJElite",
+      "title_ko": "연방 준비 은행 금리 기대에 대한 MUFG - FJElite",
+      "url": "https://www.financialjuice.com/News/9866186/MUFG-on-Fed-Rate-Expectations---FJElite.aspx?xy=rss",
+      "ts": 1795529506
     }
   ]
 }
