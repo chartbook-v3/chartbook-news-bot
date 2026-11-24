@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795552430,
+  "updated_at": 1795552581,
   "id_hashes": [
-    "5c5792b97d166e83a8103a5e9e0c688b3caeb29ed401f211b2f171e1c0cf3452",
-    "e4a0411a9e0c238971c45f353ffee1486d03b60b15d739fdb594a872ae370d82",
-    "a6181ad7c78d17f381be14f215d8de7f75fbaa7bfd88907046942504b0d9014d",
-    "ef89365d16709b005292beea7de8a1c1a196fd56be1bdc59c444eb50a795b63f",
-    "563ced5120c022f2c8fc3e0b6910a1137a28c390bab63f6d71b5e507df558c1a",
-    "3eabb79f6945141ea737265a0263a21bc59b0cad761356ee61402c22da3ddb80",
-    "8c8256a43ccfa4aff0ae88d79808f2c10200c823125685bc78fd21fbc8a3f545",
     "3b3c96ae14bcced0bbddd6870f2892ec33465747c90b0b5130e3e07817227f54",
     "86c1c9a2887eef82eaaba2006d309f1dc789dbbd518a81c5f6b4f5319fcb13ca",
     "d9bd56cacaeb1109f84a59a770b8f537828c5bc28d0d83bf8a6a147aa34f4b0a",
@@ -4000,15 +3993,16 @@
     "ea8b379f846a9cb024e3c3189937ff89a06621125177183121a454d2c0efd15c",
     "803a6280a061efacfede2fdbe2fc6adf939b15ddf7a1fee4645b67ac59d63e3b",
     "e1775d9267d76e7b1ca3bf328c4cd0509d936c3dbcb860dbcd2cadb63dc758c1",
-    "23ed31adbd83d156f38a6dca98234bb36a46c3de5517c8936ea3772ade30c527"
+    "23ed31adbd83d156f38a6dca98234bb36a46c3de5517c8936ea3772ade30c527",
+    "5d5e32ca68563061f0da3d5fc2aea14efef801dfbe42941b62934fb152d9e001",
+    "2b9214d8ad371eb94d120420320a58f5f95cb6fb5f88a8e9cc8ef90f047b6585",
+    "5d5b2559c1bc0387efe51434a6feb322103f387c102fe912f3befe55b9c157f5",
+    "e93f41b43ea8e1bd9f703091060613f85ea0a9821f45f40e73d7ce0b7142e483",
+    "eb1ee4d4e878882774efde80c8f628975aca0b40b15e0b5374318f5172468d9a",
+    "289d8e1aa93fc3e4606208b800da1896e92ee12c5465796016dba6b50d14a8a8",
+    "d4cfcdf768b277eb8ed4dbe4cf03e26cc5ec1ec699297796e0c27255de3030d4"
   ],
   "title_hashes": [
-    "342848ed64b52fb0c7d3460640561befec1fc05c065bbc67a07b5d4a4c36faec",
-    "ded34a59d0fadb1148db709833af46910fc33e8fd4b52e1220df119c44a138a8",
-    "95f9d2853d1d311690c7828d6f66b0c6009cb2ad0a4a195ffacfffd61c93b3bd",
-    "bc90f0877472bf3ae0f5997fce8ea95e97ac0b92f76394ddb5597df3311fce3b",
-    "f9c7bbf2ce7fe19e6b29933b08608052a9b18aa6a90b0cd905c4bb19ad2f4b34",
-    "817e7dcba586ac5a5fbb678ba99ec7207cece3f309c3f695dc89a9f7bda867b5",
     "dee10699ef3aa1ee86109b60f6269fb551489c0b25f2f76a2da69d29c631032d",
     "bd0ed7b1fd1e489b3d30a2cf8182c3b07fd0abb8f61efda3a26f059c2ee160b5",
     "a73101ec33a1c338d8f582e5b963b9b0d7a9e8b0d399658ea61f76fd72f63015",
@@ -8002,23 +7996,15 @@
     "fa15e5d6a64053fbfe362ef6c18553531b7a3961a7fbdaebfaaa12078179afd3",
     "1d365b80e7df05d4a410a5c4e9970e9fbbbb414f0f8c75341cbc569e6aff3894",
     "49686a03756b38578276d92e52bfc4ec91635aeb0419840b62872669d602fc48",
-    "9048fee917e7c7b0c6a13babdf48d435badcccfcc3cc3ffd84508ef8e767c46e"
+    "9048fee917e7c7b0c6a13babdf48d435badcccfcc3cc3ffd84508ef8e767c46e",
+    "2d558a27cadfc85c98e0a32e40c3d1084e767a5d30484bd9eb999d89c8cb3433",
+    "2e9e24141d3579ec04c81ee76caa3e8570c8c5e2e6a51636056ca42e07e2f454",
+    "ee5e3514a859a6ba68ae1f77a81ef57e95b0d73f8d1f269c32c0cdd492fcc12d",
+    "e43abf1113988d71940568bf1e95b103b170413366d4fed2a145ae5bcb5e4419",
+    "bc78379aaf0670151c3b6f8485589f4560efb1ef2a89172e966371c1eedb89ae",
+    "5c4dc025dba662068c8ef6012cea6f01fd2b54a153298be1cd88d6c5a2db96b4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Reuters",
-      "title_en": "HPE shares fall as margin worries overshadow raised outlook",
-      "title_ko": "마진 우려가 높아진 전망을 가리면서 HPE 주가 하락",
-      "url": "https://www.reuters.com/business/hpe-shares-fall-margin-worries-overshadow-raised-outlook-2026-11-24/",
-      "ts": 1795524792
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "$ANT - WEDBUSH INITIATES ANTHROPIC AT OUTPERFORM, SEES 37% UPSIDE",
-      "title_ko": "$ANT - WEDBUSH는 뛰어난 성능으로 인류애적 활동을 시작하고 37%의 상승을 예상합니다",
-      "url": "https://t.me/marketfeed/1084500",
-      "ts": 1795524794
-    },
     {
       "source": "Bloomberg",
       "title_en": "Stock Rally Takes Breather as Nvidia Euphoria Wears Off",
@@ -11504,6 +11490,20 @@
       "title_ko": "미국 10년만기 국채수익률은 4bp 하락",
       "url": "https://wallstreetcn.com/livenews/3205208",
       "ts": 1795552305
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "RTX 5070 Ti gaming PCs hit $2,230 — skip the $1,400 GPU markups",
+      "title_ko": "RTX 5070 Ti 게이밍 PC 가격 2,230달러 달성 - GPU 가격 인상 1,400달러 건너뛰기",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/rtx-5070-ti-gaming-pcs-hit-usd2-230-skip-the-usd1-400-gpu-markups",
+      "ts": 1795552454
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Nvidia Buyer Megaspeed Added to US Entity List Blacklist - NVIDIA (NASDAQ:NVDA)",
+      "title_ko": "Nvidia 구매자 Megaspeed가 미국 법인 목록 블랙리스트에 추가되었습니다. - NVIDIA(NASDAQ:NVDA)",
+      "url": "https://www.benzinga.com/markets/large-cap/26/11/63605668/megaspeed-entity-list-nvidia-blacklist-southeast-asia",
+      "ts": 1795552580
     }
   ]
 }
