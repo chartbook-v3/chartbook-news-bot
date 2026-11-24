@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795551809,
+  "updated_at": 1795551958,
   "id_hashes": [
-    "2c154afc8a92d279fe4c06c88bc1da9153b43d673dca48d163792bae81083ef6",
-    "135a7d4ed72348f19252113c987c0d6d63045f030a12a5067b5a57c4445ed63a",
-    "20a99b6159bcf644562c044da2c6c45045b7e00b511e3bb804b2a0c447eac26c",
-    "58e3033303ea4e271ab0fbe683af852241b62d08bc875762bc69d54f4e0cff23",
-    "20ddedafc3f5bd3ad672df39a261d0e5202ed57c0af94fc92d1d0bec5a1114a9",
-    "9b02165d21a59b052075e860345723e8d165c6cddcca436421cfdd2c6dd11ae8",
-    "3526d44c6e08f7b6a327ca2d27796d2017d31c1956dee80d208c3c73e9ff4ccb",
-    "614db82e63de1991eb147051251120db059ff46decb51581aabd7a4c1faa0841",
     "8f2794756a2134e1715820d01c67509e288eaab7cb67cfb7242dbbb755949c48",
     "bc915c1c55448830686e96030370eb43ce44c28339d70d62f3ac65ebcf9ea80b",
     "52762627509218f07cf65ec1948b0204c556b5d715d019502ddb6b6366582057",
@@ -4000,16 +3992,17 @@
     "feb4acaa8f513f016d6b43def5395a74ac84436a2de3d16f4a5d691aba4628b8",
     "a98d4fe0d165a35eb7f2bb0bfedd79266753d583c9c7276d04d83005c1f5e743",
     "85a814a7290ca6d9729fc3648da471c8f896c234696669b23a3fe0d8363a9eb8",
-    "3e85783e5b0930c46183c99c45c3120fff1ec6baade0c2799137ee8298bc601c"
+    "3e85783e5b0930c46183c99c45c3120fff1ec6baade0c2799137ee8298bc601c",
+    "874c012d2467ea974924395a054903db8c0bc93656e899b94280a12d940ecb30",
+    "3521bfe260432034bcdee545630a17d0c8aa13ebe58eead1c4efce7a090d7fc8",
+    "950ed541328f0b1367f178cf271ea916a7b8cc35cc80bfc291f418acf33bb410",
+    "533a8943b5e891f220eff5e0f8db3ec5b896ba0f8c82519c796002c13ee4e636",
+    "3e3cb9d919555f28e5a07a8310ed5982563728ebbb35adaab246c31f15441a4c",
+    "37249095ddfa88eedf86c6bcf8dbb5566396267587cb4c8a17efe1cc41e98039",
+    "17a8281161ef7551977e70481159f751f13feb3083b15c0b0a3a57c27379ad0d",
+    "c355691bb435a16f98c3433ecabf06b986f84928f94ae4899077d93699f942e2"
   ],
   "title_hashes": [
-    "7fcd7371b0c0f7066f8cdfb9e25d98b20ab85112c016acc90012c5749874613c",
-    "624ae651cf647f1ea5aea15617dc0420a30e148360470b2612b5bac58bfd6511",
-    "51a79afb82085f8f87129724192f5ca3bbc7e74c3cba06a204509aa8cc0922b9",
-    "a3458be65135153a3344bca9388876b24f61ea87996d318a1dba299537b05231",
-    "1561ad24289d48cf61d820e7650910d9b96bca06392ba6680a5ed513e11ecbc9",
-    "05e0918878492bde71171124537beb5d7f7df0c3b6a45d9b95bfb475b96f03bf",
-    "fbd63f4f908c15ef6f15e7d4900348664f46e23660a1ca6b7dc04efff5b1ddd4",
     "c6fc0ec20854dce5c6530d9a250cb559e7ba21435fad00d96d46cd63ad66e4fd",
     "2c53533674bb929635db3b6206013f2726c32eb3ac785c3ea6e833592b56c06e",
     "9df20f6bccb27a4c0218e62167c68974d3750117c527372e5bafebd1e9ee0d88",
@@ -8002,16 +7995,16 @@
     "e815f2eda4692aa8414340e738c073808f6f54aa39edb7640114f25d116f2316",
     "5b2118f9bcb8896bcbee9124712eb55b362a64b42ab9d367be8f2ef288e57446",
     "c098132811de1c12a8967e99ce3eca6b85c920dff6f6c63ea675071ffd896ed0",
-    "82f114007475e9a3d498c74848935c20614d0c38146bdf42ec3ff3bf73562e4a"
+    "82f114007475e9a3d498c74848935c20614d0c38146bdf42ec3ff3bf73562e4a",
+    "6aafcfedacddeba322793afaff3a1620fe1a0d9fb412e41ad798062c34139555",
+    "b2b5e2f94f2874a422f15e49668a9c12b27d10a4113e74ef15acef55a6b4b55b",
+    "64a8a00d5f7f61ce6274280280ff6186a24e0b1a6bc92d5d32ea53b09e3973d6",
+    "bde961f2b7c8506aa2466b7a01c284ffc0d860b86bd2da3377bc9a9d2d632a3a",
+    "5ac8ef883ba770fe321f0e1b0d99af5b6c64a2ffdde7e06229aef194fa302bf9",
+    "34fc16c59c67c269b14643924d2404578745465aa27f4002809c1f8356d679af",
+    "14dc3d192d96ab708c95820637994a26064abd55736fbe4937622a894fafe1f4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "지디넷코리아",
-      "title_en": "동서발전, 예측·로봇 등 발전운영 AI 성과 전사 확산",
-      "title_ko": "동서발전, 예측·로봇 등 발전운영 AI 성과 전사 확산",
-      "url": "https://zdnet.co.kr/view/?no=20261124214616",
-      "ts": 1795524591
-    },
     {
       "source": "StreetInsider",
       "title_en": "Bernstein reverses Nvidia downgrade on Huang’s return, valuation",
@@ -11504,6 +11497,13 @@
       "title_ko": "SpaceX, Anthropic은 민간 기업이 통제권을 유지하는 새로운 방법을 찾음에 따라 IPO 플레이북을 다시 작성할 수 있어",
       "url": "https://www.benzinga.com/markets/private-markets/26/11/63604748/spacex-anthropic-could-rewrite-the-ipo-playbook-as-private-companies-find-new-ways-to-retain-control",
       "ts": 1795551682
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Sanofi acquisition of Insmed boosts other biotechs",
+      "title_ko": "Sanofi의 Insmed 인수로 다른 생명공학 성장 촉진",
+      "url": "https://seekingalpha.com/news/4676333-sanofi-acquisition-of-insmed-buoys-other-biotechs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795551957
     }
   ]
 }
