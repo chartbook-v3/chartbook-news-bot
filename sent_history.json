@@ -1,27 +1,6 @@
 {
-  "updated_at": 1795555060,
+  "updated_at": 1795555221,
   "id_hashes": [
-    "2d9a94b82f23bb4f933286d8c0aabdc02adfb0acc7eb6c08023d4fc0b9cf8671",
-    "611d10ca44c3f96743b0e3366f53e10da0eb29ba62745d8f0ea91c2555b56090",
-    "95327b31f85609d5563cfb141e0e83ec9a10a16e8044896e58294def5939c0fe",
-    "1fe5f2b66ae131b10242f8a98d53bd270fc4f22331066207f16b52dd2e535969",
-    "7b8b7a1c022dcffc21776c5b1d3a1257c4b3b5462548ca2f4866794a841511e7",
-    "46a5cde0e512f475a560458a775e0ad05c4cd593c337b13b53764d37ad8c5392",
-    "c1ff84319d227d49796d6e42b67c8bc682619f289dfbae60c14bdc89a2638789",
-    "fab51f598a353128f00457d5b2dcc6edbbad7cd5f1dcd3c6c2d978d3a5bcae80",
-    "1a0f51571e93e6a7dc6beee1db40d3086d34fd085c19f8100bc370285ce8b956",
-    "5b76eb2e6d336e9fea4440921418466c155f1cb8548ec261353d2a839cbf284c",
-    "475b662dae3aac16c68729b92c1167411b1dfa3de4127535088e2d41ab3cdfc3",
-    "bce055d8a4a60f6649360cf1a14dc911da471a100768577c713270f05b0db13f",
-    "abdd39429aec6c027394187bf97599e829e0a7ccbd2d62e5fdb6cd927ab43186",
-    "1380ab10f07ec3aef7f8a616994cbabaa82d1dc069414ec051626e2a4b6ed3b5",
-    "e1ecd618e3be5db1a8af3761ebdd70fdeac948c12606c90112a093bbf0b8e294",
-    "aed9d7b8fff4e5a55c6cb723097c8204ac40971758758340740fc1f65f0b8800",
-    "48cf786538c914e247df366f7ef2832866dcffe128a391db4ae9dfc0f980a494",
-    "7e6f39294b40d4e7fa31acacb014e784fe24b07e864afb34ab264a982431c7b5",
-    "2f2dfdda9af0fd5c82e0d9624c69eb87863e63278f38fd0da4af8ab590027ab5",
-    "fff05b04d83e30cfeac39c11ce7b17737524fecb609d726c62feb2b8878d3a03",
-    "1f98033045e7ac8b5cadedd9b6a97d789c683fee9df64caf27cb9e914a960234",
     "24e47b534a4799d6d7acfc741b0dd439e44ce7b3bb534321080bd1f423521b97",
     "701b17588abccc340751a95d7bfa329bb530f29e22b58f5f31e7975b8318a8bb",
     "83872eb2786a44cce0b527b1f275d2cbe7e5b8cfaa9ea9cf68c4af1a48065ceb",
@@ -4000,28 +3979,30 @@
     "618d2202b96b959e97db6a7a73b4bd4ea8f5c2ee60a70a917de5d6f5e5d90e73",
     "c60c9df5caea902a1baa8d6e8520b04cf9de35d3b06c267ce9977dd0a22eeeb1",
     "f8b327e01680e0e0ae062dcdabe2626a62b4c6db65062557d8f5eba8f236d3e7",
-    "b43c15889758ba96b8d7c94f3cf4168cce17cd22b0c230d990c60e3aaf91179f"
+    "b43c15889758ba96b8d7c94f3cf4168cce17cd22b0c230d990c60e3aaf91179f",
+    "2953b9f5615bc48abbb77f67b375fd6fdebf648b95f2fda358558e141d86b7ce",
+    "eafb13eb6e6a438731673809b7bde0e8d37cf36a3841ca55ce26762c3f347da6",
+    "d659ee22a434256f4546a5bb36a775f5d5a4378e5ad0ee5dd0f9de508c195766",
+    "bd6c0fa081ec4da4bf5a30c1b33f6e9c38b79e3d52818032c88ea7efd49b4f4f",
+    "2d9a94b82f23bb4f933286d8c0aabdc02adfb0acc7eb6c08023d4fc0b9cf8671",
+    "f468091f0b303272298645ec8afdbbdb9e7bf33d9f08488f119312a47726d811",
+    "92b27a3007ae4e1ce9d8318a31d220c175549a57a73df6de2018df2031b5b69a",
+    "0ec97851f673813e96cff3b5d7ae0e45bae72881971b4d517d26a6afb1685ea5",
+    "0c509b6e16bcfb1d9b60cfbc9cce9a1fe4d8c63d5e33576db25fc6cf4985e581",
+    "7f210c9c7e1e27ac791c498f62c8fe289c1ad169fe09a3f224d1b5ce618c980c",
+    "4f35dd1a8e42c663fab480170448d7a9c84f092a5d62864496d0ef2f3386e9bc",
+    "7ba6a3f976f9e830140259358e1d26447ba199ec5a95ad8ef8a5e7eeab829d2f",
+    "5396a396f90c9a9cb00c90f3aed9253f2bc2b87c467dab29851ba6e54bcd243b",
+    "7addbd91f7643e945fa80de7137c4552f0aeca2ddb2183c69efe7c2483976d89",
+    "d44927e52f931ef732ab9998c57c046aed9ec7a122d40a40ebe2b8b0ff20f4db",
+    "3d893d508d10852872cd0b3dd7e465346e2d94533ff8c397ab012659f68e823b",
+    "6289a9bff0e99cd21e6f0683b336c1932392d9bac7ec30df07176f64f8b438c2",
+    "5fd6555f72ee358307a083225055ada8eff7e16fa2583c93dab8391c62a0cab7",
+    "a7a0b60c31f29ac39bd37576992496617a188eb5f650b018f8b0bcd9c8f0dfd5",
+    "c10b3e8ffa62d2f595668421bfddf30cadeedbc8e51be2ecab9d1458f6aca74f",
+    "0aa4ccd08dadbb537d295153748edfee9fa43d4530f0a1ae38e4140033d1129e"
   ],
   "title_hashes": [
-    "152dcf4ce8f6cd5b79fc0ab5eb42424c448924fff6a8c0d7c77b8ae21c28a780",
-    "cf664b0977fa4d1ab20552e0c35c3a7e93dcc681abc5fb3153ddfd0ad4cf2e80",
-    "979d60e6103a96b13914559071f4827ef97329807fb8b37fcb9c30f9f174f55a",
-    "aa39a5097d20f8bab42dd2a66697896cbca799c603fd13c18f2ec780e45f5a6a",
-    "29183182c4f57415350a916086e54577ccb90be4d7f493c62fb6b17dbc0ee01f",
-    "02328fafa4ea1ffe0f966fe72d88d7afe284ec849f3e6d1afefa79ac6290fcbc",
-    "d1eb3d8e41944dcd7cbcc1baffaadca1bac7844c58fa1b128f62767c647941a9",
-    "66393a0ec96dc0cd81ac557135d7080bdc8e2622f979c496f0ad136cafc955eb",
-    "e781cd4af7efc5ee75273f0da3d7c4a5536a1267e0eea8b52e5f10a9fc8655d0",
-    "adf649cb7acc3ce0b2987db8cba6bb19ca2e2ab9cf5e7f684f9f0849d03a81ac",
-    "dc1fe0bc735054ecb91f59cee271326ff8d5e12dcfceabc16dcd204daa20d95d",
-    "ddd40c00eff7a4905ae75346c4090d9ae3bac95bc2923ffde907be7903112711",
-    "866865f569831f830e36d01a367a637584ddccda68cfcf55f4184567c3e6471a",
-    "d64acb02e9004769e638e1e1e59fa4e1377a4365f2b3b7b51c00dfe9f01042a2",
-    "4c48d9ad77ef06c8b0dcc51c230dd5540f6a3b024ce68969282677864b6d50b2",
-    "8910e53ebd062df17c9c6e57c8958e82e15f2ad7d3806ac01a26aa2a1447d692",
-    "fd42bd1c3cb5170c9e699002182584f53cbe632c0e985e822e819814c7977200",
-    "237f094e3d9f61740718b3cc9dc8983d6a730e7fd92390201e0713026ad61f55",
-    "931d701b917f68fd6a86544c839100b94981b35de42bc3c8d83fe9eec218a74e",
     "7eff4eff4c6f6989fdad3a31c7e6b8ccac77f948422f299013671f663879426b",
     "268f402c33df7b6fdf9df4bb5da1e608ebec267181542963efcf8d7531a9460e",
     "f64694f4a8003476468856a2aee908541a0fc64926ef526d28621d7a9065fd7b",
@@ -8002,44 +7983,28 @@
     "b26ed5e22d4484a56c8bd67cb839cd875082b724fc67af70d019ea6a3d3e36eb",
     "799d2f16e5a5125c33d3fecc29021a12b90a0fec6a6a325d1d9ac819fd1d1071",
     "306784ade1ac41443fd6efdca647981d32f958656b6e4785743e7eb7521b2983",
-    "7790073a6afbbe18c3dac74f4f54e50ced4bb83e37e018394cb0240a7b48fed6"
+    "7790073a6afbbe18c3dac74f4f54e50ced4bb83e37e018394cb0240a7b48fed6",
+    "ac6fb6c34452ce35d03ded850f1ea97a28376f52db6d45a4896c9e7dd688ca33",
+    "796e8f629d449a7f2424a7ff1d6747140f987769bbeaad0cd92a4c05171c276e",
+    "57c670d17aa4f12b65befb2cbb4e867fb8115d58e7d5a5b8e9957cd1876a5ba8",
+    "1c07ae696bdb19c45c6f88fcdbe13ffeab63807b406284facf10341968f508a2",
+    "37dbd9196fc9326ff55e2a04906589ba359a6430944b592db422fbf429df187d",
+    "f15b0621ff972916d4c1802200398e94724f289bc8d0d9e86a2b5ec02c9d2061",
+    "eca5853ab989a870e26b75b9e95b9cbe7cb3d5b05bf2c7481a89a04d1d04cf36",
+    "e20a31b9635ffe960d203f078d9491c0b57c74238a89a605e3d15186e78c77a4",
+    "30427fed2bac94b652997a89798553ca24007128c4db706cbc18ec6e0974b5c9",
+    "a91f78f73d3f20029f0ff528fc0ef3c5dc7d971b708db5f1de382c08bee54762",
+    "28a270eb80f464913ab20a6f59a28c3827b5b096ca3cc590e307b723805bcd09",
+    "29183182c4f57415350a916086e54577ccb90be4d7f493c62fb6b17dbc0ee01f",
+    "8ef57acc4bf5fe3b96017ac85dd90ec2f9de0c8c77873b342634604b2b7559e8",
+    "7d5044d7ce3832dc53f4f4ef85cfcfc36abdbc84aa685518e4e59d1556dcf6ac",
+    "ae903f5d5cc60cbca02df35872c07f333b5919167c7660682d6c791752a76e3e",
+    "445724376f79e35c34b0eb44b813366ba69e5d5ffaae3b5e7b71f3cc18d6311f",
+    "6e6f44c88a02e7501ddf627ee770517b162f69d90eb41e1b8cb47a703865e9bd",
+    "3815ca643f5e442f54cedbc459b9322039f887648e5507f23d606614a52fc989",
+    "6d7f1ca698e473ed52c5ca4e62784e76c07f0251080a3d0ed762a95f687f2818"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "民调：更多德国人不再支持军援乌克兰",
-      "title_ko": "여론조사: 더 많은 독일인들이 더 이상 우크라이나에 대한 군사 지원을 지지하지 않습니다",
-      "url": "https://wallstreetcn.com/livenews/3205046",
-      "ts": 1795526802
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Tomra weighs options for plastics recycling venture as expansion needs mount",
-      "title_ko": "Tomra는 확장 요구가 증가함에 따라 플라스틱 재활용 벤처에 대한 옵션을 고려합니다",
-      "url": "https://www.reuters.com/business/environment/tomra-weighs-options-plastics-recycling-venture-expansion-needs-mount-2026-11-24/",
-      "ts": 1795526866
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "젤렌스키 \"발트해 러 선박 우리가 공격…무기 싣고 있었다\"",
-      "title_ko": "젤렌스키 \"발트해 러 선박 우리가 공격…무기 싣고 있었다\"",
-      "url": "https://www.news1.kr/world/europe/6364874",
-      "ts": 1795527025
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "US PHILADELPHIA FED NON-MANUFACTURING ACTIVITY INDEX: -1.5 (EST -17; PREV -23.6)",
-      "title_ko": "미국 필라델피아 연방준비은행 비제조업 활동 지수: -1.5(EST -17; 이전 -23.6)",
-      "url": "https://t.me/marketfeed/1084547",
-      "ts": 1795527114
-    },
-    {
-      "source": "TechCrunch",
-      "title_en": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
-      "title_ko": "황은 엔비디아 이사회에 두 가지 이상의 업무를 인정한 것으로 알려졌습니다",
-      "url": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
-      "ts": 1795527181
-    },
     {
       "source": "Barron's",
       "title_en": "AMD and Broadcom Stocks: The Market Has Stopped Making Sense After Huang Return",
@@ -11504,6 +11469,41 @@
       "title_ko": "Krugman은 Nvidia의 Huang에 의해 경제가 인질로 잡힐 수 없다고 말합니다",
       "url": "https://www.bloomberg.com/news/videos/2026-11-24/economy-shouldn-t-depend-on-nvidia-s-huang-krugman-says-video",
       "ts": 1795555058
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "$HPQ | HP INC Q4 26 EARNINGS: • ADJ EPS: $0.83 (EST $0.75)",
+      "title_ko": "$ HPQ | HP INC 26년 4분기 수익: • 조정 EPS: $0.83(EST $0.75)",
+      "url": "https://t.me/marketfeed/1084801",
+      "ts": 1795555146
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "[속보] 필라델피아 반도체지수 7.8%↓…엔비디아 반등 랠리 하루 만에 꺾여",
+      "title_ko": "[속보] 필라델피아 반도체지수 7.8%↓…엔비디아 반등 랠리 하루 만에 꺾여",
+      "url": "https://www.news1.kr/world/international-economy/6364915",
+      "ts": 1795555212
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "[속보] 엔비디아 5.86%↓…전날 31% 폭등했다가 하루 만에 반락",
+      "title_ko": "[속보] 엔비디아 5.86%↓…전날 31% 폭등했다가 하루 만에 반락",
+      "url": "https://www.news1.kr/world/international-economy/6364918",
+      "ts": 1795555214
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "HP Inc. (HPQ) Tops Q4 EPS by 8c, Beats on Revenue; Offers FY27 EPS Guidance",
+      "title_ko": "HP Inc.(HPQ)가 4분기 EPS를 8센트로 앞지르고 매출을 앞질렀습니다. FY27 EPS 지침 제공",
+      "url": "https://www.streetinsider.com/Earnings/HP+Inc.+%28HPQ%29+Tops+Q4+EPS+by+8c%2C+Beats+on+Revenue%3B+Offers+FY27+EPS+Guidance/27395598.html",
+      "ts": 1795555217
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Remix Therapeutics completes merger with Passage Bio, raises $100M",
+      "title_ko": "Remix Therapeutics, Passage Bio와의 합병 완료, 1억 달러 조달",
+      "url": "https://www.streetinsider.com/Equity+Offerings/Remix+Therapeutics+completes+merger+with+Passage+Bio%2C+raises+%24100M/27395559.html",
+      "ts": 1795555220
     }
   ]
 }
