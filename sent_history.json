@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795550209,
+  "updated_at": 1795550371,
   "id_hashes": [
-    "fbcf3072cc6e593a6b90f17bcc47d2926d32882d1063f776fa56fc28921dc5c0",
-    "2d36adae8c28d45168915093367043e6d888701f7d24cd20db959be7063c5b2a",
-    "7860664c71d23c2ed0cf6be1e660e69c63f727ab69983f332349e4004f38816a",
-    "34bdb0631f75629acd786550b62c009bace11b2f33d9dda1c815d2ef9693b204",
-    "607764f6ceacc3dc0c9ef421a2dcfd8a391192bb721b99a7e3885ca81aaeaea4",
-    "ea0eb202134b1fd5735a5507b5a7c68911e897934435f0074b0013a27fbd324b",
-    "79d1a5e041166aef84590824083c1eaada043bebc75a180025d60492e6163df0",
-    "1cf6f72d465299c062bc9cde27e4438008877b43d65a306f9b6a1855a2ead4db",
-    "c71ee598eb61d4cdc5418ec7aa90808c6a926d8913f08cbd3e0379aeda17224e",
-    "84c3ec853acc5dfc63c3bd3fa58b5299aa09f76702a7716271469409753b4706",
-    "c385c51d7e5976c93f5d76222803ff0f0e808c4e75a488867e8fa72f9f40ea94",
-    "0fb177e841e44259604f421168fc992e458d1b2dc0545ac4e79dd85946aa3c5a",
     "e17276feb037ffc89b85b966441f237ff08ee92513c05289350495dd5f008e5c",
     "f82ba9530ef3e0574c86d33c7d1d714b6b04da5af629ab83ab42be2f16885f05",
     "6b878ecdf66c6b83ca7bb4d67ad501ff7c040b0e0bca0669780be70c0119b298",
@@ -4000,22 +3988,21 @@
     "8d0d0fc3db7d81bb6b6d61bad2d3a6b128bd8963ed505c3f7883dae117f4b6c8",
     "2bb1df0cee966e7045655c5d39ef7f486b6342dc1b856ec4e888adca48bd3dc4",
     "bc9a7d05e45650028b5127a388f1c17024097245b4bec213d7c948274ced74f3",
-    "e1c8cfbf08c7174b491e1fb705423de69f268c74e46ed887c7649e0a97b60770"
+    "e1c8cfbf08c7174b491e1fb705423de69f268c74e46ed887c7649e0a97b60770",
+    "cfcc25056cdfaa755775111c1ac89120943bb920f0045d0b0a8cfffc9b31b320",
+    "e38465e111809240875f47bae863630a79bbf02324392a26b72cfd6da2f5b31f",
+    "4c135b643aacfef614d90c1e962b2785c50c688efc9ae65ef994d3f09a8c7e97",
+    "43d1fa6ad24330e88f1e4cb5eec5d8950177483487c26ec05d668dae8b86c081",
+    "2046dad30084a748859e23c16927547ac689a18944a49fb22c640cfdc06d93bc",
+    "d44a2e5a09087bc2a1cb153170088d96ac12a7b989b5e6a11d72cbce04890df8",
+    "d3171eb401e8c5c6e3775f0ada67f3ee7531be379c50f0b31e26b0d8f55fa885",
+    "bacdc40741a9274c4b3a4f08587239840d428a0aea6aecffa5df4055141ab858",
+    "70531fff800c53f0aad76558d023d52c73554795055960ca7e9ffeab54890cc8",
+    "f822d01d5172f03430f2a83048fe25498ddc9080860a6d5ad9d868479743d420",
+    "b197e86d6d185bfbf8247e18f12f502358561d13a88baf1a684a6b0da471f2b9",
+    "5126a0152cc97512da2a7d658d0f57eed9b73eefc8d94016124830291c03f975"
   ],
   "title_hashes": [
-    "dc72fa22fd432a9fe4b0ab5dfb0c01327d422e835aed3f9ba0f8b6e439203d4d",
-    "ea139dc3616c4386ba4bc05241bdc4c315979cf2a0895d865eb79da6f08f297c",
-    "64fb81d7be23ba5c89ac1a70d122ca82dfc3c10db3bfbd13c2bc24b1899efb09",
-    "737796a924609579ccee049b96db559023548a315ae2b40a2aebe363dceeb0da",
-    "83cc8554b39a6622db92375871e7322f19533855d7beed8f018213f4ba03ff8f",
-    "4fcf830cedb6fabf6a77087d81a1b268cdd441cb0582e330926ce11a7ca6e47a",
-    "a934bb983eecbbd651349edc5d1e877a693186755f2fcece83c491d57326ed70",
-    "58136bb4f5d1f8f6dde9828fc4cf78ce35d6ad0253d0aaeec1da931b01398418",
-    "49258cca9e03747e9dd2a22c247c289e398a64eb53b3df945629b3dc29993b33",
-    "9e6bcf3c630213095257ae47783eae0052b5ea7c66cef222da0ff79c0dc72c12",
-    "a050354f68a0afb02b48829de2d47cabc03dcc3804e3a55f2fd15379c6513637",
-    "51999585dd7f80820bc11377c6ddcc7289abe511573179295f504b46b00685cc",
-    "744e8683a5e0bf7318668c7f2ade9d02c0bbe312792a36bc590dfc36feae71f1",
     "14bc5e56cb51c26de7f43e075e469377ad50cdedd27d15649cf37747ef71c005",
     "a4fe3c7f54604e1cfe9d044878de2cde13b335e7ed4f94d8e5d7ed83f7e3d07b",
     "af1b0bf6192f2625565ed6b9c590799bd88cf286da8b1a4eeb2f560e6840471f",
@@ -8002,30 +7989,22 @@
     "780815e5dd9737aeeaa48cc4d837d290dccd5d66f286cd20d8bb1d9cd42bcc1e",
     "7314e186fe32c807e5b75cc946fd7a123b9ab1b9c7d949a163b2bb8e1c993f0d",
     "8f7f0041cf110f2368d5798f5a193b043d1f33c321ffe1611db87df2abddf1ff",
-    "ff60ded2d4bf5f7630fffe0b1dc985cd3f86ef90984a4190d4ec999cf70b9ac5"
+    "ff60ded2d4bf5f7630fffe0b1dc985cd3f86ef90984a4190d4ec999cf70b9ac5",
+    "4a34ca8c9c15a90ee18530130b7d056cc582483fea850dabba8ea4aa911f3ce0",
+    "df5a85e082e764fd27e7292ad1387f781109c18e61bd0aec7e2a13b57956921d",
+    "003903d4d636d853c99fe1d3ddf059bc2aedbdccfc9924c3c177bad4ab93dfb8",
+    "765f1aa5740ba186b8057fe9cef4eaf8be59765708e28e527dacc48570eb9e5f",
+    "8177448e62247f8f9c8f82dd01c36c3a72dd125de9b2f1b22cf09dae0d5c581c",
+    "556e655a55baa21efe91c5538a0004fe0a3a618704c33453c1a56c766825fc06",
+    "9aa2d07652630dca9bdac4744b94bdc534d61268240468e8b71da983dad5fe4a",
+    "d2acf9d55af9ed0fc1cf9ef1fd6d2dfbf652a5b359600eb28b1d92eed11d70b7",
+    "03de1569fd5e6e75368ca198d323f8bcd594541c75a0d5b62e383bf2504e086a",
+    "be859167ca107ef7f1488c2d47b5a7472877ba3ce265bed83620ab77af3ac908",
+    "21c6237359d724064589d742423d742ab67f2657ef0f4e580654879db910904c",
+    "92f410d321fd8b401b9b148b2b4dd95a8e815d118a7caf837c7cfcfd82485a4f",
+    "09ff6ffc6057f0f3a779724174d3a1edc04e2718a6aac858ab0eb2ffea61cb87"
   ],
   "recent_sent_articles": [
-    {
-      "source": "CNBC",
-      "title_en": "Stocks making the biggest moves premarket: Nvidia, Anthropic, Best Buy & more",
-      "title_ko": "시판 전 가장 큰 움직임을 보이는 주식: Nvidia, Anthropic, Best Buy 등",
-      "url": "https://www.cnbc.com/2026/11/24/stocks-moving-the-most-today-live-updates.html",
-      "ts": 1795523896
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "YYForce (NASDAQ: YFOR) Launches Trained Humanoid Robot for Hotel Concierge Service Using NVIDIA Jetson and Isaac Sim",
-      "title_ko": "YYForce(NASDAQ: YFOR), NVIDIA Jetson 및 Isaac Sim을 사용하여 호텔 컨시어지 서비스를 위한 훈련된 휴머노이드 로봇 출시",
-      "url": "https://www.streetinsider.com/Globe+Newswire/YYForce+%28NASDAQ%3A+YFOR%29+Launches+Trained+Humanoid+Robot+for+Hotel+Concierge+Service+Using+NVIDIA+Jetson+and+Isaac+Sim/27390890.html",
-      "ts": 1795523902
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "MARKET MOVERS: 🔵 RATING REITERATIONS",
-      "title_ko": "시장 동인: 🔵 평가 재확인",
-      "url": "https://t.me/marketfeed/1084484",
-      "ts": 1795523937
-    },
     {
       "source": "FinancialJuice",
       "title_en": "BoE’s Greene: Not much evidence of 2nd-round effects so far",
@@ -11504,6 +11483,27 @@
       "title_ko": "민주당은 2026년 가장 큰 혼란 중 하나에서 테네시 하원의석을 뒤집습니다",
       "url": "https://t.me/marketfeed/1084774",
       "ts": 1795550208
+    },
+    {
+      "source": "9to5Mac",
+      "title_en": "AirTag 2 has two big improvements that make it worth the upgrade",
+      "title_ko": "AirTag 2에는 업그레이드할 가치가 있는 두 가지 큰 개선 사항이 있어",
+      "url": "https://9to5mac.com/2026/11/24/airtag-2-has-two-big-improvements-that-make-it-worth-the-upgrade/?extended-comments=1",
+      "ts": 1795550236
+    },
+    {
+      "source": "9to5Mac",
+      "title_en": "Anthropic just gave Claude users a new way to make Mac apps",
+      "title_ko": "Anthropic은 Claude 사용자에게 Mac 앱을 만드는 새로운 방법을 제공",
+      "url": "https://9to5mac.com/2026/11/24/anthropic-just-gave-claude-users-a-new-way-to-make-mac-apps/",
+      "ts": 1795550367
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "据知情人士透露，Advent考虑收购检测公司Bureau Veritas。（彭博）",
+      "title_ko": "이 문제에 정통한 소식통에 따르면 Advent는 테스트 회사인 Bureau Veritas 인수를 고려하고 있습니다. (블룸버그)",
+      "url": "https://wallstreetcn.com/livenews/3205200",
+      "ts": 1795550370
     }
   ]
 }
