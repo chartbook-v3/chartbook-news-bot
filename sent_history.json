@@ -1,27 +1,6 @@
 {
-  "updated_at": 1795478367,
+  "updated_at": 1795478533,
   "id_hashes": [
-    "ace2530c363e47669c0d9c6cadaeea243393df13d71dcd0ef52e8f2c21b30ef1",
-    "3d680a84f13c99af02a6ed9a34b6d3054f4a310de0ae6ee1b20a4628806ed153",
-    "4bb1f1f65f0c45a8f54e8675091d7b9ad1aaf05ff3ce0a168ce129dd69e8a653",
-    "4278bd1b7e9827e469857e81daee7fba0a9aea8d6981b7ca3fbff3a90fc3a163",
-    "802ce6903d130337ce956a5180d74fee630c1dc07e735660e7b63469ee24ee84",
-    "97107af109e94ede5e4228923303521a9266d3aadf4afeebe2bddb90559841b0",
-    "d2e1f6fc679ff7eafd3c5e60b1b9c113562b2ab0d465d6977644dc1c8d5bceb6",
-    "7edf527cb2daa4625cf0ad05d93f439d63c3147a16c57dcafe53c28d553bcb73",
-    "824321043fe77c75aa8a8956094cad021281b2ec76445d2bcfa797a538aab39f",
-    "29ab97b88b09170f57e5a08bb8935e123f2ab2e7758518b8cf8d228beecd847d",
-    "df76647e9b3dfb28d5817a758faa7a9c966a0f2356dbb351d1cc2478bc9d336f",
-    "c53722fba9c818fcf19fd28390e0153f5c0b81c9d1985c606e1dc67bf73ea679",
-    "b30ef8b7fac9f37c744cd0556f7f385f48477ac45e7e98efeb86bddc91314fb8",
-    "19e2fa20bc365152a31c6d6d40985de27b5610802e4e676082dad59f40681f1e",
-    "258ba15ae944bf3d30d3d93523e7c04406dcb4021083c8b90efa9ea22fa9f00b",
-    "6b3c0e1545c0ead6ba529eb4825cacf84dd8730c913b293fe67917e5567b166c",
-    "984a348c0ffbad76a3e737dde18b98ac83c78ccc4beda8bec70a9d00c085a0bf",
-    "3e5250fa54801a443581b7186dd63fa49d8652feec4e5cffa081fbb74a3c05d5",
-    "462048aa1b0d467ec35c3d5265014fa6c2cfc7db14f053c34b95e252ce0758b1",
-    "9491ae14bea2e05793272f3dcb01c44a162dffc5493534095a5be97ced867ab9",
-    "eacba641eb02caf68706fdbc2e1083c1e1edde618d37e5636a2599750390d2c9",
     "d89cc93ebd3149aff5512f6bf6b9ca041cbbb1254bc23f8bdd05d13a84b71ebd",
     "a893dc9e46f7882ade99bea797962bebc41c5f74bfccd1eb6c94f10881b0187e",
     "4b555e67cac9b2df0746ce00ff5bec6ac6fb7ca3342138f0f410ee77ad02df92",
@@ -4000,28 +3979,30 @@
     "52e5f21de902f2bf7e0b025fe574b47286c80e6c0fc24dd5995fd19837489210",
     "8792aa9dfca5ebeb386d170a48803af06b116ce3ce30e1781037c648e2964953",
     "3baada0f45b412c4dbe45999f45f56cd314ddfa099efc1d4e992db00d679b290",
-    "77e569d72f41fe8a0f820005d8b5ec3037f1d2263be17b9a51992359e8ef259b"
+    "77e569d72f41fe8a0f820005d8b5ec3037f1d2263be17b9a51992359e8ef259b",
+    "acdf65e7a26602908c73c711ad6301f8c46673f088e5cd5c4658db453764533a",
+    "20aa5383a75b9ce4b37e94a132c63b0d51666ae1845024364fc0f2d620fcf52a",
+    "08854651237a101d4f431705db40089f7899e11c2b22b2ce48a01f1b0243425b",
+    "42fc5b363abbfef6c9377f37a674d2d06cc253e07822a24ecce98c43a3089048",
+    "1d82bda4224a86284a8a2ad1a4e37b29de6b781aae1ad28687f9949fa0f1a987",
+    "0515f0eacab8154d0a1ad6921b20871fce029853e2891c81bc95ab206c9e3f51",
+    "d36616fe14fd2c47018e5c495d0d88acf7477153f41faec04eaa915f629436c1",
+    "ac7d0532160841bd2c62ee28b2c1d16eecd26e1e7f00ef4c7714455df975f805",
+    "893bccd6a255d7fc2b5c9078bf943f60d8844cefcc5a6e2ef9390106ed38686a",
+    "5d3195701492399be2ae48bbadbf86fa831e0a0a577ce018390e7bc8fafb4eed",
+    "189e1b6b3d9f880ad754c73779e2d31a8d0ab5597d11e5928a13458f90e4a54c",
+    "90cdc22209b14103c873bb9561a5936a0bd21df7057f0fb6901bb6dfa3aa2877",
+    "cb3faa3570695a839f660f7932933612fabc2cfc771117f5ddc271e78f184e96",
+    "831de720a2aa15038291929a01636c666c70dae87121d73eec9b6d3dabcf1fae",
+    "97029c9e85225722e471bb2779ec9109467695ef69ef3bcb905d85082bf730d0",
+    "f7b4f6302e2479b38637508ec457050b356c702e940eee780682b5683e8f5191",
+    "2a1c1b1ad82509dcf6c841d46faa12cc65447ca7a670dea068167bebeeb70eaf",
+    "8540430ca174fab0025df18ddba653758bce594c6b5ed1e048336d5556367226",
+    "f66961235d3d5178272dc8a10b43bdd3fd17a2ee3c203dfa077a6c7437ef9280",
+    "7bb51a0f00ce67a2a4b45b0953b3998e7eca999eb6ebe11adf5d7a06d9f44bf4",
+    "232abc3d31b839b143094cb4723d2a04fecf3392fd344fcf1877e613bd8c014a"
   ],
   "title_hashes": [
-    "a246cf657419e8290a354451108da91cd04d7213ce3bfe509c90d6ed66e1c70e",
-    "662d31467bf4e81c207009c6b878c3b6dd09147e30f7e518d1e55c671d6c68a7",
-    "6f537ec6bdfd469dd708f00e6b1697b721aa14c3fc68fddc7b8f179a85663b0d",
-    "20519ffdc280459a91da4c374d465d291e9f2ac50a198032a74e0beddafd2091",
-    "48176bbb8b537eb4b06f790b0e77737df63f57c37558d3f1a1a972b2d993de3d",
-    "17c6431e1767e0a24a93ae02681a07f96f0f5590ec77b7bf64e80d2878d6cf7e",
-    "3d0bfdf74fc757c6d4a2b958e385ae05f8fba23c38072a35dfedd402fbdb66a4",
-    "57fcb25c6a888fbc8b87ff99775536443a6feca013b3ec3e35b3f8424662b516",
-    "68b4b28d0256e53ee250d5a87ef7be809093abcc85f7ac935c6e6109236f73a6",
-    "b5e8f6332204d73015712d6c76cfb1b9360ced0a66dc6c46c24d4769b0bb5c3b",
-    "6ca3f0ab903746b1ff0c9fd7f5d4b48b0631df4ff434ac29cd3fd296b5efb07e",
-    "e69bd7b839bafb99f8282af8778135b424c2d4850f46e40cb54ec68e2e6c1c82",
-    "fd4e9bf19c9e53988186e762121eedc232187437ecd93c9f6f4cc3eeda483702",
-    "2eb34bf3f5ad6b7e891a2b878026366b655b1e7dfb29cf5ddbe70c283f8f2f21",
-    "5fdee189e2ba23fa12a08f8f415612e0ff55dc649e4c1edb92531dbb6f1d10f3",
-    "e61b80cd4d563ec14803979790a7ab5a99cbce6612ba6725796d91b87a1b635c",
-    "7f509615a63d35eb1b5aec7afac19663c7861cbc0f4b4aa3390b7e85ffdb742a",
-    "61b4f2ad3176c6b1085187aef042040a6fce3f819b0e78c8b0b84ab33aae346f",
-    "898b8a0b928148a67981c66f257d0753d7a20b875d16bac04e395873464eb9d0",
     "d3508b5781e9168e2679ed6af44676d4ab9acc7c2f14eb53b0898f61d96c14a1",
     "6350bc9731f2896fd1c618532db38cd48a2dc80fc42ac0fb7ff92f3906f9486a",
     "2d0d5c333bfd19378b8af884cdf322835eb47d56b8ec97787c49b8d4655ebf9d",
@@ -8002,44 +7983,28 @@
     "8698f77c9377fa506602d5b4224fab99320ed66b1cd9800b1596659908863791",
     "e703ebdce44ae2acf9e38a6c7d88a3ef3423e3f05a1cf0a87f950c5abc433b2e",
     "31248e73d8d86f96590af5d39a9f52f865421a7b4bcd903c480e6d8c890880cb",
-    "f5f3575f2628582dea65025b5621b919b2b11ec301be466f1fdfe143f19fa201"
+    "f5f3575f2628582dea65025b5621b919b2b11ec301be466f1fdfe143f19fa201",
+    "b54749612e3138de742b6f6306ca607389c1e1e661018b966124f91550013657",
+    "3ce906daca7665dc91ef1d5df23c33495eddd4fb5e63e8cc9a933d159c764754",
+    "47363c8cd64754acf1ef280f22b2565d434316992b6baa28303c41f0ec9ace9b",
+    "f1e742b4a69169124bd3db17b7adbe34b86d05d77d0e3f7e9cb8ab851e3b7cef",
+    "1e2396a223c28361c309bb9cf59b62de313b5cbfa4221bf612f2f80a5fc47eb3",
+    "9c3934290c9e19a66fa57ba9c96fbe354e0b976556e82774b49869ccc9cdd378",
+    "09a937be0898dcff127ffabb93c5aec3618838faf7f03e04fcd29633fd1aeaf7",
+    "a8e591549ed3ed30ea7ff8454f62cfdf5fb033add14de5f10382fece24d83b41",
+    "524875f55d980257dcc551c2aad9d66f05799884c1082bd1585a0590d3ea3ce5",
+    "25512a7d6c77c93994a9d4339603c8840b5d9a5178ce5998775c7abeed48bf4c",
+    "293d16476b990a84aa40f5e168cff829cdc6781db3382abbff213e96b0d19080",
+    "ea9b18334c7566ac2116533b93dd3524c67726ac884d18dc872d2eb06c843fad",
+    "cdbe2d749062ff3bb87e1350576e3576e7f223136f553ee371c67b82fd3f77a4",
+    "b062fd1d47db19b7950d8c5d14f975f0928b75f8bd00a736eee9729cc7c0562e",
+    "24f47dcc4e1425e4b4768490705e77d82570abe0b8c248e196d2665bf346d9d7",
+    "ee312c64a0030d852ebaf01711b8dad44d808650ae8ddbe90812dda74aa14369",
+    "8f54e7651fe623114fef32b025ebf347fc54ed8bf0cd1d46377f2a02924c9ce8",
+    "4e5d6d844284248234cad477d6d5a84330209a29b4dc4272a03a42b40f034d98",
+    "139558be17128258116f4dbd55d1629bbaf0c8f2a16665807853c26c3923ea9c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Gold Rebounds as Traders Pare Bets on Near-Term Fed Rate Hikes",
-      "title_ko": "금값 반등, 연준 조기 금리 인상 기대감 후퇴 영향",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/gold-rebounds-as-traders-pare-bets-on-near-term-fed-rate-hikes",
-      "ts": 1795438424
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Market selloff and falling oil will likely force a 2018-style Fed pivot: BCA",
-      "title_ko": "시장 매도와 유가 하락으로 인해 2018년 스타일의 연준가 BCA로 전환하게 될 가능성이 높습니다",
-      "url": "https://www.streetinsider.com/General+News/Market+selloff+and+falling+oil+will+likely+force+a+2018-style+Fed+pivot%3A+BCA/27384402.html",
-      "ts": 1795438428
-    },
-    {
-      "source": "FirstSquawk",
-      "title_en": "DOLLAR INDEX HITS FRESH 19-MONTH HIGH",
-      "title_ko": "달러 인덱스, 19개월 만에 최고치 경신",
-      "url": "https://t.me/firstsquaw/195193",
-      "ts": 1795438452
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Why Ed Yardeni Lowered His Year-End S&P 500 Target",
-      "title_ko": "에드 야데니, S&P 500 연말 목표치 하향 조정 배경은",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-23/why-ed-yardeni-lowered-his-year-end-s-p-500-target-video",
-      "ts": 1795438517
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Salesforce in focus as Citi lowers price target on 'sluggish' checks ahead of earnings",
-      "title_ko": "씨티, 실적 발표 앞두고 세일즈포스 목표주가 하향… \"부진한 체크 결과 반영\"",
-      "url": "https://seekingalpha.com/news/4675519-salesforce-in-focus-as-citi-lowers-price-target-on-sluggish-checks-ahead-of-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795438581
-    },
     {
       "source": "MarketFeed",
       "title_en": "[ Z ]: STRATEGY BUYS 457 BTC OVER PAST WEEK, BOUGHT BACK $212M OF STRC STOCK: FILING",
@@ -11504,6 +11469,41 @@
       "title_ko": "철학자 롭 롱 \"AI, 현재는 의식 없지만 조만간 갖출 가능성\"",
       "url": "https://www.theinformation.com/articles/ai-probably-not-conscious-soon-says-philosopher-rob-long",
       "ts": 1795478366
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "美国国债期货价格下跌，此前美股大涨提振风险情绪。",
+      "title_ko": "미 국채 선물 하락, 미 증시 급등에 따른 위험자산 선호 심리 확산 여파",
+      "url": "https://wallstreetcn.com/livenews/3204561",
+      "ts": 1795478394
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "中国即将发行或正在发行的国债和政策性金融债",
+      "title_ko": "중국, 국채 및 정책금융채 발행 추진 또는 진행 중",
+      "url": "https://wallstreetcn.com/livenews/3204563",
+      "ts": 1795478458
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "EU, 러시아 선수·팀 역내 경기 출전금지 추진…\"러 상징물도 제한\"",
+      "title_ko": "EU, 러시아 선수·팀 역내 경기 출전금지 추진…\"러 상징물도 제한\"",
+      "url": "https://www.news1.kr/world/europe/6363555",
+      "ts": 1795478525
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "SK키파운드리, 美 MPS와 협력 강화…누적 웨이퍼 출하량 100만장 돌파",
+      "title_ko": "SK키파운드리, 美 MPS와 협력 강화…누적 웨이퍼 출하량 100만장 돌파",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3d1ZTQlB1anZkcGdKRzhWZHRyelM4NUVibjQwSlg5b3NZRnQ2ZkxrcE1WQ2Mybm9zMHFyRkFfRFkyRXZZQUt3elNBYWRMcUFkRERJMFlR?oc=5",
+      "ts": 1795478528
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "新加坡将2026年GDP增长预期上调至“约6%”。",
+      "title_ko": "싱가포르, 2026년 GDP 성장률 전망치 '약 6%'로 상향 조정",
+      "url": "https://wallstreetcn.com/livenews/3204566",
+      "ts": 1795478532
     }
   ]
 }
