@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795539580,
+  "updated_at": 1795539771,
   "id_hashes": [
-    "ea781bb30f5b8e131c5195725dc8d120f2df5e641422796e25fe2cb60ebaf8fb",
-    "36259400e99a80002a6e34ce3a825b4d027e0becf411838af109f516d81c77bc",
-    "76df3732c13246dac72eaae2196197e43c1ffa961e5dea06e3d6e7c4d9cbdc20",
-    "e2629f0bf97087d9160a9a765c557de28fc50f80d1ffd2d8eb3bea32649c3a5f",
-    "ad72492afc2e04fcefa3dbc3b01ee8bbea23b69ea5f876e5384b80dcfe485f7e",
-    "dff69462689e0f4e349e9f9333e35b1797a3f06e5eb477d2366c52daae45bf45",
     "2504dd962f03339343c1cf9ba4ace305533a0f9e72447b6fc164a1507666d2d9",
     "f4936b80adba4d5987e38adccb402eeed46f5a6308f81d8373759cb77ae102c8",
     "ee3859d33c43402923a838f885236bb3687dff000f5e695720ac2d4d552248e8",
@@ -4000,15 +3994,15 @@
     "c67c61891afb13d5e97e3194dd1c474ecdc4e013f7b8fa7d22bcc7844b8cd608",
     "7f9dbabbb7dd207c09bba4bfe6abf2d3e4e519b568ad4d1487d3a8d3803dcc2d",
     "e2443cb4dc2d82a6d94ae9770036147f60d98f1ce6fcd7902fa1264f40f380ea",
-    "86b26fe7f8c53a57a2882a8274823529f95640a74785fd0038c224a31c0b75c8"
+    "86b26fe7f8c53a57a2882a8274823529f95640a74785fd0038c224a31c0b75c8",
+    "06a2b08c64a813dfccb096bc5fd26ea1c51a04dabcc3c8dab5739a503e676123",
+    "b7ceb538e52c8d130d1ac674bc6bd332bd2dba5eecf55a75a9c24829772e908a",
+    "782797c4bf6144f18da5615f6962f7bbd22345e8f88906be203fd117a1d3d159",
+    "dc6de4d618280f6244ded897fe473804dce09c2e97a991383adc21fe23cbb978",
+    "1fbfcb9da07d7ec575e9667703bdacfa46f49b31ec1641e65bd7f33a6d0b429a",
+    "239a73e80febcd7a9d301fa839af7d6f1fcfd801ef50987549d3931dc574a003"
   ],
   "title_hashes": [
-    "3b0cd82628738a0aff730df21f2f085bee603c9671b66050fe259df9fafa293e",
-    "56498c4b4d34bb71cc102930a78d0f537da1302bffa2c7f1ff77c3b6f4c38b12",
-    "ae2a3891ae75ed550fbe036df9ea53cc325555a4a9bdc8be1117a07fc269e2aa",
-    "a197da02ab90082cb43de7fc053a6dd7533bfa0ee5694fbfc43acbc810604508",
-    "9bc9b2c7613ecd27dcad5878ddf854f1e4064454bb3b043666046210fa9a1c03",
-    "396f1ba0f2a1f45cf6e0cb267277f1bce61c0df890f574846112ecd98c132b0d",
     "f7332b9ae1caa5a96a1e97b8a79c09ddf993c719cb2bec1c87f6356c4577100e",
     "1657522c51e53e7a6c904a161ce1016d3f66be54afe79839be56f1ab16f46311",
     "719371f39c651ab101b5093f450c29b52e52520d5a8de9ef4da65464cdf530e7",
@@ -8002,30 +7996,15 @@
     "1e5ca0411f3233406453120767103c561aad785f3bbfd91189b2aa5b3b6b0383",
     "af7ac091e8e61bdd6a2e49528980ab0fcdd760a910c3869a661ffd27361eb464",
     "4ed1c84f3df7946b3e30c04b0c335b742bca6494f5a65c164f59328a76991a02",
-    "39e0e34b794c7ede98811fad76cb64644c4648d3794cd23bccb6a09f974844fb"
+    "39e0e34b794c7ede98811fad76cb64644c4648d3794cd23bccb6a09f974844fb",
+    "dcea71577f26dba206df3b33274d29018bac653a1b1e24880f100efcac11fecf",
+    "fcf8ad5abd9748646a4dda8387195dc2032e245bdcb8a716fe39f8696eb73c69",
+    "c1d8b452104d63cf255c433159c3c14c805c1cd0ab2891e205b308700bc49d21",
+    "d50042f66638733d73ba6d12296f9c86f6a0e5412b97d83cc642a102a767da07",
+    "75732e7acff0e05e6e910414770a8bc95a485be7aee1d82b2e5a4acface50e2c",
+    "0db716dd8f3e39588f5a83db80b8c20a6db2d62417b8e4ef1f58bbec55a616d3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "Analysis: Jensen’s homecoming puts Nvidia under a sharper spotlight",
-      "title_ko": "젠슨 황의 고향 방문, 엔비디아 향한 시장 주목도 고조",
-      "url": "https://www.digitimes.com/news/a20261124VL225/jensen-huang-nvidia-chips-security-ceo.html",
-      "ts": 1795514706
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Bilibili Non-GAAP EPADS of -$0.30 misses by $0.57, revenue of $1.24B in-line",
-      "title_ko": "Bilibili 비GAAP EPADS는 -$0.30, $0.57 손실, 매출 $12.4B 인라인",
-      "url": "https://seekingalpha.com/news/4676035-bilibili-non-gaap-epads-of-030-misses-by-057-revenue-of-124b-in-line?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795514749
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "삼성 준감위 \"삼성전자 주주환원 결정, 준법 위반·이해상충 아니다\"",
-      "title_ko": "삼성 준감위 \"삼성전자 주주환원 결정, 준법 위반·이해상충 아니다\"",
-      "url": "https://www.fnnews.com/news/202611241857143348",
-      "ts": 1795514811
-    },
     {
       "source": "MarketFeed",
       "title_en": "CHINA’S SOUTHERN UNIT TO BUY BOEING JETS IN $7.4B DEAL",
@@ -11504,6 +11483,27 @@
       "title_ko": "화요일(11월 24일) 늦은 유럽 거래에서 영국 10년 만기 국채 수익률은 1.8bp 하락한 5.191%를 기록했습니다. 영국 2년 만기 국채수익률은 2.3bp 하락한 4.858%를 기록하며 하루 종일 하락세를 나타냈다. 영국 30년만기 국채수익률은 0.5bp 하락했고, 50년만기 영국채 수익률은 0.7bp 하락했다",
       "url": "https://wallstreetcn.com/livenews/3205142",
       "ts": 1795539414
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "GameStop leads quant ratings among mega-cap consumer discretionary stocks, beating Amazon",
+      "title_ko": "GameStop leads quant ratings among mega-cap consumer discretionary stocks, beating Amazon",
+      "url": "https://seekingalpha.com/news/4676149-gamestop-leads-quant-ratings-among-mega-cap-consumer-discretionary-stocks-beating-amazon?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795539635
+    },
+    {
+      "source": "WSJ",
+      "title_en": "OpenAI’s IPO Countdown Clock Is Ticking",
+      "title_ko": "OpenAI’s IPO Countdown Clock Is Ticking",
+      "url": "https://www.wsj.com/tech/ai/openais-ipo-countdown-clock-is-ticking-7e12436c?mod=rss_Technology",
+      "ts": 1795539768
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "ROBINHOOD CO-LEADS $5 MILLION SEED ROUND FOR ONCHAIN TRADING PLATFORM RIALTO",
+      "title_ko": "ROBINHOOD CO-LEADS $5 MILLION SEED ROUND FOR ONCHAIN TRADING PLATFORM RIALTO",
+      "url": "https://t.me/marketfeed/1084674",
+      "ts": 1795539770
     }
   ]
 }
