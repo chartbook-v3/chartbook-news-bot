@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795530622,
+  "updated_at": 1795530787,
   "id_hashes": [
-    "57094eafb116448d231cc01770a33e3fcd364aa55c75455be8b3d934f74c9174",
-    "bdda7827de7809e89016ef104ba348c6e8538d52954cd5e0923c108cfe4045f6",
-    "aebc8765dc716626747b15ffda827eef434972fcf1eeb524dec1e21abbd61486",
-    "85c43e43079249f58b649c9486ca5e87de63e8453b2e5f080b3b43f60e440a83",
-    "33146299100b2053db747ec89f2551cbbc0723b9bb84770c296701ef7a0c0895",
-    "b40c1674ae11a8af8e26882ba9eb9183f409f6a5acdd80b9c005f40aec2e72af",
-    "b40b57cfab0ef719f59c5551be48dc72c81f11c5858f442699c7e4ed7015ef96",
-    "fe605572a90b1b73ba52d2e90c1135c67cebf6fe461f31c592bbb1a13b95d216",
-    "6c68da3a8d16fc554353b41184b5f5acec96ba75e9857e30b8181a4b8932d2a5",
-    "d66d27610f3cdf4981899b279dfef779030f4994f485ce4a5cae84733ad0b3ee",
-    "20af4bdf92d13e760db053b14432391234b37fbfbdef52ce577f300567ac5c9d",
-    "69d28d192284bd9bf762a334b2c221c0373bd95e3613ef2928c1438719387dbe",
-    "2933be23659719df5396c619b42d2687394636e8144744065f78708c8d053e8c",
     "3076491261b9ae1b3163d4ad645618bf7794e700d7630f0320edb309d48930df",
     "bdfffe5752a2288933069cf60338b04984fdc9cd1a325ac94cf9b19af723abc8",
     "e7e23d9211287f75f3dc2fd3724998d0f6f578f28a4d484a03177ce05e4489cf",
@@ -4000,22 +3987,22 @@
     "da5380ba904ac0b6a1232362dee86ee81068803e6f6bb005c66e5a8a35cef39c",
     "c134fc4647f57b007c83707b20d6c0a4e8c5e6bf9a860f4a757b09b7fe262df8",
     "463f9e3f6677d36ecda335cdb72a843f71cd258c1a2d1c7a46fdaa9500d914c0",
-    "15d8ac39da873a5c2c591d8974322eabfd0a89e54ae0e9af82516950da652d6d"
+    "15d8ac39da873a5c2c591d8974322eabfd0a89e54ae0e9af82516950da652d6d",
+    "5fa115d63b1075a7dc9cc2600741c404cff6b5116a8b9a2e8de8be0fb5f8c28c",
+    "fe769e72a9ec9c540c6e064f99c09a15b72ec65b5faaa77518181e8b46e3155b",
+    "8425fa6675e1b13a57fc33b3e307ea836d474177336b0ee9236d808b4f73bfe0",
+    "f85e955ab1a65205184d6581fac2f16a66271834393405dbb20050ff60c514d8",
+    "eebebfb07b58dd97955a22dec9e39e409c7f8ee5cfa4122132b7896f614e9ecb",
+    "404274dd0d7b75311e3931746e79025ffbc85d757384597a6ada8d07246b01fe",
+    "21de26d276595a93c9298842dda82ed38f51c319045d1f2fac6e0a8e9697bae0",
+    "8e0205439365576c52ff12df833c1a1d94b3a32254b161ee0e7690e6672321cb",
+    "2bb528c9b3778ff5d065b4f04b3ae8ca77cf9d4f85345a224cb75abe02e9c27c",
+    "e47c52d7dcb3cd248edfdc7eeca46525ab83d4f9aeb18e8c72f781ed75cc0a2c",
+    "18607df8f822fb9cfe49a00b5d802c09d30ba7ddf9812bc344e0edc26f2cf9ef",
+    "39994db17270d46fc0cb0f3c7eaa55c312b4a3a450afbbc6df93292c469c902c",
+    "5fdc5ac196f1ec4f452c5797a4fa24736e9d578d0567f06993a991eca4a262e3"
   ],
   "title_hashes": [
-    "d8b340ab7c4b8f73217a97bdf7899cde479525c8fe6531e8cace78c43afe03c5",
-    "7dcca151f966525d2f4ce78ac2b17f2ade1cfd4c51ca177f75ef83a57ed8874a",
-    "4087d190243f21c0674e33f871cbd86352be66d904b13de5cf1cfd3bc43c81ee",
-    "84f297cffb04d8466f572f969ed00b5ca8dbdf70da282e922ad427cf3ad729ab",
-    "1908e9765f2bfb896729a13f49f0f8ec3264983cedbdd1a24f092c2abc78acf6",
-    "aa58e2daa6820d5b62ad296c5484093ac99848365f4950d3ed50846ac0a85ee3",
-    "d63a0e5fe8b8df3643692b89c273b3796cc27e69497272f6b00235ed982bfc33",
-    "42e3ba924bad13621d56fa729f923775aae2ce48493b6172f04702dcd54532c7",
-    "e2abc5d03a89524a8be39ff3b2623a565cd08662ce30b26f32e7844541c77e26",
-    "68d1eb301fdc40f57458bb1d46c57cfa088f6fdd4a9cc45d4a343c59b1af9f24",
-    "14fbc44c933e1443b3b27fb6ce31fa77c99d9c897d1829ba105acbd7271e87a3",
-    "9043db2b8e84bdb4cd8c90dd7a36031dc88c7379d3aa15eaf171bc34e1ef3d6b",
-    "27b29957794207ade8254ba91487fbb92602b02abb0bcb58ed3b663f4beb3601",
     "0ff37bd7cb8d87e00dc28cdd4a4e2a7c22f79645bc675abc770088e265052cc8",
     "81ff61d04f83a0de1e497cb37198cd69364156f2762b4f30176b510480c194ba",
     "862989669537eced651a6dd477d8d46cbb32cf163ab92acddacc25e9569b01d1",
@@ -8002,58 +7989,22 @@
     "9e85415f5bce28facd46188a7cb27822b5d672b0038663e715e8815afb2095e7",
     "0a19b0b335639ed99cebe3c4bdadec0026c94a11b1d733b3fe2c5cc20d080ddc",
     "0887a6c52f8fa5f71a1d0e83b3873a452181c4cc531344f2c89f61b4df5a9e8f",
-    "8949a51f8e74f64bf231f5e06d5302a4ef18b96463aedd306e736dd5668fbd5f"
+    "8949a51f8e74f64bf231f5e06d5302a4ef18b96463aedd306e736dd5668fbd5f",
+    "07c8b01e39cafaf1857983079fd315eba24456a20f466aecb6f3e9b9da233f27",
+    "902421deb6ea696fcec0801d1b3d8d0637900ca2b426126a7e8bda1e2927f3ac",
+    "5553a4fd2e53cf41c4b14628c818088ac4df65daa48a8c2e6e93f514b4b9e9dd",
+    "64a39294d60084bab56df5520659c00d7e505d2de137bcd0fa40df0796696515",
+    "3ff018c185ae3a3ae9f40bb247a9ca5aab459b6f328542b0d14cdfac93443cdd",
+    "45e3d3c4e02f63bebae91b388f1e78ab373f798a6e8b76f5944d58883ce21952",
+    "e95d24a90544d3b01b08fcfd06610f5364bad96fd40130a03404c8c40c17f086",
+    "53ab8558752d66d8bbaa9d8e932b221c0c8bf28e4bde3196d1a791b5c135ac9a",
+    "6257a4d7c852f55ebb10e05788b95803ab8682867fe2c343a60db4b08e39373f",
+    "045a8d89d1d416b11a4957f1861164e825d68f9129fef3cd302b3aad4deaa3cc",
+    "fe5c713257b6856026a57d3c59bf88384f9667ca5aa7821691c67728e6ae08bb",
+    "139598607becaedc15090f4e054dcf3e6a0ba4efef714f942efe22e1d0ff6f0d",
+    "03765ed41e80f547953067d2135fcf232a4e2400433a9ade96857e7761a27d3e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "정무위, 상장회사 수시배당 가능 자본시장법 개정안 의결",
-      "title_ko": "정무위, 상장회사 수시배당 가능 자본시장법 개정안 의결",
-      "url": "https://www.news1.kr/politics/assembly/6364230",
-      "ts": 1795497221
-    },
-    {
-      "source": "CNBC",
-      "title_en": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
-      "title_ko": "Jensen Huang은 '해고하기에는 너무 커서' Nvidia의 거버넌스에 초점을 맞추고 있습니다: 분석가",
-      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
-      "ts": 1795497223
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "SharkNinja to join S&P 500; Paycom and Guardian shift indexes",
-      "title_ko": "SharkNinja, S&P 500에 합류 Paycom 및 Guardian 교대 지수",
-      "url": "https://seekingalpha.com/news/4675975-sharkninja-to-join-sp-500-paycom-and-guardian-shift-indexes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795497226
-    },
-    {
-      "source": "채널A",
-      "title_en": "서방정보기관 “러시아, 연내 우주에 핵무장 인공위성 배치” [자막뉴스]",
-      "title_ko": "서방정보기관 “러시아, 연내 우주에 핵무장 인공위성 배치” [자막뉴스]",
-      "url": "https://ichannela.com/news/detail/000000561406.do",
-      "ts": 1795497254
-    },
-    {
-      "source": "전기신문",
-      "title_en": "반도체·주택 건설 인력난 대응…민관 전문인력 협의체 구성",
-      "title_ko": "반도체·주택 건설 인력난 대응…민관 전문인력 협의체 구성",
-      "url": "https://www.electimes.com/news/articleView.html?idxno=375208",
-      "ts": 1795497257
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Symbotic projects $805M-$825M Q1 FY2027 revenue as Walmart expansion adds nearly $7B backlog",
-      "title_ko": "Symbotic은 Walmart 확장으로 약 70억 달러의 백로그를 추가함에 따라 2027 회계연도 1분기 매출이 8억 500만-8억 2500만 달러에 달할 것으로 예상합니다",
-      "url": "https://seekingalpha.com/news/4675977-symbotic-projects-805m-825m-q1-fy2027-revenue-as-walmart-expansion-adds-nearly-7b-backlog?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795497311
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Trump's Nvidia Stake May Have Gained Up to $15 Million - NVIDIA (NASDAQ:NVDA)",
-      "title_ko": "트럼프의 Nvidia 지분이 최대 1,500만 달러 증가했을 수 있음 - NVIDIA(NASDAQ:NVDA)",
-      "url": "https://www.benzinga.com/markets/equities/26/11/63568076/donald-trump-nvidia-stake-may-have-gained-up-to-15-million-jensen-huang-return",
-      "ts": 1795497378
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "英伟达和美国脑机接口公司合作，推进脑机接口高性能AI计算",
@@ -11504,6 +11455,55 @@
       "title_ko": "Vipshop 주가는 4분기 판매 전망이 낮아짐에 따라 수익이 상회했음에도 불구하고 하락",
       "url": "https://www.benzinga.com/markets/earnings/26/11/63576953/vipshop-stock-falls-despite-earnings-beat-as-q4-sales-outlook-points-lower",
       "ts": 1795530621
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "$ANT - ANTHROPIC SHARES DOWN 5.6% AFTER FALLING FOR THE LAST TWO SESSIONS",
+      "title_ko": "$ANT - ANTHOPIC 주가는 지난 두 세션 동안 하락한 후 5.6% 하락",
+      "url": "https://t.me/marketfeed/1084580",
+      "ts": 1795530714
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "🔴 MOO IMBALANCE: S&P 500: -84.1 MLN",
+      "title_ko": "🔴 MOO 불균형: S&P 500: -84.1 MLN",
+      "url": "https://t.me/marketfeed/1084581",
+      "ts": 1795530717
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "美股开盘：Anthropic破发，纳斯达克100指数跌1.7%，半导体指数跌4.3%",
+      "title_ko": "미국 주식 개장: Anthropic 파산, 나스닥 100 지수 1.7% 하락, 반도체 지수 4.3% 하락",
+      "url": "https://wallstreetcn.com/livenews/3205081",
+      "ts": 1795530720
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Coinbase ChatGPT Trading: Is Robinhood at Risk? - Coinbase Global (NASDAQ:COIN), Robinhood Markets (NASDA",
+      "title_ko": "Coinbase ChatGPT 거래: Robinhood가 위험에 처해 있나요? - 코인베이스 글로벌(NASDAQ:COIN), 로빈후드 마켓(NASDA)",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/63577201/coinbase-chatgpt-robinhood",
+      "ts": 1795530776
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Taking On Tesla Again: Lucid and Its Partners Begin Driverless Robo-Taxi Tests.",
+      "title_ko": "Tesla와 다시 대결: Lucid와 파트너가 무인 Robo-Taxi 테스트를 시작합니다",
+      "url": "https://www.barrons.com/articles/lucid-uber-nuro-driverless-robotaxi-testing-752d6180",
+      "ts": 1795530780
+    },
+    {
+      "source": "MarketWatch",
+      "title_en": "Nasdaq opens lower, a day after a historic rally led by Nvidia’s 30% surge",
+      "title_ko": "나스닥은 Nvidia의 30% 급등이 주도한 역사적인 랠리 이후 하루 만에 하락세로 출발",
+      "url": "https://www.marketwatch.com/bulletins/redirect/go?g=b05b7e27-175c-45f6-932a-b981ba88abf3&mod=mw_rss_bulletins",
+      "ts": 1795530784
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "DOW JONES DOWN 296.21 POINTS, OR 0.60 %, AT 49,299.10 AFTER MARKET OPEN",
+      "title_ko": "DOW JONES는 개장 후 49,299.10에서 296.21포인트 또는 0.60% 하락",
+      "url": "https://t.me/marketfeed/1084583",
+      "ts": 1795530786
     }
   ]
 }
