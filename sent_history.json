@@ -1,27 +1,6 @@
 {
-  "updated_at": 1795554899,
+  "updated_at": 1795555060,
   "id_hashes": [
-    "2d2bb3bf772b75473e03dc7538642214345ead936775101688128305a236fe4d",
-    "97400a742271c05c50eeca388015f78c72826896776c45e6290068011da4556c",
-    "13c789818029f22b53bbb6a7534490825111b29b5177103a11aa040d790ba2c8",
-    "3400fc4dfff0f4d5cb1d1a5ff9ed66860ea5aaf2f6457d0a0c9ed3fad065664b",
-    "8ef2ded339956521e74c61448213f3c29aa9530120c987329e0dbb8578a6df31",
-    "53a511a623c396df2a4c7fdfcd3ae545416847a11ea11f6bf69feec6158ef970",
-    "3e4c6d55d81b0b0841c5451ae4a585f6630b41bf91305c318ddb22d3d7756cd5",
-    "12ddbb56475aa7440680c619313feeb5dfcbaba35c41c926ad94399f319bb8cd",
-    "e835f31544cddefda0af741e85fc8b0b65c88b8c653a4d7e4376abbc95619df7",
-    "bee079bf167f87a73f8f3f3a669c37a027131ae80324342d25f88f283a4bcb9c",
-    "5968b0f9a5aaa104030c22a2fe6db40ea70a650ab44ab67f2acd1cc655d91f57",
-    "78a4cec015d957145f71f79d40cac632b7cdf33e9682908f1ba4e8bcdde956f0",
-    "67eacefb91d91b23e5de72c14f55f862b8bc4787b7be3ac74efff7bfdd5fe965",
-    "8151b6d7f3d6ab3c269a35ac8053e0f04310d9adf28164ad1af5e8628b145c4b",
-    "bf2809bcdbf4146155c0a9a06ba8d1c3fc51aa26ff23c80b1b8d07a445431e86",
-    "a62f11b4cdbd0eba23694579e1c70518890517c76fbdd7d456ef822ecd36094d",
-    "06ca7e7758630f38969d66568a6435c97e007300ecb8ff3c377731e2d00d39d7",
-    "4e87ae84af51ff3d1cb964beb72fba32013c66af6138ce97b39fa6b0bfab630f",
-    "24a1f4f199fb2d8e761213bdbfb48d1c112edd8671d2fc743a6faadd7c9aa860",
-    "8387167e8522b19c24b84a2c382d73a3f0018332ecd9bac80cd10ffe3eb61cba",
-    "7631267b504af1d1128d25c94031d18aa9fa4ca42cfc51051ff5f519cefbdb0d",
     "2d9a94b82f23bb4f933286d8c0aabdc02adfb0acc7eb6c08023d4fc0b9cf8671",
     "611d10ca44c3f96743b0e3366f53e10da0eb29ba62745d8f0ea91c2555b56090",
     "95327b31f85609d5563cfb141e0e83ec9a10a16e8044896e58294def5939c0fe",
@@ -4000,31 +3979,30 @@
     "1ecafd8820818fc2ca6fdec95f7144d4e55aac8f410f14349962d61dac9baa62",
     "20dc7b9c167a9ec0a597b0602334e613ec1ff3273fbf4bbe0be77734ce3dc67a",
     "aa0a2b86531b15f34f1bf6c921ec5bdf494445f2ff80f9df1aaf51b96fa367d9",
-    "bc537bba2768874fc80edad37fa03451cf916fcded23c7c23872be5b5bc70f70"
+    "bc537bba2768874fc80edad37fa03451cf916fcded23c7c23872be5b5bc70f70",
+    "17004cfd43a4dc022a24c5da120d224c3d55a3165ac3985b02c75fc73e074afe",
+    "bc4731b26660b5da0bc26b9a708e58f60e326dbaf106c77ba6626b7a03844d65",
+    "9ecfabfc883a7c945e2c10011f35ddde9fee4f8cd69a7a1b2e3593f6d5304a6c",
+    "52730aae615e82d1ab6029ba002041d35f2b9be6538f3731c53745dc653608e1",
+    "50eb666b7a7383501a1b6fd0d25bafdda771a1f5020520cf904b14badaa8259b",
+    "bb7d8ee87e338ddb231d0f8b8494267f180c8a656ca75582704c6d6e97e13fcf",
+    "6b58e4c637254acba79e24ac49f1fa5e3e86e59df49d2259199fe1551e4d2b7d",
+    "94538dd2b6f71ef61d1b2b486a488a8975f2122fac71e529c12e40a465ca0a4c",
+    "d424fda50786b754f15193708bfa1837e98081353855b487a306855f3b8e69c7",
+    "f36d2660733b7b66c3a087ef3985c62b5a1e7474feaaee625f659cd6daffde02",
+    "17627f273e9956c4a21c453bef4472148542439dfbca891fa1869e8ccb0dc80b",
+    "5f5e2af50886421e5c694460bddecc50836f24e393b02f86964a1842d63766c0",
+    "aff75874e2ea1609782fe62e64eb76a3d6ff3e7b03e5ef0ec03341a06c1c55b2",
+    "5b52e3969c4cd8554fb227ac30e1490ca8cd7c9cd3934b18b5b84d684f3d671a",
+    "3c16f5b0aeb992d0d17b83a9f6ca8d9c6b77bfccddf94351203ca42e9b745c06",
+    "d9126ba42ac4ae732ae72fb348dee8d6b1e8711998fa45183867849ed417386c",
+    "858318ba3cb4566b304450be5bc26a63d11aaaad8dda5a512dc6ae18b4826ad4",
+    "618d2202b96b959e97db6a7a73b4bd4ea8f5c2ee60a70a917de5d6f5e5d90e73",
+    "c60c9df5caea902a1baa8d6e8520b04cf9de35d3b06c267ce9977dd0a22eeeb1",
+    "f8b327e01680e0e0ae062dcdabe2626a62b4c6db65062557d8f5eba8f236d3e7",
+    "b43c15889758ba96b8d7c94f3cf4168cce17cd22b0c230d990c60e3aaf91179f"
   ],
   "title_hashes": [
-    "764b880914d32f540577281fbc5b830ba30009f9240fce5deceaf811e1250068",
-    "21ee66cd0a34213f8f99e18534c568fcec2e84ef5964c6200393722b1c2b16b4",
-    "efec707761c45e4337d741c01d691c102cb9334720edbbb0710331faa2c1a19c",
-    "9e555dbe8382ab9cdd793dcba1c717cb396a2178bfb6037273a869721334fec0",
-    "5f011f2735d2fd913af4d5f76c18d7cce68ebf0cb2220b90e5edf5a4e2a61037",
-    "d21236637ed8c96ded7a0e64a7b7d339d4292c614d0fd7cc51935adabf015bb1",
-    "c622e687cdf7a87aefec1f20e7cbf81aac5301771c0b8cbbdd1d61e212087723",
-    "e02dc4cc4454149f6e146eccddd1fd07e5b3345e04e74fb4425fa0895bbe69ab",
-    "adf25f1309cabd11bee29b04921a072c42fe8d66f6ba6c8467e6ff126b5073bf",
-    "59d354a367a9a1cc9acc73a2a331f7427fbdd0424e2b09a110dbe2d0fbbf68b9",
-    "abcffe086fd0ae520e0dd413a894a06e7bb0ae5fa77d60be3a99f421b7e76cbd",
-    "926c9ffe2407f022f57b902899b0e090731fe9cfc68709c8abc293733796c6b9",
-    "b3f25778c070d456225339908924f42fdbbc66de33d9da137689f7001165f9df",
-    "5c7560b42062e8871dc92cd05f791cf38ed94190ef3ceb90565ef03e779226da",
-    "164064427199cd2a5f97a22f5ce6c435a46c5f52deb0222517bcf6e69f548430",
-    "6fcf4a96da4bcedce7a5752baacf897341e3fbb4260014cf7540d2e6d86151f1",
-    "e87adf0602d1fee45b90083673a324442dbfbba1a6f2f6c8771348df9020e8e6",
-    "53a0eb1a30d13580b5a9c4b72661ac5d19d924a0f8145e156dd40eca658d24bb",
-    "18d9ddbe30039d3765b65046a0004bd14ed62a8eef8dea1c633bc913d6931044",
-    "6e60eb4988ddf6b075c801b9c1d54d7f10ea898d8f05ce41b05d38bf5d577519",
-    "d8637ea6ef4a9b15caf93e520f7e7c48cc1eb3f548b88ed63c4ad1a2f8b25133",
-    "43867bb8323f2291e289ebff255e454e6d5dd615ee6924ed71047a5aabaf2fbd",
     "152dcf4ce8f6cd5b79fc0ab5eb42424c448924fff6a8c0d7c77b8ae21c28a780",
     "cf664b0977fa4d1ab20552e0c35c3a7e93dcc681abc5fb3153ddfd0ad4cf2e80",
     "979d60e6103a96b13914559071f4827ef97329807fb8b37fcb9c30f9f174f55a",
@@ -8002,51 +7980,31 @@
     "b02f1fbd8c5a762479e7ae1a344f1fb607c4f044c5c99e39ffda5455c6ea57d4",
     "3293cec81e81e97b4228066c9f51436b85d3f1cb503c40785adfcd1e7ae5736b",
     "545b98e99c6a233680d21573aeb6b54878ffc68dbc44f2df6c4589f8d3e51f0d",
-    "1104aeb578e0d787a29daf7fc68c9a71e44d6e3d566a60341d83294268b24a99"
+    "1104aeb578e0d787a29daf7fc68c9a71e44d6e3d566a60341d83294268b24a99",
+    "f94724a659bee46520ccd32d4190c42f8b6f472d04332979000553b987e39e97",
+    "1bf22a903d9831f3256ea9c579f9b75e8f3b030bec4f7ee91542636c202d807b",
+    "c72f090f19ea99837bc046e86ecc3241a5e4b9d4b94e7e49fbc1f405ce9ee86e",
+    "00f870449e67b82e1960748a7f8bdbd38aed5a44e8b012f88159852e292f9e53",
+    "06992315c052b12ea46353aff304349b812658019aabc4b47bd1c83dbd29c2b9",
+    "288e06ec7d5a6b7b06e6d43857b5c2444f1a03bdb276b6dcda7713672291dc3e",
+    "92f4098ce5fde700dc9b281d4ea3960975a4ba4a1d080eef3945d67c3f38124b",
+    "e5c643519aa6abf2df5c2b659d2294a659c1e9675fb37a75c530ccd767920e25",
+    "c9e5ab61a3654f796b179f7ed6074a8dfe8b2263f8d170d0dc4590389b103300",
+    "5ae00b956e8843f7dfe10a98eae52bedc61e38e4fe1115f34971c8520bd84a68",
+    "e8916de6917678229eea1d5cc2e9e3c1c69d20276f241856bc7de16c63d8e777",
+    "aa6fd5eeb57f9b3c117c3caf3c1f4b8e5a46893046c254a6a2555b938173aac8",
+    "c738399113596b95f0c10d9337709f388caa2f60b4847027890fbd75cee8b8c0",
+    "2925ab67824d2e50e78e99d86dd3edea3f5376d9b243949884863fa6b41b1562",
+    "76a74486733b91fc13206eb93a7fad631aa1c2aa9a5004c76a83b3ce0d15b95e",
+    "a24db25aec0c1f9015ebe2cb17bad2f982c762b213bb2c276ce6908a8d9d2426",
+    "cbd40af2014fc62f93a5c6b940f132f08768df41c8fd1ea73e9f139bd2e99c6a",
+    "467243db6723e5179591f7831da9d10ce8a6683dd1b234a6eb4471b69c99aa90",
+    "b26ed5e22d4484a56c8bd67cb839cd875082b724fc67af70d019ea6a3d3e36eb",
+    "799d2f16e5a5125c33d3fecc29021a12b90a0fec6a6a325d1d9ac819fd1d1071",
+    "306784ade1ac41443fd6efdca647981d32f958656b6e4785743e7eb7521b2983",
+    "7790073a6afbbe18c3dac74f4f54e50ced4bb83e37e018394cb0240a7b48fed6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Google Snaps Up London King’s Cross Office as Rents Soar",
-      "title_ko": "구글, 임대료 급등에 런던 킹스크로스 사무실 인수",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/google-snaps-up-london-king-s-cross-office-as-rents-soar",
-      "ts": 1795526549
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "This Tesla Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Tuesday",
-      "title_ko": "이 Tesla 분석가는 낙관적인 메모에 대한 취재를 시작합니다. 화요일의 상위 5개 이니셔티브는 다음과 같습니다",
-      "url": "https://www.benzinga.com/analyst-stock-ratings/initiation/26/11/63574509/this-tesla-analyst-begins-coverage-on-a-bullish-note-here-are-top-5-initiations-for-tuesday",
-      "ts": 1795526552
-    },
-    {
-      "source": "9to5Mac",
-      "title_en": "CAD images suggest iPhone 18e will have an odd new camera design",
-      "title_ko": "CAD 이미지에 따르면 iPhone 18e는 이상한 새로운 카메라 디자인을 갖게 될 것입니다",
-      "url": "https://9to5mac.com/2026/11/24/cad-images-suggest-iphone-18e-will-have-an-odd-new-camera-design/",
-      "ts": 1795526706
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Amgen, Anthropic, Kimberly-Clark and More on CNBC’s ‘Final Trades’",
-      "title_ko": "CNBC의 '최종 거래'에 대한 Amgen, Anthropic, Kimberly-Clark 등",
-      "url": "https://www.benzinga.com/trading-ideas/dividends/26/11/63574641/amgen-anthropic-kimberly-clark-and-more-on-cnbcs-final-trades",
-      "ts": 1795526709
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "SAUDI ARABIA SEES NON-OIL ACTIVITIES GROWING 2.5% IN 2026",
-      "title_ko": "사우디아라비아, 2026년 비석유 활동이 2.5% 증가할 것으로 예상",
-      "url": "https://t.me/marketfeed/1084546",
-      "ts": 1795526713
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "What Senator McCormick Wants to Hear From Nvidia CEO Jensen Huang",
-      "title_ko": "McCormick 상원의원이 Nvidia CEO Jensen Huang으로부터 듣고 싶어하는 내용",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-24/what-senator-mccormick-wants-to-hear-from-jensen-huang-video",
-      "ts": 1795526798
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "民调：更多德国人不再支持军援乌克兰",
@@ -11504,6 +11462,48 @@
       "title_ko": "하나·우리·KB국민은행, K-방산에 8200억 원 푼다…생산적 금융 확대",
       "url": "http://www.economytalk.kr/news/articleView.html?idxno=425516",
       "ts": 1795554774
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Russian Pleads Not Guilty in Snooping Case Targeting Palantir",
+      "title_ko": "러시아, Palantir를 표적으로 한 스누핑 사건에 대해 무죄 주장",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/russian-pleads-not-guilty-in-snooping-case-targeting-palantir",
+      "ts": 1795554987
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "惠普（HPQ）预计第一财季调整后每股收益（EPS）为0.66-0.76美元，分析师预期0.72美元。",
+      "title_ko": "HPQ(Hewlett-Packard)는 1분기 조정 주당순이익(EPS)을 0.66-0.76달러로 예상합니다. 이는 애널리스트의 예상인 0.72달러와 비교됩니다",
+      "url": "https://wallstreetcn.com/livenews/3205232",
+      "ts": 1795554989
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "신약 개발 '장비 장벽' 허문다…송도 K-바이오 랩허브 연구실 가동",
+      "title_ko": "신약 개발 '장비 장벽' 허문다…송도 K-바이오 랩허브 연구실 가동",
+      "url": "https://www.news1.kr/industry/sb-founded/6364339",
+      "ts": 1795555049
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "재편되는 체코 원전 '팀코리아'…새 시공사도 공사비 리스크 떠안을까",
+      "title_ko": "재편되는 체코 원전 '팀코리아'…새 시공사도 공사비 리스크 떠안을까",
+      "url": "https://www.news1.kr/realestate/general/6364701",
+      "ts": 1795555051
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Agrion International Ltd. GAAP EPS of C$0.00, revenue of C$11.57M",
+      "title_ko": "Agrion International Ltd. GAAP EPS C$0.00, 수익 C$11.57M",
+      "url": "https://seekingalpha.com/news/4676372-agrion-international-ltd-gaap-eps-of-c000-revenue-of-c1157m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795555054
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "The Economy Can't Be Held Hostage by Nvidia's Huang, Krugman Says",
+      "title_ko": "Krugman은 Nvidia의 Huang에 의해 경제가 인질로 잡힐 수 없다고 말합니다",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/economy-shouldn-t-depend-on-nvidia-s-huang-krugman-says-video",
+      "ts": 1795555058
     }
   ]
 }
