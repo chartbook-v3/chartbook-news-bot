@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795547282,
+  "updated_at": 1795547444,
   "id_hashes": [
-    "3f029229d8aea3dae5270dd0a8b1c432b676c62d7067a2c60a7b860eaba330c5",
-    "30fa78f4df8061f2f6c1a150d69a7d92cf09f50c9c2d37c49513bd281d2ed4a8",
-    "104a3b563ae8045951f43df4914f41264a23c59290c27f15783a55ada9a7e8e7",
-    "7a92aad5a4c4cb1e317b72e84a0d9002e533341bfe121d413de20622a23910e0",
-    "ad9986305cb483a4e7b03b5f2caf453ffae08bd4b3b4694b1aed1d7491fff3ad",
-    "11745bea3e245cdfa4c72c3b95155fd3b5b71840860bdfc84f10f157ddd7bb1e",
-    "2cdfc298f1ec3d9087cc36ed4073244d2b031875f41996dff0e4565ac0fde1df",
-    "dfef2af77a3f7705a08dca6571f30e2cf623e5ac1fa313c3a64e79565678cf3e",
     "ed48290d922197430869c794f0ce476e671f0f55c062a43b3b759eea8baa323f",
     "832efefdac172d79b0c5afd258c7003e60da249a49e671a4ac6dfeb9cbf03964",
     "74846728b8ef18746ea926af55597b0f1d3528736e87a3e5cd09bb58eb2c67b7",
@@ -4000,13 +3992,17 @@
     "126becc7c58c8ce96774c75c267d9cac9bcfe8d3ad324313504ee35b4557a5cb",
     "05449853eff285b262a6c623c29e4401801191c61567ae03f48fe5e748944f38",
     "50cdf7d4d7bad9f36edc064f9420d820cd3e427752b9422c51c8fa871a324795",
-    "e67555af62cc6251a8e292b0ae9425313d25f2f68543628c03b0dc66cd7a509d"
+    "e67555af62cc6251a8e292b0ae9425313d25f2f68543628c03b0dc66cd7a509d",
+    "f1b7e6cc4e130911e5bdf0d974801e51bcd4e10cc3b67368063feb3108c044e7",
+    "ba014dbc9f6dab53bb29b96770b0dd03ba91c6b6ace75987c1545fa7b9da9a0a",
+    "6cd2df032bc8e8faa79aba563023ab0415c3690a7bb54697c11940702b230884",
+    "6dbd2668a92f02f6ebc5b34b6b7776d56adb782d1fd4cd71cae5d83987184e1f",
+    "c1ca52589d867433182ffd1c67bab9c2bf9530fef8c61b26d47d49bf5f66bbfb",
+    "c6c478ac39a1e5636f3f894507cab2ec4f4757f061d89671e2cffe132783d7df",
+    "e9e314068505c1d9186f70d83f77bd1cc809e9e063538c59abe02998449805c8",
+    "e8123043dfa71d23f4ad803a942f7a585030b38a3bf6def754a2972d71b9d72f"
   ],
   "title_hashes": [
-    "4452abd759baf2ca3c8bc854b790ffb4c3cf0503d40391d311daf5f12201707b",
-    "5a847f49d0acc6ef3676e3326ecb8e66c3417d610f6b137ffe5760e6e926f069",
-    "46bd9bb0c71009ea44cebb55dc9a90ddfd293f03593cf02538e92f7b9fedc818",
-    "77d13dacab40a39e887eb87bba142b0d13ec843cae0a84eeee07529aa10b388f",
     "eeb969df06f286fe7d6d437e3bf95335c2ee1e768c5871b1a5668e1ea62196cc",
     "0444697a1a273dd83d9e00afd7312eed73551ba1fc98794f477cc4943e84edec",
     "ca5c2fe6b647722166dff9cf4b642f409caa80c085438a85216dda90e134fbc6",
@@ -8002,23 +7998,13 @@
     "d6eb7a23e747c5a79ebe7c1c95c79a1c101a941d3f6ead972173d15c34b6bafe",
     "2285819077632c6e527cc5199261e0f0ca22f25511ebcf8397531b59099e7a28",
     "c1791ec7138b147b91618f1330d5d30bca89c2d5d063c9c5eb6423ee4ce03e61",
-    "c3a84546998461f82090c0f2058d06d56b88ba5043dd379d59fbe1e269fb16bd"
+    "c3a84546998461f82090c0f2058d06d56b88ba5043dd379d59fbe1e269fb16bd",
+    "7f6b4aa72d8598b700c6f6a64be77c8a655059b1d04bde340ae5e68ae59cd655",
+    "43f3d80bca609dfc0960d984685a12a8eb69e43b7ad3d8afe7a696ed2e89ee2e",
+    "722248bc0cf447bdb4d5962150e9436025a4ce00726175a035e456b81b2fb0ad",
+    "c006a6df70a7e021090fa74670a066bea511a88581949c15af36a391e27a1e15"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Medtronic down after Q2 revenue miss, unchanged FY27 outlook",
-      "title_ko": "2분기 매출 부진 이후 메드트로닉 하락, FY27 전망 변함 없음",
-      "url": "https://seekingalpha.com/news/4676080-medtronic-stock-down-q2-revenue-miss?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795522196
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Best Buy Raises Guidance on Demand for Computing, AI Glasses",
-      "title_ko": "Best Buy, 컴퓨팅, AI 안경 수요에 대한 지침 제시",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/best-buy-raises-guidance-on-demand-for-computing-ai-glasses",
-      "ts": 1795522264
-    },
     {
       "source": "FT",
       "title_en": "EU EDGES TOWARDS MADE IN EUROPE DEAL FOR UK CARS",
@@ -11504,6 +11490,20 @@
       "title_ko": "황, 직원들에게 치료 중이라고 말하고 Nvidia 시청에서 사과",
       "url": "https://www.wsj.com/tech/huang-tells-staff-he-is-in-therapy-apologizes-in-nvidia-town-hall-b79647f0?mod=rss_Technology",
       "ts": 1795547280
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "CoreWeave Bonds Hit All-Time Lows, Erasing Nvidia-Fueled Gains",
+      "title_ko": "CoreWeave 채권이 사상 최저치를 기록하고 Nvidia가 주도한 이익을 지웠습니다",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/coreweave-bonds-hit-all-time-lows-erasing-nvidia-fueled-gains",
+      "ts": 1795547318
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Citadel Securities Trading Revenue Already Tops Full-Year Record",
+      "title_ko": "Citadel Securities 거래 수익은 이미 연간 기록을 넘어섰습니다",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/citadel-securities-trading-revenue-already-tops-full-year-record?srnd=live-events-v2",
+      "ts": 1795547321
     }
   ]
 }
