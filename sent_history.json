@@ -1,28 +1,6 @@
 {
-  "updated_at": 1795543683,
+  "updated_at": 1795543843,
   "id_hashes": [
-    "b5550fcbbd5ac3cef9627a6e13c02e4d94abe8ec663ee2b021d7e8dc5e437021",
-    "810e7330724db3cef3568f34196364cb3935af62eaf0907b47e6c3ab6f654be9",
-    "6a20c1a5dab703904666f9f617e890bafbdeb7a905c4b45ab55a157a802d6a05",
-    "7a827a4babd7f2c8469e34c602b5d51c7111b6af8bc4a97edc60b63f33ea21e8",
-    "db176967086123f1e47f36ef26e32eb36193a749d1c64b784da356cddc40994c",
-    "2137b167bc7a42cf48a1b268b188de625a1a7f0ee66f20f10d74b6779c995a87",
-    "fa1ebc0cf3d2d763da00fa35824edafdf42c589e1d64d9d1eac647e4a9d4094d",
-    "64226c1f8b8429e7aac847320b163e1656f215666c05cafef522dba4f70412fc",
-    "1acab54c59f94b166de731f228d3673c1e1651a5d34c1bcb5778f26767d2f73a",
-    "24fe609500bda284f4d45b9ab776ae6d4d7157858cc2e15f6fdca30e91acdb90",
-    "03a6ff6d3c8031fc61649d3aa1f6ed7dda30867d0499d6161548ea1d1bbf0401",
-    "8d8fe1afa0bcabc41243d6d81fbaf560e734ced8517f8317f07ca3f0f80fcc09",
-    "ffeaf3c317fe5b5474bcdded19f341c1c1ea9f3ac88aa3464826fe0ca04bab45",
-    "de972cb00d6ae3e695218968fe7447e8e8615dda7e5ea8867469441216bef9b6",
-    "835a9496a440f8e6949989c9128503e353dcc31f6b03f070c3ad383ea487cd62",
-    "6c136b41dcbefc2ca7577a1a075308be1e008a04e05a003c90b5d1384e351798",
-    "52f0c5fd8968e08431e1d99f39e9a9aa5ddd9eb3e5976ef2cc98ac72a906160d",
-    "785e4aba02d44a14d40078b0a6479bc9fe1d4d3ef20edfda3ccf4fa337ab6a34",
-    "2fd9edd68a61401eadbae48c18c337a567512b86080a0a0ac5af1efbb8da8dc1",
-    "e1a973910120de0950d6d6e75d9a09dd8f38a6a611c5860a15da936117855f6c",
-    "f78a21fab3c8f7a5e4dba565ec994c41a4bd628227db93801c69623fbb724276",
-    "bcbf05d3d35584aaf5db6a50451c299da4e17ad06e9358aa135904046bb7026b",
     "1b946d2f36add93ab09fb6438337e04820c9dd6aa4101ce818fbeeda18022d08",
     "d736e23dabe62cbe9a90f02f16eac497fae0ea31c5592d52bdc64cae40fbaadf",
     "2be45f7e72824688b4f25993c9478e001e289f1f7e28b515283d77e8a83a5585",
@@ -4000,27 +3978,31 @@
     "f5f48e4399a4d7d061126bfb00e8d3b1dc355301ca92679206b73d36b3ac5aaa",
     "c64a5c709a9a10aad9a472dbce3ec784393ba1e4e366967bb38dddaff26b4d8c",
     "8807ac09d5c32e3e18a68765dea5f8a0b2738ca3d860046950b6d4e0de983cfc",
-    "6632c9e15b2abd1cfed64c5a1a73f49155646f342ef098bf95a8532496d7c218"
+    "6632c9e15b2abd1cfed64c5a1a73f49155646f342ef098bf95a8532496d7c218",
+    "b54c3b6c1e1e5a0be55c75047c8943c7ca89be16e4694c2941e63b8aa02ee8e5",
+    "876d3c2fce268fffc80f35efcba52f847cfdc41091997b54e5049269bb24f29d",
+    "b6961e345fa6ee8e34c68c42776e8a1e28aa3b452534ad90b7fc4cfc559b54a4",
+    "8dee788ecfdb5ba986a5eb2d5579d53d80592b919976272f13aad15d5c71867a",
+    "4e3272120e58d3e8485ddb0396c070984c35d0392133376831a0d9167ce09a02",
+    "ef94854267cc68c3590ab02383ebe0cbde51883b51a065e83485864a6f84dcf7",
+    "5517b73d97d622eb860f7530eba4e5ee858b8f59e73e5b39b736cdd471c68fbb",
+    "1c3018b9d0ff82dbdab013ea846e88f54365c82b44b1d605635ff6fd7ac6b0bb",
+    "2baab9ba84a800bd3a20a5403b8b313b81291bd9e237dfe59a991a352aae92e2",
+    "59fe15dbebad63f3060355dcbe75606ee5ff82a46569789bf6ac4903da73f7d8",
+    "bfd23b944990528d400bcbe27cb7dcc411c9388f5a5abc14070c3486064bb6a9",
+    "9c839a62d48827e05120dfc1f678d1100142827b8bd00180759842e016a79315",
+    "d411f69fcef8148c51c3aa946d0b93e78cddae2c41a26798eb55f2c4a49cb7c2",
+    "024db81035b56febdc81d3d8c415efd185fe5aed989be6bf265ef62b3845301b",
+    "4d51b69a276e7069f36524eae6fe1f82975eecbb03b95030fdcd22a93106c692",
+    "4e7c96af108dcf73e1e02749845dad555d89945d12c5b604cfdc442725868e82",
+    "c683a36bfcdff7de88ef81478057f0185398fa54ee6e88534e6d220a19cbceb2",
+    "22a0f0eab6b0781eaebb16e5ec4fb137eb3d225ef033383977a9b264dc504657",
+    "ea51dfde2fce64baf118ad76cced5e97559fbd097e405ad8bf8a2610c53be998",
+    "bcbac8630cd819a9d99c5a9a74e65d4e60816991ebfd580cf21e80764ee06307",
+    "9d5dff484832528478cfd871c6d46131fbecb0c6afee7a52ff1df32bc7916c7b",
+    "a4994cb8fa732ce44af5911067c6c83361b99beee3782334a2a496afdc4f88bd"
   ],
   "title_hashes": [
-    "972416ee07a550ff3f90257880ed3d8ec32df1592e8cd271f72e2de5e6f4dd50",
-    "a843e79bfae6c1afc1f2f665481387162f5765406baf9d1393c3009ef44085f4",
-    "42b376a67f28fb507f1bd6b4c13dd7e25c44afdef11167c3f628fd2a7fab785d",
-    "662d65e5458fac09b7cdfa3c0c75b1fbdf471f97c5f69a59465a9bdb6cc32f5b",
-    "9ccbff792478e354684dba04ca4960dbde894bf01ae8b650d2bf5f59ad99f1b9",
-    "a4c0552f44ad125690c214cb237fc262ca37478c2509015af2bf1f73249d859e",
-    "d82e1bb3b485232626e096a6b1e65be511eb15dd3bdd13a7deca30cdc971489b",
-    "cfed505d3388a49e9edd5d019189f025860b76d06d3b12b5aff15621bf0b3fa4",
-    "2e43f7ce70b03e0ebd2ac9dd28fd0d9f00dea3c2491d215a083b703f83129c04",
-    "d6e3b3165a1dee08f04eabae41cc88ca2dc58fe0cee07b136ed212233c615e9d",
-    "1683a729acd856d0bad5fee3cb3dcd47c8f9b3071720d7f2e5eaf89a22ce9282",
-    "ba164a9a6390ecfbaf934d61ac7ebb18ed8b07342b4b89ccc341d690b8b8e725",
-    "1869cceb7863c13757ff28cb6293bd15ad5fab5cb5924c65a8839472e423de1b",
-    "f73bfc4efe2ba24600196f0501c88149bdc79cb07ee23d63880416babca3a170",
-    "e221ccf98d32ae51a620e6bc7f9ab26fc4bcdc214d822b95f07bd81529dc89be",
-    "883c07b411a01819b9ac6d97ad465f6d3c190a88a66fb74a20640d0e92bb6a29",
-    "941beecea8b07b4a6a1040654f33cabb8bb10d1cb310fa6abd299d8a5bc31f8c",
-    "b4d59040109102923d2d21defec8d859a721d6c92a715eb7bbb162ab833a2ca9",
     "659a1a70e73468dd22bd9ddab8043d7148440bd6666e0f526d1486f82faffe88",
     "f629fc6607d28f090f83d0d326cbff92b03b3b860f1cb5d996512f1fb6fb34b8",
     "a91558d91e9eb60e88ab1c140f24f7a717f1df41a082ee17e9357973ba89dd58",
@@ -8002,44 +7984,27 @@
     "50ade4c4123e3d6557782e842036080f930cf0471d8cf563f308cdb505d4a636",
     "547d2a3928cc6092206367c40aac17e3f7e2a56ec7ee52cdedfcd7f318bb9b26",
     "17e2f754295e92537d9e86b7029a89a51158fd71595ac67248089e7089da0b19",
-    "dca9fc19e1574eb7f1b417f4d502d484ff96e4edbac0427d2dc8508e7f62ee68"
+    "dca9fc19e1574eb7f1b417f4d502d484ff96e4edbac0427d2dc8508e7f62ee68",
+    "6e90b68549d279eb85a4fd12e0fc32a2ce5b79cca6cb60817fd41fc2c315d4bd",
+    "c8ed4e2cfe7d22aaa9a996a5a6675c118dd51eddb3462d0c1094e4d9976814d2",
+    "4b99f5a18debe55d73fa5af5909157c9d3be7819a7f1d4aedb84a0f7454832aa",
+    "010d08276e1a20a206392042548a31135ae6f3400b3ef531fa94daead8e50a90",
+    "447d26ee1b512eda77bd0af09d5a401c5e4157f0726d895350a559b046d1d538",
+    "bbe51f3453ab5f46ce6b8cddfc6e9c65cbcff05c173cbb4af71c22ab2940e079",
+    "a6611e7d3ce8976c3e14d04d594d9ddfd833a8fd0da64d07c476a80a476c5dec",
+    "6c87f677633ad1d88eebaf9abcb9e6d8baabaef172778fd66ce51b4f2c52ea49",
+    "425dd163b4fe6e6330c3cdc37496c62eded5d7cc9ab12ee12837430b8e73dbfb",
+    "15cad1172cd2f6dcd6d37894e3af2c86eccfd6a1d2dd54337ed594b283ff2488",
+    "c86fed48b6053eaecb5ee60302049fbaca470a75c06ecd8389ab802ea24f3202",
+    "93959b3909f0d49eb49c7e9d7a35ed1bffcf5bff690c5d0e91fa20ea5bf1f2ab",
+    "ccefe012345ab0284448d66877a3cfdf8dd4e49c885d93dcfa0f004c63ec8833",
+    "db2ce2adec74e8679a8d8317248fd1a80cd9edf774f24cc6eb6acd9e78b66d4f",
+    "ca87fa966532ca19ec115e47bf79b5a5f3ed3f695387f0cb8f820034c9e72d82",
+    "cbb1b6d779a2c98c86d7fa9e7a6d16d9e446585274ef2d12f3829eeffa95cbf4",
+    "851d86762f12c08c5160a41950f95ff6f9ba8458b46930afeff0238f83918b27",
+    "cbf088abe5735feacf58ffe8d1cd02b53f0d56c6643f22d45ecfd8fef7571349"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Shoe Station Group misses top-line and bottom-line estimates; updates FY26 outlook",
-      "title_ko": "Shoe Station Group은 매출 및 수익 추정치를 놓쳤습니다. FY26 전망 업데이트",
-      "url": "https://seekingalpha.com/news/4676052-shoe-station-group-misses-top-line-and-bottom-line-estimates-updates-fy26-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795519160
-    },
-    {
-      "source": "MarketWatch",
-      "title_en": "The history of next-day moves after a big S&P 500 gain isn't good: live updates",
-      "title_ko": "S&P 500의 큰 상승 이후 익일 움직임 기록은 좋지 않습니다: 실시간 업데이트",
-      "url": "https://www.marketwatch.com/bulletins/redirect/go?g=ecb6fdbb-1e0c-42aa-83fd-775d976deabd&mod=mw_rss_bulletins",
-      "ts": 1795519170
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "NVIDIA (NVDA) call put ratio 1.5 calls to 1 put amid wide price movement",
-      "title_ko": "엔비디아(NVDA), 주가 변동성 확대 속 콜/풋 비율 1.5대 1 기록",
-      "url": "https://www.streetinsider.com/Options/NVIDIA+%28NVDA%29+call+put+ratio+1.5+calls+to+1+put+amid+wide+price+movement/27390435.html",
-      "ts": 1795519323
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Nvidia Market Whiplash Far From Over, Says RBC’s Wu Silverman",
-      "title_ko": "RBC 캐피털 마켓 \"엔비디아 주가 변동성, 아직 끝나지 않았다\"",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-24/nvidia-market-whiplash-far-from-over-rbc-s-wu-silverman-video",
-      "ts": 1795519327
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Nvidia, Anthropic, Intel, HPE, Sanofi, and More Stocks That Explain Today’s Market",
-      "title_ko": "엔비디아·앤스로픽·인텔·HPE·사노피 등, 오늘 시장 흐름을 주도한 주요 종목들",
-      "url": "https://www.barrons.com/articles/stock-movers-0853c431",
-      "ts": 1795519485
-    },
     {
       "source": "뉴스1",
       "title_en": "中, 시진핑 방미 앞두고 대미 핵심광물 수출규제 유예 연장",
@@ -11504,6 +11469,41 @@
       "title_ko": "Schumer 민주당 상원 원내대표는 Nvidia CEO Jensen Huang이 \"매우 진보된 칩을 중국에 배송하여 미국 수출 통제법을 위반했다\"고 비난했습니다. - X. Nvidia에 대한 성명",
       "url": "https://www.financialjuice.com/News/9866512/Democratic-Senate-Leader-Schumer-accuses-Nvidia-CEO-Huang-of-shipping-extremely-advanced-chips-to-China-violating-US-export-control-law---Statement-on-X-NVDA.aspx?xy=rss",
       "ts": 1795543682
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BANK OF CANADA GOVERNOR MACKLEM SAYS A BOC SUMMARY SHOWS THE RENEWED FRAMEWORK DROPS ALL MENTIONS OF USING THE 1%-3% TARGET RANGE TO SEEK MAXIMUM SUSTAINABLE EMPLOYMENT WHEN CONDITIONS WARRANT, AND THAT MONETARY POLICY CAN TEMPORARILY INFLUENCE HOUSING DEMAND BUT CANNOT ADDRESS SUPPLY CONSTRAINTS",
+      "title_ko": "Macklem 캐나다 은행 총재는 BOC 요약에 따르면 갱신된 프레임워크에서는 조건이 허락할 때 최대의 지속 가능한 고용을 추구하기 위해 1%-3% 목표 범위를 사용하는 것에 대한 모든 언급이 삭제되었으며 통화 정책은 일시적으로 주택 수요에 영향을 미칠 수 있지만 그럴 수는 없다고 말했습니다. 주소 공급 제약",
+      "url": "https://t.me/marketfeed/1084720",
+      "ts": 1795543709
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "$NVDA: A CRITICAL NATIONAL SECURITY THREAT IN THE NVIDIA SITUATION IS THAT JENSEN HUANG SHIPPED EXTREMELY ADVANCED CHIPS TO CHINA, VIOLATING US EXPORT CONTROL LAW, IN WHAT AMOUNTS TO THE EQUIVALENT OF SELLING ROCKET ENGINES TO THE SOVIETS DURING THE SPACE RACE.",
+      "title_ko": "Nvidia: NVIDIA 상황에서 중요한 국가 보안 위협은 JENSEN HUANG이 미국 수출 통제법을 위반하여 매우 진보된 칩을 중국으로 배송했다는 것입니다. 이는 우주 경쟁 중에 소련에 로켓 엔진을 판매한 것과 맞먹는 규모입니다",
+      "url": "https://t.me/marketfeed/1084723",
+      "ts": 1795543774
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Hormuz Strait Authority Blacklists Tugboats, Raising Pressure on Tanker Traffic",
+      "title_ko": "호르무즈 해협 당국은 예인선을 블랙리스트에 올려 유조선 교통에 대한 압박을 가하고 있어",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/iran-adds-tugs-to-hormuz-blacklist-as-pressure-on-shipping-grows",
+      "ts": 1795543837
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Gilead Sciences Stock Hits 52 Week High - Here's Why - Gilead Sciences (NASDAQ:GILD)",
+      "title_ko": "Gilead Sciences 주가가 52주 최고가를 기록했습니다. 그 이유는 다음과 같습니다. - Gilead Sciences(NASDAQ:GILD)",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/initiation/26/11/63597327/gilead-sciences-diversifies-beyond-21-billion-hiv-franchise-analyst",
+      "ts": 1795543839
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Diana Shipping Q3 2026 Earnings Preview",
+      "title_ko": "Diana Shipping 2026년 3분기 수익 미리보기",
+      "url": "https://seekingalpha.com/news/4676315-diana-shipping-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795543842
     }
   ]
 }
