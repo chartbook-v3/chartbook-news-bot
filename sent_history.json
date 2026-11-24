@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795514036,
+  "updated_at": 1795514186,
   "id_hashes": [
-    "2f4f37dc65dbd9d2a1381fc836f5efe1b42a5816ef202a3183c0d896dbaa9a1d",
-    "b60fe1ba9436c722dd963a199a0b44fc4fc409d85c0a04a04ec1fad932d6bee1",
-    "47c0b96a1132671f19b9557b3e768e5e5f000285e543f616570a5c955236fdf3",
-    "748a6c91034578ef4468489208c19d80c40335ae6c2acd0fd254e017ef685bb6",
-    "5e4c44c5e2c4ff84379bbdcc885e166edaa38d64d66707405960e958419d4e05",
-    "2bae12b46910a50d2436b2986642765d34ecbd861465a413a5d069b435256bf9",
-    "36bfb8841e63e302daf49b6fb03209f4c584d2b44810c0bacc1a015e0dcc62c9",
     "0c87db62058a9076f3a96451c6aad177e1c995c0e2b7876e4346e607d47fbf3d",
     "3b6edc1cbf9e6fd111eaa76e1f64faa4a4e555d59cf8faa936e066648b3cbe00",
     "386af78b069b77b13f986f04c3ad56db232730efaae6ff3ffe3c9cfe177ce0a0",
@@ -4000,15 +3993,16 @@
     "6e380cab3d702f3a3ddea38719df12c508ec6a307d39413140df9890fe0ea334",
     "ddcaec55b8c6107d5487f5c79e5472d759add6f044b7160375d02c1887a83f03",
     "991de05650012ba4545c96ba5e052ab01203c9e7cf0671209956c30e49f3cced",
-    "5995b6426789399f1db9149aba841654d026fea3045a369686c78c1b3505297c"
+    "5995b6426789399f1db9149aba841654d026fea3045a369686c78c1b3505297c",
+    "f76a6f8cc64f116ef35c2f345f00fca9e9224379a32c9280f58cbae2547d4839",
+    "5b93c42d748cf55a93326b43ceaf013e7720608e15e7f8f2c34816696fdd3411",
+    "19f7244e94542bc05f47219b40d56fd9095abb782841311c0cc1a73daf492ca9",
+    "225237b1ec1ece11016327e49ad71001f9a65e3c713394f984b4e8d37640115c",
+    "d528dfc48b7d1ec1d854b704a02909d4f55f8de14fb42685aeb0f5f115057881",
+    "d1a28941838cc389fb92eeefa0f83020b55d5f362146c7c32c6db6df092d4437",
+    "e47c0b9c83223270aed2c1a464ee44df37d0abe474eca8089f88e36d5e578a15"
   ],
   "title_hashes": [
-    "9ddbc4bc8ce2b6956dcac56bc995ef3f68ee72293d97461555d0ee3d998a2763",
-    "c4625e7c291095b50e6bbd9652fd93a54084e798aa5a4c1184fb58c3c4388a4d",
-    "d06a8d0da56db365bd76cacd49f9e964aaea9a7e560d354b452be4fed5ef9a38",
-    "4afd6126675d2fa1b8a38f7e88dc081636ad94ee7b3ed0d66c1bff0e4a6860e2",
-    "21840658ab98b0649f7b8d6bcada7e52d47455c270972420d7a62def4ea9b866",
-    "c2df4398d9d5707dc3bb386698e4af9efdc6fc8d7dd02c22b1c5480c04c39b3a",
     "ec9fe0449f4d683f1cc64d13475b545eb8859f6307ab09cc68e503d037de0dad",
     "bd321a99f8065489dcd479713fd283db3b140118866e566bdac3133fd5d0454a",
     "a9c82ddd1085701169362851b414272e2eb0eb23ace36e727e7f817453b6f8d9",
@@ -8002,16 +7996,15 @@
     "5022871519284004d25e0a5c076473f7e9c9a87786ee35e9d7094f120ef87af0",
     "698c28c29345e1bf278fd9b0c9c5d3f8683a627a688e4257f3bbfbe60360895a",
     "ededef2a11c62a39642d63108f962ebdd990c40faad6c86ec5c4ef3de419238b",
-    "0d4e604d42d7f269026ad71c5d6a42283ef1a32298f653cd702c57ae4f3302f5"
+    "0d4e604d42d7f269026ad71c5d6a42283ef1a32298f653cd702c57ae4f3302f5",
+    "e05db9bd428f442e855596162a46bef6966eda5d8476dbc3f00ebe02ff9abf36",
+    "f32d63d55df998090db79ff8cf070da612684408e0ab0547bdf8ff0cbff079a1",
+    "bc2d3b78641a3f0ce39d3de70257ec03c5a3d2a81565eb615b9f0dd96a6b57be",
+    "08711f184f9a82dae0b4e3d4f11c477970ecb58e6269203e22730658abb23f30",
+    "5ee689c16a1e4463b13f8c07d0fe1850e2b8776aa25a72c094a3fea8033d6c06",
+    "aaf58ff15e265d79b3c7f78f41f657b2e1a7ef576c2bea05214922ebfc54aeec"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Nikkei Asia",
-      "title_en": "US to place Megaspeed on trade blacklist amid Nvidia scandal",
-      "title_ko": "미국, Nvidia 스캔들로 인해 Megaspeed를 무역 블랙리스트에 추가",
-      "url": "https://asia.nikkei.com/business/tech/semiconductors/us-to-place-megaspeed-on-trade-blacklist-amid-nvidia-scandal",
-      "ts": 1795477050
-    },
     {
       "source": "MarketFeed",
       "title_en": "POLISH ARMED FORCES SAY A RUSSIAN DRONE BRIEFLY VIOLATED POLISH AIRSPACE DURING AN OVERNIGHT ATTACK ON UKRAINE, ADDING THAT THEY DECIDED AGAINST USING WEAPONS AFTER THE DRONE CHANGED COURSE",
@@ -11504,6 +11497,13 @@
       "title_ko": "메타, 영국서 AI 에이전트 '뮤즈(Muse)' 출시",
       "url": "https://www.theverge.com/tech/1041084/metas-muse-agent-launches-in-the-uk",
       "ts": 1795513885
+    },
+    {
+      "source": "디일렉",
+      "title_en": "한화에어로스페이스, 라이온로보틱스 투자 철회",
+      "title_ko": "한화에어로스페이스, 라이온로보틱스 투자 철회",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65876",
+      "ts": 1795514185
     }
   ]
 }
