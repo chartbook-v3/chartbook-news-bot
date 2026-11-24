@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795544919,
+  "updated_at": 1795545076,
   "id_hashes": [
-    "666629bb33b7bc9a5fd20cd074c8f509b69e3ab7136653b86aad1059e482d35c",
-    "a74cb170c98c2cdd6da699cbf6c7d8988dcace709ac541646df7988e2bc8286c",
-    "d03c867ec616ecf66e0a0919169a32ee3541fd2c3f04853fc7cf61b8fb038667",
-    "8a7774a28f04e47eb775ecc0fc0e380961b701d80f9c26d9d16b72dba80369ff",
-    "47c65cd5cfee612bee40b36533414cf259b1ab9c3850fac85ba62349b6d9b003",
-    "92f029b1f34b830fcc9fd6679a29f764d9fae8f1c5f9b32ea6602cecef34343d",
-    "2787802f9b604e3569b6c14c39b847d198cf16549e3664c23e8e343d09663f62",
     "34dd1d5b2374727f2ab533cb5052a350ce624a585ba3b650642b52496aef985c",
     "43a66edf66c55422f8f2d1738eb55242a701a1e7bd8cef723eaba380cfd138d5",
     "6f807a6b3a3c35e3760333e4858eae5b10c275a81d5218fe6e51cb953a2d6cda",
@@ -4000,15 +3993,16 @@
     "317dbcc3c5d2f40c175024cf96d7566c7dfa0dedc132e8ad6e7c024c60400bcd",
     "31e69d8b0a7470e29cbe0169f8a998505cc3b75903136bb83b6956b6dae39d32",
     "765b237c9a23db73dbd9046981e650cc649ea44ed4ef9b7d008042ea634106b3",
-    "1e5001f4e832dc0701171ddc4bc2e5dab5695418803bf134a94b6ecfca542681"
+    "1e5001f4e832dc0701171ddc4bc2e5dab5695418803bf134a94b6ecfca542681",
+    "518bac39d6227c65872f9067f654ea6363c491f5fb408b95febed9744a5014c5",
+    "42542747a967729b5950ad61e48a614ca191618fb914fe9fbaa636cc5ab53738",
+    "6c14a417d640c83802cfc955553b6444b50ce37c3c334633c184433dbd6e813a",
+    "003ce55c1f27a7566090357cd7214d26f65e747d5418df0c4df62475a7b17afc",
+    "cbe46c8f18a155c8b965f73c69c73deb3407ad20b3be3cd6bfb9c53518748936",
+    "411deaf78776fc47e209b79f27dfc6e1539bd9d38407538e1974d41a2501fca8",
+    "3a23b212d5e4f88041cf5405657a4ca6a11c2be35334eb5e5dfc90bf04d7f070"
   ],
   "title_hashes": [
-    "cad4649e620884be462f03a8160123f47c81b32df62a3269297baa19652e64a3",
-    "795c91cf89e108e1726d75f1c7e4c7d8c747bf73cafacf0c40f0e4e88f74b380",
-    "e7ef3b1f9e648794eaf29f0f7b8505c4e232a9b0d414fe3cea70d7eed44bd1cc",
-    "7761f21d6fa07a9dfca60c3c540aef0975fd2162032c5c94a27fc6ae5f72a470",
-    "6444139fa4a9d33070d2f67b331628645e22891cef06626bce606d227380bf03",
-    "e8c8d3eab38be5acc1fc264b8f3738aee1139caf678ed288910b482fde90cca8",
     "8aa8750f7df7a86b2327016e680b3f57c08305cd86132e0da124fb6737c5d6dd",
     "c31f19bb1530aa39e28a64b20baee7d68c4e635dcb55eb4fc6c2177610789367",
     "2f46abe209986234585128e0280f822b6266b06157b91ee03e39fb83196535f4",
@@ -8002,23 +7996,15 @@
     "ff82b84b6c679ed9a112436727fc58211f308a62b342d9b92309444ce1b6a41e",
     "42cababc52c94e18851506d104816071e2137db038124f08a477e5671a2ae422",
     "e0703d11976d3ae8ecfd1b8ca97de98724e44218581cf21d70d9119ec0ab108a",
-    "0fb48e659d466f2c24dcff85d654da104d239847ffc52833ad4ad2285fe3d2d8"
+    "0fb48e659d466f2c24dcff85d654da104d239847ffc52833ad4ad2285fe3d2d8",
+    "73cbd6551187883b7c588e3dc33b07ee4c86b7951943e545ff2a434dd0bfddd5",
+    "a5500b8bdbf4975c1682279ea40f9d0e8a6797271f2050cfc0f57acc303d94a7",
+    "1ce66f9fdde16931f78c5be01f5c77c44614133a381de6036e495f4a885fcaa8",
+    "d0a7d1515060899a20f72ff2aa7d1b1dd1e145b5494ae226a1127a48022d9a44",
+    "20218530b7a36e480e030d39d3f3b42a42d53db23092f0cc2630ad7da90640b7",
+    "90d16970cfb84320e3f4bf0974061edbd7b98d43bab4120a179020699d53681c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "AI-native holding firm FrenchFry to go public via $500M SPAC merger with Tavia Acquisition",
-      "title_ko": "AI 기반 지주회사 FrenchFry, Tavia Acquisition과 5억 달러 규모의 SPAC 합병을 통해 상장",
-      "url": "https://seekingalpha.com/news/4676050-ai-native-holding-firm-frenchfry-to-go-public-via-500m-spac-merger-with-tavia-acquisition?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795520458
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Nvidia slips 5%: Boardroom reversal shows who really holds the power",
-      "title_ko": "엔비디아 5% 급락, 이사회 내 역학 관계 변화 조짐",
-      "url": "https://seekingalpha.com/news/4676056-nvidia-slips-5-boardroom-reversal-shows-who-really-holds-the-power?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795520461
-    },
     {
       "source": "MarketWatch",
       "title_en": "Anthropic stock falls below IPO price: live updates",
@@ -11504,6 +11490,20 @@
       "title_ko": "QUICK SPARK: Jim Cramer는 이 시장을 '죽이는' 것에 대해 인류를 비난합니다 — '대형 구매자 없음'",
       "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63598306/quick-spark-jim-cramer-blames-anthropic-for-killing-this-market-no-large-buyers",
       "ts": 1795544918
+    },
+    {
+      "source": "토큰포스트",
+      "title_en": "마이크로소프트($MSFT), 24시간 장애 뒤 코드 레드 대응체계 손질",
+      "title_ko": "마이크로소프트($MSFT), 24시간 장애 뒤 코드 레드 대응체계 손질",
+      "url": "https://www.tokenpost.kr/amp/news/breaking/443745",
+      "ts": 1795545072
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Korro jumps after FDA orphan drug designation for lead asset",
+      "title_ko": "코로(Korro), 납 자산에 대한 FDA 희귀의약품 지정 후 뛰어오르다",
+      "url": "https://seekingalpha.com/news/4676316-korro-stock-gains-fda-orphan-drug-designation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795545075
     }
   ]
 }
