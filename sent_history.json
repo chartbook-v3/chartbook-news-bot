@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795542123,
+  "updated_at": 1795542274,
   "id_hashes": [
-    "04786ad66d4bc3e9539778cad0689aedfa5da565a9950d82aa4932f2a95f859b",
-    "24cb19ec2dae2be0d92fe1e439a0c17f495950e631fe95bd1497c32d44d40359",
-    "108c85ba444fbd1a095461d59af2b4865308e6f3828898e8ef483f19718f8716",
-    "4072159a0cd2c7dcf2603fd6b5a1d482ee1590d6f1708c7d68b70948f43a0b5b",
-    "789a3001848093ef0e87872bbcdf4f60fcf7462d8ec9006a9b655fc2b113851e",
     "52aba8c9779b786bee4e4b1dcbaf1d79948f9b69bcac80d9e51b26cf64c797c4",
     "5aef74baa1d469b000f33c019b301cf4515ca10000f9ff8468a2b7f92093f917",
     "c05854873c5fe4e3764fd9529d3d623d970da0cb88146b3653b58f0adf10ec26",
@@ -4000,14 +3995,14 @@
     "1db5647c9c06f8a5cd20bb5d5ff51b204c74bb99e9aa668895ab9912e269d7e4",
     "8f04e3f103ad875a37d5f29385b4f00a34127b728d9c48b9c5898aa51d8e5eb3",
     "5c221b0e1092d0bd11b807a2e633e53f4669455fef4b85ac5584fa1cdc35aee0",
-    "f28ab322a29cdcaae49f6246cfbb2a089309cec2d06227558a5f321a75e200f3"
+    "f28ab322a29cdcaae49f6246cfbb2a089309cec2d06227558a5f321a75e200f3",
+    "192995e18a64a1eedab6a5a0d6bf54924a00dc2c578cddd5f1011780cfffdab7",
+    "e75d53a5c103db1ecdb79f6f6facc1f2600fdf21f45dd3ce87ade47e69a2e648",
+    "9159717d768e968d98613e673b11ca0a4004018d860cc26e856d91226125aede",
+    "a3b0926807eb9ecbf4509d04e5cdb54dc85d6c04994f8d67c2823e00bbf5bb3a",
+    "6a2068ec23542275989402c0f703686caaad5764f43c52354982ee3792ed24ce"
   ],
   "title_hashes": [
-    "e470c4fdcc53be393af32e13c66ece54b0f0b303491c5d41597c3fc54041d18e",
-    "d1cfff4d251ddcd23f90314b6c37ee3c12efbd15b95018a565a370a1d00872ae",
-    "d639839034988ce5376a7b079e9e5c710aea30c40dc48b4a099da7e016ed7c27",
-    "fb92544b2067c58f4f3840037dc3739250f5bf9ab5c2c5848351f66fbdce121e",
-    "ed21958391e284698c0b9e413123731dc2cdb153f5930c56184a3860db1ab226",
     "5ca7c2dbf71652ed1e581d283568f837f527c112f4b238d72c7793ddb303d54c",
     "c6072bdd49500d66249a8feee73b8a6b55bb596dc3268c64d9a22567fe7fb0db",
     "c0484c2109701b7358109db6c9a813f81431940d296a73574847ff56a83158d3",
@@ -8002,16 +7997,14 @@
     "159b7f518555098573bd3102feb3f580eed3092f1520710c21bb351e35c78e26",
     "282b7d979320b6b8f3f4c9eb2247d09f5e639ae30f3879cda6d5f1b112d6441c",
     "0c394a074da200a5b56a6c1aa77c035b4113cfc35f12f007694c52f21bce4dfa",
-    "1f2e9944bf06b73a9b82d4a0ca4a91cbd5954bad6abef8c5d38afe59e7d7d442"
+    "1f2e9944bf06b73a9b82d4a0ca4a91cbd5954bad6abef8c5d38afe59e7d7d442",
+    "419215a5fdde7c62700a2859485054455ada537b831e45e5de4df1dde2cea836",
+    "328fe63a3eed9814e635547f0feaabff9f25815e64631b86991c9432cf665f8c",
+    "60c649fde952fe4beb7efc84ad9011e7a19bf6336b310a4b99a0e227f7734dc2",
+    "8f4bf3ee8b013df0dc243e62fb45bad301d272f56b6218cda0527c50ffa60e3b",
+    "973e185f2e2136ffa1a205f62504cf43381a55b9ddd55a1c0b02dec0e9f375d1"
   ],
   "recent_sent_articles": [
-    {
-      "source": "WSJ",
-      "title_en": "The White House Push to Reinstate Jensen Huang",
-      "title_ko": "백악관, 젠슨 황 복귀 추진",
-      "url": "https://www.wsj.com/articles/the-white-house-push-to-reinstate-jensen-huang-097e06dd?mod=rss_Technology",
-      "ts": 1795517665
-    },
     {
       "source": "Bloomberg",
       "title_en": "Commerzbank Considers Partial Treasury Market Pullback",
@@ -11504,6 +11497,13 @@
       "title_ko": "독점-Blackstone, Warburg Pincus, Apollo가 GTCR의 500억 달러 규모의 Global Payments 거래를 지원하기 위해 협상 중이라고 소식통이 전",
       "url": "https://www.streetinsider.com/Reuters/Exclusive-Blackstone%2C+Warburg+Pincus%2C+Apollo+in+talks+to+back+GTCRs+%2450+billion+Global+Payments+deal%2C+sources+say/27393403.html",
       "ts": 1795542122
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Osaic Acquires Mainstay Capital Management, a $5.2 Billion Wealth Manager",
+      "title_ko": "Osaic, 52억 달러 자산 관리자인 Mainstay Capital Management 인수",
+      "url": "https://www.barrons.com/advisor/articles/osaic-acquires-mainstay-capital-management-fcb95fa8",
+      "ts": 1795542148
     }
   ]
 }
