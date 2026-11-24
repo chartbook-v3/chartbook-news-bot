@@ -1,16 +1,6 @@
 {
-  "updated_at": 1795517731,
+  "updated_at": 1795517894,
   "id_hashes": [
-    "6d809b724b19495fed3c5592c7fb21d2f7249320932f5c34864db67c9ead0079",
-    "640cc0027f4be8aaf7c95531cc4c5f342d6ff97d08a35cddd65ae2ff5f466a18",
-    "ec8df6a5cc7381b8473c79d358c0ef9a8bba5046d22537585d1714465d7865c6",
-    "2f7bb224e533aaef8c7c9441c5c414780c0854c5dc894c65447036c80516f21f",
-    "2efe86e8b0db38198b498500b9c377520169793cad7feb66a9711ab41b702f31",
-    "740e9450ffb0221cb111b819007c4e3d43764dc02186500b74c423d1b2ca1fac",
-    "4039e6729dc51f24a500103c9dc2886b9485934c22e5ceca38bd66de0cb8119c",
-    "1c8324a8a478174b3288906e30434242c4ceb89ead07153c69ad5381f1dac181",
-    "7f511a3f270b75a04246fb17961bf8036cb9b8caf68e67d9f651f561621f5697",
-    "608f41dbb41a16a26023f08fae515b6d1b4fd284dea71430f45d08b1dafe8de7",
     "2110a34edbde49e9fc07c7c59b350817b9c10b733777a0cba86641aea80621b8",
     "211189c482e4272a6282ab4c1ee0d369d7d27d90d023e1b46ca7b336a41377f2",
     "2c4adce135d3b773d6efb9a6328d9f5381286ac00ee1c7fc669805c97c79eb15",
@@ -4000,18 +3990,19 @@
     "cf7a379f871c71e147e73991303d0f0bcc96f475d02e6f63915be7fdae024c7a",
     "5822aef406157473e1f581b6497ffc5b2967d1a93f76772fbb7fb066eeac9483",
     "00fdcb510e571ff05d63112c1e2c45214d11b35c4db5dd0f82743d51fd39a939",
-    "e6f92b63c0fd88c833804277056f8155805f3ae260ca2e545479388b0ffa47fc"
+    "e6f92b63c0fd88c833804277056f8155805f3ae260ca2e545479388b0ffa47fc",
+    "8e1ce1cd5b6e5a7d43f73667449a5017a49a1f6d8f6c00df7e8a1e09093aa925",
+    "7f56b95564e124af9079473d129ea12972e8d3a7d3b049f7f241c5c31d93e755",
+    "3ee77ffe716273af4831f36ad56058009f1c38fcb3e74837bf8680114fe236b1",
+    "706efe2cf764b3663d12843a842b116f1ca39998c46294ad07e204689b34a8b3",
+    "0e2683aae49a2357b1cb2eadeb093ab2dbd750e93ed1150cbdd784797d9136b2",
+    "d6ca55a280be2096f86324b74b8cabb4113ad7ed504cf50b6e45ac4e9215a30b",
+    "ae0a9754f5032943d582d7162ec3fcf7adc0a170e8cf5fb7af668dc7115f9f52",
+    "d5edf0c572dfcd314f3bcc302d4c99a70426d644c99a797f5158cc2a7fa7ee94",
+    "fb1a495f2a2e9d3f0b98f85952bae23ae92c94fb7a895b3a6820c92069afb4ac",
+    "ed3a63c51ed82c63f91ba016f88bdf568fcffc9413597541c8a64bba0d3a7cec"
   ],
   "title_hashes": [
-    "c934107d751251664590d7a750ad785b7794ad40810d9df329c6bcb121b12fdf",
-    "c74e36644fe14262c7af8ae54738243b91e1a3d11243a410e58df18dd7a4299e",
-    "50a62f1562aa72e6787479a51286c78698af5f49ae979f87995479dd7b301afc",
-    "08ecb8a75bb67b91ce5d41d1e6dfe9dd1f9d8ce5ca9e829049ab34d9cf970e3b",
-    "9fb4dc7a7ef0a566bb29a17c389c35d218e2be9473107740dcac7cb44197ab6d",
-    "2b659b7adeac37532612131740a0de0d7a28c85fbac3544dacadcb867d75e1a1",
-    "03e7f0368ad3a4af03dc53febfa1de9fe5b8aee35e69e4bcdea1f77f91eeb6dc",
-    "d893003437ce2f03e778fe02c5edef0e050728cfca394d8bb1877844688b5ca4",
-    "9b15a5fc60e43e254d3ea2bfb547b66bee98fd617d7c294dbe0a65fafb9855e8",
     "36089cd88aa4c6a530b7d0b3875478c2bd8e0c2c3a582ac31e70f9a71ed98e43",
     "ae6284c4a7b284384286f5616c749793af887876bd52883133d393c7a7e01e7e",
     "c16bc07834430845aad1a6707b5f1e4839f994024ba8a866f09749b565ee3d9e",
@@ -8002,30 +7993,18 @@
     "6ff0499ce8a795a4cb5db73eca11496d8faa20aef63229689d2c56b7ea3b573c",
     "43d464acc3d43ea092ac9c105b17cb2e6ca74fa9dc361f5db25966ecd4c74bc9",
     "16002ee0d2dd8cf91133f6660c57067729e07c9537938995de58213a6c418bcd",
-    "4f472817a62a90eaea8f18a3f486e4f019e3ec8096e7e314c2c1aace6290e0e0"
+    "4f472817a62a90eaea8f18a3f486e4f019e3ec8096e7e314c2c1aace6290e0e0",
+    "5378dc3af9f6493f9b1221ff750fb13d64252c4d91085d8dffafe4375423168d",
+    "4af5c3416933ab5949eae710af682b17ba09ae896633caf5515d014c7247e6e2",
+    "45caa8c00a867c46788aa017eb8ecf6ec96a8fa786c9e77827fb340406918a92",
+    "b0a2c8aac3cc5ece1d24460e0f9613a41c1710362b151d155e747937d09951ae",
+    "64ea5bd82a74be8637e360b68298424cc89c6ceb2ef4501b1ea39110a9f52cb9",
+    "a882e7f5cab95a2378da98c3e4536057c2403355115ffa64acdb8168c2f21b52",
+    "ad5eb6ba446ff45a3eca45202338c64161f17e2aa796bc7ba36455d42c5cea40",
+    "44e2124045e6a0f71dfac2a0da59043e393bcf3a3683032fe7a0d19c67ec9643",
+    "b32971427455c752f16e57ec628106fba4024e1bf75fd899c822f74ce292fdaf"
   ],
   "recent_sent_articles": [
-    {
-      "source": "지디넷코리아",
-      "title_en": "AI 투자 속도 조절 나선 엔비디아…젠슨 황 복귀로 달라질까",
-      "title_ko": "AI 투자 속도 조절 나선 엔비디아…젠슨 황 복귀로 달라질까",
-      "url": "https://zdnet.co.kr/view/?no=20261124084534",
-      "ts": 1795477913
-    },
-    {
-      "source": "한국경제",
-      "title_en": "젠슨 황 복귀 하루 전 16억 베팅한 SK하이닉스 사장",
-      "title_ko": "젠슨 황 복귀 하루 전 16억 베팅한 SK하이닉스 사장",
-      "url": "https://www.hankyung.com/article/2026112456346",
-      "ts": 1795477935
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "금융위, 롯데카드에 과징금 10억 …\"유출 위험 공시 미흡\"",
-      "title_ko": "금융위, 롯데카드에 과징금 10억 …\"유출 위험 공시 미흡\"",
-      "url": "https://www.news1.kr/finance/insurance-card/6363629",
-      "ts": 1795478211
-    },
     {
       "source": "조선비즈",
       "title_en": "코스피 급락에도 원화는 강세…한투證 “주가 하락이 환율 상승 압력 낮춰”",
@@ -11504,6 +11483,27 @@
       "title_ko": "Commerzbank는 부분적인 국채 시장 하락을 고려합니다",
       "url": "https://www.bloomberg.com/news/videos/2026-11-24/commerzbank-considers-partial-treasury-market-pullback-video",
       "ts": 1795517675
+    },
+    {
+      "source": "Wccftech",
+      "title_en": "A Hollow Gesture: The U.S. Blacklists Alice Huang-Linked Megaspeed — But Skips a Key Rule That Theoretically Keeps NVIDIA Chips Flowing",
+      "title_ko": "미국, 앨리스 황 연루 메가스피드 블랙리스트 지정…엔비디아 칩 공급 허점은 방치",
+      "url": "https://wccftech.com/a-hollow-gesture-the-u-s-blacklists-alice-huang-linked-megaspeed-but-skips-a-key-rule-that-theoretically-keeps-nvidia-chips-flowing/",
+      "ts": 1795517887
+    },
+    {
+      "source": "WSJ",
+      "title_en": "After Jensen Huang’s Return, Where Does Corporate Governance Go?",
+      "title_ko": "젠슨 황 복귀 이후, 엔비디아 기업 지배구조의 향방은?",
+      "url": "https://www.wsj.com/business/after-jensen-huangs-return-where-does-corporate-governance-go-8849b43c?mod=rss_Technology",
+      "ts": 1795517891
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BTCS SELLS MORE THAN HALF ITS ETHER TO REPAY $43.8 MILLION IN AAVE DEBT",
+      "title_ko": "BTCS, AAVE 부채 4,380만 달러 상환 위해 이더리움 절반 이상 매각",
+      "url": "https://t.me/marketfeed/1084427",
+      "ts": 1795517893
     }
   ]
 }
