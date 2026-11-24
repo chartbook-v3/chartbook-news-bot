@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795536719,
+  "updated_at": 1795536868,
   "id_hashes": [
-    "bd155e47102de30c5257a19896ac17f9b1f1beba2b19776dfafc130b260ac9b2",
-    "0c89558dc76f6fabd2a3482036e4c4e2b668b59148d1f715a55a9d048e52fbdf",
-    "def515c8b12ea54c492c6cd511ffd5ff3c5c2b41905d715b90fba7e3e8b77f5d",
-    "6d6cb0efcc697a8cc88ae6a48d225e90f2ff4f308ba18e6147d5388031316190",
-    "1e646289738087eb1305338c2b044332fb9812a2537ae4b60d476232b6a703f4",
-    "1ab5e7ed7f44e77893118529ff0bc38a0ce2d6c6a42dc87563627694fb9d1e99",
-    "c4d4e4a7863724df4b88d4686fd5530d015ad17be8a1fd8453fd996cc203e949",
-    "f4dea79fe1786f16b5558046842e33a7022d8d207b4c0d58742945b3977187cb",
-    "5d7e602bd41a09b1b9a245c6a04b84bd718bbe5db22ab4168a3c2fc1cdbf12c3",
-    "ec651d69bedf6f5f8f2ffa83557abbbe809838aef5e7d55f237aa724ce5c813f",
-    "9bf42bfa95caf0ca20912ecd36be1e8442d10c2208200843b0713b39faa8e223",
-    "952d3e493cc35ffebc90dd29e07286fa23330510efbe20f06da96e0934aa51dc",
     "1c978879af5a1746195e430f8cfedec4741f0479573870208aa4864cabe346cf",
     "f098fe3674063de2f7291e832a9a27c38e546ecb842971a0bf3002b255be153d",
     "29b1e3eb20ed9067e782447d615c53b00dd2e4943c61a3a1b041db8273b04c50",
@@ -4000,21 +3988,21 @@
     "664cdf8bc879d4b97e2610f3fcc19361eadd286a47f99ebe8fdd6ecc99f0204c",
     "c3007e59eb2607bdd2e58d91f067b7b8c8349ae3989cfe27bdfa383e374ba6be",
     "a22e47c003433017ba91ef0f2bbd8d852b2f5a031e76e02d7597522b1cd9ed8b",
-    "dee4787ca8c39fd883217581d90dcf40b5738f36dd978790fdf4b8ce13078b3a"
+    "dee4787ca8c39fd883217581d90dcf40b5738f36dd978790fdf4b8ce13078b3a",
+    "d6c9a727970e0af7aa5d6fc66a5eff3ba95309428d37762a6728f70270f9bea1",
+    "f0cde9ecd856d94b2bd967ca308e611125926306f3d4a60cdb9d8061b437f67b",
+    "9eaf28d1d2e8973be955df5dd2e4887235dcce84581f22b9f2a781a5f98251ea",
+    "b98a7614e181e4b7305e643bdfbda4eb09efc99e332c6a6304d4993d58b6c9bd",
+    "633b48b389f5a2eeff3a85f50c264430b19a8d0b49a4ead5df17a445ab111f36",
+    "bbf0c5a3774293ee26b8fc505665b4cf957fcfb604c4137f3f172f17823c4f68",
+    "552fc5210269109f4ec72d642c31bfe8e8857c99b386ff41ada95dce19572b47",
+    "70636f25b9baa2c3c1b7c7de07fb8b84d4249ab1937019ae34e232c653b464de",
+    "4b111dbdfa056aadd91224896531dd90940507e5056f8fac47ad7fbf49d37e81",
+    "6f5b68b8feb25a2f9cf67e8c12605f085c7582fee4f126dc5513b73f3216de47",
+    "417ae817c282d5be6a86a439d6c7c49a756db9533985440d87acd222a9be90fe",
+    "8dc850d6808c8c90f86354f7f617755edc4dfcb93deea4019d8bd33741ff2bd7"
   ],
   "title_hashes": [
-    "db8cd1f765cadf322da84dc9069fe9e931efe25b66d3fe81755c1424bc0c923a",
-    "95d0ffcc05bb250c5d516d2eba484cac910562404e54eef2859f3bb20cda916b",
-    "c1eea562417028c2473c9719d355231bb40e3194846819b7e531b89fb96ecfc7",
-    "5069955420767f8b390905c0d6255dd333da82bd0705bcf72b5cb86b0d0171c3",
-    "0687faa43d0c23cfba5c95864e3e34919a4222f94c8fec671fa202b918d6ca17",
-    "1909436e322393ab5b051024d1009e09649244a59a7a9bae4867a619914216cd",
-    "8b84e1fe731478c16afc27c5023ef7edd9debb10279f2010c998ab7d625891f5",
-    "9b3f92d5e2810e3a716c39081c6755d536ad4d293705c73b50789921070b9897",
-    "3a273bf78e67257891fb134a4649e02473d89d187e038019616cb69ca9534816",
-    "5fc0761c038b18f1861b27bdecbf5b82b924b3cd946660eb77a238b4b0376e95",
-    "52e3110f01e2a1dc94e9f7d08a795a7c69e26660685d487fe2f6476316645c20",
-    "d5d2a3269a3659453e589dc5821e32cae57232c080bb6bcf6bea41c8a6594375",
     "6b591d537bee9579b6ffa51f76b709441119b0e57f69a90f3ef52d1aedb2f1f2",
     "7f2f637e4359c9813a9dab54c88442281dd4396f2184563ea691373710635126",
     "d0ea122271930e2630338c4bca6fd3609a0a64181e3aa4cc6cedb698f00e01d8",
@@ -8002,30 +7990,21 @@
     "8b70f20813f8020b97dabd9efad7ea174d7730cc37c5b5901373425082e7e721",
     "2b2a5bc972c0b63daddd08d6fa551a02c784410789410146af3780298741b904",
     "695d73fe4ddff838cb43a19d19b4360868a80e523dc60da76b63d7b875afe780",
-    "b8fd978861cc0c083d33814ac42867e594015dc66da337380bf432d231425281"
+    "b8fd978861cc0c083d33814ac42867e594015dc66da337380bf432d231425281",
+    "f0ee04af2069c6b8f5e92ad3b4b6f371945a9f84ba0a3b56093bfecd887fd82f",
+    "eb66d64c705ead9fa0592fd18a8b03be3777c9c823b70e091148ed07ea6121d5",
+    "632c7c27cb7102a25e9bd1d524cde9c40998f69eb2421c897ef45241f35897ff",
+    "ab6e3cb66930c43295d9727c93f48fd7906690d82d273f8623189df732a825b9",
+    "fd65212b585ee710478eef1a7a74f6dd4b5d2738876086f56b3f2da5c57c4325",
+    "6b55946bbdb794d0d401469598e1a235b472cf8fa8b4e4bd234afbab8d6ca4e1",
+    "3727ff23a1c6bbe2c3fc651bbc181aee3a53ceebbe787c285bcd968128ec101b",
+    "9c04cae4b9f543d399e151b86a6160e0c6f8ef478bfeb542440addb792300ee8",
+    "394f3db54a9708dac4761321998dc5d6836a99594bbf0705d5e7b89443caf778",
+    "da61a870e661be703dc4f93f9261051a1b0730019270c4079242763a83808f22",
+    "adf9cf7e41f30f6f44d81e4af621e631acd3e091b2e92fdd58789e91efc76ee1",
+    "5494720fbda451934e0fbe984b0ad9efddb4fbf04f1149f72632c9897b955ad3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "LME ALUMINUM ALLOY INVENTORY UNCHANGED AT 1,500 TONS",
-      "title_ko": "LME 알루미늄 합금 재고 1,500톤으로 변동 없음",
-      "url": "https://t.me/marketfeed/1084384",
-      "ts": 1795511514
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "LME COPPER INVENTORY RISES 6,850 TONS TO 337,825 TONS",
-      "title_ko": "LME 구리 재고 6,850톤 증가한 337,825톤 기록",
-      "url": "https://t.me/marketfeed/1084385",
-      "ts": 1795511523
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "US S&P 500 E-MINI FUTURES DOWN 0.4%, NASDAQ 100 FUTURES DOWN 0.9%, DOW FUTURES DOWN 0.1% (CORRECTS TO SAY S&P FUTURES ARE DOWN, NOT UP)",
-      "title_ko": "미 S&P500 선물 0.4% 하락, 나스닥100 선물 0.9% 하락, 다우 선물 0.1% 하락",
-      "url": "https://t.me/marketfeed/1084390",
-      "ts": 1795511536
-    },
     {
       "source": "MarketFeed",
       "title_en": "NVIDIA SHARES DOWN 4% PREMARKET AFTER SURGING CLOSE TO 31.5% IN THE LAST SESSION",
@@ -11504,6 +11483,27 @@
       "title_ko": "MissionIRNewsBreaks – BOXABL Inc.(NASDAQ: BXBL), 기록적인 월별 주문에 따라 판매 및 택배 팀 확장",
       "url": "https://www.streetinsider.com/Investor+Brand+Network/MissionIRNewsBreaks+%E2%80%93+BOXABL+Inc.+%28NASDAQ%3A+BXBL%29+Expands+Sales+and+Home+Delivery+Teams+Following+Record+Monthly+Orders/27392642.html",
       "ts": 1795536660
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "SPOT SILVER EXTENDS LOSSES, LAST DOWN OVER 5% AT $40.73/OZ",
+      "title_ko": "현물 은 손실 확대, $40.73/OZ에서 5% 이상 하락 마감",
+      "url": "https://t.me/marketfeed/1084655",
+      "ts": 1795536742
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Shorts Made $13.7 Billion Betting Against Nvidia Stock After Huang’s Exit: If They Held, Monday Wiped Out",
+      "title_ko": "Shorts는 Huang의 퇴장 후 Nvidia 주식에 대해 137억 달러를 베팅했습니다: 그들이 버티면 월요일이 전멸됩니다",
+      "url": "https://www.benzinga.com/trading-ideas/short-ideas/26/11/63587675/shorts-made-13-7-billion-betting-against-nvidia-stock-after-huangs-exit-if-they-held-monday-wiped-out-nearly-90-of-their-gains",
+      "ts": 1795536807
+    },
+    {
+      "source": "The Verge",
+      "title_en": "Wave Race Blue Storm and a welcome upgrade come to Nintendo Switch Online.",
+      "title_ko": "Wave Race Blue Storm과 환영받는 업그레이드가 Nintendo Switch Online에 찾아왔습니다",
+      "url": "https://www.theverge.com/tech/1041214/nintendo-switch-online-gamecube-app-wave-race-blue-storm-turn-off-borders",
+      "ts": 1795536811
     }
   ]
 }
