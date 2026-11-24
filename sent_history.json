@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795513719,
+  "updated_at": 1795513886,
   "id_hashes": [
-    "8c073d07bf3bce5386358159907cec596a9a3d54e1dda219715e4866a6458d73",
-    "e1abfe3b648c5ce061120d618534a9d17c4f8417fe86267b09ea731bcf8a89e2",
-    "a01d45e82267c8e04787f1dd38f6f35193654571990b79be507127ffe9324a64",
-    "ba7f38cea2346ef19dcc7f9bf902f9e5523c67ae0f9ffe56cf6af0071fa21479",
-    "857d7757c4289b4262f17369d1337938404b46a2a4b0af805d96cecebd6f3e6a",
-    "956402c3be7dcc5f1fa2936c5410506f1d04b79aabe136d20b1feaaf166ef302",
-    "c032dcd961fb9e7029f5a83ffaf61404494e668e272bbb5abf6466c726f05040",
-    "87e7edc2543f44b4266cb0174a1f777dfb1ac417e156ff70ca88b11a4b8a898f",
     "9eda8da2fee76f7aa35e9e9cefa915407ddce6afc835bea85f7a147d44cb7d84",
     "0f41cb84736765bb7fae5383c5cf82d1c21e639207ec103c380b7fa97b612134",
     "bbd2661a404d9c698e8cb8637558b9c42443c449c7aebfd31beb1ad98571eed4",
@@ -4000,15 +3992,17 @@
     "c9d4db786dddc1149ce42407029cf0f2117544f9da24f32f3c4525c85f28faa1",
     "f98984ae98591ff3acadee5c472dfa66aae261336efdeb3d6ed79832ca466d53",
     "853e1cf39c0f61021bb6914b9c93cbd99ad12b5d823c499c4b0d2b9de671e9d4",
-    "01f3acd8d8985a22dd5dd71145eb29e03951cccec95de6ee270ba80db579b25b"
+    "01f3acd8d8985a22dd5dd71145eb29e03951cccec95de6ee270ba80db579b25b",
+    "c87711d277fe64714d3a2273d9fd47554edef12f934bacfa9b9019e651dbe64c",
+    "c3b9d939544d5007975a94c33fc66cf0e7e00228655d6502ad686874ba1b2c38",
+    "67ef7fd3de37695b3b6341cd21947f4c3993c878f2cdc682a1960d2ba8bee722",
+    "7f75246b20bc8c531bae17ffcd41c92e5744f55325719896b24d4e3a6351f940",
+    "1985a744bc9cc46ed784821ce21ac1e5d180522ccaa99fc87bc9985b2c061ff8",
+    "977b66cd569d0f760906f1fff02f7acde0cc92f678dca76318bdaad2ab6ebeea",
+    "6e94a1cf84891d5536fcabcea3f06571fc18c9f305099da8980e594f1159e50d",
+    "e0be341a6fb7dca396e127d83d1e144dbcb310f256ee6f252b4d792109157b55"
   ],
   "title_hashes": [
-    "f91da649cfa7b58f659edba17ab291be6b25c47e34db6c6e0f93992144dfcdeb",
-    "80b33eec82093ae4482ec5809dacfd164f8a822ca6c30ad34af81f079c0a927d",
-    "5596e37c7c026e4d673a94e3c4f2c11db470dfa635d0ea7e04a765513ba5529b",
-    "d951d76ee547a6295d9b78a7d926733b9ccef85613715f2e20edb2b394b4c918",
-    "a4eef2a8bf251e3be17682ff89cdf8ca8cb26d9e0deaa21832726fb712333729",
-    "1e9435c9b777d1cbc34c421d0a8b2e14acdd746fc7d722a050a167522a6c954b",
     "501fe898e5b9116c9ba17d81bbc8c980353b09fe2f1df8b7f8e71e5976380210",
     "6cdcb0f68e815e1513f70b6b87ba8c98d7585ec32c3394ca3eef1306eec67350",
     "57d14b796690ee865968b063535370f3a655b984a6ddf9cab574a4fcc4c6b818",
@@ -8002,37 +7996,15 @@
     "c9c91df80d840156332b4fd0bd67cb80200877b3f27db9df20313d92797f5419",
     "143c532fbe10af51288d61de7ee84554ce9cd52f8cb79534c582bb51ee0885aa",
     "5c6ff8ebcce727d862521cc08ac566a41a56018ba8dc10e6fc2ecf0bd6720419",
-    "911de1970c0573b2fcaddec92d52666d1ff6eb4723c1aecab6ab3f0aee97d685"
+    "911de1970c0573b2fcaddec92d52666d1ff6eb4723c1aecab6ab3f0aee97d685",
+    "8c2b5a937fc0d0f12133907e2dcd2d22265e3094c1c234c859af0d9944e127b1",
+    "b94086a0ac2165019808e1bbba597d0a39c3af95eed6598b3b5c36d7337fee83",
+    "3e82de3ba3b49e742b135cda8282663861b348be0709cd18dd444f49fde1ade1",
+    "963ec58b619db1fc1e40f39e9c40582758d96c97f6bcfed39f94b7cb14adaa81",
+    "d90098ecde231f177fef3255cc3d67ec95f2aaf972c44b6ded3537bb7d668763",
+    "82ff25d59b05b76a89e170fbb69781d122d982b095b5b9de931ad8b1ea86bd04"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Nikkei Asia",
-      "title_en": "REVISED EU EV INCENTIVE PROGRAMME EXCLUDES JAPANESE VEHICLES",
-      "title_ko": "개정된 EU EV 인센티브 프로그램에서는 일본 차량이 제외됩니다",
-      "url": "https://t.me/marketfeed/1084210",
-      "ts": 1795477021
-    },
-    {
-      "source": "매일경제",
-      "title_en": "젠슨황 깜짝 복귀에 삼전닉스 HBM 불확실성·피크아웃 우려↓",
-      "title_ko": "젠슨황 깜짝 복귀에 삼전닉스 HBM 불확실성·피크아웃 우려↓",
-      "url": "https://stock.mk.co.kr/news/view/1204582",
-      "ts": 1795477041
-    },
-    {
-      "source": "FT",
-      "title_en": "Top Fed official probed over whether she breached ‘blackout period’",
-      "title_ko": "연준 고위 관계자, '정지 기간' 위반 여부 조사",
-      "url": "https://www.ft.com/content/2c1fcdc0-eb16-4cee-9041-736527c2ae83?syn-25a6b1a6=1",
-      "ts": 1795477043
-    },
-    {
-      "source": "한국경제",
-      "title_en": "왕의 귀환, 엔비디아 31%↑… \"하루 이틀 더 봐야\" [김현석의 월스트리트나우]",
-      "title_ko": "왕의 귀환, 엔비디아 31%↑… \"하루 이틀 더 봐야\" [김현석의 월스트리트나우]",
-      "url": "https://www.hankyung.com/article/202611245515i",
-      "ts": 1795477046
-    },
     {
       "source": "Nikkei Asia",
       "title_en": "US to place Megaspeed on trade blacklist amid Nvidia scandal",
@@ -11504,6 +11476,34 @@
       "title_ko": "[ Z ]: ANSEM의 지갑 활동은 해킹일 가능성이 낮습니다. $ANSEM 판매 수익금은 그가 이전에 자금을 지원했던 지갑인 MLM으로 전달됩니다",
       "url": "https://t.me/marketfeed/1084404",
       "ts": 1795513567
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Jensen Huang Is Back at Nvidia, but Bettors Are Already Wagering on His Exit and Divorce",
+      "title_ko": "엔비디아 젠슨 황 복귀에도 시장선 퇴진 및 이혼 베팅 확산",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63569511/jensen-huang-ceo-nvidia-polymarket-prediction-market-exit-odds",
+      "ts": 1795513749
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Gerko’s XTX Opens Finnish Data Center, Warns on Permit Delays",
+      "title_ko": "Gerko의 XTX, 핀란드 데이터 센터 개설, 허가 지연 경고",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/gerko-s-xtx-opens-finnish-data-center-warns-on-permit-delays",
+      "ts": 1795513818
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "[채권-마감] 금리 혼조세…주가 급등에도 外人 매수에 방향성 제한",
+      "title_ko": "[채권-마감] 금리 혼조세…주가 급등에도 外人 매수에 방향성 제한",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446315",
+      "ts": 1795513878
+    },
+    {
+      "source": "The Verge",
+      "title_en": "Meta’s Muse agent launches in the UK.",
+      "title_ko": "메타, 영국서 AI 에이전트 '뮤즈(Muse)' 출시",
+      "url": "https://www.theverge.com/tech/1041084/metas-muse-agent-launches-in-the-uk",
+      "ts": 1795513885
     }
   ]
 }
