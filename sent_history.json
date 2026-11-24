@@ -1,29 +1,6 @@
 {
-  "updated_at": 1795518840,
+  "updated_at": 1795519008,
   "id_hashes": [
-    "13aa02d3438b429c6d4a6f33616ef5307067ba53d4c120b22ffdd55f040e6a60",
-    "4f8ad68d173113bc597b727fcecd57bc3b1c559a43668c7b9845e89300872331",
-    "fc2fdcea8f7fb35117a28086f229b3f4a72f6616ee8ebab8e02b0a8f788aa8bd",
-    "a509031e11241d04e9c52eade5cc28574de6682828aeb573273b6d6fb71e7174",
-    "758eb40db621b082d196b72fccbff0a2360c7f18ad019b93c4a9a72eb65c1e8c",
-    "7f032dffff435bf9b4375b33e2deff90cff8bc891a4d40d3aa45fccd4ae1f931",
-    "03f3421e7ed2668cf59c595d4f444a7194b482db7e39b44bd3e6b6abd504e3e6",
-    "c3f7aea158645c39308d18db7c6dd382444010d43c53e6c9dd15197063ef1e83",
-    "6b94a0acef6b45f08a512c3470a09ba6ef6e9ebe0d370f8f545f6c4b41ace32f",
-    "1b48b68f2159814b45d55f9287c8ac2c642e32f0b9f1f954d8fe8213f4414bc5",
-    "6516e55357aca7cd390bcd8e48de2779daf769f79850d4e1b5bdb97ad8ea5566",
-    "c2098c2882f24dd92d34b6d40e264c31d40f9587a0da980ff7b43f15d1ecb1ab",
-    "5b72abf92cde2b2fd96173e6e9ac25545e54fd300e7a86bc287bcb84b3f6910b",
-    "2a185186d311c08e9e2d24af3de4b88b23f871feff9b460fbd53442abba8edeb",
-    "5dcde99c6817f0158f995df7190d848fdac23e3587d6d06ac022f676b40123d9",
-    "2c191bb8693e69c72169c3bfbf4f4bc5efa8e26656a5f1ed82638c49f88488e8",
-    "8879c498a7e7a571ce8d371d7fa28eacc8c229448efd843bf5af5c6c4fd3bc30",
-    "d2535992493c493c6740f9102e4e7469e726899f0f4d98265531cef0e6ffb3f1",
-    "07e77dc25b4632aee7015aae5c3483f05c47bd5ceb7237d56817a36cb8fe8b14",
-    "f2bd767027211c0a97ded612dbc01f2332d900f9c917f5f85306634d22f33f4c",
-    "1a20e1f3f53b41c65ffeae165d18da7474d23af6f1cd960dd29683a4b06aeaa4",
-    "c8e9edcce2d215d2a50befebb1313b4fa21f5290df69473b3904547ac91ff307",
-    "6ea0be19ca55cd58978204c880ab6414bf56b2ac2d55a77caaf0b82453eb3832",
     "9563b020ab7fc41d48ba1e9a283c723c05287abc77e1c88df516bfdee552a8fd",
     "a3f6326e9de0fee50ba3753b5337a07e43cb31c5fd36bcbfc3a5b51471eecbb1",
     "c31701280e86cc67d93c8b5d5632c0e7f9f65e9f81cef89f3da6b2c191da5b81",
@@ -4000,23 +3977,32 @@
     "a6bfd11997b3cd390d81dcf3eeaa426d6da8b92b35ecea64b6211c3f6abbc389",
     "5cf020d930afb4a4e1859de185e94f5b3d09b4cb0231b8c3492ae1c1f7219ac6",
     "6f39b1d66eea9e55b1a1b72ade93d00525de1515ea4be2e2fcd22c8c5d2c3072",
-    "3c46d13bad9fc86afa53db561d4a37d87491d60405ba11177bde26e1d1c64de0"
+    "3c46d13bad9fc86afa53db561d4a37d87491d60405ba11177bde26e1d1c64de0",
+    "48b6c505ce6edf4b8dd36cccc1aad502b5c0dbd506fab3cb293b766458c25e3e",
+    "0ddd8ff9495611f3f76f5195d13a7d0210d3c3158d667fa143510819df70ffa2",
+    "89edf8aa4b22b037e68facde140fb8428488f118108dc000382e0d99a842a2f0",
+    "fff27dbcc1bd89661f2eb3d861170ddc6fe65c6ef0dbc758ef8012077e9ab4a3",
+    "a173d93ae7b971620b7692763bebc975583ec580db30244876aff914282d09bc",
+    "191bf9cdbd6ab420af674f00c3be7761deb743895c7f25d5b08b763c6e45c266",
+    "d12b27cb940a50279e04bb456641e5ac1dfa80587ef50d837ebd9e54c5972469",
+    "eefa2a1f28e7fb981e528ca220ac9f158d7b86ab2fd2871b3358c1381f9b71e4",
+    "7a8eca350c1a8a9390f4387a2578f2dac0ad2388c1244302da25f8411a33a666",
+    "16f11d336f9f0cf1ae6166db20bb5551c1154a07c7dcc0b7496060d642dc2052",
+    "83480a95d7f761a40c9388f580b7f9774fcb0e0a51be33bd802558543961f921",
+    "a185b80f068bf015d627094ec0cacff9828ed3fd36eecee6cc86ccea373ff975",
+    "2a1b25d517120f1d516f0104b2ce2dbb0d7134f8808e0b8a97984b4addd51d91",
+    "010158af6429a3cf8e2458e37e6571ad39660d8df3528e697f324f0876b57a56",
+    "ce827ca00e80412757092224cac5638130d38f952f94b0a0bfa72b76622b12de",
+    "75443cb75f7625ab990f65daadf4d2c8b697c13f29726154d2b2153f9852d0f8",
+    "95145a73e3e0edd4d1a1810b933f5af54646ad0efa3bc404d57f38fdfa4e92ec",
+    "4c9d76a25e2602b7b7bec67c1e7cf913ffc2ecd504614140072116e2be48d020",
+    "e788cf48f93b75bb41b5cc861fd8e37d8ee2d2f430a925fd284f5a238b33a7d5",
+    "512f9e98b7a8802f5767472435b78f6d507a722fdd40ceb55232dc29c85a7a13",
+    "e9581187aae97d91d0b34619c40d121c8f381a6c2799d316d0d42ec174ed59a3",
+    "a938de032c8960a3674f6d27fb4c835457261eeea94a5b63bfbfe57306cd9408",
+    "0ea6d64b54f53eacc40de81e6424df92aeb51d5ef7077ead6d924d7e18539b5c"
   ],
   "title_hashes": [
-    "25b8743ca1c78eff6f60181e39e80c9d625fccf88d41ca4ff01953637d2e0149",
-    "7f0d2b4d033d85e7d2b4cce2032306800957f6d762c43a0088e456dff957e572",
-    "33825599f96cb03cc96b57098632d4c85d45f1ec48a79d79c61f734b3b7cb38d",
-    "6d683a22ddfb4aeaed7445f98fe56f121d60932fd1a8c66ce6afc39da7e748ee",
-    "b4966b6d3ccb6e80f5e203dabb9afe805b906156a561e084368d47ffb75bb69b",
-    "7115c04da7569166cabd5bc5b52b3328e038e704e6cd442c113d26bf7d77d9b8",
-    "9273384f5cb475499bd5118c4f303f581367a7b822619c6cd5b26e93076bf2b5",
-    "d36b497ae88e7f55e9a0408f751cdb654d8cef8f04cf3acfa2612126a752f093",
-    "1559ed6180f404e0becca81335ebc9c367c371ef2963759ad379bd2dcb835977",
-    "ddf39a0bce104b40fe137081b3f12659c997190252179ab2b1bd07279600ce6d",
-    "8f296b007e4bb68eb214695ff475632f05f71ce213a1615372b345cc9af419ac",
-    "ba1eb26514ad2cfce0dbcf3172003322f11f8c00d792f7ba79d77974047ccced",
-    "c4000f596f53694ba6c3780572323cf4a1ae2558e4c1a52217c5cee74040963a",
-    "051fe550d43a40ed2848cd71845f31b6c73a9285798f3fed15ebece20e3159b3",
     "dd62d1c91ef1e6f3b5e6725aace29f6eb8bd2775aad25f45347f05c36958374b",
     "392191102338dfb978dee68c70dcbabaf468f23b8c51d4d66a295ec2b6ae8ec4",
     "846c58bc372a319da2494cf429fd81bf8f47317414e89d16e3a30cb9377b9743",
@@ -8002,44 +7988,23 @@
     "8e8ea21ccb949088c2f6055428488bd6fc59a1e1951513a380b09667f1b3630a",
     "f31417c8e8f6e76b1b2ae3adfc5be2d589f1c2e0d0f05bb2b56d1dff6204e92a",
     "5148e6743c438d3b8de256c4a904f139c5fc25f84b45bc583e020790c233e500",
-    "9353d2bc070a13a90180e675fdd85d263008daee89a4d4fe8225c54eac61985d"
+    "9353d2bc070a13a90180e675fdd85d263008daee89a4d4fe8225c54eac61985d",
+    "e1b2f22b33147bb07115abacfcfbce45379abf260226b199977fc94a5faaf18f",
+    "ca3aff875f3ebe70466d363219f502380fcc5c6b92ad75f33ba727bace1f5560",
+    "f72f3d4a59a60798c07d4cf044696f30d10281296663fcc7d37f21c3eec94a0a",
+    "cb399f3b6594754038f095720536902a35ae772ce37d0e0a4cd1985b845d302c",
+    "1eb7da9931dc90ac67cfe752f52584f650d506825e0917ac817a89d4d4437351",
+    "935230b7a2ea5e7440f2a32a6fd53a41b40cfd015ddfd445791f3e11c7f9b92f",
+    "a9dccab4e49c4d1875a933c69926d58f5c0d33871a261a89f8a50a514e876716",
+    "ce779a3a383aa1ae1ff6afdf07bd1328a91fde3e6414bde7130c710a28458c05",
+    "ecc630421327098c335ae5fd6562d416ef273115a8449c8579bdb337469f6e11",
+    "f4bb9b10debfb61deb00b4f61b3f08e53a435a0098d5bc6c75ec7fb82ae850ed",
+    "cbfc989c24e7fb05cbe79e9c7114fa7d53b2d0c4097151c79841bb10ea1bb697",
+    "cfdc214ba41fb55791e866a3c66ff25d45d0d7497f7b5d338480f9259883a87a",
+    "c2ae5deb360882349899f10d3c72c2f591e2ef381f8f911d288e1e5114b4877b",
+    "c409532cf9c9b342e4d2fea37ff38d8268c76e5208a94fab793242a888f63aee"
   ],
   "recent_sent_articles": [
-    {
-      "source": "전기신문",
-      "title_en": "“오전엔 원전 협력, 오후엔 민주주의”…이반 얀차렉 체코대사의 부산 외교",
-      "title_ko": "“오전엔 원전 협력, 오후엔 민주주의”…이반 얀차렉 체코대사의 부산 외교",
-      "url": "https://www.electimes.com/news/articleView.html?idxno=375096",
-      "ts": 1795478736
-    },
-    {
-      "source": "Nikkei Asia",
-      "title_en": "Singapore GDP grows 6.1% in Q3 as AI demand stays strong",
-      "title_ko": "싱가포르 3분기 GDP 6.1% 성장, AI 수요 강세 지속 영향",
-      "url": "https://asia.nikkei.com/economy/singapore-gdp-grows-6.1-in-q3-as-ai-demand-stays-strong",
-      "ts": 1795478739
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "[속보] 삼성전자, 임원 131명 승진… HBM·AI·로봇 기술 인재 발탁",
-      "title_ko": "[속보] 삼성전자, 임원 131명 승진… HBM·AI·로봇 기술 인재 발탁",
-      "url": "https://biz.chosun.com/it-science/ict/2026/11/24/H4FLN22LI5HFJF6AVD5RO2A4WI/",
-      "ts": 1795478742
-    },
-    {
-      "source": "지디넷코리아",
-      "title_en": "현대로템, 협력사에 3020억원 우대금융…방산 공급망 강화",
-      "title_ko": "현대로템, 협력사에 3020억원 우대금융…방산 공급망 강화",
-      "url": "https://zdnet.co.kr/view/?no=20261124090416",
-      "ts": 1795478746
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Analysis: Nvidia board's six-day reversal on Huang points to Washington's hand",
-      "title_ko": "[분석] 엔비디아 이사회의 6일 만에 뒤집힌 젠슨 황 관련 결정, 미 정부 개입 가능성 시사",
-      "url": "https://www.digitimes.com/news/a20261124PD201/nvidia-security-president-jensen-huang-ceo.html",
-      "ts": 1795478860
-    },
     {
       "source": "뉴스1",
       "title_en": "울릉도 주민들 \"깜짝 놀라\"…러시아 비행기 침범 우려에 '민방위 경보 싸이렌'",
@@ -11504,6 +11469,41 @@
       "title_ko": "동방증권, 상해증권 지분 100% 인수 절차 완료",
       "url": "https://wallstreetcn.com/livenews/3204988",
       "ts": 1795518782
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Viomi Technology shares rise as company appoints Zhigang Yang as CFO and acquires Brondell",
+      "title_ko": "Viomi Technology, Zhigang Yang을 CFO로 임명하고 Brondell 인수로 주가 상승",
+      "url": "https://seekingalpha.com/news/4676044-viomi-technology-shares-rise-as-company-appoints-zhigang-yang-as-cfo-and-acquires-brondell?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795518868
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Former Elon Musk Adviser: 'Nvidia Now Intertwined With Washington'",
+      "title_ko": "전 Elon Musk 고문: '엔비디아는 이제 워싱턴과 얽혀 있습니다'",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/ex-musk-adviser-says-nvidia-intertwined-with-washington-video",
+      "ts": 1795518998
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Nvidia Stock Is Falling Again. Why the Jensen Jubilation Is Already Fading.",
+      "title_ko": "엔비디아 주가가 다시 하락하고 있습니다. Jensen 환희가 이미 사라지고 있는 이유",
+      "url": "https://www.barrons.com/articles/nvidia-stock-jensen-huang-0f3e0028",
+      "ts": 1795519001
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "AM Markets Need to Know: Burry trims NVDA puts, China warns over Huang's return, and more",
+      "title_ko": "AM 시장이 알아야 할 사항: Burry는 NVDA 풋을 축소하고 중국은 Huang의 복귀에 대해 경고 등",
+      "url": "https://seekingalpha.com/news/4676045-am-markets-need-to-know-burry-trims-nvda-puts-china-warns-over-huangs-return-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795519004
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Why France is at risk of recession — and what could keep it out of one",
+      "title_ko": "프랑스가 경기침체 위험에 처한 이유와 이를 방지할 수 있는 방법",
+      "url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
+      "ts": 1795519006
     }
   ]
 }
