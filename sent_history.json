@@ -1,17 +1,6 @@
 {
-  "updated_at": 1795520462,
+  "updated_at": 1795520614,
   "id_hashes": [
-    "770882570fb8d98953d9ff006677ad06066c7e95ccd347e5843880b850914681",
-    "a6831d308a661106553c32e4c34025fcff36a885dee3e346f84889418731f366",
-    "1069664cbcba36129c086872a637023b5df0aeb2f2a797e5750cc0dd2bfffdfc",
-    "ad9f11b6c86fce0af281fdac0c7bc503d446b6a256624b54e03bb4684a385a86",
-    "022a6fb00188be95710ad92152bcb84938bcf312eb3f6932aff54a26a4cef540",
-    "1aa4cd30c03e56d1245d24b73ebf7cf4dffdc03c0dffcaca057dc28744f02138",
-    "e5dbcbd1f799de7b06a92da2ce2ff33b53dc374399430b7267fddd9a40d46c97",
-    "be945bb24d65d1937259d021dc12b2c0e7391b293919c66f711ed26dfad4e7ba",
-    "8d577be9765d271f20dc0ded85db8182ff08a8faac72e82b6e169425e02aed3b",
-    "6da697dffadc1869ae3b787be928da9eb81ad1b1fd22b767f0a31127652ae4ad",
-    "aef8d6d2f2dd735e79159ec2ff5b0da3c70b5d23c49e088036335a323e6b222e",
     "c863029cac53d3806abcdde855222c599d838e3448fe953ac0b08858ec3a7a11",
     "27108a9e35d0f92009fa7c23e418676bf5f956163277fbda6a9ed3b18e629bcb",
     "d53ab19eddbabae0db2e1f7a3e9a28626ddd163f692e3530938e8311ffef271c",
@@ -4000,18 +3989,20 @@
     "b1fea466c987e5ae4cab7a88053ea389a43088fc6c1645fbacd9a4bc3a1e51eb",
     "cd0b397c527c1bc99e8a5b28b3c7ea583748d8eb5f5f0638717d335931d7ff4e",
     "1ba170f52f0a7517d25050fb7bcd4b9654b88b62f1a630f10cb26369eb00e0ad",
-    "b5225b4fea4e717c6ab8d5301a9a31af5a63e6ac54955b3698be4e7fb1bc6456"
+    "b5225b4fea4e717c6ab8d5301a9a31af5a63e6ac54955b3698be4e7fb1bc6456",
+    "6fbeb6d9441082cfe2fc6707d608d3c6e37a16d35b717cb895f115021c98f6d5",
+    "1d862985885dae92341af5b8a2f36cf5a7cc8af3318f19dfbf88a57d6cf7f697",
+    "72de69346a8e295dfe0b7c74aeb76336dfa9050d827cc72dec3833818a97968a",
+    "df150be35f71ae59f0b6903ca7ecb6f57af9c92598169aa82e1fd5409c9dad42",
+    "a86f1698abc8b3d67fd992bf3272d8f78cede029e3b45fb889f434682db9b675",
+    "611d1aac62f806046a793cff124c91636d18fda1d084be7d239195eff99d3403",
+    "9d1597288d07de8ca0102a528b19075cd08b93246bf9eabda3c9ce27484db6cd",
+    "341978d7cc81d4a07f6bbc5138eca6e9b6113ff15f7d431b893685c8a6340cfd",
+    "5c4e9d7cc0c4225b58c4acb14928d872d73354f39a29e35aecf7fb63ccd161ba",
+    "b0ba0d755bd92ba03a426c0a4a266b87f111f05c5b29d0aa0362b7fbefa8e0f6",
+    "94d9c28df86d0b811434df5dfb29efc97abd15e5fb3f3a008ebab722d26eaf1d"
   ],
   "title_hashes": [
-    "1d1ce50fd08d522a74f28ae66329655483c09698258309e52c5315c67d413aad",
-    "ee2715cfcefef49e5289f5d071c36e07626a69a1f891f1968da217d09f63678b",
-    "7bc9ad7ea267ca2ad7f3c051fe1e9b6fa993bff4ed5a32735b67509414f44bcf",
-    "ba886a9616388e8f785db0ebe05ff199bc35d5b6334b166d5afcdd2d8d02453d",
-    "9bc4776186919235fa32b823cab5a3d4a976d4609298e2f77ddcf870dbf70232",
-    "65b9fac7ead3135743b4f2abb1beb26686d01da08ce446c9e5c7df740d462035",
-    "0a1f8e1610904964d02369fe83442959b70efea734a6c71cd8ef34bc4a421058",
-    "2d847f9414c3c6d1f0f0a426322b43d40171722a2d780043a4a543315f065bb9",
-    "847a07322aa9c705324f5bd28dcff5dfb65aaf42f6163f5fb16d81151ee44332",
     "2fd7e7ce9750c64f4b3959a5362e71c174e3f71871f2e87241954006158db4e7",
     "21f9dcdc6018083822f9a12ed52873e87d15f30ecd88c793d3ab9bcc6ac68989",
     "84167dff31af5776ec4744959df698ee019ddfd51eed268f139c613a41f88b1d",
@@ -8002,23 +7993,18 @@
     "b8cf74fdbc6823919380880575db754bfdb0e2ff5f717c7c34616ddad98a93ad",
     "6e4aab26702b63d61509cb3f30d6c4f5e602d926b9be1721ad73d90bc49ae1da",
     "480e3b8a889f0e393cb75ee313337fb8627bfb045b9cdd9dfdde5692f258c765",
-    "fb3a4401e5a7ca040d2f5dc66a65dc852605e7dec91a4505b9c4681bbf8c315f"
+    "fb3a4401e5a7ca040d2f5dc66a65dc852605e7dec91a4505b9c4681bbf8c315f",
+    "ef8dc1aad26b7d6de5dc14bf88577c2fe2f0885554ee32ba408a13183e9fda11",
+    "afa6fce79c6ee11d635ba5128353c33fc05dce9e3064086b64f122b0952b9547",
+    "a1b9e9a4d85d22f25da54195b0872ecd67a98a273062d1477a8e3f0e77dccadc",
+    "c4f7ba81291fa12b14b9291dbf936955dbecb49dedec0275c651630d628d0436",
+    "a63ce51eaa6bde22852d0cbc17110a04e21fa3c819ff8ff06df22e441aacd194",
+    "15f4f4bf2b9d9ca22ef1c014073509e7f7a9380fecc84c03284621643aac759a",
+    "a966750897e382767758954839e65306e68997f2f4f539b03cbccbc357d726ad",
+    "baa2034d8141046a873bad7f1dc2def9ab5c06669ac0f493265d5eb8f3863991",
+    "689fae83c4c5d3dc36b3651f5863f21c1c4c636b9b831216de05cf8f3b02f562"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "HPE's AI server demand drives fiscal fourth-quarter growth",
-      "title_ko": "HPE의 AI 서버 수요로 회계연도 4분기 성장 주도",
-      "url": "https://www.digitimes.com/news/a20261124VL202/hpe-growth-demand-revenue-business.html",
-      "ts": 1795479360
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "코스피, 장초반 6.16% 상승한 4998.69…코스닥 3.40%↑(2보)",
-      "title_ko": "코스피, 장초반 6.16% 상승한 4998.69…코스닥 3.40%↑(2보)",
-      "url": "https://www.news1.kr/finance/market-exr/6363701",
-      "ts": 1795479362
-    },
     {
       "source": "한국경제",
       "title_en": "IPARK현산, 광명 하안주공6·7단지 재건축사업 수주",
@@ -11504,6 +11490,20 @@
       "title_ko": "엔비디아 5% 급락, 이사회 내 역학 관계 변화 조짐",
       "url": "https://seekingalpha.com/news/4676056-nvidia-slips-5-boardroom-reversal-shows-who-really-holds-the-power?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795520461
+    },
+    {
+      "source": "MarketWatch",
+      "title_en": "Anthropic stock falls below IPO price: live updates",
+      "title_ko": "앤스로픽 주가 IPO 발행가 하회: 실시간 업데이트",
+      "url": "https://www.marketwatch.com/bulletins/redirect/go?g=cb62e45a-2595-49e8-9966-dd12c0eeea7b&mod=mw_rss_bulletins",
+      "ts": 1795520496
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "JP Morgan: We forecast US 10-year yields will peak around 5.10% in Q1 2027 before retracing to 4.95% by year-end 2027",
+      "title_ko": "JP Morgan: 미국 10년물 수익률은 2027년 1분기에 약 5.10%로 정점에 도달한 후 2027년 말까지 4.95%로 회복될 것으로 예상합니다",
+      "url": "https://www.financialjuice.com/News/9865933/JP-Morgan-We-forecast-US-10-year-yields-will-peak-around-510-in-Q1-2027-before-retracing-to-495-by-year-end-2027.aspx?xy=rss",
+      "ts": 1795520506
     }
   ]
 }
