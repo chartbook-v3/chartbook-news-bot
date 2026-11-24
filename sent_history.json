@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795543843,
+  "updated_at": 1795543995,
   "id_hashes": [
-    "1b946d2f36add93ab09fb6438337e04820c9dd6aa4101ce818fbeeda18022d08",
-    "d736e23dabe62cbe9a90f02f16eac497fae0ea31c5592d52bdc64cae40fbaadf",
-    "2be45f7e72824688b4f25993c9478e001e289f1f7e28b515283d77e8a83a5585",
-    "8e48f8ff9bd0c8c47ec5e42b7d0021af8512726aace2906a8bae253f9ba3f943",
-    "5a24f4b4ea61eb57328687fc2bb0f173c53b29fc9c6d33d8158589e1eaed9e15",
-    "0fe3859890b33864ac3950381a956df2e2fecc71f358b048f7dd9ad310d22eef",
-    "b286338b21ec31decbcfae9d47ea9eb945f7035be8c6264af658c029893e734e",
     "a79e505cfd478da99ff7c0a144de83d3c7291f54b4579d18fba4bd1308ab6e7d",
     "20b1bd6866120e76b6985f29fe30555edc516077f394424200d588583c9a78e0",
     "6af7a5d2681e3bdd3cefab044c8464c4e991deb55866a8e3fb049042bce65c9b",
@@ -4000,14 +3993,16 @@
     "ea51dfde2fce64baf118ad76cced5e97559fbd097e405ad8bf8a2610c53be998",
     "bcbac8630cd819a9d99c5a9a74e65d4e60816991ebfd580cf21e80764ee06307",
     "9d5dff484832528478cfd871c6d46131fbecb0c6afee7a52ff1df32bc7916c7b",
-    "a4994cb8fa732ce44af5911067c6c83361b99beee3782334a2a496afdc4f88bd"
+    "a4994cb8fa732ce44af5911067c6c83361b99beee3782334a2a496afdc4f88bd",
+    "f8df75dfb8d28bca2e328f4779cb3a780e3e2c7b891e30dfe98a858a9ce10cdc",
+    "dc0341cbcf96654a69e32a20ddd516031a5478e5824e14cccac36e70ea21385b",
+    "3e715f017156b69e12d8ee33921f7e3ad4e0f0491c3a47692c57949ef5ed5da3",
+    "159ad6e70ea88d10a936a5969dca4d14bd156fd591d35885317ead4eca636500",
+    "c3b887b2f683688ca651e7c4e46ffa9434b22340b1c3f8f3011ec62ccb7f2252",
+    "29776b7f0a84fb7080a2fd7bf771e8a7a76a8e4853bb675c92c8a86de7bb9633",
+    "40b6ee0490912875af2b7560b4d9888d73a8ab08a02bec80a2c89192a2726d70"
   ],
   "title_hashes": [
-    "659a1a70e73468dd22bd9ddab8043d7148440bd6666e0f526d1486f82faffe88",
-    "f629fc6607d28f090f83d0d326cbff92b03b3b860f1cb5d996512f1fb6fb34b8",
-    "a91558d91e9eb60e88ab1c140f24f7a717f1df41a082ee17e9357973ba89dd58",
-    "6ba276d68f7dfb1ee5c9c5c1634ef3e551885e647cbefcf8d64f5064a6cc2882",
-    "e486924c4d837974d1173ae36e5385cdbfc01c632019928174d95322617e2254",
     "04c3b569bf6f46bea58a5c9be1287f51e7e6e721f18db82af73230f967503f46",
     "c83eb0b174bfbd2e545b9d93f681dfadbd3a2b88f707fec94ad7e092e9a4f54c",
     "0e0670c6ef7399a789c53b7cc4a4fdff802e6fb513cd57b8e2b9a3a440d291bf",
@@ -8002,23 +7997,14 @@
     "ca87fa966532ca19ec115e47bf79b5a5f3ed3f695387f0cb8f820034c9e72d82",
     "cbb1b6d779a2c98c86d7fa9e7a6d16d9e446585274ef2d12f3829eeffa95cbf4",
     "851d86762f12c08c5160a41950f95ff6f9ba8458b46930afeff0238f83918b27",
-    "cbf088abe5735feacf58ffe8d1cd02b53f0d56c6643f22d45ecfd8fef7571349"
+    "cbf088abe5735feacf58ffe8d1cd02b53f0d56c6643f22d45ecfd8fef7571349",
+    "b4d5bddc15e9b486725a21dd78b3a5d7ce4ac8c1c76646fb36303f77227dfb0b",
+    "4ceb1b00b22266bcffa9b77ae066bc1a3a1aaa56ce7c97eab7963288ad64efe1",
+    "b98c53890d4a61d8c3f22db5b3f0057c6e618d98d7967959b65e09048385c2d2",
+    "85b3b15c4f94dd6da2ec6e0d00c3556be21736cb7816101c54e20bb78056ec36",
+    "2030ebd6e8fc1be363a1635e326b902d8daf2b782ea4ddc5a6adce732166805d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "中, 시진핑 방미 앞두고 대미 핵심광물 수출규제 유예 연장",
-      "title_ko": "中, 시진핑 방미 앞두고 대미 핵심광물 수출규제 유예 연장",
-      "url": "https://www.news1.kr/world/northeast-asia/6364829",
-      "ts": 1795519487
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Narrow majority of Germans oppose military aid to Ukraine in survey",
-      "title_ko": "독일 국민 과반, 우크라이나 군사 지원 반대 - 설문조사",
-      "url": "https://www.streetinsider.com/Reuters/Narrow+majority+of+Germans+oppose+military+aid+to+Ukraine+in+survey/27390455.html",
-      "ts": 1795519496
-    },
     {
       "source": "MarketFeed",
       "title_en": "SANOFI GETS $35B BRIDGE LOAN FROM JPM, BNP FOR INSMED DEAL",
@@ -11504,6 +11490,20 @@
       "title_ko": "Diana Shipping 2026년 3분기 수익 미리보기",
       "url": "https://seekingalpha.com/news/4676315-diana-shipping-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795543842
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Iran Adds Tugboats to Hormuz Blacklist as Pressure on Shipping Grows",
+      "title_ko": "이란, 해운에 대한 압력이 커지면서 예인선을 호르무즈 블랙리스트에 추가",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/iran-adds-tugs-to-hormuz-blacklist-as-pressure-on-shipping-grows",
+      "ts": 1795543872
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "伊朗称一艘集装箱船在霍尔木兹海峡南部遭袭",
+      "title_ko": "이란 \"호르무즈 해협 남부에서 컨테이너선 피격됐다\"",
+      "url": "https://wallstreetcn.com/livenews/3205172",
+      "ts": 1795543874
     }
   ]
 }
