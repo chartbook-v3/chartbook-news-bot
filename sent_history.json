@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795546172,
+  "updated_at": 1795546327,
   "id_hashes": [
-    "8e5d9179f117b1e7409a5a7a80cd486b61199d9af5d1638545312e7a0c34436e",
-    "7c0120425e9281b675065f2071c7c76d3176dab51467edf1ea88f0777a9fd033",
-    "9f25cac814b093ea30dc74bea567452f27e3877991b8cb292580971a3a9c93ee",
-    "8e8ff81184068b6f29104104b356a953f2b3e462b99497a2e43291bccb835f8e",
     "64e8b9f3d230abf1402f45b54f7f85570232776cbfde4df0c7a6bc54f6adbea0",
     "f0774decc708f7dd1e9f0504390af8f424e9f67d0c99d256c8dbdebccbba827f",
     "55692b0e9d8b5755463316431269d673cf43b4c35e353750142e9950bccdadb1",
@@ -4000,13 +3996,13 @@
     "1abc94153201b56ae99dca39c69ceb07a8f5e5745a8259252dca443075afbcd6",
     "c44178280dee967a6e1d14283d89e2f33c11ec41907a9d5c12cd01c1dbc2b289",
     "2fde487c993e9c1ac87e4282741742022ec0467c3d2a7a8b63da6f3ca652d9ef",
-    "d51a7baa1608ff2f8341f0226f0683d329de2383bcd2f6e69181c8f93e5cd50e"
+    "d51a7baa1608ff2f8341f0226f0683d329de2383bcd2f6e69181c8f93e5cd50e",
+    "2b2d112796295875080ee9fe12449fd3ac351e7279de7d29bc4f5c13cffe733b",
+    "0f7520d43605157425a219a0504571fb3edd890fa14c205dc1ab308d581c371d",
+    "4e730c7cd891d6efb89b6973de4d55a0aba00bb85b47c7d38de8d48368ad7da6",
+    "0b6d90bdef1613ed9eae31e998889c49818c829a8069daef68b53c6d44a68340"
   ],
   "title_hashes": [
-    "6e632f47b1744903a14bc5e2fb4f8df43895ad0c6b2cd0c3ae2d3d5900ec016b",
-    "e98a499de4ae0c80d292dfb93379278c00f1b65df1a2a991112896a437c8e940",
-    "ea5926f768739cc74cbcecbec9ed57acfaae4aa40f17286736182c2e7ff69a59",
-    "4fff2e54e3775994101c1857f40fe3d97fb21ae06d213419ec6ed90472acb707",
     "f0eb6aa1e6e8ddc4dfd622471be99a24100d12797b8207c087df3a885a9424f5",
     "00b34df2f8a2b226d69fc225cae5aea4d75eadcb3060910128967590b8b8c872",
     "22be739cc034f34fab79c323ef141e0f38c57655bdff1ee9e7e38c66baaa1916",
@@ -8002,23 +7998,13 @@
     "4a4404e8837c39b367c45bf7665e7de90027f66cad6b488c13316c802d10c1eb",
     "fc23e8ac05c06b2f65c7d97d4bea5ea837bca0c71bda7f877a4c6d3a322151f2",
     "2c675d5f01cf9654a05076265ce9a56d2b24be2c088b97752f8b8fb0338f6b13",
-    "0a473de2747bf77d8bb5ffa1e41b0a742d37b7d8d362a04901fda781980344f3"
+    "0a473de2747bf77d8bb5ffa1e41b0a742d37b7d8d362a04901fda781980344f3",
+    "dc18bbfffde8ca7ab239cf16cb7cac6d6b86240905671b97a0f2f2bace064745",
+    "c2b0b44d5e449b2838048fadacedb86d1ba540e3fbf096e5378bb85d5239da3b",
+    "0f85e8a486e09f5dfea669b70c8d76221ec2e04964d5301b14050fec927f5cd2",
+    "d14376333a374d0e5c32f8057c94b1379279ea1296599a92583d4f3df522c1fa"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "🌅 Market News Digest: [Nov 23-24, 2026 EST]",
-      "title_ko": "🌅 시장 뉴스 다이제스트: [2026년 11월 23-24일(EST)]",
-      "url": "https://t.me/marketfeed/1084461",
-      "ts": 1795521748
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Trump tariffs on industrial overcapacity",
-      "title_ko": "트럼프, 산업 과잉 생산에 관세 부과",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-24/trump-tariffs-on-industrial-overcapacity",
-      "ts": 1795521757
-    },
     {
       "source": "Reuters",
       "title_en": "Pound claws above 19-month low, as dollar pauses after Nvidia-driven rally",
@@ -11504,6 +11490,20 @@
       "title_ko": "Nvidia, Jensen Huang의 복귀 후 첫 번째 올핸드 개최",
       "url": "https://www.theinformation.com/briefings/nvidia-hosts-first-all-hands-jensen-huangs-return",
       "ts": 1795546171
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Iraq seeks higher oil output capacity estimate ahead of 2027 OPEC+ quota debate, sources say",
+      "title_ko": "이라크는 2027년 OPEC+ 할당량 논의를 앞두고 더 높은 석유 생산량 추정치를 추구하고 있다고 소식통은 전",
+      "url": "https://www.reuters.com/business/energy/iraq-seeks-higher-oil-output-capacity-estimate-ahead-2027-opec-quota-debate-2026-11-24/",
+      "ts": 1795546323
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: BINANCE'S TOKENIZED STOCK PLATFORM 'BSTOCKS' SURPASSES $1,300,000,000 ASSETS UNDER MANAGEMENT.",
+      "title_ko": "신규: 바이낸스의 토큰화된 주식 플랫폼 'BSTOCKS'가 관리 중인 자산 $1,300,000,000를 초과",
+      "url": "https://t.me/marketfeed/1084741",
+      "ts": 1795546326
     }
   ]
 }
