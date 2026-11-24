@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795512440,
+  "updated_at": 1795512598,
   "id_hashes": [
-    "bebf88c6c14a7155d45f370f6fa6800e3c3664d979a9dd07c5e80674d0f1cb7f",
-    "11cff920e4f47daeaab92682ae0c70f4d37f0b51127acfd0b424b70229f3fa80",
-    "87cd995e9da35716a9ec7bd72797f2aecab3830aaacc456d4050b7d50c4386ae",
-    "9ac154070757e6909f81a5e39b3a2844be29252868277f00a7000e955dc49f34",
-    "38d39c50438c9d8ed31313871a5c95dc590651e46c1e77ad88d7f2caa1fb3929",
-    "d4642a2990450f359eb207d128fd1dc061622bd32a69f16ff118f979a5527ebe",
     "d6d43df21b76e11ae1cb28ac39c57bfed358ec6e23184c33db76f73d9fbbf51c",
     "54b111cf3353ee44dad17c9e784683d6014fe2c87ceee2ccb696392333f43a07",
     "80b8ab6e3f5098b0da6e62e60f9a3734921a5a8b6c5725eeea08a9fbf6bf45ce",
@@ -4000,15 +3994,15 @@
     "4e52637d2c2a82db52c5b8a543ae330e6bfe9cbebc3e8603479d101e7095478a",
     "fc6069f0e64e0baa47367d75042218ad07bac76f112523008b0c04f35ced4518",
     "d01b266f783af50994404b5a8fe9062b8c7d3bbe74f4c252171ed62b9b52b3a1",
-    "91257d1cbebbbfb2dc489802e3237f1d72d799dfbab87887ffe0cb327ece90b6"
+    "91257d1cbebbbfb2dc489802e3237f1d72d799dfbab87887ffe0cb327ece90b6",
+    "2f6c31495ed331c093f6f09ed20455cca4733ce2eb5f8b014973f8f8e3e7d9de",
+    "42fc24605632385c56adb588c4d7448177c1e4b74e994421bb1729678debbc28",
+    "9ad1c3bf76a7cbb312da12de5a880eb6471b813d8260e7871da98317b4dbc18c",
+    "8f71a6ef4dbc9b67311719ad7c3aa1a5e66b591dc7d0fe90e1475637b2663b28",
+    "742847b267845e340e5097e5438ac797c52f591c884e45caa58e8d708e2ca5ef",
+    "17e2ea8e8c60a68c0c8feeac8193881da3d438bb222b94abe1551731f5e2fca7"
   ],
   "title_hashes": [
-    "2805b09323f773538e5fa0f360516c372bc2044f0d36f72a4fec3aec5ad35e31",
-    "71fdb40eab132e1e58a3117ec6be625d1d9d509e106bc9275115b0c87289241f",
-    "6306352d082e1387a398005dd48dcb2fcf5f82323b114b2a801a4b812cafd5ab",
-    "86861d74649af68303df832f91e491e8c73afa04cb775192ea5d1232ab3614c5",
-    "4fc84e4446b265c1dfcd6f003ab13177838fdf16ed9df2efe923d621398624e8",
-    "4e3307d0c530ac1c1b3dc168e21f086b3eda9e5a590faf4392a928421ec47da2",
     "9d1cba7ebc5ad3b870bf0ec06f3079703481aaa921b5a51543270cf537cbbcbd",
     "8707e39d2987ba8c466fe5f9bec7c3649efad94e4366526cd98171ac01a3ace9",
     "19b62235d6fe1be4f3f04d9d4a01e77a671328466fa5f96e1ef2d33e456cf1d1",
@@ -8002,16 +7996,15 @@
     "ac24a4f8e56d43f80eb4e2a4814d7e00b642e2e73eb66ac6bc613ae956fd2708",
     "aa7ceb643dff7f566c2ec1da558c8b2bde457b6aab62273e410e7094b8c3272a",
     "808ce4522e4689dd0081bf97ea48563b9a3e568ffc1cbfbca4c46ceb7bdbdeb9",
-    "eb022d8077619790b1b48b22acc29cb4ffe1497480f7052e5cdca1326f60e95f"
+    "eb022d8077619790b1b48b22acc29cb4ffe1497480f7052e5cdca1326f60e95f",
+    "4508baa199d646d112a8d0afa6c1f75cff3b6781b623eebc616d4d8cb9fe5a7b",
+    "b6802b7867297234cedadf2694a2eaec8cca5c0b8f5a20899e0fc2f19580f92e",
+    "88344ea1d092f30f921030892f461a979d799c3aa77df8fbcdb9ebdf4c1d0bf4",
+    "02a812006565c13593882c0fbdce305e4d1710b552ddeb76fd791287483d901b",
+    "8694404ab139f20745d35942eb49c3fec496d85c4fd929089f0bb91f50f61685",
+    "ad4a1b5824b075d3dfb05933a70b1abfbd6f28917141f8293647804b362f659c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "JUST IN: NVIDIA $NVDA SHORT SELLERS LOSE $11,300,000,000 TODAY.",
-      "title_ko": "방금 들어왔습니다: NVIDIA Nvidia 단기 판매자는 오늘 $11,300,000,000의 손실을 입었습니다",
-      "url": "https://t.me/marketfeed/1084199",
-      "ts": 1795471984
-    },
     {
       "source": "뉴스1",
       "title_en": "'젠슨황 복귀' 나스닥 6.5% 폭등…엔비디아 시총 1조달러 늘어",
@@ -11504,6 +11497,13 @@
       "title_ko": "샤오미 3분기 매출 1,072.4억 위안으로 예상치 1,064.4억 위안 상회, 순이익 38.8억 위안으로 예상치 44.9억 위안 하회",
       "url": "https://wallstreetcn.com/livenews/3204876",
       "ts": 1795512439
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Hedge funds are positioned for an earnings slowdown Wall Street doesn’t see",
+      "title_ko": "헤지펀드는 월스트리트가 보지 못한 수익 둔화에 대비하고 있어",
+      "url": "https://seekingalpha.com/news/4676030-hedge-funds-are-positioned-for-an-earnings-slowdown-wall-street-doesnt-see?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795512597
     }
   ]
 }
