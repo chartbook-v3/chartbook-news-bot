@@ -1,21 +1,6 @@
 {
-  "updated_at": 1795495054,
+  "updated_at": 1795495206,
   "id_hashes": [
-    "45ba972dc1b4a27806fadd7f99fcdc1fc06d8384f9428d6d50dccd2c45a8c33f",
-    "dccc6691a3c1f9f093372a138d852d99baf5004ccb9f16d17a3ce5d6b0734490",
-    "674ec19a77ea96d504bb5e8f22e2bdc9edebe6a885d253f108e3dcb91f26654a",
-    "2ba3a561d0f7b17d2a11f442f25c5df13727082a4d26203a0ea29243c1a78668",
-    "9b94aa57cab2e33f4b4c775619529e62189fa263440490073c945c06f36dc790",
-    "c59e2228e0104599d77379c73ed025285059c9dc3610a999f8cf5fa925390379",
-    "46cd0a06f281abeb2981ac75713ffb0497e2c12621ff09231a9b5db810275092",
-    "40e808dbc39aa6a83a67b3b0baac37c240a8f170238e5c9212b2faa3926ff271",
-    "05350d3475873b06e10c559ad1c8a86632b1a8ed545b4f6bdbde5217e913b17a",
-    "cede4b3ee60b4e8f80508bb7b6e6924c4a83242297fb5d0b589e1a2c88f8d67d",
-    "c558755a2fd2cd943697d26607572b57ba631d9758781b4b59b4297ad9942d6d",
-    "8b233c7739361f536597e1d92b549381e51d7ccc0bba0c43b4971411014ef9b2",
-    "027fdea73af35166bb8eea79125d775c5f299679d451d90b5ae2665b3ada1675",
-    "8c3ef3371867066bb6d64cd8a4b8935a2acef8869ffadab3e7387b255e28da8b",
-    "fa2822025acac3a5debb93e21c62431971549d6d197a58f59dc2c6afb416d5f8",
     "7709e7c8b261d967fe992937dfb1e64f225f80529b55365764a3fdd311332c8f",
     "3ddbc459105fc6ea664e93791ff0533c5f1b37bcda680de713e2b31f5417b2f6",
     "3559934be5a35e52663de40d5f4034c796b644ddfc53e939aa20195dd3b74def",
@@ -4000,21 +3985,24 @@
     "36550d262a31a1bb16d7c9d98989066d04b045156f9b6f8fb6afaad502e91457",
     "0cb564e51e20110bae09910d049c37f6859fb55fad50508f19813f3cdbf02459",
     "a5807fbf8642482591b639daf332393038ebef07013248afb4b8e22d6216674f",
-    "8844191cf942f443804489b37c27e3abf7b36df51019893033777ab930eafba9"
+    "8844191cf942f443804489b37c27e3abf7b36df51019893033777ab930eafba9",
+    "757a546f885bcddd25cce7eaef11595d72db5c271baac8909630bab3812d1f9e",
+    "31add1b1f7b00653cce2817a8f2239d623e6add24af56d82acb75ff0edc08ec3",
+    "073d4c591bd85cb98ae0d6a69373f4c5696173376f10c9099bfceced8949572d",
+    "66493a908e63c23413cdfbea5c58bbe56bf90627dc710bfe53a1f844f03db3b8",
+    "01c10a7ec651153c8f20fc1398b0a85463bb780eb964f9eee76db8409bcf0b85",
+    "66e933c379c8863cc44a9a2e9d2f0951a8e83a14b1dc88fa613eb659904cb2fd",
+    "e0bc28e084fc3ebb9a9163a74892f0d7bcd0e852c76d3a42e7b6d98a3f724ccf",
+    "a4f41b56ff84daccf57e9cc7ff2241c6ddd65a35c89c23ca6da6f54801dc8010",
+    "71dda03c7d7ad314a98a85a016146e7a544ac243cda261efe265376ada4368d9",
+    "0d421aa8b574bd341139d66117991bd3321c889badfc98b784769bddfdfe2480",
+    "fd3365a23077ca126bb4c97d954588452a28fc7dad5d8ebf374d39043b5bb63d",
+    "b78e102710c7d151f7967d49eef603f1554901aaf9baa4144f7364eeba0a4177",
+    "e527f21fedd23159cf3684938d04d99708b9fd1e575581fdae3e359e6051a74b",
+    "92256c778eaf04d054e399b80b8e1b2bb1107b74f432223828103e68ab1056f7",
+    "30d58404455840234f7e59c4e29b7a608fd329ab2b0bc87378e88d29843ef81f"
   ],
   "title_hashes": [
-    "0795fc0a68982786ffa29893b137ce52d5ec5c885ddce6242a2f9badf2314faf",
-    "c31aba94078383c12d555e6e039dbe82e32f0b01b1bc1a690e2d740c0f2efaed",
-    "9c824805a4f9a19ed1f55c8a5be9cd68099e6ac54158b478e14cd5ade46df016",
-    "e783c197c80d34f8f6af5e8bd91bfaadae1a243b30af91a24c0208e133e56981",
-    "7d112fdb933e8df0abece2e806893df662c9389ca665939b97daad8eda14092b",
-    "9b29d354ff8743cf53a4ece609e1b329d682f5a0008f1c1bc32346cc56a27245",
-    "9c8528e01abce8149190fe5108b8128c7d2fcd9ea38ce0eca38c4be9b6adb462",
-    "52cde3af427697236fda78927cc60304dc7a1b32ba0ce8d3a47b7b91a9558b55",
-    "0edaeb06ad26549173ee74a6d65450dd1aa9aae06f7006ae1ac26adfb92c88d7",
-    "c0075e675798c7a09a6ea88fef62e3a20141988a2125331ed58434fc71b7bf0e",
-    "d94623fd6f7b5ca7c45cfad0b92d23723662c9756053a3667bfce22739dc73e8",
-    "f83815f1b6545990f4b885b012369c518a8c807dba27640c1cf9eb2b9f163397",
     "1a0ae6bb6c586194492d8dc0c2540922dcaf18317078f0568f42806ac280fa90",
     "a5889bf0bb27c0ef3e18474c2137d249480551dbdf288a5dcf42452cf1bc709f",
     "099ea8cea3b98d950b141a7fe4e0c325ea4f51c3ef781b6fa19e74f1a6e12d73",
@@ -8002,23 +7990,21 @@
     "7fcd7371b0c0f7066f8cdfb9e25d98b20ab85112c016acc90012c5749874613c",
     "624ae651cf647f1ea5aea15617dc0420a30e148360470b2612b5bac58bfd6511",
     "51a79afb82085f8f87129724192f5ca3bbc7e74c3cba06a204509aa8cc0922b9",
-    "a3458be65135153a3344bca9388876b24f61ea87996d318a1dba299537b05231"
+    "a3458be65135153a3344bca9388876b24f61ea87996d318a1dba299537b05231",
+    "1561ad24289d48cf61d820e7650910d9b96bca06392ba6680a5ed513e11ecbc9",
+    "05e0918878492bde71171124537beb5d7f7df0c3b6a45d9b95bfb475b96f03bf",
+    "fbd63f4f908c15ef6f15e7d4900348664f46e23660a1ca6b7dc04efff5b1ddd4",
+    "c6fc0ec20854dce5c6530d9a250cb559e7ba21435fad00d96d46cd63ad66e4fd",
+    "2c53533674bb929635db3b6206013f2726c32eb3ac785c3ea6e833592b56c06e",
+    "9df20f6bccb27a4c0218e62167c68974d3750117c527372e5bafebd1e9ee0d88",
+    "b437aaf0b2149cf21469daf4c5ea74a26e0832d03060c8287b922fcd3abc05c6",
+    "8111e939728c059da39da747e2441afbd5ecaa7c3b5f78884c5ebd1d19534772",
+    "319593a94d7a53a66c8f1fa9556352bb9e60e363bd0a8a6bd5928167b2541591",
+    "143eceed777f311e3b9d4cb54aa1ab270232a86894ceef8ded49783480f042bc",
+    "ad66d3fab7b93fab4e1fc64850d9de21ea5d6521ac4a1e5572bfe80d3658600f",
+    "4430469f6b751ab0a81b12ec9426ae74abd1066bc3feedca14889c5880efc5e2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Tom's Hardware",
-      "title_en": "Samsung Odyssey G8 G80SH 32-inch 4K OLED gaming monitor review: Color, performance and style",
-      "title_ko": "Samsung Odyssey G8 G80SH 32인치 4K OLED 게이밍 모니터 리뷰: 색상, 성능 및 스타일",
-      "url": "https://www.tomshardware.com/monitors/gaming-monitors/samsung-odyssey-g8-g80sh-32-inch-4k-oled-gaming-monitor-review",
-      "ts": 1795448091
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Goldman Sachs Reiterates Buy Rating on NVIDIA (NVDA) Amid Jensen Saga",
-      "title_ko": "Goldman Sachs, Jensen Saga 가운데 NVIDIA(NVDA)에 대한 매수 투자의견 유지",
-      "url": "https://www.streetinsider.com/AI/Goldman+Sachs+Reiterates+Buy+Rating+on+NVIDIA+%28NVDA%29+Amid+Jensen+Saga/27385817.html",
-      "ts": 1795448094
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "美国总统特朗普：黄仁勋已经在规划后面三代芯片。",
@@ -11504,6 +11490,20 @@
       "title_ko": "중국 인민은행, 홍콩서 3개월물 위안화 국채 1.32% 금리로 발행",
       "url": "https://t.me/marketfeed/1084288",
       "ts": 1795494842
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Amentum Holdings beats top-line and bottom-line estimates; initiates FY2027 outlook",
+      "title_ko": "아멘텀 홀딩스, 매출·주당순이익 예상치 상회 및 2027 회계연도 가이던스 발표",
+      "url": "https://seekingalpha.com/news/4675961-amentum-holdings-beats-top-line-and-bottom-line-estimates-initiates-fy2027-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795495142
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "MALAYSIA’S ANWAR SAYS DISCUSSIONS WITH BEIJING ON THE SOUTH CHINA SEA HAVE BEEN CONSTRUCTIVE, CALLING CHINA “EXTREMELY REASONABLE.”- SCMP",
+      "title_ko": "말레이시아의 안와르는 남중국해에 관해 베이징과의 논의가 건설적이었다고 말하며 중국이 “매우 합리적”이라고 말했습니다. - SCMP",
+      "url": "https://t.me/marketfeed/1084291",
+      "ts": 1795495205
     }
   ]
 }
