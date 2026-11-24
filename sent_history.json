@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795549285,
+  "updated_at": 1795549438,
   "id_hashes": [
-    "5e6f11db984a98d6d1e70b88e9d86b980c95fb9f206bb9015b178e2be630f730",
-    "27ff0817e8381f14ee85c8d83f782a190600d1ea3347f1e35172c12b98638156",
-    "1a5f40eb5f2e5ce64195ae83c1447963c705914b48edb9a81fcf75c4b71e7557",
-    "0a2bf4a7762d9f03e6ef67093a7a4a90a3025070a3e8ce5df0839c3c923636c2",
     "dbde1cc088e792140aee5654f26158f3041747dea12d01dda5175b95a8a5128d",
     "0feef6d0d8e80fd032bc588b9cd63b9af5258dd1c04fe830b802b6f64f756bfd",
     "f25e17d3e05477a461f8ee641ff544948299c056a7f20f85c5663d3126c4fef8",
@@ -4000,13 +3996,13 @@
     "68e535ec9704fc62503a919a7500ba590beb0e4ea1402b0e41f9c735595895e4",
     "859dc5426fa2ebeb38d6a3439fbbeebd68047dff216faca7f763b3e9eecdc630",
     "5e34c3254fd952f0da41fb39a288e429684a18d5b9ef3a851a337d92ad5494c7",
-    "b5666d322fa87c6d30fb8a31b7e1862c250425e4039f9e7e6950666767ea6890"
+    "b5666d322fa87c6d30fb8a31b7e1862c250425e4039f9e7e6950666767ea6890",
+    "a03b868e0cbbc046351c265b3f2c7de1c0750531fd8d424a28b597d996cc9066",
+    "8b901f1b78d6a67847f43f3b6bd06bea781b7116e15f6755395a0c8da09bb993",
+    "bc6584f34e794ced96586497c43267d17b61fc7cf401ec32c115cd598c267222",
+    "a5e46f3f8c0c78089a7e0f8d75feaabae1f4a8630afbcecbc21ee40742f006d4"
   ],
   "title_hashes": [
-    "07f352abbb5e091a0db15c02bf73a3d094b5a84d3b39777a3bba6927ed586026",
-    "0a05bf345b477ebd397c5caeda612ee4b1d105b38c65a82b6969579be800d6a4",
-    "3500237ca95852bc35d1bb046a924e01e87893d251b8dd5560881ea08be93425",
-    "d7dca3ffce4951edd063c325faa01ccf9a42dd0d7bcad67a865b8a8bf0df1c25",
     "75112c578e328ded880d0535146011fbf92c3203d4ab890f634b5353c313c9da",
     "45ed491a4c44337fd9f05f5f1a61bbf47c89ff3d575ae2a80f06a3e1a5949e5f",
     "09b01cff840502fcf6bdb7bbf4af5ab325e41f4f010330a175b38bbbf7613344",
@@ -8002,23 +7998,13 @@
     "fbd9639bc9c38cefbf236a75943d258da191fec0da32ceead40165d0583e4c9c",
     "b24bb34ff35090f2b011eafb9f9c1206730c37844779535e6bad9315ed6cc982",
     "49872866f938f7db35210f0a06a6ce20bc885ad1d3399a05a00b258a6f015169",
-    "8a464502754624d0ec77394b20477f27318726088783c6254befed718cf4c6be"
+    "8a464502754624d0ec77394b20477f27318726088783c6254befed718cf4c6be",
+    "47bdca3e08ec342c0dd9acc8ecb54ac6dd5ae7a82d0d64212b3203d88411c5fd",
+    "852c47cc7aa593ad9e89f06561156a5f7b4dbc8e28e1b337c07168110d68ffd5",
+    "f8611f403c71779a4305da0b5ad9beceb90fe64ad3b67ca4f5f46e961d80baea",
+    "6b0ba56ccb2e60cd150ee972f2eea2a5dc5e36e872fc8d5fc93b7adc3d1e0c60"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Semafor",
-      "title_en": "SAUDI ARABIA SEEKS MISSILE INTERCEPTORS FROM ALLIES AS YEMEN WAR LOOMS",
-      "title_ko": "사우디아라비아, 예멘 전쟁이 임박함에 따라 동맹국으로부터 미사일 요격기를 찾고 있다",
-      "url": "https://t.me/marketfeed/1084480",
-      "ts": 1795523572
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Sentinel Capital Partners Acquires GSI Group Holdings",
-      "title_ko": "Sentinel Capital Partners, GSI Group Holdings 인수",
-      "url": "https://www.streetinsider.com/PRNewswire/Sentinel+Capital+Partners+Acquires+GSI+Group+Holdings/27390842.html",
-      "ts": 1795523598
-    },
     {
       "source": "StreetInsider",
       "title_en": "America's Biggest Manufacturers, Farmers, Railroads and Labor Unions Unite Against UP-NS Merger",
@@ -11504,6 +11490,20 @@
       "title_ko": "대부분의 연방준비은행 지역위원회는 10월 금리 인상을 원",
       "url": "https://www.bloomberg.com/news/articles/2026-11-24/most-fed-regional-boards-wanted-to-raise-rates-in-october",
       "ts": 1795549284
+    },
+    {
+      "source": "FT",
+      "title_en": "Huang says he still doesn’t believe in Nvidia succession planning",
+      "title_ko": "황은 여전히 ​​엔비디아의 승계 계획을 믿지 않는다고 전해",
+      "url": "https://www.ft.com/content/cd1831d0-c3f1-4705-b8e2-badfb5e39764?syn-25a6b1a6=1",
+      "ts": 1795549372
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Canadian Dollar Gains Most Since August on BOC Inflation Warning",
+      "title_ko": "캐나다 달러는 BOC 인플레이션 경고로 8월 이후 최대 상승",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/canadian-dollar-gains-most-since-august-on-boc-inflation-warning",
+      "ts": 1795549437
     }
   ]
 }
