@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795536407,
+  "updated_at": 1795536569,
   "id_hashes": [
-    "781276ef8b1190b4e35bb2471c7c723745364cb98e05af5d6f2e9ec0a52121fd",
-    "dcc9edd2f40f99d64a129eda17d58529df9f6bcd8c2fc8e9355f3872c3650ee9",
-    "60babf6a79efd057f5d05354144a4dd23e2156756bb544e276db86b6763cb96c",
-    "a7166078b33d1c38db2141eed773ebbc4315b1d36e355c84cbc05a19763c6ee2",
-    "89f059df7ba39f050f4d10530669e23007988be2df82697b6162244032b28428",
-    "9e843979ab874cab9e4f7c4adb3767474823d92802c75e3eafc5064478196d54",
-    "2e2ba15f634336e8712ee673be2fb821586e9640eeaf4b782af16ea9094a621d",
-    "e921a950f85f04856756dac7402e5a875df03f2e8e868592f9a9c80a9c16cbd0",
-    "2f956bd70f7554bcf767e97d9bae373a8fbafaf8fb2d61a15a4e07dadc4c8886",
-    "33537e4a60e1d0dfdf90f9ef48f31cbce4e26aaa6cab4610c747edeefb533d67",
-    "d4ad91482105085a4f8a222ac9b7236d846633c3db2d9ce73c48fcac99b63d2a",
-    "6b6b9a3054c8c355100a5f993d055ed9b8d53f87480a449a672732dc214575b4",
-    "c24fee66a45634cf49f184ed5ec34aeb1761d32fd27cde099cf6cd5b71050efc",
-    "506a1ad5fb3107ce1d71aada3688e156627294f9fd026d09d4df825d98e9fcef",
     "7a941b29423bcb12208d13b4da74ff66d33d740a2e58721952a5e1f737b6923a",
     "dba9ae4a6bca3e3f5c08db9cfe5982ddc756a97644ea7e123d918d3820b7d88d",
     "58254c0134662b31aad33522b6953d9c04242026a0977979c7dac02411c973f3",
@@ -4000,18 +3986,23 @@
     "9fde7ca8ada376dae486d1fc74218aa4047fd99a694a5db2d4e3f70a42085873",
     "75e03782470415472b5bf874ef069de60494acddf3d4963dbb0b83727367e1ef",
     "0279d846c31a03e2a6a5fce13583d3f25ea63b4eeb2271513cc1eb263e50c82f",
-    "0a9d76e1decf33ac39debcee01fab696eff3f58f6071fc8da15f44898a6fb116"
+    "0a9d76e1decf33ac39debcee01fab696eff3f58f6071fc8da15f44898a6fb116",
+    "428a7acea27a49b4f1a7922f80591bfb03b89c09e5ac731aebe33f7c6a9b608c",
+    "b16785649983b29131fc900bd934648e25e3940d06214bac516615003edb21b5",
+    "646beb43ffce731887b99de9efd176dc04bffeb10f4673e6ad7236383597b668",
+    "d84ca4f7d1b7dbda5ca1a0b3e446d8ec754e4db90c35af98fbe49f50b0fd0ed3",
+    "cf31abf8abae03a6c496cb169861f202edd8d8053dac48e6df319205b9f15662",
+    "9298c692e289b516ce2ee1481558bab0831075dd39cc09359152f6431481be24",
+    "f690284e443837a002e41b7e09eecaed7b1927dbbb56af0db6adb7f6d0e05582",
+    "9a731ec33c8b36a5779ebb87d5928683666ed4c9e5f81657104819ee49b32545",
+    "d1349dff76366223bebac8c17bbfa2bdc7b5b0d9e25d11132d4352fa276bfa59",
+    "7a3ce1a623d2b3d76c86ab1bcea0f95b8423350ef1eda0d7e1cf4960a11c12b1",
+    "bbb272fcc7b97966f4681ea6c2ba767c382fb91f57f467b7ac24ce9fdbfc0110",
+    "6babd781f91c6cd58c37e13c0ad77adbdb84dbe1266f1a924e500adf3d942993",
+    "760eb212fdea41f71a47ec3c70eb2c9782753946127406beb99e4d7f4fd50b9f",
+    "bd4ba78b79805c0098e732e26ba081f27122b854f21ddff491116873f27228d6"
   ],
   "title_hashes": [
-    "fd54a55ecb67443d740612492e50787466a73457cffad04a0b0af86e2892a702",
-    "82d5db2e9f5d76405455fb54771b924681badeb34e9e2cf8247a3bd05f165dc7",
-    "5555f094175bc75fb8f0848af28638b8881021849d8774de4dc3be15198bf4f4",
-    "4b0a2e6d66e64eac66355e8a711628da379c17137d495277249159a28d93d67e",
-    "85cdc0e700ef0e85da40cba23a4a19bc144f4e03fa6bfd851647ab078a67e7c6",
-    "85df5dff507105db320b5b0f4e5cc151614b3e4815858b352a8339054cba1418",
-    "95636bae26c85aff94c8416f9d7c541c415bcec36b9dff740a59fbd837bd3ddb",
-    "e66c98e2da6d1932b92729718c8eb1cfc858ed879d6f83b3d6151dec3fb29241",
-    "9a1c8e083f82db8fccb6bf5ac3751a04477a4563005b2251a82e9d205ad525a1",
     "49212dbe960235ea59608d1ae26407d0cdf03c109322a6f21fc18ba5a87ab84d",
     "04fc281456c14d12798b2b793106891ab71e6ee7a81e913dd82cdb24155b058e",
     "8d827161a5f9cdad919505386ce5ff19d1c238a9e7e4fb6b85c1a7865bacb3cc",
@@ -8002,30 +7993,18 @@
     "493e5ede26d9f884f054b551a7ba53295c4c2de94f336621d61eaee7f36bbecf",
     "0a3b3aa376532d1f4c0665a4e294d820acbaa0988d237bd7cfdfa5cc912ce945",
     "dcf1061268b8548f4186ff4e0849c38286c0c6c6f41b8911f8cab2f9acaf6b0e",
-    "96297090edc4bbd52cd470d4013312e77da5d5413d19ded49681be0601f9cac8"
+    "96297090edc4bbd52cd470d4013312e77da5d5413d19ded49681be0601f9cac8",
+    "508dd665fb720159d4e450d6ac5c45860a18dea44e5a1377a94e52cb2da11665",
+    "fc2973da11f0e8100159979a74ab79f54c92e7ed4a9b54d6a6d6dad4c15b6ee9",
+    "e7574efec9d62690021a9457516ba658eb979837f6840ca72a186ca80ede45d1",
+    "92388cb84eda328cea6d32f5928e9c8e29975a90f1db309ff7fd2be6dc59e8a3",
+    "b0b9252920e3216c161438eaaf90da4f8bb28510be2c3deab4b4c3b5edb3bda8",
+    "a79587c12164aecc9cb3f73f358afa4787e6c3d2bb2fa06ecf4a038151af7ccf",
+    "eb6796996e4c83186a133c279af3361381d570f20d9efbb7665d17fab3f19522",
+    "7009901e8995100464c7ed88b5e71309dbf27cc9e2809bc10e2c4e33fd85ee0c",
+    "a349197c5ea3f6914c3d23ef6dae7c689d7e444f54a2068c1434c7cb8f4643ac"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "NASDAQ 100 FUTURES EXTEND DECLINES TO 0.7%, SESSION LOW",
-      "title_ko": "나스닥 100 선물은 0.7%까지 하락세를 보이며 세션 최저치",
-      "url": "https://t.me/marketfeed/1084382",
-      "ts": 1795511477
-    },
-    {
-      "source": "한국경제",
-      "title_en": "젠슨 황, 실시간 근황?…엔비디아 본사 앞 샌드위치 나눔 '포착'",
-      "title_ko": "젠슨 황, 실시간 근황?…엔비디아 본사 앞 샌드위치 나눔 '포착'",
-      "url": "https://www.hankyung.com/article/202611247534H",
-      "ts": 1795511500
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "유한양행, 지속가능성지수 제약부문 3년 연속 1위 선정",
-      "title_ko": "유한양행, 지속가능성지수 제약부문 3년 연속 1위 선정",
-      "url": "https://biz.chosun.com/science-chosun/bio/2026/11/24/C63JWRVOINHUZPPYQ5ARTVAH3Q/",
-      "ts": 1795511503
-    },
     {
       "source": "MarketFeed",
       "title_en": "BASF SAYS M&A REMAINS PART OF STRATEGY, TENDS TO BE MORE ATTRACTIVE THAN INVESTMENTS IN CURRENT ENVIRONMENT",
@@ -11504,6 +11483,27 @@
       "title_ko": "미국, 이란 지도자들에 대한 공격 개시",
       "url": "https://t.me/marketfeed/1084650",
       "ts": 1795536343
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Chart of the Day: Astera Labs, A Beaten Down Semiconductor Gem",
+      "title_ko": "[오늘의 차트] 아스테라 랩스, 저평가된 반도체 보석",
+      "url": "https://www.barrons.com/articles/astera-labs-stock-beaten-down-semiconductor-gem-chart-23c7a41b",
+      "ts": 1795536559
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Microsoft has declared 'Code Red' for M365 core service health after Nov 12 outage, internal memos show. $MSFT",
+      "title_ko": "내부 메모에 따르면 Microsoft는 11월 12일 중단 이후 M365 핵심 서비스 상태에 대해 '코드 레드'를 선언했습니다. $MSFT",
+      "url": "https://www.financialjuice.com/News/9866360/Microsoft-has-declared-Code-Red-for-M365-core-service-health-after-Nov-12-outage-internal-memos-show-MSFT.aspx?xy=rss",
+      "ts": 1795536564
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Microsoft sets target for worldwide mitigation in under an hour for future incidents - Memo. $MSFT",
+      "title_ko": "Microsoft는 향후 사고에 대해 1시간 이내에 전 세계 완화 목표를 설정합니다 - 메모. $MSFT",
+      "url": "https://www.financialjuice.com/News/9866361/Microsoft-sets-target-for-worldwide-mitigation-in-under-an-hour-for-future-incidents---Memo-MSFT.aspx?xy=rss",
+      "ts": 1795536566
     }
   ]
 }
