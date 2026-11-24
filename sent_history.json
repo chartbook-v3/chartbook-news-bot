@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795534840,
+  "updated_at": 1795535004,
   "id_hashes": [
-    "392231fd840d565d562e6a0913ef24d83d240a0570c33ece29a9487428dee014",
-    "1018f4900081cd481b0b3cc10f6eb610c60db341af9a867c0e91655e7a49e6d2",
-    "0c40e894d8a416ad606877baef0b0008d3e50a0d0ed37d437678c501af4d1d51",
-    "4bf999e31387cab67cb4d09ca6a0eeb8fadeef0ad1ffe045c75e81501fd99db0",
-    "fd5d1bfbc34d28d377795dd6d0cb0b6cbd8f837ee27cd6facd8a907715a1b755",
-    "0bbfc89426834d522ca842ed0ad0902c0c108c5c0921ea281da8cc3fa930f28d",
-    "8df8054e816da22568df1d2c89e48b729fd3f5ce2f722bf85b0e8697bf3f41e5",
-    "f3452467df651d82d26d1e8cb720946d6f07e34c09b7032302bf448f8f8f6895",
-    "659cff7b188f7632acf823176923ea9153d1864741a70ba234b6230365a73eb3",
-    "1260cf752cdc6b55ae8f27f0144121aca02e7f123c2b4cb6981f93b90ea44f3a",
-    "f6f1fea8ce7a53eadc0ceeefdd66df099d062358c123c8543bdf35e82dbf1304",
-    "4104a4d7a0d0d7bc7bb8247d5f4c688b5b9d0b9c5085076108c410fbdb1d3385",
-    "c636765c354673afa24fe5727d990873ba6a89ce78779eb3befa15e84fceaf3c",
-    "87c1c018a9136eba6801ad0c62d2a50987214f7a93d432116b6c347fb1684e03",
     "305826182f7f71ceeb2dce877e1056741d0c62595e5615450a293e2820586c8e",
     "3bbcf05cd71e6cdc77118bf8a6b2ec56d27a310163abb7b14de16174e40d8e85",
     "f4459cf2b62d4679b9227623ff6304e6ff767d44024abc114f1f2330c9c00dbc",
@@ -4000,20 +3986,23 @@
     "c7a36d60df0efcdd753b891aae247408ea34e8910a2bb5862853e85e7abb224f",
     "2ab518dffdc9425fbbb48ba7387177eb3961267df422a877f979585dfc8c5588",
     "e8c6b37ce1ca5949082ce0f5f0b71705f855647b95ed1859e82d5b351d5aae84",
-    "1298d1488c58a20cfcfd8fc3aae64538a41751e448e21e0fd5bf65c5eb67702f"
+    "1298d1488c58a20cfcfd8fc3aae64538a41751e448e21e0fd5bf65c5eb67702f",
+    "0efa95adeda783e6682942980dc044c07a2d681492c5f804fd9bf323d11249c4",
+    "a14627dba6a7292b021ec893c68f0be7482e116db20656573d761252b7aae6a3",
+    "503913dbf6b1923318f32ad2777b3a40f3bd149a81effe0684a276f0f9c0db7a",
+    "3b76f698a2edde4dcaf334b835e85b8a02b48c3ebe8286d6d00202098c6b4498",
+    "bbf9657379267d4b24f165caaf7106fab2564b6e3eafdde608f76636df1cb873",
+    "13e4cd88376f4fa2e950e099a7477d04425a1cbaf11d313129fe28ea3cf00486",
+    "a6384041aefb8252824187e77fe632cf05b0b29bb9a23d0453bcf293bd040b32",
+    "acab6394d6e319df4e5c5064acafb9fc22d5707f7b602a87881b56d34189858e",
+    "ffc4d9b04b68078e0955023ad8c60a605bb31d49f44b6525edcaf3af2f6f7c39",
+    "2ab6ac447077be5f611b554d5ffb10722eb8863e91a21fd2328a45b851e3efa4",
+    "5ea99dfdcbc64d4d9828b36a4daa8d9c880ca427b4380614b38989cce3ff5f74",
+    "77ceb0dfc19620b759bb4f2f0e5bf5bb70c882b32fe9f69e4622131b561ff200",
+    "a2a85db0a4790d5a47953997fa6c39afde4a7a722f2d3aa8b28564f29948a225",
+    "ca26312f11f6aa95de7fa86eb71ac2def4551c2ce9880affefde6351dd06d671"
   ],
   "title_hashes": [
-    "b09cb1958be796217b9c4cf83cb2ed779755a32bda38e8dc4cec91c78ca29858",
-    "3c80914521cce4c9d6f1c74ca153c968e51f417ff97a2145555342daee2ee097",
-    "c4ad866d87b0a7c4a4f19efd10e785c842c7f03270596c642190135fb6b79e48",
-    "abac2dccb1ceb65d34b3fd786ff2525b5631df70caaa8b1b75945734742f227a",
-    "1ff44a4deff2bc518651805209aaab8670be8c91427da69c11018bfc0c75d388",
-    "a953a4cc63dc6f9843ab69086dce14f44973e459882e6406dfb27c7956d88215",
-    "502367b8b91e9f10be882c60d183df2c1e29043befe963ffd2eacc6381917185",
-    "147b6259a52c4762968d028a7f475b00eb6d6b2d075b932b38969f48a446a721",
-    "16ed0fd4d146eda08a7053047181c16c25aaf3124b4385cfe1c360197d4e3893",
-    "4eaf210bd7fe2805351bd0cfae388a9f37cf4432e8ab5a2bc35b3c90d2428d49",
-    "4fbbfd9e3ab9fc2549f1ef844a69fa29e2ea301da03bbb09a33336cd927a2342",
     "6f1b5fea7c3c487d7db8561b9ea96e0270b789ced58c7cc0876fe3ca33527366",
     "9afdf5bfcf6f6a46db0a194480cb95a8b5752dbf64e8eefcd4df82f1861415fb",
     "0e62de7a840a55a53a67808a2fc9f22282d2ebbf364b6d1c8fe1a9714abe6d59",
@@ -8002,44 +7991,20 @@
     "7740329f03936e938e06b7767d26c2433acd15acc05570c3f1134c4e6a6ee391",
     "e597299ac8808bc765b2e7cf995f8576d515b5e672342c577e35236767861b78",
     "f71e7f2bb70d173f80a13729a41305ad3c72421773515e823fbd0d89f0043a0d",
-    "f26865fa0828d70a43ec8f9376266a544afd21b1b7c126b1ab0f87bb87c85c5b"
+    "f26865fa0828d70a43ec8f9376266a544afd21b1b7c126b1ab0f87bb87c85c5b",
+    "5085ac0fce7341a5784894925059558ab2794275c5b8d79dea155a2c4e46f633",
+    "fa6aa52faccd3bb9a28eaf844818d362f7e3e4c45f7bf326a656a48b2aee944e",
+    "afb4fde0219bd054b38cc7c0977faa1f6e94439130788fb0de575c0f7022c14a",
+    "f4e19d005d804d10f706c6bca956dc950799a1f05e7d901f31f7afded6aaa7ff",
+    "aeab424e92ab4252f34ef7ae7f4687a79ebb5239d38b42669b98bd587d9c03fb",
+    "715476f52c6f201a4b3d81cc3bb1fc6ba7e6464d36962d3916a177d77c4a37e7",
+    "3385809e5f4f93836f7bab330869e213b28b49e3f64cd66fd84937c3ee4f03f6",
+    "b226f6a176639de138da1b02ade624735d9e6439622e0dbd7cc05e70e5f0c5ae",
+    "12fae14ce52148cb99d11e51b81e039a108a00253a8c5bd433ed997c31680f08",
+    "fe8e84d6b6abe9160ee75fc2152537e71f23e4293454d7a34294ea5bec8e62e4",
+    "94de9633f43d53823f53fa27ae8481f04466f0474ab03bbd41f2d4319639d961"
   ],
   "recent_sent_articles": [
-    {
-      "source": "조선비즈",
-      "title_en": "투썸플레이스, 칼라일 인수 후 세 번째 유상감자… 누적 1274억원",
-      "title_ko": "투썸플레이스, 칼라일 인수 후 세 번째 유상감자… 누적 1274억원",
-      "url": "https://biz.chosun.com/distribution/food/2026/11/24/M7N3A7GVWRAWFEIJ7K3LCDVNPQ/",
-      "ts": 1795510805
-    },
-    {
-      "source": "Reuters",
-      "title_en": "TSMC unit seeks Texas property tax limit for proposed $22.6 billion chip making facility",
-      "title_ko": "TSMC, 텍사스에 226억 달러 규모 반도체 공장 건설 추진…재산세 감면 혜택 요청",
-      "url": "https://www.reuters.com/business/tsmc-unit-seeks-texas-property-tax-limit-proposed-226-billion-chip-making-2026-11-24/",
-      "ts": 1795510810
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "ECB's Simkus: More tightening needed in 2027 if inflation persists.",
-      "title_ko": "심쿠스 ECB 위원 \"인플레이션 지속 시 2027년 추가 긴축 필요\"",
-      "url": "https://www.financialjuice.com/News/9865722/ECBs-Simkus-More-tightening-needed-in-2027-if-inflation-persists.aspx?xy=rss",
-      "ts": 1795510814
-    },
-    {
-      "source": "데일리안",
-      "title_en": "우주항공청, 2030년대 중반 위성 발사 연 20회 추진",
-      "title_ko": "우주항공청, 2030년대 중반 위성 발사 연 20회 추진",
-      "url": "https://www.dailian.co.kr/news/view/1719060/%EC%9A%B0%EC%A3%BC%ED%95%AD%EA%B3%B5%EC%B2%AD-2030%EB%85%84%EB%8C%80-%EC%A4%91%EB%B0%98-%EC%9C%84%EC%84%B1-%EB%B0%9C-2026",
-      "ts": 1795510844
-    },
-    {
-      "source": "Wccftech",
-      "title_en": "Yale Leadership Expert Slams NVIDIA’s Governance Over Jensen Huang’s Reinstatement, “How Can He Possibly Do The Job?” As He Calls For The Board To “Completely Resign”",
-      "title_ko": "예일대 리더십 전문가, 젠슨 황 복귀 관련 엔비디아 지배구조 맹비난…\"이사회 전원 사퇴해야\"",
-      "url": "https://wccftech.com/yales-jeffrey-sonnenfeld-calls-for-nvidia-board-to-resign/",
-      "ts": 1795510854
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "LondonMetric Property Plc Non-GAAP EPS of 6.90p, revenue of £240.6M",
@@ -11504,6 +11469,41 @@
       "title_ko": "전 BP 회장 Manifold, 미국 IPO를 앞두고 Aggreko 이사회에 합류",
       "url": "https://seekingalpha.com/news/4676223-former-bp-chairman-manifold-to-join-aggreko-board-ahead-of-u-s-ipo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795534779
+    },
+    {
+      "source": "9to5Mac",
+      "title_en": "Here’s everything new Apple TV has coming in December",
+      "title_ko": "12월에 출시되는 새로운 Apple TV의 모든 내용은 다음과 같습니다",
+      "url": "https://9to5mac.com/2026/11/24/heres-everything-new-apple-tv-has-coming-in-december-2/?extended-comments=1",
+      "ts": 1795534930
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Abercrombie & Fitch rallies on record Q3 sales; results fuel upbeat holiday outlook",
+      "title_ko": "Abercrombie & Fitch는 기록적인 3분기 매출을 기록했습니다. 결과는 낙관적인 휴가 전망을 뒷받침합니다",
+      "url": "https://seekingalpha.com/news/4676168-abercrombie-fitch-rallies-on-record-q3-sales-results-fuel-upbeat-holiday-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795534934
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "NY PENSION BUNDLES PRIVATE CREDIT FUND STAKES FOR $4BLN CFO",
+      "title_ko": "NY 연금 묶음, 40억 달러 CFO를 위한 개인 신용 기금 지분 확보",
+      "url": "https://t.me/marketfeed/1084628",
+      "ts": 1795534936
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Losses From Paraguay Bank Failure Could Reach $1 Bn: Central Bank Chief",
+      "title_ko": "파라과이 은행 실패로 인한 손실은 10억 달러에 달할 수 있습니다: 중앙은행장",
+      "url": "https://www.barrons.com/news/losses-from-paraguay-bank-failure-could-reach-1-bn-central-bank-chief-486c51b2",
+      "ts": 1795535001
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "Anthropic股价较IPO发行价跌5%。",
+      "title_ko": "Anthropic의 주가는 IPO 가격보다 5% 하락",
+      "url": "https://wallstreetcn.com/livenews/3205113",
+      "ts": 1795535003
     }
   ]
 }
