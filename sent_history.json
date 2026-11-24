@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795519816,
+  "updated_at": 1795519973,
   "id_hashes": [
-    "1f4411b535923207ccd1a0989a542ead99c01a77f2649f7196a068e0cfdffcf9",
-    "7a81559451b803ab3e362cbe586293fbb45ab7c580b2175ff9f3340998112e4b",
-    "259c45256ad03c7eb2394066e0cb10f758c260a4c01b0962af978a635b10b0cb",
-    "64e8cea1c0e06738c82d66cae06f25b2854e4b446b4f6d1faffb71d1eefd0887",
-    "b2089187c0800cc8477fa613aee93c33bda346210850b336ac7544a2bbfba8ef",
-    "c26378837b4358a0be9af1b8e883ee80bd086428482d2588d629358a57e6d213",
-    "b816ae8672f256d9e899249fa5689e1db3812127d37830c7952c32b2afff0e18",
-    "e1623818f42875f074e724a815f2b03920878a636ada37137d1169a6de8091c7",
-    "6c611823304f458526177484e47676c32b2bd0e75999c93fe296135d583fc2b4",
-    "0186b3c12bd8d830dcb79a8267753044fc3f19661c02a4fbbfa4b382bb2255fe",
-    "1d13399269dbcf70076de283448e64debfb06d56b99d9d5f3bbfd45080778c57",
-    "0f6b0af0230f13d4b52f1dd52f790228a45d9cebb2e9c60f382c4e5dbe333037",
-    "232d57504d4125e655e51ad2c032c60d51f39c7323739c1246b85455928fca40",
     "80d0d04abb7602049024593418690c7ecaeef9af2896a6a10a3cc332862d2732",
     "2f12ffead2723e034d8c28f0c1a14f7fe137da7f3eed4e5f1e6ef772edbde4dc",
     "cf39d80766646e4e219237add60446273be73e29f67e1e0c6b6b21f94b9236a1",
@@ -4000,23 +3987,22 @@
     "34d31fcedbbe072c894122bd582e32f11aee610e55906aa8e5f465871ba4da1d",
     "725b843c034ae2619096b44c74fb99965c7973278ca5e15208ead91579b3d114",
     "71225a4081f9bb16a1d6410fc78a600665cb468ffe7a959ea3d837c87a4a5c53",
-    "3443798215c8d1da86a9bf753859ee005438331e8c41dd02031560af6224f816"
+    "3443798215c8d1da86a9bf753859ee005438331e8c41dd02031560af6224f816",
+    "616e4c1d77b030904fe6dbe93ec9004830040c15142066ce86081ade41d15995",
+    "be1291b16817db232925e9132708d0bc5fdeeeca7fefa2fe35d4b8dd7aa610d0",
+    "7384377512f43bf705a4de1133b3f757df333ac5220da4dbfc6ebebf10c98a78",
+    "6c3645bf18ac87f56c70eef0b8b997fcbc2a24a4d75c80330b04f97b74b23f4f",
+    "652c1c07c521d6e62aea8d117321fbc592ff9b14fec9934eb7e660859bb5966b",
+    "6f434d82a15877ce6da6d3455e86f650b6076217cbe9e14ce77386fb1fc897ed",
+    "ea59933e7f30b53e9b0db11108fb4d84b006c42286134ecbd94f9c286697d921",
+    "bf125baa6085111ca5f5eee3a0a7d49764b90d5149802cb87456028b58bd61f2",
+    "f1b75cc7a154767941559b360794ab8511bc28fccb055b0fe0a88275826ca1bb",
+    "80800fd91ab3a5fd5ab1c430b6a0672f09995b519aca9b67b6173d2d7fcc66d5",
+    "2064cfe5162526a15c24778e5fbf82d71d2ab769c5cf1bffaa2144f165239b88",
+    "b5eefb8fac03258ea62f52fdf98e226b6622b8e995bbc2866b496d75fe3b31b9",
+    "67eab8ab28e1e3a40acbd3f38fd9119cd4fc7f7f17880a1ba73140e66667ad1b"
   ],
   "title_hashes": [
-    "15c05208313dbbab0a1d0054cc88cfe52ffe5643192158f75763399815f7105f",
-    "a4f7191e83cce1e41f21b941a0482578173474ee1884ef1d37750a7d905f2418",
-    "e1c8846aca77583e6ef1e83b2abee9d7adbce9e0068a38a5f4d2086ed1688076",
-    "b96cada45e1c97c97bca1f9b1f60e9b95ee30570a8ee25e46e982b0fec37a9ee",
-    "7770b9ed893ea6b2eb230da9e0c044e0fdf4e832da8ef07d7e68e487bfe71545",
-    "0a342e471b9524f9fe3090bf32026b18d36f37e5711e16336f09419aeb2a921e",
-    "61f29253647ab34c9dce361e4a74bbf9a185344c874160037bb56a7681d8b888",
-    "6d6988d0ff5bf0021ad15c6ed3eb20eac553589ab5b84ed56331aeedf745c148",
-    "1bf74000b46796a058cbe6ffab132181f235380810e1be990fe5737273256e7d",
-    "eb1e422073417c321dc6baf145a90e61b9038e43c023e1c1284a7bc3b88dcb74",
-    "13db7be8d06488a9239fb453cb22c69b3d21bfc5470637f0aaa16449e658f742",
-    "3fd7176808f4bf4bbdb0d3035feffede1c4e894f1ed28aeb040ad0ed5c510093",
-    "6bd6c8ea04045eb591c13da0e80f144c960ba4e7d502d2647a090f342f92d4c6",
-    "9f708eae23d39ce246358297dc401b24dd32ff885f0e653c01bb1584edb19645",
     "56ecfbaebfd2e9dcd670ffb8cf0dc88db1e3b73c9b7704fc969c1104a0901796",
     "12f9475db645a21234c5ebe9deace7ed5670727f8e7a9f6db3fedde08c884966",
     "1caf7ea00b406a3e0c3d306b7a8596459d167e7344cc735defd1797cfc3f2c01",
@@ -8002,30 +7988,23 @@
     "2421ec09907fdfd8b7281dd992539df730d7ca8fdaeb5f5b2630380b842863fb",
     "55fb4e163cc663ab01183ea0d5bb7757b2138129f76dc521ca086ed00c6c812f",
     "fef9221e1eb3c2504f3ad5061e0bba24af46ec0dcbdae97880a314d296dd2b9c",
-    "2c868b8481269e8c47a0eec79301dc7db34b0808d2428a67b161d83b8ae3d20b"
+    "2c868b8481269e8c47a0eec79301dc7db34b0808d2428a67b161d83b8ae3d20b",
+    "d38123fa1ff6bbaa46f01ddcc272650900d3d624759a8763cbc356c7f6b99d96",
+    "c1377d6721e0a25e9bfe8f46668fb74319a253b9a3cef9711a68c2c6f5d48c34",
+    "97f2a27db6a199d4fa67bf522b1184508e656c369f3dcc4f0a2157bdc91821af",
+    "5fd6f424fb091f1d642a51243557b880e39e42bb5790f7b84d9a624a476469dd",
+    "7524ead03ecb6d9ab3956e7bbd33a5877ca08e8baacbeb0146462644191b22b6",
+    "106e2d4de9472a4a4feb63fdbe3252d2260f2349e21ee3e897f6aa06c4939379",
+    "a83d43a7050b0480c7a8b1a98770543929f06a60a3bf77faf42924ad427c5522",
+    "d14ee1a1f910bb449fde41861fb94cfdad675f7f4d3d201e58fb5bf89e9f4bf7",
+    "517340e4bf07a8f534ed9aa34e11b1e7777e9d7f2ea3ac0c4dabcfabc32d6f1f",
+    "7759167133173fb6e7a48f258b664a9b4861fed55d48f249e046febca0c562bc",
+    "1b42aea611fa3eab5f06c06ba28d32737fb3637e9697983ca44bd5190a11c59c",
+    "ab878511c6620ccce34388240b28fc35d714cc8db54d45ecde9c550d031b2891",
+    "b46158eae4a73930b8d44ecbb6ea27dc6f7f69d8446b121246651935908ca044",
+    "4a0f87d0ad4ed1dfd6678537a10630fc5d169cd42e8de2cb90c36427f93b72d0"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "헥토이노베이션, 자사주 1% 직접 매입…\"중장기 성장 자신감\"",
-      "title_ko": "헥토이노베이션, 자사주 1% 직접 매입…\"중장기 성장 자신감\"",
-      "url": "https://www.news1.kr/industry/sb-founded/6363661",
-      "ts": 1795479031
-    },
-    {
-      "source": "지디넷코리아",
-      "title_en": "젠슨 황 11일만에 엔비디아 복귀…나스닥 6.5%상승 마감·코스피 5000선 터치",
-      "title_ko": "젠슨 황 11일만에 엔비디아 복귀…나스닥 6.5%상승 마감·코스피 5000선 터치",
-      "url": "https://zdnet.co.kr/view/?no=20261124085722",
-      "ts": 1795479035
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "코스피, '젠슨황 복귀'에 5~6%대 급등…'5천피' 탈환 시도",
-      "title_ko": "코스피, '젠슨황 복귀'에 5-6%대 급등…'5천피' 탈환 시도",
-      "url": "https://www.yna.co.kr/view/AKR20261124037600008",
-      "ts": 1795479121
-    },
     {
       "source": "데일리안",
       "title_en": "KAI, 국방품질경영상 대통령표창…품질관리·공급망 역량 인정",
@@ -11504,6 +11483,27 @@
       "title_ko": "한국의 암호화폐 법안 초안은 국내 ICO에 대한 경로를 설정하는 동시에 주주 지분을 20%로 제한합니다",
       "url": "https://t.me/marketfeed/1084445",
       "ts": 1795519607
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "European Rocket Launches Satellites for Amazon’s Starlink Rival",
+      "title_ko": "유럽 로켓, 아마존 스타링크 대항마 위성 발사 성공",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/european-rocket-launches-satellites-for-amazon-s-starlink-rival",
+      "ts": 1795519901
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "ECB’s Simkus Backs Raising Minimum Reserve Levels for Banks",
+      "title_ko": "심쿠스 ECB 위원, 은행 지급준비율 인상 지지",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/ecb-s-simkus-backs-raising-minimum-reserve-levels-for-banks",
+      "ts": 1795519907
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "MAERSK: HAS ORDERED 12 CONTAINER VESSELS",
+      "title_ko": "머스크: 컨테이너 선박 12척을 주문",
+      "url": "https://t.me/marketfeed/1084446",
+      "ts": 1795519972
     }
   ]
 }
