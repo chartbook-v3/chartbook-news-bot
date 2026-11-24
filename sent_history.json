@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795537329,
+  "updated_at": 1795537483,
   "id_hashes": [
-    "51d3ea9933f3021bfb6341b57b7cd071ada1ff8e28fd0dfc64979873884fe512",
-    "34733384bad6bf1b5c68ef14c2460da0245771c4bb83fa25bea9b5993276f002",
-    "e10106c0891b43cf8be6b64fc756fa4a46e038ed0e9bd41f4d707636c69853a8",
-    "9e202f8bcfbff2ba6954f4368d7c886286466920de7e6cd436d0bdbe9fc118d2",
-    "589469f41eda9f7f13c368697e54429c37e35a1e5fc8787142de4ff36d9abd5e",
     "585feb11a778400978c90d1d403f30f902db4778a667d4ee2bd625dc04d97276",
     "98550fcf06be092e38cb5665778d7b2c768861d8ef63b82858586ce2b4181ba3",
     "97356c5c36eb3dcc226c1379a9ec7e8893b1a61c49fc39aaa52e74b9ed3573c4",
@@ -4000,14 +3995,14 @@
     "f00a614d9b8b60fc7b87616f999386f5f349049cf4f752a19a3f218c0d5f4b7d",
     "9c7956b7fb6c07f9dbfef789351f08d65fc9ea8404bce0155b1e2b1403834b56",
     "0175fa696dbc3d13969f9c47d21ba092441748c4968b61a420cca9a0fd944683",
-    "618bd3a6bafb3e52642f8364b36ff474bc48ddc4dc95657d200981f6ba5b1a3c"
+    "618bd3a6bafb3e52642f8364b36ff474bc48ddc4dc95657d200981f6ba5b1a3c",
+    "945ecc604d87abc71292aeb8e62adbd0fcb59021ff784cd724c3f0568258c86f",
+    "9fefd6fd063011409530c9debc9473d3b4c70eac978a4c0a8b0ddbd6a2c03e8f",
+    "143a1160a549f501b2f38d1b393c0b5255f91909c63615c79f599e33fb455661",
+    "856c01c0fafc272b779a4da54f3220b0777b0a9b65e684513a32e80125c7fb20",
+    "7f7daf8f302f1c20129358421ca13845acb58fe01369c9ad4e5340e5a145aa9d"
   ],
   "title_hashes": [
-    "574386c2a3a22b5b760bcb2ef611ccecaf5c06f19c9616576a24bbc9a1668729",
-    "546fe54e4ee3f6a953db37c8a49346ba94f14fcc37d27f31283affac9ca6ec60",
-    "e9c62c7c4b78c0fc9c706db52b3acc2d922912e25746209c07b3e2930370ec36",
-    "96ccb6e153caeb40052098b750ddb7d3b1fa95c0e35eafdd37c5e3e3973ab190",
-    "147135ef124f720071e32cc8b17ecd2efd20df0d62e28de0a9504ab076dcf863",
     "f32bdcfd349a71435e780bbb03dec8f77dfbab98e68f645cf0bee9b95e1ea474",
     "9e577c8dcceed0ba323616fe6153fdedcd05cc71d3277c66ac9679ca8b58885e",
     "2232dcc975070ff77befab58dad4ddf463df05b1a176439211fd651a1ca17d3b",
@@ -8002,16 +7997,14 @@
     "d543c239dd6d85e20f2473fb3ad5750496d492663a8e3c1cba67aa2f94e8c217",
     "08082d810b06bec1fb989dfa75f82cd410f4e761682aa4fb2b2a16cd5fd543aa",
     "30c9548a9c5b1debf04f183f655315639ffe0df73851765927ea8dd5e881d7e3",
-    "95845a1778c5de125f96204e3f2f586b27dbf9566ad8e55d13159189b5209cdf"
+    "95845a1778c5de125f96204e3f2f586b27dbf9566ad8e55d13159189b5209cdf",
+    "941b5114fd302a11d6e116b88d74d272552233b2292898ec03f2df2d1024d328",
+    "d77b6190cb65d24be71609c0d08a527d891d3b14981c6e2498f68fab532377d9",
+    "a2184bef3f47fd4ece2af83bccc991e72b6f2a20b6a1a9e4eaa1a17f6060c70d",
+    "5e2606184cc06c62193cf7c12fdb4a4d8bb2cfbacd93f39570b8ece1e08ae1fc",
+    "d7da4d0bcd81e6b587af97f9c615c2a1f28a66fe19fcd7e79fbda0c27caa0e29"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "German Business Outlook Improves for Seventh Straight Month",
-      "title_ko": "독일 기업 경기 전망 7개월 연속 개선",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/german-business-outlook-improves-for-seventh-straight-month",
-      "ts": 1795512112
-    },
     {
       "source": "뉴스1",
       "title_en": "러, 핀란드 접경지역 군사기지 현대화 착수…나토와의 긴장 대응",
@@ -11504,6 +11497,13 @@
       "title_ko": "Microsoft 부사장 Lamanna: 이 사건으로 인해 영향을 받은 구성 요소는 \"10년 동안 허용 가능한 전체 오류 수와 거의 동일한\" 피해를 입었습니다",
       "url": "https://wallstreetcn.com/livenews/3205125",
       "ts": 1795537328
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "US NATURAL GAS FUTURES SURGE 6% AHEAD OF OPTIONS EXPIRATION",
+      "title_ko": "미국 천연가스 선물, 옵션 만료 앞두고 6% 급등",
+      "url": "https://t.me/marketfeed/1084662",
+      "ts": 1795537482
     }
   ]
 }
