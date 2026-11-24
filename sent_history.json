@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795553646,
+  "updated_at": 1795553796,
   "id_hashes": [
-    "f379f49784fc50a076514cde272ebde507504936e9e00acd311c48b87cac1102",
-    "4064deefcaff672cca4a6d0ae4994a40e20ba14f3232e487b6991dc1e74985f6",
-    "27a80be3d650ebed57deec0769c73fca6aaa472101c9a24b461a1f1c0812da6b",
-    "d134f6a873ea2d3515cc0603962bfd3538bb90cd1f5322de9c87f7a5a950105f",
-    "f1ec9caf08abb1c77fd02c98d8906721f9d5083d4790280b79bd9d69a5c15f2b",
-    "ef1a308ac831a8de9e9546a0b3078e09d7cf5fd00f9e876a17246bd28777a411",
-    "dbbe3618bd3ab7fa7882709929d682a317998097cbeaf056a8f4733d006867e4",
     "2fbc136dd4b46be4905e451dfc867235464e971dd4497d9d8442a187a91ab45e",
     "b83f9e92ca2528ff309cd32d0f699bf388e9f70c98bd2ddbda695167861fff2a",
     "521329b686ccd67a563297bd5abeaeae4028612d8ca457f55cf8712eedeeb61b",
@@ -4000,17 +3993,16 @@
     "ddb9212efc12f1c2aff0ba5394e8ec87ea755aa191062a1a96394506c54002b8",
     "dd953f788700c2c061e24aa6260f9c6549c657e92f25b9289a3a0775395facee",
     "734bfe1c9752b52cfd5f0992677292dd93e5963710d0378d56c1ba9dda1c3fc7",
-    "d32c81afc593c105ecc76bd97c70fcf71b3bc1e28c0d0ad8480c98d749996e78"
+    "d32c81afc593c105ecc76bd97c70fcf71b3bc1e28c0d0ad8480c98d749996e78",
+    "b865e6bf92e1229dd049ad21349fcd585795b55f714c43c98126a6111de8b49b",
+    "791642ef1b4914e9191fc38088ed6d97b089894be3b998414d2a22216cbce273",
+    "0c071aec80e60d57d18585ae63719793ea494cc4a7d27fccdf1a6f6806a7749b",
+    "cd744431acb5e63ec246455b66de0baf3ce10462d88efa4d65c039a75de13c2d",
+    "a63f1eb7b9004d3d12838af12466fe98b8d8e73baa2148da6969ca9af4e9dfc6",
+    "908018a39add2c6582bccc8b3a5202aa8d6e58e5447f6f8ae3b09569aa58549e",
+    "b5bf3a70442d82dae93305e03c6ad483f96a544ea6eb9c47410c59f5ad2a2af9"
   ],
   "title_hashes": [
-    "7537d54c3ebcec874f2753c91061c142403632b51828856c930102c5c8ee4e45",
-    "a696b169aa321861571805949e9e72c754b26d0f20e89f9b4d0a37c3d0e94f7d",
-    "9b94cd32168f89076ae9845d850c3aa478db1644076a67b8cd84e0f00da060ee",
-    "9c2f1661b661af23e86d327631f59cdf26fb2cc3cc466ae268ea0d2f8ef444b5",
-    "41ecae9b8ba532e2f540468783d173b4bada118247d1cde790cb594d3efe9922",
-    "a1e53bd5bab8be74e800b32fa889f22261440559d7febe08604ef6d98b597eb0",
-    "6e8b8d3e7d6d3d9961a4d58ffee2eb0d5f2c5f50ca94ed214d6c4f82f7b97b95",
-    "29ce44b3be88e2b8ffd2c8d2684c06be4c0ec573018451240f77c1f13ad66cfe",
     "b8c89dff7e31f0c9080e51164af4f194bd4666818faba7c77ec766337003295b",
     "9d90be3357239312a0869b6283c460a26d12dacd4a8b57510566ae74f76cc53e",
     "4d49d62240eceb7d1836f98f77f94d08f22aa0d979656bff72b32b598b9f18a4",
@@ -8002,16 +7994,17 @@
     "f2198a2796ad67cd4a7d3c23e8b9ae91c5f644b7b4e3f2cd209185ae5c35ac39",
     "ae05413afbaaac712b7f4142f493235b8f1218ea32e376cb0b9f0cbd0aee978c",
     "0e2776b0fff710525dc23259977d34e01fa510652035ee4f3e861684b312e0bb",
-    "e4c5936c05c73cea0a4dc3d4ebb80ca8e7e56e78a396613efaf5c37f2c27d4e5"
+    "e4c5936c05c73cea0a4dc3d4ebb80ca8e7e56e78a396613efaf5c37f2c27d4e5",
+    "76c7afb65cc93b17ae8c4143c8f7c779831e02ab6a3cffde557480756da321f2",
+    "89db17be273f0b47f711d17e287c5fc19b7b43b653be98f10a6023dbb7ea7361",
+    "a331617b88f4ecaefcf2a42e0652f1e509ea4bb7b1aed8d3c7afe8ffa12ea9a7",
+    "5d01b2311c076399f46446ace0fa62919c41a105691814aa68ef3bc709bc9da4",
+    "e50d0abea721f76e3d52b4fbc9dfa023d714e688503cebf02979845f26e7f7f6",
+    "8999ac916c6564c829f85df425485c474c7f93ed46da6ec11657a484557c72b0",
+    "61c7129cf696cbfce96b8ce4bfeb77f3df6fc89639eea1c209d5a402c9a80127",
+    "4134f4db5128db201cdc29e25b0d432fdb10a74107552439773b63b50685f7e4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "BoE’s Greene: Will need to adjust policy on the basis of actual evidence",
-      "title_ko": "BoE Greene: 실제 증거를 바탕으로 정책을 조정해야 할 것입니다",
-      "url": "https://www.financialjuice.com/News/9866081/BoEs-Greene-Will-need-to-adjust-policy-on-the-basis-of-actual-evidence.aspx?xy=rss",
-      "ts": 1795525570
-    },
     {
       "source": "MarketFeed",
       "title_en": "QATAR PM MEETS US VP VANCE",
@@ -11504,6 +11497,13 @@
       "title_ko": "트럼프는 중간 선거에서 패배한 후 관세를 두 배로 인하",
       "url": "https://t.me/marketfeed/1084786",
       "ts": 1795553645
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "POLYPID SAYS ITS NTAP APPLICATION FOR BACFENSSI IS UNDER CMS REVIEW WITH A DECISION EXPECTED AUGUST 2027, AND THAT THE EMA IS REVIEWING A MARKETING AUTHORIZATION APPLICATION FOR D-PLEX100 WITH A DECISION EXPECTED IN THE SECOND HALF OF 2027",
+      "title_ko": "POLYPID는 BACFENSSI에 대한 NTAP 신청이 2027년 8월 결정으로 CMS 검토 중이며 EMA는 2027년 하반기에 결정이 예상되는 D-PLEX100에 대한 마케팅 승인 신청을 검토 중이라고 밝혀",
+      "url": "https://t.me/marketfeed/1084788",
+      "ts": 1795553795
     }
   ]
 }
