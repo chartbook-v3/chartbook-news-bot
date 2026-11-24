@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795512117,
+  "updated_at": 1795512278,
   "id_hashes": [
-    "0306ae9e503e482c6e3169580ec0fc18abf1a5fc202fce9981833635eb8f537a",
-    "697e3e4c18e0d428327fbff79a86832ab4b2453ce9b197100b491fb5eb5ce899",
-    "7c28550c44a285ce6ca061757d47963531fd04e098170092b4d6f7650694f376",
-    "9d898576a61245f12210250cba7e84068275e8fdfe59e94e7d203ff05e582ae4",
-    "6f74821e2f728bc4be463da8d4153cbd543c521cfdc4c57de140b9deec267332",
-    "f53f6ea96760adca64a612176173adb8c66a6acbe6721e051303a940091dfd38",
-    "91e3fe20b9cc7630de58a9f294f371cb138a71939f442e01a9d74853d20263f4",
-    "307802271e0ac973ed966afe769abaf0bcad3829275462dedca4bd0f0b09b060",
-    "b875e59f171bc0db3c9c3aa472ce85c29d8db5ce0e4b64a7920e5b899ed4953f",
-    "f0d9fc65425cf2bff2623b62448a393d1fd68a229bdb7e803cd1989862c16675",
-    "2c43204e924c4524ae00ea21dafd6746d5f03d3fe647416bfc451926716a64b6",
-    "5841a7b687aded7c846a84dff0f8fdad010476d251b1c68d20382853fb21eea0",
-    "4f0732b5f063fa73978bc1cea82997efb4f47b3a75f187ecbbec6bd632d080e1",
     "541d78e42d1007c7f5395d326e6338ba889a11b4ee61076028443b0968bdb349",
     "580424012c963c64f7ba602fd2d26fceb2d65da17e7b0217c319aee727febc9f",
     "ddd8c59a7589e1897b79f64ce7ba0d7a3e3d0fb6a23d2fa286fa19d1bbd97103",
@@ -4000,22 +3987,22 @@
     "1fe9e613382e2a06261c9eceaf2b584fadf7a8f2a829c612a965335f4d4cc9bf",
     "c888e9a1f1806dcae1beffd0895efd391a20a138311125026c2fae400e282c14",
     "b1a76c37724d6969347f21b0e1e225553033215359eb5fc17e1ea445f0453538",
-    "6c6d6685e6815923f9e822dc288b586cb4b954365ad3829a340515345f3ee92b"
+    "6c6d6685e6815923f9e822dc288b586cb4b954365ad3829a340515345f3ee92b",
+    "0c8906e24a4249e3e96d0cadd375c1baadf154cae3a2c51e1adf0c20dac760ed",
+    "e9656993445bf723e66f48dd4b82cd4a0355a823409fc5a1cb27dd7492933bea",
+    "e82cadb737925b8c4592789f786859a77764b6223cdbb28ea3d0165e76b13c1f",
+    "117802f4963768af5b3f215fda5cc93741379e1e90784419c63476f69a844a4b",
+    "f6ec8efefcf0109aad018a145d731c28d7aab792c7609463272284617b4bca30",
+    "3d705a60cbf506707cb551bdbfd48c5fe27eac0a8a289f975f8910d74b22df6c",
+    "68f6f628595b00f0c4af79c5df05bbac264a11dac6366a0d2a5a22a0f33773c6",
+    "a0e52441c6661278de6a57f080606ff882c30810fe3ba82e878cc87a1bf650f1",
+    "1d3f41f17b6771d83563e0505847dd90cc0f5cd4fed521459dd2f67bd324f1f0",
+    "2ac49d0bf095d91e6d387931611a94878d008668001d4bfe62fef63dc3b74c57",
+    "3afab6b59b902a221ba4ca510b712dde61a175d186c16f418588612b7e917ddc",
+    "81ea6824a6b2ec4f95d87a6b85c46f5a5dfc49b2e3dddf1b0380d59fc7f55072",
+    "f36c7175be4a9d7ffeae48fbbf01edf07956837e7ea1a652e932cc98fd6c5320"
   ],
   "title_hashes": [
-    "21ac7fddb402163802d268b7941065109d393ca2199615f4d7037c99c11c8b0c",
-    "9a0a28cc8f394e38b45d850786bdaab6ad9dc94a7dbce5913718c54b1c563d48",
-    "db12cc6ed0dc09705acdfa5e03a10438f00bc48b67f8ca6a865b3b8a87314a7f",
-    "a979edf880192f863080df43e3ed9b3a5244cfe39b20dbb25c42ced1eef535f5",
-    "9fe4eb2b6bcbeeb2583f8b08870d51695822ddc1aea1630de9d679cd88f9c65d",
-    "c2a48159686af5b5deb308b6acafc4f9c447708f74e6bf14d450aa5e6915e0b9",
-    "9c10b45a622f4bf727c74681ab7cd15443b6de2cee575258376e6f2859148811",
-    "eec0485ac6fafbc572164112ca2976b2affcbc24e72af441d28efe57fdedf360",
-    "8a26cfa1b76c54641767a36def466ea758e4859542a695dc429d79abbc88165e",
-    "0681c25efedf74b91bbba05514cceb5ebc00ec9aeec9e5760989160306f238d2",
-    "a6fe7e9e6e0ac7b2fc3a7eee5482f4f5c73e409305c2d5f432323b8bd8c2bb1d",
-    "e3dacfadb0429446534cc8f154c8dff4c16c3f4d21e67ba6e8acbaf56252ea4d",
-    "41eb807351ecb6db581ba06617e3ecbf640605acc850fae2ca0d1e644364c0ce",
     "7e70e637e8c6e6a5384948d16258111a289c4e01ca434137f3d661f972f8006c",
     "7fbc6bbfa5740a3b03ae236a86356385cf15ba3e6af7dcccb47078929e0944ca",
     "833fc5c6a17822ee78df23e9d967ad4f7a460136da19b9348cde2f0447566ccd",
@@ -8002,30 +7989,22 @@
     "9620e79c4941083f4d11da444f3dacb7f195e013e92b135e1d8eba10e87abb8a",
     "2b100f31425d8226f1409017c43dc5e72295bb417b899b430fe0492cde7eecdb",
     "884f0548d8d3c0a8f87ceca4afdf5b6c68b49752bb085b8c9b8970632a4248a5",
-    "1d02f90bfd8646bf6bdd2c24f1d5910caa4b49a7a352ce0df1f139bc670768ee"
+    "1d02f90bfd8646bf6bdd2c24f1d5910caa4b49a7a352ce0df1f139bc670768ee",
+    "6b3df08d8a73837d397463cc6df3757950f6177756b884304df6f5fcade7b15a",
+    "2faa71a0c5a57c9d0228cb73af4671195f3e07121ab8a74ab97e2b2f386584cd",
+    "8e9bc4dbd8dfb4c3ad0d33cfa092bed9964f5f0d74312b09e64dfbd1f9ff75ef",
+    "cc1c3a11d66126fb3fe756c828f49657686acfa1bec88c121c6614c0190c4e00",
+    "94b1ea15a29a972d4ea9c9a670fa345bfe472ff2e7e3ac3ef444443623cee384",
+    "ab1d625a0fb549885ac927d32598aa56130e84ad5c2930fedb733bd26e2af892",
+    "96f278094a21d5e02837f418137a215b38582741b91b6980c2d75df629859d0f",
+    "fb92f519fee597ebc5b78b8aa9b9f3f116a59047dcddd9d8bf5a78f661b5dd10",
+    "e53d90fee57518edcc0529313c241c534c480fb9b0070004b1c382bec11c9dc8",
+    "fc5c1daaae9efd146ef0c09796245aecdd949afc15d6e6abbc0ae48e8b215ca3",
+    "d7d377b7867343b5b759a954193c497cb41b0dd6bcfb6a336e82353bea621ca8",
+    "a81f14a3bdb413d0e06f5c65b9ebed7737749bf871a4d82791ef7c9da24d504d",
+    "4e290206cb8b54e74a701912f7e4b61f3d63b4dce886700b6f517d87610f108d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Trump Puts a Floor Under AI Trade With Push for Huang’s Return",
-      "title_ko": "트럼프, 황의 복귀 추진으로 AI 거래에 바닥 마련",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/trump-puts-a-floor-under-ai-trade-with-push-for-huang-s-return",
-      "ts": 1795471968
-    },
-    {
-      "source": "글로벌이코노믹",
-      "title_en": "연봉 1000만 엔 사내 니트 양산…일본 대기업 고용 경직성 병폐",
-      "title_ko": "연봉 1000만 엔 사내 니트 양산…일본 대기업 고용 경직성 병폐",
-      "url": "https://www.g-enews.com/view.php?ud=202611240502431452e7e8286d56_1&ssk=2017011301560109486_1",
-      "ts": 1795471971
-    },
-    {
-      "source": "매일경제",
-      "title_en": "젠슨 황의 귀환에 뒤집힌 월가...엔비디아 31%·나스닥 6.5% 폭등 [월가월부]",
-      "title_ko": "젠슨 황의 귀환에 뒤집힌 월가...엔비디아 31%·나스닥 6.5% 폭등 [월가월부]",
-      "url": "https://stock.mk.co.kr/news/view/1204534",
-      "ts": 1795471975
-    },
     {
       "source": "조달경제신문",
       "title_en": "\"러시아 사슬을 끊어라\"… '한국형 GPS', 위성 제작 2029년 팰컨9 탑재",
@@ -11504,6 +11483,27 @@
       "title_ko": "트럼프 특명에 밴스까지 뛰었다.. 엔비디아 이사회 찾아 직접 설득 [젠슨 황 복귀]",
       "url": "https://www.fnnews.com/news/202611241813314605",
       "ts": 1795512116
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "JP Morgan cuts target price of $Meta to $775 from $940.",
+      "title_ko": "JP Morgan은 $Meta의 목표 가격을 $940에서 $775로 낮췄습니다",
+      "url": "https://www.financialjuice.com/News/9865793/JP-Morgan-cuts-target-price-of-Meta-to-775-from-940.aspx?xy=rss",
+      "ts": 1795512208
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "NVIDIA FALLS 3.5% PREMARKET AS CHIP STOCKS PARE MONDAY'S GAINS",
+      "title_ko": "엔비디아, 반도체주 상승분 반납하며 프리마켓서 3.5% 하락",
+      "url": "https://t.me/marketfeed/1084395",
+      "ts": 1795512273
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "IFO SURVEY CHIEF SAYS IMPROVED SITUATION POINTS TO A RETURN TO GDP GROWTH IN THE 4TH QUARTER",
+      "title_ko": "IFO 경제연구소: \"독일 경기 상황 개선, 4분기 GDP 성장세 회복 신호\"",
+      "url": "https://t.me/marketfeed/1084397",
+      "ts": 1795512277
     }
   ]
 }
