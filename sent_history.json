@@ -1,26 +1,6 @@
 {
-  "updated_at": 1795525757,
+  "updated_at": 1795525910,
   "id_hashes": [
-    "c421e63ebb263f1411aaf79b542c60bb1d7c6db35b7702c2874f3903874d64d6",
-    "4bd540d014b80dbdb5d5f944dbb4ed1fa46f81185fcf409a57284ed7c25e33d6",
-    "ad0f491358bc9ae18583277e65299ff64d3af05c0ab35f21e815d1c919bf3c2b",
-    "fb026195b33b53e7983ef035c51e49b117776f0b271c59754b59975c2105cb3d",
-    "551e7cca399748e5474777c68e9f89d21bf374e2a2baba205d8152297eaf5052",
-    "e95c44f184ff1fc47b4455056b636484df991500704acf375488db962767ec69",
-    "0686ef2d46b98c9b8665bfe81247e407bb502ac508d1625c8d2baca7ddac49fb",
-    "5414758ac793788516d5951348880359c2ab9f721f4624868fdf284f46b21fa9",
-    "372ccc62ca8af908e3013d279b1bced15955d51b20e08f4233bc8a15a5ef59dc",
-    "ed7f4f568166037eba15ccd1291ba143289abad176ff3b2738e9ce7cd1dbc901",
-    "1ab2b55b0915329535ad88e28deafe3b2baa1964d04d33726f63e7ba7973a0d1",
-    "2a7d67bd515c0eaa1d59a2582fb7573851bb772564e3b462d844970eec7a5476",
-    "455efc76f1e3e8c2dc0e2c0cad55e7a345f8aee0b9b65060d4e937127786c496",
-    "b24c83c22ab9d9fc0b915a685673045aa456a3283263b4e277fd914e3f02d32e",
-    "01b1f5c6386e7b0724048c9f1a1a81f25c6628d8a7e1ca72311c6b92510890ac",
-    "2596745c581436e27c4255b876d44eb801a4d815474ecfe56a8e5ce1fc13a08d",
-    "a131d94e6d6466caf7a9f2f2a19acd0daf48511ccab5d327d8809c7579c24a19",
-    "e07c17be48908b89b0908b21036e6115efc25b87a336d8d27f3363839e8b79cc",
-    "0df584f911410d46fca8e087f6a39a5fa86f08af4203b2dc515c46849cdc1db8",
-    "f52215d14b28360935b9e97674a90e81c6ad2a666442cbac65fa7b03dbe1597e",
     "8f7e887c33392778dfb9a3b007666d746f8f64c2ce285e171e3aeb0b4e8406af",
     "e07b170eb097753a79558561588a17be31d93ecb63ded9f54575be52f7ab8788",
     "60cfe8877f7bf04c3b1b5b3c362a1a8d9c09496ec4e19c31c7105120c69b248a",
@@ -4000,18 +3980,29 @@
     "a832c5ceaa4bb1c89b80f0667408acf6d1af5aec301dd9d19af30b916b198b31",
     "e68f76b6bc39347b6beab9dbc9ff52dfd1a2ade70a9a1b41dfc5cf3382642afb",
     "18a7a8f220329f5cd383165171e3b1e0118f0f64890d43e88a97e8cede751304",
-    "4300e8f59bf6b91152fd459908c7fbd6d036064baaa8d08759a8b42792827700"
+    "4300e8f59bf6b91152fd459908c7fbd6d036064baaa8d08759a8b42792827700",
+    "abb2cc670e791a37536bd94174dca9e65ac951be9b0389973efbdd134a04cda7",
+    "d9ab3520d7f1baa79fb9d21d802a25b47611d38cd29cac1a9b82439a2cbab419",
+    "7c28b81efbff11493587b38b85f9071e4343a0b4d1f1fc3af75fb1f883cb8d1a",
+    "c00ccc53ab992bea68952d1aa81f051c72e2e0774ec15da943fae8315b897c2d",
+    "f3a264fa3f2fa7bdcb361b11c09c37b301b85d050c30dbf386f49b12e62ddf46",
+    "524a95d53fc5bbaab6427c571356fe5cc8adba97b96819e65e63ce06cea50f75",
+    "1e638c3e867ca775d00feb3a2dec44b8fd82a5ecb5b2cfedb973723f1b839d57",
+    "b565fd14e167565774d3665eca25280f731d55c50a649683077362ad640b020b",
+    "12be3903936892bdc46e90b4d97c8699d7138e5c4a381e3c71d2feb7ab24a498",
+    "0b52faa033e06a3ae3f7a3844a93110c1104754b234f6d25ba9e81bf23a4cfa4",
+    "42305f3f47f49f2007d91dffcac24460ac976e0ada4e2a2e1baff8dc775354d9",
+    "595fca1b856c503c5e2ad0dd652e63c4fc3b55e8fee63a7c0c3d79b9963d3f43",
+    "affe5977603be19aa3cc20e6496b45fa1708bd137d74fae9c05bfdf34d32bbeb",
+    "5e42dcab97ac87ea022d2e4074f5f4bc53164e21facea462f1d20aeffaadc433",
+    "c31177cf3c6a3cf71e5dc62cd1811b4d763d6d6f6d83100500708812d2b45b62",
+    "4e4aefe47fdd673f492e91be551c512734e1894dac91842322c01221fc1f73ad",
+    "e4b556d1f24713e558076e494c70d1bd750f83024f5d833a2c3eb39a0c1812eb",
+    "a95004903ea887fdd50e732f055d9a8a62a653173335165aaef44ec8108026fd",
+    "368584d261d7c0fbf6093b71b6d61b4ed3204954bedc2af4cc2aa813e79788eb",
+    "d68f9a19a7aab8580b6b2dfac14e447a2ced3273aa1aac4c803f58654def908a"
   ],
   "title_hashes": [
-    "daffddb738342a52d9e5dbdac450366fdf50dc38a8bb63a7f0a5f5d9c6db5b9f",
-    "1863aee284e10c3162d09a2294473707be597e45510328c56161979f522e3174",
-    "180fe0fa0fc7dd65cf772c8e4bd492453058f4bcdff0366b45114ec9463079aa",
-    "838afb8655b69dd6d4c23d7c134e439b85eeeb53e98113ad732d9b6f62b5bf9e",
-    "4fc6735a76c443d0a954df8524bf2ca63a8b2abed7ddba2942adbd090b97806a",
-    "86da06755fb322d81dd8b1a87d7b02eb384610b17c35356d2746127a5c2367bd",
-    "74851f168162195ede97bfae0bd7df866caf8a15d05e6bdba65bf36afb880e49",
-    "27bf911608030824dcb9f9e7dc4b25e37fc05ac8a1de2867eebdd3661b815e0a",
-    "8558fc668fb0588eee1c8cbda5f6f96d75202f395757883166b5956833422893",
     "561bac4e52206855a85370dbd69db30beaa903dd479347f2c49471e319c98c30",
     "809aba74c7c55f859684311032e3a1f51068082084c21353b3b9b1f266c412bc",
     "acf529b61dff3e7ab3a36ed33eeba6875d3af6731ddd2c5148c6fa29b4ab5785",
@@ -8002,37 +7993,18 @@
     "af65b48ee1c53134b46bd7a28cac7262254f84dd21c746e58ea4ad1c3243b8c2",
     "9cf28eb4bf3717803b12b1442be3829586e5f8d22e57686b18c063e003abfa39",
     "0971f21c8599961e2001287a9a31bff3165ce1667bd4d1685427fa9de8f2db9d",
-    "670a462dad88dcbcbd357bdccf3b1016a164fc565d1249d21661b9141f0e3c14"
+    "670a462dad88dcbcbd357bdccf3b1016a164fc565d1249d21661b9141f0e3c14",
+    "652f5e7107f5b506d7afb5ae5bcac9834b9c4fdecdfa35afdc371a05682690d5",
+    "ced06b30080753f755505b484badf3cf95183f5574c481d1c427119b3fd3910c",
+    "f6032b71766a6955f877301fb1b8b4356150093e039dd67f4aac090146d442cf",
+    "96e64b63daea871bd31cb26d8eeb52469fcd9696ab238a4758f2497eff4d65db",
+    "f6939100f99b959a2e23c7b5dc100f535c31bacc2405441e642486c90577583d",
+    "85e0d472aea226c82ef8116801d31ef25779a21a75bc7dc58aed57f4a63e17fb",
+    "ca2ec93cb7c250e7616e072fcf6fd2356842a31bb2ce7f000087e32746d99eed",
+    "e15981952fdf028b7ec300d6fa604f6d60421cf3cb2663de79355b76ba031441",
+    "10087b204867d868d422d1a54da26eecc4cc26c5544eb70d3317c8b9e9dc7900"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "US Blacklists Megaspeed, Targeting a Key Player in Nvidia Crisis",
-      "title_ko": "미국, 엔비디아 위기 핵심 기업 '메가스피드' 블랙리스트 지정",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-23/us-to-blacklist-megaspeed-the-firm-at-center-of-nvidia-scandal",
-      "ts": 1795483646
-    },
-    {
-      "source": "재경일보",
-      "title_en": "대한광통신, 1만 5,080원 기록하며 8.65% 상승세 : 기업주식정보",
-      "title_ko": "대한광통신, 1만 5,080원 기록하며 8.65% 상승세 : 기업주식정보",
-      "url": "https://news.jkn.co.kr/post/1118264",
-      "ts": 1795483797
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "国债期货开盘，30年期主力合约跌0.17%，10年期主力合约跌0.04%，5年期主力合约跌0.05%，2年期主力合约跌0.01%。",
-      "title_ko": "국채 선물 개장, 30년물 0.17%·10년물 0.04%·5년물 0.05%·2년물 0.01% 하락",
-      "url": "https://wallstreetcn.com/livenews/3204622",
-      "ts": 1795483800
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "ALIBABA SAYS US DECISION TO PLACE APEX ENTERPRISE SOLUTIONS ON ENTITY LIST IS INCORRECT",
-      "title_ko": "알리바바 \"미국 정부의 에이펙스 엔터프라이즈 솔루션 블랙리스트 지정은 부당\"",
-      "url": "https://t.me/marketfeed/1084258",
-      "ts": 1795490887
-    },
     {
       "source": "MarketFeed",
       "title_en": "ALIBABA MAINTAINS APEX HAS NEVER REROUTED ADVANCED CHIPS COVERED BY US EXPORT RESTRICTIONS",
@@ -11504,6 +11476,34 @@
       "title_ko": "폴란드는 러시아 드론이 잠시 자국 영공을 침범했다고 밝혀",
       "url": "https://wallstreetcn.com/livenews/3205040",
       "ts": 1795525756
+    },
+    {
+      "source": "MarketWatch",
+      "title_en": "The billionaire who bet on Jensen Huang's return has a warning about the S&P 500",
+      "title_ko": "Jensen Huang의 복귀에 베팅한 억만장자는 S&P 500에 대해 경고를 받았습니다",
+      "url": "https://www.marketwatch.com/bulletins/redirect/go?g=b31bd7b8-1129-49b3-a476-d1eee757a53d&mod=mw_rss_bulletins",
+      "ts": 1795525786
+    },
+    {
+      "source": "WSJ",
+      "title_en": "US prepares to raise tariffs on china and other countries",
+      "title_ko": "미국, 중국 등 국가에 관세 인상 준비",
+      "url": "https://www.financialjuice.com/News/9866085/US-prepares-to-raise-tariffs-on-china-and-other-countries---WSJ.aspx?xy=rss",
+      "ts": 1795525789
+    },
+    {
+      "source": "WSJ",
+      "title_en": "US new tariffs likely exclude some industrial goods",
+      "title_ko": "미국의 새로운 관세는 일부 산업재를 제외할 것으로 보인다",
+      "url": "https://www.financialjuice.com/News/9866087/US-new-tariffs-likely-exclude-some-industrial-goods---WSJ.aspx?xy=rss",
+      "ts": 1795525846
+    },
+    {
+      "source": "WSJ",
+      "title_en": "EU, Japan, South Korea likely to face 15% or lower tariffs",
+      "title_ko": "EU, 일본, 한국은 15% 이하의 관세를 부과받을 가능성이 높습니다",
+      "url": "https://www.financialjuice.com/News/9866088/EU-Japan-South-Korea-likely-to-face-15-or-lower-tariffs---WSJ.aspx?xy=rss",
+      "ts": 1795525850
     }
   ]
 }
