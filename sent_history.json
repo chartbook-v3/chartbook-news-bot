@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795524596,
+  "updated_at": 1795524768,
   "id_hashes": [
-    "992f6ccdfd00cf4ccfdae94a7cef866d35978ea5c3b802665032bba77662a178",
-    "5cce04279fa41bc359bab9e022b951046fef9e592fd6f4faaf551f445f823a72",
-    "c710fcbeda59730e484bb8c4e1f0338cee4d0afe5e17aa0982ca5ef8631530f8",
-    "fffb020599edbd43a949fbaa6489463e1c53c5c6fa52fd08b715d4b193c08f26",
-    "6df540ca79ae78e0be6340776c267db1e5108f95da5d0ed8b54ebc35510a5e91",
-    "67c7212a287b1a240497e366b78a7d36ac9996eebe85524f75b4294b171039fc",
-    "c0af83af7cb93541ba5e7d3e85415aecfd90e6b0daccc3102d02083682483299",
-    "14557a7566fdb954a4e7219de01548d4b822d6d7f25e0e9b1b2c09a1b94dad2f",
-    "5b92ef411e9334831278a434fb89e5cdf14a0887185f318d65970bb6d4851427",
-    "e5190dac2f2701791b0a629feba0990369ca938ca2180d7bf406678f665b8ef8",
-    "966f4e2899fc67a61fff3d161e9fb62b0e57d490ce1e43e8436092d2e1405a10",
-    "6d290b31707b8a12fe0a64dc1d4b5ae6fcdb850ded0591dc68462a9554b8d8f7",
-    "9efd60a9bd6a96582ba79edbc579f2d59bfcc1588ee474a385d6cbef7503d360",
-    "438ccc539f6408cfa917fb252af1ef7ce871335ee813c7de5d80f19520f03d8c",
     "8fd20c7baeba6f6cb3a0e3eaa8bfc53eca423cd12736cc0e6ff8a690f3cf7a70",
     "b5e4670856ae2e777959b90818527809236f17a7a2b36946f07842ede9faa388",
     "844cb6ae77ceba8042b0d51ad6e6280884c3e50f49a67840a08d0012064f842f",
@@ -4000,22 +3986,23 @@
     "94bcbb46b222cd3d86c4c7b98b73b225a2c78f6ea11998134a06aba2ce435113",
     "352daca912cbed5ac2b6081ef807f82952338eac4974a8693cecbde123218caf",
     "188de1f53da35b662efb5d8da8e50895cb64aa52bbc98dbbb193af2f27dfe2bd",
-    "091c5edc95d15aaec4af8ecb7ebe305f0827531ca38906016bad182c56355e9d"
+    "091c5edc95d15aaec4af8ecb7ebe305f0827531ca38906016bad182c56355e9d",
+    "73ac49397d3fde352144500e8987775cda197b27b6fa6d66fd8952be50f98f13",
+    "bd69561aa05a1c078a95fffe87ad00651ab97971cce791c35e656102610329ac",
+    "846bf31ec59d679e64af67bd3848f197d5f5a9daf5afb849fd891c5d6f984bf7",
+    "fc2e7721f2489e33d3e4d50bc19f0242181959a9101c67cf299dbc97b47ce1bc",
+    "810b79dea7165e0f85c405b3722d473216f2ffebf7831d994e601a81a4b996a3",
+    "2479f238c14a40be77d78f0e8cf0da21c627aa41b7c803687785e3e026f1e052",
+    "10a24b04ba75d213961b6cf3478ae3d78c652fa7b12e15eb160b719e5e818259",
+    "c5f534ea13424154c4e8f27c4bf986137bfae6a85332fff4af331990b99e09ec",
+    "606fbf725143b7e09cbe6a4271ba902e3dd79dde673a9170779fba7d2d7f5af1",
+    "8f7449800fb4323893127594432683a39298ab869bc3a6f18818c048d207966d",
+    "d25bf9d5547df905e238bf1d64c9c9d8c67ef318230b8ac1f45f126a04b7de15",
+    "b735c1159c3e3f86fe6fd47ccebc8fcf9d45c83509fb2800ec38f09911f4f590",
+    "973a439368c07cdf932b1baabe00ac0c30475d6cd0c155f1d6058c68642256ce",
+    "4cc55eb88dc000ef578dbb23847588defcc042dcd56c8c4eee649b4a1c9fdcaa"
   ],
   "title_hashes": [
-    "ca6ce941720530e3a309e8c1521b99a7a70439bec2b552505164379b806b3e2e",
-    "8f6a8ed06667c386e8ae7ff7c6cd6631229db151b43a97aad77f4b1fd57b3e8f",
-    "5e60865dbfd1199765e718b8605960ea27dff6e7d02e9dfcb3d2256037932f0e",
-    "dd2799732b473a0cfb16b9cc28d8e3f4eac495a5c5cbaa7bd92b5b7ea61b7fce",
-    "0635aacd404afddb4eaff57cb4c3f6dc898635b80c35f235872d1a8518dea5dc",
-    "bc3c6f43c29ce7da6c401a3484b22bf61fdbb45d82dd1c51af648363764e2e1a",
-    "913e51cc9288bf3d18dc8289df7654057370ea86ec35ba21cd7aee6c351e248a",
-    "0648714ca52b1e5d054db732c6bc3ece453b0f413b0c2decf24d4268c764ee54",
-    "3afe7eb2786a519404383e13608a868fcef4d19264700d80c9912e67facc65c8",
-    "b34d4a3efc467919ddecd39c120bb59469290e836fdf2dc7c967e4fac67dbbc0",
-    "97e19240aeb823da1c4a06862637e4edc63a4474ae54b0bf5d5f6ebcc51412e7",
-    "e14a4e474cb65bea31055f23c32a4b2b7d6b1801e2539ba5a2053f89d804ed53",
-    "1bc681b7cbc17ef31a4d938fe23c7b4824600fa451cce9dc45309dbfef49db5c",
     "15e120b88f9264be322717ac0d5a27e1af5041136a1849f4a724df3360f8a23d",
     "f4c32183acd457a87ef388dfa5d80f88aefbc9be90ae6232c21d0fbe63ef7944",
     "7c846d53b57429abb5e788223eb7dc7adb4b8df90551ca99f91f1456e8508aae",
@@ -8002,37 +7989,22 @@
     "a9d2f88de5c258738eaf29ced5549ec7826428cc7b17ac59a23f7ee28a9ff0bd",
     "aa4bcebd60eb9fe48a339d73c186c348e58ce0aec8ab48ba293aa5f4e5fbaca9",
     "62c5e7e96385dc8c1c25d2c7a5cb6fac076bcda33104e95640412fffacd42d89",
-    "f3a28128d62119313f8e7bbe2cb1c33ca939c54e7f3b279e494bc64b5c5c90f3"
+    "f3a28128d62119313f8e7bbe2cb1c33ca939c54e7f3b279e494bc64b5c5c90f3",
+    "e5e9cad000ca533bce7310c2fcfdacbef1f72cf6d155554e84c2a1c8d6dbf455",
+    "0482d0d10a1e535413412721552c568497f3733be55cba76dacee52b7e8f31e1",
+    "e64a9b625a549c210b694a382189eb28c655e57bf9a5bd71e97ed80b860c20f1",
+    "3627fd673e571aa6d668eb4d96a8a656da854bedd2dea487075d0fba38b675d2",
+    "e80055b515740a934322e54cf729b1e19f35ae1a0fce9f925baee22a8b652b69",
+    "4dcb8c2dc27a6fabcc37b31bcc5f9a29c3d34dd1ffcf03199d635830d927dbbe",
+    "f47eaa082d66ffc7330d03ef283345e8a854ceada68de6f78dbb33afd072ae7c",
+    "09526e9eeba5a47fa2a9a83c37d8f4a0f0a48354cd6f50ebd1809da0bb4c0729",
+    "c3b66c524ebccdb4cc02e8321d5bcee19bdf3a934d0309b1e1fac633c43b4f2f",
+    "a3a4889ba08e73faf588d2f5e855bbb45fe74487c65de01ef5e53d2771b08149",
+    "5e66c64e8d4065e3ce623913a5c2b5c7d33b7e898ce3f6c1541a3c054f496f46",
+    "dd908792b15608b3f8f4cac6e6da535e32887bc278763414f88afdbd2a21748a",
+    "5ecd98946f1278f3f3904c4f8d3b8f51a1e777631fdbe133ee8ed937efd1ba7a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "최운열 회계사회장 \"IFRS 18 새 기준, 영업이익 변화 시장에 설명해야\"[제18회 국제회계포럼]",
-      "title_ko": "최운열 회계사회장 \"IFRS 18 새 기준, 영업이익 변화 시장에 설명해야\"[제18회 국제회계포럼]",
-      "url": "https://www.fnnews.com/news/202611240927081080",
-      "ts": 1795482388
-    },
-    {
-      "source": "지디넷코리아",
-      "title_en": "\"GTA6보다 못해\" 무더기 0점…메타크리틱 이용자 평가 논란",
-      "title_ko": "\"GTA6보다 못해\" 무더기 0점…메타크리틱 이용자 평가 논란",
-      "url": "https://zdnet.co.kr/view/?no=20261124092222",
-      "ts": 1795482415
-    },
-    {
-      "source": "한국경제",
-      "title_en": "“5가지 우려 해소했다”…글로벌 IB, 엔비디아 목표가·투자의견 줄상향",
-      "title_ko": "“5가지 우려 해소했다”…글로벌 IB, 엔비디아 목표가·투자의견 줄상향",
-      "url": "https://www.hankyung.com/article/202611246099i",
-      "ts": 1795482475
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "AI·휴머노이드·전기차 핵심 '차세대 이차전지'…기술 주도권 잡는다",
-      "title_ko": "AI·휴머노이드·전기차 핵심 '차세대 이차전지'…기술 주도권 잡는다",
-      "url": "https://www.news1.kr/it-science/general-science/6363582",
-      "ts": 1795482478
-    },
     {
       "source": "9to5Mac",
       "title_en": "November 23, 2026 – Apple agentic AI, spring product rumors",
@@ -11504,6 +11476,34 @@
       "title_ko": "번스타인은 황의 복귀와 평가에 엔비디아 다운그레이드를 취소",
       "url": "https://www.streetinsider.com/General+News/Bernstein+reverses+Nvidia+downgrade+on+Huang%E2%80%99s+return%2C+valuation/27390947.html",
       "ts": 1795524595
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "BoE’s Greene: Tighter conditions doesn't mean you don't have to act",
+      "title_ko": "BoE의 Greene: 조건이 엄격해진다고 해서 조치를 취할 필요가 없다는 의미는 아닙니다",
+      "url": "https://www.financialjuice.com/News/9866045/BoEs-Greene-Tighter-conditions-doesnt-mean-you-dont-have-to-act.aspx?xy=rss",
+      "ts": 1795524688
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Quantum X Labs deploys QEC decoder on Nvidia CUDA-Q platform",
+      "title_ko": "Quantum X Labs는 Nvidia CUDA-Q 플랫폼에 QEC 디코더를 배포합니다",
+      "url": "https://www.streetinsider.com/Corporate+News/Quantum+X+Labs+deploys+QEC+decoder+on+Nvidia+CUDA-Q+platform/27390964.html",
+      "ts": 1795524754
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trump’s Jensen Huang Snapback Carries Deeper Risks",
+      "title_ko": "트럼프의 Jensen Huang Snapback은 더 큰 위험을 안고 있어",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-24/trump-s-jensen-huang-snapback-carries-deeper-risks",
+      "ts": 1795524760
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Anthropic has room to run despite volatile start as public company, Wedbush says",
+      "title_ko": "Anthropic은 상장 기업으로서의 불안정한 시작에도 불구하고 운영할 여지가 있다고 Wedbush는 말합니다",
+      "url": "https://www.cnbc.com/2026/11/24/anthropic-wedbush-outperform-price-target.html",
+      "ts": 1795524767
     }
   ]
 }
