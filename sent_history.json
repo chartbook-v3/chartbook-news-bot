@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795514812,
+  "updated_at": 1795514964,
   "id_hashes": [
-    "d79624e73e8032c488333c743f4537b76891d996f2f22ee6f8642230f577ffa3",
-    "7ef9208a2bbdb5338f72eebc46c863f2789240734ef1e0c840f37e46c735efc1",
-    "ddda17f590df99909e9aa27bdd9a20fe5ccd7df54645c80557c2a7afa54f84fe",
-    "626e46a53520ebcf9676ff16ed4f2d2df9dbba0a989586e680d781d7dc65fd86",
-    "2fb7c1fcfad06f922cf7c45e4cbe506dd4c857b057798871c40c14f8ba92d541",
-    "25ce6fe6f169dcdf2a847e3475a28b151be1e658335554f61940ad66fdb31bf2",
-    "90572adfce227583b333eb7bc9a286f2c29bdb4f51d6bc438f8807f2063dd9b9",
-    "ac334dccc3914f57a64b9d1ac7d51a50355fc2912139f9c3cff928fb6af62e0d",
-    "6a5ef5dcbc14634b07dd02fab4531ec6e13393ffde9721ac4574124acc1817a8",
-    "cb0195b304788598c3a259f19e294f3d99f93e037e8b717c2c2fa23f4371972d",
-    "d409e619bd2e04a204033856be6ea7e1930aca37e4658bd6cc2bfba5ffe157c6",
-    "622a199bc16931bd85602a25f7195bcbbf2380dc6802b20d265ef0dcd143631d",
-    "d84b20b0c93ae4ba9e40faec48a1bd22bba073cad3a299fbad133d4f191d620b",
-    "d4d17baf8f628114be3b64b3c3de6130317e953bd982f78269ec29e83918245e",
     "fef8e834e005fae6e38c7b6f502d9960b9bb765212bc534f4799b07d79a14cd2",
     "e45ce4e2df3acffbb700cb4687f82b14a44bbc3544c1d361e85e8315fbe77c54",
     "11d4c80421bc90fe75af41c9b62ffca697999329c40229237ebf9093ba697fc4",
@@ -4000,24 +3986,23 @@
     "54474c7c3950af5e3b4d24abe7ccf74544ec26b6ea506facee671fc22777f971",
     "7c89c123e44923d7144e43e42641603e44b8f1c0968fa14f0d713a064ca02320",
     "658bb68e6a22c49d7e41840818bf2fcc816f7d712cf348457ff49e8edbb62b33",
-    "1261bddd3d45abf45b9b4ee34d4c2c1527a1a7be181c676a71613c3f02e32d54"
+    "1261bddd3d45abf45b9b4ee34d4c2c1527a1a7be181c676a71613c3f02e32d54",
+    "8d9bd576b3669024c622232956cf0796b409e70d1b6d04ef63a6796a190fa19a",
+    "f16b291e3a09a0688277bd2358b4be9f437157f5f915b5dac166e47236173eda",
+    "06b82252587f42a434a3d45df58c4ff4de1c4c65f5614e314889f13e5b2ede26",
+    "8b5493c5c43b8ba22d4a86e73b966fff32cd00db3612054260fb5208c7f8f4d1",
+    "89559f7fce3c3d69a382e77ebf8f2aa870f1e3a20a1fcf68f89ab4cb3f920e00",
+    "8da78416acc029599046ff3d5fc35571ce8d68bcbffc2c045ed7f8dcf337ae67",
+    "8d8e22b45cbda3c3ebc8313fc37b005a6762a12cd317c3732a9bf63a86e1fe0b",
+    "a95d6b8e878351736a82ec7d2bcb03306594e326624e85434b4e40047f4ae077",
+    "6f46274878c6047c2d811aa10940688b34b28deafbb66ae563aac057af0cc11d",
+    "c18a4229e465c8e1d70c0323d26e35d2fc090a3a0f731901759cd00431a51ca7",
+    "ecc51da5a8bd11daa57efb011694186ddca4d8fe8f7aba0981271058ca790c60",
+    "56756f6dbc2136bbd8032f6c7e292acb4446a6c3173cbae52a99c07816d515b8",
+    "32da6570d4714760f54f70edbfc56bd057ce9d131ebbfd47e8e2e1c0beae4194",
+    "fa0a8b743636b84a6299476d04da8c5b2a06ef6cb6001ae12539ec82590a4a5b"
   ],
   "title_hashes": [
-    "a08a1df8244d951d955f9afbfdcb4ae175db35f3b2e3040166f01b49edc0a32c",
-    "d2b7cd2bbe6fbd379af2497c3157e309beee3b36f8793a63a8466c6e203b951e",
-    "583ce9c190673b63225be9edd3e2b8192b9885579355e2e17ce50e0b97cb2c31",
-    "d2e5a6ff1ebe1cc1463c0f52df13c7d4d2ca75d7e910099773f691202c05a8b8",
-    "46afed324a35e5be831c8244cd0a59d640d369f6a66c82a0acb9729bf3b83e90",
-    "9722046a8822be68895cce3a78fb6ea052438ca8c2f428b4de7c061769779858",
-    "361c22b4e9a407b5c520538d14d2faff2be150d1954c2664524c367b83a609e4",
-    "4ff0d4083a88826031421573dc994dfca123ff02ebbf6d1ac5d68445a8657acc",
-    "13a19a3e3f8dec7335df02bdcab87ebde611a718da3cf3526987d537d9f0b1d6",
-    "b678817931c36fd6fa2d48b8fd587265ef3dda1fca0a7b11ef6ff8134b4b02f1",
-    "6d4c66f9cc323ee8afc7b56a9dac748a1ab65fc9de2860e3963fa123b69a8e58",
-    "b5c806b8401e0842c17e9a2a7fd32d0a91f09dac264aaab004ef1b1ebadc4609",
-    "12ab6727a1c387a6202dcdafade5af9688de82faa26677be787c5354fbbabab6",
-    "f05a184ff3fbce8ade3e2a2de0b050be8445596235a7f574ac125a9b80d9b57b",
-    "f91738b88dcc2e4202c934f307f2a4d5fe6af1b46efb34c69b9a7c57b3d9e96f",
     "b19994bd0eca57c3100d9f6c02c9635629ce148148d2ebde340f833289eee030",
     "8dd951a51b2abd6b5296e172409f7c56c7941299a3b643ff9621dd4d99cf5501",
     "03d904f19cad4fe2765b7ee570c23bd1f886bd4306af2cd0f0b83360d293c270",
@@ -8002,23 +7987,24 @@
     "be6aaa6f6196adb366f00341f50fef7a0d0c3c610d9e4875a0524909dddc7641",
     "03d2cddde052e017d75d3b8d10b351827d35e45676d32dfb60dba95181077575",
     "0e9bbf3fc0c7ffc8778b5012c24144220680eaccf6b1775762c68bfe54923fa4",
-    "b18107b7837ee0b16ee14a3e564d778e9076c08d9e79a942d16fc597be5da721"
+    "b18107b7837ee0b16ee14a3e564d778e9076c08d9e79a942d16fc597be5da721",
+    "dd6c7e8995c1d52f20dd52ae1a663aaee2645a06816e4ce8337feb1ee74a4bbf",
+    "442f3fa50f72d24651f9c6b1b9a450d43357630ff196ea4783d06b973da42701",
+    "0926076282c4a75e888a632bb714c1ea671d49a32d7928d6ea1a49ba9e65b902",
+    "6dc38435828c139de8ad382380f88775c192027c17903b2d635bcf7b4bbb9da3",
+    "81e2befadbc9cd61362ab55275ce122ccf552a4257ac21df5ffdf1207b302f18",
+    "bd3fe960f5fc1e3883ba8415ead35d004ee5fee6cf36c149c787d1a94779ac6b",
+    "e3a08166bc1602b223fac24b9bbc45917d318302c6beb5874399619e0bed7fd8",
+    "58ca46bb2b9f4c45f80f524ff973c1be349975d3d5c94a0e35e71faf62b2be55",
+    "08319524af882894e0cce3b68e065dcc3c3234fbbb2ded46c11da02240eee6b3",
+    "a48df4c5bd76636e131e637f31234e822e176d1afa89f50248cab8b3eeb456e3",
+    "2a90dd57da2ca24b8611d390a8944503a7f6807e528283dd1e48d13e8fa51add",
+    "553b2ac6f485256b737434f6c2ddcddfdae18de22f4c84d7497f574504741bc9",
+    "a01a8c572dd9ee73e6bc5d1bfe4ffd010a49a213e926d1ebc5c1af615c791241",
+    "316b011da8c7603d687e71cc9744601454e1362c0d61ba563a87488a04950792",
+    "dabee64ea2dc03e984c5b9f180757d8fe547b64b04342fc1d449055339cafb33"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Jensen Huang Returns as Nvidia Fuels Historic Rally",
-      "title_ko": "Nvidia가 역사적인 랠리를 주도하면서 Jensen Huang이 돌아왔습니다",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-23/the-close-11-23-2026-video",
-      "ts": 1795477112
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "젠슨 황 귀환에 31% 폭등한 엔비디아...코스피도 급반등할까",
-      "title_ko": "젠슨 황 귀환에 31% 폭등한 엔비디아...코스피도 급반등할까",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/24/MVTGGMZVGA4DONTDGZSTGNBQGQ/",
-      "ts": 1795477115
-    },
     {
       "source": "Bloomberg",
       "title_en": "Startup Options Exchange Asks SEC to Approve Two New Venues",
@@ -11504,6 +11490,20 @@
       "title_ko": "삼성 준감위 \"삼성전자 주주환원 결정, 준법 위반·이해상충 아니다\"",
       "url": "https://www.fnnews.com/news/202611241857143348",
       "ts": 1795514811
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "CHINA’S SOUTHERN UNIT TO BUY BOEING JETS IN $7.4B DEAL",
+      "title_ko": "중국 남방항공, 보잉 항공기 74억 달러 규모 구매 계약 체결",
+      "url": "https://t.me/marketfeed/1084406",
+      "ts": 1795514841
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "英伟达美股盘前跌幅一度扩大至5%。",
+      "title_ko": "엔비디아, 미 증시 개장 전 한때 5% 급락",
+      "url": "https://wallstreetcn.com/livenews/3204920",
+      "ts": 1795514848
     }
   ]
 }
