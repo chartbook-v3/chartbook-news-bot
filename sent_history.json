@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795553485,
+  "updated_at": 1795553646,
   "id_hashes": [
-    "0115310b6628c21cb8dcd33c83c29eefed192bcd3c06c95c8431642dbbbb394f",
-    "5b8219a1154d374d1525ca28afcbb635b694b03775e3b250cf1bd5edaa727a84",
-    "9f9979c004deed9b82c3f4dc4b3819e45e8eadda859ca4f29c5835da7014d485",
-    "0fe51a6d4f3a4f8dd2724fc43d7191f8ff06eb4348ea948d82bf634424adda1e",
-    "10ad5cecabcc7f93c83e6f21cbb45cc4abf6092d1561ccdfddfcd954aec9f291",
-    "72858450e98e49a8a471bc6f5a9ff261314221a6b6ea5b86ccd47118433c7c3b",
-    "58605137cd706fb998c05470098594a21b05c2a887a14acb56c8d4f60263604a",
-    "1ad3a15b87bb4c90fd58a3607eada7171aa39ace4293f53251836d2e7d5a0b58",
-    "9d8babbb7308b95c3d6d30f7de8e106b17fcb763e94c215459f954e1a75d43cf",
-    "102bb985b9c335e61f5fe160334eb1c3f08bf72d9db7997023ecb35c47f2ceaf",
-    "e77e0c356bdf9425db332aeb6cb991fc86c4f6463bdced634e6ab2b8c3eea35c",
-    "c2b1b4efd93efdbb73c354f0a9dce4a9f0861691d4bc4a8ba10a6a3354f32c69",
     "f379f49784fc50a076514cde272ebde507504936e9e00acd311c48b87cac1102",
     "4064deefcaff672cca4a6d0ae4994a40e20ba14f3232e487b6991dc1e74985f6",
     "27a80be3d650ebed57deec0769c73fca6aaa472101c9a24b461a1f1c0812da6b",
@@ -4000,19 +3988,21 @@
     "edad628f2adbd170d80cb75dfe8ab5d3fc4870dbd2aee42e6c29ad371be707e1",
     "312a74128cf8724d4e281ed2ce6b01ab9d00030e49c86bd3995cd7190e28112f",
     "3bc974b3ca02bee0580eeec7a04156ec06d2ef13ad60121a2771ab1670bc043c",
-    "92f6bc473521328c52d486f295517e567f3ba211dd834879df62bb1b11e2dfe9"
+    "92f6bc473521328c52d486f295517e567f3ba211dd834879df62bb1b11e2dfe9",
+    "1d9e43b0496cdbea3f7d126359ad67c0b0c986d1a1a66a4ca021785e5db5df19",
+    "bc63f86af8d2b9fe0d450e1e26df5d254fd0e0baba2db7542be2e69741f14cc8",
+    "babcba064f137de347d3924f53e3e104dc5e1755e82c248820731980162ff424",
+    "7f52092a3c19b5ef92c2e542034898a1b4ecda67e49722a8d0409dcc94bbba5d",
+    "195515618cbedd8c522c0de90091d6b5624d857d67e13110140dd27abbeea250",
+    "52e672a0c47fd6430a7de34e3126772f1c136f177880d8d1aba65107455092ef",
+    "43ba3f2ebc54e6dc27c09dc879f95bc1682bab176c68609c5d0e93cc0ce4ed3b",
+    "f6a3d743ccf6240c46dbe6ec87261851730e56c40fe25704bc5c2fa5139f33c7",
+    "ddb9212efc12f1c2aff0ba5394e8ec87ea755aa191062a1a96394506c54002b8",
+    "dd953f788700c2c061e24aa6260f9c6549c657e92f25b9289a3a0775395facee",
+    "734bfe1c9752b52cfd5f0992677292dd93e5963710d0378d56c1ba9dda1c3fc7",
+    "d32c81afc593c105ecc76bd97c70fcf71b3bc1e28c0d0ad8480c98d749996e78"
   ],
   "title_hashes": [
-    "c09543c744cd7e45a614ea24692499720edee338a94dad65f8ae7741bff4ac87",
-    "28e242713cb6d703e2a8f17d9af7247ee38bd124e33ffacc5d7039cfb9ef110c",
-    "e38accc9f959610426037c2e9367759a054cd3991476f3ae516818ac08e7303a",
-    "64484acaf052ac619a3a0169f987da36b99949739b010342d8617e83b51e8200",
-    "d3203630a766f98e8b56066238f0f2a4a316609332e8093c3daf5dcdb6c6f2c6",
-    "69ea0e96f280250e75271ba517b682e4ea14fd4c96e181c39ff154d7be7a9a1b",
-    "0b7f123bc199347ef528b7de0ffbd268129e1b9593786695081efbe25ce8a101",
-    "4dd963a0622572df5ae6aa6351b70e0da370e4c7f0d8bd04f79027e6f3263f70",
-    "4d6aa676893f98f98262a3da8a4815bf1bf1d52aa0a241429f23c51fcfd2be49",
-    "78625689997ea83c8339bc54209649bc2daa7ba91fe5932984be66005e7aa8d1",
     "7537d54c3ebcec874f2753c91061c142403632b51828856c930102c5c8ee4e45",
     "a696b169aa321861571805949e9e72c754b26d0f20e89f9b4d0a37c3d0e94f7d",
     "9b94cd32168f89076ae9845d850c3aa478db1644076a67b8cd84e0f00da060ee",
@@ -8002,44 +7992,19 @@
     "8034f57474e0753f97e16470f174aefa948192e34f95766c6ec07bc8138415bd",
     "c4cc67b7b5e5afe6be42d37e1dfa8546c467e8897032731a0b29c5f8e2ad54ba",
     "1718517ab847601406d3d5656f31f970ee359a5e39ed36b532fc5061dcd396fe",
-    "25112eefecf594226bd5c31417b0620aaf5262a4ddbe6a1e7e490a7fee64b8f8"
+    "25112eefecf594226bd5c31417b0620aaf5262a4ddbe6a1e7e490a7fee64b8f8",
+    "9f8a8a4384276cdc786fdd7c21b524d4c83eb1a7afdbf8984eaeec7f6daeef6f",
+    "8f8508b8ceedbecb0e559ea5adac659c0bb8802cd3548b28ba216f43a1d770e3",
+    "36ba211316620aa4a4850a1996d5882938225bff7c8ef1c0f66e8b634b5b5a7e",
+    "7ab4cc05b9603d97b7d3b8c1a0c4195a98e7817881e992a8c24bb326fe878658",
+    "f311241f13f200daafacbc184c2da9868353594b821b08c035690796c2963613",
+    "483c097afea67239956b716ac00d8bcfbbe6c12ee9a8383be7e00d3764ce96c2",
+    "f2198a2796ad67cd4a7d3c23e8b9ae91c5f644b7b4e3f2cd209185ae5c35ac39",
+    "ae05413afbaaac712b7f4142f493235b8f1218ea32e376cb0b9f0cbd0aee978c",
+    "0e2776b0fff710525dc23259977d34e01fa510652035ee4f3e861684b312e0bb",
+    "e4c5936c05c73cea0a4dc3d4ebb80ca8e7e56e78a396613efaf5c37f2c27d4e5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "The Verge",
-      "title_en": "Uber, Nuro, and Lucid kick off fully driverless robotaxi testing",
-      "title_ko": "Uber, Nuro 및 Lucid가 완전 무인 로봇택시 테스트를 시작합니다",
-      "url": "https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area",
-      "ts": 1795525404
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "GridAI Technologies renames itself GridAI Power Corp. after Wyoming acquisition",
-      "title_ko": "GridAI Technologies, 와이오밍주 인수 후 GridAI Power Corp.로 이름 변경",
-      "url": "https://www.streetinsider.com/Corporate+News/GridAI+Technologies+renames+itself+GridAI+Power+Corp.+after+Wyoming+acquisition/27391241.html",
-      "ts": 1795525407
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "BoE's Greene: Indicators show disinflation process has stalled.",
-      "title_ko": "BoE Greene: 지표에 따르면 디스인플레이션 과정이 중단된 것으로 나타났습니다",
-      "url": "https://www.financialjuice.com/News/9866080/BoEs-Greene-Indicators-show-disinflation-process-has-stalled.aspx?xy=rss",
-      "ts": 1795525436
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "BETTER-THAN-EXPECTED BUSINESS CONFIDENCE IN #GERMANY THIS MONTH SERVES AS THE LATEST INDICATION THAT THE ECONOMY IS PICKING UP. $EUR",
-      "title_ko": "이번 달 독일의 사업 신뢰도가 예상보다 높았다는 것은 경제가 회복되고 있다는 최근 지표입니다. $EUR",
-      "url": "https://t.me/marketfeed/1084510",
-      "ts": 1795525503
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Why Deutsche Bank Sees the S&P 500 Surging Nearly 25% Next Year",
-      "title_ko": "도이체방크가 내년에 S&P 500이 거의 25% 상승할 것으로 예상하는 이유",
-      "url": "https://www.barrons.com/articles/deutsche-bank-stock-market-forecast-2027-6007d3e5",
-      "ts": 1795525564
-    },
     {
       "source": "FinancialJuice",
       "title_en": "BoE’s Greene: Will need to adjust policy on the basis of actual evidence",
@@ -11504,6 +11469,41 @@
       "title_ko": "트럼프 대통령이 황의 복귀를 추진하자 초당적 반발이 엔비디아를 강타하고 있다",
       "url": "https://www.marketwatch.com/bulletins/redirect/go?g=406aecf7-a59f-422c-946a-84d4b730944e&mod=mw_rss_bulletins",
       "ts": 1795553425
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "🔴 MOC IMBALANCE: S&P 500: 4058.5 MLN",
+      "title_ko": "🔴 불균형 힘: S&P 500: 4058.5백만",
+      "url": "https://t.me/marketfeed/1084785",
+      "ts": 1795553511
+    },
+    {
+      "source": "FT",
+      "title_en": "Huawei convicted in US trial that exposed corporate espionage and sanctions evasion",
+      "title_ko": "화웨이, 기업 간첩 및 제재 회피 혐의로 미국 재판에서 유죄 판결",
+      "url": "https://www.ft.com/content/6c64b8b8-531c-4eea-8fd0-90c4c4967ab9?syn-25a6b1a6=1",
+      "ts": 1795553574
+    },
+    {
+      "source": "Barron's",
+      "title_en": "The Next Tariff Fight Is Taking Shape. What It Means for the U.S.-China Truce.",
+      "title_ko": "다음 관세 싸움이 구체화되고 있습니다. 미중 휴전이 의미하는 바",
+      "url": "https://www.barrons.com/articles/section-301-tariffs-china-eu-excess-capacity-78422f24",
+      "ts": 1795553640
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "PolyPid Announces FDA Approval of BACFENSSI® (D-PLEX₁₀₀) to Reduce the Occurrence of Surgical Site Infections in Patients Undergoing Colorectal Surgery",
+      "title_ko": "PolyPid, 대장 수술을 받는 환자의 수술 부위 감염 발생을 줄이기 위해 BACFENSSI®(D-PLEX₁₀₀)가 FDA 승인을 받았다고 발표",
+      "url": "https://www.streetinsider.com/Globe+Newswire/PolyPid+Announces+FDA+Approval+of+BACFENSSI%C2%AE+%28D-PLEX%E2%82%81%E2%82%80%E2%82%80%29+to+Reduce+the+Occurrence+of+Surgical+Site+Infections+in+Patients+Undergoing+Colorectal+Surgery/27394756.html",
+      "ts": 1795553642
+    },
+    {
+      "source": "Semafor",
+      "title_en": "TRUMP TO DOUBLE DOWN ON TARIFFS AFTER MIDTERMS DEFEAT",
+      "title_ko": "트럼프는 중간 선거에서 패배한 후 관세를 두 배로 인하",
+      "url": "https://t.me/marketfeed/1084786",
+      "ts": 1795553645
     }
   ]
 }
