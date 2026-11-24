@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795513402,
+  "updated_at": 1795513568,
   "id_hashes": [
-    "d120fd535a4d0163d44c4c6612831a23852c78111d9cfcdfb4580941c6b7570b",
-    "85a6ddd07aa0459887b0b1037a8379fbad47eb8f3cacc6e9a346a22438676200",
-    "d41a7b34bec6dd46115a450c3e6872e3d9d7887ad2758dfea326cc69a089d72d",
-    "f816fc4e6025efa3b9990de23accd48316566d9f392fa30eb9fb7dd7a3a5930f",
-    "3e3691f6c7e9b8aac625f0a2ad83eb5d71e5b07879b965075635c0591678eb33",
-    "4eedb087dc6563267de220ad4501be638cacc8f559d1966b57299ee9e7768b8d",
-    "b0ef114cfae4b2a70096329516a35c9dbdba25157e9e2dc5bf74c2e61ce1c498",
-    "0a9ba625beb8a55ae1438aae0cb589ab5a0f03ab673f1372226eb4e77524e8ce",
-    "f0ff25b1aa967bf404996d61ee2ab215fa9e5eabd08abcf106820c0ec46473a3",
-    "5276b6bdf273054f8e005f8c84285cbee6a88c3e72cfb897533ffa3b8f0ec159",
-    "e3c2455392c01def7320536e837d1cba1ee955d7638e27e57de9ff39ae533940",
-    "93d1ed5df35fc0bc29c1118eec579c638591216fab4d8057cf3caecf3589387e",
-    "66c4d42a297fda36cb2c712b7a221da746da6f51e94e7fbae882450a9076d5f8",
     "03fc3c03d8b4e0284a3b05697ea5c4bcb0acb2c2dd5721bed78b74a105953c3c",
     "74ded556c438179ea9b56e835022079d7e5f1146c8f3a26685cb70287a226c83",
     "5f29cd567fe8d91319a9fc0f975e7fd763ec49897079bd6ce8fb42f40b948390",
@@ -4000,23 +3987,22 @@
     "a045fd51157c378f0d71b110032941a614bb4bd2de220be46d96066cf7ff6f7d",
     "a6e2038c1c828e49d81fc02e56996de0dbcdf731f93043af5728d23dd0921716",
     "557a2a17c78dc6af94b7a59c4c485af9e394d223c899a34feeec5f57083e12bb",
-    "0e56fd995c757bcb102962a1dada9eaaca055ccd430c57aa3d81608f822bba6f"
+    "0e56fd995c757bcb102962a1dada9eaaca055ccd430c57aa3d81608f822bba6f",
+    "dc272b88d6db850cbee542955a04de729beb97734690647db52e5388f37cabd7",
+    "448c1fed79b34908d86dcdc478a0bc79848b389a14697f260de41fb70cf181ec",
+    "6c09e63b58acbc34789bbd1c27e274bbb9d5e6a0d62081cc6f65c6565d03a1a3",
+    "4ff4850422855032de55d60e7c2b4f250a05214fe1e1ac363e12de3953282acb",
+    "48e2e398bff6471daa47425e33a737380baf55ada6d83c6414c34c11df256020",
+    "f0a56aa7e864574c5a7e07423d46b681fc8d993915fb50a24eee85212c949ce6",
+    "cedf587e85af24a9b03728ad27f1b969d12c584d40e014d192a4be824b376361",
+    "c8694c56afaef0810ee7e3b92f485c77da732a2dbb66cd1dee4370298e5461aa",
+    "3f1dd12f9111d2b7f9b8f652aab2825585878fdd5b420eff103eeec03c2236f8",
+    "ae6324b416290db052181b4b156db04c118e48b9569200ec20b86476b8762251",
+    "79f52e5d280d4a3713c21e75491c87f426a193fc3a4eba7cb5215636b665c949",
+    "7b0e55f9702c358ca65cff5a1c04de0e2eec23b7206b4ecec4371fc72694535d",
+    "1a2d7276df97d4a65acd6f494a15179d4537034664db0a769913e3691fb0e97d"
   ],
   "title_hashes": [
-    "b5f5e78ff1c9a87ac48370014d419ed634be572e9bf8b4830ac869a6f055eaf1",
-    "2a5b945413b0496dafb1c3ac05ec2cba2f090ddf40720d064181914746f59d76",
-    "88f673032691d76231ae76bb5223147087fa0fda73f1b34204e702e21e064af9",
-    "b640c4b8aac0fa71016454ee0adaed58cba4853bd54a830ebc98082a44b81b5b",
-    "51a5f470b42306cfb5121c6cf82b5a9f1f3498a3787409ab5e8cc3cf10cda0bc",
-    "beac0549b2ceb7bfcbafc7d0c9ceebd7ebb23300257050318cc14d5073ac0df0",
-    "2a5c05003676e4d86305a043fbe89c7d2d6e43c98cbbfb28cf05b56527019808",
-    "f350f9b5624800cdfe78279e81fd0971a4230490d48b56af140e5f633efd94a7",
-    "7cdfc351c6318e8e3e984137c2513dce025b8bbbbd899f89b13d87bb281f2176",
-    "f8e251da87727860cd11e0c097211cc59832e12eae002e99077b9a6b18ac2ad2",
-    "f1ea9186180241dfdf5fb61f5fbfa1cf311b628d2b448a7efab69a03292139ad",
-    "48ff57dbf612f48da90f0effd7bf28e36f51988a106649fae249c263cd8e0159",
-    "946ecf435600287f2b4096cf9c71d14312a5dcdb64e2a911da99a6e39a12539d",
-    "7dd781d0df0fbd08e89f7abbc271b61c710cd7116d8b6e7ff6fcc47f95fce2fe",
     "8d9cbecf4ebd56d825d04aa2e14c8c8ff96e649c70a1a1b5d100834df7c40aa1",
     "45878273071d0c53e0d89e289de7118ad001ddabe6842c4ba62daec3b6448bb9",
     "45633e08f4e653a154ef41923b5f0b5fe30f3140550c2d44f48e42a250a3afa8",
@@ -8002,30 +7988,23 @@
     "b7c73a1c6b276f2446d29e6962f07eea0d9f4ffd330daa01067ed1282ed77e74",
     "04dc7d07967ec9f15b23f5b2bc8ab79bedbaa5f57ceb8fc3b23d06e90fb9b683",
     "bf359c756233247ff95de55a3d86e9d1bd6b2281a479bce7698b1486f9f7a621",
-    "8aea5a41ebf60e4d4bfd4346e5fc7d761305fc6fa00c75cd4a4fcc03ea310604"
+    "8aea5a41ebf60e4d4bfd4346e5fc7d761305fc6fa00c75cd4a4fcc03ea310604",
+    "44d17d25c5a020b3db504870e35b2de34c5d7fb002420306be0d4a005adc7d9a",
+    "0c3325f6ff0e77becd91ee46f85b54920ce6a267e6e57d024a0deafdb563e65f",
+    "73f9d755512daaa31dde20bab02f79fdb0c454589e0ddbb40ccbe6b924d2200b",
+    "9cd18ed6cf9d777cd69565774537c19b91758bb3f3b68212c515532900f5c084",
+    "61ae3243fcff57386174dad3a2af1d1b248c3e237c863842bd403b6fffbe71f2",
+    "15987a7afad162f06af9632150b66c120f115c6fa2795da95da6668188b70e6b",
+    "94b2b3019d0ca3e81ea2a2088798582df2be4fbfc4bab8aa637a77f7c18e47f9",
+    "a4a9069492c4812b16a61a221f3cb44885f71dbbe2fc7e7149ab69ad93ddb26e",
+    "757fb7f634fad545a5aa51fca307e13df60625f77b89f85215c94e13921c0e3f",
+    "708c7248a3d6d5b1d39ec6b84ec5edc3446dc254cc70004c05a62aeed71fc34a",
+    "e69abbde261c73f9c0ee13de5744126ac87bb4c2d093308714a9ad420cd59c40",
+    "ca5f1898136583091e94cfb8b743bdaac5d84a5f14514bbdd59413a5835c1b3d",
+    "dc76232f9bcab8662731fdb7a68757bac0adad3b28e60ee2ad0a2d07e701cef5",
+    "c6a2f6ca0331dacf99f41cb787b6469574f3c8bf12ab8ff25790e97d2aaf61b3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "三星盘前上涨9%，SK海力士上涨12%。",
-      "title_ko": "개장 전 삼성전자는 9%, SK하이닉스는 12% 상승했다",
-      "url": "https://wallstreetcn.com/livenews/3204550",
-      "ts": 1795477013
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "NORTH KOREA TO REVIEW WITHDRAWING SWISS OFFICE IN PYONGYANG – KCNA",
-      "title_ko": "북한, 평양 스위스 사무소 철수 검토 – KCNA",
-      "url": "https://t.me/marketfeed/1084209",
-      "ts": 1795477015
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "XCF Global Advances Renewable Fuels Growth Strategy and Plans OTC Transition Following Nasdaq Delisting Notice",
-      "title_ko": "XCF Global, 나스닥 상장 폐지 공지에 따른 재생 가능 연료 성장 전략 및 계획 OTC 전환 추진",
-      "url": "https://www.streetinsider.com/ACCESS+Newswire/XCF+Global+Advances+Renewable+Fuels+Growth+Strategy+and+Plans+OTC+Transition+Following+Nasdaq+Delisting+Notice/27389368.html",
-      "ts": 1795477018
-    },
     {
       "source": "Nikkei Asia",
       "title_en": "REVISED EU EV INCENTIVE PROGRAMME EXCLUDES JAPANESE VEHICLES",
@@ -11504,6 +11483,27 @@
       "title_ko": "헤그세스 국방장관 후보자, 우크라이나행 패트리어트 요격 미사일 60기 승인 보류... 젤렌스키 러시아 공세 경고 속 지연",
       "url": "https://www.benzinga.com/news/politics/26/11/63569469/pete-hegseth-delays-approval-for-nearly-60-patriot-interceptors-for-ukraine-as-zelenskyy-warns-of-russian-attacks-during-winter-report",
       "ts": 1795513088
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "AMERICA'S CAR-MART FILES FOR CHAPTER 11 BANKRUPTCY",
+      "title_ko": "아메리카스 카마트(America's Car-Mart), 파산법 11조(챕터 11) 보호 신청",
+      "url": "https://t.me/marketfeed/1084402",
+      "ts": 1795513557
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "HON HAI LAUNCHES UP TO $1.5B CONVERTIBLE BONDS DUE 2031: TERMS",
+      "title_ko": "폭스콘(혼하이), 2031년 만기 최대 15억 달러 규모 전환사채(CB) 발행 착수",
+      "url": "https://t.me/marketfeed/1084403",
+      "ts": 1795513564
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "[ Z ]: ANSEM'S WALLET ACTIVITY UNLIKELY TO BE A HACK, $ANSEM SALE PROCEEDS ROUTED TO AN WALLET HE PREVIOUSLY FUNDED: MLM",
+      "title_ko": "[ Z ]: ANSEM의 지갑 활동은 해킹일 가능성이 낮습니다. $ANSEM 판매 수익금은 그가 이전에 자금을 지원했던 지갑인 MLM으로 전달됩니다",
+      "url": "https://t.me/marketfeed/1084404",
+      "ts": 1795513567
     }
   ]
 }
