@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795550371,
+  "updated_at": 1795550533,
   "id_hashes": [
-    "e17276feb037ffc89b85b966441f237ff08ee92513c05289350495dd5f008e5c",
-    "f82ba9530ef3e0574c86d33c7d1d714b6b04da5af629ab83ab42be2f16885f05",
-    "6b878ecdf66c6b83ca7bb4d67ad501ff7c040b0e0bca0669780be70c0119b298",
-    "1d5895ac71b207e0e088f72e94b18d60bb3b11a301c4d9d3235def593740c7c2",
-    "24abce7e3e38ea62a8ba88bdb1da4a6fadf5ac07bf8de63f86b664750ed77937",
-    "576f4b87fb651e8e927e10ba3a855fa0153a2b9f4ec9e30aedea25700dd85ad9",
-    "7c49169c6757dcfb5ca2efcb5f678dbf4370bb94a33fd06c606b1b9c912a4938",
     "dfaea679a7fe9e47db19e7948d02c73b477eb56a722853f394961eebc67d9a90",
     "7857f3ca837ef5bd82eaed5919b12f32c4d7a76ca0525b826e7f451e45f660ee",
     "3b3d50d4eb51ee3cf10385ed1445b6a1b4e4c273802404a6e3927b456f4c6b40",
@@ -4000,14 +3993,16 @@
     "70531fff800c53f0aad76558d023d52c73554795055960ca7e9ffeab54890cc8",
     "f822d01d5172f03430f2a83048fe25498ddc9080860a6d5ad9d868479743d420",
     "b197e86d6d185bfbf8247e18f12f502358561d13a88baf1a684a6b0da471f2b9",
-    "5126a0152cc97512da2a7d658d0f57eed9b73eefc8d94016124830291c03f975"
+    "5126a0152cc97512da2a7d658d0f57eed9b73eefc8d94016124830291c03f975",
+    "5a1d54c768c8b4e0f969caacac2a82c8cd26bd1f7c966e1e6563b5191453f6de",
+    "47800f0ac6ad0e6ac9510eac257137a967dc1fa2f3660f9fafdce843c14cde58",
+    "39a70ccf9fb67a77c6e6621086d88766b3aa96c06dc878fcb19584f064ee68fb",
+    "c84e9026886fd26041d0743a462bb99f5d431c7a2f1cd4388d2b82be5ece18f1",
+    "67d43a4b5552c02f10983e507e845860c1d12b1e5f0df094d684d76cce51ee78",
+    "604d3561501b3b3a9495290a1345a27cbe06484f6712f2f0f8181a7797b02fbd",
+    "c8beda51a26cc8a4fa0c60b4dabb8386a57eef6a9ea4c035e67a47518e669072"
   ],
   "title_hashes": [
-    "14bc5e56cb51c26de7f43e075e469377ad50cdedd27d15649cf37747ef71c005",
-    "a4fe3c7f54604e1cfe9d044878de2cde13b335e7ed4f94d8e5d7ed83f7e3d07b",
-    "af1b0bf6192f2625565ed6b9c590799bd88cf286da8b1a4eeb2f560e6840471f",
-    "87d5590064cccaf3c0fb3528f22882c0f295bdbe23d447d1f666c7fd433f1c51",
-    "f4fb223ed243936779f6c2be14472d74a51df51d0afd9b3dee2a5b1f3f8dd150",
     "5a7dbd3cce19e9e313256c0709da5d9f6d5ff5afcd06f8468b608627f31aec2e",
     "3284f0211eae0b68ee454e52267d3183d4f129ab4a2be4dffb6660f187a3ecc0",
     "0a77322d4683f6a33cbd4ad9bb08142ff66366db2a5681b6d677d0d5d72dfdf9",
@@ -8002,30 +7997,14 @@
     "be859167ca107ef7f1488c2d47b5a7472877ba3ce265bed83620ab77af3ac908",
     "21c6237359d724064589d742423d742ab67f2657ef0f4e580654879db910904c",
     "92f410d321fd8b401b9b148b2b4dd95a8e815d118a7caf837c7cfcfd82485a4f",
-    "09ff6ffc6057f0f3a779724174d3a1edc04e2718a6aac858ab0eb2ffea61cb87"
+    "09ff6ffc6057f0f3a779724174d3a1edc04e2718a6aac858ab0eb2ffea61cb87",
+    "1a52dcf504546965ac8a29945671a212bf4143380d427e222d3599275e4bcd0e",
+    "b32acf7a28fa225de0067577a9d63e4915eedb85069748819902d93f38e45111",
+    "a26ae7a5ee73d3ed8df1c3c28ddf14ff0f84ffd99d2413f06394449ef6720d1c",
+    "9da37c132e1ae5f5af7795c97fc0e853a6a42aa5c9602e52208162091c5658ec",
+    "0f228a75dcce843dde62a74d8ea70197bd24c05f95f6577f6109a7a2690960c3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "BoE’s Greene: Not much evidence of 2nd-round effects so far",
-      "title_ko": "BoE 그린: 아직까지 2차 효과에 대한 증거가 많지 않음",
-      "url": "https://www.financialjuice.com/News/9866022/BoEs-Greene-Not-much-evidence-of-2nd-round-effects-so-far.aspx?xy=rss",
-      "ts": 1795523947
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "英国央行委员格林：需以不同方式思考连续冲击。\n\n货币政策在锚定通胀预期方面发挥作用。\n\n获得更细致的价格数据变得更加重要。\n\n迄今二轮效应证据仍不多。",
-      "title_ko": "영란은행(Bank of England) 회원 Green: 지속적인 충격은 다른 방식으로 생각해볼 필요가 있습니다. 통화정책은 인플레이션 기대를 고정시키는 역할을 합니다. 보다 세부적인 가격 데이터를 얻는 것이 더욱 중요해졌습니다. 아직까지는 2차 효과에 대한 증거가 거의 없습니다",
-      "url": "https://wallstreetcn.com/livenews/3205026",
-      "ts": 1795523999
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Nocera Moves To Acquire 44% Stake In Self-Powered Alberta AI Data Center Developer BitRock In $22 Million",
-      "title_ko": "Nocera, 자체 구동 Alberta AI 데이터 센터 개발업체 BitRock의 지분 44%를 2,200만 달러에 인수",
-      "url": "https://www.benzinga.com/partner/news/26/11/63572763/nocera-moves-acquire-44-stake-self-powered-alberta-ai-data-center-developer-bitrock-22-million-deal",
-      "ts": 1795524063
-    },
     {
       "source": "StreetInsider",
       "title_en": "Best Buy stock climbs on earnings beat, raised outlook",
@@ -11504,6 +11483,27 @@
       "title_ko": "이 문제에 정통한 소식통에 따르면 Advent는 테스트 회사인 Bureau Veritas 인수를 고려하고 있습니다. (블룸버그)",
       "url": "https://wallstreetcn.com/livenews/3205200",
       "ts": 1795550370
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "https://x.com/MarketNews_Feed",
+      "title_ko": "https://x.com/MarketNews_Feed",
+      "url": "https://t.me/marketfeed/1084775",
+      "ts": 1795550461
+    },
+    {
+      "source": "글로벌이코노믹",
+      "title_en": "기아, 10월 글로벌 총 29만1219대 판매…전년比 10.3%↑",
+      "title_ko": "기아, 10월 글로벌 총 29만1219대 판매…전년比 10.3%↑",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZnpPa096UFd2U1lXUk1pS2JNY2puY2J0Z09Ba0pnMnFBRzgxa3p6NnpHczRMc3phcnAzdF9BM2haRFN6b183clJ0UV85THV2NVhlSkxXcDlwODRSSk9PQWZpUDdJNjM5TTliNXJ1ZmstRkxBbXFiemF1NlAxSzdLRg?oc=5",
+      "ts": 1795550529
+    },
+    {
+      "source": "매일경제",
+      "title_en": "CF 인더스트리즈 홀딩스, 모자이크 암모니아 공장 6억 달러 인수",
+      "title_ko": "CF 인더스트리즈 홀딩스, 모자이크 암모니아 공장 6억 달러 인수",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mM1BPTEo5cjBVYTNoVS13SWN5MHF2WW1DTDE0cmtsbjY3NXVoUlFDRlZsWFlIN3Z3NkJ3YXVVVjJwTmxEN0t3ajhVbWZxUEVkSlE?oc=5",
+      "ts": 1795550532
     }
   ]
 }
