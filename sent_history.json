@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795512922,
+  "updated_at": 1795513089,
   "id_hashes": [
-    "aaa4cd29764dcb1e508a6668fe5dd0eecad0fb4e6d68557bb66a167f8416b4b6",
-    "a28279e134125451651e95a9b2a5ad5245405a595680fea7a2a932d284f11dcd",
-    "39e2579adcc0bb319d750333f49ed1997df84b946f4941dc41688cc549f5b31b",
-    "219dc66321cd554c92c869f0a3d44a84ba5e7b7215f4654674e9e448f1a3972f",
-    "172ab48eb6e47dbaa4a2bd20c78d08298c7a44e65ac883ad2886679612ab8b1f",
-    "99eb5ecb22f55c75116e89f8e5a3075488d8b18a80ad1eee5ec8760f3d4c1807",
-    "c2ace25475e2fad6679dd480a6e85a87a33dd2cee766036258c523f87f899548",
-    "cc8bebd4772f732f35ea60626468d24544433ea6c513502bb789b60575a10db2",
-    "3140f843362c86caf6f81a5f50e1314460a85901e34c23002b4cda34dcd5a406",
-    "95837dfd2154e4e45e1d66e16d5a73dac9dce13116ac216036b8a3a6f013e854",
-    "528b6c47c5229b820cf2aa052fa1f4b6ccd9013d915a6defc5525a5b2a79afe5",
-    "078c4b98e7494801bb2801d53691398e4e08b40cd88e09de8e9377c2b7ccb3ac",
-    "66991d70a8810fe9412792bbfad8321ddf3b7bfa226a58728e6b0f7315689168",
-    "46d06d6ec68a9cad309f7af303d6d0d869d96e8c9ff552e42fe55d0d1dd8d06b",
     "2046d070b810d71b65af9ec3d1c03cce094f7df4aa0e73b3bdac6ff2f08e7a71",
     "4fa7a65053acf4fab1c57c07021807eacfbec1359a15e14d85a8551aa2236ecb",
     "789dee83ac6ae5b09080d7b30025017dea5f47124014463eefcc8817740893b0",
@@ -4000,18 +3986,23 @@
     "5d09d2315a58c47836fd0e81459518b59a2d6696d08cf0df668cf838e1d4d223",
     "9ec92a7a841ed0d0a0db8b5f689ef30698127f2e4d5aa5da5b4ae04fb3f0f76c",
     "7a8b79648458cac89c5dbbe34cc653ea4530665972378bf866af9d21fbbe1431",
-    "56d4bb425a80e7ac6971c2d4c11be8181a3a07e8cd4d3354bc04a7705f85fadb"
+    "56d4bb425a80e7ac6971c2d4c11be8181a3a07e8cd4d3354bc04a7705f85fadb",
+    "f3a8a2eabb6276a2b62f4205ca57fb6588a39486a099bad2eace42cad2a844d2",
+    "113dab19c9c6c4b61e107ffe0abfd7a776e3ef4b9099006dca5a1086109a95ac",
+    "dc059777305ba2ec2b39f1ea66cba54b4d6823d640a03a908a1955a36bf50a3c",
+    "d93c0e95e1dca3f6a8c2bccfa327338b1f6880cd7e3618b98a4897ce598b4475",
+    "8f8b6e27027f33d87963678296dcf78da16ce0f909ac7eacbd1295fd4a44b505",
+    "e5f52772071187f9ee3810abebbb4a145543ecda29ff9c70f8b7d157dde13697",
+    "d971c490a82476f84ba4f41b44004132c244f68b2b0172b9cbcd29cb9c6d02c8",
+    "063c95870bfbf7ee135fb85d740b8368ab52c5d798184718c45562e7c7b50932",
+    "63399287da795f49a736f64bad1b797d46f30ef5beece6d90220495d42797ff3",
+    "1fd580f1149967ca2868cd1c98a5fc60de50d0af41e9ce1d8ea44c2e1385c531",
+    "1daa07232052494fe481f3cfaa1ee955c785ce77a172460d7b69a158a51556a6",
+    "7f95ae36d561204ac2be5ceb05ea23b653155cd62cab4c8a8e0051118e19b683",
+    "596354fdf7a799530ba141cc60168cbc9561618ceafc10f3491650d368c1055c",
+    "0ebab1953305f8eb6fc085a6db4b3c40b5ee3fac207002f4a318060c9e747e1e"
   ],
   "title_hashes": [
-    "238f7e8e3dd1a24014f5557edacb2291f287a5b0c7a92fb4a6ee02c27b7389c7",
-    "7e7c0f473fd2f1bc0ad22cbd3002cccb1b418ae81caba0279c4b11e2503869a7",
-    "3b7fd59909cd56e5fbbaa01ad6e7e36bcc5d345060845d4fedffd4996c1d4fde",
-    "8fef2ef38c442e10dba84276f6d9989a4fd448841d376b0f490cbfdf7d55dad9",
-    "05356ddc0319b57b478d8902592f174427b960b2b7127cc5176c1408b212a813",
-    "45b2d4980c1a2082be33ec477c9ad29080f7a730600257bcddb440b88c65b0dc",
-    "2f5ee7e15956144e650b802e6f449b2840337900d29d311c98d06ed38cd7819e",
-    "ba3abfbd8a03b7e75d5b7e901bb6dbdda8c3623ffe08822b99be7c77f8288e04",
-    "69b236e8497e0816b0485f5ec694945611f2bba2ea8991377c5864fa34162249",
     "bf680fc7408cc44d242f678a4a04d8f06f0180d586024ec2f526dde630b32c1c",
     "cb698411be5708d80cac27a61cd7dceb08f3e11854f768e87b5d435f203cbf1b",
     "592fd77ab4fac13bb5f0f75f476da1cb860009a77eaf06c6b87c93ae3ed6c14f",
@@ -8002,30 +7993,18 @@
     "98abe49cc7bec8225045df2070ddbf311f545691f34b04c08c82880b7a67703f",
     "4e5d325f534238e8576e84c0d863da99ab8c1c785feb41073dc87724c4aa2954",
     "053868c1ea0e1eb334ea376cf9213cf83f49fb9265726ab78ce2031aa20f4134",
-    "d06f620feed2d2aa626f8f519c8d8171d86a74122ecb3098316dd38296631dae"
+    "d06f620feed2d2aa626f8f519c8d8171d86a74122ecb3098316dd38296631dae",
+    "490689e56e33ed1c651b35dae365bf03a89c0f806e6496d352e822dc2138a132",
+    "9bf9f0c0f8421ec1cd08cd37d17663fe57b1d3b3324cc646a16a25c2f0a20bd4",
+    "47f19971b123d25585eb740e1e81c43eceda91df670f2f3525e7dc7b12d66af1",
+    "c6fd469095b178fd942490457e39b8e9f89274cc36c550681490d5fcb1bbfa3e",
+    "024b374415ef0072021a7e9a255cc00b483da537bb12d90a189aaf1c8a7d57d8",
+    "c5d2d3e1d6bfeb327b07554363f413d08b36398cf0fde1859da273fd4482104c",
+    "4acb067bd0e64f6630ded248ffc74e42ac237c3b2ca4b9838550bc92d847b6b6",
+    "9d3c1e1e4ebd5a1535a8de0af368fdb8c05f86df31f27ae47935f8bcc4bf97fa",
+    "768b0699eadd76bede8fd42f135a573113b1cce29d9ef5b5e5daa67a7387b2e6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "美联储三把手：如有需要，不排除连续加息的可能性",
-      "title_ko": "3세 연준 의장 \"필요하다면 지속적인 금리 인상 가능성도 배제할 수 없다\"",
-      "url": "https://wallstreetcn.com/livenews/3204546",
-      "ts": 1795477004
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "黄仁勋X主页个人简介更新为“英伟达CEO”",
-      "title_ko": "X 홈페이지의 Huang Renxun 개인 프로필이 \"NVIDIA CEO\"로 업데이트되었습니다",
-      "url": "https://wallstreetcn.com/livenews/3204547",
-      "ts": 1795477007
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Uniform Advantage Expands Retail Presence with Acquisition of 16 Former Scrubs & Beyond Locations",
-      "title_ko": "Universal Advantage는 16개의 이전 스크럽 및 그 너머 위치를 인수하여 소매점 입지를 확장",
-      "url": "https://www.streetinsider.com/PRNewswire/Uniform+Advantage+Expands+Retail+Presence+with+Acquisition+of+16+Former+Scrubs+%26amp%3B+Beyond+Locations/27389336.html",
-      "ts": 1795477009
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "三星盘前上涨9%，SK海力士上涨12%。",
@@ -11504,6 +11483,27 @@
       "title_ko": "샤오미, 3분기 전기차 매출 전년비 19.9% 감소한 227억 위안 기록...인도량 감소 및 SU7 울트라 비중 하락 등 제품 믹스 변화 영향",
       "url": "https://wallstreetcn.com/livenews/3204893",
       "ts": 1795512921
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "케이뱅크, 퇴직연금 전용 예금 금리 年 3.89% 제공",
+      "title_ko": "케이뱅크, 퇴직연금 전용 예금 금리 年 3.89% 제공",
+      "url": "https://www.fnnews.com/news/202611241822396270",
+      "ts": 1795513074
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Exclusive | The Alice Huang Associate Accused of Funneling Nvidia Chips to China",
+      "title_ko": "단독 | 앨리스 황 어소시에이트, 엔비디아 칩 중국 밀반출 혐의 포착",
+      "url": "https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836",
+      "ts": 1795513079
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Pete Hegseth Delays Approval for Nearly 60 Patriot Interceptors for Ukraine as Zelenskyy Warns of Russian",
+      "title_ko": "헤그세스 국방장관 후보자, 우크라이나행 패트리어트 요격 미사일 60기 승인 보류... 젤렌스키 러시아 공세 경고 속 지연",
+      "url": "https://www.benzinga.com/news/politics/26/11/63569469/pete-hegseth-delays-approval-for-nearly-60-patriot-interceptors-for-ukraine-as-zelenskyy-warns-of-russian-attacks-during-winter-report",
+      "ts": 1795513088
     }
   ]
 }
