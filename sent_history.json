@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795530472,
+  "updated_at": 1795530622,
   "id_hashes": [
-    "9c1c995ddd82b375e8b31c5beb909ea662abb3c91bbce17eff661d1214dbea09",
-    "c4ee7bdac884798737db4f62f926bec6f48e0b10b768c9dab4251b3b531af5cd",
-    "60dc0938d95719ee598b24afa0e0f24c595be59617f302af31b1abc65ca6668b",
-    "c1eeae6a9aa2a600d080483d693b6f8862e3d3d4d87ce6cbb8c4f221178cb09a",
     "57094eafb116448d231cc01770a33e3fcd364aa55c75455be8b3d934f74c9174",
     "bdda7827de7809e89016ef104ba348c6e8538d52954cd5e0923c108cfe4045f6",
     "aebc8765dc716626747b15ffda827eef434972fcf1eeb524dec1e21abbd61486",
@@ -4000,13 +3996,13 @@
     "b6e548008286d2b72202ae9e9953b88935d1ce4dd03370da222345797c3c2d80",
     "7da36f0ccf4033564e85acf0fe9b29ecd6950ffc2d07283bbd505b4818a5fce5",
     "f3889a49c6584c69eaa3b6f24fc4b1a904b575eb6baf06436ee8497f7a174a1a",
-    "f4ff89d3c334cdc1af4c43af5e8dd8da5a16f166054964f1049357972bcee05f"
+    "f4ff89d3c334cdc1af4c43af5e8dd8da5a16f166054964f1049357972bcee05f",
+    "da5380ba904ac0b6a1232362dee86ee81068803e6f6bb005c66e5a8a35cef39c",
+    "c134fc4647f57b007c83707b20d6c0a4e8c5e6bf9a860f4a757b09b7fe262df8",
+    "463f9e3f6677d36ecda335cdb72a843f71cd258c1a2d1c7a46fdaa9500d914c0",
+    "15d8ac39da873a5c2c591d8974322eabfd0a89e54ae0e9af82516950da652d6d"
   ],
   "title_hashes": [
-    "91087acca2bc123a892d81e33b792d3d1d64c8779e424c3b62504cb87836bfdd",
-    "14dd791fda50c1ca02a27b3e096cdfa3dd62df92c077e7f63c73e054acc12fa4",
-    "91c9f12b9f49994d1e21f8ff9ec5ca108a022f1ef0d5968be690fa3598516fec",
-    "3936299c9951749041652d79cd5b671f7e13ebb29a855208146b74290a9fbbb9",
     "d8b340ab7c4b8f73217a97bdf7899cde479525c8fe6531e8cace78c43afe03c5",
     "7dcca151f966525d2f4ce78ac2b17f2ade1cfd4c51ca177f75ef83a57ed8874a",
     "4087d190243f21c0674e33f871cbd86352be66d904b13de5cf1cfd3bc43c81ee",
@@ -8002,16 +7998,13 @@
     "590296a6c18409c7bab9120044ec80154d8a33ceb613da4feef8ea1327ddbd34",
     "8ca50d108100e6fcea91b109a88ea01da822f9c1be7a30765c5663d1e2fa8945",
     "bb325438ca13c1d4f6f190d86fb61eba98356e7e82c9fccf5f67f66e3ab892ed",
-    "4d38a0944520c307b5d1ad818251272687f3cfd099aa1217696a7a219a90af52"
+    "4d38a0944520c307b5d1ad818251272687f3cfd099aa1217696a7a219a90af52",
+    "9e85415f5bce28facd46188a7cb27822b5d672b0038663e715e8815afb2095e7",
+    "0a19b0b335639ed99cebe3c4bdadec0026c94a11b1d733b3fe2c5cc20d080ddc",
+    "0887a6c52f8fa5f71a1d0e83b3873a452181c4cc531344f2c89f61b4df5a9e8f",
+    "8949a51f8e74f64bf231f5e06d5302a4ef18b96463aedd306e736dd5668fbd5f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "젠슨 황 엔비디아 CEO 복귀…재계 \"투자 동력 우려 해소, 협업 속도\"",
-      "title_ko": "젠슨 황 엔비디아 CEO 복귀…재계 \"투자 동력 우려 해소, 협업 속도\"",
-      "url": "https://www.news1.kr/industry/general-industry/6364166",
-      "ts": 1795497219
-    },
     {
       "source": "뉴스1",
       "title_en": "정무위, 상장회사 수시배당 가능 자본시장법 개정안 의결",
@@ -11504,6 +11497,13 @@
       "title_ko": "인터멕스 주가, 웨스턴 유니온에 합병 강요 소송 후 급등",
       "url": "https://seekingalpha.com/news/4676150-intermex-stock-jumps-after-it-sues-western-union-to-force-merger?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795530322
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Vipshop Stock Falls Despite Earnings Beat As Q4 Sales Outlook Points Lower",
+      "title_ko": "Vipshop 주가는 4분기 판매 전망이 낮아짐에 따라 수익이 상회했음에도 불구하고 하락",
+      "url": "https://www.benzinga.com/markets/earnings/26/11/63576953/vipshop-stock-falls-despite-earnings-beat-as-q4-sales-outlook-points-lower",
+      "ts": 1795530621
     }
   ]
 }
