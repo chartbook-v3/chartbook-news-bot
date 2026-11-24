@@ -1,15 +1,6 @@
 {
-  "updated_at": 1795522768,
+  "updated_at": 1795522922,
   "id_hashes": [
-    "c1bb37a63409f77d71e583fbe48cd1adaaebd1fa4a919f6854aef422aed27782",
-    "75bc128616c966508170ccc301fc2f1011b3f35f57e97d310adff98acafd4d52",
-    "f679ae86f32e162b7441ffebb804ee61a2afac181e02cfc16c4f85b2278bd994",
-    "4bab75b04066144c602218466d7da0b63e744a669748a354fb60b38c722cff19",
-    "585f6d931cdf156cd65a6719809469bce49fc1eda2b2db1943a18d558e13cb79",
-    "fa0738c7e6bff1f12fac98e45072a6d3297e55ca5a7f8fccfd7921e9cf56a03e",
-    "4a4ee0652ec69443b3a56077dbbde396778ad0f13a14446bf262451e60798044",
-    "62f31aef3e03af1627f20ad3c468a1a384aeb6958d7eb86f2ba137dcdeb9844c",
-    "1ea4f0cc616542692e152d5c215d319d627929d06f4a40b22584f792b89a18f6",
     "9093048663bb6bd5d2dee448392fcdf4d51ce45de1daee8cafe053c96111e2ae",
     "9970c1b35ff992107cbea7074e823622031ed29e686c4db8e89fce868ed0291e",
     "7813c212dcbce38a420c16e28c5bd8449763f9268181c39dbbca27f31a58e5eb",
@@ -4000,16 +3991,18 @@
     "eced968ba10e72889df6a0126c47ee51ad3ffb470d37a831dc64ce52e179c2de",
     "bff5335fcf9246e1471e78422f89f4a5102de131ca3666dc4254ca4703391bbe",
     "e4d7cf1ef79fa881d8d4cda1a460c29f989a8d254f088221355a5b9b3adcee7e",
-    "dde904c1555c017c81e924e8842c85a24d2e33ddd86afd13eea67426f29af13f"
+    "dde904c1555c017c81e924e8842c85a24d2e33ddd86afd13eea67426f29af13f",
+    "789ab8ecfb7400dfcccc6a091b399fd8faed772832c8080a9906b977cea9e720",
+    "48ae3385f93e4ee79125dc88e49ecedd776c055d8f08807bc430165c376cdc14",
+    "2b1647f4c58e52a18781a1297b7bd303a5112671c690aa6228f4fe77a3429f4e",
+    "4dca411617e4af38051f5d958b1d784c0664877bcf789d57ac3bc0f45f7e3c7e",
+    "206342b7aa2f31cfe520a9263070512552282b28600e28be2883c97fc3e3380b",
+    "8540f9b416b789c44ff6216d60a793625dd1726ad146318c1e9548a66126ce13",
+    "6667ed528c526bc9e822e29c674cf4d9da4b77233641f8622a04e666b55f2eda",
+    "e936d494b06725ce8f2206e844db6cf75c1140edd146bbd681197e5119a524a2",
+    "d64459b567fa1ea10cc515640817128250d48bb32afdc635d62d92b49f5e2f6b"
   ],
   "title_hashes": [
-    "c4ea803590752573cab9609e456ba1c054d6f0bbec1aef02a88a1abeaec21fd7",
-    "4b30700a5568b58e1e5594d6d4218571b889e12d2e347906806cc55fe7e2bcf2",
-    "21913e5b6353c309d380e17c89a109d0b86b5e5f1830ca7daf9e2d7d137cd205",
-    "771a1467f26f25ff07d082e4555a2dec5750fba13775e0284f685f8fbe81a882",
-    "7d51034333c813133d618e89c810df68e7985f75052a7ce8ccbfa5a76cc6fc65",
-    "5bbc874ed029fc3dbdfc00e4a4d444592596658c22af171651019c19520eb2aa",
-    "1b23302442d60b05d521d58cc3782f27f85d158846741e0df44811e5c4e38771",
     "53b90919675c9aa3b63cbccf438c86a9b34ce57b7ed2d9659256f6702e8b5c8a",
     "ac43bf86d1d3e4c7334f2a03d321922d5c9aa0e8d55ae8f4676dd800bda45310",
     "6e2e147122d66315b82927856c99e516bbbef6f64dbdd7f0ef29b2b22789b925",
@@ -8002,23 +7995,16 @@
     "d97982a302edbea75ebb7de943d35ec6fcdcea37ebddac614a1b451f27fbc02d",
     "6b1da588d03388bf3f11545de8e76426f8c840d9f92ffdbecda0940dc36e3296",
     "4973f00b9427b2c10b422aab20f280aef2bbfe23df62bbc86e5672c3f1fae5eb",
-    "bbfb96357498efd8e0176d44145df82eeb37a26c05a85a8f6bb65998e4f63ce5"
+    "bbfb96357498efd8e0176d44145df82eeb37a26c05a85a8f6bb65998e4f63ce5",
+    "67c8f585876b95e7dcb56e56f4cb19766b1c0c57514b1a6d230bddd5ca6a5223",
+    "f5cf6f67ead65435f4f1f0250ffb1ca19f1ac1f7a2263070f4c0115b54f062d5",
+    "853f1aa758a6aff5fad5563bd544e78f19c5dad5d71b0abe2bd248be1709c421",
+    "361852c5934fbc1f3b62a721f259cc834425a680fc98a16f2b0b86730828e8a8",
+    "ed8a48910c7906360005f1285fde46e1dfa2bb0bce33aec187e412d0c2e2c61a",
+    "d4e5b9016408801baed0f3c51d05d7a71a8213f0360e533587b3b4e033410178",
+    "25803ad9ac9adc8f7ef227e3049479a751098b717e37df0b616dfbbc42d32b42"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "트럼프 \"中, 보잉 항공기 250대 추가 구매할 것\"",
-      "title_ko": "트럼프 \"中, 보잉 항공기 250대 추가 구매할 것\"",
-      "url": "https://www.news1.kr/world/usa-canada/6363735",
-      "ts": 1795480941
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Japan's factory activity expands in November, PMI shows",
-      "title_ko": "PMI에 따르면 11월 일본 공장 활동이 확대됐다",
-      "url": "https://www.reuters.com/business/japans-factory-activity-expands-november-pmi-shows-2026-11-24/",
-      "ts": 1795480944
-    },
     {
       "source": "전자신문",
       "title_en": "관세청, 수출 1조 달러 시대 중소·중견기업도 성장 엔진…수출기업 22% 늘었다",
@@ -11504,6 +11490,20 @@
       "title_ko": "EUR/USD 상승세 확대, 당일 최고치인 1.0957까지 0.5% 상승",
       "url": "https://t.me/marketfeed/1084475",
       "ts": 1795522710
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "英国海事机构：三艘船只在霍尔木兹海峡遇袭",
+      "title_ko": "영국 해양청: 호르무즈 해협에서 선박 3척 피격",
+      "url": "https://wallstreetcn.com/livenews/3205022",
+      "ts": 1795522801
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Mexico’s Headline Inflation Ticks Up After Surprise Rate Cut",
+      "title_ko": "멕시코의 인플레이션은 깜짝 금리 인하 이후 상승",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/mexico-s-headline-inflation-ticks-up-after-surprise-rate-cut",
+      "ts": 1795522921
     }
   ]
 }
