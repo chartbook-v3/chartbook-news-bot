@@ -1,33 +1,6 @@
 {
-  "updated_at": 1795480006,
+  "updated_at": 1795480169,
   "id_hashes": [
-    "8222b26099d949ba458eb368353f6a1a516eb09253f1566eed7cee35b532a853",
-    "449cd89de7a84c125308e8ad5772cf90f63b367b1ba31ed8b93915ed529ee106",
-    "f08e08d1a07295a19798d5b85fbd12ffb047f9d7011079e69cc6ee4b8bf9e79b",
-    "3870a4eed4a0d0308e26ea3538684531ea1789782f277189a0ed9d5844ab49be",
-    "e8c027348985cd1108ec86b39a6e6edf28c5b55aba40be775212bb91aa5c004b",
-    "411da58a67c785ad1d7736469534bdfb2ed055b7385a83c3896b684ace75ca0d",
-    "f7f9678027f8ecd9530631c90c0e4af0bd066ca8ef79394b649821a9e98cb153",
-    "5f36918f95ef8327d0a6b970ee55e859c988c71ea53ab5f1b3b44e29c667559a",
-    "d067305498232f92141c657ba3047c1555877e054a39f612e394073e45f8d953",
-    "80311a144f0465729711038cf0cf53be4113bf52dc51290c77b7c67e32241c1c",
-    "bcc2719c04ad6e0dd7e549eca72266c1deac9dc1786399efe84cf2064a5e37b1",
-    "767e831a30ee2b56ac6e9927b08c6c74094f279b092a0bd9d801211bd0beddeb",
-    "192b144a64bbd4322ed41f3b9554c71408a5c98c49ba4b35b4841f3ea0f88ee9",
-    "d04b60cb26791b38ba59baa32e7c987b5027790e775441847aa5e3f6e41e8bc9",
-    "bf93ba537abeb089c504821f12af7290859943863e5df1ca037b6bd55e4271d0",
-    "3cea419c0a9b74f4615ba9fb16a97edc4297545eb70a787aa934a1747c9657dd",
-    "647232550efe6bedd4d673d3b4af9f12d8a4da30bd8f7c97aa08f377eb6a90d1",
-    "f0c96b711864f3a24e0e9275dd4aaa6955f34c749d9c7c977a1f90e5938fad7d",
-    "28891b91b655a3c8943335efe9b701d2de249fa515ab39a24c2f6df11b474d8f",
-    "526e6b95e125d1bfcc3187e47f41d559615b431dd4892ee11ab53909126e0d6f",
-    "c6bc406d8ff8d03f2c1f20bcfbbb442176a3fad311c17c4f86c9327a6240ff16",
-    "109deb89b45b0ea14d561609195a8a8c71c5abb781a0dcb9c6474c4624f2c52f",
-    "20ff5035d15eb885ae85e809d266dbdac7e063d289ff768101e02eeef6a39330",
-    "37d3c0e4056cfa5dfe8767c7fd6d6ab428f0ed02b8322172586ce1886edd91c2",
-    "3127231e426d07220667e22d2df2aac9dbd9da21dfeee0bd7441ee339b0803b3",
-    "58794c6dcafed0d3609c6827c4073cc067b8919ba9d7d90b10b7b2cd8f7c33fb",
-    "163066874a350586fc10aa6a713c5d14587706418e92f750af18ce78f92bcd2c",
     "59214b07bdb1b492f6a1c4f96458209403c74aabbfc56ed1ee394b9b4283c5df",
     "719c481e6ea1cdb894753a372b99eb3aba264f8c16195ab818ba0b24d0f02c61",
     "d283aad6c0b90571d32e27b42de1870092767deffb5d9d9e3701df67a3cd0b29",
@@ -4000,33 +3973,36 @@
     "041ab26e900d8c18a19483219385aeffe1c93c942103477a0b4f1d2923d7c222",
     "75e6c2f099032829d77f28460fe781d04eff76d4fd0fa6f19852383c3ea0c1d3",
     "963c12a5cc561d81d73c19055a9af6490cecaaf75a5b729bcaff5142400aa5a9",
-    "2260c2ff5fe7dcb42d20cc87325846da15523245d595b3ff4d0b8d02fa22bdd6"
+    "2260c2ff5fe7dcb42d20cc87325846da15523245d595b3ff4d0b8d02fa22bdd6",
+    "bc892a2eb0b7659c11267ce898ebfe10eb858fb788898f8ccb0200610855a64d",
+    "10acb92b7a758f3b87904b69fff838bfee3e4f71eaf8b4787129c409b94a3ac3",
+    "fd06e0b4f2a2f49fced13603c7eac4dfc73dab90a20e247bf69fb499a5a1740f",
+    "4925b681783c113cff6f17c40dd6981744d8022f14db4e360a0c3ab7eaf0895b",
+    "885dc04918efccc0bc7843fd441bb3bdb79950a495d06c174d137c1f245706e4",
+    "b1a024a1d9608abc5150d0944b8775b3de617a11e112b54a8b785eb878e5c091",
+    "5eab7acfa46a439c1158288e2f5d003c56934e6bb79b8f0f1e54b10594b3d98c",
+    "6655f5964fbd0abbbbbbedfce4e029e5ab5c18d5411e315fc46b3dab6e6dc095",
+    "615d8b12b05dcd6eefe3c6c02ba4bc65299ee17792ed5db9253224abe2dc75b1",
+    "e9c7e0b39b2a6ca7f52e6c462b56b2c4f07b058f7e4a7695ede0762091631170",
+    "1370b8c0b8ab1b9cd1ebd45828215eae0f254784298692dd9d32e6bb4b4476fa",
+    "ef4b735e8795c93cc628a9f462c8135977f29ae72491ec0f8c43c067c942b835",
+    "edfa4e39b5a3f4a6ec51cba4622b1112f39717ada518c75a2a44ccadf5fe0d7c",
+    "4c08d2bdc534b4aa219e2e100b62143d17c8da19495abff335ab3df42a285864",
+    "e7dd3e8dc87deb6b7cce6d6775f157bf736af21234988788092f73820b4a824f",
+    "417e00e1b12e3ea9dad6c23f6e4927874fe688e34cfb90e7a0ef64dabeed517a",
+    "b249d6c3a8a3899fe347ba0e5f0adea0f3ce4a35b05d9d8d555585db078e99b7",
+    "ddd76df7c8c78caa9401d886027a9a8ae74b5f3f5b896f7d4bccda16e673b7c8",
+    "4b6103a4d08a0952ee256fd7a64f2f0c2b53859c65e85ae5f4d125999507f327",
+    "8178e35b217a726eb45bc29e1a3e533799ba9e73c51e0ccd5dc26bbd44a44d37",
+    "1da047c8bcb3233760e0907c361b34501213165aa2f0a3071745a6cac365372e",
+    "3fa73e66b826b491d2a50ebfbf734f01138bf090376774f50fbc05ddec7effcd",
+    "098d40c7d0013826d2d67e692b4994b67113aae88b64a36fcd8e14b656fd00bf",
+    "89694f387362a67048f7b5931fd28643c328186cab58b20a70a69a1f5d1037d4",
+    "6141fab62e616046336fc35b359f125d48db25210cfdd42abf6c91d7518e54c4",
+    "db87fc86fe2a2cd73c81d6db423cdbd2e7bf6cba87db85e21ece097fd209fe75",
+    "75b76729666967bd4a58691027fe6a6e3dc1be43121e674eb08fb9b1ac594ae0"
   ],
   "title_hashes": [
-    "d378a62c7d661755c8326a08f2740e037b870a91dae5b55bb2b877c5dd55e65c",
-    "ee8c8ad552dd6529b3101fbb667f520d173707acf3dd20e030e5ef8faec1581d",
-    "229c49db890e86d4de9ab4d07e201c168171aa980f1e73adfc7c784c80cce28a",
-    "07e8bdd4541b28c12421bc1b9ac3f14568260717478aeed0d90aadfa37b468be",
-    "1e695ff12dc117da7e91d866846d6a8723f4cc28d051b1f282534aee641611f8",
-    "33b5cf27bfa0f48e1b4d46fc643bb5f900a51fa95d3f0f42dc10f025828447c7",
-    "76e7901ff1e84c9a395a8f40c953538cec4adc66b3660a9a345461170facf023",
-    "b48cbb3d227321fc3fade4939b9bf2eaa07d5ba2d87f05ba7debaff5655f06b0",
-    "28f94dd025bf91d9e5a2229140c8982e04b9ab022fa34902f06b6afdcbf010ae",
-    "4550812c61b9ec57bd67ae6eadcc0eea38a383e4978fd2933df7e2d131595ee7",
-    "5a3a0886abf75ec7a9fc425ef6a75da83fa8577a464e30703831569f77477654",
-    "c695eef097c8ef96eeec92a191d3d0780a4c10d688a9482256f5aacdea0983ef",
-    "f741479d94728c23db03b20827421ffed1579bf45839d1a4f2f03c8eccb2ab45",
-    "8601a0725591106da09778cd748877fe2dfc6a615c5ae1ba469d2dd3eed08e3b",
-    "0973a552b99c6ba0d4965e2e447e194e6b78f957ab69da8dd2499cfe80df7e76",
-    "77506625c47c7686aa0a9497de4b49713c39d07ac5bd646c47da3dec1668d2c0",
-    "611b5786d1461e8b21494a0a5dbf93b53a56b1ae789ec4aa1510099a3d491f14",
-    "138d896e12683aff7ab5acebe8d11ebff9cfe8ceb47c5a483e315f1aae1eefd7",
-    "595cd5e23baaf8fc119b8703e8280cce6122ba8848388f8346bb23eeb5703498",
-    "9aa2a24e461474d798bebe76349909219832dd81c1eadf8070fca7b6e50c358f",
-    "60dde35461434f79fc5836aa3d1fa9b2f8481ef7a4ae77b1d320024bde037dfc",
-    "10ce3db81f824e748401a996c5de6198b584fca5c5d5471cd86f6302740ac8ee",
-    "a01fb4b2845944a402441cd8a102eae4a5daa6b20efc1e9590b59786e33c9ec6",
-    "ed61e0420db90729cb7d41c78d6dc171edb7968dd95c9ee72ff27b13217ebf98",
     "d1cb3b7b6a614219b50d55a110f736859e410bb742d6e3eaa5dd712dbb62f0cc",
     "0e2b4198e61a165559e07b3e610b53ba698396e8c00f7518a505fe2392ab7ef8",
     "f718fc1758e0728fa62acb1939118de99d765618642bce7dbeb5db804b902a96",
@@ -8002,72 +7978,33 @@
     "85cdc0e700ef0e85da40cba23a4a19bc144f4e03fa6bfd851647ab078a67e7c6",
     "85df5dff507105db320b5b0f4e5cc151614b3e4815858b352a8339054cba1418",
     "95636bae26c85aff94c8416f9d7c541c415bcec36b9dff740a59fbd837bd3ddb",
-    "e66c98e2da6d1932b92729718c8eb1cfc858ed879d6f83b3d6151dec3fb29241"
+    "e66c98e2da6d1932b92729718c8eb1cfc858ed879d6f83b3d6151dec3fb29241",
+    "9a1c8e083f82db8fccb6bf5ac3751a04477a4563005b2251a82e9d205ad525a1",
+    "49212dbe960235ea59608d1ae26407d0cdf03c109322a6f21fc18ba5a87ab84d",
+    "04fc281456c14d12798b2b793106891ab71e6ee7a81e913dd82cdb24155b058e",
+    "8d827161a5f9cdad919505386ce5ff19d1c238a9e7e4fb6b85c1a7865bacb3cc",
+    "ba0481900b3ec36fdc5c2c37386088d459d3875cfa9c7a9ea78a7606bd9b793e",
+    "0d9f10cd9d8078ade7e5bbd2807ca537660fc5fe9ff21417834480656552b849",
+    "f5bbc1f0a4a983d7edfd1e7387be6b494b6286c03b67dbf3ae1a268a9ca36bc2",
+    "478110e34ca847cf9eda959f2fc50061f1d03e173132194561ddbf7b0c5521cb",
+    "53fa5342583ce4728b8e3e9d82524e2ac68c60f485b971f7b5f7581c4a91686b",
+    "3da32df093395d4cc7850b65a0a2d14d63ec97b23a5447f8dc9d4b03412a6d32",
+    "db8cd1f765cadf322da84dc9069fe9e931efe25b66d3fe81755c1424bc0c923a",
+    "95d0ffcc05bb250c5d516d2eba484cac910562404e54eef2859f3bb20cda916b",
+    "c1eea562417028c2473c9719d355231bb40e3194846819b7e531b89fb96ecfc7",
+    "5069955420767f8b390905c0d6255dd333da82bd0705bcf72b5cb86b0d0171c3",
+    "0687faa43d0c23cfba5c95864e3e34919a4222f94c8fec671fa202b918d6ca17",
+    "1909436e322393ab5b051024d1009e09649244a59a7a9bae4867a619914216cd",
+    "8b84e1fe731478c16afc27c5023ef7edd9debb10279f2010c998ab7d625891f5",
+    "9b3f92d5e2810e3a716c39081c6755d536ad4d293705c73b50789921070b9897",
+    "3a273bf78e67257891fb134a4649e02473d89d187e038019616cb69ca9534816",
+    "5fc0761c038b18f1861b27bdecbf5b82b924b3cd946660eb77a238b4b0376e95",
+    "52e3110f01e2a1dc94e9f7d08a795a7c69e26660685d487fe2f6476316645c20",
+    "d5d2a3269a3659453e589dc5821e32cae57232c080bb6bcf6bea41c8a6594375",
+    "6b591d537bee9579b6ffa51f76b709441119b0e57f69a90f3ef52d1aedb2f1f2",
+    "7f2f637e4359c9813a9dab54c88442281dd4396f2184563ea691373710635126"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Reuters",
-      "title_en": "Applied Digital signs $5.4 billion AI data center lease with hyperscaler",
-      "title_ko": "Applied Digital, 하이퍼스케일러와 54억 달러 규모의 AI 데이터 센터 임대 계약 체결",
-      "url": "https://www.reuters.com/business/applied-digital-signs-54-billion-ai-data-center-lease-with-hyperscaler-2026-11-23/",
-      "ts": 1795442313
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "NVIDIA has formed national security & export control committee.",
-      "title_ko": "NVIDIA는 국가 안보 및 수출 통제 위원회를 구성",
-      "url": "https://www.financialjuice.com/News/9864449/NVIDIA-has-formed-national-security--export-control-committee.aspx?xy=rss",
-      "ts": 1795442318
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "JPMorgan's Fed Rate Expectations - FJElite",
-      "title_ko": "JPMorgan의 연방 준비 은행 금리 기대 - FJElite",
-      "url": "https://www.financialjuice.com/News/9864450/JPMorgans-Fed-Rate-Expectations---FJElite.aspx?xy=rss",
-      "ts": 1795442323
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "NVIDIA: Huang probe to continue after reinstatement.",
-      "title_ko": "엔비디아: 황의 조사는 복직 후에도 계속될 것입니다",
-      "url": "https://www.financialjuice.com/News/9864451/NVIDIA-Huang-probe-to-continue-after-reinstatement.aspx?xy=rss",
-      "ts": 1795442326
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "V2X downgraded at Bank of America as temporary revenue gains mask 2027 risks",
-      "title_ko": "임시 수익 증가로 2027년 위험이 가려지면서 Bank of America에서 V2X 등급이 하향 조정되었습니다",
-      "url": "https://seekingalpha.com/news/4675554-v2x-downgraded-at-bank-of-america-as-temporary-revenue-gains-mask-2027-risks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795442359
-    },
-    {
-      "source": "WalterBloomberg",
-      "title_en": "$NVDA - *NVIDIA SHARES SURGE 25% PREMARKET, HIT SESSION HIGHS",
-      "title_ko": "Nvidia - *NVIDIA 점유율이 프리마켓 25% 급증, 세션 최고 기록 달성",
-      "url": "https://t.me/WalterBloomberg/38906",
-      "ts": 1795442372
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Important Notice to Long-Term Shareholders of Fervo Energy Company (NASDAQ: FRVO); Lincoln Educational Services Corporation (NASDAQ: LINC); O-I Glass, Inc. (NYSE: OI); and Planet Fitness, Inc. (NYSE:",
-      "title_ko": "Fervo Energy Company(NASDAQ: FRVO)의 장기 주주를 위한 중요 공지; 링컨 교육 서비스 공사(NASDAQ: LINC); O-I Glass, Inc.(NYSE: OI); 및 Planet Fitness, Inc.(NYSE:",
-      "url": "https://www.streetinsider.com/Globe+Newswire/Important+Notice+to+Long-Term+Shareholders+of+Fervo+Energy+Company+%28NASDAQ%3A+FRVO%29%3B+Lincoln+Educational+Services+Corporation+%28NASDAQ%3A+LINC%29%3B+O-I+Glass%2C+Inc.+%28NYSE%3A+OI%29%3B+and+Planet+Fitness%2C+Inc.+%28NYSE%3A/27385150.html",
-      "ts": 1795442376
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "英伟达美股盘前涨近25%，此前英伟达董事会恢复黄仁勋首席执行官职务。",
-      "title_ko": "엔비디아 이사회가 젠슨 황(Jensen Huang)을 CEO로 복직시킨 후, 엔비디아의 미국 주식은 시장 개장 전 거의 25% 상승",
-      "url": "https://wallstreetcn.com/livenews/3204332",
-      "ts": 1795442380
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "NVIDIA's CEO Huang: I can’t wait to get back to work.",
-      "title_ko": "NVIDIA의 CEO Jensen Huang: 빨리 다시 일을 하고 싶습니다",
-      "url": "https://www.financialjuice.com/News/9864453/NVIDIAs-CEO-Huang-I-cant-wait-to-get-back-to-work.aspx?xy=rss",
-      "ts": 1795442384
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Effective Fed funds rate 3.88% November 20th vs 3.88% November 19th.",
@@ -11504,6 +11441,69 @@
       "title_ko": "쓰리브룩스, pre-A 75억..뇌질환 'TRPML1' 신약개발",
       "url": "https://www.biospectator.com/news/view/30511",
       "ts": 1795480005
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Nasdaq-100 futures dip as traders assess whether if Nvidia can build on rebound from Jensen Huang’s return: Live updates",
+      "title_ko": "나스닥100 선물 하락, 젠슨 황 복귀에 따른 엔비디아 반등 지속 여부 주시",
+      "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+      "ts": 1795480025
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Nvidia partner and supplier stocks in Asia jump after Jensen Huang's return",
+      "title_ko": "Jensen Huang의 복귀 이후 아시아의 Nvidia 파트너 및 공급업체 주가 급등",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+      "ts": 1795480028
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "에이프로젠, 빅파마 기술이전 승부수…'관절염 신약' 임상 확대",
+      "title_ko": "에이프로젠, 빅파마 기술이전 승부수…'관절염 신약' 임상 확대",
+      "url": "https://www.fnnews.com/news/202611240922055947",
+      "ts": 1795480030
+    },
+    {
+      "source": "뉴스웍스",
+      "title_en": "러시아 군용기 카디즈 진입…울릉도 한때 경계경보",
+      "title_ko": "러시아 군용기 카디즈 진입…울릉도 한때 경계경보",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=904148",
+      "ts": 1795480155
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "서부발전, 환율·금리 불확실성 선제 대응…재무건전성 강화",
+      "title_ko": "서부발전, 환율·금리 불확실성 선제 대응…재무건전성 강화",
+      "url": "https://www.news1.kr/local/daejeon-chungnam/6363734",
+      "ts": 1795480157
+    },
+    {
+      "source": "전자신문",
+      "title_en": "유유제약, 고용량 경구용 항진균제 '유미실정' 출시",
+      "title_ko": "유유제약, 고용량 경구용 항진균제 '유미실정' 출시",
+      "url": "https://www.etnews.com/20261124000071",
+      "ts": 1795480160
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "포스코그룹, 美 에너지사 셰일가스전 지분 5.5억 달러에 전량 인수",
+      "title_ko": "포스코그룹, 美 에너지사 셰일가스전 지분 5.5억 달러에 전량 인수",
+      "url": "https://www.news1.kr/industry/general-industry/6363687",
+      "ts": 1795480162
+    },
+    {
+      "source": "디지털데일리",
+      "title_en": "“젠슨 황 돌아오자 매수 사이드카”…코스피 5.8% 폭등, 5000선 회복 시도",
+      "title_ko": "“젠슨 황 돌아오자 매수 사이드카”…코스피 5.8% 폭등, 5000선 회복 시도",
+      "url": "https://www.ddaily.co.kr/page/view/2026112409233754375",
+      "ts": 1795480165
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "엔비디아 103번 사고판 트럼프…젠슨 황 복귀 급등장에 ‘이해충돌’ 직면",
+      "title_ko": "엔비디아 103번 사고판 트럼프…젠슨 황 복귀 급등장에 ‘이해충돌’ 직면",
+      "url": "https://zdnet.co.kr/view/?no=20261124091519",
+      "ts": 1795480168
     }
   ]
 }
