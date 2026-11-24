@@ -1,16 +1,6 @@
 {
-  "updated_at": 1795493190,
+  "updated_at": 1795493343,
   "id_hashes": [
-    "c08e8979227e84f6361b9a0b004e28213c2dd0d627f56dd08401ad455b5c7b43",
-    "07d270e0d4b98d745bef73a263b8c5ee4cc37dac550e42193c0d8cbeade61f41",
-    "bae99c1e69ad9413b27f949e63caf9316daad56877a11881444a45828f884255",
-    "6e91a4ce191143ec89618acffce98e6943038a2e87ee38f959cbb59f9b2937ad",
-    "8b8d0eb3b34fa66bb69c9a986ea4945c3699f93603b31d30ae5c9a04f653761e",
-    "9d5053d54dcac672975780f131976a509770bd1a116bc61f481ade1f6c0bd47e",
-    "464c4dc9e77414331721b051d5e2276620a947a00605048e2da1fe88decf1256",
-    "53e33d000475c7e524fde446f34f50c6d3f2fd12cd103c3b4cf28ddffe758fca",
-    "a764bd50ce10dd38e334920119c14be71110ba236315618fc0fdfcb45b9c679b",
-    "9c58a4606cbe55fac5663f2236031cec80c19fdf956395c180d94d33dc1eb09c",
     "b79547132873a3ff246476c62abf335523857e1b96fe96e1d5dce757587f8033",
     "98de4f27531593077ccc0dfa7883738354bbf61ee9b39ad04aacb63b3d7564a8",
     "e4dc3ffab521ea1050aacef89731829a5f8d1e59a6d3208df0f24bcc525ecf65",
@@ -4000,18 +3990,19 @@
     "2a70a279ff8266c0124086309331d5d854e5f674a70affd2a9b3b87aa4163701",
     "b6b732268cbb9f995011597997f85c769638e9a7bd4af717dddf438624a1e135",
     "d1de057e08994308deb9a596c883ae1db4b0d00c6d57cd6c872f7ade082203f3",
-    "59587dccf9702d975d23ebaf26c7726d0d8b958398bfd89f7c3a5abb4476893e"
+    "59587dccf9702d975d23ebaf26c7726d0d8b958398bfd89f7c3a5abb4476893e",
+    "864f407989dc3ad0528c48239663fdc0d8124f1fea2f2d26a340e8accc5a12d8",
+    "18e076f396b9b3c237e7cfa16e74014e0caf8bde2033c613542fb44c7f4ac19e",
+    "04c97072758856a1746c198969fb9be225241e774602d7743d9839d7bef22f53",
+    "19cb122fa4c78a1081df447d7007ce77238f7d0f31e526307af03cbbd101edd2",
+    "00d8c7165e3bd5682d14231f3943c2a1f07575e67a4611c05746b38e21048d28",
+    "d837db3f1af5231028369c2d05506eda8e6cb39806e4f1007f4480793dd47830",
+    "8711cf37aad31b1196f0c505516a19852029e740bd82299f94efa713e0133d69",
+    "a93ce3fa9aa6427d9c1804efbd6ce88740bdf27b28c67c98cc86478636b91e80",
+    "b415f4bc7cd8a56309dd5c11837abc9fb1b9381014c3c1b3374e5256ab784e8e",
+    "65a34844c116b89806788fd23949aac70d605fa8591e4e53fbca8bb27102f41d"
   ],
   "title_hashes": [
-    "0578169cc6128094c557319639ea15a2f299f49b0e9f684b686dfbff53fb0ecb",
-    "18de4c3dcd13cbcf02309e6bd10d49a8cd3812345e1e02e853c8c5dc10fe7a3a",
-    "ddf77966bf6a72563f4cf97b3f944f6f917923de9c25e65764d88df822318841",
-    "898ddf16a712971ea82d6784632bf107cd471faeda81c29fb57852e73a2dcc59",
-    "d3d57be94fc1c917b925a468efa23123abb2b53ebe2ce407a428cad29ce34a3c",
-    "fefd2873e4a3fb7224ad2ae0965e352801e0f06950cfb22794b97776887f42bf",
-    "6d30b1772cf32ee4d7a5c4597e11ed5bb74af30fda67ad75c5ab899255f85a1c",
-    "401c70fc43ccbdae51d46b94abb8db21a3d6f1c17849402cd16aaba3ec79fe2f",
-    "bc1be5943309908c149827e853f6b5c7599cee1a64557d4dc33f4637b2301bc4",
     "9ae6f4250f9516b881ef8cbb8458beda6ebc31a33dc541d869e310984d88e7e0",
     "bb5be09641507ee51b31ea7879aae0463237500057ada95e07f712b915510710",
     "bfc2f0655af727080214f98c70fbb229477b87f8e29be530cbab9169c49ab947",
@@ -8002,30 +7993,18 @@
     "f116ca4c562955393f51d14975975cb03dd877e56251a5288275f65a973da3d7",
     "3527dd6730673856bec7cb211f3d766b603b546d2d88155dd361887d3cacaac7",
     "d1474a260a34f74cf16fbb94b339f23dd4fd2f0b0d61ac4196fd732963a74e28",
-    "f04535d5388b00037b19f19053a0ebd735f78450559c5f87c6c097ae4ec70a01"
+    "f04535d5388b00037b19f19053a0ebd735f78450559c5f87c6c097ae4ec70a01",
+    "2109add740f2d3361190e62fcad9d00b96b1fbdce80891b9ecf8277232d60bd5",
+    "7945b60bd2e45c6fedc0af2237dc1b4d20bd2dded280894685cefc7ca861a760",
+    "ba49c5d5e44935dad11cb2c2e061ccf2d465a1b5fededb6843f03ce3c31db072",
+    "f87775857b4fcfd0ef7d686408d9f523aa871f04d51fb748cbf50be899b29873",
+    "a3d79fa2e67a94e5d669f3276492002b5c61be456a1a57086539eb7cba4e1f0e",
+    "9b569bfcd7305a22e9838d7306f7bee82ed7f852cea9cfad4003bbf05220f8aa",
+    "9349b11a6fa940e16d6b9a521fac1b7a93ea9e52cc0a97fa91d40c23b4e26a7a",
+    "f6a21867d524d18b899cf6f3a7d247f6054bd1678890b40c8ef85604de87ff7b",
+    "16049b628af4cbcd8b47b202f504ff39264e1960c4a069e2d3b70f58f0c82cde"
   ],
   "recent_sent_articles": [
-    {
-      "source": "전자신문",
-      "title_en": "코스피가 미국 기술주 급락 여파로 하락 출발했다. 23일 코스피는 전 거래일 대비 135.98p(2.77%) 내린 4734.90에 개장했다. 이날 서울 여의도 한국거래소에 코스피 지수가 표시돼 있다. 김민수기자 mskim@etnews.com",
-      "title_ko": "코스피가 미국 기술주 급락 여파로 하락 출발했다. 23일 코스피는 전 거래일 대비 135.98p(2.77%) 내린 4734.90에 개장했다. 이날 서울 여의도 한국거래소에 코스피 지수가 표시돼 있다. 김민수기자 mskim@etnews.com",
-      "url": "https://www.etnews.com/tools/image_popup.html?v=bjQ5VkNYY2dLZTZMZFBUbmNzandvWmpGcjBTK1pHYm1CUVRXR0pTMldlYVZkdE5JeGJVUFVVNURJN04rbmhKTXR3bThUNHFiVkdUUTR0WjBHSmFBalhrSVpSVWF2SnJmeENSOVNiMStOUVRqeUIyc2c0WHpSNlk4bThIMEg2OFVZL2c3dFdqUFJHbXlQYmNDcjZlaWU3cFR2aU5jOHc0Q3hTbmt1Ny92MTlISmFUOFpUcTh1VVNSZGZ5VnduaWpISU9zV3JDZEJEMU9FR3grbXpHNG5FcjVrZDlNOHJ0Y1Zpa3A4YkZPbHFPcGhPMEZOa3djK3ptYU9QSW5YaHhpdGNvTHdLN0lMazZMYnZDa1hJdmt4dGFNVnROVXcxaFdZZDVYUG5GbGpueDBiai9nWk1lY3VPRWsyTzFveWlmRHRjL28vYWhJdVhCU21uVXpad0c4YlV6VmR6VFpqSVpSR05IWi9QTlFKTE8wNVIvKzU0clczTDYrUm5UV2pBK3pxU2JxeEhPOVU3bVd5NlVEZ2xzRGFKRlIyWlFZcVhWcUNVMzFZd2pUcEVGTzVTek1Pc1M5OUNGeVJtRDJ0SW1EMzZuMGRBdHRSRHJ4MlZ5YlhGZHJpd1Z3Ym5YbFVaRG5mT1J4R3NNSzJlb1VYNm10ajIzY0ZEaG9GLzFLamVjb0ZGbW5vT1JOU1BBazNSN2Z5MDVSRiswRFhHWUpTVHIzSnk2RndiWmhwK2Z3WUl5RXJ3VTBHTFpnbmdIZk5aVk1EZ3JHNXVPdUdKT1l4VGNMMzlqQWpmZDFVVERRTlgxVDVMblBSUnEwQ3ZJN2ZiZzJHS2ZlazdjME52VTd2dU5yVDFpRTIweXVzeUJyRml4NjZyNkgyS0xXYll4UUZ4WURISXRnczZqZG1kamE2NXFVUUNhS1dzNW0ya0Q0eG4yTUs0Y0x3WFVONFRaRjRST25xeEIxc2V4R1RvWWRQMmwzV3FBMmNBNnprS0ZaYUE2SzJESnZUU3FLRGhXcWM3MjlMaXpucFQ5dXJoWWk3V1JrdDJMY3J1YVV2enIzbEZPcUsxSExQSWYyVEJRdz0",
-      "ts": 1795447591
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Asked about Russian satellite reports, NATO says it constantly assesses situation",
-      "title_ko": "러시아 위성 보고서에 대한 질문에 NATO는 상황을 지속적으로 평가한다고 전해",
-      "url": "https://www.reuters.com/business/aerospace-defense/asked-about-russian-satellite-reports-nato-says-it-constantly-assesses-situation-2026-11-23/",
-      "ts": 1795447593
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Applied Materials gains 15% as semiconductor peers rally",
-      "title_ko": "반도체 업계 반등으로 어플라이드 머티어리얼즈 15% 상승",
-      "url": "https://seekingalpha.com/news/4675625-applied-materials-gains-15-as-semiconductor-peers-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795447596
-    },
     {
       "source": "The Information",
       "title_en": "SoftBank's Masayoshi explored $1T buyout of SK Hynix",
@@ -11504,6 +11483,27 @@
       "title_ko": "싱가포르는 제한된 미국 반도체 수출을 위한 중개 채널로서의 역할을 거부한다고 PM은 말합니다",
       "url": "https://t.me/marketfeed/1084280",
       "ts": 1795493189
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "LEAKED RUSSIAN DATA SUGGESTS THE COUNTRY'S BATTLEFIELD DEATH TOLL MAY BE CLOSE TO 500,000, REPORTS SAY - SCMP",
+      "title_ko": "유출된 러시아 데이터에 따르면 러시아 전장 사망자 수는 50만명에 가까울 수 있다고 합니다. 보고서에 따르면 SCMP",
+      "url": "https://t.me/marketfeed/1084281",
+      "ts": 1795493219
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "국립암센터 암빅데이터센터, 보안 관리 체계 'ISMS-P' 인증 5년째 유지",
+      "title_ko": "국립암센터 암빅데이터센터, 보안 관리 체계 'ISMS-P' 인증 5년째 유지",
+      "url": "https://www.news1.kr/local/gyeonggi/6364141",
+      "ts": 1795493340
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "VANCE, SEC RUBIO MET QATARI PM AND ENVOY TO DISCUSS IRAN NEGOTIATIONS - WP",
+      "title_ko": "WP \"밴스·루비오, 카타르 총리 및 특사와 이란 협상 논의\"",
+      "url": "https://t.me/marketfeed/1084282",
+      "ts": 1795493342
     }
   ]
 }
