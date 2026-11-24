@@ -1,25 +1,6 @@
 {
-  "updated_at": 1795564446,
+  "updated_at": 1795564596,
   "id_hashes": [
-    "243a4442a4f0106df4d225e3cb700fe55589dbea364cb8d5f752b1be9cf20018",
-    "d97cd89ea97d979f64c0793530cfadbade7563b2923d8b329a8c2d87c67996b5",
-    "7ce15380ad80bfd240b8959637f3883ff6d87363ab3fbe0c404067de248fcdfa",
-    "cd84e84a1b16e7f92d728fe59a949f7081df973080f97c9519c756c791433785",
-    "3dc1fe91c1ef0cc72c73c1f0c8509bc835f3d697fe7d15417a25413694d862e1",
-    "cc00816f01b5ad92eb9ed0e897c7aa38815d16daab7d34b16bcd9b371722e4fb",
-    "6a9b8bb0b6908d7fa80d9a8306ad84eafe446c015b5bb775728a836e06553623",
-    "716b29ed68ad818138c93220d81f4c03625abf936f4fc9ff0fb304f9183d0dee",
-    "e5a07c5f767e9043b79f1e6a88c0e12ba23d78d94cea6832da36c414e73a26bf",
-    "015f4696479c131ac4e766deed18f45b4fe43db1ef26d71cb5d7405bea922157",
-    "fb1051008a1e4dfed3dce8a290551ca947943afd12958c3603c7f52ec821ada9",
-    "da1da3c06422594cd43904389353d3d61e77a0d6d22a9748a29cd5c5311d8965",
-    "a816fa5e9a4606c8a386a747329aaa9a3d42896c5c8b3fb7b8ca9b4c18fdb061",
-    "a9c26b6fd3fb16f00e9dd3e146dda8dc239cca005f37a31dc33766e9c88ba547",
-    "1246787ba2ff68a194ffcd15563bf9e0473a68d0a59f2e58621d452f91d92232",
-    "0d9ab60ac864fa62f3a7ed4d01db31b2403b4e2293eb465dd6bd10e001fbb5df",
-    "b6636310c5a9610fd913fd166d14ee5338d23fab5daa6b8b7dc56e6e7ee3d655",
-    "df3a884fdad7c371b41d710656350ef6ed13cdc1adedd1096b1c6fe1380a5be0",
-    "96c710f990ddea87824e8d5ce77b3f8f1cd626924eb7e330acc45a6796abcfaf",
     "3a31b21cc1567cfe53c9359f1c2cd9f91d4094d06fa18854c2aa199d8962a476",
     "7da761a8b5a8ac0a912259963b52cce067aca38236bcad0162d6fce8212103af",
     "3d79aabfde262a58bf64e6d01e1fb266b0ac10d1823c1afe2990325c908dab7a",
@@ -4000,29 +3981,28 @@
     "c84f42630923d5bff5cd2969339d34227aff51d41b3553c4280aeeeabf60dd94",
     "8dca42c959ec49fe64e311264ce835a8e68f78c2475afbd85558fe23338471ca",
     "63a4b806770ba9b01acdf17df479e1990539f8f26c7a90a2f4ca65a78954dc2d",
-    "016cc91c4c932debc549f4318e76f9027690b6d17c3739e40a2e5c6012f510d5"
+    "016cc91c4c932debc549f4318e76f9027690b6d17c3739e40a2e5c6012f510d5",
+    "6da6ab1fd01d33be2df99455c6c263e36d286f7c96beff0c50b97bd1bb618ab5",
+    "f5364b71bbd0bb4ad42eb2019428de0fa375d7640c6be81df740bdf9bd8da4ce",
+    "6650016ea6fe8e3b29c41e43221ec2d5be83ca16ccafe232f88e688fe03208e1",
+    "714d2261cac9ddeb312d2fa76399877d647d9944aca8a13db4c77175f61fd0b5",
+    "928b686f5961646de0739de4098dda4ba17c7d47b0edb4c038a167534766c039",
+    "2c628ef6832d054a58264dce79ab8af80306a18f9c0616e63d0dcc16da5298a2",
+    "d6fb62cceae939ef943b7d672d751f22a24feacc086d9fe89401565c93d92d1e",
+    "36dded9f69f1d4e3cf19a10a5390b042bcb9ba6a24f5d617cb2e23ca33134875",
+    "3a9732c1f69c15df072acfa531a789086123ccc8c8abe1c104beeac2ba16be0e",
+    "f2811f42d945193cd7eac08e516925124dc0493a3f13e8cef6ac175f6408d323",
+    "6f61cdeef909cb349bcfeb32719e2d8bfd2b7fdf306e11241534797b203b9a5f",
+    "aae50c7f941ff92866407cb0771b888ba7c01eb57e86fcdc64655e2fd8cc4101",
+    "16cac424d754cdc1541fc315eb040019c7afbeffa29781fee6d46e0434e91b00",
+    "f7bc042e14ef7ba49791edf90919fe6d440a706da48b31846fc9062b3d4fb7fb",
+    "9c3d3dd8efb6781e05c7f10305a84d32306a604b60978162d98171c03dd3a34e",
+    "70460787aa1179a4dbdc7eeec1bf535ae8a15054db6e1ad5a24468ce8b3f2ca3",
+    "5ff290f1903fcc113992febbdb77c18357e05e7b445fbeb38822ff46e82c3e6d",
+    "e6154a4ac65ede9b1fb1dbf6c8d5f4cc93e5e8f9c212554d518b46b1051f4f41",
+    "00611d48f10d4ee7b4dbcd5b6df52ae3dcfc291971728f4d0a47db6c4b7ca04e"
   ],
   "title_hashes": [
-    "e02533f0bceef19f1c4b54e6e664b28d90c69db3164fe60461e157cc27bdf893",
-    "d56fa9fb2eac39dee40a441590ef95f2c87c729ab96e8ef85d4b528d3ef2ade2",
-    "587f61d1f6d4c8a4555c5d123bb1921d4a1076b1b647bed1d58322c8872db82a",
-    "892aff9f24c5a861b436e763cc7cc6ab5c8aafa09396bfeef747ce9b8e48b4aa",
-    "a9f67ebeda1bad61d4c25c1406b4e4adeb47768f0ccac8b7d992cf177386db97",
-    "b252f941ff47f033572136699a26b645664d509eada988aefd7020d6569a5ed8",
-    "5ea89325bc125252c475d77d26aa4030e2e11f8d326eaf5d9b5fb0d21829ec6c",
-    "ed65b64e2f557ff78cb4e9841baf39f51f5329f28d8ed995f7cffb428d7e421e",
-    "4eb67d306d57abfae39ff1257c121e3c598de4035c31c044ba67e994e3763d9d",
-    "611233fdfdd5941393d820f57241b09444e1567547c0c662a944f4a3c2b6ea33",
-    "0c10d27ff3b964ce0b19b74afe324a2a457fee55c54097521857581f94380c59",
-    "ad796b64c0a06ef259c38c205cb8306cab51ceefc1f49ddf69911919918538c4",
-    "cb8a47f727ed65d941239f155bd8dd58d2f5869620615c2bf2891fe7b82b04f7",
-    "92fb34d59829282001cfb3e5527976ac427d35ccde2f5234a4b98ceb9739dcc7",
-    "0fd75ef46b7bd9d6133af8218d6a49bda51a5c6f9c28c7ef7c1b6fd7da07e13d",
-    "c48df722038519a663ca83165116c7711741f052a0fea733663290d0da049265",
-    "ab790b5802ba3cc6f4323c225838984828fdf4c3c9abfb230175ad1a73a64c28",
-    "2e6b6f1b02ff71e0cd6666f7cf2d0f981f4b06d47db165ecd65a147c28137dcb",
-    "93e21a69352511b90c468888f8ace1675f8ec50d4cde3365cdec1f333836334a",
-    "6795bb70874e7757a27227c62d90e7e56288cd1e83994731c34702f3744797dd",
     "6aef3a6949ba3ba3ecfda6bc56d15ecb5f7b1903dba67716800cf737d0b8e628",
     "d56f2c20f338540a06ff8e05783f2ee6b3b342b998460a3eb4fcffe4737ae6dc",
     "9372be3e8b4bf4976ffa1a479ef0854527f667cccad3fd3107820e5dfa35c90f",
@@ -8002,44 +7982,29 @@
     "c516c90aebc89769d2379f64f263af839d2e880c8ae28319102f0f362d1e9bfb",
     "066030226e30fb703280fefcbfce6f90aa379d370302cbde443195daea258e02",
     "f6a8f238a6abfe8654fa7b3080c841cad6260cb2fc45b4f1c57f2d4dbf3a1a6e",
-    "cb41bdaf1765144b452b48d1c06d0c7b98997ec60bc94d6b868b1f1400948ef8"
+    "cb41bdaf1765144b452b48d1c06d0c7b98997ec60bc94d6b868b1f1400948ef8",
+    "d9ff96bd5ce683e7f5fc1bbfbc02f92eda96e245b0f1d081e9853a48f1922605",
+    "7f78f02311fdd3c08f93c244c2c292c9489282dfe575fe72683a6d248a47912f",
+    "d63a61c0b0bd568db0ba0d58c5796a6dd2f15375422f7982e6fbb8f15bf49c11",
+    "15a1fa7a61052efb6979410bc12dcd9471b1c4f13217c199c210377eeff66d3d",
+    "60bceb2ea0a018bb3b77af87f0ebcbe3498fc4ba85bb2f97c481331dd2158b3b",
+    "40ab4337d8339569d822b4cb6f397643ddc13e69597510474e62eb0d7aa4e130",
+    "13c834b39deded9ac93c3e5d208fb76c775f55d47e0f012709739e4b6255b5b2",
+    "7fbc5037a661b87d7c46b9e0933f755a39a4acdb7b99e18e331afa21241210b4",
+    "6f65aeb856a119d362149247b7ea25629034d41d59f2e4537b936385b21bde73",
+    "ff43bba4b6ca68d16bb7b01f09ed457837091413247dbf0e0e354034b9371cbe",
+    "72a96d3fb6283df768f366b5f606280413804f057f753c358a79c772cb752b2d",
+    "eb802e977b78b00f2dbadde4a049a58efccec86780be7752adeaf3fe719a0537",
+    "2af87822ae848eb2fb56059258534282688674916f3135b134e3ae25b1390469",
+    "3cd0ffb33d847d9d21d8bddc40530c61ff792599d6cdf403a1158c47aeab3beb",
+    "89ce1d33c6926f1dce3a879a67866bc50bfca994ddb0e340189e5bc902b413af",
+    "c4024ca0678a752bf592285b31aa701d7e2acf7a08fd16f9ddff8a0906d8547d",
+    "0d6a3586703dfc0a347169003252a67505732ece542ec5a32be261642af63ce5",
+    "bef748f8cc8988d6a07389f67463ecb5bf45202879c74812e071af9bb369513e",
+    "94f2e1926cc5ab7f0b4447ff8567a2d2d9acf484a3521cd9cd77d459fe8e8935",
+    "2c84e4a00652b4a564183d59a0e2ad6eed9da493033ea059bfb4e82d94a0d890"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Airbus agrees to sell U.S. space business as European satellite venture takes shape",
-      "title_ko": "에어버스, 유럽 위성 벤처 구체화에 따라 미국 우주 사업 매각에 합의",
-      "url": "https://seekingalpha.com/news/4676220-airbus-agrees-to-sell-u-s-space-business-as-european-satellite-venture-takes-shape?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795534290
-    },
-    {
-      "source": "매일경제",
-      "title_en": "시프트4페이먼츠, 캐나다 페이바이뱅크 파라마운트 인수 완료로 계좌이체 결제 역량 확대",
-      "title_ko": "시프트4페이먼츠, 캐나다 페이바이뱅크 파라마운트 인수 완료로 계좌이체 결제 역량 확대",
-      "url": "https://stock.mk.co.kr/news/view/1205260",
-      "ts": 1795534358
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Highest and lowest quant-rated communication services stocks above $10B cap after earnings season",
-      "title_ko": "실적 시즌 이후 100억 달러 상한선을 초과하는 최고 및 최저 정량 평가 통신 서비스 주식",
-      "url": "https://seekingalpha.com/news/4676117-highest-and-lowest-quant-rated-communication-services-stocks-above-10b-cap-after-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795534361
-    },
-    {
-      "source": "Reuters",
-      "title_en": "German coalition cuts green power subsidy budget to fund electricity tax cut",
-      "title_ko": "독일 연합, 전기세 인하 자금 마련을 위해 녹색전력 보조금 예산 삭감",
-      "url": "https://www.reuters.com/business/energy/german-coalition-cuts-green-power-subsidy-budget-fund-electricity-tax-cut-2026-11-24/",
-      "ts": 1795534519
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "NVIDIA (NVDA) call put ratio 1 call to 1 put as share price down 7.7%",
-      "title_ko": "엔비디아(NVDA) 콜 풋 비율 주가 7.7% 하락으로 1콜 대 1풋 비율",
-      "url": "https://www.streetinsider.com/Options/NVIDIA+%28NVDA%29+call+put+ratio+1+call+to+1+put+as+share+price+down+7.7%25/27392574.html",
-      "ts": 1795534522
-    },
     {
       "source": "FinancialJuice",
       "title_en": "EU Commission: May end disciplinary budget steps against Italy in 2027 if 2026 data confirms deficit was below 3% of GDP.",
@@ -11504,6 +11469,41 @@
       "title_ko": "롯데아울렛 광주월드컵점 '5년 대부·종사자 고용 유지 특약' 결정",
       "url": "https://www.news1.kr/local/gwangju-jeonnam/6365018",
       "ts": 1795564445
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "AUSTRALIA PM ALBANESE SAYS HE HAS SIGNED A TREATY WITH THE SOLOMON ISLANDS THAT WILL STRENGTHEN THE SECURITY PARTNERSHIP, WITH AUSTRALIA TO BE THE SOLOMON ISLANDS' MAIN SECURITY PARTNER",
+      "title_ko": "알바니스 호주 총리는 솔로몬 제도의 주요 안보 파트너가 되는 호주와의 보안 파트너십을 강화하는 조약을 솔로몬 제도와 체결했다고 밝혀",
+      "url": "https://t.me/marketfeed/1084830",
+      "ts": 1795564535
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "'글로벌 원전 투자기회 짚는다'…삼일PwC 웨비나 개최",
+      "title_ko": "'글로벌 원전 투자기회 짚는다'…삼일PwC 웨비나 개최",
+      "url": "https://www.fnnews.com/news/202611250848133420",
+      "ts": 1795564537
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "A JOINT STATEMENT SAYS THE TREATY WILL MAKE AUSTRALIA, THE SOLOMON ISLANDS AND THE REGION SAFER AND MORE PROSPEROUS, AND REFLECTS THE SOLOMON ISLANDS' SOVEREIGN DECISION THAT THERE WILL BE NO FOREIGN MILITARY OR SECURITY BASE IN THE COUNTRY - AUSTRALIA, SOLOMON ISLANDS JOINT STATEMENT",
+      "title_ko": "공동 성명에서는 이 조약이 호주, 솔로몬 제도 및 지역을 더욱 안전하고 번영하게 만들 것이며, 해당 국가에 외국 군사 기지나 안보 기지를 두지 않겠다는 솔로몬 제도의 주권 결정을 반영할 것이라고 밝혔습니다. - 호주, 솔로몬 제도 공동 성명",
+      "url": "https://t.me/marketfeed/1084831",
+      "ts": 1795564540
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "SOLOMON ISLANDS PM WALE SAYS THE TREATY ELEVATES THE RELATIONSHIP WITH AUSTRALIA, THAT THE SOLOMON ISLANDS HAS BEEN A SOURCE OF UNCERTAINTY IN THE REGION BUT \"THOSE DAYS ARE OVER,\" AND THAT THERE ARE ONGOING DISCUSSIONS WITH CHINA ON A SECURITY PACT",
+      "title_ko": "솔로몬 제도 PM 웨일은 이 조약이 호주와의 관계를 향상시키며 솔로몬 제도가 이 지역의 불확실성의 근원이었지만 \"이제 그런 시절은 끝났다\"며 안보 조약에 관해 중국과 지속적인 논의가 진행되고 있다고 전해",
+      "url": "https://t.me/marketfeed/1084832",
+      "ts": 1795564542
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "澳洲联储官员Jacobs称加息后金融状况已“具有限制性”",
+      "title_ko": "호주중앙은행 관계자인 제이콥스는 금리 인상 이후 재정 상황이 \"제한적\"이 됐다고 말했다",
+      "url": "https://wallstreetcn.com/livenews/3205289",
+      "ts": 1795564545
     }
   ]
 }
