@@ -1,23 +1,6 @@
 {
-  "updated_at": 1795575714,
+  "updated_at": 1795575915,
   "id_hashes": [
-    "747e29370dc9b873e20765359f782354bda19945a6748568ba310b87811ab88d",
-    "0f9a49aa0031bd31b1d481b081d2a25427d522605caba8521e67c9c2d9e45d6e",
-    "844b6584c6920c2e45ff7ab4ade24d215fdf3dcf792c9de40cb3eb9ef545ec5c",
-    "adb81702cb1c3dc37fb3efd0169b42316a141f2b824047c7c03d32abb85961af",
-    "731872ddf359ace344fd4480f6d4286be48deb35a8a35da81e75533e8988699d",
-    "7a61868a93489d176d9a0c29e4c70d1adc3b511580605be032142734229160c3",
-    "9e40fae744ea666f5d864f15402de158f74aeebeb176a6c366216bb2d1c16ba8",
-    "7bcb423100c2df5eceab3b5edc87b375d4bc105554d86b1bd5815e1914e14ec1",
-    "4cf41ae214ff0512331e21af0ec6c4d07cf5ef6c96431b5203580eb5264832d9",
-    "4612a861e430b4eae3cf12ae0fa69cdc37bbd21813e2d6c9dea6a3d71ec217ba",
-    "eec092f52425e4173cc4a3699dd66e642777d60843def5edc8f42d7d8ac66f51",
-    "012f78f5e54dfa012f4e8f6c98902d74e469177f37d110f54bc37403c2a0d163",
-    "d72d5b11f8bea9f4ee922d7f45283328b9ba55af178a43ed252d5403ec17db17",
-    "f06a17e9ab1c33a742c032a4a11842fced230ebc04c0188ecaf68c1eb87ace5e",
-    "b0adc727bf5bf2890c163951e001e4d19c079d5203057ff8273cd64de387c162",
-    "fb5c9608f344019e9382a979ca9292ebcbf3ce8aa6a5734bb6d6cdd0ef39c020",
-    "9a08dd4447f314be183fb43ca7e51eee72679ce5c79cd5d41ac98ff6215f4ebb",
     "04b06dbcee688944a0baa2d6560065b6db90ed464ea6960b2d7b311f6e88ab0a",
     "011c7ced5ff5e4a908351408ae1090f82801734b106ae87d42a5d9b9b1b4a8fe",
     "ff2baf3da97e18efe048277421ae8379a1e9f82e269e87df781669b033fc3fa2",
@@ -4000,28 +3983,26 @@
     "5479b4845f7b650e26e773631ed1910c678a2ffaf34a1c6dc3b736c2f1c9254f",
     "4fe63b19641b25b9516e0acf3a6742720130cc2bca588039610640b1325d0b66",
     "be610a769c02451b4972c32037139443740612e874c6006a2ba2e570f8f998ec",
-    "0a962c5fdc071d780d08c3378be5cfa947cfdce82e3c5497c04cf227b9db776d"
+    "0a962c5fdc071d780d08c3378be5cfa947cfdce82e3c5497c04cf227b9db776d",
+    "982872a0ccd7ff331944c898449a9a848573d2521ebe8770479df271149bb207",
+    "e27e496c481de4a6827c0f4a0210de18c1b068d24556f7592112ffaf312287db",
+    "7142d1a64e2bc2e1cf9c8e92fd2a824ff23d0c4a02a3d0421c02bf12636894ca",
+    "61c4e3c7a38ca7fe210512cbdb58e702a00ddabfa2f5484798cdec2b84128f56",
+    "62fff787a3ca5f24d189eef2f6c60c2e08f1a84cdb943e8d8046fd87846550ab",
+    "2bc162f41a1a160d5c85b54ad722d75b77d8bca5d3979b5b95ce3d616b401a02",
+    "e8d9198be20be28349a7c67e8cb4ec2aef837373462010add6f17de09f693bed",
+    "d854a54a258365fcf79ff49329249cbe64b4dbcb2950e1255627163f89fc35e8",
+    "1d5773904b497aa2b064e7f5b80ca31612482a5bcb8014b10a4e01375fd2b05d",
+    "d7915576816727a71db32d430af89dcbab16f3fb33d24043a7d4f7ea14a949f3",
+    "641a588ae76348d0b221a8a07fe8f0eb89073e06167f02cfb77d00c1995c9d23",
+    "b34e825129902a707afa338c75b5a1f82187dfd05b48392053501e6b8a355808",
+    "ba583eab0e43d5843b685e3c6e2daedc043eefad628128a95a37651772d243a2",
+    "7148b46c7c0fd212e4e54c5c881dd02346a70eec00f42b8f30ab5ca2481b305d",
+    "234199242ac084b5417a0d0c91f8f6c783cd72b3afc6eb9e2962368095cb54e6",
+    "ffde2174dd599a8ff3e0640f74f99184f7cc637086d942669f0bb7ee43b64a48",
+    "defb4c46bcf0686ab5e6e11148795b15c862834d5b761298aa255b576c2e9308"
   ],
   "title_hashes": [
-    "0887a6c52f8fa5f71a1d0e83b3873a452181c4cc531344f2c89f61b4df5a9e8f",
-    "8949a51f8e74f64bf231f5e06d5302a4ef18b96463aedd306e736dd5668fbd5f",
-    "07c8b01e39cafaf1857983079fd315eba24456a20f466aecb6f3e9b9da233f27",
-    "902421deb6ea696fcec0801d1b3d8d0637900ca2b426126a7e8bda1e2927f3ac",
-    "5553a4fd2e53cf41c4b14628c818088ac4df65daa48a8c2e6e93f514b4b9e9dd",
-    "64a39294d60084bab56df5520659c00d7e505d2de137bcd0fa40df0796696515",
-    "3ff018c185ae3a3ae9f40bb247a9ca5aab459b6f328542b0d14cdfac93443cdd",
-    "45e3d3c4e02f63bebae91b388f1e78ab373f798a6e8b76f5944d58883ce21952",
-    "e95d24a90544d3b01b08fcfd06610f5364bad96fd40130a03404c8c40c17f086",
-    "53ab8558752d66d8bbaa9d8e932b221c0c8bf28e4bde3196d1a791b5c135ac9a",
-    "6257a4d7c852f55ebb10e05788b95803ab8682867fe2c343a60db4b08e39373f",
-    "045a8d89d1d416b11a4957f1861164e825d68f9129fef3cd302b3aad4deaa3cc",
-    "fe5c713257b6856026a57d3c59bf88384f9667ca5aa7821691c67728e6ae08bb",
-    "139598607becaedc15090f4e054dcf3e6a0ba4efef714f942efe22e1d0ff6f0d",
-    "03765ed41e80f547953067d2135fcf232a4e2400433a9ade96857e7761a27d3e",
-    "9081c66a4e8068bfcf7c2d32a1ca78fd300d62347d8309110c8d4fe7f657051a",
-    "11025ede4b3773f36bb02e1bcacf58d47a5e2f5a17c1ee5e84dd94d5e1981f62",
-    "d3e96f56a836ffab8db9fcccbd37ab1b1bf14bb25beb01e949d93ad1dce1f67f",
-    "e0dcaeeccf5978b606f4af1bf63568871faffdd4ac921648b5be34c64a6b3689",
     "e3173e0fad8b97d619922f438988135adf2a880e14a763b6017c9f71d67e4db0",
     "15f5e6ccefbfb359dacff15f3f1fd4fce18b4025af568ab0ee44714eb77fe034",
     "40cd133a6202470419704cef76a4d188b43388359dff4ec26cee0ddde1c33f59",
@@ -8002,72 +7983,28 @@
     "e26f3f77b73c46871d9c321e58184b6f98c00cacc3ad403076dca22f51f51231",
     "61f7850ca3a70e8f59f68be9d6a17834061862d09bbd25b1e8c4784352fc7d80",
     "e81c005f2abf6142f0a848ffd0d79b0aa54b446b14d7fda435eb1564978454ce",
-    "7529f41ea8ab33edbd5323b7c652889366f5f3b9b1782ee30fd9cbb6c495d5c7"
+    "7529f41ea8ab33edbd5323b7c652889366f5f3b9b1782ee30fd9cbb6c495d5c7",
+    "7576d5ca7fecc2a444c8042e3d330954b3eaec52cdab2d9fcd04acda3d7513fa",
+    "3bdb36da8cdfbd8bb30fc09053d5dbd1f5e09fde4308a690ed9afd9bfa61f5b1",
+    "2488dc9abbca48f3263bc1231b350689e98344c100104728eb94a71b6dade090",
+    "5783b2ff21634a090173e8bb90ddce7e99ddfbba9bf947bab5a99a3835ea75f1",
+    "e1456cba79b9406a46816f5e94cd923ad256c22f578659737d9d24756c94d09c",
+    "d1971cd9a6f7ddb31f55e17baa7a162d288bd32f7c338e01c567e29e46f2610e",
+    "b354d655f0371cf5b517f1d8c805681bb18e093b0dbbe90f1816c4c9a49d3601",
+    "239f27ba65ecf1ca91986d42b750d452192f8a1fb083772e155d54ff4bf59913",
+    "df6c243916fa991c8761ad1e534684648ca07e036b1ef3c5cc683abeaa7a524e",
+    "e170af3492f90faf15cd86a6f4b785b6e390023203c659b5afb49288c529bcb1",
+    "af12b9db2db1ed57094490d1989f53aef63386baf6dc7e93b1edc66e9eca0572",
+    "55cb2e1d2a377c7328e1bfe542bb77e02136e2e7adbb87e20add77b1421ce7d0",
+    "1760aa47c133b86f0225b05cb370c4f891a651088f62ff72423c31dbb7950d46",
+    "a18d028d746ee0c1e8ba1d7dcc37d5fcc1e4bb2d3e9cbc054f1a667c582a7c79",
+    "50ee9fcf30536198e93e4d085fff2d3f4c2ca69040e7c2f99172245d38e3dc78",
+    "4f173a92f27c0ef2aeb5d4d268ca344451aeabd05f1e0d3e66280d773051ca22",
+    "8496027255620b4dad1fb62fbb386f1ec917dc2bc1318569a965b3a9e65dfc34",
+    "ecb84301ea087f28c8d77998247bfeedebcf92a7928ababb818ff1bb7daf5e0f",
+    "5a141f417c297846358f4e1c2d871237d64314a2d19198e68cbd692037aa02f3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "State Street Investment Management Launches New State Street® SPDR® Nasdaq® MyPaycheck ETF",
-      "title_ko": "State Street Investment Management, 새로운 State Street® SPDR® Nasdaq® MyPaycheck ETF 출시",
-      "url": "https://www.benzinga.com/pressreleases/26/11/b63337861/state-street-investment-management-launches-new-state-street-spdr-nasdaq-mypaycheck-etf",
-      "ts": 1795549070
-    },
-    {
-      "source": "NYT",
-      "title_en": "US SPY AGENCIES SUFFERED A BREACH OF UNCLASSIFIED INFORMATION, WITH THE INTRUSIONS AFFECTING THE OPEN-SOURCE INTELLIGENCE SYSTEM AND CLASSIFIED MATERIAL NOT JEOPARDIZED",
-      "title_ko": "미국 스파이 기관은 공개 소스 정보 시스템 및 기밀 자료에 영향을 미치는 침입으로 인해 기밀되지 않은 정보가 유출되었습니다",
-      "url": "https://t.me/marketfeed/1084767",
-      "ts": 1795549135
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Most Fed Regional Boards Wanted to Raise Rates in October",
-      "title_ko": "대부분의 연방준비은행 지역위원회는 10월 금리 인상을 원",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/most-fed-regional-boards-wanted-to-raise-rates-in-october",
-      "ts": 1795549284
-    },
-    {
-      "source": "FT",
-      "title_en": "Huang says he still doesn’t believe in Nvidia succession planning",
-      "title_ko": "황은 여전히 ​​엔비디아의 승계 계획을 믿지 않는다고 전해",
-      "url": "https://www.ft.com/content/cd1831d0-c3f1-4705-b8e2-badfb5e39764?syn-25a6b1a6=1",
-      "ts": 1795549372
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Canadian Dollar Gains Most Since August on BOC Inflation Warning",
-      "title_ko": "캐나다 달러는 BOC 인플레이션 경고로 8월 이후 최대 상승",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/canadian-dollar-gains-most-since-august-on-boc-inflation-warning",
-      "ts": 1795549437
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Trump's Nvidia Push is 'Crony Capitalism,' Says Rep.-Elect Killin",
-      "title_ko": "Killin 의원은 Trump의 Nvidia 추진은 '정실 자본주의'라고 전해",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-24/trump-s-nvidia-push-is-crony-capitalism-says-killin-video",
-      "ts": 1795549588
-    },
-    {
-      "source": "Politico",
-      "title_en": "NEW YORK PROPOSES 10% TAX ON PREDICTION MARKETS",
-      "title_ko": "뉴욕, 예측 시장에 10% 세금 제안",
-      "url": "https://t.me/marketfeed/1084769",
-      "ts": 1795549682
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Nvidia CEO says he has no succession plan during all-hands meeting: report",
-      "title_ko": "Nvidia CEO는 전체 회의에서 승계 계획이 없다고 말했습니다: 보고서",
-      "url": "https://seekingalpha.com/news/4676330-nvidia-ceo-says-he-has-no-succession-plan-during-all-hands-meeting-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795549834
-    },
-    {
-      "source": "NYT",
-      "title_en": "CIA AND U.S. INTELLIGENCE CHIEF'S OFFICE HIT BY CYBERSECURITY BREACH",
-      "title_ko": "CIA와 미국 정보국 수장실이 사이버 보안 위반으로 피해를 입었습니다",
-      "url": "https://t.me/marketfeed/1084771",
-      "ts": 1795549836
-    },
     {
       "source": "MarketFeed",
       "title_en": "JUST IN: 🇺🇸 HACKERS BREACH CIA AND US INTELLIGENCE SYSTEMS, EXPOSING UNCLASSIFIED GOVERNMENT DATA IN CYBERATTACK, NYT REPORTS.",
@@ -11504,6 +11441,69 @@
       "title_ko": "'포스트 시진핑' 거론된 천지닝 낙마…中 차기 지도부 인선 변수",
       "url": "https://www.news1.kr/world/northeast-asia/6365481",
       "ts": 1795575713
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Trump floats government stake in Nvidia and leaves pardon option for Huang open",
+      "title_ko": "트럼프, 엔비디아 정부 지분 매각하고 황에 대한 사면 옵션 공개",
+      "url": "https://www.digitimes.com/news/a20261125VL213/nvidia-usa-government-donald-trump-intel.html",
+      "ts": 1795575872
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Jensen Huang returns to Nvidia with China's enterprise SSD recovery still hostage to GPU shortages",
+      "title_ko": "Jensen Huang은 여전히 ​​GPU 부족의 인질로 남아 있는 중국의 기업용 SSD 복구와 함께 Nvidia로 돌아왔습니다",
+      "url": "https://www.digitimes.com/news/a20261125PD203/nvidia-jensen-huang-ssd-production-market.html",
+      "ts": 1795575879
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Analog Devices cites broad recovery as data-center demand accelerates",
+      "title_ko": "Analog Devices는 데이터 센터 수요가 가속화됨에 따라 광범위한 회복을 언급합니다",
+      "url": "https://www.digitimes.com/news/a20261125VL208/demand-recovery-analog-devices-automotive-growth.html",
+      "ts": 1795575885
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Dell says AI demand will pull further ahead of supply in 2027 as memory crunch persists",
+      "title_ko": "Dell은 메모리 부족 현상이 지속됨에 따라 2027년에는 AI 수요가 공급보다 훨씬 앞설 것이라고 밝혀",
+      "url": "https://www.digitimes.com/news/a20261125VL210/dell-demand-2027-infrastructure-dram.html",
+      "ts": 1795575893
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Jensen faces a trio of tests as US AI chip controls extend to the cloud",
+      "title_ko": "Jensen은 미국 AI 칩 제어가 클라우드로 확장됨에 따라 세 가지 테스트에 직면해 있어",
+      "url": "https://www.digitimes.com/news/a20261125PD204/nvidia-jensen-huang-ai-chip-hardware-exports.html?chid=10",
+      "ts": 1795575898
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Beijing extends critical mineral reprieve as Washington prepares new subsidy tariffs",
+      "title_ko": "미국이 새로운 보조금 관세를 준비함에 따라 베이징은 주요 광물 유예 기간을 연장",
+      "url": "https://www.digitimes.com/news/a20261125VL215/us-china-trade-war-beijing-materials-supply-chain-tariffs-2026.html?chid=10",
+      "ts": 1795575902
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "MediaTek expands research footprint in edge AI, cloud AI",
+      "title_ko": "MediaTek, 엣지 AI, 클라우드 AI 분야 연구 범위 확대",
+      "url": "https://www.digitimes.com/news/a20261124PD236/mediatek-technology-2026-ic-design-2027.html",
+      "ts": 1795575908
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Amazon ‘Trying to Trick’ You With Black Friday Offers That Aren’t Really Deals, Says Elizabeth Warren: E",
+      "title_ko": "아마존은 실제로 특가가 아닌 블랙 프라이데이 제안으로 당신을 속이려고 한다고 엘리자베스 워렌이 말했습니다: E",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63613491/elizabeth-warren-amazon-black-friday",
+      "ts": 1795575911
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "重型运载火箭、重复使用运载火箭工作推进会召开",
+      "title_ko": "대형발사체 및 재사용발사체 사업추진회의가 개최됐다",
+      "url": "https://wallstreetcn.com/livenews/3205382",
+      "ts": 1795575914
     }
   ]
 }
