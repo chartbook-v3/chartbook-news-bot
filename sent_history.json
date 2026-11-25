@@ -1,26 +1,6 @@
 {
-  "updated_at": 1795647539,
+  "updated_at": 1795647693,
   "id_hashes": [
-    "f23824edea2d1c82b73c43f5c8e2c8f44e53e7f634927f41c5f41aa8315cf01c",
-    "02f4e37120de12bbce236fce3cd6ba9b0519f460af50298d4fc95c365b7264ea",
-    "45492470eff71271c9ae5b7de7bd55bdba5b13e4c54bc6e94f938e91a29a24db",
-    "f121747de4979cb475c0c8a7e7286525c5380f4bb5c634a300db61c8b6d4889c",
-    "5d475aa4ee94435b7ed434c99d5134a86c6d09e9a4199c9cde349a7eff3f91a1",
-    "dec892bd04f7b9b136a2d227060a6ee4583fc2e30b661010109651a08fe7f32b",
-    "257e870c2b6412b7b9959942ec05a86801a08c21201d29676fb1004f732ac205",
-    "29edd2e59c3cc094c7f02b821042f353ab1da39f43e24532420f8ee767bb4627",
-    "f6a5700b76dd9816fabd60335c36b2a9aa7dd4bdceb89f500d8ff67afd326959",
-    "03b6c67a1b18377c1d9b2f926ebd74935b953a0d4fa2ee1440f6fe64a7a89304",
-    "39235174b6956f0887a2e2a68ff6fbd75bac0a0209bd2bcdbd23c62d68b7686b",
-    "58ee4359b12320abeeae9797172847474ced0c29f9763defe305d5004150cd97",
-    "30897a8e718cbbb792ab6862408b3d550602404993f86f9b222e760f68f087f7",
-    "f55ee6a44235e05f7b642aff3ee7c0e80b0cc0c71ccd1e83a9b1cf5cdbd9c226",
-    "f4d8e0f2b23decbc318b28d74f64e5cf464a4d6d806521edc244959c15f1a315",
-    "16660cd8a972c6ac616646c9a00d5be3c4484715e1a4439f589bca4a909160b3",
-    "96b9ebbc459eb68534556be2d9960f082fdcb4f61039f3f3e9df8600c64615a4",
-    "f6750a66a217afd417e6ed77c440aac9b4f9ff1176254b358cb5db4187637399",
-    "8e6bd7207c2933ac85b74c5d0dede090a3346f29301988f5726016d3889e4c19",
-    "4aebb1b01737a3ec027d3f71052922b56514d09be35af2b0660e6e700cf30472",
     "ff99f7b40b3767c24d20bc133ac13c8b5a43117f681c4dd0672b693787949914",
     "e19c2bdcadb670a7fe01afb30411a18924dfb76aca5360bff6f730fe64565f37",
     "1db9fc3b861533a6f6798e3a91ca85357c6f4c9ac5c0e0962c64704c00d42f76",
@@ -4000,25 +3980,29 @@
     "7ff3365f7882c06b9dc82efaaa043ae65a05efb5e56ec682c548e337fe97763e",
     "b0ad548c190b674531d47725b63562a4c56bc2ace1f2066b9cec978eab20707c",
     "0aa74193b1e372f784ac0a749e5843d37ded8cdf2fbd244ee4a0042b285e792c",
-    "a4b5eb733849939b4454813c7c0d5f1512bc20e1d4c46c7a5353c5b1e619fa43"
+    "a4b5eb733849939b4454813c7c0d5f1512bc20e1d4c46c7a5353c5b1e619fa43",
+    "afba63ae400c23a23430454ec8001b0f4b5d0d441b5da6034472778dbace231a",
+    "49a7d3c78fc59d17c5b0bba52ded6b53b748e73c93c879e7061eae18c5d2aea9",
+    "896b25c4b89facdc71c1860ee77df1ca0aede3e0c3e9e659bf99c873a1b97a34",
+    "a7bd8b11e8aed5e98a4975584c1f7c73d5a6e3c9f531c403b4a951f2cc9b5cf7",
+    "798f580fbad5e9c2faa8ebf068ed7e267226b91725fc5ca1613c993cf6f8c0da",
+    "fb8c2f80678c73acfc79482f4ea290f0b6915359a9af06723ae9487b9b93d42d",
+    "65388dd9fb8a6458e168e5a82e1a194004cae05d72eb98bfbc3a5629bbfd19c9",
+    "0299fd11f3967c12f6846859178d90a99ff5a5551a618ccbf4ab6e631990e255",
+    "4cb5e730c1624ff763d1319045923200dfd0cf9932430d06f756259f733a8f70",
+    "197d72078d551967de9a507c1d6b30f0a7cad9226d54431815dae29ad7e3ab30",
+    "44952d3535334e9af033f1b4cc5722af3331453a314b43777e73264abcd1be8c",
+    "d8de58079ea8ab42dd36a5c40d636743feaa536e9a3cb942247c4db5ff478d39",
+    "55b91f8f0c3bf769801ec5e24077198d7b9548bfb1fedcb8f5039c3c67d2b60b",
+    "4dbb4f727d60b932d05a67a1c912c0bcc3e06f7821daccac1ca07f69ab714f29",
+    "82a99adc581091f8a5af1b8d151dc03a3fed569995a34bd9711580975a3a780d",
+    "79e51779329089cdc54761ebf1283c481d9ebc76dc1e85e05c9a6d33aa27c4d9",
+    "044405da0643162216e9baa533e93d29fa8a7219d21e86fbcfafde16cee0651c",
+    "6c3dfbe0906af61f725406217ad858dd7101cc06f71598f54765717096082c52",
+    "dbfe13a8541eac1b1046c2e78b964130e9e0d80590b19cc4730fb9483032fa3f",
+    "49772b56e8aa46f52c09201983fb071eb080f3203ac1d85f9009ee5e53e4913e"
   ],
   "title_hashes": [
-    "d232b77d3748bebaf87c1cbb33bc54b6239002225c16f83f7ab3f42295362614",
-    "babe91059e9b80080a4ffce1daa0891470fed82793b414826f4f2b933eb967de",
-    "91aae4ca297d3093638909a31ab2b06f1d7b1ac24a974b3ae3ba49447baa0234",
-    "9df62e5f86043ae897beb7e72b9f19986b28123d4b5277373bc5f4a35e7325e3",
-    "7c97e076330572bec430d63e3e6dfa0c80f4ae462e4d6f9bfcb058d0af6cf7c4",
-    "2275bbd48d8ef41bba2b52c046c4acc4b24d0089535a3722044286a90ac8af9e",
-    "2900e90fff3bae64bf83a6b2e6df4c75ee551f8eb07413a99a1c0b1c9e2420f2",
-    "6b58f8fa61f3f2643e9ddd2a4e60caed39b15d3c0370678fa60c1d4c72b6b0b2",
-    "df35575da7ceeecbe02e1979b43d3dc0d9bf7adfdd210e30511b32fe60081cac",
-    "5ba21b7c5aa3dea2cce8fbb487cfaea65e845f9f5fcf3f0fe03c005bf7901635",
-    "21081558d521902be2f2b9df92eb4cfd07a2d8e54e2e36712c3b583e08733cc5",
-    "3ce5bc19c42bacf7b3e275d81e8f863c001ebbfd05feff86f66de533d1790e96",
-    "414e32e45d1b266bfc5d1f3a7a34afbd5864bf1e1a0dde958e6741dedd43a4e7",
-    "c485886bf5bf62ea1729fca80316742bbec280a41831007dbeaa02cebf1fdd4c",
-    "997082b0da3e66ccb15a3d0c792e14bc9d613a606fd7e93e2961e68d7c4ec683",
-    "7db6f7deffb1cb30efa29be45572181eeda854d5c04a585952cde1f129c61d0a",
     "f3849e33a5b544513ea8c49b036b2e2eb919c9a5c1c87fc1ad92c3d7e7bf42e1",
     "187e7ccb82b8811f55863cf1b2c303d2c9da15e59f07ec873edcd81f836252d7",
     "6e7db157d6d37acd298c2e7ad27775c798976ebf29ce68bc028a947294bb551a",
@@ -8002,44 +7986,25 @@
     "630e4af644a499c56e9a9051e0798c545baff7780e57857cab72e2a9103cbbec",
     "13a3a9f6e4a62b8595dbc10efecafcbf6d7286c9b43b07683189e9426129f8f1",
     "ba04a7444cdb42a30d9643192ae05e918387912fa55c4e3142ca147aaf5f7d80",
-    "60a4d318f18705250a927d3ff5004dc88e002e630190efeaf4bdd8d092fcae33"
+    "60a4d318f18705250a927d3ff5004dc88e002e630190efeaf4bdd8d092fcae33",
+    "27c601e51b0e65d20949cd1ab5b3f8d8325593ccc4d1d74aec27685271add8ad",
+    "19cf942ca02b2cca073ae20954393cd5c63a0e8e009051f81fc98f1d29bda163",
+    "b4ce992d8b2189d7f9ef6cbeb7521d05150ae1bb01ecea85a7dac8bfcbaf2ff4",
+    "bb88086291bee8d3d86d939fb92de7a7a0eaf3b76a6494a93b494ed22247dce5",
+    "cea1a5f480f68d54889220749a40e31ef5d5e67b7cde97b182c9b5fcdc83f898",
+    "3530c157102da8a01d4e10d21791f46f0db98c8d50a02f829b00c607a9034d7d",
+    "2e8ee9754974aba453b9d740d56dc1b2a5d6f26afe984cab9e2d41d6e92a0df9",
+    "89e7b75d849a2c42bf2e165b3002ae48ae30f1268e7d162849796d237ff42018",
+    "6bdbbc803c5591b4b1a1b839e80f1a7654e35174c9f56c358ce7cf6870bb33ee",
+    "34103e620a4947ccc4abfb4c0f7d0122d2ce97950e4fab98a6fba176f7a54060",
+    "d12dd63e50f4be9a52de6452b016037e12211403a2e145725af9d52f9f68106d",
+    "82682a351e6020e2a51875d4f73561ec2cd3f95a8b44e03112aa25586904e71c",
+    "39c5927f9d19362b6ec618c2904bfb9a2218538ed63697bfccf81001ec448d4f",
+    "882741bb90826059a48dd73b5331873450ccddf28c2ed0cd494b04af41825aa9",
+    "0cd5c14d1c6eeaaa72d550832ecc93e3b72a4f65f79ad2dfb237c51577634cf3",
+    "c66d152b358c0b6985f8f5183ccbaccc8df8d40b185e8965b780b6999b13ff3c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "【理想汽车第三季度营收288亿元人民币，预估280亿元人民币】理想汽车预计第四季度营收317亿元人民币至331亿元人民币。",
-      "title_ko": "리오토 3분기 매출 288억 위안, 예상치 280억 위안 상회…4분기 매출 317억-331억 위안 전망",
-      "url": "https://wallstreetcn.com/livenews/3205544",
-      "ts": 1795595477
-    },
-    {
-      "source": "매일경제",
-      "title_en": "5% 대출금리 시대 열렸다 … 주담대 15년만에 최고",
-      "title_ko": "5% 대출금리 시대 열렸다 … 주담대 15년만에 최고",
-      "url": "https://stock.mk.co.kr/news/view/1205901",
-      "ts": 1795595504
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "LIVESQUAWK MID-MORNING RUNDOWN (25/11/2026)",
-      "title_ko": "[라이브스쿼크] 오전 주요 뉴스 요약 (2026/11/25)",
-      "url": "https://t.me/marketfeed/1085007",
-      "ts": 1795595513
-    },
-    {
-      "source": "Wccftech",
-      "title_en": "NVIDIA’s GPU Display Driver Bug Writing Excessive To The SSD Can Also Impact Gaming Performance; Tests Show A 20FPS Difference In MW4, So Update Or Roll Back Now",
-      "title_ko": "엔비디아 GPU 디스플레이 드라이버 버그로 SSD 과다 쓰기 및 게임 성능 저하 발생; MW4 테스트서 20FPS 차이 확인, 업데이트 또는 롤백 권고",
-      "url": "https://wccftech.com/nvidia-driver-bug-ssd-writes-impacts-gaming-performance-mw4/",
-      "ts": 1795595642
-    },
-    {
-      "source": "인베스트조선",
-      "title_en": "SK이노, SKIET 매수청구가 30% 올려…\"추가 비용 감수해도 합병 적기 종결\"",
-      "title_ko": "SK이노, SKIET 매수청구가 30% 올려…\"추가 비용 감수해도 합병 적기 종결\"",
-      "url": "https://www.investchosun.com/m/article.html?contid=2026112580199",
-      "ts": 1795595645
-    },
     {
       "source": "Nikkei Asia",
       "title_en": "Singapore telco merger highlights AI infrastructure push amid uncertainty",
@@ -11504,6 +11469,41 @@
       "title_ko": "현대차, 인도 장애인 양궁 세계 1위에 '바이욘' 전달",
       "url": "https://www.fnnews.com/news/202611260747498767",
       "ts": 1795647538
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "트럼프 행정부, 수사도 없이 “젠슨 황 불법 없다”",
+      "title_ko": "트럼프 행정부, 수사도 없이 “젠슨 황 불법 없다”",
+      "url": "https://biz.chosun.com/international/international_general/2026/11/26/6WK4AUJDDRBY3KSWSSEXVLCJF4/",
+      "ts": 1795647560
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "“AI·반도체주 폭락에도 美 투자 열기 여전…증시 조기 반등 가능”",
+      "title_ko": "“AI·반도체주 폭락에도 美 투자 열기 여전…증시 조기 반등 가능”",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/11/26/DEQATDR2ZBE4LIN64BMWRH4BKQ/",
+      "ts": 1795647562
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "报告显示：2026年港股IPO数量延续上升趋势",
+      "title_ko": "보고서에 따르면 홍콩 주식 IPO 수는 2026년에도 계속 증가할 것입니다",
+      "url": "https://wallstreetcn.com/livenews/3205967",
+      "ts": 1795647625
+    },
+    {
+      "source": "한국경제",
+      "title_en": "\"LIG D&A, 수주 모멘텀 유효…목표가는 하향\"-DB",
+      "title_ko": "\"LIG D&A, 수주 모멘텀 유효…목표가는 하향\"-DB",
+      "url": "https://www.hankyung.com/article/2026112609326",
+      "ts": 1795647690
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "今年以来逾2300家上市公司披露并购重组进展",
+      "title_ko": "올해부터 2,300개 이상의 상장기업이 인수·합병·구조조정 진행상황을 공개했다",
+      "url": "https://wallstreetcn.com/livenews/3205968",
+      "ts": 1795647692
     }
   ]
 }
