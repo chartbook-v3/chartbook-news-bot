@@ -1,29 +1,6 @@
 {
-  "updated_at": 1795642398,
+  "updated_at": 1795642554,
   "id_hashes": [
-    "e7e837ce281f41870fad34f09a164099c694c2c99c4e74c7c5c440d89bd65cb7",
-    "f0d82aa276be56a1e76dc323469447550dd2024eaea43590c084396090c8489c",
-    "945024528647ff4e9c1d290530c704b7c54c3c00dfdd0a4ccdc424022059af8d",
-    "47ec85b794f5c7249ba2f646229284c01fad3eaf8ad1ad7f4676e447d0799e73",
-    "cf9feb97f7ce50605aad3e66ef0f8af9f2ceef5389bd0a097431c673f20a2b8c",
-    "c586f985f07940750b9480cb270f25cb1ea30804835ec389c00f305d4fcfccc1",
-    "ff03169c62744874e01139905abe2300f97e5148f04d80010e82b2b905f8c7a4",
-    "3165a33a2eae413388f7e11333813975b0e6645ba30f4b0efc717fb30884d385",
-    "6265c23ddb139487e3dca568636cf1d835537d5829fbe5b43ff8294699de630c",
-    "209b3f91ea2655b4e45ae535bdde00d6adeb0c10e10776b1c706cb8814d7d385",
-    "e65a2a5b715d5b4135e5fac99a79afc74ed34012f169ba957f1af18f663f1cd9",
-    "8e32e44f49fdc997947fe322f8f934b2067a2afb7befe5426b73196a83fe31fb",
-    "ba433fa1f6cad7b35554c827bd6e74813a059ffc9dd830c5cc37fe97c0f22a58",
-    "be9a90f7b35977cd2199ae05d54d82f522d6ed3bc732b54df86c99320413aa26",
-    "b28f1e3ee8e389a0439bcfecc80a0fd1dad98228d92d4196387d2c9feed7a8c2",
-    "cfbeac93e53f8accd7ca7c68c9a55cec39c8e19affbcd1517aac47e16a9dff05",
-    "eecfaccc3fac8d90be6c65661ac3190f1d3761946a46b101c39dddf940aed9db",
-    "181408609eaa65fa40d1f91819c6a79e7dede399a550fd4a7a9122505f497109",
-    "726fe2a272d2cf08fc49cb08c50a7e635572240bdecc4e34d071defbce15775b",
-    "ebdae7d9b12a7c87fb513ffa07d288526c55eb365458913ef73a226f2a5763bc",
-    "467338d33dbd27589211f18d3c775608aa90a4b3be9f2adcd50065f95d00a47d",
-    "79c596a8cf1ddff59acb89326a7ae6a68ab0cce469d441820daa02bcc1c0800f",
-    "6eb15cfdc461330d45f83247fb831a0d09b41e654a83443bbcf94a11ff11223a",
     "863e8799aa9aea183b2a4c7eeef430af4892d476f57ef86a2b6da7c448c271cc",
     "3b1712ad2f1a11b1683adf1b23ce270311b1053d8eaf6cb56589c2393536456f",
     "8073b2de8cdd3a65b94b2cbcd5688c89a61f5c0f364d55e733992f1eb8a37df9",
@@ -4000,23 +3977,32 @@
     "f0c4338b754f0a32ddf6c795f668750ac44ea6daff080c64e41becee454264aa",
     "29baa3d9d0134c1dbad4d0115b9ee884d0793d8bf82a8e8d8e5315f9e2f7b55e",
     "5afb639aed6c6f3bf1405706a74327824c137a14447ddfb917f65c3ab18df2e9",
-    "af6bd0509970d33ae1b091c933f5db1b22a381bcfb7b9d9276abf68210f7c764"
+    "af6bd0509970d33ae1b091c933f5db1b22a381bcfb7b9d9276abf68210f7c764",
+    "b41d320364ec44d1168cb09c9a2ee059d23ba548acfc0719d7d0340b16748d6d",
+    "59890c8a4934f2e363e226a7c0221cf2e39a068451c7b9b0c9a13fb695abda19",
+    "559d6865ee3846a7d369f3b77f81f5c2c25f849703ff98fb5e67928d8ce61f21",
+    "3c9921555d670b6c483543c8e97923a385a4f43493d5dc6c31aa60306e0f8c17",
+    "70e0134bad6fc56a485aac04f0f006653328b882bf82eeaeb8c395bdea864738",
+    "cf9a02b63940c270b793a583fbce7cfb076ada25482acb47dcd24c441dd25ac1",
+    "32cfa1a3f46e2f3b6129bd444b4ad4f339d7abb714b0eb1ecb05944679b3ebf4",
+    "2825cd1d03d684482c7be9ecd4ab16913b627e82481650c28fc989d84eb1de8a",
+    "86502b5cce61e038cffbf7269d4ee6e8486e035dbab8b7608153ef75c305132d",
+    "936371e377e807d4bea2977b7d2fc4e61268534e6292f13bd9fff95d213be7c9",
+    "5ece23e3538637b27c93e8539615f68ec826f14791cc9d1e27d5f74910d30147",
+    "9c6f32fc860fb59cb6e54103e27cd358f5ebfe7176e5ceb17216056e1678fcbd",
+    "2dee6d26ce5c5da059b49b6f6a38ca3f22c422d644ccefcb82eb741626c582b2",
+    "234e6f7a2f910d1224fadb10426cfe11f5ac56bc819110c78ef2efe7076dda5c",
+    "0a65f366c3e5eaea8147f4fd9de7c13b36484b5ba69d68a0be2c660589f5b941",
+    "dc815dee7518c1b55d512e7d2e69aded969c6cf74a1e2087b196e43c5318f675",
+    "b977939573a473d35916c7a2c33d68c865c4de9b0ce0434572d8234179dd7607",
+    "fb5e5100e69491507275bc3b5330ad47b879aca998284a40460979bf7f8baece",
+    "85e2d962abe42d969f3db13babf520622758bfde36e7e7750a4774afba2adca5",
+    "4d95a7a05ef541dae72bc1a8addb94757b338a2be50828699d2634cafae1f30e",
+    "8b7c9763502e59c05f2edaba0953358975bbd04c77ccb610d99054a54c1c6f41",
+    "e0cfe891e4af537f52645fe5951673998e810c07a4213950094362e312bbae56",
+    "76c702227dfd2eb89f9b0a5aec93d67b195e10d8182c4aa7ab28014e10f1ffd2"
   ],
   "title_hashes": [
-    "21c747f062c155eb9fa3189b214f689b767bdbe65e009c8e66621a06482f7dcd",
-    "f4dd81121e1e756d91e5303308ebfa36db4c0cbda6502dcc603ba31a21d7a634",
-    "e0a9932f95547293f46ca5405c6d2f8ea70c1346dd48428456270f763ae0f283",
-    "465b36d1db128b9eb0a0bc79c0436bd7a47bc1740e8f89565aaf87b8b032414a",
-    "135cfe372931342e5a11e1d2a2bf914511213fbd6eeec4a52f599d047fa27786",
-    "ff919dd27a8bc53a620c1336203590ee02aaa80f8cc7f9a79651d7fdf505487f",
-    "34dbeb2b2ef8b96a82d0ba3bccfc22dff3892191dd2f9a66c0d3fcbfe1077f7f",
-    "72e04a83f5c47f8aeac47c27d2215636da6fe9cb188159177ef64d5a85f09466",
-    "1087e31f81ac6ee0e55b2d40b5ae31e398de2584cf4d0b63150b7ae68b4af601",
-    "344534bbc19998605943e462d866736573daabc73b8b9024faa04149d311aade",
-    "365759e9fa9c1ae74d4c2a062faaa6a03d33147b32309f667c382f49d9724baa",
-    "18fd69882274aab0714128eb360ea7d27c35dda5f08ee7f50cc8ba64743486fe",
-    "477bf590ba4dc5c3b8b38d63c6800700a5c1da0338a227aa5250b28e0dd09c4e",
-    "7671463c99811a1c178515709d5bbfd1a56f330af48e7c84eebb9e10472860f9",
     "54ca5228577be076ca75b7db8af35afb5b915b3200507dd7f91761c00a527e71",
     "1034788f417e3f93d46f03067b5b7260d9b15157be48681ec2b84c2821bf3d81",
     "2c93ff66b1473538bd5b837e8f38a58045e3540b547c5a6ab4bad5125ec70430",
@@ -8002,37 +7988,23 @@
     "5f61ea29b27cc36938b04a680ebc23321b3024433668efc1dbb6dffc51505311",
     "a9e240f05e1c14b68fecdf34e74ebf3272fc4d337e266ce960d202a96d7047b1",
     "3ee0a2f74d9e6530227863694d12a8576283b1e5df595866c4ff619ff77a837d",
-    "8c1e8fe9058f91ec78194244ca5c3e3a28764d1e1e841e6cd429045e7d71d881"
+    "8c1e8fe9058f91ec78194244ca5c3e3a28764d1e1e841e6cd429045e7d71d881",
+    "ef6f20f577e2fe9743433b20078df88b5436509260dc81aaf264cbd6982ec414",
+    "ab38c4714fb60dccb39a5ac3bc95f33d173e5075c776fa615ef60ac738c2fb41",
+    "39286c28703d3752b24b73b0ae5541c2ac797a1d99e2470cd067dda56b31d415",
+    "9963daab0d54e5e80c136727bcb0170dcb624f5ff0be13358620b60b28fd1e4c",
+    "8c8c9362a0a5e643c06470cc8ab336be6ac51ce2950bff0b090af37d115f3f27",
+    "9aa0779845864581e96f66a456c518cddcdb14259a11f14358cd84a74007d386",
+    "65c4ebce624286ef3abfbf0ed41b2a4d8912f6ebeb59ceb3f75d44b88ba8b358",
+    "2668c9d5d86c32b062df9979cb6ebc9edd3dd80035258a0659406f7b756aaeb0",
+    "10bda9b87da6b057bca8003fc27a00e55bf77a4ac9152fe1ad666d58549aa4f7",
+    "cc8302afb47f8b83982acd8579c1eb323fc872583f3ad6b912fab9a1b34dc5b7",
+    "4bc013a36476831623e360763d1cdb602a5ce9560daaaccd4a64a730e517c7ea",
+    "47675419d826ce01af7f713986e9fa9254bab8ddc9955bdbe2e6cd07234ca4b0",
+    "6cf7f7f482b788bedc466f15ee93d1d29f1632fa4767fd21b3c0b6d1a58aee91",
+    "6db82c731ea1a70a57ca330bd45d8c3e8e38839ca0f2c098c59d076290793157"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Dell COO Sees ‘No Slowdown’ in AI Demand, Expects Supply Gap to Widen Further in 2027 as Nvidia Vera Rubi",
-      "title_ko": "Dell COO는 AI 수요의 '둔화 없음'을 보고 Nvidia Vera Rubi가 2027년에 공급 격차가 더욱 확대될 것으로 예상합니다",
-      "url": "https://www.benzinga.com/markets/earnings/26/11/63614435/dell-coo-sees-no-slowdown-in-ai-demand-expects-supply-gap-to-widen-further-in-2027-as-nvidia-vera-rubin-drives-majority-of-new-orders",
-      "ts": 1795590820
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "금감원장이 종목 추천?…이찬진, '셀프 딥페이크'로 AI 사기 경고",
-      "title_ko": "금감원장이 종목 추천?…이찬진, '셀프 딥페이크'로 AI 사기 경고",
-      "url": "https://www.news1.kr/finance/general-finance/6365161",
-      "ts": 1795590822
-    },
-    {
-      "source": "지디넷코리아",
-      "title_en": "하정우 부위원장, 애플·AWS·퀄컴과 머리 맞댔다…한·미 AI 협력 논의",
-      "title_ko": "하정우 부위원장, 애플·AWS·퀄컴과 머리 맞댔다…한·미 AI 협력 논의",
-      "url": "https://zdnet.co.kr/view/?no=20261125160325",
-      "ts": 1795590826
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "인천경제자유구역 올해 외국인투자 실적 저조…작년 절반 수준",
-      "title_ko": "인천경제자유구역 올해 외국인투자 실적 저조…작년 절반 수준",
-      "url": "https://www.yna.co.kr/view/AKR20261125138900065",
-      "ts": 1795590916
-    },
     {
       "source": "FinancialJuice",
       "title_en": "China's foreign ministry, on US planned tariffs announcement: The so-called overcapacity does not really exist",
@@ -11504,6 +11476,34 @@
       "title_ko": "[11월 25일(현지시간) 글로벌 증시 주요 뉴스]",
       "url": "https://t.me/marketfeed/1085497",
       "ts": 1795642273
+    },
+    {
+      "source": "WSJ",
+      "title_en": "U.S. Stocks Mixed as Nvidia, AI Rout Continues",
+      "title_ko": "미 증시 혼조세, 엔비디아 및 AI 관련주 약세 지속",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-nvidia-ai-rout-continues-35d59863?mod=rss_markets_main",
+      "ts": 1795642483
+    },
+    {
+      "source": "Nikkei Asia",
+      "title_en": "Nvidia's shares drop, credit rating on watch two days after Huang's return",
+      "title_ko": "엔비디아 주가 하락, 젠슨 황 복귀 이틀 만에 신용등급 관찰 대상 지정",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-s-shares-drop-credit-rating-on-watch-two-days-after-huang-s-return",
+      "ts": 1795642547
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "HNIX \"제조·조선업 특화 AI전환 확대…산업 보안시장도 공략\"",
+      "title_ko": "HNIX \"제조·조선업 특화 AI전환 확대…산업 보안시장도 공략\"",
+      "url": "https://www.yna.co.kr/view/AKR20261125147900017",
+      "ts": 1795642550
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Vertex Stock Drops After Hours on FDA PDUFA Delay - Vertex Pharmaceuticals (NASDAQ:VRTX)",
+      "title_ko": "버텍스 파마슈티컬스, FDA 승인 심사 지연 소식에 시간외 거래서 급락",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63657436/vertex-pharmaceuticals-stock-slides-after-hours-heres-why",
+      "ts": 1795642553
     }
   ]
 }
