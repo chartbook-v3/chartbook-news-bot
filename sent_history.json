@@ -1,17 +1,6 @@
 {
-  "updated_at": 1795571814,
+  "updated_at": 1795571967,
   "id_hashes": [
-    "30fdbf46b2d5b0e9b5f87b91b470df95f27778d98b32a58ab0cb26b1a2e9dcb6",
-    "0d930f14c3fe01bb20a5dd4b8c85597d6837815e4c9c91df6b8d9bca2e13e33a",
-    "a08acfbaaee3596ec60d9dda33afc16b3fb0d785367cbd61572ee7bd10926e47",
-    "c8038440cc26918c7f9722064bf32b345a01df7dd57024f1cc10447851049966",
-    "b786cc2c92256df06c95214dc00c883922cfcf56073cb83b7e30f1bb03b61d9d",
-    "ab13981742befb28d59ffc8f99f1e3122af1f28db163fdea97e84222fb5a920a",
-    "ce9e6c3fea8b669af4e5d07cc83fbffe22f2478fcd3780fa1b269fee1e86faac",
-    "6fbf8e36e7e650cef727da5e2e3679c9391b20088f3397dcbf0ac37e89db6486",
-    "0ca7c5e1d36e9d0d1f602b67f8bdeaf98280ef1004563ce0cb2b2ae674ee076a",
-    "234231e5796a2f91773ab537c51cdeee1daa567d541f0067dc22c59130c2ef30",
-    "c02c7875faedb6f2f7448715ab22be3d50ce84ff9ae07ec2a71bfe1fb947847d",
     "ec5cca0ebe151debda8ee1d3a320ddbc90c3a11d4d8817a20aef36adb4d48f99",
     "95d7c9698f6171f3fcd3003ba8000ec2c972e3f1372e49f19071bb5db21dc608",
     "e6fc2160f619fe485b43dee68d4e0303f41eaee30ebe5c013c0a370d0d2127b8",
@@ -4000,18 +3989,20 @@
     "184373bfcb24ca8934417bf472357390bfee267095f058908fb7c8f31c79eee6",
     "ecc774d32a588d680c93933bbd96ca4c6e61020b101ebb751b22b7090616a420",
     "d87429eaa5ce53538a2b8d663c7129359f6498ab7d69a6697f2dbcf2c8564dd0",
-    "b35aa00938bd3981208865d10ed743b3143da2acd123ea1fb644d861ce13050d"
+    "b35aa00938bd3981208865d10ed743b3143da2acd123ea1fb644d861ce13050d",
+    "6fae39bee676e0d1668812807093bea751ec6cd75ba44cb5a0b748c332350901",
+    "700bdfd61a0be7378cdd8fe04f79e43280b2edc33ba47fb158697fe767e9993e",
+    "465050c77db6b88767eaea36800f29e6c7897a5fb67148c0b2103c671a543cae",
+    "9baaf24ebf2271c54a4215d86d08183d7f8c7b067e5b6b02a4b18663702ca535",
+    "74357891ef8496aa9f8d240ae1eb879bd6c951a762cff48781ec5fd8c43319fb",
+    "d902ca49e8f1d792856104c2c89d6240bd282d5871c160c3fba70a1566464e23",
+    "23fffae8df1ff0912d7323deab6fc0630d0114a0a6245aa89ad34e7ba25fd941",
+    "c9f6a835a9a7204c3a5aa41386548efb1b101e082255afb316ef49df4cac696d",
+    "29ccc5a88eb7e82748d407059098350bf6ae24493152aa08e640d308b6937ca2",
+    "7f918b82f4e047026971d1e4b15b98cc4ee58d11672942b86096cfaf2e1b1670",
+    "17820f26fccde2fb27b16a6528d4697ddfbfba78228bcc4005bb2402fa631b8f"
   ],
   "title_hashes": [
-    "b6d4ecc268581de3ed79c3eae50bf7441369e3bdcd553e5df86e947e2f10f9c8",
-    "5d8f91836d8f03f2d3bc18795f1cb21fced1d13e9e1f81de7f2f641f82a25cda",
-    "37fff57fcfad84b990825531ce2635eba16367cfb6395225df125adb49504a78",
-    "a19a2d2044d5f160b7636c5cfad186d4487142a9723dd0aa0cf9b7080928c571",
-    "437b8d19523e11fa995a36fc04e60f4007695f34412d95aa40d1f13801aedd28",
-    "652035072836975834d27b68c642930f395fbdc0730214b0ec9e33d76a464ecc",
-    "534e32731464ee71cf791223903b555e2781a45c919a5118af9edc553d752436",
-    "c3f6d0a41b9a9b5e4d5c0f623df1953774d1fe7e0ea1fc4f1556decc41846628",
-    "2c168bbf4a86bb5a825615abb05b9a05f5f2c0b505165f95d73bcf585e7be6ca",
     "8de8e7adc8084260cae447ebc2d01fbc9104f37a2978f96eeaf519c4e67ba9aa",
     "680724b86ac022d61dfd9a024bfe5bf0564253103d1bd4e14068f0036ba30d8d",
     "1c0512ab0617a51c7ae0da55d886a412e5a87acb8b1ff82aa60d8f0d0dd484fa",
@@ -8002,23 +7993,18 @@
     "7eaf53f4af0ead8f656351b1a1db08e44d1309a630489466f82665fe354ef89a",
     "b7dc90fd6da33871490197369c31f1c33596c175c177f8cf602f98e167dc66b4",
     "53b7b62b91302bad945ca6acda6d70a6966e0aee5032a00d46b44239a07a67c1",
-    "498c1fe256e7b7acde941e83759c5698745d5882a604198f9b1d64a51f58645c"
+    "498c1fe256e7b7acde941e83759c5698745d5882a604198f9b1d64a51f58645c",
+    "1bd5776516b6c9f1ed78632ed900a002900b74b6da9487248410f06e4c64567b",
+    "829337b91ee3adfe4d44c44c3d608b4361467d2f6dd22db472a436b2b5c28ec7",
+    "a024e965f197abfc2ac5338e1737ecd7da41bc2d7954387611f0507945d81947",
+    "3e6223d7548eb6e4843098da73573cea28bd97ff91a7c644ef91ebde683b96dd",
+    "8705097642ecbb1964fa2e9495915b1ee1999e5aa9a9590c15dbde6e25d22d53",
+    "ca66493cc5a55654b129950446472e2e0518371fcd18d6b3e68cdde1f931277c",
+    "07f84ca451deca274f86b96a16b73ef10dcc775c4cfe4669285c1e2aa0acb908",
+    "b286828523f37cc14e5f992dfce4fa7e4193c5ebd060ebcdacdf15a3739746b9",
+    "67ee7f82116e5c569dfd0d6114acef69aefaef1e310485316b6c1697ac324c0a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Embecta jumps 41% on fiscal Q4 results and initial 2027 outlook",
-      "title_ko": "Embecta, 회계연도 4분기 결과 및 2027년 초기 전망에서 41% 상승",
-      "url": "https://seekingalpha.com/news/4676307-embecta-jumps-41-on-fiscal-q4-results-and-initial-2027-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795544457
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "$LLY | UPGRADES ELI LILLY'S RATING TO AA2; OUTLOOK REVISED TO STABLE",
-      "title_ko": "$LLY | ELI LILLY의 등급을 AA2로 업그레이드합니다. 안정적으로 전망 수정",
-      "url": "https://t.me/marketfeed/1084731",
-      "ts": 1795544459
-    },
     {
       "source": "매일경제",
       "title_en": "인스메드, 사노피가 주당 175달러 현금 인수 확정하며 주가 급등",
@@ -11504,6 +11490,20 @@
       "title_ko": "[단독]“세무조사로 5000억 추징”…국세청 vs 농협중앙회, 막판 신경전 ‘팽팽’",
       "url": "https://www.edaily.co.kr/News/Read?newsId=02364886645649328&mediaCodeNo=257",
       "ts": 1795571813
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Helical PLC Earnings & Forecasts",
+      "title_ko": "헬리컬 PLC 수익 및 예측",
+      "url": "https://www.benzinga.com/quote/HLICD/earnings-forecasts",
+      "ts": 1795571964
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Stocks retreat as AI rebound stumbles, tariff threats loom",
+      "title_ko": "AI 반등이 비틀거리고 관세 위협이 다가오면서 주가는 후퇴",
+      "url": "https://www.streetinsider.com/Reuters/Stocks+retreat+as+AI+rebound+stumbles%2C+tariff+threats+loom/27397419.html",
+      "ts": 1795571966
     }
   ]
 }
