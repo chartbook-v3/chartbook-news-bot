@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795575078,
+  "updated_at": 1795575233,
   "id_hashes": [
-    "b62d612fbe658f48cc889e8f33a972feea4bd0345f95ddb89833bda0ad7d4402",
-    "f39225fc642e48a6215ed887aa4cd61b077425af32e8c04030580cefbb39b6c9",
-    "c7a36d60df0efcdd753b891aae247408ea34e8910a2bb5862853e85e7abb224f",
-    "2ab518dffdc9425fbbb48ba7387177eb3961267df422a877f979585dfc8c5588",
-    "e8c6b37ce1ca5949082ce0f5f0b71705f855647b95ed1859e82d5b351d5aae84",
-    "1298d1488c58a20cfcfd8fc3aae64538a41751e448e21e0fd5bf65c5eb67702f",
-    "0efa95adeda783e6682942980dc044c07a2d681492c5f804fd9bf323d11249c4",
     "a14627dba6a7292b021ec893c68f0be7482e116db20656573d761252b7aae6a3",
     "503913dbf6b1923318f32ad2777b3a40f3bd149a81effe0684a276f0f9c0db7a",
     "3b76f698a2edde4dcaf334b835e85b8a02b48c3ebe8286d6d00202098c6b4498",
@@ -4000,16 +3993,16 @@
     "5073ccea007d0796e044b6a6ccb6184a57f8715079c8559d9f766f3a663af7a2",
     "8ecb53e8ea36fd59cd16bee047224bcc88f0b0aa61374d0f590b66e6c11f84cf",
     "52cf8066e5f520189350d1e295e7b7d8b71af73046aff18573c7f6aa5cd94408",
-    "eed30c4665603dfb4095597fdf0617d9e6ee2ed5452dac3bfe9809e8f39f7fac"
+    "eed30c4665603dfb4095597fdf0617d9e6ee2ed5452dac3bfe9809e8f39f7fac",
+    "37fd5e7334f88e6bf6e3341650e20d8b02183ea10c2ecb9cbb77d8f3b303f929",
+    "c4cc436640cbcb6403ee346649d3f4fdfc694c27baf37a48fc4ead822967d718",
+    "1c1947163adaa62cd98406b9b68f6b6105efd136be5af0e5706f18d13aae33ed",
+    "395030ec25cc682514f975a8f481bad06002915e2196f5997c44902dd9bfdae4",
+    "25c41f0d7433f22e59258e3c43507e6ebd2e581ab1b941a6d4151c4b56913684",
+    "689be5b2eb91ab706f47cdd27ba25de3685e6fbe0b8cd6508d9e700042e1f47f",
+    "272e4efce7923bf8efcf3845db83f5573e9cc7a5ba58b308a99b38a644d96818"
   ],
   "title_hashes": [
-    "dca5e2e27947fe533a26fea32b80f89eb0975a0137dab882a3aab62ef7ceeb02",
-    "e40e484c9382e6521ec4ec91eb0b9e45e46501d4e0dbf5a10431cc878f8e6a63",
-    "bb53ecbb61a31920cf2d756bb15a145bf9115a27a4444785f9963518b078eda4",
-    "42c00c764f0ee9ee1c4b7bbbd19c5bb322d4df6bd03a5110230b3e6fba9f5a16",
-    "4675e2cfe8fc9bcb64f6ee4614b3c15dfa42f285cb2dbd986a99d36ae082e516",
-    "92eac2d7f4c9b0d7536599b986bbba32ec1ad36ba557edb9436e24658916b3e8",
-    "40f4d5381013c56890ee16cc36bcfef13c3a896eafa9ae19b50dd25f2c59b22e",
     "838fd7c6fcc9a10c70da0a2fd2b55a7e491ad3d9a44c05150fbdd96d4329a690",
     "aabab7c47102dad9520e17d2788c8527cbbbba211d84f0ae82185f89d66718d7",
     "ffea00690adf2cc55045a3916c6e4c6387b59a330a1e0844b7d0cb5893461ce1",
@@ -8002,30 +7995,16 @@
     "0863b311055cd812a995ddfa355b904dc2122d7ddfd7e797ca0e29c18b291a46",
     "6c51fccf524fccbdc41592882606c4671c946a845bf8debf8ed6b6a20b3ff194",
     "8cb916cbf801e982449c1303fc15b64eb736adf567efa068f9e0b6954c5afc0c",
-    "76a83babf507945ad9859f88b2b758348d30e1ea8ff55575355aa94dcf7a0e5b"
+    "76a83babf507945ad9859f88b2b758348d30e1ea8ff55575355aa94dcf7a0e5b",
+    "19b6640f32db146225bc37386d14607f22c90e8dc230eefd85dcdb6a97354d72",
+    "88cceefccab88a27f20ae530e9d1789f5de23411db5f822653fcd50a429ccf34",
+    "3c19980afd1a660aa0c1447c375f763f2acfc1a11a1f2b12fd62330fa29b5e90",
+    "7d89350b677e678ef56dee5c67559a8a82ed1bb91c3555dcafb41b6ce79a846e",
+    "c36fe7d01e4977307a8a1cb6f3f214043a3f376b36ea95d4582fa4164fa97c12",
+    "27bbf55b130e55153b2be2eee0c09ff6c5f9ce858ce43caf42d4b31a9e5da80e",
+    "aedd3d460a19e850adb0e66a82bde3a75eaa9a29c766c0539433c1fe870612fb"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "'It's Utter Nonsense'—'Big Short' Investor Steve Eisman Says OpenAI And Anthropic Have Created A Conspira",
-      "title_ko": "'말도 안 되는 소리' - '빅 숏' 투자자 Steve Eisman은 OpenAI와 Anthropic이 음모를 만들었다고 말합니다",
-      "url": "https://www.benzinga.com/personal-finance/management/26/11/63602003/its-utter-nonsense-big-short-investor-steve-eisman-says-openai-and-anthropic-have-created-a-conspiracy-about-the-end-of-the-world",
-      "ts": 1795548819
-    },
-    {
-      "source": "Global Scoop",
-      "title_en": "SCOOP: AI Search Platform Exa in Talks to Raise Fresh Funds at Around a $7 Billion Valuation - Newcomer | Substack",
-      "title_ko": "SCOOP: AI 검색 플랫폼 Exa, 약 70억 달러 가치로 새로운 자금 조달 논의 중 - Newcomer | 서브스택",
-      "url": "https://www.newcomer.co/p/scoop-ai-search-platform-exa-in-talks",
-      "ts": 1795548823
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Argentina’s Mild September Rebound Boosts Recession Odds",
-      "title_ko": "아르헨티나의 9월 온화한 반등으로 경기 침체 가능성 높아져",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/argentina-s-mild-september-rebound-boosts-recession-odds",
-      "ts": 1795548977
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Arthur J. Gallagher affirmed by Moody's; outlook switched to positive",
@@ -11504,6 +11483,27 @@
       "title_ko": "[속보] 삼성은 2027년에 내부 수요가 월 30K로 두 배로 증가함에 따라 HBM 베이스 다이 크런치와 씨름하고 있어",
       "url": "https://www.trendforce.com/news/2026/11/25/breaking-samsung-grapples-with-hbm-base-die-crunch-as-internal-wafer-demand-seen-doubling-to-30k-per-month-in-2027/",
       "ts": 1795574953
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "트럼프 \"김정은과 '러브레터' 당장이라도 재개 가능…만날 때 올 것\"",
+      "title_ko": "트럼프 \"김정은과 '러브레터' 당장이라도 재개 가능…만날 때 올 것\"",
+      "url": "https://www.news1.kr/world/usa-canada/6365475",
+      "ts": 1795575100
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "HRT Trading Revenue Tops $21 Billion, Eclipsing Full-Year Record",
+      "title_ko": "HRT 거래 수익이 210억 달러를 넘어 연간 기록을 넘어섰습니다",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/hrt-trading-revenue-tops-21-billion-eclipsing-full-year-record",
+      "ts": 1795575229
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "USD/JPY REMAINS RANGE-BOUND AS MARKETS WEIGH BOJ TIGHTENING PROSPECTS AGAINST DOLLAR UPTICK - FX",
+      "title_ko": "시장이 BOJ의 달러 상승에 대한 긴축 전망을 고려함에 따라 USD/JPY는 범위 제한을 유지합니다 - FX",
+      "url": "https://t.me/marketfeed/1084901",
+      "ts": 1795575232
     }
   ]
 }
