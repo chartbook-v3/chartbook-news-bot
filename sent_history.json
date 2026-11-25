@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795596630,
+  "updated_at": 1795596787,
   "id_hashes": [
-    "9b649bb9730569951c9f8cc8b09c47e547b756eb02e0a87cc0faef525baa9355",
-    "a874665c0c9f4acf8f118a94ea263c242a0f3841bcb27541351debd1bcd4ae6b",
-    "11d83449f7d9f81e25dd74112c35e8239f97450c492aed3c5a8d378466db46cb",
-    "228eb8a8360ce81f91593b08e4af76c16c9e8952d8a4b59cb006e10a5e96f443",
-    "ed95e53c3afa533b01bce8b7396d70daf04dc5f3f88df9dad4931562f4344cfc",
-    "538d26cc1ed1ed984640bc8c815ae69a6765d6b274887bcac2b081960a28ff0e",
-    "c8851c923fb473b8b2b8d9c1df0cd129ac799c70478f5ab0de2fe4d59b238f0f",
-    "7e7f9e61fe75958ac7fb66e24bf7a52a38808ef3c139384d3423d522b6be81ae",
-    "243112d022a4a4a4147fdd5eb838d9a5edf08b494d236185fa7610c32225c74a",
-    "0f6e5b0baf78ac99e5d28684c2072b7bd0f4d9f4eabf91c3eefd457399b585a1",
-    "89a6bb2548a1098aa71f2c09992e69f1fc26280fc2742570dddfb8d0a6c3f73f",
-    "db02e0a23adec6db5296f39d0fba2af6ba657495dc73a6c0a16b9d26ba4afa8f",
-    "7901c9c3cc4709ce7a8cb2accf6a643ffff342a6ce4d2b4b554cd49e57d3740a",
     "1d87054a3e899610206e9517ab10e7667ca8c10644b64b9b463c538aa247ce58",
     "f68509f5550b2a1d6cc034c734b4a7dc34d64ca22df6b6bd0232d09e76b58f73",
     "8eb0622e54b7178b258a43c8d9a2aebf9589ab41f6dae2a9e189b6f9976ca4fd",
@@ -4000,24 +3987,22 @@
     "1f47eb7e1937fcc0e305c9afe342f226a9afc162cdcb8f1066f31d5c37484d75",
     "99f57d8ed645aa26263657301bb7b9e6ab82e496529666dddddfa6d2c11bba9f",
     "563593e4cc383d59a252a31f3a842e102775287f5a18081ad3a33e8031dab952",
-    "cec13671a8dc24697fa810e280005b38f06838d9e6a8af6975a17104210e105c"
+    "cec13671a8dc24697fa810e280005b38f06838d9e6a8af6975a17104210e105c",
+    "859088d290c988c7f6c6c423efcdce209760888e7b516463b42086ba8a37ecb9",
+    "8d43052e06939c804c8d30490f4d8750545c10f114f01bf02e8138464151e4e3",
+    "a74cbcdc05e171a75b84a391e0e1471d73eaeda37f2d6d6bc599c56a5d3e6d28",
+    "caa855aa64b121503ef61c27600f9a350eaa2e6b5352f470500bb390fb30087c",
+    "2611d9cba219362cdebac0756f747c1b99189c8d47509bd0065ff3ee02df2dc1",
+    "97e43c1e490dad654da1f03e8a9eef81384b92259b2ba081119f8be70c91ff2a",
+    "3b98b8f6c688dbc2aed1d0838cb07bb1b751f42db0fb05f61084160a3627a6a7",
+    "4092a6c2eab9a111eb1bcef2836663b4ecb8356e6107a3a9aa5837f21678dd28",
+    "90d55f1c6090d176b88566bcb26e0bb6e6b1b1ae2c4343cc23adac36fe8c7ef0",
+    "91e2fa671c8cfccdad45969fb22daf87d294a073ac34d348f4fea8eec3ee646c",
+    "2cf4236d29055a63a56e66f24772290c6d1054baa510e2ba5599246875fec20a",
+    "233e3dee6c96e783fca7b88006f1dee7ab08825d25a1893b7773adee53b733ed",
+    "fc357e5d4d76099be77e65fcd0321ecb1059008c90ee636e142a69c5606a444f"
   ],
   "title_hashes": [
-    "8b007e8098ca0caabada6ee0371eca5afd7fe0951d8f85fa651aed7b3d440ef5",
-    "a09f8da972e6cdaf56cedfaebfe442c133c5de5a38e1b77d9ab60e7d8343eb5e",
-    "2e0faab6f58caa77afa1719da6fadf9f303a92f6c9fbc20a8bc1348bd937ecb7",
-    "38e9dd48471bb9272c2af345cf9133e563c304e8a1729b7205493e02c098b596",
-    "af3a193c266d3015ae78dd94ab2c555be5392023777775c1a3690dc6a71fff8f",
-    "301f406e9d1d911ec28dc673e344c200089f606f249715b8ead46d8448bbed35",
-    "b8a396e8006e25e14115a75d01aa57b2091ff4b2ac58e14bb3bc01633c1b8a3c",
-    "a6f991b7a558bfa352ef0284f37b4c3483b977937fb90ff492a5bf8979f0d989",
-    "cde9ba826e1cb73e912fb8019a52f17974cb17905532b881740b1608969c333e",
-    "4e5a63062265cbc7001f87dec4766b48700899f951a6b110de3d302bf602bd1d",
-    "3fca1850c29cf5995969c7e652352b53f1c4674c3a2a5c83e42583e3915da9dd",
-    "5bf735e5ecaf6bc3689721b9af645fb62545be067f980e8e358770fe70f8fa1d",
-    "eb661542b2e4fe0a306d6fcd31d5fb8399076786681cb3ed9efcc3762f1f5632",
-    "e71e954117272dc9d0cdf475382d6e7c47f10a0149c0005a6e2e273c435f0643",
-    "8c413088d6253cf493e9408fab1760e26542e605760287dec60cc3f5e8ad5c41",
     "e6cb90db3ba44bba832576e8b504a3edf2f9778ba527cee619720a51deb9fae4",
     "6eb48f4037d0df88e60042a9d963b958a6416ae87a133b50a8eac2c58534cbc1",
     "e7bd222d1329e399feb52196a8385c77e95cca835cc91f48fe3411598e0829b6",
@@ -8002,30 +7987,24 @@
     "648e058d54d02e2a7c3d168d11c91f99b518b48f9742dd7f0935ebf32d7aea5b",
     "232640957d1b92ca3efdd27cebcb4732c0515fe40c22431da8a45f92c58601e0",
     "bd4e410019e927121ae877d255de1176a84e29b48474f5de99629b873ca2653e",
-    "aa66cb6e70e010c0151dc134790dffc194287034dd0ebf01df4ec104b506c1b7"
+    "aa66cb6e70e010c0151dc134790dffc194287034dd0ebf01df4ec104b506c1b7",
+    "c36dd4d1080a35dace4e5c9a83613ba696788ffc08b69c15f81a1b33535533af",
+    "5bbf4ad3565149b701d82b1d4df3fbe32375656bae2b689fcd8681647481e1f0",
+    "78becc3d9674a7b9d6877f6110fd3fc6707f4ee61bd13554ecf6c160f6e6c0f8",
+    "126d44e6c4003b8919a1c59422e02fc9f2d8b7ab935cdc4db647d9a90f720285",
+    "3854bbea16bf1393885055b85bfba5bd8caa7766e8f2ba6be447bf1f467618bd",
+    "4143e4305ba3e512314f443529af8293e00cf2e44560229905da4f45e7cc5770",
+    "e93345ec8d91824f3c12d9f69281bad6227400f42268059ef615acdff5d7058c",
+    "c79e065cb274c529ec25846974ae07605fd35c462a26bfce791ee3b9b2b2c5a7",
+    "a56042dbdc2509ad1fa575072573e77da822be66196c1f6647ed6469f37bbd51",
+    "164a2d70936ceb7021f2020ffe9e2d39fff185a3c6715126f13afe01aab968d9",
+    "ed4c7ba86035d345e50cef9441732b0eaca5992bfdd6d3c7f8af03cb779c3845",
+    "d7c7e7ed02e19c6b269273defda05d9a761175b3d35161c67f7f4fd67ed7c0f8",
+    "2b44947673e90d88d19b3310313697ff41ef1a86e990855cec708652a64100ac",
+    "3428966f59d03b26bd5b122b46e8d9e3fe139019c36f72163ee27c4378363560",
+    "34f5c08a7acf7f41e61f52128842942f09ab6002af2678e3dd36bfacbfb83e01"
   ],
   "recent_sent_articles": [
-    {
-      "source": "The Information",
-      "title_en": "AI Stocks’ Big Worry: a Chip Glut",
-      "title_ko": "AI 주식의 큰 걱정: 칩 과잉",
-      "url": "https://www.theinformation.com/newsletters/the-briefing/ai-stocks-big-worry-chip-glut",
-      "ts": 1795568670
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "배달의민족 로봇 '딜리', 아파트 세대 문 앞까지 배달한다",
-      "title_ko": "배달의민족 로봇 '딜리', 아파트 세대 문 앞까지 배달한다",
-      "url": "https://www.yna.co.kr/view/AKR20261125049800030",
-      "ts": 1795568731
-    },
-    {
-      "source": "국민기자뉴스",
-      "title_en": "\"러시아, 핵무장 인공위성 연내 발사할 듯\"",
-      "title_ko": "\"러시아, 핵무장 인공위성 연내 발사할 듯\"",
-      "url": "https://www.kmkj.kr/news/articleView.html?idxno=146841",
-      "ts": 1795568801
-    },
     {
       "source": "조선비즈",
       "title_en": "쿠콘, 올해 3분기 영업이익 51억원… 분기 최대 실적",
@@ -11504,6 +11483,27 @@
       "title_ko": "스카라무치 \"젠슨 황의 수익률, 시장 공정성 시험대\" - 엔비디아(NVDA)",
       "url": "https://www.benzinga.com/markets/tech/26/11/63615063/anthony-scaramucci-nvidia-jensen-huang-post-moral-society-outcome-first",
       "ts": 1795596629
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "프리미어, 몸값 6600억 한국펀드파트너스 인수… PTA는 1000억 재출자",
+      "title_ko": "프리미어, 몸값 6600억 한국펀드파트너스 인수… PTA는 1000억 재출자",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/11/25/ITMFQCMSPZEM3ETZG2H6A2BQUY/",
+      "ts": 1795596723
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "GERMANY'S MERZ ON EUROPEAN BUDGET NEGOTIATIONS: IF THE IMPRESSION AROSE THAT I THINK WE SPEND TOO MUCH, THAT IMPRESSION WOULD BE WRONG",
+      "title_ko": "독일 메르츠, 유럽 예산 협상 관련 \"지출 과다라는 인식은 오해\"",
+      "url": "https://t.me/marketfeed/1085017",
+      "ts": 1795596726
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "GERMANY'S MERZ SAYS EUROPE MAKES US SAFER AND STRONGER, IT IS OUR WIDER POLITICAL AND CULTURAL HOME",
+      "title_ko": "독일 메르츠 \"유럽은 미국을 더 안전하고 강하게 만들어, 우리의 정치·문화적 본거지\"",
+      "url": "https://t.me/marketfeed/1085018",
+      "ts": 1795596729
     }
   ]
 }
