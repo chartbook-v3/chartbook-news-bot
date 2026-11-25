@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795646462,
+  "updated_at": 1795646612,
   "id_hashes": [
-    "afe2a90e07b88fbe8072d0cf0a51c0749b015e959ec12812e7901c05ec49f1ae",
-    "14a3f1c52d2b198e838cf41968044288dbb2eefc89927c531a884ed4389f7ae9",
-    "31f52a5bf52304fe0a50904a7f9e96a23f2927bcf56160fc6d9e370466315ae7",
-    "a5a7936d565c0ec376d232cd800fa80d4a690f00e4bbddcb3848915c32782900",
     "b394d3402cf80045497627495ac850549734f19fa75067a9899885a4e3297938",
     "8e13e3c07ba36e124c5a5f846ca06192b72e33ea41fa07a55eace574ffb8eaf7",
     "a0351520470f49727115924ea7b7657b3f3ee0d049e78c0399cd88386352d408",
@@ -4000,13 +3996,13 @@
     "bd8e4e39282ee17802437aec88a34dd68cff3a8b843cb1e8e1fe429d6048b827",
     "75fa2056a5742d3d5c5ae382d54f930574576aea8d5ddfa1a4403342f0385596",
     "3a832ed99be14fd801b8e7ea4b1627b25d30375bf58f1756373a3d7bc4ba9e10",
-    "6364629683ffb709763b544d76738a680cc3e7fe2914b65ca392fc2ed901ff53"
+    "6364629683ffb709763b544d76738a680cc3e7fe2914b65ca392fc2ed901ff53",
+    "6b92c74afe8beb0fb7b76d53103d603c8e8e8f43192e2e956b69e89d017e90b5",
+    "39051281fc94f0733db33e4ff015ac4732a82c9512e37ff869e2f452bc7e1b86",
+    "d3ee28649d1f3ad3d1545e86a5d51cea993db6539a951eec92a885a8e4cf4637",
+    "1bd0680acba673146fb3dc7af1b3968671484ead3369ae1652c320323be224a8"
   ],
   "title_hashes": [
-    "6efb21d79ae4d98f4b6e345bc7e87af45578234ea9313e3553c85367f180e986",
-    "6f1275068326c13464ab118a4b4d3af2d16f7cdfb1b2e851b0f4e8c343521186",
-    "4013b16a834c45c477b39f726e1f6996d79608a9118c91b4472ae82d559c8e70",
-    "d84eb30082e253d37428c30da884820aefbffea7502357f31e5d9ec3146b8a3a",
     "cbfc10bacc897dd89770c7897c207febce7bc94f1dc00db3c50daa33ceb87a30",
     "e1f79e62c2777981889532b43f575ab8761e02ff2b755c25be2b050419ebfd09",
     "7668769b707d0f149ca57704587fa6b122ec008ae13c1b7ade8167f3ce08aa03",
@@ -8002,16 +7998,13 @@
     "d375d5d00089410750127d6c7c110e349be49da945fe5f190f857915b3f835c5",
     "4c423e368642ac6aa6ae6934eb0fb6a15a8377964cd8f26484d8d499370c4fca",
     "c29271841ab6cd5c2909ec081c9f39bf014a75b3c092d51632c3a343568c18cb",
-    "da1a4da052b5e2ca2317eb375a5de44905c94ff7b688c66da96178a36194ea30"
+    "da1a4da052b5e2ca2317eb375a5de44905c94ff7b688c66da96178a36194ea30",
+    "7c1959c56c02c5dd5ad472891f4f439442ce0a9d85350a4b4e73c6beef0fc917",
+    "d57af0c5b0f71e1660804083df9b30647ecd511b8bae3dd3782a0a05ad4de59b",
+    "96ae55a90e0abf5fda83beeb529d507c31b0e1a829b00bb4432b5fe743c7ce3b",
+    "16e82a7c5cbd544a7f24fd359043bd5149e4c18556a555dcbbb5fe5b0f7e8476"
   ],
   "recent_sent_articles": [
-    {
-      "source": "TrendForce",
-      "title_en": "DRAM Market Bulletin - Nov. 25, 2026",
-      "title_ko": "DRAM 시장 동향 보고서 - 2026년 11월 25일",
-      "url": "https://www.trendforce.com/research/download/RP261125ZA",
-      "ts": 1795594195
-    },
     {
       "source": "Benzinga",
       "title_en": "Didn't Get Your Amazon Refund? You Could Get a Share of $309.5 Million, But There's a Catch",
@@ -11504,6 +11497,13 @@
       "title_ko": "EU, 일본산 전기차 보조금 대상에서 제외…로비 실패 영향",
       "url": "https://wallstreetcn.com/livenews/3205964",
       "ts": 1795646461
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "\"핀란드·노르웨이 정상, 발트해 충돌 막으려 푸틴과 비밀 소통\"",
+      "title_ko": "\"핀란드·노르웨이 정상, 발트해 충돌 막으려 푸틴과 비밀 소통\"",
+      "url": "https://www.news1.kr/world/europe/6366321",
+      "ts": 1795646611
     }
   ]
 }
