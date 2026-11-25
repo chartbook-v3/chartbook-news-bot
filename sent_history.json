@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795595138,
+  "updated_at": 1795595309,
   "id_hashes": [
-    "540be96c2eebcb0623b5eff7cd005e2ed015799a3a92e4342294f3e7c7ae9d3e",
-    "6606633cd3af41f3a625e08710a147310e262e0682322ca147504c0102833a52",
-    "e6e61d4f6507430c5b590bf1381227b68fa362777e972515e83b0c13cd66afbb",
-    "e57382814b5aa309d26fab5d0ea12b947a0dea3ad1e6cc7451c31de70dd177e7",
-    "40963c7da78e16fd8337a8d1a7df0f6bf8bf5e59760014c779c02fae32a8a892",
-    "65a802e1ca03a174fd36bee2760f80bd5685de7bd6527a5782934f7764f241a9",
-    "199402ce9f819360d0dd66ccc32fe64d51bc1dbdaaa398bc05fb2bffeb423324",
-    "692397c74aa101ffc0902603163bb73da0449996ca3c9f5784f71c62b9358f4f",
-    "16057df6e01d23ca85257bc5327223a3ae1f28c12337d87b723978f80a18ee67",
-    "e07b7e84403e8aaf051b4b99978f2a8678405224b34f5f9462a694c347a2baf8",
-    "f3c83f97711603fe70d2a88229551e38db20d11aba09c22eb0b5b114a6dff03e",
-    "a6f2532e918a5ecf718ea927925ad8bee6fca5376b6075b2ba8a81c577956507",
-    "e4e2a147fb61cf857ccfee14f1e054bb7be5f6771b85caa5fb1d6445847ce792",
     "b903335221f54bbb11e8ad3001cdea031e4704002afcdf10e88f6c59b7d6ba24",
     "d7c905b26c9be93d8ba62f39ac36a9a1ace4cf51fc54f35bdf2f384989dd7709",
     "e1696db5217690bebf77218eeca354b68e37c6777c7b8a2a5d7136316a511551",
@@ -4000,22 +3987,22 @@
     "29e4e968fe3798b8493ddb9b1b02effae40dc1e516460d6ca09b36a5bcda5f73",
     "4b5ece58ccb8cfc32d17592815bd5db37c7d1bbbfb0cfa56f2537c0e82967516",
     "ce94a15875ae481134e689662c4ee94dd4cad0ae01d4376b41ad0a859d573c34",
-    "ca7f0d144ae16a9441ad57a9f9108ce760861d5f0b0da42a37b4e25bcb2517a7"
+    "ca7f0d144ae16a9441ad57a9f9108ce760861d5f0b0da42a37b4e25bcb2517a7",
+    "c484dca0ff4658f64da757ee411fe82e520ddbce81d4bf328b37f3eb3e4d6c1d",
+    "1511699186fd98f164e14316feaac6be2e2b14a9861477edc136027ede9812d2",
+    "cd37280bffa2915bc6f58b9706a662a14aa8d36fc5895d820444376601c67881",
+    "9e56175e0dbdb40f9d1018a2f79849a4633a208152302d516f10a9f7c7743f18",
+    "adfc147a5364242c9715ce8523594e44fb645be09bb8e65ded3737677f4434a2",
+    "fc0f574436f27b21192fe93678c62d93d4e07cc39fe3ff9e4387875171b8ee6e",
+    "859f52ca98d0a69e3db11624b6a80b1dc4919d2c3dcb3438b260a4bf08ae68ff",
+    "79ec03effe8c4e13982ed36f8f653fdaaa74418a92dec0ee7a979409aae00125",
+    "17572e2713bb5f68d14638344a163938988263c6a66314fbad904b0496f8cd38",
+    "4f782d51999cfb81473aa3e91869d040518602bb4f7652d2ecbccb25c47e766c",
+    "d7e4606a8fc7219f7522506c72ccf9e53a0529bf3d45e66ad7ea85b2fd5d50b0",
+    "186996991f8ffb341903c5b4b1eabdfc3d0fdcb97215ea9e56c4bb0d25c249ab",
+    "588fd5b4cae3b4255c5788e7849f4ddb949c9c24cbb4e49627fa5938b596b090"
   ],
   "title_hashes": [
-    "16ebd13766f8faa038bdd902b799ab82d5f8ff317a4178b1621306ae152b3185",
-    "e036eab399cba679f5a143ed068915d4787572fa8ffd5a9932561930c7123b0e",
-    "1f1a88d99df4c01f60c45dbf5a118489ed0558fcf89d9403293129b54c4b318b",
-    "4e3e89f98083e76ae56641462dfd15127e3f964f6c838e348c9e3c502aa6c360",
-    "b40adb7f9af28cb4a37690311b0389338c24e55b38c499ea89ee30e999bee853",
-    "ccfd6cdb092ac1794e1cc13a86008a7f1004779d561b88d55e0310c988ffa29c",
-    "74e1adce0143bd386a3312fc754f4c0887370f9a8cc7ae5864d6f1c5ef1f2111",
-    "d7fce75abe3e4057812039b374b7d79917357eb5f8f087850c10d57761177eae",
-    "adbea6ed66285101312742effa5af79e6fc039dbe6617df9aabc4e7d69e55999",
-    "c85fd856b66656b73cc9d0c3c7f18017239aa97df91d04e99046cd126460cb0c",
-    "a2a39e36b05b7ba9475201761572d2aff43a879d921f561457bca85ff55bed5c",
-    "98a83bc09c89e5437d56a169ea7cb2339b43aa376e78620dbf8f1e0e273b6eaf",
-    "13e86b6d3333728fb15899e2247eb30648ecb43cbc09e3d62e9514fe397418d5",
     "5071e9b50f6ac544a4e4ebd1349e5f7763a0e0e98efef531f5d1aa42369932c7",
     "6ee76753d87ade8aa68f919fc5804e5e9323b0d1aa99a0fe3d5735096006b618",
     "da7399cde442ace843f9f90633ad31679fb88b243ef918e845978e3bca7673ba",
@@ -8002,37 +7989,22 @@
     "13b4d070d465641c13b5761c10d020ab531aabe0d05bb1b93e471c7108060a8d",
     "e4bf4db01747f983c8ff9eb0e1133ada6b8a6b1a7b9504621aa0dc0681451892",
     "d21e26df201029b581c260ee738e1b2fc59a478a3a60a2940b1c4e17486552b7",
-    "498a8faa3ab2785b8b1fa38ea498260da7d0eff68a5784a935fa58789b9a79eb"
+    "498a8faa3ab2785b8b1fa38ea498260da7d0eff68a5784a935fa58789b9a79eb",
+    "2fd12565ade91b64a3a19fd6bfca7e2a10e19cca4be44ebdd0cbabdc95abc176",
+    "148f387e392655b3bf9a888ce6463f746a7b57bfa5ca95a3ad5a6cb30c5742e7",
+    "4aae4010eabe3e98d56073b989537916774069d04c2dfcd99835f5b3c5b64b4c",
+    "e0afff02a80c184048b512bf13a354bfb45a21a0d90d8b09f1c849ab1d5ab2c8",
+    "b9d2000d226c5f4fc82cc0abdb468065785e503bbb055f7c6d41d57e42fdf9fa",
+    "a4b46062b33d6aa412254c7498a78b59b0b27d952ad207bf832090f62c69c0a8",
+    "3c45e44842438b350ec79aa9724ff1e4bc8225b86eb2be0ddab59d46c7732cf3",
+    "8386ca2d197a5ebce2e02d44abdff3f7d6aa8210e4f813593a6e41fbe2e97674",
+    "c354a38a4e4181569d11a70fb44814609e2cd19488aba4819c52400aa4405e3f",
+    "f56a050c35e1d221b00e8a99ae16cbbed876fedb9527d9a771ba3fb2c474e249",
+    "4e33feb67dc9d04f640719dcfe0b551a8744c513feeae2465ff16425094728d0",
+    "47888bfb3c11e8dc8eda409cc509b497dbd0a00ba31d05a7170713c28728fb17",
+    "7f4d0ff88c665f2637f24d9bf8ec3aae6c1bc6b897d86ec6e513e299f30273fe"
   ],
   "recent_sent_articles": [
-    {
-      "source": "한국경제",
-      "title_en": "엔비디아 주가 6% 빠진 날…'미국판 다이소' 11% 급등한 이유",
-      "title_ko": "엔비디아 주가 6% 빠진 날…'미국판 다이소' 11% 급등한 이유",
-      "url": "https://www.hankyung.com/article/202611258465i",
-      "ts": 1795567651
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "JW중외제약, 호산구성 식도염 신약 비임상 국가지원 과제 선정",
-      "title_ko": "JW중외제약, 호산구성 식도염 신약 비임상 국가지원 과제 선정",
-      "url": "https://www.news1.kr/bio/pharmaceutical-bio/6365124",
-      "ts": 1795567653
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "PERU’S ECONOMY MINISTRY REVISES 2026 GROWTH OUTLOOK DOWNWARD TO 3.1% FROM 3.4%",
-      "title_ko": "페루 경제부는 2026년 성장 전망을 3.4%에서 3.1%로 하향 조정",
-      "url": "https://t.me/marketfeed/1084866",
-      "ts": 1795567657
-    },
-    {
-      "source": "디지털투데이",
-      "title_en": "마이크로컨텍솔루션, 주요주주 에셋플러스자산운용 측 주식등 보유 비율 1.67%p 증가",
-      "title_ko": "마이크로컨텍솔루션, 주요주주 에셋플러스자산운용 측 주식등 보유 비율 1.67%p 증가",
-      "url": "https://www.digitaltoday.co.kr/disclosure/articleView.html?idxno=717973",
-      "ts": 1795567810
-    },
     {
       "source": "전자신문",
       "title_en": "셀트리온, 인천 저어새 서식지 보전 활동",
@@ -11504,6 +11476,34 @@
       "title_ko": "니오(NIO) 2026 혁신 기술의 날: 2030년까지 교체형 배터리 스테이션 1만 개 이상 구축, 연간 충·방전 소비량 100억kWh 상회 전망",
       "url": "https://wallstreetcn.com/livenews/3205537",
       "ts": 1795594841
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "전남광주 반도체 건설인력 주거대책 마련…모듈러 주택도 검토",
+      "title_ko": "전남광주 반도체 건설인력 주거대책 마련…모듈러 주택도 검토",
+      "url": "https://www.yna.co.kr/view/AKR20261125157200054",
+      "ts": 1795595230
+    },
+    {
+      "source": "인포스탁데일리",
+      "title_en": "[1125마감체크] 코스피, AI 우려 재부각되며 6% 급락... 4700선 붕괴",
+      "title_ko": "[1125마감체크] 코스피, AI 우려 재부각되며 6% 급락... 4700선 붕괴",
+      "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=219111",
+      "ts": 1795595295
+    },
+    {
+      "source": "아주경제",
+      "title_en": "[NNA] AI·반도체 분야 일·대만 투자 포럼 개최…미즈호은행 등 참가",
+      "title_ko": "[NNA] AI·반도체 분야 일·대만 투자 포럼 개최…미즈호은행 등 참가",
+      "url": "https://www.ajunews.com/view/20261125171955164",
+      "ts": 1795595302
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Citi in talks with U.S. officials on possible return to Venezuela - report",
+      "title_ko": "씨티그룹, 베네수엘라 시장 재진입 위해 미 당국과 협의 중 - 외신",
+      "url": "https://seekingalpha.com/news/4676465-citi-eyes-possible-return-to-venezuela?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795595308
     }
   ]
 }
