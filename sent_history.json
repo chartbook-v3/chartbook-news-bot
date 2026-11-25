@@ -1,17 +1,6 @@
 {
-  "updated_at": 1795638195,
+  "updated_at": 1795638348,
   "id_hashes": [
-    "812d723f9e7adfb547e189af799a09b9a2391b6a18701467fcbb21fe5e380793",
-    "f095da25f449be2e3acba51562dd57ed3cc863e5018b40d915618aa93b159dc7",
-    "b534c4ed7cdfcb64d6c97f0d1e94b36acf66cb5a962edec648ba9b805212a308",
-    "9eb4df9fd4f01cc99f868028663a6e6990f406218a47ac6c5e7a32b786318a32",
-    "397e91838482e45c7d773e6d93f6d974bc86574df602e40d16ceda5fb426650e",
-    "8003c682f9d69d1854606302c880bdb6358b48561603b7050d66250164436820",
-    "db77bca97f14ecaa549d7b0c96719cfb0871404d0ce35cb267471c29839e95d9",
-    "0c07f59a2d2e691d208da5b130bb8c8140b953a3221b3508b5b0786322048df3",
-    "4c7d0c8ee50898427848a41aac5aaeddf936c071522adf54140fd77376644224",
-    "ef16f3013e4e8481ab1fe857fa42bc562cc9712712b178b82ce898bc3a503f28",
-    "d9ed2e7dfadcdb907223abfcb475ffe438e08fb6e9ae3c62199449427da97e45",
     "1296fda52ad04b4c5e0e6a21043dd6cc25cef58ea9d2b1dd22893ecfe05cb087",
     "f0f406236a76be443becbc210efb143b4498abc4f58555ca380804d52a928014",
     "382c56942c4b7094d4762bfc96b6843c9131f3b2c5bdbcc00fc0b70843ca77a5",
@@ -4000,18 +3989,20 @@
     "938b49501b349f74eb83bf70da473eaaf476540fd96d9927aaa6a858d14f73b9",
     "be41ef1a8e916ab9aaec943990326d53b6cd1e4d01cbd383958a44affe4b6887",
     "60af5084db7bccdba5e161d40be501c763fb54ec3d706c47b71dea82838222fa",
-    "7b23c4010dd27f497762e57e1f91ab5c6a8bbb0198fddb09c1671087a8c3bc02"
+    "7b23c4010dd27f497762e57e1f91ab5c6a8bbb0198fddb09c1671087a8c3bc02",
+    "5c67ad427447d1df2e37251d9b7f2388330b3840886e3bbddceec7fed048b1df",
+    "f9813daba080349a0bbc4cfe2b74decd0b4f43654f96719034dedd8e0f5fd51f",
+    "0ab3e4de795bb98900c8ec65a3a8309c7e83758a69ddea02ee544d648b30dbb5",
+    "e1f297705742912119ed841e4481a97d262f5294b83dd2f25e59ab86c1970c5a",
+    "d5c39a3c5121f9e7d043eca3adab89d0080114b8357a67a6612116463201db1d",
+    "1a64c2ed3c6fc9a911fb666bfd8f123d56705f419854a2d97dc1bc27e16b96b1",
+    "ee99bd78053b009217bbe7ceaef53636fdb3398d839f03a8be11ea8619340a72",
+    "b797d764f00a2d8fcd78f76c526558c9a780f69a801475dbb49b8c3c23e64883",
+    "e8d41c6591ef666823c668d8f6a9ee42333c22d77a52efddacad50753e08978b",
+    "210e9a2577e29195a9aaa59eb8104d1050a2b5298bbb8bfcd2e87926215a0091",
+    "3992b6d4aa8b6873fa48f73ce4da863336f0c2e73c16f4fd17d1ffe24939864b"
   ],
   "title_hashes": [
-    "bd8deee915de8b45fd770854e63cb6a122c3fbe80f43c4e03ae20f72566c6ac1",
-    "407cbebf14ef5c788720b2a745aa5313b2c273d3ffbb082b08251904548eb719",
-    "0ea42d4f54f66c7a5621d37ea6d50b6af4ebd8e109786fd548a0d316409a8faf",
-    "8539e5deadd86ed9f4893330c0fc9431e8e066fdad2f6a8acc7ff84beb6827ac",
-    "55f70b0e886950b6af7b28832d8444580a1804344a1d9f387d323552eaf0ceeb",
-    "7a81a8866f88bbc2fdafbc28ba8b1b722f57c033134b63526cffa970332bed06",
-    "95f3261eeaffdaa8cbe680c6343d9392992967c4d0a61b473a9bc2e7ced106c4",
-    "773a280c8d32ba76497cef4c0c60542bccb6957ee60f66e2b047ad1f2f837c5d",
-    "d5839f0ea0521eae5bbd1180cae3d651b8738f2692607e5a2dadd054fa041b85",
     "18d6b265be95ca3e0b4d569befed0cf763e1ea7b2232fb52375752036d3b2523",
     "2873fa3dbbc0f0bfd94f07192b57e6d96f9e8b415cff3fe55d29590d37ab9ca1",
     "b908b0ff375da36f18cb944f6a89d9bf345676c25fe550b0c5f7b2b72052738c",
@@ -8002,44 +7993,18 @@
     "2d918d12fb7cc4fe87387bb8e99ae5e7dcaecdbbe4c6cc200c80c8a63e698801",
     "aa17ee2a19b007bd2876045fc101f6af017953695db468f8f8647ae8cd611a2a",
     "fc15eedaed5cb7d4aa899061794c9c611deb50830cb5467cdf7291f53fc1f028",
-    "324bd1393ad4ba020a07908cc8ad4b583707ff6ac5f5f9a7b075cc1fec54f0ba"
+    "324bd1393ad4ba020a07908cc8ad4b583707ff6ac5f5f9a7b075cc1fec54f0ba",
+    "bf609bbf3f5819986f9911c3650fea56f7d602f1aacd24cb2b07f430eec0f85a",
+    "24128873eca19d76e7cd01c41727cfc3f2270c6ecab0e76a8f5a680385187c46",
+    "1f6326bc75ccf2cdc81fe090e97f6f78d330fad54a1b39af5383e6b2c867deed",
+    "9f380ed0a86398773a41d441d629f6e07e8be419ea2aac701758142d2b44d6e0",
+    "7b430e1f82cc9c2ce83a5c0743ca37789c0ed2a3550daa0a44d29de23149e6aa",
+    "44702197cc7f1e7d46eea362845147aaf2ab314c718ac3fd2c9284f8cebab25c",
+    "c88b2a4e4193c8da3a3a5ff13ebb762f59915d8e807a8b726f88f62d4f05c5e4",
+    "019fd53870e1e80f941deaed49d456d40f9e957219b46d4547d05cc05dde5b76",
+    "6fd9a7f63406b3ccb4dd3504e4eae7d23845cbc746dda5f132c222676c581dc0"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합뉴스",
-      "title_en": "'전기 풍부한 강원의 역설'…전력망 부족에 기업 유치 발목",
-      "title_ko": "'전기 풍부한 강원의 역설'…전력망 부족에 기업 유치 발목",
-      "url": "https://www.yna.co.kr/view/AKR20261125129900062",
-      "ts": 1795588384
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "[속보] ‘젠슨 황’ 효과 하루 만에 반납…4600선에 주저앉은 코스피",
-      "title_ko": "[속보] ‘젠슨 황’ 효과 하루 만에 반납…4600선에 주저앉은 코스피",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/25/T75GGFZ3GBFLLMEE4HGTJRO4EU/",
-      "ts": 1795588388
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "MORNING ALL!: - APAC STOCKS WERE MOSTLY LOWER FOLLOWING THE MIXED LEAD FROM WALL STREET, WHERE TECH UNDERPERFORMED AS THE NVIDIA-INDUCED EUPHORIA PETERED OUT, WITH THE KOSPI AND NIKKEI 225 THE CLEAR LAGGARDS.",
-      "title_ko": "모두 아침입니다!: - APAC 주식은 월스트리트의 혼합 리드에 따라 대부분 하락했습니다. 여기서 KOSPI와 NIKKEI 225가 뚜렷한 뒤처짐을 겪으면서 NVIDIA가 유도한 Euphoria가 약화됨에 따라 기술 주가가 저조",
-      "url": "https://t.me/marketfeed/1084967",
-      "ts": 1795588390
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "[속보]코스피 4700도 무너져..-6.16% 하락한 4697.23 마감",
-      "title_ko": "[속보]코스피 4700도 무너져..-6.16% 하락한 4697.23 마감",
-      "url": "https://www.fnnews.com/news/202611251530498321",
-      "ts": 1795588526
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "REMY COINTREAU H1 EARNINGS",
-      "title_ko": "REMY COINTREAU H1 수익",
-      "url": "https://t.me/marketfeed/1084968",
-      "ts": 1795588528
-    },
     {
       "source": "Benzinga",
       "title_en": "Fitness Champs Shares Jump 53.12% After Hours - Fitness Champs Hldgs (NASDAQ:FCHL)",
@@ -11504,6 +11469,41 @@
       "title_ko": "트럼프의 사위 쿠슈너는 우크라이나 전쟁에 관해 이야기한다: 우리는 유럽과 우크라이나의 동의 없이는 어떤 결정도 내리지 않을 것이다",
       "url": "https://wallstreetcn.com/livenews/3205916",
       "ts": 1795638144
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "S&P, 엔비디아 신용등급 강등 검토…젠슨 황 복귀에 지배구조 우려",
+      "title_ko": "S&P, 엔비디아 신용등급 강등 검토…젠슨 황 복귀에 지배구조 우려",
+      "url": "https://www.news1.kr/world/usa-canada/6366299",
+      "ts": 1795638218
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Claude: Claude for Microsoft 365 add-in missing for some users $MSFT",
+      "title_ko": "Claude: 일부 사용자의 경우 Microsoft 365용 Claude 추가 기능이 누락되었습니다. $MSFT",
+      "url": "https://www.financialjuice.com/News/9868356/Claude-Claude-for-Microsoft-365-add-in-missing-for-some-users-MSFT.aspx?xy=rss",
+      "ts": 1795638221
+    },
+    {
+      "source": "WSJ",
+      "title_en": "FINLAND AND NORWAY SECRETLY SOUGHT TO AVERT A MILITARY CONFRONTATION WITH RUSSIA IN THE BALTIC SEA, WITH FINNISH PRESIDENT ALEXANDER STUBB AND NORWEGIAN PRIME MINISTER JONAS GAHR STORE USING A RUSSIAN OLIGARCH AS AN INTERMEDIARY BEFORE SPEAKING DIRECTLY WITH PUTIN ON OCTOBER 27, REASSURING HIM THAT NATO HAD NO INTENTION OF IMPOSING A NAVAL BLOCKADE",
+      "title_ko": "핀란드와 노르웨이는 10월 27일 푸틴 대통령과 직접 대화하기 전에 핀란드 대통령 알렉산더 스텁(Alexander Stubb)과 노르웨이 총리 요나스 가흐르 스토어(Jonas Gahr Store)를 중재자로 삼아 발트해에서 러시아와의 군사적 대결을 막기 위해 비밀리에 노력했습니다. NATO가 해군 봉쇄를 가할 의도가 없었다고 그를 안심시켰습니다",
+      "url": "https://t.me/marketfeed/1085462",
+      "ts": 1795638286
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "据美国国务院官员透露，特朗普政府考虑回应韩国对Coupang的态度。（福克斯新闻数字版）",
+      "title_ko": "미 국무부 관리들에 따르면 트럼프 행정부는 한국의 쿠팡에 대한 태도에 대응하는 방안을 검토 중이다. (폭스 뉴스 디지털)",
+      "url": "https://wallstreetcn.com/livenews/3205917",
+      "ts": 1795638290
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Michael Burry Is More Long Than Short After Dumping Nasdaq Puts",
+      "title_ko": "마이클 버리(Michael Burry)는 나스닥 풋옵션을 매도한 후 숏 포지션보다 롱 포지션을 유지하고 있어",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/michael-burry-is-more-long-than-short-after-dumping-nasdaq-puts",
+      "ts": 1795638346
     }
   ]
 }
