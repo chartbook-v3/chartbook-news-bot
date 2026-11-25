@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795642247,
+  "updated_at": 1795642398,
   "id_hashes": [
-    "5c6841ca0f7a049e8c5348a15de307f3b37e43876c5cf016c8e82d72d3f1bb4c",
-    "b6652b111bed66008cda95db2b8e657a8b85032596d7a671a2bb6a7886db3fe4",
-    "3fc98ba22d75fefb0ce6b9b9ca74651d92ee2b7702744fdc8d101f8b4a7ea9a3",
-    "70f62edf9a4c6a46f004e9c790dffb4597a95fa1bd28d3c13ea736918af804b4",
-    "a1cc188acd585ac85d48631529fa6a5dadf0b30d253c7671cf0711892a861461",
-    "ed1f6358c769dbb00c465cb21bd4aeb88f5ffc96782717c2a7d3bddb7f12c192",
     "e7e837ce281f41870fad34f09a164099c694c2c99c4e74c7c5c440d89bd65cb7",
     "f0d82aa276be56a1e76dc323469447550dd2024eaea43590c084396090c8489c",
     "945024528647ff4e9c1d290530c704b7c54c3c00dfdd0a4ccdc424022059af8d",
@@ -4000,16 +3994,15 @@
     "1863189dbf5e966d6af7a82d4cd804aa2bbc382bca899b63619b46ea2044cf96",
     "824b1f25739b06fbe0eaa0f3552e707579d7a4e1b471edc0f9ab7891674343cf",
     "6762e976d71ed8ec10878c80f9499f707866ae2b17405dbbcb5041340d56b16d",
-    "3bfd93699f9539622b972e6f235cdda00cbc364cdda7644dd4d33c17a3d0ab6f"
+    "3bfd93699f9539622b972e6f235cdda00cbc364cdda7644dd4d33c17a3d0ab6f",
+    "6dece77fdd582725d5f446d7d2caf3da8eccd5c68a98a050da5ab7eb017dba2e",
+    "9edbe70fdffc61e2c6e76414b9fd84ef33b4ee086318caddff967f19ecdee045",
+    "f0c4338b754f0a32ddf6c795f668750ac44ea6daff080c64e41becee454264aa",
+    "29baa3d9d0134c1dbad4d0115b9ee884d0793d8bf82a8e8d8e5315f9e2f7b55e",
+    "5afb639aed6c6f3bf1405706a74327824c137a14447ddfb917f65c3ab18df2e9",
+    "af6bd0509970d33ae1b091c933f5db1b22a381bcfb7b9d9276abf68210f7c764"
   ],
   "title_hashes": [
-    "0d662a181f32a11c990297da5f5c18b0578a93855926e95de881f580b0aa8739",
-    "c6a8393c162aaad1cd9dd1af084892a911af1dacc618d5ece32b9e58b6151d34",
-    "f898ed0904517c3b240d7c3f57caff9fdccdffd557d8605e859cade2cea2e10e",
-    "58a080b36adb9ff5ef5a05d881a804da2f7b28fd379a8b92ce4fd9d8db2a24f2",
-    "a192b068b3ef802217fa969d82a05a666a7eecc37d1338d8d04de01770871a6c",
-    "dffda8d2c2fc0be110d15cb770ef2d849100c8b29995e59f98d6171ae457686b",
-    "882db5d54cdeb0920b29a1ddc143d698792455628980cefb946e01acc0f4f2c5",
     "21c747f062c155eb9fa3189b214f689b767bdbe65e009c8e66621a06482f7dcd",
     "f4dd81121e1e756d91e5303308ebfa36db4c0cbda6502dcc603ba31a21d7a634",
     "e0a9932f95547293f46ca5405c6d2f8ea70c1346dd48428456270f763ae0f283",
@@ -8002,16 +7995,16 @@
     "06b60dc16bfddd8b3f2446ec061450dce750d72813bf6ae19064f537c58951b5",
     "fb62536dc11916615b7c05bc067063f41ea2669a63d92e9e39dd827e604fb11f",
     "7fcbef2aeb9ce94be3a4e014c10753fe6dfe4ce2ce3ba1b75c65b932388f6e70",
-    "13dd5eb2af868b368b3e392c4ae4f510355c2b1468545e3f306bb4656a8c97fd"
+    "13dd5eb2af868b368b3e392c4ae4f510355c2b1468545e3f306bb4656a8c97fd",
+    "a5792ca31a021a00880d9b6e44edc4957c2af33aec1d0cff395e9d9eff991031",
+    "4413ebd642797c798d61415ce7cc646c26626304a0663cb3b96dc31b4b6c2b53",
+    "495bc8efcb47bd2e2dc47a7ac72a5c9e2eac893a2965b5f1cbb656d7751750ce",
+    "5f61ea29b27cc36938b04a680ebc23321b3024433668efc1dbb6dffc51505311",
+    "a9e240f05e1c14b68fecdf34e74ebf3272fc4d337e266ce960d202a96d7047b1",
+    "3ee0a2f74d9e6530227863694d12a8576283b1e5df595866c4ff619ff77a837d",
+    "8c1e8fe9058f91ec78194244ca5c3e3a28764d1e1e841e6cd429045e7d71d881"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Micron raises CEO Sanjay Mehrotra’s security spending by more than 2,000%",
-      "title_ko": "Micron, CEO Sanjay Mehrotra의 보안 지출을 2,000% 이상 인상",
-      "url": "https://seekingalpha.com/news/4676457-micron-raises-ceo-sanjay-mehrotras-security-spending-by-more-than-2000?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795590754
-    },
     {
       "source": "Benzinga",
       "title_en": "Dell COO Sees ‘No Slowdown’ in AI Demand, Expects Supply Gap to Widen Further in 2027 as Nvidia Vera Rubi",
@@ -11504,6 +11497,13 @@
       "title_ko": "Nvidia는 거버넌스 문제가 증가함에 따라 신용 등급 하락 가능성에 직면",
       "url": "https://www.barrons.com/articles/nvidia-credit-rating-sp-downgrade-d6c982ff?mod=barronsgooglenews",
       "ts": 1795642246
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "🌆 Market News Digest: [Nov 25, 2026 EST]",
+      "title_ko": "[11월 25일(현지시간) 글로벌 증시 주요 뉴스]",
+      "url": "https://t.me/marketfeed/1085497",
+      "ts": 1795642273
     }
   ]
 }
