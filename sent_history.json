@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795581630,
+  "updated_at": 1795581782,
   "id_hashes": [
-    "15cd8ccd48df49a1b22b04d1a9146534ae37f5385dba7306b3b575843a44e419",
-    "8ff93e2647a96c06a86b764af8c8efb03feb7a73560e8bd252c14d78e62f9d8f",
-    "0350c7d9775fb78fdb89d22e80ba513a73de8cce0695dd5673876423d0b39d58",
-    "6ebf89c153824dc0d385470b96bb372a0dfe402ba55cff860bcd06ac4f1a8d51",
-    "5b9d2ff73a72b6c39fefec1c941149a24819e0349868f8a7bdae84d2ed99639b",
-    "3f5f5d8cc0d71e471bd1aa1be701957a847fa9d791877d07812659be6a6a18ae",
-    "b80c6d0cda990959cfa42c66447a8b223219fb982a0f3d1d8dd378290879b8ac",
-    "52319ad81dc94e487ebdda506a310fa0c8ef239f21d63951e81ab9b70629e4ca",
-    "ba639c5cd82cb1033b087f8cc7923495017fa8bddc88aea0b0c18b51a7225d4a",
-    "2303cd09b7ed7f1028581f8845f5730f438677eecf7f15cc2b0b28efb73ddeed",
-    "e4af2c1e6e750e45e65a81ed0a330ce8c8117218aa1aef995d2e7174e04f2c19",
-    "e290073ab203a232713b60d18429de879188ddab1a2f2f7ca46c0faf02720485",
     "ff9822fe99c46ce7c5c61bfd2f19b019a2515e112b04df6c076aa10096e084c1",
     "d252c4463b3da19fe6de5d7aee6cd29f3e688bd535d2208acf9c933659ae4f08",
     "28dc009c57622a4d1827b26f9e03d0074914a6c9dae414546e559826cd23c406",
@@ -4000,21 +3988,21 @@
     "55d0ccf4312e88439ec969344d839f7f25e646b8f223997f10607832d149b06c",
     "2f7f92198d9463328e62ba0e1ff9cdf60334259a64313d83f83d9822b4118e5e",
     "a68beb555b7e9e7e472de0bd98457d084a9c0cacc2599b7d99421e053848e8ff",
-    "f095cd24447c23c6a785e4967bf0f95dc856dfc9f2829b955317668294d97221"
+    "f095cd24447c23c6a785e4967bf0f95dc856dfc9f2829b955317668294d97221",
+    "0d9117bcce8a46db24d0ace5f2b8345d5a6d1f0d8c4606d7a637c958e4dfa4e7",
+    "91eae7849608c5db6611cec138f526e40c295235795b832e0fb08ebc49f46519",
+    "5af45ed03f6cc0d5ebc21fd89bf990122087333cf851a23e6adffe423e2af616",
+    "e25ae692c2a73e0be8d525b1da7e78cf86ed89be0161c8e4f2ca6245724191ce",
+    "7cd4bc0b630d6b671a96490eb7bff306af7a22dd6ec16fce716715152483c788",
+    "555414947af4676f44b23f11c431dc75e5c0c8c0b31d2977a5db5df62fb1d569",
+    "5e910f8e8b8e6ea0a694700f3071b22100969de6831e17cee8e9fcd53a0b94e2",
+    "f66c55314cfb5ad1abcba29e5c84b19fbc46a0ce5dd9618809763eabbb306d96",
+    "3a3acc738b117726738d4386a6455ffca386d607c24230902b744cb62190c975",
+    "6ade78d15f5ff9325b9a5c46e9e394355f0b3b8953b6094b2f6a57e263b63064",
+    "dc1ca25d247f7163ef2e603e5a320f4d304de5a73aad732bb0a5174dfc668562",
+    "eac916126f3bce01480da7032804a3ee58ad3d1fa73e73a0c657666beb97cb2f"
   ],
   "title_hashes": [
-    "0c2d3f8e36823b982b045e22f689cb74b02f21ac281ad987db5d06f6bf5620d4",
-    "8db8031ce4386fb0432b3120b01b41b2f242fc6713e24bf93f1067fd039a6365",
-    "1827cb805dc1cbf7f5c976568dacc9a4f3e1c7426b895cfd3ccf30c3b7eeff21",
-    "83558ba945e74a4b0fef36d46d0e9da1c46e52689ecf3d5f4ee2316113217a2e",
-    "0a642040df7923c8c5436260dc7e5731abcda67b59e7eed643c774589f16c64f",
-    "faca7b606d0ed1d6b3327b4784be0ebc17e095c73fcbb91e55fa8215ce4e92b4",
-    "1ea1e3598e8d726dc5d4c1fce715448dad4527a2cee7ba0eb9c30d2466ab76e7",
-    "0d82688f45f6c96ef7908d3c7b1c8cdcae42ebc2bb40e0a1e3622beb1cd5871b",
-    "578513b37756e34487525707e0159078ae0b7f6c61bf2a1cac24a600de5acfd1",
-    "24974be5f560858d7d5c7fabe614a70480fec31efdf501229e9164528a37bbe4",
-    "3dab5145f4b2b073fa3fccb69bf27c1bf37f32ee435f3ed3b6123461c5c4ef86",
-    "a3845109498f8c8537ebf84d9037d0d0608f429811ce967018b246cc3b482a1a",
     "988c8948a40f1179b69e61c76796909f1f51eecdc59d0460355c9222df072f5c",
     "4c019228cf2438913a1c39fbf7c0aaf99b7a613ec8331787fc1b7ffed13d84da",
     "4a07605b6f0209f3f013794e0aa2411dbefad3501bed4c20f8741bf11d067bcb",
@@ -8002,37 +7990,21 @@
     "68cb6aafb76e5a95509f939567a32c8edf8dd539d46781726455a74e54f045c3",
     "ef4c0cf19da78b77920691c55bc8c272e90525eb220265f59701a8676b6b063c",
     "605dd0c702897e750e03f0d98ef4745dd7cfba032075a19d60cc7b1358d76430",
-    "418fd9972388d5f2ce943805001d0f38f8cc007fcefc6042962a25e7356951ab"
+    "418fd9972388d5f2ce943805001d0f38f8cc007fcefc6042962a25e7356951ab",
+    "f0681ffcf270c9ea57c795cd6fd2d6dcd4cfe60ea625190d9966afb918845032",
+    "5915cc04306c5173c8e329caafb30ddbfdff4c9fb887107372488918d57c2a92",
+    "7e54e8df3bd49451507802f8ae0321cc32f9b35ddb69ac1135fd683297281ace",
+    "c934e46ca0114bf87b1e65e2e67fc52e6cccb552dd23fb19345a348ced6e6eb6",
+    "5e6b763c82b34eaf7464688f5495006d811a6190ca1760047d3f932a69627930",
+    "763b3b757f41f56bbfa3e868e27736e6465f09963cabcc73047e0286c9d25c81",
+    "8e8d7b848535bdaa1c59c52ffea0b5f1beac628986d38f32b23a0b993199ab4f",
+    "6844f273d254a5f4040b7908d5745fd54f2f7c8cea652d276d67814b1a5cca7b",
+    "da5e07aed7c9d7becd84619ac39478f53c7c0b76e61840d1feecc793cb239fe1",
+    "fd275ac97c0ed87f1e0506a0e73839a692c0eec8d3b042b5dbf41dd468c15a8e",
+    "efe2f06adc238f7b0bb25b4d42bc3e38019ee79e2b1eabe8de11cc1ea86cc354",
+    "2670e92a129e72ddc5674b7054346d83720e850881d36359848380ac60dea3de"
   ],
   "recent_sent_articles": [
-    {
-      "source": "The Information",
-      "title_en": "Grubhub on Track to Lose $100 Million in 2026",
-      "title_ko": "Grubhub, 2026년에 1억 달러 손실 예상",
-      "url": "https://www.theinformation.com/articles/grubhub-track-lose-100-million-2026",
-      "ts": 1795554585
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "롯데마트 '내일농장' 통했다…AI 선별 과일 매출 200억 돌파",
-      "title_ko": "롯데마트 '내일농장' 통했다…AI 선별 과일 매출 200억 돌파",
-      "url": "https://www.news1.kr/industry/distribution/6364614",
-      "ts": 1795554675
-    },
-    {
-      "source": "글로벌이코노믹",
-      "title_en": "中 국영 저장 프로젝트, 배터리 성능 미달로 ‘1억 위안 납-탄소 배터리 소송’ 직면",
-      "title_ko": "中 국영 저장 프로젝트, 배터리 성능 미달로 ‘1억 위안 납-탄소 배터리 소송’ 직면",
-      "url": "https://www.g-enews.com/view.php?ud=2026112422213726990c8c1c064d_1&ssk=2017011301560109486_1",
-      "ts": 1795554680
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Local Bounti Becomes Largest Leafy Greens CEA Grower in the U.S. with Completed Acquisition of Revol Greens' Certified-Organic Facilities",
-      "title_ko": "Local Bounti는 Revol Greens의 인증 유기농 시설 인수를 완료하여 미국 최대의 잎채소 CEA 재배자가 되었습니다",
-      "url": "https://www.streetinsider.com/PRNewswire/Local+Bounti+Becomes+Largest+Leafy+Greens+CEA+Grower+in+the+U.S.+with+Completed+Acquisition+of+Revol+Greens+Certified-Organic+Facilities/27395344.html",
-      "ts": 1795554684
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "U.S. equities finish mixed as tech stumbles on tariff talks",
@@ -11504,6 +11476,34 @@
       "title_ko": "현대바이오랜드, 건기식 유통사업 접는다…매출 24% 규모",
       "url": "https://www.fnnews.com/news/202611251337031618",
       "ts": 1795581629
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "[게시판] KB국민은행, 한국무역협회와 국내 수출기업 금융지원",
+      "title_ko": "[게시판] KB국민은행, 한국무역협회와 국내 수출기업 금융지원",
+      "url": "https://www.yna.co.kr/view/AKR20261125099600002",
+      "ts": 1795581715
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Burry says Nvidia's 'short thesis' still valid; adds to JD.com, Tencent, BYD",
+      "title_ko": "Burry는 Nvidia의 '짧은 논문'이 여전히 유효하다고 말했습니다. JD.com, Tencent, BYD에 추가",
+      "url": "https://seekingalpha.com/news/4676427-burry-says-nvidias-short-thesis-still-valid-adds-to-jdcom-tencent-byd?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795581717
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Maybank Reviews Portfolio as Chip Curbs Hit Data Center Projects",
+      "title_ko": "Maybank는 칩 억제로 인해 데이터 센터 프로젝트에 포트폴리오를 검토합니다",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/maybank-reviews-portfolio-as-chip-curbs-hit-data-center-projects",
+      "ts": 1795581779
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Iran revolutionary guards' navy: two tankers blaze on unauthorized route through Strait of Hormuz - state media",
+      "title_ko": "이란 혁명수비대 해군: 유조선 2척이 호르무즈 해협을 무단으로 항로하다 불길 - 국영 언론",
+      "url": "https://www.financialjuice.com/News/9867167/Iran-revolutionary-guards-navy-two-tankers-blaze-on-unauthorized-route-through-Strait-of-Hormuz---state-media.aspx?xy=rss",
+      "ts": 1795581781
     }
   ]
 }
