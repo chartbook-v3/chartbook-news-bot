@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795611348,
+  "updated_at": 1795611502,
   "id_hashes": [
-    "3c75e6634a29d0d5e6176b8c0e4a1a66119c2c58d382782a58d1e085843e7a1f",
-    "79b058ec84b00b8f25af8f29fda681f7a06d501e9656fe34b497f4b0642a0139",
-    "dbfcf8fd48d6559da0bf2d6c8e127b0690ae372f46b90152c761753a22ff31c1",
-    "218c54bcea4ace2254bd06db401fdab8407af546442b1a046dd414286a292731",
-    "83bccb821a3651c3edcd61a5e33d710c94b07f1ea3883a14f2fd9726b27f200d",
-    "922bfe994ba60b426671140b26ff93833c8b74c2965183906dfd55df2c57a499",
     "22e58758cc1d5b1d4f0ff10e7f121b70332d0683bda60b4bbed422ed2135c159",
     "9f1c5ad821568ffdaeb9d752d3a70fb53f8e0a4fc9bddc09d3d9018467ec3b07",
     "38e1f815a8502d90e3fb164c7ad22983bb6f40d5c29104e6fa1a3190bc063f82",
@@ -4000,14 +3994,15 @@
     "1d48575fae548ba3cb4a6d772d7dd63780106101d8aac946fa47fb9100a569f8",
     "124d0318ee969243dd88c51622cabed9a030672d1c054742481e11e3f6b26ea3",
     "2ce66b042a1252a02450cf676dd6af6ecea5c0e5d0d4697bcd6ffeb589646585",
-    "1908686a75796fb0fc678625a3adc9b19faf601c6ef8bd7222fe1ac98551d28e"
+    "1908686a75796fb0fc678625a3adc9b19faf601c6ef8bd7222fe1ac98551d28e",
+    "685ba477970a62463f03f2875ef47cbcf9bf090f5578aa174f24f032d671d81f",
+    "7265de3c586f851ce44caf231c111805c6003ad3498ea0cad8227a1d5fd5e8b5",
+    "5c94ce5675581eafc4384e69833061191a87b34b81d49487d5ccdacd01a85f09",
+    "fb177794a8555fcee3dbfff749046528890eec187f5c83e26c644f7e820effdc",
+    "5512b54c90f41538e18e3b4a6a9aa79c32f77ea72800f48565b032a1b4e48eda",
+    "e1eb2708f99252ad1573b376095677f03b00058c3aeb70becb19607e2d2d24ce"
   ],
   "title_hashes": [
-    "1a57965a51ff44ffcfca1e1967e2308b352c0acc1bb802a16381292b7ef059d0",
-    "4d82468dd14b5680c840a9f543f009b039d6dbe690b5b2153dd4b5610c587e33",
-    "ab12eb7b36994538851f808ce51eea13910b1a315a4a05ba71e0f50486316bb1",
-    "bf60126e6c30788ebb5eac48e24134ba040a10a14cfeed78b8d908aa69a7a31c",
-    "ce520d1e3369fba2e083f86c7936fa0cbfb5d7d22848921bef3b701f1822b79f",
     "380f7f18018571f28d66150a311c17c24711ec42998ed64445d4e4f7de3cb163",
     "0cf4ef727e6f41334b73bc687872dfa5c4636a8865e89e2ff7f8147bfd695d0a",
     "547ce5a42e5da38eaa67a547ae8ccfdd608024762801b518ff49bbae130f2659",
@@ -8002,16 +7997,14 @@
     "6f748d58700576f4ec6fea8c37abd814ac3f8375cbe9af9ad38853e3f613ba88",
     "cebf4a0d6a2ff688d7ed47e58ea5d2861236b7b2002dc8ef2ca4541c9fae93ea",
     "7be1e2cea13ca1e8463624c16a6bbf766c96109896839511db79751f7272f31e",
-    "8949289cd42356da230d31f85d3551dc3d5f0092324b7188ec2437c011efba18"
+    "8949289cd42356da230d31f85d3551dc3d5f0092324b7188ec2437c011efba18",
+    "1f718d757c8a1d30f1f30f6afe2ed6636b68c45dba7676de15396137d778f22f",
+    "7d0aaf669b05d6263662e800e2737c50b00c5aba6c21cc91dfeef4c13392fe09",
+    "15b3ed059f5eca466c984ae87dc19df8f0fc2b309a0056c0b561945eeff5ce4e",
+    "c7fab33a9b00327ca5dd09626ec62b8b107ef9b446cd093dd3c7d53f5c1aca38",
+    "6c497976063d8dac8948918d5c95218caf065a2ece80ab073481866425d33c04"
   ],
   "recent_sent_articles": [
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "공매도 비중 상위 10개 중 절반이 2차전지주…'공매도 놀이터' 됐나 [fn마켓워치]",
-      "title_ko": "공매도 비중 상위 10개 중 절반이 2차전지주…'공매도 놀이터' 됐나 [fn마켓워치]",
-      "url": "https://www.fnnews.com/news/202611251354031931",
-      "ts": 1795584468
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Malaysia communications regulator files 2 lawsuits against Google",
@@ -11504,6 +11497,13 @@
       "title_ko": "엔비디아 랠리가 실패한 이유",
       "url": "https://www.nytimes.com/2026/11/25/business/dealbook/nvidia-huang-ai-rally.html",
       "ts": 1795611347
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "$CRWV $ORCL $NVDA - AI CREDIT RISKS OVERSHADOW JENSEN HUANG'S RETURN",
+      "title_ko": "엔비디아·오라클·크레딧와이즈, AI 신용 리스크 부각에 젠슨 황 복귀 효과 상쇄",
+      "url": "https://t.me/marketfeed/1085113",
+      "ts": 1795611443
     }
   ]
 }
