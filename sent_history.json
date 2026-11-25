@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795609741,
+  "updated_at": 1795609899,
   "id_hashes": [
-    "466149be6024ff309c130884d86e2deb71aa8192d3b543110a66b07769ee6a97",
-    "bee21752dcf7dc464da301a21517aa15f0fa9fa36b96a3d9b7873df692218a8d",
-    "54b161a3e7472c2ef176e7293ef7661f04bf4290085466c2f59dc38ec32518ad",
-    "b8e252a3ab81c09da5e14118580bd994044cda49cc5b105fffa213959f65a2d7",
-    "2d0b6bafb382dafde7087785a14a71eec26b24302d1c73fff3f1fbdcf0724857",
-    "dd4f37054cd68025b4046d4a7819d4d0b8d603c1eed6b0f3120298942b541e18",
     "5ccf32476545535fadadd561294ef5fdc61e7311c5d42a5c4673ec88f8dad868",
     "87dfadb5f26377381bade5b0c096bf8a348decd5d8cd03897b4efea51eada52a",
     "aee367d09d32c140fb4b90a7c5d16ad398688f3d8f23936481c7b34047048cb8",
@@ -4000,14 +3994,15 @@
     "c62333258697e407df60296c16c440238b62c7bdb61e97cf0d14eebfe8e6dc96",
     "e0a177e3d2d643a078f6d206bf4acf7a61b15d18b584caf701386959b7fc18e5",
     "1babfa9c7c1c310a6bde356a112b3e624e1e32473b3ac33ffc3c8872c982da9a",
-    "79a298acf9520c42be4f876e0a2603e1ecf50c279c37081272f1dd6717214ed9"
+    "79a298acf9520c42be4f876e0a2603e1ecf50c279c37081272f1dd6717214ed9",
+    "adb55bb16d399a48d050a68fa7676703cedbf08f25277e3803180c5e41503abe",
+    "f7053a180ce32bbeab9ad4cbcd4ceb84b5582309c828e9449f1c2756af47e13a",
+    "c1620fd544c2f5a5fa8533537245c9db1c51db2335937cbd9a171baae1636815",
+    "d41fca9a2a234872b802d75405a6744e2d548f0f686e932de3d4605e09873a86",
+    "ded280af58256f91669fba350acbb8a49f6c1cba031525ef63091cdc1c7c9972",
+    "ce012685cd5926068b6acb0babca709a3cca5f693c39597fcbfa03b00fd3b513"
   ],
   "title_hashes": [
-    "b1f554c17f658bf0fdce7425d220d0c2cf65ae3264d9e01b1251919f72b567db",
-    "35b3f32975407d5e3ee90c7285f1a597d6e28d40f9c3f62fb987caa4af5f47c5",
-    "0f4bab913230b8d813225c0f08d6f66a89ab139b446b9c84356adf48426b02eb",
-    "8d2760492b6299a18706240307f7f0ecec114f5c9f12d13f516c68d810b1209a",
-    "42408f5de36381b27c03328d38dc65c54366026d349dfe611559beb1d9229154",
     "5caa34fd0881d15b5898182650ece02096ac0e30ad931fdda1e09eb483ba7529",
     "d0d65b16f112b7fbae743780c51f51bd1575f301b2d391d0a7ef16114031b100",
     "ea871a2acdce9e37798c139767d9b80296c4849ebf7ed36d162a9f8be89ce290",
@@ -8002,16 +7997,14 @@
     "6be81997e347e32ff200b12022499fb904df0154dad57e41ad24666adb07bf34",
     "ac91a5bb44acb0235017795d16c9b3b7e4bb0500bc71e641363fed03c99d3e00",
     "85fef26458ab84541cfd7ee1e95a9a80f40a1acd22b23bf9d31c261807682af8",
-    "ca9a52d7aca5c50d62c6e8a5c3ca05c767a15e814c9762a520bb964af0c0f433"
+    "ca9a52d7aca5c50d62c6e8a5c3ca05c767a15e814c9762a520bb964af0c0f433",
+    "916e2985555aca97cf47180641666abd568fac6937bbffe3dfe0afc9125de09e",
+    "a96f4b8f68e78b6ff66a96948ad337eae392d9bacf7c8e8a09dc51c276296e64",
+    "bb96adef01021d9b1fb5b8e9ce88e18889c73f81c85c84c616d154049dd8fbc9",
+    "53bf1f08c536393d3ad10a7d68dfea95ec6585d25b16aee647291839fdb24a96",
+    "5edb12ce247f006a37b4a28c7b2e6e4683198b7100d9382a4a2532d0ef1c1f4e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "Analysis: Huang's brief exit exposes South Korea's reliance on Nvidia",
-      "title_ko": "분석: 황의 짧은 퇴임은 한국의 엔비디아에 대한 의존도를 드러낸다",
-      "url": "https://www.digitimes.com/news/a20261125VL217/nvidia-jensen-huang-south-korea-infrastructure-capacity.html?chid=12",
-      "ts": 1795583098
-    },
     {
       "source": "파이낸셜뉴스",
       "title_en": "부산세관, 주요 관세행정 정책·현안 공유",
@@ -11504,6 +11497,13 @@
       "title_ko": "리스먼 \"엔비디아 변동성, 케빈 워시의 시장 신호 읽기 시험대\"",
       "url": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
       "ts": 1795609740
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Wall Street's Most Accurate Analysts Spotlight On 3 Industrials Stocks Delivering High-Dividend Yields",
+      "title_ko": "월스트리트의 가장 정확한 애널리스트들이 고배당 수익률을 제공하는 3개 산업주에 대해 집중 조명",
+      "url": "https://www.benzinga.com/trading-ideas/dividends/26/11/63617850/wall-streets-most-accurate-analysts-spotlight-on-3-industrials-stocks-delivering-high-dividend-yields-13",
+      "ts": 1795609898
     }
   ]
 }
