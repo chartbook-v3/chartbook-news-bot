@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795639276,
+  "updated_at": 1795639428,
   "id_hashes": [
-    "ba583eab0e43d5843b685e3c6e2daedc043eefad628128a95a37651772d243a2",
-    "7148b46c7c0fd212e4e54c5c881dd02346a70eec00f42b8f30ab5ca2481b305d",
-    "234199242ac084b5417a0d0c91f8f6c783cd72b3afc6eb9e2962368095cb54e6",
-    "ffde2174dd599a8ff3e0640f74f99184f7cc637086d942669f0bb7ee43b64a48",
-    "defb4c46bcf0686ab5e6e11148795b15c862834d5b761298aa255b576c2e9308",
-    "806c90233f2de32fb9c774c7c2d76ebea041e8a44e84bf66b65348bfefad494e",
-    "a52b13d09d9ff6bc9d743439870f72b28235056f49870b16eb7c8330a4c75aef",
-    "969bcb09891d587786d4bcdb8e96f384febbc5daeaceae2c7cb07f47858e06d2",
-    "3f2f8cba07b57fbc49c47451c29533913d225dc7e4434eb6b617acfc4b409964",
-    "006ef2cd047ee13482bbdf45570e444457fe86a039cf88a16ff7ef547c160615",
-    "defe22561ff79c6dfe5f449642fb241d1fd4cfa8074efb4b8b969792aea84c69",
-    "9df50d1c7ba2d3d172135daefb324d518e103fa75f01bc57c0384e24596be678",
-    "825daeec5fb22f694ed7ddf6ab2cf98867b04ac69494ba51989c720edad0de41",
     "e0d130ad7eb0011dd7f5fac7ea4128c5e3a7fcf1488ee69cd81475d6a979ed59",
     "5fdfe3b196dda2e53693cc47afa2e17d9e4eff835bc8df1a9e9ce93dc02356e0",
     "f4d0e86f89d3cb7a3a7c19239ecefa79b72110352aaa5075257b33936acfb62b",
@@ -4000,22 +3987,22 @@
     "401dca175d2832a8476afa79101441dd848d3b16cfecee4975e539972fff9103",
     "d13832ec0349bf0307ef318011336acea149ff54192f3b23ad4dd97e37d5d092",
     "bf17e9b99d20c770376ae22ae127a0aff645c1624b4cd0a6af5144571e3cfc9b",
-    "dae68ea539f88b65cd80ad8a685dc2407625e4674fcdfd63cdc9d357d5c03d5e"
+    "dae68ea539f88b65cd80ad8a685dc2407625e4674fcdfd63cdc9d357d5c03d5e",
+    "fb1d114045434ded584e19c6e4d8895d07d583b62be26596d404aa3b4d91290b",
+    "82fcaa78e83b01025833b82627163a277b56a85db0ddb2b7be6422a3371b21be",
+    "5217fcd7ef61f2bd2a8145a2153ba5183eea02703a3167c2276eeea162c291b0",
+    "58d5d4935d46b01d1f576729dcbb8802ee0205173432410e5f9335d4d74d8a52",
+    "7d50337d9b611dcd4a8f5f84f89b24df3111fb7d00a09c277ef9b1fc16643fc6",
+    "4564249e825fb50049e8aa52d3fd9a369b1b34e969861e974f660423680969f5",
+    "2531cfefd3a46dccca05756596be66db59987b467e3b7d4d92373de6f64e3740",
+    "7580c2c4a3c11663110f8ea6b7a64857959be830858a095e1e4f98fe38e8def8",
+    "e0ab06dffd68f44b97596c8a666948a2e2cd9e73b15706af54e087bbbb48eeff",
+    "8075a3e22c5ca41db5198d7ae4752735f9d70cdc2f4b75c82c969c4d895fd81f",
+    "f224aab8c7a6334cdee6eadabf526a01f4e6a806ca9eab4a984d7a056fb73974",
+    "f48cd774eaf15c9c7e612fbbf87c6fee1d9569a1f24a5712ea55da95a65ab25a",
+    "3cad2fbe7568f13e781f4cd391e2f1d0bdc4426ca3fa498f0bf84bd75677a1dd"
   ],
   "title_hashes": [
-    "395c51a461f2c6e33ef6fd3b01ac007c6caf0d22d1357f5b875a2c666c90e448",
-    "a1a374920ebad257697102dc49de379f3986f37f528dc127e0e4d6dc17d777ce",
-    "95921701dd92cad1afc21d4fedd5bc49f4f3f23f5aa4bea2c9a525c04ffd5c4f",
-    "336800e987cd764c4f9619ae8891040f2516d1a8405565854b64caebaf3107d5",
-    "4fec9522d8c3fd58585e95ac386ce99ef5569eefb57689def11088b23b363cc0",
-    "622eba18b69dc71db70b74bdff1dd18581bb4857e91ab678a7e0e64ea0f77594",
-    "b099c8d468c9da8c30151dce8460d567b2b7e76529c9f9284ba26912e90faa08",
-    "6e0715d59a29c05d4c0e961b721be081686c1623f381cda1f52c1963ff02f1ba",
-    "506d5acf0c22cf5b77c0e6d55b8d9de5e06724a6b890d8929ab7e25cafe96b94",
-    "bdfbfbe3f2231bbf51159a512de067c07819a8b2087a4719194fc50288c9727d",
-    "c1211d1f74f5aed945aa84c7c534c4a0ad3dc75f0f2d123d2bd49624f0c3fe71",
-    "61d1f16477e7e21c197efd42cfccb7097318902f31eeee33b2960612413e21e0",
-    "23fae3da46d90ddf037b738d5f7adfe6a69c6fcd4c768a93d82d46926a12aa1c",
     "d773bebb9069545f35df421b78c30598471a58ceffccf5910ab3668111e670eb",
     "ce72ccce3573ba6e90664288e08d4c1095c6f0918a9308542f44a010e5de56ab",
     "c47b35614ebbd505a981b48e21fcc1ab245deaf737e7d62f298f42b878a8540a",
@@ -8002,37 +7989,22 @@
     "46dba203869ef74fcab7ca876f8f8c694bc3178cc1b4f41341213c8102ef0e42",
     "8953505fb1988900abdd662044ba54d6992ba1e24fe53a6e1fc6a010e52e4444",
     "b7970c606986673ed957ae9a0340dfcdaf0316cc9fc34ecbbca904ecbe8793b0",
-    "dc662d6eabfd1cca69ac10b8e158dc5ab6762bf14979f56da7cea1defbc97a93"
+    "dc662d6eabfd1cca69ac10b8e158dc5ab6762bf14979f56da7cea1defbc97a93",
+    "8470f09d7aa85289680f78b692c3ef608883269a3f57b622e5f126e67671684d",
+    "cd8606fe12bf84a2f853b4bc065117c860afb61378854ee5458ca3ffd509066b",
+    "aa3e43d726b59d6bf9428343143be9ec0d52535a98b9f0619c1a71c0251d6c25",
+    "dfddccc98bb40da6b8c5d2ae961e8b395de15057886968a5d2357639ddcb51a0",
+    "dabe4f874aad353caaf9846dd92874124c0df1ef96ea8e763d1383ac6e7e18f4",
+    "a9cfa549aa1ec721672201f3e011ffbbd7610c3d734d13df48c9f2833bed7027",
+    "1c966376abaa24de20446cd658f04f3434e7593dcfd2df5b93f2816175864202",
+    "241181dda6dd05a3643ec8ad391429d5da876ea85d0cae1b5c2180243a2c440f",
+    "440e35ca115c97ba53aeb7cb42380c46de5d17f87f699b510e17e2732f1fb1ed",
+    "2324cff98be1f683207cfd22712295521b8e482dbda17a9c620e8c285c81b871",
+    "307e0f562653b2a2a5a886f66aafea9bed9ce2291fb6de1c2a831ae3eec7d389",
+    "7e3c6e47f64d04dafdbba12ac7a3a354cc5a99936970ef1f8d9d3eedc8a2c649",
+    "63e1df3ab1371126131e6a3e5e1776fa6a38ed6d73569ef40c0acbceb181ed9b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "조선비즈",
-      "title_en": "경희법학연구소, 상법·판례 세미나… 자기주식 공개매수 판결 논의",
-      "title_ko": "경희법학연구소, 상법·판례 세미나… 자기주식 공개매수 판결 논의",
-      "url": "https://biz.chosun.com/industry/business_info/2026/11/25/XO2DM7WMD5C6FCOTVETIM3UT5E/",
-      "ts": 1795588900
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Cognizant in talks to take over parts of S&P Global's Capital IQ operations, sources say",
-      "title_ko": "소식통에 따르면 Cognizant는 S&P Global의 Capital IQ 운영 일부를 인수하기 위해 협상 중이라고 합니다",
-      "url": "https://www.streetinsider.com/Reuters/Cognizant+in+talks+to+take+over+parts+of+S%26P+Globals+Capital+IQ+operations%2C+sources+say/27397574.html",
-      "ts": 1795588903
-    },
-    {
-      "source": "전기신문",
-      "title_en": "LH, ‘2026 스마트건설·안전·AI EXPO’서 AI·로봇 기술 선보인다",
-      "title_ko": "LH, ‘2026 스마트건설·안전·AI EXPO’서 AI·로봇 기술 선보인다",
-      "url": "https://www.electimes.com/news/articleView.html?idxno=375287",
-      "ts": 1795588994
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "보령 웅천 AI 데이터센터 사업 용지 매매계약 체결",
-      "title_ko": "보령 웅천 AI 데이터센터 사업 용지 매매계약 체결",
-      "url": "https://www.news1.kr/local/daejeon-chungnam/6365810",
-      "ts": 1795588996
-    },
     {
       "source": "MarketFeed",
       "title_en": "TEHRAN UNCONCERNED BY US NAVAL BLOCKADE, IRAN'S VICE PRESIDENT AREF SAYS, TASNIM REPORTS",
@@ -11504,6 +11476,34 @@
       "title_ko": "미국, 브라질산 수입품에 기습 관세 부과…항공기 10% 관세 포함",
       "url": "https://www.reuters.com/business/aerospace-defense/us-proposes-higher-tariffs-brazil-imports-including-10-duty-aircraft-2026-11-25/",
       "ts": 1795639099
+    },
+    {
+      "source": "브레이크뉴스",
+      "title_en": "전남광주특별시, '고흥 우주발사체 국가산단' 조성 박차…국토부 최종 승인",
+      "title_ko": "전남광주특별시, '고흥 우주발사체 국가산단' 조성 박차…국토부 최종 승인",
+      "url": "http://breaknews.com/1254028",
+      "ts": 1795639296
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "[단독]선관위특검, 수사기간 연장 결정…'최장 150일' 개정도 검토",
+      "title_ko": "[단독]선관위특검, 수사기간 연장 결정…'최장 150일' 개정도 검토",
+      "url": "https://www.news1.kr/society/court-prosecution/6366093",
+      "ts": 1795639298
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Wix.com, Tripadvisor, and 4 More Stocks See Action From Activist Investors",
+      "title_ko": "Wix.com·트립어드바이저 등 4개 종목, 행동주의 투자자 움직임 포착",
+      "url": "https://www.barrons.com/articles/wix-com-tripadvisor-and-4-more-stocks-see-action-from-activist-investors-86544a6d",
+      "ts": 1795639424
+    },
+    {
+      "source": "MarketWatch",
+      "title_en": "Nvidia heading for first ‘death cross’ since March 2025 as the stock struggles",
+      "title_ko": "엔비디아, 주가 부진 속 2025년 3월 이후 첫 '데스크로스' 발생 임박",
+      "url": "https://www.marketwatch.com/bulletins/redirect/go?g=792b6c57-7eb1-45a0-9bf0-d84258507eea&mod=mw_rss_bulletins",
+      "ts": 1795639427
     }
   ]
 }
