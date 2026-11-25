@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795638500,
+  "updated_at": 1795638647,
   "id_hashes": [
-    "5c3837c9e0328722fe48a5eb818f617c1410ed33c4f37954144135581d8f1326",
-    "ff5399ec6c51bd157c2a08b3d89cf849d79f1d2731c207aba907a8fa88d3dca9",
-    "26f0414852927195b3affd84b2bef3a4b3d717612fe5afe32ddb3ac4ba78fc70",
-    "e931a070e7da9f698773cc64fca6081909d0002d98a1233753af0f7dc3b74848",
-    "99b42de955dd286e210140353039e40e49d148bbfd5e7476413d203aa887d53a",
-    "5d9e3edeb522ba04188a6a733242df06821e0c4bcfc501263816d9e5d7247c74",
-    "e67b213cdf24aa32e87460aaad6fe74f8f90f56d5d423be2221264b1a87aa7f7",
-    "64c6f1faab5e37c79fdfc96307f2397cbac5affad9f76b95ddac4799359ddba5",
     "49faa8cfdee15114d3fb82bf2b4738024df6014c8e09f06d0086745a3c0aeade",
     "fbb32ba68ae8689c3395e0565370309fa3aa70d723d0e8ec157dc9277fcd142d",
     "3d52be49c9c6b7393ef193067251e7bc2e888a2048f8d6983c5f53a165b13b4d",
@@ -4000,14 +3992,17 @@
     "1e13f3d2e4664adb698a4730e5a9da72118fee422270ad5c41cd46552b7b05f1",
     "08a3f56b610c84c8c2edcd9a313a3f86d9774fd34bf02e0b746b095d2eb46cdd",
     "3b6117ba3d626cb65201608e0aba20fb39fd5aab2aab83b50c2c02a9c09aa3a5",
-    "e041541e713572229a479b34117837ac6b1921efa534f73e89e9c84c6e6edeea"
+    "e041541e713572229a479b34117837ac6b1921efa534f73e89e9c84c6e6edeea",
+    "0675d9b7bdf7ec1d500ecedc29f5ee6df1c86a9f30aaa6bf996284123e449013",
+    "b0aae22cff9654fc041bc1d56bbd042a3d4175c9eba6a78209a9e9eba7297750",
+    "d11073a2c1ad4eee60fc2c8244fe4033b6bbe6a9ea1032e6da71e0a7e829c52e",
+    "1628d22df9a566c3f91f51bb9dbe995c1bd4dfa57671e0ee175513db52164a78",
+    "a6f37c5e91a3202e20e7d6d9661d615d5cdb0c693347b5fb63251b91d8ed3a2d",
+    "d0c2844054742a450d8017d3d7924ab0fb7a591d9adc526925c18eaf3020f6c8",
+    "be6566848dca08260a0b779f7915ea2d6ab2da7afe9f775761b7f053a6302a77",
+    "c74fae5de7306678b2e5ef362f65deadcdcb63f04761c8c6a52f33b076dc557f"
   ],
   "title_hashes": [
-    "a3aef98e80ecdeef4732f4034fd39216197a4e29d050b04d5795e65e66f84e19",
-    "062089b691f5bd7932057614aa29fbbbbf49ecc81602dd4b896dfd272f19d643",
-    "fa49e10531e33d40b64b0236c3953248ba1bfc1c45ec5e644cc516e3fa8525dc",
-    "3c50b2c5a66a45ada2f6ddec968bb9e50d53bcb8839a0327a0d1c0ba260bd8b3",
-    "ae2a8f432c1071b476e2d70a23f42213c54e939c002eb8f7b9d45917529f0eef",
     "9302b3f0b6ceddfefc1490bf151d32bcda7419416897b1ec5e0dedc1c8664ab7",
     "437e8faae32a110587e961bd3d607b89ef7b2d121266822c9c5fd136831f73cd",
     "a1c51f42dace007fb15bb76bcad5f4abeb8c3370a6ceff2423201fe77746c873",
@@ -8002,16 +7997,14 @@
     "55281c9c178c53c92d1d732216b8a70ace639e355b15416ff3264553f14d21c6",
     "13fb94df33b3769a14a5fa171b76d47d95d4862972ab0a42ce968e69f02d3b9f",
     "b061efe6221c0ed95556a738d570606bd6cff099a4d023e53cdcd1e23979b8c5",
-    "70215b91e15089817b0781da9e5fb5dcd1326b39f8a9dad12825880e88e7a9d3"
+    "70215b91e15089817b0781da9e5fb5dcd1326b39f8a9dad12825880e88e7a9d3",
+    "802c6d918cf12792fbf178e042a24ef6acd25aba075e746f6ec16d6750afe85a",
+    "d3a192afe6225fb0e4f52d424c14dd425a395417768d49940f5392c9a9d3a35d",
+    "4663aadbefe9d6e664430702060dec8ff06057e7d4968f250db27521a900b991",
+    "1ea186c3c0211e6e7acffe536da73762aacaee85e2834579ac9145f5448126da",
+    "23c91807adf6d089ed859e560cfeb220388cdefd93329f2d72ff89bf7e7b5a36"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "ARAMCO AND S-OIL LAUNCH SHAHEEN PROJECT, MARKING NEW PHASE IN CHEMICALS PRODUCTION AND VALUE GROWTH",
-      "title_ko": "ARAMCO와 S-OIL, SHAHEEN 프로젝트 개시로 화학제품 생산과 가치 성장의 새로운 단계를 예고",
-      "url": "https://t.me/marketfeed/1084969",
-      "ts": 1795588680
-    },
     {
       "source": "MarketFeed",
       "title_en": "KOSPI PLUNGES 6.16% TO RECORD ITS WEAKEST CLOSING LEVEL SINCE JANUARY 13",
@@ -11504,6 +11497,13 @@
       "title_ko": "트럼프의 사위인 쿠슈너는 이스라엘에 대해 이렇게 말한다. 이스라엘이 정말 집중해야 할 것은 계속되는 전시 사고방식에서 벗어나 경제 외교에 집중해야 한다는 점이라고 생각한다. 우리는 이스라엘과의 파트너가 됨으로써 얻을 수 있는 이점을 파악하기 시작해야 합니다",
       "url": "https://wallstreetcn.com/livenews/3205919",
       "ts": 1795638499
+    },
+    {
+      "source": "NYT",
+      "title_en": "Rumor About Big Score on Nvidia Stock Surge Is Not Backed by Trading Records",
+      "title_ko": "Nvidia 주식 급등의 큰 점수에 대한 소문은 거래 기록에 의해 뒷받침되지 않습니다",
+      "url": "https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html",
+      "ts": 1795638584
     }
   ]
 }
