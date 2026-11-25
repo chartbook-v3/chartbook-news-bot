@@ -1,21 +1,6 @@
 {
-  "updated_at": 1795645975,
+  "updated_at": 1795646133,
   "id_hashes": [
-    "715f15ed9d66ad7bbc0c97cb4f68e84339ff87daa79be283c79ac56a98a78674",
-    "0fcd41ffa4499d844764e012502e5422ba6f846c2452cf73b8636b3df6a054ac",
-    "47d8da8e65fddfb6bc9da08bead5b9d15bf8c676a69ebf391eed32a0efdcbda5",
-    "fcd4038b4bb117c69f57e435da34aab84c67d8442a0326bb8468cdff7dc25c1e",
-    "c536bb1f91d37cd485ac21b15cbf387077c54851b48ed2075d2c07b1c49cd130",
-    "146ea322a30230cc3546391411184fb43cf044f6444d14d3112384310e6ac35e",
-    "6ebcd0a9dd781286079601312cdfa9348cd3be83c2402a4464009cd73f433a81",
-    "765a7282c6feca8a7db4b902ca09c9e79362995156c890b861bc3c47f93d465a",
-    "996cdca75bef843fb6ed31b095f9621680c53c92f367b349edc44fa0d8f0291a",
-    "8f1bd55053b24297cd1a7439376a610b2260bcb46e3cab169c3059c7bed787e4",
-    "3d8f70733b9bfae042ddaf74514ba10bdd97a15c7f4060909b073bb583f51717",
-    "1ced34e1cbc9fd64adde5847b2c77cfbeaba70cdd920ab8aea3a6769e5dbc9a1",
-    "1699a18d9654f08068533fb50687c997a287ca92bd190f582d5a03a717501441",
-    "87eeff807db1e976d397b9c90b57798983b7673616b3804783b8cfbbb3ad54f3",
-    "da3272840ca10ba3afece5352ee5ecf3dd5a66163aad662faeb431261ceb1832",
     "5447401f934e7d6628e4de23c7e2faff2c51e1abe557a051e579d7091b5603b4",
     "83d9e8a1bd120757e7f0504c4e313d938b7c9ca4da80ab68ccb138240b6b2c77",
     "85fdbec2a8589618265484be325577a92d0164b16c6235809e051c5c956b1f95",
@@ -4000,20 +3985,24 @@
     "85671182d665846f42127ea29a97d0492298e5d91289ce144cbbbc12623120ea",
     "d68e112e40b66db0cfb186c26dbe35290e22aa3b81c458cf92a89eb9557b9b59",
     "055c85aa27b44fd7974a6147e82aee23a9dbfb6824ace3e2ae540385e99f9bf3",
-    "f5bc310cb851a9638f428c6de95e6e5772046a82555458b47da2273d6174a5c1"
+    "f5bc310cb851a9638f428c6de95e6e5772046a82555458b47da2273d6174a5c1",
+    "e01be691dce3c1eb83caa666cd1730a821f580cc6c0a9921b03d9835654bc389",
+    "4653c043e32b8cf691e4e7ccb6628e08085ff7431582e4c59c6f753865582873",
+    "1133979a9f053256d0a388c8cdbb27a7669f6b1bc26d60d53446ad32c13bf555",
+    "4885453751056445213e2fba6ac5a0ce3860f28f420736913243dac2e5efc5fc",
+    "7a5d27094f98ffa1b2ca9200ba5d36e4f852a99dbc6fca24c763442f3a8d8a4b",
+    "a17cc7dce6504ac62be86f7d319b418be10d396a01e37454f99ca6efbac74dd4",
+    "1cf6d664ccec36c3271d3e5bad977283ddad1597308b132717a9e9920d4db941",
+    "4b66808e0b8164383516dc7788517641edf823aad0fb46ef70ba309f5312e50b",
+    "9926e07e206f6e7ac87e030eaaf17334ddce16c02c3d3b34fe446287e9cd59c6",
+    "9e2060f82e9dcbe81b799f77d7f9d84e95d6f52570d516b71c54786db3d6a270",
+    "39790638cdfa6c477127bff49bf44f73393bda40e312fb667559bcc179b7675c",
+    "aad7868fb492f6e9e7627b18ab420ba8bec94e9d1d717b2b755704c3852ed896",
+    "63bac9a48f494cc815650c6c49f807749db743ee0a6d2bb5e4e5eeb1e1f57a2d",
+    "1949a8222fdb8129ebb15f961d3e36f262fc78a0292719b71eee12a2273ecc37",
+    "3fc5f30f995b3d06164c8efd2358704ad4d70c858530e2d5ce4e7348fcd2dc84"
   ],
   "title_hashes": [
-    "30bb07b78a84689be22e75cb780b8ad89d6c88fa93000789cfe8aeb503ba0eff",
-    "e37273677f7cbffec3bde2df6d08ebbd1559f1fac4d860f7be6951aa077780ec",
-    "93f71a37e5a2993f6689364c8433998edf21955b0889659ec5a6889da19320f2",
-    "1d344dd3fc6d376221c627ee389bd720af32beb08563d82f26b2fe27039cba8c",
-    "dbee822e8acba393582d8e5bb208860abe4be9b105690360a23e266681a0b91e",
-    "d237f0c87f8bd10b726f3642d4749c44664339d97fd753e967d7350f84edacff",
-    "a1c19d7eb3fffb029d2df44492d77ff364bd694d47c4199604eb052c1e4724a7",
-    "257ad16e309a718c3074de4594d3c7d499c1a55a1e39ef194305088f77fdde29",
-    "77d1c687cc646a8c5f0810e863ba9404ebfaba52ced297293a1830615e87c78f",
-    "c007f36cebb52c0f6a2d3eaf4a7dfc4acbc6bfab777e345c21a6f1c7624f633b",
-    "3dec1eed7e6e83c177d32bdb8e86f7913db5a536c14166eeae9189a4de847b33",
     "1b8743889e3a916a45220813eda2b74fcd929b546826068bde06f428b41171fd",
     "79da82672111217929b3ff02fdea943d4116e1f91a0dba4fba5ec10cbec2f450",
     "d9ebb9d01e34d1b9af7b0ccf9941cc28e80c43d1e821e659a9fb62baeb679b3e",
@@ -8002,23 +7991,20 @@
     "b47f388644ff623aaead97fd07de64e5d9018e04824e0242d272f1de74690d5f",
     "466b882abc26cca371a440e83019d5213bee411f00978b4aa71543cf589a9594",
     "c8ee1da3cbe11699ed91e9ceeb415e550e5e3a4f6a60d06c76c4fdae8f868b2d",
-    "297a8580987716a56359c8f3a9c872ad63cdea32f30ad300bbeb0569bc1b18d9"
+    "297a8580987716a56359c8f3a9c872ad63cdea32f30ad300bbeb0569bc1b18d9",
+    "ecb52a377736923a09dab6a51538d18db9620ec76d067dadc11ac46e1240ef9b",
+    "56ff837b3976219e54a9380eb1ecb4014488a3eee91f5ba33df2e49920a2d99b",
+    "b21ff61df4c5cb87265b427aff54d81b9530449afc70ed5db42cfac9461b9778",
+    "50371eeaeeb9f86ed66ba3321499ec6f13abcfe89b5b9f5ca412819a0d5c21f5",
+    "0873f3feeae7ae1cd16dbb9dc7ab8dbb8a05bb80cfa75fdaf965d23a2f5633f7",
+    "fa889274d50fcbf5c48f422f3934eed51ac47f0832305e037b7a0ca84972431f",
+    "c522eca2fc706d8dc17d2d608e952037f933fe3903ddffdf9e29ef62439f5241",
+    "84c585d5ac61529f17653f658a240853ab31b14111b4d78a71f42868099f2fc1",
+    "b657779ee99a05ae3aa081a6d16a357eae9fae6c5f974313a16c9990e2175bc3",
+    "edbedf7f28ace0834728c637a9dbafd45c31a7672de4e10a85e7315a8344a9f9",
+    "ee4fb4828e964ab89f3836e303eaf5a8825902a47b6fe1d92c632571dbbfbd58"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "Analysis: Nvidia leadership settled, but US export rules still cloud outlook for Taiwan server makers",
-      "title_ko": "[분석] 엔비디아 주도권 확고하나 美 수출 규제에 대만 서버 제조사 전망은 여전히 불투명",
-      "url": "https://www.digitimes.com/news/a20261125PD214/jensen-huang-nvidia-taiwan-ceo-chips.html",
-      "ts": 1795594012
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Three Japanese auto suppliers target joint procurement in 2027",
-      "title_ko": "일본 자동차 부품 3사, 2027년 공동 조달 체제 구축 추진",
-      "url": "https://www.digitimes.com/news/a20261125PD222/2027-materials-business-semiconductors-automotive.html",
-      "ts": 1795594028
-    },
     {
       "source": "EE Times",
       "title_en": "From AI Platforms to Industry Innovation: How NVIDIA Connects Startups to Build an AI Ecosystem",
@@ -11504,6 +11490,20 @@
       "title_ko": "Jared Kushner는 우크라이나 전쟁에 대해 푸틴 대통령이 유럽에서 많은 도발적인 발언과 행동을 보고 있기 때문에 유럽이 아부다비에 포함되지 않았다고 말했습니다. 그래서 그는 그들이 평화를 위한 준비가 되어 있지 않으며 러시아의 전략적 패배를 원한다고 생각합니다. 쿠슈너는 \"우리는 유럽과 우크라이나의 동의 없이는 어떤 것도 결정하지 않을 것\"이라고 덧붙였습니다",
       "url": "https://t.me/marketfeed/1085522",
       "ts": 1795645974
+    },
+    {
+      "source": "핀포인트뉴스",
+      "title_en": "스페이스X·테슬라 합병 급물살…한미반도체·HPSP 연결고리",
+      "title_ko": "스페이스X·테슬라 합병 급물살…한미반도체·HPSP 연결고리",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508184",
+      "ts": 1795646129
+    },
+    {
+      "source": "The Information",
+      "title_en": "S&P Discovers Nvidia’s Governance Lapses",
+      "title_ko": "S&P, 엔비디아 거버넌스 결함 포착",
+      "url": "https://www.theinformation.com/newsletters/the-briefing/s-p-discovers-nvidias-governance-lapses",
+      "ts": 1795646132
     }
   ]
 }
