@@ -104,6 +104,9 @@ HEADERS = {
     ),
     "Accept": "text/html, application/rss+xml, application/xml, text/xml, application/json, */*",
 }
+SIMPLE_HEADERS = {
+    "User-Agent": "Mozilla/5.0",
+}
 
 # 매체명 헤더 표준화 매핑
 PUBLISHER_NORMALIZE = {
@@ -309,28 +312,7 @@ X_VIP_PROFILES = {
 # 2. 티어별 글로벌 & 한국 Top Tier 피드 + 텔레그램 실시간 스쿼크(방안 A) + X 주요인사
 # ==============================================================================
 FEEDS = [
-    # ⚡ [v2 신규] 텔레그램 실시간 스쿼크 채널 공개 웹 프리뷰 (인증/과금 0원)
-    {
-        "name": "WalterBloomberg",
-        "tier": "SQUAWK",
-        "type": "tg_web",
-        "url": "https://t.me/s/WalterBloomberg",
-        "priority": 0,
-    },
-    {
-        "name": "FirstSquawk",
-        "tier": "SQUAWK",
-        "type": "tg_web",
-        "url": "https://t.me/s/firstsquaw",
-        "priority": 1,
-    },
-    {
-        "name": "BreakingMarketNews",
-        "tier": "SQUAWK",
-        "type": "tg_web",
-        "url": "https://t.me/s/breakingmarketnews",
-        "priority": 2,
-    },
+    # ⚡ [v2 신규] 텔레그램 실시간 스쿼크 채널 공개 웹 프리뷰 (웹 프리뷰 중단된 3개 채널 정리, 활성 채널 유지)
     {
         "name": "MarketFeed",
         "tier": "SQUAWK",
@@ -412,7 +394,8 @@ FEEDS = [
         "name": "The Information",
         "tier": "RUMOR",
         "type": "gn_rss",
-        "url": "https://news.google.com/rss/search?q=site:theinformation.com+when:2h&hl=en-US&gl=US&ceid=US:en",
+        "url": "https://news.google.com/rss/search?q=site:theinformation.com+when:12h&hl=en-US&gl=US&ceid=US:en",
+        "max_age": 720,
     },
     {
         "name": "The Fly",
@@ -461,8 +444,9 @@ FEEDS = [
     {
         "name": "SemiAnalysis",
         "tier": "TECH",
-        "type": "gn_rss",
-        "url": "https://news.google.com/rss/search?q=site:semianalysis.com+when:12h&hl=en-US&gl=US&ceid=US:en",
+        "type": "rss",
+        "url": "https://newsletter.semianalysis.com/feed",
+        "max_age": 1440,
     },
     {
         "name": "Wccftech",
@@ -1669,9 +1653,13 @@ def fetch_single_feed(feed: dict, max_age_minutes: int = MAX_NEWS_AGE_MINUTES) -
     results = []
     now_utc = datetime.now(timezone.utc)
     feed_priority = feed.get("priority", 5)
+    eff_max_age = feed.get("max_age", max_age_minutes)
 
     try:
         r = requests.get(feed["url"], headers=HEADERS, verify=False, timeout=(4, 8))
+        if r.status_code == 403:
+            # 한국경제 등 WAF 403 차단 시 단순 User-Agent 폴백
+            r = requests.get(feed["url"], headers=SIMPLE_HEADERS, verify=False, timeout=(4, 8))
         if r.status_code != 200:
             return results
 
@@ -1749,7 +1737,7 @@ def fetch_single_feed(feed: dict, max_age_minutes: int = MAX_NEWS_AGE_MINUTES) -
                 if pub_dt is None:
                     continue
                 age_minutes = (now_utc - pub_dt).total_seconds() / 60.0
-                if age_minutes < -5 or age_minutes > max_age_minutes:
+                if age_minutes < -5 or age_minutes > eff_max_age:
                     continue
                 parsed_rss_items.append((pub_dt, raw_title, raw_link))
 
@@ -1773,6 +1761,7 @@ def fetch_single_feed(feed: dict, max_age_minutes: int = MAX_NEWS_AGE_MINUTES) -
                         "url": raw_link,
                         "is_gn": feed["type"] == "gn_rss",
                         "pub_dt": pub_dt,
+                        "max_age": eff_max_age,
                     }
                 )
     except Exception as e:
@@ -1951,7 +1940,8 @@ def run_cycle(
                 store.record_seen(item["id_hash"], item["title_hash"])
             continue
 
-        is_fresh, fresh_reason = verify_true_publication_age(final_url, max_age_minutes=max_age_minutes)
+        eff_max_age = item.get("max_age", max_age_minutes)
+        is_fresh, fresh_reason = verify_true_publication_age(final_url, max_age_minutes=eff_max_age)
         if not is_fresh:
             logger.info(f"[과거 기사 재수집 차단] [{item['source']}] {preview_title} -> {fresh_reason}")
             if not dry_run:
