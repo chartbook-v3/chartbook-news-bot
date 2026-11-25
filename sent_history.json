@@ -1,29 +1,6 @@
 {
-  "updated_at": 1795572776,
+  "updated_at": 1795572931,
   "id_hashes": [
-    "ce23bc53c724a34038aebbc791deb89876e0255e6f53397334db1be337c47e1e",
-    "de798c3931185d8af4439c31be164333ad57d5f9560f9dec33ea8f4e7859a4ae",
-    "138c5bea60d96ee67faa963179e6a782f94ad0bdd12ee10b21063c2e6ebe2617",
-    "dff327b2ac72b29b7e2ca1ef4ab31be87e9967530be3b918e880bb2b3233c803",
-    "59d7205f0588005c8baac0cb16cc7e049783e2bf66a72a0040f7f963df85461e",
-    "1154f720cb69a19f10922811c38a8cc6fa961456e8f60b0c60c5bdd5e383fe08",
-    "9de2e36d31e3f848fc4afd2ad99d612793e99788cbd496fc9f1d79af8a364c3d",
-    "a1b17c66ed5bab76eec05595c969ce774f1af69853a5bb27e9ee4eea4baf62f9",
-    "cc8213b4607e983b195add75d93528bf5368c57280915297d066a2bd886d9aee",
-    "27b576cd4115e90e07b666b34027c637060f39e6f69c473b1af7dc736bebb241",
-    "1acc9bada663ebffb3d2256a887c7f946feb2571a7e6e01ace3e014d1418b922",
-    "be7841c102d7f317884e74c218ac4a6c6ad0ec5c62b1c0f53c34b37efb5496df",
-    "c98e41b23b99af5af0f43a631c0806a005bc5467c7e541020f3d9a5d71fc1c93",
-    "dab97bab426345a07c866c85e5146ee26130d331bfaf00b5f9ffd3f54db1faa5",
-    "c66a41b397e3d04e8738a7942d5de84adc952b65826b4ec1ade2f1ae526c5c0e",
-    "1204072cff56fcac6645d15d9bf4d60f9ac86ad7c9df39afac21cbd0dd657121",
-    "ccf37b325e438499002a105a99b6ee68d92215fb33463751af13500a162e8697",
-    "6f78ae9d07eb3966655847941a9959e56259535c97daa4bb1f4213cea70d515b",
-    "34686990248fe991a5ffc0c3068e97ee8565f164bbbaceeb9346d9e3dbc0ac7a",
-    "7ad80f5c473712254bbfc3ef99a554d91f4566bfa75b6ef912e01080f3612779",
-    "1f84c338148bf37b11bae13c26da6393a3f3b3d28f87a388039fa11ac0702ffa",
-    "ab43feecb3f11e3dd387f82c9d9ad2be0cfafcda015d41027438f13071a61bb6",
-    "6b5d14b0686ded08f44c6e1154f205cebde7272b1f473150018a5954b217193f",
     "71d981253d096b3a0508c699c7f320db60cf457ecf6a61d1379002f912154f81",
     "271e74467d9d28ea6f62552bc931d0794f6db113b438db20ba900e2b5de0dd36",
     "ebb5d5468e568589ee3247f41b1cbbbe67082cef4fd72df02ccc4a0ad61a0938",
@@ -4000,30 +3977,32 @@
     "41786338b010bbed2e4d1ab6560f61ac8f5104abeb681b9a14c38133e1c375cd",
     "be966dbaf122f532b89172733a559a0aa342d85032bde5310e852f0599de048e",
     "90e0cbe8791c59a6d93d1eac9b61d32ffd58fbe7e84aee44197eb92c431c0eaa",
-    "9f957e97025543bea69ee8eb569e8b62f2de6c688b6cfe907cc9faa1fc489fcb"
+    "9f957e97025543bea69ee8eb569e8b62f2de6c688b6cfe907cc9faa1fc489fcb",
+    "d2d6480d4191e9023a9e79007f6b85b8b73a2b789ee7b87cd60ca7ce5e33339f",
+    "fb3ac4343de4c95c016daa1bcdbba4e3754b51c16ba87312e5decaf51559a3dc",
+    "fda5010631f2d903a5b454fcf9ea5ad327f8fb16e1a5e03c1955f83ecc352966",
+    "eb8fd8ce1b8be65ec58cb70ab096d8253fff7bbe7398fe2693c7e559cb01bfc3",
+    "8777a3739de294ef048ced315302ee7c36a35b9f57871a22b0d9e6fce52efd7d",
+    "8dab7fb44b2bc761eb11498dc83c7a72d59691ab2b8a38cbdddb9992c70a0124",
+    "6a2945c1ca99c81a4ed9e448618844564d5cd28fcae4eb4fd392af33eab49b1b",
+    "b92d2a75be8929e0efbc2a12288cb611c9c843081c1c6b3c675f0c16f26c526f",
+    "c46a18141e0f9f2c231003be2f49e1ea34780ceb4d294a0d697a7d738c713e95",
+    "3998f7a74e6a3402580668b05cfd7ea37358a346a3f551d351ed8ad96b78df72",
+    "f4311bc4aecb71a78d5791a8812e66537665f2f5a5e9bdb86017666dbc3cccf2",
+    "4714eff933313fd60fa6ebb80f85ace8f8251405fd7d86119ddf651630af8911",
+    "6415d02b9af313b5ae41603f28756908465e7dc8a58b1ee337b4295abb953c2f",
+    "33561b735210bf640f22414bd17222205fd4ae8c0632a4767e8539dca08fd251",
+    "7d8b6838f79081d98e7e6a8bfc3f351f2fd2ea0c526541fc9e3514abb25159be",
+    "6aaf2abfca29ab7160a6ab49516b86494f5c293d8f143b5cf8b6b0f6108f4bf3",
+    "1d04796bebaafe5234d63be600b950e5efffd034fe88348b7a426c3d9b9ea791",
+    "ee4b19f5d73b95eb73d99e54b355af1a5c029282e75033e6e3170c1785701f64",
+    "9794259ef110d01f72ceb9f4493cd6039fd9873cbca11d5a0d298e1b3749dc5c",
+    "ac4d15ab14eca5b3a57eca9dde184e7aa9f6761b4fef6771d1ffc6b3a524e684",
+    "26cd8aa84836b5453b421a73da647652c752a320cc5e0ffca8086c90156d14ce",
+    "0255d9e411b177b5b120da157f8345b9eb186acdadd5e515effeda047e24e80e",
+    "6a9be0399cf450e5ea1a462c0c63dfc0ab754bacf808fbe487b3559c5ff17829"
   ],
   "title_hashes": [
-    "5dfa7c99d0980b27ae0f9f1001628ad12899f355e0ae6dbb9e4f2bfe0cadb701",
-    "398bacad499999e74d97b1619015cbd82178de701a5852702fa8867704d47acc",
-    "e6649cc84e7acf6b905bd421d5de46d34d0f84adb596928f7274fedcdb61e341",
-    "843e5e71af30c41c8db4d65db5729ece2001a7dc1a141500ea28a5de96de9689",
-    "3e95168eb1fecb8781b6e93461e3200a7726ae3de2b2e27c2a778e16f06a1332",
-    "df7c62de0c907d452aa3b5da7c79e4928605e6f88e36840c2d56266dbb5c8dbc",
-    "fd03f320338e31466223d26b69370f94dbbfebceb1aa3c9e65cff4c1fa76e44c",
-    "9dbb12c2d8239db7034f99d81893a160f8450f3c1414520fcd615bbe44723cb0",
-    "1821977ae021380a590083c2cc27a5034f5a997405d05a8eb49f81ff48bf5340",
-    "a29d8fbcbef375b142730f0dee117bb09ac353e16df89c1aed3f8c67833438ba",
-    "3df2756024fa369c089d22c4b0886032b9f10fdd75660c0c2638f0fbf104cd17",
-    "d01e62cd8e2932288ac80119f1f10ed2cce94ff4d4c9191304ad19f18adbc1e5",
-    "9d2e091a6aae64d82635b2a4d57181ab377e8065465610926c99af189e0327b5",
-    "c37b0ae0656cf74f7c18c2c8fd03ca81426c4f3256f23e58512f8188d5bc8ca1",
-    "60b11534d3c3c7596bf0fa40d66eaca9db7e1e8b93049a103d508dfa8bbf21b4",
-    "224542a3db5858855c7ba00739eab69fdab7f2b8cc3a92c9bf754fc8df575bb3",
-    "89c4cb8a7fde999ae423a11e87f5fc071792cbde097dfdbfc82f92ca3be7d92a",
-    "8ff25e11c34a7cb0d696e1063c3d379d0f064cf3fa8dcc7ab719a54196fe007e",
-    "cd42048186d3b2fee833bc3bb44df4a1526c1dd36e99c87e0b610e5328d7837c",
-    "bc39a9e529a7b2d1e2cdb3b316b8c3c6bd62052a111544382605aa29a47c4a2e",
-    "8d370220f7c0a8914cde6c8744c70cd5e03be267025177f2f6823e5ef493551f",
     "232846d56058fc00e72f4bb3547882851ef67e766df1e841cc01122bf19246d3",
     "66a227c16bfe49dffaeb8626b20ced0648bc4b5c1ed2973ce769f19c7e61c07d",
     "65bd711d11929ae4211d174f07639878a89d2ceb9a6402e502d52dc0bf0e8443",
@@ -8002,51 +7981,30 @@
     "8f6e5cadb6f43a7ba99f5121f48b7291aeaa3675dd9c941db151ac3a5b2b9131",
     "8cad7fac166f1dbb4f6b0f9aa8d52b4f3dd45fcc404b1dd0a3a66dbb5d4c1d88",
     "4b07b2d046372c6f2f97522f6facd6045258d001c904637246d050b0c8866a6d",
-    "bff100249fcd3ddc981418ee06fc91af01b99ce84a96585e640ff7288c881bf3"
+    "bff100249fcd3ddc981418ee06fc91af01b99ce84a96585e640ff7288c881bf3",
+    "6c857c97fd313e9a8b67d1bb71e6c502b1fea507d4a2b57d6ef015a16f8967bb",
+    "89b78bac65b42f8583aaead2156248db4daeaffbe22d0125a4eb06c794d357d1",
+    "bafbd26761aa0539ebad92ba74e51d8f058d7aec3b74cda8ca0fae7b7de41725",
+    "7708ad47164def00cf4f33476075ab21b6c3587c41b97cdffedc9ec0e6ee8c6c",
+    "217b85b8fa2d90f98e63b6ee7a82ccd153089e7763bee7393c43ab304db33b54",
+    "b6886cb0031a7aac39cad169ca5fbb32aa9fbd9e8432af38f1f958661651e9cf",
+    "31bf2b98274897a6e6b544c6f8c6e254a40e4dfb14e316baba08a060b04f68df",
+    "46960059992618b508206edded33605be27e8876bce70c3359d001935fe4522e",
+    "375291efcb1ceb9b03ce724de327b49ddf30351e9fdeb01198bcefebec534b6f",
+    "fb59429df1f7f8b765c337ebdc19358cd77add9ea0320b266aff8fe406c16fc8",
+    "93d4fefe9950cf7bcb8f03a675ce98fc99acd3e7bec6a523cc45d938bf32b3e9",
+    "38c56feae4b48cf89714dfc228ed5b14d4590c5a2f4fa0582ba527a72e71c30e",
+    "fbecc0d1585b06c3d5209e01b97637567f00b47c2243384888b23e306caf6d98",
+    "70b197c2c48652d4562f8dad86f89015eeb47773f01ad30abf5d560b625af02f",
+    "9b999c9b639a9cea1db6068dc54e6e0a64b7030182d37e7d6b994392ea08b0c6",
+    "110774c1f890bba7162b32cb94a950d0961ebfac4d04e524befd5122522a5a9f",
+    "f342d1eedb9ce59857e63fcd8a1e463739d8eb64ae1d399f331fb5a60cdcf981",
+    "ebbc4cefb8cd11162e822d9075d1e7274b4e2890fc255e32ffb4641b0fa70e7a",
+    "e7a14c2c2a06f7d295c8358bb29ea45374ee1f4aa59f778bdafca13ab8d96318",
+    "d254c1fae8539ac47eaf3ff62cfaba23fe181c079daba769401d0bb9b57f75a8",
+    "8d5a37eb97017469b0161d53f2c25ae84828c4eb24f9cd1003c12b1e90bbaf28"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "德国支持业界设立原材料贸易公司的计划",
-      "title_ko": "독일은 원자재 무역 회사 설립을 위한 산업 계획을 지원합니다",
-      "url": "https://wallstreetcn.com/livenews/3205185",
-      "ts": 1795546017
-    },
-    {
-      "source": "9to5Mac",
-      "title_en": "Apple Home accessories: Here are my five top picks for your smart home",
-      "title_ko": "Apple 홈 액세서리: 귀하의 스마트 홈을 위한 5가지 최고의 액세서리는 다음과 같습니다",
-      "url": "https://9to5mac.com/2026/11/24/apple-home-accessories-here-are-my-five-top-picks-for-your-smart-home/",
-      "ts": 1795546043
-    },
-    {
-      "source": "The Information",
-      "title_en": "Nvidia Hosts First All-Hands After Jensen Huang’s Return",
-      "title_ko": "Nvidia, Jensen Huang의 복귀 후 첫 번째 올핸드 개최",
-      "url": "https://www.theinformation.com/briefings/nvidia-hosts-first-all-hands-jensen-huangs-return",
-      "ts": 1795546171
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Iraq seeks higher oil output capacity estimate ahead of 2027 OPEC+ quota debate, sources say",
-      "title_ko": "이라크는 2027년 OPEC+ 할당량 논의를 앞두고 더 높은 석유 생산량 추정치를 추구하고 있다고 소식통은 전",
-      "url": "https://www.reuters.com/business/energy/iraq-seeks-higher-oil-output-capacity-estimate-ahead-2027-opec-quota-debate-2026-11-24/",
-      "ts": 1795546323
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "JUST IN: BINANCE'S TOKENIZED STOCK PLATFORM 'BSTOCKS' SURPASSES $1,300,000,000 ASSETS UNDER MANAGEMENT.",
-      "title_ko": "신규: 바이낸스의 토큰화된 주식 플랫폼 'BSTOCKS'가 관리 중인 자산 $1,300,000,000를 초과",
-      "url": "https://t.me/marketfeed/1084741",
-      "ts": 1795546326
-    },
-    {
-      "source": "FT",
-      "title_en": "The expanding boundaries of the Ukraine war",
-      "title_ko": "The expanding boundaries of the Ukraine war",
-      "url": "https://www.ft.com/content/bdc970b8-e99d-4668-8e64-dcefdc80bcd6?syn-25a6b1a6=1",
-      "ts": 1795546425
-    },
     {
       "source": "이데일리",
       "title_en": "[美특징주]딕스스포팅굿즈, 풋락커 매출 회복·가이던스 상향…주가 15%↑",
@@ -11504,6 +11462,48 @@
       "title_ko": "AI 칩 붐으로 거의 10년 만에 최고의 해를 기록할 전망",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/ai-chip-boom-to-see-won-build-on-best-year-in-almost-a-decade",
       "ts": 1795572712
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "플라즈마로 반도체 막 층층이 제어…차세대 AI 반도체 해법 제시",
+      "title_ko": "플라즈마로 반도체 막 층층이 제어…차세대 AI 반도체 해법 제시",
+      "url": "https://www.news1.kr/local/daejeon-chungnam/6365360",
+      "ts": 1795572795
+    },
+    {
+      "source": "FT",
+      "title_en": "Will the Nvidia fallout kill off Asia’s data centre boom?",
+      "title_ko": "Nvidia의 낙진으로 인해 아시아의 데이터 센터 붐이 사라질까요?",
+      "url": "https://www.ft.com/content/e5df32d1-1801-4d81-b2f5-b83e93377c1c?syn-25a6b1a6=1",
+      "ts": 1795572798
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "\"에이피알 50만원 갑니다\" '블프' 매출 기대감에 목표가 상향…\"알테오젠 낙폭 과도\" 저평가 부각 [株토피아]",
+      "title_ko": "\"에이피알 50만원 갑니다\" '블프' 매출 기대감에 목표가 상향…\"알테오젠 낙폭 과도\" 저평가 부각 [株토피아]",
+      "url": "https://www.fnnews.com/news/202611251038270064",
+      "ts": 1795572859
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "트럼프 “김정은과 러브레터 당장 다시 시작할 수도”",
+      "title_ko": "트럼프 “김정은과 러브레터 당장 다시 시작할 수도”",
+      "url": "https://biz.chosun.com/international/international_general/2026/11/25/OWULWH5KOFBONOJLYIPW635NLA/",
+      "ts": 1795572925
+    },
+    {
+      "source": "The Information",
+      "title_en": "The Secret to Making AI Stick on Legal Teams",
+      "title_ko": "법무팀에 AI 스틱을 만드는 비결",
+      "url": "https://www.theinformation.com/events/the-secret-to-making-ai-stick-on-legal-teams",
+      "ts": 1795572927
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "OIL FUTURES DECLINE, WITH BRENT AND U.S. CRUDE BOTH DOWN OVER $1",
+      "title_ko": "브렌트유와 미국 원유 모두 1달러 이상 하락하면서 석유 선물 하락",
+      "url": "https://t.me/marketfeed/1084893",
+      "ts": 1795572930
     }
   ]
 }
