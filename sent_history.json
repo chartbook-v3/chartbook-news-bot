@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795602335,
+  "updated_at": 1795602487,
   "id_hashes": [
-    "6c6872cfb8aadae35e8132e2e1ab2ed1c83b52d6bb52531a1294038a21e4b3aa",
-    "522878e445aa386061cefc4ace9b9725a9a26fc904dc9913260e8a0dec24cc9c",
     "2a1f18ce83943963b639dfb24d3f0990b0cc8de14f3e21c348802c6f9acfd9bd",
     "c882ad539421d8be80de42c85d742926126ccc9f3de4ba630c1a89fa281a36ad",
     "1100b4c0fbfbc6c55e59e9526f855f9e2322038b4ac683479aa9857659d48ddc",
@@ -4000,11 +3998,11 @@
     "401b850a6faf5dc37c876fd5a33055c87bc78f7d684765e735b55148314a8813",
     "d8895005dd53038cbdbf71b73033f28c0d5c85da42daf28d31cddc80cd2aca59",
     "c90fb38b1b8b49109644a68d3ab004b8bc560b5c560e13e5fd8cf6f634a95e17",
-    "50a55f55406adaaa328f2b6d4b1ff3d3938a3424630d66a940d8694438c158b8"
+    "50a55f55406adaaa328f2b6d4b1ff3d3938a3424630d66a940d8694438c158b8",
+    "f19a3d8335e38cf1b7e9dcd884692b6baa9a96dcaa95bc1fe7f20f5c5f1105e5",
+    "5b7df2fc91f849aa0e4ca691e3c49dcc142120a5919f8d62aca581dd2a990644"
   ],
   "title_hashes": [
-    "dbb21665b4f93c070d11270783c7cd8423c22803cb2cdff049dfeb5e23b02e0f",
-    "8680aabed4dbba111cdd95b50853c29292ce9b201a5e43f4db5e4cff5305d253",
     "0f8341fc4407b8bddfbf4c039dcc2eae0af01555b0ae0a64390112e6ab000a16",
     "97bd6ad32840c8f56b4a97a8e4053a898260b11779f8a2bbfb4e372baa581a5c",
     "61132dc78cb7eb6ed5589db913a8e9c785c5adf20adf78bcf4356d01e3046300",
@@ -8002,16 +8000,11 @@
     "09cdaaeb24586f79bbaaef584e138eaf631aa8936a7b6b5cc7cf5a5c76580a7f",
     "3048eaf428fc42733a18022c1e98aa5c1f02bc57025196ad8578559beba466ed",
     "9cd5660601c8ebec80c3d03a29fb51b58a7a878baccbd0bcab184aafc3c3d876",
-    "c3265b874835e575b3b9a8346f9902a033ee1a0280a83d2bdadb1344dc6903dc"
+    "c3265b874835e575b3b9a8346f9902a033ee1a0280a83d2bdadb1344dc6903dc",
+    "6ddb275c5fc5604a10dbc5955c9a854963f100a344550ba7dbd845c33b0895dd",
+    "617fec162c5ccf89c919ad5f47308dbbbda99ccb1364f78a3e9eebebb6c85420"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합인포맥스",
-      "title_en": "내일 인상 유력 속 外人 왜 이렇게 살까…\"벌써 금리인하 보나\" 물어보니",
-      "title_ko": "내일 인상 유력 속 外人 왜 이렇게 살까…\"벌써 금리인하 보나\" 물어보니",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446451",
-      "ts": 1795573849
-    },
     {
       "source": "Bloomberg",
       "title_en": "India’s Anti-AI Stock Trade Confronts Rich Valuations, Global Tariff Risks",
@@ -11504,6 +11497,13 @@
       "title_ko": "패트릭 무어헤드 \"인텔 PC 부진은 예외 아냐…델·AMD·레노버·HP 실적도 동반 하락\"",
       "url": "https://www.benzinga.com/markets/tech/26/11/63615676/intel-wasnt-an-outlier-in-pc-slump-says-patrick-moorhead-as-dell-amd-lenovo-and-hp-reports-echo-industry-weakness-good-news-is-that",
       "ts": 1795602208
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "DECISION ON HIGHER MINIMUM RESERVES FOR BANKS POSTPONED – HB",
+      "title_ko": "은행 지급준비율 인상 결정 연기 – 한델스블라트(HB)",
+      "url": "https://t.me/marketfeed/1085046",
+      "ts": 1795602424
     }
   ]
 }
