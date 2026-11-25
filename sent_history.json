@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795571203,
+  "updated_at": 1795571356,
   "id_hashes": [
-    "145114cfe6b96a93402dc1fbfeae4505f1d3766827e4fa6eca2cfc2f853b13fe",
-    "3c0c4a26a5de193cf82851ecbad5fba40080976e6f7438679354e2d696caad05",
-    "274dcbe744cd29a7f1711c54686981bac83765dbdc7e99c02e87f41cb60b274f",
-    "1739b4aea6a5c1f25010321c4809c0ae01d5a8e53a958c25b36579838de25b50",
-    "1397f2941746ef8eadf3c969c85ee7168b16c1dfca4eea698c8075154fbdf221",
-    "7267c14ed83474246b62a73ee4c9fb0c1cc2a696f468c2e79d56e7a9583077d2",
-    "2165eb85966a01761b7c95607e1ca942519bed58296c01f20803c4ea461d2fea",
-    "2169adb63a1ac6e0ec8f32f3104b7ad94b7813431a1441fc613f372c9a533c09",
-    "c8ea1f8f644ae72cee41be03eac57bd05932e40af52f167ddaa11ce218f91552",
-    "a691db3a05198211d7fd98400569c43dc91797b85367b8f4103613a9af46ada5",
-    "1563acf5131821528b862216f7c6538a3bf1b631176323c7e9e26ddb9884ab03",
-    "f3c22320e056171e43bb87dd8d2101205fa284b1fb6c39ae9a1651b246f16528",
-    "8716726b21e60bb6022c984d191a57679fe8636eb36f4ef47551cf8c6adb7430",
     "9c904ca4019c27022977b2b770565ae0659f7f6d822c171800c92912919bec94",
     "8272cfda2859137f19ced1fff65ffe0a1f49df3f7b10fd9ccd865b0d93179761",
     "0ccdf54c1f5e4e5a5643496b8059611e43b9071533d4cc6f784784c68645f3c3",
@@ -4000,23 +3987,22 @@
     "52624228f31661491ff5159bdb3782e81636a042848af7a845e2e73142da75ad",
     "520c97522d6f13226f9bf07bab81ad7a793dc3e91031dcbc1af159733122a275",
     "9f623815816892138d27d27408ffb5b13ede4cd65fcbb59929d8d6ec74f0be38",
-    "10315e0379586e09851606a84d7cf544731e400a521cbcc4f8dd21829bd3aee5"
+    "10315e0379586e09851606a84d7cf544731e400a521cbcc4f8dd21829bd3aee5",
+    "63bddce7a2b320767aaac5bad34fcd1902096741cdc3a0921a6a8fe53709d18d",
+    "cd937460924c86da36ed8f55e2864dfd7231b45546ac49ee8bcf58ec34229bf8",
+    "499b2d8cb04a1e7a95ac677ba77c48683c8ecb5a7249bda8a4d5b7273ff010a4",
+    "21983d8bde5f2ad8433878515c3c4d631285e6b8779b226f344da51c364f29b1",
+    "a49db5185d29645fc8c503283b71ed186f7ab78a25fae24dcd49e4fc536ce514",
+    "bf315d77340de30eeaf682206bfa630b32ad463ea8981071d453b63d513b9e42",
+    "5f70938a3ae0c5b80f9eb2ab2492ea9d81ba15712686995a143eafd69585e133",
+    "8e9a5f86d12b90660714f390500b39e8b43b8522e662ebe662054d444b9c402c",
+    "04e8302ebf1c7e57ac52661db12c308b599d978830082ade19280b68621f69c2",
+    "a44ba9f9824bfc464f109d16057a0928141c9a76259f4773aadfd0b8d3eff679",
+    "732957e33baa6e478b0e400c485ba4fa9d8cb4e4a63cf3ec0076752709b01b96",
+    "f9006b9d0afff5b5e699c8358b1c366a97df2386a4a46b1b958f90ad22721bcf",
+    "63b5182b3ae284b05a68a2ba256ae77746f76bf666674638b83121e07a3f7546"
   ],
   "title_hashes": [
-    "64ef50dd82fafa0869e3cfe6f3a6a5eb1837baa78b565f9d06e7817a2797998f",
-    "ffea9f413c0cfc9806b23b5b9040660634ca8e7b0ecc2cba2fba83830c97012c",
-    "99bee959c2488de29b03975c23591cdd0dd7cde7e401b14d257c33687ed2d963",
-    "a7bc2b5d636aefa6d06f31e20e7346c66cae38889fc7a2ef3684e34f6e15112e",
-    "ff01736f6deb5a313b11e846931acaf8f6247afb0c71e6e53bd338fad1ca5e3a",
-    "4345bcbe04fa52a1e41abb11930c15eef78709048f4944fb49a003c05c930b96",
-    "893b2262fb8d4fa15c148a9da7efce71ae956ac260e7d6761217eb3a90aeb97f",
-    "cd4c039b57049e58f03f71660c1ba46d5584a61acfa3b87b8f2686c06deb12aa",
-    "355e57b67dcd63b0d4b654b49e3e2d2f39d842cc00fa2190ae134ed8e859b2bc",
-    "da5e76424b82a8adcc1b86ff38628845375cac23ba9e33cb8527794bf0c04cf4",
-    "a9d2f88de5c258738eaf29ced5549ec7826428cc7b17ac59a23f7ee28a9ff0bd",
-    "aa4bcebd60eb9fe48a339d73c186c348e58ce0aec8ab48ba293aa5f4e5fbaca9",
-    "62c5e7e96385dc8c1c25d2c7a5cb6fac076bcda33104e95640412fffacd42d89",
-    "f3a28128d62119313f8e7bbe2cb1c33ca939c54e7f3b279e494bc64b5c5c90f3",
     "e5e9cad000ca533bce7310c2fcfdacbef1f72cf6d155554e84c2a1c8d6dbf455",
     "0482d0d10a1e535413412721552c568497f3733be55cba76dacee52b7e8f31e1",
     "e64a9b625a549c210b694a382189eb28c655e57bf9a5bd71e97ed80b860c20f1",
@@ -8002,37 +7988,23 @@
     "4025a3d76b532e3037d53096c5b75f2ad8c601cd9cd174606a8406f8f9fbf273",
     "5978ea5a8d7ca046f17ebdbdf1b46618aaa18b2ab73f077b753c076337642870",
     "5edda8c02bc22693059f499ae4b3d1e9ff2041d05dfd59635b0374f148df98be",
-    "9eaff6dc48c6b2d56c9d8e5b42569c279919fe3be6e2d4bf6d7ee75e0da0bb1b"
+    "9eaff6dc48c6b2d56c9d8e5b42569c279919fe3be6e2d4bf6d7ee75e0da0bb1b",
+    "8d41b85ed41a12935f2240ad257174bca72741107f00338c64e1848f69fe8637",
+    "ac40ec3eff2736e910b276c8c9ee79351c7218e24c39faf558654dbc3fe79696",
+    "199ef904fc689675e34c5769e3f5d9e1a139bc4a2cec440871b442ad93a3a18c",
+    "c97a8a1a02c25c95d8a0fccc560943d6f8942a183609c7221e216b43d7aa1bb4",
+    "894664b7283982fa14f9c48ee048966874d319459a8b56d30f496222eb9c5870",
+    "eda550c419bd21968e4c74b2c133f49fd1c9e5873218a218bfb4654ec2813b4b",
+    "b5c56b586eea7f28b6ae5e8ddb497cbaaf6865d4fb815ecf284e2a2c5e527286",
+    "ea732a0e5a45748c095f2cf5f09c7238e51402ca179dc0f57812a2bae59efbdb",
+    "b79928b886611c39a4735ec97cd61283c452fdd9b9bf5ea6520b48063651ebf7",
+    "1f13061765f897895ea8bf3251c493e4436c3aaa16b1e6ce91623578374ba6fe",
+    "47da33dae630a3de53911fca4bf67bf58dde929f6ed0de9d1d723ce517f4bef9",
+    "0296a1dd29f5c9399d71634a897d8acfdc840e7ef55bd0d02bd1e472389e6c03",
+    "3c14c7225c6afaa05e65202610ddce4823bcf18dc80bf25faa9712281de9d964",
+    "e8bb8e6524b003cf8b59fb3f241af11f284ecca766383023af7b6278f543314d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Diana Shipping Q3 2026 Earnings Preview",
-      "title_ko": "Diana Shipping 2026년 3분기 수익 미리보기",
-      "url": "https://seekingalpha.com/news/4676315-diana-shipping-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795543842
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Iran Adds Tugboats to Hormuz Blacklist as Pressure on Shipping Grows",
-      "title_ko": "이란, 해운에 대한 압력이 커지면서 예인선을 호르무즈 블랙리스트에 추가",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/iran-adds-tugs-to-hormuz-blacklist-as-pressure-on-shipping-grows",
-      "ts": 1795543872
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "伊朗称一艘集装箱船在霍尔木兹海峡南部遭袭",
-      "title_ko": "이란 \"호르무즈 해협 남부에서 컨테이너선 피격됐다\"",
-      "url": "https://wallstreetcn.com/livenews/3205172",
-      "ts": 1795543874
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Dell’s Earnings Are Expected to Surge. The Stock Is a Tougher Call.",
-      "title_ko": "Dell의 수익은 급증할 것으로 예상됩니다. 주식은 더 어려운 결정입니다",
-      "url": "https://www.barrons.com/articles/dell-earnings-stock-price-838815b4",
-      "ts": 1795544175
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "周二（11月24日），美联储隔夜逆回购协议（RRP）使用规模为3.01亿美元（交易对手2家），上个交易日报3.5亿美元。",
@@ -11504,6 +11476,34 @@
       "title_ko": "미국 달러 약세는 지속되지 않을 수 있으며 이에 대한 베팅은 시기상조입니다",
       "url": "https://t.me/marketfeed/1084886",
       "ts": 1795571202
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "사노피, 410억달러에 인스메드 인수... 제약업계 빅딜 성사…",
+      "title_ko": "사노피, 410억달러에 인스메드 인수... 제약업계 빅딜 성사…",
+      "url": "https://www.fnnews.com/news/202611251033034484",
+      "ts": 1795571225
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "CPO概念股快速反弹，天孚通信涨近10%。",
+      "title_ko": "CPO 컨셉 주식은 Tianfu Communications가 거의 10% 상승하면서 빠르게 반등",
+      "url": "https://wallstreetcn.com/livenews/3205345",
+      "ts": 1795571289
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "W컨셉, 한남에 연말 선물가게 오픈…아이헤이트먼데이 협업 상품 판매",
+      "title_ko": "W컨셉, 한남에 연말 선물가게 오픈…아이헤이트먼데이 협업 상품 판매",
+      "url": "https://www.news1.kr/industry/distribution/6365307",
+      "ts": 1795571352
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Bitcoin, Ethereum, XRP, Dogecoin Pull Back Amid Trump Tariff Jitters: Analyst Charts 'Phenomenal' BTC Buy",
+      "title_ko": "트럼프 관세 불안 속에 비트코인, 이더리움, XRP, 도지코인 철수: 애널리스트 차트 '경이로운' BTC 매수",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63613214/bitcoin-ethereum-xrp-dogecoin-crypto-trump-tariffs?utm_source=googlefinance",
+      "ts": 1795571355
     }
   ]
 }
