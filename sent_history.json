@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795591468,
+  "updated_at": 1795591619,
   "id_hashes": [
-    "e2277dc535ff710fa3f2e2d63543fd297819c547e1f83b79a1502ab8c9e98a77",
-    "d68ba5f896feaea9ea4ca9fabf200d7c545ce196173c370f448e56778b01a3c6",
-    "1e1066621d0a53ced7f9882fec905f88e0df8f49ebaddfc3c41aaa258dd01052",
-    "45f0cbeb5e4370ff330f09ca0f3e70666ccfd531221d5dc9ca63a3228c613dde",
-    "9dc073c799deadef41c9d70ccd64d8acef6e39a140191229adc5c53ac9e4341c",
-    "fbba23877f3fdca4c05af05938dd9925340d66ab67e54f3eb8c34d0f9f31efd9",
-    "92dd45fd97f446f17413009ef7cfd0b7b7d9b23b1729d5a84f7ad3a86517bca8",
-    "c742751c9c77e52bbf7664d397156a2b88c15fcfa6be216470cd4033c5b8d014",
-    "2c8c8f12e08f2720d34b70bdfb06d4bc0ee7e20d1a4f595b166e8769562f0149",
-    "90d80d0adba29ea7f92ebdbd5d318e4dea0a794700ab53d3088532537f1f1781",
-    "68b64782a86a784314b80823a5acf005ca2fafa136aff763a5d46ef245930209",
-    "1f0293552685d64e17809dd7705cf983590b0b6582e074463fb309076783720f",
-    "752ced5194e69f9ddb6497bf49f4f5a1369cba702535d3c0834b653aaab51c62",
     "a1eb6a10ea1b0225a26d06c942456250339a8f4264cc6ad5d1bc1b43b0141ad3",
     "7d42d8e7f5bddfb2d15b1601c3510d37bb0b61d7f63896b8f8d2f34e3b3e43f8",
     "dd985e2817918a5bea86a1519e94a41ed801088485a081b3688822be4bf3a688",
@@ -4000,21 +3987,22 @@
     "ecbe9930bc21f45ab868f3627a69b98e6879277136812c28ae277e270ebd1703",
     "63f590ad680f9f908fa2004e4cfddb9333918fe0aad89361afff2954b2645803",
     "c0afe20d84e97a14b0c5dffa2a649836a7cd4d948fd70d5e8223d7169e0016bf",
-    "1e870b1c965c2bffa7bb6f7c706883cccf16a768d78ad2720d235dadcca49e4b"
+    "1e870b1c965c2bffa7bb6f7c706883cccf16a768d78ad2720d235dadcca49e4b",
+    "005ae9a6dd36dc306e81532bb06879c3f1faaf5d8a272b4c419449e8f533736d",
+    "1aed1549086ad99c3eb73efa065aa39c454fd20bd1901c54d7ae380488342e28",
+    "81896d0650c19a618a92306fcc6eccb8eb40b41c414d1916a506cbc4558752fa",
+    "90748dddfa7af93854f8217a318dafbe44f3356bbec49a4caedde12c90e9cd6d",
+    "b7a5b5dffb9c545a11f259601bb77714f0dd0f8ef1ce2b0cbcbbc302eb3b11ed",
+    "b672c434b8705a485cfb117d97e770aec1ccb465f29d102bf2af80f00a0b462e",
+    "9a0c6f34a9c939071ce9e7ad840f84458f58ad21fdda745031ddcd98c34ab92e",
+    "a78e3f128e94fe93edc3a89756301ee98e1356380f98e066a571e889e7d4b9c7",
+    "9d651892f3db5d038725ec6aa8eeab6eccb86232159291fcbdc7d5375cccfba4",
+    "4eddbb071984543c30940e8f8ac214455394fe5f81ffe4e18d5067330507793a",
+    "435d7a5267e7b5e7a9e24175132f80afde3b81d86f7db5f67a6389e9e060b2c4",
+    "95c5c7cff99004e434c62a9742768a93be0a776b5a3cd910ebc7817947d90f72",
+    "117a4891ad97ea202d569a84c81d229a48a67faff134bd250b126a0645a1d823"
   ],
   "title_hashes": [
-    "aeec54e4ac47dbe12f766b9a896224062b28e78b602cb4d9e10d80d0ceb376e4",
-    "cd0ff60d5fc41e47b222ce6b6542c7ed87a571d1105673ae5d44421cffe4ddf2",
-    "b35d25080ee344607bb2a8b4c75fb609b78c582072c3b4d3583d3dd2e235280f",
-    "8beba8afa8309eb9124dff5092f3c71c2bf82a5f01889508648f78f6c5da4e98",
-    "5bef32c9e4b2f3460efd5fc47b4174f6c74586dd3bf37f3dc57213a6526b2813",
-    "3b78f7ba2a78acc031db3eb8e6d3ff8309a6cbcdf8c6751a04a7f12b83ddda67",
-    "a9245542433baa9325bdec4a98a676d19da22816aeeb32469a482f3fbb98aa53",
-    "3b898be3b3aa0c1ff76560900825b979f4771e887e972dcb06ce7e153535e7c5",
-    "6a70a9df0bb360940c94f81859b184a27461e5e2bc9dd76f0dfe79864968a1fe",
-    "bde6bdc555a15b945f0b5b5cf0e7a3cb3ae87b62558666fc009a3841a40ae93a",
-    "5f01dca88a716c4369959d8260afaee2ea041f073984e5136175909e805f55de",
-    "72647a84d7aaabdcae6e5db52b5f2c80beaeffa156ffff2284a29beb964a9ec2",
     "86f951c66a692855bbf5d4c37e1c004c49c2dfa400a2a15a448fa59e04782cfc",
     "5c2610f481570d02e801c53280ed0429b1b076aa936bab035827c027699d883a",
     "f9c96d3ee509b7e50aeb1f74b59644b449220254f641289b953917425e418aaf",
@@ -8002,44 +7990,21 @@
     "65d6dd21e4bda594cb88be7412030f9f0a186d215668983f60bae6911e574de7",
     "87655d1f4f5641e00c2784cd2558248fb679143008562cfe58ac06917b1c99ba",
     "f105f640c4e4a31d817a26a9b127bd36044f65dd8761d8314a6464f9b23dda6d",
-    "77142e3d8f89195ffe8218d680099e2709e7c710d64734238fb884b4136ab39e"
+    "77142e3d8f89195ffe8218d680099e2709e7c710d64734238fb884b4136ab39e",
+    "e4e3bf51fe5cd2d8efc16ea3fad41f38a817b44cede86aa39673e8d5bb0b607c",
+    "c84c1c905a8277c2cae59526a1785c78f80d50f99f3b80e4014e54585c5c186c",
+    "9feee90ebc42af897843ab1acfadf6a7683f92aae5f2c5ad01f62582e60edfe4",
+    "d595b3d4e7593fe0cf79206ff6bff64752f1c37511b95b66f40279bc66b1181c",
+    "1d9ba999feac1abcbdc21b456e75b119f06e308a716b6bda2122b880921c8f08",
+    "7dea018f0f577c48bb26ae2cd8f0dcee631be023ccb44564a37c1a5435d765b8",
+    "97f002265e26b145b66dbce925daf9632857407c54ab5c993bc7e17a9e7fbbda",
+    "78594b5cfa1783678acd99bb3d2aac01ff3e15a1a2e060ca41a05c0f0f3b1daa",
+    "a0c7990e357e867579abaae516d084a9191414699948872157f322cf871320c9",
+    "d5f14142acb8c28824f8bd2e837ba349ca5741e63c6b74327c48c521c355d27c",
+    "b967addfcb64b162a0cb98c05b16b8b09b269ee825e4d8f828b331f1485e3d91",
+    "4af26ec76f0aea2405ae5069906e83fdf89e57515404a78695d4968a05ac81a2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "지디넷코리아",
-      "title_en": "한화에어로, '수룡' 국내 생산 넘어 수출길 열었다",
-      "title_ko": "한화에어로, '수룡' 국내 생산 넘어 수출길 열었다",
-      "url": "https://zdnet.co.kr/view/?no=20261125090318",
-      "ts": 1795565243
-    },
-    {
-      "source": "지디넷코리아",
-      "title_en": "트럼프 \"젠슨 황 사면도 선택지\"...사법당국은 조사 여부 함구",
-      "title_ko": "트럼프 \"젠슨 황 사면도 선택지\"...사법당국은 조사 여부 함구",
-      "url": "https://zdnet.co.kr/view/?no=20261125082616",
-      "ts": 1795565247
-    },
-    {
-      "source": "CNBC",
-      "title_en": "Stock futures slip as traders await key inflation report, assess tech sell-off: Live updates",
-      "title_ko": "거래자들이 주요 인플레이션 보고서를 기다리고 기술 매도를 평가함에 따라 주식 선물 하락: 실시간 업데이트",
-      "url": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html",
-      "ts": 1795565341
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "SOUTH KOREA’S LEE PURGES ‘SELF-RELIANCE’ GROUP AHEAD OF UPCOMING TRUMP G20 SUMMIT - SCMP",
-      "title_ko": "한국의 이, 다가오는 트럼프 G20 정상회담을 앞두고 '자립' 그룹을 숙청 - SCMP",
-      "url": "https://t.me/marketfeed/1084839",
-      "ts": 1795565343
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "트럼프, 측근 줄리아니에 美최고 민간훈장 '자유의 메달' 수여",
-      "title_ko": "트럼프, 측근 줄리아니에 美최고 민간훈장 '자유의 메달' 수여",
-      "url": "https://www.news1.kr/world/usa-canada/6365005",
-      "ts": 1795565405
-    },
     {
       "source": "지디넷코리아",
       "title_en": "젠슨 황 엔비디아 CEO, 타운홀 미팅서 임직원에 사과",
@@ -11504,6 +11469,41 @@
       "title_ko": "항셍지수는 칩, PCB, 광통신 및 기타 부문이 하락을 주도하면서 1% 이상 하락했다",
       "url": "https://wallstreetcn.com/livenews/3205495",
       "ts": 1795591467
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "THIS FRIDAY 8 AM UTC, 112K $BTC ARE SET TO EXPIRE ON DERIBIT WITH A NOTIONAL VALUE OF $6.62 BILLION.",
+      "title_ko": "이번 금요일 오전 8시(UTC), 112,000달러 $BTC가 차감 시 가치 66억 2천만 달러에 만료될 예정입니다",
+      "url": "https://t.me/marketfeed/1084992",
+      "ts": 1795591556
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "ETHEREUM MAX PAIN PRICE $2,100, $593 MILLION NOTIONAL VALUE, PUT/CALL RATIO 0.55",
+      "title_ko": "이더리움 최대 고통 가격 $2,100, $593M 명목 가치, 풋/콜 비율 0.55",
+      "url": "https://t.me/marketfeed/1084993",
+      "ts": 1795591559
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "美股股指期货跌幅扩大，纳指期货跌超2%，标普500指数期货跌超1%。",
+      "title_ko": "미국 주가지수 선물은 나스닥 선물이 2% 이상, S&P 500 선물이 1% 이상 하락하는 등 더욱 하락",
+      "url": "https://wallstreetcn.com/livenews/3205497",
+      "ts": 1795591561
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "【外媒称美国将对中国等十几个国家加征关税，外交部回应】外交部发言人郭嘉昆主持例行记者会。\n\n彭博社记者提问，据报道，美国即将宣布对来自中国等十几个国家的商品加征关税。对其他国家而言，额外关税不会使总税率超过此前在各自贸易...",
+      "title_ko": "[외신들은 미국이 중국을 포함해 10여 개국에 관세를 부과할 것이라고 보도했고, 외교부는 이에 대응했다.] 궈자쿤(郭伯春) 외교부 대변인이 정례 기자회견을 주최했다. Bloomberg News의 한 기자가 질문했습니다. 보도에 따르면 미국은 중국을 포함해 12개 이상의 국가에서 생산된 상품에 대한 추가 관세를 곧 발표할 예정입니다. 다른 국가의 경우 추가 관세로 인해 이전에 해당 무역에 부과된 세율 이상으로 총 세율이 증가하지 않습니다",
+      "url": "https://wallstreetcn.com/livenews/3205498",
+      "ts": 1795591564
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "EasyJet Profit Hit By Middle East War as Apollo Takeover Looms",
+      "title_ko": "아폴로 인수가 임박함에 따라 중동 전쟁으로 EasyJet 이익 타격",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/easyjet-profit-hit-by-middle-east-war-as-apollo-takeover-looms",
+      "ts": 1795591618
     }
   ]
 }
