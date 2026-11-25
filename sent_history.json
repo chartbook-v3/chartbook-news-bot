@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795580570,
+  "updated_at": 1795580720,
   "id_hashes": [
-    "3e8d976d57a43f992f5043f1478793dab1c34053ad1c513da711e8b0d409b618",
-    "4d9fefeb63ea4034cd0e57a1170c62d81ed07b39fccabcff699817d83929039c",
-    "f4778cf4f6865ec90b3745c4afeba4262337df2fa5e928fa5597951b0c067a44",
-    "98626ceada55939394fbe59f11e6bd52253b9ea163620477b34298cf886a8abf",
-    "6b6793a914c7e73b25c94e1ee739deb124522a448de16a26d3c3b4f1601ca8f3",
-    "c80a72eccb5fbe0225e560e15605d454957363e6737c0d951f2b43681ef50460",
-    "0eb476018b6022eba9e513380484d3a28a5a6d287de529cd80657f5844890800",
     "3b30307f0dc01a7c82ad6dcbf651f453e37c3f8893e9e8b581d06f86a4a78ad7",
     "d27ad4114892d72cec46199ba8e2dc66b0bcac1eb71dc8cea73a6f002c56cb6f",
     "c6c728a13d93081a6b2fa04fd22ebd0c757e466175f936902fbf86209ef672db",
@@ -4000,16 +3993,16 @@
     "8a3efa77300a2c53b81a2a2c07cea2e382be3149ea0006f17d6b1719c8fd3685",
     "fc6679d010e112dd2f2268848a84a725b77ff185ecff69d84d74276d3bb77e21",
     "12326a8f3b922ba85f62a0abc0c8dd674ac6df5201ce2ac27e28d0a67d8009a4",
-    "bc7b3f30882cc20134d41ada4fbd649fa3967f1458a301204b2f162e0538f4e2"
+    "bc7b3f30882cc20134d41ada4fbd649fa3967f1458a301204b2f162e0538f4e2",
+    "d1483d54ad20d26501a701d48ac1fc7558f862d0ca67860750a7f8f016d38d99",
+    "8286a346631cf2c7db0f04285d7817a60f7953ccfd230a1feeb2085d7bf38589",
+    "f57033b8d0f834b766bd11753de1593f711059780eb0b077916cc6c0e1ac04f1",
+    "4d4a9e7fa09d490ae1a24aea1ace44d37508ef3c1a3bd855ebe06bcfb65b6f2f",
+    "60e865526608f90223c0facf344f1f3cc7edf16730d94d8fab76f8accba1bc24",
+    "4cec976ebd3876c3100fb19cc7b70adba8e3484fd55d573bb22c03c550c6e05f",
+    "09afa395caf69264f832042dd702c56e26b9022f6b6045f5575bef2afd2805c0"
   ],
   "title_hashes": [
-    "43d84f432c78a1fe1af6344c44914507c426635eace1dbabdac82758aeb4f9de",
-    "0197448160ebbd3bb48b72b901ff5f5de176f3b757b9db1d05c219104b7f914a",
-    "0e8ed6d4a7eb168fad459bee5951f1a8bb7d68c9706266943c22ccf7b2127b09",
-    "3cce7a849b0902537aa771ec8d83b406bbd6ae5549a278e319a19c28fc0c4f57",
-    "f65cc96bd3959960cd8b8f9c40a93b4ba7b166c5346efb778e5c2cc0c0797f1e",
-    "ec3aaafbc90e1783aeb3549b1d25b9e66c498ebbf7bf451ec58fcfef4a668631",
-    "fb14ae50592558cb560662b1434410232f7fd4d082f1c768833b9b005898ea48",
     "8f76749bfb1af91349c09f6815eef6c631dde32615da59969d95b3d3a83a2390",
     "3175d910f3eff3840380167c9a0314e2fdfa1a17b92f818dabfb593d63717ad9",
     "d7bc0120cf2e0d11aa3c5eb4225828e7bdb6b401a4b1668438adb8499a1b5afd",
@@ -8002,23 +7995,16 @@
     "097756e36ff3f0016b0c572bb8ccaf3f98f33969e0012173ba969802dd55cebe",
     "a64887759f8c4b66a19af11ed5054846d52871c2acbdd66150909d1ab1cb2403",
     "2da40830112ecdb122406dd2dd18550e443cf57d83a69b46d6909e8363362324",
-    "79cbdaeff0e628899bc8cdcefb6a35193e8ec9c39b89bb6b779275f6060a0e16"
+    "79cbdaeff0e628899bc8cdcefb6a35193e8ec9c39b89bb6b779275f6060a0e16",
+    "b49eda234b219bc887b9be3d1657a198f69dfd2be5d39e8360227807ae0578d1",
+    "72f383d8f067120a4bc734d2bebd23e5789625752b4a141d2e581f537c26d795",
+    "27af63b2634afee4b86ff939760b7b270fa611f7b73febb90f93938997c63ae4",
+    "4c08d9c3955148a9650d73ec14a252854cd5f706d646617f7496a6eed133a559",
+    "ad0488f2d7302c3cf5350335394b7a9d752706ccace8a328b0f883ebc947a0ba",
+    "24a0f4035acfaa3d56b43c81e3a5ef0d2d7144071ed4e20924521e4d25845062",
+    "512528b09abed8af0478ca23b6570d2bc9fbbb9eceb18a91fd5b2eba7fc9b643"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "DOW JONES UNOFFICIALLY CLOSES UP 422.61 POINTS OR 0.85% AT 50,017.92",
-      "title_ko": "다우존스는 비공식적으로 422.61포인트 또는 0.85% 상승한 50,017.92를 마감합니다",
-      "url": "https://t.me/marketfeed/1084789",
-      "ts": 1795554103
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "神舟二十四号载人飞船瞄准今天8点18分发射，飞船将搭乘长征二号F遥二十四火箭在酒泉卫星发射中心升空。\n\n航天员汤洪波、武毅以及巴基斯坦航天员穆罕默德·齐尚·阿里将开启他们的太空之旅。（CCTV国际时讯）",
-      "title_ko": "선저우 24호 유인우주선은 오늘 오전 8시 18분에 발사될 예정이다. 우주선은 Long March 2F Yao 24 로켓을 타고 Jiuquan 위성 발사 센터에서 이륙합니다. 우주 비행사 Tang Hongbo와 Wu Yi, 파키스탄 우주 비행사 Mohammad Zishan Ali가 우주 여행을 시작합니다. (CCTV국제뉴스)",
-      "url": "https://wallstreetcn.com/livenews/3205223",
-      "ts": 1795554189
-    },
     {
       "source": "MarketFeed",
       "title_en": "NASDAQ UNOFFICIALLY CLOSES DOWN 356.74 POINTS, OR 1.48 PERCENT, AT 23,732.81",
@@ -11504,6 +11490,20 @@
       "title_ko": "트럼프는 Jensen Huang에 대한 사면은 \"항상 선택 사항\"이라고 말했습니다: NY Post",
       "url": "https://seekingalpha.com/news/4676425-trump-says-a-pardon-for-jensen-huang-was-always-an-option-ny-post?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795580569
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "日本10年期国债收益率下行5.5个基点至2.665%。",
+      "title_ko": "일본 10년만기 국채수익률은 5.5bp 하락한 2.665%를 기록했다",
+      "url": "https://wallstreetcn.com/livenews/3205410",
+      "ts": 1795580656
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "TAKAICHI ADMINISTRATION HAS NO PLANS TO ISSUE NEW DEFICIT BONDS FOR THIS FISCAL YEAR'S SUPPLEMENTARY BUDGET",
+      "title_ko": "다카이치 정부는 이번 회계연도 추가예산에 대해 새로운 적자채권을 발행할 계획이 없습니다",
+      "url": "https://t.me/marketfeed/1084920",
+      "ts": 1795580719
     }
   ]
 }
