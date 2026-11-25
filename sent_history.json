@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795579482,
+  "updated_at": 1795579637,
   "id_hashes": [
-    "0a422012f3483fdd867bcf49073f58f89a2ccf2d81d078f1fc16d0c1479f5227",
-    "57b205bc73a0e6f72fa4e4bc41bdb7d8b5b68f11fb428c00086fb247a78c7808",
-    "6123d93222cbd82a243382a95826bd36d392cadec44aa07ea5bd8e42b7b55454",
-    "14cabcae2e7544d51cfe11d7bd09ceb221377e0efcd378535044ba4d32e9652b",
-    "1cbc0dcebe05ce1496af1faaa9417a493d2f3cff61eb94b1d84830f89955db39",
-    "d7f0d2e3df7004d339c3bf84d45c836e380fb30c4cf071f68092d3b1832215a7",
     "a4bfbb25c03a452f789033d6f496d235104404fac981ddd7d69eb9e525fc7b78",
     "fa1d7937fcc9327a3dd608a1d421f3633000d92ff65bab202de98e798d5db83b",
     "b3e53d0ed3552158a3d0df8f3f75c4b2edc966aebbf1301eedead2efbf56e2ca",
@@ -4000,13 +3994,15 @@
     "a19690758c08e9441ff821b8e80fb8206f8df29dd53a1e6cba7d4819e9877414",
     "e59a5712c5b6fd1de7fceebd0d90ec45fb6bb26e4f702efe17a41bbc9cb4150a",
     "477630dd7d557f2ec0c052563e76ce1a07f139b3b9648572f90a19441985e794",
-    "288316c40c2d071f6855dbf03c42cc0c39d7f8a631e64827f700af0fd4967696"
+    "288316c40c2d071f6855dbf03c42cc0c39d7f8a631e64827f700af0fd4967696",
+    "39db91e2fbda1b14daf66191b6e33bed38fe824f59b941d0f228fabd5f1a54ca",
+    "aa7693b25bf89d5c98a656d54aa5e227597b5de6ee66c8da8f51cff3c8d25167",
+    "8cab87c3eb82a11ef728d44b6bf99c8a4c07a3a9df6750fdfb5a9d58775bfd8a",
+    "569cfd621a0b9d1688e647630eee0e008c4d2c8180f47b09b890b01d9e35ae73",
+    "fc568f43af599a1d179618920d540e650c96c4655a426cbad26a01ba5231ae69",
+    "a6c18f228646a468631c3c93fe72187b19691ae7b6c58e60b9f72938705d65d5"
   ],
   "title_hashes": [
-    "d629bb8ac34b0627fee40948d199389e2a5c252e426d44a75464ccd65b8387eb",
-    "6c29b0259f42cfab92a93bbb5b8f5fafa32a233ffedc9c5c0e76517b11603243",
-    "5c5a22e668c07772b1976778e2053eacf9aa85903271aea93f83f795b82e66a9",
-    "c3403fe93914914db4ac18a8db990fa687664b5cd354cea29b50322b619febbd",
     "c41e365c7b410555e6bf4919403de770f1176bdbc4103a7bcf49e7e36679b57e",
     "4cc0c71a5dae30ae287754a286763952f6ab16b8ae34a0a5c7da58429003340f",
     "16d0963be7af3257024994947fd1e36b3a8500be958912038245d71d36115b92",
@@ -8002,16 +7998,13 @@
     "80eafd00dc7fd6157f6f84c613f02ffd5970846f2afc67c95780cf89818c4996",
     "4e75a9166c157a63bce53740b47f953b92a09fbb1379db7786a4e774ac8e9404",
     "40128107b7ba7b04920b2d6d9f093ced7508eb68d011c7e1df7c009020c7af73",
-    "04cb0481d164b8ea391d2e434ff3da029d874ea115ad4f935fd8136dfe7c2a67"
+    "04cb0481d164b8ea391d2e434ff3da029d874ea115ad4f935fd8136dfe7c2a67",
+    "90ce569ff0ae82f71548e442c819d096f41d678a1c24985c4dc2ae07b01d1256",
+    "531a3ffcbb9d05029fa759e621b7f38b8b110004084833030ad1d6a3c6349cff",
+    "160900fd93fad2a3060d41a3d0f0c48da070a70082bf636c2c4811e5fa82c238",
+    "8cf4c7d1e5456a844fcd37f2d3f1c377734a914cdacf9d3146d6fdd2822d71e1"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Alberta Premier Takes Swipe at TC Energy Over Gas Pipeline Shortage",
-      "title_ko": "앨버타 주정부, 가스 파이프라인 부족으로 인한 TC 에너지 문제 해결",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/alberta-premier-takes-swipe-at-tc-energy-over-gas-pipeline-shortage",
-      "ts": 1795553188
-    },
     {
       "source": "StreetInsider",
       "title_en": "Moody’s affirms Sanofi’s Aa3 rating, shifts outlook to negative on Insmed deal",
@@ -11504,6 +11497,13 @@
       "title_ko": "말레이시아 장관, 엔비디아 문제에 대한 미국 규정 준수를 맹세",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/malaysia-minister-vows-compliance-with-us-rules-for-nvidia-issue",
       "ts": 1795579480
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "US Congress advances three AI chip export bills as CEO returns to Nvidia",
+      "title_ko": "미국 의회는 CEO가 Nvidia로 복귀함에 따라 세 가지 AI 칩 수출 법안을 추진합니다",
+      "url": "https://www.digitimes.com/news/a20261125PD211/ai-chip-nvidia-chips-equipment.html",
+      "ts": 1795579636
     }
   ]
 }
