@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795603282,
+  "updated_at": 1795603438,
   "id_hashes": [
-    "daef2bdf31a1c0c1cc83fcf5a94cf5f71595a123db331228bc9ff0965a8fd7b8",
-    "eab7e89457f0c2e4e011d2f18547f5b0c5d04291c3a81594c70d7e004e5e3b9a",
-    "431fcd8a67d66a60bfc4ae01373fe707ebaf72d28fd5db3dccdd5e28a385d782",
-    "ae37c278c07aed25465987f41b8803497946304163d1d651097325cff9e79e17",
-    "243771085cedf9ca6e24b630cd1d8b777df217d8b3df44db51a0a88263384e30",
-    "725b2a50aa57f647ca1757ba6c5170009989e3954cde5cd5a351974c1cabe637",
-    "afd308620f1838206a843a81da033aa3080a323f0ab9ed9d4fcfefdc227b96b8",
-    "15e6ed45e6fb6ce271a77c0988219748fd81cd2d0a9082538ab17796c2cfd0f3",
     "13e9be23da17f17a05a626efcf7ddb37b848f97fe8ed39eba6fe0399f60effc4",
     "08acb7822c67f1adfbbc276b3964c26fb4ff0e99a9cce3a8aa67f516812623e0",
     "6199085a7c103cec320851401ef1d8fcf34a2d1c83f45e47a29ad0649d049c54",
@@ -4000,15 +3992,17 @@
     "6ef5c7857af5c8ab0c6c507b1194afa76abaab3beff0656d56893016e7c38f17",
     "e9303b0eb0623cdcedeaaacc279a3422a3f32ff94105befe06e88acfd943f0f3",
     "79da22c2b5ad1b6ecc1f50fec00e117627ef6efb16af65b725cce429e72a34b6",
-    "6399d414e006331436b4000914cc7c68e0a460f04c523c0b28725e05cee5606f"
+    "6399d414e006331436b4000914cc7c68e0a460f04c523c0b28725e05cee5606f",
+    "3c0600c04669f787e4780c90a57a4686794bf459b766dc003a42affbb306735c",
+    "31bee024520956db428f6cd6dbd89fa2bc6e50ec87e23ca2f37f822f18613961",
+    "ccb63be832403dd64e43118b41a1656dac08821782e3e5807546f52d40490ec1",
+    "3879afea4b468c12a9e5c3593a7696dd4933a8d1831f258c0dab3fb01cc49469",
+    "1a077698e3a4f3736c854871213938bece5619b2e8975481ab43ae648a8a063d",
+    "57650831f4c83ec86a71907ef64c87a5fb38e59ae8f3100c556f3ef22bb6ce2f",
+    "feaf14e14ee035ff2548f814e12ac9842905607fdb66cd8deee020fbbba12fe0",
+    "92dad441e237d8998d2c094b9940fceeda2003e3aa5c3480a54018d706fdcb82"
   ],
   "title_hashes": [
-    "ad83c05bc66515fdf2bdc284d0acc8fb06b72bd9469e025f00d21b7d1d3f885e",
-    "4ba6eb02568fb65f5e00f175ddffc0e43b365773e7f56e028d11ce3646cf7826",
-    "9e24cd1be3f3415a5b98795bedd8581fcd01f79ead25e4a2d0f063224717d83f",
-    "6a6e4bcb9c6dc5ca5c846e49a020b0b191b55017f4cf49cba384467afeef6fc6",
-    "a6e205fd4e4dc4f2d87d10e8abdd222fc8c4e9bc90829dcb1913ad03da2d9947",
-    "533eaca9ad9fb785913abdb4bfa0ccd42b3fe2a1af5a9c00eeef65d78117a43a",
     "a55e20e9602a3bb6368ba01b6c37cb05cf38f2cdcbf15b39fe0a781dac770872",
     "80b1c683f5dcb02bc5d545d54bc59cc26eb0914450e886f04542c73d7d7fa2ae",
     "58f7725d5854295577aa381924b0242a3c43a72ad988adb017c257d617b3c97f",
@@ -8002,23 +7996,15 @@
     "0fe0729b97d7c7a9b7ad000994e5f0830a3997cceea5702d2e67ef70d2af0ce8",
     "6e234fc664a0b18eaec8567cc5c549a9995b8dd14739219aad4122b316cc243d",
     "0d0b43ebabb2a207c49f79a8aceaeb2c8fcc7309ca1afbd977997481183c0dc3",
-    "71bae3712409fa69fc2052d4b66dfba2cd6f8111e40dd66ecf8a3d2ec9252e92"
+    "71bae3712409fa69fc2052d4b66dfba2cd6f8111e40dd66ecf8a3d2ec9252e92",
+    "1c62bee3fc1902736dcb0b65c5909037ca3037e2f34bdebd1eddddee92349238",
+    "7d44f0c8d2793aeffddad324448bb4f2c0ffb02382a7f667c8e86d4800895545",
+    "45af04636a2d771f04ea60ba3bf1aa27d5b8d820bf4e410e0c5734bf813a831f",
+    "8d56f4f0a991e5556abb2f72041e8dee2ca10da11c67cba5b6e4cfe7ae72415b",
+    "748cc25193bb0f74667b58ce9f42a540f95616e2d1be267672d677a5519a2acb",
+    "0e4dce4173a5cf16bf6652a131612cd65b0014916dc5687aee3c83c15fc14887"
   ],
   "recent_sent_articles": [
-    {
-      "source": "한국정경신문",
-      "title_en": "한화시스템, 레이더 수출로 K-방산 공급망 넓힌다..핵심 부품 국산화도 속도",
-      "title_ko": "한화시스템, 레이더 수출로 K-방산 공급망 넓힌다..핵심 부품 국산화도 속도",
-      "url": "https://kpenews.com/View.aspx?No=4328342",
-      "ts": 1795574324
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "'국힘 397억' 걸린 윤석열 선거법 상고심 배당…주심 이숙연 대법관",
-      "title_ko": "'국힘 397억' 걸린 윤석열 선거법 상고심 배당…주심 이숙연 대법관",
-      "url": "https://www.news1.kr/society/court-prosecution/6365422",
-      "ts": 1795574451
-    },
     {
       "source": "뉴스1",
       "title_en": "\"의무공개매수, 지배주주 먼저 팔려면 일반주주 승인받아야\"",
@@ -11504,6 +11490,20 @@
       "title_ko": "SpaceX 주식에는 인류 문제가 있어",
       "url": "https://www.barrons.com/articles/spacex-stock-price-anthropic-ipo-ai-a63c92d3",
       "ts": 1795603281
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "Jensen Huang denies special government treatment at first Nvidia all-hands since return — \"there are rumors on the internet that apparently I’m a tech bro, and therefore I’m back\"",
+      "title_ko": "젠슨 황 엔비디아 CEO, 정부 특혜 의혹 부인…\"인터넷상 '테크 브로' 복귀설은 사실무근\"",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-denies-special-government-treatment-at-first-nvidia-all-hands-since-return-there-are-rumors-on-the-internet-that-apparently-im-a-tech-bro-and-therefore-im-back",
+      "ts": 1795603434
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "福龙马：拟以集中竞价交易方式回购股份，回购金额不低于5000万元且不超过1亿元，价格上限18元/股，用于股权激励或员工持股计划，预计回购277.78万股至555.56万股，占总股本0.67%~1.34%，期限为董事会审议...",
+      "title_ko": "복룡마, 5000만-1억 위안 규모 자사주 매입 결정…주당 최대 18위안",
+      "url": "https://wallstreetcn.com/livenews/3205653",
+      "ts": 1795603437
     }
   ]
 }
