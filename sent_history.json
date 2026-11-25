@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795592871,
+  "updated_at": 1795593032,
   "id_hashes": [
-    "08475eff963583bf90db9fae35ae5b43f06586bdac9e1898fa53cb53ebc7d44a",
-    "d67f156082d5c75adc3a28fb8668b5f97ddaee17536d15dec95151653267165f",
-    "ec046f9fb5aaef9d2505fa04a9969740e3bd3f4372ed32b623070bf2a11f5f81",
-    "43d9047c74c3b1e07f5074e9672d780dd78dcac4265316ee77e02e530f56c4d7",
-    "dff70bf6e59f9b5ba8f3896d0adf9a49d81f172912d553faceb58656c7b1dc94",
-    "8137358e24665a75b05a5431c00138cd8d1856a3e954f03c7daa1b7db7d29883",
-    "90f81ccae85b8d411b0f0b83c27cfe6014f27ae0d12794fad2cc439d78502456",
-    "c8cb283d9a3ccfad5a59eb752e5134b447401ff47595021599cb7f8bc2b54687",
     "3c88ab15fbc0ad6cd7c0e713aa84ce3d5215e2aba634c0e81d81f30f35adf9af",
     "b09dfaf893dd06e477111709e47e5ce35bc5eaf69edec7d4c227fc6844daac58",
     "8883241676cf1750821ca91e95ebb7471063d62872d4a85153877da2f8358fc7",
@@ -4000,15 +3992,17 @@
     "91ffeddfa15dac21356d3c36ccf3418bf695841d4e4bc05850d3ed20ccf5c6e4",
     "02e9e737217b576c0b4a7f54d4f6446b182abe04b6b998455d32cd46c9ada39d",
     "9e2f1584cd2f714ad09e69ed1df15b8107bd887fc33c579006f4b11ff58556f4",
-    "4507770c1513486aef963b3df1b446ccafd8ed067ef81b6d32d0f5bd28a3e6f9"
+    "4507770c1513486aef963b3df1b446ccafd8ed067ef81b6d32d0f5bd28a3e6f9",
+    "70bd4ddb37d7bb51b1d16d25592c7511e41db80c0d2232657de66371cdd00f7e",
+    "1f4a75f923f33eb772f5c1e940ad77f48127ad5910ea5f22cc37e38a1e894a41",
+    "6fae319bb21ae894aeb75e38ecd26049be4cbe1b3b41538cdb90f3736dae0521",
+    "9636efdc5c3ec4529bd930bb78e6573f93ac9e6a72be9dc67a418426f7990806",
+    "f8520c30b6d1f91cb62a4da438e157b01cfc38243eeabce121461af1d717b52e",
+    "27edcd79551a778e2fb6d4088d789b8072d0a99a47f2cc5b16d1556e5190e19a",
+    "591235cfc39dda476b0bab66b2c210749aae3db28933a5500c32686c586a1212",
+    "038eab4fd4a5b16dfff7996b438364b8c3159b51cbf39e76c88db9d1fb109468"
   ],
   "title_hashes": [
-    "3df3d3885c876adb80dac59d370362a55f06ee560ff1499e049e903ce7fca518",
-    "94d81553f375c6cf6cac600949cdcb8a228fbcd91b71deab8f47d39cf5c97a2a",
-    "4c8bd9e5a6d1752fa4f41ae1d1c05f286d970c812ee7b0d723a6cdffcf200808",
-    "ba93df8bb866c8a7ea66473814a3e492a46f0b37952c2fbe94c072991b8c91df",
-    "dfd18600b4eae816d12e5dab7e496d49c328627f8fd8043f2fc353c8d2aedc53",
-    "66f099524229cd3932803a892b92a3df6cf9584539f48652d7cad11afa1eb849",
     "2e86fb474869e0368237e8875a77ece401250c4f5917d420d8fb5497b5681eae",
     "d7ffb2bbd48b7729c09506bd544acd59d3a2e67d145d687dc9f5df4565cf7ebe",
     "93d3fce12e8d0c09633f8ddb40e9c218d2525b30498c83ba792589edfcb611dc",
@@ -8002,23 +7996,15 @@
     "26b6e05f34dab2986d205ddb02528d2cdbc1148154dda304a91a323d67405830",
     "7ceb730ab9ced921c0d129ccb944e2d26307d6f26390ac497dffa7b4b32886e5",
     "6dcb9849db8428fe62182332d8dda138a098e7daf4279113f0d0ed4e3f7e13d0",
-    "c236b9b60ec65aa4cdad395bd19c12b766bb202c95ae7249f12c6b77827aea6c"
+    "c236b9b60ec65aa4cdad395bd19c12b766bb202c95ae7249f12c6b77827aea6c",
+    "0373d9755bffc7351965ce01014b2bf53cab8a0802d098f35a2d8e5a8b01bb5e",
+    "5b537894cbb9123b12453c1e62326bc1ca63189c61b23e0a718f47f237d83417",
+    "5ce55c045164ba49dfd270de3649a267ba0d66333dbd3b7216b25cd9737a3b28",
+    "a67057211b93d9dbc8b27f9206fc7cd21cc1405bcd34d23f5d955cfa20659951",
+    "25e4f04885262fce8b0eb8882b3b27de8a2d1d654708f499ee9b0a5c4ea13193",
+    "67cd6d63ffb5c5528fa7b0f9de69685400f3517d739edcdc746cb836d0ddb556"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "美 '그림자 금융' 추가 제재에 이란 리알화 하루 5% 급락",
-      "title_ko": "美 '그림자 금융' 추가 제재에 이란 리알화 하루 5% 급락",
-      "url": "https://www.news1.kr/world/middleeast-africa/6365050",
-      "ts": 1795566080
-    },
-    {
-      "source": "FT",
-      "title_en": "ARTIFICIAL INTELLIGENCE FUELS SHARP INCREASE IN ‘AUTHORISED’ FRAUD",
-      "title_ko": "인공 지능으로 인해 '승인된' 사기가 급격히 증가합니다",
-      "url": "https://t.me/marketfeed/1084848",
-      "ts": 1795566104
-    },
     {
       "source": "MarketFeed",
       "title_en": "THE CIA AND OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE DISCOVERED A CYBER BREACH EXPOSING UNCLASSIFIED INFORMATION FROM AN OPEN-SOURCE INTELLIGENCE SYSTEM, WITH NO CLASSIFIED DATA REPORTED COMPROMISED.",
@@ -11504,6 +11490,20 @@
       "title_ko": "영국 경쟁시장청은 원칙적으로 AkzoNobel-Axalta 합병에 대한 구제책을 받아들입니다",
       "url": "https://www.streetinsider.com/Globe+Newswire/UK+Competition+and+Markets+Authority+in+principle+accepts+remedies+in+AkzoNobel-Axalta+merger/27397677.html",
       "ts": 1795592869
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "남들보다 '더 빠진' 코스피 4700선 붕괴…최악은 4000 아래",
+      "title_ko": "남들보다 '더 빠진' 코스피 4700선 붕괴…최악은 4000 아래",
+      "url": "https://www.news1.kr/finance/general-stock/6365884",
+      "ts": 1795593029
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "증시 급락에도 환율은 0.8원 상승 그쳐…1343.2원 마감(종합)",
+      "title_ko": "증시 급락에도 환율은 0.8원 상승 그쳐…1343.2원 마감(종합)",
+      "url": "https://www.news1.kr/finance/market-exr/6365885",
+      "ts": 1795593031
     }
   ]
 }
