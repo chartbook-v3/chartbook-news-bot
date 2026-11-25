@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795603901,
+  "updated_at": 1795604217,
   "id_hashes": [
-    "ba3161a5b1f004c9b5d835edef1d7f74049bdca42c9a919b599e847c8a361579",
-    "87c0b274b879497abf2a6787583cb429167931b05dd953c029bf686790bce882",
-    "c2578cd9d0a4d3a8b45d3119852d520df0eab5d83e573bd130e185d59ed9bc3a",
-    "941bc59922220e4e49f4b37eed3c9ca8e3bb66134d8f222a080e4f587c42a7f6",
-    "4ec490170396028aa25d6a33a7e6270d05950c50ef72cfd60608e53ca07c7f67",
-    "df4907da5806ce1b4fa573a893f11cc8832be674db97c21645eeb14158c99e32",
-    "d7ce2c350916db3f91211d3888fe083249c46f358234e29e923a02c19341cd08",
-    "53a2845443802a56d9be29b3a92a923e4c86b7d15d0d59bcd404d6920c980c66",
-    "3d0fce368363d012dcb68fb1ad9d6f6f668adc60a87a04cdcb27fb6809802e02",
-    "94faa3c08ba73ed6d82f10e7d03f2821c795ee2e9f2b4c0d33e57c8358dc708a",
-    "2eee37de1bda42af21bfb18281932dcfd34c024d76cb01ca51ab9ca536bb3f92",
-    "27de3073d46113bc206818f277b4676ef733a6e4477efcf1e0d8aab8e46b592c",
-    "317d286ee4275c9db6a3f349134ba2a69a2c5ba53a4cc0a80e3cd861e70fc825",
-    "007de78a7663588f19c677347c631ba029a315931ea6b3c5a0005994ddaf4193",
     "7c95e203cd2e3cc4c93a962760d2ed74790f1de97026fbee251874e32530ba7d",
     "1d3ca65091fe1230837a07215c545280053262957fbe741e237751533bfeab0a",
     "90b2337bf9c5dbeab48ae7350ae7dd869fbc1d514721a3f2e14dba282fa1b286",
@@ -4000,21 +3986,23 @@
     "1a1946f9a59af5a75b5e31ad04482282346b36a11d137e73686791a32535ce32",
     "b0ea4167e69f7ef9bd81aeba45903886dec176e7fe49760567f3cf567ee06b5c",
     "85409903b8be525b838529ef4aa2a381b61acbf5822e218f61a8d9793a97cfd0",
-    "0daa24694c418d3490bc98f3a433ea3748e747a2f24f5316a6595e944d30bcfa"
+    "0daa24694c418d3490bc98f3a433ea3748e747a2f24f5316a6595e944d30bcfa",
+    "9b01de228190bf1e020c1a7a9183dfa78d8501f89d9ad746e0380f18cb9dd38c",
+    "511df8761c1437f75fa6facfd51100c8d2e5e2f974cc1943554481da672caa23",
+    "7fe424adfe49f0b440fa5ae33351fca0cf7571893e779501b10e488de952aa2e",
+    "4c9d76a25e2602b7b7bec67c1e7cf913ffc2ecd504614140072116e2be48d020",
+    "5b9777ddcc32c9203d2facea0a124200d237f99a338880c2efb20ad60dd6e132",
+    "5824807dd1fd1207766e19238292210fcae3309124a22990f1f05c8bcb6c3d08",
+    "a630226c99f43a983b1a7f641b61c5653b81708a2b7347e1eac9a85448c72a9d",
+    "ac0ca9f1c44b4a6e0c295121bce9fca1ed4b94d71c4c61767ff5ce83dbc33e95",
+    "c3f9c042803bab9fab73e3dee2d74c8011defaa80c5159ae39141023cf32424f",
+    "f4dde0a5bec7ad1df973404271fa7661fdabd25dd2ffc4a2853b8127930059c8",
+    "abbb473d8a871340191438c3b963c7a5837c4691ea6cb59592126f0452da166a",
+    "d22b97055668272dcdcd308be83c85734a94eed46a42b99a1eeeeeb33ba145b3",
+    "3fa117b1d212236b07972032d21cec81460063504594f8d607b93abd33becc0a",
+    "8c16635d9e70d6a8a4bf3e10ef2636a932b559dbc5e45235f5b911deaddc2583"
   ],
   "title_hashes": [
-    "9dc303a337e0a546d84fc75e54be57c0c9a29d5869d37e2c6014efc20f8656a3",
-    "cf59ab0cc8451f30fb318c149b4fe0711a2612a11238389a0941fed6bbd76605",
-    "aed4393da8d20f8cea709594c3e060eee7885567ba7a7ca692157e1510b198a4",
-    "1011683149c67d50e6e938b8f7053b05f59c9cadeb3f605a6ab8561c0c863fe3",
-    "8a1602a1b74551454ff00a2a9a43461fe3d24c59bb0241a22905b2c7971c245b",
-    "457d22b823b0cb8986a584a9ab057612819d31fb54b6a9bd4b58b622572a0996",
-    "411ac0f1f9007416d69503354c24a66aecadda6964b8acdd2dac30ae5dc63017",
-    "0dbbb4c4a85e29ed253fbe622ad6d4c1fc31d34b873861d9988e4b6865679b7f",
-    "6c8f36e3caebfab04077b12e61274965dd2de6e46648769e35867dc838b2b188",
-    "b0b2b5911911edfd1b347639bf59b04ed5370fdba6a0ca17b8a9b8cbe0a94445",
-    "ed2b9c459e43bbcdd8ace15eb08380ed15a4489af196d6b44efaf9c5ac257c7d",
-    "06ff4f4250e7be7a6ba2fae9bcd232e00ec08ece9f37a26176ea9e9694316617",
     "574fb60b0177ef57881f9f11df19c7040f007a704641686eb76b1fda452536ea",
     "033e0f986ce61035647560845e0042b16849e276ebc568da96f4b8837586af3c",
     "2ef9dfe2814f98c7d7fbb046f5fb39679c61535c4cab168cc1340aedca9e0926",
@@ -8002,30 +7990,21 @@
     "14d146b0c19e1c2893e31b5043ef1d2458c1c625a0b45fa77fc1311a2459ba31",
     "9be41f3cfc0b11538badcdb7261e5fa472df390c33d1294613f52a274b968801",
     "9051f158e8f46492a67b915a886e0eb578faccc4a3e15bc58c33253bbc457942",
-    "92587a00d10d056978946c87ec09c93a016b532cf3d979fffbdd8fbed9e711a1"
+    "92587a00d10d056978946c87ec09c93a016b532cf3d979fffbdd8fbed9e711a1",
+    "aaeab3fc6b46aa62d6d8354ec097429fdf64390903dcf7e7145fb5e83cbab22f",
+    "fba7bc8ad3ef862fed33b2e5140fadf4d082f7eae32b76843e0cc9d2b134a308",
+    "ecc630421327098c335ae5fd6562d416ef273115a8449c8579bdb337469f6e11",
+    "e4a57a7fc5edb648e7adb444c8049e5bce674a7406e297829278b217ab48c6ca",
+    "38698f2390130f1afb8846e4b12d6f51a8cd54e002e758f07746c3f3f0a4b58c",
+    "f7de383f4f38aefc5240cbe2ae572814336c6acac8dec5bbb4fed30a82769621",
+    "7552ff3389faf3ebee758fce615391de8c7c7b37286883b6809c3384d740b578",
+    "b3306c6a06ade66c9a66951aa77677039525276b5dc946587945ef94daf23121",
+    "da987a6424317275f937e9ba4126c3ef1d6d7d23c2e3fd511da10df0598a6fdc",
+    "abff0c05fdcef338c17779b035d695e94eb6915ad9570d10d6bc5691e65bab05",
+    "904728c501a0dd43386a890d2d9ce46be93095fd1230e56117988a01635bc7cd",
+    "8d8145d78c89c6b3067ea8a3cb0d1afb10dbeb511db49bf94be86f138ea15e64"
   ],
   "recent_sent_articles": [
-    {
-      "source": "전기신문",
-      "title_en": "원전 공론화 첫 공개토론회…전력수급 해법 놓고 확대·감축 측 시각차",
-      "title_ko": "원전 공론화 첫 공개토론회…전력수급 해법 놓고 확대·감축 측 시각차",
-      "url": "https://www.electimes.com/news/articleView.html?idxno=375263",
-      "ts": 1795574924
-    },
-    {
-      "source": "TrendForce",
-      "title_en": "[Breaking] Samsung Grapples with HBM Base Die Crunch as Internal Demand Seen Doubling to 30K per Month in 2027",
-      "title_ko": "[속보] 삼성은 2027년에 내부 수요가 월 30K로 두 배로 증가함에 따라 HBM 베이스 다이 크런치와 씨름하고 있어",
-      "url": "https://www.trendforce.com/news/2026/11/25/breaking-samsung-grapples-with-hbm-base-die-crunch-as-internal-wafer-demand-seen-doubling-to-30k-per-month-in-2027/",
-      "ts": 1795574953
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "트럼프 \"김정은과 '러브레터' 당장이라도 재개 가능…만날 때 올 것\"",
-      "title_ko": "트럼프 \"김정은과 '러브레터' 당장이라도 재개 가능…만날 때 올 것\"",
-      "url": "https://www.news1.kr/world/usa-canada/6365475",
-      "ts": 1795575100
-    },
     {
       "source": "Bloomberg",
       "title_en": "HRT Trading Revenue Tops $21 Billion, Eclipsing Full-Year Record",
@@ -11504,6 +11483,27 @@
       "title_ko": "Nvidia는 시판 전 시장에서 다시 하락하여 기록적인 급등 이후 손실을 확대",
       "url": "https://seekingalpha.com/news/4676503-nvidia-slides-again-in-premarket-extending-losses-after-record-surge?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795603843
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Mideast IPO Slump Prompts EFG to Branch Out Into Debt Advisory",
+      "title_ko": "중동 IPO 시장 침체에 EFG, 부채 자문업으로 사업 다각화 착수",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/mideast-ipo-slump-prompts-efg-to-branch-out-into-debt-advisory",
+      "ts": 1795604095
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "KT, 협력사·지역사회 안전문화 확산 공로…고용노동부 장관상",
+      "title_ko": "KT, 협력사·지역사회 안전문화 확산 공로…고용노동부 장관상",
+      "url": "https://www.news1.kr/it-science/cc-newmedia/6366120",
+      "ts": 1795604097
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "NVIDIA (NVDA) call put ratio 1.2 calls to 1 put amid wide price movement",
+      "title_ko": "엔비디아(NVDA), 큰 변동성 속 콜/풋 비율 1.2 기록",
+      "url": "https://www.streetinsider.com/Options/NVIDIA+%28NVDA%29+call+put+ratio+1.2+calls+to+1+put+amid+wide+price+movement/27397908.html",
+      "ts": 1795604101
     }
   ]
 }
