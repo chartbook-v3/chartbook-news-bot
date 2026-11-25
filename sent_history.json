@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795593497,
+  "updated_at": 1795593659,
   "id_hashes": [
-    "2f8d944d5eca97b8e8a3276ecb8bd2c23b85c2a81b761c513f7bd01aacd3963b",
-    "9a6e5af3e63f67957a9c9ee246d4501c3783e1f041392e384e427e82963a4c25",
-    "c8af185d138675d001ad6c22e5df2bbc0cd878fabeb6217bb832320052fda3a1",
-    "0880ae40c0ab3df670ff23ba04936eebcd2bab38ff9c62de373ccb0f44130084",
-    "20b0935b084eb246c70b76f96b413f31a330efb520be54535460ae2e61b13951",
-    "fd2601f243bfe3f2e58c297ee2920549bd1a36bd7150127810da3440e298cea2",
-    "aee9b65b2facb7a235a111d2e574589cfc02a4e07ebb62bfd128ebf25340fa57",
-    "1e43031a02bf5d13d6151a8dc6a96119940017821c4407e1cde0a618139abd7a",
     "1a4fe720aa356965f00415375f9a47756de80329bca5c00781cb8e0605e0e9ac",
     "343c034d57ccbc9d288630af3c7d1f41d3d9436e9334917b95634e096018262b",
     "9a5b785e3f59eed3dae6f453dfd890e2f9016034e06b94784ffba23594614323",
@@ -4000,16 +3992,17 @@
     "570e2ec8318d775921a74e1766a75073da1c3cd951d207d927e9865723e7a394",
     "582005f1b255eb2dd9bcf2c07caea3539988ba9b57254d83091e3c1fc72b1a6e",
     "a37258105d488ea1237bdda1efda7056b1d6196be15c6742bda6fcd0646ce3fc",
-    "8d053f717683e1e0bd3c81e6641ae9a4b838359ef7c4f6d4b7d8fda7fb4face6"
+    "8d053f717683e1e0bd3c81e6641ae9a4b838359ef7c4f6d4b7d8fda7fb4face6",
+    "f8be74f984aec8b8f53c26ef1d717c2f5aabb44f6c0a0d7c291a16cac538508d",
+    "2cb96951b212c9d8afa386cb1f35ba459248f4ea0ef813551563c87d73c80786",
+    "591724defed99971dbbb83ecf50b2528bdffee2a6417b729f128a9803d768178",
+    "f0b7f75dbb89facdfaac0ff4e82c542e6de893d90abe1bd78f2c1b8cad32d7cd",
+    "886bff7d454a5b182cea8aa44936689a173642b022865b430f1c896fda5bb9fa",
+    "3d9e2c0b2822afba88e13bb724c2f0064043e92c8424a7ebe84995c869c96804",
+    "234066c87832f417152c6b5f26b5d44ba3e63268123cdf60a6bd21256381ec2a",
+    "ff71570752b5643d3246ae0dbe2c100d8c3494389bc08d695e515dbc9ca09b9c"
   ],
   "title_hashes": [
-    "c5685777164f33f7ddcb4e133527f6a50533a254b066b07a169e70acefaf3650",
-    "42da56bd8b8ac319cf9cc10c8536d49c8e1e7171a45d61af7ad4ea01138ba262",
-    "72f51d75a2951527eea9e40b16871c3de7ff2e0dca675420c3edb35373847f0f",
-    "b0e2cf97e9a41a0b26f29024647d480ee880d00175bd1f0e06310b3dc776271c",
-    "aab027a912b7fe002f68cf86999a7e670087dbfcacb101c544fb999df075cec4",
-    "bbc5ca032fdacdb5186b7b2e0f41d9195a704108940c752848a02ba8b2d575f5",
-    "a7047c43018bb79af0a0c6db751035b2dd560530abce16b12632e7f66cc6eaaa",
     "79a7804d997b83944a554e1233fe650d5cb6d0a5574df1959dd4373f8466864d",
     "aa2e6ec2db6f4d9e5d2de68f1e964aa6e0cc0af733e04d669952e92e40bf0df6",
     "e0dc341dddabd388db2b0a9e1f5ec624b8bbbaba3c3cf8d89ac31d556631811c",
@@ -8002,30 +7995,16 @@
     "f78a71f255cc4c49627fd31fc7bdd9e7ead6f53f9315282df21798d74b87b14a",
     "bad56388bc3b40b1789cfa1f8578f800c01b9cf941ea7b704534830155ac14a4",
     "a1403177b4a9578376135469b540479274365454256bc2e64e0e8bd5b2e3e334",
-    "d7b2682b7f9c071427e7f8af5c4d639a7844e6a3293917f1e6592fadaf98b46d"
+    "d7b2682b7f9c071427e7f8af5c4d639a7844e6a3293917f1e6592fadaf98b46d",
+    "7cd344942fe8e1f0f9226ea5b712ad79035af7edde36db8b10e1fa36b9321996",
+    "b83050c57761102d0cb749d937427e1026570e379eb6ec273626e02e5b9977df",
+    "ce04454fd4028b6e9f120873f59aab6d5427cf0bbfcc63463d6db467f30fc2e3",
+    "29af02dfd2f1a18d2b9d752b875fa4c70763b8895235a5c7d6d63931a1f2189d",
+    "3915fd28231eae3157c47fbfed88a8d274ff6c8a9e70da2f3211c65cc07e35cb",
+    "7da2ed08f82d2e56c4407d7806b8a2a819edce4bda4ceec806d285d8fd63099c",
+    "c3cd413c0fd9b3285c6b1807a4b40c34bb63e06faf2fb49268f3437898578e28"
   ],
   "recent_sent_articles": [
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "젠슨 황 복귀 효과 하루 만에 끝…코스피 다시 5% 급락[fn오전시황]",
-      "title_ko": "젠슨 황 복귀 효과 하루 만에 끝…코스피 다시 5% 급락[fn오전시황]",
-      "url": "https://www.fnnews.com/news/202611250921414661",
-      "ts": 1795566418
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "[특징주] 다올투자증권, 경영권 매각설에 장 초반 15%대 급등",
-      "title_ko": "[특징주] 다올투자증권, 경영권 매각설에 장 초반 15%대 급등",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/25/T2INWXS2SFHDXJL5WP5VOU4IEI/",
-      "ts": 1795566545
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "'젠슨 황 효과' 하루 만에 증발…코스피 또 매도 사이드카(상보)",
-      "title_ko": "'젠슨 황 효과' 하루 만에 증발…코스피 또 매도 사이드카(상보)",
-      "url": "https://www.news1.kr/finance/market-exr/6365100",
-      "ts": 1795566547
-    },
     {
       "source": "조선비즈",
       "title_en": "현대차그룹, 브랜드 통합 완속충전기 공개… 내년 국내 출시",
@@ -11504,6 +11483,27 @@
       "title_ko": "삼성전자 보통주 시총 1000조 붕괴…8개월 만에 최저치[핫종목](종합)",
       "url": "https://www.news1.kr/finance/market-exr/6365970",
       "ts": 1795593367
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "日本10年期国债收益率日内下行10个基点，至2.620%。",
+      "title_ko": "일본 10년만기 국채수익률은 장중 10bp 하락한 2.620%를 기록했다",
+      "url": "https://wallstreetcn.com/livenews/3205521",
+      "ts": 1795593583
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "\"삼성·SK하이닉스, 中YMTC 낸드 적층기술 일부 도입\"",
+      "title_ko": "\"삼성·SK하이닉스, 中YMTC 낸드 적층기술 일부 도입\"",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446515",
+      "ts": 1795593654
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "앤트로픽, 韓 AI 유료 시장서 두각…카드 결제액 오픈AI 1.5배",
+      "title_ko": "앤트로픽, 韓 AI 유료 시장서 두각…카드 결제액 오픈AI 1.5배",
+      "url": "https://zdnet.co.kr/view/?no=20261125165637",
+      "ts": 1795593658
     }
   ]
 }
