@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795592398,
+  "updated_at": 1795592551,
   "id_hashes": [
-    "eed1152e3d64c41da9a183c71517e2b276f2f4fbda8c4ead87527965717eafc7",
-    "c00d7c31e4a994a98c0c8f5c7f96ad328a841e35cb64f05eeac216f9e37a8285",
-    "fca0122090f3b09c300f0be18c9402d3be595525a1be22e46c6aa2b341cde272",
-    "e84142f4eff2a3f7e9baf7beb55e97489c2a54c49c8e5de36710e8a686516c98",
-    "ba409d36153ca3d83c099d25415ed17c19f8cac8c7d48587dbe0da8f83e961cf",
-    "fde98fb613e8d3881643d21611a9c8e498e8c00a2baf29d54ca6ac607d61594b",
-    "e439a8ad8f522a438b319f81075cc8998e9bb7b542edd73ff6b77aa06b084851",
-    "4a9ec70da0f83f37db76a8f89f4b9bc761605902ed99310ea8dcc036b4228cdc",
-    "13c7afb12a975fce786df7f18061400fa3190c1208278baf7a90ac208696e56d",
-    "8d29e418581d22a122315bb318894a4a406bb33984340b22d8985e07fc27e52f",
-    "3ce811b04eb15693dd5362a277390574081ec1e56b914518e5497ad2c3df52ba",
-    "cec9c22b990112e78faf71eb707dec05e073e535f7edc4de46a30f98d4c85419",
-    "f443a97bfdca7f9b4d48789c447ffb392edda38eede7c715bb87189e851e30e2",
     "d76b6524fcc424140fdb68804107a67eae7407abe3b389a03d6877f2517c0a99",
     "d3168a1a525d609f2422d44f52ddcc1e0ce37f0a9c76760fc8fe808d2da8233c",
     "bcad944ef1c87314177d81eba9341779202e12c49c0c656b5338f52f9e15726f",
@@ -4000,22 +3987,22 @@
     "d92b50148e8276a7c4efeca127bdb9b4527ee86853fc313f9464ca37da5d8afd",
     "22f37835e0e5df7c251efb0fce4f995e70dfc7a0455df2e689a615f03afbfade",
     "44d131d938f03ccda9535338a4190ee622f580f0c113b9b5d245367b88f0e417",
-    "7097cf9c46d96955f5b1d8908d68102e2210cc8d58e74ac902b6c204ff3fd5c9"
+    "7097cf9c46d96955f5b1d8908d68102e2210cc8d58e74ac902b6c204ff3fd5c9",
+    "286fab41e06426eb9608b97089233d867b1f71a3fd293bd5f11ed226bcdf276b",
+    "54f6c13492bc7cfc88bb9e5bfaa335571c8b468d8285b8a01e8050a83e68b79f",
+    "d11f5278fc0ddc358babfee5bb51313c65ff688ff091a5df9096126f1a61afde",
+    "52cb55c0b5aca4adb92e7dcbbcea835808565365e026f288976911fef938a282",
+    "77fb59501106dade94bfd89fff17298c0657d318c0501cfc3f2147695f2c7e5a",
+    "939cb29ea5398f2dc4d7eb94008e1774cbacb1c964c2e894a8ff4a754eaddcd9",
+    "a2e5e926e4ae1e89e8ae66c2789590ad0308d90d7a2c83df87cd6d3cbdb87a36",
+    "3cf7bd76a08d96764bd1ca7367fd003431fc09f9b38c3f7f8db4ea8b79a716d6",
+    "645646fd0476b447acbe7693777d5b9cab04875f4e0bfc9b8f4c9105d5de751d",
+    "2d694212d09702ef7847ebda3c55122e00acec9151fe568aad58a8feadca174d",
+    "519fdee887aa965fba95618084865888c05f21cee02e853f3984436df245d05a",
+    "8869f0e5d887323cf7a71701bccfa7f911bc3a5b894ea8412129422eb56e52e1",
+    "3827dd21ce83223dab564bd65b6eaf2dae2d63620e15d492b3f1859eb034f11a"
   ],
   "title_hashes": [
-    "445724376f79e35c34b0eb44b813366ba69e5d5ffaae3b5e7b71f3cc18d6311f",
-    "6e6f44c88a02e7501ddf627ee770517b162f69d90eb41e1b8cb47a703865e9bd",
-    "3815ca643f5e442f54cedbc459b9322039f887648e5507f23d606614a52fc989",
-    "6d7f1ca698e473ed52c5ca4e62784e76c07f0251080a3d0ed762a95f687f2818",
-    "42ef35b59ee9ff52c8cd669c5dcd4f6d48803382007742d289b52de72d84733b",
-    "b316fd550e37d015242805a1ecd277feebfab419d8a1abfc1ead333295f97bfa",
-    "ae9fa6d22f9d31d166abbb76516048109a90ae4b2a0fa9d6acf6cc276368d6c2",
-    "3abbd9ff8f581a4d97d105a223caa288e345527acfc035a2dc8a0e3ba6ae4150",
-    "ddc90ab717395cb9d908031fb706ecee2c9f2c54829cc466203d4ba909070168",
-    "dd31ed703ba4601e78a711d9edc122ad36c4b987932312cab4b4b04ff5427ce7",
-    "5f997fa609fc9f23352de24c8e79f98daf96ea39bc6ebf5881a1b8169343b4f0",
-    "1cd6526f055c768a436b2607909fb99dbea6c9d01505deb2e192a0017551b001",
-    "2995e30980496c2bbc5e38b8867c177f274c70f700a460337aadca1ec4f43063",
     "910c00dbc58f20a8f6a5f14ab21167ce5798034dd918a8c579f706a05b8daa17",
     "476455122a9fc2a24e5ea70d3a099452f02ad2dda98b2d02d38c88fdf4f8bfca",
     "8969a8c5efb561a573bb93ad5f27f6774b43919970e875514fa1d9440cd6771b",
@@ -8002,23 +7989,22 @@
     "39072a4b034b29b3ba58dc12c2bb80ebf605224cedb8e9a1c140359e21e5f330",
     "dfc81b88d19eaaeb83e052989902994116f21c06c8571a62d90bc371de76dbde",
     "05e2a0ab519ad41352cb975abc480eb1d68cfeba45900b6091601afa9a9ecc7b",
-    "01befa8dcd44d657e658e09b8ef137a4f892a6c28f4eab2dcee456ae4d3b86f4"
+    "01befa8dcd44d657e658e09b8ef137a4f892a6c28f4eab2dcee456ae4d3b86f4",
+    "d8f0a9dd8ada360cbd1537ef77fd6e5bfa3071b3a5789be2f01fcd43cd0f30dd",
+    "ffbb7dffe5c216415ab99419798813da177a581f53ecf6b684794093feb9ad8d",
+    "eb954653b162a673699efbaacbcd44f710203189988d9c21a4b8f83c3705b77f",
+    "cae6ef113ae9533e2d6259df3d6937fd1db25df48315455ec9f5b588eacdcae5",
+    "a7f7d95e6759cfe46c296ecaa81969bd525c28b194fbe916d6e5382dac8bae8c",
+    "2631add9c8760af83b1df61c41c7c6c8b09e10f1ab5280af40e3199f12d24604",
+    "3e7540e3c27c2ea6c67eafa65e1956087df9a6114434d332aad03a6390cb0a86",
+    "dd8f77e862e6cb7588e054acb295d0aca9e035b289ff7bb039224b0b0ac35100",
+    "b998304f8595d06a594110e595b6a950494702aba4b608000134cdaf75ad8274",
+    "f084db00725bbab582d205bec5258be8421336e30455f29b73510cbee0d8e93f",
+    "db603b03476d75a0ea0573340e5b9c33f9ca3df8020910c27ecf1a43e8b9e3b7",
+    "3d0ebc895c2ae231f3e04dea23c9bd4fd285ef7711b896d771f73b5e0282b9ec",
+    "d735478ad32abccd0599537c1b833dc69cabee6481c23ac7667e9ffee3f99287"
   ],
   "recent_sent_articles": [
-    {
-      "source": "매일경제",
-      "title_en": "美 ‘과잉생산 관세’ 발표 임박…한국 ‘15% 상한’ 지켜질까, 마지막 변수는?",
-      "title_ko": "美 ‘과잉생산 관세’ 발표 임박…한국 ‘15% 상한’ 지켜질까, 마지막 변수는?",
-      "url": "https://www.mk.co.kr/news/world/12217732",
-      "ts": 1795565939
-    },
-    {
-      "source": "디지털데일리",
-      "title_en": "GM도 테슬라 충전망 합류…국내 NACS 적용 차량 도입 추진",
-      "title_ko": "GM도 테슬라 충전망 합류…국내 NACS 적용 차량 도입 추진",
-      "url": "https://m.ddaily.co.kr/page/view/2026112508593566666",
-      "ts": 1795565942
-    },
     {
       "source": "Bloomberg",
       "title_en": "California Nvidia Probe to Go On After CEO’s Return, Bonta Says",
@@ -11504,6 +11490,20 @@
       "title_ko": "대한항공 \"한진칼 지배구조 변화 없다\"…호반 지분 확대에도 '자신감'",
       "url": "https://www.fnnews.com/news/202611251608071823",
       "ts": 1795592397
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "엘-에리언 \"연준, 12월 금리 인상 불가피…50bp 인상은 부적절\"",
+      "title_ko": "엘-에리언 \"연준, 12월 금리 인상 불가피…50bp 인상은 부적절\"",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446512",
+      "ts": 1795592421
+    },
+    {
+      "source": "Global Scoop",
+      "title_en": "Axelera AI in talks to raise $400 million more - IO+",
+      "title_ko": "Axelera AI, 4억 달러 추가 모금 논의 중 - IO+",
+      "url": "https://ioplus.nl/en/posts/axelera-ai-in-talks-to-raise-400-million-more-",
+      "ts": 1795592550
     }
   ]
 }
