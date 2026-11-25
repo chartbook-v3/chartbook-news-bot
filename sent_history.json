@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795605701,
+  "updated_at": 1795605859,
   "id_hashes": [
-    "aefcbbb889feeff7363b809ac344ede0ccad9fafe96b00517361a3096facfc11",
-    "76ea86a52ba38aa728997391148f73a80fc52ca5666fd7a5fff02ebac772c773",
-    "d802866cae978e8591ee4c6a61d33081179bec92fb89b3a473824ec6aae5a674",
-    "ea69d55c4998a1aaf78ecfd9e200b2724390528e1e591f315511ed46b4a19baf",
     "06f2240aba11edeb8e5cf387d60e726f767fabf8f3ee6389a7f89cfbe94e5a4b",
     "7595cac891f80195fdbdf2d4a91abf01ceb7e8efef0a64b8dd1cdf26548d1ceb",
     "99285b26bd02fde5d6dd4477649feb161c2161104f6a88faa55b07019869b9ab",
@@ -4000,13 +3996,13 @@
     "d592d741c0f9d7c7d70c1937d5a401555bfc5491d861981fdf8079c41b007a68",
     "5ed4295c1aabfae2ea2234eea362a7f302ec93ec8dba1b8ee8b505d36fbae527",
     "0aa89b87a4082c3e814b23ccad968da258ec0a88936bdf5b68563538daae6a17",
-    "a9acfbbb5665987f8ffacc5be92dfc70ebaf843fcfc11652ce43af6836d73be7"
+    "a9acfbbb5665987f8ffacc5be92dfc70ebaf843fcfc11652ce43af6836d73be7",
+    "91da03ce38172051eca7ebce18c6c3448c8e370124516177e0b8a4d288b068b0",
+    "0e8b0163c0bbb24e9a7cde81140765bc9b7bf4f9a748ac9d1ef5095e50e4eed9",
+    "8c2c63e75d19225d0ba17ec095f1a1f50493515d008e89643fa4a75709c7772c",
+    "ede8b1c6b2fc0c67b18b74ae57bd2062ca054ea944b4bd37c4fe2e19ba7a646e"
   ],
   "title_hashes": [
-    "c9beb3bb36e11876326d52fa3e090207ece40518e41d2bc384c346f65ed5f50a",
-    "77b6620d613e71e68ee1cb74daf6191ecfbffa3feed1578b206f4a68b1467cb7",
-    "4706bf2d4e83f9523140b5d1d24725e2ee8cd2e8165c31972af8b8cb0368197d",
-    "c28a183c4f12be77bc023cd570cc2c14fc87b276ee519022fbede75d2a8fe957",
     "a087a07ea551b4a9a39b498d5d7a51f83481a4f6f322ab46357715e171123b40",
     "fee0a0868c1d68d65b7620d9cbdebeacf81dad0a680f832377f169a19691653a",
     "ba47957471ce02ef08a6eed83051aded8022591fdaa040d61e987bfbb3d8323f",
@@ -8002,16 +7998,13 @@
     "fdc3a0d22620f88f775f9f73b60198387360495961e6e55546919df5ceec14d3",
     "12d570ad4bcd4bee8b57f40ef576034b1732ae7fa63293f1fdf87af1dc9871da",
     "17ab6689460cf3a6932f87ed252afaa1bc9fcb5d0938d3da3f8672e41117032c",
-    "35f2b546f57209ed5d4cf1d0477fc88604b2ee9425f542a1099eba95266924d0"
+    "35f2b546f57209ed5d4cf1d0477fc88604b2ee9425f542a1099eba95266924d0",
+    "abd195da9c0602bd2000ac70f9b499c358883d810e7db4ae5bb563e0793216db",
+    "25d5075d055811cde945b4a0416d092bd3bf611f587f6a23a973c1ea44d1e94e",
+    "017db9da80ddb14c519ca49134c5cb15683f44b29e4c39f17a3779e6b30251ab",
+    "1216582a4b308efe16858ca32609a66bb68b84b61d97fea6657e3d7db4ee48ed"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "TAIWAN SAYS IT IS CLOSELY COORDINATING WITH U.S. AND WILL SHARE UPDATES ON ANY TARIFF DEVELOPMENTS",
-      "title_ko": "대만은 미국과 긴밀히 협력하고 있으며 모든 관세 개발에 대한 업데이트를 공유할 것이라고 밝혀",
-      "url": "https://t.me/marketfeed/1084906",
-      "ts": 1795576687
-    },
     {
       "source": "MarketFeed",
       "title_en": "TAIWAN EXPECTS U.S. EXCESS CAPACITY AND FORCED LABOUR INVESTIGATIONS TO ALIGN WITH PREVIOUS NEGOTIATIONS",
@@ -11504,6 +11497,13 @@
       "title_ko": "폭스바겐 주가 6.6% 급등, 2023년 이후 최고 하루 상승폭 기록 중",
       "url": "https://t.me/marketfeed/1085068",
       "ts": 1795605638
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "What Is Going on With AMD Stock on Wednesday?",
+      "title_ko": "수요일 AMD 주식에 무슨 일이 일어나고 있나요?",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63616505/what-is-going-on-with-amd-stock-on-wednesday-4",
+      "ts": 1795605858
     }
   ]
 }
