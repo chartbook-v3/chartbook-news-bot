@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795637877,
+  "updated_at": 1795638035,
   "id_hashes": [
-    "eed30c4665603dfb4095597fdf0617d9e6ee2ed5452dac3bfe9809e8f39f7fac",
-    "37fd5e7334f88e6bf6e3341650e20d8b02183ea10c2ecb9cbb77d8f3b303f929",
-    "c4cc436640cbcb6403ee346649d3f4fdfc694c27baf37a48fc4ead822967d718",
-    "1c1947163adaa62cd98406b9b68f6b6105efd136be5af0e5706f18d13aae33ed",
-    "395030ec25cc682514f975a8f481bad06002915e2196f5997c44902dd9bfdae4",
-    "25c41f0d7433f22e59258e3c43507e6ebd2e581ab1b941a6d4151c4b56913684",
-    "689be5b2eb91ab706f47cdd27ba25de3685e6fbe0b8cd6508d9e700042e1f47f",
     "272e4efce7923bf8efcf3845db83f5573e9cc7a5ba58b308a99b38a644d96818",
     "06cf838f3471fdc8466d28b61b2aaa5158730fc8b3e7f2f16c2baaaf2535493c",
     "1f860a38b3217f3fbc9db79683597ecf18047742e7eced7e870ef2ebafe634f1",
@@ -4000,16 +3993,16 @@
     "51c9a9ceca9588e5117639f016de0fd10c7765a6fd5f38420da7b38c7590eefd",
     "1aa2b7d746bc4cb274ca8d6f396dfcde88a6199bb1735570ed58534fae8bab95",
     "5814ad5a8902553b08aeb6b575cc42783ba6144801773448b32ab773f4cf2456",
-    "2b495c46f8002a83fc3f7b87ae59531d1c28d620fba53cd3ec0a8f93a7d8ef4c"
+    "2b495c46f8002a83fc3f7b87ae59531d1c28d620fba53cd3ec0a8f93a7d8ef4c",
+    "c01dbba7ba71e82e17fb01d2447720fbe22cc6b1e1b8d3cbd92fc3be272e00a7",
+    "600d16e9e3f13dfcb9cac69608362da88b0464aaad3dd38e0b7cf0b14ef93a0e",
+    "324fe43ef46ba9055ea19683775e105e6c80727d9c96158b382617e7f28864e9",
+    "490c64f43a40515071f16c3c728662b03025e267687b66ddd982d0d19e85e176",
+    "8c3aac63057912d75875f9a82164ff692d95d459f6a6f54c6ee3dad3f73fa2b1",
+    "25ff90524b1d5bd4b9d1dfe889ae0774f4d6e865d78a40779ced7391bbd196f4",
+    "04cd71dc59e8c9ffe7ff41b58cf08aead5700e6838f665372fd2158e7094e9e1"
   ],
   "title_hashes": [
-    "fd0b0eda69a54d927ed1d77eca8e330b3650b351e9c8bce0b4153c1bf4090c76",
-    "d699ffabc404af0901c84312e5509d471ae47fa9380dfdabcec6ec4b2caee394",
-    "2aafb449325dfa2bf77ce3563ca1837fb6d96229a07ab79295709602123a295f",
-    "7307ee2403dfe4b7387c7b66ef4bdbb78db5b88999daae33b519c5879b6fcc98",
-    "00afa85b7c78bbce5ea89fcfdc16f44ae3a60143a997c8283701ef7efb1c03d1",
-    "cf64b27f323df5d03af6198cd9b41e664342d728830f4b8082212ce44517ea57",
-    "11be59f3ad292d17545aef565ee03fde6a9c4f5408935ed081d464053300901b",
     "b249a7901b29d1080acccd81948fc9ceb05cef40c6b47cc2abba0c720fc3668e",
     "a8d446b1cb293c3301442a01aa53fe0abe34a92a860329c723f56c546eb1e9a5",
     "51bda2e1ba8262f15f8ff0f9003e99ddf822fa779de42c54e266d11e1d8daba7",
@@ -8002,23 +7995,16 @@
     "995fac2db5572c84b0f29ad2727a00930c791ed115a508af918b1299bcb3aa5a",
     "86491159701078093e1da0aa418057c0c9d94e23ed875ea82ca2f6bb99186362",
     "dbdc2e7302549fd674bf592d4915824a0d3d30f0f68e937b2504926f0981ac60",
-    "e076019d19141c923bbcee49c290e1a492fae29a2390602093550f1b16da00e0"
+    "e076019d19141c923bbcee49c290e1a492fae29a2390602093550f1b16da00e0",
+    "db9210192505e21033c2744af98fe17d51e3b1ea6a224414f78d3c9c032d91e9",
+    "49136f3c35f673d4f7c8694f77c10535a886545d5f7480ada650012df9408c1a",
+    "1a0f7c3a3a35c66c80338df1510c1911b5125fbc83be54bbb80e9576bfd740a8",
+    "12be58d1e16f803e37794c20af380f4b26e79a34caf219a1a4e74e568627fc7e",
+    "0b8ab9ec985c512a7411642f42c1be863fb0292397582d58541ee90028661ff8",
+    "9106441a116906b4057cee1074e451a791672e1e8cedaf0c933b0ac7cb48e542",
+    "1b667f7a037b194bae64c735905777ddbe2cf484ef763923dc5b5eb601d9c23d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "인포스탁데일리",
-      "title_en": "크라우드스트라이크(CRWD), 지스케일러 인수…통합 보안 시너지 긍정적-신한",
-      "title_ko": "크라우드스트라이크(CRWD), 지스케일러 인수…통합 보안 시너지 긍정적-신한",
-      "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=219104",
-      "ts": 1795588284
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "China's Zhu: US 301 tariffs can be settled via negotiations with China",
-      "title_ko": "중국 주 총리 “미국 301 관세, 중국과 협상 통해 해결 가능”",
-      "url": "https://www.financialjuice.com/News/9867289/Chinas-Zhu-US-301-tariffs-can-be-settled-via-negotiations-with-China.aspx?xy=rss",
-      "ts": 1795588286
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "乌袭击俄燃料能源设施 普京：必将回应",
@@ -11504,6 +11490,20 @@
       "title_ko": "미국 인플레이션이 더욱 상승했다는 데이터가 나타난 후 금값은 1년여 만에 최저치로 하락",
       "url": "https://www.cnbc.com/2026/11/25/gold-metals-federal-reserve-inflation.html",
       "ts": 1795637876
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "The Debate Over Where Anthropic’s New Millionaires Should Donate",
+      "title_ko": "Anthropic의 새로운 백만장자가 어디에 기부해야 하는지에 대한 논쟁",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/can-anthropic-ipo-billionaires-make-good-on-philanthropy-pledges?srnd=live-events-v2",
+      "ts": 1795637906
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trump Revives Tariff Agenda With Levies on EU, China",
+      "title_ko": "트럼프, EU와 중국에 부과하는 관세 어젠다 부활",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/trump-revives-tariff-agenda-with-levies-on-eu-china-video",
+      "ts": 1795638034
     }
   ]
 }
