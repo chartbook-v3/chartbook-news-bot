@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795639576,
+  "updated_at": 1795639724,
   "id_hashes": [
-    "5fdfe3b196dda2e53693cc47afa2e17d9e4eff835bc8df1a9e9ce93dc02356e0",
-    "f4d0e86f89d3cb7a3a7c19239ecefa79b72110352aaa5075257b33936acfb62b",
     "384d22becdae0d480179fc53b502552097b88d5c16c5cb95ff02ecc1c9263f1b",
     "9e85629c17014f4b0550d1a7a75175c0120ce0a93f5b007937c6d2766892ed49",
     "4341994fbde18a03e77a415f6f5d8460e7a3bab3adbdee84a5aa98bb847d4574",
@@ -4000,12 +3998,11 @@
     "f224aab8c7a6334cdee6eadabf526a01f4e6a806ca9eab4a984d7a056fb73974",
     "f48cd774eaf15c9c7e612fbbf87c6fee1d9569a1f24a5712ea55da95a65ab25a",
     "3cad2fbe7568f13e781f4cd391e2f1d0bdc4426ca3fa498f0bf84bd75677a1dd",
-    "cea210969e316cd33f407091d7797aa3d46d8429bb1772737eca837dad7414c9"
+    "cea210969e316cd33f407091d7797aa3d46d8429bb1772737eca837dad7414c9",
+    "f84b323d87a8e29011f497dac98bb0940fd0eba024001660e0183da385c84d20",
+    "1195821a44735d93afc23189417c689b2bbf1db5ac9693b006e25b9994dc2525"
   ],
   "title_hashes": [
-    "ce72ccce3573ba6e90664288e08d4c1095c6f0918a9308542f44a010e5de56ab",
-    "c47b35614ebbd505a981b48e21fcc1ab245deaf737e7d62f298f42b878a8540a",
-    "52e17ef430bea3a18dff7f78d9a2cb460e167f5a331caa727caa23b37e0c6955",
     "ddcfb088a3133e24ded26c505daec921849bc62d824fc879b5a51d0be6d354e1",
     "d457fd727b445cbeed05377d3915310898c502d47e43e4a2eaa382015948638d",
     "01808aad53e69c70974283f086ed03004fa952e1215370e7069d15d3ee9139ef",
@@ -8002,16 +7999,12 @@
     "307e0f562653b2a2a5a886f66aafea9bed9ce2291fb6de1c2a831ae3eec7d389",
     "7e3c6e47f64d04dafdbba12ac7a3a354cc5a99936970ef1f8d9d3eedc8a2c649",
     "63e1df3ab1371126131e6a3e5e1776fa6a38ed6d73569ef40c0acbceb181ed9b",
-    "ae3fece111fffcd0f88fbd452ff64e743ecda9f0e0e5e69979fc0deba27c21c6"
+    "ae3fece111fffcd0f88fbd452ff64e743ecda9f0e0e5e69979fc0deba27c21c6",
+    "2dbfd9af7fa26264e41b441350dda3d16ffe76455746fa6d2494eeba6bf3aff1",
+    "dc695dc54c132069974c8339be625b1f43c4cfdd006ab29102c0f0ce1c5b12f5",
+    "52d6d6362f3446698e18af30734f3e1915f2abc3fcf55cbb8bb11fa2d68bfa3f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "TEHRAN UNCONCERNED BY US NAVAL BLOCKADE, IRAN'S VICE PRESIDENT AREF SAYS, TASNIM REPORTS",
-      "title_ko": "테헤란은 미 해군 봉쇄에 대해 우려하지 않는다고 이란 부통령 아레프가 말했습니다. 타스님 보고서",
-      "url": "https://t.me/marketfeed/1084971",
-      "ts": 1795588999
-    },
     {
       "source": "MarketFeed",
       "title_en": "FRANCE TO BACK DEFINING AND CRIMINALISING GENDER APARTHEID OVER RESTRICTIONS ON AFGHAN WOMEN AND GIRLS, FOREIGN MINISTER SAYS",
@@ -11504,6 +11497,13 @@
       "title_ko": "엔비디아, 주가 부진 속 2025년 3월 이후 첫 '데스크로스' 발생 임박",
       "url": "https://www.marketwatch.com/bulletins/redirect/go?g=792b6c57-7eb1-45a0-9bf0-d84258507eea&mod=mw_rss_bulletins",
       "ts": 1795639427
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "올해 마지막 금통위…금리 3.25%로 올리고 성장전망 상향할듯",
+      "title_ko": "올해 마지막 금통위…금리 3.25%로 올리고 성장전망 상향할듯",
+      "url": "https://www.yna.co.kr/view/AKR20261125128400002",
+      "ts": 1795639661
     }
   ]
 }
