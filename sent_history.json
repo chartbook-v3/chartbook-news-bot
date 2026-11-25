@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795637712,
+  "updated_at": 1795637877,
   "id_hashes": [
-    "4a5d1678bbaf0b3f45ffd374208f0caa41c7b7c3cb18ac0be37bd8758f270155",
-    "3a5b364ae6446e7643ff7a3a716191f5d48fbbe59aac56d869d235b8337f418c",
-    "02377b07a44cf31fefac8fb5345513172c145414ffe186d308217af64a703e33",
-    "5073ccea007d0796e044b6a6ccb6184a57f8715079c8559d9f766f3a663af7a2",
-    "8ecb53e8ea36fd59cd16bee047224bcc88f0b0aa61374d0f590b66e6c11f84cf",
-    "52cf8066e5f520189350d1e295e7b7d8b71af73046aff18573c7f6aa5cd94408",
     "eed30c4665603dfb4095597fdf0617d9e6ee2ed5452dac3bfe9809e8f39f7fac",
     "37fd5e7334f88e6bf6e3341650e20d8b02183ea10c2ecb9cbb77d8f3b303f929",
     "c4cc436640cbcb6403ee346649d3f4fdfc694c27baf37a48fc4ead822967d718",
@@ -4000,13 +3994,15 @@
     "a92ef3c53838eaf439e426907fe790b80b87f017df74b25c15fe5e63c31c9737",
     "94434d86bad0675cb25fd4128c8756708fc24e16db3f51c2af7f4b4e615588f8",
     "28c23c3fc870e6b8e1fb94382b2e8bd5c60b2aaf0988aeddb2d111b77daba9cb",
-    "4f279a2abd657648b4ad58af25fe898d19f53ca565cb6cc7fa47cde46183eb43"
+    "4f279a2abd657648b4ad58af25fe898d19f53ca565cb6cc7fa47cde46183eb43",
+    "e6d4d4fe6d5e6eb64fc4f51cb503b6efa7a130c5452f142218f25eb857853ed3",
+    "17f7f7c63a510852db3d6e7b9b874b1fe431b3ecd9751a0321e3cbf749d87d53",
+    "51c9a9ceca9588e5117639f016de0fd10c7765a6fd5f38420da7b38c7590eefd",
+    "1aa2b7d746bc4cb274ca8d6f396dfcde88a6199bb1735570ed58534fae8bab95",
+    "5814ad5a8902553b08aeb6b575cc42783ba6144801773448b32ab773f4cf2456",
+    "2b495c46f8002a83fc3f7b87ae59531d1c28d620fba53cd3ec0a8f93a7d8ef4c"
   ],
   "title_hashes": [
-    "0fadc576e8c8e0b95cd7894735b7dc81d40185841acc69f1c666e36b73fcdb38",
-    "f765da0cb38baf63cbe801608b0e500aa4b3e0ade7fb2d48a037f2245ca6beba",
-    "e47611136bcbf47816874b26407f502bd6af67e286e67d8a737f9e94f174b26f",
-    "de6affcfd21b652b51c5f6203b090eb4988939513fc4844ae8216c1a553c120e",
     "fd0b0eda69a54d927ed1d77eca8e330b3650b351e9c8bce0b4153c1bf4090c76",
     "d699ffabc404af0901c84312e5509d471ae47fa9380dfdabcec6ec4b2caee394",
     "2aafb449325dfa2bf77ce3563ca1837fb6d96229a07ab79295709602123a295f",
@@ -8002,23 +7998,13 @@
     "1f2d7ae5d4208b1b860bea2425955f95c6d61f83988fce957f16345638edcda0",
     "62471ee9d7349c088c3e7d58a623a2cf235df22238bf7a11875752712e652cbf",
     "f3b0154d88d5f4fd4612ebca2c9d628a8cc66fbb9d103a2e28c412a7ea5c88f3",
-    "7c4e7f4381037be17e1702abba7ba42d84a07bac6eb239cdd2d4a10830d1819f"
+    "7c4e7f4381037be17e1702abba7ba42d84a07bac6eb239cdd2d4a10830d1819f",
+    "995fac2db5572c84b0f29ad2727a00930c791ed115a508af918b1299bcb3aa5a",
+    "86491159701078093e1da0aa418057c0c9d94e23ed875ea82ca2f6bb99186362",
+    "dbdc2e7302549fd674bf592d4915824a0d3d30f0f68e937b2504926f0981ac60",
+    "e076019d19141c923bbcee49c290e1a492fae29a2390602093550f1b16da00e0"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Qualcomm awards CEO Cristiano Amon $50M long-term incentive package",
-      "title_ko": "Qualcomm, CEO Cristiano Amon에게 5천만 달러의 장기 인센티브 패키지 수여",
-      "url": "https://seekingalpha.com/news/4676428-qualcomm-awards-ceo-cristiano-amon-50m-long-term-incentive-package?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795588217
-    },
-    {
-      "source": "인포스탁데일리",
-      "title_en": "뱅크오브아메리카(BAC), 자본시장 실적 변동성 부담…낙폭 과대 매력은 부각-iM",
-      "title_ko": "뱅크오브아메리카(BAC), 자본시장 실적 변동성 부담…낙폭 과대 매력은 부각-iM",
-      "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=219103",
-      "ts": 1795588281
-    },
     {
       "source": "인포스탁데일리",
       "title_en": "크라우드스트라이크(CRWD), 지스케일러 인수…통합 보안 시너지 긍정적-신한",
@@ -11504,6 +11490,20 @@
       "title_ko": "새 의회는 배터리 스타트업을 위한 수십억 달러의 자금을 회수할 가능성이 높습니다",
       "url": "https://www.theinformation.com/newsletters/the-electric/new-congress-will-likely-restore-billions-funding-battery-startups",
       "ts": 1795637711
+    },
+    {
+      "source": "글로벌이코노믹",
+      "title_en": "AI 반도체주 급락, 키옥시아 80% 추락에 반대매매 공포",
+      "title_ko": "AI 반도체주 급락, 키옥시아 80% 추락에 반대매매 공포",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcDVGQ3luRUtrOEoyZXRZbHR5b0VVMzdaX3paaFdGSlBMNWpkQ1M0NjdlVmwtajlyVk5RQzZYRzdkV0hmelA2V0Q4WXZtSzMzNmJaeHZBcFVsME1WcjMybVBsa1pRRWkxSFNFOGpSVzhjSktJMmV6X1JKNTJ6WkQ2cVAtNFdhazhm?oc=5",
+      "ts": 1795637872
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Gold falls to more than one-year low after data shows U.S. inflation rose further",
+      "title_ko": "미국 인플레이션이 더욱 상승했다는 데이터가 나타난 후 금값은 1년여 만에 최저치로 하락",
+      "url": "https://www.cnbc.com/2026/11/25/gold-metals-federal-reserve-inflation.html",
+      "ts": 1795637876
     }
   ]
 }
