@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795597938,
+  "updated_at": 1795598103,
   "id_hashes": [
-    "5a4e3775ccd0633c432c63c785eb30898875e7aad56724173cbee413abfd3081",
-    "8d261b80e896b7927dac6afd1f919858d09100f9d972b788b3867d6c79033ae0",
-    "1ce5ba05359df01cee7160fa06a7559857a28f5d7fc09b3b9fe344838b10ab76",
-    "bff19d41e06737e9b03509c45975a72be42c15651c25abad15f3a8b4eeba9de2",
     "386d6202f9f36bab9c6d4b94f8c54bf592a3c5d0e53f415759c97329db203ce1",
     "5997344da2a75ac69b5eb52e590d0b8e1b1a0e485dc1e2b8f60720b36dbb790d",
     "c3778c5fb2ffc9befde6e0a9da383d5020d75a04f50f74cc15b124c9f572a862",
@@ -4000,13 +3996,13 @@
     "8943b4284132731359fc2fb6f9cca08e839624178cb26995c07d1527b4f90785",
     "8c2ff734806d69926b6e1fec8f7268c287baf1f68009f78f7c20624288dbb01a",
     "8d39ec2a6211a8f6a943710d9ff465fb1f0927a3bfdde048c5188a7df41dbf4b",
-    "69838d18d46fa1280259fe7cefdefa696648b671e7628cb4de12a12544daa920"
+    "69838d18d46fa1280259fe7cefdefa696648b671e7628cb4de12a12544daa920",
+    "7c53583a87b12c4d7a2668241415d0da31d34a3c1fdbcfa1aeacfad9d785e5ef",
+    "7e2d6910f292eaafe7f3fa2bf5cea5978feb6414a4816b28d5cc0a0e3bf5eb7f",
+    "874fc3605f63494e85f5cc229e4e13840c65d854253342dd7f578d8365855981",
+    "57614fd63aa1ccf377926a3465e735c56f8c7ee09c27c78e837567725a7c8c24"
   ],
   "title_hashes": [
-    "60ade3b6a0a282ec10aca5426fab39580fca7c0d936a35a07d14d1cd83857cb1",
-    "ffb202ae17b29cd4bb1a4027b1f090f73c5540d6526c333f1b654dc3d50c34da",
-    "677411ff2060bc8e178bdc784a4cbff93b0b84ff30a53cf6a1b703073d814167",
-    "06217ed849f77f705a74cfc255c51846d844e0a169a0c61cecef347d257c7e5d",
     "b94adf28e48262c8a0a9efc8afe135ab1a7d60e78940e32be31a3b384fbaa9ae",
     "a1b6f32f4fd368fe79a22827026bd4e056cc372377f8d804da9666647728fad5",
     "57863d2ab399517e64454f78d48c809bf642b3c89b3c1e37ecdc895178031d81",
@@ -8002,23 +7998,13 @@
     "060112c8c1e93c71486f9741de01eff29490968cc3218f4f8756a19c65f65060",
     "63dd5117f8d5cb98b284c3f634078caef2d0d7ca4b4a1f50f30b0bfdd25aa328",
     "181b589fd9daebd43c60585aeaefc688f0398c522404ab154ec73cdcdcb3db62",
-    "460e1db624bb99ce9f1a6fd1732319e79a9419b362a3808cbabfc50797cb15df"
+    "460e1db624bb99ce9f1a6fd1732319e79a9419b362a3808cbabfc50797cb15df",
+    "413921dbbf995c10db52d66f21141014e6462f963a48dbd8731f646aa0931d1d",
+    "868a89688b9ac7fb48c20fbeaf7bed2034b980bd7abc274a622b92b0e1e8b8bd",
+    "ab6c07ea65fbeb4ae663da9cddf90d070ad1177e1689fed6f388743dafcdb821",
+    "282cce07b20a4da7c48847bfacc18552495ac8442a774f25d8ca064791121385"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "SEMAFOR: SAUDI CROWN PRINCE MOHAMMED BIN SALMAN PLANNING US TRIP FOR DECEMBER G20 LEADERS’ SUMMIT",
-      "title_ko": "SEMAFOR: 사우디 왕세자 모하메드 빈 살만(Mohammed BIN SALMAN), 12월 G20 정상회담을 위한 미국 여행 계획",
-      "url": "https://t.me/marketfeed/1084877",
-      "ts": 1795570101
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "CSI SEMICONDUCTOR INDEX SIGNALS 2.6% DECLINE AT THE OPEN",
-      "title_ko": "CSI 반도체 지수 신호는 개장시 2.6% 하락",
-      "url": "https://t.me/marketfeed/1084878",
-      "ts": 1795570123
-    },
     {
       "source": "조선비즈",
       "title_en": "배민, 로봇 ‘딜리’로 아파트 문 앞까지 배달하는 시범 단지 선정 추진",
@@ -11504,6 +11490,20 @@
       "title_ko": "NVIDIA는 지난 세션에서 5.9% 하락한 후 프리마켓에서 4.3% 하락",
       "url": "https://t.me/marketfeed/1085029",
       "ts": 1795597818
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Malaysia's AI Ambitions Tested as US Chip Curbs Threaten Data Center Boom",
+      "title_ko": "미국 칩이 데이터 센터 붐을 위협하면서 말레이시아의 AI 야망 테스트",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/insight-with-haslinda-amin-11-25-2026-video",
+      "ts": 1795598095
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Nasdaq futures extend losses as tech stocks face renewed pressure",
+      "title_ko": "나스닥 선물은 기술주가 새로운 압력에 직면함에 따라 손실을 확대합니다",
+      "url": "https://seekingalpha.com/news/4676487-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795598102
     }
   ]
 }
