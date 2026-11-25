@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795577346,
+  "updated_at": 1795577500,
   "id_hashes": [
-    "a22e47c003433017ba91ef0f2bbd8d852b2f5a031e76e02d7597522b1cd9ed8b",
-    "dee4787ca8c39fd883217581d90dcf40b5738f36dd978790fdf4b8ce13078b3a",
-    "d6c9a727970e0af7aa5d6fc66a5eff3ba95309428d37762a6728f70270f9bea1",
-    "f0cde9ecd856d94b2bd967ca308e611125926306f3d4a60cdb9d8061b437f67b",
-    "9eaf28d1d2e8973be955df5dd2e4887235dcce84581f22b9f2a781a5f98251ea",
     "b98a7614e181e4b7305e643bdfbda4eb09efc99e332c6a6304d4993d58b6c9bd",
     "633b48b389f5a2eeff3a85f50c264430b19a8d0b49a4ead5df17a445ab111f36",
     "bbf0c5a3774293ee26b8fc505665b4cf957fcfb604c4137f3f172f17823c4f68",
@@ -4000,15 +3995,14 @@
     "b7a27b71f35d628004a240a00e1c35066f228cc6ec2d182342f684102cbbe562",
     "acc7ea50cd152fa4be2998c76d00d03cab2211b35d82883ab8c59617ae8c928f",
     "77accf75cf9f8f2102426b1af01fe5937326138db09311950f915249e37770b1",
-    "a43565d71e22ba71d6f60b7726f2eed30212daa10552776b49705369494584d7"
+    "a43565d71e22ba71d6f60b7726f2eed30212daa10552776b49705369494584d7",
+    "2beb9cb47b1f66d1f8960c512d31a8e4986db1269313ba128ae76e0457552d6c",
+    "2b2b42e24ab9c0c34519d75fccdeb26aa10c3510619010bf387e0808b9463465",
+    "d495758fd60c78c271947cce224a85de4b632749406640ba3663f06ffb5cc3cc",
+    "4e5edd7cc9b26cf5520f4b6eeda1248ac3ded6b5c6618892be06081cad0351bf",
+    "bc92f2ee3647a0be0b63331ea604979c955650758726090e7ab254385e4adc07"
   ],
   "title_hashes": [
-    "7826291e292e32414c9d95a2631581a0e77f7f7dc620b9f083c3f6c8445d5711",
-    "0762a3f075a58134da2a5397819a3c8439125f904a6675b877e31ff781de3786",
-    "f79f4be040cf5bb1cbee29fea9bd7b2e60a6785e3b9076dad1998ffc5699f2f0",
-    "de737ec8af76944bdbec99b0ed0285684460044133ad8743db425d56cd7e437f",
-    "ca3ab81edab370e811a04a6f5c5842dd15f8b52b7d346931666977bf77e0794d",
-    "f16f66e518786724aafff409f4093ec9de6c78403bffada20994b7e4cc945820",
     "a6a4cae1042e0aeaf016ce088ce1bf132aee0a075d848753a167b2765daf1260",
     "88f722b6c8800838bc5b59be81ccd50fab4e9e687e89c5e1f91d5483af4d483f",
     "767ed754ffa4857969d0eccada12ff8d1f4ef5150718db84568a840f9c79bf28",
@@ -8002,23 +7996,15 @@
     "d4744b8c083830620ba2f5e6dd6f8c5008fca38a943fdf9e8acf81241810b3dc",
     "911f6ec19ee66ca4a143e7a52f4fe627a731fd60bf5a94f94c1c85b66ad97be6",
     "720232b0f37afd217a8477ac91c27b0395fcc093a0bb001ec496c1423fc68bd1",
-    "63558ea6d67eb87e177d6f35e01bd8dcd00e6b9802265b44864c9eb22fa38b8e"
+    "63558ea6d67eb87e177d6f35e01bd8dcd00e6b9802265b44864c9eb22fa38b8e",
+    "5f875bd819d19cfef88907831167ed261d3a98e2a664b43788620dbec02f05c8",
+    "529f6e3e198a5d1b2d62fb6aca5013dd3c70a99c88e078a39b29d4829a9643a5",
+    "1fe805b81348d91e6c0493832109c740248616f5f9bafeb5382993ad301550a0",
+    "cc1396910f39df49e98e75a7ca11e259e76076debf88f0267086f1a22dcfdf00",
+    "f7299211dc6809a9854c28ae646fe4e1d0470f90dc70be6316350752a15d2159",
+    "a1d3b6d62485579e4b1c0de19c42f8510ead83f9a77d95dd88788ea03c3ffe4f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Nikkei Asia",
-      "title_en": "Jensen Huang's return to Nvidia tests America's AI strategy",
-      "title_ko": "Jensen Huang의 Nvidia 복귀로 미국의 AI 전략 테스트",
-      "url": "https://asia.nikkei.com/opinion/jensen-huang-s-return-to-nvidia-tests-america-s-ai-strategy",
-      "ts": 1795551317
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "IRGC Navy: A fourth oil tanker exploded after striking a sea mine east of the Strait of Hormuz, other vessels turned back amid warnings over unauthorized routes - Press TV",
-      "title_ko": "IRGC 해군: 네 번째 유조선이 호르무즈 해협 동쪽의 해저 기뢰를 공격한 후 폭발했고, 다른 선박들은 승인되지 않은 항로에 대한 경고를 받고 회항했습니다. - Press TV",
-      "url": "https://www.financialjuice.com/News/9866661/IRGC-Navy-A-fourth-oil-tanker-exploded-after-striking-a-sea-mine-east-of-the-Strait-of-Hormuz-other-vessels-turned-back-amid-warnings-over-unauthorized-routes---Press-TV.aspx?xy=rss",
-      "ts": 1795551438
-    },
     {
       "source": "Bloomberg",
       "title_en": "Huang to Testify Publicly Before Senators Dec. 3",
@@ -11504,6 +11490,20 @@
       "title_ko": "북한, 스위스 대표 추방, 제재 문제로 외교부 폐쇄",
       "url": "https://www.reuters.com/business/aerospace-defense/north-korea-expels-swiss-representative-closes-diplomatic-office-over-sanctions-2026-11-25/",
       "ts": 1795577345
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "공정위 '부당 고객유인' 심의에…CJ프레시웨이 \"사실 아냐\" 반박",
+      "title_ko": "공정위 '부당 고객유인' 심의에…CJ프레시웨이 \"사실 아냐\" 반박",
+      "url": "https://www.news1.kr/industry/distribution/6365490",
+      "ts": 1795577366
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Goldman says US data center boom through 2028 will lift power and gas demand",
+      "title_ko": "골드만삭스는 2028년까지 미국 데이터센터 붐으로 전력과 가스 수요가 늘어날 것이라고 말했다",
+      "url": "https://www.reuters.com/business/energy/goldman-says-us-data-center-boom-through-2028-will-lift-power-gas-demand-2026-11-25/",
+      "ts": 1795577499
     }
   ]
 }
