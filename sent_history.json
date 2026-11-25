@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795602016,
+  "updated_at": 1795602179,
   "id_hashes": [
-    "8068d5e41ba379cdee781b72b4ceda10dc8cb2c79eac446d78f8d08be291d6ba",
-    "6b2c63cb506493248b02ead27c964dbea412d0c5d009ae1462a1a424b0f9ed5b",
-    "67894f5f1c6e74f0ac3979e2d8e66eadc5a70c4a20e87d17fd06e6f9af32446b",
-    "86ac0b9f47973262be505cc2910db38b3434e72cc685691325d20d8cbde4042c",
-    "46eb356f0ce0d0702519c349a864f134aafcd0a27714ccc892456c621039ec84",
-    "0258c10d31fae764ca34d359f6ee62421d936259518b0510127098fb84a74bd2",
-    "b622f9fa530e612e185aaed8d58be2b732703f12670a85f9d7b04b05134a987f",
-    "7a6b084da4bf3ebc0145081aa2497124a6b33594c2a256112bc913352a6ee8b9",
-    "5b453e15e318baf0c165334a8a153c0fb2a4bbfb29bfed92425d147928fafe5e",
-    "eae17a96eaf93f09454e4b1d2508a22b582c3e54ec91b04ff28e0924c977e4a2",
-    "e1c049999c992f8d0773567b431bd66098529185eba357a9781f3f2530f36e86",
-    "1301699d4aef1a360ce48b9e76944cfd67ad93d22b41e46275ca597a3850d558",
     "604020044e57dec5a8a5363934b467e209210245e4d42754a0217ac6299617ca",
     "5c7338d1fbea38ad78b8da9e20216a927a0d2abb92956a132234df79810c6606",
     "4ec0555d22f2418758661e586658bbbd257be2b62b269dcb518a119247b41898",
@@ -4000,19 +3988,21 @@
     "0f7f8c3e2ca61d4a4efe23956d41b4ae2484d4605e182822b34ba6639a7cffd8",
     "b832069cb2a61e11361d3e39140ce2dab7efa46cc2185dff28c2cee59d2f9a39",
     "897403d220d62a26c9e81e6794f8236e72e9b5be7e7b96db006a64fdc63442fb",
-    "c81e266c9ca5da5938271eb7fda1dcadf286280ec3b2ae288b72a837e2f192b8"
+    "c81e266c9ca5da5938271eb7fda1dcadf286280ec3b2ae288b72a837e2f192b8",
+    "4965a296842ef01842bcac22407419c2a0ce3bc6fde862d6faccdad151d85a8b",
+    "7a60617c1285fb4d268d4ef871fe7497c941a1241affc6ecfb3668574e1d7288",
+    "b357c73abdb75b053ed97308d768f9c0b7367470ecc20d6d2c470bbef08a5445",
+    "3af42ed831165b8797a023274ccb7f3dec3b19f6044419796e93eeae292c9d93",
+    "3119d440c93ac43bb1280cf73b636562758f84e9616e4d4fb21d4c555fb86358",
+    "5afe3da02064ead0846505d2b4219096baccd59a4bab62dd4ac16f5b6617d627",
+    "abd3b2078240a110337b360a1a7f1da18fbc8125dbbaa2995c8a6525f259ee3e",
+    "c5576efc11a36b4f3f71d143809e2b18a8b99ab800f0770ba6e51a6f91e8f32d",
+    "eede6dc8cf9738fa76b5ad2610cc675cd2ef1212512f949f4ec735be78f3f539",
+    "eaf3d5c87f0f3c39422a0f6532e6210be31c49eb87b5434e49c3665c767f9a7c",
+    "568313cc3d9cf55cfaa78cd184d0b9123563ade1ffcf36ab51c82b641f2b2b21",
+    "966d9dc3fa7b088e85f597a8da613b092e927fb48a72eea549e2dadb130302de"
   ],
   "title_hashes": [
-    "473ebce4cc4051f4b7a4b4a131709275283c0a53940c5695a1828339a1f688af",
-    "57a6522350e9b8968bfb12b75f09a96d572ae568387bbea61fb8f9e564328555",
-    "cbb6029915e08f1565abb34a509f05660746280ac8e01d0869c05b49942b24b2",
-    "4aea88ddb10fab8fc9c1dbedffd5cc55e8dd97df0f14ce0a94ee392840f22281",
-    "89be95cf53d39cec327c5c06b64eab9dda27df028daeae15bb8d67dbbf6ca189",
-    "07f304052514f05917abe09599d9fd7fd9928507f8553e026db42e2f9cd86e65",
-    "5371121dbdcbbe95c203fb6a50163590fa580797d4b4f1df1d426159565d22f0",
-    "c2e2cdbb716c77198cf4f166c9236f8cf50b458c30f622159802090896f1fcbe",
-    "9853249467c4435dbe927dd574018e058825ccd94f1655ff3c8c8ba74c42fec1",
-    "7c4b6117fcc6215587a761cf0b9e0a0e35d915f996d858b65a5e72989e478feb",
     "f1c3283ac4ec44258f4a127b5b8a4c6934d6003d9ee51602c4adc68fb7f427ec",
     "79432cf8837585f8c90da50f1eadc2ff6672b5c32ecabd459dc3c6202d594d32",
     "400a8b4d1afff153e6d1b803d9b507236ef5ff48abd2340cf2a6984119fe491e",
@@ -8002,23 +7992,19 @@
     "5980a4c2953e54a40dbb054f66ccc6bfec2cd3588113e80407546ee7e524f8f1",
     "eb86ac3a2aafb470fa419bb073427dd61695790199e9ccbc00cd85e3b48cc714",
     "ef17befb3318879d8279a9000117f72d1185fd54c7a170e7f638b967d62baafe",
-    "cb0f8d1ca5e81b365f93e4643d146b424d446743c26f483c498e884cf1300b20"
+    "cb0f8d1ca5e81b365f93e4643d146b424d446743c26f483c498e884cf1300b20",
+    "f4ab2c0216590879259095da1965de170d9ea95c7141e9775f237d1064f18a1d",
+    "4d4feabde802e35fd863e8274f9da0c8b771f2522811aaea48ac66b13633ef9d",
+    "948d2e7e61471587854ede034ddb86af31d04329b2a18fbb1b33f34898b27159",
+    "1f5429167f26bdd976f4f36aca0a555885e23996327ec2ba93704112a8c43f34",
+    "3b7d8dfaed74cc55e6f3f76ed2be151e79404ae3834e87e52ab5200552bde4c3",
+    "ff2156df8e49116cdb893dd09d035924c99dcc72103bdc5e69800f3af3a042fe",
+    "0f500bedae8cef44e26e3c602c3b870cc374b34ca962395ca276a23c1e6c5326",
+    "1136d2e031624b39c2c6281e4333b74a6a07d24d1a950a70fda965383185fd4a",
+    "97ab5f09b92cb9d763e9688d28609f5e6b1f31ba8e53adf64fb59d3217f8ff2b",
+    "474affc4847e72eb532ed1bb90112b6518a5ef257f859f06d6b57f4550b711eb"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "U.S. STOCK FUTURES DECLINE, WITH NASDAQ DOWN 1.1% AND S&P 500 OFF 0.6%",
-      "title_ko": "미국 주식 선물은 나스닥이 1.1% 하락하고 S&P 500이 0.6% 하락하면서 하락",
-      "url": "https://t.me/marketfeed/1084895",
-      "ts": 1795573543
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "EUROPEAN STOCK FUTURES EDGE HIGHER, WITH EURO STOXX 50 UP 0.3%",
-      "title_ko": "유럽 ​​주식 선물 상승, EURO STOXX 50 0.3% 상승",
-      "url": "https://t.me/marketfeed/1084896",
-      "ts": 1795573570
-    },
     {
       "source": "MarketFeed",
       "title_en": "INDONESIA'S CURRENCY FALLS TO A RECORD-LOW LEVEL OF 18,250 PER DOLLAR",
@@ -11504,6 +11490,20 @@
       "title_ko": "나스닥 선물, 미국 관세 우려 재점화에 2%대 급락…물가 지표 대기",
       "url": "https://www.streetinsider.com/Reuters/Nasdaq+futures+slide+over+2%25+on+fresh+US+tariff+concerns%3B+inflation+data+in+focus/27397793.html",
       "ts": 1795601778
+    },
+    {
+      "source": "MarketWatch",
+      "title_en": "Futures point to ugly Wall Street start, with Nasdaq seen down 2%: live updates",
+      "title_ko": "선물은 추악한 월스트리트 시작을 가리키며 나스닥은 2% 하락했습니다: 실시간 업데이트",
+      "url": "https://www.marketwatch.com/bulletins/redirect/go?g=4d73bd15-7732-4d31-90bf-98c7697e1199&mod=mw_rss_bulletins",
+      "ts": 1795602176
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "CHINA ENERGY ENGINEERING SAYS UNIT WON BID WORTH 5.6 BLN YUAN FOR COAL POWER PROJECT",
+      "title_ko": "중국에너지건설, 56억 위안 규모 석탄 화력 발전 프로젝트 수주",
+      "url": "https://t.me/marketfeed/1085045",
+      "ts": 1795602178
     }
   ]
 }
