@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795638647,
+  "updated_at": 1795638799,
   "id_hashes": [
-    "49faa8cfdee15114d3fb82bf2b4738024df6014c8e09f06d0086745a3c0aeade",
-    "fbb32ba68ae8689c3395e0565370309fa3aa70d723d0e8ec157dc9277fcd142d",
     "3d52be49c9c6b7393ef193067251e7bc2e888a2048f8d6983c5f53a165b13b4d",
     "73e4b2eb8f4a5054448e3bbeb169941e55d449baffaaddb87e46a57f840b89e8",
     "2a5a6ad762b532ab7316c04d24c81ba491a0cbfb6a338e08dabdbb69237e07b5",
@@ -4000,11 +3998,11 @@
     "a6f37c5e91a3202e20e7d6d9661d615d5cdb0c693347b5fb63251b91d8ed3a2d",
     "d0c2844054742a450d8017d3d7924ab0fb7a591d9adc526925c18eaf3020f6c8",
     "be6566848dca08260a0b779f7915ea2d6ab2da7afe9f775761b7f053a6302a77",
-    "c74fae5de7306678b2e5ef362f65deadcdcb63f04761c8c6a52f33b076dc557f"
+    "c74fae5de7306678b2e5ef362f65deadcdcb63f04761c8c6a52f33b076dc557f",
+    "9aeace71507cef421fbe374c5d827d53530aff0487a4e629f1f4816b3a473207",
+    "d5a0e87eaaf899d6db9d1950d6ed551a3d703f63567622f7026f3f6b021f59de"
   ],
   "title_hashes": [
-    "9302b3f0b6ceddfefc1490bf151d32bcda7419416897b1ec5e0dedc1c8664ab7",
-    "437e8faae32a110587e961bd3d607b89ef7b2d121266822c9c5fd136831f73cd",
     "a1c51f42dace007fb15bb76bcad5f4abeb8c3370a6ceff2423201fe77746c873",
     "82149641e1a6c9220606eb33a7a5d6168e685be79de48f67856c05464fb7cda3",
     "080a218b01acdb05a69ac2648ccbec7e32c6cc8e807be0999fc932e1c3c71b8d",
@@ -8002,23 +8000,11 @@
     "d3a192afe6225fb0e4f52d424c14dd425a395417768d49940f5392c9a9d3a35d",
     "4663aadbefe9d6e664430702060dec8ff06057e7d4968f250db27521a900b991",
     "1ea186c3c0211e6e7acffe536da73762aacaee85e2834579ac9145f5448126da",
-    "23c91807adf6d089ed859e560cfeb220388cdefd93329f2d72ff89bf7e7b5a36"
+    "23c91807adf6d089ed859e560cfeb220388cdefd93329f2d72ff89bf7e7b5a36",
+    "8bd8776a97d223c5f5b68bff7d2ba85a9ce2c9c0d6651144d46464540d6f41e8",
+    "69507667563f9508a0bf37b834f351cd450d36591e1e9690188dade3fe35d1ea"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "KOSPI PLUNGES 6.16% TO RECORD ITS WEAKEST CLOSING LEVEL SINCE JANUARY 13",
-      "title_ko": "코스피는 6.16% 급락해 1월 13일 이후 가장 약한 마감 수준을 기록",
-      "url": "https://t.me/marketfeed/1084970",
-      "ts": 1795588682
-    },
-    {
-      "source": "아시아경제",
-      "title_en": "원·달러 환율, 0.8원 오른 1343.2원(오후 3시30분)",
-      "title_ko": "원·달러 환율, 0.8원 오른 1343.2원(오후 3시30분)",
-      "url": "https://www.asiae.co.kr/article/2026112515363125699",
-      "ts": 1795588746
-    },
     {
       "source": "연합인포맥스",
       "title_en": "[월가 톡톡] 젠슨 황 사임에 사표 던진 엔비디아 직원…\"너무 성급했나\"",
@@ -11504,6 +11490,20 @@
       "title_ko": "Nvidia 주식 급등의 큰 점수에 대한 소문은 거래 기록에 의해 뒷받침되지 않습니다",
       "url": "https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html",
       "ts": 1795638584
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "SAUDI-LED COALITION SAYS AIR DEFENSES INTERCEPTED HOUTHI CRUISE MISSILE HEADED WESTWARD",
+      "title_ko": "사우디 주도 연합군, 서쪽으로 향하던 후티 반군 순항미사일 요격 성공",
+      "url": "https://t.me/marketfeed/1085466",
+      "ts": 1795638670
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+      "title_ko": "Vance는 Jensen Huang이 DOJ의 조사를 받고 있지 않다는 것을 확신했다고 전해",
+      "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
+      "ts": 1795638798
     }
   ]
 }
