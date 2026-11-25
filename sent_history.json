@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795640037,
+  "updated_at": 1795640197,
   "id_hashes": [
-    "cbe67761a3db9e5819205924bae0bf1957519d58fadb1a9df8288a9e2813cfcc",
-    "edaa30720a4d290b18ed0daca2e4fbb4f8165bb17bf3cf5b8e6291a5f7377fc4",
-    "29979fea3bf20856f0a0f60c1238bf6f46baae40089e7fe3c63c68bec4e0e9ef",
-    "8e696f7a2bf25d6620edcad32ee253d5c489021e05ba6ed7fff60c8d5aaf8247",
-    "0d5b5852691548a407399fa036547835bb8295d70398a07000f3f8818bdad0a8",
-    "eb2dc58409f7ec83d6bcf3ee9f657a83b39d1b20e4017cb2f4fb323cd29dc080",
-    "2447acaa4b4019b47d9a6641a47d24bcaa6324405fdb2c390497c0780e261dda",
     "eaee5586f1940bbab2164a9330244e3d23cef577f1c3217bdb6c918f95bb21b5",
     "5df8019cd21b72866c92bd26acd6a3ffb3a4a600c401bb51341b667fdc2bf4a8",
     "615e384ed51727ee4e44f5616ab846289019a19c5a037bd34b3d0652e5d92557",
@@ -4000,16 +3993,16 @@
     "1c7bbcee76a76b646eb0d06e8b63fa798c7c988a126c45a0473550100cabadd1",
     "2f9eaae438bdda0503dda45eba7ca881483c6ead2e2c498fc3eeec22f69470d6",
     "57b0332fd41ab77d12117b8e6adf1397ec03003cf94f9a068e5b6e96b73a4f37",
-    "a1604bdac7c833c5086f4da3fcce2d866e55fbb1664e3f078466c4932297eced"
+    "a1604bdac7c833c5086f4da3fcce2d866e55fbb1664e3f078466c4932297eced",
+    "3042e3f41745cb6bc278ad517bc6b2af0a68469825cbd53c64d89f22a8f15522",
+    "e893201e3d0c71043c6bcd8acc1053e5fd1d407104bf63201836da91f60912c4",
+    "df5a0e9481eef2b2d674dcf5bd4d7e7f14badec01695e33ebca243f871b9553d",
+    "324adadb76b526e85d7aa1a29141a71b3a3e05cc9bc24402ecb420af5ef5cb43",
+    "c46d0067aa84c40a704f26844d4d585c0bb408ed35c7574dd5d4ac058a13c2e4",
+    "696b9bb00635451c5ed018d7f10bd7199dd4bd006ac397fe8b5a0ff1eb9c92e3",
+    "bd5799d6a9a8833b1f22c34fc51fdea837796ccab09616b8efaab4e6df037dfd"
   ],
   "title_hashes": [
-    "6c857c97fd313e9a8b67d1bb71e6c502b1fea507d4a2b57d6ef015a16f8967bb",
-    "89b78bac65b42f8583aaead2156248db4daeaffbe22d0125a4eb06c794d357d1",
-    "bafbd26761aa0539ebad92ba74e51d8f058d7aec3b74cda8ca0fae7b7de41725",
-    "7708ad47164def00cf4f33476075ab21b6c3587c41b97cdffedc9ec0e6ee8c6c",
-    "217b85b8fa2d90f98e63b6ee7a82ccd153089e7763bee7393c43ab304db33b54",
-    "b6886cb0031a7aac39cad169ca5fbb32aa9fbd9e8432af38f1f958661651e9cf",
-    "31bf2b98274897a6e6b544c6f8c6e254a40e4dfb14e316baba08a060b04f68df",
     "46960059992618b508206edded33605be27e8876bce70c3359d001935fe4522e",
     "375291efcb1ceb9b03ce724de327b49ddf30351e9fdeb01198bcefebec534b6f",
     "fb59429df1f7f8b765c337ebdc19358cd77add9ea0320b266aff8fe406c16fc8",
@@ -8002,30 +7995,16 @@
     "f050225f145a2bdc57e1531a5c0f4cc6472ef99a5487e0d3c16486d011c6434d",
     "628939779ded904eff7bfdfba411114b192ff6abf18650fd7c65d6b4dfe611d3",
     "6783297eaa324d39cbb7ea4ad6245b691a3092e62dc7617f3ddf4d81bf79ac96",
-    "f5714868978848e404f9153e60f14b247f7a9e5796d2f65eeeaeb640836c2b94"
+    "f5714868978848e404f9153e60f14b247f7a9e5796d2f65eeeaeb640836c2b94",
+    "1948bfa93dbfd37b79a64b9d9428b3877d96f74d405d56c0644b05561ed51503",
+    "201cbeca90a2cef98fbf31bd2dcace54294563e037590881789f2bfd5d4996e7",
+    "28fdbcf5ea96174567ccb310c07c6402e06814f13b91ebb890ad97f0ce730725",
+    "31b935b0f60558d0b9aa2aea03a5603eedb488bb51787274986c09b702b49b51",
+    "9fd47056d1634377df63d0c1743314ad2e224e615d6c55e9f6d8261089c383b1",
+    "ed7f9713d2499abd44c9486f925844d7278417e1ad1fb35febaa3106a3ac0c87",
+    "12db7e3078e4202a9de5da81c44c118a785cb1abd747a98aaa04ec5a95cddeb1"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "CHINA-PAKISTAN JOINT ASTRONAUT MISSION DEMONSTRATES LONGSTANDING TIES BETWEEN THE TWO COUNTRIES, XI SAYS",
-      "title_ko": "중국-파키스탄 공동 우주 비행사 임무는 양국 간의 오랜 유대 관계를 입증한다고 XI는 말합니다",
-      "url": "https://t.me/marketfeed/1084976",
-      "ts": 1795589216
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "XI: CHINA TO STRENGTHEN SPACE COOPERATION WITH PAKISTAN AND OTHER COUNTRIES, CHAMPION PEACEFUL USE OF SPACE",
-      "title_ko": "XI: 중국, 파키스탄 및 기타 국가와의 우주 협력 강화, 평화로운 우주 사용 ​​옹호",
-      "url": "https://t.me/marketfeed/1084977",
-      "ts": 1795589218
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "CHINA TO DEEPEN INTERNATIONAL SPACE PARTNERSHIPS AND SUPPORT PEACEFUL SPACE EXPLORATION, XI SAYS, XINHUA REPORTS",
-      "title_ko": "중국, 국제 우주 파트너십을 심화하고 평화로운 우주 탐사 지원",
-      "url": "https://t.me/marketfeed/1084978",
-      "ts": 1795589221
-    },
     {
       "source": "MarketFeed",
       "title_en": "SAMSUNG DISPLAY SECURES 9.1% HOLDING IN AMS OSRAM, ACCORDING TO YONHAP",
@@ -11504,6 +11483,27 @@
       "title_ko": "TD 은행은 캐나다 은행이 12월에 금리를 인상할 것으로 예상하고 있어",
       "url": "https://wallstreetcn.com/livenews/3205923",
       "ts": 1795640036
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Zelenskyy Eyes New Congress If Trump Can’t Push Putin to Peace",
+      "title_ko": "젤렌스키 \"트럼프, 푸틴 평화 협상 실패 시 새 의회와 협력 모색\"",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/zelenskyy-eyes-congress-if-no-peace-by-end-of-year-video",
+      "ts": 1795640124
+    },
+    {
+      "source": "이데일리",
+      "title_en": "[美특징주]애브비, 신약 성장·주주환원에 추가 상승 여력 ‘주목’",
+      "title_ko": "[美특징주]애브비, 신약 성장·주주환원에 추가 상승 여력 ‘주목’",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01220166645649656&mediaCodeNo=257",
+      "ts": 1795640192
+    },
+    {
+      "source": "이데일리",
+      "title_en": "[美특징주]엔비디아, 美 대중국 AI 반도체 규제 강화에 GPU 매물 급증",
+      "title_ko": "[美특징주]엔비디아, 美 대중국 AI 반도체 규제 강화에 GPU 매물 급증",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01230006645649656&mediaCodeNo=257",
+      "ts": 1795640196
     }
   ]
 }
