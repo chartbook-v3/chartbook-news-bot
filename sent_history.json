@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795602179,
+  "updated_at": 1795602335,
   "id_hashes": [
-    "604020044e57dec5a8a5363934b467e209210245e4d42754a0217ac6299617ca",
-    "5c7338d1fbea38ad78b8da9e20216a927a0d2abb92956a132234df79810c6606",
-    "4ec0555d22f2418758661e586658bbbd257be2b62b269dcb518a119247b41898",
-    "447472ec7004b68b5ced101116750429f8fa74da6ac5bb3e46a450849fa1b59f",
     "6c6872cfb8aadae35e8132e2e1ab2ed1c83b52d6bb52531a1294038a21e4b3aa",
     "522878e445aa386061cefc4ace9b9725a9a26fc904dc9913260e8a0dec24cc9c",
     "2a1f18ce83943963b639dfb24d3f0990b0cc8de14f3e21c348802c6f9acfd9bd",
@@ -4000,13 +3996,13 @@
     "eede6dc8cf9738fa76b5ad2610cc675cd2ef1212512f949f4ec735be78f3f539",
     "eaf3d5c87f0f3c39422a0f6532e6210be31c49eb87b5434e49c3665c767f9a7c",
     "568313cc3d9cf55cfaa78cd184d0b9123563ade1ffcf36ab51c82b641f2b2b21",
-    "966d9dc3fa7b088e85f597a8da613b092e927fb48a72eea549e2dadb130302de"
+    "966d9dc3fa7b088e85f597a8da613b092e927fb48a72eea549e2dadb130302de",
+    "401b850a6faf5dc37c876fd5a33055c87bc78f7d684765e735b55148314a8813",
+    "d8895005dd53038cbdbf71b73033f28c0d5c85da42daf28d31cddc80cd2aca59",
+    "c90fb38b1b8b49109644a68d3ab004b8bc560b5c560e13e5fd8cf6f634a95e17",
+    "50a55f55406adaaa328f2b6d4b1ff3d3938a3424630d66a940d8694438c158b8"
   ],
   "title_hashes": [
-    "f1c3283ac4ec44258f4a127b5b8a4c6934d6003d9ee51602c4adc68fb7f427ec",
-    "79432cf8837585f8c90da50f1eadc2ff6672b5c32ecabd459dc3c6202d594d32",
-    "400a8b4d1afff153e6d1b803d9b507236ef5ff48abd2340cf2a6984119fe491e",
-    "bce5fe3f6700d68e349e78f07a8e6824a79847a5570dce9a5413c296aa8eedca",
     "dbb21665b4f93c070d11270783c7cd8423c22803cb2cdff049dfeb5e23b02e0f",
     "8680aabed4dbba111cdd95b50853c29292ce9b201a5e43f4db5e4cff5305d253",
     "0f8341fc4407b8bddfbf4c039dcc2eae0af01555b0ae0a64390112e6ab000a16",
@@ -8002,16 +7998,13 @@
     "0f500bedae8cef44e26e3c602c3b870cc374b34ca962395ca276a23c1e6c5326",
     "1136d2e031624b39c2c6281e4333b74a6a07d24d1a950a70fda965383185fd4a",
     "97ab5f09b92cb9d763e9688d28609f5e6b1f31ba8e53adf64fb59d3217f8ff2b",
-    "474affc4847e72eb532ed1bb90112b6518a5ef257f859f06d6b57f4550b711eb"
+    "474affc4847e72eb532ed1bb90112b6518a5ef257f859f06d6b57f4550b711eb",
+    "09cdaaeb24586f79bbaaef584e138eaf631aa8936a7b6b5cc7cf5a5c76580a7f",
+    "3048eaf428fc42733a18022c1e98aa5c1f02bc57025196ad8578559beba466ed",
+    "9cd5660601c8ebec80c3d03a29fb51b58a7a878baccbd0bcab184aafc3c3d876",
+    "c3265b874835e575b3b9a8346f9902a033ee1a0280a83d2bdadb1344dc6903dc"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "INDONESIA'S CURRENCY FALLS TO A RECORD-LOW LEVEL OF 18,250 PER DOLLAR",
-      "title_ko": "인도네시아 통화 가치는 달러당 18,250달러로 사상 최저 수준으로 떨어졌습니다",
-      "url": "https://t.me/marketfeed/1084897",
-      "ts": 1795573782
-    },
     {
       "source": "연합인포맥스",
       "title_en": "내일 인상 유력 속 外人 왜 이렇게 살까…\"벌써 금리인하 보나\" 물어보니",
@@ -11504,6 +11497,13 @@
       "title_ko": "중국에너지건설, 56억 위안 규모 석탄 화력 발전 프로젝트 수주",
       "url": "https://t.me/marketfeed/1085045",
       "ts": 1795602178
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Intel Wasn't an 'Outlier' in PC Slump, Says Patrick Moorhead, as Dell, AMD, Lenovo and HP Reports Echo In",
+      "title_ko": "패트릭 무어헤드 \"인텔 PC 부진은 예외 아냐…델·AMD·레노버·HP 실적도 동반 하락\"",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63615676/intel-wasnt-an-outlier-in-pc-slump-says-patrick-moorhead-as-dell-amd-lenovo-and-hp-reports-echo-industry-weakness-good-news-is-that",
+      "ts": 1795602208
     }
   ]
 }
