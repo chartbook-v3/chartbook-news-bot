@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795608937,
+  "updated_at": 1795609107,
   "id_hashes": [
-    "38447301eaef7f0c0e24cbcb662a84ff4e161e4c5ec00be5ca3a06c461c8b895",
-    "2b98d15b515c4d9cfe162ac7a9feef8a33a89297134cba6df18273544cbaf212",
-    "6416861de3978d3ba33ab9e00f6ba305e3fbbb11cd19b9c5441b8d1b73a8b0f7",
-    "c9935e62b86767c98706b278d97e1f9f683dc79c9be8213d251e0560bf0a89e1",
-    "555496e0f4f303d24adc74650a1a2155c6f933f00db32a645d6c48129d6fb473",
-    "b17825689b7c99bc57b9a867be809c654e573ef474ca928390515a546bca3b16",
-    "2f03b81c684dc3b882bc8bef3ac343f22ce7d539d9ed30be002da6af6793bea5",
-    "fd2fee7bb87efad3c00db3f776793482ebd2881450e96623925f115925d2f752",
-    "9b36681e63388a100aa49b86aa3fd86c862252edf5bf7cf8aa870f9e78aec7e9",
-    "09377d3bed982fe7a6fdd8589e79da1c290c524d6e60405bb1bb75bfefa65e8c",
-    "20553b889f4ee5497ce744b38479bf1b98de0586383bc84d98a164e04d917931",
-    "2c69b6fbf853504e0bedb65fcbb8804fa39fb3a70de34a2ef1db2da59fda60fe",
     "a8966d2d73ab549c030a71c1112d30a0d62162a9776d01d5da657adac148c2d2",
     "c43f45e7b3b6ae31ed109b851da82b0f175241f858331db1fb237786288e3643",
     "17befbe8e9fbd50cab207ed6c89f69dc83164696d5689489a1db12df4150d7b4",
@@ -4000,21 +3988,21 @@
     "ab9e2df5ab8eb7d0b16b5c58e9ca85f3bcca8dbb35fed460960dc50495749fc7",
     "4bded48e5f7b41e200303556977093f9977a4dbb4c3620eab5fa131eff322e8f",
     "4e7fc61050f2473ae86b96cf00abf17dd82873f5e1fd3006ac6112867914d870",
-    "4db4af6280a44581c65e18047181bd4587ddb6456eec59878f4ba2bee8f1e34f"
+    "4db4af6280a44581c65e18047181bd4587ddb6456eec59878f4ba2bee8f1e34f",
+    "73b163c8e081d0a20b3f9a7cc14565e1fc691aa25bc346a918c262dc89d80caf",
+    "75791c123c86ccda93f4c44f4c0986a1622ac9121c8a37ed02fa627e497fa69f",
+    "8399e64192b83c46071dce531b22b65cd5004204d91fff8ea7f5deb78a3f5e70",
+    "339454234403d67e284762d8ce862bd93ea0a4b12e8a8c7fa457800025cc666e",
+    "cb38b2319e9c80fa59e4def284dcf9765b35e3f8db2fe7c2bcbc41e4be3a8498",
+    "937cccf5f1008059cb3f4cffa1819313de94e5e4a25d40fcc598d49f65c5b336",
+    "3d1392f3323eec637d1376261be0121f599c70e6dfa32fcf7247893cc9f824a0",
+    "f6d9b645251b3cd80aa0f194a0ba87a037e8b33e27c76bae4b584b344038e95f",
+    "788466c6af18a6dbbab0ed5c260cd0f0fbaf8ca6fe8675c1baa886f241e5dbf8",
+    "c4f3d1d7e93586bd1d7db3573ac14eda6fcbde3290f41069bfcbc7ca96b963ed",
+    "4ba3556b736749e7dd420c71999dff1ccd9241b13ed992199956370816c632b3",
+    "b1d317f1548ab21db83fc2b020ddc45342a6dbd23b58c601c5f1a33c865a255a"
   ],
   "title_hashes": [
-    "1de351a9c259c0121cfcf99b08df68aad6d7861e16f7e36a526d67226a896870",
-    "2b9fca35682bd66f380330e31dd537da21d21ad53c8ddd70958d748d473b6090",
-    "152953ca96e5b8550d651f130327dcf001b071001f592859c738c8ce83689e8a",
-    "553ed436833967501cebbb2403902492eda4b4f4b316635845c438c3ed2c8222",
-    "2134b4998fa7415d0c08b717aba99bbc66bfe4c6ce00bfa19888e16282e8cb28",
-    "0383fee4e500f28b797401f962654f9923de87921a079352aa257cafb03b8386",
-    "1700b015cba3ae44091df88334eb005884d98252508cb6d51cfa88de0d77c06c",
-    "ff2cc04733c41934f115f6c85356d95e37b192540cb9a1572823667538fa2829",
-    "eb74e77ba181e02e0232ada84c2112a2c553f54ce7cffa2028cd08785955275f",
-    "f167f1b7e524b9d1e0d7de42f8b81d194dca640dcb8349bb0f0416c5e7dee012",
-    "d2f0a8add88d96b74c90a147896e71923904fca95c3035b01466abbfb5013607",
-    "f33b3ecb66969e1c655bdd91c32701b4fc75e224b923be46bbf7b8c162482cb7",
     "fdbd2f0231c3bb9e02a85df0597443baf7e8c8589b1c334d5dc38c425bc3b5c6",
     "ec414e166c32781fbe94b0ad8c8a38b15af73846f0b10bcbb1a3e935c54f2cee",
     "7c9a2906350a6c284a1acf4a954f1bc73d8062bd77b69c8debb0a11559eadcc5",
@@ -8002,51 +7990,21 @@
     "2ff518e15f43be9aaae5f5045cc61a90e885878cbc5cf0120d2ae67cd600939f",
     "3d0e3b42de1d64fe17ad5c9a07bbb52880e748beb5c6ccc86621f785f4da38fa",
     "53943319699d1e7c70d7ce4bb5f0e21f1532ab53874309b2033a5e661273c521",
-    "78978b0502ee9887ed424defc440af8d92a439e269ecde15788e74b2ee91754f"
+    "78978b0502ee9887ed424defc440af8d92a439e269ecde15788e74b2ee91754f",
+    "f78711cde602ccac54510757e287cc418c49efd94790d0ccacf04ee8b3ddd7f7",
+    "d7fbbee9aeda2c19e0c527b6438b9af03ad4a5a1910fbd7054845e12e1edd594",
+    "f93f50421177efc3dc314cff3b629da2088ce491ba41847e5cb3c90db8d6ae2c",
+    "a730997b109f81cdf4df618c77fbe93510ab48e1eec015646c84e8d5d7fb590d",
+    "1ef9852f2abab4053d5ff106ec8815ac0886629fe57c542b49782178d85ee1c2",
+    "18f1eb895c93be50b945dd9a01cce3af6d59218998b961f4c6bef4a326647d0f",
+    "d1e92e656c173fada9f5ad313ab54d41bf0be1ca38d81f433aa087e692fcbabc",
+    "763e96567ec8bf1d0d699dec01478eaebaec544384b21bc039fd312d3ddf947f",
+    "8161e9a4616bce0d7b9fba1d445afc5c9b1f741ac887bc77776050b588de580d",
+    "1eaeeedf3801ebe52b759c491308c6d3ac862009fd5e76d0feac28ea0d328b5d",
+    "97d3dd70f6758884b1932f3aac021b5c634d8b56213c25474d7841b0c5c7e36e",
+    "ddb9429f63052b180c712ba9c161144a0c0b82508bc28b3e5612adbe13d53655"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "FITCH RATINGS SEES ‘NEUTRAL’ APAC INSURANCE OUTLOOK DESPITE MARKET RISKS",
-      "title_ko": "FITCH Ratings는 시장 위험에도 불구하고 APAC 보험 전망을 '중립'으로 봅니다",
-      "url": "https://t.me/marketfeed/1084926",
-      "ts": 1795581958
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "다올자산운용, 현대차·삼성·LG 로봇 관련주 담는 채권혼합형 펀드 출시",
-      "title_ko": "다올자산운용, 현대차·삼성·LG 로봇 관련주 담는 채권혼합형 펀드 출시",
-      "url": "https://www.fnnews.com/news/202611251310567753",
-      "ts": 1795582016
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "민형배 \"반도체·통합지원금 활용계획 이번주까지 수립\"",
-      "title_ko": "민형배 \"반도체·통합지원금 활용계획 이번주까지 수립\"",
-      "url": "https://www.yna.co.kr/view/AKR20261125099400054",
-      "ts": 1795582230
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "POWER CUTS REPORTED ACROSS RUSSIA'S SAMARA REGION FOLLOWING DRONE ATTACK",
-      "title_ko": "드론 공격 이후 러시아 사마라 지역 전역에 정전 보고",
-      "url": "https://t.me/marketfeed/1084927",
-      "ts": 1795582255
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "DRONE STRIKE LEAVES ONE DEAD IN SAMARA REGION, RUSSIAN NEWS AGENCIES REPORT",
-      "title_ko": "드론 공격으로 사마라 지역에서 한 명이 사망했다고 러시아 통신사 보고서",
-      "url": "https://t.me/marketfeed/1084928",
-      "ts": 1795582317
-    },
-    {
-      "source": "매일경제",
-      "title_en": "특징주, 한싹-정보보안 테마 상승세에 15.6% ↑",
-      "title_ko": "특징주, 한싹-정보보안 테마 상승세에 15.6% ↑",
-      "url": "https://stock.mk.co.kr/news/view/1205690",
-      "ts": 1795582385
-    },
     {
       "source": "Bloomberg",
       "title_en": "China Maintains Monthly Solar Momentum Despite Weak 2026 Outlook",
@@ -11504,6 +11462,48 @@
       "title_ko": "메르츠 독일 기민당 대표 \"러시아, 유럽 및 우주 공간 내 갈등 고조 경고\"",
       "url": "https://www.ft.com/content/afdac003-51b0-43da-8c7c-b5675f9b7c1b?syn-25a6b1a6=1",
       "ts": 1795608874
+    },
+    {
+      "source": "한국경제",
+      "title_en": "대한항공 \"한진칼 지배구조 흔들림 없어…통합 LCC 본사 서울·부산 중 결정\"",
+      "title_ko": "대한항공 \"한진칼 지배구조 흔들림 없어…통합 LCC 본사 서울·부산 중 결정\"",
+      "url": "https://www.hankyung.com/article/202611250361i",
+      "ts": 1795609027
+    },
+    {
+      "source": "한국경제",
+      "title_en": "한화오션, 6800억 태국 호위함 수주 무산…우선협상대상자 지위 상실",
+      "title_ko": "한화오션, 6800억 태국 호위함 수주 무산…우선협상대상자 지위 상실",
+      "url": "https://www.hankyung.com/article/202611250461i",
+      "ts": 1795609030
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "UK BURNHAM: EU DEAL REMOVES THREAT OF MADE IN EUROPE TO UK FIRMS",
+      "title_ko": "영국 번햄: EU 합의로 영국 기업 대상 '유럽산' 규제 위협 해소",
+      "url": "https://t.me/marketfeed/1085103",
+      "ts": 1795609035
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Ams OSRAM rises as Samsung Display agrees to buy 9% stake under microLED partnership",
+      "title_ko": "AMS 오스람, 삼성디스플레이와 마이크로LED 파트너십 체결 및 지분 9% 매각 합의에 급등",
+      "url": "https://www.reuters.com/markets/europe/ams-osram-rises-samsung-display-agrees-buy-9-stake-under-microled-partnership-2026-11-25/",
+      "ts": 1795609097
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Anthropic, Nvidia, Dell, Workday, Deere, and More Stocks That Explain Today’s Market",
+      "title_ko": "엔비디아·델·워크데이·디어 등 오늘 시장 움직임 주도하는 주요 종목 분석",
+      "url": "https://www.barrons.com/articles/stock-movers-07929503",
+      "ts": 1795609100
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "UK BURNHAM: INFLUENCER RIGHTLY APOLOGIZED FOR DOWNING STREET VIDEO",
+      "title_ko": "영국 번햄 장관 \"인플루언서, 다우닝가 영상 논란 사과 적절\"",
+      "url": "https://t.me/marketfeed/1085105",
+      "ts": 1795609106
     }
   ]
 }
