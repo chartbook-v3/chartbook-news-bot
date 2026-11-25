@@ -1,24 +1,6 @@
 {
-  "updated_at": 1795595813,
+  "updated_at": 1795595987,
   "id_hashes": [
-    "36dded9f69f1d4e3cf19a10a5390b042bcb9ba6a24f5d617cb2e23ca33134875",
-    "3a9732c1f69c15df072acfa531a789086123ccc8c8abe1c104beeac2ba16be0e",
-    "f2811f42d945193cd7eac08e516925124dc0493a3f13e8cef6ac175f6408d323",
-    "6f61cdeef909cb349bcfeb32719e2d8bfd2b7fdf306e11241534797b203b9a5f",
-    "aae50c7f941ff92866407cb0771b888ba7c01eb57e86fcdc64655e2fd8cc4101",
-    "16cac424d754cdc1541fc315eb040019c7afbeffa29781fee6d46e0434e91b00",
-    "f7bc042e14ef7ba49791edf90919fe6d440a706da48b31846fc9062b3d4fb7fb",
-    "9c3d3dd8efb6781e05c7f10305a84d32306a604b60978162d98171c03dd3a34e",
-    "70460787aa1179a4dbdc7eeec1bf535ae8a15054db6e1ad5a24468ce8b3f2ca3",
-    "5ff290f1903fcc113992febbdb77c18357e05e7b445fbeb38822ff46e82c3e6d",
-    "e6154a4ac65ede9b1fb1dbf6c8d5f4cc93e5e8f9c212554d518b46b1051f4f41",
-    "00611d48f10d4ee7b4dbcd5b6df52ae3dcfc291971728f4d0a47db6c4b7ca04e",
-    "9d0bf04f39df303debb7f8616230e290d1470125c1670064440e3c925c4f0388",
-    "dc6336b1013220d5889848027a22e4a7114dc44365aba6e995f912bd44f1bcff",
-    "c026992d0d0956ab13f3deb81639f93278e0c50127f9af72e85da0b0247c52a7",
-    "382b4e571a74bdb3081d0342d241bf0363ece8e4d8b4388c22db9ee3c6d8398a",
-    "3571af1e91bd6b51a0121f61c5cbc646736964380c717746449b3d7aa640f48d",
-    "6488f080d55677660d58d69cad7318981cbec7f5c06d0ca949f275765f9134c6",
     "7a5c67b29dab5bf8be9a4598e8c926877e4d6caf9d2a40087767789fdadf0c92",
     "286a31a57bb58d091b7e26bf89b93276cb9157fc55581851f8c0994a29a1056c",
     "536c8a462d872f6287f85df1616637a8fdc49c0ed48da63500e8df88c15a82cf",
@@ -4000,25 +3982,27 @@
     "0f80cadcd7d4b7b97760acf508c64ad6bf07e9e5c2fcb5c82348ef02e8c6e209",
     "af96fe6237f18df04983f60a57610008bf9027f3f4449f17b54f664ba71c8ea6",
     "2afbd4e6d0af4e76eb25028a414fbcd7779dd25fc109bb26412701ccf6d1025d",
-    "06e31173938d1e070e58d6fcc65cdbcde2583bdfe1563728b1ce7f6bc60080bd"
+    "06e31173938d1e070e58d6fcc65cdbcde2583bdfe1563728b1ce7f6bc60080bd",
+    "e17da4641bbe80ca384a277942997aa31c6eec81d0d155a7ee58471497b8365a",
+    "a9fe1e3397f2f6811405ccdf4575df691611f64c46d4aa2a648fd134078ecfc8",
+    "26fb6ac35643ed592bdd88d4c6bd55964c845aa9b9cb7501468fb49b5228577b",
+    "20a6ed20514b13d3475c4712a4e6835031b8479d8964ed38632a9197bcf56cd9",
+    "a65c5737f7cf87fd5aae62171b322f709486da5ec5d5ea437776cb00336876f1",
+    "1c0e1066ad68d03ab02af4ae28d2217cbeacf5226854ed21fa88e9e5ac2e484a",
+    "4aac693f6b2b2bd44f116d0fcad2676758cc1ce4e4e292d4776deac220e4600b",
+    "55e06f01cd07c7241b65353f8c6cf3ccf754e874961410c3af84895f09974706",
+    "7eb841ce23048252fe14863ba679a841cf4bdf1a33348c3365500d3e64c9ad34",
+    "3ad560e85d5643d4a256be4c9636f13ee1870f689a9d3c3b4d751c5c42377053",
+    "03e07d467b648d9acaea0702c3425f507da1b271956b11ca0e8517f4f473d82e",
+    "ce1504bdeb7f7e26f721576e3f205fefd2ecdde7925c718e4b427093f94aa829",
+    "3d09315bedc103c513848cda8a7501ddc2f2ee15a0772eaf8c49aca61ac78408",
+    "7cabc745c40f8cd039ae45a5085ea12de0307eeb1b8ccd02a17c50c038c82907",
+    "0dc40443c4afee50918474640f1cb856218890f53a15a43cf3d8c3ef4795ab3d",
+    "44a97a531a6140ec7c540d15b2d9570ead58ad646eb8d6a1ccf8390f42aa0f57",
+    "7254acefdee3e1463fb2aa192e32ae380fdf056b28357d92ce73561a514dcfca",
+    "4997746e044a4977506652da77521ad80cae7470324bcc2b4aeb26b642bfe429"
   ],
   "title_hashes": [
-    "a4a5d272ddc1b2621fb32447f2f14eda0f9e25b00ebc59061443cb268350adf9",
-    "c158ef8e5be263728624a9c339565313ad119cc490a1ba8f6985a70c4d21318a",
-    "cd94a3871ddf96ef898175a15e25acf9f93f1b459c4ea8ce85bd5aeed9249a8b",
-    "0c2dd9b277c3a3a312315054f13f2fe2c9df69d5483834e8fb3d538d203370ec",
-    "55ee6e64614a7567f21bdf10742449f2a2b45bf2a1242c4615d420620dfebb0a",
-    "46b54068dc56025c746bca6698085fd1574f630e35969db13b4c67846909b967",
-    "014d3a915eaf3b495c2d2879b21d0bd493028db576ca2917c356e7cdefc22553",
-    "c92797b4c04ece2406beca2a0a171cc11bdb22a61faaaa57e1fcd6dff190c6eb",
-    "d8de5c2699c3d4b1bcd88afd95e1524cffe74ec390ebae067474a558b9292c84",
-    "9c6d3408e14a08afe87405a094638dedd078661e99d9fa2c697be081ac0be82b",
-    "c4dbdcaa3a9a4306f54c9ee1e8a46a90db653e5ecaabe7d0234aa93aa1c2dead",
-    "8e8d2be3666d3d423bd9c7d0382b51ccb42b5a99f9a8c237d92b975d764af34c",
-    "b4e7920773f9f42649f490e966ce05de6653d48a80230b2c2b914ff79a085da7",
-    "ed44f43173c47e2951dd6ddd7b1bdbea2f25e220acf658c906bde5dbda37ef00",
-    "594580a336807bd210245889f8a202fb2bb50dc8dd0822ce54f113216fbf6d7a",
-    "5c0b437cd237b396159e0bd84cc02635dadf1f31022c28f68d741eb404315acf",
     "cbb3906691cae5486919d5c7524b52ee42cd6a475fc1cba29bd0da3881753d4b",
     "07531a9e68c7231dfc662222f7bd05bcae06ae67fe46bc3d42749848dabf33eb",
     "aea62bd71e590091f7937a3916ddfd2d07a123ca2d0c395349051ea5073cbcb5",
@@ -8002,37 +7986,25 @@
     "d41c2e50a5ec9659f626486095510b2c41c91d5dac1cfc64297fa8d4af234f06",
     "8b74f6df778581daf70f3502c0a4ff2f7379a874df5796aadc45dd92558eea24",
     "0163a970ca01da372eea4020177b42da3d5db7423898439e853e1ae75b196069",
-    "4d12ad5197587883d08f77c6bae7b0abc3ee11c395023d70689a4397eac17d19"
+    "4d12ad5197587883d08f77c6bae7b0abc3ee11c395023d70689a4397eac17d19",
+    "80331524b9904debf287c8c4ab7c156872fccea5042a48f348242fe5fcc6e9bb",
+    "e58917004200d92334336c5dd2a5009371429185e4dbb4e17a84c22e921dd86a",
+    "3bfddb455bc6f95767d47180bdbadb7df76f57d1b2d3f469f035beb24965f920",
+    "d3d57ce08a46e11e5ed57deafa2c90f73c60377430f759d5a1d1aa474e5c53cd",
+    "c68a57ac1ea66e70c1448aad6259303e3ab2a31f9614cd26c78d5d2dfcee157e",
+    "1636baaba1b8505d792f6d3aa5c1b76a997f5ba31750bc1d6603badebf208332",
+    "83f584a24afd4c7c69e660708ff7c57058a180341d6fc2d4f5f9a942269d84a1",
+    "7f5304484dcaea8a8d9f508a1f23350dd4d34644e5b59d08bbfbe138c87ca820",
+    "5f16d6b800e205fe94d915a85cec5284fa070719941ead2f4e67bd7e8bfde977",
+    "a2975ef2a2b4476a897e65dd558447db038dd03361d222d1eb88ded39d98da16",
+    "040f9f731d4727f8683dc939cc866ceca4b66a69ffb206ed8fa8c0d5b5147144",
+    "b2ce40811faed2ff0bddb7897322a4e5ff04c3a40a9182369f0fde032a29bc81",
+    "3ca9c1fe8c8c26a8814a3100c00f1e6e5be2301c93d0f9101b0469821650c778",
+    "a5b5f9ecd4fa9a39031e165547b2256993babe3e7aba42417fc130ede986d191",
+    "84763a482e3e354dfc2c3c73854cc2d15a388d09b3b4f4821ccbad8e3d759147",
+    "728400de3199b5b50e81ee5f0b3cc4b048c4a31f9ff820c98104f442cc5b6617"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "Taiwan business optimism hits nearly two-year high in 4Q26, but profit and inventory outlooks weaken",
-      "title_ko": "4Q26에 대만 사업 낙관론은 거의 2년 만에 최고치를 기록했지만 이익 및 재고 전망은 약화되었습니다",
-      "url": "https://www.digitimes.com/news/a20261124PD229/business-taiwan-inventory-investment-2025.html",
-      "ts": 1795567990
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Intel 18A yield hits 70%, targets AMD with 14A process",
-      "title_ko": "Intel 18A 수율 70% 달성, 14A 프로세스로 AMD 목표",
-      "url": "https://www.digitimes.com/news/a20261124PD228/intel-amd-production-ceo-2027.html",
-      "ts": 1795567994
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "DIGITIMES Insight: Nvidia set to dominate AI robotics chip market with nearly 70% share",
-      "title_ko": "DIGITIMES Insight: Nvidia가 거의 70%의 점유율로 AI 로봇 칩 시장을 장악할 예정",
-      "url": "https://www.digitimes.com/news/a20261124PD227/nvidia-robotics-software-development-2026.html?chid=12",
-      "ts": 1795567998
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Taiwan accelerates domestic drone procurement with unlocked defense budgets",
-      "title_ko": "대만, 국방예산 확보로 국내 드론 조달 가속화",
-      "url": "https://www.digitimes.com/news/a20261124PD225/taiwan-commercial-budget-production-2026.html?chid=10",
-      "ts": 1795568001
-    },
     {
       "source": "DigiTimes",
       "title_en": "Symtek sees 1H27 demand holding firm on overseas orders",
@@ -11504,6 +11476,34 @@
       "title_ko": "러시아산 원유, 중동 수출 증가에 인도 내 가격 경쟁력 상실",
       "url": "https://www.bloomberg.com/news/articles/2026-11-25/russia-oil-loses-price-edge-in-india-as-middle-east-exports-rise",
       "ts": 1795595812
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Naftogaz: Russia hit gas production facility in Poltava region.",
+      "title_ko": "나프토가스 \"러시아, 폴타바 지역 가스 생산 시설 타격\"",
+      "url": "https://www.financialjuice.com/News/9867422/Naftogaz-Russia-hit-gas-production-facility-in-Poltava-region.aspx?xy=rss",
+      "ts": 1795595837
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "CATL Tumbles 12% on Fears Over Weak Earnings, Forced Selling",
+      "title_ko": "CATL, 실적 부진 및 강제 청산 우려에 12% 급락",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/catl-tumbles-12-on-fears-over-weak-earnings-forced-selling",
+      "ts": 1795595974
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Murdoch-Backed Allen Career Is Said to Pick Banks for India IPO",
+      "title_ko": "머독 투자 '앨런 커리어', 인도 IPO 주관사 선정 착수",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/murdoch-backed-allen-career-is-said-to-pick-banks-for-india-ipo",
+      "ts": 1795595977
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "SPCX, ANT, SKHY Trade Below IPO Prices as Coinbase CEO Says Listings Were ‘Not So Great’ for Average Inve",
+      "title_ko": "코인베이스 CEO \"상장 성과 저조\", SPCX·앤트그룹·SK하이닉스 IPO 공모가 하회 속 일반 투자자 피해 우려",
+      "url": "https://www.benzinga.com/markets/ipos/26/11/63614966/spcx-ant-skhy-trade-below-ipo-prices-as-coinbase-ceo-says-listings-were-not-so-great-for-average-investors-calls-for-private-market-access",
+      "ts": 1795595986
     }
   ]
 }
