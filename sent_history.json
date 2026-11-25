@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795578708,
+  "updated_at": 1795578861,
   "id_hashes": [
-    "7ff4436d55a4d8e66ec2be963ef60079e9624ce1a2a178e7b9cc2421f4720f55",
-    "22cc2e1eb4eaa698e59ae90bb80b84758f8840f04638cfd4aa99f747ac658027",
-    "ddfc14a96b48357c411eb68f6b4c737a66e911750be8752e9f5d84fe3cef0ff3",
-    "3ecff6ba36a3e3c16bee7ee91cf61a19c2cb0fbf9e7188b28212c72184671e8c",
-    "ef0648e48356b7f938cbc61100a47cba64115731e5ca3ae6f6e5478301a46d13",
-    "9b0114e538b42e55a82b3221ace76e94cae1f5e44d919cbc6111f59ef56f0a82",
-    "c2eaea4e40b47903ae89ac95c99bb539c3461760790db6f0a4b116bc311c47b6",
     "e5b7664b8af9eadeaa8fe4d5be8705bcb0cf24265cf0923a71f7dea015c99c1a",
     "f094d4dbb1c4b6e3e364d52e5b91e118c8f9dea6ec984c2902bafb936b43bf60",
     "5abd9505661c4ee9d09778dfe1a3610d3fc477d4df1b6e6d7a83fde7483c091d",
@@ -4000,16 +3993,16 @@
     "1af182b38f2b43dccca06ec94d40f9f97a58eaa1c0434dc88de78a0c26248b8d",
     "519341ab6ca733ab8aee19e9b0e2b084fed5fdcd18834d3be194685248604f03",
     "ae66196cbb7ab83810ede8c34d7ce57d76b1f6f7b853ed1ec2fd9e516ee643e4",
-    "4df471a12dbd13ea7e2d1b1ea611ee1910c5aff9fc0cbd716cec532ec5846b98"
+    "4df471a12dbd13ea7e2d1b1ea611ee1910c5aff9fc0cbd716cec532ec5846b98",
+    "318d2a296dd1db67636c8a38318b81d18f263600654f4d80e986480a890f235f",
+    "3719bd6bf8c1b1d150897658176e6b7d77f00b0c3e58693527cb00fb440449e5",
+    "cd9bc573d9875ef65fe0613095654e14ff7f4e2a2f6c4c7a55d0a6d44014cf74",
+    "aacd1cf643b93331e8679b432d78a472a5465e3c4f7cac0219e66d7f5ab3a34f",
+    "4e32f009516227c55f3364b955c70ecc7e5fa6af980b8b2eaf2074cedba8a969",
+    "8040894d4a340415f8dfe7f9d51956de26308164863466e8e9eb90ba660db107",
+    "8b2a2dcc2814ad47d648eb190571cfbff669573a0e71430d82f3ededb8c4e0ca"
   ],
   "title_hashes": [
-    "ae39f46d4a599abe3b6630a42a3072b95ba7edcab8b0685c518729fe83b9d227",
-    "1768d0a04490c0a04dc6273c535e1db77ede0ae9f5a8917ccd8dbd10dfc5e1da",
-    "7bc33d1b5f6d0d978ce3cf871d1657ebccd423ba684722fb3e6fee381994ea04",
-    "6100d6663397572e9158c301d308cf28b7798d67722dd38ef5012ab299b07e6f",
-    "7357d3077fd427fc6349561ec8ae2bb09d305adcc6c0851f758e413df2cbac9a",
-    "6ce9e07b8c4e38e21046ca20e775d9a7700588382e9bb7acf550d8cd5912b6ae",
-    "2fe184de3b9e8b38b224671aaaeb7ce7b909310d0966726658c3dee60a389b3a",
     "0938971c5c8d785b80dd37faa8ce866098e6a21668dc9ce7dbc42c6d2dc23a39",
     "50aeeb3b676f69e8fa78707b83bfb5e47a81537a9c338288ccc85852645e22bb",
     "a4d0f4034aa5b48182d388d2d4e1b8da6012698256fbeb02be39024031e430f8",
@@ -8002,30 +7995,16 @@
     "66be4dbe7b6f15cf9b4b9c8ac9d3150014d147b25dde7ca09ba950edd0034233",
     "cf68cb85c3e8698d1bca4e5a8fd433be8105bb082b68cc4f53222702627f7e97",
     "1d820c6510bce6a0435ec4ee013f2b0857957ef7a20011e79dcde41fed5247d4",
-    "4789215fc738516bf0bf841c2b78f780dac8878f2d13a28de13f0b0720b18dcc"
+    "4789215fc738516bf0bf841c2b78f780dac8878f2d13a28de13f0b0720b18dcc",
+    "88c8206914aa597de20fbaff5352481cc515eca1d6194d5c2f564256aac51aeb",
+    "fd19b8e35fbdd04165ae489c627180dec0ab8de16e58ce14e993e4dac616742a",
+    "dee69346d5f53add5ec1c45c12672869b6c630bf270419132b29ff92d44a57da",
+    "d97f26621013be64e8e0b2dd6b69898cb629b8881bf753aa7db5dc4da3910fb4",
+    "18c606e1c2774d0c45b544b710c280dce1527c8826fe81bae44ae057e7ce9254",
+    "bc043d8b721989d1801a92a3cebd40b38e83921708f60003e17b2e579db073ec",
+    "3b9ea645051819f201d3a30f55fb73d3a9107a290406c5ac2dd77cab720bd407"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Grayscale: Bitcoin is oversold, but AI risks now drive the outlook",
-      "title_ko": "그레이스케일: 비트코인은 과매도되었지만 이제 AI 위험이 전망을 주도합니다",
-      "url": "https://seekingalpha.com/news/4676341-grayscale-bitcoin-is-oversold-but-ai-risks-now-drive-the-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795552278
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "美国10年期国债收益率跌约4个基点",
-      "title_ko": "미국 10년만기 국채수익률은 4bp 하락",
-      "url": "https://wallstreetcn.com/livenews/3205208",
-      "ts": 1795552305
-    },
-    {
-      "source": "Tom's Hardware",
-      "title_en": "RTX 5070 Ti gaming PCs hit $2,230 — skip the $1,400 GPU markups",
-      "title_ko": "RTX 5070 Ti 게이밍 PC 가격 2,230달러 달성 - GPU 가격 인상 1,400달러 건너뛰기",
-      "url": "https://www.tomshardware.com/desktops/gaming-pcs/rtx-5070-ti-gaming-pcs-hit-usd2-230-skip-the-usd1-400-gpu-markups",
-      "ts": 1795552454
-    },
     {
       "source": "Benzinga",
       "title_en": "Nvidia Buyer Megaspeed Added to US Entity List Blacklist - NVIDIA (NASDAQ:NVDA)",
@@ -11504,6 +11483,27 @@
       "title_ko": "원전 업무에도 AI 에이전트 심는다…네이버클라우드, 한수원과 맞손",
       "url": "https://zdnet.co.kr/view/?no=20261125124028",
       "ts": 1795578258
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "AUSTRALIAN DOLLAR WEAKENS TO $0.6606, DOWN 0.51%",
+      "title_ko": "호주 달러는 0.51% 하락한 $0.6606으로 하락",
+      "url": "https://t.me/marketfeed/1084913",
+      "ts": 1795578730
+    },
+    {
+      "source": "토큰포스트",
+      "title_en": "천부광통신 CPO 제품 대량 납품 단계 진입(300394.SZ)",
+      "title_ko": "천부광통신 CPO 제품 대량 납품 단계 진입(300394.SZ)",
+      "url": "https://www.tokenpost.kr/news/market/443945",
+      "ts": 1795578857
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "NVidia Still Faces 'Key-Man Risk' in Huang: Professor",
+      "title_ko": "NVidia는 여전히 Huang의 '주요 인물 위험'에 직면해 있습니다: 교수",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/nvidia-still-faces-key-man-risk-in-huang-professor",
+      "ts": 1795578860
     }
   ]
 }
