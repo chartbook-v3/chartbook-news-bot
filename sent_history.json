@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795567497,
+  "updated_at": 1795567658,
   "id_hashes": [
-    "55afdada2596a49ce61b8b2f9d2a69d32ea346d87d2abbec3b7e448d92c7bee7",
-    "b5b47bc8e1a2386d72177a9fad563f783a16df5e234fa964c4a3da13421d4e3f",
-    "3c38d5d5b7bd619789c99d02a1758c17e5aaf4e86d8605374452d0006bc0564c",
-    "c8030d1dfe9cc045506a376f336aae229df31a2ace5a4b5997d51ff9ed6f3baf",
-    "cd888b4dca49581937eb7496db32928c086a78b8039b560adbf5193e65b50756",
-    "09bcfcff9724bce3b93deb518c4ee7802f13321bbacfd731e8aa1591be2350a0",
-    "27e4557c4b1785d79d80db513414f48b62c8069ef08904b4a505adca7406150a",
-    "3d22a315fe86c725f472e06494c45130a9c2b7b00655c8d1d4639a40e3dac0bd",
-    "c670a96b9ab466a49c83f6ba13ca50f6b03eba12c65b0e9e32df9607327f6fa9",
-    "33df4db1d853ebc43fd4ae66c3dbc302a367af05cc81c663dbfbdb223f212276",
-    "64794a129f611c8ecfe7d507963b5362e685497c47509451d975190c1d804338",
-    "d257161042a0fc37214b5d1319e073dd21d03fc729f62f36525c5ed95fe652dd",
-    "94bf202545d0548c867f7df878045b807c128975439a66b9f073d711be66af09",
     "25b27c65933535f3e0c406b9dea15261c3a6db2e625c3297c59c88bb0852d4fa",
     "f8d5e21914fd1e910edf8f57efedbabe1855a7e025a42737f7b1a19f537c2f1e",
     "1052a7d5336cb83a251c6a369da433c0b333c9418cc9605dcb1b820ab34d3f32",
@@ -4000,23 +3987,22 @@
     "dd3cfed845e282510dbea30b9652892e6d48379c9bedf8daaf380b541bd8bf59",
     "8f43ca61d6becfd47042de9e6e6426fdfa8176ef026103fa8ee0e8d325cc8c0f",
     "69593334e43ed649ceb761b82ba99eb5a070fc987416234672d4e4e2aefd2678",
-    "6ac01927f952e5f834ae96413f023137ca66f12e579755d91e22d23e84e1770d"
+    "6ac01927f952e5f834ae96413f023137ca66f12e579755d91e22d23e84e1770d",
+    "70a92f060bbb256b54ce88626a2e6615788b0cf9123cccacdef6e70156973726",
+    "2d867bf8707e6d371065f2434d7657bac1947a07d16f7ea21a92ee8d319f2ec7",
+    "076405f70a708ab6e2a36d2d7ee23ecfb1bc6647565df2ee40b61105fa120dba",
+    "62ebc370501255e7afd93cb252bb57217813b05019466a1f7f3b118b8b152a20",
+    "e9d9813d7138f27b0c3b46538c8086e5652c6bb0350532e53a6f9b0353d65ab5",
+    "23e8a23205cee5654e5fbacf043952df81a2e5c2ef5bf682e50c181fa0a20b4d",
+    "46e956c532f75a0f102a50cbe98c5c21b12cbf173641ed16bd2183235b48f966",
+    "3c4314b2952777ccccb7f215b5e7163a25106b133a565be39a3e541a2e323a78",
+    "1d9f3d6d89e34cab63e7b98adcdc7cc04dd43cb7787948aff94235939ffcbb0a",
+    "3d2894af521a02b3b06f9c10996364335476e8d121d16aa5622e8e78b448da8b",
+    "34ae5aad06739972734078d8a7c94b0dd0232a7a6b3e74ab0d7a81a642394f4b",
+    "2a419f91c9565f87b8c22bb4b2ea78d9f9c871d7d2cff50e277c82f084397be0",
+    "4a7245e1c4fbf7de6cec9e2506f53d037421ba5062962bd8d60318dd95af8b38"
   ],
   "title_hashes": [
-    "b3d8ae6ee654b5df56c474f6cfcf867eea90b65c08270792248838998ee40c82",
-    "2906c2ac0f9a66c6e3638f2bcf03428facfe126667dfef65c8d9449d14fe5eda",
-    "0b6005714be28e863bfd0410ccf04abf5bbf12a6f1a44a16f66996977b174f53",
-    "1ef2e870accd0620f6506a6d9760771dafeec462ad13afeccb7b7c85fb6a7935",
-    "fb0ae20cd1733318f8cd3e59d616cd828718ac87b2ac79edd0eb24179e76e178",
-    "e3310c9a2f196fdf0e7ccf3012b58e69f0915c5af2f1b61581a3a160f3efb0aa",
-    "bb3793689d6912668250f2f5b0ad0bb27e6d5c178048b077897c2215cdd5f4b3",
-    "1b3aedb7468536238eb7a081ee84c6e7d0f0317c8d8b825f245b147582a813a9",
-    "543e69172b4c7279c61989da9f9c67d07ffe72d5e2f76f32d26ddca65bccd0b2",
-    "1ab7ca2951ba360ef645d154724666fed5701b39b2c6d668d9be3f4897e3edcd",
-    "7496750c2f438575babfa0b8ac1f5b5fd7fbd0e0b330bb38a7f1f37c379aef8e",
-    "4d133452933c4395e36c4467b3c8cfa31df19e673141f04eb3d47913b8cca3a5",
-    "28a30480ee8b42d9f949107f8ea3497db20ccaec3822f61bd1a237dcf09fe6cc",
-    "29a29bf8ca566c80413eda366e2e017af00015f1da000594a60add8687fdc142",
     "7f4565e4f888111aacc471d3315d194371a0e6f614ea6d99a95150809f701e98",
     "5d06a69a7d5cf853fc54b7d8590b51f47d34fa1a01111710fcdd53b65c491cd4",
     "40b3f6a0a456d1896b461c58c5c1679dba4c20d8708b374c23a124ddc4349d70",
@@ -8002,30 +7988,23 @@
     "20b89655908cdd6407de0b0085037aa82b6f0c6b9c9861a5fdfc84ab662a22cb",
     "db09cd2cb948dae8e00b8a93db62330fcb321efecbfe7d9c2b2c8395aae3c18f",
     "19d9df6cfe2fe59363342c21682decb9ccee0e2a4ecdd5bcda0070f6e41d347d",
-    "e5d3b571f5ffd42ef8ea1e9c21c3354bf9af0e1ade7172d8adaa7cbed02b8d5e"
+    "e5d3b571f5ffd42ef8ea1e9c21c3354bf9af0e1ade7172d8adaa7cbed02b8d5e",
+    "8815d1b8c2ecb5f4534447bec3caae775a8a157ca2a787207e4b8b0253b12116",
+    "2930c2ee62b5214c114d7e983dd514d52540b363f2c7d726db6217405377d7b2",
+    "6a1515a2ef33f3d0b006140144938770af622752def2904b913537f9be9f3d97",
+    "fb5f24d835b3b78193cea75b618401e8124b29c408dff4e0b14473874c8df28b",
+    "f03545b8c63521eb49297a2cd714f64c2c0adb9daea82a6043b61d5e3307c309",
+    "0dd9b26880b3470037a54c6f6fdba02821e211f1e27b545394ac17cb36708b5d",
+    "8db7f14c71d3e0de2bb579652428d0de3c501320973ecb0a822ba87e8f7eb98e",
+    "707f8bcd66fe9e8f0bd6df21b1ea45a4702147fad1df2ae87599200c77257bf6",
+    "b1a804bae42f502514a41958189a8b3d97d5923f39c2520d61a4397a1ca02e91",
+    "a0dbac14db3454a0c35cf901eb6eb0f83b0aba5a02527446195298cd17226f93",
+    "29ce136dd03ca2e66f2afab35b502c3ac2396d4105123fafdf21628fae532018",
+    "2c88b1a61869ac8445168cbd8af580fd448cddf9c439016468338c9c1706d8b0",
+    "5621b00a493a53626f7c2b9e7c9ecddbaadb089eb39ec6b7f94abe61c8ab1b03",
+    "98d1e3d01a5f548fb2cda018bf977196e90da02352bb7a3dd4de820deb6613cd"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Midday Need to Know: Chip stocks slide, Microsoft outage, and more",
-      "title_ko": "정오에 알아야 할 사항: 칩 재고 하락, Microsoft 중단 등",
-      "url": "https://seekingalpha.com/news/4676278-midday-need-to-know-chip-stocks-slide-microsoft-outage-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795539282
-    },
-    {
-      "source": "FT",
-      "title_en": "Trump readies raft of new tariffs on major economies",
-      "title_ko": "트럼프, 주요 경제국에 새로운 관세 부과 준비",
-      "url": "https://www.ft.com/content/335b593d-1478-4550-ab0a-71fec6280eb0?syn-25a6b1a6=1",
-      "ts": 1795539412
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "周二（11月24日）欧市尾盘，英国10年期国债收益率跌1.8个基点，报5.191%。\n\n两年期英债收益率跌2.3个基点，报4.858%，全天处于下跌状态。\n\n30年期英债收益率跌0.5个基点，50年期英债收益率跌0.7个...",
-      "title_ko": "화요일(11월 24일) 늦은 유럽 거래에서 영국 10년 만기 국채 수익률은 1.8bp 하락한 5.191%를 기록했습니다. 영국 2년 만기 국채수익률은 2.3bp 하락한 4.858%를 기록하며 하루 종일 하락세를 나타냈다. 영국 30년만기 국채수익률은 0.5bp 하락했고, 50년만기 영국채 수익률은 0.7bp 하락했다",
-      "url": "https://wallstreetcn.com/livenews/3205142",
-      "ts": 1795539414
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "GameStop leads quant ratings among mega-cap consumer discretionary stocks, beating Amazon",
@@ -11504,6 +11483,27 @@
       "title_ko": "현대차그룹, ‘HMG 글로벌 완속충전기’ 공개…신뢰 높은 충전 경험 제공 예정",
       "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=219094",
       "ts": 1795567496
+    },
+    {
+      "source": "한국경제",
+      "title_en": "엔비디아 주가 6% 빠진 날…'미국판 다이소' 11% 급등한 이유",
+      "title_ko": "엔비디아 주가 6% 빠진 날…'미국판 다이소' 11% 급등한 이유",
+      "url": "https://www.hankyung.com/article/202611258465i",
+      "ts": 1795567651
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "JW중외제약, 호산구성 식도염 신약 비임상 국가지원 과제 선정",
+      "title_ko": "JW중외제약, 호산구성 식도염 신약 비임상 국가지원 과제 선정",
+      "url": "https://www.news1.kr/bio/pharmaceutical-bio/6365124",
+      "ts": 1795567653
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "PERU’S ECONOMY MINISTRY REVISES 2026 GROWTH OUTLOOK DOWNWARD TO 3.1% FROM 3.4%",
+      "title_ko": "페루 경제부는 2026년 성장 전망을 3.4%에서 3.1%로 하향 조정",
+      "url": "https://t.me/marketfeed/1084866",
+      "ts": 1795567657
     }
   ]
 }
