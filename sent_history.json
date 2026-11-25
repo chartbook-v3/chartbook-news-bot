@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795607478,
+  "updated_at": 1795607636,
   "id_hashes": [
-    "32424481c60d16650642f8c65aa2b80bd56fff468120999850eb955ecf8e291e",
-    "6b335d91a52c13a5769a61a10cb392f09aaafd04826e0f9b3c0944031d83eeac",
-    "535af9b166dbfd0de0c9d4dbe5c6dead2080c762d0012960cbc90562bf093788",
-    "55d8f0f1adcc0ff35e41a09d183f25411dc032fd00b1fa09ad73f8f3adf58dcc",
-    "818a684677fcb7bd879b49b6b41404679049746efae7921d549af515bb1a5139",
-    "47c5c0dc5565b37eecbcffd08243b4f7d72e5dcc28267491f60d4fea5099bd45",
-    "d9fa2f0bc25880dbec116896a0d34d5c97e140ba659061fbc7ca03aca4e21be1",
     "add43eff678dc3073f0c91eb6439c8cf2e138e9c32201ba30927fec7bae38ce9",
     "aa8bc63e5a2ff7b26cd7c7f5d1a8d9baa6e1decd56fd7729ec451cd21b0c9215",
     "b398658e2b230f0e0750b46ac5020c172d94165dec0319cae03e6cf9f9b06771",
@@ -4000,15 +3993,16 @@
     "996410e5ff4e7b6ac5c95b80cf05d6c50b1aed227a9fa506769f7b3d33320864",
     "094759a7e40a6e98527303a78b07090abdb58f6236a37ff32d0f7a168783eab7",
     "49d1e6e63ba201c7d5434a0a22c7e29e6d96407d033a7b5f4831e52a5dbf0748",
-    "5203f6e1b43120709a92f8826c179b5c177a9feaa42e580a9ce88785040af2ce"
+    "5203f6e1b43120709a92f8826c179b5c177a9feaa42e580a9ce88785040af2ce",
+    "adfebd080b8876588b5e6c5da3714082b74bbc1989583a4f3fbba0478b5966cc",
+    "5c36b059fb42db7b3f68dbb8d1d4f9fc506ddd4880bc590998d245bd4b591aa6",
+    "f45b6bcbafc53db3224c89c6f31ef8e384ad3231d6f2d52bac551127b220e0d5",
+    "62b35e609214999d50c67eaf8a4b99b345a465be61be7ba6bddb27e85840b5b0",
+    "3caa2f13ca45118b8c291ca3ebcabbae9bc01b73f22039ab7ac910815547867b",
+    "f1bb1a689fb96eaff6a6317315a36db680e7550f7d3e0f934c6f509d1c6abbcf",
+    "f51fb37a660494f0e7b42050ddff25ab4ad529e6d11c1c7db29f334c587cc7c5"
   ],
   "title_hashes": [
-    "4a628867a9203b0bbe7d34e437e347c80a797628670326dc060fcd87f0c5d93b",
-    "dfb7fb551b135c9a635ad9ff2880923c41522012ac5f19ddc8cf54019706eb67",
-    "d5faccb360e2365e52795435bf17792f88f3e4b1dd83cb769d399db8f386fda5",
-    "1f51571436ccc772f7ab6406f139d7ace92ac938038f96159ecb074144ef70df",
-    "183279146f2cbd5e15bd6331cc8f05d59ad3987c9b565addc16734e1b87da0d7",
-    "5fc73a5d932a53d89b94b3ef11038073339a90f3cae3496eb53f7057386b8b9d",
     "f95d74052c74e6a7e28f12b7e4d43a07a2b0af816c747a9499fde60c47af3791",
     "e5f03a9cf3018b76f4c4ec768c835e7a310f891093b408ae352693f3dc2854b9",
     "8990fed7356d15a72753f3b3f255b8ca06c27fa9743e3545b1f429888b0da060",
@@ -8002,23 +7996,15 @@
     "b5dd2294ffb71467440c079c7040485914231c79086201a4e182026b95c644f0",
     "f8ae875025ef652247e8da4771ee244e17aea60b98522e5c9dbe50f412fa56f5",
     "d38a95f9b7d6b44564f5a850b6e9adcadebca34842210b00a0d786b57e3e0797",
-    "61266d778850c298ee20478d631f3dfe9cb67dbc0cac132e42e2be1d1be95fdb"
+    "61266d778850c298ee20478d631f3dfe9cb67dbc0cac132e42e2be1d1be95fdb",
+    "9f2dd7d6b3458194afe4aaba8d59134f180824952bd90b13eb6522443a61b07d",
+    "910bbae836a69d6dfc5c0f7d22361f70fc81739be625c2c82031701ea662b6e9",
+    "8fe4dfbceb23461729ca77c3896079acae77d27a3081768e8d4fbbc9110c3d45",
+    "522c53933f556345f8a9a45383f03c668fbd6d9ace512e9d14b988cce1596dd8",
+    "96b0adfc28acbab0d348b2f448fe3aab316ccf05327184d946b398d3d30f7581",
+    "e085f2ddf84e5cba6059f30088f464a921693d54c9fbb4745ac1083d7a86cc1d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합인포맥스",
-      "title_en": "피치 \"연준 12월 인상 뒤 내년 동결…채권 금리, 올해 고점보다 완화\"",
-      "title_ko": "피치 \"연준 12월 인상 뒤 내년 동결…채권 금리, 올해 고점보다 완화\"",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446474",
-      "ts": 1795579936
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "TIMELINE OF EVENTS: • NOV. 12: MICROSOFT 365 HIT WITH A MAJOR SERVICE OUTAGE.",
-      "title_ko": "행사 일정: • 11월. 12: MICROSOFT 365에 심각한 서비스 중단이 발생",
-      "url": "https://t.me/marketfeed/1084916",
-      "ts": 1795579940
-    },
     {
       "source": "Benzinga",
       "title_en": "‘Complete and Total Pardon’: Trump Pardons Thanksgiving Turkeys Named Freedom and Feathers",
@@ -11504,6 +11490,20 @@
       "title_ko": "$SPY $QQQ - 시장 급락 적중한 BTIG 전략가 \"추가 하락세 불가피\" 경고",
       "url": "https://t.me/marketfeed/1085079",
       "ts": 1795607262
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "速腾聚创空间相机进入硅谷供应链，机器人业务销量全球第一",
+      "title_ko": "Sagitar Space Camera, 실리콘 밸리 공급망 진출, 로봇 사업 매출 세계 1위",
+      "url": "https://wallstreetcn.com/livenews/3205690",
+      "ts": 1795607509
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "How one Wall St. strategist predicted the S&P 500’s wild 2-week swing",
+      "title_ko": "한 월스트리트 전략가가 S&P 500의 2주간의 급격한 변동을 예측한 방법",
+      "url": "https://www.streetinsider.com/Investing/How+one+Wall+St.+strategist+predicted+the+S%26amp%3BP+500%E2%80%99s+wild+2-week+swing/27398047.html",
+      "ts": 1795607635
     }
   ]
 }
