@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795602961,
+  "updated_at": 1795603123,
   "id_hashes": [
-    "2ef593cba2f5820d386012364f9bac8a5f6f8c1701bdc1c9120591aac9908c44",
-    "05cbadb86685eb03bca62d70795d22e1af640423b76f6c54870290c1d13b1aec",
-    "1c4115aade86cf0728d14bc2278aa46cb87f5271dd03c0ccde635337c816c6e1",
-    "a45034a65528a115237c5d7e29116ff5de08eaf27807a447d8ae03113dec1009",
     "8bbed8c6dc9ba72b020b37eb863728b393e885a94f14555c98ea4bc0ef53b5a8",
     "032879c84cb94fc5beba93204b81a42ea9d1f34df62a91349abaca7368f50bb4",
     "0872c9e72fa61808aa171ebf339da7c2621fd149360b1e24cf3a8ee83231f780",
@@ -4000,13 +3996,13 @@
     "dbb3cb025c5ff3440a16992da59e675eccba5e260c7732429121b377e3907721",
     "82c9088a781e5b1a217e6ef6a5479e4a212d5a8a51b47af1ebba7d72281c4a27",
     "7b10a6b371fe3d8ac202fbc38f7e1fdcb21bf123304843aab0c77db849dbd8c7",
-    "4b7f0da71cd3b286d712ad26e9b6fa3574590972fb93b0bb2cf11803676e8e5e"
+    "4b7f0da71cd3b286d712ad26e9b6fa3574590972fb93b0bb2cf11803676e8e5e",
+    "b70e092854bae67fda3d0a9a72ac610182ff4ab49659e713763d89ac6a555db0",
+    "208b61f04464e13cd74018b211962ec2ad46c738ecf0842a3c2a9762e830a7ea",
+    "eea92b83676580e9ddc14b266a0895d28cea97373fecdd29b03774bcc6c32e47",
+    "2fae49bec47ae864f2dc082ed0c22240c55d05b28f3fe198f830e5a8b136c492"
   ],
   "title_hashes": [
-    "cff95f3affcae392814c9cdb8ba635fef4db166200363e87a847446bdee83dec",
-    "c9f26651a7de8dc240d39b9ee4a790f4e57d382b856eec3a01f546b0a46559ab",
-    "054e149c4818b0de050b6192a561ecd6522f27b0d35b50078006919e36ce008e",
-    "2e026e2fc92b4b4ebc05e823bc63bd2edb863ac937ccc7e92e2358965b0e75cf",
     "5078866f0f8386079903041362357cf174ba4517ad97c66156c4831a73e46028",
     "3924d3f5233f2b31171b0279f724bc1522eeef716ef08ef6ff2a1777af6f5e45",
     "106eeef5c55a252ddba109785ab074e03d0c868924642009cc34f70afa954733",
@@ -8002,23 +7998,13 @@
     "5664215f54a1dd73083b667617f0bb289a20641f5ed15ba333dd665debe12307",
     "b0b1a6679fe27553189ee1ecb35916b2f35681c71531e58ce0af92c90b73ff9a",
     "808bc88243725026f2fbe6c24c9e24af8e64bef9d8f46602b7f4e33b779d5cf2",
-    "e198f35d506e0a78b055167682aa5fc3ca53822aaeedd2cc82ecfc4b96e5814c"
+    "e198f35d506e0a78b055167682aa5fc3ca53822aaeedd2cc82ecfc4b96e5814c",
+    "ed25d5b6b1726647889b915c6016ba666491533eb31040d8be5d8cb6437ff4c5",
+    "9c478b7edf5be5bf20d1b2326e7edbd1d6860bfab0ac846d9eea410718b1fd2a",
+    "106cf623e52bc6995540d2074b6669d47d142f3e05d90a74b6b82c64b9779b68",
+    "ba83897920a6bcc912c60b0e49a09503b25712e781f5954534495a0894d15984"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "KOEM, AI 수상로봇 개발 전 주기 지원…'윈윈아너스' 우수사례 선정",
-      "title_ko": "KOEM, AI 수상로봇 개발 전 주기 지원…'윈윈아너스' 우수사례 선정",
-      "url": "https://www.news1.kr/economy/idustry-trade/6365434",
-      "ts": 1795574149
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "한신공영, 3분기 누적 영업이익 649억원…작년 대비 15%↑",
-      "title_ko": "한신공영, 3분기 누적 영업이익 649억원…작년 대비 15%↑",
-      "url": "https://www.yna.co.kr/view/AKR20261125088200003",
-      "ts": 1795574152
-    },
     {
       "source": "MarketFeed",
       "title_en": "JAPAN'S FINANCIAL INSTITUTIONS OUTLOOK IMPROVES, WHILE OTHER DEVELOPED APAC NBFIS STAY NEUTRAL: FITCH",
@@ -11504,6 +11490,20 @@
       "title_ko": "엔비디아 AI 파티에 앤스로픽은 초대받지 못해",
       "url": "https://www.barrons.com/articles/nvidia-threw-an-ai-party-anthropic-wasnt-invited-09021053",
       "ts": 1795602806
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: 🇫🇷 FRENCH SENATE REJECTS PROPOSAL REQUIRING CITIZENS TO DECLARE CRYPTO HOLDINGS OF €100,000 OR MORE HELD IN SELF-CUSTODY WALLETS.",
+      "title_ko": "프랑스 상원, 10만 유로 이상 셀프 커스터디 암호화폐 보유 신고 의무화 법안 부결",
+      "url": "https://t.me/marketfeed/1085051",
+      "ts": 1795602991
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "TRON'S NETWORK FEES HAVE NEARLY HALVED SINCE IT CUT ITS ENERGY PRICE ON 29 AUGUST 2025, AVERAGING $0.90M A DAY IN 2026 VS $1.59M IN 2025, THE LOWEST SINCE 2022.",
+      "title_ko": "트론 네트워크 수수료, 2025년 8월 29일 에너지 가격 인하 후 반토막… 일평균 0.90M달러로 2022년 이후 최저치 기록",
+      "url": "https://t.me/marketfeed/1085052",
+      "ts": 1795603122
     }
   ]
 }
