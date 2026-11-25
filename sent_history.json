@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795592090,
+  "updated_at": 1795592244,
   "id_hashes": [
-    "bcd496981c8c91ba820e95694fbca2a8c6799637ec3222db4096260d78c533a3",
-    "1d8199f49f38f88cf300cc2d717ebec071647efbf07b58c65371201d5397216a",
-    "2f6121d7196dc9e00afca1b54b6fc4c28035e14ef6b0dacc13cf045ba26cfb9f",
-    "b26d3f2b8af97910096eca1e885cc5ef764e3d9c9263a57d08610b404bd1c9eb",
-    "3cf58750a29cf22d418cbedb640ca14d430a7421241ffbd759453bad8c9b0906",
-    "e0e7f058ee9ea52919574496ae7d13bad9415300ff6f7e4e9c38f014ee733ca4",
-    "1ac075761e8f9eb130bde1d69c6259fb0e63c42e4d6dbd49e1021d7e4427f4b8",
-    "c041b5dfe2c8648b394f75a76050c43c0b709f2985a3de33cd4bae1999d237bc",
-    "d2a7e7b7d3f4fb7669cff52880ed31477be0f5086a0493067e7b17df2cdbe809",
-    "52822d6eda6874c6b061f7d04c0af6ef7090c96666793bcbe9a3591414a4e535",
-    "bd0c3f131e74d4824e893dd2ad01cfe819f9656433287e9f6ce16ca4f8cb7697",
-    "6e6a5e0dfa21200c6a3409c9e6ad7af0f224bba9858532e6d2b6d149772598b8",
-    "956939c7bd395c0e5ca5f64b43f5f56e4371a5f094f9143cb833fe2c9536e752",
-    "8bce8c68f931dcc4ab1c33ef807934c6ab4543e33c30d58e43c6399de848e1f8",
     "81f47855e4cfc748caf32a35ba86598b859a1cb6a3a47cc03c75ba6366614458",
     "01024fd130980120f6e49d374c44530f909d5bec9c036ef61c9d2d193ceea47a",
     "8e2b62d6c1ce0ef290c0fd9f5949ea76c5a2675a514f0c185b9c02b49fe2c5dd",
@@ -4000,20 +3986,23 @@
     "2de926761eb96b8776d5a63f7c218093043ad6d3e4f3c8447b4ffd8027cafe23",
     "e710898c2a73680e99cf5ba47f65f51c8e3a550da4da916956784f838ba89c72",
     "0937141067af955a1772307fe5cec34085cc301d44da908e4083cfb5fba65289",
-    "dfc06a0afe75d6f677f0151c99ca96c15535b9879ab56d7d42d8d9976945eef1"
+    "dfc06a0afe75d6f677f0151c99ca96c15535b9879ab56d7d42d8d9976945eef1",
+    "e41179243f04cfd7e27998179aa1e38c3610b809aca4678b9fcc353b30ecb212",
+    "25d60c244ab613727dcf771561a54516a61c062cbb94aed741a3de4414ece352",
+    "4cd66c89b33547867b28855a06acb3d196ca3a31161a85b85f2c70b691e217ba",
+    "a82ac461c15ccc4cc7cbb2947ff1d07d20ecad2f5da10389f755ed3f0567d123",
+    "6a6dae245b5b2300aece155cded9c122ba4a7d40ea3ad4d6876bea0272424160",
+    "bc7085bf239011df11729f6bfbd5630b9ef23b15b31993bb69b82dda450ef9fd",
+    "b75561d8488e719591643bc98025bdd9ab07962c9af69aa95dfe37955729707a",
+    "d8a691ac96eea152f60f5d62d54bb4ac3a0167b2b6ffb21fdcd97615f365615f",
+    "6cef840a8f3be458a4348746c71f2429290ba8df6cd067a0d13e3f87877070a0",
+    "f92d35ad048a04fe597d5e88229db50e3d7274585d01a285f0c72eed4270c666",
+    "c172b8fce9f5328d3b7c4506189f7db01eae578490f47febfa7cbfcc5504dc23",
+    "4a7c7a12aff95446b5387c6824a1c8ef14ebbaa1d3a1aa0c3d0e8f28333ee6f3",
+    "54622f1f732720301cd0b4dec20bf648f82b21ea825a748c25f58d871bbd476b",
+    "4269412d11f68e926cce73bc41afddff061eb3b6b13c95e7bf0c51a999e2cc28"
   ],
   "title_hashes": [
-    "92f4098ce5fde700dc9b281d4ea3960975a4ba4a1d080eef3945d67c3f38124b",
-    "e5c643519aa6abf2df5c2b659d2294a659c1e9675fb37a75c530ccd767920e25",
-    "c9e5ab61a3654f796b179f7ed6074a8dfe8b2263f8d170d0dc4590389b103300",
-    "5ae00b956e8843f7dfe10a98eae52bedc61e38e4fe1115f34971c8520bd84a68",
-    "e8916de6917678229eea1d5cc2e9e3c1c69d20276f241856bc7de16c63d8e777",
-    "aa6fd5eeb57f9b3c117c3caf3c1f4b8e5a46893046c254a6a2555b938173aac8",
-    "c738399113596b95f0c10d9337709f388caa2f60b4847027890fbd75cee8b8c0",
-    "2925ab67824d2e50e78e99d86dd3edea3f5376d9b243949884863fa6b41b1562",
-    "76a74486733b91fc13206eb93a7fad631aa1c2aa9a5004c76a83b3ce0d15b95e",
-    "a24db25aec0c1f9015ebe2cb17bad2f982c762b213bb2c276ce6908a8d9d2426",
-    "cbd40af2014fc62f93a5c6b940f132f08768df41c8fd1ea73e9f139bd2e99c6a",
     "467243db6723e5179591f7831da9d10ce8a6683dd1b234a6eb4471b69c99aa90",
     "b26ed5e22d4484a56c8bd67cb839cd875082b724fc67af70d019ea6a3d3e36eb",
     "799d2f16e5a5125c33d3fecc29021a12b90a0fec6a6a325d1d9ac819fd1d1071",
@@ -8002,23 +7991,20 @@
     "8b705679fc06e4dcc9e249d9e02205e75a57453d6787f679f0af0dfe208002fa",
     "22ff0cd1db8fc0bdf957186ff8918691a43696388e9edd7d6a7da8de4023d7c5",
     "c9ab9050b21c0716dccbc6cc0359f961b748d2ef07851652c1b2b198f82f8fab",
-    "3feb9d5a3996eb3ed980df247e4d1c3afc95150b8ca67ab60522ea357b2f1b10"
+    "3feb9d5a3996eb3ed980df247e4d1c3afc95150b8ca67ab60522ea357b2f1b10",
+    "9bc2852058c9b4e5e5108a6fbac8b923d4f9ea26b8f1729cd2e692fa55bcc370",
+    "f1c7f47e7c0d2dac57823959f570aa121ec16a06e170ade4d432312a129b9e9d",
+    "f5eb47cbca872d37c31c668ac3ac7566f0c20b32bf918588e6a548d4ac5d1d80",
+    "0ee90f4002cab146711cb54e732c3d552081eb957718cf1be3a592f187f61d5b",
+    "bc08ae54e157f0bef54828605dcf670b1273cd87d7766cb53f534bc52e95bec0",
+    "f10b0268ddbd1874c75c21d3b4a38a4a4ad6593d96b8f450d2928595e3a302d7",
+    "a85a04ac21a607e4280f2284d92b6b4309d84a78c662472b28406f498c6ddfff",
+    "784181fa4481a8dbc74abdb984c565ff1488604fbbea1c2bf268305ac451e951",
+    "91462bd96d1dc20657b77808498b94a6732b136b6b2c985a924498999996277c",
+    "04830af12186bd65e77e55b57ae98fe6c43ace6968b97b2c7b04846d3c0bc006",
+    "33e96e9429b87b9388b5e3511f6d7bc6c4e79a15fe7c503b7215de258cd8edb6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "ASIA-PACIFIC EQUITIES DECLINE AT THE OPEN AS TECHNOLOGY WEAKNESS WEIGHS FOLLOWING WALL STREET’S MIXED SESSION",
-      "title_ko": "월스트리트의 혼합 세션 이후 기술 약점으로 인해 아시아 태평양 주식이 개장에서 하락",
-      "url": "https://t.me/marketfeed/1084844",
-      "ts": 1795565729
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "TRUMP URGES NVIDIA'S HUANG TO TESTIFY BEFORE CONGRESS, SAYING \"I DON'T THINK HE NEEDS TO TAKE THE FIFTH. I THINK I WANT HIM TO JUST TELL THE TRUTH\" - NYP",
-      "title_ko": "트럼프는 NVIDIA의 Huang에게 의회 전에 증언할 것을 촉구하며 \"그가 5위를 차지할 필요는 없다고 생각합니다. 나는 그가 진실을 말해주기를 원한다고 생각합니다\"라고 말했습니다. - NYP",
-      "url": "https://t.me/marketfeed/1084846",
-      "ts": 1795565732
-    },
     {
       "source": "Bloomberg",
       "title_en": "Trump Says Huang Pardon ‘Always an Option,’ New York Post Reports",
@@ -11504,6 +11490,20 @@
       "title_ko": "Dell COO Jeff Clarke는 내부 AI 에이전트 사용이 두 배로 늘어날 것으로 예상합니다. - Dell Technologies(NYSE:DELL)",
       "url": "https://www.benzinga.com/markets/earnings/26/11/63614649/dell-coo-jeff-clarke-100000-ai-agents-inside-dell-double-90-days",
       "ts": 1795592089
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "[표] 코스피 지수선물·옵션 시세표(25일)-1",
+      "title_ko": "[표] 코스피 지수선물·옵션 시세표(25일)-1",
+      "url": "https://www.yna.co.kr/view/AKR20261125146700008",
+      "ts": 1795592178
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Meta delegation meets Congress in New Delhi as protests intensify over content curbs, sources say",
+      "title_ko": "콘텐츠 억제에 대한 시위가 격화됨에 따라 메타 대표단이 뉴델리에서 의회를 만난다고 소식통이 전",
+      "url": "https://www.streetinsider.com/Reuters/Meta+delegation+meets+Congress+in+New+Delhi+as+protests+intensify+over+content+curbs%2C+sources+say/27397663.html",
+      "ts": 1795592243
     }
   ]
 }
