@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795565733,
+  "updated_at": 1795565917,
   "id_hashes": [
-    "cc3c47ede5a692c4a09d5a7af6035b0619b8e1281c2f8b54a460b0a1c018b1f8",
-    "e3a8feaac646e9e9ca8475097de69cade38d48d974f65f251ed0ca845d2f540b",
-    "a6fda5a63a7a624b9d9dfcef088b3937d58683f1c710531cf33151b783c49f42",
-    "615151aec8b93cd4b20de691064e6aec5a6b579c81ccc3dfec9e2b8bab03c8f7",
-    "636a20e5a68a89932284aba258e28a036eff77186c2b5f1c601b13cd0e86c3e2",
-    "ea01cec2c9548600eba85063e3bf7e57e8e08332c98c8c26e75c51e3fad4f028",
-    "0527cbcf4c6d7a687ca04f9daee1fcc3145a28b345db2c58db05ace695857af9",
-    "c60c6152e8c55c601e1d555001a4c2ca4a9e5c9149a1749bedd0005a6ff9469e",
-    "322f7bbe0dadfc5890495dbc4912b224a1b40d97efe1384adc8266ee5235af93",
-    "bd2f7700c9a547371e09fc8e140cc2005c1555843e6210eed1c2f5849fbb3a5a",
-    "738b22b44c53a4aa02398e3b035ffbb0b71d425af3a524786856aef39a66c4e7",
-    "d2fd76abe4396647da675a31935fcc792d58f831e6181656db6e356fab44da5c",
     "04dcc203aae7fa688a86e1157382d034df149d0dfb6bcdc6afdf4103b5e122e2",
     "1c386dfd5de988e96df208b83b0da6ca5ee435324c1118595a1d7caf79046bc7",
     "eaebc3cbc4d642e3809b9a681cc3700692fcf5f64649b0ca4fd8bf5f9e511ea1",
@@ -4000,22 +3988,21 @@
     "ce67b950adbf8bc47b1f5026c3ace8383eccfe2e0f0fbaaee471d78226a04c5e",
     "f321733abd83266aff3af8cefeb6970e9a85be11138e53eee62cc44c49348f8c",
     "8412d61e4c24e65503d7eae6d56c1680c7d2dc7b0afe542a1bf17a39fb93cb17",
-    "b599a0d565c3b7d837c500fac193736fd6967d33e800d85740250d030f05d71b"
+    "b599a0d565c3b7d837c500fac193736fd6967d33e800d85740250d030f05d71b",
+    "f6cbaf6518dccc2c9e5611a454ae2824a95606bd1e62fa8f11adfa6e4c8dafec",
+    "1e187d66b62b207b41f0bead387e4486ac3bf03fcd8396114687f1eae5a796e9",
+    "a38e8201822f2705cf81162b4481e3ec411cf7212738e3a5735d70b8b380db9c",
+    "9056747fbb60b84dd80c448c0832752f50a7f31f544548fc4f080cce04bb9a01",
+    "0f411b4335b1b6dc01951a71206678170500bd96610c196d539c1f82bbce7356",
+    "631dc02f7861765abb123562a9dc5f54ccc1113ae92b6d99e69ded418101fc24",
+    "5e670db0b75adc545af3abd71330853587d3088c19288c8cfc9909984f2ccfe9",
+    "7fad9194f8de2b750fb20b4ef6b0f96e63b5ad601bbe7a9239fbcb1310ebefd8",
+    "c978ccd795ab3c607a4af2a10a3fa53bb9dc3fa30c4e4bfc3bc342452121a695",
+    "6e45faeb492e8ad017b7eec4bd1d08f617e71df93e467ec50bf6709f12995d12",
+    "9083d320644fbb6372c20eac68920a2415cb6246d61555c87104566ce087a206",
+    "8874e24541d33e023eebe84c94ec003595d391f4258ba16d2c95463888406b38"
   ],
   "title_hashes": [
-    "911de1970c0573b2fcaddec92d52666d1ff6eb4723c1aecab6ab3f0aee97d685",
-    "8c2b5a937fc0d0f12133907e2dcd2d22265e3094c1c234c859af0d9944e127b1",
-    "b94086a0ac2165019808e1bbba597d0a39c3af95eed6598b3b5c36d7337fee83",
-    "3e82de3ba3b49e742b135cda8282663861b348be0709cd18dd444f49fde1ade1",
-    "963ec58b619db1fc1e40f39e9c40582758d96c97f6bcfed39f94b7cb14adaa81",
-    "d90098ecde231f177fef3255cc3d67ec95f2aaf972c44b6ded3537bb7d668763",
-    "82ff25d59b05b76a89e170fbb69781d122d982b095b5b9de931ad8b1ea86bd04",
-    "7cf0364a538577d29aeada5f1a34e56af91bbd1c45d81403539646e450d2e2f9",
-    "55e4763709ccd52d547e8aca1c250b1c60b06e954bb062dc5383135725a950c1",
-    "2a88bc401da8e852d2518c7836b6312fd809074ed521ad76250abac62cd66361",
-    "59359b64cf1f972bcd277b0df3e89b075c625b85fb7205bc91c2557a7054dace",
-    "e5ce86612af5f7c5a317a0bd13359bf9c6e93dd5bcf9facea3ab8e76df779c91",
-    "82b56bc558028a80eee8cdfe4bfb1bcafe63a1710f95d4c150176a66340ab361",
     "5022871519284004d25e0a5c076473f7e9c9a87786ee35e9d7094f120ef87af0",
     "698c28c29345e1bf278fd9b0c9c5d3f8683a627a688e4257f3bbfbe60360895a",
     "ededef2a11c62a39642d63108f962ebdd990c40faad6c86ec5c4ef3de419238b",
@@ -8002,16 +7989,22 @@
     "cbb6029915e08f1565abb34a509f05660746280ac8e01d0869c05b49942b24b2",
     "4aea88ddb10fab8fc9c1dbedffd5cc55e8dd97df0f14ce0a94ee392840f22281",
     "89be95cf53d39cec327c5c06b64eab9dda27df028daeae15bb8d67dbbf6ca189",
-    "07f304052514f05917abe09599d9fd7fd9928507f8553e026db42e2f9cd86e65"
+    "07f304052514f05917abe09599d9fd7fd9928507f8553e026db42e2f9cd86e65",
+    "5371121dbdcbbe95c203fb6a50163590fa580797d4b4f1df1d426159565d22f0",
+    "c2e2cdbb716c77198cf4f166c9236f8cf50b458c30f622159802090896f1fcbe",
+    "9853249467c4435dbe927dd574018e058825ccd94f1655ff3c8c8ba74c42fec1",
+    "7c4b6117fcc6215587a761cf0b9e0a0e35d915f996d858b65a5e72989e478feb",
+    "f1c3283ac4ec44258f4a127b5b8a4c6934d6003d9ee51602c4adc68fb7f427ec",
+    "79432cf8837585f8c90da50f1eadc2ff6672b5c32ecabd459dc3c6202d594d32",
+    "400a8b4d1afff153e6d1b803d9b507236ef5ff48abd2340cf2a6984119fe491e",
+    "bce5fe3f6700d68e349e78f07a8e6824a79847a5570dce9a5413c296aa8eedca",
+    "dbb21665b4f93c070d11270783c7cd8423c22803cb2cdff049dfeb5e23b02e0f",
+    "8680aabed4dbba111cdd95b50853c29292ce9b201a5e43f4db5e4cff5305d253",
+    "0f8341fc4407b8bddfbf4c039dcc2eae0af01555b0ae0a64390112e6ab000a16",
+    "97bd6ad32840c8f56b4a97a8e4053a898260b11779f8a2bbfb4e372baa581a5c",
+    "61132dc78cb7eb6ed5589db913a8e9c785c5adf20adf78bcf4356d01e3046300"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Barron's",
-      "title_en": "Chart of the Day: Astera Labs, A Beaten Down Semiconductor Gem",
-      "title_ko": "[오늘의 차트] 아스테라 랩스, 저평가된 반도체 보석",
-      "url": "https://www.barrons.com/articles/astera-labs-stock-beaten-down-semiconductor-gem-chart-23c7a41b",
-      "ts": 1795536559
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Microsoft has declared 'Code Red' for M365 core service health after Nov 12 outage, internal memos show. $MSFT",
@@ -11504,6 +11497,13 @@
       "title_ko": "트럼프는 NVIDIA의 Huang에게 의회 전에 증언할 것을 촉구하며 \"그가 5위를 차지할 필요는 없다고 생각합니다. 나는 그가 진실을 말해주기를 원한다고 생각합니다\"라고 말했습니다. - NYP",
       "url": "https://t.me/marketfeed/1084846",
       "ts": 1795565732
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trump Says Huang Pardon ‘Always an Option,’ New York Post Reports",
+      "title_ko": "트럼프, 황 사면은 '항상 선택 사항'이라고 뉴욕포스트 보도",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/trump-says-huang-pardon-always-an-option-new-york-post-reports",
+      "ts": 1795565916
     }
   ]
 }
