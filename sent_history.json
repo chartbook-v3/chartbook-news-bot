@@ -1,29 +1,6 @@
 {
-  "updated_at": 1795640345,
+  "updated_at": 1795640522,
   "id_hashes": [
-    "13f4c5a7578e6411993c2ddd44fc23699f038abf4a6457b57769f6e4d27d171a",
-    "7ce045b57dd52ddadca0f9e20a2777c1950a4ff4d029ac83144995b9639eb78c",
-    "5b5308f25d5592063d8c719983439c2999c73b59f17feb867c87ee8237d226d0",
-    "c123f7029e8134d7694661901d71802520435efa8695f3aa83071ed6f705b4d6",
-    "653b9cb8e42d4ade93b74b0b4f6202802ec241981c9030340b52062b7fa68df2",
-    "4102a85cba17f69b6164410f0d3a5c2b2634b56de9870168f126054b999d9043",
-    "9d5cab7933d96e788fb3c12fcfbb4e253f7f5b694342319bcaf8fd90daf3e493",
-    "4f1a30cfc81e8453c6c0b21404bb26fc34b532982530da8888b1a9877a9583ab",
-    "764e18e43ce3b01f820ef1fe36d8b31a6faaddd2221750b09c45e297545d5708",
-    "9e8cacd326bb709d2dc964f92eefca6a066cf4df41e9ccbca26229dcb9b26efa",
-    "e7cb8018b9d08b5ddbc9edc694f965dff8d154d55d6d6609b5128b6cb4d46126",
-    "5af2a7071ca0712aa57bdabd40ec0ce882e587b6369a6a75f9aca37fbd6f2178",
-    "ff762c61974fa47fdec78f44fea1123f6afb22f6f3eb4f40fd81593669769c2e",
-    "454ebb54f703a66cd44bbad3e32300cce142df204ce7c3129ed21b8b8ef375ce",
-    "555861001e89b80ba38d636013490db910f2f767e1eb97b9401066f288f3751a",
-    "bd60d4b27eb7211b28124a7aa1702cbc03c17349e7be42e4ed4441e44da5306b",
-    "12c7f476af0d4651521924864988bdc30735d87ebbd0cd685fd2a1ffaa51f349",
-    "bce46b24a309ca1b85ce2234ba1056d8120d41fd8fd6cdc08cbf0b63c91b3447",
-    "2667d8daf38db22f6a5e794978dd47c136716de289e5bd19108ce7186e33ae74",
-    "59c3931cb819fc72cff246f6a9d94eded232b20c2a03f222055851f1a09d9ef3",
-    "870584630ea852265b60fc56a699efc33a314fe48156f077ed30b2d7b8a59fca",
-    "cade6e7d62f1a600c7efd82d4dea404a2405c325d693326b18c42b98b9281c59",
-    "eb50c484e8ca62e73fc6a65c1f4b80cc181817620cd554378e29f9bc17078ceb",
     "ad2e979aa5d40d0f5a0385b690fcddca58ee4ff759c1e58fbcfba2cd68d35433",
     "abe1101ae7c4c522279d339231c353ef9fe7a2b18f57716119b5d8520dabbdb2",
     "f0cad5efb4908b50a0f51e6cbb378b35a0b15fa762a522ffbe4e53a023feb9cd",
@@ -4000,31 +3977,32 @@
     "2bb994b6fe4adc5606327244077b97a366b2cef13b64776b7203946a09b01600",
     "287be634a94adfd48ab765e9138e8ed822831a722f58d703676990537f9c7556",
     "3f2029d574bd9a5160e7e15d0755023bb7eb2d0382b4871969c923405b9bc992",
-    "e529f80aeb9a0df70be36a72e6ec1e420bc27f528f5db40972a69bb3219812b6"
+    "e529f80aeb9a0df70be36a72e6ec1e420bc27f528f5db40972a69bb3219812b6",
+    "a048c7191bbd0181fc226f06659c264e57b29ec740b72007f51a6aab77e1aa33",
+    "0720ca37291122a60f627e3656886f0708d282cc81da2deeff19c7acdd04c37c",
+    "af4afa80037aee81c4d531e9821763bc734bad14ca441c24ffdca7b7240a3bf8",
+    "fc8f495e286752733ddc85fd3195dedc30cc2e13cd6955c4494e09edf08c5e06",
+    "f213d031eefae6dc1e2fc1f7e8cec770851dba841afaade680f05f0a398fb23d",
+    "844179bc2a84c28e812370698ab78f770fa8f39ebb7d0850c543e4cfe7a72a09",
+    "3d8ea97787ca115e03fab528d4ab27fe9ae812f59fc22c2f7fc20f837bfaeca8",
+    "07a3e13d67f9ec46b15918c8a47fb90c77c5808a1c1e9e3eeedb67d7b786506a",
+    "825117a0f236b88f73751078c310a34e5c950dfd10d9f00d48220a4c16a071db",
+    "45d9962d7031248e1adcd754b23a55c218330ac62d68391b4c6a86096b2f5a48",
+    "7d65808f00dc594c03664129d53812210f6dbbbf572c2510ea4a8398d7e6940f",
+    "bfae0058eb1fe5b57362654d32f01bbb37e59605ebd9c2b190d7e59c68fe3245",
+    "85879ba54f9e25e44aa72c49e253ee125f5507a808f849ee4ef33c4617928ff0",
+    "52e5bcdce6ab1ccdf0d8dfd3a066fe88620a9dc2e8601da52ea5fc4d4136f39f",
+    "d778b719267a0595010a20b37c26f149860a5cf330920aa50e0f9841766c7812",
+    "ccd0b403bc3c4010f47861645a6538056279b3d4c805b34036ce3263166e0e9f",
+    "f09c76865bd65772e30216cef38f62b4e0a2214c21e1eb5f7088ba36f973f6d8",
+    "30d8522de8a898848b0ac00eddda8de8fb8151dda0b275121d4c439c2f1f24a0",
+    "5ab4664d0220fba90b3cf100b8312da33f88ddeeb97d7f1f426af1e0a0a1b5ea",
+    "298b5a5c44902d18168b3447983de118a25b931d2d8682c96e7d7e4cd62b5aca",
+    "c611b0976d46391a040c2dd07fef1d6b79926abae2252db51cb6d07a5caa7ff6",
+    "d6f6918c75ae262d2c13246e1ee6941108431ea1617cf41c6adbd6a00722960b",
+    "2b6db8f952e3243e372bfcb83fca7bcc11f21fcf4d072e403c830b320bf794e4"
   ],
   "title_hashes": [
-    "38c56feae4b48cf89714dfc228ed5b14d4590c5a2f4fa0582ba527a72e71c30e",
-    "fbecc0d1585b06c3d5209e01b97637567f00b47c2243384888b23e306caf6d98",
-    "70b197c2c48652d4562f8dad86f89015eeb47773f01ad30abf5d560b625af02f",
-    "9b999c9b639a9cea1db6068dc54e6e0a64b7030182d37e7d6b994392ea08b0c6",
-    "110774c1f890bba7162b32cb94a950d0961ebfac4d04e524befd5122522a5a9f",
-    "f342d1eedb9ce59857e63fcd8a1e463739d8eb64ae1d399f331fb5a60cdcf981",
-    "ebbc4cefb8cd11162e822d9075d1e7274b4e2890fc255e32ffb4641b0fa70e7a",
-    "e7a14c2c2a06f7d295c8358bb29ea45374ee1f4aa59f778bdafca13ab8d96318",
-    "d254c1fae8539ac47eaf3ff62cfaba23fe181c079daba769401d0bb9b57f75a8",
-    "8d5a37eb97017469b0161d53f2c25ae84828c4eb24f9cd1003c12b1e90bbaf28",
-    "eefb1b0c0ae5390823cd88659632c8652fd62ca7feb541fba0fb89fd1c6cb724",
-    "2347ef39f0a6c442087df7d2d7025400d689fc3508b2bba636780cf0b26c08af",
-    "ace5036f4d048179fa4a5fe40ee13114dece44c114b772027275c552c59a8528",
-    "1779fd3fed8a5c5083f22f920db0e6d1d303ce84501280da6346e4d2895d1dc0",
-    "dcb26f02c4c9bf4b0251e86ada32b29ad874df635b3d765879f53eeb5fbf6e8e",
-    "c27d7ad5d78c75ebfec35216b40740454d5e898bfe22dd54847c9a16b9f4f475",
-    "3f8ae6ba100a87653457ab78344c7fe07d7d35528ea8a8258afff4fee2b7ea27",
-    "bb062bcdda54c2f72960c2f4208c1e416c9d1ab35189a2c648d17d112b709ad8",
-    "2fb702451ec76728edebcfd7be535104f0d37a83666852f16a734c9465da65ad",
-    "573f85929e5d97dfb41e99f7da03d5c35d8a7b8f6c7f7d020b97315d122c992e",
-    "ea5fd5d73bd7ac1d533fd0c432d2c261766c76301f282a14b7b9c8275240a2ba",
-    "9eca40101801c384f43fe6e0bbbd9ec2e7d87c765ff37f094012d76c41a3e44f",
     "e60fd4661b333f99950b9549e74e340b1317923efa316af8add7d6ca6d931d9a",
     "8d267ce0f4be22e0867e6512e91ef5db0b3ec1d5e7d96c8bc33f7cac193934b2",
     "3a6149e6bb473cf5974879d1adc43c59fd28f19036348ccde38dd77c645ebdd0",
@@ -8002,72 +7980,31 @@
     "2bf151cf83061a50daacffd67437c737ac97dd8cc5fc947d75073c25b107ade8",
     "453932f05208e3c62a57f272ff92a6cbb5df12e1545a50ffc52999a5c8c0de78",
     "c8384e1fdf5433500f6525e0cb9f236d5330065a5776f47476324e0721f1117c",
-    "97c756316dd15800fc228dc236e24a9499d473d716ed77da304ccb4eed420934"
+    "97c756316dd15800fc228dc236e24a9499d473d716ed77da304ccb4eed420934",
+    "37a9c9881b2862f2987e50b44c39154b2b3fa3c857d3f063821530b684e4b5a0",
+    "24224e9a67c372f0edf21e5f878cd495ecc093ad7caad93a98e0652b49ec6b8c",
+    "21ca47cdf50a92d54b7bfd523ca31d2d7c9c20959aa721ca44fe52a6b8f9a5fa",
+    "7d26bd36dd2db1a00de31963bebf11701b9fd1547b3c63223d6cd9a92d25ca91",
+    "055a6707b7ba9b5d4adcaf300b7f920a5e08b6ccc6f71456f07966407db6865f",
+    "7323daca570ce1d97527ff56791155e3f6ce3eb6317d9011b0be3d50cfdee6e3",
+    "7be4fcf3671211cc3f15a4c98b611a29583987269272d89b1f7f5762acfc5418",
+    "d412d078331ae4c1f6811cd3803c67a24cc8e06950b23f0d60897d7eb9b7fd02",
+    "7f178e2632df0b61b1e9a759ae47f89c434efab3d9c65d1ca6dd97ecb58cd2a5",
+    "3cc3720a3515d5276fa33dc787c29535e5682f71cdb993f31382745026bc4e46",
+    "1601931574a97331f4d6f2fcbff6a1220182d0d6b6c0fecd3046df790c72d0d1",
+    "995bd0645ff072e86a304dfe43014f02800538a0c15ca11f8f3b78ff6192e52c",
+    "2e71fee15c48bdf2e4799e3091bc834093c5170e2c9ce6afa6a2514c4da14b8d",
+    "eb5aed1f75bb3feba6d5585c1b165a8bd6e4a590195cddd95d5f7aa30f9c7f59",
+    "f71a6301a6b9cf6361340b05d7c6ebc786676b4ce022f24957dc3946b78e2c94",
+    "f52c77bb0b02d66d94c4b82a8659ab9a6a058f12e120de51804ac74a6fb5dc1c",
+    "1fd74a126c9b9037f65939ad375e3d4feac6307470709895e1e3be21ed3c489e",
+    "7296ebb9617668ecaa0c78c7b5e6ae74eb1d53f7e0d488c803ec512aa35fce60",
+    "1d2afb9aa3a7dc8fd9e3862d76b9babb61428bafbf21285059f87423e9e4982b",
+    "5ee74c9c324aaf43c9909155a19eb4e830b3829f8d0e447b502d85e3e48bc3c8",
+    "d0cde02fc9f135b92994d86fe74666dd66e70041ea1e560f85b82d1cb9a3e352",
+    "92eae6be2d064389bc342db284fd7d24cc93473f41ce0796359aeea1cf8dae13"
   ],
   "recent_sent_articles": [
-    {
-      "source": "매일경제",
-      "title_en": "코스피 하락 마감, 4,697.51P (-6.16%↓) KRX SK하이닉스 TR 지수, KRX 삼성전자 TR 지수 등 하락 주도",
-      "title_ko": "코스피 하락 마감, 4,697.51P (-6.16%↓) KRX SK하이닉스 TR 지수, KRX 삼성전자 TR 지수 등 하락 주도",
-      "url": "https://stock.mk.co.kr/news/view/1205798",
-      "ts": 1795589430
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "법제처, 과도한 행정형벌 완화 기준 논의…다른 제재로 대체 검토",
-      "title_ko": "법제처, 과도한 행정형벌 완화 기준 논의…다른 제재로 대체 검토",
-      "url": "https://www.news1.kr/politics/pm-bai-comm/6365833",
-      "ts": 1795589432
-    },
-    {
-      "source": "뉴시스",
-      "title_en": "고흥나로도 우주발사체 국가산단 지정…'우주산업 탄력'(종합)",
-      "title_ko": "고흥나로도 우주발사체 국가산단 지정…'우주산업 탄력'(종합)",
-      "url": "https://www.newsis.com/view/NISX20261125_0003883018",
-      "ts": 1795589434
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "‘Disastrous' for ASML: Dutch Lawmakers Revolt Against US Push to Tighten China Chip Curbs",
-      "title_ko": "ASML에 '재앙': 네덜란드 국회의원들이 중국 칩 규제를 강화하려는 미국의 추진에 반발",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63614377/dutch-china-chip-curbs-asml-us",
-      "ts": 1795589438
-    },
-    {
-      "source": "지디넷코리아",
-      "title_en": "美 상무부, 메가스피드 수출 통제 명단 추가…엔비디아 칩 차단",
-      "title_ko": "美 상무부, 메가스피드 수출 통제 명단 추가…엔비디아 칩 차단",
-      "url": "https://zdnet.co.kr/view/?no=20261125154809",
-      "ts": 1795589443
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "美国10年期国债收益率跌幅扩大至5个基点。",
-      "title_ko": "미국 10년 만기 국채수익률 하락 폭이 5bp까지 확대됐다",
-      "url": "https://wallstreetcn.com/livenews/3205471",
-      "ts": 1795589445
-    },
-    {
-      "source": "Barron's",
-      "title_en": "TTG | Transten Global Group Stock Overview (Pre-Ipo)",
-      "title_ko": "TTG | Transten Global Group 주식 개요(IPO 전)",
-      "url": "https://www.barrons.com/market-data/stocks/TTG",
-      "ts": 1795589554
-    },
-    {
-      "source": "매일경제",
-      "title_en": "삼성전자 보통주·우선주 담은 초고수들…SK하이닉스는 순매수 2위서 5시간 만에 순매도 2위로 [주식 초고수는 지금]",
-      "title_ko": "삼성전자 보통주·우선주 담은 초고수들…SK하이닉스는 순매수 2위서 5시간 만에 순매도 2위로 [주식 초고수는 지금]",
-      "url": "https://www.mk.co.kr/news/stock/12218169",
-      "ts": 1795589557
-    },
-    {
-      "source": "매일경제",
-      "title_en": "‘우주도시 고흥’에 발사체 국가산업단지 조성한다…국토부 최종승인",
-      "title_ko": "‘우주도시 고흥’에 발사체 국가산업단지 조성한다…국토부 최종승인",
-      "url": "https://m.mk.co.kr/amp/12218111",
-      "ts": 1795589578
-    },
     {
       "source": "조선비즈",
       "title_en": "“마이크로소프트 잡았지만 구글 놓치나”… 인텔, 첨단 패키징 수율 난항",
@@ -11504,6 +11441,69 @@
       "title_ko": "[美특징주]스노우플레이크, 기술주 투자심리 위축·월가 목표가 하향…주가 약세",
       "url": "https://www.edaily.co.kr/News/Read?newsId=01216886645649656&mediaCodeNo=257",
       "ts": 1795640286
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "美 국채금리 일제히 하락…인플레 가속에도 안전자산 매수세",
+      "title_ko": "美 국채금리 일제히 하락…인플레 가속에도 안전자산 매수세",
+      "url": "https://www.news1.kr/world/international-economy/6366302",
+      "ts": 1795640368
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "오늘 금통위, 기준금리 3%→3.25% 인상 무게…내년 추가 인상 신호 촉각",
+      "title_ko": "오늘 금통위, 기준금리 3%→3.25% 인상 무게…내년 추가 인상 신호 촉각",
+      "url": "https://www.news1.kr/economy/trend/6366168",
+      "ts": 1795640370
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Slate Grocery REIT Unitholders Approve Acquisition by Brixmor and Everview",
+      "title_ko": "슬레이트 그로서리 리츠, 브릭스모어 및 에버뷰의 인수안 승인",
+      "url": "https://www.streetinsider.com/Business+Wire/Slate+Grocery+REIT+Unitholders+Approve+Acquisition+by+Brixmor+and+Everview/27402502.html",
+      "ts": 1795640374
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "美股费城半导体指数初步跌0.6%，存储芯片指数跌3.9%，半导体制造指数跌3%，科技股七巨头指数跌1.4%、超大市值科技股指数跌1.1%。\n\n标普500指数初步收跌0.1%，科技板块跌1%，可选消费板块跌0.8%，工业、...",
+      "title_ko": "미국 증시 필라델피아반도체지수는 0.6% 하락, 메모리반도체지수는 3.9%, 반도체제조업지수는 3%, 빅세븐기술지수는 1.4%, 대형주 기술주지수는 1.1% 하락했다. S&P 500 지수는 당초 0.1% 하락 마감했고, 기술 업종은 1% 하락했으며, 임의 소비재 업종은 0.8% 하락",
+      "url": "https://wallstreetcn.com/livenews/3205927",
+      "ts": 1795640440
+    },
+    {
+      "source": "매일경제",
+      "title_en": "[단독] 골목사장님 쉽지않은 대출…단골·현금흐름으로 신용평가합니다",
+      "title_ko": "[단독] 골목사장님 쉽지않은 대출…단골·현금흐름으로 신용평가합니다",
+      "url": "https://stock.mk.co.kr/news/view/1206105",
+      "ts": 1795640502
+    },
+    {
+      "source": "매일경제",
+      "title_en": "“삼전닉스보다 네가 효자다”…환율·블프·한중FTA ‘겹호재’ 에이피알",
+      "title_ko": "“삼전닉스보다 네가 효자다”…환율·블프·한중FTA ‘겹호재’ 에이피알",
+      "url": "https://stock.mk.co.kr/news/view/1206109",
+      "ts": 1795640505
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "DOW JONES INDUSTRIAL AVERAGE CLOSES UP 197.98 POINTS, OR 0.40%, AT 50,216.68, UNOFFICIALLY",
+      "title_ko": "다우존스 산업평균지수는 비공식적으로 197.98포인트, 즉 0.40% 상승한 50,216.68을 기록",
+      "url": "https://t.me/marketfeed/1085470",
+      "ts": 1795640514
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Neuralink: Received FDA ok for a trial on a brain implant",
+      "title_ko": "뉴럴링크, 뇌 임플란트 임상시험 FDA 승인 획득",
+      "url": "https://www.financialjuice.com/News/9868382/Neuralink-Received-FDA-ok-for-a-trial-on-a-brain-implant.aspx?xy=rss",
+      "ts": 1795640517
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "Neuralink：人脑植入临床试验获得美国食品药品管理局（FDA）批准。",
+      "title_ko": "Neuralink: 미국 식품의약국(FDA)의 승인을 받은 인간 뇌 임플란트의 임상 시험",
+      "url": "https://wallstreetcn.com/livenews/3205928",
+      "ts": 1795640521
     }
   ]
 }
