@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795580263,
+  "updated_at": 1795580421,
   "id_hashes": [
-    "45aff3968c6ced3eda51cf81aab8607d971e2a688fbd5ff5f1357a7b74ebb3a0",
-    "3bc73854638e70e0219f5cecda90eda21f87fedfb6a524b698895f7900ad48ce",
-    "5e8f73f962d253e9861949ad90edfa7bf9faced406e3c87c88d178a631f3133d",
-    "a2e37869f37c43e712602114e3e0cfa441e93d69e696f92374e315157dd90be6",
-    "dcce796c9f0f356198da7410429e2d43d18887e8e06685c7afe000ce9ffc7625",
-    "753de87e15d2681cfe12505358b346ce95707b555ff464b422c0f2c34073c19e",
-    "32224c8040f1baaf7a400ff4239ccbdae3628991ddc8c8b576bb64f426c8beab",
     "63c4011a2edd7a1f613fde35c8b0669abc5507e4b836b24654eaa886539a426a",
     "c2d4937fcf62ff6bcfaa4c48e25150fabee1e88666f68a913812916a16f61f6b",
     "981882ad92785881593309285e45b9ac23f2628e5e46e35820401a48842ed2f8",
@@ -4000,16 +3993,16 @@
     "b28f1e3ee8e389a0439bcfecc80a0fd1dad98228d92d4196387d2c9feed7a8c2",
     "cfbeac93e53f8accd7ca7c68c9a55cec39c8e19affbcd1517aac47e16a9dff05",
     "eecfaccc3fac8d90be6c65661ac3190f1d3761946a46b101c39dddf940aed9db",
-    "181408609eaa65fa40d1f91819c6a79e7dede399a550fd4a7a9122505f497109"
+    "181408609eaa65fa40d1f91819c6a79e7dede399a550fd4a7a9122505f497109",
+    "726fe2a272d2cf08fc49cb08c50a7e635572240bdecc4e34d071defbce15775b",
+    "ebdae7d9b12a7c87fb513ffa07d288526c55eb365458913ef73a226f2a5763bc",
+    "467338d33dbd27589211f18d3c775608aa90a4b3be9f2adcd50065f95d00a47d",
+    "79c596a8cf1ddff59acb89326a7ae6a68ab0cce469d441820daa02bcc1c0800f",
+    "6eb15cfdc461330d45f83247fb831a0d09b41e654a83443bbcf94a11ff11223a",
+    "863e8799aa9aea183b2a4c7eeef430af4892d476f57ef86a2b6da7c448c271cc",
+    "3b1712ad2f1a11b1683adf1b23ce270311b1053d8eaf6cb56589c2393536456f"
   ],
   "title_hashes": [
-    "db6ab019da1f8588db22b6efe284371539bdf99bee9bbbf2ae66f5b00b717ef4",
-    "0b8a620620194d02418e0d8e5017628dd1f684cc41303d43c0bbf7c14f0ee22b",
-    "adfe1fdf454493215c44328865d98600f51258adccaf518feb789acb93e98bf4",
-    "6fc4b0afbc35fb7b5ed6d86679c7ee4d934a67a2be2a358c3861686f23a44cdb",
-    "cd9637f8fdfb90430af3d59b0303ee0f455ad2538a92b9c249997c0df680d0e6",
-    "59e618c6c09716d1328f6e93a083774fc2b1143e1e523ac7235f7d449044130e",
-    "647dec12624683016baf386cd95b577ad7befc6176bfb509f84307f5067a460a",
     "141b66b7752729674ba9ab64af7b481afbff3c0cdf69fb0749343125902f3cef",
     "145e07abf44f543b5c153fa9a260c4a151425107078342fa24721feeb80d16a4",
     "649f06d5b73a2469ee981ecd6df84282f88d13a74fce79e4dc59f1b3beaa5998",
@@ -8002,23 +7995,16 @@
     "40365e974d7c6cc4f35c6a3d301b781e1b7af24eb869c08a1ae50f865ffbe64e",
     "fa6d2ee35484c33e291ad001730744d7df762272762537360e788996805c268d",
     "0d010ab9a61d9fcc282cee2d67e9554853cd5843f868e30c4cdc5d137598096f",
-    "b1edab33435e815fdd538f653adf291f3661bc61f6d35db0b7aa2bf2202d4ea9"
+    "b1edab33435e815fdd538f653adf291f3661bc61f6d35db0b7aa2bf2202d4ea9",
+    "269712a73005c09fcf8ea279ae4ad3c7b29aaa864d8df433e45e699cd12fa256",
+    "e2ce788c6c44d4a7d4b4caff53f145373d43ba12eaa00311c26c9ed21e35000f",
+    "3cc427fe36a84ce2afe06dc8a724337ae43bce1c00fc03d571f6b309617e3209",
+    "eea70a36b5c5e83b36b4765763b115d192e479d2827375b7e82a1cffebddc44c",
+    "2d2029c028282f2730266130fb924bbb90d3a7b7ba6e32980e65b361e8da5cbe",
+    "4670c46e67f46bc2dcdc8f03f599a1fac9a9e396564dcb36eb5b5465f9fd786c",
+    "eed4ea6d2c1f64f976bcde16c09f6db4c538c17f5717dff39d3f4d6472840476"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "젠슨 황, 복귀 후 첫 직원회의서 \"엔비디아 후계자 계획 필요 없다\"",
-      "title_ko": "젠슨 황, 복귀 후 첫 직원회의서 \"엔비디아 후계자 계획 필요 없다\"",
-      "url": "https://www.news1.kr/world/international-economy/6364912",
-      "ts": 1795553969
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "美国费城半导体指数初步收跌7.9%，半导体设备指数跌6.5%，存储芯片指数跌8.3%，科技股七巨头指数跌1%、超大市值科技股指数跌1.4%，AI软件先驱指数涨0.3%、AI赢家指数跌4.8%。\n\n标普500指数初步收跌0...",
-      "title_ko": "미국 필라델피아 반도체지수는 7.9% 하락 마감했고, 반도체장비지수는 6.5%, 메모리칩지수는 8.3%, 빅세븐기술주지수는 1%, 초대형시가총액기술주지수는 1.4%, AI소프트웨어파이오니어지수는 0.3%, AI위너지수는 4.8% 하락했다. S&P 500은 처음에 0..",
-      "url": "https://wallstreetcn.com/livenews/3205218",
-      "ts": 1795554037
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "纳斯达克金龙中国指数初步收涨0.2%。\n\n热门中概股里，联想ADR初步收跌11.9%，日月光半导体跌7.7%，小米跌3.7%，百度跌2.8%，网易跌2.7%，阿里巴巴跌1.4%，腾讯跌1.4%，百胜中国涨1.8%，金山云...",
@@ -11504,6 +11490,20 @@
       "title_ko": "Workday는 2028 회계연도 구독 매출 성장을 최대 11%로 설명하고 비GAAP 영업 마진을 최소 33% 목표로 삼았습니다",
       "url": "https://seekingalpha.com/news/4676424-workday-outlines-11-percent-fy-28-subscription-revenue-growth-while-targeting-at-least-33?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795580262
+    },
+    {
+      "source": "인포스탁데일리",
+      "title_en": "크래프톤, 독자 개발 고효율 LLM ‘라온-1 미니’ 정식 출시",
+      "title_ko": "크래프톤, 독자 개발 고효율 LLM ‘라온-1 미니’ 정식 출시",
+      "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=219102",
+      "ts": 1795580417
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "SHEIN PROVIDES REGULATORY UPDATE ON ONGOING U.S. FEDERAL TRADE COMMISSION INVESTIGATION",
+      "title_ko": "쉬인(SHEIN), 미 연방거래위원회(FTC) 조사 관련 규제 업데이트 발표",
+      "url": "https://t.me/marketfeed/1084918",
+      "ts": 1795580420
     }
   ]
 }
