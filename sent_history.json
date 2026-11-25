@@ -1,17 +1,6 @@
 {
-  "updated_at": 1795605209,
+  "updated_at": 1795605378,
   "id_hashes": [
-    "ed70ddfc485ae0c8a4416a2db73a8d7e9c6d2335efc8f4af6d06d8704e698bfc",
-    "bc49b4b65925adfc10a8d77452f50b79db425826c7406af58a5e758d35e3099a",
-    "feac5e81549bd3ce9545ee39f6a98af26c0b1586f71731e9cadb5cce00040087",
-    "97d0a38e3d9506067a5ec91dab9c86b5b6b1ba1d1cacfcebb7918375a8b19bf7",
-    "4896e12198be3c52f0ec93048307a0c227fd2a71ef7ea6e3070d544253c3f9bc",
-    "6aa890b9b61edc63a32f9cf03bfe0410bbcdcc3f8db9b4cb8c7d397e1428fcb7",
-    "0f3c5f724824d12a26cca5b791e82c1237d20a2bd003b54268c9d482f304f36e",
-    "046ead3de7a3b1c3ee55e11ca1515c8a29b685aa56c685ad0540fee4387db9a4",
-    "84e853d5463bca356562c4440c2d2420e3987c1c5dc959c0ef51fcf5e848ad6a",
-    "c56415af9210c35ad54ba531e6884d6e11dd0fb46658e9a5ecb801e8452ddc83",
-    "72826ff64ba5e552d51b57cfa70473c050f1d866b5b82ac14c60a92f0c24ef04",
     "cea885d6e1df565d7df75b5681b8fd4c3d1684b14f7aeb8ecd68aee68801a0d8",
     "e022b88793f195be2f36d08390f9acfc1fce0b0d5325a871c326bc0daa760996",
     "0d7599a72079700ccd1599be26f6e208ad5d6ac088c1890b0e0810fb0396d486",
@@ -4000,19 +3989,20 @@
     "3d86415e6ee44d3c771a22f5904ecdcae97e30396d8a5a7a6d0aed6c56295f27",
     "0dec7592e89b1618f59fb186aacbb0253055ec2a14a3b5a1fa96dc268aed3ad2",
     "a7006a79b58e710a094458c62624462b2b5117cad4897e6bee3f2e24a2d145b4",
-    "7bdeabb3f2579c8f480c1d24e157a9ffed21080583c6574f12db9cb0bc70407b"
+    "7bdeabb3f2579c8f480c1d24e157a9ffed21080583c6574f12db9cb0bc70407b",
+    "7692b19a2a64c1b51afd0da3bd5978e391a3fe80da4ce147cf9344d7d69baaf8",
+    "8159fac03862a775597238cbd34eefb5bd5a76b1075add0155d27990a6d72872",
+    "ec9763b405fb56e74a0bb8bba854cebc1c07aac53f21a9e3976cee93c5fdcb0c",
+    "0b15421230f9f2e3fd7845c5a3b0395b520221aea193744e691682e767a36340",
+    "c51fb2d729f5cdff929f289b0af3354a71bc9712274c86c95a0351a9cba9960c",
+    "bf49da31c8fd1c161f39cd7faec6f4e396c1868ff79b24f8905b97057239b459",
+    "6214346cd3c68a46d7e06b09772ca6ecade3fb962426863e8f3892f4a253192a",
+    "5e74177a3e44adcd53ac442ef1d48c26a35bb18a3460d9d206fc1a5d0abe1f9e",
+    "f91c72dc1a4a9a5ca3c62339b1dc171cc4d4257c5eca07221498297f4e00ee73",
+    "7965e9bcc17ea85418df5094ef8a9b4d18c13b2c0646511b07b62673abfe66d5",
+    "33d07e80c12bd2c559069881722e49d548fc52924058fa64425767cd1947ef53"
   ],
   "title_hashes": [
-    "e2d87e8e498ea6b2838adbf2fd7383bba17db672ce7378f6a42c05e1daed1b08",
-    "76220dcf8567b11d6e69ff4b5abce622220a211cb01d2b0e35c4e2977adf6af7",
-    "b91b7e023e247d13a8ff7b4fd80baf2c656001fd96c9d7559ada79efd3a01640",
-    "557c4a0fdc2eacc8f322309cebc6cca2ab7be1409fb3ebbf1afae69a4d7425a1",
-    "8bab656635216eb7c9c0f9fe24bca59c1250d113c7506f8f9ee2f5f074172529",
-    "caa9160f999da6ddd4673c19e8bb266ba59a4bfc8130f16c6db523647ea538f1",
-    "15494626491445fb1c712aa44c1269e6dab72949cd295903613f5f45378a07c1",
-    "b6fc8305f26a98baf2561659ae6260691d20e7d71a340963eb1885291cffdb5f",
-    "ae1245074153101072b46b7ceda543d89c4faed53eb8e2f2b61dcfd28124ff9a",
-    "8227bcc7f658dda018cf04b2325196ca369e46c87d3f3c372a64d3659ec1e3a9",
     "8f4f7b5f654b20cac7937b6c4e70fb7e51fc042a7ab979120c72c709004b234a",
     "d8c7713b75f8a1d056630186f6bd9d46d1a185015a496bfac131af8d59daf352",
     "5325cfad59bfb2af4601eecce090208438647dd97544a17a2638646d9929347b",
@@ -8002,30 +7992,19 @@
     "2a362d26368153f40ef7eb53abc0d4905176aa14fb43363202fe722a405943ab",
     "52325aa86b37c32ed06cc8fda8205cd75c4837938a08134f438448ac83f1eca8",
     "adcfa4414e6e929f59c753d2a7272cb8334891e456d1dca90053b81ee128b193",
-    "afbd94ff136abd849cdcd36f19165e70d5dacb6de0ffa7ee0401374ceaabac18"
+    "afbd94ff136abd849cdcd36f19165e70d5dacb6de0ffa7ee0401374ceaabac18",
+    "ef29ff09ee6659d5b60d86014d26ee9f54d78c8009754fbc114410567aff313e",
+    "80e7c2174ebe570090e2a05d57de53f7bca3a0ad04e794048bf363d2e568b68e",
+    "579d7559c25fad561bf04a9e54750ba5900ddcbe4d5579eea3aee92c66e224b2",
+    "8de8e7adc8084260cae447ebc2d01fbc9104f37a2978f96eeaf519c4e67ba9aa",
+    "58b5b1f72c7fc64c3d230764e2d846a458f495e2c7575924829d442d4d376a1b",
+    "11f1e00a038c0ae742cc9613fb4dd3207e46cfd5fb5a9eb1daa18c9fa8330b90",
+    "fbb367ea8915e60674c92b92b17715206019d7676f843051840eb5754b4efa70",
+    "9b6926de3d123b2e5b2c318bfe87dc5ba67e5ee13a1e18fb29059f89ac5fb304",
+    "a5a2a14e794aa4c64d7e63e36ed71f28b5838080a14c10e32f35aa5698b519af",
+    "c986fdc8537dbdd3887952be9bdd1f3889cc25d5f87a54f57471b4aebc31e8f5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "KCNA: NORTH KOREA ORDERS SWISS DIPLOMATIC OFFICE CHIEF TO LEAVE",
-      "title_ko": "조선중앙통신: 북한, 스위스 외교청장에게 떠나라고 명령",
-      "url": "https://t.me/marketfeed/1084904",
-      "ts": 1795576003
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Acerpure targets India, Indonesia for high-double-digit growth in 2027",
-      "title_ko": "Acerpure는 2027년 두 자릿수 성장을 목표로 인도와 인도네시아를 목표로 하고 있어",
-      "url": "https://www.digitimes.com/news/a20261125PD200/growth-2027-subsidiary-acer-sales.html?chid=10",
-      "ts": 1795576070
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "涉案金额超150亿元 一名经济犯罪嫌疑人从俄罗斯被引渡回国",
-      "title_ko": "관련 금액은 150억 위안이 넘는다. 경제범죄 용의자가 러시아에서 송환됐다",
-      "url": "https://wallstreetcn.com/livenews/3205386",
-      "ts": 1795576072
-    },
     {
       "source": "Benzinga",
       "title_en": "Jensen Huang Reportedly Says Succession Plan Risks ‘Unnecessary Hierarchy’ At Nvidia — Crypto Bettors Wag",
@@ -11504,6 +11483,27 @@
       "title_ko": "존디어 4분기 순이익 10.5억 달러, 예상치 10.8억 달러 하회",
       "url": "https://t.me/marketfeed/1085066",
       "ts": 1795605084
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trump to Lead TSMC Groundbreaking in Arizona After Nvidia Gambit",
+      "title_ko": "트럼프, 엔비디아 승부수 이어 TSMC 애리조나 공장 기공식 주도 전망",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/trump-to-lead-tsmc-groundbreaking-in-arizona-after-nvidia-gambit",
+      "ts": 1795605363
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Fed policymakers at odds over causes of high inflation",
+      "title_ko": "미 연준 위원들, 고인플레이션 원인 두고 이견 노출",
+      "url": "https://www.reuters.com/business/fed-policymakers-odds-over-causes-high-inflation-2026-11-25/",
+      "ts": 1795605368
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Kanzhun (BZ) Tops Q3 EPS by 10c",
+      "title_ko": "Kanzhun (BZ)이 3분기 EPS를 10센트 상회",
+      "url": "https://www.streetinsider.com/Earnings/Kanzhun+%28BZ%29+Tops+Q3+EPS+by+10c/27398002.html",
+      "ts": 1795605377
     }
   ]
 }
