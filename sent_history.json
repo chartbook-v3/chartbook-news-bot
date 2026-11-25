@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795643470,
+  "updated_at": 1795643618,
   "id_hashes": [
-    "799d31dd616fa5fc82f629ef828024d2b6a186b970609a4c7b426158c9fa545e",
-    "ba0d889932d058293562ff64a58868dae70fb22b7d2d5311ffb781c2997e37be",
-    "69d8bcf316a262b61a574c24790cc41722b2aff1407c000bdfc1b3a7e1c76f9a",
-    "7aa7976fe6121b50a25f10f1f42d3c60ecd6771aab17857e647c41833a70addf",
-    "a27a451eaac2d21721626e3ce9f964e818f2eaa7a2806a34c3d095907045291c",
     "66a16dfe8f976155b15b5c6a8574d84d80775a3ba151cebcba21e7a6d87b774a",
     "03edd5b178374894713ee0be336c0c6da2d258335dfba3b13cbdf2f39eaa8381",
     "121bd8a8fd4dda36c81a8f81c023d4f3bc7636e64fe7c66ebfd77318e4391e72",
@@ -4000,14 +3995,14 @@
     "3b484354b03c697cfd391a0c382e7cc9d077cc42dfb72aaf3780217acac9c09f",
     "58e53b6f860c7baa37bf465ce56792e44708940eee6f71f3475412cd49551aa7",
     "42ec87e04b3efc1bf97e1fad40d84b36634813aecc2cef1c7bdb7410e7896e02",
-    "4be6dba8632f04fda9614adad19a062eb5b9790864bf77753ce1d605f8266999"
+    "4be6dba8632f04fda9614adad19a062eb5b9790864bf77753ce1d605f8266999",
+    "92442a78779a6db69a325d49c948128a4aedb48482abbce03965011bafa061d2",
+    "0a8a1f93b3b97885243991a31cf0112197e023aeeb402a1d5231420b80ef48d7",
+    "6f925c726846fb8ac4e23bb1fc4e5e787dfa50eefad371f4f5040856af1427fd",
+    "6816f2e1dede4463cfe076a9b2c2392af8e22a82cfd5bd90dc442876b280ee9e",
+    "effb31e660bdb8d1d79eb858def45ccbe9165b8fe084f048f0028f093ac927e6"
   ],
   "title_hashes": [
-    "ef5d552f2e49017b2c2e949b1efdbfcb534332ee7fd3cc67ee832c42fb82aebb",
-    "28f33b0cf8f9579b021d15e6b0c2a1ae64d57cd8840796955b95ecc7e0fb32c1",
-    "d3db34927bbbad3dead6cbe28dcad3361e065ad8c7e585809db7cdd9025ea5f9",
-    "6b2d60f7c0f2bdf91697bc2767407238e98df5e6b8b02bc84b66bb7cc9428388",
-    "878d2c04fb78a3ff001f53f6da966b1575b17d27c925e8cac2ea8471c74483b6",
     "94cdd65dc8f43b85b272b8f8fd7fb1fe7c567383c6371dfda8ccb8029130fd18",
     "eabe6ae1cf158bbb0df95e3979600772011b2383dd0d97583de00f532d7f40b3",
     "8ce710dcaaed61791fbf5c72af5071638b90d9d63937acc17a9f5f5daf39ae7a",
@@ -8002,16 +7997,14 @@
     "352f8d54cb4d9f26a4f68bb2d5db67d54c0a9e0244600e2e74c610b22b026388",
     "2fceb68b1e31ae4f1ec830fecb61f999a614033f2bcff9b54b23bf99663b1d42",
     "c82bfe30afff86eea9c6bc356f4b8cc1f0b07332f6f579957e9f489dc364ab67",
-    "9c235ad9fe44b3ea29159382794b22ce7e4a4eaf24f9ed445f2a7d6c8fce87b8"
+    "9c235ad9fe44b3ea29159382794b22ce7e4a4eaf24f9ed445f2a7d6c8fce87b8",
+    "103f43a3b38a2b8787f47364470e95fea3618d403904626460d18987dc8bfd87",
+    "2798b0c3d598d763992e41aeac5f86ec0e13d5e87499355eaec33be55571ba3b",
+    "be0b6489a11093ea1f66c70d183d83adee50e94798cedb841a6ad6a7f91685df",
+    "28dda5f7b6216e4ea0f3a1a68d4f40358f756d0793c9da4d1f5cf340fa9442b0",
+    "7cac0172dc52ed15d13563c0c2ef9efa9feab9bb2b7f0f01c73e8947a71fa220"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "ETHEREUM MAX PAIN PRICE $2,100, $593 MILLION NOTIONAL VALUE, PUT/CALL RATIO 0.55",
-      "title_ko": "이더리움 최대 고통 가격 $2,100, $593M 명목 가치, 풋/콜 비율 0.55",
-      "url": "https://t.me/marketfeed/1084993",
-      "ts": 1795591559
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "美股股指期货跌幅扩大，纳指期货跌超2%，标普500指数期货跌超1%。",
@@ -11504,6 +11497,13 @@
       "title_ko": "진코솔라 타이거 네오 3.0, 중국 광시 둥싱 151.8MW 어업-태양광 보완 프로젝트 수주",
       "url": "https://www.2news.co.kr/news/articleView.html?idxno=33981",
       "ts": 1795643469
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "美, 중국산 20% 추가 관세 추진… 무역 휴전 결렬 시 최대 40% 경고",
+      "title_ko": "美, 중국산 20% 추가 관세 추진… 무역 휴전 결렬 시 최대 40% 경고",
+      "url": "https://www.fnnews.com/news/202611260623458038",
+      "ts": 1795643491
     }
   ]
 }
