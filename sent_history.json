@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795585317,
+  "updated_at": 1795585463,
   "id_hashes": [
-    "06b7df69c0ddef31b2c746c2e44ba53d0ba914e6c19e5dcc3033e2df13eda3c6",
-    "b2f3653c2a26d9f72fb18f3379d984fe17e5a09bc54925a2184780a9558b36f7",
-    "1e9054b40f26f17a538e15ae183c7c82a6e2d69fb3e831b47e32d9d372df8aa7",
-    "e028c732fb6f951413b78bba85550f4422e6547540c73a5f7cecae56c0a2e2e6",
-    "e66969dbce8fa476d51c754a0c11e354ecfc0486cf64baaf836ab56d5a1ce39b",
-    "a2b04e659cbf607b822e49e91b67171013b0b0c13cad08eb9a22a1f717bce464",
-    "2f55b127c4e7e08bd11a1a3e4420961339af5788d9c1d07f7631a31e23601463",
-    "696db9efcf1eaacfbb83a24b9ec90608238d31fa6388372aa8a5a2b868b591dd",
-    "aac2e0edc0018acc084e49d0a7bdaf45db0aeecb27048e30d4cafe10c3916979",
-    "6a8ad59a5580d7f5520b94db3063dfaf2d42ad81db3bafc137b9fd05ef0c8b4d",
-    "c9def02ebe67183677835ecde7e08ac15378c83a8b42e078de9cf33030d563de",
-    "d421eca4c0eb3a502bf5a48fca95276cfd2302243943206f927e3641ea67c439",
-    "1327aa6abd9d0db11f33241ea943b104e1a83e549c372c37ca56603fe58fd822",
-    "b65e2d45ff85425719c0e3b8dea5d45b01036e1612501079f27b39d3e5e5cdd5",
     "2f030d4d4f8debfdfdb26f52c4d3fd3be0aca700db29457cc974abd72df47a62",
     "058f23106b5ffbacb87533e64b2d4b7a03425d7c7b8cc1fa666300d3cf664205",
     "f9ea7cae976f24acc19ea88fe763b4d90e9e6356dfb38ff996f3ec92f8941a46",
@@ -4000,22 +3986,23 @@
     "400a0d53a98a7afaeab5a0ff356c1697beab9d65552375b198f8663f88abbdb8",
     "1461c63a217d5a758c1266a50f3525204ad944fa46cfbd70bddcef7bb79719ca",
     "76adcbe9d9dac115fa5848d76a6ff4dd7813fc3df100c103c5f3503a75515e25",
-    "74d3cb9db97dc29892ba40bd58cd6c1f146c039c0f513f875a5c0c3a8c0a6b3b"
+    "74d3cb9db97dc29892ba40bd58cd6c1f146c039c0f513f875a5c0c3a8c0a6b3b",
+    "90b5a7c0ba63b3aad3d37725cfb7397ef7bdc2985628ff84f4d08fbac87db4e1",
+    "ccd09b8e10c94320c5287112738c8b6f816ba1340219455291e489232e44aa28",
+    "1dd0134fdb8f13755ed1a72dcd9bfd6cb6251ed451575236cb52f5dec72d45a3",
+    "201e85df30a7fac1aae358dfd8a075eb6d7fbf9b91ec5fcf3087444795cba488",
+    "1600da05efac76cec913b271a2ae8f21f4374211d71dde8ec0543b98318c9f24",
+    "bdfaa76ab186eb5e71b8a83cfe7142b15aded4ba24e06314779cb41b090ad0a5",
+    "80520a2c670be17f8461928d141078a961badafc8e34a5921fc05fedee06bf1e",
+    "1754fbdcef5da86d34640b1b3de18b8b8c44ad959b27704e5c0b68f9dbf45b89",
+    "97ac9e9ac3ff6f9d5a35e5a11024d91346c7662731092cd659a8fde6a662d143",
+    "21e0e51fe0d88ef1deab39d9eb4e793b7e218be9c1a5c118a7c121e3f7c2808a",
+    "90d459b0c3cae9b5af7a396e5270d90229f146e73973b5e9fc9ded18227c380a",
+    "f17fbd6790627dddd3e7cbdcad239e5b42c8cf548f2498ba44a54d25724a311d",
+    "b383cdbd8d5d348b77bd34672c72b06dc9ab26c0cc0c115a894645bcbb5c2bdd",
+    "17a3e1b1d212bb6b79a9f4084417edeeab55abd36208e5da4766dbf40c9c8e0d"
   ],
   "title_hashes": [
-    "a9d8248a73d8d5d80f1f87c48752ab6d0cccec103db80d087d60b7a1f67cc220",
-    "b7430089f8c91d1621e78e28ea36ccb9f083f472754eaa82ddf387dc49231357",
-    "3123be734507598616a07edc455bc2a84469e791addead0acfb5177cb9f1a205",
-    "ce1ff8dc3735dd7987e684f32e79352ced45fbe03a748e2259e556e19578aea4",
-    "d9443b8170b34e2381379da5ce64e5bf6ca2daf5773ca82cee08dbbfec1ba639",
-    "354d26b6817ffc4650e0f45658874779d980aa9d04f686ba698efb80365d9be6",
-    "9b2da251a3ceedfda9cad253bf07a39510b1ef41ac8875df87ca6ffa74a63fb8",
-    "838a1c0ec80f9dfcbe717d5280d3b0bedd2cf732010057270961d1dd28d4c06b",
-    "b930528256b9ea1217caf926d4a6020d4596f96b322ca4094a5f359ab31bb4a6",
-    "830669296c4fdccd9e9f165fa0e16a81ac92457483477a90d52b9e0d6ce3cadb",
-    "b0ab6e92cf8acc5acd5b8232c3c32707bc27e8a06b45d7b0cdce7f1a846b7c76",
-    "98a57bacc9a4c01c43a5d2255581df34c989363dd1fcdf0e6285ea1b8b982cfd",
-    "f5348a223ecfc388f2ec0dc5458d7bc0ab46f470c65df04eff56e921b96c57f9",
     "1b010b63da5ecda7ff3df9b14c5e0fafe64b59851b31ea01a85d417ae8752835",
     "d57f6e864de95d0c67ef331faffd2a62ad31a79d6a39b0a1aae9d7ab54652003",
     "23c88b92919d21be2c460b3fc48990ea789da314ac4cca77ce72ccf8ec3bed25",
@@ -8002,16 +7989,22 @@
     "9c71111122dfe015bde564bc32b0171f13ce337ab231f52bdc4035e21f1d8618",
     "4534b1c398e3d41d8e4771f91b1f88a35b346d6fba3c637fb5f08cca4443feb3",
     "1b2855a57b9ad87779633f50f2a00613256da75893e1ae6bdb2730e04e540c28",
-    "34f9f49c971ae3ad86d5cc47dad598912b0020ce09629286e72d3d0f03b5b6b7"
+    "34f9f49c971ae3ad86d5cc47dad598912b0020ce09629286e72d3d0f03b5b6b7",
+    "a20ec9dd573e5860053a74e43c78df3681514e60ee51c48d8263e586374ca069",
+    "72df86b0038aad4cf77a78de7b664cf354349cc80d672d6b037a87f9362a0a29",
+    "47ebfbcce2519a4a09a510b29aa745bf53e312ee235da2aabaf9890194ac56cc",
+    "b86913988061b9fb23bdec7333d386fe09577daf3ef509a2fc13529411bf61bf",
+    "2bdb8209ba5e3ac0a85ab1248856ab55ad24ffc843164d1320775e75c96ef169",
+    "68810d7ebef127596023597da767670ebfa0a5bef421132037701e38881fefd3",
+    "82ad71ce12ebba57de118b67c69c32f232e05de35008db466ec4dfd46b66dd15",
+    "c552863ad1acd3825f22ca3fbe797fab5bff5744ea6c15a57cb46f0539c3eed7",
+    "bcde2a1044b322d575718e46dcfd0db18387b4b66154328b7c01382810e9fe9a",
+    "456eac966b103835dddad328d093c254814682244d9b97d0afdac12d669c3ec0",
+    "abb7d572e83f44dc1674399c8e91247f097b9fdafa855947bda553219cefc0b6",
+    "8b64155d3ee255a8b9c8579b55ba90ecd6d2e79e0b5eb309dc3b87a731e56cd8",
+    "08908ef55033cfd379e3cae485cd5d232b849b2642871818160d3091f1bb8a91"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wccftech",
-      "title_en": "AirPods Pro 3 Have Dropped To $149 On Amazon, Making Them An Exceptional Deal For Those Wanting Stellar Wireless Earbuds Audio, Battery Life And Health Features",
-      "title_ko": "AirPods Pro 3는 Amazon에서 149달러로 인하되어 뛰어난 무선 이어버드 오디오, 배터리 수명 및 건강 기능을 원하는 사람들에게 탁월한 거래가 되었습니다",
-      "url": "https://wccftech.com/airpods-pro-3-black-friday-deal/",
-      "ts": 1795557445
-    },
     {
       "source": "Wccftech",
       "title_en": "Looking For The Fastest Gaming Processor At A Discount? AMD’s Ryzen 7 9800X3D Hits $399 On Amazon With A Black Friday Coupon",
@@ -11504,6 +11497,13 @@
       "title_ko": "인텔리빅스, 건설현장 순찰하는 AI 로봇 시연…쓰러진 작업자도 감지",
       "url": "https://zdnet.co.kr/view/?no=20261125143812",
       "ts": 1795585316
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "A股半导体产业链持续调整，概伦电子跌超15%，艾为电子、江丰电子、清溢光电、富创精密、汇成真空、华虹宏力均跌超10%。",
+      "title_ko": "A주 반도체 산업 체인은 Guanlun Electronics가 15% 이상 하락하고 Awinic Electronics, Jiangfeng Electronics, Qingyi Optoelectronics, Fuchuang Precision, Huicheng Vacuum 및 Huahong Grace가 모두 10% 이상 하락하는 등 계속해서 조정되고 있어",
+      "url": "https://wallstreetcn.com/livenews/3205438",
+      "ts": 1795585401
     }
   ]
 }
