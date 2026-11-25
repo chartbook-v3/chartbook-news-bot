@@ -255,28 +255,25 @@ SQUAWK_OUTLET_SUFFIX_MAP = {
     "ap": "AP",
 }
 
-# X(구 트위터) 주요 인사 및 공식 계정 매핑 (시안 C: "X ｜ 이름 (소속/직책)")
+# X(구 트위터) 주요 인사 44개 핸들 매핑 (시안 C: "X ｜ 이름 (소속/직책)")
 X_VIP_PROFILES = {
-    # 1. 반도체 · 하드웨어 · 빅테크 애널리스트 (10개)
-    "semianalysis_": "X ｜ SEMIANALYSIS",
+    # 1. 반도체 · 하드웨어 · 빅테크 애널리스트 (7명)
     "dylan522p": "X ｜ DYLAN PATEL (SEMIANALYSIS)",
-    "zephyr_z9": "X ｜ ZEPHYR (AI · CHIPS)",
     "mingchikuo": "X ｜ MING-CHI KUO (TF INTERNATIONAL)",
     "divestech": "X ｜ DAN IVES (WEDBUSH)",
     "benbajarin": "X ｜ BEN BAJARIN (CREATIVE STRATEGIES)",
     "patrickmoorhead": "X ｜ PATRICK MOORHEAD (MOOR INSIGHTS)",
     "iancutress": "X ｜ IAN CUTRESS (CHIP ANALYST)",
     "markgurman": "X ｜ MARK GURMAN (BLOOMBERG)",
-    "jukan05": "X ｜ JUKAN (SEMI · CITRINI)",
-    # 2. 거시경제(매크로) · 월가 시장 전략가 (5명)
+    # 2. 거시경제(매크로) · 월가 시장 전략가 (6명)
     "nicktimiraos": "X ｜ NICK TIMIRAOS (WSJ)",
     "elerianm": "X ｜ MOHAMED EL-ERIAN (ALLIANZ)",
     "schuldensuehner": "X ｜ HOLGER ZSCHAEPITZ (WELT)",
     "charliebilello": "X ｜ CHARLIE BILELLO (CREATIVE PLANNING)",
     "kobeissiletter": "X ｜ THE KOBEISSI LETTER",
-    # 3. AI 연구자 · 빌더 · 뉴스 큐레이터 (9명)
+    "northmantrader": "X ｜ SVEN HENRICH (NORTHMANTRADER)",
+    # 3. AI 연구자 · 빌더 · 뉴스 큐레이터 (8명)
     "karpathy": "X ｜ ANDREJ KARPATHY (OPENAI CO-FOUNDER)",
-    "officiallogank": "X ｜ LOGAN KILPATRICK (GOOGLE DEEPMIND · GEMINI)",
     "andrewyng": "X ｜ ANDREW NG (COURSERA)",
     "ylecun": "X ｜ YANN LECUN (NYU · AMI LABS)",
     "drjimfan": "X ｜ JIM FAN (NVIDIA ROBOTICS)",
@@ -290,16 +287,18 @@ X_VIP_PROFILES = {
     "garrytan": "X ｜ GARRY TAN (Y COMBINATOR CEO)",
     "eladgil": "X ｜ ELAD GIL (TECH VC)",
     "mkbhd": "X ｜ MARQUES BROWNLEE (MKBHD)",
-    # 5. 빅테크 · 반도체 · 프론티어 AI 수장 (16명)
+    # 5. 빅테크 · 반도체 · 프론티어 AI 수장 (16명 + 인텔 공식 2개)
     "elonmusk": "X ｜ ELON MUSK (TESLA · XAI · SPACEX)",
-    "tim_cook": "X ｜ TIM COOK (APPLE CHAIRMAN)",
+    "tim_cook": "X ｜ TIM COOK (APPLE)",
     "sundarpichai": "X ｜ SUNDAR PICHAI (GOOGLE CEO)",
     "satyanadella": "X ｜ SATYA NADELLA (MICROSOFT CEO)",
     "ajassy": "X ｜ ANDY JASSY (AMAZON CEO)",
     "finkd": "X ｜ MARK ZUCKERBERG (META CEO)",
     "tobi": "X ｜ TOBI LUTKE (SHOPIFY CEO)",
     "lisasu": "X ｜ LISA SU (AMD CEO)",
-    "jensenhuang": "X ｜ JENSEN HUANG (NVIDIA CEO)",
+    "jensenhuang": "X ｜ JENSEN HUANG (NVIDIA CO-FOUNDER)",
+    "intel": "X ｜ INTEL OFFICIAL",
+    "intelnews": "X ｜ INTEL NEWS",
     "sama": "X ｜ SAM ALTMAN (OPENAI CEO)",
     "gdb": "X ｜ GREG BROCKMAN (OPENAI)",
     "darioamodei": "X ｜ DARIO AMODEI (ANTHROPIC CEO)",
@@ -307,22 +306,6 @@ X_VIP_PROFILES = {
     "aravsrinivas": "X ｜ ARAVIND SRINIVAS (PERPLEXITY CEO)",
     "alexandr_wang": "X ｜ ALEXANDR WANG (META AI)",
     "clementdelangue": "X ｜ CLEMENT DELANGUE (HUGGING FACE CEO)",
-    # 6. 핵심 빅테크 · 반도체 · AI 공식 계정 (9개)
-    "googleaistudio": "X ｜ GOOGLE AI STUDIO OFFICIAL",
-    "nvidianewsroom": "X ｜ NVIDIA NEWSROOM",
-    "nvidia": "X ｜ NVIDIA OFFICIAL",
-    "nvidiaai": "X ｜ NVIDIA AI",
-    "openai": "X ｜ OPENAI OFFICIAL",
-    "anthropicai": "X ｜ ANTHROPIC OFFICIAL",
-    "openrouter": "X ｜ OPENROUTER OFFICIAL",
-    "amd": "X ｜ AMD OFFICIAL",
-    "intel": "X ｜ INTEL OFFICIAL",
-    # 7. 네오클라우드 (CRWV · NBIS · IREN) C급 임원진 계정 (5개)
-    "branninmcbee": "X ｜ BRANNIN MCBEE (COREWEAVE CO-FOUNDER · CDO)",
-    "romanchernin": "X ｜ ROMAN CHERNIN (NEBIUS CO-FOUNDER · CBO)",
-    "marcboroditsky": "X ｜ MARC BORODITSKY (NEBIUS CRO)",
-    "sjkirschner": "X ｜ SETH J. KIRSCHNER (NEBIUS FIELD CISO)",
-    "danroberts0101": "X ｜ DANIEL ROBERTS (IREN CO-CEO)",
 }
 
 # ==============================================================================
