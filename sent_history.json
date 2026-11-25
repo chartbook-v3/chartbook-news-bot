@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795593185,
+  "updated_at": 1795593345,
   "id_hashes": [
-    "b58a20385390bea6786fc804ce04a04d3ab11de1d54cffcf0916568cdaf1d400",
-    "8d6f18336591b10959a7ef12158f7c53404bb9ae7919d145dbb6fb3797e4f0c5",
-    "dfd78776db8d3b5b5e60285080a5e60f7c287bf7fa9e720ac2a9014f92bd801a",
-    "b74a5a79d595e2575f09fe95b354c1040fe045177956f694934dc00bd9c0fe59",
-    "d4a6c6c654cfc805898c8c33c9afc41a4b5fcd03a6d5a93a74abbe5e4d390314",
-    "3130f8f12d36fad4cb0e986551d018886d28899746a260a73c2e3910cd31abe0",
-    "dc84035ce52abf04388d4183629f941475cb0869160742bed97110933596b0be",
-    "7241142eb5b0734511ae94f568246fb8bce675c47d5f7970793a7d8bcd29bcfb",
-    "71149130d9d1d4787f30068d6c8ff2be52a9236e20cdd229fd8767abdb0667f3",
-    "93f609da6cd313f9ae14e73e975a98be35486e1a7a86aeafbaf6b841c64fc7f6",
-    "8ffe089e2248595f98a825310a9282fd5ffc69f041d9967cd5db2e85a9071136",
-    "ab191e91afc25aa7c90a9337f0542e68f8fb1a5480400a4fa627cd71f4107965",
-    "80156518ab0f8c341fd1b8f93c51561a0578e282b5eac5af5e67def4f4774e86",
     "7cc2afafa758360a1f4e92f60f3fe91afdaddb189c1ddd922a7c23ed10d096d3",
     "1995358599ad23d0d0deb302622d1f79f69296856617e626b16ca1ed8567bacb",
     "b14ee5e76cb6d5cd2b531a763ff0824542f8f2488dd97af71ea86cd2925e7880",
@@ -4000,20 +3987,22 @@
     "2dbadee0035b41792989f62efff5a929b887dd8a9a557eb70f4c0ef315ed5add",
     "fc90af6dd69857bd4b5ff8a8b5f30aa80bcb2c89a13a026d788a21ae1474f3e2",
     "f1385bee1387b0bfd977f48849aa4c5a742e55cb41858f7115d439d8eac55919",
-    "d87e6490609438c2926245d358f23c9a2fdad34eee70cbead1727b1372d063ab"
+    "d87e6490609438c2926245d358f23c9a2fdad34eee70cbead1727b1372d063ab",
+    "830ba8a9d7d5b14b4608f9fd820db3f19f8343cb7e499e78905b5d5572e3dd5b",
+    "77d0d29533b5904723be39d2c070c93957520d3a787d25056779b5982d76562e",
+    "e0404a36d10f5da1d647f38c626f11f9e2524ed42190e917707c40d98292a20d",
+    "a7e0cda93f2af4e0be7e7c1d7858dd46f9c1f4206e57616494ce09493471bdd3",
+    "29d642a74fe7f663820e26d70a48a58fdfa95f18664545a053f8485ed13960cf",
+    "5e54dad7f6db9be4f1288563aced129db623eb0e93764040af088931789fcfab",
+    "3dd76d72e4749718db50c91804dc821edf7f9deed7974a20d006b41115919f5d",
+    "65945ba22290dc45d497b12e16102ec64f456e257192e151906da64beee9cdd0",
+    "6bacd3fd93a152207432423a1f8bab714cd8c4c86707a4667a0f615a3df5b9e2",
+    "3d752c0ef68be50ae11234f1e220f503b92a89302f9989b0928790c12d222caa",
+    "4ca3058e4d359048b046a9b926dc6b038a600f007664c97bf696d98e5883b92f",
+    "8a8bd5cf09cb3f416a3fc8bdea74e95b701f67a4d124f0dbdbc22de38349a592",
+    "f8674d6934f07a2ad8034793381091a1f4cde7a2899ece4882c57a7e99e4804f"
   ],
   "title_hashes": [
-    "bff48c86bcecf6dd4408cdf6de75cbbea7ca46d8bfd6f77955ba46fb01bc7ddc",
-    "24285ff9ae187587244332fa8bdb19b895b591d6638a7bb7a4d0bfcc5859bce1",
-    "bb71a3240576588ed383443972f7a952c52aa3c536c8e8fc1fabb94cc7a33fc8",
-    "edc0c338c82a1a2070f1d08dd81ed22bb1e9ebd2e77365fb8db742b6f60aee90",
-    "0987495da329d676e2e6804cfd9ca10c357b1f8bc7caf6968774dc54814e61e6",
-    "0126fe68ed2cfb414353444877705b712cb1025123f30b4d684754b6ef7cb74b",
-    "33a05ea3a0073bebd1f54e7c7e688ed478b243270022f3017587279188102aac",
-    "2668c9d5d86c32b062df9979cb6ebc9edd3dd80035258a0659406f7b756aaeb0",
-    "0b242bcb11298c3924da7c9964629b4e76af5d3a6b9e6ef463399c2c8f583b76",
-    "91208ea8229ddb77486051a677e5616799ae95f964852c2a6e3470477c383226",
-    "6a7bec755b6fcda7042eef2c4b19826e67c702a211500cc0b0f67de1d615bf6e",
     "e1108acd1a5326a74e74ca0b7117af12cf373460e25312e12e9458a462f39151",
     "f6fd6100bde88f1ea970b2bf0598675e7c6a15a735c267da1601a05a5f62abcd",
     "792aa37f44db25da9203a74b19acb7b7933d19d5c68b5492783651cfe3705fe2",
@@ -8002,23 +7991,20 @@
     "2c14ed009f71f2291635229210f325a7a9a97fd4ec70319155a4b2d2ae813b0d",
     "2584046e98f5d1fe186150f3362b693897dabb0d2a14e6c8f894f55ed0e62789",
     "ecc28b34c4f17a7ad075137df795776106abc9ee6579ee26b3239286d0819f61",
-    "e1b11834a57ff862b0ba821deb6265dd080106caec08162c96739bf5ba51c6e1"
+    "e1b11834a57ff862b0ba821deb6265dd080106caec08162c96739bf5ba51c6e1",
+    "246cc418b9734224cb97c2c7b5cdabde5bca01db82088d119031e75502ab9000",
+    "c10852dc903ca61a92429fd81e440669de30e663558498d167386f1ff091bbbf",
+    "c2b7163f8155b4c59a2f7c53dc3fb433e5069b4777740ae1ff5bb95ad2d89e43",
+    "b15f596d41f0770298ae051ba9c714a4798fe8de32a6e1a698e7336e395b6603",
+    "f686205d9a361919ef0f63d7722c007954c0e120479b17eb0c34bbb6fd690175",
+    "427bf5b877f9327309dbce406891ed5f2d47436988e69e67fdbae479c9d97efc",
+    "ef0fe50288d6e98005ebd3f75f893bd01a519b93507db8cf75e4ba26a2e320eb",
+    "64e2f307bcbac8886119ceba98cd463bc8bcc18f595f4c71f2b24942e41f4ace",
+    "97d1eeeebbf915b18cc34d14e49e6aa3fe1b6b3cc7c7b396c457b777c3245461",
+    "05d41c190db5c85e193523d54adb071a5f81c6bdd587f91e28455c1abed74e94",
+    "70f318f1065bbb406e083baab906aaf31ae6ba5d44d3db2e0f0b286a3bac6728"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "\"금융 특화 LLM 만든다\"…카뱅, 글로벌 '미스트랄 AI' 맞손",
-      "title_ko": "\"금융 특화 LLM 만든다\"…카뱅, 글로벌 '미스트랄 AI' 맞손",
-      "url": "https://www.news1.kr/finance/general-finance/6365099",
-      "ts": 1795566386
-    },
-    {
-      "source": "WSJ",
-      "title_en": "JAPAN’S NIKKEI DROPS 2.8% AS CHIP-RELATED STOCKS WEIGH ON THE INDEX",
-      "title_ko": "일본의 NIKKEI는 칩 관련 주식이 지수에 영향을 미치면서 2.8% 하락",
-      "url": "https://t.me/marketfeed/1084850",
-      "ts": 1795566389
-    },
     {
       "source": "WSJ",
       "title_en": "Gold Edges Lower With U.S. Inflation Data in Focus",
@@ -11504,6 +11490,20 @@
       "title_ko": "영국 난방비 26% 급증, 인플레이션 압력 가중",
       "url": "https://www.bloomberg.com/news/newsletters/2026-11-25/uk-heating-bills-surge-26-adding-to-inflation-pressure",
       "ts": 1795593184
+    },
+    {
+      "source": "Naver Blog",
+      "title_en": "[ETF 언박싱] GPU 다음 병목은 인프라…한화운용, AI병목인프라ETF 선보여 : 네이버 블로그",
+      "title_ko": "[ETF 언박싱] GPU 다음 병목은 인프라…한화운용, AI병목인프라ETF 선보여 : 네이버 블로그",
+      "url": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224491618858&redirect=Dlog",
+      "ts": 1795593341
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "KAI, 달 착륙선 '뼈대' 만든다…150억원 규모 수주",
+      "title_ko": "KAI, 달 착륙선 '뼈대' 만든다…150억원 규모 수주",
+      "url": "https://zdnet.co.kr/view/?no=20261125165244",
+      "ts": 1795593344
     }
   ]
 }
