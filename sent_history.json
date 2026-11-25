@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795589707,
+  "updated_at": 1795589863,
   "id_hashes": [
-    "a912346ad3f56ebbafd053b78e9b3e9a19ebe6ab237caac461c99bcb817e835a",
-    "096384c7524af27429f645d4f3c9b98d3c56d78d512cfb6398181af658299ec8",
-    "6ed69b4a710792b38142b112a37b5e1bab68897e3f03b82efccae0d7e79fe48b",
-    "f9c66d139793a7e6944b1f0ff8008eb088829c71b88451cf4c667e957e07a5a6",
-    "26d4f4675716f5e924484a18c4acd01a6fc64c478791abb3e31d41f97613aabe",
-    "876a9401cf7de55898168670cd7d4640a02a684337d192aa0e7610057d1bb243",
     "d3a799a2b09a52d9fc5aec3f8b52707ed3284d6d0c1dd64d9213398469e96101",
     "2b4e5fe79fcbe5dc228ad1be2abf8397f11b1b120bcef5264ac47ce68845f212",
     "5c9443bfd1fb920599c73e52c27c7385f9abec4150d5e5d7433714db26489725",
@@ -4000,16 +3994,15 @@
     "6eede80ef0f0e6a198bc9778086ad698922a4860e9bc7c944c35c5b986a656fd",
     "a9243a64adeb65123afb0deed9917ba00dad16a7826cfe571693a192f90e4eca",
     "210dd9061b070868b223e95f60ef8659f45bd9a634342833ff227e421f2f6615",
-    "9090b285e0c47b7a48908ca425b2e2db83771865c3f3d287f510d09493c2e0b7"
+    "9090b285e0c47b7a48908ca425b2e2db83771865c3f3d287f510d09493c2e0b7",
+    "efe855b9e1db1c1187122954824c478212ec0ccc12cc828f844a021165f2dd21",
+    "fd892e6488fe8e77eeabc03d2e7bbe44c12ffe66d8c66ed6e97fcb93af01ea16",
+    "2a07e88fbbaa16e9749ce15a65c01c3a699670c0e93f0b2e23a5ca8a61ceb2b3",
+    "64296350b03e833d4d163ad2822231f158ad1f12281e001a6c484fd68a29c429",
+    "1e6e7b2699bbb6a74129cc942de4c42ed464badc0f53aca33a72b31e7d91e0f9",
+    "ba10ad0aced9d4da70566f34ffbad78bf56f7ccf0ce6d55da5394958670c9723"
   ],
   "title_hashes": [
-    "c5d49cdb788dceb9d7fbdc240c77dd9c0c640adb6244e7e7ee583142b930241a",
-    "93b2f520d38f041758c15fcf77c8693201a4f510ab7146f86266cd40976b5113",
-    "04c2bc57f37dc2a81b26a1241a23435b8907a57814bad645dbbc44261b2aa6c4",
-    "e96268d8b80d3d89c70eb82153417ed1ea3cee89b3f33a5ccfc9f5c9f2d4baba",
-    "4fa7abebb0d7f4a928011693d10b2d83e54280fed2ab94aa05c853a26e75b387",
-    "542fc064ed2ae509c545c416a458051358411288e155ec4f7145336c5b3d8b5e",
-    "c2997918d0390505fc0aef4f81dcc45c8412751cff54f15d13e1f7b74d3cc479",
     "45e4eade80beb1b6fa8c5657a15b94baaef4bc3d58745b52f25dbf52edd629a0",
     "a4e8d5f8c33d6fef1cc80b3b83787fad745c321ec44ccf5dc16aa5aa06459863",
     "ba67640c4e85d11119cf02cb50a9f76b9295b149fbec5418fc9796589a26c54e",
@@ -8002,23 +7995,16 @@
     "9fc94039aec9e401a2d34e4e365b1529ccb7c4c3491403da7bf6930041d0cb2d",
     "d153c1c26a2033792c712392929f691192f68811a2cfac62861252576de1cf56",
     "8f0d3c5a08b9de84b913e402d2715545d93b28af2fba0bb1bb2dc82896ca4ab2",
-    "d8d5273fd89558dfac66f17d3a3f08151459820859c885f3da6502ea17734e75"
+    "d8d5273fd89558dfac66f17d3a3f08151459820859c885f3da6502ea17734e75",
+    "1f52077e97529f9b2dd7069e2c5d02c1d579814d8ab907eeb2c8732e8e508caa",
+    "8d762c24598420777cf26a75ca42153f7837f972dfa52303adb998fd13b30e90",
+    "7480624d7fa6073788a9dfbdc107d983234d51c1ef19961fb245b7e904f950dd",
+    "5fc1c877424533002899397d13e7f1257db1bf359dbdb9ad795aab3edbe3c08a",
+    "3e99b12a561779baee5f209ec6726716cb96affa831fd4e6cc39fa6a8527f5a4",
+    "6bbf0d2bfebb0a4264db52bfa4550f4344431a468ea5b23a9ecab1c852aec793",
+    "aa94e2181c5ad2a1492b05fa169f85a61ff8bab1e6e5f16e71159472f253e4ea"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합뉴스",
-      "title_en": "한화증권 \"반도체 소부장, 수년간 지속될 성장 사이클에 진입\"",
-      "title_ko": "한화증권 \"반도체 소부장, 수년간 지속될 성장 사이클에 진입\"",
-      "url": "https://www.yna.co.kr/view/AKR20261125028900008",
-      "ts": 1795563694
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "롯데관광개발, 목표가 반토막에도…\"성장세는 유효\"",
-      "title_ko": "롯데관광개발, 목표가 반토막에도…\"성장세는 유효\"",
-      "url": "https://www.fnnews.com/news/202611250838397665",
-      "ts": 1795563818
-    },
     {
       "source": "파이낸셜뉴스",
       "title_en": "\"주가 90% 상승 여력\"…에이피알 목표가 50만원으로 상향",
@@ -11504,6 +11490,20 @@
       "title_ko": "Dangote 정유소, 12월 1일 라고스에 상장 예정(영상)",
       "url": "https://www.bloomberg.com/news/videos/2026-11-25/dangote-refinery-said-to-list-in-lagos-on-december-1-video",
       "ts": 1795589706
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "삼성디스플레이, 3천100억에 'ams오스람' 지분 9.1% 인수",
+      "title_ko": "삼성디스플레이, 3천100억에 'ams오스람' 지분 9.1% 인수",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446504",
+      "ts": 1795589736
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "RUSSIAN DEFENCE MINISTRY REPORTS INTERCEPTION OF 305 UKRAINIAN DRONES OVERNIGHT",
+      "title_ko": "러시아 국방부, 밤새 305대의 우크라이나 드론을 차단했다고 보고",
+      "url": "https://t.me/marketfeed/1084980",
+      "ts": 1795589801
     }
   ]
 }
