@@ -1,7 +1,6 @@
 {
-  "updated_at": 1795609268,
+  "updated_at": 1795609418,
   "id_hashes": [
-    "0f03339d0da2b8f132335803c7dd2efc6f9b663b3cd8c291eb39b9b3784bd421",
     "184373bfcb24ca8934417bf472357390bfee267095f058908fb7c8f31c79eee6",
     "ecc774d32a588d680c93933bbd96ca4c6e61020b101ebb751b22b7090616a420",
     "d87429eaa5ce53538a2b8d663c7129359f6498ab7d69a6697f2dbcf2c8564dd0",
@@ -4000,10 +3999,10 @@
     "1d6337bee8d92e61be4663314cff9508d5e3a0880c60042911b63927dfebb4a7",
     "c4ba831c10beeb92775fd4d14499977fa3ec80ced431eee157ca45c44d15aba6",
     "f3ba871b0087f4e6047c3644ad9122aac1a63295de896789caf0e9b41cf0a779",
-    "c661c4d1c68b3738b7a7f7d3dd4729bde29515a34ff0df30988e2dde93175563"
+    "c661c4d1c68b3738b7a7f7d3dd4729bde29515a34ff0df30988e2dde93175563",
+    "92a8a0112f1a4ace5c0b815b5fc09391ac04d76db56ae22a8805211bc9b2e7d5"
   ],
   "title_hashes": [
-    "b64dad9045614c89aea4f1ba2dc23edd3cbe0ead52aec714f3c77c2a3e8cd644",
     "9ca0c30a8d2a531f2b7f0f96c8be089206e99fc12cfe0198dcaca75d07f53a3a",
     "2e8fabca176d81f3caa416331391f012e2ff1d1b638aac0fc7077026bb109067",
     "474ae085a5047755464ad61fd494c6407b5904288f32f87f2e7c0a770a931657",
@@ -8002,16 +8001,10 @@
     "a5f9b99fe0af70cc1325f662d905a01881614c13c0e22699fa44fb98693432dc",
     "262ee0d34edc14cfcc31892a4c756c050f8da0903e378328ab074e867042f578",
     "2f615c855e256b40c597415344ad819f1731cfef042810f9d4a5e6d871650200",
-    "afb959a7d96a107744dd6d67d183a407a67bd5218f8a5b8a0d207cd8720235ee"
+    "afb959a7d96a107744dd6d67d183a407a67bd5218f8a5b8a0d207cd8720235ee",
+    "a19fed501949191eff07851143c8d5b520e79314c09026ae5ffb0c225c6bf52a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "CleanSpark files mixed shelf offering after post-earnings drop",
-      "title_ko": "CleanSpark, 실적 하락 후 혼합 선반 제공",
-      "url": "https://seekingalpha.com/news/4676437-cleanspark-files-mixed-shelf-offering-after-post-earnings-drop?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795582932
-    },
     {
       "source": "연합뉴스",
       "title_en": "충주시, 동충주산단 2개 기업 450억 투자 유치…80여명 고용",
@@ -11504,6 +11497,13 @@
       "title_ko": "나스닥 선물은 Nvidia, AMD 주가 하락으로 3% 하락",
       "url": "https://www.marketwatch.com/bulletins/redirect/go?g=4b1fd77c-bc03-4fd5-8495-991e6a205fe6&mod=mw_rss_bulletins",
       "ts": 1795609267
+    },
+    {
+      "source": "디일렉",
+      "title_en": "삼성전기, 1조7000억원 자사주 전량 소각…취득가 대비 12배",
+      "title_ko": "삼성전기, 1조7000억원 자사주 전량 소각…취득가 대비 12배",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65931",
+      "ts": 1795609293
     }
   ]
 }
