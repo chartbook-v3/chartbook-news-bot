@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795577193,
+  "updated_at": 1795577346,
   "id_hashes": [
-    "d08c878ae301b7e0c742b70e924450ac145499450bf5a4cad9cb38b8861f7f02",
-    "09c653a2935095dd878302297bae78b3bc2d989c219fa568b13d959a1ea1b99d",
-    "664cdf8bc879d4b97e2610f3fcc19361eadd286a47f99ebe8fdd6ecc99f0204c",
-    "c3007e59eb2607bdd2e58d91f067b7b8c8349ae3989cfe27bdfa383e374ba6be",
     "a22e47c003433017ba91ef0f2bbd8d852b2f5a031e76e02d7597522b1cd9ed8b",
     "dee4787ca8c39fd883217581d90dcf40b5738f36dd978790fdf4b8ce13078b3a",
     "d6c9a727970e0af7aa5d6fc66a5eff3ba95309428d37762a6728f70270f9bea1",
@@ -4000,12 +3996,13 @@
     "404d4e6a5eff35f9d53fbcdf21398a188ba08e1430f350abaa952fb8fbb8dd80",
     "14d324b5341aa34e9b1525c7362005f26fa3e802f61339a9af30bf4985616da4",
     "fadaabc14cf2715e3f8ec3910d3debcef69d99a461b8a804927fbe20fdb994c0",
-    "edcc8b843a19a898064378452551efefad4eec43e79cfb72a89f18d9361bdd28"
+    "edcc8b843a19a898064378452551efefad4eec43e79cfb72a89f18d9361bdd28",
+    "b7a27b71f35d628004a240a00e1c35066f228cc6ec2d182342f684102cbbe562",
+    "acc7ea50cd152fa4be2998c76d00d03cab2211b35d82883ab8c59617ae8c928f",
+    "77accf75cf9f8f2102426b1af01fe5937326138db09311950f915249e37770b1",
+    "a43565d71e22ba71d6f60b7726f2eed30212daa10552776b49705369494584d7"
   ],
   "title_hashes": [
-    "7c5d9ca1e694f5fa629f7a4a2424c9d261f4c3e84793ed53beabc0815156bbd1",
-    "de8b18f4c9a365e1c392038cd64d05c3ba0a7defbc1080ad8695fe19c07753e4",
-    "197eada14999c9ca49a8402a6c6fa29e2999029baca881de09e8504cf71bfdfe",
     "7826291e292e32414c9d95a2631581a0e77f7f7dc620b9f083c3f6c8445d5711",
     "0762a3f075a58134da2a5397819a3c8439125f904a6675b877e31ff781de3786",
     "f79f4be040cf5bb1cbee29fea9bd7b2e60a6785e3b9076dad1998ffc5699f2f0",
@@ -8002,16 +7999,12 @@
     "f2a7765a3a39c17730abd602e6e2d31ac1ef92d9a8d0705d9e93430eb4341fed",
     "9686442396de48cf580ee4e2b29302ec22599380710429dfaa3293e481b3a733",
     "c6e6024a327a73c213dc91796d6e4226fb6f0708dc57ce817f3c18e6ac7e54d7",
-    "d4744b8c083830620ba2f5e6dd6f8c5008fca38a943fdf9e8acf81241810b3dc"
+    "d4744b8c083830620ba2f5e6dd6f8c5008fca38a943fdf9e8acf81241810b3dc",
+    "911f6ec19ee66ca4a143e7a52f4fe627a731fd60bf5a94f94c1c85b66ad97be6",
+    "720232b0f37afd217a8477ac91c27b0395fcc093a0bb001ec496c1423fc68bd1",
+    "63558ea6d67eb87e177d6f35e01bd8dcd00e6b9802265b44864c9eb22fa38b8e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "China's Huawei convicted at a US criminal trial in a case stemming from Iran business.",
-      "title_ko": "중국 화웨이가 이란 사업과 관련해 미국 형사재판에서 유죄를 선고받았다",
-      "url": "https://www.financialjuice.com/News/9866659/Chinas-Huawei-convicted-at-a-US-criminal-trial-in-a-case-stemming-from-Iran-business.aspx?xy=rss",
-      "ts": 1795551162
-    },
     {
       "source": "Nikkei Asia",
       "title_en": "Jensen Huang's return to Nvidia tests America's AI strategy",
@@ -11504,6 +11497,13 @@
       "title_ko": "FITCH 등급은 베트남의 주요 은행에 대한 주요 지원으로 강력한 경제 상황을 강조합니다",
       "url": "https://t.me/marketfeed/1084910",
       "ts": 1795577031
+    },
+    {
+      "source": "Reuters",
+      "title_en": "North Korea expels Swiss representative, closes diplomatic office over sanctions",
+      "title_ko": "북한, 스위스 대표 추방, 제재 문제로 외교부 폐쇄",
+      "url": "https://www.reuters.com/business/aerospace-defense/north-korea-expels-swiss-representative-closes-diplomatic-office-over-sanctions-2026-11-25/",
+      "ts": 1795577345
     }
   ]
 }
