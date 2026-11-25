@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795640197,
+  "updated_at": 1795640345,
   "id_hashes": [
-    "eaee5586f1940bbab2164a9330244e3d23cef577f1c3217bdb6c918f95bb21b5",
-    "5df8019cd21b72866c92bd26acd6a3ffb3a4a600c401bb51341b667fdc2bf4a8",
-    "615e384ed51727ee4e44f5616ab846289019a19c5a037bd34b3d0652e5d92557",
-    "984e813cb605c7f804d1408c7af63e7e48655f11d9512b94c4c056adbcc35fe4",
     "13f4c5a7578e6411993c2ddd44fc23699f038abf4a6457b57769f6e4d27d171a",
     "7ce045b57dd52ddadca0f9e20a2777c1950a4ff4d029ac83144995b9639eb78c",
     "5b5308f25d5592063d8c719983439c2999c73b59f17feb867c87ee8237d226d0",
@@ -4000,13 +3996,13 @@
     "324adadb76b526e85d7aa1a29141a71b3a3e05cc9bc24402ecb420af5ef5cb43",
     "c46d0067aa84c40a704f26844d4d585c0bb408ed35c7574dd5d4ac058a13c2e4",
     "696b9bb00635451c5ed018d7f10bd7199dd4bd006ac397fe8b5a0ff1eb9c92e3",
-    "bd5799d6a9a8833b1f22c34fc51fdea837796ccab09616b8efaab4e6df037dfd"
+    "bd5799d6a9a8833b1f22c34fc51fdea837796ccab09616b8efaab4e6df037dfd",
+    "2bb994b6fe4adc5606327244077b97a366b2cef13b64776b7203946a09b01600",
+    "287be634a94adfd48ab765e9138e8ed822831a722f58d703676990537f9c7556",
+    "3f2029d574bd9a5160e7e15d0755023bb7eb2d0382b4871969c923405b9bc992",
+    "e529f80aeb9a0df70be36a72e6ec1e420bc27f528f5db40972a69bb3219812b6"
   ],
   "title_hashes": [
-    "46960059992618b508206edded33605be27e8876bce70c3359d001935fe4522e",
-    "375291efcb1ceb9b03ce724de327b49ddf30351e9fdeb01198bcefebec534b6f",
-    "fb59429df1f7f8b765c337ebdc19358cd77add9ea0320b266aff8fe406c16fc8",
-    "93d4fefe9950cf7bcb8f03a675ce98fc99acd3e7bec6a523cc45d938bf32b3e9",
     "38c56feae4b48cf89714dfc228ed5b14d4590c5a2f4fa0582ba527a72e71c30e",
     "fbecc0d1585b06c3d5209e01b97637567f00b47c2243384888b23e306caf6d98",
     "70b197c2c48652d4562f8dad86f89015eeb47773f01ad30abf5d560b625af02f",
@@ -8002,16 +7998,13 @@
     "31b935b0f60558d0b9aa2aea03a5603eedb488bb51787274986c09b702b49b51",
     "9fd47056d1634377df63d0c1743314ad2e224e615d6c55e9f6d8261089c383b1",
     "ed7f9713d2499abd44c9486f925844d7278417e1ad1fb35febaa3106a3ac0c87",
-    "12db7e3078e4202a9de5da81c44c118a785cb1abd747a98aaa04ec5a95cddeb1"
+    "12db7e3078e4202a9de5da81c44c118a785cb1abd747a98aaa04ec5a95cddeb1",
+    "2bf151cf83061a50daacffd67437c737ac97dd8cc5fc947d75073c25b107ade8",
+    "453932f05208e3c62a57f272ff92a6cbb5df12e1545a50ffc52999a5c8c0de78",
+    "c8384e1fdf5433500f6525e0cb9f236d5330065a5776f47476324e0721f1117c",
+    "97c756316dd15800fc228dc236e24a9499d473d716ed77da304ccb4eed420934"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "SAMSUNG DISPLAY SECURES 9.1% HOLDING IN AMS OSRAM, ACCORDING TO YONHAP",
-      "title_ko": "연합뉴스에 따르면 삼성디스플레이는 AMS 오스람 지분 9.1%를 확보했다",
-      "url": "https://t.me/marketfeed/1084979",
-      "ts": 1795589270
-    },
     {
       "source": "매일경제",
       "title_en": "코스피 하락 마감, 4,697.51P (-6.16%↓) KRX SK하이닉스 TR 지수, KRX 삼성전자 TR 지수 등 하락 주도",
@@ -11504,6 +11497,13 @@
       "title_ko": "[美특징주]엔비디아, 美 대중국 AI 반도체 규제 강화에 GPU 매물 급증",
       "url": "https://www.edaily.co.kr/News/Read?newsId=01230006645649656&mediaCodeNo=257",
       "ts": 1795640196
+    },
+    {
+      "source": "이데일리",
+      "title_en": "[美특징주]스노우플레이크, 기술주 투자심리 위축·월가 목표가 하향…주가 약세",
+      "title_ko": "[美특징주]스노우플레이크, 기술주 투자심리 위축·월가 목표가 하향…주가 약세",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01216886645649656&mediaCodeNo=257",
+      "ts": 1795640286
     }
   ]
 }
