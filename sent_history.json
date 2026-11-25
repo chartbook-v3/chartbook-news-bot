@@ -1,29 +1,6 @@
 {
-  "updated_at": 1795598574,
+  "updated_at": 1795598748,
   "id_hashes": [
-    "cd86cfcc05f92e49f1d5485c2813f33728307d50009e91e6416ee2517802f5a8",
-    "ee60fb23639a5196af129a4d16ecfa062253f0f74cc2bae51a9a489e0423e9fe",
-    "3128dc37e99d635f3a6ef1a5e2a5e0ec5785fefb6919aaffb22dafab17ba5a0c",
-    "3aa3b7e2511e5b56391bafccdc5ebe09aface3f2601ef9107439f30cea883b06",
-    "f768dfcbd12b15debfe9f2c82e2c15822e881b16ee83b3852f6fc63dcbf8980d",
-    "96b85750764a60a196426b4e268650a7d237403edca07b5776190bbe4befd61a",
-    "5c1d8a942c88e87d9bba93b2224e088dc0a92457ff5a449b34f2e94364d740b0",
-    "f809892036f632abb01a786b259a2c043109a8bc11f18b2789a5ba1da5d579f5",
-    "dbd3fe723bb2f036e48ca161fc9c4f7119863f620bd619e3db820be350cc7716",
-    "2a260c3d8a47df64509137bdb2be766333880db2195e903d8b553888312c8252",
-    "d63b543661f327dc17d7017c7ef27902af34640a10968e87bd140c1c09b667a0",
-    "9a11eed1ae66430590c9eaa4b39fcdd76cb0d83f880d20811d1e2862331f80b4",
-    "8547cd956688e15f11af6f06c4717d9ca0b2b71db64662a46c93b9169508541e",
-    "9ba3e01ba67de865ec8aaf30f6d3e89c06983f91c8f490d38ab8264971757f8b",
-    "9c71a81b52434787dfc7e463ec33d8fee8cbcfec2c39ddef0fdcb3dc37cd92be",
-    "ebfb3c501a5d88d2b666771534e15a6b4a10eaaee6b065d449b71401e74b2992",
-    "3a343fbb71a62ac1ec85312f755a4df3ebe9af4831a8d3e3515a6c34d8abeea5",
-    "9270aa41665d47e6b2c458ab7297365bc0608806fcdb907ed2901e3250915de2",
-    "64a2f917c44ef17a1e400af305cca5de75bb9d353c653c01f0155ad60c0590a6",
-    "69f6db66f5f0f59fb59426dae2c7dcf9fad1e746cf646eb7d97b8486bab00732",
-    "8ba9677efd0d3fd535da3f3d13a119ce89df06fd402b30032d10c98219fbe33d",
-    "4cf33afd660554f2da7ecbdea0a4cb3417b774c9547e54197bfa5d328258c8e5",
-    "c04469123c569ed0a47783577a8e64a1918324b4eda023f41ef1b4b6ab318339",
     "33f3870f3daf99f1299139ca0083910bd784da066ce551dc1e10492c883593cb",
     "fe12f2125d5eff21b8740479c9a58022f720826e5e50625c6bb112b6681a0d61",
     "8f5a7fc41686d5dc20b0bc7cc60cb02bf2c190f45b95f3aafa4598c62c16c3a8",
@@ -4000,28 +3977,32 @@
     "c121e9877b81d90690c12dc2c9ac15ee59f63e574026961980469871f0d27164",
     "49b92ab0bba724a260a6bc167e501ec626923da7ce77fff3e585356d90a3e603",
     "373edbd13f2897e57b1a99add5606daac0cfc6a81ef251a2c94764df61c35c10",
-    "12a3b2784c232dcf665b037d8a2483780def9fb69558d0d8eb62153a3f588127"
+    "12a3b2784c232dcf665b037d8a2483780def9fb69558d0d8eb62153a3f588127",
+    "e0b3b87221357a2e59aad85a31bacde432edd32fcddf577f4e218737c99a1241",
+    "76f6e79139941665cbdf22c48ea67abd0f0ccba97c18ebbbe33a8c2ca36ad5a8",
+    "b3ff00e91feb1b2028fc92e2e0f633c6c70a48b9c00e85de620d15b4e0a449f7",
+    "3f4408a97e15f30c4aa5e9941ab13061627563f85811e5b7657a5b838c51740b",
+    "1e52b0ec36a9235dd8c3659edaebe69104474633f97c3637dfd48ae67872d24a",
+    "7b69894bda5b535f6ea7f4a8b952378b986c45c11ff8b227b23649ee4dc8572f",
+    "21a9ee5331d562c235637833395817e040b063cc3b810be72da5f65ff841af8e",
+    "2be194cd3eb07a7cc517d9be31ebdefee7b36f778d34dbe100f23c52047b8b67",
+    "0fc4168f5e1ae2679cf289290e5e01cae630f3e44a72362bbbbcf3d6f1ff89fe",
+    "6f9d1f1833e8bf391a86d84f1f8b4458d137064f9c1d7177bf97e5be5d90a1f7",
+    "b03a035ee79aac1fb8d1396a2308aa82186a5188f642a779bcefe98c4a547bb2",
+    "9393b7cdc7a3fa9723e8c716d3fd07e16dd4dd6850345f80d351cbeef50f49bc",
+    "a7e6b4d2a44f24d972ce10ee2cc3839d9bd625d711f7a10731b5a7111c5a5232",
+    "6935fc6e4e578f429ec413912dba540ad7187bbb3665c8a8ab41dd0b00fa0e5b",
+    "9d4c1072c76eacd5b23c3b9ded2b00de7edf49b6f6d9631baf36554bbd6581bd",
+    "88f7c1f74292f2e2b6aa033ca766407d61ea2b0e1f6b5ac6b5bc8467c4cb9b04",
+    "c8d662b5b586ba904eb53d8d7c8fd47a355aecb6d336c2505325ac9de38dcd07",
+    "594af220bb5eb2dcc39de22337c7cbf6aef3d630ba0e124c8b8f55c37fe847a4",
+    "d63b543661f327dc17d7017c7ef27902af34640a10968e87bd140c1c09b667a0",
+    "53750d58ef2b3d7eea710751d05f474f28bd5fccd7b0738a06d94bbc5e411eb2",
+    "d9e72775a1abacf06b67a6720772a32dbdc061d3dde1a873e2bdf7b5427313c3",
+    "96996b8c7f9f02750c8189cee4aa9a2d51387d622df9836bea80f69fd16a3ba4",
+    "775ba142a88cbf343adaba3d387490aba0c718021d8476eaca057ceafee3e0c4"
   ],
   "title_hashes": [
-    "c0e3c53fe1beb8ebb37d26fb097ad6b5ee41a192f2c0f7ad84c399cc89ebc8cb",
-    "086c8832df434d26bb6452a35407aa8cfdd11f640ed3e24bf1799bed2c17f3f4",
-    "d77915f9eeddf8a2a0fc2ca475d4a523bfc5058207fc4d1d8e9f828993f988c0",
-    "19e7865a0ef2bada16d62648c9286d00b9c7bb8746c5e4d6083ef6de9f48063d",
-    "939890cda28744fbe752a085e0857c2644d4f9559564885c6819e34739b65cf9",
-    "30ba41405fec4257bbdd592b12bae860a95c1f1026aedff6a5edeaebdf01b65f",
-    "8f0376050727217194878f64b4b452ea639df9ae1ba9ba9fb7dd6909d2624596",
-    "dc792ff9780ec012ea83fda03a1569d323120586eeaa79720356aa0193b87c37",
-    "6994ebae4f1d7e3aee147b90eccd96c8c8db646d083929d98ce10e6de2a5dec5",
-    "6f25eddd8064fcd597184b773a5d18256b664523540e696a5c683000f69fe5d4",
-    "d9ce5369602fe3329bb1fce8ed99e70eb56ccdf7cf3fb1450cc89bac0af72393",
-    "c58545318253f363ae935af88e95fd8a1d9490c12b5b444f78b48f176a90daa1",
-    "7ffb5247fc5535aa284544e8ed4148914414b76fe00713865ea1233f416ebed1",
-    "33363db555d7c80120cccecf37a19682d14dade38ce9d1a7d596879b5ff6e9e3",
-    "bf16fa62926dc9955ac0b4b2a97c217c69adb73d523115fa6ae031d62b8c00d1",
-    "206dee903f8cb6cb1400f6ebcd20466bde1b0721ea8b4e96660081011026cadf",
-    "24c19339126e4b6ba2c818c490e67290d3c12d82065e4fb805ede747dcf6d993",
-    "635d3aaf4a8ba69658619cdd3f389875a229a07b8233fd747b91ea5b6ef502b0",
-    "f61ee28b803b80b9707f1ea41fe7d5765829e30b099968fe27572a27aeb537b4",
     "05df656efd9f3cfd4bb48fcb3da07e92287508b66e5edb816e369f3695a9c9fe",
     "0ce94c70e4b2f9042701f8f0aec601d183d93bd5df72eaf6ef3186412890f88d",
     "bf905952f59a1611434aec676dc0c285ed62c34b0663503264c17c3a5efce815",
@@ -8002,65 +7983,28 @@
     "bfd1681ca196bd181df768e02b0706ea8e71c27ad2460baefa5b152744ed04f5",
     "a2673479f629503c06d965842ec74f3fc7807ad8640e5b324e764589b56068d9",
     "9c6d1f237c1e321e48f72f75b47e08b4bafda296ff0d8130b34c276c01f3c354",
-    "0a7768f6ff0e32cce3e8a1cc7ae680839fbc402d03645c59bbe732d2a85f4db6"
+    "0a7768f6ff0e32cce3e8a1cc7ae680839fbc402d03645c59bbe732d2a85f4db6",
+    "109f06b69bfb3d5f04c39a2c7e367268b52a8c6c1656fb635474ec7cd43dc885",
+    "0d00ca9bc9563c8d44aa377a337aefc151706952b797a546be73df76beb5494b",
+    "287a03276facbca55a80d610342b6c7219092967a3ae8a9f82086b81fc4240bc",
+    "86ddbeae29517fa7f1b767ffb0d8a4c4495cae6a888c79ed4a68005e8d00b528",
+    "568fc2de34f7cc319674c312cb9b10832e1823a9cf7b3c127ef5ccaa7b97e131",
+    "eb4246c6d0170d0cc7f546d0ec305d2e7c569a6ba6b619f5b2fe19c43ea14479",
+    "6cd5f81b04b00a74c0526d58c466a55f5e18f60248962a250a17041e9398b8ad",
+    "b81006f67445c84972b7ecfaf5e1319c7f33e6d520d1697ef92525fa4550b1d3",
+    "31075b2362f23883777f018e606baa497059aeaea73b80fd3332b3c6c2483717",
+    "c0dd7cf281d1bbc844a717fbde2fa70d0cc1cfe02becfb4148fbf733a0b42189",
+    "c6935dcb3a08748c06d266159201ecd6bfbcef43fa082c93f192f0ae367f26d6",
+    "858ec28f60d8c632b2f7e4764df5c1e23135ef1e9be37e209a49eab5d131027e",
+    "86325dc790195127f248fbb2842bc369175f81d820e7a1c1f27a1a7791c8b05e",
+    "8359b40dddb00a54ece8dd2fa8eddb8665c60a754306ea584793235aeea4d83d",
+    "396425d79a20ddbdd685555a8fd351a8710f8f8f97ae5850437a03e32ba73f26",
+    "a64b18eaad70fa9965db7139915d00620e94f7b3feb0152e636071eb22d869cf",
+    "45f341eb27cd18f9001ee5a78256984389a61513808f48778a2d4c7f1dad561a",
+    "837d4896a3672fff0e4fb8ed4563e5b41ec0bbeddd935a61bebf6799490346d0",
+    "9fa2047957f465e8ed9543b1256fd51b7e0417353766bb82b484bd27b9c0ed64"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Thinking of Buying SpaceX Stock? Gary Black Says Wait for a Potential Tesla Merger to Send It Below $100",
-      "title_ko": "SpaceX 주식 구매를 생각하시나요? 게리 블랙(Gary Black)은 잠재적인 테슬라 합병이 100달러 이하로 떨어질 때까지 기다리라고 전해",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63613188/gary-black-spacex-tesla-merger",
-      "ts": 1795570760
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Banks Put Data Center Clients Under the Microscope on AI Chips",
-      "title_ko": "은행은 데이터 센터 클라이언트를 AI 칩의 현미경으로 관찰합니다",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/citi-stanchart-put-data-center-clients-under-the-microscope-on-ai-chips",
-      "ts": 1795571034
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "BNP파리바 \"연준, 12월부터 세 차례 연속 금리 인상 전망\"",
-      "title_ko": "BNP파리바 \"연준, 12월부터 세 차례 연속 금리 인상 전망\"",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446430",
-      "ts": 1795571038
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "코스피 오를수록 外人은 주식 팔았다…\"주가·환율 같은 방향으로\"",
-      "title_ko": "코스피 오를수록 外人은 주식 팔았다…\"주가·환율 같은 방향으로\"",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446429",
-      "ts": 1795571040
-    },
-    {
-      "source": "블로터",
-      "title_en": "스타링크 의존 경고한 한화에어로…우주·엔진 '자립' 승부수",
-      "title_ko": "스타링크 의존 경고한 한화에어로…우주·엔진 '자립' 승부수",
-      "url": "https://www.bloter.net/news/articleView.html?idxno=679625",
-      "ts": 1795571044
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "SOUTH KOREA’S STOCK MARKET OPENS SIGNIFICANTLY LOWER AMID OVERNIGHT LOSSES IN US TECH SHARES",
-      "title_ko": "한국 주식 시장은 미국 기술주 밤새 손실을 입은 가운데 크게 하락세를 보였습니다",
-      "url": "https://t.me/marketfeed/1084885",
-      "ts": 1795571046
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "[오늘 외환딜러 환율 예상레인지]",
-      "title_ko": "[오늘 외환딜러 환율 예상레인지]",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446431",
-      "ts": 1795571072
-    },
-    {
-      "source": "WSJ",
-      "title_en": "US DOLLAR WEAKNESS MAY NOT LAST, MAKING BETS AGAINST IT PREMATURE",
-      "title_ko": "미국 달러 약세는 지속되지 않을 수 있으며 이에 대한 베팅은 시기상조입니다",
-      "url": "https://t.me/marketfeed/1084886",
-      "ts": 1795571202
-    },
     {
       "source": "파이낸셜뉴스",
       "title_en": "사노피, 410억달러에 인스메드 인수... 제약업계 빅딜 성사…",
@@ -11504,6 +11448,62 @@
       "title_ko": "일본 정부, 반도체 및 핵심 소재 안정적 공급 체계 구축 검토",
       "url": "https://t.me/marketfeed/1085032",
       "ts": 1795598297
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "MPC Container Ships beats top-line estimates; reaffirms FY2026 outlook",
+      "title_ko": "MPC 컨테이너 쉽스, 매출 시장 예상치 상회…2026 회계연도 전망 유지",
+      "url": "https://seekingalpha.com/news/4676491-mpc-container-ships-beats-top-line-estimates-reaffirms-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795598600
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Elekta AB Non-GAAP EPS of SEK 1.13, revenue of SEK4.36B; reaffirms full-year outlook",
+      "title_ko": "엘렉타(Elekta AB), 비GAAP 기준 EPS 1.13 SEK·매출 43.6억 SEK 기록…연간 가이던스 유지",
+      "url": "https://seekingalpha.com/news/4676493-elekta-ab-non-gaap-eps-of-sek-113-revenue-of-sek436b-reaffirms-full-year-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795598607
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "상법개정 후 자사주 소각 공시 2.2배.. 내년 9월 시한 앞두고 \"보유분 털자\"",
+      "title_ko": "상법개정 후 자사주 소각 공시 2.2배.. 내년 9월 시한 앞두고 \"보유분 털자\"",
+      "url": "https://www.fnnews.com/news/202611251822467724",
+      "ts": 1795598609
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "정부, 증안펀드 실탄 더 채운다… 증권사 출자 여력 타진 [코스피 4700 붕괴]",
+      "title_ko": "정부, 증안펀드 실탄 더 채운다… 증권사 출자 여력 타진 [코스피 4700 붕괴]",
+      "url": "https://www.fnnews.com/news/202611251822513176",
+      "ts": 1795598612
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "AT&S Weighs Moving Listing to US, Asia From ‘Cute’ Vienna Bourse",
+      "title_ko": "AT&S, 비엔나 증권거래소 떠나 미국·아시아 증시 이전 검토",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/at-s-weighs-moving-listing-to-us-asia-from-cute-vienna-bourse",
+      "ts": 1795598669
+    },
+    {
+      "source": "Reuters",
+      "title_en": "European shares rise on consumer boost; markets await US tariffs, inflation",
+      "title_ko": "유럽 증시, 소비재 강세에 상승…시장 미 관세 정책 및 인플레이션 지표 대기",
+      "url": "https://www.reuters.com/markets/europe/european-shares-rise-consumer-boost-markets-await-us-tariffs-inflation-2026-11-25/",
+      "ts": 1795598736
+    },
+    {
+      "source": "The Verge",
+      "title_en": "Amazon Autos is coming to the UK.",
+      "title_ko": "아마존, 영국 자동차 판매 시장 진출",
+      "url": "https://www.theverge.com/news/1042015/amazon-autos-uk-launch",
+      "ts": 1795598744
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Europe Sentiment: Tariffs Back In The Spotlight? - FJElite",
+      "title_ko": "유럽 투자 심리: 관세 이슈 다시 부각되나",
+      "url": "https://www.financialjuice.com/News/9867465/Europe-Sentiment-Tariffs-Back-In-The-Spotlight---FJElite.aspx?xy=rss",
+      "ts": 1795598747
     }
   ]
 }
