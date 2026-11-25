@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795589222,
+  "updated_at": 1795589400,
   "id_hashes": [
-    "44cfffcaf505591ec2ccf72fb2d575588bac0784c49f9964e24990ab31bd19d1",
-    "e8aa4bcedfa5aa753d1b5f4c9072e438e4cec006faf9762c5fb6366eda7c9790",
-    "45c44df6813129b8cc0fbc8086a0594b0f4a7f3077562176e82cc59d7ba295af",
-    "184fcf67413bcd395d563ff9c9bd5027799fb56cbc0941e235ac54a96c03e171",
-    "0e2094a50fd8c8d78e72a272077493c139f776018ba0355354efbe7fbab18e07",
     "3770249c50184ea912f975efac45540f859ec99ba7c9c0332a3b3acc3c03837b",
     "bb9e515e2de056633ab01bbec0f78dac286374510ec974bf17bcfa714474d008",
     "b74abe5a0def131599e89d98962784378bbf5520f8cf70f937f7e040edc6d999",
@@ -4000,14 +3995,14 @@
     "256fd8dc21e2cc3fa7016c2eb0697ce947157e52ec2b6c0391e012184d507b10",
     "9d8f0cdaf2a577f8d7f381c1fdc2360ffe0d4df26804ec7f2c620b1a500d0689",
     "43e97c34187c098a1026a776fbe0339f40d2faad97c81d21402d62ebfeac07d4",
-    "717d7c67fa334975fffcb3c78cbb6866f337623102264d3264dcf6088c4f451f"
+    "717d7c67fa334975fffcb3c78cbb6866f337623102264d3264dcf6088c4f451f",
+    "5d42abc8ef6146c2959c39523424125e877ad07f787856f0cccf8b4e0df90c4b",
+    "4d9f095bee2d65f462e7ee8dfbc9242051a2cee660e0f9d32e50e16a31bbc21e",
+    "b8ed58d9250aabf1bd231305cf558ef0a798a0ec0355bb2890aaa121583f8436",
+    "8405b8d32da38be7a4cedd2ca17cd922fc8dbaabf7a678a8a32e6882c2ed313f",
+    "b75c9fe9365487a33778607fabf89616c30110d10ddbbb23c6a65240c3dd8373"
   ],
   "title_hashes": [
-    "02abcbb3c64be4ea28bd6eb46c6b52e50794375e39e425f7b180153900f7e222",
-    "c8a564095cafdf47b23b7613707ad48f52f1799e31fbceb861cbe8bdf28dd30d",
-    "213693b6fe7d041cb445d9fa635988381d0506f99894067eba9c37b0c87985e3",
-    "5331553b572a17c8fa13256f10717ed50e90a5bdf671b6b864cbc4d914a455d2",
-    "43968fe36ded184237f1ad84356c8273107a0be769d6048d7d42ecf12b5b46c2",
     "139b600539f25202a5324f5db5c02e23b6b085470540a9b8a6908a7142492f73",
     "b106439a7e3cf363fa0bd5e7e55b95565a7f63fd4f556861ca3784fac773d4ec",
     "70db86229ee92705546d9e13b5bea2328a70c59d7ef1dae2d38263b5fdf0502f",
@@ -8002,16 +7997,14 @@
     "1a0c703b111de9d0c23a87fff0c584fa67e9df1c8277fa0291ed6e1884990af9",
     "7456ff8f0847670c642d59f8a67fbc24e04ce6f13031ac29d5279d9e3e1db2c9",
     "22c91ffae19f63a3bb615a0f27f556919ebc9d58654e33bd9fdcb019174748b3",
-    "36c4448af60f00b8312ce400d32f430da99f5cfc8e55dad6c51b488126ea5bd7"
+    "36c4448af60f00b8312ce400d32f430da99f5cfc8e55dad6c51b488126ea5bd7",
+    "e9cb5342bd90e524cf7b3e64832ca2abde68e866ac62ab806932896699e64bf7",
+    "3e8aa1410191821b3965bf9a7b8d63b348f5d0a5a695cd848ed06a061a9cdb8c",
+    "dcfd89d31297e38be562f0cca20fddb687700070c5da06e761c5ce534b38a8e9",
+    "8c807b8ee51ff947f02924b8bda3e3d1f40b86b1b3381f1dc3b4bd61266de86e",
+    "b0a9798c5a4ca8527b3e0bae895c07db9a97f40ed3b1924020cad3790f64e926"
   ],
   "recent_sent_articles": [
-    {
-      "source": "조선비즈",
-      "title_en": "“코스피 역대급 하락 속도…금융위기·경기침체 가능성은 낮아”",
-      "title_ko": "“코스피 역대급 하락 속도…금융위기·경기침체 가능성은 낮아”",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/25/3CE4UZ3DCZGHBD5CSD67N34CZE/",
-      "ts": 1795563046
-    },
     {
       "source": "Bloomberg",
       "title_en": "Oil Edges Lower as Expanding Supply Vies With Hormuz Attacks",
@@ -11504,6 +11497,13 @@
       "title_ko": "중국, 국제 우주 파트너십을 심화하고 평화로운 우주 탐사 지원",
       "url": "https://t.me/marketfeed/1084978",
       "ts": 1795589221
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "SAMSUNG DISPLAY SECURES 9.1% HOLDING IN AMS OSRAM, ACCORDING TO YONHAP",
+      "title_ko": "연합뉴스에 따르면 삼성디스플레이는 AMS 오스람 지분 9.1%를 확보했다",
+      "url": "https://t.me/marketfeed/1084979",
+      "ts": 1795589270
     }
   ]
 }
