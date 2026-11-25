@@ -1,23 +1,6 @@
 {
-  "updated_at": 1795611825,
+  "updated_at": 1795611989,
   "id_hashes": [
-    "6ff32a9cc90f97984e7cd788957924197b61fbdf1807a0a4459bcfd23ee55f21",
-    "133aa17599579ef08aa947879d4ef4bdebadb6ee809a44726cbe8b2704a1f9b1",
-    "98e398cd4826975624d80ccbdcf8c4e637cac6ba9fc38a0df7f4cc73f31e82ed",
-    "cf8e245e475e5fa72b668dad04b816ac7c5d42fde4f68527bc21448578cbdb18",
-    "cd883df8334c4acfd92a38b1fa106a91814091d47ed4e6c9af6dbe6eecb39729",
-    "d51cd342a08e1150766e3443c903569d3a69ed0c637fe647c45208f33877a7c1",
-    "528919728daa56da5673a9a640ff575ec9c74fd521230c885fddafa0fd6046c4",
-    "4b0e4b95d5451eac1594d18306521566cd5ee95f2d5cb15ad8743c9fc054426f",
-    "6635e282dc12edfe1fc515d6dcc64baddebf5c0f6c844a358259ce48f32ae905",
-    "0a456930aa17e85b485962bfe66322d28f24f3958d3a8afd3847f5cc03494ff3",
-    "9741e002438006c627959b09088cb85c597fe262445937a784c0684efa2cdc55",
-    "3aee56eb606ad07f4efe641a5a965afe45ced16a1f991e216f1aed41e5eab338",
-    "8ecaeb2d7c0361d1316d2fbe9287805aa118623766cd3608880d2f0c5acdff00",
-    "e27e13812669ac7025290ee094621b78934c23cb7283c345a7f67d4e6a93850f",
-    "b293f7f057bb717af153819b6d9528f61814b8c50ae2ccd85344a30b4ffe565a",
-    "c5cbe7432d9989ba2d6e4e6f3e0c9c96580746bcc33424e66ffee1e992fd8de5",
-    "96058ccb59b498cd630b58d6880c805932c80532cb178f4b02ccd16bd03e8675",
     "4d0f11c338cb60af862a80d0325d0d13746e6fb3d4af6dcbf7ffc8136190d003",
     "090f6c84b9da1f50b7fffaa79cdf026763aa47f7b4bd5aba8c9f954af3e59d84",
     "653b2ab042ca80d3d52c2de69deb291a4d425dc71b2aba63f3d62d39e4aa3c3b",
@@ -4000,23 +3983,26 @@
     "a17ffbb087cf12dda99d894c28a4c8590b18685189f55e7761db4a2da7a98bb9",
     "c8809d5a9ae497de87076ee3b6ac61efc3afe769598d56895081f63b7f8fb362",
     "6e38e1f833df32c4041d9c5bd187bbe5579ffbb1274bbb35d9cb98c0cb87c873",
-    "74f764881ff2adc2f9bc10737660b2cd4f3129d0703a27ee0ce55dd1c2175b55"
+    "74f764881ff2adc2f9bc10737660b2cd4f3129d0703a27ee0ce55dd1c2175b55",
+    "b5398f08a29593391b68f30a123debb93ef959d0f6790022bce0700f91a431ac",
+    "8f4b4708b1ec1e0d500cc7978e4df39b664a5e3260c6d796e3e524c7c23b6405",
+    "0255d9e411b177b5b120da157f8345b9eb186acdadd5e515effeda047e24e80e",
+    "3d828eed08fc25d4efcd10ecb42339da647e22a228f3c01b035e826ce2702e27",
+    "daa675f0d330e99a1d3bea5bf68b95dce54cdd8a324e727b5dd0863ed51c74db",
+    "95780fc4b6a499a1128ef83399dadd623e975ac05809cf2fcdbf1ed9ac9f943c",
+    "20c8537d5e1abc10c889aaa828beceba4807af9a5dcadf41e7822b0861998af9",
+    "91044146f622ee1251b2bd34123c748b1f9aadaba56d77dda98c64640ac0ecf0",
+    "0c9053336e8dbb2ae2fc1bd0e5ffded5c4afa91db57456036b7956e050af414d",
+    "b98be5346d3d5036577a3dff6bec125ed6e1ce1ab0b0e186c042ed99edb3ed02",
+    "f6c13bff4378536d8ae6daace8da07386587d8f8320e393802fddf4701314510",
+    "86022aa9626b775802bb6c2b08e78cea58c2c6219687f1c2bcdfed3125585d22",
+    "f80ff34205c819b102a4062131b4d46f255c3849927a3e3fd6028329f27dd15d",
+    "d7196522b68d2e8697cb4126b8a29eb35dc075799ce5b537b13a8e4be97fd5af",
+    "75e271af11a1bfb9a15ab9f21b6cbf35f14a6b286685c7533ad7476233555e09",
+    "72d0706421d7ed859d6764f5d0a4d50c4a052922ea688118c4ddc97469d97dfa",
+    "f6bb1b48053fe072cca98d90397d7fa125960ce9fade02b4a14dfbd60809b007"
   ],
   "title_hashes": [
-    "a7c464dadcc0da5d7cdaf2c1ddefe8214e7e6eebbff53888311124ed5e98a47e",
-    "b972ed6e4410e258e269d07b4b2dba2f55e879d65bbff8e86bfb4e0ed351b4e2",
-    "c3a2fac24d87ffeb244a96e42561f0030767ca129063dc1263090dd880410f23",
-    "84f87201706dc55c9b48632f5ee9b7157d70177c636aca42b1e8db2677f7b795",
-    "f66faae10226a29c1c2b5512d69f324ca141ee49df16a88873c09414fcd5761d",
-    "a549f64eca02d45604bd9784ed7a5fbf7a45f57249468f79aab8bf7b80694cd0",
-    "e0ec96baac6a38a54b4688b41b2b3154e10dba65b0b3f7c6eab0d0f2af71b605",
-    "8e8616908cd2169591511cccbc1b2e9265838f97315916f290c136bfbdd006d1",
-    "6eb772c088334b2d9bfb470fed8654e084a1aa7dbb4948af2aba3a165b1f179b",
-    "59c2662696e70747577322ef303a3db34084a34584c680436c4c36c76fb8b79c",
-    "bd96a492fdf9743f377987a6ae725d32cbabbd0bb3d28ada014b7528693fb799",
-    "d33afbfe59d8b1f4f31d386ac4b328694e0753e62b5e9ccf63a1abcade554264",
-    "bd49e602c0ca8af9dc1bd6108260a92f3b42ee12416e98483f4f7f63ccc90a30",
-    "466bef59ce2d37ca99163518a706c36cc120e6c7f80703ec193d20d4b7532807",
     "4dbb2cf0055bb07cfb0c4d95aa74b05124639c8e04bad94f01b921723461bf2f",
     "ed0f6963b527aab76a77c50e3765c7ccf3d944b26ada2316d9977583be517e1f",
     "483c9bcc7315c51d91a654bf587a69cc20645a6825b12d2f8d0c4cec3e3ccb4e",
@@ -8002,51 +7988,23 @@
     "9ffc12f2095c8bca51756084e5c45741d3c00924274ec63ee181b90d5f002508",
     "a682babb96838531abc53b2dcc889c6581f41ec278587a6ebcede75930f34815",
     "2802808f5efc42ae7e3297ef78fb1d4fa0d98f4bea137b4c5c27a40487c249ed",
-    "73b6b1af4324ab813d90e9265ccf9d9e14fba02327b248cc6754404797c790c5"
+    "73b6b1af4324ab813d90e9265ccf9d9e14fba02327b248cc6754404797c790c5",
+    "6a71bb3745e40e2afa4e14db509769904d7033042802bccdbaf329686c482e95",
+    "32e2848604753847ab526737df43d50a61f6fdd878aa28bbe54f0ad7b780d878",
+    "2470b4f55289f18628f5247f69b98938c616766405a8d88194aeaeb473b0b4ca",
+    "371eda1cb466b46f993c037d9ef5942058ddcf054186004e1f2bf9c6962085fb",
+    "7e5c67ae2e7b88af03864e07ce061231752eeb9ed093d2a9ad784e7120d894c8",
+    "016c4ac0d7ee38533e10351395074de6519dadf9aa73413e520d56e2ae3c3662",
+    "bdf9f65a5119612c416e8f3a7bdcf37510dc026f2f830bafb58bbd4558dc125b",
+    "0f9b6d59cb3b75f78b8357f87d8181173bc38590787383e5b53307e97a9f04ff",
+    "d543586a26977870ded4d0f2863ebab63bb3ae8ff978704a061a070d4ca72ac0",
+    "6e4235c756e9fcffd98ca94ef8d36a7e1fe357ae530712f2e3ac62b3b1864ff6",
+    "9f9162204526eba680be9d360c5363b7e8ca9186e51b0a943b3b1c679e20623a",
+    "1926981acf4b14f02f5cbb6a3aa1e5d7b55cc87cfd5895c3a83164159d7d8376",
+    "c1ded3548c89360c06c8d6b8900b6b7b9689f38e2a0b04680ca5087e90d7657b",
+    "e3c364492a3f9718439ad1b7839f536d69991745556c956e8136a3033a43c3e2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Singapore PM Wants More Information From US on Megaspeed - NVIDIA (NASDAQ:NVDA)",
-      "title_ko": "싱가포르 총리는 미국으로부터 Megaspeed에 대한 추가 정보를 원합니다 - NVIDIA(NASDAQ:NVDA)",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63613937/singapore-pm-lawrence-wong-megaspeed-probe-needs-information-us-nvidia-chips",
-      "ts": 1795584842
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "创业板指跌超3%，宁德时代跌超6%，股价创19个月新低，半导体芯片、算力硬件、机器人等方向跌幅居前，全市场超4000股下跌。",
-      "title_ko": "GEM 지수는 3% 이상 하락했고 CATL은 6% 이상 하락했으며 주가는 19개월 만에 최저치를 기록했습니다. 반도체 칩, 컴퓨팅 하드웨어, 로봇은 가장 많이 하락한 품목 중 하나였습니다. 시장에서는 4000개 이상의 주식이 하락했다",
-      "url": "https://wallstreetcn.com/livenews/3205433",
-      "ts": 1795584844
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "佛 보조금 제도 개편에 中 전기차 점유율 반토막…韓 세액공제 주목",
-      "title_ko": "佛 보조금 제도 개편에 中 전기차 점유율 반토막…韓 세액공제 주목",
-      "url": "https://www.news1.kr/industry/auto-industry/6365415",
-      "ts": 1795584998
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "현대홈쇼핑 코아시스, 몽골서 K뷰티 수출상담회…182억원 규모 실적",
-      "title_ko": "현대홈쇼핑 코아시스, 몽골서 K뷰티 수출상담회…182억원 규모 실적",
-      "url": "https://www.news1.kr/industry/distribution/6365661",
-      "ts": 1795585000
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "SHANGHAI ALUMINIUM CONTRACT SINKS 4.06% TO 20,685 YUAN PER TONNE",
-      "title_ko": "상하이 알루미늄 계약 싱크는 톤당 4.06%에서 20,685위안입니다",
-      "url": "https://t.me/marketfeed/1084944",
-      "ts": 1795585004
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "伊朗称两艘油轮在霍尔木兹海峡触雷爆炸",
-      "title_ko": "이란, 호르무즈 해협에서 유조선 2척이 지뢰에 부딪혀 폭발했다고 밝혀",
-      "url": "https://wallstreetcn.com/livenews/3205435",
-      "ts": 1795585034
-    },
     {
       "source": "MarketFeed",
       "title_en": "40-YEAR JGB YIELD CLIMBS 5.5 BPS TO 4.175% FOLLOWING WEAK AUCTION",
@@ -11504,6 +11462,48 @@
       "title_ko": "중국의 메모리 거대 기업들은 화웨이가 익명의 출처 없이 HBM을 출하하면서 기록적인 한 해를 보냈습니다",
       "url": "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-chinas-memory-industry-in-2026-cxmt-and-ymtc-are-booming-but-hbm-remains-a-headache",
       "ts": 1795611824
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Trump's Agriculture Secretary Brooke Rollins Touts Thanksgiving Grocery Deals as Fuel Costs Ease, But USD",
+      "title_ko": "브룩 롤린스 트럼프 농무부 장관은 연료비가 완화되면서 추수감사절 식료품 거래를 선전하지만 USD",
+      "url": "https://www.benzinga.com/news/politics/26/11/63618497/trumps-agriculture-secretary-brooke-rollins-touts-thanksgiving-grocery-deals-as-fuel-costs-ease-but-usda-projects-food-at-home-prices-to-rise-2-4-in-2026",
+      "ts": 1795611850
+    },
+    {
+      "source": "NYT",
+      "title_en": "Watch: Elon Musk Says He’s ‘Not MAGA’",
+      "title_ko": "시청: Elon Musk는 자신이 'MAGA가 아니다'라고 말합니다",
+      "url": "https://www.nytimes.com/video/business/dealbook/100000011289870/elon-musk-dealbook-maga-politics.html",
+      "ts": 1795611854
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "GE HealthCare advances total body PET/CT innovation with Omni 128 cm, now 510(k) pending with the U.S. FDA",
+      "title_ko": "GE HealthCare, Omni 128 cm로 전신 PET/CT 혁신 진전(현재 510(k)이 미국 FDA에 계류 중)",
+      "url": "https://www.streetinsider.com/Business+Wire/GE+HealthCare+advances+total+body+PETCT+innovation+with+Omni+128+cm%2C+now+510%28k%29+pending+with+the+U.S.+FDA/27398710.html",
+      "ts": 1795611859
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "MORNING JUICE - US SESSION PREP (25TH NOVEMBER)",
+      "title_ko": "Morning Juice - 미국 세션 준비(11월 25일)",
+      "url": "https://t.me/marketfeed/1085117",
+      "ts": 1795611914
+    },
+    {
+      "source": "Politico",
+      "title_en": "Pritzker rejects Trump’s federal school voucher program",
+      "title_ko": "프리츠커는 트럼프의 연방학교 바우처 프로그램을 거부했다",
+      "url": "https://www.politico.com/newsletters/illinois-playbook/2026/11/25/pritzker-rejects-trumps-federal-school-voucher-program-01182428",
+      "ts": 1795611980
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Deere profit misses estimates as farm weakness persists",
+      "title_ko": "농장의 약점이 지속됨에 따라 Deere의 이익은 예상치를 벗어났습니다",
+      "url": "https://seekingalpha.com/news/4676550-deere-profit-misses-estimates-as-farm-weakness-persists?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795611988
     }
   ]
 }
