@@ -1,26 +1,6 @@
 {
-  "updated_at": 1795567177,
+  "updated_at": 1795567344,
   "id_hashes": [
-    "c5e4f9d25ca1cd95700f3a918cd608c65cf3874143cb1b896e60af9ffab147ab",
-    "d90fd581f87fbb70a98bb76f87780200d01c2a802e16e59988a4e4a2508cc097",
-    "4738096320fa87c71d91dc196b73f6e0e6575fdeb212516936edf925dc3eaf15",
-    "cf4c395b15560fe4d65b31471164259e689694d1b33cac3a5ae7ec88c680ce6a",
-    "17011159d39c46fd4358936de3816de063d9c7906a356c864aa4cbc96008296b",
-    "887b4d52ccb3d196e233e436dc6f24ef6c04794e7b03f972e677f68f7e886e11",
-    "d364bf9ea26ec470275dd7de21daa2c36340c838cc9325b69761a1adf1c5f7f5",
-    "ffde64ec5a9729fb672f000f6977310753dcd9d789d78f71d5da5fda173a05a4",
-    "4d5a03dd092ddc46c03f4f02595c4368250b0100953e8dbbb26ab2341f34dc8a",
-    "842f70ef1e391359e9b03732ddee0b0c8f5b7464baff3e3dc33c4341a230c820",
-    "11e1b31625823649f8defc659caae27395283b5d910a39a90481ec0a773ee625",
-    "904a4c1295917f516816e519d787f8a4d3d5f59cf1ac93df2310356d7295a3c6",
-    "404a7f55636b6fe0d3f66f6573420eedb448e71732d27a9b22ce219d023b5c40",
-    "046a8b9a1a1483bc6d9e012e3761762c0fb3665ed04e39867afe45495bc039b6",
-    "5fbf5bcec44d799502f9b2130691d789b8cc81ef0f58285e360a2d1b24986fdf",
-    "3418795eac762ccb78af0b1149c0b70ea9bc1024238f316173bf55b62cfbeaf6",
-    "89eeac03f844e1d6c4dfc7c7d1d14099f6b95da3869ab288c9e9628cabf8cc39",
-    "4e7af714e15b65afbee42844b1f4209aabd5461829c594b541da41fe2c2e0150",
-    "838dc2f1479c1d2105282eb27166cc850c863b2a34a5ca8b626045680e16f259",
-    "816d6fd344f9aa00344170af4f5f3e555e6a3bf3b182aa6edb665bb597d66206",
     "877b44e59fc4107b698cd159ebae46cb6c729d00ee048eed959e85658eb7aed4",
     "0e43b2ccb3f8a4eda7df3d21a9c51ff771e388295e19ef74cbe35e7a72fcb13b",
     "489406a175fc920ed8ea1fd364afc751ca7b75dd768c83f52ee90d77e8eec054",
@@ -4000,29 +3980,29 @@
     "949bb4463f444aaca427a633f2aa74028423f11fcc1a24b2b53fea97511ff164",
     "0cf04c6945536f65ef64a2a82a594207fefcf7e2842bd47f7d13dadb08a34346",
     "1f714d8dd91ac928f78214b464aea63f8fe154a5fb2b71b7c9b5ed28018e8c77",
-    "98911f0cb159a9c0ac48f4f05b358f76db809f276b2ed2cd7a0dcaadb9c1c31e"
+    "98911f0cb159a9c0ac48f4f05b358f76db809f276b2ed2cd7a0dcaadb9c1c31e",
+    "b8be1b0979a801653af28f8d8f21c19a403b21dabab2a9b08f72aaff04089d49",
+    "4967496ae57b7c3d789aec6f025c8b59ec32182820636692607245dd6db820a2",
+    "7e8caff7173a196e58b3bd3e3cba96073ad5d2f7bc4fc75fced2d82ab99619e2",
+    "46dab85294ca9013521f8aafe5fee71bc454b6d9edd788d2c719da14cd4d07cc",
+    "3effdf049ac485839235721ddc0de096a7197fc54a85a6b6881695cdf2aeb966",
+    "69899d17ec26ef810ac9e85fa7aa976ab9b12805f48899cb7e323a3d3fe1869d",
+    "40de981b8640e4e58c8301f55539d798ad40fcd40cc36ab2f8fc43a5f3ea9dc4",
+    "a3a29ac933d3e4029714278f6cf07004d63abf2daa65401ddf751f9a1182733d",
+    "340312c0a24f4e1ec716b7f6c4ee7e0f6ff822284730780688e0f654bfdcdba1",
+    "ee4a24b9679f623583e691733f49d20da70a835cd08356879b7fd09e6a990245",
+    "f32cf85c27308d3d53364cef8609952b820fc6b281a0a0df498d2a3c68d90d57",
+    "a6fe18b38dd119f519194a7a6587b3dd908eee509e53df6fa1d251b0de419250",
+    "27a550df87b7ec00890b68051e4eda91da75c4c71be5533d5d30115a996fb95d",
+    "3ff0776517964be116a521cf816c4e7a90055bb0753f2752e6f300b46f7379fb",
+    "5f3239331204dea1ed83b856e18ae7b476e6aeb9481cfe4ef4c7a6b478f9ecfb",
+    "03b1e1c51b2bed2848cae60a41731fedbf6abda2cf5f29527750dd3242e98098",
+    "5ac5c89ba2176fa01aa4f4d745ad89bdede3652c3e542b0630266eaaaf5eca26",
+    "82a4990f8a16f933d9aaaa7263ee9702103ec153bd5cd17272e8aedb85992752",
+    "3abc070a71e63542bd59abfab2e082583ef085812c87ce1b64daddfc60484ec0",
+    "6b3dcce10e629084be7fc29385c8c8ad48b0e0f654fd1e9ce11e0c99af6a1221"
   ],
   "title_hashes": [
-    "28416a42049fb4f0cef96956063c34170e6864af8d03a45121879b1110253e7b",
-    "a86c0375796a925333f8f1a1941c934591848237028bfff5a87f17c03ccfd33a",
-    "d58918734e295eac69769b341e1096862e853bc1574fe334c182ded6f85bbe20",
-    "0249c29e4d5fc6a143e5d7b480a7f9bea7f580aa37b2b45b313b243748310cac",
-    "00b363636d05997bfb6ac4fd8c6d60a060b3afd096c6fd5960809742e603dd07",
-    "c09dc8abee9bd4f057ad83da5e11f2101131a966d5c041d8776cc6801639476b",
-    "edff45fc0778d3fb134c9a31e76af25db8132b48c6fac2bc6e3b6ab508d349d2",
-    "4006c1c793ed693d7234bd853cd8cbb1b796d7fa90ae23d95ab24c0c847060bc",
-    "5e5fc8593391195896f3a48607928ac5b68a470e02c0f685d2018f5ca5d20e0c",
-    "284a3148be1da5b5ad44275f918a44077ba7886bbcef588083531341a6076413",
-    "a558f233f5529c422689b5db0c16ce900b51418d722aa1488fad4fd37f3ef3d4",
-    "261d62851cdc5d7a5d17a1850bbe5ee996b1e45c82686e0f95d35a57058dd84d",
-    "b19a6296904a3932f9d26bccaf4faa5b03bb99c737e4240bffaabfd1832012a9",
-    "f1f456528f9b835ca9b081c627fe1f00bca0369c49c97f8dd34abeb20f74ce52",
-    "5a1df884784b31f0936f1dd3966016b8aed88e905a55f80889d51180a7690297",
-    "1f9608c638e1298b5c68c628815ea919d117951676efef654e2e9a56094eec5e",
-    "85e8eec1a29fd64b88e4ede9a167f8826b7768edfb29e1086682437053ae086f",
-    "db79a90a6f2d8332935eb547dbf41833cb482e2e5bc9f1cdad8f8b64997f207a",
-    "082b0d2934502533ea783dabbd2ba147cda4841b40f251e9033b25189ce477d7",
-    "d24e687d38ff260e79ecb0394aad54054a9104312d841bbe69fe510f3581ffd5",
     "d59d2b39c5a3791d1616d2886c953352e4a242d32884d7ee6e99132741735d2a",
     "32843669852e1753e44215a7de8c672504917e7f5cd9f6374be117106fd42262",
     "6c8dcfbc4a6871c216f18a398578d67729a9ab6e6d94fe0fbda08dcc22591995",
@@ -8002,44 +7982,29 @@
     "e378195a5ff401d1398e058687d1fdb12c42924fe93e0b18c1858458b7d604cd",
     "978ac72f0e6861932c5f96da92a0ae5c0e75a6998f17de065de83f4d628e29f8",
     "277d5354dc556b418b4a44615adc9af0c049192269a4714ae14872b5f40dbfc3",
-    "76c4ef4cec2814118d0ad3b4fc834a0d620a49ab24de7feb14d414e28048c576"
+    "76c4ef4cec2814118d0ad3b4fc834a0d620a49ab24de7feb14d414e28048c576",
+    "7bb66acfbc508182ccd7144717cc98292521ad67d827c5040299996d3dfb829e",
+    "84dccee2dda479a47cef4ff833a24ff74237cf7e3a83102f6e194dd47360c33f",
+    "29c2b7ead68e9ff35d0c295f68d1d9adb3d9753e80bb9437d48dc2fd325e5061",
+    "cbb21304479fe1e28b4d1d077b4147ff229bbfce4f3e1060ef3160bf1d0a4476",
+    "bddc45534598de4a34417040a0846f9f497397ef11e6794da0af0f09b28023ce",
+    "6b321cff6d91efd6898cd9d05db184e4a268549531682dd6ce73c3b34d36b808",
+    "2022ecf399f254b676e37251abdc75a2c07a31129a39432e671f3b83d030e8ec",
+    "8a25ed108dd9bb04aa77aa6fa13463f9344b3b47033c110896c873b3fd845bc4",
+    "2d1695addd57981eff89158585b37751d37770fc49cffe68ce9b28406af411b9",
+    "c90924743f7afc23158948dab48fa0375db1f263e0a07927ca2812860af94f1a",
+    "325a9b4cea6b2c36051418cbb47f27f4d7abd4540d28ad34d33201e564923f87",
+    "704a82858037b38684a9528340c0bf63c056420cbdf3c688fccfde5c5e131f17",
+    "58291062d6098c862505e69c79f09293a1d213a2f3d67e77cf9a941a68c9802e",
+    "e7e9c6fd9f69625d9c3d1036064ca36902688af9d23eb9995174c959f9e52e3a",
+    "718483ddf649f010d69d955a19fa7470b54a1fc681c1957881c8d6a3d182d547",
+    "b4dfabd74128d9cbcf073829de93e082ef15d695c5f77f6619765f0080caec2b",
+    "c9beb3bb36e11876326d52fa3e090207ece40518e41d2bc384c346f65ed5f50a",
+    "77b6620d613e71e68ee1cb74daf6191ecfbffa3feed1578b206f4a68b1467cb7",
+    "4706bf2d4e83f9523140b5d1d24725e2ee8cd2e8165c31972af8b8cb0368197d",
+    "c28a183c4f12be77bc023cd570cc2c14fc87b276ee519022fbede75d2a8fe957"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Pension weighs raising $4B through collateralized fund obligation deal - report",
-      "title_ko": "연금은 담보 기금 의무 거래를 통해 40억 달러를 조달하는 데 무게를 두고 있습니다 - 보고서",
-      "url": "https://seekingalpha.com/news/4676266-pension-weighs-raising-4b-through-collateralized-fund-obligation-deal---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795538488
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Top Strategist Calls Nvidia a House of Cards",
-      "title_ko": "최고의 전략가는 Nvidia를 카드 하우스라고 부릅니다",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-24/top-strategist-calls-nvidia-a-house-of-cards-video",
-      "ts": 1795538546
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Nvidia (NVDA) Surging on Huang’s Reinstatement Brings Back Leveraged ETF Debate",
-      "title_ko": "엔비디아(NVDA) 황의 복직으로 인해 레버리지 ETF 논쟁이 다시 시작됐다",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-24/nvidia-nvda-surging-on-huang-s-reinstatement-brings-back-leveraged-etf-debate",
-      "ts": 1795538644
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "T3 Defense Q3 GAAP EPS of -$30.80 misses by $29.69, revenue of $4.9M misses by $4.85M",
-      "title_ko": "T3 Defense Q3 GAAP EPS -$30.80은 $29.69만큼 손실, 수익 $490만은 $4.85M만큼 손실",
-      "url": "https://seekingalpha.com/news/4676279-t3-defense-q3-gaap-eps-of--3080-misses-by-2969-revenue-of-49m-misses-by-485m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795538708
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "US ATTORNEY GENERAL BLANCHE: NVIDIA IS A GOOD CORPORATE CITIZEN",
-      "title_ko": "BLANCHE 미국 법무장관: NVIDIA는 훌륭한 기업 시민입니다",
-      "url": "https://t.me/marketfeed/1084669",
-      "ts": 1795538711
-    },
     {
       "source": "9to5Mac",
       "title_en": "CarPlay Ultra coming to these cars, according to Apple",
@@ -11504,6 +11469,41 @@
       "title_ko": "자율주행·스마트 항만 지원할 한국형자율주행·스마트 항만 지원할 한국형 위성항법시스템 개발 속도 위성항법시스템 개발 속도",
       "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323691",
       "ts": 1795567115
+    },
+    {
+      "source": "매일경제",
+      "title_en": "어제 14% 뛴 두산, 오늘은 12% 급락…엔비디아 따라 출렁",
+      "title_ko": "어제 14% 뛴 두산, 오늘은 12% 급락…엔비디아 따라 출렁",
+      "url": "https://stock.mk.co.kr/news/view/1205468",
+      "ts": 1795567207
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "\"NCT·라이즈 돌아온다\"...SM엔터 목표주가 올렸다",
+      "title_ko": "\"NCT·라이즈 돌아온다\"...SM엔터 목표주가 올렸다",
+      "url": "https://www.fnnews.com/news/202611250851566271",
+      "ts": 1795567266
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "TRUMP SAYS IRAN WAR EFFORT ‘FUNDED’ THROUGH JANUARY – NYP",
+      "title_ko": "트럼프, 1월까지 이란 전쟁 지원에 '자금 지원'",
+      "url": "https://t.me/marketfeed/1084864",
+      "ts": 1795567269
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "[특징주] 화장품주, 연말 성수기 매출성장 기대감에 강세",
+      "title_ko": "[특징주] 화장품주, 연말 성수기 매출성장 기대감에 강세",
+      "url": "https://www.yna.co.kr/view/AKR20261125048200008",
+      "ts": 1795567334
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "속초 여름철 지역경제 지표 개선…카드 소비·매출지수 상승",
+      "title_ko": "속초 여름철 지역경제 지표 개선…카드 소비·매출지수 상승",
+      "url": "https://www.yna.co.kr/view/AKR20261125046600062",
+      "ts": 1795567338
     }
   ]
 }
