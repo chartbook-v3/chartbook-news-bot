@@ -382,6 +382,34 @@ FEEDS = [
         "type": "gn_rss",
         "url": "https://news.google.com/rss/search?q=site:asia.nikkei.com+when:2h&hl=en-US&gl=US&ceid=US:en",
     },
+    {
+        "name": "NYT",
+        "tier": "TOP",
+        "type": "rss",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+        "max_age": 120,
+    },
+    {
+        "name": "NYT",
+        "tier": "TOP",
+        "type": "rss",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "max_age": 120,
+    },
+    {
+        "name": "NYT",
+        "tier": "TOP",
+        "type": "rss",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml",
+        "max_age": 120,
+    },
+    {
+        "name": "NYT",
+        "tier": "TOP",
+        "type": "rss",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/DealBook.xml",
+        "max_age": 120,
+    },
 
     # 🕵️ 카더라(Chatter / Rumor / Insider Scoop) 전용 검색
     {
