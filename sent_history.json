@@ -1,28 +1,6 @@
 {
-  "updated_at": 1795733171,
+  "updated_at": 1795733348,
   "id_hashes": [
-    "b5ba7f8926e32d9f24c924937b6db3cb8edf5ccd6122e6605cf78cff8b221156",
-    "baa01160ccdb2c22d2131e39c2f877a34b39bb928a74fa23826e119746edba3f",
-    "3dad7294d6fbf786765fa9cd3cbf77f708ce0ccb614c631908758d4b20949357",
-    "1a7c398fcfdfe3deb53a839ec61804f84ae4609108f146cdb1e337026c541716",
-    "8f8659d72a365468a5be71b41b171792be2c5fc7a21e05396c542c164a4e9a31",
-    "dae08dfb065a4535e51ae4ac02bdbf2c773b9d1e2f5c986042d469465e9ccb7e",
-    "5b3a08fb558e5a3d70445a79f56c27106fb408ba7ae31f6cc2678031a3b53788",
-    "c33f73c278ab61ffe13e087c5e744fb252229b1314e06d67ee899c40d358cdbc",
-    "18050b3c0d02c1b892def34404280e36a16462e560615cebc5560a6e2dbda53e",
-    "d935495d846bfd4aee113de3daf1683050c61a87efb17cacd4602fc382445d63",
-    "6212be63d052ca9dea1000fa688286cee386334ba974ab3ab626664929ba41c4",
-    "065d0dc04ab641c1f88b5d16a5af8bf636b220b4fec7b5b68d70a7c007d3ee18",
-    "5ed2557d7dea6867be495a6e03482b50ba92feca25a8baa6bfd4d2c7435f772b",
-    "08629cfd2254f68ff9ce3a12bccb619f339e9667aa786b6daf928b637e63cc67",
-    "3e8c16f8044c3556f078350c63f968a1af6781ae4bb63fc024cf9ded958794e1",
-    "c3c09a97f5b441935211db09056eca40fc0538bf2b05456063b4c443cea6e1ed",
-    "cbff53d8e7728e357834eab04b926dd316c984b2cd70aa1f254f310eb8247a06",
-    "f2fa5f5eb8596638e6e16e20e22438b341943608e5ff2f37356fc987d49131b2",
-    "707d2c64fe831fa4fc2c28592ce34641571d6e0a6f7857fa3d424b1a69e02488",
-    "fd706044837d2963740e3cc1f67bfb8c78e4347dea6c0219cf16d256678ffad2",
-    "5349cd391154e1e83026757a42c4249abb3a6dd822a5bd20d8ef5bd359ffe971",
-    "a6c8019849313426ad258807d27a2f0971350011549691eb8da0d8c3ae6ca7c3",
     "3778394b48420dfde99a158af3623e7ee5f9b4d766ca2fe7c26e87fa990ee3f2",
     "274012515b399295f0ec7c04b0d3a157945ab7ebe44f39cb1bcbd1f33c8bedb2",
     "ca03143f20ef73f741e687e4815d69ccc62720bdc61043b81ddbd6042cbe26b2",
@@ -4000,31 +3978,31 @@
     "6dadb2a3f7bd982ab7c00fa041df9e3faa801abe366a734d9d6a7ee51ae9e8f1",
     "37376dffceeaf53b5ab7bc16218a691ff8af582553df383b24232e9961e955f4",
     "5d2e7062d63bde494818ecbc47b8cd16b0add3bc2d1afb74ee2bb1afdb147068",
-    "b415309ee1ba3d4e443ae02ed1ca5a0867087a60217c78d0a6d478b7a4a49303"
+    "b415309ee1ba3d4e443ae02ed1ca5a0867087a60217c78d0a6d478b7a4a49303",
+    "496388218893cb548cb9df57da2b272704457ca3b2fe8703f7136fb1f46dfa4e",
+    "1ef1926534f135217aef88d1901906e9de53afaaf98aaede0db1b9bf8cfb642f",
+    "d33be322579eecd92fd99b32039100ff5f0dfc271787aaba34a86ed3051bc950",
+    "694516a6ec58cd69037c6d9f4970356c0dac30706ff5b1aae9d68856ba923c42",
+    "29b5a007b761679f688a4fce09ebfc2d0ddc3668415cef21ee51bb29461ec7bd",
+    "72c67c743a1f71c6c9adf5e7c399c719e46afdfb2afd989f58204c69b4bed4fd",
+    "a581109f83ee8c9d938daaf4ea09d100f59c6a71aaa5e1e7027511d9f99c64c7",
+    "3ba22bf9972ba4b8943cfb737eacc6df3d499b9b9d836cdd06c988b0e5a8c16e",
+    "a50e698b2ac676fc741577b2746b301a2c3e47231d903953d862ac2c82f7bfbe",
+    "4d690314988d61699c5b050b6b722c8b5db8b184a5475d92eb8c06ad2288304d",
+    "ea7d1f7fcc246d0610e1187e6c1a58f5399c99bce74aa31c6ee47a385e41246b",
+    "317e03b2f65264dd7bcfb2c59db452389804af63af969b3078fa51c3410736a3",
+    "a522af7cfeb16c9af9240e4e65d6daa01a5bf2d800571963a5f491f2a2206d08",
+    "bbdf254df43176b3f8d20d798e7ede63cc4a7c6baeed323beae474fa30ba717b",
+    "ab50ee9adf0638e29da0ac839034be6ee5d6f41ad1f8a9df11e03710fe19519a",
+    "c6aa68f5559078447781788ef27be6d48153674494b62829cae0454ccad3aad6",
+    "8e5e6ea317e2aefeb3cbe2daae7a7696d7a11d211166462736abfea6ae7ae119",
+    "5411538b5b6a7825f8e2b8bba2ff8ad86dff77733694a738cd2d7de006f0236f",
+    "adddf5dcb56ef094a8fe544a10e006072dc873a6d27525e40c8b57b97a17cfb9",
+    "43c941879a396179776a6c37f68ac4064e5d81c6f0f1e29c094586c6beaae486",
+    "cb7ccdca00a32d42b37c90c91434f4ced9b9afc7e4ba40493da2bdf750cc6a53",
+    "06f3f81db009aa8b49c5566f52a83a978bbf2c05c47e7afa997c9bf923b90dee"
   ],
   "title_hashes": [
-    "be94be79e6fe0d9a15ffc68afc1389de3016bf83fc99470faff2b0d467ade73f",
-    "6f99c32cf9a5ef3106b8a6dfa78ff5c00f7630613fdcc1ec4cceb2e5056767a6",
-    "d1c321978dbb1eef0a02d7c61a1709cff0b8f5155d73bce8f86afe42cc3b98d0",
-    "b829c21c0960bd91e61510e68c4f7478bc217c01c1087c2749947fda62e4e655",
-    "8fafbf2ad418c5803dc2017506a9e39b311360feadb2186de1ea91927083e645",
-    "20bda79810aa4178c23f567063dc53f898879b08eea6ceb7a777816bbf723727",
-    "18a9ae5b6e82795ec286b2e2cba9353f9f83afb31ffd7ff66853ea9df30e0b09",
-    "aad98de3ac4a4f9d833545fcff7bc5595ca750caa79e38335fe99b3a4a683361",
-    "0bdc6bc1559804a1c8b9c01d4319389072215605d6d558d637cc002d01df27e5",
-    "6eb6235f45955c859ddadad4043ebfbe5a45244b3ba7ffe471f5d20a5d652625",
-    "faa2c15f5d17e71e36fb59e9af9656432dce100d094264f9f8a50248d6f42411",
-    "829c1c1057ed8ca807d2aaada4bd0c7180273143344b11e0fb92f16e53c57445",
-    "dde665d29aa64292d38201b7b8ed32252b1a73d55e82383577b816f80dcaeb2d",
-    "8c502b8c09297a7a27a6025928401c61c858aa7455a5c9c995031dbdb495366e",
-    "544255bdef4fcfed913ff547492b85b328a0f5d95eac66b514507f99189592a9",
-    "29c13d93c97cb5d4b3c73540f3a836d698bf4f66b01e2db5a4e212a8560e3090",
-    "ac8285ac55c3d00aea589676e2d1a6070df864c424657849e7f4d52b01bc8e23",
-    "3529914eaf4f36d30c7b21c6c8ad6a6e7156e473aa7f8955846374e20a51cc8a",
-    "759ba776a34496bce3dc1b6e228132f5ad18cf50f39e0077ae400597b5398783",
-    "45660c331689b4906e0ae9ea528b85aa52437c1a002722c7889877eb5734b5fe",
-    "8799d0bee5acd5ec6de2fec598e01c3a83e06e6a26634ad316b6f1a3114c95b2",
-    "217ad87eb5615d0898098f0e135cc988bfddbf7fd7b624529ffdab1229ba80e4",
     "6737636fa9daa80b17936a8756c11c4ac36118825c77d6b6f0d23b887c8ca14e",
     "4cfba325d88424872d6ee605fa080bfb6f7dafa172ef7ca40062c075c1c2014e",
     "c6b36903c5c54af6dba67d1fa383fa7f84a09dd3816e06acc6a964491b84cba8",
@@ -8002,65 +7980,31 @@
     "18ce3c7dcd23e72906ce7b2bd5aeb541dc5ef556c66bbdea5c6ac9510afa2a81",
     "a70f36f2788caa86f25f27cd5593b281496569fca31d1885873fae5b4b094239",
     "593222f2a23165284f344977bdcc45e1e6e9dbcc27706c2946e0e1166bb1e8e7",
-    "21ba9949cfd88203cf6366ea5d3201dc90b8c03e337dce6c5567f485d84372a9"
+    "21ba9949cfd88203cf6366ea5d3201dc90b8c03e337dce6c5567f485d84372a9",
+    "674f414a4352203708d058fb94d159340ad18416c4011d2a9cf8f0df496df450",
+    "69c02cbbbabc1ca1d974a7eec598cd76eff197aade966b2662cf596d97db2c26",
+    "6c35418a2b2599f0dd85b41c3c376e2dc455655bcc471028c8853344d23f083d",
+    "59b4ce8954edb9906e0afc5d4811e52a0ed0bdbe30445da15707bf311b7aa229",
+    "e33e7f0c815be09165286b4465d88ddde97040b4ae355b5e2942f64be5b1267b",
+    "7e77ac81d0a578e129d8b1cf221c0fea2dfd4634abf37a7a62a708cdad5f92a2",
+    "527576164b1216d4995ad1bb8458cf5f4257d360bebaecf8e81f3f05700a2307",
+    "e38341de7c4a5f6a222b148715dd4b0039c11562c6bd8f6a0bd8887874a8f743",
+    "812d266b0daf248883f5fdb410dc4c4ab8797decabd8c2dab572dcfbbb13c172",
+    "b4f050655476d586e3ca3bd863789a9e2895c3b6e4f51616a911a964d4076488",
+    "59ce0ff4b8e3a9efc691bdcdaff24c24171e5901ff674d1e7cc79c6f90c6f82e",
+    "3d269efd056463c1a0a702dddbacb5959961c5df54e4cda6e1ce42474fdeaeb6",
+    "db1eb75f956d5c9050c5682fd6dc71286ddab7ab09b7856d2a5c0d9a57c2f3a9",
+    "f040c397de87401560ba64224f6d1758a512e638c423f2ad2b7a558d57229a03",
+    "8c4658bf0ac6de59d93ea7b27c0cd1719ac64ef7eeb1294bd3ff58c3a4b482f2",
+    "cef07dea3e9ac9fb48f4441271a951d8c5e25abbbccc1b13c8610bf503b33d8b",
+    "63838e95535c23bc544bf31c7ead6dfc0b6c028bb5127f66abe2e67f4866efad",
+    "253c56aff3af90eecb41220bc4ea975308bec9ac076cd921fa30e97a241a56b4",
+    "3bedbd5a4372e67f6893c02e264248577b4e8da082e3962b7eebf2a18d40acd1",
+    "27c16eb6592e4ad3f0320cf7d9fb33d0f05def9880deea3312ef70434778c9c7",
+    "ab796fd07dae1c2f5db39de0860f46245faf7ef2f1208188d39fe4d862b21687",
+    "99706fc5700333f24346ec10a6e72422797a22041e7c0490e516e74158ef5401"
   ],
   "recent_sent_articles": [
-    {
-      "source": "매일경제",
-      "title_en": "6개월후 금리전망 최대 3.75% … 인상속도 놓고 시각차",
-      "title_ko": "6개월후 금리전망 최대 3.75% … 인상속도 놓고 시각차",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DMUl5R3J0dTl0R3ZIYXEyeDRKc3ZVS0hwS2hpZ0tjcVRfVnc5S3lrYnpUQ0R2VXQzS1c5eThRUjZPNEdLUDM0elN0VmhGX2ZkLUE?oc=5",
-      "ts": 1795683070
-    },
-    {
-      "source": "매일경제",
-      "title_en": "신현송 \"내년 4.1% 성장 자신\"… 기준금리 인상 재시동",
-      "title_ko": "신현송 \"내년 4.1% 성장 자신\"… 기준금리 인상 재시동",
-      "url": "https://stock.mk.co.kr/news/view/1206821",
-      "ts": 1795683076
-    },
-    {
-      "source": "매일경제",
-      "title_en": "젠슨 황 복귀, ‘독’이었나…S&P, 엔비디아 신용등급 강등 검토",
-      "title_ko": "젠슨 황 복귀, ‘독’이었나…S&P, 엔비디아 신용등급 강등 검토",
-      "url": "https://www.mk.co.kr/news/world/12219725",
-      "ts": 1795683249
-    },
-    {
-      "source": "Reuters",
-      "title_en": "BOJ's net income shrinks on higher interest payments on reserves",
-      "title_ko": "일본은행(BOJ), 당좌예금 이자 지급 증가에 순이익 감소",
-      "url": "https://www.reuters.com/markets/asia/bojs-net-income-shrinks-interest-payments-excess-reserves-grow-2026-11-26/",
-      "ts": 1795683384
-    },
-    {
-      "source": "Wccftech",
-      "title_en": "ASML CEO Warns Total Chip Export Ban Will Backfire And Push China To Triple Down On Domestic Rivals, “Don’t Completely Frustrate A Country”",
-      "title_ko": "ASML CEO \"대중국 반도체 장비 수출 전면 금지 시 역효과…중국 자국 기업 육성 가속화할 것\"",
-      "url": "https://wccftech.com/asml-ceo-warns-total-chip-export-ban-will-backfire-push-china-domestic-rivals/",
-      "ts": 1795683387
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "[금통위 리뷰] 신영證 \"최종금리 3.5%…선제대응 점검 후 4월 인상\"",
-      "title_ko": "[금통위 리뷰] 신영證 \"최종금리 3.5%…선제대응 점검 후 4월 인상\"",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446839",
-      "ts": 1795683391
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "Tims天好中国即将出售股权？公司：不予回应",
-      "title_ko": "팀스 차이나(Tims China), 지분 매각설 제기…사측 \"확인 불가\"",
-      "url": "https://wallstreetcn.com/livenews/3206275",
-      "ts": 1795683394
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "삼성카드, 배당성향 50%로 높인다… 내년 1분기까지 자사주도 소각",
-      "title_ko": "삼성카드, 배당성향 50%로 높인다… 내년 1분기까지 자사주도 소각",
-      "url": "https://biz.chosun.com/stock/finance/2026/11/26/EONJUOYE4RDVTMVUFQ5E4Z6MVM/",
-      "ts": 1795683417
-    },
     {
       "source": "DongA Science",
       "title_en": "[사이언스게시판] 우주청, 누리호 육상·해상 이송 절차 사전 점검 완료 外",
@@ -11504,6 +11448,62 @@
       "title_ko": "민형배 \"美 통상 압박에 호남 반도체 흔들기 개탄…산업 지켜야 \"",
       "url": "https://www.news1.kr/local/gwangju-jeonnam/6367754",
       "ts": 1795733170
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Hackers target Taiwan's semiconductor supply chain, fishing and food sectors",
+      "title_ko": "해커들은 대만의 반도체 공급망, 낚시, 식품 분야를 표적으로 삼았습니다",
+      "url": "https://www.digitimes.com/news/a20261126PD211/taiwan-automation-cybersecurity-government.html",
+      "ts": 1795733322
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "EU caps hybrid vehicle imports from all countries for up to 200 days from December 1",
+      "title_ko": "EU는 12월 1일부터 최대 200일 동안 모든 국가의 하이브리드 차량 수입을 제한합니다",
+      "url": "https://www.digitimes.com/news/a20261126PD216/eu-vehicle-automakers-european-commission-growth.html",
+      "ts": 1795733325
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "EU hybrid quotas expected to push European automakers closer to Taiwan suppliers",
+      "title_ko": "EU 하이브리드 할당량으로 인해 유럽 자동차 제조업체가 대만 공급업체와 더 가까워질 것으로 예상",
+      "url": "https://www.digitimes.com/news/a20261126PD227/taiwan-electronics-eu-supply-chain-automakers.html",
+      "ts": 1795733328
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Japan backs robot foundation models for manufacturing, construction, logistics",
+      "title_ko": "일본, 제조, 건설, 물류 분야 로봇 기반 모델 지원",
+      "url": "https://www.digitimes.com/news/a20261126PD228/japan-robot-foundation-models-nedo.html",
+      "ts": 1795733332
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Netherlands pushes back on US MATCH Act to protect ASML's China business",
+      "title_ko": "네덜란드, ASML의 중국 사업 보호를 위해 미국 MATCH법 반대",
+      "url": "https://www.digitimes.com/news/a20261126PD231/netherlands-asml-business-dutch-equipment.html",
+      "ts": 1795733336
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Trump calls for 200% semiconductor tariff; Taiwan says cap is 15%",
+      "title_ko": "트럼프, 반도체 관세 200% 요구… 대만은 한도가 15%라고 밝혀",
+      "url": "https://www.digitimes.com/news/a20261126PD234/taiwan-investigation-overcapacity-2026-investment.html",
+      "ts": 1795733338
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "Vietnam's Hai Phong bets on port capacity and rare earth processing",
+      "title_ko": "베트남의 하이퐁(Hai Phong)은 항구 용량과 희토류 처리에 투자하고 있어",
+      "url": "https://www.digitimes.com/news/a20261126VL206/vietnam-rare-earth-shipping-logistics-materials-plant.html?chid=10",
+      "ts": 1795733342
+    },
+    {
+      "source": "DigiTimes",
+      "title_en": "US battery startups find a second wind as Washington weighs funding revival",
+      "title_ko": "미국 배터리 스타트업들은 워싱턴이 자금 조달을 검토하면서 두 번째 바람을 발견",
+      "url": "https://www.digitimes.com/news/a20261126VL215/funding-manufacturing-commercial-production.html",
+      "ts": 1795733347
     }
   ]
 }
