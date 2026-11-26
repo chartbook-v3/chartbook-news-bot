@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795703449,
+  "updated_at": 1795703612,
   "id_hashes": [
-    "38f258803adda8c9cca2915774ecf1f8f47ce68277b2f03713f0f8aa99f8837e",
-    "d67b744bb3c3ab367900db5f025eacb2b1ed35824c73e1965eee4c0ad9a7aeaa",
-    "8cbe3c74a9a145057d5756d2ece145e14eda4936b5f1f74f45484fb5ddc74876",
-    "a7fef353add5485f660408d7f1c2e8a5a02fd980cc266cfcf65030d87a4f7739",
-    "a47388f136f2c58179583ddd5a322fe88b0497880a231aa813921220f685e091",
-    "f19d88006b9ae3a7d4a0f72e9e3dd30a4a5bfab948517caf862f73cc4ed2cd39",
-    "c8f2602316834363285177c5311afd65f6c4df75ebd19a553a710c6b0c6f52d5",
     "2bb7d298b6c4accbdc3be4beac5a5af428677ce3bcdc59167eb516ad8235f9a6",
     "87c80f30b1593bf9d9e7ce0782c8058808adff511f3d2627c12bf53059cedd6e",
     "b5b7f279a1045abde2e36e9bd3f0dd5472abc1f49162f1227b5b16c06a81cf18",
@@ -4000,16 +3993,16 @@
     "c42c2e6b9671c390fbc8ec872c3ad240e188947e199d1a5d3b5f5f6f86cc4115",
     "7e565cb89694a32495dbb1f9cdc9efd0f614ea49bd606e897bb51330b017b46a",
     "759f7232759f5502fb41ca8c22105b850a56c9b7071e450cd84558fef559a593",
-    "d5af353cb8880a3a01ccfcb98cfbf1e281919603bccdd7918319dccb1727d411"
+    "d5af353cb8880a3a01ccfcb98cfbf1e281919603bccdd7918319dccb1727d411",
+    "651a2e5428c41add29cb077f0d1616e8c540bf98addc16880c051bdef85a953d",
+    "f277d23ed6434ec77fd8f4160b8cb9ee535db70a72e48506851ae6699f853da1",
+    "ed104bce7ce3bab064a53953d5a695ccf46b6723e4425dc0f9b1003c21527924",
+    "ce9783567952b19eff4b3ff226ef3b6a05178f1480014c5610df30a41d87d333",
+    "16f4adb43348cde68d4edd681f24c611ee198629f277d07af5f51f4003a74da9",
+    "71687931e084dcb02f3dc327237a667a646f767ae9b21f81e0ffba8fb14187bb",
+    "7d6cffbc5fa2f5c5ea0a69950e55826ae909deb509897faae2fe93cac1e84ba2"
   ],
   "title_hashes": [
-    "c2bfcfb01e2c996c3a176761d14e5211419ad1ad226a16a82d520881b9286e80",
-    "e34a425f86745e3838616eaf1904afbdb1ad6aecadc37ffcbd30819b0ef8ca9f",
-    "b435713b238607c00d36040f1d822e7c3d32c8cea23f0c9c58b53a7b49e86872",
-    "a98c7a6cfc080ac4cdecb32874b0336e69bf7295bc2f8d34245a5eb1a046462e",
-    "45b8bfaaf5a900ca945ef7b3ad29002771f6a745c23bb97e9ee17a7f982b297d",
-    "fe602b9d6d2b41b0047275d75df0bbe82e5ff00bf8659a459e9a1422349b5ed4",
-    "97a06846351666cadad5781ab637fb218cedc1880087f01c2f7c599a6c429464",
     "ae13a331c69070d9e9df6ba1838cd4df752d0e4f73023fc0fd325a339b9698b6",
     "f3be59f0c6a64b499dd873155a07fd1f16d1343158ba440dcafbf60da986b57b",
     "ddba82fbba0fcefe1321f4228c0323ff192420187344fde8277616d48b411045",
@@ -8002,23 +7995,16 @@
     "57fb366c9d3532e7b0c10a882f67581f94bd507e2d2e1005cd35fbf5fdb17bf4",
     "ec9be6d3f5ecdd35e7e07b5ee07a9d4b34186dde4792648a3a0a31e2a3cad473",
     "04cb150ce55a2616fc707ea3a3859c538432869fe695d31e958a7e8a3efe2421",
-    "4298667d20ab9c174f200764bfa4b9b23e7506c520d80013da1df80298496a8f"
+    "4298667d20ab9c174f200764bfa4b9b23e7506c520d80013da1df80298496a8f",
+    "08bc1b43cb7e0ba35daede81452b9fdd17452db40e57e7914700238fda3b39f3",
+    "7036b996dbe647682c10df603b3ab06f44d5e312faf95cc69c015900f1125a46",
+    "4d650ac663b70ff4965e1637b70b990b2936ec4e4c9bb6ffa644ac146a5b0a40",
+    "fdca6b02abab0ef0dda184681888faaef7ecffaa7fd278ac2acbc20907803de2",
+    "273d52d60c2708b69397d2cd2af70f550bd987415a1fa3f6ff50b7b626570dcd",
+    "9333c6a89090ec100de72498c0ec1a6049a906d2651fdbbd5cf02ff5bb9be956",
+    "6c2a48da50f9ecb7a233e193abddf411ca48cefea0f872e45c7f22616d463ade"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "Huang is back in Nvidia, but Washington's chip squeeze on China is only tightening",
-      "title_ko": "황은 엔비디아로 돌아왔지만 중국에 대한 워싱턴의 칩 압박은 더욱 강화될 뿐이다",
-      "url": "https://www.digitimes.com/news/a20261126VL219/nvidia-jensen-huang-chips-data.html",
-      "ts": 1795675694
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "China scales, Japan supplies, Korea builds — three AI playbooks behind a 60%-plus grip on the global PCB market",
-      "title_ko": "중국은 확장하고, 일본은 공급하고, 한국은 건설합니다. 글로벌 PCB 시장을 60% 이상 장악하고 있는 3가지 AI 플레이북",
-      "url": "https://www.digitimes.com/news/a20261125PD229/pcb-investment-demand-high-end-infrastructure.html",
-      "ts": 1795675698
-    },
     {
       "source": "뉴스1",
       "title_en": "삼성전자, 메모리 개발체제 일원화…시스템LSI 전마실도 부활",
@@ -11504,6 +11490,20 @@
       "title_ko": "중국 4대 국유은행, 상장사 대상 자사주 매입·지분 확대 대출 계약 6000억 위안 돌파",
       "url": "https://wallstreetcn.com/livenews/3206503",
       "ts": 1795703448
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Deputy head of Polish central bank says probe of governor could damage economy",
+      "title_ko": "폴란드 중앙은행 부총재 \"총재 조사, 경제에 해칠 수 있다\"",
+      "url": "https://www.reuters.com/business/finance/deputy-head-polish-central-bank-says-probe-governor-could-damage-economy-2026-11-26/",
+      "ts": 1795703608
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "Ukraine downs Russian jet-drone with cheap high-powered laser for the first time — super-fast Shahed knocked out by a 4-kilowatt test system",
+      "title_ko": "우크라이나, 4kW 고출력 레이저로 러시아 샤헤드 드론 첫 격추 성공",
+      "url": "https://www.tomshardware.com/tech-industry/drones/ukraine-downs-russian-jet-drone-with-cheap-high-powered-laser-for-the-first-time-super-fast-shahed-knocked-out-by-a-4-kilowatt-test-system",
+      "ts": 1795703611
     }
   ]
 }
