@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795698291,
+  "updated_at": 1795698450,
   "id_hashes": [
-    "a83470347400cc839576d8771f90da52e97a52748c7b069f72addb82a23e4494",
-    "bd5d7b6640c308cc2387fc0a1dbedf4767eaa3bd3d88f687f510f31276e1c499",
-    "8b9fadf1d8c67f9db650499eff29a8ceef23f9a2e6905a80d6f7d06cf1710476",
-    "aeae9f3bd878fe0d001ac0d3dbfc9aa973aedef905c2ceed925b5afd50243cb1",
-    "5631fbb900c13023be2f1a2ea807b3beccfc43702786527fe8768197f757dbdf",
-    "f6f4e8ddb65fb9c641164c20173a862d6a0f3d56b2ee96dd43087fd643f178f5",
-    "95e1ddf50bd06aa633685653289de253e5fe82e500fe6298397436956196da2b",
-    "ca286345f41acb0a084276124cb8708bc322566ed4bf3554a2686ba538e4ec45",
-    "2b87f870cf7ba0b927ac45f4d2f9367e6f56e109d3a2c0c2c3d39b8256d9bab7",
-    "d96d51e9c15a4cb36e879e6c98ed31eed8e1dccd296211949d379620ad443e87",
-    "d5ca3a24f6d0fe0510612ccb15c11b494337487a20a44bc64cf5d40f738ea16d",
-    "37a9c54af157b449cf2502b2e3419358fdd99a2d453309e9d072c8a592a88f9a",
-    "de1c941787e2ccfc5db03ecc45df6a7bd6bc66998b827333d67f6eb1049ef563",
-    "2cdeba552fa20108c9223f24d7f33cd0ed38fbde2f018a1d31014ac8abfc3ddd",
     "c7a49ee18145aed84788bc630d49dc5557395cbd9b581452f7a31da0e3934ebd",
     "63c67b250fec8a2843c63b815b59443a5cac0b984f40224d70041cdd71f23206",
     "6ab69dfb799a20088fa3c63b0271ca11d0a90a90fb5424791e87157a85b33d06",
@@ -4000,20 +3986,23 @@
     "b9fe31812a2711259b8105a3a4281f769e4d6276dd547743171642b8596cfccc",
     "5e375687299d968bbc2f6e80aac647350ddc2e6b9d3fd3bfe2128034cdfb58f6",
     "f26eb0826d09cb36adc41dcd91ad52deba36fff8c9394aee135286cdb658638c",
-    "7d252da6967100236c07330bee283cfbc1350ba021f0e60d53169224a0f617c1"
+    "7d252da6967100236c07330bee283cfbc1350ba021f0e60d53169224a0f617c1",
+    "bf2cc8e27befe2a58054a801d57aafeddd272e24f49ad5ee99f100bdd89098c3",
+    "4bfdd7875800d8f092ecc30504456f199b9efef2240d48709cf07007fb34154c",
+    "7649ae91d76f60479d7c184d072d48c3bc7d53bc813a7f72b30d868b80f3f650",
+    "a6f5c21417449c927640524b63a3437130ab6422941a7cd83020caa277b52b25",
+    "e0d9358dd2b96c4417bbe570ec2969bee6d42528f4205cc3f4a1a1d1365c6661",
+    "66df574ae4b120c38f3aab8cb2e963b5552f8cc5853c505f4b4a7fe6826bc3d4",
+    "6c609d2d1c2f3604496b939fb68c8d1643a1fc95994bfcb8dc09dd026a09a334",
+    "0d09ba4ad3f92815f5d7528784fc5619e1bb787530d2c004ce97a1d9f039b566",
+    "0ae746270f571a1e2c2e80fca20a7d4ae2871e128619900dadc631599679c796",
+    "6844dd198d543e5bc6251d5f4b1ab17137dbd81eabb9f658557db620e9a0d524",
+    "d440f4613d236295bb43dc1f08e6df3eaae0ca55adb5ce1acc7866d3da5728a8",
+    "ffa70d099d85bc1881b5e80af42a210636764c7acc01d3f5b3ea1b35ba3b3f53",
+    "8362155f3baedc6b9a69186dc2569128b80a9403b9e1be18bbbe806ad7944f6b",
+    "b43514df64a7693b4196c6ea06dfc63ed85c6163a00ffa0fc3ad7b26373eda9c"
   ],
   "title_hashes": [
-    "dd78218cf29472dd73a20e5b57e48976813ee41068cb971899cffcb6a62ff503",
-    "890d814f90d9c3776f61e325cc7fffce8b721387cacbec4db440b7724eb3a0d3",
-    "010da443c7aa63c06bf4b5dfc1f07483351f0a6380d2ca80d5fa28d4ee949f3c",
-    "c5284d7d46f0af0d51e5807bc15282910981ad6d42a946792dc5627370613f8b",
-    "095dea538dd935c70289a4ea1bedd5f8b5107313ebd94c93944685f877881c02",
-    "72f26e41c9591cb8e8cb7feebeab72e0257dd9bbbfec309c57827315c4d9b77f",
-    "f0f0efba1ea37611d02860c72b2d6a92341be7b1b0042d78976bf5a937aeb494",
-    "a44fb7fe4256e564d4516741f15b246952c8d0702f080c1ba39bfcb8bdaacc60",
-    "ea761e5e1a502447ebc11f05ca7cb9a7f9c3cd922642a36ee4385e732a2b7e36",
-    "61d4169d0d10199d7bfdd65c4d975f182588e66ecba309fb30fffd4ac5185f89",
-    "f02b9d47fdf36d944c0fd602d0466ea4486dc3955c736b00da3ef5c1834f78d5",
     "ecd0e279bc5fbd3a960a42d4df988524d92495d7d71e2b77a37135046603c698",
     "9c85776b49ffa3b161a7a3811f470c392b7e921dfbd8f9588945864487ae7e4f",
     "740d8fc598b6522023d24d2c3d969127833d50bb9b15775e9281200abf0e50e6",
@@ -8002,37 +7991,20 @@
     "13a950e227dee891730ed0eb9921453d62f8c6a5543b30bec1620ef0ac0be492",
     "9e0f05df364baf70d43f10d696433e1cf7c8aa43c256bf35dbffb2b9e8c02a1e",
     "6dc69d5f55eba1e8a95bd38976c89548ee60fe324331ba2cb4a28cfa4e1e3acd",
-    "328ea105a62341d85c32b21fd9b7db2de233e8466443b38187e351e47a415059"
+    "328ea105a62341d85c32b21fd9b7db2de233e8466443b38187e351e47a415059",
+    "d334c788a9bb317d45d40528da2ef4675408e6f538c0c33977fac5a3c27b17d8",
+    "182729be425624086ab640fd981285011a82f81b17703b4e24599dfc78334712",
+    "7ba0f87354669c248406c621617ecb09d9c39e7abb2bb1316456ed54518a6bca",
+    "3a02dc07651cb5e9826e327f4e1a6e5db63b1fb45e9f72bc37a5f1602a4c3a47",
+    "a561090f57e64b01df0ce4848cfd5bd032f9755e866dbc81f2f0889ac8b45640",
+    "57c8a8f09955cdb6f03f73e603ab9817a8a1c71d5f0bc863273eeaec26684444",
+    "236a2651a36289465bb5918687dfc7fc8d3e66b57d035e656af8ff9f314f7ff2",
+    "205430bdc2d51f4f306374396a45cdd1d2043e8e9dacdb089c4b461d75459509",
+    "f7184091dd4204df3b906637669cb98c8cee0c16e0fe81b028abcff7451a9ecc",
+    "24e79113350db2a0dd7a63576b1dc73d0435a5b33060f9c2e643add8ce2da50f",
+    "9dff7e0b454c58296a7860b6244f778ab5431d36019f59893ff35e0d8c273ee5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "한국경제",
-      "title_en": "예상 웃돈 실적에도 15% 급락…뉴타닉스, CEO 교체 '부담'",
-      "title_ko": "예상 웃돈 실적에도 15% 급락…뉴타닉스, CEO 교체 '부담'",
-      "url": "https://www.hankyung.com/article/202611262297i",
-      "ts": 1795673053
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Nvidia's Aa1 rating, stable outlook unchanged after Huang's return: Moody's",
-      "title_ko": "엔비디아의 Aa1 등급, 황 복귀 후에도 안정적인 전망: 무디스",
-      "url": "https://seekingalpha.com/news/4676735-nvidias-aa1-rating-stable-outlook-unchanged-after-huangs-return-moodys?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795673055
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Financial Supervision Authority Sets Pillar 2 Capital Requirements and Guidance for Bigbank AS",
-      "title_ko": "금융감독원, Bigbank AS에 대한 Pillar 2 자본 요건 및 지침 설정",
-      "url": "https://www.streetinsider.com/Globe+Newswire/Financial+Supervision+Authority+Sets+Pillar+2+Capital+Requirements+and+Guidance+for+Bigbank+AS/27404214.html",
-      "ts": 1795673058
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Third quarter 2026 update: Strong order intake and resilient backlog underpin FY2026 guidance",
-      "title_ko": "2026년 3분기 업데이트: 강력한 주문 접수 및 탄력적인 잔고가 FY2026 지침을 뒷받침합니다",
-      "url": "https://www.streetinsider.com/Globe+Newswire/Third+quarter+2026+update%3A+Strong+order+intake+and+resilient+backlog+underpin+FY2026+guidance/27404215.html",
-      "ts": 1795673081
-    },
     {
       "source": "MarketFeed",
       "title_en": "SOUTH KOREAN MINISTER NOMINEE URGES UNIFIED GOVERNMENT APPROACH TO LEE’S NORTH KOREA POLICY",
@@ -11504,6 +11476,34 @@
       "title_ko": "퓨처메인, 나스닥 상장 추진…수십 년 산업 노하우로 AI 시대 공략",
       "url": "https://www.streetinsider.com/PRNewswire/FutureMain+Sets+Its+Sights+on+Nasdaq%2C+Bringing+Decades+of+Industrial+Expertise+Into+the+AI+Era/27404605.html",
       "ts": 1795698290
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "TSMC's A14 1.4nm-class node is ready for chip design — Boost Cells promise 14% performance uplift or 23% power cut over N2P",
+      "title_ko": "TSMC, 1.4nm급 A14 공정 설계 준비 완료…N2P 대비 성능 14% 향상·전력 소모 23% 절감",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmcs-a14-1-4nm-class-node-is-ready-for-chip-design-boost-cells-promise-14-percent-performance-uplift-or-23-percent-power-cut-over-n2p",
+      "ts": 1795698316
+    },
+    {
+      "source": "MLQ.ai",
+      "title_en": "Crypto market maker Auros is winding down operations, sources say",
+      "title_ko": "가상자산 마켓메이커 오로스(Auros), 사업 정리 및 운영 중단 착수",
+      "url": "https://mlq.ai/news/crypto-market-maker-auros-is-winding-down-operations-sources-say/",
+      "ts": 1795698319
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BRENT, WTI FUTURES RISE OVER 1.5%",
+      "title_ko": "브렌트, WTI 선물 1.5% 이상 상승",
+      "url": "https://t.me/marketfeed/1085913",
+      "ts": 1795698382
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Five takeaways from Trump's new tariffs",
+      "title_ko": "트럼프의 새로운 관세로 인한 5가지 시사점",
+      "url": "https://www.streetinsider.com/Reuters/Five+takeaways+from+Trumps+new+tariffs/27404614.html",
+      "ts": 1795698449
     }
   ]
 }
