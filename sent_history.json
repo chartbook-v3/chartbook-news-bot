@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795717283,
+  "updated_at": 1795717436,
   "id_hashes": [
-    "6475fc0e82c763344dad96e576f44aa91e70b45a0bd3ece3a6d2de1fc96757a6",
-    "b7096a3a740cf1172da23037d30bfd711b89a399997242857ee0fda8903b4ef8",
-    "2cd828bcf96af2e0f5a674f39b1668b5311ccaa8473af05255115e76d427814e",
-    "d0d620c14e6ca67f34ce9412d2115839ad6411357aeae2f0686e658827e7d0c9",
-    "e3b618735a772f78c8181ba11f9265324bc5c3484933f44b2e8413d1f85cf2a6",
     "b572210c0fc4be1dc2149b70acd07f8ce6853d0851b4838f0be66e9930c71660",
     "544a6b39b3d6d9aac04d4cef1df547020bfabfae23c5513e9cc69abf14bdc18f",
     "a59142371b27937fb1d59a02e154b5b8534710ca702c92404335bdc1c3924896",
@@ -4000,14 +3995,14 @@
     "71e4875cdbfca75d2b8ead01f6961ab7c95c1ea83e46e0f66e8937360c43217d",
     "156e7ca7672f84695413e61bfe1171727a78dbae19688f6d0d447ea22c16c4cc",
     "e78b901626190add3cf46de248cc6ce6f2575531a3b78cda5b376036365387b3",
-    "560a395e52ddb18b933f056eb2daeab021ea45b3ad6fe3ab8aceb6afa307b286"
+    "560a395e52ddb18b933f056eb2daeab021ea45b3ad6fe3ab8aceb6afa307b286",
+    "70a69753a3b9cff484eb7ebe59c065826e69c22f9c7c9b41f9b29afb2bd7c8b6",
+    "e8b0223444143fdc44787111b073d15d30d3d489196ecd6b1f6f8303113e650d",
+    "cd4366c5f8144f8712a89dfb7e3c8068c8305cd1d0c1ffe36ca551ea7be1b0e0",
+    "c3e533206798f3f2aa23c6bd3c6e27a716cc4cd6231c16dc5ec3dfe9dafcd2f7",
+    "e2b319c8a26668ab54a539d57658035d4927b6282c1d7af1cfead2b60e796976"
   ],
   "title_hashes": [
-    "e5435ab2f9f5eba26999ab7a9f147f81ee587b95dd99ff99d9570a634c1a81f8",
-    "dad0820d2083baacae7cc38865015b3dcba8df23a7859cfd8fda5bff068d7b09",
-    "1c6e029c996233bd21ab82b7fb9cc73ee66c98170390f9c4ee5dd41c87b2c9cc",
-    "f091e7d201306302ed114b479d3fb68e97b0363d4ae230e7708899e85cbeb4e0",
-    "fcf55017be84b9888fc9bdb21e23f280ae4d839efbf269418ac6ecb8f106ddaf",
     "543bce5ad0d8853c7877e636a5c938a4813a91ee058529a937838120c9595ac2",
     "7b8e96f69eb14b9703563393723c4a08644276ef34e2164f1903e9deb9f6d8ee",
     "638f37486389f0b778090a401bc04a26631e6f65e9b57513e14d9e553556bd7e",
@@ -8002,16 +7997,14 @@
     "4b3aea3c0874e93892b50c04258f81678303638978a97b67f199654039630724",
     "fe361494dac4388f95a8646c5f8048b965c744af8ec20c65f003f3fa676c3e50",
     "6d3a87d62e3105c0ef22327a8679f0d0a09e10a53a1767530edc34878a5188d1",
-    "16129753545e3c2f8ea30c0bb30d0e2d49bf0acb8c5fec49243ec1732c44aa90"
+    "16129753545e3c2f8ea30c0bb30d0e2d49bf0acb8c5fec49243ec1732c44aa90",
+    "3a8d32dc143a858434e65270de5476edc7ce1a3eca5a3835160a855f87804e1c",
+    "e427fd47ab57dd470509a322c65d6332bb23b11807deb957386dff7bdaf88177",
+    "a8e6df888f8215a7affbfe474379644397480b2939328160aa138ec3f4361156",
+    "b39cbb432f7a3255ea838c2165159c6e9828c0a38d0a9b9495e898e736f6854f",
+    "38c69112dbb502e4c398564e8f9345234f23ecaf5c5010e9c5eea407ea20f7c8"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "'국고채 입찰' 금융사 담합 사건, 중수청 반독점수사국 배당",
-      "title_ko": "'국고채 입찰' 금융사 담합 사건, 중수청 반독점수사국 배당",
-      "url": "https://www.news1.kr/society/court-prosecution/6367497",
-      "ts": 1795679996
-    },
     {
       "source": "뉴스1",
       "title_en": "中, 美 '과잉생산 관세안' 반발…\"WTO 규정 위반·일방주의\"",
@@ -11504,6 +11497,13 @@
       "title_ko": "이란, 이탈리아 외무장관들, 통화 중 쿠웨이트 공격 논의",
       "url": "https://t.me/marketfeed/1085978",
       "ts": 1795717282
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Inflation May Have Peaked: Economists Split on Fed Hikes - iShares 20+ Year Treasury Bond ETF (NASDAQ:TLT",
+      "title_ko": "인플레이션 정점 통과 가능성 제기…연준 금리 인상 향방 두고 전문가 의견 엇갈려 (TLT)",
+      "url": "https://www.benzinga.com/markets/economic-data/26/11/63662948/inflation-may-have-peaked-economists-split-fed-hikes",
+      "ts": 1795717435
     }
   ]
 }
