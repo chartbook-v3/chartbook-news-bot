@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795732869,
+  "updated_at": 1795733020,
   "id_hashes": [
-    "ce8d89b71b5f7097b6b94a67d8811face313179abc130a2b16ed664883c0360b",
-    "a9dbd7588277ffd13841a9fe51b5f609bed31875cc9674fb45e91e5bae318451",
-    "d60372d12f6aa234de065ff97d3f53ec4d43bccaaa9428ce073d28f3c6f5e7ea",
-    "74907e02dec3abca7029d315eb886f7a5aa0cc51b0b65d8daa516d108cf15931",
-    "7b375de094945619d239f6b57548edcf032d80719db3c341ee8d5eb4b1cc53d7",
     "83d24cf09fb32c8ed54535e8f402f537a55ba64d2cd64abbf5f9cabafc409f5a",
     "b29d44c426ab9b249b5627d5861550464cc94d0dcee515330d37c1dbd727e14a",
     "810828f690ed10871f51fe49a8e5ae979dde0649673efceca75180df6c7bc506",
@@ -4000,14 +3995,14 @@
     "f53a10bb91b3a5b15171ae9b9ec4c2764c769c939cbeb938d92b7301d2a799f5",
     "070a156b54233e96172e00aabd064350f5ff749fc66dac6188ce89f2c226e3d6",
     "af16e456729d164e7b676df9686bd4302166b8f39a9cb668dbc47be1248b34fe",
-    "d5a5f7df88598e01cb21858e2feda3588cf87ae4b0d1c23c1fd92fed80375aa9"
+    "d5a5f7df88598e01cb21858e2feda3588cf87ae4b0d1c23c1fd92fed80375aa9",
+    "05179c25e5dd22478df52ee8b636caab8e7716f2e6ba017f4e1ff0dc9c9722aa",
+    "c0af167bd95aa8efc054e5d8f117699b20c3133bf73778c5c84f6be3fed4f07a",
+    "fb69a2d46e219c68196dd5bac18913638d795738b5a97da0e23b6614fb83313e",
+    "a58b5cc4d9a339634641858ff6fe3ab5b5fc2edefe377f27437a07f59495342f",
+    "e2526398a9a117f803cc212b424f5eec9ca197fda5b3c3c0cd694971be5341be"
   ],
   "title_hashes": [
-    "f4ec8bbef240abe7b4df795fbba6dfe15302e57e540b960fcfe11aec286145b7",
-    "f1e2f64f5c43e20f6ef80ee8e466243f13fcf565ec6c4adbb67723b7f977d483",
-    "d2008c4482809ec490e57e1896541b4bcca627d94de384151ccb7f80b4405cd9",
-    "23e19f03e16ef4b72f56dd3c3d41c7f7a0ed5c48e76c39d6141de6e834c173e4",
-    "37438ad8277fdacd3ea5b3959b64cf96189b572816955cfb38fb85643b15d6d0",
     "ae0603d9ba5e04b7b35411ca7c10c123f65780e8d202030ec440a7ca1ce17cc8",
     "64365416c74e23b4c3d38119df5d7127be861d6748d9079686683f0a8223d888",
     "879e44474208664c19f43e49bf75932f1bacf93aa8f2cc4a520e26b9721718f4",
@@ -8002,23 +7997,14 @@
     "359181e189813c78677f560b524a5b6d7c9128399f39f637b53147da26ec93e9",
     "2c1373e704dc81bc2f4b77b307a6abddd7b3274c257822fa87a1b4f72af06713",
     "2717c300df555532e8720a82cda9eaaf01f9c142187e45f8e83757bfb6fd82b2",
-    "ec25c8ea1106bf66c26b1b6393542a7e80f86d0bdb3891e1205b28460359d66f"
+    "ec25c8ea1106bf66c26b1b6393542a7e80f86d0bdb3891e1205b28460359d66f",
+    "03d2b8446d131917e8a3fbbde8ccbcc7c39218056c9bbaddbfe50857e8dd73e4",
+    "ecd2713e83ed70809a56d99c5b15c9aa630c6b5fe13c810574340bd111a4d4d1",
+    "6fe1058c54f93fddbde8e8d21e2ad6e575c351608f4bf17cab6a2d28d2adf0a3",
+    "30b55c5425f7ff5fc405c2e182e380430394f9c57fb3ca35da3b348a1621901b",
+    "030750c5a9e8036e3d9a5588113da789e5d4c803bab06845bd0a283d4c23320b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Microsoft Launches ‘Code Red’ After 24-Hour Outage, Wants Critical Fixes Deployed Worldwide in Just 1 Hou",
-      "title_ko": "마이크로소프트, 24시간 장애 후 '코드 레드' 발령…전 세계 1시간 내 긴급 패치 배포 지시",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63620510/microsoft-launches-code-red-after-24-hour-outage-wants-critical-fixes-deployed-worldwide-in-just-1-hour-report",
-      "ts": 1795682909
-    },
-    {
-      "source": "매일경제",
-      "title_en": "TSMC, 텍사스에 신규 공장 추진…삼성전자도 증설 계획",
-      "title_ko": "TSMC, 텍사스에 신규 공장 추진…삼성전자도 증설 계획",
-      "url": "https://www.mk.co.kr/news/world/12219632",
-      "ts": 1795683063
-    },
     {
       "source": "연합뉴스",
       "title_en": "강릉 AI 데이터센터 검증 나선 국힘 도의원들…단독 특위 가동",
@@ -11504,6 +11490,20 @@
       "title_ko": "파워 배터리 지형 재편, 2차 진영 차별화 뚜렷해",
       "url": "https://wallstreetcn.com/livenews/3206639",
       "ts": 1795732868
+    },
+    {
+      "source": "와우테일",
+      "title_en": "마이크로LED 광통신 아비세나, 1억 달러 시리즈C…인터베스트 주도에 SK하이닉스·삼성 참여",
+      "title_ko": "마이크로LED 광통신 아비세나, 1억 달러 시리즈C…인터베스트 주도에 SK하이닉스·삼성 참여",
+      "url": "https://wowtale.net/2026/11/27/268733/",
+      "ts": 1795733017
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "'중복상장 해소'로 에코플랜트 품는 SK, 반도체 호황에 지주사 가치 부각",
+      "title_ko": "'중복상장 해소'로 에코플랜트 품는 SK, 반도체 호황에 지주사 가치 부각",
+      "url": "https://www.fnnews.com/news/202611270733148451",
+      "ts": 1795733019
     }
   ]
 }
