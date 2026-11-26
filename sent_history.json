@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795697810,
+  "updated_at": 1795697957,
   "id_hashes": [
-    "09fcaf1cc752357520b88ba111b059ac08ea92d2a0c36f8323aeb7ac56e9b5db",
-    "6f1226b6508595275027261e3d428e1d55000822bbcd96cdefd6427bc08d6499",
-    "d54b8533fcdcdd77c909810977005578d8c33392f5dd5631b1af840803e21f29",
-    "8c047695b6b979269b6c72c7c8955be6c5bc02e34db76610f8a81f894d1138a5",
-    "97ffe0f676a114a8b8042fb5af52677673cd084b093480dcaad2f9d80e12abd6",
     "5c15164d91628405ff509212ac89367ad76c10ec7602c6ac92061a15e30226f1",
     "0dfe51491870484a4567088fdf451db9bf77a45a822aaff3f9ce3b05b6bfa497",
     "af68b5e1fe3f5c9258f381dd22263c7153f9d273520fea5f179a5771d50e26b5",
@@ -4000,14 +3995,14 @@
     "cc3c735ceb88f522fbb83940f2e29fd4343768af39719c979be6d205f99545b8",
     "9b8e18bb0923c6a51d3c9cecb5d5641bcb776239e37aedffde11f3236d42fdb2",
     "e8522ec63dd106c0c7ccbb9ce0bf1a7aa902c94be5eb643165e6d02104fef179",
-    "0ec1b80228af91a758c2803964c00122390884d0024b90c9c35c9819864ba9bf"
+    "0ec1b80228af91a758c2803964c00122390884d0024b90c9c35c9819864ba9bf",
+    "f5c80a21a24c149d1e6fa0884ccddd5a05369e0fff9a6a71312639f1433a2440",
+    "b74b60d5783c0951864a527358820acdbd295e104234a2ede6e7ea21edaacc92",
+    "974bf194575d9b9ecce0d862b64e23235e701ff347693fcda1f6ede6ea9c5f22",
+    "2c32cd29f6aac53b6a7c140c6969bf239ab048692c7a02edc42a01f6d176dde8",
+    "fe0fb1605ec9a8a54ed7706d859ff09c51539dfab86a52bfe640c46798b825a0"
   ],
   "title_hashes": [
-    "d84f0f91bd57d0a3e46595f6720f8eafd86dacf2391340eabfce53cc8ca1014a",
-    "f21579ac737ce7d5c9804f2a42aa15d62e0e2f9fc8c886fbfd988d843490bcf9",
-    "5d27b3c14d0321c841f02ea4ece8e3c2601ecda2e7971a78ce559b28b7e8d89b",
-    "3707e98f88abeeb0987d08c0d31c45f4c9f3ca3d62a6e1932de07ea26197b708",
-    "8b84653ba07536119697449cfd62b3a2c0ef555e027e2349eba8dcbcc31ef7e4",
     "fd61855b2600bd840a9117948eb3d0d6dc0e057683034ea9713279b42b57ecfb",
     "6f9889eb25cc5420b28c061604b41b0b931058bf8f40b60f0f69a42a49da8f70",
     "3c718443ed92a7bf1770b3e3f207aaa3f81b091e9b935927fc9282fc8deec275",
@@ -8002,16 +7997,14 @@
     "d0f5a92a1d9fdb8cf71d056dfe4473ce7a07542b5aaefa14452c4aceea27e1a1",
     "519513809711ecd07b9c9d101758037ad5fd87b973935ebf340329ed535df875",
     "5cd29922779449681c3b828acc9c42c6e3e359f34f8aefc3038af799e31c06e1",
-    "33aa333d07719b4d0dde59369ab48c9d5a5bdc290a26af2cb593e333fab67dab"
+    "33aa333d07719b4d0dde59369ab48c9d5a5bdc290a26af2cb593e333fab67dab",
+    "9bb40ce9fb254f0d1e2e4ca0ff05bec5c2035064df8a22b3297aa200aacfb7a4",
+    "a6c06519f4559f66f609099abdfc12ca40b42333c98ddf74c51eec66fce25c6d",
+    "f374cbe066efc83a6ec401c70a68ad32735a14254f23f6ed95be67a68977a787",
+    "ad7086f2004cfd5475ffc68d71b551e86c2dbc46a01cb7ddc88dcef89c679205",
+    "088982832ac5bd4f0e7e44c602a58ed4b2f28d22c8b7d7ce88fd6dc4c7af2b5d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합뉴스",
-      "title_en": "정부, 탄소중립 기술혁신 종합로드맵 마련…원자력은 빠져",
-      "title_ko": "정부, 탄소중립 기술혁신 종합로드맵 마련…원자력은 빠져",
-      "url": "https://www.yna.co.kr/view/AKR20261126077900017",
-      "ts": 1795672442
-    },
     {
       "source": "잡포스트",
       "title_en": "한국항공우주 10만원 웃돌아…3분기 매출 1조원 돌파",
@@ -11504,6 +11497,13 @@
       "title_ko": "항공업계, 이란 전쟁발 유가 급등에 수익성 악화 우려",
       "url": "https://www.streetinsider.com/Reuters/Factbox-Airlines+strained+by+Iran-war+fuel+price+shock/27404587.html",
       "ts": 1795697660
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "DUTCH WILL SUPPORT EU CONSENSUS FOR ECB BOARD JOBS",
+      "title_ko": "네덜란드, ECB 이사회 인선 관련 EU 합의 지지 방침",
+      "url": "https://t.me/marketfeed/1085905",
+      "ts": 1795697831
     }
   ]
 }
