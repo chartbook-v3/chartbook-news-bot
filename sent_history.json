@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795666942,
+  "updated_at": 1795667102,
   "id_hashes": [
-    "b66dee86a2a941a3de9876790d1008903fe042c0d1c7f8f624b960957bab1643",
-    "417529d99686f0678d06d98df230b67d7cdd539d8e8b74ab92f1d282ebedc283",
-    "5fe07c40206ca8f59be06c843cf2f1a7f9681e84f3212ea10c3f98308218659e",
-    "e0c286ca8e21d736c781b479fa0283a2f8b31789ff7a9b793391eb6f2b630b5d",
-    "22624d1081d04c6e5d8d0680a750d2c810d4204664e4f1447a3c7f71f10ad676",
     "a05848d4fc355922651b16d45e31fee597a92b7bad1eb2a45c42ecb0b2f0eecd",
     "216702a5c4bd8da040413d3eb77eedf68d6901e7d9fce3b804bed080c50a3321",
     "1f09bbb5136950f683ee48a445b97ba648c63249bae7b96bb7f7e07f30f752a1",
@@ -4000,14 +3995,14 @@
     "cafeb9efb4a8608a35562e248f6ec4220e2be2d2a81b7aee978ca52a845edbe5",
     "7dd581b5976a065d7b9643efb896be1112a6c5c891940eb26328620c5f93f35f",
     "00ae465c7bd1a259efca56507687ed95ebc9353ff337bd6a56696f4aec66a43d",
-    "c64585a6ac075cee16450bbfbca26660f6e654821653a4203b35559e93719c21"
+    "c64585a6ac075cee16450bbfbca26660f6e654821653a4203b35559e93719c21",
+    "5b38031941ec4d154fdf4903d81d843d22fbbe7a888db40b6a54dec57463382c",
+    "380bf2e129708c42c40251c054aa75dde1cf76494a0b3b01a168fe6ca4592cc6",
+    "782ea4a72fe20a4c2a7b66504c2b59cc91b0beff661eb24c78b9270ccecb1fad",
+    "6ea3785d8a2dfb7a542dc875911e6d1cc7d2f54cd4814a06ba547a20e7513903",
+    "b0a367eac2e904e8d1207291f8701859507e6f8723c114ba247cf8da1b1bef1e"
   ],
   "title_hashes": [
-    "7813be4772dd24b54910013609a4423b9b7c46b437935944a6a20fc5ef7cf6b5",
-    "fcebf46f488fb676bd106f6c67cd378f28ea9c4e5108c1fb0a466b2681d7e79f",
-    "99edb63a58f1489cd7834445132daa73e718332c3fe1a1fcb0a6361a77a66666",
-    "3ea9cd29744b1648b8c422b4f05661bb64815c21a260fa674cf4e24eb1f8e21e",
-    "5ff3f9048f9d046bd4c4871c6ff4007f7cfe2ae0a2d06cba81f295186b578898",
     "57604fcf56061e28280ca26ef4436a2e4e8648c78dceb758d81218a9f64793a2",
     "aef70cad499004f63a27194bb740bcf82354159c8c0bc7312c99d9819711e10f",
     "0c19bbf8c23c82257b6f2fc1a41544a078cc31097a5d78e11c9c7126ef8afd74",
@@ -8002,16 +7997,14 @@
     "77935d233d67fbb5bdb1c38afa0d9a6c02d35ce527e5975ab1514660a420385f",
     "818d21607f9fd40ba488acf2f639b801cf4d2ebf738cc0948a30069abd119652",
     "8e3982332ae5aacd12680e61da8afacd487e538fa2cee487f87a3ccf3b0c0ee3",
-    "95436522d3768aeb6ca569ded73b74d74fda5006ce9f286228f2b10deb1b2b6e"
+    "95436522d3768aeb6ca569ded73b74d74fda5006ce9f286228f2b10deb1b2b6e",
+    "02441c479ca147fa0d09b214b98d279553145ee5acf31dbc5391d2a54b1f694c",
+    "4e28a7f2f2b94c94c917ff96f928fdaf8455a6220c16995f6846a3630c1bb966",
+    "829bcc59dee354b63f5bc43dd62f70a82cf9fcbb6803736e23765d689497e825",
+    "2d556c5f788fe287df0eccd26e735bd2b5ce58b9f0bf0e658c47303880faef78",
+    "acca540c8bb442f0ee6030ef193e5e8587161067583e81e92b9e1d83cba3b64f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "9to5Mac",
-      "title_en": "Major developers, legal experts, and 32 states back Epic in Apple’s SCOTUS appeal",
-      "title_ko": "주요 개발사·법률 전문가 및 32개 주, 애플의 연방대법원 상고심서 에픽게임즈 지지",
-      "url": "https://9to5mac.com/2026/11/25/major-developers-legal-experts-and-32-states-back-epic-in-apples-scotus-appeal/",
-      "ts": 1795645175
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "上市公司回购增持升温，银行加快投放专项贷款",
@@ -11504,6 +11497,13 @@
       "title_ko": "유통·부동산 컨소시엄, 홈플러스 핵심점포 인수의향서 제출",
       "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446744",
       "ts": 1795666814
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war",
+      "title_ko": "트럼프와 나토 사무총장, 러시아에 우크라이나 전쟁 확대하는 행동 자제 촉구",
+      "url": "https://www.streetinsider.com/Reuters/Trump+and+NATO+chief+urge+Russia+to+avoid+actions+that+widen+Ukraine+war/27404147.html",
+      "ts": 1795666975
     }
   ]
 }
