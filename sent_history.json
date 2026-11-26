@@ -1,34 +1,6 @@
 {
-  "updated_at": 1795654253,
+  "updated_at": 1795654413,
   "id_hashes": [
-    "20327b984531b2702998bd0d0ce7c127e9675671b7d197235dd7a8254143ec61",
-    "6431d8657a9990eb8a420907ada59dc823aeeb0012670f68da852df63e2baddc",
-    "c3e2fb20445763269eee0b2fb9ff252b4e123a9d92ae55d14c799234e3bc921d",
-    "9d6a8e8674c3236b04d3180bd35e5a9819620aba20bea691b28b9e186928d661",
-    "2d040af178e954f48a1d6a245539460536556ccafc5a8ece02b26470e2b02b63",
-    "7149a23e306a2d01ba113f3f8b55e9d53c0d3542bd8f6fad95d7a47d71b39a14",
-    "6f54bf78983bc5eaf7bf14ba99d83fa85a2b3848a544b241162d3a68192ac7e4",
-    "d2b47d5acb41de501eb0aeaa7b4805b8e3f43523fa481f8b791a3fbb2c72863e",
-    "405b330cba0b9ac2493be22126b20f21bc0514063b090e41c81cc2726b3647fe",
-    "cee5bab96bfc9459e3e10ebe2495c01fb993ff3c7a3d5dd85273d993b5cf9824",
-    "3de6a34528338ca44914e61808faa7d1fa9ee81bb0036a79f29384242cb4f295",
-    "f6b6367309bd0abbb256b2af80050e8edc4f89bc1538e70cda750ef89c23bd66",
-    "1f60189c6f1334d754d2aeabc94df7dea6e8977d4f502923d8882a2dbb8817f5",
-    "adb7a6e7c623d082c34bc94c94c4b9c49f7fe3561a946a072adb137e87a73d70",
-    "478ccd619147b38da17b46fb1aadcf0aaba2e1773359b0677eb6ad5e251c57ca",
-    "80a263d1966c07cdc09af21a9a076c81b81e2950250da4310247694baa719bcb",
-    "aa45a0896b7664a2423fbb6207bcf6beec6424962e9f10255eadb5052d14d8e0",
-    "a7c15e9927b6687016669c6e8363db5da8511bae434c37b3d1772cd00cfa08c3",
-    "f7f7c1d6287238046b0bc24c82796ed758ed3b05d12f55f90f1413d4de364c10",
-    "16c7eea5cb6c57c7bd7716629a465a262562b8197d000b74f3fe6c450a49d979",
-    "0198a986d8d4941e0314eedfc027296fe2db0a56ef2747e85de8826e79bb71f4",
-    "fb2a37febc0d4cc3105278619588a43830cb89300cb962fd731d536001544b27",
-    "f1bc432d43a62ed8a302dfccfba2219a3979e15342f1b2af546988f2dafda94f",
-    "8634b0f56774481143d835f807d6b5e783a267a608ddc2443dafd460ed07f322",
-    "bef26d693a9b617c21135197f13577d61e829279e9e73e03c54ccf1b49ca66db",
-    "4f833dfbcb29383bab6f49c79374923bedae5b2367feb920a0ad1d04e7207327",
-    "e5e83a2016cd1ed9360814c9a153de38f6ff51e8284e2b57ce75efa90a3ef64d",
-    "a1e22683892fb2030a9a28022f0fdcc965e4a3e2cdce959eb614e3fb993afca5",
     "b049a84f558f260140f182bd35be764e2352f7f3bba417276f149f385bdff81c",
     "966c2801b180b39842a2bdba2ed87b7d1f0a58bf2483b30ffe4ec1219ba4fa73",
     "e0490ecd701791979fff4b9428dd02a11d254d454627085c48e0ee53090cc432",
@@ -4000,35 +3972,37 @@
     "ad53f2600aea128c1bf12edce10859498bf0c2438a50330272d5303f4c053895",
     "69b34521980b385d600368e75969fa0439d2fec507155400bca7db97d93174bf",
     "b255c27fc8f826e9cbadacda21a7957e0a7863f7e659dc2a65a6ce9f85c7a29e",
-    "35b5f5db724e5938adf148aa007d5f05a7b91302137e68cbc4f455cac7b09406"
+    "35b5f5db724e5938adf148aa007d5f05a7b91302137e68cbc4f455cac7b09406",
+    "56f7282a8fdbda612106decde29a36bfe2d1d64a0edb3b46c83191a09b680ec7",
+    "49ec0f2f04ae292397deff347c685dfc3ce165dacb3645b43dc7cc16e5901690",
+    "ae264bb183b6881d534608fa9c7f807d212cf1f899a0f6679152c82ad2a88a8b",
+    "793ac1e39d654a47dde8064fd93f9e950549de9782cb1b010a746fc23c4fe814",
+    "37cc33dc3a8246f316c87e3160121fce4b2f65bcd766361fc67f1543c195d4c6",
+    "6e51f2e163786c2df410136de3ea7d7fa0d8a55d4d671d2018020d66a3f8eb9c",
+    "37f7c4a53129cb1d597d3403d2e26e175d3d3a11cf5ca943924f201fc2ef33d9",
+    "0c6070dca79346d05a0ef52d41911404ebd586379eb13399b5a5c2439fa6270f",
+    "afe7989449600656d6e24b7d72200a62d3f71933aa15759501520e1262022dc1",
+    "96662b36a427f31a6b97e0012abaf2245445958d999dd57207bb1e4738014645",
+    "b024b63c8ddf75ebb7ed095c0de786c34d748376e03cc778acde776060d7dcfd",
+    "7c4a70e94e102f79f2145f2b6f873151797e8d99babc6860d4c89447ef6b9fce",
+    "65185c66ca175f7166abf81ee86046c943ed4330674ea22c2acd482e4d3e12b0",
+    "307d8e2273b9402be4a1fb450790906d1a1701cf59f364d4ca7045b8bddb06c9",
+    "1a72d1f97a8e36ca1dd14b1608711013185b7d659a22122e056f1064bf011928",
+    "c4dbc0e87fe59501d78ebf6b8a1c3810d455656034965f6993a8216c59501d02",
+    "b9ded200d90eeb50ae7b9a3348e618a8065fed12d6ea5cf056368a557e8d622c",
+    "1c8e1d8a889ac2593ae1a5378d76ae20516b59c882f36b9acfe6fadb6e72ee39",
+    "24ff9d25baf3aacadc01b7b1be13a4d8143b13384eb8ebb06a751cd567957973",
+    "45bea0a2515d3771ac6abd5430e3b75bd507e8ddd1e095930d679af18d1e0fc7",
+    "2cc6a7ad851a0f05fb36f50a91202f85fffd6e9bbc0223d9fc127a5fbc43405e",
+    "e9ae812d12bfdbb72df35cbce91e4b4b598e335c6a6ad5402fde29ec304d38f0",
+    "6503499dc145d5c52063595a654d5e59400c3d279e2affac31156b90e93045ba",
+    "3abffec72d2e8ebe917d32e0952b535a5d6592cab03302846982f9971e0ee5f1",
+    "3fde1f28b4cef67caf90c4c4f8b47f4ea02854a2a0f12309d8d3d1f53575c387",
+    "471c707308181a41a6a739750841ff10dca5d478ffdb56423c366d804a04b180",
+    "85e6ebb6c8f71884318810735a1578493250a53c0a6b97d21be1f1b5d6a060af",
+    "51dd45b901efd0d0c985eb1f884696c335db3607c2c75f7a694498a13731e842"
   ],
   "title_hashes": [
-    "7f9239c4a09fcc14520fdf6ec09f46a63258e367fc3f4b47c1b22958796e41f1",
-    "0f4b1c4bab86e32e104af695ab757ef85e3a15381b10dab9c8da372158e89846",
-    "49e0f0d54b2de15cdb7744cf56678d8073cace06f5717bd9f3aae6be703e0178",
-    "fcf11053861717b3121f969f3416de55959251c8a2f827adf329a5654b627ae9",
-    "2a832ddaedf031f28db5df3f962a833e8f5450059ae6012ce50111e973f2274b",
-    "a30708fefa73a7178a17eeee1a7e97f26ef814e9d7e09abd53b1183b316ba310",
-    "16de4f71be6cdb2a953fdff7dc599044458f1d2e20a12c3b3ebafc07622b4611",
-    "851aa27afcb508d669a2968a82ca35cd29dcc9ef571535caf982fe51e3823980",
-    "bc82f8a10bfe8f38e67784083e65769ccc7826a6d835c980b34556a1062767c0",
-    "df681de2ad3aceb596d22f47efd70cdd9c07e86b6988ae722018704a6e5b215c",
-    "707e124aed56ade8eac9c74eeaebe99e69a9f53bcf2dce901b7820a869a68795",
-    "2162c6e0db5d97187b34d8419352240873b83c82864b42a3690325bd60f190cc",
-    "565003900e1c0675ea32d46475eb813d922aaf8db2763d4ba50e444a6c4f1c58",
-    "eb2a158aa255f82b8d837fa983236f947150605f91852b1c4d5cc55b45839e73",
-    "fd952f46490817720bb8365ba16d585e6772c89361f510ebdfa27598b78d6694",
-    "1daa623bb4ee7cceb87333511ea6cfaeab916bcb8e577e9761eebd363791834d",
-    "9f8fdb9e1251bee4bc0752d82298089f90ab518bfd6792ac83d1f5cdedef7e9e",
-    "671fd9d859c93840b9a7b5d84bc93dafe3d1472af0bdd757aeb0940ce4e63e05",
-    "be215aee6e501d46bd6c9beb48d1291ebd42c7c947398e05b358a85df8e0970e",
-    "4dae34d512bd25d08225e0edb73fbf1b25e453edc2186b430c9e5b3cb737eebf",
-    "98740a98d639b1a06f26280449521ecd5d98a75fd5518d754fb030f1b09b0586",
-    "748286c66e47fef689a001339b92c90813fe5a2c9cb9ef9b9be19871a9e41ddb",
-    "9cf0a60efe308123beaff50a24f3a14f7c054811284dc731bad1e3200cd35517",
-    "d651a5885f3d75b26e523357a9a83a78bc8c2a6b6750fde8f35da5e692be3fec",
-    "4d5e89fdbe4dd768c067e199a01a6f4910bdbda7b5361270a9bdebd5e23c1383",
-    "5a8e8acb8c8fda67199e88ade5bc74b639975264ea7a374c3d9b8370b6d6b5e2",
     "2577ed5d828dd56f5df4d49c1f5080d5220e371c8f8809181b415f7334e52267",
     "6e022941bed06eb172c1442455939de249205ecd95fb904ff34902a08613da03",
     "703a11b91c13b8593e1ed92c024a28d9f763e4ff4051fb2c18ea24f35f4e4411",
@@ -8002,79 +7976,35 @@
     "8cfe5298509dc6726106a6e26c9297fce23c1c33e64a81227ef766a05353e9cb",
     "155caa63df878c1fcdaba8b31880aef6c1d7c9de0147b3455d854226d3d270cf",
     "da7053b1d44253122d54e6a386116b1a509e97ba8270bc722e1be69aac07055d",
-    "7049d631c7bff478e7a960c17e21791e4d0aa0c54926df5fe0d5df14b1676d08"
+    "7049d631c7bff478e7a960c17e21791e4d0aa0c54926df5fe0d5df14b1676d08",
+    "2d7b71aad11f89f02ef96d3abc87827a2e310f8093916fdf79b7a08e25437fe3",
+    "e224238245d89df7aaab22ecd3396d600b7442ad3589b5f564e93bae880de29c",
+    "e0e8a50e4df5a803a2739d3f9175e60baf1746881a06c326be1b99c7d48cc63b",
+    "fda35dea55327c95435bcedcfbf131c671926b38a9a344293e11e7290582c289",
+    "4565288adfef1a51aff056b394c2edd36444e9cb7c0375bdcde9db3120dd8585",
+    "f16534df9098ca478aac95e4477e958c3693f76568c4ae8a3c06fd7c1d1943f4",
+    "dfa07e8060cca74187ce6959d38ddb8092f3cc811f7db80995b67f6b3c7c70c0",
+    "c5b8e774b3e69f02bd498d59cb431017da90f6518eb8618971a629fc7e893d14",
+    "8751a606c34e5d7bb04d55b06abab09bd796d4418209584364c49ee90869c626",
+    "6c6497eedcdfb98d31e5c180f5bc7e55a5c67387d42cd424c4e36771d25c1916",
+    "d5b56170aa63200f5c9a34ad9792bd47e3ba62f4459c7bb68118f02b12cbe9e8",
+    "468fd640889db62fcf141bec423b653f0ebe64979cb640993e58088296008aa8",
+    "ebb5901b000b14ae9845ad688d0245cc83c6d50eb06908f7e0d157fdc2907570",
+    "d09056191d79babd5a26174e51a4b8930ca59fb4af1df12feed4720d7d6c655d",
+    "b97f288e760a292d860ed0ca9575021debb379569bf237e3a4952d709e1be0b7",
+    "6209dba123b5b17fa4d2ef91ed38e35b3f1cbd4684cece4a5dd6813e50dcf101",
+    "5e54a9ceb06177844bd2cac3510e7bbb3e946bff42d99405f8a548d967b622a7",
+    "9be99aef6024b243166f8822fc685d5a98dbc3ded0bb21113a76b974154058ab",
+    "5e58c5e7d80f17d13a8d94ca9b3dba2a35ed08ebde06835c36c7297eff22172b",
+    "dbb22d77e237cde1359a87755128fb81a0f03efb1d0bcfe41dc50333fefa5747",
+    "e312481064f76694939f42b14f4546e340bfb1d138a04d9981474ce8983ce536",
+    "6f88b37b076a954178cc99694c64fa6df47e0ca19554184a99037ac342974f89",
+    "3ede6d9b273b66f826173ccfb9accd995ea722a47b9ccb3f24e0a07e9dfa93d4",
+    "550603f3361f485d037e2cb9dcf55eddea4f914c0ca0a21f39ef1feb66e18040",
+    "e254275cbf1c0968941f776bbe07c2b3c30a72df976ac626525f761e55844659",
+    "0bb21b14a9d6f6a4579ea5a433d8d0109c09b9a0a02edd3c86e462409ecebc9a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Barron's",
-      "title_en": "SpaceX Stock Has an Anthropic Problem",
-      "title_ko": "SpaceX 주식에는 인류 문제가 있어",
-      "url": "https://www.barrons.com/articles/spacex-stock-price-anthropic-ipo-ai-a63c92d3",
-      "ts": 1795603281
-    },
-    {
-      "source": "Tom's Hardware",
-      "title_en": "Jensen Huang denies special government treatment at first Nvidia all-hands since return — \"there are rumors on the internet that apparently I’m a tech bro, and therefore I’m back\"",
-      "title_ko": "젠슨 황 엔비디아 CEO, 정부 특혜 의혹 부인…\"인터넷상 '테크 브로' 복귀설은 사실무근\"",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-denies-special-government-treatment-at-first-nvidia-all-hands-since-return-there-are-rumors-on-the-internet-that-apparently-im-a-tech-bro-and-therefore-im-back",
-      "ts": 1795603434
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "福龙马：拟以集中竞价交易方式回购股份，回购金额不低于5000万元且不超过1亿元，价格上限18元/股，用于股权激励或员工持股计划，预计回购277.78万股至555.56万股，占总股本0.67%~1.34%，期限为董事会审议...",
-      "title_ko": "복룡마, 5000만-1억 위안 규모 자사주 매입 결정…주당 최대 18위안",
-      "url": "https://wallstreetcn.com/livenews/3205653",
-      "ts": 1795603437
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "[그래픽] 코스피 코스닥 추이",
-      "title_ko": "[그래픽] 코스피 코스닥 추이",
-      "url": "https://www.news1.kr/photos/8232511",
-      "ts": 1795603460
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Elon Musk Wants Neuralink to Tackle Neck and Back Pain: 'One Day'",
-      "title_ko": "일론 머스크 \"뉴럴링크, 향후 목·허리 통증 치료 목표\"",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63615887/elon-musk-wants-neuralink-to-tackle-neck-and-back-pain-one-day",
-      "ts": 1795603463
-    },
-    {
-      "source": "Reuters",
-      "title_en": "TSX futures fall as softer commodity prices, rate hike bets weigh",
-      "title_ko": "캐나다 TSX 선물, 원자재 가격 약세 및 금리 인상 베팅에 하락",
-      "url": "https://www.reuters.com/markets/europe/tsx-futures-fall-softer-commodity-prices-rate-hike-bets-weigh-2026-11-25/",
-      "ts": 1795603590
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Tesla’s FSD Version 15 Is an Improvement. How That Helps the Stock.",
-      "title_ko": "테슬라 FSD v15 성능 개선, 주가 상승 동력 될까",
-      "url": "https://www.barrons.com/articles/teslas-stock-fsd-uber-83ca4922",
-      "ts": 1795603593
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "MORGAN STANLEY CUTS ANALOG DEVICES INC TARGET PRICE TO $403.00 FROM $458.00",
-      "title_ko": "MORGAN STANLEY, ANALOG DEVICES INC 목표 가격을 $458.00에서 $403.00로 인하",
-      "url": "https://t.me/marketfeed/1085053",
-      "ts": 1795603603
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "李대통령, 대림골목시장 '깜짝 방문' 민생물가 점검…시민들 \"파이팅\"",
-      "title_ko": "李대통령, 대림골목시장 '깜짝 방문' 민생물가 점검…시민들 \"파이팅\"",
-      "url": "https://www.news1.kr/politics/president/6366214",
-      "ts": 1795603625
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Nvidia Scandal Reveals Cracks In US Corporate Governance",
-      "title_ko": "엔비디아 스캔들, 미국 기업 지배구조 취약성 드러내",
-      "url": "https://www.barrons.com/news/nvidia-scandal-reveals-cracks-in-us-corporate-governance-27ec82c5",
-      "ts": 1795603628
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Nvidia slides again in premarket, extending losses after record surge",
@@ -11504,6 +11434,76 @@
       "title_ko": "15% 관세 상한 지켰지만…美, 한국에 25% 인상 가능성 열어",
       "url": "https://www.electimes.com/news/articleView.html?idxno=375308",
       "ts": 1795654252
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Vietnam says it is working with US to complete trade deal as soon as possible",
+      "title_ko": "베트남은 가능한 한 빨리 무역 협상을 완료하기 위해 미국과 협력하고 있다고 밝혀",
+      "url": "https://www.reuters.com/markets/emerging/vietnam-says-it-is-working-with-us-complete-trade-deal-soon-possible-2026-11-26/",
+      "ts": 1795654277
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "TRUMP IS PURSUING A PEACE-THROUGH-STRENGTH APPROACH TO THE UKRAINE WAR, ROTTE SAYS",
+      "title_ko": "로테 \"트럼프, 우크라이나 전쟁에 '강력을 통한 평화' 접근법 추구\"",
+      "url": "https://t.me/marketfeed/1085572",
+      "ts": 1795654279
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "NATO SECRETARY GENERAL VOWS ONGOING SUPPORT FOR UKRAINE TO INCREASE PRESSURE ON MOSCOW",
+      "title_ko": "나토 사무총장, 우크라이나가 모스크바에 대한 압력을 증가시킬 수 있도록 지속적으로 지원하겠다고 약속",
+      "url": "https://t.me/marketfeed/1085573",
+      "ts": 1795654281
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "韩国央行将基准利率从 3.00%上调至3.25%，预估为3.25%。",
+      "title_ko": "한국은행은 기준금리를 3.00%에서 3.25%로 인상해 3.25%로 추정했다",
+      "url": "https://wallstreetcn.com/livenews/3206003",
+      "ts": 1795654283
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "[특징주] 美, 한국 관세 15% 유지 전망에…이차전지주 동반 강세",
+      "title_ko": "[특징주] 美, 한국 관세 15% 유지 전망에…이차전지주 동반 강세",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/11/26/IC5DVVTVNZGPZOKZ5CMYNY55AI/",
+      "ts": 1795654336
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BANK OF KOREA RAISES POLICY RATE BY 25BPS TO 3.25%, AS EXPECTED",
+      "title_ko": "한국은행, 예상대로 금리 25bps 인상해 3.25%로",
+      "url": "https://t.me/marketfeed/1085575",
+      "ts": 1795654339
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "[오늘의 그래픽] 美가 지목한 韓 '과잉생산' 관행 6가지…'관세 25%' 으름장",
+      "title_ko": "[오늘의 그래픽] 美가 지목한 韓 '과잉생산' 관행 6가지…'관세 25%' 으름장",
+      "url": "https://www.news1.kr/photos/8233696",
+      "ts": 1795654404
+    },
+    {
+      "source": "머니투데이",
+      "title_en": "[속보] 한국은행, 기준금리 연 3.25%…25bp 인상",
+      "title_ko": "[속보] 한국은행, 기준금리 연 3.25%…25bp 인상",
+      "url": "https://www.mt.co.kr/economy/2026/11/26/2026112609292815141",
+      "ts": 1795654407
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "SOUTH KOREA'S CENTRAL BANK EXPECTS GDP GROWTH OF 3.9% IN 2026",
+      "title_ko": "한국 중앙은행, 2026년 GDP 성장률 3.9% 예상",
+      "url": "https://t.me/marketfeed/1085576",
+      "ts": 1795654409
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "韩国央行：预计2026年GDP增速为3.9%，预计2027年GDP增速为4.1%，预计2028年GDP增速为3.0%。\n\n预计2026年通胀率为2.7%，预计2027年通胀率为2.4%，预计2028年通胀率为2.1%。",
+      "title_ko": "한국은행: 2026년 GDP 성장률은 3.9%, 2027년 4.1%, 2028년 3.0%로 예상된다. 물가상승률은 2026년 2.7%, 2027년 2.4%, 2028년 2.1%로 예상된다",
+      "url": "https://wallstreetcn.com/livenews/3206005",
+      "ts": 1795654412
     }
   ]
 }
