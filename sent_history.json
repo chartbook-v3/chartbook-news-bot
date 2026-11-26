@@ -1,29 +1,6 @@
 {
-  "updated_at": 1795737166,
+  "updated_at": 1795737335,
   "id_hashes": [
-    "9f61970b6f4ee995f077a573345b7b85cbf7de643e11d1109d58e70f3c0a6bb1",
-    "90815a54d72c08cbc1320c357308da71d60235840a3f3bb04fafcc9da3c47940",
-    "fa7b08a7d130ed89655353b7d87f054edd810dcc7db70f9ce9d617b4af7cc812",
-    "4f85b8f4ba9b92c4a34dfe3a84e1dba251b5fc9d36682bf371322ccd5b7ada3a",
-    "ca8da3b337ce7ff940526d2a685c7a870cb1c3588720e6494c3a3d9d71a262b6",
-    "83bd431f4b593b381c7050f0a89e337c55ec3eeed3d1eb520d549de50e85727a",
-    "0a9538b664db9d2617d2e85e961ee54372f7ad01e4b7a130e74c56f887367a71",
-    "35814f0da41549f4d10e35e87d9eecc4bc7aab340eedfeb904312e7f9399c0fe",
-    "9e9dc6579f6cb463a7af8f23ec955618162a0c485f268413935dde7d789064d2",
-    "a4c57d3a3cb081fb775e3ca094964395619f248e34ce5dc162b6777ac8f27a79",
-    "c2efc18211babf1086a8f8676cea38549db8f0ab69a284302fc8f4683a553e11",
-    "5d31b6811a871c7e6c2f2b3857012228e37884ffce7e0af7c665458daca6e4f0",
-    "b89814447e911f338e086c031ae59eb3d28e9965a29be15e01669fe506106ba8",
-    "6915e024a514c76b5ca558d1da3c5ccf21fe4303274dd5c8314c918acffcff61",
-    "f08898f7acd2cbb951b6987da0a37e0d6d1cace7e542d4914bc7c06e48635c71",
-    "dd316c4e42af8d59a8e565a1e8ba3dc1053f2449ab1b89562d129f33503d2c4e",
-    "346b56fc2fc9a8a61db6055e353329d81628bd2e1ddb474b923e207b9240b0d3",
-    "ade01da82ccab2bf0a7c430d6475ce74c43ca69740d8a4e659b9a9944e1d88ad",
-    "bf789f36bb6c572874d13edb87edcf17f187a628e8092723e922d421f329f663",
-    "0646c5e72db7e35494eaae63d7203e85cb641fcb8e7c9f9e54ec1b1505a4eaaa",
-    "77ea2e556f8d3584b455c8bfc70cb20b1d180b0b8f4dbdd1ed44dd2ad9bea15c",
-    "fc293a8c059f33545e2c3ea479e6fba155cc2e59d44acfd7cd51c0b5ae8ca639",
-    "525575071e3889c960225f87f9805731576bb2e19343c6c9521ed69df91c5783",
     "47a975647f806f09f72ac6af8a505ab02afd9476276adeffbd299ec2273196e1",
     "f087a3d711f4311e7b97b52aa2e3654c4e893da6c411434bf5791130a91816b6",
     "d62de4500b64c2aede9f1dd7f2cc50d2361526160af7ec5bf94ca4d75a4c1472",
@@ -4000,26 +3977,32 @@
     "29222340ded6cebc2f42da8f827d61255b546a1e4335806eb8b51631620711f1",
     "ede2ab531c3932c3a7480c4cc523fbb2aef4f01531902a86c358e25d756a3874",
     "a3cec2f09f624fdcc47ba1fb50265787233ea4a7d52ad2180822e8b5e1e9937c",
-    "652a0b6b65b66a75104fb941da925154b00f521ca1564988b0a621b04df33a24"
+    "652a0b6b65b66a75104fb941da925154b00f521ca1564988b0a621b04df33a24",
+    "f4ae5ee1922cddfb36c7088bf853625a9ddc99dcef6d545ac6dad7cfbc70d915",
+    "33bf3b36ceeaccf06ee0917a5ef9037a1e8b4bddb272d59ed6818646ae3a77f8",
+    "e9266cb82bbd0574d69ef76ea124914764f2f16a279311859d845f1e2e15162b",
+    "0890cb73913778b1c90490f73f231639617c3ec414a8d49477e8ed919d5dfdd6",
+    "892b86ab0d07897d1c186efda1ff5e5cd44e311e0228a9eb3755df70657c96e2",
+    "740503e3104aff9c2c215fcb90d2311a78f739eee74beb6880c6e04383dbeaf0",
+    "fb9ab35e8430bb8983d266759ea9f9c48f5faa0a0857f58e95c2ba9bc4df5b9a",
+    "2ce8058dc44bbc7265eb213229bdd94354de8349f1e84696a07470bd3813792d",
+    "269b91792329dc33fb27f9a1f64d39716887c9aff02822d9a6a8cca3c28b662e",
+    "d0173b73319ef84c9981b5d82f9199e3a9343fd1bb67ca051c8e983a44b79263",
+    "17278f5425dffcfba57e65e811d28f78a3705533f03e053875d6d01fdece4cee",
+    "2c478b01ba0abe7315019882a5828f55549f57f4292bf8f049f65132190c23ef",
+    "10829499438c9e50515ed455e8cc917ccf7e8a8d8a53c2fe2df88abfc8574860",
+    "401eaeca8dcc3fccfbaaaa73d6a5d6bc6da5a2784fbf280df522dd0ab44b6dec",
+    "2ea9165e434fb40ec83a7961bbf524b569ea6bf50bc86bd6457f743c8a1ad4e9",
+    "fcd91f483b87157c80abd19cff2b965c22af929606a0b795ce82710fca057641",
+    "e7389f5b12a4c27f8576581e90fdd3c68129252d29502858f7d456c1b6caab50",
+    "af21abd5ab23da198fa9c073221c33308f6e937936ac7723ccddf258c967b1f3",
+    "035e2d16c62e56b7fce12014e531cb1f3ca99495a298c443c9a36c92804002b4",
+    "85761e6e0d78543080e5c34d446844d4384928c36e9a869514026c994cb05af6",
+    "09fad68720f5d7dd9810ea65e5ab6ee93ce4da19f371a26b373fc23005ca6477",
+    "c27edd35131a31851eb7ede598fcc6f3034e264571cc644ae1f91e44137c25f6",
+    "5940e4ae366f3925ecbb80a0999f09fc88b31bc54ae697cdf2097e42815cb34d"
   ],
   "title_hashes": [
-    "8ae830f2811b3c2883257ac0c08b576a51423fd1067a17bd97bbc592fd92c907",
-    "301386d2eeea19385aeb2bc5fc4448ebfab7fb21ffba7f8a3d45830380a6db89",
-    "e69d3bf49fba9804ddaa3035bd5c11ba82ac70524501b534347e130cd550c5a0",
-    "3ffcf5bcfbaf45203c286f6a9a91150b71c962cc26004228d2c16f75a102e3a5",
-    "0df8b66a814551d74d230be980847914cfa94f65cdae43ae4135dd42d086c39b",
-    "70f03e10e4af0e217d86c465d009ebfc8e818fb7446c15d1ae8f04c70abc5a04",
-    "68a67da44eb524c8453a64e445a1f65dcf0c537dba5bcb39bece982c4b93f2cf",
-    "4752bfa47a3561aeb64490ad0511c7700b91e71d22c94816b82c38ce1839e7c9",
-    "d4ee82da3ecb019ecc8ce558ca9070ec645ccb9ebb2e9930171786f3accacfae",
-    "b89de64437fecd862166fffe49451ec84e18af7d34e89a3d40773f77e944619b",
-    "1f0ed2758151efaa4aa1cd968aa47872fe79801d0a54cb280cef869be20a74c6",
-    "9208aaba58802a036e3f3a427fb3a677136043e61cb8974814bec2b8cc185c5a",
-    "c79fc934546474d4b3858d14bfba9f82828c9c81b6f50205a97da89fd162ab85",
-    "2ad55402877fee7669804ffdac4760c265bab096356610a421ebe686f02679dd",
-    "8991e0bd452340e5697e461b21ba913c45136a2478b5e8b036b96272363f1275",
-    "e467f550aee0349d981f61787bdf1d4a8848aeb91693ac4324e320dac50f8f74",
-    "4a63a49012b354156cf73fd48f5cae65e8f50e139bf9575737955a048b581874",
     "0fdec5caea362df42ded4c5de895ee05ddf12bee5b5a934a87623bf51e877179",
     "997b4a8f55bd07716b6437b9621a3e2f61fd33cb44625b7b95829ab0c263956b",
     "e69c279614aeeb2b5c122c8997f613f8883e6e913ee7cbd93c84d2514cdfb91d",
@@ -8002,58 +7985,26 @@
     "5e9cf2aff29dfaf02bf540a720d01f0e6964362ce0dfe451c72f4f7d763a23f1",
     "9a0a6f067e05487741dcaca103e97658f24939925191e81e9e7b51f28c480842",
     "8d5bc50b6e2205c676a1fd092173e38090c3c50ada4a4f9612378f89e1cc521a",
-    "6240b2042393fd9af6a416bfabfeb2e502eeb085d8cd0bcbee5ff89da1f7b5dd"
+    "6240b2042393fd9af6a416bfabfeb2e502eeb085d8cd0bcbee5ff89da1f7b5dd",
+    "1f804de1d1bcb919287ef51c7ceb220dfe6a000447c7650240c5cb2aed28ef05",
+    "a346f23fdbf190c9f8e95e2239a0963a5bc75b3e72026ab3cb6ae06a1c6484b7",
+    "bc7c5a016412abf983fbbdb4fecd127815ccede7d6fdbae140c831f0b35662b4",
+    "381b64b249f031172704bce45786fd5357d9885aaa9bc50a45ee513139acc151",
+    "d947c7a588815b8722091596777dfa869e362384e5f450bcf8870275fe462e68",
+    "e667fcd3edd97680dfe588fc4982736b5b2310b1d67fac8b417ca890ed825121",
+    "ef0a444114ca8fbeb8918dd70e76d3005dd47e343771c363fe39a6f675eb7f51",
+    "8c5e5ac0dd937921fe51a64a649323f4868f2a175a1faff94be239902c0a99c6",
+    "1c656a94d353c043a523d118c23fe0cf55b933d080196889a0af5b0cdecc5685",
+    "e5860ee992f2de49458ec46b35fd3c0a5d52635d680921179164d9861ebacf22",
+    "82419d55c1182567dba909fb3ebd7a48130ed19879715f94ab7604fc16ca2682",
+    "cb9b4c6b42d0ab80710f3969d0ad3b00f98d25376268a8d3529319b33ed63ab7",
+    "ad742ea6bab413bc8667f77cc6ef4ab83275efc271ae5d0a5cc5146353b69e79",
+    "297eefe7415e34ece59effeec0ef0476010e0bbc06fc36306a390e0c5f2a9999",
+    "22f4b4d34adaec95297eed0c5be3e1e034c6bf85b596c8f0523dd2f4aa537bad",
+    "cac9224290485ca30adac4c5b2ec0d6003850cbe4226c525dab28ec85b763a70",
+    "a183023f815f0b7c0f642b1ad35eb2a4879062d00a43be351459a229aa6fb636"
   ],
   "recent_sent_articles": [
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "증안펀드 기대하는 코스닥… ‘빚투’ 줄어 매물 부담 낮아져",
-      "title_ko": "증안펀드 기대하는 코스닥… ‘빚투’ 줄어 매물 부담 낮아져",
-      "url": "https://www.fnnews.com/news/202611261831153073",
-      "ts": 1795685740
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "SK Hynix Shares Gain 2.48% After Hours - SK hynix (NASDAQ:SKHY)",
-      "title_ko": "SK 하이닉스 주가는 시간외 2.48% 상승 - SK 하이닉스 (NASDAQ:SKHY)",
-      "url": "https://www.benzinga.com/markets/equities/26/11/63660881/sk-hynix-shares-after-hours-2026-shareholder-return-plan",
-      "ts": 1795685807
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "뛰는 성장, 들썩이는 물가… 美, 내달 이어 내년 금리 올릴까",
-      "title_ko": "뛰는 성장, 들썩이는 물가… 美, 내달 이어 내년 금리 올릴까",
-      "url": "https://www.fnnews.com/news/202611261828165811",
-      "ts": 1795685962
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "IRS 금리 전반적 상승…단기물 위주 금리 오름세",
-      "title_ko": "IRS 금리 전반적 상승…단기물 위주 금리 오름세",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446845",
-      "ts": 1795685966
-    },
-    {
-      "source": "전자신문",
-      "title_en": "삼성전자 사옥(사진=연합뉴스)",
-      "title_ko": "삼성전자 사옥(사진=연합뉴스)",
-      "url": "https://www.etnews.com/tools/image_popup.html?v=bjQ5VkNYY2dLZTZMZFBUbmNzandvWmpGcjBTK1pHYm1CUVRXR0pTMldlYVZkdE5JeGJVUFVVNURJN04rbmhKTUlYY3kyY2QwN1dpOFB1WC9ybnlTbUhhemErK0VwMmpoTGR1bjQraXozRU9wOVI3WGlEOGdqalFLNE5Edm8rMlZIczYvSW4vaVF5UWdCWndxU3pHcTV6L3BtTGd2ZmUyUUd4U1VpRE9iRzJRVjl6VlgxWWN1U3VjNlBDak1tYXhaZmVFb1Y2ZmxHYlhFd1lZVkhLSXBiVXlHYmt5MWlYM3JjYzMvRkhnZDd1blJDV2NYaXRjaUxOZkw3TzVESFc4dW9YYTErSStNb3B4Z1RXTkhZejRReHpad2QrRDlwd1ZXS0pTY2p3Ri8wNVU9",
-      "ts": 1795686115
-    },
-    {
-      "source": "매일경제",
-      "title_en": "“월급날 은행이 다 털어갑니다”…기준금리 인상 폭탄맞은 영끌족들",
-      "title_ko": "“월급날 은행이 다 털어갑니다”…기준금리 인상 폭탄맞은 영끌족들",
-      "url": "https://stock.mk.co.kr/news/view/1206831",
-      "ts": 1795686120
-    },
-    {
-      "source": "머니투데이",
-      "title_en": "[종목상담 주식민원처리반] 스페이스X 위성통신 장비 수요 증가 모멘텀 'LIG아큐버'",
-      "title_ko": "[종목상담 주식민원처리반] 스페이스X 위성통신 장비 수요 증가 모멘텀 'LIG아큐버'",
-      "url": "https://www.mt.co.kr/stock/2026/11/26/2026112618257075429",
-      "ts": 1795686124
-    },
     {
       "source": "MarketFeed",
       "title_en": "SWITZERLAND APPROVES 57 JURISDICTIONS FOR CRYPTO DATA EXCHANGE FROM 2028",
@@ -11504,6 +11455,55 @@
       "title_ko": "일본의 주간 주문 흐름을 보면 일본은 이전에 - 440.7억 엔 매도 후 외국 채권을 423.5억 엔에 매입했고, 363.1억 엔 매입 후 외국 주식을 350.8억 엔에 매도한 것으로 나타났습니다. 외국인 투자자들은 이전에 650.10억 엔에서 208.5억 엔으로 감소한 208.5억 엔에 일본 채권을 매입했고, 이전에는 224.1억 엔에 일본 주식을 571.6억 엔에 매도",
       "url": "https://t.me/marketfeed/1086049",
       "ts": 1795737165
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "TRUMP SAYS HE DOESN'T KNOW IF PUTIN WILL COME TO THE G20, ADDING THAT IF HE WANTED TO COME, HE CAN",
+      "title_ko": "트럼프 \"푸틴 G20 참석 여부 모르나, 본인이 원한다면 참석 가능\"",
+      "url": "https://t.me/marketfeed/1086050",
+      "ts": 1795737187
+    },
+    {
+      "source": "전기신문",
+      "title_en": "로봇마다 달랐던 학습 데이터 형식 통일…KS 표준 제정 추진",
+      "title_ko": "로봇마다 달랐던 학습 데이터 형식 통일…KS 표준 제정 추진",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=375358",
+      "ts": 1795737320
+    },
+    {
+      "source": "디일렉",
+      "title_en": "삼성전자, DX·DS 조직 개편…M&A·B2B 강화",
+      "title_ko": "삼성전자, DX·DS 조직 개편…M&A·B2B 강화",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65992",
+      "ts": 1795737324
+    },
+    {
+      "source": "DongA Science",
+      "title_en": "지하 광통신망 수천 개의 지진계로 활용…'작은 지진' 1000분의 1초 단위로 포착",
+      "title_ko": "지하 광통신망 수천 개의 지진계로 활용…'작은 지진' 1000분의 1초 단위로 포착",
+      "url": "https://www.dongascience.com/ko/news/81066",
+      "ts": 1795737326
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "美国总统特朗普：与北约秘书长吕特讨论了伊朗和格陵兰岛问题。\n\n与吕特的会议主要讨论了俄罗斯和乌克兰问题。\n\n普京希望战争结束，我相信这一点。\n\n如果普京想来参加G20峰会，他可以来。\n\n如果由我决定，我希望普京出席G20...",
+      "title_ko": "트럼프 미국 대통령: 마크 루터 NATO 사무총장과 이란 및 그린란드 문제를 논의했습니다. Rutte와의 만남에서는 주로 러시아와 우크라이나에 대해 논의했습니다. 푸틴 대통령은 전쟁이 끝나기를 원한다고 저는 믿습니다. 푸틴 대통령이 G20 정상회담에 참석하고 싶다면 올 수 있다. 나 같으면 푸틴 대통령도 G20에 참석하고 싶다…",
+      "url": "https://wallstreetcn.com/livenews/3206670",
+      "ts": 1795737329
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Trump: will likely talk to Nvidia's Huang shortly",
+      "title_ko": "트럼프 “엔비디아 황과 곧 대화할 것”",
+      "url": "https://www.financialjuice.com/News/9869848/Trump-will-likely-talk-to-Nvidias-Huang-shortly.aspx?xy=rss",
+      "ts": 1795737332
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "EU'S VON DER LEYEN SAYS SUBSTANTIAL WORK REMAINS ON NEW EU BUDGET",
+      "title_ko": "EU의 VON ​​DER LEYEN은 새로운 EU 예산에 상당한 작업이 남아 있다고 말합니다",
+      "url": "https://t.me/marketfeed/1086051",
+      "ts": 1795737334
     }
   ]
 }
