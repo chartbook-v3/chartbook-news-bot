@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795725654,
+  "updated_at": 1795725806,
   "id_hashes": [
-    "e6014c8c214cab25fd100d52249fc9f30acff86f5bb7db5c840075709fbfa22e",
-    "4c93bd048264e552b7904d52e1fc4a6d6489d116ea190aa072155eff4cb3cd00",
     "f9f703ac7e0cf4936f9af9af008047bc61e635a1cab18b8a06b671ffa37c45e4",
     "90905d2a7410cbc7d80494d229ba56bd569a88506fd02a98abdf4b50499a687d",
     "8648326c22397af0b2ce3197c9ff3c389f9aa2aca045d7cbb5a9f31690246f47",
@@ -4000,11 +3998,11 @@
     "e2cb8f9f7c7318a1edb6aeef2807d3fa4e3daf0862bf91ffcd801edbc97b075d",
     "f3728148fa6ec6386cf1a469dca8e6cc10a3b7c396bcbd93397676f688b7c650",
     "0833b494e48250257967839a056a7e6516a52e72157e9ae20479a188fa4c815d",
-    "a1a3518a8eee1005ac849513e1082af61557f196af6abf2483bed2b45cc1b56b"
+    "a1a3518a8eee1005ac849513e1082af61557f196af6abf2483bed2b45cc1b56b",
+    "7848562a7dbe554de285be00a58835e7d887255cd03dbff91e9d0a82cfc0d558",
+    "b3271d494965215b7b2c6cf4828b2a0773a86c97c01007b6bc80af20948c2d44"
   ],
   "title_hashes": [
-    "3a5d06c19749a42b3acdbdd6d6f3df869a3b630ab333dd4cdc2e3882f8c0ce7c",
-    "0f83da9194f91f9138e0519527ba16ceaec1283d3a35f140bbf62b9be90bfafe",
     "fa4e65616baba6cd785c384e89fce078edbca225c7ef70a50d73d6732489bf16",
     "ad67a160ba9a1edfa560d0b01ed06366e100be8bc354a8d8fef8944c63cd1a50",
     "413efea03ff6d24473c67cded21b7fe8c5656133622e69dc1ec19d00a1ac6327",
@@ -8002,16 +8000,11 @@
     "5b64c06ed4d46fc2736981f06bf5d2b82ad26bc9871f29d10e243e93dab64fce",
     "40cd5bfa6eca8e0050de8d019e503df37855fc2659fa29f0171782129e37c721",
     "b281e6e855ea77d052f2ccf739b9067a4223892c5304d6bdc99c29eaac1afd8d",
-    "602f3c2dfa7eba2351acb33dc1a4b58951fad9c51080b9a8ea99b5dc8dfec51f"
+    "602f3c2dfa7eba2351acb33dc1a4b58951fad9c51080b9a8ea99b5dc8dfec51f",
+    "9eb4927ff2e295b8924e2a65e3a0fb84713ad8f361bb30932b97246a56b93e68",
+    "6e4feae4dbd5ffd975f1f1da4c1b557f0f970afbd890df59d800812efed2e8b9"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "KEY ONE-DAY ALUMINUM SPREAD SLUMPS AS TIGHTER LME RULES KICK IN",
-      "title_ko": "LME 규제 강화 여파에 알루미늄 1일물 스프레드 급락",
-      "url": "https://t.me/marketfeed/1085760",
-      "ts": 1795680839
-    },
     {
       "source": "Bloomberg",
       "title_en": "Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’",
@@ -11504,6 +11497,13 @@
       "title_ko": "트럼프-시진핑 정상회담, 중국의 희토류 라이선스 미로 해결 가능성 낮아",
       "url": "https://asia.nikkei.com/opinion/trump-xi-summits-unlikely-to-solve-china-s-rare-earth-licensing-maze",
       "ts": 1795724812
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "OPEC+ IS CONSIDERING EXTENDING CURRENT OIL-PRODUCTION QUOTAS INTO JANUARY AMID UNCERTAINTY OVER GULF SUPPLY DISRUPTIONS AND INTERNAL DISAGREEMENTS, WITH IRAQ SEEKING A HIGHER PRODUCTION BASELINE.",
+      "title_ko": "OPEC+는 걸프 공급 차질과 내부 불일치에 대한 불확실성 속에서 현재의 석유 생산 할당량을 1월까지 연장하는 것을 고려하고 있으며, 이라크는 더 높은 생산 기준선을 추구하고 있어",
+      "url": "https://t.me/marketfeed/1085991",
+      "ts": 1795725805
     }
   ]
 }
