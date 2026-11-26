@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795712404,
+  "updated_at": 1795712558,
   "id_hashes": [
-    "27658cae5f4db33b1697be467ce34b848ec6aeb2724a038e7f68f31490633542",
-    "59e92c875937e4c376442f86af85621d128b69769e30245d437d765f301dd93e",
-    "0f6d05b3152e6bf028bca614c03bc7a116a78b73f5620014b6e52f7571aaf619",
-    "f2fcaa3db98c4b8c66ec4dde0cf088526b46ef206ca0c72dd70b4da47f64db70",
-    "188adeee760f737d4189b673908aa3655b91ecb53149651ed677e819b0734ffb",
     "de0f6aee269123619d404ff5f799b788fd23797651ffea3d03161d69e46965fe",
     "d2a2f96c8bf916e0fe77abdc0e85db9c382424339faf6c257c83c2dc5d9b46a6",
     "2a71d2eca0f310893924381631ba3cd0f76dda93a7c0640deb7c383cda4b8929",
@@ -4000,14 +3995,14 @@
     "361493c3ceeae8c539b839bf1a688365411643a1add3e56925331be761abfc27",
     "2f77992887871b527688e2af3d50960384cc01537eaaf17ea72156eda9d914fa",
     "2e1323775e3c6ccfe39a9e14c846ea88238442a5ff95440054ff24ccf129f06e",
-    "39902469d860741c729b53ebafb7fa6d159aad09e9fe3a2c3d61419fe0d533c0"
+    "39902469d860741c729b53ebafb7fa6d159aad09e9fe3a2c3d61419fe0d533c0",
+    "0b7652e7bc3e233264a5862124ae1af48d1cb26d4e6a4ac59d6413f4c6d1dff0",
+    "b058e78fa48e6023ef4d62433e80add0ef673eb0f172bd3063a8a247054a2115",
+    "91c980149634943f9de6e6712e8a68c388ce177710a9f325e67b60a25af5d490",
+    "06e8561e165fb0215ca7cf6859b02e3767cc5dccac1067391f8cd9332bdf90d1",
+    "366fae084599f316f7ce2bdc462524ef4b324267df3e797859fb2b951818608b"
   ],
   "title_hashes": [
-    "60922c85da84791c8e85eb9dbabcd36bb6b2c906567ae6b695709fc9aed6bbae",
-    "43c4d496659bd45ce26e38886b3e19adf04b0fc5cd5bb216c6e045e1b779cbd5",
-    "540a042538b9f38cebb2c7631958ab932a96e1d255e67fda02799929df1086e7",
-    "e47e1865e310b7a5604f45be63daa2abea4f00d48f8c7ddd8a78623aa41ed4b5",
-    "da2d3016a86f3598e6d8a1950503388a06dfd839115c6ee10dbe187686158059",
     "84f4deae2bf6b9d3d980c7961a08acda9db35a650c2be1f47247bc5f340c8151",
     "96d57ec79c39e17b3acbd7b8210e5cd1fbd3ccf343817afe75c550cde3187d6c",
     "53dcb350dca6ce8a18d5b892d985c305899d8a3a264029e5df667fa47a80e8a8",
@@ -8002,16 +7997,14 @@
     "8af5a79bdba59b1390d19f483f2ab4d194ad4ca3b6a9c2d139572bab753ece4b",
     "45736610efbd43256f2dee037691137e7dedce79eb697d17919ecaec6fdbbed9",
     "4be0ea8e60dabcae00b3c0aad9a6a5b0013fad44967070ea7d370408b19ba41d",
-    "3fc349318bb677a2eeed2c975e6d6e3517e6a2a05a38d571c573125e45fe417a"
+    "3fc349318bb677a2eeed2c975e6d6e3517e6a2a05a38d571c573125e45fe417a",
+    "1946b395ace7993b31c8aa940e4092ac53fda7290111c435bbc192766802d4af",
+    "b3124a27ec135d1214971d9dced026ae1396d336d42153317944300f541c355b",
+    "1f464f0173dbe4b69ffa5e33bc249fa8c2a1435f6b4b75c5d3de3b2de3d73742",
+    "732f31ca1e9c723228c01c8436c3b7d94ae747964239b3b0dd038b1a81bdcdab",
+    "ef5ccb9cb52678d3ed66de701e05f2609fdb7581d46965a2e3fc324609c07efc"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "COMMERZBANK SAYS UNICREDIT SEEKS ORCEL AS SUPERVISORY BOARD CHAIR",
-      "title_ko": "COMMERZBANK는 UNICREDIT가 감독위원회 의장으로 ORCEL을 구한다고 밝혀",
-      "url": "https://t.me/marketfeed/1085745",
-      "ts": 1795678991
-    },
     {
       "source": "Benzinga",
       "title_en": "TCGX Acquisition (TCXB) Stock Analysis Report | Financials & Insights",
@@ -11504,6 +11497,13 @@
       "title_ko": "젤렌스키, 우크라이나군 지원군 새 사령관 임명",
       "url": "https://wallstreetcn.com/livenews/3206564",
       "ts": 1795712105
+    },
+    {
+      "source": "매일경제",
+      "title_en": "美 새 관세 시행땐 평균관세율 13.9%…상호관세 무효화 전으로",
+      "title_ko": "美 새 관세 시행땐 평균관세율 13.9%…상호관세 무효화 전으로",
+      "url": "https://stock.mk.co.kr/news/view/1206861",
+      "ts": 1795712433
     }
   ]
 }
