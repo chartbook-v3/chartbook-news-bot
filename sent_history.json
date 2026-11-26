@@ -1,16 +1,6 @@
 {
-  "updated_at": 1795663629,
+  "updated_at": 1795663784,
   "id_hashes": [
-    "a4a89dd061ebe8ca9c14b93f86be10d486344dd44334e5fc33cb7f1574bd4d5c",
-    "bbe65765d606d0c2b0fd5ca1605af4f216e92064b3335fb812bd308cef9fd19c",
-    "5ceebb1d3d8b6aec01d380098e73b99ffc49711a9b300512e4659d5a74eb2726",
-    "959df2238db00eb14396d0a7c5d4efd03bde6d12bc1daefb511fc3c550e3b9ae",
-    "9c81b1296a62d4fd1a1af512aa9812e1c0445e4747f6bb778062ccc9bcae8b33",
-    "4679b2add1c88a4a934f079a5e1fef55a1dae946de35d9256b8a4196a12bc100",
-    "e4f11502f088e07eacb1fbcf45dcfb1598d304fd422f5db6679886c18a5a3cf9",
-    "1a1946f9a59af5a75b5e31ad04482282346b36a11d137e73686791a32535ce32",
-    "b0ea4167e69f7ef9bd81aeba45903886dec176e7fe49760567f3cf567ee06b5c",
-    "85409903b8be525b838529ef4aa2a381b61acbf5822e218f61a8d9793a97cfd0",
     "0daa24694c418d3490bc98f3a433ea3748e747a2f24f5316a6595e944d30bcfa",
     "9b01de228190bf1e020c1a7a9183dfa78d8501f89d9ad746e0380f18cb9dd38c",
     "511df8761c1437f75fa6facfd51100c8d2e5e2f974cc1943554481da672caa23",
@@ -4000,18 +3990,19 @@
     "8185a0649279f787822e2de3c1226391e8ec1ccd7e5f1bf04cfd30101a489cc1",
     "55a035fb227fa2326426fa9d0b7c4707e5f041095e9c30644253fa4ed3466e90",
     "071987fa9aef0e083ee1a4048a48397f2a3c4464f24597136ff4cdc0a61a1aca",
-    "64411ab7f87860008b66b7412f6319b6c97f66a41a12fdf3398f5cc7057e8d3c"
+    "64411ab7f87860008b66b7412f6319b6c97f66a41a12fdf3398f5cc7057e8d3c",
+    "d8c55d7700ca3e7c1f8381324f553ed9c79cbe5a5d1c360f3c6fbcda99a7aaf7",
+    "b51c2ebffa2551e1ef98c7049992f621d43e2435ffed44a4617488dadd15d8f7",
+    "e77c9ba9be2f83bef1bbf2cf6c73cb1083caf4605d69eed2014e774005f6cddb",
+    "d6b123b9aaf919b6513fb6a6d086d7a206991efcc9458e71ced8f98aa6c4ac51",
+    "6b3ddc409f39fde6c36e61e1c6a54bc9685555cd01205c9a1185d2043f76528c",
+    "5cd688862515bb64608daa0eeca73c40d86d0d92d6ef73a4dfd71301e1b857b6",
+    "6b5f305768f5585980f48a24760dab382c97893a341b062cb90b4ae4258ce243",
+    "759dfdb277e66a8e2e836b524976cec79bdc1fc5f5e35590d4acadeddd127730",
+    "fd8496c09a0904912149f561005a2fdbd7519839213740675195973064c5681c",
+    "68374c295297e26cf7509210da5316f4cb3e5a4e7bace3ba2f60344d28ae5979"
   ],
   "title_hashes": [
-    "0c67c7597642536760623a222e414207ec0c79c88e1d988fd458fba3e0a82b29",
-    "f12eeaa321a813c24baa6db8e7272d5fe4c7300ebfc3b2ae853ffb93fceaefe3",
-    "c21f8eb1a042f96b9936dd4090e186f8f8772bc60574b7b27b2c01bcef331b4a",
-    "e889a37093fc3c0c67c7abdc24e71481c31dfab8b0911fcad7d0962f7ce09dd0",
-    "c722a4b5eb7d6499c199969b6d54528dc0cc6cd2c7f215bdedb2da201025eb12",
-    "e7e6ea780b6a523b3b48d8265dcb1be884a714cbd35f41b788e6e380fd257210",
-    "8ee7523d0d47a157c3280977d36e9c95ec5de71c5c3011bf957ee953aa07ad09",
-    "6762eba38f3449835e402d7b264079b8715b8cfce0b91124afbaac8cc59446ec",
-    "3e0f236d3d3afadb6241a3b3cecc6dda4b696ca3ec0446ac516894e05a7b80d8",
     "fceecc9fefbdba02b9f238969582676e2e9c368540a9cc029710bb540105d5c3",
     "3c74269ecd7c4db7290ed7e29df5a024f5f8a8b9e124c4f2228b45acc2ac86cd",
     "01c29c29c2d6cbac8ab3ebe582e73bd256478f3e36be8c76968182c991eb2f17",
@@ -8002,37 +7993,18 @@
     "463ac618b7327acc1c14d6b5d2f72631e3f383a83581d5fd169d6b9e3ae15209",
     "30cd34527fa5392b40f6ba34d2043e4cee265b3fd3d648b92da1421258df3a41",
     "6cbbfabaa0d9871966ff6a9846a52fdfd12edcfd765c014798da40015067ceb9",
-    "e187e88cd0d548e299975eeacb61aaa9c5ba3167b0623a45bd9ada09c9c11988"
+    "e187e88cd0d548e299975eeacb61aaa9c5ba3167b0623a45bd9ada09c9c11988",
+    "06a92752322ab4e902baa367bd0189eb2254befe7e31b384109ae8689bd6aa13",
+    "960cead75fe6bdc44e1abe46b7021806fc85a0359006304e63f1a021dde77932",
+    "6f79ca40c163538e9ca9730bc56e2361d27ad61bd9bb7bf5b04206e74b846627",
+    "7431535b614065194174f98426ba348081e0ab448c316089c1c22258b9363b4e",
+    "adb8829d899aa73825dfa650849890a30349871e371c0baab434a479ed93e41e",
+    "a667ab0e5c0c46e3be8fd40a623fb2236bfd36c5deba964691b7b9590db4ff50",
+    "99d31aea1f40af0ed36939928a357415f7b3e4e10719a5b0ebeb05e433c077d5",
+    "441946bf3dd50ed676e2e7fc65fdab2dc7bfce312d2d64c54c6202409f0167ff",
+    "ceb431a3f4875c62d910c4872a55416c097a5cbedef097571d5a46ff28998a43"
   ],
   "recent_sent_articles": [
-    {
-      "source": "매일경제",
-      "title_en": "비바코, 퍼미안 폐수업체 4000만 달러에 인수 계약",
-      "title_ko": "비바코, 퍼미안 폐수업체 4000만 달러에 인수 계약",
-      "url": "https://stock.mk.co.kr/news/view/1206124",
-      "ts": 1795641149
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Form 144 Apple Inc. Filed by: Khan Sabih",
-      "title_ko": "애플, 사비 칸(Sabih Khan) 임원 자사주 매각 신고(Form 144) 제출",
-      "url": "http://www.streetinsider.com/SEC+Filings/Form++144++++++++Apple+Inc.+++++++++++++++++++++++++++++Filed+by%3A+Khan+Sabih/27402634.html",
-      "ts": 1795641153
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "US Data Center Power Boom: 3 ETFs To Watch as Goldman Sees 52 GW By 2028 - First Trust NASDAQ Clean Edge",
-      "title_ko": "골드만삭스, 2028년 데이터센터 전력 수요 52GW 전망…주목할 ETF 3선",
-      "url": "https://www.benzinga.com/etfs/sector-etfs/26/11/63656363/goldman-sachs-sees-us-data-center-power-additions-nearly-tripling-by-2028-these-3-etfs-could-benefit",
-      "ts": 1795641183
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "巴西政府声明：对美国决定建议对进口飞机和糖征收新关税表示愤慨。\n\n很明显，这项新建议意在向政府施压，迫使其对国家监管措施作出改变。\n\n将继续寻求谈判解决方案，不排除采取对等措施的可能性。",
-      "title_ko": "브라질 정부, 미국의 수입 항공기·설탕 관세 부과 권고에 강력 반발…보복 조치 시사",
-      "url": "https://wallstreetcn.com/livenews/3205933",
-      "ts": 1795641249
-    },
     {
       "source": "비즈니스리포트",
       "title_en": "[Company Analysis] [RF머트리얼즈] 실적 성장 기대감 'RF머트리얼즈' … 방산·광통신 수주 확대 주목",
@@ -11504,6 +11476,34 @@
       "title_ko": "바지선 실어 바다로 121㎞ 간다⋯ 누리호 6호기 ‘해상 수송’ 예행연습 끝",
       "url": "https://www.viva100.com/article/20261126500847",
       "ts": 1795663501
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "中관영매체 \"美 '과잉생산 관세' 부과 땐 중국도 강력 대응\"",
+      "title_ko": "中관영매체 \"美 '과잉생산 관세' 부과 땐 중국도 강력 대응\"",
+      "url": "https://www.news1.kr/world/northeast-asia/6366955",
+      "ts": 1795663654
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "트럼프, 올해 엔비디아 주식 44차례 거래…이해충돌 논란",
+      "title_ko": "트럼프, 올해 엔비디아 주식 44차례 거래…이해충돌 논란",
+      "url": "https://www.news1.kr/world/usa-canada/6366957",
+      "ts": 1795663655
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Laekna Submitted Investigational New Drug Application for LAE123 (ActRIIA/IIB Dual-antagonist mAb) to FDA",
+      "title_ko": "Laekna, LAE123(ActRIIA/IIB 이중 길항제 mAb)에 대한 임상시험용 신약 신청서를 FDA에 제출",
+      "url": "https://www.streetinsider.com/PRNewswire/Laekna+Submitted+Investigational+New+Drug+Application+for+LAE123+%28ActRIIAIIB+Dual-antagonist+mAb%29+to+FDA/27404136.html",
+      "ts": 1795663659
+    },
+    {
+      "source": "The Information",
+      "title_en": "Trump to Lead TSMC Arizona Groundbreaking Ceremony After Bringing Huang Back to Nvidia",
+      "title_ko": "트럼프는 황을 엔비디아로 다시 데려온 후 TSMC 애리조나 착공식을 이끌 예정",
+      "url": "https://www.theinformation.com/briefings/trump-lead-tsmc-arizona-groundbreaking-ceremony-bringing-huang-back-nvidia",
+      "ts": 1795663783
     }
   ]
 }
