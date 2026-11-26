@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795729418,
+  "updated_at": 1795729572,
   "id_hashes": [
-    "4a951f1a007e17a15f805e540ce4ea5d041f36955b4add2ca296f542a8ec610b",
-    "738103e8eb8904c96eb47cef4d5718815ecfc3af29cde3227a5e0485b4853124",
-    "d707756425db4e481e0cb16be3cf0834dc71a1368a4cffb8584b0b359468073c",
-    "8f269ab6bee2393623e4662d0850b5c42e7db44d186251e3c24c3d073061ce64",
-    "92ee62ffb5feff0c042501d2797f00065b3c44c718c1836f5b3feaa3a2f7acdb",
-    "f2f5dddd8060b31f3e67e12b794689e6c40c30b3ac8f1ac4c3fd9a8c17ff1890",
-    "ed792aaa821009e2cd7a445b5c5b42c17ff37e8d550eee84d3a7665d6731861c",
     "532b2798cfe4d4efcea3f711f1d160e93e1660aa0dfcdbb0934fdf4333df48aa",
     "fd72bddede747818832b4aa70bb035412052b1f08dda18e064f15e9f731aae22",
     "646b25ec8935d05a3938b4528058195de90230e564760ce91c9746d7c2b95741",
@@ -4000,16 +3993,16 @@
     "4c33f7d9360b82614d8471260c0124198e4c11157fdf599160e6dd53e880a7d2",
     "0b76f0af4251851e60426d0be1025a92ac3c6259a736c8f61c7efa41df00a597",
     "757dd847f49440b4280aa2926af25ecb21ed9f78beaefa3ddfd38612914b893b",
-    "bf316480944f06d713b71336eba620a079e183a5d13b3919fa93fe960efc6436"
+    "bf316480944f06d713b71336eba620a079e183a5d13b3919fa93fe960efc6436",
+    "877539b68d3768b047a8496ba0a3d256f217776d2488cd6e474db42b5e5eceb7",
+    "cf64e5bf5b8969734b9a21003103c885e4c8351a983df2ad4c79ae8c9d457e31",
+    "efc6fb96912426626317af2859f7fdf0a6c80bf1d0a41c45c53900e4eac1baaa",
+    "f8f6ed72a76b0476d8b0d703fdd6a0321edd1b29dce77b05c705027eb391b805",
+    "2f34a68a80918734b2d614964e1518c69f2eb9582012251da3845c1d9a35c1d3",
+    "88981ea633894115aefc351993d1b561b0c0c1d55f829b4574dad256c8e77477",
+    "11c6272da9170d492f500e2dfae227a15b8e1ea5897736de146561566e6a1445"
   ],
   "title_hashes": [
-    "e4eca6771b775b9c3b879de28ee217b0e01bd97d07149482c0e5db12d40fe05c",
-    "6d75030c2c71c91db0c9437ddd1c34b4b258257e6f44d92195475607ac3b59d1",
-    "9df5978989b664705492a7eba95ffae3bc838d706d19d1e04d443e53c0a62557",
-    "0ae235e9eb07987bfc51ac4fca9350ab07e616f98107b78fb32fc55b0e69947c",
-    "40ceb76fd45ed42e1f84a8d114e024556ec0c425aa223e551dd884898c2140af",
-    "3da6b04d4e771889b5b216725c2694aaa07bcc56b9ce33e7a8cc38c5399e8849",
-    "2ad868982b45e7dc8db69f628b7ccd74fffe558326f303dd3d9fc8d6c2f8240f",
     "656d7cd93ff34529bdc895356625567f48f6993b8f7e366e01c74a41932ff237",
     "c213fbe64ac6a8bd54f5226d977ec55df464160dbabc216bf8d0719348c7de83",
     "6fd648acb44ff43eba90f7fe5f5bf16ba53f7f67444403c72d75ae2c7e81a29f",
@@ -8002,23 +7995,16 @@
     "9dc095ff6d50ec9d5c85c3f81e68caca7cf4f1f5b2966e83f5f4ccf4f28a1d0a",
     "b78ad782f94076d5873e3feb9b38b875b7c95dbafc994cddb9796a858f4a64a7",
     "6e9dd556bb810f6cc4a4c79c888c7556cc50f2c6f26ad129ba6c1587a41cbde9",
-    "a108ec912e9874147a88da63075dd0cf098b4c858fafa178abcd8cb6f7968ff6"
+    "a108ec912e9874147a88da63075dd0cf098b4c858fafa178abcd8cb6f7968ff6",
+    "8c9b23f6cec0b5fcdaa7ca3a13eccba2a4ee4a1fa92ac839eadcfea8ba67a427",
+    "4e82b2da45cf03cd1d1537dfb46d086c72786a669533431deaa51fd538e62658",
+    "c1feb32431bce9a03995753bee17bf4099f275810dc376388e1b39abb2593a09",
+    "de181c6941e4313c7ed54cacf132c86258b5ebb6b5893e1e694a8e76a1733f02",
+    "3722e2bbc813209343bfc2a14c51c98fcadbb5774789b733086d78c9009b6831",
+    "78d55f44ac89634f76c00da6bd2f8035d5bbf6122053c44588c67fd57c0a9260",
+    "1a005dfe22d5e0610b37a6a706bf9bd2c5d00be699012f40c15ca8f6ee525284"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Rwanda Hikes Key Rate for Fourth Time in Row to Cool Inflation",
-      "title_ko": "르완다 중앙은행, 인플레이션 억제 위해 기준금리 4회 연속 인상",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/rwanda-hikes-key-rate-for-fourth-time-in-row-to-cool-inflation",
-      "ts": 1795682063
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "RUSSIAN OVERNIGHT STRIKES ON UKRAINIAN ENERGY INFRASTRUCTURE CAUSED POWER OUTAGES IN SEVEN REGIONS: DEPUTY ENERGY MINISTER",
-      "title_ko": "러시아, 우크라이나 에너지 시설 야간 공습…7개 지역 정전 발생 (에너지부 차관)",
-      "url": "https://t.me/marketfeed/1085764",
-      "ts": 1795682066
-    },
     {
       "source": "연합뉴스",
       "title_en": "재경부, 12월 국고채 2.2조원 발행…개인투자용은 미발행",
@@ -11504,6 +11490,20 @@
       "title_ko": "트럼프 대통령은 백악관에서 깨진 창문 17개, 부서지고 부패하는 기둥, 몰딩 등을 고치는 데 시간을 쏟았다고 말했습니다. 그는 몇 년 동안 제대로 칠하거나 관리되지 않았으며 1792년에 지어진 후에는 이렇게 되었다고 덧붙였습니다. 문제를 고칠 시간이며 곧 \"대통령들이 150년 이상 동안 찾아다녔던 연회장\"을 갖게 될 것입니다 - TRUTH Social",
       "url": "https://t.me/marketfeed/1086005",
       "ts": 1795728852
+    },
+    {
+      "source": "한국경제",
+      "title_en": "\"모든 아이에 주식 선물\" 약속하더니…머스크의 '폭탄 발언'",
+      "title_ko": "\"모든 아이에 주식 선물\" 약속하더니…머스크의 '폭탄 발언'",
+      "url": "https://www.hankyung.com/article/2026112735457",
+      "ts": 1795729440
+    },
+    {
+      "source": "매일경제",
+      "title_en": "돈 미친듯이 버는데 신용등급 강등위기?…엔비디아 진짜 리스크는",
+      "title_ko": "돈 미친듯이 버는데 신용등급 강등위기?…엔비디아 진짜 리스크는",
+      "url": "https://www.mk.co.kr/news/it/12219809",
+      "ts": 1795729571
     }
   ]
 }
