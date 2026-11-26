@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795703612,
+  "updated_at": 1795703784,
   "id_hashes": [
-    "2bb7d298b6c4accbdc3be4beac5a5af428677ce3bcdc59167eb516ad8235f9a6",
-    "87c80f30b1593bf9d9e7ce0782c8058808adff511f3d2627c12bf53059cedd6e",
-    "b5b7f279a1045abde2e36e9bd3f0dd5472abc1f49162f1227b5b16c06a81cf18",
-    "65585d6dea2fcb176844948fa3f6cc9650c9b9b2ff7b73e37e17b0830aaa5970",
-    "37820a3a5b7661153e386b2de895ef23ff533646da1d9be24d294db1fa511f6c",
-    "7c27d880a6eba5883bc11f45bad410c014363167dac4bc599e9405c2177e8e0f",
-    "5618c9596e32e0d43ef5438c22856f5dea9caf15b4ae7a2dfae8740acc43500f",
     "869f093e5d4d7301fcbb638c134f0964f981fcfebe8562a6c876a9dfef0b9ed8",
     "a66042a944ed9be09ba278b0465a1aed6381420b7913ad5e6865188e41b6000d",
     "e1db628c9483d854dc448b282268d3b7ea82e98898ccbd7d3b3295e5e0196515",
@@ -4000,16 +3993,16 @@
     "ce9783567952b19eff4b3ff226ef3b6a05178f1480014c5610df30a41d87d333",
     "16f4adb43348cde68d4edd681f24c611ee198629f277d07af5f51f4003a74da9",
     "71687931e084dcb02f3dc327237a667a646f767ae9b21f81e0ffba8fb14187bb",
-    "7d6cffbc5fa2f5c5ea0a69950e55826ae909deb509897faae2fe93cac1e84ba2"
+    "7d6cffbc5fa2f5c5ea0a69950e55826ae909deb509897faae2fe93cac1e84ba2",
+    "1012bb317d8ca9be70b3685a70c6a9fb82b00b6a27f1daf5343d338639ae5e2e",
+    "330a1c8c39b49d33ef28d45f896e04ab64f4a849b7c38fe7c7e3d5f4845470dd",
+    "f3994da301cff148172cc8d8920752892e983007d881b36b655aa7d0ce1a9b34",
+    "618d4f928aa45ec4dc15f085c85a4cb45bf7f06d270afa3cc9d27c144f5b83bd",
+    "7599b1c013e0a6f12a0461281923aa101eac7f55f7c64546a5a3de438a21575e",
+    "8321a9ddbebd4a0e4259126ff1852109a5c79437fe9d29055ffae6386a1e32bf",
+    "ff2652fb1ac1ede19480334b729e59ca7a53b7afb557fd1a7be2ca22b1f8cb33"
   ],
   "title_hashes": [
-    "ae13a331c69070d9e9df6ba1838cd4df752d0e4f73023fc0fd325a339b9698b6",
-    "f3be59f0c6a64b499dd873155a07fd1f16d1343158ba440dcafbf60da986b57b",
-    "ddba82fbba0fcefe1321f4228c0323ff192420187344fde8277616d48b411045",
-    "4d945af4c032aafaea5914f802c5f93d87371ba5187c73b4febdaefee7b5f3cb",
-    "467dc426266bc15a74459187f53971242745e5435a216b7ca8ca654ab0812e58",
-    "b7476aeebe97e4e906c4698f358404edc2877ba28fd85d679e84d29d29166e4c",
-    "784e3d2d4de122f9f01459f3c9a2a8b45e3c23f038f9094621e63e38e2b42d4b",
     "cd2e613eb508780821df139648e5a6247b110f39735f8da02ccb0b6bcc8e8465",
     "aa00c02887e7bf3b92b580e3821039e2deb18185b91bfe3ae86c1b1944092ba1",
     "e2bbb40bf13f1f6c1a1fdfd66bd7bda92b144540e5728c3f572e25b461969f67",
@@ -8002,23 +7995,16 @@
     "fdca6b02abab0ef0dda184681888faaef7ecffaa7fd278ac2acbc20907803de2",
     "273d52d60c2708b69397d2cd2af70f550bd987415a1fa3f6ff50b7b626570dcd",
     "9333c6a89090ec100de72498c0ec1a6049a906d2651fdbbd5cf02ff5bb9be956",
-    "6c2a48da50f9ecb7a233e193abddf411ca48cefea0f872e45c7f22616d463ade"
+    "6c2a48da50f9ecb7a233e193abddf411ca48cefea0f872e45c7f22616d463ade",
+    "449e33355392691143197261879a1625d666e83be074a00ccf4700a9292569f5",
+    "6e5e0400fa75eacfa91b8f9c1ba10787d06d83ce529246b76b9a8808eb038f4b",
+    "d1e80f42ae0283f710d3d5e1d4ba6fe3c5b79a23aa79ac7b24337a0b022ee805",
+    "b159ca49672aa7de46a4d56dea6737a0079f4336e3f657c47c06948a63ee17c8",
+    "59622553d06503f0c0e71a6ae24e106808aa257aa21050ce10920bba41728bde",
+    "2339e7a2f15c780fd000f80dbf61c1b2f76d94b372d3f845a30b8cbf2266f6d0",
+    "be36822522ef56d47cc9cafb2e2ccd9afe531b176a19949b8fbf0c1ac278ca55"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "삼성전자, 메모리 개발체제 일원화…시스템LSI 전마실도 부활",
-      "title_ko": "삼성전자, 메모리 개발체제 일원화…시스템LSI 전마실도 부활",
-      "url": "https://www.news1.kr/industry/general-industry/6367297",
-      "ts": 1795675700
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Exclusive: AI supply chain faces shipment delays as KYC expands",
-      "title_ko": "[단독] AI 공급망, KYC 확대로 출하 지연 직면",
-      "url": "https://www.digitimes.com/news/a20261126PD214/supply-chain-gpu-data-center-gtc-data.html",
-      "ts": 1795675704
-    },
     {
       "source": "연합뉴스",
       "title_en": "금융위, 내주 금융권 긴급 점검회의…10조 증안펀드 준비 시동",
@@ -11504,6 +11490,20 @@
       "title_ko": "우크라이나, 4kW 고출력 레이저로 러시아 샤헤드 드론 첫 격추 성공",
       "url": "https://www.tomshardware.com/tech-industry/drones/ukraine-downs-russian-jet-drone-with-cheap-high-powered-laser-for-the-first-time-super-fast-shahed-knocked-out-by-a-4-kilowatt-test-system",
       "ts": 1795703611
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Intel Stock Nears a Death Cross as Comeback Wobbles - Intel (NASDAQ:INTC)",
+      "title_ko": "인텔(INTC), 실적 부진에 '데스 크로스' 임박",
+      "url": "https://www.benzinga.com/trading-ideas/technicals/26/11/63662170/intel-stock-death-cross",
+      "ts": 1795703645
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "How Broadcom Stacks Up Against NVIDIA And Micron Technology, And The Rest Of The Semiconductors & Semicon",
+      "title_ko": "Broadcom이 NVIDIA, Micron 기술 및 나머지 반도체와 경쟁하는 방법",
+      "url": "https://www.benzinga.com/news/26/11/63662194/how-broadcom-stacks-up-against-nvidia-and-micron-technology-and-the-rest-of-the-semiconductors-semiconductor-equipment-sector",
+      "ts": 1795703783
     }
   ]
 }
