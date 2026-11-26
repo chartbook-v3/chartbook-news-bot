@@ -1,35 +1,6 @@
 {
-  "updated_at": 1795689058,
+  "updated_at": 1795689242,
   "id_hashes": [
-    "3bca3953e69ac17fb2c74dee33ba8f830b221dd69d2c78fc6f91ff43983a7faf",
-    "7761678af40c7b4a797d659d32678fc83b83a62b91e97a051d1e9a90f5e4217c",
-    "3b9df5808b751cc874fb0315c45c2dee8d205d6d8069898d92000ef01de270f7",
-    "2481b4c4ac9a7b4711bdf3e89ad3602a738db1de8351f674ae368b2e69fe4e1b",
-    "acb97458c021cd04a508fe34d206762d58185e5a52166e7db07fdcde82b3f5b6",
-    "ec0dfe266910a354c838e814f19a7310ee964817615707d9e587d4eca0e395fd",
-    "81b10aec8624af4ac22c9df5e8fd4bbea76eece465705111a729f57a67b8a29e",
-    "14ea47e7e66b595418e43650839335edfbe93d9bd4de549b77e480b536adedc8",
-    "ca12a21db5383ac2cb5fdf50af0c70409373bdf2b0e0948d84f22804cf1c2cae",
-    "38b7f93d69f1a1090c74271094545afdf3f9a11b0344967bd45b2dde55815408",
-    "741492f6ea470ee37bb925c80d4ce08f7549af7fee500009b46763a8658e4d09",
-    "cac25575d4b6252502b551c9011bdf7d0206b57eb342a47e1c8961881c79d49a",
-    "5fcfb240f58e1be0db4c1dd275986e52c99ecbebd6f2e74caee86e755219aeb1",
-    "0e5083865edad007b9ce489016c57e25aa76a26cf58c31dc9d0e618386ade678",
-    "4e5c7d410cd8f2bb17eaf242cf4b2323855cbd0be0453a56a02d889ed1402e88",
-    "f2beae4eb37523d449061b83f885146ea84d34f97c0988f0274ec0759f151983",
-    "5f2a9b0c8cb2606943a5df19273edc06962c271b3b8e10f15f35913672a33fa4",
-    "05d0a6c668a78b131c89a4815c60cfaec44334981737a49d1fa15f05a1fcb6c6",
-    "90e8eaf0901b5c1eea10b20745cf728762d9a0aab00cd462f572b89164ec4851",
-    "4d24c077f1296cc5993b459cd87d1390064d3c815c3b45466ace6c990fce5329",
-    "79c6f92ecfd7b69cda101641222b0dea79857c9dd5b4b568d431d75a5701e739",
-    "116ab9e2cf7da454ad41ba56f4b5ca29c00d7c68b5dae82c5a4ae8662d49545e",
-    "6689053e9012e9def17f917489e91c95a93f9196706b115c9ee1de4a9a926b8d",
-    "c9e32bd05bf74e4636b515f7bf936a0c0a79dfba87cdadb03197c60803d36c56",
-    "5d247104433f4bcdc7336a58150052388c07b3d6078a6869ade560e33aa6980c",
-    "d0b11fc7227025f69cca6cdd5e6a6ff8fb06113ce8a90eb0196f24ad502eded9",
-    "e785d1a1a940ee80c409e2a2420c3a560934b82901e2b90fff28884162d18087",
-    "18017ef3f0cd7c260faf92c0700b584e3b8d6eb5673247642e640851d13fd634",
-    "0940dee1fc7a6f56bace094cc1503c471fcda532ad9073e084b0d8129cf0950e",
     "ebc7b4c35aa78fa08640f659aaa84c67ac18337e521a9958476283698f365b94",
     "0b274b4a48320846131a963ecc47ec0f0ced3b429fc9dd7b5b158ba17f8e8d81",
     "21292968bbe04eaa2040f0e52c06a19f91803466a25afa5d2f0ab40d70ff4cfc",
@@ -4000,34 +3971,38 @@
     "ba9d77b2e69cc404f6fd4a53ceaefe20311b02d722b4668ca9afcc1f7b83af3f",
     "ad89f9745b14178d8d5f4c0933e85364b49c6e164a45dbcd51678f3250425769",
     "9fea44e7502b85dfe26564876a3c8f9a3e05182ede27a231206a0b2d56ca8ff3",
-    "e1a5b6f867d76451aed41581043ee726bfc3cbec62ab3a36d719630d96a8ed95"
+    "e1a5b6f867d76451aed41581043ee726bfc3cbec62ab3a36d719630d96a8ed95",
+    "9636d0ec6c7f6df87785ec6c8bd783faa678e13a5cef702a6d3b77e471d37a9f",
+    "016835607abd2d101cc4467e32cbd65d09f15b899b18132fcd0f569fea777275",
+    "4a7140824cb181812738ad65d221318e338c088be56b52da1858db56ff074f5e",
+    "a4fbfe721010f1cd8e18bb887ddbd76f650085fec706dac9ec9dbd04e6791768",
+    "f18ab85dd3817cf27822fa4380ee6851acba77e32a1cf220c66b512247543491",
+    "bfc9984ca5200dbd35826b306397ed6d0586a0e1787a106c7ae8df9aa25192e6",
+    "ef3d104af2d6843dcdd83e5aebfb71636257d1680cea731f22d75527c2777d27",
+    "5967c7e4afbf1ce84a07f035bae11929c5c55c1f6ee91636620e69bdb8052830",
+    "434934dbeeb2a78c9952cc33ff40baf83e5be756d29a98cfcf1b291a23c1e462",
+    "c0ce0603e13e4c165b9340d9fadd6b458e17fa1dec6c1deac7b588668c4c583d",
+    "8265c51e2c3e763485ab1bde0d4882526db5a3039c1c0620afb77b1d305c12cc",
+    "ac23cb93a03b2e9f65bc9ed7220d15aa76cd051e44b7baf47ae2baad3398b6f1",
+    "dd631125b6064b48efad9b4063bfc9cd99bc51946f665061af02683f3b1eb235",
+    "4dfaf07485eb162128ca76aec0664405aa4aa1928e923a64b119db20cd27f7e9",
+    "1d4e883e37b7ee1c45e6d3eb048336148c97da351cb1796be3841907f261b77f",
+    "631b7f1d046b628f1d0f5f7dab46690570dbd66b822f43d457dd5cd6da33d2e5",
+    "b42b69128e82713d4b37faa268c629ca522e757282a21c7a5b1eda0d4f9f3b09",
+    "ca12a21db5383ac2cb5fdf50af0c70409373bdf2b0e0948d84f22804cf1c2cae",
+    "0a3c223e0524a45fd3584bbed2198b5df7d2bf97291bba8361ecaff49e3ce74f",
+    "d6ea3567cc6d5da4fc4df1433e3669a842357b473b35d7f4e9e4b5510515a060",
+    "b5ae2cf99d5fe70dafc1be98328f28cb1ca79c1f4b66bf6472c588f18bf68218",
+    "60a319bc79d1566e6adee5d1b10ebdb6e3d8e3c1370181cd429216aa7e4d3f60",
+    "eb35b3aed928a2f362d1fa1ad7338a560437ab448d140507254444f0aeb937fe",
+    "1126b295ba90aa9ccfb4b35cb1961bbd6e4e7aae85eee75318c818c355d13c93",
+    "9c02baaa8b1ddd2c65e743fee97c40e2f9e5ef89f56a525877288d320ca5e136",
+    "65376279797244f3a41b1776e21df770eec5751a31e47570bac25574f1cc9b2f",
+    "77e6fa1efcc88e79079b5c0d3f7202766938e4c6cc3fc22af7be5f5bed7bda02",
+    "bbfe10b1087c7f674e054beb498272022749f22985afb1f7ae1e65ad4b83f0e0",
+    "a2ab3250b897e840900fbc7fbabee2674a5b18f07b0fe84d76e404e2bb1eca2b"
   ],
   "title_hashes": [
-    "89c66a987ada33b955c292b77d4999bff5327b3c3ebe550996a03f776e578fe6",
-    "1c0eecf921526a22599265830114e2debe5a7f8632a33a170cf5b5d31bcefd3d",
-    "d31534f1946f0ddca53938d6a670a33b4a6597cecdf398e450ed096f132b7c68",
-    "428d294cce1468de54f64fd02579807ef0e7fde70e6b28e2e4acd3281ac2ec19",
-    "0bdf283278444e1e9b2b3ee941657a37f5923b9d5a2d7fe3256dcc32bf0762f8",
-    "09e9b75db5fba7a65cd00af246ede2a89edeb5281c3f70e2ad93a436a78f61a2",
-    "151544775f1e38563b99a453447249e7d8d75a9dee596898a75d4e4a14c874b9",
-    "1214114bf2630a88beaa06f6ef5af745cff5b6ca42e82069228373963c0109d1",
-    "546fba7d33f8c10cffa64c1fd393a33afd6dcd1f3a55751222f9fe4664844762",
-    "6ab4625796bef950f561d7f65bf492f1334114423c4e84c4369215fb287760ea",
-    "c6a4bab7d4a00e6bbd648a2cf6ea6c4af3d64d47fa6db576cf87b543063cd504",
-    "09ce69125d0e3f57483380a65786e24d641d5dbfe1b1b97056e5d6dc0bdf3e65",
-    "1ed8967d93ee85ecfffbeaf5950313846038be611f1ca6595cf5cec4bbd1ffcc",
-    "1d2faba8e80aa92ed0ceaa1c78bdc33198214dfe64ebfc881f5f54ce2dc7a60c",
-    "9b80fce80a59d182502d41893fdf67dbf8102238421b193c9c2499add1a5de80",
-    "b904686a5b046d7566a50e1c1432b1b760eb86e32023d99e066281386c1ea41d",
-    "347a9d7ffdd830a8280b79b10869621a0e031c62f8f2631ab71f7e9ecdefc0fc",
-    "bd379e04437d9422ad7cf82a8b2daef1432c57af35a5e3e1c717daad7252c731",
-    "7e6a2f48577ec72de5131b37edb15d0696f61f8fd9c19545f74d3ea77b0467f3",
-    "a3aa45719bf18656d4f34e7138732283c9799a014d543cdba572ff06a8db2e86",
-    "4eb2b9e8f56295f397beb669905c1b0ab39fbeb7f4ddd561e0658b8820adb818",
-    "2704452c1c563e64c075afc59f948eeb50f93fd491d5b3bd887168b358ab393d",
-    "343b84a82d6edb2c4536fa0a1dd88358e500914a07fa5edff686c9ea27e395e9",
-    "9c32e795c6300c47258ffcaaba26ce6c95715e9615b532d738ba6438cf0af8fd",
-    "2f2841a4295cded8eba40d00be5ce77e0938bc4de1b7c8abd0a27c93f27ae185",
     "710d0559b452048955f49aa4dcd349fd00fa8d96736396887eca69a7fa52b1c4",
     "9431fb9aa09e8e7b12d3808f6056eff6c332a7857d241112e35a8fee90c0b1bd",
     "46261fbf52f4f0bee33fede6ae528799b3babe177fe7317f6140391cba8ea5bc",
@@ -8002,100 +7977,34 @@
     "c5c4b630b8840b3f6f3ccb653d33b33c80739d20d3731d149b12fe46ee97d53b",
     "a680ea7faf6c7283b6be13de4e0cb9f59adb5260be41a6876e39e2f2f4042ce4",
     "9b8501b07674f16639acd3c715a5178421c8a3e7d4d0540d384f6b5c78faeddf",
-    "899bffb47e21d077db7ae315a4b05b6d1e2242928a2a4d923b5ee6f1f51ad210"
+    "899bffb47e21d077db7ae315a4b05b6d1e2242928a2a4d923b5ee6f1f51ad210",
+    "9567dba30d3c73140f575316c1475bc0e8f77fff96b82c121c92c6ebd09f5fed",
+    "e36f2dfae04c9b3371f734945b56e96ad4b10c31766b3d5e8d6e390349a19408",
+    "905bf1244c6384b3a53cb4cc52ddb3aa4c26753a0ce6362b9fa46e221129d046",
+    "0edc41696f818646c7e3a468856d73cf69f415c31865be3eee6cc74b3393bdf6",
+    "5091af8556d54b09de75e10021e56135ca6ec73bfbfb37870dd47441e1f79921",
+    "348dc50ec1c18fb0f2298a7b1fa66c41bb635e2d3ffce2d04a4d543749777a9c",
+    "ead5c6af08467852fc72b8fa868612997e324a363a5b30cfa05144c3ee6658e1",
+    "8fc394b3cd017ed98c81e37b906290012271507af65705e4a260ddff8f48bb9a",
+    "209f77493774222b6c9ba3af1898e41bd316e6617cb186a7f8218ec3fce4ef06",
+    "5d14f0668aabbc7c85b5b847fa4dd18f425cbf651514283412ddf702a4e0e602",
+    "3fe6e9a9f00a18edf8b60d6bf2e118fe8ad8b57417ef2c65a80b2aa2f4e498d8",
+    "4eba3ed9cea4a2d5d9892141aa9ce2d8d93a5ab7e6cfa6712c1e561ef4db2f97",
+    "661d27b44394217c4ce492b823298a05f4574a17e1ac126f85181243b79f1577",
+    "ee3e46eeb1697af793bdfefe3e7773722091327141f29a7d2d0b717295c588d7",
+    "c3e2b0aee77f53602eef6a26f22eabab8493a9b848140e825e92b923253ee082",
+    "46a816fdbff33d3b6bc4c64875f5dea4f63480767b3e570a0516293cee932224",
+    "9eaff3e21bb1f3a61686495aab61a536420fed146dd2a4274ccc1064c0912453",
+    "e4e400483ccf5d4c8e0bbef97bcb8f7d1c9d870d9c30d26b60b515b2f004b998",
+    "07f661faa40c6881f9f48e78034582156d7d7fa63f061957d8d3faa7e02c60d4",
+    "98db7594775e83cff046627b045999408e400b18c1307e68c7a7c14b9bac19c5",
+    "b077a5a7b470016f2518f5ce6f53016528187ed986697b14285181f536479832",
+    "c5fcee879cec8eaa23ec1453b283c66ce6b4aa778264103dd40132253ed9e46e",
+    "8833d919a322e8b0b26652ab86f5e567cf7305788b171c77bf704eae505babff",
+    "67b5defef32ce8fccfe9b83e2e52a0c71a14ce928b5dbea01898b1744e37354d",
+    "5a8eac23806df6888e20bee679b73db3978fbe0d8e7fcd8eba348317f5e32220"
   ],
   "recent_sent_articles": [
-    {
-      "source": "디지털데일리",
-      "title_en": "홈플러스 인수의향서 접수…마트노조, 농성 중단하고 인수 협력",
-      "title_ko": "홈플러스 인수의향서 접수…마트노조, 농성 중단하고 인수 협력",
-      "url": "https://www.ddaily.co.kr/page/view/2026112612062340469",
-      "ts": 1795665188
-    },
-    {
-      "source": "한국경제",
-      "title_en": "[단독] 자기자본 1000억 규제 땐 코인원·디지털엑스 인가 '비상' [디지털자산법 대해부①]",
-      "title_ko": "[단독] 자기자본 1000억 규제 땐 코인원·디지털엑스 인가 '비상' [디지털자산법 대해부①]",
-      "url": "https://www.hankyung.com/article/202611261838i",
-      "ts": 1795665341
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "동화약품 베트남 약국의 변신…'뷰티 파머시' 첫날 매출 껑충",
-      "title_ko": "동화약품 베트남 약국의 변신…'뷰티 파머시' 첫날 매출 껑충",
-      "url": "https://www.news1.kr/bio/pharmaceutical-bio/6366990",
-      "ts": 1795665343
-    },
-    {
-      "source": "한국경제",
-      "title_en": "통화정책방향 기자간담회 하는 한국은행 총재",
-      "title_ko": "통화정책방향 기자간담회 하는 한국은행 총재",
-      "url": "https://www.hankyung.com/article/202611262079i",
-      "ts": 1795665345
-    },
-    {
-      "source": "지디넷코리아",
-      "title_en": "신현송 한은 총재, 추가 금리인상 시사…\"물가 안정 확신 들 때까지\"",
-      "title_ko": "신현송 한은 총재, 추가 금리인상 시사…\"물가 안정 확신 들 때까지\"",
-      "url": "https://zdnet.co.kr/view/?no=20261126125222",
-      "ts": 1795665350
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "THAILAND’S CURRENCY LEVELS REMAIN MANAGEABLE AND CONTINUE TO BENEFIT EXPORTS, CENTRAL BANK CHIEF SAYS",
-      "title_ko": "태국의 통화 수준은 여전히 ​​관리 가능하며 계속해서 수출에 이익이 된다고 중앙은행 총재가 전해",
-      "url": "https://t.me/marketfeed/1085666",
-      "ts": 1795665501
-    },
-    {
-      "source": "딜사이트",
-      "title_en": "S&P, 엔비디아 신용등급 하향 검토…韓 반도체 긴장",
-      "title_ko": "S&P, 엔비디아 신용등급 하향 검토…韓 반도체 긴장",
-      "url": "https://dealsite.co.kr/articles/173555",
-      "ts": 1795665649
-    },
-    {
-      "source": "딜사이트",
-      "title_en": "HLB \"생명과학 합병, 신약 상업화 시너지 극대화 목적\"",
-      "title_ko": "HLB \"생명과학 합병, 신약 상업화 시너지 극대화 목적\"",
-      "url": "https://dealsite.co.kr/articles/173577",
-      "ts": 1795665652
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "How new US export controls and fragile trade truces triggered sell-off in China's domestic GPU sector",
-      "title_ko": "미국의 새로운 수출 통제와 취약한 무역 휴전이 중국 국내 GPU 부문의 매도를 촉발한 방법",
-      "url": "https://www.digitimes.com/news/a20261126VL212/us-china-trade-war-gpu-supply-chain-demand-2026.html",
-      "ts": 1795665813
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Sanan Optoelectronics' new chief inherits a swing to loss, 68% share slump",
-      "title_ko": "Sanan Optoelectronics의 새 대표는 적자 전환, 68%의 주가 폭락을 이어받았습니다",
-      "url": "https://www.digitimes.com/news/a20261126VL213/sanan-optoelectronics-loss-chairman-2026-sina.html",
-      "ts": 1795665817
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "한은, 추가 금리 인상 가이던스서 '속도' 삭제(종합)",
-      "title_ko": "한은, 추가 금리 인상 가이던스서 '속도' 삭제(종합)",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446727",
-      "ts": 1795665968
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "BOE eyes Visionox takeover as CNY4.6 billion funding crunch looms",
-      "title_ko": "BOE는 46억 위안의 자금난이 예상됨에 따라 Visionox 인수를 주시하고 있어",
-      "url": "https://www.digitimes.com/news/a20261125PD231/visionox-boe-display-takeover-government.html",
-      "ts": 1795665972
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "[표] 은행간 단기금리 기준-코리보(26일)",
-      "title_ko": "[표] 은행간 단기금리 기준-코리보(26일)",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446733",
-      "ts": 1795665975
-    },
     {
       "source": "디일렉",
       "title_en": "나무가, 자사주 37만주 소각…50억 규모",
@@ -11504,6 +11413,97 @@
       "title_ko": "영란은행(BoE): 추가적인 자본 변화는 안정성을 약화시킬 것입니다",
       "url": "https://wallstreetcn.com/livenews/3206383",
       "ts": 1795689057
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "PROPOSED CHANGES GIVE 30BPS CAPITAL CUT TO UK BANKS",
+      "title_ko": "제안된 변경 사항으로 인해 영국 은행에 30BPS 자본금이 삭감되었습니다",
+      "url": "https://t.me/marketfeed/1085822",
+      "ts": 1795689147
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BOE TO CONSULT ON CUTTING CAPITAL FOR DOMESTIC LENDING",
+      "title_ko": "영란은행(BOE), 국내 대출 자본 규제 완화 방안 협의 착수",
+      "url": "https://t.me/marketfeed/1085823",
+      "ts": 1795689150
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BOE: HEDGE FUND SELLOFF CONTRIBUTED TO FRENCH YIELD RISE",
+      "title_ko": "BOE: 헤지펀드 매각이 프랑스 수익률 상승에 기여",
+      "url": "https://t.me/marketfeed/1085824",
+      "ts": 1795689159
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BOE: RECENT AI INCIDENTS SHOW PROMINENT THREAT TO FIN STABILITY",
+      "title_ko": "영란은행(BOE): 최근 AI 관련 사고, 금융 안정성 위협 요인으로 부상",
+      "url": "https://t.me/marketfeed/1085825",
+      "ts": 1795689161
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BOE MAINTAINS COUNTERCYCLICAL BUFFER AT 2%",
+      "title_ko": "BOE는 2%의 반환완충을 유지합니다",
+      "url": "https://t.me/marketfeed/1085826",
+      "ts": 1795689170
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "BoE: Households and firms resilient, banking system strong",
+      "title_ko": "영란은행(BoE): 가계·기업 회복력 충분, 은행 시스템 건전성 견고",
+      "url": "https://www.financialjuice.com/News/9869236/BoE-Households-and-firms-resilient-banking-system-strong.aspx?xy=rss",
+      "ts": 1795689179
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BOE FINANCIAL STABILITY REPORT - NOVEMBER 2026",
+      "title_ko": "영국 중앙은행(BOE), 2026년 11월 금융안정보고서 발표",
+      "url": "https://t.me/marketfeed/1085827",
+      "ts": 1795689182
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "BoE: Quantum-resistant cryptography is an immediate priority",
+      "title_ko": "BoE: 양자 저항 암호화가 최우선 과제입니다",
+      "url": "https://www.financialjuice.com/News/9869245/BoE-Quantum-resistant-cryptography-is-an-immediate-priority.aspx?xy=rss",
+      "ts": 1795689190
+    },
+    {
+      "source": "로봇신문",
+      "title_en": "日 블랙AI, 풀스택 휴머노이드 로봇 개발 본격화…시드 투자 유치",
+      "title_ko": "日 블랙AI, 풀스택 휴머노이드 로봇 개발 본격화…시드 투자 유치",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=49828",
+      "ts": 1795689212
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Ares Funds $1.3 Billion Debt for Buyout of Windshield Firm Cary",
+      "title_ko": "아레스, 자동차 유리 업체 캐리(Cary) 인수 위해 13억 달러 규모 부채 조달",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/ares-funds-1-3-billion-debt-for-buyout-of-windshield-firm-cary",
+      "ts": 1795689214
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Thanksgiving Travel Outlook Shifts as More Americans Consider Last-Minute Road Trips Amid Falling Gas Pri",
+      "title_ko": "휘발유 가격 하락으로 인해 더 많은 미국인들이 막바지 자동차 여행을 고려함에 따라 추수감사절 여행 전망이 바뀌고 있어",
+      "url": "https://www.benzinga.com/news/travel/26/11/63661135/thanksgiving-travel-outlook-shifts-as-more-americans-consider-last-minute-road-trips-amid-falling-gas-prices-expert-says",
+      "ts": 1795689224
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Trump to Attend TSMC Arizona Chip Foundry Groundbreaking - Apple (NASDAQ:AAPL), Taiwan Semiconductor (NYS",
+      "title_ko": "트럼프, TSMC 애리조나 칩 파운드리 착공식 참석 - Apple(NASDAQ:AAPL), Taiwan Semiconductor(NYS)",
+      "url": "https://www.benzinga.com/markets/macro-economic-events/26/11/63661243/tsmc-arizona-chip-foundry-groundbreaking-trump-december-4",
+      "ts": 1795689232
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "TSMC’s $22.6 billion Texas plan wouldn’t make 2nm-or-better chips until 2031",
+      "title_ko": "TSMC의 226억 달러 규모 텍사스 계획은 2031년까지 2nm 이상의 칩을 만들지 못할 것입니다",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-files-for-usd22-6-billion-texas-fab-campus-with-local-tax-breaks-just-one-county-over-from-musks-terafab-proposed-brazos-county-plant-wont-make-2nm-class-chips-until-2031",
+      "ts": 1795689241
     }
   ]
 }
