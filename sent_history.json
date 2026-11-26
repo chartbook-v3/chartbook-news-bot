@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795703283,
+  "updated_at": 1795703449,
   "id_hashes": [
-    "c387c828b428e4ed7bb36b157336e74010678d64bfc51afb5164d9619b9e3338",
-    "b9267ceda9585ad1c26bd266e46aa86d4b03b7d18281741bb849d60d01228028",
-    "37726d30ef3a92af2ed408ec998e58d9acc2a63b26acd31cee704480951d42f2",
-    "54ce146f59f37b6c903e6aea8b0e262256f2afc2abb3c9bc7de7bf835b789e6f",
-    "6657290d0af47432a8c37f96b28c6e9e41360cc1ff4e146ed1b82f6775bba044",
-    "d7ad266fac7ea041df4f0f0cd495a87abbfa51de2ad489802c4d4bb5a0e89358",
     "38f258803adda8c9cca2915774ecf1f8f47ce68277b2f03713f0f8aa99f8837e",
     "d67b744bb3c3ab367900db5f025eacb2b1ed35824c73e1965eee4c0ad9a7aeaa",
     "8cbe3c74a9a145057d5756d2ece145e14eda4936b5f1f74f45484fb5ddc74876",
@@ -4000,15 +3994,15 @@
     "bdc4e14c41440ced795b8525d1db5981b50a6995815d111315f201528091fb7b",
     "0a3fe82b4c126d82588a392600891ae98063a4b4f3824cddf308af82edcf3571",
     "334753270776b5ee4103e85fd730f87f5b652ca935ea88a332eb756bb5e8a07f",
-    "29776b7f0a84fb7080a2fd7bf771e8a7a76a8e4853bb675c92c8a86de7bb9633"
+    "29776b7f0a84fb7080a2fd7bf771e8a7a76a8e4853bb675c92c8a86de7bb9633",
+    "cc4d9f187fd5c0552e872618cf6795fc10e68765aae6e134d035a505bef79097",
+    "41c11b2114a0599b98d0243e29fa75ceaaadd48ebbd7691187254668b8292d83",
+    "c42c2e6b9671c390fbc8ec872c3ad240e188947e199d1a5d3b5f5f6f86cc4115",
+    "7e565cb89694a32495dbb1f9cdc9efd0f614ea49bd606e897bb51330b017b46a",
+    "759f7232759f5502fb41ca8c22105b850a56c9b7071e450cd84558fef559a593",
+    "d5af353cb8880a3a01ccfcb98cfbf1e281919603bccdd7918319dccb1727d411"
   ],
   "title_hashes": [
-    "cc01a724427bb09f2b2da167cc60f6b9b7431deb8fc9a11f358db46c66ee85b0",
-    "58bdeb5d9ab302f15c3afb9fe5516d6b63bdac2ce2982badb81e1d0e6daa1436",
-    "a8099feca8413ea6a4d5853ebc64b9fe2b6944a7b0f158e38440a30b2bd38099",
-    "cc960b15343725c6744eb709c648a7e44e252381c5714ef4cb4c0ab9ba8bf5d0",
-    "32ff5bd7d50d64f7e62a9bb304fdc696464175aea4a4192dab8076c4f001c4a1",
-    "0edb217e8ceb93591e4e1ff612c6e446157079d20f510761a787883f7b575a94",
     "c2bfcfb01e2c996c3a176761d14e5211419ad1ad226a16a82d520881b9286e80",
     "e34a425f86745e3838616eaf1904afbdb1ad6aecadc37ffcbd30819b0ef8ca9f",
     "b435713b238607c00d36040f1d822e7c3d32c8cea23f0c9c58b53a7b49e86872",
@@ -8002,23 +7996,15 @@
     "e8d4098fa17af29b26c17973f839632f82b23472c96aa922a86c012bf0ef4457",
     "f19ef28af93db840755acefe25c430f34a0127e15a3a355efaf2b5359615bdb6",
     "796b62ba8619476084f4cd58c2b7dcfb4aa0f80428f674153d3ab8764a587235",
-    "a44b184c2577c8276fa74268cb330ff4c10ecb1931f9f27ce646cdde123ab984"
+    "a44b184c2577c8276fa74268cb330ff4c10ecb1931f9f27ce646cdde123ab984",
+    "2c65e8bf9f65a0cde034f37aa458da4c0e1ff200ca9deae6dd15007c1036a4dd",
+    "423615ac8b27ab4e5d0e6710ced88c93a623acedc2f4190369074a58a4fc3b56",
+    "57fb366c9d3532e7b0c10a882f67581f94bd507e2d2e1005cd35fbf5fdb17bf4",
+    "ec9be6d3f5ecdd35e7e07b5ee07a9d4b34186dde4792648a3a0a31e2a3cad473",
+    "04cb150ce55a2616fc707ea3a3859c538432869fe695d31e958a7e8a3efe2421",
+    "4298667d20ab9c174f200764bfa4b9b23e7506c520d80013da1df80298496a8f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "STOCKS RISE AS AI TRADE REBOUNDS - ASIA MARKET WRAP",
-      "title_ko": "AI 거래 반등으로 주가 상승 - 아시아 시장 랩",
-      "url": "https://t.me/marketfeed/1085714",
-      "ts": 1795675564
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "In-depth: Shanghai party chief probe tests playbook that landed SMIC and Tesla",
-      "title_ko": "심층: 상하이 당 수석 조사관은 SMIC와 Tesla를 상륙시킨 플레이북을 테스트합니다",
-      "url": "https://www.digitimes.com/news/a20261126PD207/shanghai-tesla-smic-investment-investigation.html?chid=10",
-      "ts": 1795675690
-    },
     {
       "source": "DigiTimes",
       "title_en": "Huang is back in Nvidia, but Washington's chip squeeze on China is only tightening",
@@ -11504,6 +11490,20 @@
       "title_ko": "멕시코 대통령, 미국 대사와 회담…스페이스X 프로젝트 논의 착수",
       "url": "https://wallstreetcn.com/livenews/3206502",
       "ts": 1795703158
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "TRUMP SAYS Q3 GDP REVISED TO 4.3% FROM 3.4%, SEEKS IMMEDIATE INVESTIGATION - TSL",
+      "title_ko": "트럼프 \"3분기 GDP 3.4%에서 4.3%로 상향 조정, 즉각적인 조사 착수 요구\"",
+      "url": "https://t.me/marketfeed/1085935",
+      "ts": 1795703441
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "四大商业银行已与上市公司签订股票回购增持贷款合同超6000亿元",
+      "title_ko": "중국 4대 국유은행, 상장사 대상 자사주 매입·지분 확대 대출 계약 6000억 위안 돌파",
+      "url": "https://wallstreetcn.com/livenews/3206503",
+      "ts": 1795703448
     }
   ]
 }
