@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795711051,
+  "updated_at": 1795711199,
   "id_hashes": [
-    "4eb7852f06f1e6a952c91bf60dd8328943020fa74e632f4a36bc9a893ea4d98d",
-    "d152e57d7c467321c1a9ff1699b4e7bf06449a253e3620b29a55f5179688a7d4",
-    "1800d4411942a4b96e8d6902f1070bcb0e5da17e6add751a298a9463cf7fba04",
-    "a6fcfee64376a6c123f676d6fda2f70958c430a21c234c7a9e96dfc668706b67",
-    "6bed97bfda7acba0618ede489958cfe99f136d208c6600e258d65a3ca23e2b8b",
     "c1c5d1a51207815024dfa7b4caa105d728cf908a4eddf525aa6f68f5d6cd1d00",
     "34f2d6b3444353c0e25da2fd65bd6a423639f1095d7be7386220be1861826781",
     "ff20fd6bd86902767f943445ac64309d65ada526440e6effee704d572c72c239",
@@ -4000,14 +3995,14 @@
     "bbf61241a90bba593c34936b4b1c329158dea0d436a702760637e7ea2b7db44c",
     "d77348f11814633d4952c7b10d51942aa470e9f4664e0614e9d35805cb33866e",
     "7f371bae7c16fa7c4ef44c4ade5b133fa0aa6e7f772f01ec59e72ac4a3b8e21e",
-    "1f2bd1812c08ef63b689cf51916a1ce171778b0839d2bfe07ef7243846f165e8"
+    "1f2bd1812c08ef63b689cf51916a1ce171778b0839d2bfe07ef7243846f165e8",
+    "6f534419ebd4f3d30d44b41b2f7af7d654179c11866bfb2f319ebab105b47503",
+    "8e29763d097ab11fdae300f93e7e9ff88cf29f77de262da0193af3bbcb0a6d1a",
+    "70ad68e821cc2f6f5249f27f1af81d76926949beb5bdf6e7776f5d581776c24a",
+    "886615a0ac3d868cc752b97fd2579938f47ec5760a6f66a524bfa11751ddb096",
+    "03d59d113069d2ec44ed9eeead2bc6aadfa4d8de647e546f88994e0016d59698"
   ],
   "title_hashes": [
-    "117394ffe0ffdcb3bf189736df00b5f9c073949acde5e7783f8cb305ae56ba05",
-    "d151d310736fbebc6b1ae22fb3317beb577a04c59c31fe573d714ee56e45c10e",
-    "d3e82f40f87769ec45bc1411b8751ba2325bb518f80ed729a16b89b060dd6f5c",
-    "6e0ebcd03ddaaff1f5abc800ec4f4d571332959473b0406df1bc4b306479e826",
-    "48098c6e7d49ab0afe47cd91888088ad004eb598fd7927fc8cfca1cb661f3d84",
     "aac28337aea537eec68003f567eb62c6eec51738ce878484b1cd11197845a048",
     "50101becc3b4cf6de406f16321528a9908cd0a2cf0bcc3f9fc04dd57fed1cb3e",
     "1da55f019fc342c064ccae1fb9dcf44780881576987e6fc2833464111cf7117e",
@@ -8002,16 +7997,14 @@
     "eba9303f5b58a3342b5df1605fd401c3fcf5165fb27ccba6af4d3367d46fec07",
     "03a38f6f4f86ed8c92b6cb1e8066fe77086af4499bc1f182ff38a6aeb3fe9cb0",
     "0e977390082602fde6eddad4b19617847ee25714a762384bb16cc0d5808bfb3f",
-    "0f91345520585cfba79d080091387c78e823ecae5a871b1c905d21b0ca760c9e"
+    "0f91345520585cfba79d080091387c78e823ecae5a871b1c905d21b0ca760c9e",
+    "0d0141f3464dc336ba65c63d90c65ce533f18c969c4a4da354b2348062b06513",
+    "c88edbda9ad9ba5df25c13ab1ad165f2663d43c0fe2a59e3bf87f4586fbd2389",
+    "4446d3ad72772e914c612e595687a93c4d286f72691ffc742f330b95489cccb1",
+    "282b563c10177c1efd8b0cfeaf76f1dee9cece9d0fd71cb097648805cb4e5231",
+    "612f91719689b7ca4d0e9440f449e4611740723b61aef48be3bbf95872948bfc"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Reuters",
-      "title_en": "Britain signs £8 billion deal to upgrade submarine facilities",
-      "title_ko": "영국, 잠수함 시설 업그레이드를 위해 80억 파운드 규모 계약 체결",
-      "url": "https://www.reuters.com/business/aerospace-defense/babcock-wins-record-87-billion-uk-submarine-services-contract-2026-11-26/",
-      "ts": 1795678925
-    },
     {
       "source": "뉴스1",
       "title_en": "에코프로, 취약계층 전달 김장 나눔 봉사활동",
@@ -11504,6 +11497,13 @@
       "title_ko": "젠슨 황, 데니스(Denny’s) 명판 복귀하며 건재함 과시",
       "url": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
       "ts": 1795710924
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "联合国贸发会议报告：2026年全球海运贸易量预计零增长",
+      "title_ko": "UN 무역개발회의: 2026년 글로벌 해운 물동량 제로 성장 전망",
+      "url": "https://wallstreetcn.com/livenews/3206557",
+      "ts": 1795711139
     }
   ]
 }
