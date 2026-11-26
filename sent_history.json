@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795695143,
+  "updated_at": 1795695302,
   "id_hashes": [
-    "8c78242e420cc9ee57d37c69c16aa7bf7c1abb6632bf253b8f3156dcd7de042b",
-    "c311ca7732d8ae760eedfa51c9d5ee4b46ba4d4ed9436c13e439d2dbbe615f7a",
-    "5fd3d4a3904bd020e8f3709774d113c4164b0f11ab4aaecbc61c8119cae8dfc1",
-    "2bf0e825fbd7384c25bfc29040c30822c5bf2a117e23e63abda1a81b11c85047",
-    "339bb81990bafb5eb30c7b318e8a274d83ee6277c55a2c66c7688745f47b75a1",
-    "e3d0dea8c01ccdf681c34e0ecf82da4a591c6a6c17424eddc9b83d6594d9ebfe",
     "5b81c2d9b9e515df84bf44859c3896b10d93c8272e694331ac4644ecccb218a2",
     "14efe9a1701453268b8c222703178e774150af419e6bf66a0f9d4ac9538ed905",
     "2a35996dfeee04202f8754c81b2e335cdb1ca5981cccc5214cacb509e85a817e",
@@ -4000,15 +3994,15 @@
     "555cd871aa965bc874197a42b27deba23f0c2ee11afa85f44d51dac5719b35f8",
     "7b6d981cf4372e8279e39a0f56bb0b34d193e453927f45063fa77d23b9cfec02",
     "b00fb8b84c671716f95790f14bc96f61115397b1cbd1f4632ba532adedf29132",
-    "eeb2e9b2cbecc86e6ac781c73892f81cf90d048012e5d3529e7f7a0abf1a2e41"
+    "eeb2e9b2cbecc86e6ac781c73892f81cf90d048012e5d3529e7f7a0abf1a2e41",
+    "8465c140182da5181d496bfecd6076f8ce43c7b7f0ab4df2842ae3f323e2cfeb",
+    "e0a42a1ea83e5d4b2efb862df71d64ba28c059e4c0e86a29c31955e98d69c8b0",
+    "369482ca85551fa80501718e2d34161a75ca646fee35fd644531616b024daf01",
+    "d86d7edde0651578abb88ad5c6de0d6d4395fe9df2bf513753d7248fd6ebb566",
+    "02fe987c4e976545a4cf9ee216915fb7a1bcfa59bb076cabe288ea28c2c81e3b",
+    "41a81f3a4a164dc8aa5c74b026a68dc5d4c1e43fe51737c2232e180a0113c955"
   ],
   "title_hashes": [
-    "9d02f0c74b8ff81cb44769731d15833a200b080acb4e63eb8ea8502a2f813148",
-    "e195358d10c7a76de320e0cb81489450fbe775571c8c127752ab13291195310b",
-    "5df07bace6796c06ffa22f2f124adf6f776a8e68a32874e6b5ee7356f8c156a3",
-    "3e5052dd0999729f88e4097228b3bcc74d0f4a5cfb5ca575450cbc998d3954f6",
-    "e4f74662d48bb9e90a9c8a06e3ce9c2b16099bde503c4b8d1541ac9b1f9aae57",
-    "372572c9d8c41d867f06f0861e8781bcf8027d534fb8cb3272daaaa90a7b9777",
     "e7bc7c0f1c00ca1c010b0b6aa7e459ce1c763282fea771d6122bff64c76e2515",
     "70b80363a7bc49cd810eeb5e2b10117b71e1cd907fd0553b16e24ed24190716c",
     "2f7403189a968faef5722cf0d411b641ad20f0f441516ccde68592982e313abc",
@@ -8002,23 +7996,15 @@
     "785e051381203f4c5e9a8f53bb3b95eba7688ad315b094f3dfa98f854a9c70bf",
     "9e511819ab3936730a76bf3d45c91815f9c20300004df3e3ff3cee57d0f7cac8",
     "e4d363f48e3227d3b84098e88bb62dd2bf1352ac9d89416207319806652053f1",
-    "23bcdd15e75f14b972a80653d57fd3124b333d95bcd4663e7837d2dc8c70345b"
+    "23bcdd15e75f14b972a80653d57fd3124b333d95bcd4663e7837d2dc8c70345b",
+    "22b8e85e838f43dc00cf6d1dc2f6538f3e794e45cfb7e446ade34ec15a64aacf",
+    "839f3d6c8a080b0afbcc437474b7a1ffe105da41edc059668ed22ab715e95161",
+    "2b37b6cc3abc51e2cdff7274d785732edea15b883d5f6745e0fbc0250538b78c",
+    "3b3c24699ca32d29393c15dce482e86d53a184152ac7abaa9b200fdfb57edfc4",
+    "9acf8feffcde27d2625175847efc92561323b5cd99cf7322601ef8d8796d2fad",
+    "acefd225c3b2fc2dc2bedb8515df0b1b9ca90a2ae944ff0883a27d3edfaca9e9"
   ],
   "recent_sent_articles": [
-    {
-      "source": "프라임경제",
-      "title_en": "유캐스트, 한화시스템 방산 개발과제 4건 수주…국방통신 사업 확대 가속",
-      "title_ko": "유캐스트, 한화시스템 방산 개발과제 4건 수주…국방통신 사업 확대 가속",
-      "url": "https://m.newsprime.co.kr/section_view.html?no=756651&menu=index",
-      "ts": 1795670600
-    },
-    {
-      "source": "지디넷코리아",
-      "title_en": "[단독] 코인 발행 허용하되 책임 강화…허위 백서 눈감은 변호사도 처벌",
-      "title_ko": "[단독] 코인 발행 허용하되 책임 강화…허위 백서 눈감은 변호사도 처벌",
-      "url": "https://zdnet.co.kr/view/?no=20261126142044",
-      "ts": 1795670603
-    },
     {
       "source": "MarketFeed",
       "title_en": "BOJ MAY NEED TO SPEED UP RATE HIKES IF HOUSEHOLD AND CORPORATE INFLATION EXPECTATIONS RISE FURTHER, TAMURA SAYS",
@@ -11504,6 +11490,20 @@
       "title_ko": "일본 담배(JT), 임페리얼 브랜드 인수 검토 착수",
       "url": "https://t.me/marketfeed/1085873",
       "ts": 1795694994
+    },
+    {
+      "source": "TrendForce",
+      "title_en": "FC-BGA Equipment Lead Times Reportedly Jump Fivefold to 30 Months amid Surging AI Substrate Demand",
+      "title_ko": "AI 기판 수요 급증에 FC-BGA 장비 리드타임 30개월로 5배 급증",
+      "url": "https://www.trendforce.com/news/2026/11/26/news-fc-bga-equipment-lead-times-reportedly-jump-fivefold-to-30-months-amid-surging-ai-substrate-demand/",
+      "ts": 1795695296
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Vvardis Holding Earnings & Forecasts",
+      "title_ko": "바디스 홀딩(Vvardis Holding), 실적 및 가이던스 발표",
+      "url": "https://www.benzinga.com/quote/VVVV/earnings-forecasts",
+      "ts": 1795695299
     }
   ]
 }
