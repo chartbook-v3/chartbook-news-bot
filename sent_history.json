@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795715883,
+  "updated_at": 1795716044,
   "id_hashes": [
-    "f594874ae26ff77e919049a4ec92ff5f00376f2bbcc9dc63ef320c0be7767062",
-    "f413ad82016cb1f71d5cd6bbeffe6468db11287873945841bd99cd72d7ed5c46",
-    "dbfea925923a930784daad6b195467ddc31cfa88fa05a29d77d2386d10c97c11",
-    "0cb68ea68560c324f7d342baa0994c69eeb4ead8e161594557cdb3d29cd8fdae",
-    "7b7ae735f27c990e5acf22367de9cabf48845dd4cd5981576de4bda5d9d5079e",
-    "ab9f796f04ca8d03800af4c8dc9f5737d482e2dd37941e8846a1e73e7aeb313a",
-    "8fef926a429f2a21bc214d8dbfa8880458a9891000a25886d639600700d9114d",
     "553f5e53e628721e2e3a5e3a4cd3acc8a664ed104e0454636e6b67a152304b91",
     "0d13234afd5bb36ce91daed4a16dd5fefbf30622d6fa2c18941357b094f0f31e",
     "652d3adf3316ca5ee9581a7249e3f8d9740d8f35a3135259492823ff9d1a94d1",
@@ -4000,15 +3993,16 @@
     "abbbfa28eaea0fc215e7d9a2f94e9461b2b1ce180ff845a075703c2fd79eb99d",
     "88639fcf91405c2473e7421f313024840805ab83a3732ec7d06c02567d59e6f1",
     "78bb727e7d6b112dc036283706a02e2053d69d9f6109577f58a09dce58f20c43",
-    "1c80ec9a901a344902a2ce2821ffb75bca14fd2701f75aec6c3be69c104d65e6"
+    "1c80ec9a901a344902a2ce2821ffb75bca14fd2701f75aec6c3be69c104d65e6",
+    "484c7e6bf2ad9f2b61f9a3e4a3c9ca151553242906316f90cc5d8cd598d1e927",
+    "d5f73ba4b22ba402ec2e200bcc972cc8e4dfc011e0b0d5fdc8a46b6f889fe9fb",
+    "ad5abc902fbb9ab08023534ceb06d6cae5c457f0f551532b966eff1b8fef8e71",
+    "da51d0c25438914313d28f143681d3ececed1aa5dec76c0a445517250b0497fd",
+    "7baf5175ea879eeeab42e810d13648e24f7be643a897f11ce30c518d408d86f5",
+    "05bf42fd9d8061fed69b2d377373cbd17bbf9e5f6ea1c1c57c23a7eb9147c5f3",
+    "1928f53d6d999eb24d56f0bcb8ce0013f49b2a4b8da348b29f306f1025553965"
   ],
   "title_hashes": [
-    "b34a43bd18d5ee0e344b5059ee1478bba6e2b010e332f71a7ff4f2f63de15ee8",
-    "b43af8185337045c04c1175dbe603aac06731f691759df7eb4167ef1c85e7c67",
-    "2e6d22ee4c0b32342906df59460048d45a3f2bd467b3bbb588a9dc7d903f3090",
-    "a693d844a724b3e0ebd4d3402d3a9952368e260b8a7acf23f9fb05fd53f347dd",
-    "458efa4234674193a493ef3c89974f210f66ea385518c6817b4de09d1197ca45",
-    "7f11ccc785cb8f61e036a9b8d87ff4ad86ffa3f94b083e5c4670be02f6bd6455",
     "e59ea4bc1c95dc50e577d2ed41bf9eeb4937549ec3edf4a56dfe94f9dde96f15",
     "d98ed2c775a026fb51f30d52a1974462a92490da997e90d6f21729d9f2e57748",
     "a120a79f7e3e459e3b605df6f8415e7d9dc6fca5c26a211abbf29c50d7cc052c",
@@ -8002,23 +7996,15 @@
     "5a8d77621e3c51baa37aef7e7b32934f9843eacf6b0fda2c488567afbfe633df",
     "6719e29a38996e1d488da54bb96e5ea74105cdf7029482ca307ad0c76e686123",
     "05267db1e577afe8986337ffb0a2c9b94f5acfc9abf0f1f37007be91ec447243",
-    "aa7a6898d3bf76ce010a324a5a5d71c6206e98a80f6f17e6995a273434390820"
+    "aa7a6898d3bf76ce010a324a5a5d71c6206e98a80f6f17e6995a273434390820",
+    "e5dee1fafa40f2858f1e7531a414842ac85754a5bcc685fe32630e48738f76bb",
+    "1d84df0db09994abc92e92066d7e0f21d8935c7cea268cfd20b79a0f1cbd9e84",
+    "75fc021cb93875783519d132c9d6fa4eb41f1cc37fbf809e4135751799ac51d7",
+    "49e041d57327913978f6b2af4db7694fe2b06be9dde33146b2136b53f9f30bec",
+    "f24ef11ba9e3abd44fedcede01e03b9ab7b8e3814e738c5930fe98ee1094b6a2",
+    "203a69f66efdafbd93e21b1ff117f41a0bd40ff84763d3e8a4ca0b2cfb5fb1da"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "美媒爆料：五角大楼官员提议动用“战时法案”，施压英伟达",
-      "title_ko": "미국 언론은 뉴스를 전했습니다. 국방부 관계자는 엔비디아에 압력을 가하기 위해 \"전시법\"을 사용할 것을 제안",
-      "url": "https://wallstreetcn.com/livenews/3206231",
-      "ts": 1795679460
-    },
-    {
-      "source": "CNBC",
-      "title_en": "Taking on Starlink: Europe’s largest satellite factory opens in push to rival Musk",
-      "title_ko": "Starlink 인수: 경쟁사인 Musk를 상대로 유럽 최대 위성 공장 개장",
-      "url": "https://www.cnbc.com/2026/11/26/starlink-satellites-aerospacelab-factory-belgium.html",
-      "ts": 1795679525
-    },
     {
       "source": "연합뉴스",
       "title_en": "국고채 금리, 기준금리 인상·매파적 점도표에 상승(종합)",
@@ -11504,6 +11490,20 @@
       "title_ko": "증시 밸류에이션 2018년 수준 도달…야데니 \"경기 침체 없을 것\"",
       "url": "https://www.benzinga.com/markets/equities/26/11/63662867/stock-valuations-2018-levels-recession-yardeni-sp-500-correction",
       "ts": 1795715588
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "IMPERIAL BRANDS SAYS IT HAS NOT HAD ANY TALKS WITH ALTRIA OR A THIRD PARTY BUT WILL CONSIDER ANY PROPOSAL SHOULD ONE BE MADE, ADDING THAT IT HAS STRONG CONFIDENCE IN ITS STRATEGY AND TRADING",
+      "title_ko": "임페리얼 브랜드 \"알트리아 등과 매각 논의 사실무근, 제안 시 검토하겠으나 현 전략 및 실적 자신\"",
+      "url": "https://t.me/marketfeed/1085970",
+      "ts": 1795716041
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "IRAN'S FOREIGN MINISTER TO KUWAITI COUNTERPART: IRAN HAS NOTHING TO DO WITH ATTACK ON KUWAIT, WILLING TO TAKE PART IN INVESTIGATION – PHONE CALL",
+      "title_ko": "이란 외무장관, 쿠웨이트 외무장관과 통화서 \"쿠웨이트 공격과 무관, 조사 참여 의사\" 밝혀",
+      "url": "https://t.me/marketfeed/1085971",
+      "ts": 1795716043
     }
   ]
 }
