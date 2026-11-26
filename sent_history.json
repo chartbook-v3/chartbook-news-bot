@@ -1,17 +1,6 @@
 {
-  "updated_at": 1795665189,
+  "updated_at": 1795665351,
   "id_hashes": [
-    "7fab2ad9d724cbf051901d94b2d5b2b180715811c48eb26236bfd887ae7bd9b4",
-    "cc06f9e791d461bdacbcd2802ba51a6cf641418e1228cd507e0e5a66c5764410",
-    "30e2db1995b80fc2288f22bd315c63113f29b55e7ba0fcf1e07f7a4a877bb717",
-    "7f0a71fc794f99cdb31a45434fb185f6a1ddb18fdbf388a66fdb5efd172dd2f3",
-    "8ce30f279006c7f64cb07a7c0545db46c3f6c0cf49af851d1e9c23ecdb8561ba",
-    "523bc331ca957d7c08a41960af52cf7db3efc959abdc5215c6504f7ebd23d12d",
-    "5669bcffc3141736ec07f09037d5a6a24c66aefad41e2fa216e32f6697b64eae",
-    "5beaa469667084d418ff713766ca33a448fd9454a37f116c1a5739ccb1b9846f",
-    "526e7135682cc3c2e3cae1d6bf625fc250949b92f2e5e90b61b46eefaf1d82f5",
-    "cae34920a9774c655700bce89dc30b34d024dfe0ecc26368afc05e67ed4832a1",
-    "19dd8fd0c4b74ecffb5797c4b9faf4af2f6eacf09c161106f391bb77fbbc85d1",
     "7133d45ef105c307d6eb41728d3fe7eef742d3cc5109e7a77beb7fb22bd8ad29",
     "771323e92e69da6350bb965e60a78f697ebfd1118fc30e8ed0fc51d6ad994c70",
     "e7c4d2f8395e80af501d5717a0559835fc8b86fb403014ee71c19fb49ee347f9",
@@ -4000,18 +3989,20 @@
     "12b9a80ff41a27f8978748d567fdc546176086fc2fbd408eff75ce8e03e14e51",
     "4f9fe1bf7cafb06247d104200d78b7438473f2f19579dc7f72321d73757641ac",
     "d09e6a3cb197ee879cbb0ac22a05df6c1341765e49c59b3a53c67a2136b58db3",
-    "6f2684d76212dff468daf13cde19a5da6719a44d1b181cbefbdddb21dbf3a2ca"
+    "6f2684d76212dff468daf13cde19a5da6719a44d1b181cbefbdddb21dbf3a2ca",
+    "9eb59f026507d16c4e7fc0fd4f20e8337f716a078cf3633ce8d185a044a6e15f",
+    "3a17f75846347152c36d6219d7e5e64d0a2492e36333faf493e13f99f0aeb7c8",
+    "a7828406a7cd6a14aaf4356c2b5d3f81a129112a07194905870492f42e9480aa",
+    "1d90c913575514de04e519d35f42de94bf5c49cfbdc508dc088d28d6c5478b5e",
+    "6bc59addc8ea6eed621c8e399b599e5e94add0e6d26f6166f4356bbc27491411",
+    "7e664364e61fac6edfb05ab36350595b3a3525785e4e4ea479a1cb361e75582a",
+    "3a932bdca4ccb4c11ac6dbee40584fc462b0154254a7269c66bc1dea083f7257",
+    "76ca187242f30d636e50b1fe9775b1a633cd5b4b91a32e61805e15cd1c2941b2",
+    "1b2699dc85f5d267f2a23eea8a048e6bf9922302fc68e614d579a6ba64445e9f",
+    "c39f6d39e74db5b36606e34394ae1ac366a0a5c3bebf87302b7bde77d393a423",
+    "d94b1f97437c2a71a54fbdce8e6722f5b6e821b914ea1da3a1aea0afcc8153b3"
   ],
   "title_hashes": [
-    "a4d6ea45b1a894e49d48ba656d05e0e0fea34d4ffe8776e4ee650c3b31f29284",
-    "82553fd36de5ce3c79fb8441073d964213da325d04d5040f487f2e0c0a043b78",
-    "3161cf02075b202695781842b25585d6dbc5a2e48e53fa653a653a713e086b14",
-    "c57d2b360632df6e3fc02316227c52df2cf84dd7c66b31a270bb720c7dc62bfe",
-    "dc4f7eccd9cc790659f29cc07f04da6a579e113d1791d8ecfb7da9e94fccf095",
-    "970c12be3698571cea32b95735f786377e96ad7cd61c5a294e5f898f5e317ac2",
-    "886391b84e1a96fbdd8b746205c83e74481185af435159f78f371d9777f83c45",
-    "2e108f526967b9c9f8084c61c9472704a9cc23e024ef4a88becd3425aad17142",
-    "f5d346e1683de8b03e95e73d5b2b6ca4a12f2c4fc83a99c9d0e1bad3b02793f8",
     "daa74f51f5d775640842450d3bdf3fc2ac38d8069a45b8e2ff69c59aa5ac6c96",
     "175d27a884811f23d54f1e6451d590987544b77ca4e45e38a78e8673a2c8bc08",
     "b920a20b9d985c0f0268b2ebc4c48318b18e92e9000d5d4df9af383e3ab907ed",
@@ -8002,37 +7993,18 @@
     "de1390e8a04e98033051c4a7bb22f19a76316ca68a70fcc42cdff51294d05324",
     "3f70f65ca2480bb71ceec7ecdface59a42aa7b9608e2bc414d2cfabe60c12024",
     "5b0b3c0bbf1de0021da19ff98e001a1f8ee0b2a1e9c4300234b7107c2a65106f",
-    "cfc7f7cfffc4ff497c420402e6292b8ffc701961e5523901e42f431e7164e15b"
+    "cfc7f7cfffc4ff497c420402e6292b8ffc701961e5523901e42f431e7164e15b",
+    "9d00163673b5f5f42dcef2b51ae796c792a9ce84b9c2581c7acfdc62ea93d8c2",
+    "867877e10f9df45d86d9a3746e8c57b59626c57f3a7bddf02ac3345353a1477b",
+    "3ca02cb0903cfc6937576604bec5f238328be096c7948951195ec1fb1c55c4f4",
+    "a67df20062569498f6bcaf10f2b4af77bc4d987d9a6a3a2c356f81e8f8779d04",
+    "5acb1da9823044122ed2e89a4051120b6837cb84c96001b865ef9d782a4d2b06",
+    "5cb221e2c9731b8bec01841bbd95405dcd6100c97a08e53f18b26f988c9eedcb",
+    "3f768989428f7ad3063e5d1c52bd69b4b2480f43d5a46e927dc1f9553cc2317a",
+    "dae09efb93535c2fd7573df1029a597b7bb5f8eec32b712d6921ff3a4c3b7659",
+    "378f42201d9a2c526b0de461547d64e56493ede4064e783741a442d0a1a4543f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "美 물가·GDP 상승... 다음달 연준 추가 금리 인상 유력해져",
-      "title_ko": "美 물가·GDP 상승... 다음달 연준 추가 금리 인상 유력해져",
-      "url": "https://www.fnnews.com/news/202611260556576540",
-      "ts": 1795643004
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "LS Power Completes Acquisition of 4.4 GW Natural Gas Generation Assets from Constellation",
-      "title_ko": "LS파워, 컨스텔레이션으로부터 4.4GW 규모 천연가스 발전 자산 인수 완료",
-      "url": "https://www.streetinsider.com/PRNewswire/LS+Power+Completes+Acquisition+of+4.4+GW+Natural+Gas+Generation+Assets+from+Constellation/27403434.html",
-      "ts": 1795643008
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "美 반도체지수 0.65% 하락…엔비디아 3.91%·마이크론 4.67%↓",
-      "title_ko": "美 반도체지수 0.65% 하락…엔비디아 3.91%·마이크론 4.67%↓",
-      "url": "https://www.news1.kr/world/usa-canada/6366309",
-      "ts": 1795643312
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Oracle Bonds Yield 9% Amid Debt and Data-Center Concerns. Are They a Buy?",
-      "title_ko": "오라클 채권 수익률 9% 급등, 부채 및 데이터센터 우려 부각… 투자 매력은?",
-      "url": "https://www.barrons.com/articles/oracle-bonds-yield-stock-ai-data-center-496f7d6b",
-      "ts": 1795643315
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Vertex drops as FDA extends review of povetacicept for IgA nephropathy",
@@ -11504,6 +11476,34 @@
       "title_ko": "홈플러스 인수의향서 접수…마트노조, 농성 중단하고 인수 협력",
       "url": "https://www.ddaily.co.kr/page/view/2026112612062340469",
       "ts": 1795665188
+    },
+    {
+      "source": "한국경제",
+      "title_en": "[단독] 자기자본 1000억 규제 땐 코인원·디지털엑스 인가 '비상' [디지털자산법 대해부①]",
+      "title_ko": "[단독] 자기자본 1000억 규제 땐 코인원·디지털엑스 인가 '비상' [디지털자산법 대해부①]",
+      "url": "https://www.hankyung.com/article/202611261838i",
+      "ts": 1795665341
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "동화약품 베트남 약국의 변신…'뷰티 파머시' 첫날 매출 껑충",
+      "title_ko": "동화약품 베트남 약국의 변신…'뷰티 파머시' 첫날 매출 껑충",
+      "url": "https://www.news1.kr/bio/pharmaceutical-bio/6366990",
+      "ts": 1795665343
+    },
+    {
+      "source": "한국경제",
+      "title_en": "통화정책방향 기자간담회 하는 한국은행 총재",
+      "title_ko": "통화정책방향 기자간담회 하는 한국은행 총재",
+      "url": "https://www.hankyung.com/article/202611262079i",
+      "ts": 1795665345
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "신현송 한은 총재, 추가 금리인상 시사…\"물가 안정 확신 들 때까지\"",
+      "title_ko": "신현송 한은 총재, 추가 금리인상 시사…\"물가 안정 확신 들 때까지\"",
+      "url": "https://zdnet.co.kr/view/?no=20261126125222",
+      "ts": 1795665350
     }
   ]
 }
