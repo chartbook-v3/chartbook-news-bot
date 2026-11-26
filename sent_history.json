@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795664577,
+  "updated_at": 1795664731,
   "id_hashes": [
-    "b92e976c823704b9dd08c91be0b895e2d8768f92e2a14e3322c5224e89e53e75",
-    "8047135f468c60c59e0a1900598aaa591974b9b0f7f63f97bc43e5ff35451e4c",
-    "2d2634ecb6e3744560748ef80b0c4f2130111f487d8f28291d8ce395db71dcff",
-    "aca31400fc4deb34fd713399ce60f66e62f27a6a9950eeaedc4aa7e66029f145",
-    "3ff16801c2563a45d88347b8ac73e8be42903d56e37aec9a2d74def1242970e8",
-    "8a465a49981f5228f3ae65e094b78d1aa8e17422283c6f0bab393ea979fe259e",
-    "089b14c26e1f2817fd4b960bf720e55dfbe7ba349c66c8075b4615713a9b3786",
     "bfa23b07081cfddb474630ed3f7b2cd8122b181094f65f6042499be04e3f47a5",
     "500e03074c45a5ecb7102c3dd4e3c483047f361f425395063c9135f566c50c8f",
     "0616b639b8293cc0c02473359c46d94fc79b580b6c57af9bc3d73f20e3a41d52",
@@ -4000,14 +3993,16 @@
     "15e0500a732899601f6fe3e54c2c3946d4a29dc00ddbe62f98fbde2afcee256f",
     "8c4b8aa19a88ba8fe982990ef929d19439c60cba742a931a24b7a8833046f695",
     "765037186ccd8eef28f5aa690bcfdcc04438434d6243d00dfadf6d2d00cd0129",
-    "4c143f6671c89fd0a6682ebda3dc70667229f1fe9d20896cc9f43b78475d9295"
+    "4c143f6671c89fd0a6682ebda3dc70667229f1fe9d20896cc9f43b78475d9295",
+    "c3537f867bd196fcfd933140c7f1194a0fab143e1e3f18ba137d37d293c58ece",
+    "1f1440fba60363e628e92a2b1f3b26da5ef820bc570f7626593004ffdc43ab0b",
+    "ecb1fe8ba6d8bb6ff5a26f8f6fa12bc825fc793db0c03990514aca1b34ea3c0d",
+    "fb066334a3239b57cbf3388b23d87cde9c4ee464547cfcd40f32218bdaebaa2d",
+    "43099b9286303dfdd708a530167620224d65fbecd97c48589c1e580ea49d7160",
+    "df8abd203c24e1bb4314317266911fb72e4ccc7364fab0f80e263017c5992e87",
+    "5f5423abfb1f2ca568754a9ff36f2835df8f5e29e579ec5ccbc8062b2f044947"
   ],
   "title_hashes": [
-    "a64b18eaad70fa9965db7139915d00620e94f7b3feb0152e636071eb22d869cf",
-    "45f341eb27cd18f9001ee5a78256984389a61513808f48778a2d4c7f1dad561a",
-    "837d4896a3672fff0e4fb8ed4563e5b41ec0bbeddd935a61bebf6799490346d0",
-    "9fa2047957f465e8ed9543b1256fd51b7e0417353766bb82b484bd27b9c0ed64",
-    "a3aba1451c51f23e7246b27441ed1d57281f654a945713210459754f62ed0086",
     "b8c657c70acb7b43b5e8c588d9f8d1909b9037dd62c8fba11ae01002c8f06a00",
     "d4d811ffb038015aeb0d318f9c23f3241c3fdde6c77861b58b23b32ee35c6366",
     "912efbfd7f12f8b3d7c0bf411cc36d506ef500126764a32eed4517499a12a6c7",
@@ -8002,30 +7997,14 @@
     "3c0b721b087fcdb737cdac834bcbcab15841cea33d13f1b8d4b6161d0c6046d1",
     "b99b595072e20bbf4f2718c6dd34ebad07c81cb4c506a990b4b58ce463e5d04c",
     "2043efa71909cce4ff2ff6f258a67ae6e72d3bba37ab15ccd8d8e196612aa62a",
-    "4d8d52f65f1114cbb47f5802c7f7f930550a903e4b6b3eefda79ad6cc9d65cdd"
+    "4d8d52f65f1114cbb47f5802c7f7f930550a903e4b6b3eefda79ad6cc9d65cdd",
+    "e1f7abcb5b5cf29f917ddefb123133427880253ad719317ae32790701c6c1f52",
+    "8cadeaf43e2365e4a0826398cb1a02eb7231b397a2c57d5171418922fcb83cd4",
+    "8cbacb2509311cc429bbcbdd45490f365bfd5e9f0fe220d3140b15d847b8491a",
+    "e1b8696b0aa585cff28e3aa51067785648b3ad4d9bd4ec4ae8aedba5a973f778",
+    "fbb6d3a51d90e699a05d1299149c0fd3ad2aa40e231ef6c08b12461d93eb3040"
   ],
   "recent_sent_articles": [
-    {
-      "source": "StreetInsider",
-      "title_en": "Tempus AI secures $500M credit facility to fund Personalis acquisition",
-      "title_ko": "Tempus AI는 개인 인수 자금을 조달하기 위해 5억 달러의 신용 시설을 확보",
-      "url": "https://www.streetinsider.com/Corporate+News/Tempus+AI+secures+%24500M+credit+facility+to+fund+Personalis+acquisition/27403392.html",
-      "ts": 1795642702
-    },
-    {
-      "source": "AOL",
-      "title_en": "EXCLUSIVE: Donald Trump Accused of 'Acting Like Dictator' Over Nvidia Boss' Return",
-      "title_ko": "트럼프, 엔비디아 CEO 복귀 관련 '독재자처럼 행동한다' 비판 직면",
-      "url": "https://www.aol.com/articles/exclusive-donald-trump-accused-acting-202811000.html",
-      "ts": 1795642723
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Anthropic’s Stock Sparks Rare Divide Inside One Wall Street Firm",
-      "title_ko": "앤스로픽 주식, 월가 투자사 내부서 이례적 의견 대립 발생",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/anthropic-s-stock-sparks-rare-divide-inside-one-wall-street-firm",
-      "ts": 1795642785
-    },
     {
       "source": "뉴스1",
       "title_en": "SK하이닉스·中 창신메모리, 차세대 수직형 D램 기술 경쟁 '후끈'",
@@ -11504,6 +11483,27 @@
       "title_ko": "JETRO 조사에 따르면 중국 기업은 일본 기업에 대한 경쟁적 위협으로 떠오르고 있어",
       "url": "https://t.me/marketfeed/1085663",
       "ts": 1795664576
+    },
+    {
+      "source": "동행미디어 시대",
+      "title_en": "고흥 우주 발사체산업 거점 조성 본격화",
+      "title_ko": "고흥 우주 발사체산업 거점 조성 본격화",
+      "url": "https://www.sidae.com/article/2026112608453911496",
+      "ts": 1795664598
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "MUSK ANNOUNCES PLAN TO GIVE EVERY CHILD IN THE US TWO SPACEX SHARES, INCLUDING ONE FROM HIS OWN HOLDINGS",
+      "title_ko": "머스크, 미국 내 모든 아동에게 스페이스X 주식 2주 증여 계획 발표 (본인 보유분 1주 포함)",
+      "url": "https://t.me/marketfeed/1085664",
+      "ts": 1795664728
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "马斯克：美国每个孩子都将获得两股SpaceX股票。",
+      "title_ko": "머스크: 미국의 모든 어린이는 SpaceX 주식 2주를 받게 됩니다",
+      "url": "https://wallstreetcn.com/livenews/3206106",
+      "ts": 1795664730
     }
   ]
 }
