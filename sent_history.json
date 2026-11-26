@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795687804,
+  "updated_at": 1795687955,
   "id_hashes": [
-    "1d0f558b728fa02b889f60cbf98213c0e43985ea9f86cc42996f7b60530afa35",
-    "4a0c5dd7898e042a176ef077107b41db5313a99722c4f3f3013545695d60cdae",
-    "71eb2081d7f100118200e68c8e72eb9ba058ec6ddb13e7fe3b9319479b882862",
     "aa5b68d42ce878a44dc9242f0e9adc64916329f3ca4430355ef7f17da47ac083",
     "4e5abf7c7c73c08437fb1ed14413a49464d3011b003df5975437ce9d40d8b3d1",
     "643b9d2d7a03fb3d5d8dbcbedd5398320ad05f5dff863bdaa971d6988f36dbab",
@@ -4000,11 +3997,12 @@
     "f32253e1f6d935fb640c3c0fe08c96f4de40b792947bd3e4d1846bfd969016f5",
     "f5ef82b0c80ef69d7632b90f288c7566616b0ab32e04a4478562c1450ae63bd7",
     "6c75f79f5d2241e2789321d22f5e3f80be185b7e37d1b01248a18b41fbbd4c7d",
-    "411f0a7d803a4105c8bf057c4d1e02be43879626ba6cca224ae5de12488f8461"
+    "411f0a7d803a4105c8bf057c4d1e02be43879626ba6cca224ae5de12488f8461",
+    "14a2e05ec7560c4736e176bfde328ac67decf10f9eb38ba77b12e6f0d31b9839",
+    "c3161da52710ea1bcfa98f61781badca140ff6d64468cc3d472d24229e04a87a",
+    "5e70b403febdaeded4f869498cdf565015f7de513320112228ac7acdbce90fbd"
   ],
   "title_hashes": [
-    "397e770fe5ae996f4cfffde07582735a2dd3aef9dd2b8cf0ebf0e3279b5eb716",
-    "f892cd96cfb7b73957eec795c163333f15fdd9184632791ec828086ece8344b9",
     "e975a7a23a82cbcdfd3b02665cc708a0524cafdabf9079fe929ec525954379cf",
     "1285211516aab38af5143a1cb991b0b24b21f2c7a70c79fe27ec7b517166bcc6",
     "b1217fffd53879487b7c514b027f9685bf65b5b1e5770ad2f5daa3a90d555367",
@@ -8002,16 +8000,11 @@
     "ed8829cebe05c7fcdc928ecf796da7569e5d5e888ab2300a5adf7e62210d3adb",
     "bdeb95d169569a0619febe033730c93565b71bcef3b80f5016b46c1dcdc582b1",
     "ea39b92792708c6eb404df209768802eda1247137c2bd270227bf962b64ace18",
-    "009bcce95a4151b0d193284aba1eec29e8a8b829239ac2e2ceefecf2378b17f5"
+    "009bcce95a4151b0d193284aba1eec29e8a8b829239ac2e2ceefecf2378b17f5",
+    "dd594e32d4321189e19e2bb9ae4ab001db583e2b3215ce010ddbed2d20eeb9ef",
+    "0be7b5cfd77f740f30bc8d4676e026eecd029035a421189a0b89c058a72e555e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "한국경제",
-      "title_en": "서학 초고수들, 다시 반도체 반등에 베팅...칩 레버리지 ETF·마이크론 사들여",
-      "title_ko": "서학 초고수들, 다시 반도체 반등에 베팅...칩 레버리지 ETF·마이크론 사들여",
-      "url": "https://www.hankyung.com/article/202611261940i",
-      "ts": 1795664031
-    },
     {
       "source": "MarketFeed",
       "title_en": "US PRESIDENT TRUMP AND NATO SECRETARY GENERAL WARN RUSSIA AGAINST ESCALATING THE WAR",
@@ -11504,6 +11497,13 @@
       "title_ko": "이란, 호르무즈 해협서 유조선 2척 폭발 발생",
       "url": "https://wallstreetcn.com/livenews/3206363",
       "ts": 1795687803
+    },
+    {
+      "source": "Wccftech",
+      "title_en": "NVIDIA GeForce GPU Owners Can’t Catch A Break; Latest 621.40 Drivers Meant To Fix SSD Wear Now Causing Display Signal Loss And Black Screens",
+      "title_ko": "엔비디아, 지포스 621.40 드라이버 오류 발생…SSD 마모 수정 패치 후 화면 꺼짐 현상 보고",
+      "url": "https://wccftech.com/nvidia-geforce-621-40-drivers-ssd-wear-display-signal-loss-black-screens/",
+      "ts": 1795687954
     }
   ]
 }
