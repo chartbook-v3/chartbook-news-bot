@@ -1,29 +1,6 @@
 {
-  "updated_at": 1795662666,
+  "updated_at": 1795662831,
   "id_hashes": [
-    "c9ec712a14cdb88ef4a0bafa734cb06da43c9ed4ef048e691afdd95c9e2306e1",
-    "1ce1bab54318f697bfd92095955e546ee5219deeeac794da2f4c3e84177d925e",
-    "7a3051cd7b89ea33fe9d25f87100a16d4cf6523bf2ce2d9d2c952095ca95163d",
-    "822e4b3dfa19894351a269a6b10551cf23e8c0def861425ab1d4ff2c50410b74",
-    "d16cc65486c926c80e7561570e7ddfbb6b7083f43dd87be89f72b125ab03c680",
-    "3c4e9ab6c3907b4d0dc25f222624f2c4d99ee0b4c6c5e954c050f3b2a110b0d9",
-    "ba3fb1f54a47add1c4db647082d5de283610064b4e28a5118ea60297e238ef3c",
-    "6710338697100d8579afa97e43738e111785b0711f1fd540e245337313dfda19",
-    "27d2a5207299133060d6a6e447545b1714c93776d2cf253ea4eb539d071ec8fe",
-    "ba8488bffb5d95cd26efd664c41796f6afb66db54a817f15073d97355ad0f0f4",
-    "05f0f466063fe221496826dd349078b47a1765e3ed09154675bc012b5f05dc19",
-    "71a84349aa6929fac3eb7cbd31158848916f6c11081a5514e486a4edbd628749",
-    "42c92da3f5d3c897da28686497d15588bede10ebfb5f2e4c34554212cf20de8d",
-    "045af11f7ade1c755c4e1281a9680e8559f70aab3cc0877f302d2b868d1a9d2a",
-    "826465d103bf03a506b0b1e27016add3a5c99c5b75d66e9896218df079210370",
-    "77737c01ad8b41e8fdc0240c257693ca47025073b01824175d2b44a9d8e1657a",
-    "5ab3af11a85e6317f9628b6463b4aa1697a7151be37ad17183cad608da8cf535",
-    "b57bd3df647e50ddd98d49e5ec86be82ec94336da64f75126714b4b856a43d2e",
-    "d916577e0951eb0079dbf5ce32b9e28c501f9a2e51df24c800220979aa3b10f6",
-    "8978c914fd6fce896ab34fc1d4e486df257e693c8568d4f971f7eb49de3454a4",
-    "f56c32f8b12dfc0330c10cd5d333113ea56e40791f435e094a9a3b950519189c",
-    "90eca74ccccae539476cd467a76344606e660b5604adf2076a7b6eedb21908b3",
-    "874c643762bb5240c2928f7e340f6b3862a41981ab76e923cb8f79cc21229582",
     "dbb3cb025c5ff3440a16992da59e675eccba5e260c7732429121b377e3907721",
     "82c9088a781e5b1a217e6ef6a5479e4a212d5a8a51b47af1ebba7d72281c4a27",
     "7b10a6b371fe3d8ac202fbc38f7e1fdcb21bf123304843aab0c77db849dbd8c7",
@@ -4000,28 +3977,32 @@
     "327383a171e6d46607e7a7b75833e988da0ab8616856b631e8377a2ef1b31927",
     "988d9986e0fe54cbb2d61de3dbbe9b31f323e661eb1d047d5f8b3fe5563fccdb",
     "8fbdcf6aa2a6924dc5160ee131771225623288d5060c95d1c2b8886f1ee30c8c",
-    "e32b4ccfde83f1b8d2c6e7c9b6bf797a52ec289a59b198a2851778bf343963f9"
+    "e32b4ccfde83f1b8d2c6e7c9b6bf797a52ec289a59b198a2851778bf343963f9",
+    "c51bf0d91d41d7639f96a70b829c0b50860451507815058d8fd6d310b20869d0",
+    "4a4b630b50b8cf14487b3e89fcb65016caeedc23209a9f10dd73396762f0839e",
+    "188f914884d86595074f77e80c5ee763dd8bf411add3b435a4cc52e4825cc9ac",
+    "6178eebd6285276aeb0cf05d6ec14a587c19722d878c38b59e6aa56a4ee35b33",
+    "57f125600b17b716fc8ce0f8581b09eaed7aa428006a28ff66bb8b46a0e7a9e0",
+    "37a9cff005cac0201aea37e26f0ef519bea80f01e11ef0269b806cf5b8bd4a58",
+    "3bc7d5fddbbef5ca58aaf0a8661ebcd0c98955d55a994714d0ade6353e26b2d4",
+    "0ed9c7cc89a6378080fdbf9504aa2beba3994ca2c45481009d5964c98c874851",
+    "c6d95f4e49d2c0d572b3c2c2d445855fb5a1aff1bae6392de870cc1cfc636f64",
+    "3a40f043632ecdc364efb7f28e06b89bd91e173fe9c6d9c482e4d44956576cea",
+    "e0b9c238461a6beff3d08d474183d1977bdd381d58917ce345b2f9dc4951df6e",
+    "d8867b87a5c84998068f4c80e5ed0dc866c73ba9f114d6d695d1986b9d524e7b",
+    "ebaca2fb386bdba2b16b868fc5e62f4e9bdd4a19f14aa099bb8504c75b9d04be",
+    "605c1da8a1749d249b37ee8e1a7ea1e90b28d8d8c458c0b8fb580d44185bf348",
+    "7cf0d639731ae53ad854df76ae424ec86979def3bdc41d2bf7d9042b07b6473e",
+    "58bec05d28412285c5246e83f3b2b50d41b2e68415ef6433d7db4444b9410dbb",
+    "6d800f446a825bb84f02b52769682f81c0ae2da12e03ffead7adcf72565c5eda",
+    "0b3a85ef22ccff74e20d8517902acd623a2376c5254eeb82c25c6b5cee998e5d",
+    "0742cdee5ec4415e4698077217b3d0aab85529a20cd5acf4e16830074a97e48a",
+    "fbe4d90a1b0e74d6a9bd6d9e0a9533000eea2024c188e4279e932c48952dee1d",
+    "8875b16692d389aabd9b3fa7285b46eebf37cee1189d7b2817774448142f9914",
+    "48c775a8445441a3f623b74386d48361b1c959d2d4ef93d6f05d188d8e641ece",
+    "f60c43f837da9f17ba63950ad2fe8ca3dce1d0676e4bf66f53ddc191407f6a4b"
   ],
   "title_hashes": [
-    "c626f6880882660f738d2ad1855c9596816bc44001cb2eb88bf9623aba6ff49d",
-    "3a000928227a7d251987823012ef26b82457043c1a957fd69daa1526081b8e06",
-    "6583d6777ece063d6c5b7fb73a2c18818dc4c46ccb07e03f8db506866d75419f",
-    "0e764ca2a19d6af4e7298c582830d1ae285ed1ff724519231c503d694ea2da39",
-    "a73c5f259d8329840c036bf2e3b1c9a654069650938c0ee5e0122e38d8274a38",
-    "2fb5122de38c31a6e8e8476aca8c3e4f08f48f8417fe71a51ab15ade0276c8cd",
-    "908c3df19e9bfab99ecd06b5f3318545d52ec4d51bb758fc1d91338737b16269",
-    "838652aeec50ff61bd742795c30b99390d2e41df7889e19fceec68a56be1a928",
-    "2dbcda1175b8c1c67702028ffc2a53f1fd6b40689d87c75f9e1d40efc573889b",
-    "3757d7d3ff7380d06820e1ca5b57803c7ec1c27f4ac702d62dd95bb3e90982e3",
-    "fbe446b8e2a43cd09d5e4a7198ce05d5199ebfd0aaef9335064f0ce0d80b8b16",
-    "d1aaa4f88bf5813f488633e1c2cd59bff608608a7523325bb83b33934761dfce",
-    "70f7dff4203d5e5468557b9b1986e39b3ff7e9341ead00b463ce0b70bd233ccf",
-    "318310784e6cb628bf23d92c894e4b1595e6d1708f2f7a8e6101390c3e2390f2",
-    "edefec443fd4f8a9a8a0d8cc5993147cb8ab5b1d82871f036724a3ee93f61648",
-    "5c3a3ec2cf0c6cb7e93599d03eda92147cae9c67efdd3312c9f20bbe90ae53af",
-    "ab4efe32e345a8fbc27d231816e496865184b7233597383e33415734c2aaaeb6",
-    "85924531873c73fee0ba17b06dfdc01ec994ddf7d446fe89e9497d635a716616",
-    "439a6d91f2e79a621dec1ea01fa8a9500513fbb4dbe1cf0639a5b063a4081e03",
     "c5a270a8d20b9b76d58e4ec6374e1c6a508a7838632afc026c5e9b99e5936d93",
     "492ffd84ac931d3eeff811c464dd8ec343f2c0b5820789440bd222168aee3648",
     "e98928fdea42b77fbd0d22cae2f2165cf627903f466d4ecbe4e15bc660e1cfb6",
@@ -8002,72 +7983,28 @@
     "9540c22af8e06900f22aefabfbf14ca36ba660d0e48ebe7f17b4b9ab219f60e6",
     "08ea76451a8a7cd31103be5de3c6fbc3c490fa2e6f8487008be10c0f91cdac1b",
     "527f1b7e85619c97e2fa2f8e23fdfb3455407fce14bf36d9ac9ccddaed3fe3f0",
-    "685e1a90828a5f3c96bb1533804bbe8b4ebef562eaf91c54e58f3a4e4ad53877"
+    "685e1a90828a5f3c96bb1533804bbe8b4ebef562eaf91c54e58f3a4e4ad53877",
+    "9e794790a1640f96d84d2d4ae73907c81c13b94d3ac6066387ecbe0f43339dbf",
+    "5935e5ea076d82086e9a4b3edd4d7dd05f9981ebd243d705f8e2c5416b6bd535",
+    "8485c3bfd79362d13b60864878b04833a5af9b6bad75ae0b3c9af70208a21bbc",
+    "e0021e0048a9921714955b3fe42dde8d9e9635de8729abbde441aa5a880ddc73",
+    "8b505f3e7483a70b718ccf39297dadacd9907511802c2a81631e36cd4ff0960d",
+    "6dc40eb7f709d4b985931a97d1fec0f26dea7c379da9a2e6b1e6981e56bc6660",
+    "2279fb9fae4c1066124af8dc87ce7633226e49c5ed1f170b299ffa644522fbb9",
+    "77e0d1423d28d298dbd7ed34c86cf31bd85c82f37344a36d92b7d9a2c1abc152",
+    "5485c6d3ae81bf7e17be0199773c68d84621cfd10d2b3dbe2a67d5939512d254",
+    "b35a538ab12c854d61ee4b49f79af43236aedb828ac039547a6a94f260d8c452",
+    "cfc76a158a0ff2a123e1be8b98293a8fe4fbb502e892eabe7951431cb4ba2bb7",
+    "d1244672bce9a491f187519011050b6972b725f14fe59ba1975c4e0f85d04ef9",
+    "ab5f283445ccc4892a6b34a0f0ace62db344b590777bc42144982a278596430c",
+    "fd7eeabab199f356d89c364cdd526c6e37fb472ff1a2fc22987a270323f196ab",
+    "22b7643e3152d89015016de0662c7692c25a80b863355b8b39aab8f323dfccab",
+    "d00edab209fae1375efc955cf9d8e8819e4601aa077114f4f29fe2c1a975ac51",
+    "006110904d5e89916b34d00e8d41779524c990843f4e1f53c768d60846bd51bf",
+    "dd9e7df270a250264ddb3173206b1af3e3a1d0c3329a0aa65cea71363241b30e",
+    "cb631c1af48db3b67edaff0099694879270dbb29e1afd7a692b7b62cc864ffe5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "美股费城半导体指数初步跌0.6%，存储芯片指数跌3.9%，半导体制造指数跌3%，科技股七巨头指数跌1.4%、超大市值科技股指数跌1.1%。\n\n标普500指数初步收跌0.1%，科技板块跌1%，可选消费板块跌0.8%，工业、...",
-      "title_ko": "미국 증시 필라델피아반도체지수는 0.6% 하락, 메모리반도체지수는 3.9%, 반도체제조업지수는 3%, 빅세븐기술지수는 1.4%, 대형주 기술주지수는 1.1% 하락했다. S&P 500 지수는 당초 0.1% 하락 마감했고, 기술 업종은 1% 하락했으며, 임의 소비재 업종은 0.8% 하락",
-      "url": "https://wallstreetcn.com/livenews/3205927",
-      "ts": 1795640440
-    },
-    {
-      "source": "매일경제",
-      "title_en": "[단독] 골목사장님 쉽지않은 대출…단골·현금흐름으로 신용평가합니다",
-      "title_ko": "[단독] 골목사장님 쉽지않은 대출…단골·현금흐름으로 신용평가합니다",
-      "url": "https://stock.mk.co.kr/news/view/1206105",
-      "ts": 1795640502
-    },
-    {
-      "source": "매일경제",
-      "title_en": "“삼전닉스보다 네가 효자다”…환율·블프·한중FTA ‘겹호재’ 에이피알",
-      "title_ko": "“삼전닉스보다 네가 효자다”…환율·블프·한중FTA ‘겹호재’ 에이피알",
-      "url": "https://stock.mk.co.kr/news/view/1206109",
-      "ts": 1795640505
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "DOW JONES INDUSTRIAL AVERAGE CLOSES UP 197.98 POINTS, OR 0.40%, AT 50,216.68, UNOFFICIALLY",
-      "title_ko": "다우존스 산업평균지수는 비공식적으로 197.98포인트, 즉 0.40% 상승한 50,216.68을 기록",
-      "url": "https://t.me/marketfeed/1085470",
-      "ts": 1795640514
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Neuralink: Received FDA ok for a trial on a brain implant",
-      "title_ko": "뉴럴링크, 뇌 임플란트 임상시험 FDA 승인 획득",
-      "url": "https://www.financialjuice.com/News/9868382/Neuralink-Received-FDA-ok-for-a-trial-on-a-brain-implant.aspx?xy=rss",
-      "ts": 1795640517
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "Neuralink：人脑植入临床试验获得美国食品药品管理局（FDA）批准。",
-      "title_ko": "Neuralink: 미국 식품의약국(FDA)의 승인을 받은 인간 뇌 임플란트의 임상 시험",
-      "url": "https://wallstreetcn.com/livenews/3205928",
-      "ts": 1795640521
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "NASDAQ COMPOSITE FALLS 135.26 POINTS, OR 0.57%, TO 23,598.27 IN UNOFFICIAL CLOSE",
-      "title_ko": "나스닥, 비공식 마감 기준 135.26포인트(0.57%) 하락한 23,598.27 마감",
-      "url": "https://t.me/marketfeed/1085473",
-      "ts": 1795640608
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "STELLANTIS REMAINS COMMITTED TO CONSTRUCTIVE TALKS WITH CANADIAN AND ONTARIO GOVERNMENTS AND UNIFOR ON FUTURE OPERATIONS",
-      "title_ko": "스텔란티스, 캐나다·온타리오 주정부 및 유니포와 미래 사업 운영 관련 건설적 대화 지속 방침",
-      "url": "https://t.me/marketfeed/1085474",
-      "ts": 1795640611
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Targa Is Said in Talks to Buy Kinetik in Major Pipeline Tie-Up",
-      "title_ko": "타가 리소스, 키네틱 홀딩스 인수 협상 중…대형 파이프라인 합병 추진",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/targa-is-said-in-talks-to-buy-kinetik-in-major-pipeline-tie-up",
-      "ts": 1795640673
-    },
     {
       "source": "MarketFeed",
       "title_en": "KYIV MAYOR SAYS CITY IS UNDER BALLISTIC MISSILE ATTACK AS WITNESSES REPORT LOUD EXPLOSIONS",
@@ -11504,6 +11441,69 @@
       "title_ko": "Kioxia와 Nvidia가 파트너십을 맺고 SSD를 통해 효과적인 고대역폭 메모리 용량을 증대합니다",
       "url": "https://www.financialjuice.com/News/9868780/Kioxia-and-Nvidia-partner-to-boost-effective-high-bandwidth-memory-capacity-with-SSDs.aspx?xy=rss",
       "ts": 1795662665
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Asian Stocks Rise as Investors Shrug Off U.S. Tariff Plan",
+      "title_ko": "투자자들이 미국 관세 계획을 무시함에 따라 아시아 주식이 상승",
+      "url": "https://www.wsj.com/finance/asian-stocks-rise-as-investors-shrug-off-u-s-tariff-plan-f8daa85b?mod=rss_markets_main",
+      "ts": 1795662690
+    },
+    {
+      "source": "CNBC",
+      "title_en": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
+      "title_ko": "블랙 프라이데이를 앞두고 한국 브랜드가 전 세계 아마존 베스트셀러 목록에 오르면서 K-뷰티 주가 상승",
+      "url": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html",
+      "ts": 1795662691
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Kim Jong Un Makes Rare Show of Nuclear Warheads After Snubbing Trump Talks",
+      "title_ko": "김정은, 트럼프 회담 무시한 뒤 드물게 핵탄두 공개",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/kim-jong-un-makes-rare-show-of-nuclear-warheads-after-snubbing-trump-talks",
+      "ts": 1795662753
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "해군중장·공군대령 방산업체 취업 제한…퇴직공직자 12건 재취업 제동",
+      "title_ko": "해군중장·공군대령 방산업체 취업 제한…퇴직공직자 12건 재취업 제동",
+      "url": "https://www.news1.kr/politics/president/6366919",
+      "ts": 1795662818
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "‘Trump Put’ Protects Nvidia Growth Through 2028, Says Gary Black as NVDA Stock Trades at Cheapest Valuati",
+      "title_ko": "'Trump Put'은 2028년까지 Nvidia의 성장을 보호한다고 Gary Black은 NVDA 주식이 가장 저렴한 Valuati에서 거래된다고 말합니다",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63659459/trump-put-protects-nvidia-growth-through-2028-says-gary-black-as-nvda-stock-trades-at-cheapest-valuation-in-10-years",
+      "ts": 1795662821
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "신현송, 내년 추가 금리 인상 시사… “점도표 있는 그대로 해석하라”",
+      "title_ko": "신현송, 내년 추가 금리 인상 시사… “점도표 있는 그대로 해석하라”",
+      "url": "https://biz.chosun.com/policy/policy_sub/2026/11/26/MLTQOM7OIRCAVNUAYXZR5X3RRM/",
+      "ts": 1795662823
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "‘안정 속 핀셋 쇄신’ 택한 현대차그룹… 완성차 투톱 유임·계열사 재정비",
+      "title_ko": "‘안정 속 핀셋 쇄신’ 택한 현대차그룹… 완성차 투톱 유임·계열사 재정비",
+      "url": "https://biz.chosun.com/industry/car/2026/11/26/DM62I6YHKNDW7PBBMNNXPTE3GU/",
+      "ts": 1795662826
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "CITI TOKEN SERVICES BEING DEPLOYED BY SAMSUNG C&T’S SOUTH KOREAN TRADING AND INVESTMENT GROUP, CITIGROUP SAYS",
+      "title_ko": "씨티그룹은 삼성물산 한국 무역투자그룹이 씨티 토큰 서비스를 도입한다고 밝혀",
+      "url": "https://t.me/marketfeed/1085655",
+      "ts": 1795662828
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "新加坡就美国301关税发表评论称，将敦促美国贸易代表办公室重新考虑拟议行动。",
+      "title_ko": "싱가포르는 미국의 301조 관세에 대해 논평했으며 미국 무역대표부에 제안된 조치를 재고할 것을 촉구할 것이라고 전해",
+      "url": "https://wallstreetcn.com/livenews/3206087",
+      "ts": 1795662830
     }
   ]
 }
