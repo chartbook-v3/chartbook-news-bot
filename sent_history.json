@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795700617,
+  "updated_at": 1795700766,
   "id_hashes": [
-    "6ef1803fe098a3801dfcc812a13efeca0700f4bf54bf1f276369088ed3071efb",
-    "1bed69629d17cb8d9d3ed777d57807d1aa62157f8c01056b9706ac8e3ccd2476",
     "11291390f80f20e50df5a43872e6c3471b2b74d350e18760b70c053da1b4fcc9",
     "21c081ed54048104b6ac74e5e9c5787a07aef9fd2ff405caa52bc3ebca7694a4",
     "553c64390e1138d053097c431ff4d9474306e8afc880b45ebba7ac3334a946b8",
@@ -4000,10 +3998,11 @@
     "d24c9189193361781a80341a48c4182bcfdfe82d125bfb3a05b304c22c6f1b89",
     "4fac3841805ae4c5f1e1b434eba4d46c5b6213d20c303a28943b0f104728213d",
     "54df38f2e42bf223d6f6b3b3a847ed62ab950410fdf3d6ca57bb7dcbefc0901a",
-    "c0723064fa8ccd0a5bddf7bdc66813e5380c9885f3c75a5bcb80444f0c6abaf3"
+    "c0723064fa8ccd0a5bddf7bdc66813e5380c9885f3c75a5bcb80444f0c6abaf3",
+    "2f7c7696be627ea6c8efb7d9e33dc44eafcd4e4d9e5acaa2d12833ad483f4f03",
+    "0024c3798c346023f76bad03fbc59247d14d237e7664dfeefaeae5629174cbb1"
   ],
   "title_hashes": [
-    "514f08c1ee3186baf40742838e87d018884b40f8aabdc83c55e252bdf83fcc83",
     "37423158d0058ef82c01f1928252278c79cbfae2043e3726f56147106565bc56",
     "5eda10c0feb444678ba3d02420be2c5816c006b86b4287d2004fcf4f01aba33a",
     "f0756a0a59b6a2ccef09d298983b4a083842cb058e57aaf8300ea1de629fb425",
@@ -8002,16 +8001,10 @@
     "661698bbd3a880339e405442cee5c8904119cfde12cfe3e727afdf226fa606ec",
     "7ec9e7acfce62d4d2099f63acb15599bd3b8a52fe70794d2f69674b1e76bdc98",
     "5629094a90a6bb3a6e3c4aa72c28143d3a4d2a04431e1eb6c4e83207d432f2f6",
-    "8a4fe1c4c4bd40898eb970beba37f6ab044cc528d102d3e556da0bc49061fd99"
+    "8a4fe1c4c4bd40898eb970beba37f6ab044cc528d102d3e556da0bc49061fd99",
+    "45f5da7baec655ffbb5bbd697f735f12bed2b7b4ffd9645e88e40959246472a9"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "🔴 JAPANESE LEADING INDICATOR CHANGE REV. ACTUAL -1.5 (FORECAST -, PREVIOUS -1.6) $MACRO",
-      "title_ko": "🔴 일본 주요 지표 변경 REV. 실제 -1.5(예측 -, 이전 -1.6) $MACRO",
-      "url": "https://t.me/marketfeed/1085713",
-      "ts": 1795674385
-    },
     {
       "source": "연합뉴스",
       "title_en": "호남 반도체 하폐수 시설에 1조3천억…의회, 재정 부담 우려",
@@ -11504,6 +11497,13 @@
       "title_ko": "레오폴드 아셴브레너 \"Situational Awareness 3분기 65% 하락, 엔비디아·마이크로소프트·테슬라 타격 가능성 경고\"",
       "url": "https://www.benzinga.com/markets/tech/26/11/63662003/situational-awareness-lost-65-in-q3-investor-leopold-aschenbrenner-warns-nvidia-microsoft-tesla-could-lose-their-edge-report",
       "ts": 1795700616
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Societe Generale on Fed Expectations - FJElite",
+      "title_ko": "소시에테제네랄 \"연준 금리 인하 기대감 점검\"",
+      "url": "https://www.financialjuice.com/News/9869465/Societe-Generale-on-Fed-Expectations---FJElite.aspx?xy=rss",
+      "ts": 1795700702
     }
   ]
 }
