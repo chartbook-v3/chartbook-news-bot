@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795665351,
+  "updated_at": 1795665502,
   "id_hashes": [
-    "7133d45ef105c307d6eb41728d3fe7eef742d3cc5109e7a77beb7fb22bd8ad29",
-    "771323e92e69da6350bb965e60a78f697ebfd1118fc30e8ed0fc51d6ad994c70",
-    "e7c4d2f8395e80af501d5717a0559835fc8b86fb403014ee71c19fb49ee347f9",
     "bb6ce1b2404e6db9778c62be1a8b0225a9a8eb929b588730f91fa9c79d532525",
     "bf0d77f40aa747fcbe48c1af4ec7170bcac3ecf2441fd4b5719c44fcd2c821a9",
     "cce5ebb1b23aec31655d601cd5bfd3c4d6b92a8fee1daeda5aa06fb5c63c815b",
@@ -4000,12 +3997,12 @@
     "76ca187242f30d636e50b1fe9775b1a633cd5b4b91a32e61805e15cd1c2941b2",
     "1b2699dc85f5d267f2a23eea8a048e6bf9922302fc68e614d579a6ba64445e9f",
     "c39f6d39e74db5b36606e34394ae1ac366a0a5c3bebf87302b7bde77d393a423",
-    "d94b1f97437c2a71a54fbdce8e6722f5b6e821b914ea1da3a1aea0afcc8153b3"
+    "d94b1f97437c2a71a54fbdce8e6722f5b6e821b914ea1da3a1aea0afcc8153b3",
+    "ede3b08f3e4bfb78ab304bbc9d767c0d6919c22afa5cdd82ddfdcd08714e57bc",
+    "bf60590d3d08f900b880ab0747d52fa85cbb2b681472717eb118381fa245c9f9",
+    "2331a0090ade62dbd8f874cb706b740d7c76102ff375cf80f8c2b3e3dc6d70f0"
   ],
   "title_hashes": [
-    "daa74f51f5d775640842450d3bdf3fc2ac38d8069a45b8e2ff69c59aa5ac6c96",
-    "175d27a884811f23d54f1e6451d590987544b77ca4e45e38a78e8673a2c8bc08",
-    "b920a20b9d985c0f0268b2ebc4c48318b18e92e9000d5d4df9af383e3ab907ed",
     "87b6c9d8c82c9f01c46c27181ccdeb0d65145de30d8d7cbd10ba0424511a8e06",
     "f34b9ad4ad40d70cb58833d5931a92bb46b1e2f243e2db90a284bd926813c4f1",
     "b5825f2584943694d14a34d01dd4a23960f29c76e8fbddb00bdb516b64e54085",
@@ -8002,16 +7999,12 @@
     "5cb221e2c9731b8bec01841bbd95405dcd6100c97a08e53f18b26f988c9eedcb",
     "3f768989428f7ad3063e5d1c52bd69b4b2480f43d5a46e927dc1f9553cc2317a",
     "dae09efb93535c2fd7573df1029a597b7bb5f8eec32b712d6921ff3a4c3b7659",
-    "378f42201d9a2c526b0de461547d64e56493ede4064e783741a442d0a1a4543f"
+    "378f42201d9a2c526b0de461547d64e56493ede4064e783741a442d0a1a4543f",
+    "52eddf105081cf7a5ad0f4fff3d19e99cd32e912b6c05be51e71f72b4b4bc7ca",
+    "4b552ddad7cc64cd8c7585794d70f3d74859b9e754d3c122c93994e6e550df90",
+    "7fc5249397b2ea2f7cf6701db40728b699e005b97b39468c74878b501eef0156"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Vertex drops as FDA extends review of povetacicept for IgA nephropathy",
-      "title_ko": "버텍스, IgA 신증 치료제 '포베타시셉트' FDA 심사 연장 소식에 급락",
-      "url": "https://seekingalpha.com/news/4676698-vertex-drops-fda-extends-review-povetacicept-iga-nephropathy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795643337
-    },
     {
       "source": "WSJ",
       "title_en": "Wall Street Can’t Seem to Find Its Footing in the Chaos of the New AI Trade",
@@ -11504,6 +11497,13 @@
       "title_ko": "신현송 한은 총재, 추가 금리인상 시사…\"물가 안정 확신 들 때까지\"",
       "url": "https://zdnet.co.kr/view/?no=20261126125222",
       "ts": 1795665350
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "THAILAND’S CURRENCY LEVELS REMAIN MANAGEABLE AND CONTINUE TO BENEFIT EXPORTS, CENTRAL BANK CHIEF SAYS",
+      "title_ko": "태국의 통화 수준은 여전히 ​​관리 가능하며 계속해서 수출에 이익이 된다고 중앙은행 총재가 전해",
+      "url": "https://t.me/marketfeed/1085666",
+      "ts": 1795665501
     }
   ]
 }
