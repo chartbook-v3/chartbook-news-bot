@@ -1,23 +1,6 @@
 {
-  "updated_at": 1795682219,
+  "updated_at": 1795682410,
   "id_hashes": [
-    "1ceec28fe2ef9956a83fad9f8a9c079912481e0be823da188cd2032bbd1a2c2b",
-    "45ad0f332bc1a48e38cabd83d16af46ccf3e02b77ac1436ad1cfa5b4fc7ae6c4",
-    "9b17d06ada5ffdbbfdce0de7b00d7ea0e6463e678efd41c25778b6ce28b39103",
-    "313683d00ca2666031993afd5137010e585276c2aef7ae75d27a2e785fc124a1",
-    "c3583364cc8e12a26b830d6362329af3180a9bc3b52deae737f3d3e5e2a9eed0",
-    "1b5287dd9a71a4b2f5a19b1cb6d5b068120913e0afc60fe97b57008dea01c4ad",
-    "168789e1fb32e6859f58e020ef85a4d7b4bdd9e1531e267cbc1909aa1e0bde42",
-    "8c716133572a96a4956c9f7d8327175144af59fd6ed2f3e4aff0e4a6b04dd4d7",
-    "77632b195499df6ad8e37420a9e6638d0a3429b5ca86b7502d2ea9209285e1cb",
-    "b7515578759ad6fde7bb17fbe473e8639043ee905002f619508c78c6bb81dbe5",
-    "c935cb0e2e0fbebc928e49084702e6be4ed00cdd50e14398b468bc6d98d3988a",
-    "cdb71da8a980d3999cedd7f14ba42701691577b310c037b656997f8c9327220a",
-    "e65ad4a625401eebb3bff59800ef8e810005223708b1ef556855d1759b5e7c9a",
-    "b622e746e3142d20e8b1a3a8251cccdda2ebf06c8eb56e730669a5c5d6dd6ec8",
-    "726aaf6b778fe7621650882f52cf64d3bf1203f3a627233b6583843e0a24f753",
-    "a43f40561b892bfb4d0e0fe90aae163a99b6dad841c5d8556967a7e70a81f3df",
-    "52f6b83a4fb70b6131a95f3d07fc5fe72478d90481c66b0727fe0788af9d70b0",
     "377b24e5f39b7fde122d70aa7016c4223c6e8f1372d581d86fcf9e47ab197e11",
     "e44a8d650c3b0a63b4eb82ad63ea0f88ed3ed94b9bebd0d48b78c05cfb7836f5",
     "407d988be2b65161d2279e5ed8e19b4f61498515a5e5a7f3f309f5268295c0b9",
@@ -4000,25 +3983,26 @@
     "a09728e325ae740418e782171a38dc1c27587097e955390f586181e0bd240ea3",
     "a403196dfb0b39e9bf74b50d0392d95be0936113515d2019bf7f031d61e2d1e6",
     "52269f5d58a1db58d29ca80b10f6cf3c084d9fdcd62f387976b144f00ca4836b",
-    "c6555ec55c5fde97909e7d3d3b974881687cc54c2bfa02a8e8fe2f9dfedffc70"
+    "c6555ec55c5fde97909e7d3d3b974881687cc54c2bfa02a8e8fe2f9dfedffc70",
+    "5080fc10137a60edba83da9faafadca6142d62dbaef863613a6974d0f8386390",
+    "40bea830dddd315522987819a9e141d0cdadd8b1345305e984800a8914bae8d4",
+    "b82edfb6e589a9029d79f4c699a43331cd9a17904e77fa308522d9188272c148",
+    "595ddb6d8223493184c810bcf4d78076c88fe43a3ffa62a0eed798feeed1a17b",
+    "b76e804d5c0d7d8bc78667881689987bf795c48db983d96cc6daa7d288128ba3",
+    "13d57eabaa2d5b7d71296e300c12fdcc60ec57effa1e07dd51c5715380e4bcf3",
+    "ee153e1e6031b83e69c7412453e094b4df022f0d6d8d1eaf47b5fc6ec4cee3a4",
+    "aa55cf77236d477a2636436fe43b7bffe0b3a3b4f399683e46ae2a6fb4aa3008",
+    "175de1957283ac9119e4a3ffcfcf8a50ceb10317b038e50a67cbbbdfff227ca8",
+    "a868e9f30fe3d404cac2ccbf772fca115f88a0eb85abc2d9b56435a72faf5360",
+    "3efabb9acf99a3c5a575461dd462839d9d9a229b7fad4dc24404a971d53429b8",
+    "6fa1eda2dcf42e4a7597a6688ae1f867fc4f927d76c5bf2615d56bf7719000de",
+    "399f94c6f9390cea474d037efeebbb46e5eb91f76fd4b15f1597bae4d9c2747c",
+    "a61a528b63325797787c69c56d8da4a13f191eafc0b5877f3e687af048ad6391",
+    "75e0a955f01b0ec4524b8f9eb3d6adb5fef7dd7fd3191a6768e517e015349035",
+    "36cd8a797cee87f2f96306874db13dd1ec93fc18c5331eea206b5f97bd1a8d76",
+    "2107924b5d498611819df61ec7cbadbb18a53313272bad21e859d5927a17705c"
   ],
   "title_hashes": [
-    "98c7223678105e1a822f7cfe3a483f2052bac6864fb29e5f0ef56e2a77f20499",
-    "fa7251fc18e3dd2fec738b2642a6dda1ba2e97da3fb6900bf23af67ab9232750",
-    "7f6ff012faed450858d700f37e14641dbea0233d1e2e4417b072f65e19e3a094",
-    "630685b6df352787a467713197a83bc35b49cb7acd2f3fe1ef00ee639ad082b5",
-    "5683bb10275b2c0b4063bed3c58fc114ef231d659520535b7090da897bafb8b5",
-    "a83f260c402c0873b9a90228bbb1b545d42610bedb8f3417f3e5bb35777c108d",
-    "ce8f156f2d65185714f3106800a965eddf614c986b145119461c89b8afc84fb0",
-    "0ebe353c2eb77e75c2edfd712ba2af44070b918e48d0d08a30a415b62b0ed02a",
-    "3870c883948e8b7ac1457c07a55cc953065cbdc15056731c2b05f3857350c744",
-    "491967249ffe76fe0f2cd4af7083fabfe14daed474544fafca2c3c5ad8a83ae8",
-    "07e930e9897f224b32b5a0d33296694098e07c488458035fb02fdac03ee75448",
-    "c148e9b6b512c94e0f4f89c71b655b2cc8ac91af3c70dff0335f7f43b005c351",
-    "801c02fe3ea339ed616bfb5435f93b81d9080bc7c5b3b7f71ed641f4442f159b",
-    "76afad8b34df1ea3c0b2c6fb4503624c040a2615c3205d6e295aa76b2df7d794",
-    "12a3b7f4e981314e56918707f94c30e2b670d440a3a3c61513334625a6be5203",
-    "3e8199422baf78582354ce815aaa91d259c57a648d8f583ec0d12402871f0c8f",
     "ed1827ec52ee4ed9d7d34b04178008ea21a4ea46ca4f743b8c520a234be34c74",
     "b9de683398475e53586c5984661c9360275e1899c555015e89e1bc357015ba3b",
     "c96fee19ba884c4c781324149d29d42940e39b0b5627634492bedf0cc5a5cb89",
@@ -8002,51 +7986,25 @@
     "8eefe174e6da3b3c18c6b66e079e55491a36e7651216af15fb12cfa04b35ec89",
     "98143707c01db5511318bf8123b77b6a990774f49628540c4512398d26a7cbcd",
     "3462c1bf4937d095395d14c8c7bef397b7940d3a613ee1a3b497346f047bd371",
-    "77a48737a337e1ee91791e4fe30af82aa559076d75c6b252f6cbfa8891b5e973"
+    "77a48737a337e1ee91791e4fe30af82aa559076d75c6b252f6cbfa8891b5e973",
+    "3943977b485bc8b58633555ae5b601db77ed90c6c1490a4da304cdc22d1af42c",
+    "f3d36074346fd809e161b409fc3e199dc9cd92349ad8a595a569f712019c2d61",
+    "c7ee7ecb0b6328483cba7f5e2966d0f61a72b6f36edab97f6549866300ca3bdb",
+    "ca33d653d710681e17b08e86acfd49d6b0d2ea5f2d9d3156ef7a525975bde54f",
+    "c1ae217206d8f8f92ffbf0f9f7cbe4fea101dbdbd542066e08c3fc7c5a8f4314",
+    "c09a70670b582b33f43d78c05479ba0087e9c68cca3d77be8db57cae6371297c",
+    "208c04d0d9afb1fc8f36def4b2fdbdc48f683bd157e995dc1b4fa8d83716aee0",
+    "7a43de1fa0bd3a585da8cdf0285e03e9a96260a3555859aabd36a9193467731b",
+    "dbc7626a4e89cee8df43088af42c8147ec62801339220d69da40a3e935754be4",
+    "8910c1bc8398cbe0667e38ec27b568515fd5a13f451568021d21d96791d844d4",
+    "ca2b7f1c08935601e07f51f26e2640e1b8b3b1a1bcba386ad8c9bc15826d8cde",
+    "200fd8ac87854ec0992dbc649d35156bccf9185c9adca283b27d48bd1f42f82c",
+    "14385dace5ded1ebb3282888225841f749164dc280e4ed532c09c997ffb98f11",
+    "d3d742c611c2e5e52c8ac7eb9a55683e01a32cafab9dd5bcaaa1cd07391e063c",
+    "6051c1da341e12905e0875fbe4891583ea28ae4be9cbff0fb4a125be18b542e6",
+    "60160c4471e4338e2fece75a322d146539d9c593667ef3d0ae273ab076998af2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "AI-driven automation is reshaping factory design, driving demand for larger sites, says Gudeng chairman",
-      "title_ko": "Gudeng 회장은 AI 기반 자동화가 공장 설계를 재편하여 대규모 현장에 대한 수요를 주도하고 있다고 전해",
-      "url": "https://www.digitimes.com/news/a20261125PD227/demand-automation-manufacturing-chairman-investment.html",
-      "ts": 1795658868
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "삼성SDI, 자사주 350만 9791주 소각 결정…1.4조 원규모",
-      "title_ko": "삼성SDI, 자사주 350만 9791주 소각 결정…1.4조 원규모",
-      "url": "https://www.news1.kr/industry/general-industry/6366817",
-      "ts": 1795658870
-    },
-    {
-      "source": "한국정경신문",
-      "title_en": "'총사업비 3800억 규모' 고흥 우주발사체 국가산단 산업단지계획 승인 확정",
-      "title_ko": "'총사업비 3800억 규모' 고흥 우주발사체 국가산단 산업단지계획 승인 확정",
-      "url": "https://kpenews.com/View.aspx?No=4330445",
-      "ts": 1795658874
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "商务部等8部门：到2030年，服务贸易规模稳步扩大 “中国服务”国际竞争力提升",
-      "title_ko": "상무부 등 8개 부처: 2030년까지 서비스 무역 규모 꾸준히 확대, '중국 서비스' 국제 경쟁력 제고",
-      "url": "https://wallstreetcn.com/livenews/3206052",
-      "ts": 1795658876
-    },
-    {
-      "source": "Reuters",
-      "title_en": "BOJ's Tamura signals chance of faster-pace interest rate hikes",
-      "title_ko": "BOJ의 다무라 총리는 더 빠른 속도의 금리 인상 가능성을 시사",
-      "url": "https://www.reuters.com/markets/us/bojs-tamura-signals-chance-faster-pace-interest-rate-hikes-2026-11-26/",
-      "ts": 1795658909
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "AI반도체부터 에이전트까지…국내 AI 산업 성과 한자리에",
-      "title_ko": "AI반도체부터 에이전트까지…국내 AI 산업 성과 한자리에",
-      "url": "https://www.yna.co.kr/view/AKR20261126079300017",
-      "ts": 1795658912
-    },
     {
       "source": "연합뉴스",
       "title_en": "[게시판] 현대차증권 배형근 사장, '사람 살리는 금융' 캠페인 동참",
@@ -11504,6 +11462,48 @@
       "title_ko": "유니크레딧, 경영진 일부 해임 합의안 미제출 시 이사회 불신임 투표 예고",
       "url": "https://t.me/marketfeed/1085766",
       "ts": 1795682218
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "马斯克：12月开始向美国的孩子转让SpaceX股票，未来SpaceX的价值有望达到当前全球经济的百万倍",
+      "title_ko": "머스크 \"12월부터 미국 아이들에게 스페이스X 주식 양도…미래 가치, 현재 세계 경제의 100만 배 전망\"",
+      "url": "https://wallstreetcn.com/livenews/3206263",
+      "ts": 1795682317
+    },
+    {
+      "source": "전기신문",
+      "title_en": "美, 한국산 관세 25% 가능성 열어둬…산업부 “최종 15% 유지 전망”",
+      "title_ko": "美, 한국산 관세 25% 가능성 열어둬…산업부 “최종 15% 유지 전망”",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=375352",
+      "ts": 1795682380
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "삼성전자, M&A 전담조직 신설…대형 인수합병 속도 붙나(종합)",
+      "title_ko": "삼성전자, M&A 전담조직 신설…대형 인수합병 속도 붙나(종합)",
+      "url": "https://www.yna.co.kr/view/AKR20261126159751003",
+      "ts": 1795682383
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JAPAN SENIOR FINANCE MINISTRY OFFICIAL SAYS TOLD PRIMARY DEALERS MEETING THAT SUPPLY-DEMAND BALANCE IN SUPER-LONG JGB SECTOR HAS IMPROVED",
+      "title_ko": "일본 재무성 고위 관계자 \"초장기 국채(JGB) 시장 수급 불균형 개선\" 밝혀",
+      "url": "https://t.me/marketfeed/1085769",
+      "ts": 1795682392
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JAPAN SENIOR FINANCE MINISTRY OFFICIAL SAYS DEMAND FOR SHORTER-MATURITY BONDS LIKELY TO STAY STRONG",
+      "title_ko": "일본 고위 재무부 관계자는 단기 채권에 대한 수요가 강세를 유지할 가능성이 있다고 밝혀",
+      "url": "https://t.me/marketfeed/1085770",
+      "ts": 1795682406
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JAPAN SENIOR FINANCE MINISTRY OFFICIAL SAYS WILL ASSESS BOND ISSUANCE SIZE, MARKET LIQUIDITY, COSTS WHEN DECIDING BOND SALES PLAN FOR NEXT FISCAL YEAR",
+      "title_ko": "일본 재무성 고위 관계자 \"차기 회계연도 국채 발행 계획 수립 시 발행 규모·시장 유동성·비용 종합 검토\"",
+      "url": "https://t.me/marketfeed/1085771",
+      "ts": 1795682409
     }
   ]
 }
