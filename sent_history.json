@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795665976,
+  "updated_at": 1795666130,
   "id_hashes": [
-    "ec9763b405fb56e74a0bb8bba854cebc1c07aac53f21a9e3976cee93c5fdcb0c",
-    "0b15421230f9f2e3fd7845c5a3b0395b520221aea193744e691682e767a36340",
-    "c51fb2d729f5cdff929f289b0af3354a71bc9712274c86c95a0351a9cba9960c",
-    "bf49da31c8fd1c161f39cd7faec6f4e396c1868ff79b24f8905b97057239b459",
     "6214346cd3c68a46d7e06b09772ca6ecade3fb962426863e8f3892f4a253192a",
     "5e74177a3e44adcd53ac442ef1d48c26a35bb18a3460d9d206fc1a5d0abe1f9e",
     "f91c72dc1a4a9a5ca3c62339b1dc171cc4d4257c5eca07221498297f4e00ee73",
@@ -4000,12 +3996,13 @@
     "92bc6669a7bb00456b7eeb469ab130164ba1621516e92c90edae2325b9654109",
     "acc1933044a233947655fd13597a9e724700e8439ac1dc2a055e4f29c8b8b461",
     "7ae3923a3953a78152a534c670aec4bfb841268575c2adca3d92ba593c954e47",
-    "03c1bc471dda22548c64b55d4b90f91f7ef5afc6553059306de853cf990a9d01"
+    "03c1bc471dda22548c64b55d4b90f91f7ef5afc6553059306de853cf990a9d01",
+    "2c1b7a653e876e0d5e2c4937fd389f45b4ab3744f21fe447ba790b15ed69bf0d",
+    "bca4a2d04d1f606a443b937b27671bdae865e73577ec523eb7f273330f92f992",
+    "369f6babd4f16283141ab0b233331ac15449a0cf79e31a0a21f1bc7871e24e61",
+    "a704ce37c54ef36f88357d05ea3d14d58e700be1db1a883d390079f5f511642a"
   ],
   "title_hashes": [
-    "05c84d7e359cd960a876520ec38f4deedc96db483628347c60d86dfa0fc266ad",
-    "ade4c0bbfa81609ab0a62eb43c0f0bee8df89b431862db9d5882b2706142d0f1",
-    "fe2fd0d1d508b199c9e9b6ddfa8bacc86403dd344f7d535ba0f505d3faec04b9",
     "a1e5c4358773c41ffb2ee22607a59bce9384df78ea3807b6aed0a318cf069939",
     "0d31ffad22205e57732cc4dc13894f300ba91ab3a5cb8e357f33f2ebe6047992",
     "1872f6a75d906c77645ef9aa2c32c7bf9b9561e2074764d58f75e290a56e3820",
@@ -8002,23 +7999,12 @@
     "720c1fcd984536d52816f4b4bde8b0cd3c29c61ab4840501d1c1c8e5365ad887",
     "51505f00b1ef5303b77eea5c06da97f936b4032e4af2a9eeb7a5b9e71c00ec43",
     "9df81b8710754931f9a79a2cc7136a95c679a3d3606c052b6dc39e09616c8cbd",
-    "5b5af72ba54ccd6866688e331a7e58cfeb5d75184d78737c5ccc9480c1f8ea9b"
+    "5b5af72ba54ccd6866688e331a7e58cfeb5d75184d78737c5ccc9480c1f8ea9b",
+    "0b1959843a23c6df0378d46ee140028c177aea71ee9a53b3cff4b4282e0c8217",
+    "038aea895cf39995c7de44ea5a1173a53ee766c606e9c7b8b74ade5d66d380a0",
+    "dfff6f9016e774d323296ec84da3734bd29f68da6474e63a2428c3d499d14c8a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "인베스트조선",
-      "title_en": "주총 넘은 현대모비스 램프 매각, 대형기관 1곳 주매청땐 '무산 가시권'",
-      "title_ko": "주총 넘은 현대모비스 램프 매각, 대형기관 1곳 주매청땐 '무산 가시권'",
-      "url": "https://www.investchosun.com/m/article.html?contid=2026112680003",
-      "ts": 1795644171
-    },
-    {
-      "source": "인베스트조선",
-      "title_en": "SK·포스코 등 대기업들, 매각예정자산 늘리고 처분도 '속속'",
-      "title_ko": "SK·포스코 등 대기업들, 매각예정자산 늘리고 처분도 '속속'",
-      "url": "https://www.investchosun.com/m/article.html?contid=2026112680004",
-      "ts": 1795644174
-    },
     {
       "source": "팜이데일리",
       "title_en": "[단독]LG화학, 美 파트너사 항암제 협력 정리…8년 만에 방향 튼 배경은",
@@ -11504,6 +11490,20 @@
       "title_ko": "[표] 은행간 단기금리 기준-코리보(26일)",
       "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446733",
       "ts": 1795665975
+    },
+    {
+      "source": "디일렉",
+      "title_en": "나무가, 자사주 37만주 소각…50억 규모",
+      "title_ko": "나무가, 자사주 37만주 소각…50억 규모",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=65941",
+      "ts": 1795666000
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "유디엠텍, 21억원 제3자배정 유상증자",
+      "title_ko": "유디엠텍, 21억원 제3자배정 유상증자",
+      "url": "https://www.yna.co.kr/view/AKR20261126098700008",
+      "ts": 1795666128
     }
   ]
 }
