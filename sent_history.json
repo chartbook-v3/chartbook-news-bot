@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795719521,
+  "updated_at": 1795719672,
   "id_hashes": [
-    "07d828d549dc8aa29ca5beea369e32b603be2a820546a68b6c4d9b8575edaf31",
-    "9dd7aba14f62e6f3619e6282b20307f77afef8feff062bba56e01cf90bf10d5e",
-    "dfdb1aff1615bb6a2e5bbf8f977aff3a3afb0d076318e2e77c096c01cebc9042",
-    "3f50ca06a3100697c6b4dd77c59018a397007558de75c624332ded527f603d8b",
-    "cb3339e4880f64ebdc8fee98ca20314511dd7e74467cba8bdd6a7918d1f1bb0c",
-    "1658b2ebeebf6aa9da01e8a24872cdc565b6bc255a305c383cb0af09995cae03",
-    "5bb14e7f59e2891696e034c79742de46a58fb99e74104fcffe3fafec606d4a31",
     "e825c6eec505249e6e0d11a8fae212075ded4acc4a24e717d560a09dc9e1ce38",
     "6ec977604091e674b926533a5ed836785c3dc17caf1ab3b7d21751dcef422b6e",
     "fc90f0338233b898fac230ff21d6ab5b4b5e9cb85b843810acd435d4a2465bc1",
@@ -4000,15 +3993,16 @@
     "ecc950261e2b9f7f8f1985b6c4efe12e1842937242ecc8c7aef0a586e1cc0d6c",
     "1c02dccc7df3f86b6ffb6e372e85b017caf475cb32abce62a46a5cb034d645df",
     "00e91e34240f1b2ff95fe36e79ffdaf31b843081674912815308fb181710b618",
-    "92b3ab0db741b8571c2c24f232d4e3aafd3c1dc8fb8264cf6fede74596d30186"
+    "92b3ab0db741b8571c2c24f232d4e3aafd3c1dc8fb8264cf6fede74596d30186",
+    "a5f30ef3672a48c5db832414c06ac7a5235874e376bab4df04fb2959e8e39a98",
+    "9a69cc5f6a1646503a2163f1e0eb26f6418b7b967df52d4d7c38142917b9f121",
+    "4678c33aaa227d0d79530621cad1ca3f875275208298efcc4f76a158a8a245a1",
+    "2831f99a0be000d7d103cc0dd474371e09afc6e1df2680157b8515f071fc7df7",
+    "b81557bb64fb7d0ef368a6bc8f2eb56c062a57318bc71de5f32035a122ac3ddc",
+    "58ec893bd7e7289957038fa5eb40639e6476a0ef7d1b404adcbc182f24c19ddc",
+    "fdb16fd8c90c192162487ef9dcead82852e0e19391859e2b3e94fde28c9792a4"
   ],
   "title_hashes": [
-    "51505f00b1ef5303b77eea5c06da97f936b4032e4af2a9eeb7a5b9e71c00ec43",
-    "9df81b8710754931f9a79a2cc7136a95c679a3d3606c052b6dc39e09616c8cbd",
-    "5b5af72ba54ccd6866688e331a7e58cfeb5d75184d78737c5ccc9480c1f8ea9b",
-    "0b1959843a23c6df0378d46ee140028c177aea71ee9a53b3cff4b4282e0c8217",
-    "038aea895cf39995c7de44ea5a1173a53ee766c606e9c7b8b74ade5d66d380a0",
-    "dfff6f9016e774d323296ec84da3734bd29f68da6474e63a2428c3d499d14c8a",
     "36b10ebf6ce652666c4dd74dbdae8c303959e81adc6aa4091985dba064e9f541",
     "f4456223efd6293cd03dc9072c910f46e2571bb938910b5385d037d5a157cb69",
     "353d70c25c28362bc02f5a68dc9fe7d54b14fd61cc4ae1317d4565960ca10f98",
@@ -8002,23 +7996,15 @@
     "55157dbe316ca540fef74889551aeeebd68a649f68fe996845c3a258d624b515",
     "1fcb8f12787913db3129f3d79b9ab51cbe7b10db6b1a98457f0f231413b97bac",
     "84855607c925198ff49b2a30a61d357a9b7d36457f70236d7cc180dffab5b8e2",
-    "928a6ee339218f8571901a9cb9376b0d6f262092406de45934abd4ede0ffed1a"
+    "928a6ee339218f8571901a9cb9376b0d6f262092406de45934abd4ede0ffed1a",
+    "4c554bdac0470b0d87a13718d690f1a14366500836d04c6e039f07fa8c67b53e",
+    "81d2728627944031e93193d020ea1a5937345978b1610069ca8eff8ef6e322d3",
+    "a81f29a5421935bb60af822c724864dd507999a63e92cce259331f2f76bf9795",
+    "ae2a1b5d66b5446b6da65cd4c781fb6f4c4b228551a2de47b343b3dd7bf7ac15",
+    "662285cd7c99d9d7ea0c6e53b79b78f822858ae30014688f92021dd7107aeaf5",
+    "7cc4908271369ecb42145939fa21cde34ed793347a30b3e9d924f06c68919af3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "Nvidia reportedly halts server shipments to four Southeast Asian countries as new US chip rule bites",
-      "title_ko": "엔비디아, 美 신규 반도체 규제 여파로 동남아 4개국 서버 선적 중단",
-      "url": "https://www.digitimes.com/news/a20261126VL220/nvidia-chips-manufacturing-shipping-data.html?chid=10",
-      "ts": 1795680364
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "FRANCE'S CAC 40 UP 1.53%; SPAIN'S IBEX UP 1.78%",
-      "title_ko": "프랑스 CAC 40 지수 1.53% 상승; 스페인 IBEX 지수 1.78% 상승",
-      "url": "https://t.me/marketfeed/1085755",
-      "ts": 1795680428
-    },
     {
       "source": "MarketFeed",
       "title_en": "BRITAIN'S FTSE 100 UP 1.01%",
@@ -11504,6 +11490,20 @@
       "title_ko": "삼성전자, 美 스페이스X 통신장비 입찰 참여…'스타링크' 정조준",
       "url": "https://www.creditnews.kr/news/articleView.html?idxno=32975",
       "ts": 1795719372
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Mexico Central Bank Lifts Growth Outlook in Boost to Sheinbaum",
+      "title_ko": "멕시코 중앙은행, 경제 성장률 전망치 상향…셰인바움 정부에 힘 실어",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/mexico-central-bank-lifts-growth-outlook-in-boost-to-sheinbaum",
+      "ts": 1795719603
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Acciona Is Said to Consider Merging Back With Renewables Unit",
+      "title_ko": "Acciona는 재생에너지 사업부와의 합병을 고려하고 있다고 합니다",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/acciona-is-said-to-consider-merging-back-with-renewables-unit",
+      "ts": 1795719671
     }
   ]
 }
