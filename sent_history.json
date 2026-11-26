@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795733806,
+  "updated_at": 1795733959,
   "id_hashes": [
-    "efd08f2c339aced3b8244b917a3ec68925014c46a3412d2f71e15ef028681105",
-    "8b423561b8ef4c0f5bee77b849cb715ea2e5fe75c8c9d0f3474182e7a087e8db",
-    "26fd4fa31f4590b0dc4dd6ff1033500d036f9df87cbdabcf2ec1dcabc06e9e0f",
-    "aeb2c44a4b6ed3d6659f01c94d8de670132fe52c4fe24a72cbc65a5bb7c4dd9d",
     "4df07278851ff5217df6b2d24e7e1624d0359b75080ddb0b67b4e6571bb2aa33",
     "72954b33ad9b09d90ecd5ea5136555c77d5d44caa68359fe3379e2be8c6f35dd",
     "4cb403eaa436498f5a5ddee1af4a9fee89c299233536852239f69f69b77d49e8",
@@ -4000,14 +3996,13 @@
     "0c84388cfb87fbd12c6b0fd4278eb1423f1bed15ddb0c3a099ca692ad19fc503",
     "129c0f979eb2601f7863b61d0f7cb8f1604e8bdb669dd5d5d2e773490db7e91f",
     "ed53ad5aeda08582d82318e9b87ad96b08a72e2453d513ce0d2838217b3258ea",
-    "17eeaddbd6fc852cfc61f083d1b46d54373cb3a4553dd20212deb9b66f5c6a7d"
+    "17eeaddbd6fc852cfc61f083d1b46d54373cb3a4553dd20212deb9b66f5c6a7d",
+    "6960450e07dd94fbb35afe89f0e2f242e0a24a0088dff5cb6946ff03e3e4f2ff",
+    "a5095170e5d501d259c8c5242d70755f6103cd49393da6e80bd8a434e5de8c96",
+    "f8a05ad1dbadefb7d415a23d178003883b10a4bdc2c9a384c8eadcf80ff09294",
+    "357d17f2971c38fb8dd4ec91c0d97d64c87aa4eefb933bf6473900e6f128ea57"
   ],
   "title_hashes": [
-    "e3d53251e9847a30e399affdc799192a8a7459f9d02e67596225437252342da5",
-    "68c119d20a85a05bd51d5eaf32f94d1fc30d903aba943748ad6cdf90ea2d1ec2",
-    "2199d2bf825dce60472a12724c597c8e7e74409949899350f7e27a77e4d6ee37",
-    "31fce5d124a68a5e283a76c8c7d8693bc3341988abda2936181e5b8228e2780c",
-    "27b04070b9213a5089026b6ef033b6e0993a29a3691e127bfe82089ef47e044f",
     "b3df8a84b30ced3b1a903223758f868295f12a764f36bfd106dd39b7f0efe83f",
     "105b7315eddb369c9b1eea073be68b06623f79995ad49874708c0f3a96cdd50e",
     "5c5414d4eff95f79486e46680b200df2e8529fcd644ca7bc62d328af6698377e",
@@ -8002,16 +7997,14 @@
     "b8dfa68416eef699b3f0cc59ea99010940994bfcd345c406e87e9e35c7965213",
     "4aff28a739578eaa56978933fe84f1402d3b430dff905560b5db03544de18ed1",
     "3403fdec86d22494fdd5d6f4a477e440aaf7a164ca7e864ccc18097414c1126c",
-    "05dd740b2d554d092a1621690bb313b5f0d663057fa2e0b4a26c685c08c07391"
+    "05dd740b2d554d092a1621690bb313b5f0d663057fa2e0b4a26c685c08c07391",
+    "0c848b27e885959be8043920be468ba78f57223bcef4320be77d7debb8339c46",
+    "23d14ba4ea0781cef9d0f25000fcbb55b12104c318277a09159d301fcfe22190",
+    "32618c04707d6d2802e0b40051bcc72d22fb0bb2b5384235ef9bf1c00c794660",
+    "7e503a3b096305f631ebacd2ece40e8be21d390333cb9a14d81d96129ddb4f27",
+    "75b9a9b2c0fe80c93f9c36fb41cdac429182150e54570eb563645b8aec856611"
   ],
   "recent_sent_articles": [
-    {
-      "source": "서울경제",
-      "title_en": "[단독] 금융공공기관, 코인거래소 최대주주 길 열려",
-      "title_ko": "[단독] 금융공공기관, 코인거래소 최대주주 길 열려",
-      "url": "https://www.sedaily.com/article/20119494",
-      "ts": 1795683883
-    },
     {
       "source": "서울경제",
       "title_en": "“엔비디아는 하루내 고쳐달라는데…주 52시간제 막혀 대응 못해”",
@@ -11504,6 +11497,13 @@
       "title_ko": "\"머스크도 줄 섰다\"는데…삼성전자 주가는 왜 '지지부진'할까",
       "url": "https://www.fnnews.com/news/202611270730391182",
       "ts": 1795733805
+    },
+    {
+      "source": "9to5Mac",
+      "title_en": "South Korea proceeds with case over allegedly misleading Apple Intelligence ads",
+      "title_ko": "한국 공정위, 애플 '애플 인텔리전스' 허위·과장 광고 의혹 조사 착수",
+      "url": "https://9to5mac.com/2026/11/26/south-korea-proceeds-with-case-over-allegedly-misleading-apple-intelligence-ads/",
+      "ts": 1795733958
     }
   ]
 }
