@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795699535,
+  "updated_at": 1795699693,
   "id_hashes": [
-    "45875bfb55ba966f3106c127aa8dbd8f0094f3d5c58eaae215c92fd945f202f8",
-    "238d37b204d2c1ebe07b2664ed2b88664edecc1c72ebe5e0b2f4eb4bf3ee45b3",
-    "124527969065d64ae7bd8b725ef6afc85e02ce2e6ad254a43d8e8c090d75bc4c",
-    "4cd419d6112f1a4b1e9ac3c1e94938d1c3bf0c195818db15e831737a07f48cb6",
     "2aecfa5a9951dd4de813760f05cf66871359ae971e0076bd376a8586be62c106",
     "cb61256987bbf771447b75e0ab9ddf356ab050943b7cb4ad3bf8fc19a3e0a490",
     "13ae71c0aba13ddd9e0ae3bfdcfb3a8d43c7b6dc01543f1e24477c5229d5aab0",
@@ -4000,12 +3996,13 @@
     "87c321f01099f88685e6cb3c5ca4fddb392a7b8b5eb58751aef2f9a8919fa4e3",
     "501dfb154bd743097a766af131de2783c8ad9e6686a96e73ef0505ce3dfd43df",
     "21224ab6514df58c588fd69f669832f553cc253b3afb8b29cad2a1a3f55fc853",
-    "02a8c1f83b9c442938dd522dfb5d2f39bdf54ed3fed295d47e41a55dc6ee1c72"
+    "02a8c1f83b9c442938dd522dfb5d2f39bdf54ed3fed295d47e41a55dc6ee1c72",
+    "1913bff5ba02ca89881949b3ecc45a00f34d7bce7716398a1fe87841ec49e1d9",
+    "d59d73b4c78229b4a28e28266313f377d87bf3159a74cdf06c7fce9edfb97639",
+    "16a7f59e91afbad4d0a32af5da317dce4d22a69ac1704089017b64ebfd1dd777",
+    "d6087de26754a8aa91704864836ce4a8a2e9ff69f2be251756f4870cd27f57aa"
   ],
   "title_hashes": [
-    "1312c5426368bcb09de1a63a495d4ebe175e2e6e4725f20f957aa83e310a8f07",
-    "e03246454ed9f3db464be7db64dde0ea301f8c6ea7695cab3ddfb134623f9f00",
-    "15b9f7ffb7a75204cbff3939c98460789a6776bb96148c638dab1cb1d682416e",
     "6a6b8b274032809fbd7790459823acbb0e1efb7f89ffeec54a28d2da95beb96f",
     "8dedec8e4ef77c262839b0dd20a9f1e734222d8a5cdc7dbaf5293ce6326cda75",
     "0208931bc625c08df1e1444afbfc214bac5a2b18710e9bfc5b37596160505917",
@@ -8002,23 +7999,12 @@
     "d3d17c0697b8581b4a183174299552de24efe10b5084db2fab1dfae0e8913bcf",
     "042f83e8c3fc9f3f136c5a173dcabffc4b8fbef6806cac52540cdac662424f1f",
     "b1935943109a075e2fb24af37ca4d484e2bcd5325b2f28dab286ca372a2a0710",
-    "68b32dc13b7e1bc7d8183fff6701d233e7769b8ddb069079d8241cd62f3bc8da"
+    "68b32dc13b7e1bc7d8183fff6701d233e7769b8ddb069079d8241cd62f3bc8da",
+    "51946a05a50f56ef1be98d44bd4270eb7b23ca2610cc82e0d705f97aab52fde4",
+    "2bafaad3d282ecfbd14f598a5525137025120b5f64c49ee12a3e8a754a1e414f",
+    "769c2f07dead1a262db0335b0b0abd6ec102f69bc558e65082f052b9cf125a0e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Asian shares rally on dip-buying as markets shrug off new U.S. tariff proposals",
-      "title_ko": "시장이 미국의 새로운 관세 제안을 무시함에 따라 아시아 증시는 하락세로 랠리를 펼쳤습니다",
-      "url": "https://seekingalpha.com/news/4676736-asian-shares-rally-on-dip-buying-as-markets-shrug-off-new-us-tariff-proposals?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795673677
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "속도 내는 용인 반도체 산단·배후 신도시… 홍지선 장관 “인허가 병행하고 안전 챙겨야”",
-      "title_ko": "속도 내는 용인 반도체 산단·배후 신도시… 홍지선 장관 “인허가 병행하고 안전 챙겨야”",
-      "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/26/GLMRYMXIXZEENJKAIDL5BQURU4/",
-      "ts": 1795673855
-    },
     {
       "source": "연합뉴스",
       "title_en": "엔비디아, 동남아행 칩 출하 중단…'中 우회 접근 차단'",
@@ -11504,6 +11490,20 @@
       "title_ko": "ECB 관리들은 인플레이션 전망이 악화되면서 긴축이 더 심해지는 것을 보았습니다",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/ecb-officials-saw-more-tightening-with-inflation-outlook-worse",
       "ts": 1795699534
+    },
+    {
+      "source": "Wccftech",
+      "title_en": "Microsoft Frees Up Nearly 900 MB Of RAM On Windows 11 By Cutting Memory Usage Across Its Own Apps And Services",
+      "title_ko": "마이크로소프트, 윈도우 11 자체 앱·서비스 메모리 최적화로 RAM 900 MB 확보",
+      "url": "https://wccftech.com/microsoft-frees-up-nearly-900-mb-of-ram-on-windows-11-by-cutting-memory-usage-across-its-own-apps-and-services/",
+      "ts": 1795699563
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "SAUDI CIVIL DEFENCE SAYS DANGER HAS PASSED IN JAZAN PROVINCE",
+      "title_ko": "사우디 민방위대 \"자잔 주 위험 상황 해소\"",
+      "url": "https://t.me/marketfeed/1085918",
+      "ts": 1795699692
     }
   ]
 }
