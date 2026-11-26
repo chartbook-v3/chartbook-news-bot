@@ -1,7 +1,6 @@
 {
-  "updated_at": 1795717736,
+  "updated_at": 1795717883,
   "id_hashes": [
-    "e0cb89043f3e8e84959889ce60691f47cf5d0582f72457092e58755064d139dc",
     "f077b8b43ab0e135cdb6208f0fb71d4f435fee93c67f840be14bdc0636c31c64",
     "fdda86d5f023e753b74a6b0d9855e483e851468ad65dbe20c1fa4761d1af7a76",
     "500d229bf0d3922390d6d77c1360636992fefff4dc2454f8deb6f52cd7a3f027",
@@ -4000,10 +3999,10 @@
     "e2b319c8a26668ab54a539d57658035d4927b6282c1d7af1cfead2b60e796976",
     "9ecf80048d6edde26724bb3f041f020cd586e1651133f0174b05ed4eb7902cea",
     "7d03557a4a83f9ab167bd43b176d244ec4adefc134bbd30469ecc27e00dbc065",
-    "74679fd7b12e85cd96243c0f59bd4561e3d92e1e7f84d73f38baace89ef8b8bf"
+    "74679fd7b12e85cd96243c0f59bd4561e3d92e1e7f84d73f38baace89ef8b8bf",
+    "9f307b3a47de3b6749da5c60b435b0aeda510aa3495389d1a3de2f0be6117dae"
   ],
   "title_hashes": [
-    "de1390e8a04e98033051c4a7bb22f19a76316ca68a70fcc42cdff51294d05324",
     "3f70f65ca2480bb71ceec7ecdface59a42aa7b9608e2bc414d2cfabe60c12024",
     "5b0b3c0bbf1de0021da19ff98e001a1f8ee0b2a1e9c4300234b7107c2a65106f",
     "cfc7f7cfffc4ff497c420402e6292b8ffc701961e5523901e42f431e7164e15b",
@@ -8002,16 +8001,10 @@
     "38c69112dbb502e4c398564e8f9345234f23ecaf5c5010e9c5eea407ea20f7c8",
     "7bfe976b7d7fd946e1cc2ef69252f44e055ea9b4824a224cb290a910e0360b02",
     "6125993621ac1c4a6072c628ebb7a889c6e597f1a86147533a7535bc62853df1",
-    "71f7f43234a5afe94b6dd0cc48e4960eb234b1c910ba64b8bdd093b2bfd775cd"
+    "71f7f43234a5afe94b6dd0cc48e4960eb234b1c910ba64b8bdd093b2bfd775cd",
+    "7ea785ef0f3360bbf21ffef692d2d3e8d2e2445c1098cb1a8dbdda808bbca3a5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "NORSE ATLANTIC MAY FILE BANKRUPTCY, SUSPENDS TODAY'S FLIGHTS",
-      "title_ko": "노스 아틀란틱 항공, 파산 신청 가능성 제기 및 오늘 운항 전면 중단",
-      "url": "https://t.me/marketfeed/1085752",
-      "ts": 1795680002
-    },
     {
       "source": "MarketFeed",
       "title_en": "EU'S COSTA SAYS OBJECTIVE TO GET CLOSER TO EU BUDGET DEAL AT SUMMIT",
@@ -11504,6 +11497,13 @@
       "title_ko": "\"中에 1%라도 임대하면 칩 못팔아\"…엔비디아 판매상 강경방침",
       "url": "https://stock.mk.co.kr/news/view/1206863",
       "ts": 1795717735
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "英国两年期国债收益率涨超6个基点，2/10年期利差显著走低",
+      "title_ko": "영국 2년만기 국채수익률은 6bp 이상 상승했고, 2/10년 금리 스프레드는 크게 줄었다",
+      "url": "https://wallstreetcn.com/livenews/3206589",
+      "ts": 1795717820
     }
   ]
 }
