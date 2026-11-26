@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795733348,
+  "updated_at": 1795733498,
   "id_hashes": [
-    "3778394b48420dfde99a158af3623e7ee5f9b4d766ca2fe7c26e87fa990ee3f2",
-    "274012515b399295f0ec7c04b0d3a157945ab7ebe44f39cb1bcbd1f33c8bedb2",
-    "ca03143f20ef73f741e687e4815d69ccc62720bdc61043b81ddbd6042cbe26b2",
-    "ad1c2a404b62306580f6985b326b6532c9f72ca35e2b6e8449b4b477c2b20fca",
     "9b3d9df00c717dda06bef5b170387c7e7c3d5b9f3fabe3d7e3d6199df6eee16b",
     "4d0cc995941d8adfae893b055648dd220d2a6f8fd92e5365337a289a0b8575ae",
     "15277f0d0b5ca24aa40a468edd861d3605057466dc34862c75416e09b0da7375",
@@ -4000,12 +3996,13 @@
     "adddf5dcb56ef094a8fe544a10e006072dc873a6d27525e40c8b57b97a17cfb9",
     "43c941879a396179776a6c37f68ac4064e5d81c6f0f1e29c094586c6beaae486",
     "cb7ccdca00a32d42b37c90c91434f4ced9b9afc7e4ba40493da2bdf750cc6a53",
-    "06f3f81db009aa8b49c5566f52a83a978bbf2c05c47e7afa997c9bf923b90dee"
+    "06f3f81db009aa8b49c5566f52a83a978bbf2c05c47e7afa997c9bf923b90dee",
+    "f06103e8cd51314c9b878eb19728c5dfa485388802816c1bd2b230c55d5fa4da",
+    "845bc57473c742ea6e300d08444aa46f5833039a73e4babe40fdaa5ab74e4f06",
+    "2e59cb7907d3a8cd8a3204c6dec0d1d6b3c14010fce5dcb170b36e7f6fb6c0da",
+    "b9b29976460a1222af22ae08dfedb44f31b1a73bb273d6bb3e5da84da30d2dcc"
   ],
   "title_hashes": [
-    "6737636fa9daa80b17936a8756c11c4ac36118825c77d6b6f0d23b887c8ca14e",
-    "4cfba325d88424872d6ee605fa080bfb6f7dafa172ef7ca40062c075c1c2014e",
-    "c6b36903c5c54af6dba67d1fa383fa7f84a09dd3816e06acc6a964491b84cba8",
     "167c0d51d3a95fb26a355e3a5c37dce5690d25766c58b00fa8dfd66d1340551c",
     "716562732d85fd7f6d5867ba8be1df58c2fe5d2829d7482f3bc54fbc9eac7ad5",
     "8bb420e41983cb5602c50b58e209a4501d6977560feba514bdf7c69cedbe2313",
@@ -8002,16 +7999,12 @@
     "3bedbd5a4372e67f6893c02e264248577b4e8da082e3962b7eebf2a18d40acd1",
     "27c16eb6592e4ad3f0320cf7d9fb33d0f05def9880deea3312ef70434778c9c7",
     "ab796fd07dae1c2f5db39de0860f46245faf7ef2f1208188d39fe4d862b21687",
-    "99706fc5700333f24346ec10a6e72422797a22041e7c0490e516e74158ef5401"
+    "99706fc5700333f24346ec10a6e72422797a22041e7c0490e516e74158ef5401",
+    "192da6beba6e27f18fa5d509c5f81c46bee4e3d0c8f3335799b8263fe3fb6c0b",
+    "a715449533f72d39ee548c70ef91240fd78d58af61146ea3be56858120be921c",
+    "7aed827e3dee3101b06ce9785dc84b84637801c4ccf61139ecfa810bbdc1ab8e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DongA Science",
-      "title_en": "[사이언스게시판] 우주청, 누리호 육상·해상 이송 절차 사전 점검 완료 外",
-      "title_ko": "[사이언스게시판] 우주청, 누리호 육상·해상 이송 절차 사전 점검 완료 外",
-      "url": "https://www.dongascience.com/ko/news/81095",
-      "ts": 1795683544
-    },
     {
       "source": "매일경제",
       "title_en": "대미 관세 최악은 피했지만…반도체·디지털 규제가 변수",
@@ -11504,6 +11497,13 @@
       "title_ko": "미국 배터리 스타트업들은 워싱턴이 자금 조달을 검토하면서 두 번째 바람을 발견",
       "url": "https://www.digitimes.com/news/a20261126VL215/funding-manufacturing-commercial-production.html",
       "ts": 1795733347
+    },
+    {
+      "source": "한국경제",
+      "title_en": "\"한컴, 노마디안 해외 확대 비용에 반영…목표가↓\"-키움",
+      "title_ko": "\"한컴, 노마디안 해외 확대 비용에 반영…목표가↓\"-키움",
+      "url": "https://www.hankyung.com/article/2026112736136",
+      "ts": 1795733370
     }
   ]
 }
