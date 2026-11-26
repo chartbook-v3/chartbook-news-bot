@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795703932,
+  "updated_at": 1795704084,
   "id_hashes": [
-    "17c37477b392d63774360d0ed180f8f442b03c2fba6c9fe326f0c0cbc7bb79eb",
-    "7452b215e9b5756c92973334edd4cf671577261e1d0f712d86a787ab332cb80b",
-    "dcb450cca74f22f524c8f6cc4b115f0544936b666fd8741f36acde234e932e5e",
-    "37970278b0602f72c42bb754eb3b22c49b2d7a0ee8c8c10da3ca294b27b7202f",
-    "6be31244a0f8c61a5906803b2bf945f09985938de1e443d7156ceae08b2b8ea7",
     "b112a18e4773a0a56ebc4c255b6d9ab69e55f1912f4bf319b3ddb94fe72e3631",
     "39d64892cb05e47deb6343184b5cf021e49487899f0b8674f141c308d066106e",
     "55e604a27d867d05af8cf1136c2c8196689a057deb39d08e9a7c951576189377",
@@ -4000,13 +3995,14 @@
     "f236d0d055a6407726229e7efba0740a4e6003b07de2cb66020aaaf91976fcb1",
     "47ed3c3a7c7fd2803aa09e558b8be2655e725cce473fc62f1fba76c95665e2a4",
     "9ff0a4f5c876c429b8ec71c9a401ded7417ef686ed952fdd3f2159eff9015fc3",
-    "3ee77ffe716273af4831f36ad56058009f1c38fcb3e74837bf8680114fe236b1"
+    "3ee77ffe716273af4831f36ad56058009f1c38fcb3e74837bf8680114fe236b1",
+    "32b83ae01c2e7c983c353773441a75b8b4b93c107ad7d9c2123297cf28991380",
+    "6f778f126bc52d491852b1f71ddf3ec2a427427c5a524917cc76128edf36b2bf",
+    "dc9eddf99f9851b4ded089e4a93289c2c7e39d2f2c589ef5e55661fd13254e80",
+    "fd1b289bed68e74f71e1a7b84731cc22356751406e8f1f0fb3c8f058558f40b0",
+    "e2cc42cdd0af9efaf98b1f8e7f30e768acdc869ce3a7d78e208db303f6d1f9ed"
   ],
   "title_hashes": [
-    "5986089311d49f96c6a650649e41932fcfa2b443855d3d58fc81d11e7fe7adee",
-    "638b6b8c60a9d25738bc12ffad2e6562f0ecd09b0227d87e526bcd93e0f0d08a",
-    "a653beaddea766b3ca445ac14b6c2c93d2bc1f53337ed0c3bc384e2c3307a27c",
-    "2b33794d19ef180936c4daf55dde049677357e986bbf2983abb9bd94f80c6732",
     "7caf109487db4898fdfb298771ab10f6b278a490a15ec30d793da7606203bdd7",
     "c8925afac042e895eee3b4fdb53a001e10e33ea8157f579d2f10ffe2aa27e0cf",
     "19d44ee9074886301e4acbd85426cc2598bf87b5b31413249e3f423e44e4346f",
@@ -8002,16 +7998,13 @@
     "243cda11328723df1de04492e68cc1628130d84d945c627296b67ef539734d24",
     "aee8a94cfb4c1a92d99a12b4cd407fc0555ebfb50a79d92394fda72ea9c59eff",
     "8d8782c232ca9cf91789e6f605665bcb15209609479f20b8952d437889c41a3e",
-    "ee975aa1af6c11e4b7ee2c7c680348f7629f650fbf761bb0497346482c10c8b6"
+    "ee975aa1af6c11e4b7ee2c7c680348f7629f650fbf761bb0497346482c10c8b6",
+    "c03293d903cbd38a82da61b2e93de5a2b173b86f51194509f43040f278c7d3d0",
+    "1f4354ea6f20907b75e2dff8ca463e8ec85a14b86a0d4be4654181ec6e25dc0d",
+    "37d98969fe3b27bc789d28bdd4eaaf461dce6ed3337e79dfdc16fb9bcc3a2baa",
+    "5a8bb321b5d4104ffa45a979ef0e366ed9731b35a7bb717696d5619fff4a2dc7"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합뉴스",
-      "title_en": "금융위, 내주 금융권 긴급 점검회의…10조 증안펀드 준비 시동",
-      "title_ko": "금융위, 내주 금융권 긴급 점검회의…10조 증안펀드 준비 시동",
-      "url": "https://www.yna.co.kr/view/AKR20261126147600002",
-      "ts": 1795675708
-    },
     {
       "source": "MarketFeed",
       "title_en": "UNICREDIT: ALL COMMERZBANK OFFER CONDITIONS MET; CALLS FOR EXTRAORDINARY SHAREHOLDER MEETING",
@@ -11504,6 +11497,13 @@
       "title_ko": "Broadcom이 NVIDIA, Micron 기술 및 나머지 반도체와 경쟁하는 방법",
       "url": "https://www.benzinga.com/news/26/11/63662194/how-broadcom-stacks-up-against-nvidia-and-micron-technology-and-the-rest-of-the-semiconductors-semiconductor-equipment-sector",
       "ts": 1795703783
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BULGARIA IMPOSES 33% ONE-TIME WINDFALL TAX ON BANKS, INSURERS",
+      "title_ko": "불가리아, 은행 및 보험사에 33% 일회성 횡재세 부과",
+      "url": "https://t.me/marketfeed/1085936",
+      "ts": 1795704017
     }
   ]
 }
