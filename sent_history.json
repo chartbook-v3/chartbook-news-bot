@@ -1,28 +1,6 @@
 {
-  "updated_at": 1795690024,
+  "updated_at": 1795690197,
   "id_hashes": [
-    "0f4722cb607da68bfd01d29787db354dfb1b477345e2afe50590c2bd4cc65c58",
-    "335eb3e14029b485cb11721a430804fc59f59af3bd8aa606c4833dc98921ef49",
-    "4246c61c645d127cfc39f75fa2ef36319d5812937d69ac08b0c30091859dc3e1",
-    "3a199ef557ebb0594479a1238f62149f08c04dbe45f6988e4e3b61407be3f5c8",
-    "a2a064f0f1e405894b99e2084c514334b1278506dfeb5c50697ddd8cb6f2163a",
-    "4688f3a94e4901a7db67697b7802d97fb697885d4856bc001f733541dd67d967",
-    "145a191fe470a55bff5eb57e432484cde5fa1ac5897f5bbe4254bf8536ee22b4",
-    "74c701a09f871a0759fc472bec85db17d893df510e0075a5bf51855d45e2a027",
-    "120198bacadac51d3ba1ed2182b19772a04125325c22092d3d34294d767c47f1",
-    "ca5acda4ccd5486dba006025d5aadadc4b99228c7a74db32f23938b996619292",
-    "d0da30a937e7470232e0e2ef8057a0a17e1f35c9a27c21f33f400d23a53619ae",
-    "621d32fdec6d07d08daa44403616bc76038ee84199e066c9796fb4c631d29ae9",
-    "f2d75576198600691611ff0fdd216c50fc74356a4fcdc712511aa3feabfcd5e1",
-    "f442d9aa4cf26ffc932fd0dcf5610a0aa05ed53c91381030ea9e0322d373734b",
-    "f3e8f23f48509b80e6f3fc690ff1222868064f61125fd011bd0c780dfef8fd23",
-    "9c166bb2ec3bc169b1d7b768c58bf9c030b1335b90e12c428e551945e92d1444",
-    "d726770934ddb9c4b8f121aa1c729aafe30681b7dd095064474efa3a7535603a",
-    "eed438e03e0c4f3329c45c1cb36f82d4edb279bde56946f5bcc167da77015e5b",
-    "d40b9cdb52f88ca99abc34fda5d8e3c9080f776c81578dbf81e628dc04cd3085",
-    "9fa31177c661412c5ea81fb5cd311fc2cfd5f5769cc0292aca273480e3c14917",
-    "3177ca84490087890d8407b05fa5b88222d2803e69606cce96ff43eaf51c2daa",
-    "8f26b97183b3958f7ba1ab34755986869c15cc251a073b39a780d920c99a1b81",
     "23dbe3f06b5cb467d53f2c94b0ff87c8924da5026f01cde3853c6ee37cfaf6ac",
     "60d12e9b1c2ff6568d8a8a8d7516e779c374d7eb4c847859505cc2208bcee521",
     "fb654679d0871b0eb1013ee95307bae90b71b10b4d0b5f54ef77253fb5b3bf74",
@@ -4000,29 +3978,31 @@
     "c4aea8392b3311fd9e0c2c4880ac0f85d3981d1fb89fa27de7568f3c5915a701",
     "82c11dd6f0976e6a5bde2b4eee0422a5e08add65dbc36500db445e2cbe69ba58",
     "aeafa914c6a1ffc3b1b7526eededdd8831296039fcfcd1eb4e4d22f4811449ab",
-    "4b62aafe60e102d31d1d81ef9002dc1547def9358cd722dd0e713a0a43a384e8"
+    "4b62aafe60e102d31d1d81ef9002dc1547def9358cd722dd0e713a0a43a384e8",
+    "8ea2c747f60ddd0cb15e8370bdf1d30521dfd5ac4994387dd2951d4354667c26",
+    "81e693aabed5e07f93f8369592dd0a577de0ed2f4632c06d6fd5cf185e8e4383",
+    "a2a5cd87febd276b7f71e23608959cdd23f4807fc34f9bd3bd84169f3b896759",
+    "cf64008e2201d50d11cc46de4c105e450a91e6b204b97693922c445d4a430914",
+    "fee467e756878e36fc52c9c4410fc7bd44ced3c0bc2f9868cc1efd0ca288a55e",
+    "66131b4cfa044c529dbb17a46be4deca11ecda0e87bc13697e2dcd329cf87697",
+    "9600e66b3efe5af70b6e819f2642347f191b7457be249c3d3d03f52289a47d2d",
+    "3b8a9093021d4f9b24b12c53f2bd88ba6459693b9d2610e3845cf1f74d32329b",
+    "afc25cdcd32794808d88c148007b46c3355efc450a3595f733c87dc581c2e321",
+    "17bff6e2bbcf404ce9efa9eb78d1b725f348331ff08f759f155b3cff49ed00d5",
+    "a00d66bf10a2502457a9cad816b9ab5f7c5269fe86d0c146a9c88916c174c1b2",
+    "e95c36becd3fe31f885d5aebc8f5891ea165d93657473b44c2a41a7a8d1c9837",
+    "bb0475ca53c22db152fe5fd5b7b9bedc5275b6c0d546ba2c7ec2aa8c4c1b6b2a",
+    "a5fe8374ca7af0d7a42bc93434249cdfa3e6b94ec6045962a590b6ee2089c73f",
+    "e16fbb969d7a8abd3bdfb2bfe8cf0e0d513a88e573888a555160330ce6d86712",
+    "8020904d1a33e452851b3019bff3c6a873a2dae0c1fee950ca67315b22e5eef6",
+    "5df64dc3b645fabfafa9a5f28b782d57fdafc8fbbc81858efefb875281ed5814",
+    "5fa7599a18531cc93645f150e8c6c5416041360d26f7d15ee2f2e56c95053885",
+    "a67cc112a83459d86a5a760be1d5ff3086629e87b31c13aab947e8774af45b43",
+    "340e27144bac112265148669d76f533fe4544608cead7610ac1d262c76717611",
+    "24602a411df85fcded9b925950e71712d6aaf74b42c45d0deb7f5944701c4d09",
+    "ed445edd9628876310cb59304e4e2299c0295954d3498f93edf4da30ba17e088"
   ],
   "title_hashes": [
-    "a9600f0c68071eb2a3e90e8c4f1e297c541ee220c73536a4513b21b6b8a99dfe",
-    "81bb1660445f4a3c572e7f793392a9ca4fab1cf1b6d4625e3fd493862f93c91c",
-    "86723f5514a9bedad2756f132f32e3d02013fda1b01337b082d5611a64b54fe9",
-    "36968ba3bda59177dd1bc3d6c57c806d96ad2a705000b2d50706a57886d71921",
-    "0df2405ffad7639602c3276789ab57da00ad95b509569ad7483f09d9c278ae1f",
-    "498aff56e1db6cca12cc756d9fe9c0300707365763a57b182e703e1945479b4a",
-    "2a91e41aa68b39c9ab9b52389d577b6c54db10e744ee62185c84f4df122dd504",
-    "6f0e87affd89622b3428b84eb556844eda76de1c4bcdd4562ffdf82482128246",
-    "37e1ef22d8cfcf670587f5b8a6f38a5bed79e1b2202bf983acaca04c776cd0c4",
-    "e3ee0fe292c71032724fa5d6ffbeca9815c04a9df3a722ba0e96ae644cbdd6c2",
-    "6834c3610d23dbb8ec5e734bb302d843314efce0226bcc0e2720988726998cc9",
-    "b9cb33dc331896ce469f6281a757f1812f633e381ed0bdbdb8700d8ce728efdb",
-    "7b2dc3b28ad007e5c4e4caec7802a73620a71c045b4d9a83804f8b3ff12c2acc",
-    "3351ce5c07b5a11c804c213ef4dcaf5542af27d3e289624bcf5cda569f52664e",
-    "bacd1b335e6c9daf700d5d1f8ce967e189ea21263133c08e78e65200d1a64dfb",
-    "51c8962faee95aca591bee5bcf669606a9c2d254ff9a0404b35d7fd324ae8f9f",
-    "c0306849f9b93a38f1c030febb37bacf45273c5ba13385f71f63ec4797ce2172",
-    "23ebbb48afa260a4b171fd19f59257897c4d5be532603b5b1d51615d53ca9076",
-    "9d12fbacbe20b93ef80f65e6e07457de6dee1ddc77cfc2a81981b3797de91c9a",
-    "d152203432bbc3d0f8d6a3cddbde9c92ddad0d09e01a00bad8a4b08b11ca9f65",
     "c540f79c3a510c9796c87aa7a9502dd7f7a0731ddf8c2e92c025581be6718fde",
     "77485450c8f79c5af1a73b8d95c44f3b65e951c350d6007a66e151f30099954e",
     "55d5c2b0f9531bf8ee9dd8f4a29c02243c7a2e07892e7f682d68ee62c5fc41e6",
@@ -8002,51 +7982,29 @@
     "706ff36fafbc2b3be1cb58facc96372c6222d30564000fdcad05dedbd340b283",
     "97621bb9e09c13871994e30a64fa113ed2dabbe26eee34d2da69c4331e460812",
     "27fabbf2852aa31324d84c7a346489c963d0cdbf9768b0f96c814039277a4cbb",
-    "cd7664042722863e64a9d5391b34088156ab0deb30eb59351efe14d623087b24"
+    "cd7664042722863e64a9d5391b34088156ab0deb30eb59351efe14d623087b24",
+    "825f540921767cb9275844a0988566f57c52c1d5058b63ecd28d3122250fd0b0",
+    "9d1d2a96f734bf9a6f3bf3e871c35b3439b2e6761ed5e65e64a9a47b58ab36a9",
+    "cc656c910b2c6a79c99f836e344bba91501d99d64d384b8bc2b9dd36f0962db1",
+    "89e8af85bec7e68841e4d13d210577cf6749768b28ff5c6b4501957ca6a0fff2",
+    "dd238e17182b653ce4b950165bc6561c912e2e491541edba7de57b624db8f6c9",
+    "98460c118b7ae2b3ccbf181ddde0ac4ad390e785e9b5fa2ff7586208356db968",
+    "b028ca1b22dc9374f5c78465fde0f32beab074d30d1ad1d790659d9122b680dc",
+    "5cea3bc4f5f78e8aeba9b1c296748a3f2fd59037bf14fb1da4dadf181f75d87b",
+    "31c49e8b188b8259df5c4374d4d6f882de8cbdea776c0cfce2da0fe711f9aae8",
+    "c4595569b9c86a9b1daaa1b6c238db8a3d01c1448bc42c8972cbbd758da26e3f",
+    "c6ac50e1837e5e79ebc5b92ab074a8daa47126f11c4fda192c2794fa7f8f5556",
+    "a402e6d36fbbbc8f00f375eac581b2cd7b1c675cbf3606e5c8be0ce42d2ee215",
+    "8e24496c5a4734fc2f30f18bb1caf9a41b9a726772198ea6c1c004c1d3deada4",
+    "b5f63573e372023af4b9f54ebeed63f62fe77afd3baea9b76a61b66767c12d3b",
+    "05e943a2393e3d450ea301f061f3028f1fe63084cd6a1fcbbd9bb267033b47b2",
+    "c3f83c6510f4da3ffea911e24b6ca09b6f1d35cabdbc6b2a21b05cdda900ec81",
+    "847a2396266233f161f77db7bb94aae8662ce1192496a347f72a043db9d74a97",
+    "59318911eb02afac5eb96b57b5fa75c6fcf5761cf1fac4d523c00df7735b0fbd",
+    "425c227fdcea76fd653dad6bd30ba7cfcbba52e4f3dae48b7fb5668e93ec0c24",
+    "6318080441ae45354cc2a5469c6aae151b40fc776a5bf15901479dabe698d34a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "‘I Don’t Think He Needs a Pardon at All’: JD Vance Defends Nvidia CEO Jensen Huang as Crypto Bettors Put",
-      "title_ko": "'나는 그가 사면이 전혀 필요하지 않다고 생각합니다': JD Vance는 Nvidia CEO Jensen Huang을 Crypto Bectors Put으로 변호합니다",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63659548/jd-vance-jensen-huang-trump-pardon-nvidia",
-      "ts": 1795666780
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "유통·부동산 컨소시엄, 홈플러스 핵심점포 인수의향서 제출",
-      "title_ko": "유통·부동산 컨소시엄, 홈플러스 핵심점포 인수의향서 제출",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446744",
-      "ts": 1795666814
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Trump and NATO chief urge Russia to avoid actions that widen Ukraine war",
-      "title_ko": "트럼프와 나토 사무총장, 러시아에 우크라이나 전쟁 확대하는 행동 자제 촉구",
-      "url": "https://www.streetinsider.com/Reuters/Trump+and+NATO+chief+urge+Russia+to+avoid+actions+that+widen+Ukraine+war/27404147.html",
-      "ts": 1795666975
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "신현송 \"금융중개지원대출 금리 1.25%→1.50% 인상\"",
-      "title_ko": "신현송 \"금융중개지원대출 금리 1.25%→1.50% 인상\"",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446747",
-      "ts": 1795667256
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Nvidia Reportedly Sold Top Chips to Chinese-Owned US Firms - NVIDIA (NASDAQ:NVDA)",
-      "title_ko": "Nvidia는 중국 소유의 미국 기업에 최고 칩을 판매한 것으로 알려졌습니다 - NVIDIA (NASDAQ:NVDA)",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63659572/nvidia-reportedly-sold-top-chips-chinese-owned-firms-ricloud-aivres-jensen-huang",
-      "ts": 1795667260
-    },
-    {
-      "source": "디일렉",
-      "title_en": "비전옥스, BOE 피인수 보도에 \"유상증자 추진, 경영권 변경 불확실\"",
-      "title_ko": "비전옥스, BOE 피인수 보도에 \"유상증자 추진, 경영권 변경 불확실\"",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=65939",
-      "ts": 1795667263
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "FinVolution reiterates RMB 11.5B-RMB 12.9B revenue guidance, expects landing at lower end amid elevated China funding costs",
@@ -11504,6 +11462,48 @@
       "title_ko": "[단독] ‘회생신청 기각’ 놀부, 법원에 즉시항고장 제출",
       "url": "https://biz.chosun.com/topics/law_firm/2026/11/26/LCP7XXN2SJH3BPSZPJCEYKVKXU/",
       "ts": 1795689960
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BITCOIN PRICE ON THANKSGIVING 🦃",
+      "title_ko": "추수감사절 비트코인 ​​가격 🦃",
+      "url": "https://t.me/marketfeed/1085838",
+      "ts": 1795690048
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Chamath Palihapitiya Says Anthropic’s Valuation in Near-Term Has ‘Mostly Nothing to Do’ With ANT Stock as",
+      "title_ko": "Chamath Palihapitiya는 단기적으로 Anthropic의 가치 평가가 ANT 주식과 '대부분 관련이 없다'고 말합니다",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63661280/chamath-palihapitiya-says-anthropics-valuation-in-near-term-has-mostly-nothing-to-do-with-ant-stock-as-market-risks-mount-things-could-still-rip-in-your-face",
+      "ts": 1795690184
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Scaramucci Calls Trump a ‘Marxist,’ Warns ‘Jensens of Today’ Are Facing a ‘Concrete Ceiling’: ‘That’s Not America’",
+      "title_ko": "스카라무치, 트럼프를 '마르크스주의자'라고 부르고 '오늘의 젠센스'가 '콘크리트 천장'에 직면하고 있다고 경고: '그건 미국이 아니다'",
+      "url": "https://www.benzinga.com/news/politics/26/11/63661281/scaramucci-calls-trump-a-marxist-warns-jensens-of-today-are-facing-a-concrete-ceiling-thats-not-america",
+      "ts": 1795690188
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Nvidia tightens AI chip shipments to Southeast Asia amid US export curbs - report",
+      "title_ko": "엔비디아, 미 수출 규제 여파로 동남아 AI 칩 공급 축소 착수",
+      "url": "https://seekingalpha.com/news/4676801-nvidia-tightens-ai-chip-shipments-to-southeast-asia-amid-us-export-curbs-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795690190
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Factbox-Status of Asian nations' trade talks with Trump",
+      "title_ko": "트럼프 2기 출범 앞둔 아시아 주요국 통상 협상 현황 정리",
+      "url": "https://www.streetinsider.com/Reuters/Factbox-Status+of+Asian+nations+trade+talks+with+Trump/27404455.html",
+      "ts": 1795690193
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "海航控股：控股子公司新华顺航拟以现金14.22亿元向山西航空增资，全部计入注册资本。增资后新华顺航持股由72.82%升至87.01%，长安航空持股由27.18%降至12.99%。",
+      "title_ko": "HNA Holdings: 지주 자회사인 Xinhua Shun Airlines는 현금 14억 2200만 위안으로 Shanxi Airlines에 대한 자본 투자를 늘릴 계획이며 모두 등록 자본금에 포함될 것입니다. 유상증자 이후 신화순항공의 지분은 72.82%에서 87.01%로 증가했고, 장안항공의 지분은 27.18%에서 12.99%로 감소했다",
+      "url": "https://wallstreetcn.com/livenews/3206393",
+      "ts": 1795690196
     }
   ]
 }
