@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795727743,
+  "updated_at": 1795727894,
   "id_hashes": [
-    "33e34775da931844bd677c17abcf4ce8421ea880ac487213d6b3161653e15c2b",
-    "f2772a06039992349ba8a0fdbe13292b5d8cf28a21d0a13fae1247b1e51437aa",
-    "df99d1048924098af86d4ffff56e3ad40a95647df75e608f60d6c8a1630149e0",
     "dfc02eabe89bbd6dc39c10b4db0834b484b888cf82b70bded9543e7babe3d7a8",
     "a704556e292ddb2ded1391a612605b1ebf4b5cc201e80930fe7bc8b762d9ec50",
     "eff41fb13375aac043977d8d296521103b3071cbbaae486af2b0f24406ae410d",
@@ -4000,12 +3997,12 @@
     "94b58e4d414273960e81677e2fa3a96b23f92e44d99175125ad9945b98a831e2",
     "42db6602f48b5c8420ec1ef8d9bcdbbb02bf3e9d8affe55d10c8d166e833593f",
     "a6cf09d76dcca73785e16ccc6aba59c8e3e97067049460106f688b5624daf458",
-    "cc023396eaddf1b6de67a47fe850570db27059e311e0dfaebe842a1758a4641c"
+    "cc023396eaddf1b6de67a47fe850570db27059e311e0dfaebe842a1758a4641c",
+    "ed732590e90834ffe5a631657368eaa83c41dbc3aac47a0c03827a4922025ab1",
+    "2dfc6c6797caee49abb71002c7836f24014ded0819e5108a312cce402df36397",
+    "20b362d94a28ade9376d8d19e267db1292c9a4fc0abaca93955e132b6c4b112e"
   ],
   "title_hashes": [
-    "445e0272f628103bbde104af580045fb66703d50d3963242b3ed4e379bc5aaa9",
-    "eda6445143005079ed409c9337e936b2ac86ac7074a9f640e399ae3eeb870c6f",
-    "273f7f39df535dc1eebc615feabf3ee17d02082929e553b90e501c67cabdd3c0",
     "458481d3a574addef16a429eb6549ef5f10330aec7d4944648f8d1609003e0bd",
     "93a8f30eed807a779ca7ff754a280736ab887ee9be4d9492667be1a45a2a5eff",
     "46dcab7727bf7235c0ca0a2f8b46cf94bf3a8cef6428b3a19c4454163d7c827c",
@@ -8002,16 +7999,12 @@
     "d8cb69c95d73295bfc1ee9955bae48f4f80e2d4c25f02fcecd38b24aacb63d41",
     "f8ecc4e8af28f0d4ba4aee27b9e3eec20d81493782bd9a57ba626e116a200ff8",
     "b81d1a243f2578c54062ddf6c20b7a897571f5120949e15b2e0db9b44f06fd35",
-    "d52dc5e3568b04e8b77629a2df30453e166a102cc1297969a6d4ca72b277b996"
+    "d52dc5e3568b04e8b77629a2df30453e166a102cc1297969a6d4ca72b277b996",
+    "0015841511de5447910b23b81dd2d51061e89c1bfca240b5e574d37a1cecaf5a",
+    "91eb42ff7429eced784f67ce737143d413a249a9f6681c2d62c55c8c9b8b3f7a",
+    "7a6a403225f8103a1df6a6f83f35a4426ce4a97dd0cf3716c4e9fb04e3fc067f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "LATVIAN PM SAYS WE'RE NOT LOOKING AT FULL RUSSIA ASSET POSSIBILITY",
-      "title_ko": "라트비아 총리 \"러시아 자산 전면 몰수 검토 안 해\"",
-      "url": "https://t.me/marketfeed/1085762",
-      "ts": 1795681571
-    },
     {
       "source": "Barron's",
       "title_en": "US Clears SpaceX To Launch Up To 1 Mn Orbital Data-center Satellites",
@@ -11504,6 +11497,13 @@
       "title_ko": "First Helium은 보류 중인 인수 및 거래 중단에 대한 업데이트를 제공합니다",
       "url": "https://www.streetinsider.com/ACCESS+Newswire/First+Helium+Provides+Update+on+Pending+Acquisition+and+Trading+Halt/27404830.html",
       "ts": 1795727627
+    },
+    {
+      "source": "Wccftech",
+      "title_en": "NVIDIA Profile Inspector Creator Releases G-SYNC Tweaks, Tackling OLED VRR Flicker & Annoying 60 FPS Stutter",
+      "title_ko": "NVIDIA Profile Inspector Creator, OLED VRR 깜박임 및 성가신 60FPS 끊김 문제를 해결하는 G-SYNC 조정 기능 출시",
+      "url": "https://wccftech.com/nvidia-profile-inspector-creator-releases-g-sync-tweaks-tackling-oled-vrr-flicker-annoying-60-fps-stutter/",
+      "ts": 1795727832
     }
   ]
 }
