@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795688118,
+  "updated_at": 1795688281,
   "id_hashes": [
-    "913991fe2c142969112bcfeb9818939fa5f699b9f0d463d93b5ca019188096e1",
-    "bceecd07869c28c975def5f270ace4ac3ed3d93c035486a993ed29fe6531259a",
-    "383efadb8bf0aeea907c7dac771ac961f18930de77aa31501d51ec93ea5cc066",
-    "9f8102b081916a72b9bf0143f3a33e8b66ec9b2d7d440a9003c015823d125284",
-    "50940599e2425f34a47c92d1b576330ba6eb328ff47bca70da4f5c2047df8a82",
-    "4246fd62c6e13007ff5f629d4fa37c6a405e341f6e4eb409233d4c271239ddd9",
-    "318b2ab3b7f609404b9f4beb5e2838247da2539c2d9084c5ae7c56b92b1d6e64",
-    "09761b17398d96616db0796923eb65ec94641257c1de716dc56fff4d8e974243",
     "6cceb5af2b6bba827a22a5030b24563758132ca52efce866d5c1e54a4eb82d32",
     "fe14a3bb653407553019cef92523cb84eae09c77302058f9ef7f11c8ead9591c",
     "b2b4f98b30b314cd5578ddad21040117eee69a502b190c7785f6bc4ae06aabbf",
@@ -4000,14 +3992,17 @@
     "74ea0271c24d098918cb68c6cc40832748af45e5544928186fabaab0b57b0f71",
     "e712176a89e36707f37db3bf6484f5fddfa0a054012a602adcd088fc74e82f4c",
     "beb3c1d37827d27849e20b7997f96ad2fc9283e60eb207d57342fccebaad33cd",
-    "66b07ee86a069496c86406b8a6ea615972902b3b12ec5666bfaa06a72dc96b25"
+    "66b07ee86a069496c86406b8a6ea615972902b3b12ec5666bfaa06a72dc96b25",
+    "580233330621ca00754ae74135061cda82d287571dfb3bcff2f4c4f80eb33043",
+    "d8e4034131eef81f30b3d2415aedd194cd1981d856de30a9a13d607b937e8578",
+    "18a848639325f0f6964cd8126350d4267812d18eef505563fd489dc463e9b77d",
+    "4ce247d3112da3fa8ffbd1139d2e1d2ecf41a3fcec7b5769ea5da1c97949c227",
+    "3d2326cf307996fc1459c0db81953dd84fa89b3c0565ac5060521f95a3d3f4c4",
+    "4b45e9b653a0848419d6ba38366b007384f2575d45f595d2d03e9f78eecdb071",
+    "fdde0fc13edfded0f441671b745dd0a2b4a221bf945787a97a16854d1197d0f9",
+    "d9ab27ef555965c9ae4461a2ca5ced3e19263511f57c6cd6da0161fc0922507f"
   ],
   "title_hashes": [
-    "b8051ae1e1a7a491dc2c4e61828e85a6f5c60e009adb4774bdae0051f2de6222",
-    "efaa556fd00d31e4c8fa0dd75f3560873e6c2497684786b237a79d6ca5be4634",
-    "a1af64e183c62991eb469a841ef720e498a38f0da67b7537e81e32852be8b27e",
-    "a7670a4bf3f4619939e55759343280e45cc4918995485367963066389cf1cc71",
-    "fe44a2f859eab701ebe892da575140f101a042e6a1d93eaf4b9881c882da7952",
     "23bd5dae5f3239faff644d456f78cb08262cc9f4389aa5c0bb18c1c238b281d6",
     "cc6efb60e58ffbdcdc38a312e960658f673aa73860ce9fa8ea79b2213cc5b3a9",
     "abf1d1c9c605d22b1c1c0d78a7cb9f52cb50ee9dd3ae8d1daa4c7c3926964022",
@@ -8002,23 +7997,14 @@
     "a62a2d6b702832ad820151ecfd3034bc3d65c324665217bc6b5c21d16846e7a0",
     "6fd8f95b5c9f784d99020157e3c7ab55b6cec324a9e4eec508f10bf1518b141b",
     "b8bffa1614a23c9ce77c3b8af903eaffe0688017ffd7a2286f1ac4dd73168867",
-    "4c37e6a4bc477a5524232c1e470e2af55dc06f8337d94e60fc225fc1f9a4580f"
+    "4c37e6a4bc477a5524232c1e470e2af55dc06f8337d94e60fc225fc1f9a4580f",
+    "7a4ff53752515e73060374e45dabdfd5d2b99119d654a14a96ec721cac043b15",
+    "7e6be9b936f4088db9e049b0eaf8798ebc23547b0dfd0d098e8034a87a095275",
+    "2a7fae81369936711747c08e0b27dc2d4921b2ce9afb6da919d8fe72645540de",
+    "4d94b01051c13259a5683f2bd9fff837e34a3dc63388945ad9ee568bd98b48db",
+    "689aa360f9d0fb8df50d71f6428f5afcf7036aef9f993cd2c03f97f745f23b71"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "印度10年期国债收益率上行5个基点至7.21%。",
-      "title_ko": "인도 10년 만기 국채 수익률은 5bp 상승한 7.21%를 기록",
-      "url": "https://wallstreetcn.com/livenews/3206103",
-      "ts": 1795664251
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "염소 치료 선택지 넓어진다…베링거인겔하임 '메타캄' 허가 확대",
-      "title_ko": "염소 치료 선택지 넓어진다…베링거인겔하임 '메타캄' 허가 확대",
-      "url": "https://www.news1.kr/industry/general-industry/6366985",
-      "ts": 1795664274
-    },
     {
       "source": "연합인포맥스",
       "title_en": "BOJ 위원 \"정책금리, 중립 수준까지 조기에 올려야\"(상보)",
@@ -11504,6 +11490,20 @@
       "title_ko": "EU 국방 예산 내 '메이드 인 유럽' 조항 두고 프랑스-독일 갈등 격화",
       "url": "https://t.me/marketfeed/1085817",
       "ts": 1795688117
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "‘Extraordinary’: Ted Cruz Hails Elon Musk’s SPCX Stock Donation to Trump Accounts — Brad Gerstner Says 70",
+      "title_ko": "테드 크루즈, 일론 머스크의 트럼프 계좌 SPCX 주식 기부 '이례적' 평가… 브래드 거스트너 70 언급",
+      "url": "https://www.benzinga.com/news/politics/26/11/63661105/extraordinary-ted-cruz-hails-elon-musks-spcx-stock-donation-to-trump-accounts-brad-gerstner-says-70-million-children-are-eligible",
+      "ts": 1795688273
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Iran and South Korea foreign ministers discuss region in call - IRIB",
+      "title_ko": "이란-한국 외교장관, 전화 회담서 중동 정세 논의",
+      "url": "https://www.financialjuice.com/News/9869214/Iran-and-South-Korea-foreign-ministers-discuss-region-in-call---IRIB.aspx?xy=rss",
+      "ts": 1795688276
     }
   ]
 }
