@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795719978,
+  "updated_at": 1795720125,
   "id_hashes": [
-    "67fe2b63a3565b8741dd08078724a013078382bc852ef19ccb4e094cbc58e75d",
-    "2923ac4830840dfc4d92066b0dec72ccdae6b69c6cbac0aeb26410d0035f5edd",
-    "aa8d195a947e8595fbfbf93fab8ab2b56948c25754960db642fa6e753c7c6479",
-    "ec3681645ea93c0dc8823f2fabe7dff02fce8da861aefdea1da9ec3969dfb2a5",
-    "9ac3c931c71cbffa6a8dcd19868ddb1a57c2e6ea8d7c9efcbda0bfa18610abb3",
-    "a7f825869dcf47440bd010a49285405835ca3100e44ca3ff36b84c96a609e60b",
     "d51b6c7a35c8aa4e4d9cc91d4565db7e4b82b9d7b1578f4a954db94251df577e",
     "ce292ffa8da18173cad024391051aeac8851896664fdf90137907be700ac359f",
     "5cf1ca026cd2b489c2c961e95e4ce14734a1aab8a799dd454b8b808205714a67",
@@ -4000,14 +3994,15 @@
     "49b0626d82ef713d8bda3166500de798d4dccaad548f1e2502edb1ba9d5d0c12",
     "c11c0c97c95abb7eb0711c62ccd80dfa8b9de665b09578c2ebf1a4aace978acd",
     "94199b53f09c2de659e27cbaa19d0c72875a3b984f5d324bbeefe82d304778df",
-    "1f9a565f48b0aa33541edba14010f870e2822e8d73b8d32d578a65d8ef03565b"
+    "1f9a565f48b0aa33541edba14010f870e2822e8d73b8d32d578a65d8ef03565b",
+    "2b0afc17cc07624d892bd2a7addf7dde43f13393f229a38d12ae84fa02c451a7",
+    "1ac4710b1af750e070eb4d28f02fa50bc72ebc7af368e17ee471afc9c80d09a4",
+    "d94154576aa3403ed2f62c6a88044e6620920d1f5ba02ee2d13830d00718c139",
+    "066514fe9465365b4904c220a04f155dd16cd568e30e7a9a206eef7e3a75e774",
+    "21009582e21e1972033c374806adbb70889c8f95153343c32907a8752c320f14",
+    "21cb60913d059e34d9e5c5fed9b5f5d485934abe9d5bebfee328156061107416"
   ],
   "title_hashes": [
-    "6efa61a3b3b1042764dd7e867fc4539139fd2923495410c399d86f2020626944",
-    "57e5ca5128d498b6b3c5fab64efd2e8ad7a2cc31a633204805672fa6e561f9e7",
-    "9bc3498731711257a5b0a68a3967710dbfa5a2a9622be105b7a64626069fc317",
-    "949aa2b25be0abbd2933a1e8395342810c1762eca98c5fbbf41d2aa3704da88a",
-    "f7649b0001ef22d509b749fc671fd8074115cb2b4760774ccc0804fe742c250e",
     "3a0dad7327d5aef731065078b6bf4062a2daa7f9682f63ee7978984a3d85d9c3",
     "882524a2a5384fb102f2074c8711c5b7b6c91585d2d2b44fe52a73c3daff216d",
     "e574764a340e4556bd4a0c9375097f57be2c717efb2fd92b9e598ab01d3251f9",
@@ -8002,16 +7997,14 @@
     "7bc5f8581e7f87f9c29f29c569061c770f8a59d59fdcebef6a47d4ce59572dd3",
     "7e052208849f18556491c7ae583b1f49ceb62664c211da1c2bb3fb2ea4630d6a",
     "0e878ffe428a0f9fa964f6c40e5866d7e6b4becbcaadc31a4afbda9ee2148e40",
-    "1510b2d310fbcac3f8984697917cc8a95874bbc19a354d8293d5918a5ba5bd86"
+    "1510b2d310fbcac3f8984697917cc8a95874bbc19a354d8293d5918a5ba5bd86",
+    "14de32671cd3a28728bad0b43032cde3896e4b093cdc3954905c38ea3b42223f",
+    "918c973a63a412d3a30ce0fffad489302aff8cf8bf857bbf1fff480439c5db4f",
+    "1d1a7a38bd2b98d2493caf6ffcc0e46e0f0cc98af7bd081292cb315318524a6d",
+    "aca8500c605a122ec9d43cb70cee486cae23582991b1267e14cd085aaa44bc98",
+    "904db55fb5debf448468263aacb4d05864175e9caeca56e63d3cdd00b277212e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "BRITAIN'S FTSE 100 UP 1.01%",
-      "title_ko": "영국 FTSE 100 지수 1.01% 상승",
-      "url": "https://t.me/marketfeed/1085756",
-      "ts": 1795680430
-    },
     {
       "source": "MarketFeed",
       "title_en": "GERMANY'S DAX UP 1.7%",
@@ -11504,6 +11497,13 @@
       "title_ko": "Acciona는 재생에너지 사업부와의 합병을 고려하고 있다고 합니다",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/acciona-is-said-to-consider-merging-back-with-renewables-unit",
       "ts": 1795719671
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Opinion | Zohran Mamdani Has a Nvidia Revelation",
+      "title_ko": "의견 | Zohran Mamdani는 Nvidia의 계시를 받았습니다",
+      "url": "https://www.wsj.com/opinion/zohran-mamdani-has-a-nvidia-revelation-1e048235?mod=rss_markets_main",
+      "ts": 1795719998
     }
   ]
 }
