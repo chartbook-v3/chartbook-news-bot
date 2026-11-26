@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795715435,
+  "updated_at": 1795715589,
   "id_hashes": [
-    "74994dcc35ea64ef9c44dfb35d70aca2f912e0f98a500ef912ec8f0c454b3d32",
-    "ada35238265672debbc26483bbf9ca0b302c4918b64742c140745d3fdb14898e",
-    "5a11edd2ac172d34e1906ed4edcc4a12c9d68a31f439be12ced344c383938d9e",
-    "4a056cfe273130fc77efdb6a2f9b12dc7ec16cfe6fcf5415872c6dec69ec48c9",
-    "b64a24b1afbee5c09bc22c1d593f48257443249020ef7b314772267e6c79e4b4",
-    "b234c4a0fc36282732e122c703d57ba2f9f9ea24f926865ce9701d87e6a6cd6c",
-    "6c8b202a1a09c9e57c758a08a45b5d389fd1ba14cea10c3546ddfe2545a0458e",
-    "fd1945f1148939b969133b7a2dd04e1d7f8469ef88d29c52fd440ee9b91204f2",
-    "9e5b900cfcfda983edbcfd45521d4834914f50bd3fa1c1731d78296e48ea3de1",
-    "88d6a490c1ae841af190b4e8ca54320c63e4e96a8256611e3370656ccb06aa5a",
-    "dd7c2953960e73da62c8c1e9468f8a11f3bc3612c8dd418fc8d1234152f3aac7",
-    "2d6c3a19cd7cc3c836cc1c5468a097ae7dd4665b250768e619cbdc913c3c61d9",
-    "4d656ea9c92c72d1f5540aafaf7da499c8e47eb53c048f846a415c8c588fbd01",
     "60daa560aae0d61aac1f7be0025822847268e6d8a035f98cc21065822d15931b",
     "96bfca8220db2b0a75fe20b295bb15ae35a2302d561366301268fa4e7650f29e",
     "bbbc93fedd0083a439a9e26926223b38f1dfb8588139d19de8fe364a2e0e498b",
@@ -4000,20 +3987,22 @@
     "2b5d7f2c2dc61204da5eac1dfc7081afb6d3a9c5325972806ac1f1d53f31b579",
     "14d509a9259150de27cf7dc1c0b8dc448e3349df41ea040687c0ce17963390df",
     "02484d6cdec56b4bfcb67837d8e6710a23a327b6d7b5a30b2696081ede73ffe9",
-    "b4cfe083a75721e291fcc1925d8585a7d8a704f4003822e658dc8b2f7c950509"
+    "b4cfe083a75721e291fcc1925d8585a7d8a704f4003822e658dc8b2f7c950509",
+    "d4c29a5579d6f9c3f3d3721f2628f2636c84f9e7456d5839500ae5073bc63bb6",
+    "5fb84cb19148d8b1961fd328c3e28759a9d71a51d38f31a6cc77022b6ec62d0b",
+    "205cdcc727f972574423ee97869f29c0c139a0319d2449a7c6f96f73d59247fa",
+    "bbd458c4f3bd8240775263c03cc16a4744ead3730a9221af8ceaa4f6e8c77bae",
+    "8600c1a11ab80f3e602e3f0e0a1d5e4b0f4766f8601ee0cf5cad0f20ac7bc84b",
+    "38bada1aecbdc9ad4c7015de165c8b2c2931d7236f2495e6c639dba99478d2f9",
+    "b90ef8fa0e59274715347cb7f6bb3679d0f0d905244bfd72449f55a2f1e69abd",
+    "a1e7f0c385f06d42ff219bb12e17b5028a7bbc1cc134a19ad8fe2ce71a50421e",
+    "715a74f2ccbad506d837c70cb699ec15880b5ec46a17bfdf9f0729cfe10c85d7",
+    "ca4813fb281ee6cbeb784debf317bafab5035eb3202f9694c364a6986a6a2de6",
+    "6ba2977ea53a2dc3947a57a825588bd995492d3bf2691c07a051119143a020cb",
+    "9def04de8ddeab7633c9837296e833e178aac411503c8923ff1b255b679e8ebd",
+    "67547e42ab92de09c1afd045af24fbee5cfd20ef14201c946e171c443c04bf1b"
   ],
   "title_hashes": [
-    "b7874af0a4207d1357c95ed845ef6dd07ee857cd81ed8f19a946f1c720ecac4b",
-    "1ec06f938e8867a91d2296a188044c4135bbe01f828f27aedc9b2c4afc158320",
-    "c6de0099c05f276586d3eefbe123aa8de4fc6f375622849fac351e4cc51d6963",
-    "524ed8bdd3d515f0b7d08ebc61bb9288fa7d6e594df01c92d6f972c67e0493ba",
-    "ff9f88ea94250cfe72b51f48575774f82bac89104054b671f9ea278c563634e6",
-    "a22635b6d79203ac84a8e99fb7c6e07eac31075505fc1121039b1bd1e9031783",
-    "6a9090e8d38724368c2acbb8a58828764f53b80164ba8d059be08ad131ccef42",
-    "7936e5f585f94156e08dc56c28f819ea0beb39843f58e3bfad7a3d9eb5a1e248",
-    "531a6638e919a8ca81e89324212de2d5c405fadc44e139f1186c78ff1ffcccca",
-    "1587caf0da4368670cd11ae17bc3c39a2f3ab9cd4ce345c7c4b326892046c88e",
-    "652fdaca9570e14820baf8b25bf95d529781c7fc2e631964a5ad1bbcd86f34ba",
     "e9c0e675d2693f0bd4538c6b44236edbbb4bee1e011c40fde809c0fb53f65de5",
     "c6899adef7ba69d772ffcd5149759252d35ea7eb730d1f689bf1aefe3b7543c4",
     "81cb379c4294a9b2050481523df7c39f2ff60bfb3cafd3e530b023e53255f234",
@@ -8002,23 +7991,20 @@
     "bb1938424b3e6d6f2568f88f519e8b91c898c17ec2d450e63a7eb9d6f08cf059",
     "4a9605a86303e2e4c55f959b595afd9574e278a8f0656711e5f3367dd4d9173e",
     "971287605e87a6ddb1da0ff0817e9211d00e64cd018aa30425de81e05875ecb0",
-    "2d977c388c1417cf2b5876dc7ba33a219b015d246ea55b91424cb0971ba22c57"
+    "2d977c388c1417cf2b5876dc7ba33a219b015d246ea55b91424cb0971ba22c57",
+    "d48c71b9b1c89dcf2fca6a3076dadfda3d62f0b1325ac64b86a385ba92337fd7",
+    "43c83e0d928efe817e7d493b11df97826ae5da5a6dc7f7183c297cafa5afac54",
+    "44a8068686e5bf2dd303c2a1a5aafebcb2ef7af2552faa361a5c522911e1a2d1",
+    "41499951f0ef8460504f77d7270723c857d0e21473c038c60a138cd5b577f342",
+    "3058e7a366db3d47cfd9b60a5dc8c445d60804cc67d4779769e51ff88efc47ca",
+    "0b087a2d1182a95ac64c16ae024e5453fbd7e44bcc7a05de12415affd3a855d9",
+    "f017a09927d96eae9e5d4699367370f298bdda73f86c906f1bf42f5647457854",
+    "bac9824f5b3cd4ac0b70b5860bdb58bf8ab0ebb76da5bd3bd030dfc5b9aa589e",
+    "3172bb65ee71d69125b4544bbee1a7852472e7ff3865f68b54f092573dd9a4e8",
+    "1825406f8382bc21ceeb1ed3a883d7be221745db2b2f33bc21990c261dc4865a",
+    "43869c9e3d76bf35f37feb1894b79624d32ce48360fe17e4ce2985a3214642e7"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "FRANCE OCTOBER PRODUCER PRICES RISE 8.2% Y/Y",
-      "title_ko": "FRANCE OCTOBER PRODUCER PRICES RISE 8.2% Y/Y",
-      "url": "https://t.me/marketfeed/1085749",
-      "ts": 1795679308
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Top Analyst Flags 5 Major Risks for NVDA Stock, Says Nvidia Could Stay in ‘Penalty Box’ for 1-2 Quarters",
-      "title_ko": "Top Analyst Flags 5 Major Risks for NVDA Stock, Says Nvidia Could Stay in ‘Penalty Box’ for 1-2 Quarters",
-      "url": "https://www.benzinga.com/markets/equities/26/11/63660421/top-analyst-flags-5-major-risks-for-nvda-stock-says-nvidia-penalty-box",
-      "ts": 1795679366
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "美媒爆料：五角大楼官员提议动用“战时法案”，施压英伟达",
@@ -11504,6 +11490,20 @@
       "title_ko": "월마트, GLP-1 약물로 인한 맥도날드 랠리로 식비 절감 - Walmart (NASDAQ:WMT)",
       "url": "https://www.benzinga.com/markets/equities/26/11/63662851/glp-1-drugs-food-stocks-xlp-rotation-thanksgiving",
       "ts": 1795714565
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "KKR Banks Line Up €550 Million of Debt to Back Logoplaste Buyout",
+      "title_ko": "KKR 은행, 로고플라스트 인수를 위해 5억 5천만 유로의 부채 준비",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/kkr-banks-line-up-550-million-of-debt-to-back-logoplaste-buyout",
+      "ts": 1795715464
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Stock Valuations Hit 2018 Levels: Yardeni Sees No Recession - State Street SPDR S&P 500 ETF Trust (ARCA:S",
+      "title_ko": "증시 밸류에이션 2018년 수준 도달…야데니 \"경기 침체 없을 것\"",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63662867/stock-valuations-2018-levels-recession-yardeni-sp-500-correction",
+      "ts": 1795715588
     }
   ]
 }
