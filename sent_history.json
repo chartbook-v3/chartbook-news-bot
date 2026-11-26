@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795717883,
+  "updated_at": 1795718033,
   "id_hashes": [
-    "f077b8b43ab0e135cdb6208f0fb71d4f435fee93c67f840be14bdc0636c31c64",
-    "fdda86d5f023e753b74a6b0d9855e483e851468ad65dbe20c1fa4761d1af7a76",
-    "500d229bf0d3922390d6d77c1360636992fefff4dc2454f8deb6f52cd7a3f027",
-    "bc1f5944d18145d16ab836b10312fc74f58a25b3086fb54a286ae603da095d92",
-    "1ec060c944f9b67252dd03c212b336a6f9c0733760038cc21c8e3098a4fba250",
     "00c71bbfe8b0217baa3f3fe992cbb0303d63e776eee89ee0f4cef7ad8042e231",
     "a743e93768aac34fca91f720a7b6009e1adc15a0ebb8e65b69d1fe2b6280b1f9",
     "e8341b7655c4144919b58d12272d118581ef93a72f24675eaf418648a2820b0a",
@@ -4000,13 +3995,14 @@
     "9ecf80048d6edde26724bb3f041f020cd586e1651133f0174b05ed4eb7902cea",
     "7d03557a4a83f9ab167bd43b176d244ec4adefc134bbd30469ecc27e00dbc065",
     "74679fd7b12e85cd96243c0f59bd4561e3d92e1e7f84d73f38baace89ef8b8bf",
-    "9f307b3a47de3b6749da5c60b435b0aeda510aa3495389d1a3de2f0be6117dae"
+    "9f307b3a47de3b6749da5c60b435b0aeda510aa3495389d1a3de2f0be6117dae",
+    "8ef44510837e67ab095ad3d4e54283043255bd522a0a3dae1d96cdf212971701",
+    "d7cf01eaf61c9d09b57d746010b197fcd5c3b34239074eff2b4c1d56be7aa38c",
+    "73cc59ef0aae21b3d94c170425cef83373b3b4b8fa5c7ae507cba19f71469490",
+    "f70f3e475b25bcd214a5f585851293601d2605ade9c49ebfd64c816b044a5663",
+    "fdff732a8340f6028c978b4ad462596c456facb9ef755eb88da2930ff693dee3"
   ],
   "title_hashes": [
-    "3f70f65ca2480bb71ceec7ecdface59a42aa7b9608e2bc414d2cfabe60c12024",
-    "5b0b3c0bbf1de0021da19ff98e001a1f8ee0b2a1e9c4300234b7107c2a65106f",
-    "cfc7f7cfffc4ff497c420402e6292b8ffc701961e5523901e42f431e7164e15b",
-    "9d00163673b5f5f42dcef2b51ae796c792a9ce84b9c2581c7acfdc62ea93d8c2",
     "867877e10f9df45d86d9a3746e8c57b59626c57f3a7bddf02ac3345353a1477b",
     "3ca02cb0903cfc6937576604bec5f238328be096c7948951195ec1fb1c55c4f4",
     "a67df20062569498f6bcaf10f2b4af77bc4d987d9a6a3a2c356f81e8f8779d04",
@@ -8002,23 +7998,13 @@
     "7bfe976b7d7fd946e1cc2ef69252f44e055ea9b4824a224cb290a910e0360b02",
     "6125993621ac1c4a6072c628ebb7a889c6e597f1a86147533a7535bc62853df1",
     "71f7f43234a5afe94b6dd0cc48e4960eb234b1c910ba64b8bdd093b2bfd775cd",
-    "7ea785ef0f3360bbf21ffef692d2d3e8d2e2445c1098cb1a8dbdda808bbca3a5"
+    "7ea785ef0f3360bbf21ffef692d2d3e8d2e2445c1098cb1a8dbdda808bbca3a5",
+    "1546292ff1068f88b2ff59ae36be2244f80518dbb83533b6b7171f55bf6896ae",
+    "2d42578b596512b0c51fc095151f0e30d4b6843d8f4e8d3f583857c25b9c1549",
+    "425a96167cd0ff040cec08d2c06046312621e5b6f668b16dcdc1af4d34f8b7d4",
+    "908898f6d280d99b680489279d8466cbf30a8c0ef35288dcec95b8bb27bb60de"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "EU'S COSTA SAYS OBJECTIVE TO GET CLOSER TO EU BUDGET DEAL AT SUMMIT",
-      "title_ko": "코스타 EU 정상회의 상임의장 \"EU 예산 합의 도달이 이번 정상회의 목표\"",
-      "url": "https://t.me/marketfeed/1085754",
-      "ts": 1795680238
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Commentary: Taiwan supply chains monitor Trump's potential interference with Nvidia",
-      "title_ko": "대만 공급망, 트럼프의 엔비디아 개입 가능성 예의주시",
-      "url": "https://www.digitimes.com/news/a20261126PD224/donald-trump-nvidia-jensen-huang-taiwan.html",
-      "ts": 1795680307
-    },
     {
       "source": "DigiTimes",
       "title_en": "Intel lawsuit details Trump's push for US$8.9 billion stake",
@@ -11504,6 +11490,20 @@
       "title_ko": "영국 2년만기 국채수익률은 6bp 이상 상승했고, 2/10년 금리 스프레드는 크게 줄었다",
       "url": "https://wallstreetcn.com/livenews/3206589",
       "ts": 1795717820
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Milei’s Overhaul of Argentina’s Central Bank Wins Final Approval in Congress",
+      "title_ko": "Milei의 아르헨티나 중앙은행 개편안이 의회에서 최종 승인을 얻었습니다",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/milei-s-overhaul-of-argentina-s-central-bank-wins-final-approval-in-congress",
+      "ts": 1795717972
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Rottenstone Gold Inc. Provides Supplemental Disclosure Regarding Proposed Great Bear Royalty Acquisition",
+      "title_ko": "Rottenstone Gold Inc.는 제안된 Great Bear 로열티 인수에 관한 보충 공개를 제공합니다",
+      "url": "https://www.streetinsider.com/Newsfile/Rottenstone+Gold+Inc.+Provides+Supplemental+Disclosure+Regarding+Proposed+Great+Bear+Royalty+Acquisition/27404805.html",
+      "ts": 1795718032
     }
   ]
 }
