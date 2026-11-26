@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795712873,
+  "updated_at": 1795713028,
   "id_hashes": [
-    "8d4c9d27f03ff760dcc5cbe133b97f6a33c0981c1b3c5332945af9bd10bc18ed",
-    "3856ef709f974a4f2f013f04b8be4bf1c36d0a37ce5340ba694024a0611931ea",
-    "3dba5ce8570302880b5462bc918771cea0d55db7fd0196263222d2673ad0857f",
-    "1d817eb830d45c645a94cee2b87412516b0ec1ef5d1c3566fa5e2c92182b7d79",
-    "1c3706d05d1a549d4b4810c70b3274a4eb8233d2c3bdca16a6dbd28d5f0e5af5",
     "256d20f8888d85540ecceae8051172524b97b51fda7b10786fb558ed1dcbb267",
     "bf8a1f3b4f4a841cdfd7d14676e8acef808112724d8b32f49713d855e6472ffe",
     "231b8b16fe60c2287e3fb6f19ffb0c7866e988f9e81999a6d6ac31bfa327f859",
@@ -4000,14 +3995,14 @@
     "c54edbf6a08619fcc17b764530e65716db2d1f0fa6db3dd54fff6b32144d13bd",
     "d335e63d6f35e7febc19f1c6eb459d7d7066d35827d817fa38afb24063e4f79d",
     "e6e2b823b3a92d44a577edfe6e5ffba308c8667843584ead7f533b114e6ad584",
-    "7a0dc6f6574b0868181aeb44b28d37c251b7e5a7d6c9128bbbf5507f539654d7"
+    "7a0dc6f6574b0868181aeb44b28d37c251b7e5a7d6c9128bbbf5507f539654d7",
+    "23b9b03c4e894405b69256cdea68f389ec2a2bbc0299462efa1e23cd3fd98361",
+    "d5e019cdebd7c2753752780e77b2cdf2816e27f10003e4c3033c75cf586cdae4",
+    "7e04df7df1811c4924e77392d46989469a97cdde2b52a96c46d9c7174835e38f",
+    "aed6da02a26a334eb182c7ed79d61001631b0e3bb7638dcdb0ab70aeed0df861",
+    "8194d5fed910adebebe7b1e7a18ecce8eb1dede3335f590f389f49b9c35a09c2"
   ],
   "title_hashes": [
-    "77e0d1423d28d298dbd7ed34c86cf31bd85c82f37344a36d92b7d9a2c1abc152",
-    "5485c6d3ae81bf7e17be0199773c68d84621cfd10d2b3dbe2a67d5939512d254",
-    "b35a538ab12c854d61ee4b49f79af43236aedb828ac039547a6a94f260d8c452",
-    "cfc76a158a0ff2a123e1be8b98293a8fe4fbb502e892eabe7951431cb4ba2bb7",
-    "d1244672bce9a491f187519011050b6972b725f14fe59ba1975c4e0f85d04ef9",
     "ab5f283445ccc4892a6b34a0f0ace62db344b590777bc42144982a278596430c",
     "fd7eeabab199f356d89c364cdd526c6e37fb472ff1a2fc22987a270323f196ab",
     "22b7643e3152d89015016de0662c7692c25a80b863355b8b39aab8f323dfccab",
@@ -8002,16 +7997,14 @@
     "d84b25aab1d918ef11b05963c79af9fb28937b0364d9bb13f00c48cf613f10c1",
     "3594eb8261826acb5f20e7679de288b70344d45598b9911973e89ca4dd3f9746",
     "e67199cb91c0ef74511d70ec4454a9cbde1afc717f4b3704be16d1d703c05cba",
-    "51abead0cc4edc1eb3b9e3921cbf2d6d36273f0042f7e6f41153f4153210954b"
+    "51abead0cc4edc1eb3b9e3921cbf2d6d36273f0042f7e6f41153f4153210954b",
+    "bc45ac0d6d42e5770e40122296b460e33b8bcfedee8ab22c8e2714ec35a685ce",
+    "14232450bf04d740f174f1de113830b53a5ba4f8b2a65ef36ca43a5d3ac64d23",
+    "f8c217fe0c735d5510bdbfc15dedd071a7da89b359a8155e5b023cda7d288fe4",
+    "b6e7e0a8eb7c2736924b7c66118429a8421b591b7d035c2ec26e1009726c2b2b",
+    "51fc7b59a14329f6475b4206d6240efab11cfc8c0f4a6b2440ca914458cab630"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "FRANCE PPI (M/M) OCT: 1.3% (PREV 1.7%; PREV R 1.8%)",
-      "title_ko": "FRANCE PPI (M/M) OCT: 1.3% (PREV 1.7%; PREV R 1.8%)",
-      "url": "https://t.me/marketfeed/1085748",
-      "ts": 1795679236
-    },
     {
       "source": "연합뉴스",
       "title_en": "삼성전자, M&A 조직 격상…미래 성장동력 확보에 힘 싣는다",
@@ -11504,6 +11497,13 @@
       "title_ko": "몇몇 네덜란드 조직은 개인 정보 보호 문제로 인해 법원에 Meta 스마트 안경 판매를 중단해 줄 것을 요청",
       "url": "https://wallstreetcn.com/livenews/3206566",
       "ts": 1795712820
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "Credit rating agency puts Nvidia on notice for possible downgrade — S&P Global Ratings says ‘board members may have compromised their independence’",
+      "title_ko": "S&P, 엔비디아 신용등급 강등 검토 착수… \"이사회 독립성 훼손 우려\"",
+      "url": "https://www.tomshardware.com/tech-industry/credit-rating-agency-puts-nvidia-on-notice-for-possible-downgrade-s-and-p-global-ratings-says-board-members-may-have-compromised-their-independence",
+      "ts": 1795712900
     }
   ]
 }
