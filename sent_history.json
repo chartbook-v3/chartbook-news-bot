@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795660488,
+  "updated_at": 1795660642,
   "id_hashes": [
-    "3865acad5b6a44f247ac4a20d643ffd0fe727e31c40b56ecee2526b766463d39",
-    "2e241d68a5dd077d00fee7417f30e1321464614e0c3dec785c33492e082aaeaf",
-    "fe16fbf4d43655c310a4d12907c51878afdd79c2fb42a2b3eef49123a9e21127",
-    "31828e254aac2896aa2c2fac10b2f46413bdab65794aba0159e894fabac2e222",
-    "d6e4dbe7adedc7219d869f675108b55ad98e417a6f5c59e2f79c4e74a70bb507",
-    "a1705353641a2e8e2ffacf4061268de62ab090ebe76c5c3aed9f277aada9dac6",
-    "c173cc3cfe0f2e68a266fb529fb107c4feeef85804bfe477a87ee6a20678e844",
-    "f46d2671daedfd7e3abab5881060650c07e60aba989ee86229f5da932fd6395d",
-    "4da3ba51f81f21db494cda89ec946d99cfc38be3da2a606c20f902fc0bf657fd",
-    "8d3f8582a978eea6ebc5d13ce65d15cdfc1ef217393b86a171589dc695f0bb5e",
-    "26d2f2892d815e337227fd27e062374fe11c8b1128598b4edc078157dab2ac5f",
-    "c3e0a794ed2243fdb937002036624ae572ad836cbd0d17dd851f6195e5ed2b26",
     "69d4799a3e77a8eed9d3c8c2080949a804c7691b4124b4f354ccdeb8f2cf5426",
     "19b40e0ae04c5a8ec0e1adfe418b0f0ae5bbbfbb44e01f551375f72871e5c2a6",
     "6b3ed3180fc03698855ed6fdad22c48580561670dded67db929e34b6363f9f69",
@@ -4000,19 +3988,21 @@
     "2432fd21c27eeb9707572a477f5fabbbe73702b3978788e3fba8962acf6aea79",
     "f1f62396cbb82920b56af5ae67ef9fd0f56872676f4d88e0cfcadc6fade7aaaf",
     "113fb3282cc32a412f03ed6b10809d7f8e433da5d188deb2bbef0cb01ad87ff4",
-    "e5bda5e57414fbecbc564417d98ffbe5c3f39765917d6b98c4d205ad1d13da2a"
+    "e5bda5e57414fbecbc564417d98ffbe5c3f39765917d6b98c4d205ad1d13da2a",
+    "ef656b549e045796ebb1107603344407e21420fb23de015b0f475b9e7fce77ff",
+    "2c85348f807505ec8e67ea982831417583f51f8eb12ff2cece403d978608b1c5",
+    "ebfd05a33a1d89441dcc18710d8e1727f6f256e99a035482254debc8d9a3995c",
+    "93e91718f89799a6737529415e8a28130aa124349b836b80f65a35a60f510446",
+    "091707916f49dccb1373199e4ca6603e20587813ba7bdeb50fa418401fb095d7",
+    "ca096a4f72d3f72f5e8dd48ad59a870d44c1905bdcd120c13208c765dec8be67",
+    "0f59d89993e126088ba1bd393a0196e5a46cc3b0db7f3da2ad7b33ab8f404588",
+    "0342ac2fb2d8fcc235d2baf21a6f3ee6029cf01562e8092d17494c93aad84798",
+    "20552a954fe3c9efaa1cad24fed0bd7e63ef4e5e8804a710fd21a2b507fdfbb4",
+    "9d14ed88b6842af3641076bfa1e918fec0dca0e3cfdb0fd2e8dc99982beb426c",
+    "e4a44ec37245ab7c7d2169835390fd72f35632581ede10c21bb1d5272e8c083e",
+    "23622cdddc4070128625852643269b497352914cec601789e354e3fe4fa7e387"
   ],
   "title_hashes": [
-    "e0afff02a80c184048b512bf13a354bfb45a21a0d90d8b09f1c849ab1d5ab2c8",
-    "b9d2000d226c5f4fc82cc0abdb468065785e503bbb055f7c6d41d57e42fdf9fa",
-    "a4b46062b33d6aa412254c7498a78b59b0b27d952ad207bf832090f62c69c0a8",
-    "3c45e44842438b350ec79aa9724ff1e4bc8225b86eb2be0ddab59d46c7732cf3",
-    "8386ca2d197a5ebce2e02d44abdff3f7d6aa8210e4f813593a6e41fbe2e97674",
-    "c354a38a4e4181569d11a70fb44814609e2cd19488aba4819c52400aa4405e3f",
-    "f56a050c35e1d221b00e8a99ae16cbbed876fedb9527d9a771ba3fb2c474e249",
-    "4e33feb67dc9d04f640719dcfe0b551a8744c513feeae2465ff16425094728d0",
-    "47888bfb3c11e8dc8eda409cc509b497dbd0a00ba31d05a7170713c28728fb17",
-    "7f4d0ff88c665f2637f24d9bf8ec3aae6c1bc6b897d86ec6e513e299f30273fe",
     "fcd90443f839b60b5f11acc23b94ffa44b2e8b5f89d17c71b10197c739479704",
     "6e6a82e6196f49fa6e4801b7f1dc566cc1fac696df571c41d2a82b13006481f0",
     "fe1140ffb06e6f747616865a84102640b994cb35bbdd0291358850558eb590f0",
@@ -8002,23 +7992,19 @@
     "bbb89845731f2540e55bdbc979f5bd5930e0ee04d942a6ca4eee52e0f8a9e376",
     "71ababcb494b1b8942c514e021e415430610851e08efa0c88370d7ffb8a51186",
     "1602a6c941cc30c7e6b441fd3c9356e7d970dfa1b79f112c5ef1bb1e0be131c9",
-    "1ec4ae4a8a6625bc577c55efd6940e20192164290d6b6e87b819f8db2efdd85f"
+    "1ec4ae4a8a6625bc577c55efd6940e20192164290d6b6e87b819f8db2efdd85f",
+    "1b40eb384dde3f72d60c97502b62d03649f284dcec03d51f3cd0415053478fc5",
+    "6091891305f939828d77efa29e530bd2a5719505b55dbac29dd86703b2ed6f07",
+    "2e71be1d03349458be521c385ee156905d2b6f293cf9bf8c65bde3b841285fba",
+    "726fa92270956483bea05eb360da51003b4cfa0f504d74833ebc76188dbc70a2",
+    "c54b304b2ad24cbbe235a05a67eb7db7b21609151487d8415defb6f7e8e7792e",
+    "469cf8e2eae21859ca2aeda19a473586478f17299243d627951ee6591e2f95c3",
+    "5eec6a4c0cd8b37d938757f7d2639ec5161ce3b1fc273ab3747335a5d44e9d7a",
+    "3a7c1a506ab21f98cc7c31c619a81a267954f1fc3caddcbc117a4d09f2fa1617",
+    "0dd80176dd9a9e2ca9d025c9aa484824245d0c9e865f0a856800e15e17067fce",
+    "712c349595063e95cdf378292d452900b7614aac43788d8216a58cc4139ba497"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Billionaire Investor Made Meta a Top Bet Right Before Its AI Spending Shock",
-      "title_ko": "억만장자 투자자는 AI 지출 충격 직전 메타를 최고의 투자로 삼았습니다",
-      "url": "https://www.benzinga.com/markets/large-cap/26/11/63651437/billionaire-investor-made-meta-a-top-bet-right-before-its-ai-spending-shock",
-      "ts": 1795636807
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Nvidia's AA credit rating placed on credit watch negative by S&P Global",
-      "title_ko": "Nvidia의 AA 신용 등급은 S&P Global의 신용 조사에 부정적으로 지정되었습니다",
-      "url": "https://seekingalpha.com/news/4676682-nvidias-aa-credit-rating-placed-on-credit-watch-negative-by-sp-global?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795636847
-    },
     {
       "source": "TechCrunch",
       "title_en": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
@@ -11504,6 +11490,20 @@
       "title_ko": "군포·광명시 '상생소각' 전국 우수사례 선정…2억원 절감 성과",
       "url": "https://www.news1.kr/local/gyeonggi/6366867",
       "ts": 1795660487
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "홈플러스 인수의향자는 부동산 개발업체…전체 인수 추진",
+      "title_ko": "홈플러스 인수의향자는 부동산 개발업체…전체 인수 추진",
+      "url": "https://www.yna.co.kr/view/AKR20261126089600030",
+      "ts": 1795660576
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "[속보] 신현송 한은 총재 \"물가 안정적으로 수렴될 때까지 선제 대응\"",
+      "title_ko": "[속보] 신현송 한은 총재 \"물가 안정적으로 수렴될 때까지 선제 대응\"",
+      "url": "https://www.fnnews.com/news/202611261117592520",
+      "ts": 1795660641
     }
   ]
 }
