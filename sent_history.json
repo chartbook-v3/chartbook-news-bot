@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795699861,
+  "updated_at": 1795700011,
   "id_hashes": [
-    "2f4ea6f741f05976ff998073bb344c51a9edf3a4a5393759159997b02f942e4e",
-    "e85ec4f74937abf1de13730bd140b05ff3788a7e93dc136c13f1972a80121a30",
-    "499ac9d52c81ddf63106ca6a28ffd3da42e7d3dc255ce7763e2de3fa90ef0298",
-    "e859f300d4b50369b96388a37d6d9f7c71622abaeb97a0b2c638666bed910ccb",
-    "e21c86fe69363d01a6d05605a6b02fbbb207c5de9aab98e9856a3e194316d0cf",
-    "260e8bf917ef0350d0c53a1d48dae5cffcc40a6804301c72179020e8183d3e16",
-    "1339af0a28f0a6c458658338c4ae96351b7b17f92d1182b56244c555219618ea",
-    "16bb865c2a3a96c7aa0f3ff44bd7a7b77bdb99c35c4c06d109dd64a9e411ce94",
-    "84f7b870dbd78a8bbbcbd226c629f9cbe0a0250985250679c0877bfc04d964ad",
-    "10ce5512f32d81235de0f7989e55b53562fcc17dd1e3fc7721dfd7bcdb43e0cb",
-    "a385dd24d6840016d8b4bd2147f5797ad8d86d78d7e7955a1928acf021a4b2e4",
-    "49b96e4dbe75466c5c3d33ffbd229463b38eb3aaaaa05f329cfdaea38d75414a",
-    "360b2df2eb2fa649ab0eaf6d9e171a9d9d6b22e58a77877291a214bc41babe2d",
-    "e14a88de3460497f8e8bddfe8d6c981af650f0e95582187e4d413e5b937b3eb6",
     "b610587c1b644b755381b322b6abd4d98cbfaac8dd57237a1317c8182743b8f3",
     "5b686db68ac13f8235d0885e6e368c9b9ad35e11d5775da10e6bc792b7a985d4",
     "bc6898fc5d3ed96c671cfd9abb63d77438d93924920289ee6de3f6d0ee94ac34",
@@ -4000,16 +3986,23 @@
     "2362984d3a8abc6a614a2b4d30424acee450d873d847c0dd84411574892ef9ad",
     "f98b3952ef91ff4bff4a3958a2128c58d3b1d8b5d2e0363ffe1459cce1e5f9f3",
     "9dbd02e08c3ab0c17d1e04771a40f6cd8c90a74a831916ab3774079639a1e313",
-    "5b729b48ee38daebeaf63c60cad62a8baf56a90fb00c659990817704fcd6ea92"
+    "5b729b48ee38daebeaf63c60cad62a8baf56a90fb00c659990817704fcd6ea92",
+    "ae3e9d42cad7776d834e42d9ed38cd427e52b2c1df9c110061c16c3605d730f3",
+    "36216ee3a12a548980ab22c94a7b9e95e596cd713ec608c263db447c95a86ba9",
+    "95f33ad0c3545848536db4bee703e7908e8d09debf709e2266ffe1badc627b2f",
+    "f94b5f30ea58bedff0a47d28fa22950d9319aada6609479cf8ce3d96a2d78cd8",
+    "a033b003ef30a0240e880bf811800ed42fa1819fd13df97301dcf1814699a173",
+    "7e3fd7674725d16cedf376e012682caf1ba13b5106a209467f042d27a7e897f9",
+    "6d15652a2f3a542fa9c7c633442bc25bced797b388c34f1de5858aaef705fede",
+    "1099b719d0d1db23fe8249ea4941c045d297e00963c7ac40d09c9f9f5f7db1fd",
+    "cc3191438ec11337680210039877c168b1204cb86d48335a7a73a6d812d34ac1",
+    "bb0b94b85f301acd71fd954674bc9fc9983f8d720b706548100d7d099c7f97ce",
+    "1d0663a3184c2fee3f3d261aa0bd3ebc895b3b54e82e5e5f04940696660d79bc",
+    "7b8a81b86c775e26aa4a05b42501b0264eef53a7b21836b066033acb1b26e253",
+    "73c692c82c8f4a8c9493616a0e6e2f1b16de58e3c9c657c2ee19d44c7574f1a8",
+    "b060ab857c15beab72f2b08f9cf2cd5eb2a7d3de9f85e7c132f81c1543885935"
   ],
   "title_hashes": [
-    "b4739286db954f040ba7a0243e1d296b7eac734f9a4f2270319d47bccc5a48c3",
-    "e5179a3f86c32cdf2c921170336066586910083a5e2f37369058fe86daa10aa5",
-    "09a7bfab93f403483e5e1e89d94bf6c4cba05d9ddc35891a573896700976f0dd",
-    "29fa0c9869b8870c4e1bb7e4e41b45f95a494d04f47abf547f4b0435ae2b91ef",
-    "82b4e7fb244834e9944434f1036b00b10c235a09b1d732f064edd12f17ec1ace",
-    "ecb566e29af57db80e1cef26fe962009909dafa2b1222f167a12b233ab681d65",
-    "9e0b982fdaa679ad0941e190bbf18c37d5557bfe0809ff5f746e3335754e15f0",
     "aa4329ba8199c60a99a69fc6d708e61f49af21ea99222fb3f3643327a45e3271",
     "1bf604e7bef86e867520964876ada8e5d2ef3eed939b6c183679aaa410ce3f53",
     "f9fbb3475ad4f2749dc7fa6264ecb155a03a75c1329f9c151311c71a54785cc1",
@@ -8002,23 +7995,16 @@
     "84cbdec291547ecec43fa9151ca8400ede4fabdeaa803d99cd129907dd17ab34",
     "55780f84ea8fe0855046587e153451ba6682eddee46919ee0878a8f0acb33e80",
     "d34129776037e0df30dab4bd1f0bbd04e80058d09c9315060bad71babfee4930",
-    "d6cd33d2b4f70feaaab986121db57d9e4015305757e66a44831b6539bbe77f01"
+    "d6cd33d2b4f70feaaab986121db57d9e4015305757e66a44831b6539bbe77f01",
+    "b4dea5c596088ee20cf2fee6caae26ee124a2998b6df9e365ddc2b5b9b1b19d5",
+    "b2ed5a29e7dd27723887e7428983214c68510b515cf18c680d3de8cd19c03330",
+    "ab383c85775302fc78f72fdf3f79f73bcec308cd0960041e0a4ca7f7d3a74365",
+    "8078e7687f0b4b83c9f03ead2f01562c9ed5f0ef4803b6edbb7637aa4d2b5689",
+    "c754c6bf0f54e5610c82eee2542f7b87ac54dc88f95a3e5ebbda4e03fcdb0202",
+    "9bf281b50d6802115aca2c9097086178a6a5baadb52e9dd19d05aac3165140ee",
+    "0199cd94281549027e3dfb8e86e4d8682feef498d093729c645587e0e45f9549"
   ],
   "recent_sent_articles": [
-    {
-      "source": "매일경제",
-      "title_en": "트럼프발 관세 방아쇠에 긴박해진 주요국…무역갈등 또 부글(종합)",
-      "title_ko": "트럼프발 관세 방아쇠에 긴박해진 주요국…무역갈등 또 부글(종합)",
-      "url": "https://stock.mk.co.kr/news/view/1206630",
-      "ts": 1795674013
-    },
-    {
-      "source": "매일경제",
-      "title_en": "초고수, 기준금리 인상에 금융주 손 떼고 대한항공 담았다[주식 초고수는 지금]",
-      "title_ko": "초고수, 기준금리 인상에 금융주 손 떼고 대한항공 담았다[주식 초고수는 지금]",
-      "url": "https://www.mk.co.kr/news/stock/12219395",
-      "ts": 1795674015
-    },
     {
       "source": "연합뉴스",
       "title_en": "국토장관 \"용인 반도체 첫 팹 일정 맞춰 기반시설 적기 공급\"",
@@ -11504,6 +11490,20 @@
       "title_ko": "FT \"차기 ECB 총재에 파블로 에르난데스 데 코스 유력\"",
       "url": "https://www.financialjuice.com/News/9869439/Pablo-Hern%c3%a1ndez-de-Cos-is-going-to-be-the-next-ECB-president---FT.aspx?xy=rss",
       "ts": 1795699852
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "CANADA PAYROLL EMPLOYMENT CHANGE - SEPH SEP: +9.7K (PREV -49.6K)",
+      "title_ko": "캐나다 9월 비농업 고용 9.7천 명 증가 (전월 -49.6천 명)",
+      "url": "https://t.me/marketfeed/1085921",
+      "ts": 1795699944
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "New York Governor Kathy Hochul signs ban on AI chatbot toys backed by $15,000 daily fines — takes effect in 90 days after holiday rush",
+      "title_ko": "Kathy Hochul 뉴욕 주지사는 매일 15,000달러의 벌금을 부과하는 AI 챗봇 장난감 금지에 서명했습니다. 휴일 러시 이후 90일 후에 발효됩니다",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/new-york-governor-kathy-hochul-signs-ban-on-ai-chatbot-toys-backed-by-usd15-000-daily-fines-takes-effect-in-90-days-after-holiday-rush",
+      "ts": 1795700010
     }
   ]
 }
