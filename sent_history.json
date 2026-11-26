@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795664415,
+  "updated_at": 1795664577,
   "id_hashes": [
-    "3d8eb5c8983f0ab597c9c01b955d8614f0c31695f4cba19bbdd0abb864f71d0b",
-    "00638200f4b65e7964bbbf4e1397ef8a52778e3771e8a9cfabc0b17170bb9ba0",
-    "9b7deb1072cfa497f966b0d5a156198d8a97b31bb6f964471c7551a63aa22fa5",
-    "7359b289c6dd5ecc5e011e8bf65c7139b7c678ff9044999d71e202a90ec5b0d3",
-    "31ced59404468d4c7b67e749b09d7d5d1a4eb9566c4236fb38f085238cab1e61",
-    "b2d76b473987e5fd7bb9d4a38097fcd6ad2103eaffb8fc8af0e1dd49faa00345",
-    "99e6e40f84488f231a606eac4130707a8dac82fa80aa0ca9caa58951c353ccd5",
-    "7376f5768fb442562b05c346c9d5b27aa5429314c86d5e0e2ac08b9c966529ec",
-    "85d3e64ff05cb25855dae0f7c8c665e303be681caa54f5d2d4e4d8445634977b",
-    "80104166ec6f522b623accee75ddbf4cc2da6db687aeeea1b02d32b68d0aa4f4",
-    "b55060b9accf0a67473fdc11c4ab3e24de9d18635ee5615cb7a6db8153901cf8",
-    "975033b9410e7341ffd5f4bdd1b3d82d3dcb0f764de1997b6d6a0c7200438cf1",
     "b92e976c823704b9dd08c91be0b895e2d8768f92e2a14e3322c5224e89e53e75",
     "8047135f468c60c59e0a1900598aaa591974b9b0f7f63f97bc43e5ff35451e4c",
     "2d2634ecb6e3744560748ef80b0c4f2130111f487d8f28291d8ce395db71dcff",
@@ -4000,20 +3988,21 @@
     "6fe3f70c506de33c3ee5f327540030e9b2beb67ae5b62d4323f3ae8873bfa114",
     "6ec3e39828410822b82138cf2eb6659aeb1cfff50ad5a8f8109618415c57f4e0",
     "0ad7b3bac79ee7c387610754a9428acf69a8ae93c04c601923688f31f6f31d5a",
-    "2dd4f3a39bc7303b52f8d5671e0231a44450e0540cb0d51aff9a5d1801a3041a"
+    "2dd4f3a39bc7303b52f8d5671e0231a44450e0540cb0d51aff9a5d1801a3041a",
+    "7918e8127f32d03b5ef9816bf2b9129980ebddfbacd122f58e5ad5b8ce0322f8",
+    "ae442a552969e481f7546f3efed4f65186aec2117e95923fe76b5ba567958c61",
+    "6f23a7a12412d05619203fc7a78b3f99db88b44e48ccf22441e75f2753921049",
+    "126807dc9fdb33c25b0cc3f2d7e542703170785c1b479fa00980bbd404fefdd3",
+    "2d4039b598edb0dc48c1054d454be0823c953ace0f388dd187e3824091ad6163",
+    "3d9540368749d7def9f4bd1a7d1152a0e89fd0128824ef8af9a4f913539b30ee",
+    "17202f74d2435fb04842607db051642a068a538907b3650a813d3b641fd16d03",
+    "8ea482f512fecec341fa9495f5124efc6ecc46ee4f66a2055efbf7acf1876c05",
+    "15e0500a732899601f6fe3e54c2c3946d4a29dc00ddbe62f98fbde2afcee256f",
+    "8c4b8aa19a88ba8fe982990ef929d19439c60cba742a931a24b7a8833046f695",
+    "765037186ccd8eef28f5aa690bcfdcc04438434d6243d00dfadf6d2d00cd0129",
+    "4c143f6671c89fd0a6682ebda3dc70667229f1fe9d20896cc9f43b78475d9295"
   ],
   "title_hashes": [
-    "568fc2de34f7cc319674c312cb9b10832e1823a9cf7b3c127ef5ccaa7b97e131",
-    "eb4246c6d0170d0cc7f546d0ec305d2e7c569a6ba6b619f5b2fe19c43ea14479",
-    "6cd5f81b04b00a74c0526d58c466a55f5e18f60248962a250a17041e9398b8ad",
-    "b81006f67445c84972b7ecfaf5e1319c7f33e6d520d1697ef92525fa4550b1d3",
-    "31075b2362f23883777f018e606baa497059aeaea73b80fd3332b3c6c2483717",
-    "c0dd7cf281d1bbc844a717fbde2fa70d0cc1cfe02becfb4148fbf733a0b42189",
-    "c6935dcb3a08748c06d266159201ecd6bfbcef43fa082c93f192f0ae367f26d6",
-    "858ec28f60d8c632b2f7e4764df5c1e23135ef1e9be37e209a49eab5d131027e",
-    "86325dc790195127f248fbb2842bc369175f81d820e7a1c1f27a1a7791c8b05e",
-    "8359b40dddb00a54ece8dd2fa8eddb8665c60a754306ea584793235aeea4d83d",
-    "396425d79a20ddbdd685555a8fd351a8710f8f8f97ae5850437a03e32ba73f26",
     "a64b18eaad70fa9965db7139915d00620e94f7b3feb0152e636071eb22d869cf",
     "45f341eb27cd18f9001ee5a78256984389a61513808f48778a2d4c7f1dad561a",
     "837d4896a3672fff0e4fb8ed4563e5b41ec0bbeddd935a61bebf6799490346d0",
@@ -8002,37 +7991,20 @@
     "ce44683bd0675b22909f3e0f316591e075c9fed26fb3bc4103530bd5098a7ce1",
     "a908e931e6c7fbca1c1e3d7c14b246b6ea8bd25f883f4a2de90626e3db1714b6",
     "0ec6be88e736de6f3e0b6083e5fe96be4ec06e0c4c679783cb815755671b39db",
-    "67f462b14c700fffd36b2fe53d77285c0153ed6ff15ae3485794aabb7f950050"
+    "67f462b14c700fffd36b2fe53d77285c0153ed6ff15ae3485794aabb7f950050",
+    "f3cddde5d11359ca21075f0b9436cdf3c7718e99bb7cf18013d4b62d1e60c930",
+    "45435bcf19f40cd49c6721d1ea20ffb2f559b03b57b1668f703cb8739229051f",
+    "24c048734b7725b3bf2783768dcebea1dfa0a7c19881690e86f8249b72e981c6",
+    "df413e12aead3a23c3f9b50c2f75b2a2d78f4db17b5a55f667e7021ccb365b3b",
+    "48598b076ee4e24911b01d7a01f49136520fb02b9178242ad08c5b3ce87e6691",
+    "ac4c396e07edeaf8dba9858ba6c065f08b06626c4f597c17f8ba76fffb730b5d",
+    "48799d7c368ce5e9f282cdcf43c80b40009189fd1f36317848f47adfe77583c2",
+    "3c0b721b087fcdb737cdac834bcbcab15841cea33d13f1b8d4b6161d0c6046d1",
+    "b99b595072e20bbf4f2718c6dd34ebad07c81cb4c506a990b4b58ce463e5d04c",
+    "2043efa71909cce4ff2ff6f258a67ae6e72d3bba37ab15ccd8d8e196612aa62a",
+    "4d8d52f65f1114cbb47f5802c7f7f930550a903e4b6b3eefda79ad6cc9d65cdd"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Nikkei Asia",
-      "title_en": "Nvidia's shares drop, credit rating on watch two days after Huang's return",
-      "title_ko": "엔비디아 주가 하락, 젠슨 황 복귀 이틀 만에 신용등급 관찰 대상 지정",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-s-shares-drop-credit-rating-on-watch-two-days-after-huang-s-return",
-      "ts": 1795642547
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "HNIX \"제조·조선업 특화 AI전환 확대…산업 보안시장도 공략\"",
-      "title_ko": "HNIX \"제조·조선업 특화 AI전환 확대…산업 보안시장도 공략\"",
-      "url": "https://www.yna.co.kr/view/AKR20261125147900017",
-      "ts": 1795642550
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Vertex Stock Drops After Hours on FDA PDUFA Delay - Vertex Pharmaceuticals (NASDAQ:VRTX)",
-      "title_ko": "버텍스 파마슈티컬스, FDA 승인 심사 지연 소식에 시간외 거래서 급락",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63657436/vertex-pharmaceuticals-stock-slides-after-hours-heres-why",
-      "ts": 1795642553
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Republic Power receives Nasdaq delisting notice over delayed annual filing",
-      "title_ko": "리퍼블릭 파워, 연례 보고서 제출 지연으로 나스닥 상장 폐지 통보",
-      "url": "https://seekingalpha.com/news/4676707-republic-power-receives-nasdaq-delisting-notice-over-delayed-annual-filing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795642574
-    },
     {
       "source": "StreetInsider",
       "title_en": "Tempus AI secures $500M credit facility to fund Personalis acquisition",
@@ -11504,6 +11476,34 @@
       "title_ko": "지금까지 사우스바운드 펀드의 순매출액은 HK$90억을 초과",
       "url": "https://wallstreetcn.com/livenews/3206105",
       "ts": 1795664414
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Singapore Is ‘Very Disappointed’ by Trump’s Proposed Tariff Hike",
+      "title_ko": "싱가포르, 트럼프 관세 인상 제안에 '매우 실망'",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/singapore-is-very-disappointed-by-trump-s-proposed-tariff-hike",
+      "ts": 1795664566
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "국고 3년 지표 금리 6.6bp 상승…\"점도표 3.75%에 7인 찍혀\"",
+      "title_ko": "국고 3년 지표 금리 6.6bp 상승…\"점도표 3.75%에 7인 찍혀\"",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446720",
+      "ts": 1795664570
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Exclusive-US officials divided over Chinese spying allegations following Jensen Huang's return",
+      "title_ko": "Jensen Huang의 귀국 이후 중국 스파이 혐의로 미국 독점 관리들이 분열되었습니다",
+      "url": "https://www.streetinsider.com/Reuters/Exclusive-US+officials+divided+over+Chinese+spying+allegations+following+Jensen+Huangs+return/27404137.html",
+      "ts": 1795664573
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "CHINESE FIRMS EMERGE AS GROWING COMPETITIVE THREAT TO JAPANESE COMPANIES, JETRO SURVEY SHOWS",
+      "title_ko": "JETRO 조사에 따르면 중국 기업은 일본 기업에 대한 경쟁적 위협으로 떠오르고 있어",
+      "url": "https://t.me/marketfeed/1085663",
+      "ts": 1795664576
     }
   ]
 }
