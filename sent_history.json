@@ -1,27 +1,6 @@
 {
-  "updated_at": 1795660159,
+  "updated_at": 1795660325,
   "id_hashes": [
-    "28e73c004045f9014ef696de13a389927b26b74b64a96b30f50eebdb793f7738",
-    "a07c14c4e9114b72e43a48d5dc2530fd4293a4d1d0a7747320717bc6e210adaf",
-    "ddf66bc916aeb5439df1c210b25a3acda6e86047f21be3d03e3eed5d6ea7c415",
-    "a98d39ed524df5a97c4bdd53e3982df1a8b75608a4dfb76d6015ff66ec65e13d",
-    "ec8ba0bc5f4d8a71f0aa41409bc79a7d2aeb5b797319db98a1e1807d05def8fe",
-    "19ab94b2bbf8c18b85d85d179495f5d5f2f72dcaf323f2a39bd51fd4db902d7a",
-    "729b2e10c33deafe956fcd99e283e1e4d497a3fd346e2aa09df67b0fe3e3cf31",
-    "bf5765b63116d4292f0165efc92f188422b0eea6e6c5aae1f07cba90ed1216f2",
-    "380b1208690cfd94e0e9492ea9138a974d043a584d6d00b55f7a234e7ee43659",
-    "90cb45308869341eac9754237821b6cf628eeee7930d5620649a3bcfbed2e759",
-    "6dfd5211f9c3d4b4ac41541ca9b93e1ea6786239dd823a14b2ad200b1794ce7b",
-    "eae82437d99e4e27f4d055554690985e2bec5ceffba07abaf442252f5d5619cc",
-    "bd0baa615b0d331d9f955aac59b8e220533929475d63680fdbd2982aa6bea296",
-    "b92028aa3af410d779e04068659175bca557e329e227257c3be7b5385d3e2f53",
-    "d228f15da4890856a68d185e4b23e7e7773f4e6428abde27b67451044be0db22",
-    "3ea0479b4985cd52e36cb02ee27ceb6ad50f4ed7ebc7c0086239e618e960791a",
-    "8fd596893a82649723d196404bbe1df613c62c8cbadc9d74efa74fae4805d1da",
-    "ebaeb919d42420974b5feed3ddffa592ddd1296ab1415268495ce012d57bda86",
-    "35f14271b25ab610415ee936879899685310be4512f2eb1a6e69bb39716bc6f9",
-    "27aed36a664c1d117e81ef4741bd4a1432a1afe84e211a37a47449f71bee0968",
-    "95b507338c27c461bf2f1de2fa9aa8850c5525b45efc5aadff9da2deeff1706a",
     "9463358f4a09f1e26bfd8a824ff5c3ce554dd9ba33d76ddb53e65b821a0b148c",
     "e8b4eacbd729e6b19ebebd0093388abc368b5eec514dff550fd75f504eebc8cf",
     "828bffc442877482df315a2eeae066029a310c4e5c8d1c739ef55f3e2a7209d4",
@@ -4000,26 +3979,30 @@
     "2e3f3e6a1daac1f3636bff987aa16af0f6eec265c79b09c3f86601f5ea8f67d7",
     "0a448a05429072bc5baf2ea1274c7728db92163b3a6ff58761179bb0829a9b4e",
     "025571e2d1c720ee177683bf96282f92a35a3da41dad71d62261850a489b7add",
-    "0a46aa35e7dd9cc2faa0d955b18886a769bc45c8a576ee02a63bfa3806ed585a"
+    "0a46aa35e7dd9cc2faa0d955b18886a769bc45c8a576ee02a63bfa3806ed585a",
+    "fc601b5a541b2063788ea085d1bfbbcdb061ccd77267626e8d893ac40ac5a97d",
+    "0453e9c2202d232bbcf507ce70e2d03755ae7f933cb72ad9ab12e8d550511799",
+    "57a83f67f249510bb34a179b0775bbe6632c98463cc3a284ce8ab11723dae2c8",
+    "c5605ad9460dba3389c3cc498e53e0417509f4daf38422e877d8b93e1bb5279e",
+    "554cba87d1472cb2645255a98a99fbfbb118de70ca84dc6289e5b1398dcd9c0a",
+    "92942215342b5b45177394955e45e2088dfd502902e55b6ca7dc549209101e97",
+    "ec4373be4efc5bfb02389e35035f9b3066c2d92e4f8bab27e67d12bde6c4ae5c",
+    "ff49dba74ec5a0cd5bbfcdc6cd9fadbe78492aa9c8e034e9d2f09531acfb6ef3",
+    "b456b2c43e25dae65791456a87daf86fc6fb915f5c0252d3051fce68ddd9fb2f",
+    "39afc1c2dfed871fd37379f8589ac2b6ddcf173d9b8b41aef222fb851ddadf0f",
+    "244a5a21f1d89486b2f3b38758b452123fe83350548737f79d052b466cbf4d12",
+    "dafb1338584c9d81eafdb7673083915d1cc7b7d794a1bcc23d09d60f295dba5b",
+    "32537468d019d17130fed8df59fe547c727327ff610348d9300a8e1f261f5148",
+    "2593162ca0c6f17fc644845d60c0f03677c05f68f6d14d8515fdc31d71d0892f",
+    "ce01ad58cd46e0feeecc5b68c72e1c20b4cc32221bf3da8edef4de6cb6b49ac0",
+    "8e13ec78992e30bdcb092f9b492450bba3993c64c758c10a440b32acb807c596",
+    "a9c57dbda4d7ea82f6a3cc0abc10951998453577a7041fd4356255fd9bd5f6dd",
+    "9c3ab2f78ad9c25aa29fda8ac32e30f401c81724bf2ff1f25954e2ef4015332d",
+    "5ed2c3b8eccaf5b2f2aeb6eb1faa9275ac20779d9ae03df9e1dcf6b3c1f0dead",
+    "f8081e44b8c75c7dd559c28d5d8eb1f82de811f9f789b10a2648681402eb7f20",
+    "552f9eb8bf659e2f1c9e354ac18ba7dc305f1503b7a801b1a822d9627053fd3f"
   ],
   "title_hashes": [
-    "08ebb220c227ce6d4158f9cfd4013a4332682dc610bd493697a2fc580b34f5b2",
-    "d48a228b86781b3e23009be5f99cd25574891a48591a2c3e505e74904ccf3dc9",
-    "24ccaee1ba23368dd9b818c869a30c7ff648980f797716a684376ca9cd478727",
-    "f8aed19e4b2457cf5ac92fd574172d92c00862918fca7283363143039d8a4116",
-    "740b61e6929a4f83eec91da78c302748c612e142e46f7bdc8bdd0b1649e5fbb2",
-    "3a676700b1771d5b4daf0821e8d63ce17b04803e3df7be09c4ab600f711f9575",
-    "cbdf94852f8f864dca3244d3745dcc5f5edc315e461006b336fc9bfa5617a3b8",
-    "f5a82a66c3600b6f50899c8481660bd5e2e2d143c00a96014dd67e58832918a3",
-    "712031b9e4598a22b85748ca5d345cf36cf73cfe01fe7bb7fb036c5452b8c2c4",
-    "dc528a7d3ef6a7b6fd84073735a6da00f00f527eedb5fcdc50ab4f3cea3c48f8",
-    "47e8813592cbbb689b09259b783ab19954b45e14197b4ae2ced945dc84f47a05",
-    "0401343957d31010a6f41ba150b86b9c6e2b8488355b502bea5ef1c43158467d",
-    "510836d342b9a31e830527c1f005b1aa8b14360b23ea49d4f37bc0bd65ecc296",
-    "5752e54d92be5a34a777877ebd1a7d8609d3b478b73872702c0a734c36ce9ee1",
-    "3b12254472aa37b145cd0f8cc53272f6fd1354bc577b7d96c2a44b173c8a7a9c",
-    "ac8111355b26315cf24ceb667e504c00372558ad1793673c9c8adb6aab35de2e",
-    "ad5ea5eef2a61dac9ad01470eb0228bb1bcc94b74589670454756bde665a9031",
     "ebbd26239df38a9f7c19e85910e5a6493aef78927f9da64ff41851ff4ee529dd",
     "3125ba9ba726075bf5f9e5f1e30373c102577a1ca7a59ab7ed61d217e986e8c7",
     "9712a01357cfd68a5e3bd23ae70a7630396867fd8259d469a57d35c57cca4bda",
@@ -8002,37 +7985,26 @@
     "b699392b16461e73d85715db990fea7c16677f8c1eff0b16c04bc674fd19c0b2",
     "ed51e24bb3786245a16a6a162525f5396cb41a1b5d7f70fba4d0119aad594345",
     "23082d1decae813261fad49aae4bea9055af81dcc48d7818caed96b78d4bb3c8",
-    "d593bb87332da0a3baaea5ff479d2d3b995712150ced19210b2127ecc351ec97"
+    "d593bb87332da0a3baaea5ff479d2d3b995712150ced19210b2127ecc351ec97",
+    "f6722af0cef9547fde900bfd2082320512ea2a87a7210bf4cfe1dd9884ef2fa6",
+    "6f3dcf479416f32730c1fd646470dcb6d6834acca29a544af6af9a3dbf5a0889",
+    "058f51e5d9081e158894aa45981fc16c50f3fea23a04cfd9d4ef42e488784b5b",
+    "3a9cf6b3dfd825227824ce1e9ffd4ec7648623599f74b4d106f371332fe036af",
+    "bebbb910a64eb9e86d373a40c2a5814fec7c55ebee0be15d9b901c470aeda077",
+    "18a66a26143912ca794cda3b56d5efe69460551924cfef11085bdd68aaf6e0a1",
+    "dde0669a336a6210460af90a915ee6760a7e66891fd3dde2d101d77dca3bac66",
+    "6efc5b1f4dffdd22562a27b877ba1c64d220bd040c0b7e35f241d97bd47bd35b",
+    "bdf5b2eaebb90c82bf5bd562685e4351eb0c92eb581346d226ad2b4f7cbaeeff",
+    "65fb5757fba9b8f04d85ba28568550a2e08abfa67d2b487761fb34f8973b3103",
+    "e30aa376d5a1285b5b79df237dde3a8eb8e8f7322098b62d0ac46c72bcd3db8c",
+    "55a5c3d87b0c260e993ab9c9d20a95f1b02d8eb4b2987ece0beda82d9dd98c5e",
+    "5b5322f78cbfb4863b727da4b0efa68985e0fb4bd78ab0ea598ff7cbec77ef60",
+    "3a698667311b0d73d1817b86a651bcf9042e847f6c85b9446ec62f6f9c936b4b",
+    "dcc0ba95bdb4e28d981f2871b52ddd15dee55d42aae6c4c884bd345ddc11380d",
+    "888d6c6bda91b6b8967cd91a0cce171b5297c38ff274b9a9536ecdcf2ac552f8",
+    "d4ba837238089f68ec294a2e5aebf1b1a3af28363248162634d65b0848580382"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Wall Street trades mixed as it pares earlier losses",
-      "title_ko": "월스트리트 거래는 이전 손실을 만회하면서 혼조세를 보이고 있어",
-      "url": "https://seekingalpha.com/news/4676593-nasdaq-plunges-3-as-wall-street-tumbles-on-renewed-selling-pressures?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795636747
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Oil Flows in Hormuz Strait 'Forever Altered,' Says Tom Kloza",
-      "title_ko": "호르무즈 해협의 석유 흐름은 '영원히 변했다'고 톰 클로자(Tom Kloza)는 말합니다",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-25/oil-flows-in-hormuz-strait-forever-altered-says-kloza-video",
-      "ts": 1795636749
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Fed Beige Book Shows Moderate Growth, Uptick in Wage Pressures",
-      "title_ko": "연준 베이지색 책에서는 완만한 성장과 임금 압력 상승세를 보여줍니다",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/fed-beige-book-shows-moderate-growth-uptick-in-wage-pressures",
-      "ts": 1795636752
-    },
-    {
-      "source": "9to5Mac",
-      "title_en": "iOS 27.3 release date: Here’s when new iPhone features are coming",
-      "title_ko": "iOS 27.3 출시일: 새로운 iPhone 기능이 출시되는 시기는 다음과 같습니다",
-      "url": "https://9to5mac.com/2026/11/25/ios-27-3-release-date-heres-when-to-expect-new-iphone-features/",
-      "ts": 1795636755
-    },
     {
       "source": "Bloomberg",
       "title_en": "CoreWeave, Nvidia Credit Risk Hit Fresh Highs",
@@ -11504,6 +11476,34 @@
       "title_ko": "\"애플, 연말까지 신제품 쏟아낸다…'레드 에어팟 맥스2'부터 iOS 27.3까지\"",
       "url": "https://zdnet.co.kr/view/?no=20261126111945",
       "ts": 1795660157
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "주택시장, 금리 인상에 거래 위축 전망…서울 외곽부터 영향권",
+      "title_ko": "주택시장, 금리 인상에 거래 위축 전망…서울 외곽부터 영향권",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446675",
+      "ts": 1795660189
+    },
+    {
+      "source": "딜사이트",
+      "title_en": "에이루트, NSRC 흡수합병 승인…반도체 노광장비 사업 내재화",
+      "title_ko": "에이루트, NSRC 흡수합병 승인…반도체 노광장비 사업 내재화",
+      "url": "https://dealsite.co.kr/articles/173564",
+      "ts": 1795660318
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "대구 '희망 2027 나눔캠페인' 1일 국채보상운동공원서 스타트",
+      "title_ko": "대구 '희망 2027 나눔캠페인' 1일 국채보상운동공원서 스타트",
+      "url": "https://www.news1.kr/local/daegu-gyeongbuk/6366871",
+      "ts": 1795660320
+    },
+    {
+      "source": "리뷰타임스",
+      "title_en": "[우주] 누리호, 6차 발사부터 순천서 나로우주센터까지 121km 바닷길로 이동한다",
+      "title_ko": "[우주] 누리호, 6차 발사부터 순천서 나로우주센터까지 121km 바닷길로 이동한다",
+      "url": "https://www.reviewtimes.co.kr/news/articleView.html?idxno=13532",
+      "ts": 1795660324
     }
   ]
 }
