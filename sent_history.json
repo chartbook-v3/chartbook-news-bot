@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795718033,
+  "updated_at": 1795718182,
   "id_hashes": [
-    "00c71bbfe8b0217baa3f3fe992cbb0303d63e776eee89ee0f4cef7ad8042e231",
-    "a743e93768aac34fca91f720a7b6009e1adc15a0ebb8e65b69d1fe2b6280b1f9",
-    "e8341b7655c4144919b58d12272d118581ef93a72f24675eaf418648a2820b0a",
-    "659798d73007f19c9224cb505ef87863ed16bf36d7e3be0f5c2d73e489df17e3",
-    "006a8d2fb3f2ae382f73585bc8df9c79bb1ea0bb2c0a742a12d1b526e02ae177",
     "f10e02a63dde42ea1c3bfd3a4237987b97ace3d18ee90b17d0392a8e2f8b5ede",
     "14b2131903b5ebefce6f496e436e408dc4246f285fde186f4a16244d86096990",
     "450678f33f15cf18e6cbfd6ed97da5d90256b24e6d3dc2b3f93ece9d22b5e506",
@@ -4000,13 +3995,14 @@
     "d7cf01eaf61c9d09b57d746010b197fcd5c3b34239074eff2b4c1d56be7aa38c",
     "73cc59ef0aae21b3d94c170425cef83373b3b4b8fa5c7ae507cba19f71469490",
     "f70f3e475b25bcd214a5f585851293601d2605ade9c49ebfd64c816b044a5663",
-    "fdff732a8340f6028c978b4ad462596c456facb9ef755eb88da2930ff693dee3"
+    "fdff732a8340f6028c978b4ad462596c456facb9ef755eb88da2930ff693dee3",
+    "384cfaddf936b7918749aceaf05f09bbb8e2526aa2f860f5d6d80c3979235721",
+    "5bf34d2ea4d8d289307caa9c4764fa10224356f96c3f9a8b9699762fbb632db6",
+    "011866413b3e34266680a0cf9e4b29e654b0791e68fa9e720646bc93c0f36321",
+    "986b8418f4fb8ea034640a53b40fd0f9b53498bacb240bcf6b952d89b6fc4caa",
+    "3bab2260f84f1707188c975ee946b1a4b6ee59878f5f71e608d44282f1c66047"
   ],
   "title_hashes": [
-    "867877e10f9df45d86d9a3746e8c57b59626c57f3a7bddf02ac3345353a1477b",
-    "3ca02cb0903cfc6937576604bec5f238328be096c7948951195ec1fb1c55c4f4",
-    "a67df20062569498f6bcaf10f2b4af77bc4d987d9a6a3a2c356f81e8f8779d04",
-    "5acb1da9823044122ed2e89a4051120b6837cb84c96001b865ef9d782a4d2b06",
     "5cb221e2c9731b8bec01841bbd95405dcd6100c97a08e53f18b26f988c9eedcb",
     "3f768989428f7ad3063e5d1c52bd69b4b2480f43d5a46e927dc1f9553cc2317a",
     "dae09efb93535c2fd7573df1029a597b7bb5f8eec32b712d6921ff3a4c3b7659",
@@ -8002,16 +7998,13 @@
     "1546292ff1068f88b2ff59ae36be2244f80518dbb83533b6b7171f55bf6896ae",
     "2d42578b596512b0c51fc095151f0e30d4b6843d8f4e8d3f583857c25b9c1549",
     "425a96167cd0ff040cec08d2c06046312621e5b6f668b16dcdc1af4d34f8b7d4",
-    "908898f6d280d99b680489279d8466cbf30a8c0ef35288dcec95b8bb27bb60de"
+    "908898f6d280d99b680489279d8466cbf30a8c0ef35288dcec95b8bb27bb60de",
+    "89f6e8143bf31f73761b7c6494509150749bb42df7ace02f52c04b5cefc4c548",
+    "67362274a542bf25014b070cccadf76af0f2f07de103ac3e629a0d44c6f7d44f",
+    "41c3e022031b6c70564697b59e91408cc046a01a6016673aeeec7e1b983b34ca",
+    "bbce39828e2f28fd8481c7bd6d5cf9b08b90c880818582164aa7aa4e9f36a3e4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "Intel lawsuit details Trump's push for US$8.9 billion stake",
-      "title_ko": "인텔 소송 문건, 트럼프 행정부의 89억 달러 지분 투자 추진 정황 공개",
-      "url": "https://www.digitimes.com/news/a20261126VL221/intel-lawsuit-government-2025-management.html",
-      "ts": 1795680312
-    },
     {
       "source": "DigiTimes",
       "title_en": "CBTech launches TGV foundry production line, secures sample orders from 5 major customers",
@@ -11504,6 +11497,13 @@
       "title_ko": "Rottenstone Gold Inc.는 제안된 Great Bear 로열티 인수에 관한 보충 공개를 제공합니다",
       "url": "https://www.streetinsider.com/Newsfile/Rottenstone+Gold+Inc.+Provides+Supplemental+Disclosure+Regarding+Proposed+Great+Bear+Royalty+Acquisition/27404805.html",
       "ts": 1795718032
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "S&P 500 Sector Rotation Tracker: Consumer Staples lead as investors get defensive",
+      "title_ko": "S&P 500 섹터 로테이션: 투자자 방어 심리 강화 속 필수소비재 강세",
+      "url": "https://seekingalpha.com/news/4676907-sp-500-sector-rotation-tracker-consumer-staples-lead-as-investors-get-defensive?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795718181
     }
   ]
 }
