@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795689242,
+  "updated_at": 1795689396,
   "id_hashes": [
-    "ebc7b4c35aa78fa08640f659aaa84c67ac18337e521a9958476283698f365b94",
-    "0b274b4a48320846131a963ecc47ec0f0ced3b429fc9dd7b5b158ba17f8e8d81",
-    "21292968bbe04eaa2040f0e52c06a19f91803466a25afa5d2f0ab40d70ff4cfc",
-    "adef9699a576dd6805da8ce3aa6a69abdc98500cd7c7dd176f3e8e7d027037d0",
-    "2f90d59921dddf809a7ef37a05efddd7e95521c896ca7a40723a78bde14649f7",
-    "9ad5cea77a051faaa1131cbf247f96b51e5ad651ab069c1eba9e3f9fb69ca6f7",
-    "a763771829b44338d9c310c40b95e24b7708c4cd4e7081fb61af707f12f53396",
-    "aa03b2daf3f027bda3f9dbc079da1e956168ea4e0aebd182c7abbf05ceb2d167",
-    "9ea086ee565e5536030dc8ab1bf62705d2f06986b70e9160988d3d30791b3ea7",
-    "36cd3cdbb643f34f1e26b066ca112dd29c0f6efb20daa688405202977cbcb10a",
-    "e4453687e2a4d32b922a3414ea12eb34a698748131f3315c281c11d75990fe21",
-    "a0459adb429cbefa938c157a7b29edc48fe2d9bd7ef1d527493bac7583b6bb96",
-    "51ea7caeda96492ad1effc467d89d64daceeff68af9f34f9fcc9126f680d76e2",
-    "99361c886a43c03fa8661a479c604408abf4e1402cb60e4f5dce4adc3873b35e",
     "bf2ec9f7cf818b4183cebea1bdcafc156457a4b3a80907c940b31e79c0d71cc3",
     "8df03dd6d8e2fdb9aa5e94cae82584c7308e30b7844ffd2e45b3b6067f96cc67",
     "b7dabeff99a91b2d934db6b41d258380e0b4c6eb231184120ee6dd7985d013a5",
@@ -4000,18 +3986,23 @@
     "65376279797244f3a41b1776e21df770eec5751a31e47570bac25574f1cc9b2f",
     "77e6fa1efcc88e79079b5c0d3f7202766938e4c6cc3fc22af7be5f5bed7bda02",
     "bbfe10b1087c7f674e054beb498272022749f22985afb1f7ae1e65ad4b83f0e0",
-    "a2ab3250b897e840900fbc7fbabee2674a5b18f07b0fe84d76e404e2bb1eca2b"
+    "a2ab3250b897e840900fbc7fbabee2674a5b18f07b0fe84d76e404e2bb1eca2b",
+    "caecbedee6d0e8f1783708223975133244dceaeb6eb9cc330bbe9d15280c64f8",
+    "aaa929f1755606ea39f8448cef33474678de3272d18810949a0a14b75cb90fc6",
+    "a53b96dabff75f200120668f4663b94179547cb92b4c0e0f011b8471952b5442",
+    "ddb774602ce1cb15f1a1e5993a3d42a39654ea10935f1a11b1d4357330823bfc",
+    "2f9faca0c57594bcbc3bc0ecce5ca4d094822539d24489427ba529c9a781fd8d",
+    "e5765a50d9ccc8da837341e9fb60fa4f9fb02ed115414444c8a25875bdc54b5e",
+    "f3a3b2ac66bb89571b4375d7e8843626be7ef37b1337f29948bf86f26d53c343",
+    "32f5ac34f450d61d37d1b2214ac5fc250c322cc195f8075e11bc4823159eee5f",
+    "cc0f42e7a8daf0d67ed33a4dba5c04dadb0e1a10a14eff5eb4115d3c796ab41c",
+    "f777507ed51d7c59e052fd432e835a95ad055bc3af6eada5478ee15e27760b67",
+    "f601a46c7becd0015c5b9329e51ab7773421960da41b8b96e7dd0db62d75c9c1",
+    "a10c16dacbdcce7a87d92d94977b12d8f95a4a8c67da378cdfdeb8647bd44151",
+    "1a4497dc4ec9f8431d0bf90cd972d7e048db975f1ae6fffb6ec7b9d45ecd7bf0",
+    "9990a0c8607ce34871c45f3f61c970de2892922fe17e979d2b2c8c04b518b046"
   ],
   "title_hashes": [
-    "710d0559b452048955f49aa4dcd349fd00fa8d96736396887eca69a7fa52b1c4",
-    "9431fb9aa09e8e7b12d3808f6056eff6c332a7857d241112e35a8fee90c0b1bd",
-    "46261fbf52f4f0bee33fede6ae528799b3babe177fe7317f6140391cba8ea5bc",
-    "f5abf1b7514556ba08f35d7b8192597a95b3f8711a10bcd7e9aeaa295c5f3159",
-    "58896a8f3beb60895c4770c4875754e4fb02a170c3d09c6f97cc2816608e9238",
-    "773eee7079827c366aea3d0cfea3c051463158fc81e095210e4c172c07a8b495",
-    "5c56b9b02b82ebac49a869d5da8b32b7ccd8f4810a7010ffa2d2ba7545522c66",
-    "0e9346755b9de786d9af0e4ce294c852ac2c4c85b328ccbef4d259bd61f49354",
-    "0e02d23d0e7242dcefec8cd43a5cfe3bb37b412bd5eda57815881b64e05e0010",
     "ef7c0867dbc309748a497c7b41547fb4f66436e252f88e8ba8c2f2c19a10d4e7",
     "fc5d208e600385eb86e6c320d06e65d0f90ba620a657917ec9d752a5ac8e5a8d",
     "1942ca2dac6edc448d17601dd5ee6d1656dde6569a05a7182bb7c982bdeaef88",
@@ -8002,44 +7993,18 @@
     "c5fcee879cec8eaa23ec1453b283c66ce6b4aa778264103dd40132253ed9e46e",
     "8833d919a322e8b0b26652ab86f5e567cf7305788b171c77bf704eae505babff",
     "67b5defef32ce8fccfe9b83e2e52a0c71a14ce928b5dbea01898b1744e37354d",
-    "5a8eac23806df6888e20bee679b73db3978fbe0d8e7fcd8eba348317f5e32220"
+    "5a8eac23806df6888e20bee679b73db3978fbe0d8e7fcd8eba348317f5e32220",
+    "5a61ad427b7a1d65f4e99853ae0a64b61ca7ba27f811ead6b003b2976a4816cd",
+    "f283b74f8cbe13905577dccd50a9aff4ce198130b9316becb0412cc6dec423da",
+    "f9bdefb9bf59e9c119aef11457041e51b635a1fb44dac525d7baa68cdb209f32",
+    "1438bbadec7d924127e5bde9bad4a65c239dc699f57d5c9d4aeb53beada84152",
+    "60ba81b783073007768d8d57c9b1e56d8eec251c60fcf9b5354d16ee824fb5d7",
+    "819b28e40aec89a3f93510108b6f6ff19e83fbf72034ca449d05d346b420feef",
+    "1e699d51ec137cdfa67b5bc3b7726dbfc45ff14750a15cda02d554638164a39f",
+    "5aedbe84c07a1010019b3f4e75b6c74ea618b7e81be9bcf857d9628f94fcc316",
+    "b7f0ac7bdc17b00b6f600e9d3718d809fe175601468d2e5c141dc5f758006958"
   ],
   "recent_sent_articles": [
-    {
-      "source": "디일렉",
-      "title_en": "나무가, 자사주 37만주 소각…50억 규모",
-      "title_ko": "나무가, 자사주 37만주 소각…50억 규모",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=65941",
-      "ts": 1795666000
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "유디엠텍, 21억원 제3자배정 유상증자",
-      "title_ko": "유디엠텍, 21억원 제3자배정 유상증자",
-      "url": "https://www.yna.co.kr/view/AKR20261126098700008",
-      "ts": 1795666128
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "신현송 “올해 국민소득 3000조 넘길 것… 700조는 반도체 기업 영업이익”",
-      "title_ko": "신현송 “올해 국민소득 3000조 넘길 것… 700조는 반도체 기업 영업이익”",
-      "url": "https://biz.chosun.com/policy/policy_sub/2026/11/26/DOEYAVJQERBOBATUQ3KAONU4CM/",
-      "ts": 1795666158
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "NZ DOLLAR FACES RESISTANCE NEAR 0.5490 AS RECOVERY MOMENTUM STALLS - FX",
-      "title_ko": "NZ DOLLAR FACES RESISTANCE NEAR 0.5490 AS RECOVERY MOMENTUM STALLS - FX",
-      "url": "https://t.me/marketfeed/1085667",
-      "ts": 1795666224
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "신현송 \"통화정책도 강한 성장에 맞게\"…추가 금리 인상 시사(종합)",
-      "title_ko": "신현송 \"통화정책도 강한 성장에 맞게\"…추가 금리 인상 시사(종합)",
-      "url": "https://www.news1.kr/economy/trend/6366989",
-      "ts": 1795666440
-    },
     {
       "source": "CNBC",
       "title_en": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
@@ -11504,6 +11469,41 @@
       "title_ko": "TSMC의 226억 달러 규모 텍사스 계획은 2031년까지 2nm 이상의 칩을 만들지 못할 것입니다",
       "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-files-for-usd22-6-billion-texas-fab-campus-with-local-tax-breaks-just-one-county-over-from-musks-terafab-proposed-brazos-county-plant-wont-make-2nm-class-chips-until-2031",
       "ts": 1795689241
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Tim Hortons China said to weigh stake sale options",
+      "title_ko": "팀홀튼 차이나, 지분 매각 옵션 검토 착수",
+      "url": "https://seekingalpha.com/news/4676797-tim-hortons-china-said-to-weigh-stake-sale-options?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795689270
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BOE FPC: GLOBAL EQUITY VALUATIONS REMAIN STRETCHED DESPITE RECENT FALLS; REFLECT EXPECTATIONS OF STRONG AI EARNINGS",
+      "title_ko": "BOE FPC: 최근 하락세에도 불구하고 글로벌 주식 가치는 여전히 상승세를 유지하고 있습니다. 강력한 AI 수익에 대한 기대 반영",
+      "url": "https://t.me/marketfeed/1085832",
+      "ts": 1795689279
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BOE FPC: DANGER OF MULTIPLE FINANCIAL RISKS CRYSTALLISING AT SAME TIME HAS RISEN",
+      "title_ko": "영란은행(BOE) FPC: 다중 금융 리스크 동시 현실화 위험 고조",
+      "url": "https://t.me/marketfeed/1085833",
+      "ts": 1795689282
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "BoE warns AI financing is \"increasingly complex, circular, opaque\"",
+      "title_ko": "영란은행(BoE), \"AI 금융화, 갈수록 복잡하고 순환적이며 불투명\" 경고",
+      "url": "https://www.financialjuice.com/News/9869247/BoE-warns-AI-financing-is-increasingly-complex-circular-opaque.aspx?xy=rss",
+      "ts": 1795689284
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Malaysian convenience retailer KK Mart launches $112 million IPO",
+      "title_ko": "말레이시아 편의점 체인 KK마트, 1억 1,200만 달러 규모 IPO 착수",
+      "url": "https://www.reuters.com/business/retail-consumer/malaysian-convenience-retailer-kk-mart-launches-112-million-ipo-2026-11-26/",
+      "ts": 1795689395
     }
   ]
 }
