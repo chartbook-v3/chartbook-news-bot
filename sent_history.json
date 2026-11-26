@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795700159,
+  "updated_at": 1795700311,
   "id_hashes": [
-    "b87bc8e81df27bf5b5c4bfd4d9d44ea987b638c46de9077b120152011d14a584",
-    "4e96a637cd74d3f4dd30ebf65fa3e1f7b12dbb0296919995e1237be31a796c36",
-    "f10a83ef455dc1c485056d5373d084dbdaa9adf3dbb11be5c7d9bd6d59a31204",
     "ad9471dddea2f72b75ceea13826cba8c44653d671e441aacce4fc87212faf43e",
     "cbbc4fe86c075905176330581eed7a2b435db17877b2e056a18b10ec5f51010d",
     "f2c4fade27f1aa6b2a103687be97a9ff26be28b76aaafa2e88eae43e3b3aa0a0",
@@ -4000,12 +3997,12 @@
     "68cf2902113e0b8ac2bc4bdddff804b991ef6a04e1e0477a39b73a6f7d02a5dc",
     "a34e11f9319333b253d007b5f62b0c518df561cf1b1315fcc8c5b996ab71014f",
     "1794088c1c8fbc6e1f9e58b8cffda73c0c163f662937d15f9124d6347c4ef189",
-    "4fd977400ed533e27a993c6c7d9086092ed4420e533394a2af77872a52a132e0"
+    "4fd977400ed533e27a993c6c7d9086092ed4420e533394a2af77872a52a132e0",
+    "73551d242d21a86b8f2be30c885a2d05c3f74860bd860fd6655394d5a9f7fb81",
+    "e561eb395e6faf8b4c67013b3a17260ce10b9704c5c0e1e82f172480b4e79669",
+    "ca0dd9b7c546cc3b4e29d1a97bfca5c322f46dc59029fde71832568d703314e6"
   ],
   "title_hashes": [
-    "a6e0c32e58d8d7ced94eb05e9f412908c4442926908570a5621e1d58f749301c",
-    "ab2968f47c345220806c6a2eb6bdda22154c0c72b757129dede4771ddd454adc",
-    "501def031d5bd791e25dfb28c899da4816610a64e49394097fd34b8f8f0283db",
     "c3ab832097ba0c9afa7490188d706af8092e4bcdd77204ed07a1c7ade67d7b2d",
     "e41e1583c27b30a3e697cadd9511c059ad962ec62b61d5255a89d1423db4e19d",
     "4aeaf44eff9e153794cf0d165b71313e267f0dafe2987b2a02e35a7cd6a311bb",
@@ -8002,16 +7999,12 @@
     "0199cd94281549027e3dfb8e86e4d8682feef498d093729c645587e0e45f9549",
     "d69a36174ff4054162183798eba095d474b71166c0f1e10f2c797964b518fc8f",
     "2dbdcb0f4da61bdc70bbbe9816fa860b1db11aaa0414b823f45bc87a639ea481",
-    "52f820650f42797edc2310b35b633082829e3f7dd623ebbac3c16c21db659069"
+    "52f820650f42797edc2310b35b633082829e3f7dd623ebbac3c16c21db659069",
+    "92bce0662d07bb1f9bfe25cf3507ee7362f283f50c3a938f859b7034382d375f",
+    "c47d05041b54df405b39e002c2b929acce196b2979a0b719ac9fcf2534150789",
+    "fab3be3adcaacbaca24a211b793502a1dc15575057f36f8e795a4b98142572b5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합뉴스",
-      "title_en": "국토장관 \"용인 반도체 첫 팹 일정 맞춰 기반시설 적기 공급\"",
-      "title_ko": "국토장관 \"용인 반도체 첫 팹 일정 맞춰 기반시설 적기 공급\"",
-      "url": "https://www.yna.co.kr/view/AKR20261126138000003",
-      "ts": 1795674078
-    },
     {
       "source": "Benzinga",
       "title_en": "Abdul El-Sayed Says ‘Too Big to Fail’ Wasn't Pretty Last Time: Trump Chose Stock Market Over National Security",
@@ -11504,6 +11497,13 @@
       "title_ko": "Kathy Hochul 뉴욕 주지사는 매일 15,000달러의 벌금을 부과하는 AI 챗봇 장난감 금지에 서명했습니다. 휴일 러시 이후 90일 후에 발효됩니다",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/new-york-governor-kathy-hochul-signs-ban-on-ai-chatbot-toys-backed-by-usd15-000-daily-fines-takes-effect-in-90-days-after-holiday-rush",
       "ts": 1795700010
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "AUSTRALIA SET TO PASS GAS RESERVE LAW",
+      "title_ko": "호주, 가스 비축 의무화 법안 통과 전망",
+      "url": "https://t.me/marketfeed/1085923",
+      "ts": 1795700310
     }
   ]
 }
