@@ -1,32 +1,6 @@
 {
-  "updated_at": 1795696227,
+  "updated_at": 1795696426,
   "id_hashes": [
-    "a9c57dbda4d7ea82f6a3cc0abc10951998453577a7041fd4356255fd9bd5f6dd",
-    "9c3ab2f78ad9c25aa29fda8ac32e30f401c81724bf2ff1f25954e2ef4015332d",
-    "5ed2c3b8eccaf5b2f2aeb6eb1faa9275ac20779d9ae03df9e1dcf6b3c1f0dead",
-    "f8081e44b8c75c7dd559c28d5d8eb1f82de811f9f789b10a2648681402eb7f20",
-    "552f9eb8bf659e2f1c9e354ac18ba7dc305f1503b7a801b1a822d9627053fd3f",
-    "1e7a771e83d371bb7bed9168bb3ed094f88b977e31c3f087f7e10bf29c869bfa",
-    "8b3c97b415aa375720db5bc36dea1c5706f3158efea7e5eeb32318703f09dd50",
-    "d4025952a80d5ee58e0927698baa96457da02a8a4c95738a6e4c6b69e9d113aa",
-    "1bc6fe82d51f17c55c3e3d0aeecba5c7fcf903cf463c75fc1dce99d599921a20",
-    "b9f6dda7e00c684401e784b0f2d7331f31e5d2f08cf1b6cb043f90b818c0456c",
-    "993909ec21bfc65e2b24f8896bb61c173b4938ce7fec31efe24b08d35de91998",
-    "4cbdaa5f1c0dcdb11c8adfb9cb2915a375eb3c2767c180a11f506dd812dece65",
-    "e2120a622e3e04683187db03266b0ec81a2bf044018393bc287621e708fcfeb6",
-    "75fea754988361eeff659e152befc00240a62f21564e66691d4bd1e699053df9",
-    "d81803ffe1566747fec67fd4a3a9e11e2719b5837741fb020512915ce1665c12",
-    "5d6ada5becb1c37290d714188d74e9d93e69a43bd6d6451304e411c3b602b880",
-    "c89dc1291aba9f22384966c5a829203006b3fcbf2dccf781e58d8faf09b2c2db",
-    "d7dbf879a7c687aada9f4bfa68ef5aa04320d23ce65b35d7b983055a974f3022",
-    "c35fd8e6ade3861c5fd4f580e930dbe3fea775f8a1b9e11a0a1f9cf714f5b89a",
-    "156e5811ae37b1f977518207b713bceb08a7b19f11294629440ff111c6f42803",
-    "b66d4bfe57f633c11304578a700ff2177405c98a4ad5793992c313cc8d8ae0d2",
-    "e3ab120aaf04ca0278f7c326a851894f3a0502c0e91a445e81f7bbb9330955c3",
-    "8b1a69257a255ff64ffd17eca3f4e6bee7cf7a4402dda07d071c4cb7870f3b36",
-    "c924957f51dcb322ca762a680c494a1f1e96327509155f93f2ff685ce07c65e7",
-    "919fdaf09cc937026af92c19dc4e7a8e050c7efca063769ec2d7591e57ae2a06",
-    "a78ee4054df0c02ef739fb6920fbc7c5f9da074d24821ac367f78d71d04ca511",
     "718dd0131c03eedf031a79e5cb5f727b61d7b3c2e2407e399f4eeb9858a0afa2",
     "390e4794f2123136a33bf239c27bb37a193ec8e550f349b69d5925ad3fb0bdc2",
     "5f27fc2e69bb3f223050e996c5a2d5ac29ee698e29a0e575eb06f3b3d6e2d3dd",
@@ -4000,32 +3974,35 @@
     "9e460f2f25f5960fd924ea69d0aa95ccca7f34885e4ff0060413a41bb1dab63f",
     "d649a928aa84e34bb14f4d3c8c8d3db23c5dbc23ea44c77f61e339b7f0ead85a",
     "bf4e93eb1d6b13f10161efe45f25d89b6b2fe58f554f66072e2cbdf2a3caf5f5",
-    "2539fedfc349801d6864dfa10805df9aa2bb306ea29b811fbee4093fc5ce3b71"
+    "2539fedfc349801d6864dfa10805df9aa2bb306ea29b811fbee4093fc5ce3b71",
+    "421e8150406f0a348e45b5c994a3cca52ab36fe626a4cac7df55cfbf6d3284c6",
+    "008d72c3c9b7fdfcf53f5c042f30542fa052c439db7250d9f964ba47d1426d9e",
+    "aa59db7c310415d1dad6d5cfc2e38a6bf285fae6e8a608092da5da218431401d",
+    "aabda02b284049e15df8d22b3ca751c01de2f97d42fef003a8dbb67a8916eb04",
+    "f5be0dc3f06f87342aca0b16c901e81322dd1f56f8bb794d4dda3b59b273920f",
+    "d3e9425fd8ccede3ee1033a793d78ba5bcf2c2627a177f8450c84721eba2f774",
+    "b264a6852014b3f63343e9774b1a184b34a4c23de1206fe4a23b90b2b11d8a3d",
+    "f56828c40531545dc82a1d7011b16558b056f9c4c1deffc706896d04152fe366",
+    "a3a79fe8a0f70dbc8735630cb7a53dfacba72855340662a999b3d992926d2bbd",
+    "1464b8e56bb8c7765e924ac7b7f98058116eb60afaf61333a7dd3a3c63adcf4f",
+    "054ecc267a93a82507feb479477da4d8a0e51ee84756cde6d1fb21d9109dcaa6",
+    "1b0703224b374894e2beb7cc09ce327bbcb80102ac4d3feb138418b9f6c5a447",
+    "781ff004f84e4913f397f19ff4637ef0ed9e18704bfae5d6cbacb32b8be455de",
+    "53f468d571c0f7c6a40e6bcf921bc140e8f679e8fef343be5df51fc4347acf4b",
+    "1192b5c1bf7c56278c20c14c1c901a9ed7a5bfc28cefa8f61be8d080036c8204",
+    "668e9f1eb73b5066d821911cbf49afb2ef744bc43b52234bf5c0497684ae39fb",
+    "47df72f943c8b05f36478d09222b5e249d3722096b18f6c60ddeeaba0c55ec95",
+    "6a4f41b495a50350877dd2cce637cf94e537b8375a6a56daaade406797ca4519",
+    "78d3e4abff0ed0966bab675890aa23661064bf97a021089cf262ddb9107b431d",
+    "ac7b643992372e8c2bc338594f63df178b857ac19fef624313b0f44494969b95",
+    "690305c54a2a795dd713c3066efbd71e6fc359a26008180ec7ccc49318afce43",
+    "d9825ee2d756ad513dcb5111ea3f286c9910de87d11c3a06bdbea790d438fefd",
+    "325d13e0a841c6cc7dcd7c5a71b0baaeb585f1ddcebb0c70bd68fd3b65952a34",
+    "a8d10f7533013208e162768af4d5ce21dee90b77b0b4c852553347447f2164fc",
+    "a18c3e6c2bc745a52de7e02fbdec47370486e5a7da651c973477c54a977f7fd3",
+    "2fad5e8b58663d2c68f7bcacd62c86e5b7a85194954cd4cfcb7330bb9d8ce660"
   ],
   "title_hashes": [
-    "e4a8527c3039727a8ccf84e2ec08eba2e6dcbe5409422fb86e727f939e440b38",
-    "e6bb815f80c185e6d9f3aaacf57972155304f696a6e1410a3a18794cf04fef8d",
-    "a53863ab09be8286b4bbe0da487760dabc3522de42887d2e49d65a5c7191ed1d",
-    "cb8c9027aacc6f40dca31af59056e8952994f747ace0c3cbea651798459c4490",
-    "0668e21654ff0b9e78fb0019238b16add3766c3f6d80ac6443bf2a672123ffde",
-    "aaffe1fcb0b6408d197d1c5ad2056b2681f6c5dd5355ad672dc393ba8bbac3ba",
-    "186a337820a297622e1e6374eb14db16b7cb2cce44dd21cd3d728d3e3a8fc9b7",
-    "c69c6faac9dfd712d203ef0d534d954c610ef5df40041f8c5c51ffef8de2062a",
-    "3042bf41ed93dc628cafad0232ab5838df21e8199ff602dd1650bdf675b08ba0",
-    "328a86e0804f120750f4e6deadecc880f3ba95ddba63f320c9684b5635b53102",
-    "04658dc9706ae3efb34d712b7a3f82ecb5b4edc6edd72ca27e9465e0151acd71",
-    "782bf627b91664d95227123a42a09db1b9a974105854cd59777b1ee749fe1f26",
-    "7ac38f60d4574e5b6c98345867d1392b58927e38ba5d40405dc19632b8b4cea3",
-    "627d58c7a152094c816df20b3928828f62d048729bc81be12bf15d1d4638c3c4",
-    "c293f0263594630cef79406487916d36d55d2a712693dbacc6db49373b4c35cd",
-    "5a524311c8917d8f01e39f96f6630cb16ca8c54513eb0acf8f8aa53db694a051",
-    "a5f79b5164e43de82913bffa938f94a6b8069c839ebd09ecc7a6fe010d1961cc",
-    "baedcb107bf9ab8549de45e6878ceb6170d4674f8739fd4d9df55cd0cc8b5696",
-    "ac809accffdfe088004bdf9ac49d1c80b8cb2cbc2f5f6f7a69ec9a330f13677e",
-    "3cf3ef1974c0b97ab528d788c01b69fd01cf1bd496b0acb2b99e5cc929a0438e",
-    "0338cc2241a8cbab07ab8d4bc73919b3ef701ce1cd87851eda3dc8ecdfbfb7be",
-    "41b9b365422481344cb661c7cdcadcae7d5b40b8c10d6f5846b3029eccdb0c6f",
-    "2e6d877ac3b285babffc1f1f09fe7723739f769f4c37028ed40d9ea5a4650341",
     "c371054e6f19075b4b7dc2d0e1567e4d7d059a7f75b907e6bd4e7bef34c01152",
     "bb2ff90926372dfaef89c1d429aaff8bc5ff12afef95e2f92cec69149253a31e",
     "d97b4ad9634f0d96e85244982b29ab6a39ca580ef364f0486e0c16b40109fada",
@@ -8002,86 +7979,32 @@
     "8431f9443df039dd323706fb574b06cf8cbe610297d344b4da3df7f8d5444514",
     "df71f1ea72fa644a64bf059ec7373bfee0123c1315de5991eadc368f0d1494ab",
     "195793382d52a5693af505e30540ed66714e9819deb7ca0a722e219a9460632d",
-    "4ba0b8b4ec8604f95b8d749a44603f53c21a5940f750db6a3a3b9c73225fefd4"
+    "4ba0b8b4ec8604f95b8d749a44603f53c21a5940f750db6a3a3b9c73225fefd4",
+    "0cf11bc4da46f0cbab014d3d78f609e2aecb2e53fd6e6091afa8fc05f581786c",
+    "bbcd9ff07ab0890cbdb8d361c7c227cb61e8597ab32d8c6718c5f0a05c826365",
+    "28ff5025c3d2af749a3a94fa00b5b649dd11cde667c210c2e8c7c26d85a62414",
+    "2ddf224c582e710e177c0900daf68c4813874618b58d147ddadd7b0aefbd4055",
+    "37fb03e7185890337843e8d2bcc06c2a8da9e3b7d1322b8df18eb94d2b6e7e28",
+    "31a9c5d65ae07f37f4b16dd86a424dfaba1b2b22624850a08dc30e3d172bb243",
+    "0c21b39ef256ff0d5f30ce625d8572faa78390a18eb0f0b0aa76aa1c3f214047",
+    "2d98a3fe02eb0783a342d1c06a38f035c18e45f994bb18d08e3141227c7a8e4e",
+    "c65eaeb2fd5339066b2bff1af33acf89dca029fd9636db5aa014d55ea91e9a83",
+    "576c9cdc310070741761533236c40c754af6c2de688e9f9f453fa1aed8121106",
+    "ec13fbe5f76d73e304ee038ccc9ceac86235de613bc57e16e7d681722fb2c5b9",
+    "a8563ef18c472802b4e1521e2bb004a0b88eaf10d3fb45df3dc1926cc8dce3f2",
+    "43de79644be055b0570569aba37cbf7e9b35494ee14e93b680dca68594b7b955",
+    "9a01200cb7c8699658a36f0555585bae51f26abf450ef7d6cfba721034a13476",
+    "b9b140be7169af7f53c5aa9ee6fa0917f70285d6a11ff505ddc866598d2e217b",
+    "3b188a60e6d1d0b8fc3798fa306f54c9d1f49f5fb75c44e4e997de44ec75d639",
+    "814b043feccc44f4fcfd9e58fcac58a2f0fd559acde07bbd299c512ff3f02d83",
+    "ce49d01fc07800fee0deea40aef66794870ba81491a231d8717c14e75cc6f5c0",
+    "82540b3d39fdcda6af375cf1acf9341d05ca0b27cdb9375868f5719f56fcf3bb",
+    "2bda26eaeb3b3f83ba334f33444d8707f25760914d4cbe41709b7a36a780c1e6",
+    "b7325e61ed00fee5a5ae1397a99af6d753ade9251a9494b0be2e147a3c3f1f45",
+    "57df60b8f7a925428f18ab5896d82178d0178ac71be29620f6628458cd09be38",
+    "abc284c47560f6679eb45e4a82b4c6306d84ca191fc0edaa35a61ba0388faeb6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "TAMURA CALLS FOR FURTHER BOJ RATE INCREASES REGARDLESS OF INFLATION RISKS WHILE UNDERLYING PRICE GROWTH REMAINS AROUND 2%",
-      "title_ko": "TAMURA는 기본 물가 상승률이 약 2%에 머물면서 인플레이션 위험에 관계없이 BOJ 금리를 추가 인상할 것을 요구합니다",
-      "url": "https://t.me/marketfeed/1085694",
-      "ts": 1795670900
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "미중회담 후 뒤통수?…전문가들 \"합의 범위 내 관세, 中 보복 없을 것\"",
-      "title_ko": "미중회담 후 뒤통수?…전문가들 \"합의 범위 내 관세, 中 보복 없을 것\"",
-      "url": "https://www.news1.kr/world/usa-canada/6367074",
-      "ts": 1795671051
-    },
-    {
-      "source": "매일신문",
-      "title_en": "DGIST, `보이지 않는 빛` 정밀하게 감지하는 반도체 신소재 개발",
-      "title_ko": "DGIST, `보이지 않는 빛` 정밀하게 감지하는 반도체 신소재 개발",
-      "url": "https://www.imaeil.com/page/view/2026112614225786073",
-      "ts": 1795671054
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "한국은행 “올해 경상수지 흑자 5000억달러… 작년 4배 수준”",
-      "title_ko": "한국은행 “올해 경상수지 흑자 5000억달러… 작년 4배 수준”",
-      "url": "https://biz.chosun.com/policy/policy_sub/2026/11/26/3D7QAZAGMFCEVGUWRZ6YJJFVEY/",
-      "ts": 1795671078
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "스페이스X·테슬라 합병 협상 본격화…특별위 이사 선임",
-      "title_ko": "스페이스X·테슬라 합병 협상 본격화…특별위 이사 선임",
-      "url": "https://biz.chosun.com/it-science/ict/2026/11/26/YLEUFINP4JE7BDADFFWWLSAOPU/",
-      "ts": 1795671081
-    },
-    {
-      "source": "블로터",
-      "title_en": "[한국의 CISO-권력지도] 손영우 SK하이닉스 담당, 반도체 기술 방패 쥐었지만 '거버넌스'는 숙제",
-      "title_ko": "[한국의 CISO-권력지도] 손영우 SK하이닉스 담당, 반도체 기술 방패 쥐었지만 '거버넌스'는 숙제",
-      "url": "https://www.bloter.net/news/articleView.html?idxno=679759",
-      "ts": 1795671207
-    },
-    {
-      "source": "시사캐스트",
-      "title_en": "한화에어로, 우주항공청 등과 누리호 이송 위한 사전점검 완료",
-      "title_ko": "한화에어로, 우주항공청 등과 누리호 이송 위한 사전점검 완료",
-      "url": "http://www.sisacast.kr/news/articleView.html?idxno=102398",
-      "ts": 1795671210
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "日本央行审议委员田村直树：只要基础通胀率维持在2%左右且金融条件保持宽松，无论面临通胀上行还是下行风险，我们都必须继续加息。",
-      "title_ko": "일본은행 심사위원 타무라 나오키: 기초 인플레이션율이 2% 내외로 유지되고 금융여건이 느슨해지는 한, 우리는 인플레이션 상승 또는 하락 위험에 관계없이 금리를 계속 인상해야 합니다",
-      "url": "https://wallstreetcn.com/livenews/3206138",
-      "ts": 1795671214
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "\"젠슨 황 복귀 앞서 엔비디아 내부자 옵션 대박설\"…실체없는 루머로 밝혀져",
-      "title_ko": "\"젠슨 황 복귀 앞서 엔비디아 내부자 옵션 대박설\"…실체없는 루머로 밝혀져",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446777",
-      "ts": 1795671238
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Taiwan says it is confident of keeping previously agreed tariffs with US",
-      "title_ko": "대만은 미국과 이전에 합의한 관세를 유지할 자신이 있다고 밝혀",
-      "url": "https://www.streetinsider.com/Reuters/Taiwan+says+it+is+confident+of+keeping+previously+agreed+tariffs+with+US/27404008.html",
-      "ts": 1795671299
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "한미약품, 비만신약 3종 공개…체중 감량 넘어 근육 회복까지",
-      "title_ko": "한미약품, 비만신약 3종 공개…체중 감량 넘어 근육 회복까지",
-      "url": "https://www.news1.kr/bio/pharmaceutical-bio/6367140",
-      "ts": 1795671301
-    },
     {
       "source": "지디넷코리아",
       "title_en": "덕산테코피아, 공주 GMP 공장 완공…의약품 중간체 매출 확대 박차",
@@ -11504,6 +11427,83 @@
       "title_ko": "트럼프, 중국 관세 부과 예고에 무역 긴장 고조 전망",
       "url": "https://www.bloomberg.com/news/videos/2026-11-26/the-pulse-with-francine-lacqua-11-26-2026-video",
       "ts": 1795695766
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "ROMANIAN FOREIGN MINISTER: BLACK SEA MUST BE EU, NATO PRIORITY; ASKED GERMANY FOR CONSISTENT DEFENCE PRESENCE",
+      "title_ko": "루마니아 외무장관 \"흑해, EU·나토 핵심 우선순위…독일에 일관된 방위 태세 요청\"",
+      "url": "https://t.me/marketfeed/1085875",
+      "ts": 1795696315
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "ECB Accounts: Uncertainty remained high, and the full inflationary impact of the energy shock had yet to play out.",
+      "title_ko": "ECB 의사록 \"높은 불확실성 지속, 에너지 충격에 따른 인플레이션 여파 아직 미반영\"",
+      "url": "https://www.financialjuice.com/News/9869365/ECB-Accounts-Uncertainty-remained-high-and-the-full-inflationary-impact-of-the-energy-shock-had-yet-to-play-out.aspx?xy=rss",
+      "ts": 1795696318
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "ECB: The direction of travel was clear",
+      "title_ko": "유럽중앙은행(ECB): 금리 인하 방향성 명확해져",
+      "url": "https://www.financialjuice.com/News/9869367/ECB-The-direction-of-travel-was-clear.aspx?xy=rss",
+      "ts": 1795696321
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Netherlands Plans to Fight Rollout of Proposed US Curbs on ASML",
+      "title_ko": "네덜란드, ASML에 대해 제안된 미국 연석의 출시에 맞서 싸울 계획",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/netherlands-plans-to-fight-rollout-of-proposed-us-curbs-on-asml",
+      "ts": 1795696386
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "Sandboxed AI models secretly talk via GPU rounding errors on shared vLLM servers with no network or shared files — colluding watchdog let all 354 attacks slip through",
+      "title_ko": "샌드박스 AI 모델, vLLM 서버 GPU 반올림 오류 악용해 비밀 통신…보안 감시망 354건 공격 모두 통과",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sandboxed-ai-models-secretly-talk-via-gpu-rounding-errors-on-shared-vllm-servers-with-no-network-or-shared-files-colluding-watchdog-let-all-354-attacks-slip-through",
+      "ts": 1795696392
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "ECB MINUTES, MEETING OF 28-29 OCTOBER 2026",
+      "title_ko": "ECB 회의록, 2026년 10월 28-29일 회의",
+      "url": "https://t.me/marketfeed/1085877",
+      "ts": 1795696398
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "ECB: A large number of members noted that, as the incoming data since the September governing council meeting had confirmed the case for further policy tightening",
+      "title_ko": "ECB \"9월 회의 이후 데이터, 추가 긴축 필요성 확인\"",
+      "url": "https://www.financialjuice.com/News/9869385/ECB-A-large-number-of-members-noted-that-as-the-incoming-data-since-the-September-governing-council-meeting-had-confirmed-the-case-for-further-policy-tightening.aspx?xy=rss",
+      "ts": 1795696406
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "欧洲央行会议纪要：欧洲央行官员在10月一致认为，物价前景已经恶化。\n\n欧洲央行官员质疑人工智能能在多长时间内支撑全球增长。",
+      "title_ko": "유럽중앙은행(ECB) 의사록: 10월 회의서 물가 전망 악화 한목소리",
+      "url": "https://wallstreetcn.com/livenews/3206460",
+      "ts": 1795696410
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "ECB: They could have supported raising interest rates at the current meeting",
+      "title_ko": "ECB: 이번 회의에서 금리 인상을 지지했을 수도 있다",
+      "url": "https://www.financialjuice.com/News/9869387/ECB-They-could-have-supported-raising-interest-rates-at-the-current-meeting.aspx?xy=rss",
+      "ts": 1795696418
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "ECB officials questioned how long AI can support global growth",
+      "title_ko": "ECB 위원들, AI가 글로벌 성장 견인할 지속 가능성에 의문 제기",
+      "url": "https://www.financialjuice.com/News/9869389/ECB-officials-questioned-how-long-AI-can-support-global-growth.aspx?xy=rss",
+      "ts": 1795696421
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "ECB: A hike at the current meeting would simply frontload the necessary monetary policy tightening.",
+      "title_ko": "ECB \"이번 회의 금리 인상은 필요한 통화 긴축을 앞당기는 조치일 뿐\"",
+      "url": "https://www.financialjuice.com/News/9869391/ECB-A-hike-at-the-current-meeting-would-simply-frontload-the-necessary-monetary-policy-tightening.aspx?xy=rss",
+      "ts": 1795696425
     }
   ]
 }
