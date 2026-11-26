@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795706735,
+  "updated_at": 1795706882,
   "id_hashes": [
-    "f95e2bd63fd3667055037ba0240ce3dccb4e6654991c91f39bcb25d2812cc30d",
-    "57f2e1d7ec5f43822a629f4cf63c976c7ff2b1adfc7f5a8f924b75afe194c33a",
-    "3f831c979757c210a7fc583359efd34ec24e2ac3821c4a9f4960ae4501f6cca3",
-    "7cc808c318ac21bea0f613a3df8c1ce5e2538321be13078890f49e8472370c9a",
-    "42333d515640567d5e5cf7622d68d2f3185f7ad02466f3903c58c4b75e9e2491",
     "40e0c16a8aa1e8fdcb9ccca5187a09d3f52309ebe29b236ec68e88bfece2b298",
     "4dbcc35f47d166369824ae526b8c7eac9be7575d6120989bc74e14cc1b63d890",
     "875ea15e06b6d0a00122f3817b95c28f907bf7c4603ed84d67031c59bb2d1803",
@@ -4000,15 +3995,14 @@
     "d18e072d001091c38dfaeca9cb640d5b6bcefd083c05caf6e0db04f1e7760437",
     "53e93a29ffe5c6430b6960029a933680b15686aa2060f057a91c9434cc2ea0c5",
     "1196bbdc0233a06d74ff493a8f3af848fa1217a80d3a040ddb7e3aedce4bffb4",
-    "560d5bb8893a842f173fd952557fb46c48877a4991aae16d8f62af6e37b1c608"
+    "560d5bb8893a842f173fd952557fb46c48877a4991aae16d8f62af6e37b1c608",
+    "1c417aa52faa9320fecdb0e420cb2c8469194d2e25c8ff1feb2f6e38cff33ab5",
+    "e9ff8dde020e5db087c41166bd4e041b36db28ed2fff62bbb9fca458cacd5d06",
+    "6d6c8f05e32a63ee279d1b504c0f625ad89086ef8406b563c9e1d8c28990bba8",
+    "625a798aeb5592b24c9834107d0d4b5b0f630cbec1e3583612528e0981133f5f",
+    "d63c561031bbd6d783ea14ee2bd654834c131dd67e7b94869f473345f1d3c68b"
   ],
   "title_hashes": [
-    "6a930a230835c5979bc7355803acadc565e8310d6c62e6cd07b1789caf145011",
-    "e0bcb2db2589548147ce0a15a56987f6dfd59341825b50ef4ba8fdcd539f07b4",
-    "60a5f64e2077a83d078ad4e60f9edebf4ed6dbdf2a385291ac7ce49d921a8889",
-    "badd52203db68401892e3d9a8a48170e637f354eab4ff969828d452e03b062db",
-    "a28f7f53aed11dd4bfdd7fd6285c2a8b502304562dc5d2caa6220e8339c1a2ac",
-    "321eb707d960138020753c05722830774e36a5508215388aaf6e0882100b02bb",
     "1f0e83fa33ddffaf7e5b0815d3892ca54bfa2ec1f39ccb81a4e5103bceba26c9",
     "7c4a405050cbc092d723f63c2f97d48a0a54b98d40388a4cba53bcb08f8ceab9",
     "0343169bb4a3ce9dd6bc164b04afc830b1871ea8ada0ff47496f73b9a865afac",
@@ -8002,16 +7996,15 @@
     "583897fc4f0930d5a9e4dd65faae059b8170ad88748f6b1fd02db9963317b4da",
     "1e0889322bb5995f1102c3246bf2f8dc3884fbe09458e7a2b8293a652d8d1a00",
     "43f50406ae13e0676802566bfc9dcc4cd998371a62d83e3850a28dc1916b8d4d",
-    "0057da9f802f880156310be875946acfd107f2e505e779c9791d77f2dd697712"
+    "0057da9f802f880156310be875946acfd107f2e505e779c9791d77f2dd697712",
+    "1ae8b57bd3d6837f36c4129dffdf7acc7c7db0da38d5668f1813c1a06b78271e",
+    "c0b4794981511df2fda0a85392843c9a13513f623ef9421a82df50d8080d655b",
+    "1f31af646d00e2cc7f55d17712bdf45f4dad6507b9c24a81e52caef316890202",
+    "4dd4f9a237d36f45d7e365a35bc1f302ad011c45d9178ea471023fef16d38049",
+    "e06dd847193b5470eb15e6d970048e1f1c011fd478706ad2e9c6ce1469fbc92d",
+    "c7839f2c2339fc6b7e6281ddec3eb8a9906e820fbd0d4260c3e1e383e68d9de5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "한국경제",
-      "title_en": "[단독] AI 붐 이전부터 전력난 조짐…美 '공장 귀환'의 역설",
-      "title_ko": "[단독] AI 붐 이전부터 전력난 조짐…美 '공장 귀환'의 역설",
-      "url": "https://www.hankyung.com/article/202611262562i",
-      "ts": 1795677062
-    },
     {
       "source": "한국경제",
       "title_en": "[단독] 가스터빈부터 변압기·케이블까지…美 전력 호황 올라탄 韓 기업",
@@ -11504,6 +11497,13 @@
       "title_ko": "페트로나스 CEO \"수리남 블록 52, 2030년 상반기 첫 가스 생산 목표\"",
       "url": "https://t.me/marketfeed/1085952",
       "ts": 1795706734
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "UNICREDIT TO PROPOSE ANDREA ORCEL AS CHAIR OF COMMERZBANK",
+      "title_ko": "유니크레딧, 코메르츠방크 차기 의장에 안드레아 오르첼 지명 제안",
+      "url": "https://t.me/marketfeed/1085953",
+      "ts": 1795706819
     }
   ]
 }
