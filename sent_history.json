@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795702668,
+  "updated_at": 1795702832,
   "id_hashes": [
-    "e0b9c238461a6beff3d08d474183d1977bdd381d58917ce345b2f9dc4951df6e",
-    "d8867b87a5c84998068f4c80e5ed0dc866c73ba9f114d6d695d1986b9d524e7b",
-    "ebaca2fb386bdba2b16b868fc5e62f4e9bdd4a19f14aa099bb8504c75b9d04be",
     "605c1da8a1749d249b37ee8e1a7ea1e90b28d8d8c458c0b8fb580d44185bf348",
     "7cf0d639731ae53ad854df76ae424ec86979def3bdc41d2bf7d9042b07b6473e",
     "58bec05d28412285c5246e83f3b2b50d41b2e68415ef6433d7db4444b9410dbb",
@@ -4000,12 +3997,12 @@
     "8522b26d2c55dd24096c1e2fbca909bfeb2b357d8230bbe28c160173b321b106",
     "b8b19884ccff5db94721bec085f63ab0eb155ed8a7018535c2a55b3cb9ff8bb7",
     "80fad12dffccbc5b01632afdeed7f183ae30a7cdb78da97f3e00e6b1c58157d4",
-    "887e0d72809514b03f37e9c2850772dfb34c77505441765136afe850d537ace1"
+    "887e0d72809514b03f37e9c2850772dfb34c77505441765136afe850d537ace1",
+    "061ec304e98bdcbe6a268a012cc056e6fce2996aa96d3f26c6ee2154653a6d0c",
+    "785804c3be5abeddda659f2ad6b1c4e8b524e570017fa1f026813133da563182",
+    "338712999f3118d0eb9793e4a9cc14ae1219252e34d31892fa67c87500ea8dbc"
   ],
   "title_hashes": [
-    "6ac474ff2ce992e2e8e51bf2acbe9b80aac113c1d1ef3861adaff73595dd82b4",
-    "4a343e4643ad00cec6df68a1723c75c3bcfe1246cce5fb8664443709fac2f713",
-    "cb1126322bd2235b9f99016c827d29a258f9312661d0bb18e67c6811efb52a7a",
     "7754da531c556e398545fa61616063589b0025877214f7c72325ad0bbf09fdec",
     "4c960c4c0561afcd1fb7c3a9e55dc574baf4f2fd58e41adb861bfe2e66932393",
     "5d6ec1cdb048112516f8e0e6db6a3db3d6294c4eadff9e3ac251ec27703cd003",
@@ -8002,16 +7999,12 @@
     "20cad44a44f301a3aa61685d6383398a27220839e7c79267d78e04efe3bf1ecf",
     "65c181ee8bd998eee9c8e4a30578a325486f7260d05014e41a8cd56849213066",
     "ab72d5feaa78b7c2f699d3224572eb69aec597837d4e11c1c913620d966237ad",
-    "bc1507c3dedc4a6f8927d4ebb606b1ef7a1978b55c978963998a7ea9f76d02ec"
+    "bc1507c3dedc4a6f8927d4ebb606b1ef7a1978b55c978963998a7ea9f76d02ec",
+    "626cadbca4a933cb99b28486c548c2d2c5d2b344f8d9a0055cf0864b2332b90d",
+    "0488c938411eefd16908c8fc9b65b0aab6b15627173d6ee5f8281d498f12136b",
+    "08d5c7951861cb6075e85f5c3ebca5db109db5dd2f286fe7ab0a40b56d8f7a71"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Tuttle Capital Space Industry Income Blast ETF declares $0.06 dividend",
-      "title_ko": "Tuttle Capital Space Industry Income Blast ETF, 0.06달러 배당금 선언",
-      "url": "https://seekingalpha.com/news/4676750-tuttle-capital-space-industry-income-blast-etf-declares-0_06-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795675261
-    },
     {
       "source": "연합뉴스",
       "title_en": "'전강후약' 코스피, 0.29% 상승…간신히 강보합 마감",
@@ -11504,6 +11497,13 @@
       "title_ko": "이란 관련 공격 급증으로 영국과 네덜란드 타격, 보고서에 따르면",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/uk-and-netherlands-hit-by-surge-in-iran-linked-attacks-report-says",
       "ts": 1795702601
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Italy’s Meloni Rebukes Ukraine Over Libya Strike in Political Balancing Act",
+      "title_ko": "이탈리아의 멜로니, 정치 균형 법안에서 리비아 공습에 대해 우크라이나를 비난",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/italy-s-meloni-rebukes-ukraine-over-libya-strike-in-political-balancing-act",
+      "ts": 1795702831
     }
   ]
 }
