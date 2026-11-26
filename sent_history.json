@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795678220,
+  "updated_at": 1795678403,
   "id_hashes": [
-    "381238a26ec25798ccb6fe1d0aad9c766f7e32bd82ca5435f448ee1235799528",
-    "4a955a787552f004006a64ea380cc313f9f0c07d5ed184f246a3064f4f3b753b",
-    "6a870383e032edd8b80ac8d04fefb384f155f84b8578d0210852a6bd13bb90c0",
-    "c41b149c749a2be3e334d6305d75f30981a879f37f4bbd240a1de2d9d654f321",
-    "3e1efcc95b665b51cabb72b18e608aab035533b37eb78fbe13361ae46649b1b4",
-    "6e677355ad4cf630ebadb9bbae86e4036e7e56d911ffb880f3d87a1df2ccbf19",
-    "cb33df8b8931fb9480afdf326812c8cc220a3b73756e1fa91b304bc841ff12cc",
-    "4a288093a9840434c141cd4c0203d877c1d22b49a2c2086a33cede78f02bbd9b",
-    "165043b7e3c2315bd02b6564dab52531486febb270a4cd691b19b4b402fde224",
-    "e64a571c9bac8a237d0db9551d1267be9acbb9854ac76206d3d1dc220f8366b0",
-    "1a1d928b94563715f1c1608038a5fc38b75cefdd626a4a08cbc0b06572a84237",
-    "213c9072e969bb2fed747944ad9e4434a527fb15b21206fd8e0d915db738555a",
-    "6fe0299cf373e70f7dd170cafdedb7b3f139855cb688d5696c98a87cfca76df1",
     "5f9974bccbe3c90c48472a62c778ad478723bc9945c6c7fe5669f900f58b3b95",
     "119ef97688c991a5dfe93aa093027550fbfc5a32e2895bcc0c21050bc0d9ebc8",
     "2b5b8b98f89ca0287fbddedbed3881cc0076cd44855ce350811cec569cb455e9",
@@ -4000,21 +3987,22 @@
     "139f60536cc0f7cf90271c3b4aa4edeecc37386bc20820ba7d355c2bc2f4369d",
     "1e4c032f85c833bbfbb5489618e9b8d43e786e837520287c2355ec63db3525fd",
     "7f32736877c6d87ed69a5efac4e4881c805353a5d41f6f1802d773ddfff7b73d",
-    "f318886b01767a36c76841e86c9ebeb1b6569d507b037093b3e57ddfc9897efd"
+    "f318886b01767a36c76841e86c9ebeb1b6569d507b037093b3e57ddfc9897efd",
+    "8d229f1acfdae78234bcd134d27789e3215938e8e7c24798b99f1ee412e18759",
+    "8b22543be3a8d69aad5d880c2a89e9a7dd932e8b25e09e5d266cb55b605cc6f5",
+    "ac81b9b5e2e8f78d0e6c7c96bc261b40859d7e80773fcb247cc3c39502489889",
+    "126b8c54f7cdaa1210d3e2b234a99d0a8b8e8eccecd2e64d7e6361afebb254c3",
+    "d26c641eccb797220cea15d5aead3e3d2bfc8669a060f22a4b883df7f46aea48",
+    "aa313df405254bb16d8ca9d346e99e763e23015bd89d193b43ae27b110b62696",
+    "16dbaffcbd137543aaa91967750e55876786ed136a439801e6c7af22813b1082",
+    "a582c0db8eb6c59b47cb92a13f3f777a99499cf4858a466fbe69d45d8e31ee2a",
+    "23e7c429c4cc7742bff636443830598b870167a0b383ea25f048e061bea8bcad",
+    "dfe9ca10260117a0350a87e41eeb3fcc97e111fc0ef566081f6d3b7f55d0d5a4",
+    "df091dae45cc8b97f770f7083f41ebcbca340c9e1295b4a8a021df78d595f2c1",
+    "0080a9f0eec4ca519248dd892a6443a3adadd5fdfbb46c428a77f61af747709a",
+    "625a017e5de90dc1085e1424412ba3f771df4c434ad121d6e2aff2cdfbb29796"
   ],
   "title_hashes": [
-    "6bcf8a4dad3504c160d990d4b998f2c993ebe43bc2991411198ac6398ee045ec",
-    "11f0085a93fd489f36c04e12974a2dbc429f4462f3f408f915b100dd86d1c389",
-    "3ccaadbd55997aa35309db79bc1dc0bad90e75b2d2e222b8032b834090335679",
-    "272cc4823669badf0f2fe05e7516b6f2a056c84fafc31a7267176787629b0d9a",
-    "7ee082e426aea13ee94140522aa71e94e9f4cb9ccdeb9d68ab15f4f395885049",
-    "01b2789bf828dd7e88dac4d8607ae511ce8e88b525e7be6ea667ccaa3c0df865",
-    "aa2d46091a3512965991a812d5faa96d9a8ea03bb8b86df6f323ff7e0d91dd09",
-    "805a74abfd5433b54844e8e3c57979a524edbdaba19099a9b6d7f0a897e97705",
-    "16784a9687fe9d2ee77e45b43198332de2254e013c5a0eec3c33d48923aecf0a",
-    "b42fd6249678c080114f4cd8065e7cd8d8740840944db99649ecb6f61cb121a4",
-    "2987c2860fbbd3e159b59a94596d872b53151de8ee0c93370c0cf37afdd78b49",
-    "5e287602d986ec3aee5021bec563a34c745bda31cb449fe8c68c70989498f89a",
     "6da76086fc35b8ab09e1633dc1eb5fbc3627bafbc019f522e081b691a8dd4603",
     "128b2985c97cf8096acf6f17a68a2d8796e9b38167f13535892a6ad0d1e6c25f",
     "53a56d8dbcac7d03aa3bd10407fa29fa11729495a15b52d8738493a301c64e0a",
@@ -8002,23 +7990,21 @@
     "01f0df1897e7f0e6a7e28c873442a48c0a001ec8ada96c31b416b4a5e2ac1173",
     "87100aa918f0996e55452d5a53e0734cdcfd0eeea2d70a1fececbb934bd16bd8",
     "095e523c64142eb9dc34df1ae3e130c53ac0e614b15696fcb5116b295b2af991",
-    "307bf0c6e6ca407ebb5e080ee952ddd0bf1ed86cffc2d54bce9f7be1f057f554"
+    "307bf0c6e6ca407ebb5e080ee952ddd0bf1ed86cffc2d54bce9f7be1f057f554",
+    "9861b7bfeab76bab3f724a6735b555f6c458e1a543dc899c169fdce49499ac22",
+    "110c83876492dc65342a9c15269888f7d1bf96661c535d84e842a97247b1fb39",
+    "7d16003ad261f4bdc643fffa5b3398777107d869984f36bb1a886d272244af49",
+    "48978fbbe2bce2230e9dfe3416ed12edbd3918214f225695393b52c76dbd475b",
+    "181a8095809a3b67b82db84bd55187070e0eab8dd24910c97be4802d3a3138fe",
+    "2a12a0172791fa7b256e7106c8f0342ab582363f5c6b42bbf0eb6e592b01cbb8",
+    "e562df7a3dcf13218285382f2d94e47984bb67b41cfdfb3c4bc0e57afc61474f",
+    "a29cd6efa4e99ea1975bedaa584401daed534a093dd033483f201da95a1a4b07",
+    "447dec1c87a45c1bb63e944b10565c82f75800e8278155bb91b7b0706650ee21",
+    "22ed004e3d677d919e9717934cc546c6a917bb0f882cb72fd3098c53a16ca8d9",
+    "7b27422c98606c26b954eadf054548b484857e66a157093bc2bfe0b3fcf966a9",
+    "b0564eeab6d73ec77e8e389b650934a1845e61f3e8f5a423a162115adf5acb69"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "현대바이오, 美 전립선암 석학 영입…임상 2상 총괄",
-      "title_ko": "현대바이오, 美 전립선암 석학 영입…임상 2상 총괄",
-      "url": "https://www.news1.kr/bio/pharmaceutical-bio/6366662",
-      "ts": 1795656138
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Breaking Down US Plans For New Tariffs",
-      "title_ko": "미국, 신규 관세 부과 계획 구체화",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/breaking-down-us-plans-for-new-tariffs-video",
-      "ts": 1795656141
-    },
     {
       "source": "MarketFeed",
       "title_en": "ALIBABA STOCK IN HONG KONG POISED FOR 3.02% GAIN AT OPEN",
@@ -11504,6 +11490,20 @@
       "title_ko": "코스피 4000선도 깨질까…AI 버블 붕괴 우려에 커지는 증시 불안",
       "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=219124",
       "ts": 1795678219
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "EU's Trade Chief Sefcovic: It's important to respect 15% tariff concluded with the US",
+      "title_ko": "세프코비치 유럽연합(EU) 무역대표: 미국과 체결한 15% 관세를 존중하는 것이 중요하다",
+      "url": "https://www.financialjuice.com/News/9869016/EUs-Trade-Chief-Sefcovic-Its-important-to-respect-15-tariff-concluded-with-the-US.aspx?xy=rss",
+      "ts": 1795678336
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "'5G 특화망' 유캐스트, 코스닥 신규 상장…30일 첫 거래",
+      "title_ko": "'5G 특화망' 유캐스트, 코스닥 신규 상장…30일 첫 거래",
+      "url": "https://www.yna.co.kr/view/AKR20261126157700008",
+      "ts": 1795678402
     }
   ]
 }
