@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795697510,
+  "updated_at": 1795697661,
   "id_hashes": [
-    "08d7c5c6d7bfc9f84b72c5c9df0b0859a80db01dd45cb3026c6ff2a68e4a2582",
-    "f739b8b1a826683b18d125e3c2f42e77e5a802a7558584eec22b6e23f875e4c8",
-    "cffa092502654aeda7246279bc8523eea5c30e495ad9d344fc68e978ffdd8c8d",
-    "d1b10f4fff610540bac7ae2d9889a0fe26b355c70ba644ae7ae2973ba66bf6e5",
-    "38d3b910ca840392307d27f61eb5e49858992a2366c80521445d38b26bee23c1",
-    "786dd3b30ce0977e81fc48f2e874f3b61e844763de9ef2d97a275560b454a669",
-    "369a991f4434947d0c635433826f59aab201a01e9e9d74805f9b9bb9c5b3f88e",
     "9c839e0ab0dbd627458309055e793db7e4f53278a0bb711e75d8e327716daf6e",
     "e425c64ed59cc4de1b1b39c0cd7189e1d31a6c3268e80b8b8bbbbf054bae5150",
     "9d720449db280c2f6f27e2815ee53cef455d345817c0117c4b7428ee4656207d",
@@ -4000,15 +3993,16 @@
     "59c31a3f6c4d83d7e724449d8816cbd06a1cf022fce2091af946496484433d66",
     "4d6a80bd0e9cce3dbf48ab908d60904a51350be23951451b9df718cb326b47d0",
     "4496e7f9b83ff8d4db1f0cccd44ca3eb97ae8a7463c08168c460bf7029b38ed3",
-    "b6e99a491d3a9cdf6f05d458b4ed00c4113a7eb7e2fefffa2677b9f2e7d9f5e1"
+    "b6e99a491d3a9cdf6f05d458b4ed00c4113a7eb7e2fefffa2677b9f2e7d9f5e1",
+    "82988d40e1843f5d4fe94e873b5b2a00cfd304ec4c97994cfa1dc022ed60588e",
+    "35f14b0f04da700b07542e1cab08c1bb048f9680ec4f2f96a572e56a83a710ea",
+    "be3a1cdbe42e519cb7bb6959e57e30ae6721d33ac4912778d30ff32bf95268bb",
+    "b0a72347be914ef560e8d8894513c9b0ee6cd916d9d9e4a8a05b4d07b565b128",
+    "9ecf9897fc040be5dd3768c2cb25dcdd0186e83045067222a44cb88320a64272",
+    "5186745e68617870e4f7543f8a4b33035a956a1b7a8876cae33c8b70a71c6c62",
+    "76dbdd32865e1d8a409f4315053e133cba7c2f85239fe8e51920f0728761b2d4"
   ],
   "title_hashes": [
-    "4cdc00384724935695fd2be6d139b5f32e122fea8c60a20d6cb9421e4ab7cac9",
-    "9b718992b4399875cd15a2c50ea6681e6547ebec3ae520d3b589460e8959961f",
-    "a2cd354c9d30d435f9729bd3b6ae91be121bd6d184d3075999d84e44ab6ee81d",
-    "1523be159093ef9911e3894dd6879cbd6b8da704e7f3a105382a1a0c5bdebe4d",
-    "c08589063758e8a5665dfa95f7f2c49f4256997c4cbe35d16dae8c946308eb04",
-    "dfda4ade4b1b3a7670606e6aa86df0f8bdb95e0616bccd0758fdb31babb72961",
     "dcf7dba5942641a1474ae793bf40e9126f080cf8af7cf6d357f1be1f8de9f021",
     "cf2bec549ff0ff1cb0ed96c58abf6e90ee447ce1d45d10d8c53b97b5ec2b0429",
     "065bb3de52c93b8ef153732127427326d2d0bddc28fe5665253ebbeadf2fc174",
@@ -8002,30 +7996,15 @@
     "6dd2f252bc8ec52c374679be7c548915d5fbd4e21ea4a6fbe59b0805435bc977",
     "b103b61bdbab1c2ba101fcf21599f7770b2b8cdc512c0dcab69dc4405467cc1d",
     "e20ed6b8f915e58c0a4edd0e71977f53c423c5c3b07fcbc141f881bb01600981",
-    "50b7205728838467a40c8bdca8532ac71243fd1d59a87064e07c40b8ec78e14d"
+    "50b7205728838467a40c8bdca8532ac71243fd1d59a87064e07c40b8ec78e14d",
+    "eb8971ceaf9a1b9024e632dc2048543965d2d2d1f13339f4cb44a6e63bed7750",
+    "79fa99bd0a5f8e01d79ec3eac099664c93e97879acbe2b30f76bf50f68ee35f8",
+    "1d9d0eee638427a0f2c3130966875a6ae26cf8297ded7bd45e253555152fa3a2",
+    "9b50a110186c9dbe1607c62970c83477face30481f0914aef6df31a31f915cf2",
+    "361a1e6603fa8ae794411c0e80ea71372eefe7f914d5b02dde313a68cc26ea96",
+    "b08d48665a71b9af5da2ffca095ca1e48c5232f7c31ddea8a86b5b6434afec5c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합뉴스",
-      "title_en": "중국 화웨이, 삼성·하이닉스 따라잡을 새 HBM 공개 준비",
-      "title_ko": "중국 화웨이, 삼성·하이닉스 따라잡을 새 HBM 공개 준비",
-      "url": "https://www.yna.co.kr/view/AKR20261126127200009",
-      "ts": 1795672078
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "王兴兴预测：5-10年内中国机器人产量或超汽车，年产量超2000万台",
-      "title_ko": "왕싱싱(Wang Xingxing) 예측: 중국의 로봇 생산량은 5-10년 내에 자동차 생산량을 넘어설 것이며, 연간 생산량은 2천만 대를 초과할 것입니다",
-      "url": "https://wallstreetcn.com/livenews/3206148",
-      "ts": 1795672379
-    },
-    {
-      "source": "포인트데일리",
-      "title_en": "동국대-한화시스템, 국방반도체·센서 전문인재 양성 협력",
-      "title_ko": "동국대-한화시스템, 국방반도체·센서 전문인재 양성 협력",
-      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=327573",
-      "ts": 1795672439
-    },
     {
       "source": "연합뉴스",
       "title_en": "정부, 탄소중립 기술혁신 종합로드맵 마련…원자력은 빠져",
@@ -11504,6 +11483,27 @@
       "title_ko": "JUST IN: 🇨🇭 스위스는 6개 스위스 거래소에서 첫 번째 현물 비트코인 ​​ETF를 승인",
       "url": "https://t.me/marketfeed/1085902",
       "ts": 1795697211
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "NOTHING DANGEROUS WAS DISCOVERED AT ROYAL NAVY SITE: SKY",
+      "title_ko": "영국 해군 시설 내 위험 요소 발견되지 않아 (스카이뉴스)",
+      "url": "https://t.me/marketfeed/1085903",
+      "ts": 1795697536
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "RUSSIAN NON-OIL REVENUE NOW NEARLY 4.5X OIL, GAS: TASS",
+      "title_ko": "러시아 비석유 부문 세입, 석유·가스 대비 4.5배 육박 (타스)",
+      "url": "https://t.me/marketfeed/1085904",
+      "ts": 1795697595
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Factbox-Airlines strained by Iran-war fuel price shock",
+      "title_ko": "항공업계, 이란 전쟁발 유가 급등에 수익성 악화 우려",
+      "url": "https://www.streetinsider.com/Reuters/Factbox-Airlines+strained+by+Iran-war+fuel+price+shock/27404587.html",
+      "ts": 1795697660
     }
   ]
 }
