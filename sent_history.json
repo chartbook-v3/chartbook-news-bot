@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795716971,
+  "updated_at": 1795717131,
   "id_hashes": [
-    "dcaa177c6d845d47fdbc7b820f8e4dcaac687adedea9b07df73a9441afd03b59",
-    "fc150dc876d3b11203d9617f1ca4d7031f5c71bda67db54e7d06f84feff3d206",
-    "d7cdfc404a845492493ce4e4da1d8316723cc027d95c143a3a62921971affc64",
-    "0bf2b3916c8fcbbbec88264c86fd900c8a6aa6a54384917590580d28552f8177",
-    "b7fd8fe491cbbaf6f1bb3994edd88e736985d18ea6ffe5ddb6542266bbd4d682",
     "d2242a78031748579bd4bad0c8796661462993f563bc313de5f1736ffc2afbb4",
     "8ed6db29f38253a1064ae5c0540d70926c068b4f6fe7acdbdd9e585b3a37fa3e",
     "48067d22510dfa921ca73f7541809b8604a2429be8987ab657018074b7ee4d02",
@@ -4000,12 +3995,14 @@
     "1badc202cac414d22bc559e07de90c662bf001b3347beb433d3576276f60fcc6",
     "39f20ad16c77a35b02e597207b162056186e5b36425b4cfdcd9ba9b0101b1191",
     "539b076906af49494c2948db8fe5b0be44bb00f19f694fab3cdb01f3c84a005b",
-    "8f9b901543698c0312e37d9aa94c6bc96097ff2a8f88bf74c21ec8781f03230f"
+    "8f9b901543698c0312e37d9aa94c6bc96097ff2a8f88bf74c21ec8781f03230f",
+    "a03b6a12f3ab9e4e6a7725da804f6c84b2d2556f5e32fccb9d38561d4f37f21f",
+    "20f066767f89fc7d64b0c8481c4a3a4ca84e5786c2167934056aef42c6a4b762",
+    "92b06c1cfc769e0fb089af41977580c92718e72b9101eb50812061f210af2906",
+    "83acbba0f96771518d9e0cae4d7d08a717ecd5b6caf75d1124144a4da4f1f310",
+    "c3935ad8ec5960f473ba695cb4bbd95b6118c952c76009018961e4065d8c5ad5"
   ],
   "title_hashes": [
-    "fbb6d3a51d90e699a05d1299149c0fd3ad2aa40e231ef6c08b12461d93eb3040",
-    "73e7eac5bef556d179d20d15bb267b015c3bfa1a55bbd689be6991d1fdcb6cf0",
-    "d53731876afe233c7894e664d63fafece12daa8a0858e0718fd26d9e9882e3f6",
     "152e60dba281a98e4ad3a18dfb623ff5d7d18c0a921fb259c72f68e7e7c6c5fb",
     "8a613e83b6c7edf3cc55f7917aac9df545bc85980b3958e1b785b8ffc63a5363",
     "cb6e789d8c7e1f842f68165a0c4a47595cdba6f339eb897c7c9daaa79b22528c",
@@ -8002,16 +7999,12 @@
     "8f5a72a87d9077150d2b26b5230a70e643379bf24d363f03bcc463851ee97402",
     "378c1dd5bcef6ef92aa6fec786626795860fe5adaffeaa8d20e46dae36898320",
     "824ae15dad948db008d724f028589f349b233b281f8a1b7eca42c3154826706c",
-    "94829f35db771e6602c2ed660fb29d8abffabe675812756a923425aa4a7a21e9"
+    "94829f35db771e6602c2ed660fb29d8abffabe675812756a923425aa4a7a21e9",
+    "37690a40badf70f7ec3f2d84ab87c13bdf769eee02da1778bf08d8df2bc8bc4a",
+    "74ce8e13a745472f73f98f8f2e8fb32fee13b60323485ec3493c7432d164bd09",
+    "17656346094f580d40ddf0873a38a2dcd9aaa7bf0fc0a3251fbe5de8bc2fe296"
   ],
   "recent_sent_articles": [
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "美 USTR '과잉생산' 관세…삼전·닉스 中 공장 운영 부담될까",
-      "title_ko": "美 USTR '과잉생산' 관세…삼전·닉스 中 공장 운영 부담될까",
-      "url": "https://www.fnnews.com/news/202611261624598529",
-      "ts": 1795679866
-    },
     {
       "source": "파이낸셜뉴스",
       "title_en": "추가 관세 피했지만…자동차 업계, 정책금융 '통상 압박 카드' 우려",
@@ -11504,6 +11497,13 @@
       "title_ko": "삼성전자, 2028년까지 반도체 공장에 무인 운송·자율주행 로봇 및 로봇 팔 도입 추진",
       "url": "https://wccftech.com/samsung-roadmap-reportedly-puts-unmanned-vehicles-self-driving-robots-and-robotic-arms-inside-its-chip-fabs-by-2028-covering-equipment-maintenance-and-production-line-work/",
       "ts": 1795716970
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Brent Crude futures settle at $96.57/bbl, up $1.96, 2.07%",
+      "title_ko": "브렌트유 선물, 2.07% 상승한 배럴당 96.57달러에 마감 (1.96달러↑)",
+      "url": "https://www.financialjuice.com/News/9869717/Brent-Crude-futures-settle-at-9657bbl-up-196-207.aspx?xy=rss",
+      "ts": 1795717123
     }
   ]
 }
