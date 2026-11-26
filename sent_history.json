@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795710579,
+  "updated_at": 1795710738,
   "id_hashes": [
-    "5107d73e08ea4d7b45c229fb629d060b5f2d18098e78ae1d8cbde9ba6b16adeb",
-    "3e89dd6f74a33a9c998a8aa88cca60d9d9401764c39f063f86171ea2d20e2f42",
-    "564b501ecdc51d6a5d32918d9b2830541e508f5bd2eb2dcde4bdd985dfac938d",
-    "d598242c83edcbbf4aa1dfe038c2209b9b214f6592a686ccbcf9281ac7c856f9",
-    "9e1bdf882f5587c1d78f89f38f62587c069259c06b1f1636099b03134ecae850",
     "ce9676c21b52bfb557d8479cb915b66540d1670c517caf86b62aa208e6739846",
     "e298d94d476e7a2f7c896e0ab86f7b498d5b405a0b39eda90a403a61f8dd7fda",
     "2a146d7cd5bb07d20e8fb783cdb3b54f94c5366ba47700c34d7d8246669bb66b",
@@ -4000,14 +3995,14 @@
     "b03f51ea1e1403e0acd35dd80a5159f9c4ea3a82708d9e0b157e21f4271d8297",
     "3b2fc69969dc900d06cbd127a049d38617ee45c270287f2cc6667b8d228e01d2",
     "8afea3ab6621f17b595cb23bc9d22e6e5a67fb909865a65dbb39093375a12b31",
-    "d7eb32d2ac08cc666fc57575e715a23d073aaf2ed78be2855f770181fbed6156"
+    "d7eb32d2ac08cc666fc57575e715a23d073aaf2ed78be2855f770181fbed6156",
+    "4ba1f50572aae63ea485dba110d6546d0e07bf0d2445a36e8607368b65264945",
+    "a86d4a946a07cd4e7a510a7277ecad5a3e00988dcda59554374d8120f4ae7ab6",
+    "e57d57e903f12ed597ebd63eb24b2424a7335a298a7c57a4086b4d0e114fc4ba",
+    "991bd388fafda343988e91bc8858f8b2c5fe58f2138a7ffe51ca908fe1eb1740",
+    "2edc5e90ef4243256993420a26927054d9180177c9ed08fd539562c02158a310"
   ],
   "title_hashes": [
-    "6bbc6cf6a49f984aef0d5b35484a02fafd58800693b731bb662f9ad6f79bd340",
-    "89eb15055001c01d76c189b426ddb541d89e7096c0c51829b5a2ad07cea70307",
-    "112100289d8eb31415a853428f56ac20122ebf5d70cbb6c5277390329e737559",
-    "0234a47a261b9d280c654ff9fe5d6e91f99cc9348f572d38c72db82c29689d55",
-    "9b339cbe093f496ba4eeabf68f1598554f51bf04b4a0a7e286944ac02d6ae975",
     "8dfb9fe2fffc0e4f149b2183df5dd8540b1b5d21f732aedd9cc9533540c674f6",
     "4a9a4be182cf08b471afe420504c35b60bf644d89c8fff0f93cc3b93c947b6a6",
     "2bde4437d4ac621b5bb5933bbeb614f6b9216c9bb45ef58d5ca730cf1a85dc82",
@@ -8002,16 +7997,14 @@
     "0f8c9432f5021dfce36c4e80657044c27ecf22508bdf1aa6e3c33072a64dba7c",
     "419b173a56dcb20b786043b46de47f32b3dcbf184e3e8b7e0ab7405310bcab0a",
     "cc1e9bd12af28580c9dd7e424d26f7c913c161ed3a704fec8935d562b36202c8",
-    "ac4d16754ab6a3562efd09bec62d067d01fe2b9ef4a05df5447a5d2cd7858310"
+    "ac4d16754ab6a3562efd09bec62d067d01fe2b9ef4a05df5447a5d2cd7858310",
+    "3834bcadf054427f505b124cca678a4e97d04b26b5516c9ae5aafb9ab7dc0cab",
+    "332916def74cda6dcd19598aaa975e882ad278b0403409b845b885817545e356",
+    "04a6df96162c917bb4dabf8f4bb3390b08c17eb62c7c0df92eb4099f539fd22b",
+    "eae1cdeaa593938d4d4a51271f20df076f518951e1013dadd8e55ae5bc1b6052",
+    "ed68e2f157e3f56db241c3c89c435f1c49d0ce0549dcb28f663b3f1c3563207f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Scaramucci Claims Nvidia Calls Paid Someone $304M Before CEO Return - NVIDIA (NASDAQ:NVDA)",
-      "title_ko": "Scaramucci Claims Nvidia Calls Paid Someone $304M Before CEO Return - NVIDIA (NASDAQ:NVDA)",
-      "url": "https://www.benzinga.com/markets/equities/26/11/63660402/anthony-scaramucci-nvidia-options-304-million-jensen-huang-return-donald-trump",
-      "ts": 1795678573
-    },
     {
       "source": "MarketFeed",
       "title_en": "DUTCH PM JETTEN SAYS DON'T EXPECT EU BUDGET AGREEMENT THIS SUMMIT",
@@ -11504,6 +11497,13 @@
       "title_ko": "영란은행(BoE)은 글로벌 금융 위험이 증가하고 있으며 AI 관련 부채 확대가 우려를 낳고 있다고 밝혀",
       "url": "https://wallstreetcn.com/livenews/3206549",
       "ts": 1795710109
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Wall Street se vuelve más cauteloso con el carry trade",
+      "title_ko": "월스트리트, 캐리 트레이드에 더욱 신중해진다",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/wall-street-se-vuelve-mas-cauteloso-con-el-carry-trade-mwxrpht6",
+      "ts": 1795710678
     }
   ]
 }
