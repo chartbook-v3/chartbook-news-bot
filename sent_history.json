@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795717131,
+  "updated_at": 1795717283,
   "id_hashes": [
-    "d2242a78031748579bd4bad0c8796661462993f563bc313de5f1736ffc2afbb4",
-    "8ed6db29f38253a1064ae5c0540d70926c068b4f6fe7acdbdd9e585b3a37fa3e",
-    "48067d22510dfa921ca73f7541809b8604a2429be8987ab657018074b7ee4d02",
-    "98dbe168c4437bf3abb0ee55fd38d142908823b6e61a7f5b047360308cc514da",
     "6475fc0e82c763344dad96e576f44aa91e70b45a0bd3ece3a6d2de1fc96757a6",
     "b7096a3a740cf1172da23037d30bfd711b89a399997242857ee0fda8903b4ef8",
     "2cd828bcf96af2e0f5a674f39b1668b5311ccaa8473af05255115e76d427814e",
@@ -4000,15 +3996,13 @@
     "20f066767f89fc7d64b0c8481c4a3a4ca84e5786c2167934056aef42c6a4b762",
     "92b06c1cfc769e0fb089af41977580c92718e72b9101eb50812061f210af2906",
     "83acbba0f96771518d9e0cae4d7d08a717ecd5b6caf75d1124144a4da4f1f310",
-    "c3935ad8ec5960f473ba695cb4bbd95b6118c952c76009018961e4065d8c5ad5"
+    "c3935ad8ec5960f473ba695cb4bbd95b6118c952c76009018961e4065d8c5ad5",
+    "71e4875cdbfca75d2b8ead01f6961ab7c95c1ea83e46e0f66e8937360c43217d",
+    "156e7ca7672f84695413e61bfe1171727a78dbae19688f6d0d447ea22c16c4cc",
+    "e78b901626190add3cf46de248cc6ce6f2575531a3b78cda5b376036365387b3",
+    "560a395e52ddb18b933f056eb2daeab021ea45b3ad6fe3ab8aceb6afa307b286"
   ],
   "title_hashes": [
-    "152e60dba281a98e4ad3a18dfb623ff5d7d18c0a921fb259c72f68e7e7c6c5fb",
-    "8a613e83b6c7edf3cc55f7917aac9df545bc85980b3958e1b785b8ffc63a5363",
-    "cb6e789d8c7e1f842f68165a0c4a47595cdba6f339eb897c7c9daaa79b22528c",
-    "6ffb229118fd3643044368e19f6d469e7b27e8338cb600c78aada69751add3db",
-    "0533b3cd6bfc1d5f76439621626d548c18c21d3d45448f5ea8a612ae6d7515ec",
-    "fb841627e6ca2a72a09622fa80b5f134f0b131ce3125ce086449397d830cf9cb",
     "e5435ab2f9f5eba26999ab7a9f147f81ee587b95dd99ff99d9570a634c1a81f8",
     "dad0820d2083baacae7cc38865015b3dcba8df23a7859cfd8fda5bff068d7b09",
     "1c6e029c996233bd21ab82b7fb9cc73ee66c98170390f9c4ee5dd41c87b2c9cc",
@@ -8002,16 +7996,15 @@
     "94829f35db771e6602c2ed660fb29d8abffabe675812756a923425aa4a7a21e9",
     "37690a40badf70f7ec3f2d84ab87c13bdf769eee02da1778bf08d8df2bc8bc4a",
     "74ce8e13a745472f73f98f8f2e8fb32fee13b60323485ec3493c7432d164bd09",
-    "17656346094f580d40ddf0873a38a2dcd9aaa7bf0fc0a3251fbe5de8bc2fe296"
+    "17656346094f580d40ddf0873a38a2dcd9aaa7bf0fc0a3251fbe5de8bc2fe296",
+    "1dcac154b53e693e94ab0ebec7b169975363cb519eb183196bb5ed10ca2c7902",
+    "87dbac8bfc77f1c5b7e7ff8733d19ef2b6d2753e99ba5763511d8ce26dc983ab",
+    "4b3aea3c0874e93892b50c04258f81678303638978a97b67f199654039630724",
+    "fe361494dac4388f95a8646c5f8048b965c744af8ec20c65f003f3fa676c3e50",
+    "6d3a87d62e3105c0ef22327a8679f0d0a09e10a53a1767530edc34878a5188d1",
+    "16129753545e3c2f8ea30c0bb30d0e2d49bf0acb8c5fec49243ec1732c44aa90"
   ],
   "recent_sent_articles": [
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "추가 관세 피했지만…자동차 업계, 정책금융 '통상 압박 카드' 우려",
-      "title_ko": "추가 관세 피했지만…자동차 업계, 정책금융 '통상 압박 카드' 우려",
-      "url": "https://www.fnnews.com/news/202611261633111261",
-      "ts": 1795679868
-    },
     {
       "source": "뉴스1",
       "title_en": "'국고채 입찰' 금융사 담합 사건, 중수청 반독점수사국 배당",
@@ -11504,6 +11497,13 @@
       "title_ko": "브렌트유 선물, 2.07% 상승한 배럴당 96.57달러에 마감 (1.96달러↑)",
       "url": "https://www.financialjuice.com/News/9869717/Brent-Crude-futures-settle-at-9657bbl-up-196-207.aspx?xy=rss",
       "ts": 1795717123
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "IRANIAN, ITALIAN FOREIGN MINISTERS DISCUSS KUWAIT ATTACK IN CALL",
+      "title_ko": "이란, 이탈리아 외무장관들, 통화 중 쿠웨이트 공격 논의",
+      "url": "https://t.me/marketfeed/1085978",
+      "ts": 1795717282
     }
   ]
 }
