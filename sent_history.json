@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795718182,
+  "updated_at": 1795718338,
   "id_hashes": [
-    "f10e02a63dde42ea1c3bfd3a4237987b97ace3d18ee90b17d0392a8e2f8b5ede",
-    "14b2131903b5ebefce6f496e436e408dc4246f285fde186f4a16244d86096990",
-    "450678f33f15cf18e6cbfd6ed97da5d90256b24e6d3dc2b3f93ece9d22b5e506",
-    "e44885ad4e8aff3b1b5526adca9b3d3dd6c14928d8691608a956ce2471bc2875",
     "4f57df71bda6d3313f29d4e92b515085c5777623cefbda198708c9104163c085",
     "4aab4a7a47a3904c48f07ddf0415b04a21f0ca7fb5a3f115fac0e6126f091b06",
     "a67a1f1bd79622c0bed8c1df85068aa48dc67bea0ddca43de0fdb880d3e89fe9",
@@ -4000,13 +3996,13 @@
     "5bf34d2ea4d8d289307caa9c4764fa10224356f96c3f9a8b9699762fbb632db6",
     "011866413b3e34266680a0cf9e4b29e654b0791e68fa9e720646bc93c0f36321",
     "986b8418f4fb8ea034640a53b40fd0f9b53498bacb240bcf6b952d89b6fc4caa",
-    "3bab2260f84f1707188c975ee946b1a4b6ee59878f5f71e608d44282f1c66047"
+    "3bab2260f84f1707188c975ee946b1a4b6ee59878f5f71e608d44282f1c66047",
+    "94171a0a41df44ea64fe34c12ae95602e444343d24e8ff9c4f4d914c925194d5",
+    "9f21116861b649430e5b1330e5510c6bf2b05ec779cc5d9362543a8e4a584642",
+    "220ae059d07628f913f93ff259905747ea6275dadf36156994f5a9722327aa6f",
+    "ee3b2ea5088a4037cb400501d6a2c8391957fce3a591489f005abfb909648e61"
   ],
   "title_hashes": [
-    "5cb221e2c9731b8bec01841bbd95405dcd6100c97a08e53f18b26f988c9eedcb",
-    "3f768989428f7ad3063e5d1c52bd69b4b2480f43d5a46e927dc1f9553cc2317a",
-    "dae09efb93535c2fd7573df1029a597b7bb5f8eec32b712d6921ff3a4c3b7659",
-    "378f42201d9a2c526b0de461547d64e56493ede4064e783741a442d0a1a4543f",
     "52eddf105081cf7a5ad0f4fff3d19e99cd32e912b6c05be51e71f72b4b4bc7ca",
     "4b552ddad7cc64cd8c7585794d70f3d74859b9e754d3c122c93994e6e550df90",
     "7fc5249397b2ea2f7cf6701db40728b699e005b97b39468c74878b501eef0156",
@@ -8002,23 +7998,13 @@
     "89f6e8143bf31f73761b7c6494509150749bb42df7ace02f52c04b5cefc4c548",
     "67362274a542bf25014b070cccadf76af0f2f07de103ac3e629a0d44c6f7d44f",
     "41c3e022031b6c70564697b59e91408cc046a01a6016673aeeec7e1b983b34ca",
-    "bbce39828e2f28fd8481c7bd6d5cf9b08b90c880818582164aa7aa4e9f36a3e4"
+    "bbce39828e2f28fd8481c7bd6d5cf9b08b90c880818582164aa7aa4e9f36a3e4",
+    "f947bbc55f48c65fc615d6f33944f4bd95dc6c229d3ef2b0e7d20db39942948d",
+    "5720adb90494801246aac031692d4701bbaebf60ba1ab57d36460a9aee76cc0a",
+    "1ae082c0a77f10531f10124dc2ac9500a75eebd32ae8b5445f3de22bc5e889a2",
+    "f93c66f7ee6195fed3cfe73ca06bc1ec488d8f5df8d8f6ec89639aae730f5400"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "CBTech launches TGV foundry production line, secures sample orders from 5 major customers",
-      "title_ko": "CBTech, TGV 파운드리 생산라인 가동…주요 고객사 5곳 샘플 수주 확보",
-      "url": "https://www.digitimes.com/news/a20261125PD232/tgv-equipment-packaging-production-taiwan.html",
-      "ts": 1795680319
-    },
-    {
-      "source": "네이버 프리미엄콘텐츠",
-      "title_en": "인텔리안테크 | 3분기 출하 지연으로 적자전환, 4분기 게이트웨이·군용 안테나 공급 회복이 관건",
-      "title_ko": "인텔리안테크 | 3분기 출하 지연으로 적자전환, 4분기 게이트웨이·군용 안테나 공급 회복이 관건",
-      "url": "https://contents.premium.naver.com/bilanxlyc/curiousir/contents/261126165246380ue",
-      "ts": 1795680322
-    },
     {
       "source": "DigiTimes",
       "title_en": "Micron, Samsung, SK Hynix strike multiyear memory deals",
@@ -11504,6 +11490,20 @@
       "title_ko": "S&P 500 섹터 로테이션: 투자자 방어 심리 강화 속 필수소비재 강세",
       "url": "https://seekingalpha.com/news/4676907-sp-500-sector-rotation-tracker-consumer-staples-lead-as-investors-get-defensive?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795718181
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Affirm Stock: Should Investors Bet on Holiday BNPL Growth? - PayPal Holdings (NASDAQ:PYPL), Affirm Holdin",
+      "title_ko": "주식 확인: 투자자들은 휴일 BNPL 성장에 투자해야 할까요? - PayPal Holdings (NASDAQ:PYPL), Affirm Holdin",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/63663014/affirm-stock-holiday-bnpl-growth",
+      "ts": 1795718335
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "墨西哥央行递交季度通胀报告。\n\n央行将2026年GDP增速预期从1.5%上调至1.9%。\n\n央行预计2027年GDP增速为2.0%，此前预期为2.0%。",
+      "title_ko": "멕시코 은행은 분기별 인플레이션 보고서를 제출합니다. 중앙은행은 2026년 GDP 성장률 전망치를 1.5%에서 1.9%로 상향 조정했다. 중앙은행은 2027년 GDP 성장률을 이전 전망치 2.0%에서 2.0%로 예상했다",
+      "url": "https://wallstreetcn.com/livenews/3206592",
+      "ts": 1795718337
     }
   ]
 }
