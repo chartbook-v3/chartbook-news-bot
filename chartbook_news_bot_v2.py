@@ -2052,39 +2052,36 @@ def git_push_history_in_actions():
         logger.warning(f"Git 동기화 예외: {e}")
 
 
-def _has_fresh_actions_run(repo_slug: str, status: str, max_age_sec: float, headers: dict) -> bool:
-    """GitHub 유령 큐(장시간 고착된 queued/in_progress)를 배제하고 최근 생성된 유효 실행만 확인합니다."""
-    r_chk = requests.get(
-        f"https://api.github.com/repos/{repo_slug}/actions/runs?status={status}&per_page=10",
-        headers=headers,
-        verify=False,
-        timeout=(4, 6),
-    )
-    if r_chk.status_code != 200:
-        return False
-    now_utc = datetime.now(timezone.utc)
-    for run in r_chk.json().get("workflow_runs", []):
-        ca = run.get("created_at")
-        if not ca:
-            continue
-        try:
-            ca_dt = datetime.fromisoformat(ca.replace("Z", "+00:00"))
-            if (now_utc - ca_dt).total_seconds() < max_age_sec:
-                return True
-        except Exception:
-            pass
-    return False
-
-
 def ensure_companion_bots_running(headers: dict):
-    """Exclusive 및 X-Tracker 봇이 유휴(유효한 queued/in_progress 0건) 상태면 함께 자동 기동시킵니다."""
+    """Exclusive 및 X-Tracker 봇이 실제로 완전히 멈춘 경우(활성/대기 0건 + 최근 종료 45초 경과)에만 안전 재기동합니다."""
+    now_utc = datetime.now(timezone.utc)
     for label, repo_slug, wf_id in COMPANION_BOTS:
         try:
-            active = (
-                _has_fresh_actions_run(repo_slug, "queued", 900, headers)
-                or _has_fresh_actions_run(repo_slug, "in_progress", 1800, headers)
+            r_chk = requests.get(
+                f"https://api.github.com/repos/{repo_slug}/actions/runs?per_page=3",
+                headers=headers,
+                verify=False,
+                timeout=(4, 6),
             )
-            if active:
+            if r_chk.status_code != 200:
+                continue
+            runs = r_chk.json().get("workflow_runs", [])
+            active_or_recent = False
+            for run in runs:
+                st = (run.get("status") or "").lower()
+                if st in ("queued", "in_progress", "waiting", "pending", "requested"):
+                    active_or_recent = True
+                    break
+                upd = run.get("updated_at") or ""
+                if upd:
+                    try:
+                        upd_dt = datetime.fromisoformat(upd.replace("Z", "+00:00"))
+                        if (now_utc - upd_dt).total_seconds() < 45.0:
+                            active_or_recent = True
+                            break
+                    except Exception:
+                        pass
+            if active_or_recent:
                 continue
             r_disp = requests.post(
                 f"https://api.github.com/repos/{repo_slug}/actions/workflows/{wf_id}/dispatches",
@@ -2118,7 +2115,13 @@ def trigger_next_github_workflow():
         }
         ensure_companion_bots_running(headers)
         try:
-            if _has_fresh_actions_run(RELAY_REPO, "queued", 600, headers):
+            r_chk = requests.get(
+                f"https://api.github.com/repos/{RELAY_REPO}/actions/runs?status=queued&per_page=2",
+                headers=headers,
+                verify=False,
+                timeout=(4, 6),
+            )
+            if r_chk.status_code == 200 and r_chk.json().get("total_count", 0) > 0:
                 logger.info("이미 대기 중인 워크플로우(queued)가 존재하여 추가 릴레이 호출 생략")
                 return
         except Exception as e:
