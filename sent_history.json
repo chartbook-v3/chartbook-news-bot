@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795680498,
+  "updated_at": 1795680650,
   "id_hashes": [
-    "59f911ce7f2daf2480c6fe240c1cd4a18d5b3f1870461dfc56aa7863dc69b0ac",
-    "0b7cced623d15c000fb4b967543888ae5905930763df186db683d5d300f5209e",
-    "bb98e8804ec55c0e47c0280ec83fcdb229d1fae72d1d3954a1f2feb86cbccceb",
-    "e87d3de0fcb758d2d7293c9daa859dfc6d0acf89bff76ff1f7230ff49f09d5a6",
-    "8294a8dabf40b07aec876a7c81391736b9df0b444f0a219b308b359ec5abbb0d",
-    "fe893849118d7359c0a36a93839737b1b7db3ec88de67b50763f0e7060b4a54e",
-    "573bfcb54590877e73d2a183d9ab2427d0bc3fbf329539e8f42b520bb2a5463b",
-    "8da6ed948cb013259b8bf950c4d85f0f61b4ff1a9ece06ead567d569da546827",
-    "af5e981748454fba40e39d9a09514c6d710216c80d51c27244a361b625ef3720",
-    "bcc4234d0a13d17c9f735091add63821ee52264d5a23bf0a60c8bc579906889c",
-    "4665ad194ad0101bae0a40e78cc84c6497e52254698208ec0a94bba31f051f25",
-    "07d3786a805d3155333554c7165d15e4590a12d8c312f462443aec0d3e35daf0",
-    "d0e12e87263ddd684a0cc8d82dd7fe4e3af68912cc76ac965cf2335de577cd3e",
     "c2eccf58799c54b98966873ad566a75d2901869a5cbeaa755920d6189dee0a11",
     "48056d8ac65d14375410a2f56e4db3b6fdcd5576dac98e4f226659a69d1702e0",
     "9853bb222b4a5f1007ae2de25b66d2b11e1037ea5c03d816c5ee6dcb75599193",
@@ -4000,22 +3987,22 @@
     "c2cf0074819c3f240c54505b24ea0430f21a252b661a4aed33bb1ca50b9c16a4",
     "c1eef54fe793f10f34cb18192887613b657a8c5c7c76eaec427d7b76fdf0c6e5",
     "91a960055237ff53f64f6edcda8ea67cb3caa0e7836cff11effef3e1a99f3604",
-    "16b68a2fb34f10ab63218179a4ade89c272ced4b1f9dca210bc8acd504e6bfb8"
+    "16b68a2fb34f10ab63218179a4ade89c272ced4b1f9dca210bc8acd504e6bfb8",
+    "28a25e31f6d13f6fbbb9facb5fd5f2a42b1e04000f3e72d21b0a14e242053641",
+    "ec9d093e4a4fe23c5108a2ca56996f779f8d2091063aa8371279773720fcbfe5",
+    "a3366f500be23559617e56587155d9501a1e7975644b2c1cdcfd15cd3c0c41bf",
+    "e92fe66fa536497da6f1de0fad3d926825087bc32e1e1c4503deb1574f206991",
+    "3aca75f7817f969e9a24657d1921237d37c165979c472cbe7663ff80c8da7ba0",
+    "cf1cd80d29e84f01d667a4ee26c9505f9905a33cddf620478040d86584946789",
+    "eb2ca81dab8c26b385742ecee169e26df50ec4db4be9721eedaf364f2e0d5daa",
+    "4eae8d4df978e95a6e1aafe487d391f7d090d11052989b819069d119f4e70d65",
+    "0f86cb0314039276febbe20a52860ea6f0caaea90e52898bb574157fd5e45e39",
+    "48ebb8de4b016351f682cca40da1913d0ee25332e1fc6d598ee22278f04d0068",
+    "30130feaba981d0643cb4fea427368c09a152d85000525dd7c67b85ee2f541c6",
+    "8fe6a986dfa76a165d4f3073c1e87960ae9e4e5a49b834b62901bdaa2dc748b3",
+    "ffa5242411db5d0813049d85499f5891111e9a5867f29d6562d9ff788011e85a"
   ],
   "title_hashes": [
-    "f0f33e7d4efc85343d4e7905d05538c660dd50833f13b7dce7b4083fb180c9c0",
-    "175bfca2c97b66184f0a9d0d6509a307dda3b0a187203037b6c3bf40ffbecc5e",
-    "500d8ba872384b32d6d420a4cc631b2a8301af2751a37022edebf5a0d3899d8d",
-    "60b8c0eada9e59cce950ead25bea8cf1555cc722c6fb1c59ded19bd4933355a3",
-    "cc1b431f557d83c7e943f62bd4003a9d1ffcd7169a724c419c0502796c462950",
-    "879c18cf6c3700bf1769ff430bdbf77b6d1369c8d30542d345ac59a0738b3d8d",
-    "1d2b1bc5777248e8f309e4c5aa3189561c0fe1c11b751aae759c0fd26fcdea0b",
-    "87b0c2db5c326150624075e37f747627588bcd6484723d9cb3005e9afc0163d7",
-    "2515481c71b48a1a4ca685d265dad659b25901a926044365ea6c96a5671595cf",
-    "c640e36699eed731e2a5c842b28c0c725a91fe5246c38c1039a80bd9b1df976a",
-    "053411bd4de11ed72da693bf06500762c916c3c523b796cdca6934efe9660067",
-    "db06ebdd6a790ff998945f9068a1f4d452f47c04fddc707da46ed3f27884e2d8",
-    "a7f7befde09d724f37a703dc30b4c9f199806c394ab7dbfd64be0d166038ed0d",
     "9cb69be5fa78322b3b68ab9ef650213e8c43f43a83d9eec613a4bdd75a87ef5e",
     "32847bf1e7b9903861f60a596f8e08ac4719314ab754d14a6ef9178cce60d034",
     "e26e1695b94457e76f258be79b374bb26dc6ed6fa9a90fb2d486dde6d5defecd",
@@ -8002,23 +7989,22 @@
     "25b303b1b95909bc8e95b75e70867f0788b68571d8c1d28d82e60192194c77c7",
     "46584ad11a4f4da92de9522e9df04329ae53fdba43c676936c89fc7527b4d40f",
     "0468860d26d8400df99831b6d2a58318f84eb5a618bb2ea5f67051c98ebac0d8",
-    "230998113806edb3af1887e76d294bcc8969e7fb0c3e8a5f47e69502b0ec3b11"
+    "230998113806edb3af1887e76d294bcc8969e7fb0c3e8a5f47e69502b0ec3b11",
+    "55c74f8225dcf77a4e3f8ec9fbfa10bc732d2ed150be15dcb18803b1d1210122",
+    "834c0c038c49d29d184b037689c70f2e72a2753d9797eb1f264b28f3aeee67f4",
+    "889f615360e00fb79d6a314772e21ed7c54669018fbc178d5bee41b96bf5fad6",
+    "99919a0fbfa49765f1c70af0e6391e6dde8374eb71dfcaa9f108c2a62ad3272b",
+    "3e32d433ef2d4dc1ebdf7810b32a3fe7eee68a6c7fd01b3aa9d1ecb0067590db",
+    "3d094b1d8ce10acec4de1d7c5bd04bdce703e59c8341b9adf6a028725990043b",
+    "9bf75b3048522745628f10ba8eab662b5b2a200ed829b9213a198331ab0666d9",
+    "f4a873d1a88c519985113300788f6ad4ddaec86ed466055b13e6cec038200ff2",
+    "2912275547e65a177355b13ce29d233e951d64e9f4c06db8ef4e78c7b99bd857",
+    "14c1d84dbd7e32dc2aac21b898bc7145d5e1f0d9476e40814cd161c82565c1c0",
+    "d712aca5e8941d37ccb1738985a06268232970a949b2a4782ce4244a6e4ac3fe",
+    "64b7836d2c4af1cbeb55bd50a32d77ba59326bd192c2cd6f3c69e01d82fc3c90",
+    "bcbff416caa5ba03bff475f6a17b718c1691dcd75e5f70ee0c9fe505f675f3e6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "WASHINGTON CLEARS EQUIPMENT SALE TO UKRAINE FOR F-16 FLEET MAINTENANCE, FINANCED BY EUROPE - AL ARABIYA",
-      "title_ko": "워싱턴, 유럽이 자금을 조달한 F-16 함대 유지보수를 위해 우크라이나에 장비 판매 승인 - AL ARABIYA",
-      "url": "https://t.me/marketfeed/1085619",
-      "ts": 1795657732
-    },
-    {
-      "source": "매일경제",
-      "title_en": "한은 금리 인상은 선반영…금융지주 주가 일제히 하락",
-      "title_ko": "한은 금리 인상은 선반영…금융지주 주가 일제히 하락",
-      "url": "https://stock.mk.co.kr/news/view/1206412",
-      "ts": 1795657893
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "创新药概念早盘调整，近岸蛋白跌超10%，万邦医药、石药景峰、桂林三金、莱美药业、一品红跌超5%。",
@@ -11504,6 +11490,20 @@
       "title_ko": "강원도, '2026 강원 AX 페스타' 개막…AI 데이터센터·의료 AI 본격화",
       "url": "https://www.news1.kr/local/kangwon/6367518",
       "ts": 1795680496
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "美, 韓 관세 '15%' 제안…태양광 '미소'·석유화학 '안도 속 긴장'",
+      "title_ko": "美, 韓 관세 '15%' 제안…태양광 '미소'·석유화학 '안도 속 긴장'",
+      "url": "https://www.news1.kr/industry/general-industry/6367306",
+      "ts": 1795680521
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "정부, 내년 첨단 GPU 1.6만장 푼다…저활용 물량 회수·재배분",
+      "title_ko": "정부, 내년 첨단 GPU 1.6만장 푼다…저활용 물량 회수·재배분",
+      "url": "https://zdnet.co.kr/view/?no=20261126162650",
+      "ts": 1795680526
     }
   ]
 }
