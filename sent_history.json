@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795691492,
+  "updated_at": 1795691663,
   "id_hashes": [
-    "e1bc41e3450813ad0f3ab6f374d2c65e8f779d2f72dc6baf46d4367c74ca4b39",
-    "f22b4321b5983e6ba8b1928cfcb96c78b2049b42fd8a6a42e9769e07e0f4915d",
-    "d12733fae059eb75d31a1f9c33cd604dba8ca8297084520dd876068db7d1bc7f",
-    "43b16b5a6990b55cdebe0d735fc0ee6766ff90184e5ee3d4bab014c00fe92942",
-    "575ef10727271715fde3231605625350d53b3efd635c86f2dc590caece335850",
     "4c79b14fd869f69ed06a59141b76121f80275564720049b1029158264e8aa2f7",
     "7b4ab2f3810c841c4c5f6b8ce996d19641fd2c521a767498c36257d5f877049e",
     "5c5e5137aa7a85a9a8f115b7bbb0fa15739c7101bce4b1e65c1d4a9c92bc1474",
@@ -4000,14 +3995,14 @@
     "636fdfe4f7a67f85dfce725b650b365c7626d478f5e47afcf3ae743d872c4155",
     "98181a27efd1816e9f8f52177540ceee8ff50de09e0300c7c27bb200558d6f5d",
     "c4a17724a2c29ba3bf6b5056b6dd3912c99cdba85c0d7d56670b30fe29272a4f",
-    "8353184d9661ae55a2d593f04905d1d90205a2ab091ba992c9ec46175e33c6ef"
+    "8353184d9661ae55a2d593f04905d1d90205a2ab091ba992c9ec46175e33c6ef",
+    "d787200d33725dfd476ce8ac6db1a6e157044ff2cd9cdb0ffc312cfc698bf422",
+    "afb16d9d1fbacac010e4c9dec72cc7c12883b18003642290fcc1968370e68c87",
+    "4b33415081f082d5ec1733db5b9452d126820cd08011c5b3f001508043567797",
+    "5f2305f289754d5ca7bfe2557a84ec7364d7c161c734b8946ebc5c042f87b0bd",
+    "f18a2718bd445ae815b38f98f08d2719f636f6369c4f6e9441a975cb4683b040"
   ],
   "title_hashes": [
-    "b2d2f9c8167056b0ce59fb9549b443684e2c6b4e563a7662bb3c569709f7517d",
-    "33de93e5935a8f7814eb67a44c4e3b00231b68d21ca703cd629eb8aeb38f6f00",
-    "97037f982b5a6e61321c26c0c88a0e6cecca1682e4d4d70283b6b83d924e2522",
-    "0352a2c1e2e88eb13c93118f289795e6c0c8eee93a738d53171a25e94d08a729",
-    "2905831a4a5733fc58a5b32b512a0c62b818362d1a382aab57fc6130d21e6ec1",
     "595b5d14b223e4d877768e486feb3248ea13fb42360a2468d4fef9afbfad11b4",
     "c97874e0f31debcd0b0f48e3a76e962bc65c834c7771e4b0b92814d83ba27f62",
     "84617f3737485aea78966d9c7c2df81dda22e5200cdde8458cf8dda7885492b1",
@@ -8002,23 +7997,14 @@
     "111e89305fe8f9a2a4f5f657626b0f82f3cc728fac53727559b9d4e1aa2a45b9",
     "3c4e2694da1aba525c0c1589190afd615b4ceed08854c612b6819fc4947c43bb",
     "d1d504f565ebf76bc957914de7e7563489879c7a8301141a070ef7ba1e76e390",
-    "178d0182cf111b41c362274919f7de77221c3964e656b6e32efe2654894a54c2"
+    "178d0182cf111b41c362274919f7de77221c3964e656b6e32efe2654894a54c2",
+    "8301d37367773196e41720e08f2482dfe321603f8ec47ec0a37e4d017bf3f821",
+    "7a342de387e692a3b649fd38f337f3e1fe8a98c05ac6068dc2369f7b50921e90",
+    "3374824a4396414790cdee32181b7bc1cde81cd09fe15b8f3196141ae3729fa3",
+    "d483f55a561fb11241e3406c62dab5f5e9e79f4979a5d43f6b82e77aa4a5fa15",
+    "74723c12cff26d5bf04d93886022b8e90a838cd4f2402eefbaead7d6fd459957"
   ],
   "recent_sent_articles": [
-    {
-      "source": "채널A",
-      "title_en": "[민생을 부탁해]공영민 고흥군수 “2031년까지 우주 발사체 클러스터 구축”",
-      "title_ko": "[민생을 부탁해]공영민 고흥군수 “2031년까지 우주 발사체 클러스터 구축”",
-      "url": "https://ichannela.com/news/detail/000000561754.do",
-      "ts": 1795668221
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "XPENG SEEKS STRONGER EUROPEAN MARKET PRESENCE THROUGH HIGHER SALES AND INCREASED LOCAL OUTPUT",
-      "title_ko": "XPENG는 매출 증가와 현지 생산량 증가를 통해 유럽 시장 입지 강화를 추구합니다",
-      "url": "https://t.me/marketfeed/1085672",
-      "ts": 1795668224
-    },
     {
       "source": "Bloomberg",
       "title_en": "Xpeng Says Its Humanoid Robot Will Cost the Same as an EV",
@@ -11504,6 +11490,20 @@
       "title_ko": "트럼프·나토 사무총장, 우크라이나 에너지 시설 공격 강화하는 러시아에 경고",
       "url": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
       "ts": 1795691366
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Coris’ Ivory Coast Bank Unit Plans IPO in Push for Top Five",
+      "title_ko": "Coris의 코트디부아르 은행 부서, 상위 5개 기업을 위한 IPO 계획",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/coris-ivory-coast-bank-unit-plans-ipo-in-push-for-top-five",
+      "ts": 1795691596
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BANK OF AMERICA SAID TO HIRE CITIC’S LAM FOR EQUITY SYNDICATE",
+      "title_ko": "뱅크 오브 아메리카(BANK OF AMERICA)는 주식 신디케이트를 위해 CITIC의 LAM을 고용할 것이라고 밝혀",
+      "url": "https://t.me/marketfeed/1085848",
+      "ts": 1795691662
     }
   ]
 }
