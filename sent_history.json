@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795719224,
+  "updated_at": 1795719373,
   "id_hashes": [
-    "afeb32c780ea798b2f8831cc932f19842c812978b13788e9c7d41da5b3e9a667",
-    "b22e262779f3ac90f6a466322282567c1a13978bb7d52cef199f640514a9b572",
-    "6beb2e03fba6ed7e06fb986ebbfac2b6f91cdd8614802bce288b5ecd2010246a",
-    "14f9091c2dd3b85945fa3de9231c685e902f5e8d0ac7d7ba5975b3c6875bd0c4",
     "dcc0e6c9184ecf9c913ef005fdfe92fea52d0e00bcc6578b24f0ba5d76efdacf",
     "b0798625ca559cf21f33f20099ba5fde071e1ff26fbc9701910ba642b1b27ecd",
     "dae8d9dafdbb7416482e34517ffc23047eefd5355b07b2f51a00fd0133f2ceb5",
@@ -4000,13 +3996,13 @@
     "9ad182b39e3921837260680db7f147e31368b3ccbd7238264d83a3a428512e9d",
     "08f3bbf893c53b8c1f91361aa4e5abd49c79fc3983c29a198af584ddd9ad6cb5",
     "c0e7fb029c5a6b080c45a93d9e5b99f4dde597a5b40a15a37f1db24342c98ad3",
-    "d68fdf3f3c179158f4231c3fb84a18f3d51cfb14c07692ad31bbb1993c3438ee"
+    "d68fdf3f3c179158f4231c3fb84a18f3d51cfb14c07692ad31bbb1993c3438ee",
+    "75cdfbce5f12a8c207f3027af1378c1c735dd8f914d4b513d41c403ba4893f60",
+    "64a604cb67614e41c7ed211cf1416c3dc175788682292688e56077a8987e2336",
+    "d4e436437b00a82ae98b4f996e1a2d89a38b9a394c4e2c4d0c6f3041652036e3",
+    "5cc8c731a5796595eb41c208afb94b97e03d6737aa6f594706120e207e8aa514"
   ],
   "title_hashes": [
-    "7ceb7f0bcd993988d22cf6113b884024cc13649663adbf0aae97c8e41e54e7f7",
-    "713ae694249afb4e59c8662acc2f1142a1648f2b5e9a9c1722971f93ddecfa41",
-    "e14b415efee151c3a45213acecab7d6705bf8a6c70b1ef9ad51d4f5f81d48f68",
-    "303cd1b56ce7f1ebececdaf806b9d41b98ec52e580069498045f37923db1d154",
     "c46995249c4e869db52fbeda4b300649badc6ca739fdc4ccbc0584c14f4386f9",
     "8a248d86b526611d79c424483b8adb8caab2bf0af6e0640697b5ee673e02c485",
     "51059c72219762e04f14f1374da4ef69ed79697e9ae836e6b815e72370aa8976",
@@ -8002,16 +7998,13 @@
     "9bb94fcc829742d10183afda7310adcfd4fb89789729c9810fb08e200bc51f34",
     "a3b3fe6f57c049ac0416718b01182cf40465d63b14128aca4266c84390a274b4",
     "b40439c3188be763aac3e74559c2e5e46580fd73ca4b23c85e582ecbe74a65e5",
-    "790025bf704e0cade12eba6ebcc26109a85e937c9a020a93ad454917f0f0ef6a"
+    "790025bf704e0cade12eba6ebcc26109a85e937c9a020a93ad454917f0f0ef6a",
+    "76a6766407cbf1ce70cb9d87a8a2447cd00d014238766b8e4b97b577e829ecbd",
+    "4535cc22a821af11f419df1d7b6753f1123b00c1816a870b10065b32b104f385",
+    "14306949c21f0084b37a5eefdf07b09fb5d505a715e5ad57da2ecaf4ac1f9f0f",
+    "ea53e27647dd74f8de18c430a1e2c874df67051f29acf5507361975819d253ed"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "Micron, Samsung, SK Hynix strike multiyear memory deals",
-      "title_ko": "마이크론·삼성전자·SK하이닉스, 다년 기간 메모리 공급 계약 체결",
-      "url": "https://www.digitimes.com/news/a20261126VL222/sk-hynix-micron-chipmakers-demand-chips.html",
-      "ts": 1795680337
-    },
     {
       "source": "DigiTimes",
       "title_en": "Nvidia reportedly halts server shipments to four Southeast Asian countries as new US chip rule bites",
@@ -11504,6 +11497,13 @@
       "title_ko": "멕시코 은행은 분기별 인플레이션 보고서를 제출합니다. 중앙은행은 2026년 GDP 성장률 전망치를 1.5%에서 1.9%로 상향 조정했다. 중앙은행은 2027년 GDP 성장률을 이전 전망치 2.0%에서 2.0%로 예상했다",
       "url": "https://wallstreetcn.com/livenews/3206592",
       "ts": 1795718337
+    },
+    {
+      "source": "한국신용신문",
+      "title_en": "삼성전자, 美 스페이스X 통신장비 입찰 참여…'스타링크' 정조준",
+      "title_ko": "삼성전자, 美 스페이스X 통신장비 입찰 참여…'스타링크' 정조준",
+      "url": "https://www.creditnews.kr/news/articleView.html?idxno=32975",
+      "ts": 1795719372
     }
   ]
 }
