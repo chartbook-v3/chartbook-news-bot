@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795732720,
+  "updated_at": 1795732869,
   "id_hashes": [
-    "6946a739e751c617fa3776a51bd8f7c74508b0aeb55a13befa8a8a7bcf2e353a",
-    "9238640d822d6cbbdff4bd60e6c0d6288e853fb3221161c9355bd4a0296cbc65",
-    "2340c270d74458ac20971ccdb8df7b9e838b1949392bfed41336b59ea7860f9b",
-    "0cfd6dd196383ada4b0eb88863067a98952460060f932deb6f1c88bbbaf4aff4",
-    "fde747c7e27649eda66a7dbf64db2f96156a1d46d4cf24674ff1ce2e0ab3fe95",
     "ce8d89b71b5f7097b6b94a67d8811face313179abc130a2b16ed664883c0360b",
     "a9dbd7588277ffd13841a9fe51b5f609bed31875cc9674fb45e91e5bae318451",
     "d60372d12f6aa234de065ff97d3f53ec4d43bccaaa9428ce073d28f3c6f5e7ea",
@@ -4000,14 +3995,14 @@
     "01d74219b3199c6f23ec8b454608dda77d7da47c900c486c9b27a82b831a9d2b",
     "d9b7110f3751999ce89041b0c8693c2dd3b3986ec5e2a845214a6f4bf2d247f1",
     "879cea41175559848e2592ea5957c0369470e2537c0c920e1f3ced8b3594335a",
-    "1c91f055eb101ab1d5155137e2044e1cc67aa97c0448d7f22a728ddb6bdc4658"
+    "1c91f055eb101ab1d5155137e2044e1cc67aa97c0448d7f22a728ddb6bdc4658",
+    "899fde3c8c432a539ace1b4bb3676153c5e4546708c8da398894794ba1c27daf",
+    "f53a10bb91b3a5b15171ae9b9ec4c2764c769c939cbeb938d92b7301d2a799f5",
+    "070a156b54233e96172e00aabd064350f5ff749fc66dac6188ce89f2c226e3d6",
+    "af16e456729d164e7b676df9686bd4302166b8f39a9cb668dbc47be1248b34fe",
+    "d5a5f7df88598e01cb21858e2feda3588cf87ae4b0d1c23c1fd92fed80375aa9"
   ],
   "title_hashes": [
-    "3da61afd362ff72e0e266555a5da8aa2c0d6b73bcbdf2845c2e72481b4557367",
-    "d4df0920c98561b1b9a77a07ef950df2f6100cb809064e65e85c67b7a71a5774",
-    "c793b68ab395035859c69c7715dabbbedcf07872537c91102e10cc799cd236a1",
-    "7424838a69a7a8b4711c78df3184854601efbf6d4934a50333d77f3fb4207161",
-    "453a92f5292c1866cbbaedf072ac6b0be2ff0f3eed33b603de2ecf5727b8c8fc",
     "f4ec8bbef240abe7b4df795fbba6dfe15302e57e540b960fcfe11aec286145b7",
     "f1e2f64f5c43e20f6ef80ee8e466243f13fcf565ec6c4adbb67723b7f977d483",
     "d2008c4482809ec490e57e1896541b4bcca627d94de384151ccb7f80b4405cd9",
@@ -8002,16 +7997,14 @@
     "dd1a20426c4bafcd9fe4a0a9dde6c9546591322d99761b22b823f5cf29f67b48",
     "5b11fe29a5d711bb5b2ca86acebeb587d3fa5cce665ac126042ca85c3137e83a",
     "8828c95b6a70314ad79d42dcd6150aa18604412ea2c0c95fd52886266a2b9f4b",
-    "8b6d62c32b931de64890198ee625473158ec93ef8555aa2355a57762fd6da80a"
+    "8b6d62c32b931de64890198ee625473158ec93ef8555aa2355a57762fd6da80a",
+    "98f00007158af8f3ffda92abd96bba892792ea481319564b976243742c969566",
+    "359181e189813c78677f560b524a5b6d7c9128399f39f637b53147da26ec93e9",
+    "2c1373e704dc81bc2f4b77b307a6abddd7b3274c257822fa87a1b4f72af06713",
+    "2717c300df555532e8720a82cda9eaaf01f9c142187e45f8e83757bfb6fd82b2",
+    "ec25c8ea1106bf66c26b1b6393542a7e80f86d0bdb3891e1205b28460359d66f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "한스경제",
-      "title_en": "아이옵스, AI 위성 이상탐지 기술로 우주항공청 우주신기술 지정",
-      "title_ko": "아이옵스, AI 위성 이상탐지 기술로 우주항공청 우주신기술 지정",
-      "url": "https://www.hansbiz.co.kr/news/articleView.html?idxno=887775",
-      "ts": 1795682902
-    },
     {
       "source": "Benzinga",
       "title_en": "Microsoft Launches ‘Code Red’ After 24-Hour Outage, Wants Critical Fixes Deployed Worldwide in Just 1 Hou",
@@ -11504,6 +11497,13 @@
       "title_ko": "물가 뛰는데 트럼프 관세 '부채질'…\"최악 시기 경제적 자해\"",
       "url": "https://www.fnnews.com/news/202611270647438079",
       "ts": 1795732719
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "动力电池格局重塑，二线阵营分化明显",
+      "title_ko": "파워 배터리 지형 재편, 2차 진영 차별화 뚜렷해",
+      "url": "https://wallstreetcn.com/livenews/3206639",
+      "ts": 1795732868
     }
   ]
 }
