@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795664094,
+  "updated_at": 1795664252,
   "id_hashes": [
-    "b733ca4b7f84e7cdd7404beb24f98cf86164383e77e4532d0d2a4a6d011ecb4f",
-    "0e36ed263f566aa5d0a7ad53b21c50b747e3067fa1ae336174df643fd1d7072c",
-    "416f5df4b295177d634beff08432e2240659cdba8acd57e0db7acfd8921cec51",
-    "f527dc2108f0ebe468bcec2cfad383ec225e8b442d3c8a5a8f6be98b3abacc8e",
-    "9be03171e6cfe755f2a04f8b4d4c3327e029f4e8752d6cfff86af089181e94dd",
-    "9a3cdfdddaf10218580792c0d62e35d9ff5a233b1a7e33e5f7f7742d32527d67",
-    "533ecca354fba47e8a9c31b2bfdefd4f1d8622adf14525e08bda2011a465fa26",
-    "0459d419be994e10a0d92c225f8e05188bf93e7ca8b814f6d5e1bfe970d75480",
-    "c013431d941374fd5688c84d2c12f827d5932130ece2db168de37ceb74eb3809",
-    "c5cdc5b22c72fc8f46436361b1463efd1690220b8e24d9f1dcb67df8ce59087a",
-    "fe3078096692549672e6f46c46a799f2c65c5ff096b19ac7531323198484c5f4",
-    "7f5fcaa25a02a987f45bb61ddab9b933da323fc6e6ad43f668a7d35fdf90822a",
-    "138fabfa8fe446c169c7b60f444ded2e3c1c80ee53634345e9952f9c3d4338d5",
     "c22093027162f851874318c8d8f4ad007f0fddac3dbae00fa4377481fc68c8c9",
     "67ca5186ba64e39b5cd6ac043b94d2bc6d3fb928eb696e9bda4f699ae133341b",
     "9dfda8a053132285f397198598c773e2f36c2ff5573c94c65925c949aa4f15b4",
@@ -4000,23 +3987,22 @@
     "43a6ea391046689f262c1314ddeeaafb7ac557e249028cc524e8f51a7256f9ca",
     "84e33bc445903cad686e8a217daffe752b04821c16b2287bc32c4b2ad7558ca7",
     "eb96e7cdb79198a64a7a26b7ddaf7e5c9e9c9ca39efc748a6aaedd989821c224",
-    "dfbda12634a7f6549b94d1ac04886b476d833840f102e6dd43a6e9c9176ad702"
+    "dfbda12634a7f6549b94d1ac04886b476d833840f102e6dd43a6e9c9176ad702",
+    "874a05974718535cb9c25f4c167ed0fc42ca77aca49e7df31ff0a6e7bc2916e8",
+    "4ba2d5e3a7e08203253166c8608285bad2fd41fae1759226667271f9ebc27f9c",
+    "ddeb8c113e4c7a5da48d68411d61858ce31d869a193848a4585265ddc7eb84e6",
+    "de5fa0f756181a25ce82a710647569bd39bb2b758e80474461bdb010375d56cb",
+    "6a99e9dd49f6e0496e7fceea6cf958f8bfc664086db0d89b332bb73e0094e117",
+    "9e63221ccf2271a947636687c8af847c30720b406a136836ef4112334f6bbccd",
+    "6b2a47f137ecdd24e191af47fb13425b4bebe13dbef208476d2ef3f7b79bef4c",
+    "ac96c3d2fcb3d7ed0ac7ad93068aa57f88ab10cd72c18de500ac450f634684c9",
+    "560cee1d7bfcbc3ddeab7cf583f36dcf4d1ca10c4243101681a2a5b4be020b6d",
+    "a5209790f1b1747029677b223dda4e9a6cc8c08aece1207d4f6c308e51ca0699",
+    "17718af530a0dc2a4a943bccc27639b83b5c87713c21a30af7c7f3fcae1ce3be",
+    "3f1993629059f45dcbb9359b7077924228fa60cdf51c546de423964ceb1b4bfa",
+    "f942185657cf8a85171c670fa0a286c8e3075f043e94f746bdcf4ab763480f2b"
   ],
   "title_hashes": [
-    "d637bf0132b2e16d9ab631f2b7f95cc04f70a274c2c09e1d86497c5c479e5d0e",
-    "ba77591b7ee6007570fd0a72ab87a9de4c9d5f89a90ed688afbea9265be22203",
-    "a54aeab41bfce2890656406e49e370a77ac6d98dfe0a7a9cad282690582a70d9",
-    "23609dbbaf795d241b7a36de671034bf1b17d4e48e56722fbb96fed7aa7c815e",
-    "1db50658723e06396b6e8f7d45e929c35a272861388fce83ca2eb88d4d061289",
-    "b8b49d49e84e4d194849469c12a4b652d066e2fb60c9fade69afbe31273da333",
-    "54aacd3b5ef19fa9f98651351e06fdf54511e66516a8db826d682bcebc5e33f8",
-    "5016ecd7ae6b304f4cc3a922f06aba5a3f1a1fb3aeeaffffc9559e34161cb3ab",
-    "c4c3db93659cb9fea877a6e143b8a3946ed07c00e1cf1c1619f49ea5aebc9228",
-    "f6d4eef2115f5b48b9352f82e07c953fe6a3f34d5afc39b6aef77e9818aa9a5a",
-    "3c3b320058e1a06800a46ad9aef91836445cfdd29f3c8b25968b7fb41b5c7d69",
-    "bfd1681ca196bd181df768e02b0706ea8e71c27ad2460baefa5b152744ed04f5",
-    "a2673479f629503c06d965842ec74f3fc7807ad8640e5b324e764589b56068d9",
-    "9c6d1f237c1e321e48f72f75b47e08b4bafda296ff0d8130b34c276c01f3c354",
     "0a7768f6ff0e32cce3e8a1cc7ae680839fbc402d03645c59bbe732d2a85f4db6",
     "109f06b69bfb3d5f04c39a2c7e367268b52a8c6c1656fb635474ec7cd43dc885",
     "0d00ca9bc9563c8d44aa377a337aefc151706952b797a546be73df76beb5494b",
@@ -8002,37 +7988,23 @@
     "81cb379c4294a9b2050481523df7c39f2ff60bfb3cafd3e530b023e53255f234",
     "9be2030b0f652dfd10d73ee1476954fdc5731b984ee381a19629a6f63d85fec4",
     "e99938b2cb9718d9f8c660852d718caea6133399ab7ab8d74ee898e65fa79853",
-    "98e50a6f164633168f706e9a61d7babcb7d5e3d17abfd12fad2832e8f4487d6b"
+    "98e50a6f164633168f706e9a61d7babcb7d5e3d17abfd12fad2832e8f4487d6b",
+    "b34a43bd18d5ee0e344b5059ee1478bba6e2b010e332f71a7ff4f2f63de15ee8",
+    "b43af8185337045c04c1175dbe603aac06731f691759df7eb4167ef1c85e7c67",
+    "2e6d22ee4c0b32342906df59460048d45a3f2bd467b3bbb588a9dc7d903f3090",
+    "a693d844a724b3e0ebd4d3402d3a9952368e260b8a7acf23f9fb05fd53f347dd",
+    "458efa4234674193a493ef3c89974f210f66ea385518c6817b4de09d1197ca45",
+    "7f11ccc785cb8f61e036a9b8d87ff4ad86ffa3f94b083e5c4670be02f6bd6455",
+    "e59ea4bc1c95dc50e577d2ed41bf9eeb4937549ec3edf4a56dfe94f9dde96f15",
+    "d98ed2c775a026fb51f30d52a1974462a92490da997e90d6f21729d9f2e57748",
+    "a120a79f7e3e459e3b605df6f8415e7d9dc6fca5c26a211abbf29c50d7cc052c",
+    "348d3e0654965eca24a0705647d00aa140e397cd643f8ddcef434836edb36e8b",
+    "73c2a25b3a19e2c756e558cf899c5e24b1f6c1fb1161b4e15c32aa38135e4c59",
+    "ea735cfdf8efc357c24fb77c5d41bf44d51603e253358a206974a90f41607f1b",
+    "ce26b6145024cb40ed5104519609c9427edfe6c4d7ec75e051e1e8043d7fc366",
+    "746cdc93ab16e853307a4962b591df5e69ad50979f5b8a0a28278f8d9e111710"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "NORTH KOREA’S KIM JONG UN DECLARES NUCLEAR STATUS “INVIOLABLE”; CALLS FOR EXPANDED TACTICAL NUCLEAR WEAPONS DEPLOYMENT AND INCREASED NUCLEAR MATERIAL PRODUCTION – KCNA",
-      "title_ko": "김정은, 북한 핵 지위 '불가역적' 선언…전술핵 배치 확대 및 핵물질 생산 증대 지시",
-      "url": "https://t.me/marketfeed/1085489",
-      "ts": 1795641780
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "WALL STREET SAW WILD SWINGS AGAIN, WITH DIP BUYERS FADING A SELLOFF THAT HAD BRIEFLY PUSHED THE NASDAQ 100 TO THE VERGE OF A BEAR MARKET",
-      "title_ko": "뉴욕증시, 나스닥 100 한때 약세장 진입 직전까지 밀렸으나 저가 매수세 유입에 변동성 장세 마감",
-      "url": "https://t.me/marketfeed/1085491",
-      "ts": 1795641935
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "THE TECH EUPHORIA THAT FOLLOWED JENSEN HUANG'S REINSTATEMENT AS NVIDIA CEO IS FADING, WITH CONCERNS ABOUT SPENDING AND RISING BORROWING COSTS CONTINUING TO CAST DOUBT ON THE INDUSTRY, WHILE INFLATION HAS STAYED ABOVE THE FED'S 2% TARGET — THE PCE PRICE INDEX UP 3.8% IN OCTOBER FROM A YEAR EARLIER — PUTTING OFFICIALS ON TRACK TO RAISE RATES IN DECEMBER",
-      "title_ko": "엔비디아 젠슨 황 복귀 이후 기술주 열풍 둔화…10월 PCE 3.8% 상승에 12월 연준 금리 인상 무게",
-      "url": "https://t.me/marketfeed/1085494",
-      "ts": 1795641939
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "美, 韓 반도체·車 산업 지원 겨냥…“수요 없이 공급만 늘려”",
-      "title_ko": "美, 韓 반도체·車 산업 지원 겨냥…“수요 없이 공급만 늘려”",
-      "url": "https://biz.chosun.com/international/international_general/2026/11/26/NBIBNCGMQFBY5NFFLQKK6Y6SSA/",
-      "ts": 1795642089
-    },
     {
       "source": "Bloomberg",
       "title_en": "JPMORGAN SEES $450B AI DEBT BLITZ IN 2027 BEFORE PLATEAU",
@@ -11504,6 +11476,34 @@
       "title_ko": "서학 초고수들, 다시 반도체 반등에 베팅...칩 레버리지 ETF·마이크론 사들여",
       "url": "https://www.hankyung.com/article/202611261940i",
       "ts": 1795664031
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "US PRESIDENT TRUMP AND NATO SECRETARY GENERAL WARN RUSSIA AGAINST ESCALATING THE WAR",
+      "title_ko": "트럼프 미국 대통령과 나토 사무총장, 전쟁 확대에 대해 러시아에 경고",
+      "url": "https://t.me/marketfeed/1085662",
+      "ts": 1795664177
+    },
+    {
+      "source": "연합인포맥스",
+      "title_en": "월가 \"美 신규 관세에 연준 추가 금리 인상 가능성 커져\"",
+      "title_ko": "월가 \"美 신규 관세에 연준 추가 금리 인상 가능성 커져\"",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446711",
+      "ts": 1795664247
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "商务部新闻发言人就欧方将玉沙集团有限公司移出欧盟涉俄出口管制制裁清单事答记者问",
+      "title_ko": "상무부 대변인은 EU의 러시아 관련 수출 통제 제재 목록에서 Yusha Group Co., Ltd.를 제외하는 것에 대한 기자들의 질문에 답변",
+      "url": "https://wallstreetcn.com/livenews/3206102",
+      "ts": 1795664249
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "印度10年期国债收益率上行5个基点至7.21%。",
+      "title_ko": "인도 10년 만기 국채 수익률은 5bp 상승한 7.21%를 기록",
+      "url": "https://wallstreetcn.com/livenews/3206103",
+      "ts": 1795664251
     }
   ]
 }
