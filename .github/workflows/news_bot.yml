@@ -22,6 +22,7 @@ jobs:
       - name: 1. 저장소 코드 체크아웃
         uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 1
 
       - name: 2. Python 3.11 환경 설정
@@ -38,6 +39,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: '@chartbooknews'
         run: |
+          git fetch origin main && git reset --hard origin/main
           python chartbook_news_bot_v2.py --once --style 1 --max-age 60
       - name: 5. 발송 이력(sent_history.json) 저장소 자동 백업 (중복 발송 영구 방지)
         run: |
