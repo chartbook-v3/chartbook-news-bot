@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795698450,
+  "updated_at": 1795698607,
   "id_hashes": [
-    "c7a49ee18145aed84788bc630d49dc5557395cbd9b581452f7a31da0e3934ebd",
-    "63c67b250fec8a2843c63b815b59443a5cac0b984f40224d70041cdd71f23206",
-    "6ab69dfb799a20088fa3c63b0271ca11d0a90a90fb5424791e87157a85b33d06",
-    "d9b0f3350eddbc39d1ec2bb59b56b4ad221ee2a7527de816218685a9cbceb2b1",
-    "b8ce55e30a6894f6b3d7c44f5f50a68fa4765658ec110ebce32b441847c5d91a",
     "f64cc91b5f68e73c3467ff95a90f3d72c7cd372537bc2171963f6af87f9ceecc",
     "d1d62691c9ea26ccb123a2606f01accc300cc57a98d2a29a85d34ee555fdc2d3",
     "da97d361950e03565d8f28aff537e093f524563ca8db6d21a4ddddc705acddb0",
@@ -4000,15 +3995,14 @@
     "d440f4613d236295bb43dc1f08e6df3eaae0ca55adb5ce1acc7866d3da5728a8",
     "ffa70d099d85bc1881b5e80af42a210636764c7acc01d3f5b3ea1b35ba3b3f53",
     "8362155f3baedc6b9a69186dc2569128b80a9403b9e1be18bbbe806ad7944f6b",
-    "b43514df64a7693b4196c6ea06dfc63ed85c6163a00ffa0fc3ad7b26373eda9c"
+    "b43514df64a7693b4196c6ea06dfc63ed85c6163a00ffa0fc3ad7b26373eda9c",
+    "8921464bbc612cd24fc6a0916538073f4b6e8efd844fca792e93ef72b86a5a22",
+    "9f1c5ad821568ffdaeb9d752d3a70fb53f8e0a4fc9bddc09d3d9018467ec3b07",
+    "55f1e7af984ce9558cbceee1dbf0f58aa6353b1d3b5e56533ca14b4a8487eed1",
+    "97d4f52790bd93982b0af86804484b86f48764619c65cb5a6166e22145c7d907",
+    "7a9eb498e959b1b6d39702dacae97e90cf68793af814c038fe670d1022347ac2"
   ],
   "title_hashes": [
-    "ecd0e279bc5fbd3a960a42d4df988524d92495d7d71e2b77a37135046603c698",
-    "9c85776b49ffa3b161a7a3811f470c392b7e921dfbd8f9588945864487ae7e4f",
-    "740d8fc598b6522023d24d2c3d969127833d50bb9b15775e9281200abf0e50e6",
-    "af8cc06968ba5bd253a8310c51fe8bb965be0fdd1b712ea5419b9532efa51579",
-    "f38d0e385758f24b5528dc62aa480bec09e02abe7f7b62e8cc912a35a92a0ac1",
-    "dda8426026a9e50549b383a3815532fc6a8a4e806158eb97b9c0f7063c028473",
     "a42a3837c85622f556497fec368c3d33a6f18aa1f69bdb15808305fe26d8a001",
     "f37d483df9aef1807675b9adcdac39bcd973c1c2c50b48a591c8886182efa46c",
     "43a509d145955f117630820116ea8a70ae0888ec3c2c19927e6c193265435328",
@@ -8002,16 +7996,15 @@
     "205430bdc2d51f4f306374396a45cdd1d2043e8e9dacdb089c4b461d75459509",
     "f7184091dd4204df3b906637669cb98c8cee0c16e0fe81b028abcff7451a9ecc",
     "24e79113350db2a0dd7a63576b1dc73d0435a5b33060f9c2e643add8ce2da50f",
-    "9dff7e0b454c58296a7860b6244f778ab5431d36019f59893ff35e0d8c273ee5"
+    "9dff7e0b454c58296a7860b6244f778ab5431d36019f59893ff35e0d8c273ee5",
+    "a308cb94845116da4abaa4c12fd26d4b9870596bc325338cc515021ad668bc2c",
+    "52e17ef430bea3a18dff7f78d9a2cb460e167f5a331caa727caa23b37e0c6955",
+    "dcc45a24a4baea17407af3e99ed0df214a69ba170deba7d5199211612fddbb95",
+    "d074f660b188681bdc05617af38f91f72e353902848defde20b12fdad6f8b8d0",
+    "e528731eea83181efd8522e8b39aab6ead2cc705c8c196670897d23efc4600b0",
+    "980d94bce530a7dd8c0f4487f159f245cb2ced5b74a3663e7c881cd51b9a1ffd"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "SOUTH KOREAN MINISTER NOMINEE URGES UNIFIED GOVERNMENT APPROACH TO LEE’S NORTH KOREA POLICY",
-      "title_ko": "한국의 장관 후보자, 이의 대북 정책에 대한 통일정부의 접근 촉구",
-      "url": "https://t.me/marketfeed/1085702",
-      "ts": 1795673145
-    },
     {
       "source": "DigiTimes",
       "title_en": "Amazon Leo launches 36 satellites but struggles to close gap with Starlink",
@@ -11504,6 +11497,13 @@
       "title_ko": "트럼프의 새로운 관세로 인한 5가지 시사점",
       "url": "https://www.streetinsider.com/Reuters/Five+takeaways+from+Trumps+new+tariffs/27404614.html",
       "ts": 1795698449
+    },
+    {
+      "source": "FT",
+      "title_en": "Nvidia’s ‘great man theory’ is flawed",
+      "title_ko": "엔비디아의 '위인 이론'은 결함 있다",
+      "url": "https://www.ft.com/content/6a01bdc9-f242-4272-b5e3-a147af5b125c?syn-25a6b1a6=1",
+      "ts": 1795698606
     }
   ]
 }
