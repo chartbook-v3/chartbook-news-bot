@@ -1,17 +1,6 @@
 {
-  "updated_at": 1795706578,
+  "updated_at": 1795706735,
   "id_hashes": [
-    "b3c28bf1145765ad0dd507bd1c9431264682ca5c870b9680defcd4ed7213f85d",
-    "6efa01b551c6c8afff269506fea65402054f1a6d20608f625221d4472a55e417",
-    "703466d1da9f557faec5c5b0bc1ad60020998a9bfc98e187d158d11cfa3b9c40",
-    "10fa0b8b5a596f881c9e78904fb6fe58e3f8a90ac395f2cfece85854f7d67c7f",
-    "a7a83cb67b88cd1b2a303aa3e2bfd2d93db14fa4c30e5e09336fcc6f7e1c57f9",
-    "0d9763b30c960a3fff9bab67a7c58f13336b496be9c890acf2b1b5cb4c1d4bf3",
-    "28a6b5d7f9200689f03dc477a5288e8986fdcc50f94f2bc91415fed37540b762",
-    "64d76f55f4d66a3c9f05c21f447925c352346da0b695d65effaf38553818e67c",
-    "f11ce159b80be1dcdf4517d2251bda7c4f630eb75620fc136226f0c890a20cc6",
-    "9bd1e777b17687b2848e616ee6b6f15f8216d652b26ef34e4ec67cab249e3f28",
-    "c7bd9248faa70c85528e2e8266aa81a69ea87784d7effcc7421d74c606ff4ea4",
     "f95e2bd63fd3667055037ba0240ce3dccb4e6654991c91f39bcb25d2812cc30d",
     "57f2e1d7ec5f43822a629f4cf63c976c7ff2b1adfc7f5a8f924b75afe194c33a",
     "3f831c979757c210a7fc583359efd34ec24e2ac3821c4a9f4960ae4501f6cca3",
@@ -4000,19 +3989,20 @@
     "f944e95be744cb6e49ad9f651a69b05eb6c6afa82b4d31269156d84ef790b8d4",
     "84a55d7eaca7e1f402476900e9d275d95328a2b0ed6b9a4aba6d1bcdccc0e1dd",
     "b8a1cb901e92fe397ada70be6be0415f572ef3d47e5639b1855ef0fc9a35d049",
-    "aa275f609cdfa8812dc8a49d2a1df13f343a8ffafd2f31f51e807f6249545501"
+    "aa275f609cdfa8812dc8a49d2a1df13f343a8ffafd2f31f51e807f6249545501",
+    "59bbf11dbc43e51017de161a3b1414fb797a68db1e1086b63e15c43992a14243",
+    "22701f89deebd8c98091ae50791186f613aa5ae712517673134d84416f69cb4d",
+    "32c4af0d10fe81b2e853a87960f457cb13b0fa36335244ad569a458e69fac9c2",
+    "82e0689d4af6988abe289bd3892a094d45c425278d24931fbc9123162426d8bd",
+    "eeacdb210acd182e6ab4e52611250b9e81d4432aad1eb17b78fc86ea9c45eebe",
+    "c8b6fe9f94b4df2bc70b566d0d949451462b1c0c6205d8bb25f18091e0bfd146",
+    "ff9de2117b3037677813760c9c977a342b251c8e1772ca116b2ccb46a97e5503",
+    "d18e072d001091c38dfaeca9cb640d5b6bcefd083c05caf6e0db04f1e7760437",
+    "53e93a29ffe5c6430b6960029a933680b15686aa2060f057a91c9434cc2ea0c5",
+    "1196bbdc0233a06d74ff493a8f3af848fa1217a80d3a040ddb7e3aedce4bffb4",
+    "560d5bb8893a842f173fd952557fb46c48877a4991aae16d8f62af6e37b1c608"
   ],
   "title_hashes": [
-    "726fa92270956483bea05eb360da51003b4cfa0f504d74833ebc76188dbc70a2",
-    "c54b304b2ad24cbbe235a05a67eb7db7b21609151487d8415defb6f7e8e7792e",
-    "469cf8e2eae21859ca2aeda19a473586478f17299243d627951ee6591e2f95c3",
-    "5eec6a4c0cd8b37d938757f7d2639ec5161ce3b1fc273ab3747335a5d44e9d7a",
-    "3a7c1a506ab21f98cc7c31c619a81a267954f1fc3caddcbc117a4d09f2fa1617",
-    "0dd80176dd9a9e2ca9d025c9aa484824245d0c9e865f0a856800e15e17067fce",
-    "712c349595063e95cdf378292d452900b7614aac43788d8216a58cc4139ba497",
-    "438157e56851dc6c2938baf02a3c2500bc4f49bf17a1cc30a9ca7b77bc57110b",
-    "2490b1a3d7bedad054a0a075f984194a1293645e3d4bf0bcec3d7e135c9a50d3",
-    "1d2767e4ef4029db7c1645b88fdcfa1a94b2d1fd39b0d7a7bcd8f04d28d910f2",
     "6a930a230835c5979bc7355803acadc565e8310d6c62e6cd07b1789caf145011",
     "e0bcb2db2589548147ce0a15a56987f6dfd59341825b50ef4ba8fdcd539f07b4",
     "60a5f64e2077a83d078ad4e60f9edebf4ed6dbdf2a385291ac7ce49d921a8889",
@@ -8002,30 +7992,19 @@
     "86f0da35db96fb7cb84a145337f40075eb0e903dead766a8aa3256f38397759f",
     "697f5547357aa5d62f471a361456cc1dfb299418050ed479731ad7cb0777f75e",
     "834d710ad2543275be9db75469793e651c23b9886ae3f54ecbc083506ef7d2e5",
-    "c2ed1d9f82a5b0f90566f76fab7a7c8de47bc196037494aa23fd1814ea8dd62c"
+    "c2ed1d9f82a5b0f90566f76fab7a7c8de47bc196037494aa23fd1814ea8dd62c",
+    "442c2af0e0b93b028ac03daa27f3246aba0ab425552cb524f4733261269871c0",
+    "5be51659a916c0bf0ca728a0d90860757bfbff78339e45160aede315342657e0",
+    "013422e5b3394665a1f3222ac12e443505e56c0385ef2b65035a20f662832749",
+    "11b767c9667f92eb82b1013daae9878d5c4a04b49a52d5e5ced13ccb43f9328a",
+    "dca9defba8aea16aca6c3b4007c3cd447972f0986fdbba92293bf9ffed5b707e",
+    "89a76ca54d8391e37d72fa951a345f9da9453dacb23fa611af5e7598ad2bc5b6",
+    "583897fc4f0930d5a9e4dd65faae059b8170ad88748f6b1fd02db9963317b4da",
+    "1e0889322bb5995f1102c3246bf2f8dc3884fbe09458e7a2b8293a652d8d1a00",
+    "43f50406ae13e0676802566bfc9dcc4cd998371a62d83e3850a28dc1916b8d4d",
+    "0057da9f802f880156310be875946acfd107f2e505e779c9791d77f2dd697712"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "亞증시, 美 신규 관세 안도감에 반등…코스피 0.3%·日 0.9%·대만 2.5%↑",
-      "title_ko": "亞증시, 美 신규 관세 안도감에 반등…코스피 0.3%·日 0.9%·대만 2.5%↑",
-      "url": "https://www.news1.kr/world/northeast-asia/6367369",
-      "ts": 1795676995
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "트럼프, 다음달 TSMC 애리조나 공장 증설 착공식 참석",
-      "title_ko": "트럼프, 다음달 TSMC 애리조나 공장 증설 착공식 참석",
-      "url": "https://biz.chosun.com/it-science/ict/2026/11/26/66D47PD5HBAELKLV374XWW2NPE/",
-      "ts": 1795676997
-    },
-    {
-      "source": "한국경제",
-      "title_en": "[단독] AI발 전력 확보전…美, 발전소 건설 250조 시장 열린다",
-      "title_ko": "[단독] AI발 전력 확보전…美, 발전소 건설 250조 시장 열린다",
-      "url": "https://www.hankyung.com/article/202611262505i",
-      "ts": 1795677060
-    },
     {
       "source": "한국경제",
       "title_en": "[단독] AI 붐 이전부터 전력난 조짐…美 '공장 귀환'의 역설",
@@ -11504,6 +11483,27 @@
       "title_ko": "우크라이나는 밤새 러시아의 슬라뱐스크 정유공장을 공격했다고 밝혀",
       "url": "https://t.me/marketfeed/1085950",
       "ts": 1795706522
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "TOTAL US-DOLLAR STABLECOIN SUPPLY IS DOWN $20.7B SO FAR IN 2026, THE FIRST YEARLY DROP SINCE 2023. NOVEMBER'S $14.8B DECLINE IS THE BIGGEST MONTHLY FALL SINCE TERRA IN MAY 2022.",
+      "title_ko": "총 US-DOLLAR STABLECOIN 공급량은 2026년 현재까지 207억 달러 감소해 2023년 이후 처음으로 연간 감소세를 기록했습니다. 11월의 148억 달러 감소는 2022년 5월 Terra 이후 가장 큰 월별 감소입니다",
+      "url": "https://t.me/marketfeed/1085951",
+      "ts": 1795706671
+    },
+    {
+      "source": "비건뉴스",
+      "title_en": "이노스페이스, 한화 계약 600만원 늘어 4억8020만원",
+      "title_ko": "이노스페이스, 한화 계약 600만원 늘어 4억8020만원",
+      "url": "https://www.vegannews.co.kr/news/article.html?no=411842",
+      "ts": 1795706732
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "PETRONAS CEO: MAINTAINS EXPECTATION FOR FIRST GAS PRODUCED AT SURINAME'S BLOCK 52 IN 2030, WILL TRY FOR FIRST HALF OF 2030",
+      "title_ko": "페트로나스 CEO \"수리남 블록 52, 2030년 상반기 첫 가스 생산 목표\"",
+      "url": "https://t.me/marketfeed/1085952",
+      "ts": 1795706734
     }
   ]
 }
