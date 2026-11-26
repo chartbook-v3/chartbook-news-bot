@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795728346,
+  "updated_at": 1795728497,
   "id_hashes": [
-    "7fa0689afe4db40b6085799cce831764c86a0699b3b9910c7deed25b12f9e075",
-    "041588f64d25fdf5604323688775330719e9f4e67aa01bfb0f4beaf53eedf77b",
-    "6e9282b635b0238d92464e4b3394df26e4a83c04c478bcbd3a70e7bbb463a3d3",
-    "719c70149e8cc26ffa1faf5eab5d0c235550cbeb81c5ba383f4205ddd4c7b20f",
-    "04452a0f3fcc2d84510f496bad844bbec29d1a472545e92283a97198e40e4f9f",
-    "772643d0b787aca9f143c341e166eecfc3a4b2122798d6d0747a0fd78939a83e",
     "869e945cc3c531fb0622bdcd7df0702cce9a390024634b768942b13f9a1e804c",
     "a7eb185fa4b67e61de468d8f06f94d8f0d3bf3dc20d6bf42e6b8cc69b4094cd9",
     "3716eba20fdba1e29c24a4ca8f7eaacdb175cc8c6b41f45cd246c5eca63d05c6",
@@ -4000,15 +3994,15 @@
     "919664029fb579d59c1096687396794bbb5febebc546cbaa988b56906ab341a1",
     "b428390aa5e3148f32cd2efd9a2a7d4e45f5bab4f3bfee959216a9b981082d6d",
     "b47a732a922dc654a381d5c819da13b6c0953c96a8fbc0ceb934bcfbf2a9568f",
-    "64a17e32a8d727f5914b7d983280db0ff498f4b8df3019bbe27be71871f41d0c"
+    "64a17e32a8d727f5914b7d983280db0ff498f4b8df3019bbe27be71871f41d0c",
+    "738ae0ad88e1bbf89b76df03465bd7c6f55233ef3ee01d0d69110f9edd394254",
+    "b2710fc3edad0fa2064071a300337e15f02805bb199fc3ab43b6462c4d13e47d",
+    "dbe3b0ffdfc2e69b05ba0779de6a55e8644f05586216612650e9da3d014a56f4",
+    "2738584af55a2da0c5691f396110d37dd9c563240dadb59c46b07c01c5c2e89c",
+    "7823046dc9b3bb37638af624c548560b5f45965aa89c02dd4e9bed409a9565fd",
+    "48a34ca4aea3befc3d269fbd3e3c043ebaf35a17a1e22232180d0ab95a8c373e"
   ],
   "title_hashes": [
-    "bef7784aa022060a20c367a9e22f8d8415d841b486930fbe9706b92615adb2ab",
-    "21e680ff298a3fe773c9f67efb2225b0989f04a02eac0499df52dfd77694a313",
-    "7d56b53292bda803366284a612bd0ab119e50e0c93a4775120ca452d903fe8a8",
-    "0cdfe6b2502056cd2d6c146efc71674533d7675aa24bd717a43943b85bb55e47",
-    "35b090d511ac4ff9ac664460636a6cdc68a34ed54f2efda7ec118298e2c961e1",
-    "0dac8f7afbf84aeb55520305276ddeab64790222e1ef9f467d2ff06a6540e52b",
     "eeeee552e07168ab8ec310fbad7a5d38db92d397cbe579fd0004ab22081b69c9",
     "af5c89d3b39e3a66b7b022531a3c6bf0c32063d9ce046290ebc7027d00193196",
     "adfacdb129b78e3274fe2accf45e076e436a076ee9caea2fae36233f289c1653",
@@ -8002,23 +7996,15 @@
     "6b019e950f65b165560b88cab47ebc33604cd642d49df76fa30666b2a5436949",
     "f32428a75fb9425d089fe02e5712a5229a508682290e910373558e812de589f1",
     "866312a53d9d9fad62cf8c89dce54ef0ce9c5b162c03d048599964b7bf3aecce",
-    "ca6aa4188a46f96930114493a3a89b08bf13a16cb18d195f9ae22bcb8044b7a8"
+    "ca6aa4188a46f96930114493a3a89b08bf13a16cb18d195f9ae22bcb8044b7a8",
+    "d6453892d3eb9b21181dde360cdcecaf6b3c358ac9af46141865123f8787c0a4",
+    "44f606ed7f88846b1f5c1df11a4072b7867c9a099c864380430ff3b6fb2ab337",
+    "3cf20860ef9cf48cc259d2168d3b58e9ad987f7cc902298407e4f3570e53721c",
+    "6347380e7f34587127badcb1bf1766e9de60a867ba28d9b3254f2c647bcac10e",
+    "9d5420543f4f6b5d67b42bc627bab576f8807b2ffc177586febb8f351b9dcf22",
+    "991a2bef1158d9e8a180c8654ef80480adb6e343472471ead3a53cd441ea38c8"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Trump Aims to Keep Leverage Over Xi With 40% Tariff Threat",
-      "title_ko": "트럼프, 중국에 40% 관세 위협으로 시진핑 압박 지속 예고",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-26/daybreak-europe-11-26-2026-video",
-      "ts": 1795681881
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "부산 사상구 농산물비축기지 매각 확정…부지 활용 방안 본격 모색",
-      "title_ko": "부산 사상구 농산물비축기지 매각 확정…부지 활용 방안 본격 모색",
-      "url": "https://www.news1.kr/local/busan-gyeongnam/6367567",
-      "ts": 1795681884
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "商务部：中国和墨西哥将成立工作组 围绕降低关税问题开展对话",
@@ -11504,6 +11490,20 @@
       "title_ko": "코스닥 상장되자 곧 퇴출?…약세장 속 시총 300억 미만 '속출'",
       "url": "https://www.news1.kr/finance/general-stock/6367615",
       "ts": 1795728196
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "반도체 초호황의 역설…韓경제 4%대 성장 전망에 '고금리·美관세' 압박↑",
+      "title_ko": "반도체 초호황의 역설…韓경제 4%대 성장 전망에 '고금리·美관세' 압박↑",
+      "url": "https://www.news1.kr/economy/trend/6367665",
+      "ts": 1795728494
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "트럼프 “중간선거 전 발표된 3분기 성장률 가짜… 즉각 조사해야”",
+      "title_ko": "트럼프 “중간선거 전 발표된 3분기 성장률 가짜… 즉각 조사해야”",
+      "url": "https://biz.chosun.com/international/international_general/2026/11/27/TCHUHUG3TBFP3G4OFQ32RVB6QQ/",
+      "ts": 1795728496
     }
   ]
 }
