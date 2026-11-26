@@ -1,16 +1,6 @@
 {
-  "updated_at": 1795698128,
+  "updated_at": 1795698291,
   "id_hashes": [
-    "159d9b0fcd81a0c46c7cee3f928293a54261b586e9ecf1916a7c46a235475625",
-    "80a5dcdc6ab323957bdb9b88583e488f08c88d02b1d43b8d3c5efbd37fd75ea5",
-    "8cc4c27835253637268f4f93b3988b08c5e5112f60475efbff07c0793ca05662",
-    "47fadabe944ad982f87019443fb8feb1098efdd8a14e9fc73afad7b05453b643",
-    "304fed2d6a76c16da1279e8b569710992fa729440e2ab12479af3d521e302703",
-    "42d9ccf4d297f5b5a4e4f57e7b3031544d23cb3564b9c84c9307ff31fd0d7e1c",
-    "f82af96c2b8375132a6d15f8053cf2da3d6c2242c49a0d158c852d3bed56b870",
-    "22742c02e599bd596ed21fc8626473ecc5e815c0f9fba959e8c9e4841682d519",
-    "eb1faeb42a24749a9099d012ccadd1309680a09b7ff6dc2edf402ba087f3383f",
-    "0746f3112ae914ed8f0da54bd9f98639e921d0259808e7fedf51e616c19785e5",
     "a83470347400cc839576d8771f90da52e97a52748c7b069f72addb82a23e4494",
     "bd5d7b6640c308cc2387fc0a1dbedf4767eaa3bd3d88f687f510f31276e1c499",
     "8b9fadf1d8c67f9db650499eff29a8ceef23f9a2e6905a80d6f7d06cf1710476",
@@ -4000,16 +3990,19 @@
     "0b4e652540be01b1c196491c804faf72c89ea6a06c68eebf3cb4a4fb48340e12",
     "ec28d7c72aeb015427b1a86adb09804a4637effa98583fe8ff5bdb6a9f01693f",
     "f819db275c1030459149949c3635882f77152630288cd9fb0860e7f89bd414f2",
-    "9e9d3be1abfff72e74aefafc8fa71c6b1f0353fd762d673d3323d26601f5e4ca"
+    "9e9d3be1abfff72e74aefafc8fa71c6b1f0353fd762d673d3323d26601f5e4ca",
+    "9202ac5dd0cef0a532d495fbdfe6d969aa4e19a1521458f1ba6edd64c06ee425",
+    "1ee4507234baf8947dc167e420b2538a8a1f53429a08a00e76de6a558cff7b82",
+    "89e1748adb0a0774fe81adf825e96abd1ed2f4497b5ae02d2228e14586027195",
+    "f5601b23a5be88413ba75c3e6d092a709f86ad8bd24a4689cf55f6b223f4f315",
+    "bd0b8f4e9f1c53429521cae95095d9bf5053f9e0662756abc22454e6204c8a74",
+    "f3345a08b08ccea6f52959d45aa7ab3e4735afee0e2efd7820667ebf79172c0e",
+    "b9fe31812a2711259b8105a3a4281f769e4d6276dd547743171642b8596cfccc",
+    "5e375687299d968bbc2f6e80aac647350ddc2e6b9d3fd3bfe2128034cdfb58f6",
+    "f26eb0826d09cb36adc41dcd91ad52deba36fff8c9394aee135286cdb658638c",
+    "7d252da6967100236c07330bee283cfbc1350ba021f0e60d53169224a0f617c1"
   ],
   "title_hashes": [
-    "a923b9114b41051ca9b6c272875378bb9c6bd24cc8de5c16272eedf99feee041",
-    "912ea7b052c709343c243464c3f6f5f97302f8010c1bd66d67f4a2932576c14d",
-    "c2eb6e62378b1c72d1a04bfbd905051a6f8c598ff37f71c82ccfa45f0a537ec6",
-    "efadad7883f7000a98a4fe1c2af2750bfff7fe53546a67f296b80f75e8a0455f",
-    "f70af183856e76d7e7e58c7b3c871d344a2627f4ca19abd3dd21d666ad61647a",
-    "b81280b222e3218b83da2b83a2d77fee4b94db9c40816d811f174e014eef406e",
-    "66ff9a5f4d8248195bd7764164355d2db33b24bbf31ec8a970cee59533ba9ac6",
     "dd78218cf29472dd73a20e5b57e48976813ee41068cb971899cffcb6a62ff503",
     "890d814f90d9c3776f61e325cc7fffce8b721387cacbec4db440b7724eb3a0d3",
     "010da443c7aa63c06bf4b5dfc1f07483351f0a6380d2ca80d5fa28d4ee949f3c",
@@ -8002,37 +7995,16 @@
     "ae3ea2624c55cd19041461d8030c26c1e6219c1400be0c33cf1553944e54948f",
     "6fb0b79d1166b7a733bc395a7d39040216b7d1d4ab73e6ba5d46cbe5fab88ab2",
     "fc2208c229b6514bdea3d23361853fc60eb3c3fddcecfee8ca78754d5882503d",
-    "3ad50dbf93687974c50355e3c35448f6508f5aaf2982c25b49015f1261856c37"
+    "3ad50dbf93687974c50355e3c35448f6508f5aaf2982c25b49015f1261856c37",
+    "692f3ce38f7cdb299a310ba81ccc1c17188ffdcc3f98e8471a34008ea97fa90d",
+    "28e7e0c1f7ab483177703e2ba3779f16616a08e42f0ec3b71d709de6292c05b1",
+    "4f8769afaa35b10e399696c4fa4e6f2f7ef7b7989ad8c7d590fa80660ffe35a5",
+    "13a950e227dee891730ed0eb9921453d62f8c6a5543b30bec1620ef0ac0be492",
+    "9e0f05df364baf70d43f10d696433e1cf7c8aa43c256bf35dbffb2b9e8c02a1e",
+    "6dc69d5f55eba1e8a95bd38976c89548ee60fe324331ba2cb4a28cfa4e1e3acd",
+    "328ea105a62341d85c32b21fd9b7db2de233e8466443b38187e351e47a415059"
   ],
   "recent_sent_articles": [
-    {
-      "source": "한국경제",
-      "title_en": "신영증권 “큐로셀, 국산 CAR-T 림카토 12월 급여 적용…목표가는 하향”",
-      "title_ko": "신영증권 “큐로셀, 국산 CAR-T 림카토 12월 급여 적용…목표가는 하향”",
-      "url": "https://www.hankyung.com/article/202611262334i",
-      "ts": 1795672683
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Bank of Korea lifts base rate by 25 bps to 3.25% and upgrades GDP outlook",
-      "title_ko": "한국은행, 기준금리를 3.25%로 25bp 인상, GDP 전망 상향",
-      "url": "https://seekingalpha.com/news/4676737-bank-of-korea-lifts-base-rate-by-25-bps-to-325-and-upgrades-gdp-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795672685
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "UKRAINIAN DRONE STRIKE HITS BUS STOP IN RUSSIAN-CONTROLLED ZAPORIZHZHIA REGION, LEAVING FIVE DEAD AND THREE INJURED",
-      "title_ko": "우크라이나 드론 공격, 러시아 통제 자포리자 지역 버스 정류장 공격, 5명 사망, 3명 부상",
-      "url": "https://t.me/marketfeed/1085699",
-      "ts": 1795672687
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "그래핀스퀘어, 중기부 글로벌 팁스 선정… 그래핀 EUV 펠리클 개발",
-      "title_ko": "그래핀스퀘어, 중기부 글로벌 팁스 선정… 그래핀 EUV 펠리클 개발",
-      "url": "https://biz.chosun.com/industry/business_info/2026/11/26/3F6VCP5KPJEXNKBA24AXZK6K3A/",
-      "ts": 1795672900
-    },
     {
       "source": "한국경제",
       "title_en": "예상 웃돈 실적에도 15% 급락…뉴타닉스, CEO 교체 '부담'",
@@ -11504,6 +11476,34 @@
       "title_ko": "영국, EU 재설정 거래 가격으로 추가 '참가비' 지불",
       "url": "https://t.me/marketfeed/1085911",
       "ts": 1795698127
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Brazil's Lula sounds out Bradesco chairman as finance minister, sources say",
+      "title_ko": "브라질 룰라 대통령, 차기 재무장관으로 브라데스코 회장 영입 타진",
+      "url": "https://www.reuters.com/business/finance/brazils-lula-sounds-out-bradesco-chairman-finance-minister-sources-say-2026-11-26/",
+      "ts": 1795698155
+    },
+    {
+      "source": "WSJ",
+      "title_en": "What Makes a Perfect Apple? Readers Respond",
+      "title_ko": "완벽한 사과란 무엇인가? 독자들의 응답과 분석",
+      "url": "https://www.wsj.com/arts-culture/food-cooking/what-makes-a-perfect-apple-readers-respond-f761c569?mod=rss_Technology",
+      "ts": 1795698220
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Micron May Now Face a Threat From Two Chinese Rivals but Shouldn’t Sweat It",
+      "title_ko": "마이크론은 이제 중국 경쟁사 두 곳의 위협에 직면할 수도 있지만 걱정해서는 안 됩니다",
+      "url": "https://www.barrons.com/articles/micron-stock-memory-threat-china-ddf1a907",
+      "ts": 1795698287
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "FutureMain Sets Its Sights on Nasdaq, Bringing Decades of Industrial Expertise Into the AI Era",
+      "title_ko": "퓨처메인, 나스닥 상장 추진…수십 년 산업 노하우로 AI 시대 공략",
+      "url": "https://www.streetinsider.com/PRNewswire/FutureMain+Sets+Its+Sights+on+Nasdaq%2C+Bringing+Decades+of+Industrial+Expertise+Into+the+AI+Era/27404605.html",
+      "ts": 1795698290
     }
   ]
 }
