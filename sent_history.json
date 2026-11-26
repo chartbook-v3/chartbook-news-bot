@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795699376,
+  "updated_at": 1795699535,
   "id_hashes": [
-    "da317247fe09f9c5e5d585741b72fc34e68310af8cacb4f45760e6076346bce1",
-    "a8859b6137806be7a362445e217b55e2fa0e0518ff1698f0878cc35d1726c29b",
     "45875bfb55ba966f3106c127aa8dbd8f0094f3d5c58eaae215c92fd945f202f8",
     "238d37b204d2c1ebe07b2664ed2b88664edecc1c72ebe5e0b2f4eb4bf3ee45b3",
     "124527969065d64ae7bd8b725ef6afc85e02ce2e6ad254a43d8e8c090d75bc4c",
@@ -4000,11 +3998,11 @@
     "508d4dcf6bd0e76230ed9a0e360eb4133e63aa52fe6fbc60199032eee1de93f8",
     "9a6225fdc7fb860b0acf6ae0b5622798a2c0f02c96b3d417e459d71b8adccddb",
     "87c321f01099f88685e6cb3c5ca4fddb392a7b8b5eb58751aef2f9a8919fa4e3",
-    "501dfb154bd743097a766af131de2783c8ad9e6686a96e73ef0505ce3dfd43df"
+    "501dfb154bd743097a766af131de2783c8ad9e6686a96e73ef0505ce3dfd43df",
+    "21224ab6514df58c588fd69f669832f553cc253b3afb8b29cad2a1a3f55fc853",
+    "02a8c1f83b9c442938dd522dfb5d2f39bdf54ed3fed295d47e41a55dc6ee1c72"
   ],
   "title_hashes": [
-    "23591d57ca49deb604e0d7f43daec5502d77dfe47db0bd2218c8618433c105d7",
-    "dc5dc7cd539fa238b1e03730e5ffb6529db372e12a46844a472ad4b73e088d9c",
     "1312c5426368bcb09de1a63a495d4ebe175e2e6e4725f20f957aa83e310a8f07",
     "e03246454ed9f3db464be7db64dde0ea301f8c6ea7695cab3ddfb134623f9f00",
     "15b9f7ffb7a75204cbff3939c98460789a6776bb96148c638dab1cb1d682416e",
@@ -8002,16 +8000,11 @@
     "e775006a494cad16e4a787a5e6686a6e50f2b742adfbb9e9da9ea5e66b20d0cc",
     "5f887410ca88ffb18b74be1a21099c4bd3c961a8cdfd2052d6c181176f8b13fa",
     "d3d17c0697b8581b4a183174299552de24efe10b5084db2fab1dfae0e8913bcf",
-    "042f83e8c3fc9f3f136c5a173dcabffc4b8fbef6806cac52540cdac662424f1f"
+    "042f83e8c3fc9f3f136c5a173dcabffc4b8fbef6806cac52540cdac662424f1f",
+    "b1935943109a075e2fb24af37ca4d484e2bcd5325b2f28dab286ca372a2a0710",
+    "68b32dc13b7e1bc7d8183fff6701d233e7769b8ddb069079d8241cd62f3bc8da"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "유진그룹, 윤 캠프 네트워크본부장 YTN 인수 개입 의혹 전면 부인",
-      "title_ko": "유진그룹, 윤 캠프 네트워크본부장 YTN 인수 개입 의혹 전면 부인",
-      "url": "https://www.news1.kr/industry/general-industry/6367240",
-      "ts": 1795673675
-    },
     {
       "source": "Seeking Alpha",
       "title_en": "Asian shares rally on dip-buying as markets shrug off new U.S. tariff proposals",
@@ -11504,6 +11497,13 @@
       "title_ko": "미 국방부, 젠슨 황 사임 시 '1950년 국방물자생산법' 동원해 엔비디아 CEO 복귀 강제 검토 보도",
       "url": "https://www.tomshardware.com/tech-industry/big-tech/us-defense-officials-considered-using-cold-war-law-to-force-nvidia-to-reinstate-jensen-huang-as-ceo-following-his-resignation-report-claims-1950-defense-production-act-was-floated-as-solution-to-president-trump",
       "ts": 1795699375
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "ECB Officials Saw More Tightening With Inflation Outlook Worse",
+      "title_ko": "ECB 관리들은 인플레이션 전망이 악화되면서 긴축이 더 심해지는 것을 보았습니다",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/ecb-officials-saw-more-tightening-with-inflation-outlook-worse",
+      "ts": 1795699534
     }
   ]
 }
