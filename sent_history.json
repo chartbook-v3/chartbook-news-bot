@@ -1,32 +1,6 @@
 {
-  "updated_at": 1795696426,
+  "updated_at": 1795696577,
   "id_hashes": [
-    "718dd0131c03eedf031a79e5cb5f727b61d7b3c2e2407e399f4eeb9858a0afa2",
-    "390e4794f2123136a33bf239c27bb37a193ec8e550f349b69d5925ad3fb0bdc2",
-    "5f27fc2e69bb3f223050e996c5a2d5ac29ee698e29a0e575eb06f3b3d6e2d3dd",
-    "2f09311957a87b573484dc445cea28a6881e3e1929fa6c51315dbeb6d219821c",
-    "500170d43b79adc49b336e3abe2129dc295f984d84a6352cc788bb5f06d4ffc5",
-    "1aa512388033aac8cd8fd49a0c072d9ade29f497577df6b2a26caea6b98c6061",
-    "6641a1f7b7e09f4d59bf2f9746c8fb7c51e1fc2dbd963c549abbeb08b56b9b98",
-    "63ec3dd0509e200167dc5d3e9450f3e32df5190b3dac38902dbf3fbf83d04366",
-    "6fd056b38eeb73e18db69a1afe75df2c96f8ad2cf8c707907e0f5227c21243a7",
-    "d84b2267abb2e96c7ce31e63154af767ada9ba3fb487c945b6c1e4846860f29f",
-    "2c044397e88b881ccc8d3478192dfc972192333c799ec79673a116de313f2596",
-    "56c50af80364eafd6758c89d98f8090193a9606429b5cd9d6d4d9dd9ad97a557",
-    "fa200c4e7c7165083dfa61c903bc5a8e6e601d31c396a6819a37f962953db47d",
-    "4e600ba86e8815259a14563043c50872c454d38585564f1fe2c248c1d7c4e12b",
-    "f36a6b71f8e63f5e489344677a0082af8129be33b1c51253226c05fe0bf3a446",
-    "ad5bd6a2d33c4e6470e82aca435343f43e497d8f62a0671a05ecc11e9a7de4eb",
-    "889fe39092a2609729a74aee011ab9f0d540a5f831fc97bf9be7b32ca5f47cbb",
-    "b963885e5a55a7d51116aa95c3127f9a7d8413ccc31ec7fe58947f5000217df3",
-    "090a5f5532f01ee0a7f12c8ea105e6a386160a78b323f6f2c50632ddb1e249fd",
-    "9b95caf7d3a843f73a1448eb25078624b832d7b5845384e5f02fd20ee62b1c26",
-    "c002b71e0411b306fa4c82d0e0079dd3394d21602644e01ea14bab2f769504bc",
-    "d7fb9faf172b744a42eb731693e628f3fc96763cbf85028ef8cc7ea5447d8907",
-    "eb55d8d209f0fdbfb36d7576b4701e406d09c37b81e475f4c323b01a301f317e",
-    "d72d8b32f7ac12c07e468ee5f92710e17f9f05afe735593d42bcc325d4c0c0c3",
-    "9daebda21ecd94ba1f6c909f01f3952680c0f77143e8c9ba5f48b75066e06c3e",
-    "5e4f031dd2defa41b8686d298e4af5cbad75b666c4231e8a0b79f45baf2e90b2",
     "2432fd21c27eeb9707572a477f5fabbbe73702b3978788e3fba8962acf6aea79",
     "f1f62396cbb82920b56af5ae67ef9fd0f56872676f4d88e0cfcadc6fade7aaaf",
     "113fb3282cc32a412f03ed6b10809d7f8e433da5d188deb2bbef0cb01ad87ff4",
@@ -4000,19 +3974,35 @@
     "325d13e0a841c6cc7dcd7c5a71b0baaeb585f1ddcebb0c70bd68fd3b65952a34",
     "a8d10f7533013208e162768af4d5ce21dee90b77b0b4c852553347447f2164fc",
     "a18c3e6c2bc745a52de7e02fbdec47370486e5a7da651c973477c54a977f7fd3",
-    "2fad5e8b58663d2c68f7bcacd62c86e5b7a85194954cd4cfcb7330bb9d8ce660"
+    "2fad5e8b58663d2c68f7bcacd62c86e5b7a85194954cd4cfcb7330bb9d8ce660",
+    "d20a788c5449513d4b78953075dcafa5eb068af3e786b02994bef4f9b0bc97a8",
+    "8c7c0d3fb8be244798e27db865b0c2b6d8cb38a471019db8b66f4b99f667abda",
+    "e001f83f8e1b7d79eb0a277eebddfb629de6852745d3e20dcaac8e5d8eb3c10d",
+    "b2448c91cfaefcc958240a1df7ccf6321a7cff70a08332595144cb5da9844892",
+    "2a1a6f1f379d80cdfc94bc5b62bb7a2def59e8e7b30306d7ed2cde29617ce11f",
+    "ec494d13b921526c4bfa1068ff0d235e5ac5d3419b72665ee593c5c5f6391d24",
+    "f6809d41529af31f1fdcff27f1178b3ec1de32d177ebecfbd8e8db515d72eb9e",
+    "6ae9079a09e12f70dd9ffbe7cb93e723a8410821c1ebec5915fae7a4a0a3c71c",
+    "af1704507ad526a2bb140e27b2cdf1e29c7f18ad1b5a824f8ce8a608c8089673",
+    "c98d90e20d72970c2c94334dacca32de2f5fbc5ad1d86af781f9d5e0aa269b26",
+    "24cce7d7e916cf87db332a2ecca0352f057869941bcefb79e79fdd35179cfa37",
+    "445b3f9605dfcd3627d3498ee23de6c2f3f3a3611094597586caa6c7b15ecc5c",
+    "5d8d86b41730fe7b7380c78b71efa17518a266bb040932da9c56c3fd6468ffbb",
+    "061d7d1f0fea3acab76aaeee97e8a936934bb8321469e49e1b33b7d04e8a2aa4",
+    "a279df74af6a94b220af1f257e594e913a56172d57647e2c2b4567437574634b",
+    "0da9524dc9ea548ebdd1b17165ad61c143efc835c93313264746f647a7ac0a0a",
+    "c2038888860761dfe04042ed159827ba5cd30398e2da2942a6173b19da79142d",
+    "daedf17b724ea5b486785eb4d60c5487d9128703f3f5b72e8b7c32c784b69c3c",
+    "8d059b8727297b4dd9661bf2af4d0e641d7e6ecd4b2c89fd9545d7595cde2016",
+    "aecb4bb6dda82c8e201724649d2b59fb333435dc2ac82e9886b88336d1fdf06d",
+    "3053a7cf73c566245a46699ce032a752210e79f8562a8157b4ad6b6e06f75a2e",
+    "9d83884f407c81e2f84961c063a1124a5f9535fe2cc77de7a04be04ee224414f",
+    "8c0ebcc940f81b90bbcaf0c7f7df52e731f151ecc1a73636f0815e628b1657d8",
+    "a7d19a86b28df33c2bb967435c63cd0a9a417ba037a760c8dccb046952ab11f5",
+    "56f1f7dbe448cd9d84ee7304a0c339c6d08f7cecf2e40a5c6f061c1503295210",
+    "12c1dd2dbf71b70eee5ac98ed01c92377d42c67c921f2f0a6c86f442ab682491"
   ],
   "title_hashes": [
-    "c371054e6f19075b4b7dc2d0e1567e4d7d059a7f75b907e6bd4e7bef34c01152",
-    "bb2ff90926372dfaef89c1d429aaff8bc5ff12afef95e2f92cec69149253a31e",
-    "d97b4ad9634f0d96e85244982b29ab6a39ca580ef364f0486e0c16b40109fada",
-    "098a4ff66b20ee6130758293bb23283111a6b72764fdd921d21ebee91da92de8",
-    "440f245e000904708fd28b0ee19afb632b0f75491f9ec779b401d1ee81694da0",
-    "c8919e6a70e1f6f6e6acfe9ecf276024349346b55523a299ec7b9b053eb0a316",
-    "2c9f4f187de0f96fe65ec0745eee6697cd618fb6ecdc1e8c2d2c193b8e011535",
-    "e5db0287016d96b685b90f3126f64df8e802d48ef109eb783abb24c893137c92",
-    "159c7712d0ab0506d7bccde5e32fcc63452b2589614bfb082715423541fc66bc",
-    "7e24f079fedca16078edd64428bd23eaedc542a79637f72db3d88d24847c6013",
     "c07883c73224fd67d9f8701f4777b061c36667971e489bb073b52bc3a5c0c5a2",
     "81d9346bd674f30f9d46bacd0c8a1e192e3f9a85fcd1935c66d8f17a7b99c80b",
     "e2f3e9b1d5c3f0ab75f247c0881f200570825fe980d8bf19100941987067af6f",
@@ -8002,37 +7992,19 @@
     "2bda26eaeb3b3f83ba334f33444d8707f25760914d4cbe41709b7a36a780c1e6",
     "b7325e61ed00fee5a5ae1397a99af6d753ade9251a9494b0be2e147a3c3f1f45",
     "57df60b8f7a925428f18ab5896d82178d0178ac71be29620f6628458cd09be38",
-    "abc284c47560f6679eb45e4a82b4c6306d84ca191fc0edaa35a61ba0388faeb6"
+    "abc284c47560f6679eb45e4a82b4c6306d84ca191fc0edaa35a61ba0388faeb6",
+    "b8eb2a4ff8c25e6293173b3d79c2da424a603f3f616daece222c19c5708914fe",
+    "379f0d09ea98ce20118d0b06be688b72f9d1d520d48f42de14f0824aa884bbec",
+    "efcd3a0aa2fb90c468e7b8f8a7cd79b50f7798f98dea81840327dba820dadb4e",
+    "fa2c129289eb1728cdfb8baf0285f5133c7b51eff7f6db27d3b6454de28ef00d",
+    "0e6efda4e2f310178b30d39dcb095ad4e102bd215293157f1bf4a46773fd6ab4",
+    "a81879de90f5e567cc97dfe3256e3478143cc27cee1dc8e95f3fccfef7f7b80e",
+    "e831a4c347336573d63d2f1811fc12a605827cfe69451b76974f3013bd740d92",
+    "3312b6c5055f791f0b40570a36df9dd1a591d04d468a5bb7712036b90fe0aa30",
+    "36e79b1e9b2eb79b437a84f41a31e18abd237415fcbfc94a470768599d352aa9",
+    "66979a04ffc14624be00c4fd5a449fb3ea024e5bb7db819c78050814f8a66d8a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "지디넷코리아",
-      "title_en": "덕산테코피아, 공주 GMP 공장 완공…의약품 중간체 매출 확대 박차",
-      "title_ko": "덕산테코피아, 공주 GMP 공장 완공…의약품 중간체 매출 확대 박차",
-      "url": "https://zdnet.co.kr/view/?no=20261126134844",
-      "ts": 1795671305
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "TAIWAN’S BENCHMARK STOCK INDEX ENDS SESSION WITH A 2.5% GAIN",
-      "title_ko": "대만의 벤치마크 주식 지수는 2.5% 상승으로 세션을 종료합니다",
-      "url": "https://t.me/marketfeed/1085695",
-      "ts": 1795671307
-    },
-    {
-      "source": "인더뉴스",
-      "title_en": "한화에어로스페이스, 누리호 모사체 해상 80㎞ 운송 점검",
-      "title_ko": "한화에어로스페이스, 누리호 모사체 해상 80㎞ 운송 점검",
-      "url": "https://www.inthenews.co.kr/news/article.html?no=95066",
-      "ts": 1795671392
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "\"美국방부, 젠슨 황 복귀시키려 엔비디아에 전시법 압박 검토\"",
-      "title_ko": "\"美국방부, 젠슨 황 복귀시키려 엔비디아에 전시법 압박 검토\"",
-      "url": "https://www.news1.kr/world/usa-canada/6367136",
-      "ts": 1795671394
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "日本央行审议委员田村直树：预计全球人工智能需求将保持强劲。",
@@ -11504,6 +11476,34 @@
       "title_ko": "ECB \"이번 회의 금리 인상은 필요한 통화 긴축을 앞당기는 조치일 뿐\"",
       "url": "https://www.financialjuice.com/News/9869391/ECB-A-hike-at-the-current-meeting-would-simply-frontload-the-necessary-monetary-policy-tightening.aspx?xy=rss",
       "ts": 1795696425
+    },
+    {
+      "source": "데일리연합",
+      "title_en": "한국항공우주, 기말현금 609억·현금여력 0.8개월로 단기 유동성 압박",
+      "title_ko": "한국항공우주, 기말현금 609억·현금여력 0.8개월로 단기 유동성 압박",
+      "url": "https://dailyan.com/news/article.html?no=785687",
+      "ts": 1795696451
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "ECB: The argument was made that although second-round effects had not emerged yet, monetary policy needed to act to pre-empt them.",
+      "title_ko": "유럽중앙은행(ECB): 2차 효과 아직 나타나지 않았으나 선제적 통화정책 대응 필요성 제기",
+      "url": "https://www.financialjuice.com/News/9869392/ECB-The-argument-was-made-that-although-second-round-effects-had-not-emerged-yet-monetary-policy-needed-to-act-to-pre-empt-them.aspx?xy=rss",
+      "ts": 1795696454
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "ECB officials had concerns that the 2% target may only be hit after 2028",
+      "title_ko": "ECB 위원들, 물가상승률 2% 목표 달성 2028년 이후로 지연될 가능성 우려",
+      "url": "https://www.financialjuice.com/News/9869393/ECB-officials-had-concerns-that-the-2-target-may-only-be-hit-after-2028.aspx?xy=rss",
+      "ts": 1795696513
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "ECB officials saw no clear signs of second-round effects",
+      "title_ko": "유럽중앙은행(ECB) 위원들, 2차 효과 뚜렷한 징후 없다고 평가",
+      "url": "https://www.financialjuice.com/News/9869394/ECB-officials-saw-no-clear-signs-of-second-round-effects.aspx?xy=rss",
+      "ts": 1795696515
     }
   ]
 }
