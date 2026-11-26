@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795690521,
+  "updated_at": 1795690671,
   "id_hashes": [
-    "0d1cf7d342ed66b3af51ca4f94a5d456676e5658eac3d870ee25eca7989ed6cf",
-    "39fb55093171072e98ca3f1dff4812cd9991f7c55c140a14fed30bfe1b2af663",
-    "1d61edb9571df9b6873cc65f0c7983dd63c16fdf9c0d4e04625c3cf77fce7f3c",
-    "e05a31e50e380f57959966ad6e97674e8ad62b327aba98fefbf8eab2bd89cc71",
-    "770c0a9046c8ca685f66d0e480f967f0d6b7426b591f606c58e87a8e572227f7",
-    "796cd3978dff8096b637d0e3b1a642c91548f8df13662d0e3c955927b3bc1ef9",
-    "dd71b98366a794c05b54eacb033f12ade076f561c07fc91639b80dcc92035ef4",
-    "0ad1904bbb6334a0fb7f5a11515671881c889b3a9df5f4f914ffed97e0cdb4e9",
-    "4515fc162fca618308b53e17b814efef50dfa5cb42ddafa77ea8d823b9ffc269",
-    "8f39bd6e58c1aac50a49624abd3191115ba14ad294b70c73d5daba63a3f0a58f",
-    "732857e6f9e45567c7acbc21cb060c0a3c92016a329e991ab83d82328c31cdbb",
-    "d1eb48834eedd122e0f0e32817684856da79b7d75ca616fb3af10b6a9e92b4b1",
-    "bc72fcf214e6eab33ddf1cfb992f22bf4ad72d3b499e6f4c2da427c0346c11e2",
-    "0c162f58962385aa9d509f39d7de6ef828f8846a1d75f09e4eda7b735ed4e1bb",
     "1c5b4d045625c0e8bc06463650308dfcfee4d902176f4a9a8a013f6d09e912c1",
     "b4d25af7eb3ece0704763de9153343b59400677b1aeb4023847369c18dd21458",
     "b8267a19f0d7b6dfa6b0101a1dfe4f4fa7d9d7747d6d87bd21bf8f5493a803ba",
@@ -4000,21 +3986,23 @@
     "16d8974a127235a8a67c44096307bb0bf35e13606b7736634fd699f02283f4c0",
     "d99ba9a19e6c368057684b43895c7f06ae527bb4f225899711b9b9d93f7e9647",
     "bf1e0b3838952a903fc6d8d003719e0407aa0df8ae0c38f64c8b91b7ec6f79e6",
-    "10a48886c710713ef60b93b890f53702f8c83ad1f33cf5c63e2da7b4aff48fa7"
+    "10a48886c710713ef60b93b890f53702f8c83ad1f33cf5c63e2da7b4aff48fa7",
+    "27cf9454412ef731948c4bfc42af4eb04e84292b3634fd5a561c15124d0681e0",
+    "abef69db976f4f3301ee7189660c8177fd35174c56ea6306196a4fe553afae44",
+    "5ca98799a4cf7b901d9d0327e637dc78c895961442d04ed8efe9f9f45b89e612",
+    "824ffcdaf4067b34d3a37bbbaf83fdd6e97a6532ea1535cd2f03af705373527e",
+    "afb6b9455478180b1c99db764ded0810f5b5e6e8fdb1e4c01a7978789369ecd2",
+    "c57b9763a63cf92f38856ed0e14c9e9d30ef24bf73c7722fea7bf1281cecfc24",
+    "acebd05b1c6cd2704e22fef2dda18a7b46a33e601b072fb4ccb9828ae423a4ba",
+    "c8d038bff8f99566cf4308fe8fa60cf2ef41f16f51ba68753aba8446064fb1a5",
+    "ca75c52d88881b715ace50e138c431de5d19e4bce07cf7900d2d1e92c2170b59",
+    "f660db11a191496d384ecc323dccb6cfcc71d2cd6eb79fd6dadc2348fc3340c7",
+    "9dcaf543689766efc0b25c31f2c4ca40b36b9bfb99f5047c6bf44d24f6d62240",
+    "41c4a9ce079090f6002062904c8c193b1ec5b37a8061408fa65d41560c4fd473",
+    "a8439e6bc2370036bd9f275a565289fba9465fa8b63a772cff7e97f58e8f1147",
+    "bd762f1de3ae385c447be4551b75f6c22aaee059dae46ba8c9d33f4177d5a801"
   ],
   "title_hashes": [
-    "2a0cad0ad30dddf292b2b3f9cc5247f8ba2c785db6c977d3427e12c563da320f",
-    "5dfdd021270b53e8b2378d0c591fe0137a1c6c4cc005a94ab53288dfd41ecc9f",
-    "0e627013bc8d1bed573d6c9a06f83902b68244bf03d90d88206b98cd163e08e5",
-    "7cdac4a3607040de732140d73fc382273f1ee66654935f78e804dad6c3c01456",
-    "508c85e5fc6ddd9a09bf8d997b18c52e15c7e0691fa2725677a630965ca5dcc2",
-    "4a0f0f9674c491471a5faf8dffe7fc666f9986f4f17d1c64022a03c4d92bf37e",
-    "3228ac24f1ede5073b6ffb4c96ef05d08229214c86134f4ddbb6e73c0caf213c",
-    "d57cf891aacf291935432e67519d4edfba9a0ce282a66fa9c926476d6ae1e6be",
-    "3629da421448a2b9dc6a1fe0ced4275d3837cdfc1c726d8033b61bce93a3f97e",
-    "58654d31979694e65d7dece8633853d7709772408d420cb31490d2f31b419513",
-    "2e82a673f92638df563f12c35bc6ceda60f3ed61eef786355b74040ac8f7a402",
-    "70719b4adfdd29e2510e3d073385ac5d58c499f8c542294ff41b00d0c2603c24",
     "81fdd1423d1414936bfbbc03e3330052d3688974739629391d9cd85203219d1a",
     "d9881b61c0af53aa61b781b5ece30e51c369e708b962f6e87ef9dbb315642285",
     "65ced70d79aac906364fc660f9013de47691863e07d1a062b164412a8c705ae1",
@@ -8002,23 +7990,21 @@
     "60c21ee29cd43f0f69b48a4a8f43451cce6e517375f076b3967152decfd013c4",
     "b15aef68138297426624341d8b96772107d3036a051c574801440ec59e4eee2a",
     "98f599dc578f8224baa941ff39edf98cad8ad9dd693634aa0e341155492543bd",
-    "013fddde3c425a421231e2084508e7fafcb99a922bf42431c9767f49b8473c18"
+    "013fddde3c425a421231e2084508e7fafcb99a922bf42431c9767f49b8473c18",
+    "52919467a638cd0c7525a03cc3eecc3a9cd8f96a5edbfbec7874ea60e531a4b9",
+    "9c601d83c04edd68dc4343d27a46cb494302d68e14309da2bdbf44c951d27333",
+    "2b7c4c56ee9df9837e9d7397b8d3b29e3a5e7d5cbdd7dda4f72e2b83c3b52f0d",
+    "6d265bc133bc0b191220507b7ae983703d9df020de3f4491c6d59846a6476da8",
+    "fea98f0f86a890f99c4b11aa32b488e91cb7ea97c78b735bd60f43a20d9496f6",
+    "e64cac12ad97796b04ce1b0947e02ed7c54e1be481beef3bda9814426d472aa6",
+    "b9111265f43af345a977ee6ce490031611b282851aba11bcfac2026ea6d80c4c",
+    "4546e8334941aa5c58817211156a6d97d82532aef33cd147a76479b63a7b7640",
+    "1242510e38526cfd4f4419d3db0ccf897918f49b23ba62bc7242599fe992b652",
+    "d6a3123cca6ad8052ad59a55204b1983adbb1707484a5832898062a00af20263",
+    "fe293205ad78112533bf38b65c4e9bf3be75b5d9698a53900e90f002ddb1c1b4",
+    "67c50ffc99bfa0162b49134bc9b01b26d6c9af666819115fa4ecffecfeae4189"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합뉴스",
-      "title_en": "무역위, 중국산 PVC 서스펜션 수지에 최대 26% 반덤핑 관세",
-      "title_ko": "무역위, 중국산 PVC 서스펜션 수지에 최대 26% 반덤핑 관세",
-      "url": "https://www.yna.co.kr/view/AKR20261126076500003",
-      "ts": 1795667577
-    },
-    {
-      "source": "TrendForce",
-      "title_en": "Trump to Join TSMC’s Arizona Expansion Ceremony; Jensen Huang’s Possible Visit, Fab Plans in Focus",
-      "title_ko": "Trump to Join TSMC’s Arizona Expansion Ceremony; Jensen Huang’s Possible Visit, Fab Plans in Focus",
-      "url": "https://www.trendforce.com/news/2026/11/26/news-trump-to-join-tsmcs-arizona-expansion-ceremony-jensen-huangs-possible-visit-fab-plans-in-focus/",
-      "ts": 1795667581
-    },
     {
       "source": "MarketFeed",
       "title_en": "DAIWA CAPITAL MARKETS TRIMS ITS PRICE OBJECTIVE ON DEERE & CO TO $702 FROM THE PREVIOUS $770.",
@@ -11504,6 +11490,20 @@
       "title_ko": "Elon Musk의 Neuralink, ALS 환자의 뇌 임플란트 임상시험에 대한 FDA 승인 획득",
       "url": "https://www.benzinga.com/news/health-care/26/11/63661320/elon-musks-neuralink-wins-fda-clearance-for-brain-implant-trial-in-patients-with-als",
       "ts": 1795690520
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Exclusive | U.S. Prepares to Raise Tariffs on China and Other Countries",
+      "title_ko": "[단독] 미국, 중국 및 기타 국가 대상 관세 인상 준비 착수",
+      "url": "https://www.wsj.com/economy/trade/u-s-prepares-to-raise-tariffs-on-china-and-other-countries-37981740",
+      "ts": 1795690552
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "CHINA SEEKS PUBLIC VIEWS ON DATA RULES, AI DEVELOPMENT",
+      "title_ko": "중국은 데이터 규칙, AI 개발에 대한 대중의 견해를 추구합니다",
+      "url": "https://t.me/marketfeed/1085842",
+      "ts": 1795690556
     }
   ]
 }
