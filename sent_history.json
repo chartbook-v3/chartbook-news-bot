@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795725806,
+  "updated_at": 1795725953,
   "id_hashes": [
-    "f9f703ac7e0cf4936f9af9af008047bc61e635a1cab18b8a06b671ffa37c45e4",
-    "90905d2a7410cbc7d80494d229ba56bd569a88506fd02a98abdf4b50499a687d",
-    "8648326c22397af0b2ce3197c9ff3c389f9aa2aca045d7cbb5a9f31690246f47",
     "53d25b6a7b662a1f78b80782df898f35752e424403dff75ff115f8ed1ac86d31",
     "8374380736c4403fed4526dfc8f7ccc9497ed9768068a8db60fc5a4deba56e5f",
     "2b0e36316c27ef41e72619d923a3b296c58f1cf2fabf79a1b52bd9de41070189",
@@ -4000,11 +3997,12 @@
     "0833b494e48250257967839a056a7e6516a52e72157e9ae20479a188fa4c815d",
     "a1a3518a8eee1005ac849513e1082af61557f196af6abf2483bed2b45cc1b56b",
     "7848562a7dbe554de285be00a58835e7d887255cd03dbff91e9d0a82cfc0d558",
-    "b3271d494965215b7b2c6cf4828b2a0773a86c97c01007b6bc80af20948c2d44"
+    "b3271d494965215b7b2c6cf4828b2a0773a86c97c01007b6bc80af20948c2d44",
+    "6fb01a2bc8202e59e5e4d52a0a594361aa25b02b1595d5b4aa768c1ea91e13e1",
+    "a5501eefd8074803173f66b7b5eb1b927f88a289802e5dbf3382e1e7bea28d1f",
+    "75ab23945f2b2fe5eaf6ccc6e2345ca97d204208aba61cbbcf5da8b47d5a8a2c"
   ],
   "title_hashes": [
-    "fa4e65616baba6cd785c384e89fce078edbca225c7ef70a50d73d6732489bf16",
-    "ad67a160ba9a1edfa560d0b01ed06366e100be8bc354a8d8fef8944c63cd1a50",
     "413efea03ff6d24473c67cded21b7fe8c5656133622e69dc1ec19d00a1ac6327",
     "8dbfa80997701f091c0af33fca0bbcb8a547f61d676834298197d4cd77b9d988",
     "39f126f8428c2720fe6e988d40f24c98f9c289960c6af906ea696433e99c1662",
@@ -8002,16 +8000,11 @@
     "b281e6e855ea77d052f2ccf739b9067a4223892c5304d6bdc99c29eaac1afd8d",
     "602f3c2dfa7eba2351acb33dc1a4b58951fad9c51080b9a8ea99b5dc8dfec51f",
     "9eb4927ff2e295b8924e2a65e3a0fb84713ad8f361bb30932b97246a56b93e68",
-    "6e4feae4dbd5ffd975f1f1da4c1b557f0f970afbd890df59d800812efed2e8b9"
+    "6e4feae4dbd5ffd975f1f1da4c1b557f0f970afbd890df59d800812efed2e8b9",
+    "65c8933144935aa01a2dfa3145fa9e9ec3f549ae6e3b7a3cf8ffbb7b27e19143",
+    "226914d1d42103d07917ab3fd09b441f64215c9748c20c0c152ca50a36327bfb"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’",
-      "title_ko": "트럼프, '중국+1' 관세로 무역 파트너를 화나게 하다",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/trump-riles-trade-partners-with-tariffs-that-undercut-china-1",
-      "ts": 1795680908
-    },
     {
       "source": "이데일리",
       "title_en": "[단독] '허세홍의 통 큰 결단'…GS칼텍스, 기본연봉 20% 특별격려금 지급",
@@ -11504,6 +11497,13 @@
       "title_ko": "OPEC+는 걸프 공급 차질과 내부 불일치에 대한 불확실성 속에서 현재의 석유 생산 할당량을 1월까지 연장하는 것을 고려하고 있으며, 이라크는 더 높은 생산 기준선을 추구하고 있어",
       "url": "https://t.me/marketfeed/1085991",
       "ts": 1795725805
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "THE CAPACITY REVIEW DISPUTE AND GROWING INTERNAL STRAINS COULD COMPLICATE FUTURE QUOTA DECISIONS, WHILE A ROLLOVER IS EXPECTED TO HAVE LIMITED MARKET IMPACT AS PRODUCERS REMAIN CONSTRAINED. THIS MIGHT ALSO INTEREST YOU.",
+      "title_ko": "생산능력 검토 분쟁과 증가하는 내부 부담으로 인해 향후 할당량 결정이 복잡해질 수 있으며, 생산업체가 여전히 제약을 받고 있기 때문에 롤오버가 시장에 미치는 영향은 제한적일 것으로 예상됩니다. 이것도 당신에게 흥미로울 것입니다",
+      "url": "https://t.me/marketfeed/1085992",
+      "ts": 1795725889
     }
   ]
 }
