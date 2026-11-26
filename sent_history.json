@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795704084,
+  "updated_at": 1795704236,
   "id_hashes": [
-    "b112a18e4773a0a56ebc4c255b6d9ab69e55f1912f4bf319b3ddb94fe72e3631",
-    "39d64892cb05e47deb6343184b5cf021e49487899f0b8674f141c308d066106e",
-    "55e604a27d867d05af8cf1136c2c8196689a057deb39d08e9a7c951576189377",
     "6138252927cfd5fbe3dd41c3bc148ac8bcc659480f6df2f0d94bd1265a3fab5b",
     "2f987ca828e9cdf904fc2f1bf90e2f7f7a7b48944a9a564badd7d0dfd2e77724",
     "e956fbf494971f31f650d15e861f929e7e349f949086d95654028e0ddcdc5612",
@@ -4000,12 +3997,12 @@
     "6f778f126bc52d491852b1f71ddf3ec2a427427c5a524917cc76128edf36b2bf",
     "dc9eddf99f9851b4ded089e4a93289c2c7e39d2f2c589ef5e55661fd13254e80",
     "fd1b289bed68e74f71e1a7b84731cc22356751406e8f1f0fb3c8f058558f40b0",
-    "e2cc42cdd0af9efaf98b1f8e7f30e768acdc869ce3a7d78e208db303f6d1f9ed"
+    "e2cc42cdd0af9efaf98b1f8e7f30e768acdc869ce3a7d78e208db303f6d1f9ed",
+    "14774530e12b40e694039626cb2cab341922980067d1fa2b3cc029dfc11c4409",
+    "565f7bf69f4903ab403502110abbc213cde949a020f256c0766a19ce032662b0",
+    "5ae2f11b5f13c0e807423ac5caf801a838c7274320670916286d42e1baec4ac4"
   ],
   "title_hashes": [
-    "7caf109487db4898fdfb298771ab10f6b278a490a15ec30d793da7606203bdd7",
-    "c8925afac042e895eee3b4fdb53a001e10e33ea8157f579d2f10ffe2aa27e0cf",
-    "19d44ee9074886301e4acbd85426cc2598bf87b5b31413249e3f423e44e4346f",
     "d45cc1400c2c6e1acb344e1ec3cbebe30824b1a764345d565f123ec2d6b7b5d3",
     "995f5ce844ce5356225a6929ceaa0bbd078a2b0adfb64440c4b8c879bc0368ff",
     "a3ab9b30d6dc5e8bea5ce71297015b6790439f3ba1e215d6e6c3f3b7b3ed1577",
@@ -8002,16 +7999,12 @@
     "c03293d903cbd38a82da61b2e93de5a2b173b86f51194509f43040f278c7d3d0",
     "1f4354ea6f20907b75e2dff8ca463e8ec85a14b86a0d4be4654181ec6e25dc0d",
     "37d98969fe3b27bc789d28bdd4eaaf461dce6ed3337e79dfdc16fb9bcc3a2baa",
-    "5a8bb321b5d4104ffa45a979ef0e366ed9731b35a7bb717696d5619fff4a2dc7"
+    "5a8bb321b5d4104ffa45a979ef0e366ed9731b35a7bb717696d5619fff4a2dc7",
+    "282dbf14c8f20ac4be67f2b65ab0a7353206037a9c34f907b40392f9dbf68ac0",
+    "cc4eaae940933246294537ce3ccce89d97b10a6091bce2d575b40086578b31fa",
+    "3ecb7dd6de4eae97f6f81f0fbf6f0c8df115d66e19218ca795b93675d584b05b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "UNICREDIT: ALL COMMERZBANK OFFER CONDITIONS MET; CALLS FOR EXTRAORDINARY SHAREHOLDER MEETING",
-      "title_ko": "UNICREDIT: 모든 COMMERZBANK 제안 조건이 충족되었습니다. 임시 주주총회 요청",
-      "url": "https://t.me/marketfeed/1085715",
-      "ts": 1795675795
-    },
     {
       "source": "Bloomberg",
       "title_en": "Vietnam Weighs Delaying Nuclear Power Plants Beyond 2035 Target",
@@ -11504,6 +11497,13 @@
       "title_ko": "불가리아, 은행 및 보험사에 33% 일회성 횡재세 부과",
       "url": "https://t.me/marketfeed/1085936",
       "ts": 1795704017
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "石油分析机构Rapidan预计，OPEC+周日不会调整产量目标。\n\n“鉴于基础设施受损，以及冲突持续时间及对产量与出口的长期影响仍存在不确定性，我们预计各成员国部长将维持现有产量目标，并将重大配额决策推迟至明年，即202...",
+      "title_ko": "라피단 에너지 \"OPEC+, 일요일 회의서 생산 목표 유지 전망\"",
+      "url": "https://wallstreetcn.com/livenews/3206511",
+      "ts": 1795704111
     }
   ]
 }
