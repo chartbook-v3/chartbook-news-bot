@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795686962,
+  "updated_at": 1795687114,
   "id_hashes": [
-    "07e2422b0998b4e82dd22d04752a79bb51be1628820f682abc448b429cf142c3",
-    "4c5c0e6f48fb6f4d247029bbb20415a2a0baf09fc8f0ed3e3115605d0f70e6c0",
-    "99ce3602586bdc848d682ea67ca0a84e1ca70dbdd3e36fe58c2b920f7461ef9d",
-    "86b784f12768da22eeafbb422fb610bc11a79148de1080737d04ec1259a3a475",
     "22cf1509423f8b8f67b0d0e2fd6d463c221297e7c56a188af41797528061368f",
     "41d08ee0a7b3fcebb40624655f1288b642fd16f3243b0295a950c925f38494bd",
     "23ee1ee0d85a1b55280b394ce0761f6ac02633f8ce68d6a1faba3462d81d5a2f",
@@ -4000,13 +3996,13 @@
     "92192da3a954359a96208134bd0effc71f821ebed50268d1d8f2578057c96896",
     "02a0132ef29fdbdc18bad89cb6cebe6c0af635f2872f212c953f762edef17cd5",
     "89a5199b4eebe098e1bea891a7e99338f2112154fb8aa9aef3bb228ebdaa6dcb",
-    "02ae935a26c7e67a41e9940a7488f3aefc5edf173256c063bc236a2ec68a9d15"
+    "02ae935a26c7e67a41e9940a7488f3aefc5edf173256c063bc236a2ec68a9d15",
+    "fd6a825df0355818b349e3f1bbf481f68ddddb43f65861a956c16e9f0beca6f6",
+    "93eb56c1a41725414e2d291f9a7ae85da65eed95d530a2a7c0210108216db831",
+    "9da09361c7ae315666c15ae927f44316461ad87f9ac91e219489cdbfefe3023c",
+    "c8eed2d34ba3c9b53d267e43a99251bfc2920744489a00499b6d5565e31f00ca"
   ],
   "title_hashes": [
-    "e254275cbf1c0968941f776bbe07c2b3c30a72df976ac626525f761e55844659",
-    "0bb21b14a9d6f6a4579ea5a433d8d0109c09b9a0a02edd3c86e462409ecebc9a",
-    "38a9afac0f8409f6bd0af268e0d403a1fc7a08c32c04f824b531230e8dad88db",
-    "a11a0f67daabfb44e613a88cc2204982e7313b8cb4119159a0403e5bdd3769ed",
     "1cb811ce44df3ffb588892d6078348ee367776fb2156f8216ff185dad239a15d",
     "8b816ceb6e5ca220aeaf26ac17a01a2b0c4d0e1c4cec0c0e16919609488b0568",
     "b765db5b38564094dbbf051c695336a4e164c357b8c2766112a3d10cb40cc0a1",
@@ -8002,16 +7998,13 @@
     "30c836e23496ea7d171ba7873fd056c3913995927c27421a833ef6031ef1baf5",
     "801f11eb959b9e69fd047557cdbfc6808de4273eb805030bb53371aa87d70041",
     "90ffe81bf76c6311736d19835b77ad25903e4208c64a8201c4cef4b4ee6daf5a",
-    "a77b37068434bd18a9cb2607c8068ccb2262d0356760aac0a00a89f5abd61985"
+    "a77b37068434bd18a9cb2607c8068ccb2262d0356760aac0a00a89f5abd61985",
+    "8ca75c69e4bb7bc6b1e855cad7bd9b381494f27168bdc71a6d685f22717d133e",
+    "4ba863124765fb3d8459b3c7289113e8df960f0fd6b05cf22cb0bf48ec4a546a",
+    "6d72e95d0b40e57306c80bb0bf986a10b3b147d3de8ca4fb2f4c5aed76163d70",
+    "273dfe423e4836ffbac78c9a9df8f278d93083314fb3b79cea0f936744ba25be"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "SINGAPORE PUSHES BACK AGAINST USTR FINDINGS, CRITICISES PROPOSED ACTIONS AGAINST THE COUNTRY",
-      "title_ko": "싱가포르, USTR 조사 결과에 반대하고 국가에 대해 제안된 조치 비판",
-      "url": "https://t.me/marketfeed/1085656",
-      "ts": 1795662865
-    },
     {
       "source": "MarketFeed",
       "title_en": "SINGAPORE TRADE MINISTRY: GLOBAL TRADE SURPLUS REFLECTS THE COUNTRY’S OUTWARD-LOOKING, MARKET-ORIENTED ECONOMY",
@@ -11504,6 +11497,13 @@
       "title_ko": "램리서치, 반도체 링 특허 1건 무효→유효 성공...비씨엔씨에 승소",
       "url": "https://zdnet.co.kr/view/?no=20261126184707",
       "ts": 1795686909
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Latest State Street SPDR S&P 500 ETF Trust News | ARCA:SPY",
+      "title_ko": "스테이트 스트리트 SPDR S&P 500 ETF 트러스트(SPY) 최신 속보",
+      "url": "https://www.benzinga.com/quote/SPY/news",
+      "ts": 1795687057
     }
   ]
 }
