@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795703136,
+  "updated_at": 1795703283,
   "id_hashes": [
-    "32a40739fb52996fe8cff837b572ffa55e1d89416b823bec4bf3b5efa2cd0172",
-    "3ad4d3e917e554b22506d1b9d4f923472da38793304ae9b075dcd121ce0ad931",
-    "043f2bd422e1b4c7dbe105f1e25a9e231dde878266efa316cd72ff65af41ece9",
-    "5328b582ad2457073a64f4abc32a0e5439ead46a720734fb2ff225762051730b",
     "c387c828b428e4ed7bb36b157336e74010678d64bfc51afb5164d9619b9e3338",
     "b9267ceda9585ad1c26bd266e46aa86d4b03b7d18281741bb849d60d01228028",
     "37726d30ef3a92af2ed408ec998e58d9acc2a63b26acd31cee704480951d42f2",
@@ -4000,12 +3996,13 @@
     "105b5f679aab52a9e5b511f3f5f37e984dd80353780db80d2c3609c71f7c529b",
     "2d54a286eae84c7ae6c523469d862591df650ebb7c69e65e2b1bcf8f83cb578d",
     "04449612e4507a94fb5674a684f50a698dc957bf27057fe9ee85dbe74665867b",
-    "4999dbfa2e3538c9cdd191be3c4976487cf2906108fbd80da829c4bf1ab62b4a"
+    "4999dbfa2e3538c9cdd191be3c4976487cf2906108fbd80da829c4bf1ab62b4a",
+    "bdc4e14c41440ced795b8525d1db5981b50a6995815d111315f201528091fb7b",
+    "0a3fe82b4c126d82588a392600891ae98063a4b4f3824cddf308af82edcf3571",
+    "334753270776b5ee4103e85fd730f87f5b652ca935ea88a332eb756bb5e8a07f",
+    "29776b7f0a84fb7080a2fd7bf771e8a7a76a8e4853bb675c92c8a86de7bb9633"
   ],
   "title_hashes": [
-    "e93f48db16fbeaea755016db9bb947767c3a97078417845412cf3c20c9091e3f",
-    "b451e13280cfe90edaba3d8cd4e14062ed1bfcacb6db118af1e02aec5db274c2",
-    "8d9e2a4af56802e9cc9a819ef61d92c01943bd784f79bd10f7b4897d56d0600f",
     "cc01a724427bb09f2b2da167cc60f6b9b7431deb8fc9a11f358db46c66ee85b0",
     "58bdeb5d9ab302f15c3afb9fe5516d6b63bdac2ce2982badb81e1d0e6daa1436",
     "a8099feca8413ea6a4d5853ebc64b9fe2b6944a7b0f158e38440a30b2bd38099",
@@ -8002,16 +7999,12 @@
     "ede66a9e7ed411045b63e5dac0e72236e8857d67ae53701c2adf99c86b35c391",
     "68564771bb23da9b960bbeae86c9555a82f2cb657b2dd8ea565297cabe60c5c1",
     "abae5abba377affc500808272e3b076c67ced1f49941a1de3a2d67afcd0ed0dc",
-    "e8d4098fa17af29b26c17973f839632f82b23472c96aa922a86c012bf0ef4457"
+    "e8d4098fa17af29b26c17973f839632f82b23472c96aa922a86c012bf0ef4457",
+    "f19ef28af93db840755acefe25c430f34a0127e15a3a355efaf2b5359615bdb6",
+    "796b62ba8619476084f4cd58c2b7dcfb4aa0f80428f674153d3ab8764a587235",
+    "a44b184c2577c8276fa74268cb330ff4c10ecb1931f9f27ce646cdde123ab984"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "코스피, 0.29% 상승한 4711.21 마감…코스닥 0.78%↑(2보)",
-      "title_ko": "코스피, 0.29% 상승한 4711.21 마감…코스닥 0.78%↑(2보)",
-      "url": "https://www.news1.kr/finance/market-exr/6367338",
-      "ts": 1795675386
-    },
     {
       "source": "MarketFeed",
       "title_en": "STOCKS RISE AS AI TRADE REBOUNDS - ASIA MARKET WRAP",
@@ -11504,6 +11497,13 @@
       "title_ko": "엠브라에르 CEO \"미국 항공기 관세, 항공사들에 타격\"",
       "url": "https://www.reuters.com/business/aerospace-defense/brazils-embraer-ceo-says-us-aircraft-tariff-will-hurt-airlines-2026-11-26/",
       "ts": 1795703135
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "墨西哥总统辛鲍姆表示，他与美国大使会谈，讨论SpaceX项目。",
+      "title_ko": "멕시코 대통령, 미국 대사와 회담…스페이스X 프로젝트 논의 착수",
+      "url": "https://wallstreetcn.com/livenews/3206502",
+      "ts": 1795703158
     }
   ]
 }
