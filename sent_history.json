@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795708419,
+  "updated_at": 1795708572,
   "id_hashes": [
-    "373364ed9c8ef3456ac7a959369fb6d395583cb082af50257bdfe63a0ae905fc",
-    "9042a15dfb90513b350e6220f0fe3956281e082f1b7456437753e198f12c39a7",
-    "148262ea06826bbf992512e111cea34d21eb297b029849c554dfa7c02fcbd164",
-    "9611ababaa9fc70c0f9fc86ff2784f8a9a227b31c443315e33f39396c89e3bbe",
-    "2f8b510d9ebbc07dbca094d98d40a0f719fb2b4096e97c333771280fb11fe066",
-    "f267a60a3151ffeb4112ae0567dda688811f327dab10d81d3ee1f4d5f5e4b2c3",
-    "615ffc61da314c39f9a669cd3bf3b44c993f202c8ecfd9b9903159020165ea8e",
-    "4d5a5143a18a101025b4a3bc94f86864a699996c1dd25283746a1579240cb2b9",
-    "2fbeb49a289fb74ba453be8dae4ba01a09df98c17443f4b76adbc3b0e8633fee",
-    "9d2275eafdc7e098058cc36f15fa1b189cbd7af5ad5a0dfb424339dbde764255",
-    "8d823280c44459e22ecdd27659d865571c3df51395e6dda1440221bfedbd438a",
-    "c7038a635dce8cbaaba6c34e68538a940bc65a12662b0314f29e3cc995db174b",
-    "27cd2c702ecee227264e1ffefbb549dd54fe5fa751f1c905b9e40e55eeca319f",
     "3430d838b87b237c304781861638c21d12e607e0cda051cd0251c50508af2c81",
     "d959932df98ec1a1afaabba968c90494b41814928c777d7514efdd25d8e5e71a",
     "f0199c166a0b9b8f7a981c6cb5ac14c24b98ad007b77458fac27bb09762b64f4",
@@ -4000,23 +3987,22 @@
     "f3bdc98e4abbe97ba898b49795d602e592050923d4b8ec7e822f50d6447c15fe",
     "eb7fcc6a71409cefe8e8adb3b152480710a32bb8bd96c12c6f18d4f53f907e3f",
     "b82821fa6948bb52901c1ecc73e30e7680728d7f7f6dcfdbd1bd4b1d79543c03",
-    "19a36fd2aefdb0e4abb0460ca5b8e70b063a8769ba2753b13551f8578811e192"
+    "19a36fd2aefdb0e4abb0460ca5b8e70b063a8769ba2753b13551f8578811e192",
+    "8e2701ed4149112d92801a7484acae192cf411cdbfd250e4b13cb9cc3ef186e5",
+    "c30e9fc71f21307f748274ee45c441d5e73b86d981ecf55cff9e715ebd47e4d1",
+    "373364ed9c8ef3456ac7a959369fb6d395583cb082af50257bdfe63a0ae905fc",
+    "d0d585f4b9e6b7c37c0a7d6e5bbba3b55b5d72f3e08eddeeca4ef83fc55ca707",
+    "3150a05707b13113550213a31f2c2dcdad416d4e2bd7e007f4c26a5f6865f673",
+    "d90c86d96e2afdc71d1a2c9f7953a08621cf78c141d0be388c9c70bc241c4dcd",
+    "4c8e9d6c74aa728b770a21f5a2b03408d37e5e50bec3911cd4fe6289cd83b361",
+    "7cea902ce5a1c69f3477ab904db59d5c49a6fd1eeeb310b57878fe863e0693cd",
+    "f97c6bb97f36cd4f21463dcae9ce297c472f1986db50b0fe492b5066c0d64620",
+    "cb5e1a0e66f5aea7c97090bc6515b34e17a2c283c4d4af3ef80b526bc4f5a64a",
+    "d649c4b639893d1c5188e76c656676f2091d74d77802aaa2e897335b07b8f75e",
+    "7c4769ab2a6345c29e463c299174a0d24d47f096c7e703e570082b6e4f7ee171",
+    "a2f3fe9d2cad77bd96376fe407a51a753cb8c47718c4653d218e1834279b052e"
   ],
   "title_hashes": [
-    "4d2f7cf3fa57fb87a8b460d8b008ffaa2118f74a8ec15ec73a4956bec9b68c98",
-    "d3c6a16903f39ed2b79c54e0166e14344471d65a6f3344369d9395b4afe085aa",
-    "1e804850ab9223622c56b218864153050c2d2eff1d529460b80b998d7b76a4ac",
-    "c1abc774f25a9bea076886414edc4dc59e9fbd6748d1e0c08a5cbe30450f70cb",
-    "49cb1665b1c15254940c794f5870647d7b7230a77a273dd79a70c645dfec6287",
-    "b945b4e2caeae4365f3998262897cd92c89809ffa192c8f5511640338be08dfb",
-    "3f2435cac56c24a20de8e715e9a3397dec7266dd19a415a857f2da289cb05ac6",
-    "512d0793a59e7b4dce2c406bdb611fb9777f8f90da99425ccd3c214983f03fdf",
-    "f53f3513690a0f5fe9b42fe20ceaf556aef1593d42beaec80e51465d3c8afef2",
-    "01d9189b7b27cecf1c8b2a605b91b12bcedce555f1b6f3f967a56b441c6e7221",
-    "77a772857fb59403018ead2391b1e60a82dbba8c1dd56c27178deb83c504807d",
-    "6cd0194d2955672ae95a7b22cc85435f981529eb867c589d58c0e9034c0da3b6",
-    "5190c49988afa8ff43b1072a0cb7320bcd7ea82adc0d18b99537295d053e9f0b",
-    "01c257798123c5e065fff770ed666ababb8f2e3ec016650699e1b6d415c4403d",
     "5bb5e0e104ebe1a3caab6341d2506fb0ce365a1109279ba2e56cd068b00b7b90",
     "47b17c9360e40f6920d9990a986b9d4906f415f690cb64e1cea215d79cd82df5",
     "85d3e615aa9400c0aabcd562c7b33dcb25bfaf115dd89be11a1cabcf813f1d1c",
@@ -8002,16 +7988,23 @@
     "271259388e6d9f76c97a2eea797e33b0fc41a9213ae3b9e75713c5afd56d22a3",
     "03e9e7bb2d4970637b5b14e6b8f00e9be8b37ed1fcaf4384bf38fff867b43167",
     "392596a70d94478893cb80406d642f728ed64c9c9291a9414a8e8898eed5d3be",
-    "ed3b82a56e748b4ac4683bee989ae299c6bd9a7f67c59abb20723af645af7d0a"
+    "ed3b82a56e748b4ac4683bee989ae299c6bd9a7f67c59abb20723af645af7d0a",
+    "6ff678d2f7408f955e3f7d2dcd73af6282b6401e886f26efe7597049ef388626",
+    "0a2ce60c6084b91d70b267c9a029ec4edc294b19459028c494d60c0349c05cb4",
+    "4d370079bdc88d32822991927bfd85c123fdd41137a63abbd4039e8cc90953c8",
+    "4da5bc8919d301d7909108aa8caf2858f81b2de6a7647b3fe1933744706867c7",
+    "1634751881b5374615c187122c8214201582d5ca5c72d00914a0aa23ca5df4ad",
+    "21832800b896909c5681beb053c42fcd3607b8f089a30a9da231ae5a6caa41c0",
+    "d36b7553588c3d036e7d8d79ad0897ab5205e6057aae3b86dd9cb864de7cce75",
+    "4a55a4c6d28144359ac3043e0e2a5472dbd6c33ead0897fbdc1ebfe860fba093",
+    "39e06c919d77c3254c2a86a1075d87efb29f9326677723755898104f3f1114d6",
+    "3d06f9c1d2d84acc68ab56775953f1d831da200381ccc25b7a27f417ddb335a3",
+    "4e2181c40f7108a848f1b423b358eaa32e97a433b345e452eb7e49d47e028d57",
+    "d18ba3cc1015eadba28b2bfbca714827baa0250b0c00bcce8674fa8dacca43ae",
+    "8470223f721834b884d0dff6c33d7e2d17828bb782c311dfb1ab3eb59225c06b",
+    "2d184581dfdf7a50742253c22739e219a2e981289eee0b135c8b3f1b59110c1a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "전기신문",
-      "title_en": "두산에너빌리티, 창원 에너지 취약계층 겨울나기 5년째 지원",
-      "title_ko": "두산에너빌리티, 창원 에너지 취약계층 겨울나기 5년째 지원",
-      "url": "https://www.electimes.com/news/articleView.html?idxno=375344",
-      "ts": 1795677622
-    },
     {
       "source": "MarketFeed",
       "title_en": "CHINESE AI DEVELOPERS: COULD DELAY NEXT FLAGSHIP AI MODEL GLM-5.5 UNTIL Q1 2027 OR LATER – RTRS CITES SOURCES",
@@ -11504,6 +11497,13 @@
       "title_ko": "AMD, 신규 RT-MLAS 기술로 레이 트레이싱 BVH 메모리 사용량 92% 절감 및 라데온 RX 9070서 재구축 속도 최대 3.7배 향상",
       "url": "https://wccftech.com/amds-new-rt-mlas-technology-slashes-ray-tracing-bvh-memory-usage-by-92-delivers-up-to-3-7x-faster-rebuilds-on-radeon-rx-9070/",
       "ts": 1795708365
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "NFTR Technologies Inc. Announces Completion of Reverse Takeover With RTRS Technologies Inc. and Closing of Concurrent Financing",
+      "title_ko": "NFTR 테크놀로지스, RTRS 테크놀로지스와 역합병 완료 및 동시 자금 조달 마무리",
+      "url": "https://www.streetinsider.com/ACCESS+Newswire/NFTR+Technologies+Inc.+Announces+Completion+of+Reverse+Takeover+With+RTRS+Technologies+Inc.+and+Closing+of+Concurrent+Financing/27404738.html",
+      "ts": 1795708509
     }
   ]
 }
