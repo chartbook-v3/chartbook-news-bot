@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795700920,
+  "updated_at": 1795701069,
   "id_hashes": [
-    "cd56f841e09625bbd17f51fe725588d071574153aec055d6acf3bbe2a96c46fe",
-    "fd860339bf8f0aedd8b54ec32f115b99e959410259793d076c2c244f870cda60",
-    "2ba5539abc8d3393810f3f81514f6be251ae6d613c4d69e945bae68c1af4c78d",
-    "ae648e85da8a76ae55c096590e85f03bd89792ff51dd50a3aa086804333a7a80",
     "ddef7fbf8a68878c1e0cf6f65443d0416e7831ce5417e94b54119e7949368be2",
     "bb635750ecbd6983b418148c4b9297d52853515853ccb3583a4061b25f6c1920",
     "ba1c7f997866e80c5ab86059524efd631c4308145d70b45a5616eca70c98ff04",
@@ -4000,12 +3996,13 @@
     "f0e707b7b549b96b9655b3ecb1caa27420853c6ef2f4a6fc68c8e26f78d4a7f0",
     "1c6b68dc33f862a3088f09c055c8e742070c474980c90d5f44001dc6a6da5d2b",
     "240d59cd43e171b6f8bde6bc55ce573424b2296b90dbed86d2521d0c1a398233",
-    "76cfad4f8b10dc2cb674a17092c6c9a805738bf11a849485032316866c1f5129"
+    "76cfad4f8b10dc2cb674a17092c6c9a805738bf11a849485032316866c1f5129",
+    "dd653c198ce2b655eacc09d7e6926274ce960495c810d712de2e904f8379c30b",
+    "cd30ad7715884aed59fe8826156685bc27948711175e2691a8dcd896534091fe",
+    "d819c3514fcd63f784c8dc6b34c9c12cf5c00f35345dbaa453ca36a238713961",
+    "8c8cd5765ff7453b0409d3554552a402d386846b24aeb6d7dfa48da1618141ec"
   ],
   "title_hashes": [
-    "1bb92575ab17a4753c5f72ba0c56b517e14ed722561aa960e0a2415c577986dc",
-    "7828bc0b8b26cddb61e9ac67a54be605f86a5c97b20189048a9428c178b0d045",
-    "75b287acfc71ce9f8d0580989bbf4429dca2af753d7eacc8c08f6e27dbaa3755",
     "e16a0a3fee57bd05c02791fb60b51e14a1565650ea588e81e2c6f5a2064bc256",
     "97c5e2109867ae07d58094605bb21f7399a6b8aaa2edaa8f29d86ee54b74568f",
     "1bb3b0914128dbbcfb5d4b3a40a4c31befb93786c067cf54d8bf18054109b377",
@@ -8002,16 +7999,12 @@
     "da402fcbab5a3b2e2d1e7333188e9345fc484cbbb631481908e5a82a4e0055c2",
     "29900b01395f8d454d94dda729db00958e5622f14d8b4ab04ad352bb96566da7",
     "155aaedaec9d63550e6e4a1b365c4a80445838f37c922162504d2b9fba08b1db",
-    "ee3e7e45e45e045b204e735baf01df00ca21df7f565cc534a7ead87e85e34860"
+    "ee3e7e45e45e045b204e735baf01df00ca21df7f565cc534a7ead87e85e34860",
+    "d36a31082136b95c603ff0e9fe030716ed371facd3db6209fd289efd0c2ac9f6",
+    "fb562446dbac377d87de7dd2ead6f080a7797f2e4742be835d3ad0d883238253",
+    "df453f99bea0aea624c3def3db1f9864c6a8da64a8266dd198cf3990ec4834e5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합뉴스",
-      "title_en": "홈플러스 인수 후보 표면화…부동산 디벨로퍼·유통 컨소시엄(종합)",
-      "title_ko": "홈플러스 인수 후보 표면화…부동산 디벨로퍼·유통 컨소시엄(종합)",
-      "url": "https://www.yna.co.kr/view/AKR20261126089651030",
-      "ts": 1795674456
-    },
     {
       "source": "조선비즈",
       "title_en": "북아프리카에도 전쟁 여파… 리비아軍, 러시아 군함 공격한 우크라이나에 보복 경고",
@@ -11504,6 +11497,13 @@
       "title_ko": "플라이두바이, 12월 3일부터 이스라엘 노선 운항 재개 (하레츠)",
       "url": "https://t.me/marketfeed/1085927",
       "ts": 1795700867
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "EU leaders set to confirm backing for Spain's De Cos as next ECB president - EU Diplomats.",
+      "title_ko": "EU 정상들, 차기 ECB 총재로 스페인 데 코스 지지 확정 전망 - EU 외교관들",
+      "url": "https://www.financialjuice.com/News/9869474/EU-leaders-set-to-confirm-backing-for-Spains-De-Cos-as-next-ECB-president---EU-Diplomats.aspx?xy=rss",
+      "ts": 1795701006
     }
   ]
 }
