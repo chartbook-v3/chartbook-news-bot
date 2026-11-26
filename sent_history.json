@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795694021,
+  "updated_at": 1795694178,
   "id_hashes": [
-    "63154d1e873b590ec6a171c04b8a011430ab1cbe334fed38dab367239b22931a",
-    "45c06d48667c245456fb57af8737740298feb983a8cf6a8bb63e3279c8287eb6",
-    "a299d9bb556179eede2eb99b274a9e466f3c74bafe8f93acb59c374a04c188cb",
-    "b918b19cd12b786d7dc3d35a62e2d62074edbf93aa75e490c83b845f58d76a4f",
-    "b9708bd3c3de91b67e15c0d9f4759ddd5299674868aa428beacf2661678d6163",
-    "fd646e27b64aec12a6449af42da78ca5a575af4b1f81044b540e8019bb816b8d",
-    "2c58ae359b0ce1d8521ddd6a671c699c18c95dd2ea7d319cb4bd43f6b6ebeee1",
     "e88ea5c35a31304b1cdb1b696264f786c0215c2a832cf5bb80ed8181c0a85136",
     "fcd3b746db8295167af1b8c78778770a36d78b5d31e02a1c7c83d5240358317e",
     "14740cb406dc78c87e4441997f21e151c1abc0110a9ad50a2da024bb07db24cf",
@@ -4000,15 +3993,16 @@
     "ac8735016168b0bf8eabf78b816f7fa86485e4d319b63f6737288c092b477cd8",
     "edc7831130187633216f4bf0942d71fc7c6dfd6d007e1a61060af309bb404825",
     "0797186a2ff1fb84bac42dba4ce05d1e2896f2aec55c1f6eb9476cf9b29a1d07",
-    "012ed99e153ac6e77658119a887a90c9c5a9a7132be71bba33378986d7292090"
+    "012ed99e153ac6e77658119a887a90c9c5a9a7132be71bba33378986d7292090",
+    "7448728c9bc7b05992b48ba9a923bdf82d39249f734f4722133e646cccc98fbe",
+    "32a0080d0ac5b31ad68f285047c21e754ab55ae7c6329cc712eb4b0b90ccf0f5",
+    "c33f9422d8f76f1855fb98993f0ff41206e2e879b891728d2d177a668a1c346f",
+    "4fde98a966a3dc2a88c75d8c96180e960c89393fab33f0ed3f324e295eef0d51",
+    "e180e38fc1fb2d01b1f28ac4a08e04837b5d9a553cc8e927db6ca7f41714696c",
+    "ebcb4e052df1929afce9afc74f02c6ded07e432fb987223ce19b6f8512bbb959",
+    "8ee182b6a9f6ab62143759b290d8fa153e75ecf1807b8b5e82ea5008da96ad56"
   ],
   "title_hashes": [
-    "597eb665639c57a9f163cf1cecc2fc823c093015d6dc4532cb05bf82f53c3962",
-    "d90fc930c81b4cb42179747176eb225ac677342e831bef429b980dd0e4702dce",
-    "9da1853a5531786360ab2cffa9e488b9e7cc36b028df796c82103a6e34a4a9a1",
-    "07f0ac4e774c389cdfeb1188606f3de39e790648cbd2ccf20fb8651ed534e937",
-    "90ec068158dbf5a81a14b07b566fe07d909ca7ec2691d29644baca3045e2e61f",
-    "deedb6a9937a0b632f0141e76e21b9ef811916d18c7ee3145d03bf626ec61fe1",
     "4e57adb0bc28349fb1b84b2d0df8bab040d890862fa03e929d2bc3210a2eeced",
     "99a67e8fdc1de31fa4397377e5ccf1ec34f438032a20442ed4425c3edf272085",
     "fc0c1389308f38fe564d39aacbfab735f31450063d592b963f24775ff80f498a",
@@ -8002,16 +7996,15 @@
     "7502db54f6be5f399023f41e439e1aa4103d3bc4a49b4413b664c10d3a6ed766",
     "a84f8a316d158b9b10c3332ba1fe0b69df64e4a1724716c25ba6bdbb92bdb963",
     "5c551db2fa7d093c8077ac240fcfba59ceae6585a056c59eccd6b8b0aa055c76",
-    "811d9ca4a3a37e8d185b87f068b3082edfc9714fcb22570c7b5d5d281d0d7993"
+    "811d9ca4a3a37e8d185b87f068b3082edfc9714fcb22570c7b5d5d281d0d7993",
+    "de71d141aad5282ad1464da18946a0b29c162d36af59f4171be5d03a21461668",
+    "d6570458650e6aea38f9777f3ac1eb5d0d60b11434bd9610cb0a98f7935cf5b7",
+    "e425e8ae537f9f5ac941dcf3606579aeb2a56a9db5ccec58bff4c1bee7ff89f8",
+    "0fcc545c9daef9a5675d7c2e92c08e135770bded71f8448b417bfd50ef0cf6c4",
+    "6c83d60d63c7d1ab9a1ffb6546f9992b77c083d38e684e75d9d8dd3100346d66",
+    "7df82ebf20a569f0b1be6df46046b6b593d48687ca9debc40a03ee112cd96bba"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "RUSSIAN MILITARY EXECUTES MAJOR OVERNIGHT ASSAULT ON UKRAINE, ACCORDING TO DEFENCE MINISTRY STATEMENT",
-      "title_ko": "국방부 성명에 따르면 러시아군이 우크라이나에 대해 밤새 대규모 공격을 감행했다고 한다",
-      "url": "https://t.me/marketfeed/1085681",
-      "ts": 1795669784
-    },
     {
       "source": "조선비즈",
       "title_en": "HLB·생명과학 합병 재도전…“매수청구 200억 초과해도 철회 안해”",
@@ -11504,6 +11497,13 @@
       "title_ko": "EU 의회, 수입 메탄 규제 도입 연기안 승인",
       "url": "https://t.me/marketfeed/1085864",
       "ts": 1795694020
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "FINLAND TO BUY 160 CV90 COMBAT VEHICLES FOR EU 2.8B",
+      "title_ko": "핀란드, 28억 유로 규모 CV90 전투차량 160대 도입 추진",
+      "url": "https://t.me/marketfeed/1085865",
+      "ts": 1795694116
     }
   ]
 }
