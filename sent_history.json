@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795683395,
+  "updated_at": 1795683545,
   "id_hashes": [
-    "0189d683894e78e8df6bdc373a29852ba5406ab0c342456e66d87fa5eb90580f",
-    "7f364318534ae674d4253a56724d51e9757d3f5405eeb66af38b9e797440ce4c",
-    "487297326f4fe73ba4242448b70c72aa5f652f9585e776b2b2dd687bb90d6614",
-    "bcfc976739b6abf9b3e6d91598c8de3441cdae0090f968367ca0a0d4927acd58",
-    "2946073c3e7da91112d7f13043a171c9a540a286549de275cfa980fea1b2e576",
-    "a4d95d6d4f1369c530fa1a42e8589d9150c9a3f273c74d0e0cef60d7837c693f",
-    "81a968f697c134dc7031635510336d47e9feae553af73078a541337ac87c7b1b",
-    "bba884dd37c619a64af22c39a34ae4433c8244c1201a4c983db7fda605acb39a",
-    "450a0b308a7bf97c6ea39652c259c43d4766a92c00709ff5cffa20997aa320db",
-    "b0cb45d61d8987802b3fb0d54aa195ead60410353241fda6dc258467ba97ab60",
-    "b1c95f89682d21daff6dce21f3f0baae800d472ae508982ed938363a6b48a16d",
-    "9028a2601425d1bf91e47bb3ebb34f81bd22b55c70d78f86dab6e314c30c7277",
-    "db3ba1c0821565c92b54424ac21e937991c88a16ce7aadb80c1530f9d6d60ada",
     "6ccdbbe7d236bfbdb784f7a6455d8e7e903812f7e650143670635211078ff4c8",
     "da82fa8a28e603615294a465c1dd14500aa636ef35b9bfa0a2259c1e59e46c93",
     "fa2436fc5a0165be2359b6933f15a9c30929488ebbd2cf5e7273f8cf3872b772",
@@ -4000,23 +3987,22 @@
     "0d98ee37b2661ebc30fb8a1fa44194e06f08cb396eff5222e10f6501e43de12d",
     "18eb1195722202813df56056a82ec743b4000e85e44f5e7896fb97ed8ce64aa5",
     "4454760e34a700dd5b7f70d629c7130e682e4f128326f9ce92649efbc1018931",
-    "531139357ce2915f6a8623d2fde4cf6340b31d03784eb6246bced24e81c91990"
+    "531139357ce2915f6a8623d2fde4cf6340b31d03784eb6246bced24e81c91990",
+    "c7ce9464f384f6fd6878f976724fb7b387f60e30c4ecae70e9f64e67dc4543f7",
+    "458ec46281cbf6a2b0dea23e15004da00a3b4fb680babcba3594b818c8f01caf",
+    "3b115bca1a0cae3915dd49ac2760b229f49affbc9be53e858181ef57fb3fb765",
+    "dc9566c41fbccb1e2ae4a5b7a54d42c276cc9da62bb1e3bb777ccd8a3cb3ad88",
+    "8318d694cb368c2e2ac35be2fd2b5607f13ab252d3da82f5ce4f23a35b0a4b79",
+    "3673a50f43cfcfad19444f180b09089ea94307047f733b4d875c0487671abbdc",
+    "5f289ba759781547938aad7ab7a67ed753f7947ff494e123d15e29f8b98831a5",
+    "dea7c20b1ea4be0cb6a85a842864a74fddb7c590ead9446b463522a5e401c57f",
+    "e41f4d1ad557d3561858d677ad268fe85abf0e9bcecc0d38bc97d5b6cb1dc197",
+    "423932e5396fa3be061d9e9f89d6e985dbe9e57a1e84e9a621305c733069f08b",
+    "a68dd664cb7e49df1e234b6b63f10032a2fa1b44a7b4be8c116633ea02928e60",
+    "d79dc2a3260124830b71cd266fcb465452ad2aa705ad34c6360b8ddedef56c39",
+    "47e27642bebce3f057b05c07818476af7f0d773535068240ddbda30c8d3dd3ca"
   ],
   "title_hashes": [
-    "bb08c6e20caa02c4cb4ac8497ec41f197947aa540e5b424407d33c9edea0e74d",
-    "4f18b77fbed4f2bcff4bebb1b1d4e22cf23e29a7841095db982eb8d1a320b264",
-    "cbbde7b12f138be7a0d6e166fb30028dcf0c0835048843e8aaf43e35f91b2db5",
-    "aa709500ce93ac35c2ae8fce68d4f6fc258416ef1162a8d2d5a67dfeba63cf8b",
-    "0724e46cc0cb71c44ea60c89a40d7bb46517ea4dbbcc59171d7777154d8e45de",
-    "2259f2c0c3e05696189ecb7450a4951cf694938db6f3bcbed549758af95ac716",
-    "8445b63147a16ce5dafc9d0216eacdc0646a0d1138325f91e1ee1d92ec7bd53d",
-    "9d069d811ad7f0918b36aa87ed125bb1c83c9698cc2909b86daec96e50cd6b38",
-    "f6f72af9d8ba775012f0a2933d264a3c1ee7e92e8e88cf26a067a4f81eff15b8",
-    "4bc5439a249ee1b3fc9c56528d26c9c95f5d541469842e729772c0046e072769",
-    "ab757baa88350a6dc11153e58f00bdc99287528d63f3af22184ad71f77c9681a",
-    "6bea33fb576f18f0aceeb5c59e0c405c271c1dbc8a8e35ac358dc6e46033c258",
-    "3d603382a9aaaa9df4b664c4a21f3967c9e45ad310bddcc06cc1097b67de2012",
-    "fa8b54f4c9c42ddcc4d9bef256f429c69de687f9594e71a5fc2feb8715954449",
     "18fefa7cd6f9831f554fa25595719366920d904d8371116aa5118a8d75e486cc",
     "45ada8abcf70b64364980b36f241ff7b717e809aafcc1a38c537f6a0f0169d27",
     "1f4e4361a0d3eec5935adc49febd94457a54a8616fba5c6076cbaffa891af42f",
@@ -8002,23 +7988,23 @@
     "637aba06821e18b968ce471cd4db00800322ac17912e75d16f0ed2a7f14d7583",
     "60a8ae727f0652a0adade037f4c44814c632fe26aef5bdfc6eb4d04ea703b288",
     "4e4ee7a54b87099b7e7821d8c893e613ca229b2965d927f28bc69680b7d5dfd3",
-    "25fe02a2f3f8823ca260816fe81a51e3a401c1d2adc55d33727fc9eb72799574"
+    "25fe02a2f3f8823ca260816fe81a51e3a401c1d2adc55d33727fc9eb72799574",
+    "f02beb05c1d8fd051f00b22162b45ace6bf8968b1376d385e0eb9a10a2bb7a6f",
+    "959d5795c8f4c76ff35215642f4e8937a6d883dcf3003cf4fab358b192c1434b",
+    "6e537e913decd114a514e8f39eb1870dde2a286d73e425d39e520d3b427893f7",
+    "8b99ceef28d8d94db52d91d4eeb83ad95b8c2d7c7bf93ff0638a786bc9c14d5c",
+    "a23f0d86ce35e7a4a20adf7332830b90a69a50afd2d2213fd8b869d4c50e0435",
+    "fc7c580183a3f9569e207e0aab9de88f689686deffcb97f59143965f798fe808",
+    "5955c23e4a5f8a7b651a4a19c0a6295ea1a5660fd8212936a67d777962deb66e",
+    "d375d8abc4798f87c588ff41998a17cad0a62aaf14ad950c36da10f5e3565897",
+    "2430e817472ab1afb3af5da5bcf4586479f25e03d3732c57b94deca301466340",
+    "5ddc6279db0dca27158c7d3e6f793e25dbc67b8ef4d41ea5617dc976b3313a0b",
+    "1e779588cea84e87edf3e0d792cb7e7b77682e52d9a27d0b34e82088bbef71f9",
+    "d0b48eda094e227418e1c0ae74e84abb1c330e03ea9ec140b0394dec4ff5c3d9",
+    "18ce0e075122c71c3ff9d05148e38126a5bebd4caf96028ba0597ece7509f162",
+    "369d16e55c27e64b563105653f804783dcba6b60227f90e443e4db1278c9328b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "BANK OF KOREA'S SHIN HIGHLIGHTS UNCERTAINTY OVER THE GROWTH OUTLOOK FOR SEMICONDUCTORS",
-      "title_ko": "한국신은행, 반도체 성장 전망에 대한 불확실성 강조",
-      "url": "https://t.me/marketfeed/1085635",
-      "ts": 1795659775
-    },
-    {
-      "source": "재경일보",
-      "title_en": "누리호 6호기, 순천서 조립해 바다로 나른다 : 테크/과학",
-      "title_ko": "누리호 6호기, 순천서 조립해 바다로 나른다 : 테크/과학",
-      "url": "https://news.jkn.co.kr/post/1124275",
-      "ts": 1795659840
-    },
     {
       "source": "뉴스1",
       "title_en": "美 전략적 비트코인 비축 법안, 하원 금융위 통과…최소 20년 의무 보유",
@@ -11504,6 +11490,20 @@
       "title_ko": "팀스 차이나(Tims China), 지분 매각설 제기…사측 \"확인 불가\"",
       "url": "https://wallstreetcn.com/livenews/3206275",
       "ts": 1795683394
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "삼성카드, 배당성향 50%로 높인다… 내년 1분기까지 자사주도 소각",
+      "title_ko": "삼성카드, 배당성향 50%로 높인다… 내년 1분기까지 자사주도 소각",
+      "url": "https://biz.chosun.com/stock/finance/2026/11/26/EONJUOYE4RDVTMVUFQ5E4Z6MVM/",
+      "ts": 1795683417
+    },
+    {
+      "source": "DongA Science",
+      "title_en": "[사이언스게시판] 우주청, 누리호 육상·해상 이송 절차 사전 점검 완료 外",
+      "title_ko": "[사이언스게시판] 우주청, 누리호 육상·해상 이송 절차 사전 점검 완료 外",
+      "url": "https://www.dongascience.com/ko/news/81095",
+      "ts": 1795683544
     }
   ]
 }
