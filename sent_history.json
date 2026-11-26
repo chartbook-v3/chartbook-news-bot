@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795702832,
+  "updated_at": 1795702985,
   "id_hashes": [
-    "605c1da8a1749d249b37ee8e1a7ea1e90b28d8d8c458c0b8fb580d44185bf348",
-    "7cf0d639731ae53ad854df76ae424ec86979def3bdc41d2bf7d9042b07b6473e",
-    "58bec05d28412285c5246e83f3b2b50d41b2e68415ef6433d7db4444b9410dbb",
-    "6d800f446a825bb84f02b52769682f81c0ae2da12e03ffead7adcf72565c5eda",
-    "0b3a85ef22ccff74e20d8517902acd623a2376c5254eeb82c25c6b5cee998e5d",
     "0742cdee5ec4415e4698077217b3d0aab85529a20cd5acf4e16830074a97e48a",
     "fbe4d90a1b0e74d6a9bd6d9e0a9533000eea2024c188e4279e932c48952dee1d",
     "8875b16692d389aabd9b3fa7285b46eebf37cee1189d7b2817774448142f9914",
@@ -4000,13 +3995,14 @@
     "887e0d72809514b03f37e9c2850772dfb34c77505441765136afe850d537ace1",
     "061ec304e98bdcbe6a268a012cc056e6fce2996aa96d3f26c6ee2154653a6d0c",
     "785804c3be5abeddda659f2ad6b1c4e8b524e570017fa1f026813133da563182",
-    "338712999f3118d0eb9793e4a9cc14ae1219252e34d31892fa67c87500ea8dbc"
+    "338712999f3118d0eb9793e4a9cc14ae1219252e34d31892fa67c87500ea8dbc",
+    "28df680097bbfa048edffbb8290a2adbbd634cfbd2cb0cc32479cfad30555246",
+    "01d8cad24095693d818300fdb58f5e3b1fb7074b5b94883585a0b68f941fd679",
+    "81fd612eb59f3d7ca8d4a91970a8bd163954f3e56e0b568ee76ecb118dc6830c",
+    "075246c69ec03f3e5b124657e29950b737d17b52a73306d128754fbd95dcc9d7",
+    "f1a58be53aa82bc67c2eb6b1464c6ba7e7af35e95f0a40a12fe6756c041c0d8e"
   ],
   "title_hashes": [
-    "7754da531c556e398545fa61616063589b0025877214f7c72325ad0bbf09fdec",
-    "4c960c4c0561afcd1fb7c3a9e55dc574baf4f2fd58e41adb861bfe2e66932393",
-    "5d6ec1cdb048112516f8e0e6db6a3db3d6294c4eadff9e3ac251ec27703cd003",
-    "06402356a064b5f504e38a082514d8e72d364cb5c051a5613b2ad7e31ce3ca66",
     "fc87c8d10df9be90b095648577382c8b06e5dd0dc29ac7a2bfeccfdf41a689bb",
     "f6fb4e9490130455056f3ac9fcdca55a70bfa2648a4fc11b4c70838b313b1ad0",
     "682d232faea2e3db1235220be9ab69705cdc99f6b78ee6fe37261273b311e9f4",
@@ -8002,23 +7998,13 @@
     "bc1507c3dedc4a6f8927d4ebb606b1ef7a1978b55c978963998a7ea9f76d02ec",
     "626cadbca4a933cb99b28486c548c2d2c5d2b344f8d9a0055cf0864b2332b90d",
     "0488c938411eefd16908c8fc9b65b0aab6b15627173d6ee5f8281d498f12136b",
-    "08d5c7951861cb6075e85f5c3ebca5db109db5dd2f286fe7ab0a40b56d8f7a71"
+    "08d5c7951861cb6075e85f5c3ebca5db109db5dd2f286fe7ab0a40b56d8f7a71",
+    "650cfd9d8bb1f4407bcd91b92fe77b4740b30067c79c3cde210d2b0e0eb6d8a7",
+    "99e7a78a0d76b3ab3ed9e4346b29168c81eba33ab2286a0bf659b69539179cc8",
+    "39e37e9ba2623dae44ef0b15edd113fd7a1f9a274d2c34da788e0bad8432cd9a",
+    "66763e7f0095dbba32f743955c3e3e3d514446f989191568b17508879c18ca90"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합뉴스",
-      "title_en": "'전강후약' 코스피, 0.29% 상승…간신히 강보합 마감",
-      "title_ko": "'전강후약' 코스피, 0.29% 상승…간신히 강보합 마감",
-      "url": "https://www.yna.co.kr/view/AKR20261126145400008",
-      "ts": 1795675315
-    },
-    {
-      "source": "한국경제",
-      "title_en": "[오후시황] 기관 8800억원 순매수 힘입어…코스피, 1%대 강세 유지",
-      "title_ko": "[오후시황] 기관 8800억원 순매수 힘입어…코스피, 1%대 강세 유지",
-      "url": "https://www.hankyung.com/article/202611262293i",
-      "ts": 1795675380
-    },
     {
       "source": "한국경제",
       "title_en": "美, 스페이스X 위성 100만기 배치 승인…우주항공株 '들썩'",
@@ -11504,6 +11490,20 @@
       "title_ko": "이탈리아의 멜로니, 정치 균형 법안에서 리비아 공습에 대해 우크라이나를 비난",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/italy-s-meloni-rebukes-ukraine-over-libya-strike-in-political-balancing-act",
       "ts": 1795702831
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "TRUMP AND NATO'S RUTTE DISCUSSED RUSSIA-UKRAINE WAR, IRAN CONFLICT – TSL",
+      "title_ko": "트럼프와 나토의 루테, 러시아-우크라이나 전쟁, 이란 분쟁 논의 – TSL",
+      "url": "https://t.me/marketfeed/1085932",
+      "ts": 1795702925
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "Get an RTX 5060 gaming PC with DDR5 for just $1,141 — Intel Core i5-14400F build is one of the most solid budget options we've seen",
+      "title_ko": "RTX 5060·DDR5 탑재 게이밍 PC, 1,141달러에 출시…인텔 코어 i5-14400F 기반 가성비 모델 주목",
+      "url": "https://www.tomshardware.com/desktops/gaming-pcs/get-an-rtx-5060-gaming-pc-with-ddr5-for-just-usd1-141-intel-core-i5-14400f-build-is-one-of-the-most-solid-budget-options-weve-seen",
+      "ts": 1795702984
     }
   ]
 }
