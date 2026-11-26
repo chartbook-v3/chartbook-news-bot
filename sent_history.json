@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795690197,
+  "updated_at": 1795690354,
   "id_hashes": [
-    "23dbe3f06b5cb467d53f2c94b0ff87c8924da5026f01cde3853c6ee37cfaf6ac",
-    "60d12e9b1c2ff6568d8a8a8d7516e779c374d7eb4c847859505cc2208bcee521",
-    "fb654679d0871b0eb1013ee95307bae90b71b10b4d0b5f54ef77253fb5b3bf74",
-    "5439411e8a92dfe1acbbe1756564b655c9beedc8df243b404fed98b199c395ed",
-    "ca3200fd2550379e2ba54696cc064a81add5cdabd9639d7ba95b5f0f66964cd1",
-    "3fa67da12130c0144469e0896cdb5fff84c122d62b2ed901748f3f070d0b9cd8",
-    "a88edb6d2420121d0f59c6f654582f6fe0aa1cb850d403d0c9f941ffbe70af47",
-    "f1719f1e4ce6603a7c20219eda8a8ec6c86189b4a8bdf5cb49680f259bba623f",
-    "39a1e095add54525a78d731a162aea5860545dba4accd31fcd4589e4b6653389",
-    "e15aba949b754ec50c966eb69d1ef9cb4b41d0767190287e027cc1f61addb494",
-    "feb6c672fd66dd7a9d1befa148e71dc7c007b5c9d138883b634233284dbaa467",
-    "b43ad04ae6755e2077eae5674e2e883c1ac6c9a0d91d6c583ce4858af7807057",
-    "ea2bea16e6b62cf57289510d00481d05a40b8101ea5029ff351ddcb80fcffe62",
-    "93614298a0942ff718bbe19fd6b531d86b68b4fca2af107eafc5316d4978a9ba",
     "78170b28165c5f696f71ad558aac51ae26104e6053a342187c5dc609da0723c5",
     "dcd045cc2a1ad656018ce51fde75c02396baad64872f80ccb13e4bc7f1bc9751",
     "466fb7e016e5676df630ec6a98b7109740e9f3361da54533318604f23d4827af",
@@ -4000,20 +3986,23 @@
     "a67cc112a83459d86a5a760be1d5ff3086629e87b31c13aab947e8774af45b43",
     "340e27144bac112265148669d76f533fe4544608cead7610ac1d262c76717611",
     "24602a411df85fcded9b925950e71712d6aaf74b42c45d0deb7f5944701c4d09",
-    "ed445edd9628876310cb59304e4e2299c0295954d3498f93edf4da30ba17e088"
+    "ed445edd9628876310cb59304e4e2299c0295954d3498f93edf4da30ba17e088",
+    "e6204204f56ed02aba2fb967001d6e0fbd0be8bd4e0a6a0cdaa13c2dd78794af",
+    "e68f0503abab12b3af849008586e670e60c1a9a1e38c275fd6823b3d11547078",
+    "2fa3b04e924fb251e8e3afbd73e3c016b3c0bf025ccd5e06ad5e6bd50b184190",
+    "534d4de068220cbf1d5f3f9dbda3565fa68f4f16a8a370cf6c7554b3fe21b9b1",
+    "508a76ffba9b20b67d879c04a2bc52e5468c01184b8273662e21c7fa0574971f",
+    "2e46dc49ce7f3b5c53285b3305ba67444b41fd4f92cb0f636cf2784216afa830",
+    "46d0193fd9179ee4a29b0170123fe3666fe5f891ea9ace9980ef0e43f4654f2e",
+    "ab411fe16b5d51ff3ff0961ed6a57626f001940d7422f60a0410b2c5b3d58534",
+    "9ba4c5609146494af0940a41024e4805d59ff21764f2b71d516295e039e4ca0d",
+    "b06264e38ab57f21c50a3e5ec24873e30eb95916f293e572816a24052401b457",
+    "328b44edace15ef10db7ef00ac599946eb221bf1faf5e5cfd1d4f2fa70321dda",
+    "2cbb2f8ef9defd7c4e9ebaeada9aff8d6ad070ebaefda79896dd8fc06dc53bb6",
+    "67870906b0722058b4912444285aaca449210ab870ea204ce294a66e83f5f1e5",
+    "8d2dc313c7a59c78ca38762c70a57e8b5e8ffdd1c17bf3d60afffb89fda9f109"
   ],
   "title_hashes": [
-    "c540f79c3a510c9796c87aa7a9502dd7f7a0731ddf8c2e92c025581be6718fde",
-    "77485450c8f79c5af1a73b8d95c44f3b65e951c350d6007a66e151f30099954e",
-    "55d5c2b0f9531bf8ee9dd8f4a29c02243c7a2e07892e7f682d68ee62c5fc41e6",
-    "2c964f432c66148aa8912cf31b2e3b174295e26eecbb8597c91e6b332c82861f",
-    "3beaca2a6f31dee6590518646c23706528dc8eb80e54b891209f0049bd871e28",
-    "d795aabb6e434da9ef0230ad60352c2ccd1179b5699dc86a385f8a7c37afd2bc",
-    "a1b225ea89c003e22090edf6349357c9eb0b56b617a93c9398e9ff4b8710727b",
-    "19b86c0fcc456ac2bcd8999206c661a68843c90c6dfd5bcab5b73a185d6612b2",
-    "0817a6dd6b658ac1f8c19f2b3a4a3de7c907b2d70701b3b87d168819d32d0f9e",
-    "c9b0201fd3de20a6a8ef0d7ae0b6d8c655a6125caa41ecc55eeb6c2fefec5be7",
-    "2fbeb70b816c5055c0835cc13b483fd3848a035f0f6fa7905c44db99cc72087d",
     "b3617bf0a95651389a5b86560268e42115f674640481ed338bd44fadd26619ff",
     "47e93cf8deea2efbf6eda3ee7b88a1fbed77786d9a4140123574e100e17bfe81",
     "55a465c4453cbf82035c786365a4c64d547a1a71305b3663b37fcdb8f0b8cb54",
@@ -8002,23 +7991,20 @@
     "847a2396266233f161f77db7bb94aae8662ce1192496a347f72a043db9d74a97",
     "59318911eb02afac5eb96b57b5fa75c6fcf5761cf1fac4d523c00df7735b0fbd",
     "425c227fdcea76fd653dad6bd30ba7cfcbba52e4f3dae48b7fb5668e93ec0c24",
-    "6318080441ae45354cc2a5469c6aae151b40fc776a5bf15901479dabe698d34a"
+    "6318080441ae45354cc2a5469c6aae151b40fc776a5bf15901479dabe698d34a",
+    "4de22a4eec2b6f38ce035529c030919fc403d792e60fcc4a33d4ea27f8742633",
+    "462ab210c5acb3083f6b184a4f504e19a75b02f68dd55992bfd4a0e03d6a5f3d",
+    "bf6419071cbf8be79aca74f375b799b03a2bfad9bad40ead808c2d482655a4d8",
+    "38821245eead2d56c328eda49a6dc404d9b9c1b93d4db916b6c052d7ea99f58c",
+    "17b3ad46f716ee091cfb43c4eed58a1d1b1f998693acea362ca95a6b83fe8d4d",
+    "2975c5ddb94ec40ff2fadc565a0d3bf2d448f3a7724651cd1e1ad035e4d0db13",
+    "619c70802ddff332765338a804fde95b973e342ac514aa69236bc56a40134bd8",
+    "80c3c0286fc0be79cfbadab15fce9510acebeedae753db99500a734c66045f4b",
+    "c02f5eb35694e3713668a4b0ad17cad3d5bb900320e40671e3a429dfecccb460",
+    "5c284d4701d42716912eb30be2cebf7cac91cde60404bfd00bb18744788460d7",
+    "1e26c0868ab006e0a16b4e630ea6cf2fd1ab7b0b94bb2531e5d357e5ad16d218"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Seeking Alpha",
-      "title_en": "FinVolution reiterates RMB 11.5B-RMB 12.9B revenue guidance, expects landing at lower end amid elevated China funding costs",
-      "title_ko": "FinVolution은 RMB 115억-129억 수익 가이던스를 반복하고, 중국 자금 조달 비용 상승으로 인해 하단에 도달할 것으로 예상합니다",
-      "url": "https://seekingalpha.com/news/4676732-finvolution-reiterates-rmb-11_5b-rmb-12_9b-revenue-guidance-expects-landing-at-lower-end-amid?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795667266
-    },
-    {
-      "source": "StreetInsider",
-      "title_en": "Every New Device Is a Compatibility Exam for the Accessory Industry. SmallRig Has Been Sitting It on the Front Line of Apple Launches",
-      "title_ko": "모든 새로운 장치는 액세서리 산업에 대한 호환성 시험입니다. SmallRig는 Apple 출시의 최전선에 앉아 있어",
-      "url": "https://www.streetinsider.com/GetNews/Every+New+Device+Is+a+Compatibility+Exam+for+the+Accessory+Industry.+SmallRig+Has+Been+Sitting+It+on+the+Front+Line+of+Apple+Launches/27404148.html",
-      "ts": 1795667269
-    },
     {
       "source": "Laodong.vn",
       "title_en": "호치민시와 싱가포르, 태국을 연결하는 2,500km 이상의 해저 광케이블 건설 착공",
@@ -11504,6 +11490,20 @@
       "title_ko": "HNA Holdings: 지주 자회사인 Xinhua Shun Airlines는 현금 14억 2200만 위안으로 Shanxi Airlines에 대한 자본 투자를 늘릴 계획이며 모두 등록 자본금에 포함될 것입니다. 유상증자 이후 신화순항공의 지분은 72.82%에서 87.01%로 증가했고, 장안항공의 지분은 27.18%에서 12.99%로 감소했다",
       "url": "https://wallstreetcn.com/livenews/3206393",
       "ts": 1795690196
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Iran's supreme leader, Mojtaba Khamenei, in a written statement: Basij volunteer militia should work towards realising 'every Iranian, a Basiji' slogan - State TV",
+      "title_ko": "이란 최고 지도자 모즈타바 하메네이는 서면 성명을 통해 \"바시지 자원 봉사 민병대는 '모든 이란인은 바시지'라는 슬로건을 실현하기 위해 노력해야 한다\"고 밝혔다",
+      "url": "https://www.financialjuice.com/News/9869263/Irans-supreme-leader-Mojtaba-Khamenei-in-a-written-statement-Basij-volunteer-militia-should-work-towards-realising-every-Iranian-a-Basiji-slogan---State-TV.aspx?xy=rss",
+      "ts": 1795690227
+    },
+    {
+      "source": "뉴스투게더",
+      "title_en": "우주항공청, 위성정보로 미래를 여는 도전 '2026 스페이스 해커톤' 결선 개최",
+      "title_ko": "우주항공청, 위성정보로 미래를 여는 도전 '2026 스페이스 해커톤' 결선 개최",
+      "url": "https://newstogether.kr/news/article.html?no=97883",
+      "ts": 1795690353
     }
   ]
 }
