@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795729572,
+  "updated_at": 1795729728,
   "id_hashes": [
-    "532b2798cfe4d4efcea3f711f1d160e93e1660aa0dfcdbb0934fdf4333df48aa",
-    "fd72bddede747818832b4aa70bb035412052b1f08dda18e064f15e9f731aae22",
-    "646b25ec8935d05a3938b4528058195de90230e564760ce91c9746d7c2b95741",
-    "4f4fadd63f0bcb95c5518e67f9f00d2bf3b40a330464267ce680db1acca19b88",
-    "89dd4734e00bef85e95a7b4ea5848362f4033afe8d945a4afe15210dacf46e72",
-    "425d92ff44b3502cfe60a275cbfda92c4b5b83b099eaadb289104132c8f9bad5",
     "3a45b4753c27a5b7b04072fa53f95e6f265348276c9c9467f7b165867b908075",
     "783d2138f01cfaef97046ed1a35c8f0cecaabde3cf9f2642e58bd3ab080f419a",
     "8888d9e46f0ca7a41a4960298ae457b1ab28f9cf32dc18b9d6eb8ce97290043a",
@@ -4000,14 +3994,15 @@
     "f8f6ed72a76b0476d8b0d703fdd6a0321edd1b29dce77b05c705027eb391b805",
     "2f34a68a80918734b2d614964e1518c69f2eb9582012251da3845c1d9a35c1d3",
     "88981ea633894115aefc351993d1b561b0c0c1d55f829b4574dad256c8e77477",
-    "11c6272da9170d492f500e2dfae227a15b8e1ea5897736de146561566e6a1445"
+    "11c6272da9170d492f500e2dfae227a15b8e1ea5897736de146561566e6a1445",
+    "69da16f31efaa2a16a5a45e3c6214bb32cece7950014619fe505487e7d76d629",
+    "7fa5e3d67bd9525a7eaead6f5e97c774c230ccb17935ead506b9016818d32c5c",
+    "093e54c6b23d9a21d883eeae83bbbb49fcaa31887a59585e4026567bfa96073f",
+    "988bb554cb460c035872533088d89d52409c88b70707d1d6b8d9df751596717c",
+    "757ccc9f63c7d36990d88409b09e62350acacc7622da9c6c8f90f6e3ff4f6c3d",
+    "9032a4f716eb34b3a00e2bbe440b5c8699fd63d26a27d3b9ba8cf3967fc6db6d"
   ],
   "title_hashes": [
-    "656d7cd93ff34529bdc895356625567f48f6993b8f7e366e01c74a41932ff237",
-    "c213fbe64ac6a8bd54f5226d977ec55df464160dbabc216bf8d0719348c7de83",
-    "6fd648acb44ff43eba90f7fe5f5bf16ba53f7f67444403c72d75ae2c7e81a29f",
-    "b65e7f86b1c18c8a34aec601d47bb7c2c06cda3f1bbce9e60ff599d91cbd0032",
-    "2d9a73bda6d3ffc77db72ecfdcc93e9df5b778d482b750bce248a306e572ce09",
     "9a7d675787f4a848315811d3845865c5c3bf8b370f7f799542f83a76644fdb86",
     "d015696ffac621e71a492863af1e07a4fea1053d65deb943fd897d0d0a920705",
     "108f93eb268b2c2ea2fdbd0dfacc46b216c6b9dfcfa5e14c433666ec0f1ddca7",
@@ -8002,16 +7997,14 @@
     "de181c6941e4313c7ed54cacf132c86258b5ebb6b5893e1e694a8e76a1733f02",
     "3722e2bbc813209343bfc2a14c51c98fcadbb5774789b733086d78c9009b6831",
     "78d55f44ac89634f76c00da6bd2f8035d5bbf6122053c44588c67fd57c0a9260",
-    "1a005dfe22d5e0610b37a6a706bf9bd2c5d00be699012f40c15ca8f6ee525284"
+    "1a005dfe22d5e0610b37a6a706bf9bd2c5d00be699012f40c15ca8f6ee525284",
+    "882a87198201e49ff4ee701213cc56e269c6a91aa6cc1ba993ad162c2d7fb036",
+    "475ea8d2e45f0352d1ac4d354f59c907cd60ceff8c84f92c79092a373149adf6",
+    "7a53f6d1d0e9651517becc9713224b32edba99ecfce21e4042d11a99e9385d24",
+    "542806eabf7851da85da3959f021fddbcde47247a52338afc55fa17297e29389",
+    "d688557fbf95717deac31d07d6dcf14b8bc575e5a6bdde99b67f67b0dfe54bcf"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합뉴스",
-      "title_en": "재경부, 12월 국고채 2.2조원 발행…개인투자용은 미발행",
-      "title_ko": "재경부, 12월 국고채 2.2조원 발행…개인투자용은 미발행",
-      "url": "https://www.yna.co.kr/view/AKR20261126173400002",
-      "ts": 1795682153
-    },
     {
       "source": "MarketFeed",
       "title_en": "UNICREDIT INTENDS TO HOLD A VOTE OF NO CONFIDENCE IF SUPERVISORY BOARD DOES NOT PRESENT A TERMINATION AGREEMENT FOR AN UNSPECIFIED NUMBER OF MEMBERS OF BOARD OF MANAGING DIRECTORS.",
@@ -11504,6 +11497,13 @@
       "title_ko": "돈 미친듯이 버는데 신용등급 강등위기?…엔비디아 진짜 리스크는",
       "url": "https://www.mk.co.kr/news/it/12219809",
       "ts": 1795729571
+    },
+    {
+      "source": "전자신문",
+      "title_en": "한은, 기준금리 연 3.25%로 0.25%p 인상…올해·내년 성장률 3.9%·4.1%로 대폭 상향",
+      "title_ko": "한은, 기준금리 연 3.25%로 0.25%p 인상…올해·내년 성장률 3.9%·4.1%로 대폭 상향",
+      "url": "https://www.etnews.com/20261127000009",
+      "ts": 1795729727
     }
   ]
 }
