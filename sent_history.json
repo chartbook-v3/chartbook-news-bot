@@ -1,17 +1,6 @@
 {
-  "updated_at": 1795705788,
+  "updated_at": 1795705952,
   "id_hashes": [
-    "8ea482f512fecec341fa9495f5124efc6ecc46ee4f66a2055efbf7acf1876c05",
-    "15e0500a732899601f6fe3e54c2c3946d4a29dc00ddbe62f98fbde2afcee256f",
-    "8c4b8aa19a88ba8fe982990ef929d19439c60cba742a931a24b7a8833046f695",
-    "765037186ccd8eef28f5aa690bcfdcc04438434d6243d00dfadf6d2d00cd0129",
-    "4c143f6671c89fd0a6682ebda3dc70667229f1fe9d20896cc9f43b78475d9295",
-    "c3537f867bd196fcfd933140c7f1194a0fab143e1e3f18ba137d37d293c58ece",
-    "1f1440fba60363e628e92a2b1f3b26da5ef820bc570f7626593004ffdc43ab0b",
-    "ecb1fe8ba6d8bb6ff5a26f8f6fa12bc825fc793db0c03990514aca1b34ea3c0d",
-    "fb066334a3239b57cbf3388b23d87cde9c4ee464547cfcd40f32218bdaebaa2d",
-    "43099b9286303dfdd708a530167620224d65fbecd97c48589c1e580ea49d7160",
-    "df8abd203c24e1bb4314317266911fb72e4ccc7364fab0f80e263017c5992e87",
     "5f5423abfb1f2ca568754a9ff36f2835df8f5e29e579ec5ccbc8062b2f044947",
     "46a197d04d151f2cbed3c38a66f3acc70cc6350e7e61f35e537c609f31f6f1ed",
     "c5d8b0b085c704e58cb48114d62dfeb6bf4d8957006c14f1358be7f67344987a",
@@ -4000,20 +3989,20 @@
     "2543bcf0cedeb56b726b315f1bb4e3cb754e3db389aa71ee3b7e692ccf3f21f9",
     "1e84fe89310eff7e2fc2b3e82efc968731093298b45a543f2704ff67ed5cc8e3",
     "822d7ade6e2e8541573cde839d6bef82f78ec950e07731d45b5e1eab387d3190",
-    "ff225d20f8810e4f4cdb2d6a30ae067bd1aef9a15d18f2113558251643863846"
+    "ff225d20f8810e4f4cdb2d6a30ae067bd1aef9a15d18f2113558251643863846",
+    "0d6cadfc5617ef1253725ff1bdce315e3b5df7497ced7ef748f7fc11048dbc45",
+    "bdf16fae379f7cf38371f51c3d41eef710ea2b5b666c97759985bd6882759c46",
+    "b6773bec20ced3f72eb80b27d3f6c42efb21b71041271c893144ee3eb536df0f",
+    "796b88968030eed63d281826cb0adf4c79c2df1912b50f176f4f93b1c7f5105f",
+    "6179b7c1ab2c9ac0f709d28d3818d78e06178cf2cced6def9c33090c490c030d",
+    "132cda48c014ff15463801d9ff3ce6cb7740b59f48f9c17097d2ac3aba7c5f19",
+    "35f47244d62177070712ae09e3fffd4e627a54be9300194fa95e3399912d5732",
+    "61abde60b7adee4cb82960785eb506a6f6e029d61812711664c338a321287c78",
+    "66e90ea23265bfe34204adcebc8bc7e98b1a32c35f1b1265cd68ab9fe80c5630",
+    "07394dcae6dbd10ff3295d921fd142859460da7a035a5b815f637f8cf47c509f",
+    "b1729a00995088293b1646f1acd787b7e8cbf68856ba6314a75dde307c7c17ba"
   ],
   "title_hashes": [
-    "b916b3399c97c815a1be51d3b13abdd5598db8872c3cb01cfcb1358f50872ed4",
-    "c311320616cf086ca68a38bdc73ee997217744bf8e0768c513d16ade7bc1eefd",
-    "c58b61fd952d2d4b5e403bf301a1f00de3ef25beb6c087b45d37437a83ab1ca3",
-    "b78fa850284b766b3f74affb52df1fa30f13a784e8f8e0e1cff67deb0e70491d",
-    "f0821dfaeed309a20e29298820d1756cf8cd9bcf2d714f896c3b7563eaece3ea",
-    "667c7dc8e182cd9effc02c86795e53a4c2e2a4b0e1d350552836beaef8e5b23a",
-    "864e61f6ade7d38f58521c6bc896b42e8eff904f111856e11c7c4bfcb2925bd2",
-    "82596fd8bf83052809a48878997df61c5dd73ffc8a41d0cfd2616714491008b5",
-    "64ecfeb3b5dc26efd68700be53c54cae650156942b21b795bf30a3299a5545f1",
-    "b629071462f67c73adce72270a8856e2b76fb496e1dec85d7884cf372c51c8c3",
-    "0d74a309edb012e631d35473929054482de94cee7e0cb97b925d6e41b17c65a8",
     "bb4bc8529b9f4dbad80558a595bff645b538c63edafc4b83b31a9a99f366053b",
     "b570e5cb6895af21245a01cdb0abbd1bf71c2907f541c885793aab664280c22c",
     "f391a8aa15f8728bed4fcfe1335fcbbba90fe8a90544364434505095ee012b7d",
@@ -8002,30 +7991,20 @@
     "1ce926fab9acbc554b5b6c5269dae9063a3723d73879971295197c131347716c",
     "70dd0e3d650ce518794f29460333364bd409f5eeed84db7c432260dcdc3794bd",
     "3697c42786d79a0b67e873f8469fdf5e28e5c6b4cf63ec154d498f1c1aafab60",
-    "653e64a92b3d7246acf0ec4d73944130a7d2b1f0171403bbb3732a2a5eff1605"
+    "653e64a92b3d7246acf0ec4d73944130a7d2b1f0171403bbb3732a2a5eff1605",
+    "c05c20ffb4c2431528bda0060ae1b26c5993c53dabccac65cd3e67949d8e5cf1",
+    "0fe6dac0369304fde60edaedbec7834c3868578e4a06ce924ad23c37fb8e5357",
+    "c792c9d16a06926908fc36f8011b4ab4ae7e184dbde6f764a5b8c5b45a085941",
+    "791fa26ce4b102d95662547032c32f01f595052f306718b6fea5307b31bd9ace",
+    "d50670b86d85176a3194b7b0e0d84a57e65a8b71ea84ae4ad4c191bf5e8ad7d7",
+    "ec4a0fe540e58d64d1b2f05aea8b42244041dcde43940d71d7e0bfc73edd435a",
+    "aa8f4265c403aa6947c3ff9be0074db648118775d71a99d43599845f52d8c4f6",
+    "4d0f91732e632efc373c9ebc414ba17710899218efaa221bf519d687a4e5fd64",
+    "1c5216296591cdf59a5a3e87ddf1b9d38b9c7439ed3321519e1fdb25482d0bef",
+    "c7c5152b812a22be5e04e44592cf664dc94e8f71c312bfa2115afe8280ad16e1",
+    "bf70892bdbe12d41b9e5525767a047b41a6a049e37600e6041bc639fb0463065"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "SWEDEN (OCT) HOUSEHOLD LENDING YOY ACTUAL 3.5% VS 3.4% PREVIOUS",
-      "title_ko": "스웨덴(OCT) 가계대출 전년 대비 실제 3.5% vs 이전 3.4%",
-      "url": "https://t.me/marketfeed/1085721",
-      "ts": 1795676588
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "떨어지는 칼날? 저점 매수?…금값, 금리 인상·中 매수세에 갈림길",
-      "title_ko": "떨어지는 칼날? 저점 매수?…금값, 금리 인상·中 매수세에 갈림길",
-      "url": "https://www.news1.kr/world/general-world/6367324",
-      "ts": 1795676646
-    },
-    {
-      "source": "핀포인트뉴스",
-      "title_en": "[코스닥 외국인] 주성엔지니어링 스피어 삼현 대한광통신 사고 에코프로 HPSP 로보티즈 팔았다",
-      "title_ko": "[코스닥 외국인] 주성엔지니어링 스피어 삼현 대한광통신 사고 에코프로 HPSP 로보티즈 팔았다",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508491",
-      "ts": 1795676670
-    },
     {
       "source": "FinancialJuice",
       "title_en": "China foreign ministry, on US tariffs announcement: Tariff wars and trade wars serve no one's interests",
@@ -11504,6 +11483,27 @@
       "title_ko": "Lam Research 1분기 실적 이후 단기 금리 상승",
       "url": "https://www.benzinga.com/trading-ideas/short-ideas/26/11/63662299/lam-research-short-interest-climbs-after-q1-earnings",
       "ts": 1795705787
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Norway's Fjord Defence sees military spending boom outlasting Ukraine war, CEO says",
+      "title_ko": "노르웨이 피요르드 국방군은 우크라이나 전쟁 이후 군사비 지출 붐이 지속될 것으로 보고 있다고 CEO는 전해",
+      "url": "https://www.reuters.com/business/aerospace-defense/norways-fjord-defence-sees-military-spending-boom-outlasting-ukraine-war-ceo-2026-11-26/",
+      "ts": 1795705819
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "러, 푸틴의 '크림대교 공격 보복' 경고 이후 우크라 전역 연일 공습",
+      "title_ko": "러, 푸틴의 '크림대교 공격 보복' 경고 이후 우크라 전역 연일 공습",
+      "url": "https://www.news1.kr/world/europe/6367756",
+      "ts": 1795705943
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "【特朗普称修订后的GDP数据是“伪造的”，并呼吁展开调查】美国总统特朗普指责其自己的政府“蓄意”压低美国经济增长数据，他利用一次常规的数据修订，在毫无证据的情况下提出了干预选举的指控。\n\n特朗普指出，GDP数据显示经济在...",
+      "title_ko": "[트럼프는 수정된 GDP 데이터가 조작됐다고 주장하고 조사를 촉구] 트럼프 미국 대통령은 자신의 행정부가 증거 없이 선거 개입을 비난하기 위해 일상적인 데이터 수정을 사용하여 미국 경제성장 데이터를 '고의적으로' 억압했다고 비난했습니다. 트럼프는 GDP 데이터에 따르면 경제가..",
+      "url": "https://wallstreetcn.com/livenews/3206523",
+      "ts": 1795705951
     }
   ]
 }
