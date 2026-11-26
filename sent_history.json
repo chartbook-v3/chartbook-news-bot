@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795705626,
+  "updated_at": 1795705788,
   "id_hashes": [
-    "126807dc9fdb33c25b0cc3f2d7e542703170785c1b479fa00980bbd404fefdd3",
-    "2d4039b598edb0dc48c1054d454be0823c953ace0f388dd187e3824091ad6163",
-    "3d9540368749d7def9f4bd1a7d1152a0e89fd0128824ef8af9a4f913539b30ee",
-    "17202f74d2435fb04842607db051642a068a538907b3650a813d3b641fd16d03",
     "8ea482f512fecec341fa9495f5124efc6ecc46ee4f66a2055efbf7acf1876c05",
     "15e0500a732899601f6fe3e54c2c3946d4a29dc00ddbe62f98fbde2afcee256f",
     "8c4b8aa19a88ba8fe982990ef929d19439c60cba742a931a24b7a8833046f695",
@@ -4000,13 +3996,13 @@
     "3814dad71708016de20034c70f43756eaa56f51df4c4b16c4daae498af94637f",
     "175d3ef3e6da0693cbe486f3690b0fa3115576e03f78b869072c6480532e01ac",
     "c04950e295fe7a0fc1060b1c8f3a8e9b0eee53511a6499218d632f522811496f",
-    "eef7063ba8898427590e8aef9d36dab6558fdd8cac4a1cdf87e734603dc9694a"
+    "eef7063ba8898427590e8aef9d36dab6558fdd8cac4a1cdf87e734603dc9694a",
+    "2543bcf0cedeb56b726b315f1bb4e3cb754e3db389aa71ee3b7e692ccf3f21f9",
+    "1e84fe89310eff7e2fc2b3e82efc968731093298b45a543f2704ff67ed5cc8e3",
+    "822d7ade6e2e8541573cde839d6bef82f78ec950e07731d45b5e1eab387d3190",
+    "ff225d20f8810e4f4cdb2d6a30ae067bd1aef9a15d18f2113558251643863846"
   ],
   "title_hashes": [
-    "bda2ff86600f333e380286fd35278a613e63b6bbec1243a5fd6402cb40b35b3d",
-    "efad889c4c738152e3f40a2099bc49ae0dc78a568a1fe103324aa8f195fb7bff",
-    "34d096c6a060c11603885ce8bd1c2dfa64a1d5fa65a88b3e40dc6ff856e01448",
-    "8e50f8c6f4002bfc339e3c040bb0b30de2e4f950fd97683a03494d4f8b4fc0bf",
     "b916b3399c97c815a1be51d3b13abdd5598db8872c3cb01cfcb1358f50872ed4",
     "c311320616cf086ca68a38bdc73ee997217744bf8e0768c513d16ade7bc1eefd",
     "c58b61fd952d2d4b5e403bf301a1f00de3ef25beb6c087b45d37437a83ab1ca3",
@@ -8002,16 +7998,13 @@
     "c5c40273df224e00da3286060d496088536038493a03dbd4d3db7e45ca273ca2",
     "470b924f188a2baf2e9684b571557d37a04c8bb45f0f2303da6bb00dc5d2f662",
     "1ea2e73c9a1c83558cf06ae06fc0479d8288035c9cda510ba899c37a540ee2f5",
-    "a51c72b3c08a1204a142aca73688d28417d2f89ccb1228cef45f003b0cd998fd"
+    "a51c72b3c08a1204a142aca73688d28417d2f89ccb1228cef45f003b0cd998fd",
+    "1ce926fab9acbc554b5b6c5269dae9063a3723d73879971295197c131347716c",
+    "70dd0e3d650ce518794f29460333364bd409f5eeed84db7c432260dcdc3794bd",
+    "3697c42786d79a0b67e873f8469fdf5e28e5c6b4cf63ec154d498f1c1aafab60",
+    "653e64a92b3d7246acf0ec4d73944130a7d2b1f0171403bbb3732a2a5eff1605"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "GERMANY (DEC) GFK CONSUMER CONFIDENCE ACTUAL -30.2 VS -30.8 PREVIOUS;EST -30.0",
-      "title_ko": "독일 (12월) GFK 소비자 신뢰도 실제 -30.2 VS -30.8 이전;EST -30.0",
-      "url": "https://t.me/marketfeed/1085720",
-      "ts": 1795676586
-    },
     {
       "source": "MarketFeed",
       "title_en": "SWEDEN (OCT) HOUSEHOLD LENDING YOY ACTUAL 3.5% VS 3.4% PREVIOUS",
@@ -11504,6 +11497,13 @@
       "title_ko": "루마니아 온라인 기업 인지도 순위: 엔비디아 1위, 다치아 자동차 산업 화두 부상",
       "url": "https://informat.ro/en/exclusive/top-companies-150181",
       "ts": 1795705625
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Lam Research Short Interest Climbs After Q1 Earnings",
+      "title_ko": "Lam Research 1분기 실적 이후 단기 금리 상승",
+      "url": "https://www.benzinga.com/trading-ideas/short-ideas/26/11/63662299/lam-research-short-interest-climbs-after-q1-earnings",
+      "ts": 1795705787
     }
   ]
 }
