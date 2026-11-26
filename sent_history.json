@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795681726,
+  "updated_at": 1795681894,
   "id_hashes": [
-    "b6b5ef361ccae6c58a78942374571b9c7d38980d41ed8cafd59c166d83a65a6f",
-    "365c02f6eb74607ee0e458eca4e9644ff19c8a6526ee88ea5be5fbbaed0a924f",
-    "12e511f9ab1860524697acce048bc50e5b84ef23e802e4059206fa965ab51982",
-    "4bae079a3657c95bd3e31ba1fdba29accc2d68312435d2c53984709ba7e1cd6a",
-    "75b9cfad961fa9504b7519745cb2b8be306a711937172b1a4f3ccee144a0ed24",
-    "63596618f84216f77122288abcfcb1526a662859f6b96be860c52a83d14398af",
-    "ba5dcc25b2563593eabc0c0036648412a71d4f423dda9f5c505d6176975f8200",
-    "e8a6140718dfb6333fac8625c32ea3cc3abae2d2d6a4fccce3a3f887f8ff53dc",
-    "03faa8653e678abe5813a3febe3cb4f47259018332981debe9a10e7d16c12671",
-    "413df429b005571b58e29866e0d4afcc78ab9254e63a6e9bbbe17387f7317424",
-    "cd87b12d8ab883adb8b9bb704fa1cb0539cab6e31b8f42e230d436a5ac28d349",
-    "2bd3f01fabe9448a7a9f141b1da642e1480d6c89f09be63f35d662a5ac91260c",
-    "f26fe7e44786f46b6dbbc134c81bea5355c7e7323e6e3ae10a514cbf9ee5ba7d",
-    "c1b20a3b348efa608ca384564106937639765152801c9c8c12c4525df5f6dffb",
     "280c4ed0f7cdc492718079238f2e54851719f31b0fb24bf3dba7c63c56b5d8bf",
     "a9018afe1f7b2f9229193d3c7d0f582059ce6dd5617a6988cb45de7cd47a18ce",
     "7a28b22b93052219e5b15f7001fa95422cb8a3e8bdb7f2576723a1e985904e89",
@@ -4000,22 +3986,23 @@
     "87b1e60c0c14c901e353a92ce7f9ca6bcdb002a198eb1a873e162edc5709df64",
     "ccfad83fb7465cdfaa0e73b7f73c2395d25f38d153dfb00e020cf1d02088a8ce",
     "d533c4768dab5f3af49dbd6ade1eeac01aa927b7cbd9ec1208e56fdbfa4056b0",
-    "01686cec365d607c59272e7dc6a227e2625d9acc41b8374db6dcf0d69ea5c6c5"
+    "01686cec365d607c59272e7dc6a227e2625d9acc41b8374db6dcf0d69ea5c6c5",
+    "1fef26c03a9328e2ad1db9736beb8b941bc5ee35c8f0f3dc44db0b07aba92ecc",
+    "856c631e23cd66e38235760a4fa05558dd88d11bf60691def9ed22db85c59136",
+    "dbe9dcff1446ca0f020338b8d2ff6f77dfa9d2822703883cf080b2ed8c7519f9",
+    "c31cd3d1dace7e80a8dacede2164c58945a27e04b9c93f848ccf3ca7f5022b60",
+    "419fb5c67e238108d37983bbaf4df39dcaff1f548921e223bba678f65e5c9165",
+    "87a63eed51bcb9e20eb6300e90c855870fd9f2bbfe8aa35079bcddd6a9b3b909",
+    "51980420ed237b4e4b7800f86ca2d2c316668fd90632bd49ed994e70ea73c30d",
+    "731a6589d5a3b700b46fe95b151dec0f21976f000ff61597507d96a9dbe65bd4",
+    "639f67aeb31b4b6ff5bd379e6a331bf841cb6336a4ddfb23cafb3081815e5144",
+    "ca77470bca052102737de0900fb990762fba9796ff08c7921ef751d58828bde0",
+    "0ff96b7418e236f6d113fe5f33a91cdbdb55f0c3e37b037ca87161af28660762",
+    "e9c8e09d3c6e69a78ce648005706402dc80edce0c317d766f6a7830600759403",
+    "71999bbb80bc7dac9da374016d1482c56be5fd9d91de82e5425330f361bce48c",
+    "29930957cc608aaebb55df62801b91cd87a5825f38d1db4953dfecf29269bb1d"
   ],
   "title_hashes": [
-    "0d96fe0e449c6687a68aeed87cdd304d9f921f38f5f075e91d90424914ad3b28",
-    "409e9b17ef162d523bf435cb9d0dd7a291286a6dea4250d5b3abacf4f067946c",
-    "7054ac9e2c77f15b20f65cb37646702310b40f53246a16cf6f98fd726b521901",
-    "288c89c11d0757f77d31e3bd116e2a2a8c4a8ddaf96029be391b86f5cec1b8c2",
-    "4fd789505b16e6680d5bbb9287f8b46fdaf24fc38e8fef88a50ed23e131f5618",
-    "9b96d2c42bc8354a7f4da9b6105ae49faf831f04310bdd798556920442d2e200",
-    "c8e73b89d1aff3ec74c2d30e713a6404e06f00abd0a093a29693fddc019e49f9",
-    "2cc452f897211565804baedb7f0e5b5d79bc262ae395ed19f257539387bfe2f7",
-    "dda19d1ab4eb7cb64ff512d101cc417b0cf072883c9261fffb7b30c68f9716c2",
-    "0b69bf352eeefe8b4d39578e6d64400087550840a7cdcdd36fb08f510f14a255",
-    "48ea35b8801bb5f20686384426483cb465f3716714b3b1b22997fb3c30159895",
-    "ff756b5fae84cf5cce370e34f55185a08e02d0bc9629b80a021e8bf377497e2f",
-    "250d3c07837dc56949753631fcfed0d0c198faceebbb7952b4c4fae0ffc88520",
     "208ab7dc0fda5dc3b0ac5ad8efd3e035e7b64f796b0940c085804049613acdc4",
     "a61e6e043acf91df8495933b544f0e2dbc524a69ec26f007624c3dbbee41eeb2",
     "b0a5a28a7387513668a70890c62a9fbcf70b31e59888e08835701792f0c64ee8",
@@ -8002,37 +7989,22 @@
     "c5bbdcc9193ae301a3ffd7876563fba41fca209406cf71bac81d52adecc20805",
     "5a4655a61099fea0aeb4deb15f96e646003d84928b1b5c6d28c1144c8bc747f1",
     "5f1436d3f1f252bfa84bb7608861f2acdda9572c7ba4f6850702a1224e160c56",
-    "79a450039e768373a49c36f061ec4025901076036bf120caf09035f2704e58b7"
+    "79a450039e768373a49c36f061ec4025901076036bf120caf09035f2704e58b7",
+    "3e7e198d7923d049e58d853c90e67fb62a5df24e6a208b63f2f8732e1e24860c",
+    "06d520ff1ddb12580b3cf403bd9a41fec818f16f605c502d098abaa74597d1f7",
+    "6864c5c1a591ed946722cdd32df114036b0cb9f89309f80a8fbcbbb6eca49220",
+    "e3ff42f56e3a6f4024432c6f38856b3724d61d8317557a8acf5cf6be4b057e59",
+    "89774a926c3fb4114c9091a536add01e5e2c68747b45db8a3d376c8537fa8514",
+    "cdd3886ec1c051c6f29537a3e4e6bb01533fb757604b45bcca900ca270d1d6e4",
+    "662ff0a3113a20f46db3bcbe359db17bdc289360b4af7b4f3695fd413e73f42a",
+    "a31c6c028da6cbf7d28e9172e4342db0b49737e6e9eda44472c93ba0dc6ea783",
+    "0ceae417a45254468ae7170b37ca94594a6f75f0d789f7e70013044b3b85a06a",
+    "0ad08bbfd4ecbf141a6fb730fadf9efe48ea76be1c02b3f2e7e25a62d57df577",
+    "1b159ddd59a68f642a3ce67866a0e5075b61242a33413e13db9c6f586bf034ce",
+    "2c062d12427435cc1f3f28ac33cc5c7c6ef2fb01ee19f64fc2bd45e562b1e2cb",
+    "eed19407bdf7d351fa3a1fb1641cb13ccae2332c03fa1198e4280f39ce5febd9"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "EnliTech's semiconductor inspection share nears 50% as NT$1 billion plant targets SiPh mass production",
-      "title_ko": "NT$10억 규모의 공장이 SiPh 대량 생산을 목표로 하여 EnliTech의 반도체 검사 점유율은 50%에 육박합니다",
-      "url": "https://www.digitimes.com/news/a20261125PD228/inspection-siph-production-demand-plant.html",
-      "ts": 1795658683
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Jih Lin Technology targets AI server PSUs with Clip leadframes",
-      "title_ko": "Jih Lin Technology는 Clip 리드프레임을 사용하여 AI 서버 PSU를 목표로 합니다",
-      "url": "https://www.digitimes.com/news/a20261125PD226/ai-server-revenue-psu-market-2026.html",
-      "ts": 1795658687
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Brightek's automotive revenue set to top 50% in 2026 as Japan, South Korea, robotics deals gain traction",
-      "title_ko": "Brightek의 자동차 매출은 일본, 한국, 로봇공학 거래가 탄력을 받으면서 2026년에 50%를 넘을 것으로 예상됩니다",
-      "url": "https://www.digitimes.com/news/a20261125PD223/brightek-automotive-revenue-2026-market.html?chid=10",
-      "ts": 1795658691
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Acer CEO uneasy over NT$100 billion inventory, stays cautious on memory prices",
-      "title_ko": "Acer CEO, NT$1000억 재고에 불안해하며 메모리 가격에 신중",
-      "url": "https://www.digitimes.com/news/a20261125PD221/acer-inventory-pc-2026.html",
-      "ts": 1795658694
-    },
     {
       "source": "중소기업신문",
       "title_en": "KAI, 달 착륙선 본체 뼈대 제작 우주항공청 달 탐사 2단계 착착",
@@ -11504,6 +11476,34 @@
       "title_ko": "미국, 스페이스X의 궤도 데이터센터 위성 최대 100만 기 발사 승인",
       "url": "https://www.barrons.com/news/us-clears-spacex-to-launch-up-to-1-mn-orbital-data-center-satellites-f2e4e83e?refsec=topics_afp-news",
       "ts": 1795681725
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "LATVIAN PM SAYS EXPECTS DECISION ON ECB CHIEF TODAY",
+      "title_ko": "라트비아 총리 \"오늘 ECB 총재 관련 결정 나올 것\"",
+      "url": "https://t.me/marketfeed/1085763",
+      "ts": 1795681813
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trump Aims to Keep Leverage Over Xi With 40% Tariff Threat",
+      "title_ko": "트럼프, 중국에 40% 관세 위협으로 시진핑 압박 지속 예고",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-26/daybreak-europe-11-26-2026-video",
+      "ts": 1795681881
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "부산 사상구 농산물비축기지 매각 확정…부지 활용 방안 본격 모색",
+      "title_ko": "부산 사상구 농산물비축기지 매각 확정…부지 활용 방안 본격 모색",
+      "url": "https://www.news1.kr/local/busan-gyeongnam/6367567",
+      "ts": 1795681884
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "商务部：中国和墨西哥将成立工作组 围绕降低关税问题开展对话",
+      "title_ko": "중국 상무부: 중국-멕시코 실무그룹 구성, 관세 인하 논의 착수",
+      "url": "https://wallstreetcn.com/livenews/3206262",
+      "ts": 1795681893
     }
   ]
 }
