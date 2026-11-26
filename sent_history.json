@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795730024,
+  "updated_at": 1795730177,
   "id_hashes": [
-    "123e1ae76bb6fcee8ca261ef2cd07091c92a6852753ad0ed0d32861be0215f1a",
-    "d182912f21289dd1da7186ea233225294eb7b579327491bef0cd9cd817ed7bf2",
-    "06e063c20d0bc51e8f84738b9b31c3710ddb0c58342f0339b00d8ce2c52a8c7c",
     "6dcd37a2eedc049e47718e930f068dbbc188f2ba8e75e5f8fd86c810542b17dd",
     "935edd1ed1bf0f5ad9bd2f1ff19975dd3475041d29155e42147af193635d98a8",
     "361f606e1af7e6fc326bcae9e73ec30aa3d8f12225b2272a073e9c96dd475edd",
@@ -4000,12 +3997,12 @@
     "d02e8dd4248ec498c8d87d531c85f67537e8aace4140ce6b0aa3af6e7856d265",
     "6a4b192112e08b45b3cd10daef759d76cf814da002bab03d0f464f6401dde024",
     "2e000ebdb1c3a335f65bc53035a85f7e04f8137163349c52c304fa04681dc2e3",
-    "f221ca8181258211ddb15ffe17dee287f4a83c1928985747634d32355772abc0"
+    "f221ca8181258211ddb15ffe17dee287f4a83c1928985747634d32355772abc0",
+    "6129f89423b1d09d2e194b0e39d396bfb344416bad3f584ed836d9eebdfa64bf",
+    "027a8470aaefb7280f36128e6925595cd23be7fab040eed50afd501f998c5281",
+    "b2eeef0011d5c1f73d14a21c112ce463c28b5e25196d3abca21b26d1c6e704d8"
   ],
   "title_hashes": [
-    "269a663f1a5913ca5949df36b6b2c0a4cd539cf4f76267a18fb3c30f0af3ed01",
-    "c36327f56981c27dabfb1acedd2b9beabd65334978744431b4f673d2e887ca67",
-    "6a8035984f9c5af19a7ab85269764d5f0461a191c3b41966936d561ac417e9bb",
     "1b5ffa61b60ccf2c100d277648791befc6ec53c1e949336c1e12fd3d226e2627",
     "5f97ea89b94278a051bf535a3bcf56c3736f51de869b7ee7bac359a9c294694a",
     "9047bdcd74041355f2f430f17c8495ba9bfcec195624ad721454f4fffbd67e31",
@@ -8002,16 +7999,12 @@
     "25b0411663be45a6f8b149ef3b54f7d0eab41e66af38674c53f270e6ffdb9644",
     "9f065c007175eddea76c486a1cd952b0ca50dfcc8cba38c3eea971ed09f2376a",
     "1081274e115d28b8f31f70fe14fe12d5d737bc6640df48980cc70162850aa280",
-    "ef27a79d713b7f8ad1ba9abc3b891f15281ed013e1b950ab0d64471dab1b772d"
+    "ef27a79d713b7f8ad1ba9abc3b891f15281ed013e1b950ab0d64471dab1b772d",
+    "44c81d2f0d2ad60c753e657d66539eaa32e66127aebf85b477563872210659c7",
+    "837b410bad4217a2829e3f4cea4971d503041439de37e3f7b070613a96fe9d8e",
+    "874a91f55433cf1704c92c9fdd5480997145769a36177e9d9e8e6af1ad9e3742"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "马斯克：12月开始向美国的孩子转让SpaceX股票，未来SpaceX的价值有望达到当前全球经济的百万倍",
-      "title_ko": "머스크 \"12월부터 미국 아이들에게 스페이스X 주식 양도…미래 가치, 현재 세계 경제의 100만 배 전망\"",
-      "url": "https://wallstreetcn.com/livenews/3206263",
-      "ts": 1795682317
-    },
     {
       "source": "전기신문",
       "title_en": "美, 한국산 관세 25% 가능성 열어둬…산업부 “최종 15% 유지 전망”",
@@ -11504,6 +11497,13 @@
       "title_ko": "엔비디아칩 대량구매 실리콘밸리 업체 2곳…알고 보니 中 소유",
       "url": "https://stock.mk.co.kr/news/view/1206881",
       "ts": 1795729901
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "日本JERA计划在发电厂附近建设Anthropic和Meta数据中心。",
+      "title_ko": "일본의 JERA는 발전소 근처에 Anthropic 및 Meta 데이터 센터를 구축할 계획입니다",
+      "url": "https://wallstreetcn.com/livenews/3206621",
+      "ts": 1795730176
     }
   ]
 }
