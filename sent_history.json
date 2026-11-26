@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795672449,
+  "updated_at": 1795672597,
   "id_hashes": [
-    "17f7f7c63a510852db3d6e7b9b874b1fe431b3ecd9751a0321e3cbf749d87d53",
-    "51c9a9ceca9588e5117639f016de0fd10c7765a6fd5f38420da7b38c7590eefd",
-    "1aa2b7d746bc4cb274ca8d6f396dfcde88a6199bb1735570ed58534fae8bab95",
-    "5814ad5a8902553b08aeb6b575cc42783ba6144801773448b32ab773f4cf2456",
-    "2b495c46f8002a83fc3f7b87ae59531d1c28d620fba53cd3ec0a8f93a7d8ef4c",
-    "c01dbba7ba71e82e17fb01d2447720fbe22cc6b1e1b8d3cbd92fc3be272e00a7",
-    "600d16e9e3f13dfcb9cac69608362da88b0464aaad3dd38e0b7cf0b14ef93a0e",
-    "324fe43ef46ba9055ea19683775e105e6c80727d9c96158b382617e7f28864e9",
-    "490c64f43a40515071f16c3c728662b03025e267687b66ddd982d0d19e85e176",
-    "8c3aac63057912d75875f9a82164ff692d95d459f6a6f54c6ee3dad3f73fa2b1",
-    "25ff90524b1d5bd4b9d1dfe889ae0774f4d6e865d78a40779ced7391bbd196f4",
-    "04cd71dc59e8c9ffe7ff41b58cf08aead5700e6838f665372fd2158e7094e9e1",
-    "66cbdcfbee5183294b14b4360ffd55531aa4d50ccef99627e74df31adb47541d",
-    "ae720656fb5d381077a8af00efa9c47cc42a07c72e0daf72c265526fbb19090d",
     "852e7fe9b96a4c81783e6f5c41727baf4b4cedd9c03af0a5793770ae51ab4218",
     "53a4f88b74e964ddc48349457ab11915b58d2e87bd473fb0de4c71463f8ebffe",
     "429f7d7081cfb8d9aad0e3ed066953275d9a120f9aac251e67868e9bf1ef48c1",
@@ -4000,21 +3986,23 @@
     "e155fc751a06da3b0af825a8e014fa18b35e4a01f0ab1fd7fb6c149b72ae6718",
     "5672b5d964b022d7adee546c0a1b0aab5b6c9b1d2b98fc27b71ffc8cca63e1e6",
     "944bdc48ebc6497f83f564851b586b1459103fb8a45ba5606d0a05b7c245a56e",
-    "5c5014b76015d6f472db0f1b5da8494ff66a53be5cf7777174e028bc6482d8fa"
+    "5c5014b76015d6f472db0f1b5da8494ff66a53be5cf7777174e028bc6482d8fa",
+    "4f279a2abd657648b4ad58af25fe898d19f53ca565cb6cc7fa47cde46183eb43",
+    "2af64235ffe7a2481c9a579235c1af6e497ec940dec204c866723e111b96bd51",
+    "b3367333d4d56abd375f2ae42ccc7d1db79b5d28e62ed8adfce135618d2a4814",
+    "1f688f80f82440129e5a44f3ef959e5e1205d46086d37bdb36596f37132bdbfc",
+    "3f48571888d3346d0ea64291a87a20b2a0a7c583116f429296c5be44bf0e5b23",
+    "4e14c553115d906a3d10b14246d37dfb49bfa8c2f813404c8ad5f57bb8e7808e",
+    "24194cef14a01d24e50d3a001fef2fd0cc0bb79ec0af0cd42685883daa233c6c",
+    "418bda00029fed20c80ffb932842dd342c5a014d5ad3a28c7b738bbf55187d93",
+    "bc3bcc39bc42f37c918b33bc27878354d2b672ed4e0ab7901967aa30dc0b8088",
+    "19c8ae23dd14ddf6f896a71b81fe5e5375fd33f4de2944b71e8b61e079c534f1",
+    "bc4b79504732c33ddab5763a2ce7ea797216f0d9d85af574350a63476e3a069f",
+    "22b9437f289a7447237665f638c76e05183b17d6785841e85a6b2846d9c71107",
+    "32bd3fc5fc65e9676361a61e7b8fa8fe47f046768cd2bab117ba33fd0b19d828",
+    "f6eef643c94b34ff5428d37ce0593acebd7d0b5b14a233308815c7a849117273"
   ],
   "title_hashes": [
-    "dca60d2db61063badd1af914083616f7f866d8d3464f6668c8cbd9f9388d5ad5",
-    "c1e7082c62bd999f5109e3e1aab680fc60582271caa09ff947b9379a89dcc2e7",
-    "267c43b0c095b2c12589bd45b2b69575ec4c1e8047ee1d690f734c5797eabcdc",
-    "85cadb385250dcdd8b46b4c126f8fc9da1e42f08174c134e3daca091615a94a0",
-    "7f0044e785c18b051a8d0d5b2630eb44d1eac6bb899e59606aa3f2743f06d411",
-    "6720ba05e496f4c84ef727f4c4f7bbc8751f07d030db9ff1f7c07dc5a7b7dd76",
-    "9dfb160f59ebbe30f62f2660f037fb0e5ebedc49a2fff6e024d6d5a40018b5db",
-    "eb3d8cc5024d2e0cea779f2edb95a539a652406d2d8a583ea9635619b82707a4",
-    "ed7a8b6855e808e6ae7d7ca409c9272b07a22fbbfeabe597fd946c2173e63d00",
-    "f9100f084e8e46a0e1fbf8f9a4601b93e740178295b0a922a84707bbe6b7ea2a",
-    "df7ef7880b4012ddba63e24d7f0f125e89c26a7497632e222a8fdf9ca11ef9d3",
-    "b490ac57d1a598dfe96b64d838d21b9d9bb5cacaa29d8112d9aea96213d86dbe",
     "76e7de5a349c5ed13fe200ba497319ee1c770d27d307ecc2938ee20e351e3736",
     "a351b19f896fc377aca70a8dffb1bf9dfcdf116b8474fb8bbbe75d9d89aef59b",
     "776d30a45b4a180810f91733aa44f0f77d264ea38f03b584fb7f31b1b895ff50",
@@ -8002,23 +7990,21 @@
     "f6df4a297438aec274fcc51767919eb56cdea08f92820dda5ce00b39ffb5ea4a",
     "18d241ba36edc62a79c4045523cfb0d85e3516b5042396df48c8e9cad4d3cc2b",
     "89de621aaa4b69abae9fce3fe47176e401a82081c5fac14d5485237ed4f0e1ab",
-    "a4fc972b1a2abb2ee3779c3da3fe717d7a83e0e01c63423e0eed1aa1e32f4723"
+    "a4fc972b1a2abb2ee3779c3da3fe717d7a83e0e01c63423e0eed1aa1e32f4723",
+    "8191361c333a86fa52f852ff74561325d525ca6af6ccf34ab94d2735719c0d4f",
+    "5e93aae93020c11ac726f55917dae1eea350727cfd5d96241e8bb891c1fc5153",
+    "fb4d332d43af3d0c392eaeabfe5dad4212cc07d93a738d19e73838b4bb11320d",
+    "626432105fc37680dd9c032295456756ff3159b138d7f727fbb356e64ab756a3",
+    "4d55331c5b26fb9eb34c2dcf0f623201813b7bd6c31b111cbc9176e13826eb25",
+    "8fda19fb882c59b7c7505f9fa3a6b7de623fe3f3417982ba7c6e24f460053cc0",
+    "90631154f5e9c6708549b72860e5553eaafc33ac4a2b2197850276471a4a3237",
+    "683727a023cf3ed0074027b7930dd9d13c25145260f8938c9ead8c87f0b7c383",
+    "c6e4a6c26411da29f0a4a7081580eaaac4230eb102d76fbbda9ee5f06fdf8e30",
+    "a470625498cb1b3cef539dbe2bd2652e8e973226b1223aad2391b1b483669eba",
+    "0e0f60f2e6b20b6dce3a22a164df37ce76eda8511918f11486436e82cae34db4",
+    "477088cb6d7a4d6d8074dd4bdc03ca8155ae71d8d35123f8c525c28504cb834e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합뉴스",
-      "title_en": "미국 AI 칩 규제 강화로 아시아 데이터센터 대출 속속 중단",
-      "title_ko": "미국 AI 칩 규제 강화로 아시아 데이터센터 대출 속속 중단",
-      "url": "https://www.yna.co.kr/view/AKR20261126028200009",
-      "ts": 1795652941
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "카카오페이, 스테이블코인 수익 기대 낮아져…투자의견 '중립'",
-      "title_ko": "카카오페이, 스테이블코인 수익 기대 낮아져…투자의견 '중립'",
-      "url": "https://www.fnnews.com/news/202611260844488865",
-      "ts": 1795652943
-    },
     {
       "source": "매일경제",
       "title_en": "비바코, 퍼미안 폐수업체 인수 계약에도 지분 희석 우려 부각",
@@ -11504,6 +11490,20 @@
       "title_ko": "유캐스트, 차세대 국방통신 개발과제 잇단 수주 … 글로벌 방산시장 정조준",
       "url": "https://www.datanet.co.kr/news/articleView.html?idxno=300606",
       "ts": 1795672448
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "CANADIAN DOLLAR LOSES GROUND AFTER HITTING TWO-WEEK HIGH, BUT OIL PRICE GAINS PROVIDE A BUFFER - FX",
+      "title_ko": "캐나다 달러, 2주 만에 최고치 찍고 하락 전환…유가 상승이 하방 지지",
+      "url": "https://t.me/marketfeed/1085698",
+      "ts": 1795672531
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "새울원자력본부, 겨울철 산불 대응 합동훈련…지능형 CCTV 활용",
+      "title_ko": "새울원자력본부, 겨울철 산불 대응 합동훈련…지능형 CCTV 활용",
+      "url": "https://www.news1.kr/local/ulsan/6367194",
+      "ts": 1795672595
     }
   ]
 }
