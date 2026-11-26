@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795696746,
+  "updated_at": 1795696899,
   "id_hashes": [
-    "20552a954fe3c9efaa1cad24fed0bd7e63ef4e5e8804a710fd21a2b507fdfbb4",
-    "9d14ed88b6842af3641076bfa1e918fec0dca0e3cfdb0fd2e8dc99982beb426c",
-    "e4a44ec37245ab7c7d2169835390fd72f35632581ede10c21bb1d5272e8c083e",
-    "23622cdddc4070128625852643269b497352914cec601789e354e3fe4fa7e387",
-    "ac211c5bc09d608d383fbb23f8cd09a46f3b4bade71ecaf54bfb841281e904e2",
-    "f010fb78035ad1b2e105ff87fa8efb89cfbd8d94dc1eeaebec8ad85e8f48a9b1",
-    "94a960ec4f5bc7823e509f130060affc7e31569de073872f5ffcba9113da9de8",
-    "0158b46e4fa9afc82dd4fa7bc776ee227a81e2f301aafb4d9174d3fd7ae7f765",
-    "915a92b78fd103074e143e9ec7479fae0f6141875fb21cb3e04f47780dc58401",
-    "ef422877adaa7391325d3eafbd6e8fe4a9edc46ea4415a6d7e07434e8a24ac0e",
-    "1f2159e267d3f18265066b8cf415e5abc7f915c057fb651cf449d5f9afcc60b9",
-    "6ccaea9eee1274449fb23bbdb151d882ebb5632f113de1b6b6e7b0d942b7fa13",
-    "817839d39bd2d12dbe027c1bb9b0e35ebd47e64172facc4b7a600805ae5ccf27",
     "67c765f14ed9291330e1f1476d58ffea508056feef1f98276facdea388678a34",
     "5b41da53ffe1329025ac21c9857cff9f57a2466cf79055a7b58a9d843b277985",
     "bb02d342430ab6c6d0104a3249e4fdfabb94cf469af68673ee168df989059f96",
@@ -4000,19 +3987,22 @@
     "7731f361e71bb2a2ecf873fbe5f8692b934162c5519155ba691649a382bfe3ca",
     "f16429d0d29ff31167623dd5974a74bb8ab53cbb7ac0924d50f7d07738967277",
     "b4911fabd38300f8c6e369af1c7f379afc7496817ddca1a03399d66c0694bd32",
-    "5f6a9a1b41cbad73790e10d7981b7d56c2895bed86c96c86ef07c3b2d57cf09b"
+    "5f6a9a1b41cbad73790e10d7981b7d56c2895bed86c96c86ef07c3b2d57cf09b",
+    "dd51bbf5fddce265f6b5cd600dd8264d562e9fa9720af539709bdec24c41316d",
+    "9280e10ca08fa3eebb7b138d47d5c3a62afa0314f0d0231717b9190bbc12444c",
+    "6617421b84e5516de73c96725d97943cd9bea98969353e198edaf6a2a60d777a",
+    "e166ef3cfef52517254c0c76981f66553697d40f7ed67c6fcf5cb1e37e2efca0",
+    "217dec8b287057a60a90af5293af1d46c2e2b2558f08447bb5eecb6ec8dc179d",
+    "fba642cff23e16ff4f86c3d81f6c470c402efe70d14222acae75a81f6ba07f5d",
+    "b6b3d008cca3666edebbf37f6eed8524834aad02f7dfdd2c96b98d0f7ca62dfd",
+    "3701746738095283fb34dcef54acb7c5861679bfb17d9e5eb20cf51e3ba9432a",
+    "674ce581f751d60b4df02a5f7e674db190f24a993bb12b5881364b4fb0288336",
+    "adcdb27c26f589fdd6e0d0e7318d6cce93e1f77615b8fe222af2f6c7f3ed12df",
+    "3eeec338e5e57488e5f87e9c09541222f5ed99e727aab3f803dbc5873f2ce8aa",
+    "7dcb35cde06d849e8e8f89acc9f3cb3b0dbe39a02e0d8465bb0d1059d41be20f",
+    "9aa8316469d2eabb8d641d3ba054495bab8f9a88651d4ee53de78a74858af4c2"
   ],
   "title_hashes": [
-    "04c2a143bfaff05db794eadc72d39b6cab856372770c3334c8daa95699efb8db",
-    "d5dbbbe658ab39d73aca1521529d744d4766985ec8834c0605740ea7f9630bac",
-    "afe42894300d7930f70a6c5d92a9ccd894a00001e5ae1ecd163e4b2a0417c402",
-    "cad981b8a61c1bced4d53c45836fecf9512f3b9395fd8d43cf20b3874e14c5f6",
-    "cde9fd3d50601f211f37c5d569a4cdb7c400c74ede51e588a0d3f28572d1f193",
-    "bda0cbdbe0e53164bc5db1a42c5c6a427d087f401b9360e6ddf6ed0123b7421f",
-    "c9de610ef6abaf64ea91170514d7eb045de17f5ea7cf35109e7806f4d46f54e9",
-    "c3869eb1208a19ab2d32d830118ffc4ce70c073d842079b1143c48edc8586057",
-    "b063cfe9e53ed1e09059110d4a4a44daa95646ec1dc6dd1536460573494be32d",
-    "28cc6612708ed804db8bcfde000b26e9cf44c49368882d1630f14dbeb91ce5c6",
     "ac64070bb987800f4f38d3f8c6ddf5d70d294393a7ae05b18b1188b23795df7d",
     "d6c31698fc29baa08fbe194dc885656f5f7e25db797f7704fef6477ef4389090",
     "088071df7d58ab08c5b2ea4db56e95c8bb41511acc1bd88626007b0eaf20671a",
@@ -8002,30 +7992,19 @@
     "aebc1b95c1878b9305f5ecc5a53ed1003923abc84f28d21e43d388f5fdd06c02",
     "9d95b2df3108afa588b6966461c163001d0fd87fe29a27826f174b72b2fd14dc",
     "c40a145cfb5d636ae44f641582468a7dbe6c30e4bf609a7a671b4a24b9188a83",
-    "0a71940ebe58adebbf6e7adede815f772ddba7066c1a9ee769dc203a24e5556b"
+    "0a71940ebe58adebbf6e7adede815f772ddba7066c1a9ee769dc203a24e5556b",
+    "4aa4449f6ff74e5cbbb1b9acde20bf2c1a6e73cf1cbb122c143ac9eb3a54510a",
+    "d38d51e19f576b00c5d6a8d3a515c524e4ee3c2dad35306ee9a52908113d48b6",
+    "64df79e9fdb2c22be9b9da23582d034db00a4ded8c50c9fb429d90051356ab5d",
+    "60e9870ab176e28afbd5b1b0ad7251b3e74de83887ee74d638866ffbd8161c1f",
+    "85af608660b3517531034fb8ac9ff5b50b6e7c9adc82c7147135f428d0a77fff",
+    "851e29c960eb338b2ade81d8cb2bef0a53e3ffaa4c36f697df3676d8ce75ca0c",
+    "1ecf899f89c902f66313921707d3d3df04b37ed31d4793502296ee10379eddf7",
+    "c296185f70752388f747d4f21a5426272b3728ec6c5bd64e0e8725ccd5a303b7",
+    "1a2818116187c2b9951c5d2c7da4d65775c498645a0e70bdbf2dc5b43e9850aa",
+    "bf7365c7ef517a3788e202ccdae2b13a6831210995a6f91177b1fb6babc08606"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "韩国央行官员：经常帐盈余趋势显示韩元仍有进一步升值空间。",
-      "title_ko": "한국은행 관계자: 경상수지 흑자 추이를 보면 아직 원화 가치가 더 오를 여지가 있다는 점을 알 수 있어",
-      "url": "https://wallstreetcn.com/livenews/3206144",
-      "ts": 1795671764
-    },
-    {
-      "source": "뉴스로드",
-      "title_en": "한화에어로스페이스, 누리호 6호기 순천서 단별 조립… 모사체로 뱃길 점검",
-      "title_ko": "한화에어로스페이스, 누리호 6호기 순천서 단별 조립… 모사체로 뱃길 점검",
-      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=68511",
-      "ts": 1795671825
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "印尼央行干预外汇市场以稳定印尼盾汇率。",
-      "title_ko": "인도네시아 중앙은행은 루피아 환율을 안정시키기 위해 외환시장에 개입했다",
-      "url": "https://wallstreetcn.com/livenews/3206145",
-      "ts": 1795671828
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "印尼央行官员：对于印尼股市可能被重新分类的担忧，以及企业外汇需求上升，给印尼盾带来压力。\n\n我们将继续采取稳定印尼盾的措施，并密切关注市场动态，使印尼盾汇率反映基本面。",
@@ -11504,6 +11483,27 @@
       "title_ko": "ECB 회의록: 관계자들은 실질적인 2차 영향이 없다는 데 동의했습니다. 시장의 관심은 금융과 인공지능에 집중된다. ECB 관계자들은 9월 이후 유로화 약세에 대해 논의했습니다. 요금인상 전송이 원활하게 진행되고 있어",
       "url": "https://wallstreetcn.com/livenews/3206462",
       "ts": 1795696745
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "ECB officials: Short-term growth outlook was weaker",
+      "title_ko": "ECB 관계자: 단기 성장 전망은 더 약했다",
+      "url": "https://www.financialjuice.com/News/9869396/ECB-officials-Short-term-growth-outlook-was-weaker.aspx?xy=rss",
+      "ts": 1795696774
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Trump: US Q3 GDP just got revised up to a massive +4.3%, shattering expert predictions and nearly doubling Q2’s 2.2% growth. The Trump Economy is roaring, and the mainstream media can’t hide it anymore.",
+      "title_ko": "트럼프 \"美 3분기 GDP 성장률 4.3%로 상향 조정…전문가 전망치 상회 및 2분기 2.2% 대비 2배 수준\"",
+      "url": "https://www.financialjuice.com/News/9869397/Trump-US-Q3-GDP-just-got-revised-up-to-a-massive-43-shattering-expert-predictions-and-nearly-doubling-Q2s-22-growth-The-Trump-Economy-is-roaring-and-the-mainstream-media-cant-hide-it-anymore.aspx?xy=rss",
+      "ts": 1795696833
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "华为乾崑携手宁德时代巧克力换电推进“无感补能”，同步发布30#巧克力电池",
+      "title_ko": "화웨이 첸쿤-CATL, '무감 보충' 전기차 배터리 교체 협력 및 30# 초콜릿 배터리 공개",
+      "url": "https://wallstreetcn.com/livenews/3206463",
+      "ts": 1795696898
     }
   ]
 }
