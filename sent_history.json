@@ -1,29 +1,6 @@
 {
-  "updated_at": 1795655195,
+  "updated_at": 1795655345,
   "id_hashes": [
-    "1830515c5867a1e77dfe1ddf8dd41ff32a012c059ef6d8bd2ea29ed6b019b859",
-    "03051f1a012cd97fbd0c5692df6dd428b482ac0b0e1975b0555b8363a90c5b8e",
-    "9aa6acd4b46119d2a8ad9bf5744a9e1339595f40a1ed33b59b553914e5bcc4de",
-    "4be988e6b46f8df97c218ae61643c86a40349cc4dd65a1736d8e800157d39a52",
-    "6dffab65d1311c65991dc7e797572a5e8b4fedf061e70e025ce07f269fc7a09e",
-    "6e9c344c11ffc2a8603ec08a46396c67db2b4490444edc6cbc4d56dc5c611b3f",
-    "4bdee92cd889230120ad78b4c490a099e8b9c4700c8ffc56752212b9e76d9247",
-    "620f5b35b78ecdd6847eaacf6254b4b1337b672b42e2799baf9e6814d212aeba",
-    "417eb96b1c731a9f777c1f345a8d9c0f41c621a58803c1b2eabbd28c7e1f2ba2",
-    "4b33a0737159649b93f725493edef9d02f8e9d5a52c9350d35d1c70f5dd6dbd0",
-    "00bdd32541f15677031616d1c449f8a2f8b1f8a2f61656cd34db5d78d4caec11",
-    "99ea042ecd960bf3e308f9ff0876397d7035b6360d1aaa81be44d922e870713d",
-    "6a0dbc871783e00279e498ca3d4f1b3c0793924802cbacbda1e30b15b600c267",
-    "93cb6dc499ca2e0cc136e849592c38e2981fd4a2a60ea07eac37adc93d8ae61b",
-    "9abf99725218d961167c666661ea11e724d3fd3a67af082a35eb1079f5b0b9cf",
-    "42139303c02f08092b91ac16bc4d5267f95e2e23910c1ae48e47287965d67334",
-    "0b9905f7ca6c6ee0eb663a06d781f617a9716e55c6c12d9213a5eaf63d8d6215",
-    "4c444c184aede3a336d0abd0b507c2447fba1e0d160e34eee31f97bc11240b8b",
-    "442edb936d0b9d077b3d095baef1108c1b31581f579507fc2085a951e7aa06fc",
-    "7cb6842ac739878adbe08f7bc46238cf9fc2a6326b1decaa79fe41c0a31c27f4",
-    "bc949c9981d01b20510e62fabd5c4e86f9247133bc6c904bd5ba81a26c5f6763",
-    "9a3712fa156efae38ad26453844fd753c51c983a09012ee942da2e0cfb83b7ad",
-    "57e0911058c136e7fb505a9129b9cc4d6d3697ec01cd7e3a4cd889e208a84a1a",
     "233f3bf74c9f71cafe2806f6b32c8600f06d2887cd68591a0e42bc2e0b259330",
     "02d88ff8c08f9907b4bd7491a9f0f724643d47ef942bdeabadbb9b836fad3339",
     "1c64209f7956f4b1b062e8cc49e57526028a82c168ff1fc64277a8a3fe758ad7",
@@ -4000,30 +3977,32 @@
     "9deca581fb5be5656fa14f01c3fcdef0c4e663cf03e947caedb719190528fd67",
     "3ac39940fa6c1e867f7d00d3d2924c4055fb2c5027befea21752fe18e9b88645",
     "231609cf4168cb77ec5df77c7b9f091bae87f4b23967b31eca94393d98a77134",
-    "0483fc9caf0cd653c402f4893306f6403ca0f9122965175d3fedac4755f41d19"
+    "0483fc9caf0cd653c402f4893306f6403ca0f9122965175d3fedac4755f41d19",
+    "95af7edf919b42fa73381fb29eafd780bb9414f36e37d49144691be65074377e",
+    "b0ff94c4d9366a817594432599ea3733c9385f57420e59cf8e14c35946245cfb",
+    "20a081040c71cf84b90400d8414da13ec773cbf076e399d54cf5b15d5a03b451",
+    "966e3b60b76ba3d1d32441a9755946558eddda5e0e30705f332977a13886a577",
+    "937030043374ec8fe2562f0852de827488222e41510bc18fe35d29c05b1626a2",
+    "42e73357f3b2d355454fc45417817af58827c71012962914bfb1de0b6d41c357",
+    "3d2be79dab220a71883ae1bec7ff15bbf12e88d9787b1c7623f1b20544c1a472",
+    "3ad6ce247b20824bb45afe09a49227d96e66930646e6ab9b693feb82ac3b2e6f",
+    "9fd2cf353383f6fe639bf5948fbc058bf171028b7ab696fe9f575f26d56d4737",
+    "1d61e34b4f787a005f5529e3a509cdc69f858e722adde5f7f564cfb0d365d6bb",
+    "83f74ccade3d3f7a7b36639386f67d0f6b34c2e5c0914bed57359c8d57330e69",
+    "e1a8c681d2b9005f3cd4a40984c779167a72dfc3825697db8496800f211e646f",
+    "3e069eaf2a80a4488665d4289bb17f053f129c9601b936c2bbff6deb899e284b",
+    "2f0b26a4e0238603e96229be9ffab67b9f1a52cd548862657f09dfb05303abea",
+    "30d050431a4ece19647371490293d3e28b8e723e82a727ddf419226871ef2060",
+    "d658e6bd5920c2fc1daaa9f61a20c7584d03548a7a8c64e32315f384c7d9f96a",
+    "15a8437dd198aa65771c91dfdeadc8fe73f826ab81c48490ddd5f2821a8994d9",
+    "24bf3c429138cd4feda2f5d8839758527fb4d23fb416a441490d6c949f75a31e",
+    "68ea62e30afb1e9033f393149c2354aec7b310b1155227b8702b61d6df7345b0",
+    "aaed531bbc2612bb8fa53415a0985d70c823ffc28c41f10c29d9eb130db0129f",
+    "e56045e650f8a14c0defa7154e57f8ab7b3d65cb6068389918d37f35de518f52",
+    "8b6aae5f362e8e70f8034241bb42d7f482d9c6648254a6437fce1576a3bc5840",
+    "10f77a68ec2a4d0e4645d074cafa674af1f8fb5b47d938980d06f7a026a4a391"
   ],
   "title_hashes": [
-    "645cf51f7622d89a625553d1c61ecb41cbb205b1be2bb7a8f3830c82b810517e",
-    "f9972438cdf55f3b6caebe4c2e3b49381241c4b39be3beddd88509d081057583",
-    "3eb2764e1c97db9b201f0332d99f34c0bc363775f9b60fbb2492dce13bae4f6f",
-    "398660069090bb118eb98cce105e7aefb4722f096bddf537c246a55db797d12a",
-    "dad3f7e0578c07fcc74aa2b33ccc14f68b1ccae70e9016a7e37f63d9dbdf6929",
-    "188b42c5e70f718e1ef42cc19d741308c5a944853d4c4a679c4769de564959fa",
-    "441a6d4569fce2af07f0dff80588242a2dd6a8f4705d5ccb69531fa0fec42d5a",
-    "3ce3048f98a8b79ab7f09451db5030a5e622b8bc2df212f835629f57409ba65e",
-    "773285170ab483548f84d649ead62a50ea8897407996c37584e029b04837eaa4",
-    "cd29ae3eda48be53a28c911f4c7a74e7ff51ae820c96f5f74e1bb9a1648cbb9d",
-    "b95ca70623981fcb970196f0c8cc88566fbd4c73866074189050a0772547359c",
-    "0962ec44aff1ae1a67fc6e4c5e57cce7dee0c0db0d6987463b8ccf5941c82693",
-    "fda93a8850391cf4b202c20971cba5da4552768d18fa3508362decb82cbd3dc7",
-    "499a254adca02dd9bf6a0731fe04acb4d2c01c96e29418c5f9a89ca879e33ad8",
-    "8570751a8f26005ba33445d89d46652e3752965745abc7b54a109899398076b6",
-    "104cfd82206230759aec24ba97e25ab74b73dc5bb2055fbc8c2283bd3af006c2",
-    "8ec3fde0a56af0f9941b6f4207db5600a9e0750d7b7f96f7b55e4abb153b4f14",
-    "be8b8c160213cfffbc91f63100be4cfad26d1fe32b1d0b8db02dd88aef552ba1",
-    "fa88e9332e2b69043ed22f53ff81732f100a3b577322f9ff1d11d20493f2deb7",
-    "5fa6ee2ebfec920af79e29dbd88ccdcfdbf4fb97931368e2f3985b16158f39f5",
-    "e20b9a9a3d5b660a1e4f88a6222910b8d16953cc66a88ebf97877317d7485fea",
     "9e01e5721ba88c0657ede6a603a16e2cddf80a28b65307d8d44afc3aff51cd4f",
     "c0360d9a0ba422eade13f3cae5c15d4a350e84c0c1aa47ff2d343a926eeb2469",
     "6fe2ece0aac9f8de0470a3131a94cf9dea410d1aafcfd664eeb0cd7aae924ccd",
@@ -8002,51 +7981,30 @@
     "7e6a2f48577ec72de5131b37edb15d0696f61f8fd9c19545f74d3ea77b0467f3",
     "a3aa45719bf18656d4f34e7138732283c9799a014d543cdba572ff06a8db2e86",
     "4eb2b9e8f56295f397beb669905c1b0ab39fbeb7f4ddd561e0658b8820adb818",
-    "2704452c1c563e64c075afc59f948eeb50f93fd491d5b3bd887168b358ab393d"
+    "2704452c1c563e64c075afc59f948eeb50f93fd491d5b3bd887168b358ab393d",
+    "343b84a82d6edb2c4536fa0a1dd88358e500914a07fa5edff686c9ea27e395e9",
+    "9c32e795c6300c47258ffcaaba26ce6c95715e9615b532d738ba6438cf0af8fd",
+    "2f2841a4295cded8eba40d00be5ce77e0938bc4de1b7c8abd0a27c93f27ae185",
+    "710d0559b452048955f49aa4dcd349fd00fa8d96736396887eca69a7fa52b1c4",
+    "9431fb9aa09e8e7b12d3808f6056eff6c332a7857d241112e35a8fee90c0b1bd",
+    "46261fbf52f4f0bee33fede6ae528799b3babe177fe7317f6140391cba8ea5bc",
+    "f5abf1b7514556ba08f35d7b8192597a95b3f8711a10bcd7e9aeaa295c5f3159",
+    "58896a8f3beb60895c4770c4875754e4fb02a170c3d09c6f97cc2816608e9238",
+    "773eee7079827c366aea3d0cfea3c051463158fc81e095210e4c172c07a8b495",
+    "5c56b9b02b82ebac49a869d5da8b32b7ccd8f4810a7010ffa2d2ba7545522c66",
+    "0e9346755b9de786d9af0e4ce294c852ac2c4c85b328ccbef4d259bd61f49354",
+    "0e02d23d0e7242dcefec8cd43a5cfe3bb37b412bd5eda57815881b64e05e0010",
+    "ef7c0867dbc309748a497c7b41547fb4f66436e252f88e8ba8c2f2c19a10d4e7",
+    "fc5d208e600385eb86e6c320d06e65d0f90ba620a657917ec9d752a5ac8e5a8d",
+    "1942ca2dac6edc448d17601dd5ee6d1656dde6569a05a7182bb7c982bdeaef88",
+    "fbd7e8dbd2409bbc95fdbb9e5e87aaddc6b203c1a16144add16f566caf7f4bdd",
+    "c6ba5b561399f87f62501d1f8154a6e11e044318cee214dee3c5252a8d250de4",
+    "57bbe3b6c5d5f4240b12a04c2b0e9d06d8d10743f97a83df06999ee7fc026d63",
+    "ac7060d6ecad7756aa32811371547d91bd8a8a69bc6e484c41dfe40180e42ea2",
+    "f1b43633148806a6ef6d145524f500d4361127cf8e6b7f1d946f2280375e7b4e",
+    "9c39de7ae81ad7410396b1877f96852c391a61250e03378be30248a9c3728bf3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "POLAND ASKS NATO TO SHOOT DOWN RUSSIAN MISSILES OVER UKRAINE",
-      "title_ko": "폴란드, NATO에 우크라이나 상공의 러시아 미사일 격추 요청",
-      "url": "https://t.me/marketfeed/1085065",
-      "ts": 1795604986
-    },
-    {
-      "source": "Barron's",
-      "title_en": "HP Stock Up Slightly as PC Maker Overcomes Down Market With Solid Earnings",
-      "title_ko": "HP, PC 시장 침체 속 견조한 실적 달성에 주가 소폭 상승",
-      "url": "https://www.barrons.com/articles/hp-stock-earnings-low-pc-sales-1fce528b",
-      "ts": 1795605039
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Google Warns Publishers That Fake Writers With ‘AI-Generated Headshots, Made-Up Names, or False Credentia",
-      "title_ko": "Google은 'AI 생성 얼굴 사진, 가명 또는 허위 자격 증명을 사용하여 가짜 작가를 게시자에게 경고합니다",
-      "url": "https://www.benzinga.com/news/26/11/63616064/google-warns-publishers-that-fake-writers-with-ai-generated-headshots-made-up-names-or-false-credentials-signal-a-low-quality-page",
-      "ts": 1795605048
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "$DE | DEERE Q4 EARNINGS: - NET INCOME: $1.05B (EST $1.08B)",
-      "title_ko": "존디어 4분기 순이익 10.5억 달러, 예상치 10.8억 달러 하회",
-      "url": "https://t.me/marketfeed/1085066",
-      "ts": 1795605084
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Trump to Lead TSMC Groundbreaking in Arizona After Nvidia Gambit",
-      "title_ko": "트럼프, 엔비디아 승부수 이어 TSMC 애리조나 공장 기공식 주도 전망",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-25/trump-to-lead-tsmc-groundbreaking-in-arizona-after-nvidia-gambit",
-      "ts": 1795605363
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Fed policymakers at odds over causes of high inflation",
-      "title_ko": "미 연준 위원들, 고인플레이션 원인 두고 이견 노출",
-      "url": "https://www.reuters.com/business/fed-policymakers-odds-over-causes-high-inflation-2026-11-25/",
-      "ts": 1795605368
-    },
     {
       "source": "StreetInsider",
       "title_en": "Kanzhun (BZ) Tops Q3 EPS by 10c",
@@ -11504,6 +11462,48 @@
       "title_ko": "TAMURA는 BOJ가 안정적인 2% 인플레이션을 유지한다면 일본의 기본 인플레이션은 더욱 확고하게 자리잡을 수 있다고 전해",
       "url": "https://t.me/marketfeed/1085583",
       "ts": 1795655194
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "PANW, META, AMZN, LI, SPCX: 5 Trending Stocks Today - SpaceX (NASDAQ:SPCX)",
+      "title_ko": "PANW, META, AMZN, LI, SPCX: 오늘의 5가지 인기 주식 - SpaceX(NASDAQ:SPCX)",
+      "url": "https://www.benzinga.com/markets/equities/26/11/63659140/palo-alto-networks-meta-platforms-amazon-li-auto-and-spacex-why-these-5-stocks-are-on-investors-radar-today",
+      "ts": 1795655226
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BOJ'S TAMURA SAYS INSUFFICIENT INFLATION ANCHORING LEAVES JAPAN VULNERABLE TO SIGNIFICANT PRICE SWINGS FROM EXTERNAL SHOCKS",
+      "title_ko": "BOJ'S TAMURA는 인플레이션 고정이 충분하지 않아 일본이 외부 충격으로 인한 상당한 가격 변동에 취약하다고 말합니다",
+      "url": "https://t.me/marketfeed/1085584",
+      "ts": 1795655228
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "TAMURA SAYS BOJ MUST REACT MORE SWIFTLY AND DECISIVELY TO ECONOMIC SHOCKS BEFORE INFLATION EXPECTATIONS BECOME FIRMLY ESTABLISHED",
+      "title_ko": "TAMURA는 BOJ가 인플레이션 기대가 확고히 확립되기 전에 경제 충격에 보다 신속하고 단호하게 대응해야 한다고 전해",
+      "url": "https://t.me/marketfeed/1085585",
+      "ts": 1795655231
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BOJ'S TAMURA CALLS FOR FASTER ADJUSTMENT OF POLICY RATE TOWARD THE NEUTRAL INTEREST RATE",
+      "title_ko": "BOJ'S TAMURA, 중립 금리를 향한 정책 금리의 빠른 조정 촉구",
+      "url": "https://t.me/marketfeed/1085586",
+      "ts": 1795655233
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "日本央行审议委员田村直树：随着央行妥善实施货币政策并在较长时期内实现2%左右的稳定通胀，日本潜在CPI通胀可能会更加牢固地锚定。\n\n在此之前，由于通胀锚定尚不稳固，若出现外部冲击等情况，日本潜在CPI通胀可能会出现大幅波...",
+      "title_ko": "일본은행 검토위원 다무라 나오키: 중앙은행이 통화정책을 적절하게 시행하고 장기간에 걸쳐 약 2%의 안정적인 인플레이션을 달성함에 따라 일본의 잠재 CPI 인플레이션은 더욱 확고하게 고정될 수 있습니다. 이에 앞서, 인플레이션의 고정이 아직 안정적이지 않기 때문에, 외부 충격 등의 상황이 발생할 경우 일본의 잠재 CPI 인플레이션은 크게 변동할 수 있어",
+      "url": "https://wallstreetcn.com/livenews/3206015",
+      "ts": 1795655235
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "TAMURA: MAJORITY OF JAPANESE FIRMS EXPECT PAST AND FURTHER NEAR-TERM RATE HIKES TO HAVE LIMITED BUSINESS IMPACT",
+      "title_ko": "TAMURA: 대다수의 일본 기업은 과거 및 향후 단기 금리 인상이 비즈니스에 미치는 영향이 제한적일 것으로 예상합니다",
+      "url": "https://t.me/marketfeed/1085587",
+      "ts": 1795655281
     }
   ]
 }
