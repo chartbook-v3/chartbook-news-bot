@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795673367,
+  "updated_at": 1795673519,
   "id_hashes": [
-    "5c94554b7a72959c92615de88d5ae390cd68448454081c2adc5063d50e69603d",
-    "ffd03e14f47101b85184149738a304a175a3bdecbf8353541d67fd8e04d6605e",
-    "73749835ee46982424c7727870bf924c821f52e1034a5a5d9aa4b20b8837faee",
-    "30b5352f50da667d963d003df734d4902cc9e483bc04ca7863ff7d3356d1cf36",
-    "64f774c8de2a20a0a7a682141a8af4b87a2fd6bc6272d2af14c25942653206d9",
     "499e3cbeaa6cfbb8ea1183ea1fc33f61c549927ac733f64c2000433c54ff4e60",
     "10a016d2118e7074e6af2cd881e8b77516fe76915781a9383d958084e494259d",
     "2d1c9801a8c849a8f2ccc2d9f05e424e9e792d96dd9070dfac140f57eb40120e",
@@ -4000,13 +3995,14 @@
     "20718bf48fae8feeabe9e870804e95b8a08c27ae4180bb8de5599c98e766fe98",
     "b897c55adf6a6d39ac0fb1031183f36c8c84095a00579b2d12335f7db0e7a34f",
     "82a23b7802ba720057a2e84944cbd74beb31263f0725fb73b7d9dd2bf69bae42",
-    "9fd5c3187675fd60355a6c4b73fe4c2f09c6eb7bc13dd01ca6fb1ed135b2e664"
+    "9fd5c3187675fd60355a6c4b73fe4c2f09c6eb7bc13dd01ca6fb1ed135b2e664",
+    "42ef311e49d6daa26f38f9089f42a65f0e5a44ef6bb5a75a21962281b26a5a52",
+    "4479dc619cad51f142a73347e29e5e72e3ed2bdcf6c620e3d265fc33ddd5c20a",
+    "79a5c431f9c080a156060bf4c55300b9037dc94c66659e22b85e79024f96a823",
+    "bb408b7173960e0c769b5f831f489f12eb1da11e1c42472007fcce6cb70e4446",
+    "11854135e9c36eb085ef3dc8945b4f9f419c0e95abaaa348ea3f9536e70ef207"
   ],
   "title_hashes": [
-    "dfd9b129d1a35ba661b2d55efade600c40ea7e111a71101f4e6c9be855a8216b",
-    "91322fc35bc7f477551f1d00e66a694f653798b1c5396a866b3690bc681438e6",
-    "22da585b193e92cb6c69c567c6c3b54095af1ca7e7af176ccfb7117b20346450",
-    "3126baa0f48c0a04aeaf5c8f3bce81e20b8a3e33d26bddfeccdd3bb7125bdc55",
     "5473c08969f83a0c4a894a61159d1f14f77853cefa2b61217b665089f4f412bb",
     "d62f8175095f50503ba83d59160fb53abd9a8307becc53a49c1bd529784a58c8",
     "c6a3303296958c1bb5b6c34bf2fd89bd8a4a08fc1bd538179eeb777fa035dee7",
@@ -8002,16 +7998,13 @@
     "3f14f1adbe02887f8e56d19373357afa66d63979fc1ba34308ed54f0731c199d",
     "5dd1882c696c8f2643759e88e43e317975e750cb77f82242d21937d5548ea0d7",
     "bbc787b5afe5167203422444b9f33e9eaabf76beb8e641300a3653fa15c8cbad",
-    "8d2c1b6e25a662ca5d82e17e00a8f3edbb871c8a11c220d85161478633f6eaa7"
+    "8d2c1b6e25a662ca5d82e17e00a8f3edbb871c8a11c220d85161478633f6eaa7",
+    "bf5c8c376b026a13b6fa5e4167fdfd34cc9d91436480a566081b36312cfb8dc9",
+    "4dba232918b7e5b16db95133e3205cf8dcc866f8de01470648881d3c2ce710e4",
+    "4ac4bca5b659a2e1b866bc7f63d58807be3d6b2fdf578e42649446417e1fbff8",
+    "c52deb176f08355af0129d641d521b1c7b8d569fb8a159115ba706fb1d231ece"
   ],
   "recent_sent_articles": [
-    {
-      "source": "전자신문",
-      "title_en": "서울대 AI 반도체 포럼 개최…AGI 시대 차세대 반도체 기술 전략 모색",
-      "title_ko": "서울대 AI 반도체 포럼 개최…AGI 시대 차세대 반도체 기술 전략 모색",
-      "url": "https://www.etnews.com/20261126000064",
-      "ts": 1795653045
-    },
     {
       "source": "DigiTimes",
       "title_en": "Teradyne Unveils Air-to-Fiber Test Solutions for AI Infrastructure",
@@ -11504,6 +11497,13 @@
       "title_ko": "대웅제약, 자가면역질환 신약 투여량 예측 모델 개발",
       "url": "https://biz.chosun.com/science-chosun/bio/2026/11/26/AGDKNO2SQFBCJDCZ7RCSFY5RHY/",
       "ts": 1795673366
+    },
+    {
+      "source": "한국경제",
+      "title_en": "[단독] 금융위, 증안펀드 투자관리위 긴급 소집…5대 금융지주 회장도 부른다",
+      "title_ko": "[단독] 금융위, 증안펀드 투자관리위 긴급 소집…5대 금융지주 회장도 부른다",
+      "url": "https://www.hankyung.com/article/202611262408i",
+      "ts": 1795673390
     }
   ]
 }
