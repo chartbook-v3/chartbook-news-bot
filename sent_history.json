@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795709036,
+  "updated_at": 1795709198,
   "id_hashes": [
-    "6ea3785d8a2dfb7a542dc875911e6d1cc7d2f54cd4814a06ba547a20e7513903",
-    "b0a367eac2e904e8d1207291f8701859507e6f8723c114ba247cf8da1b1bef1e",
-    "773610a88399b697b839589eeb2e44d1a50ac32e1abe0376f18e677c7ec97885",
-    "79244acf3d3b844b74469bd7852c17de27d3f003742450e1b7ced104203039c2",
-    "10c37e0603e3b11bf3a8da6a1fb044c7e9c0c5d33940e09e5ad274459a0551e5",
-    "5f14c1810e5c58ce0677fbce26ede17a32da5003556123f13160a8b655b4a94c",
-    "bb9c08bf64b8296d71380a75f852f67671db586178063efba62c43aa69cf9826",
-    "e0845dcacb253e58922b32085b6cedaf95748400c7450eaf4ec48a56e44fd5b2",
-    "724decbcca416397223da9020f8c2181eb9c9da48a1ee419b04fc8210d8a2999",
-    "9aff1e60f79c986854b8e4fe884a8e6fbe6c8e85614fced819340cf17677aa2b",
-    "f2837f16c381d40c0654f2f356c02cd3e3cb12fec2132a63a57b0d5608b6d1cf",
-    "da57e1d2e68a7f4d85b8c8650a5e484940442c23dfc65d4691c53b0fe9c2cf01",
     "04740de8a36bcdbbf8ec8e6067d996190e0b8fd3354fbe8a51250305c24abdd3",
     "be452ba2559d2b6844a2aa1cda80a8863392f35a1658c9c4ed6cb555705676e2",
     "042bf0c21c3a16a507954ff5026dce2202b909db5c917523e812bdb74396004a",
@@ -4000,19 +3988,21 @@
     "7f773737583f5f8704417948309592a8913801ec68bddf1494325e3e30e603b4",
     "def376c575f0b284439e95afc27e45c10f0d6c239149b2a313de13e2416e9a74",
     "2dc839005e7ff98b8bb89e01f9a8d56af258b53935b263a933f9aa0239edcf7d",
-    "a5501fef8f5916578a1b0a9d804036fa9898e0c99d8b745374c767641be0a77e"
+    "a5501fef8f5916578a1b0a9d804036fa9898e0c99d8b745374c767641be0a77e",
+    "32cb65f9c357145cc3a6130e2b0a0a78760eb2622fd99ee3af4cfe3202bbbd83",
+    "4bcbc151f56dbd84775594fbbcb42105a1ffb4262883e1284550fac1067bdaa7",
+    "18516927120091fa94b81fb8406b62ea4efc9620438986d0bb216a657f5ad3a0",
+    "d700b61cd24b1d741ed8f54a0e297fc4df912d76abba4078b10321e41a24545a",
+    "84b0ae28c8543e90a686764d26b8b4c0872201155e4cfb04e2fbd34e0406612a",
+    "e4e6c41574031dcf09c4e9cc718327f83d71e84e850456b29cd06a64866f4a8c",
+    "c39ee1f81e71df717032c12c756e9066f7e70527b1413d1d5ba52d8764ef43fd",
+    "39e39db5d77fb113ab0660b0378c5ed6ba5d35567f0432955e194a5b87238651",
+    "da2cda5aedc5acf2f497b39e49711b5aa37972bd404dd1be3cd594298fe29fcf",
+    "1530d0ac95930b75453eb6407c2a17008d1dcbf7e260aee54854c9138cbd8c1e",
+    "10186885cab9598ff95b688116b2fa20ea070f9cc56b3dc273f3537d74fec6cd",
+    "0a0c77ff4b7ecf04c350b8d244711bf6669c21a4945377f75c471e03a6a04fb9"
   ],
   "title_hashes": [
-    "053f05b972720f1d1e58b77d3af131038a242dc27b7eb57475717ee9ad6d1485",
-    "cba1232b3e80f4b8958467ed575cc68e527705cb7d82b368b59d3c8a84e93de2",
-    "07048f1ed98300ff0b29c6c836a0fb7f36c903d02b631d4b20136e4f8449be93",
-    "c1f4a96c11e5aea1d3867b5a191e8774f1f0b6057281e035a4eb0d2fa54e986c",
-    "6b91bd44fda61b79941cfde4d106abd1276cb7a60b81c99eb44106160650bcb1",
-    "a901187c96d8e7560caa1368f76704ced3ee687a9fd3357316c85d6d8fe7167e",
-    "8a9038d8c7bd016d8ee6b49ddc1caac96bff698acfd1d9c67967396c332bbd8a",
-    "2b51c313247ba39874b7de5d1fe52f5a85af22ef84626a2016fef1d5d0d38e9d",
-    "3eec0d8ce88ebb691088d55f08f9d75df82f81dc1d8c33429b94f7c09fa099c3",
-    "963948c928ed1b5094326706bbe00bfa2369a3ce72b97fcc15713dd8e4d59283",
     "17850876f0f72ee015298eff87d844c8a8a43cb785e2f7bd1d33493c56b9444b",
     "6d82d8472ef6189f0a44b96a4457b020924fee79cd842ff3331e60e693731c2e",
     "0da228d3213f0e3144e0a89850a668a26763b1face8faafd85921d2249a4eb7b",
@@ -8002,37 +7992,19 @@
     "7dbbe5aa71427b736503ecb6a095da85b21ef1dcc01169e9d06aaf4ee25e6365",
     "c296d1429960ffc98af4a86a0762a9145c80dce3986e80e9fabe649a03adb883",
     "9dbf216f6ab1439ecc588ea83101de3935a0320db20517596d22802808cdccf4",
-    "7bba95dcb89a30bb8daba6bdc9d520f36a173f053999d811ad100abd11df138c"
+    "7bba95dcb89a30bb8daba6bdc9d520f36a173f053999d811ad100abd11df138c",
+    "4acf36aa8cff5660408565ff07a4021d7e1ac5f56c05af26dc4f22f9529b754d",
+    "728872d2a8d93a22215d894bdab852a299b29aaf320802d4565a5d05174e5b5b",
+    "dbac6a4353a100a6b50526739b9fd726cbb7ca32b00ecf38f7553270d82e4a2f",
+    "1ab94f534b4935d49af50e5440154e060b7612107dc3a685fdaec12bb2eb5d65",
+    "0f692f16742b72e512775d958b6bafa09ffa8b2002ac6ee16cf3d856763a96a6",
+    "89d9d3d96649112aec968ce1773fcb351bec9a46b077222bee997d48c69568c3",
+    "29a15ffc7a370a0df9d3b2422a9a3342f8d7b031cc1f7711caa3f2096007703e",
+    "7a19cb09b1152182f4bbeee881f626c903a78b8e451538a63eebad4e6779d06e",
+    "e5222fc4e44cf6464218b33faa956eefbf314cc15a51f4bd92c55fa88676559a",
+    "5f27bcc3a1c6581a5d0d234ef6edeecce21aabedc1718ddc707ed850bb108fd3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "'韓 주도 HBM 시장 틈새 노린다' 엔비디아 손잡은 키옥시아",
-      "title_ko": "'韓 주도 HBM 시장 틈새 노린다' 엔비디아 손잡은 키옥시아",
-      "url": "https://www.fnnews.com/news/202611261610412797",
-      "ts": 1795677911
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "“中 AI칩 우회 차단” 美, 동남아 수출허가 의무화… 엔비디아, 서버 선적 중단",
-      "title_ko": "“中 AI칩 우회 차단” 美, 동남아 수출허가 의무화… 엔비디아, 서버 선적 중단",
-      "url": "https://biz.chosun.com/it-science/ict/2026/11/26/NZ5Q7TR7FJEANMJCUSLD2MBOOI/",
-      "ts": 1795677913
-    },
-    {
-      "source": "FT",
-      "title_en": "Asian trade partners of US hit back at Trump’s latest tariffs",
-      "title_ko": "미국의 아시아 무역 파트너, 트럼프의 최근 관세에 반격",
-      "url": "https://www.ft.com/content/31ae0162-f946-4e2c-b656-1930baea19d0?syn-25a6b1a6=1",
-      "ts": 1795678064
-    },
-    {
-      "source": "인사이트",
-      "title_en": "내년부터 바다 건너는 누리호... 한화에어로가 바꾸는 한국형 발사체 생산 방식",
-      "title_ko": "내년부터 바다 건너는 누리호... 한화에어로가 바꾸는 한국형 발사체 생산 방식",
-      "url": "https://www.insight.co.kr/news/583758",
-      "ts": 1795678067
-    },
     {
       "source": "FinancialJuice",
       "title_en": "EU's Trade Chief Sefcovic: Strongly reject USTR decision",
@@ -11504,6 +11476,34 @@
       "title_ko": "우크라이나 \"북한, 러시아에 대한 미사일 선적 일시 중단\"",
       "url": "https://www.reuters.com/business/aerospace-defense/ukraine-says-north-korea-temporarily-halted-missile-shipments-ally-russia-2026-11-26/",
       "ts": 1795709035
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Rogers Sugar Inc. Non-GAAP EPS of C$0.11, revenue of C$339.5M",
+      "title_ko": "로저스 슈가, 비일반회계기준(Non-GAAP) EPS 0.11캐나다달러·매출 3억 3,950만 캐나다달러 기록",
+      "url": "https://seekingalpha.com/news/4676835-rogers-sugar-inc-non-gaap-eps-of-c011-revenue-of-c3395m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795709125
+    },
+    {
+      "source": "TechCrunch",
+      "title_en": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "title_ko": "앤스로픽 IPO 추진 속, GTA 6가 증명한 '효율성'의 역설",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "ts": 1795709185
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Chip sellers have told neoclouds they won't supply Nvidia chips if any of the computing capacity will be rented to Chinese companies - CNBC. $NVDA",
+      "title_ko": "엔비디아, 중국 기업에 컴퓨팅 자원 대여 시 칩 공급 중단 통보 - CNBC",
+      "url": "https://www.financialjuice.com/News/9869618/Chip-sellers-have-told-neoclouds-they-wont-supply-Nvidia-chips-if-any-of-the-computing-capacity-will-be-rented-to-Chinese-companies---CNBC-NVDA.aspx?xy=rss",
+      "ts": 1795709187
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: 🇺🇸🇨🇳 US LAWMAKERS REACH BIPARTISAN DEAL TO PERMANENTLY BAN CHINESE CARS FROM THE UNITED STATES.",
+      "title_ko": "미 의회, 중국산 자동차 미국 내 영구 금지 초당적 합의 도달",
+      "url": "https://t.me/marketfeed/1085960",
+      "ts": 1795709190
     }
   ]
 }
