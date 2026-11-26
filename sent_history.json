@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795707806,
+  "updated_at": 1795707965,
   "id_hashes": [
-    "95f034ce0780ee8c1a0b5578c380a81ed519d0c115fb8c0dce2374aa934c20f3",
-    "c002a83eb8b7fa031d36dde422ffb2bfa922db93b9383fc68fd245812d1de3c8",
-    "0e7cee5d17f582e9607c3cba2baf0f3daa3d6f9f6d6f9f7b50fe28724132c54d",
     "db72e6eccb2a95101f8d71a2758f1e396f7dd25d2d6157435de025e21fbe6bce",
     "e85970cdf06b541d4df74e18daf3d3e6757c32397353b9e1facd7decbe2b374b",
     "58f7b4203b001f50e48427420b95c4c03b37547293bad9b0038003e39e4735bd",
@@ -4000,11 +3997,12 @@
     "11261f492540e7c90fe9395b0475ce80eee1824d51bfd5243ee2f24813b656d3",
     "9da23417c4a6ca961a1434e5faec58c3e1b7a47dbe3b6a20010e7648eff749fe",
     "c39d78f6bab97bf2ed62003430771d0ef3277f3b85c3ea6d242e199b68d5ad8f",
-    "38a83004fef2c7ebd7ac281eba9ffc7e9ce027471de440721fe68fa7c0ebb231"
+    "38a83004fef2c7ebd7ac281eba9ffc7e9ce027471de440721fe68fa7c0ebb231",
+    "3e8c89357442e0813a839988da9f8950bc9ec99a23d66be5449e4a3ecc514300",
+    "c6337e8146740896665ffbd9119025cc72095e06500483d68f94570cd93f1186",
+    "24dc54a7cb5111be94cceeaa21244f0ff2e9555b6826a739b3202ed5ce04cc87"
   ],
   "title_hashes": [
-    "7b4167f5453d03691323de6c56b12c4dba7a6eb4f361d9696818ff6a9b94cb32",
-    "e512f14b8cbb1ede7fa64514ad7a23983eccbbdd897a6f0c499a1ec31d0a3e1f",
     "145227e4a990183f27708c2edea6b1005ba082830a0b1021888dc6c94e8adfe9",
     "43631314e5185a7909f7527a0954b744f28ee3222476b14482517a54f34bb908",
     "6804a83c8fe737288be8191ef940d2cf61dfff2997d1c3d7c74fffa28dffb99d",
@@ -8002,16 +8000,11 @@
     "50dcbff1c282d0432ba2d789a1b1c3dc05a7094c47452b6a3aba869ea4f61b0e",
     "778f4e430589956b174f5c36c5da65790771e49d14a312ab8417cc32e494fd10",
     "78088c2960bfdb5ff2f535c3c63791137d1dd873bb8bdf359ae8a6e6f48e3971",
-    "32904483990bbad153546c3f89eea63e739a947074666281da41da5af25197b8"
+    "32904483990bbad153546c3f89eea63e739a947074666281da41da5af25197b8",
+    "4f36a88a51c0438269181841a95ba71abb3c9b107b1826d2eb623e6c088fb7f1",
+    "7eabb047fb5177d630b8298592da50045ec63843195b5e0621cb8cff8d848478"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "TruGolf Holdings Shares Surge 18.94% After Hours - Amazon.com (NASDAQ:AMZN), IBM (NYSE:IBM)",
-      "title_ko": "TruGolf Holdings 주가는 영업시간 외 18.94% 급등 - Amazon.com(NASDAQ:AMZN), IBM(NYSE:IBM)",
-      "url": "https://www.benzinga.com/markets/equities/26/11/63660267/trugolf-holdings-shares-after-hours-leadership-shakeup",
-      "ts": 1795677311
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "国债期货收盘，30年期主力合约跌0.06%，10年期主力合约涨0.03%，5年期主力合约与昨日持平，2年期主力合约涨0.01%。",
@@ -11504,6 +11497,13 @@
       "title_ko": "아일랜드 고등법원, BAWAG의 Permanent TSB 인수 불허",
       "url": "https://www.reuters.com/business/finance/irish-high-court-refuses-sanction-bawag-acquisition-permanent-tsb-2026-11-26/",
       "ts": 1795707805
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "한국인 반도체 기술자, 중국서 '반간첩 혐의'로 3년째 구금",
+      "title_ko": "한국인 반도체 기술자, 중국서 '반간첩 혐의'로 3년째 구금",
+      "url": "https://www.news1.kr/world/usa-canada/6367760",
+      "ts": 1795707964
     }
   ]
 }
