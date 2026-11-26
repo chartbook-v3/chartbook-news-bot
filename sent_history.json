@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795668048,
+  "updated_at": 1795668196,
   "id_hashes": [
-    "f886e52a089c6920cd75056db7ccc208c6f73df86cc93f701c7a0c20b87d6089",
-    "7ba1dacb4a6fb3f7720470bdfd5b656263c109ea9192e21c53c4c3e535f0c37a",
-    "d72af501c887f830ab29cf3cab3b255c7e6a301fd1ac145c16f70f4b10f4be3f",
-    "08967f37742f37fed108eda59a1bbe8a0fb209aad7f3a8274515bb4d28243800",
-    "1f7c38062c432ab222998c33b1243f14d162af0bfc55930928ab2056e1d21b4f",
-    "3f144464dd144ba70d0f8abdb718b508a7e528ec2d5805da84e1f7c5e1f16083",
-    "cd4ba93f94d0a207cd66877b2bcbb8223825325e78e1d92607c9332fa0c75811",
-    "58c9f672da881de3406a742def67743d09f1f755437c1231b31fe6c62fc3280f",
-    "b4493045a9a9dcdf33ea45c07f8f8e0b18908f01e3dd8e3196f7fc3c1243e43e",
-    "959cf99de0453a253b8760b2a886f2cdb60092e8c4a85af4a3b54fb4913c9580",
-    "4160e613afc2a55e5fbffb20dfebfb73edfe5571ba72a3e71bfadded1065b312",
-    "f1f04bf32b0a96cbd2859364e0da05253708174bcfe15a73dd14d17a2d15a414",
-    "dea9c93956e8525dbc0c6d07cd0b9943356432f8e2ec059d4e131c7784e3ab96",
     "28c4dc61cd95795289e040f8d73bf3ee2e00d569ecd7efc27d7eb9e779e31e43",
     "871abe00e27c8b60e809c502aa56f79b549244c408ae195669f651541b660d32",
     "a291fe8b7a333c7996e9b53ec35281402837e0500168342d7cbdb807c58e9574",
@@ -4000,19 +3987,22 @@
     "679923a40056c99c4b5631a3c52f1dc0881ceb801f103e77b60ff6aacd724148",
     "1f04dfdec48bb19cfb90f8a738aab92c35967afdb9989499c3d56e1456965656",
     "8d227651fb4192798d8230089a403de4683064484538b3011886248b26fac382",
-    "dd155f2e01bc9964884a5f283315d2e73c535e2238e45c9621344f5745e0c367"
+    "dd155f2e01bc9964884a5f283315d2e73c535e2238e45c9621344f5745e0c367",
+    "5eb1e9ba91b7f6913f2d30936b88fb2625fc75c0fa188f1fbd3c1cff8f03b730",
+    "69650400a4d3b7f6ecdd26807d7d12992979161fc3dd265dba8a123b3aea2ac1",
+    "377f1c8db5b26a8a1bbb59fda2a9e53da9d4ec82237697f99ff366016a96d547",
+    "25a7a379264d2e1e24d0d0963078eaa720aed9ea0a76ab91691e048a426e9997",
+    "ea44d824e2fd46eeaa21e68fa154eb0f012c94ee019db10bb02afcadb13fa8b7",
+    "73c8e43f73c99c2a1e82a8cac7f33013ae1084d76bbd314af3259ae9abc11232",
+    "b5c9aea9562a806c854f9c0f3aae1fc1b7b5ef0c9b2a10c32f2b9b119cd976c6",
+    "3abb040af3e284b03977bc1c1017286b598754567a9fcadfd68f33cd993be5dd",
+    "f3b6bce017b04021c0d3a007297745da65a65eab1fd81adb7fa3498a5be6b438",
+    "cf6597736d2f4e2db0bdd9270da47e3567de732df8e6118f8bb554e62f4c2f17",
+    "6c0eb20d3ee7f1a9c93f1096a7d87295a9b095cd7f31e8e9bc01494c2420fab7",
+    "99f3110c70c79d5f52940812ff209dbe5ee98997776798a988f8515776681c59",
+    "15fd854322c71f9d82f89cb894c0f4f5e6d3dac576cb39e6dc43e8586ac507af"
   ],
   "title_hashes": [
-    "53b371c74668e2cadbd7322b31433d518a1a8dcd6425b9ca48fab3827c7a1a03",
-    "81978815ced66e218b08b28874315d6a805998d90a1e9784e0f5cb4a90e6d069",
-    "f33e21272777e05d4ffc33476bb8f16da95d0f2ccf164fa0d457f1058fdd9900",
-    "c300801d14d0004cc2b2eb06c5f19cb1a4ebab16c27f044507f81b0dc63c948e",
-    "558f3584dc0bc22ab7f713382e583b4a0c232675d8790aa81e02b0754427c78b",
-    "107d56b5299f8d3386c41a61f44267d344de22081675062c0b7df45e220f8151",
-    "89b45c5abb4204e91b69f6e3516151d7989282d356cf5c18bfd5ca65c5302435",
-    "b96e92816bf6f0ae88a2ebc867ff4f48e6b879a53906bbc79d15ba75fcbe4480",
-    "30d3a50887a69ac85d024f9b050244ca602eb7918b99cf96e166014712eea103",
-    "a5c0324cd969660f31e6470f6bd00cbb5b078246c24df0d5af104b38c6b8fe29",
     "a1a2f8f1f7c8a5f6878683c2e5160ac8554ccfa2d7a0cc0faa207d413b7eb65c",
     "88ddc6a7b296c001eed377430e76c8def1c2986b3af5bb5705d2a998af8d8ab4",
     "45fc54d2da20de17100b7fcb26884dadbf85fad939bd5b45706324d06de1f2ee",
@@ -8002,23 +7992,19 @@
     "a6c56033ee123d565ec43dff85ff762f9c790e74e9ee21e1f53c200bf186d5de",
     "d5cfded0b1739c0e9df2f2c4d9dbfc8db6e4ad0223fd188068745e6d99cc6879",
     "f27c62b43968f8b6062f95a98e19c784e2fb930b214a228ad52b1f0c692c4368",
-    "600664237b1efdcc0153a45a37ca8cb92bd68be60bcf6e9eb8b007e371fdf159"
+    "600664237b1efdcc0153a45a37ca8cb92bd68be60bcf6e9eb8b007e371fdf159",
+    "83ed9ffc578ab267426d35444d1999dcecb6e4dd37c20a9e987238d3eb791073",
+    "513b4c9663ed7358de13941c986f46500d975add58fec9536c26894e4ba900bb",
+    "fd7c120eee0e32b502fa28edd3c3aa75ec01f442895f0c51408b6a9f60f81665",
+    "741f81bb13d6775019e616f6086839e21e6abbba7e4e424b605d999d344d3082",
+    "721b3f943c19336957f9ae792082cc1ba2c442ba29f5cd2179d1c3bd74f73df6",
+    "28ec7e238a6bcc078292ec110163e59871a2549ae4d0549dfe8e732e04f90b76",
+    "2e112592b8d17742e15f95740536d8ea21ee1ef12436888359310c0a148e2a33",
+    "fd268aa5463cc42a951809a2be7c21713c456e43b87663224c58273c5bbe1ada",
+    "b893cd8bd157425c5caee14a4b98d5b17c974667c8e3a833c209a3bf48ac1fc5",
+    "9e0b5e6d1f6ce5a2db205aca821c3db7c5aade61f888d2ded8c682b32017e1cb"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "JARED KUSHNER SAYS ON UKRAINE THAT IN TERMS OF REGIME CHANGE, PRESIDENT TRUMP CALLED FOR AN ELECTION, WHICH HE THINKS IS A DEMOCRATIC FEATURE TRUMP WANTS, AND THAT THAT CAME AFTER PRESIDENT ZELENSKY ATTACKED TRUMP, ADDING THAT TRUMP IS \"A VERY STRONG COUNTERPUNCHER\"",
-      "title_ko": "재러드 쿠슈너는 우크라이나에 대해 정권 교체와 관련하여 트럼프 대통령이 선거를 요구했는데, 이는 트럼프 대통령이 원하는 민주주의적 특징이며, 젤렌스키 대통령이 트럼프를 공격한 이후에 나온 것이라고 덧붙였습니다. 카운터펀처\"",
-      "url": "https://t.me/marketfeed/1085513",
-      "ts": 1795645905
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "JARED KUSHNER PRAISES PUTIN, SAYING HE IS \"VERY ORGANIZED\" AND \"DEFINITELY A GRANDMASTER OF POLITICS\" AND \"A HISTORIC FIGURE,\" WHETHER OR NOT PEOPLE LIKE WHAT HE HAS DONE, ADDING THAT PUTIN IS ALWAYS VERY WELL PREPARED AND THOUGHTFUL, TAKES A LOT OF NOTES WHEN THEY ARE SPEAKING, AND CLEARLY HAS A VERY DEEP UNDERSTANDING OF THE ISSUES AND SOME VERY STRONG PERSPECTIVES ON THEM",
-      "title_ko": "자레드 쿠슈너는 푸틴 대통령이 자신이 한 일을 좋아하든 안 좋아하든 \"매우 조직적\"이며 \"확실히 정치의 대가\", \"역사적 인물\"이라고 칭찬하며 푸틴 대통령은 항상 매우 잘 준비되어 있고 사려 깊으며 많은 주의를 기울인다고 덧붙였습니다. 그들이 말할 때, 그리고 문제에 대한 매우 깊은 이해와 그에 대한 매우 강한 관점을 분명히 가지고 있을 때",
-      "url": "https://t.me/marketfeed/1085514",
-      "ts": 1795645908
-    },
     {
       "source": "MarketFeed",
       "title_en": "JARED KUSHNER SAYS ON PUTIN THAT HE AND STEVE ASSESS THAT \"PUTIN DOES NOT ONLY WANT PEACE, HE WANTS TO TRY AND CHANGE THE RELATIONSHIP WITH AMERICA,\" AND DOES WANT TO SEE IF THERE IS A WAY TO START A NEW BEGINNING, ADDING THAT \"WHO KNOWS IF THAT'S TRULY THE INTENTION, AND WHO KNOWS IF THAT'S POSSIBLE, BUT YOU ALWAYS HAVE TO START WITH SITTING WITH SOMEBODY WHO HOLDS THE POWER TO MAKE THAT CHANGE\"",
@@ -11504,6 +11490,20 @@
       "title_ko": "한은 \"반도체 복합충격 땐 2028년 성장률 2.1%로 추락\"",
       "url": "https://www.news1.kr/economy/trend/6367014",
       "ts": 1795668047
+    },
+    {
+      "source": "한국경제",
+      "title_en": "중국에 LNG선 시장 뺏긴다?…\"美 시장엔 낄 자리 없다\" [분석+]",
+      "title_ko": "중국에 LNG선 시장 뺏긴다?…\"美 시장엔 낄 자리 없다\" [분석+]",
+      "url": "https://www.hankyung.com/article/2026112614536",
+      "ts": 1795668132
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "한은 \"반도체 악재 겹쳐도 내년 3%대 중반 성장\"",
+      "title_ko": "한은 \"반도체 악재 겹쳐도 내년 3%대 중반 성장\"",
+      "url": "https://www.yna.co.kr/view/AKR20261126109000002",
+      "ts": 1795668135
     }
   ]
 }
