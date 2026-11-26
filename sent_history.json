@@ -1,23 +1,6 @@
 {
-  "updated_at": 1795694497,
+  "updated_at": 1795694666,
   "id_hashes": [
-    "5c5e1f80f84c4a0a0b57d212e821371430831f56ec7fedea9d4238dfab0d17ef",
-    "f41127e15d2d304e9a3f6bdb925848c5f121b195c4ecf42328ea5a7a6210baac",
-    "ba7293b11783af767a009f18b65e5905709f7fb2cb86bb29e9ec0ffcf0cfbe3f",
-    "540b7e244b3c7838f3513898f16790391d89f709087f47764f24c81d391cfea5",
-    "46abec1ece82ddc34717133b3af2997f642aa398e0996eb4d0b57f7c80154e52",
-    "54f21e44b2968259434614f11cb4f458b4251851a410d9de5c93022fe2698500",
-    "e6d2012c9cf9302a138c3897752ef8e434b66a41fab433175c6589ab958fa48a",
-    "40b32b6fb40796fc60c9442314afc128c01707359afe2306f85c685b3aaf1b3a",
-    "18ab40d0cb9169abbe83d7f40129af85de72a49cc3bb0f412fde70450c8bd0e0",
-    "c1ad4e6dd59d284c34949a1bf4b5f5bfefe166d393608361e1324d4291e746b1",
-    "b7649cc0438c6060adbf1b030b247825cb9d57d1caf22492eb4b4ed0993c917f",
-    "60ab2c855ef901fe5aef8242cd23b1e43775e97fcb27958c1628153430245cda",
-    "a82fce2b529935d9b1494b0c83e21011c72eaca3dbfa3a51c767696508342370",
-    "ece6fb50efd90b49213766d989546560223e58d0da15e7b31847f9dcd073fb76",
-    "860757354a438d93aa09ff1654f9a466428cee552d5c609524cd735cdea2e756",
-    "efd6e590cbb349d58bb77431aa692cacb5f1d70d067c67a6e83ddfc2bde47520",
-    "7ba5741d0803fddbf2de344e9073481588083c8fa4b4fc0b856dcf3e65fa0cc4",
     "c7772f6a933132d42ec0f0786cd55aa652a01b36ce8f1a08d1b2376173bd6862",
     "c771852096f777e3df5a7d134731aa0ac3295a6a22af5e795b4c1c498371aee1",
     "e0cc505307d388206b58c2c1002e0dd1daca4455ba866081073f8aef93542c1b",
@@ -4000,24 +3983,26 @@
     "52f14bdb1da568a284de41eb20127c99c5ff7bca53d311f992406e271a455c98",
     "3ec4bceb2220ff522a3872214eacd8fd84f2e8d71a79382c31ba9570f5f5f4a8",
     "2959cb26527dd2a3f6c378717b53b2d218a3add9fdf6daff4e66ed43243cf385",
-    "42bf9075a0c481ad852a30a645853b2e04de5cad16c204176ac0aa2e9b9df6d3"
+    "42bf9075a0c481ad852a30a645853b2e04de5cad16c204176ac0aa2e9b9df6d3",
+    "35cffc85230f079bea47720eee69106f270d8499669a0b2b0c0b8224fd18543e",
+    "adf8078c5eefb6c94e46fde9da421d8c13cc195a29ce8a27bd4f7b5a51d8b6b2",
+    "367c16f6e62a139203480e4003ae78c9b47000227587339b59db9074c33c3797",
+    "6d10c8529fe63c012a0de27ee9395bd0e67b2250c9ed5ef8b497a05064b8f58d",
+    "07242526f003e02723fe0bb35d1e83dd667426b4a64757a5759d57c7eb653ba0",
+    "7ec73e35221e96e64ae0a9aeaeb2c02bba4b48c852cb60670d03bcac81c40c0b",
+    "f0d5afd5289eff57e0a2fd9954b2bb42eb207ffc9754f7c5b0c876741d9c8d55",
+    "3dae5d9c7013857b03ce9db0695140d0424804fa11f49c9ae39a7ed236b9308a",
+    "bb192754b24184350175eac561d3b3c34250cb8c94910552756d720b2f902dbc",
+    "8c349d19cd177166488ee3a92320fb4a2a8d1f7ffdc478f7efdba066c633ebb7",
+    "9c4def49267e2e47522da3c68e7b785032368c89aa8228358554ad9a851f063a",
+    "f808463a9806e7605ba961beb6533618ce0e34b94de94b57d882a204dc8a1ce6",
+    "bf937cf3ee0c1759347f70e5428fa4af77dee804a133743326a7d65e47bc4642",
+    "720266a46957562fc7b17d5e4e0c8bb527693ddf6059b8d7339b196563416ee3",
+    "311362fec69e4c250aa02fee264eccd84d4bee376f49a18a4d7f8820ea1b6fe2",
+    "1eac0384fdb4472d8d0da21460688f8ca77fd518c1a242bd0ebe0b29a4dd4773",
+    "2ad78476f7883916b6c0ed8c3580bad358b5c3d7c44271ef3fc957bf7dcf320f"
   ],
   "title_hashes": [
-    "2647d8db3d1617ea0b669fcd5f0f500d60855b98daa0e4814483dae6a0554d74",
-    "313d09bb292d5cfc169abf6f3317948ab8062c0bcc948d8064f8071299b5b584",
-    "6fe6a7b753d2e27019743ebca2b724ad7b041c764cc745ff08dad90f2e61322b",
-    "478a00e41be74b652d9d0993038f96add98b5d2ade1a72cf1b9376b3bbeeae17",
-    "ee61ee586ee0b935e451ec18527b0c729e8c7f0db0d572e3cb604ce95663db42",
-    "e19f24e0436370d96a0e46ed6d84021174365ff4d0c0ab6ba6e8841600d8c1f3",
-    "f4c6590552352778619987635dd5e04c1c5a8203f5820428ffbed167d2bd1491",
-    "b431c603b37e3181506b9618dd6bdbe22267ba098df6676828976717b28b50da",
-    "72c724433cf2f2248cb62df9a53dca00c2612a3d2f342f8652eeaa762dadafe6",
-    "827139316336c2e0e21d97301374f98063ab4ce745bbcfb57d28b464690cf6da",
-    "a3f28fb548b48af9f4129511266a1f5b1fad8a2577515965224621e78f55b085",
-    "c6b46c54db68b8a34375842a91e50f7f84ce2f7b2098d45563d0a7a060d9193a",
-    "4aab7ca7d0153bebb82bc1f5e0c3c0bee20a717ccdd33c402494e847a07959f1",
-    "86f12c821f4468edc5af9a814187d4edf1c7ae9368301ad1ca45ad49685c54fe",
-    "27cb4cd8291efc66aeb557f710ec9cd254bb703e5e0bef3f4cf681d6430244ae",
     "52a5c70e0101a4dfa28f531f899dc3f1157d0cc8224689a993464f1872510a56",
     "451a777364d57e3349538d86f3d43fa4a33e800decffdd8b0eba966c4506beb5",
     "92a121600e4f61d44f1f754e30289694e21da7832c7e444a7c24e6ec33433d4d",
@@ -8002,58 +7987,24 @@
     "bd105829878e649d3bfa47a29dde95b765fd5037655377cadb1aada4470e0eae",
     "bbdce7465e6a9975a9d36f2164717853f8a4870f8b0e92fdd868fbe50adb713c",
     "083fcac45e3731e929a6448cec7c81379eaee5913148becfceb38b00a72bbc05",
-    "470e34f8c0cee4eaab8e528053a077d11ea62f23f3994e51dba43a7c2d310fb4"
+    "470e34f8c0cee4eaab8e528053a077d11ea62f23f3994e51dba43a7c2d310fb4",
+    "08f13d98ea529b7f881ce24df4f2bbba531fafbce7ac3d6118430b4e4b5de92f",
+    "56a59da22e2a1f3e5f469280732323c51c01919cb08bb3f92637194e89b81fbb",
+    "2bca80166f3475689d01647f86cb010874000cbef2150d2ad18b1447a5d7138a",
+    "a866aa8235225af70584ab92c5147267860e29ab3d0730d662defe7daf54009c",
+    "d5fe33bbe3c30c04a418cfeccf65519e1f5c0af15feeb88c74bb320edbb3a223",
+    "03f52762d6baabc819a5cf8678e2544ad9db46546b0449288462fc54b8d3c8b9",
+    "aef9adc8c7361b4b00b01933186959a6941a5f8a6bce49381e23e39f74fbaa3e",
+    "08b42f2f83f9e059cb2a29fa4d003f6aac13e34bd2058f8eeb07b6d0e469b50f",
+    "f48a88ca6c9c3092fc17b65dc7ae8202adf2e06c8c1ec67f3eabe4607d8dc555",
+    "4e8532923a88737c9be68640eb4ac1073bdf7b66a10b66917a581f2ea883b24d",
+    "5535c2d2c6e804f5e027203505a45dd3844b1149e2d39ae754701fe84cfa6a86",
+    "d96ce415458a9c3cc1e466ad6fae97674896a75d138f31b91f11259ded18d69d",
+    "74b6f5cadc62019aed76f1131847e6fdf869952e812ae0e75a4e1c4b3ff74b92",
+    "9be53bd9c0a2963aba5921d9b51261c2c2d93e2199fc8dc4810d6971b9b18cbc",
+    "5f25f6fa68acd38b04b3c8dfd82aa6e6d304636bf620ea99d2ed7463b4f7c966"
   ],
   "recent_sent_articles": [
-    {
-      "source": "잡포스트",
-      "title_en": "대한광통신 1만3910원…누적 매출 1436억원",
-      "title_ko": "대한광통신 1만3910원…누적 매출 1436억원",
-      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=241197",
-      "ts": 1795669936
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "머스크 \"美 모든 어린이에게 스페이스X 주식 2주씩 주겠다\"",
-      "title_ko": "머스크 \"美 모든 어린이에게 스페이스X 주식 2주씩 주겠다\"",
-      "url": "https://www.news1.kr/world/usa-canada/6367061",
-      "ts": 1795669938
-    },
-    {
-      "source": "연합인포맥스",
-      "title_en": "[현장칼럼] 삼성전자의 다음 M&A는 어디",
-      "title_ko": "[현장칼럼] 삼성전자의 다음 M&A는 어디",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446772",
-      "ts": 1795669942
-    },
-    {
-      "source": "매일경제",
-      "title_en": "젠슨황 복귀일에 엔비디아 본사 방문한 머스크…친분·의리 과시",
-      "title_ko": "젠슨황 복귀일에 엔비디아 본사 방문한 머스크…친분·의리 과시",
-      "url": "https://stock.mk.co.kr/news/view/1206576",
-      "ts": 1795669970
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Turkmenistan's Afghan gas link brings South Asia pipeline dream a little closer",
-      "title_ko": "투르크메니스탄의 아프가니스탄 가스 연결로 남아시아 파이프라인의 꿈이 조금 더 가까워졌습니다",
-      "url": "https://www.reuters.com/business/energy/turkmenistans-afghan-gas-link-brings-south-asia-pipeline-dream-little-closer-2026-11-26/",
-      "ts": 1795669973
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "BOJ BOARD MEMBER TAMURA SIGNALS POTENTIAL FOR 25-BPS RATE HIKES AT INTERVALS OF SEVERAL MONTHS",
-      "title_ko": "BOJ 이사회 멤버인 TAMURA는 몇 달 간격으로 25-BPS 금리 인상 가능성을 시사",
-      "url": "https://t.me/marketfeed/1085685",
-      "ts": 1795670032
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "日本央行审议委员田村直树：中东局势走向仍不明朗，将继续关注其对经济和物价的影响。\n\n如果通胀风险成真，日本央行可能需要加快加息步伐或一次性上调50个基点。",
-      "title_ko": "일본은행 심사위원 다무라 나오키: 중동 정세의 방향은 아직 불분명하며 우리는 그것이 경제와 물가에 미치는 영향에 계속해서 주의를 기울일 것입니다. 인플레이션 위험이 현실화되면 일본은행은 금리 인상 속도를 높이거나 단숨에 금리를 50bp 인상해야 할 수도 있다",
-      "url": "https://wallstreetcn.com/livenews/3206128",
-      "ts": 1795670034
-    },
     {
       "source": "조선비즈",
       "title_en": "삼성전자, DS부문 미주법인장에 윤하룡 부사장… 메모리 개발조직은 사업부장 ‘직할’ 체제",
@@ -11504,6 +11455,55 @@
       "title_ko": "[속보] 2026년 11월 25-26일 글로벌 증시 주요 뉴스 요약",
       "url": "https://t.me/marketfeed/1085867",
       "ts": 1795694492
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trump’s Latest Tariffs Undercut the ‘China Plus One’ Idea",
+      "title_ko": "트럼프의 최근 관세로 '중국 플러스 원' 아이디어 약화",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/trump-s-latest-tariffs-undercut-the-china-plus-one-idea",
+      "ts": 1795694537
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trading partners respond to Trump tariff plans",
+      "title_ko": "무역 파트너, 트럼프 관세 계획에 응답",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/trading-partners-respond-to-trump-tariff-plans",
+      "ts": 1795694546
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BRAZIL IBGE INFLATION IPCA (M/M) NOV: 0.22% (EST 0.36%; PREV 0.32%)",
+      "title_ko": "브라질 11월 IPCA 소비자물가지수(전월비) 0.22%…예상치 0.36% 하회 (전월 0.32%)",
+      "url": "https://t.me/marketfeed/1085869",
+      "ts": 1795694552
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "MEXICO UNEMPLOYMENT RATE NSA OCT: 2.97% (EST 2.63%; PREV 2.85%)",
+      "title_ko": "멕시코 10월 실업률(계절조정 전) 2.97%…예상치 2.63% 및 전월치 2.85% 상회",
+      "url": "https://t.me/marketfeed/1085870",
+      "ts": 1795694557
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "Export-banned Nvidia Blackwell B300 servers are openly for sale in China for up to $3.4 million — a 5x to 6x markup over U.S. prices",
+      "title_ko": "수출이 금지된 Nvidia Blackwell B300 서버는 중국에서 공개적으로 최대 340만 달러에 판매됩니다. 이는 미국 가격보다 5-6배 높은 가격입니다",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/export-banned-nvidia-blackwell-b300-servers-are-openly-for-sale-in-china-for-up-to-usd3-4-million-a-5x-to-6x-markup-over-u-s-prices",
+      "ts": 1795694599
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Jensen Huang’s Nvidia Return Drew Trump’s Support, but White House, FBI and CIA Differ on Whether Alice H",
+      "title_ko": "Jensen Huang의 Nvidia 반환은 Trump의 지원을 끌었지만 백악관, FBI 및 CIA는 Alice H 여부에 따라 다릅니다",
+      "url": "https://www.benzinga.com/markets/tech/26/11/63661586/jensen-huangs-nvidia-return-drew-trumps-support-but-white-house-fbi-and-cia-differ-on-whether-alice-huang-had-china-spy-ties-report",
+      "ts": 1795694662
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "UKMTO REPORTS ATTACK 18NM EAST OF KHASAB, OMAN NOV 25",
+      "title_ko": "영국 해사무역기구(UKMTO), 11월 25일 오만 카사브 동쪽 18해리 지점서 공격 보고",
+      "url": "https://t.me/marketfeed/1085871",
+      "ts": 1795694665
     }
   ]
 }
