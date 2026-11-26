@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795708731,
+  "updated_at": 1795708884,
   "id_hashes": [
-    "4c904f34d6530a762a53c8d18af0852f94d0a987a8b152dcd4825a298ffc3197",
-    "3ff5e9d9c5be558b9799a5c9e72a4de83d44b54ddd8af6cde6c1c72052592233",
-    "9926654d35f375daa16e2b02588fe18089a50f3fe910ec6dd5657674d7a74b7b",
-    "48e52e815a41c90dc9bcdf2909e252afa598cecfaa54f1b1bf64aca6f0b4ec20",
     "f7a651c704cb99b00eb1d1f61f4c976a8ec5e505be2235cdb651ea97fb3223c5",
     "9d808d6eade36a30fa1e958d139f89e129299c6e5f303bdb7e2aea03f4726cbf",
     "0d38224bc10ad1fad18b41b438412f22ff1adf751a9f40369a91744a98f5988b",
@@ -4000,13 +3996,13 @@
     "980435ab8831710c433f5423d93d85a0459ab6b4885139f806c3d7d388f5213f",
     "67eb32f576938f5a8b004473dd14a5723b7b1f486ad52e5ca623e0a00245285a",
     "041082c076ef9dbe9fa3bbd9575579b50b2221773bf20e6312543a5c0dae4f19",
-    "59fb58ce4dfadceb64fdc80e80d6d22df81ab332b1ccf5ad9af80d0d629e3cd9"
+    "59fb58ce4dfadceb64fdc80e80d6d22df81ab332b1ccf5ad9af80d0d629e3cd9",
+    "97672c5bda7e36e5f1c73f08771f67b4a8513cdccf75797654f3eae719b3fcaf",
+    "61fe9fb55d76b37854b42ece1f4aca3389098329b16b77d724c51df138819c1d",
+    "eca6e465c06b0e4943643a02d846beceb6f5cf663977d1bb198391c4fb744124",
+    "e1e9bc8cca8b50b6879c53ca88574090145c2f3097b899ba1216d064e5d2ec03"
   ],
   "title_hashes": [
-    "c16e044b9ca16c73d49ba7a088e3408c0d8fd84a42e1b173a306e52c6a48db58",
-    "808252d720725c86772474697a803b52f96bd7884f8a5e0a74aebe3e7ff6b812",
-    "d07df12d25b177f8d03f060cdd7a081361450161e8736a7a9293ac2c97fd42cf",
-    "893edf69e18151dd5876a7db4e0f7c0bd619ecf0e7d316c6c46cbb8dbbeea16d",
     "9e9e16c24661f7bd49879c7815424e5cf4c7c448eecfef3a19275b27a74d79f9",
     "ac78c4a070d8690da46baeaf6e66288c87d232223ae3589338730b69ae214831",
     "0374d92f4bbe6f11eeb492c4009a38e4d3bf7a69b8ee21c46e5c84f100a24612",
@@ -8002,23 +7998,13 @@
     "c6e12e9bd24298f2693ded5a8c2bdf1936f9564d2e97259aa35b593e0b67a6e6",
     "f5c10e25f0f4cef070fb2b966d10ceffb90003dbaf9be45ffe1cc3193fc1a230",
     "c896f26583fd750bb8af695c232a8680b5c4d093e7e6343bed40176dcc371097",
-    "03d50ed48b78e2b6c5cd3ca5d31358299ce14b6c876ec3d88bfb81a1cd8679ae"
+    "03d50ed48b78e2b6c5cd3ca5d31358299ce14b6c876ec3d88bfb81a1cd8679ae",
+    "d289ada76c755bcc3f88f84cd1effddb8d8d43004af0da3f0e61f94c301cb74d",
+    "c736edd029dc8d479047a5fe44901cd538426c37639d5c3a9ea73ea1bb1c7faa",
+    "9f2d0db96e7fe625871b22713587686975a3d6e0f6cc78404f2d45582244577a",
+    "bfda40de5235c2dc7812ca959f53669186e02d3964e5739118896c1050cb8ee4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "StreetInsider",
-      "title_en": "Exclusive-US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
-      "title_ko": "Exclusive-US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
-      "url": "https://www.streetinsider.com/Reuters/Exclusive-US+chip+curbs%2C+distillation+crackdown+threaten+Chinese+AI+model+development%2C+sources+say/27404280.html",
-      "ts": 1795677781
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "자가용·석유 난방 의존도 높은 강원…물가 상승 부채질",
-      "title_ko": "자가용·석유 난방 의존도 높은 강원…물가 상승 부채질",
-      "url": "https://www.yna.co.kr/view/AKR20261126154900062",
-      "ts": 1795677843
-    },
     {
       "source": "연합뉴스",
       "title_en": "두산에너빌리티·창원상의, 창원시에 1억8천만원 에너지 지원금",
@@ -11504,6 +11490,20 @@
       "title_ko": "EU, 12월 15일 회의서 테슬라 주행 보조 시스템 승인 여부 표결 전망",
       "url": "https://www.streetinsider.com/Reuters/EU+may+vote+on+authorising+Tesla+assisted-driving+system+at+Dec+15+meeting/27404740.html",
       "ts": 1795708730
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "伊拉克石油部长Basim Mohammed Khudair：伊拉克将石油出口提高至360万桶/日，其中大部分将通过霍尔木兹海峡输送。\n\n剩余的石油货物将通过土耳其港口Ceyhan和叙利亚陆路出口。（伊拉克新闻社INA）",
+      "title_ko": "이라크 석유부 장관, 원유 수출량 일일 360만 배럴로 확대…호르무즈 해협 통해 대부분 수송",
+      "url": "https://wallstreetcn.com/livenews/3206542",
+      "ts": 1795708755
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "TRUMP’S THANKSGIVING MESSAGE TARGETS ECONOMIC DATA, IMMIGRATION AND POLITICAL OPPONENTS",
+      "title_ko": "트럼프, 추수감사절 메시지서 경제 지표·이민 정책·정치적 반대파 겨냥",
+      "url": "https://t.me/marketfeed/1085959",
+      "ts": 1795708883
     }
   ]
 }
