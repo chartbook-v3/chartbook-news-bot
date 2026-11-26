@@ -1,30 +1,6 @@
 {
-  "updated_at": 1795680807,
+  "updated_at": 1795680967,
   "id_hashes": [
-    "054062e7ee8bfccbf3778863a6363bdbfafb951629517647ccf7cdde651a4053",
-    "27c9d2d14dd1cfabe7d6668799094a237fbc45a9c9d9d5be08e6072b90344e82",
-    "9be67c31aa45e066c8aa4dab2002708d2a159456abff665f245491b728d6b653",
-    "6c07e8a708df8226aac51c6bdec6a9bf250e59a636a7eff0c5cc1f4773383ffc",
-    "863c46a9c8b27228e653517b072428d61b5820ba49f135fcf47a539d5a7a6ac0",
-    "84df9dbee0242c647f9c1c7df7039399c9e1cf59589bcb159d0e6239e2d5034a",
-    "c5e4e6f8c52551a4f824edf7b27a3ac2f9fd732adf905f4afb4508e51bfddd58",
-    "c3f815d38051cc4f8ea2e67b23638481047459d79ba66ff38c7f5cc8bb582003",
-    "7fe7dbb08adf283fd0df4f0aefd56f9c23cd06ba5d2104315d76b3b287f5bf08",
-    "2fc52701deb676c94e0d42065afb398daf4be7eafffb64f69f2233936965e9a8",
-    "d0adbed6a0d4f5aff219dd182c7f1c62de74b891097aefdd0123c19b2020549d",
-    "d19f7abf03afae29bf9f43dd9ee82bba4a46d2cf3dd76d92929c2dccf28f3478",
-    "69e7789fcf9c889e6b23dd1839aeb68d1dde1f57bd8a8c997b10a674d0fb3f7f",
-    "fa1137363cb5a19458b00d97a8612573923dc6494da78b093f27179097c98c36",
-    "d26474ca1488ae90c9f4a42c307d73eb12390337df3bd7feb43dea6e2dd2a2ae",
-    "5a2ba40a626f93efc6d4e5bd368c9e453c35fb747f132d72dc3532d3ffc8c842",
-    "a2222ee7099d1ee03260275198f2bdf0d8c44b8010d7d0af02dd37aa4088af78",
-    "32f5c40149c60c5ea033625876bf7dbd002b26f1994ade6f117b4052c982cffc",
-    "3f1408d38b4b3bfdc44c962594f0dc046908049d44a21a1502678a2ffb3031fe",
-    "fedf7bbce4eb83bfa7bdc01707a72ee3a5768bf923272949592c5f71b125421f",
-    "efcbc02ac7de6ba55ef10a04bd8db0dc595cc62a1dd25c6f7a8674e68df81e2a",
-    "4ecbca29926813eee4af03a88f414564442247887d4197b6682379c1c2625b96",
-    "aa35529f30b263e31629fcf04cfb5bacda98f22f44f21fc9f0813257bce6d518",
-    "04e7736b78c8ce909ac5fbe309b07f955531bc47e1fdd82a3e3f386304ba5c6a",
     "f514f9eea49a0c84b597517bf0b7ed76ebc720696b09e0ba0595c9d41dfd7120",
     "2c21c2c5ac43a50ed277b269b30cc64973ea09e6997070be105b57dbe181dc14",
     "1dae802938485586d35096abd04a64d019dce7ea6c827aaf0d9e8fefb120f8da",
@@ -4000,29 +3976,33 @@
     "9d4b9f319d8b34ce4e33ddb5ec052aecf39dec9cd89e01abc1951a542871037f",
     "236537c3e83d77e8e1787fae093f938fe98929c80d25f71711ee0505cc316dab",
     "2573721578cbe24755e6666165e3ff6fb3c76431f0c9bacc3f17a25917cde22b",
-    "7d73d50a4337c89dd9c39e8b0ff5801fd1e509cd204c7ba5eed32423f0fb24d1"
+    "7d73d50a4337c89dd9c39e8b0ff5801fd1e509cd204c7ba5eed32423f0fb24d1",
+    "3d01b1892537bd1051a886d119a7d3c48765a256577d8baf91bb0f39dc0fc880",
+    "f795e0f72de5f2ea99f3338ce9c62ba90307e87346af0d8a9c63add6ab4b19cb",
+    "1d04214feab76f9ea40725df31aa1618c60105324d5dd7982a5082c16452aff7",
+    "225d1c1ede860c606856568d8fcb6bd53ba8238f82073298faec4a056bdb02ad",
+    "338658dc53585fad0feb608bf8b85e5fbf69d5ddfb40c8a4df920c7c01800d35",
+    "3390e2f997fdfc7fa378fd544666c4caded90dc6995388a3eb0377d9e76fcb02",
+    "cf6d0a86ec17426a835b793666a7ac989303a3f283dff8b596cd964ef1a69e01",
+    "4d30be186df49250581c8b5430df0bc380c8be96882168834e82776618121d2e",
+    "a48a2653835a3aa2a6603264d4f000bc861371dd3bba6b77b3817e5b594c3ba3",
+    "8eb5d615339c89834d7b736abcad62fcc3524e08c0c7100ccf1845db4f717000",
+    "e2b0eeb18139f05b29a61930a6245075ddbe6a803ee52b0a7ded0878a3c8cf68",
+    "a9b7bdc0c81d803afd1e16c306ec2ba0daddc5bab4ce5fafc7d685a8e62e6aa5",
+    "e613cf97442bf3874a37f12b096e801cf07580d15ffca593568f609818fd4f3c",
+    "530ae65948b9cdd9ac0ac527318b6c9a6565f97bda2bc9a57f5d415dbab91bb6",
+    "1ed951b7a81219acba2d61d39980be5c12e48a5fd47c963f115eb5e4a22dd26b",
+    "d467fd495b3d731bbf9d63ec2cd37ec22c27232971fbb9dedbf832de0b4f1475",
+    "ab29a90050a3232a91d8a3de7b20f76483e3709da14410f1299d38dfc351793d",
+    "e5cfb444c81310f119e82dcadfdfd5e8f6bcde3092e218ca3659409eba81c3e0",
+    "f9efb5c3cef080ee6d84a55a071230028672fe7151c64b16ded0c9745b8c56e2",
+    "9be4eff7a8fae969c73dd529b81d8d11035a152e78e70af774f3e034ea08c7f6",
+    "88fd2cdf7020588270f2230c784f353d2117a76cc5373ddc97c427318cf7061f",
+    "fa1137363cb5a19458b00d97a8612573923dc6494da78b093f27179097c98c36",
+    "b6fed828121f4cf067167dc7357b4b0adff32e7eee6f566453a9962a7b7db168",
+    "7dcb6b12d48467f9863bbac82f8177bb3df8d95fab12187dee27f6f9d1cba7d9"
   ],
   "title_hashes": [
-    "44cc22873df5c590fadc2bb9cf0f49d33179220e16d2c30990e4fc4e99b1bb3c",
-    "69b936a663d82ad60ae7b713828f3b315b55db227a82b9ac027722b84601cd98",
-    "9fb01a92c979e08ebc5c83dbb73cc0459efa8b8b5cac03b9f59871fc876936f9",
-    "9bc13aa5a825d39e6d1c1052a83671d64c94eb9d0da7b75366a403f78347a9d9",
-    "1c21301899e80c632360885565eccf891b9d7f1b6e86dc76d52faa7ad1136c71",
-    "bacf7000759ab34c2eb831259647198594c48529ca060c1f39d31a631fa129e3",
-    "b3253de07f3aa34f2776f63105f17040bb7c2ac587b4c310e1a40b1e0e1576b6",
-    "5dfc1009038906f5afac55fc9774cf1ebf34203a2bf26f1762ae458d15c3c586",
-    "8292f910857cd05765e998aa9447fe8b719f41bd08b41ea48eb38c3d01e863e1",
-    "d97b343d16cf3d7a0fdec409894affcf2bd4f0070db3e3d67e6a75e0cea93da6",
-    "13b8acb6fcbf19e4991236dad5a7d47a9f3d1484068e196224f26e1d9bd39a6f",
-    "f1a67b7c2a44c5331289b6e529ef55fa9c54b4ed0132d65b58cf41ac87b55c5c",
-    "6c08bc193b5154edc0b964213837596b00a5c2fcb1ab209c98c6d1dae14abcda",
-    "3d856a3895e074fa7336d79867038344021499891e7cd36649ed71d24fd9d88a",
-    "1f81602ff81bb29954e2c5d17d1a6fc68efca092ec70e034e1ea1baa7c768d8d",
-    "cbc0e4eb2c5879d6cf6bbdc2044e4ec39051b0385c518fafb6177969654d7013",
-    "c3f13f49486e230573dd22429ce20f4e05650acd9b4906f2cd9e7103c1e881fb",
-    "ae92b002b61b06077e3ee3308bdda3f699e8ea90cdfc91d0193050c823f36912",
-    "a9084ab5a3727f02ac5a646f6ad929dca24427371b77458254860973fa8f8640",
-    "622f54589f05d2ba344cbccc298bfab79f599208985d508199b5675f5e7be360",
     "7f7dca4a7c659f50edc154587b45c7fd2d24407c72df1a4ae7c8f6869ce8679a",
     "56ecc4c7dba77bdfc3602bc9e33c574b50e8d9687f9282e2728fc1e3e9f2cd2b",
     "5c4f4729cc0b3bc4f92855d2853f5b95d4b4cb5ad8b9c9db8c9506cc9dac8f95",
@@ -8002,58 +7982,29 @@
     "0a5d586033d357646dc9fe1459be250045ebc0aa53a43765767e4d889edf1920",
     "6ed38ecef238c96ac4e46e76a7213afc74657271dd397e6e1911008c22f1c57f",
     "f6e1be12cfe9952ee78a5f7b8cb2bc4517c776928ce4528bfb29d35232296581",
-    "e9bb31b516660dc77db7608f6c487533b04431a9f60a039126a09b570e80c2af"
+    "e9bb31b516660dc77db7608f6c487533b04431a9f60a039126a09b570e80c2af",
+    "52f222c26fe3ee3a4ea71d2908367c506ea90a45d79968692fd0fc3680ffac66",
+    "62f898e62b14ad7c5673dc46daf1e0645fd63972ac0c47e90bd5eceb90ca2c7e",
+    "3dbe38b17982dc02f8abd6c6b991110fb979871f68c9c4b00d4aad18481ca87c",
+    "115a0bca1b35aabad1b9effaaf690209df69d5ce088424078787582bf531c20c",
+    "04c721c624b456e7012b222d67b5ba92a121fce5f04e2936f165549ced14c566",
+    "cdb908fa6038da5c411971d642a1613b77c3dad651ba3f1cfc822d2116ad7eb3",
+    "95cd213800730a19908b7da0759382be8a092528051ee75af12a4b5000e6c92b",
+    "5bf4844a868e99eb05fc8fc98d1fcc9fc770b160cb0fb02bd76fe9d7765c3390",
+    "b9dbb75de1738761ecd87e6e1d07a312898ea8da8a573c9c44658039d612e4e1",
+    "1b9fcd520fa9f8f0d984b4f2a4d9c11cc61eb0f7411704b21816f16d5bf6d782",
+    "d88ab8a09f8d49b9879f459ecc1966b335b7a6d2dd6eebd860bdef55d54de4a1",
+    "751f75b0810e782fc1f8ad3da6322c355af76b44b6ec0cd5de6f03d7772bcbf2",
+    "9ec4154eca69ef322eb9c9e97be347eedae54bcda91c0fd5fbff26c4f88451c4",
+    "c89649a685ae266c2cce7c43d62c8c67c65ac5956b36b3484c2cb51326f85a98",
+    "fdf33ceab0461d85981da571159bce0fbe728d7527a648a4066cb9ee88564d81",
+    "e7854dbe8384ef628b28d9b728af005a6357e77967f61dddb70bbb29eeeae690",
+    "2f306da3eb9c4eaf1b838521c8cefc26bb74a09639ee9aa74d06e181178dcad1",
+    "cb1b59cdb704e4e0d6a8f7a2e464230cacc20a15c55fe5e32ba734b10c0a40be",
+    "98cddae01755a7815b722898e69798935ab848c2af3cabfdf501af7aa1958be6",
+    "fb4df585dcf0f7b3d2c8e4247c8eb621662aab7b8e607367f94b4b1a329a97e9"
   ],
   "recent_sent_articles": [
-    {
-      "source": "서울경제",
-      "title_en": "철도공단, ‘베트남 북남 고속철도 타당성조사 및 기본설계 용역’ 수주",
-      "title_ko": "철도공단, ‘베트남 북남 고속철도 타당성조사 및 기본설계 용역’ 수주",
-      "url": "https://www.sedaily.com/article/20119173",
-      "ts": 1795658348
-    },
-    {
-      "source": "서울경제",
-      "title_en": "美, 삼전닉스 D램 70% 장악도 문제 삼았다…25% 관세로 대미 투자 압박",
-      "title_ko": "美, 삼전닉스 D램 70% 장악도 문제 삼았다…25% 관세로 대미 투자 압박",
-      "url": "https://www.sedaily.com/article/20119183",
-      "ts": 1795658351
-    },
-    {
-      "source": "서울경제",
-      "title_en": "금리 동결 소수 의견 늘었는데…한은, 내년 상반기 3.75% 가능성 열어둬",
-      "title_ko": "금리 동결 소수 의견 늘었는데…한은, 내년 상반기 3.75% 가능성 열어둬",
-      "url": "https://www.sedaily.com/article/20119218",
-      "ts": 1795658354
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "\"롯데호텔 어메니티 잘 나가네\"…매출 4.5배 뛰자 '컨포이즈'도 상품화",
-      "title_ko": "\"롯데호텔 어메니티 잘 나가네\"…매출 4.5배 뛰자 '컨포이즈'도 상품화",
-      "url": "https://www.news1.kr/industry/distribution/6366777",
-      "ts": 1795658356
-    },
-    {
-      "source": "연합뉴스",
-      "title_en": "금통위원 2명 금리 인상에 반대…긴축 '속도' 문구 삭제",
-      "title_ko": "금통위원 2명 금리 인상에 반대…긴축 '속도' 문구 삭제",
-      "url": "https://www.yna.co.kr/view/AKR20261126077300002",
-      "ts": 1795658379
-    },
-    {
-      "source": "서울경제",
-      "title_en": "삼성전자서비스, 서비스 기술경진 안전혁신대회 개최",
-      "title_ko": "삼성전자서비스, 서비스 기술경진 안전혁신대회 개최",
-      "url": "https://www.sedaily.com/article/20119184",
-      "ts": 1795658511
-    },
-    {
-      "source": "포인트데일리",
-      "title_en": "민간 주도 속도 누리호...한화에어로 순천 시대 본격화",
-      "title_ko": "민간 주도 속도 누리호...한화에어로 순천 시대 본격화",
-      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=327523",
-      "ts": 1795658515
-    },
     {
       "source": "WSJ",
       "title_en": "The Other Nvidia Romance With an Executive at a Company Linked to China",
@@ -11504,6 +11455,55 @@
       "title_ko": "에이피알, 3900억에 '닥터멜락신' 인수…지분 87.3% 확보",
       "url": "https://www.news1.kr/industry/general-industry/6367528",
       "ts": 1795680806
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "울산시의회, '산업전환에 따른 고용안정 지원' 조례 추진",
+      "title_ko": "울산시의회, '산업전환에 따른 고용안정 지원' 조례 추진",
+      "url": "https://www.news1.kr/local/ulsan/6367508",
+      "ts": 1795680832
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "삼성전자, 공조·AI홈·M&A 조직 강화… HBM 개발·반도체 영업도 개편",
+      "title_ko": "삼성전자, 공조·AI홈·M&A 조직 강화… HBM 개발·반도체 영업도 개편",
+      "url": "https://biz.chosun.com/it-science/ict/2026/11/26/IQABOQIOE5AODFDBZA2O2TRIDM/",
+      "ts": 1795680834
+    },
+    {
+      "source": "인포스탁데일리",
+      "title_en": "[1126마감체크] 코스피, '전강후약'에 강보합 마감... 4700선 회복",
+      "title_ko": "[1126마감체크] 코스피, '전강후약'에 강보합 마감... 4700선 회복",
+      "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=219128",
+      "ts": 1795680837
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "KEY ONE-DAY ALUMINUM SPREAD SLUMPS AS TIGHTER LME RULES KICK IN",
+      "title_ko": "LME 규제 강화 여파에 알루미늄 1일물 스프레드 급락",
+      "url": "https://t.me/marketfeed/1085760",
+      "ts": 1795680839
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trump Riles Trade Partners With Tariffs That Undercut ‘China+1’",
+      "title_ko": "트럼프, '중국+1' 관세로 무역 파트너를 화나게 하다",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/trump-riles-trade-partners-with-tariffs-that-undercut-china-1",
+      "ts": 1795680908
+    },
+    {
+      "source": "이데일리",
+      "title_en": "[단독] '허세홍의 통 큰 결단'…GS칼텍스, 기본연봉 20% 특별격려금 지급",
+      "title_ko": "[단독] '허세홍의 통 큰 결단'…GS칼텍스, 기본연봉 20% 특별격려금 지급",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03850726645649656&mediaCodeNo=257",
+      "ts": 1795680964
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "LIVESQUAWK MID-MORNING RUNDOWN (26/11/2026)",
+      "title_ko": "라이브스쿼크(LIVESQUAWK) 오전 시황 요약 (2026년 11월 26일)",
+      "url": "https://t.me/marketfeed/1085761",
+      "ts": 1795680966
     }
   ]
 }
