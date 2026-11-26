@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795716662,
+  "updated_at": 1795716816,
   "id_hashes": [
-    "ebc1a83dc5679925890d5acf5a87393bb0698f40a69ca909a85091ae077d736d",
-    "8f46ac9997fa73247ac60ae13b3f0ad90abd4d2f22709002cf132f2b256fc649",
-    "4b7e48689328d3d035c399528615897da3ee419bfc2a70ef738d23c8cd150474",
-    "ed3b7d2aa64d9efa48470269531ca8776c4d1058e8c82d827a3c39e6166a4ba2",
-    "86980997c74174acabc54ac06e601f8abd7c34a1c812c659153bb9c7bb985a8e",
-    "aadf95c00113c609a313d06d581ce951125cc62192da39bb0df5c17cec776a82",
-    "f27905e3f9bd424fdd7643fcb0ca027f8d9d2308d908ca3a5150b31103b22714",
-    "8266d6f1489428fb4a3778c8973312d5aba7c7991b8aa7548057f0de8c503f87",
     "b8508e66b3c31fefd85c185f12b7fcb1053e7d147f5d75e7b4dd883533c135c0",
     "a9fecba292556bdfe6b26442066c91ca120836802598990bd84ab54e3b97824f",
     "dcaa177c6d845d47fdbc7b820f8e4dcaac687adedea9b07df73a9441afd03b59",
@@ -4000,14 +3992,17 @@
     "74722adc630f9071b21515ed48e2dd142ac895e980629db1cf98eea8f8b6da9d",
     "52ecee178691c453ca6ddeda8007392bf0db0eaf6ad833411195d5cdad65d7a3",
     "017c98da34d213be5b5faff00b58360dfdf44b82e59b6995b1518225dd018a3d",
-    "889927ed026eb914d5753d2d395ec95e4171e02338f44073bb72f216355cfada"
+    "889927ed026eb914d5753d2d395ec95e4171e02338f44073bb72f216355cfada",
+    "d9f33503e0ed624d58897aa246066f0086cf909bc8fd494ba63b432592ebe93c",
+    "5623d4fc50cf8afec89abdc4df8da256e76ad2a735d75dbf4fab6fa57243f37b",
+    "fdf374b073e0f0583a3fbf8d54954f79cbfdeffb217dc1ece9ea9e838ed0deef",
+    "f6df985b7725d8cd8f504b2da204199d6f3fa6710ff600b6d8443ccb96890629",
+    "69c2d0026d7dfc283ffd77b48d5ad8769d907417fc8fba14d6f5ad18a270a948",
+    "abd6191dfd14a644f8d77fa1b1987ffeeaa5cb488b433dcae1f58881c40d88f0",
+    "1badc202cac414d22bc559e07de90c662bf001b3347beb433d3576276f60fcc6",
+    "39f20ad16c77a35b02e597207b162056186e5b36425b4cfdcd9ba9b0101b1191"
   ],
   "title_hashes": [
-    "b99b595072e20bbf4f2718c6dd34ebad07c81cb4c506a990b4b58ce463e5d04c",
-    "2043efa71909cce4ff2ff6f258a67ae6e72d3bba37ab15ccd8d8e196612aa62a",
-    "4d8d52f65f1114cbb47f5802c7f7f930550a903e4b6b3eefda79ad6cc9d65cdd",
-    "e1f7abcb5b5cf29f917ddefb123133427880253ad719317ae32790701c6c1f52",
-    "8cadeaf43e2365e4a0826398cb1a02eb7231b397a2c57d5171418922fcb83cd4",
     "8cbacb2509311cc429bbcbdd45490f365bfd5e9f0fe220d3140b15d847b8491a",
     "e1b8696b0aa585cff28e3aa51067785648b3ad4d9bd4ec4ae8aedba5a973f778",
     "fbb6d3a51d90e699a05d1299149c0fd3ad2aa40e231ef6c08b12461d93eb3040",
@@ -8002,16 +7997,14 @@
     "aead352d3f25a18ec86bf69ad5bb8863725139573a82843193e2d935561bdd33",
     "a2a369238b60243a15d784abfb697b41501e004289c4b740fd21b24f13a6bb05",
     "c5574d9220e8634c2fe815fdd104699364ea04ba5ba8de43b5e2c00e1280e033",
-    "e2ad7cef54acd8cffd42e894d851c3ca7e241e1d8705349ca6cff547a2a2205c"
+    "e2ad7cef54acd8cffd42e894d851c3ca7e241e1d8705349ca6cff547a2a2205c",
+    "0db5e6bb8c6ce88224f3d75d76b0e24b6b2086d2a0f3320b3664fe0e0ddc2675",
+    "4d91897af7b7af005462d99e52ce6e4c3797eea80fe9dffc67fa7f303b692cd6",
+    "c78985555fdb59cb170e3deb7bf68040e0c611fe625cea2e42e107f8eb3ef95d",
+    "8f5a72a87d9077150d2b26b5230a70e643379bf24d363f03bcc463851ee97402",
+    "378c1dd5bcef6ef92aa6fec786626795860fe5adaffeaa8d20e46dae36898320"
   ],
   "recent_sent_articles": [
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "미래에셋운용, 국내 휴머노이드 로봇 ETF에 개인자금 5551억원 몰려",
-      "title_ko": "미래에셋운용, 국내 휴머노이드 로봇 ETF에 개인자금 5551억원 몰려",
-      "url": "https://www.fnnews.com/news/202611261648468731",
-      "ts": 1795679839
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "马来西亚贸易部表示将就关税问题与美国进行磋商。（彭博）",
@@ -11504,6 +11497,13 @@
       "title_ko": "우주항공청·항우연, 누리호 1·2·3단 모사체 육상·해상 이송 사전 점검 완료",
       "url": "https://www.livesnews.com/news/article.html?no=66440",
       "ts": 1795716500
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Opinion | Does Nvidia Really Need Its Brilliant Nutjob?",
+      "title_ko": "의견 | Nvidia에는 ​​정말 뛰어난 Nutjob이 필요합니까?",
+      "url": "https://www.wsj.com/opinion/does-nvidia-really-need-its-brilliant-nutjob-33b21d47?mod=rss_Technology",
+      "ts": 1795716692
     }
   ]
 }
