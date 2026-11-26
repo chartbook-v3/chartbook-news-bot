@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795726544,
+  "updated_at": 1795726697,
   "id_hashes": [
-    "9ba815bed1e4b84df2839157d926483af083bc1ad90efc2c919a59a73fb93529",
-    "480c66516a9e81a7fa596acc947381a840f3589fc7594b15ed1e18dc0617d5a9",
-    "874bdf548eeaf8a41b0a0cdda49b838c5b5ea8d60c02ddf1c8dbdbab4c257b21",
-    "0eb5cd7b8e770925d5205b87864699ec0b3b24127730857d32a433ecbdbf5fef",
     "d92d7e6bf066056935de91d8b6af965724c7ed00e1ef063862d5ee381037a30c",
     "abec501dd52a7dd8e3a671bda38b97c10253e90aaee3a402977fd49ce597d8d9",
     "8382a02cb9ae4edbc6de1305d15a0e9b1e52b8e4f4d5ac22c63e9cf89868a9a6",
@@ -4000,12 +3996,13 @@
     "127445c12fdb4ee47e6ee03407e904e23191a7092371ba807d2f182f9781dd44",
     "5a94ba63f15f35f76d1737b55135c925b293a7b1849c39c54f7e8bb968ead61d",
     "8173bc034a3f998d4b4a8da010ef26f2c51fe4669d7149bf1900d68bc4224031",
-    "3ac939afc336596593aaa59013722e199c79f900308abc9864b816bcb2a4e794"
+    "3ac939afc336596593aaa59013722e199c79f900308abc9864b816bcb2a4e794",
+    "3004bc5f0e839981027d363d0fe5311424a995d9807cef933d84349969bb4dd3",
+    "c850da26e856a662ec3427676a0838379c4e09a275cf10d3abe59748962bdc2c",
+    "1f64c3e0467d86557fe1392e505058143adb6fe4435e2d14a97ab04f92c408a5",
+    "44f899c9dd069a762d98f7164143772bd4a92efd3fd5c9ca0c399e0ce1c180b3"
   ],
   "title_hashes": [
-    "981adc3272d442fa05bfcab484c41a79c16c07c4dc355bdf9a216ca26c085c5d",
-    "f4620fdde71761a6fc6a3220e7897c1b919b03790db3a1cd95a19a3cebb6c1a2",
-    "27afabec918f6142da576b6e9c3f87bba9676521ff514582607c41c89ac70d54",
     "8ac66f4fd14beea5b5d9921d1d6e435b76986d804a51135ba65f53f37d0db64d",
     "740304d65137f1996f1d74d96dba253628cc9852089704cba259d866eae582ba",
     "9af452e5f959c45b26d5eb52fb73e8bcf49de8cc8de2279966219ac800221dd1",
@@ -8002,16 +7999,12 @@
     "90970e9b8b280b6ef144882cc105467daa0c7d827678b10c08ed2de651e1f3b8",
     "05be1900400ae0f14c7cbfdd37cb89aa61afe75214466c4df15caa374b0b0d44",
     "cd43f94f3d6e7c87484853299484edee0beb511a14bf4b2754f25767ad8af003",
-    "e5a0798697dd7224989e83f6679f7287b6e71cc4c00b059a68b193d222c8a009"
+    "e5a0798697dd7224989e83f6679f7287b6e71cc4c00b059a68b193d222c8a009",
+    "318fb230d6af9b4709aae447e784e004cd854139c3a00a23476556fc96d89248",
+    "1efc276fb701e6dbff796c71d201ead23b8c69ff80206ea8d499dd2304c7a4d7",
+    "9477a4ac08159bdce79e9c69bf2d72ed2dc8f765e9b1acbb94a7f871374f259b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "이데일리",
-      "title_en": "[단독] '허세홍의 통 큰 결단'…GS칼텍스, 기본연봉 20% 특별격려금 지급",
-      "title_ko": "[단독] '허세홍의 통 큰 결단'…GS칼텍스, 기본연봉 20% 특별격려금 지급",
-      "url": "https://www.edaily.co.kr/News/Read?newsId=03850726645649656&mediaCodeNo=257",
-      "ts": 1795680964
-    },
     {
       "source": "MarketFeed",
       "title_en": "LIVESQUAWK MID-MORNING RUNDOWN (26/11/2026)",
@@ -11504,6 +11497,13 @@
       "title_ko": "생산능력 검토 분쟁과 증가하는 내부 부담으로 인해 향후 할당량 결정이 복잡해질 수 있으며, 생산업체가 여전히 제약을 받고 있기 때문에 롤오버가 시장에 미치는 영향은 제한적일 것으로 예상됩니다. 이것도 당신에게 흥미로울 것입니다",
       "url": "https://t.me/marketfeed/1085992",
       "ts": 1795725889
+    },
+    {
+      "source": "이데일리",
+      "title_en": "[단독]법인·처가식구 동원…3년간 9천번 시세조종한 회장님 징역 5년",
+      "title_ko": "[단독]법인·처가식구 동원…3년간 9천번 시세조종한 회장님 징역 5년",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01131606645649984&mediaCodeNo=257",
+      "ts": 1795726694
     }
   ]
 }
