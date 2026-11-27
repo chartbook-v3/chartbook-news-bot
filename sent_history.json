@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795742452,
+  "updated_at": 1795742605,
   "id_hashes": [
-    "1d0aab7b077f85413f9acfebaadf6e21037b96300f122d9acaf32a1ca6ccd67e",
-    "c4c59a0aa94432983e62958d26153177b93a9f029dcd3b1b3d8edfb65395fe49",
-    "b174484331848afd9d4c36ae9cf7ef6f8572f76f205dc4b90b61f1622c837a7d",
-    "528e9e9876a6d9611ff8dc89af6a661dee6990b804facb7d9be81a86e4ce2c98",
-    "b64e72a0647dfd5b6c5a6815fae5435c218daf5cd31eff3be252e2db247c7877",
     "2172968dbdfe97a463e1dfdfe842600c2857f2c2567616bd822fa47a2d4618e0",
     "6048a7f325cbb6fef63ebc861d5341ef8f907804ef34647e23fef75f73e137b9",
     "bb74413899f513845b90225dd2e007e2b21aa7551c2b32dcdf6943dcc3efd5f5",
@@ -4000,13 +3995,14 @@
     "f25f79c6be4cccba81d92e1e7119d187b0575546fb217e36b18cfb19345fc26a",
     "50a84b675075fb9a576002efa2717658d077f0da7b75e99def0ef661833a00d6",
     "1213020e56fbf6fab83554d803e0c113fb7fc0a67b799ca194498aebfb29bbe8",
-    "a370ffe485ceb19bd2998bf5988c0609f22d658e052c21e2f584ea5f904e3d1b"
+    "a370ffe485ceb19bd2998bf5988c0609f22d658e052c21e2f584ea5f904e3d1b",
+    "25dc87520fe2664801690ac698a119103a89f8bd76c7a4a17ca7d37cc50e9e55",
+    "40bc35ba02723941d3e3963b34e23d458b8dfe583bbd9028c684cda3c882eaff",
+    "4e8bc01daed7928df5c3a147d0f129711dbaf7cf8847a696bd5ed50a18d2832f",
+    "06a4828d82892bf713ae9e0ffe084cebb4e7730bc83c4672977ab503df2761c9",
+    "385a928dd7a47266bc36f28f112df72c497b47bf0f0ce9fad9d81241b9f0a6ed"
   ],
   "title_hashes": [
-    "d22ecd67c5d7087d4d94eea928f4637bf809d06535d9f4b3aed550ffc3a83d7c",
-    "5088d3f9b38d9e271c96f9ced776d78f18706cd7f7f86b39088dca658b022ba4",
-    "6c9b2279da982b8b796d9f33f058a781deca2a5b188b10202a67f96aa4b48db3",
-    "f22bf36b0108fc31ff73e217c8dfd76983a9c64b701a667d4743da240ca6b60c",
     "5981cf2bddb4c489701ad392a12bb9c9a697aaaebcefc71054eeb47fd5c82858",
     "4bc9f34147f2758f675d9b3b9f05b23f8e763ddc4cac400954d20dddf076e338",
     "78b97635eac97a94ddd946dd8af09e42c9a8140cf1fc8bc18f3b3a12c059f001",
@@ -8002,16 +7998,13 @@
     "40a621bba94af1977402ce60b0082a28db30469eba140dba8114a41a152b6bd5",
     "bb2c3a87d425a69b0334189f25b6711f1338833ea4da069bb6fd141ad6b5d8de",
     "fc23db117697c28de3bb411535c213bd847b45b88268d423e59609edfcccd561",
-    "48cf813ea613e42f2860cc71bcda39bbea9d8943b33085544104d93f316696ac"
+    "48cf813ea613e42f2860cc71bcda39bbea9d8943b33085544104d93f316696ac",
+    "c8e244a25877b8a15f576a73177690ba4f32a8dfba9b8f70b99597322e9a9427",
+    "06a1ceaa14b895f46dadfc0f1b9cff25047a94458069974ae01fddeadf8844c5",
+    "f3e3ec3e2b2e1dac645714553434cd3db451eabadb42e9ce5d42f9587115cc0e",
+    "f09f320f05e6375e43e6f9772ebccfbc511987577c08de0da26b99293633d314"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "佩斯科夫：欧盟再资助乌方只会阻碍和平进程",
-      "title_ko": "페스코프: 우크라이나에 대한 EU의 추가 자금 지원은 평화 과정을 방해할 뿐이다",
-      "url": "https://wallstreetcn.com/livenews/3206427",
-      "ts": 1795692479
-    },
     {
       "source": "MarketFeed",
       "title_en": "JUST IN: NVIDIA $NVDA ORDERS MANUFACTURING PARTNERS TO HALT SHIPMENTS OF SERVERS CONTAINING ITS CHIPS TO THE FOLLOWING COUNTRIES: • THAILAND",
@@ -11504,6 +11497,13 @@
       "title_ko": "PBOC, 위안화 기준금리를 4년 만에 최고 수준으로 고정",
       "url": "https://t.me/marketfeed/1086087",
       "ts": 1795742389
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Trump Says Huang Is Excited About His ‘Second Term’ at Nvidia",
+      "title_ko": "트럼프, 황이 엔비디아에서 '2번째 임기를 맞이하게 돼 기쁘다'",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/trump-jensen-huang-ceo-second-term-at-nvidia?srnd=homepage-americas",
+      "ts": 1795742603
     }
   ]
 }
