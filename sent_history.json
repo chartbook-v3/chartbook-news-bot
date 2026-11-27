@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795745243,
+  "updated_at": 1795745392,
   "id_hashes": [
-    "2c3361049e803bd33c8280ff113c13c48a8e8b5a1029f59e5b181974c6427857",
-    "2e61b113699ca09d599e6e5a3b6e0f0eaae828e5c5db79fdca7ec3bf645823ae",
-    "56f4f72e44179c61b3e0e9f2899371dda0d87325f511b458987cb045054b52c2",
-    "3f52aa9e78bd38a05eebc6c6baf7613c4ac0b4530855638a908116bd2624482a",
-    "1b6da3c755d8ece5a8627140212f583cd47c422f8ee1a08aea2045adb224dce0",
-    "a37bcee0c05aa475e84b99042d902c86b0fb38d3008618328606e2906dcdd3ee",
-    "91069d578926a40ff79b57dcc68f2ae618480846fc9ab5adfe3407b04662438f",
-    "63cc413f5eb7efc7c64beeea462eeb66a5d754a03a2e85bcb89e12d0f938379b",
-    "b9c6e6810a8334a5d863959df7ccea119c4cdc7d029797e5dcce6fd2cd29b901",
-    "de0696bd240ace48f3fad0c64ec36395344a20c3094564ff4a611adcb25e9567",
-    "aa65b85deaa25fb3af6c0be2cbabccf8c079455d60376283cca4f6da70810f3a",
-    "76c2d766bd2aadf3c9e3e8ea69a029bbf8f8c7090fb42ee42c92392047b7b2de",
-    "d3a84c30f1a5dda7c895ffd0e46d7fe0e33f98978387aa76af3ad9e4e1f4982c",
     "743575b4a8cbd01222c123d3172802005f6105744b6d54c9ba65a589e4dfff3e",
     "8723e3e52d1c3e0cf500b1f46cf139a804fbf6efce395bec5445160b7d3672e0",
     "b944ebd0a7e289609bd4b2326df26d13a53ba23a3f4b44b11a95168a036b1e65",
@@ -4000,22 +3987,22 @@
     "4569d1eb55228a235ee05a0d68918b1911e698c2f30c15015e478eed3acf5bca",
     "980c50b998088dce2300e2be0e9809940de96e5611f4b0d92b00de26e3678257",
     "b20aa731cf59005adb974abc42e91e502ea5f80299fada5aa19ad2e9c6ec3999",
-    "5b304eabb4bddb7a3122c6de166ae9c6497ff56ccc5105c5ca192351c3ba42c7"
+    "5b304eabb4bddb7a3122c6de166ae9c6497ff56ccc5105c5ca192351c3ba42c7",
+    "cffe70075e5190dafe50e981e2cab252ea7566d8c7d0d9e9d1b8169deb69a83e",
+    "39fda94e7001f60e4531d757b78c23d14be45f6e9ada7a434baa0178d5498b63",
+    "51f772b8fcf9f78a3659a337402c4b4dd5de6c50b239c8e7c41b4c1cbe2ac3a8",
+    "0df51b4a67bd57abfc7f2ea7a15770a2ae684b95a644bb6fea4908462f86d044",
+    "248695a3dd9e37715e742898c1630d2898b20d3cd848d33132a2def9dc81ef36",
+    "0849b3c09451c56be6f679292c80dd18139afc25335b20d0a3d2452cb4bd4d4d",
+    "0dc23abe7f9d4909ec78351c1c0dd540c562a70d3a0ccec0916e5947f3b82a9b",
+    "5e3752b7c7face656d2f0466c0cc46082375bf45c6c6952d8f8ec9f78b9833b5",
+    "e2aae45e4e4167cfcd20dce129f6eea6a997969d922bb2965f280550ad18af2d",
+    "45aed8028b6d33996f3f2524aa3293d9f99348466d5313ffeddccc095ded1a23",
+    "18a1c0735ac456e161ee1ad28ddd6a515227971d76ecc7712b695d573b3bd663",
+    "daf022d3ef1c706c6bf0be6ebf931d13810872d85572d09f70bcd6397f58c13d",
+    "79f7148151b0cc2868d7c42a62cb1faa8f715331366488ce29cdc3615b3bbd81"
   ],
   "title_hashes": [
-    "48978fbbe2bce2230e9dfe3416ed12edbd3918214f225695393b52c76dbd475b",
-    "181a8095809a3b67b82db84bd55187070e0eab8dd24910c97be4802d3a3138fe",
-    "2a12a0172791fa7b256e7106c8f0342ab582363f5c6b42bbf0eb6e592b01cbb8",
-    "e562df7a3dcf13218285382f2d94e47984bb67b41cfdfb3c4bc0e57afc61474f",
-    "a29cd6efa4e99ea1975bedaa584401daed534a093dd033483f201da95a1a4b07",
-    "447dec1c87a45c1bb63e944b10565c82f75800e8278155bb91b7b0706650ee21",
-    "22ed004e3d677d919e9717934cc546c6a917bb0f882cb72fd3098c53a16ca8d9",
-    "7b27422c98606c26b954eadf054548b484857e66a157093bc2bfe0b3fcf966a9",
-    "b0564eeab6d73ec77e8e389b650934a1845e61f3e8f5a423a162115adf5acb69",
-    "a68dc3f3a5eb4f9d010ab12e48cab31efae73171c6d4a9abe59a394c262e21cc",
-    "9f15cc1ff4dc21390d9639c027e6cb501c7f37adffbf8261faf99787f1cca4b0",
-    "192bad50dac1d083b958c0996a8d524fec9673768429a94bb35111080f6c5a02",
-    "ea976fa3e3a6b9967f0bc7ba7df4bba8da39646d862280230a2870b5b93f462a",
     "fcc8db4d425553573427931fa736adfd6c3574591f5eadf8ad4b3284542d46cc",
     "2531a5e49dc083dba01f0387dcfdaaac2e4123de7b12c0f4036acfe38e02d25a",
     "a79fe235d9ec54634197109e4d5ecce9b66a00836878ae99da12377e6f2295a2",
@@ -8002,23 +7989,22 @@
     "a7afa89f459ec76d66bf8b3d52f4c9dd81498ac7ab5c53b97c0c1ecf1042f4e2",
     "de469c2e035a5f11d9970077b349906a378c51d657d211adf0def7d408f97425",
     "cd05e94075fafb949c428781e71f5fe03fa207c31b2ba8c8898439922a09ee64",
-    "70a63c79363b8becc4cbfffdabc7dd5f2837eddfcac0bcd10c10e24621ea9472"
+    "70a63c79363b8becc4cbfffdabc7dd5f2837eddfcac0bcd10c10e24621ea9472",
+    "4239b6dcd6c94e70b05cfb17dff0a80a75ca6cf7aa433730e789fb8feaf26551",
+    "22384684a47a4f4a405bfb77ce8442678923324283c32d60b3cae9b141f40949",
+    "65cfc9088c779f2b6545381b9129c7c6984f672134e1f52f8e8ebcd7b376e55d",
+    "5200a8d53f77935bd75d55b2f4d967a25dfedf05e88901573bd34e2f82361686",
+    "571cd0fab95698520d0fd758f1268543cdd78991e6f777599466ff348a965cbc",
+    "8f5df7939c70112ed00d302747f0dfab8aa5ddb2edd733cb61da41ed5576441e",
+    "67732d93feacacddc91d7ba95dac7cbf3d1ea88e7b6a8782a51834da13edbf3e",
+    "ced711bc08b7bffab95dac6827e352d84526081f081fc34016bbe292cbe8130c",
+    "2314f8e58219d120b9bc7511f320750b00d05064c6f5f7c97d2f115896de50fe",
+    "43cf8644ecde2ae1a7add40ce0a30940c8a10542aa98ff4550430614a7adacb4",
+    "200b4a1362c6fe2779089540bacab21714e4d9463f22cb8b12f2b56e98b9e2a7",
+    "1d42341f2afc88f72a6652e2871707c9e3a204574f7e8c9b3687297935ac4fa4",
+    "002f7909d4e52fa315ceeb720c673c9132f597cedf6a854b0bafcee93df19541"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "ECB officials had concerns that the 2% target may only be hit after 2028",
-      "title_ko": "ECB 위원들, 물가상승률 2% 목표 달성 2028년 이후로 지연될 가능성 우려",
-      "url": "https://www.financialjuice.com/News/9869393/ECB-officials-had-concerns-that-the-2-target-may-only-be-hit-after-2028.aspx?xy=rss",
-      "ts": 1795696513
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "ECB officials saw no clear signs of second-round effects",
-      "title_ko": "유럽중앙은행(ECB) 위원들, 2차 효과 뚜렷한 징후 없다고 평가",
-      "url": "https://www.financialjuice.com/News/9869394/ECB-officials-saw-no-clear-signs-of-second-round-effects.aspx?xy=rss",
-      "ts": 1795696515
-    },
     {
       "source": "Bloomberg",
       "title_en": "BBVA Weighs SRT to Hedge About $500 Million of Data Center Loans",
@@ -11504,6 +11490,20 @@
       "title_ko": "영하 40도부터 영상 85도까지…우주항공청, 유·무인드론시험소 개소",
       "url": "https://www.tournews21.com/news/articleView.html?idxno=149416",
       "ts": 1795745241
+    },
+    {
+      "source": "한국경제",
+      "title_en": "젠슨 황 복귀에도 웃지 못하는 中…반도체 자립 가속하나",
+      "title_ko": "젠슨 황 복귀에도 웃지 못하는 中…반도체 자립 가속하나",
+      "url": "https://www.hankyung.com/article/202611274276i",
+      "ts": 1795745266
+    },
+    {
+      "source": "Seeking Alpha",
+      "title_en": "Intercede outlines GBP 21M revenue guidance as it expands MyID authenticate and post-quantum cryptography work",
+      "title_ko": "Intercede는 MyID 인증 및 포스트퀀텀 암호화 작업을 확장하면서 2,100만 파운드의 수익 지침을 간략하게 설명합니다",
+      "url": "https://seekingalpha.com/news/4676909-intercede-outlines-gbp-21m-revenue-guidance-as-it-expands-myid-authenticate-and-post-quantum?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "ts": 1795745332
     }
   ]
 }
