@@ -1,24 +1,6 @@
 {
-  "updated_at": 1795744438,
+  "updated_at": 1795744591,
   "id_hashes": [
-    "e13d3715125b1c1768161a23b6c263dd1a26840ce8b21c7c27621d4b3c7fa5b8",
-    "1f9361f7dd55d8a6cfc05114efc43b85fc7b5374fb2f242f5fb375628be0a23b",
-    "986343e9afbcc173f87b393448a72a3b6cc82a65d6de848b38bde2d422c90bf1",
-    "a3dd19a298a5d6ac8120f8a5dd462bf326a154e0d3b894dc9bb79932953c4aeb",
-    "510a2c6165880639a4bafc1e6016de882ff9d3118f15779273e8ee46a3f031c0",
-    "1089abd377511a76e34d90241d9576b9a53165e59c8bad69fef61b04616ffdb9",
-    "3d3ffe9f6b582aa483f7059f2e6747ebc415a982741925bf63dbf6a7ce116ffe",
-    "9fb2dcdfdeb8647c36f218569148ad1166c13efa3883598afe0ce8c672d55b03",
-    "1d89f86307b521516a83af148ae3d56119c335402d95a95432c9a6e8a5fbe930",
-    "d842911f06f569e12c4e292a5a7e332a5b595b51988f23cba6a452cf968eedb5",
-    "6d97fbf1af07e25ddf0db2e99ec8260715143e4dd34449fea89e9cb5f7b042df",
-    "d3f1c1fb54d21259811770cc272c002353116fc26f397b50054c060449ec56c2",
-    "4c9b83e3f05ea8ea7d7612ba67c59716980b796a7db3611746c0ba508d210b28",
-    "9bffcc173338777e77450ed10130bb5d14fae699a571ae9d1d958e6723ad4aee",
-    "7a54ed88a3436e4d43096421a02558459b467673b8abac885d8421e3fe996ec7",
-    "ec2fa18159d9bf982e191d67ec1323b077d16fd5876d09ca284371402898de80",
-    "52d98cd376608d50a23fbd4a142c49e541fdbff40dfc641e77a384b55587270e",
-    "70e4b7f069d951378682a724cabaa55e5481ff147a44704430263e0742a7ae18",
     "3349224b0518f9fe5281789c84e14c58f5d70f6c479e529758d36592401f720e",
     "8730a38305e753e0d9695a001890b2d83737c6509681a5f6333a24a19060b9cf",
     "047dbc64890c49d3a5a0129661ffc9db4f24ef03ba7ca90ac648d9cc63e38c16",
@@ -4000,25 +3982,27 @@
     "f14d79bd5a8c68de69b628471d1454218f2a3889f31c224d5b2b6a1112deddb2",
     "72cc17e555c232d62aa84be191471fd173f4b7c2b3be1bd80046c4945999885f",
     "f5ff0debd3664ff5179f5994ae30cde6f9b6942c6dece1747f6d1f6a0b642c39",
-    "0edc9b9ca1267751e7ff92bde4c0342acc47f53fea1551d8d7817d25ac7affc4"
+    "0edc9b9ca1267751e7ff92bde4c0342acc47f53fea1551d8d7817d25ac7affc4",
+    "2b5905d9dc7d26feefe1fca5e5b05a1aa95d220984f26c9e7490617552c8ce49",
+    "56aaa089bb6a761b1bdc376b2441c6514085154e22af95e652f5b87a97386110",
+    "532ce0c16f4ebec6ad53c5c31d410d90559218da08ec160af1256e124bad9964",
+    "141640c32482b8419a749af8d79eced4a0bd028380b7474e9af6c9fd51e3d7bd",
+    "db5dcd7729fc4c40245764245951f86f431cdeaaf9b6ec80a2467e2463d2e2f3",
+    "9f58ca2f98281892b800098ee79764ccaf73b3329f0ce1826409db7e8745fc9a",
+    "0b33ad156321bfc77ab094b83df7f981283610b6f41ab6bb5e3bffd4a362f9dc",
+    "244bd3ddf55d46b8061b31f4ed59fc4a848f8bb5bc3b084603bb40415c616cd7",
+    "0e5996d85a31c933910f26ded8aa3e32861ba6211bf6e9afeac0cd9b20ced751",
+    "c1b01ba7961ee17dd314dfb7891f5cff871fd707872c8a883732dd43ca0b205e",
+    "8a11e00de7d3e36fc2f277e71bb13d1f77fb782959f22a685fbcda3e1445351f",
+    "3aed25ec7a45bc41010c62f5882dc9e33f086f42866389db1bdab6891f5fd81b",
+    "1f71ca9d726a4ce23e662196bd568c607c14aa7429d902e61c871f5617e6f058",
+    "5d6c178f09a0112a92635ce4d598aa4179ebd23cc38f684cc3d67437e9fa214d",
+    "e7dd19cf67008429d20800d68035a8dfc0a5f98f2f5bc63206415da62fa627d3",
+    "a7607682ae3f884d06e609b081a2af65826bfaeb46b492a332043681cbc59b57",
+    "fac3977e3b5807004e4ecc801faad2d05566d9f027bd3ae28bcc20154c5cd8b1",
+    "2d226660557a38dcd19d54c96ae385d565bb59538c289b581df739a7d7b978a5"
   ],
   "title_hashes": [
-    "dea0b0190a5f0d829d2de73b8ee5fb94c393aa29727ca7d049947a35e8a82462",
-    "030efe7c3f5d3cc2d0af6c6a0d4137d435f5c68521ca1467508ddac4b6b3da1f",
-    "7c0af360970f1977462698f799877c24a9d0ba07c32579f78ebc8428443675d1",
-    "d78838840ec62689761196ccf0564d2b01b9f6a0afd05c3511ef054050214f1a",
-    "a754d96fafdffc145c88145df28dc2d3b2f92b5beaf61e12aa8aae3560bb4372",
-    "64f3937911402ed544683690664739ba68e527a8ece2b490cd517b8bc543474f",
-    "cb3440c52ede639deb5d36e85d96e5433d9f37b5bd94078ef78485efec6cb9c5",
-    "b34f80ca95a1b14958b6f9f412dcbdd79cd7aba6e97a8153b25b7debde7f1c6d",
-    "e668eb1154523d039b4ee54186c230b0077649e3996ed4bdf48f90e310cb8e38",
-    "d8b9477d6b6bdc7afcc7b91ee65252c2056b6047e381d0f5cab0e3fde0837944",
-    "8e482e7ff7e5f12aae14627b533e70884c9310abc34e9d06029fa79d67f09634",
-    "f4c559cab29aece14e4fdd186f88c1bd795cc48d014ac7b253c93ae91997849d",
-    "6a685ccc97e90507cddb723b2615b56f908da3b48361793aabad8bccdbc07110",
-    "09bb33f8a496a656574e5542730a73569978ad80f677550058d07b339d31b742",
-    "f164c0ada262c4ca4f73d0046390d08030b65c3cdb4de22faeccfa75cc939213",
-    "998dbc4a5f91215da4d4c8bb947c7c23440483026a7da22165ee90de39ac6d78",
     "b4b53b2fc8d7d521eea14c98bcd5d2483b4084b2c526f873627be1a0da7edafc",
     "c380f500b1051dadcf4f7407d08c041ea83e1f36c64950a8b259d7c56ac0de4d",
     "45678d3d8370a69425fd3b43d3e35f55250532626aa8914e8488e8eb0864ae6f",
@@ -8002,37 +7986,25 @@
     "52f039d2a7886aed7d4845a21e4f7a696ee063a8bcdaf32374fc71f4abd944fa",
     "f91d09232389e994c922cbb1eb7daa9a928ae071f0d394625d2b579192f94f65",
     "47dde44e385c04197aaca58389e90d364ca446aebad6a5f2f5ae017fba4bac47",
-    "8ad437e85b4085dae2944052ef75b5e21f44ad0ec194f6b80f0b94eec9b7d6fb"
+    "8ad437e85b4085dae2944052ef75b5e21f44ad0ec194f6b80f0b94eec9b7d6fb",
+    "18f228cb4cf2fee010190209ff12bd1bf745bf4d2f989c118ae2f568201af603",
+    "384f7b6a6ab8dfa051829cd14ab3b429c089db595c9d5026a8ca2462c453cf75",
+    "9d1fdf90255ebdd32f20277443e6b7c9807082504d43443cf6a758d3aa0e378f",
+    "1e8bcd1d03d5e8d241cc625f947b0f0e51c70d53f7b67efd5349cc2f8f7933c1",
+    "1634aede9f7f7156fb24cae19d9f57b02734b990847fb78598116e75e05aed34",
+    "6decc81d42b00c1aa32f9050c0855c44602c47121b9db12f43cad0884d231fc4",
+    "21bc96360072067231f8de9e91b5cf929c282537e49169bcaa7dee987c1415d8",
+    "d07504176b9ea4d4fab1252659f99fba0e510c3e07ea8565ee97fb02b394f1f2",
+    "ffbbe5382e9a24c72acc8eed3ea5b8d077f87f8ff049740f604747c9add91387",
+    "fda0aea5de360d8801a99f2a4cb60dcfc1e96d930aef627d2e1ea2dba75c8bf5",
+    "593571f967e4a96ec9951ccc34c5064a9785f6ee86566b1b289119968a27c5de",
+    "817cad44eefc06dc73024f662b20c351d3339861a0d54a538f00875d319907a6",
+    "b88ddff169c9a5863e5200ad349305cea486ae2623a6040957971dedf739a005",
+    "b69a9888e143c19371b82907ea0b9bd26e648b8354e600c19b6f086ffbad885e",
+    "2eec3a674475f80570a34a33d95bdfcaa8be0f2b46d27322d43f4affdaacf277",
+    "286a03d0985e61762ba05600135c5c7c9c601e14ee75b6264295657142bb7a72"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "北京对重点群体给予社保补贴 个人缴费享25%补贴",
-      "title_ko": "중국 베이징, 취약계층 대상 사회보험료 25% 보조금 지원 착수",
-      "url": "https://wallstreetcn.com/livenews/3206456",
-      "ts": 1795694918
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Chuck Schumer Says Trump’s SNAP Cuts, Tariffs Force Americans Into ‘Impossible Choices’ at Thanksgiving a",
-      "title_ko": "척 슈머 \"트럼프의 SNAP 삭감·관세, 추수감사절 미국인들에 '불가능한 선택' 강요\"",
-      "url": "https://www.benzinga.com/news/politics/26/11/63661626/chuck-schumer-says-trumps-snap-cuts-tariffs-force-americans-into-impossible-choices-at-thanksgiving-as-jacky-rosen-slams-reckless-economic-policies",
-      "ts": 1795694984
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "CHINESE, RUSSIAN MILITARIES HELD STRATEGIC CONSULTATION - CHINA DEFENCE MINISTRY STATEMENT",
-      "title_ko": "중국 국방부 \"중·러 군 당국, 전략적 협의 진행\"",
-      "url": "https://t.me/marketfeed/1085872",
-      "ts": 1795694987
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "JAPAN TOBACCO IS SAID TO STUDY DEAL FOR IMPERIAL BRANDS",
-      "title_ko": "일본 담배(JT), 임페리얼 브랜드 인수 검토 착수",
-      "url": "https://t.me/marketfeed/1085873",
-      "ts": 1795694994
-    },
     {
       "source": "TrendForce",
       "title_en": "FC-BGA Equipment Lead Times Reportedly Jump Fivefold to 30 Months amid Surging AI Substrate Demand",
@@ -11504,6 +11476,34 @@
       "title_ko": "한국이 앞서 발표한 시장 안정화 계획을 재검토했다. 한국은 현재 공매도 거래에 이상 동향이 없으며, 외환 및 채권시장도 전반적으로 안정세를 유지하고 있다고 밝혔다",
       "url": "https://wallstreetcn.com/livenews/3206710",
       "ts": 1795744081
+    },
+    {
+      "source": "리드경제",
+      "title_en": "성호전자, KAI 손잡고 UAM '하늘길' 뚫었다…\"가전용보다 수만 배 비싼 부품 공급\"",
+      "title_ko": "성호전자, KAI 손잡고 UAM '하늘길' 뚫었다…\"가전용보다 수만 배 비싼 부품 공급\"",
+      "url": "https://www.leadeconomy.co.kr/news/articleView.html?idxno=11568",
+      "ts": 1795744463
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "\"오늘은 코스닥\"…코스닥 5% 상승에 690선 탈환 [fn오전시황]",
+      "title_ko": "\"오늘은 코스닥\"…코스닥 5% 상승에 690선 탈환 [fn오전시황]",
+      "url": "https://www.fnnews.com/news/202611271048519662",
+      "ts": 1795744525
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "CHINA SEMICONDUCTOR MATERIALS AND EQUIPMENT STOCKS RALLY OVER 4%",
+      "title_ko": "중국 반도체 소재·장비주 4% 넘게 반등",
+      "url": "https://t.me/marketfeed/1086099",
+      "ts": 1795744527
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "정부 “반도체 경기와 금융시장 연계성 높아져”",
+      "title_ko": "정부 “반도체 경기와 금융시장 연계성 높아져”",
+      "url": "https://biz.chosun.com/policy/policy_sub/2026/11/27/C4HIO674GNAJRKQO6C7AHP3SWA/",
+      "ts": 1795744590
     }
   ]
 }
