@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795818151,
+  "updated_at": 1795818300,
   "id_hashes": [
-    "bc88ac20463588ec9e7565e91cecc83c8eee2c657f59c850edb2b9e9d7dc5189",
-    "cec39279666a9d1a83c97ae95f9a49fa1cb3b7e8123f74c15e13928c3737f5a6",
-    "a1ecca5243e5ce89989ca45660935104129718542a2b00c6540abae611b21bd6",
     "424dc5db367cad8c9108b1468d39ab71942ffa200bf00f830523981e3a2bf37d",
     "af8b10593e2393890f4276b60f5ce065d0239977e6ed6bdc2219a27527171e23",
     "99cdcf1bf823cd7980b8e45cacd45b6bed2cf413711067b45937c8008b69c8e3",
@@ -4000,12 +3997,12 @@
     "b6bad41815940823ec87c76bbb4ce954ddf5db4e0d79ea048316243ed4dcad02",
     "dcc38ec812ef5c557e87c849f3f3ec5f9cfdba8ae7b2ddf0277a7530dbca1fd2",
     "d6fa6edce9afb399ce21c4c723a18a2d87a2ba3c7eaf7f907ede0ab434b1aefd",
-    "c872bcda4cc9e4d39fca39be53fac870a5c565cca09fe757a8d5502003ed70b2"
+    "c872bcda4cc9e4d39fca39be53fac870a5c565cca09fe757a8d5502003ed70b2",
+    "d9f68fc170765c7a8ee19e8f0c51cea7105b43eed6b0c6e484fdbd839a6d8989",
+    "63a9abd3bc64faa9a5add58d0417c1e9b806bcc12d42b2fd80cc91733b9a7b69",
+    "c4b511090f4af59bc53b2d532b9d32d16d8a1b07357a18d7ea7d9f2208d138d9"
   ],
   "title_hashes": [
-    "22b8e85e838f43dc00cf6d1dc2f6538f3e794e45cfb7e446ade34ec15a64aacf",
-    "839f3d6c8a080b0afbcc437474b7a1ffe105da41edc059668ed22ab715e95161",
-    "2b37b6cc3abc51e2cdff7274d785732edea15b883d5f6745e0fbc0250538b78c",
     "3b3c24699ca32d29393c15dce482e86d53a184152ac7abaa9b200fdfb57edfc4",
     "9acf8feffcde27d2625175847efc92561323b5cd99cf7322601ef8d8796d2fad",
     "acefd225c3b2fc2dc2bedb8515df0b1b9ca90a2ae944ff0883a27d3edfaca9e9",
@@ -8002,16 +7999,12 @@
     "2304d42d966d8707ebccedde48cb2193fa073ad4b223c1932dafa76c74d56221",
     "0105e2a729a952fc6ebc3977b92a5043dd1a4e3a30c5861ccd0c951930585d27",
     "b7d10a42e5e0f96a3920d401fbdd96937c74c6ed33afc5ad6b5111b5ebe81e03",
-    "88fed12e7a9d01a93c11c03301b2b9135641624b854c7f25f7e88187810285f7"
+    "88fed12e7a9d01a93c11c03301b2b9135641624b854c7f25f7e88187810285f7",
+    "5e1ee9468b72c16fdcc8bee1c8fba972bbd2901f89c9bc4957ff4074a7fa7468",
+    "be2b7a7b308f4bac9f935f38e86135fb1351b11db4ab423c7bc2da864282faef",
+    "db23d0fb4d987512a62532a33c0c5226cf7e7d558e2818b0ca81ed01b5e0735d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MLQ.ai",
-      "title_en": "Bradesco's Trabuco accepts Lula's finance minister offer, sources say",
-      "title_ko": "Bradesco의 Trabuco는 Lula의 재무 장관 제안을 수락했다고 소식통은 말합니다",
-      "url": "https://mlq.ai/news/bradescos-trabuco-accepts-lulas-finance-minister-offer-sources-say/",
-      "ts": 1795734562
-    },
     {
       "source": "한스경제",
       "title_en": "아이브이웍스, 글로벌 팁스 선정…차세대 반도체 소재 승부수",
@@ -11504,6 +11497,13 @@
       "title_ko": "에이미 가르시아, ČSFD.sk 등재",
       "url": "https://www.csfd.sk/en-au/creator/55324-aimee-garcia/overview/",
       "ts": 1795817707
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "SanDisk’s lightning-fast Optimus GX Pro 8100 2TB NVMe SSD is 21% off and $0.18 cents per GB – $349 for a PCIe 5.0 M.2 SSD is about as good as it gets for Black Friday",
+      "title_ko": "샌디스크 Optimus GX Pro 8100 2TB NVMe SSD, 블랙프라이데이 맞아 21% 할인된 349달러에 판매 중",
+      "url": "https://www.tomshardware.com/pc-components/sandisks-lightning-fast-optimus-gx-pro-8100-2tb-nvme-ssd-is-21-percent-off-and-usd0-18-cents-per-gb-usd349-for-a-pcie-5-0-m-2-ssd-is-about-as-good-as-it-gets-for-black-friday",
+      "ts": 1795818299
     }
   ]
 }
