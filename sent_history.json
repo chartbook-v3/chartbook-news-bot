@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795813961,
+  "updated_at": 1795814134,
   "id_hashes": [
-    "41c53cbb74499204117146f377ec127a9ca826026068131db18aed689864b538",
-    "13cbd2f423616bde794b95e842358c1c98256d613de1ece15ef21a862b73ecec",
-    "f6707a4dd5c0a9d03234b3a45ff66536cb25d84ff81cdc170c99337796669e8f",
-    "a36ce91c07bec3607fa139979a6bb32ad3152153e7920a92fefee1d105a39480",
-    "e4fc530b8a378da74a089fc086b54fb9fb572499ddaa0b19ce87b0f8d9af47a8",
-    "28bbd5f1bad4a2d2af73a2096f9608e01f0410b540fd0a64baa7fe93779fdd74",
-    "2e45f5d92e3d0f24ce3195e9208f7aeed27f6327d72be70ad9b8672646d1a959",
-    "b79ccea11e3d719814454a33874e7f2953d09d473a6599c7dd534a5334d8e82c",
-    "cf6d6019a20a43a0e1981f5faae0b5c322e266abb8f663628741cb6c0137bfbb",
-    "dab5672e77f1b270e63af300b0ba151ebce603cac9dfe5d0214aab7812827f71",
-    "c790ae38b46d1c311f68c248bd1be9a108ddd33a26ee066b89ae7bf429ace55a",
-    "d6b847b067e5bc75200cc0b4f5dab98edf61005456ab904d52c7b3b77a43accc",
-    "a8f01256457f5fd914b6eeaada21b591a321e3b4ff1b549fd12c8f4a9d0d68a0",
-    "d24c9189193361781a80341a48c4182bcfdfe82d125bfb3a05b304c22c6f1b89",
     "4fac3841805ae4c5f1e1b434eba4d46c5b6213d20c303a28943b0f104728213d",
     "54df38f2e42bf223d6f6b3b3a847ed62ab950410fdf3d6ca57bb7dcbefc0901a",
     "c0723064fa8ccd0a5bddf7bdc66813e5380c9885f3c75a5bcb80444f0c6abaf3",
@@ -4000,19 +3986,23 @@
     "f5593cf67118e50eeb3bd8f17b83299b1609869cc911d53f7761161e5a938cd8",
     "9be8ff1b1d4829778fe113225b3cb9c66cfdc9725526d80da2e3d31eea2db10c",
     "d97b9d438b0e986ab8921f28587005d24e32a53867de2302a205e86d51da7d4d",
-    "ff6eed5e07c00275c72b530476f34f9370f7f75a420ecd6a56c4d77e2753c3c8"
+    "ff6eed5e07c00275c72b530476f34f9370f7f75a420ecd6a56c4d77e2753c3c8",
+    "e892edfb7f1f499e3ddeafccf52bae9c1b29123b517212da1eb2294c1aa10789",
+    "e33a54b67de2c32f5b7f7eb6266d1d57276130f0bfeed880f3ea96385b4de9b7",
+    "24da3167a3389733c866850f6ec576bfec1545f31e8a60f5de9622470e0cb4f3",
+    "8e382aaf03116f56f8d5ace97540868c70fabae73e49e9d6fca042ee99826cc4",
+    "730fb3afb30e4c2dd0c94f00df548fd263c2facef173888c7dfb1b2eaa5ba877",
+    "33de720d635338befb20f878b1249656d43f1eaf8048e17d53039f27889c7ff8",
+    "05da97a2dcb4ee351c4318addf11ec5567c95f420c8933f3d920284f3739f283",
+    "98bfaf8e86b8a4a866b4b29d68432e10e4b56c71c650e86f3fc2eeefb846e026",
+    "57ec16a70c413a688519f0e8e79845d77eb9c0240a18902086f43a9ca5fcb838",
+    "d33ff68b7f2d551fe3c6e2ebc4645213eb4399c3fcab822438290b5c253800dd",
+    "792729f1c6147dfc34628d25857a40bf241eef7b32d3caa4d13aa060b1a778b5",
+    "950fecdb763e529841be6b7c0177fdad5117f23aca9865fd7d438f90fc5559f8",
+    "6baee486088a90e5d688e7797d18fadccf3904b4f35d617e999c0040c6c04bfe",
+    "37183149c840588eccba80bdbbc58b7eec1fae88dfff57e1cb1821c204b09d3d"
   ],
   "title_hashes": [
-    "58f2fd9d0b9cb6b2fa29ff8441cb4830f4075c90cfe326b3d5ba83e7b0ec31f7",
-    "3b9890c91bcbd217f24285243036d49315acd81031d6d7d5cbebd4b63eb53925",
-    "2ccf5d923fc111d7b8b5416a99799c185dce137ae83c5a5c6dbafa67a0540edd",
-    "099e9b366d3aaa464e666e21fd039c948d061db26335cbbbf29fb96f1cb11113",
-    "83ebe898c978ee348d217dfad19bdc663a0db9fefb93b6cbf54b2094837832af",
-    "639a7024c28139f014207e515a182d09c58fc4348bcfa3a1fb3a41e4b4904ae0",
-    "1e21f2b02b044a49a34de7ee49d997e6ac3599f713ca28504cc819205ceae1d2",
-    "8e35274ce00a565cc6f8867d32d1c9a7ec1117bf6f56f082469fadee3dd8424d",
-    "2601bfd437a4a2034524939b7a5decc3959db262b3f0d3637c4128c0f2c8196d",
-    "0ab76a30cf4c991f3c1512ba54db1eda184686eb01841c5dd9944508d4ec6f3a",
     "5c14da5692357487ab4ae2fc22c3cd928e1211e117ce68b2d33d693e740b8512",
     "7e5fef9b6427ba969235eb946df3e0fcddb42cab958ca19ee8b4d9af36e61f25",
     "78909255aca3ee1e56f15d9e7efed308b7c73b037e4a638cd41071a0756ec0f7",
@@ -8002,30 +7992,19 @@
     "ebcf2f9743e84b12e946629e4a24a2225d3917e80c7bb6698860b299713702ab",
     "18e46a26f1b993beed633d7b03432bac710e7ba9d67d3c289bd828983d3f87d5",
     "07e9f5c64d83b0ce9e2187252b4577b7714140abe710b68bdb846ef70c62068e",
-    "83cc602325dee38435ab219701b5536516a534542ce6da53b23070b474ca5c30"
+    "83cc602325dee38435ab219701b5536516a534542ce6da53b23070b474ca5c30",
+    "1cdb4d3718a0de0261154f244f21a84a4ef5e0ac82a896bcb064170e604f23ab",
+    "d809fa34804d3a553792168cc55660e332dd88b12051eed2710babd50400c3c0",
+    "013abb256d63b3c3f17a7510ab38fcf383f31e5bbe74fc97c0945ee951f0ffd7",
+    "17600f0bcb86e84dda285aed7c267c7b403c9d98489507bee519c00df8953a82",
+    "094a86f8c0099342a6bc479b03bd6ff61de7d69e9b62600e348a035f6400ed52",
+    "2989a9517578d7751c5c53f5513802140860e191376f0a71842cc5046783cf02",
+    "0370814a373c34e7d75c51b9999fdf6e579039068fe65172dededcd0533d139f",
+    "7d4ed98a2af58161a96ee741c57ce762795dcc92b1baebd802268389f3838619",
+    "7784557f25b2f93c8a442fe4e9ec749c589e58f2878d94079068d4ab9b0bbf9a",
+    "a9cd3b1ce08a598fe8d2057ac72137a93d3de256ce3e9cf9fe8e657d0ecf314c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Nikkei Asia",
-      "title_en": "SAMSUNG, SK HYNIX ADOPT NAND STACKING TECH DEV BY CHINA’S YMTC",
-      "title_ko": "삼성전자·SK하이닉스, 중국 YMTC의 낸드 적층 기술 도입",
-      "url": "https://t.me/marketfeed/1086017",
-      "ts": 1795732423
-    },
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "물가 뛰는데 트럼프 관세 '부채질'…\"최악 시기 경제적 자해\"",
-      "title_ko": "물가 뛰는데 트럼프 관세 '부채질'…\"최악 시기 경제적 자해\"",
-      "url": "https://www.fnnews.com/news/202611270647438079",
-      "ts": 1795732719
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "动力电池格局重塑，二线阵营分化明显",
-      "title_ko": "파워 배터리 지형 재편, 2차 진영 차별화 뚜렷해",
-      "url": "https://wallstreetcn.com/livenews/3206639",
-      "ts": 1795732868
-    },
     {
       "source": "와우테일",
       "title_en": "마이크로LED 광통신 아비세나, 1억 달러 시리즈C…인터베스트 주도에 SK하이닉스·삼성 참여",
@@ -11504,6 +11483,27 @@
       "title_ko": "푸틴 \"러 신형 핵잠수함 '페름'함, 태평양함대 배치 예정\"",
       "url": "https://wallstreetcn.com/livenews/3207272",
       "ts": 1795813960
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "POLISH FOREIGN MINISTER SIKORSKI DESCRIBED RUSSIA AS A “SICK MAN WITH A REVOLVER,” WARNING THAT ITS CAPACITY FOR INTIMIDATION, PROVOCATIONS AND COVERT OPERATIONS REMAINS A SECURITY THREAT.",
+      "title_ko": "폴란드 외무장관 \"러시아는 권총 든 환자…안보 위협 여전\" 경고",
+      "url": "https://t.me/marketfeed/1086469",
+      "ts": 1795814118
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "S&P: France Outlook changed from Stable to Negative.",
+      "title_ko": "S&P, 프랑스 국가신용등급 전망 '안정적'에서 '부정적'으로 하향 조정",
+      "url": "https://www.financialjuice.com/News/9871021/SP-France-Outlook-changed-from-Stable-to-Negative.aspx",
+      "ts": 1795814126
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "POLISH FOREIGN MINISTER RADEK SIKORSKI SAID WESTERN COUNTRIES DO NOT USE ASSASSINATIONS OR SABOTAGE AS STATE TOOLS, BUT HAVE GREATER ECONOMIC RESOURCES THAN RUSSIA.",
+      "title_ko": "폴란드 외무장관 \"서방, 암살·사보타주 국가 수단으로 활용 안 해…러시아보다 경제적 자원 우위\"",
+      "url": "https://t.me/marketfeed/1086470",
+      "ts": 1795814129
     }
   ]
 }
