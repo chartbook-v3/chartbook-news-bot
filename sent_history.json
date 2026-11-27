@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795748166,
+  "updated_at": 1795748318,
   "id_hashes": [
-    "856450d2bfeaeb0b55495702eee3cbbdd5908d75c541905fa3fed8854027c4bc",
-    "c1b8c50bb3a9299d98ded6914cfa8da5bcd5425f291780fd1f3b1beeaad3c7c6",
-    "5f774c64201343b97618148e3807213c3886c37273c017c38192a9797be17aff",
     "dfe25debc12892dc565bbe0ae3f4b1f350809d6dbf26e8d5e49f213593be350e",
     "92538fa9622f1f012770c64f14b86024451b0352cda382a57877c99d22d6c45a",
     "106a2e85e9966779d466b4a5720231bfb01e49b0da568358790209203a597d4b",
@@ -4000,12 +3997,12 @@
     "ef214f23534d15826e9a5bff79132252484eb9632df2e584a874c5b94e410386",
     "73643471b409d441a098b56882307efb545ff65a71a7e98851ff62fa083c5f0d",
     "2a5c0194b1bb41942d087fd2e8bbf997542c8b97d11e0b937b11d3ee223dbab1",
-    "a1b72882ecd21cd9dfd835ac500d4f792ccca01c07c7166c558a9b59a7cacf60"
+    "a1b72882ecd21cd9dfd835ac500d4f792ccca01c07c7166c558a9b59a7cacf60",
+    "f01005dde71cd278eb7c45aa7d8904a9264ec1ed81de6216d7d2fe3d74779b83",
+    "08a20f90e59529330136d326467d6175db267458f376592f09ff1f691a3cabb9",
+    "0db34e99481f39a1eaa21023ff5199e18a31bbed30247c63a9d0f6ee88b35931"
   ],
   "title_hashes": [
-    "4aa1d53a3ab14048e00886f2e47bb36d5b96bda8ff2e8875a1afe48f1cdbd3e1",
-    "e82d3594d7fa6364b0544379c25e3380402773c7cd699cf32c6318e414dce1c5",
-    "bd2cb1448e225e23f00a25a4b7713d64284babc29756a44ca27ccb390e2c4936",
     "c25b92a9a6e44d39d790519ac4e8b6c14c7f374909cc238df045ca83dfcb7020",
     "dcf7b7be712da4322f53f66771657cc26fe540bc6fb6d16eb61efe67a112514e",
     "c94cb2aa0e5aaa0a09eb11830c3dfe4042d50a5a16804a32fc0b1fbda04966b9",
@@ -8002,16 +7999,12 @@
     "b6b3e4768e8a5e2609e803bc8444fbade15a2af80de5219a89df28688e2f74cd",
     "57afed23e21f2e5d5cd1b61d0ba8b00e49eb81f8d4aa79111934c240b2214137",
     "6226ea1e422cd13550373ebd2c1938f82d0defa7271ccdab089411446d0e040a",
-    "3c4d768b53af19401319fc0bb44c91f7193f9452b3205ce66a62f1bf8cb30d25"
+    "3c4d768b53af19401319fc0bb44c91f7193f9452b3205ce66a62f1bf8cb30d25",
+    "4c9637769d1a8acefcf8fc50192c4be5565088992c261a875f1b3756313ccd4e",
+    "422ea482448af73aa28a1aaf939884f5d7d48554f0a162afdae7a20e97090ce2",
+    "1d89163a2e88878f14e2b5aebe5291a7a44933458fd651c226244598c11b796a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Benzinga",
-      "title_en": "Elon Musk Says SpaceX Could Be Worth ‘A Million Times’ the Global Economy if It Makes Life Multiplanetary",
-      "title_ko": "엘론 머스크(Elon Musk)는 SpaceX가 여러 행성에 생명을 불어넣는다면 세계 경제에 '수백만 배'의 가치가 있을 수 있다고 말합니다",
-      "url": "https://www.benzinga.com/news/space/26/11/63661925/elon-musk-says-spacex-could-be-worth-a-million-times-the-global-economy-if-it-makes-life-multiplanetary-recommends-holding-on-to-your-shares",
-      "ts": 1795699850
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Pablo Hernández de Cos is going to be the next ECB president - FT.",
@@ -11504,6 +11497,13 @@
       "title_ko": "트럼프 \"이란 하오산에서 실질적인 활동 발견하지 못했다\"",
       "url": "https://wallstreetcn.com/livenews/3206734",
       "ts": 1795748106
+    },
+    {
+      "source": "KBS 뉴스",
+      "title_en": "[무등의 아침] 공영민 “고흥 ‘우주 발사체 국가 산단’ 최종 승인…제2 우주 센터도 고흥 선정 기대”",
+      "title_ko": "[무등의 아침] 공영민 “고흥 ‘우주 발사체 국가 산단’ 최종 승인…제2 우주 센터도 고흥 선정 기대”",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8724459",
+      "ts": 1795748317
     }
   ]
 }
