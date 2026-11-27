@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795816025,
+  "updated_at": 1795816188,
   "id_hashes": [
-    "65fe4549d2ac5e9a666a75c341680f7818dc021a75d1e68a1ec03bc5a508dfec",
-    "41adb5a7eece6595e2b79ad37f8411bdcf6493b802d53a56ca1ef7e41578b3fe",
-    "70b6ad41f0c84f4f20ce1ad87d10274490b51d8f9642eb51e0efb8b93710b4c9",
-    "ca62be9de919f7cfa77f946a422f9b9c75496f4239b9f2d123d25a8394190eed",
-    "3b6af6278ed072e3920a346922cc79c84ff3223f05f4bbf19ef2c4a89599fb1d",
     "5936a07294f8d84a42d4a9e9e2fd8014e0ca61e6fa7ceef8308f3879e79c3059",
     "b807f1e56d8afacd9a7cbbe0ecee3c7bca7dc01a7143ea67ad6b0977818d149d",
     "e13c5a5c525e6e9784dfa4a91b1175c02ab878dd913e4fc4e07cd238786212c2",
@@ -4000,14 +3995,14 @@
     "e6b63412ad85d1f24782fddb14db71e3bcd5e43f27cd1a69b1c5c2ab6e38a9ed",
     "9599a2959934672b761b66a1d66cf28d159acd4df6fd09de7e24100785d42a3b",
     "5a66508e7d12e6dd720e57c05a017d5cfc2da2ab8e09690b3f89b5a0d1e0419e",
-    "e466ee0c98a5dcf7f281359630a7a157947ce46caa9111a1d63ee08bfdc2cdce"
+    "e466ee0c98a5dcf7f281359630a7a157947ce46caa9111a1d63ee08bfdc2cdce",
+    "2178066f80c17abcd9e785cc23181eb5e5543643f0b06bebc11c8e4e50e70bab",
+    "648f54a2a7bb740bd225864a3b34b1bab394329537cf05a67b6ed6b751ef282c",
+    "78eebb6217824c6ea764f4a5caf598b21bdfe6f0377e668a33a4f3aef4123726",
+    "57525cf884e06cc2b7d9c92bb23154f35caf10d1f15f8da65621f8ada387154d",
+    "39b4c9fa5da038a7984aa770061132602afc55330ab063f992f4c72b343bb14a"
   ],
   "title_hashes": [
-    "114b0af67ea85282e91117f2798401f3a743909b11fa066eec13df3ee4130f28",
-    "422fb2ddbde7630a92e98f4ea9f2752c0cc3719467d7fd332cfe0f370bd338b3",
-    "cbe33adf21590fa981395ade2a64601868c38a13c04e4719722877183ab12515",
-    "683702ca2058552346737f33224e1cf4aa0ba3f1ff39e3d8627c6414a431483e",
-    "2a0b5b33e326e375c34bdc54c276f021500fa6467b8c269b02c7051baab29ede",
     "08e51258e765ea2952afd79fb2f6a5122327fd416d5e1266fd46b044fc6c7011",
     "dfa97ba3c9af3eac8601ddec30eac9301702f193d3d883507db2eda1de06009d",
     "9c4cee67b2aeca51078c556bec3cb198b52f9eddafa77aef0f2c94bf26763705",
@@ -8002,16 +7997,14 @@
     "12be58d1e16f803e37794c20af380f4b26e79a34caf219a1a4e74e568627fc7e",
     "9183c51718f5b629fb26ffbf7c3f99de62d0ea4e954f1732c9f5acfadf47d839",
     "a1a526f6b866afc5fec0e4ef359a18b6fece4668c3558464f304177a60815357",
-    "db530705a04c3a8f387ff64600f4b21ae7bd0ac21c9c86997496c017b3b8f3b5"
+    "db530705a04c3a8f387ff64600f4b21ae7bd0ac21c9c86997496c017b3b8f3b5",
+    "b866ce50291b109957e2bbf2e2f8da924cf27c700936c5af68fbf29f8a083d71",
+    "cf5072ded73c29e86bb395dded28aadd8b3d5ceba47ad3470a4f36418b91a987",
+    "34eb1bfc317b5c79c92a16e4ed3539c45f89f3581061531263957d4a5c64b245",
+    "f877a86704a04f9cb31f5b5f9d9a7a8376fc4ea2f9db22636809dffb6d54512d",
+    "5097f39d8528128c762ff5a5668a4349078bc8f95ac444ec8ebfaa511da8d820"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "후판가 다시 100만원, 환율·선가 동반 하락…K조선 수익성 경고등",
-      "title_ko": "후판가 다시 100만원, 환율·선가 동반 하락…K조선 수익성 경고등",
-      "url": "https://www.news1.kr/industry/general-industry/6367537",
-      "ts": 1795733803
-    },
     {
       "source": "파이낸셜뉴스",
       "title_en": "\"머스크도 줄 섰다\"는데…삼성전자 주가는 왜 '지지부진'할까",
@@ -11504,6 +11497,13 @@
       "title_ko": "안테릭스(Anterix), 900MHz 주파수 대규모 매각 검토…스페이스X 인수 관심 표명",
       "url": "https://wallstreetcn.com/livenews/3207277",
       "ts": 1795815900
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Opinion | Treasury Aims at China, Hits American Cancer Patients",
+      "title_ko": "[오피니언] 美 재무부 對중국 제재, 미국 내 암 환자들에 불똥 우려",
+      "url": "https://www.wsj.com/opinion/treasury-aims-at-china-hits-american-cancer-patients-c6656739?mod=rss_Technology",
+      "ts": 1795816187
     }
   ]
 }
