@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795821902,
+  "updated_at": 1795822050,
   "id_hashes": [
-    "464144b4679f08f4f7305a732e219d9e413b42b623e73a5c9bcbde25a6544dc6",
-    "7a9cc27066cbd0c341eaa3a44a56f82fef360975be65a5a248a79621712942eb",
-    "7b40206bf0214c83308d3068892150a8a12fdc85052b48dd521af96adbd8e610",
-    "5d4746f6148f4db349b6edca0c7d53642d8d1e23fddb0da74df23f52b7aa1c9d",
     "d1a128a2d0a667e939f0d999f003f4733b605025d070fa4a633ebfaf3309090f",
     "0605e10807a595a9f079a5d7e06685f1fa12a978af37682a955a2b9ed0071004",
     "14147332b38274a56dcb3b3bad4c4cef825951245d9823ed0b256aa48d4c51fd",
@@ -4000,10 +3996,13 @@
     "21c871d1a12f886f042fba04b89af97c5aa1af1a9f690ffade1b7a70d5b50e12",
     "e625600b49ea896ca489194db6805a3b1e1fe4d595e130c41c7afef5838a4c09",
     "b14b4f2dcf99f87c2425397697690a06aee1ca0f831dcb363883259e252f420a",
-    "c2607c962c12e350cac43a10da1441fc159cdc9808877e9ededf0392cbb63c40"
+    "c2607c962c12e350cac43a10da1441fc159cdc9808877e9ededf0392cbb63c40",
+    "e0ff1f0e59a3047acd2d89928879bb257098890f85e4e7ccf7c56e93d8d81891",
+    "554540c2827fb044ec4ccf06e8126a46cfed04f6b4685426254437da9498389c",
+    "4647f1d01c2704afdd27138ca1d93174d2eb380ccd3e7825d8d3a9b73cba4c37",
+    "a497129ddc445e6abbcdbcebaecc3ad586392b85084cfa552797f804ec75e1c8"
   ],
   "title_hashes": [
-    "2b2a826dd84dae99dcdcb97d4176338f9b27739f6ee6e8cdaa8bfa746f1b04ca",
     "8f15e6530b45f5d5de9a045d9547e776335af8c8c9787684a814ff7c764cf66b",
     "33b7dd16e6fb5f288f2a5ea058a541d7f9e0cf58c64cd3c296ca28173b5c1d2a",
     "33c38d18da8464c248e41823de1ad450e176af8281c041787b0e653803ffdf30",
@@ -8002,16 +8001,10 @@
     "13674a36d0f9fbf24bc7611a9791b4e9501e7f55c29212a7c0d6fab2e6892612",
     "e9973056b339e599a688a0a76628b23da6ff270395aa72a981425039a14d872a",
     "3e756bd69930031898d54ba158a4dc7ca950f7a64b65f5edd5afc421c833362a",
-    "bb0d60edb760b8e26a8edd8ebd79dcdb047dae114f5174c355eeabfc67039d98"
+    "bb0d60edb760b8e26a8edd8ebd79dcdb047dae114f5174c355eeabfc67039d98",
+    "abae9b6a1af1668c0a925fafa55330bd7438ece093bc954f3dba655b6dccf0ef"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "PUTIN SAYS RUSSIA IS BETTING ON SOVEREIGN FOUNDATION MODELS, ADDING \"WE MUST NOT FIND OURSELVES IN A SITUATION WE HAVE ALREADY EXPERIENCED, WHEN SOMEONE PRESSES A BUTTON AND EVERYTHING SIMPLY STOPS WORKING,\" AND THAT RUSSIA MUST NEVER ALLOW ANYONE, INCLUDING ITSELF, TO LET THESE NEW TECHNOLOGIES BE USED AGAINST THE INTERESTS OF THE COUNTRY - PUTIN",
-      "title_ko": "푸틴 대통령은 러시아가 주권 재단 모델에 베팅하고 있다고 말하면서 \"누군가 버튼을 누르면 모든 것이 작동하지 않는, 우리가 이미 경험한 상황에서 우리 자신을 발견해서는 안 된다\"고 덧붙였다. 이러한 새로운 기술이 국가의 이익에 반하여 사용되도록 하기 위해 - 푸틴",
-      "url": "https://t.me/marketfeed/1086032",
-      "ts": 1795735039
-    },
     {
       "source": "연합뉴스",
       "title_en": "DS증권, 두산로보틱스 목표가↓…\"외형성장 방향성은 유효\"",
@@ -11504,6 +11497,13 @@
       "title_ko": "스페이스X 거래대금 67억달러 폭발…인텔리안테크·AP위성도 들썩이나",
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509098",
       "ts": 1795821777
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "수출통제 뚫렸나‥'앨리스 황' 연계 中데이터센터에 엔비디아 블랙웰 포착",
+      "title_ko": "수출통제 뚫렸나‥'앨리스 황' 연계 中데이터센터에 엔비디아 블랙웰 포착",
+      "url": "https://www.fnnews.com/news/202611280809236149",
+      "ts": 1795822049
     }
   ]
 }
