@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795746638,
+  "updated_at": 1795746790,
   "id_hashes": [
-    "5952d5e8279f7618542d59e0314e921b90d47ec611b598d8923854b17a1e36af",
-    "6147654c15a1f7b6d6f677a083c35c1db21c5274b7bb1b8349222449001a7c48",
-    "3d63dd468aa57655210daa65e516b60bbf94944a7af7d4c71ccdf160888edf79",
-    "d64ab4bcd5d08c15b0ee665d39384314602cc9d7f90820ae328e63c23bc0a81b",
-    "6d683c43afa746a0db757350ca297591a51f18a0aa1329a70e2cd2db11f6d7de",
-    "ca8fc1c06ffa040c33ee4bf3c96eea7698bead20d7ad94226b8d5a9612d4d81f",
-    "aa3ebc03d4de8f4d0e43c20e1068046f69c8369517544f608f00f66717e1742c",
-    "6abd4cdcaf906e79ab3e3c51fdfed9e3aea47a3213107960623c24f199a5a26e",
     "f5386ee636e6a9055deb3e86ee544a9d141041bb31feb121197b6de57d423003",
     "48807558900d777088b7b27b13cc3bdb2de295d3c69a951b1483fb482c0fe87b",
     "85ff3a74dddb8deddb2f594ec88bc8d6ece4d5d50d4919e8718cebdc94d7a63a",
@@ -4000,16 +3992,17 @@
     "3f96b6eaa69936add95c8df009bb451a1dc5248e2df3bb38f79ae7284c94a34e",
     "0a6c86b6784e88047561c0c1fe0dd91026b342d110caf0c4d237c09490dba296",
     "ac87aca976bbce5e67a1dbe9532ee4a1323a11f6e0704b01ecdeecf4f8f7f742",
-    "a40a7403cec4c0efa8fc169f6000193da9a0e8f7173ac4ee93273d0549a1917c"
+    "a40a7403cec4c0efa8fc169f6000193da9a0e8f7173ac4ee93273d0549a1917c",
+    "97be6574e967346a09da27ca6f13dccedfda56c448fbf5508261f9ebef69f706",
+    "fc15cec719cc57e7273e35ab4e188dec6ceeddec377408653ae1734f071cb863",
+    "fb7e9c09cad1a68e30de97b153b7bafd9b3f5d9fee22fbac6c9df7c49e84341a",
+    "a4da3a1f02eab4359627f27c15b0ee5e337e772cf28f56333b316068a30fc2fc",
+    "27ead219482bf453cde9dd38711dd8a9c583d4065ff34b22559b995dcfadf3c2",
+    "323ca5f461ee450e563c8b4d64d3b72ea8cd0368ed0d2ec81a09493ede329432",
+    "5f59bb8eeb6bf264fea8b7337a55be00888a73ab89c8a1d165e0e5cd7b68fa39",
+    "d270c640b00936efe4b8bcfe7304bbcdcf5041df47026c07a319ccfa50705dec"
   ],
   "title_hashes": [
-    "50458a9ecc4fa630fe6b2d2283243ef393e6c75ba0a6762df6d3a40f8f5502f9",
-    "35970e087412b30efd22b71c15397e5f3f398d61ded83ad82fe5a80a65b742b7",
-    "988c9fde5a7b73b3d783280d760c7f07a8396e11714069f324f0efadb03cc634",
-    "990eaba1d68a14ba19529754178a5a40bbff217db987a5b518e998fce7d321a3",
-    "2f54de1e4ce8d8a9fb969e526d5a9b23b676eaa4d7ff30b461d5b5fbae196ee7",
-    "92426a51b0da117b534bda5e80506cc047f6cdfe7d62bf83d6e118dc74ed4199",
-    "a722f3878c1579a87ace3e85eb14acbb3cf3a926e564a3d64e7e0da8412393cd",
     "1e1c80c3ec50ae40e3089c9199241b0f675f495529120f1604d5c4edfaa736d2",
     "9267ac75c20af5a8bf0dfeff4f8514c497e02cdb13a169b28f7b9cd879c204fb",
     "3449493efdb79992efe3a34117b3d4006a29b504f830fd11676dd892c3b29b84",
@@ -8002,30 +7995,16 @@
     "4c2bdb6886faaf312baf373fbfc2523238f2085df3cbe50237e7cd4f49635e5b",
     "f2ba122eafea669ffb1d2d03a8c37af6915d46b02caf636a083e154f50f8d662",
     "0ac3055e14267d61946c5cd89451061d5936bd6910cd14b5cc82d26cba6cf066",
-    "6c7bd7215fbe128fe949ceda38878346d20696162dd9e7837c857d8c3251e796"
+    "6c7bd7215fbe128fe949ceda38878346d20696162dd9e7837c857d8c3251e796",
+    "366c7149a1f3bb6e6d9923e451bc8be1dc263ac4a08de185e372000d2417cac6",
+    "9ab20edf33839643b49e6a56484d21f971d5bebeb26ad8e8a9a58a4ac7f450ef",
+    "d78a7d914e574605f6eff3afa66ce4097dac7653a4700ca881145549f62d1e9a",
+    "0e2a739f7f9e2a8feb19fa79ea11c3756883e8ffe2d291943d4867351f6468a7",
+    "1346d209d2fe6ac05bac51a80a18dcc2541e938fbe3e74bdc712041c7022ba14",
+    "4a51bfec4dd0eafb7cb94008aeca73e91824a7b7c794aead6a0e7c77603384da",
+    "8c493662b4a4e569940e4dfad136f46598b62e1cb7eab7bd7767222f040927c0"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Tom's Hardware",
-      "title_en": "TSMC's A14 1.4nm-class node is ready for chip design — Boost Cells promise 14% performance uplift or 23% power cut over N2P",
-      "title_ko": "TSMC, 1.4nm급 A14 공정 설계 준비 완료…N2P 대비 성능 14% 향상·전력 소모 23% 절감",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmcs-a14-1-4nm-class-node-is-ready-for-chip-design-boost-cells-promise-14-percent-performance-uplift-or-23-percent-power-cut-over-n2p",
-      "ts": 1795698316
-    },
-    {
-      "source": "MLQ.ai",
-      "title_en": "Crypto market maker Auros is winding down operations, sources say",
-      "title_ko": "가상자산 마켓메이커 오로스(Auros), 사업 정리 및 운영 중단 착수",
-      "url": "https://mlq.ai/news/crypto-market-maker-auros-is-winding-down-operations-sources-say/",
-      "ts": 1795698319
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "BRENT, WTI FUTURES RISE OVER 1.5%",
-      "title_ko": "브렌트, WTI 선물 1.5% 이상 상승",
-      "url": "https://t.me/marketfeed/1085913",
-      "ts": 1795698382
-    },
     {
       "source": "StreetInsider",
       "title_en": "Five takeaways from Trump's new tariffs",
@@ -11504,6 +11483,27 @@
       "title_ko": "인도의 Swara Baby Products는 소규모 IPO에서 3억 4,750만 달러의 가치 평가를 추구합니다",
       "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/indias-swara-baby-products-seeks-3475-million-valuation-smaller-ipo-2026-11-27/",
       "ts": 1795746637
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Nifty’s Sharp November Rally Gives India’s IPO Hopefuls a Tailwind",
+      "title_ko": "Nifty의 날카로운 11월 랠리로 인도 IPO에 희망적인 순풍 제공",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-27/nifty-s-sharp-november-rally-gives-india-s-ipo-hopefuls-a-tailwind",
+      "ts": 1795746659
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报84250元/吨，较上日16:30价格下跌400元/吨。",
+      "title_ko": "상하이철강연맹이 발표한 자료에 따르면 오늘 MMLC 배터리급 탄산리튬(조기 거래)의 중심 가격은 84,250위안/톤으로 전날 16시 30분 가격보다 400위안/톤 낮은 것으로 알려졌다",
+      "url": "https://wallstreetcn.com/livenews/3206725",
+      "ts": 1795746723
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "KIST, 유망기술 9건 공개…헤일리온코리아와 기술이전 협약도",
+      "title_ko": "KIST, 유망기술 9건 공개…헤일리온코리아와 기술이전 협약도",
+      "url": "https://zdnet.co.kr/view/?no=20261127113000",
+      "ts": 1795746789
     }
   ]
 }
