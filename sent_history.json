@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795819645,
+  "updated_at": 1795819797,
   "id_hashes": [
-    "2543bcf0cedeb56b726b315f1bb4e3cb754e3db389aa71ee3b7e692ccf3f21f9",
-    "1e84fe89310eff7e2fc2b3e82efc968731093298b45a543f2704ff67ed5cc8e3",
     "822d7ade6e2e8541573cde839d6bef82f78ec950e07731d45b5e1eab387d3190",
     "ff225d20f8810e4f4cdb2d6a30ae067bd1aef9a15d18f2113558251643863846",
     "0d6cadfc5617ef1253725ff1bdce315e3b5df7497ced7ef748f7fc11048dbc45",
@@ -4000,11 +3998,11 @@
     "beb230152db1e1e8aa43ff3e5d00f2bf4664c36bb198fab12213a4b6a8bd6847",
     "14ee2f926e37d46921dc74b6766e9a2c47a09ecd03100d2c468ccf938e18552f",
     "1a55773b67ab02c467d403db5f3b828c0f64d7db64bd4bb23e13a370422516ce",
-    "9f41b63b501456cb6e8199f37b0e15697fa171f611afb155b34079f0a2c8df45"
+    "9f41b63b501456cb6e8199f37b0e15697fa171f611afb155b34079f0a2c8df45",
+    "7d033652e907bf3fa96cbc45ff0658440dcce85f83e77485ffd7364b254fd44f",
+    "0ec258c61743241f70ac60d55f68b9dcd080181cf0cacf522249475d3494d3ff"
   ],
   "title_hashes": [
-    "621b5e322bbdb440694705f280d93dda3ebee62f6c3e4ff21884d415698bfd1a",
-    "b1cec69a661b4269750772539cff9b71195022358e2702560a39f29e2771da1b",
     "13e6f8304f2b39eff487486be1837b28ed87a21987f8cba74e8130e064e5ca0e",
     "0ad353854e33e4be6fe83785f612f9d867776eec72ef4615c2ac3b6934094fb3",
     "9fca5c3fc2f591362a8dfd838f17cce2fbb4d3521076296b099e115aef68d06f",
@@ -8002,16 +8000,11 @@
     "fa7744364e69dc7d2ef89c1cf33b588354dfc802f152e3cbf247eeaa97c93aa9",
     "d8a21fa54f79e060520b36ffcb06804efd0aafb98a52725165862b2422654180",
     "3422fe6cc7791b8b9392131cc0b4e807617dcdd17cae7d71b81d4642cde2e5ad",
-    "537e128298975eae3c0d96e30d5f3e6e067473882b92a26e9ba5928731a3e8cc"
+    "537e128298975eae3c0d96e30d5f3e6e067473882b92a26e9ba5928731a3e8cc",
+    "6af86073230608b4b8df1faa388ddc53bf5f98a4d07b244f993464eab4247858",
+    "b6d80140c37d753e496857facbb5a631dfacd5387628734b925492ece1b10ef6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "IRAN'S FOREIGN MINISTER ABBAS ARAGHCHI SAYS \"WE WILL SECURE ESSENTIAL GOODS THROUGH VARIOUS MEANS AND FRUSTRATE OUR ENEMIES' ATTEMPTS TO BLOCKADE THE COUNTRY\"",
-      "title_ko": "아바스 아라그치 이란 외무장관은 \"우리는 다양한 수단을 통해 필수품을 확보하고 국가를 봉쇄하려는 적들의 시도를 좌절시킬 것\"이라고 전해",
-      "url": "https://t.me/marketfeed/1086028",
-      "ts": 1795734658
-    },
     {
       "source": "MarketFeed",
       "title_en": "AUSTRALIA'S S&P/ASX 200 INDEX EDGES UP 0.1% TO 8,770 POINTS IN EARLY TRADE",
@@ -11504,6 +11497,13 @@
       "title_ko": "브라질 비치사커 스타, 러시아-미국 간 스파이 분쟁에 연루돼 수감",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/jailed-brazil-beach-soccer-star-drawn-into-russia-us-spy-dispute",
       "ts": 1795819516
+    },
+    {
+      "source": "StreetInsider",
+      "title_en": "Southwest Heritage Bank Announces Acquisition Agreement with Peak Credit Union",
+      "title_ko": "사우스웨스트 헤리티지 뱅크, 피크 크레딧 유니온 인수 합의",
+      "url": "https://www.streetinsider.com/ACCESS+Newswire/Southwest+Heritage+Bank+Announces+Acquisition+Agreement+with+Peak+Credit+Union/27409422.html",
+      "ts": 1795819796
     }
   ]
 }
