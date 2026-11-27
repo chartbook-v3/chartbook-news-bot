@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795749410,
+  "updated_at": 1795749556,
   "id_hashes": [
-    "487430e3460713ac0a43b3ecf913460b199d9fa3340bcb8622d486545ebeafc1",
-    "695322852c0600cb1638b99af1bd4840cb1592355abcfc7fe25e2832dedf9eef",
-    "4071b6c8ce23461f1a1a2b7257ea691eacd5487faed5eb567f1a446e0d142c57",
-    "f08e9b82cc613168c157323262d13f4c9ddae0f18032b32f057dbe8a91bd000a",
-    "1acf3f3aff9522b8a036371e199166e8365b6df596f5e063523da430675991a1",
     "996410e5ff4e7b6ac5c95b80cf05d6c50b1aed227a9fa506769f7b3d33320864",
     "7245b8c346ce94265ac2089347de5fd116a35af23561b0622e8261a895ab6a65",
     "698955b0f2d78811b8f01a386be9028658110be08cafbb8a3adcf19b5ff61386",
@@ -4000,15 +3995,14 @@
     "12dd4ac558b1fa98b94e84b852a7528a6cac9e0893b538fadf556390441ffe48",
     "c5bfc24cbbee92dc8e7844a13978035f3f4c014c16903c1d9fe83c36fc87a1d3",
     "39103ddb0ed79ec436302a859088a33a9953cda218f84ea58a61687232c004f2",
-    "3320673c9f6694736cc4e5d44760647f1d57a8760f0fed9eb8e5beebb2b48507"
+    "3320673c9f6694736cc4e5d44760647f1d57a8760f0fed9eb8e5beebb2b48507",
+    "cbc98aab927f8627826319de664bb6624ae5c1243346f0aadbfc40dbbc86b8b7",
+    "b9545ce678846c0ac2b848e05ba7972cfe87cb23dde47213b8a4629f608f4e51",
+    "18ef2f85d4a2d9f8dafa366174e82fd7518841aca0e4669e483431d065371b70",
+    "e963239f0f91597db89bb92db7b353ecbb9415b3114b37d478bc09c16839f1a6",
+    "feae4c43ee4099a8124273f7b140b1605b5eca5663c6c35c292a1ebc7aed20ba"
   ],
   "title_hashes": [
-    "889f615360e00fb79d6a314772e21ed7c54669018fbc178d5bee41b96bf5fad6",
-    "99919a0fbfa49765f1c70af0e6391e6dde8374eb71dfcaa9f108c2a62ad3272b",
-    "3e32d433ef2d4dc1ebdf7810b32a3fe7eee68a6c7fd01b3aa9d1ecb0067590db",
-    "3d094b1d8ce10acec4de1d7c5bd04bdce703e59c8341b9adf6a028725990043b",
-    "9bf75b3048522745628f10ba8eab662b5b2a200ed829b9213a198331ab0666d9",
-    "f4a873d1a88c519985113300788f6ad4ddaec86ed466055b13e6cec038200ff2",
     "2912275547e65a177355b13ce29d233e951d64e9f4c06db8ef4e78c7b99bd857",
     "14c1d84dbd7e32dc2aac21b898bc7145d5e1f0d9476e40814cd161c82565c1c0",
     "d712aca5e8941d37ccb1738985a06268232970a949b2a4782ce4244a6e4ac3fe",
@@ -8002,16 +7996,15 @@
     "dd01b6ca5924dece5c3af7dd01e7c497be91d283dfa1f22c6d645bfff9b50ba9",
     "60a87ec947a2629bb3418eae1e24e390a97b99de73f5cef41d62c3ab9dee6397",
     "ef5695a7f5d46c5fe18654856026232cab3e205d0a06aa846a02f2fb24d2e12f",
-    "00a4a25214d0f254603f6aaca8753b33a04f3a59cdaf064563b425221901b80a"
+    "00a4a25214d0f254603f6aaca8753b33a04f3a59cdaf064563b425221901b80a",
+    "f115b2eb48b8072cd6c30f6eda851c18493ef29bfdd33c8c4d8778ff0616c500",
+    "eb54286e0929a8c9cf1f849b4b198bb284f3c1a4043c940191216f41e68b4971",
+    "158aecf6ea8532e8b905ba5231cab0b5ec16dd1072f12b74c4207d50870a1046",
+    "d01ffbc7901223ef3ddbc78dc4b7dd8e7eb7720362e0c4a5e19a4eeae483fe13",
+    "117e863771f3a345e45e2ce5efdee7fb6ccbe167521ca02d33dd8a314c7cce6f",
+    "71d6f816d60f0c81eb742953d436093b7c39cb681ee53363d2a599e49f102b3b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "POLAND TO SIGN AGREEMENT WITH PALANTIR ON FRIDAY",
-      "title_ko": "폴란드, 금요일 팔란티어와 협력 계약 체결 예정",
-      "url": "https://t.me/marketfeed/1085929",
-      "ts": 1795701631
-    },
     {
       "source": "Reuters",
       "title_en": "Brazil´s Cosan in talks to pare down stakes in three units, sources say",
@@ -11504,6 +11497,13 @@
       "title_ko": "허베이성은 규모 180억 위안, 발행이자율 1.5900%, 한계배수 1.34배, 기대배수 1.59로 10년 만기 일반국채를 발행했다",
       "url": "https://wallstreetcn.com/livenews/3206739",
       "ts": 1795749409
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "SCHNEIDER ELECTRIC INTRODUCES ADVANCED EV CHARGING AND ENERGY STORAGE SYSTEMS TO STRENGTHEN HONG KONG'S INFRASTRUCTURE",
+      "title_ko": "SCHNEIDER ELECTRIC, 홍콩 인프라 강화를 위해 첨단 EV 충전 및 에너지 저장 시스템 출시",
+      "url": "https://t.me/marketfeed/1086120",
+      "ts": 1795749427
     }
   ]
 }
