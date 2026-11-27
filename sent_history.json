@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795814443,
+  "updated_at": 1795814599,
   "id_hashes": [
-    "ae18fc6f903f167d8b829d1c9f2519ac6693ecae13aa574d0e00c27d1301c497",
-    "261fe3a405d2b310d9cd7966286b8774ce51ce7e1b186b7b00ef702fe79e29ad",
-    "af2275a226ab9895a7b056501372cb8b879b56661b8f72b13c0037080a0e3dbb",
     "dd4d87cbbd62ae5a81c43dc818b9575a97e13c3df7f37e9254ee15cd0da00d96",
     "4b44e113c46691ddf9e7cbe9876cf7aedc062df336bf95951f02a43a4f8a8601",
     "aecc4e677854eebb2f24003485ee1d18d7e0e7b0cb77966bc134c8025a5e87ae",
@@ -4000,10 +3997,12 @@
     "b79a87ccaa5ce80fba666bf16fd39fd35f3b013e5a8762c18f275dfa43ba8f37",
     "51a3b21a8aff32bf34c15eec67eaceb1ff5bd03f758ed34a5d0bb2e45dc215cf",
     "5a1b7d6c644692345655df3fcafb42be970220312bdd0bcb6ca0c5d4fc7b9b01",
-    "554ff0e877431435d35596d2b68a24f4144c596a06a9dfba493460aea6916138"
+    "554ff0e877431435d35596d2b68a24f4144c596a06a9dfba493460aea6916138",
+    "7519a4f55675cf82d7b7511f8fbb83def7e1b408ec8addc0e1d81cb6464c6c83",
+    "745fb3dd01c8d709040bf99e81a4760e97b5712acef54957d8932ac6c9760fb9",
+    "0b37603fe521c48112ee90eaec74de51761eb6619a291758c017b24469068b22"
   ],
   "title_hashes": [
-    "35af5066f55b891b77d1fc7207ff7518eda4723ddb2f3b086cd178d2e856c113",
     "6cd0ec8e1a53ca99ff18a8f5b46cbcc6f80011debb103c8e059a36e888e1c8ab",
     "47433776606c527855ce40baa602c95d9d75ce16d8275f5a7d85c63f3321ee69",
     "89d284be2ea6a26e93bdeab82036fa6724f4e08de72ef6115ae00c8dd4f18d40",
@@ -8002,16 +8001,10 @@
     "c246e7cd02d2b26ba34a0a78936002518ff73011fb4052dfbe94e8ff27ea7b11",
     "56e85210abd3eaaa8933627d56f1414bea3b82709b920f4b0eb07ff93929786a",
     "816ecf2f274b0b5cba3b52fb0461d700f8e34c4eb7a8aa9a3cef7d2e741bdc0f",
-    "3145637d704104bc88b3e3ae446e1b7341d2500351436ab0ed87be917a30137e"
+    "3145637d704104bc88b3e3ae446e1b7341d2500351436ab0ed87be917a30137e",
+    "9a1ee161e2b3072fd766b8975f67b6fe933868f8137183343cba61dbd081f6c9"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "민형배 \"美 통상 압박에 호남 반도체 흔들기 개탄…산업 지켜야 \"",
-      "title_ko": "민형배 \"美 통상 압박에 호남 반도체 흔들기 개탄…산업 지켜야 \"",
-      "url": "https://www.news1.kr/local/gwangju-jeonnam/6367754",
-      "ts": 1795733170
-    },
     {
       "source": "DigiTimes",
       "title_en": "Hackers target Taiwan's semiconductor supply chain, fishing and food sectors",
@@ -11504,6 +11497,13 @@
       "title_ko": "[美증시 특징주] 테슬라·스페이스X 동반 급등…합병 기대감에 우주데이터센터까지",
       "url": "https://www.mediapen.com/news/view/1140785",
       "ts": 1795814442
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "France Fin. Min. Lescure: France's economic outlook is still uncertain.",
+      "title_ko": "레스크르 프랑스 재무장관 \"프랑스 경제 전망 여전히 불확실\"",
+      "url": "https://www.financialjuice.com/News/9871032/France-Fin-Min-Lescure-Frances-economic-outlook-is-still-uncertain.aspx?xy=rss",
+      "ts": 1795814471
     }
   ]
 }
