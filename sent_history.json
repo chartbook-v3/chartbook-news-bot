@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795748958,
+  "updated_at": 1795749109,
   "id_hashes": [
-    "b28114d47710c9a42fd68006d915977647b02ee8cdb3046cce27da72c143c7c7",
-    "4fb1c419ca5fab393a9319e718d210bf535c7c181e0ef12c9685f426564f4899",
-    "d53d3dc510d6fda756ac95b1ce09d92c84cd96d6696aea75998cdc4f409aee38",
-    "89ad2077784442317b30cc34f90440dc0e77a452f2944e8ec32f5e1c936a4b40",
-    "49647d8a439792534cd8b29237937f8ca51c46f1cd1b4c8bc7ed48dd37435286",
     "b6a9930fc0960d965fad7d4e529ea1e15c701c51447a51bfb339e31a7a90df40",
     "3c23c8607d6e195c55edb9a1874fdd2142e556aa6bf88f29339ab18c0e70cbdb",
     "3a84b425ad491f5cf64950cee470a4efff0fa0fb9411c19c0d96fd39ee51ac80",
@@ -4000,11 +3995,14 @@
     "e36aa671555a7b6e7c893804cf66920d326602e409c562c1fab3cdb1178dd6fb",
     "2f512c2addbdf19ec412f67ed0a87f9e6c85750ce91809a67ae1b8e7c1ab14b5",
     "c6d6a07e2e6f4d9e61dc60c5eb75c5b5f9d05f7af7bc9448ce538b163bd0f29a",
-    "3411cf9aa2717737fe4c3d24cdcf05d4b75dd8b662c52f53e399cce453d8bd46"
+    "3411cf9aa2717737fe4c3d24cdcf05d4b75dd8b662c52f53e399cce453d8bd46",
+    "cfb2d90ce7c674c7a17a405f571dd243230c2b038cc35c3deb454e9b380374e5",
+    "a2db581a78802a42e558710ab5b005ef06049d495c4067b322e1933fddd9fb0c",
+    "a4fa1d6a3d10f3c7fb12bf745acd26ce92056606d5b950b67543501ad756793e",
+    "a7943eddf4521610df5f26553f2efb006ef4a797bf4d409118be2712e70a0436",
+    "e94f7299d345ee139c2f1bd6333419eb4288e2671bca76e62f2dfa482bf62045"
   ],
   "title_hashes": [
-    "705cd10dfdc2465f9f925288c986196cea1ef4143259b6a91744b24b33040c69",
-    "038910924daf76565c76b05c9851877fd891666a5919f066f6be933f16ccb49e",
     "1656c33a9694329e4e1761fe63144b787ae5a2d864c72860883a3c61226214b8",
     "a7792a5c5249d26e1793aff94ef27d909ca365da5d0fd877cedb5bff83db7837",
     "d0f9fae203cce8c7abe5aec0672149720b6b1dd2a033a4a7f0427016dd06e791",
@@ -8002,16 +8000,11 @@
     "1c6748f856076f2c2e4cbb94b44fb4d23f62a3ca47f450c4d1b30982788d42a5",
     "e9dc22e7a828195b8bcaa6ec5743b26315f206746bc51d20d183e7a51fba67ea",
     "fd19715170fd7ba3db4f29748b774cd8b24ea91cb93543d57f44ce1dc54b3c1c",
-    "176b9bb51af43d5371511da64e0955b4294e5743afacc2af4f679a7f4584353e"
+    "176b9bb51af43d5371511da64e0955b4294e5743afacc2af4f679a7f4584353e",
+    "d178c2a069468f3b974f8284d152f6bffcda2c1b3d4376e5a41569cf27fb3fa3",
+    "aae29b796b802a892f2afa0d489aa7ac68a22a1cb90b13413791951d474362a6"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "FLYDUBAI TO RESUME ISRAEL FLIGHTS FROM DEC. 3: HAARETZ",
-      "title_ko": "플라이두바이, 12월 3일부터 이스라엘 노선 운항 재개 (하레츠)",
-      "url": "https://t.me/marketfeed/1085927",
-      "ts": 1795700867
-    },
     {
       "source": "FinancialJuice",
       "title_en": "EU leaders set to confirm backing for Spain's De Cos as next ECB president - EU Diplomats.",
@@ -11504,6 +11497,13 @@
       "title_ko": "뉴질랜드 노동당은 정부 구성을 협상할 준비가 되어 있지 않다고 야당 지도자가 전해",
       "url": "https://t.me/marketfeed/1086115",
       "ts": 1795748809
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "AUSTRALIAN FM WONG ANNOUNCES SANCTIONS ON TWO INDIVIDUALS OVER ANTISEMITIC ATTACKS ALLEGEDLY BACKED BY IRAN'S IRGC",
+      "title_ko": "호주 FM WONG, 이란 IRGC의 지원을 받은 것으로 알려진 반유대주의 공격에 대해 두 사람에 대한 제재 발표",
+      "url": "https://t.me/marketfeed/1086116",
+      "ts": 1795749108
     }
   ]
 }
