@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795750025,
+  "updated_at": 1795750175,
   "id_hashes": [
-    "786767034a315e2da4179e8081aeaca73547c3c1b1cc376feecc2056d1551811",
-    "fcadba840839a9d71101556f2f5d039eaad67d4bad589ff22043bee4fb18cd7b",
-    "c2ecc9429e32bf9351291ec5056dbafe2bed81cc380209941dc2e314fdf6b2a9",
-    "dbef42feca9190c14880335c0f6a5847b2c9eb0731ed12ae5cfd919bfa4f16c5",
-    "c6988332764d471f748d663d4e1c9757f5c05dfa5e9ba2e74ee7db8ad1fe7c08",
-    "eab709622f1ebad175f9eb6faefa6d58ff2d1bed0d85ffc49d13e6d69ce8a808",
     "119938a3f166c9c3250d4aa0d502f2862fc6a5c4c8339f5be8f1a592d3e8113e",
     "9000b85f58a99bb6b50cb89166760ab9701bbbe5bb239e34dd7168a307c843c4",
     "a8d6c7fd7aa327ef0b59a42c64b880075ecc4067eb7e3ee8ff0db2d51418f679",
@@ -4000,14 +3994,15 @@
     "27a6b38c910a7cd0e13627fe82d6cef06847b07f14edddc5c12e22a8acf13726",
     "5d7a3a4a2d5b235fcb689241801e861ae089ef001c8273f09398c70d2ee9ba21",
     "24202c51bd67bfe7bd66ec30bc780302a5031ef8eecd948bba5a98e4062b337c",
-    "60cbff9bfd885500d3981892e9364d4aa4811a68b8d498a35a3bde2ceafa3008"
+    "60cbff9bfd885500d3981892e9364d4aa4811a68b8d498a35a3bde2ceafa3008",
+    "ec9ea3e2911e4ec9b4a4e874372be8e0d2994ec05a70fed953ccd4e33d3309a9",
+    "6a8e2eb5ec25368fa582f3465d6e3079af29be6c665b13a6323aa0380afa0aa8",
+    "315eca4b6629cbedcfeef5403a128489fdc19559a6471c08f8052536ae270440",
+    "e56e2d173e9a86ef5d6ac14b6db24391249d30064485b9e5d3e192ee4f96a402",
+    "358a28377f832ac6219955986e38a6a5dbd3ead2f251d537a3227f3331895d1f",
+    "18bf9e8a1c5e6b538134b7eea92ff5e309ccf17b227255df023bca49628d2451"
   ],
   "title_hashes": [
-    "f6e1be12cfe9952ee78a5f7b8cb2bc4517c776928ce4528bfb29d35232296581",
-    "e9bb31b516660dc77db7608f6c487533b04431a9f60a039126a09b570e80c2af",
-    "52f222c26fe3ee3a4ea71d2908367c506ea90a45d79968692fd0fc3680ffac66",
-    "62f898e62b14ad7c5673dc46daf1e0645fd63972ac0c47e90bd5eceb90ca2c7e",
-    "3dbe38b17982dc02f8abd6c6b991110fb979871f68c9c4b00d4aad18481ca87c",
     "115a0bca1b35aabad1b9effaaf690209df69d5ce088424078787582bf531c20c",
     "04c721c624b456e7012b222d67b5ba92a121fce5f04e2936f165549ced14c566",
     "cdb908fa6038da5c411971d642a1613b77c3dad651ba3f1cfc822d2116ad7eb3",
@@ -8002,16 +7997,14 @@
     "adf5b420558a6d08967bd0f11c98d93b6e5468f45a4ceb6e1abece30bf0d9a37",
     "87f04db1e19eb0e668089261ac7d67c01ad2740998b8f0320ccee2c8f897af38",
     "62eb20f4b0811f602744353b79479004bb2eaf1772c847f61378af7a7a2b620c",
-    "fb0446c64b8f29e7b7ea6a640a6af30ffacd56f0011ed605148f7a54aedc3282"
+    "fb0446c64b8f29e7b7ea6a640a6af30ffacd56f0011ed605148f7a54aedc3282",
+    "d3c6544d39b9ba30994b1d9e08b09dfe487c571e256056caa2fbe4dda23e070a",
+    "e8fa565c9bf0ea8f1e60be7e124b7ba87a44e457b0dcd12b5da7e83d3dee139e",
+    "3bbd9b6248373e763a86dcaf0ad26b13dbf3473bcb591b19a2cd5e96e0535825",
+    "6579b44eb60e58c174ab56c8a12308b20ec54185d057e578ad9ce93dc4803c54",
+    "1b3a62f1f7797f9d44f580f75475ccf9e8a7bb91a99843dd49f1dd7fbe79e6b8"
   ],
   "recent_sent_articles": [
-    {
-      "source": "The Verge",
-      "title_en": "Samsung’s R95H TV shows off RGB LED backlight tech",
-      "title_ko": "삼성전자, R95H TV에 RGB LED 백라이트 기술 탑재 공개",
-      "url": "https://www.theverge.com/tech/1042613/samsung-r95h-rgb-led-tv-review",
-      "ts": 1795701870
-    },
     {
       "source": "9to5Mac",
       "title_en": "Sketchy suggestion of ceramic iPhone 20 Pro",
@@ -11504,6 +11497,13 @@
       "title_ko": "베트남 벤치마크 지수는 부동산 및 기술 부문의 강한 상승에 힘입어 2% 상승",
       "url": "https://t.me/marketfeed/1086121",
       "ts": 1795749876
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "오세훈 ‘여론조사비 대납 의혹’ 상고심 대법 2부 배당…주심 권영준 대법관",
+      "title_ko": "오세훈 ‘여론조사비 대납 의혹’ 상고심 대법 2부 배당…주심 권영준 대법관",
+      "url": "https://biz.chosun.com/topics/law_firm/2026/11/27/OJDDSRT4VVDBPHDDQBAP3NKU4I/",
+      "ts": 1795750174
     }
   ]
 }
