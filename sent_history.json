@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795766998,
+  "updated_at": 1795767160,
   "id_hashes": [
-    "39b1230825e55e702bcf7d822c6539e358758c967da3e496f5ed4d91976abc4c",
-    "0f8c0c87340ddeaac29c3e8e69da45500afcc015c4ca4ee4932d514678eeb61e",
-    "67a1aae7dfd9591ae9eadb2e005c23f64cbbd5a6e3fc5c067e7b71b53cf9515e",
-    "a73bb4ff8aa8d7ee7601931513f53cef2636a41ccc7f518c6cd45425ffad1c32",
-    "1ebd00ccd30cc14127ef956e54cb2b0ec9cbe503e70df4f9fada6f6d70aabea2",
-    "1f3bbfff36e04c0d5402caa91e3a8ae95012c9fc85699605ea5a9ed9c2d96083",
-    "60f030a1592da648cf29c1165e7546a4ebc89c90bfcc9e0514853dffe0966050",
-    "62943ac37202616f62148215faad84a466b29e18bdcb0d03340e5b9daff50dc3",
-    "1750a62a0fc6ecec572014bb00511129c149d88a19d97729b8297d8b7bf85d1f",
-    "241a6d9b500763ff514720d8fd303a869497ced78091f4229c30d68b1c49923c",
-    "46c94e8b84ed788291b50179921bd4a4905e0eddb91f7d3c8b335ca6660f1b39",
-    "4ce8ed54e7fb31729435f36c54261be50bcd63c69b59ef9ba7654e2c6e633310",
-    "e3110027478a11d40aed9ae8c83a9462150909a2eabbc46180b2f70565591632",
-    "f9fb798734025b94f363facfdf885d54b406fe879e73351e962ac31c1d880be0",
     "8222d563967ca1970b84eba86f1211a899d8e07443ac7ddc69b12d4acd45067b",
     "723df6bf595e85b021cafafd172cadce93dfd2e8d580652d82f420cb22e2e240",
     "558954b1033913598f5de6aa3c9109c3742f1cb22a8a76e50162b219f7a69f7c",
@@ -4000,24 +3986,23 @@
     "54f47de9102774310527154fba46baf76bd61b2b54c121edc95d44e950a98b03",
     "0aea993fec4e5df174dd089b6e99c963915e1302317dfb02be4684e3236af00d",
     "d078a36f1d36462034526728851958e304743f429a1ae140560a198d29bcad2c",
-    "70457d247238d2309aa938e8bd8f8ee8762a2317973aeedbdaed9e8707fecf11"
+    "70457d247238d2309aa938e8bd8f8ee8762a2317973aeedbdaed9e8707fecf11",
+    "ebd1ead9988401db20e2bf62836dc18266b43a50de6f2eefb9adaec7a3bf904b",
+    "8633d74268b224487760308c4e57fc18261c2dfa4ee65ff037bb4363a6f00609",
+    "2d2356ace25d05c40e6b170af68e3d1cbf294ec7b0fab0088c3dc33746847847",
+    "4d5f7a761266d2954c7afbf2d969b03b6d27dfb6c9d39c6eacd56a25411a6b5f",
+    "d46bab35277f323196c24fa1572f9b12afdaf67e0552b9fe161caf335c5a6e2b",
+    "479ba75188e3fc86b3e9fa618baba5a522e33ff1b4f46c1a14377bed5465b949",
+    "48bd4336e5431f6294ef5acae1496536b2b9fd6cfea8f339cf028687d4af2b88",
+    "51adb4a4de7c3a21cb2823051e7460006443b079539a9b73d7598d8ec01f3f82",
+    "26a794c6c88a2ee534dc69eae2515309a5d92ebca6c31201f764e63d7a8c5064",
+    "13316ee5d506a40f9df364ce9c2b2fd8dd3378f1ca6cadde9dcf08a8be99d8c5",
+    "d1040cade099603ba04187cd9deb1221ed491751406ea49780d0ba42558fc245",
+    "0a112567a0a49f55c26579182ec26f386e53713ffd7fd3f33bed6e0e4ecc4569",
+    "b3b7843ddb29e62c39bb101b3227414b83b9c50c8b4ce61f332ea598e5645ddb",
+    "d841bb306e0850d4ac340563901c142fe3b712d3322096e94776de5672523a52"
   ],
   "title_hashes": [
-    "5e1268bc7f92f0cad8bf2de5123934e9a1755fa5017b6049d4a6839fe7ce1f4b",
-    "315e8691342fcf837a636b925bd45ad950c5af41fa559552962302f0cca42e61",
-    "aecb66079628c61643ee4fee3bce348f1e7d02f91b447df0b957efbfc9d48689",
-    "83f2c53db3dc6c05b5fd8a013d8b8058bc065cc762d789b409d133e37db9eacb",
-    "d49e4f87773d34a49bb8ff05b397d4f9f445be4234ae5a804fcfae38c08e34eb",
-    "c32395fd0cdf3cc223586906191a704a4d02d2717a6ed75830a789eeefdf46f7",
-    "e7490a34e1a851058901511bbd2f7e9ffec884ab9487d38d0864432b7ef96522",
-    "d7b22110fbd3c0e8ab911076c4c1bd3d88373a0a30b892e4027899b686a83e3c",
-    "095e9bbed1b1afa47658b0e0b3807d3dab5d988aa4160a6c24210a8e7cd7a8cd",
-    "63d6c91a17b161ead94dd814eca7ea5f90adf86b6ffc29ce72d7de924b1d7136",
-    "40ec051e0e51cf3b5e72bf2520a7a3215b23f8187566b5c4825a7edf397945ff",
-    "6bb79f49e68b781e4e794e33e941924dc0648684426f97ef7ac578bf1cf70536",
-    "5261e53bfb30298fed4ca2c84d8145f259573c5fe09abce778e77b79618a652d",
-    "6f8617129642567c8e6148fc6b01e32a085fc2b0661d0a1de75e26d6ab8b71c1",
-    "9de52f8641e42c4c94777f9502da91188783bd4dcf2470e6101d46dd4b3de411",
     "718cd3dc0beff6317e53085ca76011402c69c4ae9ffc931dc5cd959055a05eea",
     "970afde46e5f523b090e3d1aa6cd3c28d54f9dd155aafeb2d0c39e15d09cac2a",
     "013a419962d3d3a0445373ccf5b783605d6264c84d5369b51283a8fc65432283",
@@ -8002,37 +7987,24 @@
     "c3600e1f2d0b531c1534b840b13e423caf4df8ef381677905522f9a1ceac325e",
     "e3b86d727e6a9885115824a5e4939f9dc4ba49b08eae8913de96f99b7c047aa5",
     "4766a991eb6ace311322b058313bc6d72cc25c9914989331dc53f1f42c13469e",
-    "9c6d08b565a7af37352ac25448d745e871ad3dac05e08f200f132ff388691d7a"
+    "9c6d08b565a7af37352ac25448d745e871ad3dac05e08f200f132ff388691d7a",
+    "29d25b4920f604c6bef2d0daa1797fa57a168e70c668aeca7270b17bad467742",
+    "e75b009473568de5ef261b10fb4342754cc1acb872aa740599879b02c831d670",
+    "104e600ba0868497f4c9e348ac457fed17c4e53a37feae82c9391a1307c9119f",
+    "fc9ade82597c2a3730db00deeb67dd930456cba4fad3518a5b480d0adcbdece3",
+    "07860c2c06a0130c3f95a36d57e87740f00b94d48b36853e345d13da7072bedc",
+    "b7edb8a43d772fd5b8e346801c55b92db66eec1ceecede20857ceb2c1fd8564a",
+    "6b3d7ce6ac9f70740cfca145c1eb6219b38d014c9fab2f1764fd11e688a0d53c",
+    "7b00ece17043805e64ae1a060c58a24a38614782ae6dc1f3b9a2853360ab544e",
+    "0672226315d66c35db8afbc86ca40800d2763476512ee4df844b59958ef97018",
+    "81948e28fe303be73ec86dbbf203f2c31320d3af38ff6d8c1277bd9e32279a67",
+    "0f5ad70f75c28405e10b30c865d679c68a7c2a81c340be49a27625e3dc77d257",
+    "1ba68556d0986531e6d627e5150dd24a89d4e25bc26ed6f6534a2d8a02c625c0",
+    "a1f17ba006f6d66e8e35f93cf9cabc800ea9879d6718a7cde3ce458948210f00",
+    "c093408d2f0f824db75beb391b24a37d9e9cce053722537db67f8a0c2e3b4e2e",
+    "02385e5da63f81dd78975d31743f10216ffbfb092128ef7b0425e0448333f764"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "联合国贸发会议报告：2026年全球海运贸易量预计零增长",
-      "title_ko": "UN 무역개발회의: 2026년 글로벌 해운 물동량 제로 성장 전망",
-      "url": "https://wallstreetcn.com/livenews/3206557",
-      "ts": 1795711139
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "YieldMax™ AMD Option Income Strategy ETF declares $0.3656 dividend",
-      "title_ko": "YieldMax AMD 옵션 인컴 전략 ETF(AMDY), 주당 0.3656달러 배당 선언",
-      "url": "https://seekingalpha.com/news/4676853-yieldmax-amd-option-income-strategy-etf-declares-0_3656-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795711231
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Halmont Properties Corporation 9M GAAP EPS of C$0.07, revenue of C$27.5M",
-      "title_ko": "할몬트 프로퍼티스, 9개월 누적 GAAP 주당순이익(EPS) C$0.07·매출 C$27.5M 기록",
-      "url": "https://seekingalpha.com/news/4676876-halmont-properties-corporation-9m-gaap-eps-of-c007-revenue-of-c275m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795711805
-    },
-    {
-      "source": "Wallstreetcn",
-      "title_en": "巴西副总统：美国对巴西加征新关税完全不合理",
-      "title_ko": "브라질 부통령: 미국이 브라질에 부과하는 새로운 관세는 완전히 불합리합니다",
-      "url": "https://wallstreetcn.com/livenews/3206562",
-      "ts": 1795711982
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "泽连斯基任命乌武装部队支援部队新任司令",
@@ -11504,6 +11476,34 @@
       "title_ko": "트럼프의 '더블 키신저' 전략, 글로벌 핵 리스크 완화 전망",
       "url": "https://asia.nikkei.com/opinion/trump-s-double-kissinger-can-reduce-global-nuclear-risks",
       "ts": 1795766997
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "【港股午后持续拉升，恒生科技指数大涨超6%】港股今日高开高走，恒生指数收涨2.11%，恒生科技指数收涨6.45%。半导体、光通信等概念集体上扬，华虹宏力涨超20%；大模型概念股冲高，智谱涨超18%，MINIMAX涨超17...",
+      "title_ko": "[속보] 홍콩 증시 급등 마감, 항셍테크 6.45% 폭등·항셍지수 2.11%↑…반도체·AI 모델주 강세 속 화홍반도체 20%↑",
+      "url": "https://wallstreetcn.com/livenews/3206897",
+      "ts": 1795767029
+    },
+    {
+      "source": "조선비즈",
+      "title_en": "[MM] 홈플러스, 비핵심 점포 19곳 매각 착수…서울 중계·경기 하남 등 티저 발송",
+      "title_ko": "[MM] 홈플러스, 비핵심 점포 19곳 매각 착수…서울 중계·경기 하남 등 티저 발송",
+      "url": "https://biz.chosun.com/moneymove/mmna/2026/11/27/IGRNCW2OTJH47ENVDZYBGKDKOQ/",
+      "ts": 1795767084
+    },
+    {
+      "source": "딜사이트",
+      "title_en": "무신사, 3Q 매출·영업익 늘어…패션 넘어 뷰티·중고까지",
+      "title_ko": "무신사, 3Q 매출·영업익 늘어…패션 넘어 뷰티·중고까지",
+      "url": "https://dealsite.co.kr/articles/173670",
+      "ts": 1795767150
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "SANOFI SHARES REOPEN, DOWN 0.5% AFTER DROP AT OPEN",
+      "title_ko": "사노피 거래 재개, 개장 직후 하락세 보이며 0.5% 하락",
+      "url": "https://t.me/marketfeed/1086214",
+      "ts": 1795767159
     }
   ]
 }
