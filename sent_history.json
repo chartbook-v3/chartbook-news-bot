@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795817554,
+  "updated_at": 1795817708,
   "id_hashes": [
-    "dc9eddf99f9851b4ded089e4a93289c2c7e39d2f2c589ef5e55661fd13254e80",
-    "fd1b289bed68e74f71e1a7b84731cc22356751406e8f1f0fb3c8f058558f40b0",
-    "e2cc42cdd0af9efaf98b1f8e7f30e768acdc869ce3a7d78e208db303f6d1f9ed",
-    "14774530e12b40e694039626cb2cab341922980067d1fa2b3cc029dfc11c4409",
-    "565f7bf69f4903ab403502110abbc213cde949a020f256c0766a19ce032662b0",
-    "5ae2f11b5f13c0e807423ac5caf801a838c7274320670916286d42e1baec4ac4",
     "4c3038b40986a1b4513e30c9b6ad10d44603db4bc4d92dedb0c2f8fc51c23083",
     "7ec9519aebdf9f7490c2f597e1500ed13b8a464737a3f3fe6c19cffefe8225af",
     "f5bf3570bed7a1d26a202c5f05dd04b6a26bc5e17c9e7a04e3c56670d2e3bea4",
@@ -4000,13 +3994,15 @@
     "0d42334a89d4884083abafaa0dd8280e0271088ea0b8893d8a9d0ed0e01798ff",
     "29aadbf7c888ef281add1728b01b52afd2f83b4c13ca3740106e5d55e0c3e511",
     "2f2b65aaae66661748c15e9896898573cec826464e267ec58866d5f295870025",
-    "dbc0fa7351300ef6392c1f29bb31bfbf28acaa158171998dd5445b5b9bc59ba7"
+    "dbc0fa7351300ef6392c1f29bb31bfbf28acaa158171998dd5445b5b9bc59ba7",
+    "f6a513cde990fb77cf1351da4858d98ea558d9e37180eb17d8f7ffe0dc4d2dae",
+    "5178fc13f6935e5eef753b7facf4a02a8884d9c12cdb4200cb2d86188889dc0f",
+    "0a3e36534e41dab3747487cb4b5a435fa34e49c4b86e5c64f8cc15ba92a29eb4",
+    "1fd1bf7501856f8db669d86fe634f8e262187a945a4e2c5cf9a4a8713557cb1f",
+    "fc4827b2b37919bf0838b8c33bbdc59c1e1845a159631bc6f473906edfa9a741",
+    "ff935f02719164736e4146828e9fd053caa3b007d3b1b3ca15551ae8a0ca4e80"
   ],
   "title_hashes": [
-    "e2bdccd2c84ca4fc7eaf8b526ddd0252ad68bb10603631d5a7adc5fd1b75af0b",
-    "3c894153e766e5dfff21745e751090e663e659491d0571fbeb570ac2f55c1f4c",
-    "dd23d8930f3a0ef814810b9c464652850136c2108bd00a7213d8008be6c4fc52",
-    "781e4bfd145dca4e4f6358b16fb016b56000b5fdc9e12822533acc0b35a5371b",
     "3a858a23e992732c85f681c91ca275b8ba7deedf257c5e85457a53c5dea0fce0",
     "37460c771f1c4968bc7f7f62f41c2c358c1bd5a53b883cc3844c3c6bd447a2e0",
     "15260684455d69b22cb42298fe9e0ffa7562ba39082b002371121e51db61d49d",
@@ -8002,16 +7998,13 @@
     "b16f894295f75569ac772de48bb5fb2d0cc7f40b1e2a3c400a87a307022f877a",
     "a38e8d817be6db0b72a17412ea1118f9bbda59ef16e3833fe99a91e810367e5f",
     "c416bd94a0efffd35db094f70891b033e8b56c875b78b5d5e73b8c80c8d0b38d",
-    "95cb3422b33b109f170c925d4a016cfeebd6b58ca7761e8add1a1349ff7e333f"
+    "95cb3422b33b109f170c925d4a016cfeebd6b58ca7761e8add1a1349ff7e333f",
+    "7e59cd5d786dd1ceb40cd0c34406b357ede10d8643f49f058f9ef09592e8505c",
+    "d0c96e6b2c8dab194547319ffec20553d837a80db8e25f77a5576fefdcee20e7",
+    "c95bb6dcfd2c3815879711bdfc93a63f2f609e41aa7b0a6e7b5e11f8469963a5",
+    "20d01124b9f523b15f1534acbb4fa27a440e9b2154693159b1c97f4455bf7505"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "SPOT SILVER FALLS MORE THAN 4% TO $41.47/OZ",
-      "title_ko": "현물 은값은 4% 이상 하락하여 $41.47/OZ를 기록",
-      "url": "https://t.me/marketfeed/1086025",
-      "ts": 1795734499
-    },
     {
       "source": "MLQ.ai",
       "title_en": "Bradesco's Trabuco accepts Lula's finance minister offer, sources say",
@@ -11504,6 +11497,13 @@
       "title_ko": "인플레이션에 가성비 찾는 소비자들, 블랙프라이데이 기대감 고조",
       "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
       "ts": 1795817276
+    },
+    {
+      "source": "Betaville",
+      "title_en": "Aimee Garcia - ČSFD.sk",
+      "title_ko": "에이미 가르시아, ČSFD.sk 등재",
+      "url": "https://www.csfd.sk/en-au/creator/55324-aimee-garcia/overview/",
+      "ts": 1795817707
     }
   ]
 }
