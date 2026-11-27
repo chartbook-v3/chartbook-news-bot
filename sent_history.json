@@ -1,15 +1,6 @@
 {
-  "updated_at": 1795765124,
+  "updated_at": 1795765271,
   "id_hashes": [
-    "a2fc5079929828a1cf124aebb82e3ad5c145c6ec3c4dab6e89c1d7f51509dcc4",
-    "770854ea94eb257b014b5387220cddac71457d59c2b57076347a6615c2274fa6",
-    "43279537c310e16aea8a5fa1ae4d41a129dd8de787f220733fee2533af5ed10c",
-    "f3b2f5df9654e3de8497d19445b52e800b7829cc6209af5851f07e687396d1f8",
-    "5661139510251e499849d9495d05ed341e48de769855a0d85fe5b5f387aec320",
-    "2f33b2d1294f1265526f143dd39d59277d61e193e4ad67f0c57abac7fc73272c",
-    "eab90ff19faa14f3b78c0c0e2875184b542e2eaf63cd282f43a9645355a2c865",
-    "ddd2cfc955ce2cb9f242890ecf4d7bc0b2d699c1694dc669af2151a549cbf6a0",
-    "3a122cc4bda1b54c7ca51bc23161cd01c5e1aa6917de7b98c2ae412ffccb0e48",
     "0f2598cb6de82404c2ca9f626106c30d29915be5f465f20b27186d302c078988",
     "8b4f14527c36efef30ad065c7f240e1e0017b1a1f700d762e0f796555d44b1b5",
     "2fe8e9c0c6bf1379095140350f8a09902db7009716c4498c4a755572959223c8",
@@ -4000,13 +3991,18 @@
     "20811dfe515d5176d0fb08c66d49e3d51365182f1b062aa2fe740dd2970929c8",
     "18d5cb1bedc497d79009b1551d7f80405331f3a8a8ef17df1c402eaec7c07765",
     "a728adb63ef0be21525582945e94cb45f625774bf25d2917f83499c5ae188119",
-    "16b75e4f5750b378f7ccb5efc7eb0fb71a2c7c365032f7aaa58e72528acf82df"
+    "16b75e4f5750b378f7ccb5efc7eb0fb71a2c7c365032f7aaa58e72528acf82df",
+    "23842766b7827652eb3ad8627c10454feceaedde15a4993bb29035140c668910",
+    "295830f0c3be6003a8da662f05f09cb1f2b0887e2ee6066ed1c890deae32ab08",
+    "07f645b74f3ce7aeaf66121d99c53aa01ff67225e0c226920bc0cfb665fe4b76",
+    "8a958b464150d806d9cf829a3d323f8c861a776b0af1603289fa6e3515eefe93",
+    "99169b28be51f99b1be00843c77c632d7e0b136a702b254a6ee0c752559bfe02",
+    "8f68200a103e7260d679bd7858f99fdd13d07cce36669b8e491315c2883e2fb1",
+    "40abdca0211a1c4d4b9ba0424c2ee61fb2b9dd3dbc54565248b1ace95979a864",
+    "eae2ae8fd841f6e206d748ccd357fee88c808812085840a3e0b2110fe600018b",
+    "74c11ead5df7dbf364d3eca262c7728921f845188d444357bddd38e379ef0b99"
   ],
   "title_hashes": [
-    "113f00497f30a51c5e6fa2d87fa6661ce45e68b2f5e50a97f3648123ecf83c18",
-    "b57200497474c412d7c41336e12dbe151b6595677a20e2a7b8c3742e47b16949",
-    "8b8d15f5ba71e79c0b30e2f278123fa583d5092f0b67d0ba75b03328fcfc7091",
-    "abdd076911040fb0b1eb9ecad3606e9be4beb5b73c7bc642254c27428c8841a4",
     "aa4839e75c71e0583542953f18f585491e393c2c6e0049ca2dfc7fd2be282af3",
     "98a3a4e3053ff3f5ff4be204dd0e8b4db3e41db8d4150d4eeb6fd3e60a82c894",
     "948950c954f6193045bfe202faa0b41fc274becbaf0829a013791b44066795f3",
@@ -8002,16 +7998,13 @@
     "41565f2cee9fe0cce6bff7c045343cfdf9259ee017b1209f0a800f40ecc11ca4",
     "fdec8bb8a4cbade475d063c346688ab95d8ac70fe45c2c77ba11308ca2276913",
     "e6d1b9dfc112d529e5199a8a9cf3510e1c55367fcd760f17a21a090d6945edf0",
-    "40a7d773265439442c59292c666f63d3c9636533c6dffe28c36f6054b9fb1454"
+    "40a7d773265439442c59292c666f63d3c9636533c6dffe28c36f6054b9fb1454",
+    "ef8aae792fb65a1f6d44d58829d6451053b62c0ffa24cbea1b938475f26dff0a",
+    "b9d4cc58bc0dec97f4e145b5c976b0e7f31007a938ae20a6c612ec53e8c4ca08",
+    "c1fe2a6bdf5c925f22d1d59a9c966ddbb9b1718d11f69df05ab623ea83612f42",
+    "0783148867981221c3a75df091efb48606fca4769d0672ac65eee4d4dddf211e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wccftech",
-      "title_en": "AMD’s New RT-MLAS Technology Slashes Ray Tracing BVH Memory Usage By 92%, Delivers Up To 3.7X Faster Rebuilds On Radeon RX 9070",
-      "title_ko": "AMD, 신규 RT-MLAS 기술로 레이 트레이싱 BVH 메모리 사용량 92% 절감 및 라데온 RX 9070서 재구축 속도 최대 3.7배 향상",
-      "url": "https://wccftech.com/amds-new-rt-mlas-technology-slashes-ray-tracing-bvh-memory-usage-by-92-delivers-up-to-3-7x-faster-rebuilds-on-radeon-rx-9070/",
-      "ts": 1795708365
-    },
     {
       "source": "StreetInsider",
       "title_en": "NFTR Technologies Inc. Announces Completion of Reverse Takeover With RTRS Technologies Inc. and Closing of Concurrent Financing",
@@ -11504,6 +11497,13 @@
       "title_ko": "미국 재무부, 추수감사절 이후 무역 단축으로 수익률 상승",
       "url": "https://www.wsj.com/finance/investing/u-s-treasury-yields-rise-in-shortened-post-thanksgiving-trade-f0822039?mod=rss_markets_main",
       "ts": 1795765123
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Obamas Volunteer as Trump and Schumer Clash Over Thanksgiving Messages",
+      "title_ko": "트럼프와 슈머가 추수감사절 메시지를 놓고 충돌하자 오바마 자원봉사자",
+      "url": "https://www.benzinga.com/news/politics/26/11/63665816/obamas-chicago-thanksgiving-food-drive-trump-schumer-messages",
+      "ts": 1795765143
     }
   ]
 }
