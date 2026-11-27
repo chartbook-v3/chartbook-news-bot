@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795768135,
+  "updated_at": 1795768293,
   "id_hashes": [
-    "367c16f6e62a139203480e4003ae78c9b47000227587339b59db9074c33c3797",
-    "6d10c8529fe63c012a0de27ee9395bd0e67b2250c9ed5ef8b497a05064b8f58d",
-    "07242526f003e02723fe0bb35d1e83dd667426b4a64757a5759d57c7eb653ba0",
-    "7ec73e35221e96e64ae0a9aeaeb2c02bba4b48c852cb60670d03bcac81c40c0b",
-    "f0d5afd5289eff57e0a2fd9954b2bb42eb207ffc9754f7c5b0c876741d9c8d55",
-    "3dae5d9c7013857b03ce9db0695140d0424804fa11f49c9ae39a7ed236b9308a",
     "bb192754b24184350175eac561d3b3c34250cb8c94910552756d720b2f902dbc",
     "8c349d19cd177166488ee3a92320fb4a2a8d1f7ffdc478f7efdba066c633ebb7",
     "9c4def49267e2e47522da3c68e7b785032368c89aa8228358554ad9a851f063a",
@@ -4000,15 +3994,15 @@
     "e84cdaa2b945fd8ed1572ed99b8656c57ea3396092a9f21277d1592173d3304c",
     "84d0b72923467a51720e2d1d626f9c18435e71d2aac70e3bf7d8dc32435272b8",
     "d33383dcccee4492e014b26ec9f9559615a6a345369b12243d09a7275ac44513",
-    "097806df216dac745ffe4e6d83e39b8a3381a4f14d7ec2cff8ea4fea5212d052"
+    "097806df216dac745ffe4e6d83e39b8a3381a4f14d7ec2cff8ea4fea5212d052",
+    "29cc775e39d11d9e33b680aaf08b68b96a577f43a7c58143654f371cbd254a96",
+    "35e0f001cb2d85a033b572b35081a28daaf76889d114a7dc11f9cd29bf98253c",
+    "32e82b84a9fae6aa4ea6b63b0c99dc4a238439a5b366bb04bffb3dedec94d9fb",
+    "9fc22794e45595f366116ce907b9d90b174ddc1e2ffa8fece81fbaecc125b1bf",
+    "d8a576c2854b77568f585c6c48abb5d5ad540a76c8aa77350053580374610387",
+    "abf0700e4f137ec2a4dc747f71f912beb1092189caab68801246a5e086b68e3c"
   ],
   "title_hashes": [
-    "e8fc3fe1c0f0b3fca1b8611547153e990e5054d3a496e4c2517dd3ea4b18b444",
-    "7d76896eaa093ba2ec541653453fa8c554c23aa862ee8049157714da20fedb78",
-    "a74ef3269bb891d0063cfe7ae314d832d9a693399163161596db8dfb33bf33bf",
-    "25ec97f4f258410c3ac9f24a0bf99190d2834fe515f263b226a704f5244600e4",
-    "3c691faac3ca3b5d9ef5afa9eb94993210826c2d361a305476576a7f580061d2",
-    "be43211ea835ac1949fe07c67472e82e605783c419e081833dffa1991bb5e78d",
     "b217bab6e1a41914bba90dc7ea4abf09d6096316c054c2fa2950903390db5b97",
     "76af61742b4c548ab4164eae0f2dc31aaa0682c1009248e01bef9bdf66c073da",
     "ea4e64455bfccaa20c5410e6490a9bee5d95a423ad9294f0650cc72b85049dcd",
@@ -8002,23 +7996,15 @@
     "69d1f4e1b6626db71dc14179e124ab937dc59d9d5b008196696ef88265202c84",
     "8b1b6b89088a1f22523dd68612adab814a855b8cf4c0ca2572ed073f39350623",
     "212efc2deea67dc492a46d25c141a439c718dacc0fdfedeb842a7ecd73c9adf2",
-    "d749d8843c3263351397f96ffe3c7ee0714dcbc9712f99a99505441a92fac3b1"
+    "d749d8843c3263351397f96ffe3c7ee0714dcbc9712f99a99505441a92fac3b1",
+    "9f72f2a6f6418a40aa95c375a60a0257696c7ab71f141879f96dbbfc2d95dc39",
+    "6d6f61ae8695f6ff545498d6ecb89601325cfd9a3796e69ffbbd83d4fc66ac5c",
+    "87c94f14b0174ef35b7c4c4d42483797cdd5b48c2a9c9974883bfb16a9df40c1",
+    "314ef33a844a0b7f568827495bf289527373f56546b53880e1de5812be6f719b",
+    "7aed775f9a7cab896bde1afe402620ec1ba08fd0e7e40d7d0b5a9b76b495ed60",
+    "af4f02f796cdd340c57abd10f4b0645c92e36ef56bbb097549f4a9151c2d9ddc"
   ],
   "recent_sent_articles": [
-    {
-      "source": "livesnews",
-      "title_en": "우주항공청·항우연, 누리호 1·2·3단 모사체 육상·해상 이송 사전 점검 완료",
-      "title_ko": "우주항공청·항우연, 누리호 1·2·3단 모사체 육상·해상 이송 사전 점검 완료",
-      "url": "https://www.livesnews.com/news/article.html?no=66440",
-      "ts": 1795716500
-    },
-    {
-      "source": "WSJ",
-      "title_en": "Opinion | Does Nvidia Really Need Its Brilliant Nutjob?",
-      "title_ko": "의견 | Nvidia에는 ​​정말 뛰어난 Nutjob이 필요합니까?",
-      "url": "https://www.wsj.com/opinion/does-nvidia-really-need-its-brilliant-nutjob-33b21d47?mod=rss_Technology",
-      "ts": 1795716692
-    },
     {
       "source": "Wccftech",
       "title_en": "Samsung Roadmap Reportedly Puts Unmanned Vehicles, Self-Driving Robots And Robotic Arms Inside Its Chip Fabs By 2028, Covering Equipment Maintenance And Production Line Work",
@@ -11504,6 +11490,20 @@
       "title_ko": "엔비디아발 AI 거품론에 시장 흔들려: 마켓 스냅샷",
       "url": "https://www.bloomberg.com/news/videos/2026-11-27/nvidia-ai-fears-jolt-markets-market-snapshot-video",
       "ts": 1795768134
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Ukraine's Zelenskiy compares Trump's friendship with Putin to friendship with Hitler",
+      "title_ko": "젤렌스키 우크라이나 대통령, 트럼프와 푸틴의 관계를 히틀러와의 우정에 비유",
+      "url": "https://www.reuters.com/business/media-telecom/ukraines-zelenskiy-compares-trumps-friendship-with-putin-friendship-with-hitler-2026-11-27/",
+      "ts": 1795768156
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "美团 第三季度营收1,155.6亿元人民币，预估1,133.7亿元人民币；第三季度毛利376.8亿元人民币，预估356.9亿元人民币。",
+      "title_ko": "메이퇀 3분기 매출 1,155.6억 위안으로 예상치 1,133.7억 위안 상회, 매출총이익 376.8억 위안으로 예상치 356.9억 위안 상회",
+      "url": "https://wallstreetcn.com/livenews/3206908",
+      "ts": 1795768292
     }
   ]
 }
