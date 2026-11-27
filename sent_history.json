@@ -1,19 +1,6 @@
 {
-  "updated_at": 1795742305,
+  "updated_at": 1795742452,
   "id_hashes": [
-    "502bb2cc78521dfa62ee9d28b8caa38987ce12d1eeefe3fdcebbacb5a53b4c73",
-    "30def05c7c563aaaed4c53c132001d4e9e333b61a55e3f663a80e0955bbc437d",
-    "8cc0bfce6f2ba01fa8dffbfb34679c35177d7740a1d9f10c5b91156c3da13a6d",
-    "03886f3b97c65e07ea4ee33434099132e47ed8f33b4436b3a88617f10688e5ce",
-    "ff27b81035deb12e8e17f38cfcbdd645cc0522a0235d44d1a703452740dd77c0",
-    "b43dd6c463d04667450e6574540fb06dd8abab3981b4b09942b80a1c4f41e52d",
-    "70c355071deabe7b5b932f5924277d9c66475f279f0cd8cc5a25027010d17b2c",
-    "b72981eea225bd8b512186004bd298a7ee8109cec3bd54d7fcf0e90609bbb134",
-    "45c0c2f474c13e66fb4e104421d1b4356768859cf18fd6306c3248592c053d0e",
-    "826231eb5c1ce826d1f08f4e24e29b6992f01f33d8763feaedc4ec52cd25c509",
-    "b5585925f7ffe72d12150e577f6c1d84238c9585546c8aa5b9aabebe6f70746e",
-    "bc35bb15e9cf8a63abbba078c7f6f21195c2b31cdf7f31df325069d69f8dedd6",
-    "ae45df5dc099b748dcb2170bc6cc3f813bde08e1a3fd8951582c42f5a94fa5e1",
     "1d0aab7b077f85413f9acfebaadf6e21037b96300f122d9acaf32a1ca6ccd67e",
     "c4c59a0aa94432983e62958d26153177b93a9f029dcd3b1b3d8edfb65395fe49",
     "b174484331848afd9d4c36ae9cf7ef6f8572f76f205dc4b90b61f1622c837a7d",
@@ -4000,22 +3987,22 @@
     "f31448a1ca59b2f272e264a364cfb1c0152e5668324dcb06015037f75b6825ba",
     "6090d13bec4ea39e6616b9389cd8ded437a55725194fd491b3bb2f742189a71e",
     "bfc53429001ed33f0dd3166f5a64a76b84828697cf24a2d11503963e19e87777",
-    "d61b657615cbfbb3725f32d085f11b1f093c328371abf91a96089be6047916e5"
+    "d61b657615cbfbb3725f32d085f11b1f093c328371abf91a96089be6047916e5",
+    "ed640a9c0e4c7f8d199947dab7dbba2c96c68bc652d1cb5fd3f562b361f9ba24",
+    "84a8b78606f8406c8e7881d643c625fd8df012fc3c38d8febc31c4a893db1e77",
+    "bf2c3511b34937505b4dd20870999041da36d74b3fa653544a81fbe61128a1e2",
+    "e63f46cffa2c97ec2084435e750a49941dc6cf414c37701fddf873a0630121f7",
+    "97a4c792a935b18209e259029fb003f9f0ad3cafb4a16be78e944cc0923be280",
+    "1829e0ee4385bf21899f1e3508adbeff7cde656b0c6a8ef15bf923dfd5aa51c0",
+    "51dbecc7ef9836bdd4b6e0d8afd63b52c0785e3f68ed783388f540539f98bda0",
+    "d39f84fbe11859a7878811bba4fff5a51c0160abe490a43f426f115464a215e9",
+    "74a504f8e969f2921dfec1b4894f06bba39433db805ac526ca18a7741e3ff7f2",
+    "f25f79c6be4cccba81d92e1e7119d187b0575546fb217e36b18cfb19345fc26a",
+    "50a84b675075fb9a576002efa2717658d077f0da7b75e99def0ef661833a00d6",
+    "1213020e56fbf6fab83554d803e0c113fb7fc0a67b799ca194498aebfb29bbe8",
+    "a370ffe485ceb19bd2998bf5988c0609f22d658e052c21e2f584ea5f904e3d1b"
   ],
   "title_hashes": [
-    "6307f954e922576059300cce67e4bbe6d5df727fe44c0b1b97385630ad43898c",
-    "3f1eb8329e65216f04f649c41b7c0db8637236328b9379f4382a99a4cb62759c",
-    "423943268f9a3127380dd430a05b02601a4dd45b850197a91a713fb7a426f139",
-    "2f792018f4e6f5aa834cf0c53c3c3fabb719a086e38618626f9c81ffa71a0ade",
-    "38739690f45cd44d113b4921a48f9f65e5c7962549f1844a79281d0a5aca7698",
-    "3a62af303bc1a0a8a376d7e450ffd9996c79049862fbc6c17af7d44409bbbb4a",
-    "8381868c53135cdaf5e7fa6efd0edda32247235f3e5274cbc34e7deea919e3e3",
-    "736f786eb0cf9e84df9f5aa95ee0c6db5b64f6425383e4bd1f02a7f332ddc635",
-    "34e3ca5c3052fda364683ddcbcd106743936ecda5559118ada7026c1f34c438e",
-    "ba82088d9902c0ab06b0e6970bccfd88199bde0db1f2d4a4df1645cb2741abaa",
-    "7277d2adb2c73b2a05f9264bc8a1535f119e268362641b6e02facdbdd6e52f10",
-    "a1cd49833b120b9f048ad325e1e2ac1aef965e00f08d5e4f5e31ac2516263c64",
-    "6fac0529ad844abce27a4472d56f841857bae82cb9fa621efb32d43b6d2a0e6e",
     "d22ecd67c5d7087d4d94eea928f4637bf809d06535d9f4b3aed550ffc3a83d7c",
     "5088d3f9b38d9e271c96f9ced776d78f18706cd7f7f86b39088dca658b022ba4",
     "6c9b2279da982b8b796d9f33f058a781deca2a5b188b10202a67f96aa4b48db3",
@@ -8002,23 +7989,22 @@
     "3f0467efc98d5928143f4644ca8325dd2acab4462132ed75b32fdb92600be407",
     "f9f845dcde28d03e954afc3445c1d0b55a52b515644369a14299f92d72288590",
     "603548c0005a714b5b9a8d30139b4655ec8b7ca4edd8a962f550419d0e3a550f",
-    "f60168b35bdbe38aee54cd590b8b52871836d0fe6b0d001794a24f926dd214d6"
+    "f60168b35bdbe38aee54cd590b8b52871836d0fe6b0d001794a24f926dd214d6",
+    "719c15be5b34e5a75bb91a6b0d417d2042da2b68d76f016be66cd505f2bc9a46",
+    "f9218501604b339546f73460f2bf06927b2ae0a63cd4197982980258dadd3a29",
+    "dec1c0a0ac875c1bbdefdb5c7998821f474c0a36e44128ac896f053d9977f9a4",
+    "194258a29225fd5330f5c2fd606ff3b487d7fcbecf314b12d7d709078c8fc7fd",
+    "f643e655a9bce5d897b284a5f5ca4baa41642e9040f021242a11deecee980346",
+    "e877a780bca11e2e988f352269894d4b76df9848d5111e0443ce79f9644b4c51",
+    "c3e3420a70b7616c2671e67f713fae3d136b46167a0d5bde08514b13c18eec6c",
+    "26d30a8d1b57c4f21a3d3e5644e11b3c94fc1631e040db9687641304f15c325a",
+    "d3dfe5fe4770e6983fc59409a7f7e3ad9778b1209567a1cdf0e873ec89eae4cf",
+    "40a621bba94af1977402ce60b0082a28db30469eba140dba8114a41a152b6bd5",
+    "bb2c3a87d425a69b0334189f25b6711f1338833ea4da069bb6fd141ad6b5d8de",
+    "fc23db117697c28de3bb411535c213bd847b45b88268d423e59609edfcccd561",
+    "48cf813ea613e42f2860cc71bcda39bbea9d8943b33085544104d93f316696ac"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "BoE Breeden: Need to push hard on boosting resilience of gilt repo market",
-      "title_ko": "BoE Breeden: 금채 repo 시장의 회복력 강화를 위해 강력한 노력 필요",
-      "url": "https://www.financialjuice.com/News/9869297/BoE-Breeden-Need-to-push-hard-on-boosting-resilience-of-gilt-repo-market.aspx?xy=rss",
-      "ts": 1795692315
-    },
-    {
-      "source": "Tom's Hardware",
-      "title_en": "Samsung's giant 57-inch ultra-sized display tumbles to $1,349 — curved 1000R dual-4K display is the ultimate desktop monitor",
-      "title_ko": "삼성 57인치 울트라 와이드 커브드 듀얼 4K 모니터, 1,349달러로 가격 인하",
-      "url": "https://www.tomshardware.com/monitors/gaming-monitors/samsungs-giant-57-inch-ultra-sized-display-tumbles-to-usd1-349-curved-1000r-dual-4k-display-is-the-ultimate-desktop-monitor",
-      "ts": 1795692470
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "佩斯科夫：欧盟再资助乌方只会阻碍和平进程",
@@ -11504,6 +11490,20 @@
       "title_ko": "최종 선거 결과에 따라 뉴질랜드 통화가 미국 달러 대비 0.2% 상승",
       "url": "https://t.me/marketfeed/1086086",
       "ts": 1795742304
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "人民币兑美元中间价报6.7075，上调21点；上一交易日中间价6.7096，上一交易日官方收盘价6.6600，上日夜盘报收6.6609。",
+      "title_ko": "미국 달러 대비 위안화 중앙 환율은 6.7075로 21포인트 증가했습니다. 전 거래일 중앙 패리티 환율은 6.7096, 전 거래일 공식 종가는 6.6600, 전일 밤 6.6609에 마감됐다",
+      "url": "https://wallstreetcn.com/livenews/3206687",
+      "ts": 1795742331
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "PBOC FIXES YUAN REFERENCE RATE AT HIGHEST LEVEL IN MORE THAN FOUR YEARS",
+      "title_ko": "PBOC, 위안화 기준금리를 4년 만에 최고 수준으로 고정",
+      "url": "https://t.me/marketfeed/1086087",
+      "ts": 1795742389
     }
   ]
 }
