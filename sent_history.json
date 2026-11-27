@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795745392,
+  "updated_at": 1795745542,
   "id_hashes": [
-    "743575b4a8cbd01222c123d3172802005f6105744b6d54c9ba65a589e4dfff3e",
-    "8723e3e52d1c3e0cf500b1f46cf139a804fbf6efce395bec5445160b7d3672e0",
-    "b944ebd0a7e289609bd4b2326df26d13a53ba23a3f4b44b11a95168a036b1e65",
-    "8c466385823aaa78f22c368d1e3d53711467d47ad957ec7d10e05cfb3618bd17",
-    "7552b5c80dcb46933ae990d74022b4a7e2250f5992e8087f3bf605248346acfb",
-    "3b2f94e52f723db7ce60ff85216d8526a328aff05b01188b5fbf3c39bd40915d",
-    "958c093962922d1d531949c11630f73c8d1298c9fa04b018643f55df7a189680",
-    "40bb5742b561aead0c2d408a2abee0d153b2cc32bd276f6128a6ca1af833223f",
     "287eac51b10cea269ad4be55269f42e6004e367fa08f208314678f43024110b3",
     "2f4b64a74c3fa131c39f141e998558bf1a0f7b9cc93be53afd0d67880aea686f",
     "76c344152a2ef8e2d9c7964236d6562758d1871c2655a5b89e4e2b9c47c796ca",
@@ -4000,15 +3992,17 @@
     "45aed8028b6d33996f3f2524aa3293d9f99348466d5313ffeddccc095ded1a23",
     "18a1c0735ac456e161ee1ad28ddd6a515227971d76ecc7712b695d573b3bd663",
     "daf022d3ef1c706c6bf0be6ebf931d13810872d85572d09f70bcd6397f58c13d",
-    "79f7148151b0cc2868d7c42a62cb1faa8f715331366488ce29cdc3615b3bbd81"
+    "79f7148151b0cc2868d7c42a62cb1faa8f715331366488ce29cdc3615b3bbd81",
+    "fb74a3f4be0219aaf10fd58fb3f2760bd08508ac94af49172ba319722b32319d",
+    "fbc76d52f412896463c11e598502c26ab39330b3dac401ab09bc4bddc6d62055",
+    "ce1bfc56b436245891216db415d30fb3366784ca5944dc9894ca4598fb475de2",
+    "325a6d14eaa0305c64fba609e4bb0160f8839fd341bb023de437296a227b9131",
+    "defd2b3c97414e3f22d839ec6733580b637f39b6d272e589777e91df407c4e7b",
+    "723742fc2727d96f5aaa264c0cb3fb0a990faba25d9b6070f1376ac7920a49f8",
+    "93909042a63207e4f8bf84f63df6524aa0d043153b34ec619f0dd059287f94bb",
+    "7e5a986ce316317ea2fb8e24e22875868e2dd505829524710456d46f35609748"
   ],
   "title_hashes": [
-    "fcc8db4d425553573427931fa736adfd6c3574591f5eadf8ad4b3284542d46cc",
-    "2531a5e49dc083dba01f0387dcfdaaac2e4123de7b12c0f4036acfe38e02d25a",
-    "a79fe235d9ec54634197109e4d5ecce9b66a00836878ae99da12377e6f2295a2",
-    "55e11507af4a8fa9c697adad7d11141843ef6c04007866f2f24bf829a0257c02",
-    "5926b2a1554c0da056da5ca417d8dc56a378bfba8919a829c7ce52c56b0a502d",
-    "44ab7cbe970b142090f39128914239304e93213aef5cb8d4beea83642f050c9e",
     "bfaccaf4f720508a84fdc1f45aba82ce8bd11b8b96314ff39b5986a4675d5095",
     "e9769f17020e2b70f62117a53e5e8094d9c2c5db64a57a5c3719ab2decf0c875",
     "f3d62261c606fe7874dd4cfcab28b83b04821e062b37a2aa4c7efce1d6af0178",
@@ -8002,16 +7996,15 @@
     "43cf8644ecde2ae1a7add40ce0a30940c8a10542aa98ff4550430614a7adacb4",
     "200b4a1362c6fe2779089540bacab21714e4d9463f22cb8b12f2b56e98b9e2a7",
     "1d42341f2afc88f72a6652e2871707c9e3a204574f7e8c9b3687297935ac4fa4",
-    "002f7909d4e52fa315ceeb720c673c9132f597cedf6a854b0bafcee93df19541"
+    "002f7909d4e52fa315ceeb720c673c9132f597cedf6a854b0bafcee93df19541",
+    "c3420d8e462cf89af428b93a3863018eda10e650f95e21b3fb793e77a29ac1fb",
+    "f78d26939027449d0e7752a106cb6f22393f0795e64f2a3a339d1e2d94edec3b",
+    "7843d4395acca037cdc614f68f71cd543cdd3f61800cf28c1298b3da0725d92a",
+    "8228cb1183d8333f9a15daa5839e11246adacfc745cb12a8cde17b41017d791c",
+    "9653eeff21ad874efc97915a7d73e24ead537612af38eb1a1c45f16716e58075",
+    "8360d689e0573871a2f5ab0f08582fc8af0a244cded6e91349dd753fbeccec3c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "BBVA Weighs SRT to Hedge About $500 Million of Data Center Loans",
-      "title_ko": "BBVA, 약 5억 달러 규모 데이터센터 대출 헤지 위해 SRT 발행 검토",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/bbva-weighs-srt-to-hedge-about-500-million-of-data-center-loans",
-      "ts": 1795696666
-    },
     {
       "source": "FinancialJuice",
       "title_en": "ECB officials: Transmission of rate hikes is working smoothly",
@@ -11504,6 +11497,13 @@
       "title_ko": "Intercede는 MyID 인증 및 포스트퀀텀 암호화 작업을 확장하면서 2,100만 파운드의 수익 지침을 간략하게 설명합니다",
       "url": "https://seekingalpha.com/news/4676909-intercede-outlines-gbp-21m-revenue-guidance-as-it-expands-myid-authenticate-and-post-quantum?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
       "ts": 1795745332
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "고리원자력본부, '소통고리 대학생 자원봉사 공모대전' 시상식",
+      "title_ko": "고리원자력본부, '소통고리 대학생 자원봉사 공모대전' 시상식",
+      "url": "https://www.fnnews.com/news/202611271103311121",
+      "ts": 1795745475
     }
   ]
 }
