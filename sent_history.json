@@ -1,21 +1,6 @@
 {
-  "updated_at": 1795740587,
+  "updated_at": 1795740735,
   "id_hashes": [
-    "1ca121ecee2b8ce2417aab3425bde90a855c62b4016c25178c4e6ce93ef65a72",
-    "d2cbde8ce88f5028f109eec00149ae2962b20b49d2b8bca7b385a66d60d9cc11",
-    "21adfc15a65226d4dd066174feb3725eb2a4aabcf1327ddf68ae6bfb5fb9c54a",
-    "50cd525a5bba30a2a8eeaf71c9d2a990857ace8156c5cf1e58855011a5efc1fc",
-    "66c460cb3981aa364365d94cbb44c4c80a89045b892bdea3a7b5e56f632e64ab",
-    "78f17b1f64311151ac69b7e9878daa64194b148616cce45258c40e092223f3e8",
-    "7bdeff929096f00bd0310d89138bba104abd210b570e7d79485321b52c6c2956",
-    "59232c936b416d269b979d814e673e1fc0207216bdbc0568ee92616c202c3e8c",
-    "5b295444e5ac55b77e29576ba4129977ce2179fd77631ef4b7f2dd835d8caa2e",
-    "013461b089af42fe2ac34606870c3f9d40f7a556c17c0921d4e4c5f18d65ae59",
-    "319eb389e2179c115728739c4610c116feaf2680ffb1dfa0953045ddd0fb0f4a",
-    "d0677d3950016f6d49364476367b7776faacc6eaff31ea8d5eff54543fc944c6",
-    "8c2e36904d5b5e19e2c485e6429a8c42c05944149d5abb5cb0b00fa7f55b610f",
-    "bfce56f9d451de62e9de54c32535f537d12335da0478447105eb217a15f71b46",
-    "714391631cf296d2264661b426f9c5a72bdab1192547278dc0617451727e88aa",
     "5148895e137c581d7cd5daaaad0f8dc81d45773a84cff93a52bcf7771b20a971",
     "7f17e0ca1ed702da3f7608d703df2a59e53ab873e56b1c17525a38bd20a78940",
     "c0b96b6be401764f44ad48f20829587210c0db7eceba8b75756b582f5642e0a0",
@@ -4000,24 +3985,24 @@
     "a412ede1409dc09f61dd85ff56bc7ad60f50a1a087d24f448d964037a5cc8ae0",
     "ea84e18f4c68ad4e964cc4add06331100405054da377ad74df1c452f118df959",
     "ae0c2623cbe10f5dfaf827cf7b1b972576be3d4b6583c4502af2c5aa3f31e374",
-    "b20f8639defac505ed2b972554607069b0287b521c72139385d8b9c7e5a70c95"
+    "b20f8639defac505ed2b972554607069b0287b521c72139385d8b9c7e5a70c95",
+    "fecc2da8abeebd34c3a9514e2424c936a040de440b98c8ed85af0b6bfcb01b50",
+    "75ddf98fa9e602e73bdc99f2166a8866cc61f4efe9bac55fc1778d2678037299",
+    "0b7f48c75aa0fdcc1b5c902fcbfe39cacc8052228f6e83f22deebf3df78788a9",
+    "1da88c7992df61e458fbf5e7f6e6d634956a2d4074d78c0479d8652dc1262ceb",
+    "773e786507a78f84707c9868f07556fe1c029d3d373f5346ac5e11b56ca1d374",
+    "b433bdad2e80750fd7d9819a112e99aabae1b34e654cab237a8f3f7b3f5bdf2e",
+    "f72fc373bface3e308f32b87e44c8cdf22fd06f7bf49b7e392c0528d5dc1c71c",
+    "de2cbaaf5e64c88121791c8a805e486d84e97ad637b15f03c9d018b75484ecbf",
+    "d62db8204d914cd8c948a05df43f12dc63fdb593fff501afb746fc153a1be0ba",
+    "ffa6eb973c2023fd86cba41c38e902c9277e28843a0d2a585f228a86c32953e9",
+    "c4e86ec8b04648489a9045321879d8ea7262ceb3ae7c6fba489962193df7b547",
+    "0e5fc57be84701a13890b9257c0216bca3ab98b1a460cf900f3329410673f079",
+    "84930f6d12cd083f2af4dc25a6988db1f68afe8b4d258dd8b58085c05bacd33f",
+    "ef285dda5511a44f5b254c24206e5a5c15546902f2cf0910134f114367b24562",
+    "6fafa043d8f63dc91d9cacb107924900006b86182404d6c4fbcde968ab383f9b"
   ],
   "title_hashes": [
-    "92666033143c9323c2dc569d87c0056ec7184f5df78fddaf32fc470a9b191be5",
-    "429a1d1862989489205b9905d4fa9df79cb685652bacfce4c52cfd0cbb95a495",
-    "ad3eaf82e7ed7ae9f34a6d5139675c591c8db09272ac9170786ba05dd6930657",
-    "ea89058949bb0a28cb2f63027bb5558702f1d79ccc4a0495177a776d5d11256b",
-    "f8e92d243c4d6f91fa015b8280cbeb69cc10eff0277e49c74827b0fe839c20e8",
-    "04b1a7b221f467e1ebf8e5cb29416d7d65c05d8770fd0de2faf6c03b8ca84012",
-    "1d567935fd2431501933df30966717037b255f7002d1cb3a6932e4ad48ca50a0",
-    "49a4983beef69146457ecf0812c0cda1bc5f17fd8d74a0ca1da6bda5151f5800",
-    "fada59bd708c989be21e4197578ec6998406ada6edef6aef9ef52081af3ae524",
-    "4ecf06748dc4fcfec5ba5b5c612f6cb9a3ac21475e3b43e91b2576c8da9a4c62",
-    "69206511e7989f218897042c98cd085e4eb59730ca28e03cb0f50b2dd76f1d86",
-    "34a5c04263788e3dbe06e387545fb0f2aa5ad60d8c8c92c866cd05e1a4aab875",
-    "55e1b7f4d14b8885d4356b2558605d9bb8c34e990c5b4effa9c5053558b1e6e1",
-    "416eaf4467555a430371dc267a1644a0427b1e526cc529413dec166121affc97",
-    "d7d0d825ae576c065f214fb549f3c40fb1e4af2d88bf75339c1f8a3994e466d4",
     "636125840d484cfa8b17ef55663c49d3b8d3fb22f9ddf7f2971804234132a423",
     "c70e2799e422664ab7597ce88de70d8e333fd4fb0c2d1dc725417ba2ea24e16c",
     "d9149e3fb7cd37fae6d5613ce84de2987f68dfef73de757bfe6497c5538d346b",
@@ -8002,30 +7987,24 @@
     "9878cbd98ec4b06f4382890160c1c9e7570386b6b9dde5bd6a88fb006b049354",
     "775063816c285de978b2caff92b526fdcf9e191f6db7dfbc96d2affd7203eb99",
     "0a84a0d894e2595f1a2268a764c3b20d94777780b42c63f2bccd7c498b2e143b",
-    "53a2e73d94c4b2b1430f26e4c4c7ddc22ac84824774ea911a6cb4da09b9653f3"
+    "53a2e73d94c4b2b1430f26e4c4c7ddc22ac84824774ea911a6cb4da09b9653f3",
+    "abae3e475a5a117c8375893fc8136815656eba7e09217ea3381deeb691f34bb8",
+    "6c59ee8a4ec6870916c6957eebea6f57f561467461c65fc26045956a6ba24fb1",
+    "9d5574127a82778cd561a56efcced421560049806365eaf0f34c1c10362382f7",
+    "a8812e748ae7fa06acd9848d940ecfbedd84e8bcf50ea3958c6dd534f257c4d2",
+    "3ffd3f28415db064988026abb4894242975bac4938c8ec211fa7aee3d453807c",
+    "534051369e16b4cd449511a5af9a69de20b4cd1b41dee776580c8999695b71a7",
+    "df9920c9e694ade4d1fe5e4d69d2be4010b5ec989c27fe47ae88937d0c96b370",
+    "decc17edf2c7fe95b9bef65f6ec160752abf8178d57b091531fecd993db8330b",
+    "ae16573533b7939ba0e6929a81d2ac4262cde819a8378c059f1f6734ccd8b5fb",
+    "34cc497663ef5841756fbbb09dfede7d107c40aef2a640a10505cde05dc75a71",
+    "eb4acb07d12e1e1ecf4c7c51aa3fadb7e306600781a2077cc567f1e5f83d162f",
+    "44c4613e548da7d56f28f5ab1f13536b1cd83455b55e5a2991c6b68e76f23fe2",
+    "020075baa7973f00df42e595921e8205423450fd67b314b8f843eb144d89d8f0",
+    "5902b87384b7ae29362513b1fe61bc261f2ad82ed71ad2dd5c613f81026dc60b",
+    "2a99a84b7113b74598ac2b06f0696abbfcf2eff8274f46c9f93da0c72e9e6eb4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "BOE Proposes 30 Basis Point Cut to UK Bank Capital Requirements",
-      "title_ko": "BOE, 영국 은행 자본 요건에 대한 30 베이시스 포인트 삭감 제안",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/boe-proposes-30-basis-point-cut-to-uk-bank-capital-requirements",
-      "ts": 1795689485
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "GSK: HIBSAGO APPROVED IN CHINA FOR CHRONIC HEPATITIS B",
-      "title_ko": "GSK: HIBSAGO, 만성 B형 간염에 대해 중국에서 승인",
-      "url": "https://t.me/marketfeed/1085836",
-      "ts": 1795689489
-    },
-    {
-      "source": "Barron's",
-      "title_en": "Why SpaceX’s Approval for Data Centers Is Impossible for Rivals to Copy",
-      "title_ko": "SpaceX의 데이터 센터 승인이 경쟁업체의 복사가 불가능한 이유",
-      "url": "https://www.barrons.com/articles/spacex-stock-data-centers-space-ai-f15686f0",
-      "ts": 1795689558
-    },
     {
       "source": "파이낸셜뉴스",
       "title_en": "\"수출통제 우회 차단\"...엔비디아, 동남아 4개국 서버 출하 중단",
@@ -11504,6 +11483,27 @@
       "title_ko": "[특징주] 아리바이오 직상장 소식에…아리바이오홀딩스 6% 급락",
       "url": "https://biz.chosun.com/stock/stock_general/2026/11/27/GXZH7DLIHZFKLDX3NFCE7K7BVQ/",
       "ts": 1795740586
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "title_en": "중동 전쟁 긴장감 고조에..방산주 장 초반 강세",
+      "title_ko": "중동 전쟁 긴장감 고조에..방산주 장 초반 강세",
+      "url": "https://www.fnnews.com/news/202611270938373206",
+      "ts": 1795740671
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BOJ EXECUTIVE DIRECTOR STRESSES CONTINUED IMPORTANCE OF CENTRAL BANK MONEY IN MAINTAINING MONETARY TRUST",
+      "title_ko": "BOJ 총재, 통화적 신뢰 유지에 있어 중앙은행 자금의 중요성 계속 강조",
+      "url": "https://t.me/marketfeed/1086069",
+      "ts": 1795740674
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BOJ EXECUTIVE DIRECTOR HIGHLIGHTS POTENTIAL OF TECHNOLOGY TO TRANSFORM PAYMENTS, STRESSES IMPORTANCE OF TRUST",
+      "title_ko": "BOJ의 전무이사는 결제 방식을 변화시킬 수 있는 기술의 잠재력을 강조하고 신뢰의 중요성을 강조합니다",
+      "url": "https://t.me/marketfeed/1086070",
+      "ts": 1795740676
     }
   ]
 }
