@@ -1,18 +1,6 @@
 {
-  "updated_at": 1795743837,
+  "updated_at": 1795743993,
   "id_hashes": [
-    "8fe6a986dfa76a165d4f3073c1e87960ae9e4e5a49b834b62901bdaa2dc748b3",
-    "ffa5242411db5d0813049d85499f5891111e9a5867f29d6562d9ff788011e85a",
-    "944cff881520c83abc22d74b3dcd458ebc9275900469f7f3d4da92e51a0503ab",
-    "6dec0fd0ca260ddf680ecf6b8d52b135459194d5f25ffe8ac7e9e1ddd07f9937",
-    "a57db6712abf383bdd8c39ea931d436fbecbe670aa87b61f91e25c3e701415eb",
-    "3ede6893a1512a81e2a490e3103db01dad4a5f1101d3abf97e07eb6df1bdf522",
-    "783a81b2b374593b390d8be4e00753d3e7570f12d202ba00043569ab6fa149ff",
-    "45f0ada72c39d4492fb053b2e39fe6d001bbe32a6f24ad066aadb0d1bde58ee7",
-    "8c5385afccbb1047da53c75fd2636b5d3ad5d25314c20e38e20b45ee9bc2e1d5",
-    "2964960ce00371a4a6d6f6fec5b03c03fe4f932fc8eb7339079830277acd88ba",
-    "9d4b9f319d8b34ce4e33ddb5ec052aecf39dec9cd89e01abc1951a542871037f",
-    "236537c3e83d77e8e1787fae093f938fe98929c80d25f71711ee0505cc316dab",
     "2573721578cbe24755e6666165e3ff6fb3c76431f0c9bacc3f17a25917cde22b",
     "7d73d50a4337c89dd9c39e8b0ff5801fd1e509cd204c7ba5eed32423f0fb24d1",
     "3d01b1892537bd1051a886d119a7d3c48765a256577d8baf91bb0f39dc0fc880",
@@ -4000,21 +3988,21 @@
     "377e3a5e736eae5dac0e16c5b6f50945092f3ad01b8a81ae9724f9b1302cb910",
     "60deb617e84db4726c12d516ef3a926755f1700792070ab9bd7200116f48ad38",
     "2803c9a4a8fdd28607bf9b2c4a687e59f878a309de1bdcc52f7c6165aa27fb42",
-    "977bf77cc0d5ff1ac62910df2a4fe6fd2f558b801f018bc409852e5b53d1b51f"
+    "977bf77cc0d5ff1ac62910df2a4fe6fd2f558b801f018bc409852e5b53d1b51f",
+    "cf4f98c3a0c03065d0a7ab8937005a3e259d8a264eb33695b28bd6ff4ef1921f",
+    "ce5912a329aab7d5cbd85062e1b45d3f16ff4a1d2d8cc81dc49a3054e9362149",
+    "0a9a4d3581145f45b7508db355d8e7a92a528f5c9448b6d563b292b927ad0e8c",
+    "4a8c2378ad16bf06448fafde6956261bba006dbb6cc37b1c515641f3d09ee67b",
+    "f8bce20208a74d9bd4f929d8ed944b50b815b3b7b5ad6156248e78612a68a398",
+    "807123469fbdbe1a4591ff5a2dad0de51bd00da287456e4d524d5b78aba3a312",
+    "63a6d7bcdd85d2d332d671788c837ad7f99bd1450875018fe128bd792d80d3bb",
+    "25258fe2f6bf83860590f6534710dc9c9eaa73b236cd488281d69d63b9189514",
+    "9f1cb1199c45f0b312826a3e73d1b5be7df5621647eb723e907e2f18773499ef",
+    "fccd050cd0e03c93260723b7085c324475c086d25fb7f47247cf963398068759",
+    "64ff385f44d4e1b5aedc0371e8de201410a326e4d22c7c37039373b0c02ad76a",
+    "ce4cdceb244f628d68ee8fc042c4f4ae91eb95b2a75c3782b4350f236803b2a3"
   ],
   "title_hashes": [
-    "1e53610bd4e141a0f26e82624367b322f5df6b819db47f4019933bc9f5c74db5",
-    "75d8f370d14b6d832515cb45f94d5d9fe8b9b54a8201b3049bb0d391c0d80e7c",
-    "4e3263916ae5ff0ad7c8ffd35a7953890f34b3f18eafd26f876919d58af93e16",
-    "f921a5c71e67ef9d223c6f7e2af845827c32d6d670743f942c9d5e76f0df773d",
-    "65ed41b342546a39392b276447f98a93fa97709dcdb7e091792f8332b162db01",
-    "2e42fd2558fcb394e312a663ebc09ef5baff8106c1f473af9a06c800baf96ec5",
-    "02dfb8b502e6b352d37429a2a4e76e81f9cf3514cb86fd89e165fab835297aee",
-    "be91baab998c94e4e2a407d0fb1a96088e7223b4a9a853e46e01e9c78dadd113",
-    "d32d131fbcfdc59fc717313d353e609c2a29ec18074e30d3a8748a3845896cde",
-    "bed43e9825992f0d5a76d55bcd963443b4c6743b4407a9a36e26698d39eebe76",
-    "5d8531c0e7f398e5be70d202cb842e7bc560bec737991416c429825e2f2b5bf7",
-    "5f5fcc92eadcb3110be58559db73108c2cf4fd4ada61d23c9e1b392ce599ef4d",
     "f6865438e7ff25ac138cde7aaa14886506f9d3847221022598a09a4328415f2a",
     "4bb7eaa626de4f13868e59c2f3e547994441d8f61e172d65eb3dd842e4e6d5eb",
     "7369398ea500c210b2968e7b5cc1045bb6877518f20842d690da9c6781d748d8",
@@ -8002,37 +7990,21 @@
     "4cdad115e5fcb30ff0dd3af4dc679ac2f7e9f6c8f0087ee1c86a05c36d2f6e58",
     "92d8dd104e14abdef7f14d3e57615f34dfb3531e4d9d8f1d338320fe16692262",
     "cf60826fe21e783b3fc1f907acfff4e1850e213c13fdc6f2055e62bd3be3c553",
-    "4e3605b5cfc55b920ee79685a7e51b7a3c784a48b8e47878619f275877581ed0"
+    "4e3605b5cfc55b920ee79685a7e51b7a3c784a48b8e47878619f275877581ed0",
+    "828ba61087033111bbde863a72651fd234fd5ed147be935e0c510ac2aa84e570",
+    "5f759abdc8b5c98624cc4684f8b33d196ae8fe22312a9cfdca1d71fa70ca3223",
+    "709dc0fd57c19f50f46fdc947e8e7bfe314b23ef0a5da3b08c94962dc9967e58",
+    "784eb5c4d4a0952f6d51c4414778856d5a81002fbff0872ed2757742d9a2194c",
+    "ee7d1530fd37f5ec651c6b16667f342da925c50ad250abc96a500abaed95fc19",
+    "f2dc894346b2cc3088b59f391cb8333629bcc78d0864d3960114e005accd6196",
+    "cc5edb7ba46d589ee7ff946b91fde3167e0ef413d4d323587f6f1ff2c80820a6",
+    "a2a3da34cd1e88d5f04ad8464a6a0e0ee062f57dc4a9c138e3e38b65ead90718",
+    "6749033bc4086d68319df3f1c2c5d897fc22110da3bbf0d0fa475a7b19910bb0",
+    "ce2183befee6f223f1bc3a231bd2a4231bf28bd05d2cb849317d6f248fd345f0",
+    "67118270a1b3a141759ba4cb22f72bedbdeab28ff960fc061f3211064428a3ac",
+    "d84de6edd6007ce7c1e640150815659c6238d26c3fa294568432d0f29d50dd06"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Tom's Hardware",
-      "title_en": "Export-banned Nvidia Blackwell B300 servers are openly for sale in China for up to $3.4 million — a 5x to 6x markup over U.S. prices",
-      "title_ko": "수출이 금지된 Nvidia Blackwell B300 서버는 중국에서 공개적으로 최대 340만 달러에 판매됩니다. 이는 미국 가격보다 5-6배 높은 가격입니다",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/export-banned-nvidia-blackwell-b300-servers-are-openly-for-sale-in-china-for-up-to-usd3-4-million-a-5x-to-6x-markup-over-u-s-prices",
-      "ts": 1795694599
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "Jensen Huang’s Nvidia Return Drew Trump’s Support, but White House, FBI and CIA Differ on Whether Alice H",
-      "title_ko": "Jensen Huang의 Nvidia 반환은 Trump의 지원을 끌었지만 백악관, FBI 및 CIA는 Alice H 여부에 따라 다릅니다",
-      "url": "https://www.benzinga.com/markets/tech/26/11/63661586/jensen-huangs-nvidia-return-drew-trumps-support-but-white-house-fbi-and-cia-differ-on-whether-alice-huang-had-china-spy-ties-report",
-      "ts": 1795694662
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "UKMTO REPORTS ATTACK 18NM EAST OF KHASAB, OMAN NOV 25",
-      "title_ko": "영국 해사무역기구(UKMTO), 11월 25일 오만 카사브 동쪽 18해리 지점서 공격 보고",
-      "url": "https://t.me/marketfeed/1085871",
-      "ts": 1795694665
-    },
-    {
-      "source": "Tom's Hardware",
-      "title_en": "AMD’s dominant Ryzen 7 9800X3D plummets to all-time low of $369 at Amazon — astonishing gaming performance for AM5",
-      "title_ko": "AMD’s dominant Ryzen 7 9800X3D plummets to all-time low of $369 at Amazon — astonishing gaming performance for AM5",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amds-dominant-ryzen-7-9800x3d-plummets-to-all-time-low-of-usd369-at-amazon-astonishing-gaming-performance-for-am5",
-      "ts": 1795694703
-    },
     {
       "source": "매일경제",
       "title_en": "'35% 관세 표적' 베트남 \"美우려 해소·무역협상 마무리 노력\"(종합)",
@@ -11504,6 +11476,34 @@
       "title_ko": "한화시스템 주가, 11월 27일 장중 55,100원 12.33% 상승",
       "url": "https://www.joongangenews.com/news/articleView.html?idxno=567105",
       "ts": 1795743836
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "SOUTH KOREA TO MAINTAIN PREPAREDNESS FOR MARKET INTERVENTION IF CONDITIONS REQUIRE, FINMIN SAYS",
+      "title_ko": "FINMIN은 한국이 상황에 따라 시장 개입에 대한 준비를 유지할 것이라고 전해",
+      "url": "https://t.me/marketfeed/1086097",
+      "ts": 1795743921
+    },
+    {
+      "source": "핀포인트뉴스",
+      "title_en": "방산 수출에 민항기 수요까지…한화에어로스페이스·한국항공우주 '날개'",
+      "title_ko": "방산 수출에 민항기 수요까지…한화에어로스페이스·한국항공우주 '날개'",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508767",
+      "ts": 1795743985
+    },
+    {
+      "source": "와이드경제",
+      "title_en": "[특징주] LIG아큐버, 5G·위성통신 시험장비 모멘텀 지속에 장중 13% 넘게 올라",
+      "title_ko": "[특징주] LIG아큐버, 5G·위성통신 시험장비 모멘텀 지속에 장중 13% 넘게 올라",
+      "url": "https://www.widedaily.com/news/articleView.html?idxno=304969",
+      "ts": 1795743989
+    },
+    {
+      "source": "시장종합",
+      "title_en": "에이피알(278470) 브랜드501 인수, 적기에 더해진 성장동력",
+      "title_ko": "에이피알(278470) 브랜드501 인수, 적기에 더해진 성장동력",
+      "url": "https://markets.hankyung.com/consensus/view/654590",
+      "ts": 1795743992
     }
   ]
 }
