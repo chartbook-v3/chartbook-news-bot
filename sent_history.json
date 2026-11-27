@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795764497,
+  "updated_at": 1795764651,
   "id_hashes": [
-    "6adf6e38311b4111dbecc6efce831fab57fa4171996541c7a44388bf7737b01d",
-    "0a05d2f5c6870a7b7b9727cad2246dd073246b63208e5f9b70b4a4479890e041",
-    "e2bdf1870018a8ee1d98acc1f01638264b05190d50107704bf9eafacb10fc718",
-    "65fd585c0a8f4d460719f1f88479cb0bccfe5ed5d09dff6a86a510d8dacc7a73",
     "64bd7365f52dc28d9183571225f51843ad0f6478a16083d4fb80eafa3d418083",
     "c7dbbaf62c4491a6f7b53dde7b10f1bbf0bd1c161f4b1dc9e67a947807e96503",
     "0ab19cea5bd166720725a1d93bb6fcdf6b2eb805b7b656aca9f90d152ed4d3cc",
@@ -4000,11 +3996,13 @@
     "8ab7a1a66a1d00b11730de8bd937f1c6c4100221cb6d741ef72c505c6f2f0afc",
     "3744c660cca4afe333c0ac7a7b5b4e3b3a91fe77327064e0efac26c9ee6ccb78",
     "88aaef9560de608afa2a3d0c2a83e31ab5944fa5a039a39947c06222b1e274ed",
-    "e3ad035372fb31111ea428ee36c49af02d4a62f5fdcc6bef7f7960a404756de9"
+    "e3ad035372fb31111ea428ee36c49af02d4a62f5fdcc6bef7f7960a404756de9",
+    "1d6871d771004cac35840161c6cffc94823cbe62f2918f2de203a9229eb1a40c",
+    "9133ed9777654843eb811cf97dcf5253eec650fa02cd001cc16adf32db3c3d25",
+    "be8a0363c5c645c3f119e505fee62fa21c3018da009e53b3cc9bf9b0d99c3beb",
+    "24ace5fdd017166f9b4f62d806f8ac718aac00394728b380c3d0f4a7a7a26f1e"
   ],
   "title_hashes": [
-    "4d7a1df956565be3bf3a27ca8f5c2e34fbe9886fa0a1e84fc2c4c522bcffab0e",
-    "386a23d379923a52dc333973605291d316987b104a407e21026ed0a938fe258e",
     "40602392ab5371f74a8f243ec4f0141bfabed533eb4b05db164c0b452e6d239a",
     "6fe39c24d11b44862455770d826962beb001ff1946df797c160f43cc0ebbfbba",
     "b077f8cb4819db26092274532f41115f50a45c795516bd57abbedbe4e2ccb2d2",
@@ -8002,16 +8000,11 @@
     "e372f28539975af40cd54ef3b9b1a6a4c48b00bd9348bdd5ddd79a03a481f5a7",
     "00ca9bea0b9921842b57e64dae5f5b4a6134b7c1c69e5ced4691d510998f80c1",
     "996ea8fa8ad8e7814b6e491a084b4f166eba7512d60e9249c5b37ff4157833c4",
-    "466a9a53a7ced6ba1356be0d495134b0ff896f48f5f64c68dd58a59f5f7edf58"
+    "466a9a53a7ced6ba1356be0d495134b0ff896f48f5f64c68dd58a59f5f7edf58",
+    "35923680c9803013fb369b341e1be68587c90c46243ff3383c2d9b6e8f7806b6",
+    "0c81d3264c029a0768d4f27c9e77c80c63efe85477bc6d6bf78b6f329117179e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "US TO DELAY OVERHAUL OF MILITARY PRESENCE IN EUROPE: POLITICO",
-      "title_ko": "미국, 유럽 내 미군 재배치 계획 연기 - 폴리티코",
-      "url": "https://t.me/marketfeed/1085955",
-      "ts": 1795707415
-    },
     {
       "source": "MarketFeed",
       "title_en": "ANGOLA TO CUT JAN. CRUDE EXPORTS TO LOWEST SINCE AT LEAST 2008",
@@ -11504,6 +11497,13 @@
       "title_ko": "상하이국제에너지무역센터: CICC Futures Co., Ltd.와 회원 탈퇴 합의",
       "url": "https://wallstreetcn.com/livenews/3206868",
       "ts": 1795764433
+    },
+    {
+      "source": "매일경제",
+      "title_en": "코스피 마감, 4,915.68P (4.34%↑) SK하이닉스, SK스퀘어등 상승세",
+      "title_ko": "코스피 마감, 4,915.68P (4.34%↑) SK하이닉스, SK스퀘어등 상승세",
+      "url": "https://stock.mk.co.kr/news/view/1207257",
+      "ts": 1795764650
     }
   ]
 }
