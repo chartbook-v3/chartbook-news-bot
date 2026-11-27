@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795749259,
+  "updated_at": 1795749410,
   "id_hashes": [
-    "f4c2289485448018279a82232b9ad6c8e9f72f3b68772fb25e4d323d4982a828",
-    "ed429c7626f43a1b609dc53294720739edb2a2bc666cca5935a96a6935b379d2",
-    "a52ee5bab77e64762e2b1ffa5cdec7ae29853b0a41addf32b80af2aca90bfcca",
-    "0b0781234b90d27cce4042cbea71817e1a76e716a3d27673d9b3afd76bb6ecfa",
-    "d0b2ef3896609024b96c23b538d4da0f14f1490ffededf36ed42e5c673b0e9a1",
-    "3b6e889d8add13a3ef45cc2af86094f7d5fa582161e682d72b24244b0be59332",
-    "1381d15ba933e698d015efe2a354c86dd68eeecaef03d220c7e75e8830332fa3",
     "487430e3460713ac0a43b3ecf913460b199d9fa3340bcb8622d486545ebeafc1",
     "695322852c0600cb1638b99af1bd4840cb1592355abcfc7fe25e2832dedf9eef",
     "4071b6c8ce23461f1a1a2b7257ea691eacd5487faed5eb567f1a446e0d142c57",
@@ -4000,16 +3993,16 @@
     "8cfd9977e21944f4e7d998def974c3c7b1b0d7b50a2e53506c1832e1cdfbc67a",
     "fa8ad8650abf84cd6aa689353937462d56f63cf85140017968388730152e2cda",
     "b0a74a5ec16024d2879dda1e90ecbe7fba6860e632b25738271f1864baf1f1c5",
-    "2b0a5393f1bd794758390cb7913f7d11d832fe79e07dda207939843a507d43e4"
+    "2b0a5393f1bd794758390cb7913f7d11d832fe79e07dda207939843a507d43e4",
+    "58601c83ecd2eaec1d494459b4f0f5e10a8d3ccd4fed6711d57fbfba689c7e93",
+    "900ae9b8b76ac5cd66a27cd943c49285c04a124fc9d9595a932b323ab27671ab",
+    "45417a6c42a535a65ca644dd8ba15ec24542de11dd0dffb7cbe9965611307581",
+    "12dd4ac558b1fa98b94e84b852a7528a6cac9e0893b538fadf556390441ffe48",
+    "c5bfc24cbbee92dc8e7844a13978035f3f4c014c16903c1d9fe83c36fc87a1d3",
+    "39103ddb0ed79ec436302a859088a33a9953cda218f84ea58a61687232c004f2",
+    "3320673c9f6694736cc4e5d44760647f1d57a8760f0fed9eb8e5beebb2b48507"
   ],
   "title_hashes": [
-    "94d866496d6838ee9f68188f27d65945d4e0b8e19142da776bf52fde5a1d665c",
-    "25b303b1b95909bc8e95b75e70867f0788b68571d8c1d28d82e60192194c77c7",
-    "46584ad11a4f4da92de9522e9df04329ae53fdba43c676936c89fc7527b4d40f",
-    "0468860d26d8400df99831b6d2a58318f84eb5a618bb2ea5f67051c98ebac0d8",
-    "230998113806edb3af1887e76d294bcc8969e7fb0c3e8a5f47e69502b0ec3b11",
-    "55c74f8225dcf77a4e3f8ec9fbfa10bc732d2ed150be15dcb18803b1d1210122",
-    "834c0c038c49d29d184b037689c70f2e72a2753d9797eb1f264b28f3aeee67f4",
     "889f615360e00fb79d6a314772e21ed7c54669018fbc178d5bee41b96bf5fad6",
     "99919a0fbfa49765f1c70af0e6391e6dde8374eb71dfcaa9f108c2a62ad3272b",
     "3e32d433ef2d4dc1ebdf7810b32a3fe7eee68a6c7fd01b3aa9d1ecb0067590db",
@@ -8002,23 +7995,16 @@
     "57b8090fee1c8935e7e2fc0cb22feceb71df2f9f02dd6bb8c2568571e1260a6e",
     "6253b8af0a371172eedfc2a1b390ad18e366dceb3e79bb9f7fdff7c92cec5e4d",
     "06f18288817f0548028afe660879e83ba580dd8fa9999e82ba1f161388a62bb5",
-    "a1369da6fb386df8073198f56e1c9fcacdba8900a177020c709bef3ff20bda99"
+    "a1369da6fb386df8073198f56e1c9fcacdba8900a177020c709bef3ff20bda99",
+    "139e8a4d166b7fd2a705be20bae3434d6d3769492cebd80afcd8f2c9eb57ab8b",
+    "be812d1d6c5d1a62f6937920074c46c45b68608df4e1991379051740fe77039d",
+    "86d3488dcf68e38588cd920a1ab0b7e4912f014ddac69f88781cf3524a9fc2b0",
+    "dd01b6ca5924dece5c3af7dd01e7c497be91d283dfa1f22c6d645bfff9b50ba9",
+    "60a87ec947a2629bb3418eae1e24e390a97b99de73f5cef41d62c3ab9dee6397",
+    "ef5695a7f5d46c5fe18654856026232cab3e205d0a06aa846a02f2fb24d2e12f",
+    "00a4a25214d0f254603f6aaca8753b33a04f3a59cdaf064563b425221901b80a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wccftech",
-      "title_en": "Undervolted RTX 5070 Running Melts The PSU-Side 8-Pin Connector, While The 16-Pin End On The GPU Stays Intact",
-      "title_ko": "언더볼팅한 RTX 5070, GPU 측 16핀 커넥터는 멀쩡하나 PSU 측 8핀 커넥터 녹아내려",
-      "url": "https://wccftech.com/undervolted-rtx-5070-setup-suffers-from-8-pin-connector-melting/",
-      "ts": 1795701382
-    },
-    {
-      "source": "Reuters",
-      "title_en": "Swiss economy expected to suffer only minor hit from higher US tariffs, economist says",
-      "title_ko": "스위스 경제는 미국의 관세 인상으로 인해 경미한 타격을 입을 것으로 예상된다고 이코노미스트는 전해",
-      "url": "https://www.reuters.com/markets/europe/swiss-economy-expected-suffer-only-minor-hit-higher-us-tariffs-economist-says-2026-11-26/",
-      "ts": 1795701542
-    },
     {
       "source": "MarketFeed",
       "title_en": "POLAND TO SIGN AGREEMENT WITH PALANTIR ON FRIDAY",
@@ -11504,6 +11490,20 @@
       "title_ko": "우주항공청 2천억 펀드…민간 매칭 인센티브 '빈손'",
       "url": "https://www.dhilbo.co.kr/news/articleView.html?idxno=2523",
       "ts": 1795749258
+    },
+    {
+      "source": "한국경제",
+      "title_en": "\"24종 쏟아붓는다\"…현대차, 중국 시장 뒤집을 콘셉트카 공개",
+      "title_ko": "\"24종 쏟아붓는다\"…현대차, 중국 시장 뒤집을 콘셉트카 공개",
+      "url": "https://www.hankyung.com/article/202611273967g",
+      "ts": 1795749342
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "河北发行10年期一般债地方债，规模180.0000亿元，发行利率1.5900%，边际倍数1.34倍，倍数预期1.59。",
+      "title_ko": "허베이성은 규모 180억 위안, 발행이자율 1.5900%, 한계배수 1.34배, 기대배수 1.59로 10년 만기 일반국채를 발행했다",
+      "url": "https://wallstreetcn.com/livenews/3206739",
+      "ts": 1795749409
     }
   ]
 }
