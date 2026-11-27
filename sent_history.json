@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795814750,
+  "updated_at": 1795814904,
   "id_hashes": [
-    "c80917a0a2cd8e3821560178ddc99f002344fd9add0d2ba9cfa2593c9dc83196",
-    "cefac62a90039939aa4895560b6d1424ff13152f343cce64b409df0efd3a15a5",
-    "33c5b5bbd59e7341b3cd399fb0dd882811eff0bcf7e34f84f6baa7589ffd2668",
-    "accedb656a31079e68cdd5074b8e20bf06384e673109fe853489d370caa9160a",
-    "adb32402938e5d13d43a1d243b928797517f22df5c05abc12527845aac9cb3b7",
     "fe19560ef50ef34c9533fe7178ccc4c401369813db1a950fdc111bd31d50502f",
     "dffe9ce836993a39d69070c851d956392c80cb0b689dbdb1148a148df6ae419b",
     "2293f68fc7cf3b65c8b4b5d75f0163cc4caac329be5c90f65b6d13bc8040fa64",
@@ -4000,13 +3995,14 @@
     "10d021d5bda6b9dac3a5ea5c90eedfd4f68e9bbf5533bbbc213fa8e6c7fffee9",
     "5bf65d7822d24ce88f5d4d245763dbe70fe5a8abf042b47b3f8759cfae6e1522",
     "8d910d2e330d53763dad3096c8b9a3097bb6aa6396df01448dd9b1cd8730b1f5",
-    "bab8273188293fa8987ad112a167ca7adac7763d50d0539e6d3813d0c20ec981"
+    "bab8273188293fa8987ad112a167ca7adac7763d50d0539e6d3813d0c20ec981",
+    "014fe06dcb24d2f4a3f428c39156d79a89399830dfeaee006cccdf44f441d5a3",
+    "0998fc335ce5f07638e84b657431a71462e7e358adcdf691fcbf3a32d05554cd",
+    "a5fbb0194067a8f06adb237e59b77be2fa97df63f5e5eb20ddf787dc7cdb548a",
+    "7fec5fb8f30e9ff649085f76e055b5d438846049f89aa8351bd11d5be67920e3",
+    "739971b7131988cfbc1302b8a591da1710edc667d50fc7c87b72e53ed4d215b5"
   ],
   "title_hashes": [
-    "cf37c3e2578b678523a5e51dc2241af9368f714a74f78558e08e309fc9119546",
-    "ecf1082bf180e8a5cd19e89259a8d7ad7aa633f211238838c521a784b219c68f",
-    "e9e92ed5e85101547865febba5c0f837256e38f903fb4156fc9d7b133c934df9",
-    "7f3c11376ad10ed19f422ffb0c15001e016e1faa2159c7ea2698bde758cd2ed1",
     "1ed07a7c6d7e3262df7087e62238fb7f9c5be15c7a341e521f1d9683ba0e553b",
     "af84b03985d692d997d36b5b34f89157e807172515870c2f77350eca39335f6f",
     "e09c8c19e96527ee490602bffac16ba6a533e06a886a3b15fbb9454c9652aab3",
@@ -8002,30 +7998,13 @@
     "a6833489c04dc800bcc98f0f32ef40e2d0ad65a600fd6f8190f053059043d52f",
     "ad76995d5998b6bf39ca0d059d82a5590aa825ce2edcacc83336703ab323938c",
     "134d3dcd18cebba19aefe7f7345a3c326a70c9a2d9a5a104eb585667bb9eb3a8",
-    "e7bd59dbdf73716945b2d30aa797113a19c5f57ac932ecde36cfc88cb8453c41"
+    "e7bd59dbdf73716945b2d30aa797113a19c5f57ac932ecde36cfc88cb8453c41",
+    "11987fed609857392e6ac5ab87142d1191151528b3c848e3612e3d1137250e67",
+    "8cd3d62ffe123588213937cc2cfd7cd8cc33822e1090e200ad87df266f0e4863",
+    "fd16d3297bb04f616aae59cf4bb85c1e078f89e7b8e922c4e61bb0b1eea9f983",
+    "b4543290af059af4d174f6efe2abd800671a40764c3a909a9f2d51891cdff28b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "EU caps hybrid vehicle imports from all countries for up to 200 days from December 1",
-      "title_ko": "EU는 12월 1일부터 최대 200일 동안 모든 국가의 하이브리드 차량 수입을 제한합니다",
-      "url": "https://www.digitimes.com/news/a20261126PD216/eu-vehicle-automakers-european-commission-growth.html",
-      "ts": 1795733325
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "EU hybrid quotas expected to push European automakers closer to Taiwan suppliers",
-      "title_ko": "EU 하이브리드 할당량으로 인해 유럽 자동차 제조업체가 대만 공급업체와 더 가까워질 것으로 예상",
-      "url": "https://www.digitimes.com/news/a20261126PD227/taiwan-electronics-eu-supply-chain-automakers.html",
-      "ts": 1795733328
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "Japan backs robot foundation models for manufacturing, construction, logistics",
-      "title_ko": "일본, 제조, 건설, 물류 분야 로봇 기반 모델 지원",
-      "url": "https://www.digitimes.com/news/a20261126PD228/japan-robot-foundation-models-nedo.html",
-      "ts": 1795733332
-    },
     {
       "source": "DigiTimes",
       "title_en": "Netherlands pushes back on US MATCH Act to protect ASML's China business",
@@ -11504,6 +11483,27 @@
       "title_ko": "트럼프, 명예훼손 소송서 잇따른 승리로 전세 역전",
       "url": "https://www.bloomberg.com/news/articles/2026-11-27/trump-turns-the-tide-to-score-early-wins-in-defamation-suits",
       "ts": 1795814749
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Hungary Credit Outlook Lifted by S&P on Budget and Euro Ambition",
+      "title_ko": "S&P, 헝가리 신용등급 전망 상향…재정 건전성 및 유로화 도입 의지 반영",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/hungary-credit-outlook-lifted-by-s-p-on-budget-and-euro-ambition",
+      "ts": 1795814834
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "South Africa Edges Closer to Investment Grade After S&P Upgrade",
+      "title_ko": "S&P, 남아공 신용등급 상향…투자적격 등급에 한 걸음 더 접근",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/south-africa-edges-closer-to-investment-grade-after-s-p-upgrade",
+      "ts": 1795814837
+    },
+    {
+      "source": "MarketWatch",
+      "title_en": "These stocks soared the most during the wild week on Wall Street",
+      "title_ko": "월가 변동성 장세 속 가장 크게 급등한 종목들",
+      "url": "https://www.marketwatch.com/bulletins/redirect/go?g=d9baf9af-37f0-4df3-8934-42c904ceaf6a&mod=mw_rss_bulletins",
+      "ts": 1795814903
     }
   ]
 }
