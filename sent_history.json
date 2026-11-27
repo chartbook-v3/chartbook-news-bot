@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795745700,
+  "updated_at": 1795745860,
   "id_hashes": [
-    "38907478d0a0b761515f210bedd51aa56f0a3f9c5e0e8ec0fd7da11656b501bb",
-    "a09728e325ae740418e782171a38dc1c27587097e955390f586181e0bd240ea3",
-    "a403196dfb0b39e9bf74b50d0392d95be0936113515d2019bf7f031d61e2d1e6",
-    "52269f5d58a1db58d29ca80b10f6cf3c084d9fdcd62f387976b144f00ca4836b",
-    "c6555ec55c5fde97909e7d3d3b974881687cc54c2bfa02a8e8fe2f9dfedffc70",
-    "5080fc10137a60edba83da9faafadca6142d62dbaef863613a6974d0f8386390",
-    "40bea830dddd315522987819a9e141d0cdadd8b1345305e984800a8914bae8d4",
-    "b82edfb6e589a9029d79f4c699a43331cd9a17904e77fa308522d9188272c148",
-    "595ddb6d8223493184c810bcf4d78076c88fe43a3ffa62a0eed798feeed1a17b",
-    "b76e804d5c0d7d8bc78667881689987bf795c48db983d96cc6daa7d288128ba3",
-    "13d57eabaa2d5b7d71296e300c12fdcc60ec57effa1e07dd51c5715380e4bcf3",
-    "ee153e1e6031b83e69c7412453e094b4df022f0d6d8d1eaf47b5fc6ec4cee3a4",
-    "aa55cf77236d477a2636436fe43b7bffe0b3a3b4f399683e46ae2a6fb4aa3008",
-    "175de1957283ac9119e4a3ffcfcf8a50ceb10317b038e50a67cbbbdfff227ca8",
     "a868e9f30fe3d404cac2ccbf772fca115f88a0eb85abc2d9b56435a72faf5360",
     "3efabb9acf99a3c5a575461dd462839d9d9a229b7fad4dc24404a971d53429b8",
     "6fa1eda2dcf42e4a7597a6688ae1f867fc4f927d76c5bf2615d56bf7719000de",
@@ -4000,21 +3986,23 @@
     "978c647cbc9723143475ef1facacded2b09df8085be4a606adcf4f9ac12eb5dc",
     "29dc5d2e86e0eb0935270b6dfd9de53677f2f8432610de52af0d6f4ef4dad8ce",
     "fcbad2234435d17b29146750b5f3fc91c594799cedd2962a3c912f336e09fa9f",
-    "ad1c5b0db3adfca18f27c984a2f6b630f180aa89017ea1296be8e1092b48d323"
+    "ad1c5b0db3adfca18f27c984a2f6b630f180aa89017ea1296be8e1092b48d323",
+    "de1ff291eddd794992b9abddcf39b4b69b29630d2916f2724434b04ad79940dd",
+    "7b76da8fc7e3af54e50bd23ff297ba6912a2bbc9e5cdc32798d37d0e279eb823",
+    "8a74a7f576382bac84ebb37063060db6cc0bd26ced47d3970ed5b8603f64004b",
+    "0c83d2ea7b45e4b365c831037e03aeb792db0d752ea6885f2ae3b1b5947e4ffb",
+    "b1e7644f53cadad76c4735fecdac2fbdd50033000d0186cbeb8ddd19e69b5dea",
+    "e388c6985d79d989b613eb003752ce9ff63b4d114cffbe6f8ca65ed8a9a81b83",
+    "5081e1daa0a2dcf4eaf571b73290817d345c20e963bbbfabadfbb8b741603269",
+    "0632440d7e74dd45927e6d8689d055a5213507e881b238efbf57f015ee76b230",
+    "96100e74383562306d1e7af49e4c9fa3f58069d154f22f7b053d4f86cf221bdf",
+    "b3892d2a0db5449349a57ae6036fa494900160caaf59732a3c1de60c411f0316",
+    "018e3c88878f9bfbc6ff398ef051cffd04b3c1d1ddf8d7f03f4f8955fa6b3a8d",
+    "153046ba3534d4a3bbcd46f45833c36dba1d7c7da30945c1ed928b8b796a1731",
+    "4cd3cd3e37841285b2f67f0ebf4dc60de276c47196e8d92539a22c090aac58cc",
+    "d8c95170ba8ccb7162a093acbed3ed0bcfc3fdcefe792f5540bb6469c29d616c"
   ],
   "title_hashes": [
-    "b5465137ffca0de277755b1a0479d1261976eff40564ca772516b746558c1f20",
-    "8812d58d921bcd2d3393b185bc233e07068963475cf62267bd9474b17b81bdb7",
-    "0068e642e9f219a28492fdbc9b7f39602aef5b611270be518c072af5de2693df",
-    "2e2c5223be9cbfce48eb71e493a4a1509d2be74e968e06d08afd640e70dbc708",
-    "8b53dda78c6b3def60f14bb731f3842bc0c8ceedac89ed464e43ce33ca3de761",
-    "44ebb646696472e0ac5badef2b76e46730b7d4b0b32b8dd83062538c9c32f1cb",
-    "b16935576288060009c964d65ee643dbfb54a38f7ab6315d17a742577872f343",
-    "ecf460e523cf42fab8b75637b0c8faf4ca1b54fcaf7fbde717c63b2f43878077",
-    "0883bb3cc0edbaaddae8ee4803d0870b8725dd15a9e5c21c513969226488d847",
-    "358cf98a0668336b910981b667cefdfdcc8429c0ba865b2d832551cbd720879d",
-    "8f6f8163bb96df7e1af883ffc8c3ff6480b30d0a2828ca2d037e764adccb5b57",
-    "c02b00896732b45f437e20feb2d2e2464bd928d2a25dc466edcec11cf929cb21",
     "d700a44e9a99bb007eacbe1c5191a655f601011a26f38cce1012f456f098ef77",
     "b3f25affb283a8c1b9b92e1e095367befc70bd231bb1ef94f18b94e3afdfe0b7",
     "d206dcb09bf36148a7340e65c9149599c76fd48c67170ddb0f74336babadb1c0",
@@ -8002,37 +7990,21 @@
     "43487b22672cc73a286415d3139706e9af81678f065915e2639fb2f49ba99203",
     "d5aa22e82249cd5b97abd0e4b7f4f0e7c2a160a8cf3655306ac8c34603ace678",
     "2a3cfe971b223ee1c110ff1f58aafd60350d8f4f973b7afc8ffd7b1660c16be3",
-    "fc9668c13f17300d9199143e3e386fa151f7de927d438636d4caa89eae2338df"
+    "fc9668c13f17300d9199143e3e386fa151f7de927d438636d4caa89eae2338df",
+    "69bc391f8514734bf7e3c1891ca0b0ce05ca1433332244bfa93d26e9da48b64e",
+    "7c31e3bb9187ee9317275347af093a3070ebf135c1904e3d7429d3c9386a079c",
+    "2c04ca43b897ce146c2079e2c839be5540717d15d86bb4842277a0b92fb2dbed",
+    "1137703af1601c07d95abb54fd7a92fff40e23e6095eddefe2f1979b3bf8574d",
+    "a7d003646759e4986abb462bfa8ab2e7d3215c963ee368b1db6d147f4d40f266",
+    "09bcd892d7f8d6ab123cfa03074287a4ab3d8d0d06c7e5dc26ccd1c238bc2734",
+    "0eab28f33e81a07fc51cb5aa18c77f42c3297648eefeb5f04e36b57e25c25554",
+    "6eac1ecd590463d87800535cb341badb9c36ead893dff58ea16706ec8ae507db",
+    "0ffb0ada1a1339aeb1b3a749d1c4ca5a18fb3715db133fbb44ef54596cca069d",
+    "5e53986b551d86f8dbe5f1b27520da1e65807cc0500bacd20ad7f8deeead1f3e",
+    "6f08be454fe253f2d0597d234fd2cffb821520a2fd44918f30f56e28b369709d",
+    "fa457901aab039b762b6e4aa1ef71ff3726eb0aaa655b7de7699b3d5c5c9bfc2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "华为乾崑携手宁德时代巧克力换电推进“无感补能”，同步发布30#巧克力电池",
-      "title_ko": "화웨이 첸쿤-CATL, '무감 보충' 전기차 배터리 교체 협력 및 30# 초콜릿 배터리 공개",
-      "url": "https://wallstreetcn.com/livenews/3206463",
-      "ts": 1795696898
-    },
-    {
-      "source": "녹색경제신문",
-      "title_en": "머스크 ‘우주 데이터센터’ 100만기 위성 승인…태양광·냉각 기술이 성패 가른다",
-      "title_ko": "머스크 ‘우주 데이터센터’ 100만기 위성 승인…태양광·냉각 기술이 성패 가른다",
-      "url": "http://www.greened.kr/news/articleView.html?idxno=355722",
-      "ts": 1795697052
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "South Korea’s AI boom faces an earnings reality check",
-      "title_ko": "한국 AI 붐, 실적 기반의 현실 점검 직면",
-      "url": "https://seekingalpha.com/news/4676813-south-koreas-ai-boom-faces-an-earnings-reality-check?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795697055
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "ECB: LARGE NUMBER OF OFFICIALS COULD HAVE BACKED OCTOBER HIKE",
-      "title_ko": "ECB \"상당수 위원, 10월 금리 인상 지지 가능성\"",
-      "url": "https://t.me/marketfeed/1085900",
-      "ts": 1795697076
-    },
     {
       "source": "MarketFeed",
       "title_en": "ECB OFFICIALS STILL SAW NEED FOR MEASURED POLICY RESPONSE",
@@ -11504,6 +11476,34 @@
       "title_ko": "SK하이닉스 하루 만에 매수 1위로 돌렸다…초고수, 삼성전자은 매도[주식 초고수는 지금]",
       "url": "https://www.mk.co.kr/news/stock/12220025",
       "ts": 1795745699
+    },
+    {
+      "source": "Benzinga",
+      "title_en": "Trump Wants Probe Into ‘Fake Economic Numbers’ After GDP Growth Is Revised Up to 4.3%, Defends White Hous",
+      "title_ko": "트럼프는 GDP 성장이 최대 4.3%로 수정된 후 '가짜 경제 수치'에 대한 조사를 원하고 백악관을 옹호",
+      "url": "https://www.benzinga.com/news/politics/26/11/63664688/trump-gdp-midterms-thanksgiving",
+      "ts": 1795745850
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "LG CNS, 데이터센터 국내 최초 안전대상 수상…해외 공략도 가속",
+      "title_ko": "LG CNS, 데이터센터 국내 최초 안전대상 수상…해외 공략도 가속",
+      "url": "https://zdnet.co.kr/view/?no=20261127111238",
+      "ts": 1795745854
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "CHINA'S BENCHMARK COPPER CONTRACT CLIMBS OVER 4% ON THE SHANGHAI FUTURES MARKET",
+      "title_ko": "중국의 벤치마크 구리 계약이 상하이 선물 시장에서 4% 이상 상승",
+      "url": "https://t.me/marketfeed/1086105",
+      "ts": 1795745856
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Short-Term JGB Yields Rise on Elevated Tokyo Inflation Data",
+      "title_ko": "도쿄 인플레이션 데이터 상승으로 단기 JGB 수익률 상승",
+      "url": "https://www.wsj.com/finance/investing/short-term-jgb-yields-rise-on-elevated-tokyo-inflation-data-713a900b?mod=rss_markets_main",
+      "ts": 1795745859
     }
   ]
 }
