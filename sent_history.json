@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795749715,
+  "updated_at": 1795749877,
   "id_hashes": [
-    "e06ada6a9217b6c14b3f61ed0759f0561c549c20f94a3905b74a8b8b44877af7",
-    "c107ecd4771215d4edc8911fd56f21d0bea567926bf1cc6371cd9d204835512f",
-    "08781024f5de09d549358cd16037337aa465fcf8ebeaefb03e050229561f8ef0",
-    "7fc311cbcc6404e3516b0cd627ea9ed7a8c4e82c2dec40da54bc74a44368918a",
-    "ee8975b0840f797f313a8f7e2735c6cbc5c480c570665385fd022cf17f189ca2",
-    "f42335587522b0a068c383c4835372097583e0e71d33dc717a31e0702590176d",
     "786767034a315e2da4179e8081aeaca73547c3c1b1cc376feecc2056d1551811",
     "fcadba840839a9d71101556f2f5d039eaad67d4bad589ff22043bee4fb18cd7b",
     "c2ecc9429e32bf9351291ec5056dbafe2bed81cc380209941dc2e314fdf6b2a9",
@@ -4000,15 +3994,15 @@
     "3e40471b5780014d5ba4d3598bcdfc15f290d58d884f1f49d90db2987c9d4b50",
     "145247bba50ec14eafcb0495703b9e726ee21785881806a44cb428bc177d7c9f",
     "93802f58dcc357af2486b59a0a4ae6ff9597ce781ddba8e7a8bb6c76755247cc",
-    "9d6b74da96607617f196ae8a7c49aa02f552d274a8219a0b93634c67057c08c5"
+    "9d6b74da96607617f196ae8a7c49aa02f552d274a8219a0b93634c67057c08c5",
+    "a9aae2f1f372e60d8bcb6b6e99b3a75b0d50bd41971784124e7dedbb8c2340b8",
+    "37dc76a52ac1182468b8f2fece73d82c2750543cfdbd6695f78cc52cdecfc7bf",
+    "27a6b38c910a7cd0e13627fe82d6cef06847b07f14edddc5c12e22a8acf13726",
+    "5d7a3a4a2d5b235fcb689241801e861ae089ef001c8273f09398c70d2ee9ba21",
+    "24202c51bd67bfe7bd66ec30bc780302a5031ef8eecd948bba5a98e4062b337c",
+    "60cbff9bfd885500d3981892e9364d4aa4811a68b8d498a35a3bde2ceafa3008"
   ],
   "title_hashes": [
-    "81f4d7abba280c376cf0095e4ea5f07aed6b58e03d9b0fb351834f8e8d913aea",
-    "117c9e8fea922b3b26407fb79cdaf6782d890f3e009efe4778635867a5cfe403",
-    "87eec84fa0fc0decc663e622633a30078e4387771c5b513a7be83c6366f1ad90",
-    "f1a3c3bb2b1b56eb58d9ae898cf55953febe098ae59128855ace98fe059a38cf",
-    "0a5d586033d357646dc9fe1459be250045ebc0aa53a43765767e4d889edf1920",
-    "6ed38ecef238c96ac4e46e76a7213afc74657271dd397e6e1911008c22f1c57f",
     "f6e1be12cfe9952ee78a5f7b8cb2bc4517c776928ce4528bfb29d35232296581",
     "e9bb31b516660dc77db7608f6c487533b04431a9f60a039126a09b570e80c2af",
     "52f222c26fe3ee3a4ea71d2908367c506ea90a45d79968692fd0fc3680ffac66",
@@ -8002,16 +7996,15 @@
     "f1958b1b8328eac1884ff3b0d58e120b8b663ac16533d2780efac8330cbc7f66",
     "c7c238759ea0a94e5669a7d705476af4723c647692d764ff5c4f278bb510e805",
     "21fdad1ba5be39f98994af5f300eac20f198411ccddb8d43d6ac8d48275aa544",
-    "c5f0c91fbc19233b5ffc6f14bf864ec598fcaf01c7957079e977da4e7522511f"
+    "c5f0c91fbc19233b5ffc6f14bf864ec598fcaf01c7957079e977da4e7522511f",
+    "fc3588c182ec9e8e764c80c769ab025432dad58913076db6765b6ca217fc7110",
+    "9e57f0db47952415bbe956f64255d61b496e4450315031a2cbc12cb07dccb09e",
+    "adf5b420558a6d08967bd0f11c98d93b6e5468f45a4ceb6e1abece30bf0d9a37",
+    "87f04db1e19eb0e668089261ac7d67c01ad2740998b8f0320ccee2c8f897af38",
+    "62eb20f4b0811f602744353b79479004bb2eaf1772c847f61378af7a7a2b620c",
+    "fb0446c64b8f29e7b7ea6a640a6af30ffacd56f0011ed605148f7a54aedc3282"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Tom's Hardware",
-      "title_en": "Solo developer vibe codes a gallery hosting 36 classic GPU demos — preservation effort includes 3dfx Voodoo showcases from 1997, Nvidia bubble, and more",
-      "title_ko": "1인 개발자, 1997년 3dfx Voodoo 및 엔비디아 버블 등 고전 GPU 데모 36종 전시 갤러리 공개",
-      "url": "https://www.tomshardware.com/video-games/retro-gaming/solo-developer-vibe-codes-a-gallery-hosting-36-classic-gpu-demos-preservation-effort-includes-3dfx-voodoo-showcases-from-1997-nvidia-bubble-and-more",
-      "ts": 1795701867
-    },
     {
       "source": "The Verge",
       "title_en": "Samsung’s R95H TV shows off RGB LED backlight tech",
@@ -11504,6 +11497,13 @@
       "title_ko": "엔비디아, 동남아 서버 출하 보류…피치 \"AI 투자 둔화\" 경고",
       "url": "https://dealsite.co.kr/articles/173651",
       "ts": 1795749714
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "VIETNAM'S BENCHMARK INDEX CLIMBS 2%, SUPPORTED BY STRONG GAINS IN PROPERTY AND TECH SHARES",
+      "title_ko": "베트남 벤치마크 지수는 부동산 및 기술 부문의 강한 상승에 힘입어 2% 상승",
+      "url": "https://t.me/marketfeed/1086121",
+      "ts": 1795749876
     }
   ]
 }
