@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795816507,
+  "updated_at": 1795816663,
   "id_hashes": [
-    "a6e83b3e1a56329154f306ebb634e31c778941a299fd7f37b4b5251179bdb3a8",
-    "08801455c7dcd4d9b7954011927176d09532aa1b11692302fb05105e24ccba87",
-    "d9708ac46bd8204c110352c3c4776bc005e2c0ba5e9bd831e1dd8da2b6e49dbe",
-    "6b91ecd492b115174bb1411636f05ed057ed03834a1913ea567d15936e14e118",
-    "7b5699702e34eec634508d43efbf32b6206d9284c4257a969ca520013a9cf5db",
-    "105b5f679aab52a9e5b511f3f5f37e984dd80353780db80d2c3609c71f7c529b",
     "2d54a286eae84c7ae6c523469d862591df650ebb7c69e65e2b1bcf8f83cb578d",
     "04449612e4507a94fb5674a684f50a698dc957bf27057fe9ee85dbe74665867b",
     "4999dbfa2e3538c9cdd191be3c4976487cf2906108fbd80da829c4bf1ab62b4a",
@@ -4000,15 +3994,15 @@
     "3f493be4886d03e694f4820f85cb0fee22153bfeba3baf75a30c23609b74f92d",
     "1665cf53d3464c591404c81034971a917ed636acd8988ade74b8349973f8bc77",
     "8828cf56a801d6e9dde92243b7210082141873e9421f79709c72f0f463e1553e",
-    "e0a94143dd79bc4eebd9c83dd6d086610917b4fb4dccc700d26e1f723f80d784"
+    "e0a94143dd79bc4eebd9c83dd6d086610917b4fb4dccc700d26e1f723f80d784",
+    "ab02f077c7ba84f0a9165c92e4850901f78bd63c299a70c1c424568f0cc6c399",
+    "5876f229a650d76127be248ab7614323bb0faa924f580fea28f4b51b71c6a62c",
+    "ce978523e845d7391d9247f39734ddb733ebaafd70004627dd1236b1affe0e80",
+    "c93e1c3638cab873a39a4c0b77775e1bd6fae596d7393d5eae2491d0c8958e8d",
+    "a94145ebca91c7b048a0f7abcf32c21259bb2ea90de669c646cf6f1224d6474e",
+    "448c6afdd963a8e925fde2409ff5b30046c07279a6e7f4d9578bfa032e7b17eb"
   ],
   "title_hashes": [
-    "5c551db2fa7d093c8077ac240fcfba59ceae6585a056c59eccd6b8b0aa055c76",
-    "811d9ca4a3a37e8d185b87f068b3082edfc9714fcb22570c7b5d5d281d0d7993",
-    "de71d141aad5282ad1464da18946a0b29c162d36af59f4171be5d03a21461668",
-    "d6570458650e6aea38f9777f3ac1eb5d0d60b11434bd9610cb0a98f7935cf5b7",
-    "e425e8ae537f9f5ac941dcf3606579aeb2a56a9db5ccec58bff4c1bee7ff89f8",
-    "0fcc545c9daef9a5675d7c2e92c08e135770bded71f8448b417bfd50ef0cf6c4",
     "6c83d60d63c7d1ab9a1ffb6546f9992b77c083d38e684e75d9d8dd3100346d66",
     "7df82ebf20a569f0b1be6df46046b6b593d48687ca9debc40a03ee112cd96bba",
     "5e66cdd82bdb1091cfa3051ed0452846882b3858eda0c5c497e0fd20a95b4219",
@@ -8002,30 +7996,15 @@
     "77f7c29f37aa19835720e6991fbe75a98708b247c7616e52da352f44a6880bfc",
     "6a55b02257631d3c3ecfdbaa95d9f698ed6ba664e612a9402620b9d737bee599",
     "d27db0a4d72e111c4171817287ddeda4257c3b8353b12648c0d41eedc60a6937",
-    "aa82a0d4c2b97407d29debdfec8022d5b2c70a3a70288df2cb3e443c2d8da5bb"
+    "aa82a0d4c2b97407d29debdfec8022d5b2c70a3a70288df2cb3e443c2d8da5bb",
+    "8029150b1baed117f5f7198293b740ae7e834d185389c9c83ab1bba860603bfc",
+    "aa93263063430a4d48e63b82525ebce186040dd6f071bbd0f8b2aa09e9f908f6",
+    "0f62984323ca7fccee4faaf41273abc556b335c56606b086e9f46305fd248c42",
+    "14b9f3e6f1d8a28e526bf58bfb4b9cc1f51a87fe073530e6e408f272d3fc5192",
+    "899d6368127bdfc8cd6ff25e5b19acf35f78787ff9f55f9dc7bcbfc52d65b841",
+    "5e85562a3d03fe0e031b825a37803a86c7368576031f51a088db6ff74f5a2460"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "SOUTH KOREA REVIEWS EXPANDING STOCK STABILISATION FUND – MAEIL",
-      "title_ko": "한국 정부, 증시안정펀드 확대 검토 - 매일경제",
-      "url": "https://t.me/marketfeed/1086022",
-      "ts": 1795734050
-    },
-    {
-      "source": "Seeking Alpha",
-      "title_en": "Here are the major earnings before the open Friday",
-      "title_ko": "Here are the major earnings before the open Friday",
-      "url": "https://seekingalpha.com/news/4676738-here-are-the-major-earnings-before-the-open-friday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "ts": 1795734115
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "자율주행 시대 서울 골목길도 바뀌나…서울시, 도시공간 재편 논의",
-      "title_ko": "자율주행 시대 서울 골목길도 바뀌나…서울시, 도시공간 재편 논의",
-      "url": "https://www.news1.kr/local/seoul/6367683",
-      "ts": 1795734197
-    },
     {
       "source": "CNBC",
       "title_en": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates",
@@ -11504,6 +11483,27 @@
       "title_ko": "애플, 중국 광군제 기간 베스트셀러 스마트폰 10위권 내 6개 석권",
       "url": "https://9to5mac.com/2026/11/27/apple-claims-six-of-chinas-10-bestselling-smartphones-during-singles-day/",
       "ts": 1795816354
+    },
+    {
+      "source": "WSJ",
+      "title_en": "Opinion | Nvidia and Failing U.S. Export Controls",
+      "title_ko": "엔비디아와 무력해진 미국의 대중국 수출 통제",
+      "url": "https://www.wsj.com/opinion/nvidia-chips-u-s-export-controls-china-jensen-huang-c457c915?mod=rss_Technology",
+      "ts": 1795816592
+    },
+    {
+      "source": "한국경제",
+      "title_en": "선거 참패에도 관세 휘두르는 트럼프…여당서도 불만 고개",
+      "title_ko": "선거 참패에도 관세 휘두르는 트럼프…여당서도 불만 고개",
+      "url": "https://www.hankyung.com/article/202611285724Y",
+      "ts": 1795816659
+    },
+    {
+      "source": "한국경제",
+      "title_en": "'젠슨황 불륜 상대' 연계 中시설서 엔비디아 최첨단 칩 발견",
+      "title_ko": "'젠슨황 불륜 상대' 연계 中시설서 엔비디아 최첨단 칩 발견",
+      "url": "https://www.hankyung.com/article/202611285705Y",
+      "ts": 1795816662
     }
   ]
 }
