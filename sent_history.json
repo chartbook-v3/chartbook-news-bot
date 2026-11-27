@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795767327,
+  "updated_at": 1795767505,
   "id_hashes": [
-    "b3217bf8989847cd10c841cab5993cbd2ce7716d54e2068e89ae6cdccce7b596",
-    "02617a59b197f4a699d9ecbb4c758904300055cd9c76f7e91bb733d56b91f11c",
-    "61571dd1b6609a4923a3abb4bb23f160ccf776a53a5039085ca12d4772167fd6",
     "c470a1b574bfd54fc48bd039d13e19e193142c4c9dc7757f7e198da874d89584",
     "1c2b31ce3639b9384e5be33d7f4c66c43a471808c292c2794f1603df8709b334",
     "51852850811df076e79962669c4530c0687d4d2dec8873c5f2c98121bc09480b",
@@ -4000,12 +3997,12 @@
     "a60130c87b78c5f6e43fbe0fcedf1d96f00b116d7c2f958bc6f7c37de663a848",
     "14f98851f0066dfb3f35acf17a6f6cd53ddb4154f09f4fb91ccf359e88448e21",
     "a01023f3c2cc83484c70f40a8410be31826fe7081c8154f5735e3f0ca1d78686",
-    "81f3ed6d195e3c9295eca63021c24e1a7e15bbdedf1c69e1f944dc96cf9d29f4"
+    "81f3ed6d195e3c9295eca63021c24e1a7e15bbdedf1c69e1f944dc96cf9d29f4",
+    "bb83764cac5641ff72d1e0552d7475ca51045d0f9368ff944b7d3abd7feb518b",
+    "305961535771cd31093c7dc1e3b7796dc84c206a5739698b8bdc38cff8d39773",
+    "a332487b6fb07a4c1bd7fc18f8af7dca997397eae281070fcf64d784dc4cdc93"
   ],
   "title_hashes": [
-    "ea58bedb6dd0c226d7634b1ec51ea9a2fb28a7947f48d0f5a49328468b5c3b6e",
-    "c678a949f36a9f8675a21c0ea2dda72d3156193ea9dd80841c28d457551e682c",
-    "1f4a1c114d2afc19aeb263e4ace8f68d6fdf4f0dd3c37d850ad131186e26a44c",
     "517ff9115e1fa8521dae5bd6b121c54584870cd4ccb0a351a19368eb6ef8fd20",
     "28fc4505bdd7fddbbbf43fbdf0e5a94bd2b571d4c5600680ce1b92fb277702b3",
     "20a61b118eda8a44eafb66bfa58e1d0ed3ed71e8804a8fa72a4bb5eb2af1c3a8",
@@ -8002,16 +7999,12 @@
     "ba8427a4ac09c025d9c79b3b232ef111fe0b3213f70c0bc9c18a1fe842c14190",
     "ac74b35ee578e0ea65d954e4064470f483cc93af2c8ca73342668f609f5b82b6",
     "74529c177cffc541bb2cd1c6ae5c111348ae278070a008444d451eac3a07e68c",
-    "c23bfba614a6a41436768d960b451d9129778e0ad62bbe63367650229f2adc82"
+    "c23bfba614a6a41436768d960b451d9129778e0ad62bbe63367650229f2adc82",
+    "45166dfcdf3881d589cdeae97a63db204b98e944cbc8655240b7638336aa1515",
+    "7da98b83eea02498c47dcac0f6074e8ea6a004a61a46d810721121e3371b652e",
+    "9873be01b1733068633cf2716d127c48a234d14aac6b07379f57df28f2f5fde4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Tom's Hardware",
-      "title_en": "Credit rating agency puts Nvidia on notice for possible downgrade — S&P Global Ratings says ‘board members may have compromised their independence’",
-      "title_ko": "S&P, 엔비디아 신용등급 강등 검토 착수… \"이사회 독립성 훼손 우려\"",
-      "url": "https://www.tomshardware.com/tech-industry/credit-rating-agency-puts-nvidia-on-notice-for-possible-downgrade-s-and-p-global-ratings-says-board-members-may-have-compromised-their-independence",
-      "ts": 1795712900
-    },
     {
       "source": "Reuters",
       "title_en": "Poland's Diagnostyka profit falls, revenue and test volumes grow",
@@ -11504,6 +11497,13 @@
       "title_ko": "이란-튀르키예, 美 압박 속 천연가스 공급 계약 연장",
       "url": "https://t.me/marketfeed/1086216",
       "ts": 1795767326
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "新型机器人夹爪实现象鼻般的灵敏触觉",
+      "title_ko": "신형 로봇 그리퍼, 코끼리 코 수준의 정밀 촉각 구현",
+      "url": "https://wallstreetcn.com/livenews/3206900",
+      "ts": 1795767442
     }
   ]
 }
