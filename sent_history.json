@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795867197,
+  "updated_at": 1795867343,
   "id_hashes": [
-    "9320002b607130514d01d0d22e3640fb32f5dcd9076c9fa94aaa6bd245b0dd46",
-    "aaba425c7ad39b212d436d6f1e23d0cfb12513634db2bed6bb2cecaedbc5aa89",
     "f3ae65f1d79d552b04624e2a9b81489dc7db136ffefb78458a879bd037268b1f",
     "9fd22b4b43e4278a7ccc3351372d90b543a9cd5e895c922086f8fbb2be4a3c76",
     "30a150f4ddc7216424b1244548a2ff54b7b49f3d50e3c1bdfe7340aa32370d12",
@@ -4000,11 +3998,11 @@
     "f52368804d598452cd74d4c8a41a0a61329cb41306ad99203425f9934f5133cc",
     "c26939a110a39d93139d6a54b3d75230c25c64898ce27390119fdfc9fdd55b28",
     "e246d3a68848e317bb40f2e3bf225d5266fc5bcb0848699f467d76dcf04821be",
-    "34987de09d9a1d86c9d2bde20155a4063fd1e175e8e34a0b94254dae3dab7381"
+    "34987de09d9a1d86c9d2bde20155a4063fd1e175e8e34a0b94254dae3dab7381",
+    "6426f0bf4abb1d9713623d45c9fe42869e05b11f04766787360ed93698d56e8d",
+    "42775382a4c87a9ba006ab91ab31e318894f021b2e0844e521a534bb3e336c4e"
   ],
   "title_hashes": [
-    "19aa874ff6ddab2b6b22a10ea768447f4b99608b20d9b7b02e484cbf484a27c0",
-    "eea30061c72a2e550442cbcaf53a871f130b6d4d34b939cd9fad042bb524f127",
     "eb2d243f79cf63175519ae190d6634fddbd932c643b07ac6df1b940f82b84f8b",
     "f3094ecaf1b959d2f76047a8496a536f8d8ec9ed04abb6dda68c9fd2222e059b",
     "e623f2e5b7182da06cd9423019bd584609e31daee526c9c42b5fc25fa19de080",
@@ -8002,16 +8000,11 @@
     "1e377f4b55bb8e604f111d10fc292d77495aa520e3666efd64d9a8ccc49d2617",
     "b0cf8da9dd56b101f75293e3c49cfb788ee8f523b3156392ba32d9cf3ff42458",
     "68c71588a6e3f602ee562f39c5ed79ebf20f3c593e8079b264be24461de54528",
-    "b13f734ddf3c25f75b2eb13fd245c0b6100b0b74928a9d459a80fb5107efc660"
+    "b13f734ddf3c25f75b2eb13fd245c0b6100b0b74928a9d459a80fb5107efc660",
+    "f6e0fa8f66f5d6e92c7def1a99af6cc7f29b1d7db1acd8ace7c751670032f3e8",
+    "a62eb9dd96656a6514b35aed4a28905d730325092b44af9a7ee2174351864815"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "先进封装概念再度走强，三佳科技2连板，华海诚科、精智达、中科飞测、耐科装备、金海通涨超5%。",
-      "title_ko": "고급 패키징 개념이 다시 강화되었습니다. Sanjia Technology 2 연결 보드, Huahai Chengke, Jingzhida, Zhongke Feichai, Nike Equipment 및 Jinhaitong은 5% 이상 상승",
-      "url": "https://wallstreetcn.com/livenews/3206703",
-      "ts": 1795743471
-    },
     {
       "source": "한스경제",
       "title_en": "[특징주] 사우디 정유 시설 피격…한화시스템 14% 급등",
@@ -11504,6 +11497,13 @@
       "title_ko": "[KAI] 제24회 항공우주논문상 개최…국가품질경영대회 품질경쟁력 우수기업",
       "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2394920",
       "ts": 1795866306
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "🌅 Market News Digest: [Nov 27–28, 2026 EST]",
+      "title_ko": "[11월 27-28일] 글로벌 증시 주요 뉴스 요약",
+      "url": "https://t.me/marketfeed/1086621",
+      "ts": 1795867279
     }
   ]
 }
