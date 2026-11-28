@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795865542,
+  "updated_at": 1795865705,
   "id_hashes": [
-    "f7f89b6eff2c7db51d5025b78e43debd2f89fa56854ca3a98137b120485dca8c",
-    "09c589a89bd759fb7ab2918d96b8fefe449f2b21d13c60f55dceaeea82b0cee6",
     "27346ecc99d2d980ce781ca367fd236d7054716c3322e60f49c6e75f68e1edf5",
     "5dde9f8626a6975f27500df17ea6df91227088c3e5944f3e9b33110a457ea5a5",
     "bcd81fb0123df328b068cab5096190d3e2b7dfad017cfcb45aedce5a2a0d0563",
@@ -4000,11 +3998,11 @@
     "806573a7ffe4aeb639ea2122bb9fd5757d669438a0fa7002f76e95a1d04b1b3a",
     "f7ed3b9d10ffaaba516411e3157ed9c4ad844906b5b8a52465dcbda08347ea06",
     "7dca2dec7439d686c651deca9f9fbe17b0f934d3be7bd4433450cf43c2ab6c60",
-    "e74b288e20cb983064e884e5b6795e28495dd2050cc10c06c502bbd67f99fff0"
+    "e74b288e20cb983064e884e5b6795e28495dd2050cc10c06c502bbd67f99fff0",
+    "e0658ca914b0d79febddc66a7b486a4bf71ddd76423d7c13a4d3be0b68cd5d1e",
+    "a46e8b7161bcd6854a0696d8edadd3e17c41557bde16462f925be6d9c8eef402"
   ],
   "title_hashes": [
-    "9d4153b41f5ab8cd17a35322f34eb5c7bc9a497de4acc36fa4cecb1df8a9d8e6",
-    "14b3ac15ada25d7c5f0e8126eff989030410bd0b11d402b9199b27c0afa049ca",
     "478dc0ef6223db93764767c37090ffffd93771110ff02a425e8dc636c06a3afa",
     "b365c5d6eb66770c661b047e6d4887f613444cad0b5b2fee328e2f5c6c193182",
     "d6f02fe96a3c516e3c75d8cbb900d6a37460bf0712569db76e43306998c76d94",
@@ -8002,16 +8000,11 @@
     "1571e42d0173b0fd05772df469a7923c68be2a4f0a27f96f9a117ba5ed2761a1",
     "ad5dc32bdf72b0a49fffa230171f0f4c4bfed558c9d04c59b51bbb4b83068101",
     "4198a0d205967cac659a3f4857f5a88574774a81e4c12f47443912f7ce0454fa",
-    "d70eedfec65b8237cbfe10f8f9d8a8b5c47a3d2877d0deca53ef031f0fec4615"
+    "d70eedfec65b8237cbfe10f8f9d8a8b5c47a3d2877d0deca53ef031f0fec4615",
+    "a526180d8a27c0e8fb3f969ab5f3988e653986bb26049fa187aa0f4596fe1ca4",
+    "9a601282179d115961011844ebbad361402990c18c308aecfcf131cad86e4179"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "创业板指、科创50均涨超1%，沪指跌0.02%，深成指涨0.47%，半导体、软件开发、算力租赁、算力硬件等方向领涨，沪深京三市上涨个股超3300只。",
-      "title_ko": "GEM 지수와 과학 기술 혁신 50 지수는 모두 1% 이상 상승했고, 상하이 지수는 0.02% 하락했으며, 선전 구성 지수는 0.47% 상승했습니다. 반도체, 소프트웨어 개발, 컴퓨팅 파워 임대, 컴퓨팅 파워 하드웨어 및 기타 분야가 상승세를 주도했으며 상하이, 선전, 베이징에서 3,300개 이상의 주식이 상승",
-      "url": "https://wallstreetcn.com/livenews/3206701",
-      "ts": 1795743373
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "国债期货开盘，30年期主力合约跌0.07%，10年期主力合约跌0.02%，5年期主力合约与昨日持平，2年期主力合约跌0.00%。",
@@ -11504,6 +11497,13 @@
       "title_ko": "태국, 2027년 말까지 EU와 자유무역협정(FTA) 체결 목표 - 아누틴 부총리",
       "url": "https://www.bloomberg.com/news/articles/2026-11-28/thailand-looks-to-seal-eu-trade-deal-by-end-2027-pm-anutin-says",
       "ts": 1795865480
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "Makita power tool battery pack adapter tested as portable laptop power solution — $44 ADP15 charges a ThinkPad at 60W and iPhone 17 Pro Max at 37W",
+      "title_ko": "Makita 전동 공구 배터리 팩 어댑터는 휴대용 노트북 전원 솔루션으로 테스트됨 - $44 ADP15는 ThinkPad를 60W로, iPhone 17 Pro Max를 37W로 충전합니다",
+      "url": "https://www.tomshardware.com/peripherals/usb/makita-power-tool-battery-pack-adapter-tested-as-portable-laptop-power-solution-usd44-adp15-charges-a-thinkpad-at-60w-and-iphone-17-pro-max-at-37w",
+      "ts": 1795865704
     }
   ]
 }
