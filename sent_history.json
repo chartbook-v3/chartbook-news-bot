@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795862985,
+  "updated_at": 1795863134,
   "id_hashes": [
-    "f15aaea21a3e5dfba343469c359921edf54826ed3ddc4bb73706c224cdc16936",
-    "da6bb10480ca9add34a4311c4288c0d11b2ddd65ac3bf2a98d9df71984a2dfa6",
-    "29222340ded6cebc2f42da8f827d61255b546a1e4335806eb8b51631620711f1",
-    "ede2ab531c3932c3a7480c4cc523fbb2aef4f01531902a86c358e25d756a3874",
     "a3cec2f09f624fdcc47ba1fb50265787233ea4a7d52ad2180822e8b5e1e9937c",
     "652a0b6b65b66a75104fb941da925154b00f521ca1564988b0a621b04df33a24",
     "f4ae5ee1922cddfb36c7088bf853625a9ddc99dcef6d545ac6dad7cfbc70d915",
@@ -4000,13 +3996,13 @@
     "08a80d8b73d46edc60390ba7182ead696532f2c8566fa4a9df0b007e98283e3f",
     "d67a07aca4be6c0f50d15f130da39c6c2e9b0e50bc2abeec5f882dd0927ec8ef",
     "b23cf48c81ca8030387188addcb5b307fe4e1a1188d6d7a916d478d5d059a66b",
-    "61a62dbbb229b9214ee4643ca92831d3f39bb57925ea8857a417dfe31ee1c948"
+    "61a62dbbb229b9214ee4643ca92831d3f39bb57925ea8857a417dfe31ee1c948",
+    "c3315872db694ef21964eba0086d6c35200754f764fe24809b54a70845e64f49",
+    "8d36c3dac1c05d233690367cce3d9d957b02993fa36716150db1c65885764a49",
+    "45f12ba35e8381aa920bddd6329a9c1fdb2847c77603a3037aacb38463311872",
+    "4a8aff59f3f965693c90ff8b70e6062fcda4d36816f4129a6abc37010f8b2a24"
   ],
   "title_hashes": [
-    "ee187d17ceccc8b48a509fbc6ad0d9506b1064950552a229207c0cec1f1064c1",
-    "f3e18c16bd4014a3b54b8559b6b53fb260e4b261673d188e47237208d029a95d",
-    "9dc095ff6d50ec9d5c85c3f81e68caca7cf4f1f5b2966e83f5f4ccf4f28a1d0a",
-    "b78ad782f94076d5873e3feb9b38b875b7c95dbafc994cddb9796a858f4a64a7",
     "6e9dd556bb810f6cc4a4c79c888c7556cc50f2c6f26ad129ba6c1587a41cbde9",
     "a108ec912e9874147a88da63075dd0cf098b4c858fafa178abcd8cb6f7968ff6",
     "8c9b23f6cec0b5fcdaa7ca3a13eccba2a4ee4a1fa92ac839eadcfea8ba67a427",
@@ -8002,16 +7998,13 @@
     "2dd84623c6fe4412cc9d5d6e4514bcb34a4c6e82515fe6b6ef66d49b55688687",
     "37605160a0250b10db92809fd4eac99683b68b5300106904fd5ea95922916670",
     "a39e7f08fed35055caa0448458eef0e394778bb06f2de0f48c1cb919ea9eb904",
-    "57ce114a84c95e5d2e8ef30d479d69f959992f50d42957f1999eb2836ead013f"
+    "57ce114a84c95e5d2e8ef30d479d69f959992f50d42957f1999eb2836ead013f",
+    "e72a5fcd14b2397bdc69d919920a924fb5940a86f056d9b7c286f9baa080e66a",
+    "509f6fd5e3df99f9d811f9f9003f21e5ddc3d03337cef83bb0f507ebf07dc53a",
+    "ebd71f0238f2048ec5813802125362f6dec4317e99ee2214cb53a35e7ae5701a",
+    "0e949c522c67818d37f47cf193fecfb113f05b89fa80ac2184a8fb1e7b596f3a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "코리아리포트",
-      "title_en": "사우디 피습에 방산주 상승...코스닥 급등세",
-      "title_ko": "사우디 피습에 방산주 상승...코스닥 급등세",
-      "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=55242",
-      "ts": 1795742778
-    },
     {
       "source": "연합뉴스",
       "title_en": "[속보] 코스닥 5%대 급등에 매수 사이드카 발동",
@@ -11504,6 +11497,13 @@
       "title_ko": "우주 데이터센터 궤도 기술 시험 플랫폼 가동 시작",
       "url": "https://wallstreetcn.com/livenews/3207353",
       "ts": 1795862235
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "俄称打击乌能源设施 乌称打击俄无人机控制点",
+      "title_ko": "러시아, 우크라이나 에너지 시설 타격... 우크라이나, 러시아 드론 관제소 타격 발표",
+      "url": "https://wallstreetcn.com/livenews/3207355",
+      "ts": 1795863077
     }
   ]
 }
