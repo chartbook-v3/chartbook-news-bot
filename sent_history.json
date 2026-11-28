@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795865391,
+  "updated_at": 1795865542,
   "id_hashes": [
-    "e434b1f714a7104aad0c565f516ddf5ca48671534237d15730770fc73f01c4cf",
-    "37a0e489ba5510aec95a6bfaecc683c04ad55e4dc77b770a635b584148009b15",
-    "0caceea9ab6aec2b725c8bebf06502736ece2d2c4a6310fa487833b385c0f544",
-    "0e1901dface766d30911733a902fb39ec56282093df4692126e2f8ecce1e297c",
     "f7f89b6eff2c7db51d5025b78e43debd2f89fa56854ca3a98137b120485dca8c",
     "09c589a89bd759fb7ab2918d96b8fefe449f2b21d13c60f55dceaeea82b0cee6",
     "27346ecc99d2d980ce781ca367fd236d7054716c3322e60f49c6e75f68e1edf5",
@@ -4000,12 +3996,13 @@
     "e60e63b01f877347014e60c2e5aaec33a3fb98785bc40bfcef738678161e5602",
     "faf8ff9443ee719546d6c7aa15530b6dc58fd80b55caa784d268da8c46eecb25",
     "69c448026b6d9990438141cee3f82fd77432a821e3c0d5b98fb730c25411069d",
-    "c2a685b73e5b4f6dad8a986c0cc7ebbffec19c0d68b198453933b6c3e33fae23"
+    "c2a685b73e5b4f6dad8a986c0cc7ebbffec19c0d68b198453933b6c3e33fae23",
+    "806573a7ffe4aeb639ea2122bb9fd5757d669438a0fa7002f76e95a1d04b1b3a",
+    "f7ed3b9d10ffaaba516411e3157ed9c4ad844906b5b8a52465dcbda08347ea06",
+    "7dca2dec7439d686c651deca9f9fbe17b0f934d3be7bd4433450cf43c2ab6c60",
+    "e74b288e20cb983064e884e5b6795e28495dd2050cc10c06c502bbd67f99fff0"
   ],
   "title_hashes": [
-    "83e90c6d244333f6ce8a23347e5fef78abfce3d762872dd0a8fa30c15aedc3fa",
-    "1c83528e014a8f837af1751a285407a27316903ee3efe2c9c7a2b29bd9286250",
-    "4553f58cb469f8b541c23825010f44d56f7e18f8cc07d8e5af0c3c73c4a08249",
     "9d4153b41f5ab8cd17a35322f34eb5c7bc9a497de4acc36fa4cecb1df8a9d8e6",
     "14b3ac15ada25d7c5f0e8126eff989030410bd0b11d402b9199b27c0afa049ca",
     "478dc0ef6223db93764767c37090ffffd93771110ff02a425e8dc636c06a3afa",
@@ -8002,16 +7999,12 @@
     "4d5074cc4fae851c937e8d2f3eec4267e33e0a6df25f0aa2af83cbc9efb2c2ec",
     "73ba83aa2a84edfb34af37c7fbe478db89c5112850bef123b6e691afbec47972",
     "6d9d3d636cf88b56510a81a2b45ca45e4c594603ec7bf5d41e9001b6ae9f5292",
-    "1571e42d0173b0fd05772df469a7923c68be2a4f0a27f96f9a117ba5ed2761a1"
+    "1571e42d0173b0fd05772df469a7923c68be2a4f0a27f96f9a117ba5ed2761a1",
+    "ad5dc32bdf72b0a49fffa230171f0f4c4bfed558c9d04c59b51bbb4b83068101",
+    "4198a0d205967cac659a3f4857f5a88574774a81e4c12f47443912f7ce0454fa",
+    "d70eedfec65b8237cbfe10f8f9d8a8b5c47a3d2877d0deca53ef031f0fec4615"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "자포리자 원전 외부전력 또 끊겨…우크라戰 개전 후 28번째",
-      "title_ko": "자포리자 원전 외부전력 또 끊겨…우크라戰 개전 후 28번째",
-      "url": "https://www.news1.kr/world/europe/6368049",
-      "ts": 1795743368
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "创业板指、科创50均涨超1%，沪指跌0.02%，深成指涨0.47%，半导体、软件开发、算力租赁、算力硬件等方向领涨，沪深京三市上涨个股超3300只。",
@@ -11504,6 +11497,13 @@
       "title_ko": "[가상자산 시황] 비트코인 59,210.00달러 -0.88% 하락",
       "url": "https://t.me/marketfeed/1086620",
       "ts": 1795865390
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "Thailand Looks to Seal EU Trade Deal by End-2027, PM Anutin Says",
+      "title_ko": "태국, 2027년 말까지 EU와 자유무역협정(FTA) 체결 목표 - 아누틴 부총리",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-28/thailand-looks-to-seal-eu-trade-deal-by-end-2027-pm-anutin-says",
+      "ts": 1795865480
     }
   ]
 }
