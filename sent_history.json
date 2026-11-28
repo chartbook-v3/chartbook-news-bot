@@ -1,7 +1,6 @@
 {
-  "updated_at": 1795876960,
+  "updated_at": 1795877112,
   "id_hashes": [
-    "d3db5a88b5bb8067be0e9cf20cb8460fc2d98ba74513683ba2e1228a4282b710",
     "61c97df31c782186cbe6c186b48b79a8ece46ec22f16223cd880129abbb27b77",
     "b2ffbbc71483b4ab6fdf56883d6be27e08b6d91c0dd8353f0046ea9c0c5bf34b",
     "4ff1e8d931c66650a15eae944628efe99365841cc485f5b047a7352be1a19c4d",
@@ -4000,10 +3999,10 @@
     "c778f78a924fcc5fc4c78a098ea6d08aa0c2ee3f1b7995cfd8f1083c119d874b",
     "d21e02a6f5ba4671eb107f54c26f01ca4fb849b632c81357a058dc580c13734d",
     "66a8e50154cc7395e12d2a5fbb4751a3c1b91e97c035e94ee90db7de4323fda7",
-    "77014f47688350516f488c60bc6843625590b28bcd3785e4864398867f342170"
+    "77014f47688350516f488c60bc6843625590b28bcd3785e4864398867f342170",
+    "0d6f29a8452d4a54146c135e9a03004fdd9bf9a027a0806f2a3f10e30ca36b23"
   ],
   "title_hashes": [
-    "4b75afde153d30eb41de2b4bf57edc9a774ccab7733821e17f1ae9e1467ecc08",
     "cfabbf33584d9fc47faff51c2e700d58e7d40cc7a3c93d2bc84dc58a975369f4",
     "943bc72d8e295d7859d121b8c4028f6e99106b107ba0c8e9b0648d1a1ad4b995",
     "5df269887a62932f247d022eada11423a361b47cb842344b76587c5fa48a10ec",
@@ -8002,16 +8001,10 @@
     "8766ea88d962650a3a95daa9fffa86fefe0dfbf16bffe804ce3914d2768de979",
     "d6e0679186ca699e0501ff2817cae3bc12ef8ef238a0e7e2c0bed2a3baefeaae",
     "8f4009bb0e5ee8dc0ad004e20b47a7438b6b433b14d47930c32f04f040a13b3d",
-    "dec79fc6accc910414c3c46aec985f62474bd02f4d03fee56268de8ad7141b25"
+    "dec79fc6accc910414c3c46aec985f62474bd02f4d03fee56268de8ad7141b25",
+    "4a4fa15ec4a2ebacaf966e0fa5cab438ee87a55cc8bf4bff15b788540e6ca591"
   ],
   "recent_sent_articles": [
-    {
-      "source": "투어코리아",
-      "title_en": "영하 40도부터 영상 85도까지…우주항공청, 유·무인드론시험소 개소",
-      "title_ko": "영하 40도부터 영상 85도까지…우주항공청, 유·무인드론시험소 개소",
-      "url": "https://www.tournews21.com/news/articleView.html?idxno=149416",
-      "ts": 1795745241
-    },
     {
       "source": "한국경제",
       "title_en": "젠슨 황 복귀에도 웃지 못하는 中…반도체 자립 가속하나",
@@ -11504,6 +11497,13 @@
       "title_ko": "애플, '골든 게이트' 업데이트서 로제타(Rosetta) 오류 조용히 수정",
       "url": "https://9to5mac.com/2026/11/28/apple-quietly-fixes-the-rosetta-problem-it-created-in-golden-gate/?extended-comments=1",
       "ts": 1795876659
+    },
+    {
+      "source": "9to5Mac",
+      "title_en": "Telegram issues security warning to iPhone users running older iOS versions",
+      "title_ko": "텔레그램, 구형 iOS 사용 아이폰 이용자 대상 보안 경고 발령",
+      "url": "https://9to5mac.com/2026/11/28/telegram-issues-security-warning-to-iphone-users-running-older-ios-versions/",
+      "ts": 1795877111
     }
   ]
 }
