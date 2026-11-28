@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795838359,
+  "updated_at": 1795838520,
   "id_hashes": [
-    "ec1d32796dc5ab75bb41138087f6082cd22f5ea395c2ae8773e73e5f88562d1a",
-    "12f12a375270b4bed0d0b02b0ad94870ecb7436284f4678ff629c3df647de347",
-    "97f5ba22553741431d48b0189041c3301f10094f4e9b1aeeab92d7d9508fed45",
-    "dd8a818a19d662d255ca22e81c1890663c437f4fb4c980aa6dd91b1e7466d559",
-    "f0fc2097d21cb8d547306dd86d48bb542363e75e3ff0b28d1c673415f385d76d",
-    "6b238fc0a5d039a90fb52436a7536b504ad71192aecb74d77be00e797f74f9d1",
-    "e7904a69bfc5c1eda224f8834440074985692ffa460b9082ec42925f959e5c68",
     "ed66eb118e01a07a823d76f943006da21001afb338b968cfef866bb4a8a0fe6b",
     "845adae64aee95d304212f077e380f7b4cc09de07da65e03076245c7125c84e8",
     "0c4a83566922be5a11d71d3583e09daa2c326d93656370804a45777f53ba1e65",
@@ -4000,16 +3993,16 @@
     "bf5f544504e27df206d6d8ac481ed9570543a63869336ac1cc70ce0e65c7cdc5",
     "09abbecc5a43e26bd4e2fa1436f543fa3411b9f571a6fab857b56ea3081bf4d2",
     "68237554cdf5c94df5958c5ea728d085de2c46d604a3b11f35f32f425a904e35",
-    "e7655cb1faf46e5091a1d0eec3a99ed7067ef662221828f7ebd4064125b5c1c1"
+    "e7655cb1faf46e5091a1d0eec3a99ed7067ef662221828f7ebd4064125b5c1c1",
+    "47bcbac0a80384185c0e77198386c0290ff5c97ba2abc87b96aeceb4e2c6b689",
+    "c1229955ae7abb2a614c02815427a3a9e8c32142af049440b9278f4a7d0d25eb",
+    "6e3461f7ec3ac7fc55ce4c4f7d6cbeb904dac855792e44d79a9a8dc78a8f6e3a",
+    "915ed94154717595bf36272bfaa297d2ae6bf00c029d1113c9c9e3255d058edb",
+    "c1cc9dc323bff5f52096eaa630b9d31a66ddc7d0e9ca6691a8d94e298df5f0f2",
+    "590bbb4213f039eaab603be410859f555130cb59a095fb4d22b46cda526699e1",
+    "72f5ba8f2a2b2ebc39fce601627b29d16f292004b717d297fb0675dda0bf8b47"
   ],
   "title_hashes": [
-    "03e9e7bb2d4970637b5b14e6b8f00e9be8b37ed1fcaf4384bf38fff867b43167",
-    "392596a70d94478893cb80406d642f728ed64c9c9291a9414a8e8898eed5d3be",
-    "ed3b82a56e748b4ac4683bee989ae299c6bd9a7f67c59abb20723af645af7d0a",
-    "6ff678d2f7408f955e3f7d2dcd73af6282b6401e886f26efe7597049ef388626",
-    "0a2ce60c6084b91d70b267c9a029ec4edc294b19459028c494d60c0349c05cb4",
-    "4d370079bdc88d32822991927bfd85c123fdd41137a63abbd4039e8cc90953c8",
-    "4da5bc8919d301d7909108aa8caf2858f81b2de6a7647b3fe1933744706867c7",
     "1634751881b5374615c187122c8214201582d5ca5c72d00914a0aa23ca5df4ad",
     "21832800b896909c5681beb053c42fcd3607b8f089a30a9da231ae5a6caa41c0",
     "d36b7553588c3d036e7d8d79ad0897ab5205e6057aae3b86dd9cb864de7cce75",
@@ -8002,30 +7995,16 @@
     "ce85ebf83cbedae10c46e0d3d3e9e14049d4ae36735263f74a18bb0dffb375af",
     "1fa5286bc427d3b55c2f4392dc70c52b3e9b36a82e899e3ee93e610dafd72be4",
     "ab36221451baab3a364160b2b833427be147bb43f7664673b20d5abfb90d7ce0",
-    "9430521ae2cd16f1eb770bb5a4451c0cf4fe08bf77d2601aba54dc29c03892b1"
+    "9430521ae2cd16f1eb770bb5a4451c0cf4fe08bf77d2601aba54dc29c03892b1",
+    "90b43419d9ff83556fb70e8d61be34483b0c91f744c81cd93c1cf9eeb8367cb9",
+    "7090e25adf1608a5385979ccd1b0685816015d9b79042a8c368baa815357f39e",
+    "6fb436c16881e9ef49a9264091f28252207a811cada195aef214a19ab6417d54",
+    "ab56756363c4c7023ee1b1819150c3fa00500cc39eac6eb8b363b5672f9dc303",
+    "51c6ebdbf2189456efe39b18d005be6062f0ba765376ceff1e52c7be8458add0",
+    "1a6a39192bc5563a2da14f4bf390725dad6995ec9a1d5fd9d54a93ef6197a4a6",
+    "70996bfd4e4da1d2fe4c0c387691579b5d1997eb534e400d9c6c0c7681680630"
   ],
   "recent_sent_articles": [
-    {
-      "source": "The Information",
-      "title_en": "EY - TheInformation.com",
-      "title_ko": "EY-TheInformation.com",
-      "url": "https://www.theinformation.com/topics/EY",
-      "ts": 1795738714
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "CITI WARNS STRONG AUSTRALIAN INVESTMENT GROWTH CONTINUES TO FUEL RBA RATE HIKE RISKS",
-      "title_ko": "CITI, 호주의 강력한 투자 증가가 계속해서 RBA 금리 인상 위험을 부채질할 것이라고 경고",
-      "url": "https://t.me/marketfeed/1086061",
-      "ts": 1795738716
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "美 관세 압박에 EU 수입규제 강화까지…경제계, 정부 지원 요청",
-      "title_ko": "美 관세 압박에 EU 수입규제 강화까지…경제계, 정부 지원 요청",
-      "url": "https://biz.chosun.com/industry/company/2026/11/27/L4AVDELLIVHZ7OBUCVS3DKZNQA/",
-      "ts": 1795738741
-    },
     {
       "source": "Bloomberg",
       "title_en": "US Plans for Tariffs Face Pushback",
@@ -11504,6 +11483,27 @@
       "title_ko": "누리호, 6호기부터 순천서 단 조립… 나로우주센터까지 이송 절차 사전 점검",
       "url": "https://www.newstnt.com/news/articleView.html?idxno=730697",
       "ts": 1795838358
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "\"美, 베네수엘라·이라크에 OPEC 탈퇴 압박…회비 납부도 막아\"",
+      "title_ko": "\"美, 베네수엘라·이라크에 OPEC 탈퇴 압박…회비 납부도 막아\"",
+      "url": "https://www.news1.kr/world/usa-canada/6369105",
+      "ts": 1795838512
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "FITCH SEES EUROPEAN TELECOMS SECTOR OUTLOOK AS NEUTRAL FOR 2027 AMID STABLE MARKETS AND MATURE CONNECTIVITY REVENUE",
+      "title_ko": "피치 \"유럽 통신 섹터 2027년 전망 '중립'…시장 안정 및 연결 매출 성숙\"",
+      "url": "https://t.me/marketfeed/1086553",
+      "ts": 1795838516
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "FITCH SEES NEUTRAL OUTLOOK FOR EMEA TELECOMS AS FCF IMPROVES, WITH LONG-TERM RISKS REMAINING A CONCERN",
+      "title_ko": "피치, EMEA 통신업 전망 '중립' 상향…잉여현금흐름 개선 속 장기 리스크는 여전",
+      "url": "https://t.me/marketfeed/1086554",
+      "ts": 1795838519
     }
   ]
 }
