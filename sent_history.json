@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795845101,
+  "updated_at": 1795845255,
   "id_hashes": [
-    "48a34ca4aea3befc3d269fbd3e3c043ebaf35a17a1e22232180d0ab95a8c373e",
-    "c08452ddd937aaaf78a05fa292a7eb9d2c65a97dd72dd3e8affca84aebe6d451",
-    "6d7dc3d2d96c0528f12f270e0bcb3b98559e495d027ad5ae40bdbe99d02daee6",
-    "ca442680c1ecb7c6a2f8b9cbec40dec74f3a570c91a458ec95c72ecd76219669",
     "39e7da1596bc097930970fbf6e8a87dcebf4cd55aed35125fc475adc522ef747",
     "99017a9c5f9e14de40b1689142805e9419704f770e58514aca6d82f4779e2572",
     "26d0c72f42ff4558ca0285e3e08a721c43766e43ed0fe1de580f5f753320c322",
@@ -4000,13 +3996,13 @@
     "44aa8e07b4ccf96db141840fef145e3a05a051f6c68c13e39dddecde803b4a93",
     "8a4a7aac832d6011b44d693794e4e1a6b5d2f27053b8f4b203811251c2432b6b",
     "3ed0471949e9e15d2fbe7b7ca4354f773a9655225068e443a3eb37364d6ef870",
-    "94cfe262742b88df94cda2f57dc32c4df37d7d7d29c1c9424c6ddc61cee00d32"
+    "94cfe262742b88df94cda2f57dc32c4df37d7d7d29c1c9424c6ddc61cee00d32",
+    "a541f266987e816d9642a4dfb8a7a033b11c53b283abab7fc429f41b2c5fa071",
+    "03da86feeb7b022d45cddf8f49d07f2697e7ee8bb760eb6612f9a6f34586aa87",
+    "e22252aaaf530130a18cf0e8dc78f6627dee5a61722172f614a43a838b6723d1",
+    "35c0ef6fbb77a1a5ced11db6219e833c324c4412cf30810711b70ba5ce625779"
   ],
   "title_hashes": [
-    "8af5a79bdba59b1390d19f483f2ab4d194ad4ca3b6a9c2d139572bab753ece4b",
-    "45736610efbd43256f2dee037691137e7dedce79eb697d17919ecaec6fdbbed9",
-    "4be0ea8e60dabcae00b3c0aad9a6a5b0013fad44967070ea7d370408b19ba41d",
-    "3fc349318bb677a2eeed2c975e6d6e3517e6a2a05a38d571c573125e45fe417a",
     "1946b395ace7993b31c8aa940e4092ac53fda7290111c435bbc192766802d4af",
     "b3124a27ec135d1214971d9dced026ae1396d336d42153317944300f541c355b",
     "1f464f0173dbe4b69ffa5e33bc249fa8c2a1435f6b4b75c5d3de3b2de3d73742",
@@ -8002,16 +7998,13 @@
     "670f92bf3bd6b7efe4a13a5c3dd828e937125ac77598416cb4cb7647a9697bd2",
     "2050754a6c40c9d1b56976f9e6854257dc22a88bb01dd64a8ee238e73f0c925e",
     "9aea40737395d0d7013845e81de7e6b1e363312890a26261a08e7adc4b217453",
-    "e3bcd58b67bfd513bf1475737709e452e1cb8dd1d564c1829fc67f8222047e7e"
+    "e3bcd58b67bfd513bf1475737709e452e1cb8dd1d564c1829fc67f8222047e7e",
+    "555dfcc1924ce47899dbb31cfebb76f84a268b72b7d0bdcc6c384413276956af",
+    "c80f822d9c1304eb3ffcab05c0096e026e918b7d5a438cc558973115c44bf21b",
+    "0df2045c4a38dcb8cba7daa8d9687da014ce7157672146d425873e998d006f48",
+    "7b48a8cb55b6ce670714f130da4acd65a671bddd7319504e2495802cc01c15b8"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "JAPAN YET TO FINALISE REVISED DEFENCE STRATEGY AS DISCUSSIONS CONTINUE, FINANCE MINISTER SAYS",
-      "title_ko": "일본은 논의가 계속되면서 아직 수정된 방위 전략을 확정하지 못했다고 재무장관이 밝혀",
-      "url": "https://t.me/marketfeed/1086067",
-      "ts": 1795740427
-    },
     {
       "source": "MarketFeed",
       "title_en": "JAPAN FOCUSES ON STRENGTHENING DEFENCE CAPABILITIES INSTEAD OF THE SIZE OF MILITARY SPENDING, KATAYAMA SAYS",
@@ -11504,6 +11497,13 @@
       "title_ko": "미 연방 규제당국, 60억 달러 규모 유나이티드 피델리티 은행 폐쇄…2024년 4월 이후 최대 규모 파산",
       "url": "https://t.me/marketfeed/1086581",
       "ts": 1795845038
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "AUSTRALIA MOVES TO RENEW ANTARCTIC LOGISTICS PARTNERSHIP WITH CHINA AS RELATIONS STABILISE - SCMP",
+      "title_ko": "호주, 관계 안정화 속 중국과 남극 물류 협력 재개 추진 - SCMP",
+      "url": "https://t.me/marketfeed/1086582",
+      "ts": 1795845191
     }
   ]
 }
