@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795854138,
+  "updated_at": 1795854286,
   "id_hashes": [
-    "93a8488b152caf6f324536cc8a2adb614cee39a856c7deac83efd6572f3aaba3",
-    "775f3e4107627fe1cb5f74c6b9c07542ebb93c09762615c9f176971387afdb08",
     "8c52eff6037f45b79f37403d64e9d898b0f22210e625d6838956089a77f7c963",
     "ac812f6afe5e7991e82c55e23c83c48c258f1e6f23aebca8b8472700f02cc351",
     "b2835c9aecb984b84c18738ed156310836a1077586f0148533f6421f0d0bc91a",
@@ -4000,11 +3998,11 @@
     "e6442937c23f37f95923a20fceadd8f18a45224c58944266c1e3b310b07a46a4",
     "812e491d49e8dec0ed5a5f09d924f4b23d1ce6d0758149ed0841e2b479999b1c",
     "54d81b10d266004b4973a92e54776c380b41b6e2a73d86265382cfad2536b942",
-    "b352118190324909826be20d5a3ad54c113a895b432fe31830ef01f83525c2d6"
+    "b352118190324909826be20d5a3ad54c113a895b432fe31830ef01f83525c2d6",
+    "43f85480c66ea63cfe19cdd43d32e7e1a065043649a285ee38099bfe55e370e7",
+    "ab79bd815030e33122644d7752bf61f716dbf3ea87078746a826c5289ff5dd65"
   ],
   "title_hashes": [
-    "f60f09b46ced35c2d83d50f36d0e1510dd8865315ba7ff18198a854f0944ad1b",
-    "a53293fc4933de7c5315f244134619defba0db265712d34f0537383a22e59dc2",
     "24c9ee93d105817ad789c81cf919d9a08538bcbe654a54f0050527beb3b227bf",
     "2f31e3a205aff6713556079f0df47f23ec0dfd801080233160afffb836720e52",
     "0104c29e4a5bc0e2f6a1991772e9e76ee02cad63439ff7bcfd63bfbcbb8c0e58",
@@ -8002,16 +8000,11 @@
     "b81719edae81060cfe6afcb34cad4cb4a2ca4e5969969fcbcd3a864a936b962c",
     "06fec7f123872dd1734a182634589b297ed6c36959190d71205d962fb0837a6c",
     "c422b297fd6e0bda406a7884bb43de105a5f4f2bebbff832354370bf65dc8ff9",
-    "5be0c4c2b89e502b3c1a7c0a948b566378df5f715109a7b63de2a5f3bde7e4a1"
+    "5be0c4c2b89e502b3c1a7c0a948b566378df5f715109a7b63de2a5f3bde7e4a1",
+    "3325585de9ef8bf286a16bcee8baba25e9887e7decfd7dfefe345606d2c80ae5",
+    "84d0724ce0d7b94825ba2253149776f80ac542c23648d61e5e80b23e7f88b74a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "\"만족도 넘어 매출로\"…한유원·신보, 소상공인 '소담스쿨' 교육 성과",
-      "title_ko": "\"만족도 넘어 매출로\"…한유원·신보, 소상공인 '소담스쿨' 교육 성과",
-      "url": "https://www.news1.kr/industry/sb-founded/6368052",
-      "ts": 1795742293
-    },
     {
       "source": "한국경제",
       "title_en": "더 강해진 한은 긴축 신호…대출금리 또 오르나",
@@ -11504,6 +11497,13 @@
       "title_ko": "사우디 민방위본부, 자잔 지역 잠재적 위험에 따른 경보 발령",
       "url": "https://t.me/marketfeed/1086613",
       "ts": 1795853935
+    },
+    {
+      "source": "전기신문",
+      "title_en": "고리원자력본부, 신고리2호기 방사능방재 합동훈련 실시",
+      "title_ko": "고리원자력본부, 신고리2호기 방사능방재 합동훈련 실시",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=375413",
+      "ts": 1795854285
     }
   ]
 }
