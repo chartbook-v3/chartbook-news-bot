@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795836685,
+  "updated_at": 1795836859,
   "id_hashes": [
-    "93f2b7975e43fc6e7458822d82880534c839d67076260aeb05c1efbadc9ad23d",
-    "38d802a96db3d0fad2ab430e14ce2a24d98558c203a817cd7479ede1f7ceb88e",
-    "4074332cfb64f5275c12653055720c7060f125f66b0fdc3fd306924c07b20ee6",
     "066f4d175a2f290264520600870ceca01b7198b75ed5dd2823d48c1342f6bc3a",
     "b9151e975d3756ee572a7266c1a7b2a273b277c127093ed8938152ca8832b42a",
     "93debf8f58476edd311b31cbdad5e9f3bc2b9d764b2e690cf0d75256c7254fc2",
@@ -4000,10 +3997,12 @@
     "28b695f25e141cbc4312989276f569946d45acba035b8d41fb045bc42cf8104f",
     "678a56de8ae6224bd5d1899a295672797bb78a340d5d68ea9bd9553bf5b34f98",
     "8a2c6e57e8eaf41f680f6bc376c3f49d0bb13dba0a94e8f1e8d76bd0b19eddd5",
-    "0c5db7f73aca63968b73ae8704651d76a199c61646ca257b52199a70fc7c2da1"
+    "0c5db7f73aca63968b73ae8704651d76a199c61646ca257b52199a70fc7c2da1",
+    "ea570ba1e60dfdedb7cc92c60e2f7e84bac256aeeea288bb9d65b7ce1ad22fc0",
+    "54fb2ea7fddd988004f43980c47b82b13ae648c58b7ed349fea5e37c8a68561c",
+    "6f2463b9a2ea7ce4b6bef13f6eca4707fb3365dd0b7edb61f3a112d4b7a79cd1"
   ],
   "title_hashes": [
-    "1f31af646d00e2cc7f55d17712bdf45f4dad6507b9c24a81e52caef316890202",
     "4dd4f9a237d36f45d7e365a35bc1f302ad011c45d9178ea471023fef16d38049",
     "e06dd847193b5470eb15e6d970048e1f1c011fd478706ad2e9c6ce1469fbc92d",
     "c7839f2c2339fc6b7e6281ddec3eb8a9906e820fbd0d4260c3e1e383e68d9de5",
@@ -8002,16 +8001,10 @@
     "7b1512039f81dce8d6101b219a5ef494d09084b593b355b8c8ddbc5675a9f09f",
     "a78d43beb08b5a598987b1a7c305bedd58482960827c27d6c95085c19fdf90dd",
     "49b7cf55e1002f1fdcf1e605f09267832008a58db3904d37905138cdf4971a6a",
-    "916aa6a5d346338f430058495e50d67b102a87d86f393fc13bbfce164dbfdb4f"
+    "916aa6a5d346338f430058495e50d67b102a87d86f393fc13bbfce164dbfdb4f",
+    "8595485042abc093badb5a3e03825d85d50a20ccb13f4cc1dfae567bea361cc9"
   ],
   "recent_sent_articles": [
-    {
-      "source": "조선비즈",
-      "title_en": "LG유플러스, 현대차·기아 로보틱스랩 배송 로봇서 5G 단독모드 검증",
-      "title_ko": "LG유플러스, 현대차·기아 로보틱스랩 배송 로봇서 5G 단독모드 검증",
-      "url": "https://biz.chosun.com/it-science/ict/2026/11/27/BFN2OPE2HRBTXMPOBFI25F3Y7M/",
-      "ts": 1795737979
-    },
     {
       "source": "파이낸셜뉴스",
       "title_en": "[속보] 코스피 0.37% 오른 4728.80 개장…코스닥 664.52",
@@ -11504,6 +11497,13 @@
       "title_ko": "튀르키예 외무장관 \"동맹국들, 메카 협정 잠재적 확대를 위한 공동 원칙 수립\"",
       "url": "https://t.me/marketfeed/1086546",
       "ts": 1795836625
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "DL그룹 회장, 실적 부진 부서직원 수백명 한밤 호출 '물의'",
+      "title_ko": "DL그룹 회장, 실적 부진 부서직원 수백명 한밤 호출 '물의'",
+      "url": "https://www.yna.co.kr/view/AKR20261128027900003",
+      "ts": 1795836797
     }
   ]
 }
