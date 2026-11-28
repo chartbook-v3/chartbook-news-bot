@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795835629,
+  "updated_at": 1795835776,
   "id_hashes": [
-    "b2bc3d01929f35dded8e7749d706f5da72abc348ce48badb63e47f9b9389ec6b",
-    "7ef2f2cc86d886ebd6dde164a280d1ecafa7dfa999f946ad0bd49ea78d08cb7e",
-    "ce5e1909944ef07a54a98c31933a0ae9174fa7e3f276100f5ef168ff0eb58bf8",
-    "b2792464bb4577b20be3aef077a3c4243a018c2fac9b39a61d77ddc914eb39cc",
-    "53beb05fd8c7a09725acc645785934188e5861cb15cedcfe757b41058b6f8c4a",
     "9179890fc60caebea1af1885bcef20caeec3dc8d8e8dfea3fd56a6a0e1e9cde8",
     "bb269952b720379d545b0fdd347a56c4bd7ae8b8c51868c88fb0249445e1e8be",
     "2483d30f096a74c38f5244e60c2ea35dfd9964e85d4f64f7bd3cb3ebf68540be",
@@ -4000,13 +3995,14 @@
     "86a8d20b756d842e847e5e2a28d3d9c9de5dc4ef83ff6ac447d8a6be99afa756",
     "70787bd7c1bc8ab9ab3f361886248424d368ec9c8305a9a7df8006144fa83f45",
     "eb125f305635165ab7eee93445301c5b6476f2c42c7a9aa07c9bf5e64819d0e3",
-    "f1fc1b843ed9f470061190132a5d3b0098bfc164990123c7cd7f89f256cf2887"
+    "f1fc1b843ed9f470061190132a5d3b0098bfc164990123c7cd7f89f256cf2887",
+    "457a5b5278c0dd751ababf4b18633cfff50468f3d8feb2a5ec77d6fdcc1bfe2f",
+    "c435998525c4d07b6b3415241ca5cce8461aba29c5ba08735d805c46bd7104ce",
+    "e1b09948375f56ef26ba3d9395ad00cea162218359cff1d7de72e3dc4ac09ecd",
+    "43e74d571259490e0b5d81e6e1568a301a8fd95be887516a2a650c4ac6da62e9",
+    "30534127ee3e281e630f94a0a88ff3f9377afbece184d1a432beffdad2d8bd5d"
   ],
   "title_hashes": [
-    "6a8d491c602b91bc15055a77bc55406d19324c2c036e89aebeff23cead63b210",
-    "8afe82b07ab2ac172dc8080d3d9022308783e1012e4117fb21d0815353ea4afe",
-    "694c84e1eba128d3e75222e34cd69df0fcc56e8fb98a2535466ffdcb761ab245",
-    "5dbbefde89c22716215bd6e77f9f7c7affe6670e74373887515bd3abf793b1ae",
     "8f6285cbcde3b573921e17278871228e0be41300f69db28246db2f87add9c3dc",
     "100b4406a59be9609c42f59c099e995b32587edb8997052e32d1e94700f26f62",
     "a3697c6443e3d493f0ce80f7fbc4270112c984da95a10203b3c23c2398c64dd0",
@@ -8002,16 +7998,13 @@
     "b5dd2294ffb71467440c079c7040485914231c79086201a4e182026b95c644f0",
     "ac46ac2b1cbb1c97ec83d0921771c31f4d134e25b14c5c1450a7afc07c24a380",
     "c34c21cf18820e549a670b8c32cc7d724d944d08e9555eba79e8433c180480d4",
-    "67a237c5a11b67444237aa15d85f9a396a32a1b9e458e2ad1f15577b4d208545"
+    "67a237c5a11b67444237aa15d85f9a396a32a1b9e458e2ad1f15577b4d208545",
+    "f96fcfc081d609b746dd5f769071104b448ce306b1dc4aead1d2b7f245168200",
+    "55ad01e29106639d6428ee1d6fac3930dbd56ff8070c48c70f0bbaeda9dda5af",
+    "75115cfc551892766e6abd3730e5e13396aa7eaeb2358e1411c0b593b53172c0",
+    "8247d365c3e7a7d49792b70868cb17fe401ab1ac8a18f3b7452cff0e672193b2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합인포맥스",
-      "title_en": "삼성전자 하이닉스만 보고 있으면 살아있는 섹터들이 안 보입니다",
-      "title_ko": "삼성전자 하이닉스만 보고 있으면 살아있는 섹터들이 안 보입니다",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446876",
-      "ts": 1795737644
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "中国即将发行或正在发行的国债和政策性金融债",
@@ -11504,6 +11497,13 @@
       "title_ko": "북한 조선중앙통신, 12월 하순 노동당 중앙위원회 전원회의 개최 발표",
       "url": "https://t.me/marketfeed/1086541",
       "ts": 1795835573
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "中암시장서 엔비디아 'B300' 서버값 5배 폭등…대당 40억원 돌파",
+      "title_ko": "中암시장서 엔비디아 'B300' 서버값 5배 폭등…대당 40억원 돌파",
+      "url": "https://zdnet.co.kr/view/?no=20261128113257",
+      "ts": 1795835653
     }
   ]
 }
