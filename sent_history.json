@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795826703,
+  "updated_at": 1795826859,
   "id_hashes": [
-    "4ba1f50572aae63ea485dba110d6546d0e07bf0d2445a36e8607368b65264945",
-    "a86d4a946a07cd4e7a510a7277ecad5a3e00988dcda59554374d8120f4ae7ab6",
-    "e57d57e903f12ed597ebd63eb24b2424a7335a298a7c57a4086b4d0e114fc4ba",
-    "991bd388fafda343988e91bc8858f8b2c5fe58f2138a7ffe51ca908fe1eb1740",
     "2edc5e90ef4243256993420a26927054d9180177c9ed08fd539562c02158a310",
     "b2767645ab5aa1d16410333cc4ee2738528c9d6093a121ddaf01285f2b84485d",
     "0e185005340efba39f576db236f9dfcc49aa2e256b6f638376a950ddd34d37e1",
@@ -4000,13 +3996,13 @@
     "2fa28605b7a5a7b77efd69ff0fa142a7cbaa30afbff44f5781483d7dd89ee536",
     "9b8e678809ea7e49e1610a5e489395b0af9a34ed3058f45351b9beb940687976",
     "7040f1d31d4a652ff1b3d496222783f85df27d4fbfb4ffdd0e119daf09dfba0e",
-    "14953047d26893fa38a4419427cb713d3f40b14024921e22d17320a7f8508d77"
+    "14953047d26893fa38a4419427cb713d3f40b14024921e22d17320a7f8508d77",
+    "d2bfef2153cac24e6b14d2310bba1a915ddd4c68a76349f3395707bf93531593",
+    "27ba32efe18c0963ccd0f1c519149906281b1f7a5717e40dfaeb9ae06443bd7f",
+    "66a1dbdae9e5e6eb16560e14d63c2108504406709ac7671aa10656cdde15d2ad",
+    "b630d530875eab1cefe611584d14d682ae48f86c0f13a7e96b34aeb184259a54"
   ],
   "title_hashes": [
-    "e29af795f2be89afe0978d7840059f271a44ae9bc294f018cc6f8528aec13133",
-    "ccf13258799434a3fba64596cb690e967f285f8fb568907a89753bcfaf897de5",
-    "3a63af0ea767782835f6275c464ff303449e1831301ad3e48347c21e823aaa99",
-    "27bfff9bf6d80bd2320ffa8da3fda073c12ed24986f674568ef4e3fa1fd37241",
     "31d9f7f5ea84e0202082a3de6491244dff9cba6f4f80c4762621f92fc3bd68c8",
     "04ce3b2313be4635f1ccd7dd9531f94af0a5ad4a538547fe728c4fb23b1945c5",
     "9ccac59cbfbf795bd9245783542b9e8d1581c0ea3cfda4e851a87441e9ea7007",
@@ -8002,23 +7998,13 @@
     "6cecb8290fd9ad3c8c8e61329535b206791fcf941acd09e24236bed5283c7b23",
     "20fbcf1d0f4a5cb16f876186d2eea051ad7dc4ba3a4411c80796f78593342d0c",
     "667ff72391aebca9edb627e189ca97cc687c2353097b0833e894154c0fe97251",
-    "d1f1a781eec6e165305bec5e733146da9225b00cc5c091d51a01b4e72bf4524c"
+    "d1f1a781eec6e165305bec5e733146da9225b00cc5c091d51a01b4e72bf4524c",
+    "8042842d4f40eb446ce3c13bf5696e1e9569908dbd6a0ef188aaf64a9835bd17",
+    "98c989e6bac77c21748e2bd0eaff5324368be44eb9730840b0e9cb4468822e11",
+    "14edf2f838b1e17e8dba6afac7a75d0ef55831800385616d77fd0341e8ec03ea",
+    "b6359f20adf2084176ab28b671909ccef573c7032702f4ead34ac0522f990e4b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "GOLD REMAINED NEAR A 15-MONTH LOW, DOWN 0.4% TO $3,571.42/OZ, AS HAWKISH FED EXPECTATIONS AND STRONGER INFLATION DATA FUELED BETS ON FURTHER RATE HIKES, PRESSURING NON-YIELDING BULLION AND KEEPING IT ON TRACK FOR A THIRD CONSECUTIVE MONTHLY LOSS.",
-      "title_ko": "금은 연준의 기대와 더 강한 인플레이션 데이터가 추가 금리 인상에 대한 베팅을 촉발하고, 무수익 금괴를 압박하고 3개월 연속 순조롭게 유지함에 따라 0.4% 하락한 $3,571.42/OZ로 15개월 최저 수준을 유지했습니다. 손실",
-      "url": "https://t.me/marketfeed/1086035",
-      "ts": 1795735371
-    },
-    {
-      "source": "딜사이트",
-      "title_en": "[AP시스템 반도체 성장] 발주 앞서 제작 채비 '본격화'…장비 원재료 미리 확보",
-      "title_ko": "[AP시스템 반도체 성장] 발주 앞서 제작 채비 '본격화'…장비 원재료 미리 확보",
-      "url": "https://dealsite.co.kr/articles/173600",
-      "ts": 1795735667
-    },
     {
       "source": "딜사이트",
       "title_en": "금감원은 놓치고 증선위는 깎아주고…한투증권 제재 잣대 도마",
@@ -11504,6 +11490,20 @@
       "title_ko": "주가 급락에 자사주 매입 속도 내는 SK하이닉스…하루 매수 주문 70만주로",
       "url": "https://stock.mk.co.kr/news/view/1207519",
       "ts": 1795826269
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "$C - CITIGROUP’S $35 BILLION ACCOUNTING ERROR SPARKS SHAKE-UP",
+      "title_ko": "씨티그룹, 350억 달러 규모 회계 오류 발생에 따른 경영진 개편 착수",
+      "url": "https://t.me/marketfeed/1086496",
+      "ts": 1795826854
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "每人每月补助5000元，澳门居民珠海养老服务落地",
+      "title_ko": "마카오 거주 노인 주하이 양로 서비스 시행, 월 5,000위안 보조금 지급",
+      "url": "https://wallstreetcn.com/livenews/3207293",
+      "ts": 1795826858
     }
   ]
 }
