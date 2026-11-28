@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795840808,
+  "updated_at": 1795840960,
   "id_hashes": [
-    "75ab23945f2b2fe5eaf6ccc6e2345ca97d204208aba61cbbcf5da8b47d5a8a2c",
-    "71c3851716b30d81d862187a10ac1a911391547d5c4c300ae41571b3acdb6fc7",
-    "d9477c334930f7430e7fb0c73090ae317a67cca7fe504f93a137916680276fe7",
-    "127445c12fdb4ee47e6ee03407e904e23191a7092371ba807d2f182f9781dd44",
-    "5a94ba63f15f35f76d1737b55135c925b293a7b1849c39c54f7e8bb968ead61d",
     "8173bc034a3f998d4b4a8da010ef26f2c51fe4669d7149bf1900d68bc4224031",
     "3ac939afc336596593aaa59013722e199c79f900308abc9864b816bcb2a4e794",
     "3004bc5f0e839981027d363d0fe5311424a995d9807cef933d84349969bb4dd3",
@@ -4000,14 +3995,14 @@
     "08d8f3a0a5c4c4d9cdb9b90a8d3757ef6427e9617c1068fdec6b105258dc5288",
     "2cb114919c67579ec987ef86012615ab846dec3cce23736fa60d377d08720b94",
     "fd20e45b696156935470d0598777ee4832bbe35dbfc3c215d45b8e6451f74734",
-    "25f92bfa8db02eaf4bb58baf8fe49464bb744f711affd436c74f918c12dca9a8"
+    "25f92bfa8db02eaf4bb58baf8fe49464bb744f711affd436c74f918c12dca9a8",
+    "f5cf9a9883fb2da6cd2ab0b3e6d0ea0f1104d36ad115f0b12e9c6cb4aae8a41f",
+    "055be492c47e62662ca8310351a004550251a351c28c781a7dfe4170859da6a2",
+    "f60bf79ca760f6310ec11dbd0cdac913cb61654a2528eee4002168919fa9c437",
+    "f23d56e05b4d34e26258a6d9c2fab9a51921dbddced83e0a3ab74a66bf1f594a",
+    "3f77e5524bdc689961565488f8e9c0ddd322d7ce9200a5ee5dd4fc503c2297b0"
   ],
   "title_hashes": [
-    "b76be75e37b5bf54ff4eac9737394bf4d37dc1abce21ea16a4ca3055501dba6f",
-    "a0cf93b732af2993941177c0fbf6cd61b7ef7a71a3c1e3ccf786391dad5a1fcd",
-    "1cae0eee687788c53a11620f8e71b3cdc827a21000a01d51e253a48de5b2f6f3",
-    "43d68e53f3543b7adbbaa87a2aa78d69eda45627f52a9ffcb53cf01db378f414",
-    "50539de05f0154800cb9a1233bad1cd0ff9770f3ef38756d68d2a2f85d831274",
     "583b2cd843fac5c9a83ebf5fa2153818023abbd23160f3e0f539d63291f5cf33",
     "783ae2c9a1e030a5f6ca055cd720f4ef3151028e114327b1ae328a11a32f8639",
     "f141f9b4261428db493067a22b2485b7baec638e5fe845f02ca6a2f5bf1e759e",
@@ -8002,23 +7997,14 @@
     "4a4a6cae43c55d37835a9904db0b4705d5e7361b29a66c2c96ae18b7a842c61e",
     "f99e9367b1e31913eab0017d16c8ec49391791503981afe4c5355f3eaad5d107",
     "e08d9f891f55407f504643e2413464421e1d6db6fce67d2cb92eadbd327245c3",
-    "d35d58c6bc82151b383edee003ed36ef94e0840aba8fa68ab55147413e6a4020"
+    "d35d58c6bc82151b383edee003ed36ef94e0840aba8fa68ab55147413e6a4020",
+    "815033d6a24cd94ae8cd2637f1d1ecc6ab4760a155b81be85d6b2a97ab708294",
+    "b2e39ac8a6cbb9b6ed1bf510bf9e17e4d48a5a5593cd4339641932da305ffac1",
+    "307e1601fde2eafddf0d5e8cdf108362d015135336a7acfbdd0e9f916a4f9d96",
+    "3a2a5b86c223282bf03c533efa86306648f94f3fb7eba7cf80ee7f14124dd80b",
+    "c5c170597878705e6fb8934ca55180dca5115a742764182c5dbd74c845d5effd"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "우크라 지원 네덜란드 겨냥한 러시아…모스크바에 튤립 미사일 벽화",
-      "title_ko": "우크라 지원 네덜란드 겨냥한 러시아…모스크바에 튤립 미사일 벽화",
-      "url": "https://www.news1.kr/world/europe/6367915",
-      "ts": 1795739486
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "금감원 검사 '사후 적발'→'사전 예방'으로…'중간검사' 공개 못 한다",
-      "title_ko": "금감원 검사 '사후 적발'→'사전 예방'으로…'중간검사' 공개 못 한다",
-      "url": "https://www.news1.kr/finance/general-finance/6367583",
-      "ts": 1795739507
-    },
     {
       "source": "뉴스1",
       "title_en": "금감원 검사·제재 투명성 높인다…계좌추적 통제·권익보호심의회 신설",
@@ -11504,6 +11490,20 @@
       "title_ko": "'SK하이닉스 협력사' BKM, CNS시스템즈의 특허 1건 침해 입증 무산",
       "url": "https://zdnet.co.kr/view/?no=20261128131611",
       "ts": 1795840807
+    },
+    {
+      "source": "Bloomberg",
+      "title_en": "What Happened to JFK-Era Intel Records?",
+      "title_ko": "JFK 시대 인텔 기록물 행방 묘연",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-28/disclosure-the-missing-jfk-era-defense-intel-records-video",
+      "ts": 1795840892
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JAPANESE AIRLINES BRACE FOR GROWING PILOT SHORTAGES UNDER THE 2030 CHALLENGE - SCMP",
+      "title_ko": "일본 항공업계, 2030년 조종사 부족 심화 대비 착수",
+      "url": "https://t.me/marketfeed/1086565",
+      "ts": 1795840959
     }
   ]
 }
