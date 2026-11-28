@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795832470,
+  "updated_at": 1795832621,
   "id_hashes": [
-    "179806c9f4009ab5e82086c2721d663bf90f8270d907bfffad851d79b33b40aa",
-    "442045835345bcbb65c81dfd841a89491cd3837cc83774b196bd034ad3ec0712",
-    "3c50bafd8dc65417db237d9506e685e684b5b80b9403b82043c6de70c8d8956b",
     "7b1c7002e3f43e72dd7fbe4966812bf310af1cdb3bfd43e1ce1cc96ae0ee853f",
     "1f911ec6783428e3891213e8139b3571fc530b9b58cb5aae6bfee8c8d6d952ea",
     "2efe9a1cd2364ac2647cfa36587abfffbacc726f63c4e8343083a3a885b2ea6e",
@@ -4000,12 +3997,12 @@
     "7cbfa1fd4f31be3eb1de2e0a5cc4ef6f07dfeaeb1e29ad6166b1946200c51cea",
     "5ed867139aee2b368da8490d5e9386f370b2fbf6b0526fd029234a8d0d1a3f30",
     "1853dd45eea2414c7eaaadf5cb7e50b940c4e25f2f7c423428ba8e5637fe27fd",
-    "edbec135f4d25058f1e63554e40ef3a7b75283aded60278083171694939616a6"
+    "edbec135f4d25058f1e63554e40ef3a7b75283aded60278083171694939616a6",
+    "64bdc47355dbbd515ce9b43d386ea3d9e6b7818d5c0503cebda95c84c441a571",
+    "a6e3694f5ba540b606f462b234175bb0bdd3ee09702c7819aa25d7090419cbc9",
+    "7bb07adc8ed65154f10d4f91d88846ce7c187f3299832ff28364b3d1979f7c08"
   ],
   "title_hashes": [
-    "37d98969fe3b27bc789d28bdd4eaaf461dce6ed3337e79dfdc16fb9bcc3a2baa",
-    "5a8bb321b5d4104ffa45a979ef0e366ed9731b35a7bb717696d5619fff4a2dc7",
-    "282dbf14c8f20ac4be67f2b65ab0a7353206037a9c34f907b40392f9dbf68ac0",
     "cc4eaae940933246294537ce3ccce89d97b10a6091bce2d575b40086578b31fa",
     "3ecb7dd6de4eae97f6f81f0fbf6f0c8df115d66e19218ca795b93675d584b05b",
     "24d06045fdcdc5d5e20862ee23f296a99d514a32684084175964236c759fc66b",
@@ -8002,23 +7999,12 @@
     "ed4cf5cb01f82c78b59d5b9afb41dab376b8060f237a2cbcc9fd93e95879a428",
     "37738cadf99a14865ffab1a8ed2ecd94216d57c5c9f5ed80a74dccedf4065d0b",
     "5a0d66a39162790a38154f9420f1b668466c4f51469741504cc064da89b52b4c",
-    "82f2694ee71e1635030b9f8adf41609d3d2cceff6d8a6050f5ada92db4b262c3"
+    "82f2694ee71e1635030b9f8adf41609d3d2cceff6d8a6050f5ada92db4b262c3",
+    "9e922ea0d0f8b59ba0e22bbde81beb6e5104b22ac91edc604b0cc8c284b55df4",
+    "84d9d69a45d46f47e9b9b2d5e957d89f386b97ad7fce5fed69a8abfdaf69ce1e",
+    "5e6d29af1a96c03f4cee46cfb822d8eb136d70e0faf7f1bd972bfd5a1ca9a3c2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "디일렉",
-      "title_en": "삼성전자, DX·DS 조직 개편…M&A·B2B 강화",
-      "title_ko": "삼성전자, DX·DS 조직 개편…M&A·B2B 강화",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=65992",
-      "ts": 1795737324
-    },
-    {
-      "source": "DongA Science",
-      "title_en": "지하 광통신망 수천 개의 지진계로 활용…'작은 지진' 1000분의 1초 단위로 포착",
-      "title_ko": "지하 광통신망 수천 개의 지진계로 활용…'작은 지진' 1000분의 1초 단위로 포착",
-      "url": "https://www.dongascience.com/ko/news/81066",
-      "ts": 1795737326
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "美国总统特朗普：与北约秘书长吕特讨论了伊朗和格陵兰岛问题。\n\n与吕特的会议主要讨论了俄罗斯和乌克兰问题。\n\n普京希望战争结束，我相信这一点。\n\n如果普京想来参加G20峰会，他可以来。\n\n如果由我决定，我希望普京出席G20...",
@@ -11504,6 +11490,20 @@
       "title_ko": "미국 광통신주 일제히 뛰었다…오이솔루션·대한광통신에 시선 집중",
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509125",
       "ts": 1795832469
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "S&P SAYS FRANCE’S POLITICAL DIVISIONS MAY CONTINUE TO OBSTRUCT FISCAL CONSOLIDATION AND ECONOMIC REFORMS",
+      "title_ko": "S&P \"프랑스 정치적 분열, 재정 건전화 및 경제 개혁 지속적 걸림돌 될 것\"",
+      "url": "https://t.me/marketfeed/1086525",
+      "ts": 1795832556
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "FRANCE’S PUBLIC DEBT PROJECTED TO CONTINUE CLIMBING, WHILE INTEREST EXPENDITURE RISES GRADUALLY BY 2029, S&P SAYS",
+      "title_ko": "S&P \"프랑스 공공부채 증가세 지속, 2029년까지 이자 비용 점진적 상승 전망\"",
+      "url": "https://t.me/marketfeed/1086526",
+      "ts": 1795832620
     }
   ]
 }
