@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795842677,
+  "updated_at": 1795842835,
   "id_hashes": [
-    "186e4ff7975ad472595e1fde8c434c4cc6a57bdf10ecfc71944ae9fd42e4bd2b",
-    "8f38e1bdfb8211787f070c715fced7d2a8b1c402174f1c213a38465130db0c75",
     "a049363b1b796d1f0d9cb42af91561b1f42da798048a650943d219e34efd1049",
     "b1e2ce661f05378271c8a1bed1ae57393745e6407fa101cf11aa37657b471e28",
     "7d693eacfbafd2867485bb1bc937915fad602e83076383f2724a4cfbf8395ed6",
@@ -4000,11 +3998,11 @@
     "f5c9797a2e4a78ece483d6fbc23ab9c1d1840cc0de716e4eb87e94fb69af7056",
     "7dbc74ba4a8aea74508b6da20fbbb119f7bcb1c5399cd4a1b853998d6688d137",
     "1ccf49e698707fd14bfc91ad5cd00f535d59107e7c3d6f96c8ef6f5360c45761",
-    "1f80eeb0c676e96ffede306e18c35a50893c3e95d639d5b421d9d418adafbc15"
+    "1f80eeb0c676e96ffede306e18c35a50893c3e95d639d5b421d9d418adafbc15",
+    "72a8764d773fcb1b04982fa92b5a656c102e61dbc60f01aa999c51a78c9e5a50",
+    "c87a81fa2ef36f322bd8a9f4b0efd0cf438c308e12e51928a9bf4a83c1544ba1"
   ],
   "title_hashes": [
-    "03a38f6f4f86ed8c92b6cb1e8066fe77086af4499bc1f182ff38a6aeb3fe9cb0",
-    "0e977390082602fde6eddad4b19617847ee25714a762384bb16cc0d5808bfb3f",
     "0f91345520585cfba79d080091387c78e823ecae5a871b1c905d21b0ca760c9e",
     "0d0141f3464dc336ba65c63d90c65ce533f18c969c4a4da354b2348062b06513",
     "c88edbda9ad9ba5df25c13ab1ad165f2663d43c0fe2a59e3bf87f4586fbd2389",
@@ -8002,16 +8000,11 @@
     "f234e73b7320b3cc4f3e6c75cca62885bf095adfc6a3eba08f6b373ce78ba8a6",
     "b5ab6eb84801ed62b754fa352e419e4552b9fa6cdfcad92d3ff4ad54c457f4fa",
     "04b58a04a55bec7feaa8479cc95e610b8debf439ab9114bfe67de7730f7288af",
-    "00103118ff78372fa53620d21a044f03b4232a1376c78ac75617ce248ef4dfd0"
+    "00103118ff78372fa53620d21a044f03b4232a1376c78ac75617ce248ef4dfd0",
+    "a43b49612ae1097ed38adf03d60fc2af9dc8193cd0fe79d21ced461a53dccfff",
+    "7c31d291e2f21ff401eb587a66a4d7fab99b20049732fce0b2560ba090b8c66c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "반도체주 불확실성 여전…삼전 약세 전환·SK하닉 2%↓[핫종목]",
-      "title_ko": "반도체주 불확실성 여전…삼전 약세 전환·SK하닉 2%↓[핫종목]",
-      "url": "https://www.news1.kr/finance/market-exr/6367982",
-      "ts": 1795739954
-    },
     {
       "source": "뉴스1",
       "title_en": "코스피, 외국인 매수세에 상승 출발",
@@ -11504,6 +11497,13 @@
       "title_ko": "인도 식품안전당국, 8월 12일 공고 통해 오염된 비슬레리 제품 판매 금지 조치",
       "url": "https://t.me/marketfeed/1086574",
       "ts": 1795842676
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BISLERI CONFIRMS BATCH RECALL FOLLOWING REGULATOR’S COLIFORM FINDING, SAYS INTERNAL TESTS SHOWED SAMPLES MET SAFETY STANDARDS",
+      "title_ko": "비스레리, 규제 당국 대장균 검출에 따른 제품 회수 공식화…자체 검사선 안전 기준 충족 밝혀",
+      "url": "https://t.me/marketfeed/1086575",
+      "ts": 1795842772
     }
   ]
 }
