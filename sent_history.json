@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795864634,
+  "updated_at": 1795864784,
   "id_hashes": [
-    "a48313b265d0176d209f185dddf685f44783ac5c07ca7e9f17bc7908ad21ce2e",
-    "fe60f7955e722903a779d5fca20adc015b6d862b601fda04e546c0a9d0fc4a9e",
-    "b8b251de1807aa242a64a1e8b307b65747d69898f38ee1ec4f8d0879726a173a",
-    "ba49bb6a76d86d140f7b73d542072c3eab0c42e5a7f041c05129ae0c68ad33dc",
-    "a0ff17f382c1503cd60984b4eb5325fb928fe4f10c80988494c999c6fb9f1152",
     "6705d4deee4dd8d87e4716e0b6a74b0659ff22c00ccab6ab5bb85f5d89a6c9f6",
     "ca1e3c7451a9566b4fc7e7c5ff626ae5425de96052b272b60bee020cf8977e7f",
     "28cc5cd159fafdef94fcfec38d1bd04b546a2a628f608f7bef733a7d505f2461",
@@ -4000,14 +3995,14 @@
     "c9ceb9baa0a722ea1f0759c5f2ee0e6d2d17c368f21ac68db2d9dd5452227f93",
     "57126d916f042fc97cb88be99151a0c41004a7a67e941a7925b7db9da370b618",
     "7342a56f6a6c45387ab44f5ac496407be1e2d8e1057fe130edf75842677d40fd",
-    "f58cbc04227b387a0d553f7f5b6957eac17f914f4990f7f8f19e5ff7e1196448"
+    "f58cbc04227b387a0d553f7f5b6957eac17f914f4990f7f8f19e5ff7e1196448",
+    "da4d674d1ab405823b4e4f5b9ca1d4643b03d0b33c808cc8c33817a6e6d40d1d",
+    "4b15e5f2a1e06a36affda6c2e882c8a8a3601b419a0d2a76ec7b1f8950d33452",
+    "9a696588c6d6d8c2fe8e36cb73de7ea0738e4f0c9ffa6aee32dcf4b1e3880da7",
+    "c76522be6efe96a9165a0ab4fa43dac953f6f7f7a26126082910eee89d935be8",
+    "5048444d8157d6cb2e33e413c7fe7a871ee5f2f9e3fc01aec40a37bbe407bd34"
   ],
   "title_hashes": [
-    "10da12ad635a8d32788ba542b73b6c49f58e63c0e06de9187821a4a246c5f57a",
-    "785acf8ad0270b929ebbc97dc55f2d3df6bd9b10cbeb69798d8e4e22007c74bf",
-    "89f4433347ff99d24584735e266d1d9c5cf27ee4b364a7200445e5aba6272dad",
-    "addd690d32ff4dfd1f28bba78a7397a6f0205d70c8b161002bbf9ceffdfea426",
-    "f903a29f725dcd3df03a0166b6acd483227552a404b33fe4c6ae8976226c2abf",
     "3d126725189c312d4eedcb79d50a6923eb0c74821653c78101fa735276e524cc",
     "fa6db96ce4959639dca607b3b8171b4ac58925f3bdeebe6f00cc7aa947ba141a",
     "5f63a49452d78386b4c3a49d3389d2c8816bf95d88fd473ab3f4c0e5614f4fc6",
@@ -8002,16 +7997,14 @@
     "68fb7b4947344b54e34034562c4eae24677ddef70fe958a87bd390a8d25e7a22",
     "abf253c6207029468a7a740264ef09f85a58e13c2acc0997f52f39edebf27b26",
     "0b22521c8aacbe452c14b0bf587b56668fbc5f1aa7c6b590721c8722c13e3436",
-    "f46040311d4a8f4708c2c1c60b4ac44bbf62ba7aec791fb6330cb689db54ff86"
+    "f46040311d4a8f4708c2c1c60b4ac44bbf62ba7aec791fb6330cb689db54ff86",
+    "65bc15a7e13974f0c21d79786ddf698fe8c9017de4f0c80c128ec22692c96c88",
+    "a2869e6e1a6191ed373db9ccbaf2d19754e79a5fa3c630010a67607e24903c9a",
+    "9482bf32cd920d33c87e27d4247369b3ed98898e3882723a65f7e27863435308",
+    "c9ae45fbe45a3874a3d67ce89f2912e212b9d0387e406e52311deb6d38b487ed",
+    "4ac09cc5f470702155c2ef0707e82cff623ff877cea55f9815c402beccaba488"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합인포맥스",
-      "title_en": "[엔비디아 순환금융②] CDS 올라타며 추락한 AIG 전철 밟을까",
-      "title_ko": "[엔비디아 순환금융②] CDS 올라타며 추락한 AIG 전철 밟을까",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446913",
-      "ts": 1795743064
-    },
     {
       "source": "MarketFeed",
       "title_en": "CHINESE INDUSTRIAL PROFIT YTD ACTUAL 16.0% (FORECAST -, PREVIOUS 15.5%) $MACRO",
@@ -11504,6 +11497,13 @@
       "title_ko": "글렌던 맥크리리(Glendon McCreary) 선임 부사장 임명",
       "url": "https://www.theinformation.com/u/glendonmccreary",
       "ts": 1795864486
+    },
+    {
+      "source": "The Information",
+      "title_en": "Alibaba - TheInformation.com",
+      "title_ko": "알리바바, 더인포메이션 보도 관련 내부 검토 착수",
+      "url": "https://www.theinformation.com/topics/Alibaba",
+      "ts": 1795864783
     }
   ]
 }
