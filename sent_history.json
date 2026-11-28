@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795848889,
+  "updated_at": 1795849037,
   "id_hashes": [
-    "2c426da4965e0800b06f021dd84b9688e5fca90131756de6e0fe07b4c48ff357",
-    "bc38bb95975ee2dc73ffba53a6167b646a3fbd3ca944af88110cd704936572e3",
-    "fe493196569ff7daed25d1f8db1b115a4bba88e177e45b986a2c1ccffd820dc1",
-    "36595eb75645c7ea1be2fb96eef47b6f9383e89cfa60d02fdc0159e27b681a1f",
     "230e921d014f571c2db206bd6e0e5fa6cbea609daef83c873fc4e2fdafcc46b7",
     "1632c5a445273e3cb93c50317bc6a73c600b38327e164da4600e55cc175a0c29",
     "cf9389a9095313c5d3b55558724dc13e83da02950dd60c67872494dcf9d8dffb",
@@ -4000,12 +3996,13 @@
     "a6376869b1c4ce4f22f740ba1c4728c202d37e5e0d902b606643df6ae9e40a46",
     "aafab90e6f8140f20b049fbd286e2fc2a4d05d4a01c63b53f3b0728b210dfd93",
     "6fca7ad98b57b8f689fece379a4da1874fb271adddc76280d4ce8f9d077ebf40",
-    "6a8893b0350684b54fe6a895c47e1fd59c77b4d7e3dd1f0f7bd58f30110c2a2a"
+    "6a8893b0350684b54fe6a895c47e1fd59c77b4d7e3dd1f0f7bd58f30110c2a2a",
+    "66a2b768f2b208b2b438597a30f10ddbbad3bb3fd4e0c1a6af8ffe618e78d20a",
+    "eb55bba248de56f4795e862887b3eb1fd1ca15c2267d3b6e23531505a8016a21",
+    "e9fadfb26fc3d0861826b1d3e43e9764b728099709925162c9bad0f194be0a17",
+    "981ab46653821a809f6fedfbc76424ceed98531ffc38b3544df39705f5f14c98"
   ],
   "title_hashes": [
-    "edb054f953f9ee78e1e0353ab321cdb3f62b18ffd31668b82964a93c42ad8e27",
-    "f5cfb79ae1c42cadaa2e5be79b20514094aa06ad9b328905b9312554aaf063ab",
-    "1f163bf8da20a2cdd5c282af28f3095329dd2005d2530109255272cbe0b1b684",
     "efda7ecbee19e3ed8a5734a6ec22c79a9d7d537d8f78d040adf72db2a923b753",
     "744656ea412b23e7333d9bc15e79ada113de5979c9986aef9549b515aa15ab12",
     "03b8027763d83c2119d806c5c87c6541e37a254a2297b8c15df21aa3934944c9",
@@ -8002,16 +7999,12 @@
     "332ef1924ead30781b2775d9d6c47658bd7d4afdece1063a68d2388f871733d2",
     "190b321e766d7c1cfacba9c4e8b3245501b6f29c936892c5424d3318121464a1",
     "ab4da2c7d0c2405b9d8b239532952a13558b5bb117887f77dd0eb385b5864ca7",
-    "5bd19db34f6c83d49d1dfe08fd06806fe436db92b8af7bf55dba6266d5cc7cac"
+    "5bd19db34f6c83d49d1dfe08fd06806fe436db92b8af7bf55dba6266d5cc7cac",
+    "0111c6696b4772b1869fa908e3856456c11ff545f946818998d45055aca3ab9b",
+    "5142efae3970ee547432debd433ec8a8d175e60ea91f48537d2523079ae83e19",
+    "9d36472a46f02709ae240f23af4a9fb67b9d2ce656500fd5597ac222edaee77e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "서울경제",
-      "title_en": "“엔비디아는 24시간 대응 요구”…52시간제 막힌 반도체 R&D는 ‘발동동’",
-      "title_ko": "“엔비디아는 24시간 대응 요구”…52시간제 막힌 반도체 R&D는 ‘발동동’",
-      "url": "https://www.sedaily.com/article/20119702",
-      "ts": 1795740886
-    },
     {
       "source": "핀포인트뉴스",
       "title_en": "\"하늘 넘어 우주로\"...인텔리안테크·한화시스템 강세에 우주항공주 '매수 불꽃'",
@@ -11504,6 +11497,13 @@
       "title_ko": "사이트 여는 것만으로도 해킹?…텔레그램, 구형 iOS 보안 경고",
       "url": "https://zdnet.co.kr/view/?no=20261128153922",
       "ts": 1795848438
+    },
+    {
+      "source": "한경매거진",
+      "title_en": "K-방산, 성능 넘어 품질 경쟁…한화시스템 나토 인증 확보",
+      "title_ko": "K-방산, 성능 넘어 품질 경쟁…한화시스템 나토 인증 확보",
+      "url": "https://magazine.hankyung.com/business/article/202611286086b",
+      "ts": 1795849036
     }
   ]
 }
