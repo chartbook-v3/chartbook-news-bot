@@ -1,7 +1,6 @@
 {
-  "updated_at": 1795828962,
+  "updated_at": 1795829118,
   "id_hashes": [
-    "53750d58ef2b3d7eea710751d05f474f28bd5fccd7b0738a06d94bbc5e411eb2",
     "eeba0652f2edef9ae87372c4efddb81b0b59d1f3f0adaab562467d3747564b2a",
     "098597875aa1a59e4a0e27429260f2006b1074fffb50b4e2f075a62f1c3666b2",
     "3cd390fa6759596564aef40a34e4a08a207fd8e00fb5f4d359a388794b6f10cf",
@@ -4000,10 +3999,10 @@
     "53a90c98a4a003f1add9a9bfd5503c8407bf6af61dec4c268c31a0997125996b",
     "7eba409191934860b9d1c1efc7339fa687d4c02fecc59c43816c93a3503f3cf4",
     "40f05a87a239382c207b17364a2e076ea8ffde5c7b5c52994ab570bf99df580d",
-    "444fb44ecc61cd61661b5f20702fae4736931bc13e7b512ef496dff3d19782be"
+    "444fb44ecc61cd61661b5f20702fae4736931bc13e7b512ef496dff3d19782be",
+    "70212d413a7fe29ba2e6ff5a4020cb9b094aff4612d10dee3aa2ccc2f7069640"
   ],
   "title_hashes": [
-    "2972e58454d2fee36a42dfc54e21223acfe45bff87f8279bb0f0570aaec4432c",
     "fb141a3ea90ccea502f772f44165b5b921f985e154dd7bdb9fc4452420d31d28",
     "0d7549bf46238db344f352be9cbd4a549c088f065f7ca963168b78f89b7d72f0",
     "8b446e3aca2c6c50328971047f1d18f88919f363922c7926ea37137d698d4071",
@@ -8002,16 +8001,10 @@
     "eb214fa2583dc57f4cc8f1e99ab2e6052f660706eb23a5d6a46b882daccd412c",
     "bdeb9bad5101ec2adc2dfbc6e528635bc7d33bcaaf054ffa96c95c88f0ad9d50",
     "c2215c973bb5432a07a5540c2e6ec3272e99e9509f2a94185fb200dd81923472",
-    "c50106b30fcf415267d810bcaf471a267887ede39ea7eb57eb039766e21b6cff"
+    "c50106b30fcf415267d810bcaf471a267887ede39ea7eb57eb039766e21b6cff",
+    "e82f71499636cf4f5a260fa0409473c47dff67a1214d23ee275ed44ee9694cec"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "SAP SOFTWARE DEVELOPMENT HAS BEEN AFFECTED BY A SECURITY INCIDENT, WITH SAP IDENTIFYING SUSPICIOUS ACTIVITY AND SAYING THERE IS NO EVIDENCE OF CUSTOMER DATA ACCESS - HANDELSBLATT, CITING SOURCES",
-      "title_ko": "SAP 소프트웨어 개발이 보안 사고로 인해 영향을 받았습니다. SAP가 의심스러운 활동을 식별하고 고객 데이터 액세스에 대한 증거가 없다고 밝혔습니다. - HANDELSBLATT, 출처 인용",
-      "url": "https://t.me/marketfeed/1086036",
-      "ts": 1795735883
-    },
     {
       "source": "한국경제",
       "title_en": "오늘부터 풀리는 삼전닉스 배당금 44조원…증시 마중물 될까[오늘 아침 당신이 알아야 할 7가지]",
@@ -11504,6 +11497,13 @@
       "title_ko": "멕시코 임금 인상 전략, 장기적 경제 영향에 대한 의구심 확산",
       "url": "https://t.me/marketfeed/1086497",
       "ts": 1795828961
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "THE AVERAGE AMERICAN GAMER IS NOW 37 YEARS OLD, WHILE 67% OF AMERICANS REPORTEDLY PLAY VIDEO GAMES WEEKLY - LR",
+      "title_ko": "미국 게이머 평균 연령 37세…전체 인구 67% 매주 게임 즐겨",
+      "url": "https://t.me/marketfeed/1086498",
+      "ts": 1795829117
     }
   ]
 }
