@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795874065,
+  "updated_at": 1795874217,
   "id_hashes": [
-    "77795ec655af517bc5f13a9e7d8f86494d9110178542fd4040057bb15594470d",
-    "2bc37e031daf15c63a6c08140d0e276e4939306698282e3ab72c7f40991c958e",
     "bd7f5ff0bea329f7f89c5ee7b66e6d4e2fd69b9b21b4545ec3da6fdf9e60d8ac",
     "866ab49d7a515e920532dbe221e65668e146ed1b7624f394f642a7c76a63927e",
     "64e74b3ee47f95d2a4fe8437160b45b87c251433cee30a57854c106eca39b5ca",
@@ -4000,11 +3998,11 @@
     "aba60e28b6cc4da58c5656cb38c07e3457353b5ca3467875db8d5c77ec882a03",
     "8c6fdd589c77d4811494e8faee9a2e29182457b3333e14f7bf3abbdaf45adc01",
     "87a2dea147312cb6ff6a5cf6d08bd7cab93ad94b6d71dea42f93b5c4765308c0",
-    "57837b33a4e8fbed2cdf348859548eac9ea457b79a3cdef4eb44c002a666ff1d"
+    "57837b33a4e8fbed2cdf348859548eac9ea457b79a3cdef4eb44c002a666ff1d",
+    "2f5c1ef9cebd141c30073d97c5d88b7b5bf0099dc464f5ea3a5c6e5b05dae573",
+    "f0e28a5c405a0d4cacb8cd4e7dd5cf909d3f1563fb7c001ae779ed5fe0775598"
   ],
   "title_hashes": [
-    "609b4877a39b2936da2d5c3a24adf1bcfa0701ed65c1a93bc44f70adad88e29c",
-    "bed6a19a57cbda990a91e11fccdbc1bbb570102ca04d3902a1998dc874dbf80c",
     "4b62f63dd9b2e516747d468ba4e28e8888a97127211b3dd157165543a9c85951",
     "b8dfa68416eef699b3f0cc59ea99010940994bfcd345c406e87e9e35c7965213",
     "4aff28a739578eaa56978933fe84f1402d3b430dff905560b5db03544de18ed1",
@@ -8002,16 +8000,11 @@
     "18a1f67e1823347a4d00213146da3d10521d2574125a202d9acf785d5b381358",
     "bd846948e394e588f53b8d77b8d20ca71330ebd4cbd6037f8959af60c8a7933c",
     "e290a50bcaf8da91c54f21702a8ffbb20c0fdac2591919c7c07c98a790e19aa0",
-    "3db722a38c3b7fe7e2cff2a36565029f62f89ca9f7355878781b8a6854fd3965"
+    "3db722a38c3b7fe7e2cff2a36565029f62f89ca9f7355878781b8a6854fd3965",
+    "68c52795001c5135e2496a97ee57ed7cc4d676dab629587291093c620698b859",
+    "7ba39e0d2b4fc37ec157058e618ba441ba237750c9358a1bcac88b465b6f4338"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "SILVER RALLIES NEARLY 3% AS SPOT PRICES APPROACH $42.72 PER OUNCE",
-      "title_ko": "현물 가격이 온스당 $42.72에 접근함에 따라 은값이 거의 3% 상승",
-      "url": "https://t.me/marketfeed/1086101",
-      "ts": 1795745066
-    },
     {
       "source": "MarketFeed",
       "title_en": "GOLD PRICES CLIMB ALMOST 1%, REACHING $3,598.38 AN OUNCE",
@@ -11504,6 +11497,13 @@
       "title_ko": "[속보] \"러시아 캄차카 반도서 규모 6.7 지진 발생\"-USGS",
       "url": "https://www.news1.kr/world/northeast-asia/6369275",
       "ts": 1795873589
+    },
+    {
+      "source": "Barron's",
+      "title_en": "Google Halts Construction Of Belgian Data Centre On Authorities' Order",
+      "title_ko": "구글, 당국 명령에 벨기에 데이터센터 건설 중단",
+      "url": "https://www.barrons.com/news/google-halts-construction-of-belgian-data-centre-on-authorities-order-148984d4",
+      "ts": 1795874213
     }
   ]
 }
