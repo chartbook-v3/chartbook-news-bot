@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795864334,
+  "updated_at": 1795864487,
   "id_hashes": [
-    "77f62dec7e7981e261ebb27112d9675551183160046f0bed87a4eafe8fb4cec5",
-    "208468aced71577ce14663d329412a5c06b8adad5ef48d035d62034d3ce78715",
     "a48313b265d0176d209f185dddf685f44783ac5c07ca7e9f17bc7908ad21ce2e",
     "fe60f7955e722903a779d5fca20adc015b6d862b601fda04e546c0a9d0fc4a9e",
     "b8b251de1807aa242a64a1e8b307b65747d69898f38ee1ec4f8d0879726a173a",
@@ -4000,10 +3998,11 @@
     "7a909d724923f8f4b636c71609a44e4257be6bf157c9ae6f1fd1634923067841",
     "3db243bb8eba60e1066743b4d36bd1303ab6f09013e0d8488ab48baf00b9ff59",
     "c9ceb9baa0a722ea1f0759c5f2ee0e6d2d17c368f21ac68db2d9dd5452227f93",
-    "57126d916f042fc97cb88be99151a0c41004a7a67e941a7925b7db9da370b618"
+    "57126d916f042fc97cb88be99151a0c41004a7a67e941a7925b7db9da370b618",
+    "7342a56f6a6c45387ab44f5ac496407be1e2d8e1057fe130edf75842677d40fd",
+    "f58cbc04227b387a0d553f7f5b6957eac17f914f4990f7f8f19e5ff7e1196448"
   ],
   "title_hashes": [
-    "4c99a1c03087cc287846238ad5e1957be44b9720ddfa8a0ca40ef3e8e7c0affa",
     "10da12ad635a8d32788ba542b73b6c49f58e63c0e06de9187821a4a246c5f57a",
     "785acf8ad0270b929ebbc97dc55f2d3df6bd9b10cbeb69798d8e4e22007c74bf",
     "89f4433347ff99d24584735e266d1d9c5cf27ee4b364a7200445e5aba6272dad",
@@ -8002,16 +8001,10 @@
     "9add93547fd08747533a7444fe59f30b94177bd5df47c60a785066b3721c5125",
     "68fb7b4947344b54e34034562c4eae24677ddef70fe958a87bd390a8d25e7a22",
     "abf253c6207029468a7a740264ef09f85a58e13c2acc0997f52f39edebf27b26",
-    "0b22521c8aacbe452c14b0bf587b56668fbc5f1aa7c6b590721c8722c13e3436"
+    "0b22521c8aacbe452c14b0bf587b56668fbc5f1aa7c6b590721c8722c13e3436",
+    "f46040311d4a8f4708c2c1c60b4ac44bbf62ba7aec791fb6330cb689db54ff86"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합인포맥스",
-      "title_en": "[엔비디아 순환금융①] 황 복귀에도 신용시장 경계…철도·닷컴의 교훈",
-      "title_ko": "[엔비디아 순환금융①] 황 복귀에도 신용시장 경계…철도·닷컴의 교훈",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446915",
-      "ts": 1795742908
-    },
     {
       "source": "연합인포맥스",
       "title_en": "[엔비디아 순환금융②] CDS 올라타며 추락한 AIG 전철 밟을까",
@@ -11504,6 +11497,13 @@
       "title_ko": "인텔 레이저 레이크-S, 12 P코어(E코어 미탑재)·120MB bLLC 캐시 및 28코어·144MB 캐시 모델 포함 전망",
       "url": "https://wccftech.com/intel-razor-lake-s-could-pack-a-12-p-core-only-chip-with-120-mb-of-bllc/",
       "ts": 1795864333
+    },
+    {
+      "source": "The Information",
+      "title_en": "Glendon McCreary",
+      "title_ko": "글렌던 맥크리리(Glendon McCreary) 선임 부사장 임명",
+      "url": "https://www.theinformation.com/u/glendonmccreary",
+      "ts": 1795864486
     }
   ]
 }
