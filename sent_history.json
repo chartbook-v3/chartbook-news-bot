@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795837312,
+  "updated_at": 1795837468,
   "id_hashes": [
-    "71a443fca416911428249e0d9b376628df5d5fcfcce27a190a282c678c7ec006",
-    "8daf52ccce50a44d686a5dfc110537ddd811f122065aa407210a27f94bb029de",
-    "015c71e5c74143eb0778311c1ad3682a0efec241ed587171248bcf426da05da2",
     "d517cd3ff1f30b7d0b38fa950741b7e85dd3312d5ec3d59e0dc0a26ac92733af",
     "c86323f7a7cf149939caa18b6f5195abdf0343f54380db24c873b7970243399a",
     "f4865c1c522e9b92ba4ef271eb98cd534f63d747a1a5a7cab67d4d14a60c539d",
@@ -4000,12 +3997,12 @@
     "ce29561b1c27d3d012453689487b6e13efd93db5aebf0b6c54b6b0a7be918a5b",
     "d3a361bf9ff399514871918832eef606ef2919411555bacfe8a765f197e1bf04",
     "920de695d0b72d79a76d14fcac2d25976c9aaaf28aae292d72d25c1fb6386312",
-    "3b267e16752a02860ffe3f210f04d020ec6b67467b84f0559d299698e10e6690"
+    "3b267e16752a02860ffe3f210f04d020ec6b67467b84f0559d299698e10e6690",
+    "29d5eee4a6b3fb2d6450bf28a339505426501d6f67feebce990e1b0b8eb9d8c8",
+    "504f1d088979f638079f9510b12b7e3c1ef553ed75b5b652e2c9210355da1223",
+    "f1db60b46f1dfbfb120f8b1b747c27ec721380f1e82c8d5d2feeca7b4fb2a305"
   ],
   "title_hashes": [
-    "59ac679107b62454d4ebe431fe34251a81fa49a3550f067fcdadcc4c17410177",
-    "4a6723da98e51f9e23945c578656c0fb370371f0edc47e7d4e53dc3e03237bdc",
-    "2987c517be468fa38830f3ee532789d839b1d0bebfdbabc91d4536f9c32bd622",
     "77d23d4d7103554cdbe7df215f711756e1fd9f5a3f298e06831e7531b10542d5",
     "58f197dddc1526ce0d72c7ed65bd2b314e58fd612cfa07dcd83a32fac9f2ab4e",
     "68842c6b1a245d1ab0d6a52a85ee9a451ae8d0463451a9067393a7dbb08e5a15",
@@ -8002,16 +7999,12 @@
     "6a1853c98ec5f7a0b2c04410096e84158cd674c0a483e57be6cf39c7560cb527",
     "01d33b38147af1995a9d98a791f5dd095dd074b0517dc2cefca28f58d7a9dbd2",
     "22971eab2a5e82d716d92671a44b9c20a18bfa4376a9adc48c1431d2b30510f4",
-    "8826cc658e2137c7f6bbf7095c895354b660c089dcf034f3d35aeeae1711da11"
+    "8826cc658e2137c7f6bbf7095c895354b660c089dcf034f3d35aeeae1711da11",
+    "0b3e9edbcedfdc27eb0fd7f9b77639a992c8c05d6e17d3cfbe894c383e381c46",
+    "8872a5ecd0b550cadafaac7c865f9cc0b31c7c5b582022d57bb93eacb60acc1d",
+    "4a9d218082b3b89080b466160c78f64a5bc8c3e6084d721ce3c1d85c1829519c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "전자신문",
-      "title_en": "유라클 임원진, 자사 주식 장내 매수…“책임경영·실적 개선 자신감”",
-      "title_ko": "유라클 임원진, 자사 주식 장내 매수…“책임경영·실적 개선 자신감”",
-      "url": "https://www.etnews.com/20261127000035",
-      "ts": 1795738404
-    },
     {
       "source": "아시아경제",
       "title_en": "KAI, 국가품질경영대회서 7개 상 수상…품질 경쟁력 입증",
@@ -11504,6 +11497,13 @@
       "title_ko": "우크라이나 \"러시아와 완전한 휴전 합의 없으면 러시아 정유 시설 타격 중단 없다\"",
       "url": "https://t.me/marketfeed/1086550",
       "ts": 1795837109
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "特朗普又连发深圳APEC照片：一周过去了，他还沉浸其中",
+      "title_ko": "트럼프, APEC 샌프란시스코 사진 재차 게시…일주일째 회상 모드",
+      "url": "https://wallstreetcn.com/livenews/3207314",
+      "ts": 1795837467
     }
   ]
 }
