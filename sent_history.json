@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795833689,
+  "updated_at": 1795833844,
   "id_hashes": [
-    "d5f73ba4b22ba402ec2e200bcc972cc8e4dfc011e0b0d5fdc8a46b6f889fe9fb",
-    "ad5abc902fbb9ab08023534ceb06d6cae5c457f0f551532b966eff1b8fef8e71",
-    "da51d0c25438914313d28f143681d3ececed1aa5dec76c0a445517250b0497fd",
-    "7baf5175ea879eeeab42e810d13648e24f7be643a897f11ce30c518d408d86f5",
     "05bf42fd9d8061fed69b2d377373cbd17bbf9e5f6ea1c1c57c23a7eb9147c5f3",
     "1928f53d6d999eb24d56f0bcb8ce0013f49b2a4b8da348b29f306f1025553965",
     "7e12eede9f8f76e069cfbc2a5ceb934d48d6f74a9803891a524f67ed2547aa2c",
@@ -4000,12 +3996,13 @@
     "e4ac8ee590399577deb8f2c7c42127323249461b34a2c3db8349467651d468c3",
     "4b1ef90692a801cb5900013c6ffaa67b60cd105d1bdb1b862e02e59d2005ae00",
     "73c57d388344dd141ecb894e9b7656ef2895349624ff3a56e72af620c5047f0c",
-    "f2480b00824e79563a04b00c5479f5fcf79a39ec4e1101d11a9622e27387fdc5"
+    "f2480b00824e79563a04b00c5479f5fcf79a39ec4e1101d11a9622e27387fdc5",
+    "cc58fd57223d811200a986e527059588a2806ec9c3115df49e9d8eeffb068e17",
+    "36d591b8ad52f03877a7d11b5bf4e80585eb8146dca81f89c7931da0f5dbec27",
+    "013b840c8787631a98ffe65304c0276c4ea65ca6ae7e44aca396f6970b44edbc",
+    "4e684ce6cf1ef124466405684bd3803aba762508575b5a5a7d36dac04f82f043"
   ],
   "title_hashes": [
-    "e00e8cdb62e396693ef3189f2717f59a66d1e349b3ba9d7eee7c878f86bfe53b",
-    "765680d473c0c88fdd57748cc5b85e16fe2ebdbf31524a6f0180aa1bdba5187f",
-    "69a36854ac5de78e4e82a54c21558dad1362edbd803eb8f288167ab6ca08e47d",
     "ae49c29e7f2bf0d49454ede6b3567daf4eac0bcf08ae52279c8fe2488d4156df",
     "5c9e193e1831afea936f4205c02fca4b95610f246b6f6fdc9d3201e9a1e4b1a6",
     "6793c9f45b0846cdce119e1c95b001ff54e2f10e120205267e8d058da2b03cfe",
@@ -8002,16 +7999,12 @@
     "68e3c1e926b26df08726a33aa6fcf81f260bbdc6efb4ef18c93e2fcb5ffe27c5",
     "4b1c50991ef5f41bc65f80eb0679d4ed915d91bc818d431cb9378b7a24d0c0ee",
     "4b7085fd2518458760ffcbb18c631c6120e063ec00b9644f8a072933862b8aed",
-    "d6b775500c61f9e4033588fe3ab177cead7503ba7def0c8946bd426958e19f05"
+    "d6b775500c61f9e4033588fe3ab177cead7503ba7def0c8946bd426958e19f05",
+    "85ea2ed154f27943bf0a6bcba244832405c4e20b5472329e4074655d13528eb4",
+    "5696686e58357aa7f8c3f05d7339e73851fa81b2a14cf2119097dd51bf589371",
+    "6afed09588379b19eb81faace0478a6462836abe6a285a23a068f23b45688e5e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "TRUMP SAYS HE SPOKE WITH NATO'S RUTTE ABOUT U.S. FORCE POSTURE IN EUROPE",
-      "title_ko": "트럼프는 나토의 뤼테와 유럽 내 미군 태세에 대해 이야기했다고 밝혀",
-      "url": "https://t.me/marketfeed/1086054",
-      "ts": 1795737424
-    },
     {
       "source": "FinancialJuice",
       "title_en": "Trump: expressed concern about earlier market declines",
@@ -11504,6 +11497,13 @@
       "title_ko": "캐나다 첫 임업 전략, 미국 관세를 핵심 도전 과제로 지목",
       "url": "https://wallstreetcn.com/livenews/3207309",
       "ts": 1795833688
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "S&P WARNS THAT RELIANCE ON RUSSIAN ENERGY REMAINS A LONG-TERM VULNERABILITY FOR HUNGARY",
+      "title_ko": "S&P \"헝가리의 러시아산 에너지 의존도, 장기적 취약점\" 경고",
+      "url": "https://t.me/marketfeed/1086533",
+      "ts": 1795833843
     }
   ]
 }
