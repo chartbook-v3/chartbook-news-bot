@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795838834,
+  "updated_at": 1795838990,
   "id_hashes": [
-    "6a3ccd07daf60786755db99b52d6241b53bf5ed2a9020509508cb0ea47081b60",
-    "c77db25818800ccdf06a34fcac5791437681048a3dbd89be8816f8092aeba6ad",
-    "361e038023536afb9f9a0998bf18518128dbfb3d0f22a349733b82f12a301300",
     "021fa4f587f12dbddfbd00589daf95122f3026ec161020abe15d0d04c7655a7a",
     "d7ef53d947308d3ad11827f0ec15a7e9a337411c185ff541716b823900ffcec3",
     "d62585ca57c2442aa18de83aaf3e79444f720d8e9aa26a9cc37fc1998c1986ec",
@@ -4000,12 +3997,12 @@
     "9dc467b58872394b13340302dc310288360851de08722d8c2f469523ec599547",
     "b719f53ff947e22d3cd4b7eefec7da91ad5957eda7c731fdc35a8d0c12d3a437",
     "f36af28f8c87ec32f730541a5f23113c595bdd393e337c9205c1596f430d871e",
-    "0de3909c9e9a4f9fe59fffdf5490eb7443857df417a83ceaadbc1c1ece8b28b6"
+    "0de3909c9e9a4f9fe59fffdf5490eb7443857df417a83ceaadbc1c1ece8b28b6",
+    "3c2cba02ce20b98ae1b024eee1d15020621f5510197272ae5984098e7a50db2c",
+    "f5e422a343038fe98a21f8bb5dffdfbb7ba6ba423b398824269eccf572362ad5",
+    "a7a3ae79d5d13d196fe9a742427678e3ab51d01a731e99a2561d535e402dea53"
   ],
   "title_hashes": [
-    "d18ba3cc1015eadba28b2bfbca714827baa0250b0c00bcce8674fa8dacca43ae",
-    "8470223f721834b884d0dff6c33d7e2d17828bb782c311dfb1ab3eb59225c06b",
-    "2d184581dfdf7a50742253c22739e219a2e981289eee0b135c8b3f1b59110c1a",
     "edd12f421198b07764934b1fccd9e2422c8d63e942d4b91d4e80ce25756901db",
     "29a352a02bf99503ef81acd99659e60eb38b21b1093dc7f6a9a1a832fe5ec9d2",
     "bc2c5e734db7e54614e1bd65dca1cbbe178879b3dbcd5a805b9cd57672c4399b",
@@ -8002,16 +7999,12 @@
     "9181c532509c48869b213fd98ed608e6212d03ae3cbc0de6ba776621bdddc716",
     "203bba8ca14810fcd5dfffcba23a59c494b026bcf912fbd4f5bdc8b8c7518634",
     "7ca7be27da52a6b300b9fd2ab34b6cca250bfa3ffba411c4c8408b84a8ade9cc",
-    "4bbd4d5d0d24508437e2e25f3654fa7d471e8dddee1dda6597e0f0f1b26394ac"
+    "4bbd4d5d0d24508437e2e25f3654fa7d471e8dddee1dda6597e0f0f1b26394ac",
+    "2772a8142e37735265f72917e278fd878813be89ca35141171ed60e536b22839",
+    "5110a4bb182c8a60bd675d0f36c6395d492c363d432659fec560abf0d57614b1",
+    "efb02720b12d3b593c8badc05c93553ee2a78f65d58ce54754a7fa5df5af500d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "비즈니스포스트",
-      "title_en": "하나증권 \"스페이스X 우주 데이터센터 구축에 광통신 수혜, 관련주 RFHIC 케이엠더블유\"",
-      "title_ko": "하나증권 \"스페이스X 우주 데이터센터 구축에 광통신 수혜, 관련주 RFHIC 케이엠더블유\"",
-      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=453082",
-      "ts": 1795738870
-    },
     {
       "source": "MarketFeed",
       "title_en": "EU LEADERS REMAIN DIVIDED AS BUDGET TALKS END WITHOUT CONSENSUS, EUROPEAN COUNCIL PRESIDENT SAYS",
@@ -11504,6 +11497,13 @@
       "title_ko": "JP모건 페이먼츠, 아프리카개발은행(AfDB)으로부터 무역금융 보증 확인 승인 획득",
       "url": "https://t.me/marketfeed/1086555",
       "ts": 1795838833
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BULK CARRIER SOUGHT TO TRANSIT REGIONAL WATERS AFTER LEAVING BANDAR ABBAS – US MILITARY",
+      "title_ko": "미 군당국 \"이란 반다르아바스항 출항한 벌크선, 인근 해역 통과 시도 중\"",
+      "url": "https://t.me/marketfeed/1086556",
+      "ts": 1795838989
     }
   ]
 }
