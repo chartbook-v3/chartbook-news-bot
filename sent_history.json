@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795873132,
+  "updated_at": 1795873280,
   "id_hashes": [
-    "00c3a1de92d6570b834d766a1b3c9a7cdd2a8b7f0ec7842a1ea4713d73f0cf51",
-    "4b59d67cdbee1d9eecf44e3c768e31bfa79461f3df2d27bcfa029938f055f31b",
     "c98ca2bf8d022b8381bcb8a0bf0d3feb5aa0c8cb9259694cf9f4cf3f4fd3dd5c",
     "f668ce63f63a8e94037cf76e0201ef4ce30add82c6a1c18977e2cf279a7a1215",
     "c185956d0c411c85efb793e89aa46470b3af23fa1251cb9015c1177b64256250",
@@ -4000,11 +3998,11 @@
     "ee2b13e0877bcdf699ab2da3d95506b86ca476401c21a82c687815ea526b15ed",
     "12ab0dd07fea1b98521b999e84e056588c5d19c3980845af2ce7ae7fa9d57742",
     "ead82f209e4efe176a5eec4c79a3869508ec52a915ddb48ff53ea5c04cbf83ae",
-    "735ebbb48439f91e38ce4687a502e0e5d308dc10744f237f379047cd4096516f"
+    "735ebbb48439f91e38ce4687a502e0e5d308dc10744f237f379047cd4096516f",
+    "e030c1b6c3f7431844a995fe708bfe24d1ce8b3108f153c6addd48692c917b83",
+    "f5bc1f31036992f625f68ba7737c2431870ea3c8df6ba10d27a8496f4cb48cc7"
   ],
   "title_hashes": [
-    "3bedbd5a4372e67f6893c02e264248577b4e8da082e3962b7eebf2a18d40acd1",
-    "27c16eb6592e4ad3f0320cf7d9fb33d0f05def9880deea3312ef70434778c9c7",
     "ab796fd07dae1c2f5db39de0860f46245faf7ef2f1208188d39fe4d862b21687",
     "99706fc5700333f24346ec10a6e72422797a22041e7c0490e516e74158ef5401",
     "192da6beba6e27f18fa5d509c5f81c46bee4e3d0c8f3335799b8263fe3fb6c0b",
@@ -8002,16 +8000,11 @@
     "8046874549bad7b4370a3400af33298c073ca047751d564cbde3eccf3039216e",
     "aa177b62cf5132edec256c0b5c23eb766b1f62a951bf5632e260570bf786b4c7",
     "7568366e785f70824288a6c0ce3738b88a68f9e1ab4ebaf00ee8606ed8524c7b",
-    "55b5dd0a743aee2eb53eb518fc9697b4a6388b3e097539d63a1a636c512eec90"
+    "55b5dd0a743aee2eb53eb518fc9697b4a6388b3e097539d63a1a636c512eec90",
+    "cf95d27dd77e9dd0a12661c355e0353436f960f2bb5099fc2531ae5f9be52a5f",
+    "b1cc0d62f1c67eaa98aa045d92a5088db0d8e95772288b9270e45a53e6b52784"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합뉴스",
-      "title_en": "'원전·송전탑 산불 위협 막는다'…새울원자력·소방서 합동훈련",
-      "title_ko": "'원전·송전탑 산불 위협 막는다'…새울원자력·소방서 합동훈련",
-      "url": "https://www.yna.co.kr/view/AKR20261127059600057",
-      "ts": 1795744781
-    },
     {
       "source": "한국경제",
       "title_en": "\"반도체 자립\" 인도, 수십조 쏟아붓는데…한국 수출 2배 넘게 뛰었다",
@@ -11504,6 +11497,13 @@
       "title_ko": "이라크 당국 \"키르쿠크 군 병력 증강, 비공식 밀수 경로 차단 목적\"",
       "url": "https://t.me/marketfeed/1086647",
       "ts": 1795872833
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "$AMZN $WMT $TGT - U.S. BLACK FRIDAY ONLINE SPENDING HITS RECORD $13.1 BILLION",
+      "title_ko": "$AMZN $WMT $TGT - 미국 블랙 프라이데이 온라인 지출이 131억 달러 기록을 세웠습니다",
+      "url": "https://t.me/marketfeed/1086648",
+      "ts": 1795873160
     }
   ]
 }
