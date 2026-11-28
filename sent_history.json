@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795842507,
+  "updated_at": 1795842677,
   "id_hashes": [
-    "61ee01de5c1efbdbdd5886fea97faef21346166382943de403253517a5075b19",
-    "d801cca04f3e2e3e63af05d8669cd3d5ee6a4fae27424ed28184f406098cd1d4",
-    "4977d205737cfbc8be52c176b9fab72c93c7c276c7d95fe09f91621e7de1f7f0",
-    "34686fcfdea41abe0a905cc92beea878bd70fb7d1130f62f7d16e5bf2e2a987f",
-    "2a615d3263caa8f7bbd7cae8d11e27fd3d26297188915618723613b049591d0c",
     "186e4ff7975ad472595e1fde8c434c4cc6a57bdf10ecfc71944ae9fd42e4bd2b",
     "8f38e1bdfb8211787f070c715fced7d2a8b1c402174f1c213a38465130db0c75",
     "a049363b1b796d1f0d9cb42af91561b1f42da798048a650943d219e34efd1049",
@@ -4000,14 +3995,14 @@
     "0e0009db64e1eda2a1a81e12a9f29740f23d4c928e598532ba44597ab58a9ac7",
     "7a147d6a2e74d257a006398fcb49aff8ac3f881c05457dd0fccc10e983424675",
     "8dfb93fc1f6b222a9116865f5b7dac4384ed9db1f8492ca623ce734347c37c93",
-    "29dc701e8a3db9e74c9ce06e02a5d6dfdead0f76347945c03a8ff9335760fc06"
+    "29dc701e8a3db9e74c9ce06e02a5d6dfdead0f76347945c03a8ff9335760fc06",
+    "8dae3da9b3bdc1252fea54a5e514ca7b62245618b267d0b9f906f5d14394b5bc",
+    "f5c9797a2e4a78ece483d6fbc23ab9c1d1840cc0de716e4eb87e94fb69af7056",
+    "7dbc74ba4a8aea74508b6da20fbbb119f7bcb1c5399cd4a1b853998d6688d137",
+    "1ccf49e698707fd14bfc91ad5cd00f535d59107e7c3d6f96c8ef6f5360c45761",
+    "1f80eeb0c676e96ffede306e18c35a50893c3e95d639d5b421d9d418adafbc15"
   ],
   "title_hashes": [
-    "b53c771905c993f614298d938ae0d55dfbd36e2ad8ffbb47db88124367772ea2",
-    "98a5cb6a430022835e17e74de80d23a72d9ff48b8ed5f06f21196cf78ad77466",
-    "e5a00e7f22db9ef84e5312e4fe14e5fed4bb5a81642cc29403998bc2a6a4eff1",
-    "f7cccd2ab6ce89d2dcbed47b8db3fd1aa18ce2cc1a98cabb975a26dabe07bd7f",
-    "eba9303f5b58a3342b5df1605fd401c3fcf5165fb27ccba6af4d3367d46fec07",
     "03a38f6f4f86ed8c92b6cb1e8066fe77086af4499bc1f182ff38a6aeb3fe9cb0",
     "0e977390082602fde6eddad4b19617847ee25714a762384bb16cc0d5808bfb3f",
     "0f91345520585cfba79d080091387c78e823ecae5a871b1c905d21b0ca760c9e",
@@ -8002,30 +7997,14 @@
     "0448f62762c90f9d86bc0a1778e52713cb0c2441a4fef2ed2f4e33fcfadbbd90",
     "be343e0167ccb277c98a9893547f0bf622bcde7cd6fd39052a18dfdf1de48b20",
     "6d6c9f12e799e005a4e6d9edee8b1621330e6b5d00fade7ae3cc898ddd91e39e",
-    "71c81ad6582e0f31297c4e86e71b23c4cb998b3d26aaaa7d3937451efda8f9f5"
+    "71c81ad6582e0f31297c4e86e71b23c4cb998b3d26aaaa7d3937451efda8f9f5",
+    "26da1163d666dc877bab91472c9c591cef85d928774e279cd8c6715f9a9ec35c",
+    "f234e73b7320b3cc4f3e6c75cca62885bf095adfc6a3eba08f6b373ce78ba8a6",
+    "b5ab6eb84801ed62b754fa352e419e4552b9fa6cdfcad92d3ff4ad54c457f4fa",
+    "04b58a04a55bec7feaa8479cc95e610b8debf439ab9114bfe67de7730f7288af",
+    "00103118ff78372fa53620d21a044f03b4232a1376c78ac75617ce248ef4dfd0"
   ],
   "recent_sent_articles": [
-    {
-      "source": "한국경제",
-      "title_en": "코스피 장 초반 강보합세…코스닥 1%대 상승",
-      "title_ko": "코스피 장 초반 강보합세…코스닥 1%대 상승",
-      "url": "https://www.hankyung.com/article/2026112739256",
-      "ts": 1795739948
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "靑 \"美 관세 상한 15% 다행이지만 어떻게 될지…대응책 마련 중\"",
-      "title_ko": "靑 \"美 관세 상한 15% 다행이지만 어떻게 될지…대응책 마련 중\"",
-      "url": "https://www.news1.kr/politics/president/6367962",
-      "ts": 1795739950
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "\"트럼프, 지지율 20%대 추락시 상원서 파면될 수도\"-美여론조사 전문가",
-      "title_ko": "\"트럼프, 지지율 20%대 추락시 상원서 파면될 수도\"-美여론조사 전문가",
-      "url": "https://www.news1.kr/world/usa-canada/6367963",
-      "ts": 1795739952
-    },
     {
       "source": "뉴스1",
       "title_en": "반도체주 불확실성 여전…삼전 약세 전환·SK하닉 2%↓[핫종목]",
@@ -11504,6 +11483,27 @@
       "title_ko": "국민銀 \"내년 평균 환율 1,320원…상고하저에 1,200원대도\"",
       "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4447054",
       "ts": 1795842358
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "北, 12월 하순 전원회의 예고…러시아와 경제협력 합의 [데일리 북한]",
+      "title_ko": "北, 12월 하순 전원회의 예고…러시아와 경제협력 합의 [데일리 북한]",
+      "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6369111",
+      "ts": 1795842534
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "BISLERI WATER SAMPLE FAILS SAFETY TEST IN INDIA OVER COLIFORM BACTERIA, SECOND FINDING IN RECENT DAYS",
+      "title_ko": "BISLERI 물 샘플, 대장균에 대한 인도 안전 테스트 실패, 최근 두 번째 발견",
+      "url": "https://t.me/marketfeed/1086573",
+      "ts": 1795842671
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "INDIAN FOOD SAFETY AUTHORITY PROHIBITED SALES OF CONTAMINATED BISLERI BATCH IN AUGUST 12 NOTICE",
+      "title_ko": "인도 식품안전당국, 8월 12일 공고 통해 오염된 비슬레리 제품 판매 금지 조치",
+      "url": "https://t.me/marketfeed/1086574",
+      "ts": 1795842676
     }
   ]
 }
