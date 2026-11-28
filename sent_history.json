@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795858023,
+  "updated_at": 1795858180,
   "id_hashes": [
-    "4b4844edebbdc39f59a0f167c1521d87b59df709589b2b3e404a4f03d0850d18",
-    "1c8944ea90ea10f30141ed559157a9717cb8d93be6cceff52a9f777ca96a8a82",
-    "25db07ef742f08e64f66dae0a6da2a2f0c509a89342330ad65d8b7fec657a498",
-    "6209ee935ee0f8ca1be31cfd48219b0261c818593495dd5e5e5d812e57df2a74",
     "abc5d4c2d28bd1c6d5e1f68c58df45cdeca582917f192fd007eb99f34b285971",
     "0674c7ebbb9a525e8dcaff256707e5ae68db29304b83c258c503fa40a2177630",
     "22b97344d9e65d05bf9f134f97fee42d44a6317b7daff7c2d0942eac54b828c5",
@@ -4000,12 +3996,13 @@
     "ad8883de35ac20622540db7bc99bda0bde6dd1b0de090753c7c687615711baa2",
     "07b212ce9f905b8df5a37c6445d57d52249146b7deb6574268e9be937a8b45f1",
     "82b1adb179f4bf8d7a0f14654334bbf60584ab1a646c1a191d006d953ac62da5",
-    "4aeac2737dd7da05a3ee5639743676fc56a24330851384e3be5f26241dccd82d"
+    "4aeac2737dd7da05a3ee5639743676fc56a24330851384e3be5f26241dccd82d",
+    "1bbb6b4e17e7f65fb1f17c4c9667f87a8cbba9999dcb2ff95eadca6a3ed78952",
+    "a74c852951dd9b90239e99aad969d87c705fcfda0741dd4f13430d3e13c09cbd",
+    "7b83b78599fb850c4266b8edb916c995ed02a74fc2ca1993c6af8690035d8479",
+    "3ef9d398638527d35306427338b87c8a4012793ce39fe034960511d6d10c3ed5"
   ],
   "title_hashes": [
-    "99ef016356dd2f3fed0bf160af933a8abc483385fa7701ac59b8a0aa35e7a390",
-    "e460b9fbacf1afede0f9609c07ffeead3f66926898898afef0819bd94099a382",
-    "8d7a7a249d912ea5d89bb1ffd6f9f067ee158edd5fafdc6bbd09e2445dd6f442",
     "1ab3860f771766385e168b68cc11fb16b881a5f3958e70e81d74ef1e186404ff",
     "0f063552729503c1903b08bcdedacbfe88e1eed000ca3d2a0fd4fb19224df989",
     "76e336cd8f981e5e22fee2dcb217eb9e270c8421ffea54cc08ec84940d815f70",
@@ -8002,16 +7999,12 @@
     "cd3cc7e6425b0886eaf68cc07734fa60a1e2773195e03bcb2e451ec33524a3c5",
     "a1ee4f9f277aa04039c6b7a740551faf6e9bedf7477b9d03ac04916868e2bfe2",
     "8b98bb17c940499631dca56abb3226ede7d0ea10cac09a935e9e77985d381a63",
-    "7d4217d9e637fb306e8c295103fbfbcae91dc7e3220b78a44ddc8c4bfa202b3c"
+    "7d4217d9e637fb306e8c295103fbfbcae91dc7e3220b78a44ddc8c4bfa202b3c",
+    "170f7bcbb27976a29f83b448646d23c51bdd90f0a719f224352ab56d92588cb6",
+    "23619fe0707d0e5c2ac7f2794bc3399d5fa613973412e6b4ef6232bd0f413bc1",
+    "2e0aa754a4c8d40a2e15b507fc940ae1f64ab191317684e7ebdc1e7bc17ad5c3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Trump Says Huang Is Excited About His ‘Second Term’ at Nvidia",
-      "title_ko": "트럼프, 황이 엔비디아에서 '2번째 임기를 맞이하게 돼 기쁘다'",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/trump-jensen-huang-ceo-second-term-at-nvidia?srnd=homepage-americas",
-      "ts": 1795742603
-    },
     {
       "source": "K-우주항공",
       "title_en": "KAI, 국가품질경영대회서 7관왕 달성 - 데일리바이트(DAILY BYTE)",
@@ -11504,6 +11497,13 @@
       "title_ko": "300만원 육박하던 하이닉스가 111만원…결국 꺼낸 '승부수' [분석+]",
       "url": "https://www.hankyung.com/article/2026112861537",
       "ts": 1795857651
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "SAUDI-LED COALITION SAYS INTERCEPTED AND DESTROYED BALLISTIC MISSILE LAUNCHED BY YEMEN'S HOUTHIS TOWARDS SOUTHERN REGION",
+      "title_ko": "사우디 주도 연합군, 예멘 후티 반군이 남부 지역으로 발사한 탄도미사일 요격 및 파괴",
+      "url": "https://t.me/marketfeed/1086618",
+      "ts": 1795858179
     }
   ]
 }
