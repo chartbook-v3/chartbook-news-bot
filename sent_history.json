@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795833531,
+  "updated_at": 1795833689,
   "id_hashes": [
-    "78bb727e7d6b112dc036283706a02e2053d69d9f6109577f58a09dce58f20c43",
-    "1c80ec9a901a344902a2ce2821ffb75bca14fd2701f75aec6c3be69c104d65e6",
-    "484c7e6bf2ad9f2b61f9a3e4a3c9ca151553242906316f90cc5d8cd598d1e927",
     "d5f73ba4b22ba402ec2e200bcc972cc8e4dfc011e0b0d5fdc8a46b6f889fe9fb",
     "ad5abc902fbb9ab08023534ceb06d6cae5c457f0f551532b966eff1b8fef8e71",
     "da51d0c25438914313d28f143681d3ececed1aa5dec76c0a445517250b0497fd",
@@ -4000,12 +3997,12 @@
     "f3e9a5a7df921cbb7040eb495200223c88b90d6a834c3cd3c589beb71c0b3fdb",
     "243a84650c804da3e3774dc0a2412f62e93ac4fe0aa66e5506588bdf162a96db",
     "a76cb7d13f17aa9e38a9f966616555f3d0d2ef4a07de3dcfad8668ce35008637",
-    "e4ac8ee590399577deb8f2c7c42127323249461b34a2c3db8349467651d468c3"
+    "e4ac8ee590399577deb8f2c7c42127323249461b34a2c3db8349467651d468c3",
+    "4b1ef90692a801cb5900013c6ffaa67b60cd105d1bdb1b862e02e59d2005ae00",
+    "73c57d388344dd141ecb894e9b7656ef2895349624ff3a56e72af620c5047f0c",
+    "f2480b00824e79563a04b00c5479f5fcf79a39ec4e1101d11a9622e27387fdc5"
   ],
   "title_hashes": [
-    "f743ac6968c46fef121439b1782fd222db98c9f92e19253fdfca0c3a1e05273c",
-    "ec0c957ed24fc9308824689ad28434922991c95406bef226b282a285fae5b6a0",
-    "9f840f063602cd2d94f666b20cbaa3e7a79c508be42aba28458f368d038bed4e",
     "e00e8cdb62e396693ef3189f2717f59a66d1e349b3ba9d7eee7c878f86bfe53b",
     "765680d473c0c88fdd57748cc5b85e16fe2ebdbf31524a6f0180aa1bdba5187f",
     "69a36854ac5de78e4e82a54c21558dad1362edbd803eb8f288167ab6ca08e47d",
@@ -8002,16 +7999,12 @@
     "3848989f7fcaf21f3add1c9a78f158bb01b0ba1eed9252341e4e690777713d05",
     "b759390984dd24a260a040932e499c11d2fe49caa88968e736ae82ee4863e23a",
     "d30e78a6d52f1d93718d9e68db93b8e7ceb0d202ebee5f468f76d2c8a606f77b",
-    "68e3c1e926b26df08726a33aa6fcf81f260bbdc6efb4ef18c93e2fcb5ffe27c5"
+    "68e3c1e926b26df08726a33aa6fcf81f260bbdc6efb4ef18c93e2fcb5ffe27c5",
+    "4b1c50991ef5f41bc65f80eb0679d4ed915d91bc818d431cb9378b7a24d0c0ee",
+    "4b7085fd2518458760ffcbb18c631c6120e063ec00b9644f8a072933862b8aed",
+    "d6b775500c61f9e4033588fe3ab177cead7503ba7def0c8946bd426958e19f05"
   ],
   "recent_sent_articles": [
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "금리 인상에 롯데리츠 목표가 14% 하향…\"호텔 임대수익이 방어\"",
-      "title_ko": "금리 인상에 롯데리츠 목표가 14% 하향…\"호텔 임대수익이 방어\"",
-      "url": "https://www.fnnews.com/news/202611270845236883",
-      "ts": 1795737421
-    },
     {
       "source": "MarketFeed",
       "title_en": "TRUMP SAYS HE SPOKE WITH NATO'S RUTTE ABOUT U.S. FORCE POSTURE IN EUROPE",
@@ -11504,6 +11497,13 @@
       "title_ko": "S&P \"프랑스, 2027년 대선 이후에도 정치적 분열 지속으로 정책 추진력 약화 전망\"",
       "url": "https://t.me/marketfeed/1086530",
       "ts": 1795833324
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "加拿大首份林业战略将美国关税列为关键挑战",
+      "title_ko": "캐나다 첫 임업 전략, 미국 관세를 핵심 도전 과제로 지목",
+      "url": "https://wallstreetcn.com/livenews/3207309",
+      "ts": 1795833688
     }
   ]
 }
