@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795841566,
+  "updated_at": 1795841724,
   "id_hashes": [
-    "8b97335c5825ae53fe77b0585caef4dc95c815881ff63e9b4869514bd684ef1a",
-    "4c68185abd02b4395a9ccadd00b1ebf2b72492de69aed4933f7875a184ace218",
-    "623ed08861845b511f62063741cb78e8783bde2352ba3b411c6ec928524c64b6",
     "cd3204a3d2fac907cdb962c7ff69e4f54b6f308d69469030d445c6206530a164",
     "95f945a4feb9a22dc07af789df6421bbd4abfe038a111112be602028a4d0b42c",
     "22dd100f9ef73b62550db51bf23faf6b20242a05f419f46941c86e299742f5e0",
@@ -4000,12 +3997,12 @@
     "9b08251cbb7e3db01213751376c50d76d96d9e47e6163c8cd54891f80430b242",
     "93938de59b8490ed44dc0e23fcec862296b2bdf832c0197b6fba93143a905eb3",
     "871864268148ba125b440022a0ab548e8c20d37f58c3d2f4629dc1ef8875c5bb",
-    "c782bc3980e3fc1903d83fd29b49b34fc3896666d57a33eeac7e5e56553b7c50"
+    "c782bc3980e3fc1903d83fd29b49b34fc3896666d57a33eeac7e5e56553b7c50",
+    "d3ca01e69ed8854e2f71478ac58e51639cf6917e76d5c1bc763ca767ecface61",
+    "0af7702557c37b545702e2c49651ff4bae066a6a4439dc2f7557d3f9bdb11295",
+    "5b36f33cbffbba8d49d74526e88b8a74cd36310a73d23a56bff7338a0f86291b"
   ],
   "title_hashes": [
-    "bc32cd2bfa1ef523a400a03ea7ae9e194085cf2e2bb4124f73ae02c88327b742",
-    "65e2578dc8b4668725377477b4b3093b47e792b5cd230fac47cb3e238fd867eb",
-    "b9e69439d239cddb192dbf1e9a6a0c4ff9ff47161574a99d30a617be2a33023a",
     "99f0ad863151f6d6bcda15083be89534db4c710f9099c49995977d943b748776",
     "66ded5e97363a31f2d80f7783c21d92f2cc43899f1ff7c4cad5737a91e5f84ba",
     "59587ee90e665b1dd819fa970104e1cdcfa3824fc4969edeb8ceb1f0b279d00d",
@@ -8002,16 +7999,12 @@
     "cf1b86f7b08b228a9e2fccfb442685952f8abfc2b655b7fa23b2a4e56bae156c",
     "2858c327efa7b778209df5fe2ee494ec3cee748bf640dbf2ec273d1ee072ddca",
     "36be8b4488e6572566846d618118484f4a0079e0bb6f77353eb81a947d599b58",
-    "74b09844285801fe7ce1fcf2768810532f138c620fb75ff9c6eac3b6910a0485"
+    "74b09844285801fe7ce1fcf2768810532f138c620fb75ff9c6eac3b6910a0485",
+    "f4545513c581e77fa03cbfaad27e6571f117d65683b6c09de347d7356bffd7a5",
+    "9a450e2a214b89612aebc854e7b6f92d0d466a854ac6a15ffb4a8969f172ede9",
+    "b6b1d25f52ed963357e53a4cdf502f2aa5a3d7d5d5fb2925c93c9ef2002ffba7"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "조직개편·공공기관 지정 피한 금감원…검사·제재 '대수술'(종합)",
-      "title_ko": "조직개편·공공기관 지정 피한 금감원…검사·제재 '대수술'(종합)",
-      "url": "https://www.news1.kr/finance/general-finance/6367606",
-      "ts": 1795739511
-    },
     {
       "source": "뉴스1",
       "title_en": "키움證 \"펄어비스, 내년 신작 공백에 실적 감소…목표가 37.7%↓\"",
@@ -11504,6 +11497,13 @@
       "title_ko": "최동수: 1월부터 10월까지 자동차 산업의 이윤폭은 3.2%, 매출은 1.9% 증가, 비용은 3.2% 증가, 이윤은 26% 감소",
       "url": "https://wallstreetcn.com/livenews/3207318",
       "ts": 1795841116
+    },
+    {
+      "source": "핀포인트뉴스",
+      "title_en": "미 방산주 랠리 심상치 않다…한화에어로스페이스·LIG넥스원 주가 향방은?",
+      "title_ko": "미 방산주 랠리 심상치 않다…한화에어로스페이스·LIG넥스원 주가 향방은?",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509138",
+      "ts": 1795841723
     }
   ]
 }
