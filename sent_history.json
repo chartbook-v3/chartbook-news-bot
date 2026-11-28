@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795831867,
+  "updated_at": 1795832015,
   "id_hashes": [
-    "3d4b644299e901f46a40097d7b00ffd4973591b0ab520a0877e0c10b0263ba18",
-    "3c3599a3d99afc2729c8cb5198d6d16b662b0890277f4b6d0201dd3597f65d34",
     "c76871e81c28e48d422b889a343c148fe918612cc167d7ccb5a031ef8e4088a7",
     "d6b44e17def2d3f035b0a76791c439faf79d21f30e5b6a96233356cc9ad8f564",
     "ba25d29763bd6dff2ee91975983bb0018f458a41170f25dc4585bf1b570d3921",
@@ -4000,11 +3998,11 @@
     "fe7e975658e2283255bfb5498173de388c78bd67309ff9e0dcaf64a7849cddae",
     "5ad69e9f5e9fe70d4908bdcf30bfdb27dcb90a84aecd856f048b315171ef2213",
     "c89a19c16cf5da90b3608109107704a10b94cf9e5787f9e988dd9456cb5d4cfb",
-    "592fd787874f985399dd366df8d5e26c3101fd1846fcb83ac48111bc9b4d5725"
+    "592fd787874f985399dd366df8d5e26c3101fd1846fcb83ac48111bc9b4d5725",
+    "a1bb1f47dcc55b317b96a6b74879ba56d872f55c5f909638e5e9df68c10bdf75",
+    "e7253a2ece198875c73ac7b1ac34888cc0e37cec57b2762c02ea8f59f6c33d18"
   ],
   "title_hashes": [
-    "5c1d67fa5de4bc280c7c333bbd043d9d5792f72b30500d67dbe26e2bde9dc749",
-    "243cda11328723df1de04492e68cc1628130d84d945c627296b67ef539734d24",
     "aee8a94cfb4c1a92d99a12b4cd407fc0555ebfb50a79d92394fda72ea9c59eff",
     "8d8782c232ca9cf91789e6f605665bcb15209609479f20b8952d437889c41a3e",
     "ee975aa1af6c11e4b7ee2c7c680348f7629f650fbf761bb0497346482c10c8b6",
@@ -8002,16 +8000,11 @@
     "cc848ca904aeb7f457e188e88aeacd1cb05e2d3bb4c27754bbc3cf08f5c2cc9a",
     "50cb6a5fe6d02fe20591d36d7808763ff798f878471be849e2c3c4da7435d72d",
     "5a03c91fd863040a79107cfa17b4835ac4d0a07484048e8e2e3c072e78039188",
-    "2da54ad7360230aa34af10b0da0ecace397ee6eb79ed96b80458a3949e7f5b95"
+    "2da54ad7360230aa34af10b0da0ecace397ee6eb79ed96b80458a3949e7f5b95",
+    "6460d8847a80d7ea8bcccbcb74e676dde3b9fd4c520ccaf32110a30787085f20",
+    "7074f81eeb5db314dddd46161e2a37f7fa578d173902dbff31bb4ee251efee30"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "JAPAN WEEKLY ORDER FLOWS SHOWED JAPAN BOUGHT FOREIGN BONDS AT ¥423.5 BLN, AFTER SELLING -¥440.7 BLN PREVIOUSLY, AND SOLD FOREIGN STOCKS AT -¥350.8 BLN, AFTER BUYING ¥363.1 BLN. FOREIGN INVESTORS BOUGHT JAPANESE BONDS AT ¥208.5 BLN, DOWN FROM ¥650.1 BLN, AND SOLD JAPANESE STOCKS AT -¥571.6 BLN, AFTER -¥224.1 BLN PREVIOUSLY",
-      "title_ko": "일본의 주간 주문 흐름을 보면 일본은 이전에 - 440.7억 엔 매도 후 외국 채권을 423.5억 엔에 매입했고, 363.1억 엔 매입 후 외국 주식을 350.8억 엔에 매도한 것으로 나타났습니다. 외국인 투자자들은 이전에 650.10억 엔에서 208.5억 엔으로 감소한 208.5억 엔에 일본 채권을 매입했고, 이전에는 224.1억 엔에 일본 주식을 571.6억 엔에 매도",
-      "url": "https://t.me/marketfeed/1086049",
-      "ts": 1795737165
-    },
     {
       "source": "MarketFeed",
       "title_en": "TRUMP SAYS HE DOESN'T KNOW IF PUTIN WILL COME TO THE G20, ADDING THAT IF HE WANTED TO COME, HE CAN",
@@ -11504,6 +11497,13 @@
       "title_ko": "북한-러시아, 장관급 회담서 무역 및 과학기술 협력 강화 모색 (KCNA)",
       "url": "https://t.me/marketfeed/1086523",
       "ts": 1795831566
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "SOUTH AFRICA HAS AVOIDED FUEL SHORTAGES DESPITE HIGHER PRICES, UNLIKE SOME OTHER COUNTRIES, S&P SAYS",
+      "title_ko": "S&P \"남아공, 고유가에도 연료 부족 사태 피해… 타국과 대조적\"",
+      "url": "https://t.me/marketfeed/1086524",
+      "ts": 1795831952
     }
   ]
 }
