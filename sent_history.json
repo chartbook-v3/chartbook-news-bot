@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795864184,
+  "updated_at": 1795864334,
   "id_hashes": [
-    "315eca374102e19b0c17b18ff5c00a4fcfa18a4441f6e9033ada6744d30e24f0",
-    "12eeae3eeef97d7f5ae67a9269ba859d939a0a11da6ecb4430c044a89adf6c14",
-    "c33afbbec17f0d0301e29eb3baaa8ac3880bb27c6ac6d518436b166c468ea7eb",
-    "6be8813f89d18e1c244b3d094cad5de359a9422d6c8b74ec3804a97ada706528",
     "77f62dec7e7981e261ebb27112d9675551183160046f0bed87a4eafe8fb4cec5",
     "208468aced71577ce14663d329412a5c06b8adad5ef48d035d62034d3ce78715",
     "a48313b265d0176d209f185dddf685f44783ac5c07ca7e9f17bc7908ad21ce2e",
@@ -4000,14 +3996,13 @@
     "0190bdcaa4befe8fd86bb3ce33e9ec82fbd7484e66b55c6eb1bf7f47e63f5f20",
     "ab7bc9fc910625d9ac62dfb927b6103551d9509f60dc4b631c43733ab888c829",
     "cd93eff4af14006204031d38733b061e1230aefe7fe2b4a2d040cc982c7983eb",
-    "ad506ec014d32b443de73df319207031e51cf7248d275ac68dbc9f63dd6a6d42"
+    "ad506ec014d32b443de73df319207031e51cf7248d275ac68dbc9f63dd6a6d42",
+    "7a909d724923f8f4b636c71609a44e4257be6bf157c9ae6f1fd1634923067841",
+    "3db243bb8eba60e1066743b4d36bd1303ab6f09013e0d8488ab48baf00b9ff59",
+    "c9ceb9baa0a722ea1f0759c5f2ee0e6d2d17c368f21ac68db2d9dd5452227f93",
+    "57126d916f042fc97cb88be99151a0c41004a7a67e941a7925b7db9da370b618"
   ],
   "title_hashes": [
-    "f98738756a5cb7715ec62fa69180b9b3f452684b9d84403dce5b39cc6e1647a4",
-    "493a075e3d05f90895bc4d6548f63bd3ac6484386c19ffdc9ad928e1ecc3865f",
-    "ea71388f92928573e8812073ec65f93e44597fd5619522787bbe0e7ea99b8458",
-    "d16d9d5757c53bcf41937b4d2a91b2f3cf792b63d610bad0aa496e7891a1d23a",
-    "d9bf9b22a5a6168992b3f069b22d45c0121723993c608dfee46c0d3cdaaca27f",
     "4c99a1c03087cc287846238ad5e1957be44b9720ddfa8a0ca40ef3e8e7c0affa",
     "10da12ad635a8d32788ba542b73b6c49f58e63c0e06de9187821a4a246c5f57a",
     "785acf8ad0270b929ebbc97dc55f2d3df6bd9b10cbeb69798d8e4e22007c74bf",
@@ -8002,16 +7997,14 @@
     "a1e7a178d1822e16dabe56075be63c109122a554131d72997631b03791a57030",
     "e21f126f4e4e475e6a61fb3c2e89438b8864808dab31096f7afe26b32eb7774d",
     "22679be31533b7a6977911428630dbda4b25225bda13e50717543491d9e247d2",
-    "831c243077d7534910c93b63e3393307ad6b5c886fa812663e504c61998b4136"
+    "831c243077d7534910c93b63e3393307ad6b5c886fa812663e504c61998b4136",
+    "4d4af0c89c9341cb7379aa2ec878e86e01edef9ee5f8600293bc4e7374316d0c",
+    "9add93547fd08747533a7444fe59f30b94177bd5df47c60a785066b3721c5125",
+    "68fb7b4947344b54e34034562c4eae24677ddef70fe958a87bd390a8d25e7a22",
+    "abf253c6207029468a7a740264ef09f85a58e13c2acc0997f52f39edebf27b26",
+    "0b22521c8aacbe452c14b0bf587b56668fbc5f1aa7c6b590721c8722c13e3436"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "CSI GOLD MINERS INDEX SIGNALS 4% JUMP AT MARKET OPEN IN CHINA",
-      "title_ko": "CSI 금 채굴자 지수, 중국 시장 개장에서 4% 상승 신호",
-      "url": "https://t.me/marketfeed/1086088",
-      "ts": 1795742846
-    },
     {
       "source": "연합인포맥스",
       "title_en": "[엔비디아 순환금융①] 황 복귀에도 신용시장 경계…철도·닷컴의 교훈",
@@ -11504,6 +11497,13 @@
       "title_ko": "머스크, 엔비디아 주가 올리나…GPU 구매 대폭 확대 [김기혁의 테슬라월드]",
       "url": "https://www.sedaily.com/article/20120025",
       "ts": 1795863974
+    },
+    {
+      "source": "Wccftech",
+      "title_en": "Intel Razor Lake-S Reportedly Includes A 12 P-Core Chip With No E-Cores And 120 MB bLLC Cache, Alongside A 28-Core Variant With 144 MB",
+      "title_ko": "인텔 레이저 레이크-S, 12 P코어(E코어 미탑재)·120MB bLLC 캐시 및 28코어·144MB 캐시 모델 포함 전망",
+      "url": "https://wccftech.com/intel-razor-lake-s-could-pack-a-12-p-core-only-chip-with-120-mb-of-bllc/",
+      "ts": 1795864333
     }
   ]
 }
