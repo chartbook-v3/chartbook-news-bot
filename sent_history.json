@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795839610,
+  "updated_at": 1795839758,
   "id_hashes": [
-    "c178b14751de575e39c9a3ff8feb4695c5d081fec9c59e0756949e0b80efe9ef",
-    "1e78b1b3cbc031e6b41f1302ab099b7ef5e718b2ea0f971e81a2caae77b6680a",
     "b063ad2709b7904bca6fd458b6e04085c73246fdb35f3ccc91dbe83ce1887b4e",
     "0790068c09716e49baffef8e3a9cb7b7ab528943493145a8bb0f134bd21c2dd1",
     "2598c9d99cdbb547f1bfe7b449431c9935b90f1c5a6434c6c93943779a46d490",
@@ -4000,11 +3998,11 @@
     "c7642a601e4da30c59b22548f60e508b07f8982f48ce496b10ddabac69747f89",
     "047baf210696a8fe8625993138752fe663198ef9cc3fd5d3b745ce8df5dc5a5f",
     "c508fa15caf1a6a0caa1ac4a7caf466708765660c33ef8d8d3de20b8d735f593",
-    "6f9d5aa50b31f200a2ac1555c048e84680843b50637d8bb987a7970f2930b858"
+    "6f9d5aa50b31f200a2ac1555c048e84680843b50637d8bb987a7970f2930b858",
+    "da6c06bab72a9b05951fd68f08cf94ff0f4007c336884a0f908ca58319d35cb3",
+    "0678c716ef44117b244c62761e763e2c8251dbca4b4d8a3179c1150b00713761"
   ],
   "title_hashes": [
-    "29a15ffc7a370a0df9d3b2422a9a3342f8d7b031cc1f7711caa3f2096007703e",
-    "7a19cb09b1152182f4bbeee881f626c903a78b8e451538a63eebad4e6779d06e",
     "e5222fc4e44cf6464218b33faa956eefbf314cc15a51f4bd92c55fa88676559a",
     "5f27bcc3a1c6581a5d0d234ef6edeecce21aabedc1718ddc707ed850bb108fd3",
     "b5db5ad18bb3d4f5cb52922ad8d426a4c26524d359266d021e44d5abbd11568f",
@@ -8002,23 +8000,11 @@
     "9e362d4e643e4b7087260953fd7f44238bdd4014e79f29a22832072f8a478a33",
     "66f61a0100663a33e086335e8544a1c39cfc98a219a94c03a89b32ad0139ba16",
     "024e35a0a3ff8576c9e33c0e5c839bbf4b6ff93434cbf819fab1816f42239582",
-    "b4777c378a71e9494e3ca7f772d53717d03b3add09b180153235ebe32095d89a"
+    "b4777c378a71e9494e3ca7f772d53717d03b3add09b180153235ebe32095d89a",
+    "852c6c81368eaa8a0ff9508270ff42ddef938018eff91f2dd19de8f942c1fbe2",
+    "b4c84680714f797bbc8621238d80eb1421212f258239264060350910fb5ca0b5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "StreetInsider",
-      "title_en": "Trump says Wednesday's market had him briefly 'concerned' before stocks recovered",
-      "title_ko": "트럼프는 수요일 시장이 주가가 회복되기 전에 잠시 '우려'했다고 전해",
-      "url": "https://www.streetinsider.com/Reuters/Trump+says+Wednesdays+market+had+him+briefly+concerned+before+stocks+recovered/27404883.html",
-      "ts": 1795739327
-    },
-    {
-      "source": "뉴스1",
-      "title_en": "경제지표 불리하면 통계 탓?…트럼프, GDP 발표에도 조작 의혹",
-      "title_ko": "경제지표 불리하면 통계 탓?…트럼프, GDP 발표에도 조작 의혹",
-      "url": "https://www.news1.kr/world/usa-canada/6367819",
-      "ts": 1795739352
-    },
     {
       "source": "연합뉴스",
       "title_en": "[특징주] 방산주, 사우디 정유시설 공격 소식에 장 초반 강세",
@@ -11504,6 +11490,20 @@
       "title_ko": "미국인 주식 시장 노출도, 변동성 장세 속 역대 최고치 기록",
       "url": "https://t.me/marketfeed/1086561",
       "ts": 1795839484
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "EUROPEAN FINANCIAL COMPANIES LOOK TO INCREASE THEIR PRESENCE IN HONG KONG, TREASURY CHIEF SAYS - SCMP",
+      "title_ko": "유럽 금융사들, 홍콩 내 입지 확대 추진 - 홍콩 재무장관 밝혀",
+      "url": "https://t.me/marketfeed/1086562",
+      "ts": 1795839695
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "이재명 대통령 'AI데이터센터 착공식 축사'",
+      "title_ko": "이재명 대통령 'AI데이터센터 착공식 축사'",
+      "url": "https://www.news1.kr/photos/8237482",
+      "ts": 1795839757
     }
   ]
 }
