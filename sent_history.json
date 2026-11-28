@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795844509,
+  "updated_at": 1795844654,
   "id_hashes": [
-    "c50103ecbf672f7f662c6f64951bd51b7c1c7a5837b491938402c99c3ccd1b82",
-    "8c789353ccd5cfaceca1dc88c3f87f59389961b109c5fd85ba8f6b3231a2a225",
-    "0603bd4fe4ee94c7db9abff6698babb343feeb27400418942018e1fb25a35167",
-    "96381fb4d156c6ebc074805b7e4733722b056c22f2b10c159edb34085ada86cc",
-    "9eef65ec5e6acd2075183735f755e67d7f981169afa899e576d2c79c4fddda20",
-    "399f08580ee09ab13c696d72420d4f9aec3ea24fa09847cad1736b9ef4f36133",
     "8b4b7b38c8ac976b9003dd34b9e2a9b493d9bd0eff2f596cce6bb7ef1c63777c",
     "919664029fb579d59c1096687396794bbb5febebc546cbaa988b56906ab341a1",
     "b428390aa5e3148f32cd2efd9a2a7d4e45f5bab4f3bfee959216a9b981082d6d",
@@ -4000,15 +3994,15 @@
     "bb94fd0777d509ed47ff9e27f744d8e9ad769f38a26f724ae1294288c63e837d",
     "4b44c34c8fd9d371b1bbf3e01eab73dac72ef5541ffea8a5e8f4f3f858b16022",
     "61508261334a26fabbb1085029a03478e045744685681c4464dba683189781a3",
-    "22d48fc59c54bfe5d5f17a5ddb0a03026bdafe6133af53ce963737f0c4b05202"
+    "22d48fc59c54bfe5d5f17a5ddb0a03026bdafe6133af53ce963737f0c4b05202",
+    "83d63c3e678d61e0af6ff605293cd374eb050b90f31b932b1c4716169e7c9fd3",
+    "7cde41b3abd9a6003720cb2d5a42af4baf8961fa593e3d7f254e42baeb8b3e38",
+    "27f36b5a42f71c89fa8d1075fa24e9070507e9d78b2ee5f36c370e7e2ba0900a",
+    "b049205d73cf5a9d88a0915ac5588b8a843df25878daf7641f28bfaefecab095",
+    "3a7e862af0ca6955b53c5a546c4ab2968fba2e67e06a3375a8bc187f3d5c714c",
+    "09ee0faf81c424cf8ba5447f2c5c808ae6d8637a2f576a708278950d3a3bf7a6"
   ],
   "title_hashes": [
-    "13fb94df33b3769a14a5fa171b76d47d95d4862972ab0a42ce968e69f02d3b9f",
-    "65a4007a98b8adf60ef09ce14c297178d1f2cc4e4958e16a6430823ea61b3f95",
-    "85009f1823f9d1181863c0ba4d2a78602b359cc9a685e371229ce3f728196ba7",
-    "4e27e3f21b024f1074bbbe6862482dc14ac9a72927a33212cdaaa4d88a90e125",
-    "9bee6e4f19f871e0bb13c1ac2f150be484a62a2bd240cf3683c7b0b7b6ac8cac",
-    "94bebd97ad90d5d40f2e8967f13b9b99d88f24a9573e21225a81c15051fb3efe",
     "d53ae152a02c03d732889da7e29bbf36cfc6eb23306e2dfbf6bbe9bd202440fa",
     "395aabfb7e7950dbaaf2a666dc27ad833fbed6a3ecb99f5622393c95987d8496",
     "9dd7a49bf3bc7357ba3f8abc15d694ea239062c584588755cad789748eededc9",
@@ -8002,16 +7996,15 @@
     "1a4ff4d67ecc826be6ac202b342bb7c9a568f8c6e8b9b621e17dc801903ea40f",
     "3421d2c3441b8f3b5e814ab338571e2cab6a8042e9340b1769cdb55fca31ee1f",
     "683b8a4ca520870790e2835969e382f280f9630ff196dd97eecae637413f045f",
-    "0dcd16b66e9eeb630c3ac3856ce5f5890c79d6ea56355c1888ed152c0ac6835e"
+    "0dcd16b66e9eeb630c3ac3856ce5f5890c79d6ea56355c1888ed152c0ac6835e",
+    "481d31b989efc60b22b74d016845b2478f7a7ef06b7d24a7dd3f9e73a8be76e7",
+    "95e944cae79e3b112186d2fa5542ed651c50c2dc649ed9e3f77d04d60a44ce84",
+    "320caf09a4b00a7d3edb2c0e32f99cf9856f76b82292ca4b0d10e6a9ddf2c388",
+    "76e3c2d977139d68829431f7f0a0781acefbb0c36bade5ecb1630d0de07faee9",
+    "cf485131d7abcfe0669fcd4adc61009c75db06ed98eede40f8260c955b9c5963",
+    "0ecb5997ba6b22991faa1294ca4a42679d39a62e5874bfa6635e21e7c170cedb"
   ],
   "recent_sent_articles": [
-    {
-      "source": "조선비즈",
-      "title_en": "[특징주] 삼성전자 휴머노이드 공개 기대감에…로봇주 上",
-      "title_ko": "[특징주] 삼성전자 휴머노이드 공개 기대감에…로봇주 上",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/27/6G4IVM443FCUZGHVCIBT3MRABA/",
-      "ts": 1795740421
-    },
     {
       "source": "뉴스웨이",
       "title_en": "한화시스템, 스페이스X 우주 데이터센터 구축 기대감에 강세",
@@ -11504,6 +11497,13 @@
       "title_ko": "텍사스주, 민주당 주지사 취임 앞두고 데이터센터 프로젝트 1800여 개 승인 절차 긴급 재개",
       "url": "https://wallstreetcn.com/livenews/3207322",
       "ts": 1795844238
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "PYONGYANG AND MOSCOW PLEDGE TO DEEPEN ECONOMIC COOPERATION ACROSS MULTIPLE SECTORS",
+      "title_ko": "북한·러시아, 다방면 경제 협력 강화 합의",
+      "url": "https://t.me/marketfeed/1086580",
+      "ts": 1795844592
     }
   ]
 }
