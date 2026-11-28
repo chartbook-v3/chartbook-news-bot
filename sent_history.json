@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795833239,
+  "updated_at": 1795833386,
   "id_hashes": [
-    "67547e42ab92de09c1afd045af24fbee5cfd20ef14201c946e171c443c04bf1b",
-    "887bb3223a472cdd90045a57150ab624247f4073a38f99d947f4500a1df65a46",
     "a22808b70d08814e45c815c699b5d49454dba9855a77eab36ea2b59a0af83d03",
     "abbbfa28eaea0fc215e7d9a2f94e9461b2b1ce180ff845a075703c2fd79eb99d",
     "88639fcf91405c2473e7421f313024840805ab83a3732ec7d06c02567d59e6f1",
@@ -4000,11 +3998,11 @@
     "e21946409b876fba593e6895b65bf75f5bbd1214ffbe899b1c10d55a158dd8ac",
     "30fa5c7b539988f054e7530ed20a4542153d463f9bd780af7a372b41c36889e7",
     "e114c2e90c450bfee6d5cc1b019a1430dcb2905f11e95fdb51276b7bb2334733",
-    "3a3cdb499e40045a95b71835b33be43141311284f6e1849ba8b9ced28936f5cc"
+    "3a3cdb499e40045a95b71835b33be43141311284f6e1849ba8b9ced28936f5cc",
+    "730da4b0aa89d27f37e63740eed9c7e4fcdea813631fd153b51d7c89eacffc62",
+    "f3e9a5a7df921cbb7040eb495200223c88b90d6a834c3cd3c589beb71c0b3fdb"
   ],
   "title_hashes": [
-    "71c96c0b0355dded289f9118b6cd712f39676c12eec65eb331ea7d354c403a2b",
-    "809fab3312deff3403e588aa5d68e9c2f402f97000f494cf2c1bba1d9bcc92f2",
     "e2d670271ad4a87f0a1cfbe9d2a45480732dcd586d5cff43e89b2496c4c05af7",
     "f743ac6968c46fef121439b1782fd222db98c9f92e19253fdfca0c3a1e05273c",
     "ec0c957ed24fc9308824689ad28434922991c95406bef226b282a285fae5b6a0",
@@ -8002,16 +8000,11 @@
     "9278a23f55c24dc681d8a6438929805cea270dd96f7f4c0445eac836ac4cf177",
     "badce01df5019bd0d8ab6a4e33e03858c13f93353824b1efdc9b6882c9540e09",
     "573ad76369b4e6e5fdbaae515dcbacc2ef4f224268e2818c08a4b9d75784f629",
-    "3848989f7fcaf21f3add1c9a78f158bb01b0ba1eed9252341e4e690777713d05"
+    "3848989f7fcaf21f3add1c9a78f158bb01b0ba1eed9252341e4e690777713d05",
+    "b759390984dd24a260a040932e499c11d2fe49caa88968e736ae82ee4863e23a",
+    "d30e78a6d52f1d93718d9e68db93b8e7ceb0d202ebee5f468f76d2c8a606f77b"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "Tokyo Inflation Accelerates, Backing Case for BOJ Rate Hike",
-      "title_ko": "도쿄 인플레이션 가속화, BOJ 금리 인상 뒷받침",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-26/tokyo-inflation-accelerates-keeping-boj-wary-of-price-pressure",
-      "ts": 1795737419
-    },
     {
       "source": "파이낸셜뉴스",
       "title_en": "금리 인상에 롯데리츠 목표가 14% 하향…\"호텔 임대수익이 방어\"",
@@ -11504,6 +11497,13 @@
       "title_ko": "머스크 \"Grok 봇, 완벽한 기업 시스템 구축 지원 목표\"",
       "url": "https://wallstreetcn.com/livenews/3207307",
       "ts": 1795832939
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "FRANCE COULD FACE CONTINUED POLITICAL DIVISIONS BEYOND 2027 ELECTION, CONSTRAINING GOVERNMENT POLICY, S&P WARNS",
+      "title_ko": "S&P \"프랑스, 2027년 대선 이후에도 정치적 분열 지속으로 정책 추진력 약화 전망\"",
+      "url": "https://t.me/marketfeed/1086530",
+      "ts": 1795833324
     }
   ]
 }
