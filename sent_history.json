@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795828806,
+  "updated_at": 1795828962,
   "id_hashes": [
-    "aaca8a2657ac5af5f0428cdf3eacad7595c00a4dbe59f5b1762198451df38d5a",
-    "8d96a482aca6696ea56661153c2b26c5921fdc77ac88256e3cba8693bdfbccca",
-    "edf0ff301ed3af99b8fd63c853562b83a81d26d735348192d4a7efaafde89b01",
-    "ec71271529527be93ed32cefa0608424ba52450cc17e4c2179faffc1e3648885",
-    "37c9ab258cdf6a9139fd6f7b2b3ac4967fbc214432c35d753da2756d79758bce",
-    "faf6c48b0fca99caa91869846d27e62ebd6b7b26e5f7bcd7c3ea65cb374a6a68",
-    "e6791a15436ea08f7963013986a7a740fa66d07d3f10429b09f278e9f63c6c7e",
     "53750d58ef2b3d7eea710751d05f474f28bd5fccd7b0738a06d94bbc5e411eb2",
     "eeba0652f2edef9ae87372c4efddb81b0b59d1f3f0adaab562467d3747564b2a",
     "098597875aa1a59e4a0e27429260f2006b1074fffb50b4e2f075a62f1c3666b2",
@@ -4000,16 +3993,16 @@
     "ac93b39622ec42ea3a93d360299b73fbd96c9851bf4149d5580afc030213f037",
     "ec894c31d8d4e51079887633588d16d7f7212cfdda0073ea34e33153618fcc3a",
     "0046cabec45fa27a41749e810e771feb81305f27d8899741bd7f9c930d1dbcf6",
-    "d340196aafac0235dde732bd659d5ba614e581255c4d5cb548f094aab815938e"
+    "d340196aafac0235dde732bd659d5ba614e581255c4d5cb548f094aab815938e",
+    "bba85a2f8a99f8c0cb8a1d0ffc42940ffdc3e7a16b8c31685c3c4dda0780f55f",
+    "1bf98d63fe7b8af8196f9a8d9641fce26e565a2ff6ffcfa5021d7519b7d30b0f",
+    "216f2879944ccefd57d1667ef09ae6619e244cde719508f844dd3e2387a498e9",
+    "53a90c98a4a003f1add9a9bfd5503c8407bf6af61dec4c268c31a0997125996b",
+    "7eba409191934860b9d1c1efc7339fa687d4c02fecc59c43816c93a3503f3cf4",
+    "40f05a87a239382c207b17364a2e076ea8ffde5c7b5c52994ab570bf99df580d",
+    "444fb44ecc61cd61661b5f20702fae4736931bc13e7b512ef496dff3d19782be"
   ],
   "title_hashes": [
-    "a7768f613cbbf35d0ed810d640c2e502221f67499aa04979c063e65f69da560b",
-    "8bb371e3538dabe70a01192703337433a5f4de1de2e960312997d7ba8f3d5573",
-    "fc8a36a67d963cdea3772d4154d62223d8f736835813f1821e79b3baac30b23f",
-    "ea092036c87587b57efff268d38e609161c6c2004109ccaa4bb841c3b4db6da2",
-    "dcd96fb2870da5767d4428b96338b5706d7fb620870c2d2c80c4f9f226f73e14",
-    "7105fb41ee78d694d86d76a9989d43f4fea320725eb0194152c3dbf8b18e4a59",
-    "f9873e1d710f25622d6f58518d77d5274f7807ca30c6b8a839dcd11815694382",
     "2972e58454d2fee36a42dfc54e21223acfe45bff87f8279bb0f0570aaec4432c",
     "fb141a3ea90ccea502f772f44165b5b921f985e154dd7bdb9fc4452420d31d28",
     "0d7549bf46238db344f352be9cbd4a549c088f065f7ca963168b78f89b7d72f0",
@@ -8002,23 +7995,16 @@
     "b6ae76cc2f8856be885ce3d4a5ce8f9e31e6bea272dc19f16b8f21d418152f1f",
     "d5bd7f3328665927f623bd1963ce103bdbb7237cc236c83c1ac25b46e9380953",
     "6370b19d09e98fba7677b583629f7eb29a7641051d877ad19731918d0bbbba17",
-    "83b8554f9663fced396b2f3bb75ce869d43258e6cd3102e50381a98980c11883"
+    "83b8554f9663fced396b2f3bb75ce869d43258e6cd3102e50381a98980c11883",
+    "43a1775a6b60e8a22dd303acb6aeb27620f428fa13adcde4470ccd25b153d53a",
+    "50221719167de9c46ea3cbba87df8790eef1dc1967666a683863e64f5c6244ed",
+    "fbc0e915a086007a525d09491cd6b74434d2ba6606351703ab68d18ab377ce4b",
+    "eb214fa2583dc57f4cc8f1e99ab2e6052f660706eb23a5d6a46b882daccd412c",
+    "bdeb9bad5101ec2adc2dfbc6e528635bc7d33bcaaf054ffa96c95c88f0ad9d50",
+    "c2215c973bb5432a07a5540c2e6ec3272e99e9509f2a94185fb200dd81923472",
+    "c50106b30fcf415267d810bcaf471a267887ede39ea7eb57eb039766e21b6cff"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "日本11月东京CPI(除生鲜食品及能源)同比 2.5%，预期 2.7%，前值 2.6%。",
-      "title_ko": "일본 11월 도쿄 CPI(신선식품 및 에너지 제외)는 전년동기대비 2.5%, 전망치 2.7%, 종전치 2.6%를 기록했다",
-      "url": "https://wallstreetcn.com/livenews/3206659",
-      "ts": 1795735824
-    },
-    {
-      "source": "FinancialJuice",
-      "title_en": "Tokyo CPI Overall Actual 2.8% (Forecast 3.1%, Previous 2.8%)",
-      "title_ko": "도쿄 CPI 전체 실제 2.8%(예측 3.1%, 이전 2.8%)",
-      "url": "https://www.financialjuice.com/News/9869830/Tokyo-CPI-Overall-Actual-28-Forecast-31-Previous-28.aspx?xy=rss",
-      "ts": 1795735880
-    },
     {
       "source": "MarketFeed",
       "title_en": "SAP SOFTWARE DEVELOPMENT HAS BEEN AFFECTED BY A SECURITY INCIDENT, WITH SAP IDENTIFYING SUSPICIOUS ACTIVITY AND SAYING THERE IS NO EVIDENCE OF CUSTOMER DATA ACCESS - HANDELSBLATT, CITING SOURCES",
@@ -11504,6 +11490,20 @@
       "title_ko": "스타링크, 전장의 게임체인저에서 안보의 복병으로 [김형자의 세상은 지금]",
       "url": "https://www.sisajournal.com/news/articleView.html?idxno=395165",
       "ts": 1795828209
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "박태성 北총리, 평양의사당서 러시아 장관 접견",
+      "title_ko": "박태성 北총리, 평양의사당서 러시아 장관 접견",
+      "url": "https://www.news1.kr/photos/8237388",
+      "ts": 1795828956
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "MEXICO'S WAGE STRATEGY FACES GROWING QUESTIONS OVER ITS LONG-TERM ECONOMIC IMPACT.",
+      "title_ko": "멕시코 임금 인상 전략, 장기적 경제 영향에 대한 의구심 확산",
+      "url": "https://t.me/marketfeed/1086497",
+      "ts": 1795828961
     }
   ]
 }
