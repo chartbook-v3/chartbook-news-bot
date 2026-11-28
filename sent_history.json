@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795837914,
+  "updated_at": 1795838062,
   "id_hashes": [
-    "2ea32c4083fce7c0e2ce8b7ec4cb6781355f28a667c7c0ce1d81149e10f5c9a7",
-    "8b1a4016538949cb5380532c5481bab5ee3c16307030ecd5cf2c71628e31ccab",
-    "ad70ec8bf359a5ae0ee4e3827fe06d2013e5857d89c56cd816ab17631dd0dc79",
     "ac395b1367ac0be03e087daa51b35e267550e04f62da12a9b6cd201d1726e6b6",
     "c2fd57299a47cf3889c5be2d4f4c99652abea96480ac0b060e4308c8b2fc0ee4",
     "067cc39721c7a2d293d692d474b95d5a33b8999c84d85f7b3d29686d5a7192c0",
@@ -4000,11 +3997,12 @@
     "3adda619bf622f813bbb721ce9a486d1b5053b7016e1d3d2aeccdf33c7c83632",
     "66c10fb965f89a04d2403c433c78a93f48d081dddac1b6d62d2d9c7daa40d2a4",
     "7a62742533db8ffcd1af7204250bd30c708eb0c420dc82fc70981626b6b39953",
-    "a6e9ecc161a54ef0669c3eb263c9a7e148338a03af1f48c7e4039656b7a966df"
+    "a6e9ecc161a54ef0669c3eb263c9a7e148338a03af1f48c7e4039656b7a966df",
+    "a6bd290a43dc052c93d40f59938714e47f10832dcb8692b1dfb32d8e91d785f8",
+    "95cf27520dfc5e6847f1e14c050a8a154e29fdb216651036badf44b30720cb78",
+    "7e1bdf0d95fa4798c8c51811a71e03493947b63735863a8e9d4ed13fdc64b81a"
   ],
   "title_hashes": [
-    "f30adba7917bdfa3838749063597077ac1e96a8333ad0def3bd54fa8b0ab24cb",
-    "298a86640b4e20a4e6c8ee71b7ee26f7dc75ff9dc2c18bae5ffc16073be8fa6b",
     "09656ef9d3750f61b752651e6743a5c4390fd515fa90815f44455b9aae957873",
     "50dcbff1c282d0432ba2d789a1b1c3dc05a7094c47452b6a3aba869ea4f61b0e",
     "778f4e430589956b174f5c36c5da65790771e49d14a312ab8417cc32e494fd10",
@@ -8002,23 +8000,11 @@
     "3a4a1bfaa55e8b0af691f49e008df4e177612a2ae5aa573bf1e80691695e49e3",
     "720ec86a6cf02064785a2e411ea98c255f4ad1d6f57ebdd04c8f509322a9b37a",
     "730198c03a3719cbed0b8c9d4628986868ee883ff02324c2cd3e20e252af2b76",
-    "42e5ef07b23b9453fe5447be31d301e132a627a0e22c7dc1b40dad89a94785ea"
+    "42e5ef07b23b9453fe5447be31d301e132a627a0e22c7dc1b40dad89a94785ea",
+    "f4722f24de1623c590ba9f220a2ece98db81063c44b6f98f0014dee49dc0d3ce",
+    "a04cee8eab4067cde00172def5a77d203e6efad3944f507185e710f858469377"
   ],
   "recent_sent_articles": [
-    {
-      "source": "아시아경제",
-      "title_en": "KAI, 국가품질경영대회서 7개 상 수상…품질 경쟁력 입증",
-      "title_ko": "KAI, 국가품질경영대회서 7개 상 수상…품질 경쟁력 입증",
-      "url": "https://www.asiae.co.kr/article/IT/2026112709104754558",
-      "ts": 1795738408
-    },
-    {
-      "source": "FT",
-      "title_en": "BURNHAM ALLY PUSHES FOR DEEPER BREXIT RESET, INSISTING EU DEAL MUST NOT SET THE UPPER LIMIT",
-      "title_ko": "번햄 앨리(Burnham Ally)는 더 깊은 브렉시트 재설정을 추진하며 EU 협정이 상한선을 설정해서는 안 된다고 주장합니다",
-      "url": "https://t.me/marketfeed/1086059",
-      "ts": 1795738412
-    },
     {
       "source": "MarketFeed",
       "title_en": "ASIA-PACIFIC EQUITIES POST MODEST OPENING GAINS AS TRADING RESUMES FOLLOWING THANKSGIVING HOLIDAY IN THE US",
@@ -11504,6 +11490,20 @@
       "title_ko": "트럼프, APEC 샌프란시스코 사진 재차 게시…일주일째 회상 모드",
       "url": "https://wallstreetcn.com/livenews/3207314",
       "ts": 1795837467
+    },
+    {
+      "source": "FT",
+      "title_en": "VERIZON EYES $6 BILLION FIDIUM DEAL TO BOOST BROADBAND COVERAGE",
+      "title_ko": "VERIZON EYES, 광대역 보장 범위 확대를 위해 60억 달러 규모의 FIDIUM 거래 체결",
+      "url": "https://t.me/marketfeed/1086551",
+      "ts": 1795837999
+    },
+    {
+      "source": "FT",
+      "title_en": "POTENTIAL VERIZON-FIDIUM TRANSACTION COULD BE FINALISED IN THE COMING WEEKS AT A VALUATION OF ABOUT $6 BILLION INCLUDING DEBT",
+      "title_ko": "잠재적인 VERIZON-FIDIUM 거래는 부채를 포함하여 약 60억 달러의 가치로 향후 몇 주 안에 마무리될 수 있어",
+      "url": "https://t.me/marketfeed/1086552",
+      "ts": 1795838007
     }
   ]
 }
