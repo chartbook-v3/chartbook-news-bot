@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795824892,
+  "updated_at": 1795825045,
   "id_hashes": [
-    "25df66084bbe25e0d2bc8111ff6383c05c2ce39b3978c2c2612e00df96a40c86",
-    "6fd1b1b706d92d6e6ad88218b1fb9d325db306b67fa77c51b40d1af77603952b",
-    "4e8fb2b6a77473c673c33de1da5806e1f66a5ea4b66be2ab8558a7e3b819cdca",
-    "8d9f7c2420d6271bf2c2fd51947a6dc71a525bba6b754be5c13b7c63de66f872",
-    "4a036f1531f323e1f1aceaf735ef06803fed2da4354101c480232ea587d0cf2c",
-    "78b1ae56e45dd4e0feb3c763d3032ad9bc031a575c268576c1feabee23704c6f",
-    "36b26cef81a5a0f63c3f8263521fb853905ce97e809c9302ce6e6f81f3f566e4",
     "7d93265df53ac11be24666c11fc50908615b1a95b874aa0eb57f6994e01e64c3",
     "61cd96599fbd4b2404ade136a6b5192f4d6d8b91813e838c8cd82ba05e4e42b4",
     "3c4502445a5d154d98d73e7f55445de6e93e91358c5742fe95c3a67b00bdbc6a",
@@ -4000,15 +3993,16 @@
     "37075aef606056ee466f0ffedc2aef3adc6dcb6b09de67f24b2e2b23d63face0",
     "9f4a0b33f33b9149030eee57ecfbb6b14b4a0962f568489f0c83f614465b9781",
     "33b45ce4a43b48df4c430bfe1f63dc7dae80d0c6c99aaa78251774d7b03591c4",
-    "8afbea9961ed773d5e65a8a38ca31f3f8040f09fedfc0853fd6da17e55f64de9"
+    "8afbea9961ed773d5e65a8a38ca31f3f8040f09fedfc0853fd6da17e55f64de9",
+    "3d6ff5c4c122edf714b6e12a36e39c6cf71e23af53af67f083085c0ebd020a13",
+    "218478e92b4cc8801548cb825a5707207ae0cf60b72937cbaccee6e0e01f4312",
+    "b7ecab076cc7c609e77a3ff7ceb6a73d4b7f9d54bd2f70d8d4ab20ab961d1971",
+    "fe8799053dd90fe51f938d1b9e6ee79b53ba6bdea744124edf0e68f01d8b0de7",
+    "50a2a7687b9b30177e46a08b90820e39f72714894560d881e2dbc679faeb11cf",
+    "2e43313fd87e62f7f12ac8c252fd0aadd5d3e9ca429729331f10997214edf053",
+    "79b05c2a524c909853ec40b6ae473a7f633783eafa8cabb88b229afc68323539"
   ],
   "title_hashes": [
-    "9e6090f1961c42750bfb908a459052ab52668f54102bab2b619bc74a93fd08e1",
-    "35bde3b8cd2489eee6932f208af63307e334f4746d6928879a24a814a76d12b8",
-    "0d088dcdbae4f4bb57deeaff166d959f118142a83548258192fbb2ba77b975e5",
-    "051c30f6023c8d276a77621c16f206730e92c6468ef771c01862319f511e543c",
-    "8d3f6400600c4747f14ac0345286877dcfad383dc36be57f57a44b9953d57a88",
-    "3ccead49d2a5ba6736841c4d4baba91edfa2a62f855e8b374ba661d5fb105fe2",
     "3a898ac970d87353b51fb418507c780d2079009e01057af00990d5a48e03d4ff",
     "11a4fba1de302ebe0a06a4a5c24542f5cb35495c9ba7ca3bc6ec54854a3a52db",
     "07e6f7d058823272a23f9237c10bc68f44dbc3a460e5b90d370903986dc6c035",
@@ -8002,16 +7996,15 @@
     "de207e8bc12f6f470c5008f76f9fc899d69b64ed2ca2745465274e981c6227b0",
     "f223a339b69517932070eb9769fba3d95da48e4e974d441276d6f4b049d33a3b",
     "cab0f24ff52a386598c7306e58ef8f485c7c533758db85ac2653fd0585511c14",
-    "4add24af98a656c19144bda26978b7089cc76cdfa931a8c1f9835442b3b2bf8f"
+    "4add24af98a656c19144bda26978b7089cc76cdfa931a8c1f9835442b3b2bf8f",
+    "238991585107ed8a8378fc8b81d3839d57d6bb4137a277fd38812c9ed78c1d23",
+    "91efdc10265435ed43cc1ff78de199e5015069beda49b5498b9b41de737ba800",
+    "a3fbfad992712afbb0e8e33f035d43f467a546dfdee51234dbfd8527f7898548",
+    "879ed1c51613b6b323de55e61a09b0ba8e770002babc470ba6d9d4fd49ab97a2",
+    "df85bb654cde5f4519b2308da7c36e15b1df11bb400e5a8dc242c770621947fe",
+    "351b81966668d4d3c47c9974c657179bebc83300385580098884ee2a346a4fd2"
   ],
   "recent_sent_articles": [
-    {
-      "source": "한국경제",
-      "title_en": "큐리언트, 706억원 규모 유상증자 성공 … 구주주 청약률 106%",
-      "title_ko": "큐리언트, 706억원 규모 유상증자 성공 … 구주주 청약률 106%",
-      "url": "https://www.hankyung.com/article/202611273731i",
-      "ts": 1795735349
-    },
     {
       "source": "바이오스펙테이터",
       "title_en": "한미약품, 차세대 '마이오스타틴 저해제' 1상 \"내년 진입\"",
@@ -11504,6 +11497,13 @@
       "title_ko": "유카-레일리 무료 업그레이드, Xbox 버전 제외",
       "url": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
       "ts": 1795822353
+    },
+    {
+      "source": "Reuters",
+      "title_en": "Explainer: A million satellites? What SpaceX's Starmind could mean for Earth and space",
+      "title_ko": "설명: 위성 100만 개 시대? 스페이스X '스타마인드'가 지구와 우주에 미칠 영향은",
+      "url": "https://www.reuters.com/business/environment/million-satellites-what-spacexs-starmind-could-mean-earth-space-2026-11-27/",
+      "ts": 1795825044
     }
   ]
 }
