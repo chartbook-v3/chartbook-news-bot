@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795866158,
+  "updated_at": 1795866307,
   "id_hashes": [
-    "40fae659ca554f699909724dcd6f09a1c718063e889c3f94f3cfff6609e5acef",
-    "b75d1a54d75e4f12b83f8fe3c35e27ed9b5a6bf933bdbdf44a3c005800383335",
-    "0673ed9ef8fa6d33c4ea92a97e8063f0721aab6dc7f7b1bc94249edcdb2592c5",
-    "b3826421c4b28b88305d5158b40135dd324fc561d955cf3625b5b24d21d15628",
     "bcd5334974b9d100a8939ff357dbe026ed0d0db92ba1d11ca3b5d91a9a600241",
     "a7e91a9b8d29f1884e6da5ecebc6cb29c665becde44135e6e157215ffc8eed3d",
     "2d75fb5218b258864768898443710dee3cbe6440558ce882845a4a42a7bf442d",
@@ -4000,13 +3996,13 @@
     "2b9306700b59dcc64bf1d4843c32b92564583bf29dd8336cd76f525f30473516",
     "933effb44e31cecb197f5d89f285abc421adf24a2c1984ee45b70226dacf1bab",
     "a692e06583a7f6bb01929c1c4b388ada4224f147c38384acbf2628a80a1aac85",
-    "9a3ac9551885d5d7250ca5a2b285688f65a2f06b38202745dc970c9519fb0347"
+    "9a3ac9551885d5d7250ca5a2b285688f65a2f06b38202745dc970c9519fb0347",
+    "48868e86f45ad91bee2820177b0219d04ae7f5beac78d66f3d568ba824c3162b",
+    "056c24226a5b871e3a9c1d679c43d5fe2948c49bd074cbf0acce81a70784c0da",
+    "4c9f132cb4d90c669e079e328d2b9e1628f4980c9df2e3ddc0f6bee090196126",
+    "e4e78619b7f1fb4a2056ecebfc02a365edef8c3c0b32778272f55de321b03b22"
   ],
   "title_hashes": [
-    "b652de879a8f0d0abaff74a2fb11361228fd1c7811495a485a1887589dd9fbd1",
-    "d5cf87a300278e00b50db0ff0feb90fe9229d8f8f90fc30146abf3bf399e2bdf",
-    "e2b7f27f92c8dca9a905edbecd43f6618793ae466dabf187303a108e8285e9fe",
-    "48d7050b95085c19cb074bca87740fd25d2568a837db888dbf1dab7da531d939",
     "e55e6e5649b82c5b304a1b515705477e21c7348cdd2563e23c13e9db51a6299c",
     "41ac29fb68bb89fbb819cacabc2ee2fbccd59d2a35d73960c0615de4ed2cb9ec",
     "6ede710457b9ff226e5df69699cc1f26ee5ed138f827a2243a96e218591e98f8",
@@ -8002,16 +7998,13 @@
     "9c11dc33f1b4f0b77dfc2e5fc83f7fd1e9b6ed5c726fe6d9e4776619acab9e03",
     "018542346cc3fadd5e23a61ca6e7fdf1bcfb4559e07f782a920a3e2e056fa316",
     "1911b3d3f3e436574acf9fcd39db95cc9585ec10b597c8eaae0a9b1e1cbacce3",
-    "05f386f7058f41b26d641ed97c93705dfd0fa858028d018d64269f523230a626"
+    "05f386f7058f41b26d641ed97c93705dfd0fa858028d018d64269f523230a626",
+    "b8d29660fd89118ec452bac980f2e4db2ad0c50fbebedbc3a5d317bac425303e",
+    "658783a16b139bfcd0a58113e937aeaf467246643cb8c44a65d40a39bc828911",
+    "d3e95817c19d7ccf059610cc25a1e8b44d670b723a9392d17dbdb6721ad35f2a",
+    "748e410699b2319c6abbef07c97bab6f24f4038fb594dd0a02afc52b3e73468c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "조선비즈",
-      "title_en": "무신사, 3분기 영업이익 67% 증가…오프라인·해외 사업 호조",
-      "title_ko": "무신사, 3분기 영업이익 67% 증가…오프라인·해외 사업 호조",
-      "url": "https://biz.chosun.com/distribution/channel/2026/11/27/UN6U7XGBKNG25EXNRJVTDPV2QE/",
-      "ts": 1795743468
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "先进封装概念再度走强，三佳科技2连板，华海诚科、精智达、中科飞测、耐科装备、金海通涨超5%。",
@@ -11504,6 +11497,13 @@
       "title_ko": "건물 다 지었는데 \"공사 멈춰라\" 명령…날벼락 맞은 구글",
       "url": "https://www.hankyung.com/article/2026112862197",
       "ts": 1795865728
+    },
+    {
+      "source": "웹이코노미",
+      "title_en": "[KAI] 제24회 항공우주논문상 개최…국가품질경영대회 품질경쟁력 우수기업",
+      "title_ko": "[KAI] 제24회 항공우주논문상 개최…국가품질경영대회 품질경쟁력 우수기업",
+      "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2394920",
+      "ts": 1795866306
     }
   ]
 }
