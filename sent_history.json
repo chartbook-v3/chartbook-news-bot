@@ -1,7 +1,6 @@
 {
-  "updated_at": 1795847840,
+  "updated_at": 1795847989,
   "id_hashes": [
-    "55ca2bd69c46ab840fef11a1e18d59d7353886625e4d6739d5adf8b728c4e0e4",
     "57898b2e44bec810bee128771e07768195faedfab3c524a1f27d9c31a77e8456",
     "248fc61f061e3fd23efb34c1147341a2f8d17c5a9cf21d94a6db1459cf85a36d",
     "a4a7c795b527bd7f53ba30c197b469648b829ff1412fe0ae386fee10e61ba711",
@@ -4000,10 +3999,10 @@
     "dcd47bdfd8b8442b4d8b48513e5b9853337c41633fdcc37db2da711788b7adee",
     "f5670b755bfaca44e1a28a99fb466aca6c98739fd42ea2a1bd38a2212af9a0bb",
     "cbb929731096b1e2d743914fa971c4d19ba7b6e70eb2f50b8bf38a0b5960fa86",
-    "a42e93de15b3d1b134c05a42078ac564ec2293684e90cacc5aa7c56cc461cf6b"
+    "a42e93de15b3d1b134c05a42078ac564ec2293684e90cacc5aa7c56cc461cf6b",
+    "09e56cc0e925a91246c0a5fb4912614d0798aaedd5f50464f9b849df97d22ab6"
   ],
   "title_hashes": [
-    "c0733b4cfd2c099b16803111b4dc20b9419d9f70cea8cf2acb3119c1501b1220",
     "73aa1d9ec081792661a9479c40d3049320c5d3744d4f6a85ae72457ffd2a8ae9",
     "78e5df3a9036849a568778de95214034b4453180613f6313e92d0de61684271c",
     "ad55380c43084f30c02adddaee37e2e042d2455b848afd2bdd655d79da0f036c",
@@ -8002,16 +8001,10 @@
     "15497c7fc19b3d0ca2619956fe02618a76bf77511f5256cc3eadfa74c786743b",
     "4c7c9699cc76c494c7b4b9a9c5fb7f4cde5be91682cb5fbb992aadb5bf56324a",
     "4f6aefd0291f9883253b137d57ef5da7aaee28d855401325e952075c99da3e4a",
-    "7c6a22c10104d145aabe020d5c0ce09a257ea93c3527365ceda59950695c68a5"
+    "7c6a22c10104d145aabe020d5c0ce09a257ea93c3527365ceda59950695c68a5",
+    "a412093f12ff403c573519d0d89e4ea7709dc6b424bf465daa1b91416e7e4904"
   ],
   "recent_sent_articles": [
-    {
-      "source": "서울경제",
-      "title_en": "SK하이닉스 배당락 주의보…다음달 29일 배당 지급 [이런국장 저런주식]",
-      "title_ko": "SK하이닉스 배당락 주의보…다음달 29일 배당 지급 [이런국장 저런주식]",
-      "url": "https://www.sedaily.com/article/20119695",
-      "ts": 1795740756
-    },
     {
       "source": "서울경제",
       "title_en": "美, 삼전닉스 독주 견제…관세 25%·세제 축소 카드로 압박",
@@ -11504,6 +11497,13 @@
       "title_ko": "아프리카 최고 부호, 초대형 정유공장 IPO 추진 본격화",
       "url": "https://www.cnbc.com/2026/11/28/dangote-refinery-oil-ipo-nigeria-africa-energy.html",
       "ts": 1795847391
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "中集车辆东莞LTP中心A3机器人产线正式投产",
+      "title_ko": "중집차량 동관 LTP 센터 A3 로봇 생산라인 본격 가동",
+      "url": "https://wallstreetcn.com/livenews/3207328",
+      "ts": 1795847865
     }
   ]
 }
