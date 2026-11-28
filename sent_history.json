@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795835036,
+  "updated_at": 1795835184,
   "id_hashes": [
-    "9ecf80048d6edde26724bb3f041f020cd586e1651133f0174b05ed4eb7902cea",
-    "7d03557a4a83f9ab167bd43b176d244ec4adefc134bbd30469ecc27e00dbc065",
-    "74679fd7b12e85cd96243c0f59bd4561e3d92e1e7f84d73f38baace89ef8b8bf",
-    "9f307b3a47de3b6749da5c60b435b0aeda510aa3495389d1a3de2f0be6117dae",
     "8ef44510837e67ab095ad3d4e54283043255bd522a0a3dae1d96cdf212971701",
     "d7cf01eaf61c9d09b57d746010b197fcd5c3b34239074eff2b4c1d56be7aa38c",
     "73cc59ef0aae21b3d94c170425cef83373b3b4b8fa5c7ae507cba19f71469490",
@@ -4000,12 +3996,13 @@
     "f98230f16c0b01903c1a3c34b72b78bf8f46bfa32c164ef1aeb4960fdc308f5d",
     "76a5030d55b5de13298630ce4b68d50657e14b08e1c6cb91e1c37da450865af0",
     "529bf2b50682746a039331263bf281dd2365b1be92a8273ce2a71c2dbf930dba",
-    "5e6aa23d610ff2c27b8cad738398e8119be1ee6e4df214f28aaa51ce7c421a92"
+    "5e6aa23d610ff2c27b8cad738398e8119be1ee6e4df214f28aaa51ce7c421a92",
+    "2e19a85a05eff70a35d9048ef4dfb402460947b3e26bfc64d597593339d97163",
+    "b14407fd3afc9f3ccc9b53e130fc362571194e7ce34d7cfdd301460c1fd2e8d9",
+    "f7efdc575f6198fcefb53ccddd3034f05d2fea23f0bd34068ccb0627f481d5f7",
+    "565a95d9f2b212ee283e3a2d318d0ee84235737aa3c7d3032bc1ecef3448c151"
   ],
   "title_hashes": [
-    "4d0f91732e632efc373c9ebc414ba17710899218efaa221bf519d687a4e5fd64",
-    "1c5216296591cdf59a5a3e87ddf1b9d38b9c7439ed3321519e1fdb25482d0bef",
-    "c7c5152b812a22be5e04e44592cf664dc94e8f71c312bfa2115afe8280ad16e1",
     "bf70892bdbe12d41b9e5525767a047b41a6a049e37600e6041bc639fb0463065",
     "b2c63e466953db10eb41ef83f85e21732c77f80c532f80943ef729760a57db90",
     "5d3b20f2182456645519d4fae3a989d7cd790f1cee37cebb55566dd941a38a09",
@@ -8002,16 +7999,12 @@
     "e92bda55b7c0b508e3bc8d0ed6f32405dfa614f584a82a5cffddf171252f61cb",
     "42c102031cf05a571e9756dff22bf91ef8c2ef04cf3519193bd49dcdcc41fcff",
     "c9d2f88543c9b3197e0c5529507a4cc1e6beeda9c6e9122f70f2cf7088553a22",
-    "3453fc4f9fb1606cd67744609173a638ab3e223afc3b54c119ae3bcc2b470c6f"
+    "3453fc4f9fb1606cd67744609173a638ab3e223afc3b54c119ae3bcc2b470c6f",
+    "5fd3b9f7d3492a1ab0228707d55d08b9f847324fc27391e575caf77d3cb6f3ac",
+    "8cd157c9c248c6b88fe1ab4b0ca2f87e917b1c038395d35eb968e04eea555008",
+    "dfb3af3ca78002093eb2adc1d20a5dd2539b8a0698d158d9546c030963ef587c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "美国总统特朗普：还没跟黄仁勋谈，但可能以后会聊。\n\n特朗普谈黄仁勋之事：我为国家和世界做了件伟大的事。",
-      "title_ko": "트럼프 미국 대통령: 아직 황젠쉰과 통화한 적은 없지만 앞으로 그와 대화할 수도 있습니다. 트럼프는 Jen-Hsun Huang에 대해 다음과 같이 말합니다. 나는 국가와 세계를 위해 위대한 일을",
-      "url": "https://wallstreetcn.com/livenews/3206671",
-      "ts": 1795737579
-    },
     {
       "source": "매일경제",
       "title_en": "브랜드 501인수한 APR...증권가가 보는 적정인수가는? [오늘 나온 보고서]",
@@ -11504,6 +11497,13 @@
       "title_ko": "원자력 디지털 전환부터 자율 제조까지…제주서 AI 산업 적용 논의",
       "url": "https://www.news1.kr/local/jeju/6369077",
       "ts": 1795834765
+    },
+    {
+      "source": "연합뉴스",
+      "title_en": "아시아 최대 규모 동해 GS AI데이터센터 첫 삽…최대 120조원",
+      "title_ko": "아시아 최대 규모 동해 GS AI데이터센터 첫 삽…최대 120조원",
+      "url": "https://www.yna.co.kr/view/AKR20261128029800062",
+      "ts": 1795835121
     }
   ]
 }
