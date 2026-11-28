@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795829413,
+  "updated_at": 1795829564,
   "id_hashes": [
-    "820a60705d492e5821b8d915024830281c05aa29065e8eafa37e24e825d90b1c",
-    "ef972e748f70036067702313012520502840baf56618a6848e9eac5170287586",
     "361493c3ceeae8c539b839bf1a688365411643a1add3e56925331be761abfc27",
     "2f77992887871b527688e2af3d50960384cc01537eaaf17ea72156eda9d914fa",
     "2e1323775e3c6ccfe39a9e14c846ea88238442a5ff95440054ff24ccf129f06e",
@@ -4000,11 +3998,11 @@
     "70212d413a7fe29ba2e6ff5a4020cb9b094aff4612d10dee3aa2ccc2f7069640",
     "848cc6bb8d6e1eb73656d7603e40f1a4d34450014d5cf219adedfaaa7c7cf10b",
     "3abb8bbb025ed4fa4f68d981c1b72acf7470e5433efa0ca8b3cd3d48942d4cf9",
-    "e69e67af7d9cac68663ee28dd85caac5ae2f10fe61f97ae0574891e50cad905e"
+    "e69e67af7d9cac68663ee28dd85caac5ae2f10fe61f97ae0574891e50cad905e",
+    "cf3626e418fdae196dbacee060567f9311e0dc6d691375d37d51066317f90a93",
+    "6d8be9be6c190668be880524ab552afd2bde317286e0224ffdaa9c2c0591b2fc"
   ],
   "title_hashes": [
-    "ac85961ce16d5aa82d8ae7272a769d9fe698bb7403814e04df891e3eced61e53",
-    "3b25666f1c6bf8d4f93f337fd92f9066d67feec0565697048521107f5f830069",
     "0f9d21f43ea59430e33755c019184320a13802da1db9d91265500a99afb44f08",
     "0ed2473a97b50be91b3214befac23101c20865c3510e002a8ab128c08f859f4d",
     "347a9d7ffdd830a8280b79b10869621a0e031c62f8f2631ab71f7e9ecdefc0fc",
@@ -8002,16 +8000,11 @@
     "e82f71499636cf4f5a260fa0409473c47dff67a1214d23ee275ed44ee9694cec",
     "549842b48d817695d628126dfe3d3c9050d1427c99070432b4f5ac7a9836c4ae",
     "18deda692e2ebf9cb5ded5ec867ec03919471ac2b17c93439b994a8bfbc80fd3",
-    "35a798176e3af611170fdcd6cf5eb63924cf5045e131f5b974dbd1fb6a9aa377"
+    "35a798176e3af611170fdcd6cf5eb63924cf5045e131f5b974dbd1fb6a9aa377",
+    "7078f38ef96f78e63bb65991d51f556aa2e74d26ecd3fc2fd2bf1db989818294",
+    "eee3d7adbb69a65932a56b4d9d3f73c5d7b75e6bad3d313f69fe94e9307f73e9"
   ],
   "recent_sent_articles": [
-    {
-      "source": "한국경제",
-      "title_en": "오늘부터 풀리는 삼전닉스 배당금 44조원…증시 마중물 될까[오늘 아침 당신이 알아야 할 7가지]",
-      "title_ko": "오늘부터 풀리는 삼전닉스 배당금 44조원…증시 마중물 될까[오늘 아침 당신이 알아야 할 7가지]",
-      "url": "https://www.hankyung.com/article/202611273609i",
-      "ts": 1795736173
-    },
     {
       "source": "한국경제",
       "title_en": "\"한국가스공사, 해외 LNG로 이익·미수금 동반 급증…목표가↑\"-현대차",
@@ -11504,6 +11497,13 @@
       "title_ko": "미국 게이머 평균 연령 37세…전체 인구 67% 매주 게임 즐겨",
       "url": "https://t.me/marketfeed/1086498",
       "ts": 1795829117
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "CHINA’S LONG MARCH ROCKET SERIES JUST HIT ITS 682ND FLIGHT, SUCCESSFULLY SENDING THE YAOGAN-50 04 SATELLITE INTO ORBIT FRIDAY NIGHT FOR LAND SURVEYING, CROP ESTIMATION, AND DISASTER RELIEF.",
+      "title_ko": "중국의 LONG MARCH 로켓 시리즈가 682번째 비행을 시작하여 토지 측량, 작물 추정 및 재해 구호를 위해 금요일 밤 YAOGAN-50 04 위성을 궤도로 성공적으로 보냈습니다",
+      "url": "https://t.me/marketfeed/1086499",
+      "ts": 1795829505
     }
   ]
 }
