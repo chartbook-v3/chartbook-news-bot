@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795865235,
+  "updated_at": 1795865391,
   "id_hashes": [
-    "4cd2f6eb05c12ef21893989baad93b60b7eabefaa49b80f2bc1b974a2631d4c3",
-    "19b5a1cfeaa5c08f02940eacf81c2b55897de19796d603e433be93ca7551d59c",
-    "f0af0f66608528ff4364d2e4ab2aa3505efc2fb01a5e90bd71ab8420fd4d4cdf",
     "e434b1f714a7104aad0c565f516ddf5ca48671534237d15730770fc73f01c4cf",
     "37a0e489ba5510aec95a6bfaecc683c04ad55e4dc77b770a635b584148009b15",
     "0caceea9ab6aec2b725c8bebf06502736ece2d2c4a6310fa487833b385c0f544",
@@ -4000,11 +3997,12 @@
     "63992ecf418b7600056d6874999ce1d625f72084fd587c7a519a39f0c8699bd0",
     "ea0d5747f9b37e2a80354603f91d5590b3117441cbf65ae5c9dac85a0d1bb95b",
     "728e152fda541034255c1bacb5795fad5ffa95bdba0f731f274dba5938e23ff9",
-    "e60e63b01f877347014e60c2e5aaec33a3fb98785bc40bfcef738678161e5602"
+    "e60e63b01f877347014e60c2e5aaec33a3fb98785bc40bfcef738678161e5602",
+    "faf8ff9443ee719546d6c7aa15530b6dc58fd80b55caa784d268da8c46eecb25",
+    "69c448026b6d9990438141cee3f82fd77432a821e3c0d5b98fb730c25411069d",
+    "c2a685b73e5b4f6dad8a986c0cc7ebbffec19c0d68b198453933b6c3e33fae23"
   ],
   "title_hashes": [
-    "ec482c2f5e0a19df7bc648ec13e2d79b342b47506bc2caaeca151c801c0def91",
-    "c7f6af8a97f373fff0a8e5afa84281ac12234502f61571a9ab4995d94ac28626",
     "83e90c6d244333f6ce8a23347e5fef78abfce3d762872dd0a8fa30c15aedc3fa",
     "1c83528e014a8f837af1751a285407a27316903ee3efe2c9c7a2b29bd9286250",
     "4553f58cb469f8b541c23825010f44d56f7e18f8cc07d8e5af0c3c73c4a08249",
@@ -8002,16 +8000,11 @@
     "aa0e655a4218c57e0dd9ef33994fbfea3a656045c13ed0310e3831b253d289f2",
     "9b3038f2edc3f91d94c1ee5dd448b0167da299414db51dbfbcc1abfd0890c2ef",
     "4d5074cc4fae851c937e8d2f3eec4267e33e0a6df25f0aa2af83cbc9efb2c2ec",
-    "73ba83aa2a84edfb34af37c7fbe478db89c5112850bef123b6e691afbec47972"
+    "73ba83aa2a84edfb34af37c7fbe478db89c5112850bef123b6e691afbec47972",
+    "6d9d3d636cf88b56510a81a2b45ca45e4c594603ec7bf5d41e9001b6ae9f5292",
+    "1571e42d0173b0fd05772df469a7923c68be2a4f0a27f96f9a117ba5ed2761a1"
   ],
   "recent_sent_articles": [
-    {
-      "source": "와이드경제",
-      "title_en": "[특징주] 케이엠더블유, 전일 급등 후속 매수세 유입에 강세...기지국 RF 장비 전문기업 부각",
-      "title_ko": "[특징주] 케이엠더블유, 전일 급등 후속 매수세 유입에 강세...기지국 RF 장비 전문기업 부각",
-      "url": "https://www.widedaily.com/news/articleView.html?idxno=304939",
-      "ts": 1795743237
-    },
     {
       "source": "뉴스1",
       "title_en": "자포리자 원전 외부전력 또 끊겨…우크라戰 개전 후 28번째",
@@ -11504,6 +11497,13 @@
       "title_ko": "이란 최고지도자 고문, 국경 폐쇄 후 이라크에 \"트럼프의 도구 되지 말라\" 경고",
       "url": "https://www.financialjuice.com/News/9871361/Adviser-to-Irans-supreme-leader-warns-Iraq-against-becoming-Trumps-tool-after-border-crossings-closed---post-on-X.aspx?xy=rss",
       "ts": 1795864813
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "CRYPTO UPDATE: #BITCOIN 59210.00 -0.88%",
+      "title_ko": "[가상자산 시황] 비트코인 59,210.00달러 -0.88% 하락",
+      "url": "https://t.me/marketfeed/1086620",
+      "ts": 1795865390
     }
   ]
 }
