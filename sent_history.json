@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795853680,
+  "updated_at": 1795853838,
   "id_hashes": [
-    "f8a05ad1dbadefb7d415a23d178003883b10a4bdc2c9a384c8eadcf80ff09294",
-    "357d17f2971c38fb8dd4ec91c0d97d64c87aa4eefb933bf6473900e6f128ea57",
-    "2d8f266e24cfbb2448a4fec10c649e3bf62b36f505596184bfcb032ed5aca166",
-    "09aa1788084f0d622839ea98c8f8850cec2ed7d186f679de2371749baa7b91ac",
-    "d4a2d3d353714365c75d261d506f5393c16dbd39c6dd75e27d0d46b7856f181d",
-    "5085c5487b55b8550bea3c915c46f29bae10125dc486c21fe69c3c2c6abd9338",
-    "088ceada17b44dddcb20ac2df03b7e0d3829140d3e3a5687b0c3704adff775fb",
     "42dad7322617c600960f71cf19b02d1826c6016c8d36f85b6e77c44ba853504e",
     "0a641d1c40d509b8cd7c9092177f06f3a108b5f6b5ecdd1b181ea7dc6b814d50",
     "6c630312ea61d806e1e44ca5feedabd3d4a86e7a4ca616d4ade1f381451a71ee",
@@ -4000,14 +3993,16 @@
     "ec2752e4e400e9d33b3c97d6fdde1fdce42e1dbb841e513bd27260392a54248a",
     "72f71a9160534a11ca0c0bb49acb1d11033f78f70780e821c62f7d90a8286203",
     "5c415997772e06b9cfa8790dc1404fb0570c3316674c8089b23c84544763e27e",
-    "64fbbb84853baae88a70bb62cbb5295ac346b467454d62b8fb696ee76a0bcca2"
+    "64fbbb84853baae88a70bb62cbb5295ac346b467454d62b8fb696ee76a0bcca2",
+    "650334f63dcacdac44dee9a011145f10363fbdef2b2111fa4337d22b6d3e1056",
+    "8473df1f6f2bb27f86f2dfae65d871453a4c7dec7832eff03ddbf5e4acc20c2e",
+    "593c5523d284073ab8dd05b292c46f0f541c1ed0668f407a5e2391373fce8080",
+    "b332fc2738b7886a79bc33a8538cc7c3c8221c9bb447078d06f679c1e7f7aaac",
+    "1aa8c12419fffd979883f3a9828d9d2200325948930df29276063c60e453551a",
+    "26d8488d1d935fc092443a2fb4fafc1270e00725c2bbf3a5aca40b8cf6867a00",
+    "dbdf2cfeb98d11e52908c19f2de0fe76888e8dafbc5892e56f9e70ec1c4ad37a"
   ],
   "title_hashes": [
-    "1edda2e762dd3053d6b644b91b0349fd0db3ba6f1246c59d70e13221bdd424ae",
-    "691e7c0cc8934a631f83d6bc39e1c4923bea95210ac8b366f0c89e64e9647a1e",
-    "92b123ba6ab895007a92e50af39f797dd35e2cc078c502fd4202f3cc1e5b8db1",
-    "5379576d4cc317132d3b4632928d3a95ed11f5c3a2d9763362bc618e2e290797",
-    "e9c649906d6ef623780aa317c8368843765bb53269521614a89e35d2cd5d8477",
     "86aa4f7a13e3a02b767783ced60f4dac7d20f0624e127544db27d45d2d734b7a",
     "24cba88edc741ec0ed7265a78aa2d4b9a1a8241ee95290cadc60984529cc738b",
     "2f5b312ac8b7191610e7942bf5cf92508f7a23d12f3e2550757d4bba97160e1f",
@@ -8002,30 +7997,14 @@
     "1ea62ad97d205d1d2121f769540cda5ffe864ab7ca4c8d4bbaf9809ad25d4178",
     "2f060277b5732ea5e854a1707ace412b608c5004453d0966d0b52948fcc54921",
     "28d5ca41e6401d30df53d2fdbf2a556fe005e9bc8643c9906a4a8eaad02e3f8d",
-    "908cb1b7f9e4525dcbc06b569f1bb44824626a14e9fe89c9c5466b64f99f12b9"
+    "908cb1b7f9e4525dcbc06b569f1bb44824626a14e9fe89c9c5466b64f99f12b9",
+    "8d69065fd0b46d1d93f44928c75d63961276737d6399d9037fde2d3097d9b935",
+    "c80cc795f97d358693e2fa00ba403f44248e7fba4df9762981baeb2374ba8cc6",
+    "8447c733161ae1e48b93a70265b22e0f7bf36914b56d197b90ee4a65d609f051",
+    "11effd9bdff0fffe8197ec071d73ebca6a2997950f01e510e53689a8daa86ccd",
+    "c5889e6ee6a2b7477cd8b125801088d636d41792f324ea608d1ad91251f336ee"
   ],
   "recent_sent_articles": [
-    {
-      "source": "마켓잉크",
-      "title_en": "12월 지수 정기변경…코스닥150 편입 대한광통신에 ETF 자금 685억원 몰린다",
-      "title_ko": "12월 지수 정기변경…코스닥150 편입 대한광통신에 ETF 자금 685억원 몰린다",
-      "url": "https://www.market-ink.co.kr/news/articleView.html?idxno=16052",
-      "ts": 1795742134
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "GOLD TRADES LITTLE CHANGED AT APPROXIMATELY $3,567.3 PER OUNCE",
-      "title_ko": "금 거래는 온스당 약 3,567.3달러로 거의 변화하지 않았습니다",
-      "url": "https://t.me/marketfeed/1086084",
-      "ts": 1795742157
-    },
-    {
-      "source": "Bloomberg",
-      "title_en": "Japan Tobacco Shares Climb on Potential Imperial Brands Takeover",
-      "title_ko": "일본 담배 주가, 임페리얼 브랜드 인수 가능성에 상승",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-27/japan-tobacco-shares-climb-on-potential-imperial-brands-takeover",
-      "ts": 1795742287
-    },
     {
       "source": "뉴스1",
       "title_en": "\"몰카 넘쳐난다\"…네덜란드서 메타 AI 안경 판매중지 소송",
@@ -11504,6 +11483,27 @@
       "title_ko": "SK하이닉스 ADR·마이크론 7% 급등…한미반도체부터 HPSP까지 K반도체 '잭팟' 터지나",
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509173",
       "ts": 1795853679
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "WEEKEND MARKETS UPDATE: #DAX 25491 +0.03%",
+      "title_ko": "주말 시장 현황: #DAX 25491 +0.03%",
+      "url": "https://t.me/marketfeed/1086611",
+      "ts": 1795853702
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "WWE 스타 브론슨 리드, 경기 후 합병증으로 사망…38세 요절",
+      "title_ko": "WWE 스타 브론슨 리드, 경기 후 합병증으로 사망…38세 요절",
+      "url": "https://www.news1.kr/world/usa-canada/6369179",
+      "ts": 1795853827
+    },
+    {
+      "source": "Wccftech",
+      "title_en": "AI Bloatware Arrives On Windows 11; Lenovo Is Shipping Select Business Laptops With ChatGPT Pre-Installed, With Businesses Getting A $100 Incentive",
+      "title_ko": "윈도우 11 AI 블로트웨어 등장; 레노버 일부 비즈니스 노트북에 챗GPT 사전 탑재 출하, 기업 대상 100달러 인센티브 제공",
+      "url": "https://wccftech.com/lenovo-preloads-chatgpt-windows-11-pcs-openai-100-per-seat-offer/",
+      "ts": 1795853837
     }
   ]
 }
