@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795832162,
+  "updated_at": 1795832312,
   "id_hashes": [
-    "d6b44e17def2d3f035b0a76791c439faf79d21f30e5b6a96233356cc9ad8f564",
-    "ba25d29763bd6dff2ee91975983bb0018f458a41170f25dc4585bf1b570d3921",
-    "feeb1d10e0945a1bf09fcb2743396c7e7f804816ccfa792273284c194c0406f5",
-    "32bf65e9ad6f88184bd62ade57628ec803092edb9c13f5b1148bf46e9149792d",
     "a69b81ac84ada133ed9e597a9055d71f47615eb5f9bfbce423cbc3357182bf97",
     "76531e079fc7ca3dbdedafa8eb62e8cd31957d9267315d53c9a832496845bb80",
     "179806c9f4009ab5e82086c2721d663bf90f8270d907bfffad851d79b33b40aa",
@@ -4000,12 +3996,13 @@
     "592fd787874f985399dd366df8d5e26c3101fd1846fcb83ac48111bc9b4d5725",
     "a1bb1f47dcc55b317b96a6b74879ba56d872f55c5f909638e5e9df68c10bdf75",
     "e7253a2ece198875c73ac7b1ac34888cc0e37cec57b2762c02ea8f59f6c33d18",
-    "078e59c2c51f7db41f8bf07030305c9cdd3805fd246af11077af9e080a6b675a"
+    "078e59c2c51f7db41f8bf07030305c9cdd3805fd246af11077af9e080a6b675a",
+    "6a0beb1697d63dcb46b60cfdd1ec106f64d9b42d7a1e5b415df67d2f620c558a",
+    "271d09c4e32d752f4d9c2e401ccd89a3ed352ca5a3ab648b37078b801c0383ba",
+    "7cbfa1fd4f31be3eb1de2e0a5cc4ef6f07dfeaeb1e29ad6166b1946200c51cea",
+    "5ed867139aee2b368da8490d5e9386f370b2fbf6b0526fd029234a8d0d1a3f30"
   ],
   "title_hashes": [
-    "8d8782c232ca9cf91789e6f605665bcb15209609479f20b8952d437889c41a3e",
-    "ee975aa1af6c11e4b7ee2c7c680348f7629f650fbf761bb0497346482c10c8b6",
-    "c03293d903cbd38a82da61b2e93de5a2b173b86f51194509f43040f278c7d3d0",
     "1f4354ea6f20907b75e2dff8ca463e8ec85a14b86a0d4be4654181ec6e25dc0d",
     "37d98969fe3b27bc789d28bdd4eaaf461dce6ed3337e79dfdc16fb9bcc3a2baa",
     "5a8bb321b5d4104ffa45a979ef0e366ed9731b35a7bb717696d5619fff4a2dc7",
@@ -8002,16 +7999,12 @@
     "2da54ad7360230aa34af10b0da0ecace397ee6eb79ed96b80458a3949e7f5b95",
     "6460d8847a80d7ea8bcccbcb74e676dde3b9fd4c520ccaf32110a30787085f20",
     "7074f81eeb5db314dddd46161e2a37f7fa578d173902dbff31bb4ee251efee30",
-    "b5931f53ff351007c10069999629c3001353676bac2c80cf34f332bfeecdb043"
+    "b5931f53ff351007c10069999629c3001353676bac2c80cf34f332bfeecdb043",
+    "ed4cf5cb01f82c78b59d5b9afb41dab376b8060f237a2cbcc9fd93e95879a428",
+    "37738cadf99a14865ffab1a8ed2ecd94216d57c5c9f5ed80a74dccedf4065d0b",
+    "5a0d66a39162790a38154f9420f1b668466c4f51469741504cc064da89b52b4c"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "TRUMP SAYS HE DOESN'T KNOW IF PUTIN WILL COME TO THE G20, ADDING THAT IF HE WANTED TO COME, HE CAN",
-      "title_ko": "트럼프 \"푸틴 G20 참석 여부 모르나, 본인이 원한다면 참석 가능\"",
-      "url": "https://t.me/marketfeed/1086050",
-      "ts": 1795737187
-    },
     {
       "source": "전기신문",
       "title_en": "로봇마다 달랐던 학습 데이터 형식 통일…KS 표준 제정 추진",
@@ -11504,6 +11497,13 @@
       "title_ko": "S&P \"남아공, 고유가에도 연료 부족 사태 피해… 타국과 대조적\"",
       "url": "https://t.me/marketfeed/1086524",
       "ts": 1795831952
+    },
+    {
+      "source": "뉴시스",
+      "title_en": "美는 달에 원자로 짓고, 韓은 달-지구 광통신 깐다…달 기지 인프라 구축 경쟁",
+      "title_ko": "美는 달에 원자로 짓고, 韓은 달-지구 광통신 깐다…달 기지 인프라 구축 경쟁",
+      "url": "https://www.newsis.com/view/NISX20261124_0003881393",
+      "ts": 1795832311
     }
   ]
 }
