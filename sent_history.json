@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795853528,
+  "updated_at": 1795853680,
   "id_hashes": [
-    "a69704d4eff959ebb5a14b3037cd5ded36d06c15f3ff776909d3a32f0d90d0cc",
-    "faf530112e946a6f8711b83c87eaf3a37526ba6a58c94011711b603a248a9e29",
-    "0c84388cfb87fbd12c6b0fd4278eb1423f1bed15ddb0c3a099ca692ad19fc503",
-    "129c0f979eb2601f7863b61d0f7cb8f1604e8bdb669dd5d5d2e773490db7e91f",
-    "ed53ad5aeda08582d82318e9b87ad96b08a72e2453d513ce0d2838217b3258ea",
-    "17eeaddbd6fc852cfc61f083d1b46d54373cb3a4553dd20212deb9b66f5c6a7d",
-    "6960450e07dd94fbb35afe89f0e2f242e0a24a0088dff5cb6946ff03e3e4f2ff",
-    "a5095170e5d501d259c8c5242d70755f6103cd49393da6e80bd8a434e5de8c96",
     "f8a05ad1dbadefb7d415a23d178003883b10a4bdc2c9a384c8eadcf80ff09294",
     "357d17f2971c38fb8dd4ec91c0d97d64c87aa4eefb933bf6473900e6f128ea57",
     "2d8f266e24cfbb2448a4fec10c649e3bf62b36f505596184bfcb032ed5aca166",
@@ -4000,14 +3992,17 @@
     "765fcd77710fa20b7a2dee3763c9ea429d5f9b6eb7f7537d3128d8ad4f426b77",
     "d1e15cec6830300545ca9bc166834d44ca7362d005381765bd58e7024c143566",
     "f36c130bb73c416e8e766c80c0ec9c0ff49c889123c99552b6497f299c1ec775",
-    "92bd46f01baf5e7561e72eddc12520cff809cfb1a17da9c8df7c2f7a28896d0b"
+    "92bd46f01baf5e7561e72eddc12520cff809cfb1a17da9c8df7c2f7a28896d0b",
+    "9cf6761f617efa8f663e89cbe75892515d8d696dd05ce771cc3bf5170224f63e",
+    "8f0b478315bad38bccf645544dc2877b8af6077ff2353397c600f30328c86caf",
+    "e1f6c43422fe5e54a00657bb9f5ba6a4dd6fea9b9a849d3a3e045aacb151231e",
+    "b8d16f3c1ba9e31519537021a33421da73f09448b3250f6662d57fe90140cbbe",
+    "ec2752e4e400e9d33b3c97d6fdde1fdce42e1dbb841e513bd27260392a54248a",
+    "72f71a9160534a11ca0c0bb49acb1d11033f78f70780e821c62f7d90a8286203",
+    "5c415997772e06b9cfa8790dc1404fb0570c3316674c8089b23c84544763e27e",
+    "64fbbb84853baae88a70bb62cbb5295ac346b467454d62b8fb696ee76a0bcca2"
   ],
   "title_hashes": [
-    "c41da6fc9a1149efad54afa58dbda22866c4f34043113876287d08bdd3e6e9a5",
-    "a3bc008b245d903295ba0f97a4d97e4692982ed0e5e66e4694cca60580c521c5",
-    "99616ca03639571f73686c19c37a59847774087b6e594f36c44a8d41f0b977d0",
-    "8220e934b22a0df7dcd875a32abaad5394245085b78012f34c689a6df982030b",
-    "b9ebb14b9bd2b3ec7019806c51130bb39ce95fcf2c3642a696f2a718f1551fce",
     "1edda2e762dd3053d6b644b91b0349fd0db3ba6f1246c59d70e13221bdd424ae",
     "691e7c0cc8934a631f83d6bc39e1c4923bea95210ac8b366f0c89e64e9647a1e",
     "92b123ba6ab895007a92e50af39f797dd35e2cc078c502fd4202f3cc1e5b8db1",
@@ -8002,16 +7997,14 @@
     "9e9ed7fd98d4ebad252a2c8741a56bf3ddf6d46eb095f9d43b32eebcff4732b0",
     "13944f1f831d49bd4dbd22a1e1514fd1c0d91d48341f03d96d420e7fc2dcc206",
     "3c4deba26ce697436784ea2256e1bdd060842defbbdab5f9a610f829c9af19db",
-    "8278acc6eef69745a0ef568510365ad49d6a0d9676d23da1ca87df4c7f66ece9"
+    "8278acc6eef69745a0ef568510365ad49d6a0d9676d23da1ca87df4c7f66ece9",
+    "cba008db44740d7490828a6cfa1ef970cd5868feb8034cbcc0500877a0b8d023",
+    "1ea62ad97d205d1d2121f769540cda5ffe864ab7ca4c8d4bbaf9809ad25d4178",
+    "2f060277b5732ea5e854a1707ace412b608c5004453d0966d0b52948fcc54921",
+    "28d5ca41e6401d30df53d2fdbf2a556fe005e9bc8643c9906a4a8eaad02e3f8d",
+    "908cb1b7f9e4525dcbc06b569f1bb44824626a14e9fe89c9c5466b64f99f12b9"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "'위기 베테랑' 데코스, ECB 키 잡는다…佛 금융시장 불안이 시험대",
-      "title_ko": "'위기 베테랑' 데코스, ECB 키 잡는다…佛 금융시장 불안이 시험대",
-      "url": "https://www.news1.kr/world/europe/6367993",
-      "ts": 1795742131
-    },
     {
       "source": "마켓잉크",
       "title_en": "12월 지수 정기변경…코스닥150 편입 대한광통신에 ETF 자금 685억원 몰린다",
@@ -11504,6 +11497,13 @@
       "title_ko": "월성원자력본부, 드론테러 공동대응 협의체 회의 개최 및 통합방위 유공자 감사장 수여",
       "url": "https://www.electimes.com/news/articleView.html?idxno=375411",
       "ts": 1795853252
+    },
+    {
+      "source": "핀포인트뉴스",
+      "title_en": "SK하이닉스 ADR·마이크론 7% 급등…한미반도체부터 HPSP까지 K반도체 '잭팟' 터지나",
+      "title_ko": "SK하이닉스 ADR·마이크론 7% 급등…한미반도체부터 HPSP까지 K반도체 '잭팟' 터지나",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509173",
+      "ts": 1795853679
     }
   ]
 }
