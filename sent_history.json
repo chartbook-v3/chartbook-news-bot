@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795854728,
+  "updated_at": 1795854881,
   "id_hashes": [
-    "58522ca55937f96d95ed3b1e088b1433238f6b0e3fe5ad66764a8fc233ce9cb9",
-    "3d21efe6d8776922221d3399685d047fbe0e83dea44cc8990dc88494570cce10",
-    "5054d57a23ef8a7a91d1fc510c9cb229cc7b4f708ced94bb27a3f7cfbb3257a2",
-    "b963885e5a55a7d51116aa95c3127f9a7d8413ccc31ec7fe58947f5000217df3",
     "84ba462d8849135d410417b462c4b538dabb079855f92e9f58c5d057f5c9db89",
     "8490581299c6035b2dda9403d6b7246694551e788d1c8d2a077c117f77932136",
     "679f6a8a079c529884a958c2ddea214573c0565d88921861015464f082f7160a",
@@ -4000,12 +3996,13 @@
     "56590a181d7a2cfa4699845cadf015e1308f98f7fff8a6eee8386b76176ac6ed",
     "51c23deb8b26dc4d5ec458d4ba460b4f63850013f2d285df4ede53b3f3678e13",
     "837af581394413bfcc9f796f1e1db403322ba8aedc37beb23f20bffc3a3b51f9",
-    "10acc31b74b34832dee325327596f96cb9a4393a6af55fd0a8f1d0a4cc873e77"
+    "10acc31b74b34832dee325327596f96cb9a4393a6af55fd0a8f1d0a4cc873e77",
+    "c4661370d6e5d817a14427dd1103604ca40c65959bd973d1a9586192e4808bac",
+    "19abd03c8c11751f276c5fa2479f598c6378d5d129e22b91f3c2b9563c7bca7a",
+    "56f4f72e44179c61b3e0e9f2899371dda0d87325f511b458987cb045054b52c2",
+    "c0e257c319b4dbd6ace706ad990f543061e5e87739b486dbbaf38e1f263bdc2b"
   ],
   "title_hashes": [
-    "6d6de309e5d8b357ce38b67d6f8f1dcbe471c8ce5fbabfba7afa1cf1f4738aea",
-    "dfbffb898a066959592f360b4dacc1208cee5f85b50200b57328c1de98146f85",
-    "5885dbe6171c66eff37f0ccd454de8cd0f858957fad3faed37737e9a6a6263f2",
     "7c4e925628656afff04b8b7d332a2c9def22784ea5fac90085513492ab371714",
     "412b411e08886efa844354e76b60d7261c1bffd5833591e949f1751a87439b2a",
     "de0f3b7c678124a7e2031034d2da78e6ab84fe8290f0bd24ee4551951e9de558",
@@ -8002,16 +7999,12 @@
     "750ded4dc0f6bc82cc121fa2be05fe028708d69a2d31151101b1a91f9242bb97",
     "67a70f22df7695a2feb604426d2db97e1bc5333aae766855045e80689f9b1788",
     "3382722a5f78ae95d120a823db88dece64836e46c67ef2706c6255a8a08eaea9",
-    "c39cd3b3553bed1ec4ecbb1f845d93ef0fbd9c663b7c8f683ba2a99323f89e98"
+    "c39cd3b3553bed1ec4ecbb1f845d93ef0fbd9c663b7c8f683ba2a99323f89e98",
+    "61989246f22d705b857be71935e0126ee2d932081bd6a3d68c37c15758a35652",
+    "05d313b32620b81c14e7a5bfbc888c9a1c1d84c6a979f28fe3532b3909c45386",
+    "c0f7dfa5385fe48f49774671fe438e260b8e939590cc4d398f54e216ca24ceb0"
   ],
   "recent_sent_articles": [
-    {
-      "source": "지디넷코리아",
-      "title_en": "스튜디오메타케이, AI 영상 제작 기술 고도화…상업 콘텐츠 적용 확대",
-      "title_ko": "스튜디오메타케이, AI 영상 제작 기술 고도화…상업 콘텐츠 적용 확대",
-      "url": "https://zdnet.co.kr/view/?no=20261127101209",
-      "ts": 1795742300
-    },
     {
       "source": "MarketFeed",
       "title_en": "CHINA'S CENTRAL BANK SETS USD/CNY MIDPOINT AT 6.7075",
@@ -11504,6 +11497,13 @@
       "title_ko": "AI 데이터센터가 광통신 수요 키운다…오이솔루션·우리넷에 러브콜 봇물",
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509187",
       "ts": 1795854726
+    },
+    {
+      "source": "전기신문",
+      "title_en": "한울원자력본부, 22년째 지역 이웃을 위한 김장 나눔 행사 개최",
+      "title_ko": "한울원자력본부, 22년째 지역 이웃을 위한 김장 나눔 행사 개최",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=375414",
+      "ts": 1795854880
     }
   ]
 }
