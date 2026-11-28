@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795838211,
+  "updated_at": 1795838359,
   "id_hashes": [
-    "4f7e411c55910fddc7221642ead4bae9c78bbd0d0136aac2fffa42a7b8fe2782",
-    "fe142200ac060b7bb4ba498ebda2dcf5d64f016cc1f633e273789f9f22e21b65",
-    "6d2352029128ac2b7f21f8b062fed46205b5799c9538aced525a0bad4e66f6e7",
     "ec1d32796dc5ab75bb41138087f6082cd22f5ea395c2ae8773e73e5f88562d1a",
     "12f12a375270b4bed0d0b02b0ad94870ecb7436284f4678ff629c3df647de347",
     "97f5ba22553741431d48b0189041c3301f10094f4e9b1aeeab92d7d9508fed45",
@@ -4000,10 +3997,12 @@
     "2fc3b6885ae1fc983f04fe27e950486173d8e8c043d131a646f553f8007d824d",
     "5267995e2278f3c212477ae94b0024098f75b21771a83cf6b384278055ef324f",
     "1cff48eedb870dc32a88009406fcfd763b3a10fb58f5e926a334b03d73897d4e",
-    "bf5f544504e27df206d6d8ac481ed9570543a63869336ac1cc70ce0e65c7cdc5"
+    "bf5f544504e27df206d6d8ac481ed9570543a63869336ac1cc70ce0e65c7cdc5",
+    "09abbecc5a43e26bd4e2fa1436f543fa3411b9f571a6fab857b56ea3081bf4d2",
+    "68237554cdf5c94df5958c5ea728d085de2c46d604a3b11f35f32f425a904e35",
+    "e7655cb1faf46e5091a1d0eec3a99ed7067ef662221828f7ebd4064125b5c1c1"
   ],
   "title_hashes": [
-    "271259388e6d9f76c97a2eea797e33b0fc41a9213ae3b9e75713c5afd56d22a3",
     "03e9e7bb2d4970637b5b14e6b8f00e9be8b37ed1fcaf4384bf38fff867b43167",
     "392596a70d94478893cb80406d642f728ed64c9c9291a9414a8e8898eed5d3be",
     "ed3b82a56e748b4ac4683bee989ae299c6bd9a7f67c59abb20723af645af7d0a",
@@ -8002,16 +8001,10 @@
     "ddde40e0e2071dfc331d29dfaefa5979972b2d9873b4ff30651d903d558f0400",
     "ce85ebf83cbedae10c46e0d3d3e9e14049d4ae36735263f74a18bb0dffb375af",
     "1fa5286bc427d3b55c2f4392dc70c52b3e9b36a82e899e3ee93e610dafd72be4",
-    "ab36221451baab3a364160b2b833427be147bb43f7664673b20d5abfb90d7ce0"
+    "ab36221451baab3a364160b2b833427be147bb43f7664673b20d5abfb90d7ce0",
+    "9430521ae2cd16f1eb770bb5a4451c0cf4fe08bf77d2601aba54dc29c03892b1"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "ASIA-PACIFIC EQUITIES POST MODEST OPENING GAINS AS TRADING RESUMES FOLLOWING THANKSGIVING HOLIDAY IN THE US",
-      "title_ko": "아시아 증시, 미국 추수감사절 연휴 이후 거래 재개 속 소폭 상승 출발",
-      "url": "https://t.me/marketfeed/1086060",
-      "ts": 1795738651
-    },
     {
       "source": "The Information",
       "title_en": "EY - TheInformation.com",
@@ -11504,6 +11497,13 @@
       "title_ko": "잠재적인 VERIZON-FIDIUM 거래는 부채를 포함하여 약 60억 달러의 가치로 향후 몇 주 안에 마무리될 수 있어",
       "url": "https://t.me/marketfeed/1086552",
       "ts": 1795838007
+    },
+    {
+      "source": "뉴스티앤티",
+      "title_en": "누리호, 6호기부터 순천서 단 조립… 나로우주센터까지 이송 절차 사전 점검",
+      "title_ko": "누리호, 6호기부터 순천서 단 조립… 나로우주센터까지 이송 절차 사전 점검",
+      "url": "https://www.newstnt.com/news/articleView.html?idxno=730697",
+      "ts": 1795838358
     }
   ]
 }
