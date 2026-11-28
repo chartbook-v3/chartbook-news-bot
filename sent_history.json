@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795862086,
+  "updated_at": 1795862236,
   "id_hashes": [
-    "76b4d549807c67f7d99495d446643aaf8ceebb3b832ed07533c4614da101baea",
-    "90dfe2c765a00a475e645be51c75937725445000a4ab6c0e0bbf719768b79384",
-    "c980a243fc1c31c8874167bf87e9f1f18d84a10f3529b05c8cf1589b484a846f",
     "355a849c6390f0b994a7e2153fe18f2bd7f56448b3c3d6b53d915f4d2067aff6",
     "7a5854368eddd829049f4a9aef6b037d9eacae365098b96bb0c16ec4647c27de",
     "44dc60d054718eae22032f3937279d9c7673355a735aa368643982627287a0f4",
@@ -4000,12 +3997,12 @@
     "569259156160f6b2b629e2538df7a2eb39be132ef3a8beee1de5745c3e59f65f",
     "ef0803fe97f946dde6dc96ff5fcdddfee14c4c6d0522b443aedf62df49b3a8e0",
     "4135f0f0c838d97d90a2b06b52722b84c47402fcd84a15be3e15723792cb5a1e",
-    "e6a0ccd490655c41d0e8670c58bc15b896423730fe545c6c7b871ae898bdab73"
+    "e6a0ccd490655c41d0e8670c58bc15b896423730fe545c6c7b871ae898bdab73",
+    "58433e4e3abdaf25bbf349f68328516ad9f66402ffbe6da32f40c554d044cf2b",
+    "0508ad6637e05e310af596eba8ede453d44099574f7347bea6f32b85cf4c20fb",
+    "2edaa106a9ed946aa50f4bb41a1e5cbc3f278ca1218585a5487b94236327a48c"
   ],
   "title_hashes": [
-    "23127f39e911261514d7dff53d264b693e3dc366cddc17225d21fe28e82aafb2",
-    "2f7420dd3b78c1aee229da0d55daf5fffa76cd510fbda16c4ea0acc8ccf539ce",
-    "6facefaabcbd2353bde1afa804d0ea9641613579e62bdd2ae57abca017b1c6a6",
     "a2ff2084dd99779190b6ac89adcff48cf7402881f779e8a82e925252d80a853e",
     "4b3ba563d2a1218528b03b2682d5889d3df4d4266d5abebf1fa5a5206b58198c",
     "cfa205d421e6b3fd40c056ad97fe52ce540310b0d1b4c77bb4a2ae6904233d2a",
@@ -8002,16 +7999,12 @@
     "3d6797c6a0b682920a89a865c752e51a7c4f9786d90f178f997344a9c0f7bfc0",
     "aa053d3c87ad89dca0e33afc2955038d832791af6b2cd913b131fb58aa43a721",
     "35e8e209289f8bd5506eca6dc7be21e900aff22588762f977f78e5d51eee0d19",
-    "2628d7b3e822fa118a5a6dea4e5f44988b14d83ab182994432f7d2c885bc8b5f"
+    "2628d7b3e822fa118a5a6dea4e5f44988b14d83ab182994432f7d2c885bc8b5f",
+    "cc1dc7778bd9f1931fac8f0b503c2f9323ae74802387cf93ed609080af75edb0",
+    "3c66619971ea404f56370d7aa4a02baba6c4d9d5da3492248c839aa285239951",
+    "6d67e6ea858f49ef863c85a3df0804935a187f44469e86b3bfd9425c2ef81995"
   ],
   "recent_sent_articles": [
-    {
-      "source": "인포스탁데일리",
-      "title_en": "TTM 테크놀로지스(TTMI), AI·방산 호실적 vs 부채·공급망 부담",
-      "title_ko": "TTM 테크놀로지스(TTMI), AI·방산 호실적 vs 부채·공급망 부담",
-      "url": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=219137",
-      "ts": 1795742757
-    },
     {
       "source": "코리아리포트",
       "title_en": "사우디 피습에 방산주 상승...코스닥 급등세",
@@ -11504,6 +11497,13 @@
       "title_ko": "노르웨이 국부펀드, 머스크 560억 달러 보상안에 다시 반대 표 던질 예정",
       "url": "https://wallstreetcn.com/livenews/3207350",
       "ts": 1795861436
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "太空数据中心在轨技术试验平台上线",
+      "title_ko": "우주 데이터센터 궤도 기술 시험 플랫폼 가동 시작",
+      "url": "https://wallstreetcn.com/livenews/3207353",
+      "ts": 1795862235
     }
   ]
 }
