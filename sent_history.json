@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795865705,
+  "updated_at": 1795865865,
   "id_hashes": [
-    "27346ecc99d2d980ce781ca367fd236d7054716c3322e60f49c6e75f68e1edf5",
-    "5dde9f8626a6975f27500df17ea6df91227088c3e5944f3e9b33110a457ea5a5",
-    "bcd81fb0123df328b068cab5096190d3e2b7dfad017cfcb45aedce5a2a0d0563",
     "c4137e597cc09a91c478149468e9c04cf25eaf9ed787b5676175797ff92f8285",
     "29ca15a6035c2ba986d16b3e4650d8cb0ff4245ac3b18197c2c05795e2d142ff",
     "0a9f654e2541252a3c704bbdabdbb8ff82c7967c891f4e33cc29605534701146",
@@ -4000,12 +3997,12 @@
     "7dca2dec7439d686c651deca9f9fbe17b0f934d3be7bd4433450cf43c2ab6c60",
     "e74b288e20cb983064e884e5b6795e28495dd2050cc10c06c502bbd67f99fff0",
     "e0658ca914b0d79febddc66a7b486a4bf71ddd76423d7c13a4d3be0b68cd5d1e",
-    "a46e8b7161bcd6854a0696d8edadd3e17c41557bde16462f925be6d9c8eef402"
+    "a46e8b7161bcd6854a0696d8edadd3e17c41557bde16462f925be6d9c8eef402",
+    "685537762b4d435dbe75f9ad4a4865811a518e548dca125a0ef8a7ea4abb0bb5",
+    "87efb524cfd16751d2bb5b870dcb80c073c71b5b9db1c859acde7b4254158916",
+    "105ee06a2efa110d864284e84cc74021050586e998aaba8e272bf1750ddebdd6"
   ],
   "title_hashes": [
-    "478dc0ef6223db93764767c37090ffffd93771110ff02a425e8dc636c06a3afa",
-    "b365c5d6eb66770c661b047e6d4887f613444cad0b5b2fee328e2f5c6c193182",
-    "d6f02fe96a3c516e3c75d8cbb900d6a37460bf0712569db76e43306998c76d94",
     "e62c30b0d0c029f23169dd86562e93695b241414e027b681062c601138e25013",
     "c33cc67216cfcc5b108cd4144116e052f98f0ca813636320f56801be5dc4a18e",
     "9317479d9b7cb674ce77cc76afb0045a444d1bcac8213460c27e1ac4d488bff6",
@@ -8002,16 +7999,12 @@
     "4198a0d205967cac659a3f4857f5a88574774a81e4c12f47443912f7ce0454fa",
     "d70eedfec65b8237cbfe10f8f9d8a8b5c47a3d2877d0deca53ef031f0fec4615",
     "a526180d8a27c0e8fb3f969ab5f3988e653986bb26049fa187aa0f4596fe1ca4",
-    "9a601282179d115961011844ebbad361402990c18c308aecfcf131cad86e4179"
+    "9a601282179d115961011844ebbad361402990c18c308aecfcf131cad86e4179",
+    "9e716463d611d3fad0b229705d1ea8513c51626fd391017e29691d619ea75a59",
+    "19fc62dfbfe3b30b5d760ef0d2b566df5a660ef1fa626e381025d8590e708b82",
+    "9c11dc33f1b4f0b77dfc2e5fc83f7fd1e9b6ed5c726fe6d9e4776619acab9e03"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "国债期货开盘，30年期主力合约跌0.07%，10年期主力合约跌0.02%，5年期主力合约与昨日持平，2年期主力合约跌0.00%。",
-      "title_ko": "국채 선물이 개장했는데, 주요 30년 계약은 0.07% 하락했고, 주요 10년 계약은 0.02% 하락했으며, 주요 5년 계약은 어제와 변함이 없었고, 주요 2년 계약은 0.00% 하락",
-      "url": "https://wallstreetcn.com/livenews/3206693",
-      "ts": 1795743466
-    },
     {
       "source": "조선비즈",
       "title_en": "무신사, 3분기 영업이익 67% 증가…오프라인·해외 사업 호조",
@@ -11504,6 +11497,13 @@
       "title_ko": "Makita 전동 공구 배터리 팩 어댑터는 휴대용 노트북 전원 솔루션으로 테스트됨 - $44 ADP15는 ThinkPad를 60W로, iPhone 17 Pro Max를 37W로 충전합니다",
       "url": "https://www.tomshardware.com/peripherals/usb/makita-power-tool-battery-pack-adapter-tested-as-portable-laptop-power-solution-usd44-adp15-charges-a-thinkpad-at-60w-and-iphone-17-pro-max-at-37w",
       "ts": 1795865704
+    },
+    {
+      "source": "한국경제",
+      "title_en": "건물 다 지었는데 \"공사 멈춰라\" 명령…날벼락 맞은 구글",
+      "title_ko": "건물 다 지었는데 \"공사 멈춰라\" 명령…날벼락 맞은 구글",
+      "url": "https://www.hankyung.com/article/2026112862197",
+      "ts": 1795865728
     }
   ]
 }
