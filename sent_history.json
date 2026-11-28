@@ -1,20 +1,6 @@
 {
-  "updated_at": 1795872665,
+  "updated_at": 1795872834,
   "id_hashes": [
-    "1dc35da73bf1ef429c5769e4b80cf5a631b0af6d1e1f776ee35c17f6a8f49c9e",
-    "66a937a5311c2c70939dacaa19db44b4c8dd23a2d570ddb173e5d9fae8857553",
-    "6f0c48e87db2902599963d6730dedcb37afa2aa606a470342f9c74937785187b",
-    "cca76707c1dcd639484b12a87c7684e044711cb91796e5ebc61f03a08e3ea130",
-    "f457623f0d997cf542b40c1975ed4285d2e185c4b5ea1736cc3dc3bff375875b",
-    "71206b83c9b5254ff976cdd6fd9f330015acec7f8ee34ee9f4aa24db5ee7101e",
-    "ec4fc939f9be47da0170ff015d99eb8bf7f0cb734c4294c4538c66bf41a35c61",
-    "be2c16f2097e742e2ebb92515a2266f1cff4f5cf37e5cde22f9ea535c850acf0",
-    "42960b81c61734eee41c2a8a5b355bf2f19ea6cb732f32c9a4416005eb28f3b1",
-    "d5fa88608e1ca1f9000d6a0b29e4eb97fe27319d26d2d00bfbc9298a1e7b8850",
-    "8cdda8ab9f94d3101239d66020c6c6c4412afd31415fa4ee9cc0268f9572597b",
-    "6d9c17bc8e854ca87580756b344ccf5d6ebd2ad9f3658e0a7f583352169ae73a",
-    "1586fb118453b7cf6591d58032ba68f9d1aa448c524cd25e01503dceaec97618",
-    "1fdf450a43492c935f220b99f07b210d93ff9e0c57a76b9004bd4668b199af9b",
     "17964b2e3e9778aaf09b59b701a0aaa53e652c708c94ff9777e915de0463d964",
     "56bf2e0c94f8d445126c79fbe20fcda10572a19b89c146a732b7217c013955e6",
     "5e01140355d419ac94e044515a450784c466441f3c9da67e2ef2e9769b1e9daf",
@@ -4000,20 +3986,23 @@
     "1fbbd7195b15cdd2d58951c6f7b0b2ea78807e8e7b3f42c6de28f9c80e61198a",
     "5a2c4f3e39e9fd7e42aff5053c1cc0e21782c1b8593f3aa0f3a4ba142843c641",
     "fcc30e80bab3b0469b113e7e6ade7206078adb3f2ca4dc8a7dd1aa4b04235b61",
-    "f74629e1a05d1f469f52c01eaf1c6d0ffaef04c0400a787c6ea3895ee716f704"
+    "f74629e1a05d1f469f52c01eaf1c6d0ffaef04c0400a787c6ea3895ee716f704",
+    "0549485119387dbdaa957458aa09f7c8c017426e1b03a1c32466e045432a38bb",
+    "9a659003fd4e79981a8ae00ae003d617a4fee1462e48c48aad03f939f4b9f657",
+    "87e48470c5199c3409933996c2665b7ac31125f23ef6b5a486c47e5de24aca71",
+    "ec8c9538af4dc6624e66479e7330501fa0deab9efe1f00ee0df37167ee0bd268",
+    "620c1805346870d0c444b66eddfd86d2c8d17cf8c27e9028ac36036f8ffb973a",
+    "d594e0783409aa462f501c6915db77f41dcc31d9a127026703afb2ea32b02765",
+    "1c4f1e7f59652c68d2738e24d3cd7e54a2d0391e402d1dbed71a5c07ddeb7c64",
+    "1710900055592790e313c67cb5de398bd696d2cac1b9f82448b7d10968f5c5ed",
+    "cf01a775eea55be1927cc19c01752d7755c46d1400d7bf61079cde95de728972",
+    "1f081a4588cbdc8699d067f89a4bae3bef9dbc55f6989ae94002963ec4b45d03",
+    "eab7d46968aeaab11e889e64c9bffbbbe325739a4f6137a3e5a78938430f7bde",
+    "22b0f0c279505b3b16f3f438dd6835839f2c37752c378a813eb6124569cbecf2",
+    "3e40bf5e09fa7b754af769f0dd531f0aa261784fd5ef11c319d943896cac2226",
+    "ee2b13e0877bcdf699ab2da3d95506b86ca476401c21a82c687815ea526b15ed"
   ],
   "title_hashes": [
-    "e33e7f0c815be09165286b4465d88ddde97040b4ae355b5e2942f64be5b1267b",
-    "7e77ac81d0a578e129d8b1cf221c0fea2dfd4634abf37a7a62a708cdad5f92a2",
-    "527576164b1216d4995ad1bb8458cf5f4257d360bebaecf8e81f3f05700a2307",
-    "e38341de7c4a5f6a222b148715dd4b0039c11562c6bd8f6a0bd8887874a8f743",
-    "812d266b0daf248883f5fdb410dc4c4ab8797decabd8c2dab572dcfbbb13c172",
-    "b4f050655476d586e3ca3bd863789a9e2895c3b6e4f51616a911a964d4076488",
-    "59ce0ff4b8e3a9efc691bdcdaff24c24171e5901ff674d1e7cc79c6f90c6f82e",
-    "3d269efd056463c1a0a702dddbacb5959961c5df54e4cda6e1ce42474fdeaeb6",
-    "db1eb75f956d5c9050c5682fd6dc71286ddab7ab09b7856d2a5c0d9a57c2f3a9",
-    "f040c397de87401560ba64224f6d1758a512e638c423f2ad2b7a558d57229a03",
-    "8c4658bf0ac6de59d93ea7b27c0cd1719ac64ef7eeb1294bd3ff58c3a4b482f2",
     "cef07dea3e9ac9fb48f4441271a951d8c5e25abbbccc1b13c8610bf503b33d8b",
     "63838e95535c23bc544bf31c7ead6dfc0b6c028bb5127f66abe2e67f4866efad",
     "253c56aff3af90eecb41220bc4ea975308bec9ac076cd921fa30e97a241a56b4",
@@ -8002,37 +7991,20 @@
     "c0ea41c8760be95ac749991e71ec288b5d60e3612b1fd14594a18a3040e462b7",
     "b6f17b2bc8fe546cea35859d40a36f586a0c68d53da3db57fc31bc92ffe2b14d",
     "b72434ebc5911ec4786c3f23698a9dd05418efd5a5a7582ea9df0ab3e4c043c2",
-    "a1e822f9fca122ee5adb2622c1894ffd4a92196fbdb3ee2c4fa509ea69c0c5e6"
+    "a1e822f9fca122ee5adb2622c1894ffd4a92196fbdb3ee2c4fa509ea69c0c5e6",
+    "055d08eb0cb3426cadba966380befa1f6fac47794d74870f85104d22f96c2118",
+    "f7f790522f82b0ec5f6d78cabb7891300486fe316712d8b53a1af6cc9e0fb41b",
+    "399097fba272d3d1151e2d9d851b94df5eac183dda02d37039441a7a4c9ce0fa",
+    "7a80fd708161c63fed0c8125af96c9abb4d3fc1d1237d3485925488019a954c0",
+    "d6aa922e3d3e47dce3a0d3504b033e4d82ee6aac25a74e1b335c9b727774cb7e",
+    "a8daae385a53b43c83a091b54b293bb0e6d5e7259f94cd41f0e2e511b69c7c74",
+    "7fb913e40134db4acd9dd51b4238684fd04fba9674abf70eccb611ca2ad3616d",
+    "aaae93b9578dff646d622f6bba95e82a2154ffcd69eb765ca235432763f7e944",
+    "ea307cd5d120097a5d174f2d42572ad9f3c72d254ab3166150452989d102f577",
+    "e31f8578647f75e1aa6fb0b331f03a6f1f145a4ba916d63a16c1963daae4e640",
+    "8046874549bad7b4370a3400af33298c073ca047751d564cbde3eccf3039216e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Wallstreetcn",
-      "title_en": "机器人概念股异动拉升，爱仕达直线涨停，光洋股份、旭升集团、五洲新春、飞亚达、步科股份等纷纷走高。",
-      "title_ko": "ASD가 일일 한도 상승하는 등 로봇 컨셉주가 상승했고, 고양, 쉬성그룹, 우저우신년, 피이타, 부코 등이 모두 상승했다",
-      "url": "https://wallstreetcn.com/livenews/3206717",
-      "ts": 1795744674
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "US and Chinese robotaxi markets enter explosive growth; 2026 output value gain at 100%; estimated total at US$850 million",
-      "title_ko": "미국과 중국의 로보택시 시장이 폭발적으로 성장하고 있다. 2026 출력 값 이득 100%; 총 추정액은 8억 5천만 달러",
-      "url": "https://www.digitimes.com/reports/item.php?id=20261123RS400",
-      "ts": 1795744741
-    },
-    {
-      "source": "Benzinga",
-      "title_en": "4 Stocks With Double-Digit Earnings Growth Trading Below 20x Forward P/E",
-      "title_ko": "Forward P/E 20배 미만으로 두 자릿수 이익 성장 거래를 하는 4개 주식",
-      "url": "https://www.benzinga.com/opinion/26/11/63664664/4-stocks-with-double-digit-earnings-growth-trading-below-20x-forward-p-e",
-      "ts": 1795744744
-    },
-    {
-      "source": "MarketFeed",
-      "title_en": "SPACEX GAINS 5.7% IN AFTER-HOURS TRADING AFTER MUSK PLEDGES SHARES",
-      "title_ko": "SPACEX는 머스크가 주식을 공약한 후 시간외 거래에서 5.7% 이익을 얻습니다",
-      "url": "https://t.me/marketfeed/1086100",
-      "ts": 1795744746
-    },
     {
       "source": "연합뉴스",
       "title_en": "'원전·송전탑 산불 위협 막는다'…새울원자력·소방서 합동훈련",
@@ -11504,6 +11476,34 @@
       "title_ko": "애플 사이버 먼데이 위크엔드 세일: 에어팟 프로 3 100달러 할인, 맥북 599달러부터, 아이패드·에어태그 2 등 포함",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT0ZXT19fSkdEQXUzbmwxaWZPbGQ3RzIzMVBuTlJaT0FOYWNSQ3JraTIyLUxwRXFuODJZUEYwQkRiT0ZSOFNldkFHTEgtNTBaYXoxdXpBUUc2Zm8wc2xXc1JXY3ZydklnNzFIVWI0eWVJdEFxOEZzT1ZKLW8tYl9KZDNGb29hYV9YckNJ?oc=5",
       "ts": 1795872664
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "IRAQI OFFICIAL: THE NATIONAL SECURITY ADVISER’S VISIT TO TEHRAN INCLUDES DISCUSSIONS ON THE SECURITY AGREEMENT AND BORDER SECURITY.",
+      "title_ko": "이라크 당국 \"국가안보보좌관 테헤란 방문, 안보 협정 및 국경 보안 논의\"",
+      "url": "https://t.me/marketfeed/1086643",
+      "ts": 1795872818
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "IRAQI OFFICIAL: THE IRAQI ARMY’S 8TH AND 11TH DIVISIONS ARE EXPANDING THEIR DEPLOYMENT ACROSS LARGE AREAS OF KIRKUK.",
+      "title_ko": "이라크군 제8·11사단, 키르쿠크 전역으로 배치 확대 착수",
+      "url": "https://t.me/marketfeed/1086645",
+      "ts": 1795872828
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "IRAQI OFFICIAL: THE MILITARY DEPLOYMENT REINFORCEMENT COVERS THE BORDER AXES OF KIRKUK WITH SULAYMANIYAH, NINEVEH AND SALADIN.",
+      "title_ko": "이라크 당국: 키르쿠크-술라이마니야-니네베-살라딘 접경 지역에 군 병력 증원 배치",
+      "url": "https://t.me/marketfeed/1086646",
+      "ts": 1795872831
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "IRAQI OFFICIAL: THE INCREASED MILITARY DEPLOYMENT IN KIRKUK AIMS TO PREVENT THE USE OF UNOFFICIAL ROUTES FOR SMUGGLING OPERATIONS.",
+      "title_ko": "이라크 당국 \"키르쿠크 군 병력 증강, 비공식 밀수 경로 차단 목적\"",
+      "url": "https://t.me/marketfeed/1086647",
+      "ts": 1795872833
     }
   ]
 }
