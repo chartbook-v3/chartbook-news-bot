@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795859519,
+  "updated_at": 1795859673,
   "id_hashes": [
-    "177b287476632912207641d792aed484cdcbd1ed3bcae9f02101a3e11ff6ddce",
-    "f05f88e44d106663bb18a3e81fdbb904cd581b7d03c43d3d96afa10bcba135d1",
-    "0657780900a4d0c75511bd197b1c51abb7c0fc51eee782db214f258ff9c96841",
-    "2b5b962fc007393202d3e1921ba18d908123b95e6d5955a92008eda94d14d432",
     "577a542e93bfe20cc62181bff6695881654d45642a0c3103d5502799b15f5b8b",
     "22a60733842e8831ff5795dd0d269d26e79b1cc6bb96d9e0714b97846691dc4e",
     "7c8cc6ef658c2148712cc560db15ac03aa85470a021b08fd3c4e926e359a3b9e",
@@ -4000,13 +3996,13 @@
     "a6f980762bc6e89c0c04f5e33bac771a38c79bc1c9ee707fefaeb1de369c9cac",
     "8402aed9f1ca939b11adf9a06439356c88462a246e9aceb441372fcd4a7f6a3a",
     "54a90cbcde8440461bb369be8f76f896e3b9f43f26b0d7ef9060a019cdae6b42",
-    "113d74ab4c106a6382a8cd824b6990a543f89cbe192757f606af46556f6090de"
+    "113d74ab4c106a6382a8cd824b6990a543f89cbe192757f606af46556f6090de",
+    "9cc6b2929641bdf4e8417c4b0228ba63bc1d489dcd1486f1f10e96bc04a6231c",
+    "85eb4153b2fc139005335e8b5d78cc7e9cea660d394bd4c7cba1844fcd0f1c3a",
+    "ea5e426d42541283ea5357bf4c4f7329b803e039847ce7f2881957ccee343aca",
+    "4db5fd0979a71657b9c54e8b92b8e754d99a7401e1d67bf69da7321b0b93b20a"
   ],
   "title_hashes": [
-    "d4382358e66c2c708709476a2994547542b663013760cb164e15aadfa3d36930",
-    "d3aa1bdcbcd60c8204437abd8c92ed506104c407475763fbc968e565ff9681ef",
-    "ebcf65bd1753dea985a052b2f591e03fdd9a3043ac10c79ce2bccdfb81bdaf9d",
-    "7bb820756066ea18d7a7df091fc13c49d3eac2820fb17aa922bfa5038fe637a5",
     "cef32791c71be75f83ee69bd172d3bac5b9eb62bfc75f100d3f39bb42db18a4f",
     "bdf5a611ea4d88d99928c01bbde10f456d5b3b4b00b9dc5873daa4509d9db505",
     "2a9f87b58127c423a8e2b69d8ec7bb9c894db3db6f399676d51c314453d5188a",
@@ -8002,16 +7998,13 @@
     "92bffa199c6c9fbaa9db4d941756d3d7a975766c6e3510cd2369032ef89ffb2d",
     "a2957cc29c5771553008fff83b9b06cdc43565ebaf6436c1b9ffa4032493c1e9",
     "5c14fb59ea3c006d4fa464ad3a9133ba3c1c9114701a36b0565ce1d9ce9acfd3",
-    "d7d0ff62b9e115ca12d2a5e78f9e88651af81ebf443cddda98367b85a1ebffc3"
+    "d7d0ff62b9e115ca12d2a5e78f9e88651af81ebf443cddda98367b85a1ebffc3",
+    "04fa14a2ffd0ed9e7100474dd32f812587f82fed192ebe119e28b0733de00f76",
+    "8544a2216c4c7f3edc6c98fb5ede88e8f85515f34579bbac1957524cff9f31f2",
+    "f2b0f01715ba8d9bc10c0743a6525a48736044e391a79a3b1097d2002dba88ef",
+    "9432eaf9fb7e88097d94d1f1abe5e7515871f618fc024c342881b78b719aa5a5"
   ],
   "recent_sent_articles": [
-    {
-      "source": "K-우주항공",
-      "title_en": "KAI, 국가품질경영대회서 7관왕 달성 - 데일리바이트(DAILY BYTE)",
-      "title_ko": "KAI, 국가품질경영대회서 7관왕 달성 - 데일리바이트(DAILY BYTE)",
-      "url": "https://www.mydailybyte.com/littlebit/news/0a5ab61b-1fc9-403c-bd13-f7913b645f66?iscd=047810",
-      "ts": 1795742751
-    },
     {
       "source": "파이낸셜뉴스",
       "title_en": "넥사다이내믹스, AI 서버 755억 추가 수주…하반기 누적 1000억 넘어",
@@ -11504,6 +11497,13 @@
       "title_ko": "사우디 주도 연합군, 예멘 후티 반군이 남부 지역으로 발사한 탄도미사일 요격 및 파괴",
       "url": "https://t.me/marketfeed/1086618",
       "ts": 1795858179
+    },
+    {
+      "source": "디일렉",
+      "title_en": "\"밀반입 어렵다\"던 블랙웰 서버…앨리스 황 연계 中데이터센터서 발견",
+      "title_ko": "\"밀반입 어렵다\"던 블랙웰 서버…앨리스 황 연계 中데이터센터서 발견",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=66037",
+      "ts": 1795859672
     }
   ]
 }
