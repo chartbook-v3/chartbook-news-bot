@@ -1,7 +1,6 @@
 {
-  "updated_at": 1795834745,
+  "updated_at": 1795834891,
   "id_hashes": [
-    "8f9b901543698c0312e37d9aa94c6bc96097ff2a8f88bf74c21ec8781f03230f",
     "a03b6a12f3ab9e4e6a7725da804f6c84b2d2556f5e32fccb9d38561d4f37f21f",
     "20f066767f89fc7d64b0c8481c4a3a4ca84e5786c2167934056aef42c6a4b762",
     "92b06c1cfc769e0fb089af41977580c92718e72b9101eb50812061f210af2906",
@@ -4000,10 +3999,10 @@
     "36016058d401813206ec6b2141781bc948228a8e86dc6f2f16b20514b02c2d8c",
     "5117d4cfb7ca3708a44f593393f64457dcf22d40bca7721ccb1a679a263bb14e",
     "7ce2a2f30e188c05a1b36a046a443ec881887d09a735839dabe7e73a95c84b42",
-    "0715832e750207edfe4d4f94df5faa5f4cd5411a804ac18f445c4a9c546ce70f"
+    "0715832e750207edfe4d4f94df5faa5f4cd5411a804ac18f445c4a9c546ce70f",
+    "40fb8c23a39a4d5f122b61b5f00ee5a11abf8dec147c7af9e991dbc4e68f4045"
   ],
   "title_hashes": [
-    "1ce926fab9acbc554b5b6c5269dae9063a3723d73879971295197c131347716c",
     "70dd0e3d650ce518794f29460333364bd409f5eeed84db7c432260dcdc3794bd",
     "3697c42786d79a0b67e873f8469fdf5e28e5c6b4cf63ec154d498f1c1aafab60",
     "653e64a92b3d7246acf0ec4d73944130a7d2b1f0171403bbb3732a2a5eff1605",
@@ -8002,16 +8001,10 @@
     "006597f81456a3c3bc492d1fd18a5035a4cb2a62bd70fc3368504272e7ad0c00",
     "71b7866cb334da0f76de381f2c8bea39e1f43225798a794f684ee8bbc27f814c",
     "c6a1fb752f1402a9faec28b4ed6f7644868afe615ff49247515b949670183c92",
-    "d7f78d109b0480322d84f8e8ea185572f481ca0e6b7565d4f0c91e2ad3d3305e"
+    "d7f78d109b0480322d84f8e8ea185572f481ca0e6b7565d4f0c91e2ad3d3305e",
+    "4b75a4b5c346d04e6031377e5ab20e05c98ed8284fb5ac4d934e64ee7adcec81"
   ],
   "recent_sent_articles": [
-    {
-      "source": "조선비즈",
-      "title_en": "키움證 “펄어비스, 연내 ‘도깨비’ 정보 확인이 중요…목표가↓”",
-      "title_ko": "키움證 “펄어비스, 연내 ‘도깨비’ 정보 확인이 중요…목표가↓”",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/27/K6CV72GC7NFLLCHJPPQLCYXCBA/",
-      "ts": 1795737576
-    },
     {
       "source": "Wallstreetcn",
       "title_en": "美国总统特朗普：还没跟黄仁勋谈，但可能以后会聊。\n\n特朗普谈黄仁勋之事：我为国家和世界做了件伟大的事。",
@@ -11504,6 +11497,13 @@
       "title_ko": "S&P \"헝가리 포린트화 강세, 원자재 가격 변동성 완화 및 경상수지 약세 상쇄\"",
       "url": "https://t.me/marketfeed/1086538",
       "ts": 1795834596
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "원자력 디지털 전환부터 자율 제조까지…제주서 AI 산업 적용 논의",
+      "title_ko": "원자력 디지털 전환부터 자율 제조까지…제주서 AI 산업 적용 논의",
+      "url": "https://www.news1.kr/local/jeju/6369077",
+      "ts": 1795834765
     }
   ]
 }
