@@ -1,21 +1,6 @@
 {
-  "updated_at": 1795834444,
+  "updated_at": 1795834597,
   "id_hashes": [
-    "a982d27cb4dd604cf51c7b6e390bbb37d09cfef88a865ff296651c14c9094c19",
-    "8ea077af15703067d393a61fa373f67f03669f72eb44ab648b34978a1e97b549",
-    "afdfd2f35aacfeac32da7876cb4902b9993d1e5bf049a247d229be3b8f041154",
-    "6884dce94639beb0a239b7d50dbe385bbf7b42ae5b368ff96edd5192b80e51bc",
-    "f4acf0f8fd4215a3f949289cc9e37af48ff96bf74b7b78c8ed2eef91cf943eb6",
-    "0dbb75dba93326b60c84a01a8e0efe428065551f55318e6cdfb9bd201c63478f",
-    "644bf75a818ef25044f3b908c00f7e091759091acd4590c042dbc2c6f3d17206",
-    "4ad7a6a87d34df32ebee5dfa8d26dd7a5c59c8b9b06ae775e4528aa85b67bfe3",
-    "74722adc630f9071b21515ed48e2dd142ac895e980629db1cf98eea8f8b6da9d",
-    "52ecee178691c453ca6ddeda8007392bf0db0eaf6ad833411195d5cdad65d7a3",
-    "017c98da34d213be5b5faff00b58360dfdf44b82e59b6995b1518225dd018a3d",
-    "889927ed026eb914d5753d2d395ec95e4171e02338f44073bb72f216355cfada",
-    "d9f33503e0ed624d58897aa246066f0086cf909bc8fd494ba63b432592ebe93c",
-    "5623d4fc50cf8afec89abdc4df8da256e76ad2a735d75dbf4fab6fa57243f37b",
-    "fdf374b073e0f0583a3fbf8d54954f79cbfdeffb217dc1ece9ea9e838ed0deef",
     "f6df985b7725d8cd8f504b2da204199d6f3fa6710ff600b6d8443ccb96890629",
     "69c2d0026d7dfc283ffd77b48d5ad8769d907417fc8fba14d6f5ad18a270a948",
     "abd6191dfd14a644f8d77fa1b1987ffeeaa5cb488b433dcae1f58881c40d88f0",
@@ -4000,23 +3985,24 @@
     "e5d3320fc41d0a940aa622b7d1cfe9f4610f68656ccff74c9d923d082b3e2f88",
     "0e93df11bcd805226dd4e5dd9f2a47321536615ab5b9460a1f33d5da72717cc0",
     "5aa8581b77e25c112299a5f8792f94051a7e0b9863d650f6885e8944f095edff",
-    "4612664fccbec4b6dd37fad568632168fdeedce9c0cc9d967156102b602a9916"
+    "4612664fccbec4b6dd37fad568632168fdeedce9c0cc9d967156102b602a9916",
+    "7c7a8612b7793df8dde26987ba43660346668d1008eba0a682b93d72df29f74f",
+    "f128d8a43bdf607cd378fdb419231b731aa26baadfe19cd43dde393505ad77d7",
+    "5aa46d1e31dc682d8f5a03ec8950bd59df8727473115c12c0f911aa0b45b45ed",
+    "b9e0d6024e6dff3b4518615291f2941dfdc068393b19e97e8a23bc48193b64e4",
+    "0a76d771378a3d45232a143eb182bb80ebe42921df4b11cd60369ec3d5665ebd",
+    "9881790bdb807d364ea615e4a89f1e04273b190dfaedd8c27c98a86166903691",
+    "69bd0b7c0fbe020a2b674954f04a7f16f71d7ff7748bccc5e1ab2181bfeb5c04",
+    "a7ce90764fda411a37c7481d799b6f3ebaa574f68d035d5bca8654bc4b56592d",
+    "73cda4fad47f4af1cce2a6f1f411b624247233211d8b0c668b4758ab6011868d",
+    "2f197783debc839869065bebdb4559cb87b31e6643e7f2432b34dce9f39651f5",
+    "8516b68026eac9103d1b73bfa28943ce0c3cffb64244b858df5983f1aebda57a",
+    "3705e47024cb9a582465088eb7589e5acc55ae8e8ffce54045aa17c87852503d",
+    "5ac28d676851da60f4e7f35dc5987950f8d367f266e5c1644532b84d413c9aea",
+    "222b8d3dd719d52a60586c8dca5bda43c2c18683ec5844740d5218c38a3ae409",
+    "0d023e1a86a2d3df59c2552eb332acc8a3a916e26c38f531c94d1d9dee81b280"
   ],
   "title_hashes": [
-    "4ce90c8919fcfa53bfbb53d5eb878eba13df41a1a8239c8f177e23e456b7bf45",
-    "e0ad15de4472cac1d983b24ff8c6dc7c46b17db8fe7e9789f8d5faaa0574c8b8",
-    "960920e990b4617d8710cc7bdce3ecef467832c9aaa86dec2f9b899d1b74a767",
-    "d82e99fcf340f59adf3894e92169765d574a4b8c3387d2018828a06f5405ef76",
-    "6909db334569da1f47184cae40c3fe6d2373e3fb42b5eb4d9194dee95849f759",
-    "ab85dde37b78287c5fc622ad09c43cbcf86a4476e14075cb0d9ea8e9614799b4",
-    "d8a6bdf3fac20cdb7b174597d46ea76dc4bd4f6e25d51c4b5eb55689706bd020",
-    "ab60067ae3c1f2af94a8fbd19b6a40846972640a69b4af123f6f6b85d13861d1",
-    "2976cf25ad7e3526339ad8a5adc13c470c03b63703fc5e6b546e7c4df07b3ce9",
-    "ad73d0fac65b47c32bd3350ebe46269bc91432590249bb83a6df5ef947ce0781",
-    "8fd8810bda8526430424172bc2d63db6f381081eac67f1dd6462feb190ea5ff0",
-    "04988338d7121f6a15f556812b3f759ebd0dd2877b0d0c5b924c575f56f75343",
-    "8581bf98f80df74a47e0bd0661e28e8978a09b99634717326511742b8b632a4b",
-    "b6131514c0b398f16fa43013cdec289b703cdbf268a04e518f58af9b9dbd8b24",
     "c5c40273df224e00da3286060d496088536038493a03dbd4d3db7e45ca273ca2",
     "470b924f188a2baf2e9684b571557d37a04c8bb45f0f2303da6bb00dc5d2f662",
     "1ea2e73c9a1c83558cf06ae06fc0479d8288035c9cda510ba899c37a540ee2f5",
@@ -8002,37 +7988,23 @@
     "019c4c8a45ca411d87047112bc2d0de7a89668e08cb787362df15feca6850554",
     "24dbc5e72c0b468f9240afe6ad5c8310d59e1506f92c2424c03207cb0488b0da",
     "1595c31137539c1a6b7d7c824c0901269a37ed7b360403b7197b8496dc8f32be",
-    "d0fb179f2accb9964659deccc597cc5832e531eb040305a13c0f2dc6d38319ea"
+    "d0fb179f2accb9964659deccc597cc5832e531eb040305a13c0f2dc6d38319ea",
+    "977a0c550cabbc31e6a73a1ecdfa2b071054ed9cc67ea60fb3d445cf6302dfed",
+    "672a945e4404046efab498ac4d7d9d1460e7886ecf8702cc929f3aa066015dc6",
+    "ae81f2c156950e55d2129ee75d90af582c9317c2ce4f3f7241cd9fa2245a66b7",
+    "61b5e3fcb50d0066e93cb59b4c0a9665e0908eb13bc9c94a86f30c9c8ae27e46",
+    "3c0997744af8b989e06e782cf56667a8ec5967a40861dbaf16341b84a3fa8b62",
+    "a9b1d14190c4c3d3d61761c24cfddd6e32e69b9d2420e1a121fd1d612e3914d5",
+    "abd2b69140754385d24e5a42222aacaca5b7b083f5c95afababbccf4eb2eb19c",
+    "6797c49070e29496f93ae72c50a7c59bc9a83a85ec21cd59b14df3853610ab20",
+    "68126d5e965fa801d4d9565ce426db66310c37be3b7d1aaa319a5d9e3c7bddea",
+    "68cb6bb39e14f0bef4005c49e1675cbbcda95da17290feae4739f6525b56b052",
+    "164d278c1f106efbaab7ce6ba4ed845eaa43842f4983d25b8a2ee14f8270b348",
+    "f1ad5cf221aa4358f72e440f4168e3958cc3c601f7e019837009264648e165eb",
+    "7ad87b1b844bb8f2a3586fcefa16f0da595e897bd5bda1137e4e144db0e954ec",
+    "a1fc8a7105cd04b1c93d229a0220c4157425f54d28b3ee0d3939b0195f13a443"
   ],
   "recent_sent_articles": [
-    {
-      "source": "FinancialJuice",
-      "title_en": "Trump: expressed concern about earlier market declines",
-      "title_ko": "트럼프: 조기 증시 하락 우려 표명",
-      "url": "https://www.financialjuice.com/News/9869849/Trump-expressed-concern-about-earlier-market-declines.aspx?xy=rss",
-      "ts": 1795737426
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "제조업·서비스업 동반 위축…중소기업 고용 증가세도 둔화",
-      "title_ko": "제조업·서비스업 동반 위축…중소기업 고용 증가세도 둔화",
-      "url": "https://biz.chosun.com/industry/business-venture/2026/11/27/XNAQACTEWVDBNDZKIA4IC25WFM/",
-      "ts": 1795737568
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "SK證 “영원무역, 원화 강세·고객사 성장 둔화…목표가 9만원 하향\"",
-      "title_ko": "SK證 “영원무역, 원화 강세·고객사 성장 둔화…목표가 9만원 하향\"",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/27/ZILOZ4OJSFHXBETLNL25WF2AEY/",
-      "ts": 1795737571
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "SK證 “종근당, 실적 공백기에도 R&D 모멘텀 주목… 목표가 7만3000원”",
-      "title_ko": "SK證 “종근당, 실적 공백기에도 R&D 모멘텀 주목… 목표가 7만3000원”",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/27/BVUPS2CI5VG7JFNTTYTADTWTTA/",
-      "ts": 1795737573
-    },
     {
       "source": "조선비즈",
       "title_en": "키움證 “펄어비스, 연내 ‘도깨비’ 정보 확인이 중요…목표가↓”",
@@ -11504,6 +11476,34 @@
       "title_ko": "S&P \"헝가리의 러시아산 에너지 의존도, 장기적 취약점\" 경고",
       "url": "https://t.me/marketfeed/1086533",
       "ts": 1795833843
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "S&P CITES SOUTH AFRICA’S IMPROVING FISCAL POSITION AS GOVERNMENT HEADS FOR A FOURTH STRAIGHT ANNUAL PRIMARY SURPLUS",
+      "title_ko": "S&P, 남아공 재정 건전성 개선 평가…4년 연속 기초재정수지 흑자 전망",
+      "url": "https://t.me/marketfeed/1086535",
+      "ts": 1795834526
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "S&P: HUNGARY’S MEDIUM-TERM FISCAL AND EXTERNAL VULNERABILITIES ARE GRADUALLY EASING",
+      "title_ko": "S&P \"헝가리 중기 재정 및 대외 취약성 점진적 완화\"",
+      "url": "https://t.me/marketfeed/1086536",
+      "ts": 1795834591
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "S&P LIFTS SOUTH AFRICA’S FOREIGN CURRENCY RATING TO 'BB+' AND LOCAL CURRENCY RATING TO 'BBB-' WITH STABLE OUTLOOK",
+      "title_ko": "S&P, 남아공 외화 신용등급 'BB+'·현지통화 등급 'BBB-'로 상향…전망 '안정적'",
+      "url": "https://t.me/marketfeed/1086537",
+      "ts": 1795834593
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "S&P: STRONGER HUNGARIAN FORINT HAS MITIGATED COMMODITY PRICE SWINGS, COUNTERBALANCING CURRENT ACCOUNT WEAKNESS",
+      "title_ko": "S&P \"헝가리 포린트화 강세, 원자재 가격 변동성 완화 및 경상수지 약세 상쇄\"",
+      "url": "https://t.me/marketfeed/1086538",
+      "ts": 1795834596
     }
   ]
 }
