@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795840059,
+  "updated_at": 1795840209,
   "id_hashes": [
-    "684172f614bd3f0e26f469e0910853de2a3d68dc7d43feec4e8f0dd822b39e29",
-    "4e741698460b0b487ae6a7707e22ac738cdca3396a638f945602bc566e4ba15f",
-    "b667bc8d029990b8802086cc0e1b02101d0f412082395a9e3619ca69c9cb6208",
     "d24af7c07ad9734d6fa51fa424c5b627bd7ee414c08631cffdccc75b5a7385a3",
     "5c0d95dccad303b4a60dceea52d939507fca5807708de1f8f4a85795230985cd",
     "e2cb8f9f7c7318a1edb6aeef2807d3fa4e3daf0862bf91ffcd801edbc97b075d",
@@ -4000,12 +3997,12 @@
     "9c54e9fb79e11dc1bc4e58fd476b9f5f0b1f354da4ebe141442d8c9e347c9b7b",
     "5e9eeab0b5912e09f2a18e6d077845dc998e3418c7f57c6fa150ecb8a8c528c4",
     "ce5da6e4abcbefcf6ae494edcfff80b4a5ec7c06d76e16402059c73216d6610f",
-    "31307ac1283ab49d38c8bead40233266847fbbc62e6b2fa4bf757f2f5cd40af3"
+    "31307ac1283ab49d38c8bead40233266847fbbc62e6b2fa4bf757f2f5cd40af3",
+    "5fb18928bd8dbe9ce7a701a3f1aab1273bc367887890a7899a99ab65cd6a6621",
+    "485b9c6c081022a06e8bb9b4e6dcd1a6cc4b626b2a245dbd46742c9693915b33",
+    "11c4ec51ad25cc1607b840a5e4d2b78a124bd822026956e3c7a451cce4b3db2f"
   ],
   "title_hashes": [
-    "f0e5d9f95ecafcc1774a70cfbb37d82bdf32bce1c5e4a0e5b9ea038c01aa1c79",
-    "e288a69479005b569b48c941a523dee14f3e2c9ed89b34f1c57d4b0af5b51a4e",
-    "2f8a7a481010bd7f5bcf8970e8ef332c8888c4deef0ea86b15f5df64a4b58fb6",
     "a908abe11c067002f3d824f70541f0224eaf05fdcac8434c1841004cfd62f170",
     "ff5d82f890317be1ad2afa12cbb630f9e379bbd1b5aa3fc8f8fc9fb3ed348809",
     "2e03cbb96d6185741c049fa81c23e6c4b42259dc0dca07b034925b076d640fce",
@@ -8002,16 +7999,12 @@
     "8365b9694a6f77a9262d6e3787cdec1d9ad60bc6dcb39b09ec32cc1a9d95ae10",
     "c0dc70ca5a61c889d9fe9781962f1426bcf3b02731c225741c7ba9f170fdc730",
     "7e98ebdd5828de8ebb422fa533e2b0ac9f29bfdc064a534523ace9b87efcd82e",
-    "93f149b0311f8153d56e0cd4f24b62ec39812b6c42c6ca1a15131e7360c37cae"
+    "93f149b0311f8153d56e0cd4f24b62ec39812b6c42c6ca1a15131e7360c37cae",
+    "dd3da7b8aaba13638617c6b918089fba2512264f5245fa5d075b2d05edf30eb9",
+    "fcee326bfab869fde651e537b81d225ef446457ed13e8c7972337f2840fc4e7d",
+    "09a4bcd78a17fbe8035afd45f6ba6b6bcf01ddbbb22ac23f03bc0e88713c74a8"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "로봇 움직임 제어에 5G SA 전용망…LGU+·현대차 기술 실증",
-      "title_ko": "로봇 움직임 제어에 5G SA 전용망…LGU+·현대차 기술 실증",
-      "url": "https://www.news1.kr/it-science/cc-newmedia/6367903",
-      "ts": 1795739482
-    },
     {
       "source": "뉴스1",
       "title_en": "코스피, 장초반 0.80% 상승한 4748.69…코스닥 2.14%↑(2보)",
@@ -11504,6 +11497,13 @@
       "title_ko": "김정은, 시진핑 만나고 새 대외 노선 확정?…정부도 \"동향 주시\"",
       "url": "https://www.news1.kr/nk/politics-diplomacy/6369065",
       "ts": 1795839784
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "CHINESE RADAR PRESENCE DURING JOINT EXERCISE PUTS CAMBODIA’S REAM NAVAL BASE BACK IN FOCUS - SCMP",
+      "title_ko": "합동 훈련 중 중국 레이더 포착, 캄보디아 리암 해군기지 다시 주목 - SCMP",
+      "url": "https://t.me/marketfeed/1086563",
+      "ts": 1795840146
     }
   ]
 }
