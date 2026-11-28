@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795844952,
+  "updated_at": 1795845101,
   "id_hashes": [
-    "dbe3b0ffdfc2e69b05ba0779de6a55e8644f05586216612650e9da3d014a56f4",
-    "2738584af55a2da0c5691f396110d37dd9c563240dadb59c46b07c01c5c2e89c",
-    "7823046dc9b3bb37638af624c548560b5f45965aa89c02dd4e9bed409a9565fd",
     "48a34ca4aea3befc3d269fbd3e3c043ebaf35a17a1e22232180d0ab95a8c373e",
     "c08452ddd937aaaf78a05fa292a7eb9d2c65a97dd72dd3e8affca84aebe6d451",
     "6d7dc3d2d96c0528f12f270e0bcb3b98559e495d027ad5ae40bdbe99d02daee6",
@@ -4000,12 +3997,12 @@
     "aeafa914c6a1ffc3b1b7526eededdd8831296039fcfcd1eb4e4d22f4811449ab",
     "d37525d00b6ed0023941d715d2340ceb888e510153c4da216263c3b8a412216c",
     "9d011ae386724697c73ecbb2f4046b883d65510a9e2400946da35f1956778a23",
-    "44aa8e07b4ccf96db141840fef145e3a05a051f6c68c13e39dddecde803b4a93"
+    "44aa8e07b4ccf96db141840fef145e3a05a051f6c68c13e39dddecde803b4a93",
+    "8a4a7aac832d6011b44d693794e4e1a6b5d2f27053b8f4b203811251c2432b6b",
+    "3ed0471949e9e15d2fbe7b7ca4354f773a9655225068e443a3eb37364d6ef870",
+    "94cfe262742b88df94cda2f57dc32c4df37d7d7d29c1c9424c6ddc61cee00d32"
   ],
   "title_hashes": [
-    "bfaa3d69b8c61113adfeb9734fbb6c74ce60b3b56ff2e570442b76067294fe69",
-    "392a1897cfa3ee55f717b8ac5820cc642b6231c965c1fbd644046577debe0728",
-    "4e5f99590360123046cc7888003cbf805148efe083a248b68f01f49f396fd8a7",
     "8af5a79bdba59b1390d19f483f2ab4d194ad4ca3b6a9c2d139572bab753ece4b",
     "45736610efbd43256f2dee037691137e7dedce79eb697d17919ecaec6fdbbed9",
     "4be0ea8e60dabcae00b3c0aad9a6a5b0013fad44967070ea7d370408b19ba41d",
@@ -8002,16 +7999,12 @@
     "97621bb9e09c13871994e30a64fa113ed2dabbe26eee34d2da69c4331e460812",
     "e50d4ac147d52ac518f0a48a27324326e22bb6e3b906d268ac9d0f6173643c1a",
     "5f47c574d98802514528f5a517e85b832912ab09be66df6a1e9d674f4b158f89",
-    "670f92bf3bd6b7efe4a13a5c3dd828e937125ac77598416cb4cb7647a9697bd2"
+    "670f92bf3bd6b7efe4a13a5c3dd828e937125ac77598416cb4cb7647a9697bd2",
+    "2050754a6c40c9d1b56976f9e6854257dc22a88bb01dd64a8ee238e73f0c925e",
+    "9aea40737395d0d7013845e81de7e6b1e363312890a26261a08e7adc4b217453",
+    "e3bcd58b67bfd513bf1475737709e452e1cb8dd1d564c1829fc67f8222047e7e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스웨이",
-      "title_en": "한화시스템, 스페이스X 우주 데이터센터 구축 기대감에 강세",
-      "title_ko": "한화시스템, 스페이스X 우주 데이터센터 구축 기대감에 강세",
-      "url": "https://www.newsway.co.kr/news/view?ud=2026112709272215150",
-      "ts": 1795740424
-    },
     {
       "source": "MarketFeed",
       "title_en": "JAPAN YET TO FINALISE REVISED DEFENCE STRATEGY AS DISCUSSIONS CONTINUE, FINANCE MINISTER SAYS",
@@ -11504,6 +11497,13 @@
       "title_ko": "북한·러시아, 다방면 경제 협력 강화 합의",
       "url": "https://t.me/marketfeed/1086580",
       "ts": 1795844592
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "JUST IN: 🇺🇸 FEDERAL REGULATORS OFFICIALLY SHUT DOWN $6 BILLION UNITED FIDELITY BANK, MARKING THE BIGGEST US BANK FAILURE SINCE APRIL 2024.",
+      "title_ko": "미 연방 규제당국, 60억 달러 규모 유나이티드 피델리티 은행 폐쇄…2024년 4월 이후 최대 규모 파산",
+      "url": "https://t.me/marketfeed/1086581",
+      "ts": 1795845038
     }
   ]
 }
