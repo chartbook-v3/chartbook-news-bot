@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795863889,
+  "updated_at": 1795864036,
   "id_hashes": [
-    "fcd91f483b87157c80abd19cff2b965c22af929606a0b795ce82710fca057641",
-    "e7389f5b12a4c27f8576581e90fdd3c68129252d29502858f7d456c1b6caab50",
-    "af21abd5ab23da198fa9c073221c33308f6e937936ac7723ccddf258c967b1f3",
     "035e2d16c62e56b7fce12014e531cb1f3ca99495a298c443c9a36c92804002b4",
     "85761e6e0d78543080e5c34d446844d4384928c36e9a869514026c994cb05af6",
     "09fad68720f5d7dd9810ea65e5ab6ee93ce4da19f371a26b373fc23005ca6477",
@@ -4000,11 +3997,12 @@
     "1bcc46d0a5a7fc3471f4fb1885d148bbb185e4f4c7bfcfcf2d1f69182f3a28a7",
     "3ab2797b22506a26999fdd1654379641a842e76237124b2086e792442583e2f4",
     "3de4060a9518b2d367e3ad382b62f0e6c2d12676f0b0018da15efd98d3c8fc1b",
-    "bb62f43a18a05bf61edf6242b4d21d42ec6894b55f8089b1487e45647a797236"
+    "bb62f43a18a05bf61edf6242b4d21d42ec6894b55f8089b1487e45647a797236",
+    "ad21f69ba78310eb1b0e143a662ab4320f89b5115c40448525f4021c51943f40",
+    "0f15b186a8fd4a54b6db9535d678e63552b653a3b6e7d3254b21bb3c675ba6d2",
+    "ad47af5b9a37fdb52bb403f570c5468dcd519f8b1d2bba770474c98b132078e0"
   ],
   "title_hashes": [
-    "25b0411663be45a6f8b149ef3b54f7d0eab41e66af38674c53f270e6ffdb9644",
-    "9f065c007175eddea76c486a1cd952b0ca50dfcc8cba38c3eea971ed09f2376a",
     "1081274e115d28b8f31f70fe14fe12d5d737bc6640df48980cc70162850aa280",
     "ef27a79d713b7f8ad1ba9abc3b891f15281ed013e1b950ab0d64471dab1b772d",
     "44c81d2f0d2ad60c753e657d66539eaa32e66127aebf85b477563872210659c7",
@@ -8002,16 +8000,11 @@
     "53a303add12d2aaef56b4c8ce8a413a644d559dbf9555aa444d1886acc15bb7d",
     "7f504c124217cbc48631c56bf7496ef5a6b3064b50d1eebb5029c35560caa708",
     "241e17baa9c1814e80751b89196cb1aa034c19e10f72c055ee76fb48dde9d28b",
-    "dd78ff11619b27affe491fb1d9a2e9abd03858d782365eabfa9b429dab925201"
+    "dd78ff11619b27affe491fb1d9a2e9abd03858d782365eabfa9b429dab925201",
+    "475c2600bad3cc7aecc59919cd7d857dd28ae0d32fac0cfbff6589e2e8c544e0",
+    "fcf79cd4642f59a94d9546f6a76c23abda910cc4187ff0ed9769343823bc9965"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합뉴스",
-      "title_en": "[속보] 코스닥 5%대 급등에 매수 사이드카 발동",
-      "title_ko": "[속보] 코스닥 5%대 급등에 매수 사이드카 발동",
-      "url": "https://www.yna.co.kr/view/AKR20261127056700008",
-      "ts": 1795742842
-    },
     {
       "source": "MarketFeed",
       "title_en": "CSI GOLD MINERS INDEX SIGNALS 4% JUMP AT MARKET OPEN IN CHINA",
@@ -11504,6 +11497,13 @@
       "title_ko": "러시아, 우크라이나 에너지 시설 타격... 우크라이나, 러시아 드론 관제소 타격 발표",
       "url": "https://wallstreetcn.com/livenews/3207355",
       "ts": 1795863077
+    },
+    {
+      "source": "서울경제",
+      "title_en": "머스크, 엔비디아 주가 올리나…GPU 구매 대폭 확대 [김기혁의 테슬라월드]",
+      "title_ko": "머스크, 엔비디아 주가 올리나…GPU 구매 대폭 확대 [김기혁의 테슬라월드]",
+      "url": "https://www.sedaily.com/article/20120025",
+      "ts": 1795863974
     }
   ]
 }
