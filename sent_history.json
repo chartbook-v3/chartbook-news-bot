@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795826243,
+  "updated_at": 1795826391,
   "id_hashes": [
-    "dc0750e5f23f944c1cad6fa6e84a9ef88cff0f0339a86fff56ca4ef6539ef23e",
-    "906f14877110341f0e8c6cffc2e0cdce3c5c351b3885b5f724adbedbecde8b5a",
-    "f6d873d3d3e1eded6de75ae65de6a73c374a252d0167e38a743853c31f96e204",
-    "784d2092ca944c2da27c6289d233c1124749a96084b3d79a0d9bf62271aac763",
     "6ffee3f50ec9aafc92179836126c511b1ab53e6a73d87266a7d225ef27fd24b1",
     "17037587b15bea62b33220537e70dfa0b816bd9b625a56fe23e36c827b418fb8",
     "b03f51ea1e1403e0acd35dd80a5159f9c4ea3a82708d9e0b157e21f4271d8297",
@@ -4000,12 +3996,13 @@
     "6f1452ffe43685fd3457a84de8f842f3668ebbe8926625948b40a15e8d2e238c",
     "86ea366b865ffeab2b41967644a694036a20085e65d5a71cb67464ddd9e64c76",
     "e6a625b924ffdc9c97dc0dafe27158f6beed37c82e51fb14261d3f11bc715703",
-    "c6f20fa3b745f8afc649218cce3d5713340d9a8fb154cc93a5a41bae1aa80457"
+    "c6f20fa3b745f8afc649218cce3d5713340d9a8fb154cc93a5a41bae1aa80457",
+    "10acbc8a6bbafeb492837b5f86b5a64182e178f98711de2526e866dbf26d5aca",
+    "ff1cdf376321f1f2e076ab1fbc822b73736307f7929238b0973049c919a1819c",
+    "dc9222de14f1fc47a6ab2915a93c5c1ba863e3326cbf3a50128cddc060e40611",
+    "fc2f94e00a0a402733a2d9d80a1f1854ffa74dacd40229b9b086695540ac6993"
   ],
   "title_hashes": [
-    "9bf281b50d6802115aca2c9097086178a6a5baadb52e9dd19d05aac3165140ee",
-    "0199cd94281549027e3dfb8e86e4d8682feef498d093729c645587e0e45f9549",
-    "d69a36174ff4054162183798eba095d474b71166c0f1e10f2c797964b518fc8f",
     "2dbdcb0f4da61bdc70bbbe9816fa860b1db11aaa0414b823f45bc87a639ea481",
     "52f820650f42797edc2310b35b633082829e3f7dd623ebbac3c16c21db659069",
     "92bce0662d07bb1f9bfe25cf3507ee7362f283f50c3a938f859b7034382d375f",
@@ -8002,16 +7999,12 @@
     "c32e25132ebc68aec3eda9bc7b1efbf59f27a9f54671b28420bc0b779654b345",
     "bb2a4e4998396a709e2fc0e4313ead0a8c6b9167efcbca19d09650752131abae",
     "aef66ccbdf52b014d8b1315ca7de9519a5381e62d82672497a3f7b011fd4632d",
-    "c7b03e4d20984a51bb3ccb79c7514c37a147e5cb2ca296294d441ee099419abd"
+    "c7b03e4d20984a51bb3ccb79c7514c37a147e5cb2ca296294d441ee099419abd",
+    "009bcce95a4151b0d193284aba1eec29e8a8b829239ac2e2ceefecf2378b17f5",
+    "ef89b873faabacd139783997caadb755ff75e2c3dc83f06d83565164e56a6093",
+    "eb8152dfc84d83e1eac04c43780db09c607606eb898b1a8cbf55b43997e3bdc4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "바이오스펙테이터",
-      "title_en": "한미약품, 차세대 '마이오스타틴 저해제' 1상 \"내년 진입\"",
-      "title_ko": "한미약품, 차세대 '마이오스타틴 저해제' 1상 \"내년 진입\"",
-      "url": "https://www.biospectator.com/news/view/30548",
-      "ts": 1795735351
-    },
     {
       "source": "MarketFeed",
       "title_en": "GOLD REMAINED NEAR A 15-MONTH LOW, DOWN 0.4% TO $3,571.42/OZ, AS HAWKISH FED EXPECTATIONS AND STRONGER INFLATION DATA FUELED BETS ON FURTHER RATE HIKES, PRESSURING NON-YIELDING BULLION AND KEEPING IT ON TRACK FOR A THIRD CONSECUTIVE MONTHLY LOSS.",
@@ -11504,6 +11497,13 @@
       "title_ko": "설명: 위성 100만 개 시대? 스페이스X '스타마인드'가 지구와 우주에 미칠 영향은",
       "url": "https://www.reuters.com/business/environment/million-satellites-what-spacexs-starmind-could-mean-earth-space-2026-11-27/",
       "ts": 1795825044
+    },
+    {
+      "source": "매일경제",
+      "title_en": "주가 급락에 자사주 매입 속도 내는 SK하이닉스…하루 매수 주문 70만주로",
+      "title_ko": "주가 급락에 자사주 매입 속도 내는 SK하이닉스…하루 매수 주문 70만주로",
+      "url": "https://stock.mk.co.kr/news/view/1207519",
+      "ts": 1795826269
     }
   ]
 }
