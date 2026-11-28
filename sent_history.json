@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795836387,
+  "updated_at": 1795836537,
   "id_hashes": [
-    "2831f99a0be000d7d103cc0dd474371e09afc6e1df2680157b8515f071fc7df7",
-    "b81557bb64fb7d0ef368a6bc8f2eb56c062a57318bc71de5f32035a122ac3ddc",
     "58ec893bd7e7289957038fa5eb40639e6476a0ef7d1b404adcbc182f24c19ddc",
     "fdb16fd8c90c192162487ef9dcead82852e0e19391859e2b3e94fde28c9792a4",
     "93f2b7975e43fc6e7458822d82880534c839d67076260aeb05c1efbadc9ad23d",
@@ -4000,12 +3998,11 @@
     "f7b4fcbbc9499c853d6517abae12ca674c497163d15ca6a31cff0a4f231adfc0",
     "d77320903f1a8f5d1bae5da202f682504119592c46b0d4cd8abe58e9292247e3",
     "aa9b10eaf4743dec421615ff74182d53359c1cea6db297b7dd3af070d24c8c5c",
-    "d6a5a7ffb6479eb328d51d04299468878e289cfaf93eb840022fcb895e648eeb"
+    "d6a5a7ffb6479eb328d51d04299468878e289cfaf93eb840022fcb895e648eeb",
+    "28b695f25e141cbc4312989276f569946d45acba035b8d41fb045bc42cf8104f",
+    "678a56de8ae6224bd5d1899a295672797bb78a340d5d68ea9bd9553bf5b34f98"
   ],
   "title_hashes": [
-    "1e0889322bb5995f1102c3246bf2f8dc3884fbe09458e7a2b8293a652d8d1a00",
-    "43f50406ae13e0676802566bfc9dcc4cd998371a62d83e3850a28dc1916b8d4d",
-    "0057da9f802f880156310be875946acfd107f2e505e779c9791d77f2dd697712",
     "1ae8b57bd3d6837f36c4129dffdf7acc7c7db0da38d5668f1813c1a06b78271e",
     "c0b4794981511df2fda0a85392843c9a13513f623ef9421a82df50d8080d655b",
     "1f31af646d00e2cc7f55d17712bdf45f4dad6507b9c24a81e52caef316890202",
@@ -8002,16 +7999,12 @@
     "9dc8fdd67123a2f25e779a754ca52d872f75cbe94bb2543d0621b25e1592e3cd",
     "ac6a443b5909f15c86d9f6267ef36df03784ab35bfdf07082bbdb649cea3c520",
     "ea307955e3611152def48fa773048780283e6e29c1e4ef092c0f68fb39f808b3",
-    "83e390b79386ebfa2a92a9804878f40e34fcfa66260cc7249232cc2ad93d488a"
+    "83e390b79386ebfa2a92a9804878f40e34fcfa66260cc7249232cc2ad93d488a",
+    "55d0358a835bf7b1890641b0aee624f6f4b7b16e9aca2dd6f68680cda0dfe97a",
+    "7b1512039f81dce8d6101b219a5ef494d09084b593b355b8c8ddbc5675a9f09f",
+    "a78d43beb08b5a598987b1a7c305bedd58482960827c27d6c95085c19fdf90dd"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "UK-Based KEYWAVE Technology and Taiwan's ESMT Sign Strategic MOU",
-      "title_ko": "영국 기반 KEYWAVE Technology와 대만 ESMT, 전략적 MOU 체결",
-      "url": "https://www.digitimes.com/news/a20261126PR205/esmt-taiwan-iot.html?chid=9",
-      "ts": 1795737955
-    },
     {
       "source": "뉴스1",
       "title_en": "W컨셉 '더블유위크' 흥행…24시간 세일 브랜드 매출 85%↑",
@@ -11504,6 +11497,13 @@
       "title_ko": "GS, 동해 1.2GW AI 데이터센터 첫 삽…허태수 회장 \"AI 산업 명소로\"",
       "url": "https://www.news1.kr/industry/general-industry/6368628",
       "ts": 1795835957
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "TURKISH FOREIGN MINISTER SAYS THREE NATIONS DISCUSSED FRAMEWORK FOR ADMITTING NEW MEMBERS TO MECCA DEFENCE PACT",
+      "title_ko": "튀르키예 외무장관 \"메카 방위 협정 신규 회원국 가입 프레임워크 논의 착수\"",
+      "url": "https://t.me/marketfeed/1086545",
+      "ts": 1795836536
     }
   ]
 }
