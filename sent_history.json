@@ -1,7 +1,6 @@
 {
-  "updated_at": 1795838669,
+  "updated_at": 1795838834,
   "id_hashes": [
-    "372b62ba533ae0bbb5461e4fe9d9f7b5596a80c50f659a13e5bf6cdc1e596e04",
     "6a3ccd07daf60786755db99b52d6241b53bf5ed2a9020509508cb0ea47081b60",
     "c77db25818800ccdf06a34fcac5791437681048a3dbd89be8816f8092aeba6ad",
     "361e038023536afb9f9a0998bf18518128dbfb3d0f22a349733b82f12a301300",
@@ -4000,10 +3999,10 @@
     "c625e3c4cb3744bd03432e4c2fe95629bd5b73176b2d94cdb3dd7c1dc9dd5003",
     "9dc467b58872394b13340302dc310288360851de08722d8c2f469523ec599547",
     "b719f53ff947e22d3cd4b7eefec7da91ad5957eda7c731fdc35a8d0c12d3a437",
-    "f36af28f8c87ec32f730541a5f23113c595bdd393e337c9205c1596f430d871e"
+    "f36af28f8c87ec32f730541a5f23113c595bdd393e337c9205c1596f430d871e",
+    "0de3909c9e9a4f9fe59fffdf5490eb7443857df417a83ceaadbc1c1ece8b28b6"
   ],
   "title_hashes": [
-    "4e2181c40f7108a848f1b423b358eaa32e97a433b345e452eb7e49d47e028d57",
     "d18ba3cc1015eadba28b2bfbca714827baa0250b0c00bcce8674fa8dacca43ae",
     "8470223f721834b884d0dff6c33d7e2d17828bb782c311dfb1ab3eb59225c06b",
     "2d184581dfdf7a50742253c22739e219a2e981289eee0b135c8b3f1b59110c1a",
@@ -8002,16 +8001,10 @@
     "dbeea9738e5157fd2fed317ecb3503f43f2f9dcb70e2fc9e4fc8ce6df4b6e10e",
     "9181c532509c48869b213fd98ed608e6212d03ae3cbc0de6ba776621bdddc716",
     "203bba8ca14810fcd5dfffcba23a59c494b026bcf912fbd4f5bdc8b8c7518634",
-    "7ca7be27da52a6b300b9fd2ab34b6cca250bfa3ffba411c4c8408b84a8ade9cc"
+    "7ca7be27da52a6b300b9fd2ab34b6cca250bfa3ffba411c4c8408b84a8ade9cc",
+    "4bbd4d5d0d24508437e2e25f3654fa7d471e8dddee1dda6597e0f0f1b26394ac"
   ],
   "recent_sent_articles": [
-    {
-      "source": "Bloomberg",
-      "title_en": "US Plans for Tariffs Face Pushback",
-      "title_ko": "미국의 관세 계획이 반발을 맞이하다",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-27/us-plans-for-tariffs-face-pushback-video",
-      "ts": 1795738804
-    },
     {
       "source": "비즈니스포스트",
       "title_en": "하나증권 \"스페이스X 우주 데이터센터 구축에 광통신 수혜, 관련주 RFHIC 케이엠더블유\"",
@@ -11504,6 +11497,13 @@
       "title_ko": "피치, EMEA 통신업 전망 '중립' 상향…잉여현금흐름 개선 속 장기 리스크는 여전",
       "url": "https://t.me/marketfeed/1086554",
       "ts": 1795838519
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "J.P. MORGAN PAYMENTS RECEIVES AFRICAN DEVELOPMENT BANK APPROVAL TO CONFIRM TRADE FINANCE GUARANTEES",
+      "title_ko": "JP모건 페이먼츠, 아프리카개발은행(AfDB)으로부터 무역금융 보증 확인 승인 획득",
+      "url": "https://t.me/marketfeed/1086555",
+      "ts": 1795838833
     }
   ]
 }
