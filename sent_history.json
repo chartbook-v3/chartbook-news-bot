@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795836859,
+  "updated_at": 1795837010,
   "id_hashes": [
-    "066f4d175a2f290264520600870ceca01b7198b75ed5dd2823d48c1342f6bc3a",
-    "b9151e975d3756ee572a7266c1a7b2a273b277c127093ed8938152ca8832b42a",
-    "93debf8f58476edd311b31cbdad5e9f3bc2b9d764b2e690cf0d75256c7254fc2",
-    "0913521474a5f6c10ed18893c82d3187ddfce6a62b3982752529c6cb49aa471f",
-    "e0466f3af336324ebc53a9c6842684c7dfeea0e2ec32ca4b721b8063e7faa186",
-    "85baa759f34f04b77dd3630a13227ad00f7c4e9c0da666eec9797f216fafec3d",
     "49b0626d82ef713d8bda3166500de798d4dccaad548f1e2502edb1ba9d5d0c12",
     "c11c0c97c95abb7eb0711c62ccd80dfa8b9de665b09578c2ebf1a4aace978acd",
     "94199b53f09c2de659e27cbaa19d0c72875a3b984f5d324bbeefe82d304778df",
@@ -4000,13 +3994,15 @@
     "0c5db7f73aca63968b73ae8704651d76a199c61646ca257b52199a70fc7c2da1",
     "ea570ba1e60dfdedb7cc92c60e2f7e84bac256aeeea288bb9d65b7ce1ad22fc0",
     "54fb2ea7fddd988004f43980c47b82b13ae648c58b7ed349fea5e37c8a68561c",
-    "6f2463b9a2ea7ce4b6bef13f6eca4707fb3365dd0b7edb61f3a112d4b7a79cd1"
+    "6f2463b9a2ea7ce4b6bef13f6eca4707fb3365dd0b7edb61f3a112d4b7a79cd1",
+    "0625d82fa7abb6b0f79bfe01cf1966cfbfb5982b2bd655f8b8796797ac21b4c8",
+    "e327c490533a5c5bb092097ca96bd38fdbc16e877a4789b7398e8ccd678ededf",
+    "f5f375c4819ade17e484a24e9a917d6d3956adce699a29e5245dc07531c5eeb7",
+    "d1019a16cbbabe729ebf08fd25e36002e1ad5c7a42af3535c9b3b2bf66901489",
+    "232d7b67bdbffa916d95d316212ff1069464e3247298651a09f68b116b6d0ee3",
+    "9d0c74a4076575543ec748f399880a55e8d4f0f13e8de45609215368202614b1"
   ],
   "title_hashes": [
-    "4dd4f9a237d36f45d7e365a35bc1f302ad011c45d9178ea471023fef16d38049",
-    "e06dd847193b5470eb15e6d970048e1f1c011fd478706ad2e9c6ce1469fbc92d",
-    "c7839f2c2339fc6b7e6281ddec3eb8a9906e820fbd0d4260c3e1e383e68d9de5",
-    "c5dd9e0c05439dd69ce4f543b45319d23fcc3f3daba82c2bf405ff1e447294ac",
     "127b6418488060f4edf5f410023877804b24d782fffb7f3880dbe4d110755d30",
     "70d8e134c43f10189ce1e1f33acc14ec40026da77427bf2709d9b701b104b036",
     "a74b876f2e78c55d5543131e95aa33048039abeca016f2eafa08ac0ea5927cdf",
@@ -8002,16 +7998,13 @@
     "a78d43beb08b5a598987b1a7c305bedd58482960827c27d6c95085c19fdf90dd",
     "49b7cf55e1002f1fdcf1e605f09267832008a58db3904d37905138cdf4971a6a",
     "916aa6a5d346338f430058495e50d67b102a87d86f393fc13bbfce164dbfdb4f",
-    "8595485042abc093badb5a3e03825d85d50a20ccb13f4cc1dfae567bea361cc9"
+    "8595485042abc093badb5a3e03825d85d50a20ccb13f4cc1dfae567bea361cc9",
+    "f96b87721bcaabc78a635fcb06178d370ee4443480a9298dbeff10f1d1043d29",
+    "b8d15296901abc886974c4c1c6a3a5202221aa877a50daaa448ee1d4a5663966",
+    "dfe5671981c8e5eb8720e9060469105b340ec7bcf74f05af9746ebe18162d993",
+    "0549ded987687c0b3502fb42d417e5f00fb5f8ccb135094dac3b4fe546c6c259"
   ],
   "recent_sent_articles": [
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "[속보] 코스피 0.37% 오른 4728.80 개장…코스닥 664.52",
-      "title_ko": "[속보] 코스피 0.37% 오른 4728.80 개장…코스닥 664.52",
-      "url": "https://www.fnnews.com/news/202611270854352388",
-      "ts": 1795738039
-    },
     {
       "source": "Reuters",
       "title_en": "Cautious consumers gear up for Black Friday as inflation woes bite",
@@ -11504,6 +11497,13 @@
       "title_ko": "DL그룹 회장, 실적 부진 부서직원 수백명 한밤 호출 '물의'",
       "url": "https://www.yna.co.kr/view/AKR20261128027900003",
       "ts": 1795836797
+    },
+    {
+      "source": "The Verge",
+      "title_en": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+      "title_ko": "M5 맥북 에어, 가격 인상 이후 최대 할인폭 기록",
+      "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+      "ts": 1795836884
     }
   ]
 }
