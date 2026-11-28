@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795844213,
+  "updated_at": 1795844359,
   "id_hashes": [
-    "5a19a018ef98b1c26a5813e2cc33a2a4d5e0c75aaa178b3e7dd7bbf79652b344",
-    "01bbaceff20339c766c7e8b47b74b7dbba1b7add77ca91e6a4e28657bfc63462",
-    "226da6d83bd3164147c2c3be6f5f45074f87bcbb03ce13e703b8cfa072948ecd",
-    "74df07a91228d2335223d9f248a49ea97bfe6c0cedeec41ef52c12f889e27122",
     "d2a8f4d3f2165785597b6b9580210b1ab5acb6ea0904165a96af3d5a8099c9f0",
     "c50103ecbf672f7f662c6f64951bd51b7c1c7a5837b491938402c99c3ccd1b82",
     "8c789353ccd5cfaceca1dc88c3f87f59389961b109c5fd85ba8f6b3231a2a225",
@@ -4000,14 +3996,13 @@
     "5b0f34e1c8dce48b070090da7bc98cf197617e7716e30baf84b8b56586ee6a1c",
     "df89c593612f12da66e7e814fb1e06fd285d16cce18e16167e6858551c5ae653",
     "a973abfb24c7927bc5f3b4e29f9d558ffa30d8b4a6f3a1ce7b7f6c6caef7eac3",
-    "1819619c702883ddfe41e7c99e1151509577058df5a6a86287715b9e29de0de9"
+    "1819619c702883ddfe41e7c99e1151509577058df5a6a86287715b9e29de0de9",
+    "801aff02c1b01b58dae96b669c42b6ff8a7ef92f6e501077eedb588f3b98f9ed",
+    "bb94fd0777d509ed47ff9e27f744d8e9ad769f38a26f724ae1294288c63e837d",
+    "4b44c34c8fd9d371b1bbf3e01eab73dac72ef5541ffea8a5e8f4f3f858b16022",
+    "61508261334a26fabbb1085029a03478e045744685681c4464dba683189781a3"
   ],
   "title_hashes": [
-    "321c63f99438b937c4487abb10addd4630c65841d1fb59c1791a3a86ef047ad1",
-    "246c13541be4274bf52273ce33935a8f4004bc0542ed1fe9aabe5dd0cb753d3c",
-    "3371cd3a1ead1cf08de5edf1968c73e67e0fc78d819f445cb167413439c3a489",
-    "3c848776e0a09d87edd27d11517fe8661fffd861a3423c66c1494d3759641a58",
-    "39c04abc2fe9a609ec06228d54fbe838fbcb67f8fea67534f4088e558159eec8",
     "8fc6d0753bc1d9c1d0e700ae76844d0bc5e1c820c71b4d0d1a64a1f9663f1378",
     "13fb94df33b3769a14a5fa171b76d47d95d4862972ab0a42ce968e69f02d3b9f",
     "65a4007a98b8adf60ef09ce14c297178d1f2cc4e4958e16a6430823ea61b3f95",
@@ -8002,16 +7997,14 @@
     "d1bff5a01d36fb3026bb790aeb2b2c9cc8dcee7043780b0dd923f75d8e9c3558",
     "b09ec76980221b387770e062a031221fe2dd745e9b7034958d6150a5963bcdf6",
     "d760f33498243dbef1ce2e0da1c685c22430865c4f201be90423bbd07cee66d1",
-    "953e5a65909b12901e5f4f666b22821574ed8a083a67a0b6ca42f907a55344e8"
+    "953e5a65909b12901e5f4f666b22821574ed8a083a67a0b6ca42f907a55344e8",
+    "9e347133ffc19a0954c620d3e6dd8a29816db1248b8fc1c01c6754b9c1fc1670",
+    "29b10736a55afb5b9c6a811a9607f067ff44ffad82919f9cf69218f08e4db6bc",
+    "1a4ff4d67ecc826be6ac202b342bb7c9a568f8c6e8b9b621e17dc801903ea40f",
+    "3421d2c3441b8f3b5e814ab338571e2cab6a8042e9340b1769cdb55fca31ee1f",
+    "683b8a4ca520870790e2835969e382f280f9630ff196dd97eecae637413f045f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "한화오션 하청노조 \"정규직 80% 수준 임금·차별없는 성과금 달라\"",
-      "title_ko": "한화오션 하청노조 \"정규직 80% 수준 임금·차별없는 성과금 달라\"",
-      "url": "https://www.news1.kr/local/busan-gyeongnam/6367992",
-      "ts": 1795740292
-    },
     {
       "source": "조선비즈",
       "title_en": "[특징주] 삼성전자 휴머노이드 공개 기대감에…로봇주 上",
@@ -11504,6 +11497,13 @@
       "title_ko": "영국 레이큰히스 공군기지, 드론 6대 침입 시도…미군 성공적 방어",
       "url": "https://t.me/marketfeed/1086578",
       "ts": 1795843754
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "【赶在民主党州长上任前，得州紧急“解冻”1800多个数据中心项目，开发商争分夺秒抢许可】据英国《金融时报》，得克萨斯州突然重启此前暂停的数据中心项目审批，超过1800个项目重新获得推进机会。随着民主党籍新州长吉娜·希诺霍...",
+      "title_ko": "텍사스주, 민주당 주지사 취임 앞두고 데이터센터 프로젝트 1800여 개 승인 절차 긴급 재개",
+      "url": "https://wallstreetcn.com/livenews/3207322",
+      "ts": 1795844238
     }
   ]
 }
