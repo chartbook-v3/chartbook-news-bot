@@ -1,7 +1,6 @@
 {
-  "updated_at": 1795841724,
+  "updated_at": 1795841902,
   "id_hashes": [
-    "cd3204a3d2fac907cdb962c7ff69e4f54b6f308d69469030d445c6206530a164",
     "95f945a4feb9a22dc07af789df6421bbd4abfe038a111112be602028a4d0b42c",
     "22dd100f9ef73b62550db51bf23faf6b20242a05f419f46941c86e299742f5e0",
     "5eb748a2f49148f720962c2a39fd5110536810fe7d6dd25fbbe7de618ee12ee9",
@@ -4000,10 +3999,10 @@
     "c782bc3980e3fc1903d83fd29b49b34fc3896666d57a33eeac7e5e56553b7c50",
     "d3ca01e69ed8854e2f71478ac58e51639cf6917e76d5c1bc763ca767ecface61",
     "0af7702557c37b545702e2c49651ff4bae066a6a4439dc2f7557d3f9bdb11295",
-    "5b36f33cbffbba8d49d74526e88b8a74cd36310a73d23a56bff7338a0f86291b"
+    "5b36f33cbffbba8d49d74526e88b8a74cd36310a73d23a56bff7338a0f86291b",
+    "d68a511fe48f764a1ac3a6eaa040ef6f3cd6acf7bf2a0682970cf854f02318bf"
   ],
   "title_hashes": [
-    "99f0ad863151f6d6bcda15083be89534db4c710f9099c49995977d943b748776",
     "66ded5e97363a31f2d80f7783c21d92f2cc43899f1ff7c4cad5737a91e5f84ba",
     "59587ee90e665b1dd819fa970104e1cdcfa3824fc4969edeb8ceb1f0b279d00d",
     "13d4110e6a0544d6763bf39ab8ab2d4f7b11baf77bbb1a281f7005f3fef145c9",
@@ -8002,16 +8001,10 @@
     "74b09844285801fe7ce1fcf2768810532f138c620fb75ff9c6eac3b6910a0485",
     "f4545513c581e77fa03cbfaad27e6571f117d65683b6c09de347d7356bffd7a5",
     "9a450e2a214b89612aebc854e7b6f92d0d466a854ac6a15ffb4a8969f172ede9",
-    "b6b1d25f52ed963357e53a4cdf502f2aa5a3d7d5d5fb2925c93c9ef2002ffba7"
+    "b6b1d25f52ed963357e53a4cdf502f2aa5a3d7d5d5fb2925c93c9ef2002ffba7",
+    "f919a69c036e46b47d192a216fbd1c7f7f3c8f040581528861a3883b700afad3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "키움證 \"펄어비스, 내년 신작 공백에 실적 감소…목표가 37.7%↓\"",
-      "title_ko": "키움證 \"펄어비스, 내년 신작 공백에 실적 감소…목표가 37.7%↓\"",
-      "url": "https://www.news1.kr/finance/general-stock/6367844",
-      "ts": 1795739513
-    },
     {
       "source": "연합인포맥스",
       "title_en": "조현범 복귀한 한국앤컴퍼니, 재무능력 앞세워 실적·관세 해법 모색",
@@ -11504,6 +11497,13 @@
       "title_ko": "미 방산주 랠리 심상치 않다…한화에어로스페이스·LIG넥스원 주가 향방은?",
       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509138",
       "ts": 1795841723
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "余承东：我们电池用料太狠成本高的一塌糊涂，导致干不过别人，有时候还亏损",
+      "title_ko": "위청둥 화웨이 상무: \"배터리 원가 과도해 경쟁력 저하 및 일부 손실 발생\"",
+      "url": "https://wallstreetcn.com/livenews/3207319",
+      "ts": 1795841839
     }
   ]
 }
