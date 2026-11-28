@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795875426,
+  "updated_at": 1795875576,
   "id_hashes": [
-    "0860a9a3190cb27c73e174b360ac30f6dc8a43eb0e09ba1635a743ea4a43ed48",
-    "e66fc04566a2ff8d5bc9ce087718c5b9dc2ccaa168dd2455c6621a239d901fe9",
     "6b60725b5f5736b8f78de48edc5594fa10f172b0e5ea540cd5ef7502442a6467",
     "f0d366c6a3c159ed295300ee617c6dc9c706ddc28b5bda382071b81f6e773cc5",
     "d6f77cc2f7cde91022c1cd425432b0c4353779a37eb53c22ba1b7e11cddab6f9",
@@ -4000,10 +3998,11 @@
     "08e3662c07e870fbdd1000053631adba2084bdc4a55824086790b505727e8707",
     "a93aed2492c0106dac718e37f6dec76f1f52d3430bde1e2bafece9e8fe1d1d90",
     "adea24561a5924ba2368b7afbb588badd2d890b77acfb23e939c4b1187b70830",
-    "81e2cc70e737eb510c6c678b7b2831856b1afecafa900b601299a55cd4827794"
+    "81e2cc70e737eb510c6c678b7b2831856b1afecafa900b601299a55cd4827794",
+    "03951bb4964bcf36dfd22ab41c4722a5d9aaf57c30aeda4a5777ce4a21c0f5e6",
+    "346e3fecac850a9728df7860f335992584ad7ec4abb2c74bcefa6bafb5a3d7fd"
   ],
   "title_hashes": [
-    "ed53110999287e2958d4b014a6b26cb4b8b5d7b38e7c9dff452b53e63f06cfc1",
     "3a3c365d0a58bfb4a6a886783bc2aaa83e6053d3c41d98a756d2dba920e94426",
     "938de8ac03cb8fdc9500eef66ae04762e9043c94f939c86192ac5ede871391e7",
     "5da6fa160c0c77d4c5fddd2944571b72de525f7851961b58230319cb04ba0d4b",
@@ -8002,16 +8001,10 @@
     "9fe0ea2318272ad8b58b23a8a8c94005e2f055d0eaa2f4f67abf6865d0504dc4",
     "e02b5b9359027c4711d83107ece8610826009e3c03975279e0d882a056e959d4",
     "75a38d810b056c4d0d612fcaacc133c4482e75a2c0d1068f083f6097377527ab",
-    "cb48b544446c583d3b1c8e0bb9b533cb29616a0543d96b98e793c471089abf50"
+    "cb48b544446c583d3b1c8e0bb9b533cb29616a0543d96b98e793c471089abf50",
+    "e3392c3c2e0d232f95e6929caf21d44cd11607b6420db6653fd4b8ff72a78532"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "MediaTek confirms 2027 flagship mobile SoC launch, dismisses cancellation rumors",
-      "title_ko": "MediaTek, 2027년 주력 모바일 SoC 출시 확인, 취소 소문 일축",
-      "url": "https://www.digitimes.com/news/a20261126PD210/flagship-mediatek-soc-mobile-launch.html",
-      "ts": 1795745229
-    },
     {
       "source": "DigiTimes",
       "title_en": "Musk, SpaceX pledge two shares for every US child's Trump Account",
@@ -11504,6 +11497,13 @@
       "title_ko": "이란-이스라엘 전쟁 격화 시 향후 수개월 내 원유 공급 과잉 기대감 무산 전망",
       "url": "https://www.cnbc.com/2026/11/28/oil-price-iran-war-strait-hormuz-surplus.html",
       "ts": 1795875274
+    },
+    {
+      "source": "CNBC",
+      "title_en": "AI data center boom strains construction labor across the U.S.",
+      "title_ko": "AI 데이터센터 붐에 미국 건설 인력난 심화",
+      "url": "https://www.cnbc.com/2026/11/28/ai-data-center-construction-worker-shortage-texas.html",
+      "ts": 1795875512
     }
   ]
 }
