@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795832312,
+  "updated_at": 1795832470,
   "id_hashes": [
-    "a69b81ac84ada133ed9e597a9055d71f47615eb5f9bfbce423cbc3357182bf97",
-    "76531e079fc7ca3dbdedafa8eb62e8cd31957d9267315d53c9a832496845bb80",
     "179806c9f4009ab5e82086c2721d663bf90f8270d907bfffad851d79b33b40aa",
     "442045835345bcbb65c81dfd841a89491cd3837cc83774b196bd034ad3ec0712",
     "3c50bafd8dc65417db237d9506e685e684b5b80b9403b82043c6de70c8d8956b",
@@ -4000,10 +3998,11 @@
     "6a0beb1697d63dcb46b60cfdd1ec106f64d9b42d7a1e5b415df67d2f620c558a",
     "271d09c4e32d752f4d9c2e401ccd89a3ed352ca5a3ab648b37078b801c0383ba",
     "7cbfa1fd4f31be3eb1de2e0a5cc4ef6f07dfeaeb1e29ad6166b1946200c51cea",
-    "5ed867139aee2b368da8490d5e9386f370b2fbf6b0526fd029234a8d0d1a3f30"
+    "5ed867139aee2b368da8490d5e9386f370b2fbf6b0526fd029234a8d0d1a3f30",
+    "1853dd45eea2414c7eaaadf5cb7e50b940c4e25f2f7c423428ba8e5637fe27fd",
+    "edbec135f4d25058f1e63554e40ef3a7b75283aded60278083171694939616a6"
   ],
   "title_hashes": [
-    "1f4354ea6f20907b75e2dff8ca463e8ec85a14b86a0d4be4654181ec6e25dc0d",
     "37d98969fe3b27bc789d28bdd4eaaf461dce6ed3337e79dfdc16fb9bcc3a2baa",
     "5a8bb321b5d4104ffa45a979ef0e366ed9731b35a7bb717696d5619fff4a2dc7",
     "282dbf14c8f20ac4be67f2b65ab0a7353206037a9c34f907b40392f9dbf68ac0",
@@ -8002,16 +8001,10 @@
     "b5931f53ff351007c10069999629c3001353676bac2c80cf34f332bfeecdb043",
     "ed4cf5cb01f82c78b59d5b9afb41dab376b8060f237a2cbcc9fd93e95879a428",
     "37738cadf99a14865ffab1a8ed2ecd94216d57c5c9f5ed80a74dccedf4065d0b",
-    "5a0d66a39162790a38154f9420f1b668466c4f51469741504cc064da89b52b4c"
+    "5a0d66a39162790a38154f9420f1b668466c4f51469741504cc064da89b52b4c",
+    "82f2694ee71e1635030b9f8adf41609d3d2cceff6d8a6050f5ada92db4b262c3"
   ],
   "recent_sent_articles": [
-    {
-      "source": "전기신문",
-      "title_en": "로봇마다 달랐던 학습 데이터 형식 통일…KS 표준 제정 추진",
-      "title_ko": "로봇마다 달랐던 학습 데이터 형식 통일…KS 표준 제정 추진",
-      "url": "https://www.electimes.com/news/articleView.html?idxno=375358",
-      "ts": 1795737320
-    },
     {
       "source": "디일렉",
       "title_en": "삼성전자, DX·DS 조직 개편…M&A·B2B 강화",
@@ -11504,6 +11497,13 @@
       "title_ko": "美는 달에 원자로 짓고, 韓은 달-지구 광통신 깐다…달 기지 인프라 구축 경쟁",
       "url": "https://www.newsis.com/view/NISX20261124_0003881393",
       "ts": 1795832311
+    },
+    {
+      "source": "핀포인트뉴스",
+      "title_en": "미국 광통신주 일제히 뛰었다…오이솔루션·대한광통신에 시선 집중",
+      "title_ko": "미국 광통신주 일제히 뛰었다…오이솔루션·대한광통신에 시선 집중",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509125",
+      "ts": 1795832469
     }
   ]
 }
