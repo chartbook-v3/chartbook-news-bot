@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795876206,
+  "updated_at": 1795876352,
   "id_hashes": [
-    "678390ef9054732169a5ad1b8eabd754fa7c987c312322f1acaf0fbf1a257663",
-    "0e17e0edb6eefb61101e6275b441ec41b58ac87807dfcf367eb1ac809054ca9c",
     "80ce35d5e02de471747ea3d93d809addb1903586482a86513255939f819e9808",
     "9fdc0dec5421875d484538ac4388ae0f80158b18cba944ae3805098fc2610e9a",
     "5ef4b283b31c6e1be66acb170a16f1600e524e28eea072b5744880745bb6d78a",
@@ -4000,11 +3998,11 @@
     "f7aa7a0da3ffc9ca3d63dbce15a93e11a6a175560b2c2f27bec234fd2b1a1754",
     "3031b2e67360e80c8037230ddd1dc3b5119b8691fa1f43de7e21a4b25cd0d081",
     "ed73de239b84173341fec968a7c4eef5725d16ac4f8ad9a5b7aef55d1e26a126",
-    "799846e8dca1f8fc9c098828e854dff6d584bb1516a94d35dc7b12f270757921"
+    "799846e8dca1f8fc9c098828e854dff6d584bb1516a94d35dc7b12f270757921",
+    "cc81efe76c890f78b0623958903ddc29a945c8d11295a7e65293b2b615ffc16d",
+    "461f81ee5d67dbbc555b90bfc64a613d022d2be43d0bf9e93e0e74eb343e8351"
   ],
   "title_hashes": [
-    "3025dfdda40923153c7c4fcdb7547859c77e7478e4e1483ab01909840ee6092b",
-    "6e7e452230e22a1a8ede2255c5789f534aba01bb559dda40ee42698206de7bb1",
     "805ac1270e1ccd86e189d41a0460efee54f6367d17b818a937d445b667a8331e",
     "7ddb6f030c4bfd2cc8ae95ffbeb28b8644f3717c22d546d66df151716afcbf6d",
     "ef896f826d8af523fc380e06608a1e30e462e5a9b54ad34570c4022159753d59",
@@ -8002,16 +8000,11 @@
     "c9e1e76ada088e034e44976c47887994623356f7c07bef1c142d68b967e1ac3b",
     "261c3989619d95cfd1eedd6366562e6f78730de2f1448641f0ebf6d70662d306",
     "cc614dc8f512dee726f8dfef0749eaa95de00ce0aee019c857952766abf975fa",
-    "446572d44e95efaea90d7415a9e94d0c9dfe11e56f2c87f8638a21c0abdafb95"
+    "446572d44e95efaea90d7415a9e94d0c9dfe11e56f2c87f8638a21c0abdafb95",
+    "a64a6bcd87e05e7b51a2879022d5b3ec49d4fd2e67f8ef3fe617db01b4a9f0fa",
+    "1744fecdf5cacc4588113174228020a6a58df7c09b4fe4669645eed85eef72b4"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "Musk, SpaceX pledge two shares for every US child's Trump Account",
-      "title_ko": "머스크와 스페이스X, 미국 어린이 트럼프 계정 1명당 2주 지급 약속",
-      "url": "https://www.digitimes.com/news/a20261127VL200/spacex-elon-musk.html",
-      "ts": 1795745232
-    },
     {
       "source": "DigiTimes",
       "title_en": "Taiwan seeks to lock in 15% US tariff to shield AI server and chip exports",
@@ -11504,6 +11497,13 @@
       "title_ko": "AI 데이터센터 붐에 미국 건설 인력난 심화",
       "url": "https://www.cnbc.com/2026/11/28/ai-data-center-construction-worker-shortage-texas.html",
       "ts": 1795875512
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "'AI 강국' 러 야심에 '우크라戰 족쇄'…서방 제재·인재 유출·시설 피격 삼중고",
+      "title_ko": "'AI 강국' 러 야심에 '우크라戰 족쇄'…서방 제재·인재 유출·시설 피격 삼중고",
+      "url": "https://www.news1.kr/world/europe/6369279",
+      "ts": 1795876225
     }
   ]
 }
