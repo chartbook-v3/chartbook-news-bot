@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795849205,
+  "updated_at": 1795849381,
   "id_hashes": [
-    "4167734ead52f19094376f27326aa101aac8573f9b44ea1a3cce553d1a0d834d",
-    "d9a900eb9fc8e536739050a5f280d5e07c97fd02710348469bd5fe717cfd2375",
-    "9353228fec658ffaec199a031081db89e815a485bf6026dac95363f277a41fbb",
-    "cabdb33962a6cf67132903c081d0950b36ebe0aacdcd420706ba5372dc29f4b3",
-    "1321bd436c8944491a97560d5abd8a0e7fa858ea72a6c8fa6f279c9d725f846e",
     "a249ec7b4b4cdad6b4a8324d9a6fbbeb15284bbbf2cac503ea7607aa53c34ad9",
     "548d2acd2bfe6079a1689652d6fae7804da9ce7312f3f67b5e97e77abbbb8042",
     "63bd94559839db44ce7095c5117dab71f0da2b1e487a6474c9e77f67a1cbe418",
@@ -4000,11 +3995,14 @@
     "8e9b97f07f70a5427789550871f73810f1d337f0d22f3c3580e5bcb89fc82024",
     "5f01d048ddc4c6c5d46d8ab144b3d3e9965cbb90e3e4428ce0104d9314875b8b",
     "3f0833e80aad166a881248f652f0063ab55e3104827bca088a658ae83c4709fd",
-    "66b627b2b104232392290c60236895f6227866ea4a3f88aa6e5bfa49d853c5be"
+    "66b627b2b104232392290c60236895f6227866ea4a3f88aa6e5bfa49d853c5be",
+    "3146b7d0459f7211bd2f3de458438694e6557d791219b030d65dfd8152467eb8",
+    "64eb00d7bbae11783ad00f4d298870e1cc5410ceb118e9dc5ed75e91cef31ce6",
+    "c631af7fb5a49fdae26569bb4e6170e56682b3c5b6b993259c250b83cbe93103",
+    "4eec02751169ba50e3b1e9ae1f1addcaa6aac2e241c91f1f14977ff5d1f3926d",
+    "dd4077cb431f6e6ed6aa367a28884d816378c9e792476b47f2ba0094b9428371"
   ],
   "title_hashes": [
-    "43c83e0d928efe817e7d493b11df97826ae5da5a6dc7f7183c297cafa5afac54",
-    "44a8068686e5bf2dd303c2a1a5aafebcb2ef7af2552faa361a5c522911e1a2d1",
     "41499951f0ef8460504f77d7270723c857d0e21473c038c60a138cd5b577f342",
     "3058e7a366db3d47cfd9b60a5dc8c445d60804cc67d4779769e51ff88efc47ca",
     "0b087a2d1182a95ac64c16ae024e5453fbd7e44bcc7a05de12415affd3a855d9",
@@ -8002,23 +8000,11 @@
     "9f12a6bfeb71689d371bef340c167d700eeb52d556faa8ec6b06c48242f079b3",
     "24da6db6d29a3b0ff195bce3752719c9fafa173da92edc3c685bb71d7685b10b",
     "f6d51264a0fe0eeeabad4058101e4640e1db0f2f41a1c6b3070a33a5737cc80a",
-    "63f573ec0b6fc4e48777238ef0183b42f2fb7dd0ce0a6fa7c840d7f2122a6ce7"
+    "63f573ec0b6fc4e48777238ef0183b42f2fb7dd0ce0a6fa7c840d7f2122a6ce7",
+    "d79c830f54abdb3f48b70d6f2e6393d7b6bdc417c3f88f0de90209d7b7ba70f2",
+    "efca459727fed26e583be7adb721098ebfe7824af707052c9d8b0bd11e6f0f9a"
   ],
   "recent_sent_articles": [
-    {
-      "source": "조선비즈",
-      "title_en": "[특징주] 안랩, 보안규제 강화 기대감에 장 초반 9%대 급등",
-      "title_ko": "[특징주] 안랩, 보안규제 강화 기대감에 장 초반 9%대 급등",
-      "url": "https://biz.chosun.com/stock/stock_general/2026/11/27/GGHMBZ2VKVE3XNLUPVRYXHZIT4/",
-      "ts": 1795741049
-    },
-    {
-      "source": "조선비즈",
-      "title_en": "셀트리온, 자가면역질환 치료제 ‘램시마’ 피하 주사 日 임상 발표",
-      "title_ko": "셀트리온, 자가면역질환 치료제 ‘램시마’ 피하 주사 日 임상 발표",
-      "url": "https://biz.chosun.com/science-chosun/bio/2026/11/27/CK6ZHQGZTNDEZEQH6CBY2I3GUY/",
-      "ts": 1795741050
-    },
     {
       "source": "조선비즈",
       "title_en": "구글, 외부 AI의 지메일·캘린더 대량 접근에 이용료 부과",
@@ -11504,6 +11490,20 @@
       "title_ko": "리비아 향하던 러시아 군용 차량 수송 선단, 우크라이나 해상 드론의 벵가지 러시아 군함 격침 여파로 지중해서 회항",
       "url": "https://t.me/marketfeed/1086591",
       "ts": 1795849204
+    },
+    {
+      "source": "FinancialJuice",
+      "title_en": "Musk: Google shows interest in leasing additional compute capacity from SpaceX",
+      "title_ko": "머스크 \"구글, 스페이스X에 추가 컴퓨팅 자원 임대 의사 타진\"",
+      "url": "https://www.financialjuice.com/News/9871303/Musk-Google-shows-interest-in-leasing-additional-compute-capacity-from-SpaceX.aspx?xy=rss",
+      "ts": 1795849251
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "US AND BRITAIN DO NOT RULE OUT THE PRESENCE OF SPYING EQUIPMENT IN THE DRONES THAT ATTACKED THE BASE",
+      "title_ko": "미국과 영국은 기지를 공격한 드론에 정찰 장비가 있을 가능성을 배제하지 않습니다",
+      "url": "https://t.me/marketfeed/1086593",
+      "ts": 1795849324
     }
   ]
 }
