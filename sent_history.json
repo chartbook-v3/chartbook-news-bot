@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795840657,
+  "updated_at": 1795840808,
   "id_hashes": [
-    "7848562a7dbe554de285be00a58835e7d887255cd03dbff91e9d0a82cfc0d558",
-    "b3271d494965215b7b2c6cf4828b2a0773a86c97c01007b6bc80af20948c2d44",
-    "6fb01a2bc8202e59e5e4d52a0a594361aa25b02b1595d5b4aa768c1ea91e13e1",
-    "a5501eefd8074803173f66b7b5eb1b927f88a289802e5dbf3382e1e7bea28d1f",
     "75ab23945f2b2fe5eaf6ccc6e2345ca97d204208aba61cbbcf5da8b47d5a8a2c",
     "71c3851716b30d81d862187a10ac1a911391547d5c4c300ae41571b3acdb6fc7",
     "d9477c334930f7430e7fb0c73090ae317a67cca7fe504f93a137916680276fe7",
@@ -4000,13 +3996,13 @@
     "f81ee968b3d375e754653f52fb550ce02ec19633268875038d720935eea1e729",
     "8d76df57e1a4130d8aeef9ef495ed464d889719a07981eb3c3ce55dd55d5fa03",
     "1ee7e1887e50fc8d77fdf831aa8b0de1185ac1ac1c8007d191bbcb53dd9c0b54",
-    "1750a62a0fc6ecec572014bb00511129c149d88a19d97729b8297d8b7bf85d1f"
+    "1750a62a0fc6ecec572014bb00511129c149d88a19d97729b8297d8b7bf85d1f",
+    "08d8f3a0a5c4c4d9cdb9b90a8d3757ef6427e9617c1068fdec6b105258dc5288",
+    "2cb114919c67579ec987ef86012615ab846dec3cce23736fa60d377d08720b94",
+    "fd20e45b696156935470d0598777ee4832bbe35dbfc3c215d45b8e6451f74734",
+    "25f92bfa8db02eaf4bb58baf8fe49464bb744f711affd436c74f918c12dca9a8"
   ],
   "title_hashes": [
-    "4e045944c0a923e05d48aadb07d06eb0ba3b638430f1aad861c5090155e89ce6",
-    "ed2f0762155472f006394eaf5075315f306797ad253f7323b75c5c4a26c70a09",
-    "a97c018fc7cc2c9a9e36de1e73ccc34771864669aebf78d596b9bb84c4671d4e",
-    "9f7f6891829dbcadf3f54d47683641b12970585e963c5aafd9311c253f1691af",
     "b76be75e37b5bf54ff4eac9737394bf4d37dc1abce21ea16a4ca3055501dba6f",
     "a0cf93b732af2993941177c0fbf6cd61b7ef7a71a3c1e3ccf786391dad5a1fcd",
     "1cae0eee687788c53a11620f8e71b3cdc827a21000a01d51e253a48de5b2f6f3",
@@ -8002,16 +7998,13 @@
     "75975ec54b1ca67b17adf63ff4cda3d1a40359c8e0dd66ce702513fed4d85061",
     "62d44f197b630efcda8e890ee3dfc445dbb9c39983eb3d83c3b46d495c6b827a",
     "967c67e8b3a7d05c53c3fc38b007cef458b1ca33e4566f6d7509494422253c85",
-    "37f4c3fdc59df1d00b3a0d16e2f586db997f8afdbc92fc5e6031805d37c60589"
+    "37f4c3fdc59df1d00b3a0d16e2f586db997f8afdbc92fc5e6031805d37c60589",
+    "4a4a6cae43c55d37835a9904db0b4705d5e7361b29a66c2c96ae18b7a842c61e",
+    "f99e9367b1e31913eab0017d16c8ec49391791503981afe4c5355f3eaad5d107",
+    "e08d9f891f55407f504643e2413464421e1d6db6fce67d2cb92eadbd327245c3",
+    "d35d58c6bc82151b383edee003ed36ef94e0840aba8fa68ab55147413e6a4020"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "코스피, 장초반 0.80% 상승한 4748.69…코스닥 2.14%↑(2보)",
-      "title_ko": "코스피, 장초반 0.80% 상승한 4748.69…코스닥 2.14%↑(2보)",
-      "url": "https://www.news1.kr/finance/market-exr/6367960",
-      "ts": 1795739484
-    },
     {
       "source": "뉴스1",
       "title_en": "우크라 지원 네덜란드 겨냥한 러시아…모스크바에 튤립 미사일 벽화",
@@ -11504,6 +11497,13 @@
       "title_ko": "합동 훈련 중 중국 레이더 포착, 캄보디아 리암 해군기지 다시 주목 - SCMP",
       "url": "https://t.me/marketfeed/1086563",
       "ts": 1795840146
+    },
+    {
+      "source": "지디넷코리아",
+      "title_en": "'SK하이닉스 협력사' BKM, CNS시스템즈의 특허 1건 침해 입증 무산",
+      "title_ko": "'SK하이닉스 협력사' BKM, CNS시스템즈의 특허 1건 침해 입증 무산",
+      "url": "https://zdnet.co.kr/view/?no=20261128131611",
+      "ts": 1795840807
     }
   ]
 }
