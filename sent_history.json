@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795840960,
+  "updated_at": 1795841117,
   "id_hashes": [
-    "8173bc034a3f998d4b4a8da010ef26f2c51fe4669d7149bf1900d68bc4224031",
-    "3ac939afc336596593aaa59013722e199c79f900308abc9864b816bcb2a4e794",
-    "3004bc5f0e839981027d363d0fe5311424a995d9807cef933d84349969bb4dd3",
     "c850da26e856a662ec3427676a0838379c4e09a275cf10d3abe59748962bdc2c",
     "1f64c3e0467d86557fe1392e505058143adb6fe4435e2d14a97ab04f92c408a5",
     "44f899c9dd069a762d98f7164143772bd4a92efd3fd5c9ca0c399e0ce1c180b3",
@@ -4000,12 +3997,12 @@
     "055be492c47e62662ca8310351a004550251a351c28c781a7dfe4170859da6a2",
     "f60bf79ca760f6310ec11dbd0cdac913cb61654a2528eee4002168919fa9c437",
     "f23d56e05b4d34e26258a6d9c2fab9a51921dbddced83e0a3ab74a66bf1f594a",
-    "3f77e5524bdc689961565488f8e9c0ddd322d7ce9200a5ee5dd4fc503c2297b0"
+    "3f77e5524bdc689961565488f8e9c0ddd322d7ce9200a5ee5dd4fc503c2297b0",
+    "44d34a352e62bd8a699865312e0b13cae4ee92b377815eec90475f0841559977",
+    "e34c0b0e99cc287a0c2dc776df72d1b98fc6acfb331d33139519e5d0065df8ef",
+    "7c23705c6524b0d8f7fd610178680c28c2477dff1d676737aca7f00212b436d7"
   ],
   "title_hashes": [
-    "583b2cd843fac5c9a83ebf5fa2153818023abbd23160f3e0f539d63291f5cf33",
-    "783ae2c9a1e030a5f6ca055cd720f4ef3151028e114327b1ae328a11a32f8639",
-    "f141f9b4261428db493067a22b2485b7baec638e5fe845f02ca6a2f5bf1e759e",
     "eb0ba7621e6574147b3e2c9d8f9187432c323673b248881b23bf32a6c39ecd2a",
     "efe2ed4360ce5151c7e0bc224cb4a5b2376d50cd66693e114dbea3ecd9e6d56a",
     "0e7f78eabcc51a80b6d44b87e0dd4b641f577b077adeb9221efde4489d6a61c8",
@@ -8002,16 +7999,12 @@
     "b2e39ac8a6cbb9b6ed1bf510bf9e17e4d48a5a5593cd4339641932da305ffac1",
     "307e1601fde2eafddf0d5e8cdf108362d015135336a7acfbdd0e9f916a4f9d96",
     "3a2a5b86c223282bf03c533efa86306648f94f3fb7eba7cf80ee7f14124dd80b",
-    "c5c170597878705e6fb8934ca55180dca5115a742764182c5dbd74c845d5effd"
+    "c5c170597878705e6fb8934ca55180dca5115a742764182c5dbd74c845d5effd",
+    "741ceeb7a8975adb758b15734e59b1a8d4207863155a080a5e138c20075255b1",
+    "2244ce96b392174032688ed183964e1148d09bb45bedd11ab9ce3bb2c8781149",
+    "493c0c39c40a4b3c419d08cc31e5502ca31f0629dba390cfaf3e889c7ff24f7e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "금감원 검사·제재 투명성 높인다…계좌추적 통제·권익보호심의회 신설",
-      "title_ko": "금감원 검사·제재 투명성 높인다…계좌추적 통제·권익보호심의회 신설",
-      "url": "https://www.news1.kr/finance/financial-policy/6367748",
-      "ts": 1795739509
-    },
     {
       "source": "뉴스1",
       "title_en": "조직개편·공공기관 지정 피한 금감원…검사·제재 '대수술'(종합)",
@@ -11504,6 +11497,13 @@
       "title_ko": "일본 항공업계, 2030년 조종사 부족 심화 대비 착수",
       "url": "https://t.me/marketfeed/1086565",
       "ts": 1795840959
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "崔东树：1-10月汽车行业利润率3.2%、收入增1.9%、成本增3.2%、利润降26%",
+      "title_ko": "최동수: 1월부터 10월까지 자동차 산업의 이윤폭은 3.2%, 매출은 1.9% 증가, 비용은 3.2% 증가, 이윤은 26% 감소",
+      "url": "https://wallstreetcn.com/livenews/3207318",
+      "ts": 1795841116
     }
   ]
 }
