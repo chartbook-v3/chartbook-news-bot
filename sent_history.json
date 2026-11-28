@@ -1,13 +1,6 @@
 {
-  "updated_at": 1795852275,
+  "updated_at": 1795852432,
   "id_hashes": [
-    "71656ac3449e7fe46d15bdf1496706ff98172e44917fb5109bc5ebaad438229c",
-    "f89f5d648df61700112630d9c7928bffd3ddb5bdace2bab3a3e90f77f7665a73",
-    "f6e75adc630f27fd97c11ddee31dfcf5d6347ccc86e5eb420aa2187a7536326e",
-    "6dfec699dda518c23031a771576be1573142f1ce5685fcf3d7899cbecfab4386",
-    "d9bd4c8741effb67dde486aa5ebfbfedfb3772e183e0bb6cb21afa4dea2d96bc",
-    "ff923314f23e19a7a9bcca6000b04c17b2777cc3cc150955a9360235140dcfe8",
-    "e0a670a9285b085ede7b5f58a2b1d9331a8a14151eaef156e3f8600ef572d985",
     "6dadb2a3f7bd982ab7c00fa041df9e3faa801abe366a734d9d6a7ee51ae9e8f1",
     "37376dffceeaf53b5ab7bc16218a691ff8af582553df383b24232e9961e955f4",
     "5d2e7062d63bde494818ecbc47b8cd16b0add3bc2d1afb74ee2bb1afdb147068",
@@ -4000,13 +3993,16 @@
     "3c17cbd16e7980756a5a8217cecccd9a5c745dc227064530ef07130c7408dfc5",
     "50afb4a95164602e659c8826e800e62ec702345465968655acef494250855901",
     "8be6ca7a7b3d4534a5b006ea71b7637f5e83f73ba30e945a74e6f64b0f844b27",
-    "c830e1be7fcd112255a04289abf4594f8d79f5185ade545c3af49bfe7cec4310"
+    "c830e1be7fcd112255a04289abf4594f8d79f5185ade545c3af49bfe7cec4310",
+    "796bce19a9c0fc2db7b15a2aa74e5abd532c212b382c4088f61f45c01f00adbb",
+    "c80b3deb845895752ea5a4841784b4eda86a8d92e3640b3cc8dee68d173bb081",
+    "3373120219ba12adea9451f0e8b11712af7309ddef71ed10345f3de03bcfd45e",
+    "e074b6a018fc9e7278fd3bb8fa9fda9f096a04667628d28acb1109796da1accc",
+    "982f8628850fa4594617c92bf5faeb25d7f62c403655b2675102f731b239c7e9",
+    "f021c7c6c3575c2504becb05a5c24309bd34ccf9cdd8611ca400a46ad4d51676",
+    "58e785d78869bee08157320669e635dc4446ffe9ec4081873a6bcde9b80e2045"
   ],
   "title_hashes": [
-    "80bf73c988e0e723116c7fcdbffff427eddec0abfa2ac9eedf6a4f33d707eb3c",
-    "9bb94fcc829742d10183afda7310adcfd4fb89789729c9810fb08e200bc51f34",
-    "a3b3fe6f57c049ac0416718b01182cf40465d63b14128aca4266c84390a274b4",
-    "b40439c3188be763aac3e74559c2e5e46580fd73ca4b23c85e582ecbe74a65e5",
     "790025bf704e0cade12eba6ebcc26109a85e937c9a020a93ad454917f0f0ef6a",
     "76a6766407cbf1ce70cb9d87a8a2447cd00d014238766b8e4b97b577e829ecbd",
     "4535cc22a821af11f419df1d7b6753f1123b00c1816a870b10065b32b104f385",
@@ -8002,16 +7998,13 @@
     "248c2d75a71cf34e8ef3cab9738ccc0e5f78ff28ae7f407ceb6feca855974118",
     "0ff49e784a5d1802df990316fcdcc7b5dca044891e283fe8c84d2bf6855c6b06",
     "c13c2025a3bebe15946f64635a911e8a46aa96bf21bc52e0ee4b18c20441defb",
-    "b895c47e07e059643ba454cc9c98537d8bde45bc352114b5ac9a6f9a87746daf"
+    "b895c47e07e059643ba454cc9c98537d8bde45bc352114b5ac9a6f9a87746daf",
+    "afa7e32574f53a72d154809f1e61c7876825a4ed3d5d57de6b47ffeabe6ebece",
+    "9eaf4a9d315aa4b4409572af56de2ef1fdf802867aa0c41bc605e4e7813b66eb",
+    "fc6b04e6d11c651088eade1d2917fa9dea0a18f452e4d37b64b388ddd76dd082",
+    "a9b3037947024174b1d0400776f2817ebd7c3b5530b27e16b37ddbc2fe818e70"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "TAIWAN'S OVERNIGHT INTERBANK RATE HOLDS STEADY AT 0.805% AT OPENING",
-      "title_ko": "대만의 은행간 익일 금리는 개장 시점부터 0.805%로 안정적으로 유지됩니다",
-      "url": "https://t.me/marketfeed/1086080",
-      "ts": 1795741299
-    },
     {
       "source": "와이드경제",
       "title_en": "[특징주] 쎄트렉아이, 위성·방산 테마 매수세 유입에 강세...5161억 수주 잔고 부각",
@@ -11504,6 +11497,13 @@
       "title_ko": "러시아, \"지난밤 우크라이나 드론 1,246대 격추\" 발표",
       "url": "https://www.reuters.com/business/aerospace-defense/russia-says-it-downed-1246-ukrainian-drones-overnight-2026-11-28/",
       "ts": 1795851185
+    },
+    {
+      "source": "전기신문",
+      "title_en": "전기적 잡음 최대 100배 줄인 차세대 2차원 반도체 소자 개발",
+      "title_ko": "전기적 잡음 최대 100배 줄인 차세대 2차원 반도체 소자 개발",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=375410",
+      "ts": 1795852431
     }
   ]
 }
