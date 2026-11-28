@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795846628,
+  "updated_at": 1795846779,
   "id_hashes": [
-    "6b45600419a5b7f07afa2ad5b74c3c2afc29cb6a20aab0650d47fb86db09c4f5",
-    "e2ba063765534db1545319e24dd49b387805115afe994fb898c7ffbd8d8bdb54",
     "fc2d792f94a3d85d1574017bff5dc5ea3dff773f1ecf7e6d17e81e6ae60b9447",
     "4c33f7d9360b82614d8471260c0124198e4c11157fdf599160e6dd53e880a7d2",
     "0b76f0af4251851e60426d0be1025a92ac3c6259a736c8f61c7efa41df00a597",
@@ -4000,11 +3998,11 @@
     "89472c48525161f40b7961e24ce13ec1a0e3e3458371a0fa24653a42ec6d913b",
     "8ccac0b891b80852e00f6438b14c8751bd920dccb95e4fcdd1a199024569fb9f",
     "5306fbd936afc7c7d5738132094d107c99172a343e0b6636319ac731e3534bc7",
-    "caa288436ade209d207fece15b083bc7dd01c4e5ae395903eaaeba99b0dfa7d6"
+    "caa288436ade209d207fece15b083bc7dd01c4e5ae395903eaaeba99b0dfa7d6",
+    "1187fcf4d8257118445d1f1429237f4fae48cac2def31571b8dfe7e631079557",
+    "63a86ed262b3500608ba7e66075a2d84173f2621e546dd3dc9e93da077425b8b"
   ],
   "title_hashes": [
-    "413221c266ea70e3e5fd010b69edb8564ab99c7526aa6695415bb23436fb7aa3",
-    "fc73945768b8d27de17731e5f2b8e8702811aac343bab57927673f089d60ccf6",
     "91e3e735f56a98f019a9f5ca7aa13514165dac3ca6025249c18de4e917d7e435",
     "efcee5c9934efc8b114006b07f65980f339b50fbded23d0a723ae3d9f96020d4",
     "3abcd4aa3458c733a716d5ecb8da8b2f0e5c14f2d518fa22582616a7c1cb62d1",
@@ -8002,16 +8000,11 @@
     "8f58250051e6e7fa029a2e3c2d5fc4858cef2f7af14fb7d42247c74f2ffe1f60",
     "78337a0827fa7df747feabeca33dd13482ec20480b9a118155250cb1c3535a8e",
     "e743d785e2d8c17a0176fd82c4ceb304415a6c8613fff504c457ad15c1ca26c3",
-    "419a330e52d91d6e235d83041dcacacb20f3d48a728010a0d1902bc2356872d9"
+    "419a330e52d91d6e235d83041dcacacb20f3d48a728010a0d1902bc2356872d9",
+    "d9434577e438be0ca2dd9d07f0938496f4443bf0ac31bcd0cdc89b40135544d3",
+    "61d0bca7d810a8698b3fb1dca6b4fdc7a157bd177898d8325ac131ac3ba03380"
   ],
   "recent_sent_articles": [
-    {
-      "source": "파이낸셜뉴스",
-      "title_en": "중동 전쟁 긴장감 고조에..방산주 장 초반 강세",
-      "title_ko": "중동 전쟁 긴장감 고조에..방산주 장 초반 강세",
-      "url": "https://www.fnnews.com/news/202611270938373206",
-      "ts": 1795740671
-    },
     {
       "source": "MarketFeed",
       "title_en": "BOJ EXECUTIVE DIRECTOR STRESSES CONTINUED IMPORTANCE OF CENTRAL BANK MONEY IN MAINTAINING MONETARY TRUST",
@@ -11504,6 +11497,13 @@
       "title_ko": "\"韓 청해부대 임무 확대에 이란 경계…전후 호르무즈 영향력 약화 우려\"",
       "url": "https://www.news1.kr/world/middleeast-africa/6369139",
       "ts": 1795846178
+    },
+    {
+      "source": "CNBC",
+      "title_en": "Defense company Chemring protects NATO fleets. Here's why an activist investor wants it to break up",
+      "title_ko": "방산기업 켐링, 나토 함대 보호에도 행동주의 투자자 분할 요구 배경은",
+      "url": "https://www.cnbc.com/2026/11/28/defense-nato-activist-investor.html",
+      "ts": 1795846778
     }
   ]
 }
