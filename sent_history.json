@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795843289,
+  "updated_at": 1795843442,
   "id_hashes": [
-    "6750126fb2f767b5273706d655f6df943bf74b9aac90512d74a046087594e081",
-    "5f9d74f72e4948bf163379e5a69e1dac6965b9378298836ef435fb1513745bcc",
-    "59624ed0edb064aa188bcf9d7b085d0f2212a405dcb491dae46bc387d11c9bde",
     "09ea8831de9458b87b78620c07a66d8fe62a69faa6eb8cedcd6a5b9d20ae39e3",
     "92543cc784ace40eab5b3a199ad9fcfd879e55b67340bcd2786f12f201a4ee3a",
     "45e91f6423b729a4891412b9f977bf0497deaeccf56d4d892bc01318373c3f2f",
@@ -4000,12 +3997,12 @@
     "ca51db03caf2d9203061f8897a1275a0806304108aba33400ba78c99639e174f",
     "db943bfa6a74156d376a73ba427de4f3d65948e149c15a6afdd8a4b8d61d62ac",
     "51e20c92688eb7adf48eaf2ae2444cbc7619533a1605fe1070893b004d543d9c",
-    "d9a42c210bb05538f0ad8fdfb4c34678c4f5933ea454a106c707da3e1630df6a"
+    "d9a42c210bb05538f0ad8fdfb4c34678c4f5933ea454a106c707da3e1630df6a",
+    "c9142e07ad0e6ff032cf9371f00479e3ece9cc0c41f68447a88ce7234e67cc40",
+    "527707cfe96f676b61d95e7b08d67c2ad6ad3ce11d6e3f41350b8762bff6f52b",
+    "95bd02d91c56fc8c20e28325bf0e2d4d28dfc821bf00b382af11f50c8e210376"
   ],
   "title_hashes": [
-    "0cd8d29701a3c4064c9fbce17ae855a170006a098544fb8730c32e83a5d1f385",
-    "be63509731719be734ccf3c2b5e8336095d799516eb37d4a11d757b8209ab8ef",
-    "8c61e6ef77ee1c9e3e27e8cccb0af9f47359d0671e91334a4ad97ac403bb73cb",
     "a69d703641db59c67aa055540db1add1c10e663f98906a8ea4fc9057bf8d9fdc",
     "35b4a94038e3e04104d3ed10d34f27d659617f1ad00fa69f2fc22c7ab1fba89e",
     "e4fff15f4487d35d577648216e50f8f51a6abcfac786fb216703fb5c02dfce9c",
@@ -8002,16 +7999,12 @@
     "c76745f8b79210cd9abc4e7465ce8bab3c78467f92b634552c5aa539caf85672",
     "14cc9945202493a3a1333467921e5719219691903ef82da429161c22c4dc8dd4",
     "cd8f7095ee126edcb78252d8bd34ff03bd36b996dd6eb65e3dd793f75ac70e7f",
-    "e8a16950be1495da2943b428e4c02485162cee733a87a174afa929fe23ba5f2f"
+    "e8a16950be1495da2943b428e4c02485162cee733a87a174afa929fe23ba5f2f",
+    "14222adc67860bdfd1e0072d40d60d4e88041729deab40540be50542fd67a782",
+    "7672a825281d7cc6529962022975001b4df7f3c965f4bd0225b15ea35aba4280",
+    "ab979c4b53ed27ebdfb94ead701d03b77cc3339cae0c42dee7cd75f44075547e"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "삼성證 \"에이피알, 닥터멜락신 인수로 성장동력 확보\"…목표가↑",
-      "title_ko": "삼성證 \"에이피알, 닥터멜락신 인수로 성장동력 확보\"…목표가↑",
-      "url": "https://www.news1.kr/finance/general-stock/6367850",
-      "ts": 1795739984
-    },
     {
       "source": "조선비즈",
       "title_en": "원·달러 환율, 2.5원 오른 1345.2원",
@@ -11504,6 +11497,13 @@
       "title_ko": "로봇 응대, 물에 빠진 차량..중국차, 요란했지만 실속은 없었다",
       "url": "https://www.fnnews.com/news/202611281404449095",
       "ts": 1795843288
+    },
+    {
+      "source": "뉴시스",
+      "title_en": "머스크 위성통신 제한 장기화…우크라 드론 손실 늘고 작전 차질",
+      "title_ko": "머스크 위성통신 제한 장기화…우크라 드론 손실 늘고 작전 차질",
+      "url": "https://www.newsis.com/view/NISX20261128_0003887104",
+      "ts": 1795843441
     }
   ]
 }
