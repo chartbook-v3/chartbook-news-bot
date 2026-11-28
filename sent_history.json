@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795836537,
+  "updated_at": 1795836685,
   "id_hashes": [
-    "58ec893bd7e7289957038fa5eb40639e6476a0ef7d1b404adcbc182f24c19ddc",
-    "fdb16fd8c90c192162487ef9dcead82852e0e19391859e2b3e94fde28c9792a4",
     "93f2b7975e43fc6e7458822d82880534c839d67076260aeb05c1efbadc9ad23d",
     "38d802a96db3d0fad2ab430e14ce2a24d98558c203a817cd7479ede1f7ceb88e",
     "4074332cfb64f5275c12653055720c7060f125f66b0fdc3fd306924c07b20ee6",
@@ -4000,11 +3998,11 @@
     "aa9b10eaf4743dec421615ff74182d53359c1cea6db297b7dd3af070d24c8c5c",
     "d6a5a7ffb6479eb328d51d04299468878e289cfaf93eb840022fcb895e648eeb",
     "28b695f25e141cbc4312989276f569946d45acba035b8d41fb045bc42cf8104f",
-    "678a56de8ae6224bd5d1899a295672797bb78a340d5d68ea9bd9553bf5b34f98"
+    "678a56de8ae6224bd5d1899a295672797bb78a340d5d68ea9bd9553bf5b34f98",
+    "8a2c6e57e8eaf41f680f6bc376c3f49d0bb13dba0a94e8f1e8d76bd0b19eddd5",
+    "0c5db7f73aca63968b73ae8704651d76a199c61646ca257b52199a70fc7c2da1"
   ],
   "title_hashes": [
-    "1ae8b57bd3d6837f36c4129dffdf7acc7c7db0da38d5668f1813c1a06b78271e",
-    "c0b4794981511df2fda0a85392843c9a13513f623ef9421a82df50d8080d655b",
     "1f31af646d00e2cc7f55d17712bdf45f4dad6507b9c24a81e52caef316890202",
     "4dd4f9a237d36f45d7e365a35bc1f302ad011c45d9178ea471023fef16d38049",
     "e06dd847193b5470eb15e6d970048e1f1c011fd478706ad2e9c6ce1469fbc92d",
@@ -8002,16 +8000,11 @@
     "83e390b79386ebfa2a92a9804878f40e34fcfa66260cc7249232cc2ad93d488a",
     "55d0358a835bf7b1890641b0aee624f6f4b7b16e9aca2dd6f68680cda0dfe97a",
     "7b1512039f81dce8d6101b219a5ef494d09084b593b355b8c8ddbc5675a9f09f",
-    "a78d43beb08b5a598987b1a7c305bedd58482960827c27d6c95085c19fdf90dd"
+    "a78d43beb08b5a598987b1a7c305bedd58482960827c27d6c95085c19fdf90dd",
+    "49b7cf55e1002f1fdcf1e605f09267832008a58db3904d37905138cdf4971a6a",
+    "916aa6a5d346338f430058495e50d67b102a87d86f393fc13bbfce164dbfdb4f"
   ],
   "recent_sent_articles": [
-    {
-      "source": "뉴스1",
-      "title_en": "W컨셉 '더블유위크' 흥행…24시간 세일 브랜드 매출 85%↑",
-      "title_ko": "W컨셉 '더블유위크' 흥행…24시간 세일 브랜드 매출 85%↑",
-      "url": "https://www.news1.kr/industry/distribution/6367845",
-      "ts": 1795737977
-    },
     {
       "source": "조선비즈",
       "title_en": "LG유플러스, 현대차·기아 로보틱스랩 배송 로봇서 5G 단독모드 검증",
@@ -11504,6 +11497,13 @@
       "title_ko": "튀르키예 외무장관 \"메카 방위 협정 신규 회원국 가입 프레임워크 논의 착수\"",
       "url": "https://t.me/marketfeed/1086545",
       "ts": 1795836536
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "TURKISH FM: ALLIES ESTABLISH COMMON PRINCIPLES FOR POTENTIAL EXPANSION OF MECCA PACT",
+      "title_ko": "튀르키예 외무장관 \"동맹국들, 메카 협정 잠재적 확대를 위한 공동 원칙 수립\"",
+      "url": "https://t.me/marketfeed/1086546",
+      "ts": 1795836625
     }
   ]
 }
