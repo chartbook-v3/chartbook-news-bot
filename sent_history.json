@@ -1,10 +1,6 @@
 {
-  "updated_at": 1795835934,
+  "updated_at": 1795836086,
   "id_hashes": [
-    "64a604cb67614e41c7ed211cf1416c3dc175788682292688e56077a8987e2336",
-    "d4e436437b00a82ae98b4f996e1a2d89a38b9a394c4e2c4d0c6f3041652036e3",
-    "5cc8c731a5796595eb41c208afb94b97e03d6737aa6f594706120e207e8aa514",
-    "ecc950261e2b9f7f8f1985b6c4efe12e1842937242ecc8c7aef0a586e1cc0d6c",
     "1c02dccc7df3f86b6ffb6e372e85b017caf475cb32abce62a46a5cb034d645df",
     "00e91e34240f1b2ff95fe36e79ffdaf31b843081674912815308fb181710b618",
     "92b3ab0db741b8571c2c24f232d4e3aafd3c1dc8fb8264cf6fede74596d30186",
@@ -4000,13 +3996,13 @@
     "7d585e0dfe92440f4fe67d5c66b1aba8e4cddeaa4338d578fd0bc25a0d5ec99b",
     "e9f5b16aa878b77fc4b64c9d1e16d820eab208a326e767b5e6b848268ed53806",
     "e6a90ed2e9ae82351dc39217b66b51659cd81020f0a6be93b02808c0617d8712",
-    "8138fd5a6ee13535400b27b78edb43f29648a098d62296d5f8912445523023df"
+    "8138fd5a6ee13535400b27b78edb43f29648a098d62296d5f8912445523023df",
+    "9819c771df9593be9bd2a8df25faf19ab454c7793ac6ddac5e13b6e004d9447b",
+    "6adf7f86ae82bdc12441dca04f191d84dda9edb1d59c69cff4a8f2bc5055562f",
+    "c4df3bfa085c03df50dca23f6cd20a776fca4040da3f2c30ca0fcb105c809549",
+    "2887fec63eda7b68652be6d67479a5f3b334857327b251c2bc8bf7ee2c9c5f24"
   ],
   "title_hashes": [
-    "697f5547357aa5d62f471a361456cc1dfb299418050ed479731ad7cb0777f75e",
-    "834d710ad2543275be9db75469793e651c23b9886ae3f54ecbc083506ef7d2e5",
-    "c2ed1d9f82a5b0f90566f76fab7a7c8de47bc196037494aa23fd1814ea8dd62c",
-    "442c2af0e0b93b028ac03daa27f3246aba0ab425552cb524f4733261269871c0",
     "5be51659a916c0bf0ca728a0d90860757bfbff78339e45160aede315342657e0",
     "013422e5b3394665a1f3222ac12e443505e56c0385ef2b65035a20f662832749",
     "11b767c9667f92eb82b1013daae9878d5c4a04b49a52d5e5ced13ccb43f9328a",
@@ -8002,16 +7998,13 @@
     "1786d6eff421f4abefc8ace94314df6c776953c1949d012bd39a0e8dd479e93b",
     "898fe0370e6c93cae4b22f0873ce6bfc011ba670275fc22fddb46402f8aba376",
     "63981695fc9451282b9da5f4e8066537549f066f160212dbdb9e5f780f5aa167",
-    "911e5ab2a8e9af1bdd54f8dd906f43d3bf4e39d57c4d56fc16a26c5abd02cca2"
+    "911e5ab2a8e9af1bdd54f8dd906f43d3bf4e39d57c4d56fc16a26c5abd02cca2",
+    "26dbff2263f129fdf9add0318e47234071370e8b0ee598c6772e23c05cfc12d4",
+    "78b8687525f9cbdc37243216e99651ca773cef4ad656c3553ff01dee12965c35",
+    "b5f050ade83b5e357fd2ae67c0fde3ace55916d7e4d6531687f579fde381de49",
+    "e0fec6aac4f39fa0392b600b62b0b95e8497f09ec2000189c74bdcd9e6556084"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "UK VEHICLE OUTPUT ROSE 4.8% YEAR ON YEAR TO 64,141 UNITS IN OCTOBER, ACCORDING TO SMMT",
-      "title_ko": "영국 자동차공업협회(SMMT): 10월 영국 자동차 생산량 64,141대, 전년 동기 대비 4.8% 증가",
-      "url": "https://t.me/marketfeed/1086057",
-      "ts": 1795737887
-    },
     {
       "source": "DigiTimes",
       "title_en": "UK-Based KEYWAVE Technology and Taiwan's ESMT Sign Strategic MOU",
@@ -11504,6 +11497,13 @@
       "title_ko": "스페이스X, 머스크의 스타링크-테슬라 합병 기대감에 주가 반등",
       "url": "https://www.barrons.com/articles/spacex-stock-musk-starlink-tesla-merger-4fa1b482",
       "ts": 1795835933
+    },
+    {
+      "source": "뉴스1",
+      "title_en": "GS, 동해 1.2GW AI 데이터센터 첫 삽…허태수 회장 \"AI 산업 명소로\"",
+      "title_ko": "GS, 동해 1.2GW AI 데이터센터 첫 삽…허태수 회장 \"AI 산업 명소로\"",
+      "url": "https://www.news1.kr/industry/general-industry/6368628",
+      "ts": 1795835957
     }
   ]
 }
