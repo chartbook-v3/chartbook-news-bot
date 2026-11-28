@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795850284,
+  "updated_at": 1795850439,
   "id_hashes": [
-    "01e7499a7a522d61f35fc3dc0992b79454ad27b13462d95a046ff468a3d7e35a",
-    "2408480338e07734d1705b2ec162c71666e00fdc3f52cb1e21860e2dc29e57f3",
-    "67458b3eb79f8408eb6350d48b747f57f95ce799f67758016859db1b73a430b4",
     "f9bfa4239893b772d0de753f6ffa24c8da6799be9d69b7fd926cd0237b64f11a",
     "68489622182cf22056a6da840333d1d982dcf6059c18d8d59bed0344eaaebf0c",
     "e58ac03b35a4dc4ab48856f1177643a372a0a6f7dfecaa0e75fa52bc43e287be",
@@ -4000,12 +3997,12 @@
     "cc7903d01a31bc387f69c0846a2b3c50be0311c5944e02679f23bd2b6977e04f",
     "63beb43b32baa40b0919c2f53596e621f837ce015884dcdd64876145acacf99d",
     "6e3be19a37824d4750267b4e8160a83a6e67aad5ab8438c10c65a02b9666a79f",
-    "0a9806edd17056872e76fcbb1a40661085a284296fd018c8d013031b03cfdfe4"
+    "0a9806edd17056872e76fcbb1a40661085a284296fd018c8d013031b03cfdfe4",
+    "21fab7d79a0360ebfa1f37b93e2bfa61547fd15c9e7b9faca598ed1b06fc8ded",
+    "4624ffd4f369c74e04e6aed6e5fbbbea71cbd468abe4126046e96f69e922515a",
+    "a91223684c5787b1d3439d61fec92b287ad165303cf1854d8f7a0c0ddde29293"
   ],
   "title_hashes": [
-    "f2f93d07323f78c5f4a5480b406cb2277cbbbd4d870beb8b8f4ad6c0794ae073",
-    "df8d9f74a5b08bedc9177f60338a74d9aad77073a68f34d0d2ee9b1ba52eff8b",
-    "aead352d3f25a18ec86bf69ad5bb8863725139573a82843193e2d935561bdd33",
     "a2a369238b60243a15d784abfb697b41501e004289c4b740fd21b24f13a6bb05",
     "c5574d9220e8634c2fe815fdd104699364ea04ba5ba8de43b5e2c00e1280e033",
     "e2ad7cef54acd8cffd42e894d851c3ca7e241e1d8705349ca6cff547a2a2205c",
@@ -8002,16 +7999,12 @@
     "a1c74e29d583007ec7a05960b07ed8864ae3348d6e41b11ce8f3444bc2ac07f0",
     "81e7e58eecec9ee7db5c4f3ee7da2c63051b7467888d41f33da67ca66a5ef096",
     "52ef9bdf7651c4db28b4a2777ff665a18961957d9d3f3811f2dbdb29ce76f152",
-    "ae869228ace4bf5ebf1eaf19f7b9677ca586c7fd7fdb5db63764b3ae8d01e834"
+    "ae869228ace4bf5ebf1eaf19f7b9677ca586c7fd7fdb5db63764b3ae8d01e834",
+    "e7a17353f6e4f930a5b103de4c39675fd780cb3a6493778c06e5434b4cf0d4aa",
+    "af909a034056714a8243b8aa9097bc817f7ecf218322620b3a8e2893829c2def",
+    "1f3d59b3b59ee98fd548ba1a105e183d85fdb2d86bf7d4f4f2f14d62f79daeac"
   ],
   "recent_sent_articles": [
-    {
-      "source": "연합인포맥스",
-      "title_en": "\"금리 상승이 주식시장 위협?…역사는 다른 답을 내놓는다\"",
-      "title_ko": "\"금리 상승이 주식시장 위협?…역사는 다른 답을 내놓는다\"",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446900",
-      "ts": 1795741207
-    },
     {
       "source": "전자신문",
       "title_en": "마스턴투자운용, 타운홀 미팅 개최…“데이터센터·NPL 인력 확충”",
@@ -11504,6 +11497,13 @@
       "title_ko": "李대통령, 강릉 주문진시장 찾아 연말 물가 점검…오징어·노가리 구매",
       "url": "https://www.news1.kr/politics/president/6369151",
       "ts": 1795849682
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "何小鹏：机器人交付后首年预计实现良好盈利",
+      "title_ko": "허샤오펑 샤오펑 CEO \"로봇 인도 첫해부터 흑자 전환 전망\"",
+      "url": "https://wallstreetcn.com/livenews/3207336",
+      "ts": 1795850438
     }
   ]
 }
