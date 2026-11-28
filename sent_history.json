@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795845409,
+  "updated_at": 1795845571,
   "id_hashes": [
-    "de7118f15219dd6610491cb08724c1766be5551a7a364e7671008a20def92707",
-    "c5172b8ac48c5d92fe2e88d776568de84e1a40b756687cc27221fe280d77e1a5",
-    "a2481185fc97e8cd0407fbee9dc39a43240f0ae47e938ea41a6b18b954b7c0f5",
     "5bf045b2aab769ba86e0580b79b7b3be407547b8642417900d86193fe118c943",
     "10973aa36c316296c0dbdb946653c7a932ab2438f728b59e4ef7b707d1e9ce8e",
     "5480456a8b29eed07ac450c97c43826dd2efd45c7e30613f39d14f67bf5fcb36",
@@ -4000,12 +3997,12 @@
     "8f70a30f6a28566590ca6caba03e7235d58252c85dad9f1fa493ffabe91f90b5",
     "47080dc3a727d2137e0ee695ec802e0cf8ddaa181341690faa1571281704c0fb",
     "7fae97cb237f43077b193d94322c7ba12442465d3b6516e50f8fe37b55912d36",
-    "50d8655ddb9d95cf9b431f5d0334f299ddf14577a0ec6f60c1bf545dba176484"
+    "50d8655ddb9d95cf9b431f5d0334f299ddf14577a0ec6f60c1bf545dba176484",
+    "4959497cab5bbcbd9d1c436eefad9bdf46b4015e087d4015b53173ec350d2d34",
+    "515546f5ccd1557ae1bfbc0ee08ba53638c3778c663df2e4b1268af6e183fca1",
+    "b28c06eee24d2a955f9c78ce844cc7fb1178a253075898b7fd0236b8a4559ede"
   ],
   "title_hashes": [
-    "3b2ed33619da0a03db685348669db3795340d6092061611ebb0ecd4037684066",
-    "d8b3a09d27301c812e2d974553e345ae01a69455156aeea38c5fccc715989bf1",
-    "4bf09568398dded14b2073979ec9e8c92b27d25d954e37ff9b56689c68d5999c",
     "333345fc4bf0f3dc2e34d7fc2db8f36444413eea9cd1ffe826995ccdd9e9359e",
     "57ff325244f2bf21ba55f7789c62b9cd1910ae20e9c2a5a704d4728e177b3962",
     "cd9b4b3ca1ff787d17d104234a1f1aa79dab924fd141f3d18cbf51ed827d1002",
@@ -8002,16 +7999,12 @@
     "bb16d916b14319d86100e7468b935533805580e7eb7699ffbdf0aec38184102e",
     "4ac50754e150369d81a2ae786630b5fe35015460682151d6ff6c63951953147b",
     "cebf4167f030716274b955122ffbf739e823d02075736c16810990825f0c4469",
-    "63217c31b479d33a16dd548e062e8a62cfe2d0b2bb986a870d4b0ddf107be2ce"
+    "63217c31b479d33a16dd548e062e8a62cfe2d0b2bb986a870d4b0ddf107be2ce",
+    "9a236b3ae99e352036984f0a07d54f080f4389f0412fe1701cd2ad0731db31bf",
+    "bf1a24b2f756e428a0b5b18bd300c63d16e5189d9283d6ca6e0e2cfe74ddcc87",
+    "b9604eeae288f964ff3af680c5198aa4a8b9704372c4575bf526e2c231532e74"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "JAPAN FOCUSES ON STRENGTHENING DEFENCE CAPABILITIES INSTEAD OF THE SIZE OF MILITARY SPENDING, KATAYAMA SAYS",
-      "title_ko": "일본은 군사비 지출 규모보다는 국방력 강화에 중점을 두고 있다고 카타야마는 전해",
-      "url": "https://t.me/marketfeed/1086068",
-      "ts": 1795740430
-    },
     {
       "source": "조선비즈",
       "title_en": "[특징주] 아리바이오 직상장 소식에…아리바이오홀딩스 6% 급락",
@@ -11504,6 +11497,13 @@
       "title_ko": "호주, 관계 안정화 속 중국과 남극 물류 협력 재개 추진 - SCMP",
       "url": "https://t.me/marketfeed/1086582",
       "ts": 1795845191
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "US ENVIRONMENTAL PROTECTION AGENCY CONFIRMS NO LEAD FOUND IN DRINKING WATER SOURCES AFTER IOWA DETONATION",
+      "title_ko": "미 환경보호청(EPA), 아이오와 폭발 사고 이후 식수원 납 성분 미검출 확인",
+      "url": "https://t.me/marketfeed/1086583",
+      "ts": 1795845569
     }
   ]
 }
