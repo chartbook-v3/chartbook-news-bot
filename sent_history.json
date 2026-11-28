@@ -1,14 +1,6 @@
 {
-  "updated_at": 1795875119,
+  "updated_at": 1795875275,
   "id_hashes": [
-    "b2307b0d0fd3a4a1ecd026771aa23a511f786cde66e23aa64115fd3f3b2edaf9",
-    "21dbbb57bce28aac1f58a4efeb4525877909ad99dfd2eaa47094edd2a67591af",
-    "df4a5687a1b4fbb3b184100955afe254531c55d93a52fedd6819b50d9b9c53fd",
-    "4573a856f4f029b9afd08afe242e8163289e5a1cda0f975925119ba6d367c3d7",
-    "e196b5a4ae70ae214838dcd3396b8a90f6823d2fbf359ca470f0ccb4badfff46",
-    "bc2ac287152d3c7f4c714b90b8339bf39ca8e1dd156eeffb073e931bffb3aeb1",
-    "501da9b3ad20b1894334652deb23dfa5c8a2ddd94ea1c263f3ccadb94c21e6d5",
-    "1a3f1ebe4ff3712e137c300dd3db8f4c3eef041e5f79337374662653e2cbce27",
     "7bf1ecdaf683e118fc3d1acad1dd304e4413f9085c613beb9253949fa178a573",
     "213ef9532f182e23d478222cdd972db025dff4a77c13249dd89862026305fc61",
     "51d368ebf141c92ef3dd237cfe92c3b08a8dd6fee7dc3d34c66e1022128442df",
@@ -4000,16 +3992,17 @@
     "115ff00321261b4021ca16af93e514f58f3ddb7a77983ced9caf934b77659265",
     "b02d86c8bb319705ed8a95fe5cdeb214acfe10a5e69bec4c85350b1eddc183c6",
     "1184f34a0fa481f9fcdbaa6336e481af4e32622d86e4650fbdda8f8626b38a75",
-    "4716af623f4b28b54c0529d1f38e883d080d427481438143d9226684a29b0ff8"
+    "4716af623f4b28b54c0529d1f38e883d080d427481438143d9226684a29b0ff8",
+    "40645cc1f19babf0d53c83451cd7f1c0fca08b479709dee6ab76e6b83d921439",
+    "3ab353011449dedca1f480fe272e114b4cd543617a5773937b3077ce7eb231f9",
+    "60ff3b561eeefe65d5fcd1bd860273773cea4863b892b6b499e8d0837734c5df",
+    "b2a465aa028452f34bfd42f8fb23b4a58b31b05795c8fca26a08912cec4886e9",
+    "56fc7f07139bb377b49052f89218e6b7ed7796484583fce5fb33653320318b24",
+    "866648f9dd50dc361d432f894c664ef0da011d9d0951a8ae857014cbf0968278",
+    "9122288e8e6b2a31580194c063b6f86a9684cc1b80767200cf1c204093799784",
+    "ff17b6cbc2c397a188d0accfbe222c8ce42e331cdf092d0b513085c819e98d49"
   ],
   "title_hashes": [
-    "507ab030e23d875e3050f4413d0dad6e153cf21e6409dc9d73a43b26390c391c",
-    "bdf0a2e5e44c96fcd2ec1db609c2a2604e09a49511462b46779e57eb4b8ab857",
-    "8546f81d438dbd6bf26742f5e304922803b88f8494d09f472c62cf1f09950856",
-    "b3f7cb25937db91d85e925f82cd3442eb2f5192ce261d536793bc36faa496a2c",
-    "7f3d24272a615e6516833378a227ed1d8f22a747de0dd6cd783fabe53314132a",
-    "f3cf4a8fb933f2dc428658ec43f9980310dff380975e518e2fd7fdccc1d1b9ae",
-    "a27f602c571142357442274533c45af96e872e2c8ebe1eddfa022a3835f091dc",
     "e0266090051ceab550e18145e01e7e6715249cf5d5eef8e5207da0cfcbfd36f1",
     "4577d160a5685ea137529afdbdd0a9829f7c8eee87b62a3b513c3091572cd2dc",
     "58d03c57a66a04b8c88ffa8a69244380f5ecdb65132634e03ba3d7a3da4d4712",
@@ -8002,23 +7995,16 @@
     "790f131e1ea43ba8c76a0c485a3ba9e215bad0287ac9e6657e0e02a6d046263e",
     "fed50aa6f4b00587fa7ec70e993e0f6c1ee57335daec37f2dca2ea70c6b91f53",
     "0e2c873e0d5d8c0bf664f632e9779f2aa28879446b6c0d063c50f9e8e98da193",
-    "a726afb3b535ef665848a8bd0235db1a9abcff97c47c56acc29f166118bb4578"
+    "a726afb3b535ef665848a8bd0235db1a9abcff97c47c56acc29f166118bb4578",
+    "322fcfb86affaa28198c657a3c7707f0e98ca154e6e500299317808f66019796",
+    "ee8b260f37199a07002ee8c20d1cf9d50fd4d2595d1ed0ea334f3048e834f85a",
+    "ffae7f202b7bf5f4a95897c77bc434bb2879a4fc8f7f6efbaf3704fcf281684e",
+    "ab99a4b4e55efe2c560ebeff659d969664f13a00708924b9896612e5ecf14386",
+    "fcaec467421cd6c9a240e9df6bc3c72725e128cc288b9020983767462f91ca31",
+    "fde16fde16c33918e0838a4f84357a76da15c6ab64001793cfe93c48f14c5947",
+    "58079151f7be97e71de858700fced0e04feeac6a7a2687e48dbb7b9cb2012438"
   ],
   "recent_sent_articles": [
-    {
-      "source": "DigiTimes",
-      "title_en": "Transtouch targets aerospace, memory to drive 2027 growth",
-      "title_ko": "Transtouch는 2027년 성장을 주도하기 위해 항공우주, 메모리를 목표로 하고 있어",
-      "url": "https://www.digitimes.com/news/a20261126PD229/transtouch-technology-2027-growth-niche-revenue.html",
-      "ts": 1795745221
-    },
-    {
-      "source": "DigiTimes",
-      "title_en": "US Section 301 tariffs spare key chip markets, but Vietnam clouds Taiwan's 2027 outlook",
-      "title_ko": "미국 301조 관세로 핵심 칩 시장은 여유로워졌지만, 베트남은 대만의 2027년 전망을 흐리게 했다",
-      "url": "https://www.digitimes.com/news/a20261127PD210/taiwan-2027-manufacturing-investigation-chips.html",
-      "ts": 1795745225
-    },
     {
       "source": "DigiTimes",
       "title_en": "MediaTek confirms 2027 flagship mobile SoC launch, dismisses cancellation rumors",
@@ -11504,6 +11490,20 @@
       "title_ko": "미 국방부, 이란의 USS 에이브러햄 링컨호 타격 및 호르무즈 통행료 주장 부인",
       "url": "https://www.cnbc.com/2026/11/28/centcom-iran-abraham-lincoln-hormuz-tanker-claims.html",
       "ts": 1795874909
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "SYRIAN INTERIOR MINISTRY: TWO PEOPLE INVOLVED IN TARGETING SECURITY PATROLS IN TARTUS WERE NEUTRALIZED DURING A SECURITY OPERATION.",
+      "title_ko": "시리아 내무부: 타르투스 보안 순찰대 공격 가담자 2명, 보안 작전 중 사살",
+      "url": "https://t.me/marketfeed/1086656",
+      "ts": 1795875210
+    },
+    {
+      "source": "CNBC",
+      "title_en": "The Iran war could shatter rising expectations of surplus oil supply in coming months",
+      "title_ko": "이란-이스라엘 전쟁 격화 시 향후 수개월 내 원유 공급 과잉 기대감 무산 전망",
+      "url": "https://www.cnbc.com/2026/11/28/oil-price-iran-war-strait-hormuz-surplus.html",
+      "ts": 1795875274
     }
   ]
 }
