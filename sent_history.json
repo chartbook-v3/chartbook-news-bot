@@ -1,8 +1,6 @@
 {
-  "updated_at": 1795873280,
+  "updated_at": 1795873437,
   "id_hashes": [
-    "c98ca2bf8d022b8381bcb8a0bf0d3feb5aa0c8cb9259694cf9f4cf3f4fd3dd5c",
-    "f668ce63f63a8e94037cf76e0201ef4ce30add82c6a1c18977e2cf279a7a1215",
     "c185956d0c411c85efb793e89aa46470b3af23fa1251cb9015c1177b64256250",
     "0f8492c2d24ffcea91d75f74d8de961ca60cf411c3fee63c12354c7be30b189d",
     "be1c6d4bbadb28f8d337bb668066d2ccd1105a8bbbe786722626bf1d6c5f8914",
@@ -4000,12 +3998,11 @@
     "ead82f209e4efe176a5eec4c79a3869508ec52a915ddb48ff53ea5c04cbf83ae",
     "735ebbb48439f91e38ce4687a502e0e5d308dc10744f237f379047cd4096516f",
     "e030c1b6c3f7431844a995fe708bfe24d1ce8b3108f153c6addd48692c917b83",
-    "f5bc1f31036992f625f68ba7737c2431870ea3c8df6ba10d27a8496f4cb48cc7"
+    "f5bc1f31036992f625f68ba7737c2431870ea3c8df6ba10d27a8496f4cb48cc7",
+    "253ef81942a896a0cc9672b2ed5ec066dfc767862c83d6d33a43646e788829d9",
+    "1d2c408b13d35affcc6b77df985050f73257eb46f332da6579fdf8f423e78989"
   ],
   "title_hashes": [
-    "ab796fd07dae1c2f5db39de0860f46245faf7ef2f1208188d39fe4d862b21687",
-    "99706fc5700333f24346ec10a6e72422797a22041e7c0490e516e74158ef5401",
-    "192da6beba6e27f18fa5d509c5f81c46bee4e3d0c8f3335799b8263fe3fb6c0b",
     "a715449533f72d39ee548c70ef91240fd78d58af61146ea3be56858120be921c",
     "7aed827e3dee3101b06ce9785dc84b84637801c4ccf61139ecfa810bbdc1ab8e",
     "decca524d769d41b8d3983cf725e4b35e9de1a8c49976afa9d9be52876a664b2",
@@ -8002,16 +7999,12 @@
     "7568366e785f70824288a6c0ce3738b88a68f9e1ab4ebaf00ee8606ed8524c7b",
     "55b5dd0a743aee2eb53eb518fc9697b4a6388b3e097539d63a1a636c512eec90",
     "cf95d27dd77e9dd0a12661c355e0353436f960f2bb5099fc2531ae5f9be52a5f",
-    "b1cc0d62f1c67eaa98aa045d92a5088db0d8e95772288b9270e45a53e6b52784"
+    "b1cc0d62f1c67eaa98aa045d92a5088db0d8e95772288b9270e45a53e6b52784",
+    "27d54a97b56e08853e70aa0267a024ff7be142406899d8aa194136e3f25768f2",
+    "b2a73d232cc26a7e782a3844930dfc60281dd1d4cd6b642acba0060ad7bf0759",
+    "9c51ad32ab5cc977653fc8c93c599daa50881eb6a00f83f418bb4c25182d5d5d"
   ],
   "recent_sent_articles": [
-    {
-      "source": "한국경제",
-      "title_en": "\"반도체 자립\" 인도, 수십조 쏟아붓는데…한국 수출 2배 넘게 뛰었다",
-      "title_ko": "\"반도체 자립\" 인도, 수십조 쏟아붓는데…한국 수출 2배 넘게 뛰었다",
-      "url": "https://www.hankyung.com/article/202611274065g",
-      "ts": 1795744841
-    },
     {
       "source": "서울뉴스통신",
       "title_en": "우주항공기업 성장 지원 본격화…‘뉴스페이스 펀드’ 2000억원 조성",
@@ -11504,6 +11497,13 @@
       "title_ko": "$AMZN $WMT $TGT - 미국 블랙 프라이데이 온라인 지출이 131억 달러 기록을 세웠습니다",
       "url": "https://t.me/marketfeed/1086648",
       "ts": 1795873160
+    },
+    {
+      "source": "Tom's Hardware",
+      "title_en": "Save $400 on this RTX 5070 Ti gaming laptop — MSI Vector 16 HX AI with Intel Core Ultra 7 and 16GB DDR5 RAM drops to $1,599",
+      "title_ko": "MSI 벡터 16 HX AI(코어 울트라 7·16GB RAM) 400달러 할인된 1,599달러에 판매 중",
+      "url": "https://www.tomshardware.com/pc-components/save-usd400-on-this-rtx-5070-ti-gaming-laptop-msi-vector-16-hx-ai-with-intel-core-ultra-7-and-16gb-ddr5-ram-drops-to-usd1-599",
+      "ts": 1795873436
     }
   ]
 }
