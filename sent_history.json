@@ -1,9 +1,6 @@
 {
-  "updated_at": 1795868539,
+  "updated_at": 1795868687,
   "id_hashes": [
-    "fd80acc46915d6e82e243d24460672d1828394f2e7e1cac0f1051a964b5beb35",
-    "daf3d93ea7949abd5980a2b956f35b5f7be34619aa0a4aa3f397ca53e19451a9",
-    "e5314ea17c3be8c4f7362eb0aed05a068a97c67f531215c090a7a1b09a5e2589",
     "e05028f1013968a8799629b9011998a3a6764ab69bb9b9c1e564180d84d85e42",
     "9974a3a82c078cd533ba60a035e492748c413d2382959574cb97c873173dcb00",
     "bc521ae50235cb6bead4f4b1413d4a0a36635dc62b776664a26bd6fd17004f46",
@@ -4000,11 +3997,12 @@
     "634924e2b8a023f520123b3f93e459e196d521b92d905f498aa22732005b5aa6",
     "d721c8d29b8ad73ede88fb04d29af8e4d21ae6ab21bfa9fee750ee90d9a29a67",
     "856b8ec708c15de0bad6d1259bb3b5379e7d0d03e54a806fbb3874780550e922",
-    "0885247ae4c452fcbe43b35f5aa25ba04d46a37e3d2a870fddcb3a4bb296a0f7"
+    "0885247ae4c452fcbe43b35f5aa25ba04d46a37e3d2a870fddcb3a4bb296a0f7",
+    "43ba39e80d8dffe32713f35511710c232ee0760a8194072dc26061745ef70dd4",
+    "7c6cb15b8089de376145f47e936cc934d740d389c5249f9607f48c6d534bdfb3",
+    "f50256ca428c713fbb78b569775369968c35b3221c0271bc3a18c46b42d03e67"
   ],
   "title_hashes": [
-    "6796a7f64e695c4418c4314b7f514e93114c516246d67ceac986be5ee96a3bed",
-    "52f29307fe74bea7b72ca0ecc47967c3ccd23898d0ab09acf79e7688ba60a3dd",
     "c1a95ec991a292539d9140466d49bdfa5b934b3e481accde5a4c5ed23382023e",
     "f31d475ed9753b0b3c6adffa5f7964a361ad4156dab4678dc72cd0318a704f8c",
     "0dcf1739ad8d34574b166006ef417824cf66dfc9c135dc4456b1c4b1356dccb3",
@@ -8002,16 +8000,11 @@
     "0a58b564563cc5538cc9197ebaba380e24bf31e46a7362e734c9cf29d9baa4fb",
     "48c4a86e4e9b7fcac385a96a740200ed84949749fbc518ba2d798a2af2dc5cb0",
     "6057c9d23b1f3ce678984d015cb2dd6ed7c3742dcf552427b9294979bbbd4440",
-    "b4575768eb0c475a6707646d2bb297dc2d47870b1937891397d7f33af456a7be"
+    "b4575768eb0c475a6707646d2bb297dc2d47870b1937891397d7f33af456a7be",
+    "b332f07dd341dd4e4568515a8c0e55d1ee0400855924b9b9605cc99c1bb44763",
+    "784fe5919a4fa0509afa7a45843907bf42e6845738b03995e5d4893557369025"
   ],
   "recent_sent_articles": [
-    {
-      "source": "MarketFeed",
-      "title_en": "EURO STOXX 50 AND DAX FUTURES RISE 0.2%, WHILE FTSE FUTURES ADVANCE 0.1%",
-      "title_ko": "EURO STOXX 50 및 DAX 선물은 0.2% 상승하고, FTSE 선물은 0.1% 상승합니다",
-      "url": "https://t.me/marketfeed/1086093",
-      "ts": 1795743613
-    },
     {
       "source": "연합인포맥스",
       "title_en": "[오늘 외환딜러 환율 예상레인지]",
@@ -11504,6 +11497,13 @@
       "title_ko": "인도 SEBI, Pre-IPO 주식 교환 플랫폼 평가",
       "url": "https://www.bloomberg.com/news/articles/2026-11-28/india-s-sebi-weighs-exchange-platform-for-pre-ipo-shares",
       "ts": 1795868488
+    },
+    {
+      "source": "Wallstreetcn",
+      "title_en": "苏州光通信产业基地二期启动，计划总投资150亿元",
+      "title_ko": "쑤저우 광통신 산업기지 2기 착수, 총 150억 위안 투자 계획",
+      "url": "https://wallstreetcn.com/livenews/3207367",
+      "ts": 1795868625
     }
   ]
 }
