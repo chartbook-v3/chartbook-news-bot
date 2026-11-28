@@ -1,11 +1,6 @@
 {
-  "updated_at": 1795835482,
+  "updated_at": 1795835629,
   "id_hashes": [
-    "9f21116861b649430e5b1330e5510c6bf2b05ec779cc5d9362543a8e4a584642",
-    "220ae059d07628f913f93ff259905747ea6275dadf36156994f5a9722327aa6f",
-    "ee3b2ea5088a4037cb400501d6a2c8391957fce3a591489f005abfb909648e61",
-    "546dc2491b978172a052beb4b83b218d94738229709be9884031b8efabadcec0",
-    "fd9a9843f42e8d2a37c8baaba5a1f0d601feb140f63499547532200ceb85fc53",
     "b2bc3d01929f35dded8e7749d706f5da72abc348ce48badb63e47f9b9389ec6b",
     "7ef2f2cc86d886ebd6dde164a280d1ecafa7dfa999f946ad0bd49ea78d08cb7e",
     "ce5e1909944ef07a54a98c31933a0ae9174fa7e3f276100f5ef168ff0eb58bf8",
@@ -4000,12 +3995,14 @@
     "53da08fa417c708b40f5978615eb6c0fb01a1caa0752c1b5e9486b6c88fd093d",
     "b0de6b36afeb8bddde9affb4d831f4142afa0ca7a27e57b1a37b907336369a18",
     "1fd88e480735330ed06e7f7cde4a43f77f3ea26193318f190628374569e974ad",
-    "996410e5ff4e7b6ac5c95b80cf05d6c50b1aed227a9fa506769f7b3d33320864"
+    "996410e5ff4e7b6ac5c95b80cf05d6c50b1aed227a9fa506769f7b3d33320864",
+    "dee5f7037012f62317592e32c834a5e8f6e0b93c1fe9a2abdc245bc5f2236875",
+    "86a8d20b756d842e847e5e2a28d3d9c9de5dc4ef83ff6ac447d8a6be99afa756",
+    "70787bd7c1bc8ab9ab3f361886248424d368ec9c8305a9a7df8006144fa83f45",
+    "eb125f305635165ab7eee93445301c5b6476f2c42c7a9aa07c9bf5e64819d0e3",
+    "f1fc1b843ed9f470061190132a5d3b0098bfc164990123c7cd7f89f256cf2887"
   ],
   "title_hashes": [
-    "4392202985988911112ec4bf191b09d45677d1f37041a32626dca2b493b36a1b",
-    "4cc7fa36a53397360ecc899fd5d85f664551fdda6ed35948ad33fc148e9d4152",
-    "1f9baeec753aaabdba3ba4c1709605d25c7e65973d7e7a9984fd9f9333c1ba17",
     "6a8d491c602b91bc15055a77bc55406d19324c2c036e89aebeff23cead63b210",
     "8afe82b07ab2ac172dc8080d3d9022308783e1012e4117fb21d0815353ea4afe",
     "694c84e1eba128d3e75222e34cd69df0fcc56e8fb98a2535466ffdcb761ab245",
@@ -8002,16 +7999,12 @@
     "c25a6210460ec8493db809e39275c0f113465612a639d499f21264d491b2e352",
     "a1d849baa3fc1f40f48dabda0e464a8fb82a47a2846abd964a04d8ba9c1b8f1b",
     "c63e5761b79e69ded78c26f02a1095b880522511835aef6a6fa552d1c7d05270",
-    "b5dd2294ffb71467440c079c7040485914231c79086201a4e182026b95c644f0"
+    "b5dd2294ffb71467440c079c7040485914231c79086201a4e182026b95c644f0",
+    "ac46ac2b1cbb1c97ec83d0921771c31f4d134e25b14c5c1450a7afc07c24a380",
+    "c34c21cf18820e549a670b8c32cc7d724d944d08e9555eba79e8433c180480d4",
+    "67a237c5a11b67444237aa15d85f9a396a32a1b9e458e2ad1f15577b4d208545"
   ],
   "recent_sent_articles": [
-    {
-      "source": "매일경제",
-      "title_en": "브랜드 501인수한 APR...증권가가 보는 적정인수가는? [오늘 나온 보고서]",
-      "title_ko": "브랜드 501인수한 APR...증권가가 보는 적정인수가는? [오늘 나온 보고서]",
-      "url": "https://stock.mk.co.kr/news/view/1206924",
-      "ts": 1795737640
-    },
     {
       "source": "연합인포맥스",
       "title_en": "삼성전자 하이닉스만 보고 있으면 살아있는 섹터들이 안 보입니다",
@@ -11504,6 +11497,13 @@
       "title_ko": "아시아 최대 규모 동해 GS AI데이터센터 첫 삽…최대 120조원",
       "url": "https://www.yna.co.kr/view/AKR20261128029800062",
       "ts": 1795835121
+    },
+    {
+      "source": "MarketFeed",
+      "title_en": "KCNA REPORTS NORTH KOREA TO CONVENE KEY WORKERS’ PARTY PLENARY MEETING TOWARD END OF DECEMBER",
+      "title_ko": "북한 조선중앙통신, 12월 하순 노동당 중앙위원회 전원회의 개최 발표",
+      "url": "https://t.me/marketfeed/1086541",
+      "ts": 1795835573
     }
   ]
 }
